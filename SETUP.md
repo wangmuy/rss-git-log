@@ -1,4 +1,4 @@
-# Setup Guide - RSS Reader with GitRows
+# Setup Guide - RSS Reader with GitHub API
 
 This guide will walk you through setting up the RSS Reader from scratch.
 
@@ -28,8 +28,8 @@ This will install:
 - React 18
 - MUI v7 (Material Design)
 - Zustand (state management)
-- RSS Parser
-- GitRows (GitHub integration)
+- Browser-native RSS parsing (DOMParser)
+- Browser-native GitHub API integration (fetch)
 
 ### Step 2: Create GitHub Repository
 
@@ -151,13 +151,13 @@ If you see errors:
 
 1. **Read some articles** - Click on items to mark as read
 2. **Change settings** - Toggle "Show Read Items"
-3. **Manual commit** - Click the save icon to commit to GitRows
+3. **Manual commit** - Click the save icon to commit to GitHub
 4. **Check GitHub** - After commit, look for `logs/2025-12-21.json`
 
 ### Understanding the Data Flow
 
 1. **Session Storage**: Read status saved to browser localStorage immediately
-2. **Auto-commit**: Every 5 minutes (configurable), commits to GitRows
+2. **Auto-commit**: Every 5 minutes (configurable), commits to GitHub API
 3. **Manual commit**: Click save icon for immediate commit
 4. **Log files**: Created daily in `logs/YYYY-MM-DD.json`
 
@@ -178,7 +178,7 @@ Edit your `rss-config.json` in GitHub and:
 1. Check the README.md troubleshooting section
 2. Look at browser console (F12)
 3. Review the planning documents in `dev/active/rss-reader/`
-4. Check GitRows documentation: https://github.com/gitrows/gitrows
+4. Check GitHub REST API docs: https://docs.github.com/en/rest?apiVersion=2022-11-28
 
 ---
 

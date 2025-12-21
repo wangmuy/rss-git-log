@@ -1,17 +1,17 @@
 # RSS Reader - Task Checklist
 
 **Last Updated:** 2025-12-21
-**Project:** React Static SPA with GitRows Integration
+**Project:** React Static SPA with GitHub API Integration
 **Status:** Ready for Implementation
 
 ---
 
 ## 📋 Quick Reference
 
-**Total Tasks:** 50
+**Total Tasks:** 96
 **Completed:** 0
 **In Progress:** 0
-**Remaining:** 50
+**Remaining:** 96
 
 **Priority Legend:**
 - 🔴 P0 - Critical (Must have for MVP)
@@ -76,35 +76,29 @@
 
 ---
 
-### 1.2 GitRows Integration Setup
-- [ ] **P0** Install GitRows NPM module
-  - Command: `npm install gitrows`
-  - Verify installation in package.json
+### 1.2 GitHub API Integration Setup
+- [ ] **P0** Research GitHub REST API v3 capabilities
+  - Read: https://docs.github.com/en/rest?apiVersion=2022-11-28
+  - Understand endpoints: GET/PUT /repos/{owner}/{repo}/contents/{path}
+  - Note: Base64 encoding required, SHA needed for updates
   - **Status:** ⬜ Not Started
 
-- [ ] **P0** Research GitRows capabilities
-  - Read: https://github.com/gitrows/gitrows
-  - Understand path format: `@github/owner/repo:branch/path/file.json`
-  - Note: `fetch` mode vs `pull` mode
-  - **Status:** ⬜ Not Started
-
-- [ ] **P0** Create GitRows utility file
-  - Path: `src/utils/gitrows.ts`
-  - Implement: `createGitRowsClient()` - creates client with config
-  - Implement: `readFromGitRows()` - wraps client.get()
-  - Implement: `writeToGitRows()` - wraps client.put()
-  - Use `mode: 'fetch'` for client-side reliability
+- [ ] **P0** Create GitHub API utility file
+  - Path: `src/utils/github-api.ts`
+  - Implement: `createGitHubClient()` - creates client with config
+  - Implement: `readFromGitHub()` - fetches file content
+  - Implement: `writeToGitHub()` - commits file with SHA
   - **Status:** ⬜ Not Started
 
 - [ ] **P0** Create config type definitions
   - Path: `src/types/config.ts`
   - Define: `RSSConfig` interface (sites, settings)
-  - Define: `GitRowsConfig` interface (owner, repo, branch, token)
+  - Define: `GitHubConfig` interface (owner, repo, branch, token)
   - **Status:** ⬜ Not Started
 
 - [ ] **P0** Implement config reader with validation
   - Path: `src/features/rss-reader/config.ts`
-  - Function: `loadConfig()` - creates client, fetches config
+  - Function: `loadConfig()` - uses GitHub API to fetch config
   - Function: `validateConfig()` - checks structure
   - Handle 404 errors (missing file)
   - **Status:** ⬜ Not Started
@@ -128,10 +122,16 @@
   - Note: Public repos don't need auth for reading
   - **Status:** ⬜ Not Started
 
-- [ ] **P0** Test GitRows read operation
+- [ ] **P0** Test GitHub API read operation
   - Use public test repo
-  - Verify `client.get()` works
+  - Verify `readFromGitHub()` works
   - Test 404 handling
+  - **Status:** ⬜ Not Started
+
+- [ ] **P0** Test GitHub API write operation
+  - Requires GitHub token
+  - Verify `writeToGitHub()` works
+  - Test SHA-based updates
   - **Status:** ⬜ Not Started
 
 **Phase 1.2 Completion:** 0/9 tasks
@@ -141,25 +141,24 @@
 ## ✅ Phase 2: Core RSS Functionality (Days 3-5)
 
 ### 2.1 RSS Parsing Engine
-- [ ] **P0** Install rss-parser
-  - Command: `npm install rss-parser`
-  - **Status:** ⬜ Not Started
-
-- [ ] **P0** Create RSS parser utility
+- [ ] **P0** Create native RSS parser utility (no npm dependencies)
   - Path: `src/utils/rss-parser.ts`
-  - Initialize parser with config
+  - Use native `DOMParser` for XML parsing
   - **Status:** ⬜ Not Started
 
-- [ ] **P0** Implement fetchRSS function
-  - Signature: `fetchRSS(url: string): Promise<RSSFeed>`
+- [ ] **P0** Implement parseXMLFeed function
+  - Signature: `parseXMLFeed(xmlText: string): RSSFeed`
+  - Detect RSS vs Atom format
+  - Parse items using DOM methods
+  - **Status:** ⬜ Not Started
+
+- [ ] **P0** Implement fetchRSS function with CORS handling
+  - Signature: `fetchRSS(url: string): Promise<RSSFeed | null>`
+  - Try direct fetch first
+  - Fallback to CORS proxy services
+  - **Status:** ⬜ Not Started
   - Handle network errors
   - Return structured data
-  - **Status:** ⬜ Not Started
-
-- [ ] **P0** Add CORS proxy support
-  - Primary: Direct fetch
-  - Fallback 1: corsproxy.io
-  - Fallback 2: allorigins.win
   - **Status:** ⬜ Not Started
 
 - [ ] **P0** Create RSS type definitions
@@ -179,7 +178,7 @@
   - Check CORS handling
   - **Status:** ⬜ Not Started
 
-**Phase 2.1 Completion:** 0/7 tasks
+**Phase 2.1 Completion:** 0/6 tasks
 
 ---
 
@@ -253,22 +252,24 @@
   - **Status:** ⬜ Not Started
 
 - [ ] **P1** Implement log reader
-  - Function: `readLogFromGitRows()`
-  - Handles missing files
+  - Function: `readLogFromGitHub()`
+  - Uses `readFromGitHub()` utility
+  - Handles missing files (returns null)
   - Returns parsed data
   - **Status:** ⬜ Not Started
 
 - [ ] **P1** Implement log writer
-  - Function: `writeLogToGitRows()`
+  - Function: `writeLogToGitHub()`
+  - Uses `writeToGitHub()` utility
   - Merges with existing data
   - Handles conflicts
   - **Status:** ⬜ Not Started
 
 - [ ] **P1** Create commit function
   - Function: `commitReadStatus(siteId, items)`
-  - Gets existing log
+  - Gets existing log from GitHub
   - Merges new items
-  - Commits to GitRows
+  - Commits to GitHub API with SHA
   - **Status:** ⬜ Not Started
 
 - [ ] **P1** Add batch commit support
@@ -279,7 +280,7 @@
 
 - [ ] **P1** Implement error handling
   - Network failures
-  - GitRows rate limits
+  - GitHub API rate limits
   - Merge conflicts
   - **Status:** ⬜ Not Started
 
@@ -576,7 +577,7 @@
   - Invalid formats
   - **Status:** ⬜ Not Started
 
-- [ ] **P2** Handle GitRows rate limits
+- [ ] **P2** Handle GitHub API rate limits
   - Detect 429 errors
   - Implement backoff
   - Show user message
@@ -628,7 +629,7 @@
 - [ ] **P2** Write integration tests
   - Full user flow
   - Data persistence
-  - GitRows integration
+  - GitHub API integration
   - **Status:** ⬜ Not Started
 
 - [ ] **P2** Create README.md
@@ -637,7 +638,7 @@
   - Usage examples
   - **Status:** ⬜ Not Started
 
-- [ ] **P2** Document GitRows setup
+- [ ] **P2** Document GitHub API setup
   - Step-by-step guide
   - Screenshots
   - Troubleshooting
@@ -664,16 +665,16 @@
 | Phase | Tasks | Completed | % Done |
 |-------|-------|-----------|--------|
 | 1. Foundation | 16 | 0/16 | 0% |
-| 2. Core Features | 25 | 0/25 | 0% |
+| 2. Core Features | 24 | 0/24 | 0% |
 | 3. UI Components | 23 | 0/23 | 0% |
 | 4. Data Management | 12 | 0/12 | 0% |
 | 5. Polish & Tests | 21 | 0/21 | 0% |
-| **Total** | **97** | **0/97** | **0%** |
+| **Total** | **96** | **0/96** | **0%** |
 
 ### By Priority
 | Priority | Count | Completed |
 |----------|-------|-----------|
-| 🔴 P0 (Critical) | 37 | 0/37 |
+| 🔴 P0 (Critical) | 36 | 0/36 |
 | 🟠 P1 (High) | 42 | 0/42 |
 | 🟡 P2 (Medium) | 18 | 0/18 |
 | ⚪ P3 (Low) | 0 | 0/0 |
@@ -692,7 +693,7 @@
 
 ### Week 1
 - **Day 1:** Phase 1.1 complete (project setup)
-- **Day 2:** Phase 1.2 complete (GitRows integration)
+- **Day 2:** Phase 1.2 complete (GitHub API integration)
 - **Day 3:** Phase 2.1 complete (RSS parsing)
 - **Day 4:** Phase 2.2 complete (read tracking)
 - **Day 5:** Phase 2.3 complete (log files)
@@ -715,7 +716,7 @@
 ## 📝 Notes & Reminders
 
 ### Before Starting
-- [ ] Create **public** GitHub repository for GitRows data storage
+- [ ] Create **public** GitHub repository for data storage
   - Public repos = no auth needed for reading ✅
   - Private repos = require token for all operations
 - [ ] Generate GitHub personal access token (only if using private repo or write operations)
@@ -723,10 +724,10 @@
   - For production: consider serverless function for writes
 - [ ] Set up project directory (current directory is ready)
 - [ ] Review all three documents (plan, context, tasks)
-- [ ] Understand GitRows limitations:
+- [ ] Understand GitHub API limitations:
   - 404 = missing file OR private file without access
-  - Write operations need token
-  - `fetch` mode recommended for client-side (2-3s latency)
+  - Write operations need token + SHA for updates
+  - Base64 encoding required for all file content
   - GitHub API limits: 60/hour (unauth), 5000/hour (auth)
 
 ### During Development
@@ -755,7 +756,7 @@
 ## ✅ Ready to Start Checklist
 
 - [ ] Read all three documents (plan, context, tasks)
-- [ ] Understand the architecture and GitRows integration
+- [ ] Understand the architecture and GitHub API integration
 - [ ] Set up development environment (Node.js, npm)
 - [ ] Create **public** GitHub repo for data storage
 - [ ] Upload initial `rss-config.json` to repo
@@ -765,10 +766,10 @@
 **Status:** Ready to begin implementation! 🚀
 
 **Recommended First Steps:**
-1. Install GitRows: `npm install gitrows`
-2. Initialize Vite project
+1. Initialize Vite project
+2. Install core dependencies (@mui/material, zustand)
 3. Set up basic structure
-4. Test GitRows connection with your public repo
+4. Test GitHub API connection with your public repo
 
 ---
 

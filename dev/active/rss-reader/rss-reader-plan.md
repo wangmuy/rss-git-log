@@ -1,7 +1,7 @@
 # RSS Reader SPA - Comprehensive Implementation Plan
 
 **Last Updated:** 2025-12-21
-**Project Type:** React Static SPA with GitRows Integration
+**Project Type:** React Static SPA with GitHub API Integration
 **Status:** Planning Phase
 **Estimated Timeline:** 2-3 weeks (MVP)
 
@@ -9,10 +9,10 @@
 
 ## 📋 Executive Summary
 
-This plan outlines the development of a lean React Single Page Application (SPA) for reading RSS feeds. The application will use GitRows to fetch RSS configuration and feed data, track read status per user session, and persist reading history to daily log files. The core focus is on creating a minimal, fast, and user-friendly RSS reader without backend dependencies.
+This plan outlines the development of a lean React Single Page Application (SPA) for reading RSS feeds. The application will use native GitHub API to fetch RSS configuration and feed data, track read status per user session, and persist reading history to daily log files. The core focus is on creating a minimal, fast, and user-friendly RSS reader without backend dependencies.
 
 ### Key Features
-- **GitRows Integration**: Read RSS site configurations from a config file via GitRows
+- **GitHub API Integration**: Read RSS site configurations from a config file via native GitHub REST API
 - **RSS Feed Fetching**: Parse and display RSS feeds from multiple sources
 - **Read Status Tracking**: Track which items have been read per site
 - **Daily Log Files**: Persist read status to `logs/YYYY-MM-DD.json`
@@ -24,8 +24,8 @@ This plan outlines the development of a lean React Single Page Application (SPA)
 - **Build Tool**: Vite
 - **Styling**: MUI v7 (Material Design)
 - **State Management**: Zustand (lightweight)
-- **RSS Parsing**: rss-parser or XML parsing
-- **Data Storage**: LocalStorage + JSON files via GitRows
+- **RSS Parsing**: Native DOMParser (browser-compatible)
+- **Data Storage**: LocalStorage + JSON files via GitHub API
 - **Routing**: TanStack Router or React Router
 
 ---
@@ -49,9 +49,10 @@ The project already has:
 ### Assumptions & Constraints
 - **Static Only**: No backend server required
 - **Client-Side**: All operations in browser
-- **GitRows**: Requires public GitHub repo for config/data storage
-- **User Data**: Stored in browser localStorage + GitRows commits
+- **GitHub API**: Requires public GitHub repo for config/data storage
+- **User Data**: Stored in browser localStorage + GitHub commits
 - **RSS Sources**: Publicly accessible RSS feeds (CORS may be an issue)
+- **Browser Native**: No Node.js dependencies, uses native fetch/DOMParser
 
 ---
 
@@ -61,13 +62,15 @@ The project already has:
 ```
 Browser (React SPA)
     ↓
-GitRows API (GitHub repo)
+Native fetch() API
+    ↓
+GitHub REST API v3
     ↓
 Config File (rss-config.json)
     ↓
 RSS Feed URLs
     ↓
-Fetch & Parse
+DOMParser (XML)
     ↓
 Display UI
     ↓
@@ -77,13 +80,13 @@ Commit to logs/YYYY-MM-DD.json
 ```
 
 ### Data Flow
-1. **Initialization**: App loads config from GitRows
-2. **Fetch Feeds**: Parse RSS from configured URLs
+1. **Initialization**: App loads config from GitHub via native fetch
+2. **Fetch Feeds**: Parse RSS from configured URLs using DOMParser
 3. **Filter**: Remove read items (unless show-read enabled)
 4. **Display**: Render feed items in UI
 5. **Interaction**: User reads items
 6. **Tracking**: Mark items as read in session
-7. **Persistence**: Commit read status to daily log file via GitRows
+7. **Persistence**: Commit read status to daily log file via GitHub API
 
 ### User Experience
 ```
@@ -129,19 +132,21 @@ Commit to logs/YYYY-MM-DD.json
 **Effort:** S
 **Dependencies:** None
 
-#### 1.2 GitRows Integration Setup
+#### 1.2 GitHub API Integration Setup
 **Tasks:**
-- [ ] Research GitRows API endpoints and authentication
-- [ ] Create utility functions for GitRows operations
+- [ ] Research GitHub REST API v3 endpoints and authentication
+- [ ] Create utility functions for GitHub API operations (native fetch)
 - [ ] Implement config file reader (rss-config.json)
 - [ ] Create error handling for network failures
 - [ ] Add loading states for async operations
+- [ ] Implement base64 encoding/decoding for file content
 
 **Acceptance Criteria:**
-- ✅ Can fetch config from GitRows
+- ✅ Can fetch config from GitHub using native fetch
 - ✅ Handles 404/403 errors gracefully
 - ✅ Config validation with TypeScript types
 - ✅ Retry mechanism for failed requests
+- ✅ No Node.js dependencies used
 
 **Effort:** M
 **Dependencies:** 1.1
@@ -150,18 +155,20 @@ Commit to logs/YYYY-MM-DD.json
 
 #### 2.1 RSS Parsing Engine
 **Tasks:**
-- [ ] Install and configure rss-parser library
-- [ ] Create RSS feed fetcher utility
+- [ ] Create RSS feed fetcher utility using native fetch
+- [ ] Implement DOMParser for XML parsing (no rss-parser dependency)
 - [ ] Implement CORS proxy handling (if needed)
 - [ ] Parse feed items with proper TypeScript types
 - [ ] Handle malformed RSS gracefully
 - [ ] Add feed validation
+- [ ] Support both RSS 2.0 and Atom formats
 
 **Acceptance Criteria:**
-- ✅ Successfully parses valid RSS feeds
+- ✅ Successfully parses valid RSS feeds using DOMParser
 - ✅ Returns structured data (title, link, guid, pubDate, description)
 - ✅ Handles XML parsing errors
 - ✅ Supports multiple feed formats (RSS 2.0, Atom)
+- ✅ No Node.js dependencies used
 
 **Effort:** M
 **Dependencies:** 1.2
@@ -188,17 +195,19 @@ Commit to logs/YYYY-MM-DD.json
 **Tasks:**
 - [ ] Design log file structure (layered: site → items)
 - [ ] Create log file path generator: `logs/YYYY-MM-DD.json`
-- [ ] Implement GitRows commit function
+- [ ] Implement GitHub API commit function (native fetch)
 - [ ] Add batch commit for multiple items
 - [ ] Handle commit conflicts and rate limits
 - [ ] Create log file reader for existing data
+- [ ] Implement SHA-based file updates
 
 **Acceptance Criteria:**
 - ✅ Log structure matches specification
 - ✅ Daily file naming works correctly
-- ✅ GitRows commits succeed
+- ✅ GitHub API commits succeed
 - ✅ Existing logs are merged, not overwritten
 - ✅ Error handling for failed commits
+- ✅ Base64 encoding/decoding works correctly
 
 **Effort:** L
 **Dependencies:** 1.2, 2.2
@@ -253,7 +262,7 @@ Commit to logs/YYYY-MM-DD.json
 **Acceptance Criteria:**
 - ✅ Single click marks item as read
 - ✅ Bulk operations work correctly
-- ✅ Manual commit triggers GitRows API
+- ✅ Manual commit triggers GitHub API
 - ✅ Auto-commit respects user settings
 - ✅ Visual feedback for all actions
 
@@ -291,7 +300,7 @@ Commit to logs/YYYY-MM-DD.json
 **Acceptance Criteria:**
 - ✅ Schema validation with TypeScript
 - ✅ Multiple sites supported
-- ✅ Config can be updated via GitRows
+- ✅ Config can be updated via GitHub API
 - ✅ Settings persist in localStorage
 
 **Effort:** S
@@ -337,7 +346,7 @@ Commit to logs/YYYY-MM-DD.json
 **Tasks:**
 - [ ] Network failure recovery
 - [ ] RSS parsing error handling
-- [ ] GitRows API rate limit handling
+- [ ] GitHub API rate limit handling
 - [ ] Invalid config handling
 - [ ] Browser compatibility checks
 - [ ] Offline mode (read-only)
@@ -357,7 +366,7 @@ Commit to logs/YYYY-MM-DD.json
 - [ ] Component tests for UI elements
 - [ ] Integration tests for data flow
 - [ ] Create README with setup instructions
-- [ ] Document GitRows configuration
+- [ ] Document GitHub API configuration
 - [ ] Add deployment guide
 
 **Acceptance Criteria:**
@@ -390,8 +399,6 @@ Commit to logs/YYYY-MM-DD.json
    ```bash
    npm install @mui/material @emotion/react @emotion/styled
    npm install zustand
-   npm install rss-parser
-   npm install @types/rss-parser
    ```
 
 3. Set up project structure
@@ -433,54 +440,81 @@ Commit to logs/YYYY-MM-DD.json
 
 ---
 
-### Task 2: GitRows Integration
+### Task 2: GitHub API Integration
 **Priority:** P0 (Critical)
 **Effort:** M
 **Type:** Core Feature
 
 **Sub-tasks:**
-1. Install GitRows NPM module
-   ```bash
-   npm install gitrows
-   ```
-
-2. Research GitRows capabilities
-   - **Path format**: `@github/owner/repo:branch/path/file.json`
+1. Research GitHub REST API v3 endpoints
+   - **Read endpoint**: `GET /repos/{owner}/{repo}/contents/{path}`
+   - **Write endpoint**: `PUT /repos/{owner}/{repo}/contents/{path}`
    - **Authentication**: Read public repos = no auth needed; Write = requires token
-   - **Modes**: `fetch` (recommended for client-side) vs `pull`
-   - **Methods**: `get()`, `put()`, `update()`, `replace()`, `delete()`
+   - **Content encoding**: Base64 required for all file operations
    - **Important**: GitHub returns 404 for missing AND private files
+   - **Rate limits**: 60/hour (unauth), 5000/hour (auth)
 
-3. Create utility functions
+2. Create utility functions (native browser fetch)
    ```typescript
-   // src/utils/gitrows.ts
-   import gitrows from 'gitrows';
-
-   interface GitRowsConfig {
+   // src/utils/github-api.ts
+   interface GitHubConfig {
      owner: string;
      repo: string;
      branch?: string;
      token?: string;
    }
 
-   export function createGitRowsClient(config: GitRowsConfig) {
-     const path = `@github/${config.owner}/${config.repo}:${config.branch || 'main'}`;
-     return gitrows({ path, token: config.token, mode: 'fetch' });
+   interface GitHubClient {
+     config: GitHubConfig;
+     baseUrl: string;
    }
 
-   export async function readFromGitRows<T>(client: any, path: string): Promise<T> {
-     return await client.get(path);
+   export function createGitHubClient(config: GitHubConfig): GitHubClient {
+     return {
+       config,
+       baseUrl: `https://api.github.com/repos/${config.owner}/${config.repo}`
+     };
    }
 
-   export async function writeToGitRows<T>(client: any, path: string, data: T): Promise<boolean> {
-     return await client.put(path, data);
+   export async function readFromGitHub<T>(
+     client: GitHubClient,
+     path: string
+   ): Promise<T | null> {
+     const url = `${client.baseUrl}/contents/${encodeURIComponent(path)}?ref=${client.config.branch || 'main'}`;
+     const response = await fetch(url, { headers: buildHeaders(client.config.token) });
+     if (response.status === 404) return null;
+     const data = await response.json();
+     const content = atob(data.content);
+     try { return JSON.parse(content) as T; } catch { return content as unknown as T; }
+   }
+
+   export async function writeToGitHub<T>(
+     client: GitHubClient,
+     path: string,
+     data: T,
+     message: string,
+     sha?: string
+   ): Promise<boolean> {
+     const url = `${client.baseUrl}/contents/${encodeURIComponent(path)}`;
+     const body = {
+       message,
+       content: btoa(JSON.stringify(data)),
+       branch: client.config.branch || 'main',
+       ...(sha ? { sha } : {})
+     };
+     const response = await fetch(url, {
+       method: 'PUT',
+       headers: buildHeaders(client.config.token),
+       body: JSON.stringify(body)
+     });
+     return response.ok;
    }
    ```
 
-4. Implement config reader
+3. Implement config reader
    ```typescript
    // src/features/rss-reader/config.ts
-   import { createGitRowsClient } from '@/utils/gitrows';
+   import { createGitHubClient, readFromGitHub } from '@/utils/github-api';
 
    interface RSSConfig {
      sites: Array<{
@@ -495,38 +529,38 @@ Commit to logs/YYYY-MM-DD.json
      };
    }
 
-   export async function loadConfig(): Promise<RSSConfig> {
-     const client = createGitRowsClient({
+   export async function loadConfig(): Promise<RSSConfig | null> {
+     const client = createGitHubClient({
        owner: import.meta.env.VITE_GITHUB_OWNER,
        repo: import.meta.env.VITE_GITHUB_REPO,
        branch: import.meta.env.VITE_GITHUB_BRANCH
      });
 
-     const config = await client.get('rss-config.json');
-     return validateConfig(config);
+     const config = await readFromGitHub<RSSConfig>(client, 'rss-config.json');
+     return config ? validateConfig(config) : null;
    }
    ```
 
-5. Security considerations
-   - **Never** commit tokens to client-side code
-   - Use public repos for read-only access
-   - For write operations: consider serverless function or accept public visibility
+4. Security considerations
+   - **Never** commit tokens to client-side code (visible in bundle)
+   - Use public repos for read-only access (no token needed)
+   - For write operations: accept public visibility or use serverless function
    - Document security implications to users
 
 **Acceptance Criteria:**
-- ✅ GitRows module installed and configured
+- ✅ Native browser fetch API implementation
 - ✅ Can fetch config from public GitHub repo
 - ✅ Handles 404 errors (missing files) gracefully
-- ✅ Path format correctly constructed
+- ✅ Base64 encoding/decoding works correctly
 - ✅ Config validation implemented
 - ✅ Security implications documented
 
 **Risks:**
 - Token exposure in client code (mitigation: use public repos only)
 - GitHub 404 ambiguity (mitigation: explicit error messages)
-- Rate limits (mitigation: fetch mode + caching)
+- Rate limits (mitigation: batch operations, caching)
 
-**Mitigation:** Use public repos, fetch mode, clear error messages
+**Mitigation:** Use public repos, implement caching, clear error messages
 
 ---
 
@@ -536,47 +570,98 @@ Commit to logs/YYYY-MM-DD.json
 **Type:** Core Feature
 
 **Sub-tasks:**
-1. Install rss-parser
-   ```bash
-   npm install rss-parser
-   ```
+1. No external dependencies needed
+   - Uses native `DOMParser` (built into all browsers)
+   - No npm packages required
 
-2. Create parser wrapper
+2. Create native parser using DOMParser
    ```typescript
    // src/utils/rss-parser.ts
-   import Parser from 'rss-parser';
-
-   const parser = new Parser({
-     customFields: {
-       item: ['guid', 'pubDate', 'description']
+   export async function fetchRSS(url: string): Promise<RSSFeed | null> {
+     try {
+       // Try direct fetch first
+       const response = await fetch(url);
+       if (!response.ok) throw new Error(`HTTP ${response.status}`);
+       const xmlText = await response.text();
+       return parseXMLFeed(xmlText);
+     } catch (error) {
+       // Try CORS proxy services
+       try {
+         const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+         const response = await fetch(proxyUrl);
+         const xmlText = await response.text();
+         return parseXMLFeed(xmlText);
+       } catch (proxyError) {
+         // Try fallback proxy
+         const fallbackUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+         const response = await fetch(fallbackUrl);
+         const xmlText = await response.text();
+         return parseXMLFeed(xmlText);
+       }
      }
-   });
+   }
 
-   export async function fetchRSS(url: string): Promise<RSSFeed> {
-     const feed = await parser.parseURL(url);
+   function parseXMLFeed(xmlText: string): RSSFeed {
+     const parser = new DOMParser();
+     const xml = parser.parseFromString(xmlText, 'text/xml');
+
+     // Check for RSS 2.0
+     const rssChannel = xml.querySelector('channel');
+     if (rssChannel) {
+       return parseRSSFeed(xml);
+     }
+
+     // Check for Atom
+     const atomFeed = xml.querySelector('feed');
+     if (atomFeed) {
+       return parseAtomFeed(xml);
+     }
+
+     throw new Error('Unknown RSS format');
+   }
+
+   function parseRSSFeed(xml: Document): RSSFeed {
+     const channel = xml.querySelector('channel')!;
      return {
-       title: feed.title,
-       link: feed.link,
-       items: feed.items.map(item => ({
-         guid: item.guid || '',
-         title: item.title || '',
-         link: item.link || '',
-         pubDate: item.pubDate || '',
-         description: item.description || ''
+       title: channel.querySelector('title')?.textContent || '',
+       link: channel.querySelector('link')?.textContent || '',
+       items: Array.from(xml.querySelectorAll('item')).map(item => ({
+         guid: item.querySelector('guid')?.textContent || '',
+         title: item.querySelector('title')?.textContent || '',
+         link: item.querySelector('link')?.textContent || '',
+         pubDate: item.querySelector('pubDate')?.textContent || '',
+         description: item.querySelector('description')?.textContent || ''
+       }))
+     };
+   }
+
+   function parseAtomFeed(xml: Document): RSSFeed {
+     const feed = xml.querySelector('feed')!;
+     return {
+       title: feed.querySelector('title')?.textContent || '',
+       link: feed.querySelector('link')?.getAttribute('href') || '',
+       items: Array.from(xml.querySelectorAll('entry')).map(entry => ({
+         guid: entry.querySelector('id')?.textContent || '',
+         title: entry.querySelector('title')?.textContent || '',
+         link: entry.querySelector('link')?.getAttribute('href') || '',
+         pubDate: entry.querySelector('updated')?.textContent || '',
+         description: entry.querySelector('summary')?.textContent || ''
        }))
      };
    }
    ```
 
-3. Handle CORS (if needed)
-   - Use CORS proxy: `https://corsproxy.io/?{encoded_url}`
-   - Or: `https://api.allorigins.win/raw?url={encoded_url}`
+3. Handle CORS (built into fetch attempts)
+   - Primary: Direct fetch
+   - Fallback 1: `https://corsproxy.io/?{encoded_url}`
+   - Fallback 2: `https://api.allorigins.win/raw?url={encoded_url}`
 
 **Acceptance Criteria:**
-- Parses RSS 2.0 and Atom
-- Returns structured data
-- Handles malformed XML
-- CORS workarounds functional
+- ✅ Parses RSS 2.0 and Atom using native DOMParser
+- ✅ Returns structured data
+- ✅ Handles malformed XML
+- ✅ CORS proxy fallbacks functional
+- ✅ No Node.js dependencies used
 
 **Risks:** CORS blocking, malformed feeds
 **Mitigation:** Multiple proxy options, error handling
@@ -690,10 +775,10 @@ Commit to logs/YYYY-MM-DD.json
    }
    ```
 
-3. Commit to GitRows
+3. Commit to GitHub API
    ```typescript
    // src/utils/log-file.ts
-   import { createGitRowsClient } from '@/utils/gitrows';
+   import { createGitHubClient, readFromGitHub, writeToGitHub } from '@/utils/github-api';
 
    export async function commitReadStatus(
      siteId: string,
@@ -702,24 +787,16 @@ Commit to logs/YYYY-MM-DD.json
    ): Promise<boolean> {
      const path = getLogFilePath();
 
-     // Create GitRows client
-     const client = createGitRowsClient({
+     // Create GitHub client
+     const client = createGitHubClient({
        owner: import.meta.env.VITE_GITHUB_OWNER,
        repo: import.meta.env.VITE_GITHUB_REPO,
        branch: import.meta.env.VITE_GITHUB_BRANCH,
        token: import.meta.env.VITE_GITHUB_TOKEN // Required for write
      });
 
-     // Read existing log (handle 404 for missing files)
-     let existing: LogData | null = null;
-     try {
-       existing = await client.get(path);
-     } catch (error) {
-       // 404 means file doesn't exist yet - that's OK
-       if (!error.message.includes('404')) {
-         throw error;
-       }
-     }
+     // Read existing log (returns null if 404)
+     const existing = await readFromGitHub<LogData>(client, path);
 
      // Create or merge log data
      const logData: LogData = existing || {
@@ -747,12 +824,13 @@ Commit to logs/YYYY-MM-DD.json
 
      logData.sites[siteId].readItems.push(...itemsToAdd);
 
-     // Write back to GitRows
+     // Write back to GitHub (with SHA for updates)
      try {
-       await client.put(path, logData);
-       return true;
+       // Get SHA if file exists for update
+       const sha = existing ? await getGitHubFileSha(client, path) : undefined;
+       return await writeToGitHub(client, path, logData, `Update ${path}`, sha);
      } catch (error) {
-       console.error('Failed to commit to GitRows:', error);
+       console.error('Failed to commit to GitHub:', error);
        return false;
      }
    }
@@ -781,15 +859,16 @@ Commit to logs/YYYY-MM-DD.json
 - ✅ Correct file path generation (`logs/YYYY-MM-DD.json`)
 - ✅ Merges with existing logs (doesn't overwrite)
 - ✅ Handles 404 errors (missing file = create new)
-- ✅ Commits successfully to GitRows
+- ✅ Commits successfully to GitHub API
 - ✅ Prevents duplicate entries
 - ✅ Batch commit works for multiple sites
 - ✅ Handles commit failures gracefully
+- ✅ SHA-based file updates work correctly
 
 **Risks:**
-- GitRows API failures (mitigation: retry logic, local backup)
+- GitHub API failures (mitigation: retry logic, local backup)
 - Token not provided for write (mitigation: clear error message)
-- Rate limits (mitigation: batch operations, fetch mode)
+- Rate limits (mitigation: batch operations, caching)
 - Data loss during merge (mitigation: test merge logic thoroughly)
 
 **Mitigation:** Error handling, retry logic, clear user feedback
@@ -892,7 +971,7 @@ Commit to logs/YYYY-MM-DD.json
          />
          <FormControlLabel
            control={<Switch checked={settings.autoCommit} />}
-           label="Auto-commit to GitRows"
+           label="Auto-commit to GitHub"
          />
        </Paper>
      );
@@ -1055,7 +1134,7 @@ Commit to logs/YYYY-MM-DD.json
 | Risk | Probability | Impact | Mitigation |
 |------|-------------|--------|------------|
 | **CORS blocking RSS feeds** | High | High | Use CORS proxy services, implement multiple fallback options |
-| **GitRows API rate limits** | Medium | Medium | Implement caching, batch commits, exponential backoff |
+| **GitHub API rate limits** | Medium | Medium | Implement caching, batch commits, exponential backoff |
 | **RSS feed parsing errors** | Medium | Medium | Robust error handling, validate XML before parsing |
 | **Browser storage limits** | Low | Medium | Implement data cleanup, compress stored data |
 | **Hash collisions** | Very Low | High | Use composite keys, add collision detection |
@@ -1068,7 +1147,7 @@ Commit to logs/YYYY-MM-DD.json
 | **Slow feed loading** | High | Medium | Virtual scrolling, lazy loading, loading indicators |
 | **Confusing UI** | Medium | Medium | User testing, clear labels, tooltips |
 | **Data loss** | Low | High | Local backup, auto-save, manual commit option |
-| **GitRows auth issues** | Medium | Medium | Clear setup instructions, public repo option |
+| **GitHub auth issues** | Medium | Medium | Clear setup instructions, public repo option |
 
 ### Project Risks
 
@@ -1085,7 +1164,7 @@ Commit to logs/YYYY-MM-DD.json
 ### Functional Metrics
 - ✅ **Feed Loading**: < 2 seconds for 10 feeds
 - ✅ **Parsing Success**: > 95% of valid RSS feeds
-- ✅ **Commit Success**: > 98% of GitRows commits
+- ✅ **Commit Success**: > 98% of GitHub API commits
 - ✅ **Read Tracking**: 100% accuracy
 - ✅ **Error Rate**: < 5% of user sessions
 
@@ -1114,8 +1193,7 @@ Commit to logs/YYYY-MM-DD.json
     "@mui/material": "^7.0.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "zustand": "^4.3.0",
-    "rss-parser": "^3.13.0"
+    "zustand": "^4.3.0"
   },
   "development": {
     "vite": "^5.0.0",
@@ -1123,7 +1201,6 @@ Commit to logs/YYYY-MM-DD.json
     "@vitejs/plugin-react": "^4.0.0",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
-    "@types/rss-parser": "^3.13.0",
     "vitest": "^1.0.0",
     "@testing-library/react": "^14.0.0"
   }
@@ -1131,23 +1208,23 @@ Commit to logs/YYYY-MM-DD.json
 ```
 
 ### External Services
-- **GitRows**: Free tier sufficient
-- **CORS Proxy**: corsproxy.io or allorigins.win (free)
+- **GitHub API**: Native REST API v3 (no external service needed)
+- **CORS Proxy**: corsproxy.io or allorigins.win (free, for RSS feeds)
 - **GitHub**: For config and log storage (public repo)
 
 ### Development Environment
 - Node.js 18+
 - npm or pnpm
 - Git
-- GitHub account (for GitRows)
+- GitHub account (for data storage)
 
 ---
 
 ## 📅 Timeline Estimates
 
 ### Week 1: Foundation
-- **Day 1**: Project setup, GitRows research
-- **Day 2**: GitRows integration, config structure
+- **Day 1**: Project setup, GitHub API research
+- **Day 2**: GitHub API integration, config structure
 - **Day 3**: RSS parsing engine
 - **Day 4**: Read tracking system
 - **Day 5**: Log file management
@@ -1179,12 +1256,12 @@ Commit to logs/YYYY-MM-DD.json
 2. ✅ Initialize Vite React TypeScript project
 3. ✅ Install core dependencies
 4. ✅ Set up basic App structure
-5. ✅ Research GitRows API documentation
+5. ✅ Research GitHub REST API documentation
 
 ### This Week
 1. Complete Phase 1 (Foundation)
 2. Start Phase 2 (Core RSS functionality)
-3. Create initial config file for GitRows
+3. Create initial config file for GitHub
 4. Set up development environment
 
 ### Communication Plan
@@ -1201,8 +1278,8 @@ Commit to logs/YYYY-MM-DD.json
 - [React Documentation](https://react.dev/)
 - [MUI v7 Documentation](https://mui.com/material-ui/)
 - [Zustand Documentation](https://zustand-demo.pmnd.rs/)
-- [RSS Parser Documentation](https://www.npmjs.com/package/rss-parser)
-- [GitRows API](https://gitrows.com/)
+- [GitHub REST API v3](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+- [DOMParser API](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)
 
 ### Tools
 - [Vite](https://vitejs.dev/)

@@ -1,11 +1,11 @@
-# RSS Reader - GitRows Powered
+# RSS Reader - GitHub Powered
 
-A lean React Single Page Application (SPA) for reading RSS feeds with automatic read status tracking and daily log persistence via GitRows.
+A lean React Single Page Application (SPA) for reading RSS feeds with automatic read status tracking and daily log persistence via GitHub API.
 
 ## ✨ Features
 
 - **Zero Backend**: Pure client-side React application
-- **GitRows Integration**: Config and logs stored in GitHub repositories
+- **GitHub API Integration**: Config and logs stored in GitHub repositories
 - **Read Tracking**: Automatic tracking of read items per session
 - **Daily Logs**: Automatic commit to `logs/YYYY-MM-DD.json`
 - **Clean UI**: Minimal, focused reading experience
@@ -97,7 +97,7 @@ Visit: `http://localhost:3000`
 ### Settings Explained
 
 - **showReadItems**: Display already-read items (default: false)
-- **autoCommit**: Automatically commit to GitRows (default: true)
+- **autoCommit**: Automatically commit to GitHub (default: true)
 - **commitInterval**: Seconds between auto-commits (default: 300 = 5 minutes)
 
 ## 🏗️ Architecture
@@ -105,17 +105,17 @@ Visit: `http://localhost:3000`
 ### Data Flow
 
 ```
-Browser → Load Config (GitRows) → Fetch RSS Feeds → Display UI
+Browser → Load Config (GitHub API) → Fetch RSS Feeds → Display UI
                                       ↓
                               User Reads Items → Track in Session
                                       ↓
-                              Auto/Manual Commit → GitRows (logs/YYYY-MM-DD.json)
+                              Auto/Manual Commit → GitHub API (logs/YYYY-MM-DD.json)
 ```
 
 ### Storage Layers
 
 1. **Session State**: Browser localStorage (immediate, fast)
-2. **Persistent Logs**: GitRows + GitHub (permanent, shareable)
+2. **Persistent Logs**: GitHub API (permanent, shareable)
 
 ### Unique Identifiers
 
@@ -140,7 +140,7 @@ src/
 │       ├── store/          # Zustand state
 │       └── types/          # TypeScript types
 ├── utils/                  # Utility functions
-│   ├── gitrows.ts          # GitRows integration
+│   ├── github-api.ts       # GitHub API integration
 │   ├── rss-parser.ts       # RSS parsing
 │   ├── item-id.ts          # ID generation
 │   ├── url.ts              # URL utilities
@@ -200,7 +200,7 @@ npm run test
 - Check feed URLs are valid
 - Try refreshing after a few seconds
 
-### "404 errors from GitRows"
+### "404 errors from GitHub API"
 - This can mean:
   - File doesn't exist yet (normal for first commit)
   - Private repo without access
@@ -209,7 +209,7 @@ npm run test
 ### Items not marking as read
 - Check browser console for errors
 - Verify localStorage is enabled
-- Try manual commit to test GitRows connection
+- Try manual commit to test GitHub connection
 
 ## 📊 Performance
 
@@ -221,7 +221,7 @@ npm run test
 ## 🎯 Roadmap
 
 ### MVP Features ✅
-- [x] GitRows integration
+- [x] GitHub API integration
 - [x] RSS feed fetching
 - [x] Read status tracking
 - [x] Daily log files
@@ -254,8 +254,8 @@ Built with:
 - [React](https://react.dev/)
 - [MUI v7](https://mui.com/)
 - [Zustand](https://zustand-demo.pmnd.rs/)
-- [RSS Parser](https://www.npmjs.com/package/rss-parser)
-- [GitRows](https://github.com/gitrows/gitrows)
+- Native DOMParser for RSS parsing
+- Native GitHub REST API v3
 
 ---
 
