@@ -1,0 +1,37 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/skill-activation-prompt.ts"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Bash|Edit|Write|Glob|Grep",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/post-tool-use-tracker.sh"
+          }
+        ]
+      }
+    ]
+  },
+  "auto-approve": false,
+  "permissions": {
+    "read": true,
+    "write": true,
+    "execute": false
+  },
+  "context-management": {
+    "max-context-tokens": 200000,
+    "summarize-old-context": true,
+    "track-file-changes": true
+  }
+}
