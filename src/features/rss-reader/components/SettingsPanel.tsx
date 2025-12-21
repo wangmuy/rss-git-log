@@ -48,7 +48,7 @@ export const SettingsPanel: React.FC<SettingsPanelProps> = ({
               color="primary"
             />
           }
-          label="Auto-commit to GitRows"
+          label="Auto-commit to GitHub"
         />
 
         {settings.autoCommit && (

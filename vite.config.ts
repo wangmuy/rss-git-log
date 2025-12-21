@@ -10,14 +10,13 @@ export default defineConfig({
   },
   build: {
     target: 'es2018',
-    minify: 'terser',
+    minify: 'esbuild', // Use esbuild instead of terser (built-in)
     sourcemap: true,
     rollupOptions: {
       output: {
         manualChunks: {
           vendor: ['react', 'react-dom', 'zustand'],
-          mui: ['@mui/material', '@emotion/react', '@emotion/styled'],
-          rss: ['rss-parser', 'gitrows']
+          mui: ['@mui/material', '@emotion/react', '@emotion/styled']
         }
       }
     }

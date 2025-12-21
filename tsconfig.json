@@ -21,6 +21,6 @@
     },
     "types": ["vite/client"]
   },
-  "include": ["src", "src/types/gitrows.d.ts"],
+  "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

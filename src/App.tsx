@@ -3,7 +3,7 @@ import { CssBaseline, ThemeProvider, createTheme } from '@mui/material';
 import { ReaderLayout } from './features/rss-reader/components/ReaderLayout';
 import { SetupPage } from './features/rss-reader/components/SetupPage';
 import { useReaderStore } from './features/rss-reader/store/readerStore';
-import { hasGitRowsConfig } from './utils/gitrows';
+import { hasGitHubConfig, getEnvConfig, createGitHubClient, readFromGitHub } from './utils/github-api';
 
 // MUI Theme
 const theme = createTheme({
@@ -48,10 +48,31 @@ const App: React.FC = () => {
   const [view, setView] = useState<'loading' | 'setup' | 'reader'>('loading');
   const loadFromLocalStorage = useReaderStore(state => state.loadFromLocalStorage);
 
-  const checkConfig = () => {
+  const checkConfig = async () => {
     try {
-      const hasConfig = hasGitRowsConfig();
-      setView(hasConfig ? 'reader' : 'setup');
+      // First check if env vars are set
+      if (!hasGitHubConfig()) {
+        setView('setup');
+        return;
+      }
+
+      // Then check if the config file actually exists
+      try {
+        const envConfig = getEnvConfig();
+        const client = createGitHubClient(envConfig);
+        const configExists = await readFromGitHub(client, 'rss-config.json');
+
+        if (configExists) {
+          setView('reader');
+        } else {
+          // Config file doesn't exist yet
+          setView('setup');
+        }
+      } catch (error) {
+        // Error checking for config file (e.g., network error, auth error)
+        // Still show setup page with instructions
+        setView('setup');
+      }
     } catch (error) {
       setView('setup');
     }
@@ -67,8 +88,6 @@ const App: React.FC = () => {
 
   const handleConfigured = () => {
     // Re-check configuration after user saves settings
-    // Note: This will only work if .env file already existed or user refreshes page
-    // After creating .env file, user needs to restart dev server
     checkConfig();
   };
 

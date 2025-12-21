@@ -1,4 +1,4 @@
-import { createGitRowsClient, readFromGitRows, writeToGitRows, getEnvConfig } from './gitrows';
+import { createGitHubClient, readFromGitHub, writeToGitHub, getEnvConfig } from './github-api';
 import { LogData, LogItem } from '@/types/log';
 
 /**
@@ -17,7 +17,7 @@ export function getLogFilePath(date: Date = new Date()): string {
 }
 
 /**
- * Read existing log file from GitRows
+ * Read existing log file from GitHub
  *
  * @param date - Date of log file (defaults to today)
  * @returns Log data or null if file doesn't exist
@@ -27,10 +27,10 @@ export function getLogFilePath(date: Date = new Date()): string {
  */
 export async function readLog(date: Date = new Date()): Promise<LogData | null> {
   const config = getEnvConfig();
-  const client = createGitRowsClient(config);
+  const client = createGitHubClient(config);
   const path = getLogFilePath(date);
 
-  return await readFromGitRows<LogData>(client, path);
+  return await readFromGitHub<LogData>(client, path);
 }
 
 /**
@@ -56,13 +56,13 @@ export async function commitReadStatus(
   if (items.length === 0) return true;
 
   const config = getEnvConfig();
-  const client = createGitRowsClient(config);
+  const client = createGitHubClient(config);
   const path = getLogFilePath();
 
   // Read existing log (handle 404 for missing files)
   let existing: LogData | null = null;
   try {
-    existing = await readFromGitRows<LogData>(client, path);
+    existing = await readFromGitHub<LogData>(client, path);
   } catch (error: any) {
     if (!error.message?.includes('404')) {
       console.error('Error reading existing log:', error);
@@ -105,8 +105,8 @@ export async function commitReadStatus(
   // Update metadata
   logData.metadata.generatedAt = new Date().toISOString();
 
-  // Write back to GitRows
-  return await writeToGitRows(client, path, logData);
+  // Write back to GitHub
+  return await writeToGitHub(client, path, logData);
 }
 
 /**

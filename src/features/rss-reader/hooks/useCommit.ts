@@ -10,7 +10,7 @@ interface UseCommitReturn {
 }
 
 /**
- * Hook to commit read status to GitRows
+ * Hook to commit read status to GitHub
  *
  * @returns Commit function, committing state, last commit time, and error
  *

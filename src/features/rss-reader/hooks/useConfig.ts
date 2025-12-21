@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { createGitRowsClient, readFromGitRows, getEnvConfig } from '@/utils/gitrows';
+import { createGitHubClient, readFromGitHub, getEnvConfig } from '@/utils/github-api';
 import { RSSConfig } from '@/types/config';
 
 interface UseConfigReturn {
@@ -10,7 +10,7 @@ interface UseConfigReturn {
 }
 
 /**
- * Hook to load RSS configuration from GitRows
+ * Hook to load RSS configuration from GitHub
  *
  * @returns Configuration, loading state, error, and reload function
  *
@@ -28,25 +28,16 @@ export function useConfig(): UseConfigReturn {
 
     try {
       const envConfig = getEnvConfig();
-      const client = createGitRowsClient(envConfig);
+      const client = createGitHubClient(envConfig);
 
-      const data = await readFromGitRows<RSSConfig>(client, 'rss-config.json');
+      const data = await readFromGitHub<RSSConfig>(client, 'rss-config.json');
 
       if (!data) {
-        throw new Error(
-          'Config file not found. Please create rss-config.json in your GitHub repo.\n\n' +
-          'Example structure:\n' +
-          JSON.stringify({
-            sites: [
-              { name: 'Tech News', url: 'https://example.com/rss', color: '#2196F3' }
-            ],
-            settings: {
-              showReadItems: false,
-              autoCommit: true,
-              commitInterval: 300
-            }
-          }, null, 2)
-        );
+        // Config file doesn't exist - this is expected for new setups
+        // Don't show error, just return empty config
+        setConfig(null);
+        setLoading(false);
+        return;
       }
 
       // Validate config

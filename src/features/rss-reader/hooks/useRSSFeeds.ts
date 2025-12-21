@@ -1,9 +1,8 @@
 import { useState, useEffect, useCallback } from 'react';
 import { fetchMultipleRSS } from '@/utils/rss-parser';
-import { generateItemIdFromItem } from '@/utils/item-id';
-import { getSiteId } from '@/utils/url';
 import { RSSFeed, SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
+import { getSiteId } from '@/utils/url';
 
 interface UseRSSFeedsReturn {
   sites: SiteWithStatus[];

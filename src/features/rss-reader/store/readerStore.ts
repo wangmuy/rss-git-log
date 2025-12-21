@@ -2,7 +2,6 @@ import { create } from 'zustand';
 import { RSSFeed, SiteWithStatus } from '@/types/rss';
 import { ReaderSettings } from '@/types/config';
 import { ReadStatus } from '@/types/log';
-import { getSiteId } from '@/utils/url';
 import { generateItemIdFromItem } from '@/utils/item-id';
 
 interface ReaderState {

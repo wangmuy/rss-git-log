@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "description": "Lean React SPA RSS Reader with GitRows integration",
+  "description": "Lean React SPA RSS Reader with GitHub API integration",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -17,9 +17,7 @@
     "@mui/icons-material": "^7.0.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "zustand": "^4.3.0",
-    "rss-parser": "^3.13.0",
-    "gitrows": "^0.5.0"
+    "zustand": "^4.3.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",

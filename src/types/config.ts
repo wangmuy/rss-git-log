@@ -1,3 +1,5 @@
+import { RSSSite } from './rss';
+
 /**
  * RSS Reader Configuration
  */
@@ -16,9 +18,9 @@ export interface ReaderSettings {
 }
 
 /**
- * GitRows Configuration
+ * GitHub Configuration
  */
-export interface GitRowsConfig {
+export interface GitHubConfig {
   owner: string;
   repo: string;
   branch?: string;
