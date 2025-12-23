@@ -1,0 +1,170 @@
+import React, { useState } from 'react';
+import {
+  Box,
+  List,
+  ListItem,
+  ListItemButton,
+  ListItemText,
+  Typography,
+  Chip,
+  Stack,
+  Paper,
+  Divider
+} from '@mui/material';
+import { SiteWithStatus, RSSItem } from '@/types/rss';
+import { FeedItem } from './FeedItem';
+import { generateItemIdFromItem } from '@/utils/item-id';
+import { useReaderStore } from '../store/readerStore';
+
+interface SidebarFeedLayoutProps {
+  sites: SiteWithStatus[];
+  onMarkAsRead: (siteId: string, itemId: string) => void;
+  onMarkSiteAsRead: (siteId: string) => void;
+  showReadItems: boolean;
+}
+
+export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
+  sites,
+  onMarkAsRead,
+  onMarkSiteAsRead,
+  showReadItems
+}) => {
+  const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
+  const isRead = useReaderStore(state => state.isRead);
+  const getUnreadCount = useReaderStore(state => state.getUnreadCount);
+
+  const selectedSite = sites.find(site => site.siteId === selectedSiteId);
+
+  // Get visible items for selected site
+  const visibleItems = selectedSite ? selectedSite.items.filter(item => {
+    const itemId = generateItemIdFromItem(item);
+    const isItemRead = isRead(selectedSite.siteId, itemId);
+    return showReadItems || !isItemRead;
+  }).sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()) : [];
+
+  if (sites.length === 0) {
+    return (
+      <Box sx={{ textAlign: 'center', py: 4 }}>
+        <Typography variant="body1" color="text.secondary">
+          No feeds available
+        </Typography>
+      </Box>
+    );
+  }
+
+  return (
+    <Box sx={{ display: 'flex', height: '70vh', gap: 2 }}>
+      {/* Left Sidebar - Site List */}
+      <Paper sx={{ width: 300, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
+        <Box sx={{ p: 2, bgcolor: 'primary.main', color: 'primary.contrastText' }}>
+          <Typography variant="h6" sx={{ fontWeight: 600 }}>
+            RSS Feeds ({sites.length})
+          </Typography>
+        </Box>
+        <List sx={{ flex: 1, overflow: 'auto', p: 0 }}>
+          {sites.map((site) => {
+            const unreadCount = getUnreadCount(site.siteId);
+            const isSelected = site.siteId === selectedSiteId;
+
+            return (
+              <ListItem key={site.siteId} disablePadding>
+                <ListItemButton
+                  selected={isSelected}
+                  onClick={() => setSelectedSiteId(site.siteId)}
+                  sx={{
+                    py: 1.5,
+                    px: 2,
+                    borderLeft: isSelected ? `4px solid ${site.color || '#1976d2'}` : '4px solid transparent',
+                  }}
+                >
+                  <ListItemText
+                    primary={
+                      <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                        <Typography variant="body2" sx={{ fontWeight: isSelected ? 600 : 400 }}>
+                          {site.name}
+                        </Typography>
+                        {unreadCount > 0 && (
+                          <Chip
+                            label={unreadCount}
+                            size="small"
+                            color="primary"
+                            sx={{ ml: 1, minWidth: 24, height: 20 }}
+                          />
+                        )}
+                      </Box>
+                    }
+                  />
+                </ListItemButton>
+              </ListItem>
+            );
+          })}
+        </List>
+      </Paper>
+
+      {/* Right Content Area - Feed Items */}
+      <Paper sx={{ flex: 1, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
+        {selectedSite && (
+          <>
+            <Box sx={{ p: 2, bgcolor: 'background.paper', borderBottom: 1, borderColor: 'divider' }}>
+              <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                <Typography variant="h6" sx={{ fontWeight: 600 }}>
+                  {selectedSite.name}
+                </Typography>
+                <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                  <Typography variant="body2" color="text.secondary">
+                    {visibleItems.length} items
+                  </Typography>
+                  {getUnreadCount(selectedSite.siteId) > 0 && (
+                    <Typography
+                      variant="caption"
+                      color="primary"
+                      sx={{ cursor: 'pointer', textDecoration: 'underline' }}
+                      onClick={() => onMarkSiteAsRead(selectedSite.siteId)}
+                    >
+                      Mark all as read
+                    </Typography>
+                  )}
+                </Box>
+              </Box>
+            </Box>
+
+            <Box sx={{ flex: 1, overflow: 'auto', p: 1 }}>
+              {visibleItems.length > 0 ? (
+                <Stack spacing={1}>
+                  {visibleItems.map((item) => {
+                    const itemId = generateItemIdFromItem(item);
+                    const isItemRead = isRead(selectedSite.siteId, itemId);
+
+                    return (
+                      <FeedItem
+                        key={itemId}
+                        item={item}
+                        isRead={isItemRead}
+                        siteColor={selectedSite.color}
+                        onMarkAsRead={() => onMarkAsRead(selectedSite.siteId, itemId)}
+                      />
+                    );
+                  })}
+                </Stack>
+              ) : (
+                <Box sx={{ textAlign: 'center', py: 4 }}>
+                  <Typography variant="body2" color="text.secondary">
+                    {showReadItems ? 'No items available' : 'All items read'}
+                  </Typography>
+                </Box>
+              )}
+            </Box>
+          </>
+        )}
+
+        {!selectedSite && (
+          <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flex: 1 }}>
+            <Typography variant="body1" color="text.secondary">
+              Select a feed to view items
+            </Typography>
+          </Box>
+        )}
+      </Paper>
+    </Box>
+  );
+};

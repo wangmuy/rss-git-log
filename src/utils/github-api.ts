@@ -175,6 +175,23 @@ export function saveConfig(config: GitHubConfig): void {
 }
 
 /**
+ * Save RSS configuration to GitHub
+ *
+ * @param config - RSS configuration to save
+ * @returns True if successful
+ */
+export async function saveRSSConfig(config: any): Promise<boolean> {
+  try {
+    const storedConfig = getStoredConfig();
+    const client = createGitHubClient(storedConfig);
+    return await writeToGitHub(client, 'rss-config.json', config);
+  } catch (error) {
+    console.error('Failed to save RSS config:', error);
+    throw error;
+  }
+}
+
+/**
  * Check if GitHub configuration is available
  *
  * @returns True if config is available

@@ -1,18 +1,27 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container, Box, Typography, Alert, Snackbar } from '@mui/material';
 import { Header } from './Header';
 import { SettingsPanel } from './SettingsPanel';
-import { FeedList } from './FeedList';
+import { SubscriptionManager } from './SubscriptionManager';
+import { SidebarFeedLayout } from './SidebarFeedLayout';
 import { useConfig } from '../hooks/useConfig';
 import { useRSSFeeds } from '../hooks/useRSSFeeds';
 import { useCommit } from '../hooks/useCommit';
 import { useReaderStore } from '../store/readerStore';
+import { saveRSSConfig } from '../utils/github-api';
+import { RSSConfig } from '@/types/config';
 
 export const ReaderLayout: React.FC = () => {
   const { config, loading: configLoading, error: configError, reload: reloadConfig } = useConfig();
   const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead, markSiteAsRead, markAllAsRead } = useRSSFeeds(config);
   const { commit, committing, lastCommit, error: commitError } = useCommit();
   const { settings, setSettings } = useReaderStore();
+  const [localConfig, setLocalConfig] = useState<RSSConfig | null>(config);
+
+  // Update local config when config changes
+  React.useEffect(() => {
+    setLocalConfig(config);
+  }, [config]);
 
   const loading = configLoading || feedsLoading;
   const error = configError || feedsError || commitError;
@@ -36,6 +45,23 @@ export const ReaderLayout: React.FC = () => {
     }
   };
 
+  const handleSitesChange = (newSites: any[]) => {
+    if (localConfig) {
+      setLocalConfig({
+        ...localConfig,
+        sites: newSites
+      });
+    }
+  };
+
+  const handleSaveConfig = async () => {
+    if (!localConfig) throw new Error('No configuration to save');
+    
+    await saveRSSConfig(localConfig);
+    await reloadConfig(); // Reload to refresh feeds
+    await refresh(); // Refresh feeds with new config
+  };
+
   return (
     <Box sx={{ minHeight: '100vh', bgcolor: 'background.default' }}>
       <Header
@@ -52,6 +78,15 @@ export const ReaderLayout: React.FC = () => {
           <SettingsPanel
             settings={settings}
             onSettingsChange={setSettings}
+          />
+        )}
+
+        {/* Subscription Manager */}
+        {localConfig && (
+          <SubscriptionManager
+            sites={localConfig.sites}
+            onSitesChange={handleSitesChange}
+            onSave={handleSaveConfig}
           />
         )}
 
@@ -88,7 +123,7 @@ export const ReaderLayout: React.FC = () => {
 
         {/* Feed List */}
         {!loading && !error && config && sites.length > 0 && (
-          <FeedList
+          <SidebarFeedLayout
             sites={sites}
             onMarkAsRead={markAsRead}
             onMarkSiteAsRead={markSiteAsRead}
