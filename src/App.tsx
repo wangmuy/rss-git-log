@@ -3,7 +3,7 @@ import { CssBaseline, ThemeProvider, createTheme } from '@mui/material';
 import { ReaderLayout } from './components/ReaderLayout';
 import { SetupPage } from './components/SetupPage';
 import { useReaderStore } from './store/readerStore';
-import { hasGitHubConfig, getEnvConfig, createGitHubClient, readFromGitHub } from './utils/github-api';
+import { hasGitHubConfig, getStoredConfig, createGitHubClient, readFromGitHub } from './utils/github-api';
 
 // MUI Theme
 const theme = createTheme({
@@ -58,8 +58,8 @@ const App: React.FC = () => {
 
       // Then check if the config file actually exists
       try {
-        const envConfig = getEnvConfig();
-        const client = createGitHubClient(envConfig);
+        const storedConfig = getStoredConfig();
+        const client = createGitHubClient(storedConfig);
         const configExists = await readFromGitHub(client, 'rss-config.json');
 
         if (configExists) {

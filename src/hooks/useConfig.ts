@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { createGitHubClient, readFromGitHub, getEnvConfig } from '@/utils/github-api';
+import { createGitHubClient, readFromGitHub, getStoredConfig } from '@/utils/github-api';
 import { RSSConfig } from '@/types/config';
 
 interface UseConfigReturn {
@@ -27,8 +27,8 @@ export function useConfig(): UseConfigReturn {
     setError(null);
 
     try {
-      const envConfig = getEnvConfig();
-      const client = createGitHubClient(envConfig);
+      const storedConfig = getStoredConfig();
+      const client = createGitHubClient(storedConfig);
 
       const data = await readFromGitHub<RSSConfig>(client, 'rss-config.json');
 

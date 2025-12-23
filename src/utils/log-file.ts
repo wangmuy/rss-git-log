@@ -1,4 +1,4 @@
-import { createGitHubClient, readFromGitHub, writeToGitHub, getEnvConfig } from './github-api';
+import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig } from './github-api';
 import { LogData, LogItem } from '@/types/log';
 
 /**
@@ -26,7 +26,7 @@ export function getLogFilePath(date: Date = new Date()): string {
  * const log = await readLog();
  */
 export async function readLog(date: Date = new Date()): Promise<LogData | null> {
-  const config = getEnvConfig();
+  const config = getStoredConfig();
   const client = createGitHubClient(config);
   const path = getLogFilePath(date);
 
@@ -55,7 +55,7 @@ export async function commitReadStatus(
 ): Promise<boolean> {
   if (items.length === 0) return true;
 
-  const config = getEnvConfig();
+  const config = getStoredConfig();
   const client = createGitHubClient(config);
   const path = getLogFilePath();
 

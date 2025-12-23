@@ -147,21 +147,31 @@ export async function writeToGitHub<T>(client: GitHubClient, path: string, data:
 }
 
 /**
- * Get environment configuration
+ * Get configuration from localStorage
  *
- * @returns GitHub config from environment variables
+ * @returns GitHub config from localStorage
  */
-export function getEnvConfig(): GitHubConfig {
-  const owner = import.meta.env.VITE_GITHUB_OWNER;
-  const repo = import.meta.env.VITE_GITHUB_REPO;
-  const branch = import.meta.env.VITE_GITHUB_BRANCH;
-  const token = import.meta.env.VITE_GITHUB_TOKEN;
-
-  if (!owner || !repo) {
-    throw new Error('Missing required environment variables: VITE_GITHUB_OWNER, VITE_GITHUB_REPO');
+export function getStoredConfig(): GitHubConfig {
+  const stored = localStorage.getItem('github-config');
+  if (!stored) {
+    throw new Error('No GitHub configuration found in storage');
   }
 
-  return { owner, repo, branch, token };
+  const config = JSON.parse(stored) as GitHubConfig;
+  if (!config.owner || !config.repo) {
+    throw new Error('Invalid GitHub configuration: missing owner or repo');
+  }
+
+  return config;
+}
+
+/**
+ * Save configuration to localStorage
+ *
+ * @param config - GitHub configuration to save
+ */
+export function saveConfig(config: GitHubConfig): void {
+  localStorage.setItem('github-config', JSON.stringify(config));
 }
 
 /**
@@ -170,7 +180,10 @@ export function getEnvConfig(): GitHubConfig {
  * @returns True if config is available
  */
 export function hasGitHubConfig(): boolean {
-  const owner = import.meta.env.VITE_GITHUB_OWNER;
-  const repo = import.meta.env.VITE_GITHUB_REPO;
-  return !!(owner && repo);
+  try {
+    const config = getStoredConfig();
+    return !!(config.owner && config.repo);
+  } catch {
+    return false;
+  }
 }
