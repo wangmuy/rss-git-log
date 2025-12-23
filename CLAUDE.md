@@ -1,39 +1,47 @@
 # React Static Frontend - Coding Agent Guide
 
-## 🚀 Quick Start
+## Quick Start
 
-### Installation
-```bash
-# Copy the entire setup to your project
-cp -r output/react-static-frontend/* /path/to/your/project/
+### Project outline
+This file is designed to be read by coding agents, for the actual current project outline, refer to [README.md](./README.md).
 
-# Make hooks executable
-chmod +x .claude/hooks/*.sh
+## Project Structure
+
 ```
-
-### What You Get
-- **11 specialized AI agents** for complex tasks
-- **2 essential hooks** for automation
-- **2 context-aware skills** for React development
-- **Project documentation structure** in `dev/`
-
-## 📁 Project Structure
-
-After installation, your project will have:
-```
-your-project/
+project-name/
 ├── .claude/
 │   ├── agents/          # 11 specialized agents
 │   ├── hooks/           # Automation hooks
 │   ├── skills/          # Context-aware skills
 │   └── settings.json    # Configuration (to be created)
 ├── dev/                 # Project documentation
+│   └── active/          # Latest project active status tracking docs
 │   └── react-guide.md   # React patterns & guidelines
 ├── CLAUDE.md            # This file
 └── AGENT_SETUP_VERIFY.md # Quick verification
 ```
 
-## 🎯 What's Included
+## Project Documentation
+
+The `dev/` directory is for tracking your project:
+
+```
+dev/
+├── active/                   # Current project status tarcking
+├── <feature>-context.md      # Your active feature context
+├── <feature>-plans.md        # Your active feature plans
+├── <feature>-tasks.md        # Your active feature tasks
+```
+
+### What to Track in `dev/`
+- Architecture decisions
+- Coding conventions
+- Setup instructions
+- Deployment procedures
+- Performance optimizations
+- Third-party integrations
+
+## (Claude Code only) Project basic structure included
 
 ### Specialized Agents (11)
 All agents are tech-agnostic and ready to use:
@@ -86,27 +94,7 @@ Activates when:
 - Hook mechanisms (UserPromptSubmit, PreToolUse)
 - Session tracking and 500-line rule
 
-## 🔧 Configuration
-
-### Next Steps After Installation
-
-1. **Make hooks executable:**
-   ```bash
-   chmod +x .claude/hooks/*.sh
-   ```
-
-2. **Create settings.json** (see AGENT_SETUP_VERIFY.md for template)
-
-3. **Update skill rules** for your project structure:
-   - Edit `.claude/skills/frontend-dev-guidelines/skill-rules.json`
-   - Update file paths to match your project structure
-   - Example: If your components are in `src/ui/` instead of `src/components/`
-
-4. **Customize dev documentation:**
-   - Edit `dev/react-guide.md` with your project's specific patterns
-   - Add project-specific conventions and decisions
-
-## 🛠️ Usage Examples
+## (Claude Code only) Usage Examples
 
 ### Using Skills
 Skills activate automatically based on context:
@@ -140,26 +128,7 @@ Invoke agents for complex tasks:
 - **File tracking** happens automatically in the background
 - **Context management** is handled seamlessly
 
-## 📋 Project Documentation
-
-The `dev/` directory is for tracking your project:
-
-```
-dev/
-├── react-guide.md       # React patterns & conventions
-├── project-notes.md     # Your project decisions
-└── setup-notes.md       # Setup & deployment notes
-```
-
-### What to Track in `dev/`
-- Architecture decisions
-- Coding conventions
-- Setup instructions
-- Deployment procedures
-- Performance optimizations
-- Third-party integrations
-
-## 🔍 Troubleshooting
+## (Claude Code only) Troubleshooting
 
 ### Hooks Not Working
 ```bash
@@ -180,12 +149,9 @@ ls -la .claude/hooks/
 - Check agent YAML frontmatter syntax
 - Ensure agent files are not corrupted
 
-## 📚 Additional Resources
+## (Claude Code only) Additional Resources
 
-- **Integration Guide**: See `showcase/CLAUDE_INTEGRATION_GUIDE.md` in the template
-- **Hook Configuration**: See `showcase/.claude/hooks/CONFIG.md`
 - **Skill Rules**: Check `.claude/skills/skill-rules.json` syntax
-- **Agent Documentation**: See `showcase/.claude/agents/README.md`
 
 ## 🎯 React-Specific Notes
 
@@ -209,9 +175,3 @@ src/
 ├── styles/              # Global styles
 └── App.tsx              # Main app component
 ```
-
-## ✅ Ready to Use
-
-After following the setup steps above, your coding agent infrastructure is ready! The skills will activate automatically, and you can invoke agents as needed for complex tasks.
-
-**Need help?** Check AGENT_SETUP_VERIFY.md for step-by-step verification.

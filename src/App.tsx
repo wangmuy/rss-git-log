@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { CssBaseline, ThemeProvider, createTheme } from '@mui/material';
-import { ReaderLayout } from './features/rss-reader/components/ReaderLayout';
-import { SetupPage } from './features/rss-reader/components/SetupPage';
-import { useReaderStore } from './features/rss-reader/store/readerStore';
+import { ReaderLayout } from './components/ReaderLayout';
+import { SetupPage } from './components/SetupPage';
+import { useReaderStore } from './store/readerStore';
 import { hasGitHubConfig, getEnvConfig, createGitHubClient, readFromGitHub } from './utils/github-api';
 
 // MUI Theme
