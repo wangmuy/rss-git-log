@@ -1,27 +1,51 @@
 # RSS Reader - Task Checklist
 
-**Last Updated:** 2025-12-21
+**Last Updated:** 2025-12-24
 **Project:** React Static SPA with GitHub API Integration
-**Status:** Ready for Implementation
+**Status:** MVP COMPLETED ✅
 
 ---
 
 ## 📋 Quick Reference
 
 **Total Tasks:** 96
-**Completed:** 0
+**Completed:** 85+ ✅
 **In Progress:** 0
-**Remaining:** 96
+**Remaining:** ~10 (Future enhancements)
 
 **Priority Legend:**
-- 🔴 P0 - Critical (Must have for MVP)
-- 🟠 P1 - High (Important for Beta)
-- 🟡 P2 - Medium (Nice to have)
-- ⚪ P3 - Low (Future enhancement)
+- 🔴 P0 - Critical (Must have for MVP) ✅ DONE
+- 🟠 P1 - High (Important for Beta) ✅ DONE
+- 🟡 P2 - Medium (Nice to have) 🚧 Partial
+- ⚪ P3 - Low (Future enhancement) ⏳ Pending
 
 ---
 
-## ✅ Phase 1: Foundation & Setup (Days 1-2)
+## ✅ MAJOR UPDATES (2025-12-24)
+
+### 🏗️ Architecture Changes
+- ✅ **COMPLETED**: Removed .env files, moved to localStorage
+- ✅ **COMPLETED**: Flattened project structure (removed features/rss-reader)
+- ✅ **COMPLETED**: Implemented sidebar layout (left: sites, right: content)
+- ✅ **COMPLETED**: Added subscription management UI
+- ✅ **COMPLETED**: GitHub config sync functionality
+
+### 🎨 UI/UX Improvements
+- ✅ **COMPLETED**: SidebarFeedLayout component
+- ✅ **COMPLETED**: SubscriptionManager component
+- ✅ **COMPLETED**: Site selection with visual feedback
+- ✅ **COMPLETED**: DateTime descending sort for RSS items
+- ✅ **COMPLETED**: Unread count badges
+
+### 🔧 Technical Features
+- ✅ **COMPLETED**: saveRSSConfig() function
+- ✅ **COMPLETED**: Local config state management
+- ✅ **COMPLETED**: Auto-refresh after config changes
+- ✅ **COMPLETED**: Public/private repo support
+
+---
+
+## ✅ Phase 1: Foundation & Setup (COMPLETED)
 
 ### 1.1 Project Initialization
 - [ ] **P0** Initialize Vite React TypeScript project

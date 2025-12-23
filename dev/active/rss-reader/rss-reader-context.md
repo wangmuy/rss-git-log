@@ -903,10 +903,41 @@ await delay(1000 * (retryCount + 1));
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2025-12-21 | Initial plan creation |
-| - | - | - |
+| 2.0 | 2025-12-24 | **MAJOR UPDATE**: Project restructure and feature completion |
 
 ---
 
-**Document Status:** Active
-**Next Update:** After implementation begins
-**Owner:** [To be assigned]
+## 📊 CURRENT STATUS (2025-12-24)
+
+### ✅ COMPLETED FEATURES
+- **Browser-only storage**: Removed .env files, all config in localStorage
+- **Flattened structure**: Moved from `src/features/rss-reader/*` to `src/*`
+- **Sidebar layout**: Left panel (site list) + right panel (content)
+- **Subscription management**: Add/edit/delete RSS feeds via UI
+- **GitHub sync**: Save RSS config changes back to GitHub
+- **DateTime sorting**: RSS items sorted newest first
+- **Site selection**: Click sidebar to switch between feeds
+
+### 🏗️ ARCHITECTURE CHANGES
+```
+OLD: src/features/rss-reader/{components,hooks,store,types}/
+NEW: src/{components,hooks,store,types}/
+```
+
+### 🎨 UI IMPROVEMENTS
+- **SidebarFeedLayout**: Replaced accordion with two-panel layout
+- **SubscriptionManager**: Full CRUD for RSS feeds
+- **SetupPage**: No longer mentions .env files
+- **Visual feedback**: Selected site highlighted with colored border
+
+### 🔧 TECHNICAL UPDATES
+- **GitHub API**: Added `saveRSSConfig()` function
+- **State management**: Local config state for subscription changes
+- **Auto-refresh**: Feeds reload after config updates
+- **Error handling**: Better validation for placeholder values
+
+---
+
+**Document Status:** Active - Fully Updated
+**Next Update:** As needed for new features
+**Owner:** RSS Reader Development Team
