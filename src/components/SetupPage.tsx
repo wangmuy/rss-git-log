@@ -106,8 +106,9 @@ export const SetupPage: React.FC<SetupPageProps> = ({ onConfigured }) => {
               <ol style={{ paddingLeft: '20px', lineHeight: '1.8' }}>
                 <li>
                   <Link href="https://github.com/new" target="_blank" rel="noopener">
-                    Create a public GitHub repository
-                  </Link>
+                    Create a GitHub repository
+                  </Link>{' '}
+                  (public or private)
                 </li>
                 <li>
                   Add a file named <code>rss-config.json</code> to the repo
