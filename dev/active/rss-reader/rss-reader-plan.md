@@ -66,6 +66,7 @@ src/
 - ✅ **Flattened structure**: Simplified from features/rss-reader to direct src/
 - ✅ **Sidebar UX**: Modern two-panel layout like professional RSS readers
 - ✅ **Real-time sync**: Changes immediately reflected and saved to GitHub
+- ✅ **Site-based logging**: NEW - Organized logs by site with intelligent chunking
 
 ### User Experience
 - ✅ **Intuitive navigation**: Click site names to switch feeds
@@ -78,6 +79,26 @@ src/
 - ✅ **Error handling**: Graceful fallbacks and user feedback
 - ✅ **Performance**: Efficient state management and rendering
 - ✅ **Browser compatibility**: Works in all modern browsers
+- ✅ **Scalable logging**: NEW - Site-based files prevent large file issues
+- ✅ **Migration support**: Automatic conversion from old daily logs
+
+### 📁 Advanced Log Organization
+```
+NEW STRUCTURE:
+logs/
+├── news.ycombinator.com/
+│   ├── 2025-12-20.json  # ≤200 items, oldest from Dec 20
+│   └── 2025-12-22.json  # Next 200 items
+├── techcrunch.com/
+│   └── 2025-12-19.json  # ≤200 items, oldest from Dec 19
+
+FEATURES:
+- Max 200 items per file (prevents large files)
+- Filename based on oldest item date
+- Site-isolated for better organization
+- Automatic chunking when limit reached
+- Migration from old daily structure
+```
 
 ---
 
@@ -87,13 +108,22 @@ src/
 - [x] GitHub API integration (read/write)
 - [x] RSS feed fetching and parsing
 - [x] Read status tracking
-- [x] Daily log file generation
+- [x] Site-based log file generation (NEW)
 - [x] Subscription management UI
 - [x] Sidebar layout implementation
 - [x] Auto-commit functionality
 - [x] Browser-only storage
 - [x] Public/private repo support
 - [x] DateTime descending sort
+- [x] Log migration system (NEW)
+
+### Advanced Features: 100% Complete ✅
+- [x] Site-based log organization
+- [x] 200-item file chunking
+- [x] Intelligent filename generation
+- [x] Metadata tracking (dates, counts)
+- [x] Migration from daily logs
+- [x] Enhanced read history tracking
 
 ### Future Enhancements (Optional)
 - [ ] Search/filter functionality
@@ -113,6 +143,7 @@ src/
 - **Modern UI**: Professional RSS reader experience
 - **User Control**: Complete subscription management
 - **Data Persistence**: Reliable GitHub-based storage
+- **Scalable Logging**: NEW - Site-based organization prevents file bloat
 
 ### ✅ Technical Quality
 - **Clean Code**: Well-structured, maintainable codebase
@@ -120,10 +151,12 @@ src/
 - **Performance**: Fast loading and smooth interactions
 - **Responsive**: Works across device sizes
 - **Error Handling**: Robust error management
+- **Data Organization**: NEW - Intelligent log file management
 
 ---
 
 **Project Status:** ✅ COMPLETED - Ready for Production
+**Latest Update:** Site-based logging system implemented
 **Next Steps:** Optional enhancements based on user feedback
 **Maintainer:** RSS Reader Development Team
 - **Client-Side**: All operations in browser

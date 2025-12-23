@@ -29,6 +29,7 @@
 - ✅ **COMPLETED**: Implemented sidebar layout (left: sites, right: content)
 - ✅ **COMPLETED**: Added subscription management UI
 - ✅ **COMPLETED**: GitHub config sync functionality
+- ✅ **NEW**: Site-based log organization with 200-item limit per file
 
 ### 🎨 UI/UX Improvements
 - ✅ **COMPLETED**: SidebarFeedLayout component
@@ -42,6 +43,16 @@
 - ✅ **COMPLETED**: Local config state management
 - ✅ **COMPLETED**: Auto-refresh after config changes
 - ✅ **COMPLETED**: Public/private repo support
+- ✅ **NEW**: Site-based logging system (logs/{siteId}/YYYY-MM-DD.json)
+- ✅ **NEW**: Automatic file chunking at 200 items
+- ✅ **NEW**: Migration from daily logs to site-based logs
+- ✅ **NEW**: Enhanced metadata tracking (oldest/newest dates, item counts)
+
+### 📁 Log Organization Upgrade
+```
+OLD: logs/2025-12-24.json (all sites in daily files)
+NEW: logs/news.ycombinator.com/2025-12-20.json (max 200 items per site file)
+```
 
 ---
 

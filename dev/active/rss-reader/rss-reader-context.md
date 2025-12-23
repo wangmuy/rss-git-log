@@ -917,11 +917,15 @@ await delay(1000 * (retryCount + 1));
 - **GitHub sync**: Save RSS config changes back to GitHub
 - **DateTime sorting**: RSS items sorted newest first
 - **Site selection**: Click sidebar to switch between feeds
+- **Site-based logging**: NEW - Organized logs by site with 200-item limit per file
 
 ### 🏗️ ARCHITECTURE CHANGES
 ```
 OLD: src/features/rss-reader/{components,hooks,store,types}/
 NEW: src/{components,hooks,store,types}/
+
+OLD: logs/YYYY-MM-DD.json (daily files)
+NEW: logs/{siteId}/YYYY-MM-DD.json (site-based, max 200 items)
 ```
 
 ### 🎨 UI IMPROVEMENTS
@@ -935,6 +939,17 @@ NEW: src/{components,hooks,store,types}/
 - **State management**: Local config state for subscription changes
 - **Auto-refresh**: Feeds reload after config updates
 - **Error handling**: Better validation for placeholder values
+- **Log organization**: NEW - Site-based files with automatic chunking
+- **Migration support**: Convert existing daily logs to site-based structure
+
+### 📁 NEW LOG STRUCTURE
+```
+logs/
+├── news.ycombinator.com/
+│   └── 2025-12-20.json  # ≤200 items, oldest from Dec 20
+├── techcrunch.com/
+│   └── 2025-12-19.json  # ≤200 items, oldest from Dec 19
+```
 
 ---
 
