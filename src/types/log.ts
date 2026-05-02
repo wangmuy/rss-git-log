@@ -1,25 +1,9 @@
 /**
- * Log File Structure - daily read history
- */
-export interface LogData {
-  metadata: LogMetadata;
-  sites: Record<string, LogSite>;
-}
-
-/**
- * Site-based log file structure - single site per file
+ * Site-based log file structure - single site per file.
  */
 export interface SiteLogData {
   metadata: SiteLogMetadata;
   items: LogItem[];
-}
-
-/**
- * Log metadata
- */
-export interface LogMetadata {
-  date: string; // YYYY-MM-DD
-  generatedAt: string; // ISO timestamp
 }
 
 /**
@@ -32,14 +16,6 @@ export interface SiteLogMetadata {
   newestItemDate: string; // YYYY-MM-DD
   itemCount: number; // Current count (max 200)
   generatedAt: string; // ISO timestamp
-}
-
-/**
- * Site-specific log data
- */
-export interface LogSite {
-  name: string;
-  readItems: LogItem[];
 }
 
 /**

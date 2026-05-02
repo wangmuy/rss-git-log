@@ -8,10 +8,9 @@ import {
   Typography,
   Chip,
   Stack,
-  Paper,
-  Divider
+  Paper
 } from '@mui/material';
-import { SiteWithStatus, RSSItem } from '@/types/rss';
+import { SiteWithStatus } from '@/types/rss';
 import { FeedItem } from './FeedItem';
 import { generateItemIdFromItem } from '@/utils/item-id';
 import { useReaderStore } from '../store/readerStore';

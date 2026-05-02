@@ -1,19 +1,21 @@
 import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig } from './github-api';
-import { LogData, LogItem, SiteLogData, SiteLogMetadata } from '@/types/log';
+import { LogItem, SiteLogData } from '@/types/log';
+
+const MAX_LOG_ITEMS_PER_FILE = 200;
 
 /**
- * Generate log file path for a specific date
+ * Generate site log file path for a specific date
  *
+ * @param siteId - Site identifier
  * @param date - Date object (defaults to today)
- * @returns Log file path: logs/YYYY-MM-DD.json
+ * @returns Log file path: logs/{siteId}/YYYY-MM-DD.json
  *
  * @example
- * getLogFilePath() // 'logs/2025-12-21.json'
- * getLogFilePath(new Date('2025-12-20')) // 'logs/2025-12-20.json'
+ * getLogFilePath('https://example.com/rss') // 'logs/https%3A%2F%2Fexample.com%2Frss/2025-12-21.json'
  */
-export function getLogFilePath(date: Date = new Date()): string {
+export function getLogFilePath(siteId: string, date: Date = new Date()): string {
   const dateStr = date.toISOString().split('T')[0];
-  return `logs/${dateStr}.json`;
+  return createSiteLogFilename(siteId, dateStr);
 }
 
 /**
@@ -88,20 +90,21 @@ export async function getLatestLogFile(siteId: string): Promise<string | null> {
 }
 
 /**
- * Read existing log file from GitHub
+ * Read existing site log file from GitHub
  *
+ * @param siteId - Site identifier
  * @param date - Date of log file (defaults to today)
  * @returns Log data or null if file doesn't exist
  *
  * @example
- * const log = await readLog();
+ * const log = await readLog('https://example.com/rss');
  */
-export async function readLog(date: Date = new Date()): Promise<LogData | null> {
+export async function readLog(siteId: string, date: Date = new Date()): Promise<SiteLogData | null> {
   const config = getStoredConfig();
   const client = createGitHubClient(config);
-  const path = getLogFilePath(date);
+  const path = getLogFilePath(siteId, date);
 
-  return await readFromGitHub<LogData>(client, path);
+  return await readFromGitHub<SiteLogData>(client, path);
 }
 
 /**
@@ -138,7 +141,7 @@ export async function commitReadStatus(
     }
 
     // If no existing file or file is full, create new one
-    if (!existingData || existingData.items.length >= 200) {
+    if (!existingData || existingData.items.length >= MAX_LOG_ITEMS_PER_FILE) {
       const oldestDate = findOldestItemDate(logItems);
       targetFile = createSiteLogFilename(siteId, oldestDate);
       existingData = null;
@@ -251,77 +254,4 @@ export async function getAllReadItems(): Promise<Record<string, Set<string>>> {
   // In a full implementation, we'd need to discover all sites and their files
   // For now, return empty - the app will populate as sites are accessed
   return {};
-}
-
-/**
- * Migrate existing daily logs to site-based structure
- *
- * @returns True if migration successful
- */
-export async function migrateDailyLogsToSiteBased(): Promise<boolean> {
-  const config = getStoredConfig();
-  const client = createGitHubClient(config);
-
-  try {
-    // Try to read recent daily logs
-    const today = new Date();
-    const allSiteItems: Record<string, LogItem[]> = {};
-
-    for (let i = 0; i < 30; i++) {
-      const date = new Date(today);
-      date.setDate(date.getDate() - i);
-      const dailyPath = getLogFilePath(date);
-
-      try {
-        const dailyLog = await readFromGitHub<LogData>(client, dailyPath);
-        if (dailyLog) {
-          // Group items by site
-          for (const [siteId, siteData] of Object.entries(dailyLog.sites)) {
-            if (!allSiteItems[siteId]) {
-              allSiteItems[siteId] = [];
-            }
-            allSiteItems[siteId].push(...siteData.readItems);
-          }
-        }
-      } catch {
-        // Daily log doesn't exist, continue
-      }
-    }
-
-    // Convert to site-based logs
-    for (const [siteId, items] of Object.entries(allSiteItems)) {
-      if (items.length === 0) continue;
-
-      // Split into chunks of 200 items
-      const chunks: LogItem[][] = [];
-      for (let i = 0; i < items.length; i += 200) {
-        chunks.push(items.slice(i, i + 200));
-      }
-
-      // Create site-based files
-      for (const chunk of chunks) {
-        const oldestDate = findOldestItemDate(chunk);
-        const filePath = createSiteLogFilename(siteId, oldestDate);
-
-        const siteLogData: SiteLogData = {
-          metadata: {
-            siteId,
-            siteName: `Site ${siteId}`, // We don't have the original name
-            oldestItemDate: findOldestItemDate(chunk),
-            newestItemDate: findOldestItemDate(chunk.slice().reverse()),
-            itemCount: chunk.length,
-            generatedAt: new Date().toISOString()
-          },
-          items: chunk
-        };
-
-        await writeToGitHub(client, filePath, siteLogData);
-      }
-    }
-
-    return true;
-  } catch (error) {
-    console.error('Migration failed:', error);
-    return false;
-  }
 }

@@ -4,7 +4,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Runs purely in the browser (no Node.js server)
 - Uses GitHub REST API v3 for reading/writing config and log files
 - Stores read status in browser LocalStorage for session persistence
-- Commits daily read logs to GitHub as JSON files
+- Commits site-based read logs to GitHub as JSON files
 
 **Current State (as of 2025-12-24):**
 - MVP completed with all core features
@@ -12,12 +12,14 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Site-based log organization implemented (`logs/{siteId}/YYYY-MM-DD.json`)
 - Subscription management UI added
 - Sidebar layout with two-panel design
+- Runtime setup is required for deployments because GitHub repo, branch, CORS, and auto-commit settings must be editable without rebuilding the app
 
 **Constraints:**
 - Browser-native only (no Node.js modules like `stream`, `Buffer`, `fs`)
 - Must use native `fetch`, `DOMParser`, `atob`/`btoa`
 - GitHub tokens visible in client bundle (use public repos recommended)
 - GitHub API rate limits: 60/hour (unauthenticated), 5000/hour (authenticated)
+- No build-time GitHub repository or branch configuration; deployed builds must be reusable across repos and users
 
 ## Goals / Non-Goals
 
@@ -27,6 +29,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Support multiple RSS feeds with subscription management
 - Modern, responsive UI using MUI v7
 - Site-based log organization with 200-item chunking
+- Provide a dedicated Config UI page for runtime setup of GitHub storage, RSS CORS behavior, auto-commit behavior, and future settings
 
 **Non-Goals:**
 - Server-side rendering or backend API
@@ -34,6 +37,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Real-time updates or WebSocket connections
 - Advanced RSS features (full-text search, categories/tags, keyboard shortcuts)
 - PWA/offline mode (future enhancement)
+- Multiple read/write branches for one repo; reads and writes use the same configured branch
 
 ## Decisions
 
@@ -83,7 +87,6 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Site-isolated for better organization
 - Filename based on oldest item date
 - Automatic chunking when limit reached
-**Migration:** Automatic conversion from old `logs/YYYY-MM-DD.json` daily structure
 
 ### 6. GitHub API: Native Fetch with Base64 Encoding
 **Decision:** Use native `fetch()` API with manual base64 encoding/decoding
@@ -97,21 +100,35 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Write: `PUT /repos/{owner}/{repo}/contents/{path}` → btoa(JSON.stringify(data))
 - SHA required for updates (get from read response)
 
-### 7. CORS Handling: Multi-Tier Fallback
-**Decision:** Direct fetch → corsproxy.io → allorigins.win
+### 7. CORS Handling: Configurable Policy with Multi-Tier Fallback
+**Decision:** Use a runtime CORS policy from the Config page. Default policy is direct fetch followed by configured proxy fallbacks (`corsproxy.io`, then `allorigins.win`).
 **Rationale:**
 - Many RSS feeds don't enable CORS
-- Multiple fallbacks increase success rate
-- No server-side proxy needed
-**Trade-off:** Depends on third-party CORS proxies (free services)
+- Different deployments may prefer direct-only fetching, specific public proxies, or a custom proxy
+- Multiple fallbacks increase success rate while still letting users disable third-party proxies
+- No server-side proxy is required by default
+**Configuration:**
+- `mode`: `direct-only`, `proxy-fallback`, or `proxy-only`
+- `proxies`: ordered list of proxy templates with the feed URL encoded into each request
+- `timeoutMs`: per-attempt timeout for direct and proxy fetches
+**Trade-off:** Public proxy reliability and privacy vary. The UI must make the active policy visible and editable.
 
-### 8. Configuration Storage: localStorage over .env Files
-**Decision:** Store GitHub config (owner, repo, branch, token) in localStorage
+### 8. Runtime Config Page: localStorage over Build-Time Setup
+**Decision:** Add a dedicated Config UI page that stores application setup in localStorage and removes build-time GitHub repo setup.
 **Rationale:**
 - Pure browser approach (no .env files)
-- User can configure via UI
+- One deployed build can be reused for any GitHub repo and branch
+- User can configure and revise setup via UI after deployment
 - Tokens visible in bundle anyway (security implications documented)
-**Impact:** SetupPage.tsx handles configuration instead of .env
+**Scope:**
+- GitHub storage: owner, repo, branch, and optional token
+- Reads and writes use the same branch to avoid split-brain config/log state
+- Token capability: after saving a token, the app checks whether it can write to the configured repository and branch
+- CORS policy: fetch mode, proxy order, optional custom proxy templates, and timeout
+- Auto-commit: enabled/disabled and interval in seconds
+- Local storage retention: number of GitHub log files cached per site
+- Extensibility: settings are grouped by section and versioned so future sections can be added without changing the storage contract
+**Impact:** Replace first-run-only setup behavior with a reusable Config page reachable from app navigation. `SetupPage.tsx` may be renamed or refactored, but configuration must not depend on Vite environment variables.
 
 ### 9. UI Framework: MUI v7
 **Decision:** Use Material-UI v7 components
@@ -122,22 +139,57 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Good TypeScript support
 **Components Used:** Container, Paper, Accordion, Switch, Button, Chip, LinearProgress, ThemeProvider
 
-### 10. Auto-Commit: Configurable Timer with Manual Option
-**Decision:** Optional auto-commit with 60s/300s/900s intervals
+### 10. Auto-Commit: Config Page Setting with Manual Option
+**Decision:** Auto-commit is controlled by runtime config with enabled/disabled state and configurable interval.
 **Rationale:**
 - Prevents data loss
 - Reduces manual work
 - User controls frequency
 - Respects GitHub API rate limits
-**Default:** 300 seconds (5 minutes)
+**Default:** `autoCommit: false`. The user may enable it only when GitHub write capability is valid, with a 300 second (5 minute) default interval.
+**Validation:** The Config page prevents invalid intervals and explains that manual commit remains available when auto-commit is disabled.
+
+### 11. Commit Controls: Token Capability Gates Write UI
+**Decision:** Check GitHub write capability after token setup and expose write controls only when the token can write to the configured repo and branch.
+**Rationale:**
+- Avoids presenting commit actions that cannot succeed
+- Makes token scope/repo permission problems visible during setup
+- Supports public read-only repos without confusing write failures
+**Implementation:**
+- After saving GitHub settings with a token, call a lightweight GitHub API capability check against the configured owner, repo, and branch
+- Store the latest write-capability result in runtime config or derived app state, including status and last error message
+- Show a manual commit button in the reader only when write capability is valid
+- Hide manual commit and keep auto-commit disabled when the token is missing, invalid, or cannot write to the repo
+- Re-run the capability check when owner, repo, branch, or token changes
+
+### 12. Local Storage Strategy: Bounded Per-Site Log Cache
+**Decision:** Cache GitHub log data in localStorage with a bounded per-site retention policy. Default retention is one log file per site, configurable from the Config page.
+**Rationale:**
+- Keeps startup and read-state checks fast without repeatedly fetching the latest GitHub log file for every interaction
+- Limits localStorage growth across long-running usage and many feeds
+- Matches the existing site-based log layout while giving users control when they want more local history
+**Configuration:**
+- `localCache.filesPerSite`: number of log files to retain locally for each site
+- Default: `1`
+- Minimum: `0` to disable local log-file caching while keeping required app config/session state
+- Maximum: bounded by validation to avoid exceeding browser localStorage limits
+**Storage Shape:**
+- Store runtime app config separately from cached log data
+- Store cached logs by repo identity, branch, siteId, and log file path so switching repos or branches cannot mix state
+- Track cache metadata including fetched time, source SHA when available, and item count
+**Eviction:**
+- After loading or committing logs for a site, keep only the newest `localCache.filesPerSite` log files for that site
+- Evict older cached log files deterministically by log date/file path
+- When the retention value is lowered in Config, prune existing cached files on save
+**Trade-off:** Keeping only one file per site minimizes browser storage use but may require GitHub reads for older history. Users can increase the limit when they want more offline/local history.
 
 ## Risks / Trade-offs
 
-**[CORS Blocking RSS Feeds]** → Use multiple CORS proxy fallbacks (corsproxy.io, allorigins.win). Document limitation to users.
+**[CORS Blocking RSS Feeds]** → Use runtime CORS policy with direct and proxy options. Document proxy privacy/reliability limitations and allow users to disable proxies.
 
 **[GitHub API Rate Limits]** → Unauthenticated: 60/hour. Authenticated: 5000/hour. Mitigation: batch commits, cache responses, configurable commit intervals.
 
-**[GitHub Token Exposure]** → Tokens visible in client bundle. Mitigation: Use public repos (no token needed for reads), document security implications clearly.
+**[GitHub Token Exposure]** → Tokens stored in browser localStorage. Mitigation: Use public repos when possible, recommend least-privilege tokens for writes, document security implications clearly.
 
 **[RSS Feed Parsing Errors]** → Malformed XML or unsupported formats. Mitigation: Robust error handling, validate before parsing, user-friendly error messages.
 
@@ -145,30 +197,16 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 
 **[Browser Storage Limits]** → localStorage ~5-10MB. Mitigation: Limit stored items, cleanup old data, compress if needed.
 
+**[Stale Local Log Cache]** → Cached log files may lag behind GitHub after external edits or use from another browser. Mitigation: key cache by repo/branch/path/SHA when available, refresh latest files during startup, and let users reduce or clear cache from Config.
+
 **[Data Loss During Merge]** → GitHub log merge errors. Mitigation: Test merge logic thoroughly, local backup before commit, retry logic.
 
 **[Network Timeouts]** → Slow or unresponsive feeds. Mitigation: Timeout configuration, retry with exponential backoff.
 
-## Migration Plan
-
-### From Daily Logs to Site-Based Logs
-1. On app startup, check for old `logs/YYYY-MM-DD.json` files
-2. Read existing daily logs
-3. Re-organize by site: `logs/{siteId}/YYYY-MM-DD.json`
-4. Apply 200-item chunking rule
-5. Write new structure to GitHub
-6. Optionally keep or remove old structure (recommend keep as backup)
-
-### From .env to localStorage
-1. Remove .env file references
-2. Update SetupPage to save config to localStorage
-3. On load, check localStorage for config
-4. Provide UI for configuring GitHub repo settings
-
-### Deployment
+## Deployment
 - Build: `npm run build` (Vite)
 - Deploy to: Vercel, Netlify, GitHub Pages, or Cloudflare Pages
-- No environment variables needed on server (all in localStorage)
+- No GitHub repository environment variables needed at build or hosting time
 - User configures their own GitHub repo on first use
 
 ## Open Questions
@@ -178,3 +216,4 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Should we support feed categories/tags? (Future enhancement)
 - Should we implement PWA features for offline support? (Future consideration)
 - Should we add keyboard shortcuts for power users? (Post-MVP enhancement)
+- Should CORS proxy presets be hard-coded defaults only, or should users be able to add/remove arbitrary proxy templates in the first Config page version?

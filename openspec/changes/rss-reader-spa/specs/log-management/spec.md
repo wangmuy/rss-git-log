@@ -33,17 +33,6 @@ The system SHALL merge new read items with existing log data, avoiding duplicate
 - **WHEN** committing read status and log file doesn't exist
 - **THEN** new log file is created with metadata and items array
 
-### Requirement: Migrate from daily logs to site-based logs
-The system SHALL provide automatic migration from old `logs/YYYY-MM-DD.json` structure to new site-based structure.
-
-#### Scenario: Detect old log structure
-- **WHEN** application starts and old log files exist
-- **THEN** system detects old structure and triggers migration
-
-#### Scenario: Convert daily logs to site-based
-- **WHEN** migration runs
-- **THEN** items from daily logs are reorganized by site with 200-item chunking
-
 ### Requirement: Include metadata in log files
 The system SHALL include metadata (date, generatedAt, item counts) in log files.
 

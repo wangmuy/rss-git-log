@@ -227,7 +227,7 @@ src/
 ├── types/              # TypeScript definitions
 │   ├── config.ts              # RSSConfig, GitHubConfig
 │   ├── rss.ts                 # RSSItem, RSSFeed
-│   └── log.ts                 # LogData interfaces
+│   └── log.ts                 # Site log interfaces
 ├── utils/              # Utility functions
 │   ├── github-api.ts          # GitHub API (native fetch)
 │   ├── rss-parser.ts          # RSS parsing (DOMParser)
