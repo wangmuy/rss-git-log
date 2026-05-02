@@ -7,70 +7,76 @@ A lean React Single Page Application (SPA) for reading RSS feeds with automatic 
 - **Zero Backend**: Pure client-side React application
 - **GitHub API Integration**: Config and logs stored in GitHub repositories
 - **Read Tracking**: Automatic tracking of read items per session
-- **Daily Logs**: Automatic commit to `logs/YYYY-MM-DD.json`
-- **Clean UI**: Minimal, focused reading experience
+- **Site-Based Logs**: Organized logs by site with 200-item chunking (`logs/{siteId}/YYYY-MM-DD.json`)
+- **Clean UI**: Minimal, focused reading experience with sidebar layout
+- **Subscription Management**: Add, edit, delete RSS feeds via UI
 - **Configurable**: User settings for display and auto-commit
 - **MUI v7**: Modern Material Design components
+- **Browser Native**: No Node.js dependencies, uses native fetch/DOMParser
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-1. **Node.js 18+** and **npm** installed
-2. **GitHub account** with a public repository
+1. **Node.js 18+** installed
+   - Check: `node --version`
+   - Download: https://nodejs.org/
 
-### Setup
+2. **GitHub Account**
+   - Sign up: https://github.com/join
 
-#### 1. Install Dependencies
+3. **Git** installed (optional, for uploading config)
+   - Check: `git --version`
+
+### Step-by-Step Setup
+
+#### Step 1: Install Dependencies
+
+In the project directory, run:
 
 ```bash
 npm install
 ```
 
-#### 2. Configure Environment
+This will install:
+- React 18
+- MUI v7 (Material Design)
+- Zustand (state management)
+- Browser-native RSS parsing (DOMParser)
+- Browser-native GitHub API integration (fetch)
 
-Copy `.env.example` to `.env` and update with your GitHub details:
+#### Step 2: Create GitHub Repository
+
+1. Go to github.com and create a **new public repository**
+   - Name: `rss-reader-data` (or any name)
+   - Visibility: **Public** (important!)
+   - Initialize with README: No
+
+2. Note your repository details:
+   - Owner: `your-username`
+   - Repo: `rss-reader-data`
+
+#### Step 3: Configure via UI (No .env Files!)
+
+> **Note**: This app uses browser localStorage instead of .env files. Configuration is done through the app's Setup page.
+
+The app will prompt you to enter your GitHub details on first use:
+- **Owner**: your GitHub username
+- **Repo**: the repository name you created
+- **Branch**: `main` (default)
+- **Token**: Only needed for private repos or write operations
+
+> **Security**: For public repos, no token is needed for reading. If using a token, be aware it's visible in the client bundle.
+
+#### Step 4: Create Config File
+
+1. Copy the example config to your repository:
 
 ```bash
-cp .env.example .env
+cp public/rss-config.example.json /tmp/rss-config.json
 ```
 
-Edit `.env`:
-```env
-VITE_GITHUB_OWNER=your-username
-VITE_GITHUB_REPO=rss-reader-data
-VITE_GITHUB_BRANCH=main
-# VITE_GITHUB_TOKEN=ghp_xxxxxxxx  # Only needed for private repos or write operations
-```
-
-#### 3. Set Up GitHub Repository
-
-1. Create a **public** GitHub repository (e.g., `rss-reader-data`)
-2. Upload the config file:
-   ```bash
-   # Copy the example config
-   cp public/rss-config.example.json rss-config.json
-
-   # Edit with your RSS feeds
-   nano rss-config.json
-
-   # Upload to GitHub
-   git add rss-config.json
-   git commit -m "Add RSS config"
-   git push
-   ```
-
-#### 4. Run Development Server
-
-```bash
-npm run dev
-```
-
-Visit: `http://localhost:3000`
-
-## 📋 Configuration
-
-### RSS Config File (`rss-config.json`)
+2. Edit with your favorite RSS feeds:
 
 ```json
 {
@@ -94,6 +100,49 @@ Visit: `http://localhost:3000`
 }
 ```
 
+3. Upload to GitHub:
+
+```bash
+# Option A: Using GitHub Web UI
+# Go to your repo → Add file → Upload files → Upload rss-config.json
+
+# Option B: Using Git CLI
+git clone https://github.com/your-username/rss-reader-data.git
+cd rss-reader-data
+cp /tmp/rss-config.json .
+git add rss-config.json
+git commit -m "Add RSS configuration"
+git push
+```
+
+#### Step 5: Start Development Server
+
+```bash
+npm run dev
+```
+
+Open your browser to: `http://localhost:3000`
+
+#### Step 6: Verify Setup
+
+You should see:
+1. ✅ Header with app title
+2. ✅ Setup page (first time) or Settings panel
+3. ✅ Your RSS feeds loaded in sidebar
+4. ✅ Articles displayed in content area
+
+If you see errors:
+- Check browser console (F12)
+- Verify config file is in GitHub repo
+- Check repo is public
+- Ensure GitHub config is entered correctly in Setup page
+
+## 📋 Configuration
+
+### RSS Config File (`rss-config.json`)
+
+Stored in your GitHub repository root. See `public/rss-config.example.json` for the full schema.
+
 ### Settings Explained
 
 - **showReadItems**: Display already-read items (default: false)
@@ -105,11 +154,23 @@ Visit: `http://localhost:3000`
 ### Data Flow
 
 ```
-Browser → Load Config (GitHub API) → Fetch RSS Feeds → Display UI
-                                      ↓
-                              User Reads Items → Track in Session
-                                      ↓
-                              Auto/Manual Commit → GitHub API (logs/YYYY-MM-DD.json)
+Browser (React SPA)
+    ↓
+Native fetch() API
+    ↓
+GitHub REST API v3
+    ↓
+Config File (rss-config.json)
+    ↓
+RSS Feed URLs
+    ↓
+DOMParser (XML)
+    ↓
+Display UI (Sidebar Layout)
+    ↓
+LocalStorage (session)
+    ↓
+Commit to logs/{siteId}/YYYY-MM-DD.json
 ```
 
 ### Storage Layers
@@ -129,24 +190,51 @@ This ensures:
 - Same article with different tracking params = same ID
 - Stable identification across sessions
 
+### Log File Structure
+
+```
+logs/
+├── news.ycombinator.com/
+│   ├── 2025-12-20.json  # ≤200 items, oldest from Dec 20
+│   └── 2025-12-22.json  # Next 200 items
+├── techcrunch.com/
+│   └── 2025-12-19.json  # ≤200 items, oldest from Dec 19
+```
+
+Features:
+- Max 200 items per file (prevents large files)
+- Filename based on oldest item date
+- Site-isolated for better organization
+- Automatic chunking when limit reached
+
 ## 📁 Project Structure
 
 ```
 src/
-├── features/
-│   └── rss-reader/
-│       ├── components/     # UI Components
-│       ├── hooks/          # Custom hooks
-│       ├── store/          # Zustand state
-│       └── types/          # TypeScript types
-├── utils/                  # Utility functions
-│   ├── github-api.ts       # GitHub API integration
-│   ├── rss-parser.ts       # RSS parsing
-│   ├── item-id.ts          # ID generation
-│   ├── url.ts              # URL utilities
-│   └── log-file.ts         # Log management
-├── types/                  # Global types
-└── App.tsx                 # Main app
+├── components/           # All UI components
+│   ├── SetupPage.tsx           # GitHub repo configuration
+│   ├── SidebarFeedLayout.tsx   # Main two-panel layout
+│   ├── SubscriptionManager.tsx # RSS feed CRUD
+│   ├── FeedItem.tsx           # Individual RSS item
+│   ├── Header.tsx             # App header
+│   └── SettingsPanel.tsx      # User settings
+├── hooks/              # Custom React hooks
+│   ├── useConfig.ts           # Config loading/management
+│   ├── useRSSFeeds.ts         # RSS feed fetching
+│   └── useCommit.ts           # GitHub commit logic
+├── store/              # Zustand state management
+│   └── readerStore.ts         # Read status, feeds, settings
+├── types/              # TypeScript definitions
+│   ├── config.ts              # RSSConfig, GitHubConfig
+│   ├── rss.ts                 # RSSItem, RSSFeed
+│   └── log.ts                 # LogData interfaces
+├── utils/              # Utility functions
+│   ├── github-api.ts          # GitHub API (native fetch)
+│   ├── rss-parser.ts          # RSS parsing (DOMParser)
+│   ├── item-id.ts             # ID generation
+│   ├── log-file.ts            # Log management
+│   └── url.ts                # URL utilities
+└── App.tsx             # Main application
 ```
 
 ## 🔧 Commands
@@ -173,10 +261,9 @@ npm run test
 ### ⚠️ Important Warnings
 
 1. **Never commit tokens to client-side code**
-   - Use public repos for read-only access
-   - For write operations, consider:
-     - Serverless function (Cloudflare Workers, Vercel Functions)
-     - GitHub OAuth app with user authentication
+   - Use public repos for read-only access (no token needed)
+   - For write operations, tokens are stored in localStorage
+   - Be aware tokens in client bundle are visible
 
 2. **Public Repositories**
    - All data in public repos is visible to everyone
@@ -186,25 +273,33 @@ npm run test
 3. **Rate Limits**
    - Unauthenticated: 60 requests/hour
    - Authenticated: 5000 requests/hour
-   - App uses `fetch` mode (slower but more reliable)
+   - App uses native fetch (slower but more reliable)
 
 ## 🐛 Troubleshooting
 
 ### "Config file not found"
 - Ensure `rss-config.json` exists in your GitHub repo
-- Check environment variables are correct
+- Check GitHub config in Setup page (owner, repo, branch)
 - Verify repo is public (or token is valid)
+- Wait 30 seconds (GitHub cache)
 
 ### "Failed to fetch RSS feeds"
-- Some feeds block CORS - app uses proxy fallback
+- Some feeds block CORS - app auto-uses proxy fallback
 - Check feed URLs are valid
 - Try refreshing after a few seconds
+- Check browser console for specific errors
+
+### "CORS errors"
+This is normal! The app automatically uses CORS proxies as fallback:
+1. Direct fetch (if CORS enabled)
+2. Fallback 1: `https://corsproxy.io/?{encoded_url}`
+3. Fallback 2: `https://api.allorigins.win/raw?url={encoded_url}`
 
 ### "404 errors from GitHub API"
-- This can mean:
-  - File doesn't exist yet (normal for first commit)
-  - Private repo without access
-  - Wrong repo/branch configuration
+This can mean:
+- File doesn't exist yet (normal for first commit)
+- Private repo without access
+- Wrong repo/branch configuration
 
 ### Items not marking as read
 - Check browser console for errors
@@ -221,19 +316,24 @@ npm run test
 ## 🎯 Roadmap
 
 ### MVP Features ✅
-- [x] GitHub API integration
-- [x] RSS feed fetching
+- [x] GitHub API integration (read/write)
+- [x] RSS feed fetching and parsing
 - [x] Read status tracking
-- [x] Daily log files
+- [x] Site-based log files with chunking
+- [x] Subscription management UI
+- [x] Sidebar layout implementation
+- [x] Auto-commit functionality
+- [x] Browser-only storage (localStorage)
 - [x] Configurable settings
 - [x] Clean UI with MUI
 
 ### Future Enhancements
-- [ ] Search/filter feeds
-- [ ] Categories/tags
+- [ ] Search/filter functionality
+- [ ] Feed categories/tags
 - [ ] Export data (CSV/JSON)
 - [ ] Keyboard shortcuts
 - [ ] PWA offline support
+- [ ] Dark mode theme
 - [ ] Feed discovery
 - [ ] Multi-user support (with auth)
 
@@ -261,4 +361,16 @@ Built with:
 
 **Status**: MVP Ready 🚀
 
-**Last Updated**: 2025-12-21
+**Last Updated**: 2025-12-24
+
+**Next Steps**:
+1. Read some articles - Click on items to mark as read
+2. Change settings - Toggle "Show Read Items"
+3. Manage subscriptions - Add/edit/delete RSS feeds via UI
+4. Manual commit - Click the save icon to commit to GitHub
+5. Check GitHub - After commit, look for `logs/{siteId}/YYYY-MM-DD.json`
+
+**Need Help?**
+1. Check browser console (F12)
+2. Review this README troubleshooting section
+3. Check GitHub REST API docs: https://docs.github.com/en/rest
