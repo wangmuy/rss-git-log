@@ -1,6 +1,7 @@
 import { useState, useCallback, useEffect } from 'react';
 import { commitAllReadItems } from '@/utils/log-file';
 import { useReaderStore } from '../store/readerStore';
+import { loadAppConfig } from '@/utils/app-config';
 
 interface UseCommitReturn {
   commit: () => Promise<boolean>;
@@ -22,7 +23,7 @@ export function useCommit(): UseCommitReturn {
   const [lastCommit, setLastCommit] = useState<Date | null>(null);
   const [error, setError] = useState<string | null>(null);
 
-  const { getAllUnreadItems, settings, setCommitting: setStoreCommitting } = useReaderStore();
+  const { getAllUnreadItems, setCommitting: setStoreCommitting } = useReaderStore();
 
   const commit = useCallback(async (): Promise<boolean> => {
     if (committing) return false;
@@ -32,6 +33,11 @@ export function useCommit(): UseCommitReturn {
     setError(null);
 
     try {
+      const appConfig = loadAppConfig();
+      if (!appConfig.githubWriteCapability.canWrite) {
+        throw new Error(appConfig.githubWriteCapability.reason || 'GitHub write access is not enabled');
+      }
+
       const allUnreadItems = getAllUnreadItems();
 
       // If no unread items, still return true (nothing to commit)
@@ -63,19 +69,21 @@ export function useCommit(): UseCommitReturn {
 
   // Auto-commit timer
   useEffect(() => {
-    if (!settings.autoCommit) return;
+    const appConfig = loadAppConfig();
+    if (!appConfig.autoCommit.enabled || !appConfig.githubWriteCapability.canWrite) return;
 
     const interval = setInterval(() => {
       commit();
-    }, settings.commitInterval * 1000);
+    }, appConfig.autoCommit.intervalSeconds * 1000);
 
     return () => clearInterval(interval);
-  }, [settings.autoCommit, settings.commitInterval, commit]);
+  }, [commit]);
 
   // Commit on page unload
   useEffect(() => {
     const handleBeforeUnload = () => {
-      if (settings.autoCommit) {
+      const appConfig = loadAppConfig();
+      if (appConfig.autoCommit.enabled && appConfig.githubWriteCapability.canWrite) {
         // Fire and forget - we can't wait for async in beforeunload
         commit();
       }
@@ -83,7 +91,7 @@ export function useCommit(): UseCommitReturn {
 
     window.addEventListener('beforeunload', handleBeforeUnload);
     return () => window.removeEventListener('beforeunload', handleBeforeUnload);
-  }, [settings.autoCommit, commit]);
+  }, [commit]);
 
   return {
     commit,

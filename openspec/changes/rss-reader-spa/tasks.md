@@ -18,10 +18,10 @@
 - [x] 2.7 Add 404 handling for missing files (return null instead of throwing)
 - [x] 2.8 Test GitHub API read with public test repo
 - [x] 2.9 Test GitHub API write with personal access token
-- [ ] 2.10 Remove any remaining build-time GitHub owner/repo/branch/token setup from Vite env usage
-- [ ] 2.11 Ensure GitHub reads and writes always use the same runtime-configured branch
-- [ ] 2.12 Add GitHub token write-capability check for the configured owner, repo, and branch
-- [ ] 2.13 Persist or expose token write-capability status for UI gating and error display
+- [x] 2.10 Remove any remaining build-time GitHub owner/repo/branch/token setup from Vite env usage
+- [x] 2.11 Ensure GitHub reads and writes always use the same runtime-configured branch
+- [x] 2.12 Add GitHub token write-capability check for the configured owner, repo, and branch
+- [x] 2.13 Persist or expose token write-capability status for UI gating and error display
 
 ## 3. RSS Parsing Engine
 
@@ -33,9 +33,9 @@
 - [x] 3.6 Create removeTrackingParams() utility for URL normalization
 - [x] 3.7 Test parsing with sample RSS 2.0 and Atom feeds
 - [x] 3.8 Add error handling for malformed XML
-- [ ] 3.9 Refactor fetchRSS() to accept runtime CORS policy from app config
-- [ ] 3.10 Support direct-only, proxy-fallback, and proxy-only RSS fetch modes
-- [ ] 3.11 Support configurable proxy template order and per-attempt timeout
+- [x] 3.9 Refactor fetchRSS() to accept runtime CORS policy from app config
+- [x] 3.10 Support direct-only, proxy-fallback, and proxy-only RSS fetch modes
+- [x] 3.11 Support configurable proxy template order and per-attempt timeout
 
 ## 4. Read Status Tracking
 
@@ -84,20 +84,20 @@
 - [x] 7.8 Create Header component with refresh, settings, and mark all read buttons
 - [x] 7.9 Implement SettingsPanel with show-read toggle and auto-commit settings
 - [x] 7.10 Add responsive design for mobile (collapse sidebar on small screens)
-- [ ] 7.11 Add navigation entry or header action that opens the Config page after first setup
-- [ ] 7.12 Move auto-commit setup out of transient reader settings and into persisted app config
-- [ ] 7.13 Add manual commit button in the reader when GitHub write capability is valid
-- [ ] 7.14 Hide manual commit button when token is missing, invalid, or cannot write to the configured repo
+- [x] 7.11 Add navigation entry or header action that opens the Config page after first setup
+- [x] 7.12 Move auto-commit setup out of transient reader settings and into persisted app config
+- [x] 7.13 Add manual commit button in the reader when GitHub write capability is valid
+- [x] 7.14 Hide manual commit button when token is missing, invalid, or cannot write to the configured repo
 
 ## 8. Data Management
 
 - [x] 8.4 Create LocalStorage persistence layer for read status cache
 - [x] 8.5 Implement data cleanup utilities for old session data
 - [x] 8.6 Add merge strategy for LocalStorage + GitHub log data on startup
-- [ ] 8.7 Add localStorage log-file cache keyed by repo, branch, siteId, and log file path
-- [ ] 8.8 Add per-site cache eviction that keeps only the configured number of newest log files
-- [ ] 8.9 Default local log-file cache retention to 1 file per site
-- [ ] 8.10 Prune existing cached log files when Config lowers the per-site retention value
+- [x] 8.7 Add localStorage log-file cache keyed by repo, branch, siteId, and log file path
+- [x] 8.8 Add per-site cache eviction that keeps only the configured number of newest log files
+- [x] 8.9 Default local log-file cache retention to 1 file per site
+- [x] 8.10 Prune existing cached log files when Config lowers the per-site retention value
 
 ## 9. Polish & Error Handling
 
@@ -108,37 +108,37 @@
 - [x] 9.5 Add empty states: no feeds configured, no unread items
 - [x] 9.6 Implement React.memo() for expensive components (FeedItem, FeedList)
 - [x] 9.7 Add error boundary wrapper for main app
-- [ ] 9.8 Add validation and user-facing errors for invalid GitHub repo, branch, token, CORS proxy, and auto-commit interval settings
+- [x] 9.8 Add validation and user-facing errors for invalid GitHub repo, branch, token, CORS proxy, and auto-commit interval settings
 
 ## 10. Runtime Config UI
 
-- [ ] 10.1 Define versioned AppConfig type with sections for GitHub storage, GitHub write capability, CORS policy, auto-commit, local cache retention, and future extension settings
-- [ ] 10.2 Add config storage utilities for loading, saving, validating, and resetting AppConfig in localStorage
-- [ ] 10.3 Create ConfigPage component or refactor SetupPage into a full Config page reachable during normal app use
-- [ ] 10.4 Add GitHub config form fields for owner, repo, branch, and optional token
-- [ ] 10.5 Enforce a single branch value for both GitHub reads and writes
-- [ ] 10.6 Add CORS policy controls for fetch mode, ordered proxy templates, custom proxy template, and timeout
-- [ ] 10.7 Add auto-commit controls for enabled/disabled state and commit interval, defaulting enabled to false
-- [ ] 10.8 Add local cache retention control for files per site, defaulting to 1
-- [ ] 10.9 Add section-based layout so future configuration groups can be added without redesigning the page
-- [ ] 10.10 Wire App startup to require Config page only when required GitHub settings are missing or invalid
-- [ ] 10.11 Wire GitHub API, RSS fetching, auto-commit hooks, and local cache retention to consume AppConfig instead of scattered localStorage/settings reads
-- [ ] 10.12 Run token write-capability check after token setup and whenever owner, repo, branch, or token changes
-- [ ] 10.13 Disable auto-commit and show a config warning when write capability is invalid
-- [ ] 10.14 Update README setup instructions to describe runtime Config page, default auto-commit off, local cache retention, write-capability checks, and removal of build-time GitHub setup references
+- [x] 10.1 Define versioned AppConfig type with sections for GitHub storage, GitHub write capability, CORS policy, auto-commit, local cache retention, and future extension settings
+- [x] 10.2 Add config storage utilities for loading, saving, validating, and resetting AppConfig in localStorage
+- [x] 10.3 Create ConfigPage component or refactor SetupPage into a full Config page reachable during normal app use
+- [x] 10.4 Add GitHub config form fields for owner, repo, branch, and optional token
+- [x] 10.5 Enforce a single branch value for both GitHub reads and writes
+- [x] 10.6 Add CORS policy controls for fetch mode, ordered proxy templates, custom proxy template, and timeout
+- [x] 10.7 Add auto-commit controls for enabled/disabled state and commit interval, defaulting enabled to false
+- [x] 10.8 Add local cache retention control for files per site, defaulting to 1
+- [x] 10.9 Add section-based layout so future configuration groups can be added without redesigning the page
+- [x] 10.10 Wire App startup to require Config page only when required GitHub settings are missing or invalid
+- [x] 10.11 Wire GitHub API, RSS fetching, auto-commit hooks, and local cache retention to consume AppConfig instead of scattered localStorage/settings reads
+- [x] 10.12 Run token write-capability check after token setup and whenever owner, repo, branch, or token changes
+- [x] 10.13 Disable auto-commit and show a config warning when write capability is invalid
+- [x] 10.14 Update README setup instructions to describe runtime Config page, default auto-commit off, local cache retention, write-capability checks, and removal of build-time GitHub setup references
 
 ## 11. Testing & Documentation
 
-- [ ] 11.1 Set up vitest with React Testing Library
-- [ ] 11.2 Write unit tests for generateItemId() (consistency, uniqueness)
-- [ ] 11.3 Write unit tests for removeTrackingParams() URL normalization
-- [ ] 11.4 Write unit tests for parseXMLFeed() with mock RSS/Atom data
-- [ ] 11.5 Write component tests for FeedItem, SubscriptionManager, SettingsPanel, and ConfigPage
-- [ ] 11.6 Write integration test for full read flow (fetch → display → track)
-- [ ] 11.7 Write tests for AppConfig validation and default values
-- [ ] 11.8 Write tests for CORS policy mode/proxy selection behavior
-- [ ] 11.9 Write tests for GitHub token write-capability gating of manual and auto commit
-- [ ] 11.10 Write tests for localStorage log-cache retention and per-site eviction
+- [x] 11.1 Set up vitest with React Testing Library
+- [x] 11.2 Write unit tests for generateItemId() (consistency, uniqueness)
+- [x] 11.3 Write unit tests for removeTrackingParams() URL normalization
+- [x] 11.4 Write unit tests for parseXMLFeed() with mock RSS/Atom data
+- [x] 11.5 Write component tests for FeedItem, SubscriptionManager, SettingsPanel, and ConfigPage
+- [x] 11.6 Write integration test for full read flow (fetch → display → track)
+- [x] 11.7 Write tests for AppConfig validation and default values
+- [x] 11.8 Write tests for CORS policy mode/proxy selection behavior
+- [x] 11.9 Write tests for GitHub token write-capability gating of manual and auto commit
+- [x] 11.10 Write tests for localStorage log-cache retention and per-site eviction
 - [x] 11.11 Create README.md with installation and GitHub setup instructions
 - [x] 11.12 Document CORS proxy usage and limitations
 - [x] 11.13 Document security implications of client-side token storage

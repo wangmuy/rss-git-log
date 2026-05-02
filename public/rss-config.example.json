@@ -18,7 +18,7 @@
   ],
   "settings": {
     "showReadItems": false,
-    "autoCommit": true,
+    "autoCommit": false,
     "commitInterval": 300
   }
 }

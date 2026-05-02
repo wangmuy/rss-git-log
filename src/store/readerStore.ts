@@ -43,7 +43,7 @@ interface ReaderState {
 
 const DEFAULT_SETTINGS: ReaderSettings = {
   showReadItems: false,
-  autoCommit: true,
+  autoCommit: false,
   commitInterval: 300 // 5 minutes
 };
 

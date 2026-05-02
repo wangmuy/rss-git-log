@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { CssBaseline, ThemeProvider, createTheme } from '@mui/material';
 import { ReaderLayout } from './components/ReaderLayout';
-import { SetupPage } from './components/SetupPage';
+import { ConfigPage } from './components/ConfigPage';
 import { useReaderStore } from './store/readerStore';
 import { hasGitHubConfig, getStoredConfig, createGitHubClient, readFromGitHub } from './utils/github-api';
 
@@ -45,14 +45,14 @@ const theme = createTheme({
 });
 
 const App: React.FC = () => {
-  const [view, setView] = useState<'loading' | 'setup' | 'reader'>('loading');
+  const [view, setView] = useState<'loading' | 'config' | 'reader'>('loading');
   const loadFromLocalStorage = useReaderStore(state => state.loadFromLocalStorage);
 
   const checkConfig = async () => {
     try {
-      // First check if env vars are set
+      // First check if runtime GitHub configuration is saved
       if (!hasGitHubConfig()) {
-        setView('setup');
+        setView('config');
         return;
       }
 
@@ -60,21 +60,13 @@ const App: React.FC = () => {
       try {
         const storedConfig = getStoredConfig();
         const client = createGitHubClient(storedConfig);
-        const configExists = await readFromGitHub(client, 'rss-config.json');
-
-        if (configExists) {
-          setView('reader');
-        } else {
-          // Config file doesn't exist yet
-          setView('setup');
-        }
+        await readFromGitHub(client, 'rss-config.json');
+        setView('reader');
       } catch (error) {
-        // Error checking for config file (e.g., network error, auth error)
-        // Still show setup page with instructions
-        setView('setup');
+        setView('config');
       }
     } catch (error) {
-      setView('setup');
+      setView('config');
     }
   };
 
@@ -105,8 +97,8 @@ const App: React.FC = () => {
           <div>Loading...</div>
         </div>
       )}
-      {view === 'setup' && <SetupPage onConfigured={handleConfigured} />}
-      {view === 'reader' && <ReaderLayout />}
+      {view === 'config' && <ConfigPage onConfigured={handleConfigured} onCancel={() => setView('reader')} />}
+      {view === 'reader' && <ReaderLayout onOpenConfig={() => setView('config')} />}
     </ThemeProvider>
   );
 };

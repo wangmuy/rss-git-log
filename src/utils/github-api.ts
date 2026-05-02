@@ -1,4 +1,5 @@
 import { GitHubConfig } from '@/types/config';
+import { createDefaultAppConfig, loadAppConfig, saveAppConfig } from './app-config';
 
 /**
  * GitHub API client for browser-compatible GitHub operations
@@ -7,6 +8,12 @@ import { GitHubConfig } from '@/types/config';
 export interface GitHubClient {
   config: GitHubConfig;
   baseUrl: string;
+}
+
+export interface GitHubWriteCapability {
+  canWrite: boolean;
+  checkedAt?: string;
+  reason?: string;
 }
 
 /**
@@ -46,6 +53,14 @@ function buildHeaders(token?: string): HeadersInit {
   return headers;
 }
 
+function getGitHubBranch(config: GitHubConfig): string {
+  return config.branch?.trim() || 'main';
+}
+
+function getGitHubConfigKey(config: GitHubConfig): string {
+  return `${config.owner}/${config.repo}#${getGitHubBranch(config)}`;
+}
+
 /**
  * Read file from GitHub repository
  *
@@ -58,7 +73,7 @@ function buildHeaders(token?: string): HeadersInit {
  */
 export async function readFromGitHub<T>(client: GitHubClient, path: string): Promise<T | null> {
   try {
-    const url = `${client.baseUrl}/contents/${encodeURIComponent(path)}?ref=${client.config.branch || 'main'}`;
+    const url = `${client.baseUrl}/contents/${encodeURIComponent(path)}?ref=${getGitHubBranch(client.config)}`;
 
     const response = await fetch(url, {
       headers: buildHeaders(client.config.token)
@@ -90,6 +105,139 @@ export async function readFromGitHub<T>(client: GitHubClient, path: string): Pro
 }
 
 /**
+ * Get the current SHA for a GitHub repository file.
+ *
+ * GitHub requires this SHA when updating an existing file.
+ *
+ * @param client - GitHub client
+ * @param path - File path relative to repo root
+ * @returns File SHA or undefined when the file does not exist
+ */
+export async function getGitHubFileSha(client: GitHubClient, path: string): Promise<string | undefined> {
+  const response = await fetch(
+    `${client.baseUrl}/contents/${encodeURIComponent(path)}?ref=${getGitHubBranch(client.config)}`,
+    { headers: buildHeaders(client.config.token) }
+  );
+
+  if (response.status === 404) {
+    return undefined;
+  }
+
+  if (!response.ok) {
+    throw new Error(`GitHub API error: ${response.status} ${response.statusText}`);
+  }
+
+  const currentData = await response.json();
+  return currentData.sha;
+}
+
+/**
+ * Check whether the configured token appears able to write to the repo branch.
+ *
+ * This avoids creating test commits. GitHub exposes repository permissions for
+ * authenticated requests, and branch lookup verifies the target branch exists.
+ */
+export async function checkGitHubWriteCapability(client: GitHubClient): Promise<GitHubWriteCapability> {
+  const checkedAt = new Date().toISOString();
+
+  if (!client.config.token) {
+    return {
+      canWrite: false,
+      checkedAt,
+      reason: 'GitHub token is required for write operations'
+    };
+  }
+
+  try {
+    const repoResponse = await fetch(client.baseUrl, {
+      headers: buildHeaders(client.config.token)
+    });
+
+    if (!repoResponse.ok) {
+      return {
+        canWrite: false,
+        checkedAt,
+        reason: `GitHub repo check failed: ${repoResponse.status} ${repoResponse.statusText}`
+      };
+    }
+
+    const repoData = await repoResponse.json();
+    const permissions = repoData.permissions as
+      | { admin?: boolean; maintain?: boolean; push?: boolean }
+      | undefined;
+    const canPush = !!(permissions?.admin || permissions?.maintain || permissions?.push);
+
+    if (!canPush) {
+      return {
+        canWrite: false,
+        checkedAt,
+        reason: 'GitHub token cannot write to this repository'
+      };
+    }
+
+    const branchResponse = await fetch(
+      `${client.baseUrl}/branches/${encodeURIComponent(getGitHubBranch(client.config))}`,
+      { headers: buildHeaders(client.config.token) }
+    );
+
+    if (!branchResponse.ok) {
+      return {
+        canWrite: false,
+        checkedAt,
+        reason: `GitHub branch check failed: ${branchResponse.status} ${branchResponse.statusText}`
+      };
+    }
+
+    return {
+      canWrite: true,
+      checkedAt
+    };
+  } catch (error: any) {
+    return {
+      canWrite: false,
+      checkedAt,
+      reason: error.message || 'GitHub write capability check failed'
+    };
+  }
+}
+
+export function saveGitHubWriteCapability(
+  config: GitHubConfig,
+  capability: GitHubWriteCapability
+): void {
+  const appConfig = loadAppConfig();
+  if (getGitHubConfigKey(appConfig.github) !== getGitHubConfigKey(config)) {
+    return;
+  }
+
+  saveAppConfig(createDefaultAppConfig({
+    ...appConfig,
+    githubWriteCapability: capability
+  }));
+}
+
+export function getStoredGitHubWriteCapability(config: GitHubConfig): GitHubWriteCapability | null {
+  const appConfig = loadAppConfig();
+  if (getGitHubConfigKey(appConfig.github) !== getGitHubConfigKey(config)) {
+    return null;
+  }
+
+  return appConfig.githubWriteCapability;
+}
+
+export function clearGitHubWriteCapability(): void {
+  const appConfig = loadAppConfig();
+  saveAppConfig(createDefaultAppConfig({
+    ...appConfig,
+    githubWriteCapability: {
+      canWrite: false,
+      reason: 'GitHub write capability has not been checked'
+    }
+  }));
+}
+
+
+/**
  * Write file to GitHub repository
  *
  * @param client - GitHub client
@@ -106,21 +254,7 @@ export async function writeToGitHub<T>(client: GitHubClient, path: string, data:
       throw new Error('GitHub token is required for write operations');
     }
 
-    // First, get the current file to get its SHA (required for updates)
-    let sha: string | undefined;
-    try {
-      const getResponse = await fetch(
-        `${client.baseUrl}/contents/${encodeURIComponent(path)}?ref=${client.config.branch || 'main'}`,
-        { headers: buildHeaders(client.config.token) }
-      );
-
-      if (getResponse.ok) {
-        const currentData = await getResponse.json();
-        sha = currentData.sha;
-      }
-    } catch (e) {
-      // File doesn't exist yet, that's fine
-    }
+    const sha = await getGitHubFileSha(client, path);
 
     const content = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
 
@@ -130,7 +264,7 @@ export async function writeToGitHub<T>(client: GitHubClient, path: string, data:
       body: JSON.stringify({
         message: `Update ${path} via RSS Reader`,
         content: btoa(content),
-        branch: client.config.branch || 'main',
+        branch: getGitHubBranch(client.config),
         sha: sha
       })
     });
@@ -152,12 +286,7 @@ export async function writeToGitHub<T>(client: GitHubClient, path: string, data:
  * @returns GitHub config from localStorage
  */
 export function getStoredConfig(): GitHubConfig {
-  const stored = localStorage.getItem('github-config');
-  if (!stored) {
-    throw new Error('No GitHub configuration found in storage');
-  }
-
-  const config = JSON.parse(stored) as GitHubConfig;
+  const config = loadAppConfig().github;
   if (!config.owner || !config.repo) {
     throw new Error('Invalid GitHub configuration: missing owner or repo');
   }
@@ -171,7 +300,17 @@ export function getStoredConfig(): GitHubConfig {
  * @param config - GitHub configuration to save
  */
 export function saveConfig(config: GitHubConfig): void {
-  localStorage.setItem('github-config', JSON.stringify(config));
+  saveAppConfig(createDefaultAppConfig({
+    ...loadAppConfig(),
+    github: {
+      ...config,
+      branch: config.branch?.trim() || 'main'
+    },
+    githubWriteCapability: {
+      canWrite: false,
+      reason: 'GitHub write capability has not been checked'
+    }
+  }));
 }
 
 /**

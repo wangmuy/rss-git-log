@@ -3,6 +3,7 @@ import { fetchMultipleRSS } from '@/utils/rss-parser';
 import { RSSFeed, SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
+import { loadAppConfig } from '@/utils/app-config';
 
 interface UseRSSFeedsReturn {
   sites: SiteWithStatus[];
@@ -54,7 +55,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
       const urls = config.sites.map((site: any) => site.url);
 
       // Fetch all feeds in parallel
-      const feeds: RSSFeed[] = await fetchMultipleRSS(urls);
+      const feeds: RSSFeed[] = await fetchMultipleRSS(urls, loadAppConfig().corsPolicy);
 
       // Transform feeds into sites with status
       const sitesWithStatus: SiteWithStatus[] = config.sites.map((site: any, index: number) => {

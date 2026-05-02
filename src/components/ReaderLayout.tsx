@@ -10,25 +10,35 @@ import { useCommit } from '../hooks/useCommit';
 import { useReaderStore } from '../store/readerStore';
 import { saveRSSConfig } from '../utils/github-api';
 import { RSSConfig } from '@/types/config';
+import { loadAppConfig } from '@/utils/app-config';
 
-export const ReaderLayout: React.FC = () => {
+interface ReaderLayoutProps {
+  onOpenConfig: () => void;
+}
+
+export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const { config, loading: configLoading, error: configError, reload: reloadConfig } = useConfig();
   const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead, markSiteAsRead, markAllAsRead } = useRSSFeeds(config);
   const { commit, committing, lastCommit, error: commitError } = useCommit();
   const { settings, setSettings } = useReaderStore();
   const [localConfig, setLocalConfig] = useState<RSSConfig | null>(config);
+  const [appConfig, setAppConfig] = useState(() => loadAppConfig());
 
   // Update local config when config changes
   React.useEffect(() => {
     setLocalConfig(config);
   }, [config]);
 
+  React.useEffect(() => {
+    setAppConfig(loadAppConfig());
+  }, []);
+
   const loading = configLoading || feedsLoading;
   const error = configError || feedsError || commitError;
 
   const handleMarkAllRead = async () => {
     markAllAsRead();
-    if (settings.autoCommit) {
+    if (appConfig.autoCommit.enabled && appConfig.githubWriteCapability.canWrite) {
       await commit();
     }
   };
@@ -68,7 +78,9 @@ export const ReaderLayout: React.FC = () => {
         onRefresh={handleRefresh}
         onMarkAllRead={handleMarkAllRead}
         onManualCommit={handleManualCommit}
+        onOpenConfig={onOpenConfig}
         isCommitting={committing}
+        canWrite={appConfig.githubWriteCapability.canWrite}
         lastCommit={lastCommit}
       />
 

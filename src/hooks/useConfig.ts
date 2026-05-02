@@ -33,9 +33,14 @@ export function useConfig(): UseConfigReturn {
       const data = await readFromGitHub<RSSConfig>(client, 'rss-config.json');
 
       if (!data) {
-        // Config file doesn't exist - this is expected for new setups
-        // Don't show error, just return empty config
-        setConfig(null);
+        setConfig({
+          sites: [],
+          settings: {
+            showReadItems: false,
+            autoCommit: false,
+            commitInterval: 300
+          }
+        });
         setLoading(false);
         return;
       }

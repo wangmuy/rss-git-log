@@ -1,5 +1,6 @@
 import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig } from './github-api';
 import { LogItem, SiteLogData } from '@/types/log';
+import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
 
 const MAX_LOG_ITEMS_PER_FILE = 200;
 
@@ -77,8 +78,10 @@ export async function getLatestLogFile(siteId: string): Promise<string | null> {
     const filePath = createSiteLogFilename(siteId, dateStr);
     
     try {
-      const data = await readFromGitHub<SiteLogData>(client, filePath);
+      const data = getCachedLogFile(config, siteId, filePath) ??
+        await readFromGitHub<SiteLogData>(client, filePath);
       if (data && data.items.length < 200) {
+        cacheLogFile(config, siteId, filePath, data);
         return filePath;
       }
     } catch {
@@ -104,7 +107,15 @@ export async function readLog(siteId: string, date: Date = new Date()): Promise<
   const client = createGitHubClient(config);
   const path = getLogFilePath(siteId, date);
 
-  return await readFromGitHub<SiteLogData>(client, path);
+  const cached = getCachedLogFile(config, siteId, path);
+  if (cached) return cached;
+
+  const data = await readFromGitHub<SiteLogData>(client, path);
+  if (data) {
+    cacheLogFile(config, siteId, path, data);
+  }
+
+  return data;
 }
 
 /**
@@ -176,8 +187,13 @@ export async function commitReadStatus(
     siteLogData.metadata.itemCount = siteLogData.items.length;
     siteLogData.metadata.generatedAt = new Date().toISOString();
 
-    // Write to GitHub
-    return await writeToGitHub(client, targetFile!, siteLogData);
+    const success = await writeToGitHub(client, targetFile!, siteLogData);
+    if (success) {
+      cacheLogFile(config, siteId, targetFile!, siteLogData);
+      pruneCachedLogFilesForSite(config, siteId);
+    }
+
+    return success;
   } catch (error) {
     console.error('Failed to commit read status:', error);
     return false;
@@ -232,8 +248,10 @@ export async function getReadItemsForSite(siteId: string): Promise<Set<string>> 
     const filePath = createSiteLogFilename(siteId, dateStr);
 
     try {
-      const data = await readFromGitHub<SiteLogData>(client, filePath);
+      const data = getCachedLogFile(config, siteId, filePath) ??
+        await readFromGitHub<SiteLogData>(client, filePath);
       if (data) {
+        cacheLogFile(config, siteId, filePath, data);
         data.items.forEach(item => readItems.add(item.itemId));
       }
     } catch {

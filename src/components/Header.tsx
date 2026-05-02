@@ -13,14 +13,17 @@ import {
   Refresh as RefreshIcon,
   DoneAll as DoneAllIcon,
   Save as SaveIcon,
-  Schedule as ScheduleIcon
+  Schedule as ScheduleIcon,
+  Settings as SettingsIcon
 } from '@mui/icons-material';
 
 interface HeaderProps {
   onRefresh: () => void;
   onMarkAllRead: () => void;
   onManualCommit: () => void;
+  onOpenConfig: () => void;
   isCommitting: boolean;
+  canWrite: boolean;
   lastCommit: Date | null;
 }
 
@@ -28,7 +31,9 @@ export const Header: React.FC<HeaderProps> = ({
   onRefresh,
   onMarkAllRead,
   onManualCommit,
+  onOpenConfig,
   isCommitting,
+  canWrite,
   lastCommit
 }) => {
   const formatLastCommit = () => {
@@ -78,20 +83,23 @@ export const Header: React.FC<HeaderProps> = ({
           </span>
         </Tooltip>
 
-        <Tooltip title={isCommitting ? 'Committing...' : 'Manual Commit'}>
-          <span>
-            <IconButton
+        {canWrite && (
+          <Tooltip title={isCommitting ? 'Committing...' : 'Manual Commit'}>
+            <span>
+              <IconButton
               color="inherit"
               onClick={onManualCommit}
               disabled={isCommitting}
+              aria-label="Manual Commit"
               size="large"
             >
-              <Badge color="secondary" variant="dot" invisible={!isCommitting}>
-                <SaveIcon />
-              </Badge>
-            </IconButton>
-          </span>
-        </Tooltip>
+                <Badge color="secondary" variant="dot" invisible={!isCommitting}>
+                  <SaveIcon />
+                </Badge>
+              </IconButton>
+            </span>
+          </Tooltip>
+        )}
 
         <Tooltip title="Refresh Feeds">
           <IconButton
@@ -100,6 +108,17 @@ export const Header: React.FC<HeaderProps> = ({
             size="large"
           >
             <RefreshIcon />
+          </IconButton>
+        </Tooltip>
+
+        <Tooltip title="Config">
+          <IconButton
+            color="inherit"
+            onClick={onOpenConfig}
+            aria-label="Config"
+            size="large"
+          >
+            <SettingsIcon />
           </IconButton>
         </Tooltip>
       </Toolbar>

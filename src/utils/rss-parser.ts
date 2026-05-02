@@ -1,4 +1,20 @@
 import { RSSFeed } from '@/types/rss';
+import { CORSPolicy } from '@/types/config';
+
+export const DEFAULT_CORS_POLICY: CORSPolicy = {
+  mode: 'proxy-fallback',
+  proxies: [
+    {
+      name: 'corsproxy.io',
+      urlTemplate: 'https://corsproxy.io/?{url}'
+    },
+    {
+      name: 'allorigins.win',
+      urlTemplate: 'https://api.allorigins.win/raw?url={url}'
+    }
+  ],
+  timeoutMs: 10000
+};
 
 /**
  * Parse RSS/Atom XML string using browser's DOMParser
@@ -114,23 +130,34 @@ function parseAtomFeed(_doc: Document, feed: Element): RSSFeed {
 }
 
 /**
- * Fetch RSS feed using CORS proxy
+ * Fetch with timeout.
+ */
+async function fetchWithTimeout(url: string, timeoutMs: number): Promise<Response> {
+  const controller = new AbortController();
+  const timeout = window.setTimeout(() => controller.abort(), timeoutMs);
+
+  try {
+    return await fetch(url, { signal: controller.signal });
+  } finally {
+    window.clearTimeout(timeout);
+  }
+}
+
+function buildProxyUrl(template: string, url: string): string {
+  return template.replace('{url}', encodeURIComponent(url));
+}
+
+/**
+ * Fetch RSS feed using configured CORS proxies.
  *
  * @param url - RSS feed URL
+ * @param policy - CORS policy
  * @returns Parsed RSS feed
  */
-async function fetchRSSWithProxy(url: string): Promise<RSSFeed> {
-  const encodedUrl = encodeURIComponent(url);
-
-  // Try multiple proxy services
-  const proxies = [
-    `https://corsproxy.io/?${encodedUrl}`,
-    `https://api.allorigins.win/raw?url=${encodedUrl}`
-  ];
-
-  for (const proxyUrl of proxies) {
+async function fetchRSSWithProxy(url: string, policy: CORSPolicy): Promise<RSSFeed> {
+  for (const proxy of policy.proxies) {
     try {
-      const response = await fetch(proxyUrl);
+      const response = await fetchWithTimeout(buildProxyUrl(proxy.urlTemplate, url), policy.timeoutMs);
       if (!response.ok) continue;
 
       const xml = await response.text();
@@ -154,9 +181,23 @@ async function fetchRSSWithProxy(url: string): Promise<RSSFeed> {
  * const feed = await fetchRSS('https://example.com/rss');
  */
 export async function fetchRSS(url: string): Promise<RSSFeed> {
+  return fetchRSSWithPolicy(url, DEFAULT_CORS_POLICY);
+}
+
+/**
+ * Fetch and parse RSS feed from URL using a runtime CORS policy.
+ *
+ * @param url - RSS feed URL
+ * @param policy - Runtime CORS policy
+ * @returns Parsed RSS feed
+ */
+export async function fetchRSSWithPolicy(url: string, policy: CORSPolicy = DEFAULT_CORS_POLICY): Promise<RSSFeed> {
   try {
-    // Try direct fetch first
-    const response = await fetch(url);
+    if (policy.mode === 'proxy-only') {
+      return await fetchRSSWithProxy(url, policy);
+    }
+
+    const response = await fetchWithTimeout(url, policy.timeoutMs);
 
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
@@ -165,11 +206,15 @@ export async function fetchRSS(url: string): Promise<RSSFeed> {
     const xml = await response.text();
     return parseXMLFeed(xml);
   } catch (error: any) {
-    // If CORS error, try with proxy
-    if (error.message?.includes('CORS') ||
+    if (policy.mode === 'direct-only') {
+      throw error;
+    }
+
+    if (error.name === 'AbortError' ||
+        error.message?.includes('CORS') ||
         error.message?.includes('Failed to fetch') ||
         error.message?.includes('NetworkError')) {
-      return await fetchRSSWithProxy(url);
+      return await fetchRSSWithProxy(url, policy);
     }
     throw error;
   }
@@ -184,8 +229,11 @@ export async function fetchRSS(url: string): Promise<RSSFeed> {
  * @example
  * const feeds = await fetchMultipleRSS(['https://feed1.com', 'https://feed2.com']);
  */
-export async function fetchMultipleRSS(urls: string[]): Promise<RSSFeed[]> {
-  const promises = urls.map(url => fetchRSS(url).catch(error => {
+export async function fetchMultipleRSS(
+  urls: string[],
+  policy: CORSPolicy = DEFAULT_CORS_POLICY
+): Promise<RSSFeed[]> {
+  const promises = urls.map(url => fetchRSSWithPolicy(url, policy).catch(error => {
     console.error(`Failed to fetch ${url}:`, error);
     return null;
   }));
