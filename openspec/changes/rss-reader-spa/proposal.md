@@ -19,6 +19,7 @@ The app must be deployable once and configured at runtime. GitHub repository, br
 - **New**: GitHub token write-access check after token setup
 - **New**: Manual commit button in the reader when the configured token can write to the GitHub repo
 - **New**: Auto-commit functionality with configurable intervals, disabled by default
+- **New**: Vim-style keyboard navigation for feed items (j/k to move, auto-mark-as-read)
 - **BREAKING**: Removed build-time GitHub repo setup and .env files - all app setup now lives in runtime localStorage config
 - **BREAKING**: Flattened project structure from `src/features/rss-reader/*` to `src/*`
 

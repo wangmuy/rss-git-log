@@ -35,7 +35,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Server-side rendering or backend API
 - User authentication system (uses GitHub personal access tokens)
 - Real-time updates or WebSocket connections
-- Advanced RSS features (full-text search, categories/tags, keyboard shortcuts)
+- Advanced RSS features (full-text search, categories/tags)
 - PWA/offline mode (future enhancement)
 - Multiple read/write branches for one repo; reads and writes use the same configured branch
 
@@ -223,6 +223,34 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Default state: `collapsed = true`
 - Clicking the header or chevron toggles the collapsed state
 
+### 17. Clear All Data Button on Config Page
+**Decision:** Add a "Clear All Data" button to the Config page that removes all app-local localStorage keys (app config, session data, log cache) with a confirmation dialog.
+**Rationale:**
+- Users need a way to reset the app without manually clearing browser storage
+- Useful when switching GitHub repos, debugging, or starting fresh
+- Confirmation dialog prevents accidental data loss
+**Implementation:**
+- Button placed in the bottom action bar, left-aligned, with `color="error"` styling
+- MUI `Dialog` warns that all configuration, read status, and cached logs will be deleted
+- `clearAllLocalStorage()` utility removes `rss-reader-app-config`, `rss-reader-session`, `rss-reader-log-cache`
+- After clearing, shows success message and resets form state to defaults
+
+### 16. Vim-Style Keyboard Navigation: j/k for Item Selection
+**Decision:** Add vi-style keyboard shortcuts for navigating feed items in the reader pane. Press `j` to move to the next item (or first unread if no selection), press `k` to move to the previous item. Moving to an item automatically marks it as read.
+**Rationale:**
+- Power users prefer keyboard-driven navigation for speed
+- `j`/`k` are standard vim keys for down/up movement, familiar to developers
+- Auto-mark-as-read on selection mimics reading flow — selecting an item implies reading it
+- Keeps hands on keyboard during high-volume reading sessions
+**Implementation:**
+- Custom `useKeyboardNavigation` hook manages selected item index and keyboard listener
+- `j` key: if no current selection, jumps to first unread item; otherwise moves to next visible item
+- `k` key: moves to previous visible item (stops at first)
+- On selection change, calls `markAsRead` for the selected item
+- Listener attached to `document` with `keydown`, scoped to avoid firing when focus is in input/textarea
+- Selected item visually highlighted in the feed list (e.g., background tint, border indicator)
+- Only active when `SidebarFeedLayout` is mounted (no global shortcut conflicts)
+
 ## Risks / Trade-offs
 
 **[CORS Blocking RSS Feeds]** → Use runtime CORS policy with direct and proxy options. Document proxy privacy/reliability limitations and allow users to disable proxies.
@@ -255,5 +283,4 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Should we add dark mode theme? (Nice to have, post-MVP)
 - Should we support feed categories/tags? (Future enhancement)
 - Should we implement PWA features for offline support? (Future consideration)
-- Should we add keyboard shortcuts for power users? (Post-MVP enhancement)
 - Should CORS proxy presets be hard-coded defaults only, or should users be able to add/remove arbitrary proxy templates in the first Config page version?

@@ -201,7 +201,9 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
       readStatus: {},
       feeds: [],
       sites: [],
-      error: null
+      error: null,
+      isLoading: false,
+      isCommitting: false
     });
     localStorage.removeItem('rss-reader-session');
   },

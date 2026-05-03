@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import {
   Box,
   List,
@@ -14,6 +14,7 @@ import { SiteWithStatus } from '@/types/rss';
 import { FeedItem } from './FeedItem';
 import { generateItemIdFromItem } from '@/utils/item-id';
 import { useReaderStore } from '../store/readerStore';
+import { useKeyboardNavigation } from '../hooks/useKeyboardNavigation';
 
 interface SidebarFeedLayoutProps {
   sites: SiteWithStatus[];
@@ -29,10 +30,18 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   showReadItems
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
+  const [kbdIndex, setKbdIndex] = useState(-1);
+  const prevSitesRef = useRef(sites);
+  const readStatus = useReaderStore(state => state.readStatus);
   const isRead = useReaderStore(state => state.isRead);
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
+  const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
 
-  // Auto-select first site if none selected or selected site doesn't exist
+  if (prevSitesRef.current !== sites) {
+    setKbdIndex(-1);
+    prevSitesRef.current = sites;
+  }
+
   useEffect(() => {
     if (sites.length > 0) {
       const selectedExists = sites.some(site => site.siteId === selectedSiteId);
@@ -44,12 +53,45 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 
   const selectedSite = sites.find(site => site.siteId === selectedSiteId);
 
-  // Get visible items for selected site
-  const visibleItems = selectedSite ? selectedSite.items.filter(item => {
+  const visibleItems = useMemo(() => {
+    if (!selectedSite) return [];
+    return [...selectedSite.items]
+      .filter(item => {
+        const itemId = generateItemIdFromItem(item);
+        const isItemRead = isRead(selectedSite.siteId, itemId);
+        return showReadItems || !isItemRead;
+      })
+      .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+  }, [selectedSite, showReadItems, readStatus, isRead]);
+
+  const itemReadStatus = useMemo(
+    () => visibleItems.map(item => isRead(selectedSite!.siteId, generateItemIdFromItem(item))),
+    [visibleItems, selectedSite?.siteId, isRead]
+  );
+
+  useEffect(() => {
+    if (kbdIndex >= visibleItems.length) {
+      setKbdIndex(visibleItems.length > 0 ? visibleItems.length - 1 : -1);
+    }
+  }, [visibleItems.length, kbdIndex]);
+
+  const handleSelect = (index: number) => {
+    setKbdIndex(index);
+    if (index < 0 || index >= visibleItems.length) return;
+    const item = visibleItems[index];
     const itemId = generateItemIdFromItem(item);
-    const isItemRead = isRead(selectedSite.siteId, itemId);
-    return showReadItems || !isItemRead;
-  }).sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()) : [];
+    if (!isRead(selectedSite!.siteId, itemId)) {
+      onMarkAsRead(selectedSite!.siteId, itemId);
+    }
+    itemRefs.current[index]?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  };
+
+  useKeyboardNavigation({
+    totalItems: visibleItems.length,
+    selectedIndex: kbdIndex,
+    isReadList: itemReadStatus,
+    onSelect: handleSelect,
+  });
 
   if (sites.length === 0) {
     return (
@@ -140,20 +182,22 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
             <Box sx={{ flex: 1, overflow: 'auto', p: 1 }}>
               {visibleItems.length > 0 ? (
                 <Stack spacing={1}>
-                  {visibleItems.map((item) => {
-                    const itemId = generateItemIdFromItem(item);
-                    const isItemRead = isRead(selectedSite.siteId, itemId);
+              {visibleItems.map((item, idx) => {
+                const itemId = generateItemIdFromItem(item);
+                const isItemRead = isRead(selectedSite.siteId, itemId);
 
-                    return (
-                      <FeedItem
-                        key={itemId}
-                        item={item}
-                        isRead={isItemRead}
-                        siteColor={selectedSite.color}
-                        onMarkAsRead={() => onMarkAsRead(selectedSite.siteId, itemId)}
-                      />
-                    );
-                  })}
+                return (
+                  <div key={itemId} ref={el => { itemRefs.current[idx] = el; }}>
+                    <FeedItem
+                      item={item}
+                      isRead={isItemRead}
+                      siteColor={selectedSite.color}
+                      isKeyboardSelected={kbdIndex === idx}
+                      onMarkAsRead={() => onMarkAsRead(selectedSite.siteId, itemId)}
+                    />
+                  </div>
+                );
+              })}
                 </Stack>
               ) : (
                 <Box sx={{ textAlign: 'center', py: 4 }}>

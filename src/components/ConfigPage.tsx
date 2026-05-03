@@ -4,6 +4,11 @@ import {
   Box,
   Button,
   Container,
+  Dialog,
+  DialogActions,
+  DialogContent,
+  DialogContentText,
+  DialogTitle,
   FormControl,
   FormControlLabel,
   Grid,
@@ -21,8 +26,10 @@ import {
   createDefaultAppConfig,
   loadAppConfig,
   saveAppConfig,
-  validateAppConfig
+  validateAppConfig,
+  clearAllLocalStorage
 } from '@/utils/app-config';
+import { useReaderStore } from '../store/readerStore';
 import {
   checkGitHubWriteCapability,
   createGitHubClient,
@@ -61,6 +68,7 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
   const [saving, setSaving] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [clearDialogOpen, setClearDialogOpen] = useState(false);
 
   const updateConfig = (next: AppConfig) => {
     setConfig(createDefaultAppConfig(next));
@@ -108,6 +116,15 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
     } finally {
       setSaving(false);
     }
+  };
+
+  const handleClear = () => {
+    clearAllLocalStorage();
+    useReaderStore.getState().clearSession();
+    setClearDialogOpen(false);
+    setMessage('All local data cleared.');
+    setConfig(createDefaultAppConfig());
+    setProxyText(proxiesToText(createDefaultAppConfig()));
   };
 
   return (
@@ -281,16 +298,37 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
           </Grid>
         </Grid>
 
-        <Box sx={{ display: 'flex', gap: 1, justifyContent: 'flex-end' }}>
-          {onCancel && (
-            <Button variant="outlined" onClick={onCancel}>
-              Cancel
-            </Button>
-          )}
-          <Button variant="contained" onClick={handleSave} disabled={saving}>
-            {saving ? 'Saving...' : 'Save Config'}
+        <Box sx={{ display: 'flex', gap: 1, justifyContent: 'space-between', alignItems: 'center' }}>
+          <Button variant="outlined" color="error" onClick={() => setClearDialogOpen(true)}>
+            Clear All Data
           </Button>
+          <Box sx={{ display: 'flex', gap: 1 }}>
+            {onCancel && (
+              <Button variant="outlined" onClick={onCancel}>
+                Cancel
+              </Button>
+            )}
+            <Button variant="contained" onClick={handleSave} disabled={saving}>
+              {saving ? 'Saving...' : 'Save Config'}
+            </Button>
+          </Box>
         </Box>
+
+        <Dialog open={clearDialogOpen} onClose={() => setClearDialogOpen(false)}>
+          <DialogTitle>Clear All Local Data</DialogTitle>
+          <DialogContent>
+            <DialogContentText>
+              This will delete all stored configuration, read status, and cached log files.
+              You will need to reconfigure GitHub settings. This action cannot be undone.
+            </DialogContentText>
+          </DialogContent>
+          <DialogActions>
+            <Button onClick={() => setClearDialogOpen(false)}>Cancel</Button>
+            <Button variant="contained" color="error" onClick={handleClear}>
+              Clear All Data
+            </Button>
+          </DialogActions>
+        </Dialog>
       </Stack>
     </Container>
   );

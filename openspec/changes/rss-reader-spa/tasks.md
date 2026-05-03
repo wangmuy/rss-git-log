@@ -98,6 +98,16 @@
 - [x] 7.19 Ensure root Box uses flex column to distribute header and content vertically
 - [x] 7.20 Ensure sidebar site list scrolls independently with flex: 1 overflow: auto
 - [x] 7.21 Ensure feed items area scrolls independently with flex: 1 overflow: auto
+- [x] 7.22 Create useKeyboardNavigation hook for j/k item selection
+- [x] 7.23 Wire j key to select next item (or first unread if none selected)
+- [x] 7.24 Wire k key to select previous item
+- [x] 7.25 Auto-mark item as read when selected via keyboard
+- [x] 7.26 Add visual highlight for keyboard-selected feed item
+- [x] 7.27 Prevent keyboard shortcuts from firing when typing in input fields
+- [x] 10.15 Add clearAllLocalStorage utility to remove all app storage keys
+- [x] 10.16 Add Clear All Data button to Config page action bar
+- [x] 10.17 Add confirmation dialog before clearing data
+- [x] 10.18 Reset form state and show success message after clearing
 
 ## 8. Data Management
 

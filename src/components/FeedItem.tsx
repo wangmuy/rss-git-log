@@ -16,6 +16,7 @@ interface FeedItemProps {
   item: RSSItem;
   isRead: boolean;
   siteColor?: string;
+  isKeyboardSelected?: boolean;
   onMarkAsRead: () => void;
 }
 
@@ -23,6 +24,7 @@ export const FeedItem: React.FC<FeedItemProps> = ({
   item,
   isRead,
   siteColor = '#1976d2',
+  isKeyboardSelected = false,
   onMarkAsRead
 }) => {
   const formatDate = (dateString: string | undefined) => {
@@ -64,9 +66,11 @@ export const FeedItem: React.FC<FeedItemProps> = ({
         p: 2,
         cursor: 'pointer',
         transition: 'all 0.2s',
-        borderLeft: `4px solid ${siteColor}`,
+        borderLeft: `4px solid ${isKeyboardSelected ? '#ff9800' : siteColor}`,
         opacity: isRead ? 0.6 : 1,
-        bgcolor: isRead ? 'background.paper' : 'background.paper',
+        bgcolor: isKeyboardSelected ? 'action.selected' : 'background.paper',
+        outline: isKeyboardSelected ? `2px solid #ff9800` : 'none',
+        outlineOffset: '-2px',
         '&:hover': {
           elevation: 3,
           transform: 'translateX(2px)'

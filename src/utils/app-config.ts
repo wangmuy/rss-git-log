@@ -149,3 +149,13 @@ export function resetAppConfig(): AppConfig {
 export function hasValidRequiredGitHubConfig(config: AppConfig = loadAppConfig()): boolean {
   return validateGitHubConfig(config.github).length === 0;
 }
+
+const ALL_STORAGE_KEYS = [
+  'rss-reader-app-config',
+  'rss-reader-session',
+  'rss-reader-log-cache'
+];
+
+export function clearAllLocalStorage(): void {
+  ALL_STORAGE_KEYS.forEach(key => localStorage.removeItem(key));
+}
