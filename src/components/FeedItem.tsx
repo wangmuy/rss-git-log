@@ -95,7 +95,7 @@ export const FeedItem: React.FC<FeedItemProps> = ({
               variant="subtitle1"
               sx={{
                 fontWeight: isRead ? 400 : 600,
-                textDecoration: isRead ? 'line-through' : 'none',
+                textDecoration: 'none',
                 color: isRead ? 'text.secondary' : 'text.primary',
                 overflow: 'hidden',
                 textOverflow: 'ellipsis',
