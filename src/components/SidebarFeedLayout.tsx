@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useMemo } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import {
   Box,
   List,
@@ -30,8 +30,10 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const [kbdIndex, setKbdIndex] = useState(-1);
   const prevSitesRef = useRef(sites);
-  const readStatus = useReaderStore(state => state.readStatus);
+  // Subscribe to readStatus to trigger re-renders on mark-as-read
+  const _rs = useReaderStore(state => state.readStatus);
   const isRead = useReaderStore(state => state.isRead);
+  void _rs;
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
   const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
 
@@ -51,16 +53,24 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 
   const selectedSite = sites.find(site => site.siteId === selectedSiteId);
 
-  const visibleItems = useMemo(() => {
-    if (!selectedSite) return [];
-    return [...selectedSite.items]
-      .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
-  }, [selectedSite, readStatus]);
+  const visibleItems = selectedSite
+    ? [...selectedSite.items].sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+    : [];
 
-  const itemReadStatus = useMemo(
-    () => visibleItems.map(item => isRead(selectedSite!.siteId, generateItemIdFromItem(item))),
-    [visibleItems, selectedSite?.siteId, isRead]
-  );
+  const itemReadStatus = selectedSite
+    ? visibleItems.map(item => isRead(selectedSite.siteId, generateItemIdFromItem(item)))
+    : [];
+
+  useEffect(() => {
+    setKbdIndex(-1);
+    itemRefs.current = [];
+  }, [selectedSiteId]);
+
+  const [siteKey, setSiteKey] = useState(selectedSiteId);
+
+  useEffect(() => {
+    setSiteKey(selectedSiteId);
+  }, [selectedSiteId]);
 
   useEffect(() => {
     if (kbdIndex >= visibleItems.length) {
@@ -172,7 +182,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               </Box>
             </Box>
 
-            <Box sx={{ flex: 1, overflow: 'auto', p: 1, scrollPaddingTop: 72 }}>
+            <Box sx={{ flex: 1, overflow: 'auto', p: 1, scrollPaddingTop: 72 }} key={siteKey}>
               {visibleItems.length > 0 ? (
                 <Stack spacing={1}>
               {visibleItems.map((item, idx) => {
@@ -180,7 +190,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
                 const isItemRead = isRead(selectedSite.siteId, itemId);
 
                 return (
-                  <div key={itemId} ref={el => { itemRefs.current[idx] = el; }} style={{ scrollMarginTop: 72 }}>
+                  <div key={`${selectedSite.siteId}-${itemId}`} ref={el => { itemRefs.current[idx] = el; }} style={{ scrollMarginTop: 72 }}>
                     <FeedItem
                       item={item}
                       isRead={isItemRead}
