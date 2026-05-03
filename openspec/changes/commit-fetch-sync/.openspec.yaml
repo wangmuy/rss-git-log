@@ -1,0 +1,10 @@
+name: commit-fetch-sync
+title: "Commit All Items + Fetch Sync"
+description: "Modify manual commit to commit all feed items (read + unread) with -allread file renaming, and fetch GitHub logs during feed fetch for bidirectional sync"
+status: proposed
+created: 2026-05-03
+owner: ""
+specs:
+  - commit-all-items
+  - log-rename-allread
+  - fetch-sync
