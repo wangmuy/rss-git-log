@@ -76,7 +76,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
     if (!isRead(selectedSite!.siteId, itemId)) {
       onMarkAsRead(selectedSite!.siteId, itemId);
     }
-    itemRefs.current[index]?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    itemRefs.current[index]?.scrollIntoView({ block: 'start', behavior: 'smooth' });
   };
 
   useKeyboardNavigation({
@@ -172,7 +172,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               </Box>
             </Box>
 
-            <Box sx={{ flex: 1, overflow: 'auto', p: 1 }}>
+            <Box sx={{ flex: 1, overflow: 'auto', p: 1, scrollPaddingTop: 72 }}>
               {visibleItems.length > 0 ? (
                 <Stack spacing={1}>
               {visibleItems.map((item, idx) => {
@@ -180,7 +180,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
                 const isItemRead = isRead(selectedSite.siteId, itemId);
 
                 return (
-                  <div key={itemId} ref={el => { itemRefs.current[idx] = el; }}>
+                  <div key={itemId} ref={el => { itemRefs.current[idx] = el; }} style={{ scrollMarginTop: 72 }}>
                     <FeedItem
                       item={item}
                       isRead={isItemRead}
