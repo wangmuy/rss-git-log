@@ -26,6 +26,10 @@ interface ReaderState {
   getUnreadCount: (siteId: string) => number;
   getUnreadItems: (siteId: string) => Array<{ itemId: string; title: string; pubDate: string; siteName: string }>;
   getAllUnreadItems: () => Record<string, Array<{ itemId: string; title: string; pubDate: string; siteName: string }>>;
+  getAllItems: (siteId: string) => Array<{ itemId: string; title: string; pubDate: string; siteName: string }>;
+  getReadItems: (siteId: string) => Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>;
+  mergeGitHubReadStatus: (siteId: string, githubItems: Map<string, { readAt?: string }>) => void;
+  addHistoricalItems: (siteId: string, items: Array<{ itemId: string; title: string; pubDate: string }>) => void;
 
   clearSession: () => void;
   loadFromLocalStorage: () => void;
@@ -178,6 +182,97 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
     });
 
     return result;
+  },
+
+  getAllItems: (siteId) => {
+    const state = get();
+    const site = state.sites.find(s => s.siteId === siteId);
+    if (!site) return [];
+
+    return site.items.map(item => ({
+      itemId: generateItemIdFromItem(item),
+      title: item.title,
+      pubDate: item.pubDate,
+      siteName: site.name
+    }));
+  },
+
+  getReadItems: (siteId) => {
+    const state = get();
+    const site = state.sites.find(s => s.siteId === siteId);
+    if (!site) return [];
+
+    const readItems = state.readStatus[siteId] || new Set();
+    const readItemsList: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }> = [];
+
+    site.items.forEach(item => {
+      const itemId = generateItemIdFromItem(item);
+      if (readItems.has(itemId)) {
+        readItemsList.push({
+          itemId,
+          title: item.title,
+          pubDate: item.pubDate
+        });
+      }
+    });
+
+    return readItemsList;
+  },
+
+  mergeGitHubReadStatus: (siteId, githubItems) => {
+    set(state => {
+      const newReadStatus = { ...state.readStatus };
+      if (!newReadStatus[siteId]) {
+        newReadStatus[siteId] = new Set();
+      }
+
+      githubItems.forEach((githubItem, itemId) => {
+        if (githubItem.readAt) {
+          newReadStatus[siteId].add(itemId);
+        }
+      });
+
+      localStorage.setItem('rss-reader-session', JSON.stringify({
+        readStatus: Object.fromEntries(
+          Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
+        ),
+        settings: state.settings
+      }));
+
+      return { readStatus: newReadStatus };
+    });
+  },
+
+  addHistoricalItems: (siteId, historicalItems) => {
+    if (historicalItems.length === 0) return;
+
+    set(state => {
+      const siteIndex = state.sites.findIndex(s => s.siteId === siteId);
+      if (siteIndex === -1) return state;
+
+      const site = state.sites[siteIndex];
+      const existingItemIds = new Set(site.items.map(item => generateItemIdFromItem(item)));
+
+      const newItems = historicalItems
+        .filter(item => !existingItemIds.has(item.itemId))
+        .map(item => ({
+          guid: item.itemId,
+          title: item.title,
+          pubDate: item.pubDate,
+          link: '',
+          description: ''
+        }));
+
+      if (newItems.length === 0) return state;
+
+      const updatedSites = [...state.sites];
+      updatedSites[siteIndex] = {
+        ...site,
+        items: [...site.items, ...newItems]
+      };
+
+      return { sites: updatedSites };
+    });
   },
 
   clearSession: () => {

@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect } from 'react';
-import { commitAllReadItems } from '@/utils/log-file';
+import { commitAllFeedItems } from '@/utils/log-file';
 import { useReaderStore } from '../store/readerStore';
 import { loadAppConfig } from '@/utils/app-config';
 
@@ -23,7 +23,7 @@ export function useCommit(): UseCommitReturn {
   const [lastCommit, setLastCommit] = useState<Date | null>(null);
   const [error, setError] = useState<string | null>(null);
 
-  const { getAllUnreadItems, setCommitting: setStoreCommitting } = useReaderStore();
+  const { getAllItems, sites, isRead, setCommitting: setStoreCommitting } = useReaderStore();
 
   const commit = useCallback(async (): Promise<boolean> => {
     if (committing) return false;
@@ -38,17 +38,21 @@ export function useCommit(): UseCommitReturn {
         throw new Error(appConfig.githubWriteCapability.reason || 'GitHub write access is not enabled');
       }
 
-      const allUnreadItems = getAllUnreadItems();
+      const results: Record<string, boolean> = {};
 
-      // If no unread items, still return true (nothing to commit)
-      if (Object.keys(allUnreadItems).length === 0) {
-        setLastCommit(new Date());
-        return true;
+      for (const site of sites) {
+        const allItems = getAllItems(site.siteId);
+        if (allItems.length > 0) {
+          const itemsWithReadStatus = allItems.map(item => ({
+            itemId: item.itemId,
+            title: item.title,
+            pubDate: item.pubDate,
+            readAt: isRead(site.siteId, item.itemId) ? new Date().toISOString() : undefined
+          }));
+          results[site.siteId] = await commitAllFeedItems(site.siteId, site.name, itemsWithReadStatus);
+        }
       }
 
-      const results = await commitAllReadItems(allUnreadItems);
-
-      // Check if all commits succeeded
       const allSuccess = Object.values(results).every(success => success);
 
       if (allSuccess) {
@@ -65,7 +69,7 @@ export function useCommit(): UseCommitReturn {
       setCommitting(false);
       setStoreCommitting(false);
     }
-  }, [committing, getAllUnreadItems, setStoreCommitting]);
+  }, [committing, getAllItems, sites, isRead, setStoreCommitting]);
 
   // Auto-commit timer
   useEffect(() => {

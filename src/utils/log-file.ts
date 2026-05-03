@@ -1,4 +1,4 @@
-import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig } from './github-api';
+import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig, listDirectory } from './github-api';
 import { LogItem, SiteLogData } from '@/types/log';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
 
@@ -64,19 +64,18 @@ export function createSiteLogFilename(siteId: string, oldestDate: string): strin
  * @returns Latest file path or null if none exists
  */
 export async function getLatestLogFile(siteId: string): Promise<string | null> {
-  // For now, we'll implement a simple approach
-  // In a full implementation, we'd list directory contents via GitHub API
-  // For this MVP, we'll try common recent dates
   const config = getStoredConfig();
   const client = createGitHubClient(config);
-  
-  const today = new Date();
-  for (let i = 0; i < 30; i++) {
-    const date = new Date(today);
-    date.setDate(date.getDate() - i);
-    const dateStr = date.toISOString().split('T')[0];
-    const filePath = createSiteLogFilename(siteId, dateStr);
-    
+
+  const siteDir = getSiteLogDir(siteId);
+  const files = await listDirectory(client, siteDir);
+
+  const jsonFiles = files
+    .filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'))
+    .sort((a, b) => b.name.localeCompare(a.name));
+
+  for (const file of jsonFiles) {
+    const filePath = file.path;
     try {
       const data = getCachedLogFile(config, siteId, filePath) ??
         await readFromGitHub<SiteLogData>(client, filePath);
@@ -88,7 +87,7 @@ export async function getLatestLogFile(siteId: string): Promise<string | null> {
       // File doesn't exist, continue
     }
   }
-  
+
   return null;
 }
 
@@ -120,27 +119,33 @@ export async function readLog(siteId: string, date: Date = new Date()): Promise<
 
 /**
  * Commit read status to site-based log files
+ * Commits ALL items (read + unread), sorted by pubDate descending.
+ * Items with readAt are marked as read, items without readAt are unread.
  *
  * @param siteId - Site identifier (normalized URL)
  * @param siteName - Site display name
- * @param items - Array of items to log
+ * @param items - Array of items to log (may include readAt for read items)
  * @returns True if commit successful
  */
 export async function commitReadStatus(
   siteId: string,
   siteName: string,
-  items: Array<{ itemId: string; title: string; pubDate: string }>
+  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>
 ): Promise<boolean> {
   if (items.length === 0) return true;
 
   const config = getStoredConfig();
   const client = createGitHubClient(config);
 
-  // Convert to LogItems with readAt timestamp
-  const logItems: LogItem[] = items.map(item => ({
-    ...item,
-    readAt: new Date().toISOString()
-  }));
+  // Convert to LogItems - preserve readAt if present, otherwise omit (unread)
+  const logItems: LogItem[] = items
+    .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+    .map(item => ({
+      itemId: item.itemId,
+      title: item.title,
+      pubDate: item.pubDate,
+      ...(item.readAt ? { readAt: item.readAt } : {})
+    }));
 
   try {
     // Try to find existing file with space
@@ -239,14 +244,15 @@ export async function getReadItemsForSite(siteId: string): Promise<Set<string>> 
   const client = createGitHubClient(config);
   const readItems = new Set<string>();
 
-  // Try to find recent log files for this site
-  const today = new Date();
-  for (let i = 0; i < 30; i++) {
-    const date = new Date(today);
-    date.setDate(date.getDate() - i);
-    const dateStr = date.toISOString().split('T')[0];
-    const filePath = createSiteLogFilename(siteId, dateStr);
+  const siteDir = getSiteLogDir(siteId);
+  const files = await listDirectory(client, siteDir);
 
+  for (const file of files) {
+    if (file.type !== 'file') continue;
+    if (!file.name.endsWith('.json')) continue;
+    if (file.name.includes('-allread')) continue;
+
+    const filePath = file.path;
     try {
       const data = getCachedLogFile(config, siteId, filePath) ??
         await readFromGitHub<SiteLogData>(client, filePath);
@@ -272,4 +278,203 @@ export async function getAllReadItems(): Promise<Record<string, Set<string>>> {
   // In a full implementation, we'd need to discover all sites and their files
   // For now, return empty - the app will populate as sites are accessed
   return {};
+}
+
+/**
+ * Commit all feed items (read + unread) to GitHub log files
+ *
+ * @param siteId - Site identifier
+ * @param siteName - Site display name
+ * @param items - Array of RSS items with read status
+ * @returns True if commit successful
+ */
+export async function commitAllFeedItems(
+  siteId: string,
+  siteName: string,
+  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>
+): Promise<boolean> {
+  if (items.length === 0) return true;
+
+  const config = getStoredConfig();
+  const client = createGitHubClient(config);
+
+  const logItems: LogItem[] = items
+    .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+    .map(item => ({
+      itemId: item.itemId,
+      title: item.title,
+      pubDate: item.pubDate,
+      ...(item.readAt ? { readAt: item.readAt } : {})
+    }));
+
+  try {
+    let targetFile = await getLatestLogFile(siteId);
+    let existingData: SiteLogData | null = null;
+
+    if (targetFile) {
+      existingData = await readFromGitHub<SiteLogData>(client, targetFile);
+    }
+
+    if (!existingData || existingData.items.length >= MAX_LOG_ITEMS_PER_FILE) {
+      const oldestDate = findOldestItemDate(logItems);
+      targetFile = createSiteLogFilename(siteId, oldestDate);
+      existingData = null;
+    }
+
+    const siteLogData: SiteLogData = existingData || {
+      metadata: {
+        siteId,
+        siteName,
+        oldestItemDate: findOldestItemDate(logItems),
+        newestItemDate: findOldestItemDate(logItems),
+        itemCount: 0,
+        generatedAt: new Date().toISOString()
+      },
+      items: []
+    };
+
+    const existingItemIds = new Set(siteLogData.items.map(i => i.itemId));
+    const newItems = logItems.filter(item => !existingItemIds.has(item.itemId));
+
+    if (newItems.length === 0) return true;
+
+    siteLogData.items.push(...newItems);
+
+    const allDates = siteLogData.items.map(item => new Date(item.pubDate));
+    siteLogData.metadata.oldestItemDate = new Date(Math.min(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
+    siteLogData.metadata.newestItemDate = new Date(Math.max(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
+    siteLogData.metadata.itemCount = siteLogData.items.length;
+    siteLogData.metadata.generatedAt = new Date().toISOString();
+
+    const success = await writeToGitHub(client, targetFile!, siteLogData);
+    if (success) {
+      cacheLogFile(config, siteId, targetFile!, siteLogData);
+      pruneCachedLogFilesForSite(config, siteId);
+
+      await checkAndRenameAllread(client, targetFile!);
+    }
+
+    return success;
+  } catch (error) {
+    console.error('Failed to commit feed items:', error);
+    return false;
+  }
+}
+
+/**
+ * Rename log file to add -allread suffix
+ *
+ * @param filePath - Current file path
+ * @returns True if rename successful
+ */
+export async function renameToAllread(filePath: string): Promise<boolean> {
+  const config = getStoredConfig();
+  const client = createGitHubClient(config);
+
+  const allreadPath = filePath.replace('.json', '-allread.json');
+
+  try {
+    const content = await readFromGitHub<SiteLogData>(client, filePath);
+    if (!content) return false;
+
+    const success = await writeToGitHub(client, allreadPath, content);
+    if (success) {
+      await deleteFileFromGitHub(client, filePath);
+    }
+    return success;
+  } catch (error) {
+    console.error('Failed to rename to allread:', error);
+    return false;
+  }
+}
+
+/**
+ * Delete a file from GitHub
+ */
+async function deleteFileFromGitHub(client: any, filePath: string): Promise<boolean> {
+  try {
+    const config = getStoredConfig();
+    const { owner, repo } = config;
+    const path = filePath;
+
+    const { data } = await client.request('GET /repos/{owner}/{repo}/contents/{path}', {
+      owner,
+      repo,
+      path
+    });
+
+    if (Array.isArray(data) || !data.sha) {
+      return false;
+    }
+
+    await client.request('DELETE /repos/{owner}/{repo}/contents/{path}', {
+      owner,
+      repo,
+      path,
+      sha: data.sha,
+      message: 'Mark as allread - removing active log'
+    });
+
+    return true;
+  } catch (error) {
+    console.error('Failed to delete file:', error);
+    return false;
+  }
+}
+
+/**
+ * Check if all items in a file are read, and rename if so
+ */
+async function checkAndRenameAllread(client: any, filePath: string): Promise<void> {
+  try {
+    const data = await readFromGitHub<SiteLogData>(client, filePath);
+    if (!data || data.items.length === 0) return;
+
+    const allRead = data.items.every(item => item.readAt);
+    if (allRead) {
+      await renameToAllread(filePath);
+    }
+  } catch (error) {
+    console.error('Failed to check allread status:', error);
+  }
+}
+
+/**
+ * Get all log items for a site from GitHub (excludes allread files)
+ * Returns map of itemId -> LogItem (contains readAt)
+ *
+ * @param siteId - Site identifier
+ * @returns Map of itemId -> LogItem
+ */
+export async function getLogItemsForSite(
+  siteId: string
+): Promise<Map<string, LogItem>> {
+  const config = getStoredConfig();
+  const client = createGitHubClient(config);
+  const itemsMap = new Map<string, LogItem>();
+
+  const siteDir = getSiteLogDir(siteId);
+  const files = await listDirectory(client, siteDir);
+
+  for (const file of files) {
+    if (file.type !== 'file') continue;
+    if (!file.name.endsWith('.json')) continue;
+    if (file.name.includes('-allread')) continue;
+
+    const filePath = file.path;
+    try {
+      const data = getCachedLogFile(config, siteId, filePath) ??
+        await readFromGitHub<SiteLogData>(client, filePath);
+      if (data) {
+        cacheLogFile(config, siteId, filePath, data);
+        data.items.forEach(item => {
+          itemsMap.set(item.itemId, item);
+        });
+      }
+    } catch {
+      // File doesn't exist, continue
+    }
+  }
+
+  return itemsMap;
 }

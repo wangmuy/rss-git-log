@@ -90,7 +90,7 @@ export async function readFromGitHub<T>(client: GitHubClient, path: string): Pro
     const data = await response.json();
 
     // GitHub returns base64 encoded content
-    const content = atob(data.content);
+    const content = decodeURIComponent(Array.prototype.map.call(atob(data.content), (c) => '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)).join(''));
 
     // Try to parse as JSON, fallback to raw text
     try {
@@ -101,6 +101,36 @@ export async function readFromGitHub<T>(client: GitHubClient, path: string): Pro
   } catch (error) {
     console.error(`Failed to read ${path} from GitHub:`, error);
     throw error;
+  }
+}
+
+/**
+ * List contents of a directory in the GitHub repository
+ *
+ * @param client - GitHub client
+ * @param path - Directory path relative to repo root
+ * @returns Array of file info objects (name, path, type)
+ */
+export async function listDirectory(client: GitHubClient, path: string): Promise<Array<{ name: string; path: string; type: string }>> {
+  try {
+    const url = `${client.baseUrl}/contents/${encodeURIComponent(path)}?ref=${getGitHubBranch(client.config)}`;
+    const response = await fetch(url, {
+      headers: buildHeaders(client.config.token)
+    });
+
+    if (response.status === 404) {
+      return [];
+    }
+
+    if (!response.ok) {
+      throw new Error(`GitHub API error: ${response.status} ${response.statusText}`);
+    }
+
+    const data = await response.json();
+    return Array.isArray(data) ? data : [];
+  } catch (error) {
+    console.error(`Failed to list ${path} from GitHub:`, error);
+    return [];
   }
 }
 
@@ -248,6 +278,14 @@ export function clearGitHubWriteCapability(): void {
  * @example
  * const success = await writeToGitHub(client, 'logs/2025-12-21.json', logData);
  */
+
+/**
+ * Encode a string to base64 safely, handling Unicode characters
+ */
+function utf8ToBase64(str: string): string {
+  return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, (_, p1) => String.fromCharCode(parseInt(p1, 16))));
+}
+
 export async function writeToGitHub<T>(client: GitHubClient, path: string, data: T): Promise<boolean> {
   try {
     if (!client.config.token) {
@@ -263,7 +301,7 @@ export async function writeToGitHub<T>(client: GitHubClient, path: string, data:
       headers: buildHeaders(client.config.token),
       body: JSON.stringify({
         message: `Update ${path} via RSS Reader`,
-        content: btoa(content),
+        content: utf8ToBase64(content),
         branch: getGitHubBranch(client.config),
         sha: sha
       })

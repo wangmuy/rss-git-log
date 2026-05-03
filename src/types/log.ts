@@ -20,12 +20,13 @@ export interface SiteLogMetadata {
 
 /**
  * Logged item with read timestamp
+ * readAt is present if item has been read, omitted if unread
  */
 export interface LogItem {
   itemId: string;
   title: string;
   pubDate: string;
-  readAt: string; // ISO timestamp
+  readAt?: string; // ISO timestamp - present if read, omitted if unread
 }
 
 /**

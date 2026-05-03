@@ -4,6 +4,8 @@ import { RSSFeed, SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
+import { getLogItemsForSite } from '@/utils/log-file';
+import { generateItemIdFromItem } from '@/utils/item-id';
 
 interface UseRSSFeedsReturn {
   sites: SiteWithStatus[];
@@ -36,7 +38,9 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     setError: setStoreError,
     markAsRead,
     markSiteAsRead,
-    markAllAsRead
+    markAllAsRead,
+    mergeGitHubReadStatus,
+    addHistoricalItems
   } = useReaderStore();
 
   const doFetch = useCallback(async () => {
@@ -95,6 +99,40 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
 
       setSites(sitesWithStatus);
       setFeeds(successfulFeeds);
+
+      // Sync with GitHub logs after feed fetch
+      const appConfig = loadAppConfig();
+      if (appConfig.githubWriteCapability.canWrite) {
+        for (const site of sitesWithStatus) {
+          if (site.items && site.items.length > 0) {
+            try {
+              const githubItems = await getLogItemsForSite(site.siteId);
+              if (githubItems.size > 0) {
+                const rssItemIds = new Set(site.items.map(i => generateItemIdFromItem(i)));
+
+                const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
+                githubItems.forEach((logItem, itemId) => {
+                  if (!rssItemIds.has(itemId)) {
+                    historicalItems.push({
+                      itemId,
+                      title: logItem.title,
+                      pubDate: logItem.pubDate
+                    });
+                  }
+                });
+
+                if (historicalItems.length > 0) {
+                  addHistoricalItems(site.siteId, historicalItems);
+                }
+
+                mergeGitHubReadStatus(site.siteId, githubItems);
+              }
+            } catch (error) {
+              console.error('Failed to sync GitHub read status for', site.siteId, error);
+            }
+          }
+        }
+      }
     } catch (err: any) {
       const errorMsg = err.message || 'Failed to fetch RSS feeds';
       setError(errorMsg);
@@ -104,7 +142,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
       setLoading(false);
       setStoreLoading(false);
     }
-  }, [config, setSites, setFeeds, setStoreLoading, setStoreError]);
+  }, [config, setSites, setFeeds, setStoreLoading, setStoreError, mergeGitHubReadStatus, addHistoricalItems]);
 
   // Auto-fetch when config becomes available and no sites exist in store
   useEffect(() => {
