@@ -94,6 +94,10 @@
 - [x] 7.15 Remove maxWidth constraint from reader Container for full-width layout
 - [x] 7.16 Make sidebar width responsive using MUI breakpoint system
 - [x] 7.17 Verify feed items list pane expands to fill remaining space
+- [x] 7.18 Replace fixed 70vh height with flex-based layout that fills viewport
+- [x] 7.19 Ensure root Box uses flex column to distribute header and content vertically
+- [x] 7.20 Ensure sidebar site list scrolls independently with flex: 1 overflow: auto
+- [x] 7.21 Ensure feed items area scrolls independently with flex: 1 overflow: auto
 
 ## 8. Data Management
 

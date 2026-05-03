@@ -62,7 +62,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   }
 
   return (
-    <Box sx={{ display: 'flex', height: '70vh', gap: 2 }}>
+    <Box sx={{ display: 'flex', flex: 1, gap: 2, minHeight: 0 }}>
       {/* Left Sidebar - Site List */}
       <Paper sx={{ width: { xs: 240, sm: 280, md: 320 }, overflow: 'hidden', display: 'flex', flexDirection: 'column', flexShrink: 0 }}>
         <Box sx={{ p: 2, bgcolor: 'primary.main', color: 'primary.contrastText' }}>

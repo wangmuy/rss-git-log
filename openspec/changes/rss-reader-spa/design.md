@@ -183,6 +183,21 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - When the retention value is lowered in Config, prune existing cached files on save
 **Trade-off:** Keeping only one file per site minimizes browser storage use but may require GitHub reads for older history. Users can increase the limit when they want more offline/local history.
 
+### 15. Full-Height Adaptive Panes with Independent Scrolling
+**Decision:** The reader layout fills the full viewport height (minus the header) and both panes scroll independently within their allocated space.
+**Rationale:**
+- Fixed `70vh` height wasted vertical space on tall screens
+- Users expect a desktop-like RSS reader that fills the window
+- Each pane should scroll independently so site list and feed items scroll separately
+**Implementation:**
+- Root Box uses `display: flex, flexDirection: column, minHeight: 100vh`
+- Header sits at top with its natural height
+- Container uses `flex: 1, minHeight: 0` to fill remaining vertical space
+- `SidebarFeedLayout` container uses `flex: 1, minHeight: 0` to fill remaining space below subscription manager
+- `SidebarFeedLayout` inner Box uses `flex: 1, minHeight: 0` to stretch to parent
+- Sidebar site list uses `flex: 1, overflow: auto` for independent scrolling
+- Feed items area uses `flex: 1, overflow: auto` for independent scrolling
+
 ### 14. Responsive Layout: Full-Width Adaptive Panes
 **Decision:** The reader layout and its two-panel feed view expand to fill the browser's full width when maximized, with a proportional sidebar that scales responsively.
 **Rationale:**

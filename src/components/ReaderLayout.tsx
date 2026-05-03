@@ -72,7 +72,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   };
 
   return (
-    <Box sx={{ minHeight: '100vh', bgcolor: 'background.default' }}>
+    <Box sx={{ minHeight: '100vh', bgcolor: 'background.default', display: 'flex', flexDirection: 'column' }}>
       <Header
         onRefresh={handleRefresh}
         onMarkAllRead={handleMarkAllRead}
@@ -85,7 +85,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
         onShowReadItemsChange={(checked) => setSettings({ showReadItems: checked })}
       />
 
-      <Container maxWidth={false} sx={{ py: 3 }}>
+      <Container maxWidth={false} sx={{ py: 3, display: 'flex', flexDirection: 'column', flex: 1, minHeight: 0 }}>
         {/* Subscription Manager */}
         {localConfig && (
           <SubscriptionManager
@@ -95,46 +95,42 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
           />
         )}
 
-        {/* Loading State */}
-        {loading && (
-          <Box sx={{ width: '100%', mt: 2 }}>
-            <Typography variant="body2" color="text.secondary">
-              Loading feeds...
-            </Typography>
-          </Box>
-        )}
-
-        {/* Error State */}
-        {error && (
-          <Alert
-            severity="error"
-            sx={{ mt: 2 }}
-            action={
-              <button onClick={reloadConfig} style={{ background: 'none', border: 'none', color: 'inherit', cursor: 'pointer', textDecoration: 'underline' }}>
-                Retry
-              </button>
-            }
-          >
-            {error}
-          </Alert>
-        )}
-
-        {/* Empty State */}
-        {!loading && !error && (!config || config.sites.length === 0) && (
-          <Alert severity="info" sx={{ mt: 2 }}>
-            No RSS sites configured. Please create an rss-config.json file in your GitHub repository.
-          </Alert>
-        )}
-
         {/* Feed List */}
-        {!loading && !error && config && sites.length > 0 && (
-          <SidebarFeedLayout
-            sites={sites}
-            onMarkAsRead={markAsRead}
-            onMarkSiteAsRead={markSiteAsRead}
-            showReadItems={settings.showReadItems}
-          />
-        )}
+        <Box sx={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
+          {!loading && !error && config && sites.length > 0 && (
+            <SidebarFeedLayout
+              sites={sites}
+              onMarkAsRead={markAsRead}
+              onMarkSiteAsRead={markSiteAsRead}
+              showReadItems={settings.showReadItems}
+            />
+          )}
+          {loading && (
+            <Box sx={{ width: '100%', mt: 2 }}>
+              <Typography variant="body2" color="text.secondary">
+                Loading feeds...
+              </Typography>
+            </Box>
+          )}
+          {error && (
+            <Alert
+              severity="error"
+              sx={{ mt: 2 }}
+              action={
+                <button onClick={reloadConfig} style={{ background: 'none', border: 'none', color: 'inherit', cursor: 'pointer', textDecoration: 'underline' }}>
+                  Retry
+                </button>
+              }
+            >
+              {error}
+            </Alert>
+          )}
+          {!loading && !error && (!config || config.sites.length === 0) && (
+            <Alert severity="info" sx={{ mt: 2 }}>
+              No RSS sites configured. Please create an rss-config.json file in your GitHub repository.
+            </Alert>
+          )}
+        </Box>
       </Container>
 
       {/* Commit Snackbar */}
