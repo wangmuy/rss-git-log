@@ -183,6 +183,19 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - When the retention value is lowered in Config, prune existing cached files on save
 **Trade-off:** Keeping only one file per site minimizes browser storage use but may require GitHub reads for older history. Users can increase the limit when they want more offline/local history.
 
+### 13. Collapsible Subscription Manager: Minimized by Default
+**Decision:** The subscription list in the sidebar is minimized (collapsed) by default, showing only the section header with an expand/collapse chevron. Expanding reveals the site list and add/edit/delete controls.
+**Rationale:**
+- Saves vertical screen space for the main feed content area
+- Subscription management is used infrequently compared to reading feeds
+- Chevron icon provides clear affordance for expanding
+- State is local component state (no persistence needed across sessions)
+**Implementation:**
+- MUI `Collapse` component wraps the subscription list body
+- Header row contains site count badge + expand/collapse IconButton
+- Default state: `collapsed = true`
+- Clicking the header or chevron toggles the collapsed state
+
 ## Risks / Trade-offs
 
 **[CORS Blocking RSS Feeds]** → Use runtime CORS policy with direct and proxy options. Document proxy privacy/reliability limitations and allow users to disable proxies.

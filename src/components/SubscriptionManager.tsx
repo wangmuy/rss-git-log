@@ -16,8 +16,10 @@ import {
   DialogActions,
   Alert,
   Chip,
+  Collapse,
+  Tooltip,
 } from '@mui/material';
-import { Add as AddIcon, Delete as DeleteIcon, Edit as EditIcon } from '@mui/icons-material';
+import { Add as AddIcon, Delete as DeleteIcon, Edit as EditIcon, ExpandMore as ExpandMoreIcon, ExpandLess as ExpandLessIcon } from '@mui/icons-material';
 import { RSSSite } from '@/types/rss';
 
 interface SubscriptionManagerProps {
@@ -37,6 +39,7 @@ export const SubscriptionManager: React.FC<SubscriptionManagerProps> = ({
   onSitesChange,
   onSave
 }) => {
+  const [expanded, setExpanded] = useState(false);
   const [open, setOpen] = useState(false);
   const [editIndex, setEditIndex] = useState<number | null>(null);
   const [formData, setFormData] = useState<SiteFormData>({
@@ -106,88 +109,101 @@ export const SubscriptionManager: React.FC<SubscriptionManagerProps> = ({
   };
 
   return (
-    <Paper sx={{ p: 2, mb: 2 }}>
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
-        <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
-          RSS Subscriptions ({sites.length})
-        </Typography>
-        <Box sx={{ display: 'flex', gap: 1 }}>
-          <Button
-            startIcon={<AddIcon />}
-            onClick={handleAdd}
-            size="small"
-            variant="outlined"
-          >
-            Add Feed
-          </Button>
-          <Button
-            onClick={handleSaveToGitHub}
-            disabled={saving}
-            size="small"
-            variant="contained"
-          >
-            {saving ? 'Saving...' : 'Save to GitHub'}
-          </Button>
+    <Paper sx={{ mb: 2 }}>
+      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, pb: expanded ? 0 : 2 }}>
+        <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+          <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+            RSS Subscriptions ({sites.length})
+          </Typography>
+          <Tooltip title={expanded ? 'Collapse' : 'Expand'}>
+            <IconButton size="small" onClick={() => setExpanded(!expanded)}>
+              {expanded ? <ExpandLessIcon fontSize="small" /> : <ExpandMoreIcon fontSize="small" />}
+            </IconButton>
+          </Tooltip>
         </Box>
+        {expanded && (
+          <Box sx={{ display: 'flex', gap: 1 }}>
+            <Button
+              startIcon={<AddIcon />}
+              onClick={handleAdd}
+              size="small"
+              variant="outlined"
+            >
+              Add Feed
+            </Button>
+            <Button
+              onClick={handleSaveToGitHub}
+              disabled={saving}
+              size="small"
+              variant="contained"
+            >
+              {saving ? 'Saving...' : 'Save to GitHub'}
+            </Button>
+          </Box>
+        )}
       </Box>
 
-      {error && (
-        <Alert severity="error" sx={{ mb: 2 }}>
-          {error}
-        </Alert>
-      )}
+      <Collapse in={expanded}>
+        <Box sx={{ p: 2, pt: 0 }}>
+          {error && (
+            <Alert severity="error" sx={{ mb: 2 }}>
+              {error}
+            </Alert>
+          )}
 
-      <List dense>
-        {sites.map((site, index) => (
-          <ListItem key={index} divider>
-            <ListItemText
-              primary={
-                <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
-                  <Chip
+          <List dense>
+            {sites.map((site, index) => (
+              <ListItem key={index} divider>
+                <ListItemText
+                  primary={
+                    <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                      <Chip
+                        size="small"
+                        sx={{ 
+                          backgroundColor: site.color || '#1976d2',
+                          color: 'white',
+                          minWidth: 8,
+                          height: 16,
+                          '& .MuiChip-label': { px: 0.5 }
+                        }}
+                        label=""
+                      />
+                      {site.name}
+                    </Box>
+                  }
+                  secondary={site.url}
+                />
+                <ListItemSecondaryAction>
+                  <IconButton
+                    edge="end"
+                    onClick={() => handleEdit(index)}
                     size="small"
-                    sx={{ 
-                      backgroundColor: site.color || '#1976d2',
-                      color: 'white',
-                      minWidth: 8,
-                      height: 16,
-                      '& .MuiChip-label': { px: 0.5 }
-                    }}
-                    label=""
-                  />
-                  {site.name}
-                </Box>
-              }
-              secondary={site.url}
-            />
-            <ListItemSecondaryAction>
-              <IconButton
-                edge="end"
-                onClick={() => handleEdit(index)}
-                size="small"
-                sx={{ mr: 1 }}
-              >
-                <EditIcon fontSize="small" />
-              </IconButton>
-              <IconButton
-                edge="end"
-                onClick={() => handleDelete(index)}
-                size="small"
-                color="error"
-              >
-                <DeleteIcon fontSize="small" />
-              </IconButton>
-            </ListItemSecondaryAction>
-          </ListItem>
-        ))}
-        {sites.length === 0 && (
-          <ListItem>
-            <ListItemText
-              primary="No RSS feeds configured"
-              secondary="Click 'Add Feed' to get started"
-            />
-          </ListItem>
-        )}
-      </List>
+                    sx={{ mr: 1 }}
+                  >
+                    <EditIcon fontSize="small" />
+                  </IconButton>
+                  <IconButton
+                    edge="end"
+                    onClick={() => handleDelete(index)}
+                    size="small"
+                    color="error"
+                  >
+                    <DeleteIcon fontSize="small" />
+                  </IconButton>
+                </ListItemSecondaryAction>
+              </ListItem>
+            ))}
+            {sites.length === 0 && (
+              <ListItem>
+                <ListItemText
+                  primary="No RSS feeds configured"
+                  secondary="Click 'Add Feed' to get started"
+                />
+              </ListItem>
+            )}
+          </List>
+        </Box>
+      </Collapse>
 
       <Dialog open={open} onClose={() => setOpen(false)} maxWidth="sm" fullWidth>
         <DialogTitle>

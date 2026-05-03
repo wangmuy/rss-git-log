@@ -71,6 +71,8 @@
 - [x] 6.5 Implement auto-refresh feeds after config changes
 - [x] 6.6 Add confirmation dialog for delete operations
 - [x] 6.7 Test subscription CRUD operations with GitHub sync
+- [x] 6.8 Make subscription list collapsible with MUI Collapse component
+- [x] 6.9 Set subscription list to collapsed by default for screen space
 
 ## 7. Sidebar Layout
 
