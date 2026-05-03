@@ -25,7 +25,7 @@ interface UseRSSFeedsReturn {
  * const { sites, loading, error, refresh } = useRSSFeeds(config);
  */
 export function useRSSFeeds(config: any): UseRSSFeedsReturn {
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   const {
@@ -106,12 +106,12 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     }
   }, [config, setSites, setFeeds, setStoreLoading, setStoreError]);
 
-  // Only auto-fetch on initial mount when no sites exist in store
+  // Auto-fetch when config becomes available and no sites exist in store
   useEffect(() => {
-    if (config && sites.length === 0) {
+    if (config?.sites && config.sites.length > 0 && sites.length === 0) {
       doFetch();
     }
-  }, []);
+  }, [config, sites.length, doFetch]);
 
   return {
     sites,
