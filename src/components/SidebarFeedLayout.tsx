@@ -64,7 +64,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   return (
     <Box sx={{ display: 'flex', height: '70vh', gap: 2 }}>
       {/* Left Sidebar - Site List */}
-      <Paper sx={{ width: 300, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
+      <Paper sx={{ width: { xs: 240, sm: 280, md: 320 }, overflow: 'hidden', display: 'flex', flexDirection: 'column', flexShrink: 0 }}>
         <Box sx={{ p: 2, bgcolor: 'primary.main', color: 'primary.contrastText' }}>
           <Typography variant="h6" sx={{ fontWeight: 600 }}>
             RSS Feeds ({sites.length})

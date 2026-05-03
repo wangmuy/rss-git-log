@@ -85,7 +85,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
         onShowReadItemsChange={(checked) => setSettings({ showReadItems: checked })}
       />
 
-      <Container maxWidth="lg" sx={{ py: 3 }}>
+      <Container maxWidth={false} sx={{ py: 3 }}>
         {/* Subscription Manager */}
         {localConfig && (
           <SubscriptionManager

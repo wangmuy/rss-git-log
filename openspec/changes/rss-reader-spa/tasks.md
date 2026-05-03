@@ -91,6 +91,10 @@
 - [x] 7.13 Add manual commit button in the reader when GitHub write capability is valid
 - [x] 7.14 Hide manual commit button when token is missing, invalid, or cannot write to the configured repo
 
+- [x] 7.15 Remove maxWidth constraint from reader Container for full-width layout
+- [x] 7.16 Make sidebar width responsive using MUI breakpoint system
+- [x] 7.17 Verify feed items list pane expands to fill remaining space
+
 ## 8. Data Management
 
 - [x] 8.4 Create LocalStorage persistence layer for read status cache

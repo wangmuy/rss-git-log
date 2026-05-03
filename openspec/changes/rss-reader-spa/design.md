@@ -183,6 +183,18 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - When the retention value is lowered in Config, prune existing cached files on save
 **Trade-off:** Keeping only one file per site minimizes browser storage use but may require GitHub reads for older history. Users can increase the limit when they want more offline/local history.
 
+### 14. Responsive Layout: Full-Width Adaptive Panes
+**Decision:** The reader layout and its two-panel feed view expand to fill the browser's full width when maximized, with a proportional sidebar that scales responsively.
+**Rationale:**
+- `Container maxWidth="lg"` caps content at 1200px, wasting horizontal space on wide screens
+- Fixed 300px sidebar is too narrow on large monitors, too wide on small ones
+- Users expect a desktop RSS reader to utilize available screen real estate
+**Implementation:**
+- Remove `maxWidth` constraint from the reader `Container` (use `maxWidth={false}` or remove entirely)
+- Sidebar width set to a percentage-based or breakpoint-responsive value (e.g., 280px on mobile, 320px on desktop)
+- Feed items list pane uses `flex: 1` to consume remaining space (already in place)
+- No max-width on the overall layout container
+
 ### 13. Collapsible Subscription Manager: Minimized by Default
 **Decision:** The subscription list in the sidebar is minimized (collapsed) by default, showing only the section header with an expand/collapse chevron. Expanding reveals the site list and add/edit/delete controls.
 **Rationale:**
