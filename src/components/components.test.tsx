@@ -2,7 +2,6 @@ import { describe, expect, it, vi } from 'vitest';
 import { fireEvent, render, screen } from '@testing-library/react';
 import { FeedItem } from './FeedItem';
 import { SubscriptionManager } from './SubscriptionManager';
-import { SettingsPanel } from './SettingsPanel';
 import { ConfigPage } from './ConfigPage';
 import { Header } from './Header';
 
@@ -46,23 +45,6 @@ describe('SubscriptionManager', () => {
   });
 });
 
-describe('SettingsPanel', () => {
-  it('updates show-read setting', () => {
-    const onSettingsChange = vi.fn();
-
-    render(
-      <SettingsPanel
-        settings={{ showReadItems: false, autoCommit: false, commitInterval: 300 }}
-        onSettingsChange={onSettingsChange}
-      />
-    );
-
-    fireEvent.click(screen.getByLabelText('Show Read Items'));
-
-    expect(onSettingsChange).toHaveBeenCalledWith({ showReadItems: true });
-  });
-});
-
 describe('ConfigPage', () => {
   it('renders runtime configuration sections', () => {
     localStorage.clear();
@@ -87,6 +69,8 @@ describe('Header', () => {
         isCommitting={false}
         canWrite={false}
         lastCommit={null}
+        showReadItems={false}
+        onShowReadItemsChange={vi.fn()}
       />
     );
 
@@ -103,9 +87,11 @@ describe('Header', () => {
         isCommitting={false}
         canWrite={true}
         lastCommit={null}
+        showReadItems={false}
+        onShowReadItemsChange={vi.fn()}
       />
     );
 
-    expect(screen.getByRole('button', { name: 'Manual Commit' })).toBeTruthy();
+    expect(screen.queryByLabelText('Manual Commit')).not.toBeNull();
   });
 });

@@ -39,7 +39,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     markAllAsRead
   } = useReaderStore();
 
-  const fetchFeeds = useCallback(async () => {
+  const doFetch = useCallback(async () => {
     if (!config?.sites || config.sites.length === 0) {
       setError('No sites configured');
       return;
@@ -106,17 +106,18 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     }
   }, [config, setSites, setFeeds, setStoreLoading, setStoreError]);
 
+  // Only auto-fetch on initial mount when no sites exist in store
   useEffect(() => {
-    if (config) {
-      fetchFeeds();
+    if (config && sites.length === 0) {
+      doFetch();
     }
-  }, [config, fetchFeeds]);
+  }, []);
 
   return {
     sites,
     loading,
     error,
-    refresh: fetchFeeds,
+    refresh: doFetch,
     markAsRead,
     markSiteAsRead,
     markAllAsRead

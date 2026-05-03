@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Container, Box, Typography, Alert, Snackbar } from '@mui/material';
 import { Header } from './Header';
-import { SettingsPanel } from './SettingsPanel';
 import { SubscriptionManager } from './SubscriptionManager';
 import { SidebarFeedLayout } from './SidebarFeedLayout';
 import { useConfig } from '../hooks/useConfig';
@@ -82,17 +81,11 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
         isCommitting={committing}
         canWrite={appConfig.githubWriteCapability.canWrite}
         lastCommit={lastCommit}
+        showReadItems={settings.showReadItems}
+        onShowReadItemsChange={(checked) => setSettings({ showReadItems: checked })}
       />
 
       <Container maxWidth="lg" sx={{ py: 3 }}>
-        {/* Settings Panel */}
-        {config && (
-          <SettingsPanel
-            settings={settings}
-            onSettingsChange={setSettings}
-          />
-        )}
-
         {/* Subscription Manager */}
         {localConfig && (
           <SubscriptionManager
