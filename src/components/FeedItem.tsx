@@ -25,9 +25,11 @@ export const FeedItem: React.FC<FeedItemProps> = ({
   siteColor = '#1976d2',
   onMarkAsRead
 }) => {
-  const formatDate = (dateString: string) => {
+  const formatDate = (dateString: string | undefined) => {
+    if (!dateString) return 'Unknown date';
     try {
       const date = new Date(dateString);
+      if (isNaN(date.getTime())) return dateString;
       const now = new Date();
       const diffMs = now.getTime() - date.getTime();
       const diffMins = Math.floor(diffMs / 60000);
@@ -50,6 +52,10 @@ export const FeedItem: React.FC<FeedItemProps> = ({
     }
     onMarkAsRead();
   };
+
+  const title = item.title || 'Untitled';
+  const description = item.description || '';
+  const link = item.link;
 
   return (
     <Paper
@@ -93,47 +99,47 @@ export const FeedItem: React.FC<FeedItemProps> = ({
                 WebkitLineClamp: 2,
                 WebkitBoxOrient: 'vertical'
               }}
-            >
-              {item.title}
-            </Typography>
-          </Box>
+>
+                {title}
+              </Typography>
+            </Box>
 
-          {item.description && (
-            <Typography
-              variant="body2"
-              color="text.secondary"
-              sx={{
-                mb: 1,
-                overflow: 'hidden',
-                textOverflow: 'ellipsis',
-                display: '-webkit-box',
-                WebkitLineClamp: 2,
-                WebkitBoxOrient: 'vertical'
-              }}
-            >
-              {item.description.replace(/<[^>]*>/g, '')}
-            </Typography>
-          )}
-
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, flexWrap: 'wrap' }}>
-            <Chip
-              label={formatDate(item.pubDate)}
-              size="small"
-              variant="outlined"
-              sx={{ height: 20, fontSize: '0.7rem' }}
-            />
-
-            {item.link && (
-              <Link
-                href={item.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={(e) => e.stopPropagation()}
-                sx={{ fontSize: '0.75rem' }}
+            {description && (
+              <Typography
+                variant="body2"
+                color="text.secondary"
+                sx={{
+                  mb: 1,
+                  overflow: 'hidden',
+                  textOverflow: 'ellipsis',
+                  display: '-webkit-box',
+                  WebkitLineClamp: 2,
+                  WebkitBoxOrient: 'vertical'
+                }}
               >
-                Open Link
-              </Link>
+                {description.replace(/<[^>]*>/g, '')}
+              </Typography>
             )}
+
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, flexWrap: 'wrap' }}>
+              <Chip
+                label={formatDate(item.pubDate)}
+                size="small"
+                variant="outlined"
+                sx={{ height: 20, fontSize: '0.7rem' }}
+              />
+
+              {link && (
+                <Link
+                  href={link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={(e) => e.stopPropagation()}
+                  sx={{ fontSize: '0.75rem' }}
+                >
+                  Open Link
+                </Link>
+              )}
 
             {!isRead && (
               <Tooltip title="Mark as read">

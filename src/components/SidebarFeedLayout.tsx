@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Box,
   List,
@@ -31,6 +31,16 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const isRead = useReaderStore(state => state.isRead);
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
+
+  // Auto-select first site if none selected or selected site doesn't exist
+  useEffect(() => {
+    if (sites.length > 0) {
+      const selectedExists = sites.some(site => site.siteId === selectedSiteId);
+      if (!selectedExists) {
+        setSelectedSiteId(sites[0].siteId);
+      }
+    }
+  }, [sites, selectedSiteId]);
 
   const selectedSite = sites.find(site => site.siteId === selectedSiteId);
 

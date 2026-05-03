@@ -1,9 +1,44 @@
-import React, { useEffect, useState } from 'react';
-import { CssBaseline, ThemeProvider, createTheme } from '@mui/material';
+import React, { useEffect, useState, Component, ErrorInfo, ReactNode } from 'react';
+import { CssBaseline, ThemeProvider, createTheme, Alert } from '@mui/material';
 import { ReaderLayout } from './components/ReaderLayout';
 import { ConfigPage } from './components/ConfigPage';
 import { useReaderStore } from './store/readerStore';
 import { hasGitHubConfig, getStoredConfig, createGitHubClient, readFromGitHub } from './utils/github-api';
+
+// Error Boundary to catch unhandled errors
+class ErrorBoundary extends Component<{ children: ReactNode }, { hasError: boolean; error: Error | null }> {
+  constructor(props: { children: ReactNode }) {
+    super(props);
+    this.state = { hasError: false, error: null };
+  }
+
+  static getDerivedStateFromError(error: Error) {
+    return { hasError: true, error };
+  }
+
+  componentDidCatch(error: Error, errorInfo: ErrorInfo) {
+    console.error('React Error Boundary caught:', error, errorInfo);
+  }
+
+  render() {
+    if (this.state.hasError) {
+      return (
+        <div style={{ padding: 20, textAlign: 'center' }}>
+          <Alert severity="error">
+            Something went wrong: {this.state.error?.message}
+            <button
+              onClick={() => window.location.reload()}
+              style={{ marginLeft: 10, padding: '5px 10px', cursor: 'pointer' }}
+            >
+              Reload Page
+            </button>
+          </Alert>
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
 
 // MUI Theme
 const theme = createTheme({
@@ -84,22 +119,24 @@ const App: React.FC = () => {
   };
 
   return (
-    <ThemeProvider theme={theme}>
-      <CssBaseline />
-      {view === 'loading' && (
-        <div style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '100vh',
-          backgroundColor: '#f5f5f5'
-        }}>
-          <div>Loading...</div>
-        </div>
-      )}
-      {view === 'config' && <ConfigPage onConfigured={handleConfigured} onCancel={() => setView('reader')} />}
-      {view === 'reader' && <ReaderLayout onOpenConfig={() => setView('config')} />}
-    </ThemeProvider>
+    <ErrorBoundary>
+      <ThemeProvider theme={theme}>
+        <CssBaseline />
+        {view === 'loading' && (
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            height: '100vh',
+            backgroundColor: '#f5f5f5'
+          }}>
+            <div>Loading...</div>
+          </div>
+        )}
+        {view === 'config' && <ConfigPage onConfigured={handleConfigured} onCancel={() => setView('reader')} />}
+        {view === 'reader' && <ReaderLayout onOpenConfig={() => setView('config')} />}
+      </ThemeProvider>
+    </ErrorBoundary>
   );
 };
 

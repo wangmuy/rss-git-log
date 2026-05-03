@@ -38,9 +38,9 @@ export function generateItemId(
   // Create composite string
   const composite = `${guid}|${normalizedLink}|${title}|${description}|${pubDate}`;
 
-  // Create hash (simple base64 encoding for now)
-  // In production, consider using crypto.subtle.digest for better hashing
-  const hash = btoa(composite).replace(/=/g, '').substring(0, 32);
+  // Use encodeURIComponent to handle Unicode characters before base64 encoding
+  // btoa() can only handle Latin1, so we need to encode first
+  const hash = btoa(encodeURIComponent(composite)).replace(/=/g, '').substring(0, 32);
 
   return hash;
 }

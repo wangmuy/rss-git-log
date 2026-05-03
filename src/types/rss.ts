@@ -34,4 +34,5 @@ export interface SiteWithStatus extends RSSSite {
   siteId: string;
   unreadCount: number;
   items: RSSItem[];
+  error?: string;
 }

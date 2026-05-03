@@ -54,24 +54,47 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
       // Extract URLs from config
       const urls = config.sites.map((site: any) => site.url);
 
-      // Fetch all feeds in parallel
-      const feeds: RSSFeed[] = await fetchMultipleRSS(urls, loadAppConfig().corsPolicy);
+      // Fetch all feeds in parallel (returns null for failed feeds)
+      const feeds: Array<RSSFeed | null> = await fetchMultipleRSS(urls, loadAppConfig().corsPolicy);
+
+      // Track failed feeds for error reporting
+      const failedSites: string[] = [];
+      const successfulFeeds: RSSFeed[] = [];
 
       // Transform feeds into sites with status
       const sitesWithStatus: SiteWithStatus[] = config.sites.map((site: any, index: number) => {
         const feed = feeds[index];
         const siteId = getSiteId(site.url);
 
+        if (!feed) {
+          failedSites.push(site.name || site.url);
+          return {
+            ...site,
+            siteId,
+            unreadCount: 0,
+            items: [],
+            error: 'Failed to load feed'
+          };
+        }
+
+        successfulFeeds.push(feed);
         return {
           ...site,
           siteId,
-          unreadCount: feed?.items.length || 0,
-          items: feed?.items || []
+          unreadCount: feed.items.length || 0,
+          items: feed.items || []
         };
       });
 
+      // Set error message if some feeds failed
+      if (failedSites.length > 0 && failedSites.length < config.sites.length) {
+        setError(`Some feeds failed to load: ${failedSites.join(', ')}`);
+      } else if (failedSites.length === config.sites.length) {
+        setError(`All feeds failed to load. Check CORS policy in Config page.`);
+      }
+
       setSites(sitesWithStatus);
-      setFeeds(feeds);
+      setFeeds(successfulFeeds);
     } catch (err: any) {
       const errorMsg = err.message || 'Failed to fetch RSS feeds';
       setError(errorMsg);

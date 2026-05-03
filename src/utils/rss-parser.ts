@@ -5,12 +5,12 @@ export const DEFAULT_CORS_POLICY: CORSPolicy = {
   mode: 'proxy-fallback',
   proxies: [
     {
-      name: 'corsproxy.io',
-      urlTemplate: 'https://corsproxy.io/?{url}'
-    },
-    {
       name: 'allorigins.win',
       urlTemplate: 'https://api.allorigins.win/raw?url={url}'
+    },
+    {
+      name: 'corsproxy.io',
+      urlTemplate: 'https://corsproxy.io/?{url}'
     }
   ],
   timeoutMs: 10000
@@ -161,6 +161,13 @@ async function fetchRSSWithProxy(url: string, policy: CORSPolicy): Promise<RSSFe
       if (!response.ok) continue;
 
       const xml = await response.text();
+
+      // Check if response is HTML (proxy error page)
+      if (xml.trim().toLowerCase().startsWith('<!doctype') || xml.trim().toLowerCase().startsWith('<html')) {
+        console.warn(`Proxy ${proxy.name} returned HTML instead of XML`);
+        continue;
+      }
+
       return parseXMLFeed(xml);
     } catch (error) {
       // Try next proxy
@@ -232,14 +239,13 @@ export async function fetchRSSWithPolicy(url: string, policy: CORSPolicy = DEFAU
 export async function fetchMultipleRSS(
   urls: string[],
   policy: CORSPolicy = DEFAULT_CORS_POLICY
-): Promise<RSSFeed[]> {
+): Promise<Array<RSSFeed | null>> {
   const promises = urls.map(url => fetchRSSWithPolicy(url, policy).catch(error => {
     console.error(`Failed to fetch ${url}:`, error);
     return null;
   }));
 
-  const results = await Promise.all(promises);
-  return results.filter((feed): feed is RSSFeed => feed !== null);
+  return await Promise.all(promises);
 }
 
 /**
