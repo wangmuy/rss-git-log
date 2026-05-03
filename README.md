@@ -328,7 +328,53 @@ npm run build  # includes TypeScript check
 
 # Test
 npm run test
+
+# Deploy to GitHub Pages (uses current repo from package.json)
+npm run deploy
+
+# Deploy with custom repo and/or subfolder
+npm run deploy:custom -- -r owner/repo
+npm run deploy:custom -- -s subfolder
+npm run deploy:custom -- -r owner/repo -s subfolder
 ```
+
+## 🚀 Deploy to GitHub Pages
+
+### Quick Deploy
+
+Deploy the app to GitHub Pages using the `gh-pages` package:
+
+```bash
+npm run deploy
+```
+
+This deploys to the current repository's GitHub Pages (detected from `package.json` repository field).
+
+### Deploy to Custom Repository
+
+```bash
+# Deploy to a different repository
+npm run deploy:custom -- -r owner/repo-name
+
+# Deploy to a subfolder (e.g., yoursite.com/repo-name/myapp)
+npm run deploy:custom -- -r owner/repo-name -s myapp
+
+# Deploy to subfolder only (uses current repo)
+npm run deploy:custom -- -s myapp
+```
+
+### How It Works
+
+1. The `deploy.mjs` script sets the `VITE_BASE` environment variable to the subfolder path
+2. Vite builds with the correct base path for routing
+3. `gh-pages` publishes the `dist/` folder to the `gh-pages` branch
+4. GitHub Pages serves the app at `https://<owner>.github.io/<repo>/`
+
+### Notes
+
+- The app uses client-side routing - the `public/_redirects` file ensures proper handling
+- For subfolder deployment, all assets load from the subfolder path
+- Token and config are stored in localStorage, so they persist after redeployment
 
 ## 🔒 Security Considerations
 
