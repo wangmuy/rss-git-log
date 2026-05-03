@@ -6,7 +6,6 @@ import { SidebarFeedLayout } from './SidebarFeedLayout';
 import { useConfig } from '../hooks/useConfig';
 import { useRSSFeeds } from '../hooks/useRSSFeeds';
 import { useCommit } from '../hooks/useCommit';
-import { useReaderStore } from '../store/readerStore';
 import { saveRSSConfig } from '../utils/github-api';
 import { RSSConfig } from '@/types/config';
 import { loadAppConfig } from '@/utils/app-config';
@@ -19,7 +18,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const { config, loading: configLoading, error: configError, reload: reloadConfig } = useConfig();
   const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead, markSiteAsRead, markAllAsRead } = useRSSFeeds(config);
   const { commit, committing, lastCommit, error: commitError } = useCommit();
-  const { settings, setSettings } = useReaderStore();
   const [localConfig, setLocalConfig] = useState<RSSConfig | null>(config);
   const [appConfig, setAppConfig] = useState(() => loadAppConfig());
 
@@ -81,8 +79,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
         isCommitting={committing}
         canWrite={appConfig.githubWriteCapability.canWrite}
         lastCommit={lastCommit}
-        showReadItems={settings.showReadItems}
-        onShowReadItemsChange={(checked) => setSettings({ showReadItems: checked })}
       />
 
       <Container maxWidth={false} sx={{ py: 3, display: 'flex', flexDirection: 'column', flex: 1, minHeight: 0 }}>
@@ -102,7 +98,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
               sites={sites}
               onMarkAsRead={markAsRead}
               onMarkSiteAsRead={markSiteAsRead}
-              showReadItems={settings.showReadItems}
             />
           )}
           {loading && (

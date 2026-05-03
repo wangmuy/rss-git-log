@@ -7,9 +7,7 @@ import {
   Box,
   Tooltip,
   Badge,
-  Chip,
-  Switch,
-  FormControlLabel
+  Chip
 } from '@mui/material';
 import {
   Refresh as RefreshIcon,
@@ -27,8 +25,6 @@ interface HeaderProps {
   isCommitting: boolean;
   canWrite: boolean;
   lastCommit: Date | null;
-  showReadItems: boolean;
-  onShowReadItemsChange: (checked: boolean) => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -38,9 +34,7 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenConfig,
   isCommitting,
   canWrite,
-  lastCommit,
-  showReadItems,
-  onShowReadItemsChange
+  lastCommit
 }) => {
   const formatLastCommit = () => {
     if (!lastCommit) return 'Never committed';
@@ -76,28 +70,6 @@ export const Header: React.FC<HeaderProps> = ({
             </Tooltip>
           )}
         </Box>
-
-        <FormControlLabel
-          control={
-            <Switch
-              checked={showReadItems}
-              onChange={(e) => onShowReadItemsChange(e.target.checked)}
-              size="small"
-              sx={{
-                color: 'inherit',
-                '& .MuiSwitch-thumb': {
-                  bgcolor: showReadItems ? 'white' : 'rgba(255,255,255,0.5)'
-                }
-              }}
-            />
-          }
-          label={
-            <Typography variant="body2" sx={{ color: 'inherit' }}>
-              Show Read
-            </Typography>
-          }
-          sx={{ mr: 1 }}
-        />
 
         <Tooltip title="Mark All as Read">
           <span>

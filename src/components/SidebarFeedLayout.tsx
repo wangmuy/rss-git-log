@@ -20,14 +20,12 @@ interface SidebarFeedLayoutProps {
   sites: SiteWithStatus[];
   onMarkAsRead: (siteId: string, itemId: string) => void;
   onMarkSiteAsRead: (siteId: string) => void;
-  showReadItems: boolean;
 }
 
 export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   sites,
   onMarkAsRead,
-  onMarkSiteAsRead,
-  showReadItems
+  onMarkSiteAsRead
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const [kbdIndex, setKbdIndex] = useState(-1);
@@ -56,13 +54,8 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   const visibleItems = useMemo(() => {
     if (!selectedSite) return [];
     return [...selectedSite.items]
-      .filter(item => {
-        const itemId = generateItemIdFromItem(item);
-        const isItemRead = isRead(selectedSite.siteId, itemId);
-        return showReadItems || !isItemRead;
-      })
       .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
-  }, [selectedSite, showReadItems, readStatus, isRead]);
+  }, [selectedSite, readStatus]);
 
   const itemReadStatus = useMemo(
     () => visibleItems.map(item => isRead(selectedSite!.siteId, generateItemIdFromItem(item))),
@@ -202,7 +195,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               ) : (
                 <Box sx={{ textAlign: 'center', py: 4 }}>
                   <Typography variant="body2" color="text.secondary">
-                    {showReadItems ? 'No items available' : 'All items read'}
+                    No items available
                   </Typography>
                 </Box>
               )}
