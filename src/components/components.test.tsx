@@ -63,7 +63,6 @@ describe('Header', () => {
     render(
       <Header
         onRefresh={vi.fn()}
-        onMarkAllRead={vi.fn()}
         onManualCommit={vi.fn()}
         onOpenConfig={vi.fn()}
         isCommitting={false}
@@ -79,7 +78,6 @@ describe('Header', () => {
     render(
       <Header
         onRefresh={vi.fn()}
-        onMarkAllRead={vi.fn()}
         onManualCommit={vi.fn()}
         onOpenConfig={vi.fn()}
         isCommitting={false}

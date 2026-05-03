@@ -18,13 +18,11 @@ import { useReaderStore } from '../store/readerStore';
 interface SidebarFeedLayoutProps {
   sites: SiteWithStatus[];
   onMarkAsRead: (siteId: string, itemId: string) => void;
-  onMarkSiteAsRead: (siteId: string) => void;
 }
 
 export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   sites,
-  onMarkAsRead,
-  onMarkSiteAsRead
+  onMarkAsRead
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
@@ -108,21 +106,9 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
                 <Typography variant="h6" sx={{ fontWeight: 600 }}>
                   {selectedSite.name}
                 </Typography>
-                <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
-                  <Typography variant="body2" color="text.secondary">
+<Typography variant="body2" color="text.secondary">
                     {selectedSite.items.length} items
                   </Typography>
-                  {getUnreadCount(selectedSite.siteId) > 0 && (
-                    <Typography
-                      variant="caption"
-                      color="primary"
-                      sx={{ cursor: 'pointer', textDecoration: 'underline' }}
-                      onClick={() => onMarkSiteAsRead(selectedSite.siteId)}
-                    >
-                      Mark all as read
-                    </Typography>
-                  )}
-                </Box>
               </Box>
             </Box>
 

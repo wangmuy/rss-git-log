@@ -16,7 +16,7 @@ interface ReaderLayoutProps {
 
 export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const { config, loading: configLoading, error: configError, reload: reloadConfig } = useConfig();
-  const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead, markSiteAsRead, markAllAsRead } = useRSSFeeds(config);
+  const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead } = useRSSFeeds(config);
   const { commit, committing, lastCommit, error: commitError } = useCommit();
   const [localConfig, setLocalConfig] = useState<RSSConfig | null>(config);
   const [appConfig, setAppConfig] = useState(() => loadAppConfig());
@@ -32,13 +32,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
 
   const loading = configLoading || feedsLoading;
   const error = configError || feedsError || commitError;
-
-  const handleMarkAllRead = async () => {
-    markAllAsRead();
-    if (appConfig.autoCommit.enabled && appConfig.githubWriteCapability.canWrite) {
-      await commit();
-    }
-  };
 
   const handleRefresh = async () => {
     await refresh();
@@ -73,7 +66,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
     <Box sx={{ minHeight: '100vh', bgcolor: 'background.default', display: 'flex', flexDirection: 'column' }}>
       <Header
         onRefresh={handleRefresh}
-        onMarkAllRead={handleMarkAllRead}
         onManualCommit={handleManualCommit}
         onOpenConfig={onOpenConfig}
         isCommitting={committing}
@@ -97,7 +89,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
             <SidebarFeedLayout
               sites={sites}
               onMarkAsRead={markAsRead}
-              onMarkSiteAsRead={markSiteAsRead}
             />
           )}
           {loading && (

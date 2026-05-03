@@ -11,7 +11,6 @@ import {
 } from '@mui/material';
 import {
   Refresh as RefreshIcon,
-  DoneAll as DoneAllIcon,
   Save as SaveIcon,
   Schedule as ScheduleIcon,
   Settings as SettingsIcon
@@ -19,7 +18,6 @@ import {
 
 interface HeaderProps {
   onRefresh: () => void;
-  onMarkAllRead: () => void;
   onManualCommit: () => void;
   onOpenConfig: () => void;
   isCommitting: boolean;
@@ -29,7 +27,6 @@ interface HeaderProps {
 
 export const Header: React.FC<HeaderProps> = ({
   onRefresh,
-  onMarkAllRead,
   onManualCommit,
   onOpenConfig,
   isCommitting,
@@ -70,18 +67,6 @@ export const Header: React.FC<HeaderProps> = ({
             </Tooltip>
           )}
         </Box>
-
-        <Tooltip title="Mark All as Read">
-          <span>
-            <IconButton
-              color="inherit"
-              onClick={onMarkAllRead}
-              size="large"
-            >
-              <DoneAllIcon />
-            </IconButton>
-          </span>
-        </Tooltip>
 
         {canWrite && (
           <Tooltip title={isCommitting ? 'Committing...' : 'Manual Commit'}>
