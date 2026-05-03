@@ -1,4 +1,4 @@
-import { removeTrackingParams } from './url';
+﻿import { removeTrackingParams } from './url';
 
 /**
  * Generate a unique identifier for an RSS item
@@ -40,7 +40,7 @@ export function generateItemId(
 
   // Use encodeURIComponent to handle Unicode characters before base64 encoding
   // btoa() can only handle Latin1, so we need to encode first
-  const hash = btoa(encodeURIComponent(composite)).replace(/=/g, '').substring(0, 32);
+  const hash = btoa(encodeURIComponent(composite)).replace(/=/g, '');
 
   return hash;
 }

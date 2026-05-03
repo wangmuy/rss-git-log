@@ -5,6 +5,7 @@ interface UseKeyboardNavigationArgs {
   selectedIndex: number;
   isReadList: boolean[];
   onSelect: (index: number) => void;
+  siteId?: string;
 }
 
 export function useKeyboardNavigation({
@@ -12,6 +13,7 @@ export function useKeyboardNavigation({
   selectedIndex,
   isReadList,
   onSelect,
+  siteId,
 }: UseKeyboardNavigationArgs) {
   const argsRef = useRef({ totalItems, selectedIndex, isReadList, onSelect });
   argsRef.current = { totalItems, selectedIndex, isReadList, onSelect };
@@ -45,8 +47,9 @@ export function useKeyboardNavigation({
     }
   }, []);
 
+  // Re-register listener when site changes
   useEffect(() => {
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [handleKeyDown]);
+  }, [handleKeyDown, siteId]);
 }
