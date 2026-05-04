@@ -1,5 +1,5 @@
 ﻿import { create } from 'zustand';
-import { RSSFeed, SiteWithStatus } from '@/types/rss';
+import { RSSFeed, RSSItem, SiteWithStatus } from '@/types/rss';
 import { ReaderSettings } from '@/types/config';
 import { ReadStatus } from '@/types/log';
 import { generateItemIdFromItem } from '@/utils/item-id';
@@ -12,12 +12,15 @@ interface ReaderState {
   isLoading: boolean;
   isCommitting: boolean;
   error: string | null;
+  loadingSites: Record<string, boolean>;
 
   setFeeds: (feeds: RSSFeed[]) => void;
   setSites: (sites: SiteWithStatus[]) => void;
   setSettings: (settings: Partial<ReaderSettings>) => void;
   setLoading: (loading: boolean) => void;
   setError: (error: string | null) => void;
+  setSiteLoading: (siteId: string, loading: boolean) => void;
+  updateSite: (siteId: string, items: RSSItem[], unreadCount: number) => void;
 
   markAsRead: (siteId: string, itemId: string) => void;
   markSiteAsRead: (siteId: string) => void;
@@ -52,6 +55,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
   isLoading: false,
   isCommitting: false,
   error: null,
+  loadingSites: {},
 
   setFeeds: (feeds) => set({ feeds }),
   setSites: (sites) => set({ sites }),
@@ -62,6 +66,22 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
   },
   setLoading: (loading) => set({ isLoading: loading }),
   setError: (error) => set({ error }),
+  setSiteLoading: (siteId, loading) => set(state => ({
+    loadingSites: { ...state.loadingSites, [siteId]: loading }
+  })),
+  updateSite: (siteId, items, unreadCount) => set(state => {
+    const siteIndex = state.sites.findIndex(s => s.siteId === siteId);
+    if (siteIndex === -1) return state;
+
+    const updatedSites = [...state.sites];
+    updatedSites[siteIndex] = {
+      ...state.sites[siteIndex],
+      items,
+      unreadCount
+    };
+
+    return { sites: updatedSites };
+  }),
 
   markAsRead: (siteId, itemId) => {
     set(state => {

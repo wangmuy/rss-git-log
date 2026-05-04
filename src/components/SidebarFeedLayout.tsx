@@ -8,7 +8,8 @@ import {
   Typography,
   Chip,
   Stack,
-  Paper
+  Paper,
+  CircularProgress
 } from '@mui/material';
 import { SiteWithStatus, RSSItem } from '@/types/rss';
 import { FeedItem } from './FeedItem';
@@ -18,11 +19,15 @@ import { useReaderStore } from '../store/readerStore';
 interface SidebarFeedLayoutProps {
   sites: SiteWithStatus[];
   onMarkAsRead: (siteId: string, itemId: string) => void;
+  onSiteSelect: (siteId: string) => void;
+  loadingSites: Record<string, boolean>;
 }
 
 export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   sites,
-  onMarkAsRead
+  onMarkAsRead,
+  onSiteSelect,
+  loadingSites
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
@@ -35,6 +40,15 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
       }
     }
   }, [sites, selectedSiteId]);
+
+  useEffect(() => {
+    if (selectedSiteId && sites.length > 0) {
+      const site = sites.find(s => s.siteId === selectedSiteId);
+      if (site && site.items.length === 0 && !loadingSites[selectedSiteId]) {
+        onSiteSelect(selectedSiteId);
+      }
+    }
+  }, [selectedSiteId, sites, loadingSites, onSiteSelect]);
 
   const selectedSite = sites.find(site => site.siteId === selectedSiteId);
 
@@ -50,7 +64,6 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 
   return (
     <Box sx={{ display: 'flex', flex: 1, gap: 2, minHeight: 0 }}>
-      {/* Left Sidebar - Site List */}
       <Paper sx={{ width: { xs: 240, sm: 280, md: 320 }, overflow: 'hidden', display: 'flex', flexDirection: 'column', flexShrink: 0 }}>
         <Box sx={{ p: 2, bgcolor: 'primary.main', color: 'primary.contrastText' }}>
           <Typography variant="h6" sx={{ fontWeight: 600 }}>
@@ -61,6 +74,9 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
           {sites.map((site) => {
             const unreadCount = getUnreadCount(site.siteId);
             const isSelected = site.siteId === selectedSiteId;
+            const isLoading = loadingSites[site.siteId];
+            const hasItems = site.items.length > 0;
+            const hasError = site.error;
 
             return (
               <ListItem key={site.siteId} disablePadding>
@@ -79,14 +95,29 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
                         <Typography variant="body2" sx={{ fontWeight: isSelected ? 600 : 400 }}>
                           {site.name}
                         </Typography>
-                        {unreadCount > 0 && (
-                          <Chip
-                            label={unreadCount}
-                            size="small"
-                            color="primary"
-                            sx={{ ml: 1, minWidth: 24, height: 20 }}
-                          />
-                        )}
+                        <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
+                          {isLoading && (
+                            <CircularProgress size={16} color="primary" />
+                          )}
+                          {hasError && (
+                            <Chip label="!" size="small" color="error" sx={{ minWidth: 20, height: 20 }} />
+                          )}
+                          {unreadCount > 0 && !isLoading && (
+                            <Chip
+                              label={unreadCount}
+                              size="small"
+                              color="primary"
+                              sx={{ minWidth: 24, height: 20 }}
+                            />
+                          )}
+                          {unreadCount === 0 && !isLoading && hasItems && (
+                            <Chip
+                              label="✓"
+                              size="small"
+                              sx={{ minWidth: 20, height: 20, bgcolor: 'success.light', color: 'success.contrastText' }}
+                            />
+                          )}
+                        </Box>
                       </Box>
                     }
                   />
@@ -97,18 +128,17 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
         </List>
       </Paper>
 
-      {/* Right Content Area - Feed Items */}
       <Paper sx={{ flex: 1, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
-        {selectedSite && (
+        {selectedSite && selectedSite.items.length > 0 && (
           <>
             <Box sx={{ p: 2, bgcolor: 'background.paper', borderBottom: 1, borderColor: 'divider' }}>
               <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                 <Typography variant="h6" sx={{ fontWeight: 600 }}>
                   {selectedSite.name}
                 </Typography>
-<Typography variant="body2" color="text.secondary">
-                    {selectedSite.items.length} items
-                  </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  {selectedSite.items.length} items
+                </Typography>
               </Box>
             </Box>
 
@@ -119,6 +149,27 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               />
             </Box>
           </>
+        )}
+
+        {selectedSite && selectedSite.items.length === 0 && (
+          <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flex: 1 }}>
+            {loadingSites[selectedSite.siteId] ? (
+              <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                <CircularProgress size={24} />
+                <Typography variant="body1" color="text.secondary">
+                  Loading feed...
+                </Typography>
+              </Box>
+            ) : selectedSite.error ? (
+              <Typography variant="body1" color="error">
+                Failed to load feed
+              </Typography>
+            ) : (
+              <Typography variant="body1" color="text.secondary">
+                Select a feed to view items
+              </Typography>
+            )}
+          </Box>
         )}
 
         {!selectedSite && (
@@ -146,7 +197,7 @@ const FeedListPane: React.FC<{
   const [kbdIndex, setKbdIndex] = useState(-1);
   const kbdIndexRef = useRef(-1);
   kbdIndexRef.current = kbdIndex;
-const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
+  const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
   const isRead = useReaderStore(state => state.isRead);
 
   const items: FeedItemData[] = [...site.items]
@@ -157,7 +208,7 @@ const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
       idx
     }));
 
-useEffect(() => {
+  useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement || (e.target as HTMLElement).isContentEditable) {
         return;
@@ -198,7 +249,7 @@ useEffect(() => {
     };
   }, [site.siteId, isRead, onMarkAsRead, items]);
 
-return (
+  return (
     <Stack spacing={1}>
       {items.map((data, idx) => (
         <div key={`${site.siteId}-${data.itemId}-${idx}`} ref={el => { itemRefs.current[idx] = el; }} style={{ scrollMarginTop: 72 }}>

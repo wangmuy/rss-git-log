@@ -183,7 +183,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - When the retention value is lowered in Config, prune existing cached files on save
 **Trade-off:** Keeping only one file per site minimizes browser storage use but may require GitHub reads for older history. Users can increase the limit when they want more offline/local history.
 
-### 15. Full-Height Adaptive Panes with Independent Scrolling
+### 13. Full-Height Adaptive Panes with Independent Scrolling
 **Decision:** The reader layout fills the full viewport height (minus the header) and both panes scroll independently within their allocated space.
 **Rationale:**
 - Fixed `70vh` height wasted vertical space on tall screens
@@ -210,7 +210,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Feed items list pane uses `flex: 1` to consume remaining space (already in place)
 - No max-width on the overall layout container
 
-### 13. Collapsible Subscription Manager: Minimized by Default
+### 15. Collapsible Subscription Manager: Minimized by Default
 **Decision:** The subscription list in the sidebar is minimized (collapsed) by default, showing only the section header with an expand/collapse chevron. Expanding reveals the site list and add/edit/delete controls.
 **Rationale:**
 - Saves vertical screen space for the main feed content area
@@ -223,7 +223,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Default state: `collapsed = true`
 - Clicking the header or chevron toggles the collapsed state
 
-### 17. Clear All Data Button on Config Page
+### 16. Clear All Data Button on Config Page
 **Decision:** Add a "Clear All Data" button to the Config page that removes all app-local localStorage keys (app config, session data, log cache) with a confirmation dialog.
 **Rationale:**
 - Users need a way to reset the app without manually clearing browser storage
@@ -235,7 +235,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - `clearAllLocalStorage()` utility removes `rss-reader-app-config`, `rss-reader-session`, `rss-reader-log-cache`
 - After clearing, shows success message and resets form state to defaults
 
-### 16. Vim-Style Keyboard Navigation: j/k for Item Selection
+### 17. Vim-Style Keyboard Navigation: j/k for Item Selection
 **Decision:** Add vi-style keyboard shortcuts for navigating feed items in the reader pane. Press `j` to move to the next item (or first unread if no selection), press `k` to move to the previous item. Moving to an item automatically marks it as read.
 **Rationale:**
 - Power users prefer keyboard-driven navigation for speed
@@ -250,6 +250,23 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Listener attached to `document` with `keydown`, scoped to avoid firing when focus is in input/textarea
 - Selected item visually highlighted in the feed list (e.g., background tint, border indicator)
 - Only active when `SidebarFeedLayout` is mounted (no global shortcut conflicts)
+
+### 18. On-Demand Feed Fetching: Left Pane First, Independent Loading
+**Decision:** The reader left pane (feed list) displays immediately without waiting for any feed fetches, showing each site with an unread count badge. When a site is selected, only that site's feed is fetched on-demand, and the right pane displays its feed items immediately without waiting for other feeds.
+**Rationale:**
+- Current prefetch-all approach delays showing the site list until all feeds resolve, which is slow when many feeds are configured
+- Users want fast site list display and immediate feedback when selecting a feed
+- Independent fetching per site prevents slow feeds from blocking others
+- Unread count should still be tracked per site from locally cached read status
+**Implementation:**
+- Site list renders from config subscriptions immediately on page load
+- Each site shows unread count from local read status (cached from previous sessions)
+- A loading spinner icon appears next to each site while its feed is being fetched
+- Left pane shows first before any feed fetch is initiated
+- Clicking a site triggers on-demand fetch of only that site's feed
+- Right pane displays feed items immediately once the selected site's feed resolves
+- Other sites' feeds are not fetched until explicitly selected
+- Track fetch loading state per site in component or store state
 
 ## Risks / Trade-offs
 

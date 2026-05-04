@@ -6,6 +6,7 @@ import { SidebarFeedLayout } from './SidebarFeedLayout';
 import { useConfig } from '../hooks/useConfig';
 import { useRSSFeeds } from '../hooks/useRSSFeeds';
 import { useCommit } from '../hooks/useCommit';
+import { useReaderStore } from '../store/readerStore';
 import { saveRSSConfig } from '../utils/github-api';
 import { RSSConfig } from '@/types/config';
 import { loadAppConfig } from '@/utils/app-config';
@@ -16,7 +17,8 @@ interface ReaderLayoutProps {
 
 export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const { config, loading: configLoading, error: configError, reload: reloadConfig } = useConfig();
-  const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead } = useRSSFeeds(config);
+  const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead, fetchSiteFeed } = useRSSFeeds(config);
+  const loadingSites = useReaderStore(state => state.loadingSites);
   const { commit, committing, lastCommit, error: commitError } = useCommit();
   const [localConfig, setLocalConfig] = useState<RSSConfig | null>(config);
   const [appConfig, setAppConfig] = useState(() => loadAppConfig());
@@ -89,6 +91,8 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
             <SidebarFeedLayout
               sites={sites}
               onMarkAsRead={markAsRead}
+              onSiteSelect={fetchSiteFeed}
+              loadingSites={loadingSites}
             />
           )}
           {loading && (

@@ -162,3 +162,14 @@
 - [x] 11.11 Create README.md with installation and GitHub setup instructions
 - [x] 11.12 Document CORS proxy usage and limitations
 - [x] 11.13 Document security implications of client-side token storage
+
+## 12. On-Demand Feed Fetching
+
+- [x] 12.1 Modify SidebarFeedLayout to render site list immediately without waiting for feed fetches
+- [x] 12.2 Add per-site loading state tracking in component or store (isLoading per siteId)
+- [x] 12.3 Show loading spinner icon next to each site while its feed is being fetched
+- [x] 12.4 Update each site to show unread count badge from local read status cache
+- [x] 12.5 Change feed fetching to trigger on-demand only when site is clicked/selected
+- [x] 12.6 Display right pane feed items immediately once selected site's feed resolves
+- [x] 12.7 Ensure other sites' feeds are not fetched until explicitly selected
+- [x] 12.8 Test: site list appears instantly, clicking site shows loading then items, other sites remain unfetched

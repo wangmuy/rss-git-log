@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
-import { fetchMultipleRSS } from '@/utils/rss-parser';
-import { RSSFeed, SiteWithStatus } from '@/types/rss';
+import { fetchRSSWithPolicy } from '@/utils/rss-parser';
+import { SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
@@ -15,35 +15,109 @@ interface UseRSSFeedsReturn {
   markAsRead: (siteId: string, itemId: string) => void;
   markSiteAsRead: (siteId: string) => void;
   markAllAsRead: () => void;
+  fetchSiteFeed: (siteId: string) => Promise<void>;
 }
 
-/**
- * Hook to fetch and manage RSS feeds
- *
- * @param config - RSS configuration
- * @returns Feeds, loading state, error, and actions
- *
- * @example
- * const { sites, loading, error, refresh } = useRSSFeeds(config);
- */
 export function useRSSFeeds(config: any): UseRSSFeedsReturn {
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   const {
     sites,
     setSites,
-    setFeeds,
     setLoading: setStoreLoading,
     setError: setStoreError,
     markAsRead,
     markSiteAsRead,
     markAllAsRead,
     mergeGitHubReadStatus,
-    addHistoricalItems
+    addHistoricalItems,
+    setSiteLoading,
+    updateSite
   } = useReaderStore();
 
-  const doFetch = useCallback(async () => {
+  const initializeSites = useCallback(() => {
+    if (!config?.sites || config.sites.length === 0) {
+      return;
+    }
+
+    const initialSites: SiteWithStatus[] = config.sites.map((site: any) => {
+      const siteId = getSiteId(site.url);
+      return {
+        ...site,
+        siteId,
+        unreadCount: 0,
+        items: [],
+        error: undefined
+      };
+    });
+
+    setSites(initialSites);
+  }, [config, setSites]);
+
+  useEffect(() => {
+    if (config?.sites && config.sites.length > 0 && sites.length === 0) {
+      initializeSites();
+    }
+  }, [config, sites.length, initializeSites]);
+
+  const fetchSiteFeed = useCallback(async (siteId: string) => {
+    const site = sites.find(s => s.siteId === siteId);
+    if (!site || site.items.length > 0) return;
+
+    setSiteLoading(siteId, true);
+    setStoreLoading(true);
+
+    try {
+      const feed = await fetchRSSWithPolicy(site.url, loadAppConfig().corsPolicy);
+      const items = feed?.items || [];
+      const unreadCount = items.length;
+
+      updateSite(siteId, items, unreadCount);
+
+      const appConfig = loadAppConfig();
+      if (appConfig.githubWriteCapability.canWrite) {
+        try {
+          const githubItems = await getLogItemsForSite(siteId);
+          if (githubItems.size > 0) {
+            const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
+
+            const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
+            githubItems.forEach((logItem, itemId) => {
+              if (!rssItemIds.has(itemId)) {
+                historicalItems.push({
+                  itemId,
+                  title: logItem.title,
+                  pubDate: logItem.pubDate
+                });
+              }
+            });
+
+            if (historicalItems.length > 0) {
+              addHistoricalItems(siteId, historicalItems);
+            }
+
+            mergeGitHubReadStatus(siteId, githubItems);
+          }
+        } catch (error) {
+          console.error('Failed to sync GitHub read status for', siteId, error);
+        }
+      }
+    } catch (err: any) {
+      console.error('Failed to fetch feed for', siteId, err);
+      const siteIndex = sites.findIndex(s => s.siteId === siteId);
+      if (siteIndex !== -1) {
+        const updatedSites = [...sites];
+        updatedSites[siteIndex] = { ...sites[siteIndex], error: 'Failed to load feed' };
+        setSites(updatedSites);
+      }
+    } finally {
+      setSiteLoading(siteId, false);
+      setStoreLoading(false);
+    }
+  }, [sites, setSiteLoading, setStoreLoading, updateSite, setSites, mergeGitHubReadStatus, addHistoricalItems]);
+
+  const refresh = useCallback(async () => {
     if (!config?.sites || config.sites.length === 0) {
       setError('No sites configured');
       return;
@@ -55,109 +129,28 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     setStoreError(null);
 
     try {
-      // Extract URLs from config
-      const urls = config.sites.map((site: any) => site.url);
-
-      // Fetch all feeds in parallel (returns null for failed feeds)
-      const feeds: Array<RSSFeed | null> = await fetchMultipleRSS(urls, loadAppConfig().corsPolicy);
-
-      // Track failed feeds for error reporting
-      const failedSites: string[] = [];
-      const successfulFeeds: RSSFeed[] = [];
-
-      // Transform feeds into sites with status
-      const sitesWithStatus: SiteWithStatus[] = config.sites.map((site: any, index: number) => {
-        const feed = feeds[index];
+      for (const site of config.sites) {
         const siteId = getSiteId(site.url);
-
-        if (!feed) {
-          failedSites.push(site.name || site.url);
-          return {
-            ...site,
-            siteId,
-            unreadCount: 0,
-            items: [],
-            error: 'Failed to load feed'
-          };
-        }
-
-        successfulFeeds.push(feed);
-        return {
-          ...site,
-          siteId,
-          unreadCount: feed.items.length || 0,
-          items: feed.items || []
-        };
-      });
-
-      // Set error message if some feeds failed
-      if (failedSites.length > 0 && failedSites.length < config.sites.length) {
-        setError(`Some feeds failed to load: ${failedSites.join(', ')}`);
-      } else if (failedSites.length === config.sites.length) {
-        setError(`All feeds failed to load. Check CORS policy in Config page.`);
-      }
-
-      setSites(sitesWithStatus);
-      setFeeds(successfulFeeds);
-
-      // Sync with GitHub logs after feed fetch
-      const appConfig = loadAppConfig();
-      if (appConfig.githubWriteCapability.canWrite) {
-        for (const site of sitesWithStatus) {
-          if (site.items && site.items.length > 0) {
-            try {
-              const githubItems = await getLogItemsForSite(site.siteId);
-              if (githubItems.size > 0) {
-                const rssItemIds = new Set(site.items.map(i => generateItemIdFromItem(i)));
-
-                const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
-                githubItems.forEach((logItem, itemId) => {
-                  if (!rssItemIds.has(itemId)) {
-                    historicalItems.push({
-                      itemId,
-                      title: logItem.title,
-                      pubDate: logItem.pubDate
-                    });
-                  }
-                });
-
-                if (historicalItems.length > 0) {
-                  addHistoricalItems(site.siteId, historicalItems);
-                }
-
-                mergeGitHubReadStatus(site.siteId, githubItems);
-              }
-            } catch (error) {
-              console.error('Failed to sync GitHub read status for', site.siteId, error);
-            }
-          }
-        }
+        await fetchSiteFeed(siteId);
       }
     } catch (err: any) {
       const errorMsg = err.message || 'Failed to fetch RSS feeds';
       setError(errorMsg);
       setStoreError(errorMsg);
-      console.error('RSS fetch error:', err);
     } finally {
       setLoading(false);
       setStoreLoading(false);
     }
-  }, [config, setSites, setFeeds, setStoreLoading, setStoreError, mergeGitHubReadStatus, addHistoricalItems]);
-
-  // Auto-fetch when config becomes available and no sites exist in store
-  useEffect(() => {
-    if (config?.sites && config.sites.length > 0 && sites.length === 0) {
-      doFetch();
-    }
-  }, [config, sites.length, doFetch]);
+  }, [config, fetchSiteFeed, setStoreLoading, setStoreError]);
 
   return {
     sites,
     loading,
     error,
-    refresh: doFetch,
+    refresh,
     markAsRead,
     markSiteAsRead,
-    markAllAsRead
+    markAllAsRead,
+    fetchSiteFeed
   };
 }
