@@ -304,11 +304,14 @@ src/
 ├── utils/                # Utility functions
 │   ├── app-config.ts          # Runtime config localStorage management
 │   ├── github-api.ts          # GitHub API (native fetch)
-│   ├── rss-parser.ts          # RSS parsing (DOMParser)
+│   ├── feed-parser.ts         # Shared RSS/Atom parser (browser + Node.js)
+│   ├── rss-parser.ts          # RSS fetching (browser wrapper)
 │   ├── item-id.ts             # ID generation
 │   ├── log-file.ts            # Log management
 │   ├── log-cache.ts           # localStorage cache eviction
 │   └── url.ts                # URL utilities
+├── scripts/              # Node.js scripts
+│   └── fetch-feeds.ts        # GitHub Action feed fetcher
 └── App.tsx               # Main application
 ```
 
@@ -337,6 +340,9 @@ npm run deploy
 npm run deploy:custom -- -r owner/repo
 npm run deploy:custom -- -s subfolder
 npm run deploy:custom -- -r owner/repo -s subfolder
+
+# Run feed fetcher locally (requires env vars)
+GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-data npm run fetch-feeds
 ```
 
 ## 🚀 Deploy to GitHub Pages
@@ -476,7 +482,7 @@ The workflow at `.github/workflows/fetch-feeds.yml` runs every 8 hours and on de
 3. The workflow runs automatically on schedule — no further config needed
 
 All parameters are overridable from the Actions tab via **Run workflow**:
-- **code_branch**: Code branch with package.json and scripts (default: current branch)
+- **code_branch**: Code branch with package.json and scripts (default: `main`)
 - **data_branch**: Data branch with `rss-config.json` (default: `rss-reader-data`)
 - **proxy_mode**: `direct-only`, `proxy-fallback`, or `proxy-only`
 - **proxy_templates**: Ordered proxy list with `{url}` placeholder
@@ -546,7 +552,7 @@ Built with:
 
 **Status**: MVP Ready 🚀
 
-**Last Updated**: 2025-12-24
+**Last Updated**: 2026-05-04
 
 **Next Steps**:
 1. Read some articles - Click on items to mark as read

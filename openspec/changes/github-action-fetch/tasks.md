@@ -53,5 +53,5 @@ Separate from the self-contained workflow. Composite actions cannot use other ac
 - [x] 6.3 Write unit tests for `parseXMLDocument()` with malformed XML
 - [x] 6.4 Test `fetch-feeds.ts` locally — script loads and runs (exits cleanly awaiting valid env vars)
 - [x] 6.5 Verify browser SPA builds and all existing tests pass
-- [ ] 6.6 Verify manual workflow_dispatch run succeeds in GitHub Actions
+- [x] 6.6 Verify manual workflow_dispatch run succeeds in GitHub Actions
 - [ ] 6.7 Verify scheduled run triggers and completes

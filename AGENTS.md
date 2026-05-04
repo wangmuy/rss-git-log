@@ -10,10 +10,12 @@ src/
   hooks/        # Custom hooks (useCommit, useConfig, useKeyboardNavigation, useRSSFeeds)
   store/        # Zustand state management (readerStore.ts)
   types/        # TypeScript interfaces (rss.ts, config.ts, log.ts)
-  utils/        # Pure utilities (github-api.ts, rss-parser.ts, log-cache.ts, etc.)
+  utils/        # Pure utilities (github-api.ts, feed-parser.ts, rss-parser.ts, log-cache.ts, etc.)
   App.tsx       # Root component with MUI ThemeProvider
   main.tsx      # React entry point
   integration.test.tsx  # Integration-level tests
+scripts/        # Node.js scripts (fetch-feeds.ts — GitHub Action feed fetcher)
+.github/        # GitHub Actions workflows & composite actions
 openspec/       # OpenSpec change artifacts (proposal, design, tasks, specs)
 public/         # Static assets (rss-config.example.json)
 dist/           # Production build output
@@ -30,6 +32,7 @@ Path alias `@/` maps to `src/` (configured in `tsconfig.json` and `vite.config.t
 | `npm run build` | Type-check with `tsc` then produce production bundle in `dist/` |
 | `npm run preview` | Serve the production build locally |
 | `npm test` | Run the Vitest test suite (jsdom environment) |
+| `npm run fetch-feeds` | Run the feed-fetching script locally (needs GH_TOKEN + TARGET_* env vars) |
 
 ## Coding Style & Naming Conventions
 
@@ -61,4 +64,6 @@ Path alias `@/` maps to `src/` (configured in `tsconfig.json` and `vite.config.t
 - **State**: Zustand store (`readerStore.ts`) manages read/unread status with `LocalStorage` persistence.
 - **Data flow**: RSS feeds are fetched via native `fetch` with CORS proxy fallback, parsed with `DOMParser`, and displayed in a two-panel sidebar layout.
 - **Persistence**: GitHub REST API v3 reads/writes config and log files. Tokens are stored in `localStorage` — use least-privilege `repo` scope tokens.
+- **Shared parser**: `feed-parser.ts` provides platform-agnostic RSS/Atom parsing used by both the browser SPA (native DOMParser) and the Node.js fetch script (linkedom). Config functions in `log-file.ts` accept optional `GitHubConfig` to bypass localStorage in non-browser contexts.
+- **GitHub Action**: Scheduled workflow (`.github/workflows/fetch-feeds.yml`) runs `scripts/fetch-feeds.ts` every 8 hours to fetch all feeds and commit unread logs. The workflow checks out the code branch, installs deps, pulls `rss-config.json` from a data branch, fetches feeds, and writes logs back via the GitHub API. `log-cache.ts` guards localStorage access so it's a no-op in Node.js.
 - **Config**: All runtime configuration (GitHub repo, CORS policy, auto-commit, cache retention) is managed through the in-app Config page — no `.env` files.
