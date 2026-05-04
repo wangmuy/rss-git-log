@@ -176,7 +176,7 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
                   value={config.github.branch}
                   onChange={(event) => updateConfig({
                     ...config,
-                    github: { ...config.github, branch: event.target.value.trim() || 'main' }
+                    github: { ...config.github, branch: event.target.value.trim() || 'rss-reader-data' }
                   })}
                 />
                 <TextField

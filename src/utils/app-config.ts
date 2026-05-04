@@ -5,7 +5,7 @@ const APP_CONFIG_STORAGE_KEY = 'rss-reader-app-config';
 const DEFAULT_GITHUB_CONFIG: GitHubConfig = {
   owner: '',
   repo: '',
-  branch: 'main',
+  branch: 'rss-reader-data',
   token: undefined
 };
 

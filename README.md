@@ -18,6 +18,8 @@ A lean React Single Page Application (SPA) for reading RSS feeds with automatic 
 - **MUI v7**: Modern Material Design components
 - **Browser Native**: No Node.js dependencies, uses native fetch/DOMParser
 - **GitHub Action**: Scheduled feed fetching — keep logs up to date without opening the app
+- **GitHub Pages**: Deploy as a static site via `npm run deploy`
+- **Vim Navigation**: `j`/`k` keys to move between feed items, auto-mark-as-read on selection
 
 ## 🚀 Quick Start
 
@@ -52,14 +54,21 @@ This will install:
 
 #### Step 2: Create GitHub Repository
 
-1. Go to github.com and create a **new public repository**
-   - Name: `rss-reader-data` (or any name)
-   - Visibility: **Public** (important!)
-   - Initialize with README: No
+1. **Fork this repository** (or create a new one) — the repo hosts both the SPA code and the RSS data:
+   - The default branch (`main`) contains the code, workflow, and scripts
+   - Create a bare **`rss-reader-data`** branch for config and logs:
+     ```bash
+     git checkout --orphan rss-reader-data
+     git rm -rf .
+     ```
+   - Add your `rss-config.json` to this branch (see Step 3), commit, and push:
+     ```bash
+     git push origin rss-reader-data
+     ```
 
 2. Note your repository details:
    - Owner: `your-username`
-   - Repo: `rss-reader-data`
+   - Repo: `rss-reader-data` (or your fork's name)
 
 #### Step 3: Create Config File
 
@@ -172,7 +181,7 @@ The app uses a versioned `AppConfig` stored in localStorage:
   github: {
     owner: "your-username",
     repo: "rss-reader-data",
-    branch: "main",        // Same branch for reads AND writes
+    branch: "rss-reader-data",  // Same branch for reads AND writes
     token: "ghp_xxx"        // Optional, for write operations
   },
   githubWriteCapability: {
@@ -517,12 +526,13 @@ GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-
 - [x] Auto-commit functionality (disabled by default)
 - [x] Clean UI with MUI
 - [x] GitHub Action scheduled feed fetching
+- [x] GitHub Pages static site deploy
+- [x] Vim-style j/k keyboard navigation
 
 ### Future Enhancements
 - [ ] Search/filter functionality
 - [ ] Feed categories/tags
 - [ ] Export data (CSV/JSON)
-- [ ] Keyboard shortcuts
 - [ ] Dark mode theme
 - [ ] PWA offline support
 - [ ] Feed discovery
@@ -555,12 +565,13 @@ Built with:
 **Last Updated**: 2026-05-04
 
 **Next Steps**:
-1. Read some articles - Click on items to mark as read
+1. Read some articles - Click on items or press `j`/`k` to navigate and mark as read
 2. Change settings - Toggle "Show Read Items"
 3. Manage subscriptions - Add/edit/delete RSS feeds via UI
 4. Check write capability - Save token in Config page to enable commit features
 5. Manual commit - Click the save icon to commit to GitHub (when write is confirmed)
 6. Check GitHub - After commit, look for `logs/{siteId}/YYYY-MM-DD.json`
+7. Enable cron fetching - Push `.github/workflows/fetch-feeds.yml` to `main` and create `rss-reader-data` branch
 
 **Need Help?**
 1. Check browser console (F12)
