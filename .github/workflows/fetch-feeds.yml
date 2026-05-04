@@ -8,7 +8,7 @@ on:
       code_branch:
         description: 'Code branch (where package.json, scripts, and source live)'
         required: false
-        default: ''
+        default: 'main'
       data_branch:
         description: 'Data branch to read rss-config.json from and write logs to'
         required: true
