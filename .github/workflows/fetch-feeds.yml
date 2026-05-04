@@ -5,8 +5,12 @@ on:
     - cron: '23 */8 * * *'   # every 8 hours (00:23, 08:23, 16:23 UTC)
   workflow_dispatch:
     inputs:
-      branch:
-        description: 'Data branch to read config from and write logs to'
+      code_branch:
+        description: 'Code branch (where package.json, scripts, and source live)'
+        required: false
+        default: ''
+      data_branch:
+        description: 'Data branch to read rss-config.json from and write logs to'
         required: true
         default: 'rss-reader-data'
       proxy_mode:
@@ -49,26 +53,29 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the code branch (where package.json and scripts live)
+      # Checkout the code branch (where package.json, scripts/, src/ live)
+      # Defaults to the branch that triggered the workflow
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.code_branch || github.ref }}
 
       - uses: actions/setup-node@v4
         with:
           node-version: '18'
 
-      - run: npm ci
+      - run: npm ci || npm install
 
       # Fetch rss-config.json from the data branch without switching branches
       - run: |
-          git fetch origin ${{ inputs.branch }}:${{ inputs.branch }} --depth=1 || true
-          git checkout ${{ inputs.branch }} -- rss-config.json || echo "rss-config.json not found on data branch"
+          git fetch origin ${{ inputs.data_branch }} --depth=1 || true
+          git checkout origin/${{ inputs.data_branch }} -- rss-config.json || echo "rss-config.json not found on data branch"
 
       - run: npx tsx -r tsconfig-paths/register scripts/fetch-feeds.ts
         env:
           GH_TOKEN: ${{ inputs.target_token || secrets.GITHUB_TOKEN }}
           TARGET_OWNER: ${{ inputs.target_owner || github.repository_owner }}
           TARGET_REPO: ${{ inputs.target_repo || github.event.repository.name }}
-          TARGET_BRANCH: ${{ inputs.branch }}
+          TARGET_BRANCH: ${{ inputs.data_branch }}
           PROXY_MODE: ${{ inputs.proxy_mode }}
           PROXY_TEMPLATES: ${{ inputs.proxy_templates }}
           TIMEOUT_MS: ${{ inputs.timeout_ms }}

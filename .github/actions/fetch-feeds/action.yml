@@ -2,7 +2,7 @@ name: 'Fetch RSS Feeds'
 description: 'Fetch RSS feeds and commit unread logs to a GitHub data branch. Requires dependencies installed (npm ci) and rss-config.json in working directory before invoking.'
 
 inputs:
-  branch:
+  data_branch:
     description: 'Data branch to read config from and write logs to'
     required: true
     default: 'rss-reader-data'
@@ -46,7 +46,7 @@ runs:
         GH_TOKEN: ${{ inputs.target_token || github.token }}
         TARGET_OWNER: ${{ inputs.target_owner || github.repository_owner }}
         TARGET_REPO: ${{ inputs.target_repo || github.event.repository.name }}
-        TARGET_BRANCH: ${{ inputs.branch }}
+        TARGET_BRANCH: ${{ inputs.data_branch }}
         PROXY_MODE: ${{ inputs.proxy_mode }}
         PROXY_TEMPLATES: ${{ inputs.proxy_templates }}
         TIMEOUT_MS: ${{ inputs.timeout_ms }}

@@ -476,7 +476,8 @@ The workflow at `.github/workflows/fetch-feeds.yml` runs every 8 hours and on de
 3. The workflow runs automatically on schedule — no further config needed
 
 All parameters are overridable from the Actions tab via **Run workflow**:
-- **branch**: Data branch (default: `rss-reader-data`)
+- **code_branch**: Code branch with package.json and scripts (default: current branch)
+- **data_branch**: Data branch with `rss-config.json` (default: `rss-reader-data`)
 - **proxy_mode**: `direct-only`, `proxy-fallback`, or `proxy-only`
 - **proxy_templates**: Ordered proxy list with `{url}` placeholder
 - **timeout_ms**: Per-feed timeout in milliseconds

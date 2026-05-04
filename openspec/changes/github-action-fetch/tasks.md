@@ -31,7 +31,7 @@
 ## 4. GitHub Workflow
 
 - [x] 4.1 Create `.github/workflows/fetch-feeds.yml` with `on.schedule` (every 8 hours) and `on.workflow_dispatch`
-- [x] 4.2 Add workflow_dispatch inputs: branch, proxy_mode, proxy_templates, timeout_ms, pool_size, target_token, target_owner, target_repo
+- [x] 4.2 Add workflow_dispatch inputs: code_branch, data_branch, proxy_mode, proxy_templates, timeout_ms, pool_size, target_token, target_owner, target_repo
 - [x] 4.3 Configure checkout step with repository/ref/token from inputs, shallow clone (`fetch-depth: 1`)
 - [x] 4.4 Configure Node.js setup step (node 18)
 - [x] 4.5 Configure npm ci + tsx run steps
