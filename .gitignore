@@ -28,4 +28,9 @@ yarn-error.log*
 .turbo
 
 /output
+
+# coding agents
+./claude/
 .claude/settings.local.json
+!./claude/commands/
+!./claude/skills/

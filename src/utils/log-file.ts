@@ -1,5 +1,6 @@
 import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig, listDirectory } from './github-api';
 import { LogItem, SiteLogData } from '@/types/log';
+import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
 
 const MAX_LOG_ITEMS_PER_FILE = 200;
@@ -63,9 +64,9 @@ export function createSiteLogFilename(siteId: string, oldestDate: string): strin
  * @param siteId - Site identifier
  * @returns Latest file path or null if none exists
  */
-export async function getLatestLogFile(siteId: string): Promise<string | null> {
-  const config = getStoredConfig();
-  const client = createGitHubClient(config);
+export async function getLatestLogFile(siteId: string, config?: GitHubConfig): Promise<string | null> {
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
 
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectory(client, siteDir);
@@ -77,10 +78,10 @@ export async function getLatestLogFile(siteId: string): Promise<string | null> {
   for (const file of jsonFiles) {
     const filePath = file.path;
     try {
-      const data = getCachedLogFile(config, siteId, filePath) ??
+      const data = getCachedLogFile(cfg, siteId, filePath) ??
         await readFromGitHub<SiteLogData>(client, filePath);
       if (data && data.items.length < 200) {
-        cacheLogFile(config, siteId, filePath, data);
+        cacheLogFile(cfg, siteId, filePath, data);
         return filePath;
       }
     } catch {
@@ -130,12 +131,13 @@ export async function readLog(siteId: string, date: Date = new Date()): Promise<
 export async function commitReadStatus(
   siteId: string,
   siteName: string,
-  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>
+  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>,
+  config?: GitHubConfig
 ): Promise<boolean> {
   if (items.length === 0) return true;
 
-  const config = getStoredConfig();
-  const client = createGitHubClient(config);
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
 
   // Convert to LogItems - preserve readAt if present, otherwise omit (unread)
   const logItems: LogItem[] = items
@@ -149,7 +151,7 @@ export async function commitReadStatus(
 
   try {
     // Try to find existing file with space
-    let targetFile = await getLatestLogFile(siteId);
+    let targetFile = await getLatestLogFile(siteId, cfg);
     let existingData: SiteLogData | null = null;
 
     if (targetFile) {
@@ -184,7 +186,7 @@ export async function commitReadStatus(
 
     // Add new items
     siteLogData.items.push(...newItems);
-    
+
     // Update metadata
     const allDates = siteLogData.items.map(item => new Date(item.pubDate));
     siteLogData.metadata.oldestItemDate = new Date(Math.min(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
@@ -194,8 +196,8 @@ export async function commitReadStatus(
 
     const success = await writeToGitHub(client, targetFile!, siteLogData);
     if (success) {
-      cacheLogFile(config, siteId, targetFile!, siteLogData);
-      pruneCachedLogFilesForSite(config, siteId);
+      cacheLogFile(cfg, siteId, targetFile!, siteLogData);
+      pruneCachedLogFilesForSite(cfg, siteId);
     }
 
     return success;
@@ -291,12 +293,13 @@ export async function getAllReadItems(): Promise<Record<string, Set<string>>> {
 export async function commitAllFeedItems(
   siteId: string,
   siteName: string,
-  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>
+  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>,
+  config?: GitHubConfig
 ): Promise<boolean> {
   if (items.length === 0) return true;
 
-  const config = getStoredConfig();
-  const client = createGitHubClient(config);
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
 
   const logItems: LogItem[] = items
     .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
@@ -308,7 +311,7 @@ export async function commitAllFeedItems(
     }));
 
   try {
-    let targetFile = await getLatestLogFile(siteId);
+    let targetFile = await getLatestLogFile(siteId, cfg);
     let existingData: SiteLogData | null = null;
 
     if (targetFile) {
@@ -348,8 +351,8 @@ export async function commitAllFeedItems(
 
     const success = await writeToGitHub(client, targetFile!, siteLogData);
     if (success) {
-      cacheLogFile(config, siteId, targetFile!, siteLogData);
-      pruneCachedLogFilesForSite(config, siteId);
+      cacheLogFile(cfg, siteId, targetFile!, siteLogData);
+      pruneCachedLogFilesForSite(cfg, siteId);
 
       await checkAndRenameAllread(client, targetFile!);
     }

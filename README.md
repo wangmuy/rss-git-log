@@ -17,6 +17,7 @@ A lean React Single Page Application (SPA) for reading RSS feeds with automatic 
 - **Configurable**: User settings for display and auto-commit (disabled by default)
 - **MUI v7**: Modern Material Design components
 - **Browser Native**: No Node.js dependencies, uses native fetch/DOMParser
+- **GitHub Action**: Scheduled feed fetching — keep logs up to date without opening the app
 
 ## 🚀 Quick Start
 
@@ -460,6 +461,63 @@ Normal when using direct-only mode. The app supports:
 - **Memory**: <50MB for typical usage
 - **LocalStorage**: Bounded by `filesPerSite` setting (default ~5MB per site)
 
+## ⏰ Automated Feed Fetching (GitHub Action)
+
+A scheduled GitHub Action can periodically fetch all RSS feeds and commit unread logs without any human involvement.
+
+### How It Works
+
+The workflow at `.github/workflows/fetch-feeds.yml` runs every 8 hours and on demand via `workflow_dispatch`. It checks out your data branch, reads `rss-config.json`, fetches every feed using the configured CORS proxy policy, and commits `logs/{siteId}/YYYY-MM-DD.json` back to the data branch.
+
+### Enabling
+
+1. Create a data branch (default: `rss-reader-data`) in your repository
+2. Add your `rss-config.json` to that branch
+3. The workflow runs automatically on schedule — no further config needed
+
+All parameters are overridable from the Actions tab via **Run workflow**:
+- **branch**: Data branch (default: `rss-reader-data`)
+- **proxy_mode**: `direct-only`, `proxy-fallback`, or `proxy-only`
+- **proxy_templates**: Ordered proxy list with `{url}` placeholder
+- **timeout_ms**: Per-feed timeout in milliseconds
+- **pool_size**: Concurrent fetch limit (default: 5)
+- **target_token/owner/repo**: Target a different repository
+
+### Using in Another Repository
+
+Add this to `.github/workflows/fetch-feeds.yml` in your data repo:
+
+```yaml
+name: Fetch RSS Feeds
+on:
+  schedule:
+    - cron: '23 */8 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rss-reader-data
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - run: npm ci
+      - uses: owner/rss-git-log/.github/actions/fetch-feeds@main
+        with:
+          branch: rss-reader-data
+```
+
+### Local Testing
+
+```bash
+# Set required env vars and run the fetch script directly
+GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-data npm run fetch-feeds
+```
+
 ## 🎯 Roadmap
 
 ### MVP Features ✅
@@ -475,6 +533,7 @@ Normal when using direct-only mode. The app supports:
 - [x] Local cache with per-site retention
 - [x] Auto-commit functionality (disabled by default)
 - [x] Clean UI with MUI
+- [x] GitHub Action scheduled feed fetching
 
 ### Future Enhancements
 - [ ] Search/filter functionality
