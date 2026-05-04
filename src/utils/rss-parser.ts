@@ -5,12 +5,12 @@ export const DEFAULT_CORS_POLICY: CORSPolicy = {
   mode: 'proxy-fallback',
   proxies: [
     {
-      name: 'allorigins.win',
-      urlTemplate: 'https://api.allorigins.win/raw?url={url}'
-    },
-    {
       name: 'corsproxy.io',
       urlTemplate: 'https://corsproxy.io/?{url}'
+    },
+    {
+      name: 'allorigins.win',
+      urlTemplate: 'https://api.allorigins.win/raw?url={url}'
     }
   ],
   timeoutMs: 10000
