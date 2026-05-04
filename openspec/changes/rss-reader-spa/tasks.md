@@ -163,13 +163,14 @@
 - [x] 11.12 Document CORS proxy usage and limitations
 - [x] 11.13 Document security implications of client-side token storage
 
-## 12. On-Demand Feed Fetching
+## 12. On-Demand Feed Fetching with Concurrent Pool
 
 - [x] 12.1 Modify SidebarFeedLayout to render site list immediately without waiting for feed fetches
 - [x] 12.2 Add per-site loading state tracking in component or store (isLoading per siteId)
 - [x] 12.3 Show loading spinner icon next to each site while its feed is being fetched
-- [x] 12.4 Update each site to show unread count badge from local read status cache
-- [x] 12.5 Change feed fetching to trigger on-demand only when site is clicked/selected
-- [x] 12.6 Display right pane feed items immediately once selected site's feed resolves
-- [x] 12.7 Ensure other sites' feeds are not fetched until explicitly selected
-- [x] 12.8 Test: site list appears instantly, clicking site shows loading then items, other sites remain unfetched
+- [x] 12.4 Calculate unread count fresh from newest fetched items (not from cached read status)
+- [x] 12.5 On page load, start fetching up to 3 feeds in parallel (pool size = 3)
+- [x] 12.6 When clicking site already fetched or in fetch pool, do not trigger another fetch
+- [x] 12.7 When clicking site not fetched and not in pool, add to pool head for priority fetching
+- [x] 12.8 Display right pane feed items immediately once selected site's feed resolves
+- [x] 12.9 Test: pool of 3 fetches in parallel on load, clicking queued site triggers no duplicate fetch

@@ -30,7 +30,6 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   loadingSites
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
-  const getUnreadCount = useReaderStore(state => state.getUnreadCount);
 
   useEffect(() => {
     if (sites.length > 0) {
@@ -72,7 +71,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
         </Box>
         <List sx={{ flex: 1, overflow: 'auto', p: 0 }}>
           {sites.map((site) => {
-            const unreadCount = getUnreadCount(site.siteId);
+            const unreadCount = site.unreadCount;
             const isSelected = site.siteId === selectedSiteId;
             const isLoading = loadingSites[site.siteId];
             const hasItems = site.items.length > 0;

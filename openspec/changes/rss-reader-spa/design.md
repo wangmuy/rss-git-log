@@ -251,21 +251,22 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Selected item visually highlighted in the feed list (e.g., background tint, border indicator)
 - Only active when `SidebarFeedLayout` is mounted (no global shortcut conflicts)
 
-### 18. On-Demand Feed Fetching: Left Pane First, Independent Loading
-**Decision:** The reader left pane (feed list) displays immediately without waiting for any feed fetches, showing each site with an unread count badge. When a site is selected, only that site's feed is fetched on-demand, and the right pane displays its feed items immediately without waiting for other feeds.
+### 18. On-Demand Feed Fetching with Concurrent Pool
+**Decision:** The reader left pane (feed list) displays immediately without waiting for any feed fetches. When a feed is selected, the system uses a pool of 3 concurrent fetchers to fetch feeds on-demand. On first load, up to 3 feeds start fetching in parallel. When clicking a site already fetched or in the fetch queue, no new fetch is triggered. Otherwise, the site is added to the pool's head for priority fetching. Each site shows an unread count badge that is calculated fresh from the newest fetched items, not from cached read status.
 **Rationale:**
 - Current prefetch-all approach delays showing the site list until all feeds resolve, which is slow when many feeds are configured
+- Pool of 3 limits concurrent requests to avoid overwhelming the network or hitting rate limits
 - Users want fast site list display and immediate feedback when selecting a feed
 - Independent fetching per site prevents slow feeds from blocking others
-- Unread count should still be tracked per site from locally cached read status
+- Unread count should always reflect the current items; older cached status becomes stale after new items are fetched
 **Implementation:**
-- Site list renders from config subscriptions immediately on page load
-- Each site shows unread count from local read status (cached from previous sessions)
+- Site list renders from config subscriptions immediately on page load with no unread count shown until feed is fetched
+- On page load, up to 3 sites start fetching in parallel (pool size = 3)
+- Each site shows unread count calculated fresh from the newest fetched items (not from cached read status)
 - A loading spinner icon appears next to each site while its feed is being fetched
-- Left pane shows first before any feed fetch is initiated
-- Clicking a site triggers on-demand fetch of only that site's feed
+- Clicking a site that is already fetched or currently in the fetch pool does not trigger another fetch
+- Clicking a site not yet fetched and not in the queue adds it to the pool's head for priority fetching
 - Right pane displays feed items immediately once the selected site's feed resolves
-- Other sites' feeds are not fetched until explicitly selected
 - Track fetch loading state per site in component or store state
 
 ## Risks / Trade-offs
