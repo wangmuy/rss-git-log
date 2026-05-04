@@ -1,9 +1,9 @@
 name: 'Fetch RSS Feeds'
-description: 'Fetch RSS feeds and commit unread logs to a GitHub data branch. External repos must handle checkout and Node setup before invoking this action.'
+description: 'Fetch RSS feeds and commit unread logs to a GitHub data branch. Requires dependencies installed (npm ci) and rss-config.json in working directory before invoking.'
 
 inputs:
   branch:
-    description: 'Data branch to read/write'
+    description: 'Data branch to read config from and write logs to'
     required: true
     default: 'rss-reader-data'
   proxy_mode:

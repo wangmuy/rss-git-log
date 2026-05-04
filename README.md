@@ -485,31 +485,7 @@ All parameters are overridable from the Actions tab via **Run workflow**:
 
 ### Using in Another Repository
 
-Add this to `.github/workflows/fetch-feeds.yml` in your data repo:
-
-```yaml
-name: Fetch RSS Feeds
-on:
-  schedule:
-    - cron: '23 */8 * * *'
-  workflow_dispatch:
-
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: rss-reader-data
-          fetch-depth: 1
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-      - run: npm ci
-      - uses: owner/rss-git-log/.github/actions/fetch-feeds@main
-        with:
-          branch: rss-reader-data
-```
+Fork this repo and copy `.github/workflows/fetch-feeds.yml` into your fork. The workflow runs in the same repo that contains the code, reading `rss-config.json` from a data branch and committing logs back to it.
 
 ### Local Testing
 

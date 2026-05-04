@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       branch:
-        description: 'Data branch to read/write'
+        description: 'Data branch to read config from and write logs to'
         required: true
         default: 'rss-reader-data'
       proxy_mode:
@@ -49,18 +49,19 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the code branch (where package.json and scripts live)
       - uses: actions/checkout@v4
-        with:
-          repository: ${{ inputs.target_owner || github.repository_owner }}/${{ inputs.target_repo || github.event.repository.name }}
-          ref: ${{ inputs.branch }}
-          token: ${{ inputs.target_token || secrets.GITHUB_TOKEN }}
-          fetch-depth: 1
 
       - uses: actions/setup-node@v4
         with:
           node-version: '18'
 
       - run: npm ci
+
+      # Fetch rss-config.json from the data branch without switching branches
+      - run: |
+          git fetch origin ${{ inputs.branch }}:${{ inputs.branch }} --depth=1 || true
+          git checkout ${{ inputs.branch }} -- rss-config.json || echo "rss-config.json not found on data branch"
 
       - run: npx tsx -r tsconfig-paths/register scripts/fetch-feeds.ts
         env:

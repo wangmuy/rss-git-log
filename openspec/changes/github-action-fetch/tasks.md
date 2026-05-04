@@ -44,7 +44,7 @@ Separate from the self-contained workflow. Composite actions cannot use other ac
 - [x] 5.1 Create `.github/actions/fetch-feeds/action.yml` with composite type, `npx tsx` invocation only
 - [x] 5.2 Define all inputs with defaults matching workflow_dispatch
 - [x] 5.3 Reference script path via `${{ github.action_path }}/../../scripts/fetch-feeds.ts`
-- [x] 5.4 Document usage in README: external repos must checkout + setup-node before invoking this action
+- [x] 5.4 Document usage in README: fork repo and copy workflow for external use
 
 ## 6. Testing & Verification
 
