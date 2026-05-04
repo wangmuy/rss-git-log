@@ -210,6 +210,10 @@ async function main() {
   const succeeded = results.filter(r => r.feed !== null).length;
   const failed = results.filter(r => r.feed === null).length;
   console.log(`\nSummary: ${succeeded} succeeded, ${failed} failed, ${totalCommitted} items committed, ${commitErrors} commit errors`);
+
+  if (commitErrors > 0 || failed > 0) {
+    process.exit(1);
+  }
 }
 
 main().catch(err => {

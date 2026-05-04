@@ -52,6 +52,8 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # Checkout the code branch (where package.json, scripts/, src/ live)
       # Defaults to the branch that triggered the workflow
