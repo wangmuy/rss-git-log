@@ -23,7 +23,10 @@ function getCacheKey(config: GitHubConfig, siteId: string, path: string): string
   return `${getRepoKey(config)}::${siteId}::${path}`;
 }
 
+const hasLocalStorage = typeof localStorage !== 'undefined';
+
 function loadCache(): CachedLogEntries {
+  if (!hasLocalStorage) return {};
   const stored = localStorage.getItem(LOG_CACHE_STORAGE_KEY);
   if (!stored) return {};
 
@@ -35,6 +38,7 @@ function loadCache(): CachedLogEntries {
 }
 
 function saveCache(entries: CachedLogEntries): void {
+  if (!hasLocalStorage) return;
   localStorage.setItem(LOG_CACHE_STORAGE_KEY, JSON.stringify(entries));
 }
 
@@ -53,6 +57,8 @@ export function cacheLogFile(
   path: string,
   data: SiteLogData
 ): void {
+  if (!hasLocalStorage) return;
+
   const appConfig = loadAppConfig();
   if (appConfig.localCache.filesPerSite === 0) return;
 
@@ -73,15 +79,17 @@ export function cacheLogFile(
 export function pruneCachedLogFilesForSite(
   config: GitHubConfig,
   siteId: string,
-  filesPerSite = loadAppConfig().localCache.filesPerSite
+  filesPerSite?: number
 ): void {
+  if (!hasLocalStorage) return;
+  const limit = filesPerSite ?? loadAppConfig().localCache.filesPerSite;
   const entries = loadCache();
   const repoKey = getRepoKey(config);
   const matchingEntries = Object.entries(entries)
     .filter(([, entry]) => entry.repoKey === repoKey && entry.siteId === siteId)
     .sort(([, a], [, b]) => b.path.localeCompare(a.path));
 
-  for (const [cacheKey] of matchingEntries.slice(Math.max(filesPerSite, 0))) {
+  for (const [cacheKey] of matchingEntries.slice(Math.max(limit, 0))) {
     delete entries[cacheKey];
   }
 
@@ -89,6 +97,7 @@ export function pruneCachedLogFilesForSite(
 }
 
 export function pruneCachedLogFiles(config: GitHubConfig): void {
+  if (!hasLocalStorage) return;
   const entries = loadCache();
   const repoKey = getRepoKey(config);
   const siteIds = new Set(
