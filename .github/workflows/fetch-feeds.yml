@@ -2,7 +2,7 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    - cron: '23 */8 * * *'   # every 8 hours (00:23, 08:23, 16:23 UTC)
+    - cron: '23 */8 * * *'   # every 8 hours — UTC 00:23, 08:23, 16:23 (Beijing 08:23, 16:23, 00:23)
   workflow_dispatch:
     inputs:
       code_branch:
@@ -54,6 +54,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      DATA_BRANCH: ${{ inputs.data_branch || 'rss-reader-data' }}
     steps:
       # Checkout the code branch (where package.json, scripts/, src/ live)
       # Defaults to the branch that triggered the workflow
@@ -69,15 +71,15 @@ jobs:
 
       # Fetch rss-config.json from the data branch without switching branches
       - run: |
-          git fetch origin ${{ inputs.data_branch }} --depth=1 || true
-          git checkout origin/${{ inputs.data_branch }} -- rss-config.json || echo "rss-config.json not found on data branch"
+          git fetch origin ${{ env.DATA_BRANCH }} --depth=1 || true
+          git checkout origin/${{ env.DATA_BRANCH }} -- rss-config.json || echo "rss-config.json not found on data branch"
 
       - run: npx tsx -r tsconfig-paths/register scripts/fetch-feeds.ts
         env:
           GH_TOKEN: ${{ inputs.target_token || secrets.GITHUB_TOKEN }}
           TARGET_OWNER: ${{ inputs.target_owner || github.repository_owner }}
           TARGET_REPO: ${{ inputs.target_repo || github.event.repository.name }}
-          TARGET_BRANCH: ${{ inputs.data_branch }}
+          TARGET_BRANCH: ${{ env.DATA_BRANCH }}
           PROXY_MODE: ${{ inputs.proxy_mode }}
           PROXY_TEMPLATES: ${{ inputs.proxy_templates }}
           TIMEOUT_MS: ${{ inputs.timeout_ms }}
