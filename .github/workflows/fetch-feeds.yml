@@ -1,0 +1,86 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    - cron: '23 */8 * * *'   # every 8 hours — UTC 00:23, 08:23, 16:23 (Beijing 08:23, 16:23, 00:23)
+  workflow_dispatch:
+    inputs:
+      code_branch:
+        description: 'Code branch (where package.json, scripts, and source live)'
+        required: false
+        default: 'main'
+      data_branch:
+        description: 'Data branch to read rss-config.json from and write logs to'
+        required: true
+        default: 'rss-reader-data'
+      proxy_mode:
+        description: 'CORS proxy mode'
+        required: true
+        default: 'proxy-fallback'
+        type: choice
+        options:
+          - direct-only
+          - proxy-fallback
+          - proxy-only
+      proxy_templates:
+        description: 'CORS proxy templates (name|urlTemplate, one per line)'
+        required: true
+        default: |
+          corsproxy.io|https://corsproxy.io/?{url}
+          allorigins.win|https://api.allorigins.win/raw?url={url}
+      timeout_ms:
+        description: 'Per-feed timeout in milliseconds'
+        required: true
+        default: '10000'
+      pool_size:
+        description: 'Concurrent feed fetch limit'
+        required: true
+        default: '5'
+      target_token:
+        description: 'GitHub PAT (leave empty to use GITHUB_TOKEN)'
+        required: false
+        default: ''
+      target_owner:
+        description: 'Target repo owner (leave empty for current repo)'
+        required: false
+        default: ''
+      target_repo:
+        description: 'Target repo name (leave empty for current repo)'
+        required: false
+        default: ''
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      DATA_BRANCH: ${{ inputs.data_branch || 'rss-reader-data' }}
+    steps:
+      # Checkout the code branch (where package.json, scripts/, src/ live)
+      # Defaults to the branch that triggered the workflow
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.code_branch || github.ref }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - run: npm ci || npm install
+
+      # Fetch rss-config.json from the data branch without switching branches
+      - run: |
+          git fetch origin ${{ env.DATA_BRANCH }} --depth=1 || true
+          git checkout origin/${{ env.DATA_BRANCH }} -- rss-config.json || echo "rss-config.json not found on data branch"
+
+      - run: npx tsx -r tsconfig-paths/register scripts/fetch-feeds.ts
+        env:
+          GH_TOKEN: ${{ inputs.target_token || secrets.GITHUB_TOKEN }}
+          TARGET_OWNER: ${{ inputs.target_owner || github.repository_owner }}
+          TARGET_REPO: ${{ inputs.target_repo || github.event.repository.name }}
+          TARGET_BRANCH: ${{ env.DATA_BRANCH }}
+          PROXY_MODE: ${{ inputs.proxy_mode }}
+          PROXY_TEMPLATES: ${{ inputs.proxy_templates }}
+          TIMEOUT_MS: ${{ inputs.timeout_ms }}
+          POOL_SIZE: ${{ inputs.pool_size }}
