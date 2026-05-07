@@ -10,6 +10,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const args = process.argv.slice(2);
 let repo = '';
 let subfolder = '';
+let token = '';
 
 for (let i = 0; i < args.length; i++) {
   if (args[i] === '-r' || args[i] === '--repo') {
@@ -18,10 +19,13 @@ for (let i = 0; i < args.length; i++) {
   } else if (args[i] === '-s' || args[i] === '--subfolder') {
     subfolder = args[i + 1];
     i++;
+  } else if (args[i] === '-t' || args[i] === '--token') {
+    token = args[i + 1];
+    i++;
   }
 }
 
-if (!repo) {
+if (!repo && !token) {
   const pkg = JSON.parse(readFileSync(resolve(__dirname, 'package.json'), 'utf-8'));
   const match = pkg.repository?.url?.match(/github\.com[/:]([^/]+\/[^.]+)/)?.[1];
   repo = match || 'owner/repo';
@@ -56,5 +60,13 @@ if (existsSync(distIndex)) {
 }
 
 const env = { ...process.env, VITE_BASE: subfolderPath };
-execSync('npx gh-pages -d dist', { stdio: 'inherit', env });
+
+let ghPagesCmd = 'npx gh-pages -d dist';
+if (repo && token) {
+  ghPagesCmd += ` -r https://x-access-token:${token}@github.com/${repo}.git`;
+} else if (repo && !token) {
+  ghPagesCmd += ` -r git@github.com:${repo}.git`;
+}
+
+execSync(ghPagesCmd, { stdio: 'inherit', env });
 console.log('Done!');
