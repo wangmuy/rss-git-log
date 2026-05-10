@@ -26,9 +26,13 @@ for (let i = 0; i < args.length; i++) {
 }
 
 if (!repo && !token) {
-  const pkg = JSON.parse(readFileSync(resolve(__dirname, 'package.json'), 'utf-8'));
-  const match = pkg.repository?.url?.match(/github\.com[/:]([^/]+\/[^.]+)/)?.[1];
-  repo = match || 'owner/repo';
+  try {
+    const remoteUrl = execSync('git remote get-url origin', { encoding: 'utf-8' }).trim();
+    const match = remoteUrl.match(/github\.com[/:]([^/]+\/[^.]+)/)?.[1];
+    repo = match || '';
+  } catch (e) {
+    repo = '';
+  }
 }
 
 const subfolderPath = subfolder ? `/${subfolder}/` : '/';
