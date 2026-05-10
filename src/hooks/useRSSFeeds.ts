@@ -38,7 +38,8 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     mergeGitHubReadStatus,
     addHistoricalItems,
     setSiteLoading,
-    updateSite
+    updateSite,
+    getUnreadCount
   } = useReaderStore();
 
   const initializeSites = useCallback(() => {
@@ -77,10 +78,9 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
 
       (async () => {
         try {
-          const feed = await fetchRSSWithPolicy(site.url, loadAppConfig().corsPolicy);
+          const feed = await fetchRSSWithPolicy(site!.url, loadAppConfig().corsPolicy);
           const items = feed?.items || [];
-          const unreadCount = items.length;
-          updateSite(nextSiteId, items, unreadCount);
+          updateSite(nextSiteId, items, 0);
 
           const appConfig = loadAppConfig();
           if (appConfig.githubWriteCapability.canWrite) {
@@ -103,6 +103,9 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
               console.error('Failed to sync GitHub read status for', nextSiteId, e);
             }
           }
+
+          const unreadCount = getUnreadCount(nextSiteId);
+          updateSite(nextSiteId, items, unreadCount);
         } catch (err: any) {
           console.error('Failed to fetch feed for', nextSiteId, err);
         } finally {
