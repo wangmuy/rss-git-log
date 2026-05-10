@@ -9,7 +9,8 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 **Current State (as of 2025-12-24):**
 - MVP completed with all core features
 - Architecture flattened from `src/features/rss-reader/*` to `src/*`
-- Site-based log organization implemented (`logs/{siteId}/{YYYY-MM-DD}.json` with per-pubDate bucketing)
+- Site-based log organization implemented (`logs/{siteId}/{YYYY-MM-DD}.json` with per-pubDate bucketing and overflow suffixes)
+- Item source tracing: each `LogItem` carries a `source` field recording the GitHub file path where it was written
 - Subscription management UI added
 - Sidebar layout with two-panel design
 - Runtime setup is required for deployments because GitHub repo, branch, CORS, and auto-commit settings must be editable without rebuilding the app
@@ -272,6 +273,34 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Right pane displays feed items immediately once the selected site's feed resolves
 - Track fetch loading state per site in component or store state
 
+### 19. Per-PubDate Log File Grouping: Items Grouped by Publication Date
+**Decision:** Log files are grouped by each item's publication date (`YYYY-MM-DD`), not by the execution time or oldest item date. A date bucket (`logs/{siteId}/{YYYY-MM-DD}.json`) holds up to 200 items. When a bucket is full, new items for that date spill to overflow files (`date-1.json`, `date-2.json`, etc.). On commit, the system locates or creates the appropriate bucket for each date group, reads the existing file, deduplicates by `itemId`, appends new items, and writes back.
+**Rationale (original problem):** The old design used the oldest item's publication date as the filename basis. When consecutive GitHub Action runs returned items from the same date range, they wrote to the same file, making it appear as if data was lost or overwritten.
+**Rationale (fix):**
+- Items from the same publication date always co-locate in the same file.
+- Subsequent runs don't overwrite data — new items land in the correct date bucket.
+- Files naturally grow over time until they hit the 200-item limit, then spill to numbered sub-files.
+- The commit flow is: read existing file → dedup via `itemId` → append new items → write back, with no cross-bucket dedup (avoids N GitHub API calls).
+**Bucket allocation:** For each date bucket, locate an existing file with < 200 items for that date. If found, merge with dedup and write back. If not found, create a new bucket file. If the date bucket is full (>=200 items), create overflow bucket with `-N` suffix.
+**Supporting functions:** `groupByPubDate()` groups items into date-ordered Map (descending). `locateLogFileByDate()` finds existing bucket with space. `findOverflowBucket()` handles overflow naming. `getLatestLogFile()` returns the highest-date bucket with space.
+**Metadata:** Each file's `oldestItemDate` and `newestItemDate` reflect only that file's items. `itemCount` is the current total.
+
+### 20. Merge-and Commit: Unified Read-Merge-Dedup Append-Write
+**Decision:** The `commitAllFeedItems` function handles the merge of all items (fresh from fetch + historical from prior GitHub commits) into date buckets in a single pass. Items without `readAt` are all written back (they represent the full read/unread state of the site). Within each date bucket, items are deduplicated by `itemId` — only genuinely new items are appended.
+**Rationale:**
+- The reader's in-memory item list (`site.items`) is a union of: (a) newly fetched items from the RSS feed, and (b) historical items from GitHub that exist in the repo but not in the current feed (e.g. old items removed from the feed). Sending the full union to commit avoids data loss — the GitHub file becomes the source of truth.
+- `mergeItemsIntoBucket` handles locate → read → dedup → append → write for each date bucket. No separate pre-merge is needed.
+- The `source` field on `LogItem` serves as a transient debugging marker: fresh items from fetch start without `source`. After a successful commit, each new item gets `source = targetFile` in-memory. The field is never persisted to JSON files on GitHub — `writeToGitHub` serializes before `source` is assigned.
+**Merge flow for read commit:** `useCommit.ts` iterates sites, calls `getAllItems(siteId)` which returns all items with IDs regenerated via `generateItemIdFromItem`. Items are mapped to `{ itemId, title, pubDate, readAt }` and passed to `commitAllFeedItems`. Inside, `groupByPubDate` groups them, then each bucket gets locate→read→dedup→append→write.
+**Source field lifecycle:**
+- Fresh from RSS fetch: `source` absent (undefined)
+- After successful write (via `mergeItemsIntoBucket`): `source` set to `targetFile` in-memory only, never persisted to JSON
+- In the SPA store (`getAllItems`, `getReadItems`): `source` is NOT passed through (store interface returns `{ itemId, title, pubDate, readAt }` etc.)
+- In `useRSSFeeds.ts`: historical items from GitHub are extracted with only `{ itemId, title, pubDate }` — `source` is discarded
+- `source` is transient: exists only during commit operations, never written to GitHub JSON files
+
+**Source field scope:** The `source` field exists in-memory during a commit operation only, never persisted to JSON files. `writeToGitHub` serializes `siteLogData` before `source` is assigned, so GitHub files never contain `source`. The field serves as a debugging marker: after write completes, each newly written item gets `source = targetFile` in-memory for visibility. Cached logs (`cacheLogFile`) may temporarily carry `source` in memory, but it never flows through store interfaces or into `useRSSFeeds.ts`.
+
 ## Risks / Trade-offs
 
 **[CORS Blocking RSS Feeds]** → Use runtime CORS policy with direct and proxy options. Document proxy privacy/reliability limitations and allow users to disable proxies.
@@ -291,6 +320,10 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 **[Data Loss During Merge]** → GitHub log merge errors. Mitigation: Test merge logic thoroughly, local backup before commit, retry logic.
 
 **[Network Timeouts]** → Slow or unresponsive feeds. Mitigation: Timeout configuration, retry with exponential backoff.
+
+**[Old Log File Mismatch]** → Existing log files on GitHub use the old per-bucket date naming with overflow suffixes. The system's `locateLogFileByDate` and `findOverflowBucket` handle this gracefully: old files with matching dates are merged into, new dates create fresh buckets, and stale cache entries with broken paths are filtered out.
+
+**[Merge Divergence Between Local and Remote]** → The reader's in-memory item list is a union of fresh RSS fetches and historical items from GitHub (items not in the current RSS feed). Before commit, the entire local item set is sent to `commitAllFeedItems` which groups by date, locates each file, dedups locally by `itemId`, and merges. No separate pre-merge step is needed — `mergeItemsIntoBucket` handles it in one pass. The `source` field on `LogItem` helps distinguish: items with `source` set are items previously committed from GitHub; items without `source` are fresh from fetch and will be committed with source marked on success.
 
 ## Deployment
 - Build: `npm run build` (Vite)

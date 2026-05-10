@@ -104,10 +104,6 @@
 - [x] 7.25 Auto-mark item as read when selected via keyboard
 - [x] 7.26 Add visual highlight for keyboard-selected feed item
 - [x] 7.27 Prevent keyboard shortcuts from firing when typing in input fields
-- [x] 10.15 Add clearAllLocalStorage utility to remove all app storage keys
-- [x] 10.16 Add Clear All Data button to Config page action bar
-- [x] 10.17 Add confirmation dialog before clearing data
-- [x] 10.18 Reset form state and show success message after clearing
 
 ## 8. Data Management
 
@@ -146,6 +142,10 @@
 - [x] 10.12 Run token write-capability check after token setup and whenever owner, repo, branch, or token changes
 - [x] 10.13 Disable auto-commit and show a config warning when write capability is invalid
 - [x] 10.14 Update README setup instructions to describe runtime Config page, default auto-commit off, local cache retention, write-capability checks, and removal of build-time GitHub setup references
+- [x] 10.15 Add clearAllLocalStorage utility to remove all app storage keys
+- [x] 10.16 Add Clear All Data button to Config page action bar
+- [x] 10.17 Add confirmation dialog before clearing data
+- [x] 10.18 Reset form state and show success message after clearing
 
 ## 11. Testing & Documentation
 
@@ -189,3 +189,23 @@
 - [x] 13.10 Write unit tests: `groupByPubDate` grouping, single-date, multi-date, ordering, `parseLogFilename`
 - [x] 13.11 Update spec: `specs/log-management/spec.md` — all log-management requirements now describe per-bucket behavior
 - [x] 13.12 Verify SPA read flow (`getLogItemsForSite`, `getReadItemsForSite`) still discovers all bucket files
+
+## 14. Item Source Tracing
+
+- [x] 14.1 Add `source?: string` field to `LogItem` interface in `src/types/log.ts`
+- [x] 14.2 Add source setting in `mergeItemsIntoBucket()` — after `writeToGitHub` succeeds, mark each new item with `item.source = targetFile`
+- [x] 14.3 Verify existing code compiles without `source` (optional field, no breaking change)
+- [x] 14.4 Verify unit tests pass with optional `source` field
+- [x] 14.5 Add design decision documentation in `design.md` section 20
+
+## 15. Merge-and-Commit: Unified Read-Merge-Dedup Append-Write
+
+- [x] 15.1 Document merge flow in `design.md` section 20: `commitAllFeedItems` receives union of fresh RSS + historical items, groups by pubDate, locate→read→dedup→append→write per bucket
+- [x] 15.2 Document source field lifecycle in `design.md`: fresh=no source, GitHub read=source=file path, after commit=source=targetFile
+- [x] 15.3 Document source field scope: lives in GitHub files only, not in SPA store interfaces
+- [x] 15.4 Document `[Merge Divergence Between Local and Remote]` risk in `design.md` Risks/Trade-offs
+- [x] 15.5 Verify existing `mergeItemsIntoBucket` already implements the full merge pattern without separate pre-merge step
+- [x] 15.6 Verify `useCommit.ts` passes full item set (`getAllItems` → `commitAllFeedItems`) with `readAt` for read items
+- [x] 15.7 Add `source` field documentation in `LogItem` type in `src/types/log.ts` with lifecycle comment
+- [x] 15.8 Verify `source` is NOT persisted to JSON: `writeToGitHub` serializes before `item.source` is assigned
+- [x] 15.9 Verify store interfaces (`getAllItems`, `getReadItems`) and `useRSSFeeds.ts` strip `source` (interface contracts)

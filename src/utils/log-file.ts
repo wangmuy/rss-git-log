@@ -220,14 +220,16 @@ async function mergeItemsIntoBucket(
   if (!existingData) {
     const overflowFile = await findOverflowBucket(siteId, dateStr, config);
     if (overflowFile) {
-      if (overflowFile.endsWith('.json')) {
-        // Check if it's an existing file
-        const siteFiles = await listSiteFiles(client, siteId, config);
-        const match = siteFiles.find(sf => sf.filePath === overflowFile);
-        if (match && match.data) {
-          existingData = match.data;
-          targetFile = match.filePath;
-        }
+      // Check if it's an existing file
+      const siteFiles = await listSiteFiles(client, siteId, config);
+      const match = siteFiles.find(sf => sf.filePath === overflowFile);
+      if (match && match.data) {
+        existingData = match.data;
+        targetFile = match.filePath;
+      } else {
+        // It's a new overflow filename — use it directly as target
+        targetFile = overflowFile;
+        existingData = null;
       }
     }
   }
@@ -262,6 +264,10 @@ async function mergeItemsIntoBucket(
   
   const success = await writeToGitHub(client, targetFile!, siteLogData);
   if (success) {
+    // Mark newly added items with their source file path
+    for (const item of toAdd) {
+      item.source = targetFile!;
+    }
     cacheLogFile(config, siteId, targetFile!, siteLogData);
     pruneCachedLogFilesForSite(config, siteId);
   }

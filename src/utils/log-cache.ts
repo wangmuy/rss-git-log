@@ -86,7 +86,7 @@ export function pruneCachedLogFilesForSite(
   const entries = loadCache();
   const repoKey = getRepoKey(config);
   const matchingEntries = Object.entries(entries)
-    .filter(([, entry]) => entry.repoKey === repoKey && entry.siteId === siteId)
+    .filter(([, entry]) => entry.repoKey === repoKey && entry.siteId === siteId && entry.path)
     .sort(([, a], [, b]) => b.path.localeCompare(a.path));
 
   for (const [cacheKey] of matchingEntries.slice(Math.max(limit, 0))) {
