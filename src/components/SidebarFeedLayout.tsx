@@ -30,6 +30,8 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   loadingSites
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
+  const isRead = useReaderStore(state => state.isRead);
+  const markSiteAsRead = useReaderStore(state => state.markSiteAsRead);
 
   useEffect(() => {
     if (sites.length > 0) {
@@ -130,21 +132,24 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
       <Paper sx={{ flex: 1, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
         {selectedSite && selectedSite.items.length > 0 && (
           <>
-            <Box sx={{ p: 2, bgcolor: 'background.paper', borderBottom: 1, borderColor: 'divider' }}>
-              <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                <Typography variant="h6" sx={{ fontWeight: 600 }}>
-                  {selectedSite.name}
-                </Typography>
-                <Typography variant="body2" color="text.secondary">
-                  {selectedSite.items.length} items
-                </Typography>
-              </Box>
+            <Box sx={{ p: 2, bgcolor: 'background.paper', borderBottom: 1, borderColor: 'divider', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+              <Typography variant="h6" sx={{ fontWeight: 600 }}>
+                {selectedSite.name}
+              </Typography>
+              <Typography
+                variant="body2"
+                onClick={() => markSiteAsRead?.(selectedSite.siteId)}
+                sx={{ cursor: 'pointer', textDecoration: 'underline', color: 'primary.main' }}
+              >
+                Mark all as read
+              </Typography>
             </Box>
 
             <Box sx={{ flex: 1, overflow: 'auto', p: 1, scrollPaddingTop: 72 }} key={selectedSite.siteId}>
               <FeedListPane
                 site={selectedSite}
                 onMarkAsRead={onMarkAsRead}
+                isRead={isRead}
               />
             </Box>
           </>
@@ -189,16 +194,17 @@ interface FeedItemData {
   idx: number;
 }
 
-const FeedListPane: React.FC<{
+interface FeedListPaneProps {
   site: SiteWithStatus;
   onMarkAsRead: (siteId: string, itemId: string) => void;
-}> = ({ site, onMarkAsRead }) => {
+  isRead: (siteId: string, itemId: string) => boolean;
+}
+
+const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead }) => {
   const [kbdIndex, setKbdIndex] = useState(-1);
   const kbdIndexRef = useRef(-1);
   kbdIndexRef.current = kbdIndex;
   const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
-  const isRead = useReaderStore(state => state.isRead);
-
   const items: FeedItemData[] = [...site.items]
     .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
     .map((item, idx) => ({

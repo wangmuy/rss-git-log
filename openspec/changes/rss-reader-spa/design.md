@@ -297,6 +297,14 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - After successful write (via `mergeItemsIntoBucket`): `source` set to `targetFile` in-memory only, never persisted to JSON
 - In the SPA store (`getAllItems`, `getReadItems`): `source` is NOT passed through (store interface returns `{ itemId, title, pubDate, readAt }` etc.)
 - In `useRSSFeeds.ts`: historical items from GitHub are extracted with only `{ itemId, title, pubDate }` — `source` is discarded
+
+### 21. Per-Site Mark All Read: Right Pane Button
+**Decision:** The right pane feed list header includes a "Mark All Read" button that marks all items in the selected site as read with a single click. The unread count is displayed alongside the total item count.
+**Rationale:**
+- Users want to clear an entire site's unread items in one action (e.g. after an extended reading session).
+- The button uses the store's `markSiteAsRead` which marks all items in `site.items` as read and persists to localStorage.
+- The unread count displayed in the header is computed per-pubDate-bucket aware: it filters `selectedSite.items` against `readStatus[siteId]` and counts items without a matching read status entry.
+**Implementation:** `markSiteAsRead` is pulled from `useReaderStore` inside `SidebarFeedLayout`. The unread count in the right-pane header is computed inline: `selectedSite.items.filter(item => !isRead(selectedSite.siteId, generateItemIdFromItem(item))).length`. The button renders next to the item count and unread count in a compact toolbar beneath the site name.
 - `source` is transient: exists only during commit operations, never written to GitHub JSON files
 
 **Source field scope:** The `source` field exists in-memory during a commit operation only, never persisted to JSON files. `writeToGitHub` serializes `siteLogData` before `source` is assigned, so GitHub files never contain `source`. The field serves as a debugging marker: after write completes, each newly written item gets `source = targetFile` in-memory for visibility. Cached logs (`cacheLogFile`) may temporarily carry `source` in memory, but it never flows through store interfaces or into `useRSSFeeds.ts`.
@@ -324,6 +332,8 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 **[Old Log File Mismatch]** → Existing log files on GitHub use the old per-bucket date naming with overflow suffixes. The system's `locateLogFileByDate` and `findOverflowBucket` handle this gracefully: old files with matching dates are merged into, new dates create fresh buckets, and stale cache entries with broken paths are filtered out.
 
 **[Merge Divergence Between Local and Remote]** → The reader's in-memory item list is a union of fresh RSS fetches and historical items from GitHub (items not in the current RSS feed). Before commit, the entire local item set is sent to `commitAllFeedItems` which groups by date, locates each file, dedups locally by `itemId`, and merges. No separate pre-merge step is needed — `mergeItemsIntoBucket` handles it in one pass. The `source` field on `LogItem` helps distinguish: items with `source` set are items previously committed from GitHub; items without `source` are fresh from fetch and will be committed with source marked on success.
+
+**[Unread Count Accuracy]** → The unread count shown in the left pane site list is calculated from the full merged item set (fresh RSS + historical GitHub items) against the `readStatus` store. `SidebarFeedLayout` computes read/unread status from `readStatus` via `isRead()` in the header, so both the left pane badge and right pane header count are consistent.
 
 ## Deployment
 - Build: `npm run build` (Vite)

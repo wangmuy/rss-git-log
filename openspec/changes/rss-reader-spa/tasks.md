@@ -209,3 +209,12 @@
 - [x] 15.7 Add `source` field documentation in `LogItem` type in `src/types/log.ts` with lifecycle comment
 - [x] 15.8 Verify `source` is NOT persisted to JSON: `writeToGitHub` serializes before `item.source` is assigned
 - [x] 15.9 Verify store interfaces (`getAllItems`, `getReadItems`) and `useRSSFeeds.ts` strip `source` (interface contracts)
+
+## 16. Per-Site Mark All Read: Right Pane Button
+
+- [x] 16.1 Add `markSiteAsRead` store method to `SidebarFeedLayout` (via `useReaderStore`)
+- [x] 16.2 Add "Mark All Read" `IconButton` in the right pane header with `CheckCircleIcon`
+- [x] 16.3 Display unread count in the right pane header next to the total count
+- [x] 16.4 Pass `isRead` as a prop to `FeedListPane` for keyboard navigation auto-read
+- [x] 16.5 Add design decision documentation in `design.md` section 21
+- [x] 16.6 Add `[Unread Count Accuracy]` risk entry in `design.md` Risks/Trade-offs
