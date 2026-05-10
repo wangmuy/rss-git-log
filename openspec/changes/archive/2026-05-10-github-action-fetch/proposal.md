@@ -4,11 +4,15 @@ The current RSS reader requires a user to keep the browser open for feeds to be 
 
 This also requires extracting the RSS parsing logic from browser-only code into shared utilities that both the browser SPA and a Node.js script can use.
 
+### File Naming Bug
+
+The current log file naming scheme uses the **oldest publication date** among the items being committed — not the execution date. This causes multiple consecutive runs to write to the same file when items share date ranges, resulting in the illusion that data was "lost" or "overwritten." The fix groups items by each item's own publication date, creating files like `YYYY-MM-DD.json` per date, with items sorted into the correct date bucket. Only items exceeding 200 for a given date span a new file.
+
 ## What Changes
 
 - **New**: `src/utils/feed-parser.ts` — shared RSS/Atom XML parsing functions that operate on DOM-compatible Document/Element objects (no platform dependencies)
 - **Modify**: `src/utils/rss-parser.ts` — thin browser wrapper that creates native DOMParser, delegates to feed-parser; network functions unchanged
-- **Modify**: `src/utils/log-file.ts` — add optional `GitHubConfig` parameter to `commitAllFeedItems()` and `commitReadStatus()`, falling back to `getStoredConfig()` when not provided
+- **Modify**: `src/utils/log-file.ts` — add optional `GitHubConfig` parameter to `commitAllFeedItems()` and `commitReadStatus()`, falling back to `getStoredConfig()` when not provided. **Modify file grouping logic: group items by their individual `pubDate` to form `YYYY-MM-DD` date buckets. A filename only changes when items span a different date than the current target bucket.**
 - **Modify**: `src/utils/github-api.ts` — expose config-passing path so Node.js callers can bypass localStorage
 - **New**: `scripts/fetch-feeds.ts` — Node.js script: reads `rss-config.json` from filesystem, fetches all feeds using configurable CORS proxy policy (direct-only, proxy-fallback, proxy-only), commits unread logs back via GitHub API
 - **New**: `.github/workflows/fetch-feeds.yml` — scheduled workflow + manual dispatch with configurable inputs
@@ -24,7 +28,7 @@ This also requires extracting the RSS parsing logic from browser-only code into 
 ### Modified Capabilities
 
 - `rss-fetching`: Parser extraction — parseXMLDocument/parseRSSFeed/parseAtomFeed move to shared feed-parser module
-- `github-sync`: log-file and github-api functions accept optional config parameter for non-browser callers
+- `github-sync`: log-file and github-api functions accept optional config parameter for non-browser callers; **log file grouping changed from "oldest-item-date basename" to "item pubDate buckets"** (items are sorted by pubDate and placed into `YYYY-MM-DD` files matching their publication date)
 
 ## Impact
 

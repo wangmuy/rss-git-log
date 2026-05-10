@@ -38,6 +38,7 @@ yarn-error.log*
 ./codex/
 !./codex/skills/
 
+opencode.json
 ./opencode/
 !./opencode/commands/
 !./opencode/skills/

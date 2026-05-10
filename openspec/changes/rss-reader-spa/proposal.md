@@ -23,6 +23,10 @@ The app must be deployable once and configured at runtime. GitHub repository, br
 - **BREAKING**: Removed build-time GitHub repo setup and .env files - all app setup now lives in runtime localStorage config
 - **BREAKING**: Flattened project structure from `src/features/rss-reader/*` to `src/*`
 
+### Modifications
+
+- **Modify**: `src/utils/log-file.ts` — log file grouping changed from "oldest-item-date basename" to "per-pubDate buckets" — items are grouped by their own `pubDate` into `YYYY-MM-DD` files. Each file is named `logs/{siteId}/{YYYY-MM-DD}.json` (or `date-N.json` for overflow). When committing, existing files are read first and merged with dedup against `itemId`. Only items exceeding 200 for a date spill to overflow files.
+
 ## Capabilities
 
 ### New Capabilities
@@ -30,7 +34,7 @@ The app must be deployable once and configured at runtime. GitHub repository, br
 - `rss-fetching`: Fetch and parse RSS/Atom feeds using native DOMParser with CORS proxy fallback
 - `read-tracking`: Track read/unread status using Zustand store with LocalStorage persistence
 - `github-sync`: Read/write config and log files via GitHub REST API v3 using native fetch
-- `log-management`: Site-based log files with 200-item chunking
+- `log-management`: Site-based log files with per-pubDate buckets, 200-item chunking, overflow suffix support, and read-merge-dedup-append-write commit pattern
 - `subscription-ui`: UI for managing RSS feed subscriptions (add/edit/delete)
 - `sidebar-layout`: Two-panel layout with site list sidebar and content display
 - `runtime-config`: In-app Config UI for GitHub storage, CORS policy, auto-commit, and future settings

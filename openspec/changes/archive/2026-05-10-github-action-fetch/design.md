@@ -70,6 +70,38 @@ export async function commitAllFeedItems(siteId, siteName, items, config?: GitHu
 
 Same pattern for `commitReadStatus()` in log-file.ts. The `github-api.ts` functions already accept a `GitHubClient` — callers just construct it directly instead of via `getStoredConfig()`.
 
+### Log File Grouping: Per-pubDate Buckets
+
+**Problem**: The original design used the oldest item's publication date as the filename basis. When consecutive executions returned items from the same date range, they wrote to the same file, making it appear as if data was lost or overwritten.
+
+**Solution**: Group items by their individual `pubDate` into `YYYY-MM-DD` buckets. Each file is named `logs/{siteId}/{YYYY-MM-DD}.json` where the date comes from the **items' publication dates**, not the fetch execution time.
+
+```
+New items arrive, sorted by pubDate desc:
+
+  [2025-05-09T10:00, 2025-05-09T08:00, 2025-05-08T14:00, 2025-05-08T09:00, 2025-05-07T22:00]
+       │                                │                                │
+       ▼                                ▼                                ▼
+  → logs/siteA/2025-05-09.json (items A)
+  → logs/siteA/2025-05-08.json (items B)
+  → logs/siteA/2025-05-07.json (items C)
+
+If 2025-05-09 already has 200 items:
+  → logs/siteA/2025-05-09.json (200, full)
+  → logs/siteA/2025-05-09-1.json (new spilled items)
+```
+
+The grouping logic:
+1. Sort incoming items by `pubDate` descending.
+2. Walk items in order, assigning each to its date bucket (`pubDate.toISOString().split('T')[0]`).
+3. Within each bucket, if there's an existing file with < 200 items, appends go there. If full or no file exists, create a new bucket file (with `-1`, `-2` suffix if the date bucket already has 200 items).
+4. Dedup via `itemId` across the target bucket file before appending.
+
+This ensures:
+- Items from the same publication date always co-locate.
+- Subsequent runs don't overwrite data — new items land in the correct date bucket.
+- Files naturally grow over time until they hit the 200-item limit, then spill to numbered sub-files.
+
 ### Action Script Flow
 
 The workflow (below) checks out the target repo+branch before running the script. The script itself sees `rss-config.json` on disk.

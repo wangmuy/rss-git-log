@@ -9,7 +9,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 **Current State (as of 2025-12-24):**
 - MVP completed with all core features
 - Architecture flattened from `src/features/rss-reader/*` to `src/*`
-- Site-based log organization implemented (`logs/{siteId}/YYYY-MM-DD.json`)
+- Site-based log organization implemented (`logs/{siteId}/{YYYY-MM-DD}.json` with per-pubDate bucketing)
 - Subscription management UI added
 - Sidebar layout with two-panel design
 - Runtime setup is required for deployments because GitHub repo, branch, CORS, and auto-commit settings must be editable without rebuilding the app
@@ -80,13 +80,16 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 **Alternative Considered:**
 - SHA-256: Overkill, requires crypto API or library
 
-### 5. Log File Structure: Site-Based with Chunking
-**Decision:** `logs/{siteId}/YYYY-MM-DD.json` with max 200 items per file
+### 5. Log File Structure: Site-Based with Per-PubDate Buckets
+**Decision:** `logs/{siteId}/{YYYY-MM-DD}.json` with max 200 items per file, grouped by item publication date
 **Rationale:**
 - Prevents large file issues
 - Site-isolated for better organization
-- Filename based on oldest item date
-- Automatic chunking when limit reached
+- Items from the same publication date always co-locate in the same file
+- Each execution writes items into the correct date bucket instead of overwriting data from a different run
+- When a date bucket reaches 200 items, new items spill to `date-N.json` overflow files (N starts at 1)
+- Commit flow: read existing file for the target date → dedup via `itemId` → append new items → write back
+- No cross-bucket dedup — same `itemId` in a different date bucket will still be written (avoids N API calls)
 
 ### 6. GitHub API: Native Fetch with Base64 Encoding
 **Decision:** Use native `fetch()` API with manual base64 encoding/decoding

@@ -174,3 +174,18 @@
 - [x] 12.7 When clicking site not fetched and not in pool, add to pool head for priority fetching
 - [x] 12.8 Display right pane feed items immediately once selected site's feed resolves
 - [x] 12.9 Test: pool of 3 fetches in parallel on load, clicking queued site triggers no duplicate fetch
+
+## 13. Per-PubDate Log File Grouping
+
+- [x] 13.1 Create `groupByPubDate(itemList): Map<YYYY-MM-DD, LogItem[]>` utility in `src/utils/log-file.ts`
+- [x] 13.2 Implement `locateLogFileByDate(siteId, date, cfg): string | null` — lists directory, returns file path matching this date with < 200 items
+- [x] 13.3 Implement `findOverflowBucket(siteId, date, cfg): string | null` — returns `date-{N}.json` where N starts from existing overflow count
+- [x] 13.4 Rewrite `commitAllFeedItems()` with per-bucket merge: group by pubDate → for each bucket locate→read→dedup→append→write
+- [x] 13.5 Overflow logic: when bucket file >= 200 items, create `date-N.json` and write remaining items
+- [x] 13.6 Apply the same per-bucket grouping + merge pattern to `commitReadStatus()`
+- [x] 13.7 Update `getLatestLogFile()` to return highest-date bucket with space; fall back to overflow
+- [x] 13.8 Remove `findOldestItemDate()` (no longer used as filename basis)
+- [x] 13.9 Clean up unused `checkAndRenameAllread` function
+- [x] 13.10 Write unit tests: `groupByPubDate` grouping, single-date, multi-date, ordering, `parseLogFilename`
+- [x] 13.11 Update spec: `specs/log-management/spec.md` — all log-management requirements now describe per-bucket behavior
+- [x] 13.12 Verify SPA read flow (`getLogItemsForSite`, `getReadItemsForSite`) still discovers all bucket files

@@ -4,291 +4,278 @@ import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
 
 const MAX_LOG_ITEMS_PER_FILE = 200;
+const FILENAME_DATE_REGEX = /^(\d{4}-\d{2}-\d{2})(-\d+)?\.json$/;
 
-/**
- * Generate site log file path for a specific date
- *
- * @param siteId - Site identifier
- * @param date - Date object (defaults to today)
- * @returns Log file path: logs/{siteId}/YYYY-MM-DD.json
- *
- * @example
- * getLogFilePath('https://example.com/rss') // 'logs/https%3A%2F%2Fexample.com%2Frss/2025-12-21.json'
- */
-export function getLogFilePath(siteId: string, date: Date = new Date()): string {
-  const dateStr = date.toISOString().split('T')[0];
-  return createSiteLogFilename(siteId, dateStr);
-}
+// ── Helpers ────────────────────────────────────────────────────────
 
 /**
  * Generate site log directory path
- *
- * @param siteId - Site identifier
- * @returns Site log directory path
  */
 export function getSiteLogDir(siteId: string): string {
   return `logs/${encodeURIComponent(siteId)}`;
 }
 
 /**
- * Find oldest item date from array of items
- *
- * @param items - Array of log items
- * @returns Oldest publication date as YYYY-MM-DD
+ * Create site log filename from a date string with overflow suffix
  */
-export function findOldestItemDate(items: LogItem[]): string {
-  if (items.length === 0) return new Date().toISOString().split('T')[0];
+function createOverflowFilename(siteId: string, dateStr: string, suffix: number): string {
+  return `${getSiteLogDir(siteId)}/${dateStr}-${suffix}.json`;
+}
+
+/**
+ * Group items by their pubDate into YYYY-MM-DD buckets.
+ * Items are sorted by pubDate descending before grouping.
+ *
+ * @param items - Array of log items (not mutated; caller should sort first if needed)
+ * @returns Map of dateStr -> items for that date, ordered by date descending
+ */
+export function groupByPubDate(items: LogItem[]): Map<string, LogItem[]> {
+  const dateSet = new Set<string>();
   
-  const oldestDate = items.reduce((oldest, item) => {
-    const itemDate = new Date(item.pubDate);
-    return itemDate < oldest ? itemDate : oldest;
-  }, new Date(items[0].pubDate));
+  for (const item of items) {
+    const dateStr = new Date(item.pubDate).toISOString().split('T')[0];
+    dateSet.add(dateStr);
+  }
   
-  return oldestDate.toISOString().split('T')[0];
-}
-
-/**
- * Create site log filename based on oldest item date
- *
- * @param siteId - Site identifier
- * @param oldestDate - Oldest item date (YYYY-MM-DD)
- * @returns Full file path
- */
-export function createSiteLogFilename(siteId: string, oldestDate: string): string {
-  return `${getSiteLogDir(siteId)}/${oldestDate}.json`;
-}
-
-/**
- * Get latest log file for a site
- *
- * @param siteId - Site identifier
- * @returns Latest file path or null if none exists
- */
-export async function getLatestLogFile(siteId: string, config?: GitHubConfig): Promise<string | null> {
-  const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
-
-  const siteDir = getSiteLogDir(siteId);
-  const files = await listDirectory(client, siteDir);
-
-  const jsonFiles = files
-    .filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'))
-    .sort((a, b) => b.name.localeCompare(a.name));
-
-  for (const file of jsonFiles) {
-    const filePath = file.path;
-    try {
-      const data = getCachedLogFile(cfg, siteId, filePath) ??
-        await readFromGitHub<SiteLogData>(client, filePath);
-      if (data && data.items.length < 200) {
-        cacheLogFile(cfg, siteId, filePath, data);
-        return filePath;
-      }
-    } catch {
-      // File doesn't exist, continue
-    }
+  // Sort dates descending so iteration goes newest first
+  const sortedDates = Array.from(dateSet).sort().reverse();
+  
+  const buckets = new Map<string, LogItem[]>();
+  for (const dateStr of sortedDates) {
+    buckets.set(dateStr, items.filter(item => 
+      new Date(item.pubDate).toISOString().split('T')[0] === dateStr
+    ));
   }
-
-  return null;
+  
+  return buckets;
 }
 
 /**
- * Read existing site log file from GitHub
- *
- * @param siteId - Site identifier
- * @param date - Date of log file (defaults to today)
- * @returns Log data or null if file doesn't exist
- *
- * @example
- * const log = await readLog('https://example.com/rss');
+ * Parse a date string from a log filename.
+ * Returns the date part and optional overflow suffix, or null if not a log file.
  */
-export async function readLog(siteId: string, date: Date = new Date()): Promise<SiteLogData | null> {
-  const config = getStoredConfig();
-  const client = createGitHubClient(config);
-  const path = getLogFilePath(siteId, date);
-
-  const cached = getCachedLogFile(config, siteId, path);
-  if (cached) return cached;
-
-  const data = await readFromGitHub<SiteLogData>(client, path);
-  if (data) {
-    cacheLogFile(config, siteId, path, data);
-  }
-
-  return data;
+export function parseLogFilename(name: string): { dateStr: string; overflow: number | null; filePath: string } | null {
+  const match = name.match(FILENAME_DATE_REGEX);
+  if (!match) return null;
+  return {
+    dateStr: match[1],
+    overflow: match[2] ? parseInt(match[2].substring(1), 10) : null,
+    filePath: `logs` // placeholder, caller constructs full path via listDirectory
+  };
 }
 
+// ── Bucket Location ────────────────────────────────────────────────
+
 /**
- * Commit read status to site-based log files
- * Commits ALL items (read + unread), sorted by pubDate descending.
- * Items with readAt are marked as read, items without readAt are unread.
- *
- * @param siteId - Site identifier (normalized URL)
- * @param siteName - Site display name
- * @param items - Array of items to log (may include readAt for read items)
- * @returns True if commit successful
+ * List all directory files for a site and cache their data.
+ * Returns an array of { filePath, data } for all non-allread .json files.
  */
-export async function commitReadStatus(
+async function listSiteFiles(
+  client: ReturnType<typeof createGitHubClient>,
   siteId: string,
-  siteName: string,
-  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>,
-  config?: GitHubConfig
-): Promise<boolean> {
-  if (items.length === 0) return true;
-
-  const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
-
-  // Convert to LogItems - preserve readAt if present, otherwise omit (unread)
-  const logItems: LogItem[] = items
-    .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
-    .map(item => ({
-      itemId: item.itemId,
-      title: item.title,
-      pubDate: item.pubDate,
-      ...(item.readAt ? { readAt: item.readAt } : {})
-    }));
-
-  try {
-    // Try to find existing file with space
-    let targetFile = await getLatestLogFile(siteId, cfg);
-    let existingData: SiteLogData | null = null;
-
-    if (targetFile) {
-      existingData = await readFromGitHub<SiteLogData>(client, targetFile);
-    }
-
-    // If no existing file or file is full, create new one
-    if (!existingData || existingData.items.length >= MAX_LOG_ITEMS_PER_FILE) {
-      const oldestDate = findOldestItemDate(logItems);
-      targetFile = createSiteLogFilename(siteId, oldestDate);
-      existingData = null;
-    }
-
-    // Create or update log data
-    const siteLogData: SiteLogData = existingData || {
-      metadata: {
-        siteId,
-        siteName,
-        oldestItemDate: findOldestItemDate(logItems),
-        newestItemDate: findOldestItemDate(logItems),
-        itemCount: 0,
-        generatedAt: new Date().toISOString()
-      },
-      items: []
-    };
-
-    // Filter out already logged items
-    const existingItemIds = new Set(siteLogData.items.map(i => i.itemId));
-    const newItems = logItems.filter(item => !existingItemIds.has(item.itemId));
-
-    if (newItems.length === 0) return true;
-
-    // Add new items
-    siteLogData.items.push(...newItems);
-
-    // Update metadata
-    const allDates = siteLogData.items.map(item => new Date(item.pubDate));
-    siteLogData.metadata.oldestItemDate = new Date(Math.min(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
-    siteLogData.metadata.newestItemDate = new Date(Math.max(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
-    siteLogData.metadata.itemCount = siteLogData.items.length;
-    siteLogData.metadata.generatedAt = new Date().toISOString();
-
-    const success = await writeToGitHub(client, targetFile!, siteLogData);
-    if (success) {
-      cacheLogFile(cfg, siteId, targetFile!, siteLogData);
-      pruneCachedLogFilesForSite(cfg, siteId);
-    }
-
-    return success;
-  } catch (error) {
-    console.error('Failed to commit read status:', error);
-    return false;
-  }
-}
-
-/**
- * Commit all read items from multiple sites
- *
- * @param allReadItems - Record of siteId -> items
- * @returns Record of siteId -> success status
- *
- * @example
- * await commitAllReadItems({
- *   'https://site1.com/rss': [{ itemId: '123', title: '...', pubDate: '...' }],
- *   'https://site2.com/rss': [{ itemId: '456', title: '...', pubDate: '...' }]
- * });
- */
-export async function commitAllReadItems(
-  allReadItems: Record<string, Array<{ itemId: string; title: string; pubDate: string; siteName: string }>>
-): Promise<Record<string, boolean>> {
-  const results: Record<string, boolean> = {};
-
-  for (const [siteId, items] of Object.entries(allReadItems)) {
-    if (items.length > 0) {
-      const siteName = items[0].siteName;
-      const itemData = items.map(({ itemId, title, pubDate }) => ({ itemId, title, pubDate }));
-      results[siteId] = await commitReadStatus(siteId, siteName, itemData);
-    }
-  }
-
-  return results;
-}
-
-/**
- * Get read items for a specific site from site-based logs
- *
- * @param siteId - Site identifier
- * @returns Set of item IDs that have been read
- */
-export async function getReadItemsForSite(siteId: string): Promise<Set<string>> {
-  const config = getStoredConfig();
-  const client = createGitHubClient(config);
-  const readItems = new Set<string>();
-
+  cfg: GitHubConfig
+): Promise<Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>> {
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectory(client, siteDir);
-
+  
+  const results: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }> = [];
+  
   for (const file of files) {
     if (file.type !== 'file') continue;
     if (!file.name.endsWith('.json')) continue;
     if (file.name.includes('-allread')) continue;
-
+    
+    const parsed = parseLogFilename(file.name);
+    if (!parsed) continue;
+    
     const filePath = file.path;
+    let data: SiteLogData | null = null;
     try {
-      const data = getCachedLogFile(config, siteId, filePath) ??
-        await readFromGitHub<SiteLogData>(client, filePath);
-      if (data) {
-        cacheLogFile(config, siteId, filePath, data);
-        data.items.forEach(item => readItems.add(item.itemId));
-      }
+      data = getCachedLogFile(cfg, siteId, filePath) ?? await readFromGitHub<SiteLogData>(client, filePath);
+      if (data) cacheLogFile(cfg, siteId, filePath, data);
     } catch {
-      // File doesn't exist, continue
+      // File doesn't exist or read error
+    }
+    
+    results.push({
+      filePath,
+      data,
+      fileDate: parsed.dateStr,
+      overflow: parsed.overflow
+    });
+  }
+  
+  return results;
+}
+
+/**
+ * Locate an existing log file for the given date with < 200 items.
+ * Returns file path or null if no suitable bucket exists.
+ */
+export async function locateLogFileByDate(siteId: string, dateStr: string, config?: GitHubConfig): Promise<string | null> {
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
+  
+  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  
+  for (const sf of siteFiles) {
+    if (sf.fileDate === dateStr && sf.data && sf.data.items.length < MAX_LOG_ITEMS_PER_FILE) {
+      return sf.filePath;
     }
   }
-
-  return readItems;
+  
+  return null;
 }
 
 /**
- * Get all read items from site-based logs
- *
- * @returns Record of siteId -> Set of item IDs
+ * Find the overflow count for a given date bucket.
+ * Returns the next suffix number to use (0 if no overflow files exist).
  */
-export async function getAllReadItems(): Promise<Record<string, Set<string>>> {
-  // This is a simplified implementation
-  // In a full implementation, we'd need to discover all sites and their files
-  // For now, return empty - the app will populate as sites are accessed
-  return {};
+async function findOverflowCount(siteId: string, dateStr: string, config?: GitHubConfig): Promise<number> {
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
+  
+  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  
+  let maxOverflow = -1;
+  for (const sf of siteFiles) {
+    if (sf.fileDate === dateStr && sf.overflow !== null) {
+      if (sf.overflow > maxOverflow) {
+        maxOverflow = sf.overflow;
+      }
+    }
+  }
+  
+  return maxOverflow + 1;
 }
 
 /**
- * Commit all feed items (read + unread) to GitHub log files
- *
- * @param siteId - Site identifier
- * @param siteName - Site display name
- * @param items - Array of RSS items with read status
- * @returns True if commit successful
+ * Find an overflow bucket file path for items that don't fit in the main date bucket.
+ * Returns the file path for writing overflow items (may not exist yet).
+ * If the main bucket exists with space, returns that instead.
+ */
+export async function findOverflowBucket(siteId: string, dateStr: string, config?: GitHubConfig): Promise<string | null> {
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
+  
+  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  
+  // First check if any existing file for this date has space
+  for (const sf of siteFiles) {
+    if (sf.fileDate === dateStr && sf.data && sf.data.items.length < MAX_LOG_ITEMS_PER_FILE) {
+      return sf.filePath;
+    }
+  }
+  
+  // Need to create a new overflow file
+  const nextSuffix = await findOverflowCount(siteId, dateStr, cfg);
+  return createOverflowFilename(siteId, dateStr, nextSuffix);
+}
+
+/**
+ * Get all unique dates that have log files for a site.
+ * Returns dates sorted descending (newest first).
+ */
+async function getSiteFileDates(siteId: string, config?: GitHubConfig): Promise<string[]> {
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
+  
+  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  const dates = new Set<string>();
+  
+  for (const sf of siteFiles) {
+    if (sf.fileDate) {
+      dates.add(sf.fileDate);
+    }
+  }
+  
+  return Array.from(dates).sort().reverse();
+}
+
+// ── Bucket Merge ───────────────────────────────────────────────────
+
+/**
+ * Merge new items into a bucket file: read existing → dedup → append → write.
+ * Returns true if write succeeded (or no new items).
+ */
+async function mergeItemsIntoBucket(
+  client: ReturnType<typeof createGitHubClient>,
+  siteId: string,
+  siteName: string,
+  dateStr: string,
+  newItems: LogItem[],
+  config: GitHubConfig
+): Promise<boolean> {
+  if (newItems.length === 0) return true;
+  
+  // Try to locate existing file with space
+  let targetFile = await locateLogFileByDate(siteId, dateStr, config);
+  let existingData: SiteLogData | null = null;
+  
+  if (targetFile) {
+    existingData = await readFromGitHub<SiteLogData>(client, targetFile);
+  }
+  
+  // If no suitable file found, try overflow
+  if (!existingData) {
+    const overflowFile = await findOverflowBucket(siteId, dateStr, config);
+    if (overflowFile) {
+      if (overflowFile.endsWith('.json')) {
+        // Check if it's an existing file
+        const siteFiles = await listSiteFiles(client, siteId, config);
+        const match = siteFiles.find(sf => sf.filePath === overflowFile);
+        if (match && match.data) {
+          existingData = match.data;
+          targetFile = match.filePath;
+        }
+      }
+    }
+  }
+  
+  const siteLogData: SiteLogData = existingData || {
+    metadata: {
+      siteId,
+      siteName,
+      oldestItemDate: dateStr,
+      newestItemDate: dateStr,
+      itemCount: 0,
+      generatedAt: new Date().toISOString()
+    },
+    items: []
+  };
+  
+  // Dedup within target bucket only (not cross-bucket dedup)
+  const existingItemIds = new Set(siteLogData.items.map(i => i.itemId));
+  const toAdd = newItems.filter(item => !existingItemIds.has(item.itemId));
+  
+  if (toAdd.length === 0) return true;
+  
+  // Add new items
+  siteLogData.items.push(...toAdd);
+  
+  // Update metadata for this bucket only
+  const allDates = siteLogData.items.map(item => new Date(item.pubDate));
+  siteLogData.metadata.oldestItemDate = new Date(Math.min(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
+  siteLogData.metadata.newestItemDate = new Date(Math.max(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
+  siteLogData.metadata.itemCount = siteLogData.items.length;
+  siteLogData.metadata.generatedAt = new Date().toISOString();
+  
+  const success = await writeToGitHub(client, targetFile!, siteLogData);
+  if (success) {
+    cacheLogFile(config, siteId, targetFile!, siteLogData);
+    pruneCachedLogFilesForSite(config, siteId);
+  }
+  
+  return success;
+}
+
+// ── Public API ─────────────────────────────────────────────────────
+
+/**
+ * Commit all feed items (read + unread) to GitHub log files.
+ * Items are grouped by pubDate into YYYY-MM-DD buckets.
+ * For each bucket: locate existing file with space → dedup → append → write.
+ * Overflow (>200 items per file) spills to date-1, date-2, etc.
  */
 export async function commitAllFeedItems(
   siteId: string,
@@ -311,53 +298,21 @@ export async function commitAllFeedItems(
     }));
 
   try {
-    let targetFile = await getLatestLogFile(siteId, cfg);
-    let existingData: SiteLogData | null = null;
-
-    if (targetFile) {
-      existingData = await readFromGitHub<SiteLogData>(client, targetFile);
+    // Group items by their pubDate
+    const buckets = groupByPubDate(logItems);
+    
+    let allSuccess = true;
+    
+    // Process buckets by date descending (newest first)
+    for (const [dateStr, bucketItems] of buckets) {
+      const success = await mergeItemsIntoBucket(client, siteId, siteName, dateStr, bucketItems, cfg);
+      if (!success) {
+        console.error(`  Failed to commit ${bucketItems.length} items to ${dateStr}`);
+        allSuccess = false;
+      }
     }
-
-    if (!existingData || existingData.items.length >= MAX_LOG_ITEMS_PER_FILE) {
-      const oldestDate = findOldestItemDate(logItems);
-      targetFile = createSiteLogFilename(siteId, oldestDate);
-      existingData = null;
-    }
-
-    const siteLogData: SiteLogData = existingData || {
-      metadata: {
-        siteId,
-        siteName,
-        oldestItemDate: findOldestItemDate(logItems),
-        newestItemDate: findOldestItemDate(logItems),
-        itemCount: 0,
-        generatedAt: new Date().toISOString()
-      },
-      items: []
-    };
-
-    const existingItemIds = new Set(siteLogData.items.map(i => i.itemId));
-    const newItems = logItems.filter(item => !existingItemIds.has(item.itemId));
-
-    if (newItems.length === 0) return true;
-
-    siteLogData.items.push(...newItems);
-
-    const allDates = siteLogData.items.map(item => new Date(item.pubDate));
-    siteLogData.metadata.oldestItemDate = new Date(Math.min(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
-    siteLogData.metadata.newestItemDate = new Date(Math.max(...allDates.map(d => d.getTime()))).toISOString().split('T')[0];
-    siteLogData.metadata.itemCount = siteLogData.items.length;
-    siteLogData.metadata.generatedAt = new Date().toISOString();
-
-    const success = await writeToGitHub(client, targetFile!, siteLogData);
-    if (success) {
-      cacheLogFile(cfg, siteId, targetFile!, siteLogData);
-      pruneCachedLogFilesForSite(cfg, siteId);
-
-      await checkAndRenameAllread(client, targetFile!);
-    }
-
-    return success;
+    
+    return allSuccess;
   } catch (error) {
     console.error('Failed to commit feed items:', error);
     return false;
@@ -365,10 +320,118 @@ export async function commitAllFeedItems(
 }
 
 /**
+ * Commit read status to site-based log files.
+ * Uses the same per-date-bucket grouping as commitAllFeedItems.
+ * Items with readAt are marked as read, items without readAt are unread.
+ */
+export async function commitReadStatus(
+  siteId: string,
+  siteName: string,
+  items: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>,
+  config?: GitHubConfig
+): Promise<boolean> {
+  if (items.length === 0) return true;
+
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
+
+  // Sort and convert to LogItems
+  const logItems: LogItem[] = items
+    .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+    .map(item => ({
+      itemId: item.itemId,
+      title: item.title,
+      pubDate: item.pubDate,
+      ...(item.readAt ? { readAt: item.readAt } : {})
+    }));
+
+  try {
+    // Group by pubDate
+    const buckets = groupByPubDate(logItems);
+    
+    let allSuccess = true;
+    
+    for (const [dateStr, bucketItems] of buckets) {
+      const success = await mergeItemsIntoBucket(client, siteId, siteName, dateStr, bucketItems, cfg);
+      if (!success) {
+        console.error(`  Failed to commit read status for ${bucketItems.length} items to ${dateStr}`);
+        allSuccess = false;
+      }
+    }
+    
+    return allSuccess;
+  } catch (error) {
+    console.error('Failed to commit read status:', error);
+    return false;
+  }
+}
+
+/**
+ * Get latest log file for a site.
+ * Returns the file with the highest date that has < 200 items.
+ * Falls back to an overflow bucket if the main date bucket is full.
+ */
+export async function getLatestLogFile(siteId: string, config?: GitHubConfig): Promise<string | null> {
+  const cfg = config ?? getStoredConfig();
+  const client = createGitHubClient(cfg);
+
+  const dates = await getSiteFileDates(siteId, cfg);
+
+  for (const dateStr of dates) {
+    const filePath = await locateLogFileByDate(siteId, dateStr, cfg);
+    if (filePath) {
+      return filePath;
+    }
+  }
+  
+  // If no bucket with space found, check for overflow files
+  for (const dateStr of dates) {
+    const overflow = await findOverflowBucket(siteId, dateStr, cfg);
+    if (overflow && !overflow.endsWith('.json')) {
+      // It's a new overflow file path, not an existing one
+      continue;
+    }
+    // For overflow files that exist and have space
+    const siteFiles = await listSiteFiles(client, siteId, cfg);
+    const validOverflow = siteFiles
+      .filter(sf => sf.fileDate === dateStr && sf.overflow !== null && sf.data && sf.data.items.length < MAX_LOG_ITEMS_PER_FILE)
+      .sort((a, b) => Number(b.overflow) - Number(a.overflow))
+      .pop();
+    if (validOverflow) return validOverflow.filePath;
+  }
+
+  return null;
+}
+
+/**
+ * Generate site log file path for a specific date (legacy API for SPA reading)
+ */
+export function getLogFilePath(siteId: string, date: Date = new Date()): string {
+  const dateStr = date.toISOString().split('T')[0];
+  return `${getSiteLogDir(siteId)}/${dateStr}.json`;
+}
+
+/**
+ * Read existing site log file from GitHub (legacy API)
+ */
+export async function readLog(siteId: string, date: Date = new Date()): Promise<SiteLogData | null> {
+  const config = getStoredConfig();
+  const client = createGitHubClient(config);
+  const path = getLogFilePath(siteId, date);
+
+  const cached = getCachedLogFile(config, siteId, path);
+  if (cached) return cached;
+
+  const data = await readFromGitHub<SiteLogData>(client, path);
+  if (data) {
+    cacheLogFile(config, siteId, path, data);
+  }
+
+  return data;
+}
+
+/**
  * Rename log file to add -allread suffix
- *
- * @param filePath - Current file path
- * @returns True if rename successful
  */
 export async function renameToAllread(filePath: string): Promise<boolean> {
   const config = getStoredConfig();
@@ -426,28 +489,7 @@ async function deleteFileFromGitHub(client: any, filePath: string): Promise<bool
 }
 
 /**
- * Check if all items in a file are read, and rename if so
- */
-async function checkAndRenameAllread(client: any, filePath: string): Promise<void> {
-  try {
-    const data = await readFromGitHub<SiteLogData>(client, filePath);
-    if (!data || data.items.length === 0) return;
-
-    const allRead = data.items.every(item => item.readAt);
-    if (allRead) {
-      await renameToAllread(filePath);
-    }
-  } catch (error) {
-    console.error('Failed to check allread status:', error);
-  }
-}
-
-/**
  * Get all log items for a site from GitHub (excludes allread files)
- * Returns map of itemId -> LogItem (contains readAt)
- *
- * @param siteId - Site identifier
- * @returns Map of itemId -> LogItem
  */
 export async function getLogItemsForSite(
   siteId: string
@@ -480,4 +522,62 @@ export async function getLogItemsForSite(
   }
 
   return itemsMap;
+}
+
+/**
+ * Get read items for a specific site from site-based logs
+ */
+export async function getReadItemsForSite(siteId: string): Promise<Set<string>> {
+  const config = getStoredConfig();
+  const client = createGitHubClient(config);
+  const readItems = new Set<string>();
+
+  const siteDir = getSiteLogDir(siteId);
+  const files = await listDirectory(client, siteDir);
+
+  for (const file of files) {
+    if (file.type !== 'file') continue;
+    if (!file.name.endsWith('.json')) continue;
+    if (file.name.includes('-allread')) continue;
+
+    const filePath = file.path;
+    try {
+      const data = getCachedLogFile(config, siteId, filePath) ??
+        await readFromGitHub<SiteLogData>(client, filePath);
+      if (data) {
+        cacheLogFile(config, siteId, filePath, data);
+        data.items.forEach(item => readItems.add(item.itemId));
+      }
+    } catch {
+      // File doesn't exist, continue
+    }
+  }
+
+  return readItems;
+}
+
+/**
+ * Get all read items from site-based logs
+ */
+export async function getAllReadItems(): Promise<Record<string, Set<string>>> {
+  return {};
+}
+
+/**
+ * Commit all read items from multiple sites
+ */
+export async function commitAllReadItems(
+  allReadItems: Record<string, Array<{ itemId: string; title: string; pubDate: string; siteName: string }>>
+): Promise<Record<string, boolean>> {
+  const results: Record<string, boolean> = {};
+
+  for (const [siteId, items] of Object.entries(allReadItems)) {
+    if (items.length > 0) {
+      const siteName = items[0].siteName;
+      const itemData = items.map(({ itemId, title, pubDate }) => ({ itemId, title, pubDate }));
+      results[siteId] = await commitReadStatus(siteId, siteName, itemData);
+    }
+  }
+
+  return results;
 }

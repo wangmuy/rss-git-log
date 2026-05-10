@@ -55,3 +55,30 @@ Separate from the self-contained workflow. Composite actions cannot use other ac
 - [x] 6.5 Verify browser SPA builds and all existing tests pass
 - [x] 6.6 Verify manual workflow_dispatch run succeeds in GitHub Actions
 - [ ] 6.7 Verify scheduled run triggers and completes
+
+## 7. Fix Log File Date Grouping
+
+### 7.1 Grouping Utility
+- [x] 7.1 Create `groupByPubDate(itemList): Map<YYYY-MM-DD, LogItem[]>` utility in `log-file.ts`
+
+### 7.2 commitAllFeedItems — per-bucket merge
+- [x] 7.2 Group items by pubDate using `groupByPubDate()`, iterate buckets by date descending
+- [x] 7.3 For each bucket, attempt `locateLogFileByDate(siteId, date, cfg)` — lists directory, finds a < 200 items file matching this date
+- [x] 7.4 If found: read existing file → `Set<existingItemIds>` → filter new items via dedup (only current bucket's items, not cross-bucket dedup) → append → write back
+- [x] 7.5 If not found: create new bucket file with this date as filename → build metadata → write
+- [x] 7.6 If bucket file exists but >= 200 items: create overflow bucket with `-1` suffix (then `-2`, etc.) → new items into overflow file
+- [x] 7.7 Update bucket metadata: `oldestItemDate` / `newestItemDate` reflect only that file's items, `itemCount` = current total
+
+### 7.3 commitReadStatus — same per-date bucket logic
+- [x] 7.8 Apply per-date bucket grouping + read-merge-dedup-append-write pattern to `commitReadStatus()`, including overflow bucket suffix logic
+
+### 7.4 Supporting functions
+- [x] 7.9 Implement `locateLogFileByDate(siteId, date, cfg): string | null` — lists directory, returns file path matching this date with < 200 items
+- [x] 7.10 Implement `findOverflowBucket(siteId, date, cfg, baseCount): string` — returns `date-{N}.json` where N starts from existing overflow count
+- [x] 7.11 Update `getLatestLogFile()`: return the file with the highest date that has < 200 items (most recent date bucket with space), falling back to overflow if date bucket is full
+
+### 7.5 Cleanup & Tests
+- [x] 7.12 Update metadata: `oldestItemDate` / `newestItemDate` in file metadata reflect the bucket's actual date range
+- [x] 7.13 Remove or repurpose `findOldestItemDate()` (no longer used as filename basis)
+- [x] 7.14 Write unit tests: verify items from 3 dates land in 3 separate files, verify overflow creates `-1` suffix, verify dedup only within target bucket, verify same-item-id already in different bucket still gets written to current bucket
+- [x] 7.15 Verify existing SPA read flow (`getLogItemsForSite`, `getReadItemsForSite`, `getAllReadItems`) still works with the new file naming (it discovers all `.json` in the directory, so should be no-impact)
