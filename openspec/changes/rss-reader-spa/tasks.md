@@ -218,3 +218,13 @@
 - [x] 16.4 Pass `isRead` as a prop to `FeedListPane` for keyboard navigation auto-read
 - [x] 16.5 Add design decision documentation in `design.md` section 21
 - [x] 16.6 Add `[Unread Count Accuracy]` risk entry in `design.md` Risks/Trade-offs
+
+## 17. Hard Refresh (Feed + GitHub Repo)
+
+- [x] 17.1 Implement refresh function in `useRSSFeeds.ts` that fetches both RSS feed and GitHub repo data
+- [x] 17.2 Refresh clears current site data before fetching (simulates browser hard refresh)
+- [x] 17.3 Refresh fetches RSS feed items via `fetchRSSWithPolicy`
+- [x] 17.4 Refresh fetches historical items from GitHub log files via `getLogItemsForSite`
+- [x] 17.5 Refresh merges GitHub read status via `mergeGitHubReadStatus`
+- [x] 17.6 Refresh calculates final unread count from merged data via `getUnreadCount`
+- [x] 17.7 Add design decision documentation in `design.md` section 22

@@ -7,6 +7,8 @@ import { loadAppConfig } from '@/utils/app-config';
 import { getLogItemsForSite } from '@/utils/log-file';
 import { generateItemIdFromItem } from '@/utils/item-id';
 
+const getStoreState = () => useReaderStore.getState();
+
 const POOL_SIZE = 3;
 
 interface UseRSSFeedsReturn {
@@ -149,39 +151,61 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     setError(null);
     setStoreError(null);
 
-    poolRef.current.clear();
-    queueRef.current.length = 0;
-
     try {
       for (const configSite of config.sites) {
-        const siteId = getSiteId(configSite.url);
-        const existingSite = sites.find(s => s.siteId === siteId);
-        if (existingSite) {
-          poolRef.current.add(siteId);
-          setSiteLoading(siteId, true);
+        const nextSiteId = getSiteId(configSite.url);
+        const site = sites.find(s => s.siteId === nextSiteId);
+        if (!site) continue;
 
-          try {
-            const feed = await fetchRSSWithPolicy(configSite.url, loadAppConfig().corsPolicy);
-            const items = feed?.items || [];
-            const unreadCount = items.length;
-            updateSite(siteId, items, unreadCount);
-          } catch (err) {
-            console.error('Failed to fetch feed for', siteId, err);
-          } finally {
-            poolRef.current.delete(siteId);
-            setSiteLoading(siteId, false);
+        setSiteLoading(nextSiteId, true);
+        updateSite(nextSiteId, [], 0);
+
+        try {
+          const feed = await fetchRSSWithPolicy(configSite.url, loadAppConfig().corsPolicy);
+          const items = feed?.items || [];
+
+          const appConfig = loadAppConfig();
+          if (appConfig.githubWriteCapability.canWrite) {
+            try {
+              const githubItems = await getLogItemsForSite(nextSiteId);
+              if (githubItems.size > 0) {
+                const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
+                const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
+                githubItems.forEach((logItem, itemId) => {
+                  if (!rssItemIds.has(itemId)) {
+                    historicalItems.push({ itemId, title: logItem.title, pubDate: logItem.pubDate });
+                  }
+                });
+                if (historicalItems.length > 0) {
+                  addHistoricalItems(nextSiteId, historicalItems);
+                }
+                mergeGitHubReadStatus(nextSiteId, githubItems);
+              }
+            } catch (e) {
+              console.error('Failed to sync GitHub read status for', nextSiteId, e);
+            }
           }
+
+          const currentStoreState = getStoreState();
+          const currentSite = currentStoreState.sites.find(s => s.siteId === nextSiteId);
+          const allItems = currentSite?.items || items;
+          const unreadCount = currentStoreState.getUnreadCount(nextSiteId);
+          updateSite(nextSiteId, allItems, unreadCount);
+        } catch (err: any) {
+          console.error('Failed to fetch feed for', nextSiteId, err);
+        } finally {
+          setSiteLoading(nextSiteId, false);
         }
       }
     } catch (err: any) {
-      const errorMsg = err.message || 'Failed to fetch RSS feeds';
+      const errorMsg = err.message || 'Failed to refresh feeds';
       setError(errorMsg);
       setStoreError(errorMsg);
     } finally {
       setLoading(false);
       setStoreLoading(false);
     }
-  }, [config, sites, setStoreLoading, setStoreError, setSiteLoading, updateSite]);
+  }, [config, setStoreLoading, setStoreError, setSiteLoading, updateSite, addHistoricalItems, mergeGitHubReadStatus]);
 
   return {
     sites,

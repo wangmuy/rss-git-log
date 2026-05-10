@@ -335,6 +335,26 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 
 **[Unread Count Accuracy]** → The unread count shown in the left pane site list is calculated from the full merged item set (fresh RSS + historical GitHub items) against the `readStatus` store. `SidebarFeedLayout` computes read/unread status from `readStatus` via `isRead()` in the header, so both the left pane badge and right pane header count are consistent.
 
+## 22. Hard Refresh Behavior
+
+**Decision:** The refresh button in the reader header performs a "hard refresh" — it fetches data from both the RSS feed sites AND the GitHub repo, similar to a browser refresh that reloads all cached data.
+
+**Implementation:**
+- `useRSSFeeds.ts` `refresh()` function clears current site data before fetching (simulates browser hard refresh)
+- For each site, refresh sequentially:
+  1. Clears current items via `updateSite(nextSiteId, [], 0)`
+  2. Fetches fresh RSS items via `fetchRSSWithPolicy()`
+  3. If GitHub write capability is available, fetches historical items from GitHub log files via `getLogItemsForSite()`
+  4. Merges historical items not present in the RSS feed via `addHistoricalItems()`
+  5. Merges read status from GitHub via `mergeGitHubReadStatus()`
+  6. Calculates final unread count from merged data via `getUnreadCount()`
+  7. Updates site with final items and count via `updateSite()`
+
+**Rationale:**
+- A simple RSS-only refresh would lose historical items and read status synced from GitHub
+- Users expect refresh to show the latest state from all data sources, not just the feed site
+- The refresh is sequential (not parallel) to avoid overwhelming the GitHub API with concurrent requests
+
 ## Deployment
 - Build: `npm run build` (Vite)
 - Deploy to: Vercel, Netlify, GitHub Pages, or Cloudflare Pages
