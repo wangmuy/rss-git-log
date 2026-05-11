@@ -352,7 +352,25 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - In `FeedListPane`, filter items based on `showReadItems`: if false, filter out read items
 - Add a `useEffect` in `FeedListPane` that resets `kbdItemId` to null when `showReadItems` changes
 
-## 24. Keyboard Navigation Fix: itemId-based Selection Over Index-based
+## 24. Keyboard Navigation Performance Optimization
+
+**Decision:** Replace the index-based `findIndex` lookup and per-keystroke `isRead()` calls in the `FeedListPane` keydown handler with precomputed `useMemo`-based data structures for O(1) item lookup and read-checking.
+
+**Rationale:**
+- The previous handler did `items.findIndex(item => item.itemId === currentId)` on every `j`/`k` press — a linear scan over all visible items (50-200 comparisons per keystroke)
+- It also called `isRead(siteId, itemId)` which reached into the global Zustand store on every keystroke, triggering re-renders of consumers of that selector
+- `readItemIdSet` and `unreadItemIdSet` are now precomputed with `useMemo` from `allItems`, so filtering and navigation both use Set lookups (O(1))
+- `itemIndexMap` maps `itemId → arrayIndex` as a `Map`, so the keydown handler no longer iterates
+- `itemRefs` uses a `Map<string, HTMLDivElement>` keyed by itemId instead of an array indexed by position, avoiding stale references when the array changes
+
+**Implementation:**
+- `allItems`: sorted+mapped array memoised on `[site.siteId, site.items]`
+- `readItemIdSet`: Set of all item ids in the current site, memoised from `allItems`
+- `items`: filtered filtered array memoised from `[allItems, showReadItems, readItemIdSet]`
+- `unreadItemIdSet`: Set of unread item ids, memoised from `items`
+- `itemIndexMap`: `Map<itemId, index>`, memoised from `items`
+- `item`Ref<Map<string, HTMLDivElement>` keyed by itemId
+- `FeedItem.isRead` receives `!unreadItemIdSet.has(data.itemId)` instead of calling `isRead()`
 
 **Decision:** Replace the index-based `kbdIndex` in `FeedListPane` with itemId-based `kbdItemId` to prevent duplicate unread count decrements when navigating `j`/`k` back and forth on the same items.
 
@@ -367,7 +385,7 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Use `itemRefs.current.get(itemId)` to scroll into view instead of array-based access
 - When `showReadItems` changes, reset `kbdItemId` to null
 
-## 25. Live Unread Count Updates
+## 25. Keyboard Navigation Performance Optimization
 
 **Decision:** When an RSS item is marked as read (either via vim-style `j` key navigation or mouse click), the unread count badge for the current selected feed in the left pane decreases by 1 to reflect the current unread count.
 

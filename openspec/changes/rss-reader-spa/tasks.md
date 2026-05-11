@@ -240,6 +240,7 @@
 - [x] 18.7 Fix `markSiteAsRead` to also update unreadCount to 0
 - [x] 18.8 Fix keyboard navigation: replace index-based `kbdIndex` with itemId-based `kbdItemId` so navigating j/k on same items doesn't cause duplicate unread count decrements
 - [x] 18.9 Add unit tests verifying `markAsRead` on already-read items does not decrease count (tests 18.8-18.10 in readerStore.test.ts)
+- [x] 18.10 Optimize keyboard navigation: memoise `allItems` with `useMemo`, precompute `Map<itemId, index>` and `unreadItemIdSet` to achieve O(1) lookup in keydown handler
 
 ## 19. Show All / Show Unread Only Toggle
 
@@ -252,3 +253,8 @@
 - [x] 19.7 Add `useEffect` to reset `kbdIndex` to -1 when `showReadItems` changes
 - [x] 19.8 Update component tests to include new Header props
 - [x] 19.9 Add design decision documentation in `design.md` section 23
+- [x] 19.10 Memoise allItems with useMemo to avoid recalculating on every render
+- [x] 19.11 Replace array `findIndex` in keydown handler with precomputed `Map<itemId, index>` for O(1) lookup
+- [x] 19.12 Precompute `unreadItemIdSet` to replace per-keystroke `isRead()` store getter + item ID hash
+- [x] 19.13 Replace itemRefs array with `Map<string, HTMLDivElement>` keyed by itemId for stable lookups
+- [x] 19.14 Replace `isRead` prop on FeedItem with `!unreadItemIdSet.has(itemId)` to avoid store calls per render
