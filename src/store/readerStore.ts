@@ -98,7 +98,19 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         settings: state.settings
       }));
 
-      return { readStatus: newReadStatus };
+      const updatedSites = state.sites.map(site => {
+        if (site.siteId === siteId) {
+          const readItems = newReadStatus[siteId];
+          const unreadCount = site.items.filter(item => {
+            const id = generateItemIdFromItem(item);
+            return !readItems.has(id);
+          }).length;
+          return { ...site, unreadCount };
+        }
+        return site;
+      });
+
+      return { readStatus: newReadStatus, sites: updatedSites };
     });
   },
 
@@ -124,7 +136,14 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         settings: state.settings
       }));
 
-      return { readStatus: newReadStatus };
+      const updatedSites = state.sites.map(s => {
+        if (s.siteId === siteId) {
+          return { ...s, unreadCount: 0 };
+        }
+        return s;
+      });
+
+      return { readStatus: newReadStatus, sites: updatedSites };
     });
   },
 

@@ -228,3 +228,13 @@
 - [x] 17.5 Refresh merges GitHub read status via `mergeGitHubReadStatus`
 - [x] 17.6 Refresh calculates final unread count from merged data via `getUnreadCount`
 - [x] 17.7 Add design decision documentation in `design.md` section 22
+
+## 18. Live Unread Count Updates
+
+- [x] 18.1 Modify `markAsRead` in `readerStore.ts` to also recalculate and update the site's `unreadCount` when an item is marked as read
+- [x] 18.2 Use `getUnreadCount` to compute the new count and call `updateSite` to persist the updated count
+- [x] 18.3 Verify left pane unread count badge decreases by 1 when marking read via keyboard `j` key
+- [x] 18.4 Verify left pane unread count badge decreases by 1 when marking read via mouse click
+- [x] 18.5 Add design decision documentation in `design.md` section 23
+- [x] 18.6 Add unit tests in `src/store/readerStore.test.ts` for markAsRead updating unreadCount
+- [x] 18.7 Fix `markSiteAsRead` to also update unreadCount to 0

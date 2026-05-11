@@ -335,7 +335,21 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 
 **[Unread Count Accuracy]** → The unread count shown in the left pane site list is calculated from the full merged item set (fresh RSS + historical GitHub items) against the `readStatus` store. `SidebarFeedLayout` computes read/unread status from `readStatus` via `isRead()` in the header, so both the left pane badge and right pane header count are consistent.
 
-## 22. Hard Refresh Behavior
+## 23. Live Unread Count Updates
+
+**Decision:** When an RSS item is marked as read (either via vim-style `j` key navigation or mouse click), the unread count badge for the current selected feed in the left pane decreases by 1 to reflect the current unread count.
+
+**Rationale:**
+- Users expect immediate visual feedback when marking items as read
+- The left pane shows unread count badges for each feed, and these should stay in sync with the actual read state
+- Both keyboard navigation (`j` key) and mouse click go through `markAsRead`, so updating the count there ensures consistency
+
+**Implementation:**
+- Modify `markAsRead` in `readerStore.ts` to also recalculate and update the site's `unreadCount` when an item is marked as read
+- Use the existing `getUnreadCount` function to compute the new count and call `updateSite` to persist the updated count
+- This ensures both the left pane badge and right pane header count are consistent
+
+## 23. Hard Refresh Behavior
 
 **Decision:** The refresh button in the reader header performs a "hard refresh" — it fetches data from both the RSS feed sites AND the GitHub repo, similar to a browser refresh that reloads all cached data.
 
