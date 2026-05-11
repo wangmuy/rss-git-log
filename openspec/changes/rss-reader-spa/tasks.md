@@ -238,6 +238,8 @@
 - [x] 18.5 Add design decision documentation in `design.md` section 23
 - [x] 18.6 Add unit tests in `src/store/readerStore.test.ts` for markAsRead updating unreadCount
 - [x] 18.7 Fix `markSiteAsRead` to also update unreadCount to 0
+- [x] 18.8 Fix keyboard navigation: replace index-based `kbdIndex` with itemId-based `kbdItemId` so navigating j/k on same items doesn't cause duplicate unread count decrements
+- [x] 18.9 Add unit tests verifying `markAsRead` on already-read items does not decrease count (tests 18.8-18.10 in readerStore.test.ts)
 
 ## 19. Show All / Show Unread Only Toggle
 

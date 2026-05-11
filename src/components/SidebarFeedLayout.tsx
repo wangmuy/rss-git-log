@@ -206,13 +206,13 @@ interface FeedListPaneProps {
 }
 
 const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead, showReadItems }) => {
-  const [kbdIndex, setKbdIndex] = useState(-1);
-  const kbdIndexRef = useRef(-1);
-  kbdIndexRef.current = kbdIndex;
-  const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
+  const [kbdItemId, setKbdItemId] = useState<string | null>(null);
+  const kbdItemIdRef = useRef<string | null>(null);
+  kbdItemIdRef.current = kbdItemId;
+  const itemRefs = useRef<Map<string, HTMLDivElement>>(new Map());
 
   useEffect(() => {
-    setKbdIndex(-1);
+    setKbdItemId(null);
   }, [showReadItems]);
 
   const allItems: FeedItemData[] = [...site.items]
@@ -236,27 +236,31 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead,
 
       e.preventDefault();
 
-      if (key === 'j') {
-        const currentKbd = kbdIndexRef.current;
-        const newIdx = currentKbd >= 0 ? currentKbd + 1 : 0;
-        const nextIdx = Math.min(newIdx, items.length - 1);
-        setKbdIndex(nextIdx);
+      const currentId = kbdItemIdRef.current;
+      const currentIdx = currentId ? items.findIndex(item => item.itemId === currentId) : -1;
 
-        const current = items[nextIdx];
-        if (current) {
-          const read = isRead(site.siteId, current.itemId);
+      if (key === 'j') {
+        const nextIdx = currentIdx >= 0 ? currentIdx + 1 : 0;
+        const clampedIdx = Math.min(nextIdx, items.length - 1);
+        const nextItem = items[clampedIdx];
+
+        if (nextItem) {
+          setKbdItemId(nextItem.itemId);
+          const read = isRead(site.siteId, nextItem.itemId);
           if (!read) {
-            onMarkAsRead(site.siteId, current.itemId);
+            onMarkAsRead(site.siteId, nextItem.itemId);
           }
+          itemRefs.current.get(nextItem.itemId)?.scrollIntoView({ block: 'start', behavior: 'smooth' });
         }
-        itemRefs.current[nextIdx]?.scrollIntoView({ block: 'start', behavior: 'smooth' });
       }
 
       if (key === 'k') {
-        const currentKbd = kbdIndexRef.current;
-        const prevIdx = Math.max(currentKbd - 1, 0);
-        setKbdIndex(prevIdx);
-        itemRefs.current[prevIdx]?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+        const prevIdx = Math.max(currentIdx - 1, 0);
+        const prevItem = items[prevIdx];
+        if (prevItem) {
+          setKbdItemId(prevItem.itemId);
+          itemRefs.current.get(prevItem.itemId)?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+        }
       }
     };
 
@@ -269,12 +273,12 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead,
   return (
     <Stack spacing={1}>
       {items.map((data, idx) => (
-        <div key={`${site.siteId}-${data.itemId}-${idx}`} ref={el => { itemRefs.current[idx] = el; }} style={{ scrollMarginTop: 72 }}>
+        <div key={`${site.siteId}-${data.itemId}-${idx}`} ref={el => { if (el) itemRefs.current.set(data.itemId, el); }} style={{ scrollMarginTop: 72 }}>
           <FeedItem
             item={data.item}
             isRead={isRead(site.siteId, data.itemId)}
             siteColor={site.color}
-            isKeyboardSelected={kbdIndex === idx}
+            isKeyboardSelected={kbdItemId === data.itemId}
             onMarkAsRead={() => onMarkAsRead(site.siteId, data.itemId)}
           />
         </div>

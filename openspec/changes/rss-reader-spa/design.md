@@ -350,9 +350,24 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 - Add a `Switch` with "Show All" label in `Header.tsx`
 - Pass `showReadItems` to `SidebarFeedLayout` and then to `FeedListPane`
 - In `FeedListPane`, filter items based on `showReadItems`: if false, filter out read items
-- Add a `useEffect` in `FeedListPane` that resets `kbdIndex` to -1 when `showReadItems` changes
+- Add a `useEffect` in `FeedListPane` that resets `kbdItemId` to null when `showReadItems` changes
 
-## 24. Live Unread Count Updates
+## 24. Keyboard Navigation Fix: itemId-based Selection Over Index-based
+
+**Decision:** Replace the index-based `kbdIndex` in `FeedListPane` with itemId-based `kbdItemId` to prevent duplicate unread count decrements when navigating `j`/`k` back and forth on the same items.
+
+**Rationale:**
+- The old approach tracked selection by array index into the filtered `items` array
+- When items are marked as read via `j`, they disappear from the filtered list, causing the index to point to a different item on subsequent navigation
+- This led to duplicate count decrements: marking item A as read, pressing `k` then `j` would navigate to a different item than expected and incorrectly mark it again
+
+**Implementation:**
+- Replace `kbdIndex` (number) with `kbdItemId` (string | null) using a `Ref<Map<string, HTMLDivElement>>` to track DOM refs by itemId
+- In the keydown handler, find the current item by comparing `items.find(item => item.itemId === currentId)` rather than using a numeric index
+- Use `itemRefs.current.get(itemId)` to scroll into view instead of array-based access
+- When `showReadItems` changes, reset `kbdItemId` to null
+
+## 25. Live Unread Count Updates
 
 **Decision:** When an RSS item is marked as read (either via vim-style `j` key navigation or mouse click), the unread count badge for the current selected feed in the left pane decreases by 1 to reflect the current unread count.
 
