@@ -41,6 +41,7 @@ describe('SubscriptionManager', () => {
     );
 
     expect(screen.getByText('Example')).toBeTruthy();
+    fireEvent.click(screen.getByRole('button', { name: /expand/i }));
     expect(screen.getByText('Save to GitHub')).toBeTruthy();
   });
 });
@@ -73,7 +74,7 @@ describe('Header', () => {
       />
     );
 
-    expect(screen.queryByLabelText('Manual Commit')).toBeNull();
+    expect(screen.queryByRole('button', { name: /Manual Commit/i })).toBeNull();
   });
 
   it('shows manual commit when writes are available', () => {
@@ -90,6 +91,6 @@ describe('Header', () => {
       />
     );
 
-    expect(screen.queryByLabelText('Manual Commit')).not.toBeNull();
+    expect(screen.queryByRole('button', { name: /Manual Commit/i })).not.toBeNull();
   });
 });

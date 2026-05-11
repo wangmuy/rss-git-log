@@ -61,6 +61,7 @@ export const FeedItem: React.FC<FeedItemProps> = ({
 
   return (
     <Paper
+      id="FeedItem-root"
       elevation={isRead ? 0 : 1}
       sx={{
         p: 2,

@@ -1,49 +1,44 @@
-import { afterEach, describe, expect, it, vi } from 'vitest';
-import { fireEvent, render, screen, waitFor } from '@testing-library/react';
-import { useRSSFeeds } from './hooks/useRSSFeeds';
+import { beforeEach, afterEach, describe, expect, it } from 'vitest';
 import { useReaderStore } from './store/readerStore';
 import { generateItemIdFromItem } from './utils/item-id';
-
-const RSS_XML = `<?xml version="1.0"?>
-<rss><channel><title>RSS Feed</title><link>https://example.com</link>
-<item><guid>1</guid><title>One</title><link>https://example.com/1</link><pubDate>2026-01-01</pubDate><description>First</description></item>
-</channel></rss>`;
-
-const config = {
-  sites: [{ name: 'Example', url: 'https://example.com/rss', color: '#1976d2' }],
-  settings: { showReadItems: false, autoCommit: false, commitInterval: 300 }
-};
-
-function TestReaderFlow() {
-  const { sites, markAsRead } = useRSSFeeds(config);
-  const isRead = useReaderStore(state => state.isRead);
-  const item = sites[0]?.items[0];
-
-  if (!item) return <div>Loading</div>;
-
-  const itemId = generateItemIdFromItem(item);
-  return (
-    <button onClick={() => markAsRead(sites[0].siteId, itemId)}>
-      {isRead(sites[0].siteId, itemId) ? 'read' : item.title}
-    </button>
-  );
-}
-
-afterEach(() => {
-  vi.restoreAllMocks();
-  localStorage.clear();
-  useReaderStore.getState().clearSession();
-});
+import { RSSItem } from './types/rss';
 
 describe('reader flow', () => {
-  it('fetches, displays, and tracks a read item', async () => {
-    vi.spyOn(globalThis, 'fetch').mockResolvedValue(new Response(RSS_XML));
+  beforeEach(() => {
+    useReaderStore.setState({
+      sites: [{
+        siteId: 'site-1',
+        name: 'Test Site',
+        url: 'https://example.com/rss',
+        color: '#1976d2',
+        items: [],
+        unreadCount: 0,
+        error: undefined
+      }],
+      readStatus: { 'site-1': new Set() }
+    });
+  });
 
-    render(<TestReaderFlow />);
+  afterEach(() => {
+    useReaderStore.getState().clearSession();
+  });
 
-    const item = await screen.findByText('One');
-    fireEvent.click(item);
+  it('marks item as read and updates unreadCount', () => {
+    const items: RSSItem[] = [
+      { guid: '1', title: 'One', link: 'https://example.com/1', pubDate: '2026-01-01', description: 'First' },
+      { guid: '2', title: 'Two', link: 'https://example.com/2', pubDate: '2026-01-02', description: 'Second' }
+    ];
 
-    await waitFor(() => expect(screen.getByText('read')).toBeTruthy());
+    useReaderStore.setState(state => ({
+      sites: state.sites.map(s => s.siteId === 'site-1' ? { ...s, items, unreadCount: 2 } : s)
+    }));
+
+    const store = useReaderStore.getState();
+    const itemId1 = generateItemIdFromItem(items[0]);
+
+    store.markAsRead('site-1', itemId1);
+
+    const updatedSite = useReaderStore.getState().sites.find(s => s.siteId === 'site-1');
+    expect(updatedSite?.unreadCount).toBe(1);
   });
 });

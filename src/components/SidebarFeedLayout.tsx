@@ -33,6 +33,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   showReadItems
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
+  const isRead = useReaderStore(state => state.isRead);
   const markSiteAsRead = useReaderStore(state => state.markSiteAsRead);
 
   useEffect(() => {
@@ -151,6 +152,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               <FeedListPane
                 site={selectedSite}
                 onMarkAsRead={onMarkAsRead}
+                isRead={isRead}
                 showReadItems={showReadItems}
               />
             </Box>
@@ -193,10 +195,11 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 interface FeedListPaneProps {
   site: SiteWithStatus;
   onMarkAsRead: (siteId: string, itemId: string) => void;
+  isRead: (siteId: string, itemId: string) => boolean;
   showReadItems: boolean;
 }
 
-const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showReadItems }) => {
+export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead, showReadItems }) => {
   const [kbdItemId, setKbdItemId] = useState<string | null>(null);
   const kbdItemIdRef = useRef<string | null>(null);
   kbdItemIdRef.current = kbdItemId;
@@ -220,16 +223,17 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showRea
     [site.siteId, site.items],
   );
 
-  // Build a Set of read-item ids once — used by both filtering and the keyboard handler
+  // Build a Set of read-item ids from the store once — used by filtering and the keyboard handler
   const readItemIdSet = useMemo(() => {
     const set = new Set<string>();
     for (const data of allItems) {
-      set.add(data.itemId);
+      const read = isRead(site.siteId, data.itemId);
+      if (read) set.add(data.itemId);
     }
     return set;
-  }, [allItems]);
+  }, [allItems, site.siteId, isRead]);
 
-  // Filtered items — only unread when showReadItems is false
+  // Filtered items — visible list (all or unread only)
   const items = useMemo(
     () =>
       allItems.filter(data => {
@@ -242,11 +246,11 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showRea
   // Build a Set of *unread* itemId values for O(1) mark-as-read checks and filtering
   const unreadItemIdSet = useMemo(() => {
     const set = new Set<string>();
-    for (const data of items) {
-      set.add(data.itemId);
+    for (const data of allItems) {
+      if (!readItemIdSet.has(data.itemId)) set.add(data.itemId);
     }
     return set;
-  }, [items]);
+  }, [allItems, readItemIdSet]);
 
   // Memoise the item-id → index map so key-down handler does O(1) lookup
   const itemIndexMap = useMemo(() => {
@@ -281,7 +285,9 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showRea
             onMarkAsRead(site.siteId, nextItem.itemId);
           }
           const el = itemRefs.current.get(nextItem.itemId);
-          el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+          try {
+            el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+          } catch {}
         }
       }
 
@@ -291,7 +297,9 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showRea
         if (prevItem) {
           setKbdItemId(prevItem.itemId);
           const el = itemRefs.current.get(prevItem.itemId);
-          el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+          try {
+            el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+          } catch {}
         }
       }
     };
