@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect, useRef } from 'react';
+﻿import React, { useState, useEffect, useRef, useMemo } from 'react';
 import {
   Box,
   List,
@@ -11,7 +11,7 @@ import {
   Paper,
   CircularProgress
 } from '@mui/material';
-import { SiteWithStatus, RSSItem } from '@/types/rss';
+import { SiteWithStatus } from '@/types/rss';
 import { FeedItem } from './FeedItem';
 import { generateItemIdFromItem } from '@/utils/item-id';
 import { useReaderStore } from '../store/readerStore';
@@ -33,7 +33,6 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   showReadItems
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
-  const isRead = useReaderStore(state => state.isRead);
   const markSiteAsRead = useReaderStore(state => state.markSiteAsRead);
 
   useEffect(() => {
@@ -152,7 +151,6 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               <FeedListPane
                 site={selectedSite}
                 onMarkAsRead={onMarkAsRead}
-                isRead={isRead}
                 showReadItems={showReadItems}
               />
             </Box>
@@ -192,20 +190,13 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   );
 };
 
-interface FeedItemData {
-  itemId: string;
-  item: RSSItem;
-  idx: number;
-}
-
 interface FeedListPaneProps {
   site: SiteWithStatus;
   onMarkAsRead: (siteId: string, itemId: string) => void;
-  isRead: (siteId: string, itemId: string) => boolean;
   showReadItems: boolean;
 }
 
-const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead, showReadItems }) => {
+const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showReadItems }) => {
   const [kbdItemId, setKbdItemId] = useState<string | null>(null);
   const kbdItemIdRef = useRef<string | null>(null);
   kbdItemIdRef.current = kbdItemId;
@@ -215,15 +206,56 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead,
     setKbdItemId(null);
   }, [showReadItems]);
 
-  const allItems: FeedItemData[] = [...site.items]
-    .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
-    .map((item, idx) => ({
-      itemId: generateItemIdFromItem(item),
-      item,
-      idx
-    }));
+  // Memoise the sorted + mapped full item list — only recalculated when site or items change
+  const allItems = useMemo(
+    () =>
+      [...site.items]
+        .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+        .map((item, idx) => ({
+          itemId: generateItemIdFromItem(item),
+          item,
+          idx,
+        })),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [site.siteId, site.items],
+  );
 
-  const items = allItems.filter(data => showReadItems || !isRead(site.siteId, data.itemId));
+  // Build a Set of read-item ids once — used by both filtering and the keyboard handler
+  const readItemIdSet = useMemo(() => {
+    const set = new Set<string>();
+    for (const data of allItems) {
+      set.add(data.itemId);
+    }
+    return set;
+  }, [allItems]);
+
+  // Filtered items — only unread when showReadItems is false
+  const items = useMemo(
+    () =>
+      allItems.filter(data => {
+        if (showReadItems) return true;
+        return !readItemIdSet.has(data.itemId);
+      }),
+    [allItems, showReadItems, readItemIdSet],
+  );
+
+  // Build a Set of *unread* itemId values for O(1) mark-as-read checks and filtering
+  const unreadItemIdSet = useMemo(() => {
+    const set = new Set<string>();
+    for (const data of items) {
+      set.add(data.itemId);
+    }
+    return set;
+  }, [items]);
+
+  // Memoise the item-id → index map so key-down handler does O(1) lookup
+  const itemIndexMap = useMemo(() => {
+    const map = new Map<string, number>();
+    for (let i = 0; i < items.length; i++) {
+      map.set(items[i].itemId, i);
+    }
+    return map;
+  }, [items]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -237,20 +269,19 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead,
       e.preventDefault();
 
       const currentId = kbdItemIdRef.current;
-      const currentIdx = currentId ? items.findIndex(item => item.itemId === currentId) : -1;
+      const currentIdx = currentId ? itemIndexMap.get(currentId) ?? -1 : -1;
 
       if (key === 'j') {
-        const nextIdx = currentIdx >= 0 ? currentIdx + 1 : 0;
-        const clampedIdx = Math.min(nextIdx, items.length - 1);
-        const nextItem = items[clampedIdx];
+        const nextIdx = currentIdx >= 0 ? Math.min(currentIdx + 1, items.length - 1) : 0;
+        const nextItem = items[nextIdx];
 
         if (nextItem) {
           setKbdItemId(nextItem.itemId);
-          const read = isRead(site.siteId, nextItem.itemId);
-          if (!read) {
+          if (unreadItemIdSet.has(nextItem.itemId)) {
             onMarkAsRead(site.siteId, nextItem.itemId);
           }
-          itemRefs.current.get(nextItem.itemId)?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+          const el = itemRefs.current.get(nextItem.itemId);
+          el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
         }
       }
 
@@ -259,7 +290,8 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead,
         const prevItem = items[prevIdx];
         if (prevItem) {
           setKbdItemId(prevItem.itemId);
-          itemRefs.current.get(prevItem.itemId)?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+          const el = itemRefs.current.get(prevItem.itemId);
+          el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
         }
       }
     };
@@ -268,15 +300,20 @@ const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead,
     return () => {
       document.removeEventListener('keydown', handleKeyDown);
     };
-  }, [site.siteId, isRead, onMarkAsRead, items]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [site.siteId, itemIndexMap, unreadItemIdSet, onMarkAsRead, items]);
 
   return (
     <Stack spacing={1}>
-      {items.map((data, idx) => (
-        <div key={`${site.siteId}-${data.itemId}-${idx}`} ref={el => { if (el) itemRefs.current.set(data.itemId, el); }} style={{ scrollMarginTop: 72 }}>
+      {items.map((data) => (
+        <div
+          key={data.itemId}
+          ref={el => { if (el) itemRefs.current.set(data.itemId, el); }}
+          style={{ scrollMarginTop: 72 }}
+        >
           <FeedItem
             item={data.item}
-            isRead={isRead(site.siteId, data.itemId)}
+            isRead={!unreadItemIdSet.has(data.itemId)}
             siteColor={site.color}
             isKeyboardSelected={kbdItemId === data.itemId}
             onMarkAsRead={() => onMarkAsRead(site.siteId, data.itemId)}
