@@ -21,13 +21,16 @@ interface SidebarFeedLayoutProps {
   onMarkAsRead: (siteId: string, itemId: string) => void;
   onSiteSelect: (siteId: string) => void;
   loadingSites: Record<string, boolean>;
+  showReadItems: boolean;
+  onShowReadItemsChange?: (show: boolean) => void;
 }
 
 export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   sites,
   onMarkAsRead,
   onSiteSelect,
-  loadingSites
+  loadingSites,
+  showReadItems
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const isRead = useReaderStore(state => state.isRead);
@@ -150,6 +153,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
                 site={selectedSite}
                 onMarkAsRead={onMarkAsRead}
                 isRead={isRead}
+                showReadItems={showReadItems}
               />
             </Box>
           </>
@@ -198,20 +202,28 @@ interface FeedListPaneProps {
   site: SiteWithStatus;
   onMarkAsRead: (siteId: string, itemId: string) => void;
   isRead: (siteId: string, itemId: string) => boolean;
+  showReadItems: boolean;
 }
 
-const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead }) => {
+const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead, showReadItems }) => {
   const [kbdIndex, setKbdIndex] = useState(-1);
   const kbdIndexRef = useRef(-1);
   kbdIndexRef.current = kbdIndex;
   const itemRefs = useRef<(HTMLDivElement | null)[]>([]);
-  const items: FeedItemData[] = [...site.items]
+
+  useEffect(() => {
+    setKbdIndex(-1);
+  }, [showReadItems]);
+
+  const allItems: FeedItemData[] = [...site.items]
     .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
     .map((item, idx) => ({
       itemId: generateItemIdFromItem(item),
       item,
       idx
     }));
+
+  const items = allItems.filter(data => showReadItems || !isRead(site.siteId, data.itemId));
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {

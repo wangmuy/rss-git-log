@@ -238,3 +238,15 @@
 - [x] 18.5 Add design decision documentation in `design.md` section 23
 - [x] 18.6 Add unit tests in `src/store/readerStore.test.ts` for markAsRead updating unreadCount
 - [x] 18.7 Fix `markSiteAsRead` to also update unreadCount to 0
+
+## 19. Show All / Show Unread Only Toggle
+
+- [x] 19.1 Add `showReadItems` state in `ReaderLayout.tsx` with default false
+- [x] 19.2 Add `showReadItems` and `onShowReadItemsChange` props to `Header.tsx`
+- [x] 19.3 Add Switch component with "Show All" label in `Header.tsx`
+- [x] 19.4 Pass `showReadItems` to `SidebarFeedLayout` component
+- [x] 19.5 Pass `showReadItems` to `FeedListPane` component
+- [x] 19.6 Filter items in `FeedListPane` based on `showReadItems` setting
+- [x] 19.7 Add `useEffect` to reset `kbdIndex` to -1 when `showReadItems` changes
+- [x] 19.8 Update component tests to include new Header props
+- [x] 19.9 Add design decision documentation in `design.md` section 23

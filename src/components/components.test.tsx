@@ -68,6 +68,8 @@ describe('Header', () => {
         isCommitting={false}
         canWrite={false}
         lastCommit={null}
+        showReadItems={false}
+        onShowReadItemsChange={vi.fn()}
       />
     );
 
@@ -83,6 +85,8 @@ describe('Header', () => {
         isCommitting={false}
         canWrite={true}
         lastCommit={null}
+        showReadItems={false}
+        onShowReadItemsChange={vi.fn()}
       />
     );
 

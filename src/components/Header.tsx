@@ -7,7 +7,9 @@ import {
   Box,
   Tooltip,
   Badge,
-  Chip
+  Chip,
+  Switch,
+  FormControlLabel
 } from '@mui/material';
 import {
   Refresh as RefreshIcon,
@@ -23,6 +25,8 @@ interface HeaderProps {
   isCommitting: boolean;
   canWrite: boolean;
   lastCommit: Date | null;
+  showReadItems: boolean;
+  onShowReadItemsChange: (show: boolean) => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -31,7 +35,9 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenConfig,
   isCommitting,
   canWrite,
-  lastCommit
+  lastCommit,
+  showReadItems,
+  onShowReadItemsChange
 }) => {
   const formatLastCommit = () => {
     if (!lastCommit) return 'Never committed';
@@ -49,6 +55,27 @@ export const Header: React.FC<HeaderProps> = ({
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
           RSS Reader
         </Typography>
+
+        <FormControlLabel
+          control={
+            <Switch
+              checked={showReadItems}
+              onChange={(e) => onShowReadItemsChange(e.target.checked)}
+              size="small"
+              sx={{
+                color: 'white',
+                '& .MuiSwitch-switchBase.Mui-checked': {
+                  color: 'white',
+                },
+                '& .MuiSwitch-switchBase.Mui-checked + .MuiSwitch-track': {
+                  backgroundColor: 'white',
+                },
+              }}
+            />
+          }
+          label={<Typography variant="body2" sx={{ color: 'white' }}>Show All</Typography>}
+          sx={{ mr: 2 }}
+        />
 
         <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mr: 2 }}>
           {lastCommit && (

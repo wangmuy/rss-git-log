@@ -22,6 +22,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const { commit, committing, lastCommit, error: commitError } = useCommit();
   const [localConfig, setLocalConfig] = useState<RSSConfig | null>(config);
   const [appConfig, setAppConfig] = useState(() => loadAppConfig());
+  const [showReadItems, setShowReadItems] = useState(false);
 
   // Update local config when config changes
   React.useEffect(() => {
@@ -73,6 +74,8 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
         isCommitting={committing}
         canWrite={appConfig.githubWriteCapability.canWrite}
         lastCommit={lastCommit}
+        showReadItems={showReadItems}
+        onShowReadItemsChange={setShowReadItems}
       />
 
       <Container maxWidth={false} sx={{ py: 3, display: 'flex', flexDirection: 'column', flex: 1, minHeight: 0 }}>
@@ -93,6 +96,8 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
               onMarkAsRead={markAsRead}
               onSiteSelect={fetchSiteFeed}
               loadingSites={loadingSites}
+              showReadItems={showReadItems}
+              onShowReadItemsChange={setShowReadItems}
             />
           )}
           {loading && (

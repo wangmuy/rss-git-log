@@ -335,7 +335,24 @@ RSS Reader is a static React SPA that uses GitHub as a backend replacement. The 
 
 **[Unread Count Accuracy]** → The unread count shown in the left pane site list is calculated from the full merged item set (fresh RSS + historical GitHub items) against the `readStatus` store. `SidebarFeedLayout` computes read/unread status from `readStatus` via `isRead()` in the header, so both the left pane badge and right pane header count are consistent.
 
-## 23. Live Unread Count Updates
+## 23. Show All / Show Unread Only Toggle
+
+**Decision:** Add a toggle switch in the top header bar to switch between "show unread only" (default) and "show all items" modes. When toggled, the selected keyboard navigation index is cleared so vim-style `j`/`k` navigation starts fresh in the new mode.
+
+**Rationale:**
+- Users need a quick way to see all items including previously read ones
+- The toggle should be easily accessible in the header for quick access
+- Vim-style navigation (j/k) needs to reset when switching modes since the visible items list changes
+
+**Implementation:**
+- Add `showReadItems` state in `ReaderLayout.tsx` (default: false = show unread only)
+- Pass `showReadItems` and `onShowReadItemsChange` to `Header` component
+- Add a `Switch` with "Show All" label in `Header.tsx`
+- Pass `showReadItems` to `SidebarFeedLayout` and then to `FeedListPane`
+- In `FeedListPane`, filter items based on `showReadItems`: if false, filter out read items
+- Add a `useEffect` in `FeedListPane` that resets `kbdIndex` to -1 when `showReadItems` changes
+
+## 24. Live Unread Count Updates
 
 **Decision:** When an RSS item is marked as read (either via vim-style `j` key navigation or mouse click), the unread count badge for the current selected feed in the left pane decreases by 1 to reflect the current unread count.
 
