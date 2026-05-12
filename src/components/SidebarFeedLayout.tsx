@@ -249,6 +249,7 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
     for (const data of allItems) {
       if (!readItemIdSet.has(data.itemId)) set.add(data.itemId);
     }
+    console.log('[MEMO] unreadItemIdSet built:', set.size, 'items');
     return set;
   }, [allItems, readItemIdSet]);
 
@@ -279,10 +280,17 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
         const nextIdx = currentIdx >= 0 ? Math.min(currentIdx + 1, items.length - 1) : 0;
         const nextItem = items[nextIdx];
 
+        console.log('[KEYBOARD j] nextItem:', nextItem?.itemId, 'currentIdx:', currentIdx, 'nextIdx:', nextIdx, 'items.length:', items.length);
+        console.log('[KEYBOARD] unreadItemIdSet size:', unreadItemIdSet.size, 'has item?', unreadItemIdSet.has(nextItem?.itemId));
+        console.log('[KEYBOARD] isRead check for site:', site.siteId, 'item:', nextItem?.itemId, 'result:', nextItem ? isRead(site.siteId, nextItem.itemId) : 'N/A');
+
         if (nextItem) {
           setKbdItemId(nextItem.itemId);
           if (unreadItemIdSet.has(nextItem.itemId)) {
+            console.log('[KEYBOARD] Calling onMarkAsRead for item:', nextItem.itemId);
             onMarkAsRead(site.siteId, nextItem.itemId);
+          } else {
+            console.log('[KEYBOARD] Skipping markAsRead - item already read');
           }
           const el = itemRefs.current.get(nextItem.itemId);
           try {

@@ -84,12 +84,16 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
   }),
 
   markAsRead: (siteId, itemId) => {
+    console.log('[STORE markAsRead] siteId:', siteId, 'itemId:', itemId);
     set(state => {
       const newReadStatus = { ...state.readStatus };
       if (!newReadStatus[siteId]) {
         newReadStatus[siteId] = new Set();
       }
       newReadStatus[siteId].add(itemId);
+
+      const siteBefore = state.sites.find(s => s.siteId === siteId);
+      console.log('[STORE] site before markAsRead:', siteId, 'unreadCount:', siteBefore?.unreadCount, 'items count:', siteBefore?.items?.length);
 
       localStorage.setItem('rss-reader-session', JSON.stringify({
         readStatus: Object.fromEntries(
@@ -105,6 +109,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
             const id = generateItemIdFromItem(item);
             return !readItems.has(id);
           }).length;
+          console.log('[STORE] calculated new unreadCount:', unreadCount, 'site items:', site.items.length, 'readItems size:', readItems.size);
           return { ...site, unreadCount };
         }
         return site;
