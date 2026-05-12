@@ -40,8 +40,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     mergeGitHubReadStatus,
     addHistoricalItems,
     setSiteLoading,
-    updateSite,
-    getUnreadCount
+    updateSite
   } = useReaderStore();
 
   const initializeSites = useCallback(() => {
@@ -106,8 +105,11 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
             }
           }
 
-          const unreadCount = getUnreadCount(nextSiteId);
-          updateSite(nextSiteId, items, unreadCount);
+          const currentStoreState = getStoreState();
+          const currentSite = currentStoreState.sites.find(s => s.siteId === nextSiteId);
+          const allItems = currentSite?.items || items;
+          const unreadCount = currentStoreState.getUnreadCount(nextSiteId);
+          updateSite(nextSiteId, allItems, unreadCount);
         } catch (err: any) {
           console.error('Failed to fetch feed for', nextSiteId, err);
         } finally {
