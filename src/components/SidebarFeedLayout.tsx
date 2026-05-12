@@ -262,6 +262,19 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
     return map;
   }, [items]);
 
+  // Refs for values needed by the stable keyboard event listener
+  const itemsRef = useRef(items);
+  itemsRef.current = items;
+  const unreadItemIdSetRef = useRef(unreadItemIdSet);
+  unreadItemIdSetRef.current = unreadItemIdSet;
+  const itemIndexMapRef = useRef(itemIndexMap);
+  itemIndexMapRef.current = itemIndexMap;
+  const onMarkAsReadRef = useRef(onMarkAsRead);
+  onMarkAsReadRef.current = onMarkAsRead;
+  const siteIdRef = useRef(site.siteId);
+  siteIdRef.current = site.siteId;
+
+  // Stable — attaches once, reads latest values from refs
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement || (e.target as HTMLElement).isContentEditable) {
@@ -274,16 +287,17 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
       e.preventDefault();
 
       const currentId = kbdItemIdRef.current;
-      const currentIdx = currentId ? itemIndexMap.get(currentId) ?? -1 : -1;
+      const idxMap = itemIndexMapRef.current;
+      const currentIdx = currentId ? idxMap.get(currentId) ?? -1 : -1;
 
       if (key === 'j') {
-        const nextIdx = currentIdx >= 0 ? Math.min(currentIdx + 1, items.length - 1) : 0;
-        const nextItem = items[nextIdx];
+        const nextIdx = currentIdx >= 0 ? Math.min(currentIdx + 1, itemsRef.current.length - 1) : 0;
+        const nextItem = itemsRef.current[nextIdx];
 
         if (nextItem) {
           setKbdItemId(nextItem.itemId);
-          if (unreadItemIdSet.has(nextItem.itemId)) {
-            onMarkAsRead(site.siteId, nextItem.itemId);
+          if (unreadItemIdSetRef.current.has(nextItem.itemId)) {
+            onMarkAsReadRef.current(siteIdRef.current, nextItem.itemId);
           }
           const el = itemRefs.current.get(nextItem.itemId);
           try {
@@ -294,7 +308,7 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
 
       if (key === 'k') {
         const prevIdx = Math.max(currentIdx - 1, 0);
-        const prevItem = items[prevIdx];
+        const prevItem = itemsRef.current[prevIdx];
         if (prevItem) {
           setKbdItemId(prevItem.itemId);
           const el = itemRefs.current.get(prevItem.itemId);
@@ -309,8 +323,7 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
     return () => {
       document.removeEventListener('keydown', handleKeyDown);
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [site.siteId, itemIndexMap, unreadItemIdSet, onMarkAsRead, items]);
+  }, []);
 
   return (
     <Stack spacing={1}>
