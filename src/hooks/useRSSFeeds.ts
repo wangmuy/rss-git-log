@@ -5,6 +5,7 @@ import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
 import { getLogItemsForSite } from '@/utils/log-file';
+import { clearCachedLogFilesForSite } from '@/utils/log-cache';
 import { generateItemIdFromItem } from '@/utils/item-id';
 
 const getStoreState = () => useReaderStore.getState();
@@ -86,6 +87,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           const appConfig = loadAppConfig();
           if (appConfig.githubWriteCapability.canWrite) {
             try {
+              clearCachedLogFilesForSite(appConfig.github, nextSiteId);
               const githubItems = await getLogItemsForSite(nextSiteId);
               if (githubItems.size > 0) {
                 const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
@@ -169,6 +171,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           const appConfig = loadAppConfig();
           if (appConfig.githubWriteCapability.canWrite) {
             try {
+              clearCachedLogFilesForSite(appConfig.github, nextSiteId);
               const githubItems = await getLogItemsForSite(nextSiteId);
               if (githubItems.size > 0) {
                 const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));

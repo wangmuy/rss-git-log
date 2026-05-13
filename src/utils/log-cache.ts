@@ -100,6 +100,18 @@ export function pruneCachedLogFilesForSite(
   saveCache(entries);
 }
 
+export function clearCachedLogFilesForSite(config: GitHubConfig, siteId: string): void {
+  if (!hasLocalStorage) return;
+  const entries = loadCache();
+  const repoKey = getRepoKey(config);
+  for (const [cacheKey, entry] of Object.entries(entries)) {
+    if (entry.repoKey === repoKey && entry.siteId === siteId) {
+      delete entries[cacheKey];
+    }
+  }
+  saveCache(entries);
+}
+
 export function pruneCachedLogFiles(config: GitHubConfig): void {
   if (!hasLocalStorage) return;
   const entries = loadCache();
