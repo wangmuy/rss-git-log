@@ -39,7 +39,11 @@ function loadCache(): CachedLogEntries {
 
 function saveCache(entries: CachedLogEntries): void {
   if (!hasLocalStorage) return;
-  localStorage.setItem(LOG_CACHE_STORAGE_KEY, JSON.stringify(entries));
+  try {
+    localStorage.setItem(LOG_CACHE_STORAGE_KEY, JSON.stringify(entries));
+  } catch {
+    console.warn('localStorage quota exceeded, log cache will not persist');
+  }
 }
 
 export function getCachedLogFile(
