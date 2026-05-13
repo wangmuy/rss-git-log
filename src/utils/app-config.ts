@@ -15,7 +15,7 @@ const DEFAULT_AUTO_COMMIT: AutoCommitConfig = {
 };
 
 const DEFAULT_LOCAL_CACHE: LocalCacheConfig = {
-  filesPerSite: 1
+  filesPerSite: 30
 };
 
 export const DEFAULT_APP_CONFIG: AppConfig = {
