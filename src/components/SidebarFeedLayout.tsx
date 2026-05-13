@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect, useRef, useMemo } from 'react';
+﻿import React, { useState, useEffect, useRef, useMemo, useLayoutEffect } from 'react';
 import {
   Box,
   List,
@@ -298,10 +298,6 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
           if (unreadItemIdSetRef.current.has(nextItem.itemId)) {
             onMarkAsReadRef.current(siteIdRef.current, nextItem.itemId);
           }
-          const el = itemRefs.current.get(nextItem.itemId);
-          try {
-            el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
-          } catch {}
         }
       }
 
@@ -310,10 +306,6 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
         const prevItem = itemsRef.current[prevIdx];
         if (prevItem) {
           setKbdItemId(prevItem.itemId);
-          const el = itemRefs.current.get(prevItem.itemId);
-          try {
-            el?.scrollIntoView({ block: 'start', behavior: 'smooth' });
-          } catch {}
         }
       }
     };
@@ -323,6 +315,18 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
       document.removeEventListener('keydown', handleKeyDown);
     };
   }, []);
+
+  // Scroll focused item into view after DOM commits (ensures correct position after list mutations)
+  useLayoutEffect(() => {
+    if (kbdItemId) {
+      const el = itemRefs.current.get(kbdItemId);
+      if (el) {
+        try {
+          el.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        } catch {}
+      }
+    }
+  }, [kbdItemId]);
 
   return (
     <Stack spacing={1}>
