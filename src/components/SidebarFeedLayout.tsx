@@ -232,14 +232,15 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
     return set;
   }, [allItems, site.siteId, readStatus]);
 
-  // Filtered items — visible list (all or unread only)
+  // Filtered items — visible list (all or unread only, but keep focused item even if read)
   const items = useMemo(
     () =>
       allItems.filter(data => {
         if (showReadItems) return true;
+        if (data.itemId === kbdItemId) return true;
         return !readItemIdSet.has(data.itemId);
       }),
-    [allItems, showReadItems, readItemIdSet],
+    [allItems, showReadItems, readItemIdSet, kbdItemId],
   );
 
   // Build a Set of *unread* itemId values for O(1) mark-as-read checks and filtering
