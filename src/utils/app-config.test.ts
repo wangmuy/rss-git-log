@@ -11,12 +11,12 @@ afterEach(() => {
 });
 
 describe('app config storage', () => {
-  it('defaults auto-commit off and local cache to 30 files per site', () => {
+  it('defaults auto-commit off and local cache to 5 files per site', () => {
     const config = createDefaultAppConfig();
 
     expect(config.autoCommit.enabled).toBe(false);
     expect(config.autoCommit.intervalSeconds).toBe(300);
-    expect(config.localCache.filesPerSite).toBe(30);
+    expect(config.localCache.filesPerSite).toBe(5);
   });
 
   it('saves and loads config from localStorage', () => {
