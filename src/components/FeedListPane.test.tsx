@@ -1,8 +1,9 @@
-import { describe, expect, it, vi } from 'vitest';
+import { describe, expect, it, vi, afterEach } from 'vitest';
 import { render, waitFor, fireEvent } from '@testing-library/react';
 import { FeedListPane } from './SidebarFeedLayout';
 import { SiteWithStatus, RSSItem } from '@/types/rss';
 import { generateItemIdFromItem } from '@/utils/item-id';
+import { useReaderStore } from '@/store/readerStore';
 
 const createMockSite = (feedItems: RSSItem[]): SiteWithStatus => ({
   siteId: 'test-site',
@@ -22,8 +23,8 @@ const createMockItem = (id: number): RSSItem => ({
   pubDate: `2026-01-0${id}T12:00:00Z`,
 });
 
-function makeReadFn(readItemIds: Set<string>): (siteId: string, itemId: string) => boolean {
-  return (_siteId: string, itemId: string) => readItemIds.has(itemId);
+function setReadItemIds(readItemIds: Set<string>): void {
+  useReaderStore.setState({ readStatus: { 'test-site': readItemIds } });
 }
 
 /** Return FeedItem Paper containers rendered inside this test's render container. */
@@ -31,17 +32,20 @@ function getFeedItems(container: HTMLElement): Element[] {
   return [...container.querySelectorAll('[id="FeedItem-root"]')];
 }
 
+afterEach(() => {
+  useReaderStore.getState().clearSession();
+});
+
 describe('FeedListPane show/hide logic', () => {
   it('shows all items when showReadItems is false and none are read', () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3)];
     const site = createMockSite(feedItems);
-    const readFn = makeReadFn(new Set<string>());
+    setReadItemIds(new Set<string>());
 
     const container = render(
       <FeedListPane
         site={site}
         onMarkAsRead={() => {}}
-        isRead={readFn}
         showReadItems={false}
       />
     ).container;
@@ -54,13 +58,12 @@ describe('FeedListPane show/hide logic', () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2)];
     const site = createMockSite(feedItems);
     const itemId1 = generateItemIdFromItem(feedItems[0]);
-    const readFn = makeReadFn(new Set([itemId1]));
+    setReadItemIds(new Set([itemId1]));
 
     const container = render(
       <FeedListPane
         site={site}
         onMarkAsRead={() => {}}
-        isRead={readFn}
         showReadItems={true}
       />
     ).container;
@@ -74,13 +77,12 @@ describe('FeedListPane show/hide logic', () => {
     const site = createMockSite(feedItems);
     const itemId1 = generateItemIdFromItem(feedItems[0]);
     const itemId3 = generateItemIdFromItem(feedItems[2]);
-    const readFn = makeReadFn(new Set([itemId1, itemId3]));
+    setReadItemIds(new Set([itemId1, itemId3]));
 
     const container = render(
       <FeedListPane
         site={site}
         onMarkAsRead={() => {}}
-        isRead={readFn}
         showReadItems={false}
       />
     ).container;
@@ -94,13 +96,12 @@ describe('FeedListPane show/hide logic', () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3)];
     const site = createMockSite(feedItems);
     const itemId1 = generateItemIdFromItem(feedItems[0]);
-    const readFn = makeReadFn(new Set([itemId1]));
+    setReadItemIds(new Set([itemId1]));
 
     const container = render(
       <FeedListPane
         site={site}
         onMarkAsRead={() => {}}
-        isRead={readFn}
         showReadItems={false}
       />
     ).container;
@@ -113,13 +114,12 @@ describe('FeedListPane show/hide logic', () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2)];
     const site = createMockSite(feedItems);
     const itemId1 = generateItemIdFromItem(feedItems[0]);
-    const readFn = makeReadFn(new Set([itemId1]));
+    setReadItemIds(new Set([itemId1]));
 
     const { rerender, container } = render(
       <FeedListPane
         site={site}
         onMarkAsRead={() => {}}
-        isRead={readFn}
         showReadItems={false}
       />
     );
@@ -133,7 +133,6 @@ describe('FeedListPane show/hide logic', () => {
       <FeedListPane
         site={site}
         onMarkAsRead={() => {}}
-        isRead={readFn}
         showReadItems={true}
       />
     );
@@ -156,14 +155,13 @@ describe('Keyboard navigation j/k behavior', () => {
       createMockItem(5),
     ];
     const site = createMockSite(feedItems);
-    const readFn = makeReadFn(new Set<string>());
+    setReadItemIds(new Set<string>());
 
     const onMarkAsRead = vi.fn();
     const container = render(
       <FeedListPane
         site={site}
         onMarkAsRead={onMarkAsRead}
-        isRead={readFn}
         showReadItems={false}
       />
     ).container;
@@ -185,14 +183,13 @@ describe('Keyboard navigation j/k behavior', () => {
   it('pressing j multiple times marks items sequentially', async () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3)];
     const site = createMockSite(feedItems);
-    const readFn = makeReadFn(new Set<string>());
+    setReadItemIds(new Set<string>());
 
     const onMarkAsRead = vi.fn();
     render(
       <FeedListPane
         site={site}
         onMarkAsRead={onMarkAsRead}
-        isRead={readFn}
         showReadItems={false}
       />
     );
@@ -210,14 +207,13 @@ describe('Keyboard navigation j/k behavior', () => {
   it('unread count should decrease by exactly 1 per j keypress', async () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3)];
     const site = createMockSite(feedItems);
-    const readFn = makeReadFn(new Set<string>());
+    setReadItemIds(new Set<string>());
 
     const onMarkAsRead = vi.fn();
     render(
       <FeedListPane
         site={site}
         onMarkAsRead={onMarkAsRead}
-        isRead={readFn}
         showReadItems={false}
       />
     );
@@ -234,14 +230,13 @@ describe('Keyboard navigation j/k behavior', () => {
   it('k key does not mark items as read', async () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2)];
     const site = createMockSite(feedItems);
-    const readFn = makeReadFn(new Set<string>());
+    setReadItemIds(new Set<string>());
 
     const onMarkAsRead = vi.fn();
     render(
       <FeedListPane
         site={site}
         onMarkAsRead={onMarkAsRead}
-        isRead={readFn}
         showReadItems={false}
       />
     );
@@ -252,19 +247,18 @@ describe('Keyboard navigation j/k behavior', () => {
     expect(onMarkAsRead).not.toHaveBeenCalled();
   });
 
-  it('reading status from isRead affects which items get marked', async () => {
+  it('reading status from store readStatus affects which items get marked', async () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3)];
     const site = createMockSite(feedItems);
     const itemId1 = generateItemIdFromItem(feedItems[0]);
     const itemId2 = generateItemIdFromItem(feedItems[1]);
-    const readFn = makeReadFn(new Set([itemId1, itemId2]));
+    setReadItemIds(new Set([itemId1, itemId2]));
 
     const onMarkAsRead = vi.fn();
     const container = render(
       <FeedListPane
         site={site}
         onMarkAsRead={onMarkAsRead}
-        isRead={readFn}
         showReadItems={false}
       />
     ).container;
@@ -280,7 +274,7 @@ describe('Keyboard navigation j/k behavior', () => {
     });
   });
 
-  it('simulates post-refresh: isRead returns true for many items, j only marks first visible unread', async () => {
+  it('simulates post-refresh: readStatus has many items, j only marks first visible unread', async () => {
     const feedItems: RSSItem[] = [
       createMockItem(1),
       createMockItem(2),
@@ -290,15 +284,13 @@ describe('Keyboard navigation j/k behavior', () => {
     ];
     const site = createMockSite(feedItems);
     const itemIds = feedItems.map(i => generateItemIdFromItem(i));
-
-    const readFn = makeReadFn(new Set([itemIds[0], itemIds[1], itemIds[2], itemIds[3]]));
+    setReadItemIds(new Set([itemIds[0], itemIds[1], itemIds[2], itemIds[3]]));
 
     const onMarkAsRead = vi.fn();
     const container = render(
       <FeedListPane
         site={site}
         onMarkAsRead={onMarkAsRead}
-        isRead={readFn}
         showReadItems={false}
       />
     ).container;
@@ -317,14 +309,13 @@ describe('Keyboard navigation j/k behavior', () => {
   it('rapid j presses should each mark exactly one item', async () => {
     const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3), createMockItem(4)];
     const site = createMockSite(feedItems);
-    const readFn = makeReadFn(new Set<string>());
+    setReadItemIds(new Set<string>());
 
     const onMarkAsRead = vi.fn();
     render(
       <FeedListPane
         site={site}
         onMarkAsRead={onMarkAsRead}
-        isRead={readFn}
         showReadItems={false}
       />
     );

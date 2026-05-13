@@ -33,7 +33,6 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   showReadItems
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
-  const isRead = useReaderStore(state => state.isRead);
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
   const markSiteAsRead = useReaderStore(state => state.markSiteAsRead);
 
@@ -153,7 +152,6 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               <FeedListPane
                 site={selectedSite}
                 onMarkAsRead={onMarkAsRead}
-                isRead={isRead}
                 showReadItems={showReadItems}
               />
             </Box>
@@ -196,11 +194,11 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 interface FeedListPaneProps {
   site: SiteWithStatus;
   onMarkAsRead: (siteId: string, itemId: string) => void;
-  isRead: (siteId: string, itemId: string) => boolean;
   showReadItems: boolean;
 }
 
-export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, isRead, showReadItems }) => {
+export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showReadItems }) => {
+  const readStatus = useReaderStore(state => state.readStatus);
   const [kbdItemId, setKbdItemId] = useState<string | null>(null);
   const kbdItemIdRef = useRef<string | null>(null);
   kbdItemIdRef.current = kbdItemId;
@@ -226,13 +224,13 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
 
   // Build a Set of read-item ids from the store once — used by filtering and the keyboard handler
   const readItemIdSet = useMemo(() => {
+    const siteReadStatus = readStatus[site.siteId];
     const set = new Set<string>();
     for (const data of allItems) {
-      const read = isRead(site.siteId, data.itemId);
-      if (read) set.add(data.itemId);
+      if (siteReadStatus?.has(data.itemId)) set.add(data.itemId);
     }
     return set;
-  }, [allItems, site.siteId, isRead]);
+  }, [allItems, site.siteId, readStatus]);
 
   // Filtered items — visible list (all or unread only)
   const items = useMemo(
