@@ -91,12 +91,20 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
       }
       newReadStatus[siteId].add(itemId);
 
-      localStorage.setItem('rss-reader-session', JSON.stringify({
-        readStatus: Object.fromEntries(
-          Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
-        ),
-        settings: state.settings
-      }));
+      try {
+        localStorage.setItem('rss-reader-session', JSON.stringify({
+          readStatus: Object.fromEntries(
+            Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
+          ),
+          settings: state.settings
+        }));
+      } catch (e) {
+        if ((e as Error).name === 'QuotaExceededError') {
+          console.warn('localStorage quota exceeded, read status will not persist across sessions');
+        } else {
+          throw e;
+        }
+      }
 
       const updatedSites = state.sites.map(site => {
         if (site.siteId === siteId) {
@@ -129,12 +137,20 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         newReadStatus[siteId].add(itemId);
       });
 
-      localStorage.setItem('rss-reader-session', JSON.stringify({
-        readStatus: Object.fromEntries(
-          Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
-        ),
-        settings: state.settings
-      }));
+      try {
+        localStorage.setItem('rss-reader-session', JSON.stringify({
+          readStatus: Object.fromEntries(
+            Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
+          ),
+          settings: state.settings
+        }));
+      } catch (e) {
+        if ((e as Error).name === 'QuotaExceededError') {
+          console.warn('localStorage quota exceeded, read status will not persist across sessions');
+        } else {
+          throw e;
+        }
+      }
 
       const updatedSites = state.sites.map(s => {
         if (s.siteId === siteId) {
@@ -161,12 +177,20 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         });
       });
 
-      localStorage.setItem('rss-reader-session', JSON.stringify({
-        readStatus: Object.fromEntries(
-          Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
-        ),
-        settings: state.settings
-      }));
+      try {
+        localStorage.setItem('rss-reader-session', JSON.stringify({
+          readStatus: Object.fromEntries(
+            Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
+          ),
+          settings: state.settings
+        }));
+      } catch (e) {
+        if ((e as Error).name === 'QuotaExceededError') {
+          console.warn('localStorage quota exceeded, read status will not persist across sessions');
+        } else {
+          throw e;
+        }
+      }
 
       return { readStatus: newReadStatus };
     });
@@ -271,12 +295,20 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         }
       });
 
-      localStorage.setItem('rss-reader-session', JSON.stringify({
-        readStatus: Object.fromEntries(
-          Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
-        ),
-        settings: state.settings
-      }));
+      try {
+        localStorage.setItem('rss-reader-session', JSON.stringify({
+          readStatus: Object.fromEntries(
+            Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
+          ),
+          settings: state.settings
+        }));
+      } catch (e) {
+        if ((e as Error).name === 'QuotaExceededError') {
+          console.warn('localStorage quota exceeded, read status will not persist across sessions');
+        } else {
+          throw e;
+        }
+      }
 
       return { readStatus: newReadStatus };
     });
