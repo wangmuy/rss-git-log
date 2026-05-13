@@ -19,7 +19,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const { config, loading: configLoading, error: configError, reload: reloadConfig } = useConfig();
   const { sites, loading: feedsLoading, error: feedsError, refresh, markAsRead, fetchSiteFeed } = useRSSFeeds(config);
   const loadingSites = useReaderStore(state => state.loadingSites);
-  const { commit, committing, lastCommit, error: commitError } = useCommit();
+  const { commit, committing, lastCommit, error: commitError, clearError } = useCommit();
   const [localConfig, setLocalConfig] = useState<RSSConfig | null>(config);
   const [appConfig, setAppConfig] = useState(() => loadAppConfig());
   const [showReadItems, setShowReadItems] = useState(false);
@@ -37,6 +37,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const error = configError || feedsError || commitError;
 
   const handleRefresh = async () => {
+    clearError();
     await refresh();
   };
 

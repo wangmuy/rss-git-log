@@ -8,6 +8,7 @@ interface UseCommitReturn {
   committing: boolean;
   lastCommit: Date | null;
   error: string | null;
+  clearError: () => void;
 }
 
 /**
@@ -101,6 +102,7 @@ export function useCommit(): UseCommitReturn {
     commit,
     committing,
     lastCommit,
-    error
+    error,
+    clearError: () => setError(null)
   };
 }
