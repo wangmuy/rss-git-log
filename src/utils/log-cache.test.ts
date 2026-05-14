@@ -58,4 +58,21 @@ describe('log cache', () => {
     expect(getCachedLogFile(github, 'site', 'logs/site/2026-01-01.json')).toBeNull();
     expect(getCachedLogFile(github, 'site', 'logs/site/2026-01-02.json')).toBeNull();
   });
+
+  it('strips source field before caching', () => {
+    saveAppConfig(createDefaultAppConfig({ github, localCache: { filesPerSite: 1 } }));
+    const data: SiteLogData = {
+      metadata: { siteId: 'site', siteName: 'Site', oldestItemDate: '2026-01-01', newestItemDate: '2026-01-01', itemCount: 1, generatedAt: '' },
+      items: [{ itemId: 'id1', title: 'Title', pubDate: '2026-01-01', readAt: '2026-01-01T00:00:00.000Z', source: 'bucket' }]
+    };
+
+    cacheLogFile(github, 'site', 'logs/site/2026-01-01.json', data);
+
+    const cached = getCachedLogFile(github, 'site', 'logs/site/2026-01-01.json');
+    expect(cached?.items[0].itemId).toBe('id1');
+    expect(cached?.items[0].title).toBe('Title');
+    expect(cached?.items[0].pubDate).toBe('2026-01-01');
+    expect(cached?.items[0].readAt).toBe('2026-01-01T00:00:00.000Z');
+    expect(cached?.items[0].source).toBeUndefined();
+  });
 });

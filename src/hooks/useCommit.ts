@@ -2,6 +2,7 @@ import { useState, useCallback, useEffect } from 'react';
 import { commitAllFeedItems } from '@/utils/log-file';
 import { useReaderStore } from '../store/readerStore';
 import { loadAppConfig } from '@/utils/app-config';
+import { yieldToMain } from '@/utils/yield';
 
 interface UseCommitReturn {
   commit: () => Promise<boolean>;
@@ -52,6 +53,7 @@ export function useCommit(): UseCommitReturn {
           }));
           results[site.siteId] = await commitAllFeedItems(site.siteId, site.name, itemsWithReadStatus);
         }
+        await yieldToMain();
       }
 
       const allSuccess = Object.values(results).every(success => success);

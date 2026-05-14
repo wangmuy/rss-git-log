@@ -1,6 +1,7 @@
 import { GitHubConfig } from '@/types/config';
 import { SiteLogData } from '@/types/log';
 import { loadAppConfig } from './app-config';
+import { compressedGetItem, compressedSetItem } from './compressed-storage';
 
 const LOG_CACHE_STORAGE_KEY = 'rss-reader-log-cache';
 
@@ -27,7 +28,7 @@ const hasLocalStorage = typeof localStorage !== 'undefined';
 
 function loadCache(): CachedLogEntries {
   if (!hasLocalStorage) return {};
-  const stored = localStorage.getItem(LOG_CACHE_STORAGE_KEY);
+  const stored = compressedGetItem(LOG_CACHE_STORAGE_KEY);
   if (!stored) return {};
 
   try {
@@ -39,11 +40,7 @@ function loadCache(): CachedLogEntries {
 
 function saveCache(entries: CachedLogEntries): void {
   if (!hasLocalStorage) return;
-  try {
-    localStorage.setItem(LOG_CACHE_STORAGE_KEY, JSON.stringify(entries));
-  } catch {
-    console.warn('localStorage quota exceeded, log cache will not persist');
-  }
+  compressedSetItem(LOG_CACHE_STORAGE_KEY, JSON.stringify(entries));
 }
 
 export function getCachedLogFile(
@@ -66,6 +63,13 @@ export function cacheLogFile(
   const appConfig = loadAppConfig();
   if (appConfig.localCache.filesPerSite === 0) return;
 
+  const stripped: SiteLogData = {
+    ...data,
+    items: data.items.map(({ itemId, title, pubDate, readAt }) => ({
+      itemId, title, pubDate, readAt
+    }))
+  };
+
   const entries = loadCache();
   entries[getCacheKey(config, siteId, path)] = {
     repoKey: getRepoKey(config),
@@ -73,7 +77,7 @@ export function cacheLogFile(
     path,
     fetchedAt: new Date().toISOString(),
     itemCount: data.items.length,
-    data
+    data: stripped
   };
 
   saveCache(entries);

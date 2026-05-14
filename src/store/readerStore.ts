@@ -3,6 +3,7 @@ import { RSSFeed, RSSItem, SiteWithStatus } from '@/types/rss';
 import { ReaderSettings } from '@/types/config';
 import { ReadStatus } from '@/types/log';
 import { generateItemIdFromItem } from '@/utils/item-id';
+import { compressedGetItem, compressedSetItem } from '@/utils/compressed-storage';
 
 interface ReaderState {
   feeds: RSSFeed[];
@@ -91,20 +92,12 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
       }
       newReadStatus[siteId].add(itemId);
 
-      try {
-        localStorage.setItem('rss-reader-session', JSON.stringify({
+      compressedSetItem('rss-reader-session', JSON.stringify({
           readStatus: Object.fromEntries(
             Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
           ),
           settings: state.settings
         }));
-      } catch (e) {
-        if ((e as Error).name === 'QuotaExceededError') {
-          console.warn('localStorage quota exceeded, read status will not persist across sessions');
-        } else {
-          throw e;
-        }
-      }
 
       const updatedSites = state.sites.map(site => {
         if (site.siteId === siteId) {
@@ -137,20 +130,12 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         newReadStatus[siteId].add(itemId);
       });
 
-      try {
-        localStorage.setItem('rss-reader-session', JSON.stringify({
+      compressedSetItem('rss-reader-session', JSON.stringify({
           readStatus: Object.fromEntries(
             Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
           ),
           settings: state.settings
         }));
-      } catch (e) {
-        if ((e as Error).name === 'QuotaExceededError') {
-          console.warn('localStorage quota exceeded, read status will not persist across sessions');
-        } else {
-          throw e;
-        }
-      }
 
       const updatedSites = state.sites.map(s => {
         if (s.siteId === siteId) {
@@ -177,20 +162,12 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         });
       });
 
-      try {
-        localStorage.setItem('rss-reader-session', JSON.stringify({
+      compressedSetItem('rss-reader-session', JSON.stringify({
           readStatus: Object.fromEntries(
             Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
           ),
           settings: state.settings
         }));
-      } catch (e) {
-        if ((e as Error).name === 'QuotaExceededError') {
-          console.warn('localStorage quota exceeded, read status will not persist across sessions');
-        } else {
-          throw e;
-        }
-      }
 
       return { readStatus: newReadStatus };
     });
@@ -295,20 +272,12 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         }
       });
 
-      try {
-        localStorage.setItem('rss-reader-session', JSON.stringify({
+      compressedSetItem('rss-reader-session', JSON.stringify({
           readStatus: Object.fromEntries(
             Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
           ),
           settings: state.settings
         }));
-      } catch (e) {
-        if ((e as Error).name === 'QuotaExceededError') {
-          console.warn('localStorage quota exceeded, read status will not persist across sessions');
-        } else {
-          throw e;
-        }
-      }
 
       return { readStatus: newReadStatus };
     });
@@ -360,7 +329,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
 
   loadFromLocalStorage: () => {
     try {
-      const stored = localStorage.getItem('rss-reader-session');
+      const stored = compressedGetItem('rss-reader-session');
       if (stored) {
         const parsed = JSON.parse(stored);
 
@@ -390,7 +359,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         ),
         settings: state.settings
       };
-      localStorage.setItem('rss-reader-session', JSON.stringify(data));
+      compressedSetItem('rss-reader-session', JSON.stringify(data));
     } catch (error) {
       console.error('Failed to save to localStorage:', error);
     }

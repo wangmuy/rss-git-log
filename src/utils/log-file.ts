@@ -2,6 +2,7 @@ import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig, lis
 import { LogItem, SiteLogData } from '@/types/log';
 import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
+import { yieldToMain } from './yield';
 
 const MAX_LOG_ITEMS_PER_FILE = 200;
 const FILENAME_DATE_REGEX = /^(\d{4}-\d{2}-\d{2})(-\d+)?\.json$/;
@@ -316,6 +317,7 @@ export async function commitAllFeedItems(
         console.error(`  Failed to commit ${bucketItems.length} items to ${dateStr}`);
         allSuccess = false;
       }
+      await yieldToMain();
     }
     
     return allSuccess;
