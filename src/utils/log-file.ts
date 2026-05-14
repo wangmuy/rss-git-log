@@ -511,23 +511,27 @@ export async function getLogItemsForSite(
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectory(client, siteDir);
 
-  for (const file of files) {
-    if (file.type !== 'file') continue;
-    if (!file.name.endsWith('.json')) continue;
-    if (file.name.includes('-allread')) continue;
+  const logFiles = files.filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'));
 
-    const filePath = file.path;
-    try {
+  // Read all log files in parallel — they are independent
+  const results = await Promise.allSettled(
+    logFiles.map(async (file) => {
+      const filePath = file.path;
       const data = getCachedLogFile(config, siteId, filePath) ??
         await readFromGitHub<SiteLogData>(client, filePath);
       if (data) {
         cacheLogFile(config, siteId, filePath, data);
-        data.items.forEach(item => {
-          itemsMap.set(item.itemId, item);
-        });
+        return data.items;
       }
-    } catch {
-      // File doesn't exist, continue
+      return [];
+    })
+  );
+
+  for (const result of results) {
+    if (result.status === 'fulfilled') {
+      for (const item of result.value) {
+        itemsMap.set(item.itemId, item);
+      }
     }
   }
 

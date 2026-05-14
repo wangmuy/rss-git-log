@@ -5,7 +5,6 @@ import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
 import { getLogItemsForSite } from '@/utils/log-file';
-import { clearCachedLogFilesForSite } from '@/utils/log-cache';
 import { generateItemIdFromItem } from '@/utils/item-id';
 
 const getStoreState = () => useReaderStore.getState();
@@ -87,7 +86,6 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           const appConfig = loadAppConfig();
           if (appConfig.githubWriteCapability.canWrite) {
             try {
-              clearCachedLogFilesForSite(appConfig.github, nextSiteId);
               const githubItems = await getLogItemsForSite(nextSiteId);
               if (githubItems.size > 0) {
                 const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
@@ -155,61 +153,63 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     setError(null);
     setStoreError(null);
 
-    try {
-      for (const configSite of config.sites) {
-        const nextSiteId = getSiteId(configSite.url);
-        const site = sites.find(s => s.siteId === nextSiteId);
-        if (!site) continue;
+    const REFRESH_CONCURRENCY = 3;
 
-        setSiteLoading(nextSiteId, true);
-        updateSite(nextSiteId, [], 0);
+    // Process sites with limited concurrency
+    for (let i = 0; i < config.sites.length; i += REFRESH_CONCURRENCY) {
+      const batch = config.sites.slice(i, i + REFRESH_CONCURRENCY);
 
-        try {
-          const feed = await fetchRSSWithPolicy(configSite.url, loadAppConfig().corsPolicy);
-          const items = feed?.items || [];
+      await Promise.allSettled(
+        batch.map(async (configSite: any) => {
+          const nextSiteId = getSiteId(configSite.url);
+          const site = sites.find(s => s.siteId === nextSiteId);
+          if (!site) return;
 
-          const appConfig = loadAppConfig();
-          if (appConfig.githubWriteCapability.canWrite) {
-            try {
-              clearCachedLogFilesForSite(appConfig.github, nextSiteId);
-              const githubItems = await getLogItemsForSite(nextSiteId);
-              if (githubItems.size > 0) {
-                const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
-                const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
-                githubItems.forEach((logItem, itemId) => {
-                  if (!rssItemIds.has(itemId)) {
-                    historicalItems.push({ itemId, title: logItem.title, pubDate: logItem.pubDate });
+          setSiteLoading(nextSiteId, true);
+          updateSite(nextSiteId, [], 0);
+
+          try {
+            const feed = await fetchRSSWithPolicy(configSite.url, loadAppConfig().corsPolicy);
+            const items = feed?.items || [];
+
+              const appConfig = loadAppConfig();
+              if (appConfig.githubWriteCapability.canWrite) {
+                try {
+                  const githubItems = await getLogItemsForSite(nextSiteId);
+                if (githubItems.size > 0) {
+                  const rssItemIds = new Set(items.map((i: any) => generateItemIdFromItem(i)));
+                  const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
+                  githubItems.forEach((logItem: any, itemId: string) => {
+                    if (!rssItemIds.has(itemId)) {
+                      historicalItems.push({ itemId, title: logItem.title, pubDate: logItem.pubDate });
+                    }
+                  });
+                  if (historicalItems.length > 0) {
+                    addHistoricalItems(nextSiteId, historicalItems);
                   }
-                });
-                if (historicalItems.length > 0) {
-                  addHistoricalItems(nextSiteId, historicalItems);
+                  mergeGitHubReadStatus(nextSiteId, githubItems);
                 }
-                mergeGitHubReadStatus(nextSiteId, githubItems);
+              } catch (e) {
+                console.error('Failed to sync GitHub read status for', nextSiteId, e);
               }
-            } catch (e) {
-              console.error('Failed to sync GitHub read status for', nextSiteId, e);
             }
-          }
 
-          const currentStoreState = getStoreState();
-          const currentSite = currentStoreState.sites.find(s => s.siteId === nextSiteId);
-          const allItems = currentSite?.items || items;
-          const unreadCount = currentStoreState.getUnreadCount(nextSiteId);
-          updateSite(nextSiteId, allItems, unreadCount);
-        } catch (err: any) {
-          console.error('Failed to fetch feed for', nextSiteId, err);
-        } finally {
-          setSiteLoading(nextSiteId, false);
-        }
-      }
-    } catch (err: any) {
-      const errorMsg = err.message || 'Failed to refresh feeds';
-      setError(errorMsg);
-      setStoreError(errorMsg);
-    } finally {
-      setLoading(false);
-      setStoreLoading(false);
+            const currentStoreState = getStoreState();
+            const currentSite = currentStoreState.sites.find((s: any) => s.siteId === nextSiteId);
+            const allItems = currentSite?.items || items;
+            const unreadCount = currentStoreState.getUnreadCount(nextSiteId);
+            updateSite(nextSiteId, allItems, unreadCount);
+          } catch (err: any) {
+            console.error('Failed to fetch feed for', nextSiteId, err);
+          } finally {
+            setSiteLoading(nextSiteId, false);
+          }
+        })
+      );
     }
+
+    setLoading(false);
+    setStoreLoading(false);
   }, [config, setStoreLoading, setStoreError, setSiteLoading, updateSite, addHistoricalItems, mergeGitHubReadStatus]);
 
   return {
