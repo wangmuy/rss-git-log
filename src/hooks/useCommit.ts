@@ -42,17 +42,33 @@ export function useCommit(): UseCommitReturn {
 
       const results: Record<string, boolean> = {};
 
-      for (const site of sites) {
-        const allItems = getAllItems(site.siteId);
-        if (allItems.length > 0) {
-          const itemsWithReadStatus = allItems.map(item => ({
-            itemId: item.itemId,
-            title: item.title,
-            pubDate: item.pubDate,
-            readAt: isRead(site.siteId, item.itemId) ? new Date().toISOString() : undefined
-          }));
-          results[site.siteId] = await commitAllFeedItems(site.siteId, site.name, itemsWithReadStatus);
-        }
+      // Process sites with limited concurrency to avoid rate limiting
+      const CONCURRENCY = 2;
+      const batches: typeof sites[] = [];
+      for (let i = 0; i < sites.length; i += CONCURRENCY) {
+        batches.push(sites.slice(i, i + CONCURRENCY));
+      }
+
+      for (const batch of batches) {
+        const batchResults = await Promise.allSettled(
+          batch.map(async (site) => {
+            const allItems = getAllItems(site.siteId);
+            if (allItems.length === 0) return;
+            const itemsWithReadStatus = allItems.map(item => ({
+              itemId: item.itemId,
+              title: item.title,
+              pubDate: item.pubDate,
+              readAt: isRead(site.siteId, item.itemId) ? new Date().toISOString() : undefined
+            }));
+            results[site.siteId] = await commitAllFeedItems(site.siteId, site.name, itemsWithReadStatus);
+          })
+        );
+        batchResults.forEach((r, i) => {
+          if (r.status === 'rejected') {
+            const site = batch[i];
+            results[site.siteId] = false;
+          }
+        });
         await yieldToMain();
       }
 

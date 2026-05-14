@@ -2,7 +2,6 @@ import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig, lis
 import { LogItem, SiteLogData } from '@/types/log';
 import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
-import { yieldToMain } from './yield';
 
 const MAX_LOG_ITEMS_PER_FILE = 200;
 const FILENAME_DATE_REGEX = /^(\d{4}-\d{2}-\d{2})(-\d+)?\.json$/;
@@ -307,19 +306,22 @@ export async function commitAllFeedItems(
   try {
     // Group items by their pubDate
     const buckets = groupByPubDate(logItems);
-    
-    let allSuccess = true;
-    
-    // Process buckets by date descending (newest first)
-    for (const [dateStr, bucketItems] of buckets) {
-      const success = await mergeItemsIntoBucket(client, siteId, siteName, dateStr, bucketItems, cfg);
-      if (!success) {
-        console.error(`  Failed to commit ${bucketItems.length} items to ${dateStr}`);
-        allSuccess = false;
+
+    // Process all buckets in parallel (different dates = different files, no conflicts)
+    const results = await Promise.allSettled(
+      Array.from(buckets.entries()).map(([dateStr, bucketItems]) =>
+        mergeItemsIntoBucket(client, siteId, siteName, dateStr, bucketItems, cfg)
+      )
+    );
+
+    const allSuccess = results.every(r => r.status === 'fulfilled' && r.value);
+    results.forEach((r, i) => {
+      if (r.status === 'rejected' || !r.value) {
+        const dateStr = Array.from(buckets.keys())[i];
+        console.error(`  Failed to commit ${buckets.get(dateStr)!.length} items to ${dateStr}`);
       }
-      await yieldToMain();
-    }
-    
+    });
+
     return allSuccess;
   } catch (error) {
     console.error('Failed to commit feed items:', error);
