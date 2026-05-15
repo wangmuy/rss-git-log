@@ -14,7 +14,6 @@ import {
 import {
   Refresh as RefreshIcon,
   Save as SaveIcon,
-  Schedule as ScheduleIcon,
   Settings as SettingsIcon
 } from '@mui/icons-material';
 
@@ -23,6 +22,7 @@ interface HeaderProps {
   onManualCommit: () => void;
   onOpenConfig: () => void;
   isCommitting: boolean;
+  isLoading: boolean;
   canWrite: boolean;
   lastCommit: Date | null;
   showReadItems: boolean;
@@ -34,6 +34,7 @@ export const Header: React.FC<HeaderProps> = ({
   onManualCommit,
   onOpenConfig,
   isCommitting,
+  isLoading,
   canWrite,
   lastCommit,
   showReadItems,
@@ -81,18 +82,22 @@ export const Header: React.FC<HeaderProps> = ({
           {lastCommit && (
             <Tooltip title={formatLastCommit()}>
               <Chip
-                icon={<ScheduleIcon sx={{ fontSize: 16 }} />}
-                label={formatLastCommit()}
+                label={lastCommit ? `Commited ${lastCommit.toLocaleTimeString()}` : 'No commits'}
                 size="small"
                 variant="outlined"
-                sx={{
-                  color: 'inherit',
-                  borderColor: 'rgba(255,255,255,0.3)',
-                  display: { xs: 'none', sm: 'inline-flex' }
-                }}
+                sx={{ height: 20, fontSize: '0.7rem' }}
               />
             </Tooltip>
           )}
+          {isLoading && (
+            <Chip
+              label="Loading..."
+              size="small"
+              color="primary"
+              sx={{ height: 20, fontSize: '0.7rem' }}
+            />
+          )}
+
         </Box>
 
         {canWrite && (

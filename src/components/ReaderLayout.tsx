@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Container, Box, Typography, Alert, Snackbar } from '@mui/material';
+import { Container, Box, Alert, Snackbar } from '@mui/material';
 import { Header } from './Header';
 import { SubscriptionManager } from './SubscriptionManager';
 import { SidebarFeedLayout } from './SidebarFeedLayout';
@@ -73,6 +73,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
         onManualCommit={handleManualCommit}
         onOpenConfig={onOpenConfig}
         isCommitting={committing}
+        isLoading={loading}
         canWrite={appConfig.githubWriteCapability.canWrite}
         lastCommit={lastCommit}
         showReadItems={showReadItems}
@@ -91,7 +92,7 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
 
         {/* Feed List */}
         <Box sx={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
-          {!loading && !error && config && sites.length > 0 && (
+          {config && sites.length > 0 && (
             <SidebarFeedLayout
               sites={sites}
               onMarkAsRead={markAsRead}
@@ -100,13 +101,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
               showReadItems={showReadItems}
               onShowReadItemsChange={setShowReadItems}
             />
-          )}
-          {loading && (
-            <Box sx={{ width: '100%', mt: 2 }}>
-              <Typography variant="body2" color="text.secondary">
-                Loading feeds...
-              </Typography>
-            </Box>
           )}
           {error && (
             <Alert
