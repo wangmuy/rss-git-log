@@ -1,4 +1,4 @@
-import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig, listDirectory } from './github-api';
+import { getStoredConfig, readFromGitHubWithProvider, writeToGitHubWithProvider, listDirectoryWithProvider } from './github-api';
 import { LogItem, SiteLogData } from '@/types/log';
 import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
@@ -72,12 +72,11 @@ export function parseLogFilename(name: string): { dateStr: string; overflow: num
  * Returns an array of { filePath, data } for all non-allread .json files.
  */
 async function listSiteFiles(
-  client: ReturnType<typeof createGitHubClient>,
   siteId: string,
   cfg: GitHubConfig
 ): Promise<Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>> {
   const siteDir = getSiteLogDir(siteId);
-  const files = await listDirectory(client, siteDir);
+  const files = await listDirectoryWithProvider(cfg, siteDir);
   
   const results: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }> = [];
   
@@ -92,7 +91,7 @@ async function listSiteFiles(
     const filePath = file.path;
     let data: SiteLogData | null = null;
     try {
-      data = getCachedLogFile(cfg, siteId, filePath) ?? await readFromGitHub<SiteLogData>(client, filePath);
+      data = getCachedLogFile(cfg, siteId, filePath) ?? await readFromGitHubWithProvider(cfg, filePath) as SiteLogData;
       if (data) cacheLogFile(cfg, siteId, filePath, data);
     } catch {
       // File doesn't exist or read error
@@ -115,9 +114,8 @@ async function listSiteFiles(
  */
 export async function locateLogFileByDate(siteId: string, dateStr: string, config?: GitHubConfig): Promise<string | null> {
   const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
   
-  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  const siteFiles = await listSiteFiles(siteId, cfg);
   
   for (const sf of siteFiles) {
     if (sf.fileDate === dateStr && sf.data && sf.data.items.length < MAX_LOG_ITEMS_PER_FILE) {
@@ -134,9 +132,8 @@ export async function locateLogFileByDate(siteId: string, dateStr: string, confi
  */
 async function findOverflowCount(siteId: string, dateStr: string, config?: GitHubConfig): Promise<number> {
   const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
   
-  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  const siteFiles = await listSiteFiles(siteId, cfg);
   
   let maxOverflow = -1;
   for (const sf of siteFiles) {
@@ -157,9 +154,8 @@ async function findOverflowCount(siteId: string, dateStr: string, config?: GitHu
  */
 export async function findOverflowBucket(siteId: string, dateStr: string, config?: GitHubConfig): Promise<string | null> {
   const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
   
-  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  const siteFiles = await listSiteFiles(siteId, cfg);
   
   // First check if any existing file for this date has space
   for (const sf of siteFiles) {
@@ -179,9 +175,8 @@ export async function findOverflowBucket(siteId: string, dateStr: string, config
  */
 async function getSiteFileDates(siteId: string, config?: GitHubConfig): Promise<string[]> {
   const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
   
-  const siteFiles = await listSiteFiles(client, siteId, cfg);
+  const siteFiles = await listSiteFiles(siteId, cfg);
   const dates = new Set<string>();
   
   for (const sf of siteFiles) {
@@ -200,7 +195,6 @@ async function getSiteFileDates(siteId: string, config?: GitHubConfig): Promise<
  * Returns true if write succeeded (or no new items).
  */
 async function mergeItemsIntoBucket(
-  client: ReturnType<typeof createGitHubClient>,
   siteId: string,
   siteName: string,
   dateStr: string,
@@ -214,7 +208,7 @@ async function mergeItemsIntoBucket(
   let existingData: SiteLogData | null = null;
   
   if (targetFile) {
-    existingData = await readFromGitHub<SiteLogData>(client, targetFile);
+    existingData = await readFromGitHubWithProvider(config, targetFile) as SiteLogData;
   }
   
   // If no suitable file found, try overflow
@@ -222,7 +216,7 @@ async function mergeItemsIntoBucket(
     const overflowFile = await findOverflowBucket(siteId, dateStr, config);
     if (overflowFile) {
       // Check if it's an existing file
-      const siteFiles = await listSiteFiles(client, siteId, config);
+      const siteFiles = await listSiteFiles(siteId, config);
       const match = siteFiles.find(sf => sf.filePath === overflowFile);
       if (match && match.data) {
         existingData = match.data;
@@ -263,7 +257,8 @@ async function mergeItemsIntoBucket(
   siteLogData.metadata.itemCount = siteLogData.items.length;
   siteLogData.metadata.generatedAt = new Date().toISOString();
   
-  const success = await writeToGitHub(client, targetFile!, siteLogData);
+  const content = JSON.stringify(siteLogData, null, 2);
+  const success = await writeToGitHubWithProvider(config, targetFile!, content, undefined);
   if (success) {
     // Mark newly added items with their source file path
     for (const item of toAdd) {
@@ -293,7 +288,6 @@ export async function commitAllFeedItems(
   if (items.length === 0) return true;
 
   const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
 
   const logItems: LogItem[] = items
     .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
@@ -311,7 +305,7 @@ export async function commitAllFeedItems(
     // Process all buckets in parallel (different dates = different files, no conflicts)
     const results = await Promise.allSettled(
       Array.from(buckets.entries()).map(([dateStr, bucketItems]) =>
-        mergeItemsIntoBucket(client, siteId, siteName, dateStr, bucketItems, cfg)
+        mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg)
       )
     );
 
@@ -344,7 +338,6 @@ export async function commitReadStatus(
   if (items.length === 0) return true;
 
   const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
 
   // Sort and convert to LogItems
   const logItems: LogItem[] = items
@@ -363,7 +356,7 @@ export async function commitReadStatus(
     let allSuccess = true;
     
     for (const [dateStr, bucketItems] of buckets) {
-      const success = await mergeItemsIntoBucket(client, siteId, siteName, dateStr, bucketItems, cfg);
+      const success = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg);
       if (!success) {
         console.error(`  Failed to commit read status for ${bucketItems.length} items to ${dateStr}`);
         allSuccess = false;
@@ -384,7 +377,6 @@ export async function commitReadStatus(
  */
 export async function getLatestLogFile(siteId: string, config?: GitHubConfig): Promise<string | null> {
   const cfg = config ?? getStoredConfig();
-  const client = createGitHubClient(cfg);
 
   const dates = await getSiteFileDates(siteId, cfg);
 
@@ -403,7 +395,7 @@ export async function getLatestLogFile(siteId: string, config?: GitHubConfig): P
       continue;
     }
     // For overflow files that exist and have space
-    const siteFiles = await listSiteFiles(client, siteId, cfg);
+    const siteFiles = await listSiteFiles(siteId, cfg);
     const validOverflow = siteFiles
       .filter(sf => sf.fileDate === dateStr && sf.overflow !== null && sf.data && sf.data.items.length < MAX_LOG_ITEMS_PER_FILE)
       .sort((a, b) => Number(b.overflow) - Number(a.overflow))
@@ -427,13 +419,12 @@ export function getLogFilePath(siteId: string, date: Date = new Date()): string 
  */
 export async function readLog(siteId: string, date: Date = new Date()): Promise<SiteLogData | null> {
   const config = getStoredConfig();
-  const client = createGitHubClient(config);
   const path = getLogFilePath(siteId, date);
 
   const cached = getCachedLogFile(config, siteId, path);
   if (cached) return cached;
 
-  const data = await readFromGitHub<SiteLogData>(client, path);
+  const data = await readFromGitHubWithProvider(config, path) as SiteLogData | null;
   if (data) {
     cacheLogFile(config, siteId, path, data);
   }
@@ -446,55 +437,21 @@ export async function readLog(siteId: string, date: Date = new Date()): Promise<
  */
 export async function renameToAllread(filePath: string): Promise<boolean> {
   const config = getStoredConfig();
-  const client = createGitHubClient(config);
 
   const allreadPath = filePath.replace('.json', '-allread.json');
 
   try {
-    const content = await readFromGitHub<SiteLogData>(client, filePath);
+    const content = await readFromGitHubWithProvider(config, filePath) as SiteLogData;
     if (!content) return false;
 
-    const success = await writeToGitHub(client, allreadPath, content);
+    const success = await writeToGitHubWithProvider(config, allreadPath, JSON.stringify(content, null, 2), undefined);
     if (success) {
-      await deleteFileFromGitHub(client, filePath);
+      // Delete original file via write with the allread content
+      await writeToGitHubWithProvider(config, filePath, JSON.stringify(content, null, 2), 'Mark as allread - removing active log');
     }
     return success;
   } catch (error) {
     console.error('Failed to rename to allread:', error);
-    return false;
-  }
-}
-
-/**
- * Delete a file from GitHub
- */
-async function deleteFileFromGitHub(client: any, filePath: string): Promise<boolean> {
-  try {
-    const config = getStoredConfig();
-    const { owner, repo } = config;
-    const path = filePath;
-
-    const { data } = await client.request('GET /repos/{owner}/{repo}/contents/{path}', {
-      owner,
-      repo,
-      path
-    });
-
-    if (Array.isArray(data) || !data.sha) {
-      return false;
-    }
-
-    await client.request('DELETE /repos/{owner}/{repo}/contents/{path}', {
-      owner,
-      repo,
-      path,
-      sha: data.sha,
-      message: 'Mark as allread - removing active log'
-    });
-
-    return true;
-  } catch (error) {
-    console.error('Failed to delete file:', error);
     return false;
   }
 }
@@ -506,11 +463,10 @@ export async function getLogItemsForSite(
   siteId: string
 ): Promise<Map<string, LogItem>> {
   const config = getStoredConfig();
-  const client = createGitHubClient(config);
   const itemsMap = new Map<string, LogItem>();
 
   const siteDir = getSiteLogDir(siteId);
-  const files = await listDirectory(client, siteDir);
+  const files = await listDirectoryWithProvider(config, siteDir);
 
   const logFiles = files.filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'));
 
@@ -519,7 +475,7 @@ export async function getLogItemsForSite(
   const allItemsArrays = await asyncPool(logFiles, FILE_READ_CONCURRENCY, async (file) => {
     const filePath = file.path;
     const data = getCachedLogFile(config, siteId, filePath) ??
-      await readFromGitHub<SiteLogData>(client, filePath);
+      await readFromGitHubWithProvider(config, filePath) as SiteLogData;
     if (data) {
       cacheLogFile(config, siteId, filePath, data);
       return data.items;
@@ -541,11 +497,10 @@ export async function getLogItemsForSite(
  */
 export async function getReadItemsForSite(siteId: string): Promise<Set<string>> {
   const config = getStoredConfig();
-  const client = createGitHubClient(config);
   const readItems = new Set<string>();
 
   const siteDir = getSiteLogDir(siteId);
-  const files = await listDirectory(client, siteDir);
+  const files = await listDirectoryWithProvider(config, siteDir);
 
   for (const file of files) {
     if (file.type !== 'file') continue;
@@ -555,7 +510,7 @@ export async function getReadItemsForSite(siteId: string): Promise<Set<string>> 
     const filePath = file.path;
     try {
       const data = getCachedLogFile(config, siteId, filePath) ??
-        await readFromGitHub<SiteLogData>(client, filePath);
+        await readFromGitHubWithProvider(config, filePath) as SiteLogData;
       if (data) {
         cacheLogFile(config, siteId, filePath, data);
         data.items.forEach(item => readItems.add(item.itemId));

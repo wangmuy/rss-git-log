@@ -1,5 +1,6 @@
 import { GitHubConfig } from '@/types/config';
 import { createDefaultAppConfig, loadAppConfig, saveAppConfig } from './app-config';
+import { utf8ToBase64, base64ToUtf8 } from './base64';
 
 /**
  * GitHub API client for browser-compatible GitHub operations
@@ -90,7 +91,7 @@ export async function readFromGitHub<T>(client: GitHubClient, path: string): Pro
     const data = await response.json();
 
     // GitHub returns base64 encoded content
-    const content = decodeURIComponent(Array.prototype.map.call(atob(data.content), (c) => '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)).join(''));
+    const content = base64ToUtf8(data.content);
 
     // Try to parse as JSON, fallback to raw text
     try {
@@ -282,10 +283,6 @@ export function clearGitHubWriteCapability(): void {
 /**
  * Encode a string to base64 safely, handling Unicode characters
  */
-function utf8ToBase64(str: string): string {
-  return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, (_, p1) => String.fromCharCode(parseInt(p1, 16))));
-}
-
 export async function writeToGitHub<T>(client: GitHubClient, path: string, data: T): Promise<boolean> {
   try {
     if (!client.config.token) {
@@ -380,4 +377,36 @@ export function hasGitHubConfig(): boolean {
   } catch {
     return false;
   }
+}
+
+// ── Backward-compatible wrappers (delegate to GitProvider) ──────────
+
+import { createGitProvider } from './git-provider';
+import { GitFileChange } from '@/types/git';
+
+export async function readFromGitHubWithProvider(config: GitHubConfig, path: string): Promise<any> {
+  const provider = createGitProvider(config);
+  const file = await provider.readFile(path);
+  if (!file) return null;
+  try { return JSON.parse(file.content); } catch { return file.content; }
+}
+
+export async function writeToGitHubWithProvider(config: GitHubConfig, path: string, data: any, message?: string): Promise<boolean> {
+  const provider = createGitProvider(config);
+  const content = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
+  return provider.writeFile(path, content, message || `Update ${path} via RSS Reader`);
+}
+
+export async function listDirectoryWithProvider(config: GitHubConfig, path: string): Promise<Array<{ name: string; path: string; type: string }>> {
+  const provider = createGitProvider(config);
+  return provider.listDirectory(path);
+}
+
+export async function createCommitWithProvider(
+  config: GitHubConfig,
+  message: string,
+  changes: Array<{ path: string; content: string; sha: string | null }>
+): Promise<boolean> {
+  const provider = createGitProvider(config);
+  return provider.createCommit(message, changes as GitFileChange[]);
 }

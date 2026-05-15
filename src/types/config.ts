@@ -34,6 +34,7 @@ export interface CORSPolicy {
  * GitHub Configuration
  */
 export interface GitHubConfig {
+  provider?: string;
   owner: string;
   repo: string;
   branch: string;
