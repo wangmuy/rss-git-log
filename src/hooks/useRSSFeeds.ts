@@ -166,11 +166,12 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           if (!site) return;
 
           setSiteLoading(nextSiteId, true);
-          updateSite(nextSiteId, [], 0);
 
           try {
             const feed = await fetchRSSWithPolicy(configSite.url, loadAppConfig().corsPolicy);
             const items = feed?.items || [];
+            // Set fresh RSS items immediately so the site is not empty while we fetch historical data
+            updateSite(nextSiteId, items, 0);
 
               const appConfig = loadAppConfig();
               if (appConfig.githubWriteCapability.canWrite) {
