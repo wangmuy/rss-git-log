@@ -2,6 +2,7 @@ import { createGitHubClient, readFromGitHub, writeToGitHub, getStoredConfig, lis
 import { LogItem, SiteLogData } from '@/types/log';
 import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
+import { asyncPool } from './async-pool';
 
 const MAX_LOG_ITEMS_PER_FILE = 200;
 const FILENAME_DATE_REGEX = /^(\d{4}-\d{2}-\d{2})(-\d+)?\.json$/;
@@ -513,25 +514,22 @@ export async function getLogItemsForSite(
 
   const logFiles = files.filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'));
 
-  // Read all log files in parallel — they are independent
-  const results = await Promise.allSettled(
-    logFiles.map(async (file) => {
-      const filePath = file.path;
-      const data = getCachedLogFile(config, siteId, filePath) ??
-        await readFromGitHub<SiteLogData>(client, filePath);
-      if (data) {
-        cacheLogFile(config, siteId, filePath, data);
-        return data.items;
-      }
-      return [];
-    })
-  );
+  // Read log files in batches to avoid overwhelming browser connection limits
+  const FILE_READ_CONCURRENCY = 6;
+  const allItemsArrays = await asyncPool(logFiles, FILE_READ_CONCURRENCY, async (file) => {
+    const filePath = file.path;
+    const data = getCachedLogFile(config, siteId, filePath) ??
+      await readFromGitHub<SiteLogData>(client, filePath);
+    if (data) {
+      cacheLogFile(config, siteId, filePath, data);
+      return data.items;
+    }
+    return [];
+  });
 
-  for (const result of results) {
-    if (result.status === 'fulfilled') {
-      for (const item of result.value) {
-        itemsMap.set(item.itemId, item);
-      }
+  for (const items of allItemsArrays) {
+    for (const item of items) {
+      itemsMap.set(item.itemId, item);
     }
   }
 
