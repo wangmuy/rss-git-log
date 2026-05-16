@@ -1,4 +1,6 @@
-﻿import React, { useState, useEffect, useRef, useMemo, useLayoutEffect } from 'react';
+﻿import React, { useState, useEffect, useRef, useMemo, useLayoutEffect, useCallback } from 'react';
+import { useReaderStore } from '../store/readerStore';
+import { generateItemIdFromItem } from '@/utils/item-id';
 import {
   Box,
   List,
@@ -13,8 +15,6 @@ import {
 } from '@mui/material';
 import { SiteWithStatus } from '@/types/rss';
 import { FeedItem } from './FeedItem';
-import { generateItemIdFromItem } from '@/utils/item-id';
-import { useReaderStore } from '../store/readerStore';
 
 interface SidebarFeedLayoutProps {
   sites: SiteWithStatus[];
@@ -34,7 +34,49 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 }) => {
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
-  const markSiteAsRead = useReaderStore(state => state.markSiteAsRead);
+  const setSiteLoading = useReaderStore(state => state.setSiteLoading);
+
+  const handleMarkAllAsRead = useCallback(async () => {
+    const site = sites.find(s => s.siteId === selectedSiteId);
+    if (!site || site.items.length === 0) return;
+
+    setSiteLoading(selectedSiteId, true);
+    try {
+      const state = useReaderStore.getState();
+      const result: any = await new Promise((resolve, reject) => {
+        const worker = new Worker(new URL('../workers/mark-all-read.worker.ts', import.meta.url), { type: 'module' });
+        worker.onmessage = (e: MessageEvent) => { worker.terminate(); resolve(e.data); };
+        worker.onerror = (e: ErrorEvent) => { worker.terminate(); reject(e); };
+        worker.postMessage({
+          siteId: selectedSiteId,
+          items: site.items,
+          existingReadStatus: Object.fromEntries(
+            Object.entries(state.readStatus).map(([k, v]) => [k, Array.from(v)])
+          ),
+          settings: state.settings
+        });
+      });
+
+      try {
+        localStorage.setItem('rss-reader-session', '::lz::' + result.compressed);
+      } catch {}
+
+      const existing = useReaderStore.getState().readStatus[selectedSiteId] || new Set();
+      for (const id of result.itemIds) {
+        existing.add(id);
+      }
+      useReaderStore.setState({
+        readStatus: { ...useReaderStore.getState().readStatus, [selectedSiteId]: existing },
+        sites: useReaderStore.getState().sites.map(s =>
+          s.siteId === selectedSiteId ? { ...s, unreadCount: 0 } : s
+        )
+      });
+    } catch (e) {
+      console.error('Failed to mark all as read:', e);
+    } finally {
+      setSiteLoading(selectedSiteId, false);
+    }
+  }, [selectedSiteId, sites, setSiteLoading]);
 
   useEffect(() => {
     if (sites.length > 0) {
@@ -141,7 +183,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               </Typography>
               <Typography
                 variant="body2"
-                onClick={() => markSiteAsRead?.(selectedSite.siteId)}
+                onClick={handleMarkAllAsRead}
                 sx={{ cursor: 'pointer', textDecoration: 'underline', color: 'primary.main' }}
               >
                 Mark all as read
