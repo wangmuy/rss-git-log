@@ -1,7 +1,7 @@
 import { GitHubConfig } from '@/types/config';
 import { SiteLogData } from '@/types/log';
 import { loadAppConfig } from './app-config';
-import { compressedGetItem, compressedSetItem } from './compressed-storage';
+import LZString from 'lz-string';
 
 const LOG_CACHE_STORAGE_KEY = 'rss-reader-log-cache';
 
@@ -11,7 +11,7 @@ interface CachedLogEntry {
   path: string;
   fetchedAt: string;
   itemCount: number;
-  data: SiteLogData;
+  data: string; // lz-string compressed JSON
 }
 
 type CachedLogEntries = Record<string, CachedLogEntry>;
@@ -28,7 +28,7 @@ const hasLocalStorage = typeof localStorage !== 'undefined';
 
 function loadCache(): CachedLogEntries {
   if (!hasLocalStorage) return {};
-  const stored = compressedGetItem(LOG_CACHE_STORAGE_KEY);
+  const stored = localStorage.getItem(LOG_CACHE_STORAGE_KEY);
   if (!stored) return {};
 
   try {
@@ -40,7 +40,11 @@ function loadCache(): CachedLogEntries {
 
 function saveCache(entries: CachedLogEntries): void {
   if (!hasLocalStorage) return;
-  compressedSetItem(LOG_CACHE_STORAGE_KEY, JSON.stringify(entries));
+  try {
+    localStorage.setItem(LOG_CACHE_STORAGE_KEY, JSON.stringify(entries));
+  } catch {
+    console.warn('localStorage quota exceeded for log cache');
+  }
 }
 
 export function getCachedLogFile(
@@ -49,7 +53,12 @@ export function getCachedLogFile(
   path: string
 ): SiteLogData | null {
   const entry = loadCache()[getCacheKey(config, siteId, path)];
-  return entry?.data ?? null;
+  if (!entry) return null;
+  try {
+    return JSON.parse(LZString.decompress(entry.data));
+  } catch {
+    return null;
+  }
 }
 
 export function cacheLogFile(
@@ -71,17 +80,23 @@ export function cacheLogFile(
   };
 
   const entries = loadCache();
-  entries[getCacheKey(config, siteId, path)] = {
-    repoKey: getRepoKey(config),
-    siteId,
-    path,
-    fetchedAt: new Date().toISOString(),
-    itemCount: data.items.length,
-    data: stripped
-  };
+  try {
+    const compressed = LZString.compress(JSON.stringify(stripped));
+    if (compressed === null) return;
+    entries[getCacheKey(config, siteId, path)] = {
+      repoKey: getRepoKey(config),
+      siteId,
+      path,
+      fetchedAt: new Date().toISOString(),
+      itemCount: data.items.length,
+      data: compressed
+    };
 
-  saveCache(entries);
-  pruneCachedLogFilesForSite(config, siteId, appConfig.localCache.filesPerSite);
+    saveCache(entries);
+    pruneCachedLogFilesForSite(config, siteId, appConfig.localCache.filesPerSite);
+  } catch (e) {
+    console.warn('Failed to compress log cache entry:', e);
+  }
 }
 
 export function pruneCachedLogFilesForSite(

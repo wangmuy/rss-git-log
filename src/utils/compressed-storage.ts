@@ -4,8 +4,9 @@ const COMPRESSION_PREFIX = '::lz::';
 
 export function compressedSetItem(key: string, value: string): void {
   try {
-    const compressed = COMPRESSION_PREFIX + LZString.compress(value);
-    localStorage.setItem(key, compressed);
+    const compressed = LZString.compress(value);
+    if (compressed === null) throw new Error('lz-string compress returned null');
+    localStorage.setItem(key, COMPRESSION_PREFIX + compressed);
   } catch {
     try {
       localStorage.setItem(key, value);

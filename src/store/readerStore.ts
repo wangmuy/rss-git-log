@@ -260,6 +260,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
   },
 
   mergeGitHubReadStatus: (siteId, githubItems) => {
+    const t0 = performance.now();
     set(state => {
       const newReadStatus = { ...state.readStatus };
       if (!newReadStatus[siteId]) {
@@ -272,12 +273,15 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         }
       });
 
-      compressedSetItem('rss-reader-session', JSON.stringify({
+      const serialized = JSON.stringify({
           readStatus: Object.fromEntries(
             Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
           ),
           settings: state.settings
-        }));
+        });
+      const t1 = performance.now();
+      compressedSetItem('rss-reader-session', serialized);
+      console.log(`[mergeGitHubReadStatus] ${siteId}: merge ${githubItems.size} items, process ${(t1 - t0).toFixed(0)}ms, compress+save ${(performance.now() - t1).toFixed(0)}ms`);
 
       return { readStatus: newReadStatus };
     });
@@ -286,6 +290,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
   addHistoricalItems: (siteId, historicalItems) => {
     if (historicalItems.length === 0) return;
 
+    const t0 = performance.now();
     set(state => {
       const siteIndex = state.sites.findIndex(s => s.siteId === siteId);
       if (siteIndex === -1) return state;
@@ -313,6 +318,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
 
       return { sites: updatedSites };
     });
+    console.log(`[addHistoricalItems] ${siteId}: ${historicalItems.length} items, took ${(performance.now() - t0).toFixed(0)}ms`);
   },
 
   clearSession: () => {

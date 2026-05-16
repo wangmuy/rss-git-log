@@ -463,6 +463,7 @@ export async function renameToAllread(filePath: string): Promise<boolean> {
 export async function getLogItemsForSite(
   siteId: string
 ): Promise<Map<string, LogItem>> {
+  const t0 = performance.now();
   const config = getStoredConfig();
   const itemsMap = new Map<string, LogItem>();
 
@@ -470,15 +471,24 @@ export async function getLogItemsForSite(
   const files = await listDirectoryWithProvider(config, siteDir);
 
   const logFiles = files.filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'));
+  console.log(`[getLogItemsForSite] ${siteId}: ${logFiles.length} log files, listDir took ${(performance.now() - t0).toFixed(0)}ms`);
 
   // Read log files in batches to avoid overwhelming browser connection limits
   const FILE_READ_CONCURRENCY = 6;
+  let fileCount = 0;
   const allItemsArrays = await asyncPool(logFiles, FILE_READ_CONCURRENCY, async (file) => {
+    const t1 = performance.now();
     const filePath = file.path;
-    const data = getCachedLogFile(config, siteId, filePath) ??
-      await readFromGitHubWithProvider(config, filePath) as SiteLogData;
+    const cached = getCachedLogFile(config, siteId, filePath);
+    const data = cached ?? await readFromGitHubWithProvider(config, filePath) as SiteLogData;
     if (data) {
+      const t2 = performance.now();
       cacheLogFile(config, siteId, filePath, data);
+      const t3 = performance.now();
+      fileCount++;
+      if (fileCount <= 5 || fileCount % 20 === 0) {
+        console.log(`[getLogItemsForSite] file ${fileCount}/${logFiles.length}: ${cached ? 'CACHE' : 'FETCH'} ${(t2 - t1).toFixed(0)}ms, compress ${(t3 - t2).toFixed(0)}ms, total ${(t3 - t1).toFixed(0)}ms`);
+      }
       return data.items;
     }
     return [];

@@ -78,16 +78,21 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
       setStoreLoading(true);
 
       (async () => {
+        const t0 = performance.now();
         try {
           const feed = await fetchRSSWithPolicy(site!.url, loadAppConfig().corsPolicy);
           const items = feed?.items || [];
           updateSite(nextSiteId, items, 0);
+          console.log(`[processQueue] ${nextSiteId}: RSS fetch ${(performance.now() - t0).toFixed(0)}ms`);
 
           const appConfig = loadAppConfig();
           if (appConfig.githubWriteCapability.canWrite) {
             try {
+              const t1 = performance.now();
               const githubItems = await getLogItemsForSite(nextSiteId);
+              console.log(`[processQueue] ${nextSiteId}: getLogItemsForSite took ${(performance.now() - t1).toFixed(0)}ms, got ${githubItems.size} items`);
               if (githubItems.size > 0) {
+                const t2 = performance.now();
                 const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
                 const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
                 githubItems.forEach((logItem, itemId) => {
@@ -95,6 +100,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
                     historicalItems.push({ itemId, title: logItem.title, pubDate: logItem.pubDate });
                   }
                 });
+                console.log(`[processQueue] ${nextSiteId}: filtering ${(performance.now() - t2).toFixed(0)}ms, ${historicalItems.length} historical`);
                 if (historicalItems.length > 0) {
                   addHistoricalItems(nextSiteId, historicalItems);
                 }
@@ -110,6 +116,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           const allItems = currentSite?.items || items;
           const unreadCount = currentStoreState.getUnreadCount(nextSiteId);
           updateSite(nextSiteId, allItems, unreadCount);
+          console.log(`[processQueue] ${nextSiteId}: TOTAL ${(performance.now() - t0).toFixed(0)}ms, final unread ${unreadCount}`);
         } catch (err: any) {
           console.error('Failed to fetch feed for', nextSiteId, err);
         } finally {
