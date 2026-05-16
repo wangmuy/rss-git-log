@@ -20,8 +20,7 @@ export function isFullyRead(data: SiteLogData): boolean {
   return data.items.length > 0 && data.items.every(i => i.readAt);
 }
 
-function filterOutAllreadDuplicates(files: Array<{ name: string; path: string; type: string }>): Array<{ name: string; path: string; type: string }> {
-  // Build set of base names that have an -allread counterpart
+function filterOutAllreadDuplicates(files: Array<{ name: string; path: string; type: string }>): { keep: Array<{ name: string; path: string; type: string }>; toDelete: string[] } {
   const allreadBases = new Set<string>();
   for (const f of files) {
     if (f.name.includes('-allread')) {
@@ -29,8 +28,15 @@ function filterOutAllreadDuplicates(files: Array<{ name: string; path: string; t
       allreadBases.add(base);
     }
   }
-  // Exclude regular files whose -allread counterpart exists
-  return files.filter(f => !(f.name.endsWith('.json') && !f.name.includes('-allread') && allreadBases.has(f.name)));
+  const toDelete: string[] = [];
+  const keep = files.filter(f => {
+    if (f.name.endsWith('.json') && !f.name.includes('-allread') && allreadBases.has(f.name)) {
+      toDelete.push(f.path);
+      return false;
+    }
+    return true;
+  });
+  return { keep, toDelete };
 }
 
 // ── Helpers ────────────────────────────────────────────────────────
@@ -103,7 +109,11 @@ async function listSiteFiles(
 ): Promise<Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>> {
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectoryWithProvider(cfg, siteDir);
-  const filtered = filterOutAllreadDuplicates(files);
+  const { keep: filtered, toDelete } = filterOutAllreadDuplicates(files);
+  // Delete orphaned regular files whose -allread counterpart exists
+  for (const path of toDelete) {
+    deleteFileWithProvider(cfg, path, 'Remove orphaned log file (allread exists)').catch(() => {});
+  }
   
   const results: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }> = [];
   
@@ -498,7 +508,10 @@ export async function getLogItemsForSite(
 
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectoryWithProvider(config, siteDir);
-  const filtered = filterOutAllreadDuplicates(files);
+  const { keep: filtered, toDelete } = filterOutAllreadDuplicates(files);
+  for (const path of toDelete) {
+    deleteFileWithProvider(config, path, 'Remove orphaned log file (allread exists)').catch(() => {});
+  }
 
   const logFiles = filtered.filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'));
 
