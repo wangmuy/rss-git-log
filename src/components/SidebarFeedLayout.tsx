@@ -190,7 +190,15 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               </Typography>
             </Box>
 
-            <Box sx={{ flex: 1, overflow: 'auto', p: 1, scrollPaddingTop: 72 }} key={selectedSite.siteId}>
+            <Box sx={{ flex: 1, overflow: 'auto', p: 1, scrollPaddingTop: 72, position: 'relative' }} key={selectedSite.siteId}>
+              {loadingSites[selectedSite.siteId] && (
+                <Box sx={{
+                  position: 'absolute', inset: 0, bgcolor: 'rgba(0,0,0,0.05)',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 1, borderRadius: 1
+                }}>
+                  <CircularProgress size={32} />
+                </Box>
+              )}
               <FeedListPane
                 site={selectedSite}
                 onMarkAsRead={onMarkAsRead}
