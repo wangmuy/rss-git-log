@@ -1,5 +1,6 @@
 import { GitFile, GitTreeItem, GitFileChange, GitProviderConfig } from '@/types/git';
 import { utf8ToBase64, base64ToUtf8 } from './base64';
+import { getFetchSignal } from './abort';
 
 export interface GitProvider {
   readFile(path: string): Promise<GitFile | null>;
@@ -33,9 +34,14 @@ export class GitHubProvider implements GitProvider {
     return headers;
   }
 
+  private async fetchWithSignal(url: string, options?: RequestInit): Promise<Response> {
+    const signal = getFetchSignal();
+    return fetch(url, { ...options, signal });
+  }
+
   async readFile(path: string): Promise<GitFile | null> {
     const url = `${this.baseUrl}/contents/${encodeURIComponent(path)}?ref=${this.branch()}`;
-    const response = await fetch(url, { headers: this.headers() });
+    const response = await this.fetchWithSignal(url, { headers: this.headers() });
     if (response.status === 404) return null;
     if (!response.ok) throw new Error(`GitHub API error: ${response.status} ${response.statusText}`);
     const data = await response.json();
@@ -51,7 +57,7 @@ export class GitHubProvider implements GitProvider {
       branch: this.branch(),
       ...(sha ? { sha } : {})
     });
-    const response = await fetch(`${this.baseUrl}/contents/${encodeURIComponent(path)}`, {
+    const response = await this.fetchWithSignal(`${this.baseUrl}/contents/${encodeURIComponent(path)}`, {
       method: 'PUT', headers: this.headers(), body
     });
     return response.ok;
@@ -59,7 +65,7 @@ export class GitHubProvider implements GitProvider {
 
   async listDirectory(path: string): Promise<GitTreeItem[]> {
     const url = `${this.baseUrl}/contents/${encodeURIComponent(path)}?ref=${this.branch()}`;
-    const response = await fetch(url, { headers: this.headers() });
+    const response = await this.fetchWithSignal(url, { headers: this.headers() });
     if (response.status === 404) return [];
     if (!response.ok) throw new Error(`GitHub API error: ${response.status} ${response.statusText}`);
     const data = await response.json();
@@ -70,7 +76,7 @@ export class GitHubProvider implements GitProvider {
 
   async getFileSha(path: string): Promise<string | null> {
     const url = `${this.baseUrl}/contents/${encodeURIComponent(path)}?ref=${this.branch()}`;
-    const response = await fetch(url, { headers: this.headers() });
+    const response = await this.fetchWithSignal(url, { headers: this.headers() });
     if (response.status === 404) return null;
     if (!response.ok) throw new Error(`GitHub API error: ${response.status} ${response.statusText}`);
     const data = await response.json();
@@ -95,13 +101,13 @@ export class GitHubProvider implements GitProvider {
 
       // 2. Get current head commit tree SHA
       const refUrl = `${this.baseUrl}/git/refs/heads/${this.branch()}`;
-      const refResp = await fetch(refUrl, { headers });
+      const refResp = await this.fetchWithSignal(refUrl, { headers });
       if (!refResp.ok) return false;
       const refData = await refResp.json();
       const currentTreeSha = refData.object.sha;
 
       // 3. Get the current tree
-      const treeResp = await fetch(`${this.baseUrl}/git/trees/${currentTreeSha}`, { headers });
+      const treeResp = await this.fetchWithSignal(`${this.baseUrl}/git/trees/${currentTreeSha}`, { headers });
       if (!treeResp.ok) return false;
       const currentTree = await treeResp.json();
 
@@ -116,7 +122,7 @@ export class GitHubProvider implements GitProvider {
         }))
       ];
 
-      const newTreeResp = await fetch(`${this.baseUrl}/git/trees`, {
+      const newTreeResp = await this.fetchWithSignal(`${this.baseUrl}/git/trees`, {
         method: 'POST', headers,
         body: JSON.stringify({ base_tree: currentTreeSha, tree: treeItems })
       });
@@ -124,7 +130,7 @@ export class GitHubProvider implements GitProvider {
       const newTree = await newTreeResp.json();
 
       // 5. Create commit
-      const commitResp = await fetch(`${this.baseUrl}/git/commits`, {
+      const commitResp = await this.fetchWithSignal(`${this.baseUrl}/git/commits`, {
         method: 'POST', headers,
         body: JSON.stringify({
           message,
@@ -136,7 +142,7 @@ export class GitHubProvider implements GitProvider {
       const newCommit = await commitResp.json();
 
       // 6. Update branch ref
-      const updateResp = await fetch(refUrl, {
+      const updateResp = await this.fetchWithSignal(refUrl, {
         method: 'PATCH', headers,
         body: JSON.stringify({ sha: newCommit.sha, force: false })
       });

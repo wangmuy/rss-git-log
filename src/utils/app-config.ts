@@ -1,5 +1,6 @@
 import { AppConfig, AutoCommitConfig, CORSPolicy, GitHubConfig, LocalCacheConfig } from '@/types/config';
 import { DEFAULT_CORS_POLICY } from './rss-parser';
+import { abortAllRequests } from './abort';
 
 const APP_CONFIG_STORAGE_KEY = 'rss-reader-app-config';
 const DEFAULT_GITHUB_CONFIG: GitHubConfig = {
@@ -157,5 +158,6 @@ const ALL_STORAGE_KEYS = [
 ];
 
 export function clearAllLocalStorage(): void {
+  abortAllRequests();
   ALL_STORAGE_KEYS.forEach(key => localStorage.removeItem(key));
 }
