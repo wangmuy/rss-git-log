@@ -31,6 +31,12 @@ Files whose date matches today's date (derived from `filePath`) are NOT renamed,
 ### 5. Also rename during fetch phase
 During `getLogItemsForSite`, after reading each log file's content, check if it's fully read (all items have `readAt`) and not today's file. If so, call `renameToAllread`. This handles historical files that were already fully read before this feature existed — they get renamed on the first fetch after deployment, without waiting for a commit.
 
+### 6. Delete original file after rename
+`renameToAllread` currently copies content to `<date>-allread.json` but only overwrites the original file (not truly delete). It SHALL use the GitHub Contents API DELETE method to remove the original file after the `-allread` copy succeeds. This prevents stale `.json` files from lingering and being fetched on subsequent loads.
+
+### 7. Skip regular file if -allread counterpart exists
+When listing files in `getLogItemsForSite` and `listSiteFiles`, if both `<date>.json` and `<date>-allread.json` exist (e.g. from a previously interrupted rename), the regular `<date>.json` SHALL also be skipped. The regular file is a leftover — only the `-allread` version is authoritative. This is enforced by building a Set of all existing `-allread` base names and excluding their regular counterparts.
+
 ## Risks / Trade-offs
 
 - **[Extra API calls]** Each rename does one read (of the just-written file, so likely cached) + one write (allread copy) + one write (delete original). This overhead is outweighed by the saved reads on future page loads.

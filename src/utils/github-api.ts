@@ -410,3 +410,8 @@ export async function createCommitWithProvider(
   const provider = createGitProvider(config);
   return provider.createCommit(message, changes as GitFileChange[]);
 }
+
+export async function deleteFileWithProvider(config: GitHubConfig, path: string, message: string): Promise<boolean> {
+  const provider = createGitProvider(config);
+  return provider.deleteFile(path, message);
+}

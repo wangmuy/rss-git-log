@@ -5,6 +5,7 @@ import { getFetchSignal } from './abort';
 export interface GitProvider {
   readFile(path: string): Promise<GitFile | null>;
   writeFile(path: string, content: string, message: string): Promise<boolean>;
+  deleteFile(path: string, message: string): Promise<boolean>;
   listDirectory(path: string): Promise<GitTreeItem[]>;
   getFileSha(path: string): Promise<string | null>;
   createCommit(message: string, changes: GitFileChange[]): Promise<boolean>;
@@ -61,6 +62,21 @@ export class GitHubProvider implements GitProvider {
       method: 'PUT', headers: this.headers(), body
     });
     return response.ok;
+  }
+
+  async deleteFile(path: string, message: string): Promise<boolean> {
+    if (!this.config.token) throw new Error('GitHub token is required for write operations');
+    try {
+      const sha = await this.getFileSha(path);
+      if (!sha) return true;
+      const body = JSON.stringify({ message, sha, branch: this.branch() });
+      const response = await this.fetchWithSignal(`${this.baseUrl}/contents/${encodeURIComponent(path)}`, {
+        method: 'DELETE', headers: this.headers(), body
+      });
+      return response.ok;
+    } catch {
+      return false;
+    }
   }
 
   async listDirectory(path: string): Promise<GitTreeItem[]> {

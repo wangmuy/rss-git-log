@@ -1,4 +1,4 @@
-import { getStoredConfig, readFromGitHubWithProvider, writeToGitHubWithProvider, listDirectoryWithProvider } from './github-api';
+import { getStoredConfig, readFromGitHubWithProvider, writeToGitHubWithProvider, listDirectoryWithProvider, deleteFileWithProvider } from './github-api';
 import { LogItem, SiteLogData } from '@/types/log';
 import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
@@ -18,6 +18,19 @@ export function isFileFromEarlierDate(filePath: string): boolean {
 
 export function isFullyRead(data: SiteLogData): boolean {
   return data.items.length > 0 && data.items.every(i => i.readAt);
+}
+
+function filterOutAllreadDuplicates(files: Array<{ name: string; path: string; type: string }>): Array<{ name: string; path: string; type: string }> {
+  // Build set of base names that have an -allread counterpart
+  const allreadBases = new Set<string>();
+  for (const f of files) {
+    if (f.name.includes('-allread')) {
+      const base = f.name.replace('-allread.json', '.json');
+      allreadBases.add(base);
+    }
+  }
+  // Exclude regular files whose -allread counterpart exists
+  return files.filter(f => !(f.name.endsWith('.json') && !f.name.includes('-allread') && allreadBases.has(f.name)));
 }
 
 // ── Helpers ────────────────────────────────────────────────────────
@@ -90,10 +103,11 @@ async function listSiteFiles(
 ): Promise<Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>> {
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectoryWithProvider(cfg, siteDir);
+  const filtered = filterOutAllreadDuplicates(files);
   
   const results: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }> = [];
   
-  for (const file of files) {
+  for (const file of filtered) {
     if (file.type !== 'file') continue;
     if (!file.name.endsWith('.json')) continue;
     if (file.name.includes('-allread')) continue;
@@ -464,8 +478,7 @@ export async function renameToAllread(filePath: string): Promise<boolean> {
 
     const success = await writeToGitHubWithProvider(config, allreadPath, JSON.stringify(content, null, 2), undefined);
     if (success) {
-      // Delete original file via write with the allread content
-      await writeToGitHubWithProvider(config, filePath, JSON.stringify(content, null, 2), 'Mark as allread - removing active log');
+      await deleteFileWithProvider(config, filePath, 'Mark as allread - removing active log');
     }
     return success;
   } catch (error) {
@@ -485,8 +498,9 @@ export async function getLogItemsForSite(
 
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectoryWithProvider(config, siteDir);
+  const filtered = filterOutAllreadDuplicates(files);
 
-  const logFiles = files.filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'));
+  const logFiles = filtered.filter(f => f.type === 'file' && f.name.endsWith('.json') && !f.name.includes('-allread'));
 
   // Read log files in batches to avoid overwhelming browser connection limits
   const FILE_READ_CONCURRENCY = 6;
