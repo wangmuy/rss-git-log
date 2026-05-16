@@ -4,10 +4,34 @@ import { SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
-import { getLogItemsForSite } from '@/utils/log-file';
 import { generateItemIdFromItem } from '@/utils/item-id';
+import { GitProviderConfig } from '@/types/git';
 
 const getStoreState = () => useReaderStore.getState();
+
+function fetchWithWorker(config: GitProviderConfig, siteId: string): Promise<Array<{ itemId: string; title: string; pubDate: string; readAt?: string }>> {
+  return new Promise((resolve, reject) => {
+    const worker = new Worker(new URL('../workers/fetch.worker.ts', import.meta.url), { type: 'module' });
+    const allItems: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }> = [];
+    worker.onmessage = (e) => {
+      const msg = e.data;
+      if (msg.type === 'batch') {
+        allItems.push(...msg.items);
+      } else if (msg.type === 'done') {
+        worker.terminate();
+        resolve(allItems);
+      } else if (msg.type === 'error') {
+        worker.terminate();
+        reject(new Error(msg.error));
+      }
+    };
+    worker.onerror = (e) => {
+      worker.terminate();
+      reject(e);
+    };
+    worker.postMessage({ config, siteId });
+  });
+}
 
 const POOL_SIZE = 3;
 
@@ -86,13 +110,14 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           const appConfig = loadAppConfig();
           if (appConfig.githubWriteCapability.canWrite) {
             try {
-              const githubItems = await getLogItemsForSite(nextSiteId);
-              if (githubItems.size > 0) {
+              const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
+              if (itemsList.length > 0) {
+                const githubItems = new Map(itemsList.map(i => [i.itemId, i]));
                 const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
                 const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
-                githubItems.forEach((logItem, itemId) => {
-                  if (!rssItemIds.has(itemId)) {
-                    historicalItems.push({ itemId, title: logItem.title, pubDate: logItem.pubDate });
+                itemsList.forEach(item => {
+                  if (!rssItemIds.has(item.itemId)) {
+                    historicalItems.push({ itemId: item.itemId, title: item.title, pubDate: item.pubDate });
                   }
                 });
                 if (historicalItems.length > 0) {
@@ -173,16 +198,17 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
             // Set fresh RSS items immediately so the site is not empty while we fetch historical data
             updateSite(nextSiteId, items, 0);
 
-              const appConfig = loadAppConfig();
-              if (appConfig.githubWriteCapability.canWrite) {
-                try {
-                  const githubItems = await getLogItemsForSite(nextSiteId);
-                if (githubItems.size > 0) {
+            const appConfig = loadAppConfig();
+            if (appConfig.githubWriteCapability.canWrite) {
+              try {
+                const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
+                if (itemsList.length > 0) {
+                  const githubItems = new Map(itemsList.map((i: any) => [i.itemId, i]));
                   const rssItemIds = new Set(items.map((i: any) => generateItemIdFromItem(i)));
                   const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
-                  githubItems.forEach((logItem: any, itemId: string) => {
-                    if (!rssItemIds.has(itemId)) {
-                      historicalItems.push({ itemId, title: logItem.title, pubDate: logItem.pubDate });
+                  itemsList.forEach((item: any) => {
+                    if (!rssItemIds.has(item.itemId)) {
+                      historicalItems.push({ itemId: item.itemId, title: item.title, pubDate: item.pubDate });
                     }
                   });
                   if (historicalItems.length > 0) {

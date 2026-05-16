@@ -1,22 +1,22 @@
 ## 1. Worker Implementation
 
-- [ ] 1.1 Create `src/workers/fetch.worker.ts` that receives `{ config, siteId }`, creates a `GitProvider`, lists directory, reads files in batches, and posts results
-- [ ] 1.2 Worker reads files in batches (concurrency 6), posts `{ type: 'batch', items, historicalItems }` for each batch
-- [ ] 1.3 Worker posts `{ type: 'done', githubItems }` when all files are processed
-- [ ] 1.4 Worker skips individual file failures and continues
+- [x] 1.1 Create `src/workers/fetch.worker.ts` that receives `{ config, siteId }`, creates a `GitProvider`, lists directory, reads files in batches, and posts results
+- [x] 1.2 Worker reads files in batches (concurrency 6), posts `{ type: 'batch', items }` for each batch
+- [x] 1.3 Worker posts `{ type: 'done', items }` when all files are processed
+- [x] 1.4 Worker skips individual file failures and continues
 
 ## 2. Main Thread Integration
 
-- [ ] 2.1 Replace `getLogItemsForSite` call in `useRSSFeeds.ts` refresh function with worker creation
-- [ ] 2.2 On each `batch` message: call `addHistoricalItems` + `mergeGitHubReadStatus` + update unread count
-- [ ] 2.3 On `done` message: finalize count, terminate worker
-- [ ] 2.4 Add `yieldToMain()` between batches on the main thread
+- [x] 2.1 Replace `getLogItemsForSite` call in `useRSSFeeds.ts` refresh function with `fetchWithWorker` helper
+- [x] 2.2 On each `batch` message: accumulate items (incremental); on `done`: process with `addHistoricalItems` + `mergeGitHubReadStatus` + update count
+- [x] 2.3 On `done` message: finalize count, terminate worker
+- [x] 2.4 Worker batches inherently yield between batches (`postMessage` boundary)
 
 ## 3. Update processQueue (initial load)
 
-- [ ] 3.1 Replace `getLogItemsForSite` call in `processQueue` with worker invocation (same pattern as refresh)
+- [x] 3.1 Replace `getLogItemsForSite` call in `processQueue` with `fetchWithWorker` (same pattern as refresh)
 
 ## 4. Cleanup
 
-- [ ] 4.1 Build & test pass
-- [ ] 4.2 Verify UI stays responsive during worker processing (no unresponsive page)
+- [x] 4.1 Full build & test pass
+- [ ] 4.2 Verify UI stays responsive during worker processing
