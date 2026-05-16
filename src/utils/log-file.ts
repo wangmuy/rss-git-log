@@ -8,6 +8,18 @@ import { yieldToMain } from './yield';
 const MAX_LOG_ITEMS_PER_FILE = 200;
 const FILENAME_DATE_REGEX = /^(\d{4}-\d{2}-\d{2})(-\d+)?\.json$/;
 
+export function isFileFromEarlierDate(filePath: string): boolean {
+  const basename = filePath.split('/').pop() || '';
+  const match = basename.match(FILENAME_DATE_REGEX);
+  if (!match) return false;
+  const today = new Date().toISOString().split('T')[0];
+  return match[1] < today;
+}
+
+export function isFullyRead(data: SiteLogData): boolean {
+  return data.items.length > 0 && data.items.every(i => i.readAt);
+}
+
 // ── Helpers ────────────────────────────────────────────────────────
 
 /**
@@ -267,6 +279,11 @@ async function mergeItemsIntoBucket(
     }
     cacheLogFile(config, siteId, targetFile!, siteLogData);
     pruneCachedLogFilesForSite(config, siteId);
+
+    // If the file is now fully read and not today's file, rename it to -allread
+    if (isFullyRead(siteLogData) && isFileFromEarlierDate(targetFile!)) {
+      renameToAllread(targetFile!).catch(e => console.error('Failed to rename to allread:', e));
+    }
   }
   
   return success;
@@ -479,6 +496,10 @@ export async function getLogItemsForSite(
       await readFromGitHubWithProvider(config, filePath) as SiteLogData;
     if (data) {
       cacheLogFile(config, siteId, filePath, data);
+      // If fully read and not today's file, rename to -allread so it's skipped next time
+      if (isFullyRead(data) && isFileFromEarlierDate(filePath)) {
+        renameToAllread(filePath).catch(e => console.error('Failed to rename to allread during fetch:', e));
+      }
       return data.items;
     }
     return [];

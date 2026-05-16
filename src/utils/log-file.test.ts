@@ -3,8 +3,11 @@ import {
   groupByPubDate,
   getSiteLogDir,
   parseLogFilename,
+  isFullyRead,
+  isFileFromEarlierDate,
 } from './log-file';
 import type { LogItem } from '@/types/log';
+import { SiteLogData } from '@/types/log';
 
 describe('groupByPubDate', () => {
   it('groups items by their pubDate', () => {
@@ -95,5 +98,54 @@ describe('parseLogFilename', () => {
     expect(parseLogFilename('2025-05-09-allread.json')).toBeNull();
     expect(parseLogFilename('readme.md')).toBeNull();
     expect(parseLogFilename('unknown-format.yaml')).toBeNull();
+  });
+});
+
+describe('isFullyRead', () => {
+  it('returns true when all items have readAt', () => {
+    const data: SiteLogData = {
+      metadata: { siteId: 's', siteName: 'S', oldestItemDate: '2026-01-01', newestItemDate: '2026-01-01', itemCount: 2, generatedAt: '' },
+      items: [
+        { itemId: '1', title: 'A', pubDate: '2026-01-01', readAt: '2026-01-02T00:00:00Z' },
+        { itemId: '2', title: 'B', pubDate: '2026-01-01', readAt: '2026-01-02T01:00:00Z' },
+      ]
+    };
+    expect(isFullyRead(data)).toBe(true);
+  });
+
+  it('returns false when any item lacks readAt', () => {
+    const data: SiteLogData = {
+      metadata: { siteId: 's', siteName: 'S', oldestItemDate: '2026-01-01', newestItemDate: '2026-01-01', itemCount: 2, generatedAt: '' },
+      items: [
+        { itemId: '1', title: 'A', pubDate: '2026-01-01', readAt: '2026-01-02T00:00:00Z' },
+        { itemId: '2', title: 'B', pubDate: '2026-01-01' },
+      ]
+    };
+    expect(isFullyRead(data)).toBe(false);
+  });
+
+  it('returns false for empty items', () => {
+    const data: SiteLogData = {
+      metadata: { siteId: 's', siteName: 'S', oldestItemDate: '2026-01-01', newestItemDate: '2026-01-01', itemCount: 0, generatedAt: '' },
+      items: []
+    };
+    expect(isFullyRead(data)).toBe(false);
+  });
+});
+
+describe('isFileFromEarlierDate', () => {
+  it('returns true for yesterday file', () => {
+    const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+    expect(isFileFromEarlierDate(`logs/site/${yesterday}.json`)).toBe(true);
+  });
+
+  it('returns false for today file', () => {
+    const today = new Date().toISOString().split('T')[0];
+    expect(isFileFromEarlierDate(`logs/site/${today}.json`)).toBe(false);
+  });
+
+  it('returns false for non-log filenames', () => {
+    expect(isFileFromEarlierDate('logs/site/readme.md')).toBe(false);
+    expect(isFileFromEarlierDate('')).toBe(false);
   });
 });
