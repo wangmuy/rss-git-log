@@ -3,6 +3,7 @@ import { LogItem, SiteLogData } from '@/types/log';
 import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
 import { asyncPool } from './async-pool';
+import { yieldToMain } from './yield';
 
 const MAX_LOG_ITEMS_PER_FILE = 200;
 const FILENAME_DATE_REGEX = /^(\d{4}-\d{2}-\d{2})(-\d+)?\.json$/;
@@ -481,7 +482,7 @@ export async function getLogItemsForSite(
       return data.items;
     }
     return [];
-  });
+  }, yieldToMain);
 
   for (const items of allItemsArrays) {
     for (const item of items) {

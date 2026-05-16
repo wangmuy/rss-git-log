@@ -1,7 +1,8 @@
 export async function asyncPool<T, R>(
   items: T[],
   concurrency: number,
-  fn: (item: T) => Promise<R>
+  fn: (item: T) => Promise<R>,
+  yieldBetween?: () => Promise<void>
 ): Promise<R[]> {
   const results: R[] = [];
   let i = 0;
@@ -10,6 +11,7 @@ export async function asyncPool<T, R>(
     const idx = i++;
     if (idx >= items.length) return;
     results[idx] = await fn(items[idx]);
+    if (yieldBetween) await yieldBetween();
     await next();
   }
 
