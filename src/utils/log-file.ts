@@ -306,7 +306,11 @@ async function mergeItemsIntoBucket(
 
     // If the file is now fully read and not today's file, rename it to -allread
     if (isFullyRead(siteLogData) && isFileFromEarlierDate(targetFile!)) {
-      renameToAllread(targetFile!).catch(e => console.error('Failed to rename to allread:', e));
+      try {
+        await renameToAllread(targetFile!);
+      } catch (e) {
+        console.error('Failed to rename to allread:', e);
+      }
     }
   }
   
