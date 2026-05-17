@@ -51,17 +51,23 @@ export class GitHubProvider implements GitProvider {
 
   async writeFile(path: string, content: string, message: string): Promise<boolean> {
     if (!this.config.token) throw new Error('GitHub token is required for write operations');
-    const sha = await this.getFileSha(path);
-    const body = JSON.stringify({
-      message,
-      content: utf8ToBase64(content),
-      branch: this.branch(),
-      ...(sha ? { sha } : {})
-    });
-    const response = await this.fetchWithSignal(`${this.baseUrl}/contents/${encodeURIComponent(path)}`, {
-      method: 'PUT', headers: this.headers(), body
-    });
-    return response.ok;
+
+    for (let attempt = 0; attempt < 2; attempt++) {
+      const sha = await this.getFileSha(path);
+      const body = JSON.stringify({
+        message,
+        content: utf8ToBase64(content),
+        branch: this.branch(),
+        ...(sha ? { sha } : {})
+      });
+      const response = await this.fetchWithSignal(`${this.baseUrl}/contents/${encodeURIComponent(path)}`, {
+        method: 'PUT', headers: this.headers(), body
+      });
+      if (response.ok) return true;
+      if (response.status !== 409) return false;
+      // 409 Conflict — stale SHA, retry with fresh SHA
+    }
+    return false;
   }
 
   async deleteFile(path: string, message: string): Promise<boolean> {
