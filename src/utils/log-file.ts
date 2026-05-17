@@ -343,22 +343,18 @@ export async function commitAllFeedItems(
   try {
     // Group items by their pubDate
     const buckets = groupByPubDate(logItems);
-
-    // Process all buckets in parallel (different dates = different files, no conflicts)
-    const results = await Promise.allSettled(
-      Array.from(buckets.entries()).map(([dateStr, bucketItems]) =>
-        mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg)
-      )
-    );
-
-    const allSuccess = results.every(r => r.status === 'fulfilled' && r.value);
-    results.forEach((r, i) => {
-      if (r.status === 'rejected' || !r.value) {
-        const dateStr = Array.from(buckets.keys())[i];
-        console.error(`  Failed to commit ${buckets.get(dateStr)!.length} items to ${dateStr}`);
+    
+    let allSuccess = true;
+    
+    // Process buckets sequentially to avoid SHA race conditions on parallel writes
+    for (const [dateStr, bucketItems] of buckets) {
+      const success = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg);
+      if (!success) {
+        console.error(`  Failed to commit ${bucketItems.length} items to ${dateStr}`);
+        allSuccess = false;
       }
-    });
-
+    }
+    
     return allSuccess;
   } catch (error) {
     console.error('Failed to commit feed items:', error);
