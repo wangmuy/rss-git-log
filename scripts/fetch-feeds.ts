@@ -3,7 +3,6 @@ import { parseXMLDocument } from '../src/utils/feed-parser';
 import { generateItemIdFromItem } from '../src/utils/item-id';
 import { getSiteId } from '../src/utils/url';
 import { commitAllFeedItems } from '../src/utils/log-file';
-import { createGitHubClient, readFromGitHub, writeToGitHub, getGitHubFileSha } from '../src/utils/github-api';
 import type { GitHubConfig, CORSPolicy, CORSPolicyMode } from '../src/types/config';
 import type { RSSFeed, RSSItem, RSSConfig } from '../src/types/rss';
 import type { LogItem } from '../src/types/log';

@@ -307,7 +307,7 @@ async function mergeItemsIntoBucket(
     // If the file is now fully read and not today's file, rename it to -allread
     if (isFullyRead(siteLogData) && isFileFromEarlierDate(targetFile!)) {
       try {
-        await renameToAllread(targetFile!);
+        await renameToAllread(targetFile!, config);
       } catch (e) {
         console.error('Failed to rename to allread:', e);
       }
@@ -477,18 +477,18 @@ export async function readLog(siteId: string, date: Date = new Date()): Promise<
 /**
  * Rename log file to add -allread suffix
  */
-export async function renameToAllread(filePath: string): Promise<boolean> {
-  const config = getStoredConfig();
+export async function renameToAllread(filePath: string, config?: GitHubConfig): Promise<boolean> {
+  const cfg = config ?? getStoredConfig();
 
   const allreadPath = filePath.replace('.json', '-allread.json');
 
   try {
-    const content = await readFromGitHubWithProvider(config, filePath) as SiteLogData;
+    const content = await readFromGitHubWithProvider(cfg, filePath) as SiteLogData;
     if (!content) return false;
 
-    const success = await writeToGitHubWithProvider(config, allreadPath, JSON.stringify(content, null, 2), undefined);
+    const success = await writeToGitHubWithProvider(cfg, allreadPath, JSON.stringify(content, null, 2), undefined);
     if (success) {
-      await deleteFileWithProvider(config, filePath, 'Mark as allread - removing active log');
+      await deleteFileWithProvider(cfg, filePath, 'Mark as allread - removing active log');
     }
     return success;
   } catch (error) {
@@ -525,7 +525,7 @@ export async function getLogItemsForSite(
       cacheLogFile(config, siteId, filePath, data);
       // If fully read and not today's file, rename to -allread so it's skipped next time
       if (isFullyRead(data) && isFileFromEarlierDate(filePath)) {
-        renameToAllread(filePath).catch(e => console.error('Failed to rename to allread during fetch:', e));
+        renameToAllread(filePath, config).catch(e => console.error('Failed to rename to allread during fetch:', e));
       }
       return data.items;
     }
