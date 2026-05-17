@@ -261,7 +261,7 @@
 
 ## 20. Integrate renameToAllread into Commit Flow
 
-- [ ] 20.1 After commit completes, iterate changed files and check if all items have `readAt` set
-- [ ] 20.2 For each fully-read file, call `renameToAllread` to rename it to `<date>-allread.json` and delete the original
-- [ ] 20.3 Verify `getLogItemsForSite` already skips `-allread` files (confirm via test)
-- [ ] 20.4 Add unit test for post-commit allread renaming
+- [x] 20.1 After commit completes, iterate changed files and check if all items have `readAt` set
+- [x] 20.2 For each fully-read file, call `renameToAllread` to rename it to `<date>-allread.json` and delete the original
+- [x] 20.3 Verify `getLogItemsForSite` already skips `-allread` files (confirm via test)
+- [x] 20.4 Add unit test for post-commit allread renaming
