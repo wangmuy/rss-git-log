@@ -56,6 +56,10 @@ export interface LocalCacheConfig {
   filesPerSite: number;
 }
 
+export interface ItemStoreConfig {
+  provider: 'localstorage' | 'pglite';
+}
+
 export interface AppConfig {
   version: 1;
   github: GitHubConfig;
@@ -63,4 +67,5 @@ export interface AppConfig {
   corsPolicy: CORSPolicy;
   autoCommit: AutoCommitConfig;
   localCache: LocalCacheConfig;
+  itemStore: ItemStoreConfig;
 }

@@ -14,11 +14,13 @@
     "fetch-feeds": "tsx -r tsconfig-paths/register scripts/fetch-feeds.ts"
   },
   "dependencies": {
+    "@electric-sql/pglite": "^0.4.5",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^7.0.0",
     "@mui/material": "^7.0.0",
     "lz-string": "^1.5.0",
+    "minisearch": "^7.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "zustand": "^4.3.0"

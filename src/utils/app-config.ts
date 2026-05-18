@@ -1,4 +1,4 @@
-import { AppConfig, AutoCommitConfig, CORSPolicy, GitHubConfig, LocalCacheConfig } from '@/types/config';
+import { AppConfig, AutoCommitConfig, CORSPolicy, GitHubConfig, ItemStoreConfig, LocalCacheConfig } from '@/types/config';
 import { DEFAULT_CORS_POLICY } from './rss-parser';
 import { abortAllRequests } from './abort';
 
@@ -19,6 +19,10 @@ const DEFAULT_LOCAL_CACHE: LocalCacheConfig = {
   filesPerSite: 5
 };
 
+const DEFAULT_ITEM_STORE: ItemStoreConfig = {
+  provider: 'localstorage'
+};
+
 export const DEFAULT_APP_CONFIG: AppConfig = {
   version: 1,
   github: DEFAULT_GITHUB_CONFIG,
@@ -28,7 +32,8 @@ export const DEFAULT_APP_CONFIG: AppConfig = {
   },
   corsPolicy: DEFAULT_CORS_POLICY,
   autoCommit: DEFAULT_AUTO_COMMIT,
-  localCache: DEFAULT_LOCAL_CACHE
+  localCache: DEFAULT_LOCAL_CACHE,
+  itemStore: DEFAULT_ITEM_STORE
 };
 
 export function createDefaultAppConfig(overrides: Partial<AppConfig> = {}): AppConfig {
@@ -55,6 +60,10 @@ export function createDefaultAppConfig(overrides: Partial<AppConfig> = {}): AppC
     localCache: {
       ...DEFAULT_APP_CONFIG.localCache,
       ...overrides.localCache
+    },
+    itemStore: {
+      ...DEFAULT_APP_CONFIG.itemStore,
+      ...overrides.itemStore
     }
   };
 }

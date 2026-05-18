@@ -1,23 +1,23 @@
 ## 1. Core Interface & Types
 
-- [ ] 1.1 Define `ItemRecord`, `SearchResult`, `ItemStore` interface in `src/stores/item-store.ts`
-- [ ] 1.2 Add `storeProvider: 'localstorage' | 'pglite'` field to `AppConfig` in `src/types/config.ts`
-- [ ] 1.3 Create `useItemStore()` hook in `src/stores/use-item-store.ts` that reads config and returns the active store
+- [x] 1.1 Define `ItemRecord`, `SearchResult`, `ItemStore` interface in `src/stores/item-store.ts`
+- [x] 1.2 Add `storeProvider: 'localstorage' | 'pglite'` field to `AppConfig` in `src/types/config.ts`
+- [x] 1.3 Create `useItemStore()` hook in `src/stores/use-item-store.ts` that reads config and returns the active store
 
 ## 2. LocalStorageStore Implementation
 
-- [ ] 2.1 Implement `LocalStorageStore` in `src/stores/localstorage-store.ts` wrapping existing `readerStore` actions + `log-cache`
-- [ ] 2.2 Implement `search()` using MiniSearch (~8KB), rebuilding index from in-memory items on `init()`
-- [ ] 2.3 Wire `LocalStorageStore` into `useItemStore()` as default provider
+- [x] 2.1 Implement `LocalStorageStore` in `src/stores/localstorage-store.ts` wrapping existing `readerStore` actions + `log-cache`
+- [x] 2.2 Implement `search()` using MiniSearch (~8KB), rebuilding index from in-memory items on `init()`
+- [x] 2.3 Wire `LocalStorageStore` into `useItemStore()` as default provider
 
 ## 3. PGliteStore Implementation
 
-- [ ] 3.1 Add `@electric-sql/pglite` dependency
-- [ ] 3.2 Implement `PGliteStore` in `src/stores/pglite-store.ts` with PGlite `idb://rss-reader`, migrations, and all `ItemStore` methods
-- [ ] 3.3 No compression — PostgreSQL pages handle storage efficiency
-- [ ] 3.4 Load `pgvector` extension and create `items_vec` table (empty, for future use)
+- [x] 3.1 Add `@electric-sql/pglite` dependency
+- [x] 3.2 Implement `PGliteStore` in `src/stores/pglite-store.ts` with PGlite `idb://rss-reader`, migrations, and all `ItemStore` methods
+- [x] 3.3 No compression — PostgreSQL pages handle storage efficiency
+- [x] 3.4 Load `pgvector` extension and create `items_vec` table (empty, for future use)
 - [ ] 3.5 Run PGlite in a Worker (not main thread)
-- [ ] 3.6 Wire `PGliteStore` into `useItemStore()` for `provider === 'pglite'`
+- [x] 3.6 Wire `PGliteStore` into `useItemStore()` for `provider === 'pglite'`
 
 ## 4. Config Page Integration
 
