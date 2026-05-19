@@ -30,7 +30,7 @@ export class PGliteStore implements ItemStore {
         pub_date TEXT NOT NULL DEFAULT '',
         is_read INTEGER NOT NULL DEFAULT 0,
         read_at TEXT,
-        fetched_at TEXT NOT NULL DEFAULT (datetime('now'))
+        fetched_at TEXT NOT NULL DEFAULT (now())
       )
     `);
     await this.db.exec('CREATE INDEX IF NOT EXISTS idx_items_site ON items(site_id)');
@@ -74,7 +74,7 @@ export class PGliteStore implements ItemStore {
   async markAsRead(_siteId: string, itemId: string): Promise<void> {
     if (!this.db) return;
     await this.db.query(
-      'UPDATE items SET is_read = 1, read_at = datetime(\'now\') WHERE item_id = $1',
+      'UPDATE items SET is_read = 1, read_at = now() WHERE item_id = $1',
       [itemId]
     );
   }
@@ -82,14 +82,14 @@ export class PGliteStore implements ItemStore {
   async markSiteAsRead(siteId: string): Promise<void> {
     if (!this.db) return;
     await this.db.query(
-      'UPDATE items SET is_read = 1, read_at = datetime(\'now\') WHERE site_id = $1',
+      'UPDATE items SET is_read = 1, read_at = now() WHERE site_id = $1',
       [siteId]
     );
   }
 
   async markAllAsRead(): Promise<void> {
     if (!this.db) return;
-    await this.db.query('UPDATE items SET is_read = 1, read_at = datetime(\'now\')');
+    await this.db.query('UPDATE items SET is_read = 1, read_at = now()');
   }
 
   async isRead(_siteId: string, itemId: string): Promise<boolean> {
