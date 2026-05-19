@@ -11,6 +11,7 @@ export default defineConfig({
       '@': '/src'
     }
   },
+  assetsInclude: ['**/*.wasm', '**/*.data'],
   build: {
     target: 'es2018',
     minify: 'esbuild', // Use esbuild instead of terser (built-in)
