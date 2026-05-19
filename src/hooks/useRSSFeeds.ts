@@ -4,8 +4,8 @@ import { SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
-import { generateItemIdFromItem } from '@/utils/item-id';
 import { GitProviderConfig } from '@/types/git';
+import { getItemStore } from '@/stores/use-item-store';
 
 const getStoreState = () => useReaderStore.getState();
 
@@ -112,18 +112,8 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
             try {
               const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
               if (itemsList.length > 0) {
-                const githubItems = new Map(itemsList.map(i => [i.itemId, i]));
-                const rssItemIds = new Set(items.map(i => generateItemIdFromItem(i)));
-                const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
-                itemsList.forEach(item => {
-                  if (!rssItemIds.has(item.itemId)) {
-                    historicalItems.push({ itemId: item.itemId, title: item.title, pubDate: item.pubDate });
-                  }
-                });
-                if (historicalItems.length > 0) {
-                  addHistoricalItems(nextSiteId, historicalItems);
-                }
-                mergeGitHubReadStatus(nextSiteId, githubItems);
+                const store = await getItemStore();
+                await store.upsertItems(nextSiteId, itemsList);
               }
             } catch (e) {
               console.error('Failed to sync GitHub read status for', nextSiteId, e);
@@ -203,18 +193,8 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
               try {
                 const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
                 if (itemsList.length > 0) {
-                  const githubItems = new Map(itemsList.map((i: any) => [i.itemId, i]));
-                  const rssItemIds = new Set(items.map((i: any) => generateItemIdFromItem(i)));
-                  const historicalItems: Array<{ itemId: string; title: string; pubDate: string }> = [];
-                  itemsList.forEach((item: any) => {
-                    if (!rssItemIds.has(item.itemId)) {
-                      historicalItems.push({ itemId: item.itemId, title: item.title, pubDate: item.pubDate });
-                    }
-                  });
-                  if (historicalItems.length > 0) {
-                    addHistoricalItems(nextSiteId, historicalItems);
-                  }
-                  mergeGitHubReadStatus(nextSiteId, githubItems);
+                  const store = await getItemStore();
+                  await store.upsertItems(nextSiteId, itemsList);
                 }
               } catch (e) {
                 console.error('Failed to sync GitHub read status for', nextSiteId, e);

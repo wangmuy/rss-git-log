@@ -27,7 +27,7 @@
 
 ## 5. App Wiring
 
-- [ ] 5.1 Update `useRSSFeeds` to use `ItemStore.upsertItems` instead of `addHistoricalItems` + `mergeGitHubReadStatus`
+- [x] 5.1 Update `useRSSFeeds` to use `ItemStore.upsertItems` instead of `addHistoricalItems` + `mergeGitHubReadStatus`
 - [ ] 5.2 Update `SidebarFeedLayout` to use `ItemStore.getUnreadCount` for sidebar counts
 - [ ] 5.3 Update `FeedListPane` to use `ItemStore.isRead` for item read status (async Set rebuild in useEffect)
 - [ ] 5.4 Update `useCommit` to use `ItemStore.getItemsForCommit`
