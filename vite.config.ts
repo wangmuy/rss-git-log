@@ -28,6 +28,9 @@ export default defineConfig({
     port: 3000,
     open: true
   },
+  optimizeDeps: {
+    exclude: ['@electric-sql/pglite']
+  },
   test: {
     environment: 'jsdom',
     globals: false,
