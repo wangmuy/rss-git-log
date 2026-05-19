@@ -1,6 +1,8 @@
 ﻿import React, { useState, useEffect, useRef, useMemo, useLayoutEffect, useCallback } from 'react';
 import { useReaderStore } from '../store/readerStore';
 import { generateItemIdFromItem } from '@/utils/item-id';
+import { getItemStore } from '@/stores/use-item-store';
+import { SearchResult } from '@/stores/item-store';
 import {
   Box,
   List,
@@ -11,8 +13,11 @@ import {
   Chip,
   Stack,
   Paper,
-  CircularProgress
+  CircularProgress,
+  TextField,
+  InputAdornment
 } from '@mui/material';
+import SearchIcon from '@mui/icons-material/Search';
 import { SiteWithStatus } from '@/types/rss';
 import { FeedItem } from './FeedItem';
 
@@ -35,6 +40,24 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   const [selectedSiteId, setSelectedSiteId] = useState<string>(sites[0]?.siteId || '');
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
   const setSiteLoading = useReaderStore(state => state.setSiteLoading);
+
+  const [searchQuery, setSearchQuery] = useState('');
+  const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
+
+  const handleSearch = useCallback(async (query: string) => {
+    setSearchQuery(query);
+    if (!query.trim()) {
+      setSearchResults([]);
+      return;
+    }
+    try {
+      const store = await getItemStore();
+      const results = await store.search(query);
+      setSearchResults(results);
+    } catch {
+      setSearchResults([]);
+    }
+  }, []);
 
   const handleMarkAllAsRead = useCallback(async () => {
     const site = sites.find(s => s.siteId === selectedSiteId);
@@ -116,7 +139,50 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
             RSS Feeds ({sites.length})
           </Typography>
         </Box>
-        <List sx={{ flex: 1, overflow: 'auto', p: 0 }}>
+        <Box sx={{ px: 1, pt: 1 }}>
+          <TextField
+            size="small"
+            placeholder="Search feeds..."
+            value={searchQuery}
+            onChange={(e) => handleSearch(e.target.value)}
+            slotProps={{
+              input: {
+                startAdornment: (
+                  <InputAdornment position="start">
+                    <SearchIcon fontSize="small" />
+                  </InputAdornment>
+                )
+              }
+            }}
+            sx={{ bgcolor: 'rgba(255,255,255,0.15)', borderRadius: 1, '& .MuiInputBase-input': { color: 'inherit' }, '& .MuiInputAdornment-root': { color: 'inherit' } }}
+          />
+        </Box>
+        {searchResults.length > 0 && (
+          <Box sx={{ flex: 1, overflow: 'auto', borderBottom: 1, borderColor: 'divider' }}>
+            <Typography variant="caption" sx={{ px: 2, pt: 1, display: 'block', color: 'text.secondary' }}>
+              Search results ({searchResults.length})
+            </Typography>
+            {searchResults.map((result) => (
+              <ListItem key={result.itemId} disablePadding sx={{ pl: 2 }}>
+                <ListItemButton
+                  onClick={() => {
+                    setSelectedSiteId(result.siteId);
+                    setSearchResults([]);
+                    setSearchQuery('');
+                  }}
+                >
+                  <ListItemText
+                    primary={result.title}
+                    secondary={`${new Date(result.pubDate).toLocaleDateString()} · ${result.snippet.slice(0, 80)}...`}
+                    primaryTypographyProps={{ variant: 'body2', noWrap: true }}
+                    secondaryTypographyProps={{ variant: 'caption' }}
+                  />
+                </ListItemButton>
+              </ListItem>
+            ))}
+          </Box>
+        )}
+        <List sx={{ flex: searchResults.length > 0 ? '0 0 auto' : 1, overflow: 'auto', p: 0, display: searchResults.length > 0 ? 'none' : undefined }}>
           {sites.map((site) => {
             const unreadCount = getUnreadCount(site.siteId);
             const isSelected = site.siteId === selectedSiteId;

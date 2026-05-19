@@ -3,6 +3,7 @@ import { commitAllFeedItems } from '@/utils/log-file';
 import { useReaderStore } from '../store/readerStore';
 import { loadAppConfig } from '@/utils/app-config';
 import { yieldToMain } from '@/utils/yield';
+import { getItemStore } from '@/stores/use-item-store';
 
 interface UseCommitReturn {
   commit: () => Promise<boolean>;
@@ -25,7 +26,7 @@ export function useCommit(): UseCommitReturn {
   const [lastCommit, setLastCommit] = useState<Date | null>(null);
   const [error, setError] = useState<string | null>(null);
 
-  const { getAllItems, sites, isRead, setCommitting: setStoreCommitting } = useReaderStore();
+  const { sites, setCommitting: setStoreCommitting } = useReaderStore();
 
   const commit = useCallback(async (): Promise<boolean> => {
     if (committing) return false;
@@ -41,17 +42,11 @@ export function useCommit(): UseCommitReturn {
       }
 
       const results: Record<string, boolean> = {};
+      const store = await getItemStore();
 
-      // Process sites with limited concurrency to avoid rate limiting
       for (const site of sites) {
-        const allItems = getAllItems(site.siteId);
-        if (allItems.length === 0) continue;
-        const itemsWithReadStatus = allItems.map(item => ({
-          itemId: item.itemId,
-          title: item.title,
-          pubDate: item.pubDate,
-          readAt: isRead(site.siteId, item.itemId) ? new Date().toISOString() : undefined
-        }));
+        const itemsWithReadStatus = await store.getItemsForCommit(site.siteId);
+        if (itemsWithReadStatus.length === 0) continue;
         results[site.siteId] = await commitAllFeedItems(site.siteId, site.name, itemsWithReadStatus);
         await yieldToMain();
       }
@@ -72,7 +67,7 @@ export function useCommit(): UseCommitReturn {
       setCommitting(false);
       setStoreCommitting(false);
     }
-  }, [committing, getAllItems, sites, isRead, setStoreCommitting]);
+  }, [committing, sites, setStoreCommitting]);
 
   // Auto-commit timer
   useEffect(() => {

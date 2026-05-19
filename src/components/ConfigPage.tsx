@@ -11,6 +11,7 @@ import {
   DialogTitle,
   FormControl,
   FormControlLabel,
+  FormHelperText,
   Grid,
   InputLabel,
   MenuItem,
@@ -294,6 +295,41 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
                 inputProps={{ min: 0, max: 30 }}
                 fullWidth
               />
+            </Paper>
+          </Grid>
+          <Grid size={{ xs: 12, md: 6 }}>
+            <Paper sx={{ p: 2 }}>
+              <Typography variant="h6" gutterBottom>
+                Storage Provider
+              </Typography>
+              <FormControl fullWidth>
+                <Select
+                  value={config.itemStore?.provider || 'localstorage'}
+                  onChange={(event) => {
+                    const newProvider = event.target.value as string;
+                    if (newProvider !== config.itemStore?.provider) {
+                      if (window.confirm(
+                        'Switching storage providers will clear all local data and reload the page.\n' +
+                        'Your data on GitHub will not be affected.\n\n' +
+                        'Are you sure you want to switch?'
+                      )) {
+                        updateConfig({ ...config, itemStore: { provider: newProvider as any } });
+                        useReaderStore.getState().clearSession();
+                        window.location.reload();
+                      }
+                    }
+                  }}
+                  fullWidth
+                >
+                  <MenuItem value="localstorage">localStorage (default, fast)</MenuItem>
+                  <MenuItem value="pglite">PGlite (PostgreSQL WASM, scalable, search)</MenuItem>
+                </Select>
+              </FormControl>
+              <FormHelperText>
+                {config.itemStore?.provider === 'pglite'
+                  ? 'PGlite uses IndexedDB for storage. No compression needed. Supports full-text search.'
+                  : 'LocalStorage with per-entry lz-string compression. Suitable for most users.'}
+              </FormHelperText>
             </Paper>
           </Grid>
         </Grid>
