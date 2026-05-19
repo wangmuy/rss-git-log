@@ -314,6 +314,7 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
                         'Are you sure you want to switch?'
                       )) {
                         updateConfig({ ...config, itemStore: { provider: newProvider as any } });
+                        saveAppConfig(createDefaultAppConfig({ ...config, itemStore: { provider: newProvider as any } }));
                         useReaderStore.getState().clearSession();
                         window.location.reload();
                       }
