@@ -62,7 +62,7 @@ export class PGliteStore implements ItemStore {
   }>): Promise<void> {
     if (!this.db || items.length === 0) return;
     const t0 = performance.now();
-    console.log(`[PGliteStore] upsertItems: ${items.length} items for ${siteId}`);
+    console.log(`[PGliteStore] upsertItems: ${items.length} items for ${siteId}. Sample:`, items.slice(0, 2).map(i => ({ id: i.itemId?.slice(0,20), title: (i.title||'').slice(0,40) })));
 
     // Batch insert in groups of 20 to avoid oversized queries
     const BATCH = 20;
@@ -87,6 +87,10 @@ export class PGliteStore implements ItemStore {
           `INSERT INTO items (id, item_id, site_id, guid, title, link, description, pub_date, is_read, read_at)
            VALUES ${values.join(',')}
            ON CONFLICT (id) DO UPDATE SET
+             title = COALESCE(NULLIF(EXCLUDED.title, ''), items.title),
+             link = COALESCE(NULLIF(EXCLUDED.link, ''), items.link),
+             description = COALESCE(NULLIF(EXCLUDED.description, ''), items.description),
+             pub_date = COALESCE(NULLIF(EXCLUDED.pub_date, ''), items.pub_date),
              is_read = items.is_read,
              read_at = items.read_at`,
           params
@@ -123,6 +127,10 @@ export class PGliteStore implements ItemStore {
     state.mergeGitHubReadStatus(siteId, githubItemsMap);
 
     console.log(`[PGliteStore] upsertItems done: ${(performance.now() - t0).toFixed(0)}ms`);
+    // Log item count per site for diagnostics
+    const cntRes = await this.db.query('SELECT site_id, COUNT(*) AS cnt FROM items GROUP BY site_id');
+    const cnts = ((cntRes.rows as any[]) ?? []).map((r: any) => `${r.site_id?.slice(0,20)}: ${r.cnt}`);
+    console.log('[PGliteStore] items per site:', cnts);
   }
 
   async markAsRead(_siteId: string, itemId: string): Promise<void> {
