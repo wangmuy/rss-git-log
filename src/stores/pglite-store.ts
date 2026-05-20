@@ -1,13 +1,16 @@
 import { ItemStore, SearchResult } from './item-store';
 import { PGlite } from '@electric-sql/pglite';
+import { useReaderStore } from '../store/readerStore';
 
 export class PGliteStore implements ItemStore {
   private db: PGlite | null = null;
 
   async init(): Promise<void> {
+    console.log('[PGliteStore] init start');
     this.db = new PGlite('idb://rss-reader');
     await this.db.waitReady;
     await this.migrate();
+    console.log('[PGliteStore] init done');
   }
 
   async clear(): Promise<void> {
@@ -37,19 +40,18 @@ export class PGliteStore implements ItemStore {
     await this.db.exec('CREATE INDEX IF NOT EXISTS idx_items_site ON items(site_id)');
     await this.db.exec('CREATE INDEX IF NOT EXISTS idx_items_read ON items(is_read)');
     await this.db.exec('CREATE INDEX IF NOT EXISTS idx_items_pub_date ON items(pub_date DESC)');
+    console.log('[PGliteStore] migration done');
   }
 
-  private async safeExec(sql: string, params?: any[]): Promise<void> {
-    if (!this.db) return;
+  private async query(sql: string, params?: any[]): Promise<any> {
+    if (!this.db) return null;
     try {
-      if (params) {
-        await this.db.query(sql, params);
-      } else {
-        await this.db.exec(sql);
-      }
-    } catch {
+      const res = await this.db.query(sql, params);
+      return res;
+    } catch (e: any) {
+      console.error('[PGliteStore] query error:', e?.message || e, 'sql:', sql.slice(0, 100));
       try { await this.db.exec('ROLLBACK'); } catch {}
-      throw new Error(`Query failed, connection reset needed`);
+      throw e;
     }
   }
 
@@ -58,48 +60,86 @@ export class PGliteStore implements ItemStore {
     pubDate: string; readAt?: string;
   }>): Promise<void> {
     if (!this.db || items.length === 0) return;
-    const conn = this.db;
+    const t0 = performance.now();
+    console.log(`[PGliteStore] upsertItems: ${items.length} items for ${siteId}`);
 
-    for (const item of items) {
+    // Batch insert in groups of 20 to avoid oversized queries
+    const BATCH = 20;
+    for (let i = 0; i < items.length; i += BATCH) {
+      const batch = items.slice(i, i + BATCH);
+      const values: string[] = [];
+      const params: any[] = [];
+      let idx = 1;
+
+      for (const item of batch) {
+        values.push(`(md5($${idx}),$${idx},$${idx+1},$${idx+2},$${idx+3},$${idx+4},$${idx+5},$${idx+6},$${idx+7},$${idx+8})`);
+        params.push(
+          item.itemId, siteId, item.itemId, item.title || '',
+          item.link || '', item.description || '', item.pubDate || '',
+          item.readAt ? 1 : 0, item.readAt || null
+        );
+        idx += 9;
+      }
+
       try {
-        await conn.query(
+        await this.db.query(
           `INSERT INTO items (id, item_id, site_id, guid, title, link, description, pub_date, is_read, read_at)
-           VALUES (md5($1), $1, $2, $3, $4, $5, $6, $7, $8, $9)
+           VALUES ${values.join(',')}
            ON CONFLICT (id) DO UPDATE SET
-             title = COALESCE(NULLIF(EXCLUDED.title, ''), items.title),
-             link = COALESCE(NULLIF(EXCLUDED.link, ''), items.link),
-             description = COALESCE(NULLIF(EXCLUDED.description, ''), items.description),
-             pub_date = COALESCE(NULLIF(EXCLUDED.pub_date, ''), items.pub_date),
              is_read = items.is_read,
              read_at = items.read_at`,
-          [
-            item.itemId, siteId, item.itemId, item.title || '',
-            item.link || '', item.description || '', item.pubDate || '',
-            item.readAt ? 1 : 0, item.readAt || null
-          ]
+          params
         );
-      } catch {
-        try { await conn.exec('ROLLBACK'); } catch {}
+      } catch (e: any) {
+        console.error('[PGliteStore] batch insert error:', e?.message || e);
+        // Try individual inserts as fallback
+        for (const item of batch) {
+          try {
+            await this.db.query(
+              `INSERT INTO items (id, item_id, site_id, guid, title, link, description, pub_date, is_read, read_at)
+               VALUES (md5($1), $1, $2, $3, $4, $5, $6, $7, $8, $9)
+               ON CONFLICT (id) DO UPDATE SET
+                 is_read = items.is_read,
+                 read_at = items.read_at`,
+              [item.itemId, siteId, item.itemId, item.title || '',
+               item.link || '', item.description || '', item.pubDate || '',
+               item.readAt ? 1 : 0, item.readAt || null]
+            );
+          } catch (e2: any) {
+            console.error('[PGliteStore] individual insert error:', e2?.message || e2, 'itemId:', item.itemId?.slice(0, 40));
+          }
+        }
       }
     }
+
+    // Sync Zustand store so sidebar displays all items
+    const state = useReaderStore.getState();
+    const storeItems = items.map(i => ({
+      itemId: i.itemId, title: i.title, pubDate: i.pubDate
+    }));
+    state.addHistoricalItems(siteId, storeItems);
+    const githubItemsMap = new Map(items.map(i => [i.itemId, { itemId: i.itemId, title: i.title, pubDate: i.pubDate, readAt: i.readAt }]));
+    state.mergeGitHubReadStatus(siteId, githubItemsMap);
+
+    console.log(`[PGliteStore] upsertItems done: ${(performance.now() - t0).toFixed(0)}ms`);
   }
 
   async markAsRead(_siteId: string, itemId: string): Promise<void> {
-    await this.safeExec(
+    await this.query(
       'UPDATE items SET is_read = 1, read_at = now() WHERE id = md5($1)',
       [itemId]
     );
   }
 
   async markSiteAsRead(siteId: string): Promise<void> {
-    await this.safeExec(
+    await this.query(
       'UPDATE items SET is_read = 1, read_at = now() WHERE site_id = $1',
       [siteId]
     );
   }
 
   async markAllAsRead(): Promise<void> {
-    await this.safeExec('UPDATE items SET is_read = 1, read_at = now()');
+    await this.query('UPDATE items SET is_read = 1, read_at = now()');
   }
 
   async isRead(_siteId: string, itemId: string): Promise<boolean> {
@@ -110,8 +150,8 @@ export class PGliteStore implements ItemStore {
         [itemId]
       );
       return res.rows?.[0]?.is_read === 1;
-    } catch {
-      try { await this.db.exec('ROLLBACK'); } catch {}
+    } catch (e: any) {
+      console.error('[PGliteStore] isRead error:', e?.message || e);
       return false;
     }
   }
@@ -124,8 +164,8 @@ export class PGliteStore implements ItemStore {
         [siteId]
       );
       return res.rows?.[0]?.cnt ?? 0;
-    } catch {
-      try { await this.db.exec('ROLLBACK'); } catch {}
+    } catch (e: any) {
+      console.error('[PGliteStore] getUnreadCount error:', e?.message || e);
       return 0;
     }
   }
@@ -141,8 +181,8 @@ export class PGliteStore implements ItemStore {
         counts[row.site_id] = row.cnt;
       }
       return counts;
-    } catch {
-      try { await this.db.exec('ROLLBACK'); } catch {}
+    } catch (e: any) {
+      console.error('[PGliteStore] getAllUnreadCounts error:', e?.message || e);
       return {};
     }
   }
@@ -169,7 +209,8 @@ export class PGliteStore implements ItemStore {
         params
       );
       rows.push(...(res.rows as any[]));
-    } catch {
+    } catch (e: any) {
+      console.error('[PGliteStore] tsvector search error:', e?.message || e, '- falling back to LIKE');
       try {
         const siteFilter = siteId ? ' AND site_id = $2' : '';
         const params: any[] = [query];
@@ -183,8 +224,8 @@ export class PGliteStore implements ItemStore {
           params
         );
         rows.push(...(res.rows as any[]));
-      } catch {
-        try { await this.db.exec('ROLLBACK'); } catch {}
+      } catch (e2: any) {
+        console.error('[PGliteStore] LIKE search error:', e2?.message || e2);
       }
     }
 
@@ -213,8 +254,8 @@ export class PGliteStore implements ItemStore {
         pubDate: row.pub_date,
         readAt: row.read_at || undefined
       }));
-    } catch {
-      try { await this.db.exec('ROLLBACK'); } catch {}
+    } catch (e: any) {
+      console.error('[PGliteStore] getItemsForCommit error:', e?.message || e);
       return [];
     }
   }
