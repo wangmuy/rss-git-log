@@ -43,21 +43,25 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
+  const searchTimerRef = useRef<ReturnType<typeof setTimeout>>();
 
   const handleSearch = useCallback(async (query: string) => {
     setSearchQuery(query);
+    if (searchTimerRef.current) clearTimeout(searchTimerRef.current);
     if (!query.trim()) {
       setSearchResults([]);
       return;
     }
-    try {
-      const store = await getItemStore();
-      const results = await store.search(query);
-      setSearchResults(results);
-    } catch (e) {
-      console.error('[Search] error:', e);
-      setSearchResults([]);
-    }
+    searchTimerRef.current = setTimeout(async () => {
+      try {
+        const store = await getItemStore();
+        const results = await store.search(query);
+        setSearchResults(results);
+      } catch (e) {
+        console.error('[Search] error:', e);
+        setSearchResults([]);
+      }
+    }, 300);
   }, []);
 
   const handleMarkAllAsRead = useCallback(async () => {

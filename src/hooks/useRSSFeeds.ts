@@ -4,6 +4,7 @@ import { SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
+import { generateItemIdFromItem } from '@/utils/item-id';
 import { GitProviderConfig } from '@/types/git';
 import { getItemStore } from '@/stores/use-item-store';
 
@@ -111,10 +112,20 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           if (appConfig.githubWriteCapability.canWrite) {
             try {
               const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
-              if (itemsList.length > 0) {
-                const store = await getItemStore();
-                await store.upsertItems(nextSiteId, itemsList);
+              // Merge RSS feed items + historical GitHub items so PGlite has everything
+              const allStoreItems = itemsList.map((i: any) => i);
+              const rssItemIds = new Set(itemsList.map((i: any) => i.itemId));
+              for (const item of items) {
+                const itemId = generateItemIdFromItem(item);
+                if (!rssItemIds.has(itemId)) {
+                  allStoreItems.push({
+                    itemId, title: item.title || '', link: item.link,
+                    description: item.description, pubDate: item.pubDate
+                  });
+                }
               }
+              const store = await getItemStore();
+              await store.upsertItems(nextSiteId, allStoreItems);
             } catch (e) {
               console.error('Failed to sync GitHub read status for', nextSiteId, e);
             }
@@ -192,10 +203,19 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
             if (appConfig.githubWriteCapability.canWrite) {
               try {
                 const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
-                if (itemsList.length > 0) {
-                  const store = await getItemStore();
-                  await store.upsertItems(nextSiteId, itemsList);
+                const allStoreItems = itemsList.map((i: any) => i);
+                const rssItemIds = new Set(itemsList.map((i: any) => i.itemId));
+                for (const item of items) {
+                  const itemId = generateItemIdFromItem(item);
+                  if (!rssItemIds.has(itemId)) {
+                    allStoreItems.push({
+                      itemId, title: item.title || '', link: item.link,
+                      description: item.description, pubDate: item.pubDate
+                    });
+                  }
                 }
+                const store = await getItemStore();
+                await store.upsertItems(nextSiteId, allStoreItems);
               } catch (e) {
                 console.error('Failed to sync GitHub read status for', nextSiteId, e);
               }
