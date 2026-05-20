@@ -1,5 +1,6 @@
 import { ItemStore, SearchResult } from './item-store';
 import { PGlite } from '@electric-sql/pglite';
+import { pg_textsearch } from '@electric-sql/pglite/pg_textsearch';
 import { useReaderStore } from '../store/readerStore';
 
 export class PGliteStore implements ItemStore {
@@ -7,7 +8,7 @@ export class PGliteStore implements ItemStore {
 
   async init(): Promise<void> {
     console.log('[PGliteStore] init start');
-    this.db = new PGlite('idb://rss-reader');
+    this.db = new PGlite('idb://rss-reader', { extensions: { pg_textsearch } });
     await this.db.waitReady;
     await this.migrate();
     console.log('[PGliteStore] init done');
@@ -190,45 +191,53 @@ export class PGliteStore implements ItemStore {
   async search(query: string, siteId?: string): Promise<SearchResult[]> {
     if (!this.db || !query.trim()) return [];
     const rows: Array<{ item_id: string; site_id: string; title: string; description: string; pub_date: string }> = [];
+    const t0 = performance.now();
 
+    // LIKE search always works (no extensions needed)
     try {
-      const siteFilter = siteId ? ' AND i.site_id = $2' : '';
-      const params: any[] = [query];
+      const siteFilter = siteId ? ' AND site_id = $2' : '';
+      const params: any[] = [`%${query}%`];
       if (siteId) params.push(siteId);
       const res = await this.db.query(
-        `SELECT i.item_id, i.site_id, i.title, i.description, i.pub_date
-         FROM items i
-         WHERE to_tsvector('english', i.title || ' ' || i.description)
-               @@ plainto_tsquery('english', $1)
+        `SELECT item_id, site_id, title, description, pub_date
+         FROM items
+         WHERE title ILIKE $1 OR description ILIKE $1
          ${siteFilter}
-         ORDER BY ts_rank(
-           to_tsvector('english', i.title || ' ' || i.description),
-           plainto_tsquery('english', $1)
-         ) DESC
          LIMIT 20`,
         params
       );
       rows.push(...(res.rows as any[]));
     } catch (e: any) {
-      console.error('[PGliteStore] tsvector search error:', e?.message || e, '- falling back to LIKE');
+      console.error('[PGliteStore] LIKE search error:', e?.message || e);
+    }
+
+    // Try tsvector FTS for better ranking (extension may or may not load)
+    if (rows.length === 0) {
       try {
-        const siteFilter = siteId ? ' AND site_id = $2' : '';
+        const siteFilter = siteId ? ' AND i.site_id = $2' : '';
         const params: any[] = [query];
         if (siteId) params.push(siteId);
         const res = await this.db.query(
-          `SELECT item_id, site_id, title, description, pub_date
-           FROM items
-           WHERE title LIKE '%' || $1 || '%' OR description LIKE '%' || $1 || '%'
+          `SELECT i.item_id, i.site_id, i.title, i.description, i.pub_date
+           FROM items i
+           WHERE to_tsvector('english', i.title || ' ' || i.description)
+                 @@ plainto_tsquery('english', $1)
            ${siteFilter}
+           ORDER BY ts_rank(
+             to_tsvector('english', i.title || ' ' || i.description),
+             plainto_tsquery('english', $1)
+           ) DESC
            LIMIT 20`,
           params
         );
         rows.push(...(res.rows as any[]));
-      } catch (e2: any) {
-        console.error('[PGliteStore] LIKE search error:', e2?.message || e2);
+        console.log('[PGliteStore] FTS search returned', rows.length, 'results');
+      } catch (e: any) {
+        console.log('[PGliteStore] FTS search unavailable (pg_textsearch may not be loaded):', e?.message?.slice(0, 80));
       }
     }
 
+    console.log(`[PGliteStore] search "${query}" found ${rows.length} results in ${(performance.now() - t0).toFixed(0)}ms`);
     return rows.map((row: any, i: number) => ({
       itemId: row.item_id,
       siteId: row.site_id,

@@ -54,7 +54,8 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
       const store = await getItemStore();
       const results = await store.search(query);
       setSearchResults(results);
-    } catch {
+    } catch (e) {
+      console.error('[Search] error:', e);
       setSearchResults([]);
     }
   }, []);
