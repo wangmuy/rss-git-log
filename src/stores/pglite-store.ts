@@ -188,10 +188,16 @@ export class PGliteStore implements ItemStore {
     }
   }
 
-  async search(query: string, siteId?: string): Promise<SearchResult[]> {
+async search(query: string, siteId?: string): Promise<SearchResult[]> {
     if (!this.db || !query.trim()) return [];
     const rows: Array<{ item_id: string; site_id: string; title: string; description: string; pub_date: string }> = [];
     const t0 = performance.now();
+
+    // Log DB item count to verify data exists
+    const countRes = await this.db.query('SELECT COUNT(*) AS cnt FROM items');
+    const totalItems = (countRes.rows as any[])?.[0]?.cnt ?? 0;
+    const sampleRes = await this.db.query('SELECT title FROM items LIMIT 3');
+    const sampleTitles = ((sampleRes.rows as any[]) ?? []).map((r: any) => r.title);
 
     // LIKE search always works (no extensions needed)
     try {
@@ -211,33 +217,7 @@ export class PGliteStore implements ItemStore {
       console.error('[PGliteStore] LIKE search error:', e?.message || e);
     }
 
-    // Try tsvector FTS for better ranking (extension may or may not load)
-    if (rows.length === 0) {
-      try {
-        const siteFilter = siteId ? ' AND i.site_id = $2' : '';
-        const params: any[] = [query];
-        if (siteId) params.push(siteId);
-        const res = await this.db.query(
-          `SELECT i.item_id, i.site_id, i.title, i.description, i.pub_date
-           FROM items i
-           WHERE to_tsvector('english', i.title || ' ' || i.description)
-                 @@ plainto_tsquery('english', $1)
-           ${siteFilter}
-           ORDER BY ts_rank(
-             to_tsvector('english', i.title || ' ' || i.description),
-             plainto_tsquery('english', $1)
-           ) DESC
-           LIMIT 20`,
-          params
-        );
-        rows.push(...(res.rows as any[]));
-        console.log('[PGliteStore] FTS search returned', rows.length, 'results');
-      } catch (e: any) {
-        console.log('[PGliteStore] FTS search unavailable (pg_textsearch may not be loaded):', e?.message?.slice(0, 80));
-      }
-    }
-
-    console.log(`[PGliteStore] search "${query}" found ${rows.length} results in ${(performance.now() - t0).toFixed(0)}ms`);
+    console.log(`[PGliteStore] search "${query}" — DB has ${totalItems} items, sample titles:`, sampleTitles, `found ${rows.length} results (${(performance.now() - t0).toFixed(0)}ms)`);
     return rows.map((row: any, i: number) => ({
       itemId: row.item_id,
       siteId: row.site_id,
