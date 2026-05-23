@@ -200,10 +200,8 @@ async search(query: string, siteId?: string): Promise<SearchResult[]> {
     if (!this.db || !query.trim()) return [];
     const t0 = performance.now();
 
-    const countRes = await this.db.query('SELECT COUNT(*) AS cnt FROM items');
-    const totalItems = (countRes.rows as any[])?.[0]?.cnt ?? 0;
-    const sampleRes = await this.db.query('SELECT title FROM items LIMIT 3');
-    const sampleTitles = ((sampleRes.rows as any[]) ?? []).map((r: any) => r.title);
+    // Yield to browser so pending React state updates (keystrokes) render before the blocking query
+    await new Promise(r => setTimeout(r, 0));
 
     let rows: Array<{ item_id: string; site_id: string; title: string; description: string; pub_date: string }> = [];
 
@@ -225,15 +223,7 @@ async search(query: string, siteId?: string): Promise<SearchResult[]> {
       console.error('[PGliteStore] regex search error:', e?.message || e);
     }
 
-    // Diagnostic: if 0 results, check a few specific titles to verify data is queryable
-    if (rows.length === 0) {
-      try {
-        const diagRes = await this.db.query('SELECT title FROM items LIMIT 10');
-        console.log('[PGliteStore] search 0 results — sample titles in DB:', (diagRes.rows as any[]).map(r => r.title));
-      } catch {}
-    }
-
-    console.log(`[PGliteStore] search "${query}" — DB has ${totalItems} items, sample titles:`, sampleTitles, `found ${rows.length} results (${(performance.now() - t0).toFixed(0)}ms)`);
+    console.log(`[PGliteStore] search "${query}" — found ${rows.length} results (${(performance.now() - t0).toFixed(0)}ms)`);
     return rows.map((row: any, i: number) => ({
       itemId: row.item_id,
       siteId: row.site_id,
