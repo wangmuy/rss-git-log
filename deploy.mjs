@@ -38,24 +38,15 @@ if (!repo && !token) {
 const subfolderPath = subfolder ? `/${subfolder}/` : '/';
 console.log(`Deploying to: ${repo} (base: ${subfolderPath})`);
 
-const distIndex = resolve(__dirname, 'dist', 'index.html');
-if (existsSync(distIndex)) {
-  const html = readFileSync(distIndex, 'utf-8');
-  const srcMatch = html.match(/src="\/([^"]+)\/assets\//);
-  if (srcMatch) {
-    const currentBase = srcMatch[1];
-    const targetBase = subfolder.replace(/\/$/, '');
-    if (currentBase !== targetBase) {
-      console.log(`Current build base ("/${currentBase}") differs from target ("/${targetBase}"), rebuilding...`);
-      const buildEnv = { ...process.env, VITE_BASE: subfolderPath };
-      execSync('npm run build', { stdio: 'inherit', env: buildEnv });
-    } else {
-      console.log(`Build base ("/${currentBase}") matches target, using existing dist.`);
-    }
-  } else if (subfolder) {
-    console.log('No subfolder detected in current build, rebuilding...');
+const viteBaseFile = resolve(__dirname, 'dist', '.vite-base');
+if (existsSync(viteBaseFile)) {
+  const currentBase = readFileSync(viteBaseFile, 'utf-8').trim();
+  if (currentBase !== subfolderPath) {
+    console.log(`Current build base ("${currentBase}") differs from target ("${subfolderPath}"), rebuilding...`);
     const buildEnv = { ...process.env, VITE_BASE: subfolderPath };
     execSync('npm run build', { stdio: 'inherit', env: buildEnv });
+  } else {
+    console.log(`Build base ("${currentBase}") matches target, using existing dist.`);
   }
 } else {
   console.log('No dist folder found, building...');

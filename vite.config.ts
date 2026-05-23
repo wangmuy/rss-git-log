@@ -1,7 +1,11 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import { writeFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
 
 const base = process.env.VITE_BASE || '/';
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   plugins: [
@@ -16,6 +20,12 @@ export default defineConfig({
           return { id: '/src/stubs/browser-external.ts' };
         }
         return null;
+      }
+    },
+    {
+      name: 'vite-base-marker',
+      closeBundle() {
+        writeFileSync(resolve(__dirname, 'dist', '.vite-base'), base, 'utf-8');
       }
     }
   ],
@@ -47,25 +57,9 @@ export default defineConfig({
     }
   },
   assetsInclude: ['**/*.wasm', '**/*.data'],
-  build: {
-    target: 'es2020',
-    minify: 'esbuild', // Use esbuild instead of terser (built-in)
-    sourcemap: true,
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom', 'zustand'],
-          mui: ['@mui/material', '@emotion/react', '@emotion/styled']
-        }
-      }
-    }
-  },
   server: {
     port: 3000,
     open: true
-  },
-  optimizeDeps: {
-    exclude: ['@electric-sql/pglite']
   },
   test: {
     environment: 'jsdom',
