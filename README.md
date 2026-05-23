@@ -23,7 +23,7 @@ A lean React Single Page Application (SPA) for reading RSS feeds with automatic 
 - **PGlite Search**: PostgreSQL WASM-backed full-text search with `~*` case-insensitive regex
 - **Two Storage Providers**: Choose between localStorage (fast, compressed) and PGlite (scalable, searchable)
 
-> **Try the demo**: [https://wangmuy.github.io/rss-git-log/](https://wangmuy.github.io/rss-git-log/)
+> **Try the demo**: [https://wangmuy.github.io/rss-git-log/](https://wangmuy.github.io/rss-git-log/) — your GitHub token stays in your browser's localStorage; nothing is sent to any server.
 
 ## 🚀 Quick Start
 
