@@ -207,8 +207,8 @@ async search(query: string, siteId?: string): Promise<SearchResult[]> {
 
     let rows: Array<{ item_id: string; site_id: string; title: string; description: string; pub_date: string }> = [];
 
-    // Inline LIKE (faster than ~* regex) with LOWER() for case-insensitivity
-    const safePattern = query.replace(/'/g, "''");
+    // Inline case-insensitive regex (~* operator — avoids PGlite v0.4.5 LOWER/ILIKE issues)
+    const escPattern = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/'/g, "''");
     const siteFilterSql = siteId
       ? ` AND site_id = '${siteId.replace(/'/g, "''")}'`
       : '';
@@ -216,27 +216,13 @@ async search(query: string, siteId?: string): Promise<SearchResult[]> {
       const res = await this.db.query(
         `SELECT item_id, site_id, title, description, pub_date
          FROM items
-         WHERE (LOWER(title) LIKE LOWER('%${safePattern}%') OR LOWER(description) LIKE LOWER('%${safePattern}%'))
+         WHERE (title ~* '${escPattern}' OR description ~* '${escPattern}')
          ${siteFilterSql}
          LIMIT 20`
       );
       rows = res.rows as any[];
     } catch (e: any) {
-      console.error('[PGliteStore] LIKE search error:', e?.message || e);
-    }
-
-    // Fallback: if LOWER didn't work (PGlite may not support it), do case-sensitive LIKE
-    if (rows.length === 0 && totalItems > 0) {
-      try {
-        const res = await this.db.query(
-          `SELECT item_id, site_id, title, description, pub_date
-           FROM items
-           WHERE (title LIKE '%${safePattern}%' OR description LIKE '%${safePattern}%')
-           ${siteFilterSql}
-           LIMIT 20`
-        );
-        rows = res.rows as any[];
-      } catch {}
+      console.error('[PGliteStore] regex search error:', e?.message || e);
     }
 
     // Diagnostic: if 0 results, check a few specific titles to verify data is queryable
