@@ -81,20 +81,30 @@ async function handleEmbedFromChannel(items: Array<{ id: string; text: string }>
     return;
   }
   console.log(`[W2] embedding ${items.length} items from W1 channel`);
+  let skipped = 0;
   for (const item of items) {
     try {
+      // Skip if already embedded (embeddings are expensive — compute once per item)
+      const exists = await db.query(
+        `SELECT 1 FROM embeddings WHERE item_id = $1`,
+        [item.id]
+      );
+      if (exists.rows && exists.rows.length > 0) {
+        skipped++;
+        continue;
+      }
       const output = await embedPipeline(item.text, { pooling: 'mean', normalize: true });
       const vector = arrayToVectorString(Array.from(output.data));
       await db.query(
-        `INSERT INTO embeddings (item_id, embedding) VALUES ($1, $2)
-         ON CONFLICT (item_id) DO UPDATE SET embedding = $2`,
+        `INSERT INTO embeddings (item_id, embedding) VALUES ($1, $2)`,
         [item.id, vector]
       );
     } catch (e: any) {
       console.error('[W2] embed error for', item.id?.slice(0, 20), e?.message?.slice(0, 60));
     }
   }
-  console.log(`[W2] done embedding ${items.length} items`);
+  if (skipped > 0) console.log(`[W2] skipped ${skipped} already-embedded items`);
+  console.log(`[W2] done embedding ${items.length - skipped} new items`);
 }
 
 // ── Vector Search ────────────────────────────────────
