@@ -34,7 +34,8 @@ import { useReaderStore } from '../store/readerStore';
 import {
   checkGitHubWriteCapability,
   createGitHubClient,
-  saveGitHubWriteCapability
+  saveGitHubWriteCapability,
+  readFromGitHub
 } from '@/utils/github-api';
 import { pruneCachedLogFiles } from '@/utils/log-cache';
 
@@ -105,6 +106,18 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
           enabled: capability.canWrite ? nextConfig.autoCommit.enabled : false
         }
       });
+
+      // Verify rss-config.json is readable before allowing navigation to reader
+      if (savedConfig.github.owner && savedConfig.github.repo) {
+        try {
+          const client = createGitHubClient(savedConfig.github);
+          await readFromGitHub(client, 'rss-config.json');
+        } catch (readErr: any) {
+          setError(`Cannot read rss-config.json from GitHub: ${readErr.message || readErr}. Check your repository and token.`);
+          setSaving(false);
+          return;
+        }
+      }
 
       saveAppConfig(savedConfig);
       saveGitHubWriteCapability(savedConfig.github, capability);
@@ -308,16 +321,7 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
                   onChange={(event) => {
                     const newProvider = event.target.value as string;
                     if (newProvider !== config.itemStore?.provider) {
-                      if (window.confirm(
-                        'Switching storage providers will clear all local data and reload the page.\n' +
-                        'Your data on GitHub will not be affected.\n\n' +
-                        'Are you sure you want to switch?'
-                      )) {
-                        updateConfig({ ...config, itemStore: { provider: newProvider as any } });
-                        saveAppConfig(createDefaultAppConfig({ ...config, itemStore: { provider: newProvider as any } }));
-                        useReaderStore.getState().clearSession();
-                        window.location.reload();
-                      }
+                      updateConfig({ ...config, itemStore: { provider: newProvider as any } });
                     }
                   }}
                   fullWidth

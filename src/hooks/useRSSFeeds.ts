@@ -109,9 +109,11 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           updateSite(nextSiteId, items, 0);
 
           const appConfig = loadAppConfig();
+          const store = await getItemStore();
           if (appConfig.githubWriteCapability.canWrite) {
             try {
               const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
+              console.log(`[useRSSFeeds] GitHub returned ${itemsList.length} items for ${nextSiteId}`);
               // Merge RSS feed items + historical GitHub items so PGlite has everything
               const allStoreItems = itemsList.map((i: any) => i);
               const rssItemIds = new Set(itemsList.map((i: any) => i.itemId));
@@ -124,11 +126,22 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
                   });
                 }
               }
-              const store = await getItemStore();
+              const newCount = allStoreItems.length - itemsList.length;
+              console.log(`[useRSSFeeds] PGlite upsert: ${allStoreItems.length} total (${itemsList.length} GitHub + ${newCount} new RSS) for ${nextSiteId}`);
               await store.upsertItems(nextSiteId, allStoreItems);
             } catch (e) {
               console.error('Failed to sync GitHub read status for', nextSiteId, e);
             }
+          } else {
+            // Always store items in PGlite for search, even without GitHub
+            const rssStoreItems = items.map(item => ({
+              itemId: generateItemIdFromItem(item),
+              title: item.title || '',
+              link: item.link,
+              description: item.description,
+              pubDate: item.pubDate
+            }));
+            await store.upsertItems(nextSiteId, rssStoreItems);
           }
 
           const currentStoreState = getStoreState();
@@ -200,9 +213,11 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
             updateSite(nextSiteId, items, 0);
 
             const appConfig = loadAppConfig();
+            const store = await getItemStore();
             if (appConfig.githubWriteCapability.canWrite) {
               try {
                 const itemsList = await fetchWithWorker(appConfig.github, nextSiteId);
+                console.log(`[useRSSFeeds] refresh GitHub returned ${itemsList.length} items for ${nextSiteId}`);
                 const allStoreItems = itemsList.map((i: any) => i);
                 const rssItemIds = new Set(itemsList.map((i: any) => i.itemId));
                 for (const item of items) {
@@ -214,11 +229,22 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
                     });
                   }
                 }
-                const store = await getItemStore();
+                const newCount = allStoreItems.length - itemsList.length;
+                console.log(`[useRSSFeeds] refresh PGlite upsert: ${allStoreItems.length} total (${itemsList.length} GitHub + ${newCount} new RSS) for ${nextSiteId}`);
                 await store.upsertItems(nextSiteId, allStoreItems);
               } catch (e) {
                 console.error('Failed to sync GitHub read status for', nextSiteId, e);
               }
+            } else {
+              // Always store items in PGlite for search, even without GitHub
+              const rssStoreItems = items.map(item => ({
+                itemId: generateItemIdFromItem(item),
+                title: item.title || '',
+                link: item.link,
+                description: item.description,
+                pubDate: item.pubDate
+              }));
+              await store.upsertItems(nextSiteId, rssStoreItems);
             }
 
             const currentStoreState = getStoreState();

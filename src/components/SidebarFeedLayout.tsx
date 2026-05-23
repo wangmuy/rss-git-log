@@ -48,7 +48,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   const handleSearch = useCallback(async (query: string) => {
     setSearchQuery(query);
     if (searchTimerRef.current) clearTimeout(searchTimerRef.current);
-    if (!query.trim()) {
+    if (query.trim().length < 2) {
       setSearchResults([]);
       return;
     }
@@ -61,7 +61,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
         console.error('[Search] error:', e);
         setSearchResults([]);
       }
-    }, 300);
+    }, 500);
   }, []);
 
   const handleMarkAllAsRead = useCallback(async () => {
