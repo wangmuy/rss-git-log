@@ -8,6 +8,7 @@ import { pipeline } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers
 let db: PGlite | null = null;
 let dbPort: MessagePort | null = null;
 let embedPipeline: any = null;
+let pendingEmbeds: Array<{ id: string; text: string }> = [];
 
 // ── Init ──────────────────────────────────────────────
 async function handleInit(payload: any) {
@@ -54,6 +55,12 @@ async function startModelDownload() {
     });
     console.log('[W2] model ready');
     self.postMessage({ type: 'STATUS', status: 'MODEL_READY' });
+    // Drain pending queue — embed items that arrived before model was ready
+    if (pendingEmbeds.length > 0) {
+      const batch = pendingEmbeds.splice(0);
+      console.log(`[W2] draining ${batch.length} pending embeds`);
+      handleEmbedFromChannel(batch);
+    }
   } catch (e: any) {
     console.error('[W2] model download failed:', e?.message || e);
     self.postMessage({ type: 'STATUS', status: 'MODEL_ERROR', error: e?.message || String(e) });
@@ -66,7 +73,13 @@ function arrayToVectorString(arr: number[]): string {
 
 // ── Embed Items (from W1 via MessageChannel) ─────────
 async function handleEmbedFromChannel(items: Array<{ id: string; text: string }>) {
-  if (!db || !embedPipeline) return;
+  if (!db) return;
+  if (!embedPipeline) {
+    // Model not loaded yet — queue for later processing
+    pendingEmbeds.push(...items);
+    console.log(`[W2] queued ${items.length} items for later embedding (pending: ${pendingEmbeds.length})`);
+    return;
+  }
   console.log(`[W2] embedding ${items.length} items from W1 channel`);
   for (const item of items) {
     try {
