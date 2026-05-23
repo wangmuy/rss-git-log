@@ -11,13 +11,7 @@ async function handleInit(payload: any) {
 db = new PGlite('idb://rss-reader');
   await db.waitReady;
 
-  // Try to enable tsvector support
-  try {
-    await db.exec('CREATE EXTENSION IF NOT EXISTS fts');
-    console.log('[W1] fts extension enabled');
-  } catch (e: any) {
-    console.log('[W1] fts extension not available:', e?.message?.slice(0, 60));
-  }
+  console.log('[W1] PGlite ready');
 
   await db.exec(`
     CREATE TABLE IF NOT EXISTS items (
@@ -272,15 +266,15 @@ async function handleGetUnreadCount(payload: any) {
   }
 }
 
-async function handleGetAllUnreadCounts() {
+async function handleGetAllUnreadCounts(seq: number) {
   if (!db) return;
   try {
     const res = await db.query<{ site_id: string; cnt: number }>('SELECT site_id, COUNT(*) AS cnt FROM items WHERE is_read = 0 GROUP BY site_id');
     const counts: Record<string, number> = {};
     for (const row of res.rows ?? []) counts[row.site_id] = row.cnt;
-    self.postMessage({ seq: -1, type: 'ALL_UNREAD_COUNTS', counts });
+    self.postMessage({ seq, type: 'ALL_UNREAD_COUNTS', counts });
   } catch {
-    self.postMessage({ seq: -1, type: 'ALL_UNREAD_COUNTS', counts: {} });
+    self.postMessage({ seq, type: 'ALL_UNREAD_COUNTS', counts: {} });
   }
 }
 
@@ -349,7 +343,7 @@ self.onmessage = async (e: MessageEvent) => {
       case 'markAllRead': await handleMarkAllRead(); break;
       case 'isRead': await handleIsRead({ seq, ...payload }); break;
       case 'getUnreadCount': await handleGetUnreadCount({ seq, ...payload }); break;
-      case 'getAllUnreadCounts': await handleGetAllUnreadCounts(); break;
+      case 'getAllUnreadCounts': await handleGetAllUnreadCounts(seq); break;
       case 'getItemsForCommit': await handleGetItemsForCommit({ seq, ...payload }); break;
       case 'clear': await handleClear({ seq, ...payload }); break;
       default:

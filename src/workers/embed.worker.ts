@@ -1,4 +1,5 @@
 import { PGlite } from '@electric-sql/pglite';
+import { vector } from '@electric-sql/pglite/vector';
 
 let db: PGlite | null = null;
 let dbPort: MessagePort | null = null;
@@ -19,10 +20,8 @@ async function handleInit(payload: any) {
     console.log('[W2] MessageChannel from W1 established');
   }
 
-  db = new PGlite('idb://rss-vectors');
+  db = new PGlite('idb://rss-vectors', { extensions: { vector } });
   await db.waitReady;
-
-  await db.exec('CREATE EXTENSION IF NOT EXISTS vector');
   await db.exec(`
     CREATE TABLE IF NOT EXISTS embeddings (
       item_id TEXT PRIMARY KEY,
