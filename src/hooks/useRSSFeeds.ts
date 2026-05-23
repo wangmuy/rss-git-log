@@ -129,6 +129,13 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
               const newCount = allStoreItems.length - itemsList.length;
               console.log(`[useRSSFeeds] PGlite upsert: ${allStoreItems.length} total (${itemsList.length} GitHub + ${newCount} new RSS) for ${nextSiteId}`);
               await store.upsertItems(nextSiteId, allStoreItems);
+              // Sync Zustand store for sidebar display and unread count
+              const storeItems = allStoreItems.map((i: any) => ({
+                itemId: i.itemId, title: i.title, pubDate: i.pubDate
+              }));
+              useReaderStore.getState().addHistoricalItems(nextSiteId, storeItems);
+              const githubItemsMap = new Map(allStoreItems.map((i: any) => [i.itemId, { itemId: i.itemId, title: i.title, pubDate: i.pubDate, readAt: i.readAt }]));
+              useReaderStore.getState().mergeGitHubReadStatus(nextSiteId, githubItemsMap);
             } catch (e) {
               console.error('Failed to sync GitHub read status for', nextSiteId, e);
             }
@@ -232,7 +239,14 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
                 const newCount = allStoreItems.length - itemsList.length;
                 console.log(`[useRSSFeeds] refresh PGlite upsert: ${allStoreItems.length} total (${itemsList.length} GitHub + ${newCount} new RSS) for ${nextSiteId}`);
                 await store.upsertItems(nextSiteId, allStoreItems);
-              } catch (e) {
+              // Sync Zustand store for sidebar display and unread count
+              const storeItems = allStoreItems.map((i: any) => ({
+                itemId: i.itemId, title: i.title, pubDate: i.pubDate
+              }));
+              useReaderStore.getState().addHistoricalItems(nextSiteId, storeItems);
+              const githubItemsMap = new Map(allStoreItems.map((i: any) => [i.itemId, { itemId: i.itemId, title: i.title, pubDate: i.pubDate, readAt: i.readAt }]));
+              useReaderStore.getState().mergeGitHubReadStatus(nextSiteId, githubItemsMap);
+            } catch (e) {
                 console.error('Failed to sync GitHub read status for', nextSiteId, e);
               }
             } else {
@@ -245,6 +259,13 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
                 pubDate: item.pubDate
               }));
               await store.upsertItems(nextSiteId, rssStoreItems);
+              // Sync Zustand store for sidebar display and unread count
+              const storeItems2 = rssStoreItems.map((i: any) => ({
+                itemId: i.itemId, title: i.title, pubDate: i.pubDate
+              }));
+              useReaderStore.getState().addHistoricalItems(nextSiteId, storeItems2);
+              const githubItemsMap2 = new Map(rssStoreItems.map((i: any) => [i.itemId, { itemId: i.itemId, title: i.title, pubDate: i.pubDate, readAt: i.readAt }]));
+              useReaderStore.getState().mergeGitHubReadStatus(nextSiteId, githubItemsMap2);
             }
 
             const currentStoreState = getStoreState();
