@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-import { writeFileSync } from 'fs';
+import { writeFileSync, existsSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -25,7 +25,13 @@ export default defineConfig({
     {
       name: 'vite-base-marker',
       closeBundle() {
-        writeFileSync(resolve(__dirname, 'dist', '.vite-base'), base, 'utf-8');
+        try {
+          const dir = resolve(__dirname, 'dist');
+          if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+          writeFileSync(resolve(dir, '.vite-base'), base, 'utf-8');
+        } catch (e) {
+          console.warn('[vite-base-marker] could not write .vite-base:', e);
+        }
       }
     }
   ],
@@ -55,6 +61,9 @@ export default defineConfig({
         warn(warning);
       }
     }
+  },
+  worker: {
+    format: 'es'
   },
   assetsInclude: ['**/*.wasm', '**/*.data'],
   server: {
