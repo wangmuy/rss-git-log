@@ -1,4 +1,5 @@
-import { PGlite } from '@electric-sql/pglite';
+// @ts-ignore
+import { PGlite } from 'https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.4.5/dist/index.min.js';
 
 let db: PGlite | null = null;
 let embedPort: MessagePort | null = null;
@@ -288,7 +289,7 @@ async function handleGetItemsForCommit(payload: any) {
     self.postMessage({
       seq: payload.seq,
       type: 'ITEMS_FOR_COMMIT',
-      items: res.rows.map(row => ({
+      items: res.rows.map((row: any) => ({
         itemId: row.item_id,
         title: row.title,
         pubDate: row.pub_date,

@@ -1,6 +1,9 @@
-import { PGlite } from '@electric-sql/pglite';
-import { vector } from '@electric-sql/pglite/vector';
-import { pipeline } from '@huggingface/transformers';
+// @ts-ignore
+import { PGlite } from 'https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.4.5/dist/index.min.js';
+// @ts-ignore
+import { vector } from 'https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.4.5/dist/vector/index.min.js';
+// @ts-ignore
+import { pipeline } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@4.2.0/dist/transformers.min.js';
 
 let db: PGlite | null = null;
 let dbPort: MessagePort | null = null;
@@ -93,7 +96,7 @@ async function handleVectorSearch(payload: any) {
       `SELECT item_id FROM embeddings ORDER BY embedding <=> $1 ASC LIMIT 30`,
       [vector]
     );
-    const ids = (res.rows ?? []).map(r => r.item_id);
+    const ids = (res.rows ?? []).map((r: any) => r.item_id);
     console.log(`[W2] vectorSearch "${text}" found ${ids.length} results (${(performance.now() - t0).toFixed(0)}ms)`);
     self.postMessage({ seq: payload.seq, type: 'VECTOR_SEARCH', ids });
   } catch (e: any) {
