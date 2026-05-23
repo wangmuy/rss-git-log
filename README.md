@@ -131,24 +131,26 @@ Open your browser to: `http://localhost:3000`
 
 On first launch, the app will open the **Config Page** (no `.env` files needed!):
 
-1. **GitHub Storage**:
+1. **Storage Provider**: Choose between localStorage (default) and PGlite (PostgreSQL WASM, supports search)
+
+2. **GitHub Storage**:
    - Owner: `your-username`
    - Repo: `rss-reader-data`
    - Branch: `main` (reads and writes use the same branch)
    - Token: Only needed for private repos or write operations
 
-2. **CORS Policy** (for RSS feeds):
+3. **CORS Policy** (for RSS feeds):
    - **Direct Only**: Only use direct fetch (fastest, but may fail due to CORS)
    - **Proxy Fallback** (default): Try direct first, then try proxies
    - **Proxy Only**: Always use proxy (most reliable for CORS-blocked feeds)
    - Configure proxy order and custom proxy templates
    - Set per-attempt timeout (default: 10000ms)
 
-3. **Auto-Commit**: Disabled by default
+4. **Auto-Commit**: Disabled by default
    - Enable only when write capability is confirmed
    - Interval: 300 seconds (5 minutes) default
 
-4. **Local Cache**: 1 log file per site (default)
+5. **Local Cache**: 1 log file per site (default)
    - Adjust to keep more history in localStorage
 
 > **Write Capability Check**: After saving a token, the app automatically checks if it can write to your repo. The manual commit button and auto-commit are only enabled when write access is confirmed.
@@ -229,6 +231,192 @@ The app uses a versioned `AppConfig` stored in localStorage:
 **Local Cache:**
 - **filesPerSite**: Number of log files cached per site in localStorage (default: 1, set to 0 to disable)
 
+## 🔧 Commands
+
+```bash
+# Development
+npm run dev
+
+# Production Build
+npm run build
+
+# Build for GitHub Pages subpath
+VITE_BASE=/rss-git-log/ npm run build
+
+# Preview Production
+npm run preview
+
+# Type Check
+npm run build  # includes TypeScript check
+
+# Test
+npm run test
+
+# Deploy to GitHub Pages (uses current repo from package.json)
+npm run deploy
+
+# Deploy with custom repo and/or subfolder
+npm run deploy:custom -- -r owner/repo
+npm run deploy:custom -- -s subfolder
+npm run deploy:custom -- -r owner/repo -s subfolder
+
+# Run feed fetcher locally (requires env vars)
+GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-data npm run fetch-feeds
+```
+
+## 🚀 Deploy to GitHub Pages
+
+### Quick Deploy
+
+Deploy the app to GitHub Pages using the `gh-pages` package:
+
+```bash
+npm run deploy
+```
+
+This deploys to the current repository's GitHub Pages (detected from `package.json` repository field).
+
+### Deploy to Custom Repository
+
+```bash
+# Deploy to a different repository
+npm run deploy:custom -- -r owner/repo-name
+
+# Deploy to a subfolder (e.g., yoursite.com/repo-name/myapp)
+npm run deploy:custom -- -r owner/repo-name -s myapp
+
+# Deploy to subfolder only (uses current repo)
+npm run deploy:custom -- -s myapp
+```
+
+### How It Works
+
+1. The `deploy.mjs` script sets the `VITE_BASE` environment variable to the subfolder path
+2. Vite builds with the correct base path for routing
+3. `gh-pages` publishes the `dist/` folder to the `gh-pages` branch
+4. GitHub Pages serves the app at `https://<owner>.github.io/<repo>/`
+
+### Notes
+
+- The app uses client-side routing - the `public/_redirects` file ensures proper handling
+- For subfolder deployment, all assets load from the subfolder path
+- Token and config are stored in localStorage, so they persist after redeployment
+
+## 🐛 Troubleshooting
+
+### "Config file not found"
+- Ensure `rss-config.json` exists in your GitHub repo
+- Check GitHub config in Config page (owner, repo, branch)
+- Verify repo is public (or token is valid)
+- Wait 30 seconds (GitHub cache)
+- Re-run write capability check from Config page
+
+### "Failed to fetch RSS feeds"
+- Some feeds block CORS - check CORS policy setting
+- Check feed URLs are valid
+- Try "proxy-only" mode for problematic feeds
+- Check browser console for specific errors
+- Adjust timeout in Config page if feeds are slow
+
+### "CORS errors"
+Normal when using direct-only mode. The app supports:
+1. **Direct fetch** (if CORS enabled)
+2. **Proxy Fallback** (default): corsproxy.io → allorigins.win
+3. **Proxy Only**: Always use configured proxies
+
+### "Cannot write to GitHub"
+- Check write capability status in Config page
+- Verify token has `repo` scope
+- Ensure token isn't expired
+- Check branch exists and token can push to it
+- Try re-saving config to re-check capability
+
+### "Write capability check failed"
+- Token may be invalid or expired
+- Token may not have `repo` scope
+- Repository or branch may not exist
+- Check browser console for detailed error
+
+### Items not marking as read
+- Check browser console for errors
+- Verify localStorage is enabled
+- Try manual commit to test GitHub connection
+- Check local cache settings (Config page)
+
+### LocalStorage growing too large
+- Reduce "files per site" in Config page (Local Cache section)
+- Set to 0 to disable log-file caching
+- Cache is automatically evicted based on your retention setting
+
+## ⏰ Automated Feed Fetching (GitHub Action)
+
+A scheduled GitHub Action can periodically fetch all RSS feeds and commit unread logs without any human involvement.
+
+### How It Works
+
+The workflow at `.github/workflows/fetch-feeds.yml` runs every 8 hours and on demand via `workflow_dispatch`. It checks out your data branch, reads `rss-config.json`, fetches every feed using the configured CORS proxy policy, and commits `logs/{siteId}/YYYY-MM-DD.json` back to the data branch.
+
+### Enabling
+
+1. Create a data branch (default: `rss-reader-data`) in your repository
+2. Add your `rss-config.json` to that branch
+3. The workflow runs automatically on schedule — no further config needed
+
+All parameters are overridable from the Actions tab via **Run workflow**:
+- **code_branch**: Code branch with package.json and scripts (default: `main`)
+- **data_branch**: Data branch with `rss-config.json` (default: `rss-reader-data`)
+- **proxy_mode**: `direct-only`, `proxy-fallback`, or `proxy-only`
+- **proxy_templates**: Ordered proxy list with `{url}` placeholder
+- **timeout_ms**: Per-feed timeout in milliseconds
+- **pool_size**: Concurrent fetch limit (default: 5)
+- **target_token/owner/repo**: Target a different repository
+
+### Using in Another Repository
+
+Fork this repo and copy `.github/workflows/fetch-feeds.yml` into your fork. The workflow runs in the same repo that contains the code, reading `rss-config.json` from a data branch and committing logs back to it.
+
+### Local Testing
+
+```bash
+# Set required env vars and run the fetch script directly
+GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-data npm run fetch-feeds
+```
+
+## 🎯 Roadmap
+
+### MVP Features ✅
+- [x] Runtime Config UI (no `.env` files)
+- [x] GitHub API integration (read/write)
+- [x] RSS feed fetching and parsing
+- [x] Read status tracking
+- [x] Site-based log files with chunking
+- [x] Subscription management UI
+- [x] Sidebar layout implementation
+- [x] CORS policy control (direct/proxy modes)
+- [x] Write capability check with UI gating
+- [x] Local cache with per-site retention
+- [x] Auto-commit functionality (disabled by default)
+- [x] Clean UI with MUI
+- [x] GitHub Action scheduled feed fetching
+- [x] GitHub Pages static site deploy
+- [x] Vim-style j/k keyboard navigation
+- [x] Search/filter with PGlite full-text search
+- [x] PGlite PostgreSQL WASM storage provider
+
+### Future Enhancements
+- [ ] Feed categories/tags
+- [ ] Export data (CSV/JSON)
+- [ ] Dark mode theme
+- [ ] PWA offline support
+- [ ] Feed discovery
+- [ ] Multi-user support (with auth)
+
+---
+
+## Developer Notes
+
+The sections below cover architecture, project structure, performance, and security for those working on the codebase.
+
 ## 🏗️ Architecture
 
 ### Data Flow
@@ -260,6 +448,10 @@ Commit to logs/{siteId}/YYYY-MM-DD.json
 1. **Session State**: Browser localStorage (immediate, fast)
 2. **Persistent Logs**: GitHub API (permanent, shareable)
 3. **Runtime Config**: localStorage (GitHub credentials, CORS policy, settings)
+
+### Item Store Providers
+
+Two implementations — `PGliteStore` (PostgreSQL WASM, IndexedDB-backed, full-text search) and `LocalStorageStore` (lz-string compressed). Selected via ConfigPage.
 
 ### Unique Identifiers
 
@@ -335,73 +527,13 @@ src/
 └── App.tsx               # Main application
 ```
 
-## 🔧 Commands
+## 📊 Performance
 
-```bash
-# Development
-npm run dev
-
-# Production Build
-npm run build
-
-# Preview Production
-npm run preview
-
-# Type Check
-npm run build  # includes TypeScript check
-
-# Test
-npm run test
-
-# Deploy to GitHub Pages (uses current repo from package.json)
-npm run deploy
-
-# Deploy with custom repo and/or subfolder
-npm run deploy:custom -- -r owner/repo
-npm run deploy:custom -- -s subfolder
-npm run deploy:custom -- -r owner/repo -s subfolder
-
-# Run feed fetcher locally (requires env vars)
-GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-data npm run fetch-feeds
-```
-
-## 🚀 Deploy to GitHub Pages
-
-### Quick Deploy
-
-Deploy the app to GitHub Pages using the `gh-pages` package:
-
-```bash
-npm run deploy
-```
-
-This deploys to the current repository's GitHub Pages (detected from `package.json` repository field).
-
-### Deploy to Custom Repository
-
-```bash
-# Deploy to a different repository
-npm run deploy:custom -- -r owner/repo-name
-
-# Deploy to a subfolder (e.g., yoursite.com/repo-name/myapp)
-npm run deploy:custom -- -r owner/repo-name -s myapp
-
-# Deploy to subfolder only (uses current repo)
-npm run deploy:custom -- -s myapp
-```
-
-### How It Works
-
-1. The `deploy.mjs` script sets the `VITE_BASE` environment variable to the subfolder path
-2. Vite builds with the correct base path for routing
-3. `gh-pages` publishes the `dist/` folder to the `gh-pages` branch
-4. GitHub Pages serves the app at `https://<owner>.github.io/<repo>/`
-
-### Notes
-
-- The app uses client-side routing - the `public/_redirects` file ensures proper handling
-- For subfolder deployment, all assets load from the subfolder path
-- Token and config are stored in localStorage, so they persist after redeployment
+- **Initial Load**: ~1-2 seconds
+- **Feed Fetching**: Parallel requests, ~500ms per feed
+- **Bundle Size**: ~300KB gzipped
+- **Memory**: <50MB for typical usage
+- **LocalStorage**: Bounded by `filesPerSite` setting (default ~5MB per site)
 
 ## 🔒 Security Considerations
 
@@ -433,123 +565,6 @@ npm run deploy:custom -- -s myapp
    - Config page allows disabling third-party proxies.
    - Users can add custom proxy templates.
 
-## 🐛 Troubleshooting
-
-### "Config file not found"
-- Ensure `rss-config.json` exists in your GitHub repo
-- Check GitHub config in Config page (owner, repo, branch)
-- Verify repo is public (or token is valid)
-- Wait 30 seconds (GitHub cache)
-- Re-run write capability check from Config page
-
-### "Failed to fetch RSS feeds"
-- Some feeds block CORS - check CORS policy setting
-- Check feed URLs are valid
-- Try "proxy-only" mode for problematic feeds
-- Check browser console for specific errors
-- Adjust timeout in Config page if feeds are slow
-
-### "CORS errors"
-Normal when using direct-only mode. The app supports:
-1. **Direct fetch** (if CORS enabled)
-2. **Proxy Fallback** (default): corsproxy.io → allorigins.win
-3. **Proxy Only**: Always use configured proxies
-
-### "Cannot write to GitHub"
-- Check write capability status in Config page
-- Verify token has `repo` scope
-- Ensure token isn't expired
-- Check branch exists and token can push to it
-- Try re-saving config to re-check capability
-
-### "Write capability check failed"
-- Token may be invalid or expired
-- Token may not have `repo` scope
-- Repository or branch may not exist
-- Check browser console for detailed error
-
-### Items not marking as read
-- Check browser console for errors
-- Verify localStorage is enabled
-- Try manual commit to test GitHub connection
-- Check local cache settings (Config page)
-
-### LocalStorage growing too large
-- Reduce "files per site" in Config page (Local Cache section)
-- Set to 0 to disable log-file caching
-- Cache is automatically evicted based on your retention setting
-
-## 📊 Performance
-
-- **Initial Load**: ~1-2 seconds
-- **Feed Fetching**: Parallel requests, ~500ms per feed
-- **Bundle Size**: ~300KB gzipped
-- **Memory**: <50MB for typical usage
-- **LocalStorage**: Bounded by `filesPerSite` setting (default ~5MB per site)
-
-## ⏰ Automated Feed Fetching (GitHub Action)
-
-A scheduled GitHub Action can periodically fetch all RSS feeds and commit unread logs without any human involvement.
-
-### How It Works
-
-The workflow at `.github/workflows/fetch-feeds.yml` runs every 8 hours and on demand via `workflow_dispatch`. It checks out your data branch, reads `rss-config.json`, fetches every feed using the configured CORS proxy policy, and commits `logs/{siteId}/YYYY-MM-DD.json` back to the data branch.
-
-### Enabling
-
-1. Create a data branch (default: `rss-reader-data`) in your repository
-2. Add your `rss-config.json` to that branch
-3. The workflow runs automatically on schedule — no further config needed
-
-All parameters are overridable from the Actions tab via **Run workflow**:
-- **code_branch**: Code branch with package.json and scripts (default: `main`)
-- **data_branch**: Data branch with `rss-config.json` (default: `rss-reader-data`)
-- **proxy_mode**: `direct-only`, `proxy-fallback`, or `proxy-only`
-- **proxy_templates**: Ordered proxy list with `{url}` placeholder
-- **timeout_ms**: Per-feed timeout in milliseconds
-- **pool_size**: Concurrent fetch limit (default: 5)
-- **target_token/owner/repo**: Target a different repository
-
-### Using in Another Repository
-
-Fork this repo and copy `.github/workflows/fetch-feeds.yml` into your fork. The workflow runs in the same repo that contains the code, reading `rss-config.json` from a data branch and committing logs back to it.
-
-### Local Testing
-
-```bash
-# Set required env vars and run the fetch script directly
-GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-data npm run fetch-feeds
-```
-
-## 🎯 Roadmap
-
-### MVP Features ✅
-- [x] Runtime Config UI (no `.env` files)
-- [x] GitHub API integration (read/write)
-- [x] RSS feed fetching and parsing
-- [x] Read status tracking
-- [x] Site-based log files with chunking
-- [x] Subscription management UI
-- [x] Sidebar layout implementation
-- [x] CORS policy control (direct/proxy modes)
-- [x] Write capability check with UI gating
-- [x] Local cache with per-site retention
-- [x] Auto-commit functionality (disabled by default)
-- [x] Clean UI with MUI
-- [x] GitHub Action scheduled feed fetching
-- [x] GitHub Pages static site deploy
-- [x] Vim-style j/k keyboard navigation
-- [x] Search/filter with PGlite full-text search
-- [x] PGlite PostgreSQL WASM storage provider
-
-### Future Enhancements
-- [ ] Feed categories/tags
-- [ ] Export data (CSV/JSON)
-- [ ] Dark mode theme
-- [ ] PWA offline support
-- [ ] Feed discovery
-- [ ] Multi-user support (with auth)
-
 ## 🤝 Contributing
 
 This is a learning project. Feel free to:
@@ -572,18 +587,9 @@ Built with:
 
 **Last Updated**: 2026-05-04
 
-**Next Steps**:
-1. Read some articles - Click on items or press `j`/`k` to navigate and mark as read
-2. Change settings - Toggle "Show Read Items"
-3. Manage subscriptions - Add/edit/delete RSS feeds via UI
-4. Check write capability - Save token in Config page to enable commit features
-5. Manual commit - Click the save icon to commit to GitHub (when write is confirmed)
-6. Check GitHub - After commit, look for `logs/{siteId}/YYYY-MM-DD.json`
-7. Enable cron fetching - Push `.github/workflows/fetch-feeds.yml` to `main` and create `rss-reader-data` branch
-
 **Need Help?**
 1. Check browser console (F12)
-2. Review this README troubleshooting section
+2. Review the troubleshooting section above
 3. Use the Config page to verify settings and re-check write capability
 4. Check GitHub REST API docs: https://docs.github.com/en/rest
 
