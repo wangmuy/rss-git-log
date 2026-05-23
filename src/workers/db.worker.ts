@@ -143,17 +143,17 @@ async function handleSearch(payload: any) {
     const lang = detectLang(query);
     const config = lang === 'zh' ? 'simple' : 'english';
     const formattedQuery = query.trim().replace(/\s+/g, ' & ');
-    const params: any[] = [query, formattedQuery, config];
+    const params: any[] = [formattedQuery, config];  // $1 = formattedQuery, $2 = config
     let sql = `SELECT item_id, site_id, title, description, pub_date
        FROM items
-       WHERE search_vector @@ to_tsquery($3, $2)
-       ORDER BY ts_rank(search_vector, to_tsquery($3, $2)) DESC
+       WHERE search_vector @@ to_tsquery($2, $1)
+       ORDER BY ts_rank(search_vector, to_tsquery($2, $1)) DESC
        LIMIT 20`;
     if (siteId) {
       sql = `SELECT item_id, site_id, title, description, pub_date
          FROM items
-         WHERE site_id = $4 AND search_vector @@ to_tsquery($3, $2)
-         ORDER BY ts_rank(search_vector, to_tsquery($3, $2)) DESC
+         WHERE site_id = $3 AND search_vector @@ to_tsquery($2, $1)
+         ORDER BY ts_rank(search_vector, to_tsquery($2, $1)) DESC
          LIMIT 20`;
       params.push(siteId);
     }
