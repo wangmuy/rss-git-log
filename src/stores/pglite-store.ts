@@ -1,256 +1,159 @@
 import { ItemStore, SearchResult } from './item-store';
-import { PGlite } from '@electric-sql/pglite';
-import { pg_textsearch } from '@electric-sql/pglite/pg_textsearch';
-import { useReaderStore } from '../store/readerStore';
 
 export class PGliteStore implements ItemStore {
-  private db: PGlite | null = null;
+  private dbWorker: Worker | null = null;
+  private embedWorker: Worker | null = null;
+  private pending = new Map<number, { resolve: (v: any) => void; reject: (e: any) => void }>();
+  private seq = 0;
+  private _modelReady = false;
+
+  onProgress: ((pct: number) => void) | null = null;
+  onModelReady: (() => void) | null = null;
 
   async init(): Promise<void> {
-    console.log('[PGliteStore] init start');
-    this.db = new PGlite('idb://rss-reader', { extensions: { pg_textsearch } });
-    await this.db.waitReady;
-    await this.migrate();
-    console.log('[PGliteStore] init done');
+    console.log('[PGliteStore] init start (worker proxy)');
+
+    this.dbWorker = new Worker(
+      new URL('../workers/db.worker.ts', import.meta.url),
+      { type: 'module' }
+    );
+    this.embedWorker = new Worker(
+      new URL('../workers/embed.worker.ts', import.meta.url),
+      { type: 'module' }
+    );
+
+    const handler = (e: MessageEvent) => {
+      const { seq, type, error, ...data } = e.data;
+      if (seq != null) {
+        const p = this.pending.get(seq);
+        if (!p) return;
+        this.pending.delete(seq);
+        if (error) p.reject(new Error(error));
+        else p.resolve(data);
+      } else if (type === 'STATUS') {
+        if (data.status === 'MODEL_LOADING') {
+          this.onProgress?.(data.progress);
+        } else if (data.status === 'MODEL_READY') {
+          this._modelReady = true;
+          this.onModelReady?.();
+          console.log('[PGliteStore] model ready, vector search enabled');
+        } else if (data.status === 'MODEL_ERROR') {
+          console.warn('[PGliteStore] model failed to load:', data.error);
+        }
+      }
+    };
+    this.dbWorker.onmessage = handler;
+    this.embedWorker.onmessage = handler;
+
+    // Create MessageChannel between workers
+    const channel = new MessageChannel();
+    this.dbWorker.postMessage({ type: 'init', embedPort: channel.port1 }, [channel.port1]);
+    this.embedWorker.postMessage({ type: 'init', dbPort: channel.port2 }, [channel.port2]);
+
+    await Promise.all([
+      this.request(this.dbWorker, 'init'),
+      this.request(this.embedWorker, 'init'),
+    ]);
+
+    console.log('[PGliteStore] init done (both workers ready)');
+  }
+
+  private request(worker: Worker, type: string, payload?: any): Promise<any> {
+    return new Promise((resolve, reject) => {
+      const seq = ++this.seq;
+      this.pending.set(seq, { resolve, reject });
+      worker.postMessage({ seq, type, ...payload });
+    });
   }
 
   async clear(): Promise<void> {
-    if (!this.db) return;
-    await this.db.exec('DROP TABLE IF EXISTS items CASCADE');
-    await this.db.close();
-    this.db = null;
-  }
-
-  private async migrate(): Promise<void> {
-    if (!this.db) return;
-    await this.db.exec(`
-      CREATE TABLE IF NOT EXISTS items (
-        id TEXT PRIMARY KEY,
-        item_id TEXT NOT NULL,
-        site_id TEXT NOT NULL,
-        guid TEXT NOT NULL DEFAULT '',
-        title TEXT NOT NULL DEFAULT '',
-        link TEXT NOT NULL DEFAULT '',
-        description TEXT NOT NULL DEFAULT '',
-        pub_date TEXT NOT NULL DEFAULT '',
-        is_read INTEGER NOT NULL DEFAULT 0,
-        read_at TEXT,
-        fetched_at TEXT NOT NULL DEFAULT (now())
-      )
-    `);
-    await this.db.exec('CREATE INDEX IF NOT EXISTS idx_items_site ON items(site_id)');
-    await this.db.exec('CREATE INDEX IF NOT EXISTS idx_items_read ON items(is_read)');
-    await this.db.exec('CREATE INDEX IF NOT EXISTS idx_items_pub_date ON items(pub_date DESC)');
-    console.log('[PGliteStore] migration done');
-  }
-
-  private async query(sql: string, params?: any[]): Promise<any> {
-    if (!this.db) return null;
-    try {
-      const res = await this.db.query(sql, params);
-      return res;
-    } catch (e: any) {
-      console.error('[PGliteStore] query error:', e?.message || e, 'sql:', sql.slice(0, 100));
-      try { await this.db.exec('ROLLBACK'); } catch {}
-      throw e;
-    }
+    console.log('[PGliteStore] clear');
+    await Promise.all([
+      this.request(this.dbWorker!, 'clear'),
+      this.request(this.embedWorker!, 'clear'),
+    ]);
+    this.dbWorker?.terminate();
+    this.embedWorker?.terminate();
+    this.dbWorker = null;
+    this.embedWorker = null;
+    this._modelReady = false;
   }
 
   async upsertItems(siteId: string, items: Array<{
     itemId: string; title: string; link?: string; description?: string;
     pubDate: string; readAt?: string;
   }>): Promise<void> {
-    if (!this.db || items.length === 0) return;
-    const t0 = performance.now();
-    console.log(`[PGliteStore] upsertItems: ${items.length} items for ${siteId}. Sample:`, items.slice(0, 2).map(i => ({ id: i.itemId?.slice(0,20), title: (i.title||'').slice(0,40) })));
+    if (items.length === 0) return;
+    await this.request(this.dbWorker!, 'upsert', { siteId, items });
+  }
 
-    // Batch insert in groups of 20 to avoid oversized queries
-    const BATCH = 20;
-    for (let i = 0; i < items.length; i += BATCH) {
-      const batch = items.slice(i, i + BATCH);
-      const values: string[] = [];
-      const params: any[] = [];
-      let idx = 1;
+  async search(query: string, siteId?: string): Promise<SearchResult[]> {
+    if (!query.trim()) return [];
 
-      for (const item of batch) {
-        values.push(`(md5($${idx}),$${idx},$${idx+1},$${idx+2},$${idx+3},$${idx+4},$${idx+5},$${idx+6},$${idx+7},$${idx+8})`);
-        params.push(
-          item.itemId, siteId, item.itemId, item.title || '',
-          item.link || '', item.description || '', item.pubDate || '',
-          item.readAt ? 1 : 0, item.readAt || null
-        );
-        idx += 9;
-      }
-
+    // Try vector search if model is ready
+    if (this._modelReady) {
       try {
-        await this.db.query(
-          `INSERT INTO items (id, item_id, site_id, guid, title, link, description, pub_date, is_read, read_at)
-           VALUES ${values.join(',')}
-           ON CONFLICT (id) DO UPDATE SET
-             title = COALESCE(NULLIF(EXCLUDED.title, ''), items.title),
-             link = COALESCE(NULLIF(EXCLUDED.link, ''), items.link),
-             description = COALESCE(NULLIF(EXCLUDED.description, ''), items.description),
-             pub_date = COALESCE(NULLIF(EXCLUDED.pub_date, ''), items.pub_date),
-             is_read = items.is_read,
-             read_at = items.read_at`,
-          params
-        );
-      } catch (e: any) {
-        console.error('[PGliteStore] batch insert error:', e?.message || e);
-        // Try individual inserts as fallback
-        for (const item of batch) {
-          try {
-            await this.db.query(
-              `INSERT INTO items (id, item_id, site_id, guid, title, link, description, pub_date, is_read, read_at)
-               VALUES (md5($1), $1, $2, $3, $4, $5, $6, $7, $8, $9)
-               ON CONFLICT (id) DO UPDATE SET
-                 is_read = items.is_read,
-                 read_at = items.read_at`,
-              [item.itemId, siteId, item.itemId, item.title || '',
-               item.link || '', item.description || '', item.pubDate || '',
-               item.readAt ? 1 : 0, item.readAt || null]
-            );
-          } catch (e2: any) {
-            console.error('[PGliteStore] individual insert error:', e2?.message || e2, 'itemId:', item.itemId?.slice(0, 40));
-          }
+        const idsResp = await this.request(this.embedWorker!, 'vectorSearch', { text: query });
+        if (idsResp.ids && idsResp.ids.length > 0) {
+          const details = await this.request(this.dbWorker!, 'fetchDetails', { ids: idsResp.ids });
+          return (details.items || []) as SearchResult[];
         }
+      } catch (e) {
+        console.log('[PGliteStore] vector search failed, falling back to text search:', e);
       }
     }
 
-    // Sync Zustand store so sidebar displays all items
-    const state = useReaderStore.getState();
-    const storeItems = items.map(i => ({
-      itemId: i.itemId, title: i.title, pubDate: i.pubDate
-    }));
-    state.addHistoricalItems(siteId, storeItems);
-    const githubItemsMap = new Map(items.map(i => [i.itemId, { itemId: i.itemId, title: i.title, pubDate: i.pubDate, readAt: i.readAt }]));
-    state.mergeGitHubReadStatus(siteId, githubItemsMap);
-
-    console.log(`[PGliteStore] upsertItems done: ${(performance.now() - t0).toFixed(0)}ms`);
-    // Log item count per site for diagnostics
-    const cntRes = await this.db.query('SELECT site_id, COUNT(*) AS cnt FROM items GROUP BY site_id');
-    const cnts = ((cntRes.rows as any[]) ?? []).map((r: any) => `${r.site_id?.slice(0,20)}: ${r.cnt}`);
-    console.log('[PGliteStore] items per site:', cnts);
+    // Text search on W1 (tsvector → ~*)
+    const textResp = await this.request(this.dbWorker!, 'search', { query, siteId });
+    return (textResp.items || []) as SearchResult[];
   }
 
   async markAsRead(_siteId: string, itemId: string): Promise<void> {
-    await this.query(
-      'UPDATE items SET is_read = 1, read_at = now() WHERE id = md5($1)',
-      [itemId]
-    );
+    await this.request(this.dbWorker!, 'markRead', { itemId });
   }
 
   async markSiteAsRead(siteId: string): Promise<void> {
-    await this.query(
-      'UPDATE items SET is_read = 1, read_at = now() WHERE site_id = $1',
-      [siteId]
-    );
+    await this.request(this.dbWorker!, 'markSiteRead', { siteId });
   }
 
   async markAllAsRead(): Promise<void> {
-    await this.query('UPDATE items SET is_read = 1, read_at = now()');
+    this.dbWorker!.postMessage({ type: 'markAllRead' });
   }
 
   async isRead(_siteId: string, itemId: string): Promise<boolean> {
-    if (!this.db) return false;
     try {
-      const res = await this.db.query<{ is_read: number }>(
-        'SELECT is_read FROM items WHERE id = md5($1)',
-        [itemId]
-      );
-      return res.rows?.[0]?.is_read === 1;
-    } catch (e: any) {
-      console.error('[PGliteStore] isRead error:', e?.message || e);
+      const resp = await this.request(this.dbWorker!, 'isRead', { itemId });
+      return !!resp.isRead;
+    } catch {
       return false;
     }
   }
 
   async getUnreadCount(siteId: string): Promise<number> {
-    if (!this.db) return 0;
     try {
-      const res = await this.db.query<{ cnt: number }>(
-        'SELECT COUNT(*) AS cnt FROM items WHERE site_id = $1 AND is_read = 0',
-        [siteId]
-      );
-      return res.rows?.[0]?.cnt ?? 0;
-    } catch (e: any) {
-      console.error('[PGliteStore] getUnreadCount error:', e?.message || e);
+      const resp = await this.request(this.dbWorker!, 'getUnreadCount', { siteId });
+      return resp.count ?? 0;
+    } catch {
       return 0;
     }
   }
 
   async getAllUnreadCounts(): Promise<Record<string, number>> {
-    if (!this.db) return {};
     try {
-      const res = await this.db.query<{ site_id: string; cnt: number }>(
-        'SELECT site_id, COUNT(*) AS cnt FROM items WHERE is_read = 0 GROUP BY site_id'
-      );
-      const counts: Record<string, number> = {};
-      for (const row of res.rows ?? []) {
-        counts[row.site_id] = row.cnt;
-      }
-      return counts;
-    } catch (e: any) {
-      console.error('[PGliteStore] getAllUnreadCounts error:', e?.message || e);
+      const resp = await this.request(this.dbWorker!, 'getAllUnreadCounts');
+      return (resp.counts || {}) as Record<string, number>;
+    } catch {
       return {};
     }
-  }
-
-async search(query: string, siteId?: string): Promise<SearchResult[]> {
-    if (!this.db || !query.trim()) return [];
-    const t0 = performance.now();
-
-    // Yield to browser so pending React state updates (keystrokes) render before the blocking query
-    await new Promise(r => setTimeout(r, 0));
-
-    let rows: Array<{ item_id: string; site_id: string; title: string; description: string; pub_date: string }> = [];
-
-    // Inline case-insensitive regex (~* operator — avoids PGlite v0.4.5 LOWER/ILIKE issues)
-    const escPattern = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/'/g, "''");
-    const siteFilterSql = siteId
-      ? ` AND site_id = '${siteId.replace(/'/g, "''")}'`
-      : '';
-    try {
-      const res = await this.db.query(
-        `SELECT item_id, site_id, title, description, pub_date
-         FROM items
-         WHERE (title ~* '${escPattern}' OR description ~* '${escPattern}')
-         ${siteFilterSql}
-         LIMIT 20`
-      );
-      rows = res.rows as any[];
-    } catch (e: any) {
-      console.error('[PGliteStore] regex search error:', e?.message || e);
-    }
-
-    console.log(`[PGliteStore] search "${query}" — found ${rows.length} results (${(performance.now() - t0).toFixed(0)}ms)`);
-    return rows.map((row: any, i: number) => ({
-      itemId: row.item_id,
-      siteId: row.site_id,
-      title: row.title,
-      snippet: (row.description || '').slice(0, 200),
-      pubDate: row.pub_date,
-      rank: i + 1
-    }));
   }
 
   async getItemsForCommit(siteId: string): Promise<Array<{
     itemId: string; title: string; pubDate: string; readAt?: string;
   }>> {
-    if (!this.db) return [];
     try {
-      const res = await this.db.query<{ item_id: string; title: string; pub_date: string; read_at: string | null }>(
-        'SELECT item_id, title, pub_date, read_at FROM items WHERE site_id = $1',
-        [siteId]
-      );
-      return res.rows.map(row => ({
-        itemId: row.item_id,
-        title: row.title,
-        pubDate: row.pub_date,
-        readAt: row.read_at || undefined
-      }));
-    } catch (e: any) {
-      console.error('[PGliteStore] getItemsForCommit error:', e?.message || e);
+      const resp = await this.request(this.dbWorker!, 'getItemsForCommit', { siteId });
+      return (resp.items || []) as any[];
+    } catch {
       return [];
     }
   }
