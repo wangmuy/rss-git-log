@@ -23,6 +23,8 @@ A lean React Single Page Application (SPA) for reading RSS feeds with automatic 
 - **PGlite Search**: PostgreSQL WASM-backed full-text search with `~*` case-insensitive regex
 - **Two Storage Providers**: Choose between localStorage (fast, compressed) and PGlite (scalable, searchable)
 
+> **Try the demo**: [https://wangmuy.github.io/rss-git-log/](https://wangmuy.github.io/rss-git-log/)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -137,7 +139,7 @@ On first launch, the app will open the **Config Page** (no `.env` files needed!)
    - Owner: `your-username`
    - Repo: `rss-reader-data`
    - Branch: `main` (reads and writes use the same branch)
-   - Token: Only needed for private repos or write operations
+   - Token: Required for private repos. For public repos, a token with `repo` scope enables write operations (commit, auto-sync) — either is fine as long as the token has appropriate permissions
 
 3. **CORS Policy** (for RSS feeds):
    - **Direct Only**: Only use direct fetch (fastest, but may fail due to CORS)
@@ -542,7 +544,7 @@ src/
 1. **No `.env` Files**: All configuration is done via the runtime Config Page and stored in localStorage.
 
 2. **GitHub Token Storage**: Tokens are stored in browser localStorage.
-   - For public repos, no token is needed for reading.
+   - For public repos, no token is needed for reading. For private repos, a token with `repo` scope is required for both read and write.
    - For write operations, tokens are visible in the client bundle.
    - Use least-privilege tokens with only the necessary repo scope.
 
