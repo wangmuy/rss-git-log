@@ -31,7 +31,6 @@ import {
   clearAllLocalStorage
 } from '@/utils/app-config';
 import { useReaderStore } from '../store/readerStore';
-import { getItemStore } from '@/stores/use-item-store';
 import {
   checkGitHubWriteCapability,
   createGitHubClient,
@@ -133,18 +132,14 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
     }
   };
 
-  const handleClear = async () => {
-    // Clear PGlite IndexedDB databases before clearing localStorage
-    const appConfig = loadAppConfig();
-    if (appConfig.itemStore?.provider === 'pglite') {
-      try {
-        const store = await getItemStore();
-        if (store && 'clear' in store) {
-          await store.clear();
-        }
-      } catch (e) {
-        console.warn('Failed to clear PGlite store:', e);
-      }
+  const handleClear = () => {
+    // Clear PGlite IndexedDB databases regardless of current provider
+    try {
+      indexedDB.deleteDatabase('rss-reader');
+      indexedDB.deleteDatabase('rss-vectors');
+      console.log('[ConfigPage] PGlite IndexedDB databases deleted');
+    } catch (e) {
+      console.warn('[ConfigPage] Failed to delete IndexedDB databases:', e);
     }
     clearAllLocalStorage();
     useReaderStore.getState().clearSession();
