@@ -59,7 +59,10 @@ async function startModelDownload() {
     if (pendingEmbeds.length > 0) {
       const batch = pendingEmbeds.splice(0);
       console.log(`[W2] draining ${batch.length} pending embeds`);
-      handleEmbedFromChannel(batch);
+      handleEmbedFromChannel(batch).then(() => {
+        console.log(`[W2] drain complete, all ${batch.length} pending requests processed`);
+        self.postMessage({ type: 'STATUS', status: 'DRAIN_COMPLETE' });
+      });
     }
   } catch (e: any) {
     console.error('[W2] model download failed:', e?.message || e);
@@ -82,7 +85,8 @@ async function handleEmbedFromChannel(items: Array<{ id: string; text: string }>
   }
   console.log(`[W2] embedding ${items.length} items from W1 channel`);
   let skipped = 0;
-  for (const item of items) {
+  let embedded = 0;
+  for (const [idx, item] of items.entries()) {
     try {
       // Skip if already embedded (embeddings are expensive — compute once per item)
       const exists = await db.query(
@@ -99,12 +103,16 @@ async function handleEmbedFromChannel(items: Array<{ id: string; text: string }>
         `INSERT INTO embeddings (item_id, embedding) VALUES ($1, $2)`,
         [item.id, vector]
       );
+      embedded++;
+      if (embedded % 10 === 0 || embedded === 1) {
+        console.log(`[W2] embed progress: ${embedded}/${items.length - skipped} (${idx + 1}/${items.length} total)`);
+      }
     } catch (e: any) {
       console.error('[W2] embed error for', item.id?.slice(0, 20), e?.message?.slice(0, 60));
     }
   }
   if (skipped > 0) console.log(`[W2] skipped ${skipped} already-embedded items`);
-  console.log(`[W2] done embedding ${items.length - skipped} new items`);
+  console.log(`[W2] done embedding ${embedded} new items`);
 }
 
 // ── Vector Search ────────────────────────────────────
