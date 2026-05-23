@@ -41,21 +41,19 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
   const getUnreadCount = useReaderStore(state => state.getUnreadCount);
   const setSiteLoading = useReaderStore(state => state.setSiteLoading);
 
-  const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searching, setSearching] = useState(false);
   const searchTimerRef = useRef<ReturnType<typeof setTimeout>>();
   const searchInFlightRef = useRef(false);
 
-  const handleSearch = useCallback((query: string) => {
-    setSearchQuery(query);
-    if (searchTimerRef.current) clearTimeout(searchTimerRef.current);
+  const doSearch = useCallback(async (query: string) => {
     if (query.trim().length < 2) {
       setSearchResults([]);
       setSearching(false);
       return;
     }
     setSearching(true);
+    if (searchTimerRef.current) clearTimeout(searchTimerRef.current);
     searchTimerRef.current = setTimeout(async () => {
       if (searchInFlightRef.current) return;
       searchInFlightRef.current = true;
@@ -74,6 +72,11 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
         searchInFlightRef.current = false;
       }
     }, 500);
+  }, []);
+
+  const clearSearch = useCallback(() => {
+    setSearchResults([]);
+    setSearching(false);
   }, []);
 
   const handleMarkAllAsRead = useCallback(async () => {
@@ -148,58 +151,8 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
     );
   }
 
-  return (
-    <Box sx={{ display: 'flex', flex: 1, gap: 2, minHeight: 0 }}>
-      <Paper sx={{ width: { xs: 240, sm: 280, md: 320 }, overflow: 'hidden', display: 'flex', flexDirection: 'column', flexShrink: 0 }}>
-        <Box sx={{ p: 2, bgcolor: 'primary.main', color: 'primary.contrastText' }}>
-          <Typography variant="h6" sx={{ fontWeight: 600 }}>
-            RSS Feeds ({sites.length})
-          </Typography>
-        </Box>
-        <Box sx={{ px: 1, pt: 1 }}>
-          <TextField
-            size="small"
-            placeholder="Search feeds..."
-            value={searchQuery}
-            onChange={(e) => handleSearch(e.target.value)}
-            slotProps={{
-              input: {
-                startAdornment: (
-                  <InputAdornment position="start">
-                    {searching ? <CircularProgress size={16} /> : <SearchIcon fontSize="small" />}
-                  </InputAdornment>
-                )
-              }
-            }}
-            sx={{ bgcolor: 'rgba(255,255,255,0.15)', borderRadius: 1, '& .MuiInputBase-input': { color: 'inherit' }, '& .MuiInputAdornment-root': { color: 'inherit' } }}
-          />
-        </Box>
-        {searchResults.length > 0 && (
-          <Box sx={{ flex: 1, overflow: 'auto', borderBottom: 1, borderColor: 'divider' }}>
-            <Typography variant="caption" sx={{ px: 2, pt: 1, display: 'block', color: 'text.secondary' }}>
-              Search results ({searchResults.length})
-            </Typography>
-            {searchResults.map((result) => (
-              <ListItem key={result.itemId} disablePadding sx={{ pl: 2 }}>
-                <ListItemButton
-                  onClick={() => {
-                    setSelectedSiteId(result.siteId);
-                    setSearchResults([]);
-                    setSearchQuery('');
-                  }}
-                >
-                  <ListItemText
-                    primary={result.title}
-                    secondary={`${new Date(result.pubDate).toLocaleDateString()} · ${result.snippet.slice(0, 80)}...`}
-                    primaryTypographyProps={{ variant: 'body2', noWrap: true }}
-                    secondaryTypographyProps={{ variant: 'caption' }}
-                  />
-                </ListItemButton>
-              </ListItem>
-            ))}
-          </Box>
-        )}
-        <List sx={{ flex: searchResults.length > 0 ? '0 0 auto' : 1, overflow: 'auto', p: 0, display: searchResults.length > 0 ? 'none' : undefined }}>
+  const feedList = useMemo(() => (
+        <List sx={{ flex: '1 1 auto', overflow: 'auto', p: 0 }}>
           {sites.map((site) => {
             const unreadCount = getUnreadCount(site.siteId);
             const isSelected = site.siteId === selectedSiteId;
@@ -255,6 +208,44 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
             );
           })}
         </List>
+      ), [sites, selectedSiteId, loadingSites, getUnreadCount]);
+
+      return (
+        <Box sx={{ display: 'flex', flex: 1, gap: 2, minHeight: 0 }}>
+          <Paper sx={{ width: { xs: 240, sm: 280, md: 320 }, overflow: 'hidden', display: 'flex', flexDirection: 'column', flexShrink: 0 }}>
+            <Box sx={{ p: 2, bgcolor: 'primary.main', color: 'primary.contrastText' }}>
+              <Typography variant="h6" sx={{ fontWeight: 600 }}>
+                RSS Feeds ({sites.length})
+              </Typography>
+            </Box>
+            <Box sx={{ px: 1, pt: 1 }}>
+              <SearchBox onSearch={doSearch} searching={searching} />
+            </Box>
+            {searchResults.length > 0 ? (
+              <Box sx={{ flex: 1, overflow: 'auto', borderBottom: 1, borderColor: 'divider' }}>
+                <Typography variant="caption" sx={{ px: 2, pt: 1, display: 'block', color: 'text.secondary' }}>
+                  Search results ({searchResults.length})
+                </Typography>
+                {searchResults.map((result) => (
+                  <ListItem key={result.itemId} disablePadding sx={{ pl: 2 }}>
+                    <ListItemButton
+                      onClick={() => {
+                        setSelectedSiteId(result.siteId);
+                        clearSearch();
+                      }}
+                    >
+                      <ListItemText
+                        primary={result.title}
+                        secondary={`${new Date(result.pubDate).toLocaleDateString()} · ${result.snippet.slice(0, 80)}...`}
+                        primaryTypographyProps={{ variant: 'body2', noWrap: true }}
+                        secondaryTypographyProps={{ variant: 'caption' }}
+                      />
+                    </ListItemButton>
+                  </ListItem>
+                ))}
+              </Box>
+            ) : null}
+            {feedList}
       </Paper>
 
       <Paper sx={{ flex: 1, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
@@ -481,3 +472,32 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
     </Stack>
   );
 };
+
+const SearchBox = React.memo(function SearchBox({ onSearch, searching }: { onSearch: (q: string) => void; searching: boolean }) {
+  const [value, setValue] = useState('');
+
+  const handleChange = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
+    const v = e.target.value;
+    setValue(v);
+    onSearch(v);
+  }, [onSearch]);
+
+  return (
+    <TextField
+      size="small"
+      placeholder="Search feeds..."
+      value={value}
+      onChange={handleChange}
+      slotProps={{
+        input: {
+          startAdornment: (
+            <InputAdornment position="start">
+              {searching ? <CircularProgress size={16} /> : <SearchIcon fontSize="small" />}
+            </InputAdornment>
+          )
+        }
+      }}
+      sx={{ bgcolor: 'rgba(255,255,255,0.15)', borderRadius: 1, '& .MuiInputBase-input': { color: 'inherit' }, '& .MuiInputAdornment-root': { color: 'inherit' } }}
+    />
+  );
+});
