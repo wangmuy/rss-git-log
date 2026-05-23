@@ -1,5 +1,6 @@
 import { PGlite } from '@electric-sql/pglite';
 import { vector } from '@electric-sql/pglite/vector';
+import { pipeline } from '@huggingface/transformers';
 
 let db: PGlite | null = null;
 let dbPort: MessagePort | null = null;
@@ -39,9 +40,6 @@ async function handleInit(payload: any) {
 
 async function startModelDownload() {
   try {
-    // Use a dynamic import with type assertion for Transformers.js
-    const transformers = await import('@xenova/transformers');
-    const pipeline = transformers.pipeline;
     embedPipeline = await pipeline('feature-extraction', 'Xenova/m2v-potion-base-8m', {
       progress_callback: (progress: any) => {
         if (progress.status === 'progress' && typeof progress.progress === 'number') {
