@@ -6,6 +6,11 @@ let embedPort: MessagePort | null = null;
 
 // ── Init ──────────────────────────────────────────────
 async function handleInit(payload: any) {
+  if (db) {
+    console.log('[W1] already initialized, skipping duplicate init');
+    self.postMessage({ seq: payload.seq, type: 'DB_READY' });
+    return;
+  }
   console.log('[W1] init start');
   embedPort = payload.embedPort;
 
@@ -128,6 +133,8 @@ async function handleUpsert(payload: any) {
       }))
     });
     console.log(`[W1] relayed ${items.length} items to W2 for embedding`);
+  } else {
+    console.warn(`[W1] embedPort is null, cannot relay ${items.length} items to W2`);
   }
 }
 

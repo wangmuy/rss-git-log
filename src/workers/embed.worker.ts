@@ -12,6 +12,11 @@ let pendingEmbeds: Array<{ id: string; text: string }> = [];
 
 // ── Init ──────────────────────────────────────────────
 async function handleInit(payload: any) {
+  if (db) {
+    console.log('[W2] already initialized, skipping duplicate init');
+    self.postMessage({ seq: payload.seq, type: 'DB_READY' });
+    return;
+  }
   console.log('[W2] init start');
   dbPort = payload.dbPort;
 
