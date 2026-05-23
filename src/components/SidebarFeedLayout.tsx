@@ -43,7 +43,6 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searching, setSearching] = useState(false);
-  const searchTimerRef = useRef<ReturnType<typeof setTimeout>>();
   const searchInFlightRef = useRef(false);
 
   const doSearch = useCallback(async (query: string) => {
@@ -53,25 +52,22 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
       return;
     }
     setSearching(true);
-    if (searchTimerRef.current) clearTimeout(searchTimerRef.current);
-    searchTimerRef.current = setTimeout(async () => {
-      if (searchInFlightRef.current) return;
-      searchInFlightRef.current = true;
-      try {
-        const store = await getItemStore();
-        if (!searchInFlightRef.current) return;
-        const results = await store.search(query);
-        if (!searchInFlightRef.current) return;
-        setSearchResults(results);
-        setSearching(false);
-      } catch (e) {
-        console.error('[Search] error:', e);
-        setSearchResults([]);
-        setSearching(false);
-      } finally {
-        searchInFlightRef.current = false;
-      }
-    }, 500);
+    if (searchInFlightRef.current) return;
+    searchInFlightRef.current = true;
+    try {
+      const store = await getItemStore();
+      if (!searchInFlightRef.current) return;
+      const results = await store.search(query);
+      if (!searchInFlightRef.current) return;
+      setSearchResults(results);
+      setSearching(false);
+    } catch (e) {
+      console.error('[Search] error:', e);
+      setSearchResults([]);
+      setSearching(false);
+    } finally {
+      searchInFlightRef.current = false;
+    }
   }, []);
 
   const clearSearch = useCallback(() => {
@@ -476,18 +472,17 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
 const SearchBox = React.memo(function SearchBox({ onSearch, searching }: { onSearch: (q: string) => void; searching: boolean }) {
   const [value, setValue] = useState('');
 
-  const handleChange = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
-    const v = e.target.value;
-    setValue(v);
-    onSearch(v);
-  }, [onSearch]);
+  useEffect(() => {
+    const timer = setTimeout(() => onSearch(value), 500);
+    return () => clearTimeout(timer);
+  }, [value, onSearch]);
 
   return (
     <TextField
       size="small"
       placeholder="Search feeds..."
       value={value}
-      onChange={handleChange}
+      onChange={(e) => setValue(e.target.value)}
       slotProps={{
         input: {
           startAdornment: (
