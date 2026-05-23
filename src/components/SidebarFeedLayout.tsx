@@ -15,7 +15,9 @@ import {
   Paper,
   CircularProgress,
   TextField,
-  InputAdornment
+  InputAdornment,
+  Tooltip,
+  LinearProgress
 } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import { SiteWithStatus } from '@/types/rss';
@@ -43,7 +45,32 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searching, setSearching] = useState(false);
+  const [searchTier, setSearchTier] = useState<'vector' | 'text' | 'regex' | 'loading' | null>(null);
+  const [modelProgress, setModelProgress] = useState(0);
   const searchInFlightRef = useRef(false);
+
+  // Wire PGliteStore model lifecycle callbacks (no-op for localStorage provider)
+  React.useEffect(() => {
+    getItemStore().then(store => {
+      if ('onProgress' in store && 'onModelReady' in store) {
+        const pgStore = store as any;
+        pgStore.onProgress = (pct: number) => {
+          setModelProgress(pct);
+          setSearchTier('loading');
+        };
+        pgStore.onModelReady = () => {
+          setSearchTier('vector');
+          setModelProgress(0);
+        };
+        // Detect current tier on mount
+        if (pgStore._modelReady) {
+          setSearchTier('vector');
+        } else {
+          setSearchTier('text');
+        }
+      }
+    });
+  }, []);
 
   const doSearch = useCallback(async (query: string) => {
     if (query.trim().length < 2) {
@@ -215,7 +242,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               </Typography>
             </Box>
             <Box sx={{ px: 1, pt: 1 }}>
-              <SearchBox onSearch={doSearch} searching={searching} />
+              <SearchBox onSearch={doSearch} searching={searching} searchTier={searchTier} modelProgress={modelProgress} />
             </Box>
             {searchResults.length > 0 ? (
               <Box sx={{ flex: 1, overflow: 'auto', borderBottom: 1, borderColor: 'divider' }}>
@@ -469,7 +496,14 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
   );
 };
 
-const SearchBox = React.memo(function SearchBox({ onSearch, searching }: { onSearch: (q: string) => void; searching: boolean }) {
+const SearchBox = React.memo(function SearchBox({
+  onSearch, searching, searchTier, modelProgress
+}: {
+  onSearch: (q: string) => void;
+  searching: boolean;
+  searchTier: 'vector' | 'text' | 'regex' | 'loading' | null;
+  modelProgress: number;
+}) {
   const [value, setValue] = useState('');
 
   useEffect(() => {
@@ -477,22 +511,52 @@ const SearchBox = React.memo(function SearchBox({ onSearch, searching }: { onSea
     return () => clearTimeout(timer);
   }, [value, onSearch]);
 
+  const tierIcon = () => {
+    if (searching) return <CircularProgress size={16} />;
+    if (searchTier === 'loading') return <CircularProgress size={16} />;
+    if (searchTier === 'vector') return <span style={{ fontSize: 16, lineHeight: 1 }}>✦</span>;
+    if (searchTier === 'text') return <span style={{ fontSize: 13, fontWeight: 600 }}>Aa</span>;
+    if (searchTier === 'regex') return <span style={{ fontSize: 14, fontFamily: 'monospace' }}>.*</span>;
+    return <SearchIcon fontSize="small" />;
+  };
+
+  const tierLabel = () => {
+    if (searchTier === 'loading') return `AI search loading (${modelProgress}%)`;
+    if (searchTier === 'vector') return 'Semantic search';
+    if (searchTier === 'text') return 'Full-text search';
+    if (searchTier === 'regex') return 'Regex search';
+    return '';
+  };
+
   return (
-    <TextField
-      size="small"
-      placeholder="Search feeds..."
-      value={value}
-      onChange={(e) => setValue(e.target.value)}
-      slotProps={{
-        input: {
-          startAdornment: (
-            <InputAdornment position="start">
-              {searching ? <CircularProgress size={16} /> : <SearchIcon fontSize="small" />}
-            </InputAdornment>
-          )
-        }
-      }}
-      sx={{ bgcolor: 'rgba(255,255,255,0.15)', borderRadius: 1, '& .MuiInputBase-input': { color: 'inherit' }, '& .MuiInputAdornment-root': { color: 'inherit' } }}
-    />
+    <Box>
+      <TextField
+        size="small"
+        placeholder="Search feeds..."
+        value={value}
+        onChange={(e) => setValue(e.target.value)}
+        slotProps={{
+          input: {
+            startAdornment: (
+              <InputAdornment position="start">
+                {tierLabel() ? (
+                  <Tooltip title={tierLabel()} arrow>
+                    {tierIcon()}
+                  </Tooltip>
+                ) : tierIcon()}
+              </InputAdornment>
+            )
+          }
+        }}
+        sx={{ bgcolor: 'rgba(255,255,255,0.15)', borderRadius: 1, '& .MuiInputBase-input': { color: 'inherit' }, '& .MuiInputAdornment-root': { color: 'inherit' } }}
+      />
+      {searchTier === 'loading' && (
+        <LinearProgress
+          variant="determinate"
+          value={modelProgress}
+          sx={{ mt: 0.5, borderRadius: 1, height: 3 }}
+        />
+      )}
+    </Box>
   );
 });

@@ -30,10 +30,10 @@
 
 ## 4. Search UX
 
-- [ ] 4.1 Add progress bar to SearchBox when MODEL_LOADING is active from W2
-- [ ] 4.2 Add search tier badge (✦ / Aa / .\*) to SearchBox input adornment
-- [ ] 4.3 Add tooltip: "Semantic search" / "Full-text search" / "Regex search"
-- [ ] 4.4 Wire `PGliteStore.onProgress` and `onModelReady` from SidebarFeedLayout to SearchBox props
+- [x] 4.1 Add progress bar to SearchBox when MODEL_LOADING is active from W2
+- [x] 4.2 Add search tier badge (✦ / Aa / .\*) to SearchBox input adornment
+- [x] 4.3 Add tooltip: "Semantic search" / "Full-text search" / "Regex search"
+- [x] 4.4 Wire `PGliteStore.onProgress` and `onModelReady` from SidebarFeedLayout to SearchBox props
 
 ## 5. Cleanup & Verification
 
