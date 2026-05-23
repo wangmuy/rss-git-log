@@ -43,7 +43,7 @@ async function handleInit(payload: any) {
 
 async function startModelDownload() {
   try {
-    embedPipeline = await pipeline('feature-extraction', 'Xenova/m2v-potion-base-8m', {
+    embedPipeline = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
       progress_callback: (progress: any) => {
         if (progress.status === 'progress' && typeof progress.progress === 'number') {
           const pct = Math.round(progress.progress * 100);
