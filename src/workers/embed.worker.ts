@@ -35,7 +35,8 @@ async function handleInit(payload: any) {
   await db.exec('CREATE EXTENSION IF NOT EXISTS vector');
   await db.exec(`
     CREATE TABLE IF NOT EXISTS embeddings (
-      item_id TEXT PRIMARY KEY,
+      id TEXT PRIMARY KEY,
+      item_id TEXT NOT NULL,
       embedding vector(384)
     )
   `);
@@ -95,7 +96,7 @@ async function handleEmbedFromChannel(items: Array<{ id: string; text: string }>
     try {
       // Skip if already embedded (embeddings are expensive — compute once per item)
       const exists = await db.query(
-        `SELECT 1 FROM embeddings WHERE item_id = $1`,
+        `SELECT 1 FROM embeddings WHERE id = md5($1)`,
         [item.id]
       );
       if (exists.rows && exists.rows.length > 0) {
@@ -105,7 +106,7 @@ async function handleEmbedFromChannel(items: Array<{ id: string; text: string }>
       const output = await embedPipeline(item.text, { pooling: 'mean', normalize: true });
       const vector = arrayToVectorString(Array.from(output.data));
       await db.query(
-        `INSERT INTO embeddings (item_id, embedding) VALUES ($1, $2)`,
+        `INSERT INTO embeddings (id, item_id, embedding) VALUES (md5($1), $1, $2)`,
         [item.id, vector]
       );
       embedded++;
@@ -147,7 +148,8 @@ async function handleClear(payload: any) {
   await db.exec('DROP TABLE IF EXISTS embeddings CASCADE');
   await db.exec(`
     CREATE TABLE IF NOT EXISTS embeddings (
-      item_id TEXT PRIMARY KEY,
+      id TEXT PRIMARY KEY,
+      item_id TEXT NOT NULL,
       embedding vector(384)
     )
   `);

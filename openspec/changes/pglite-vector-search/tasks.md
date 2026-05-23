@@ -43,5 +43,5 @@
 - [x] 5.4 Verify `getItemStore()` returns new two-worker PGliteStore without API breakage
 - [x] 5.5 Add `worker.format: 'es'` to Vite config for dynamic import support in workers
 - [x] 5.6 Add `@xenova/transformers` type declaration for TypeScript
-- [ ] 5.7 Verify localStorage provider is unaffected (no code changes to localstorage-store.ts)
-- [ ] 5.8 Verify `useRSSFeeds.ts` calls work correctly with async item store
+- [x] 5.7 Verify localStorage provider is unaffected (no code changes to localstorage-store.ts)
+- [x] 5.8 Verify `useRSSFeeds.ts` calls work correctly with async item store
