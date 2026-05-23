@@ -20,6 +20,8 @@ A lean React Single Page Application (SPA) for reading RSS feeds with automatic 
 - **GitHub Action**: Scheduled feed fetching — keep logs up to date without opening the app
 - **GitHub Pages**: Deploy as a static site via `npm run deploy`
 - **Vim Navigation**: `j`/`k` keys to move between feed items, auto-mark-as-read on selection
+- **PGlite Search**: PostgreSQL WASM-backed full-text search with `~*` case-insensitive regex
+- **Two Storage Providers**: Choose between localStorage (fast, compressed) and PGlite (scalable, searchable)
 
 ## 🚀 Quick Start
 
@@ -306,6 +308,11 @@ src/
 │   └── useCommit.ts           # GitHub commit logic
 ├── store/                # Zustand state management
 │   └── readerStore.ts         # Read status, feeds, settings
+├── stores/               # Item store implementations
+│   ├── pglite-store.ts        # PGlite (PostgreSQL WASM, IndexedDB)
+│   ├── localstorage-store.ts  # LocalStorage (lz-string compressed)
+│   ├── item-store.ts          # ItemStore interface
+│   └── use-item-store.ts      # Singleton factory
 ├── types/                # TypeScript definitions
 │   ├── config.ts              # AppConfig, GitHubConfig, CORSPolicy
 │   ├── rss.ts                 # RSSItem, RSSFeed
@@ -319,8 +326,12 @@ src/
 │   ├── log-file.ts            # Log management
 │   ├── log-cache.ts           # localStorage cache eviction
 │   └── url.ts                # URL utilities
+├── stubs/                # Vite build stubs for PGlite (fs, path, browser-external)
 ├── scripts/              # Node.js scripts
 │   └── fetch-feeds.ts        # GitHub Action feed fetcher
+├── workers/              # Web Workers
+│   ├── fetch.worker.ts       # GitHub log file fetcher
+│   └── mark-all-read.worker.ts # Batch mark-as-read
 └── App.tsx               # Main application
 ```
 
@@ -528,9 +539,10 @@ GH_TOKEN=ghp_xxx TARGET_OWNER=you TARGET_REPO=rss-data TARGET_BRANCH=rss-reader-
 - [x] GitHub Action scheduled feed fetching
 - [x] GitHub Pages static site deploy
 - [x] Vim-style j/k keyboard navigation
+- [x] Search/filter with PGlite full-text search
+- [x] PGlite PostgreSQL WASM storage provider
 
 ### Future Enhancements
-- [ ] Search/filter functionality
 - [ ] Feed categories/tags
 - [ ] Export data (CSV/JSON)
 - [ ] Dark mode theme

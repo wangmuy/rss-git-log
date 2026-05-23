@@ -9,8 +9,10 @@ src/
   components/   # React UI components (ConfigPage, FeedList, SidebarFeedLayout, etc.)
   hooks/        # Custom hooks (useCommit, useConfig, useKeyboardNavigation, useRSSFeeds)
   store/        # Zustand state management (readerStore.ts)
+  stores/       # Item store implementations (PGliteStore, LocalStorageStore, item-store interface)
   types/        # TypeScript interfaces (rss.ts, config.ts, log.ts)
   utils/        # Pure utilities (github-api.ts, feed-parser.ts, rss-parser.ts, log-cache.ts, etc.)
+  stubs/        # Vite build stubs for PGlite Node.js compatibility (fs, path, browser-external)
   App.tsx       # Root component with MUI ThemeProvider
   main.tsx      # React entry point
   integration.test.tsx  # Integration-level tests
@@ -30,8 +32,10 @@ Path alias `@/` maps to `src/` (configured in `tsconfig.json` and `vite.config.t
 | `npm install` | Install all dependencies |
 | `npm run dev` | Start Vite dev server at `http://localhost:3000` |
 | `npm run build` | Type-check with `tsc` then produce production bundle in `dist/` |
+| `VITE_BASE=/rss-git-log/ npm run build` | Build for GitHub Pages subpath deployment |
 | `npm run preview` | Serve the production build locally |
 | `npm test` | Run the Vitest test suite (jsdom environment) |
+| `npm run deploy` | Deploy `dist/` to GitHub Pages via `gh-pages` |
 | `npm run fetch-feeds` | Run the feed-fetching script locally (needs GH_TOKEN + TARGET_* env vars) |
 
 ## Coding Style & Naming Conventions
@@ -62,8 +66,10 @@ Path alias `@/` maps to `src/` (configured in `tsconfig.json` and `vite.config.t
 ## Architecture Overview
 
 - **State**: Zustand store (`readerStore.ts`) manages read/unread status with `LocalStorage` persistence.
+- **Item Store**: Two implementations — `PGliteStore` (PostgreSQL WASM, IndexedDB-backed, full-text search) and `LocalStorageStore` (lz-string compressed). Selected via ConfigPage. PGlite search uses `~*` (case-insensitive regex) instead of `LIKE`/`ILIKE`/`LOWER()` — these PostgreSQL functions are unreliable in PGlite v0.4.5.
 - **Data flow**: RSS feeds are fetched via native `fetch` with CORS proxy fallback, parsed with `DOMParser`, and displayed in a two-panel sidebar layout.
 - **Persistence**: GitHub REST API v3 reads/writes config and log files. Tokens are stored in `localStorage` — use least-privilege `repo` scope tokens.
 - **Shared parser**: `feed-parser.ts` provides platform-agnostic RSS/Atom parsing used by both the browser SPA (native DOMParser) and the Node.js fetch script (linkedom). Config functions in `log-file.ts` accept optional `GitHubConfig` to bypass localStorage in non-browser contexts.
 - **GitHub Action**: Scheduled workflow (`.github/workflows/fetch-feeds.yml`) runs `scripts/fetch-feeds.ts` every 8 hours to fetch all feeds and commit unread logs. The workflow checks out the code branch, installs deps, pulls `rss-config.json` from a data branch, fetches feeds, and writes logs back via the GitHub API. `log-cache.ts` guards localStorage access so it's a no-op in Node.js.
-- **Config**: All runtime configuration (GitHub repo, CORS policy, auto-commit, cache retention) is managed through the in-app Config page — no `.env` files.
+- **Config**: All runtime configuration (GitHub repo, CORS policy, auto-commit, cache retention, item store provider) is managed through the in-app Config page — no `.env` files.
+- **Build**: Vite config in `vite.config.ts` includes `src/stubs/` for Node.js module compatibility (`fs`, `path`, `__vite-browser-external`). Build target `es2020` required for PGlite's BigInt literals. GitHub Pages deploys via `VITE_BASE=/rss-git-log/`. The deploy script (`deploy.mjs`) auto-detects the subfolder and rebuilds if needed.
