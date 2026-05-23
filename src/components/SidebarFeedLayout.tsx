@@ -43,23 +43,35 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
 
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
+  const [searching, setSearching] = useState(false);
   const searchTimerRef = useRef<ReturnType<typeof setTimeout>>();
+  const searchInFlightRef = useRef(false);
 
-  const handleSearch = useCallback(async (query: string) => {
+  const handleSearch = useCallback((query: string) => {
     setSearchQuery(query);
     if (searchTimerRef.current) clearTimeout(searchTimerRef.current);
     if (query.trim().length < 2) {
       setSearchResults([]);
+      setSearching(false);
       return;
     }
+    setSearching(true);
     searchTimerRef.current = setTimeout(async () => {
+      if (searchInFlightRef.current) return;
+      searchInFlightRef.current = true;
       try {
         const store = await getItemStore();
+        if (!searchInFlightRef.current) return;
         const results = await store.search(query);
+        if (!searchInFlightRef.current) return;
         setSearchResults(results);
+        setSearching(false);
       } catch (e) {
         console.error('[Search] error:', e);
         setSearchResults([]);
+        setSearching(false);
+      } finally {
+        searchInFlightRef.current = false;
       }
     }, 500);
   }, []);
@@ -154,7 +166,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
               input: {
                 startAdornment: (
                   <InputAdornment position="start">
-                    <SearchIcon fontSize="small" />
+                    {searching ? <CircularProgress size={16} /> : <SearchIcon fontSize="small" />}
                   </InputAdornment>
                 )
               }
