@@ -1,6 +1,8 @@
 import { GitHubConfig } from '@/types/config';
 import { createDefaultAppConfig, loadAppConfig, saveAppConfig } from './app-config';
 import { utf8ToBase64, base64ToUtf8 } from './base64';
+import { serializeOPML } from './opml';
+import { RSSSite } from '@/types/rss';
 
 /**
  * GitHub API client for browser-compatible GitHub operations
@@ -70,7 +72,7 @@ function getGitHubConfigKey(config: GitHubConfig): string {
  * @returns Parsed data or null if not found
  *
  * @example
- * const config = await readFromGitHub(client, 'rss-config.json');
+ * const config = await readFromGitHub(client, 'subscriptions.opml');
  */
 export async function readFromGitHub<T>(client: GitHubClient, path: string): Promise<T | null> {
   try {
@@ -349,18 +351,19 @@ export function saveConfig(config: GitHubConfig): void {
 }
 
 /**
- * Save RSS configuration to GitHub
+ * Save subscription list as OPML to GitHub
  *
- * @param config - RSS configuration to save
+ * @param sites - Subscription sites to save
  * @returns True if successful
  */
-export async function saveRSSConfig(config: any): Promise<boolean> {
+export async function saveSubscriptionsOPML(sites: RSSSite[]): Promise<boolean> {
   try {
     const storedConfig = getStoredConfig();
     const client = createGitHubClient(storedConfig);
-    return await writeToGitHub(client, 'rss-config.json', config);
+    const opml = serializeOPML(sites);
+    return await writeToGitHub(client, 'subscriptions.opml', opml);
   } catch (error) {
-    console.error('Failed to save RSS config:', error);
+    console.error('Failed to save subscriptions.opml:', error);
     throw error;
   }
 }

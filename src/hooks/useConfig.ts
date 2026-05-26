@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { createGitHubClient, readFromGitHub, getStoredConfig } from '@/utils/github-api';
 import { RSSConfig } from '@/types/config';
+import { parseOPML } from '@/utils/opml';
 
 interface UseConfigReturn {
   config: RSSConfig | null;
@@ -30,27 +31,16 @@ export function useConfig(): UseConfigReturn {
       const storedConfig = getStoredConfig();
       const client = createGitHubClient(storedConfig);
 
-      const data = await readFromGitHub<RSSConfig>(client, 'rss-config.json');
+      const data = await readFromGitHub<string>(client, 'subscriptions.opml');
 
       if (!data) {
-        setConfig({
-          sites: [],
-          settings: {
-            showReadItems: false,
-            autoCommit: false,
-            commitInterval: 300
-          }
-        });
+        setConfig({ sites: [] });
         setLoading(false);
         return;
       }
 
-      // Validate config
-      if (!validateConfig(data)) {
-        throw new Error('Invalid config format. Check required fields.');
-      }
-
-      setConfig(data);
+      const { sites } = parseOPML(data);
+      setConfig({ sites });
     } catch (err: any) {
       setError(err.message || 'Failed to load configuration');
       console.error('Config loading error:', err);
@@ -69,29 +59,4 @@ export function useConfig(): UseConfigReturn {
     error,
     reload: loadConfig
   };
-}
-
-/**
- * Validate RSS configuration structure
- *
- * @param config - Configuration to validate
- * @returns True if valid
- */
-function validateConfig(config: any): config is RSSConfig {
-  if (!config || typeof config !== 'object') return false;
-  if (!Array.isArray(config.sites)) return false;
-  if (!config.settings || typeof config.settings !== 'object') return false;
-
-  // Validate sites
-  for (const site of config.sites) {
-    if (!site.name || !site.url) return false;
-  }
-
-  // Validate settings
-  const { settings } = config;
-  if (typeof settings.showReadItems !== 'boolean') return false;
-  if (typeof settings.autoCommit !== 'boolean') return false;
-  if (typeof settings.commitInterval !== 'number') return false;
-
-  return true;
 }

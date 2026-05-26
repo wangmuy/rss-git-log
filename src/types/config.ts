@@ -5,7 +5,6 @@ import { RSSSite } from './rss';
  */
 export interface RSSConfig {
   sites: RSSSite[];
-  settings: ReaderSettings;
 }
 
 /**

@@ -7,7 +7,7 @@ import { useConfig } from '../hooks/useConfig';
 import { useRSSFeeds } from '../hooks/useRSSFeeds';
 import { useCommit } from '../hooks/useCommit';
 import { useReaderStore } from '../store/readerStore';
-import { saveRSSConfig } from '../utils/github-api';
+import { saveSubscriptionsOPML } from '../utils/github-api';
 import { RSSConfig } from '@/types/config';
 import { loadAppConfig } from '@/utils/app-config';
 
@@ -24,7 +24,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const [appConfig, setAppConfig] = useState(() => loadAppConfig());
   const [showReadItems, setShowReadItems] = useState(false);
 
-  // Update local config when config changes
   React.useEffect(() => {
     setLocalConfig(config);
   }, [config]);
@@ -44,7 +43,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const handleManualCommit = async () => {
     const success = await commit();
     if (success) {
-      // Show success feedback via console for now
       console.log('Committed successfully at', new Date().toLocaleTimeString());
     }
   };
@@ -61,9 +59,9 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
   const handleSaveConfig = async () => {
     if (!localConfig) throw new Error('No configuration to save');
     
-    await saveRSSConfig(localConfig);
-    await reloadConfig(); // Reload to refresh feeds
-    await refresh(); // Refresh feeds with new config
+    await saveSubscriptionsOPML(localConfig.sites);
+    await reloadConfig();
+    await refresh();
   };
 
   return (
@@ -81,7 +79,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
       />
 
       <Container maxWidth={false} sx={{ py: 3, display: 'flex', flexDirection: 'column', flex: 1, minHeight: 0 }}>
-        {/* Subscription Manager */}
         {localConfig && (
           <SubscriptionManager
             sites={localConfig.sites}
@@ -90,7 +87,6 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
           />
         )}
 
-        {/* Feed List */}
         <Box sx={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
           {config && sites.length > 0 && (
             <SidebarFeedLayout
@@ -117,13 +113,12 @@ export const ReaderLayout: React.FC<ReaderLayoutProps> = ({ onOpenConfig }) => {
           )}
           {!loading && !error && (!config || config.sites.length === 0) && (
             <Alert severity="info" sx={{ mt: 2 }}>
-              No RSS sites configured. Please create an rss-config.json file in your GitHub repository.
+              No RSS sites configured. Add feeds or create a subscriptions.opml file in your GitHub repository.
             </Alert>
           )}
         </Box>
       </Container>
 
-      {/* Commit Snackbar */}
       <Snackbar
         open={!!commitError}
         autoHideDuration={3000}

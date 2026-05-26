@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 import {
   Paper,
   Box,
@@ -19,8 +19,9 @@ import {
   Collapse,
   Tooltip,
 } from '@mui/material';
-import { Add as AddIcon, Delete as DeleteIcon, Edit as EditIcon, ExpandMore as ExpandMoreIcon, ExpandLess as ExpandLessIcon } from '@mui/icons-material';
+import { Add as AddIcon, Delete as DeleteIcon, Edit as EditIcon, ExpandMore as ExpandMoreIcon, ExpandLess as ExpandLessIcon, Upload as UploadIcon, Download as DownloadIcon } from '@mui/icons-material';
 import { RSSSite } from '@/types/rss';
+import { parseOPML, serializeOPML } from '@/utils/opml';
 
 interface SubscriptionManagerProps {
   sites: RSSSite[];
@@ -49,6 +50,8 @@ export const SubscriptionManager: React.FC<SubscriptionManagerProps> = ({
   });
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [importWarning, setImportWarning] = useState<string | null>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   const handleAdd = () => {
     setEditIndex(null);
@@ -108,6 +111,68 @@ export const SubscriptionManager: React.FC<SubscriptionManagerProps> = ({
     }
   };
 
+  const handleImportClick = () => {
+    fileInputRef.current?.click();
+  };
+
+  const handleImportFile = async (event: React.ChangeEvent<HTMLInputElement>) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    setError(null);
+    setImportWarning(null);
+
+    try {
+      const text = await file.text();
+      const { sites: importedSites } = parseOPML(text);
+
+      if (importedSites.length === 0) {
+        setError('No RSS feeds found in the OPML file.');
+        return;
+      }
+
+      const existingUrls = new Set(sites.map(s => s.url.toLowerCase()));
+      const skipped: string[] = [];
+      const newSites: RSSSite[] = [];
+
+      for (const site of importedSites) {
+        if (existingUrls.has(site.url.toLowerCase())) {
+          skipped.push(site.url);
+        } else {
+          newSites.push(site);
+          existingUrls.add(site.url.toLowerCase());
+        }
+      }
+
+      if (newSites.length > 0) {
+        onSitesChange([...sites, ...newSites]);
+      }
+
+      if (skipped.length > 0) {
+        setImportWarning(`Skipped ${skipped.length} duplicate(s): ${skipped.join(', ')}`);
+      } else if (newSites.length === 0) {
+        setError('All feeds in the OPML file are already in your subscription list.');
+      }
+    } catch (err: any) {
+      setError(err.message || 'Failed to import OPML file');
+    }
+
+    event.target.value = '';
+  };
+
+  const handleExport = () => {
+    const opml = serializeOPML(sites);
+    const blob = new Blob([opml], { type: 'application/xml' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'subscriptions.opml';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  };
+
   return (
     <Paper sx={{ mb: 2 }}>
       <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, pb: expanded ? 0 : 2 }}>
@@ -132,6 +197,23 @@ export const SubscriptionManager: React.FC<SubscriptionManagerProps> = ({
               Add Feed
             </Button>
             <Button
+              startIcon={<UploadIcon />}
+              onClick={handleImportClick}
+              size="small"
+              variant="outlined"
+            >
+              Import OPML
+            </Button>
+            <Button
+              startIcon={<DownloadIcon />}
+              onClick={handleExport}
+              size="small"
+              variant="outlined"
+              disabled={sites.length === 0}
+            >
+              Export OPML
+            </Button>
+            <Button
               onClick={handleSaveToGitHub}
               disabled={saving}
               size="small"
@@ -143,11 +225,24 @@ export const SubscriptionManager: React.FC<SubscriptionManagerProps> = ({
         )}
       </Box>
 
+      <input
+        ref={fileInputRef}
+        type="file"
+        accept=".opml,.xml"
+        style={{ display: 'none' }}
+        onChange={handleImportFile}
+      />
+
       <Collapse in={expanded}>
         <Box sx={{ p: 2, pt: 0 }}>
           {error && (
             <Alert severity="error" sx={{ mb: 2 }}>
               {error}
+            </Alert>
+          )}
+          {importWarning && (
+            <Alert severity="warning" sx={{ mb: 2 }}>
+              {importWarning}
             </Alert>
           )}
 

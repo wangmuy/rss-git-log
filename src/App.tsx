@@ -95,7 +95,7 @@ const App: React.FC = () => {
       try {
         const storedConfig = getStoredConfig();
         const client = createGitHubClient(storedConfig);
-        await readFromGitHub(client, 'rss-config.json');
+        await readFromGitHub(client, 'subscriptions.opml');
         setView('reader');
       } catch (error) {
         setView('config');

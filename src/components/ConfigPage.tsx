@@ -107,13 +107,13 @@ export const ConfigPage: React.FC<ConfigPageProps> = ({ onConfigured, onCancel }
         }
       });
 
-      // Verify rss-config.json is readable before allowing navigation to reader
+      // Verify subscriptions.opml is readable before allowing navigation to reader
       if (savedConfig.github.owner && savedConfig.github.repo) {
         try {
           const client = createGitHubClient(savedConfig.github);
-          await readFromGitHub(client, 'rss-config.json');
+          await readFromGitHub(client, 'subscriptions.opml');
         } catch (readErr: any) {
-          setError(`Cannot read rss-config.json from GitHub: ${readErr.message || readErr}. Check your repository and token.`);
+          setError(`Cannot read subscriptions.opml from GitHub: ${readErr.message || readErr}. Check your repository and token.`);
           setSaving(false);
           return;
         }

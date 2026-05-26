@@ -1,4 +1,4 @@
-# RSS Reader - GitHub Powered
+# RSS Reader
 
 A lean React Single Page Application (SPA) for reading RSS feeds with automatic read status tracking and site-based log persistence via GitHub API.
 
@@ -12,7 +12,8 @@ A lean React Single Page Application (SPA) for reading RSS feeds with automatic 
 - **CORS Policy Control**: Choose direct-only, proxy-fallback, or proxy-only RSS fetching
 - **Write Capability Check**: Token validation after setup - commit UI only shown when write access is confirmed
 - **Local Cache**: Bounded per-site log cache (default: 1 file per site)
-- **Subscription Management**: Add, edit, delete RSS feeds via UI
+- **Subscription Management**: Add, edit, delete RSS feeds via UI; import/export OPML files
+- **OPML Format**: Subscriptions stored as standard OPML on GitHub — portable to/from any RSS reader
 - **Clean UI**: Minimal, focused reading experience with sidebar layout
 - **Configurable**: User settings for display and auto-commit (disabled by default)
 - **MUI v7**: Modern Material Design components
@@ -65,7 +66,7 @@ This will install:
      git checkout --orphan rss-reader-data
      git rm -rf .
      ```
-   - Add your `rss-config.json` to this branch (see Step 3), commit, and push:
+    - Add your `subscriptions.opml` to this branch (see Step 3), commit, and push:
      ```bash
      git push origin rss-reader-data
      ```
@@ -74,50 +75,39 @@ This will install:
    - Owner: `your-username`
    - Repo: `rss-reader-data` (or your fork's name)
 
-#### Step 3: Create Config File
+#### Step 3: Create Subscription File
 
-1. Copy the example config to your repository:
+1. Create a `subscriptions.opml` file with your RSS feeds:
 
-```bash
-cp public/rss-config.example.json /tmp/rss-config.json
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0" xmlns:app="https://github.com/wangmuy/rss-git-log">
+  <head>
+    <title>RSS Subscriptions</title>
+  </head>
+  <body>
+    <outline type="rss" text="Hacker News" title="Hacker News"
+             xmlUrl="https://news.ycombinator.com/rss" app:color="#ff6600"/>
+    <outline type="rss" text="TechCrunch" title="TechCrunch"
+             xmlUrl="https://techcrunch.com/feed/" app:color="#00a562"/>
+    <outline type="rss" text="The Verge" title="The Verge"
+             xmlUrl="https://www.theverge.com/rss/index.xml" app:color="#e21b5a"/>
+  </body>
+</opml>
 ```
 
-2. Edit with your favorite RSS feeds:
-
-```json
-{
-  "sites": [
-    {
-      "name": "Hacker News",
-      "url": "https://news.ycombinator.com/rss",
-      "color": "#ff6600"
-    },
-    {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/feed/",
-      "color": "#00a562"
-    }
-  ],
-  "settings": {
-    "showReadItems": false,
-    "autoCommit": false,
-    "commitInterval": 300
-  }
-}
-```
-
-3. Upload to GitHub:
+2. Upload to GitHub:
 
 ```bash
 # Option A: Using GitHub Web UI
-# Go to your repo → Add file → Upload files → Upload rss-config.json
+# Go to your repo → Add file → Upload files → Upload subscriptions.opml
 
 # Option B: Using Git CLI
 git clone https://github.com/your-username/rss-reader-data.git
 cd rss-reader-data
-cp /tmp/rss-config.json .
-git add rss-config.json
-git commit -m "Add RSS configuration"
+# Create subscriptions.opml with your feeds (see example above)
+git add subscriptions.opml
+git commit -m "Add RSS subscriptions"
 git push
 ```
 
@@ -167,15 +157,15 @@ You should see:
 
 If you see errors:
 - Check browser console (F12)
-- Verify `rss-config.json` is in your GitHub repo
+- Check `subscriptions.opml` is in your GitHub repo
 - Check repo is public (or token is valid)
 - Use the Config page to re-check settings
 
 ## 📋 Configuration
 
-### RSS Config File (`rss-config.json`)
+### RSS Subscription File (`subscriptions.opml`)
 
-Stored in your GitHub repository root. See `public/rss-config.example.json` for the full schema.
+Stored in your GitHub repository root. Standard OPML 2.0 format with `app:color` attribute on `<outline>` elements for feed color.
 
 ### Runtime App Config (Config Page)
 
@@ -307,7 +297,7 @@ npm run deploy:custom -- -s myapp
 ## 🐛 Troubleshooting
 
 ### "Config file not found"
-- Ensure `rss-config.json` exists in your GitHub repo
+- Ensure `subscriptions.opml` exists in your GitHub repo
 - Check GitHub config in Config page (owner, repo, branch)
 - Verify repo is public (or token is valid)
 - Wait 30 seconds (GitHub cache)
@@ -356,17 +346,17 @@ A scheduled GitHub Action can periodically fetch all RSS feeds and commit unread
 
 ### How It Works
 
-The workflow at `.github/workflows/fetch-feeds.yml` runs every 8 hours and on demand via `workflow_dispatch`. It checks out your data branch, reads `rss-config.json`, fetches every feed using the configured CORS proxy policy, and commits `logs/{siteId}/YYYY-MM-DD.json` back to the data branch.
+The workflow at `.github/workflows/fetch-feeds.yml` runs every 8 hours and on demand via `workflow_dispatch`. It checks out your data branch, reads `subscriptions.opml`, fetches every feed using the configured CORS proxy policy, and commits `logs/{siteId}/YYYY-MM-DD.json` back to the data branch.
 
 ### Enabling
 
 1. Create a data branch (default: `rss-reader-data`) in your repository
-2. Add your `rss-config.json` to that branch
+2. Add your `subscriptions.opml` to that branch
 3. The workflow runs automatically on schedule — no further config needed
 
 All parameters are overridable from the Actions tab via **Run workflow**:
 - **code_branch**: Code branch with package.json and scripts (default: `main`)
-- **data_branch**: Data branch with `rss-config.json` (default: `rss-reader-data`)
+- **data_branch**: Data branch with `subscriptions.opml` (default: `rss-reader-data`)
 - **proxy_mode**: `direct-only`, `proxy-fallback`, or `proxy-only`
 - **proxy_templates**: Ordered proxy list with `{url}` placeholder
 - **timeout_ms**: Per-feed timeout in milliseconds
@@ -375,7 +365,7 @@ All parameters are overridable from the Actions tab via **Run workflow**:
 
 ### Using in Another Repository
 
-Fork this repo and copy `.github/workflows/fetch-feeds.yml` into your fork. The workflow runs in the same repo that contains the code, reading `rss-config.json` from a data branch and committing logs back to it.
+Fork this repo and copy `.github/workflows/fetch-feeds.yml` into your fork. The workflow runs in the same repo that contains the code, reading `subscriptions.opml` from a data branch and committing logs back to it.
 
 ### Local Testing
 
@@ -432,7 +422,7 @@ Native fetch() API
     ↓
 GitHub REST API v3 (same branch for reads & writes)
     ↓
-Config File (rss-config.json)
+Config File (subscriptions.opml)
     ↓
 RSS Feed URLs
     ↓

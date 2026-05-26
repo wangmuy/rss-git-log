@@ -3,8 +3,9 @@ import { parseXMLDocument } from '../src/utils/feed-parser';
 import { generateItemIdFromItem } from '../src/utils/item-id';
 import { getSiteId } from '../src/utils/url';
 import { commitAllFeedItems } from '../src/utils/log-file';
+import { parseOPML } from '../src/utils/opml';
 import type { GitHubConfig, CORSPolicy, CORSPolicyMode } from '../src/types/config';
-import type { RSSFeed, RSSItem, RSSConfig } from '../src/types/rss';
+import type { RSSFeed, RSSItem } from '../src/types/rss';
 import type { LogItem } from '../src/types/log';
 import * as fs from 'fs';
 import * as path from 'path';
@@ -142,19 +143,20 @@ async function main() {
   console.log(`Target: ${targetOwner}/${targetRepo}#${targetBranch}`);
   console.log(`Proxy mode: ${proxyMode}, timeout: ${timeoutMs}ms, pool: ${poolSize}`);
 
-  // 4. Read rss-config.json
-  const configPath = path.join(process.cwd(), 'rss-config.json');
+  // 4. Read subscriptions.opml
+  const configPath = path.join(process.cwd(), 'subscriptions.opml');
   if (!fs.existsSync(configPath)) {
-    console.error(`rss-config.json not found at ${configPath}`);
+    console.error(`subscriptions.opml not found at ${configPath}`);
     process.exit(1);
   }
 
-  const config: RSSConfig = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
-  console.log(`Sites to fetch: ${config.sites.length}`);
+  const opmlContent = fs.readFileSync(configPath, 'utf-8');
+  const { sites } = parseOPML(opmlContent);
+  console.log(`Sites to fetch: ${sites.length}`);
 
   // 5. Fetch all feeds with concurrency pool
-  const results: Array<{ site: RSSConfig['sites'][0]; feed: RSSFeed | null; error?: string }> = [];
-  const queue = [...config.sites];
+  const results: Array<{ site: typeof sites[0]; feed: RSSFeed | null; error?: string }> = [];
+  const queue = [...sites];
 
   async function worker() {
     while (queue.length > 0) {
