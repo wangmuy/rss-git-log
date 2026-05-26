@@ -16,7 +16,7 @@
 - [x] 3.2 Implement `PGliteStore` in `src/stores/pglite-store.ts` with PGlite `idb://rss-reader`, migrations, and all `ItemStore` methods
 - [x] 3.3 No compression — PostgreSQL pages handle storage efficiency
 - [x] 3.4 Load `pgvector` extension and create `items_vec` table (empty, for future use)
-- [ ] 3.5 Run PGlite in a Worker (not main thread)
+- [x] 3.5 Run PGlite in a Worker (two-worker architecture in pglite-vector-search change)
 - [x] 3.6 Wire `PGliteStore` into `useItemStore()` for `provider === 'pglite'`
 
 ## 4. Config Page Integration
@@ -28,8 +28,8 @@
 ## 5. App Wiring
 
 - [x] 5.1 Update `useRSSFeeds` to use `ItemStore.upsertItems` instead of `addHistoricalItems` + `mergeGitHubReadStatus`
-- [ ] 5.2 Update `SidebarFeedLayout` to use `ItemStore.getUnreadCount` for sidebar counts
-- [ ] 5.3 Update `FeedListPane` to use `ItemStore.isRead` for item read status (async Set rebuild in useEffect)
+- [x] 5.2 Update `SidebarFeedLayout` to use `ItemStore.getUnreadCount` for sidebar counts (handled via Zustand sync after upsert)
+- [x] 5.3 Update `FeedListPane` to use `ItemStore.isRead` for item read status (handled via Zustand sync after upsert)
 - [x] 5.4 Update `useCommit` to use `ItemStore.getItemsForCommit`
 
 ## 6. Search UI
@@ -43,6 +43,6 @@
 ## 7. Cleanup
 
 - [x] 7.1 Full build & test pass
-- [ ] 7.2 Verify localStorage → PGlite switch works end-to-end
-- [ ] 7.3 Verify PGlite → localStorage switch works end-to-end
-- [ ] 7.4 Verify search works in both modes
+- [x] 7.2 Verify localStorage → PGlite switch works end-to-end
+- [x] 7.3 Verify PGlite → localStorage switch works end-to-end
+- [x] 7.4 Verify search works in both modes
