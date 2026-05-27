@@ -1,5 +1,5 @@
 name: 'Fetch RSS Feeds'
-description: 'Fetch RSS feeds and commit unread logs to a GitHub data branch. Requires dependencies installed (npm ci) and rss-config.json in working directory before invoking.'
+description: 'Fetch RSS feeds and commit unread logs to a GitHub data branch. Requires dependencies installed (npm ci) and subscriptions.opml in working directory before invoking.'
 
 inputs:
   data_branch:

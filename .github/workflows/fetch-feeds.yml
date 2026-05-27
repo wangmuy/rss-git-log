@@ -10,7 +10,7 @@ on:
         required: false
         default: 'main'
       data_branch:
-        description: 'Data branch to read rss-config.json from and write logs to'
+        description: 'Data branch to read subscriptions.opml from and write logs to'
         required: true
         default: 'rss-reader-data'
       proxy_mode:
@@ -69,10 +69,10 @@ jobs:
 
       - run: npm ci || npm install
 
-      # Fetch rss-config.json from the data branch without switching branches
+      # Fetch subscriptions.opml from the data branch without switching branches
       - run: |
           git fetch origin ${{ env.DATA_BRANCH }} --depth=1 || true
-          git checkout origin/${{ env.DATA_BRANCH }} -- rss-config.json || echo "rss-config.json not found on data branch"
+          git checkout origin/${{ env.DATA_BRANCH }} -- subscriptions.opml || echo "subscriptions.opml not found on data branch"
 
       - run: npx tsx -r tsconfig-paths/register scripts/fetch-feeds.ts
         env:
