@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0" xmlns:app="https://github.com/wangmuy/rss-git-log">
+  <head>
+    <title>RSS Subscriptions</title>
+  </head>
+  <body>
+    <outline type="rss" text="Hacker News" title="Hacker News"
+             xmlUrl="https://news.ycombinator.com/rss" app:color="#ff6600"/>
+    <outline type="rss" text="LWN" title="LWN"
+             xmlUrl="https://lwn.net/headlines/rss" app:color="#00a562"/>
+  </body>
+</opml>
