@@ -97,12 +97,8 @@ export function parseLogFilename(name: string): { dateStr: string; overflow: num
   };
 }
 
-// ── In-memory site file cache (avoids redundant reads within a session) ──
+// ── In-memory site file cache (avoids redundant reads within a commit session) ──
 const siteFileCache = new Map<string, Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>>();
-
-function clearSiteFileCache(siteId: string): void {
-  siteFileCache.delete(siteId);
-}
 
 // ── Bucket Location ────────────────────────────────────────────────
 
@@ -385,7 +381,6 @@ export async function commitAllFeedItems(
     const success = await createCommitWithProvider(cfg, `Update feed data for ${siteName}`, changes);
     
     if (success) {
-      clearSiteFileCache(siteId);
       for (const task of postCommitTasks) {
         await task();
       }
@@ -449,18 +444,17 @@ export async function commitReadStatus(
       }
     }
     
-    if (writes.length === 0) return true;
-    
+if (writes.length === 0) return true;
+
     const changes = writes.map(w => ({ path: w.path, content: w.content, sha: null }));
     const success = await createCommitWithProvider(cfg, `Update read status for ${siteName}`, changes);
-    
+
     if (success) {
-      clearSiteFileCache(siteId);
       for (const task of postCommitTasks) {
         await task();
       }
     }
-    
+
     return success;
   } catch (error) {
     console.error('Failed to commit read status:', error);
