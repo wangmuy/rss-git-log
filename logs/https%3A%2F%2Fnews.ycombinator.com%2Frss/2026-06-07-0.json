@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-07",
     "newestItemDate": "2026-06-07",
-    "itemCount": 9,
-    "generatedAt": "2026-06-07T10:37:47.694Z"
+    "itemCount": 19,
+    "generatedAt": "2026-06-07T17:42:38.117Z"
   },
   "items": [
     {
@@ -60,6 +60,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwZGltYWdlYXJjaGl2ZS5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnBkaW1hZ2VhcmNoaXZlLm9yZyUyRiU3Q1B1YmxpYyUyMERvbWFpbiUyMEltYWdlJTIwQXJjaGl2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDMwNTM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDclMjBKdW4lMjAyMDI2JTIwMDAlM0EyMiUzQTUxJTIwJTJCMDAwMA",
       "title": "Public Domain Image Archive",
       "pubDate": "Sun, 07 Jun 2026 00:22:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcHJvbGlmZXJhdGUlMkZqb2JzJTJGTDNjb3B2Sy1mb3VuZGluZy1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnByb2xpZmVyYXRlJTJGam9icyUyRkwzY29wdkstZm91bmRpbmctZW5naW5lZXIlN0NQcm9saWZlcmF0ZSUyMChZQyUyMFMyNSklMjBpcyUyMGhpcmluZyUyMHRvJTIwYnVpbGRpbmclMjBvcGVuJTIwc291cmNlJTIwQ29kZXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQzNjY2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA3JTIwSnVuJTIwMjAyNiUyMDE3JTNBMDElM0ExNyUyMCUyQjAwMDA",
+      "title": "Proliferate (YC S25) is hiring to building open source Codex",
+      "pubDate": "Sun, 07 Jun 2026 17:01:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmM4ZThlN2cwcjgybyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjOGU4ZTdnMHI4Mm8lN0NUaGUlMjBnYW1lcnMlMjB0YWtpbmclMjBvbiUyMHRoZSUyMGluZHVzdHJ5JTIwdG8lMjBzdG9wJTIwaXQlMjBzd2l0Y2hpbmclMjBvZmYlMjBnYW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDM2MjQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDclMjBKdW4lMjAyMDI2JTIwMTYlM0ExNiUzQTU0JTIwJTJCMDAwMA",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "pubDate": "Sun, 07 Jun 2026 16:16:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYW1hbmV0d29yay5jb20lMkZqb3VybmFscyUyRmphbWFuZXR3b3Jrb3BlbiUyRmZ1bGxhcnRpY2xlJTJGMjg0OTEyMiU3Q2h0dHBzJTNBJTJGJTJGamFtYW5ldHdvcmsuY29tJTJGam91cm5hbHMlMkZqYW1hbmV0d29ya29wZW4lMkZmdWxsYXJ0aWNsZSUyRjI4NDkxMjIlN0NWaXRhbWluJTIwRDMlMjBEdXJpbmclMjBQcmVnbmFuY3klMjBhbmQlMjBDb2duaXRpdmUlMjBQZXJmb3JtYW5jZSUyMGF0JTIwMTAlMjBZZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDM1NTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDclMjBKdW4lMjAyMDI2JTIwMTUlM0EwOCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "pubDate": "Sun, 07 Jun 2026 15:08:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBvZG1hbi5pbyUyRjIwMjUlMkYxMCUyRnBvZG1hbi02LW1hY2hpbmUtdXNhYmlsaXR5LWltcHJvdmVtZW50cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5wb2RtYW4uaW8lMkYyMDI1JTJGMTAlMkZwb2RtYW4tNi1tYWNoaW5lLXVzYWJpbGl0eS1pbXByb3ZlbWVudHMlMkYlN0NQb2RtYW4lMjA2JTNBJTIwbWFjaGluZSUyMHVzYWJpbGl0eSUyMGltcHJvdmVtZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDM0OTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDclMjBKdW4lMjAyMDI2JTIwMTQlM0EwMSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Podman 6: machine usability improvements",
+      "pubDate": "Sun, 07 Jun 2026 14:01:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmNsYXVkZS1jb2RlJTJGaXNzdWVzJTJGNjU2OTclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbnRocm9waWNzJTJGY2xhdWRlLWNvZGUlMkZpc3N1ZXMlMkY2NTY5NyU3Q0FudGhyb3BpYyUyQyUyMHBsZWFzZSUyMHNoaXAlMjBhbiUyMG9mZmljaWFsJTIwQ2xhdWRlJTIwRGVza3RvcCUyMGZvciUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0MzQ0MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNyUyMEp1biUyMDIwMjYlMjAxMyUzQTA2JTNBNTIlMjAlMkIwMDAw",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "pubDate": "Sun, 07 Jun 2026 13:06:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodW1hbi1pbi10aGUtbG9vcC5iZWFyYmxvZy5kZXYlMkZsbG1zLWFyZS1lcm9kaW5nLW15LXNvZnR3YXJlLWVuZ2luZWVyaW5nLWNhcmVlci1hbmQtaS1kb250LWtub3ctd2hhdC10by1kbyUyRiU3Q2h0dHBzJTNBJTJGJTJGaHVtYW4taW4tdGhlLWxvb3AuYmVhcmJsb2cuZGV2JTJGbGxtcy1hcmUtZXJvZGluZy1teS1zb2Z0d2FyZS1lbmdpbmVlcmluZy1jYXJlZXItYW5kLWktZG9udC1rbm93LXdoYXQtdG8tZG8lMkYlN0NMTE1zJTIwYXJlJTIwZXJvZGluZyUyMG15JTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMGNhcmVlciUyMGFuZCUyMEklMjBkb24ndCUyMGtub3clMjB3aGF0JTIwdG8lMjBkbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDM0MzEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDclMjBKdW4lMjAyMDI2JTIwMTIlM0E0OSUzQTI5JTIwJTJCMDAwMA",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "pubDate": "Sun, 07 Jun 2026 12:49:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmR5cy5ibG9nJTJGdGhlLWJlc3QtcmVsYXRpb25zaGlwcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5keXMuYmxvZyUyRnRoZS1iZXN0LXJlbGF0aW9uc2hpcHMlMkYlN0NUaGUlMjBiZXN0JTIwcmVsYXRpb25zaGlwcyUyMGFyZSUyMGFsbC1lbmNvbXBhc3NpbmcuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0MzM5NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNyUyMEp1biUyMDIwMjYlMjAxMSUzQTU1JTNBMDUlMjAlMkIwMDAw",
+      "title": "The best relationships are all-encompassing.",
+      "pubDate": "Sun, 07 Jun 2026 11:55:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGV2ZW5qYXJ2aXMlMkZsYXRoZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmRldmVuamFydmlzJTJGbGF0aGUlN0NTaG93JTIwSE4lM0ElMjBMYXRoZSUyMCVFMiU4MCU5MyUyMFVzZSUyMExMTXMlMjB0byUyMGxlYXJuJTIwYSUyMG5ldyUyMGRvbWFpbiUyQyUyMG5vdCUyMHNraXAlMjBwYXN0JTIwaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQzMzc1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA3JTIwSnVuJTIwMjAyNiUyMDExJTNBMTYlM0E0NiUyMCUyQjAwMDA",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "pubDate": "Sun, 07 Jun 2026 11:16:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjA0Mjk5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjA0Mjk5JTdDRWZmaWNpZW50JTIwYW5kJTIwVHJhaW5pbmctRnJlZSUyMFNpbmdsZS1JbWFnZSUyMERpZmZ1c2lvbiUyME1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDMzMzA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDclMjBKdW4lMjAyMDI2JTIwMDklM0E0MyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "pubDate": "Sun, 07 Jun 2026 09:43:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZreXVzaHUuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZreXVzaHUuZGV2JTJGJTdDU2hvdyUyMEhOJTNBJTIwS3l1c2h1JTIwJUUyJTgwJTkzJTIwQSUyMHNlbGYtaG9zdGFibGUlMjBXQVNNJTIwc2FuZGJveCUyMGZvciUyMEphdmFTY3JpcHQlMjB3b3JrZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0MzI3MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNyUyMEp1biUyMDIwMjYlMjAwNyUzQTM1JTNBMDIlMjAlMkIwMDAw",
+      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "pubDate": "Sun, 07 Jun 2026 07:35:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-07-0.json"
     }
   ]

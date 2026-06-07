@@ -4,14 +4,20 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-02",
     "newestItemDate": "2026-06-02",
-    "itemCount": 1,
-    "generatedAt": "2026-06-07T10:37:47.694Z"
+    "itemCount": 2,
+    "generatedAt": "2026-06-07T17:42:38.118Z"
   },
   "items": [
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ1b25yLmdpdGh1Yi5pbyUyRnBvaW5jYWtlJTJGJTdDaHR0cHMlM0ElMkYlMkZ1b25yLmdpdGh1Yi5pbyUyRnBvaW5jYWtlJTJGJTdDU2hvdyUyMEhOJTNBJTIwSW5maW5pdGUlMjBjYW52YXMlMjBub3RlcyUyMGluJTIwdGhlJTIwbm9uLUV1Y2xpZGVhbiUyMFBvaW5jYXIlQzMlQTklMjBkaXNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDgzNzIxMzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMiUyMEp1biUyMDIwMjYlMjAxNiUzQTA4JTNBMjYlMjAlMkIwMDAw",
       "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
       "pubDate": "Tue, 02 Jun 2026 16:08:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2FyZXRoZ2VvcmdlJTJGYmFja3Jlc3QlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZnYXJldGhnZW9yZ2UlMkZiYWNrcmVzdCU3Q0JhY2tyZXN0JTIwJUUyJTgwJTkzJTIwYSUyMHdlYiUyMFVJJTIwYW5kJTIwb3JjaGVzdHJhdG9yJTIwZm9yJTIwcmVzdGljJTIwYmFja3VwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDgzNzAyNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMiUyMEp1biUyMDIwMjYlMjAxMyUzQTUyJTNBMzQlMjAlMkIwMDAw",
+      "title": "Backrest – a web UI and orchestrator for restic backup",
+      "pubDate": "Tue, 02 Jun 2026 13:52:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-02-0.json"
     }
   ]
