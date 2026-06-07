@@ -1,5 +1,5 @@
 import { describe, expect, it, vi, afterEach } from 'vitest';
-import { render, waitFor, fireEvent } from '@testing-library/react';
+import { render, waitFor, fireEvent, cleanup } from '@testing-library/react';
 import { FeedListPane } from './SidebarFeedLayout';
 import { SiteWithStatus, RSSItem } from '@/types/rss';
 import { generateItemIdFromItem } from '@/utils/item-id';
@@ -33,8 +33,13 @@ function getFeedItems(container: HTMLElement): Element[] {
 }
 
 afterEach(() => {
+  cleanup();
   useReaderStore.getState().clearSession();
 });
+
+function setSessionReadItemIds(readItemIds: Set<string>): void {
+  useReaderStore.setState({ sessionReadItemIdSet: { 'test-site': readItemIds } });
+}
 
 describe('FeedListPane show/hide logic', () => {
   it('shows all items when showReadItems is false and none are read', () => {
@@ -140,6 +145,145 @@ describe('FeedListPane show/hide logic', () => {
     await waitFor(() => {
       const rendered = getFeedItems(container);
       expect(rendered.length).toBe(2);
+    });
+  });
+
+  it('session-read items stay visible when showReadItems is false', () => {
+    const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2)];
+    const site = createMockSite(feedItems);
+    const itemId1 = generateItemIdFromItem(feedItems[0]);
+    // item1 is in readStatus (pre-read) AND session set (user-read this session)
+    setReadItemIds(new Set([itemId1]));
+    setSessionReadItemIds(new Set([itemId1]));
+
+    const container = render(
+      <FeedListPane
+        site={site}
+        onMarkAsRead={() => {}}
+        showReadItems={false}
+      />
+    ).container;
+
+    const rendered = getFeedItems(container);
+    expect(rendered.length).toBe(2);
+  });
+
+  it('markAsRead adds to sessionReadItemIdSet so item stays visible', async () => {
+    const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2)];
+    const site = createMockSite(feedItems);
+    const itemId1 = generateItemIdFromItem(feedItems[0]);
+    setReadItemIds(new Set<string>());
+
+    const container = render(
+      <FeedListPane
+        site={site}
+        onMarkAsRead={(_, itemId) => useReaderStore.getState().markAsRead('test-site', itemId)}
+        showReadItems={false}
+      />
+    ).container;
+
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(2);
+    });
+
+    useReaderStore.getState().markAsRead('test-site', itemId1);
+
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(2);
+    });
+  });
+
+  it('mergeGitHubReadStatus adds to readStatus but NOT sessionReadItemIdSet so item becomes hidden', async () => {
+    const feedItems: RSSItem[] = [createMockItem(1)];
+    const site = createMockSite(feedItems);
+    const itemId1 = generateItemIdFromItem(feedItems[0]);
+    setReadItemIds(new Set<string>());
+
+    const container = render(
+      <FeedListPane
+        site={site}
+        onMarkAsRead={() => {}}
+        showReadItems={false}
+      />
+    ).container;
+
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(1);
+    });
+
+    const githubItems = new Map<string, { readAt?: string }>();
+    githubItems.set(itemId1, { readAt: new Date().toISOString() });
+    useReaderStore.getState().mergeGitHubReadStatus('test-site', githubItems);
+
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(0);
+    });
+  });
+
+  it('markSiteAsRead keeps all items visible (adds to sessionReadItemIdSet)', async () => {
+    const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3)];
+    const site = createMockSite(feedItems);
+    setReadItemIds(new Set<string>());
+
+    const container = render(
+      <FeedListPane
+        site={site}
+        onMarkAsRead={() => {}}
+        showReadItems={false}
+      />
+    ).container;
+
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(3);
+    });
+
+    useReaderStore.getState().markSiteAsRead('test-site');
+
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(3);
+    });
+  });
+
+  it('batch merge: pre-read items from feed fetch are hidden, GitHub-read items are hidden, GitHub-unread items are visible', async () => {
+    const feedItems: RSSItem[] = [createMockItem(1), createMockItem(2), createMockItem(3)];
+    const site = createMockSite(feedItems);
+    const itemId1 = generateItemIdFromItem(feedItems[0]);
+    const itemId2 = generateItemIdFromItem(feedItems[1]);
+
+    // Simulate page load: item1 was read in previous session
+    setReadItemIds(new Set([itemId1]));
+
+    const container = render(
+      <FeedListPane
+        site={site}
+        onMarkAsRead={() => {}}
+        showReadItems={false}
+      />
+    ).container;
+
+    // After feed fetch: item1 hidden (pre-read), item2+3 visible
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(2);
+    });
+
+    // Simulate GitHub merge: item2 was read elsewhere, item3 is new/unread
+    const githubItems = new Map<string, { readAt?: string }>();
+    githubItems.set(itemId2, { readAt: new Date().toISOString() });
+    useReaderStore.getState().mergeGitHubReadStatus('test-site', githubItems);
+
+    // GitHub merge adds item2 to readStatus (not session set) → hidden
+    // item3 still unread → visible
+    // item1 still in readStatus → hidden
+    await waitFor(() => {
+      const rendered = getFeedItems(container);
+      expect(rendered.length).toBe(1);
     });
   });
 });

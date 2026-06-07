@@ -128,11 +128,14 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
       } catch {}
 
       const existing = useReaderStore.getState().readStatus[selectedSiteId] || new Set();
+      const existingSession = useReaderStore.getState().sessionReadItemIdSet[selectedSiteId] || new Set();
       for (const id of result.itemIds) {
         existing.add(id);
+        existingSession.add(id);
       }
       useReaderStore.setState({
         readStatus: { ...useReaderStore.getState().readStatus, [selectedSiteId]: existing },
+        sessionReadItemIdSet: { ...useReaderStore.getState().sessionReadItemIdSet, [selectedSiteId]: existingSession },
         sites: useReaderStore.getState().sites.map(s =>
           s.siteId === selectedSiteId ? { ...s, unreadCount: 0 } : s
         )
@@ -297,6 +300,7 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
                 </Box>
               )}
               <FeedListPane
+                key={selectedSite.siteId}
                 site={selectedSite}
                 onMarkAsRead={onMarkAsRead}
                 showReadItems={showReadItems}
@@ -346,6 +350,7 @@ interface FeedListPaneProps {
 
 export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, showReadItems }) => {
   const readStatus = useReaderStore(state => state.readStatus);
+  const isReadInSession = useReaderStore(state => state.isReadInSession);
   const [kbdItemId, setKbdItemId] = useState<string | null>(null);
   const kbdItemIdRef = useRef<string | null>(null);
   kbdItemIdRef.current = kbdItemId;
@@ -355,16 +360,24 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
     setKbdItemId(null);
   }, [showReadItems]);
 
-  // Memoise the sorted + mapped full item list — only recalculated when site or items change
+  // Memoise the sorted + mapped full item list — deduplicated by itemId
   const allItems = useMemo(
-    () =>
-      [...site.items]
+    () => {
+      const seen = new Set<string>();
+      return [...site.items]
         .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
+        .filter(item => {
+          const id = generateItemIdFromItem(item);
+          if (seen.has(id)) return false;
+          seen.add(id);
+          return true;
+        })
         .map((item, idx) => ({
           itemId: generateItemIdFromItem(item),
           item,
           idx,
-        })),
+        }));
+    },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [site.siteId, site.items],
   );
@@ -379,15 +392,14 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
     return set;
   }, [allItems, site.siteId, readStatus]);
 
-  // Filtered items — visible list (all or unread only, but keep focused item even if read)
+  // Filtered items — visible list (all or unread only, with session-read items staying visible)
   const items = useMemo(
     () =>
       allItems.filter(data => {
         if (showReadItems) return true;
-        if (data.itemId === kbdItemId) return true;
-        return !readItemIdSet.has(data.itemId);
+        return !readItemIdSet.has(data.itemId) || isReadInSession(site.siteId, data.itemId);
       }),
-    [allItems, showReadItems, readItemIdSet, kbdItemId],
+    [allItems, showReadItems, readItemIdSet, isReadInSession, site.siteId],
   );
 
   // Build a Set of *unread* itemId values for O(1) mark-as-read checks and filtering

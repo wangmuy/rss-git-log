@@ -9,6 +9,7 @@ interface ReaderState {
   feeds: RSSFeed[];
   sites: SiteWithStatus[];
   readStatus: ReadStatus;
+  sessionReadItemIdSet: ReadStatus;
   settings: ReaderSettings;
   isLoading: boolean;
   isCommitting: boolean;
@@ -27,6 +28,7 @@ interface ReaderState {
   markSiteAsRead: (siteId: string) => void;
   markAllAsRead: () => void;
   isRead: (siteId: string, itemId: string) => boolean;
+  isReadInSession: (siteId: string, itemId: string) => boolean;
   getUnreadCount: (siteId: string) => number;
   getUnreadItems: (siteId: string) => Array<{ itemId: string; title: string; pubDate: string; siteName: string }>;
   getAllUnreadItems: () => Record<string, Array<{ itemId: string; title: string; pubDate: string; siteName: string }>>;
@@ -52,6 +54,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
   feeds: [],
   sites: [],
   readStatus: {},
+  sessionReadItemIdSet: {},
   settings: DEFAULT_SETTINGS,
   isLoading: false,
   isCommitting: false,
@@ -92,6 +95,12 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
       }
       newReadStatus[siteId].add(itemId);
 
+      const newSessionSet = { ...state.sessionReadItemIdSet };
+      if (!newSessionSet[siteId]) {
+        newSessionSet[siteId] = new Set();
+      }
+      newSessionSet[siteId].add(itemId);
+
       compressedSetItem('rss-reader-session', JSON.stringify({
           readStatus: Object.fromEntries(
             Object.entries(newReadStatus).map(([k, v]) => [k, Array.from(v)])
@@ -111,7 +120,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         return site;
       });
 
-      return { readStatus: newReadStatus, sites: updatedSites };
+      return { readStatus: newReadStatus, sessionReadItemIdSet: newSessionSet, sites: updatedSites };
     });
   },
 
@@ -125,9 +134,15 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         newReadStatus[siteId] = new Set();
       }
 
+      const newSessionSet = { ...state.sessionReadItemIdSet };
+      if (!newSessionSet[siteId]) {
+        newSessionSet[siteId] = new Set();
+      }
+
       site.items.forEach(item => {
         const itemId = generateItemIdFromItem(item);
         newReadStatus[siteId].add(itemId);
+        newSessionSet[siteId].add(itemId);
       });
 
       compressedSetItem('rss-reader-session', JSON.stringify({
@@ -144,21 +159,24 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         return s;
       });
 
-      return { readStatus: newReadStatus, sites: updatedSites };
+      return { readStatus: newReadStatus, sessionReadItemIdSet: newSessionSet, sites: updatedSites };
     });
   },
 
   markAllAsRead: () => {
     set(state => {
       const newReadStatus: ReadStatus = {};
+      const newSessionSet: ReadStatus = {};
 
       state.sites.forEach(site => {
         const siteId = site.siteId;
         newReadStatus[siteId] = new Set();
+        newSessionSet[siteId] = new Set();
 
         site.items.forEach(item => {
           const itemId = generateItemIdFromItem(item);
           newReadStatus[siteId].add(itemId);
+          newSessionSet[siteId].add(itemId);
         });
       });
 
@@ -169,13 +187,18 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
           settings: state.settings
         }));
 
-      return { readStatus: newReadStatus };
+      return { readStatus: newReadStatus, sessionReadItemIdSet: newSessionSet };
     });
   },
 
   isRead: (siteId, itemId) => {
     const state = get();
     return state.readStatus[siteId]?.has(itemId) || false;
+  },
+
+  isReadInSession: (siteId, itemId) => {
+    const state = get();
+    return state.sessionReadItemIdSet[siteId]?.has(itemId) || false;
   },
 
   getUnreadCount: (siteId) => {
@@ -319,6 +342,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
   clearSession: () => {
     set({
       readStatus: {},
+      sessionReadItemIdSet: {},
       feeds: [],
       sites: [],
       error: null,

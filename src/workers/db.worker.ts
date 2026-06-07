@@ -60,11 +60,24 @@ function detectLang(text: string): 'en' | 'zh' {
 async function handleUpsert(payload: any) {
   if (!db) return;
   const { siteId, items } = payload;
-  console.log(`[W1] upsertItems: ${items.length} items for ${siteId}`);
+
+  // Deduplicate by itemId to avoid PGlite's "ON CONFLICT DO UPDATE cannot affect row a second time"
+  const seen = new Set<string>();
+  const deduped = items.filter((item: any) => {
+    if (seen.has(item.itemId)) return false;
+    seen.add(item.itemId);
+    return true;
+  });
+
+  if (deduped.length !== items.length) {
+    console.log(`[W1] upsertItems: deduped ${items.length - deduped.length} duplicates for ${siteId}`);
+  }
+
+  console.log(`[W1] upsertItems: ${deduped.length} items for ${siteId}`);
 
   const BATCH = 20;
-  for (let i = 0; i < items.length; i += BATCH) {
-    const batch = items.slice(i, i + BATCH);
+  for (let i = 0; i < deduped.length; i += BATCH) {
+    const batch = deduped.slice(i, i + BATCH);
     const values: string[] = [];
     const params: any[] = [];
     let idx = 1;
@@ -120,21 +133,21 @@ async function handleUpsert(payload: any) {
     }
   }
 
-  console.log(`[W1] UPSERT_DONE for ${siteId}: ${items.length} items`);
+  console.log(`[W1] UPSERT_DONE for ${siteId}: ${deduped.length} items`);
   self.postMessage({ seq: payload.seq, type: 'UPSERT_DONE' });
 
   // Fire-and-forget: relay items to W2 for embedding
   if (embedPort) {
     embedPort.postMessage({
       type: 'embed',
-      items: items.map((item: any) => ({
+      items: deduped.map((item: any) => ({
         id: item.itemId,
         text: `${item.title || ''} ${item.description || ''}`
       }))
     });
-    console.log(`[W1] relayed ${items.length} items to W2 for embedding`);
+    console.log(`[W1] relayed ${deduped.length} items to W2 for embedding`);
   } else {
-    console.warn(`[W1] embedPort is null, cannot relay ${items.length} items to W2`);
+    console.warn(`[W1] embedPort is null, cannot relay ${deduped.length} items to W2`);
   }
 }
 
