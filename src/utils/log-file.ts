@@ -97,16 +97,27 @@ export function parseLogFilename(name: string): { dateStr: string; overflow: num
   };
 }
 
+// ── In-memory site file cache (avoids redundant reads within a session) ──
+const siteFileCache = new Map<string, Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>>();
+
+function clearSiteFileCache(siteId: string): void {
+  siteFileCache.delete(siteId);
+}
+
 // ── Bucket Location ────────────────────────────────────────────────
 
 /**
  * List all directory files for a site and cache their data.
  * Returns an array of { filePath, data } for all non-allread .json files.
+ * Results are cached in-memory for the current session; call clearSiteFileCache to invalidate.
  */
 async function listSiteFiles(
   siteId: string,
   cfg: GitHubConfig
 ): Promise<Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>> {
+  const cached = siteFileCache.get(siteId);
+  if (cached) return cached;
+  
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectoryWithProvider(cfg, siteDir);
   const { keep: filtered, toDelete } = filterOutAllreadDuplicates(files);
@@ -142,6 +153,7 @@ async function listSiteFiles(
     });
   }
   
+  siteFileCache.set(siteId, results);
   return results;
 }
 
@@ -373,6 +385,7 @@ export async function commitAllFeedItems(
     const success = await createCommitWithProvider(cfg, `Update feed data for ${siteName}`, changes);
     
     if (success) {
+      clearSiteFileCache(siteId);
       for (const task of postCommitTasks) {
         await task();
       }
@@ -442,6 +455,7 @@ export async function commitReadStatus(
     const success = await createCommitWithProvider(cfg, `Update read status for ${siteName}`, changes);
     
     if (success) {
+      clearSiteFileCache(siteId);
       for (const task of postCommitTasks) {
         await task();
       }
