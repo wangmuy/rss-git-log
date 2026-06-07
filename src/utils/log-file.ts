@@ -308,7 +308,19 @@ async function mergeItemsIntoBucket(
   const existingItemIds = new Set(siteLogData.items.map(i => i.itemId));
   const toAdd = newItems.filter(item => !existingItemIds.has(item.itemId));
   
-  if (toAdd.length === 0) return null;
+  // Propagate readAt to existing items that now have read status
+  let readAtUpdated = false;
+  for (const newItem of newItems) {
+    if (newItem.readAt && existingItemIds.has(newItem.itemId)) {
+      const existing = siteLogData.items.find(i => i.itemId === newItem.itemId);
+      if (existing && !existing.readAt) {
+        existing.readAt = newItem.readAt;
+        readAtUpdated = true;
+      }
+    }
+  }
+  
+  if (toAdd.length === 0 && !readAtUpdated) return null;
   
   // Add new items
   siteLogData.items.push(...toAdd);
