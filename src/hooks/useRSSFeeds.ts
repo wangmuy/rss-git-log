@@ -284,7 +284,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
 
     setLoading(false);
     setStoreLoading(false);
-  }, [config, setStoreLoading, setStoreError, setSiteLoading, updateSite, addHistoricalItems, mergeGitHubReadStatus]);
+  }, [config, sites, setStoreLoading, setStoreError, setSiteLoading, updateSite, addHistoricalItems, mergeGitHubReadStatus]);
 
   return {
     sites,
