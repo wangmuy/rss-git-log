@@ -270,7 +270,9 @@ async function mergeItemsIntoBucket(
   let existingData: SiteLogData | null = null;
   
   if (targetFile) {
-    existingData = await readFromGitHubWithProvider(config, targetFile) as SiteLogData;
+    // Use cached data from siteFiles if available, otherwise read from GitHub
+    const cached = siteFiles?.find(sf => sf.filePath === targetFile);
+    existingData = cached?.data ?? await readFromGitHubWithProvider(config, targetFile) as SiteLogData;
   }
   
   // If no suitable file found, try overflow
