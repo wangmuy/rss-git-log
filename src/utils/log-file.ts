@@ -1,4 +1,4 @@
-import { getStoredConfig, readFromGitHubWithProvider, writeToGitHubWithProvider, listDirectoryWithProvider, deleteFileWithProvider } from './github-api';
+import { getStoredConfig, readFromGitHubWithProvider, writeToGitHubWithProvider, listDirectoryWithProvider, deleteFileWithProvider, createCommitWithProvider } from './github-api';
 import { LogItem, SiteLogData } from '@/types/log';
 import { GitHubConfig } from '@/types/config';
 import { cacheLogFile, getCachedLogFile, pruneCachedLogFilesForSite } from './log-cache';
@@ -149,12 +149,12 @@ async function listSiteFiles(
  * Locate an existing log file for the given date with < 200 items.
  * Returns file path or null if no suitable bucket exists.
  */
-export async function locateLogFileByDate(siteId: string, dateStr: string, config?: GitHubConfig): Promise<string | null> {
+export async function locateLogFileByDate(siteId: string, dateStr: string, config?: GitHubConfig, siteFiles?: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>): Promise<string | null> {
   const cfg = config ?? getStoredConfig();
   
-  const siteFiles = await listSiteFiles(siteId, cfg);
+  const files = siteFiles ?? await listSiteFiles(siteId, cfg);
   
-  for (const sf of siteFiles) {
+  for (const sf of files) {
     if (sf.fileDate === dateStr && sf.data && sf.data.items.length < MAX_LOG_ITEMS_PER_FILE) {
       return sf.filePath;
     }
@@ -167,13 +167,13 @@ export async function locateLogFileByDate(siteId: string, dateStr: string, confi
  * Find the overflow count for a given date bucket.
  * Returns the next suffix number to use (0 if no overflow files exist).
  */
-async function findOverflowCount(siteId: string, dateStr: string, config?: GitHubConfig): Promise<number> {
+async function findOverflowCount(siteId: string, dateStr: string, config?: GitHubConfig, siteFiles?: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>): Promise<number> {
   const cfg = config ?? getStoredConfig();
   
-  const siteFiles = await listSiteFiles(siteId, cfg);
+  const files = siteFiles ?? await listSiteFiles(siteId, cfg);
   
   let maxOverflow = -1;
-  for (const sf of siteFiles) {
+  for (const sf of files) {
     if (sf.fileDate === dateStr && sf.overflow !== null) {
       if (sf.overflow > maxOverflow) {
         maxOverflow = sf.overflow;
@@ -189,20 +189,20 @@ async function findOverflowCount(siteId: string, dateStr: string, config?: GitHu
  * Returns the file path for writing overflow items (may not exist yet).
  * If the main bucket exists with space, returns that instead.
  */
-export async function findOverflowBucket(siteId: string, dateStr: string, config?: GitHubConfig): Promise<string | null> {
+export async function findOverflowBucket(siteId: string, dateStr: string, config?: GitHubConfig, siteFiles?: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>): Promise<string | null> {
   const cfg = config ?? getStoredConfig();
   
-  const siteFiles = await listSiteFiles(siteId, cfg);
+  const files = siteFiles ?? await listSiteFiles(siteId, cfg);
   
   // First check if any existing file for this date has space
-  for (const sf of siteFiles) {
+  for (const sf of files) {
     if (sf.fileDate === dateStr && sf.data && sf.data.items.length < MAX_LOG_ITEMS_PER_FILE) {
       return sf.filePath;
     }
   }
   
   // Need to create a new overflow file
-  const nextSuffix = await findOverflowCount(siteId, dateStr, cfg);
+  const nextSuffix = await findOverflowCount(siteId, dateStr, cfg, files);
   return createOverflowFilename(siteId, dateStr, nextSuffix);
 }
 
@@ -231,17 +231,29 @@ async function getSiteFileDates(siteId: string, config?: GitHubConfig): Promise<
  * Merge new items into a bucket file: read existing → dedup → append → write.
  * Returns true if write succeeded (or no new items).
  */
+/**
+ * Prepare a bucket write: read existing → dedup → append → return file content.
+ * Does NOT write to GitHub — the caller batches writes via createCommitWithProvider.
+ * Returns null if nothing to write.
+ */
+interface BucketWrite {
+  path: string;
+  content: string;
+  siteLogData: SiteLogData;
+}
+
 async function mergeItemsIntoBucket(
   siteId: string,
   siteName: string,
   dateStr: string,
   newItems: LogItem[],
-  config: GitHubConfig
-): Promise<boolean> {
-  if (newItems.length === 0) return true;
+  config: GitHubConfig,
+  siteFiles?: Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>
+): Promise<BucketWrite | null> {
+  if (newItems.length === 0) return null;
   
   // Try to locate existing file with space
-  let targetFile = await locateLogFileByDate(siteId, dateStr, config);
+  let targetFile = await locateLogFileByDate(siteId, dateStr, config, siteFiles);
   let existingData: SiteLogData | null = null;
   
   if (targetFile) {
@@ -250,16 +262,15 @@ async function mergeItemsIntoBucket(
   
   // If no suitable file found, try overflow
   if (!existingData) {
-    const overflowFile = await findOverflowBucket(siteId, dateStr, config);
+    const overflowFile = await findOverflowBucket(siteId, dateStr, config, siteFiles);
     if (overflowFile) {
       // Check if it's an existing file
-      const siteFiles = await listSiteFiles(siteId, config);
-      const match = siteFiles.find(sf => sf.filePath === overflowFile);
+      const files = siteFiles ?? await listSiteFiles(siteId, config);
+      const match = files.find(sf => sf.filePath === overflowFile);
       if (match && match.data) {
         existingData = match.data;
         targetFile = match.filePath;
       } else {
-        // It's a new overflow filename — use it directly as target
         targetFile = overflowFile;
         existingData = null;
       }
@@ -282,7 +293,7 @@ async function mergeItemsIntoBucket(
   const existingItemIds = new Set(siteLogData.items.map(i => i.itemId));
   const toAdd = newItems.filter(item => !existingItemIds.has(item.itemId));
   
-  if (toAdd.length === 0) return true;
+  if (toAdd.length === 0) return null;
   
   // Add new items
   siteLogData.items.push(...toAdd);
@@ -294,27 +305,14 @@ async function mergeItemsIntoBucket(
   siteLogData.metadata.itemCount = siteLogData.items.length;
   siteLogData.metadata.generatedAt = new Date().toISOString();
   
-  const content = JSON.stringify(siteLogData, null, 2);
-  const success = await writeToGitHubWithProvider(config, targetFile!, content, undefined);
-  if (success) {
-    // Mark newly added items with their source file path
-    for (const item of toAdd) {
-      item.source = targetFile!;
-    }
-    cacheLogFile(config, siteId, targetFile!, siteLogData);
-    pruneCachedLogFilesForSite(config, siteId);
-
-    // If the file is now fully read and not today's file, rename it to -allread
-    if (isFullyRead(siteLogData) && isFileFromEarlierDate(targetFile!)) {
-      try {
-        await renameToAllread(targetFile!, config);
-      } catch (e) {
-        console.error('Failed to rename to allread:', e);
-      }
-    }
+  // Mark newly added items with their source file path
+  for (const item of toAdd) {
+    item.source = targetFile!;
   }
   
-  return success;
+  const content = JSON.stringify(siteLogData, null, 2);
+  
+  return { path: targetFile!, content, siteLogData };
 }
 
 // ── Public API ─────────────────────────────────────────────────────
@@ -345,21 +343,42 @@ export async function commitAllFeedItems(
     }));
 
   try {
-    // Group items by their pubDate
     const buckets = groupByPubDate(logItems);
+    const siteFiles = await listSiteFiles(siteId, cfg);
     
-    let allSuccess = true;
+    const writes: Array<{ path: string; content: string }> = [];
+    const postCommitTasks: Array<() => Promise<void>> = [];
     
-    // Process buckets sequentially to avoid SHA race conditions on parallel writes
     for (const [dateStr, bucketItems] of buckets) {
-      const success = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg);
-      if (!success) {
-        console.error(`  Failed to commit ${bucketItems.length} items to ${dateStr}`);
-        allSuccess = false;
+      const result = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg, siteFiles);
+      if (result) {
+        writes.push({ path: result.path, content: result.content });
+        postCommitTasks.push(async () => {
+          cacheLogFile(cfg, siteId, result.path, result.siteLogData);
+          pruneCachedLogFilesForSite(cfg, siteId);
+          if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
+            try {
+              await renameToAllread(result.path, cfg);
+            } catch (e) {
+              console.error('Failed to rename to allread:', e);
+            }
+          }
+        });
       }
     }
     
-    return allSuccess;
+    if (writes.length === 0) return true;
+    
+    const changes = writes.map(w => ({ path: w.path, content: w.content, sha: null }));
+    const success = await createCommitWithProvider(cfg, `Update feed data for ${siteName}`, changes);
+    
+    if (success) {
+      for (const task of postCommitTasks) {
+        await task();
+      }
+    }
+    
+    return success;
   } catch (error) {
     console.error('Failed to commit feed items:', error);
     return false;
@@ -394,18 +413,41 @@ export async function commitReadStatus(
   try {
     // Group by pubDate
     const buckets = groupByPubDate(logItems);
+    const siteFiles = await listSiteFiles(siteId, cfg);
     
-    let allSuccess = true;
+    const writes: Array<{ path: string; content: string }> = [];
+    const postCommitTasks: Array<() => Promise<void>> = [];
     
     for (const [dateStr, bucketItems] of buckets) {
-      const success = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg);
-      if (!success) {
-        console.error(`  Failed to commit read status for ${bucketItems.length} items to ${dateStr}`);
-        allSuccess = false;
+      const result = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg, siteFiles);
+      if (result) {
+        writes.push({ path: result.path, content: result.content });
+        postCommitTasks.push(async () => {
+          cacheLogFile(cfg, siteId, result.path, result.siteLogData);
+          pruneCachedLogFilesForSite(cfg, siteId);
+          if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
+            try {
+              await renameToAllread(result.path, cfg);
+            } catch (e) {
+              console.error('Failed to rename to allread:', e);
+            }
+          }
+        });
       }
     }
     
-    return allSuccess;
+    if (writes.length === 0) return true;
+    
+    const changes = writes.map(w => ({ path: w.path, content: w.content, sha: null }));
+    const success = await createCommitWithProvider(cfg, `Update read status for ${siteName}`, changes);
+    
+    if (success) {
+      for (const task of postCommitTasks) {
+        await task();
+      }
+    }
+    
+    return success;
   } catch (error) {
     console.error('Failed to commit read status:', error);
     return false;
