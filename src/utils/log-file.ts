@@ -100,24 +100,6 @@ export function parseLogFilename(name: string): { dateStr: string; overflow: num
 // ── In-memory site file cache (avoids redundant reads within a commit session) ──
 const siteFileCache = new Map<string, Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>>();
 
-/**
- * Rename any fully-read earlier-date files in the site file cache.
- * Called after a successful commit once per-file tasks are done.
- */
-async function renameFullyReadCachedFiles(siteId: string, cfg: GitHubConfig): Promise<void> {
-  const cached = siteFileCache.get(siteId);
-  if (!cached) return;
-  for (const sf of cached) {
-    if (sf.data && isFullyRead(sf.data) && isFileFromEarlierDate(sf.filePath)) {
-      try {
-        await renameToAllread(sf.filePath, cfg);
-      } catch (e) {
-        console.error('Failed to rename to allread (post-commit scan):', e);
-      }
-    }
-  }
-}
-
 // ── Bucket Location ────────────────────────────────────────────────
 
 /**
@@ -393,12 +375,18 @@ export async function commitAllFeedItems(
     const siteFiles = await listSiteFiles(siteId, cfg);
     
     const writes: Array<{ path: string; content: string }> = [];
+    const renameDeletes: string[] = [];
     const postCommitTasks: Array<() => Promise<void>> = [];
     
     for (const [dateStr, bucketItems] of buckets) {
       const result = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg, siteFiles);
 if (result) {
         writes.push({ path: result.path, content: result.content });
+        if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
+          const rename = prepareRenameToAllread(result.path, result.siteLogData);
+          writes.push({ path: rename.write.path, content: rename.write.content });
+          renameDeletes.push(rename.deletePath);
+        }
         postCommitTasks.push(async () => {
           cacheLogFile(cfg, siteId, result.path, result.siteLogData);
           const cached = siteFileCache.get(siteId);
@@ -407,14 +395,21 @@ if (result) {
             if (entry) entry.data = result.siteLogData;
           }
           pruneCachedLogFilesForSite(cfg, siteId);
-          if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
-            try {
-              await renameToAllread(result.path, cfg);
-            } catch (e) {
-              console.error('Failed to rename to allread:', e);
-            }
-          }
         });
+      }
+    }
+
+    // Scan cache for any additional fully-read earlier-date files not covered above
+    const alreadyHandledPaths = new Set([...writes.map(w => w.path), ...renameDeletes]);
+    const cached = siteFileCache.get(siteId);
+    if (cached) {
+      for (const sf of cached) {
+        if (sf.data && isFullyRead(sf.data) && isFileFromEarlierDate(sf.filePath) && !alreadyHandledPaths.has(sf.filePath)) {
+          const rename = prepareRenameToAllread(sf.filePath, sf.data);
+          writes.push({ path: rename.write.path, content: rename.write.content });
+          renameDeletes.push(rename.deletePath);
+          alreadyHandledPaths.add(sf.filePath);
+        }
       }
     }
 
@@ -424,14 +419,13 @@ if (result) {
     }
 
     const changes = writes.map(w => ({ path: w.path, content: w.content, sha: null }));
-    console.log(`[commit] ${siteName}: ${writes.length} files to write via batch commit`);
-    const success = await createCommitWithProvider(cfg, `Update feed data for ${siteName}`, changes);
+    console.log(`[commit] ${siteName}: ${writes.length} files to write via batch commit, ${renameDeletes.length} deletes`);
+    const success = await createCommitWithProvider(cfg, `Update feed data for ${siteName}`, changes, renameDeletes);
     
     if (success) {
       for (const task of postCommitTasks) {
         await task();
       }
-      await renameFullyReadCachedFiles(siteId, cfg);
     }
     
     return success;
@@ -472,12 +466,18 @@ export async function commitReadStatus(
     const siteFiles = await listSiteFiles(siteId, cfg);
     
     const writes: Array<{ path: string; content: string }> = [];
+    const renameDeletes: string[] = [];
     const postCommitTasks: Array<() => Promise<void>> = [];
     
     for (const [dateStr, bucketItems] of buckets) {
       const result = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg, siteFiles);
       if (result) {
         writes.push({ path: result.path, content: result.content });
+        if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
+          const rename = prepareRenameToAllread(result.path, result.siteLogData);
+          writes.push({ path: rename.write.path, content: rename.write.content });
+          renameDeletes.push(rename.deletePath);
+        }
         postCommitTasks.push(async () => {
           cacheLogFile(cfg, siteId, result.path, result.siteLogData);
           const cached = siteFileCache.get(siteId);
@@ -486,27 +486,33 @@ export async function commitReadStatus(
             if (entry) entry.data = result.siteLogData;
           }
           pruneCachedLogFilesForSite(cfg, siteId);
-          if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
-            try {
-              await renameToAllread(result.path, cfg);
-            } catch (e) {
-              console.error('Failed to rename to allread:', e);
-            }
-          }
         });
       }
     }
     
+    // Scan cache for any additional fully-read earlier-date files not covered above
+    const alreadyHandledPaths = new Set([...writes.map(w => w.path), ...renameDeletes]);
+    const cachedFiles = siteFileCache.get(siteId);
+    if (cachedFiles) {
+      for (const sf of cachedFiles) {
+        if (sf.data && isFullyRead(sf.data) && isFileFromEarlierDate(sf.filePath) && !alreadyHandledPaths.has(sf.filePath)) {
+          const rename = prepareRenameToAllread(sf.filePath, sf.data);
+          writes.push({ path: rename.write.path, content: rename.write.content });
+          renameDeletes.push(rename.deletePath);
+          alreadyHandledPaths.add(sf.filePath);
+        }
+      }
+    }
+
 if (writes.length === 0) return true;
 
     const changes = writes.map(w => ({ path: w.path, content: w.content, sha: null }));
-    const success = await createCommitWithProvider(cfg, `Update read status for ${siteName}`, changes);
+    const success = await createCommitWithProvider(cfg, `Update read status for ${siteName}`, changes, renameDeletes);
 
     if (success) {
       for (const task of postCommitTasks) {
         await task();
       }
-      await renameFullyReadCachedFiles(siteId, cfg);
     }
 
     return success;
@@ -576,6 +582,20 @@ export async function readLog(siteId: string, date: Date = new Date()): Promise<
   }
 
   return data;
+}
+
+/**
+ * Prepare a rename to -allread without making API calls.
+ * Returns the write (new -allread file) and the old path to delete.
+ * Callers fold these into a batch createCommit call.
+ */
+export function prepareRenameToAllread(filePath: string, data: SiteLogData): { write: BucketWrite; deletePath: string } {
+  const allreadPath = filePath.replace('.json', '-allread.json');
+  const content = JSON.stringify(data, null, 2);
+  return {
+    write: { path: allreadPath, content, siteLogData: data },
+    deletePath: filePath
+  };
 }
 
 /**

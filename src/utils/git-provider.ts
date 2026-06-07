@@ -8,7 +8,7 @@ export interface GitProvider {
   deleteFile(path: string, message: string): Promise<boolean>;
   listDirectory(path: string): Promise<GitTreeItem[]>;
   getFileSha(path: string): Promise<string | null>;
-  createCommit(message: string, changes: GitFileChange[]): Promise<boolean>;
+  createCommit(message: string, changes: GitFileChange[], deletePaths?: string[]): Promise<boolean>;
 }
 
 export class GitHubProvider implements GitProvider {
@@ -104,21 +104,26 @@ export class GitHubProvider implements GitProvider {
     return data.sha || null;
   }
 
-  async createCommit(message: string, changes: GitFileChange[]): Promise<boolean> {
+  async createCommit(message: string, changes: GitFileChange[], deletePaths?: string[]): Promise<boolean> {
     if (!this.config.token) throw new Error('GitHub token is required for write operations');
     try {
       const headers = this.headers();
+      const deletes = deletePaths ?? [];
 
-      // 1. Create blobs for each file
-      const blobResponses = await Promise.all(
-        changes.map(change =>
-          fetch(`${this.baseUrl}/git/blobs`, {
-            method: 'POST', headers,
-            body: JSON.stringify({ content: utf8ToBase64(change.content), encoding: 'base64' })
-          }).then(r => r.json())
-        )
-      );
-      if (blobResponses.some((r: any) => !r.sha)) return false;
+      // 1. Create blobs for changed files (skip if only deletes)
+      const blobResponses: any[] = [];
+      if (changes.length > 0) {
+        const results = await Promise.all(
+          changes.map(change =>
+            fetch(`${this.baseUrl}/git/blobs`, {
+              method: 'POST', headers,
+              body: JSON.stringify({ content: utf8ToBase64(change.content), encoding: 'base64' })
+            }).then(r => r.json())
+          )
+        );
+        if (results.some((r: any) => !r.sha)) return false;
+        blobResponses.push(...results);
+      }
 
       // 2. Get current head commit tree SHA
       const refUrl = `${this.baseUrl}/git/refs/heads/${this.branch()}`;
@@ -132,9 +137,10 @@ export class GitHubProvider implements GitProvider {
       if (!treeResp.ok) return false;
       const currentTree = await treeResp.json();
 
-      // 4. Create new tree with updated files
+      // 4. Create new tree: filter out replaced and deleted paths, add changed files
+      const pathsToExclude = new Set([...changes.map(c => c.path), ...deletes]);
       const treeItems = [
-        ...currentTree.tree.filter((item: any) => !changes.some(c => c.path === item.path)),
+        ...currentTree.tree.filter((item: any) => !pathsToExclude.has(item.path)),
         ...changes.map((change, i) => ({
           path: change.path,
           mode: '100644' as const,

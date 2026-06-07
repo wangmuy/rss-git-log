@@ -408,10 +408,11 @@ export async function listDirectoryWithProvider(config: GitHubConfig, path: stri
 export async function createCommitWithProvider(
   config: GitHubConfig,
   message: string,
-  changes: Array<{ path: string; content: string; sha: string | null }>
+  changes: Array<{ path: string; content: string; sha: string | null }>,
+  deletePaths?: string[]
 ): Promise<boolean> {
   const provider = createGitProvider(config);
-  return provider.createCommit(message, changes as GitFileChange[]);
+  return provider.createCommit(message, changes as GitFileChange[], deletePaths);
 }
 
 export async function deleteFileWithProvider(config: GitHubConfig, path: string, message: string): Promise<boolean> {
