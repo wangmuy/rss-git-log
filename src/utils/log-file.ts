@@ -100,6 +100,24 @@ export function parseLogFilename(name: string): { dateStr: string; overflow: num
 // ── In-memory site file cache (avoids redundant reads within a commit session) ──
 const siteFileCache = new Map<string, Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>>();
 
+/**
+ * Rename any fully-read earlier-date files in the site file cache.
+ * Called after a successful commit once per-file tasks are done.
+ */
+async function renameFullyReadCachedFiles(siteId: string, cfg: GitHubConfig): Promise<void> {
+  const cached = siteFileCache.get(siteId);
+  if (!cached) return;
+  for (const sf of cached) {
+    if (sf.data && isFullyRead(sf.data) && isFileFromEarlierDate(sf.filePath)) {
+      try {
+        await renameToAllread(sf.filePath, cfg);
+      } catch (e) {
+        console.error('Failed to rename to allread (post-commit scan):', e);
+      }
+    }
+  }
+}
+
 // ── Bucket Location ────────────────────────────────────────────────
 
 /**
@@ -379,10 +397,15 @@ export async function commitAllFeedItems(
     
     for (const [dateStr, bucketItems] of buckets) {
       const result = await mergeItemsIntoBucket(siteId, siteName, dateStr, bucketItems, cfg, siteFiles);
-      if (result) {
+if (result) {
         writes.push({ path: result.path, content: result.content });
         postCommitTasks.push(async () => {
           cacheLogFile(cfg, siteId, result.path, result.siteLogData);
+          const cached = siteFileCache.get(siteId);
+          if (cached) {
+            const entry = cached.find(sf => sf.filePath === result.path);
+            if (entry) entry.data = result.siteLogData;
+          }
           pruneCachedLogFilesForSite(cfg, siteId);
           if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
             try {
@@ -394,12 +417,12 @@ export async function commitAllFeedItems(
         });
       }
     }
-    
-if (writes.length === 0) {
+
+    if (writes.length === 0) {
       console.log(`[commit] ${siteId}: nothing to write, skipping`);
       return true;
     }
-    
+
     const changes = writes.map(w => ({ path: w.path, content: w.content, sha: null }));
     console.log(`[commit] ${siteName}: ${writes.length} files to write via batch commit`);
     const success = await createCommitWithProvider(cfg, `Update feed data for ${siteName}`, changes);
@@ -408,6 +431,7 @@ if (writes.length === 0) {
       for (const task of postCommitTasks) {
         await task();
       }
+      await renameFullyReadCachedFiles(siteId, cfg);
     }
     
     return success;
@@ -456,6 +480,11 @@ export async function commitReadStatus(
         writes.push({ path: result.path, content: result.content });
         postCommitTasks.push(async () => {
           cacheLogFile(cfg, siteId, result.path, result.siteLogData);
+          const cached = siteFileCache.get(siteId);
+          if (cached) {
+            const entry = cached.find(sf => sf.filePath === result.path);
+            if (entry) entry.data = result.siteLogData;
+          }
           pruneCachedLogFilesForSite(cfg, siteId);
           if (isFullyRead(result.siteLogData) && isFileFromEarlierDate(result.path)) {
             try {
@@ -477,6 +506,7 @@ if (writes.length === 0) return true;
       for (const task of postCommitTasks) {
         await task();
       }
+      await renameFullyReadCachedFiles(siteId, cfg);
     }
 
     return success;
