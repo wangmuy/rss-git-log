@@ -112,7 +112,11 @@ async function listSiteFiles(
   cfg: GitHubConfig
 ): Promise<Array<{ filePath: string; data: SiteLogData | null; fileDate: string | null; overflow: number | null }>> {
   const cached = siteFileCache.get(siteId);
-  if (cached) return cached;
+  if (cached) {
+    console.log(`[commit-cache] listSiteFiles HIT for ${siteId} (${cached.length} files)`);
+    return cached;
+  }
+  console.log(`[commit-cache] listSiteFiles MISS for ${siteId}`);
   
   const siteDir = getSiteLogDir(siteId);
   const files = await listDirectoryWithProvider(cfg, siteDir);
@@ -149,6 +153,7 @@ async function listSiteFiles(
     });
   }
   
+  console.log(`[commit-cache] listSiteFiles CACHE ${siteId} (${results.length} files)`);
   siteFileCache.set(siteId, results);
   return results;
 }
@@ -352,6 +357,7 @@ export async function commitAllFeedItems(
 
   try {
     const buckets = groupByPubDate(logItems);
+    console.log(`[commit] ${siteId}: ${logItems.length} items, ${buckets.size} buckets`);
     const siteFiles = await listSiteFiles(siteId, cfg);
     
     const writes: Array<{ path: string; content: string }> = [];
@@ -375,9 +381,13 @@ export async function commitAllFeedItems(
       }
     }
     
-    if (writes.length === 0) return true;
+if (writes.length === 0) {
+      console.log(`[commit] ${siteId}: nothing to write, skipping`);
+      return true;
+    }
     
     const changes = writes.map(w => ({ path: w.path, content: w.content, sha: null }));
+    console.log(`[commit] ${siteName}: ${writes.length} files to write via batch commit`);
     const success = await createCommitWithProvider(cfg, `Update feed data for ${siteName}`, changes);
     
     if (success) {
