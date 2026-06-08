@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-03",
     "newestItemDate": "2026-06-03",
-    "itemCount": 5,
-    "generatedAt": "2026-06-08T12:42:58.456Z"
+    "itemCount": 6,
+    "generatedAt": "2026-06-08T18:38:46.842Z"
   },
   "items": [
     {
@@ -36,6 +36,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFzb25kYXZpZXMuY29tJTJGbWFwcyUyRnZvcm9ub2klMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5qYXNvbmRhdmllcy5jb20lMkZtYXBzJTJGdm9yb25vaSUyRiU3Q1NwaGVyaWNhbCUyMFZvcm9ub2klMjBEaWFncmFtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDgzODU0NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMyUyMEp1biUyMDIwMjYlMjAxNSUzQTMyJTNBMTIlMjAlMkIwMDAw",
       "title": "Spherical Voronoi Diagram",
       "pubDate": "Wed, 03 Jun 2026 15:32:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcy1zeWQuZXUlMkZwb3N0cyUyRjIwMjYtMDYtMDMtbXV0YXRpb24tdGVzdGluZy1pbi1oYXNrZWxsJTdDaHR0cHMlM0ElMkYlMkZjcy1zeWQuZXUlMkZwb3N0cyUyRjIwMjYtMDYtMDMtbXV0YXRpb24tdGVzdGluZy1pbi1oYXNrZWxsJTdDTXV0YXRpb24lMjBUZXN0aW5nJTIwaW4lMjBIYXNrZWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDgzODQ2MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMyUyMEp1biUyMDIwMjYlMjAxNCUzQTI5JTNBMDIlMjAlMkIwMDAw",
+      "title": "Mutation Testing in Haskell",
+      "pubDate": "Wed, 03 Jun 2026 14:29:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
     }
   ]

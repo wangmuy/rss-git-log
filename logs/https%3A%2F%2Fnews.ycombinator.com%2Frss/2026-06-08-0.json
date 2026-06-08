@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 20,
-    "generatedAt": "2026-06-08T12:42:58.456Z"
+    "itemCount": 41,
+    "generatedAt": "2026-06-08T18:38:46.842Z"
   },
   "items": [
     {
@@ -126,6 +126,132 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmMxNHl6NWpnNDc2byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjMTR5ejVqZzQ3Nm8lN0NSaWNoYXJkJTIwU2NvbHllciUyMEhhcyUyMERpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0MTI0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDA0JTNBMTAlM0EwOCUyMCUyQjAwMDA",
       "title": "Richard Scolyer Has Died",
       "pubDate": "Mon, 08 Jun 2026 04:10:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGYXBwbGUtaW50ZWxsaWdlbmNlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGYXBwbGUtaW50ZWxsaWdlbmNlJTJGJTdDU2lyaSUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDkwODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxOCUzQTE3JTNBNTMlMjAlMkIwMDAw",
+      "title": "Siri AI",
+      "pubDate": "Mon, 08 Jun 2026 18:17:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaXJhYmVuLmdpdGh1Yi5pbyUyRnRpODRwLXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZzaXJhYmVuLmdpdGh1Yi5pbyUyRnRpODRwLXJlJTJGJTdDRnVsbCUyMFJldmVyc2UlMjBFbmdpbmVlcmluZyUyMG9mJTIwdGhlJTIwVEktODQlMjBQbHVzJTIwT3BlcmF0aW5nJTIwU3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDg0OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNyUzQTQxJTNBMzMlMjAlMkIwMDAw",
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "pubDate": "Mon, 08 Jun 2026 17:41:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVmb2dnaWVzdC5kZXYlMkYyMDI2JTJGMDYlMkYwNCUyRnRodW5kZXJiaXJkLWxpdHRlcmluZy1teS1ob21lJTdDaHR0cHMlM0ElMkYlMkZ0aGVmb2dnaWVzdC5kZXYlMkYyMDI2JTJGMDYlMkYwNCUyRnRodW5kZXJiaXJkLWxpdHRlcmluZy1teS1ob21lJTdDVGh1bmRlcmJpcmQlMjBMaXR0ZXJpbmclMjBNeSUyMEhvbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0ODM1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE3JTNBMzElM0EzNCUyMCUyQjAwMDA",
+      "title": "Thunderbird Littering My Home",
+      "pubDate": "Mon, 08 Jun 2026 17:31:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGYXBwbGUtZXZlbnRzJTJGZXZlbnQtc3RyZWFtJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGYXBwbGUtZXZlbnRzJTJGZXZlbnQtc3RyZWFtJTJGJTdDQXBwbGUlMjBXV0RDJTIwMjAyNiUyMExpdmVzdHJlYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0ODEwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE3JTNBMTQlM0EyNCUyMCUyQjAwMDA",
+      "title": "Apple WWDC 2026 Livestream",
+      "pubDate": "Mon, 08 Jun 2026 17:14:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNiUyRjA4JTJGbWFzc2FjaHVzZXR0cy12b3Rlcy10by1wYXNzLW5ldy1wcml2YWN5LXJpZ2h0cy1iaWxsLXRoYXQtYmFucy1zYWxlLW9mLXByZWNpc2UtbG9jYXRpb24tZGF0YSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDYlMkYwOCUyRm1hc3NhY2h1c2V0dHMtdm90ZXMtdG8tcGFzcy1uZXctcHJpdmFjeS1yaWdodHMtYmlsbC10aGF0LWJhbnMtc2FsZS1vZi1wcmVjaXNlLWxvY2F0aW9uLWRhdGElMkYlN0NNYXNzYWNodXNldHRzJTIwYmFucyUyMHNhbGUlMjBvZiUyMHByZWNpc2UlMjBsb2NhdGlvbiUyMGRhdGElMjBpbiUyMG5ldyUyMHByaXZhY3klMjByaWdodHMlMjBiaWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDgwMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNyUzQTA3JTNBMzMlMjAlMkIwMDAw",
+      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "pubDate": "Mon, 08 Jun 2026 17:07:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3d0ZWNoZ3V5cy5jb20lMkZtdXNpY2RlY295JTJGJTdDaHR0cHMlM0ElMkYlMkZsb3d0ZWNoZ3V5cy5jb20lMkZtdXNpY2RlY295JTJGJTdDU3RvcCUyMHRoZSUyMEFwcGxlJTIwTXVzaWMlMjBhcHAlMjBmcm9tJTIwbGF1bmNoaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDc5MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNyUzQTAxJTNBNDMlMjAlMkIwMDAw",
+      "title": "Stop the Apple Music app from launching",
+      "pubDate": "Mon, 08 Jun 2026 17:01:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZm9vZHdhdGNoLm9yZyUyRmVuJTJGZXUtYmFubmVkLXBlc3RpY2lkZXMtZm91bmQtaW4tcmljZS10ZWEtYW5kLXNwaWNlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZvb2R3YXRjaC5vcmclMkZlbiUyRmV1LWJhbm5lZC1wZXN0aWNpZGVzLWZvdW5kLWluLXJpY2UtdGVhLWFuZC1zcGljZXMlN0NFVS1iYW5uZWQlMjBwZXN0aWNpZGVzJTIwZm91bmQlMjBpbiUyMHJpY2UlMkMlMjB0ZWElMjBhbmQlMjBzcGljZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NzA2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE1JTNBNTklM0EwNCUyMCUyQjAwMDA",
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "pubDate": "Mon, 08 Jun 2026 15:59:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMTc4MC02JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMTc4MC02JTdDV2h5JTIwYXJlJTIwc28lMjBtYW55JTIweW91bmclMjBwZW9wbGUlMjBnZXR0aW5nJTIwY2FuY2VyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDY5MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNSUzQTQ4JTNBMDAlMjAlMkIwMDAw",
+      "title": "Why are so many young people getting cancer?",
+      "pubDate": "Mon, 08 Jun 2026 15:48:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2hlcmVzeW91cmVkLmF0JTJGYWktaXMtc2xvd2luZy1kb3duJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2hlcmVzeW91cmVkLmF0JTJGYWktaXMtc2xvd2luZy1kb3duJTJGJTdDQUklMjBJcyUyMFNsb3dpbmclMjBEb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDY4OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNSUzQTQ2JTNBMzclMjAlMkIwMDAw",
+      "title": "AI Is Slowing Down",
+      "pubDate": "Mon, 08 Jun 2026 15:46:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW1vLnhpYW9taS5jb20lMkZibG9nJTJGbWltby10aWxlcnQtMTAwMHRwcyU3Q2h0dHBzJTNBJTJGJTJGbWltby54aWFvbWkuY29tJTJGYmxvZyUyRm1pbW8tdGlsZXJ0LTEwMDB0cHMlN0NNaU1vLXYyLjUtUHJvLVVsdHJhU3BlZWQlM0ElMjAxVCUyMG1vZGVsJTIwd2l0aCUyMDEwMDAlMjB0b2tlbnMlMjBwZXIlMjBzZWNvbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NjYzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE1JTNBMjclM0EzMyUyMCUyQjAwMDA",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "pubDate": "Mon, 08 Jun 2026 15:27:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbGQucmVkZGl0LmNvbSUyRnIlMkZkaWdpdGFsbWluaW1hbGlzbSUyRmNvbW1lbnRzJTJGMXRlczh5dSUyRmlfcmVwbGFjZWRfc3BvdGlmeV93aXRoX2FfaG9tZW1hZGVfZm1fcmFkaW8lMkYlN0NodHRwcyUzQSUyRiUyRm9sZC5yZWRkaXQuY29tJTJGciUyRmRpZ2l0YWxtaW5pbWFsaXNtJTJGY29tbWVudHMlMkYxdGVzOHl1JTJGaV9yZXBsYWNlZF9zcG90aWZ5X3dpdGhfYV9ob21lbWFkZV9mbV9yYWRpbyUyRiU3Q0klMjByZXBsYWNlZCUyMFNwb3RpZnklMjB3aXRoJTIwYSUyMGhvbWVtYWRlJTIwRk0lMjByYWRpbyUyMHN0YXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NjYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE1JTNBMjUlM0E0MCUyMCUyQjAwMDA",
+      "title": "I replaced Spotify with a homemade FM radio station",
+      "pubDate": "Mon, 08 Jun 2026 15:25:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZhLWZhcm1lci1kb25hdGVkLWxhbmQtdG8tdHVybi1pbnRvLWEtcGFyay10aGUtY2l0eS1pcy1idWlsZGluZy1hLW1hc3NpdmUtZGF0YS1jZW50ZXItaW5zdGVhZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LjQwNG1lZGlhLmNvJTJGYS1mYXJtZXItZG9uYXRlZC1sYW5kLXRvLXR1cm4taW50by1hLXBhcmstdGhlLWNpdHktaXMtYnVpbGRpbmctYS1tYXNzaXZlLWRhdGEtY2VudGVyLWluc3RlYWQlMkYlN0NBJTIwRmFybWVyJTIwRG9uYXRlZCUyMExhbmQlMjB0byUyMFR1cm4lMjBpbnRvJTIwYSUyMFBhcmsuJTIwVGhlJTIwQ2l0eSUyMElzJTIwQnVpbGRpbmclMjBhJTIwRGF0YSUyMENlbnRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ2NDM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTUlM0ExNCUzQTI5JTIwJTJCMDAwMA",
+      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
+      "pubDate": "Mon, 08 Jun 2026 15:14:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5hbGRlcnNvbi5jb20lMkZwb3N0cyUyRnhhaXMtbmV3LXJlbnRhbC1idXNpbmVzcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFydGluYWxkZXJzb24uY29tJTJGcG9zdHMlMkZ4YWlzLW5ldy1yZW50YWwtYnVzaW5lc3MlMkYlN0N4QUklMjBpcyUyMGxvb2tpbmclMjBtb3JlJTIwbGlrZSUyMGElMjBkYXRhY2VudHJlJTIwUkVJVCUyMHRoYW4lMjBhJTIwZnJvbnRpZXIlMjBsYWIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NjQyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE1JTNBMTMlM0E0MyUyMCUyQjAwMDA",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "pubDate": "Mon, 08 Jun 2026 15:13:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZsZWdhbCUyRnRyYW5zYWN0aW9uYWwlMkZpdGFseXMtYmVuZGluZy1zcG9vbnMtZmlsZXMtdXMtaXBvLTIwMjYtMDYtMDglMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRmxlZ2FsJTJGdHJhbnNhY3Rpb25hbCUyRml0YWx5cy1iZW5kaW5nLXNwb29ucy1maWxlcy11cy1pcG8tMjAyNi0wNi0wOCUyRiU3Q0l0YWx5J3MlMjBCZW5kaW5nJTIwU3Bvb25zJTJDJTIwT3duZXIlMjBvZiUyMEFPTCUyMGFuZCUyMFZpbWVvJTJDJTIwRmlsZXMlMjBmb3IlMjBOYXNkYXElMjBJUE8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NjMxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE1JTNBMDQlM0ExNyUyMCUyQjAwMDA",
+      "title": "Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO",
+      "pubDate": "Mon, 08 Jun 2026 15:04:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2b3JwdXMuZ2l0aHViLmlvJTJGcGVyZm9ybWF0aXZlVUklMkYlN0NodHRwcyUzQSUyRiUyRnZvcnB1cy5naXRodWIuaW8lMkZwZXJmb3JtYXRpdmVVSSUyRiU3Q1Nob3clMjBITiUzQSUyMFBlcmZvcm1hdGl2ZS1VSSUyMCVFMiU4MCU5MyUyMGElMjByZWFjdCUyMGNvbXBvbmVudCUyMGxpYnJhcnklMjBvZiUyMGRlc2lnbiUyMHRyb3BlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ1NTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTQlM0EwNSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "pubDate": "Mon, 08 Jun 2026 14:05:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnR1bmVkaHEuY29tJTdDaHR0cHMlM0ElMkYlMkZpbnR1bmVkaHEuY29tJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBJbnR1bmVkJTIwKFlDJTIwUzIyKSUyMCVFMiU4MCU5MyUyMEJ1aWxkJTIwYW5kJTIwcnVuJTIwcmVsaWFibGUlMjBicm93c2VyJTIwYXV0b21hdGlvbnMlMjBhcyUyMGNvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NTE3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDEzJTNBMzUlM0EyNyUyMCUyQjAwMDA",
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "pubDate": "Mon, 08 Jun 2026 13:35:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYm9yaW5nY29sbGVnZSUyRnppZy1ieS1leGFtcGxlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYm9yaW5nY29sbGVnZSUyRnppZy1ieS1leGFtcGxlJTdDWmlnJTIwYnklMjBFeGFtcGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDQ4NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxMyUzQTA2JTNBMTklMjAlMkIwMDAw",
+      "title": "Zig by Example",
+      "pubDate": "Mon, 08 Jun 2026 13:06:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYW5kc29uLm1vbmV5JTJGYmxvZyUyRjIwMjYtMDYtMDYtaG9yc2UtYXJzZS1hbmQtZGVzaWduJTJGJTdDaHR0cHMlM0ElMkYlMkZoYW5kc29uLm1vbmV5JTJGYmxvZyUyRjIwMjYtMDYtMDYtaG9yc2UtYXJzZS1hbmQtZGVzaWduJTJGJTdDU3BhbmlzaCUyMHRyYWRlcnMlMjBzZXQlMjB0aGUlMjBzdGFuZGFyZCUyMGZvciUyMEdudUNhc2glMjBkYXRhYmFzZSUyMGRlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ0Nzg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTIlM0E1NyUzQTU0JTIwJTJCMDAwMA",
+      "title": "Spanish traders set the standard for GnuCash database design",
+      "pubDate": "Mon, 08 Jun 2026 12:57:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZweXJlZmx5Lm9yZyUyRmJsb2clMkZ0b28tbWFueS10eXBlLWNoZWNrZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZweXJlZmx5Lm9yZyUyRmJsb2clMkZ0b28tbWFueS10eXBlLWNoZWNrZXJzJTJGJTdDQXJlJTIweW91JTIwZXhwZWN0ZWQlMjB0byUyMHJ1biUyMGZpdmUlMjBQeXRob24lMjB0eXBlLWNoZWNrZXJzJTIwbm93JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDQ0NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxMiUzQTI0JTNBMTAlMjAlMkIwMDAw",
+      "title": "Are you expected to run five Python type-checkers now?",
+      "pubDate": "Mon, 08 Jun 2026 12:24:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRndvcmtsaWZlJTJGYXJ0aWNsZSUyRjIwMjYwNTIwLWhvdy1zb2NpYWwtbWVkaWEtY2Vhc2VkLXRvLWJlLXNvY2lhbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZ3b3JrbGlmZSUyRmFydGljbGUlMkYyMDI2MDUyMC1ob3ctc29jaWFsLW1lZGlhLWNlYXNlZC10by1iZS1zb2NpYWwlN0NBbnRpLXNvY2lhbCUzQSUyMEl0J3MlMjBmYWRzJTJDJTIwbm90JTIwZnJpZW5kcyUyQyUyMHdoaWNoJTIwbm93JTIwZG9taW5hdGUlMjBzb2NpYWwlMjBtZWRpYSUyMGZlZWRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDQyMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxMSUzQTU4JTNBMDIlMjAlMkIwMDAw",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "pubDate": "Mon, 08 Jun 2026 11:58:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodW1hbi1pbi10aGUtbG9vcC5iZWFyYmxvZy5kZXYlMkZyZXBsaWVzLXRvLWNvbW1lbnRzLW9uLW15LWxsbXMtYXJlLWVyb2RpbmctbXktY2FyZWVyLXBvc3QlMkYlN0NodHRwcyUzQSUyRiUyRmh1bWFuLWluLXRoZS1sb29wLmJlYXJibG9nLmRldiUyRnJlcGxpZXMtdG8tY29tbWVudHMtb24tbXktbGxtcy1hcmUtZXJvZGluZy1teS1jYXJlZXItcG9zdCUyRiU3Q1JlcGxpZXMlMjB0byUyMGNvbW1lbnRzJTIwb24lMjBteSUyMCUyMkxMTXMlMjBhcmUlMjBlcm9kaW5nJTIwbXklMjBjYXJlZXIlMjIlMjBwb3N0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDMyNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAwOSUzQTUyJTNBMDMlMjAlMkIwMDAw",
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "pubDate": "Mon, 08 Jun 2026 09:52:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]

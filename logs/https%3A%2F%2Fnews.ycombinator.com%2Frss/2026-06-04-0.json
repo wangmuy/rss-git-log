@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-04",
     "newestItemDate": "2026-06-04",
-    "itemCount": 11,
-    "generatedAt": "2026-06-08T12:42:58.456Z"
+    "itemCount": 13,
+    "generatedAt": "2026-06-08T18:38:46.842Z"
   },
   "items": [
     {
@@ -72,6 +72,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZWFzaG9obWFubi5jb20lMkZ6aWctc3RydWN0LW9mLWFycmF5cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5kcmVhc2hvaG1hbm4uY29tJTJGemlnLXN0cnVjdC1vZi1hcnJheXMlMkYlN0NaaWclMjBTdHJ1Y3RzJTIwb2YlMjBBcnJheXMlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM5NDc5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA0JTIwSnVuJTIwMjAyNiUyMDA2JTNBMjglM0EzNiUyMCUyQjAwMDA",
       "title": "Zig Structs of Arrays (2024)",
       "pubDate": "Thu, 04 Jun 2026 06:28:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvY2FtbHByby5jb20lMkZibG9nJTJGMjAyNV8wN18yOV9vY2FtbF9vbmJvYXJkaW5nX2ludHJvZHVjdGlvbl90b19kdW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZvY2FtbHByby5jb20lMkZibG9nJTJGMjAyNV8wN18yOV9vY2FtbF9vbmJvYXJkaW5nX2ludHJvZHVjdGlvbl90b19kdW5lJTJGJTdDT0NhbWwlMjBPbmJvYXJkaW5nJTNBJTIwSW50cm9kdWN0aW9uJTIwdG8lMjB0aGUlMjBEdW5lJTIwYnVpbGQlMjBzeXN0ZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQwMjEzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA0JTIwSnVuJTIwMjAyNiUyMDE3JTNBNTIlM0EyOSUyMCUyQjAwMDA",
+      "title": "OCaml Onboarding: Introduction to the Dune build system",
+      "pubDate": "Thu, 04 Jun 2026 17:52:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGZ29vZC10eXBlLWFnYWluc3QtYWxsLW9kZHMlMkYlN0NodHRwcyUzQSUyRiUyRnVuc3VuZy5hcmVzbHVuYS5vcmclMkZnb29kLXR5cGUtYWdhaW5zdC1hbGwtb2RkcyUyRiU3Q0dvb2QlMjB0eXBlJTIwYWdhaW5zdCUyMGFsbCUyMG9kZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM5OTA2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA0JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjAlM0E1OSUyMCUyQjAwMDA",
+      "title": "Good type against all odds",
+      "pubDate": "Thu, 04 Jun 2026 14:20:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
     }
   ]
