@@ -4,14 +4,32 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-03",
     "newestItemDate": "2026-06-03",
-    "itemCount": 1,
-    "generatedAt": "2026-06-07T10:37:47.694Z"
+    "itemCount": 4,
+    "generatedAt": "2026-06-08T05:05:55.810Z"
   },
   "items": [
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZrcmlzdG9mZi5pdCUyRmJsb2clMkZub3J0aC1zdGFyJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmlzdG9mZi5pdCUyRmJsb2clMkZub3J0aC1zdGFyJTJGJTdDTXklMjBTb2Z0d2FyZSUyME5vcnRoJTIwU3RhciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Mzg5MzY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDMlMjBKdW4lMjAyMDI2JTIwMjAlM0ExNiUzQTA3JTIwJTJCMDAwMA",
       "title": "My Software North Star",
       "pubDate": "Wed, 03 Jun 2026 20:16:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9kZXBvbmQuY29tJTJGbGFiJTJGc3BsYXNoJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9kZXBvbmQuY29tJTJGbGFiJTJGc3BsYXNoJTJGJTdDU3BsYXNoJTIwSXMlMjBhJTIwQ29sb3VyJTIwRm9ybWF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDgzOTAyNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMyUyMEp1biUyMDIwMjYlMjAyMSUzQTIyJTNBMjMlMjAlMkIwMDAw",
+      "title": "Splash Is a Colour Format",
+      "pubDate": "Wed, 03 Jun 2026 21:22:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9zdWdnZXN0LmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vc3VnZ2VzdC5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBOb1N1Z2dlc3QlMjAlRTIlODAlOTMlMjBXYXRjaCUyMFlvdVR1YmUlMjB3aXRob3V0JTIwdGhlJTIwcmVjb21tZW5kYXRpb24lMjBhbGdvcml0aG0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM5MDE3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAzJTIwSnVuJTIwMjAyNiUyMDIxJTNBMTQlM0EzNiUyMCUyQjAwMDA",
+      "title": "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
+      "pubDate": "Wed, 03 Jun 2026 21:14:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnlkYi50ZWNoJTJGZG8td2UtZmVhci10aGUtc2VyaWFsaXphYmxlLWlzb2xhdGlvbi1sZXZlbC1tb3JlLXRoYW4td2UtZmVhci1zdWJ0bGUtYnVncy01YTAyNTQwMWI2MDklN0NodHRwcyUzQSUyRiUyRmJsb2cueWRiLnRlY2glMkZkby13ZS1mZWFyLXRoZS1zZXJpYWxpemFibGUtaXNvbGF0aW9uLWxldmVsLW1vcmUtdGhhbi13ZS1mZWFyLXN1YnRsZS1idWdzLTVhMDI1NDAxYjYwOSU3Q0RvJTIwd2UlMjBmZWFyJTIwdGhlJTIwc2VyaWFsaXphYmxlJTIwaXNvbGF0aW9uJTIwbGV2ZWwlMjBtb3JlJTIwdGhhbiUyMHdlJTIwZmVhciUyMHN1YnRsZSUyMGJ1Z3MlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM4NDUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAzJTIwSnVuJTIwMjAyNiUyMDE0JTNBMjElM0ExOSUyMCUyQjAwMDA",
+      "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
+      "pubDate": "Wed, 03 Jun 2026 14:21:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
     }
   ]

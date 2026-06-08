@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-05",
     "newestItemDate": "2026-06-05",
-    "itemCount": 7,
-    "generatedAt": "2026-06-07T17:42:38.117Z"
+    "itemCount": 10,
+    "generatedAt": "2026-06-08T05:05:55.810Z"
   },
   "items": [
     {
@@ -48,6 +48,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnNhZmlhLnJvY2tzJTJGMjAyNSUyRjEyJTJGMjIlMkZhbnNpLWNvZGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnNhZmlhLnJvY2tzJTJGMjAyNSUyRjEyJTJGMjIlMkZhbnNpLWNvZGVzJTJGJTdDVGhlcmUncyUyMG5vJTIwZXNjYXBpbmclMjBpdCUzQSUyMGFuJTIwZXhwbG9yYXRpb24lMjBvZiUyMEFOU0klMjBjb2RlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDA4OTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDUlMjBKdW4lMjAyMDI2JTIwMDclM0EwMiUzQTE0JTIwJTJCMDAwMA",
       "title": "There's no escaping it: an exploration of ANSI codes",
       "pubDate": "Fri, 05 Jun 2026 07:02:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFya3VzaGVpbWVybCUyRmdwdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1hcmt1c2hlaW1lcmwlMkZncHQlN0NUaW55JTIwaGFja2FibGUlMjBDVURBJTIwbGFuZ3VhZ2UlMjBtb2RlbCUyMGltcGxlbWVudGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0MTU4MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNSUyMEp1biUyMDIwMjYlMjAxNyUzQTQxJTNBNTglMjAlMkIwMDAw",
+      "title": "Tiny hackable CUDA language model implementation",
+      "pubDate": "Fri, 05 Jun 2026 17:41:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bml4LnN0YWNrZXhjaGFuZ2UuY29tJTJGcXVlc3Rpb25zJTJGMTgxNTQlMkZ3aGF0LWlzLXRoZS1wdXJwb3NlLW9mLXRoZS1sb3N0Zm91bmQtZm9sZGVyLWluLWxpbnV4LWFuZC11bml4JTdDaHR0cHMlM0ElMkYlMkZ1bml4LnN0YWNrZXhjaGFuZ2UuY29tJTJGcXVlc3Rpb25zJTJGMTgxNTQlMkZ3aGF0LWlzLXRoZS1wdXJwb3NlLW9mLXRoZS1sb3N0Zm91bmQtZm9sZGVyLWluLWxpbnV4LWFuZC11bml4JTdDV2hhdCUyMGlzJTIwdGhlJTIwcHVycG9zZSUyMG9mJTIwdGhlJTIwbG9zdCUyQmZvdW5kJTIwZm9sZGVyJTIwaW4lMjBMaW51eCUyMGFuZCUyMFVuaXglM0YlMjAoMjAxNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQwOTQ3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA1JTIwSnVuJTIwMjAyNiUyMDA4JTNBMDglM0EzMyUyMCUyQjAwMDA",
+      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "pubDate": "Fri, 05 Jun 2026 08:08:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWJzdXJkbHlvcHRpbWl6ZWQuY29tJTJGcmVjaXBlcyUyRnBhbmNha2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWJzdXJkbHlvcHRpbWl6ZWQuY29tJTJGcmVjaXBlcyUyRnBhbmNha2VzJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSUyMERlcml2ZWQlMjBhJTIwUGFuY2FrZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDA4ODU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDUlMjBKdW4lMjAyMDI2JTIwMDYlM0E0MiUzQTQyJTIwJTJCMDAwMA",
+      "title": "Show HN: I Derived a Pancake",
+      "pubDate": "Fri, 05 Jun 2026 06:42:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
     }
   ]

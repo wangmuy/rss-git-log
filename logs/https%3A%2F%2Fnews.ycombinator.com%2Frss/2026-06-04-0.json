@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-04",
     "newestItemDate": "2026-06-04",
-    "itemCount": 8,
-    "generatedAt": "2026-06-07T17:42:38.117Z"
+    "itemCount": 10,
+    "generatedAt": "2026-06-08T05:05:55.810Z"
   },
   "items": [
     {
@@ -54,6 +54,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVhbXBob3VyLmNvbSUyRjcyNS10aGUtc2VjcmV0LWxpZmUtb2YtY2lyY3VpdHMtd2l0aC1sY2FtdHVmLW1pY2hhbC16YWxld3NraSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlYW1waG91ci5jb20lMkY3MjUtdGhlLXNlY3JldC1saWZlLW9mLWNpcmN1aXRzLXdpdGgtbGNhbXR1Zi1taWNoYWwtemFsZXdza2klMkYlN0NUaGUlMjBTZWNyZXQlMjBMaWZlJTIwb2YlMjBDaXJjdWl0cyUyMHdpdGglMjBsY2FtdHVmJTIwJTJGJTIwTWljaGElQzUlODIlMjBaYWxld3NraSUyMChBdWRpbyUyMEludGVydmlldyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM5ODcwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA0JTIwSnVuJTIwMjAyNiUyMDEzJTNBNTUlM0EzOSUyMCUyQjAwMDA",
       "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
       "pubDate": "Thu, 04 Jun 2026 13:55:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncm91cHMuY3NhaWwubWl0LmVkdSUyRm1lZGclMkZwZW9wbGUlMkZwc3olMkZMaWNrbGlkZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZ3JvdXBzLmNzYWlsLm1pdC5lZHUlMkZtZWRnJTJGcGVvcGxlJTJGcHN6JTJGTGlja2xpZGVyLmh0bWwlN0NNYW4tQ29tcHV0ZXIlMjBTeW1iaW9zaXMlMjBKLiUyMEMuJTIwUi4lMjBMaWNrbGlkZXIlMjAoMTk2MCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQwNTg5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA0JTIwSnVuJTIwMjAyNiUyMDIzJTNBMDclM0EzOSUyMCUyQjAwMDA",
+      "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)",
+      "pubDate": "Thu, 04 Jun 2026 23:07:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDYwMy0wMCUyRiUzRnAlM0QxMTIzNzglN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwNjAzLTAwJTJGJTNGcCUzRDExMjM3OCU3Q0ElMjBkaXNjb3ZlcnklMjBhYm91dCUyMEdDQydzJTIwdW5pZGlyZWN0aW9uYWwlMjByb3RhdGlvbiUyMGFsZ29yaXRobSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Mzk0NTg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDQlMjBKdW4lMjAyMDI2JTIwMDUlM0E1OSUzQTIyJTIwJTJCMDAwMA",
+      "title": "A discovery about GCC's unidirectional rotation algorithm",
+      "pubDate": "Thu, 04 Jun 2026 05:59:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
     }
   ]
