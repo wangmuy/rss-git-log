@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-03",
     "newestItemDate": "2026-06-03",
-    "itemCount": 4,
-    "generatedAt": "2026-06-08T05:05:55.810Z"
+    "itemCount": 5,
+    "generatedAt": "2026-06-08T12:42:58.456Z"
   },
   "items": [
     {
@@ -30,6 +30,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnlkYi50ZWNoJTJGZG8td2UtZmVhci10aGUtc2VyaWFsaXphYmxlLWlzb2xhdGlvbi1sZXZlbC1tb3JlLXRoYW4td2UtZmVhci1zdWJ0bGUtYnVncy01YTAyNTQwMWI2MDklN0NodHRwcyUzQSUyRiUyRmJsb2cueWRiLnRlY2glMkZkby13ZS1mZWFyLXRoZS1zZXJpYWxpemFibGUtaXNvbGF0aW9uLWxldmVsLW1vcmUtdGhhbi13ZS1mZWFyLXN1YnRsZS1idWdzLTVhMDI1NDAxYjYwOSU3Q0RvJTIwd2UlMjBmZWFyJTIwdGhlJTIwc2VyaWFsaXphYmxlJTIwaXNvbGF0aW9uJTIwbGV2ZWwlMjBtb3JlJTIwdGhhbiUyMHdlJTIwZmVhciUyMHN1YnRsZSUyMGJ1Z3MlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM4NDUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAzJTIwSnVuJTIwMjAyNiUyMDE0JTNBMjElM0ExOSUyMCUyQjAwMDA",
       "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
       "pubDate": "Wed, 03 Jun 2026 14:21:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFzb25kYXZpZXMuY29tJTJGbWFwcyUyRnZvcm9ub2klMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5qYXNvbmRhdmllcy5jb20lMkZtYXBzJTJGdm9yb25vaSUyRiU3Q1NwaGVyaWNhbCUyMFZvcm9ub2klMjBEaWFncmFtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDgzODU0NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMyUyMEp1biUyMDIwMjYlMjAxNSUzQTMyJTNBMTIlMjAlMkIwMDAw",
+      "title": "Spherical Voronoi Diagram",
+      "pubDate": "Wed, 03 Jun 2026 15:32:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-03-0.json"
     }
   ]

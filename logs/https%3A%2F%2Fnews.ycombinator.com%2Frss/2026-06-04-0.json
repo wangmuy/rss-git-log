@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-04",
     "newestItemDate": "2026-06-04",
-    "itemCount": 10,
-    "generatedAt": "2026-06-08T05:05:55.810Z"
+    "itemCount": 11,
+    "generatedAt": "2026-06-08T12:42:58.456Z"
   },
   "items": [
     {
@@ -66,6 +66,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDYwMy0wMCUyRiUzRnAlM0QxMTIzNzglN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwNjAzLTAwJTJGJTNGcCUzRDExMjM3OCU3Q0ElMjBkaXNjb3ZlcnklMjBhYm91dCUyMEdDQydzJTIwdW5pZGlyZWN0aW9uYWwlMjByb3RhdGlvbiUyMGFsZ29yaXRobSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Mzk0NTg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDQlMjBKdW4lMjAyMDI2JTIwMDUlM0E1OSUzQTIyJTIwJTJCMDAwMA",
       "title": "A discovery about GCC's unidirectional rotation algorithm",
       "pubDate": "Thu, 04 Jun 2026 05:59:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZWFzaG9obWFubi5jb20lMkZ6aWctc3RydWN0LW9mLWFycmF5cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5kcmVhc2hvaG1hbm4uY29tJTJGemlnLXN0cnVjdC1vZi1hcnJheXMlMkYlN0NaaWclMjBTdHJ1Y3RzJTIwb2YlMjBBcnJheXMlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM5NDc5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA0JTIwSnVuJTIwMjAyNiUyMDA2JTNBMjglM0EzNiUyMCUyQjAwMDA",
+      "title": "Zig Structs of Arrays (2024)",
+      "pubDate": "Thu, 04 Jun 2026 06:28:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
     }
   ]
