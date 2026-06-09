@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-04",
     "newestItemDate": "2026-06-04",
-    "itemCount": 13,
-    "generatedAt": "2026-06-08T18:38:46.842Z"
+    "itemCount": 14,
+    "generatedAt": "2026-06-09T04:39:55.233Z"
   },
   "items": [
     {
@@ -84,6 +84,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGZ29vZC10eXBlLWFnYWluc3QtYWxsLW9kZHMlMkYlN0NodHRwcyUzQSUyRiUyRnVuc3VuZy5hcmVzbHVuYS5vcmclMkZnb29kLXR5cGUtYWdhaW5zdC1hbGwtb2RkcyUyRiU3Q0dvb2QlMjB0eXBlJTIwYWdhaW5zdCUyMGFsbCUyMG9kZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODM5OTA2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA0JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjAlM0E1OSUyMCUyQjAwMDA",
       "title": "Good type against all odds",
       "pubDate": "Thu, 04 Jun 2026 14:20:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXJuc3RlaW5iZWFyLmNvbSUyRmJsb2clMkZpbmxpbmluZy1oZXVyaXN0aWNzJTJGJTdDaHR0cHMlM0ElMkYlMkZiZXJuc3RlaW5iZWFyLmNvbSUyRmJsb2clMkZpbmxpbmluZy1oZXVyaXN0aWNzJTJGJTdDQSUyMFN1cnZleSUyMG9mJTIwSW5saW5pbmclMjBIZXVyaXN0aWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDgzOTc2ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNCUyMEp1biUyMDIwMjYlMjAxMiUzQTI3JTNBNTglMjAlMkIwMDAw",
+      "title": "A Survey of Inlining Heuristics",
+      "pubDate": "Thu, 04 Jun 2026 12:27:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-04-0.json"
     }
   ]

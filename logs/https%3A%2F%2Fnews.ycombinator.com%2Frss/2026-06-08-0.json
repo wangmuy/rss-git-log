@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 41,
-    "generatedAt": "2026-06-08T18:38:46.842Z"
+    "itemCount": 55,
+    "generatedAt": "2026-06-09T04:39:55.233Z"
   },
   "items": [
     {
@@ -252,6 +252,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZodW1hbi1pbi10aGUtbG9vcC5iZWFyYmxvZy5kZXYlMkZyZXBsaWVzLXRvLWNvbW1lbnRzLW9uLW15LWxsbXMtYXJlLWVyb2RpbmctbXktY2FyZWVyLXBvc3QlMkYlN0NodHRwcyUzQSUyRiUyRmh1bWFuLWluLXRoZS1sb29wLmJlYXJibG9nLmRldiUyRnJlcGxpZXMtdG8tY29tbWVudHMtb24tbXktbGxtcy1hcmUtZXJvZGluZy1teS1jYXJlZXItcG9zdCUyRiU3Q1JlcGxpZXMlMjB0byUyMGNvbW1lbnRzJTIwb24lMjBteSUyMCUyMkxMTXMlMjBhcmUlMjBlcm9kaW5nJTIwbXklMjBjYXJlZXIlMjIlMjBwb3N0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDMyNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAwOSUzQTUyJTNBMDMlMjAlMkIwMDAw",
       "title": "Replies to comments on my \"LLMs are eroding my career\" post",
       "pubDate": "Mon, 08 Jun 2026 09:52:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZvcGVuYWktc3VibWl0cy1jb25maWRlbnRpYWwtcy0xJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZvcGVuYWktc3VibWl0cy1jb25maWRlbnRpYWwtcy0xJTJGJTdDQ29uZmlkZW50aWFsJTIwc3VibWlzc2lvbiUyMG9mJTIwZHJhZnQlMjBTLTElMjB0byUyMHRoZSUyMFNFQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDUyMzE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMjElM0EyMiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "pubDate": "Mon, 08 Jun 2026 21:22:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNiUyRjA4JTJGYXBwbGUtYmV0cy1jaGVhcGVyLWFpLXdpbGwtd29vLXNtYWxsLWRldmVsb3BlcnMlMkYlN0NodHRwcyUzQSUyRiUyRnRlY2hjcnVuY2guY29tJTJGMjAyNiUyRjA2JTJGMDglMkZhcHBsZS1iZXRzLWNoZWFwZXItYWktd2lsbC13b28tc21hbGwtZGV2ZWxvcGVycyUyRiU3Q0FwcGxlJTIwYmV0cyUyMGNoZWFwZXIlMjBBSSUyMHdpbGwlMjB3b28lMjBzbWFsbCUyMGRldmVsb3BlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1MjAwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDIxJTNBMDIlM0EwMCUyMCUyQjAwMDA",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "pubDate": "Mon, 08 Jun 2026 21:02:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2duaXRpb24uYWklMkZibG9nJTJGZnJvbnRpZXItY29kZSU3Q2h0dHBzJTNBJTJGJTJGY29nbml0aW9uLmFpJTJGYmxvZyUyRmZyb250aWVyLWNvZGUlN0NGcm9udGllckNvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1MTcyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDIwJTNBNDUlM0EwMyUyMCUyQjAwMDA",
+      "title": "FrontierCode",
+      "pubDate": "Mon, 08 Jun 2026 20:45:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmF2b3lhZ2UuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA2JTJGaW0tYnVpbGRpbmctcGFyYWxsZWwtaW50ZXJuZXQtYW5kLWl0cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZpbmF2b3lhZ2UuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA2JTJGaW0tYnVpbGRpbmctcGFyYWxsZWwtaW50ZXJuZXQtYW5kLWl0cy5odG1sJTdDSSdtJTIwYnVpbGRpbmclMjBhJTIwcGFyYWxsZWwlMjBpbnRlcm5ldCUyQyUyMGFuZCUyMGl0J3MlMjBjYWxsZWQlMjBUaGUlMjBUaGlubmVybmV0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NTA2OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxOSUzQTQ1JTNBMDQlMjAlMkIwMDAw",
+      "title": "I'm building a parallel internet, and it's called The Thinnernet",
+      "pubDate": "Mon, 08 Jun 2026 19:45:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWduYWwub3JnJTJGYmxvZyUyRnBkZnMlMkYyMDI2LTA2LTA4LXVrLXN1cnZlaWxsYW5jZS1pcy1ub3Qtc2FmZXR5LnBkZiU3Q2h0dHBzJTNBJTJGJTJGc2lnbmFsLm9yZyUyRmJsb2clMkZwZGZzJTJGMjAyNi0wNi0wOC11ay1zdXJ2ZWlsbGFuY2UtaXMtbm90LXNhZmV0eS5wZGYlN0NTdXJ2ZWlsbGFuY2UlMjBpcyUyMG5vdCUyMHNhZmV0eSUzQSUyMEElMjBzdGF0ZW1lbnQlMjBvbiUyMHRoZSUyMFVLJ3MlMjBsYXRlc3QlMjB0aHJlYXQlMjB0byUyMHByaXZhY3klMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1MDY0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE5JTNBNDIlM0EyOCUyMCUyQjAwMDA",
+      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "pubDate": "Mon, 08 Jun 2026 19:42:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwNiUyRjA4JTJGYXBwbGUtcmV2ZWFscy1uZXctYWktYXJjaGl0ZWN0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwNiUyRjA4JTJGYXBwbGUtcmV2ZWFscy1uZXctYWktYXJjaGl0ZWN0dXJlJTJGJTdDQXBwbGUlMjByZXZlYWxzJTIwbmV3JTIwQUklMjBhcmNoaXRlY3R1cmUlMjBidWlsdCUyMGFyb3VuZCUyMEdvb2dsZSUyMEdlbWluaSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDUwMTQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTklM0ExNCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "pubDate": "Mon, 08 Jun 2026 19:14:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidXJyaXRvLmJpbyUyRmVzc2F5cyUyRndoYXQtbGltaXRzLWEtY2VsbHMtc2l6ZSU3Q2h0dHBzJTNBJTJGJTJGYnVycml0by5iaW8lMkZlc3NheXMlMkZ3aGF0LWxpbWl0cy1hLWNlbGxzLXNpemUlN0NXaHklMjBhcmUlMjBjZWxscyUyMHNtYWxsJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NTAwNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxOSUzQTEwJTNBMjclMjAlMkIwMDAw",
+      "title": "Why are cells small?",
+      "pubDate": "Mon, 08 Jun 2026 19:10:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuYXBwbGUuY29tJTJGZG9jdW1lbnRhdGlvbiUyRmNvcmVhaSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVyLmFwcGxlLmNvbSUyRmRvY3VtZW50YXRpb24lMkZjb3JlYWklMkYlN0NBcHBsZSUyMENvcmUlMjBBSSUyMEZyYW1ld29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ5NjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTglM0E0NyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Apple Core AI Framework",
+      "pubDate": "Mon, 08 Jun 2026 18:47:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ5MTg3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ5MTg3JTdDQXNrJTIwSE4lM0ElMjBXaGF0JTIwYXJlJTIwdG9vbHMlMjB5b3UlMjBoYXZlJTIwbWFkZSUyMGZvciUyMHlvdXJzZWxmJTIwc2luY2UlMjB0aGUlMjBhZHZlbnQlMjBvZiUyMEFJJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDkxODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxOCUzQTIyJTNBMzklMjAlMkIwMDAw",
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "pubDate": "Mon, 08 Jun 2026 18:22:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ4MzEzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ4MzEzJTdDQXNrJTIwSE4lM0ElMjBXaHklMjBoYXNuJ3QlMjB0aGVyZSUyMGJlZW4lMjBhJTIwcmVhbCUyMGNvbXBldGl0b3IlMjB0byUyMFRpY2tldG1hc3RlciUyMHlldCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ4MzEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTclM0EyOCUzQTI5JTIwJTJCMDAwMA",
+      "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+      "pubDate": "Mon, 08 Jun 2026 17:28:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRkb3QuaW8lMkYlN0NodHRwcyUzQSUyRiUyRmdpdGRvdC5pbyUyRiU3Q1Nob3clMjBITiUzQSUyMEdpdGRvdCUyMCVFMiU4MCU5MyUyMGElMjBiZXR0ZXIlMjBHaXRIdWIuJTIwT3Blbi1zb3VyY2UlMkMlMjB3cml0dGVuJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDc4MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNiUzQTUyJTNBMTElMjAlMkIwMDAw",
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "pubDate": "Mon, 08 Jun 2026 16:52:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbGRhdmlzdGEuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZvbGRhdmlzdGEuY29tJTJGJTdDT2xkJ2FWaXN0YSUyMCVFMiU4MCU5MyUyMFRoZSUyMG1vc3QlMjBwb3dlcmZ1bCUyMGd1aWRlJTIwdG8lMjB0aGUlMjBvbGQlMjBJbnRlcm5ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ3MTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTYlM0EwMiUzQTEwJTIwJTJCMDAwMA",
+      "title": "Old'aVista – The most powerful guide to the old Internet",
+      "pubDate": "Mon, 08 Jun 2026 16:02:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2hlcmVzeW91cmVkLmF0JTJGYWktaXMtc2xvd2luZy1kb3duJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2hlcmVzeW91cmVkLmF0JTJGYWktaXMtc2xvd2luZy1kb3duJTJGJTdDQUklMjBpcyUyMHNsb3dpbmclMjBkb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDY4OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNSUzQTQ2JTNBMzclMjAlMkIwMDAw",
+      "title": "AI is slowing down",
+      "pubDate": "Mon, 08 Jun 2026 15:46:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2b3JwdXMuZ2l0aHViLmlvJTJGcGVyZm9ybWF0aXZlVUklMkYlN0NodHRwcyUzQSUyRiUyRnZvcnB1cy5naXRodWIuaW8lMkZwZXJmb3JtYXRpdmVVSSUyRiU3Q1Nob3clMjBITiUzQSUyMFBlcmZvcm1hdGl2ZS1VSSUyMCVFMiU4MCU5MyUyMEElMjByZWFjdCUyMGNvbXBvbmVudCUyMGxpYnJhcnklMjBvZiUyMGRlc2lnbiUyMHRyb3BlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ1NTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTQlM0EwNSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "pubDate": "Mon, 08 Jun 2026 14:05:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]

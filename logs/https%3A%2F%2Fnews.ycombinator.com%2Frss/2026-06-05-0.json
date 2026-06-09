@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-05",
     "newestItemDate": "2026-06-05",
-    "itemCount": 13,
-    "generatedAt": "2026-06-08T12:42:58.456Z"
+    "itemCount": 15,
+    "generatedAt": "2026-06-09T04:39:55.233Z"
   },
   "items": [
     {
@@ -84,6 +84,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdwbGFuZS53aW4lMkZwb3N0cyUyRmludHJvZHVjaW5nLWFtYmVyLXRyZWUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5ncGxhbmUud2luJTJGcG9zdHMlMkZpbnRyb2R1Y2luZy1hbWJlci10cmVlLmh0bWwlN0NBbWJlciUyMFRyZWUlM0ElMjBBJTIwTWlkZGxlJTIwR3JvdW5kJTIwQmV0d2VlbiUyMFJvd2FuJTIwUmVkJTIwYW5kJTIwR3JlZW4lMjBUcmVlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDA2NTgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDUlMjBKdW4lMjAyMDI2JTIwMDAlM0EzNSUzQTAwJTIwJTJCMDAwMA",
       "title": "Amber Tree: A Middle Ground Between Rowan Red and Green Trees",
       "pubDate": "Fri, 05 Jun 2026 00:35:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20lMkYyMDI2JTJGMDYlMkZnYW1lcy1iZXR3ZWVuLXByb2dyYW1zLXRoZS1ydWxpb2xvZ3ktb2YtY29tcGV0aXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRndyaXRpbmdzLnN0ZXBoZW53b2xmcmFtLmNvbSUyRjIwMjYlMkYwNiUyRmdhbWVzLWJldHdlZW4tcHJvZ3JhbXMtdGhlLXJ1bGlvbG9neS1vZi1jb21wZXRpdGlvbiUyRiU3Q0dhbWVzJTIwQmV0d2VlbiUyMFByb2dyYW1zJTNBJTIwVGhlJTIwUnVsaW9sb2d5JTIwb2YlMjBDb21wZXRpdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDE5NzY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDUlMjBKdW4lMjAyMDI2JTIwMjMlM0EzNiUzQTAwJTIwJTJCMDAwMA",
+      "title": "Games Between Programs: The Ruliology of Competition",
+      "pubDate": "Fri, 05 Jun 2026 23:36:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGdlZGdlLmNvbSUyRmJsb2clMkZsb29raW5nLWZvcndhcmQtdG8tcG9zdGdyZXMtMTktcXVlcnktaGludHMlN0NodHRwcyUzQSUyRiUyRnd3dy5wZ2VkZ2UuY29tJTJGYmxvZyUyRmxvb2tpbmctZm9yd2FyZC10by1wb3N0Z3Jlcy0xOS1xdWVyeS1oaW50cyU3Q0xvb2tpbmclMjBGb3J3YXJkJTIwdG8lMjBQb3N0Z3JlcyUyMDE5JTNBJTIwUXVlcnklMjBIaW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDEzNjU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDUlMjBKdW4lMjAyMDI2JTIwMTUlM0ExNSUzQTM1JTIwJTJCMDAwMA",
+      "title": "Looking Forward to Postgres 19: Query Hints",
+      "pubDate": "Fri, 05 Jun 2026 15:15:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
     }
   ]
