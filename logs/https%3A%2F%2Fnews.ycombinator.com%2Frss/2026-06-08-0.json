@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 55,
-    "generatedAt": "2026-06-09T04:39:55.233Z"
+    "itemCount": 56,
+    "generatedAt": "2026-06-09T11:32:48.865Z"
   },
   "items": [
     {
@@ -336,6 +336,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2b3JwdXMuZ2l0aHViLmlvJTJGcGVyZm9ybWF0aXZlVUklMkYlN0NodHRwcyUzQSUyRiUyRnZvcnB1cy5naXRodWIuaW8lMkZwZXJmb3JtYXRpdmVVSSUyRiU3Q1Nob3clMjBITiUzQSUyMFBlcmZvcm1hdGl2ZS1VSSUyMCVFMiU4MCU5MyUyMEElMjByZWFjdCUyMGNvbXBvbmVudCUyMGxpYnJhcnklMjBvZiUyMGRlc2lnbiUyMHRyb3BlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ1NTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTQlM0EwNSUzQTE2JTIwJTJCMDAwMA",
       "title": "Show HN: Performative-UI – A react component library of design tropes",
       "pubDate": "Mon, 08 Jun 2026 14:05:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRkb3QuaW8lMkYlN0NodHRwcyUzQSUyRiUyRmdpdGRvdC5pbyUyRiU3Q1Nob3clMjBITiUzQSUyMEdpdGRvdCUyMCVFMiU4MCU5MyUyMEElMjBiZXR0ZXIlMjBHaXRIdWIuJTIwT3Blbi1zb3VyY2UlMkMlMjB3cml0dGVuJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDc4MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNiUzQTUyJTNBMTElMjAlMkIwMDAw",
+      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
+      "pubDate": "Mon, 08 Jun 2026 16:52:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]

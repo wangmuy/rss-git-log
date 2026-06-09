@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 4,
-    "generatedAt": "2026-06-09T04:39:55.232Z"
+    "itemCount": 11,
+    "generatedAt": "2026-06-09T11:32:48.865Z"
   },
   "items": [
     {
@@ -30,6 +30,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWxhc2thc25ld3Nzb3VyY2UuY29tJTJGMjAyNiUyRjA2JTJGMDglMkZmZWRlcmFsLWp1ZGdlLWJsb2Nrcy1oMS1iLXZpc2EtMTAway1mZWUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hbGFza2FzbmV3c3NvdXJjZS5jb20lMkYyMDI2JTJGMDYlMkYwOCUyRmZlZGVyYWwtanVkZ2UtYmxvY2tzLWgxLWItdmlzYS0xMDBrLWZlZSUyRiU3Q0ZlZGVyYWwlMjBqdWRnZSUyMGJsb2NrcyUyMEgxQiUyMHZpc2ElMjAlMjQxMDBLJTIwZmVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NTQyMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAwMCUzQTAxJTNBMzclMjAlMkIwMDAw",
       "title": "Federal judge blocks H1B visa $100K fee",
       "pubDate": "Tue, 09 Jun 2026 00:01:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJhdGVjaGVyeS5jb20lMkYyMDI2JTJGdGhlLWlwaG9uZXMtbGFzdC1zdGFuZCUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RyYXRlY2hlcnkuY29tJTJGMjAyNiUyRnRoZS1pcGhvbmVzLWxhc3Qtc3RhbmQlMkYlN0NUaGUlMjBpUGhvbmUncyUyMExhc3QlMjBTdGFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU5MDAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTAlM0EwOCUzQTE4JTIwJTJCMDAwMA",
+      "title": "The iPhone's Last Stand",
+      "pubDate": "Tue, 09 Jun 2026 10:08:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHVrZTgwODYlMkZnZW50bGVvczMyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHVrZTgwODYlMkZnZW50bGVvczMyJTdDR2VudGxlT1MlMjAlRTIlODAlOTMlMjBDbGFzc2ljJTIwb3BlcmF0aW5nJTIwc3lzdGVtJTIwd2l0aCUyMGElMjBsb3ZlbHklMjByZXRybyUyMEdVSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU4ODkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDklM0E1MCUzQTMwJTIwJTJCMDAwMA",
+      "title": "GentleOS – Classic operating system with a lovely retro GUI",
+      "pubDate": "Tue, 09 Jun 2026 09:50:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGZWFnbGUtY29tcHV0ZXItdGhlLXJpc2UtYW5kLWZhbGwtb2YtYW4tZWFybHktcGMtY2xvbmUlMkYlN0NodHRwcyUzQSUyRiUyRmRmYXJxLmhvbWVpcC5uZXQlMkZlYWdsZS1jb21wdXRlci10aGUtcmlzZS1hbmQtZmFsbC1vZi1hbi1lYXJseS1wYy1jbG9uZSUyRiU3Q0VhZ2xlJTIwQ29tcHV0ZXIlM0ElMjBUaGUlMjByaXNlJTIwYW5kJTIwZmFsbCUyMG9mJTIwYW4lMjBlYXJseSUyMFBDJTIwY2xvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1ODYzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDA5JTNBMTclM0E0MSUyMCUyQjAwMDA",
+      "title": "Eagle Computer: The rise and fall of an early PC clone",
+      "pubDate": "Tue, 09 Jun 2026 09:17:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbW5pYS5zYXMudXBlbm4uZWR1JTJGc3RvcnklMkZiaW9sb2dpc3Qtc2NvdHQtcG9ldGhpZy1wbGFudHMtbmV2ZXItYWdlJTdDaHR0cHMlM0ElMkYlMkZvbW5pYS5zYXMudXBlbm4uZWR1JTJGc3RvcnklMkZiaW9sb2dpc3Qtc2NvdHQtcG9ldGhpZy1wbGFudHMtbmV2ZXItYWdlJTdDRm9yZXZlciUyMFlvdW5nJTNBJTIwaG93JTIwb25lJTIwbW9sZWN1bGUlMjBjYW4lMjBsb2NrJTIwcGxhbnRzJTIwaW4lMjBhJTIweW91dGhmdWwlMjBzdGF0ZSUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU4MjU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDglM0EyNSUzQTM2JTIwJTJCMDAwMA",
+      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+      "pubDate": "Tue, 09 Jun 2026 08:25:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNiUyRjA4JTJGbWljcm9zb2Z0cy1vcGVuLXNvdXJjZS10b29scy13ZXJlLWhhY2tlZC10by1zdGVhbC1wYXNzd29yZHMtb2YtYWktZGV2ZWxvcGVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDYlMkYwOCUyRm1pY3Jvc29mdHMtb3Blbi1zb3VyY2UtdG9vbHMtd2VyZS1oYWNrZWQtdG8tc3RlYWwtcGFzc3dvcmRzLW9mLWFpLWRldmVsb3BlcnMlMkYlN0NNaWNyb3NvZnQncyUyMG9wZW4lMjBzb3VyY2UlMjB0b29scyUyMHdlcmUlMjBoYWNrZWQlMjB0byUyMHN0ZWFsJTIwcGFzc3dvcmRzJTIwb2YlMjBBSSUyMGRldmVsb3BlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1NzgzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDA3JTNBMzMlM0ExNiUyMCUyQjAwMDA",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "pubDate": "Tue, 09 Jun 2026 07:33:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRmZhY2Vib29rLW92ZXJzZWFzLWFsYmVydGEtc2VwYXJ0aXNtLTkuNzIyMzk2NiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNiYy5jYSUyRm5ld3MlMkZjYW5hZGElMkZmYWNlYm9vay1vdmVyc2Vhcy1hbGJlcnRhLXNlcGFydGlzbS05LjcyMjM5NjYlN0NGYWNlYm9vayUyMGlzJTIwcGF5aW5nJTIwcGVvcGxlJTIwb3ZlcnNlYXMlMjBwcm9tb3RpbmclMjBBbGJlcnRhJTIwc2VwYXJhdGlzbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU3MTgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDYlM0ExNCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Facebook is paying people overseas promoting Alberta separatism",
+      "pubDate": "Tue, 09 Jun 2026 06:14:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFoZXltYW5zLnh5eiUyRnBvc3QlMkZ0aGlua3BhZF94NjElMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuYWhleW1hbnMueHl6JTJGcG9zdCUyRnRoaW5rcGFkX3g2MSUyRiU3Q1BvcnRpbmclMjB0aGUlMjBUaGlua1BhZCUyMFg2MSUyMHRvJTIwQ29yZWJvb3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1NjI0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDA0JTNBMDYlM0ExNCUyMCUyQjAwMDA",
+      "title": "Porting the ThinkPad X61 to Coreboot",
+      "pubDate": "Tue, 09 Jun 2026 04:06:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]
