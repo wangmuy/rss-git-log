@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 56,
-    "generatedAt": "2026-06-09T11:32:48.865Z"
+    "itemCount": 59,
+    "generatedAt": "2026-06-09T18:24:32.575Z"
   },
   "items": [
     {
@@ -342,6 +342,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRkb3QuaW8lMkYlN0NodHRwcyUzQSUyRiUyRmdpdGRvdC5pbyUyRiU3Q1Nob3clMjBITiUzQSUyMEdpdGRvdCUyMCVFMiU4MCU5MyUyMEElMjBiZXR0ZXIlMjBHaXRIdWIuJTIwT3Blbi1zb3VyY2UlMkMlMjB3cml0dGVuJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDc4MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNiUzQTUyJTNBMTElMjAlMkIwMDAw",
       "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
       "pubDate": "Mon, 08 Jun 2026 16:52:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXRzZW5jcnlwdC5vcmclMkZkb2N1bWVudHMlMkZMRS1TQS12MS43LUp1bmUtMDQtMjAyNi1kaWZmLnBkZiU3Q2h0dHBzJTNBJTJGJTJGbGV0c2VuY3J5cHQub3JnJTJGZG9jdW1lbnRzJTJGTEUtU0EtdjEuNy1KdW5lLTA0LTIwMjYtZGlmZi5wZGYlN0NMZXQncyUyMEVuY3J5cHQlMjBiYW5zJTIwY2VydGlmaWNhdGUlMjB1c2FnZSUyMGluJTIwYW55JTIwVVMlMjBzYW5jdGlvbmVkJTIwdGVycml0b3J5JTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NTMyNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAyMiUzQTMyJTNBMzYlMjAlMkIwMDAw",
+      "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "pubDate": "Mon, 08 Jun 2026 22:32:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA1LWdpYW50LXN0YXItZGVzdHJveWVkLXVuaXZlcnNlLXJhcmVzdC5odG1sJTdDaHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA1LWdpYW50LXN0YXItZGVzdHJveWVkLXVuaXZlcnNlLXJhcmVzdC5odG1sJTdDQSUyMGdpYW50JTIwc3RhciUyMG1heSUyMGhhdmUlMjBkZXN0cm95ZWQlMjBpdHNlbGYlMjBpbiUyMG9uZSUyMG9mJTIwdGhlJTIwcmFyZXN0JTIwZXhwbG9zaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDUxOTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMjElM0EwMCUzQTEzJTIwJTJCMDAwMA",
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "pubDate": "Mon, 08 Jun 2026 21:00:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjc3BhZ2VzLnVjYWxnYXJ5LmNhJTJGfmF5Y29jayUyRnBhcGVycyUyRmFydHdvcm0ucGRmJTdDaHR0cHMlM0ElMkYlMkZjc3BhZ2VzLnVjYWxnYXJ5LmNhJTJGfmF5Y29jayUyRnBhcGVycyUyRmFydHdvcm0ucGRmJTdDUGFpbnRpbmclMjB0aGUlMjBJbnRlcm5ldCUzQSUyMEElMjBEaWZmZXJlbnQlMjBLaW5kJTIwb2YlMjBXYXJob2wlMjBXb3JtJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDA2MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAwMiUzQTA1JTNBNDQlMjAlMkIwMDAw",
+      "title": "Painting the Internet: A Different Kind of Warhol Worm [pdf]",
+      "pubDate": "Mon, 08 Jun 2026 02:05:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]
