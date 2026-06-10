@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 66,
-    "generatedAt": "2026-06-10T11:49:34.879Z"
+    "itemCount": 69,
+    "generatedAt": "2026-06-10T18:44:47.530Z"
   },
   "items": [
     {
@@ -402,6 +402,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpbnZscGcuY29tJTJGcG9zdHMlMkYyMDI1LTA2LTE5LXByZW1hdHVyZS1vcHRpbWl6YXRpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGaW52bHBnLmNvbSUyRnBvc3RzJTJGMjAyNS0wNi0xOS1wcmVtYXR1cmUtb3B0aW1pemF0aW9uLmh0bWwlN0NQcmVtYXR1cmUlMjBPcHRpbWl6YXRpb24lMjBJcyUyMEZ1biUyMFNvbWV0aW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQzMzIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTAlM0EwMSUzQTMxJTIwJTJCMDAwMA",
       "title": "Premature Optimization Is Fun Sometimes",
       "pubDate": "Mon, 08 Jun 2026 10:01:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGc2NpZW5jZSUyRjIwMjYlMkZqdW4lMkYwMiUyRmpvdXJuZXktaW50by1zcGFpbi1wYWxhZW9saXRoaWMtY2F2ZS1wYWludGluZ3MtYWx0YW1pcmElN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZzY2llbmNlJTJGMjAyNiUyRmp1biUyRjAyJTJGam91cm5leS1pbnRvLXNwYWluLXBhbGFlb2xpdGhpYy1jYXZlLXBhaW50aW5ncy1hbHRhbWlyYSU3QydUaGV5JTIwdGFrZSUyMHlvdSUyMG91dCUyMG9mJTIwbGlmZSUyQyUyMG91dCUyMG9mJTIwdGltZSclM0ElMjBhJTIwam91cm5leSUyMGludG8lMjBTcGFpbidzJTIwY2F2ZSUyMHBhaW50aW5ncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ3Mzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTYlM0EyMyUzQTE2JTIwJTJCMDAwMA",
+      "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
+      "pubDate": "Mon, 08 Jun 2026 16:23:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaWJvZGguY29tJTJGcG9zdHMlMkZhc3luYy1ydXN0LWNoYXB0ZXItMS1oYW5kcy1vbi1pbnRyby10by1hc3luYy1ydXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZhaWJvZGguY29tJTJGcG9zdHMlMkZhc3luYy1ydXN0LWNoYXB0ZXItMS1oYW5kcy1vbi1pbnRyby10by1hc3luYy1ydXN0JTJGJTdDV2hvJTIwUnVucyUyMFlvdXIlMjBSdXN0JTIwRnV0dXJlJTNGJTIwSGFuZHMtT24lMjBJbnRybyUyMHRvJTIwQXN5bmMlMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDU3MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNCUzQTE1JTNBMzIlMjAlMkIwMDAw",
+      "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+      "pubDate": "Mon, 08 Jun 2026 14:15:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYmJyZXNhbGUuY2glMkYlN0NodHRwcyUzQSUyRiUyRnNiYnJlc2FsZS5jaCUyRiU3Q0J1eSUyMGElMjB0cmFpbiUyQyUyMGJyaWRnZSUyMG9yJTIwdHJhY2tzJTIwZnJvbSUyMHRoZSUyMFN3aXNzJTIwUmFpbHdheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQyOTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMDklM0EwNSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Buy a train, bridge or tracks from the Swiss Railway",
+      "pubDate": "Mon, 08 Jun 2026 09:05:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]

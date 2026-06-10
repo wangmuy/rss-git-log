@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 42,
-    "generatedAt": "2026-06-10T11:49:34.879Z"
+    "itemCount": 44,
+    "generatedAt": "2026-06-10T18:44:47.530Z"
   },
   "items": [
     {
@@ -258,6 +258,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmb3Jlc3R3YWxrLmFpJTJGYmxvZyUyRnN1cnByaXNlLWJsYWNrc21pdGgtY29zdHMlMkYlN0NodHRwcyUzQSUyRiUyRmZvcmVzdHdhbGsuYWklMkZibG9nJTJGc3VycHJpc2UtYmxhY2tzbWl0aC1jb3N0cyUyRiU3Q1N1cnByaXNlJTJDJTIwUGF5JTIwJTI0MTAwMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY4MzcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMjIlM0EwMSUzQTE1JTIwJTJCMDAwMA",
       "title": "Surprise, Pay $1000",
       "pubDate": "Tue, 09 Jun 2026 22:01:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV0eWVlLmNhJTJGQ3VsdHVyZSUyRjIwMjYlMkYwNiUyRjA1JTJGV2hvcy10aGUtU21hcnRlc3QtQ29ydmlkJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGV0eWVlLmNhJTJGQ3VsdHVyZSUyRjIwMjYlMkYwNiUyRjA1JTJGV2hvcy10aGUtU21hcnRlc3QtQ29ydmlkJTJGJTdDV2hvJ3MlMjB0aGUlMjBTbWFydGVzdCUyMENvcnZpZCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY0NDg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTclM0EzNyUzQTExJTIwJTJCMDAwMA",
+      "title": "Who's the Smartest Corvid?",
+      "pubDate": "Tue, 09 Jun 2026 17:37:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtY2VnbG93c2tpLnN1YnN0YWNrLmNvbSUyRnAlMkZsYWZmYWlyZS1zaWxveGFuZSU3Q2h0dHBzJTNBJTJGJTJGbWNlZ2xvd3NraS5zdWJzdGFjay5jb20lMkZwJTJGbGFmZmFpcmUtc2lsb3hhbmUlN0NMJ0FmZmFpcmUlMjBTaWxveGFuZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU2ODA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDUlM0EyMSUzQTM5JTIwJTJCMDAwMA",
+      "title": "L'Affaire Siloxane",
+      "pubDate": "Tue, 09 Jun 2026 05:21:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]
