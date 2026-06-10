@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 30,
-    "generatedAt": "2026-06-09T18:24:32.574Z"
+    "itemCount": 41,
+    "generatedAt": "2026-06-10T04:52:22.183Z"
   },
   "items": [
     {
@@ -186,6 +186,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29kaW5nd2l0aGplc3NlLmNvbSUyRmJsb2clMkZyb2Nrc3Rhci1kZXZlbG9wZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29kaW5nd2l0aGplc3NlLmNvbSUyRmJsb2clMkZyb2Nrc3Rhci1kZXZlbG9wZXJzJTJGJTdDQ2xlYW5pbmclMjB1cCUyMGFmdGVyJTIwQUklMjByb2Nrc3RhciUyMGRldmVsb3BlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1ODU4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDA5JTNBMTAlM0ExMCUyMCUyQjAwMDA",
       "title": "Cleaning up after AI rockstar developers",
       "pubDate": "Tue, 09 Jun 2026 09:10:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXNzZWR1ZmZpZWxkLmNvbSUyRklUUy1ERUFUSCUyRiU3Q2h0dHBzJTNBJTJGJTJGamVzc2VkdWZmaWVsZC5jb20lMkZJVFMtREVBVEglMkYlN0NJdCdzJTIwZGVhdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2OTM0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDIzJTNBNDQlM0ExNiUyMCUyQjAwMDA",
+      "title": "It's death",
+      "pubDate": "Tue, 09 Jun 2026 23:44:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm9zY2Fycy5kZXYlMkZwb3N0cyUyRnJpcC1zb2Z0d2FyZS1oYWNrYXRob25zLWxvbmctbGl2ZS10aGUtaGFyZHdhcmUtaGFja2F0aG9uJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLm9zY2Fycy5kZXYlMkZwb3N0cyUyRnJpcC1zb2Z0d2FyZS1oYWNrYXRob25zLWxvbmctbGl2ZS10aGUtaGFyZHdhcmUtaGFja2F0aG9uJTJGJTdDUklQJTIwc29mdHdhcmUlMjBoYWNrYXRob25zLiUyMExvbmclMjBsaXZlJTIwdGhlJTIwaGFyZHdhcmUlMjBoYWNrYXRob24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2ODc2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDIyJTNBMzUlM0E1NyUyMCUyQjAwMDA",
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "pubDate": "Tue, 09 Jun 2026 22:35:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb25yZWFkeS5jb20lMkZibG9nJTJGcG9zdHMlMkZjbGF1ZGUtZmFibGU1LWlzLWFsbG93ZWQtdG8tc2Fib3RhZ2UteW91ci1hcHAtaWYteW91cmUtYS1jb21wZXRpdG9yLmh0bWwlN0NodHRwcyUzQSUyRiUyRmpvbnJlYWR5LmNvbSUyRmJsb2clMkZwb3N0cyUyRmNsYXVkZS1mYWJsZTUtaXMtYWxsb3dlZC10by1zYWJvdGFnZS15b3VyLWFwcC1pZi15b3VyZS1hLWNvbXBldGl0b3IuaHRtbCU3Q0lmJTIwQ2xhdWRlJTIwRmFibGUlMjBzdG9wcyUyMGhlbHBpbmclMjB5b3UlMkMlMjB5b3UnbGwlMjBuZXZlciUyMGtub3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2Nzg5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDIxJTNBMTklM0ExMSUyMCUyQjAwMDA",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "pubDate": "Tue, 09 Jun 2026 21:19:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2lnbmFsYmx1ciUyRmV4aWZzbXVnZ2xpbmdwb2MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzaWduYWxibHVyJTJGZXhpZnNtdWdnbGluZ3BvYyU3Q0V4aWYlMjBTbXVnZ2xpbmclMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2Nzc1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDIxJTNBMDYlM0EwMCUyMCUyQjAwMDA",
+      "title": "Exif Smuggling (2025)",
+      "pubDate": "Tue, 09 Jun 2026 21:06:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmNoYW5nZWxvZyUyRjIwMjYtMDYtMDktdXBjb21pbmctYnJlYWtpbmctY2hhbmdlcy1mb3ItbnBtLXYxMiUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmJsb2clMkZjaGFuZ2Vsb2clMkYyMDI2LTA2LTA5LXVwY29taW5nLWJyZWFraW5nLWNoYW5nZXMtZm9yLW5wbS12MTIlMkYlN0NVcGNvbWluZyUyMGJyZWFraW5nJTIwY2hhbmdlcyUyMGZvciUyMG5wbSUyMHYxMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY3NzA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMjElM0EwMSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Upcoming breaking changes for npm v12",
+      "pubDate": "Tue, 09 Jun 2026 21:01:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdpdGJ1dGxlci5jb20lMkZ0cnVlLWdyaXQlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ2l0YnV0bGVyLmNvbSUyRnRydWUtZ3JpdCU3Q0dyaXQlM0ElMjBSZXdyaXRpbmclMjBHaXQlMjBpbiUyMFJ1c3QlMjB3aXRoJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjY4MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxOSUzQTU4JTNBMjElMjAlMkIwMDAw",
+      "title": "Grit: Rewriting Git in Rust with agents",
+      "pubDate": "Tue, 09 Jun 2026 19:58:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYXJ1c2hndXB0YS5pbyUyRnBvc3RzJTJGa2FuLWZwZ2ElMkYlN0NodHRwcyUzQSUyRiUyRmFhcnVzaGd1cHRhLmlvJTJGcG9zdHMlMkZrYW4tZnBnYSUyRiU3Q1VsdHJhZmFzdCUyMG1hY2hpbmUlMjBsZWFybmluZyUyMG9uJTIwRlBHQXMlMjB2aWElMjBLb2xtb2dvcm92LUFybm9sZCUyME5ldHdvcmtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjYyNzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxOSUzQTIxJTNBNDUlMjAlMkIwMDAw",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "pubDate": "Tue, 09 Jun 2026 19:21:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaGRpcnQuY29tJTJGMjAyNiUyRjA2JTJGMDklMkZjZW9zLXdoby10aGluay1haS1yZXBsYWNlcy10aGVpci1lbXBsb3llZXMtYXJlLWp1c3QtYmFkLWNlb3MlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNoZGlydC5jb20lMkYyMDI2JTJGMDYlMkYwOSUyRmNlb3Mtd2hvLXRoaW5rLWFpLXJlcGxhY2VzLXRoZWlyLWVtcGxveWVlcy1hcmUtanVzdC1iYWQtY2VvcyUyRiU3Q0NFT3MlMjB3aG8lMjB0aGluayUyMEFJJTIwcmVwbGFjZXMlMjB0aGVpciUyMGVtcGxveWVlcyUyMGFyZSUyMGp1c3QlMjBiYWQlMjBDRU9zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjU2NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxOCUzQTQ1JTNBNTklMjAlMkIwMDAw",
+      "title": "CEOs who think AI replaces their employees are just bad CEOs",
+      "pubDate": "Tue, 09 Jun 2026 18:45:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub25ldXNlZnVsdGhpbmcub3JnJTJGcCUyRndoYXQtaXQtZmVlbHMtbGlrZS10by13b3JrLXdpdGgtbXl0aG9zJTdDaHR0cHMlM0ElMkYlMkZ3d3cub25ldXNlZnVsdGhpbmcub3JnJTJGcCUyRndoYXQtaXQtZmVlbHMtbGlrZS10by13b3JrLXdpdGgtbXl0aG9zJTdDV2hhdCUyMGl0JTIwZmVlbHMlMjBsaWtlJTIwdG8lMjB3b3JrJTIwd2l0aCUyME15dGhvcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY0MTQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTclM0ExNyUzQTIxJTIwJTJCMDAwMA",
+      "title": "What it feels like to work with Mythos",
+      "pubDate": "Tue, 09 Jun 2026 17:17:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXBlcnRpbm9sZW5zLmNvbSUyRjIwMjYlMkYwNiUyRjA5JTJGd3dkYy0yMDI2LWFwcGxlLWlzLWZvbGRpbmclMkYlN0NodHRwcyUzQSUyRiUyRmN1cGVydGlub2xlbnMuY29tJTJGMjAyNiUyRjA2JTJGMDklMkZ3d2RjLTIwMjYtYXBwbGUtaXMtZm9sZGluZyUyRiU3Q1dXREMlMjAyMDI2JTNBJTIwQXBwbGUlMjBpcyUyMEZvbGRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2MTIyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDEzJTNBNTYlM0EzOCUyMCUyQjAwMDA",
+      "title": "WWDC 2026: Apple is Folding",
+      "pubDate": "Tue, 09 Jun 2026 13:56:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmF0dC5uZXQlMkZsYXVyaWUlMkZibG9nJTJGMjAyNiUyRnRlc3RfY2FzZV9yZWR1Y2Vyc19hcmVfdW5kZXJhcHByZWNpYXRlZF9kZWJ1Z2dpbmdfdG9vbHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdHJhdHQubmV0JTJGbGF1cmllJTJGYmxvZyUyRjIwMjYlMkZ0ZXN0X2Nhc2VfcmVkdWNlcnNfYXJlX3VuZGVyYXBwcmVjaWF0ZWRfZGVidWdnaW5nX3Rvb2xzLmh0bWwlN0NUZXN0LWNhc2UlMjByZWR1Y2VycyUyMGFyZSUyMHVuZGVyYXBwcmVjaWF0ZWQlMjBkZWJ1Z2dpbmclMjB0b29scyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU5NjU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTElM0EyNyUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Test-case reducers are underappreciated debugging tools",
+      "pubDate": "Tue, 09 Jun 2026 11:27:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]

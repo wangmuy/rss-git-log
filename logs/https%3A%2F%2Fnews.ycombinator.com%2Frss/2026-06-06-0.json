@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-06",
     "newestItemDate": "2026-06-06",
-    "itemCount": 13,
-    "generatedAt": "2026-06-09T18:24:32.575Z"
+    "itemCount": 15,
+    "generatedAt": "2026-06-10T04:52:22.183Z"
   },
   "items": [
     {
@@ -84,6 +84,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUmF5Zm9yY2VEQiUyRnJheWZvcmNlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUmF5Zm9yY2VEQiUyRnJheWZvcmNlJTdDUmF5Zm9yY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQyNzg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA2JTIwSnVuJTIwMjAyNiUyMDE5JTNBMDElM0EzMiUyMCUyQjAwMDA",
       "title": "Rayforce",
       "pubDate": "Sat, 06 Jun 2026 19:01:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGbW9yZS1tb2xseS1ndWFyZHMlMkYlN0NodHRwcyUzQSUyRiUyRnVuc3VuZy5hcmVzbHVuYS5vcmclMkZtb3JlLW1vbGx5LWd1YXJkcyUyRiU3Q01vcmUlMjBNb2xseSUyMEd1YXJkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDI3NDY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDYlMjBKdW4lMjAyMDI2JTIwMTglM0ExNSUzQTA0JTIwJTJCMDAwMA",
+      "title": "More Molly Guards",
+      "pubDate": "Sat, 06 Jun 2026 18:15:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4YW5kcmVmcmFuY29pcy5vcmclMkZSZXNvbmF0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYWxleGFuZHJlZnJhbmNvaXMub3JnJTJGUmVzb25hdGUlMkYlN0NTaG93JTIwSE4lM0ElMjBSZXNvbmF0ZSUyMCVFMiU4MCU5MyUyMExvdy1sYXRlbmN5JTJDJTIwaGlnaC1yZXNvbHV0aW9uJTIwc3BlY3RyYWwlMjBhbmFseXNpcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDI3NDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDYlMjBKdW4lMjAyMDI2JTIwMTglM0EwOSUzQTU5JTIwJTJCMDAwMA",
+      "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
+      "pubDate": "Sat, 06 Jun 2026 18:09:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-06-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 59,
-    "generatedAt": "2026-06-09T18:24:32.575Z"
+    "itemCount": 63,
+    "generatedAt": "2026-06-10T04:52:22.183Z"
   },
   "items": [
     {
@@ -360,6 +360,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjc3BhZ2VzLnVjYWxnYXJ5LmNhJTJGfmF5Y29jayUyRnBhcGVycyUyRmFydHdvcm0ucGRmJTdDaHR0cHMlM0ElMkYlMkZjc3BhZ2VzLnVjYWxnYXJ5LmNhJTJGfmF5Y29jayUyRnBhcGVycyUyRmFydHdvcm0ucGRmJTdDUGFpbnRpbmclMjB0aGUlMjBJbnRlcm5ldCUzQSUyMEElMjBEaWZmZXJlbnQlMjBLaW5kJTIwb2YlMjBXYXJob2wlMjBXb3JtJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDA2MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAwMiUzQTA1JTNBNDQlMjAlMkIwMDAw",
       "title": "Painting the Internet: A Different Kind of Warhol Worm [pdf]",
       "pubDate": "Mon, 08 Jun 2026 02:05:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF2aWRoYmFpbGV5LmNvbSUyRmRoYnBhcGVycyUyRkNoYXRib3RzLnBkZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhdmlkaGJhaWxleS5jb20lMkZkaGJwYXBlcnMlMkZDaGF0Ym90cy5wZGYlN0NFeHBlcmllbmNlJTIwdXNpbmclMjBBSSUyMHNvZnR3YXJlJTIwdG8lMjBwcm92ZSUyMEV1bGVyJTIwc3VtJTIwcmVzdWx0cyUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ5NTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTglM0E0MiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Experience using AI software to prove Euler sum results [pdf]",
+      "pubDate": "Mon, 08 Jun 2026 18:42:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRwdXNoLS1mb3JjZS5jb20lMkZjb21taXRzJTJGMjAyNiUyRjA2JTJGbGllcy13ZS10ZWxsLW91cnNlbHZlcy1hYm91dC1lbWFpbCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0cHVzaC0tZm9yY2UuY29tJTJGY29tbWl0cyUyRjIwMjYlMkYwNiUyRmxpZXMtd2UtdGVsbC1vdXJzZWx2ZXMtYWJvdXQtZW1haWwlMkYlN0NMaWVzJTIwd2UlMjB0ZWxsJTIwb3Vyc2VsdmVzJTIwYWJvdXQlMjBlbWFpbCUyMGFkZHJlc3NlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ1ODM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTQlM0EyNCUzQTU3JTIwJTJCMDAwMA",
+      "title": "Lies we tell ourselves about email addresses",
+      "pubDate": "Mon, 08 Jun 2026 14:24:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYXNvbmZhbnRsLmNvbSUyRnBvc3RzJTJGUHJvcGFnYXRpbmctQml0LW9uLUdyaWQlMkYlN0NodHRwcyUzQSUyRiUyRmphc29uZmFudGwuY29tJTJGcG9zdHMlMkZQcm9wYWdhdGluZy1CaXQtb24tR3JpZCUyRiU3Q0JpdCUyMFByb3BhZ2F0aW9uJTIwb3ZlciUyMGElMjBOb2lzeSUyMEdyaWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NTAyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDEzJTNBMjIlM0EzNyUyMCUyQjAwMDA",
+      "title": "Bit Propagation over a Noisy Grid",
+      "pubDate": "Mon, 08 Jun 2026 13:22:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXJuc3RlaW5iZWFyLmNvbSUyRmJsb2clMkZ2YWx1ZS1udW1iZXJpbmclMkYlN0NodHRwcyUzQSUyRiUyRmJlcm5zdGVpbmJlYXIuY29tJTJGYmxvZyUyRnZhbHVlLW51bWJlcmluZyUyRiU3Q1ZhbHVlJTIwTnVtYmVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDQ2NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxMiUzQTQ1JTNBMDElMjAlMkIwMDAw",
+      "title": "Value Numbering",
+      "pubDate": "Mon, 08 Jun 2026 12:45:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]
