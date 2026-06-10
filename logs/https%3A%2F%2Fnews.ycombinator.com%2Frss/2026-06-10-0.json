@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-10",
     "newestItemDate": "2026-06-10",
-    "itemCount": 4,
-    "generatedAt": "2026-06-10T04:52:22.183Z"
+    "itemCount": 10,
+    "generatedAt": "2026-06-10T11:49:34.879Z"
   },
   "items": [
     {
@@ -30,6 +30,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXBwbGUlMkZjb250YWluZXIlMkZibG9iJTJGbWFpbiUyRmRvY3MlMkZjb250YWluZXItbWFjaGluZS5tZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFwcGxlJTJGY29udGFpbmVyJTJGYmxvYiUyRm1haW4lMkZkb2NzJTJGY29udGFpbmVyLW1hY2hpbmUubWQlN0NtYWNPUyUyMENvbnRhaW5lciUyME1hY2hpbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0Njk2NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMCUyMEp1biUyMDIwMjYlMjAwMCUzQTI5JTNBMDElMjAlMkIwMDAw",
       "title": "macOS Container Machines",
       "pubDate": "Wed, 10 Jun 2026 00:29:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ3J6ZWdvcnotcmFjemVrLXVuaXQ4JTJGY2xhdWRlLXF1b3RhJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ3J6ZWdvcnotcmFjemVrLXVuaXQ4JTJGY2xhdWRlLXF1b3RhJTdDU2hvdyUyMEhOJTNBJTIwbWFjT1MlMjBtZW51JTIwYmFyJTIwZ2F1Z2VzJTIwZm9yJTIweW91ciUyMENsYXVkZSUyMENvZGUlMjBxdW90YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDczODQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTAlMjBKdW4lMjAyMDI2JTIwMDklM0E0MyUzQTE2JTIwJTJCMDAwMA",
+      "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+      "pubDate": "Wed, 10 Jun 2026 09:43:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbm90ZXBhZC1wbHVzLXBsdXMlMkZub3RlcGFkLXBsdXMtcGx1cyUyRnNlY3VyaXR5JTJGYWR2aXNvcmllcyUyRkdIU0EtcDU4eC1yM2M5LXg5cDYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZub3RlcGFkLXBsdXMtcGx1cyUyRm5vdGVwYWQtcGx1cy1wbHVzJTJGc2VjdXJpdHklMkZhZHZpc29yaWVzJTJGR0hTQS1wNTh4LXIzYzkteDlwNiU3Q05vdGVwYWQlMkIlMkIlMjBaZXJvLUNsaWNrJTIwUkNFJTIwdmlhJTIwUGF0aCUyMFRyYXZlcnNhbCUyMChDVkUtMjAyNi01Mjg4NCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ3MzczMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEwJTIwSnVuJTIwMjAyNiUyMDA5JTNBMjglM0E0MCUyMCUyQjAwMDA",
+      "title": "Notepad++ Zero-Click RCE via Path Traversal (CVE-2026-52884)",
+      "pubDate": "Wed, 10 Jun 2026 09:28:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmVhY3QlMkZyZWFjdCUyRnB1bGwlMkYzNjE3MyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJlYWN0JTJGcmVhY3QlMkZwdWxsJTJGMzYxNzMlN0NQb3J0JTIwUmVhY3QlMjBDb21waWxlciUyMHRvJTIwUnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDczNjYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTAlMjBKdW4lMjAyMDI2JTIwMDklM0ExOSUzQTU1JTIwJTJCMDAwMA",
+      "title": "Port React Compiler to Rust",
+      "pubDate": "Wed, 10 Jun 2026 09:19:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDczMTY2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDczMTY2JTdDQVdTJTIwQmVkcm9jayUyMHRvJTIwcmVxdWlyZSUyMHNoYXJpbmclMjBkYXRhJTIwd2l0aCUyMEFudGhyb3BpYyUyMGZvciUyME15dGhvcyUyMGFuZCUyMGZ1dHVyZSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDczMTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTAlMjBKdW4lMjAyMDI2JTIwMDglM0EyMSUzQTM4JTIwJTJCMDAwMA",
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "pubDate": "Wed, 10 Jun 2026 08:21:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpYS5tZXJjZWRlcy1iZW56LmNvbSUyRmVuJTJGYXJ0aWNsZSUyRmJlYmFjMmFmLWFjZGMtNDY1YS05NTM4LWFkYjBiZjNkOGNjZiU3Q2h0dHBzJTNBJTJGJTJGbWVkaWEubWVyY2VkZXMtYmVuei5jb20lMkZlbiUyRmFydGljbGUlMkZiZWJhYzJhZi1hY2RjLTQ2NWEtOTUzOC1hZGIwYmYzZDhjY2YlN0NNZXJjZWRlcyVFMiU4MCU5MUJlbnolMjBzdGFydHMlMjBsYXJnZSVFMiU4MCU5MXNjYWxlJTIwcHJvZHVjdGlvbiUyMG9mJTIwZWxlY3RyaWMlMjBheGlhbCUyMGZsdXglMjBtb3RvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDcyODc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTAlMjBKdW4lMjAyMDI2JTIwMDclM0E0NCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "pubDate": "Wed, 10 Jun 2026 07:44:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGRtY2tpbm5vbi5jb20lMkYyMDI2JTJGMDYlMkYwOSUyRnZpYmUtY29kaW5nLW15LXdheS10by1hLWhlYWx0aHktZmFtaWx5LWludHJvZHVjaW5nLWdhbW93LWxhYnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kZG1ja2lubm9uLmNvbSUyRjIwMjYlMkYwNiUyRjA5JTJGdmliZS1jb2RpbmctbXktd2F5LXRvLWEtaGVhbHRoeS1mYW1pbHktaW50cm9kdWNpbmctZ2Ftb3ctbGFicyUyRiU3Q1ZpYmUlMjBjb2RpbmclMjBteSUyMHdheSUyMHRvJTIwYSUyMGhlYWx0aHklMjBmYW1pbHklM0ElMjBJbnRyb2R1Y2luZyUyMEdhbW93JTIwTGFicyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDcxMDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTAlMjBKdW4lMjAyMDI2JTIwMDMlM0EyNyUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+      "pubDate": "Wed, 10 Jun 2026 03:27:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
     }
   ]

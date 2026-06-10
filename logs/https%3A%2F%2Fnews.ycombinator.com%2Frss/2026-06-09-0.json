@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 41,
-    "generatedAt": "2026-06-10T04:52:22.183Z"
+    "itemCount": 42,
+    "generatedAt": "2026-06-10T11:49:34.879Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0cmF0dC5uZXQlMkZsYXVyaWUlMkZibG9nJTJGMjAyNiUyRnRlc3RfY2FzZV9yZWR1Y2Vyc19hcmVfdW5kZXJhcHByZWNpYXRlZF9kZWJ1Z2dpbmdfdG9vbHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdHJhdHQubmV0JTJGbGF1cmllJTJGYmxvZyUyRjIwMjYlMkZ0ZXN0X2Nhc2VfcmVkdWNlcnNfYXJlX3VuZGVyYXBwcmVjaWF0ZWRfZGVidWdnaW5nX3Rvb2xzLmh0bWwlN0NUZXN0LWNhc2UlMjByZWR1Y2VycyUyMGFyZSUyMHVuZGVyYXBwcmVjaWF0ZWQlMjBkZWJ1Z2dpbmclMjB0b29scyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU5NjU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTElM0EyNyUzQTQ5JTIwJTJCMDAwMA",
       "title": "Test-case reducers are underappreciated debugging tools",
       "pubDate": "Tue, 09 Jun 2026 11:27:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3Jlc3R3YWxrLmFpJTJGYmxvZyUyRnN1cnByaXNlLWJsYWNrc21pdGgtY29zdHMlMkYlN0NodHRwcyUzQSUyRiUyRmZvcmVzdHdhbGsuYWklMkZibG9nJTJGc3VycHJpc2UtYmxhY2tzbWl0aC1jb3N0cyUyRiU3Q1N1cnByaXNlJTJDJTIwUGF5JTIwJTI0MTAwMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY4MzcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMjIlM0EwMSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Surprise, Pay $1000",
+      "pubDate": "Tue, 09 Jun 2026 22:01:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]

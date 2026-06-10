@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-05",
     "newestItemDate": "2026-06-05",
-    "itemCount": 15,
-    "generatedAt": "2026-06-09T04:39:55.233Z"
+    "itemCount": 16,
+    "generatedAt": "2026-06-10T11:49:34.879Z"
   },
   "items": [
     {
@@ -96,6 +96,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGdlZGdlLmNvbSUyRmJsb2clMkZsb29raW5nLWZvcndhcmQtdG8tcG9zdGdyZXMtMTktcXVlcnktaGludHMlN0NodHRwcyUzQSUyRiUyRnd3dy5wZ2VkZ2UuY29tJTJGYmxvZyUyRmxvb2tpbmctZm9yd2FyZC10by1wb3N0Z3Jlcy0xOS1xdWVyeS1oaW50cyU3Q0xvb2tpbmclMjBGb3J3YXJkJTIwdG8lMjBQb3N0Z3JlcyUyMDE5JTNBJTIwUXVlcnklMjBIaW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDEzNjU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDUlMjBKdW4lMjAyMDI2JTIwMTUlM0ExNSUzQTM1JTIwJTJCMDAwMA",
       "title": "Looking Forward to Postgres 19: Query Hints",
       "pubDate": "Fri, 05 Jun 2026 15:15:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RlcTdmUjlJU3VDdyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEZXE3ZlI5SVN1Q3clN0NJJTIwVGhvdWdodCUyMEklMjBLbmV3JTIwSG93JTIwRWxlY3Ryb2x5c2lzJTIwV29ya2VkJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQxMTEwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA1JTIwSnVuJTIwMjAyNiUyMDExJTNBNDUlM0EyMyUyMCUyQjAwMDA",
+      "title": "I Thought I Knew How Electrolysis Worked [video]",
+      "pubDate": "Fri, 05 Jun 2026 11:45:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-05-0.json"
     }
   ]
