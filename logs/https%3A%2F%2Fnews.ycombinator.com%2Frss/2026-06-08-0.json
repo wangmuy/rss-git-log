@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 69,
-    "generatedAt": "2026-06-10T18:44:47.530Z"
+    "itemCount": 72,
+    "generatedAt": "2026-06-11T05:01:44.468Z"
   },
   "items": [
     {
@@ -420,6 +420,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzYmJyZXNhbGUuY2glMkYlN0NodHRwcyUzQSUyRiUyRnNiYnJlc2FsZS5jaCUyRiU3Q0J1eSUyMGElMjB0cmFpbiUyQyUyMGJyaWRnZSUyMG9yJTIwdHJhY2tzJTIwZnJvbSUyMHRoZSUyMFN3aXNzJTIwUmFpbHdheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQyOTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMDklM0EwNSUzQTI5JTIwJTJCMDAwMA",
       "title": "Buy a train, bridge or tracks from the Swiss Railway",
       "pubDate": "Mon, 08 Jun 2026 09:05:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYW5vY2hlc3Mub3JnJTJGa2xvbmRpa2VfaW5fYy5odG1sJTdDaHR0cHMlM0ElMkYlMkZuYW5vY2hlc3Mub3JnJTJGa2xvbmRpa2VfaW5fYy5odG1sJTdDS2xvbmRpa2UlMjBTb2xpdGFpcmUlMjBnYW1lJTIwZm9yJTIwY3Vyc2VzJTIwaW4lMjA1ayUyMG9mJTIwQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDUwMDI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTklM0EwOCUzQTEyJTIwJTJCMDAwMA",
+      "title": "Klondike Solitaire game for curses in 5k of C",
+      "pubDate": "Mon, 08 Jun 2026 19:08:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZieXRlY29kZWFsbGlhbmNlLm9yZyUyRmFydGljbGVzJTJGdGhlLXJvYWQtdG8tY29tcG9uZW50LW1vZGVsLTEtMCU3Q2h0dHBzJTNBJTJGJTJGYnl0ZWNvZGVhbGxpYW5jZS5vcmclMkZhcnRpY2xlcyUyRnRoZS1yb2FkLXRvLWNvbXBvbmVudC1tb2RlbC0xLTAlN0NUaGUlMjBSb2FkJTIwdG8lMjB0aGUlMjBXQVNNJTIwQ29tcG9uZW50JTIwTW9kZWwlMjAxLjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0ODA4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE3JTNBMTIlM0E0NCUyMCUyQjAwMDA",
+      "title": "The Road to the WASM Component Model 1.0",
+      "pubDate": "Mon, 08 Jun 2026 17:12:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFzb25kYXZpZXMuY29tJTJGbWFwcyUyRnZvcm9ub2klMkZjYXBpdGFscyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmphc29uZGF2aWVzLmNvbSUyRm1hcHMlMkZ2b3Jvbm9pJTJGY2FwaXRhbHMlMkYlN0NXb3JsZCUyMENhcGl0YWxzJTIwVm9yb25vaSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ2NTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTUlM0EyMCUzQTA4JTIwJTJCMDAwMA",
+      "title": "World Capitals Voronoi",
+      "pubDate": "Mon, 08 Jun 2026 15:20:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]

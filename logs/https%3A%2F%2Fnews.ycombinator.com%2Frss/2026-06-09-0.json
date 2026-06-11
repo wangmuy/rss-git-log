@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 44,
-    "generatedAt": "2026-06-10T18:44:47.530Z"
+    "itemCount": 47,
+    "generatedAt": "2026-06-11T05:01:44.468Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtY2VnbG93c2tpLnN1YnN0YWNrLmNvbSUyRnAlMkZsYWZmYWlyZS1zaWxveGFuZSU3Q2h0dHBzJTNBJTJGJTJGbWNlZ2xvd3NraS5zdWJzdGFjay5jb20lMkZwJTJGbGFmZmFpcmUtc2lsb3hhbmUlN0NMJ0FmZmFpcmUlMjBTaWxveGFuZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU2ODA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDUlM0EyMSUzQTM5JTIwJTJCMDAwMA",
       "title": "L'Affaire Siloxane",
       "pubDate": "Tue, 09 Jun 2026 05:21:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV0eWVlLmNhJTJGQ3VsdHVyZSUyRjIwMjYlMkYwNiUyRjA1JTJGV2hvcy10aGUtU21hcnRlc3QtQ29ydmlkJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGV0eWVlLmNhJTJGQ3VsdHVyZSUyRjIwMjYlMkYwNiUyRjA1JTJGV2hvcy10aGUtU21hcnRlc3QtQ29ydmlkJTJGJTdDV2hvJ3MlMjB0aGUlMjBzbWFydGVzdCUyMGNvcnZpZCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY0NDg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTclM0EzNyUzQTExJTIwJTJCMDAwMA",
+      "title": "Who's the smartest corvid?",
+      "pubDate": "Tue, 09 Jun 2026 17:37:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTU0MjU5OTYtZGF0YS1yZXRlbnRpb24tcHJhY3RpY2VzLWZvci1teXRob3MtY2xhc3MtbW9kZWxzJTdDaHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTU0MjU5OTYtZGF0YS1yZXRlbnRpb24tcHJhY3RpY2VzLWZvci1teXRob3MtY2xhc3MtbW9kZWxzJTdDQW50aHJvcGljJTIwcmVxdWlyZXMlMjAzMCUyMGRheSUyMGRhdGElMjByZXRlbnRpb24lMjBmb3IlMjBGYWJsZSUyMGFuZCUyME15dGhvcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY0MjU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTclM0EyMyUzQTQwJTIwJTJCMDAwMA",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "pubDate": "Tue, 09 Jun 2026 17:23:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwNiUyRjA0JTJGY3NzLXVuYXZvaWRhYmxlLWJhZC1wYXJ0cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwNiUyRjA0JTJGY3NzLXVuYXZvaWRhYmxlLWJhZC1wYXJ0cy5odG1sJTdDQ1NTJTNBJTIwVW5hdm9pZGFibGUlMjBCYWQlMjBQYXJ0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU5Njc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTElM0EzMCUzQTIwJTIwJTJCMDAwMA",
+      "title": "CSS: Unavoidable Bad Parts",
+      "pubDate": "Tue, 09 Jun 2026 11:30:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]
