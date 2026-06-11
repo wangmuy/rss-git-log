@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-11",
     "newestItemDate": "2026-06-11",
-    "itemCount": 9,
-    "generatedAt": "2026-06-11T12:23:23.490Z"
+    "itemCount": 24,
+    "generatedAt": "2026-06-11T19:14:57.093Z"
   },
   "items": [
     {
@@ -60,6 +60,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkcm9uZXhsLmNvJTJGMjAyNiUyRjA2JTJGMDklMkZwb2tlbW9uLWdvLXNjYW5zLW5pYW50aWMtdmFudG9yLW1pbGl0YXJ5LWRyb25lLW5hdmlnYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmRyb25leGwuY28lMkYyMDI2JTJGMDYlMkYwOSUyRnBva2Vtb24tZ28tc2NhbnMtbmlhbnRpYy12YW50b3ItbWlsaXRhcnktZHJvbmUtbmF2aWdhdGlvbiUyRiU3Q1BvayVDMyVBOW1vbiUyMEdvJTIwU2NhbnMlMjBUcmFpbmVkJTIwdGhlJTIwTmF2aWdhdGlvbiUyMFRlY2glMjBmb3IlMjBNaWxpdGFyeSUyMERyb25lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg3MDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMDYlM0E0MiUzQTA2JTIwJTJCMDAwMA",
       "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
       "pubDate": "Thu, 11 Jun 2026 06:42:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmFybWFidWRoYXJhanUlMkZhZ2VudC1wZCUyRmJsb2IlMkZtYXN0ZXIlMkZSRUFETUUubWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ2YXJtYWJ1ZGhhcmFqdSUyRmFnZW50LXBkJTJGYmxvYiUyRm1hc3RlciUyRlJFQURNRS5tZCU3Q1Nob3clMjBITiUzQSUyMEElMjBwb2xpY2UlMjBkZXBhcnRtZW50JTIwZm9yJTIweW91ciUyMENsYXVkZSUyMENvZGUlMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5Mzc4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE3JTNBNDclM0EzOSUyMCUyQjAwMDA",
+      "title": "Show HN: A police department for your Claude Code agents",
+      "pubDate": "Thu, 11 Jun 2026 17:47:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGYmxvZyUyRmludHJvZHVjaW5nLWRlbHRhZGIlN0NodHRwcyUzQSUyRiUyRnplZC5kZXYlMkZibG9nJTJGaW50cm9kdWNpbmctZGVsdGFkYiU3Q1NvZnR3YXJlJTIwSXMlMjBNYWRlJTIwQmV0d2VlbiUyMENvbW1pdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5MjUzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE2JTNBMjglM0EyNCUyMCUyQjAwMDA",
+      "title": "Software Is Made Between Commits",
+      "pubDate": "Thu, 11 Jun 2026 16:28:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZqdW4lMkYxMSUyRnNvbGFyLWVuZXJneS11cy1jb2FsJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZqdW4lMkYxMSUyRnNvbGFyLWVuZXJneS11cy1jb2FsJTdDU29sYXIlMjBnZW5lcmF0ZXMlMjBtb3JlJTIwZW5lcmd5JTIwaW4lMjBVUyUyMHRoYW4lMjBjb2FsJTIwZm9yJTIwZmlyc3QlMjB0aW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTIzMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxNiUzQTEwJTNBMDUlMjAlMkIwMDAw",
+      "title": "Solar generates more energy in US than coal for first time",
+      "pubDate": "Thu, 11 Jun 2026 16:10:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YXltby5jb20lMkZibG9nJTJGMjAyNiUyRjA2JTJGd2F5bW8tcHJlbWllciUyRiU3Q2h0dHBzJTNBJTJGJTJGd2F5bW8uY29tJTJGYmxvZyUyRjIwMjYlMkYwNiUyRndheW1vLXByZW1pZXIlMkYlN0NXYXltbyUyMFByZW1pZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5MjMwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE2JTNBMTAlM0EwMiUyMCUyQjAwMDA",
+      "title": "Waymo Premier",
+      "pubDate": "Thu, 11 Jun 2026 16:10:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtcmJydWguY29tJTJGYW1kMiUyRiU3Q2h0dHBzJTNBJTJGJTJGbXJicnVoLmNvbSUyRmFtZDIlMkYlN0NUaGUlMjBSQ0UlMjB0aGF0JTIwQU1EJTIwd291bGRuJ3QlMjBmaXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5MjIxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE2JTNBMDMlM0E0MCUyMCUyQjAwMDA",
+      "title": "The RCE that AMD wouldn't fix",
+      "pubDate": "Thu, 11 Jun 2026 16:03:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW5kb3JsYWJzLmNvbSUyRmxlYXJuJTJGY2xhdWRlLWZhYmxlLTUtbXl0aG9zLWdyYWRlLWh5cGUlN0NodHRwcyUzQSUyRiUyRnd3dy5lbmRvcmxhYnMuY29tJTJGbGVhcm4lMkZjbGF1ZGUtZmFibGUtNS1teXRob3MtZ3JhZGUtaHlwZSU3Q0NsYXVkZSUyMEZhYmxlJTIwNSUzQSUyMG1pZC10aWVyJTIwcmVzdWx0cyUyMG9uJTIwY29kaW5nJTIwdGFza3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5MjIxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE2JTNBMDMlM0EyMSUyMCUyQjAwMDA",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "pubDate": "Thu, 11 Jun 2026 16:03:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3VyY29tbW9ucy5jYSUyRnBldGl0aW9ucyUyRmVuJTJGUGV0aXRpb24lMkZTaWduJTJGZS03NDE2JTdDaHR0cHMlM0ElMkYlMkZ3d3cub3VyY29tbW9ucy5jYSUyRnBldGl0aW9ucyUyRmVuJTJGUGV0aXRpb24lMkZTaWduJTJGZS03NDE2JTdDUGV0aXRpb24lMjB0byUyMFdpdGhkcmF3JTIwQ2FuYWRhJ3MlMjBCaWxsJTIwQy0yMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDkxODMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTUlM0EzNyUzQTIzJTIwJTJCMDAwMA",
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "pubDate": "Thu, 11 Jun 2026 15:37:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaWNpdHJ5JTJGRlBTLmNvYiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmljaXRyeSUyRkZQUy5jb2IlN0NGUFMuY29iJTNBJTIwQSUyMGZpcnN0JTIwcGVyc29uJTIwc2hvb3RlciUyMGluJTIwQ09CT0wlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5MTQ4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE1JTNBMTMlM0E1NyUyMCUyQjAwMDA",
+      "title": "FPS.cob: A first person shooter in COBOL",
+      "pubDate": "Thu, 11 Jun 2026 15:13:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW1vLnhpYW9taS5jb20lMkZtaW1vY29kZSU3Q2h0dHBzJTNBJTJGJTJGbWltby54aWFvbWkuY29tJTJGbWltb2NvZGUlN0NNaU1vJTIwQ29kZSUyMGlzJTIwbm93JTIwcmVsZWFzZWQlMjBhbmQlMjBvcGVuLXNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDkwODI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTQlM0EyNyUzQTE5JTIwJTJCMDAwMA",
+      "title": "MiMo Code is now released and open-source",
+      "pubDate": "Thu, 11 Jun 2026 14:27:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXh0Y2xvdWQuY29tJTJGYmxvZyUyRm5leHRjbG91ZC1odWIyNi1zcHJpbmclMkYlN0NodHRwcyUzQSUyRiUyRm5leHRjbG91ZC5jb20lMkZibG9nJTJGbmV4dGNsb3VkLWh1YjI2LXNwcmluZyUyRiU3Q05leHRjbG91ZCUyMEh1YiUyMDI2JTIwU3ByaW5nJTNBJTIwQnVpbHQlMjB0b2dldGhlciUyQyUyMGRlc2lnbmVkJTIwZm9yJTIwdGhlJTIwZnV0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTA3MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxNCUzQTE3JTNBNDclMjAlMkIwMDAw",
+      "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+      "pubDate": "Thu, 11 Jun 2026 14:17:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXBjb21wbGV0ZS5vcmclMkYlN0NodHRwcyUzQSUyRiUyRm1hcGNvbXBsZXRlLm9yZyUyRiU3Q01hcENvbXBsZXRlJTNBJTIwTWFwcyUyMGFib3V0JTIwdmFyaW91cyUyMHRvcGljcyUyMHdoaWNoJTIweW91JTIwY2FuJTIwY29udHJpYnV0ZSUyMHRvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTA1MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxNCUzQTA0JTNBMDUlMjAlMkIwMDAw",
+      "title": "MapComplete: Maps about various topics which you can contribute to",
+      "pubDate": "Thu, 11 Jun 2026 14:04:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmV3LnNoJTJGMjAyNiUyRjA2JTJGMTElMkZob21lYnJldy02LjAuMCUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJldy5zaCUyRjIwMjYlMkYwNiUyRjExJTJGaG9tZWJyZXctNi4wLjAlMkYlN0NTaG93JTIwSE4lM0ElMjBIb21lYnJldyUyMDYuMC4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTAwMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxMyUzQTI0JTNBMjklMjAlMkIwMDAw",
+      "title": "Show HN: Homebrew 6.0.0",
+      "pubDate": "Thu, 11 Jun 2026 13:24:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHVnZ2luZ2ZhY2UlMkZvcGVuLXIxJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHVnZ2luZ2ZhY2UlMkZvcGVuLXIxJTdDT3BlbiUyMFJlcHJvZHVjdGlvbiUyMG9mJTIwRGVlcFNlZWstUjElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4OTkxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDEzJTNBMTQlM0EzMSUyMCUyQjAwMDA",
+      "title": "Open Reproduction of DeepSeek-R1",
+      "pubDate": "Thu, 11 Jun 2026 13:14:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJsZXdpcy5jby5ueiUyRnBvc3RzJTJGbGluZXMtb2YtY29kZS1nb3QtYS1iZXR0ZXItcHVibGljaXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZjdXJsZXdpcy5jby5ueiUyRnBvc3RzJTJGbGluZXMtb2YtY29kZS1nb3QtYS1iZXR0ZXItcHVibGljaXN0JTJGJTdDTGluZXMlMjBvZiUyMGNvZGUlMjBnb3QlMjBhJTIwYmV0dGVyJTIwcHVibGljaXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0ODk0MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxMiUzQTI2JTNBNDIlMjAlMkIwMDAw",
+      "title": "Lines of code got a better publicist",
+      "pubDate": "Thu, 11 Jun 2026 12:26:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGYWktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UlMkY5NDgyODAlMkZhbnRocm9waWMtY2xhdWRlLWZhYmxlLWludmlzaWJsZS1kaXN0aWxsYXRpb24tZ3VhcmRyYWlsJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGYWktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UlMkY5NDgyODAlMkZhbnRocm9waWMtY2xhdWRlLWZhYmxlLWludmlzaWJsZS1kaXN0aWxsYXRpb24tZ3VhcmRyYWlsJTdDQW50aHJvcGljJTIwYXBvbG9naXplcyUyMGZvciUyMGludmlzaWJsZSUyMENsYXVkZSUyMEZhYmxlJTIwZ3VhcmRyYWlscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg5MjI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTIlM0EwNSUzQTAyJTIwJTJCMDAwMA",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "pubDate": "Thu, 11 Jun 2026 12:05:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
     }
   ]

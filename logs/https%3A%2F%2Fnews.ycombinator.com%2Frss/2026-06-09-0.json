@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 51,
-    "generatedAt": "2026-06-11T12:23:23.491Z"
+    "itemCount": 55,
+    "generatedAt": "2026-06-11T19:14:57.093Z"
   },
   "items": [
     {
@@ -312,6 +312,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlmdGVycy5jb20lMkZyZWFsJTJGU1RBUkZJU0guaHRtJTIzcHJlbHVkZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJpZnRlcnMuY29tJTJGcmVhbCUyRlNUQVJGSVNILmh0bSUyM3ByZWx1ZGUlN0NTdGFyZmlzaCUyMGJ5JTIwUGV0ZXIlMjBXYXR0cyUyMCgxOTk5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU1MTQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDElM0E0NSUzQTM4JTIwJTJCMDAwMA",
       "title": "Starfish by Peter Watts (1999)",
       "pubDate": "Tue, 09 Jun 2026 01:45:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFkYW1sZWRvdXgubmV0JTJGcG9zdHMlMkYyMDI2LTA2LTA4LXByb2dyYW1taW5nLWEtZ2JhLWdhbWUtb24tYW4taXBob25lLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cuYWRhbWxlZG91eC5uZXQlMkZwb3N0cyUyRjIwMjYtMDYtMDgtcHJvZ3JhbW1pbmctYS1nYmEtZ2FtZS1vbi1hbi1pcGhvbmUuaHRtbCU3Q1Byb2dyYW1taW5nJTIwYSUyMEdCQSUyMEdhbWUlMjBvbiUyMGFuJTIwaVBob25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0Njg0OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAyMiUzQTEyJTNBMjAlMjAlMkIwMDAw",
+      "title": "Programming a GBA Game on an iPhone",
+      "pubDate": "Tue, 09 Jun 2026 22:12:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVub2xhbmQlMkZjbGF3cGF0cm9sJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVub2xhbmQlMkZjbGF3cGF0cm9sJTdDU2hvdyUyMEhOJTNBJTIwQ2xhdyUyMFBhdHJvbCUyQyUyMGElMjBzZWN1cml0eSUyMGZpcmV3YWxsJTIwZm9yJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjI5MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxNiUzQTA2JTNBNTAlMjAlMkIwMDAw",
+      "title": "Show HN: Claw Patrol, a security firewall for agents",
+      "pubDate": "Tue, 09 Jun 2026 16:06:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRm1hY09TLTI3LUJldGEtQnJlYWtzLUFzYWhpJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRm1hY09TLTI3LUJldGEtQnJlYWtzLUFzYWhpJTdDbWFjT1MlMjAyNyUyMEJldGElMjBicmVha3MlMjB0aGUlMjBhYmlsaXR5JTIwdG8lMjBib290JTIwQXNhaGklMjBMaW51eCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDYyMDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTUlM0EwMSUzQTQzJTIwJTJCMDAwMA",
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "pubDate": "Tue, 09 Jun 2026 15:01:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmZXJkLmNhJTJGcXVldWVzLWRvbi10LWZpeC1vdmVybG9hZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZmZXJkLmNhJTJGcXVldWVzLWRvbi10LWZpeC1vdmVybG9hZC5odG1sJTdDUXVldWVzJTIwRG9uJ3QlMjBGaXglMjBPdmVybG9hZCUyMCgyMDE0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU2Mjc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDQlM0ExMCUzQTE5JTIwJTJCMDAwMA",
+      "title": "Queues Don't Fix Overload (2014)",
+      "pubDate": "Tue, 09 Jun 2026 04:10:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]

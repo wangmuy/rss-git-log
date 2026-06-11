@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-08",
     "newestItemDate": "2026-06-08",
-    "itemCount": 74,
-    "generatedAt": "2026-06-11T12:23:23.491Z"
+    "itemCount": 79,
+    "generatedAt": "2026-06-11T19:14:57.093Z"
   },
   "items": [
     {
@@ -450,6 +450,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhZ3JhcGhpY3NndXlub3Rlcy5jb20lMkZwb3N0cyUyRm1ha2luZ19hX3NoYWRpbmdfbGFuZ2F1Z2VfZm9yX215X29mZmxpbmVfcmVuZGVyZXIlMkYlN0NodHRwcyUzQSUyRiUyRmFncmFwaGljc2d1eW5vdGVzLmNvbSUyRnBvc3RzJTJGbWFraW5nX2Ffc2hhZGluZ19sYW5nYXVnZV9mb3JfbXlfb2ZmbGluZV9yZW5kZXJlciUyRiU3Q01ha2luZyUyMGElMjBTaGFkaW5nJTIwTGFuZ3VhZ2UlMjBmb3IlMjBNeSUyME9mZmxpbmUlMjBSZW5kZXJlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDQ0ODQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDglMjBKdW4lMjAyMDI2JTIwMTMlM0EwMyUzQTQ0JTIwJTJCMDAwMA",
       "title": "Making a Shading Language for My Offline Renderer",
       "pubDate": "Mon, 08 Jun 2026 13:03:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnZpZGVvLWdhbWVzJTJGaGFuZGhlbGQtZ2FtaW5nJTJGZGV2ZWxvcGVyLWdldHMtaGFsZi1saWZlLXJ1bm5pbmctYXQtMzAtZnBzLW9uLWEtMjAwNy1ub2tpYS1uOTUlN0NodHRwcyUzQSUyRiUyRnd3dy50b21zaGFyZHdhcmUuY29tJTJGdmlkZW8tZ2FtZXMlMkZoYW5kaGVsZC1nYW1pbmclMkZkZXZlbG9wZXItZ2V0cy1oYWxmLWxpZmUtcnVubmluZy1hdC0zMC1mcHMtb24tYS0yMDA3LW5va2lhLW45NSU3Q0RldmVsb3BlciUyMGdldHMlMjBIYWxmLUxpZmUlMjBydW5uaW5nJTIwYXQlMjAzMCUyMEZQUyUyMG9uJTIwYSUyME5va2lhJTIwTjk1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NTIwMDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAyMSUzQTAyJTNBMDElMjAlMkIwMDAw",
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "pubDate": "Mon, 08 Jun 2026 21:02:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2hpcGx5LmRldiUyRnBvc3Qtc3ZnLWxpbmUlN0NodHRwcyUzQSUyRiUyRnd3dy5jaGlwbHkuZGV2JTJGcG9zdC1zdmctbGluZSU3Q1NWRy1MaW5lJTNBJTIwQmV0dGVyJTIwU3RhdHVzJTIwQmFycyUyMGZvciUyMEVtYWNzJTIwJUUyJTgwJTkzJTIwQ2hhcmxpZSUyMEhvbGxhbmQncyUyMEJsb2clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1MTAxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDIwJTNBMDElM0E1MSUyMCUyQjAwMDA",
+      "title": "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog",
+      "pubDate": "Mon, 08 Jun 2026 20:01:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b25lZGVhci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnRvbmVkZWFyLmNvbSUyRiU3Q0VhciUyMFRyYWluaW5nJTIwUHJhY3RpY2UlMjBFeGVyY2lzZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0NzU5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDE2JTNBMzglM0EwNyUyMCUyQjAwMDA",
+      "title": "Ear Training Practice Exercises",
+      "pubDate": "Mon, 08 Jun 2026 16:38:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGaG93LXRlcnJ5LXRhby1iZWNhbWUtYW4tZXZhbmdlbGlzdC1mb3ItYWktaW4tbWF0aC0yMDI2MDYwOCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRmhvdy10ZXJyeS10YW8tYmVjYW1lLWFuLWV2YW5nZWxpc3QtZm9yLWFpLWluLW1hdGgtMjAyNjA2MDglMkYlN0NIb3clMjBUZXJyeSUyMFRhbyUyMGJlY2FtZSUyMGFuJTIwZXZhbmdlbGlzdCUyMGZvciUyMEFJJTIwaW4lMjBtYXRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NDY2NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOCUyMEp1biUyMDIwMjYlMjAxNSUzQTMwJTNBMDklMjAlMkIwMDAw",
+      "title": "How Terry Tao became an evangelist for AI in math",
+      "pubDate": "Mon, 08 Jun 2026 15:30:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VhbmdvZWRlY2tlLmNvbSUyRmRvaW5nLW5vdGhpbmctYXQtd29yayUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNlYW5nb2VkZWNrZS5jb20lMkZkb2luZy1ub3RoaW5nLWF0LXdvcmslMkYlN0NEb2luZyUyMG5vdGhpbmclMjBhdCUyMHdvcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ0Mjg4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA4JTIwSnVuJTIwMjAyNiUyMDA4JTNBNTclM0ExMSUyMCUyQjAwMDA",
+      "title": "Doing nothing at work",
+      "pubDate": "Mon, 08 Jun 2026 08:57:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-08-0.json"
     }
   ]
