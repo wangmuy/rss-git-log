@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-11",
     "newestItemDate": "2026-06-11",
-    "itemCount": 2,
-    "generatedAt": "2026-06-11T05:01:44.467Z"
+    "itemCount": 9,
+    "generatedAt": "2026-06-11T12:23:23.490Z"
   },
   "items": [
     {
@@ -18,6 +18,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMDc3MDM1JTJGYzdlN2MxNGZiZDYwZmFlOSUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTA3NzAzNSUyRmM3ZTdjMTRmYmQ2MGZhZTklMkYlN0NBSSUyMGFnZW50JTIwcnVucyUyMGFtb2slMjBpbiUyMEZlZG9yYSUyMGFuZCUyMGVsc2V3aGVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg0NTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMDAlM0ExMCUzQTA4JTIwJTJCMDAwMA",
       "title": "AI agent runs amok in Fedora and elsewhere",
       "pubDate": "Thu, 11 Jun 2026 00:10:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVjdHJlay5jbyUyRjIwMjYlMkYwNiUyRjEwJTJGYnlkLWZsYXNoLWNoYXJnaW5nLWNhbmFkYS01LW1pbnV0ZS1ldi1jaGFyZ2luZy1uZXR3b3JrJTJGJTdDaHR0cHMlM0ElMkYlMkZlbGVjdHJlay5jbyUyRjIwMjYlMkYwNiUyRjEwJTJGYnlkLWZsYXNoLWNoYXJnaW5nLWNhbmFkYS01LW1pbnV0ZS1ldi1jaGFyZ2luZy1uZXR3b3JrJTJGJTdDQllEJTIwaXMlMjBicmluZ2luZyUyMGl0cyUyMDUtbWluJTIwJ0ZsYXNoJyUyMGVsZWN0cmljJTIwY2FyJTIwY2hhcmdpbmclMjB0byUyMENhbmFkYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg5MDA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTElM0E0MSUzQTE3JTIwJTJCMDAwMA",
+      "title": "BYD is bringing its 5-min 'Flash' electric car charging to Canada",
+      "pubDate": "Thu, 11 Jun 2026 11:41:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3VycmVudGFmZmFpcnMub3JnJTJGbmV3cyUyRnRoZS11LnMuLWlzLXRlcnJvcml6aW5nLWN1YmEtdG8tbWFrZS1yaWNoLW1lbi1yaWNoZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5jdXJyZW50YWZmYWlycy5vcmclMkZuZXdzJTJGdGhlLXUucy4taXMtdGVycm9yaXppbmctY3ViYS10by1tYWtlLXJpY2gtbWVuLXJpY2hlciU3Q1RoZSUyMFUuUy4lMjBJcyUyMFRlcnJvcml6aW5nJTIwQ3ViYSUyMHRvJTIwTWFrZSUyMFJpY2glMjBNZW4lMjBSaWNoZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4ODk2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDExJTNBMzQlM0E1MyUyMCUyQjAwMDA",
+      "title": "The U.S. Is Terrorizing Cuba to Make Rich Men Richer",
+      "pubDate": "Thu, 11 Jun 2026 11:34:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMTc5Ni15JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMTc5Ni15JTdDSHVtYW4lMjBtaWdyYXRpb24lMjBoYXMlMjBzdXJnZWQlMjBzaW5jZSUyMDIwMDAlMjAlRTIlODAlOTMlMjB0aGVzZSUyMG1hcHMlMjByZXZlYWwlMjB3aGVyZSUyMHBlb3BsZSUyMGFyZSUyMGdvaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0ODg5MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxMSUzQTI2JTNBMjUlMjAlMkIwMDAw",
+      "title": "Human migration has surged since 2000 – these maps reveal where people are going",
+      "pubDate": "Thu, 11 Jun 2026 11:26:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZobW1sLmVkZG9jdS5jb20lN0NodHRwcyUzQSUyRiUyRmhtbWwuZWRkb2N1LmNvbSUyRiU3Q0hUTUwlMjBpcyUyMGElMjBuYXRpdmUlMjBpbWFnZSUyMGZvcm1hdCUyQyUyMGhlYXIlMjBtZSUyMG91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg4NTUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTAlM0EzOCUzQTI0JTIwJTJCMDAwMA",
+      "title": "HTML is a native image format, hear me out",
+      "pubDate": "Thu, 11 Jun 2026 10:38:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YWxlLnJvY2tzJTJGcG9zdHMlMkZnYW1lLWNvbnNvbGUtYnJvd3NlcnMlN0NodHRwcyUzQSUyRiUyRnZhbGUucm9ja3MlMkZwb3N0cyUyRmdhbWUtY29uc29sZS1icm93c2VycyU3Q1dlYiUyMEJyb3dzZXJzJTIwb24lMjBWaWRlbyUyMEdhbWUlMjBDb25zb2xlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg3ODk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMDglM0E0NyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Web Browsers on Video Game Consoles",
+      "pubDate": "Thu, 11 Jun 2026 08:47:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXJpbmdmaXJlYmFsbC5uZXQlMkYyMDI2JTJGMDYlMkZtYWNvc18yN19nb2xkZW5fZ2F0ZV9yZW1vdmVzX3RoZV9kdW1iX2ljb25zX2Zyb21fbWVudV9pdGVtcyU3Q2h0dHBzJTNBJTJGJTJGZGFyaW5nZmlyZWJhbGwubmV0JTJGMjAyNiUyRjA2JTJGbWFjb3NfMjdfZ29sZGVuX2dhdGVfcmVtb3Zlc190aGVfZHVtYl9pY29uc19mcm9tX21lbnVfaXRlbXMlN0NTd2VldCUyMEplZWJ1cyUyQyUyMG1hY09TJTIwMjclMjBHb2xkZW4lMjBHYXRlJTIwUmVtb3ZlcyUyMHRoZSUyMER1bWIlMjBJY29ucyUyMGZyb20lMjBNZW51JTIwSXRlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4NzQzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDA3JTNBMzUlM0ExMiUyMCUyQjAwMDA",
+      "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+      "pubDate": "Thu, 11 Jun 2026 07:35:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcm9uZXhsLmNvJTJGMjAyNiUyRjA2JTJGMDklMkZwb2tlbW9uLWdvLXNjYW5zLW5pYW50aWMtdmFudG9yLW1pbGl0YXJ5LWRyb25lLW5hdmlnYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmRyb25leGwuY28lMkYyMDI2JTJGMDYlMkYwOSUyRnBva2Vtb24tZ28tc2NhbnMtbmlhbnRpYy12YW50b3ItbWlsaXRhcnktZHJvbmUtbmF2aWdhdGlvbiUyRiU3Q1BvayVDMyVBOW1vbiUyMEdvJTIwU2NhbnMlMjBUcmFpbmVkJTIwdGhlJTIwTmF2aWdhdGlvbiUyMFRlY2glMjBmb3IlMjBNaWxpdGFyeSUyMERyb25lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg3MDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMDYlM0E0MiUzQTA2JTIwJTJCMDAwMA",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "pubDate": "Thu, 11 Jun 2026 06:42:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
     }
   ]

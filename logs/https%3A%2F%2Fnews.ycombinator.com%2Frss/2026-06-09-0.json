@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 47,
-    "generatedAt": "2026-06-11T05:01:44.468Z"
+    "itemCount": 51,
+    "generatedAt": "2026-06-11T12:23:23.491Z"
   },
   "items": [
     {
@@ -288,6 +288,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwNiUyRjA0JTJGY3NzLXVuYXZvaWRhYmxlLWJhZC1wYXJ0cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwNiUyRjA0JTJGY3NzLXVuYXZvaWRhYmxlLWJhZC1wYXJ0cy5odG1sJTdDQ1NTJTNBJTIwVW5hdm9pZGFibGUlMjBCYWQlMjBQYXJ0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU5Njc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTElM0EzMCUzQTIwJTIwJTJCMDAwMA",
       "title": "CSS: Unavoidable Bad Parts",
       "pubDate": "Tue, 09 Jun 2026 11:30:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwcm9naTIzNjk2JTJGYnVpbGQtYS1iYXNpYy1haS1hZ2VudC1mcm9tLXNjcmF0Y2gtbG9uZy10YXNrLXBsYW5uaW5nLTE0ZTgwM2Y5YmQ2ZCU3Q2h0dHBzJTNBJTJGJTJGbWVkaXVtLmNvbSUyRiU0MHJvZ2kyMzY5NiUyRmJ1aWxkLWEtYmFzaWMtYWktYWdlbnQtZnJvbS1zY3JhdGNoLWxvbmctdGFzay1wbGFubmluZy0xNGU4MDNmOWJkNmQlN0NCdWlsZCUyMGElMjBCYXNpYyUyMEFJJTIwQWdlbnQlMjBmcm9tJTIwU2NyYXRjaCUzQSUyMExvbmclMjBUYXNrJTIwUGxhbm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2MTYzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjklM0EzNCUyMCUyQjAwMDA",
+      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+      "pubDate": "Tue, 09 Jun 2026 14:29:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFjZXdheWFwcC5jb20lMkZibG9nJTJGZGVlcC1kaXZlLWludG8tdGhlLXNvdXJjZW1hcHMlN0NodHRwcyUzQSUyRiUyRnRyYWNld2F5YXBwLmNvbSUyRmJsb2clMkZkZWVwLWRpdmUtaW50by10aGUtc291cmNlbWFwcyU3Q1N5bWJvbGljYXRpbmclMjBhJTIwbWluaWZpZWQlMjBzdGFjayUyMHRyYWNlJTIwYnklMjBoYW5kJTNBJTIwd2h5JTIwc291cmNlJTIwbWFwcyUyMGNhbid0JTIwZG8lMjBpdCUyMGFsb25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjE0NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxNCUzQTE0JTNBMDQlMjAlMkIwMDAw",
+      "title": "Symbolicating a minified stack trace by hand: why source maps can't do it alone",
+      "pubDate": "Tue, 09 Jun 2026 14:14:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYXJub3kuZGV2JTJGcG9zdHMlMkZsaW51eC1sYXRlbmN5JTdDaHR0cHMlM0ElMkYlMkZmYXJub3kuZGV2JTJGcG9zdHMlMkZsaW51eC1sYXRlbmN5JTdDTGludXglMjBsYXRlbmN5JTIwbWVhc3VyZW1lbnRzJTIwYW5kJTIwY29tcG9zaXRvciUyMHR1bmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU4ODk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDklM0E1MCUzQTUwJTIwJTJCMDAwMA",
+      "title": "Linux latency measurements and compositor tuning",
+      "pubDate": "Tue, 09 Jun 2026 09:50:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlmdGVycy5jb20lMkZyZWFsJTJGU1RBUkZJU0guaHRtJTIzcHJlbHVkZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJpZnRlcnMuY29tJTJGcmVhbCUyRlNUQVJGSVNILmh0bSUyM3ByZWx1ZGUlN0NTdGFyZmlzaCUyMGJ5JTIwUGV0ZXIlMjBXYXR0cyUyMCgxOTk5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU1MTQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDElM0E0NSUzQTM4JTIwJTJCMDAwMA",
+      "title": "Starfish by Peter Watts (1999)",
+      "pubDate": "Tue, 09 Jun 2026 01:45:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]
