@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-11",
     "newestItemDate": "2026-06-11",
-    "itemCount": 34,
-    "generatedAt": "2026-06-12T05:09:22.460Z"
+    "itemCount": 36,
+    "generatedAt": "2026-06-12T18:21:01.928Z"
   },
   "items": [
     {
@@ -210,6 +210,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjcmxmLmxpbmslMkZsb2clMkZlbnRyaWVzJTJGMjYwNTI1LTElMkYlN0NodHRwcyUzQSUyRiUyRmNybGYubGluayUyRmxvZyUyRmVudHJpZXMlMkYyNjA1MjUtMSUyRiU3Q01ha2luZyUyMGElMjB2aW50YWdlJTIwTExNJTIwZnJvbSUyMHNjcmF0Y2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4NzgyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDA4JTNBMzglM0EwMCUyMCUyQjAwMDA",
       "title": "Making a vintage LLM from scratch",
       "pubDate": "Thu, 11 Jun 2026 08:38:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmpzcmFpbHRvbiUyRnN0YXR1cyUyRjIwNjQ2NjE3Nzg5Nzg1MzM1NzElN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGanNyYWlsdG9uJTJGc3RhdHVzJTJGMjA2NDY2MTc3ODk3ODUzMzU3MSU3Q01hbHdhcmUlMjBkZXZlbG9wZXJzJTIwYWRkZWQlMjBudWNsZWFyJTIwYW5kJTIwYmlvbG9naWNhbCUyMHdlYXBvbnMlMjB0ZXh0JTIwdG8lMjB0byUyMHRoZWlyJTIwc3B5d2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDk1OTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMjAlM0EyNCUzQTE4JTIwJTJCMDAwMA",
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "pubDate": "Thu, 11 Jun 2026 20:24:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFjay5jb20lMkZibG9nJTJGMjAyNiUyRjA2JTJGMTElMkZsaWZlLWJlZm9yZS1tYWluJTJGJTdDaHR0cHMlM0ElMkYlMkZncmFjay5jb20lMkZibG9nJTJGMjAyNiUyRjA2JTJGMTElMkZsaWZlLWJlZm9yZS1tYWluJTJGJTdDVGhlcmUlMjBJcyUyMExpZmUlMjBCZWZvcmUlMjBNYWluJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTM1MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxNyUzQTMyJTNBMzUlMjAlMkIwMDAw",
+      "title": "There Is Life Before Main in Rust",
+      "pubDate": "Thu, 11 Jun 2026 17:32:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
     }
   ]
