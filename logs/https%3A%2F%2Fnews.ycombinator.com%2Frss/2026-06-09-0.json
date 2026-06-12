@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 55,
-    "generatedAt": "2026-06-11T19:14:57.093Z"
+    "itemCount": 57,
+    "generatedAt": "2026-06-12T05:09:22.460Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmZXJkLmNhJTJGcXVldWVzLWRvbi10LWZpeC1vdmVybG9hZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZmZXJkLmNhJTJGcXVldWVzLWRvbi10LWZpeC1vdmVybG9hZC5odG1sJTdDUXVldWVzJTIwRG9uJ3QlMjBGaXglMjBPdmVybG9hZCUyMCgyMDE0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDU2Mjc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMDQlM0ExMCUzQTE5JTIwJTJCMDAwMA",
       "title": "Queues Don't Fix Overload (2014)",
       "pubDate": "Tue, 09 Jun 2026 04:10:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGY3VsdHVyZSUyRjIwMjYlMkZqYW4lMkYwNSUyRnJhaWRlcnMtb2YtdGhlLWxvc3QtYXJrLWhpdC12aWRlby1nYW1lLXByaW5jZS1vZi1wZXJzaWElN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZjdWx0dXJlJTJGMjAyNiUyRmphbiUyRjA1JTJGcmFpZGVycy1vZi10aGUtbG9zdC1hcmstaGl0LXZpZGVvLWdhbWUtcHJpbmNlLW9mLXBlcnNpYSU3Q0hvdyUyMHdlJTIwbWFkZSUyMGhpdCUyMHZpZGVvJTIwZ2FtZSUyMFByaW5jZSUyMG9mJTIwUGVyc2lhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0Njg4NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAyMiUzQTQ0JTNBMjglMjAlMkIwMDAw",
+      "title": "How we made hit video game Prince of Persia",
+      "pubDate": "Tue, 09 Jun 2026 22:44:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWJibGVzdGV3LmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwNiUyRmZha2luZy1rZXl3b3JkLWFyZ3VtZW50cy10by1mdW5jdGlvbnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbmliYmxlc3Rldy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDYlMkZmYWtpbmcta2V5d29yZC1hcmd1bWVudHMtdG8tZnVuY3Rpb25zLmh0bWwlN0NGYWtpbmclMjBrZXl3b3JkJTIwYXJndW1lbnRzJTIwdG8lMjBmdW5jdGlvbnMlMjBpbiUyMEMlMkIlMkIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1OTk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDEyJTNBMDUlM0ExMiUyMCUyQjAwMDA",
+      "title": "Faking keyword arguments to functions in C++",
+      "pubDate": "Tue, 09 Jun 2026 12:05:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]
