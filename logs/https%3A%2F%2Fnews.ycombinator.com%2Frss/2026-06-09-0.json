@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 61,
-    "generatedAt": "2026-06-13T10:40:53.290Z"
+    "itemCount": 64,
+    "generatedAt": "2026-06-13T17:48:24.865Z"
   },
   "items": [
     {
@@ -372,6 +372,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ6ZW5vZG8ub3JnJTJGcmVjb3JkcyUyRjIwNDkyNzY4JTdDaHR0cHMlM0ElMkYlMkZ6ZW5vZG8ub3JnJTJGcmVjb3JkcyUyRjIwNDkyNzY4JTdDRXhjZXB0aW9ucyUyMHNob3VsZCUyMG5vdCUyMGJlJTIwaGFuZGxlZCUyMCVFMiU4MCU5MyUyMHRoZXklMjBzaG91bGQlMjBiZSUyMGFnZ3JlZ2F0ZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2MTM2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDE0JTNBMDklM0EyNiUyMCUyQjAwMDA",
       "title": "Exceptions should not be handled – they should be aggregated",
       "pubDate": "Tue, 09 Jun 2026 14:09:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG91Z2h0Zm9ybXMubGlmZSUyRnRyb3BoaWMtbWVtb3J5LWRlZXItYW5kLWEtdHJ1bHktdW5pcXVlLXNjaWVudGlmaWMtb2JqZWN0JTJGJTdDaHR0cHMlM0ElMkYlMkZ0aG91Z2h0Zm9ybXMubGlmZSUyRnRyb3BoaWMtbWVtb3J5LWRlZXItYW5kLWEtdHJ1bHktdW5pcXVlLXNjaWVudGlmaWMtb2JqZWN0JTJGJTdDVHJvcGhpYyUyMG1lbW9yeSUyQyUyMGRlZXIlMkMlMjBhbmQlMjBhJTIwdW5pcXVlJTIwc2NpZW50aWZpYyUyMG9iamVjdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDY4MzUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMjElM0E1OSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Trophic memory, deer, and a unique scientific object",
+      "pubDate": "Tue, 09 Jun 2026 21:59:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmVudGZpdHpnZXJhbGQuY29tJTJGcG9zdHMlMkZhcHByZWNpYXRpbmctZXhpZiUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJlbnRmaXR6Z2VyYWxkLmNvbSUyRnBvc3RzJTJGYXBwcmVjaWF0aW5nLWV4aWYlMkYlN0NBcHByZWNpYXRpbmclMjBFeGlmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0Njc0MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAyMCUzQTQxJTNBNDQlMjAlMkIwMDAw",
+      "title": "Appreciating Exif",
+      "pubDate": "Tue, 09 Jun 2026 20:41:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9kdWxhci5jb20lMkZibG9nJTJGZGVtb2NyYXRpemluZy1haS1jb21wdXRlLXBhcnQtNS13aGF0LWFib3V0LWN1ZGEtYy1hbHRlcm5hdGl2ZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5tb2R1bGFyLmNvbSUyRmJsb2clMkZkZW1vY3JhdGl6aW5nLWFpLWNvbXB1dGUtcGFydC01LXdoYXQtYWJvdXQtY3VkYS1jLWFsdGVybmF0aXZlcyU3Q1doYXQlMjBhYm91dCUyME9wZW5DTCUyMGFuZCUyMENVREElMjBDJTJCJTJCJTIwYWx0ZXJuYXRpdmVzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjI1NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxNSUzQTQxJTNBMjElMjAlMkIwMDAw",
+      "title": "What about OpenCL and CUDA C++ alternatives?",
+      "pubDate": "Tue, 09 Jun 2026 15:41:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]

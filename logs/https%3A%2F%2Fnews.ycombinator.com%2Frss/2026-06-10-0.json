@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-10",
     "newestItemDate": "2026-06-10",
-    "itemCount": 51,
-    "generatedAt": "2026-06-13T10:40:53.290Z"
+    "itemCount": 53,
+    "generatedAt": "2026-06-13T17:48:24.865Z"
   },
   "items": [
     {
@@ -312,6 +312,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmNvbXB1dGVyLXNjaWVuY2UtZGVncmVlLWlzbnQtZGVhZCU3Q2h0dHBzJTNBJTJGJTJGc3BlY3RydW0uaWVlZS5vcmclMkZjb21wdXRlci1zY2llbmNlLWRlZ3JlZS1pc250LWRlYWQlN0NUaGUlMjBjb21wdXRlciUyMHNjaWVuY2UlMjBkZWdyZWUlMjBpc24lRTIlODAlOTl0JTIwZGVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDcwMTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTAlMjBKdW4lMjAyMDI2JTIwMDElM0EzMyUzQTQzJTIwJTJCMDAwMA",
       "title": "The computer science degree isn’t dead",
       "pubDate": "Wed, 10 Jun 2026 01:33:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXcucm9tYW4tbmFtZXMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZuZXcucm9tYW4tbmFtZXMuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSUyMGFtJTIwYnVpbGRpbmclMjBhJTIwbWFwJTIwb2YlMjBwZW9wbGUlMjB3aG8lMjBsaXZlZCUyMGluJTIwdGhlJTIwUm9tYW4lMjBFbXBpcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4MTQwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEwJTIwSnVuJTIwMjAyNiUyMDE5JTNBMjglM0E0OSUyMCUyQjAwMDA",
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "pubDate": "Wed, 10 Jun 2026 19:28:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmV3ZWd1aXlldC5jb20lMkYlMjNlY29zeXN0ZW0lN0NodHRwcyUzQSUyRiUyRmFyZXdlZ3VpeWV0LmNvbSUyRiUyM2Vjb3N5c3RlbSU3Q1RoZSUyMHN0YXRlJTIwb2YlMjBidWlsZGluZyUyMHVzZXIlMjBpbnRlcmZhY2VzJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NzkwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMCUyMEp1biUyMDIwMjYlMjAxNiUzQTQ0JTNBMjMlMjAlMkIwMDAw",
+      "title": "The state of building user interfaces in Rust",
+      "pubDate": "Wed, 10 Jun 2026 16:44:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
     }
   ]

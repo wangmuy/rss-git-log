@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-13",
     "newestItemDate": "2026-06-13",
-    "itemCount": 13,
-    "generatedAt": "2026-06-13T10:40:53.289Z"
+    "itemCount": 27,
+    "generatedAt": "2026-06-13T17:48:24.865Z"
   },
   "items": [
     {
@@ -84,6 +84,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkY2aXQuZGV2JTJGYmxvZyUyRm9uLWNwdS1waHlzaWNzLWFuZC1jcHUtY3ljbGVzLTgwNzMwJTdDaHR0cHMlM0ElMkYlMkY2aXQuZGV2JTJGYmxvZyUyRm9uLWNwdS1waHlzaWNzLWFuZC1jcHUtY3ljbGVzLTgwNzMwJTdDT24lMjBDUFUlMjBQaHlzaWNzJTIwYW5kJTIwQ1BVJTIwQ3ljbGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTMyMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAwNCUzQTM3JTNBMDglMjAlMkIwMDAw",
       "title": "On CPU Physics and CPU Cycles",
       "pubDate": "Sat, 13 Jun 2026 04:37:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZhaSUyRmFtYXpvbi1jZW9zLXRhbGtzLXdpdGgtdS1zLW9mZmljaWFscy10cmlnZ2VyZWQtY3JhY2tkb3duLW9uLWFudGhyb3BpYy1tb2RlbHMtZGNjOTA1NzglN0NodHRwcyUzQSUyRiUyRnd3dy53c2ouY29tJTJGdGVjaCUyRmFpJTJGYW1hem9uLWNlb3MtdGFsa3Mtd2l0aC11LXMtb2ZmaWNpYWxzLXRyaWdnZXJlZC1jcmFja2Rvd24tb24tYW50aHJvcGljLW1vZGVscy1kY2M5MDU3OCU3Q0FtYXpvbiUyMENFTydzJTIwVGFsa3MlMjB3aXRoJTIwVS5TLiUyME9mZmljaWFscyUyMFRyaWdnZXJlZCUyMENyYWNrZG93biUyMG9uJTIwQW50aHJvcGljJTIwTW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTkwOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxNiUzQTU3JTNBNDklMjAlMkIwMDAw",
+      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "pubDate": "Sat, 13 Jun 2026 16:57:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwNiUyRmludGVsLTgwODctYWRkZXItcmV2ZXJzZS1lbmdpbmVlcmVkLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5yaWdodG8uY29tJTJGMjAyNiUyRjA2JTJGaW50ZWwtODA4Ny1hZGRlci1yZXZlcnNlLWVuZ2luZWVyZWQuaHRtbCU3Q1RoZSUyMGFkZGVyJTIwYXQlMjB0aGUlMjBoZWFydCUyMG9mJTIwSW50ZWwncyUyMDgwODclMjBmbG9hdGluZy1wb2ludCUyMGNoaXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxOTAxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDE2JTNBNDklM0E0MiUyMCUyQjAwMDA",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "pubDate": "Sat, 13 Jun 2026 16:49:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGVwaGVuLmJvY2hpbnNraS5kZXYlMkZibG9nJTJGMjAyNiUyRjA2JTJGMTMlMkZhaS1jb2RpbmctYXQtaG9tZS13aXRob3V0LWdvaW5nLWJyb2tlJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGVwaGVuLmJvY2hpbnNraS5kZXYlMkZibG9nJTJGMjAyNiUyRjA2JTJGMTMlMkZhaS1jb2RpbmctYXQtaG9tZS13aXRob3V0LWdvaW5nLWJyb2tlJTJGJTdDQUklMjBDb2RpbmclMjBhdCUyMEhvbWUlMjBXaXRob3V0JTIwR29pbmclMjBCcm9rZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE4OTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTYlM0E0NSUzQTAzJTIwJTJCMDAwMA",
+      "title": "AI Coding at Home Without Going Broke",
+      "pubDate": "Sat, 13 Jun 2026 16:45:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWdnLmNvbSUyRnRlY2glMkZpaTl4aWJnbiU3Q2h0dHBzJTNBJTJGJTJGZGlnZy5jb20lMkZ0ZWNoJTJGaWk5eGliZ24lN0NHTE0lMjA1LjIlMjBJcyUyME91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE4Njg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTYlM0ExOCUzQTMxJTIwJTJCMDAwMA",
+      "title": "GLM 5.2 Is Out",
+      "pubDate": "Sat, 13 Jun 2026 16:18:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZia2FyYWR6aWMuZ2l0aHViLmlvJTJGcG9zdHMlMkZvcnRob2RveGMlMkIlMkIlMkYlN0NodHRwcyUzQSUyRiUyRmJrYXJhZHppYy5naXRodWIuaW8lMkZwb3N0cyUyRm9ydGhvZG94YyUyQiUyQiUyRiU3Q09ydGhvZG94JTIwQyUyQiUyQiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE3NDEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTMlM0E1OCUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Orthodox C++",
+      "pubDate": "Sat, 13 Jun 2026 13:58:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXNmb250YWluLmVzJTJGYmxvZyUyRmJhbm5pbmctbm9pc2UuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZGVzZm9udGFpbi5lcyUyRmJsb2clMkZiYW5uaW5nLW5vaXNlLmh0bWwlN0NVUyUyMGJhbnMlMjBkaWZmZXJlbnRpYWwlMjBwcml2YWN5JTIwaW4lMjBDZW5zdXMlMjBkYXRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTczNzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxMyUzQTU0JTNBNTYlMjAlMkIwMDAw",
+      "title": "US bans differential privacy in Census data",
+      "pubDate": "Sat, 13 Jun 2026 13:54:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlY29ub21pc3QuY29tJTJGc2NpZW5jZS1hbmQtdGVjaG5vbG9neSUyRjIwMjYlMkYwNiUyRjEyJTJGdHJlYXRpbmctcGFuY3JlYXRpYy10dW1vdXJzLW1heS1oYXZlLXJldmVhbGVkLWNhbmNlcnMtbWFzdGVyLXN3aXRjaCU3Q2h0dHBzJTNBJTJGJTJGZWNvbm9taXN0LmNvbSUyRnNjaWVuY2UtYW5kLXRlY2hub2xvZ3klMkYyMDI2JTJGMDYlMkYxMiUyRnRyZWF0aW5nLXBhbmNyZWF0aWMtdHVtb3Vycy1tYXktaGF2ZS1yZXZlYWxlZC1jYW5jZXJzLW1hc3Rlci1zd2l0Y2glN0NUcmVhdGluZyUyMHBhbmNyZWF0aWMlMjB0dW1vdXJzJTIwbWF5JTIwaGF2ZSUyMHJldmVhbGVkJTIwY2FuY2VyJ3MlMjBtYXN0ZXIlMjBzd2l0Y2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxNzE5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDEzJTNBMzQlM0EwMCUyMCUyQjAwMDA",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "pubDate": "Sat, 13 Jun 2026 13:34:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZscjAub3JnJTJGYmxvZyUyRnAlMkZhcmFiaWMlMkYlN0NodHRwcyUzQSUyRiUyRmxyMC5vcmclMkZibG9nJTJGcCUyRmFyYWJpYyUyRiU3Q0ludHJvZHVjdGlvbiUyMHRvJTIwdGhlJTIwZXhwZXJpZW5jZSUyMG9mJTIwcmVuZGVyaW5nJTIwQXJhYmljJTIwdHlwb2dyYXBoeSUyNml0cyUyMHRlY2huaWNhbCUyMGRlYnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxNjcxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDEyJTNBNDAlM0ExNiUyMCUyQjAwMDA",
+      "title": "Introduction to the experience of rendering Arabic typography&its technical debt",
+      "pubDate": "Sat, 13 Jun 2026 12:40:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGYW4taW50ZXJ2aWV3LXdpdGgtaW50ZWxzLWtpcmEtYm95a28lN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZhbi1pbnRlcnZpZXctd2l0aC1pbnRlbHMta2lyYS1ib3lrbyU3Q0FuJTIwSW50ZXJ2aWV3JTIwd2l0aCUyMEludGVsJ3MlMjBLaXJhJTIwQm95a28lM0ElMjBYZW9uJTIwNidzJTIwUHJvZHVjdCUyMERpcmVjdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTY1NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxMiUzQTIwJTNBMDUlMjAlMkIwMDAw",
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "pubDate": "Sat, 13 Jun 2026 12:20:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWxsdWNpbmF0ZS5zaXRlJTJGZ2FsbGVyeSU3Q2h0dHBzJTNBJTJGJTJGaGFsbHVjaW5hdGUuc2l0ZSUyRmdhbGxlcnklN0NTaG93JTIwSE4lM0ElMjAyJTIwV2Vla3MlMjBvZiUyMEhhbGx1Y2luYXRlJTIwJUUyJTgwJTkzJTIwVGhlJTIwUGhvdG8lMjBHYWxsZXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTY1MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxMiUzQTExJTNBMzUlMjAlMkIwMDAw",
+      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "pubDate": "Sat, 13 Jun 2026 12:11:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGVuc29yemVybyUyRnRlbnNvcnplcm8lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ0ZW5zb3J6ZXJvJTJGdGVuc29yemVybyU3Q0FJJTIwT1NTJTIwdG9vbCUyMHJlcG8lMjBnb2VzJTIwYXJjaGl2ZWQlMjBvdmVyJTIwbmlnaHQlMjBhZnRlciUyMHJhaXNpbmclMjAlMjQ3LjNNJTIwU2VlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE2NTA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTIlM0ExMCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "pubDate": "Sat, 13 Jun 2026 12:10:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkFyY2gtTGludXgtQVVSLU1vcmUtVGhhbi0xNTAwJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkFyY2gtTGludXgtQVVSLU1vcmUtVGhhbi0xNTAwJTdDQXJjaCUyMExpbnV4JTIwTm93JTIwQmVsaWV2ZXMlMjBNYWx3YXJlJTIwSW5jaWRlbnQlMjBVbmRlciUyMENvbnRyb2wlM0ElMjBNb3JlJTIwVGhhbiUyMDElMkM1MDAlMjBQYWNrYWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE2Mzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTElM0E1NSUzQTMwJTIwJTJCMDAwMA",
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "pubDate": "Sat, 13 Jun 2026 11:55:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b25za3kubWUlMkZibG9nJTJGZXZlcnktZnJhbWUtcGVyZmVjdCUyRiU3Q2h0dHBzJTNBJTJGJTJGdG9uc2t5Lm1lJTJGYmxvZyUyRmV2ZXJ5LWZyYW1lLXBlcmZlY3QlMkYlN0NFdmVyeSUyMEZyYW1lJTIwUGVyZmVjdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE2MjUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTElM0E0MCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Every Frame Perfect",
+      "pubDate": "Sat, 13 Jun 2026 11:40:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbWlsLm5ldCUyRmJsb2clMkZwb3N0cyUyRjIwMjYlMkZydHgtNTA4MC0lMkItcnR4LTMwOTAtc2V0dXAtODAlMkItdG9rLXMtb24tcXdlbi0zLjYtMjdiLXE4JTJGJTdDaHR0cHMlM0ElMkYlMkZpbWlsLm5ldCUyRmJsb2clMkZwb3N0cyUyRjIwMjYlMkZydHgtNTA4MC0lMkItcnR4LTMwOTAtc2V0dXAtODAlMkItdG9rLXMtb24tcXdlbi0zLjYtMjdiLXE4JTJGJTdDUlRYJTIwNTA4MCUyMGFuZCUyMFJUWCUyMDMwOTAlMjBTZXR1cCUzQSUyMDgwJTIwVG9rJTJGcyUyMG9uJTIwUXdlbiUyMDMuNiUyMDI3QiUyMFE4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTU0NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAwOSUzQTU1JTNBMzIlMjAlMkIwMDAw",
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "pubDate": "Sat, 13 Jun 2026 09:55:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
     }
   ]
