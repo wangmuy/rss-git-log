@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 57,
-    "generatedAt": "2026-06-12T05:09:22.460Z"
+    "itemCount": 59,
+    "generatedAt": "2026-06-13T04:54:51.731Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuaWJibGVzdGV3LmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwNiUyRmZha2luZy1rZXl3b3JkLWFyZ3VtZW50cy10by1mdW5jdGlvbnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbmliYmxlc3Rldy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDYlMkZmYWtpbmcta2V5d29yZC1hcmd1bWVudHMtdG8tZnVuY3Rpb25zLmh0bWwlN0NGYWtpbmclMjBrZXl3b3JkJTIwYXJndW1lbnRzJTIwdG8lMjBmdW5jdGlvbnMlMjBpbiUyMEMlMkIlMkIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ1OTk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDEyJTNBMDUlM0ExMiUyMCUyQjAwMDA",
       "title": "Faking keyword arguments to functions in C++",
       "pubDate": "Tue, 09 Jun 2026 12:05:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWN0b25pYy10eXBlc2V0dGluZy5naXRodWIuaW8lMkZlbi1VUyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjdG9uaWMtdHlwZXNldHRpbmcuZ2l0aHViLmlvJTJGZW4tVVMlMkYlN0NUZWN0b25pYyUzQSUyMEElMjBtb2Rlcm5pemVkJTJDJTIwY29tcGxldGUlMkMlMjBzZWxmLWNvbnRhaW5lZCUyMFRlWCUyRkxhVGVYJTIwZW5naW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0Njc2OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAyMSUzQTAwJTNBMzklMjAlMkIwMDAw",
+      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "pubDate": "Tue, 09 Jun 2026 21:00:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YXNpLWdmeC5kZXYlMkZibG9nJTJGcG9zdHMlMkZmdXR1cmUtb2Ytd2FzaS1nZnglMkYlN0NodHRwcyUzQSUyRiUyRndhc2ktZ2Z4LmRldiUyRmJsb2clMkZwb3N0cyUyRmZ1dHVyZS1vZi13YXNpLWdmeCUyRiU3Q1RoZSUyMEZ1dHVyZSUyMG9mJTIwd2FzaS1nZnglMjBhbmQlMjB3YXNpJTNBd2ViZ3B1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjU2MzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxOCUzQTQyJTNBNTglMjAlMkIwMDAw",
+      "title": "The Future of wasi-gfx and wasi:webgpu",
+      "pubDate": "Tue, 09 Jun 2026 18:42:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]

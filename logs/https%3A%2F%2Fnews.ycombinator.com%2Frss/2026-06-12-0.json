@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-12",
     "newestItemDate": "2026-06-12",
-    "itemCount": 35,
-    "generatedAt": "2026-06-12T18:21:01.928Z"
+    "itemCount": 46,
+    "generatedAt": "2026-06-13T04:54:51.731Z"
   },
   "items": [
     {
@@ -216,6 +216,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjb3Vyc2UuaWZpbi5uZXR3b3JrJTJGdCUyRjQwMC1hdXItcGFja2FnZXMtY29tcHJvbWlzZWQtd2l0aC1pbmZvc3RlYWxlci1hbmQtcm9vdGtpdCUyRjU3NyU3Q2h0dHBzJTNBJTJGJTJGZGlzY291cnNlLmlmaW4ubmV0d29yayUyRnQlMkY0MDAtYXVyLXBhY2thZ2VzLWNvbXByb21pc2VkLXdpdGgtaW5mb3N0ZWFsZXItYW5kLXJvb3RraXQlMkY1NzclN0NBVVIlMjBwYWNrYWdlcyUyMGNvbXByb21pc2VkJTIwd2l0aCUyMEluZm9zdGVhbGVyJTIwYW5kJTIwUm9vdGtpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTAwNDQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMDUlM0E1OSUzQTM5JTIwJTJCMDAwMA",
       "title": "AUR packages compromised with Infostealer and Rootkit",
       "pubDate": "Fri, 12 Jun 2026 05:59:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FkZ2V0cmV2aWV3LmNvbSUyRmFtZC1zdGlmZnMtcmVzZWFyY2hlci0xMDAwMC1idWctYm91bnR5LWFmdGVyLWNyaXRpY2FsLXNlY3VyaXR5LWZsYXctdGFrZXMtMTI0LWRheXMtdG8tZml4JTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2FkZ2V0cmV2aWV3LmNvbSUyRmFtZC1zdGlmZnMtcmVzZWFyY2hlci0xMDAwMC1idWctYm91bnR5LWFmdGVyLWNyaXRpY2FsLXNlY3VyaXR5LWZsYXctdGFrZXMtMTI0LWRheXMtdG8tZml4JTdDQU1EJTIwU3RpZmZzJTIwUmVzZWFyY2hlciUyMCUyNDEwayUyMEJ1ZyUyMEJvdW50eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTEwMzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMjIlM0E1NyUzQTI3JTIwJTJCMDAwMA",
+      "title": "AMD Stiffs Researcher $10k Bug Bounty",
+      "pubDate": "Fri, 12 Jun 2026 22:57:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXR0LmRheSUyRiU3Q2h0dHBzJTNBJTJGJTJGcHV0dC5kYXklMkYlN0NTaG93JTIwSE4lM0ElMjBQdXR0LmRheSUyMGElMjBkYWlseSUyMG1pbmklMjBnb2xmJTIwZ2FtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTEwMzQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMjIlM0E1NiUzQTA2JTIwJTJCMDAwMA",
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "pubDate": "Fri, 12 Jun 2026 22:56:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXB0aGZpcnN0LmNvbSUyRnJlc2VhcmNoJTJGMjEtemVyby1kYXlzLWluLWZmbXBlZyU3Q2h0dHBzJTNBJTJGJTJGZGVwdGhmaXJzdC5jb20lMkZyZXNlYXJjaCUyRjIxLXplcm8tZGF5cy1pbi1mZm1wZWclN0NUd2VudHklMjBPbmUlMjBaZXJvLURheXMlMjBpbiUyMEZGbXBlZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTEwMDQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMjIlM0ExMyUzQTI5JTIwJTJCMDAwMA",
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "pubDate": "Fri, 12 Jun 2026 22:13:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVuYXVsdGdyb3VwLmNvbSUyRmVuJTJGbWFnYXppbmUlMkZlbmVyZ3ktYW5kLXBvd2VydHJhaW5zJTJGYWxsLWFib3V0LWVsZWN0cmljLW1vdG9ycy13aXRoLW5vLXJhcmUtZWFydGhzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVuYXVsdGdyb3VwLmNvbSUyRmVuJTJGbWFnYXppbmUlMkZlbmVyZ3ktYW5kLXBvd2VydHJhaW5zJTJGYWxsLWFib3V0LWVsZWN0cmljLW1vdG9ycy13aXRoLW5vLXJhcmUtZWFydGhzJTJGJTdDUmVuYXVsdCUzQSUyMEVsZWN0cmljJTIwbW90b3JzJTIwd2l0aCUyMG5vJTIwcmFyZSUyMGVhcnRocyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTEwMDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMjIlM0EwOCUzQTAzJTIwJTJCMDAwMA",
+      "title": "Renault: Electric motors with no rare earths",
+      "pubDate": "Fri, 12 Jun 2026 22:08:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTlZJRElBJTJGU2tpbGxTcGVjdG9yJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTlZJRElBJTJGU2tpbGxTcGVjdG9yJTdDU2tpbGxTcGVjdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MDk4NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAyMSUzQTQ5JTNBNDklMjAlMkIwMDAw",
+      "title": "SkillSpector",
+      "pubDate": "Fri, 12 Jun 2026 21:49:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjdmZmNhY2U3LTlkYzAtNGU3ZS05OTEyLTg5NWFjMDczZjk3OSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkY3ZmZjYWNlNy05ZGMwLTRlN2UtOTkxMi04OTVhYzA3M2Y5NzklN0NQYWxhbnRpciUyMGxvc2VzJTIwbGVnYWwlMjBjaGFsbGVuZ2UlMjBhZ2FpbnN0JTIwU3dpc3MlMjBpbnZlc3RpZ2F0aXZlJTIwbWFnYXppbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUwOTE4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEyJTIwSnVuJTIwMjAyNiUyMDIwJTNBMzklM0EzNiUyMCUyQjAwMDA",
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "pubDate": "Fri, 12 Jun 2026 20:39:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGFuTWNJbmVybmV5JTJGYXJjaGl0ZWN0LWxvb3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZEYW5NY0luZXJuZXklMkZhcmNoaXRlY3QtbG9vcCU3QyUyRmFyY2hpdGVjdCUzQSUyMFJlZHVjZSUyMEZhYmxlJTIwdG9rZW5zJTIwYnklMjA4MCUyNSUyQyUyMEZhYmxlJTIwb3JjaGVzdHJhdGVzJTJGcmV2aWV3cyUyQyUyMENvZGV4JTIwYnVpbGRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MDkxMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAyMCUzQTMzJTNBMjIlMjAlMkIwMDAw",
+      "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+      "pubDate": "Fri, 12 Jun 2026 20:33:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3dpZnQub3JnJTJGYmxvZyUyRm1pZ3JhdGluZy10cnVldHlwZS1oaW50aW5nLXRvLXN3aWZ0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3dpZnQub3JnJTJGYmxvZyUyRm1pZ3JhdGluZy10cnVldHlwZS1oaW50aW5nLXRvLXN3aWZ0JTJGJTdDU3dpZnQlMjBhdCUyMEFwcGxlJTNBJTIwTWlncmF0aW5nJTIwdGhlJTIwVHJ1ZVR5cGUlMjBoaW50aW5nJTIwaW50ZXJwcmV0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUwODcyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEyJTIwSnVuJTIwMjAyNiUyMDE5JTNBNTQlM0EyNyUyMCUyQjAwMDA",
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "pubDate": "Fri, 12 Jun 2026 19:54:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXBlcnNwYXN0Lm5hdGxpYi5nb3Z0Lm56JTJGbmV3c3BhcGVycyUyRkRPTTE5MzYwMzA3LjIuNDMlN0NodHRwcyUzQSUyRiUyRnBhcGVyc3Bhc3QubmF0bGliLmdvdnQubnolMkZuZXdzcGFwZXJzJTJGRE9NMTkzNjAzMDcuMi40MyU3Q01vc3QlMjBCZWF1dGlmdWwlMjBXaWxsJTIwRXZlciUyME1hZGUlMjAoMTkzNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUwNzQ5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEyJTIwSnVuJTIwMjAyNiUyMDE4JTNBMTUlM0ExOSUyMCUyQjAwMDA",
+      "title": "Most Beautiful Will Ever Made (1936)",
+      "pubDate": "Fri, 12 Jun 2026 18:15:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpa3lsZS5tZSUyRmJsb2clMkYyMDI2JTJGaG93LXRvLXNldHVwLWEtbG9jYWwtY29kaW5nLWFnZW50LW9uLW1hY29zJTdDaHR0cHMlM0ElMkYlMkZpa3lsZS5tZSUyRmJsb2clMkYyMDI2JTJGaG93LXRvLXNldHVwLWEtbG9jYWwtY29kaW5nLWFnZW50LW9uLW1hY29zJTdDSG93JTIwdG8lMjBzZXR1cCUyMGElMjBsb2NhbCUyMGNvZGluZyUyMGFnZW50JTIwb24lMjBtYWNPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTA3MDIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMTclM0EzNCUzQTU1JTIwJTJCMDAwMA",
+      "title": "How to setup a local coding agent on macOS",
+      "pubDate": "Fri, 12 Jun 2026 17:34:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZ2F1ZC5jb20lMkZ0ZXh0cyUyRnBkZiU3Q2h0dHBzJTNBJTJGJTJGc2dhdWQuY29tJTJGdGV4dHMlMkZwZGYlN0NBZGFwdGl2ZSUyMFBERnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUwNjIwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEyJTIwSnVuJTIwMjAyNiUyMDE2JTNBMzIlM0E1MCUyMCUyQjAwMDA",
+      "title": "Adaptive PDFs",
+      "pubDate": "Fri, 12 Jun 2026 16:32:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
     }
   ]
