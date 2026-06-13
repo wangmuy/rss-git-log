@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-13",
     "newestItemDate": "2026-06-13",
-    "itemCount": 5,
-    "generatedAt": "2026-06-13T04:54:51.730Z"
+    "itemCount": 13,
+    "generatedAt": "2026-06-13T10:40:53.289Z"
   },
   "items": [
     {
@@ -36,6 +36,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZmYWJsZS1teXRob3MtYWNjZXNzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZmYWJsZS1teXRob3MtYWNjZXNzJTdDU3RhdGVtZW50JTIwb24lMjBVUyUyMGdvdmVybm1lbnQlMjBkaXJlY3RpdmUlMjB0byUyMHN1c3BlbmQlMjBhY2Nlc3MlMjB0byUyMEZhYmxlJTIwNSUyMGFuZCUyME15dGhvcyUyMDUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxMTA3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDAwJTNBNTElM0EzMCUyMCUyQjAwMDA",
       "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "pubDate": "Sat, 13 Jun 2026 00:51:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUGFjYS1BSSUyRnBhY2ElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZQYWNhLUFJJTJGcGFjYSU3Q1Nob3clMjBITiUzQSUyMFBhY2ElMjAlRTIlODAlOTMlMjBMaWdodHdlaWdodCUyMEppcmElMjBhbHRlcm5hdGl2ZSUyMGZvciUyMGh1bWFuLUFJJTIwY29sbGFib3JhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE1Mzg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMDklM0E0NCUzQTI1JTIwJTJCMDAwMA",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "pubDate": "Sat, 13 Jun 2026 09:44:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGYS1sb3ctY2FyYm9uLWNvbXB1dGluZy1wbGF0Zm9ybS1mcm9tLXlvdXItcmV0aXJlZC1waG9uZXMlMkYlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLmdvb2dsZSUyRmJsb2clMkZhLWxvdy1jYXJib24tY29tcHV0aW5nLXBsYXRmb3JtLWZyb20teW91ci1yZXRpcmVkLXBob25lcyUyRiU3Q0ElMjBsb3ctY2FyYm9uJTIwY29tcHV0aW5nJTIwcGxhdGZvcm0lMjBmcm9tJTIweW91ciUyMHJldGlyZWQlMjBwaG9uZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxNTMzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDA5JTNBMzglM0EzMiUyMCUyQjAwMDA",
+      "title": "A low-carbon computing platform from your retired phones",
+      "pubDate": "Sat, 13 Jun 2026 09:38:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmlzcmFlbGktZmlybS1ibGFja2NvcmUtYWxzby1zdXNwZWN0ZWQtbWVkZGxpbmctbnljLXNjb3RsYW5kLXZvdGVzLWZyZW5jaC0yMDI2LTA2LTExJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmlzcmFlbGktZmlybS1ibGFja2NvcmUtYWxzby1zdXNwZWN0ZWQtbWVkZGxpbmctbnljLXNjb3RsYW5kLXZvdGVzLWZyZW5jaC0yMDI2LTA2LTExJTJGJTdDSXNyYWVsaSUyMGZpcm0lMjBCbGFja0NvcmUlMjBzdXNwZWN0ZWQlMjBvZiUyMG1lZGRsaW5nJTIwaW4lMjBOZXclMjBZb3JrJTIwYW5kJTIwU2NvdGxhbmQlMjB2b3RlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE0NTYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMDclM0E0NSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "pubDate": "Sat, 13 Jun 2026 07:45:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmxhZGlnbmF0eWV2JTJGYnJhaW4tbWFwLXNraWxsJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmxhZGlnbmF0eWV2JTJGYnJhaW4tbWFwLXNraWxsJTdDU2hvdyUyMEhOJTNBJTIwU2tpbGwlMjBmb3IlMjB5b3VyJTIwYWdlbnQlMjB0byUyMHZpc3VhbGl6ZSUyMHlvdXIlMjBnYnJhaW4lMjBhbmQlMjBPYnNpZGlhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE0MTI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMDYlM0E0MyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
+      "pubDate": "Sat, 13 Jun 2026 06:43:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnVuaXRlZGhlcm9lcy5uZXQlMkY1NzUxJTdDaHR0cHMlM0ElMkYlMkZibG9nLnVuaXRlZGhlcm9lcy5uZXQlMkY1NzUxJTdDTGVhdmluZyUyME1vemlsbGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxMzgwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDA1JTNBNTclM0ExNCUyMCUyQjAwMDA",
+      "title": "Leaving Mozilla",
+      "pubDate": "Sat, 13 Jun 2026 05:57:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb2VudmFuZ2lsc3QubmwlMkZsYWIlMkZjbGF1ZGUtZmFibGUtc2hlcGhlcmRzLWRvZyU3Q2h0dHBzJTNBJTJGJTJGa29lbnZhbmdpbHN0Lm5sJTJGbGFiJTJGY2xhdWRlLWZhYmxlLXNoZXBoZXJkcy1kb2clN0NTaGVwaGVyZCdzJTIwRG9nJTNBJTIwQSUyMEdhbWUlMjBieSUyMHRoZSUyME1vc3QlMjBEYW5nZXJvdXMlMjBBSSUyME1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTM3MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAwNSUzQTQ0JTNBNDYlMjAlMkIwMDAw",
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "pubDate": "Sat, 13 Jun 2026 05:44:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYxMmdyYW1zb2ZjYXJib24uY29tJTJGcCUyRnRlY2gtdGhpbmdzLXRoZXJlLWlzLWEtbWFzc2l2ZS1zaGFkb3clN0NodHRwcyUzQSUyRiUyRjEyZ3JhbXNvZmNhcmJvbi5jb20lMkZwJTJGdGVjaC10aGluZ3MtdGhlcmUtaXMtYS1tYXNzaXZlLXNoYWRvdyU3Q1RoZXJlJTIwaXMlMjBhJTIwc2hhZG93JTIwaGFuZ2luZyUyMG92ZXIlMjB0aGlzJTIwRmFibGUlMjB0aGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTEzNTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMDUlM0ExNiUzQTQxJTIwJTJCMDAwMA",
+      "title": "There is a shadow hanging over this Fable thing",
+      "pubDate": "Sat, 13 Jun 2026 05:16:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY2aXQuZGV2JTJGYmxvZyUyRm9uLWNwdS1waHlzaWNzLWFuZC1jcHUtY3ljbGVzLTgwNzMwJTdDaHR0cHMlM0ElMkYlMkY2aXQuZGV2JTJGYmxvZyUyRm9uLWNwdS1waHlzaWNzLWFuZC1jcHUtY3ljbGVzLTgwNzMwJTdDT24lMjBDUFUlMjBQaHlzaWNzJTIwYW5kJTIwQ1BVJTIwQ3ljbGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTMyMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAwNCUzQTM3JTNBMDglMjAlMkIwMDAw",
+      "title": "On CPU Physics and CPU Cycles",
+      "pubDate": "Sat, 13 Jun 2026 04:37:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 59,
-    "generatedAt": "2026-06-13T04:54:51.731Z"
+    "itemCount": 61,
+    "generatedAt": "2026-06-13T10:40:53.290Z"
   },
   "items": [
     {
@@ -360,6 +360,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3YXNpLWdmeC5kZXYlMkZibG9nJTJGcG9zdHMlMkZmdXR1cmUtb2Ytd2FzaS1nZnglMkYlN0NodHRwcyUzQSUyRiUyRndhc2ktZ2Z4LmRldiUyRmJsb2clMkZwb3N0cyUyRmZ1dHVyZS1vZi13YXNpLWdmeCUyRiU3Q1RoZSUyMEZ1dHVyZSUyMG9mJTIwd2FzaS1nZnglMjBhbmQlMjB3YXNpJTNBd2ViZ3B1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjU2MzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxOCUzQTQyJTNBNTglMjAlMkIwMDAw",
       "title": "The Future of wasi-gfx and wasi:webgpu",
       "pubDate": "Tue, 09 Jun 2026 18:42:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhvdWdodGZ1bHRlY2hub2xvZ2lzdC5jb20lMkZwJTJGYXV0b21hdGluZy1teXNlbGYtb3V0LW9mLWRldmVsb3BtZW50JTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhvdWdodGZ1bHRlY2hub2xvZ2lzdC5jb20lMkZwJTJGYXV0b21hdGluZy1teXNlbGYtb3V0LW9mLWRldmVsb3BtZW50JTdDQXV0b21hdGluZyUyME15c2VsZiUyME91dCUyMG9mJTIwRGV2ZWxvcG1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2NTg5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDE4JTNBNTklM0ExOSUyMCUyQjAwMDA",
+      "title": "Automating Myself Out of Development",
+      "pubDate": "Tue, 09 Jun 2026 18:59:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZW5vZG8ub3JnJTJGcmVjb3JkcyUyRjIwNDkyNzY4JTdDaHR0cHMlM0ElMkYlMkZ6ZW5vZG8ub3JnJTJGcmVjb3JkcyUyRjIwNDkyNzY4JTdDRXhjZXB0aW9ucyUyMHNob3VsZCUyMG5vdCUyMGJlJTIwaGFuZGxlZCUyMCVFMiU4MCU5MyUyMHRoZXklMjBzaG91bGQlMjBiZSUyMGFnZ3JlZ2F0ZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ2MTM2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA5JTIwSnVuJTIwMjAyNiUyMDE0JTNBMDklM0EyNiUyMCUyQjAwMDA",
+      "title": "Exceptions should not be handled – they should be aggregated",
+      "pubDate": "Tue, 09 Jun 2026 14:09:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]

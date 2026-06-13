@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-11",
     "newestItemDate": "2026-06-11",
-    "itemCount": 37,
-    "generatedAt": "2026-06-13T04:54:51.731Z"
+    "itemCount": 40,
+    "generatedAt": "2026-06-13T10:40:53.290Z"
   },
   "items": [
     {
@@ -228,6 +228,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRmNvbmdyZXNzLWp1c3QtcnVzaGVkLXRocm91Z2gtZGlzYXN0cm91cy1jb3B5cmlnaHQtb2ZmaWNlLW92ZXJoYXVsJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRmNvbmdyZXNzLWp1c3QtcnVzaGVkLXRocm91Z2gtZGlzYXN0cm91cy1jb3B5cmlnaHQtb2ZmaWNlLW92ZXJoYXVsJTdDSC5SLiUyMDYwMjglMjB3b3VsZCUyMGZ1bmRhbWVudGFsbHklMjBjaGFuZ2UlMjB0aGUlMjBVLlMuJTIwQ29weXJpZ2h0JTIwT2ZmaWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0ODQ0OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAwMCUzQTAwJTNBNDIlMjAlMkIwMDAw",
       "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
       "pubDate": "Thu, 11 Jun 2026 00:00:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YXN0ZWNvb2tpbmcuY29tJTJGZnVkZ2V0b3duLXVzYSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGFzdGVjb29raW5nLmNvbSUyRmZ1ZGdldG93bi11c2ElMkYlN0NGdWRnZXRvd24lMkMlMjBVU0ElMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5NTA3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE5JTNBMTQlM0EyMyUyMCUyQjAwMDA",
+      "title": "Fudgetown, USA (2024)",
+      "pubDate": "Thu, 11 Jun 2026 19:14:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXRjaGVzLmpvYW8udG93biUyRnVzaW5nLWVwc29uLXBlcmZlY3Rpb24tdjM5aWktc2Nhbm5lci11YnVudHUlMkYlN0NodHRwcyUzQSUyRiUyRnBhdGNoZXMuam9hby50b3duJTJGdXNpbmctZXBzb24tcGVyZmVjdGlvbi12MzlpaS1zY2FubmVyLXVidW50dSUyRiU3Q1VzaW5nJTIwdGhlJTIwRXBzb24lMjBQZXJmZWN0aW9uJTIwVjM5JTIwSUklMjBTY2FubmVyJTIwb24lMjBVYnVudHUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4ODQ2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDEwJTNBMjMlM0E1OSUyMCUyQjAwMDA",
+      "title": "Using the Epson Perfection V39 II Scanner on Ubuntu",
+      "pubDate": "Thu, 11 Jun 2026 10:23:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwQXJjYWFyY2FuYSUyRnRoZS1leHRyYW9yZGluYXJ5LXN0b3J5LW9mLWdpcm9sYW1vLXNlZ2F0by0wM2Q4ZGFlMzA3NTglN0NodHRwcyUzQSUyRiUyRm1lZGl1bS5jb20lMkYlNDBBcmNhYXJjYW5hJTJGdGhlLWV4dHJhb3JkaW5hcnktc3Rvcnktb2YtZ2lyb2xhbW8tc2VnYXRvLTAzZDhkYWUzMDc1OCU3Q1RoZSUyMEFsY2hlbWlzdCUyMG9mJTIwRmxlc2glM0ElMjBUaGUlMjBNYW4lMjBXaG8lMjBUdXJuZWQlMjBIdW1hbnMlMjBpbnRvJTIwU3RvbmUoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4NDU1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDAwJTNBMDYlM0EzNiUyMCUyQjAwMDA",
+      "title": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
+      "pubDate": "Thu, 11 Jun 2026 00:06:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
     }
   ]
