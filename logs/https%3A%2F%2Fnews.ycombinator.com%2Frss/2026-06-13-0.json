@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-13",
     "newestItemDate": "2026-06-13",
-    "itemCount": 36,
-    "generatedAt": "2026-06-14T05:11:27.061Z"
+    "itemCount": 38,
+    "generatedAt": "2026-06-14T11:09:52.496Z"
   },
   "items": [
     {
@@ -222,6 +222,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXNmb250YWluLmVzJTJGYmxvZyUyRmJhbm5pbmctbm9pc2UuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZGVzZm9udGFpbi5lcyUyRmJsb2clMkZiYW5uaW5nLW5vaXNlLmh0bWwlN0NOb2lzZSUyMGluZnVzaW9uJTIwYmFubmVkJTIwZnJvbSUyMHN0YXRpc3RpY2FsJTIwcHJvZHVjdHMlMjBwdWJsaXNoZWQlMjBieSUyMENlbnN1cyUyMEJ1cmVhdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE3Mzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTMlM0E1NCUzQTU2JTIwJTJCMDAwMA",
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "pubDate": "Sat, 13 Jun 2026 13:54:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGVwaGVuLmJvY2hpbnNraS5kZXYlMkZibG9nJTJGMjAyNiUyRjA2JTJGMTMlMkZhaS1jb2RpbmctYXQtaG9tZS13aXRob3V0LWdvaW5nLWJyb2tlJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGVwaGVuLmJvY2hpbnNraS5kZXYlMkZibG9nJTJGMjAyNiUyRjA2JTJGMTMlMkZhaS1jb2RpbmctYXQtaG9tZS13aXRob3V0LWdvaW5nLWJyb2tlJTJGJTdDQUklMjBjb2RpbmclMjBhdCUyMGhvbWUlMjB3aXRob3V0JTIwZ29pbmclMjBicm9rZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE4OTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTYlM0E0NSUzQTAzJTIwJTJCMDAwMA",
+      "title": "AI coding at home without going broke",
+      "pubDate": "Sat, 13 Jun 2026 16:45:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZscjAub3JnJTJGYmxvZyUyRnAlMkZhcmFiaWMlMkYlN0NodHRwcyUzQSUyRiUyRmxyMC5vcmclMkZibG9nJTJGcCUyRmFyYWJpYyUyRiU3Q1RoZSUyMGV4cGVyaWVuY2UlMjBvZiUyMHJlbmRlcmluZyUyMEFyYWJpYyUyMHR5cG9ncmFwaHklMjBhbmQlMjBpdHMlMjB0ZWNobmljYWwlMjBkZWJ0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTY3MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxMiUzQTQwJTNBMTYlMjAlMkIwMDAw",
+      "title": "The experience of rendering Arabic typography and its technical debt",
+      "pubDate": "Sat, 13 Jun 2026 12:40:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
     }
   ]

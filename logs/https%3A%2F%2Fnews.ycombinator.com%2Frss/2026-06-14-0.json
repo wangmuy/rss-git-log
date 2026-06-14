@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-14",
     "newestItemDate": "2026-06-14",
-    "itemCount": 9,
-    "generatedAt": "2026-06-14T05:11:27.061Z"
+    "itemCount": 15,
+    "generatedAt": "2026-06-14T11:09:52.496Z"
   },
   "items": [
     {
@@ -59,6 +59,42 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZqdW5pcGVyc3ByaW5nLm9yZyUyRnBvc3RzJTJGaG9uZGEtZXZpbC12YWxldCUyRiU3Q2h0dHBzJTNBJTJGJTJGanVuaXBlcnNwcmluZy5vcmclMkZwb3N0cyUyRmhvbmRhLWV2aWwtdmFsZXQlMkYlN0MxMHRoJTIwR2VuJTIwSG9uZGElMjBDaXZpYyUyMFVwZGF0ZXMlMjBBcmUlMjBTaWduZWQlMjB3aXRoJTIwQU9TUCUyMFRlc3QlMjBLZXlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjMwODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNCUyMEp1biUyMDIwMjYlMjAwMCUzQTQ5JTNBNDYlMjAlMkIwMDAw",
       "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "pubDate": "Sun, 14 Jun 2026 00:49:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjUxNGJhYjg4LTc4OGMtNGQ0OC1hMTQwLTAzNTk3ODYwYmRiNiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkY1MTRiYWI4OC03ODhjLTRkNDgtYTE0MC0wMzU5Nzg2MGJkYjYlN0NVSyUyMHBvbGljZSUyMG9mZmljZXIlMjB1bmRlciUyMGNyaW1pbmFsJTIwaW52ZXN0aWdhdGlvbiUyMG92ZXIlMjBhbGxlZ2VkJTIwdXNlJTIwb2YlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTI2MDI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTQlMjBKdW4lMjAyMDI2JTIwMTAlM0E1MyUzQTEzJTIwJTJCMDAwMA",
+      "title": "UK police officer under criminal investigation over alleged use of AI",
+      "pubDate": "Sun, 14 Jun 2026 10:53:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYXJyaXQueHl6JTJGcG9zdHMlMkYyMDI2LTA1LTA2LWRvbnQtdHJ1c3QtbGFyZ2UtY29udGV4dC13aW5kb3dzJTdDaHR0cHMlM0ElMkYlMkZnYXJyaXQueHl6JTJGcG9zdHMlMkYyMDI2LTA1LTA2LWRvbnQtdHJ1c3QtbGFyZ2UtY29udGV4dC13aW5kb3dzJTdDRG9uJ3QlMjB0cnVzdCUyMGxhcmdlJTIwY29udGV4dCUyMHdpbmRvd3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyNDYyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDA2JTNBMDclM0EwOSUyMCUyQjAwMDA",
+      "title": "Don't trust large context windows",
+      "pubDate": "Sun, 14 Jun 2026 06:07:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnRyaWJibGl4Lm9yZyUyRiU3Q2h0dHAlM0ElMkYlMkZ0cmliYmxpeC5vcmclMkYlN0NUcmliYmxpeCUzQSUyMFRoZSUyMHJldHJvJTIwSWxsdW1vcyUyMGRpc3RyaWJ1dGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTI0NDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTQlMjBKdW4lMjAyMDI2JTIwMDUlM0EyMyUzQTEyJTIwJTJCMDAwMA",
+      "title": "Tribblix: The retro Illumos distribution",
+      "pubDate": "Sun, 14 Jun 2026 05:23:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaG9lbml4ZnJhbWV3b3JrLm9yZyUyRmJsb2clMkZwaG9lbml4LWxpdmV2aWV3LTEtMi1yZWxlYXNlZCU3Q2h0dHBzJTNBJTJGJTJGcGhvZW5peGZyYW1ld29yay5vcmclMkZibG9nJTJGcGhvZW5peC1saXZldmlldy0xLTItcmVsZWFzZWQlN0NQaG9lbml4JTIwTGl2ZVZpZXclMjAxLjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyNDI5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDA0JTNBNTMlM0E1MSUyMCUyQjAwMDA",
+      "title": "Phoenix LiveView 1.2",
+      "pubDate": "Sun, 14 Jun 2026 04:53:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYXJyaXQueHl6JTJGcG9zdHMlMkYyMDI2LTA2LTEzLXBhYy1tYW4tYnV0LXlvdS1yZS10aGUtZ2hvc3QlN0NodHRwcyUzQSUyRiUyRmdhcnJpdC54eXolMkZwb3N0cyUyRjIwMjYtMDYtMTMtcGFjLW1hbi1idXQteW91LXJlLXRoZS1naG9zdCU3Q1BhYy1NYW4lMkMlMjBidXQlMjB5b3UncmUlMjB0aGUlMjBnaG9zdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTI0MTM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTQlMjBKdW4lMjAyMDI2JTIwMDQlM0ExOCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Pac-Man, but you're the ghost",
+      "pubDate": "Sun, 14 Jun 2026 04:18:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdW5pcGVyc3ByaW5nLm9yZyUyRnBvc3RzJTJGaG9uZGEtZXZpbC12YWxldCUyRiU3Q2h0dHBzJTNBJTJGJTJGanVuaXBlcnNwcmluZy5vcmclMkZwb3N0cyUyRmhvbmRhLWV2aWwtdmFsZXQlMkYlN0NIb25kYSUyMENpdmljcyUyMGFuZCUyMHRoZSUyMEV2aWwlMjBWYWxldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTIzMDgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTQlMjBKdW4lMjAyMDI2JTIwMDAlM0E0OSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Honda Civics and the Evil Valet",
       "pubDate": "Sun, 14 Jun 2026 00:49:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
     }

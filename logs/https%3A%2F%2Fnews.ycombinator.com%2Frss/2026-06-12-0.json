@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-12",
     "newestItemDate": "2026-06-12",
-    "itemCount": 48,
-    "generatedAt": "2026-06-14T05:11:27.061Z"
+    "itemCount": 50,
+    "generatedAt": "2026-06-14T11:09:52.496Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb25zZW5zdXMuZGV2JTJGcCUyRjIwMjYlMkYwNiUyRjA2JTJGcHl0aG9uLTMtMTQtZ2FyYmFnZS1jb2xsZWN0aW9uLXJpZ2FtYXJvbGUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdGhlY29uc2Vuc3VzLmRldiUyRnAlMkYyMDI2JTJGMDYlMkYwNiUyRnB5dGhvbi0zLTE0LWdhcmJhZ2UtY29sbGVjdGlvbi1yaWdhbWFyb2xlLmh0bWwlN0NQeXRob24lMjAzLjE0JTIwZ2FyYmFnZSUyMGNvbGxlY3Rpb24lMjByaWdhbWFyb2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MDMwMDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAxMSUzQTU5JTNBNDAlMjAlMkIwMDAw",
       "title": "Python 3.14 garbage collection rigamarole",
       "pubDate": "Fri, 12 Jun 2026 11:59:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA1LWhpc3RvcmljLW1vbmFzdGVyaWVzLWRpZ2l0YWwtY291bnRyaWVzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnBoeXMub3JnJTJGbmV3cyUyRjIwMjYtMDUtaGlzdG9yaWMtbW9uYXN0ZXJpZXMtZGlnaXRhbC1jb3VudHJpZXMuaHRtbCU3QzUwMC15ZWFyLW9sZCUyMG1vbmFzdGVyaWVzJTIwb3V0cGVyZm9ybSUyMGF0JTIwZGlnaXRhbCUyMHRyYW5zZm9ybWF0aW9uJTIwKFUuJTIwb2YlMjBadXJpY2gpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTkzNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAwMiUzQTU4JTNBMTclMjAlMkIwMDAw",
+      "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "pubDate": "Fri, 12 Jun 2026 02:58:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmFyZXNzOTYlMkZkb2xieS1hdG1vcy1lbmNvZGVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmFyZXNzOTYlMkZkb2xieS1hdG1vcy1lbmNvZGVyJTdDUmFyZXNzOTYlMkZEb2xieS1BdG1vcy1lbmNvZGVyJTNBJTIwUG9DJTIwRG9sYnklMjBBdG1vcyUyMGVuY29kZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5ODcwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEyJTIwSnVuJTIwMjAyNiUyMDAxJTNBMjclM0EzNSUyMCUyQjAwMDA",
+      "title": "Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder",
+      "pubDate": "Fri, 12 Jun 2026 01:27:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
     }
   ]
