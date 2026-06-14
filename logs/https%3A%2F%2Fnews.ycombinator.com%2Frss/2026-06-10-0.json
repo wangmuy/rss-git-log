@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-10",
     "newestItemDate": "2026-06-10",
-    "itemCount": 55,
-    "generatedAt": "2026-06-14T11:09:52.497Z"
+    "itemCount": 57,
+    "generatedAt": "2026-06-14T17:52:19.580Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlbnRpbmd0aGVmdXR1cmUuZ2hvc3QuaW8lMkZsYXNlcndyaXRlci1zZWVkcyUyRiU3Q2h0dHBzJTNBJTJGJTJGaW52ZW50aW5ndGhlZnV0dXJlLmdob3N0LmlvJTJGbGFzZXJ3cml0ZXItc2VlZHMlMkYlN0NMYXNlcldyaXRlciUyMHNlZWRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0ODM4NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMCUyMEp1biUyMDIwMjYlMjAyMiUzQTQ3JTNBNDYlMjAlMkIwMDAw",
       "title": "LaserWriter seeds",
       "pubDate": "Wed, 10 Jun 2026 22:47:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXN5YXJ1cy5naXRodWIuaW8lMkZibG9nJTJGcG9zdHMlMkZxdWl2ZXJzLWEteWVhci1vZi1saW5lYXItYWxnZWJyYS1ieS1kcmF3aW5nLWFycm93cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZsaXN5YXJ1cy5naXRodWIuaW8lMkZibG9nJTJGcG9zdHMlMkZxdWl2ZXJzLWEteWVhci1vZi1saW5lYXItYWxnZWJyYS1ieS1kcmF3aW5nLWFycm93cy5odG1sJTdDUXVpdmVycyUzQSUyMEElMjB5ZWFyJTIwb2YlMjBsaW5lYXIlMjBhbGdlYnJhJTIwYnklMjBkcmF3aW5nJTIwYXJyb3dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NzQ5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMCUyMEp1biUyMDIwMjYlMjAxMSUzQTU3JTNBMjElMjAlMkIwMDAw",
+      "title": "Quivers: A year of linear algebra by drawing arrows",
+      "pubDate": "Wed, 10 Jun 2026 11:57:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY3JlZW4udG95cyUyRmZpcmV3b29kJTJGJTdDaHR0cHMlM0ElMkYlMkZzY3JlZW4udG95cyUyRmZpcmV3b29kJTJGJTdDRmlyZXdvb2QlMjBTcGxpdHRpbmclMjBTaW11bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ3MTYzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEwJTIwSnVuJTIwMjAyNiUyMDA1JTNBMDElM0EzMSUyMCUyQjAwMDA",
+      "title": "Firewood Splitting Simulator",
+      "pubDate": "Wed, 10 Jun 2026 05:01:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
     }
   ]

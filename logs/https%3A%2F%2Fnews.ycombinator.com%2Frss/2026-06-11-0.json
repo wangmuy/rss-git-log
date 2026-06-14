@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-11",
     "newestItemDate": "2026-06-11",
-    "itemCount": 45,
-    "generatedAt": "2026-06-14T11:09:52.496Z"
+    "itemCount": 47,
+    "generatedAt": "2026-06-14T17:52:19.580Z"
   },
   "items": [
     {
@@ -276,6 +276,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZXBsaWNhdGVkLndpa2klMkZibG9nJTJGdXJpcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZyZXBsaWNhdGVkLndpa2klMkZibG9nJTJGdXJpcy5odG1sJTdDQmVhZ2xlJTNBJTIwR2l0JTJDJTIwVVJJcyUyMGFuZCUyMGFsbCUyMHRoZSUyMGRpcnR5JTIwd29yZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ5NDEzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDE4JTNBMDUlM0E1MiUyMCUyQjAwMDA",
       "title": "Beagle: Git, URIs and all the dirty words",
       "pubDate": "Thu, 11 Jun 2026 18:05:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGdGhlLW9ubHktc2NhbGFibGUtZGVsZXRlJTdDaHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGdGhlLW9ubHktc2NhbGFibGUtZGVsZXRlJTdDVGhlJTIwb25seSUyMHNjYWxhYmxlJTIwZGVsZXRlJTIwaW4lMjBQb3N0Z3JlcyUyMGlzJTIwRFJPUCUyMFRBQkxFJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTI4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxNiUzQTQ4JTNBNDklMjAlMkIwMDAw",
+      "title": "The only scalable delete in Postgres is DROP TABLE",
+      "pubDate": "Thu, 11 Jun 2026 16:48:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRhY29kYS5kZXYlMkZsaXNwcy1pbmZsdWVuY2Utb24tcnVieS02YTU0ZjFhNzc0MGUlN0NodHRwcyUzQSUyRiUyRmJsb2cudGFjb2RhLmRldiUyRmxpc3BzLWluZmx1ZW5jZS1vbi1ydWJ5LTZhNTRmMWE3NzQwZSU3Q0xpc3AncyUyMEluZmx1ZW5jZSUyMG9uJTIwUnVieSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDkxMDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTQlM0E0MyUzQTExJTIwJTJCMDAwMA",
+      "title": "Lisp's Influence on Ruby",
+      "pubDate": "Thu, 11 Jun 2026 14:43:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
     }
   ]
