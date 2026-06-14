@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-13",
     "newestItemDate": "2026-06-13",
-    "itemCount": 27,
-    "generatedAt": "2026-06-13T17:48:24.865Z"
+    "itemCount": 36,
+    "generatedAt": "2026-06-14T05:11:27.061Z"
   },
   "items": [
     {
@@ -168,6 +168,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpbWlsLm5ldCUyRmJsb2clMkZwb3N0cyUyRjIwMjYlMkZydHgtNTA4MC0lMkItcnR4LTMwOTAtc2V0dXAtODAlMkItdG9rLXMtb24tcXdlbi0zLjYtMjdiLXE4JTJGJTdDaHR0cHMlM0ElMkYlMkZpbWlsLm5ldCUyRmJsb2clMkZwb3N0cyUyRjIwMjYlMkZydHgtNTA4MC0lMkItcnR4LTMwOTAtc2V0dXAtODAlMkItdG9rLXMtb24tcXdlbi0zLjYtMjdiLXE4JTJGJTdDUlRYJTIwNTA4MCUyMGFuZCUyMFJUWCUyMDMwOTAlMjBTZXR1cCUzQSUyMDgwJTIwVG9rJTJGcyUyMG9uJTIwUXdlbiUyMDMuNiUyMDI3QiUyMFE4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTU0NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAwOSUzQTU1JTNBMzIlMjAlMkIwMDAw",
       "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
       "pubDate": "Sat, 13 Jun 2026 09:55:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRlJlYWN0T1MtUnVubmluZy1IYWxmLUxpZmUlN0NodHRwcyUzQSUyRiUyRnd3dy5waG9yb25peC5jb20lMkZuZXdzJTJGUmVhY3RPUy1SdW5uaW5nLUhhbGYtTGlmZSU3Q1JlYWN0T1MlMjAoRk9TUyUyMCUyMldpbmRvd3MlMjIpJTIwYWNoaWV2ZXMlMjAzRC1hY2NlbGVyYXRlZCUyMEhhbGYtTGlmZSUyMG9uJTIwcmVhbCUyMGhhcmR3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjI0ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAyMyUzQTIyJTNBMDUlMjAlMkIwMDAw",
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "pubDate": "Sat, 13 Jun 2026 23:22:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3guYWMudWslMkZuZXdzJTJGMjAyNi0wNi0wOS1hbmNpZW50LWdlbm9tZS1kdXBsaWNhdGlvbnMtbGFpZC10aGUtZm91bmRhdGlvbnMtb2YtY29tcGxleC1icmFpbnMlN0NodHRwcyUzQSUyRiUyRnd3dy5veC5hYy51ayUyRm5ld3MlMkYyMDI2LTA2LTA5LWFuY2llbnQtZ2Vub21lLWR1cGxpY2F0aW9ucy1sYWlkLXRoZS1mb3VuZGF0aW9ucy1vZi1jb21wbGV4LWJyYWlucyU3Q0FuY2llbnQlMjBnZW5vbWUlMjBkdXBsaWNhdGlvbnMlMjBsYWlkJTIwdGhlJTIwZm91bmRhdGlvbnMlMjBvZiUyMGNvbXBsZXglMjBicmFpbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyMjMxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDIyJTNBNTQlM0EzNyUyMCUyQjAwMDA",
+      "title": "Ancient genome duplications laid the foundations of complex brains",
+      "pubDate": "Sat, 13 Jun 2026 22:54:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib3JyZXR0aS5tZSUyRmFydGljbGUlMkZodW1hbi1yb3V0ZXJzLW9mLW1hY2hpbmUtd29yZHMlN0NodHRwcyUzQSUyRiUyRmJvcnJldHRpLm1lJTJGYXJ0aWNsZSUyRmh1bWFuLXJvdXRlcnMtb2YtbWFjaGluZS13b3JkcyU3Q0h1bWFuJTIwUm91dGVycyUyMG9mJTIwTWFjaGluZSUyMFdvcmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjE3MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAyMSUzQTM1JTNBMjQlMjAlMkIwMDAw",
+      "title": "Human Routers of Machine Words",
+      "pubDate": "Sat, 13 Jun 2026 21:35:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnNreS5jb20lMkZzdG9yeSUyRmRlcmJ5c2hpcmUtcG9saWNlLW9mZmljZXItaW52ZXN0aWdhdGVkLWZvci11c2luZy1haS10by1jcmVhdGUtZXZpZGVuY2UtaW4tbXVsdGlwbGUtY2FzZXMtMTM1NTM2NjElN0NodHRwcyUzQSUyRiUyRm5ld3Muc2t5LmNvbSUyRnN0b3J5JTJGZGVyYnlzaGlyZS1wb2xpY2Utb2ZmaWNlci1pbnZlc3RpZ2F0ZWQtZm9yLXVzaW5nLWFpLXRvLWNyZWF0ZS1ldmlkZW5jZS1pbi1tdWx0aXBsZS1jYXNlcy0xMzU1MzY2MSU3Q1BvbGljZSUyMG9mZmljZXIlMjBpbnZlc3RpZ2F0ZWQlMjBmb3IlMjB1c2luZyUyMEFJJTIwdG8lMjAnY3JlYXRlJTIwZXZpZGVuY2UnJTIwaW4lMjBtdWx0aXBsZSUyMGNhc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjA4MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxOSUzQTU0JTNBNTUlMjAlMkIwMDAw",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "pubDate": "Sat, 13 Jun 2026 19:54:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHJpc2RldmJsb2cuY29tJTJGMjAyNiUyRjA2JTJGMDglMkZydW5uaW5nLWRvcy1vbi1iZWhyaW5nZXJzLWRkeDMyMTYtdXNpbmctYS1kaXkteDg2LWJpb3MlMkYlN0NodHRwcyUzQSUyRiUyRmNocmlzZGV2YmxvZy5jb20lMkYyMDI2JTJGMDYlMkYwOCUyRnJ1bm5pbmctZG9zLW9uLWJlaHJpbmdlcnMtZGR4MzIxNi11c2luZy1hLWRpeS14ODYtYmlvcyUyRiU3Q1J1bm5pbmclMjBET1MlMjBvbiUyMEJlaHJpbmdlcnMlMjBERFgzMjE2JTIwd2l0aCUyMGElMjBESVklMjB4ODYtQmlvcyUyMGZyb20lMjBTY3JhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjAwODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxOCUzQTMyJTNBMjIlMjAlMkIwMDAw",
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "pubDate": "Sat, 13 Jun 2026 18:32:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0Y3JmLm5ldCUyRldvcmtib3klN0NodHRwcyUzQSUyRiUyRnRjcmYubmV0JTJGV29ya2JveSU3Q0dhbWVCb3klMjBXb3JrYm95JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MTk1NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAxNyUzQTQzJTNBMDIlMjAlMkIwMDAw",
+      "title": "GameBoy Workboy",
+      "pubDate": "Sat, 13 Jun 2026 17:43:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZhaSUyRmFtYXpvbi1jZW9zLXRhbGtzLXdpdGgtdS1zLW9mZmljaWFscy10cmlnZ2VyZWQtY3JhY2tkb3duLW9uLWFudGhyb3BpYy1tb2RlbHMtZGNjOTA1NzglM0ZzdCUzRFljdDZneCUyNnJlZmxpbmslM0RkZXNrdG9wd2Vic2hhcmVfcGVybWFsaW5rJTdDaHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZhaSUyRmFtYXpvbi1jZW9zLXRhbGtzLXdpdGgtdS1zLW9mZmljaWFscy10cmlnZ2VyZWQtY3JhY2tkb3duLW9uLWFudGhyb3BpYy1tb2RlbHMtZGNjOTA1NzglM0ZzdCUzRFljdDZneCUyNnJlZmxpbmslM0RkZXNrdG9wd2Vic2hhcmVfcGVybWFsaW5rJTdDQW1hem9uJTIwQ0VPJ3MlMjB0YWxrcyUyMHdpdGglMjBVLlMuJTIwb2ZmaWNpYWxzJTIwdHJpZ2dlcmVkJTIwY3JhY2tkb3duJTIwb24lMjBBbnRocm9waWMlMjBtb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxOTA5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDE2JTNBNTclM0E0OSUyMCUyQjAwMDA",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "pubDate": "Sat, 13 Jun 2026 16:57:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmppZXRhbmclMkZzdGF0dXMlMkYyMDY1Nzg0NzUxMzQ1Mjg3MzE0JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmppZXRhbmclMkZzdGF0dXMlMkYyMDY1Nzg0NzUxMzQ1Mjg3MzE0JTdDR0xNJTIwNS4yJTIwSXMlMjBPdXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUxODY4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDE2JTNBMTglM0EzMSUyMCUyQjAwMDA",
+      "title": "GLM 5.2 Is Out",
+      "pubDate": "Sat, 13 Jun 2026 16:18:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXNmb250YWluLmVzJTJGYmxvZyUyRmJhbm5pbmctbm9pc2UuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZGVzZm9udGFpbi5lcyUyRmJsb2clMkZiYW5uaW5nLW5vaXNlLmh0bWwlN0NOb2lzZSUyMGluZnVzaW9uJTIwYmFubmVkJTIwZnJvbSUyMHN0YXRpc3RpY2FsJTIwcHJvZHVjdHMlMjBwdWJsaXNoZWQlMjBieSUyMENlbnN1cyUyMEJ1cmVhdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTE3Mzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTMlM0E1NCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "pubDate": "Sat, 13 Jun 2026 13:54:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
     }
   ]

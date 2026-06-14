@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-09",
     "newestItemDate": "2026-06-09",
-    "itemCount": 64,
-    "generatedAt": "2026-06-13T17:48:24.865Z"
+    "itemCount": 65,
+    "generatedAt": "2026-06-14T05:11:27.062Z"
   },
   "items": [
     {
@@ -390,6 +390,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9kdWxhci5jb20lMkZibG9nJTJGZGVtb2NyYXRpemluZy1haS1jb21wdXRlLXBhcnQtNS13aGF0LWFib3V0LWN1ZGEtYy1hbHRlcm5hdGl2ZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5tb2R1bGFyLmNvbSUyRmJsb2clMkZkZW1vY3JhdGl6aW5nLWFpLWNvbXB1dGUtcGFydC01LXdoYXQtYWJvdXQtY3VkYS1jLWFsdGVybmF0aXZlcyU3Q1doYXQlMjBhYm91dCUyME9wZW5DTCUyMGFuZCUyMENVREElMjBDJTJCJTJCJTIwYWx0ZXJuYXRpdmVzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0NjI1NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOSUyMEp1biUyMDIwMjYlMjAxNSUzQTQxJTNBMjElMjAlMkIwMDAw",
       "title": "What about OpenCL and CUDA C++ alternatives?",
       "pubDate": "Tue, 09 Jun 2026 15:41:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnB5b2RpZGUub3JnJTJGcG9zdHMlMkYzMTQtcmVsZWFzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5weW9kaWRlLm9yZyUyRnBvc3RzJTJGMzE0LXJlbGVhc2UlMkYlN0NQeW9kaWRlJTIwMzE0LjAlM0ElMjBQeXRob24lMjBwYWNrYWdlcyUyMGNhbiUyMG5vdyUyMHB1Ymxpc2glMjBXZWJBc3NlbWJseSUyMHdoZWVscyUyMHRvJTIwUHlQSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDYyNzU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDklMjBKdW4lMjAyMDI2JTIwMTUlM0E1NCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "pubDate": "Tue, 09 Jun 2026 15:54:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-09-0.json"
     }
   ]

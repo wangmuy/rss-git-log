@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-11",
     "newestItemDate": "2026-06-11",
-    "itemCount": 40,
-    "generatedAt": "2026-06-13T10:40:53.290Z"
+    "itemCount": 43,
+    "generatedAt": "2026-06-14T05:11:27.062Z"
   },
   "items": [
     {
@@ -246,6 +246,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwQXJjYWFyY2FuYSUyRnRoZS1leHRyYW9yZGluYXJ5LXN0b3J5LW9mLWdpcm9sYW1vLXNlZ2F0by0wM2Q4ZGFlMzA3NTglN0NodHRwcyUzQSUyRiUyRm1lZGl1bS5jb20lMkYlNDBBcmNhYXJjYW5hJTJGdGhlLWV4dHJhb3JkaW5hcnktc3Rvcnktb2YtZ2lyb2xhbW8tc2VnYXRvLTAzZDhkYWUzMDc1OCU3Q1RoZSUyMEFsY2hlbWlzdCUyMG9mJTIwRmxlc2glM0ElMjBUaGUlMjBNYW4lMjBXaG8lMjBUdXJuZWQlMjBIdW1hbnMlMjBpbnRvJTIwU3RvbmUoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4NDU1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDExJTIwSnVuJTIwMjAyNiUyMDAwJTNBMDYlM0EzNiUyMCUyQjAwMDA",
       "title": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
       "pubDate": "Thu, 11 Jun 2026 00:06:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGZm9ybSUyRmNvZGV4LWZvci1vc3MlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZmb3JtJTJGY29kZXgtZm9yLW9zcyUyRiU3Q0NvZGV4JTIwZm9yJTIwb3BlbiUyMHNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDk3MTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMjIlM0EyMCUzQTAzJTIwJTJCMDAwMA",
+      "title": "Codex for open source",
+      "pubDate": "Thu, 11 Jun 2026 22:20:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW5hbG9nQ3liZXJOdWtlJTJGUkUtVmVyc2UtMjAyNi1TbGlkZXMlMkZibG9iJTJGbWFpbiUyRlJldmVyc2UyNi5wZGYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZBbmFsb2dDeWJlck51a2UlMkZSRS1WZXJzZS0yMDI2LVNsaWRlcyUyRmJsb2IlMkZtYWluJTJGUmV2ZXJzZTI2LnBkZiU3QyhSZSUyRiUyRlZlcnNlJTIwMjAyNiklMjBUYXhvbm9teSUyMGFuZCUyMERlb2JmdXNjYXRpb24lMjBvZiUyMGElMjBSZWFsJTIwV29ybGQlMjBCaW5hcnklMjBPYmZ1c2NhdG9yJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTEzNzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxNSUzQTA2JTNBMjglMjAlMkIwMDAw",
+      "title": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
+      "pubDate": "Thu, 11 Jun 2026 15:06:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2VrY2xlYWRlciUyRkZyZWVPYmVyb24lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZrZWtjbGVhZGVyJTJGRnJlZU9iZXJvbiU3Q0ZyZWVPYmVyb24lMjAlRTIlODAlOTMlMjBPcGVuLVNvdXJjZSUyQyUyMENyb3NzLVBsYXRmb3JtJTJDJTIwRnJlZSUyMFBhc2NhbCUyRlR1cmJvJTIwUGFzY2FsLUxpa2UlMjBMYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDkwOTI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTQlM0EzNCUzQTQ2JTIwJTJCMDAwMA",
+      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "pubDate": "Thu, 11 Jun 2026 14:34:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
     }
   ]
