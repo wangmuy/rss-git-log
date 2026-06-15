@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-15",
     "newestItemDate": "2026-06-15",
-    "itemCount": 3,
-    "generatedAt": "2026-06-15T05:31:34.886Z"
+    "itemCount": 15,
+    "generatedAt": "2026-06-15T14:39:44.036Z"
   },
   "items": [
     {
@@ -24,6 +24,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFwbmljLm5ldCUyRjIwMjUlMkYxMiUyRjA4JTJGMjEteWVhcnMtYW5kLWNvdW50aW5nLW9mLWVpZ2h0LWZhbGxhY2llcy1vZi1kaXN0cmlidXRlZC1jb21wdXRpbmclMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuYXBuaWMubmV0JTJGMjAyNSUyRjEyJTJGMDglMkYyMS15ZWFycy1hbmQtY291bnRpbmctb2YtZWlnaHQtZmFsbGFjaWVzLW9mLWRpc3RyaWJ1dGVkLWNvbXB1dGluZyUyRiU3QzIxJTIweWVhcnMlMjBhbmQlMjBjb3VudGluZyUyMG9mJTIwJ2VpZ2h0JTIwZmFsbGFjaWVzJTIwb2YlMjBkaXN0cmlidXRlZCUyMGNvbXB1dGluZyclMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzNDYyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDAwJTNBMDclM0EzMiUyMCUyQjAwMDA",
       "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
       "pubDate": "Mon, 15 Jun 2026 00:07:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLmdvb2dsZS5jb20lMkZtYXBzJTJGZG9jdW1lbnRhdGlvbiUyRmVhcnRoJTJGZmxpZ2h0LXNpbXVsYXRvciU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVycy5nb29nbGUuY29tJTJGbWFwcyUyRmRvY3VtZW50YXRpb24lMkZlYXJ0aCUyRmZsaWdodC1zaW11bGF0b3IlN0NHb29nbGUlMjBGbGlnaHQlMjBTaW11bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU0MDk0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDEzJTNBMjYlM0EwOCUyMCUyQjAwMDA",
+      "title": "Google Flight Simulator",
+      "pubDate": "Mon, 15 Jun 2026 13:26:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcmFua2dwdC5jb20lN0NodHRwcyUzQSUyRiUyRmNyYW5rZ3B0LmNvbSUyRiU3Q0NyYW5rR1BUJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NDA4NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAxMyUzQTIwJTNBMTMlMjAlMkIwMDAw",
+      "title": "CrankGPT",
+      "pubDate": "Mon, 15 Jun 2026 13:20:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmFobGFkeWVyaS5naXRodWIuaW8lMkZndWlkZXMlMkZhcHBseWluZy1icmV2aXR5LWFuZC1sYW5ndWFnZS1lZmZpY2llbmN5LXRvLXByb21wdC1lbmdpbmVlcmluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZwcmFobGFkeWVyaS5naXRodWIuaW8lMkZndWlkZXMlMkZhcHBseWluZy1icmV2aXR5LWFuZC1sYW5ndWFnZS1lZmZpY2llbmN5LXRvLXByb21wdC1lbmdpbmVlcmluZy5odG1sJTdDQXBwbHlpbmclMjBCcmV2aXR5JTIwYW5kJTIwTGFuZ3VhZ2UlMjBFZmZpY2llbmN5JTIwaW4lMjBQcm9tcHQlMjBFbmdpbmVlcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTQwODEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMTMlM0ExNiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Applying Brevity and Language Efficiency in Prompt Engineering",
+      "pubDate": "Mon, 15 Jun 2026 13:16:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2FsZXNmb3JjZS5jb20lMkZuZXdzJTJGcHJlc3MtcmVsZWFzZXMlMkYyMDI2JTJGMDYlMkYxNSUyRnNhbGVzZm9yY2Utc2lnbnMtZGVmaW5pdGl2ZS1hZ3JlZW1lbnQtdG8tYWNxdWlyZS1maW4lMkYlM0ZiYyUzREhMJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2FsZXNmb3JjZS5jb20lMkZuZXdzJTJGcHJlc3MtcmVsZWFzZXMlMkYyMDI2JTJGMDYlMkYxNSUyRnNhbGVzZm9yY2Utc2lnbnMtZGVmaW5pdGl2ZS1hZ3JlZW1lbnQtdG8tYWNxdWlyZS1maW4lMkYlM0ZiYyUzREhMJTdDU2FsZXNmb3JjZSUyMHRvJTIwQWNxdWlyZSUyMEZpbiUyMChmb3JtZXJseSUyMEludGVyY29tKSUyMGZvciUyMCUyNDMuNkJOJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NDAxMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAxMiUzQTA4JTNBNTklMjAlMkIwMDAw",
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "pubDate": "Mon, 15 Jun 2026 12:08:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJhdGVjaGVyeS5jb20lMkYyMDI2JTJGYW50aHJvcGljcy1zYWZldHktc3VwZXJwb3dlciUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RyYXRlY2hlcnkuY29tJTJGMjAyNiUyRmFudGhyb3BpY3Mtc2FmZXR5LXN1cGVycG93ZXIlMkYlN0NBbnRocm9waWMncyUyMFNhZmV0eSUyMFN1cGVycG93ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzOTA3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDEwJTNBMDYlM0EzNSUyMCUyQjAwMDA",
+      "title": "Anthropic's Safety Superpower",
+      "pubDate": "Mon, 15 Jun 2026 10:06:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGhlbWFydGlhbm8lMkZsdXolN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ0aGVtYXJ0aWFubyUyRmx1eiU3Q1Nob3clMjBITiUzQSUyMEklMjB3cm90ZSUyMGElMjBDJTJCJTJCJTIwcmF5JTIwdHJhY2VyJTIwZnJvbSUyMHNjcmF0Y2glMjB3aXRob3V0JTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzODgzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDA5JTNBMzQlM0ExMCUyMCUyQjAwMDA",
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "pubDate": "Mon, 15 Jun 2026 09:34:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtcm1hcmtldC5sb2wlMkZ3aGF0LXRoZS1mdWNrLWhhcHBlbmVkLXRvLW5lcmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZtcm1hcmtldC5sb2wlMkZ3aGF0LXRoZS1mdWNrLWhhcHBlbmVkLXRvLW5lcmRzJTJGJTdDV2hhdCUyMHRoZSUyMEZ1Y2slMjBIYXBwZW5lZCUyMHRvJTIwTmVyZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzODIyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDA4JTNBMjMlM0E1MiUyMCUyQjAwMDA",
+      "title": "What the Fuck Happened to Nerds",
+      "pubDate": "Mon, 15 Jun 2026 08:23:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGb3BlbnJvdXRlciUyRmZ1c2lvbiU3Q2h0dHBzJTNBJTJGJTJGb3BlbnJvdXRlci5haSUyRm9wZW5yb3V0ZXIlMkZmdXNpb24lN0NPcGVucm91dGVyJTIwRnVzaW9uJTIwQVBJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Mzc2NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAwNyUzQTEwJTNBNTclMjAlMkIwMDAw",
+      "title": "Openrouter Fusion API",
+      "pubDate": "Mon, 15 Jun 2026 07:10:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGZGFsdXMlMkZqb2JzJTJGNUlEbUtKdC1zZW5pb3Itc29mdHdhcmUtZnJvbnRlbmQtZW5naW5lZXItZ2VybWFueS1vZmZpY2UlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZkYWx1cyUyRmpvYnMlMkY1SURtS0p0LXNlbmlvci1zb2Z0d2FyZS1mcm9udGVuZC1lbmdpbmVlci1nZXJtYW55LW9mZmljZSU3Q0RhbHVzJTIwKFlDJTIwVzI1KSUyMElzJTIwSGlyaW5nJTIwYSUyMFNlbmlvciUyMFNvZnR3YXJlJTIwRW5naW5lZXIlMjBpbiUyMEdlcm1hbnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzNzU1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDA3JTNBMDAlM0EyMiUyMCUyQjAwMDA",
+      "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
+      "pubDate": "Mon, 15 Jun 2026 07:00:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGam91cm5hbHMlMkZuZXVyb3NjaWVuY2UlMkZhcnRpY2xlcyUyRjEwLjMzODklMkZmbmlucy4yMDI2LjE4MTMyODElMkZmdWxsJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGam91cm5hbHMlMkZuZXVyb3NjaWVuY2UlMkZhcnRpY2xlcyUyRjEwLjMzODklMkZmbmlucy4yMDI2LjE4MTMyODElMkZmdWxsJTdDU3VjY2Vzc2Z1bCUyMFBzaWxvY3liaW4lMjBUcmVhdG1lbnQlMjBvZiUyMEFsemhlaW1lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTM3NTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMDYlM0E1MiUzQTIxJTIwJTJCMDAwMA",
+      "title": "Successful Psilocybin Treatment of Alzheimer",
+      "pubDate": "Mon, 15 Jun 2026 06:52:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWwuaGF4eC5zZSUyRmJsb2clMkYyMDI2JTJGMDYlMkYxNSUyRmN1cmwtc3VtbWVyLW9mLWJsaXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5pZWwuaGF4eC5zZSUyRmJsb2clMkYyMDI2JTJGMDYlMkYxNSUyRmN1cmwtc3VtbWVyLW9mLWJsaXNzJTJGJTdDQ3VybCUyMHdpbGwlMjBub3QlMjBhY2NlcHQlMjB2dWxuZXJhYmlsaXR5JTIwcmVwb3J0cyUyMGR1cmluZyUyMEp1bHklMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MzcxNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAwNiUzQTAyJTNBNTclMjAlMkIwMDAw",
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "pubDate": "Mon, 15 Jun 2026 06:02:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF0Zm9ybS5jbGF1ZGUuY29tJTJGZG9jcyUyRmVuJTJGY2xpLXNka3MtbGlicmFyaWVzJTJGbGlicmFyaWVzJTJGYXBwbGUtZm91bmRhdGlvbi1tb2RlbHMlN0NodHRwcyUzQSUyRiUyRnBsYXRmb3JtLmNsYXVkZS5jb20lMkZkb2NzJTJGZW4lMkZjbGktc2Rrcy1saWJyYXJpZXMlMkZsaWJyYXJpZXMlMkZhcHBsZS1mb3VuZGF0aW9uLW1vZGVscyU3Q0FwcGxlJTIwRm91bmRhdGlvbiUyME1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTM2Nzc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMDQlM0E1NSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Apple Foundation Models",
+      "pubDate": "Mon, 15 Jun 2026 04:55:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
     }
   ]

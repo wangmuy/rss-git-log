@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-12",
     "newestItemDate": "2026-06-12",
-    "itemCount": 52,
-    "generatedAt": "2026-06-15T05:31:34.886Z"
+    "itemCount": 55,
+    "generatedAt": "2026-06-15T14:39:44.036Z"
   },
   "items": [
     {
@@ -318,6 +318,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmZXJhbHVpLnZlcmNlbC5hcHAlMkYlMjMlMkZjYXB0Y2hhJTdDaHR0cHMlM0ElMkYlMkZmZXJhbHVpLnZlcmNlbC5hcHAlMkYlMjMlMkZjYXB0Y2hhJTdDUHJvdmUlMjB5b3UncmUlMjBodW1hbiUyMGJ5JTIwd2lubmluZyUyMGElMjBjbGF3JTIwbWFjaGluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTAzODA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMTMlM0EyMyUzQTQ4JTIwJTJCMDAwMA",
       "title": "Prove you're human by winning a claw machine",
       "pubDate": "Fri, 12 Jun 2026 13:23:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmVybmVzZXJuZXN0by5naXRodWIuaW8lMkZ3cml0ZXMlMkZwb3J0aW5nbWF0Y2htb3JwaG9zaXN0b3dhc20lMkYlN0NodHRwJTNBJTJGJTJGZXJuZXNlcm5lc3RvLmdpdGh1Yi5pbyUyRndyaXRlcyUyRnBvcnRpbmdtYXRjaG1vcnBob3Npc3Rvd2FzbSUyRiU3Q1BvcnRlZCUyMG15JTIwQyUyMGdhbWUlMjB0byUyMFdBU00lMkMlMjBoZXJlJ3MlMjBldmVyeWJ1ZyUyMHRoYXQlMjBJJTIwaGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MDY5ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAxNyUzQTMwJTNBNTclMjAlMkIwMDAw",
+      "title": "Ported my C game to WASM, here's everybug that I hit",
+      "pubDate": "Fri, 12 Jun 2026 17:30:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2hheW9uLmRldiUyRnBvc3QlMkYyMDI2JTJGMTYxJTJGYnVpbGRpbmctYS10aW55LWZ1c2UtZmlsZXN5c3RlbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNoYXlvbi5kZXYlMkZwb3N0JTJGMjAyNiUyRjE2MSUyRmJ1aWxkaW5nLWEtdGlueS1mdXNlLWZpbGVzeXN0ZW0lMkYlN0NFeHBsb3JpbmclMjBidWlsZGluZyUyMGElMjB0aW55JTIwRlVTRSUyMGZpbGVzeXN0ZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUwNjI4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEyJTIwSnVuJTIwMjAyNiUyMDE2JTNBMzglM0ExMCUyMCUyQjAwMDA",
+      "title": "Exploring building a tiny FUSE filesystem",
+      "pubDate": "Fri, 12 Jun 2026 16:38:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGWXVzdWZCNSUyRkFTQ0lMSU5FJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGWXVzdWZCNSUyRkFTQ0lMSU5FJTdDQXNjaWxpbmUlMjAlRTIlODAlOTMlMjByZWFsLXRpbWUlMjBBU0NJSSUyMHZpZGVvJTIwcmVuZGVyaW5nJTIwZW5naW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTk5OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAwNCUzQTM5JTNBNDYlMjAlMkIwMDAw",
+      "title": "Asciline – real-time ASCII video rendering engine",
+      "pubDate": "Fri, 12 Jun 2026 04:39:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
     }
   ]
