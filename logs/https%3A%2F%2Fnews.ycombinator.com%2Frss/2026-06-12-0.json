@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-12",
     "newestItemDate": "2026-06-12",
-    "itemCount": 55,
-    "generatedAt": "2026-06-15T14:39:44.036Z"
+    "itemCount": 57,
+    "generatedAt": "2026-06-15T19:57:54.376Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGWXVzdWZCNSUyRkFTQ0lMSU5FJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGWXVzdWZCNSUyRkFTQ0lMSU5FJTdDQXNjaWxpbmUlMjAlRTIlODAlOTMlMjByZWFsLXRpbWUlMjBBU0NJSSUyMHZpZGVvJTIwcmVuZGVyaW5nJTIwZW5naW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTk5OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAwNCUzQTM5JTNBNDYlMjAlMkIwMDAw",
       "title": "Asciline – real-time ASCII video rendering engine",
       "pubDate": "Fri, 12 Jun 2026 04:39:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmVybmVzZXJuZXN0by5naXRodWIuaW8lMkZ3cml0ZXMlMkZwb3J0aW5nbWF0Y2htb3JwaG9zaXN0b3dhc20lMkYlN0NodHRwJTNBJTJGJTJGZXJuZXNlcm5lc3RvLmdpdGh1Yi5pbyUyRndyaXRlcyUyRnBvcnRpbmdtYXRjaG1vcnBob3Npc3Rvd2FzbSUyRiU3Q1BvcnRlZCUyMG15JTIwQyUyMGdhbWUlMjB0byUyMFdBU00lMkMlMjBoZXJlJ3MlMjBldmVyeSUyMGJ1ZyUyMHRoYXQlMjBJJTIwaGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MDY5ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMiUyMEp1biUyMDIwMjYlMjAxNyUzQTMwJTNBNTclMjAlMkIwMDAw",
+      "title": "Ported my C game to WASM, here's every bug that I hit",
+      "pubDate": "Fri, 12 Jun 2026 17:30:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRyYWlsb2ZiaXRzLmNvbSUyRjIwMjYlMkYwNiUyRjEyJTJGZmFjdG9yaW5nLXNob3J0LXNsZWV2ZS1yc2Eta2V5cy13aXRoLXBvbHlub21pYWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnRyYWlsb2ZiaXRzLmNvbSUyRjIwMjYlMkYwNiUyRjEyJTJGZmFjdG9yaW5nLXNob3J0LXNsZWV2ZS1yc2Eta2V5cy13aXRoLXBvbHlub21pYWxzJTJGJTdDRmFjdG9yaW5nJTIwJTIyc2hvcnQtc2xlZXZlJTIyJTIwUlNBJTIwa2V5cyUyMHdpdGglMjBwb2x5bm9taWFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTAzNTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMTIlM0E1MiUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
+      "pubDate": "Fri, 12 Jun 2026 12:52:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
     }
   ]
