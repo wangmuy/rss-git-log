@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-14",
     "newestItemDate": "2026-06-14",
-    "itemCount": 37,
-    "generatedAt": "2026-06-14T17:52:19.580Z"
+    "itemCount": 44,
+    "generatedAt": "2026-06-15T05:31:34.886Z"
   },
   "items": [
     {
@@ -227,6 +227,48 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZwYXVsZ3JhaGFtLmNvbSUyRmVhcm4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGF1bGdyYWhhbS5jb20lMkZlYXJuLmh0bWwlN0NIb3clMjB0byUyMEVhcm4lMjBhJTIwQmlsbGlvbiUyMERvbGxhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyNjM2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDExJTNBNTAlM0E0OCUyMCUyQjAwMDA",
       "title": "How to Earn a Billion Dollars",
+      "pubDate": "Sun, 14 Jun 2026 11:50:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZWtsZWluLm5ldCUyRnlvdXItZXB1Yi1pcy1maW5lLWtvYm8tZGlzYWdyZWVzLWJsYW1lLWFkb2JlJTJGJTdDaHR0cHMlM0ElMkYlMkZhbmRyZWtsZWluLm5ldCUyRnlvdXItZXB1Yi1pcy1maW5lLWtvYm8tZGlzYWdyZWVzLWJsYW1lLWFkb2JlJTJGJTdDWW91ciUyMGVQdWIlMjBJcyUyMGZpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzMzg0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDIyJTNBNTQlM0E1NSUyMCUyQjAwMDA",
+      "title": "Your ePub Is fine",
+      "pubDate": "Sun, 14 Jun 2026 22:54:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2luZG93c2NlbnRyYWwuY29tJTJGbWljcm9zb2Z0JTJGd2luZG93cy0xMSUyRndpbmRvd3MtMTEtdXNlcnMtYXJlLXRpcmVkLW9mLW1pY3Jvc29mdC1hY2NvdW50LXJlcXVpcmVtZW50cy1hbmQtd29ya2Fyb3VuZHMlN0NodHRwcyUzQSUyRiUyRnd3dy53aW5kb3dzY2VudHJhbC5jb20lMkZtaWNyb3NvZnQlMkZ3aW5kb3dzLTExJTJGd2luZG93cy0xMS11c2Vycy1hcmUtdGlyZWQtb2YtbWljcm9zb2Z0LWFjY291bnQtcmVxdWlyZW1lbnRzLWFuZC13b3JrYXJvdW5kcyU3Q1dpbmRvd3MlMjAxMSUyMHVzZXJzJTIwYXJlJTIwdGlyZWQlMjBvZiUyME1TJTIwYWNjb3VudCUyMHJlcXVpcmVtZW50cyUyMGNyZWVwaW5nJTIwaW50byUyMGV2ZXJ5dGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzMzEwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDIxJTNBNDIlM0ExMiUyMCUyQjAwMDA",
+      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+      "pubDate": "Sun, 14 Jun 2026 21:42:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dW1ibGV3ZWVkLm51JTJGciUyRmxtLTMlMkZ1diUyRmFtYmVyLmh0bWwlN0NodHRwcyUzQSUyRiUyRnR1bWJsZXdlZWQubnUlMkZyJTJGbG0tMyUyRnV2JTJGYW1iZXIuaHRtbCU3Q0NoYW9zbmV0JTIwKDE5ODEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MzE0NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNCUyMEp1biUyMDIwMjYlMjAxOSUzQTE0JTNBMjElMjAlMkIwMDAw",
+      "title": "Chaosnet (1981)",
+      "pubDate": "Sun, 14 Jun 2026 19:14:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3JhbmdlY3J1bWJzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9yYW5nZWNydW1icy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBEaXNjb3ZlciUyMFdpa2lwZWRpYSUyMGFydGljbGVzJTIwcG9wdWxhciUyMG9uJTIwSGFja2VyJTIwTmV3cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTMwMzgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTQlMjBKdW4lMjAyMDI2JTIwMTclM0E1NCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+      "pubDate": "Sun, 14 Jun 2026 17:54:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3MueWFsZS5lZHUlMkZob21lcyUyRnBlcmxpcy1hbGFuJTJGcXVvdGVzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5jcy55YWxlLmVkdSUyRmhvbWVzJTJGcGVybGlzLWFsYW4lMkZxdW90ZXMuaHRtbCU3Q1Blcmxpc2lzbXMlMjAoMTk4MiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyNzgyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDE0JTNBNTYlM0E1NiUyMCUyQjAwMDA",
+      "title": "Perlisisms (1982)",
+      "pubDate": "Sun, 14 Jun 2026 14:56:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGZm9ybWFsLW1ldGhvZHMtYXQtamFuZS1zdHJlZXQtaW5kZXglMkYlM0Zmcm9tX3RoZWNvbnNlbnN1cyUzRDElN0NodHRwcyUzQSUyRiUyRmJsb2cuamFuZXN0cmVldC5jb20lMkZmb3JtYWwtbWV0aG9kcy1hdC1qYW5lLXN0cmVldC1pbmRleCUyRiUzRmZyb21fdGhlY29uc2Vuc3VzJTNEMSU3Q0Zvcm1hbCUyMG1ldGhvZHMlMjBhbmQlMjB0aGUlMjBmdXR1cmUlMjBvZiUyMHByb2dyYW1taW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjY2MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNCUyMEp1biUyMDIwMjYlMjAxMiUzQTM1JTNBMjclMjAlMkIwMDAw",
+      "title": "Formal methods and the future of programming",
+      "pubDate": "Sun, 14 Jun 2026 12:35:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXVsZ3JhaGFtLmNvbSUyRmVhcm4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGF1bGdyYWhhbS5jb20lMkZlYXJuLmh0bWwlN0NIb3clMjB0byUyMGVhcm4lMjBhJTIwYmlsbGlvbiUyMGRvbGxhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyNjM2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDExJTNBNTAlM0E0OCUyMCUyQjAwMDA",
+      "title": "How to earn a billion dollars",
       "pubDate": "Sun, 14 Jun 2026 11:50:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
     }

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-10",
     "newestItemDate": "2026-06-10",
-    "itemCount": 57,
-    "generatedAt": "2026-06-14T17:52:19.580Z"
+    "itemCount": 59,
+    "generatedAt": "2026-06-15T05:31:34.887Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzY3JlZW4udG95cyUyRmZpcmV3b29kJTJGJTdDaHR0cHMlM0ElMkYlMkZzY3JlZW4udG95cyUyRmZpcmV3b29kJTJGJTdDRmlyZXdvb2QlMjBTcGxpdHRpbmclMjBTaW11bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ3MTYzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEwJTIwSnVuJTIwMjAyNiUyMDA1JTNBMDElM0EzMSUyMCUyQjAwMDA",
       "title": "Firewood Splitting Simulator",
       "pubDate": "Wed, 10 Jun 2026 05:01:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYweGtydDI2LmdpdGh1Yi5pbyUyRm1hdGhfYmVoaW5kX3NlY3VyaXR5JTJGMjAyNiUyRjA2JTJGMDklMkZ0aGUtc3Rvcnktb2YtdGhlLWhhc2gtZnVuY3Rpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGMHhrcnQyNi5naXRodWIuaW8lMkZtYXRoX2JlaGluZF9zZWN1cml0eSUyRjIwMjYlMkYwNiUyRjA5JTJGdGhlLXN0b3J5LW9mLXRoZS1oYXNoLWZ1bmN0aW9uLmh0bWwlN0NDaG9wcGVkJTJDJTIwU3RvcmVkJTJDJTIwU2VjdXJlZCUyMCVFMiU4MCU5MyUyMFRoZSUyMFN0b3J5JTIwb2YlMjB0aGUlMjBIYXNoJTIwRnVuY3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ4Mjk1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEwJTIwSnVuJTIwMjAyNiUyMDIxJTNBMjclM0ExMCUyMCUyQjAwMDA",
+      "title": "Chopped, Stored, Secured – The Story of the Hash Function",
+      "pubDate": "Wed, 10 Jun 2026 21:27:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWV0YS1weXRvcmNoJTJGdG9yY2hjb2RlYyUyRnJlbGVhc2VzJTJGdGFnJTJGdjAuMTQuMCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1ldGEtcHl0b3JjaCUyRnRvcmNoY29kZWMlMkZyZWxlYXNlcyUyRnRhZyUyRnYwLjE0LjAlN0NUb3JjaENvZGVjJTIwMC4xNCUzQSUyMEhEUiUyMFZpZGVvJTIwRGVjb2RpbmclMjBmb3IlMjBDUFUlMjBhbmQlMjBDVURBJTJDJTIwYW5kJTIwRmFzdCUyMFdhdiUyMERlY29kZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODQ3NjUzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEwJTIwSnVuJTIwMjAyNiUyMDE0JTNBMDglM0EzNiUyMCUyQjAwMDA",
+      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+      "pubDate": "Wed, 10 Jun 2026 14:08:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-10-0.json"
     }
   ]

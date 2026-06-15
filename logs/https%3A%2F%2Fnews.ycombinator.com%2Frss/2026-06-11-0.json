@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-11",
     "newestItemDate": "2026-06-11",
-    "itemCount": 47,
-    "generatedAt": "2026-06-14T17:52:19.580Z"
+    "itemCount": 51,
+    "generatedAt": "2026-06-15T05:31:34.886Z"
   },
   "items": [
     {
@@ -288,6 +288,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRhY29kYS5kZXYlMkZsaXNwcy1pbmZsdWVuY2Utb24tcnVieS02YTU0ZjFhNzc0MGUlN0NodHRwcyUzQSUyRiUyRmJsb2cudGFjb2RhLmRldiUyRmxpc3BzLWluZmx1ZW5jZS1vbi1ydWJ5LTZhNTRmMWE3NzQwZSU3Q0xpc3AncyUyMEluZmx1ZW5jZSUyMG9uJTIwUnVieSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDkxMDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTQlM0E0MyUzQTExJTIwJTJCMDAwMA",
       "title": "Lisp's Influence on Ruby",
       "pubDate": "Thu, 11 Jun 2026 14:43:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaXRzeS5vcmclMkYlN0NodHRwcyUzQSUyRiUyRmJpdHN5Lm9yZyUyRiU3Q0JpdHN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0OTYyOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAyMCUzQTU2JTNBMzAlMjAlMkIwMDAw",
+      "title": "Bitsy",
+      "pubDate": "Thu, 11 Jun 2026 20:56:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmVzbHVuYS5vcmclMkZzZWdtZW50ZWQtdHlwZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJlc2x1bmEub3JnJTJGc2VnbWVudGVkLXR5cGUlMkYlN0NTZWdtZW50ZWQlMjB0eXBlJTIwYXBwcmVjaWF0aW9uJTIwY29ybmVyJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0ODk2MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAxMiUzQTUwJTNBMjklMjAlMkIwMDAw",
+      "title": "Segmented type appreciation corner (2018)",
+      "pubDate": "Thu, 11 Jun 2026 12:50:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXB0aXYuY29tJTJGZW4lMkZpbnNpZ2h0cyUyRmFydGljbGUlMkZ1c2ItcG93ZXItZGVsaXZlcnktcGx1Z2dpbmctaW50by10aGUtYmVuZWZpdHMlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHRpdi5jb20lMkZlbiUyRmluc2lnaHRzJTJGYXJ0aWNsZSUyRnVzYi1wb3dlci1kZWxpdmVyeS1wbHVnZ2luZy1pbnRvLXRoZS1iZW5lZml0cyU3Q1VTQiUyMFBvd2VyJTIwRGVsaXZlcnklM0ElMjBQbHVnZ2luZyUyMGludG8lMjB0aGUlMjBCZW5lZml0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NDg5MzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTElMjBKdW4lMjAyMDI2JTIwMTIlM0ExNSUzQTIyJTIwJTJCMDAwMA",
+      "title": "USB Power Delivery: Plugging into the Benefits",
+      "pubDate": "Thu, 11 Jun 2026 12:15:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFya2hvcnJlbGwuY29tJTJGYmxvZyUyRjIwMTIlMkZhLXNob3J0LWhpc3Rvcnktb2YtY2Vycm8tdG9ycmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5tYXJraG9ycmVsbC5jb20lMkZibG9nJTJGMjAxMiUyRmEtc2hvcnQtaGlzdG9yeS1vZi1jZXJyby10b3JyZSUyRiU3Q0ElMjBzaG9ydCUyMGhpc3RvcnklMjBvZiUyMENlcnJvJTIwVG9ycmUlMkMlMjB0aGUlMjBtb3N0JTIwY29udHJvdmVyc2lhbCUyMG1vdW50YWluJTIwKDIwMTIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg0ODQ3MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMSUyMEp1biUyMDIwMjYlMjAwMCUzQTI1JTNBMDUlMjAlMkIwMDAw",
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "pubDate": "Thu, 11 Jun 2026 00:25:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-11-0.json"
     }
   ]
