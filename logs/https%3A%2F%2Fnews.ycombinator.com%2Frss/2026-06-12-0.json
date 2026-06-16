@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-12",
     "newestItemDate": "2026-06-12",
-    "itemCount": 58,
-    "generatedAt": "2026-06-16T05:38:11.004Z"
+    "itemCount": 59,
+    "generatedAt": "2026-06-16T19:52:26.403Z"
   },
   "items": [
     {
@@ -354,6 +354,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZicnVjZWVkaWdlci5jb20lMkZwb3N0cyUyRmhvbmV5cG90LWRlc2lnbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJ1Y2VlZGlnZXIuY29tJTJGcG9zdHMlMkZob25leXBvdC1kZXNpZ24lMkYlN0NIb25leXBvdCUyMERlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTA4MDY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMTglM0E1NiUzQTQyJTIwJTJCMDAwMA",
       "title": "Honeypot Design",
       "pubDate": "Fri, 12 Jun 2026 18:56:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWNtLmFjbS5vcmclMkZuZXdzJTJGY29vbGluZy1hdC10aGUtc3BlZWQtb2YtbGlnaHQlMkYlN0NodHRwcyUzQSUyRiUyRmNhY20uYWNtLm9yZyUyRm5ld3MlMkZjb29saW5nLWF0LXRoZS1zcGVlZC1vZi1saWdodCUyRiU3Q0Nvb2xpbmclMjBhdCUyMHRoZSUyMFNwZWVkJTIwb2YlMjBMaWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTEwMzc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTIlMjBKdW4lMjAyMDI2JTIwMjIlM0E1OSUzQTI4JTIwJTJCMDAwMA",
+      "title": "Cooling at the Speed of Light",
+      "pubDate": "Fri, 12 Jun 2026 22:59:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-12-0.json"
     }
   ]
