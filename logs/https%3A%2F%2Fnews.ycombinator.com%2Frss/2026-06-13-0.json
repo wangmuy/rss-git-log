@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-13",
     "newestItemDate": "2026-06-13",
-    "itemCount": 41,
-    "generatedAt": "2026-06-15T05:31:34.886Z"
+    "itemCount": 42,
+    "generatedAt": "2026-06-16T05:38:11.003Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGcHJvZ3JhbW1lcyUyRnczY3Q4azcwJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGcHJvZ3JhbW1lcyUyRnczY3Q4azcwJTdDV2h5JTIwZG9lcyUyMHBhcGVyJTIwZm9sZCUyMHNvJTIwd2VsbCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTIwNTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTMlMjBKdW4lMjAyMDI2JTIwMTklM0EzMSUzQTU0JTIwJTJCMDAwMA",
       "title": "Why does paper fold so well?",
       "pubDate": "Sat, 13 Jun 2026 19:31:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpvaG5ub3Zhay5uZXQlMkYyMDE2JTJGMDklMkYyMSUyRndoYXQtZXZlcnktY29kZXItc2hvdWxkLWtub3ctYWJvdXQtZ2FtbWElMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuam9obm5vdmFrLm5ldCUyRjIwMTYlMkYwOSUyRjIxJTJGd2hhdC1ldmVyeS1jb2Rlci1zaG91bGQta25vdy1hYm91dC1nYW1tYSUyRiU3Q1doYXQlMjBldmVyeSUyMGNvZGVyJTIwc2hvdWxkJTIwa25vdyUyMGFib3V0JTIwZ2FtbWElMjAoMjAxNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyMTkyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDIyJTNBMDElM0EyOSUyMCUyQjAwMDA",
+      "title": "What every coder should know about gamma (2016)",
+      "pubDate": "Sat, 13 Jun 2026 22:01:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
     }
   ]
