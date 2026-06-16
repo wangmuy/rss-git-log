@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-13",
     "newestItemDate": "2026-06-13",
-    "itemCount": 42,
-    "generatedAt": "2026-06-16T05:38:11.003Z"
+    "itemCount": 44,
+    "generatedAt": "2026-06-16T13:06:56.330Z"
   },
   "items": [
     {
@@ -258,6 +258,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpvaG5ub3Zhay5uZXQlMkYyMDE2JTJGMDklMkYyMSUyRndoYXQtZXZlcnktY29kZXItc2hvdWxkLWtub3ctYWJvdXQtZ2FtbWElMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuam9obm5vdmFrLm5ldCUyRjIwMTYlMkYwOSUyRjIxJTJGd2hhdC1ldmVyeS1jb2Rlci1zaG91bGQta25vdy1hYm91dC1nYW1tYSUyRiU3Q1doYXQlMjBldmVyeSUyMGNvZGVyJTIwc2hvdWxkJTIwa25vdyUyMGFib3V0JTIwZ2FtbWElMjAoMjAxNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyMTkyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDIyJTNBMDElM0EyOSUyMCUyQjAwMDA",
       "title": "What every coder should know about gamma (2016)",
       "pubDate": "Sat, 13 Jun 2026 22:01:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdoYWNrLmNvbSUyRnBvc3QlMkZnZXR0aW5nLWNyZWF0aXZlLXdpdGgtcGVybGluLW5vaXNlLWZpZWxkcyU3Q2h0dHBzJTNBJTJGJTJGc2lnaGFjay5jb20lMkZwb3N0JTJGZ2V0dGluZy1jcmVhdGl2ZS13aXRoLXBlcmxpbi1ub2lzZS1maWVsZHMlN0NHZXR0aW5nJTIwQ3JlYXRpdmUlMjB3aXRoJTIwUGVybGluJTIwTm9pc2UlMjBGaWVsZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUyMjMxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEzJTIwSnVuJTIwMjAyNiUyMDIyJTNBNTUlM0EzOSUyMCUyQjAwMDA",
+      "title": "Getting Creative with Perlin Noise Fields",
+      "pubDate": "Sat, 13 Jun 2026 22:55:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb21lbnRzLW9mLW5vdy5jb20lMkZoYW5zLXNjaHVsei10aGUtZmF0aGVyLW9mLXRoZS12ZWYtbWlub3gtcmlnYS1sZW5zJTJGJTdDaHR0cHMlM0ElMkYlMkZtb21lbnRzLW9mLW5vdy5jb20lMkZoYW5zLXNjaHVsei10aGUtZmF0aGVyLW9mLXRoZS12ZWYtbWlub3gtcmlnYS1sZW5zJTJGJTdDSGFucyUyMFNjaHVseiUyMCVFMiU4MCU5MyUyMFRoZSUyMGZhdGhlciUyMG9mJTIwdGhlJTIwVkVGJTIwTWlub3glMjBsZW5zJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjIyMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMyUyMEp1biUyMDIwMjYlMjAyMiUzQTQzJTNBMDYlMjAlMkIwMDAw",
+      "title": "Hans Schulz – The father of the VEF Minox lens?",
+      "pubDate": "Sat, 13 Jun 2026 22:43:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-13-0.json"
     }
   ]
