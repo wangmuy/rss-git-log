@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-16",
     "newestItemDate": "2026-06-16",
-    "itemCount": 45,
-    "generatedAt": "2026-06-17T05:19:48.322Z"
+    "itemCount": 46,
+    "generatedAt": "2026-06-17T12:31:59.998Z"
   },
   "items": [
     {
@@ -276,6 +276,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwYXJrc2IuZ2l0aHViLmlvJTJGZW4lMkZhcnRpY2xlJTJGMzIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGFya3NiLmdpdGh1Yi5pbyUyRmVuJTJGYXJ0aWNsZSUyRjMyLmh0bWwlN0NCdXQlMjB5YWslMjBzaGF2aW5nJTIwaXMlMjBmdW4lMjAoMjAxOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1NTgzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjYlM0EyNiUyMCUyQjAwMDA",
       "title": "But yak shaving is fun (2019)",
       "pubDate": "Tue, 16 Jun 2026 14:26:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20lMkYyMDI2JTJGMDYlMkZsYXVuY2hpbmctdmVyc2lvbi0xNS1vZi13b2xmcmFtLWxhbmd1YWdlLW1hdGhlbWF0aWNhLWJ1aWx0LWluLXVzZWZ1bC1haS1sb3RzLW9mLW5ldy1jb3JlLWZ1bmN0aW9uYWxpdHklMkYlN0NodHRwcyUzQSUyRiUyRndyaXRpbmdzLnN0ZXBoZW53b2xmcmFtLmNvbSUyRjIwMjYlMkYwNiUyRmxhdW5jaGluZy12ZXJzaW9uLTE1LW9mLXdvbGZyYW0tbGFuZ3VhZ2UtbWF0aGVtYXRpY2EtYnVpbHQtaW4tdXNlZnVsLWFpLWxvdHMtb2YtbmV3LWNvcmUtZnVuY3Rpb25hbGl0eSUyRiU3Q1dvbGZyYW0lMjBMYW5ndWFnZSUyMGFuZCUyME1hdGhlbWF0aWNhJTIwdmVyc2lvbiUyMDE1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjM2MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNiUyMEp1biUyMDIwMjYlMjAyMyUzQTE1JTNBNDQlMjAlMkIwMDAw",
+      "title": "Wolfram Language and Mathematica version 15",
+      "pubDate": "Tue, 16 Jun 2026 23:15:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
     }
   ]

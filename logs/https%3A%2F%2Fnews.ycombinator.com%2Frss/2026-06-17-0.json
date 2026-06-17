@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-17",
     "newestItemDate": "2026-06-17",
-    "itemCount": 3,
-    "generatedAt": "2026-06-17T05:19:48.322Z"
+    "itemCount": 13,
+    "generatedAt": "2026-06-17T12:31:59.998Z"
   },
   "items": [
     {
@@ -24,6 +24,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGV4ZXJ0by5jb20lMkZnYW1pbmclMkZzdG9wLWtpbGxpbmctZ2FtZXMtZmFpbHMtdG8tc2VjdXJlLWV1LWxhdy1kZXNwaXRlLTEtM20tc2lnbmF0dXJlcy0zMzc2NDMxJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGV4ZXJ0by5jb20lMkZnYW1pbmclMkZzdG9wLWtpbGxpbmctZ2FtZXMtZmFpbHMtdG8tc2VjdXJlLWV1LWxhdy1kZXNwaXRlLTEtM20tc2lnbmF0dXJlcy0zMzc2NDMxJTJGJTdDU3RvcCUyMEtpbGxpbmclMjBHYW1lcyUyMGZhaWxzJTIwdG8lMjBzZWN1cmUlMjBFVSUyMGxhdyUyMGRlc3BpdGUlMjAxLjNNJTIwc2lnbmF0dXJlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY0Njk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMDElM0E0MCUzQTIyJTIwJTJCMDAwMA",
       "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
       "pubDate": "Wed, 17 Jun 2026 01:40:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3cHZpcC5jb20lMkZmdXR1cmUtb2YtdGhlLXdlYi0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZ3cHZpcC5jb20lMkZmdXR1cmUtb2YtdGhlLXdlYi0yMDI2JTJGJTdDU2l4dHklMjBwZXJjZW50JTIwb2YlMjBVUyUyMGNvbnN1bWVycyUyMHNheSUyMCdBSSclMjBpbiUyMGJyYW5kJTIwbWVzc2FnaW5nJTIwaXMlMjBhJTIwdHVybm9mZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY5Mjc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMTIlM0ExMSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "pubDate": "Wed, 17 Jun 2026 12:11:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmZjLWVkaXRvci5vcmclMkZpbmZvJTJGcmZjMTAwMDglMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZmMtZWRpdG9yLm9yZyUyRmluZm8lMkZyZmMxMDAwOCUyRiU3Q1JGQyUyMDEwMDA4JTNBJTIwVGhlJTIwbmV3JTIwSFRUUCUyMFF1ZXJ5JTIwTWV0aG9kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Njg1MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAxMCUzQTUxJTNBMTclMjAlMkIwMDAw",
+      "title": "RFC 10008: The new HTTP Query Method",
+      "pubDate": "Wed, 17 Jun 2026 10:51:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbSUyRmFydGljbGUlMkZhbWVyaWNhcy1jb21wYWN0LWJldHdlZW4tc2NpZW5jZS1hbmQtcG9saXRpY3MtaXMtYnJva2VuJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbSUyRmFydGljbGUlMkZhbWVyaWNhcy1jb21wYWN0LWJldHdlZW4tc2NpZW5jZS1hbmQtcG9saXRpY3MtaXMtYnJva2VuJTJGJTdDVS5TLiUyMFNjaWVuY2UlMjBJcyUyMGluJTIwQ2hhb3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2ODA1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDA5JTNBNTQlM0EyMSUyMCUyQjAwMDA",
+      "title": "U.S. Science Is in Chaos",
+      "pubDate": "Wed, 17 Jun 2026 09:54:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWxsczJwaXhlbHMuZ2l0aHViLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZjZWxsczJwaXhlbHMuZ2l0aHViLmlvJTJGJTdDU2hvdyUyMEhOJTNBJTIwSGlnaC1SZXMlMjBOZXVyYWwlMjBDZWxsdWxhciUyMEF1dG9tYXRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Njc4NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAwOSUzQTI4JTNBMzYlMjAlMkIwMDAw",
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "pubDate": "Wed, 17 Jun 2026 09:28:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZhcnRpY2xlcyUyRmdsbS01LTItaXMtdGhlLW5ldy1sZWFkaW5nLW9wZW4td2VpZ2h0cy1tb2RlbC1vbi10aGUtYXJ0aWZpY2lhbC1hbmFseXNpcy1pbnRlbGxpZ2VuY2UtaW5kZXglN0NodHRwcyUzQSUyRiUyRmFydGlmaWNpYWxhbmFseXNpcy5haSUyRmFydGljbGVzJTJGZ2xtLTUtMi1pcy10aGUtbmV3LWxlYWRpbmctb3Blbi13ZWlnaHRzLW1vZGVsLW9uLXRoZS1hcnRpZmljaWFsLWFuYWx5c2lzLWludGVsbGlnZW5jZS1pbmRleCU3Q0dMTS01LjIlMjBpcyUyMHRoZSUyMG5ldyUyMGxlYWRpbmclMjBvcGVuJTIwd2VpZ2h0cyUyMG1vZGVsJTIwb24lMjBBcnRpZmljaWFsJTIwQW5hbHlzaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2Nzc1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDA5JTNBMTIlM0EwMCUyMCUyQjAwMDA",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "pubDate": "Wed, 17 Jun 2026 09:12:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWJibGVzLnRvd24lMkYlN0NodHRwcyUzQSUyRiUyRmJ1YmJsZXMudG93biUyRiU3Q0hhY2tlciUyME5ld3MlMjBidXQlMjBmb3IlMjBJbmRlcGVuZGVudCUyMEJsb2dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjcxNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAwNyUzQTQ5JTNBNDQlMjAlMkIwMDAw",
+      "title": "Hacker News but for Independent Blogs",
+      "pubDate": "Wed, 17 Jun 2026 07:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZnbG0tNS0yJTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZnbG0tNS0yJTdDR0xNJTIwNS4yJTIwUGVyZm9ybWFuY2UlMjBCZW5jaG1hcmtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjcwMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAwNyUzQTMwJTNBNTElMjAlMkIwMDAw",
+      "title": "GLM 5.2 Performance Benchmarks",
+      "pubDate": "Wed, 17 Jun 2026 07:30:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGYmxvZyUyRnRoZS1mb3VuZGVycy1wbGF5Ym9vayU3Q2h0dHBzJTNBJTJGJTJGY2xhdWRlLmNvbSUyRmJsb2clMkZ0aGUtZm91bmRlcnMtcGxheWJvb2slN0NUaGUlMjBmb3VuZGVyJ3MlMjBwbGF5Ym9vayUzQSUyMEJ1aWxkaW5nJTIwYW4lMjBBSS1uYXRpdmUlMjBzdGFydHVwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjY4MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAwNyUzQTA0JTNBNDIlMjAlMkIwMDAw",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "pubDate": "Wed, 17 Jun 2026 07:04:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGVwaGFudHVsLmdpdGh1Yi5pbyUyRmJsb2clMkZ1bmZlbmNlJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGVwaGFudHVsLmdpdGh1Yi5pbyUyRmJsb2clMkZ1bmZlbmNlJTJGJTdDRnJvbSUyMENoZXN0ZXJ0b24ncyUyMGZlbmNlJTIwdG8lMjBDaGVzdGVydG9uJ3MlMjBnYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2NjcyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDA2JTNBNTAlM0E0NyUyMCUyQjAwMDA",
+      "title": "From Chesterton's fence to Chesterton's gap",
+      "pubDate": "Wed, 17 Jun 2026 06:50:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjE0ODA2JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjE0ODA2JTdDU2VtaWNsYXNzaWNhbCUyMEdyYXZpdHklMjBFZmZpY2llbnRseSUyMFNvbHZlcyUyME5QLUNvbXBsZXRlJTIwUHJvYmxlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2NTMyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDAzJTNBMjUlM0E1MSUyMCUyQjAwMDA",
+      "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+      "pubDate": "Wed, 17 Jun 2026 03:25:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
     }
   ]
