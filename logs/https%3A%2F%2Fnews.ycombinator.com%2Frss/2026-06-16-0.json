@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-16",
     "newestItemDate": "2026-06-16",
-    "itemCount": 36,
-    "generatedAt": "2026-06-16T19:52:26.403Z"
+    "itemCount": 45,
+    "generatedAt": "2026-06-17T05:19:48.322Z"
   },
   "items": [
     {
@@ -222,6 +222,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRklEX0FBX0Nhcm1hY2slMkZzdGF0dXMlMkYyMDY0MDk1NDI0NDIwNDg3MjI2JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRklEX0FBX0Nhcm1hY2slMkZzdGF0dXMlMkYyMDY0MDk1NDI0NDIwNDg3MjI2JTdDSSUyMGFkbWlyZSUyMEZhYnJpY2UlMjBCZWxsYXJkLiUyMEhlJTIwaXMlMjBhbG1vc3QlMjBjZXJ0YWlubHklMjBhJTIwYmV0dGVyJTIwb3ZlcmFsbCUyMHByb2dyYW1tZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1MDc3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDA0JTNBNTglM0ExNSUyMCUyQjAwMDA",
       "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
       "pubDate": "Tue, 16 Jun 2026 04:58:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20lMkYyMDI2JTJGMDYlMkZsYXVuY2hpbmctdmVyc2lvbi0xNS1vZi13b2xmcmFtLWxhbmd1YWdlLW1hdGhlbWF0aWNhLWJ1aWx0LWluLXVzZWZ1bC1haS1sb3RzLW9mLW5ldy1jb3JlLWZ1bmN0aW9uYWxpdHklMkYlN0NodHRwcyUzQSUyRiUyRndyaXRpbmdzLnN0ZXBoZW53b2xmcmFtLmNvbSUyRjIwMjYlMkYwNiUyRmxhdW5jaGluZy12ZXJzaW9uLTE1LW9mLXdvbGZyYW0tbGFuZ3VhZ2UtbWF0aGVtYXRpY2EtYnVpbHQtaW4tdXNlZnVsLWFpLWxvdHMtb2YtbmV3LWNvcmUtZnVuY3Rpb25hbGl0eSUyRiU3Q1dvbGZyYW0lMjBMYW5ndWFnZSUyMGFuZCUyME1hdGhlbWF0aWNhJTIwVmVyc2lvbiUyMDE1JTJDJTIwQUklMjBBc3Npc3RhbnQlMkMlMjBTeW1ib2xpYyUyME11c2ljJTJDJTIwTW9yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTYzNjA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTYlMjBKdW4lMjAyMDI2JTIwMjMlM0ExNSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "pubDate": "Tue, 16 Jun 2026 23:15:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZubG5ldC5ubCUyRm5ld3MlMkYyMDI2JTJGMjAyNjA2MTYtNjctbmV3LXByb2plY3RzLmh0bWwlN0NodHRwcyUzQSUyRiUyRm5sbmV0Lm5sJTJGbmV3cyUyRjIwMjYlMkYyMDI2MDYxNi02Ny1uZXctcHJvamVjdHMuaHRtbCU3Q05MbmV0JTIwYW5ub3VuY2VzJTIwZnVuZGluZyUyMGZvciUyMDY3JTIwbW9yZSUyMG9wZW4tc291cmNlJTIwcHJvamVjdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2MzU2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDIzJTNBMTIlM0EwOSUyMCUyQjAwMDA",
+      "title": "NLnet announces funding for 67 more open-source projects",
+      "pubDate": "Tue, 16 Jun 2026 23:12:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtbGwuc2glMkZodW1pbGlhdGluZy1paXMtc2VydmVycy1mb3ItZnVuLWFuZC1qYWlsLXRpbWUlMkYlN0NodHRwcyUzQSUyRiUyRm1sbC5zaCUyRmh1bWlsaWF0aW5nLWlpcy1zZXJ2ZXJzLWZvci1mdW4tYW5kLWphaWwtdGltZSUyRiU3Q0h1bWlsaWF0aW5nJTIwSUlTJTIwc2VydmVycyUyMGZvciUyMGZ1biUyMGFuZCUyMGphaWwlMjB0aW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjMzOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNiUyMEp1biUyMDIwMjYlMjAyMiUzQTUzJTNBMzQlMjAlMkIwMDAw",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "pubDate": "Tue, 16 Jun 2026 22:53:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzLmdyYXBoZW5lb3Mub3JnJTJGZCUyRjM2NDY5LWdyYXBoZW5lb3MtaGFzLWJlZW4tcG9ydGVkLXRvLWFuZHJvaWQtMTctYW5kLW9mZmljaWFsLXJlbGVhc2VzLWFyZS1jb21pbmctc29vbiU3Q2h0dHBzJTNBJTJGJTJGZGlzY3Vzcy5ncmFwaGVuZW9zLm9yZyUyRmQlMkYzNjQ2OS1ncmFwaGVuZW9zLWhhcy1iZWVuLXBvcnRlZC10by1hbmRyb2lkLTE3LWFuZC1vZmZpY2lhbC1yZWxlYXNlcy1hcmUtY29taW5nLXNvb24lN0NHcmFwaGVuZU9TJTIwaGFzJTIwYmVlbiUyMHBvcnRlZCUyMHRvJTIwQW5kcm9pZCUyMDE3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjE2NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNiUyMEp1biUyMDIwMjYlMjAyMCUzQTM0JTNBMzUlMjAlMkIwMDAw",
+      "title": "GrapheneOS has been ported to Android 17",
+      "pubDate": "Tue, 16 Jun 2026 20:34:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbnZsYWJzJTJGY3V0aWxlLXJzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbnZsYWJzJTJGY3V0aWxlLXJzJTdDU2hvdyUyMEhOJTNBJTIwY3VUaWxlJTIwUnVzdCUzQSUyMFNhZmUlMkMlMjBkYXRhLXJhY2UtZnJlZSUyMEdQVSUyMGtlcm5lbHMlMjBpbiUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2MTQxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDIwJTNBMTclM0E0MiUyMCUyQjAwMDA",
+      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "pubDate": "Tue, 16 Jun 2026 20:17:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jkcy5maWxpcHBvLmlvJTJGZnJvb2QlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRzLmZpbGlwcG8uaW8lMkZmcm9vZCUyRiU3Q0Zyb29kJTJDJTIwYW4lMjBBbHBpbmUlMjBJbml0cmFtZnMlMjBOQVMlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2MTQwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDIwJTNBMTclM0EwNCUyMCUyQjAwMDA",
+      "title": "Frood, an Alpine Initramfs NAS (2024)",
+      "pubDate": "Tue, 16 Jun 2026 20:17:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW0uYmxvZyUyRjIwMjYlMkYwNiUyRjEyJTJGaGFzLWFpLWFscmVhZHkta2lsbGVkLW5vbmZpY3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRnRpbS5ibG9nJTJGMjAyNiUyRjA2JTJGMTIlMkZoYXMtYWktYWxyZWFkeS1raWxsZWQtbm9uZmljdGlvbiUyRiU3Q0hhcyUyMEFJJTIwYWxyZWFkeSUyMGtpbGxlZCUyMHNlbGYtaGVscCUyMG5vbmZpY3Rpb24lMjBib29rcyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTU4NDg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTYlMjBKdW4lMjAyMDI2JTIwMTclM0ExMSUzQTA1JTIwJTJCMDAwMA",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "pubDate": "Tue, 16 Jun 2026 17:11:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbSUyRnAlMkZ3aHktaXMtbWV0YS1kZXN0cm95aW5nLWl0cy1lbmdpbmVlcmluZyU3Q2h0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGd2h5LWlzLW1ldGEtZGVzdHJveWluZy1pdHMtZW5naW5lZXJpbmclN0NJcyUyME1ldGElMjBkZXN0cm95aW5nJTIwaXRzJTIwZW5naW5lZXJpbmclMjBvcmdhbml6YXRpb24lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1ODA0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDE2JTNBNDIlM0EzMiUyMCUyQjAwMDA",
+      "title": "Is Meta destroying its engineering organization?",
+      "pubDate": "Tue, 16 Jun 2026 16:42:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXJrc2IuZ2l0aHViLmlvJTJGZW4lMkZhcnRpY2xlJTJGMzIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGFya3NiLmdpdGh1Yi5pbyUyRmVuJTJGYXJ0aWNsZSUyRjMyLmh0bWwlN0NCdXQlMjB5YWslMjBzaGF2aW5nJTIwaXMlMjBmdW4lMjAoMjAxOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1NTgzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjYlM0EyNiUyMCUyQjAwMDA",
+      "title": "But yak shaving is fun (2019)",
+      "pubDate": "Tue, 16 Jun 2026 14:26:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
     }
   ]
