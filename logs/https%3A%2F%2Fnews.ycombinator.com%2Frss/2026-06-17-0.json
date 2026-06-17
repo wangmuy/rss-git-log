@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-17",
     "newestItemDate": "2026-06-17",
-    "itemCount": 13,
-    "generatedAt": "2026-06-17T12:31:59.998Z"
+    "itemCount": 31,
+    "generatedAt": "2026-06-17T18:37:21.348Z"
   },
   "items": [
     {
@@ -84,6 +84,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjE0ODA2JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjE0ODA2JTdDU2VtaWNsYXNzaWNhbCUyMEdyYXZpdHklMjBFZmZpY2llbnRseSUyMFNvbHZlcyUyME5QLUNvbXBsZXRlJTIwUHJvYmxlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2NTMyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDAzJTNBMjUlM0E1MSUyMCUyQjAwMDA",
       "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
       "pubDate": "Wed, 17 Jun 2026 03:25:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhaS1jaGVtaXN0LWltcHJvdmVzLXJlYWN0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhaS1jaGVtaXN0LWltcHJvdmVzLXJlYWN0aW9uJTJGJTdDQUklMjBjaGVtaXN0JTIwaW1wcm92ZXMlMjBhJTIwY2hhbGxlbmdpbmclMjByZWFjdGlvbiUyMGluJTIwbWVkaWNpbmFsJTIwY2hlbWlzdHJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NzM3NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAxNyUzQTM0JTNBMjAlMjAlMkIwMDAw",
+      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
+      "pubDate": "Wed, 17 Jun 2026 17:34:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaG9zdGludGhlZGF0YS5pbmZvJTJGcG9zdHMlMkYyMDI2JTJGMjAyNi0wNi0xMy1odW1hbi1jb25uZWN0aW9uLW1vYXQlMkYlN0NodHRwcyUzQSUyRiUyRmdob3N0aW50aGVkYXRhLmluZm8lMkZwb3N0cyUyRjIwMjYlMkYyMDI2LTA2LTEzLWh1bWFuLWNvbm5lY3Rpb24tbW9hdCUyRiU3Q1RoZSUyMENvbXBldGl0aXZlJTIwTW9hdCUyMFRoYXQlMjBBSSUyMENhbid0JTIwUmVwbGljYXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NzM0MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAxNyUzQTE0JTNBMjElMjAlMkIwMDAw",
+      "title": "The Competitive Moat That AI Can't Replicate",
+      "pubDate": "Wed, 17 Jun 2026 17:14:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNiUyRjE3JTJGb25seS0xNi1wZXJjZW50LW9mLWFtZXJpY2Fucy10aGluay1haS13aWxsLWhhdmUtYS1wb3NpdGl2ZS1pbXBhY3Qtb24tc29jaWV0eS1hLW5ldy1zdHVkeS1zaG93cyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDYlMkYxNyUyRm9ubHktMTYtcGVyY2VudC1vZi1hbWVyaWNhbnMtdGhpbmstYWktd2lsbC1oYXZlLWEtcG9zaXRpdmUtaW1wYWN0LW9uLXNvY2lldHktYS1uZXctc3R1ZHktc2hvd3MlMkYlN0NPbmx5JTIwMTYlMjBQZXJjZW50JTIwb2YlMjBBbWVyaWNhbnMlMjBUaGluayUyMEFJJTIwV2lsbCUyMEhhdmUlMjBhJTIwUG9zaXRpdmUlMjBJbXBhY3QlMjBvbiUyMFNvY2lldHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MzMzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDE3JTNBMDclM0EzMiUyMCUyQjAwMDA",
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "pubDate": "Wed, 17 Jun 2026 17:07:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGdHJlbGxpcy1haSUyRmpvYnMlMkZDZzk0aHRwLXByb2R1Y3QtbGVhZCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnRyZWxsaXMtYWklMkZqb2JzJTJGQ2c5NGh0cC1wcm9kdWN0LWxlYWQlN0NUcmVsbGlzJTIwQUklMjAoWUMlMjBXMjQpJTIwJTIwaGlyaW5nJTIwYSUyMHByb2R1Y3QlMjBsZWFkJTIwdG8lMjBidWlsZCUyMGFnZW50cyUyMGZvciUyMGhlYWx0aGNhcmUlMjBhY2Nlc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MzIyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDE3JTNBMDAlM0EwMiUyMCUyQjAwMDA",
+      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+      "pubDate": "Wed, 17 Jun 2026 17:00:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaWJiaWUudHYlMkZ3YXRjaCU3Q2h0dHBzJTNBJTJGJTJGcmliYmllLnR2JTJGd2F0Y2glN0NTaG93JTIwSE4lM0ElMjBBbiUyMDgtYml0JTIwbGl2ZSUyMGdhbWVjYXN0JTIwZm9yJTIwYmFzZWJhbGwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MzAxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDE2JTNBNDQlM0ExNSUyMCUyQjAwMDA",
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "pubDate": "Wed, 17 Jun 2026 16:44:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQWRhbS1DQUQlMkZDQURBTSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkFkYW0tQ0FEJTJGQ0FEQU0lN0NMYXVuY2glMjBITiUzQSUyMEFkYW0lMjAoWUMlMjBXMjUpJTIwJUUyJTgwJTkzJTIwT3Blbi1Tb3VyY2UlMjBBSSUyMENBRCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTcyNTUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMTYlM0ExNCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "pubDate": "Wed, 17 Jun 2026 16:14:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3JlcHRpbGUuY29tJTJGYmxvZyUyRnRyZXgtY29kZS1leGVjdXRpb24lN0NodHRwcyUzQSUyRiUyRnd3dy5ncmVwdGlsZS5jb20lMkZibG9nJTJGdHJleC1jb2RlLWV4ZWN1dGlvbiU3Q1RSRVglM0ElMjBBbiUyMEFJJTIwY29kZSUyMHJldmlld2VyJTIwdGhhdCUyMHJ1bnMlMjB5b3VyJTIwY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTcxODUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMTUlM0EyOSUzQTAxJTIwJTJCMDAwMA",
+      "title": "TREX: An AI code reviewer that runs your code",
+      "pubDate": "Wed, 17 Jun 2026 15:29:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmZyZW5jaC1waHlzaWNpc3QtYW5kLW1lZGlhLXN0YXItbG9zZXMtZG9jdG9yYXRlLWFmdGVyLXBsYWdpYXJpc20taW52ZXN0aWdhdGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZmcmVuY2gtcGh5c2ljaXN0LWFuZC1tZWRpYS1zdGFyLWxvc2VzLWRvY3RvcmF0ZS1hZnRlci1wbGFnaWFyaXNtLWludmVzdGlnYXRpb24lN0NGcmVuY2glMjBwaHlzaWNpc3QlMjBhbmQlMjBtZWRpYSUyMHN0YXIlMjBsb3NlcyUyMGRvY3RvcmF0ZSUyMGFmdGVyJTIwcGxhZ2lhcmlzbSUyMGludmVzdGlnYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MTc2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDE1JTNBMjMlM0E0OSUyMCUyQjAwMDA",
+      "title": "French physicist and media star loses doctorate after plagiarism investigation",
+      "pubDate": "Wed, 17 Jun 2026 15:23:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzLmdyYXBoZW5lb3Mub3JnJTJGZCUyRjM1OTQ5LXZvbGtzd2FnZW4tYXBwJTNGcGFnZSUzRDMlN0NodHRwcyUzQSUyRiUyRmRpc2N1c3MuZ3JhcGhlbmVvcy5vcmclMkZkJTJGMzU5NDktdm9sa3N3YWdlbi1hcHAlM0ZwYWdlJTNEMyU3Q1ZvbGtzd2FnZW4lMjBzdGFydGVkJTIwYmxvY2tpbmclMjBHcmFwaGVuZU9TJTIwdXNlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MTUyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDE1JTNBMDQlM0E0NyUyMCUyQjAwMDA",
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "pubDate": "Wed, 17 Jun 2026 15:04:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3JlLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9yZS5vcmclMkYlN0NFcGljJTIwR2FtZXMlMjBhbm5vdW5jZXMlMjBMb3JlJTIwdmVyc2lvbiUyMGNvbnRyb2wlMjBzeXN0ZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MTA4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDE0JTNBMzAlM0EyNyUyMCUyQjAwMDA",
+      "title": "Epic Games announces Lore version control system",
+      "pubDate": "Wed, 17 Jun 2026 14:30:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGFyaXR5ZG90d3RmLnN1YnN0YWNrLmNvbSUyRnAlMkZhaS1kZW1hbmRzLW1vcmUtZW5naW5lZXJpbmctZGlzY2lwbGluZSU3Q2h0dHBzJTNBJTJGJTJGY2hhcml0eWRvdHd0Zi5zdWJzdGFjay5jb20lMkZwJTJGYWktZGVtYW5kcy1tb3JlLWVuZ2luZWVyaW5nLWRpc2NpcGxpbmUlN0NBSSUyMGRlbWFuZHMlMjBtb3JlJTIwZW5naW5lZXJpbmclMjBkaXNjaXBsaW5lLiUyME5vdCUyMGxlc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MDk0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjAlM0E0NCUyMCUyQjAwMDA",
+      "title": "AI demands more engineering discipline. Not less",
+      "pubDate": "Wed, 17 Jun 2026 14:20:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubHV0ci5kZXYlMkZ3YW50LXlvdXItaW1hZ2VzLWJhY2stc3VyZS10aGF0LWxsLWJlLTUtZG9sbGFycyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmx1dHIuZGV2JTJGd2FudC15b3VyLWltYWdlcy1iYWNrLXN1cmUtdGhhdC1sbC1iZS01LWRvbGxhcnMlN0NXYW50JTIweW91ciUyMGltYWdlcyUyMGJhY2slM0YlMjBUaGF0J2xsJTIwYmUlMjAlMjQ1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Njk5NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAxMyUzQTA1JTNBMDMlMjAlMkIwMDAw",
+      "title": "Want your images back? That'll be $5",
+      "pubDate": "Wed, 17 Jun 2026 13:05:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlc2lnbmFsaXN0LmlvJTJGcyUyRnRoZS1kaWFsb2d1ZS1kaXZpZGVuZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXNpZ25hbGlzdC5pbyUyRnMlMkZ0aGUtZGlhbG9ndWUtZGl2aWRlbmQlMkYlN0NXaHklMjB0aGlua2luZyUyMG91dCUyMGxvdWQlMjB3aXRoJTIwc29tZW9uZSUyMGJlYXRzJTIwdGhpbmtpbmclMjBhbG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY5ODk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMTMlM0EwMCUzQTM4JTIwJTJCMDAwMA",
+      "title": "Why thinking out loud with someone beats thinking alone",
+      "pubDate": "Wed, 17 Jun 2026 13:00:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnhpJTJGbWljcm91aSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJ4aSUyRm1pY3JvdWklN0NNaWNyb1VJJTIwJUUyJTgwJTkzJTIwQSUyMHRpbnklMkMlMjBwb3J0YWJsZSUyQyUyMGltbWVkaWF0ZS1tb2RlJTIwVUklMjBsaWJyYXJ5JTIwd3JpdHRlbiUyMGluJTIwQU5TSSUyMEMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2OTIwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDEyJTNBMDQlM0EyOCUyMCUyQjAwMDA",
+      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "pubDate": "Wed, 17 Jun 2026 12:04:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbSUyRmFydGljbGUlMkZhbWVyaWNhcy1jb21wYWN0LWJldHdlZW4tc2NpZW5jZS1hbmQtcG9saXRpY3MtaXMtYnJva2VuJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbSUyRmFydGljbGUlMkZhbWVyaWNhcy1jb21wYWN0LWJldHdlZW4tc2NpZW5jZS1hbmQtcG9saXRpY3MtaXMtYnJva2VuJTJGJTdDVS5TLiUyMHNjaWVuY2UlMjBpcyUyMGluJTIwY2hhb3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2ODA1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDA5JTNBNTQlM0EyMSUyMCUyQjAwMDA",
+      "title": "U.S. science is in chaos",
+      "pubDate": "Wed, 17 Jun 2026 09:54:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWJibGVzLnRvd24lMkYlN0NodHRwcyUzQSUyRiUyRmJ1YmJsZXMudG93biUyRiU3Q0hhY2tlciUyME5ld3MlMjBidXQlMjBmb3IlMjBpbmRlcGVuZGVudCUyMGJsb2dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjcxNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAwNyUzQTQ5JTNBNDQlMjAlMkIwMDAw",
+      "title": "Hacker News but for independent blogs",
+      "pubDate": "Wed, 17 Jun 2026 07:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJlZXJhbmdlLmNpdHklMkZwJTJGd2h5LWRvLWNvbW1lcmNpYWwtc3BhY2VzLXNpdC12YWNhbnQlN0NodHRwcyUzQSUyRiUyRnd3dy5mcmVlcmFuZ2UuY2l0eSUyRnAlMkZ3aHktZG8tY29tbWVyY2lhbC1zcGFjZXMtc2l0LXZhY2FudCU3Q1doeSUyMGRvJTIwY29tbWVyY2lhbCUyMHNwYWNlcyUyMHNpdCUyMHZhY2FudCUzRiUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY2NzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMDYlM0E1OSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Why do commercial spaces sit vacant? (2025)",
+      "pubDate": "Wed, 17 Jun 2026 06:59:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGdXMtaG9sZHMtb2ZmLWJsYWNrbGlzdGluZy1jaGluYXMtZGVlcHNlZWstbW9yZS10aGFuLTEwMC1maXJtcy1kZWVtZWQtc2VjdXJpdHktMjAyNi0wNi0xNyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGd29ybGQlMkZjaGluYSUyRnVzLWhvbGRzLW9mZi1ibGFja2xpc3RpbmctY2hpbmFzLWRlZXBzZWVrLW1vcmUtdGhhbi0xMDAtZmlybXMtZGVlbWVkLXNlY3VyaXR5LTIwMjYtMDYtMTclMkYlN0NVUyUyMGhvbGRzJTIwb2ZmJUMyJUEwYmxhY2tsaXN0aW5nJTIwRGVlcFNlZWslMkMlMjBtb3JlJTIwdGhhbiUyMDEwMCUyMGZpcm1zJTIwZGVlbWVkJTIwc2VjdXJpdHklMjByaXNrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY1NDk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMDMlM0E1NSUzQTE2JTIwJTJCMDAwMA",
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "pubDate": "Wed, 17 Jun 2026 03:55:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
     }
   ]
