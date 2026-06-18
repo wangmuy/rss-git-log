@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-16",
     "newestItemDate": "2026-06-16",
-    "itemCount": 47,
-    "generatedAt": "2026-06-17T18:37:21.348Z"
+    "itemCount": 49,
+    "generatedAt": "2026-06-18T05:09:15.993Z"
   },
   "items": [
     {
@@ -288,6 +288,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZicm93c2VyLXVzZS5jb20lMkZwb3N0cyUyRmZpcmVjcmFja2VyLWJyb3dzZXItaW5mcmElN0NodHRwcyUzQSUyRiUyRmJyb3dzZXItdXNlLmNvbSUyRnBvc3RzJTJGZmlyZWNyYWNrZXItYnJvd3Nlci1pbmZyYSU3Q0hvdyUyMHdlJTIwcnVuJTIwRmlyZWNyYWNrZXIlMjBWTXMlMjBpbnNpZGUlMjBFQzIlMjBhbmQlMjBzdGFydCUyMGJyb3dzZXJzJTIwaW4lMjBsZXNzJTIwdGhhbiUyMDFzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NTY1NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNiUyMEp1biUyMDIwMjYlMjAxNSUzQTE1JTNBMDElMjAlMkIwMDAw",
       "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
       "pubDate": "Tue, 16 Jun 2026 15:15:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcmlqYW5zaHVrbGEuY29tJTJGYXJ0aWZhY3RzJTJGc3Bpbi1sYWIlMkYlN0NodHRwcyUzQSUyRiUyRnNyaWphbnNodWtsYS5jb20lMkZhcnRpZmFjdHMlMkZzcGluLWxhYiUyRiU3Q1Nob3clMjBITiUzQSUyMFNwaW4lMjBMYWIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1NDA0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDEyJTNBMTYlM0ExMSUyMCUyQjAwMDA",
+      "title": "Show HN: Spin Lab",
+      "pubDate": "Tue, 16 Jun 2026 12:16:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2lnYXJjaC5vcmclMkZ0aGUtcmV0dXJuLW9mLXJpZ29yb3VzLWZ1bGwtc3lzdGVtLXRpbWluZy1zaW11bGF0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2lnYXJjaC5vcmclMkZ0aGUtcmV0dXJuLW9mLXJpZ29yb3VzLWZ1bGwtc3lzdGVtLXRpbWluZy1zaW11bGF0aW9uJTJGJTdDVGhlJTIwUmV0dXJuJTIwb2YlMjBSaWdvcm91cyUyMEZ1bGwtU3lzdGVtJTIwVGltaW5nJTIwU2ltdWxhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTUxMDY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTYlMjBKdW4lMjAyMDI2JTIwMDUlM0E0OSUzQTUxJTIwJTJCMDAwMA",
+      "title": "The Return of Rigorous Full-System Timing Simulation",
+      "pubDate": "Tue, 16 Jun 2026 05:49:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
     }
   ]

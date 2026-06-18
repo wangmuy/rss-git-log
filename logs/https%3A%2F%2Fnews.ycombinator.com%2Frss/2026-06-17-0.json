@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-17",
     "newestItemDate": "2026-06-17",
-    "itemCount": 31,
-    "generatedAt": "2026-06-17T18:37:21.348Z"
+    "itemCount": 38,
+    "generatedAt": "2026-06-18T05:09:15.993Z"
   },
   "items": [
     {
@@ -192,6 +192,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGdXMtaG9sZHMtb2ZmLWJsYWNrbGlzdGluZy1jaGluYXMtZGVlcHNlZWstbW9yZS10aGFuLTEwMC1maXJtcy1kZWVtZWQtc2VjdXJpdHktMjAyNi0wNi0xNyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGd29ybGQlMkZjaGluYSUyRnVzLWhvbGRzLW9mZi1ibGFja2xpc3RpbmctY2hpbmFzLWRlZXBzZWVrLW1vcmUtdGhhbi0xMDAtZmlybXMtZGVlbWVkLXNlY3VyaXR5LTIwMjYtMDYtMTclMkYlN0NVUyUyMGhvbGRzJTIwb2ZmJUMyJUEwYmxhY2tsaXN0aW5nJTIwRGVlcFNlZWslMkMlMjBtb3JlJTIwdGhhbiUyMDEwMCUyMGZpcm1zJTIwZGVlbWVkJTIwc2VjdXJpdHklMjByaXNrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY1NDk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMDMlM0E1NSUzQTE2JTIwJTJCMDAwMA",
       "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
       "pubDate": "Wed, 17 Jun 2026 03:55:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG9yZy5jb20lMkZob3JnJTJGJTNGcGFnZV9pZCUzRDkyMSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhvcmcuY29tJTJGaG9yZyUyRiUzRnBhZ2VfaWQlM0Q5MjElN0NUYXhvbm9teSUyMG9mJTIwdGhlJTIwT2NjbHVwYW5pZGElMjAocGFyYXNpdG9pZHMlMjBvbiUyMGJyZWFkJTIwYmFnJTIwdGFncyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3ODM4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDIzJTNBMjAlM0EzOCUyMCUyQjAwMDA",
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "pubDate": "Wed, 17 Jun 2026 23:20:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2xvanVyZWxhbmclMkZnbG9qdXJlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2xvanVyZWxhbmclMkZnbG9qdXJlJTdDQ2xvanVyZSUyMEhvc3RlZCUyMG9uJTIwR28lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3ODMyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDIzJTNBMTQlM0E0OSUyMCUyQjAwMDA",
+      "title": "Clojure Hosted on Go",
+      "pubDate": "Wed, 17 Jun 2026 23:14:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9yaWVkY29sb3JzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RvcmllZGNvbG9ycy5jb20lMkYlN0NTdG9yaWVkJTIwQ29sb3JzJTIwJUUyJTgwJTkzJTIwYSUyMGNhdGFsb2d1ZSUyMG9mJTIwbmFtZWQlMjBjb2xvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3NzM3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDIxJTNBNDklM0EwMyUyMCUyQjAwMDA",
+      "title": "Storied Colors – a catalogue of named colors",
+      "pubDate": "Wed, 17 Jun 2026 21:49:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZpbmZvcm1hdGlvbi10ZWNobm9sb2d5JTJGMjAyNiUyRjA2JTJGdGVzY28tbW92aW5nLTQwMDAwLXNlcnZlci13b3JrbG9hZHMtb2ZmLXZtd2FyZS1hbWlkLWJyb2FkY29tcy1hYnVzaXZlLWNvbmR1Y3QlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmluZm9ybWF0aW9uLXRlY2hub2xvZ3klMkYyMDI2JTJGMDYlMkZ0ZXNjby1tb3ZpbmctNDAwMDAtc2VydmVyLXdvcmtsb2Fkcy1vZmYtdm13YXJlLWFtaWQtYnJvYWRjb21zLWFidXNpdmUtY29uZHVjdCUyRiU3Q1Rlc2NvJTIwbW92aW5nJTIwNDBrJTIwc2VydmVyJTIwd29ya2xvYWRzJTIwb2ZmJTIwVk13YXJlJTIwYW1pZCUyMEJyb2FkY29tJ3MlMjBhYnVzaXZlJTIwY29uZHVjdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTc2ODM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMjElM0EwMCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+      "pubDate": "Wed, 17 Jun 2026 21:00:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3JlbGluZS5hcHAlMkZlbiUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9yZWxpbmUuYXBwJTJGZW4lMkYlN0NMb3JlbGluZSUyMCVFMiU4MCU5MyUyMFRvb2xzJTIwZm9yJTIwd3JpdGluZyUyMGludGVyYWN0aXZlJTIwZmljdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTc2Mzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMjAlM0EyOSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Loreline – Tools for writing interactive fiction",
+      "pubDate": "Wed, 17 Jun 2026 20:29:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy1tYWRyaWQtYnVpbHQtaXRzLW1ldHJvLWNoZWFwbHklMkYlN0NodHRwcyUzQSUyRiUyRndvcmtzaW5wcm9ncmVzcy5jbyUyRmlzc3VlJTJGaG93LW1hZHJpZC1idWlsdC1pdHMtbWV0cm8tY2hlYXBseSUyRiU3Q0hvdyUyME1hZHJpZCUyMGJ1aWx0JTIwaXRzJTIwbWV0cm8lMjBjaGVhcGx5JTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NzU5OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAxOSUzQTU5JTNBMjclMjAlMkIwMDAw",
+      "title": "How Madrid built its metro cheaply (2024)",
+      "pubDate": "Wed, 17 Jun 2026 19:59:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3JlLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9yZS5vcmclMkYlN0NMb3JlJTIwJUUyJTgwJTkzJTIwT3BlbiUyMHNvdXJjZSUyMHZlcnNpb24lMjBjb250cm9sJTIwc3lzdGVtJTIwZGVzaWduZWQlMjBmb3IlMjBzY2FsYWJpbGl0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTcxMDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMTQlM0EzMCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Lore – Open source version control system designed for scalability",
+      "pubDate": "Wed, 17 Jun 2026 14:30:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
     }
   ]
