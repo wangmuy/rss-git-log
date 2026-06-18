@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-18",
     "newestItemDate": "2026-06-18",
-    "itemCount": 5,
-    "generatedAt": "2026-06-18T05:09:15.993Z"
+    "itemCount": 14,
+    "generatedAt": "2026-06-18T11:59:22.424Z"
   },
   "items": [
     {
@@ -36,6 +36,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWlkam91cm5leS5jb20lMkZtZWRpY2FsJTJGYmxvZ3Bvc3QlN0NodHRwcyUzQSUyRiUyRnd3dy5taWRqb3VybmV5LmNvbSUyRm1lZGljYWwlMkZibG9ncG9zdCU3Q01pZGpvdXJuZXklMjBNZWRpY2FsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Nzk2NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAwMSUzQTU5JTNBNTElMjAlMkIwMDAw",
       "title": "Midjourney Medical",
       "pubDate": "Thu, 18 Jun 2026 01:59:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2NsLmFjLnVrJTJGbmV3cyUyRmhvc3BpdGFscy1hbmQtdW5pdmVyc2l0aWVzLXJlcHVycG9zaW5nLWRydWdzLWF0LTkwLWxvd2VyLWNvc3QlN0NodHRwcyUzQSUyRiUyRnd3dy5rY2wuYWMudWslMkZuZXdzJTJGaG9zcGl0YWxzLWFuZC11bml2ZXJzaXRpZXMtcmVwdXJwb3NpbmctZHJ1Z3MtYXQtOTAtbG93ZXItY29zdCU3Q0hvc3BpdGFscyUyMGFuZCUyMHVuaXZlcnNpdGllcyUyMHJlcHVycG9zaW5nJTIwZHJ1Z3MlMjBhdCUyMDkwJTI1JTIwbG93ZXIlMjBjb3N0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODMzODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAxMCUzQTMzJTNBMjIlMjAlMkIwMDAw",
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "pubDate": "Thu, 18 Jun 2026 10:33:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGc2V2ZW4tcGVyZmVjdC1zaHVmZmxlcy1yYW5kb21pemUtYS1kZWNrLW9mLWNhcmRzLWJ1dC1ob3ctbWFueS1zbG9wcHktb25lcy0yMDI2MDYxNyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRnNldmVuLXBlcmZlY3Qtc2h1ZmZsZXMtcmFuZG9taXplLWEtZGVjay1vZi1jYXJkcy1idXQtaG93LW1hbnktc2xvcHB5LW9uZXMtMjAyNjA2MTclMkYlN0NTZXZlbiUyMFBlcmZlY3QlMjBTaHVmZmxlcyUyMFJhbmRvbWl6ZSUyMGElMjBEZWNrJTIwb2YlMjBDYXJkcy4lMjBCdXQlMjBIb3clMjBNYW55JTIwU2xvcHB5JTIwT25lcyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTgyNzk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMDklM0EwOCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+      "pubDate": "Thu, 18 Jun 2026 09:08:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYmVsbW9udC5tYW1ld29ybGQuaW5mbyUyRiUzRnAlM0QxNzI1JTdDaHR0cHMlM0ElMkYlMkZyYmVsbW9udC5tYW1ld29ybGQuaW5mbyUyRiUzRnAlM0QxNzI1JTdDSSUyMG5lZWQlMjB5b3VyJTIwY2xvdGhlcyUyQyUyMHlvdXIlMjBib290cyUyQyUyMGFuZCUyMHlvdXIlMjBtb3RvcmN5Y2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODI0NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAwOCUzQTI4JTNBMDQlMjAlMkIwMDAw",
+      "title": "I need your clothes, your boots, and your motorcycle",
+      "pubDate": "Thu, 18 Jun 2026 08:28:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnBjLWNvbXBvbmVudHMlMkZjcHVzJTJGYW1kLXNpbGVudGx5LXJlbW92ZXMtbWVtb3J5LWVuY3J5cHRpb24tZnJvbS1jb25zdW1lci1yeXplbi1jcHVzLWxlYXZpbmctdXNlcnMtdW5hd2FyZS10aGF0LXRoZXktbWF5LWJlLXZ1bG5lcmFibGUtc2VjdXJpdHktZmVhdHVyZS12YW5pc2hlcy1hZnRlci1uZXdlci1hZ2VzYS1maXJtd2FyZS1hbWQtZW5naW5lZXJzLWdvLXJhZGlvLXNpbGVudC13aGVuLXByZXNzZWQtYWJvdXQtdGhlLWNoYW5nZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRvbXNoYXJkd2FyZS5jb20lMkZwYy1jb21wb25lbnRzJTJGY3B1cyUyRmFtZC1zaWxlbnRseS1yZW1vdmVzLW1lbW9yeS1lbmNyeXB0aW9uLWZyb20tY29uc3VtZXItcnl6ZW4tY3B1cy1sZWF2aW5nLXVzZXJzLXVuYXdhcmUtdGhhdC10aGV5LW1heS1iZS12dWxuZXJhYmxlLXNlY3VyaXR5LWZlYXR1cmUtdmFuaXNoZXMtYWZ0ZXItbmV3ZXItYWdlc2EtZmlybXdhcmUtYW1kLWVuZ2luZWVycy1nby1yYWRpby1zaWxlbnQtd2hlbi1wcmVzc2VkLWFib3V0LXRoZS1jaGFuZ2UlN0NBTUQlMjBzaWxlbnRseSUyMHJlbW92ZXMlMjBtZW1vcnklMjBlbmNyeXB0aW9uJTIwZnJvbSUyMGNvbnN1bWVyJTIwUnl6ZW4lMjBDUFVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODIzMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAwOCUzQTA4JTNBMDAlMjAlMkIwMDAw",
+      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "pubDate": "Thu, 18 Jun 2026 08:08:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidGFvLm9yZyUyRnBvc3RzJTJGMjAyNi0wNS0wOS10aGUtZm9yZ2Utd2UtZGVzZXJ2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYnRhby5vcmclMkZwb3N0cyUyRjIwMjYtMDUtMDktdGhlLWZvcmdlLXdlLWRlc2VydmUlMkYlN0NUaGUlMjBGb3JnZSUyMFdlJTIwRGVzZXJ2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTgyMTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMDclM0E0NiUzQTU1JTIwJTJCMDAwMA",
+      "title": "The Forge We Deserve",
+      "pubDate": "Thu, 18 Jun 2026 07:46:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWNtYS5nb3YuYXUlMkZzbXMtc2VuZGVyLWlkLXJlZ2lzdGVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWNtYS5nb3YuYXUlMkZzbXMtc2VuZGVyLWlkLXJlZ2lzdGVyJTdDVGhlJTIwQXVzdHJhbGlhbiUyMEdvdmVybm1lbnQlMjB0byUyMFJlcXVpcmUlMjBTTVMlMkZNTVMlMjBTZW5kZXIlMjBJRCUyMFJlZ2lzdHJhaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODE0ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAwNiUzQTIzJTNBMjQlMjAlMkIwMDAw",
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "pubDate": "Thu, 18 Jun 2026 06:23:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGF0LmRlZXBzZWVrLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2hhdC5kZWVwc2Vlay5jb20lMkYlN0NEZWVwU2VlayUyMEludHJvZHVjZXMlMjBWaXNpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU4MTQ1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDA2JTNBMTclM0E0MCUyMCUyQjAwMDA",
+      "title": "DeepSeek Introduces Vision",
+      "pubDate": "Thu, 18 Jun 2026 06:17:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZWlhc28ubmV0JTJGbm90ZXMlMkYyMDI2JTJGYW51YmlzLXdhc20tdmVuZG9yLWJpbmFyeSUyRiU3Q2h0dHBzJTNBJTJGJTJGeGVpYXNvLm5ldCUyRm5vdGVzJTJGMjAyNiUyRmFudWJpcy13YXNtLXZlbmRvci1iaW5hcnklMkYlN0NJJTIwaGF0ZSUyMGNvbXBpbGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTgxMDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMDUlM0ExMCUzQTI4JTIwJTJCMDAwMA",
+      "title": "I hate compilers",
+      "pubDate": "Thu, 18 Jun 2026 05:10:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ODZlY29zeXN0ZW0ub3JnJTJGcmVzb3VyY2UlMkZhaS1jb21wdXRlLWV4dGVuc2lvbnMtYWNlLXNwZWNpZmljYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRng4NmVjb3N5c3RlbS5vcmclMkZyZXNvdXJjZSUyRmFpLWNvbXB1dGUtZXh0ZW5zaW9ucy1hY2Utc3BlY2lmaWNhdGlvbiUyRiU3Q0FJJTIwQ29tcHV0ZSUyMEV4dGVuc2lvbnMlMjAoQUNFKSUyMFNwZWNpZmljYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3OTkxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDAyJTNBMzIlM0EwMSUyMCUyQjAwMDA",
+      "title": "AI Compute Extensions (ACE) Specification",
+      "pubDate": "Thu, 18 Jun 2026 02:32:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
     }
   ]

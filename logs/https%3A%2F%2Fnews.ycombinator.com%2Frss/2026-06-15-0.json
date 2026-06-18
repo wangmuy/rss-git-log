@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-15",
     "newestItemDate": "2026-06-15",
-    "itemCount": 49,
-    "generatedAt": "2026-06-18T05:09:15.994Z"
+    "itemCount": 52,
+    "generatedAt": "2026-06-18T11:59:22.425Z"
   },
   "items": [
     {
@@ -300,6 +300,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWluZGZydWl0LmNvLnVrJTJGcG9zdHMlMkYyMDI1JTJGMTAlMkZtYWdpYy1idWZmZXJzLWFuZC1pby11cmluZy13cml0ZS1maXhlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pbmRmcnVpdC5jby51ayUyRnBvc3RzJTJGMjAyNSUyRjEwJTJGbWFnaWMtYnVmZmVycy1hbmQtaW8tdXJpbmctd3JpdGUtZml4ZWQlMkYlN0NNYWdpYyUyMEJ1ZmZlcnMlMjBhbmQlMjBpb191cmluZyUyMFJlZ2lzdGVyZWQlMjBCdWZmZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Mzg2MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAwOSUzQTEwJTNBNTYlMjAlMkIwMDAw",
       "title": "Magic Buffers and io_uring Registered Buffers",
       "pubDate": "Mon, 15 Jun 2026 09:10:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2dlbi5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRnNvZ2VuLmRldiUyRiU3Q1NvZ2VuJTIwJUUyJTgwJTkzJTIwSGlnaC1wZXJmb3JtYW5jZSUyMFdpbmRvd3MlMjBhbmQlMjBMaW51eCUyMHVzZXJzcGFjZSUyMGVtdWxhdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Mzc0ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAwNiUzQTQ3JTNBNTQlMjAlMkIwMDAw",
+      "title": "Sogen – High-performance Windows and Linux userspace emulator",
+      "pubDate": "Mon, 15 Jun 2026 06:47:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub2ZmdGhlYnJpY2tzLmNvbSUyRmFydGljbGVzJTJGc21hc2hlZC10b2lsZXQtcGhvbmUtd2ViLXNlcnZlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9mZnRoZWJyaWNrcy5jb20lMkZhcnRpY2xlcyUyRnNtYXNoZWQtdG9pbGV0LXBob25lLXdlYi1zZXJ2ZXIlN0NTbWFzaGVkJTIwVG9pbGV0JTIwUGhvbmUlMjBXZWIlMjBTZXJ2ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzNTgyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDAyJTNBMTklM0E0OCUyMCUyQjAwMDA",
+      "title": "Smashed Toilet Phone Web Server",
+      "pubDate": "Mon, 15 Jun 2026 02:19:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW55bC1jYWNoZS5vcmclMkZvcmdhbml6YXRpb24lMkZvbl92aW55bF9jYWNoZV9hbmRfdmFybmlzaF9jYWNoZS5odG1sJTIzb3JnLXZpbnlsLXZhcm5pc2glN0NodHRwcyUzQSUyRiUyRnZpbnlsLWNhY2hlLm9yZyUyRm9yZ2FuaXphdGlvbiUyRm9uX3ZpbnlsX2NhY2hlX2FuZF92YXJuaXNoX2NhY2hlLmh0bWwlMjNvcmctdmlueWwtdmFybmlzaCU3Q1ZpbnlsJTIwQ2FjaGUlMjBhbmQlMjBWYXJuaXNoJTIwQ2FjaGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzNDkwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDAwJTNBMzIlM0EyNCUyMCUyQjAwMDA",
+      "title": "Vinyl Cache and Varnish Cache",
+      "pubDate": "Mon, 15 Jun 2026 00:32:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
     }
   ]
