@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-14",
     "newestItemDate": "2026-06-14",
-    "itemCount": 56,
-    "generatedAt": "2026-06-17T18:37:21.349Z"
+    "itemCount": 57,
+    "generatedAt": "2026-06-18T18:37:40.706Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFraW5nc29mdHdhcmUuY29tJTJGY2hhcHRlcnMlMkZpbWFnZS1jb21wcmVzc2lvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1ha2luZ3NvZnR3YXJlLmNvbSUyRmNoYXB0ZXJzJTJGaW1hZ2UtY29tcHJlc3Npb24lN0NJbWFnZSUyMENvbXByZXNzaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MjI5MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNCUyMEp1biUyMDIwMjYlMjAwMCUzQTI2JTNBMDIlMjAlMkIwMDAw",
       "title": "Image Compression",
       "pubDate": "Sun, 14 Jun 2026 00:26:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVDhSSU4lMkZJbWFnZVRvb2xib3glMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZUOFJJTiUyRkltYWdlVG9vbGJveCUyRiU3Q0ltYWdlJTIwVG9vbGJveCUyMChUOFJJTiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODUzNDEwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE0JTIwSnVuJTIwMjAyNiUyMDIzJTNBMjAlM0EwMCUyMCUyQjAwMDA",
+      "title": "Image Toolbox (T8RIN)",
+      "pubDate": "Sun, 14 Jun 2026 23:20:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-14-0.json"
     }
   ]
