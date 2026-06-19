@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-18",
     "newestItemDate": "2026-06-18",
-    "itemCount": 34,
-    "generatedAt": "2026-06-18T18:37:40.705Z"
+    "itemCount": 46,
+    "generatedAt": "2026-06-19T05:28:47.702Z"
   },
   "items": [
     {
@@ -210,6 +210,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZWxzb24uY2xvdWQlMkYuZ2l0aWdub3JlLWlzbnQtdGhlLW9ubHktd2F5LXRvLWlnbm9yZS1maWxlcy1pbi1naXQlMkYlN0NodHRwcyUzQSUyRiUyRm5lbHNvbi5jbG91ZCUyRi5naXRpZ25vcmUtaXNudC10aGUtb25seS13YXktdG8taWdub3JlLWZpbGVzLWluLWdpdCUyRiU3Qy5naXRpZ25vcmUlMjBJc24ndCUyMHRoZSUyME9ubHklMjBXYXklMjB0byUyMElnbm9yZSUyMEZpbGVzJTIwaW4lMjBHaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU4MzM1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDEwJTNBMjklM0EyMCUyMCUyQjAwMDA",
       "title": ".gitignore Isn't the Only Way to Ignore Files in Git",
       "pubDate": "Thu, 18 Jun 2026 10:29:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1vZGVsY29udGV4dHByb3RvY29sLmlvJTJGcG9zdHMlMkZlbnRlcnByaXNlLW1hbmFnZWQtYXV0aCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5tb2RlbGNvbnRleHRwcm90b2NvbC5pbyUyRnBvc3RzJTJGZW50ZXJwcmlzZS1tYW5hZ2VkLWF1dGglMkYlN0NaZXJvLVRvdWNoJTIwT0F1dGglMjBmb3IlMjBNQ1AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5MjE2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDIxJTNBNTQlM0ExMCUyMCUyQjAwMDA",
+      "title": "Zero-Touch OAuth for MCP",
+      "pubDate": "Thu, 18 Jun 2026 21:54:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50aGV3ZWlnaHRzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmludGhld2VpZ2h0cy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBBcmUlMjBZb3UlMjBpbiUyMHRoZSUyMFdlaWdodHMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5MTM0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDIwJTNBNDklM0EwMyUyMCUyQjAwMDA",
+      "title": "Show HN: Are You in the Weights?",
+      "pubDate": "Thu, 18 Jun 2026 20:49:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHBvbGFrb3ZpYy5zcGFjZSUyRmJsb2dzJTJGem9yay1wYXJ0MiUyM3VwZGF0ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRwb2xha292aWMuc3BhY2UlMkZibG9ncyUyRnpvcmstcGFydDIlMjN1cGRhdGUlN0Nab3JrJTIwbmFtZSUyMG9yaWdpbiUyMGdvdCUyMGFuJTIwdXBkYXRlJTIwb24lMjBXaWtpcGVkaWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5MTA2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDIwJTNBMjclM0EyOCUyMCUyQjAwMDA",
+      "title": "Zork name origin got an update on Wikipedia",
+      "pubDate": "Thu, 18 Jun 2026 20:27:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhhdHByaXZhY3lndXkuY29tJTJGYmxvZyUyRmVsa2pvcC1mb3JjZWQtY29uc2VudC1maW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhhdHByaXZhY3lndXkuY29tJTJGYmxvZyUyRmVsa2pvcC1mb3JjZWQtY29uc2VudC1maW5lJTJGJTdDSSUyMHRvbGQlMjB0aGVtJTIwZm9yY2VkJTIwY29uc2VudCUyMHdhcyUyMHVubGF3ZnVsLiUyMDUlMjB5ZWFycyUyMGxhdGVyJTIwaXQlMjBjb3N0JTIwRWxram9wJTIwJUUyJTgyJUFDMS44TSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTg5NTAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMTglM0EzMSUzQTIzJTIwJTJCMDAwMA",
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "pubDate": "Thu, 18 Jun 2026 18:31:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmR4bGFicy5jb20lMkZyZXNlYXJjaCUyRjIwMjYlMkZyb2JvdGljcy1zZXR1cCUyRiU3Q2h0dHBzJTNBJTJGJTJGZGZkeGxhYnMuY29tJTJGcmVzZWFyY2glMkYyMDI2JTJGcm9ib3RpY3Mtc2V0dXAlMkYlN0NCdWlsZGluZyUyMGElMjByb2JvdGljcyUyMHJlc2VhcmNoJTIwc2V0dXAlMjB0aGF0JTIwbGl2ZXMlMjBuZXh0JTIwdG8lMjBteSUyMGRlc2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU4NjMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDE0JTNBNTElM0E1MyUyMCUyQjAwMDA",
+      "title": "Building a robotics research setup that lives next to my desk",
+      "pubDate": "Thu, 18 Jun 2026 14:51:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2FqYWwtdGVjaG5vbG9naWVzJTJGdGFsb3MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZjYWphbC10ZWNobm9sb2dpZXMlMkZ0YWxvcyU3Q1Nob3clMjBITiUzQSUyMFRhbG9zJTIwJUUyJTgwJTkzJTIwT3Blbi1zb3VyY2UlMjBXQVNNJTIwaW50ZXJwcmV0ZXIlMjBmb3IlMjBMZWFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODQ3NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAxMyUzQTEwJTNBNDQlMjAlMkIwMDAw",
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "pubDate": "Thu, 18 Jun 2026 13:10:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmFsYmVydGFzLXdhci1vbi1yYXRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmFsYmVydGFzLXdhci1vbi1yYXRzJTJGJTdDSG93JTIwQWxiZXJ0YSUyMEVyYWRpY2F0ZWQlMjBSYXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODQ3MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAxMyUzQTA1JTNBNTglMjAlMkIwMDAw",
+      "title": "How Alberta Eradicated Rats",
+      "pubDate": "Thu, 18 Jun 2026 13:05:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVsZW5hcm9zc2luaS5jb20lMkZ3LXNvY2lhbC1wdWJsaWMtaW5zdGl0dXRpb25zLWFuZC10aGUtdGhlYXRlci1vZi1ldXJvcGVhbi1kaWdpdGFsLXNvdmVyZWlnbnR5JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVsZW5hcm9zc2luaS5jb20lMkZ3LXNvY2lhbC1wdWJsaWMtaW5zdGl0dXRpb25zLWFuZC10aGUtdGhlYXRlci1vZi1ldXJvcGVhbi1kaWdpdGFsLXNvdmVyZWlnbnR5JTJGJTdDVyUyMFNvY2lhbCUyQyUyMHB1YmxpYyUyMGluc3RpdHV0aW9ucyUyMGFuZCUyMHRoZSUyMHRoZWF0ZXIlMjBvZiUyMEV1cm9wZWFuJTIwZGlnaXRhbCUyMHNvdmVyZWlnbnR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODQ0OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAxMiUzQTQ2JTNBMDQlMjAlMkIwMDAw",
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "pubDate": "Thu, 18 Jun 2026 12:46:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3MuY29ybmVsbC5lZHUlMkZjb3Vyc2VzJTJGY3M2MTIwJTJGMjAyNWZhJTJGc2VsZi1ndWlkZWQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcy5jb3JuZWxsLmVkdSUyRmNvdXJzZXMlMkZjczYxMjAlMkYyMDI1ZmElMkZzZWxmLWd1aWRlZCUyRiU3Q0NTJTIwNjEyMCUzQSUyMEFkdmFuY2VkJTIwQ29tcGlsZXJzJTNBJTIwVGhlJTIwU2VsZi1HdWlkZWQlMjBPbmxpbmUlMjBDb3Vyc2UlMjAoMjAyMCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU4MzYwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDExJTNBMDQlM0EzMSUyMCUyQjAwMDA",
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "pubDate": "Thu, 18 Jun 2026 11:04:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2NsLmFjLnVrJTJGbmV3cyUyRmhvc3BpdGFscy1hbmQtdW5pdmVyc2l0aWVzLXJlcHVycG9zaW5nLWRydWdzLWF0LTkwLWxvd2VyLWNvc3QlN0NodHRwcyUzQSUyRiUyRnd3dy5rY2wuYWMudWslMkZuZXdzJTJGaG9zcGl0YWxzLWFuZC11bml2ZXJzaXRpZXMtcmVwdXJwb3NpbmctZHJ1Z3MtYXQtOTAtbG93ZXItY29zdCU3Q0hvc3BpdGFscyUyMGFuZCUyMHVuaXZlcnNpdGllcyUyMHJlcHVycG9zaW5nJTIwZHJ1Z3MlMjBhdCUyMGxvd2VyJTIwY29zdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTgzMzg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMTAlM0EzMyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "pubDate": "Thu, 18 Jun 2026 10:33:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWxzb24uY2xvdWQlMkYuZ2l0aWdub3JlLWlzbnQtdGhlLW9ubHktd2F5LXRvLWlnbm9yZS1maWxlcy1pbi1naXQlMkYlN0NodHRwcyUzQSUyRiUyRm5lbHNvbi5jbG91ZCUyRi5naXRpZ25vcmUtaXNudC10aGUtb25seS13YXktdG8taWdub3JlLWZpbGVzLWluLWdpdCUyRiU3Qy5naXRpZ25vcmUlMjBJc24ndCUyMHRoZSUyMG9ubHklMjB3YXklMjB0byUyMGlnbm9yZSUyMGZpbGVzJTIwaW4lMjBHaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU4MzM1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDEwJTNBMjklM0EyMCUyMCUyQjAwMDA",
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "pubDate": "Thu, 18 Jun 2026 10:29:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRk5vYW1TaGF6ZWVyJTJGc3RhdHVzJTJGMjA2NzQwMDg1MTQzODkzMjI5NyU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZOb2FtU2hhemVlciUyRnN0YXR1cyUyRjIwNjc0MDA4NTE0Mzg5MzIyOTclN0NOb2FtJTIwU2hhemVlciUyMEpvaW5zJTIwT3BlbkFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Nzg5MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAwMCUzQTI2JTNBMDYlMjAlMkIwMDAw",
+      "title": "Noam Shazeer Joins OpenAI",
+      "pubDate": "Thu, 18 Jun 2026 00:26:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
     }
   ]

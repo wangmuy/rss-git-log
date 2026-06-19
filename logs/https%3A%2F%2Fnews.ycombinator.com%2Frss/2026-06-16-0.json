@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-16",
     "newestItemDate": "2026-06-16",
-    "itemCount": 52,
-    "generatedAt": "2026-06-18T18:37:40.705Z"
+    "itemCount": 53,
+    "generatedAt": "2026-06-19T05:28:47.703Z"
   },
   "items": [
     {
@@ -318,6 +318,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWNzd2VlbmV5cy5uZXQlMkZhcnRpY2xlcyUyRm5vdGVzLWZyb20tYS10aXJlZC1lZ3lwdGlhbi1ndXktd2hvc2Utam9iLWlzLWV4cGxhaW5pbmctdGhhdC1odW1hbnMtYnVpbHQtdGhlLXB5cmFtaWRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWNzd2VlbmV5cy5uZXQlMkZhcnRpY2xlcyUyRm5vdGVzLWZyb20tYS10aXJlZC1lZ3lwdGlhbi1ndXktd2hvc2Utam9iLWlzLWV4cGxhaW5pbmctdGhhdC1odW1hbnMtYnVpbHQtdGhlLXB5cmFtaWRzJTdDTm90ZXMlMjBmcm9tJTIwVGlyZWQlMjBFZ3lwdGlhbiUyMFdob3NlJTIwSm9iJTIwSXMlMjBFeHBsYWluaW5nJTIwVGhhdCUyMEh1bWFucyUyMEJ1aWx0JTIwdGhlJTIwUHlyYW1pZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1Mjc2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDA5JTNBMzYlM0EzMCUyMCUyQjAwMDA",
       "title": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
       "pubDate": "Tue, 16 Jun 2026 09:36:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3JleWJlYW0uYWklMkZibG9nJTJGZHVja2RiLWludGVybmFscy1wYXJ0LTElN0NodHRwcyUzQSUyRiUyRnd3dy5ncmV5YmVhbS5haSUyRmJsb2clMkZkdWNrZGItaW50ZXJuYWxzLXBhcnQtMSU3Q0R1Y2tEQiUyMEludGVybmFscyUzQSUyMFdoeSUyMElzJTIwRHVja0RCJTIwRmFzdCUzRiUyMChQYXJ0JTIwMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1MzM4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDExJTNBMDclM0EwOCUyMCUyQjAwMDA",
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "pubDate": "Tue, 16 Jun 2026 11:07:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
     }
   ]

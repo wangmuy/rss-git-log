@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-15",
     "newestItemDate": "2026-06-15",
-    "itemCount": 54,
-    "generatedAt": "2026-06-18T18:37:40.705Z"
+    "itemCount": 59,
+    "generatedAt": "2026-06-19T05:28:47.703Z"
   },
   "items": [
     {
@@ -330,6 +330,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcmFzLXAuaW5mbyUyRmJsb2clMkYyMDI2JTJGMDYlMkYxMSUyRlVuaXR5LXZzLWZsb2F0aW5nLXBvaW50JTJGJTdDaHR0cHMlM0ElMkYlMkZhcmFzLXAuaW5mbyUyRmJsb2clMkYyMDI2JTJGMDYlMkYxMSUyRlVuaXR5LXZzLWZsb2F0aW5nLXBvaW50JTJGJTdDVW5pdHklMjB2cy4lMjBGbG9hdGluZyUyMFBvaW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Mzk5NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAxMSUzQTUzJTNBNDclMjAlMkIwMDAw",
       "title": "Unity vs. Floating Point",
       "pubDate": "Mon, 15 Jun 2026 11:53:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWVyaWNhbmV4cHJlc3MuaW8lMkZjZWxsLWJhc2VkLWFyY2hpdGVjdHVyZS1mb3ItcmVzaWxpZW50LXBheW1lbnQtc3lzdGVtcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYW1lcmljYW5leHByZXNzLmlvJTJGY2VsbC1iYXNlZC1hcmNoaXRlY3R1cmUtZm9yLXJlc2lsaWVudC1wYXltZW50LXN5c3RlbXMlMkYlN0NDZWxsLWJhc2VkJTIwYXJjaGl0ZWN0dXJlJTIwZm9yJTIwcmVzaWxpZW50JTIwcGF5bWVudCUyMHN5c3RlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU0Nzk2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE1JTIwSnVuJTIwMjAyNiUyMDIyJTNBMzYlM0EzMyUyMCUyQjAwMDA",
+      "title": "Cell-based architecture for resilient payment systems",
+      "pubDate": "Mon, 15 Jun 2026 22:36:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnBhdWxidWNoaGVpdC5ibG9nc3BvdC5jb20lMkYyMDEwJTJGMDIlMkZpZi15b3VyLXByb2R1Y3QtaXMtZ3JlYXQtaXQtZG9lc250LW5lZWQuaHRtbCU3Q2h0dHAlM0ElMkYlMkZwYXVsYnVjaGhlaXQuYmxvZ3Nwb3QuY29tJTJGMjAxMCUyRjAyJTJGaWYteW91ci1wcm9kdWN0LWlzLWdyZWF0LWl0LWRvZXNudC1uZWVkLmh0bWwlN0NJZiUyMHlvdXIlMjBwcm9kdWN0JTIwaXMlMjBHcmVhdCUyQyUyMGl0JTIwZG9lc24ndCUyMG5lZWQlMjB0byUyMGJlJTIwR29vZCUyMCgyMDEwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTQ0NDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMTclM0EyNiUzQTUyJTIwJTJCMDAwMA",
+      "title": "If your product is Great, it doesn't need to be Good (2010)",
+      "pubDate": "Mon, 15 Jun 2026 17:26:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLm1pdC5lZHUlMkYyMDI2JTJGdG8tc3R1ZHktaG93LWNoaXBzLXJlYWxseS13b3JrLW1pdC1yZXNlYXJjaGVycy1idWlsdC10aGVpci1vd24tb3BlcmF0aW5nLXN5c3RlbS0wNjEwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLm1pdC5lZHUlMkYyMDI2JTJGdG8tc3R1ZHktaG93LWNoaXBzLXJlYWxseS13b3JrLW1pdC1yZXNlYXJjaGVycy1idWlsdC10aGVpci1vd24tb3BlcmF0aW5nLXN5c3RlbS0wNjEwJTdDVG8lMjBzdHVkeSUyMGhvdyUyMGNoaXBzJTIwd29yayUyQyUyME1JVCUyMHJlc2VhcmNoZXJzJTIwYnVpbHQlMjB0aGVpciUyMG93biUyMG9wZXJhdGluZyUyMHN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTQzMzExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMTYlM0EwNiUzQTIyJTIwJTJCMDAwMA",
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "pubDate": "Mon, 15 Jun 2026 16:06:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNrYWVsLmNhbm91aWwuZnIlMkZwb3N0cyUyRjIwMjYtMDYtMTUtZ3JpYm91aWxsZS0wLTMlMkYlN0NodHRwcyUzQSUyRiUyRm1pY2thZWwuY2Fub3VpbC5mciUyRnBvc3RzJTJGMjAyNi0wNi0xNS1ncmlib3VpbGxlLTAtMyUyRiU3Q0dyaWJvdWlsbGUlMjAwLjMuMCUzQSUyMEElMjBHcmFtbWFyJTIwb2YlMjBHcmFwaGljcyUyMGZvciUyMFR5cHN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NDEwNjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAxMyUzQTM1JTNBMjMlMjAlMkIwMDAw",
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "pubDate": "Mon, 15 Jun 2026 13:35:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3Jpem9ucy5sYW1iZGEtY29tYmluZS5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRmhvcml6b25zLmxhbWJkYS1jb21iaW5lLm5ldCUyRiU3Q0hvcml6b25zJTIwSlBMJTIwU29sYXIlMjBTeXN0ZW0lMjBEYXRhJTIwRGVtbyUyMGFuZCUyME5BU0ElMjBEU04lMjBVcGRhdGVzJTNBJTIwRGF0YXN0YXIlMkMlMjBDb21tb24lMjBMaXNwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MzYxNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAwMyUzQTE1JTNBNDElMjAlMkIwMDAw",
+      "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
+      "pubDate": "Mon, 15 Jun 2026 03:15:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
     }
   ]
