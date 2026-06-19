@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-19",
     "newestItemDate": "2026-06-19",
-    "itemCount": 8,
-    "generatedAt": "2026-06-19T12:21:05.599Z"
+    "itemCount": 16,
+    "generatedAt": "2026-06-19T18:11:01.331Z"
   },
   "items": [
     {
@@ -54,6 +54,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFjYy5vcmclMkZkb2klMkYxMC4xMDE2JTJGai5qYWNjYXMuMjAyNS4xMDQ4ODUlN0NodHRwcyUzQSUyRiUyRnd3dy5qYWNjLm9yZyUyRmRvaSUyRjEwLjEwMTYlMkZqLmphY2Nhcy4yMDI1LjEwNDg4NSU3Q0ljZSUyMHdhdGVyJTIwZHJvd25pbmclMjBzdXJ2aXZhbCUyMG9mJTIweW91bmclMjBwYXRpZW50JTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1OTQ1OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAwMyUzQTUwJTNBMjUlMjAlMkIwMDAw",
       "title": "Ice water drowning survival of young patient (2025)",
       "pubDate": "Fri, 19 Jun 2026 03:50:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMTk0Ny0xJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMTk0Ny0xJTdDSXMlMjBBSSUyMHJ1aW5pbmclMjBvdXIlMjBza2lsbHMlM0YlMjBFYXJseSUyMHJlc3VsdHMlMjBhcmUlMjBpbiUyMCVFMiU4MCU5MyUyMGFuZCUyMHRoZXkncmUlMjBub3QlMjBnb29kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDEyODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxOCUzQTAwJTNBNDglMjAlMkIwMDAw",
+      "title": "Is AI ruining our skills? Early results are in – and they're not good",
+      "pubDate": "Fri, 19 Jun 2026 18:00:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExMjgzMS1taWNyb3NvZnQtY29uZmlybXMtd2VpcmQtcmVjeWNsZS1iaW4tYnVnLXdpbmRvd3MtMTEuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRlY2hzcG90LmNvbSUyRm5ld3MlMkYxMTI4MzEtbWljcm9zb2Z0LWNvbmZpcm1zLXdlaXJkLXJlY3ljbGUtYmluLWJ1Zy13aW5kb3dzLTExLmh0bWwlN0NXaW5kb3dzJTIwMTElMjB1cGRhdGUlMjBicm9rZSUyMHRoZSUyMFJlY3ljbGUlMjBCaW4lMkMlMjBPbmVEcml2ZSUyQyUyMGFuZCUyMHlvdXIlMjBQQydzJTIwc3RhYmlsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDExNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxNyUzQTUzJTNBMTIlMjAlMkIwMDAw",
+      "title": "Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability",
+      "pubDate": "Fri, 19 Jun 2026 17:53:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRm5ldy1iaWxsLXRha2VzLWFpbS1nb3Zlcm5tZW50LXByZXNzdXJlLXNpbGVuY2UtbGF3ZnVsLW9ubGluZS1zcGVlY2glN0NodHRwcyUzQSUyRiUyRnd3dy5lZmYub3JnJTJGZGVlcGxpbmtzJTJGMjAyNiUyRjA2JTJGbmV3LWJpbGwtdGFrZXMtYWltLWdvdmVybm1lbnQtcHJlc3N1cmUtc2lsZW5jZS1sYXdmdWwtb25saW5lLXNwZWVjaCU3Q0ElMjBOZXclMjBCaWxsJTIwVGFrZXMlMjBBaW0lMjBhdCUyMEdvdmVybm1lbnQlMjBQcmVzc3VyZSUyMHRvJTIwU2lsZW5jZSUyMExhd2Z1bCUyME9ubGluZSUyMFNwZWVjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjAwOTUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTklMjBKdW4lMjAyMDI2JTIwMTclM0EzNCUzQTI4JTIwJTJCMDAwMA",
+      "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
+      "pubDate": "Fri, 19 Jun 2026 17:34:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWxlcy5mcm9tcHJvZC5jb20lMkYyMDI2JTJGMTY5JTJGZ29vZ2xlLXdvcmtzcGFjZS10aHJlYXRlbmluZy10by1ibG9jay1maXJlZm94Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnRhbGVzLmZyb21wcm9kLmNvbSUyRjIwMjYlMkYxNjklMkZnb29nbGUtd29ya3NwYWNlLXRocmVhdGVuaW5nLXRvLWJsb2NrLWZpcmVmb3guaHRtbCU3Q0dvb2dsZSUyMHdvcmtzcGFjZSUyMHRocmVhdGVuaW5nJTIwdG8lMjBibG9jayUyMEZpcmVmb3glMjBhY2Nlc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwMDM0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDE2JTNBMzAlM0E0OSUyMCUyQjAwMDA",
+      "title": "Google workspace threatening to block Firefox access",
+      "pubDate": "Fri, 19 Jun 2026 16:30:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFydHVwZm9ydHVuZS5jb20lMkZoeXVuZGFpLXRha2VzLWZ1bGwtY29udHJvbC1vZi1ib3N0b24tZHluYW1pY3MtYXMtc29mdGJhbmstZXhpdHMtZm9yLTMyNS1taWxsaW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGFydHVwZm9ydHVuZS5jb20lMkZoeXVuZGFpLXRha2VzLWZ1bGwtY29udHJvbC1vZi1ib3N0b24tZHluYW1pY3MtYXMtc29mdGJhbmstZXhpdHMtZm9yLTMyNS1taWxsaW9uJTJGJTdDSHl1bmRhaSUyMGJ1eXMlMjBCb3N0b24lMjBEeW5hbWljcyUyQyUyMEF0bGFzJTIwaHVtYW5vaWQlMjB0byUyMGJlJTIwdXNlZCUyMGF0JTIwdmVoaWNsZSUyMHBsYW50JTIwYnklMjAyMDI4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDAzMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxNiUzQTI4JTNBMjAlMjAlMkIwMDAw",
+      "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
+      "pubDate": "Fri, 19 Jun 2026 16:28:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcmlsZHJ1bi5iZWFyYmxvZy5kZXYlMkZzcG90aWZ5LWtpbGxlZC10aGUtdGhyaWxsLW9mLXRoZS1odW50JTJGJTdDaHR0cHMlM0ElMkYlMkZlcmlsZHJ1bi5iZWFyYmxvZy5kZXYlMkZzcG90aWZ5LWtpbGxlZC10aGUtdGhyaWxsLW9mLXRoZS1odW50JTJGJTdDU3BvdGlmeSUyMEtpbGxlZCUyMHRoZSUyMFRocmlsbCUyMG9mJTIwdGhlJTIwSHVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjAwMjM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTklMjBKdW4lMjAyMDI2JTIwMTYlM0ExOSUzQTU1JTIwJTJCMDAwMA",
+      "title": "Spotify Killed the Thrill of the Hunt",
+      "pubDate": "Fri, 19 Jun 2026 16:19:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaWNsYW1iYWtlLmNvbSUyRmNsYW10YWtlcyUyRmxpbmVhci1hJTJGJTdDaHR0cHMlM0ElMkYlMkZhaWNsYW1iYWtlLmNvbSUyRmNsYW10YWtlcyUyRmxpbmVhci1hJTJGJTdDQW1hdGV1ciUyMG1heSUyMGhhdmUlMjBjcmFja2VkJTIwTGluZWFyJTIwQSUyQyUyMGElMjAxMjAteWVhci1vbGQlMjBwdXp6bGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwMDEwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDE2JTNBMDQlM0E0MiUyMCUyQjAwMDA",
+      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+      "pubDate": "Fri, 19 Jun 2026 16:04:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvdmVycmVhY3RlZC5pbyUyRnRoZXJlLWFyZS1uby1pbnN0YW5jZXMtaW4tYXRwcm90byUyRiU3Q2h0dHBzJTNBJTJGJTJGb3ZlcnJlYWN0ZWQuaW8lMkZ0aGVyZS1hcmUtbm8taW5zdGFuY2VzLWluLWF0cHJvdG8lMkYlN0NUaGVyZSUyMEFyZSUyME5vJTIwSW5zdGFuY2VzJTIwaW4lMjBBVFByb3RvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1OTk1MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxNSUzQTEwJTNBMDIlMjAlMkIwMDAw",
+      "title": "There Are No Instances in ATProto",
+      "pubDate": "Fri, 19 Jun 2026 15:10:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
     }
   ]
