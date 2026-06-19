@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-16",
     "newestItemDate": "2026-06-16",
-    "itemCount": 53,
-    "generatedAt": "2026-06-19T05:28:47.703Z"
+    "itemCount": 54,
+    "generatedAt": "2026-06-19T12:21:05.599Z"
   },
   "items": [
     {
@@ -324,6 +324,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3JleWJlYW0uYWklMkZibG9nJTJGZHVja2RiLWludGVybmFscy1wYXJ0LTElN0NodHRwcyUzQSUyRiUyRnd3dy5ncmV5YmVhbS5haSUyRmJsb2clMkZkdWNrZGItaW50ZXJuYWxzLXBhcnQtMSU3Q0R1Y2tEQiUyMEludGVybmFscyUzQSUyMFdoeSUyMElzJTIwRHVja0RCJTIwRmFzdCUzRiUyMChQYXJ0JTIwMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1MzM4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDExJTNBMDclM0EwOCUyMCUyQjAwMDA",
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
       "pubDate": "Tue, 16 Jun 2026 11:07:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmp4bW8uaW8lMkZwJTJGemVuLWFuZC10aGUtYXJ0LW9mLW1hY2hpbmUtbGVhcm5pbmclN0NodHRwcyUzQSUyRiUyRmJsb2cuanhtby5pbyUyRnAlMkZ6ZW4tYW5kLXRoZS1hcnQtb2YtbWFjaGluZS1sZWFybmluZyU3Q1plbiUyMGFuZCUyMHRoZSUyMEFydCUyMG9mJTIwTWFjaGluZSUyMExlYXJuaW5nJTIwUmVzZWFyY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU0OTExOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDAwJTNBNDUlM0E1MCUyMCUyQjAwMDA",
+      "title": "Zen and the Art of Machine Learning Research",
+      "pubDate": "Tue, 16 Jun 2026 00:45:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
     }
   ]

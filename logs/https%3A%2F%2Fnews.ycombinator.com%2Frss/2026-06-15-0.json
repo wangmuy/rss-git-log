@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-15",
     "newestItemDate": "2026-06-15",
-    "itemCount": 59,
-    "generatedAt": "2026-06-19T05:28:47.703Z"
+    "itemCount": 63,
+    "generatedAt": "2026-06-19T12:21:05.600Z"
   },
   "items": [
     {
@@ -360,6 +360,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZob3Jpem9ucy5sYW1iZGEtY29tYmluZS5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRmhvcml6b25zLmxhbWJkYS1jb21iaW5lLm5ldCUyRiU3Q0hvcml6b25zJTIwSlBMJTIwU29sYXIlMjBTeXN0ZW0lMjBEYXRhJTIwRGVtbyUyMGFuZCUyME5BU0ElMjBEU04lMjBVcGRhdGVzJTNBJTIwRGF0YXN0YXIlMkMlMjBDb21tb24lMjBMaXNwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1MzYxNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAwMyUzQTE1JTNBNDElMjAlMkIwMDAw",
       "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
       "pubDate": "Mon, 15 Jun 2026 03:15:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdG9pbmJveCUyRnNpbXBsZXJlbGF5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdG9pbmJveCUyRnNpbXBsZXJlbGF5JTdDU01UUCUyMFJlbGF5JTIwd2l0aCUyMFdlYiUyMERhc2hib2FyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTQ3NjU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMjIlM0EwNiUzQTEyJTIwJTJCMDAwMA",
+      "title": "SMTP Relay with Web Dashboard",
+      "pubDate": "Mon, 15 Jun 2026 22:06:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZvcGVuLXNvdXJjZS0xMCU3Q2h0dHBzJTNBJTJGJTJGY2xpY2tob3VzZS5jb20lMkZibG9nJTJGb3Blbi1zb3VyY2UtMTAlN0NUZW4lMjB5ZWFycyUyMG9mJTIwQ2xpY2tIb3VzZSUyMGluJTIwb3BlbiUyMHNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTQ2ODkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMjAlM0E1MSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Ten years of ClickHouse in open source",
+      "pubDate": "Mon, 15 Jun 2026 20:51:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYWt1LmZvdW5kYXRpb24lN0NodHRwcyUzQSUyRiUyRnJha3UuZm91bmRhdGlvbiUyRiU3Q1RoZSUyMFJha3UlMjBGb3VuZGF0aW9uJTIwaXMlMjBib3JuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NDE5NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNSUyMEp1biUyMDIwMjYlMjAxNCUzQTM2JTNBMjklMjAlMkIwMDAw",
+      "title": "The Raku Foundation is born",
+      "pubDate": "Mon, 15 Jun 2026 14:36:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZha3NlM2QtZW4uc2thcGVyaWV0Lm5vJTdDaHR0cHMlM0ElMkYlMkZha3NlM2QtZW4uc2thcGVyaWV0Lm5vJTJGJTdDQWtzZTNEJTIwJUUyJTgwJTkzJTIwb3Blbi1zb3VyY2UlMjAzRCUyMG1vZGVsbGluZyUyMGFueW9uZSUyMGNhbiUyMG1hc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTQwNzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTUlMjBKdW4lMjAyMDI2JTIwMTMlM0ExMyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Akse3D – open-source 3D modelling anyone can master",
+      "pubDate": "Mon, 15 Jun 2026 13:13:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-15-0.json"
     }
   ]
