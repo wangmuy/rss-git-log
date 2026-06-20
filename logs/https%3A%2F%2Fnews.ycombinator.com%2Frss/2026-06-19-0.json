@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-19",
     "newestItemDate": "2026-06-19",
-    "itemCount": 16,
-    "generatedAt": "2026-06-19T18:11:01.331Z"
+    "itemCount": 28,
+    "generatedAt": "2026-06-20T04:44:14.728Z"
   },
   "items": [
     {
@@ -102,6 +102,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvdmVycmVhY3RlZC5pbyUyRnRoZXJlLWFyZS1uby1pbnN0YW5jZXMtaW4tYXRwcm90byUyRiU3Q2h0dHBzJTNBJTJGJTJGb3ZlcnJlYWN0ZWQuaW8lMkZ0aGVyZS1hcmUtbm8taW5zdGFuY2VzLWluLWF0cHJvdG8lMkYlN0NUaGVyZSUyMEFyZSUyME5vJTIwSW5zdGFuY2VzJTIwaW4lMjBBVFByb3RvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1OTk1MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxNSUzQTEwJTNBMDIlMjAlMkIwMDAw",
       "title": "There Are No Instances in ATProto",
       "pubDate": "Fri, 19 Jun 2026 15:10:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjA0MjMyJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjA0MjMyJTdDQXNrJTIwSE4lM0ElMjBXaWxsJTIwcHJvZ3JhbW1lcnMlMjB3cml0ZSUyMG1vcmUlMjBlZmZpY2llbnQlMjBjb2RlJTIwZHVyaW5nJTIwdGhlJTIwbWVtb3J5JTIwc2hvcnRhZ2UlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwNDIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDIyJTNBNTElM0EwOSUyMCUyQjAwMDA",
+      "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+      "pubDate": "Fri, 19 Jun 2026 22:51:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlplbnppemVueml6ZW56aWMlN0NodHRwcyUzQSUyRiUyRmVuLndpa2lwZWRpYS5vcmclMkZ3aWtpJTJGWmVueml6ZW56aXplbnppYyU3Q1plbnppemVueml6ZW56aWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwMzY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDIxJTNBNDklM0E0NCUyMCUyQjAwMDA",
+      "title": "Zenzizenzizenzic",
+      "pubDate": "Fri, 19 Jun 2026 21:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm9va2VyLmNvLnphJTJGYmxvZyUyRjIwMjAlMkYwOCUyRjA2JTJGZXJsYW5nLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJyb29rZXIuY28uemElMkZibG9nJTJGMjAyMCUyRjA4JTJGMDYlMkZlcmxhbmcuaHRtbCU3Q1N1cnByaXNpbmclMjBFY29ub21pY3MlMjBvZiUyMExvYWQtQmFsYW5jZWQlMjBTeXN0ZW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDI5MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAyMCUzQTMwJTNBNTklMjAlMkIwMDAw",
+      "title": "Surprising Economics of Load-Balanced Systems",
+      "pubDate": "Fri, 19 Jun 2026 20:30:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub2NoYW4ubmV0JTJGYiUyRkludGVybmV0LUNyYXAlMkYyMDIzMDgyOS1UaGluay1PZi1UaGUtQ2hpbGRyZW4lMkYlN0NodHRwcyUzQSUyRiUyRm5vY2hhbi5uZXQlMkZiJTJGSW50ZXJuZXQtQ3JhcCUyRjIwMjMwODI5LVRoaW5rLU9mLVRoZS1DaGlsZHJlbiUyRiU3Q1RoaW5rJTIwb2YlMjB0aGUlMjBjaGlsZHJlbiUzQSUyMEhvdyUyMHRvJTIwZm9yY2UlMjByZWFsJTIwSUQlMjBmb3IlMjBhbGwlMjBpbnRlcm5ldCUyMHRyYWZmaWMlMjAoMjAyMyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwMjgxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDIwJTNBMTklM0E1NyUyMCUyQjAwMDA",
+      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+      "pubDate": "Fri, 19 Jun 2026 20:19:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVnYWN5LmNvbSUyRmxlZ2FjeSUyRnJvYmVydC1ib2JieS1wcmluY2UtbGxsJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGVnYWN5LmNvbSUyRmxlZ2FjeSUyRnJvYmVydC1ib2JieS1wcmluY2UtbGxsJTdDQm9iYnklMjBQcmluY2UlMkMlMjBjb21wb3NlciUyMGZvciUyMERvb20lMkMlMjBXb2xmZW5zdGVpbiUyMDNEJTJDJTIwYW5kJTIwRHVrZSUyME51a2VtJTIwM0QlMkMlMjBoYXMlMjBkaWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDIzNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxOSUzQTM1JTNBMTUlMjAlMkIwMDAw",
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "pubDate": "Fri, 19 Jun 2026 19:35:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaWdiYW5hbmFjYXIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZiaWdiYW5hbmFjYXIuY29tJTJGJTdDQmlnJTIwQmFuYW5hJTIwQ2FyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDE0MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxOCUzQTE0JTNBMTElMjAlMkIwMDAw",
+      "title": "Big Banana Car",
+      "pubDate": "Fri, 19 Jun 2026 18:14:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkpvaG5KdW1wZXJTY2klMkZzdGF0dXMlMkYyMDY4MDAxMjg1MTczODM0MTA2JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkpvaG5KdW1wZXJTY2klMkZzdGF0dXMlMkYyMDY4MDAxMjg1MTczODM0MTA2JTdDSm9obiUyMEp1bXBlciUyMHRvJTIwam9pbiUyMEFudGhyb3BpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjAxMTYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTklMjBKdW4lMjAyMDI2JTIwMTclM0E1MyUzQTAwJTIwJTJCMDAwMA",
+      "title": "John Jumper to join Anthropic",
+      "pubDate": "Fri, 19 Jun 2026 17:53:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRmNvdXJ0LXJlY29yZHMtc2hvdWxkLWJlLWZyZWUlN0NodHRwcyUzQSUyRiUyRnd3dy5lZmYub3JnJTJGZGVlcGxpbmtzJTJGMjAyNiUyRjA2JTJGY291cnQtcmVjb3Jkcy1zaG91bGQtYmUtZnJlZSU3Q0NvdXJ0JTIwUmVjb3JkcyUyMFNob3VsZCUyMEJlJTIwRnJlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjAwOTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTklMjBKdW4lMjAyMDI2JTIwMTclM0EzNCUzQTE4JTIwJTJCMDAwMA",
+      "title": "Court Records Should Be Free",
+      "pubDate": "Fri, 19 Jun 2026 17:34:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFydHVwZm9ydHVuZS5jb20lMkZoeXVuZGFpLXRha2VzLWZ1bGwtY29udHJvbC1vZi1ib3N0b24tZHluYW1pY3MtYXMtc29mdGJhbmstZXhpdHMtZm9yLTMyNS1taWxsaW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGFydHVwZm9ydHVuZS5jb20lMkZoeXVuZGFpLXRha2VzLWZ1bGwtY29udHJvbC1vZi1ib3N0b24tZHluYW1pY3MtYXMtc29mdGJhbmstZXhpdHMtZm9yLTMyNS1taWxsaW9uJTJGJTdDSHl1bmRhaSUyMGJ1eXMlMjBCb3N0b24lMjBEeW5hbWljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjAwMzEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTklMjBKdW4lMjAyMDI2JTIwMTYlM0EyOCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Hyundai buys Boston Dynamics",
+      "pubDate": "Fri, 19 Jun 2026 16:28:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ0ZWNobm9sb2d5JTJGbm9yd2F5LWltcG9zZXMtbmVhci1iYW4tYWktZWxlbWVudGFyeS1zY2hvb2wtMjAyNi0wNi0xOSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGdGVjaG5vbG9neSUyRm5vcndheS1pbXBvc2VzLW5lYXItYmFuLWFpLWVsZW1lbnRhcnktc2Nob29sLTIwMjYtMDYtMTklMkYlN0NOb3J3YXklMjBpbXBvc2VzJTIwbmVhciUyMGJhbiUyMG9uJTIwQUklMjBpbiUyMGVsZW1lbnRhcnklMjBzY2hvb2wlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwMDA5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDE2JTNBMDMlM0ExNSUyMCUyQjAwMDA",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "pubDate": "Fri, 19 Jun 2026 16:03:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvdmVycmVhY3RlZC5pbyUyRnRoZXJlLWFyZS1uby1pbnN0YW5jZXMtaW4tYXRwcm90byUyRiU3Q2h0dHBzJTNBJTJGJTJGb3ZlcnJlYWN0ZWQuaW8lMkZ0aGVyZS1hcmUtbm8taW5zdGFuY2VzLWluLWF0cHJvdG8lMkYlN0NUaGVyZSUyMGFyZSUyMG5vJTIwaW5zdGFuY2VzJTIwaW4lMjBBVFByb3RvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1OTk1MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxNSUzQTEwJTNBMDIlMjAlMkIwMDAw",
+      "title": "There are no instances in ATProto",
+      "pubDate": "Fri, 19 Jun 2026 15:10:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2b2NhYm93bC04NzAzNjY1MTQyNTgudXMtd2VzdDEucnVuLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGdm9jYWJvd2wtODcwMzY2NTE0MjU4LnVzLXdlc3QxLnJ1bi5hcHAlMkYlN0NIb3clMjBtYW55JTIwb2YlMjB0aGUlMjAxNzBrJTIwRW5nbGlzaCUyMHdvcmRzJTIwZG8lMjB5b3UlMjBrbm93JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1OTg1ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxMyUzQTUxJTNBMzYlMjAlMkIwMDAw",
+      "title": "How many of the 170k English words do you know?",
+      "pubDate": "Fri, 19 Jun 2026 13:51:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
     }
   ]

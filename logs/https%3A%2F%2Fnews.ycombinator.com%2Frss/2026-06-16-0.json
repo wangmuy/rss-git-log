@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-16",
     "newestItemDate": "2026-06-16",
-    "itemCount": 57,
-    "generatedAt": "2026-06-19T18:11:01.331Z"
+    "itemCount": 59,
+    "generatedAt": "2026-06-20T04:44:14.729Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZrb3R0a2Uub3JnJTJGMjYlMkYwNiUyRnRlbGVzY29wZS1yYW5jaGVycyU3Q2h0dHBzJTNBJTJGJTJGa290dGtlLm9yZyUyRjI2JTJGMDYlMkZ0ZWxlc2NvcGUtcmFuY2hlcnMlN0NUZWxlc2NvcGUlMjBSYW5jaGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTUzMTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTYlMjBKdW4lMjAyMDI2JTIwMTAlM0EzNCUzQTEwJTIwJTJCMDAwMA",
       "title": "Telescope Ranchers",
       "pubDate": "Tue, 16 Jun 2026 10:34:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXR0bWFob25leS5uZXQlMkZkYyUyRmRjZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXR0bWFob25leS5uZXQlMkZkYyUyRmRjZS5odG1sJTdDRGF0YSUyMENvbXByZXNzaW9uJTIwRXhwbGFpbmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjI2NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNiUyMEp1biUyMDIwMjYlMjAyMSUzQTUxJTNBNTclMjAlMkIwMDAw",
+      "title": "Data Compression Explained",
+      "pubDate": "Tue, 16 Jun 2026 21:51:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtc3N2Lm5ldCUyRjIwMjYlMkYwNiUyRjE2JTJGbWVldC1uaWtvbGFpLWV2cmVpbm92LXRoZS0xOXRoLWNlbnR1cnktbmF0aGFuLWZpZWxkZXIlMkYlN0NodHRwcyUzQSUyRiUyRm1zc3YubmV0JTJGMjAyNiUyRjA2JTJGMTYlMkZtZWV0LW5pa29sYWktZXZyZWlub3YtdGhlLTE5dGgtY2VudHVyeS1uYXRoYW4tZmllbGRlciUyRiU3Q01lZXQlMjBOaWtvbGFpJTIwRXZyZWlub3YlMkMlMjB0aGUlMjAxOXRoJTIwY2VudHVyeSUyME5hdGhhbiUyMEZpZWxkZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1NjMzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDE1JTNBMDAlM0EzMCUyMCUyQjAwMDA",
+      "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
+      "pubDate": "Tue, 16 Jun 2026 15:00:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
     }
   ]
