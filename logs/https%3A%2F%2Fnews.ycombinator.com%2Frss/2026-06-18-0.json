@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-18",
     "newestItemDate": "2026-06-18",
-    "itemCount": 50,
-    "generatedAt": "2026-06-20T10:42:56.595Z"
+    "itemCount": 51,
+    "generatedAt": "2026-06-20T17:50:17.348Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm90LXNoaXAuY29tJTJGY2FuLXlvdS1zZWUtdGhyZWUtdHJlZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ub3Qtc2hpcC5jb20lMkZjYW4teW91LXNlZS10aHJlZS10cmVlcyUyRiU3Q0NhbiUyMHlvdSUyMHNlZSUyMHRocmVlJTIwdHJlZXMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU4MjM3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDA4JTNBMTYlM0EyMCUyMCUyQjAwMDA",
       "title": "Can you see three trees?",
       "pubDate": "Thu, 18 Jun 2026 08:16:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2hvbGFyd29ya3MuaXUuZWR1JTJGaXVzd3JyZXN0JTJGYXBpJTJGY29yZSUyRmJpdHN0cmVhbXMlMkYyNjVkNzNhMC02YmZhLTQ1ZGYtOTJmZi00ZTdkM2Y4YmU0YjElMkZjb250ZW50JTdDaHR0cHMlM0ElMkYlMkZzY2hvbGFyd29ya3MuaXUuZWR1JTJGaXVzd3JyZXN0JTJGYXBpJTJGY29yZSUyRmJpdHN0cmVhbXMlMkYyNjVkNzNhMC02YmZhLTQ1ZGYtOTJmZi00ZTdkM2Y4YmU0YjElMkZjb250ZW50JTdDTWVuY2l1cyUyMCgyMDE2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTg3NTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMTYlM0EwOSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Mencius (2016)",
+      "pubDate": "Thu, 18 Jun 2026 16:09:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
     }
   ]

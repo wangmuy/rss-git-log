@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-17",
     "newestItemDate": "2026-06-17",
-    "itemCount": 43,
-    "generatedAt": "2026-06-20T10:42:56.595Z"
+    "itemCount": 47,
+    "generatedAt": "2026-06-20T17:50:17.349Z"
   },
   "items": [
     {
@@ -264,6 +264,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWJtLmNvbSUyRnRoaW5rJTJGbmV3cyUyRmRpc2NvdmVyeS1jaGFuZ2VkLWhvdy1zY2llbnRpc3RzLXRoaW5rLWFib3V0LW1lbW9yeS1rYXZsaS1wcml6ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmlibS5jb20lMkZ0aGluayUyRm5ld3MlMkZkaXNjb3ZlcnktY2hhbmdlZC1ob3ctc2NpZW50aXN0cy10aGluay1hYm91dC1tZW1vcnkta2F2bGktcHJpemUlN0NUaGUlMjBkaXNjb3ZlcnklMjB0aGF0JTIwY2hhbmdlZCUyMGhvdyUyMHNjaWVudGlzdHMlMjB0aGluayUyMGFib3V0JTIwbWVtb3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1Njg2NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAxMSUzQTA5JTNBMjklMjAlMkIwMDAw",
       "title": "The discovery that changed how scientists think about memory",
       "pubDate": "Wed, 17 Jun 2026 11:09:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGkudGhlZ3JlZW5wbGFjZS5uZXQlMkYyMDEyJTJGMDclMkYxMiUyRmNvbXB1dGVkLWdvdG8tZm9yLWVmZmljaWVudC1kaXNwYXRjaC10YWJsZXMlN0NodHRwcyUzQSUyRiUyRmVsaS50aGVncmVlbnBsYWNlLm5ldCUyRjIwMTIlMkYwNyUyRjEyJTJGY29tcHV0ZWQtZ290by1mb3ItZWZmaWNpZW50LWRpc3BhdGNoLXRhYmxlcyU3Q0NvbXB1dGVkJTIwZ290byUyMGZvciUyMGVmZmljaWVudCUyMGRpc3BhdGNoJTIwdGFibGVzJTIwKDIwMTIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NzA1ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAxMyUzQTUxJTNBMTAlMjAlMkIwMDAw",
+      "title": "Computed goto for efficient dispatch tables (2012)",
+      "pubDate": "Wed, 17 Jun 2026 13:51:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3JhemlvcmlsbG8lMkZtaWNyb2NyYWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvcmF6aW9yaWxsbyUyRm1pY3JvY3JhZCU3Q1Nob3clMjBITiUzQSUyME1pY3JvY3JhZCUyMCVFMiU4MCU5MyUyME1pY3JvZ3JhZCUyMFJlaW1wbGVtZW50ZWQlMjBpbiUyMEMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU3MDM2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDEzJTNBMzQlM0E0MiUyMCUyQjAwMDA",
+      "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
+      "pubDate": "Wed, 17 Jun 2026 13:34:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmJyb3ducGx0Lm9yZyUyRjIwMjYlMkYwNiUyRjA5JTJGcGljay5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLmJyb3ducGx0Lm9yZyUyRjIwMjYlMkYwNiUyRjA5JTJGcGljay5odG1sJTdDSHVtYW4lMjBKdWRnbWVudCUyMGFzJTIwYSUyMFNwZWNpZmljYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU2OTY3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE3JTIwSnVuJTIwMjAyNiUyMDEyJTNBNDUlM0ExMCUyMCUyQjAwMDA",
+      "title": "Human Judgment as a Specification",
+      "pubDate": "Wed, 17 Jun 2026 12:45:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZWFkZXIubWl0cHJlc3MubWl0LmVkdSUyRnRoZS1jb2xkLXdhcnMtYWNjaWRlbnRhbC13aGFsZS1vYnNlcnZhdG9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlcmVhZGVyLm1pdHByZXNzLm1pdC5lZHUlMkZ0aGUtY29sZC13YXJzLWFjY2lkZW50YWwtd2hhbGUtb2JzZXJ2YXRvcnklMkYlN0NUaGUlMjBDb2xkJTIwV2FyJ3MlMjBBY2NpZGVudGFsJTIwV2hhbGUlMjBPYnNlcnZhdG9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY0NDgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMDElM0EwNiUzQTEyJTIwJTJCMDAwMA",
+      "title": "The Cold War's Accidental Whale Observatory",
+      "pubDate": "Wed, 17 Jun 2026 01:06:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
     }
   ]
