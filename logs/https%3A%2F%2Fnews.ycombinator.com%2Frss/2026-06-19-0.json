@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-19",
     "newestItemDate": "2026-06-19",
-    "itemCount": 28,
-    "generatedAt": "2026-06-20T04:44:14.728Z"
+    "itemCount": 31,
+    "generatedAt": "2026-06-20T10:42:56.595Z"
   },
   "items": [
     {
@@ -174,6 +174,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2b2NhYm93bC04NzAzNjY1MTQyNTgudXMtd2VzdDEucnVuLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGdm9jYWJvd2wtODcwMzY2NTE0MjU4LnVzLXdlc3QxLnJ1bi5hcHAlMkYlN0NIb3clMjBtYW55JTIwb2YlMjB0aGUlMjAxNzBrJTIwRW5nbGlzaCUyMHdvcmRzJTIwZG8lMjB5b3UlMjBrbm93JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1OTg1ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxMyUzQTUxJTNBMzYlMjAlMkIwMDAw",
       "title": "How many of the 170k English words do you know?",
       "pubDate": "Fri, 19 Jun 2026 13:51:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm9va2VyLmNvLnphJTJGYmxvZyUyRjIwMjAlMkYwOCUyRjA2JTJGZXJsYW5nLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJyb29rZXIuY28uemElMkZibG9nJTJGMjAyMCUyRjA4JTJGMDYlMkZlcmxhbmcuaHRtbCU3Q1N1cnByaXNpbmclMjBlY29ub21pY3MlMjBvZiUyMGxvYWQtYmFsYW5jZWQlMjBzeXN0ZW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDI5MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAyMCUzQTMwJTNBNTklMjAlMkIwMDAw",
+      "title": "Surprising economics of load-balanced systems",
+      "pubDate": "Fri, 19 Jun 2026 20:30:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMDc3NjE5JTJGZjdiMDdjNTQ4OWZkZDQzYSUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTA3NzYxOSUyRmY3YjA3YzU0ODlmZGQ0M2ElMkYlN0NBVVJwb2NhbHlwc2UlMjBub3clM0ElMjBhJTIwbG9vayUyMGF0JTIwdGhlJTIwcmVjZW50JTIwQVVSJTIwYXR0YWNrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjAwNTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTklMjBKdW4lMjAyMDI2JTIwMTYlM0E1OSUzQTE2JTIwJTJCMDAwMA",
+      "title": "AURpocalypse now: a look at the recent AUR attacks",
+      "pubDate": "Fri, 19 Jun 2026 16:59:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnJvd3RzeC5kZXYlMkZiaWdnZXItbW9kZWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnJvd3RzeC5kZXYlMkZiaWdnZXItbW9kZWxzJTJGJTdDR1BULTUuNSUyMGhhbGx1Y2luYXRlcyUyMDN4JTIwbW9yZSUyMHRoYW4lMjBNSVQtbGljZW5zZWQlMjBHTE0tNS4yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDAxNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxNiUzQTExJTNBMjUlMjAlMkIwMDAw",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "pubDate": "Fri, 19 Jun 2026 16:11:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-16",
     "newestItemDate": "2026-06-16",
-    "itemCount": 59,
-    "generatedAt": "2026-06-20T04:44:14.729Z"
+    "itemCount": 63,
+    "generatedAt": "2026-06-20T10:42:56.595Z"
   },
   "items": [
     {
@@ -360,6 +360,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtc3N2Lm5ldCUyRjIwMjYlMkYwNiUyRjE2JTJGbWVldC1uaWtvbGFpLWV2cmVpbm92LXRoZS0xOXRoLWNlbnR1cnktbmF0aGFuLWZpZWxkZXIlMkYlN0NodHRwcyUzQSUyRiUyRm1zc3YubmV0JTJGMjAyNiUyRjA2JTJGMTYlMkZtZWV0LW5pa29sYWktZXZyZWlub3YtdGhlLTE5dGgtY2VudHVyeS1uYXRoYW4tZmllbGRlciUyRiU3Q01lZXQlMjBOaWtvbGFpJTIwRXZyZWlub3YlMkMlMjB0aGUlMjAxOXRoJTIwY2VudHVyeSUyME5hdGhhbiUyMEZpZWxkZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1NjMzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDE1JTNBMDAlM0EzMCUyMCUyQjAwMDA",
       "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
       "pubDate": "Tue, 16 Jun 2026 15:00:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWdpdGFsb3JpZW50YWxpc3QuY29tJTJGMjAxNyUyRjA4JTJGMjElMkZkaWdpdGFsLXByaW50aW5nLW9mLWFyYWJpYy1leHBsYWluaW5nLXRoZS1wcm9ibGVtJTJGJTdDaHR0cHMlM0ElMkYlMkZkaWdpdGFsb3JpZW50YWxpc3QuY29tJTJGMjAxNyUyRjA4JTJGMjElMkZkaWdpdGFsLXByaW50aW5nLW9mLWFyYWJpYy1leHBsYWluaW5nLXRoZS1wcm9ibGVtJTJGJTdDRGlnaXRhbCUyMFByaW50aW5nJTIwb2YlMjBBcmFiaWMlM0ElMjBleHBsYWluaW5nJTIwdGhlJTIwcHJvYmxlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTYzMDQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTYlMjBKdW4lMjAyMDI2JTIwMjIlM0EyMyUzQTA0JTIwJTJCMDAwMA",
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "pubDate": "Tue, 16 Jun 2026 22:23:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXR0bWFob25leS5uZXQlMkZkYyUyRmRjZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXR0bWFob25leS5uZXQlMkZkYyUyRmRjZS5odG1sJTdDRGF0YSUyMENvbXByZXNzaW9uJTIwRXhwbGFpbmVkJTIwKDIwMTIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjI2NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNiUyMEp1biUyMDIwMjYlMjAyMSUzQTUxJTNBNTclMjAlMkIwMDAw",
+      "title": "Data Compression Explained (2012)",
+      "pubDate": "Tue, 16 Jun 2026 21:51:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcm9uaWNzYW5zLmdob3N0LmlvJTJGdGhlLWNvbG9yLXN0cmlrZSUyRiU3Q2h0dHBzJTNBJTJGJTJGaXJvbmljc2Fucy5naG9zdC5pbyUyRnRoZS1jb2xvci1zdHJpa2UlMkYlN0NBJTIwMTk2OSUyMGNhbWVyYSUyMG9wZXJhdG9ycyclMjBzdHJpa2UlMjBjcmVhdGVkJTIwVXBzdGFpcnMlMjBEb3duc3RhaXJzJTIwbXVsdGl2ZXJzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTU5NzI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTYlMjBKdW4lMjAyMDI2JTIwMTglM0EyNCUzQTM5JTIwJTJCMDAwMA",
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "pubDate": "Tue, 16 Jun 2026 18:24:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNhZGVoZXJvZXMuY29tJTJGMjAyNiUyRjA2JTJGMTMlMkZ3b3JsZC1jdXAtMjAyNi1zb2NjZXItYXJjYWRlJTJGJTdDaHR0cHMlM0ElMkYlMkZhcmNhZGVoZXJvZXMuY29tJTJGMjAyNiUyRjA2JTJGMTMlMkZ3b3JsZC1jdXAtMjAyNi1zb2NjZXItYXJjYWRlJTJGJTdDU29jY2VyJTIwQXJjYWRlJTIwR2FtZXMlMjBUaHJvdWdoJTIwdGhlJTIwWWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU1NTkwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE2JTIwSnVuJTIwMjAyNiUyMDE0JTNBMzAlM0ExMiUyMCUyQjAwMDA",
+      "title": "Soccer Arcade Games Through the Years",
+      "pubDate": "Tue, 16 Jun 2026 14:30:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-16-0.json"
     }
   ]
