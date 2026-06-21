@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-18",
     "newestItemDate": "2026-06-18",
-    "itemCount": 51,
-    "generatedAt": "2026-06-20T17:50:17.348Z"
+    "itemCount": 54,
+    "generatedAt": "2026-06-21T05:21:28.411Z"
   },
   "items": [
     {
@@ -312,6 +312,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzY2hvbGFyd29ya3MuaXUuZWR1JTJGaXVzd3JyZXN0JTJGYXBpJTJGY29yZSUyRmJpdHN0cmVhbXMlMkYyNjVkNzNhMC02YmZhLTQ1ZGYtOTJmZi00ZTdkM2Y4YmU0YjElMkZjb250ZW50JTdDaHR0cHMlM0ElMkYlMkZzY2hvbGFyd29ya3MuaXUuZWR1JTJGaXVzd3JyZXN0JTJGYXBpJTJGY29yZSUyRmJpdHN0cmVhbXMlMkYyNjVkNzNhMC02YmZhLTQ1ZGYtOTJmZi00ZTdkM2Y4YmU0YjElMkZjb250ZW50JTdDTWVuY2l1cyUyMCgyMDE2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTg3NTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMTYlM0EwOSUzQTU0JTIwJTJCMDAwMA",
       "title": "Mencius (2016)",
       "pubDate": "Thu, 18 Jun 2026 16:09:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhpbGlwenVja2VyLmNvbSUyRnRkNC00Yml0LWNwdSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBoaWxpcHp1Y2tlci5jb20lMkZ0ZDQtNGJpdC1jcHUlMkYlN0NHdWlkZSUyMHRvJTIwdGhlJTIwVEQ0JTIwNC1iaXQlMjBESVklMjBDUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5MTI3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDIwJTNBNDQlM0EwMCUyMCUyQjAwMDA",
+      "title": "Guide to the TD4 4-bit DIY CPU",
+      "pubDate": "Thu, 18 Jun 2026 20:44:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm9zdG9uZ2xvYmUuY29tJTJGMjAyNiUyRjA2JTJGMTclMkZidXNpbmVzcyUyRmx5bWUtZGlzZWFzZS10aWNrLXRlc3QlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ib3N0b25nbG9iZS5jb20lMkYyMDI2JTJGMDYlMkYxNyUyRmJ1c2luZXNzJTJGbHltZS1kaXNlYXNlLXRpY2stdGVzdCUyRiU3QzE1LW1pbnV0ZSUyMGF0LWhvbWUlMjBMeW1lJTIwZGlzZWFzZSUyMHRpY2slMjB0ZXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODQyNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAxMiUzQTIyJTNBMzYlMjAlMkIwMDAw",
+      "title": "15-minute at-home Lyme disease tick test",
+      "pubDate": "Thu, 18 Jun 2026 12:22:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTUxLTAyNi0wMTY2MC00JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTUxLTAyNi0wMTY2MC00JTdDV2hvbGUlMjBjcm9zcy1zZWN0aW9uYWwlMjBodW1hbiUyMHVsdHJhc291bmQlMjB0b21vZ3JhcGh5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODI4OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAwOSUzQTIzJTNBMTYlMjAlMkIwMDAw",
+      "title": "Whole cross-sectional human ultrasound tomography",
+      "pubDate": "Thu, 18 Jun 2026 09:23:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
     }
   ]

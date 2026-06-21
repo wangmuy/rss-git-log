@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-20",
     "newestItemDate": "2026-06-20",
-    "itemCount": 24,
-    "generatedAt": "2026-06-20T17:50:17.348Z"
+    "itemCount": 38,
+    "generatedAt": "2026-06-21T05:21:28.410Z"
   },
   "items": [
     {
@@ -150,6 +150,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjc3NxdWFrZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmNzc3F1YWtlLmNvbSUyRiU3Q0NTU1F1YWtlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDgyMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAxMCUzQTQ5JTNBNTMlMjAlMkIwMDAw",
       "title": "CSSQuake",
       "pubDate": "Sat, 20 Jun 2026 10:49:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWJleGkuY28lMkZwb3N0cyUyRmVwb2xsLXZzLWlvX3VyaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZzaWJleGkuY28lMkZwb3N0cyUyRmVwb2xsLXZzLWlvX3VyaW5nJTJGJTdDRXBvbGwlMjB2cy4lMjBpb191cmluZyUyMGluJTIwTGludXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxMzg3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIwJTIwSnVuJTIwMjAyNiUyMDIzJTNBMDclM0EwOSUyMCUyQjAwMDA",
+      "title": "Epoll vs. io_uring in Linux",
+      "pubDate": "Sat, 20 Jun 2026 23:07:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRmZ1dHVyZSUyRmFydGljbGUlMkYyMDI2MDYxOC10aGUtd2VpcmQtYW5kLXdvbmRlcmZ1bC1saWJyYXJpZXMtb2YtZmlubGFuZCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZmdXR1cmUlMkZhcnRpY2xlJTJGMjAyNjA2MTgtdGhlLXdlaXJkLWFuZC13b25kZXJmdWwtbGlicmFyaWVzLW9mLWZpbmxhbmQlN0NSZW50aW5nJTIwYSUyMHNld2luZyUyMG1hY2hpbmUlMjBmcm9tJTIwdGhlJTIwbGlicmFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjEzNzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMjIlM0E1NCUzQTExJTIwJTJCMDAwMA",
+      "title": "Renting a sewing machine from the library",
+      "pubDate": "Sat, 20 Jun 2026 22:54:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2VsbC5jb20lMkZuZXVyb24lMkZmdWxsdGV4dCUyRlMwODk2LTYyNzMoMjYpMDAzMzktOSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNlbGwuY29tJTJGbmV1cm9uJTJGZnVsbHRleHQlMkZTMDg5Ni02MjczKDI2KTAwMzM5LTklN0NTbG93JTIwYnJlYXRoaW5nJTIwbW9kdWxhdGVzJTIwYnJhaW4lMjBmdW5jdGlvbiUyMGFuZCUyMHJpc2slMjBiZWhhdmlvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjEzNTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMjIlM0EyMiUzQTUyJTIwJTJCMDAwMA",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "pubDate": "Sat, 20 Jun 2026 22:22:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkxpbnV4LTcuMi1Ecm9wcy1zdHJuY3B5JTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkxpbnV4LTcuMi1Ecm9wcy1zdHJuY3B5JTdDTGludXglMjBlbGltaW5hdGVzJTIwdGhlJTIwc3RybmNweSUyMEFQSSUyMGFmdGVyJTIwc2l4JTIweWVhcnMlMjBvZiUyMHdvcmslMkMlMjAzNjAlMjBwYXRjaGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTI5NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAyMCUzQTU5JTNBNDAlMjAlMkIwMDAw",
+      "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+      "pubDate": "Sat, 20 Jun 2026 20:59:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm9va2VyLmNvLnphJTJGYmxvZyUyRjIwMjYlMkYwNiUyRjE5JTJGd2FpdGluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZicm9va2VyLmNvLnphJTJGYmxvZyUyRjIwMjYlMkYwNiUyRjE5JTJGd2FpdGluZy5odG1sJTdDQWxpY2UlMjBpcyUyMGltcGF0aWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjEyNzQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMjAlM0EzMiUzQTU0JTIwJTJCMDAwMA",
+      "title": "Alice is impatient",
+      "pubDate": "Sat, 20 Jun 2026 20:32:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYwNiUyRjIwJTJGYW1lcmljYXMlMkZicmF6aWwtaGFja2Vycy11bmF1dGhvcml6ZWQtYWxlcnQtbGF0YW0lN0NodHRwcyUzQSUyRiUyRnd3dy5jbm4uY29tJTJGMjAyNiUyRjA2JTJGMjAlMkZhbWVyaWNhcyUyRmJyYXppbC1oYWNrZXJzLXVuYXV0aG9yaXplZC1hbGVydC1sYXRhbSU3Q1VuYXV0aG9yaXplZCUyMGFsZXJ0JTIwc2VudCUyMHRvJTIwY2VsbCUyMHBob25lcyUyMGFjcm9zcyUyMEJyYXppbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjEyNTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMjAlM0EwNSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Unauthorized alert sent to cell phones across Brazil",
+      "pubDate": "Sat, 20 Jun 2026 20:05:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZwb3N0Z3Jlc2JlbmNoJTdDaHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZwb3N0Z3Jlc2JlbmNoJTdDUG9zdGdyZXNCZW5jaCUzQSUyMEElMjBSZXByb2R1Y2libGUlMjBCZW5jaG1hcmslMjBmb3IlMjBQb3N0Z3JlcyUyMFNlcnZpY2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTE5NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAxOSUzQTAxJTNBMTAlMjAlMkIwMDAw",
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "pubDate": "Sat, 20 Jun 2026 19:01:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3ZlcmZsb3d5JTJGbWFrZS1sb29rLXNjYW5uZWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvdmVyZmxvd3klMkZtYWtlLWxvb2stc2Nhbm5lZCU3Q1Nob3clMjBITiUzQSUyME1ha2UlMjBQREZzJTIwbG9vayUyMHNjYW5uZWQlMjAoQ0xJJTIwb3IlMjBpbiUyMHRoZSUyMGJyb3dzZXIlMjB2aWElMjBXQVNNKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjExNTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMTglM0ExNyUzQTU4JTIwJTJCMDAwMA",
+      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "pubDate": "Sat, 20 Jun 2026 18:17:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YXh5Lm9yZyUyRjIwMjYlMkYwNiUyRnRoZS13aG9sZXNhbGUtcGxhZ2lhcmlzbS1vZi1vYnNjdXJlLXNvcnJvd3MlMkYlN0NodHRwcyUzQSUyRiUyRndheHkub3JnJTJGMjAyNiUyRjA2JTJGdGhlLXdob2xlc2FsZS1wbGFnaWFyaXNtLW9mLW9ic2N1cmUtc29ycm93cyUyRiU3Q1RoZSUyMFdob2xlc2FsZSUyMFBsYWdpYXJpc20lMjBvZiUyME9ic2N1cmUlMjBTb3Jyb3dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTE0MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAxOCUzQTA1JTNBMzElMjAlMkIwMDAw",
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "pubDate": "Sat, 20 Jun 2026 18:05:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3Zlbi1zaCUyRldlYktpdCUyRnB1bGwlMkYyNDklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvdmVuLXNoJTJGV2ViS2l0JTJGcHVsbCUyRjI0OSU3Q0J1biUyMGhhcyUyMGFuJTIwb3BlbiUyMFBSJTIwYWRkaW5nJTIwc2hhcmVkLW1lbW9yeSUyMHRocmVhZHMlMjB0byUyMEphdmFTY3JpcHRDb3JlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTA4NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAxNyUzQTAyJTNBNDklMjAlMkIwMDAw",
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "pubDate": "Sat, 20 Jun 2026 17:02:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXlzay1yZXNlYXJjaCUyRmxvdXBlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXlzay1yZXNlYXJjaCUyRmxvdXBlJTdDTG91cGUlMjAlRTIlODAlOTMlMjBBJTIwaU9TJTIwYXBwJTIwdGhhdCUyMHJhaXNlcyUyMGF3YXJlbmVzcyUyMGFib3V0JTIwd2hhdCUyMG5hdGl2ZSUyMGFwcHMlMjBjYW4lMjBzZWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwODY0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIwJTIwSnVuJTIwMjAyNiUyMDEyJTNBMDglM0EyMyUyMCUyQjAwMDA",
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "pubDate": "Sat, 20 Jun 2026 12:08:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b3duc3F1YXJlLmNhdWVuYXBpZXIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b3duc3F1YXJlLmNhdWVuYXBpZXIuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwVG93blNxdWFyZSUyQyUyMGElMjB0aW55JTIwcHJlc2VuY2UlMjBsYXllciUyMGZvciUyMHdlYnNpdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDg1NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAxMSUzQTU1JTNBMDMlMjAlMkIwMDAw",
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "pubDate": "Sat, 20 Jun 2026 11:55:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9saXRpY28uY29tJTJGbmV3cyUyRm1hZ2F6aW5lJTJGMjAyNiUyRjA2JTJGMjAlMkZzb3V0aC1rb3JlYS13ZWFwb25zLWRlYWxlci10cnVtcC0wMDk1OTU1OSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBvbGl0aWNvLmNvbSUyRm5ld3MlMkZtYWdhemluZSUyRjIwMjYlMkYwNiUyRjIwJTJGc291dGgta29yZWEtd2VhcG9ucy1kZWFsZXItdHJ1bXAtMDA5NTk1NTklN0NUaGUlMjByaXNlJTIwb2YlMjBTb3V0aCUyMEtvcmVhJUUyJTgwJTk5cyUyMHdlYXBvbnMlMjBidXNpbmVzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjA4NTE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMTElM0E0NCUzQTUyJTIwJTJCMDAwMA",
+      "title": "The rise of South Korea’s weapons business",
+      "pubDate": "Sat, 20 Jun 2026 11:44:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGdGVtcG9yYXJ5LWFjY291bnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGdGVtcG9yYXJ5LWFjY291bnRzJTJGJTdDVGVtcG9yYXJ5JTIwQ2xvdWRmbGFyZSUyMGFjY291bnRzJTIwZm9yJTIwQUklMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwODM5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIwJTIwSnVuJTIwMjAyNiUyMDExJTNBMTklM0EwNSUyMCUyQjAwMDA",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "pubDate": "Sat, 20 Jun 2026 11:19:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
     }
   ]
