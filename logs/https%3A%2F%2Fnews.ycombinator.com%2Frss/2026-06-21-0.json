@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 5,
-    "generatedAt": "2026-06-21T05:21:28.410Z"
+    "itemCount": 10,
+    "generatedAt": "2026-06-21T11:26:13.867Z"
   },
   "items": [
     {
@@ -36,6 +36,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGcHJvamVjdC1mZXRjaC1waGFzZS10d28lN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGcmVzZWFyY2glMkZwcm9qZWN0LWZldGNoLXBoYXNlLXR3byU3Q1Byb2plY3QlMjBGZXRjaCUzQSUyMFBoYXNlJTIwVHdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTQzMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAwMCUzQTAwJTNBMjUlMjAlMkIwMDAw",
       "title": "Project Fetch: Phase Two",
       "pubDate": "Sun, 21 Jun 2026 00:00:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGlmdG1hZy5kZXYlMkZjdG9zLWFncmVlLWNvZ25pdGl2ZS1kZWJ0LWlzLXRoZS1uZXctdGVjaG5pY2FsLWRlYnQtMTAyMjklMkYlN0NodHRwcyUzQSUyRiUyRnNoaWZ0bWFnLmRldiUyRmN0b3MtYWdyZWUtY29nbml0aXZlLWRlYnQtaXMtdGhlLW5ldy10ZWNobmljYWwtZGVidC0xMDIyOSUyRiU3Q0NUT3MlMjBBZ3JlZSUzQSUyMENvZ25pdGl2ZSUyMERlYnQlMjBJcyUyMHRoZSUyME5ldyUyMFRlY2huaWNhbCUyMERlYnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxNzMyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDA5JTNBNTMlM0E1NyUyMCUyQjAwMDA",
+      "title": "CTOs Agree: Cognitive Debt Is the New Technical Debt",
+      "pubDate": "Sun, 21 Jun 2026 09:53:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFwbmljLm5ldCUyRjIwMjYlMkYwNCUyRjI4JTJGZ29vZ2xlLWhpdHMtNTAtaXB2NiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcG5pYy5uZXQlMkYyMDI2JTJGMDQlMkYyOCUyRmdvb2dsZS1oaXRzLTUwLWlwdjYlMkYlN0NHb29nbGUlMjBIaXRzJTIwNTAlMjUlMjBJUHY2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTY4MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAwOCUzQTIxJTNBMjIlMjAlMkIwMDAw",
+      "title": "Google Hits 50% IPv6",
+      "pubDate": "Sun, 21 Jun 2026 08:21:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbmFtZ3lhYWFsJTJGYXZveGVsZ2FtZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm5hbWd5YWFhbCUyRmF2b3hlbGdhbWUlN0NBJTIwM0QlMjB2b3hlbCUyMGdhbWUlMjBlbmdpbmUlMjB3cml0dGVuJTIwaW4lMjBBUEwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxNjcxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDA4JTNBMDQlM0E1NCUyMCUyQjAwMDA",
+      "title": "A 3D voxel game engine written in APL",
+      "pubDate": "Sun, 21 Jun 2026 08:04:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3ZxLmRlJTJGYmxvZyUyRnBvc3RpbmdzJTJGMjAyNi0wNi0yMCUyRjAlMkZQT1NUSU5HLWVuLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1vdnEuZGUlMkZibG9nJTJGcG9zdGluZ3MlMkYyMDI2LTA2LTIwJTJGMCUyRlBPU1RJTkctZW4uaHRtbCU3Q1dpbmRvd3MlMjBVSSUyMGV2b2x1dGlvbiUzQSUyMENsaWNraW5nJTIwYW4lMjB1bmFzc29jaWF0ZWQlMjBmaWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTYxNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAwNiUzQTI0JTNBNTIlMjAlMkIwMDAw",
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "pubDate": "Sun, 21 Jun 2026 06:24:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5mb3dsZXIuY29tJTJGYXJ0aWNsZXMlMkZyZWxpYWJsZS1sbG0tYmF5ZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWFydGluZm93bGVyLmNvbSUyRmFydGljbGVzJTJGcmVsaWFibGUtbGxtLWJheWVyLmh0bWwlN0NCdWlsZGluZyUyMHJlbGlhYmxlJTIwYWdlbnRpYyUyMEFJJTIwc3lzdGVtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjE1NjgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMDQlM0EyOCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Building reliable agentic AI systems",
+      "pubDate": "Sun, 21 Jun 2026 04:28:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]
