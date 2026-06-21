@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 10,
-    "generatedAt": "2026-06-21T11:26:13.867Z"
+    "itemCount": 22,
+    "generatedAt": "2026-06-21T17:56:59.833Z"
   },
   "items": [
     {
@@ -66,6 +66,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5mb3dsZXIuY29tJTJGYXJ0aWNsZXMlMkZyZWxpYWJsZS1sbG0tYmF5ZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWFydGluZm93bGVyLmNvbSUyRmFydGljbGVzJTJGcmVsaWFibGUtbGxtLWJheWVyLmh0bWwlN0NCdWlsZGluZyUyMHJlbGlhYmxlJTIwYWdlbnRpYyUyMEFJJTIwc3lzdGVtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjE1NjgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMDQlM0EyOCUzQTM5JTIwJTJCMDAwMA",
       "title": "Building reliable agentic AI systems",
       "pubDate": "Sun, 21 Jun 2026 04:28:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmFuZGFsb2xzb24uY29tJTJGMjAyNiUyRjA2JTJGMTYlMkZhY2EtaW5zdXJlci1jbGFpbS1kZW5pYWwtcmF0ZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yYW5kYWxvbHNvbi5jb20lMkYyMDI2JTJGMDYlMkYxNiUyRmFjYS1pbnN1cmVyLWNsYWltLWRlbmlhbC1yYXRlcyUyRiU3Q0hlYWx0aCUyMGluc3VyYW5jZSUyMGNsYWltJTIwZGVuaWFsJTIwcmF0ZXMlMjByYW5nZSUyMGZyb20lMjAxMyUyNSUyMHRvJTIwMzUlMjUlMjBieSUyMGluc3VyZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyMDc3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE3JTNBMjglM0ExNiUyMCUyQjAwMDA",
+      "title": "Health insurance claim denial rates range from 13% to 35% by insurer",
+      "pubDate": "Sun, 21 Jun 2026 17:28:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGd2lsZGNhcmQlMkZqb2JzJTJGU0VtbzRkaS1mb3VuZGluZy1hcHBsaWVkLW1sLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGd2lsZGNhcmQlMkZqb2JzJTJGU0VtbzRkaS1mb3VuZGluZy1hcHBsaWVkLW1sLWVuZ2luZWVyJTdDV2lsZGNhcmQlMjAoWUMlMjBXMjUpJTIwaXMlMjBoaXJpbmclMjBhbiUyMGFwcGxpZWQlMjBNTCUyMGVuZ2luZWVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjA1MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNyUzQTAwJTNBMjglMjAlMkIwMDAw",
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+      "pubDate": "Sun, 21 Jun 2026 17:00:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIwNTAyJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIwNTAyJTdDVGVsbCUyMEhOJTNBJTIwSGFwcHklMjBGYXRoZXJzJTIwRGF5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjA1MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNyUzQTAwJTNBMjYlMjAlMkIwMDAw",
+      "title": "Tell HN: Happy Fathers Day",
+      "pubDate": "Sun, 21 Jun 2026 17:00:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuanNmLm9yZyUyRmJsb2clMkZidXJub3V0LWlzLXJlYWwtZm9yLW9wZW4tc291cmNlLW1haW50YWluZXJzJTdDaHR0cHMlM0ElMkYlMkZvcGVuanNmLm9yZyUyRmJsb2clMkZidXJub3V0LWlzLXJlYWwtZm9yLW9wZW4tc291cmNlLW1haW50YWluZXJzJTdDQnVybm91dCUyMElzJTIwUmVhbCUyMGluJTIwdGhlJTIwT1NTJTIwV29ybGQlMkMlMjBTYXlzJTIwSm9obi1EYXZpZCUyMERhbHRvbiUyQyUyMENyZWF0b3IlMjBvZiUyMExvZGFzaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIwNDYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMTYlM0E1NiUzQTE4JTIwJTJCMDAwMA",
+      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "pubDate": "Sun, 21 Jun 2026 16:56:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFuZHVyLm9yZyUyRm1pbmltdW0tdmlhYmxlLXVuaXQlN0NodHRwcyUzQSUyRiUyRmJyYW5kdXIub3JnJTJGbWluaW11bS12aWFibGUtdW5pdCU3Q1RoZSUyME1pbmltdW0lMjBWaWFibGUlMjBVbml0JTIwb2YlMjBTYWxlYWJsZSUyMFNvZnR3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjAzNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNiUzQTQxJTNBMjElMjAlMkIwMDAw",
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "pubDate": "Sun, 21 Jun 2026 16:41:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYnIub3JnJTJGMjAyNiUyRjA2JTJGYWktaGFzLWJyb2tlbi1oaXJpbmctaGVyZXMtaG93LXRvLWZpeC1pdCU3Q2h0dHBzJTNBJTJGJTJGaGJyLm9yZyUyRjIwMjYlMkYwNiUyRmFpLWhhcy1icm9rZW4taGlyaW5nLWhlcmVzLWhvdy10by1maXgtaXQlN0NUaGUlMjBlYXJseSUyMGhpcmluZyUyMGZ1bm5lbCUyMGlzJTIwbm93JTIwYnJlYWtpbmclMjBvbiUyMGJvdGglMjBlbmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjAxNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNiUzQTE0JTNBNTQlMjAlMkIwMDAw",
+      "title": "The early hiring funnel is now breaking on both ends",
+      "pubDate": "Sun, 21 Jun 2026 16:14:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW5kaW1ldHouY29tJTJGYmxvZyUyRjIwMTYlMkYxJTJGMjAlMkZ0aGUtd3JvbmctYWJzdHJhY3Rpb24lN0NodHRwcyUzQSUyRiUyRnNhbmRpbWV0ei5jb20lMkZibG9nJTJGMjAxNiUyRjElMkYyMCUyRnRoZS13cm9uZy1hYnN0cmFjdGlvbiU3Q0NvZGUlMjBkdXBsaWNhdGlvbiUyMGlzJTIwZmFyJTIwY2hlYXBlciUyMHRoYW4lMjB0aGUlMjB3cm9uZyUyMGFic3RyYWN0aW9uJTIwKDIwMTYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjAwOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNiUzQTA4JTNBMjMlMjAlMkIwMDAw",
+      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "pubDate": "Sun, 21 Jun 2026 16:08:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3J2aWcuY29tJTJGbGlzcHkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbm9ydmlnLmNvbSUyRmxpc3B5Lmh0bWwlN0MoSG93JTIwdG8lMjBXcml0ZSUyMGElMjAoTGlzcCklMjBJbnRlcnByZXRlciUyMChJbiUyMFB5dGhvbikpJTIwKDIwMTApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTk4MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNSUzQTM2JTNBMzMlMjAlMkIwMDAw",
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "pubDate": "Sun, 21 Jun 2026 15:36:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGVhbnRlY2huaWNhLmNvbSUyRjIwMjYlMkYwNiUyRjE2JTJGc2hpcHBpbmctZnJlaWdodC1lbmVyZ3ktZm9zc2lsLWNhcmdvJTJGJTdDaHR0cHMlM0ElMkYlMkZjbGVhbnRlY2huaWNhLmNvbSUyRjIwMjYlMkYwNiUyRjE2JTJGc2hpcHBpbmctZnJlaWdodC1lbmVyZ3ktZm9zc2lsLWNhcmdvJTJGJTdDRm9zc2lsJTIwRnVlbHMlMjBBcmUlMjA0MCUyNSUyMG9mJTIwRnJlaWdodCUyMFNoaXBwaW5nJTIwVG9ubmFnZSUyQyUyMGJ1dCUyMEhhbGYlMjBJdHMlMjBGdWVsJTIwVXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTkzOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNCUzQTQzJTNBMDglMjAlMkIwMDAw",
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "pubDate": "Sun, 21 Jun 2026 14:43:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXZpbmFrLnNlJTJGYmxvZyUyRndoby1hY3R1YWxseS1vd25zLXlvdXItYXRwcm90by1pZGVudGl0eS1oaW50LWl0cy1wcm9iYWJseS1ub3QteW91JTdDaHR0cHMlM0ElMkYlMkZrZXZpbmFrLnNlJTJGYmxvZyUyRndoby1hY3R1YWxseS1vd25zLXlvdXItYXRwcm90by1pZGVudGl0eS1oaW50LWl0cy1wcm9iYWJseS1ub3QteW91JTdDV2hvJTIwb3ducyUyMHlvdXIlMjBBVFByb3RvJTIwaWRlbnRpdHklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxOTE0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE0JTNBMDklM0EwNyUyMCUyQjAwMDA",
+      "title": "Who owns your ATProto identity?",
+      "pubDate": "Sun, 21 Jun 2026 14:09:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmV5b25kYWxscmVhc29uLmluZm8lN0NodHRwcyUzQSUyRiUyRnd3dy5iZXlvbmRhbGxyZWFzb24uaW5mbyUyRiU3Q0JleW9uZCUyMEFsbCUyMFJlYXNvbiUyMChGcmVlJTIwVG90YWwlMjBBbm5paGlsYXRpb24lMjBJbnNwaXJlZCUyMFJUUyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxNzk5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDExJTNBMzglM0EwMSUyMCUyQjAwMDA",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "pubDate": "Sun, 21 Jun 2026 11:38:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4a3JpdGNoZXZza3kuY29tJTJGMjAyNCUyRjAyJTJGMjglMkZnZW9tZXRyaWMtYWxnZWJyYS5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbGV4a3JpdGNoZXZza3kuY29tJTJGMjAyNCUyRjAyJTJGMjglMkZnZW9tZXRyaWMtYWxnZWJyYS5odG1sJTdDVGhlJTIwY2FzZSUyMGFnYWluc3QlMjBnZW9tZXRyaWMlMjBhbGdlYnJhJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTc3ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxMSUzQTA2JTNBNTUlMjAlMkIwMDAw",
+      "title": "The case against geometric algebra (2024)",
+      "pubDate": "Sun, 21 Jun 2026 11:06:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]
