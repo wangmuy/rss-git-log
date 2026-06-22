@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 22,
-    "generatedAt": "2026-06-21T17:56:59.833Z"
+    "itemCount": 37,
+    "generatedAt": "2026-06-22T05:34:34.540Z"
   },
   "items": [
     {
@@ -138,6 +138,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4a3JpdGNoZXZza3kuY29tJTJGMjAyNCUyRjAyJTJGMjglMkZnZW9tZXRyaWMtYWxnZWJyYS5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbGV4a3JpdGNoZXZza3kuY29tJTJGMjAyNCUyRjAyJTJGMjglMkZnZW9tZXRyaWMtYWxnZWJyYS5odG1sJTdDVGhlJTIwY2FzZSUyMGFnYWluc3QlMjBnZW9tZXRyaWMlMjBhbGdlYnJhJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTc3ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxMSUzQTA2JTNBNTUlMjAlMkIwMDAw",
       "title": "The case against geometric algebra (2024)",
       "pubDate": "Sun, 21 Jun 2026 11:06:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVhY2htZWNvb2xzdHVmZi5jb20lMkZ2aWV3YXJ0aWNsZSUyRmZpbmUtdHVuaW5nLWEtbG9jYWwtbGxtLXRvLWNhdGVnb3JpemUtcXVlc3Rpb25zJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVhY2htZWNvb2xzdHVmZi5jb20lMkZ2aWV3YXJ0aWNsZSUyRmZpbmUtdHVuaW5nLWEtbG9jYWwtbGxtLXRvLWNhdGVnb3JpemUtcXVlc3Rpb25zJTdDR29vZCUyMHJlc3VsdHMlMjBmaW5lJTIwdHVuaW5nJTIwYSUyMGxvY2FsJTIwTExNJTIwbGlrZSUyMFF3ZW4lMjAzJTNBMC42QiUyMHRvJTIwY2F0ZWdvcml6ZSUyMHF1ZXN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIzNDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMjIlM0E1NSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "pubDate": "Sun, 21 Jun 2026 22:55:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmRlcnJlYWN0ZWQubGVhZmxldC5wdWIlMkYzbW1ldnU2d295czI3JTdDaHR0cHMlM0ElMkYlMkZ1bmRlcnJlYWN0ZWQubGVhZmxldC5wdWIlMkYzbW1ldnU2d295czI3JTdDSmFwYW5lc2UlMjB2ZXJiJTIwY29uanVnYXRpb24lMjB0aGUlMjBzaW1wbGUlMjBoYXJkJTIwd2F5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjM0MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAyMiUzQTUzJTNBNTAlMjAlMkIwMDAw",
+      "title": "Japanese verb conjugation the simple hard way",
+      "pubDate": "Sun, 21 Jun 2026 22:53:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9saXRpY28uY29tJTJGbmV3cyUyRjIwMjYlMkYwNiUyRjIxJTJGcmVudC1jb2xsZWN0aW9ucy1hcmUtZG93bi1pbi1uZXcteW9yay1hbmQtbm8tb25lcy1zdXJlLXdoeS0wMDk2Njk4MiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBvbGl0aWNvLmNvbSUyRm5ld3MlMkYyMDI2JTJGMDYlMkYyMSUyRnJlbnQtY29sbGVjdGlvbnMtYXJlLWRvd24taW4tbmV3LXlvcmstYW5kLW5vLW9uZXMtc3VyZS13aHktMDA5NjY5ODIlN0NSZW50JTIwY29sbGVjdGlvbnMlMjBhcmUlMjBkb3duJTIwaW4lMjBOZXclMjBZb3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjI5ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAyMSUzQTU0JTNBMzQlMjAlMkIwMDAw",
+      "title": "Rent collections are down in New York",
+      "pubDate": "Sun, 21 Jun 2026 21:54:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZC5uZXdnYXMubmV0JTJGZGlkLW15LW9sZC1qb2Itb25seS1leGlzdC1iZWNhdXNlLW9mLWZyYXVkJTJGJTdDaHR0cHMlM0ElMkYlMkZkYXZpZC5uZXdnYXMubmV0JTJGZGlkLW15LW9sZC1qb2Itb25seS1leGlzdC1iZWNhdXNlLW9mLWZyYXVkJTJGJTdDRGlkJTIwbXklMjBvbGQlMjBqb2IlMjBvbmx5JTIwZXhpc3QlMjBiZWNhdXNlJTIwb2YlMjBmcmF1ZCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIyODY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMjElM0E0MCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Did my old job only exist because of fraud?",
+      "pubDate": "Sun, 21 Jun 2026 21:40:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZoZWFsdGglMkYyMDI2JTJGMDYlMkZmZGEtYWR2aXNvcnMtdW5hbmltb3VzbHktdm90ZS10by1hcHByb3ZlLW1vZGVybmFzLW1ybmEtYWZ0ZXItYWdlbmN5LWRyYW1hJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZoZWFsdGglMkYyMDI2JTJGMDYlMkZmZGEtYWR2aXNvcnMtdW5hbmltb3VzbHktdm90ZS10by1hcHByb3ZlLW1vZGVybmFzLW1ybmEtYWZ0ZXItYWdlbmN5LWRyYW1hJTJGJTdDRkRBJTIwYWR2aXNvcnMlMjB1bmFuaW1vdXNseSUyMHZvdGUlMjB0byUyMGFwcHJvdmUlMjBNb2Rlcm5hJ3MlMjBtUk5BJTIwYWZ0ZXIlMjBhZ2VuY3klMjBkcmFtYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIyNzg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMjElM0EzMCUzQTI1JTIwJTJCMDAwMA",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "pubDate": "Sun, 21 Jun 2026 21:30:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcGVydHZzLmFpJTJGJTdDaHR0cHMlM0ElMkYlMkZhcGVydHZzLmFpJTJGJTdDQXBlcnR1cyUyMCVFMiU4MCU5MyUyME9wZW4lMjBGb3VuZGF0aW9uJTIwTW9kZWwlMjBmb3IlMjBTb3ZlcmVpZ24lMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIyNzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMjElM0EyOSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "pubDate": "Sun, 21 Jun 2026 21:29:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb3dlcmZveC5qYXp6em55Lm1lJTJGJTdDaHR0cHMlM0ElMkYlMkZwb3dlcmZveC5qYXp6em55Lm1lJTJGJTdDUG93ZXJGb3glMjBCcm93c2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjI3MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAyMSUzQTIzJTNBMTMlMjAlMkIwMDAw",
+      "title": "PowerFox Browser",
+      "pubDate": "Sun, 21 Jun 2026 21:23:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4a3JpdGNoZXZza3kuY29tJTJGMjAyNiUyRjA1JTJGMjUlMkZldmVyeXRoaW5nLWlzLWxvZ2FyaXRobXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYWxleGtyaXRjaGV2c2t5LmNvbSUyRjIwMjYlMkYwNSUyRjI1JTJGZXZlcnl0aGluZy1pcy1sb2dhcml0aG1zLmh0bWwlN0NFdmVyeXRoaW5nJTIwaXMlMjBsb2dhcml0aG1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjI2MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAyMSUzQTEwJTNBMzIlMjAlMkIwMDAw",
+      "title": "Everything is logarithms",
+      "pubDate": "Sun, 21 Jun 2026 21:10:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmFpeWFueWFoeWElMkZyZWNhbGwlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZyYWl5YW55YWh5YSUyRnJlY2FsbCU3Q1Nob3clMjBITiUzQSUyMFJlY2FsbCUyMCVFMiU4MCU5MyUyMExvY2FsJTIwcHJvamVjdCUyMG1lbW9yeSUyMGZvciUyMENsYXVkZSUyMENvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyMjU5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDIxJTNBMDUlM0EzNyUyMCUyQjAwMDA",
+      "title": "Show HN: Recall – Local project memory for Claude Code",
+      "pubDate": "Sun, 21 Jun 2026 21:05:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFyYmxlLm9ubCUyRnBvc3RzJTJGY2FuY2VsX2NsYXVkZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFyYmxlLm9ubCUyRnBvc3RzJTJGY2FuY2VsX2NsYXVkZS5odG1sJTdDVGhlcmUlMjBpcyUyMG1pbmltYWwlMjBkb3duc2lkZSUyMHRvJTIwc3dpdGNoaW5nJTIwdG8lMjBvcGVuJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjI1MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAyMCUzQTU2JTNBMDElMjAlMkIwMDAw",
+      "title": "There is minimal downside to switching to open models",
+      "pubDate": "Sun, 21 Jun 2026 20:56:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXdrc2xleS5kZXYlMkZibG9nJTJGanNvbi1sZC1leHBsYWluZWQtZm9yLXBlcnNvbmFsLXdlYnNpdGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZoYXdrc2xleS5kZXYlMkZibG9nJTJGanNvbi1sZC1leHBsYWluZWQtZm9yLXBlcnNvbmFsLXdlYnNpdGVzJTJGJTdDSlNPTi1MRCUyMGV4cGxhaW5lZCUyMGZvciUyMHBlcnNvbmFsJTIwd2Vic2l0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyMTUxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE4JTNBNTElM0E0NyUyMCUyQjAwMDA",
+      "title": "JSON-LD explained for personal websites",
+      "pubDate": "Sun, 21 Jun 2026 18:51:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFuZHVyLm9yZyUyRm1pbmltdW0tdmlhYmxlLXVuaXQlN0NodHRwcyUzQSUyRiUyRmJyYW5kdXIub3JnJTJGbWluaW11bS12aWFibGUtdW5pdCU3Q1RoZSUyMG1pbmltdW0lMjB2aWFibGUlMjB1bml0JTIwb2YlMjBzYWxlYWJsZSUyMHNvZnR3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjAzNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNiUzQTQxJTNBMjElMjAlMkIwMDAw",
+      "title": "The minimum viable unit of saleable software",
+      "pubDate": "Sun, 21 Jun 2026 16:41:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW5kaW1ldHouY29tJTJGYmxvZyUyRjIwMTYlMkYxJTJGMjAlMkZ0aGUtd3JvbmctYWJzdHJhY3Rpb24lN0NodHRwcyUzQSUyRiUyRnNhbmRpbWV0ei5jb20lMkZibG9nJTJGMjAxNiUyRjElMkYyMCUyRnRoZS13cm9uZy1hYnN0cmFjdGlvbiU3Q1ByZWZlciUyMGR1cGxpY2F0aW9uJTIwb3ZlciUyMHRoZSUyMHdyb25nJTIwYWJzdHJhY3Rpb24lMjAoMjAxNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyMDA5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE2JTNBMDglM0EyMyUyMCUyQjAwMDA",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "pubDate": "Sun, 21 Jun 2026 16:08:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGF5dG9uampvbmVzJTJGYnNoYXJwJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGF5dG9uampvbmVzJTJGYnNoYXJwJTdDU2hvdyUyMEhOJTNBJTIwVGVhY2glMjB5b3VyJTIwa2lkcyUyMHBlcmZlY3QlMjBwaXRjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjE4NDg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMTIlM0E0OSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Show HN: Teach your kids perfect pitch",
+      "pubDate": "Sun, 21 Jun 2026 12:49:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTQzMjg5NjAtaWRlbnRpdHktdmVyaWZpY2F0aW9uLW9uLWNsYXVkZSU3Q2h0dHBzJTNBJTJGJTJGc3VwcG9ydC5jbGF1ZGUuY29tJTJGZW4lMkZhcnRpY2xlcyUyRjE0MzI4OTYwLWlkZW50aXR5LXZlcmlmaWNhdGlvbi1vbi1jbGF1ZGUlN0NJZGVudGl0eSUyMHZlcmlmaWNhdGlvbiUyMG9uJTIwQ2xhdWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTg0NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxMiUzQTQ0JTNBMTMlMjAlMkIwMDAw",
+      "title": "Identity verification on Claude",
+      "pubDate": "Sun, 21 Jun 2026 12:44:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]

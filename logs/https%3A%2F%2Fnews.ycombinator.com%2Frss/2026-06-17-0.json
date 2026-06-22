@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-17",
     "newestItemDate": "2026-06-17",
-    "itemCount": 53,
-    "generatedAt": "2026-06-21T17:56:59.834Z"
+    "itemCount": 55,
+    "generatedAt": "2026-06-22T05:34:34.540Z"
   },
   "items": [
     {
@@ -324,6 +324,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHVtcHJvZy5vcmclMkZ+c3RlcGhlbiUyRmJsb2clMkYyMDI2JTJGMDYlMkYxNSUyRiUyM3N5c3RlbS1jYWxsLWluc3RydW1lbnRhdGlvbi1vbi1pbnRlbC1uZWdhdGl2ZS1yZXN1bHQlN0NodHRwcyUzQSUyRiUyRnd3dy5odW1wcm9nLm9yZyUyRn5zdGVwaGVuJTJGYmxvZyUyRjIwMjYlMkYwNiUyRjE1JTJGJTIzc3lzdGVtLWNhbGwtaW5zdHJ1bWVudGF0aW9uLW9uLWludGVsLW5lZ2F0aXZlLXJlc3VsdCU3Q1N5c3RlbSUyMGNhbGwlMjBpbnN0cnVtZW50YXRpb24lMjBvbiUyMExpbnV4JTJGeDg2JUUyJTgwJTkxNjQlMjB1c2luZyUyMG1lbW9yeSVFMiU4MCU5MWluZGlyZWN0JTIwY2FsbHMlMkMlMjBwYXJ0JTIwSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY2ODI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMDclM0EwMyUzQTU5JTIwJTJCMDAwMA",
       "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
       "pubDate": "Wed, 17 Jun 2026 07:03:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1pbmltYWwuYXBwJTJGY29udmVyc2lvbi1lbmdpbmUlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cubWluaW1hbC5hcHAlMkZjb252ZXJzaW9uLWVuZ2luZSUyRiU3Q0FyY2hpdGVjdGluZyUyMGElMjBDb252ZXJzaW9uJTIwRW5naW5lJTIwaW4lMjBTd2lmdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTY4NDg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTclMjBKdW4lMjAyMDI2JTIwMTAlM0E0OCUzQTU4JTIwJTJCMDAwMA",
+      "title": "Architecting a Conversion Engine in Swift",
+      "pubDate": "Wed, 17 Jun 2026 10:48:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWluZWNyYWZ0Lm5ldCUyRmVuLXVzJTJGYXJ0aWNsZSUyRm1pbmVjcmFmdC1qYXZhLWVkaXRpb24tMjYtMiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pbmVjcmFmdC5uZXQlMkZlbi11cyUyRmFydGljbGUlMkZtaW5lY3JhZnQtamF2YS1lZGl0aW9uLTI2LTIlN0NNaW5lY3JhZnQlM0ElMjBKYXZhJTIwRWRpdGlvbiUyMDI2LjIlMkMlMjB0aGUlMjBmaXJzdCUyMHZlcnNpb24lMjB3aXRoJTIwVnVsa2FuJTIwMS4yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1NjcwMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNyUyMEp1biUyMDIwMjYlMjAwNyUzQTMzJTNBMjklMjAlMkIwMDAw",
+      "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
+      "pubDate": "Wed, 17 Jun 2026 07:33:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-17-0.json"
     }
   ]

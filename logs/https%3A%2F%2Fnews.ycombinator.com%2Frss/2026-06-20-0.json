@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-20",
     "newestItemDate": "2026-06-20",
-    "itemCount": 39,
-    "generatedAt": "2026-06-21T17:56:59.833Z"
+    "itemCount": 44,
+    "generatedAt": "2026-06-22T05:34:34.540Z"
   },
   "items": [
     {
@@ -240,6 +240,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbmlraXRhZG91ZGlrb3YlMkZjbGF1ZGUtcHVsc2UlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZuaWtpdGFkb3VkaWtvdiUyRmNsYXVkZS1wdWxzZSU3Q1Nob3clMjBITiUzQSUyMFB1bHNlJTIwJUUyJTgwJTkzJTIwRGFzaGJvYXJkJTIwZm9yJTIwQ2xhdWRlJTIwQ29kZSUyQyUyMGFwcHJvdmUlMjB0b29sJTIwY2FsbHMlMjBmcm9tJTIweW91ciUyMHBob25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTI4NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAyMCUzQTQ2JTNBNTAlMjAlMkIwMDAw",
       "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
       "pubDate": "Sat, 20 Jun 2026 20:46:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWRlby5pbnRlbGxpb3MuYWklN0NodHRwcyUzQSUyRiUyRnZpZGVvLmludGVsbGlvcy5haSUyRiU3Q1Nob3clMjBITiUzQSUyMEhOJTIwR2FtZSUyMFN0b3JpZXMlMjAlRTIlODAlOTMlMjBtaW5pLWRvY3VtZW50YXJ5JTIwb2YlMjBnYW1lcyUyMHRoYXQlMjBoaXQlMjB0aGUlMjBmcm9udCUyMHBhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxNDA4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIwJTIwSnVuJTIwMjAyNiUyMDIzJTNBMzElM0E1NiUyMCUyQjAwMDA",
+      "title": "Show HN: HN Game Stories – mini-documentary of games that hit the front page",
+      "pubDate": "Sat, 20 Jun 2026 23:31:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGUtY3JpdGVyaW9uLWNsb3NldC52ZXJjZWwuYXBwJTdDaHR0cHMlM0ElMkYlMkZ0aGUtY3JpdGVyaW9uLWNsb3NldC52ZXJjZWwuYXBwJTJGJTdDU2hvdyUyMEhOJTNBJTIwQ3JpdGVyaW9uJTIwQ2xvc2V0JTIwYXMlMjBhJTIwd2Vic2l0ZSUyMCVFMiU4MCU5MyUyMHB1bGwlMjBhbnklMjBvZiUyMDElMkMyNDclMjBmaWxtcyUyMG9mZiUyMHRoZSUyMHNoZWxmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDkwNTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAxMyUzQTE4JTNBMjglMjAlMkIwMDAw",
+      "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+      "pubDate": "Sat, 20 Jun 2026 13:18:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWwtYy5vcmclMkZpbmxpbmVhc20lN0NodHRwcyUzQSUyRiUyRmZpbC1jLm9yZyUyRmlubGluZWFzbSU3Q01lbW9yeSUyMFNhZmUlMjBJbmxpbmUlMjBBc3NlbWJseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjA2MDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMDMlM0EyOSUzQTE5JTIwJTJCMDAwMA",
+      "title": "Memory Safe Inline Assembly",
+      "pubDate": "Sat, 20 Jun 2026 03:29:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsbWFvLmNlbnRlciUyRmJsb2clMkZ3aWdnbGUtYWNjaWRlbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZsbWFvLmNlbnRlciUyRmJsb2clMkZ3aWdnbGUtYWNjaWRlbnRzJTJGJTdDSGVscCUyMEklMjBhY2NpZGVudGFsbHklMjBhJTIwd2lnZ2xlZ3JhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjA1NTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMDElM0E1NSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Help I accidentally a wigglegram",
+      "pubDate": "Sat, 20 Jun 2026 01:55:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY2aXQuZGV2JTJGYmxvZyUyRmluZm9ncmFwaGljcy1vcGVyYXRpb24tY29zdHMtaW4tY3B1LWNsb2NrLWN5Y2xlcy10YWtlLTItODA3MzYlN0NodHRwcyUzQSUyRiUyRjZpdC5kZXYlMkZibG9nJTJGaW5mb2dyYXBoaWNzLW9wZXJhdGlvbi1jb3N0cy1pbi1jcHUtY2xvY2stY3ljbGVzLXRha2UtMi04MDczNiU3Q0VmZmljaWVudCUyMEMlMkIlMkIlMjBQcm9ncmFtbWluZyUyMGZvciUyME1vZGVybiUyMEMlMkIlMkIlMjBDUFVzJTJDJTIwQ2hhcHRlciUyMDQlMkZwYXJ0JTIwMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjA1MDg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMDAlM0E0MiUzQTUwJTIwJTJCMDAwMA",
+      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "pubDate": "Sat, 20 Jun 2026 00:42:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
     }
   ]
