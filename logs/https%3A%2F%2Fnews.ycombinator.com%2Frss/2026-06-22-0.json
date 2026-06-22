@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-22",
     "newestItemDate": "2026-06-22",
-    "itemCount": 13,
-    "generatedAt": "2026-06-22T13:45:12.274Z"
+    "itemCount": 32,
+    "generatedAt": "2026-06-22T19:50:30.778Z"
   },
   "items": [
     {
@@ -84,6 +84,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLmRlbm8uY29tJTJGcnVudGltZSUyRmRlc2t0b3AlMkYlN0NodHRwcyUzQSUyRiUyRmRvY3MuZGVuby5jb20lMkZydW50aW1lJTJGZGVza3RvcCUyRiU3Q0Rlbm8lMjBEZXNrdG9wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjYxMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAwNSUzQTM4JTNBNDAlMjAlMkIwMDAw",
       "title": "Deno Desktop",
       "pubDate": "Mon, 22 Jun 2026 05:38:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDI5NzY3JTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDI5NzY3JTJGJTdDTGludXglMjBhbmQlMjBTZWN1cmUlMjBCb290JTIwY2VydGlmaWNhdGUlMjBleHBpcmF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzM5NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxOCUzQTI0JTNBMjklMjAlMkIwMDAw",
+      "title": "Linux and Secure Boot certificate expiration",
+      "pubDate": "Mon, 22 Jun 2026 18:24:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2VzcGlzZXIuY29tJTJGcG9zdHMlMkYyMDI2LTA2LTE5LWJlc3QtZG9nLXRyZWF0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy53ZXNwaXNlci5jb20lMkZwb3N0cyUyRjIwMjYtMDYtMTktYmVzdC1kb2ctdHJlYXQuaHRtbCU3Q0ZpbmRpbmclMjB0aGUlMjBCZXN0JTIwRG9nJTIwVHJlYXQlMjB3aXRoJTIwU3RhdGlzdGljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMzNDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTclM0E0NiUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Finding the Best Dog Treat with Statistics",
+      "pubDate": "Mon, 22 Jun 2026 17:46:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9yZS5zdGVhbXBvd2VyZWQuY29tJTJGaGFyZHdhcmUlMkZzdGVhbW1hY2hpbmUlN0NodHRwcyUzQSUyRiUyRnN0b3JlLnN0ZWFtcG93ZXJlZC5jb20lMkZoYXJkd2FyZSUyRnN0ZWFtbWFjaGluZSU3Q1N0ZWFtJTIwTWFjaGluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMyODg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTclM0EwOSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Steam Machine",
+      "pubDate": "Mon, 22 Jun 2026 17:09:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA2JTJGYmxvZ2dlci1kZWZlYXRzLXBob3RvZ3JhcGhlcnMtY29weXJpZ2h0LWNsYWltLXNva29sc2t5ZmlsbS12LW1lc3NpYWguaHRtJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA2JTJGYmxvZ2dlci1kZWZlYXRzLXBob3RvZ3JhcGhlcnMtY29weXJpZ2h0LWNsYWltLXNva29sc2t5ZmlsbS12LW1lc3NpYWguaHRtJTdDQmxvZ2dlciUyMGRlZmVhdHMlMjBwaG90b2dyYXBoZXIncyUyMGNvcHlyaWdodCUyMGNsYWltJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzI4NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxNyUzQTA2JTNBMTAlMjAlMkIwMDAw",
+      "title": "Blogger defeats photographer's copyright claim",
+      "pubDate": "Mon, 22 Jun 2026 17:06:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2JzLmFzaGJ5aHEuY29tJTJGY2hhcmdlLXJvYm90aWNzJTdDaHR0cHMlM0ElMkYlMkZqb2JzLmFzaGJ5aHEuY29tJTJGY2hhcmdlLXJvYm90aWNzJTdDQ2hhcmdlJTIwUm9ib3RpY3MlMjAoWUMlMjBTMjEpJTIwSXMlMjBIaXJpbmclMjBTb2Z0d2FyZSUyMGFuZCUyMEhhcmR3YXJlJTIwRW5naW5lZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzI3OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxNyUzQTAwJTNBMTclMjAlMkIwMDAw",
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "pubDate": "Mon, 22 Jun 2026 17:00:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRm1leGljby1qdXN0LXNob3dlZC1vZmYtYS1uZXctZXh0cmVtZWx5LWNoZWFwLWdvdmVybm1lbnQtYmFja2VkLWV2LTIwMDA3NjkwODAlN0NodHRwcyUzQSUyRiUyRmdpem1vZG8uY29tJTJGbWV4aWNvLWp1c3Qtc2hvd2VkLW9mZi1hLW5ldy1leHRyZW1lbHktY2hlYXAtZ292ZXJubWVudC1iYWNrZWQtZXYtMjAwMDc2OTA4MCU3Q01leGljYW4lMjBnb3Zlcm5tZW50JTIwdW52ZWlscyUyMGElMjBwcm90b3R5cGUlMjBmb3IlMjBhJTIwbmV3JTIwaG9tZWdyb3duJTJDJTIwdWx0cmEtYWZmb3JkYWJsZSUyMEVWJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzI2NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxNiUzQTQ4JTNBNDUlMjAlMkIwMDAw",
+      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+      "pubDate": "Mon, 22 Jun 2026 16:48:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlzcGxheW1hdGUuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGlzcGxheW1hdGUuY29tJTJGJTdDRGlzcGxheU1hdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzMjYxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDE2JTNBNDUlM0E1MiUyMCUyQjAwMDA",
+      "title": "DisplayMate",
+      "pubDate": "Mon, 22 Jun 2026 16:45:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmV4Y2x1c2l2ZS1uc2Ytc2xhc2hlcy1yZXNlYXJjaC1wcm9ncmFtcy1zdXBwb3J0LW5ldy10ZWNoLWluaXRpYXRpdmUtaW5zaWRlcnMtc2F5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmV4Y2x1c2l2ZS1uc2Ytc2xhc2hlcy1yZXNlYXJjaC1wcm9ncmFtcy1zdXBwb3J0LW5ldy10ZWNoLWluaXRpYXRpdmUtaW5zaWRlcnMtc2F5JTdDTlNGJTIwc2xhc2hlcyUyMHJlc2VhcmNoJTIwcHJvZ3JhbXMlMjB0byUyMHN1cHBvcnQlMjBuZXclMjB0ZWNoJTIwaW5pdGlhdGl2ZSUyQyUyMGluc2lkZXJzJTIwc2F5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzIzMjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxNiUzQTI1JTNBMDIlMjAlMkIwMDAw",
+      "title": "NSF slashes research programs to support new tech initiative, insiders say",
+      "pubDate": "Mon, 22 Jun 2026 16:25:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2xlLWNvbmZ1c2lvbi5naXRodWIuaW8lN0NodHRwcyUzQSUyRiUyRnJvbGUtY29uZnVzaW9uLmdpdGh1Yi5pbyUyRiU3Q1Byb21wdCUyMEluamVjdGlvbiUyMGFzJTIwUm9sZSUyMENvbmZ1c2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMxODg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTUlM0E0OCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Prompt Injection as Role Confusion",
+      "pubDate": "Mon, 22 Jun 2026 15:48:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvYWsuc3BhY2UlMkZvYWslMkZvYWslN0NodHRwcyUzQSUyRiUyRm9hay5zcGFjZSUyRm9hayUyRm9hayU3Q1Nob3clMjBITiUzQSUyME9hayUyMCVFMiU4MCU5MyUyMEdpdCUyMHJlcGxhY2VtZW50JTIwZGVzaWduZWQlMjBmb3IlMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzMTcyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDE1JTNBMzclM0E0OCUyMCUyQjAwMDA",
+      "title": "Show HN: Oak – Git replacement designed for agents",
+      "pubDate": "Mon, 22 Jun 2026 15:37:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnBybyUyRnN1c3RhaW5hYmxlLWJ1c2luZXNzJTJGZGhsLXNldC10by10cmFuc3BvcnQtZ29vZHMtb24tbmV3LXdpbmQtcG93ZXJlZC1jYXJnby1zaGlwcy1lY2E1ZDVhMCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndzai5jb20lMkZwcm8lMkZzdXN0YWluYWJsZS1idXNpbmVzcyUyRmRobC1zZXQtdG8tdHJhbnNwb3J0LWdvb2RzLW9uLW5ldy13aW5kLXBvd2VyZWQtY2FyZ28tc2hpcHMtZWNhNWQ1YTAlN0NESEwlMjBTZXQlMjB0byUyMFRyYW5zcG9ydCUyMEdvb2RzJTIwb24lMjBOZXclMjBXaW5kLVBvd2VyZWQlMjBDYXJnbyUyMFNoaXBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzEwNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxNCUzQTU1JTNBNTElMjAlMkIwMDAw",
+      "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
+      "pubDate": "Mon, 22 Jun 2026 14:55:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXRyaWNrbWNjYW5uYS5uZXQlMkZ0aGUtdGV4dC1pbi1jbGF1ZGUtY29kZXMtZXh0ZW5kZWQtdGhpbmtpbmctb3V0cHV0LWlzLW5vdC1hdXRoZW50aWMlMkYlN0NodHRwcyUzQSUyRiUyRnBhdHJpY2ttY2Nhbm5hLm5ldCUyRnRoZS10ZXh0LWluLWNsYXVkZS1jb2Rlcy1leHRlbmRlZC10aGlua2luZy1vdXRwdXQtaXMtbm90LWF1dGhlbnRpYyUyRiU3Q1RoZSUyMHRleHQlMjBpbiUyMENsYXVkZSUyMENvZGUlRTIlODAlOTlzJTIwJUUyJTgwJTlDRXh0ZW5kZWQlMjBUaGlua2luZyVFMiU4MCU5RCUyMG91dHB1dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMwNTM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTQlM0EyMiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "pubDate": "Mon, 22 Jun 2026 14:22:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSW50dW5lZCUyRnNlbGVjdG9yLWZvcmdlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSW50dW5lZCUyRnNlbGVjdG9yLWZvcmdlJTdDU2hvdyUyMEhOJTNBJTIwU2VsZWN0b3IlMjBGb3JnZSUyMCVFMiU4MCU5MyUyMGJyb3dzZXIlMjBleHRlbnNpb24lMjBmb3IlMjBBSS1nZW5lcmF0ZWQlMjByZXNpbGllbnQlMjBzZWxlY3RvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzMDUxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDE0JTNBMjElM0EyNCUyMCUyQjAwMDA",
+      "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+      "pubDate": "Mon, 22 Jun 2026 14:21:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodXN0dmwuZ2l0aHViLmlvJTJGTW9lYml1cyUyRiU3Q2h0dHBzJTNBJTJGJTJGaHVzdHZsLmdpdGh1Yi5pbyUyRk1vZWJpdXMlMkYlN0NNb2ViaXVzJTNBJTIwMC4yQiUyMGltYWdlJTIwaW5wYWludGluZyUyMG1vZGVsJTIwd2l0aCUyMDEwQi1sZXZlbCUyMHBlcmZvcm1hbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzAxNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxMyUzQTUzJTNBMDIlMjAlMkIwMDAw",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "pubDate": "Mon, 22 Jun 2026 13:53:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2hldnJvbi5jb20lMkZuZXdzcm9vbSUyRjIwMjYlMkZxMiUyRmNoZXZyb24tc2lnbnMtMjAteWVhci1wb3dlci1hZ3JlZW1lbnQtd2l0aC1taWNyb3NvZnQtZm9yLXdlc3QtdGV4YXMtZGF0YS1jZW50ZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5jaGV2cm9uLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRnEyJTJGY2hldnJvbi1zaWducy0yMC15ZWFyLXBvd2VyLWFncmVlbWVudC13aXRoLW1pY3Jvc29mdC1mb3Itd2VzdC10ZXhhcy1kYXRhLWNlbnRlciU3Q0NoZXZyb24lMjBzaWducyUyMDIwLXllYXIlMjBwb3dlciUyMGFncmVlbWVudCUyMHdpdGglMjBNaWNyb3NvZnQlMjBmb3IlMjBXZXN0JTIwVGV4YXMlMjBkYXRhJTIwY2VudGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzAwMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxMyUzQTQzJTNBMzglMjAlMkIwMDAw",
+      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+      "pubDate": "Mon, 22 Jun 2026 13:43:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXRjaGVsbGguY29tJTJGd3JpdGluZyUyRnppZy1kb25hdGlvbi0yMDI2JTdDaHR0cHMlM0ElMkYlMkZtaXRjaGVsbGguY29tJTJGd3JpdGluZyUyRnppZy1kb25hdGlvbi0yMDI2JTdDUGxlZGdpbmclMjBhbm90aGVyJTIwJTI0NDAwayUyMHRvJTIwdGhlJTIwWmlnJTIwc29mdHdhcmUlMjBmb3VuZGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzAwMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxMyUzQTQzJTNBMDElMjAlMkIwMDAw",
+      "title": "Pledging another $400k to the Zig software foundation",
+      "pubDate": "Mon, 22 Jun 2026 13:43:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjAlMkYwNSUyRmRpZS1hbmFseXNpcy1vZi04MDg3LW1hdGgtY29wcm9jZXNzb3JzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5yaWdodG8uY29tJTJGMjAyMCUyRjA1JTJGZGllLWFuYWx5c2lzLW9mLTgwODctbWF0aC1jb3Byb2Nlc3NvcnMuaHRtbCU3Q0RpZSUyMGFuYWx5c2lzJTIwb2YlMjB0aGUlMjA4MDg3JTIwbWF0aCUyMGNvcHJvY2Vzc29yJ3MlMjBmYXN0JTIwYml0JTIwc2hpZnRlciUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjI5OTgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTMlM0E0MCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+      "pubDate": "Mon, 22 Jun 2026 13:40:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXp6bGVsYWlyLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGcHV6emxlbGFpci5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBHb3QlMjBzaWNrJTIwb2YlMjBhZHMlMkMlMjBzbyUyMEklMjBtYWRlJTIwbXklMjBvd24lMjBsb2dpYyUyMHB1enpsZSUyMHNpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyOTIxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDEyJTNBMjMlM0E0NiUyMCUyQjAwMDA",
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "pubDate": "Mon, 22 Jun 2026 12:23:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FzaGluZ3RvbnBvc3QuY29tJTJGb2JpdHVhcmllcyUyRjIwMjYlMkYwNiUyRjIyJTJGYWxhbi1ncmVlbnNwYW4tbW9zdC1wb3dlcmZ1bC1jZW50cmFsLWJhbmtlci1tb2Rlcm4tdGltZXMtZGllcy0xMDAlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53YXNoaW5ndG9ucG9zdC5jb20lMkZvYml0dWFyaWVzJTJGMjAyNiUyRjA2JTJGMjIlMkZhbGFuLWdyZWVuc3Bhbi1tb3N0LXBvd2VyZnVsLWNlbnRyYWwtYmFua2VyLW1vZGVybi10aW1lcy1kaWVzLTEwMCUyRiU3Q0FsYW4lMjBHcmVlbnNwYW4lMjBoYXMlMjBkaWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2Mjg3MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxMSUzQTI3JTNBNDAlMjAlMkIwMDAw",
+      "title": "Alan Greenspan has died",
+      "pubDate": "Mon, 22 Jun 2026 11:27:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
     }
   ]
