@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-19",
     "newestItemDate": "2026-06-19",
-    "itemCount": 33,
-    "generatedAt": "2026-06-21T11:26:13.867Z"
+    "itemCount": 35,
+    "generatedAt": "2026-06-22T13:45:12.274Z"
   },
   "items": [
     {
@@ -204,6 +204,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0YW9vZm1hYy5jb20lMkZzcGFjZSUyRmJsb2clMkYyMDI2JTJGMDYlMkYxOCUyRjE4NDUlN0NodHRwcyUzQSUyRiUyRnRhb29mbWFjLmNvbSUyRnNwYWNlJTJGYmxvZyUyRjIwMjYlMkYwNiUyRjE4JTJGMTg0NSU3Q1J1bm5pbmclMjBNaWNyb1ZNcyUyMGluJTIwUHJveG1veCUyMFZFJTJDJTIwdGhlJTIwRWFzeSUyMFdheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTk5NTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTklMjBKdW4lMjAyMDI2JTIwMTUlM0ExMyUzQTExJTIwJTJCMDAwMA",
       "title": "Running MicroVMs in Proxmox VE, the Easy Way",
       "pubDate": "Fri, 19 Jun 2026 15:13:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZW9wbGUuaWRzaWEuY2glMkZ+anVlcmdlbiUyRmFpLWJvb20tcm9vdHMtbXVuaWNoLTE5OTEuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGVvcGxlLmlkc2lhLmNoJTJGfmp1ZXJnZW4lMkZhaS1ib29tLXJvb3RzLW11bmljaC0xOTkxLmh0bWwlN0NNdW5pY2glMjAxOTkxJTNBJTIwVGhlJTIwUm9vdHMlMjBvZiUyMHRoZSUyMEN1cnJlbnQlMjBBSSUyMEJvb20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5OTk5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDE1JTNBNTQlM0EyMyUyMCUyQjAwMDA",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "pubDate": "Fri, 19 Jun 2026 15:54:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsb3Zlci5jb20lMkZwcm9nJTJGZm9ydHJhbi1pLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cucGxvdmVyLmNvbSUyRnByb2clMkZmb3J0cmFuLWkuaHRtbCU3Q015JTIwMTk5MiUyMHZpZXclMjBvZiUyMHRoZSUyMHByb2JsZW1zJTIwb2YlMjBjb21wdXRlciUyMHByb2dyYW1taW5nJTIwaW4lMjAxOTkyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1OTkwNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOSUyMEp1biUyMDIwMjYlMjAxNCUzQTMwJTNBNDYlMjAlMkIwMDAw",
+      "title": "My 1992 view of the problems of computer programming in 1992",
+      "pubDate": "Fri, 19 Jun 2026 14:30:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
     }
   ]

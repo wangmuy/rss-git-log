@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-20",
     "newestItemDate": "2026-06-20",
-    "itemCount": 44,
-    "generatedAt": "2026-06-22T05:34:34.540Z"
+    "itemCount": 47,
+    "generatedAt": "2026-06-22T13:45:12.274Z"
   },
   "items": [
     {
@@ -269,6 +269,24 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkY2aXQuZGV2JTJGYmxvZyUyRmluZm9ncmFwaGljcy1vcGVyYXRpb24tY29zdHMtaW4tY3B1LWNsb2NrLWN5Y2xlcy10YWtlLTItODA3MzYlN0NodHRwcyUzQSUyRiUyRjZpdC5kZXYlMkZibG9nJTJGaW5mb2dyYXBoaWNzLW9wZXJhdGlvbi1jb3N0cy1pbi1jcHUtY2xvY2stY3ljbGVzLXRha2UtMi04MDczNiU3Q0VmZmljaWVudCUyMEMlMkIlMkIlMjBQcm9ncmFtbWluZyUyMGZvciUyME1vZGVybiUyMEMlMkIlMkIlMjBDUFVzJTJDJTIwQ2hhcHRlciUyMDQlMkZwYXJ0JTIwMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjA1MDg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMDAlM0E0MiUzQTUwJTIwJTJCMDAwMA",
       "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "pubDate": "Sat, 20 Jun 2026 00:42:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW1pZ2h0eWdpcmwuY29tJTJGYmxvZyUzRnAlM0QzNjc1MyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFtaWdodHlnaXJsLmNvbSUyRmJsb2clM0ZwJTNEMzY3NTMlN0NNYXJpYSUyMElzYWJlbCUyMFMlQzMlQTFuY2hleiUyMFZlZ2FyYSUyMG9uJTIwSGVyJTIwMTAwdGglMjAlMjJMaXR0bGUlMjBQZW9wbGUlMkMlMjBCaWclMjBEcmVhbXMlMjIlMjBCb29rJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDc2NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAwOSUzQTEzJTNBNTUlMjAlMkIwMDAw",
+      "title": "Maria Isabel Sánchez Vegara on Her 100th \"Little People, Big Dreams\" Book",
+      "pubDate": "Sat, 20 Jun 2026 09:13:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGxheVgxOCUyRmxpc3AtaW4tdHlwZXMlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwbGF5WDE4JTJGbGlzcC1pbi10eXBlcyUyRiU3Q0xpc3AlMjBpbiUyMHRoZSUyMFJ1c3QlMjBUeXBlJTIwU3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDY2NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAwNSUzQTQzJTNBNTQlMjAlMkIwMDAw",
+      "title": "Lisp in the Rust Type System",
+      "pubDate": "Sat, 20 Jun 2026 05:43:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY2aXQuZGV2JTJGYmxvZyUyRmluZm9ncmFwaGljcy1vcGVyYXRpb24tY29zdHMtaW4tY3B1LWNsb2NrLWN5Y2xlcy10YWtlLTItODA3MzYlN0NodHRwcyUzQSUyRiUyRjZpdC5kZXYlMkZibG9nJTJGaW5mb2dyYXBoaWNzLW9wZXJhdGlvbi1jb3N0cy1pbi1jcHUtY2xvY2stY3ljbGVzLXRha2UtMi04MDczNiU3Q0VmZmljaWVudCUyMEMlMkIlMkIlMjBQcm9ncmFtbWluZyUyMGZvciUyME1vZGVybiUyMDY0LWJpdCUyMENQVXMlM0ElMjBDaGFwdGVyJTIwNCUyRnBhcnQlMjAyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDUwODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAwMCUzQTQyJTNBNTAlMjAlMkIwMDAw",
+      "title": "Efficient C++ Programming for Modern 64-bit CPUs: Chapter 4/part 2",
       "pubDate": "Sat, 20 Jun 2026 00:42:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
     }
