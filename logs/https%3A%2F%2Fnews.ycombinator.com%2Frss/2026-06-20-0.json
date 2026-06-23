@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-20",
     "newestItemDate": "2026-06-20",
-    "itemCount": 48,
-    "generatedAt": "2026-06-22T19:50:30.779Z"
+    "itemCount": 51,
+    "generatedAt": "2026-06-23T04:33:16.358Z"
   },
   "items": [
     {
@@ -294,6 +294,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29tbWVudGFyeS5vcmclMkZhcnRpY2xlcyUyRmpvc2VwaC1lcHN0ZWluJTJGcGxhZ2lhcmlzbS13cml0aW5nLXBvbGl0aWNzLWFydHMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jb21tZW50YXJ5Lm9yZyUyRmFydGljbGVzJTJGam9zZXBoLWVwc3RlaW4lMkZwbGFnaWFyaXNtLXdyaXRpbmctcG9saXRpY3MtYXJ0cyUyRiU3Q0ElMjBOZXclMjBCb29rJTIwb24lMjBQbGFnaWFyaXNtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDUzMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAwMSUzQTE5JTNBMzMlMjAlMkIwMDAw",
       "title": "A New Book on Plagiarism",
       "pubDate": "Sat, 20 Jun 2026 01:19:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3dib3lzdGF0ZWRhaWx5LmNvbSUyRjIwMjYlMkYwNiUyRjE4JTJGZ2lhbnQtYmFuYW5hLXB1bGxlZC1vdmVyLWluLW1vbnRhbmEtZHJpdmVyLXNheXMtY29wcy1oYXZlLXN0b3BwZWQtaGltLTEwMHMtb2YtdGltZXMlMkYlN0NodHRwcyUzQSUyRiUyRmNvd2JveXN0YXRlZGFpbHkuY29tJTJGMjAyNiUyRjA2JTJGMTglMkZnaWFudC1iYW5hbmEtcHVsbGVkLW92ZXItaW4tbW9udGFuYS1kcml2ZXItc2F5cy1jb3BzLWhhdmUtc3RvcHBlZC1oaW0tMTAwcy1vZi10aW1lcyUyRiU3Q0dpYW50JTIwQmFuYW5hJTIwUHVsbGVkJTIwT3ZlciUzQSUyMERyaXZlciUyMFNheXMlMjBDb3BzJTIwSGF2ZSUyMFN0b3BwZWQlMjBIaW0lMjAxMDBzJTIwb2YlMjBUaW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjE0MDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjAlMjBKdW4lMjAyMDI2JTIwMjMlM0EzMyUzQTE5JTIwJTJCMDAwMA",
+      "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+      "pubDate": "Sat, 20 Jun 2026 23:33:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpYS1jZW50cmUuY2FueW9uLmNvbSUyRmVuLUlOVCUyRjI2Njg2Ni1uZXctY2FueW9uLWhlYWRzLXVwLWRpc3BsYXktaGVsbWV0LWNvdWxkLWJlLWEtc2FmZXR5LWdhbWVjaGFuZ2VyLWZvci1yb2FkLXJpZGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWVkaWEtY2VudHJlLmNhbnlvbi5jb20lMkZlbi1JTlQlMkYyNjY4NjYtbmV3LWNhbnlvbi1oZWFkcy11cC1kaXNwbGF5LWhlbG1ldC1jb3VsZC1iZS1hLXNhZmV0eS1nYW1lY2hhbmdlci1mb3Itcm9hZC1yaWRpbmclMkYlN0NDYW55b24lMjBIVUQlMjBoZWxtZXQlMjBmb3IlMjByb2FkJTIwcmlkaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDkxMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAxMyUzQTMzJTNBMzclMjAlMkIwMDAw",
+      "title": "Canyon HUD helmet for road riding",
+      "pubDate": "Sat, 20 Jun 2026 13:33:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmh5ZHJvcG9uaWN0cmFzaC5zb2xhciUyRmN5YmVyZGVja3MtZ29pbmctYW5hbG9nLWFuZC1jb252aXZpYWwtdGVjaG5vbG9neSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5oeWRyb3BvbmljdHJhc2guc29sYXIlMkZjeWJlcmRlY2tzLWdvaW5nLWFuYWxvZy1hbmQtY29udml2aWFsLXRlY2hub2xvZ3klMkYlN0NDeWJlcmRlY2tzJTJDJTIwZ29pbmclMjBhbmFsb2clMkMlMjBhbmQlMjBjb252aXZpYWwlMjB0ZWNobm9sb2d5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MDU3NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMCUyMEp1biUyMDIwMjYlMjAwMiUzQTI5JTNBMjElMjAlMkIwMDAw",
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "pubDate": "Sat, 20 Jun 2026 02:29:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
     }
   ]

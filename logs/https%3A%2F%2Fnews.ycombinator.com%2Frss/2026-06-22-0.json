@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-22",
     "newestItemDate": "2026-06-22",
-    "itemCount": 32,
-    "generatedAt": "2026-06-22T19:50:30.778Z"
+    "itemCount": 43,
+    "generatedAt": "2026-06-23T04:33:16.358Z"
   },
   "items": [
     {
@@ -198,6 +198,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FzaGluZ3RvbnBvc3QuY29tJTJGb2JpdHVhcmllcyUyRjIwMjYlMkYwNiUyRjIyJTJGYWxhbi1ncmVlbnNwYW4tbW9zdC1wb3dlcmZ1bC1jZW50cmFsLWJhbmtlci1tb2Rlcm4tdGltZXMtZGllcy0xMDAlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53YXNoaW5ndG9ucG9zdC5jb20lMkZvYml0dWFyaWVzJTJGMjAyNiUyRjA2JTJGMjIlMkZhbGFuLWdyZWVuc3Bhbi1tb3N0LXBvd2VyZnVsLWNlbnRyYWwtYmFua2VyLW1vZGVybi10aW1lcy1kaWVzLTEwMCUyRiU3Q0FsYW4lMjBHcmVlbnNwYW4lMjBoYXMlMjBkaWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2Mjg3MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxMSUzQTI3JTNBNDAlMjAlMkIwMDAw",
       "title": "Alan Greenspan has died",
       "pubDate": "Mon, 22 Jun 2026 11:27:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZW5vZGl1bS5jb20lMkZ5dHIteW91dHViZS1yYWRpby1mb3ItZW1hY3MlN0NodHRwcyUzQSUyRiUyRnhlbm9kaXVtLmNvbSUyRnl0ci15b3V0dWJlLXJhZGlvLWZvci1lbWFjcyU3Q3l0ciUzQSUyMFlvdVR1YmUlMjBSYWRpbyUyMGZvciUyMEVtYWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzYzODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAyMSUzQTIxJTNBMDglMjAlMkIwMDAw",
+      "title": "ytr: YouTube Radio for Emacs",
+      "pubDate": "Mon, 22 Jun 2026 21:21:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnNsb3RoLmFpJTJGZG9jcyUyRm1vZGVscyUyRmdsbS01LjIlN0NodHRwcyUzQSUyRiUyRnVuc2xvdGguYWklMkZkb2NzJTJGbW9kZWxzJTJGZ2xtLTUuMiU3Q0dMTS01LjIlMjAlRTIlODAlOTMlMjBIb3clMjB0byUyMFJ1biUyMExvY2FsbHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzNjM3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDIxJTNBMjElM0EwMSUyMCUyQjAwMDA",
+      "title": "GLM-5.2 – How to Run Locally",
+      "pubDate": "Mon, 22 Jun 2026 21:21:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa3liZXIlMkZqb2JzJTJGRkdtSThteC1oZWFkLW9mLWVuZ2luZWVyaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa3liZXIlMkZqb2JzJTJGRkdtSThteC1oZWFkLW9mLWVuZ2luZWVyaW5nJTdDS3liZXIlMjAoWUMlMjBXMjMpJTIwSXMlMjBIaXJpbmclMjBhJTIwSGVhZCUyMG9mJTIwRW5naW5lZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzNjEyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDIxJTNBMDAlM0E1MSUyMCUyQjAwMDA",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "pubDate": "Mon, 22 Jun 2026 21:00:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtcm1hcmtldC5sb2wlMkZqb2ItYXBwbGljYXRpb24tYXNrZWQtZm9yLW15LXNhdC1zY29yZXMlMkYlN0NodHRwcyUzQSUyRiUyRm1ybWFya2V0LmxvbCUyRmpvYi1hcHBsaWNhdGlvbi1hc2tlZC1mb3ItbXktc2F0LXNjb3JlcyUyRiU3Q0pvYiUyMGFwcGxpY2F0aW9uJTIwYXNrZWQlMjBmb3IlMjBteSUyMFNBVCUyMHNjb3JlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjM2MDYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMjAlM0E1NSUzQTE3JTIwJTJCMDAwMA",
+      "title": "Job application asked for my SAT scores",
+      "pubDate": "Mon, 22 Jun 2026 20:55:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnVuLmlzJTJGYmxvZyUyRmphcGFuLXN5bWJvbHMlMkYlN0NodHRwcyUzQSUyRiUyRmFydW4uaXMlMkZibG9nJTJGamFwYW4tc3ltYm9scyUyRiU3Q0phcGFuZXNlJTIwc3ltYm9scyUyMHRoYXQlMjBzcGVhayUyMHdpdGhvdXQlMjB3b3JkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjM0ODAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTklM0EyMiUzQTM3JTIwJTJCMDAwMA",
+      "title": "Japanese symbols that speak without words",
+      "pubDate": "Mon, 22 Jun 2026 19:22:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3J1bmNoeWRhdGEuY29tJTJGYmxvZyUyRmJyaXRpc2gtY29sdW1iaWEtYW5kLXRpbWUtem9uZS1jaGFuZ2VzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3J1bmNoeWRhdGEuY29tJTJGYmxvZyUyRmJyaXRpc2gtY29sdW1iaWEtYW5kLXRpbWUtem9uZS1jaGFuZ2VzJTdDQnJpdGlzaCUyMENvbHVtYmlhJTJDJTIwVGltZSUyMFpvbmVzJTJDJTIwYW5kJTIwUG9zdGdyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzNDc4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDE5JTNBMjElM0EwMCUyMCUyQjAwMDA",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "pubDate": "Mon, 22 Jun 2026 19:21:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG9ydWtrdW1rdW1vZ2x1JTJGb3B0b2NhbXplcm8lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkb3J1a2t1bWt1bW9nbHUlMkZvcHRvY2FtemVybyU3Q09wdG9jYW0lMjBaZXJvJTNBJTIwYSUyMFBpJTIwWmVybyUyMGJhc2VkJTIwZGlnaXRhbCUyMGNhbWVyYSUyMG1hZGUlMjB1c2luZyUyMG9mZiUyMHRoZSUyMHNoZWxmJTIwY29tcG9uZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjM0Nzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTklM0ExOSUzQTU1JTIwJTJCMDAwMA",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "pubDate": "Mon, 22 Jun 2026 19:19:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcHZtLmNvbSUyRnJlcG9ydHMlMkZwb2xpY2UtY2hpZWZzLXRyYWNrJTdDaHR0cHMlM0ElMkYlMkZpcHZtLmNvbSUyRnJlcG9ydHMlMkZwb2xpY2UtY2hpZWZzLXRyYWNrJTdDRmxvY2stUG93ZXJlZCUyMFBvbGljZSUyMENoaWVmcyUyMFN0YWxraW5nJTIwV29tZW4lMjBTaG93cyUyMFdoeSUyMFdhcnJhbnRzJTIwQXJlJTIwTmVlZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzQ2OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxOSUzQTEzJTNBNDYlMjAlMkIwMDAw",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "pubDate": "Mon, 22 Jun 2026 19:13:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRnBvbGl0aWNzJTJGZmVkZXJhbC1udWNsZWFyLXN0cmF0ZWd5LTkuNzI0NDUwOSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNiYy5jYSUyRm5ld3MlMkZwb2xpdGljcyUyRmZlZGVyYWwtbnVjbGVhci1zdHJhdGVneS05LjcyNDQ1MDklN0NDYW5hZGElMjBwbGFucyUyMCdudWNsZWFyJTIwcmVuYWlzc2FuY2UnJTIwd2l0aCUyMHVwJTIwdG8lMjAxMCUyMHJlYWN0b3JzJTIwYnVpbHQlMjBieSUyMDIwNDAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzNDU4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDE5JTNBMDYlM0E0OCUyMCUyQjAwMDA",
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "pubDate": "Mon, 22 Jun 2026 19:06:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9yZS5zdGVhbXBvd2VyZWQuY29tJTJGbmV3cyUyRmdyb3VwJTJGNDU0NzkwMjQlMkZ2aWV3JTJGNjg1MjU3MTE0NjU0ODcwMjQ1JTdDaHR0cHMlM0ElMkYlMkZzdG9yZS5zdGVhbXBvd2VyZWQuY29tJTJGbmV3cyUyRmdyb3VwJTJGNDU0NzkwMjQlMkZ2aWV3JTJGNjg1MjU3MTE0NjU0ODcwMjQ1JTdDU3RlYW0lMjBNYWNoaW5lJTIwbGF1bmNoZXMlMjB0b2RheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMyODg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTclM0EwOSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Steam Machine launches today",
+      "pubDate": "Mon, 22 Jun 2026 17:09:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvYWsuc3BhY2UlMkZvYWslMkZvYWslN0NodHRwcyUzQSUyRiUyRm9hay5zcGFjZSUyRm9hayUyRm9hayU3Q1Nob3clMjBITiUzQSUyME9hayUyMCVFMiU4MCU5MyUyMEdpdCUyMGFsdGVybmF0aXZlJTIwZGVzaWduZWQlMjBmb3IlMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzMTcyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDE1JTNBMzclM0E0OCUyMCUyQjAwMDA",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "pubDate": "Mon, 22 Jun 2026 15:37:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
     }
   ]

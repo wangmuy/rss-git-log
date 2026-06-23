@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-18",
     "newestItemDate": "2026-06-18",
-    "itemCount": 59,
-    "generatedAt": "2026-06-22T13:45:12.274Z"
+    "itemCount": 61,
+    "generatedAt": "2026-06-23T04:33:16.358Z"
   },
   "items": [
     {
@@ -360,6 +360,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbGlzeXN0ZW1zLmNvbSUyRmFydGljbGUtVVRGUy1pbnRybyUyRiU3Q2h0dHBzJTNBJTJGJTJGY2xpc3lzdGVtcy5jb20lMkZhcnRpY2xlLVVURlMtaW50cm8lMkYlN0NVVEZTJTNBJTIwQSUyMFRhci1MaWtlJTIwRmlsZSUyMFN5c3RlbSUyMGZvciUyMEVtYmVkZGVkJTIwU3lzdGVtcyUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NTc5MDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTglMjBKdW4lMjAyMDI2JTIwMDAlM0E0MSUzQTUyJTIwJTJCMDAwMA",
       "title": "UTFS: A Tar-Like File System for Embedded Systems (2025)",
       "pubDate": "Thu, 18 Jun 2026 00:41:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5b2VidWlsZC5vcmclMkZibG9nJTJGdGltZS1mb3ItYS1uZXctYnVpbGQtc3lzdGVtJTJGJTdDaHR0cHMlM0ElMkYlMkZ5b2VidWlsZC5vcmclMkZibG9nJTJGdGltZS1mb3ItYS1uZXctYnVpbGQtc3lzdGVtJTJGJTdDSXMlMjBpdCUyMHRpbWUlMjBmb3IlMjBhJTIwbmV3JTIwRW1iZWRkZWQlMjBMaW51eCUyMGJ1aWxkJTIwc3lzdGVtJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg1ODgyNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOCUyMEp1biUyMDIwMjYlMjAxNiUzQTU3JTNBMDUlMjAlMkIwMDAw",
+      "title": "Is it time for a new Embedded Linux build system?",
+      "pubDate": "Thu, 18 Jun 2026 16:57:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXB0bmVtby5pbiUyRmJsb2clMkYyMDI2JTJGMDYlMkYxNyUyRnBhY2thZ2UtbWFuYWdlcnMtbmVlZC1ob29rcyUyRiU3Q2h0dHBzJTNBJTJGJTJGY2FwdG5lbW8uaW4lMkZibG9nJTJGMjAyNiUyRjA2JTJGMTclMkZwYWNrYWdlLW1hbmFnZXJzLW5lZWQtaG9va3MlMkYlN0NQYWNrYWdlJTIwTWFuYWdlcnMlMjBuZWVkJTIwZ2xvYmFsJTIwaG9va3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU4Njc2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE4JTIwSnVuJTIwMjAyNiUyMDE1JTNBMjAlM0EzMSUyMCUyQjAwMDA",
+      "title": "Package Managers need global hooks",
+      "pubDate": "Thu, 18 Jun 2026 15:20:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-18-0.json"
     }
   ]
