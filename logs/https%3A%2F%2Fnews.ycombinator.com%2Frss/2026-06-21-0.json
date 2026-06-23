@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 40,
-    "generatedAt": "2026-06-23T04:33:16.358Z"
+    "itemCount": 43,
+    "generatedAt": "2026-06-23T11:32:49.452Z"
   },
   "items": [
     {
@@ -246,6 +246,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRmJ1c2luZXNzJTJGbWVkaWElMkZwb2x5bWFya2V0LXNvY2lhbC1tZWRpYS1iZXRzLXByZWRpY3Rpb24tbWFya2V0LTQ0MWNkZWI1JTNGc3QlM0RIaFRaWTIlN0NodHRwcyUzQSUyRiUyRnd3dy53c2ouY29tJTJGYnVzaW5lc3MlMkZtZWRpYSUyRnBvbHltYXJrZXQtc29jaWFsLW1lZGlhLWJldHMtcHJlZGljdGlvbi1tYXJrZXQtNDQxY2RlYjUlM0ZzdCUzREhoVFpZMiU3Q1BvbHltYXJrZXQlMjBoYXMlMjBmbG9vZGVkJTIwc29jaWFsJTIwbWVkaWElMjB3aXRoJTIwZGVjZXB0aXZlJTIwdmlkZW9zJTIwYnklMjBwYWlkJTIwY3JlYXRvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxNDcxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDAxJTNBMTIlM0EyMSUyMCUyQjAwMDA",
       "title": "Polymarket has flooded social media with deceptive videos by paid creators",
       "pubDate": "Sun, 21 Jun 2026 01:12:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvd2wuYmlsbHBnLmNvbSUyRjgwODYtc2VnbWVudGVkLW1lbW9yeS13YXMtYS1nb29kLWlkZWEtYWxtb3N0JTJGJTdDaHR0cHMlM0ElMkYlMkZvd2wuYmlsbHBnLmNvbSUyRjgwODYtc2VnbWVudGVkLW1lbW9yeS13YXMtYS1nb29kLWlkZWEtYWxtb3N0JTJGJTdDODA4NiUyMFNlZ21lbnRlZCUyME1lbW9yeSUyMHdhcyUyMGElMjBnb29kJTIwaWRlYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjE5MTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMTQlM0EwNyUzQTExJTIwJTJCMDAwMA",
+      "title": "8086 Segmented Memory was a good idea",
+      "pubDate": "Sun, 21 Jun 2026 14:07:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW5jZW50LmJlcm5hdC5jaCUyRmVuJTJGYmxvZyUyRjIwMjYtYWt2b3JhZG8tcmliLXNoYXJkaW5nJTdDaHR0cHMlM0ElMkYlMkZ2aW5jZW50LmJlcm5hdC5jaCUyRmVuJTJGYmxvZyUyRjIwMjYtYWt2b3JhZG8tcmliLXNoYXJkaW5nJTdDU2NhbGluZyUyMEFrdm9yYWRvJTIwQk1QJTIwUklCJTIwd2l0aCUyMFNoYXJkaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTgxNjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxMiUzQTAwJTNBNTglMjAlMkIwMDAw",
+      "title": "Scaling Akvorado BMP RIB with Sharding",
+      "pubDate": "Sun, 21 Jun 2026 12:00:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJpdXNiYW5jaWxhLnJvJTJGYmxvZyUyRjIwMjYlMkYwNiUyRjE5JTJGaW1wcm92ZW1lbnRzLXRvLXN0ZGZvcm1hdC1pbi1jMjYlMkYlN0NodHRwcyUzQSUyRiUyRm1hcml1c2JhbmNpbGEucm8lMkZibG9nJTJGMjAyNiUyRjA2JTJGMTklMkZpbXByb3ZlbWVudHMtdG8tc3RkZm9ybWF0LWluLWMyNiUyRiU3Q0ltcHJvdmVtZW50cyUyMHRvJTIwU3RkJTNBRm9ybWF0JTIwaW4lMjBDJTJCJTJCMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxNjE4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDA2JTNBMjYlM0E0OCUyMCUyQjAwMDA",
+      "title": "Improvements to Std:Format in C++26",
+      "pubDate": "Sun, 21 Jun 2026 06:26:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]
