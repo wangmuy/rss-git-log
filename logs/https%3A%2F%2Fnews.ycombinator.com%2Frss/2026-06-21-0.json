@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 43,
-    "generatedAt": "2026-06-23T11:32:49.452Z"
+    "itemCount": 46,
+    "generatedAt": "2026-06-24T04:41:31.831Z"
   },
   "items": [
     {
@@ -264,6 +264,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXJpdXNiYW5jaWxhLnJvJTJGYmxvZyUyRjIwMjYlMkYwNiUyRjE5JTJGaW1wcm92ZW1lbnRzLXRvLXN0ZGZvcm1hdC1pbi1jMjYlMkYlN0NodHRwcyUzQSUyRiUyRm1hcml1c2JhbmNpbGEucm8lMkZibG9nJTJGMjAyNiUyRjA2JTJGMTklMkZpbXByb3ZlbWVudHMtdG8tc3RkZm9ybWF0LWluLWMyNiUyRiU3Q0ltcHJvdmVtZW50cyUyMHRvJTIwU3RkJTNBRm9ybWF0JTIwaW4lMjBDJTJCJTJCMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxNjE4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDA2JTNBMjYlM0E0OCUyMCUyQjAwMDA",
       "title": "Improvements to Std:Format in C++26",
       "pubDate": "Sun, 21 Jun 2026 06:26:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG10cktvdmFsZW5rbyUyRmZmcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmRtdHJLb3ZhbGVua28lMkZmZnMlN0NGKiUyMGZpbGUlMjBzeXN0ZW0lMjAlRTIlODAlOTMlMjBmaWxlJTIwc2VhcmNoJTIwdGhhdCUyMHJlYWRzJTIwU1NEJTIwZGlyZWN0bHklMjBieXBhc3NpbmclMjBPUyUyMGtlcm5lbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjIyNDMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMjAlM0E0NCUzQTMzJTIwJTJCMDAwMA",
+      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "pubDate": "Sun, 21 Jun 2026 20:44:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmltZWNydW5jaC5jb20lMkZibG9nJTJGMiUyRmh1bnRpbmctbWlsbGlvbi1kaWdpdC1wcmltZXMtZnJvbS1teS1sb2Z0JTdDaHR0cHMlM0ElMkYlMkZwcmltZWNydW5jaC5jb20lMkZibG9nJTJGMiUyRmh1bnRpbmctbWlsbGlvbi1kaWdpdC1wcmltZXMtZnJvbS1teS1sb2Z0JTdDSHVudGluZyUyME1pbGxpb24tRGlnaXQlMjBQcmltZXMlMjBmcm9tJTIwTXklMjBMb2Z0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MjEwMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAxNyUzQTU4JTNBNDklMjAlMkIwMDAw",
+      "title": "Hunting Million-Digit Primes from My Loft",
+      "pubDate": "Sun, 21 Jun 2026 17:58:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGF0cmVvbi5jb20lMkZEYW55Qml0dGVsJTJGcG9zdHMlMkZwcmludGluZy1zcGxhdHMtMTYxMzMzMzM4JTdDaHR0cHMlM0ElMkYlMkZ3d3cucGF0cmVvbi5jb20lMkZEYW55Qml0dGVsJTJGcG9zdHMlMkZwcmludGluZy1zcGxhdHMtMTYxMzMzMzM4JTdDUHJpbnRpbmclMjBHYXVzc2lhbiUyMFNwbGF0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjE4NDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMTIlM0E0OSUzQTAyJTIwJTJCMDAwMA",
+      "title": "Printing Gaussian Splats",
+      "pubDate": "Sun, 21 Jun 2026 12:49:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]

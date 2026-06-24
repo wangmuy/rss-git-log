@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 33,
-    "generatedAt": "2026-06-23T18:17:00.932Z"
+    "itemCount": 42,
+    "generatedAt": "2026-06-24T04:41:31.831Z"
   },
   "items": [
     {
@@ -204,6 +204,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjYlMkYyMyUyRnRoZS1jb21pbmctbG9vcCUyRiU3Q2h0dHBzJTNBJTJGJTJGbHVjdW1yLnBvY29vLm9yZyUyRjIwMjYlMkY2JTJGMjMlMkZ0aGUtY29taW5nLWxvb3AlMkYlN0NUaGUlMjBDb21pbmclMjBMb29wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDMxODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxMSUzQTA2JTNBNDElMjAlMkIwMDAw",
       "title": "The Coming Loop",
       "pubDate": "Tue, 23 Jun 2026 11:06:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jkcy5maWxpcHBvLmlvJTJGdnVsbi1yZXBvcnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3b3Jkcy5maWxpcHBvLmlvJTJGdnVsbi1yZXBvcnRzJTJGJTdDVnVsbmVyYWJpbGl0eSUyMHJlcG9ydHMlMjBhcmUlMjBub3QlMjBzcGVjaWFsJTIwYW55bW9yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjUzMjE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMjMlM0E0MiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Vulnerability reports are not special anymore",
+      "pubDate": "Tue, 23 Jun 2026 23:42:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubHNlLmFjLnVrJTJGZ3JhbnRoYW1pbnN0aXR1dGUlMkZldmVudHMlMkZleHRyZW1lLWhlYXQtaW1wcm92aW5nLWdvdmVybmFuY2UtYW5kLXN0cmVuZ3RoZW5pbmctYWN0aW9uLWFyb3VuZC10aGUtd29ybGQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5sc2UuYWMudWslMkZncmFudGhhbWluc3RpdHV0ZSUyRmV2ZW50cyUyRmV4dHJlbWUtaGVhdC1pbXByb3ZpbmctZ292ZXJuYW5jZS1hbmQtc3RyZW5ndGhlbmluZy1hY3Rpb24tYXJvdW5kLXRoZS13b3JsZCUyRiU3Q0V4dHJlbWUlMjBIZWF0JTIwY29uZmVyZW5jZSUyMGNhbmNlbGxlZCUyMGR1ZSUyMHRvJTIwZXh0cmVtZSUyMGhlYXQlMjB3YXJuaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NTMwNjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAyMyUzQTI2JTNBNDMlMjAlMkIwMDAw",
+      "title": "Extreme Heat conference cancelled due to extreme heat warning",
+      "pubDate": "Tue, 23 Jun 2026 23:26:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5qZXJyeXNtYXAuY29tJTJGdGhlLW1hcCU3Q2h0dHAlM0ElMkYlMkZ3d3cuamVycnlzbWFwLmNvbSUyRnRoZS1tYXAlN0NKZXJyeSdzJTIwTWFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDk0MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxOCUzQTQwJTNBMjIlMjAlMkIwMDAw",
+      "title": "Jerry's Map",
+      "pubDate": "Tue, 23 Jun 2026 18:40:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY29udGV4dC1sYWJzJTJGaGFsbyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNvbnRleHQtbGFicyUyRmhhbG8lN0NTaG93JTIwSE4lM0ElMjBSTE0tYmFzZWQlMjBsb2NhbCUyMGRlYnVnZ2VyJTIwZm9yJTIwQUklMjBhZ2VudCUyMHRyYWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ5MTM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMTglM0EyMSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: RLM-based local debugger for AI agent traces",
+      "pubDate": "Tue, 23 Jun 2026 18:21:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkpQb2VobmVsdCUyRnN0YXR1cyUyRjIwNjk0ODIyNjU5NTMwODc2MDIlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGSlBvZWhuZWx0JTJGc3RhdHVzJTJGMjA2OTQ4MjI2NTk1MzA4NzYwMiU3Q0ZpcmVkJTIwYnklMjBHb29nbGUlMjBmb3IlMjBjcmVhdGluZyUyMHRoZSUyMEdvb2dsZSUyMHdvcmtzcGFjZSUyMENMSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ5MDExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMTglM0ExMyUzQTQwJTIwJTJCMDAwMA",
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "pubDate": "Tue, 23 Jun 2026 18:13:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDYyMi0wMCUyRiUzRnAlM0QxMTI0NTElN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwNjIyLTAwJTJGJTNGcCUzRDExMjQ1MSU3Q0luJTIwbWVtb3J5JTIwb2YlMjB0aGUlMjBtYW4lMjB3aG8lMjBwdXQlMjByZWQlMjBhbmQlMjBncmVlbiUyMHNxdWlnZ2xlcyUyMHVuZGVyJTIwd29yZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0ODk1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDE4JTNBMTAlM0E0NyUyMCUyQjAwMDA",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "pubDate": "Tue, 23 Jun 2026 18:10:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzd2lmdHBhY2thZ2VpbmRleC5jb20lMkZibG9nJTJGc3dpZnQtcGFja2FnZS1pbmRleC1qb2lucy1hcHBsZSU3Q2h0dHBzJTNBJTJGJTJGc3dpZnRwYWNrYWdlaW5kZXguY29tJTJGYmxvZyUyRnN3aWZ0LXBhY2thZ2UtaW5kZXgtam9pbnMtYXBwbGUlN0NTd2lmdCUyMFBhY2thZ2UlMjBJbmRleCUyMGpvaW5zJTIwQXBwbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0ODc3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDE4JTNBMDAlM0E1OCUyMCUyQjAwMDA",
+      "title": "Swift Package Index joins Apple",
+      "pubDate": "Tue, 23 Jun 2026 18:00:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzd2lwZS5mdXRvLnRlY2glMkYlN0NodHRwcyUzQSUyRiUyRnN3aXBlLmZ1dG8udGVjaCUyRiU3Q0ZVVE8lMjBTd2lwZSUyMCVFMiU4MCU5MyUyMEElMjBuZXclMjBzd2lwZSUyMHR5cGluZyUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDg2MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxNyUzQTUwJTNBMjIlMjAlMkIwMDAw",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "pubDate": "Tue, 23 Jun 2026 17:50:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQubmV0JTJGdml0YW1pbi1kJTJGJTdDaHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQubmV0JTJGdml0YW1pbi1kJTJGJTdDVGhlJTIwd29ydGhsZXNzbmVzcyUyMG9mJTIwVml0YW1pbiUyMEQlMjBpcyUyMG1pbGRseSUyMGV4YWdnZXJhdGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDc0ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxNiUzQTMwJTNBMTglMjAlMkIwMDAw",
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "pubDate": "Tue, 23 Jun 2026 16:30:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]

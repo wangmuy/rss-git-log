@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-22",
     "newestItemDate": "2026-06-22",
-    "itemCount": 45,
-    "generatedAt": "2026-06-23T18:17:00.933Z"
+    "itemCount": 49,
+    "generatedAt": "2026-06-24T04:41:31.831Z"
   },
   "items": [
     {
@@ -276,6 +276,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2VzcGlzZXIuY29tJTJGcG9zdHMlMkYyMDI2LTA2LTE5LWJlc3QtZG9nLXRyZWF0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy53ZXNwaXNlci5jb20lMkZwb3N0cyUyRjIwMjYtMDYtMTktYmVzdC1kb2ctdHJlYXQuaHRtbCU3Q0ZpbmRpbmclMjB0aGUlMjBiZXN0JTIwZG9nJTIwdHJlYXQlMjB3aXRoJTIwc3RhdGlzdGljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMzNDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTclM0E0NiUzQTQ4JTIwJTJCMDAwMA",
       "title": "Finding the best dog treat with statistics",
       "pubDate": "Mon, 22 Jun 2026 17:46:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZHJpdmUuY29tJTJGbmV3cyUyRnRoaXMtbWFuLXdhcy1naWZ0ZWQtaGlzLWRyZWFtLWNhci1ieS10aGUtbm90b3Jpb3VzLWhhY2tlci1oZS1wdXQtaW4tcHJpc29uJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZHJpdmUuY29tJTJGbmV3cyUyRnRoaXMtbWFuLXdhcy1naWZ0ZWQtaGlzLWRyZWFtLWNhci1ieS10aGUtbm90b3Jpb3VzLWhhY2tlci1oZS1wdXQtaW4tcHJpc29uJTdDQSUyMG1hbiUyMHdhcyUyMGdpZnRlZCUyMGhpcyUyMGRyZWFtJTIwY2FyJTIwYnklMjBLZXZpbiUyME1pdG5pY2slMkMlMjB3aG8lMjBoZSUyMGhlbHBlZCUyMHB1dCUyMGluJTIwcHJpc29uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzM2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxOCUzQTAzJTNBMDMlMjAlMkIwMDAw",
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "pubDate": "Mon, 22 Jun 2026 18:03:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJhY2tldC1sYW5nLm9yZyUyRjIwMjYlMkYwNiUyRnJob21idXMtdjEuMC5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLnJhY2tldC1sYW5nLm9yZyUyRjIwMjYlMkYwNiUyRnJob21idXMtdjEuMC5odG1sJTdDUmhvbWJ1cyUyMExhbmd1YWdlJTIwMS4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzM0NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxNyUzQTUwJTNBNDAlMjAlMkIwMDAw",
+      "title": "Rhombus Language 1.0",
+      "pubDate": "Mon, 22 Jun 2026 17:50:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGF0cmlja2RvbWFuaWNvLmNvbSUyRmJwbSUyRjIwMjYlMkYwNiUyRjE2JTJGaW52ZW50aW5nLXRoZS1mdXR1cmUtb25lLWxpc3AtbWFjaGluZS1hdC1hLXRpbWUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wYXRyaWNrZG9tYW5pY28uY29tJTJGYnBtJTJGMjAyNiUyRjA2JTJGMTYlMkZpbnZlbnRpbmctdGhlLWZ1dHVyZS1vbmUtbGlzcC1tYWNoaW5lLWF0LWEtdGltZSUyRiU3Q0ludmVudGluZyUyMHRoZSUyMEZ1dHVyZSUyQyUyME9uZSUyMExpc3AlMjBNYWNoaW5lJTIwYXQlMjBhJTIwVGltZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMxNTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTUlM0EyNCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "pubDate": "Mon, 22 Jun 2026 15:24:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxc29lLWRldi5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDYlMkZxc29lLXByb2plY3QtdjAxLWlzLXJlbGVhc2VkLmh0bWwlN0NodHRwcyUzQSUyRiUyRnFzb2UtZGV2LmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwNiUyRnFzb2UtcHJvamVjdC12MDEtaXMtcmVsZWFzZWQuaHRtbCU3Q1FTT0UlM0ElMjBRTlgtaW5zcGlyZWQlMjBPUyUyMHdpdGglMjBkdWFsLWtlcm5lbCUyMGFyY2hpdGVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjMwMDg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjIlMjBKdW4lMjAyMDI2JTIwMTMlM0E0NiUzQTU3JTIwJTJCMDAwMA",
+      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
+      "pubDate": "Mon, 22 Jun 2026 13:46:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
     }
   ]
