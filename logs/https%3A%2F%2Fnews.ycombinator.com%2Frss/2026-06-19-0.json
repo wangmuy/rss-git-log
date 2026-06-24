@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-19",
     "newestItemDate": "2026-06-19",
-    "itemCount": 41,
-    "generatedAt": "2026-06-23T18:17:00.933Z"
+    "itemCount": 42,
+    "generatedAt": "2026-06-24T18:13:30.873Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZub3RlZmxha2VzLmNvbSUyRmFydGljbGVzJTJGMjAyNi0wNi0xOC1zeW50cm9weS1tb2R1bGVzJTdDaHR0cHMlM0ElMkYlMkZub3RlZmxha2VzLmNvbSUyRmFydGljbGVzJTJGMjAyNi0wNi0xOC1zeW50cm9weS1tb2R1bGVzJTdDUmV0aGlua2luZyUyME1vZHVsYXJpdHklMjBpbiUyMFJ1YnklMjBBcHBsaWNhdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5NjU4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDA5JTNBMjMlM0EyNCUyMCUyQjAwMDA",
       "title": "Rethinking Modularity in Ruby Applications",
       "pubDate": "Fri, 19 Jun 2026 09:23:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRm9wZW4tc291cmNlJTJGbWFpbnRhaW5lcnMlMkZob3ctcHVsbC1yZXF1ZXN0LWxpbWl0cy1hcmUtY3V0dGluZy1kb3duLXRoZS1ub2lzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmJsb2clMkZvcGVuLXNvdXJjZSUyRm1haW50YWluZXJzJTJGaG93LXB1bGwtcmVxdWVzdC1saW1pdHMtYXJlLWN1dHRpbmctZG93bi10aGUtbm9pc2UlMkYlN0NQdWxsJTIwcmVxdWVzdCUyMGxpbWl0cyUyMGFyZSUyMGN1dHRpbmclMjBkb3duJTIwdGhlJTIwbm9pc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5NjgzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDEwJTNBMDMlM0ExMCUyMCUyQjAwMDA",
+      "title": "Pull request limits are cutting down the noise",
+      "pubDate": "Fri, 19 Jun 2026 10:03:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
     }
   ]

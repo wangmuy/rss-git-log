@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 42,
-    "generatedAt": "2026-06-24T04:41:31.831Z"
+    "itemCount": 44,
+    "generatedAt": "2026-06-24T18:13:30.872Z"
   },
   "items": [
     {
@@ -258,6 +258,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQubmV0JTJGdml0YW1pbi1kJTJGJTdDaHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQubmV0JTJGdml0YW1pbi1kJTJGJTdDVGhlJTIwd29ydGhsZXNzbmVzcyUyMG9mJTIwVml0YW1pbiUyMEQlMjBpcyUyMG1pbGRseSUyMGV4YWdnZXJhdGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDc0ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxNiUzQTMwJTNBMTglMjAlMkIwMDAw",
       "title": "The worthlessness of Vitamin D is mildly exaggerated",
       "pubDate": "Tue, 23 Jun 2026 16:30:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua3JlYS5haSUyRmJsb2clMkZrcmVhLTItdGVjaG5pY2FsLXJlcG9ydCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmtyZWEuYWklMkZibG9nJTJGa3JlYS0yLXRlY2huaWNhbC1yZXBvcnQlN0NLcmVhJTIwMiUzQSUyMFNPVEElMjBvcGVuLXdlaWdodHMlMjAxMkIlMjBpbWFnZSUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDY2NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxNSUzQTMxJTNBMjElMjAlMkIwMDAw",
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "pubDate": "Tue, 23 Jun 2026 15:31:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTm90QVNpdGhMb3JkJTJGcGVlcmQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZOb3RBU2l0aExvcmQlMkZwZWVyZCU3Q1Nob3clMjBITiUzQSUyMHBlZXJkJTIwJUUyJTgwJTkzJTIwQUklMjBhZ2VudCUyMGhhcm5lc3MlMjB0aGF0JTIwcnVucyUyMGVudGlyZWx5JTIwaW4lMjB5b3VyJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ2MTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMTUlM0EwNSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "pubDate": "Tue, 23 Jun 2026 15:05:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]

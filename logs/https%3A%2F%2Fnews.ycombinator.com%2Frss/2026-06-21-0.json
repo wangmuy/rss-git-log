@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 46,
-    "generatedAt": "2026-06-24T04:41:31.831Z"
+    "itemCount": 47,
+    "generatedAt": "2026-06-24T18:13:30.872Z"
   },
   "items": [
     {
@@ -282,6 +282,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGF0cmVvbi5jb20lMkZEYW55Qml0dGVsJTJGcG9zdHMlMkZwcmludGluZy1zcGxhdHMtMTYxMzMzMzM4JTdDaHR0cHMlM0ElMkYlMkZ3d3cucGF0cmVvbi5jb20lMkZEYW55Qml0dGVsJTJGcG9zdHMlMkZwcmludGluZy1zcGxhdHMtMTYxMzMzMzM4JTdDUHJpbnRpbmclMjBHYXVzc2lhbiUyMFNwbGF0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjE4NDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjElMjBKdW4lMjAyMDI2JTIwMTIlM0E0OSUzQTAyJTIwJTJCMDAwMA",
       "title": "Printing Gaussian Splats",
       "pubDate": "Sun, 21 Jun 2026 12:49:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXJlLWVmZmVjdC5vcmclN0NodHRwcyUzQSUyRiUyRnB1cmUtZWZmZWN0Lm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMFB1cmUlMjBFZmZlY3QlMjAlRTIlODAlOTMlMjBSZXByb2R1Y2UlMjBwcm9kdWN0aW9uJTIwYnVncyUyMG9uJTIweW91ciUyMGxhcHRvcCUyMHdpdGhvdXQlMjBhJTIwREIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyMDg0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE3JTNBMzYlM0EyMyUyMCUyQjAwMDA",
+      "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
+      "pubDate": "Sun, 21 Jun 2026 17:36:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]
