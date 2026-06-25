@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 47,
-    "generatedAt": "2026-06-24T18:13:30.872Z"
+    "itemCount": 48,
+    "generatedAt": "2026-06-25T04:37:29.106Z"
   },
   "items": [
     {
@@ -288,6 +288,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdXJlLWVmZmVjdC5vcmclN0NodHRwcyUzQSUyRiUyRnB1cmUtZWZmZWN0Lm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMFB1cmUlMjBFZmZlY3QlMjAlRTIlODAlOTMlMjBSZXByb2R1Y2UlMjBwcm9kdWN0aW9uJTIwYnVncyUyMG9uJTIweW91ciUyMGxhcHRvcCUyMHdpdGhvdXQlMjBhJTIwREIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyMDg0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE3JTNBMzYlM0EyMyUyMCUyQjAwMDA",
       "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
       "pubDate": "Sun, 21 Jun 2026 17:36:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRmxlZ2FjeSUyRmV2ZW50JTJGd29vdDEwJTJGdGVjaCUyRmZ1bGxfcGFwZXJzJTJGV29sY2hvay5wZGYlN0NodHRwcyUzQSUyRiUyRnd3dy51c2VuaXgub3JnJTJGbGVnYWN5JTJGZXZlbnQlMkZ3b290MTAlMkZ0ZWNoJTJGZnVsbF9wYXBlcnMlMkZXb2xjaG9rLnBkZiU3Q0NyYXdsaW5nJTIwQml0VG9ycmVudCUyMERIVHMlMjBmb3IlMjBGdW4lMjBhbmQlMjBQcm9maXQlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxOTE1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE0JTNBMTIlM0E0OCUyMCUyQjAwMDA",
+      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "pubDate": "Sun, 21 Jun 2026 14:12:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]

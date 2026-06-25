@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-19",
     "newestItemDate": "2026-06-19",
-    "itemCount": 42,
-    "generatedAt": "2026-06-24T18:13:30.873Z"
+    "itemCount": 43,
+    "generatedAt": "2026-06-25T04:37:29.106Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRm9wZW4tc291cmNlJTJGbWFpbnRhaW5lcnMlMkZob3ctcHVsbC1yZXF1ZXN0LWxpbWl0cy1hcmUtY3V0dGluZy1kb3duLXRoZS1ub2lzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmJsb2clMkZvcGVuLXNvdXJjZSUyRm1haW50YWluZXJzJTJGaG93LXB1bGwtcmVxdWVzdC1saW1pdHMtYXJlLWN1dHRpbmctZG93bi10aGUtbm9pc2UlMkYlN0NQdWxsJTIwcmVxdWVzdCUyMGxpbWl0cyUyMGFyZSUyMGN1dHRpbmclMjBkb3duJTIwdGhlJTIwbm9pc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5NjgzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDEwJTNBMDMlM0ExMCUyMCUyQjAwMDA",
       "title": "Pull request limits are cutting down the noise",
       "pubDate": "Fri, 19 Jun 2026 10:03:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGd29sZm9vMjkzMSUyRmxpbmtlZHJlY29yZHMlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ3b2xmb28yOTMxJTJGbGlua2VkcmVjb3JkcyUyRiU3Q1Nob3clMjBITiUzQSUyMFdyaXRlJTIwU2FhUyUyMGFwcHMlMjB3aGVyZSUyMHVzZXJzJTIwY29udHJvbCUyMHdoZXJlJTIwdGhlaXIlMjBkYXRhJTIwaXMlMjBzdG9yZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODU5NTg4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE5JTIwSnVuJTIwMjAyNiUyMDA3JTNBMzclM0ExNCUyMCUyQjAwMDA",
+      "title": "Show HN: Write SaaS apps where users control where their data is stored",
+      "pubDate": "Fri, 19 Jun 2026 07:37:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-19-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-22",
     "newestItemDate": "2026-06-22",
-    "itemCount": 55,
-    "generatedAt": "2026-06-24T18:13:30.872Z"
+    "itemCount": 57,
+    "generatedAt": "2026-06-25T04:37:29.105Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdnBvdy5jb20lMkYyMDI2JTJGMDYlMkYwNCUyRmdlbnVpbmVseS1teS1hbGwtdGltZS1mYXZvdXJpdGUtaW1hZ2UtbWFtZW5jaGlzYXVydXMtaG9jaHVhbmVuc2lzJTJGJTdDaHR0cHMlM0ElMkYlMkZzdnBvdy5jb20lMkYyMDI2JTJGMDYlMkYwNCUyRmdlbnVpbmVseS1teS1hbGwtdGltZS1mYXZvdXJpdGUtaW1hZ2UtbWFtZW5jaGlzYXVydXMtaG9jaHVhbmVuc2lzJTJGJTdDR2VudWluZWx5JTJDJTIwbXklMjBhbGwtdGltZSUyMGZhdm91cml0ZSUyMGltYWdlJTNBJTIwTWFtZW5jaGlzYXVydXMlMjBob2NodWFuZW5zaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzMDI1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIyJTIwSnVuJTIwMjAyNiUyMDE0JTNBMDAlM0EzNSUyMCUyQjAwMDA",
       "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
       "pubDate": "Mon, 22 Jun 2026 14:00:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXV0b2RpZGFjdHMuaW8lMkZkb3N0b3lldnNreS1pc250LWRpZmZpY3VsdCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmF1dG9kaWRhY3RzLmlvJTJGZG9zdG95ZXZza3ktaXNudC1kaWZmaWN1bHQlMkYlN0NEb3N0b3lldnNreSUyMGlzbid0JTIwZGlmZmljdWx0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzEzNjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAxNSUzQTE1JTNBMzglMjAlMkIwMDAw",
+      "title": "Dostoyevsky isn't difficult",
+      "pubDate": "Mon, 22 Jun 2026 15:15:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb2J6b2wuZ2l0aHViLmlvJTJGcnVzdCUyRjIwMjYlMkYwNiUyRjIxJTJGb3B0aW1pemluZy1zcWx4LXRlc3QtcmVidWlsZC10aW1lLmh0bWwlN0NodHRwcyUzQSUyRiUyRmtvYnpvbC5naXRodWIuaW8lMkZydXN0JTJGMjAyNiUyRjA2JTJGMjElMkZvcHRpbWl6aW5nLXNxbHgtdGVzdC1yZWJ1aWxkLXRpbWUuaHRtbCU3Q09wdGltaXppbmclMjAlNUJzcWx4JTNBdGVzdCU1RCUyMHJlYnVpbGQlMjB0aW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2Mjc0NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMiUyMEp1biUyMDIwMjYlMjAwOCUzQTM5JTNBNDklMjAlMkIwMDAw",
+      "title": "Optimizing [sqlx:test] rebuild time",
+      "pubDate": "Mon, 22 Jun 2026 08:39:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-22-0.json"
     }
   ]

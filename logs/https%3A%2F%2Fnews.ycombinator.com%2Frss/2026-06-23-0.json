@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 44,
-    "generatedAt": "2026-06-24T18:13:30.872Z"
+    "itemCount": 47,
+    "generatedAt": "2026-06-25T04:37:29.105Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTm90QVNpdGhMb3JkJTJGcGVlcmQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZOb3RBU2l0aExvcmQlMkZwZWVyZCU3Q1Nob3clMjBITiUzQSUyMHBlZXJkJTIwJUUyJTgwJTkzJTIwQUklMjBhZ2VudCUyMGhhcm5lc3MlMjB0aGF0JTIwcnVucyUyMGVudGlyZWx5JTIwaW4lMjB5b3VyJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ2MTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMTUlM0EwNSUzQTAwJTIwJTJCMDAwMA",
       "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
       "pubDate": "Tue, 23 Jun 2026 15:05:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RrUFJBMFcxa0VDZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEa1BSQTBXMWtFQ2clN0MxNSUyMHNvcnRpbmclMjBhbGdvcml0aG1zJTIwaW4lMjA2JTIwbWludXRlcyUyMCgyMDEzKSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDA3MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAwNSUzQTI5JTNBNTQlMjAlMkIwMDAw",
+      "title": "15 sorting algorithms in 6 minutes (2013) [video]",
+      "pubDate": "Tue, 23 Jun 2026 05:29:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJjb25uZWN0cy5haSUyRnAlMkZnbG0tNTItaXMtdGhlLXN0ZXAtY2hhbmdlLWZvci1vcGVuJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJjb25uZWN0cy5haSUyRnAlMkZnbG0tNTItaXMtdGhlLXN0ZXAtY2hhbmdlLWZvci1vcGVuJTdDR0xNLTUuMiUyMGlzJTIwYSUyMHN0ZXAlMjBjaGFuZ2UlMjBmb3IlMjBvcGVuJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2Mzk4NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAwMyUzQTIzJTNBMjglMjAlMkIwMDAw",
+      "title": "GLM-5.2 is a step change for open agents",
+      "pubDate": "Tue, 23 Jun 2026 03:23:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWRpdW0uY28lMkYyMDI2JTJGMDYlMkYyMiUyRm1hdHRzLXNjcmlwdC1hcmNoaXZlLXJldHJvc3BlY3RpdmUlMkYlN0NodHRwcyUzQSUyRiUyRnRlZGl1bS5jbyUyRjIwMjYlMkYwNiUyRjIyJTJGbWF0dHMtc2NyaXB0LWFyY2hpdmUtcmV0cm9zcGVjdGl2ZSUyRiU3Q01hdHQncyUyMFNjcmlwdCUyMEFyY2hpdmUlM0ElMjBUaGUlMjBTY3JpcHRzJTIwVGhhdCUyMFJlc2hhcGVkJTIwdGhlJTIwV2ViJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzkwMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAwMSUzQTMwJTNBNTklMjAlMkIwMDAw",
+      "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
+      "pubDate": "Tue, 23 Jun 2026 01:30:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]

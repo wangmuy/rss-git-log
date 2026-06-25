@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-24",
     "newestItemDate": "2026-06-24",
-    "itemCount": 30,
-    "generatedAt": "2026-06-24T18:13:30.872Z"
+    "itemCount": 35,
+    "generatedAt": "2026-06-25T04:37:29.105Z"
   },
   "items": [
     {
@@ -186,6 +186,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZidW5ueS5uZXQlMkZibG9nJTJGd2VyZS1tYWtpbmctYnVubnktZG5zLWZyZWUlMkYlN0NodHRwcyUzQSUyRiUyRmJ1bm55Lm5ldCUyRmJsb2clMkZ3ZXJlLW1ha2luZy1idW5ueS1kbnMtZnJlZSUyRiU3Q1dlJUUyJTgwJTk5cmUlMjBtYWtpbmclMjBCdW5ueSUyMEROUyUyMGZyZWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1NzAzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDA4JTNBNTAlM0E0MSUyMCUyQjAwMDA",
       "title": "We’re making Bunny DNS free",
       "pubDate": "Wed, 24 Jun 2026 08:50:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZibG9nZ2luZy1zdGF0aW5nLXRoZS1vYnZpb3VzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZibG9nZ2luZy1zdGF0aW5nLXRoZS1vYnZpb3VzJTJGJTdDQmxvZ2dpbmclMjBjYW4lMjBqdXN0JTIwYmUlMjBzdGF0aW5nJTIwdGhlJTIwb2J2aW91cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjY2OTI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjQlMjBKdW4lMjAyMDI2JTIwMjMlM0E0NiUzQTM3JTIwJTJCMDAwMA",
+      "title": "Blogging can just be stating the obvious",
+      "pubDate": "Wed, 24 Jun 2026 23:46:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWxhc3RpYy5jbyUyRmJsb2clMkZjZW8tYXNoLWt1bGthcm5pLWFubm91bmNlbWVudC10by1lbGFzdGljLWVtcGxveWVlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVsYXN0aWMuY28lMkZibG9nJTJGY2VvLWFzaC1rdWxrYXJuaS1hbm5vdW5jZW1lbnQtdG8tZWxhc3RpYy1lbXBsb3llZXMlN0NFbGFzdGljJTIwbGF5cyUyMG9mZiUyMDclMjUlMjBvZiUyMGVtcGxveWVlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjY2MTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjQlMjBKdW4lMjAyMDI2JTIwMjElM0E1NyUzQTMwJTIwJTJCMDAwMA",
+      "title": "Elastic lays off 7% of employees",
+      "pubDate": "Wed, 24 Jun 2026 21:57:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGYW50aHJvcGljLXNheXMtYWxpYmFiYS1pbGxpY2l0bHktZXh0cmFjdGVkLWNsYXVkZS1haS1tb2RlbC1jYXBhYmlsaXRpZXMtMjAyNi0wNi0yNCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGd29ybGQlMkZjaGluYSUyRmFudGhyb3BpYy1zYXlzLWFsaWJhYmEtaWxsaWNpdGx5LWV4dHJhY3RlZC1jbGF1ZGUtYWktbW9kZWwtY2FwYWJpbGl0aWVzLTIwMjYtMDYtMjQlMkYlN0NBbnRocm9waWMlMjBzYXlzJTIwQWxpYmFiYSUyMGlsbGljaXRseSUyMGV4dHJhY3RlZCUyMENsYXVkZSUyMEFJJTIwbW9kZWwlMjBjYXBhYmlsaXRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY2NDgxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDE5JTNBNDglM0EwMSUyMCUyQjAwMDA",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "pubDate": "Wed, 24 Jun 2026 19:48:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ncy5udmlkaWEuY29tJTJGYmxvZyUyRmxpcXVpZC1jb29saW5nLWFpLWZhY3RvcmllcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZ3MubnZpZGlhLmNvbSUyRmJsb2clMkZsaXF1aWQtY29vbGluZy1haS1mYWN0b3JpZXMlMkYlN0M0NSVDMiVCMEMlMjBjb29saW5nJTIwZGVzaWduJTIwY3V0cyUyMGRhdGElMjBjZW50ZXIlMjB3YXRlciUyMHVzZSUyMHRvJTIwbmVhciUyMHplcm8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY2MDE3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDE0JTNBMTAlM0ExMSUyMCUyQjAwMDA",
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "pubDate": "Wed, 24 Jun 2026 14:10:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRnF1YWxjb21tLWJ1eS1haS1zdGFydHVwLW1vZHVsYXItMjAyNi0wNi0yNCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGYnVzaW5lc3MlMkZxdWFsY29tbS1idXktYWktc3RhcnR1cC1tb2R1bGFyLTIwMjYtMDYtMjQlMkYlN0NRdWFsY29tbSUyMHRvJTIwQWNxdWlyZSUyME1vZHVsYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1OTc5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDEzJTNBNDklM0ExNiUyMCUyQjAwMDA",
+      "title": "Qualcomm to Acquire Modular",
+      "pubDate": "Wed, 24 Jun 2026 13:49:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
     }
   ]
