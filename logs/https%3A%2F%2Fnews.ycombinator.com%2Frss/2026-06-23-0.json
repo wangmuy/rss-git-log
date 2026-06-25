@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 47,
-    "generatedAt": "2026-06-25T04:37:29.105Z"
+    "itemCount": 51,
+    "generatedAt": "2026-06-25T11:09:40.597Z"
   },
   "items": [
     {
@@ -288,6 +288,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWRpdW0uY28lMkYyMDI2JTJGMDYlMkYyMiUyRm1hdHRzLXNjcmlwdC1hcmNoaXZlLXJldHJvc3BlY3RpdmUlMkYlN0NodHRwcyUzQSUyRiUyRnRlZGl1bS5jbyUyRjIwMjYlMkYwNiUyRjIyJTJGbWF0dHMtc2NyaXB0LWFyY2hpdmUtcmV0cm9zcGVjdGl2ZSUyRiU3Q01hdHQncyUyMFNjcmlwdCUyMEFyY2hpdmUlM0ElMjBUaGUlMjBTY3JpcHRzJTIwVGhhdCUyMFJlc2hhcGVkJTIwdGhlJTIwV2ViJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MzkwMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAwMSUzQTMwJTNBNTklMjAlMkIwMDAw",
       "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
       "pubDate": "Tue, 23 Jun 2026 01:30:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGltYS1xdWFudCUyRm5pbWljJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGltYS1xdWFudCUyRm5pbWljJTdDU2hvdyUyMEhOJTNBJTIwTmltaWMlMjAlRTIlODAlOTMlMjBQdXJlJTIwUHl0aG9uJTIwYXMlMjBhJTIwc3lzdGVtcyUyMGxhbmd1YWdlJTIwd2l0aCUyMEFPVCUyMGNvbXBpbGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDYyMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxNSUzQTA5JTNBMTUlMjAlMkIwMDAw",
+      "title": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+      "pubDate": "Tue, 23 Jun 2026 15:09:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJrZHkuY29tJTdDaHR0cHMlM0ElMkYlMkZtYXJrZHkuY29tJTJGJTdDTWFya2R5JTNBJTIwTGlrZSUyME1lcm1haWQlMjBEaWFncmFtcyUyQyUyMGJ1dCUyMGZvciUyME1vdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ2MDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMTUlM0EwMCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "pubDate": "Tue, 23 Jun 2026 15:00:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZW9uLmNvJTJGZXNzYXlzJTJGbGl0ZXJhdHVyZS1mYW5zLXNob3VsZC13ZWxjb21lLWFpLWFzLWEtZmVsbG93LXdvcmRzbWl0aCU3Q2h0dHBzJTNBJTJGJTJGYWVvbi5jbyUyRmVzc2F5cyUyRmxpdGVyYXR1cmUtZmFucy1zaG91bGQtd2VsY29tZS1haS1hcy1hLWZlbGxvdy13b3Jkc21pdGglN0NXb3JkcyUyQyUyMFdvcmRzJTJDJTIwV29yZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0MDkxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDA1JTNBNTglM0EzOSUyMCUyQjAwMDA",
+      "title": "Words, Words, Words",
+      "pubDate": "Tue, 23 Jun 2026 05:58:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzdGRiLmNvbSUyRmJsb2clMkZsaWVzLWRhbW4tbGllcy1hbmQtZGF0YWJhc2UtYmVuY2htYXJrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVlc3RkYi5jb20lMkZibG9nJTJGbGllcy1kYW1uLWxpZXMtYW5kLWRhdGFiYXNlLWJlbmNobWFya3MlMkYlN0NMaWVzJTJDJTIwRGFtbiUyMExpZXMlMjBhbmQlMjBEYXRhYmFzZSUyMEJlbmNobWFya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzOTQyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDAyJTNBMjclM0EyMCUyMCUyQjAwMDA",
+      "title": "Lies, Damn Lies and Database Benchmarks",
+      "pubDate": "Tue, 23 Jun 2026 02:27:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]

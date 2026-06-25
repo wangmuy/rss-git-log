@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-25",
     "newestItemDate": "2026-06-25",
-    "itemCount": 12,
-    "generatedAt": "2026-06-25T04:37:29.105Z"
+    "itemCount": 16,
+    "generatedAt": "2026-06-25T11:09:40.597Z"
   },
   "items": [
     {
@@ -78,6 +78,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTHVhSklUJTJGTHVhSklUJTJGaXNzdWVzJTJGMTQ3NSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkx1YUpJVCUyRkx1YUpJVCUyRmlzc3VlcyUyRjE0NzUlN0NMdWFKSVQlMjAzLjAlMjBwcm9wb3NlZCUyMHN5bnRheCUyMGV4dGVuc2lvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY2NzMzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDAwJTNBNDElM0E0MyUyMCUyQjAwMDA",
       "title": "LuaJIT 3.0 proposed syntax extensions",
       "pubDate": "Thu, 25 Jun 2026 00:41:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2xwaGluLWVtdS5vcmclMkZibG9nJTJGMjAyNiUyRjA2JTJGMjUlMkZkb2xwaGluLXByb2dyZXNzLXJlcG9ydC1yZWxlYXNlLTI2MDYlMkYlN0NodHRwcyUzQSUyRiUyRmRvbHBoaW4tZW11Lm9yZyUyRmJsb2clMkYyMDI2JTJGMDYlMkYyNSUyRmRvbHBoaW4tcHJvZ3Jlc3MtcmVwb3J0LXJlbGVhc2UtMjYwNiUyRiU3Q0RvbHBoaW4lMjBFbXVsYXRvciUyMFByb2dyZXNzJTIwUmVsZWFzZSUyMDI2MDYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MTM5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDEwJTNBMjAlM0EwNyUyMCUyQjAwMDA",
+      "title": "Dolphin Emulator Progress Release 2606",
+      "pubDate": "Thu, 25 Jun 2026 10:20:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaXNsZS5jb20lMkZibG9nJTJGYWlzbGUtZGlzY292ZXJzLTYtbmV3LWN2ZXMtaW4tY3VybC1pbmNsdWRpbmctdGhlLW9sZGVzdC1pc3N1ZS1ldmVyLXJlcG9ydGVkJTdDaHR0cHMlM0ElMkYlMkZhaXNsZS5jb20lMkZibG9nJTJGYWlzbGUtZGlzY292ZXJzLTYtbmV3LWN2ZXMtaW4tY3VybC1pbmNsdWRpbmctdGhlLW9sZGVzdC1pc3N1ZS1ldmVyLXJlcG9ydGVkJTdDQWlzbGUlMjBEaXNjb3ZlcnMlMjA2JTIwTmV3JTIwQ1ZFcyUyMGluJTIwQ3VybCUyQyUyMEluY2x1ZGluZyUyMHRoZSUyME9sZGVzdCUyMElzc3VlJTIwRXZlciUyMFJlcG9ydGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NzA0MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNSUyMEp1biUyMDIwMjYlMjAwOCUzQTA3JTNBNTQlMjAlMkIwMDAw",
+      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "pubDate": "Thu, 25 Jun 2026 08:07:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1dGF3LnRlY2glMkZuZXdzJTJGd2lraXBlZGlhLXJlY29nbml0aW9uJTdDaHR0cHMlM0ElMkYlMkZ1dGF3LnRlY2glMkZuZXdzJTJGd2lraXBlZGlhLXJlY29nbml0aW9uJTdDV2lraXBlZGlhJTIwV29ya2VycyUyMGluJTIwQnJpdGFpbiUyMHNldCUyMGdsb2JhbCUyMGZpcnN0JTIwYnklMjBzZWVraW5nJTIwdW5pb24lMjByZWNvZ25pdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjY5OTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMDclM0EwMiUzQTM3JTIwJTJCMDAwMA",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "pubDate": "Thu, 25 Jun 2026 07:02:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZobDIuc2xxbnQuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZobDIuc2xxbnQuZGV2JTJGJTdDSGFsZi1MaWZlJTIwMiUyMGluJTIwYSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY2OTUzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDA2JTNBMDAlM0EwNCUyMCUyQjAwMDA",
+      "title": "Half-Life 2 in a Browser",
+      "pubDate": "Thu, 25 Jun 2026 06:00:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
     }
   ]
