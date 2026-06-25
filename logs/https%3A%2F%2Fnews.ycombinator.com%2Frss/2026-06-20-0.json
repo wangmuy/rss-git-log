@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-20",
     "newestItemDate": "2026-06-20",
-    "itemCount": 56,
-    "generatedAt": "2026-06-24T18:13:30.873Z"
+    "itemCount": 57,
+    "generatedAt": "2026-06-25T18:28:29.716Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLml4aW1pdXouY29tJTJGdHV0b3JpYWxzJTJGc3NoLXR1bm5lbHMlN0NodHRwcyUzQSUyRiUyRmxhYnMuaXhpbWl1ei5jb20lMkZ0dXRvcmlhbHMlMkZzc2gtdHVubmVscyU3Q0ElMjBQcmFjdGljYWwlMjBHdWlkZSUyMHRvJTIwU1NIJTIwVHVubmVscyUzQSUyMExvY2FsJTIwYW5kJTIwUmVtb3RlJTIwUG9ydCUyMEZvcndhcmRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYwNjIyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIwJTIwSnVuJTIwMjAyNiUyMDAzJTNBNTUlM0ExOSUyMCUyQjAwMDA",
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "pubDate": "Sat, 20 Jun 2026 03:55:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW5pcGNzLnppcCU3Q2h0dHBzJTNBJTJGJTJGbWluaXBjcy56aXAlMkYlN0NTaG93JTIwSE4lM0ElMjBNaW5pUENzLnppcCUyMCVFMiU4MCU5MyUyMENoYXJ0aW5nJTIwdGhlJTIwUGFyZXRvJTIwZnJvbnRpZXIlMjBvZiUyME1pbmklMjBQQ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxMjQzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIwJTIwSnVuJTIwMjAyNiUyMDE5JTNBNTUlM0E1NCUyMCUyQjAwMDA",
+      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "pubDate": "Sat, 20 Jun 2026 19:55:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-20-0.json"
     }
   ]

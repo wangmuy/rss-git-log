@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-21",
     "newestItemDate": "2026-06-21",
-    "itemCount": 48,
-    "generatedAt": "2026-06-25T04:37:29.106Z"
+    "itemCount": 51,
+    "generatedAt": "2026-06-25T18:28:29.716Z"
   },
   "items": [
     {
@@ -294,6 +294,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRmxlZ2FjeSUyRmV2ZW50JTJGd29vdDEwJTJGdGVjaCUyRmZ1bGxfcGFwZXJzJTJGV29sY2hvay5wZGYlN0NodHRwcyUzQSUyRiUyRnd3dy51c2VuaXgub3JnJTJGbGVnYWN5JTJGZXZlbnQlMkZ3b290MTAlMkZ0ZWNoJTJGZnVsbF9wYXBlcnMlMkZXb2xjaG9rLnBkZiU3Q0NyYXdsaW5nJTIwQml0VG9ycmVudCUyMERIVHMlMjBmb3IlMjBGdW4lMjBhbmQlMjBQcm9maXQlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYxOTE1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE0JTNBMTIlM0E0OCUyMCUyQjAwMDA",
       "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
       "pubDate": "Sun, 21 Jun 2026 14:12:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlY29ub21pc3QuY29tJTJGaW50ZXJhY3RpdmUlMkYxODQzJTJGMjAyNiUyRjA2JTJGMTklMkZ0aGUtc3RyYW5nZS1kaXNhcHBlYXJhbmNlLW9mLWphcGFucy1hbmltYXRvcnMlN0NodHRwcyUzQSUyRiUyRmVjb25vbWlzdC5jb20lMkZpbnRlcmFjdGl2ZSUyRjE4NDMlMkYyMDI2JTJGMDYlMkYxOSUyRnRoZS1zdHJhbmdlLWRpc2FwcGVhcmFuY2Utb2YtamFwYW5zLWFuaW1hdG9ycyU3Q1RoZSUyMGRpc2FwcGVhcmFuY2UlMjBvZiUyMEphcGFuJ3MlMjBhbmltYXRvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYyMDQyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIxJTIwSnVuJTIwMjAyNiUyMDE2JTNBNTElM0E0NyUyMCUyQjAwMDA",
+      "title": "The disappearance of Japan's animators",
+      "pubDate": "Sun, 21 Jun 2026 16:51:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmluY2VjaGF6ei5jb20lN0NodHRwcyUzQSUyRiUyRnByaW5jZWNoYXp6LmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMENoZXNzLUluc3BpcmVkJTIwUm9ndWVsaWtlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTYzMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAwNiUzQTUwJTNBMzElMjAlMkIwMDAw",
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "pubDate": "Sun, 21 Jun 2026 06:50:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpY2FseHByZXNzLmNvbSUyRm5ld3MlMkYyMDI2LTA2LWVhcmx5LWxpZmUtYWR2ZXJzaXR5LW1vbGVjdWxhci1pbXByaW50Lmh0bWwlN0NodHRwcyUzQSUyRiUyRm1lZGljYWx4cHJlc3MuY29tJTJGbmV3cyUyRjIwMjYtMDYtZWFybHktbGlmZS1hZHZlcnNpdHktbW9sZWN1bGFyLWltcHJpbnQuaHRtbCU3Q0Vhcmx5JTIwYWR2ZXJzaXR5JTIwbGVhdmVzJTIwbGFzdGluZyUyMG1vbGVjdWxhciUyMGltcHJpbnQlMjBhY3Jvc3MlMjB0aGUlMjBib2R5JTNBJTIwcHJpbWF0ZSUyMHN0dWR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2MTUyNzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMSUyMEp1biUyMDIwMjYlMjAwMyUzQTAwJTNBNTMlMjAlMkIwMDAw",
+      "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
+      "pubDate": "Sun, 21 Jun 2026 03:00:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-21-0.json"
     }
   ]

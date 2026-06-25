@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-25",
     "newestItemDate": "2026-06-25",
-    "itemCount": 16,
-    "generatedAt": "2026-06-25T11:09:40.597Z"
+    "itemCount": 31,
+    "generatedAt": "2026-06-25T18:28:29.716Z"
   },
   "items": [
     {
@@ -102,6 +102,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZobDIuc2xxbnQuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZobDIuc2xxbnQuZGV2JTJGJTdDSGFsZi1MaWZlJTIwMiUyMGluJTIwYSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY2OTUzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDA2JTNBMDAlM0EwNCUyMCUyQjAwMDA",
       "title": "Half-Life 2 in a Browser",
       "pubDate": "Thu, 25 Jun 2026 06:00:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGYmVzaW1wbGUtYWklMkZqb2JzJTJGeVdmaGhPUi1zdHJhdGVnaWMtcHJvamVjdHMtbGVhZC1hdWRpby1kYXRhJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGYmVzaW1wbGUtYWklMkZqb2JzJTJGeVdmaGhPUi1zdHJhdGVnaWMtcHJvamVjdHMtbGVhZC1hdWRpby1kYXRhJTdDQmVzaW1wbGUlMjBBSSUyMChZQyUyMFAyNSklMjBJcyUyMEhpcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njc2MjU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMTclM0EwMCUzQTAwJTIwJTJCMDAwMA",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "pubDate": "Thu, 25 Jun 2026 17:00:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZW5vLmNvbSUyRmJsb2clMkZ2Mi45JTdDaHR0cHMlM0ElMkYlMkZkZW5vLmNvbSUyRmJsb2clMkZ2Mi45JTdDRGVubyUyMDIuOSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njc1NzE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMTYlM0EyMiUzQTU1JTIwJTJCMDAwMA",
+      "title": "Deno 2.9",
+      "pubDate": "Thu, 25 Jun 2026 16:22:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVvd2luLm5ldCUyRm5ld3MlMkZ3aW5kb3dzLTEwLXF1aWV0bHktZ2V0cy1vbmUtbW9yZS15ZWFyLW9mLXN1cHBvcnQtYW5kLXVwZGF0ZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uZW93aW4ubmV0JTJGbmV3cyUyRndpbmRvd3MtMTAtcXVpZXRseS1nZXRzLW9uZS1tb3JlLXllYXItb2Ytc3VwcG9ydC1hbmQtdXBkYXRlcyUyRiU3Q1dpbmRvd3MlMjAxMCUyMHF1aWV0bHklMjBnZXRzJTIwb25lJTIwbW9yZSUyMHllYXIlMjBvZiUyMHN1cHBvcnQlMjBhbmQlMjB1cGRhdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NzUzNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNSUyMEp1biUyMDIwMjYlMjAxNSUzQTU5JTNBNTQlMjAlMkIwMDAw",
+      "title": "Windows 10 quietly gets one more year of support and updates",
+      "pubDate": "Thu, 25 Jun 2026 15:59:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY3JvbGxwcml6ZS5vcmclMkZmaXJzdHNjcm9sbCU3Q2h0dHBzJTNBJTJGJTJGc2Nyb2xscHJpemUub3JnJTJGZmlyc3RzY3JvbGwlN0NBJTIwSGVyY3VsYW5ldW0lMjBzY3JvbGwlMjBoYXMlMjBiZWVuJTIwcmVhZCUyMGZvciUyMHRoZSUyMGZpcnN0JTIwdGltZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njc1MTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMTUlM0E0OCUzQTA3JTIwJTJCMDAwMA",
+      "title": "A Herculaneum scroll has been read for the first time",
+      "pubDate": "Thu, 25 Jun 2026 15:48:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzcm9vbS5pYm0uY29tJTJGMjAyNi0wNi0yNS1pYm0tZGVidXRzLXdvcmxkcy1maXJzdC1zdWItMS1uYW5vbWV0ZXItY2hpcC10ZWNobm9sb2d5JTdDaHR0cHMlM0ElMkYlMkZuZXdzcm9vbS5pYm0uY29tJTJGMjAyNi0wNi0yNS1pYm0tZGVidXRzLXdvcmxkcy1maXJzdC1zdWItMS1uYW5vbWV0ZXItY2hpcC10ZWNobm9sb2d5JTdDSUJNJTIwZGVidXRzJTIwc3ViLTElMjBuYW5vbWV0ZXIlMjBjaGlwJTIwdGVjaG5vbG9neSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njc0OTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMTUlM0EzMyUzQTM3JTIwJTJCMDAwMA",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "pubDate": "Thu, 25 Jun 2026 15:33:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGaG93LXBoeXNpY2lzdHMtdHJhY2stYW5kLXRyYXAtdGhlLWVsdXNpdmUtbmV1dHJpbm8tMjAyNjA2MjQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZob3ctcGh5c2ljaXN0cy10cmFjay1hbmQtdHJhcC10aGUtZWx1c2l2ZS1uZXV0cmluby0yMDI2MDYyNCUyRiU3Q1BoeXNpY2lzdHMlMjBUcmFjayUyMGFuZCUyMFRyYXAlMjB0aGUlMjBFbHVzaXZlJTIwTmV1dHJpbm8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3NDYxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE1JTNBMTElM0E0OCUyMCUyQjAwMDA",
+      "title": "Physicists Track and Trap the Elusive Neutrino",
+      "pubDate": "Thu, 25 Jun 2026 15:11:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5bGxhbi5vcmclMkZzb2Z0d2FyZSUyRk9TOU1hcCUyRiU3Q2h0dHBzJTNBJTJGJTJGeWxsYW4ub3JnJTJGc29mdHdhcmUlMkZPUzlNYXAlMkYlN0NPUzlNYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3NDQ4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE1JTNBMDElM0EwNiUyMCUyQjAwMDA",
+      "title": "OS9Map",
+      "pubDate": "Thu, 25 Jun 2026 15:01:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6aWdsYW5nLm9yZyUyRmRldmxvZyUyRjIwMjYlMkYlMjMyMDI2LTA2LTI1JTdDaHR0cHMlM0ElMkYlMkZ6aWdsYW5nLm9yZyUyRmRldmxvZyUyRjIwMjYlMkYlMjMyMDI2LTA2LTI1JTdDWmlnJ3MlMjBuZXclMjBiaXRDYXN0JTIwc2VtYW50aWNzJTIwYW5kJTIwTExWTSUyMGJhY2slMjBlbmQlMjBpbXByb3ZlbWVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MzgyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE0JTNBMTklM0EyOCUyMCUyQjAwMDA",
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "pubDate": "Thu, 25 Jun 2026 14:19:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrZXJuZXdzdHJlbmRzLmNvbSU3Q2h0dHBzJTNBJTJGJTJGaGFja2VybmV3c3RyZW5kcy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBJJTIwbWFkZSUyMEdvb2dsZSUyMFRyZW5kcyUyMGZvciUyMEhhY2tlciUyME5ld3MlMjBieSUyMGluZGV4aW5nJTIwMTglMjB5ZWFycyUyMG9mJTIwY29tbWVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MzY3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE0JTNBMDglM0E1NSUyMCUyQjAwMDA",
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "pubDate": "Thu, 25 Jun 2026 14:08:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFra3IuYWklMkZiaWFzJTdDaHR0cHMlM0ElMkYlMkZ0cmFra3IuYWklMkZiaWFzJTdDUG9saXRpY2FsJTIwYmlhcyUyMGluJTIwQUklM0ElMjBXaGVyZSUyMHRoZSUyMEFJJTIwbW9kZWxzJTIwc3RhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3Mjc3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDEzJTNBMDglM0EzMSUyMCUyQjAwMDA",
+      "title": "Political bias in AI: Where the AI models stand",
+      "pubDate": "Thu, 25 Jun 2026 13:08:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmFzaWEtcGFjaWZpYyUyRmFwcGxlLXJhaXNlcy1wcmljZXMtbWFjYm9va3MtaXBhZHMtbWVtb3J5LWNvc3RzLXNreXJvY2tldC0yMDI2LTA2LTI1JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmFzaWEtcGFjaWZpYyUyRmFwcGxlLXJhaXNlcy1wcmljZXMtbWFjYm9va3MtaXBhZHMtbWVtb3J5LWNvc3RzLXNreXJvY2tldC0yMDI2LTA2LTI1JTJGJTdDQXBwbGUlMjByYWlzZXMlMjBwcmljZXMlMjBvZiUyME1hY0Jvb2tzJTJDJTIwaVBhZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MjczMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDEzJTNBMDIlM0E1NiUyMCUyQjAwMDA",
+      "title": "Apple raises prices of MacBooks, iPads",
+      "pubDate": "Thu, 25 Jun 2026 13:02:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncm91cC5zb2Z0YmFuayUyRm1lZGlhJTJGUHJvamVjdCUyRnNiZyUyRnNiZyUyRnBkZiUyRmlyJTJGaW52ZXN0b3JzJTJGc2hhcmVob2xkZXJzJTJGMjAyNiUyRnNoYXJlaG9sZGVycy1tZWV0aW5nXzQ2XzA1X2VuLnBkZiU3Q2h0dHBzJTNBJTJGJTJGZ3JvdXAuc29mdGJhbmslMkZtZWRpYSUyRlByb2plY3QlMkZzYmclMkZzYmclMkZwZGYlMkZpciUyRmludmVzdG9ycyUyRnNoYXJlaG9sZGVycyUyRjIwMjYlMkZzaGFyZWhvbGRlcnMtbWVldGluZ180Nl8wNV9lbi5wZGYlN0NTb2Z0QmFuayUyMDIwMjYlMjBBR00lMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MjUwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDEyJTNBNDIlM0E1NSUyMCUyQjAwMDA",
+      "title": "SoftBank 2026 AGM [pdf]",
+      "pubDate": "Thu, 25 Jun 2026 12:42:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5nb2NodW5rLmNvbSUyRnRyeSU3Q2h0dHBzJTNBJTJGJTJGbGluZ29jaHVuay5jb20lMkZ0cnklN0NTaG93JTIwSE4lM0ElMjBUdXJuJTIwbmF0aXZlJTIwbGFuZ3VhZ2UlMjBhdWRpbyUyMGludG8lMjBmbGFzaGNhcmRzJTIwYW5kJTIwc2hhZG93aW5nJTIwcHJhY3RpY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MTg4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDExJTNBMjklM0ExMyUyMCUyQjAwMDA",
+      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "pubDate": "Thu, 25 Jun 2026 11:29:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY5dG81bWFjLmNvbSUyRjIwMjYlMkYwNiUyRjIzJTJGbGFzdHBhc3Mtbm90aWZpZXMtdXNlcnMtb2YteWV0LWFub3RoZXItZGF0YS1icmVhY2glMkYlN0NodHRwcyUzQSUyRiUyRjl0bzVtYWMuY29tJTJGMjAyNiUyRjA2JTJGMjMlMkZsYXN0cGFzcy1ub3RpZmllcy11c2Vycy1vZi15ZXQtYW5vdGhlci1kYXRhLWJyZWFjaCUyRiU3Q0xhc3RQYXNzJTIwbm90aWZpZXMlMjB1c2VycyUyMG9mJTIweWV0JTIwYW5vdGhlciUyMGRhdGElMjBicmVhY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MTQ2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDEwJTNBMjglM0ExNiUyMCUyQjAwMDA",
+      "title": "LastPass notifies users of yet another data breach",
+      "pubDate": "Thu, 25 Jun 2026 10:28:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Jvc3NjYW5vbi5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcm9zc2Nhbm9uLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEJpYmxlJTIwYXMlMjBSQUclMjBEYXRhYmFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjY3ODA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMDElM0E0MiUzQTU1JTIwJTJCMDAwMA",
+      "title": "Show HN: Bible as RAG Database",
+      "pubDate": "Thu, 25 Jun 2026 01:42:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
     }
   ]

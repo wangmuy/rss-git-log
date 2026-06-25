@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 51,
-    "generatedAt": "2026-06-25T11:09:40.597Z"
+    "itemCount": 53,
+    "generatedAt": "2026-06-25T18:28:29.716Z"
   },
   "items": [
     {
@@ -312,6 +312,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzdGRiLmNvbSUyRmJsb2clMkZsaWVzLWRhbW4tbGllcy1hbmQtZGF0YWJhc2UtYmVuY2htYXJrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVlc3RkYi5jb20lMkZibG9nJTJGbGllcy1kYW1uLWxpZXMtYW5kLWRhdGFiYXNlLWJlbmNobWFya3MlMkYlN0NMaWVzJTJDJTIwRGFtbiUyMExpZXMlMjBhbmQlMjBEYXRhYmFzZSUyMEJlbmNobWFya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzOTQyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDAyJTNBMjclM0EyMCUyMCUyQjAwMDA",
       "title": "Lies, Damn Lies and Database Benchmarks",
       "pubDate": "Tue, 23 Jun 2026 02:27:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVjcmF6eW8lMkZhbmVzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVjcmF6eW8lMkZhbmVzJTdDQWR2YW5jZWQlMjBOaW50ZW5kbyUyMEVudGVydGFpbm1lbnQlMjBTeXN0ZW0lMjAoQU5FUyklMjAlRTIlODAlOTMlMjBORVMlMjBNb2RkZWQlMjB0byUyMFVzZSUyMDIlMjBQUFVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NTI5OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAyMyUzQTIxJTNBMzUlMjAlMkIwMDAw",
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "pubDate": "Tue, 23 Jun 2026 23:21:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjRiNzA3YTAzJTJGaG93LWktYnVpbHQtYS1ncHUtYmFja2VuZC1mb3ItZW1hY3MlMkYlN0NodHRwcyUzQSUyRiUyRmVuLmFuZHJvcy5kZXYlMkZibG9nJTJGNGI3MDdhMDMlMkZob3ctaS1idWlsdC1hLWdwdS1iYWNrZW5kLWZvci1lbWFjcyUyRiU3Q0klMjBidWlsdCUyMGElMjBHUFUlMjBiYWNrJTIwZW5kJTIwZm9yJTIwRW1hY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0MjUwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDA5JTNBMzglM0E0NSUyMCUyQjAwMDA",
+      "title": "I built a GPU back end for Emacs",
+      "pubDate": "Tue, 23 Jun 2026 09:38:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]
