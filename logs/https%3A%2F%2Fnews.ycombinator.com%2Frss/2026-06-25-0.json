@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-25",
     "newestItemDate": "2026-06-25",
-    "itemCount": 41,
-    "generatedAt": "2026-06-26T04:43:51.830Z"
+    "itemCount": 42,
+    "generatedAt": "2026-06-26T11:17:37.052Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzY3JvbGxwcml6ZS5vcmclMkZmaXJzdHNjcm9sbCU3Q2h0dHBzJTNBJTJGJTJGc2Nyb2xscHJpemUub3JnJTJGZmlyc3RzY3JvbGwlN0NBbiUyMGVudGlyZSUyMEhlcmN1bGFuZXVtJTIwc2Nyb2xsJTIwaGFzJTIwYmVlbiUyMHJlYWQlMjBmb3IlMjB0aGUlMjBmaXJzdCUyMHRpbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3NTE3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE1JTNBNDglM0EwNyUyMCUyQjAwMDA",
       "title": "An entire Herculaneum scroll has been read for the first time",
       "pubDate": "Thu, 25 Jun 2026 15:48:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm1mdHMwJTJGc3RhdHVzJTJGMjA3MDA4MDQyMjQ4Mjk3NzA5NSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZtZnRzMCUyRnN0YXR1cyUyRjIwNzAwODA0MjI0ODI5NzcwOTUlN0NIZXklMjBOaWNvJTJDJTIweW91JTIwZGlkbid0JTIwdmliZSUyMGNvZGUlMjB5b3VyJTIwZGF0YSUyMHJvb20lMjBidXQlMjBzdG9sZSUyMGl0JTIwZnJvbSUyMFBhcGVybWFyayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjcyMzI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMTIlM0EyMyUzQTA1JTIwJTJCMDAwMA",
+      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+      "pubDate": "Thu, 25 Jun 2026 12:23:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
     }
   ]
