@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-24",
     "newestItemDate": "2026-06-24",
-    "itemCount": 38,
-    "generatedAt": "2026-06-25T18:28:29.716Z"
+    "itemCount": 39,
+    "generatedAt": "2026-06-26T18:05:12.584Z"
   },
   "items": [
     {
@@ -234,6 +234,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXYua2FybHRyeWdndmFzb24uY29tJTJGeW91LWNhbnQtdW5pdC10ZXN0LWZvci10YXN0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2Lmthcmx0cnlnZ3Zhc29uLmNvbSUyRnlvdS1jYW50LXVuaXQtdGVzdC1mb3ItdGFzdGUlMkYlN0NZb3UlMjBjYW4ndCUyMHVuaXQlMjB0ZXN0JTIwZm9yJTIwdGFzdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1NzA0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDA4JTNBNTQlM0ExMiUyMCUyQjAwMDA",
       "title": "You can't unit test for taste",
       "pubDate": "Wed, 24 Jun 2026 08:54:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRERlY29lbmUlMkZXZWJCYXNlSUlJJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRERlY29lbmUlMkZXZWJCYXNlSUlJJTdDU2hvdyUyMEhOJTNBJTIwV2ViQmFzZS1JSUklMjAlRTIlODAlOTMlMjBkQkFTRSUyMElJSSUyMHJlYnVpbHQlMjBpbiUyMHRoZSUyMGJyb3dzZXIlMjB3aXRoJTIwaXRzJTIwb3duJTIwaW50ZXJwcmV0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1Njk4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDA4JTNBNDYlM0ExNiUyMCUyQjAwMDA",
+      "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "pubDate": "Wed, 24 Jun 2026 08:46:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
     }
   ]

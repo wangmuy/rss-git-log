@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 58,
-    "generatedAt": "2026-06-26T11:17:37.052Z"
+    "itemCount": 62,
+    "generatedAt": "2026-06-26T18:05:12.584Z"
   },
   "items": [
     {
@@ -354,6 +354,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1hdHRoZXdicnVuZWxsZS5jb20lMkZteS1zdGVhbS1tYWNoaW5lLWlzLWEtNTBmdC1oZG1pLWNhYmxlJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLm1hdHRoZXdicnVuZWxsZS5jb20lMkZteS1zdGVhbS1tYWNoaW5lLWlzLWEtNTBmdC1oZG1pLWNhYmxlJTJGJTdDTXklMjBTdGVhbSUyME1hY2hpbmUlMjBJcyUyMGElMjA1MGZ0JTIwSERNSSUyMENhYmxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDg1NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxNyUzQTQ1JTNBMjAlMjAlMkIwMDAw",
       "title": "My Steam Machine Is a 50ft HDMI Cable",
       "pubDate": "Tue, 23 Jun 2026 17:45:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbmF2ZXIlMkZsaXNwZSUyRndpa2klMkYyLjctRkVYUFItdnMuLXZ0YWJsZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm5hdmVyJTJGbGlzcGUlMkZ3aWtpJTJGMi43LUZFWFBSLXZzLi12dGFibGUlN0NGRVhQUnMlMjB2cy4lMjB2dGFibGUlM0ElMjBob3clMjBMaXNwRSUyMGludGVycHJldGVyJTIwd29ya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1MzMzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDIzJTNBNTclM0E0MSUyMCUyQjAwMDA",
+      "title": "FEXPRs vs. vtable: how LispE interpreter works",
+      "pubDate": "Tue, 23 Jun 2026 23:57:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3dpZnRsYXRleC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zd2lmdGxhdGV4LmNvbSUyRiU3Q0xhVGVYLndhc20lM0ElMjBMYVRlWCUyMEVuZ2luZXMlMjBpbiUyMEJyb3dzZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NTA1NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAyMCUzQTA0JTNBMzMlMjAlMkIwMDAw",
+      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+      "pubDate": "Tue, 23 Jun 2026 20:04:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzcGFjZSUyRjIwMjYlMkYwNiUyRmEtdXMtbWlsaXRhcnktZXhlcmNpc2UtaW4tc3BhY2UtZ290LXVuZGVyd2F5LXdpdGgtYmFyZWx5LWFueW9uZS1ub3RpY2luZyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGc3BhY2UlMkYyMDI2JTJGMDYlMkZhLXVzLW1pbGl0YXJ5LWV4ZXJjaXNlLWluLXNwYWNlLWdvdC11bmRlcndheS13aXRoLWJhcmVseS1hbnlvbmUtbm90aWNpbmclMkYlN0NBJTIwVVMlMjBtaWxpdGFyeSUyMGV4ZXJjaXNlJTIwdG8lMjBsYXVuY2glMjBhJTIwc2F0ZWxsaXRlJTIwb24lMjBzaG9ydCUyMG5vdGljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ4ODUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMTglM0EwNCUzQTU0JTIwJTJCMDAwMA",
+      "title": "A US military exercise to launch a satellite on short notice",
+      "pubDate": "Tue, 23 Jun 2026 18:04:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhd3MuYW1hem9uLmNvbSUyRmJsb2dzJTJGYXdzJTJGcnVuLWlzb2xhdGVkLXNhbmRib3hlcy13aXRoLWZ1bGwtbGlmZWN5Y2xlLWNvbnRyb2wtYXdzLWxhbWJkYS1pbnRyb2R1Y2VzLW1pY3Jvdm1zJTJGJTdDaHR0cHMlM0ElMkYlMkZhd3MuYW1hem9uLmNvbSUyRmJsb2dzJTJGYXdzJTJGcnVuLWlzb2xhdGVkLXNhbmRib3hlcy13aXRoLWZ1bGwtbGlmZWN5Y2xlLWNvbnRyb2wtYXdzLWxhbWJkYS1pbnRyb2R1Y2VzLW1pY3Jvdm1zJTJGJTdDTWljcm9WTXMlM0ElMjBSdW4lMjBpc29sYXRlZCUyMHNhbmRib3hlcyUyMHdpdGglMjBmdWxsJTIwbGlmZWN5Y2xlJTIwY29udHJvbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQyNTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMDklM0EzOSUzQTM1JTIwJTJCMDAwMA",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "pubDate": "Tue, 23 Jun 2026 09:39:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]
