@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 53,
-    "generatedAt": "2026-06-25T18:28:29.716Z"
+    "itemCount": 57,
+    "generatedAt": "2026-06-26T04:43:51.830Z"
   },
   "items": [
     {
@@ -324,6 +324,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjRiNzA3YTAzJTJGaG93LWktYnVpbHQtYS1ncHUtYmFja2VuZC1mb3ItZW1hY3MlMkYlN0NodHRwcyUzQSUyRiUyRmVuLmFuZHJvcy5kZXYlMkZibG9nJTJGNGI3MDdhMDMlMkZob3ctaS1idWlsdC1hLWdwdS1iYWNrZW5kLWZvci1lbWFjcyUyRiU3Q0klMjBidWlsdCUyMGElMjBHUFUlMjBiYWNrJTIwZW5kJTIwZm9yJTIwRW1hY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0MjUwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDA5JTNBMzglM0E0NSUyMCUyQjAwMDA",
       "title": "I built a GPU back end for Emacs",
       "pubDate": "Tue, 23 Jun 2026 09:38:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ0NDYzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjQ0NDYzJTdDT3ZlcmZpdHRlZCUyMGElMjA5MDBLQiUyMFRyYW5zZm9ybWVyJTIwdG8lMjBDb21wcmVzcyUyMGElMjAxMDBNQiUyMENTViUyMGludG8lMjA3TUIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0NDQ2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDEzJTNBMTElM0EyNyUyMCUyQjAwMDA",
+      "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+      "pubDate": "Tue, 23 Jun 2026 13:11:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmhhc2tlbGxmb3JhbGwuY29tJTJGMjAyNiUyRjA2JTJGcmVjb3JkLXR5cGUtaW5mZXJlbmNlLWZvci1kdW1taWVzJTdDaHR0cCUzQSUyRiUyRmhhc2tlbGxmb3JhbGwuY29tJTJGMjAyNiUyRjA2JTJGcmVjb3JkLXR5cGUtaW5mZXJlbmNlLWZvci1kdW1taWVzJTdDUmVjb3JkJTIwdHlwZSUyMGluZmVyZW5jZSUyMGZvciUyMGR1bW1pZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0NDM4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDEzJTNBMDQlM0EzOCUyMCUyQjAwMDA",
+      "title": "Record type inference for dummies",
+      "pubDate": "Tue, 23 Jun 2026 13:04:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGxicmF1bHQlMkZ5b3VyZS10aGUtb3MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwbGJyYXVsdCUyRnlvdXJlLXRoZS1vcyU3Q0ElMjBnYW1lJTIwd2hlcmUlMjB5b3UncmUlMjBhbiUyME9TJTIwYW5kJTIwaGF2ZSUyMHRvJTIwbWFuYWdlJTIwcHJvY2Vzc2VzJTJDJTIwbWVtb3J5JTIwYW5kJTIwSSUyRk8lMjBldmVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY0MjQ3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDA5JTNBMzUlM0EyNiUyMCUyQjAwMDA",
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "pubDate": "Tue, 23 Jun 2026 09:35:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnRyaWFuZ2xlZmlyZS5pbHIuY29ybmVsbC5lZHUlMkZpbmRleC5odG1sJTdDaHR0cCUzQSUyRiUyRnRyaWFuZ2xlZmlyZS5pbHIuY29ybmVsbC5lZHUlMkZpbmRleC5odG1sJTdDRXlld2l0bmVzcyUyMGF0JTIwdGhlJTIwVHJpYW5nbGUlMjAoMTkxMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODYzODcxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIzJTIwSnVuJTIwMjAyNiUyMDAwJTNBNTMlM0E1OCUyMCUyQjAwMDA",
+      "title": "Eyewitness at the Triangle (1911)",
+      "pubDate": "Tue, 23 Jun 2026 00:53:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]

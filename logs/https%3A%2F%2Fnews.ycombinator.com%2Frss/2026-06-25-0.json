@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-25",
     "newestItemDate": "2026-06-25",
-    "itemCount": 31,
-    "generatedAt": "2026-06-25T18:28:29.716Z"
+    "itemCount": 41,
+    "generatedAt": "2026-06-26T04:43:51.830Z"
   },
   "items": [
     {
@@ -192,6 +192,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Jvc3NjYW5vbi5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcm9zc2Nhbm9uLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEJpYmxlJTIwYXMlMjBSQUclMjBEYXRhYmFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjY3ODA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMDElM0E0MiUzQTU1JTIwJTJCMDAwMA",
       "title": "Show HN: Bible as RAG Database",
       "pubDate": "Thu, 25 Jun 2026 01:42:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnY2hhbmRib29rLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2NoYW5kYm9vay5vcmclMkYlN0NUaGUlMjBHYXJiYWdlJTIwQ29sbGVjdGlvbiUyMEhhbmRib29rJTNBJTIwVGhlJTIwQXJ0JTIwb2YlMjBBdXRvbWF0aWMlMjBNZW1vcnklMjBNYW5hZ2VtZW50JTIwKDJuZCUyMEVkKSUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjgwMzcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMjMlM0ExMCUzQTMwJTIwJTJCMDAwMA",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+      "pubDate": "Thu, 25 Jun 2026 23:10:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZleHByZXNzaW9uLmZpcmUub3JnJTJGcCUyRnRoZS1wYXBlcnMtcGxlYXNlLWVyYS1vZi10aGUtaW50ZXJuZXQlN0NodHRwcyUzQSUyRiUyRmV4cHJlc3Npb24uZmlyZS5vcmclMkZwJTJGdGhlLXBhcGVycy1wbGVhc2UtZXJhLW9mLXRoZS1pbnRlcm5ldCU3Q1RoZSUyMCdwYXBlcnMlMkMlMjBwbGVhc2UnJTIwZXJhJTIwb2YlMjB0aGUlMjBpbnRlcm5ldCUyMHdpbGwlMjBkZWNpbWF0ZSUyMHlvdXIlMjBwcml2YWN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2Nzk2MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNSUyMEp1biUyMDIwMjYlMjAyMSUzQTQ0JTNBNTUlMjAlMkIwMDAw",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "pubDate": "Thu, 25 Jun 2026 21:44:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmNvbnYuYWklMkZibG9nJTJGaW50cm9kdWNpbmctdW4tMC1nZW5lcmF0aW5nLWltYWdlcy13aXRoLWNvdXBsZWQtb3NjaWxsYXRvcnMlMkYlN0NodHRwcyUzQSUyRiUyRnVuY29udi5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy11bi0wLWdlbmVyYXRpbmctaW1hZ2VzLXdpdGgtY291cGxlZC1vc2NpbGxhdG9ycyUyRiU3Q1VuLTAlM0ElMjBHZW5lcmF0aW5nJTIwSW1hZ2VzJTIwd2l0aCUyMENvdXBsZWQlMjBPc2NpbGxhdG9ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njc5MDA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMjAlM0E1MCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "pubDate": "Thu, 25 Jun 2026 20:50:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbS5jbyUyRjIwMjYlMkYwNiUyRjI0JTJGMTk2Ni0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZvbS5jbyUyRjIwMjYlMkYwNiUyRjI0JTJGMTk2Ni0yMDI2JTJGJTdDT20lMjBNYWxpayUyMGhhcyUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3ODg1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDIwJTNBMzMlM0EzNyUyMCUyQjAwMDA",
+      "title": "Om Malik has died",
+      "pubDate": "Thu, 25 Jun 2026 20:33:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxwYXRlcnNvbi5jb20lMkZiYW5rLXB5dGhvbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZjYWxwYXRlcnNvbi5jb20lMkZiYW5rLXB5dGhvbi5odG1sJTdDQW4lMjBvcmFsJTIwaGlzdG9yeSUyMG9mJTIwQmFuayUyMFB5dGhvbiUyMCgyMDIxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njc4NjQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMjAlM0ExNCUzQTM1JTIwJTJCMDAwMA",
+      "title": "An oral history of Bank Python (2021)",
+      "pubDate": "Thu, 25 Jun 2026 20:14:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWxsaWFtZHVlLmdpdGh1Yi5pbyUyRmJsb2clMkZwYXJhbGxlbC1wYXJlbnRoZXNlcy1tYXRjaGluZyU3Q2h0dHBzJTNBJTJGJTJGd2lsbGlhbWR1ZS5naXRodWIuaW8lMkZibG9nJTJGcGFyYWxsZWwtcGFyZW50aGVzZXMtbWF0Y2hpbmclN0NQYXJhbGxlbCUyMFBhcmVudGhlc2VzJTIwTWF0Y2hpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3ODYyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDIwJTNBMTIlM0EyNCUyMCUyQjAwMDA",
+      "title": "Parallel Parentheses Matching",
+      "pubDate": "Thu, 25 Jun 2026 20:12:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb3p1bWVtLnh5eiUyRnBvc3RzJTJGMTclN0NodHRwcyUzQSUyRiUyRnJvenVtZW0ueHl6JTJGcG9zdHMlMkYxNyU3Q1RoZSUyMERvb3JtYW4ncyUyMEZhbGxhY3klMjBpbiUyMGFjdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njc4NDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMjAlM0EwMCUzQTM1JTIwJTJCMDAwMA",
+      "title": "The Doorman's Fallacy in action",
+      "pubDate": "Thu, 25 Jun 2026 20:00:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDYtMjUlMkZhcHBsZS10by1za2lwLWhpZ2gtZW5kLW02LW1hYy1jaGlwcy10by1sYXVuY2gtbTctcHJvLW03LW1heC1tNy11bHRyYS1pbnN0ZWFkJTNGZW1iZWRkZWQtY2hlY2tvdXQlM0R0cnVlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDYtMjUlMkZhcHBsZS10by1za2lwLWhpZ2gtZW5kLW02LW1hYy1jaGlwcy10by1sYXVuY2gtbTctcHJvLW03LW1heC1tNy11bHRyYS1pbnN0ZWFkJTNGZW1iZWRkZWQtY2hlY2tvdXQlM0R0cnVlJTdDQXBwbGUlMjB0byUyMHNraXAlMjBoaWdoLWVuZCUyME02JTIwTWFjJTIwY2hpcHMlMjBpbiUyMGZhdm9yJTIwb2YlMjBBSS1mb2N1c2VkJTIwTTclMjBsaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NzY3OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNSUyMEp1biUyMDIwMjYlMjAxNyUzQTM4JTNBNDQlMjAlMkIwMDAw",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "pubDate": "Thu, 25 Jun 2026 17:38:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaW5rZWVwJTJGb3Blbi1rbm93bGVkZ2UlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZpbmtlZXAlMkZvcGVuLWtub3dsZWRnZSU3Q1Nob3clMjBITiUzQSUyME9wZW5Lbm93bGVkZ2UlMjAlRTIlODAlOTMlMjBvcGVuJTIwc291cmNlJTIwQUktZmlyc3QlMjBhbHRlcm5hdGl2ZSUyMHRvJTIwT2JzaWRpYW4lMkZOb3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3NTQzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE2JTNBMDQlM0E0NiUyMCUyQjAwMDA",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "pubDate": "Thu, 25 Jun 2026 16:04:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY3JvbGxwcml6ZS5vcmclMkZmaXJzdHNjcm9sbCU3Q2h0dHBzJTNBJTJGJTJGc2Nyb2xscHJpemUub3JnJTJGZmlyc3RzY3JvbGwlN0NBbiUyMGVudGlyZSUyMEhlcmN1bGFuZXVtJTIwc2Nyb2xsJTIwaGFzJTIwYmVlbiUyMHJlYWQlMjBmb3IlMjB0aGUlMjBmaXJzdCUyMHRpbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3NTE3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE1JTNBNDglM0EwNyUyMCUyQjAwMDA",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "pubDate": "Thu, 25 Jun 2026 15:48:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
     }
   ]
