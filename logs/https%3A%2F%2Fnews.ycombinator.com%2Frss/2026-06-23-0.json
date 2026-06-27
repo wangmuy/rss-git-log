@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-23",
     "newestItemDate": "2026-06-23",
-    "itemCount": 64,
-    "generatedAt": "2026-06-27T04:28:49.674Z"
+    "itemCount": 66,
+    "generatedAt": "2026-06-27T17:33:30.021Z"
   },
   "items": [
     {
@@ -390,6 +390,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZm9zdGVyNzcuY28udWslMkZGb3N0ZXIlMkMlMjUyMFNjb3R0aXNoJTI1MjBNYXRoZW1hdGljYWwlMjUyMENvdW5jaWwlMjUyMEpvdXJuYWwlMkMlMjUyME1ha2luZyUyNTIwc2Vuc2UlMjUyMG9mJTI1MjBwcm9vZiUyNTIwYnklMjUyMGNvbnRyYWRpY3Rpb24ucGRmJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZm9zdGVyNzcuY28udWslMkZGb3N0ZXIlMkMlMjUyMFNjb3R0aXNoJTI1MjBNYXRoZW1hdGljYWwlMjUyMENvdW5jaWwlMjUyMEpvdXJuYWwlMkMlMjUyME1ha2luZyUyNTIwc2Vuc2UlMjUyMG9mJTI1MjBwcm9vZiUyNTIwYnklMjUyMGNvbnRyYWRpY3Rpb24ucGRmJTdDTWFraW5nJTIwU2Vuc2UlMjBvZiUyMFByb29mJTIwYnklMjBDb250cmFkaWN0aW9uJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDM2NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxMiUzQTAwJTNBMTMlMjAlMkIwMDAw",
       "title": "Making Sense of Proof by Contradiction [pdf]",
       "pubDate": "Tue, 23 Jun 2026 12:00:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlVuZGVyYXJtX2Jvd2xpbmdfaW5jaWRlbnRfb2ZfMTk4MSU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZVbmRlcmFybV9ib3dsaW5nX2luY2lkZW50X29mXzE5ODElN0NVbmRlcmFybSUyMEJvd2xpbmclMjBJbmNpZGVudCUyMG9mJTIwMTk4MSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjUwNzk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjMlMjBKdW4lMjAyMDI2JTIwMjAlM0EyMSUzQTE5JTIwJTJCMDAwMA",
+      "title": "Underarm Bowling Incident of 1981",
+      "pubDate": "Tue, 23 Jun 2026 20:21:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1yY3JveHguY29tJTJGcG9zdHMlMkZ0YXNrLWZhaWxlZC1zdWNjZXNzZnVsbHktc2F0dXJhdGluZy1uaWMtYW5kLWRpc2stYmFuZHdpZHRoJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLm1yY3JveHguY29tJTJGcG9zdHMlMkZ0YXNrLWZhaWxlZC1zdWNjZXNzZnVsbHktc2F0dXJhdGluZy1uaWMtYW5kLWRpc2stYmFuZHdpZHRoJTJGJTdDVGFzayUyMEZhaWxlZCUyMFN1Y2Nlc3NmdWxseSUzQSUyMFNhdHVyYXRpbmclMjBOSUMlMjBhbmQlMjBEaXNrJTIwQmFuZHdpZHRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NDU1MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMyUyMEp1biUyMDIwMjYlMjAxNCUzQTI4JTNBMjAlMjAlMkIwMDAw",
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "pubDate": "Tue, 23 Jun 2026 14:28:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-23-0.json"
     }
   ]

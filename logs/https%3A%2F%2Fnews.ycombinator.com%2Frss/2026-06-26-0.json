@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-26",
     "newestItemDate": "2026-06-26",
-    "itemCount": 33,
-    "generatedAt": "2026-06-27T10:26:57.652Z"
+    "itemCount": 34,
+    "generatedAt": "2026-06-27T17:33:30.021Z"
   },
   "items": [
     {
@@ -204,6 +204,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwc19uaWtvbGFldiUyRmZhc3Rlci1rbm4tc2VhcmNoLWluLW1hbnRpY29yZS0yLXBhc3MtaG5zdy1iYXRjaGVkLWRpc3RhbmNlcy1hbmQtYXZ4LTUxMi1iODU2MDQ2NDdhYWIlN0NodHRwcyUzQSUyRiUyRm1lZGl1bS5jb20lMkYlNDBzX25pa29sYWV2JTJGZmFzdGVyLWtubi1zZWFyY2gtaW4tbWFudGljb3JlLTItcGFzcy1obnN3LWJhdGNoZWQtZGlzdGFuY2VzLWFuZC1hdngtNTEyLWI4NTYwNDY0N2FhYiU3Q0Zhc3RlciUyMEtOTiUyMHNlYXJjaCUyMGluJTIwTWFudGljb3JlJTNBJTIwMi1wYXNzJTIwSE5TVyUyQyUyMGJhdGNoZWQlMjBkaXN0YW5jZXMlMkMlMjBhbmQlMjBBVlgtNTEyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2ODIyNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAwNCUzQTEzJTNBMjglMjAlMkIwMDAw",
       "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
       "pubDate": "Fri, 26 Jun 2026 04:13:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc29mdHdhcmUlMkYyMDI2JTJGMDYlMkYyNiUyRm9uZS1tYW4tdHdvLWtlcm5lbHMtYW5kLWEtbG90LW9mLXJpc2MtdiUyRjUyNjI4NTglN0NodHRwcyUzQSUyRiUyRnd3dy50aGVyZWdpc3Rlci5jb20lMkZzb2Z0d2FyZSUyRjIwMjYlMkYwNiUyRjI2JTJGb25lLW1hbi10d28ta2VybmVscy1hbmQtYS1sb3Qtb2YtcmlzYy12JTJGNTI2Mjg1OCU3Q09uZSUyMG1hbiUyQyUyMHR3byUyMGtlcm5lbHMlMkMlMjBhbmQlMjBhJTIwbG90JTIwb2YlMjBSSVNDLVYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY4ODQzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDE2JTNBMjAlM0EwNiUyMCUyQjAwMDA",
+      "title": "One man, two kernels, and a lot of RISC-V",
+      "pubDate": "Fri, 26 Jun 2026 16:20:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
     }
   ]

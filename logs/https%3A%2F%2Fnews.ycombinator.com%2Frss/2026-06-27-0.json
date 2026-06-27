@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-27",
     "newestItemDate": "2026-06-27",
-    "itemCount": 7,
-    "generatedAt": "2026-06-27T10:26:57.652Z"
+    "itemCount": 21,
+    "generatedAt": "2026-06-27T17:33:30.021Z"
   },
   "items": [
     {
@@ -48,6 +48,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZncmFjay5jb20lMkZibG9nJTJGMjAyNiUyRjA2JTJGMjUlMkZkaXNzZWN0aW5nLWEtZmFpbGVkLW5hdGlvbi1zdGF0ZS1hdHRhY2slMkYlN0NodHRwcyUzQSUyRiUyRmdyYWNrLmNvbSUyRmJsb2clMkYyMDI2JTJGMDYlMkYyNSUyRmRpc3NlY3RpbmctYS1mYWlsZWQtbmF0aW9uLXN0YXRlLWF0dGFjayUyRiU3Q0FuYXRvbXklMjBvZiUyMGElMjBGYWlsZWQlMjAoTmF0aW9uLVN0YXRlJTNGKSUyMEF0dGFjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk0NjMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMDIlM0E0MSUzQTUzJTIwJTJCMDAwMA",
       "title": "Anatomy of a Failed (Nation-State?) Attack",
       "pubDate": "Sat, 27 Jun 2026 02:41:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2JzLmFzaGJ5aHEuY29tJTJGc3VwYWJhc2UlMkYyZTcxODY4NC00Zjc1LTRhOTktOGQ2Yi0zYjZiZDQ0ZTQyMjglN0NodHRwcyUzQSUyRiUyRmpvYnMuYXNoYnlocS5jb20lMkZzdXBhYmFzZSUyRjJlNzE4Njg0LTRmNzUtNGE5OS04ZDZiLTNiNmJkNDRlNDIyOCU3Q1N1cGFiYXNlJTIwKFlDJTIwUzIwKSUyMElzJTIwSGlyaW5nJTIwZm9yJTIwTXVsdGlncmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTk4NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAxNyUzQTAwJTNBMTUlMjAlMkIwMDAw",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "pubDate": "Sat, 27 Jun 2026 17:00:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZoZWFsdGglMkYyMDI2JTJGMDYlMkZkb2N0b3JzLXN1c3BlY3RlZC1tYW4taGFkLWJyYWluLWNhbmNlci1oZS1hY3R1YWxseS1oYWQtd29ybXMlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmhlYWx0aCUyRjIwMjYlMkYwNiUyRmRvY3RvcnMtc3VzcGVjdGVkLW1hbi1oYWQtYnJhaW4tY2FuY2VyLWhlLWFjdHVhbGx5LWhhZC13b3JtcyUyRiU3Q0RvY3RvcnMlMjBzdXNwZWN0ZWQlMjBtYW4lMjBoYWQlMjBicmFpbiUyMGNhbmNlci4lMjBIZSUyMGhhZCUyMHdvcm1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTk2MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAxNiUzQTMxJTNBNTglMjAlMkIwMDAw",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "pubDate": "Sat, 27 Jun 2026 16:31:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbHVyYWxpc3RpYy5uZXQlMkYyMDI2JTJGMDYlMkYyNyUyRnp1Y2tlcnN0cmVpc2FuZC0yJTJGJTdDaHR0cHMlM0ElMkYlMkZwbHVyYWxpc3RpYy5uZXQlMkYyMDI2JTJGMDYlMkYyNyUyRnp1Y2tlcnN0cmVpc2FuZC0yJTJGJTdDWnVja2VyYmVyZydzJTIwSW5jcmVhc2luZ2x5JTIwQml6YXJyZSUyMFdhciUyMG9uJTIwV2hpc3RsZWJsb3dlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5ODY4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDE0JTNBMzglM0EwNSUyMCUyQjAwMDA",
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "pubDate": "Sat, 27 Jun 2026 14:38:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYmlraW5pJTJGZXhwbG9pdGFyaXVtJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYmlraW5pJTJGZXhwbG9pdGFyaXVtJTdDQW5vbnltb3VzJTIwR2l0SHViJTIwYWNjb3VudCUyMG1hc3MtZHJvcHBpbmclMjB1bmRpc2Nsb3NlZCUyMDAtZGF5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk4NjE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMTQlM0EzMSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "pubDate": "Sat, 27 Jun 2026 14:31:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZXBoYWxvc2VjLmNvbSUyRmJsb2clMkZjeWJlcnNlY3VyaXR5LWluLXRoZS1wb3N0LW15dGhvcy1lcmEta2VlcC1jYWxtLWFuZC1jYXJyeS1vbiUyRiU3Q2h0dHBzJTNBJTJGJTJGY2VwaGFsb3NlYy5jb20lMkZibG9nJTJGY3liZXJzZWN1cml0eS1pbi10aGUtcG9zdC1teXRob3MtZXJhLWtlZXAtY2FsbS1hbmQtY2Fycnktb24lMkYlN0NQb3N0LU15dGhvcyUyMEN5YmVyc2VjdXJpdHklM0ElMjBLZWVwJTIwY2FsbSUyMGFuZCUyMGNhcnJ5JTIwb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5ODU1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjMlM0E0MCUyMCUyQjAwMDA",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "pubDate": "Sat, 27 Jun 2026 14:23:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGZGlzY29udGludWl0aWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGZGlzY29udGludWl0aWVzJTJGJTdDU3VzcGljaW91cyUyMERpc2NvbnRpbnVpdGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk4MTUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMTMlM0EzMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Suspicious Discontinuities",
+      "pubDate": "Sat, 27 Jun 2026 13:32:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA2JTJGc3RyZWFtaW5nLXNlcnZpY2VzLW9ibm94aW91c2x5LWxvdWQtYWRzLWJlY29tZS1pbGxlZ2FsLW9uLWp1bHktMS1pbi1jYWxpZm9ybmlhJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA2JTJGc3RyZWFtaW5nLXNlcnZpY2VzLW9ibm94aW91c2x5LWxvdWQtYWRzLWJlY29tZS1pbGxlZ2FsLW9uLWp1bHktMS1pbi1jYWxpZm9ybmlhJTJGJTdDU3RyZWFtaW5nJTIwc2VydmljZXMnJTIwb2Jub3hpb3VzbHklMjBsb3VkJTIwYWRzJTIwYmVjb21lJTIwaWxsZWdhbCUyMG9uJTIwSnVseSUyMDElMjBpbiUyMENhbGlmb3JuaWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5Nzc2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDEyJTNBNDMlM0ExNiUyMCUyQjAwMDA",
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "pubDate": "Sat, 27 Jun 2026 12:43:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGaG93LW1hbnktZWxlbWVudGFyeS1wYXJ0aWNsZXMtYXJlLXRoZXJlLXJlYWxseS0yMDI2MDYxNSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRmhvdy1tYW55LWVsZW1lbnRhcnktcGFydGljbGVzLWFyZS10aGVyZS1yZWFsbHktMjAyNjA2MTUlMkYlN0NIb3clMjBNYW55JTIwRWxlbWVudGFyeSUyMFBhcnRpY2xlcyUyMEFyZSUyMFRoZXJlJTJDJTIwUmVhbGx5JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTc3NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAxMiUzQTQwJTNBNTklMjAlMkIwMDAw",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "pubDate": "Sat, 27 Jun 2026 12:40:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnJhLm5ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9wZW5yYS5uZXQlMkYlN0NPcGVuUkElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5NzU2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDEyJTNBMTAlM0EyNyUyMCUyQjAwMDA",
+      "title": "OpenRA",
+      "pubDate": "Sat, 27 Jun 2026 12:10:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXJ2aXMuZGUlMkZwaHlzaWNhbCUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVydmlzLmRlJTJGcGh5c2ljYWwlMkYlN0NJZiUyMHlvdSUyMGNhbid0JTIwaG9sZCUyMGl0JTJDJTIweW91JTIwZG9uJ3QlMjBvd24lMjBpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk3MzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMTElM0EzMiUzQTEwJTIwJTJCMDAwMA",
+      "title": "If you can't hold it, you don't own it",
+      "pubDate": "Sat, 27 Jun 2026 11:32:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3LnBpdHVsYS5tZSUyRmZpbnRlY2gtZW5naW5lZXJpbmctaGFuZGJvb2slMkYlN0NodHRwcyUzQSUyRiUyRncucGl0dWxhLm1lJTJGZmludGVjaC1lbmdpbmVlcmluZy1oYW5kYm9vayUyRiU3Q0ZpbnRlY2glMjBFbmdpbmVlcmluZyUyMEhhbmRib29rJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTY5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAxMCUzQTI4JTNBNTMlMjAlMkIwMDAw",
+      "title": "Fintech Engineering Handbook",
+      "pubDate": "Sat, 27 Jun 2026 10:28:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVlcHNlZWstYWklMkZEZWVwU3BlYyUyRmJsb2IlMkZtYWluJTJGRFNwYXJrX3BhcGVyLnBkZiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmRlZXBzZWVrLWFpJTJGRGVlcFNwZWMlMkZibG9iJTJGbWFpbiUyRkRTcGFya19wYXBlci5wZGYlN0NEU3BhcmslM0ElMjBTcGVjdWxhdGl2ZSUyMGRlY29kaW5nJTIwYWNjZWxlcmF0ZXMlMjBMTE0lMjBpbmZlcmVuY2UlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5NjU4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDA5JTNBMTglM0E1MiUyMCUyQjAwMDA",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "pubDate": "Sat, 27 Jun 2026 09:18:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVlcmNzcy5jb20lN0NodHRwcyUzQSUyRiUyRnd3dy5iZWVyY3NzLmNvbSUyRiU3Q0JlZXIlMjBDU1MlMjAlRTIlODAlOTMlMjBCdWlsZCUyMG1hdGVyaWFsJTIwZGVzaWduJTIwaW4lMjByZWNvcmQlMjB0aW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTY1MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAwOSUzQTA2JTNBMTElMjAlMkIwMDAw",
+      "title": "Beer CSS – Build material design in record time",
+      "pubDate": "Sat, 27 Jun 2026 09:06:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldGh6LmNoJTJGZW4lMkZuZXdzLWFuZC1ldmVudHMlMkZldGgtbmV3cyUyRm5ld3MlMkYyMDI2JTJGMDYlMkZhLW5ldy10eXBlLW9mLXBpeGVsLmh0bWwlN0NodHRwcyUzQSUyRiUyRmV0aHouY2glMkZlbiUyRm5ld3MtYW5kLWV2ZW50cyUyRmV0aC1uZXdzJTJGbmV3cyUyRjIwMjYlMkYwNiUyRmEtbmV3LXR5cGUtb2YtcGl4ZWwuaHRtbCU3Q1Jlc2VhcmNoZXJzJTIwaGF2ZSUyMGRldmVsb3BlZCUyMHBpeGVscyUyMHRoYXQlMjBjYW4lMjBlbWl0JTIwYW5kJTIwYW5hbHlzZSUyMGxpZ2h0JTIwdG9nZXRoZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5NjEyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDA3JTNBNTElM0EyNiUyMCUyQjAwMDA",
+      "title": "Researchers have developed pixels that can emit and analyse light together",
+      "pubDate": "Sat, 27 Jun 2026 07:51:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
     }
   ]
