@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-26",
     "newestItemDate": "2026-06-26",
-    "itemCount": 18,
-    "generatedAt": "2026-06-26T18:05:12.584Z"
+    "itemCount": 32,
+    "generatedAt": "2026-06-27T04:28:49.673Z"
   },
   "items": [
     {
@@ -114,6 +114,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZha3JpdGVzLm9yZyUyRmxldHRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYWtyaXRlcy5vcmclMkZsZXR0ZXIlMkYlN0NXZSUyMGFsbCUyMGRlcGVuZCUyMG9uJTIwb3BlbiUyMHNvdXJjZS4lMjBXZSUyMHdpbGwlMjBkZWZlbmQlMjBpdCUyMHRvZ2V0aGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2ODI3MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAwNSUzQTQwJTNBMzYlMjAlMkIwMDAw",
       "title": "We all depend on open source. We will defend it together",
       "pubDate": "Fri, 26 Jun 2026 05:40:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLm1jY29tYnMudXRleGFzLmVkdSUyRnJlc2VhcmNoJTJGZm9yZWlnbi1mdW5kcy1oZWxwLW1ha2UtaG91c2luZy11bmFmZm9yZGFibGUlMkYlN0NodHRwcyUzQSUyRiUyRm5ld3MubWNjb21icy51dGV4YXMuZWR1JTJGcmVzZWFyY2glMkZmb3JlaWduLWZ1bmRzLWhlbHAtbWFrZS1ob3VzaW5nLXVuYWZmb3JkYWJsZSUyRiU3Q0ZvcmVpZ24lMjBmdW5kcyUyMGhlbHAlMjBtYWtlJTIwaG91c2luZyUyMHVuYWZmb3JkYWJsZSUzQSUyMHJlc2VhcmNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTM0MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMyUzQTM2JTNBMzAlMjAlMkIwMDAw",
+      "title": "Foreign funds help make housing unaffordable: research",
+      "pubDate": "Fri, 26 Jun 2026 23:36:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXJpbmdmaXJlYmFsbC5uZXQlMkYyMDI2JTJGMDYlMkZvbSU3Q2h0dHBzJTNBJTJGJTJGZGFyaW5nZmlyZWJhbGwubmV0JTJGMjAyNiUyRjA2JTJGb20lN0NPbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjkzMzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMjMlM0EzMyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Om",
+      "pubDate": "Fri, 26 Jun 2026 23:33:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VtYWZvci5jb20lMkZhcnRpY2xlJTJGMDYlMkYyNyUyRjIwMjYlMkZ1cy1yZWxlYXNlcy1wb3dlcmZ1bC1hbnRocm9waWMtbW9kZWwtbXl0aG9zLXRvLXNvbWUtdXMtY29tcGFuaWVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2VtYWZvci5jb20lMkZhcnRpY2xlJTJGMDYlMkYyNyUyRjIwMjYlMkZ1cy1yZWxlYXNlcy1wb3dlcmZ1bC1hbnRocm9waWMtbW9kZWwtbXl0aG9zLXRvLXNvbWUtdXMtY29tcGFuaWVzJTdDVS5TLiUyMGFsbG93cyUyMEFudGhyb3BpYyUyMHRvJTIwcmVsZWFzZSUyME15dGhvcyUyMEFJJTIwdG8lMjAlRTIlODAlOTh0cnVzdGVkJUUyJTgwJTk5JTIwVVMlMjBvcmdhbml6YXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTI5OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMiUzQTQ4JTNBMjglMjAlMkIwMDAw",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "pubDate": "Fri, 26 Jun 2026 22:48:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzaWNzLnN0YWNrZXhjaGFuZ2UuY29tJTJGcXVlc3Rpb25zJTJGNTM1JTJGd2h5LWRvZXMta2luZXRpYy1lbmVyZ3ktaW5jcmVhc2UtcXVhZHJhdGljYWxseS1ub3QtbGluZWFybHktd2l0aC1zcGVlZCU3Q2h0dHBzJTNBJTJGJTJGcGh5c2ljcy5zdGFja2V4Y2hhbmdlLmNvbSUyRnF1ZXN0aW9ucyUyRjUzNSUyRndoeS1kb2VzLWtpbmV0aWMtZW5lcmd5LWluY3JlYXNlLXF1YWRyYXRpY2FsbHktbm90LWxpbmVhcmx5LXdpdGgtc3BlZWQlN0NXaHklMjBkb2VzJTIwa2luZXRpYyUyMGVuZXJneSUyMGluY3JlYXNlJTIwcXVhZHJhdGljYWxseSUyQyUyMG5vdCUyMGxpbmVhcmx5JTJDJTIwd2l0aCUyMHNwZWVkJTNGJTIwKDIwMTEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTI5NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMiUzQTQzJTNBMjklMjAlMkIwMDAw",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "pubDate": "Fri, 26 Jun 2026 22:43:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLWluLW1hdGhlbWF0aWNzJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLWluLW1hdGhlbWF0aWNzJTdDQUklMjBpbiUyMG1hdGhlbWF0aWNzJTIwaXMlMjBmb3JjaW5nJTIwYmlnJTIwcXVlc3Rpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTI4ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMiUzQTM2JTNBNTElMjAlMkIwMDAw",
+      "title": "AI in mathematics is forcing big questions",
+      "pubDate": "Fri, 26 Jun 2026 22:36:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGVzc2lsJTJGaG9wc2NvdGNoLW1hcCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlRlc3NpbCUyRmhvcHNjb3RjaC1tYXAlN0NBJTIwQyUyQiUyQiUyMGltcGxlbWVudGF0aW9uJTIwb2YlMjBhJTIwZmFzdCUyMGhhc2glMjBtYXAlMjBhbmQlMjBoYXNoJTIwc2V0JTIwdXNpbmclMjBob3BzY290Y2glMjBoYXNoaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTIwOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMSUzQTE4JTNBMjglMjAlMkIwMDAw",
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "pubDate": "Fri, 26 Jun 2026 21:18:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRvdWJsZXdvcmQuYWklMkZmcm9udGllci1vcy1sbG0lN0NodHRwcyUzQSUyRiUyRmJsb2cuZG91Ymxld29yZC5haSUyRmZyb250aWVyLW9zLWxsbSU3Q1RoZSUyMGdhcCUyMGJldHdlZW4lMjBvcGVuJTIwd2VpZ2h0cyUyMExMTXMlMjBhbmQlMjBjbG9zZWQlMjBzb3VyY2UlMjBMTE1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTIwNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMSUzQTE0JTNBNDclMjAlMkIwMDAw",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "pubDate": "Fri, 26 Jun 2026 21:14:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRndlLWNhbi1zdGlsbC1zdG9wLWNhbGlmb3JuaWFzLTNkLXByaW50ZXItc3VydmVpbGxhbmNlLXNjaGVtZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVmZi5vcmclMkZkZWVwbGlua3MlMkYyMDI2JTJGMDYlMkZ3ZS1jYW4tc3RpbGwtc3RvcC1jYWxpZm9ybmlhcy0zZC1wcmludGVyLXN1cnZlaWxsYW5jZS1zY2hlbWUlN0NXZSUyMGNhbiUyMHN0aWxsJTIwc3RvcCUyMENhbGlmb3JuaWEncyUyMDNEJTIwcHJpbnRlciUyMHN1cnZlaWxsYW5jZSUyMHNjaGVtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjkyMDUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMjElM0ExMyUzQTUwJTIwJTJCMDAwMA",
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "pubDate": "Fri, 26 Jun 2026 21:13:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaWdodG91Y2guY29tJTJGY2FyZWVycyUyM29wZW4tcG9zaXRpb25zJTdDaHR0cHMlM0ElMkYlMkZoaWdodG91Y2guY29tJTJGY2FyZWVycyUyM29wZW4tcG9zaXRpb25zJTdDSGlnaHRvdWNoJTIwKFlDJTIwUzE5KSUyMElzJTIwSGlyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTE4OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMSUzQTAwJTNBNTAlMjAlMkIwMDAw",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "pubDate": "Fri, 26 Jun 2026 21:00:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb3Rha3UuY29tJTJGcGxheXN0YXRpb24tc3RvcmUtbW92aWVzLWRpZ2l0YWwtc3R1ZGlvLWNhbmFsLXRlcm1pbmF0b3ItMjAwMDcxMTAxMyU3Q2h0dHBzJTNBJTJGJTJGa290YWt1LmNvbSUyRnBsYXlzdGF0aW9uLXN0b3JlLW1vdmllcy1kaWdpdGFsLXN0dWRpby1jYW5hbC10ZXJtaW5hdG9yLTIwMDA3MTEwMTMlN0NQbGF5U3RhdGlvbiUyMElzJTIwRGVsZXRpbmclMjA1NTElMjBNb3ZpZXMlMjBmcm9tJTIwQ3VzdG9tZXJzJyUyMEFjY291bnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTEzNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMCUzQTA3JTNBMTglMjAlMkIwMDAw",
+      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+      "pubDate": "Fri, 26 Jun 2026 20:07:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmM3NHluN3Y3azRxbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjNzR5bjd2N2s0cW8lN0NMb25nJTIwV2F2ZSUyMHJhZGlvJTIwZXJhJTIwc2V0JTIwdG8lMjBlbmQlMjB3aXRoJTIwRHJvaXR3aWNoJTIwc3dpdGNoLW9mZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjkwNzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMTklM0ExMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Long Wave radio era set to end with Droitwich switch-off",
+      "pubDate": "Fri, 26 Jun 2026 19:12:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FzaGluZ3RvbnBvc3QuY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkYwNiUyRjI2JTJGb3BlbmFpLXNheXMtdXMtZ292ZXJubWVudC13aWxsLXZldC11c2Vycy1pdHMtbGF0ZXN0LWFpLW1vZGVsJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2FzaGluZ3RvbnBvc3QuY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkYwNiUyRjI2JTJGb3BlbmFpLXNheXMtdXMtZ292ZXJubWVudC13aWxsLXZldC11c2Vycy1pdHMtbGF0ZXN0LWFpLW1vZGVsJTJGJTdDVS5TLiUyMGdvdmVybm1lbnQlMjB3aWxsJTIwZGVjaWRlJTIwd2hvJTIwZ2V0cyUyMHRvJTIwdXNlJTIwR1BULTUuNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjkwMTAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMTglM0EyMyUzQTE0JTIwJTJCMDAwMA",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "pubDate": "Fri, 26 Jun 2026 18:23:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY291cC5ibG9nJTJGMjAyNiUyRjA2JTJGMjYlMkZjb2xsZWN0aW9ucy1wcmUtbW9kZXJuLWFybWllcy1mb3Itd29ybGRidWlsZGVycy1wYXJ0LWlpaS1wYXlpbmctZm9yLWl0JTJGJTdDaHR0cHMlM0ElMkYlMkZhY291cC5ibG9nJTJGMjAyNiUyRjA2JTJGMjYlMkZjb2xsZWN0aW9ucy1wcmUtbW9kZXJuLWFybWllcy1mb3Itd29ybGRidWlsZGVycy1wYXJ0LWlpaS1wYXlpbmctZm9yLWl0JTJGJTdDUHJlLU1vZGVybiUyMEFybWllcyUyMGZvciUyMFdvcmxkYnVpbGRlcnMlMkMlMjBQYXJ0JTIwSUlJJTNBJTIwUGF5aW5nJTIwZm9yJTIwSXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY4OTg1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDE4JTNBMDQlM0EwNSUyMCUyQjAwMDA",
+      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+      "pubDate": "Fri, 26 Jun 2026 18:04:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZWZha2tvbWllcy5naXRodWIuaW8lMkZweW5vbW8tZG9jJTJGaW50cm9kdWN0aW9uJTJGaW50cm9kdWN0aW9uLmh0bWwlMjN3aGF0LWlzLWEtbm9tb2dyYW0tYW5kLXdoeS13b3VsZC1pdC1pbnRlcmVzdC1tZSU3Q2h0dHBzJTNBJTJGJTJGbGVmYWtrb21pZXMuZ2l0aHViLmlvJTJGcHlub21vLWRvYyUyRmludHJvZHVjdGlvbiUyRmludHJvZHVjdGlvbi5odG1sJTIzd2hhdC1pcy1hLW5vbW9ncmFtLWFuZC13aHktd291bGQtaXQtaW50ZXJlc3QtbWUlN0NXaGF0JTIwSXMlMjBhJTIwTm9tb2dyYW0lMjBhbmQlMjBXaHklMjBXb3VsZCUyMEl0JTIwSW50ZXJlc3QlMjBNZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njg5Mjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMTclM0EyNCUzQTI1JTIwJTJCMDAwMA",
+      "title": "What Is a Nomogram and Why Would It Interest Me?",
+      "pubDate": "Fri, 26 Jun 2026 17:24:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
     }
   ]

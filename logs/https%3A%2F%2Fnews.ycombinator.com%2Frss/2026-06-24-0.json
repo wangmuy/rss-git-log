@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-24",
     "newestItemDate": "2026-06-24",
-    "itemCount": 39,
-    "generatedAt": "2026-06-26T18:05:12.584Z"
+    "itemCount": 43,
+    "generatedAt": "2026-06-27T04:28:49.674Z"
   },
   "items": [
     {
@@ -240,6 +240,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRERlY29lbmUlMkZXZWJCYXNlSUlJJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRERlY29lbmUlMkZXZWJCYXNlSUlJJTdDU2hvdyUyMEhOJTNBJTIwV2ViQmFzZS1JSUklMjAlRTIlODAlOTMlMjBkQkFTRSUyMElJSSUyMHJlYnVpbHQlMjBpbiUyMHRoZSUyMGJyb3dzZXIlMjB3aXRoJTIwaXRzJTIwb3duJTIwaW50ZXJwcmV0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1Njk4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDA4JTNBNDYlM0ExNiUyMCUyQjAwMDA",
       "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
       "pubDate": "Wed, 24 Jun 2026 08:46:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGJvcy1pbmMlMkZkYm9zaWZ5LXB5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGJvcy1pbmMlMkZkYm9zaWZ5LXB5JTdDU2hvdyUyMEhOJTNBJTIwREJPU2lmeSUyMCVFMiU4MCU5MyUyMERyb3AtaW4lMjBUZW1wb3JhbCUyMHJlcGxhY2VtZW50JTIwYnVpbHQlMjBvbiUyMFBvc3RncmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NjI5ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNCUyMEp1biUyMDIwMjYlMjAxNyUzQTIwJTNBNDglMjAlMkIwMDAw",
+      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "pubDate": "Wed, 24 Jun 2026 17:20:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZ3Jvay5jb20lMkZibG9nJTJGYW9sLXdhcy1kb3duLTE5OTYlN0NodHRwcyUzQSUyRiUyRm5ncm9rLmNvbSUyRmJsb2clMkZhb2wtd2FzLWRvd24tMTk5NiU3Q0ElMjBodW1hbiUyMHBvc3Rtb3J0ZW0lMjBvZiUyMHRoZSUyMDE5OTYlMjBBT0wlMjBvdXRhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY2MDUyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjklM0ExNyUyMCUyQjAwMDA",
+      "title": "A human postmortem of the 1996 AOL outage",
+      "pubDate": "Wed, 24 Jun 2026 14:29:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdXNpb24tbGFuZy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRmZ1c2lvbi1sYW5nLm9yZyUyRiU3Q0Z1c2lvbiUyMFByb2dyYW1taW5nJTIwTGFuZ3VhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1ODE0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDExJTNBMjclM0EwNyUyMCUyQjAwMDA",
+      "title": "Fusion Programming Language",
+      "pubDate": "Wed, 24 Jun 2026 11:27:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYW1vZC1jaC5naXRodWIuaW8lMkZrYW1vZC1ob29rcyUyRiU3Q2h0dHBzJTNBJTJGJTJGa2Ftb2QtY2guZ2l0aHViLmlvJTJGa2Ftb2QtaG9va3MlMkYlN0NLYW1vZCUyMEhvb2tzJTIwJUUyJTgwJTkzJTIwYSUyMFByZWFjdCUyMGhvb2tzJTIwbGlicmFyeSUyMHBvcnRlZCUyMGZyb20lMjBhaG9va3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY1ODA2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDExJTNBMTclM0EzMyUyMCUyQjAwMDA",
+      "title": "Kamod Hooks – a Preact hooks library ported from ahooks",
+      "pubDate": "Wed, 24 Jun 2026 11:17:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
     }
   ]
