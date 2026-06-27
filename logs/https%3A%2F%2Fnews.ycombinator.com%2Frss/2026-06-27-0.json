@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-27",
     "newestItemDate": "2026-06-27",
-    "itemCount": 3,
-    "generatedAt": "2026-06-27T04:28:49.673Z"
+    "itemCount": 7,
+    "generatedAt": "2026-06-27T10:26:57.652Z"
   },
   "items": [
     {
@@ -24,6 +24,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwb3BmbGFtZS5xdWlja2lzaC5zcGFjZSUyRmhuLWZsaXBib2FyZCUyRiU3Q2h0dHBzJTNBJTJGJTJGcG9wZmxhbWUucXVpY2tpc2guc3BhY2UlMkZobi1mbGlwYm9hcmQlMkYlN0NTaG93JTIwSE4lM0ElMjBIYWNrZXIlMjBOZXdzJTIwb24lMjBhJTIwdHJhaW4lMjBzdGF0aW9uLXN0eWxlJTIwZmxpcCUyMGJvYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTM5MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAwMCUzQTQzJTNBMzklMjAlMkIwMDAw",
       "title": "Show HN: Hacker News on a train station-style flip board",
       "pubDate": "Sat, 27 Jun 2026 00:43:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVlcHNlZWstYWklMkZEZWVwU3BlYyUyRmJsb2IlMkZtYWluJTJGRFNwYXJrX3BhcGVyLnBkZiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmRlZXBzZWVrLWFpJTJGRGVlcFNwZWMlMkZibG9iJTJGbWFpbiUyRkRTcGFya19wYXBlci5wZGYlN0NEZWVwU2VlayUyMG9wZW4tc291cmNlcyUyMGluZmVyZW5jZSUyMG9wdGltaXphdGlvbnMlMjB3aXRoJTIwNjAlRTIlODAlOTM4NSUyNSUyMGZhc3RlciUyMGdlbmVyYXRpb24lMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5NjU4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDA5JTNBMTglM0E1MiUyMCUyQjAwMDA",
+      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "pubDate": "Sat, 27 Jun 2026 09:18:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2NobGFlJTJGSUJNX01DR0ElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzY2hsYWUlMkZJQk1fTUNHQSU3Q0lCTSUyME1DR0ElMjBHYXRlJTIwQXJyYXklMjBSZXZlcnNlJTIwRW5naW5lZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5NTM2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDA1JTNBMTclM0EwOCUyMCUyQjAwMDA",
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "pubDate": "Sat, 27 Jun 2026 05:17:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnR0ZC5vcmclMkZuZXdzJTJGMjAyNiUyRjA2JTJGMjUlMkZvcGVudHRkLTE2LTAtYmV0YTElN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVudHRkLm9yZyUyRm5ld3MlMkYyMDI2JTJGMDYlMkYyNSUyRm9wZW50dGQtMTYtMC1iZXRhMSU3Q09wZW5UVEQlMjAxNi4wLUJldGExJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTUxNDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAwNCUzQTMxJTNBMDYlMjAlMkIwMDAw",
+      "title": "OpenTTD 16.0-Beta1",
+      "pubDate": "Sat, 27 Jun 2026 04:31:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFjay5jb20lMkZibG9nJTJGMjAyNiUyRjA2JTJGMjUlMkZkaXNzZWN0aW5nLWEtZmFpbGVkLW5hdGlvbi1zdGF0ZS1hdHRhY2slMkYlN0NodHRwcyUzQSUyRiUyRmdyYWNrLmNvbSUyRmJsb2clMkYyMDI2JTJGMDYlMkYyNSUyRmRpc3NlY3RpbmctYS1mYWlsZWQtbmF0aW9uLXN0YXRlLWF0dGFjayUyRiU3Q0FuYXRvbXklMjBvZiUyMGElMjBGYWlsZWQlMjAoTmF0aW9uLVN0YXRlJTNGKSUyMEF0dGFjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk0NjMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMDIlM0E0MSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "pubDate": "Sat, 27 Jun 2026 02:41:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
     }
   ]

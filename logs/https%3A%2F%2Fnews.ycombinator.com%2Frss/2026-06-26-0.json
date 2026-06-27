@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-26",
     "newestItemDate": "2026-06-26",
-    "itemCount": 32,
-    "generatedAt": "2026-06-27T04:28:49.673Z"
+    "itemCount": 33,
+    "generatedAt": "2026-06-27T10:26:57.652Z"
   },
   "items": [
     {
@@ -198,6 +198,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsZWZha2tvbWllcy5naXRodWIuaW8lMkZweW5vbW8tZG9jJTJGaW50cm9kdWN0aW9uJTJGaW50cm9kdWN0aW9uLmh0bWwlMjN3aGF0LWlzLWEtbm9tb2dyYW0tYW5kLXdoeS13b3VsZC1pdC1pbnRlcmVzdC1tZSU3Q2h0dHBzJTNBJTJGJTJGbGVmYWtrb21pZXMuZ2l0aHViLmlvJTJGcHlub21vLWRvYyUyRmludHJvZHVjdGlvbiUyRmludHJvZHVjdGlvbi5odG1sJTIzd2hhdC1pcy1hLW5vbW9ncmFtLWFuZC13aHktd291bGQtaXQtaW50ZXJlc3QtbWUlN0NXaGF0JTIwSXMlMjBhJTIwTm9tb2dyYW0lMjBhbmQlMjBXaHklMjBXb3VsZCUyMEl0JTIwSW50ZXJlc3QlMjBNZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njg5Mjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMTclM0EyNCUzQTI1JTIwJTJCMDAwMA",
       "title": "What Is a Nomogram and Why Would It Interest Me?",
       "pubDate": "Fri, 26 Jun 2026 17:24:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwc19uaWtvbGFldiUyRmZhc3Rlci1rbm4tc2VhcmNoLWluLW1hbnRpY29yZS0yLXBhc3MtaG5zdy1iYXRjaGVkLWRpc3RhbmNlcy1hbmQtYXZ4LTUxMi1iODU2MDQ2NDdhYWIlN0NodHRwcyUzQSUyRiUyRm1lZGl1bS5jb20lMkYlNDBzX25pa29sYWV2JTJGZmFzdGVyLWtubi1zZWFyY2gtaW4tbWFudGljb3JlLTItcGFzcy1obnN3LWJhdGNoZWQtZGlzdGFuY2VzLWFuZC1hdngtNTEyLWI4NTYwNDY0N2FhYiU3Q0Zhc3RlciUyMEtOTiUyMHNlYXJjaCUyMGluJTIwTWFudGljb3JlJTNBJTIwMi1wYXNzJTIwSE5TVyUyQyUyMGJhdGNoZWQlMjBkaXN0YW5jZXMlMkMlMjBhbmQlMjBBVlgtNTEyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2ODIyNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAwNCUzQTEzJTNBMjglMjAlMkIwMDAw",
+      "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+      "pubDate": "Fri, 26 Jun 2026 04:13:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
     }
   ]
