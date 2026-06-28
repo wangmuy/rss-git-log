@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-28",
     "newestItemDate": "2026-06-28",
-    "itemCount": 7,
-    "generatedAt": "2026-06-28T04:55:28.309Z"
+    "itemCount": 11,
+    "generatedAt": "2026-06-28T10:36:37.230Z"
   },
   "items": [
     {
@@ -48,6 +48,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa3l1ejAlMkZhbWQtc3RyaXgtaGFsby12bGxtLXRvb2xib3hlcyUyRmJsb2IlMkZtYWluJTJGcmRtYV9jbHVzdGVyJTJGc2V0dXBfZ3VpZGUubWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZreXV6MCUyRmFtZC1zdHJpeC1oYWxvLXZsbG0tdG9vbGJveGVzJTJGYmxvYiUyRm1haW4lMkZyZG1hX2NsdXN0ZXIlMkZzZXR1cF9ndWlkZS5tZCU3Q0FNRCUyMFN0cml4JTIwSGFsbyUyMFJETUElMjBDbHVzdGVyJTIwU2V0dXAlMjBHdWlkZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzAzMjU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMDAlM0E0NiUzQTUyJTIwJTJCMDAwMA",
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
       "pubDate": "Sun, 28 Jun 2026 00:46:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdnNoYWtpdHNraXklMkZhcm1hZGlsbG8lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ2c2hha2l0c2tpeSUyRmFybWFkaWxsbyU3Q0FybWFkaWxsbyUyMCVFMiU4MCU5MyUyMEElMjBETlMlMjBTZXJ2ZXIlMjBpbiUyMEdsZWFtJTIwZm9yJTIwSG9tZWxhYiUyMFVzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA0ODE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMDYlM0EwMCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
+      "pubDate": "Sun, 28 Jun 2026 06:00:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2Zlbm9sbG9zYSUyRmJhc2hibG9nJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2Zlbm9sbG9zYSUyRmJhc2hibG9nJTdDQmFzaGJsb2clMjAlRTIlODAlOTMlMjBhJTIwc2luZ2xlJTIwYmFzaCUyMHNjcmlwdCUyMHRvJTIwY3JlYXRlJTIwYmxvZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwNDQ1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDA0JTNBNDglM0EzMiUyMCUyQjAwMDA",
+      "title": "Bashblog – a single bash script to create blogs",
+      "pubDate": "Sun, 28 Jun 2026 04:48:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYXlhY3Vuem8uY29tJTJGYmxvZyUyRnlvdXItbW92ZS1jaGllZiU3Q2h0dHBzJTNBJTJGJTJGamF5YWN1bnpvLmNvbSUyRmJsb2clMkZ5b3VyLW1vdmUtY2hpZWYlN0NUaGUlMjBiZXN0JTIwcmVzcG9uc2UlMjB0byUyMEFJJTIwc2xvcCUyMGFuZCUyMG9ubGluZSUyMG5vaXNlJTIwaXMlMjBmcm9tJTIwUm9iaW4lMjBXaWxsaWFtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzAzNDUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMDElM0EyOCUzQTEwJTIwJTJCMDAwMA",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "pubDate": "Sun, 28 Jun 2026 01:28:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGUuc2NhcGVnb2F0LmRldiUyRnR1cm5pbmctbXVzaWMtaW50by1hLWNob3JlLWlzLXdoYXQtbWFkZS1tZS1hbi1hcnRpc3QlMkYlN0NodHRwcyUzQSUyRiUyRnRoZS5zY2FwZWdvYXQuZGV2JTJGdHVybmluZy1tdXNpYy1pbnRvLWEtY2hvcmUtaXMtd2hhdC1tYWRlLW1lLWFuLWFydGlzdCUyRiU3Q1R1cm5pbmclMjBtdXNpYyUyMGludG8lMjBhJTIwY2hvcmUlMjBpcyUyMGhvdyUyMEklMjBiZWNhbWUlMjBhJTIwbXVzaWNpYW4lMjAoMjAyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwMzQxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDAxJTNBMjIlM0EzMCUyMCUyQjAwMDA",
+      "title": "Turning music into a chore is how I became a musician (2022)",
+      "pubDate": "Sun, 28 Jun 2026 01:22:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
     }
   ]

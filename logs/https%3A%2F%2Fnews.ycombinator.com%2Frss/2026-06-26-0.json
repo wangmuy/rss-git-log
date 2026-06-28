@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-26",
     "newestItemDate": "2026-06-26",
-    "itemCount": 35,
-    "generatedAt": "2026-06-28T04:55:28.309Z"
+    "itemCount": 38,
+    "generatedAt": "2026-06-28T10:36:37.231Z"
   },
   "items": [
     {
@@ -216,6 +216,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjYWxpZm9ybmlhc2NpZW5jZWNlbnRlci5vcmclMkZhYm91dC11cyUyRnNhbXVlbC1vc2NoaW4tYWlyLWFuZC1zcGFjZS1jZW50ZXIlMkZnby1mb3Itc3RhY2slN0NodHRwcyUzQSUyRiUyRmNhbGlmb3JuaWFzY2llbmNlY2VudGVyLm9yZyUyRmFib3V0LXVzJTJGc2FtdWVsLW9zY2hpbi1haXItYW5kLXNwYWNlLWNlbnRlciUyRmdvLWZvci1zdGFjayU3Q1NwYWNlJTIwU2h1dHRsZSUyMEVuZGVhdm91cidzJTIwMjAtc3RvcnklMjB2ZXJ0aWNhbCUyMGRpc3BsYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY4NjAzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDEyJTNBNDklM0E0OCUyMCUyQjAwMDA",
       "title": "Space Shuttle Endeavour's 20-story vertical display",
       "pubDate": "Fri, 26 Jun 2026 12:49:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBvZ3JhcGhpY2Eub3JnJTJGb24tdHlwb2dyYXBoeSUyRmppbS1wYXJraW5zb24tMTk0MS0yMDI1JTJGJTdDaHR0cHMlM0ElMkYlMkZ0eXBvZ3JhcGhpY2Eub3JnJTJGb24tdHlwb2dyYXBoeSUyRmppbS1wYXJraW5zb24tMTk0MS0yMDI1JTJGJTdDRnJvbSUyMEhhbGxtYXJrJTIwdG8lMjBuZW9uJTIwc2lnbnMlM0ElMjBBJTIwbG9vayUyMGF0JTIwSmltJTIwUGFya2luc29uJ3MlMjBjYXJlZXIlMjBpbiUyMGxldHRlciUyMGFydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njg5NDA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMTclM0EzMiUzQTM1JTIwJTJCMDAwMA",
+      "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+      "pubDate": "Fri, 26 Jun 2026 17:32:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWdudXNyb3NzLmdpdGh1Yi5pbyUyRnBvc3RzJTJGcmVmbGVjdGluZy10by1vcHRpbWlzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFnbnVzcm9zcy5naXRodWIuaW8lMkZwb3N0cyUyRnJlZmxlY3RpbmctdG8tb3B0aW1pc2UlMkYlN0NSZWZsZWN0aW5nJTIwdG8lMjBvcHRpbWlzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njg2ODA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMTQlM0EwNyUzQTQxJTIwJTJCMDAwMA",
+      "title": "Reflecting to optimise",
+      "pubDate": "Fri, 26 Jun 2026 14:07:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGFwZW9mdGhlc3lzdGVtLmNvbSUyRnBvc3RzJTJGMjAyNiUyRjAyJTJGMDMlMkZib3VuZGVkLWNvZ25pdGlvbiU3Q2h0dHBzJTNBJTJGJTJGc2hhcGVvZnRoZXN5c3RlbS5jb20lMkZwb3N0cyUyRjIwMjYlMkYwMiUyRjAzJTJGYm91bmRlZC1jb2duaXRpb24lN0NFbmdpbmVlcmluZyUyMGZvciUyMEJvdW5kZWQlMjBDb2duaXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY4NTk2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDEyJTNBNDElM0EzMSUyMCUyQjAwMDA",
+      "title": "Engineering for Bounded Cognition",
+      "pubDate": "Fri, 26 Jun 2026 12:41:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
     }
   ]
