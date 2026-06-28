@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-28",
     "newestItemDate": "2026-06-28",
-    "itemCount": 11,
-    "generatedAt": "2026-06-28T10:36:37.230Z"
+    "itemCount": 32,
+    "generatedAt": "2026-06-28T17:38:06.787Z"
   },
   "items": [
     {
@@ -72,6 +72,132 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGUuc2NhcGVnb2F0LmRldiUyRnR1cm5pbmctbXVzaWMtaW50by1hLWNob3JlLWlzLXdoYXQtbWFkZS1tZS1hbi1hcnRpc3QlMkYlN0NodHRwcyUzQSUyRiUyRnRoZS5zY2FwZWdvYXQuZGV2JTJGdHVybmluZy1tdXNpYy1pbnRvLWEtY2hvcmUtaXMtd2hhdC1tYWRlLW1lLWFuLWFydGlzdCUyRiU3Q1R1cm5pbmclMjBtdXNpYyUyMGludG8lMjBhJTIwY2hvcmUlMjBpcyUyMGhvdyUyMEklMjBiZWNhbWUlMjBhJTIwbXVzaWNpYW4lMjAoMjAyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwMzQxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDAxJTNBMjIlM0EzMCUyMCUyQjAwMDA",
       "title": "Turning music into a chore is how I became a musician (2022)",
       "pubDate": "Sun, 28 Jun 2026 01:22:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm9sZHZjci5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDYlMkZ3b3JraW5nLWFyb3VuZC1kcmFnb25zLXdpdGgtbGVtb3RlLmh0bWwlN0NodHRwJTNBJTJGJTJGb2xkdmNyLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwNiUyRndvcmtpbmctYXJvdW5kLWRyYWdvbnMtd2l0aC1sZW1vdGUuaHRtbCU3Q1dvcmtpbmclMjBhcm91bmQlMjBkcmFnb25zJTIwd2l0aCUyMHRoZSUyMExlbW90ZSUyMFllZWxvb25nJTIwbGFwdG9wJTIwYW5kJTIwT3BlbkJTRCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA5MTg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTYlM0E1OCUzQTU5JTIwJTJCMDAwMA",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "pubDate": "Sun, 28 Jun 2026 16:58:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmVxdWFsLmNvbSUyRlBlcnNwZWN0aXZlcyUyRkRybUZyZWVBdXRob3JzLmh0bWwlN0NodHRwcyUzQSUyRiUyRmZyZXF1YWwuY29tJTJGUGVyc3BlY3RpdmVzJTJGRHJtRnJlZUF1dGhvcnMuaHRtbCU3Q1Nob3clMjBITiUzQSUyMERSTS1GcmVlJTIwQm9va3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwOTE4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE2JTNBNTglM0E1NiUyMCUyQjAwMDA",
+      "title": "Show HN: DRM-Free Books",
+      "pubDate": "Sun, 28 Jun 2026 16:58:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRvaW5lLmZpJTJGbXJpLWFuYWx5c2lzLXVzaW5nLWNsYXVkZS1jb2RlLW9wdXMlN0NodHRwcyUzQSUyRiUyRmFudG9pbmUuZmklMkZtcmktYW5hbHlzaXMtdXNpbmctY2xhdWRlLWNvZGUtb3B1cyU3Q0klMjB1c2VkJTIwQ2xhdWRlJTIwQ29kZSUyMHRvJTIwZ2V0JTIwYSUyMHNlY29uZCUyMG9waW5pb24lMjBvbiUyMG15JTIwTVJJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDg5NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxNiUzQTM1JTNBMTklMjAlMkIwMDAw",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "pubDate": "Sun, 28 Jun 2026 16:35:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbmN1bHR1cmUuY29tJTJGMjAyMCUyRjEwJTJGZGFpc3VnaS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cub3BlbmN1bHR1cmUuY29tJTJGMjAyMCUyRjEwJTJGZGFpc3VnaS5odG1sJTdDRGFpc3VnaSUyMHRoZSUyMEphcGFuZXNlJTIwVGVjaG5pcXVlJTIwb2YlMjBUcmVlcyUyME91dCUyMG9mJTIwVHJlZXMlMkMlMjBNYWtpbmclMjBFeGFjdCUyMFN0cmFpZ2h0JTIwV29vZCUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA4ODU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTYlM0EyOCUzQTUwJTIwJTJCMDAwMA",
+      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+      "pubDate": "Sun, 28 Jun 2026 16:28:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYxMmdyYW1zb2ZjYXJib24uY29tJTJGcCUyRmFnZW50aWNzLXRlY2gtdGhpbmdzLXRva2VubWF4eGluZyU3Q2h0dHBzJTNBJTJGJTJGMTJncmFtc29mY2FyYm9uLmNvbSUyRnAlMkZhZ2VudGljcy10ZWNoLXRoaW5ncy10b2tlbm1heHhpbmclN0NUb2tlbm1heHhpbmclMjBpcyUyMGRlYWQlMkMlMjBsb25nJTIwbGl2ZSUyMFRva2VubWF4eGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA4Nzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTYlM0EyNCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
+      "pubDate": "Sun, 28 Jun 2026 16:24:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZGlhbW9uZC5tZSUyRjIwMjYlMkYwNiUyRnNvZnR3YXJlLWVuZ2luZWVyaW5nLWluLXRoZS1hZ2Utb2YtYWklMkYlN0NodHRwcyUzQSUyRiUyRmFkaWFtb25kLm1lJTJGMjAyNiUyRjA2JTJGc29mdHdhcmUtZW5naW5lZXJpbmctaW4tdGhlLWFnZS1vZi1haSUyRiU3Q1JlZmxlY3Rpb25zJTIwb24lMjBTb2Z0d2FyZSUyMEVuZ2luZWVyaW5nJTIwaW4lMjB0aGUlMjBBZ2UlMjBvZiUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDg3MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxNiUzQTE3JTNBMzglMjAlMkIwMDAw",
+      "title": "Reflections on Software Engineering in the Age of AI",
+      "pubDate": "Sun, 28 Jun 2026 16:17:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwNiUyRnNwYWNlLXNodXR0bGUtaW8tcHJvY2Vzc29yLWJvYXJkcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwNiUyRnNwYWNlLXNodXR0bGUtaW8tcHJvY2Vzc29yLWJvYXJkcy5odG1sJTdDRXhhbWluaW5nJTIwY2lyY3VpdCUyMGJvYXJkcyUyMGZyb20lMjB0aGUlMjBTcGFjZSUyMFNodXR0bGUncyUyMEklMkZPJTIwUHJvY2Vzc29yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDg3MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxNiUzQTE2JTNBMDclMjAlMkIwMDAw",
+      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+      "pubDate": "Sun, 28 Jun 2026 16:16:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjI1MzEzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjI1MzEzJTdDUHJvZ3JhbW1hYmxlJTIwUHJvYmFiaWxpc3RpYyUyMENvbXB1dGVyJTIwd2l0aCUyMDFNJTIwcC1iaXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDg0OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxNSUzQTU1JTNBMzElMjAlMkIwMDAw",
+      "title": "Programmable Probabilistic Computer with 1M p-bits",
+      "pubDate": "Sun, 28 Jun 2026 15:55:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6YW5hZ3JhbXMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ6YW5hZ3JhbXMuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwWmFuYWdyYW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDgxODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxNSUzQTI2JTNBMTQlMjAlMkIwMDAw",
+      "title": "Show HN: Zanagrams",
+      "pubDate": "Sun, 28 Jun 2026 15:26:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXBlcnNwbGVhc2Uub3JnJTJGd3AlMkYyMDI2JTJGMDYlMkYyNyUyRmNhbGlmb3JuaWEtbGVnaXNsYXR1cmUtYWdyZWVzLXRvLXVwbG9hZC1kcml2ZXJzLWxpY2Vuc2VzLXRvLW5hdGlvbmFsLWRhdGFiYXNlJTJGJTdDaHR0cHMlM0ElMkYlMkZwYXBlcnNwbGVhc2Uub3JnJTJGd3AlMkYyMDI2JTJGMDYlMkYyNyUyRmNhbGlmb3JuaWEtbGVnaXNsYXR1cmUtYWdyZWVzLXRvLXVwbG9hZC1kcml2ZXJzLWxpY2Vuc2VzLXRvLW5hdGlvbmFsLWRhdGFiYXNlJTJGJTdDQ2FsaWZvcm5pYSUyMGxlZ2lzbGF0dXJlJTIwYWdyZWVzJTIwdG8lMjB1cGxvYWQlMjBkcml2ZXIncyUyMGxpY2Vuc2VzJTIwdG8lMjBuYXRpb25hbCUyMGRhdGFiYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDgxMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxNSUzQTIyJTNBNTElMjAlMkIwMDAw",
+      "title": "California legislature agrees to upload driver's licenses to national database",
+      "pubDate": "Sun, 28 Jun 2026 15:22:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JzbmV3cy5jb20lMkZkZXRyb2l0JTJGbmV3cyUyRndvcmtwbGFjZS1ib3VuZGFyaWVzLWFjdC1lbXBsb3llZXMtYWZ0ZXItaG91cnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYnNuZXdzLmNvbSUyRmRldHJvaXQlMkZuZXdzJTJGd29ya3BsYWNlLWJvdW5kYXJpZXMtYWN0LWVtcGxveWVlcy1hZnRlci1ob3VycyUyRiU3Q01pY2hpZ2FuJTIwYmlsbCUyMHdvdWxkJTIwYmFyJTIwZW1wbG95ZXJzJTIwZnJvbSUyMHJlcXVpcmluZyUyMGFmdGVyLWhvdXJzJTIwY29tcyUyMHdpdGglMjB3b3JrZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDc3NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxNCUzQTQ2JTNBMDMlMjAlMkIwMDAw",
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "pubDate": "Sun, 28 Jun 2026 14:46:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWRkaW5nLmNvb2wlMkYyMDI2JTJGMDYlMkZtZW51LWNvbGxlY3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRnB1ZGRpbmcuY29vbCUyRjIwMjYlMkYwNiUyRm1lbnUtY29sbGVjdGlvbiUyRiU3QzVrJTIwUmVzdGF1cmFudCUyME1lbnVzJTJDJTIwWWVhcnMlMjAxODgwLTE5MjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwNzc2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE0JTNBNDQlM0E1NiUyMCUyQjAwMDA",
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "pubDate": "Sun, 28 Jun 2026 14:44:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGF0cmljay1icmV5ZXIuZGUlMkZlbiUyRmRvdWJsZS10aHJlYXQtdG8tcHJpdmF0ZS1jb21tdW5pY2F0aW9ucy11bmRlbW9jcmF0aWMtY2hhdC1jb250cm9sLWJhY2tyb29tLWRlYWxzLWFuZC1pbW1pbmVudC1jb25jZXNzaW9ucy1zcGFyay1yZWxhdW5jaC1vZi1maWdodGNoYXRjb250cm9sLWV1JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGF0cmljay1icmV5ZXIuZGUlMkZlbiUyRmRvdWJsZS10aHJlYXQtdG8tcHJpdmF0ZS1jb21tdW5pY2F0aW9ucy11bmRlbW9jcmF0aWMtY2hhdC1jb250cm9sLWJhY2tyb29tLWRlYWxzLWFuZC1pbW1pbmVudC1jb25jZXNzaW9ucy1zcGFyay1yZWxhdW5jaC1vZi1maWdodGNoYXRjb250cm9sLWV1JTJGJTdDRVUlMjB0byUyMGxlZ2lzbGF0ZSUyMGFib3V0JTIwQ2hhdCUyMENvbnRyb2wlMjBiZWhpbmQlMjBjbG9zZWQlMjBkb29ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA3NzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTQlM0E0MCUzQTEzJTIwJTJCMDAwMA",
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "pubDate": "Sun, 28 Jun 2026 14:40:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW5nYWRnZXQuY29tJTJGMjIwMzAwMCUyRmZsb2NrLWNhbWVyYXMtcmVjb3JkaW5nLWxpY2Vuc2UtcGxhdGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5lbmdhZGdldC5jb20lMkYyMjAzMDAwJTJGZmxvY2stY2FtZXJhcy1yZWNvcmRpbmctbGljZW5zZS1wbGF0ZSUyRiU3Q0Zsb2NrJTIwY2FtZXJhcyUyMHRyYWNrJTIwbW9yZSUyMHRoYW4lMjB5b3VyJTIwbGljZW5zZSUyMHBsYXRlJTJDJTIwYW5kJTIwdGhleSdyZSUyMHNwcmVhZGluZyUyMGZhc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwNzY3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE0JTNBMzUlM0EyNiUyMCUyQjAwMDA",
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "pubDate": "Sun, 28 Jun 2026 14:35:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3Blbi1lbmVyZ3ktdHJhbnNpdGlvbiUyRm9wZW4tdHluZHAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvcGVuLWVuZXJneS10cmFuc2l0aW9uJTJGb3Blbi10eW5kcCU3Q0VVJTIwT3BlbiUyMFNvdXJjZXMlMjBUZW4tWWVhciUyME5ldHdvcmslMjBEZXZlbG9wbWVudCUyMFBsYW5uaW5nJTIwVG9vbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwNzM2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE0JTNBMDUlM0E0NyUyMCUyQjAwMDA",
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "pubDate": "Sun, 28 Jun 2026 14:05:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDYlMkYyOCUyRmdvb2dsZS1saW1pdHMtbWV0YXMtdXNlLW9mLWl0cy1nZW1pbmktYWktbW9kZWxzLWZ0LXJlcG9ydHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNuYmMuY29tJTJGMjAyNiUyRjA2JTJGMjglMkZnb29nbGUtbGltaXRzLW1ldGFzLXVzZS1vZi1pdHMtZ2VtaW5pLWFpLW1vZGVscy1mdC1yZXBvcnRzLmh0bWwlN0NHb29nbGUlMjBsaW1pdHMlMjBNZXRhJ3MlMjB1c2UlMjBvZiUyMGl0cyUyMEdlbWluaSUyMEFJJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDcxMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxMyUzQTMwJTNBMDYlMjAlMkIwMDAw",
+      "title": "Google limits Meta's use of its Gemini AI models",
+      "pubDate": "Sun, 28 Jun 2026 13:30:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGcmFkaW8lMkZpZGVhcyUyRmh1bWJvbGR0LWVkdWNhdGlvbi1zeXN0ZW0tYmlsZHVuZy0xLjcxNzIwOTMlN0NodHRwcyUzQSUyRiUyRnd3dy5jYmMuY2ElMkZyYWRpbyUyRmlkZWFzJTJGaHVtYm9sZHQtZWR1Y2F0aW9uLXN5c3RlbS1iaWxkdW5nLTEuNzE3MjA5MyU3Q1RoZSUyMG9yaWdpbnMlMjBvZiUyMHRoZSUyMHNjaG9vbCUyMHN5c3RlbSUyMGFpbWVkJTIwdG8lMjBwcm9kdWNlJTIwaW5kZXBlbmRlbnQlMkMlMjBjcml0aWNhbCUyMHRoaW5rZXJzJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDY4NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxMiUzQTU1JTNBMzYlMjAlMkIwMDAw",
+      "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
+      "pubDate": "Sun, 28 Jun 2026 12:55:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmVzbHVuYS5vcmclMkZ0aGUtY3VyaW91cy1jYXNlLW9mLXRoZS1kaXNhcHBlYXJpbmctcG9saXNoLXMlMkYlN0NodHRwcyUzQSUyRiUyRmFyZXNsdW5hLm9yZyUyRnRoZS1jdXJpb3VzLWNhc2Utb2YtdGhlLWRpc2FwcGVhcmluZy1wb2xpc2gtcyUyRiU3Q1RoZSUyMGN1cmlvdXMlMjBjYXNlJTIwb2YlMjB0aGUlMjBkaXNhcHBlYXJpbmclMjBQb2xpc2glMjBTJTIwKDIwMTUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDY4MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxMiUzQTQ0JTNBMjQlMjAlMkIwMDAw",
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "pubDate": "Sun, 28 Jun 2026 12:44:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm9jaHVzLWtlbGxlciUyRk1VTVBTJTJGYmxvYiUyRm1haW4lMkZkb2NzJTJGTVVNUFNfUHJpbWVyLmFkb2MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZyb2NodXMta2VsbGVyJTJGTVVNUFMlMkZibG9iJTJGbWFpbiUyRmRvY3MlMkZNVU1QU19QcmltZXIuYWRvYyU3Q1RoZSUyME1VTVBTJTIwNzYlMjBQcmltZXIlMjAlRTIlODAlOTMlMjBhbm5pdmVyc2FyeSUyMGVkaXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwNjc5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDEyJTNBNDElM0E0NSUyMCUyQjAwMDA",
+      "title": "The MUMPS 76 Primer – anniversary edition",
+      "pubDate": "Sun, 28 Jun 2026 12:41:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXglMkZpc3N1ZXMlMkYyODQ3JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXglMkZpc3N1ZXMlMkYyODQ3JTdDQSUyMHdheSUyMHRvJTIwZXhjbHVkZSUyMHNlbnNpdGl2ZSUyMGZpbGVzJTIwaXNzdWUlMjBzdGlsbCUyMG9wZW4lMjBmb3IlMjBPcGVuQUklMjBDb2RleCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA2NzE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTIlM0EyNyUzQTMzJTIwJTJCMDAwMA",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "pubDate": "Sun, 28 Jun 2026 12:27:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDYyNS0wMCUyRiUzRnAlM0QxMTI0NjclN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwNjI1LTAwJTJGJTNGcCUzRDExMjQ2NyU3Q0RMTCUyMHRoYXQlMjB3YXMlMjBub3QlMjBwcmVzZW50JTIwaW4lMjBtZW1vcnklMjBkZXNwaXRlJTIwbm90JTIwYmVpbmclMjBmb3JtYWxseSUyMHVubG9hZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDU5MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAwOSUzQTUzJTNBNTglMjAlMkIwMDAw",
+      "title": "DLL that was not present in memory despite not being formally unloaded",
+      "pubDate": "Sun, 28 Jun 2026 09:53:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
     }
   ]

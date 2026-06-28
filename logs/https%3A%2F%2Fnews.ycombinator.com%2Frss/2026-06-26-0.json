@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-26",
     "newestItemDate": "2026-06-26",
-    "itemCount": 38,
-    "generatedAt": "2026-06-28T10:36:37.231Z"
+    "itemCount": 39,
+    "generatedAt": "2026-06-28T17:38:06.787Z"
   },
   "items": [
     {
@@ -234,6 +234,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaGFwZW9mdGhlc3lzdGVtLmNvbSUyRnBvc3RzJTJGMjAyNiUyRjAyJTJGMDMlMkZib3VuZGVkLWNvZ25pdGlvbiU3Q2h0dHBzJTNBJTJGJTJGc2hhcGVvZnRoZXN5c3RlbS5jb20lMkZwb3N0cyUyRjIwMjYlMkYwMiUyRjAzJTJGYm91bmRlZC1jb2duaXRpb24lN0NFbmdpbmVlcmluZyUyMGZvciUyMEJvdW5kZWQlMjBDb2duaXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY4NTk2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDEyJTNBNDElM0EzMSUyMCUyQjAwMDA",
       "title": "Engineering for Bounded Cognition",
       "pubDate": "Fri, 26 Jun 2026 12:41:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuam9uYXNoaWV0YWxhLnNlJTJGYmxvZyUyRjIwMjYlMkYwNiUyRjI2JTJGZGVzaWduaW5nX2FfcGVyc29uYWxfcGViYmxlX3dhdGNoZmFjZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmpvbmFzaGlldGFsYS5zZSUyRmJsb2clMkYyMDI2JTJGMDYlMkYyNiUyRmRlc2lnbmluZ19hX3BlcnNvbmFsX3BlYmJsZV93YXRjaGZhY2UlMkYlN0NEZXNpZ25pbmclMjBhJTIwUGVyc29uYWwlMjBQZWJibGUlMjBXYXRjaGZhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5MDQ4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDE4JTNBNTMlM0E0MCUyMCUyQjAwMDA",
+      "title": "Designing a Personal Pebble Watchface",
+      "pubDate": "Fri, 26 Jun 2026 18:53:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
     }
   ]
