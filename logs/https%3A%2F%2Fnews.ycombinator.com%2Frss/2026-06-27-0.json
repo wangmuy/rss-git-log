@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-27",
     "newestItemDate": "2026-06-27",
-    "itemCount": 21,
-    "generatedAt": "2026-06-27T17:33:30.021Z"
+    "itemCount": 31,
+    "generatedAt": "2026-06-28T04:55:28.309Z"
   },
   "items": [
     {
@@ -132,6 +132,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZldGh6LmNoJTJGZW4lMkZuZXdzLWFuZC1ldmVudHMlMkZldGgtbmV3cyUyRm5ld3MlMkYyMDI2JTJGMDYlMkZhLW5ldy10eXBlLW9mLXBpeGVsLmh0bWwlN0NodHRwcyUzQSUyRiUyRmV0aHouY2glMkZlbiUyRm5ld3MtYW5kLWV2ZW50cyUyRmV0aC1uZXdzJTJGbmV3cyUyRjIwMjYlMkYwNiUyRmEtbmV3LXR5cGUtb2YtcGl4ZWwuaHRtbCU3Q1Jlc2VhcmNoZXJzJTIwaGF2ZSUyMGRldmVsb3BlZCUyMHBpeGVscyUyMHRoYXQlMjBjYW4lMjBlbWl0JTIwYW5kJTIwYW5hbHlzZSUyMGxpZ2h0JTIwdG9nZXRoZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5NjEyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDA3JTNBNTElM0EyNiUyMCUyQjAwMDA",
       "title": "Researchers have developed pixels that can emit and analyse light together",
       "pubDate": "Sat, 27 Jun 2026 07:51:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZ3YWxydXMtcG9zdGdyZXMtYmFja3Vwcy1pbi1ydXN0JTdDaHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZ3YWxydXMtcG9zdGdyZXMtYmFja3Vwcy1pbi1ydXN0JTdDV0FMLVJVUyUzQSUyMGElMjBSdXN0JTIwUmV3cml0ZSUyMG9mJTIwV0FMLUclMjBmb3IlMjBQb3N0Z3JlU1FMJTIwQmFja3VwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzAyODQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMjMlM0EzMiUzQTU4JTIwJTJCMDAwMA",
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "pubDate": "Sat, 27 Jun 2026 23:32:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmlsYml0LmRlJTJGZG5zLXJlc29sdmVyLWd1aWRlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmV2aWxiaXQuZGUlMkZkbnMtcmVzb2x2ZXItZ3VpZGUuaHRtbCU3Q0Nob29zaW5nJTIwYSUyMFB1YmxpYyUyMEROUyUyMFJlc29sdmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDIyNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAyMiUzQTExJTNBMjglMjAlMkIwMDAw",
+      "title": "Choosing a Public DNS Resolver",
+      "pubDate": "Sat, 27 Jun 2026 22:11:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHN5Y2hvbG9neXRvZGF5LmNvbSUyRmF1JTJGYmxvZyUyRm1vb2QtYnktbWljcm9iZSUyRjIwMjYwNiUyRndoYXQtb3plbXBpYy1kb2VzLXRvLXRoZS1ndXQtYnJhaW4tYXhpcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBzeWNob2xvZ3l0b2RheS5jb20lMkZhdSUyRmJsb2clMkZtb29kLWJ5LW1pY3JvYmUlMkYyMDI2MDYlMkZ3aGF0LW96ZW1waWMtZG9lcy10by10aGUtZ3V0LWJyYWluLWF4aXMlN0NXaGF0JTIwT3plbXBpYyUyMGRvZXMlMjB0byUyMHRoZSUyMGd1dC1icmFpbiUyMGF4aXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwMTk4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDIxJTNBMzQlM0EwNiUyMCUyQjAwMDA",
+      "title": "What Ozempic does to the gut-brain axis",
+      "pubDate": "Sat, 27 Jun 2026 21:34:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2Jyb3dvbHNraS5kZXYlMkZhcnRpY2xlJTJGZW5oYW5jaW5nLXgxMS1hcHBsaWNhdGlvbi1zZWN1cml0eS13aXRoLWx4YyUyRiU3Q2h0dHBzJTNBJTJGJTJGZG9icm93b2xza2kuZGV2JTJGYXJ0aWNsZSUyRmVuaGFuY2luZy14MTEtYXBwbGljYXRpb24tc2VjdXJpdHktd2l0aC1seGMlMkYlN0NFbmhhbmNpbmclMjBYMTElMjBBcHBsaWNhdGlvbiUyMFNlY3VyaXR5JTIwd2l0aCUyMExYQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzAxOTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMjElM0EyNyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Enhancing X11 Application Security with LXC",
+      "pubDate": "Sat, 27 Jun 2026 21:27:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2FnZXJvdW1hZG8lMkZhZHJhZmluaWwlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZrYWdlcm91bWFkbyUyRmFkcmFmaW5pbCU3Q1Nob3clMjBITiUzQSUyMEFkcmFmaW5pbCUyMCVFMiU4MCU5MyUyMGtlZXAlMjBhJTIwbGlkLWNsb3NlZCUyME1hYyUyMGF3YWtlJTIwb25seSUyMHdoaWxlJTIwYWdlbnRzJTIwd29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzAxNTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMjAlM0EzNCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "pubDate": "Sat, 27 Jun 2026 20:34:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcGNyYXdsLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGaXBjcmF3bC5jb20lMkYlN0NJUCUyMENyYXdsJTNBJTIwTGl2aW5nJTIwYXRsYXMlMjBvZiUyMG9wZW4lMjB3ZWJjYW1zJTIwZGlzY292ZXJlZCUyMG9uJTIwdGhlJTIwcHVibGljJTIwaW50ZXJuZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwMDgzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDE5JTNBMDklM0E0OSUyMCUyQjAwMDA",
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "pubDate": "Sat, 27 Jun 2026 19:09:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXVlbmFwaWVyLmNvbSUyRmJsb2clMkZ0b3duc3F1YXJlX3JlbGVhc2UlMkYlN0NodHRwcyUzQSUyRiUyRmNhdWVuYXBpZXIuY29tJTJGYmxvZyUyRnRvd25zcXVhcmVfcmVsZWFzZSUyRiU3Q1R1cm4lMjB5b3VyJTIwc2l0ZSUyMGludG8lMjBhJTIwcGxhY2UlMjBwZW9wbGUlMjBjYW4lMjBidW1wJTIwaW50byUyMGVhY2glMjBvdGhlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk5OTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMTclM0ExMSUzQTIwJTIwJTJCMDAwMA",
+      "title": "Turn your site into a place people can bump into each other",
+      "pubDate": "Sat, 27 Jun 2026 17:11:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGZGlzY29udGludWl0aWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGZGlzY29udGludWl0aWVzJTJGJTdDU3VzcGljaW91cyUyMERpc2NvbnRpbnVpdGllcyUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk4MTUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMTMlM0EzMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Suspicious Discontinuities (2020)",
+      "pubDate": "Sat, 27 Jun 2026 13:32:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNiUyRjI3JTJGYXNpYW4tYWktc3RhcnR1cHMtbGF1bmNoLW15dGhvcy1saWtlLW1vZGVscy1hcy1hbnRocm9waWNzLWV4cG9ydC1iYW4tZHJhZ3Mtb24lMkYlN0NodHRwcyUzQSUyRiUyRnRlY2hjcnVuY2guY29tJTJGMjAyNiUyRjA2JTJGMjclMkZhc2lhbi1haS1zdGFydHVwcy1sYXVuY2gtbXl0aG9zLWxpa2UtbW9kZWxzLWFzLWFudGhyb3BpY3MtZXhwb3J0LWJhbi1kcmFncy1vbiUyRiU3Q0FzaWFuJTIwQUklMjBzdGFydHVwcyUyMGxhdW5jaCUyME15dGhvcy1saWtlJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTc5NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAxMyUzQTEwJTNBMjElMjAlMkIwMDAw",
+      "title": "Asian AI startups launch Mythos-like models",
+      "pubDate": "Sat, 27 Jun 2026 13:10:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXJ2aXMuZGUlMkZwaHlzaWNhbCUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVydmlzLmRlJTJGcGh5c2ljYWwlMkYlN0NUaGUlMjBjYXNlJTIwZm9yJTIwcGh5c2ljYWwlMjBtZWRpYSUyMG93bmVyc2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njk3MzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMTElM0EzMiUzQTEwJTIwJTJCMDAwMA",
+      "title": "The case for physical media ownership",
+      "pubDate": "Sat, 27 Jun 2026 11:32:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
     }
   ]

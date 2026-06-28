@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-24",
     "newestItemDate": "2026-06-24",
-    "itemCount": 46,
-    "generatedAt": "2026-06-27T17:33:30.021Z"
+    "itemCount": 49,
+    "generatedAt": "2026-06-28T04:55:28.309Z"
   },
   "items": [
     {
@@ -282,6 +282,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWRpcmVjdC5jb20lMkZzY2llbmNlJTJGYXJ0aWNsZSUyRnBpaSUyRlMxODc3OTU5WDI2MDAwNDc2JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWRpcmVjdC5jb20lMkZzY2llbmNlJTJGYXJ0aWNsZSUyRnBpaSUyRlMxODc3OTU5WDI2MDAwNDc2JTdDUmVkdWNpbmclMjB0aWNrJTIwZGVuc2l0eSUyMGFsb25nJTIwcmVjcmVhdGlvbmFsJTIwdHJhaWxzJTIwaW4lMjBPdHRhd2ElMkMlMjBDYW5hZGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY2NDA2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI0JTIwSnVuJTIwMjAyNiUyMDE4JTNBNDIlM0ExMiUyMCUyQjAwMDA",
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
       "pubDate": "Wed, 24 Jun 2026 18:42:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGZW52aXJvbm1lbnQlMkYyMDI2JTJGanVuJTJGMjQlMkZ5b3V0dWJlLXZpZGVvLXByb3ZlZC1saWJ5YS1zYW5kLWNhdC1leGlzdC1hb2UlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZlbnZpcm9ubWVudCUyRjIwMjYlMkZqdW4lMkYyNCUyRnlvdXR1YmUtdmlkZW8tcHJvdmVkLWxpYnlhLXNhbmQtY2F0LWV4aXN0LWFvZSU3Q0hvdyUyMGElMjBZb3VUdWJlJTIwdmlkZW8lMjBhY2NpZGVudGFsbHklMjBwcm92ZWQlMjBMaWJ5YSdzJTIwc2FuZCUyMGNhdCUyMGRvZXMlMjBleGlzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjYxMDc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjQlMjBKdW4lMjAyMDI2JTIwMTUlM0EwNCUzQTQzJTIwJTJCMDAwMA",
+      "title": "How a YouTube video accidentally proved Libya's sand cat does exist",
+      "pubDate": "Wed, 24 Jun 2026 15:04:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLXJhZGlvLWNoaXAtZGVzaWduJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLXJhZGlvLWNoaXAtZGVzaWduJTdDQUklMjBsZWFybnMlMjB0aGUlMjAlRTIlODAlOUNkYXJrJTIwYXJ0JUUyJTgwJTlEJTIwb2YlMjBSRklDJTIwZGVzaWduJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NjAwMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNCUyMEp1biUyMDIwMjYlMjAxNCUzQTAyJTNBMTYlMjAlMkIwMDAw",
+      "title": "AI learns the “dark art” of RFIC design",
+      "pubDate": "Wed, 24 Jun 2026 14:02:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrbm9iLm1vbnN0ZXIlMkZob3ctZG8teW91LWtlZXAtd2ViLW1pZGktZnJvbS1jcmFzaGluZy1hLTE5ODMtc3ludGhlc2l6ZXIlN0NodHRwcyUzQSUyRiUyRmtub2IubW9uc3RlciUyRmhvdy1kby15b3Uta2VlcC13ZWItbWlkaS1mcm9tLWNyYXNoaW5nLWEtMTk4My1zeW50aGVzaXplciU3Q0hvdyUyMGRvJTIweW91JTIwa2VlcCUyMFdlYiUyME1JREklMjBmcm9tJTIwY3Jhc2hpbmclMjBhJTIwMTk4MyUyMHN5bnRoZXNpemVyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2NTk1MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNCUyMEp1biUyMDIwMjYlMjAxMyUzQTMxJTNBMTAlMjAlMkIwMDAw",
+      "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
+      "pubDate": "Wed, 24 Jun 2026 13:31:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
     }
   ]
