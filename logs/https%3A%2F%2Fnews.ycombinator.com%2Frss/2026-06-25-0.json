@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-25",
     "newestItemDate": "2026-06-25",
-    "itemCount": 55,
-    "generatedAt": "2026-06-29T05:03:15.905Z"
+    "itemCount": 58,
+    "generatedAt": "2026-06-29T12:44:33.868Z"
   },
   "items": [
     {
@@ -336,6 +336,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbGVwaC1hbHBoYS5jb20lMkZlbiUyRmJsb2clMkZtb2RlbC10cmFpbmluZy1hcy1jb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZhbGVwaC1hbHBoYS5jb20lMkZlbiUyRmJsb2clMkZtb2RlbC10cmFpbmluZy1hcy1jb2RlJTJGJTdDTW9kZWwlMjBUcmFpbmluZyUyMGFzJTIwQ29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjczNDUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjUlMjBKdW4lMjAyMDI2JTIwMTMlM0E1NCUzQTA2JTIwJTJCMDAwMA",
       "title": "Model Training as Code",
       "pubDate": "Thu, 25 Jun 2026 13:54:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG9tYXNkdWxsaWVuLmdpdGh1Yi5pbyUyRmd1aWRlcyUyRmVudHJlcHJlbmV1cnNoaXAlMkYlN0NodHRwcyUzQSUyRiUyRnRob21hc2R1bGxpZW4uZ2l0aHViLmlvJTJGZ3VpZGVzJTJGZW50cmVwcmVuZXVyc2hpcCUyRiU3Q0hhbHZhcidzJTIwR3VpZGUlMjB0byUyMEVudHJlcHJlbmV1cnNoaXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3NDg3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDE1JTNBMjglM0EyNCUyMCUyQjAwMDA",
+      "title": "Halvar's Guide to Entrepreneurship",
+      "pubDate": "Thu, 25 Jun 2026 15:28:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5rZXJkLmlvJTJGMjAyNiUyRjA2JTJGMjQlMkZmZWRlcmF0aW5nLWNsdXN0ZXJzLWZvci16ZXJvLWRvd250aW1lLWt1YmVybmV0ZXMlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZsaW5rZXJkLmlvJTJGMjAyNiUyRjA2JTJGMjQlMkZmZWRlcmF0aW5nLWNsdXN0ZXJzLWZvci16ZXJvLWRvd250aW1lLWt1YmVybmV0ZXMlMkZpbmRleC5odG1sJTdDRmVkZXJhdGluZyUyMENsdXN0ZXJzJTIwZm9yJTIwWmVyby1Eb3dudGltZSUyMEt1YmVybmV0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MzE5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDEzJTNBMzclM0E1MiUyMCUyQjAwMDA",
+      "title": "Federating Clusters for Zero-Downtime Kubernetes",
+      "pubDate": "Thu, 25 Jun 2026 13:37:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGaHlwZXItYnVnJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGaHlwZXItYnVnJTJGJTdDV2UlMjBmb3VuZCUyMGElMjBidWclMjBpbiUyMHRoZSUyMGh5cGVyJTIwSFRUUCUyMGxpYnJhcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MDMxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDA3JTNBNTUlM0E0MCUyMCUyQjAwMDA",
+      "title": "We found a bug in the hyper HTTP library",
+      "pubDate": "Thu, 25 Jun 2026 07:55:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-29",
     "newestItemDate": "2026-06-29",
-    "itemCount": 3,
-    "generatedAt": "2026-06-29T05:03:15.905Z"
+    "itemCount": 7,
+    "generatedAt": "2026-06-29T12:44:33.867Z"
   },
   "items": [
     {
@@ -24,6 +24,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamF5ZnJlZXN0b25lLmNvbSUyRndyaXRpbmclMkZ5b3UtbWlnaHQtbm90LW5lZWQtYS1zZXJ2aWNlLXdvcmtlciUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmpheWZyZWVzdG9uZS5jb20lMkZ3cml0aW5nJTJGeW91LW1pZ2h0LW5vdC1uZWVkLWEtc2VydmljZS13b3JrZXIlMkYlN0NZb3UlMjBtaWdodCUyMG5vdCUyMG5lZWQlMjBhJTIwc2VydmljZSUyMHdvcmtlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzEzNDUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMDAlM0E0OCUzQTE3JTIwJTJCMDAwMA",
       "title": "You might not need a service worker",
       "pubDate": "Mon, 29 Jun 2026 00:48:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3B1c2hhY2suY29tJTJGMjAyNiUyRjA2JTJGMDMlMkZzYW5kaWEtbmF0aW9uYWwtbGFicy1zYTMwMDAtODA4NS1jcHUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcHVzaGFjay5jb20lMkYyMDI2JTJGMDYlMkYwMyUyRnNhbmRpYS1uYXRpb25hbC1sYWJzLXNhMzAwMC04MDg1LWNwdSUyRiU3Q1NhbmRpYSUyME5hdGlvbmFsJTIwTGFicyUyMFNBMzAwMCUyMDgwODUlMjBDUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcxNzI4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDEwJTNBMjAlM0EyNSUyMCUyQjAwMDA",
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "pubDate": "Mon, 29 Jun 2026 10:20:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnByYWdtYXRpY2VuZ2luZWVyLmNvbSUyRnBvbGxlbi10cmllZC10by1yZW1vdmUtbXktYXJ0aWNsZS1hYm91dC1jYWxsdW0tbmVndXMtZmFuY2V5LWFuZC1nb29nbGUtaXMtYXNzaXN0aW5nLXRvLWl0JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnByYWdtYXRpY2VuZ2luZWVyLmNvbSUyRnBvbGxlbi10cmllZC10by1yZW1vdmUtbXktYXJ0aWNsZS1hYm91dC1jYWxsdW0tbmVndXMtZmFuY2V5LWFuZC1nb29nbGUtaXMtYXNzaXN0aW5nLXRvLWl0JTJGJTdDUG9sbGVuJTIwKENFTyUyME5lZ3VzLUZhbmNleSUyQyUyMENUTyUyMFdyaWdodCklMjB0cmllZCUyMHRvJTIwcmVtb3ZlJTIwYXJ0aWNsZSUyQyUyMGFuZCUyMEdvb2dsZSUyMGhlbHBlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE2OTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMDklM0EyOCUzQTA4JTIwJTJCMDAwMA",
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "pubDate": "Mon, 29 Jun 2026 09:28:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjA2JTJGd2h5LWRpZC10aGlzLWpvdXJuYWwtcmV0cmFjdC10d28tMTk0MHMtcGFwZXJzLWJ5LW1heC1wbGFuY2slMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRnNjaWVuY2UlMkYyMDI2JTJGMDYlMkZ3aHktZGlkLXRoaXMtam91cm5hbC1yZXRyYWN0LXR3by0xOTQwcy1wYXBlcnMtYnktbWF4LXBsYW5jayUyRiU3Q1doeSUyMGRpZCUyMHRoaXMlMjBqb3VybmFsJTIwcmV0cmFjdCUyMHR3byUyMDE5NDBzJTIwcGFwZXJzJTIwYnklMjBNYXglMjBQbGFuY2slM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcxNjYzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDA4JTNBNTglM0EwOSUyMCUyQjAwMDA",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "pubDate": "Mon, 29 Jun 2026 08:58:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb2d1bGNhbmNlbGlrJTJGaGVyZHIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvZ3VsY2FuY2VsaWslMkZoZXJkciU3Q0hlcmRyJTNBJTIwQWdlbnQlMjBtdWx0aXBsZXhlciUyMHRoYXQlMjBsaXZlcyUyMGluJTIweW91ciUyMHRlcm1pbmFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTQ4MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAwNCUzQTI3JTNBNDYlMjAlMkIwMDAw",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "pubDate": "Mon, 29 Jun 2026 04:27:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
     }
   ]
