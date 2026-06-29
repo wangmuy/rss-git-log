@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-24",
     "newestItemDate": "2026-06-24",
-    "itemCount": 50,
-    "generatedAt": "2026-06-28T10:36:37.231Z"
+    "itemCount": 51,
+    "generatedAt": "2026-06-29T05:03:15.906Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwb2x5cGFuZS5hcHAlMkZibG9nJTJGZXhwZXJpbWVudGluZy13aXRoLXJhbmRvbS1pbi1jc3MlMkYlN0NodHRwcyUzQSUyRiUyRnBvbHlwYW5lLmFwcCUyRmJsb2clMkZleHBlcmltZW50aW5nLXdpdGgtcmFuZG9tLWluLWNzcyUyRiU3Q0V4cGVyaW1lbnRpbmclMjB3aXRoJTIwUmFuZG9tKCklMjBpbiUyMENTUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjU4OTYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjQlMjBKdW4lMjAyMDI2JTIwMTIlM0E1MSUzQTIxJTIwJTJCMDAwMA",
       "title": "Experimenting with Random() in CSS",
       "pubDate": "Wed, 24 Jun 2026 12:51:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsb3Zlci5jb20lMkZsYW5nJTJGYmlzbWlsbGFoLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cucGxvdmVyLmNvbSUyRmxhbmclMkZiaXNtaWxsYWguaHRtbCU3Q0RlY2lwaGVyaW5nJTIwQmFzbWFsYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NjU3MTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjQlMjBKdW4lMjAyMDI2JTIwMDklM0EwNSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Deciphering Basmala",
+      "pubDate": "Wed, 24 Jun 2026 09:05:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-24-0.json"
     }
   ]

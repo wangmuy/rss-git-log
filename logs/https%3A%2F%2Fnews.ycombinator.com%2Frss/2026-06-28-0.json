@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-28",
     "newestItemDate": "2026-06-28",
-    "itemCount": 32,
-    "generatedAt": "2026-06-28T17:38:06.787Z"
+    "itemCount": 44,
+    "generatedAt": "2026-06-29T05:03:15.905Z"
   },
   "items": [
     {
@@ -198,6 +198,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDYyNS0wMCUyRiUzRnAlM0QxMTI0NjclN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwNjI1LTAwJTJGJTNGcCUzRDExMjQ2NyU3Q0RMTCUyMHRoYXQlMjB3YXMlMjBub3QlMjBwcmVzZW50JTIwaW4lMjBtZW1vcnklMjBkZXNwaXRlJTIwbm90JTIwYmVpbmclMjBmb3JtYWxseSUyMHVubG9hZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDU5MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAwOSUzQTUzJTNBNTglMjAlMkIwMDAw",
       "title": "DLL that was not present in memory despite not being formally unloaded",
       "pubDate": "Sun, 28 Jun 2026 09:53:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNDAxLjA3MDEzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNDAxLjA3MDEzJTdDS25vd2xlZGdlJTIwRGlzdGlsbGF0aW9uJTIwb2YlMjBCbGFjay1Cb3glMjBMYXJnZSUyMExhbmd1YWdlJTIwTW9kZWxzJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTI0MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAyMiUzQTMyJTNBMDQlMjAlMkIwMDAw",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "pubDate": "Sun, 28 Jun 2026 22:32:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSnVzdFZ1Z2clMkZuYW5vZXVsZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZKdXN0VnVnZyUyRm5hbm9ldWxlciU3Q1Nob3clMjBITiUzQSUyME5hbm9FdWxlciUyMCVFMiU4MCU5MyUyMEdQVC0yJTIwc2NhbGUlMjBtb2RlbCUyMGluJTIwcHVyZSUyMEMlMkZDVURBJTIwZnJvbSUyMHNjcmF0Y2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcxMDc3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE5JTNBMzglM0ExNCUyMCUyQjAwMDA",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "pubDate": "Sun, 28 Jun 2026 19:38:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGdG9wNTAwLWF0LWlzYzI2LXdlLWhhdmUtYS1uZXctbnVtYmVyJTdDaHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGdG9wNTAwLWF0LWlzYzI2LXdlLWhhdmUtYS1uZXctbnVtYmVyJTdDVE9QNTAwJTIwYXQlMjBJU0MlRTIlODAlOTkyNiUzQSUyMFdlJTIwaGF2ZSUyMGElMjBOZXclMjBOdW1iZXIlMjAxJTIwU3VwZXJjb21wdXRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzEwNzc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTklM0EzOCUzQTAwJTIwJTJCMDAwMA",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "pubDate": "Sun, 28 Jun 2026 19:38:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbGlicmVwb2RzLW9yZyUyRmxpYnJlcG9kcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmxpYnJlcG9kcy1vcmclMkZsaWJyZXBvZHMlN0NMaWJyZXBvZHMlM0ElMjBBaXJQb2RzJTIwbGliZXJhdGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTAyMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxOCUzQTQ4JTNBNTMlMjAlMkIwMDAw",
+      "title": "Librepods: AirPods liberated",
+      "pubDate": "Sun, 28 Jun 2026 18:48:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW0uc3RhbmZvcmQuZWR1JTJGbWVtb3J5LXByaWNlcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZkYW0uc3RhbmZvcmQuZWR1JTJGbWVtb3J5LXByaWNlcy5odG1sJTdDSGlzdG9yaWNhbCUyMG1lbW9yeSUyMHByaWNlcyUyMDE5NjAtMjAyNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzEwMDkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTglM0EzMiUzQTUzJTIwJTJCMDAwMA",
+      "title": "Historical memory prices 1960-2026",
+      "pubDate": "Sun, 28 Jun 2026 18:32:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZW1ncmVwLmRldiUyRmJsb2clMkYyMDI2JTJGd2UtaGF2ZS1teXRob3MtYXQtaG9tZS1nbG0tNTItYmVhdHMtY2xhdWRlLWluLW91ci1jeWJlci1iZW5jaG1hcmtzJTJGJTdDaHR0cHMlM0ElMkYlMkZzZW1ncmVwLmRldiUyRmJsb2clMkYyMDI2JTJGd2UtaGF2ZS1teXRob3MtYXQtaG9tZS1nbG0tNTItYmVhdHMtY2xhdWRlLWluLW91ci1jeWJlci1iZW5jaG1hcmtzJTJGJTdDR0xNJTIwNS4yJTIwYmVhdHMlMjBDbGF1ZGUlMjBpbiUyMG91ciUyMGJlbmNobWFya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwOTY3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE3JTNBNTAlM0E0NyUyMCUyQjAwMDA",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "pubDate": "Sun, 28 Jun 2026 17:50:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmdsaXNoLmVscGFpcy5jb20lMkZlZHVjYXRpb24lMkYyMDI2LTA2LTI4JTJGYWktZnJhdWQtYXQtYnJvd24tdW5pdmVyc2l0eS1hY2FkZW1pYy1pbnRlZ3JpdHktaXMtYXQtcmlzay5odG1sJTdDaHR0cHMlM0ElMkYlMkZlbmdsaXNoLmVscGFpcy5jb20lMkZlZHVjYXRpb24lMkYyMDI2LTA2LTI4JTJGYWktZnJhdWQtYXQtYnJvd24tdW5pdmVyc2l0eS1hY2FkZW1pYy1pbnRlZ3JpdHktaXMtYXQtcmlzay5odG1sJTdDUHJvZmVzc29yJTIwZGVub3VuY2VzJTIwbWFzcyUyMEFJJTIwZnJhdWQlMjBvbiUyMGFuJTIwZXhhbSUyMGF0JTIwQnJvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwODk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE2JTNBNDElM0ExMiUyMCUyQjAwMDA",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "pubDate": "Sun, 28 Jun 2026 16:41:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbmN1bHR1cmUuY29tJTJGMjAyMCUyRjEwJTJGZGFpc3VnaS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cub3BlbmN1bHR1cmUuY29tJTJGMjAyMCUyRjEwJTJGZGFpc3VnaS5odG1sJTdDRGFpc3VnaSUyQyUyMHRoZSUyMEphcGFuZXNlJTIwdGVjaG5pcXVlJTIwb2YlMjBncm93aW5nJTIwdHJlZXMlMjBvdXQlMjBvZiUyMG90aGVyJTIwdHJlZXMlMjAoMjAyMCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwODg1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE2JTNBMjglM0E1MCUyMCUyQjAwMDA",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "pubDate": "Sun, 28 Jun 2026 16:28:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYxMmdyYW1zb2ZjYXJib24uY29tJTJGcCUyRmFnZW50aWNzLXRlY2gtdGhpbmdzLXRva2VubWF4eGluZyU3Q2h0dHBzJTNBJTJGJTJGMTJncmFtc29mY2FyYm9uLmNvbSUyRnAlMkZhZ2VudGljcy10ZWNoLXRoaW5ncy10b2tlbm1heHhpbmclN0NUb2tlbm1heHhpbmclMjBpcyUyMGRlYWQlMkMlMjBsb25nJTIwbGl2ZSUyMHRva2VubWF4eGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA4Nzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTYlM0EyNCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "pubDate": "Sun, 28 Jun 2026 16:24:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWRkaW5nLmNvb2wlMkYyMDI2JTJGMDYlMkZtZW51LXN0b3J5JTJGJTdDaHR0cHMlM0ElMkYlMkZwdWRkaW5nLmNvb2wlMkYyMDI2JTJGMDYlMkZtZW51LXN0b3J5JTJGJTdDNWslMjBtZW51cyUyMGZyb20lMjB0aGUlMjBOZXclMjBZb3JrJTIwUHVibGljJTIwTGlicmFyeSVFMiU4MCU5OXMlMjBCdXR0b2xwaCUyMENvbGxlY3Rpb24lMjAoMTg4MC0xOTIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzA3NzYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTQlM0E0NCUzQTU2JTIwJTJCMDAwMA",
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "pubDate": "Sun, 28 Jun 2026 14:44:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRmtpZHMtYWN0LXdvdWxkLXJlcXVpcmUtYWdlLWNoZWNrcy1nZXQtb25saW5lJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRmtpZHMtYWN0LXdvdWxkLXJlcXVpcmUtYWdlLWNoZWNrcy1nZXQtb25saW5lJTdDVGhlJTIwS0lEUyUyMEFjdCUyMHdvdWxkJTIwcmVxdWlyZSUyMGFnZSUyMGNoZWNrcyUyMHRvJTIwZ2V0JTIwb25saW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDY1NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxMSUzQTU2JTNBMTYlMjAlMkIwMDAw",
+      "title": "The KIDS Act would require age checks to get online",
+      "pubDate": "Sun, 28 Jun 2026 11:56:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGcmFkaW8lMkZxdWlya3MlMkZtb3JlLWV2aWRlbmNlLW9mLWxpZmUtb24tbWFycy1idXQtc3RpbGwtbm8tbGlmZS0xLjc2NDk2NDUlN0NodHRwcyUzQSUyRiUyRnd3dy5jYmMuY2ElMkZyYWRpbyUyRnF1aXJrcyUyRm1vcmUtZXZpZGVuY2Utb2YtbGlmZS1vbi1tYXJzLWJ1dC1zdGlsbC1uby1saWZlLTEuNzY0OTY0NSU3Q01vcmUlMjBldmlkZW5jZSUyMGlzJTIwY29uc2lzdGVudCUyMHdpdGglMjBwb3NzaWJsZSUyMGFuY2llbnQlMjBsaWZlJTIwb24lMjBNYXJzJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDY1NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxMSUzQTU1JTNBMDglMjAlMkIwMDAw",
+      "title": "More evidence is consistent with possible ancient life on Mars (2025)",
+      "pubDate": "Sun, 28 Jun 2026 11:55:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
     }
   ]
