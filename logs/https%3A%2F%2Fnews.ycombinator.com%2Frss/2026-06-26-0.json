@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-26",
     "newestItemDate": "2026-06-26",
-    "itemCount": 41,
-    "generatedAt": "2026-06-29T05:03:15.905Z"
+    "itemCount": 45,
+    "generatedAt": "2026-06-29T18:26:34.440Z"
   },
   "items": [
     {
@@ -252,6 +252,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZmZWF0dXJlcyUyRjIwMjAtMDYtMjMlMkZnb2xkZW4tZ2Vlc2UtYW5kLXVuaWNvcm5zLWluc2lkZS10aGUtZWNjZW50cmljLXByZXNlbnRhdGlvbnMtb2YtbWFzYXlvc2hpLXNvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJsb29tYmVyZy5jb20lMkZuZXdzJTJGZmVhdHVyZXMlMkYyMDIwLTA2LTIzJTJGZ29sZGVuLWdlZXNlLWFuZC11bmljb3Jucy1pbnNpZGUtdGhlLWVjY2VudHJpYy1wcmVzZW50YXRpb25zLW9mLW1hc2F5b3NoaS1zb24lN0NUaGUlMjBCYWZmbGluZyUyMFdvcmxkJTIwb2YlMjBNYXNheW9zaGklMjBTb24ncyUyMFByZXNlbnRhdGlvbnMlMjAoMjAyMCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY4NDMxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDA5JTNBMTclM0E0NCUyMCUyQjAwMDA",
       "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
       "pubDate": "Fri, 26 Jun 2026 09:17:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpdGNoLmlvJTJGamFtJTJGZGVja2VyLWZhbnRhc3ktY2FtcC0yMDI2JTdDaHR0cHMlM0ElMkYlMkZpdGNoLmlvJTJGamFtJTJGZGVja2VyLWZhbnRhc3ktY2FtcC0yMDI2JTdDRGVja2VyJTIwRmFudGFzeSUyMENhbXAlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2OTMyNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAyMyUzQTE4JTNBMDQlMjAlMkIwMDAw",
+      "title": "Decker Fantasy Camp 2026",
+      "pubDate": "Fri, 26 Jun 2026 23:18:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGY29sbGVjdGlvbiUyRnZlbmljZS1icmlkZ2UtZmlnaHRzJTJGJTdDaHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGY29sbGVjdGlvbiUyRnZlbmljZS1icmlkZ2UtZmlnaHRzJTJGJTdDVmVuZXRpYW4lMjBCcmlkZ2UlMjBCcmF3bHMlMjBpbiUyMDE3dGglMjBhbmQlMjAxOHRoJTIwQ2VudHVyeSUyMEFydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Njg4MzgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjYlMjBKdW4lMjAyMDI2JTIwMTYlM0ExNiUzQTE2JTIwJTJCMDAwMA",
+      "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
+      "pubDate": "Fri, 26 Jun 2026 16:16:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZleHBsb3JpbmctYmV0dGVyLXdheXMuYmVsbHJveS5jb20lMkZoYXNrZWxsLWtvYW4tdHlwZS1jaGVja2VkLW5vbi1lbXB0eS1zdHJpbmdzLmh0bWwlN0NodHRwcyUzQSUyRiUyRmV4cGxvcmluZy1iZXR0ZXItd2F5cy5iZWxscm95LmNvbSUyRmhhc2tlbGwta29hbi10eXBlLWNoZWNrZWQtbm9uLWVtcHR5LXN0cmluZ3MuaHRtbCU3Q1R5cGUtY2hlY2tlZCUyMG5vbi1lbXB0eSUyMHN0cmluZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY4Nzg0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI2JTIwSnVuJTIwMjAyNiUyMDE1JTNBMzAlM0EwMiUyMCUyQjAwMDA",
+      "title": "Type-checked non-empty strings",
+      "pubDate": "Fri, 26 Jun 2026 15:30:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWNhc3NpZm9uaS5pbmZvJTJGYmxvZyUyRmhpa2luZy13aXRoLXdhbGxhY2UlMkYlN0NodHRwcyUzQSUyRiUyRmx1Y2Fzc2lmb25pLmluZm8lMkZibG9nJTJGaGlraW5nLXdpdGgtd2FsbGFjZSUyRiU3Q1dhbGxhY2UlMjB0aGUlMjA2JTIwaW5jaCUyMGYlMkYyLjglMjB0ZWxlc2NvcGUlMkMlMjBidWlsZGluZyUyMGl0JTJDJTIwYW5kJTIwaGlraW5nJTIwd2l0aCUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg2ODM0NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNiUyMEp1biUyMDIwMjYlMjAwNyUzQTI5JTNBMTclMjAlMkIwMDAw",
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "pubDate": "Fri, 26 Jun 2026 07:29:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-26-0.json"
     }
   ]

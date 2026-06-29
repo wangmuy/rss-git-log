@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-29",
     "newestItemDate": "2026-06-29",
-    "itemCount": 7,
-    "generatedAt": "2026-06-29T12:44:33.867Z"
+    "itemCount": 27,
+    "generatedAt": "2026-06-29T18:26:34.440Z"
   },
   "items": [
     {
@@ -48,6 +48,126 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb2d1bGNhbmNlbGlrJTJGaGVyZHIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvZ3VsY2FuY2VsaWslMkZoZXJkciU3Q0hlcmRyJTNBJTIwQWdlbnQlMjBtdWx0aXBsZXhlciUyMHRoYXQlMjBsaXZlcyUyMGluJTIweW91ciUyMHRlcm1pbmFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTQ4MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAwNCUzQTI3JTNBNDYlMjAlMkIwMDAw",
       "title": "Herdr: Agent multiplexer that lives in your terminal",
       "pubDate": "Mon, 29 Jun 2026 04:27:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVlcHJlaW5mb3JjZS1haSUyRk9ybml0aC0xJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVlcHJlaW5mb3JjZS1haSUyRk9ybml0aC0xJTdDT3JuaXRoLTEuMCUzQSUyMHNlbGYtaW1wcm92aW5nJTIwb3Blbi1zb3VyY2UlMjBtb2RlbHMlMjBmb3IlMjBhZ2VudGljJTIwY29kaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjIwNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNyUzQTE2JTNBMTclMjAlMkIwMDAw",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "pubDate": "Mon, 29 Jun 2026 17:16:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRnF3ZW4tMzYtaXMtYXdlc29tZSUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVlc21hLmNvbSUyRmJsb2clMkZxd2VuLTM2LWlzLWF3ZXNvbWUlMkYlN0NRd2VuJTIwMy42JTIwMjdCJTIwaXMlMjB0aGUlMjBzd2VldCUyMHNwb3QlMjBmb3IlMjBsb2NhbCUyMGRldmVsb3BtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjE5MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNyUzQTA1JTNBMTYlMjAlMkIwMDAw",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "pubDate": "Mon, 29 Jun 2026 17:05:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy10by1saWUtYWJvdXQtcmFkaWF0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy10by1saWUtYWJvdXQtcmFkaWF0aW9uJTJGJTdDVGhlJTIwUmFkaWF0aW9uJTIwRXhwb3N1cmUlMjBMaWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcyMTMwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDE2JTNBMjclM0EyNyUyMCUyQjAwMDA",
+      "title": "The Radiation Exposure Lie",
+      "pubDate": "Mon, 29 Jun 2026 16:27:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b3JyZW50ZnJlYWsuY29tJTJGZXVyb3BlYW4taXNwcy13YW50LXJpZ2h0c2hvbGRlcnMtaGVsZC1hY2NvdW50YWJsZS1mb3Itb3ZlcmJsb2NraW5nLWRhbWFnZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdG9ycmVudGZyZWFrLmNvbSUyRmV1cm9wZWFuLWlzcHMtd2FudC1yaWdodHNob2xkZXJzLWhlbGQtYWNjb3VudGFibGUtZm9yLW92ZXJibG9ja2luZy1kYW1hZ2UlMkYlN0NFdXJvcGVhbiUyMElTUHMlMjBXYW50JTIwUmlnaHRzaG9sZGVycyUyMEhlbGQlMjBBY2NvdW50YWJsZSUyMGZvciUyME92ZXJibG9ja2luZyUyMERhbWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzIxMDcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTYlM0EwNyUzQTE1JTIwJTJCMDAwMA",
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "pubDate": "Mon, 29 Jun 2026 16:07:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZqdW4lMkYyOSUyRnN1cHJlbWUtY291cnQtZ2VvZmVuY2Utd2FycmFudHMtY2FzZS1kZWNpc2lvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnVzLW5ld3MlMkYyMDI2JTJGanVuJTJGMjklMkZzdXByZW1lLWNvdXJ0LWdlb2ZlbmNlLXdhcnJhbnRzLWNhc2UtZGVjaXNpb24lN0NVUyUyMFN1cHJlbWUlMjBDb3VydCUyMHJ1bGVzJTIwZ2VvZmVuY2UlMjB3YXJyYW50cyUyMHJlcXVpcmUlMjBjb25zdGl0dXRpb25hbCUyMHByb3RlY3Rpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjA5MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNSUzQTU0JTNBMjQlMjAlMkIwMDAw",
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "pubDate": "Mon, 29 Jun 2026 15:54:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9iYWJseW1hcmN1cy5jb20lMkZibG9ja3MlMkYyMDI2JTJGMDYlMkYyOCUyRm5hdGl2ZS1ncmFwaGljYWwtc2hlbGwtZm9yLVNTSC5odG1sJTdDaHR0cHMlM0ElMkYlMkZwcm9iYWJseW1hcmN1cy5jb20lMkZibG9ja3MlMkYyMDI2JTJGMDYlMkYyOCUyRm5hdGl2ZS1ncmFwaGljYWwtc2hlbGwtZm9yLVNTSC5odG1sJTdDQSUyMG5hdGl2ZSUyMGdyYXBoaWNhbCUyMHNoZWxsJTIwZm9yJTIwU1NIJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjA3NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNSUzQTQyJTNBMTclMjAlMkIwMDAw",
+      "title": "A native graphical shell for SSH",
+      "pubDate": "Mon, 29 Jun 2026 15:42:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodW1waHJpLmVzJTJGYmxvZyUyRldBVGFCb3klMkYlN0NodHRwcyUzQSUyRiUyRmh1bXBocmkuZXMlMkZibG9nJTJGV0FUYUJveSUyRiU3Q1dBVGFCb3klM0ElMjBKSVQtSW5nJTIwR2FtZSUyMEJveSUyMEluc3RydWN0aW9ucyUyMHRvJTIwV0FTTSUyMEJlYXRzJTIwYSUyME5hdGl2ZSUyMEludGVycHJldGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjAxOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNSUzQTAyJTNBMDAlMjAlMkIwMDAw",
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "pubDate": "Mon, 29 Jun 2026 15:02:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBvbGxvLmNvbSUyRmNvbnRlbnQlMkZkYW0lMkZhcG9sbG9hZW0lMkZwZGYlMkZkYWlseS1zcGFyayUyRjIwMjYlMkZqdW4lMkYyOCUyRjA2MjgyNi1NYWc3LnBkZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwb2xsby5jb20lMkZjb250ZW50JTJGZGFtJTJGYXBvbGxvYWVtJTJGcGRmJTJGZGFpbHktc3BhcmslMkYyMDI2JTJGanVuJTJGMjglMkYwNjI4MjYtTWFnNy5wZGYlN0NNYWclMjA3JTIwc3RhcnRpbmclMjB0byUyMHVuZGVycGVyZm9ybSUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE5NTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTQlM0ExMiUzQTU1JTIwJTJCMDAwMA",
+      "title": "Mag 7 starting to underperform [pdf]",
+      "pubDate": "Mon, 29 Jun 2026 14:12:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWV1ZS5hY20ub3JnJTJGZGV0YWlsLmNmbSUzRmlkJTNEMzgxOTA4NCU3Q2h0dHBzJTNBJTJGJTJGcXVldWUuYWNtLm9yZyUyRmRldGFpbC5jZm0lM0ZpZCUzRDM4MTkwODQlN0NZb3UlMjBEb24ndCUyMEtub3clMjBKYWNrJTIwQWJvdXQlMjBGb3JtYWwlMjBWZXJpZmljYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcxOTUyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDE0JTNBMTIlM0EwNSUyMCUyQjAwMDA",
+      "title": "You Don't Know Jack About Formal Verification",
+      "pubDate": "Mon, 29 Jun 2026 14:12:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlc3RvcnMucm9ja2V0bGFiY29ycC5jb20lMkZuZXdzLXJlbGVhc2VzJTJGbmV3cy1yZWxlYXNlLWRldGFpbHMlMkZyb2NrZXQtbGFiLWFjcXVpcmUtaXJpZGl1bS1oaXN0b3JpYy1kZWFsLWNyZWF0aW5nLWZ1bGx5JTdDaHR0cHMlM0ElMkYlMkZpbnZlc3RvcnMucm9ja2V0bGFiY29ycC5jb20lMkZuZXdzLXJlbGVhc2VzJTJGbmV3cy1yZWxlYXNlLWRldGFpbHMlMkZyb2NrZXQtbGFiLWFjcXVpcmUtaXJpZGl1bS1oaXN0b3JpYy1kZWFsLWNyZWF0aW5nLWZ1bGx5JTdDUm9ja2V0bGFiJTIwYWNxdWlyZXMlMjBJcmlkaXVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTk0ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNCUzQTA5JTNBMjQlMjAlMkIwMDAw",
+      "title": "Rocketlab acquires Iridium",
+      "pubDate": "Mon, 29 Jun 2026 14:09:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWNoeW9zLm9yZyUyRmJsb2clMkYyNjA2LWp1bmUtcmVsZWFzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2FjaHlvcy5vcmclMkZibG9nJTJGMjYwNi1qdW5lLXJlbGVhc2UlMkYlN0NDYWNoeU9TJTIwSnVuZSUyMDIwMjYlMjBSZWxlYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTkzNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxMyUzQTU2JTNBNDYlMjAlMkIwMDAw",
+      "title": "CachyOS June 2026 Release",
+      "pubDate": "Mon, 29 Jun 2026 13:56:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmklMkZzdGF0dXMlMkYyMDcxMjc3ODg1NjQ2ODY4NTM2JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmklMkZzdGF0dXMlMkYyMDcxMjc3ODg1NjQ2ODY4NTM2JTdDSW5zdGFncmFtJTIwaXMlMjBpbmNvcnBvcmF0aW5nJTIwdXNlcnMnJTIwcGhvdG9zJTIwaW4lMjBhZHMlMjBmb3IlMjBNZXRhJTIwR2xhc3NlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE5MDI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTMlM0EyNiUzQTM1JTIwJTJCMDAwMA",
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "pubDate": "Mon, 29 Jun 2026 13:26:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2b3hlbG1hbmlwLnNlJTJGMjAyNiUyRjA2JTJGMjglMkZidWlsZGluZy1wcmluY2lwaWEtZm9yLXdpbmRvd3MteHAlMkYlN0NodHRwcyUzQSUyRiUyRnZveGVsbWFuaXAuc2UlMkYyMDI2JTJGMDYlMkYyOCUyRmJ1aWxkaW5nLXByaW5jaXBpYS1mb3Itd2luZG93cy14cCUyRiU3Q0J1aWxkaW5nJTIwUHJpbmNpcGlhJTIwZm9yJTIwV2luZG93cyUyMFhQJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTg5OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxMyUzQTIzJTNBMTklMjAlMkIwMDAw",
+      "title": "Building Principia for Windows XP",
+      "pubDate": "Mon, 29 Jun 2026 13:23:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGxheXN0YXRpb24uY29tJTJGZW4tZ2IlMkZsZWdhbCUyRnBzdmlkZW9jb250ZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGxheXN0YXRpb24uY29tJTJGZW4tZ2IlMkZsZWdhbCUyRnBzdmlkZW9jb250ZW50JTJGJTdDU3R1ZGlvJTIwQ2FuYWwlMjBNb3ZpZXMlMjBwdXJjaGFzZWQlMjBvbiUyMFBsYXlTdGF0aW9uJTIwU3RvcmUlMjByZW1vdmVkJTIwd2l0aG91dCUyMHJlZnVuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE4OTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTMlM0EyMCUzQTE0JTIwJTJCMDAwMA",
+      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+      "pubDate": "Mon, 29 Jun 2026 13:20:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmZXJndXNmaW5uLmNvbSUyRmJsb2clMkZ3aGF0LWhhcHBlbnMtd2hlbi15b3UtcnVuLWEtZ3B1LWtlcm5lbCUyRiU3Q2h0dHBzJTNBJTJGJTJGZmVyZ3VzZmlubi5jb20lMkZibG9nJTJGd2hhdC1oYXBwZW5zLXdoZW4teW91LXJ1bi1hLWdwdS1rZXJuZWwlMkYlN0NXaGF0JTIwaGFwcGVucyUyMHdoZW4lMjB5b3UlMjBydW4lMjBhJTIwQ1VEQSUyMGtlcm5lbCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE4ODYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTMlM0ExMSUzQTA4JTIwJTJCMDAwMA",
+      "title": "What happens when you run a CUDA kernel?",
+      "pubDate": "Mon, 29 Jun 2026 13:11:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aWRhbC5jb20lMkZhaS1wb2xpY3klN0NodHRwcyUzQSUyRiUyRnRpZGFsLmNvbSUyRmFpLXBvbGljeSU3Q1RpZGFsJTIwQUklMjBQb2xpY3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcxODg0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDEzJTNBMDklM0EwMyUyMCUyQjAwMDA",
+      "title": "Tidal AI Policy",
+      "pubDate": "Mon, 29 Jun 2026 13:09:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5zZWRhaWx5LmNvbSUyRmludGVybmF0aW9uYWwlMkYyMDI2JTJGMDYlMkYyOSUyRnNhbXN1bmctc2staHluaXgtbWljcm9uLXN1ZWQtaW4tdXMtb3Zlci1tZW1vcnktcHJpY2UtZml4aW5nJTdDaHR0cHMlM0ElMkYlMkZlbi5zZWRhaWx5LmNvbSUyRmludGVybmF0aW9uYWwlMkYyMDI2JTJGMDYlMkYyOSUyRnNhbXN1bmctc2staHluaXgtbWljcm9uLXN1ZWQtaW4tdXMtb3Zlci1tZW1vcnktcHJpY2UtZml4aW5nJTdDU2Ftc3VuZyUyQyUyMFNLJTIwSHluaXglMkMlMjBNaWNyb24lMjBTdWVkJTIwaW4lMjBVUyUyMG92ZXIlMjBNZW1vcnklMjBQcmljZSUyMEZpeGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE4MTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTElM0E1OCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+      "pubDate": "Mon, 29 Jun 2026 11:58:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4d2xjaGFuLm5ldCUyRjIwMjYlMkZjb21wdXRlci1yb29tJTJGJTdDaHR0cHMlM0ElMkYlMkZhbGV4d2xjaGFuLm5ldCUyRjIwMjYlMkZjb21wdXRlci1yb29tJTJGJTdDUmVidWlsZGluZyUyMHRoZSUyMENvbXB1dGVyJTIwUm9vbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE3OTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTElM0EzNCUzQTM2JTIwJTJCMDAwMA",
+      "title": "Rebuilding the Computer Room",
+      "pubDate": "Mon, 29 Jun 2026 11:34:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXQuc29jaWFsJTJGJTQwbG9zdGdlbiUyRjExNjgyMDU0NjU2ODk0MDM1OCU3Q2h0dHBzJTNBJTJGJTJGZGV0LnNvY2lhbCUyRiU0MGxvc3RnZW4lMkYxMTY4MjA1NDY1Njg5NDAzNTglN0NUaGUlMjBDRU8lMjBvZiUyME11bGx2YWQlMjBpcyUyMHRoZSUyMG1haW4lMjBmaW5hbmNlciUyMG9mJTIwdGhlJTIwU3dlZGlzaCUyMCVDMyU5NnJlYnJvJTIwcGFydHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcxNzQ2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDEwJTNBNDUlM0E1MSUyMCUyQjAwMDA",
+      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "pubDate": "Mon, 29 Jun 2026 10:45:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnByYWdtYXRpY2VuZ2luZWVyLmNvbSUyRnBvbGxlbi10cmllZC10by1yZW1vdmUtbXktYXJ0aWNsZS1hYm91dC1jYWxsdW0tbmVndXMtZmFuY2V5LWFuZC1nb29nbGUtaXMtYXNzaXN0aW5nLXRvLWl0JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnByYWdtYXRpY2VuZ2luZWVyLmNvbSUyRnBvbGxlbi10cmllZC10by1yZW1vdmUtbXktYXJ0aWNsZS1hYm91dC1jYWxsdW0tbmVndXMtZmFuY2V5LWFuZC1nb29nbGUtaXMtYXNzaXN0aW5nLXRvLWl0JTJGJTdDUG9sbGVuJTIwdHJpZWQlMjB0byUyMHJlbW92ZSUyMG15JTIwYXJ0aWNsZSUyMGFuZCUyMEdvb2dsZSUyMGlzJTIwYXNzaXN0aW5nJTIwd2l0aCUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTY5MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAwOSUzQTI4JTNBMDglMjAlMkIwMDAw",
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "pubDate": "Mon, 29 Jun 2026 09:28:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
     }
   ]

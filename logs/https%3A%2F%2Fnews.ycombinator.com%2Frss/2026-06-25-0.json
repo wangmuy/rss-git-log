@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-25",
     "newestItemDate": "2026-06-25",
-    "itemCount": 58,
-    "generatedAt": "2026-06-29T12:44:33.868Z"
+    "itemCount": 59,
+    "generatedAt": "2026-06-29T18:26:34.441Z"
   },
   "items": [
     {
@@ -354,6 +354,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGaHlwZXItYnVnJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGaHlwZXItYnVnJTJGJTdDV2UlMjBmb3VuZCUyMGElMjBidWclMjBpbiUyMHRoZSUyMGh5cGVyJTIwSFRUUCUyMGxpYnJhcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3MDMxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDA3JTNBNTUlM0E0MCUyMCUyQjAwMDA",
       "title": "We found a bug in the hyper HTTP library",
       "pubDate": "Thu, 25 Jun 2026 07:55:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG9tYXN3Yy5jb20lMkZibG9nJTJGdGhlX3JldHVybl9vZl9hb3AuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdGhvbWFzd2MuY29tJTJGYmxvZyUyRnRoZV9yZXR1cm5fb2ZfYW9wLmh0bWwlN0NUaGUlMjBSZXR1cm4lMjBvZiUyMEFzcGVjdCUyME9yaWVudGVkJTIwUHJvZ3JhbW1pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY3OTkwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI1JTIwSnVuJTIwMjAyNiUyMDIyJTNBMTIlM0EzMyUyMCUyQjAwMDA",
+      "title": "The Return of Aspect Oriented Programming",
+      "pubDate": "Thu, 25 Jun 2026 22:12:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-25-0.json"
     }
   ]
