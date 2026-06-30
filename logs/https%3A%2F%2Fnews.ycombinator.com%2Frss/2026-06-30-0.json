@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-30",
     "newestItemDate": "2026-06-30",
-    "itemCount": 11,
-    "generatedAt": "2026-06-30T11:23:13.009Z"
+    "itemCount": 30,
+    "generatedAt": "2026-06-30T18:16:57.781Z"
   },
   "items": [
     {
@@ -72,6 +72,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmaWwtYy5vcmclMkZjb250ZXh0X3N3aXRjaGVzJTdDaHR0cHMlM0ElMkYlMkZmaWwtYy5vcmclMkZjb250ZXh0X3N3aXRjaGVzJTdDTWVtb3J5JTIwU2FmZSUyMENvbnRleHQlMjBTd2l0Y2hpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcyNzE3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDAwJTNBMzglM0ExOSUyMCUyQjAwMDA",
       "title": "Memory Safe Context Switching",
       "pubDate": "Tue, 30 Jun 2026 00:38:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZjbGF1ZGUtc29ubmV0LTUlN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGbmV3cyUyRmNsYXVkZS1zb25uZXQtNSU3Q0NsYXVkZSUyMFNvbm5ldCUyMDUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczNjYwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE3JTNBNTklM0E1MiUyMCUyQjAwMDA",
+      "title": "Claude Sonnet 5",
+      "pubDate": "Tue, 30 Jun 2026 17:59:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYXV0aGllci1sZWNoZXZhbGllci5jb20lMkZyYWRhciU3Q2h0dHBzJTNBJTJGJTJGZ2F1dGhpZXItbGVjaGV2YWxpZXIuY29tJTJGcmFkYXIlN0NJJTIwYnVpbHQlMjBhJTIwbW1XYXZlJTIwbWF0ZXJpYWwlMjBjbGFzc2lmaWNhdGlvbiUyMHJhZGFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzYxMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNyUzQTI5JTNBMzYlMjAlMkIwMDAw",
+      "title": "I built a mmWave material classification radar",
+      "pubDate": "Tue, 30 Jun 2026 17:29:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGcHJvZHVjdCUyRmNsYXVkZS1zY2llbmNlJTdDaHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGcHJvZHVjdCUyRmNsYXVkZS1zY2llbmNlJTdDQ2xhdWRlJTIwU2NpZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzM1NzcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTclM0EwNyUzQTQxJTIwJTJCMDAwMA",
+      "title": "Claude Science",
+      "pubDate": "Tue, 30 Jun 2026 17:07:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnByLm9yZyUyRjIwMjYlMkYwNiUyRjI5JTJGbngtczEtNTg3NTE2MSUyRnN1cHJlbWUtY291cnQtdGFrZXMtc2xlZGdlaGFtbWVyLXRvLW11Y2gtb2YtZmVkZXJhbC1nb3Zlcm5tZW50cy1yZWd1bGF0b3J5LXN0cnVjdHVyZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5wci5vcmclMkYyMDI2JTJGMDYlMkYyOSUyRm54LXMxLTU4NzUxNjElMkZzdXByZW1lLWNvdXJ0LXRha2VzLXNsZWRnZWhhbW1lci10by1tdWNoLW9mLWZlZGVyYWwtZ292ZXJubWVudHMtcmVndWxhdG9yeS1zdHJ1Y3R1cmUlN0NTdXByZW1lJTIwQ291cnQlMjB0YWtlcyUyMHNsZWRnZWhhbW1lciUyMHRvJTIwZmVkZXJhbCUyMHJlZ3VsYXRvcnklMjBzdHJ1Y3R1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczNTc0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE3JTNBMDUlM0E1OCUyMCUyQjAwMDA",
+      "title": "Supreme Court takes sledgehammer to federal regulatory structure",
+      "pubDate": "Tue, 30 Jun 2026 17:05:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bml4LmZvbyUyRnBvc3RzJTJGbGFzdC1wZW9wbGUtd2hvLWtub3ctaG93LWl0LXdvcmtzJTJGJTdDaHR0cHMlM0ElMkYlMkZ1bml4LmZvbyUyRnBvc3RzJTJGbGFzdC1wZW9wbGUtd2hvLWtub3ctaG93LWl0LXdvcmtzJTJGJTdDV2UlMjBBcmUlMjB0aGUlMjBMYXN0JTIwUGVvcGxlJTIwV2hvJTIwS25vdyUyMEhvdyUyMEl0JTIwV29ya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczNTYzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE2JTNBNTklM0EwMCUyMCUyQjAwMDA",
+      "title": "We Are the Last People Who Know How It Works",
+      "pubDate": "Tue, 30 Jun 2026 16:59:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMDc5Mzg1JTJGM2Q3YTU3ZGE1OGI0MWFhOSUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTA3OTM4NSUyRjNkN2E1N2RhNThiNDFhYTklMkYlN0NYc25vdyUyMCUyMnByb3Rlc3R3YXJlJTIyJTIwaW4lMjBEZWJpYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczNTU1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE2JTNBNTQlM0E0MSUyMCUyQjAwMDA",
+      "title": "Xsnow \"protestware\" in Debian",
+      "pubDate": "Tue, 30 Jun 2026 16:54:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZtb2RlbHMlMkZnZW1pbmktaW1hZ2UlMkZmbGFzaC1saXRlJTJGJTdDaHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZtb2RlbHMlMkZnZW1pbmktaW1hZ2UlMkZmbGFzaC1saXRlJTJGJTdDTmFubyUyMEJhbmFuYSUyMDIlMjBMaXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzU0NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNiUzQTQ4JTNBMzclMjAlMkIwMDAw",
+      "title": "Nano Banana 2 Lite",
+      "pubDate": "Tue, 30 Jun 2026 16:48:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNyeXB0by1maXJtcy1oYXZlLXNwZW50LTE4OS1taWxsaW9uLXNvLWZhci0yMDI2LXVzLWVsZWN0aW9uLXJlcG9ydC1zYXlzLTIwMjYtMDYtMzAlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRndvcmxkJTJGY3J5cHRvLWZpcm1zLWhhdmUtc3BlbnQtMTg5LW1pbGxpb24tc28tZmFyLTIwMjYtdXMtZWxlY3Rpb24tcmVwb3J0LXNheXMtMjAyNi0wNi0zMCUyRiU3Q0NyeXB0byUyMGZpcm1zJTIwaGF2ZSUyMHNwZW50JTIwJTI0MTg5TSUyMHNvJTIwZmFyJTIwb24lMjAyMDI2JTIwVVMlMjBlbGVjdGlvbiUyQyUyMHJlcG9ydCUyMHNheXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczNTM3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE2JTNBNDQlM0EzMSUyMCUyQjAwMDA",
+      "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+      "pubDate": "Tue, 30 Jun 2026 16:44:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZoZW5yaWNvLXZpcmdpbmlhLWRhdGFjZW50ZXItZW5lcmd5LWNvc3QtZW1haWwlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy40MDRtZWRpYS5jbyUyRmhlbnJpY28tdmlyZ2luaWEtZGF0YWNlbnRlci1lbmVyZ3ktY29zdC1lbWFpbCUyRiU3Q0NvdW50eSUyMHdpdGglMjAzNyUyMERhdGElMjBDZW50ZXJzJTIwQXNrcyUyMFNjaG9vbHMlMjB0byUyMCdDb25zZXJ2ZSUyMEVsZWN0cmljaXR5JyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzM0Njk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTYlM0EwNSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+      "pubDate": "Tue, 30 Jun 2026 16:05:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZWFsbG8uZGV2JTJGYmxvZyUyRmNsYXVkZS1jb2RlLXByb21wdC1zdGVnYW5vZ3JhcGh5JTdDaHR0cHMlM0ElMkYlMkZ0aGVyZWFsbG8uZGV2JTJGYmxvZyUyRmNsYXVkZS1jb2RlLXByb21wdC1zdGVnYW5vZ3JhcGh5JTdDQ2xhdWRlJTIwQ29kZSUyMElzJTIwU3RlZ2Fub2dyYXBoaWNhbGx5JTIwTWFya2luZyUyMFJlcXVlc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzQzNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNSUzQTQ0JTNBMjQlMjAlMkIwMDAw",
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "pubDate": "Tue, 30 Jun 2026 15:44:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaWJlcnR5c3RyZWV0ZWNvbm9taWNzLm5ld3lvcmtmZWQub3JnJTJGMjAyNiUyRjA2JTJGdGhlLXBvc3QtY292aWQtZGVjbGluZS1pbi10aGUtbGFib3Itc2hhcmUlMkYlN0NodHRwcyUzQSUyRiUyRmxpYmVydHlzdHJlZXRlY29ub21pY3MubmV3eW9ya2ZlZC5vcmclMkYyMDI2JTJGMDYlMkZ0aGUtcG9zdC1jb3ZpZC1kZWNsaW5lLWluLXRoZS1sYWJvci1zaGFyZSUyRiU3Q1RoZSUyMGxhYm9yJTIwc2hhcmUlMjBvZiUyMGluY29tZSUyMGluJTIwdGhlJTIwVVMlMjBpcyUyMGF0JTIwaXRzJTIwbG93ZXN0JTIwcG9zdC13YXIlMjBsZXZlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzM0MjM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTUlM0EzNSUzQTA0JTIwJTJCMDAwMA",
+      "title": "The labor share of income in the US is at its lowest post-war level",
+      "pubDate": "Tue, 30 Jun 2026 15:35:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YWFnLm9yZyUyRmVuJTJGYXJ0aWNsZSUyRndoeS13ZS1tb3ZlZC1vdXItYmx1ZXNreS1kYXRhLWV1cm9za3klMkYlN0NodHRwcyUzQSUyRiUyRndhYWcub3JnJTJGZW4lMkZhcnRpY2xlJTJGd2h5LXdlLW1vdmVkLW91ci1ibHVlc2t5LWRhdGEtZXVyb3NreSUyRiU3Q1dlJTIwbW92ZWQlMjBvdXIlMjBCbHVlc2t5JTIwZGF0YSUyMHRvJTIwRXVyb3NreSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMzOTM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTUlM0ExNyUzQTE0JTIwJTJCMDAwMA",
+      "title": "We moved our Bluesky data to Eurosky",
+      "pubDate": "Tue, 30 Jun 2026 15:17:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW9uYXcuY29tJTJGMjAyNiUyRjA2JTJGMjclMkZoYXZlLXlvdS1yZXN0YXJ0ZWQteW91ci1jb21wdXRlci5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0YW9uYXcuY29tJTJGMjAyNiUyRjA2JTJGMjclMkZoYXZlLXlvdS1yZXN0YXJ0ZWQteW91ci1jb21wdXRlci5odG1sJTdDSGF2ZSUyMFlvdSUyMFJlc3RhcnRlZCUyMFlvdXIlMjBDb21wdXRlciUyMFRoaXMlMjBXZWVrJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzMwNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNCUzQTE1JTNBMjklMjAlMkIwMDAw",
+      "title": "Have You Restarted Your Computer This Week?",
+      "pubDate": "Tue, 30 Jun 2026 14:15:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc25vd2ZsYWtlLmNvbSUyRmVuJTJGYmxvZyUyRmVuZ2luZWVyaW5nJTJGcG9zdGdyZXNxbC0xOS1mZWF0dXJlcy1iZXRhJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc25vd2ZsYWtlLmNvbSUyRmVuJTJGYmxvZyUyRmVuZ2luZWVyaW5nJTJGcG9zdGdyZXNxbC0xOS1mZWF0dXJlcy1iZXRhJTJGJTdDTG9va2luZyUyMEFoZWFkJTIwdG8lMjBQb3N0Z3JlcyUyMDE5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzMwMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNCUzQTE0JTNBMjklMjAlMkIwMDAw",
+      "title": "Looking Ahead to Postgres 19",
+      "pubDate": "Tue, 30 Jun 2026 14:14:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua25vcHBlci5uZXQlMkZrbm9wcGl4JTJGaW5kZXgtZW4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmtub3BwZXIubmV0JTJGa25vcHBpeCUyRmluZGV4LWVuLmh0bWwlN0NLbm9wcGl4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzIwNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxMiUzQTU0JTNBMDElMjAlMkIwMDAw",
+      "title": "Knoppix",
+      "pubDate": "Tue, 30 Jun 2026 12:54:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3V0ZW5iZXJnLm9yZyUyRmVib29rcyUyRjI0NTE4JTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ3V0ZW5iZXJnLm9yZyUyRmVib29rcyUyRjI0NTE4JTdDTWVtb2lycyUyMG9mJTIwRXh0cmFvcmRpbmFyeSUyMFBvcHVsYXIlMjBEZWx1c2lvbnMlMjBhbmQlMjB0aGUlMjBNYWRuZXNzJTIwb2YlMjBDcm93ZHMlMjAoMTg1MiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczMTk4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDEyJTNBNDclM0E1MSUyMCUyQjAwMDA",
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+      "pubDate": "Tue, 30 Jun 2026 12:47:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YWFnLm9yZyUyRmVuJTJGYXJ0aWNsZSUyRmV1cm9wZWFuLWRpZ2l0YWwtaWQtd2FsbGV0cy1hcmUtZ2lmdC1nb29nbGUtYW5kLWFwcGxlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3YWFnLm9yZyUyRmVuJTJGYXJ0aWNsZSUyRmV1cm9wZWFuLWRpZ2l0YWwtaWQtd2FsbGV0cy1hcmUtZ2lmdC1nb29nbGUtYW5kLWFwcGxlJTJGJTdDRXVyb3BlYW4lMjBkaWdpdGFsJTIwSUQlMjB3YWxsZXRzJTIwcmVseSUyMG9uJTIwc2FmZXR5JTIwc2VydmljZXMlMjBvZiUyMEdvb2dsZSUyMGFuZCUyMEFwcGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzA3MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxMCUzQTM2JTNBMjMlMjAlMkIwMDAw",
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "pubDate": "Tue, 30 Jun 2026 10:36:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2b3Nlbi5naXRodWIuaW8lMkZaTFVEQSUyRmJsb2clMkZ6bHVkYS11cGRhdGUtcTFxMi0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZ2b3Nlbi5naXRodWIuaW8lMkZaTFVEQSUyRmJsb2clMkZ6bHVkYS11cGRhdGUtcTFxMi0yMDI2JTJGJTdDWmx1ZGElMjA2JTIwcmVsZWFzZSUyMChydW4lMjB1bm1vZGlmaWVkJTIwQ1VEQSUyMGFwcGxpY2F0aW9ucyUyMG9uJTIwbm9uLU52aWRpYSUyMEdQVXMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzA3MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxMCUzQTM0JTNBMjUlMjAlMkIwMDAw",
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "pubDate": "Tue, 30 Jun 2026 10:34:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dXJpdGFzLm9yZyUyRmFydGljbGUlMkZTMDM3OC01MTIyKDI1KTAwNTcxLTclMkZmdWxsdGV4dCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hdHVyaXRhcy5vcmclMkZhcnRpY2xlJTJGUzAzNzgtNTEyMigyNSkwMDU3MS03JTJGZnVsbHRleHQlN0NFeGVyY2lzZSUyMGludGVuc2l0eSUyMGluZmx1ZW5jZXMlMjBib2R5JTIwY29tcG9zaXRpb24lMjBpbiUyMGhlYWx0aHklMjBvbGRlciUyMGFkdWx0cyUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMwNjk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTAlM0EzMSUzQTAyJTIwJTJCMDAwMA",
+      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+      "pubDate": "Tue, 30 Jun 2026 10:31:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
     }
   ]
