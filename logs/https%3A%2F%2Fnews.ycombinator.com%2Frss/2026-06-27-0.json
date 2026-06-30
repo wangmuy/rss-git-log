@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-27",
     "newestItemDate": "2026-06-27",
-    "itemCount": 32,
-    "generatedAt": "2026-06-28T10:36:37.230Z"
+    "itemCount": 39,
+    "generatedAt": "2026-06-30T04:37:48.491Z"
   },
   "items": [
     {
@@ -198,6 +198,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkb2Jyb3dvbHNraS5kZXYlMkZhcnRpY2xlJTJGZW5oYW5jaW5nLXgxMS1hcHBsaWNhdGlvbi1zZWN1cml0eS13aXRoLWx4YyUyRiU3Q2h0dHBzJTNBJTJGJTJGZG9icm93b2xza2kuZGV2JTJGYXJ0aWNsZSUyRmVuaGFuY2luZy14MTEtYXBwbGljYXRpb24tc2VjdXJpdHktd2l0aC1seGMlMkYlN0NFbmhhbmNpbmclMjB4MTElMjBBcHBsaWNhdGlvbiUyMFNlY3VyaXR5JTIwd2l0aCUyMExYQyUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzAxOTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMjElM0EyNyUzQTM2JTIwJTJCMDAwMA",
       "title": "Enhancing x11 Application Security with LXC (2025)",
       "pubDate": "Sat, 27 Jun 2026 21:27:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjIyMjgzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjIyMjgzJTdDQXBwbGUlMjBOZXVyYWwlMjBFbmdpbmUlM0ElMjBBcmNoaXRlY3R1cmUlMkMlMjBQcm9ncmFtbWluZyUyQyUyMGFuZCUyMFBlcmZvcm1hbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDI4MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNyUyMEp1biUyMDIwMjYlMjAyMyUzQTMwJTNBMTQlMjAlMkIwMDAw",
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "pubDate": "Sat, 27 Jun 2026 23:30:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9uZWNhcnZlci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnN0b25lY2FydmVyLmNvbSUyRiU3Q1dhbHRlciUyMFMuJTIwQXJub2xkJUUyJTgwJTkzU2N1bHB0b3IlMkZTdG9uZSUyMENhcnZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzAyNTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjclMjBKdW4lMjAyMDI2JTIwMjIlM0E0OSUzQTA2JTIwJTJCMDAwMA",
+      "title": "Walter S. Arnold–Sculptor/Stone Carver",
+      "pubDate": "Sat, 27 Jun 2026 22:49:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm9jYy5zZGYub3JnJTJGJTdDaHR0cCUzQSUyRiUyRm9jYy5zZGYub3JnJTJGJTdDT2xkJTIwQ29tcHV0ZXIlMjBDaGFsbGVuZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwMjMyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDIyJTNBMTglM0E1MCUyMCUyQjAwMDA",
+      "title": "Old Computer Challenge",
+      "pubDate": "Sat, 27 Jun 2026 22:18:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJsb2cucm9ndWVhbW9lYmEuY29tJTJGMjAyNiUyRjA2JTJGMjYlMkZmcmVlLXRoZS1pY29ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGd2VibG9nLnJvZ3VlYW1vZWJhLmNvbSUyRjIwMjYlMkYwNiUyRjI2JTJGZnJlZS10aGUtaWNvbnMlMkYlN0NGcmVlJTIwdGhlJTIwSWNvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5ODkwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDE1JTNBMDUlM0ExNyUyMCUyQjAwMDA",
+      "title": "Free the Icons",
+      "pubDate": "Sat, 27 Jun 2026 15:05:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Rlcy5zaGl4aWFuZ3hpLmNvbSUyRmVuJTJGZG9jcyUyRmFwcGVuZGl4JTJGYWxhbi1rYXktb24tb29wJTJGJTdDaHR0cHMlM0ElMkYlMkZub3Rlcy5zaGl4aWFuZ3hpLmNvbSUyRmVuJTJGZG9jcyUyRmFwcGVuZGl4JTJGYWxhbi1rYXktb24tb29wJTJGJTdDQWxhbiUyMEtheSUyMG9uJTIwdGhlJTIwbWVhbmluZyUyMG9mJTIwJTIyb2JqZWN0LW9yaWVudGVkJTIwcHJvZ3JhbW1pbmclMjIlMjAoMjAwMyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5ODc4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDE0JTNBNDklM0EwNSUyMCUyQjAwMDA",
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "pubDate": "Sat, 27 Jun 2026 14:49:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXRmbGl4dGVjaGJsb2cuY29tJTJGaG93LW5ldGZsaXgtc2ltcGxpZmllZC1iYXRjaC1jb21wdXRlLXdpdGgta3VldWUtODc4NjA2ODI2MjljJTdDaHR0cHMlM0ElMkYlMkZuZXRmbGl4dGVjaGJsb2cuY29tJTJGaG93LW5ldGZsaXgtc2ltcGxpZmllZC1iYXRjaC1jb21wdXRlLXdpdGgta3VldWUtODc4NjA2ODI2MjljJTdDTmV0ZmxpeCUyMFNpbXBsaWZpZWQlMjBCYXRjaCUyMENvbXB1dGUlMjB3aXRoJTIwS3VldWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5ODU0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDE0JTNBMjAlM0ExNiUyMCUyQjAwMDA",
+      "title": "Netflix Simplified Batch Compute with Kueue",
+      "pubDate": "Sat, 27 Jun 2026 14:20:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWF0LW1nbSUyRmtiLXByb2xvZyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1hdC1tZ20lMkZrYi1wcm9sb2clN0NLYiUyMCVFMiU4MCU5MyUyMFByb2xvZyUyMEtub3dsZWRnZSUyMEJhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODY5NzU5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI3JTIwSnVuJTIwMjAyNiUyMDEyJTNBMTYlM0EyNyUyMCUyQjAwMDA",
+      "title": "Kb – Prolog Knowledge Base",
+      "pubDate": "Sat, 27 Jun 2026 12:16:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-27-0.json"
     }
   ]
