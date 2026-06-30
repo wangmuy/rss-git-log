@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-30",
     "newestItemDate": "2026-06-30",
-    "itemCount": 4,
-    "generatedAt": "2026-06-30T04:37:48.491Z"
+    "itemCount": 11,
+    "generatedAt": "2026-06-30T11:23:13.009Z"
   },
   "items": [
     {
@@ -30,6 +30,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsb25nY2F0LmNoYXQlMkZibG9nJTJGbG9uZ2NhdC0yLjAlMkYlN0NodHRwcyUzQSUyRiUyRmxvbmdjYXQuY2hhdCUyRmJsb2clMkZsb25nY2F0LTIuMCUyRiU3Q0xvbmdDYXQtMi4wJTJDJTIwYSUyMGxhcmdlLXNjYWxlJTIwTW9FJTIwbW9kZWwlMjB3aXRoJTIwMS42VCUyMHRvdGFsJTIwYW5kJTIwNDhCJTIwQWN0aXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjcxMTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAwMCUzQTMwJTNBMTElMjAlMkIwMDAw",
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "pubDate": "Tue, 30 Jun 2026 00:30:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRnNjaWVuY2UtYW5kLXRlY2hub2xvZ3klMkYyMDI2JTJGMDYlMkYyOSUyRnNob3VsZC1ldmVyeS1iYWJ5cy1kbmEtYmUtc2VxdWVuY2VkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRnNjaWVuY2UtYW5kLXRlY2hub2xvZ3klMkYyMDI2JTJGMDYlMkYyOSUyRnNob3VsZC1ldmVyeS1iYWJ5cy1kbmEtYmUtc2VxdWVuY2VkJTdDU2hvdWxkJTIwZXZlcnklMjBiYWJ5J3MlMjBETkElMjBiZSUyMHNlcXVlbmNlZCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMwOTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTElM0EwMyUzQTMwJTIwJTJCMDAwMA",
+      "title": "Should every baby's DNA be sequenced?",
+      "pubDate": "Tue, 30 Jun 2026 11:03:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA2JTJGc29ueS1lcmFzZXMtZGlnaXRhbC1jb250ZW50LWZyb20tbGlicmFyaWVzLXdlcmUtcmVtaW5kZWQtd2UtZG9udC1vd24td2hhdC13ZS1idXklMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmdhZGdldHMlMkYyMDI2JTJGMDYlMkZzb255LWVyYXNlcy1kaWdpdGFsLWNvbnRlbnQtZnJvbS1saWJyYXJpZXMtd2VyZS1yZW1pbmRlZC13ZS1kb250LW93bi13aGF0LXdlLWJ1eSUyRiU3Q1NvbnklMjBlcmFzZXMlMjBkaWdpdGFsJTIwY29udGVudCUyMGZyb20lMjBsaWJyYXJpZXMlM0IlMjByZW1pbmRlZCUyMHdlJTIwZG9uJ3QlMjBvd24lMjB3aGF0JTIwd2UlMjBidXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczMDkwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDExJTNBMDIlM0ExMCUyMCUyQjAwMDA",
+      "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
+      "pubDate": "Tue, 30 Jun 2026 11:02:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWtyZW0uZ2l0aHViLmlvJTJGcG9zdHMlMkZwYXJzZS1kb250LXZhbGlkYXRlLXR5cGVzY3JpcHQlMkYlN0NodHRwcyUzQSUyRiUyRmNla3JlbS5naXRodWIuaW8lMkZwb3N0cyUyRnBhcnNlLWRvbnQtdmFsaWRhdGUtdHlwZXNjcmlwdCUyRiU3Q1BhcnNlJTJDJTIwRG9uJ3QlMjBWYWxpZGF0ZSUyMCVFMiU4MCU5MyUyMEluJTIwYSUyMExhbmd1YWdlJTIwVGhhdCUyMERvZXNuJ3QlMjBXYW50JTIwWW91JTIwVG8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczMDgxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDEwJTNBNDglM0EyMyUyMCUyQjAwMDA",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "pubDate": "Tue, 30 Jun 2026 10:48:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YWFnLm9yZyUyRmVuJTJGYXJ0aWNsZSUyRmV1cm9wZWFuLWRpZ2l0YWwtaWQtd2FsbGV0cy1hcmUtZ2lmdC1nb29nbGUtYW5kLWFwcGxlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3YWFnLm9yZyUyRmVuJTJGYXJ0aWNsZSUyRmV1cm9wZWFuLWRpZ2l0YWwtaWQtd2FsbGV0cy1hcmUtZ2lmdC1nb29nbGUtYW5kLWFwcGxlJTJGJTdDRXVyb3BlYW4lMjBkaWdpdGFsJTIwSUQlMjB3YWxsZXRzJTIwYXJlJTIwYSUyMGdpZnQlMjB0byUyMEdvb2dsZSUyMGFuZCUyMEFwcGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzA3MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxMCUzQTM2JTNBMjMlMjAlMkIwMDAw",
+      "title": "European digital ID wallets are a gift to Google and Apple",
+      "pubDate": "Tue, 30 Jun 2026 10:36:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dXJpdGFzLm9yZyUyRmFydGljbGUlMkZTMDM3OC01MTIyKDI1KTAwNTcxLTclMkZmdWxsdGV4dCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hdHVyaXRhcy5vcmclMkZhcnRpY2xlJTJGUzAzNzgtNTEyMigyNSkwMDU3MS03JTJGZnVsbHRleHQlN0NFeGVyY2lzZSUyMGludGVuc2l0eSUyMGluZmx1ZW5jZXMlMjBib2R5JTIwY29tcG9zaXRpb24lMjBpbiUyMGhlYWx0aHklMjBvbGRlciUyMGFkdWx0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMwNjk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTAlM0EzMSUzQTAyJTIwJTJCMDAwMA",
+      "title": "Exercise intensity influences body composition in healthy older adults",
+      "pubDate": "Tue, 30 Jun 2026 10:31:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRhcmVzaW5kdXN0cmllcy5jb20lMkZ1cGRhdGVzJTJGYW50YXJlcy1hY2hpZXZlcy1jcml0aWNhbGl0eSU3Q2h0dHBzJTNBJTJGJTJGYW50YXJlc2luZHVzdHJpZXMuY29tJTJGdXBkYXRlcyUyRmFudGFyZXMtYWNoaWV2ZXMtY3JpdGljYWxpdHklN0NBbnRhcmVzJTIwQWNoaWV2ZXMlMjBDcml0aWNhbGl0eSUyMG9mJTIwTWFyay0wJTIwUmVhY3RvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMwMjQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMDklM0ExNSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "pubDate": "Tue, 30 Jun 2026 09:15:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWwtYy5vcmclMkZjb250ZXh0X3N3aXRjaGVzJTdDaHR0cHMlM0ElMkYlMkZmaWwtYy5vcmclMkZjb250ZXh0X3N3aXRjaGVzJTdDTWVtb3J5JTIwU2FmZSUyMENvbnRleHQlMjBTd2l0Y2hpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcyNzE3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDAwJTNBMzglM0ExOSUyMCUyQjAwMDA",
+      "title": "Memory Safe Context Switching",
+      "pubDate": "Tue, 30 Jun 2026 00:38:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
     }
   ]
