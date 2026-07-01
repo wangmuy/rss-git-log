@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-29",
     "newestItemDate": "2026-06-29",
-    "itemCount": 38,
-    "generatedAt": "2026-07-01T11:34:13.038Z"
+    "itemCount": 40,
+    "generatedAt": "2026-07-01T15:44:27.139Z"
   },
   "items": [
     {
@@ -234,6 +234,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbGViZXJnLm5ldCUyRmJsb2clMkZob21lbGFiLW1haW50ZW5hbmNlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmNsZWJlcmcubmV0JTJGYmxvZyUyRmhvbWVsYWItbWFpbnRlbmFuY2UuaHRtbCU3Q0klMjBEb24ndCUyME1haW50YWluJTIwTXklMjBIb21lbGFiJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTk1NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNCUzQTE1JTNBNDAlMjAlMkIwMDAw",
       "title": "I Don't Maintain My Homelab",
       "pubDate": "Mon, 29 Jun 2026 14:15:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcGFuYWx5c2lzdG9vbHMub3JnJTJGSVNDMjYlMkYlN0NodHRwcyUzQSUyRiUyRmZwYW5hbHlzaXN0b29scy5vcmclMkZJU0MyNiUyRiU3Q0NvbXBpbGVyLUFzc2lzdGVkJTIwRmxvYXRpbmctUG9pbnQlMjBFcnJvciUyMEFuYWx5c2lzJTIwYW5kJTIwUHJvZmlsaW5nJTIwd2l0aCUyMEZQQ2hlY2tlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzI2NDA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMjIlM0E1NSUzQTA3JTIwJTJCMDAwMA",
+      "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
+      "pubDate": "Mon, 29 Jun 2026 22:55:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXNrcmF5Lm1lJTJGYmxvZyUyRjIwMjYtMDYtMjctYS1kZWVwLWRpdmUtaW50by1zbWFsbHZlY3Rvci1wdXNoLWJhY2slN0NodHRwcyUzQSUyRiUyRm1hc2tyYXkubWUlMkZibG9nJTJGMjAyNi0wNi0yNy1hLWRlZXAtZGl2ZS1pbnRvLXNtYWxsdmVjdG9yLXB1c2gtYmFjayU3Q0ElMjBkZWVwJTIwZGl2ZSUyMGludG8lMjBTbWFsbFZlY3RvciUzQXB1c2hfYmFjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzIxMzQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTYlM0EzMCUzQTAwJTIwJTJCMDAwMA",
+      "title": "A deep dive into SmallVector:push_back",
+      "pubDate": "Mon, 29 Jun 2026 16:30:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-30",
     "newestItemDate": "2026-06-30",
-    "itemCount": 41,
-    "generatedAt": "2026-07-01T04:56:50.685Z"
+    "itemCount": 42,
+    "generatedAt": "2026-07-01T15:44:27.136Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0YW9uYXcuY29tJTJGMjAyNiUyRjA2JTJGMjclMkZoYXZlLXlvdS1yZXN0YXJ0ZWQteW91ci1jb21wdXRlci5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0YW9uYXcuY29tJTJGMjAyNiUyRjA2JTJGMjclMkZoYXZlLXlvdS1yZXN0YXJ0ZWQteW91ci1jb21wdXRlci5odG1sJTdDSGF2ZSUyMHlvdSUyMHJlc3RhcnRlZCUyMHlvdXIlMjBjb21wdXRlciUyMHRoaXMlMjB3ZWVrJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzMwNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNCUzQTE1JTNBMjklMjAlMkIwMDAw",
       "title": "Have you restarted your computer this week?",
       "pubDate": "Tue, 30 Jun 2026 14:15:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkLWxhbmcub3JnJTJGMjAyNiUyRjA2JTJGc3RhdGljLWxpbmtpbmctc3VwcG9ydC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVkLWxhbmcub3JnJTJGMjAyNiUyRjA2JTJGc3RhdGljLWxpbmtpbmctc3VwcG9ydC5odG1sJTdDUmVkJTIwUHJvZ3JhbW1pbmclMjBMYW5ndWFnZSUzQSUyMFN0YXRpYyUyMGxpbmtpbmclMjBzdXBwb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzI1ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxMyUzQTM2JTNBMjAlMjAlMkIwMDAw",
+      "title": "Red Programming Language: Static linking support",
+      "pubDate": "Tue, 30 Jun 2026 13:36:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
     }
   ]
