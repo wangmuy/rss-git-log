@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-30",
     "newestItemDate": "2026-06-30",
-    "itemCount": 30,
-    "generatedAt": "2026-06-30T18:16:57.781Z"
+    "itemCount": 41,
+    "generatedAt": "2026-07-01T04:56:50.685Z"
   },
   "items": [
     {
@@ -186,6 +186,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dXJpdGFzLm9yZyUyRmFydGljbGUlMkZTMDM3OC01MTIyKDI1KTAwNTcxLTclMkZmdWxsdGV4dCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hdHVyaXRhcy5vcmclMkZhcnRpY2xlJTJGUzAzNzgtNTEyMigyNSkwMDU3MS03JTJGZnVsbHRleHQlN0NFeGVyY2lzZSUyMGludGVuc2l0eSUyMGluZmx1ZW5jZXMlMjBib2R5JTIwY29tcG9zaXRpb24lMjBpbiUyMGhlYWx0aHklMjBvbGRlciUyMGFkdWx0cyUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMwNjk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTAlM0EzMSUzQTAyJTIwJTJCMDAwMA",
       "title": "Exercise intensity influences body composition in healthy older adults (2025)",
       "pubDate": "Tue, 30 Jun 2026 10:31:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkFudGhyb3BpY0FJJTJGc3RhdHVzJTJGMjA3MjEwNjE1MTg5MDgwOTM0MSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZBbnRocm9waWNBSSUyRnN0YXR1cyUyRjIwNzIxMDYxNTE4OTA4MDkzNDElN0NEZXBhcnRtZW50JTIwb2YlMjBDb21tZXJjZSUyMGhhcyUyMGxpZnRlZCUyMGV4cG9ydCUyMGNvbnRyb2xzJTIwb24lMjBDbGF1ZGUlMjBGYWJsZSUyMDUlMjBhbmQlMjBNeXRob3MlMjA1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDA3NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAyMyUzQTU1JTNBMTIlMjAlMkIwMDAw",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "pubDate": "Tue, 30 Jun 2026 23:55:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ29vZ2xlJTJGY29weWJhcmElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZnb29nbGUlMkZjb3B5YmFyYSU3Q0dvb2dsZSUyMGNvcHliYXJhJTNBJTIwbW92aW5nJTIwY29kZSUyMGJldHdlZW4lMjByZXBvc2l0b3JpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc0MDY5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDIzJTNBNDUlM0EzOSUyMCUyQjAwMDA",
+      "title": "Google copybara: moving code between repositories",
+      "pubDate": "Tue, 30 Jun 2026 23:45:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXRhcmkuZnJhbWEuaW8lMkZoYXRhcmklMkZvbmxpbmUlMkZoYXRhcmkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGaGF0YXJpLmZyYW1hLmlvJTJGaGF0YXJpJTJGb25saW5lJTJGaGF0YXJpLmh0bWwlN0NIYXRhcmklMjAlRTIlODAlOTMlMjBPbmxpbmUlMjBBdGFyaSUyMFNUJTJGU1RFJTJGVFQlMkZGYWxjb24lMjBFbXVsYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzQwMTM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMjIlM0EzNCUzQTIzJTIwJTJCMDAwMA",
+      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+      "pubDate": "Tue, 30 Jun 2026 22:34:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGaW50cm9kdWNpbmctdGFiZm0tYS16ZXJvLXNob3QtZm91bmRhdGlvbi1tb2RlbC1mb3ItdGFidWxhci1kYXRhJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGaW50cm9kdWNpbmctdGFiZm0tYS16ZXJvLXNob3QtZm91bmRhdGlvbi1tb2RlbC1mb3ItdGFidWxhci1kYXRhJTJGJTdDVGFiRk0lM0ElMjBBJTIwemVyby1zaG90JTIwZm91bmRhdGlvbiUyMG1vZGVsJTIwZm9yJTIwdGFidWxhciUyMGRhdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczOTkxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDIyJTNBMDglM0EzOCUyMCUyQjAwMDA",
+      "title": "TabFM: A zero-shot foundation model for tabular data",
+      "pubDate": "Tue, 30 Jun 2026 22:08:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaS5tZXRhLmNvbSUyRmJsb2clMkZicmFpbjJxd2VydHktYnJhaW4tYWktaHVtYW4tY29tbXVuaWNhdGlvbiUyRiUzRl9mYl9ub3NjcmlwdCUzRDElN0NodHRwcyUzQSUyRiUyRmFpLm1ldGEuY29tJTJGYmxvZyUyRmJyYWluMnF3ZXJ0eS1icmFpbi1haS1odW1hbi1jb21tdW5pY2F0aW9uJTJGJTNGX2ZiX25vc2NyaXB0JTNEMSU3Q0Zyb20lMjBicmFpbiUyMHdhdmVzJTIwdG8lMjB3b3JkcyUzQSUyMGElMjBuZXclMjBwYXRoJTIwdG8lMjBjb21tdW5pY2F0aW9uJTIwd2l0aG91dCUyMHN1cmdlcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczOTQ2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDIxJTNBMjklM0ExMyUyMCUyQjAwMDA",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "pubDate": "Tue, 30 Jun 2026 21:29:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZ3Jvay5jb20lMkZibG9nJTJGaS1wb3J0ZWQta3ViZXJuZXRlcy10by10aGUtYnJvd3NlciU3Q2h0dHBzJTNBJTJGJTJGbmdyb2suY29tJTJGYmxvZyUyRmktcG9ydGVkLWt1YmVybmV0ZXMtdG8tdGhlLWJyb3dzZXIlN0NJJTIwcG9ydGVkJTIwS3ViZXJuZXRlcyUyMHRvJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzM4OTg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMjAlM0E0OCUzQTM2JTIwJTJCMDAwMA",
+      "title": "I ported Kubernetes to the browser",
+      "pubDate": "Tue, 30 Jun 2026 20:48:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLm1pc3RyYWwuYWklMkZtb2RlbHMlMkZtb2RlbC1jYXJkcyUyRmxlYW5zdHJhbC0xLTUtMjYtMDYlN0NodHRwcyUzQSUyRiUyRmRvY3MubWlzdHJhbC5haSUyRm1vZGVscyUyRm1vZGVsLWNhcmRzJTJGbGVhbnN0cmFsLTEtNS0yNi0wNiU3Q0xlYW5zdHJhbCUyMDEuNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzM4OTM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMjAlM0E0NCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Leanstral 1.5",
+      "pubDate": "Tue, 30 Jun 2026 20:44:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb3JhbmV3czI0LmNvbSUyRjIwMjYlMkYwNiUyRjMwJTJGdG9reW8taGFzLW9ubHktdHdvLWJhcmxleS10ZWEtbWFrZXJzLWFuZC13ZS12aXNpdGVkLW9uZS10by1zZWUtaG93LW11Z2ljaGEtaXMtbWFkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGc29yYW5ld3MyNC5jb20lMkYyMDI2JTJGMDYlMkYzMCUyRnRva3lvLWhhcy1vbmx5LXR3by1iYXJsZXktdGVhLW1ha2Vycy1hbmQtd2UtdmlzaXRlZC1vbmUtdG8tc2VlLWhvdy1tdWdpY2hhLWlzLW1hZGUlMkYlN0NUb2t5byUyMGhhcyUyMG9ubHklMjB0d28lMjBiYXJsZXklMjB0ZWElMjBtYWtlcnMlMkMlMjB3ZSUyMHZpc2l0ZWQlMjBvbmUlMjB0byUyMHNlZSUyMGhvdyUyMG11Z2ljaGElMjBpcyUyMG1hZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczODI2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE5JTNBNDclM0EyNCUyMCUyQjAwMDA",
+      "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+      "pubDate": "Tue, 30 Jun 2026 19:47:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYXV0aGllci1sZWNoZXZhbGllci5jb20lMkZyYWRhciU3Q2h0dHBzJTNBJTJGJTJGZ2F1dGhpZXItbGVjaGV2YWxpZXIuY29tJTJGcmFkYXIlN0NJJTIwYnVpbHQlMjBhJTIwbW1XYXZlJTIwbWF0ZXJpYWwlMjBjbGFzc2lmaWNhdGlvbiUyMHJhZGFyJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzYxMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNyUzQTI5JTNBMzYlMjAlMkIwMDAw",
+      "title": "I built a mmWave material classification radar (2025)",
+      "pubDate": "Tue, 30 Jun 2026 17:29:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZWFsbG8uZGV2JTJGYmxvZyUyRmNsYXVkZS1jb2RlLXByb21wdC1zdGVnYW5vZ3JhcGh5JTdDaHR0cHMlM0ElMkYlMkZ0aGVyZWFsbG8uZGV2JTJGYmxvZyUyRmNsYXVkZS1jb2RlLXByb21wdC1zdGVnYW5vZ3JhcGh5JTdDQ2xhdWRlJTIwQ29kZSUyMGlzJTIwc3RlZ2Fub2dyYXBoaWNhbGx5JTIwbWFya2luZyUyMHJlcXVlc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzQzNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNSUzQTQ0JTNBMjQlMjAlMkIwMDAw",
+      "title": "Claude Code is steganographically marking requests",
+      "pubDate": "Tue, 30 Jun 2026 15:44:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW9uYXcuY29tJTJGMjAyNiUyRjA2JTJGMjclMkZoYXZlLXlvdS1yZXN0YXJ0ZWQteW91ci1jb21wdXRlci5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0YW9uYXcuY29tJTJGMjAyNiUyRjA2JTJGMjclMkZoYXZlLXlvdS1yZXN0YXJ0ZWQteW91ci1jb21wdXRlci5odG1sJTdDSGF2ZSUyMHlvdSUyMHJlc3RhcnRlZCUyMHlvdXIlMjBjb21wdXRlciUyMHRoaXMlMjB3ZWVrJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzMwNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxNCUzQTE1JTNBMjklMjAlMkIwMDAw",
+      "title": "Have you restarted your computer this week?",
+      "pubDate": "Tue, 30 Jun 2026 14:15:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
     }
   ]

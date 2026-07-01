@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-29",
     "newestItemDate": "2026-06-29",
-    "itemCount": 32,
-    "generatedAt": "2026-06-30T04:37:48.491Z"
+    "itemCount": 36,
+    "generatedAt": "2026-07-01T04:56:50.685Z"
   },
   "items": [
     {
@@ -198,6 +198,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZodG14Lm9yZyUyRmVzc2F5cyUyRndvcmtpbmctd2l0aC1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGaHRteC5vcmclMkZlc3NheXMlMkZ3b3JraW5nLXdpdGgtYWklMkYlN0NXb3JraW5nJTIwV2l0aCUyMEFJJTNBJTIwQSUyMGNvbmNyZXRlJTIwZXhhbXBsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzIwMDY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTQlM0E1MyUzQTQxJTIwJTJCMDAwMA",
       "title": "Working With AI: A concrete example",
       "pubDate": "Mon, 29 Jun 2026 14:53:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNyb2RhdGEuY28lMkZibG9nJTJGYW5ub3RhdGluZy1yb2JvdC12aWRlby1zdWJ0YXNrcyU3Q2h0dHBzJTNBJTJGJTJGbWFjcm9kYXRhLmNvJTJGYmxvZyUyRmFubm90YXRpbmctcm9ib3QtdmlkZW8tc3VidGFza3MlN0NTZWdtZW50aW5nJTIwUm9ib3QlMjBWaWRlbyUyMGludG8lMjBBY3Rpb25hYmxlJTIwU3VidGFza3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcyNDI3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDE5JTNBNTIlM0E1MSUyMCUyQjAwMDA",
+      "title": "Segmenting Robot Video into Actionable Subtasks",
+      "pubDate": "Mon, 29 Jun 2026 19:52:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob21lLmNlcm4lMkZjZXJuLWJpZHMtZmFyZXdlbGwtdG8tdGhlLWxoYy1hbmQtZW50ZXJzLWxvbmctc2h1dGRvd24tMyUyRiU3Q2h0dHBzJTNBJTJGJTJGaG9tZS5jZXJuJTJGY2Vybi1iaWRzLWZhcmV3ZWxsLXRvLXRoZS1saGMtYW5kLWVudGVycy1sb25nLXNodXRkb3duLTMlMkYlN0NDRVJOJTIwYmlkcyUyMGZhcmV3ZWxsJTIwdG8lMjB0aGUlMjBMSEMlMjBhbmQlMjBlbnRlcnMlMjBMb25nJTIwU2h1dGRvd24lMjAzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjM0ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxOCUzQTUyJTNBMjUlMjAlMkIwMDAw",
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "pubDate": "Mon, 29 Jun 2026 18:52:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnNhby5kZXYlMkZzdHJ1Y3R1cmFsLWNvcnJlY3RuZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnNhby5kZXYlMkZzdHJ1Y3R1cmFsLWNvcnJlY3RuZXNzJTJGJTdDU3RydWN0dXJhbCUyMENvcnJlY3RuZXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MjI2MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNyUzQTUyJTNBMzklMjAlMkIwMDAw",
+      "title": "Structural Correctness",
+      "pubDate": "Mon, 29 Jun 2026 17:52:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVyYWtzZW4uZGV2JTJGYXJ0aWNsZXMlMkZpbnRlcm5hbHMtb2YtcG9zdGdyZXNxbC1kYi1jbHVzdGVyLWFuZC10YWJsZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5idXJha3Nlbi5kZXYlMkZhcnRpY2xlcyUyRmludGVybmFscy1vZi1wb3N0Z3Jlc3FsLWRiLWNsdXN0ZXItYW5kLXRhYmxlcyU3Q1JlYWRpbmclMjB0aGUlMjBpbnRlcm5hbHMlMjBvZiUyMFBvc3RncmVzJTNBJTIwRGF0YWJhc2UlMjBjbHVzdGVyJTJDJTIwZGF0YWJhc2VzJTJDJTIwYW5kJTIwdGFibGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTg3MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxMiUzQTU5JTNBNDklMjAlMkIwMDAw",
+      "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
+      "pubDate": "Mon, 29 Jun 2026 12:59:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
     }
   ]
