@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-29",
     "newestItemDate": "2026-06-29",
-    "itemCount": 36,
-    "generatedAt": "2026-07-01T04:56:50.685Z"
+    "itemCount": 38,
+    "generatedAt": "2026-07-01T11:34:13.038Z"
   },
   "items": [
     {
@@ -222,6 +222,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVyYWtzZW4uZGV2JTJGYXJ0aWNsZXMlMkZpbnRlcm5hbHMtb2YtcG9zdGdyZXNxbC1kYi1jbHVzdGVyLWFuZC10YWJsZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5idXJha3Nlbi5kZXYlMkZhcnRpY2xlcyUyRmludGVybmFscy1vZi1wb3N0Z3Jlc3FsLWRiLWNsdXN0ZXItYW5kLXRhYmxlcyU3Q1JlYWRpbmclMjB0aGUlMjBpbnRlcm5hbHMlMjBvZiUyMFBvc3RncmVzJTNBJTIwRGF0YWJhc2UlMjBjbHVzdGVyJTJDJTIwZGF0YWJhc2VzJTJDJTIwYW5kJTIwdGFibGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTg3MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxMiUzQTU5JTNBNDklMjAlMkIwMDAw",
       "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
       "pubDate": "Mon, 29 Jun 2026 12:59:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aXRhbGlrLmV0aC5saW1vJTJGZ2VuZXJhbCUyRjIwMjYlMkYwNiUyRjI5JTJGb2JmdXNjYXRpb24xLmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpdGFsaWsuZXRoLmxpbW8lMkZnZW5lcmFsJTJGMjAyNiUyRjA2JTJGMjklMkZvYmZ1c2NhdGlvbjEuaHRtbCU3Q09iZnVzY2F0aW9uJTNBJTIwQnVpbGRpbmclMjB0aGUlMjBmaW5hbCUyMGJvc3MlMjBvZiUyMGNyeXB0b2dyYXBoeSUyMChQYXJ0JTIwSSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcyMTQzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDE2JTNBMzUlM0EyMCUyMCUyQjAwMDA",
+      "title": "Obfuscation: Building the final boss of cryptography (Part I)",
+      "pubDate": "Mon, 29 Jun 2026 16:35:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGViZXJnLm5ldCUyRmJsb2clMkZob21lbGFiLW1haW50ZW5hbmNlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmNsZWJlcmcubmV0JTJGYmxvZyUyRmhvbWVsYWItbWFpbnRlbmFuY2UuaHRtbCU3Q0klMjBEb24ndCUyME1haW50YWluJTIwTXklMjBIb21lbGFiJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTk1NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxNCUzQTE1JTNBNDAlMjAlMkIwMDAw",
+      "title": "I Don't Maintain My Homelab",
+      "pubDate": "Mon, 29 Jun 2026 14:15:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
     }
   ]
