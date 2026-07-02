@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-29",
     "newestItemDate": "2026-06-29",
-    "itemCount": 41,
-    "generatedAt": "2026-07-02T04:33:28.687Z"
+    "itemCount": 46,
+    "generatedAt": "2026-07-02T11:03:08.658Z"
   },
   "items": [
     {
@@ -252,6 +252,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlnbWVzc293aXJlcy5jb20lMkYyMDIxJTJGMTElMkYxMiUyRnRoZS1hbWF6aW5nLWRpc2staWktY29udHJvbGxlci1jYXJkJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmlnbWVzc293aXJlcy5jb20lMkYyMDIxJTJGMTElMkYxMiUyRnRoZS1hbWF6aW5nLWRpc2staWktY29udHJvbGxlci1jYXJkJTJGJTdDVGhlJTIwQXBwbGUlMjBEaXNrJTIwSUklMjBDb250cm9sbGVyJTIwQ2FyZCUyMCgyMDIxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzIzMTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMTglM0EyMyUzQTAyJTIwJTJCMDAwMA",
       "title": "The Apple Disk II Controller Card (2021)",
       "pubDate": "Mon, 29 Jun 2026 18:23:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWl4ZWRicmVhZC5jb20lMkZibG9nJTJGYXN5bW1ldHJpYy1xdWFudCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1peGVkYnJlYWQuY29tJTJGYmxvZyUyRmFzeW1tZXRyaWMtcXVhbnQlN0NBc3ltbWV0cmljJTIwUXVhbnRpemF0aW9uJTNBJTIwTmVhci1Mb3NzbGVzcyUyMFJldHJpZXZhbCUyMHdpdGglMjA5NyUyNSUyMFN0b3JhZ2UlMjBSZWR1Y3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcyNDEyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDE5JTNBNDIlM0ExNSUyMCUyQjAwMDA",
+      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "pubDate": "Mon, 29 Jun 2026 19:42:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFjc2hvbWUlMkZUaGUtV2lzZG9tLW9mLVF1aW5uJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFjc2hvbWUlMkZUaGUtV2lzZG9tLW9mLVF1aW5uJTdDVGhlJTIwV2lzZG9tJTIwb2YlMjBRdWlubiUyMHRoZSUyMEVza2ltbyUyMChBcHBsZSUyMERldmVsb3BlciUyMFRlY2huaWNhbCUyMFN1cHBvcnQlMjBFbmdpbmVlciklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcyMjA5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDE3JTNBMTklM0EwOCUyMCUyQjAwMDA",
+      "title": "The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)",
+      "pubDate": "Mon, 29 Jun 2026 17:19:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4d2xjaGFuLm5ldCUyRjIwMjYlMkZiaW4tY2FsZW5kYXIlMkYlN0NodHRwcyUzQSUyRiUyRmFsZXh3bGNoYW4ubmV0JTJGMjAyNiUyRmJpbi1jYWxlbmRhciUyRiU3Q0NyZWF0aW5nJTIwYSUyMFBlcnNvbmFsaXNlZCUyMEJpbiUyMENhbGVuZGFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MTkyMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOSUyMEp1biUyMDIwMjYlMjAxMyUzQTQ1JTNBMTMlMjAlMkIwMDAw",
+      "title": "Creating a Personalised Bin Calendar",
+      "pubDate": "Mon, 29 Jun 2026 13:45:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9yb250by5jYSUyRmNpdHktZ292ZXJubWVudCUyRmFjY291bnRhYmlsaXR5LW9wZXJhdGlvbnMtY3VzdG9tZXItc2VydmljZSUyRmFjY2Vzcy1jaXR5LWluZm9ybWF0aW9uLW9yLXJlY29yZHMlMkZjaXR5LW9mLXRvcm9udG8tYXJjaGl2ZXMlMkZ3aGF0cy1vbmxpbmUlMkZtYXBzJTJGYWVyaWFsLXBob3RvZ3JhcGhzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9yb250by5jYSUyRmNpdHktZ292ZXJubWVudCUyRmFjY291bnRhYmlsaXR5LW9wZXJhdGlvbnMtY3VzdG9tZXItc2VydmljZSUyRmFjY2Vzcy1jaXR5LWluZm9ybWF0aW9uLW9yLXJlY29yZHMlMkZjaXR5LW9mLXRvcm9udG8tYXJjaGl2ZXMlMkZ3aGF0cy1vbmxpbmUlMkZtYXBzJTJGYWVyaWFsLXBob3RvZ3JhcGhzJTJGJTdDQWVyaWFsJTIwUGhvdG9ncmFwaHMlMjAoMjAxNyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcxODEyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI5JTIwSnVuJTIwMjAyNiUyMDEyJTNBMDElM0EzNCUyMCUyQjAwMDA",
+      "title": "Aerial Photographs (2017)",
+      "pubDate": "Mon, 29 Jun 2026 12:01:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWJpZW5zYW5nbGFyZC5uZXQlMkZrZXlib2FyZHMlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZmYWJpZW5zYW5nbGFyZC5uZXQlMkZrZXlib2FyZHMlMkZpbmRleC5odG1sJTdDTXklMjBGYXZvcml0ZSUyMEtleWJvYXJkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzE0ODg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjklMjBKdW4lMjAyMDI2JTIwMDQlM0E0MSUzQTE4JTIwJTJCMDAwMA",
+      "title": "My Favorite Keyboards",
+      "pubDate": "Mon, 29 Jun 2026 04:41:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-29-0.json"
     }
   ]

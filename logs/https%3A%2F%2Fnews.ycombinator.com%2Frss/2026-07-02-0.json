@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-02",
     "newestItemDate": "2026-07-02",
-    "itemCount": 4,
-    "generatedAt": "2026-07-02T04:33:28.686Z"
+    "itemCount": 11,
+    "generatedAt": "2026-07-02T11:03:08.658Z"
   },
   "items": [
     {
@@ -30,6 +30,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnViYy5jYSUyRjIwMjYlMkYwNiUyRm1ybmEtdmFjY2luZXMtYXJlLXNhZmUtZWZmZWN0aXZlLWFuZC1mdWxsLW9mLXByb21pc2UlMkYlN0NodHRwcyUzQSUyRiUyRm5ld3MudWJjLmNhJTJGMjAyNiUyRjA2JTJGbXJuYS12YWNjaW5lcy1hcmUtc2FmZS1lZmZlY3RpdmUtYW5kLWZ1bGwtb2YtcHJvbWlzZSUyRiU3Q0dsb2JhbCUyMHJldmlldyUyMGNvbmZpcm1zJTIwbVJOQSUyMHZhY2NpbmVzJTIwYXJlJTIwc2FmZSUyQyVDMiVBMGVmZmVjdGl2ZSVDMiVBMGFuZCUyMGZ1bGwlMjBvZiUyMHByb21pc2UlQzIlQTAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1NDk2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDAwJTNBNDAlM0ExNCUyMCUyQjAwMDA",
       "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
       "pubDate": "Thu, 02 Jul 2026 00:40:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRm1ldGEtc2VsbC1leGNlc3MtYWktY29tcHV0aW5nLWNhcGFjaXR5LXZpYS1jbG91ZC1idXNpbmVzcy1ibG9vbWJlcmctbmV3cy1yZXBvcnRzLTIwMjYtMDctMDElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRmJ1c2luZXNzJTJGbWV0YS1zZWxsLWV4Y2Vzcy1haS1jb21wdXRpbmctY2FwYWNpdHktdmlhLWNsb3VkLWJ1c2luZXNzLWJsb29tYmVyZy1uZXdzLXJlcG9ydHMtMjAyNi0wNy0wMSUyRiU3Q01ldGElMjBidWlsZGluZyUyMGNsb3VkJTIwYnVzaW5lc3MlMjB0byUyMHNlbGwlMjBleGNlc3MlMjBBSSUyMGNhcGFjaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTkzMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAxMCUzQTQzJTNBNDElMjAlMkIwMDAw",
+      "title": "Meta building cloud business to sell excess AI capacity",
+      "pubDate": "Thu, 02 Jul 2026 10:43:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDclMkYwMiUyRm52aWRpYS1wbGFucy10by1vZmZlci1zdGFydC11cC1jdXN0b21lcnMtYWNjZXNzLXRvLXJldmVudWUtc2hhcmluZy1kZWFscy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDclMkYwMiUyRm52aWRpYS1wbGFucy10by1vZmZlci1zdGFydC11cC1jdXN0b21lcnMtYWNjZXNzLXRvLXJldmVudWUtc2hhcmluZy1kZWFscy5odG1sJTdDTnZpZGlhJTIwb2ZmZXJzJTIwc3RhcnR1cCUyMGN1c3RvbWVycyUyMGNoYW5jZSUyMHRvJTIwc3dhcCUyMGNvbXB1dGUlMjBwb3dlciUyMGZvciUyMHJldmVudWUlMjBzaGFyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU5MzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTAlM0E0MSUzQTMzJTIwJTJCMDAwMA",
+      "title": "Nvidia offers startup customers chance to swap compute power for revenue share",
+      "pubDate": "Thu, 02 Jul 2026 10:41:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDclMkYwMiUyRmFscGhhYmV0LWdvb2dsZS1hbmRyb2lkLWV1LWFudGl0cnVzdC1maW5lLTQtMS1iaWxsaW9uLWV1cm8tYXBwZWFsLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5jbmJjLmNvbSUyRjIwMjYlMkYwNyUyRjAyJTJGYWxwaGFiZXQtZ29vZ2xlLWFuZHJvaWQtZXUtYW50aXRydXN0LWZpbmUtNC0xLWJpbGxpb24tZXVyby1hcHBlYWwuaHRtbCU3Q0dvb2dsZSUyMGxvc2VzJTIwZmlnaHQlMjBvdmVyJTIwcmVjb3JkJTIwJTI0NC43QiUyMEVVJTIwYW50aXRydXN0JTIwZmluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU4MzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMDglM0EzNCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "pubDate": "Thu, 02 Jul 2026 08:34:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZGJlc3Npcy5zdWJzdGFjay5jb20lMkZwJTJGdGhlLWZhbGwtb2YtdGhlLXRoZW9yZW0tZWNvbm9teSU3Q2h0dHBzJTNBJTJGJTJGZGF2aWRiZXNzaXMuc3Vic3RhY2suY29tJTJGcCUyRnRoZS1mYWxsLW9mLXRoZS10aGVvcmVtLWVjb25vbXklN0NUaGUlMjBGYWxsJTIwb2YlMjB0aGUlMjBUaGVvcmVtJTIwRWNvbm9teSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU4MDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMDglM0EwMSUzQTE1JTIwJTJCMDAwMA",
+      "title": "The Fall of the Theorem Economy",
+      "pubDate": "Thu, 02 Jul 2026 08:01:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJzb3IuY29tJTJGZXZhbHMlN0NodHRwcyUzQSUyRiUyRmN1cnNvci5jb20lMkZldmFscyU3Q0N1cnNvckJlbmNoJTIwMy4xJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTY4NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAwNSUzQTE5JTNBMzQlMjAlMkIwMDAw",
+      "title": "CursorBench 3.1",
+      "pubDate": "Thu, 02 Jul 2026 05:19:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmNoYW5nZWxvZyUyRjIwMjYtMDctMDEta2ltaS1rMi03LWlzLW5vdy1hdmFpbGFibGUtaW4tZ2l0aHViLWNvcGlsb3QlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5ibG9nJTJGY2hhbmdlbG9nJTJGMjAyNi0wNy0wMS1raW1pLWsyLTctaXMtbm93LWF2YWlsYWJsZS1pbi1naXRodWItY29waWxvdCUyRiU3Q0tpbWklMjBLMi43JTIwQ29kZSUyMGlzJTIwZ2VuZXJhbGx5JTIwYXZhaWxhYmxlJTIwaW4lMjBHaXRIdWIlMjBDb3BpbG90JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTY2MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAwNCUzQTMyJTNBNDElMjAlMkIwMDAw",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "pubDate": "Thu, 02 Jul 2026 04:32:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmLWRyb2lkLm9yZyUyRjIwMjYlMkYwNyUyRjAxJTJGYWR2LW1hbHdhcmUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZi1kcm9pZC5vcmclMkYyMDI2JTJGMDclMkYwMSUyRmFkdi1tYWx3YXJlLmh0bWwlN0NBJTIwbmV3JTIwQW5kcm9pZCUyMG1hbHdhcmUlMjBmcm9tJTIwR29vZ2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTU5NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAwMyUzQTAwJTNBMTUlMjAlMkIwMDAw",
+      "title": "A new Android malware from Google",
+      "pubDate": "Thu, 02 Jul 2026 03:00:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     }
   ]
