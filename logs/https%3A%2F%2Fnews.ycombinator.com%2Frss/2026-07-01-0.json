@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-01",
     "newestItemDate": "2026-07-01",
-    "itemCount": 61,
-    "generatedAt": "2026-07-02T04:33:28.687Z"
+    "itemCount": 63,
+    "generatedAt": "2026-07-02T18:04:41.350Z"
   },
   "items": [
     {
@@ -372,6 +372,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhYWthc2guc3Vic3RhY2suY29tJTJGcCUyRndoeS1qZXQtZW5naW5lcy1hcmVudC1tYWRlLWluLWNoaW5hJTdDaHR0cHMlM0ElMkYlMkZhYWthc2guc3Vic3RhY2suY29tJTJGcCUyRndoeS1qZXQtZW5naW5lcy1hcmVudC1tYWRlLWluLWNoaW5hJTdDV2h5JTIwamV0JTIwZW5naW5lcyUyMGFyZW4ndCUyMG1hZGUlMjBpbiUyMENoaW5hJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDA5NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAwMCUzQTIyJTNBNDElMjAlMkIwMDAw",
       "title": "Why jet engines aren't made in China",
       "pubDate": "Wed, 01 Jul 2026 00:22:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG5hcy5vcmclMkZkb2klMkYxMC4xMDczJTJGcG5hcy4yNTM2NTI1MTIzJTdDaHR0cHMlM0ElMkYlMkZ3d3cucG5hcy5vcmclMkZkb2klMkYxMC4xMDczJTJGcG5hcy4yNTM2NTI1MTIzJTdDTmF0dXJhbCUyMGhpc3RvcnklMjBvbiUyMGNhbnZhcyUzQSUyMEJydWVnaGVsJTIwa25ldyUyMGFib3V0JTIwYmlyZC1lYXRpbmclMjBub2N0dWxlJTIwYmF0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzUyMDA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDElMjBKdWwlMjAyMDI2JTIwMTklM0EzNCUzQTAwJTIwJTJCMDAwMA",
+      "title": "Natural history on canvas: Brueghel knew about bird-eating noctule bats",
+      "pubDate": "Wed, 01 Jul 2026 19:34:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZW1zb24lMkZjbGF1ZG9ybyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmVtc29uJTJGY2xhdWRvcm8lN0NTaG93JTIwSE4lM0ElMjBDbGF1ZG9ybyUyQyUyMFBvbW9kb3JvJTIwdGltZXIlMjBlbWJlZGRlZCUyMGluJTIwdGhlJTIwQ2xhdWRlJTIwQ29kZSUyMHN0YXR1c2xpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc0NTU5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAxJTIwSnVsJTIwMjAyNiUyMDEyJTNBMjUlM0EyOSUyMCUyQjAwMDA",
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "pubDate": "Wed, 01 Jul 2026 12:25:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
     }
   ]

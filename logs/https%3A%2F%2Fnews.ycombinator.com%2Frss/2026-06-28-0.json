@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-28",
     "newestItemDate": "2026-06-28",
-    "itemCount": 54,
-    "generatedAt": "2026-07-02T04:33:28.687Z"
+    "itemCount": 56,
+    "generatedAt": "2026-07-02T18:04:41.350Z"
   },
   "items": [
     {
@@ -330,6 +330,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm90eW91cmVtZXJnZW5jeS5jb20lMkZ0cmlhZ2UtaW50cm8lN0NodHRwcyUzQSUyRiUyRnd3dy5ub3R5b3VyZW1lcmdlbmN5LmNvbSUyRnRyaWFnZS1pbnRybyU3Q1RoZSUyMHZpYnJhdGlvbiUyMG9mJTIwdGhlJTIwcGFnZXIlMjBoYXMlMjBhJTIwc291bmQlMjBhbGwlMjBpdHMlMjBvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODcwNzk3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI4JTIwSnVuJTIwMjAyNiUyMDE1JTNBMDYlM0E0MyUyMCUyQjAwMDA",
       "title": "The vibration of the pager has a sound all its own",
       "pubDate": "Sun, 28 Jun 2026 15:06:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZWRuYXJzLm1lJTJGYmxvZyUyRndpbnBlLWhhcm5lc3MlN0NodHRwcyUzQSUyRiUyRmJlZG5hcnMubWUlMkZibG9nJTJGd2lucGUtaGFybmVzcyU3Q1dpblBFJTIwYXMlMjBhJTIwc3RhdGVsZXNzJTIwaGFybmVzcyUyMGZvciUyMFdpbmRvd3MlMjBkcml2ZXIlMjB0ZXN0aW5nJTIwYW5kJTIwZnV6emluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzEwNTM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjglMjBKdW4lMjAyMDI2JTIwMTklM0ExNyUzQTQyJTIwJTJCMDAwMA",
+      "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+      "pubDate": "Sun, 28 Jun 2026 19:17:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWN0b3JpYW1ldHJpY3MuY29tJTJGYmxvZyUyRnZpY3RvcmlhbG9ncy1pbnRlcm5hbHMtY29sdW1uYXItc3RvcmFnZS1vbi1kaXNrJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdmljdG9yaWFtZXRyaWNzLmNvbSUyRmJsb2clMkZ2aWN0b3JpYWxvZ3MtaW50ZXJuYWxzLWNvbHVtbmFyLXN0b3JhZ2Utb24tZGlzayUyRmluZGV4Lmh0bWwlN0NIb3clMjBWaWN0b3JpYUxvZ3MlMjBTdG9yZXMlMjBZb3VyJTIwTG9ncyUyMGluJTIwYSUyMENvbHVtbmFyJTIwTGF5b3V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MDY4MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyOCUyMEp1biUyMDIwMjYlMjAxMiUzQTQ2JTNBMjAlMjAlMkIwMDAw",
+      "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout",
+      "pubDate": "Sun, 28 Jun 2026 12:46:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-28-0.json"
     }
   ]

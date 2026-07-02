@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-02",
     "newestItemDate": "2026-07-02",
-    "itemCount": 11,
-    "generatedAt": "2026-07-02T11:03:08.658Z"
+    "itemCount": 30,
+    "generatedAt": "2026-07-02T18:04:41.349Z"
   },
   "items": [
     {
@@ -71,6 +71,120 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZmLWRyb2lkLm9yZyUyRjIwMjYlMkYwNyUyRjAxJTJGYWR2LW1hbHdhcmUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZi1kcm9pZC5vcmclMkYyMDI2JTJGMDclMkYwMSUyRmFkdi1tYWx3YXJlLmh0bWwlN0NBJTIwbmV3JTIwQW5kcm9pZCUyMG1hbHdhcmUlMjBmcm9tJTIwR29vZ2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTU5NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAwMyUzQTAwJTNBMTUlMjAlMkIwMDAw",
       "title": "A new Android malware from Google",
+      "pubDate": "Thu, 02 Jul 2026 03:00:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb2Vvbm1hcmdpbi5zdWJzdGFjay5jb20lMkZwJTJGdGhlLXVzLWdvdmVybm1lbnQtaXMtbm93LWEtc2hhcmVob2xkZXIlN0NodHRwcyUzQSUyRiUyRm1vZW9ubWFyZ2luLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtdXMtZ292ZXJubWVudC1pcy1ub3ctYS1zaGFyZWhvbGRlciU3Q1RoZSUyMFVTJTIwR292ZXJubWVudCUyMElzJTIwTm93JTIwYSUyMFNoYXJlaG9sZGVyJTIwaW4lMjAyNiUyMENvbXBhbmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYzODY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTYlM0EyOSUzQTEzJTIwJTJCMDAwMA",
+      "title": "The US Government Is Now a Shareholder in 26 Companies",
+      "pubDate": "Thu, 02 Jul 2026 16:29:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoc3RvZG9uLnh5eiUyRiU0MGlibGVjaCUyRjExNjc2OTUwMjc0OTE0MjQzOCU3Q2h0dHBzJTNBJTJGJTJGbWF0aHN0b2Rvbi54eXolMkYlNDBpYmxlY2glMkYxMTY3Njk1MDI3NDkxNDI0MzglN0NTaW5jZSUyMExpbnV4JTIwNi45JTJDJTIwTFVLUyUyMHN1c3BlbmQlMjBzdG9wcGVkJTIwd2lwaW5nJTIwZGlzay1lbmNyeXB0aW9uJTIwa2V5cyUyMGZyb20lMjBtZW1vcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2MzAzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDE1JTNBMjUlM0ExNiUyMCUyQjAwMDA",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "pubDate": "Thu, 02 Jul 2026 15:25:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYW51ZmFjdC5jb20lN0NodHRwcyUzQSUyRiUyRm1hbnVmYWN0LmNvbSUyRiU3Q0xhdW5jaCUyMEhOJTNBJTIwTWFudWZhY3QlMjAoWUMlMjBTMjUpJTIwJUUyJTgwJTkzJTIwTUNQJTIwQ2xvdWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2Mjg2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDE1JTNBMTElM0EyMCUyMCUyQjAwMDA",
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "pubDate": "Thu, 02 Jul 2026 15:11:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGFzaHJlcG9ydC5jb20lMkZ3b3JsZCUyRmFydGljbGVzJTJGc3BhaW4tb3JkZXJzLWJsYWNrbGlzdC1vZi11cy10ZWNoLWdpYW50LXBhbGFudGlyLWZyb20tcHVibGljLWFuZC1wcml2YXRlLWNvbXBhbmllcy1mc25jMnoxN2dqdiU3Q2h0dHBzJTNBJTJGJTJGY2xhc2hyZXBvcnQuY29tJTJGd29ybGQlMkZhcnRpY2xlcyUyRnNwYWluLW9yZGVycy1ibGFja2xpc3Qtb2YtdXMtdGVjaC1naWFudC1wYWxhbnRpci1mcm9tLXB1YmxpYy1hbmQtcHJpdmF0ZS1jb21wYW5pZXMtZnNuYzJ6MTdnanYlN0NTcGFpbiUyME9yZGVycyUyMEJsYWNrbGlzdCUyMG9mJTIwUGFsYW50aXIlMjBmcm9tJTIwUHVibGljJTIwYW5kJTIwUHJpdmF0ZSUyMENvbXBhbmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYyNzI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTUlM0EwMiUzQTI2JTIwJTJCMDAwMA",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "pubDate": "Thu, 02 Jul 2026 15:02:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmFmYWwtcWElMkZzbG9wbyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJhZmFsLXFhJTJGc2xvcG8lN0NTaG93JTIwSE4lM0ElMjBDTEklMjB0b29sJTIwZm9yJTIwZGV0ZWN0aW5nJTIwbm9uLWV4YWN0JTIwY29kZSUyMGR1cGxpY2F0aW9uJTIwd2l0aCUyMGVtYmVkZGluZyUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYyMDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTQlM0ExOSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "pubDate": "Thu, 02 Jul 2026 14:19:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWlsbWVtb3JpZXMuY29tJTdDaHR0cHMlM0ElMkYlMkZtYWlsbWVtb3JpZXMuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwTWFpbCUyME1lbW9yaWVzJTIwJUUyJTgwJTkzJTIwQSUyMGRlc2t0b3AlMjBhcHAlMjB0byUyMHJlc2N1ZSUyMHBob3RvcyUyMGZyb20lMjBHbWFpbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYyMDAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTQlM0ExNiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+      "pubDate": "Thu, 02 Jul 2026 14:16:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYXBhbm5ld3MueW9taXVyaS5jby5qcCUyRnNjaWVuY2UtbmF0dXJlJTJGdGVjaG5vbG9neSUyRjIwMjYwMzA2LTMxNDkzMCUyRiU3Q2h0dHBzJTNBJTJGJTJGamFwYW5uZXdzLnlvbWl1cmkuY28uanAlMkZzY2llbmNlLW5hdHVyZSUyRnRlY2hub2xvZ3klMkYyMDI2MDMwNi0zMTQ5MzAlMkYlN0NBSSUyMGNhbid0JTIwYmUlMjBsaXN0ZWQlMjBhcyUyMGludmVudG9yJTIwb24lMjBwYXRlbnQlMjBhcHBsaWNhdGlvbnMlMkMlMjBKYXBhbidzJTIwdG9wJTIwY291cnQlMjBydWxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYxNTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTMlM0E0MyUzQTQxJTIwJTJCMDAwMA",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "pubDate": "Thu, 02 Jul 2026 13:43:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuemVyb2ZzLm5ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnplcm9mcy5uZXQlMkYlN0NTaG93JTIwSE4lM0ElMjBaZXJvRlMlMjAlRTIlODAlOTMlMjBBJTIwbG9nLXN0cnVjdHVyZWQlMjBmaWxlc3lzdGVtJTIwZm9yJTIwUzMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2MTQ5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDEzJTNBNDElM0ExMSUyMCUyQjAwMDA",
+      "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+      "pubDate": "Thu, 02 Jul 2026 13:41:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmVlZ3JhcGhwYXBlci5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRmZyZWVncmFwaHBhcGVyLm5ldCUyRiU3Q1Nob3clMjBITiUzQSUyMEElMjBncmFwaCUyMHBhcGVyJTIwZ2VuZXJhdG9yJTIwdGhhdCUyMHJlbmRlcnMlMjB2ZWN0b3IlMjBQREZzJTIwaW4lMjB0aGUlMjBicm93c2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NjEyOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAxMyUzQTI5JTNBMDklMjAlMkIwMDAw",
+      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+      "pubDate": "Thu, 02 Jul 2026 13:29:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYmlnbmV3c2xldHRlci5jb20lMkZwJTJGY3JpbWUtcGF5cy10aGUtZWdnLWJhbmRpdHMtbWFkZS1hJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlYmlnbmV3c2xldHRlci5jb20lMkZwJTJGY3JpbWUtcGF5cy10aGUtZWdnLWJhbmRpdHMtbWFkZS1hJTdDVGhlJTIwRWdnJTIwQmFuZGl0cyUyME1hZGUlMjBhJTIwVGhvdXNhbmQlMjBUaW1lcyUyMHRoZSUyMEZpbmUlMjBUaGV5JTIwSnVzdCUyMFBhaWQlMjBmb3IlMjBQcmljZSUyMEZpeGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYxMjI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTMlM0EyNSUzQTI1JTIwJTJCMDAwMA",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "pubDate": "Thu, 02 Jul 2026 13:25:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmFkeXVwcmFzYWQuY29tJTJGd3JpdGluZ3MlMkZob3ctdG8tYXNrLWZvci1oZWxwJTJGJTdDaHR0cHMlM0ElMkYlMkZwcmFkeXVwcmFzYWQuY29tJTJGd3JpdGluZ3MlMkZob3ctdG8tYXNrLWZvci1oZWxwJTJGJTdDSG93JTIwdG8lMjBhc2slMjBmb3IlMjBoZWxwJTIwZnJvbSUyMHBlb3BsZSUyMHdobyUyMGRvbid0JTIwa25vdyUyMHlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYxMTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTMlM0ExOSUzQTIyJTIwJTJCMDAwMA",
+      "title": "How to ask for help from people who don't know you",
+      "pubDate": "Thu, 02 Jul 2026 13:19:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGaGF6ZWwtMiUyRmpvYnMlMkYzZXBQV2d1LWZ1bGwtc3RhY2stZW5naW5lZXItdHMtc2NpJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGaGF6ZWwtMiUyRmpvYnMlMkYzZXBQV2d1LWZ1bGwtc3RhY2stZW5naW5lZXItdHMtc2NpJTdDSGF6ZWwlMjAoWUMlMjBXMjQpJTIwSXMlMjBIaXJpbmclMjBmb3IlMjBPdXIlMjBMYXJnZXN0JTIwR292ZXJubWVudCUyMENvbnRyYWN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NjEwNjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAxMyUzQTE0JTNBNTclMjAlMkIwMDAw",
+      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+      "pubDate": "Thu, 02 Jul 2026 13:14:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmZpLmZyJTJGZW4lMkZpbnRlcm5hdGlvbmFsLW5ld3MlMkYyMDI2MDcwMi1nZXJtYW55LXMtaW5maW5lb24tb3BlbnMtbWFqb3ItY2hpcC1wbGFudC1hcy1ldS1zZWVrcy10ZWNoLWF1dG9ub215JTdDaHR0cHMlM0ElMkYlMkZ3d3cucmZpLmZyJTJGZW4lMkZpbnRlcm5hdGlvbmFsLW5ld3MlMkYyMDI2MDcwMi1nZXJtYW55LXMtaW5maW5lb24tb3BlbnMtbWFqb3ItY2hpcC1wbGFudC1hcy1ldS1zZWVrcy10ZWNoLWF1dG9ub215JTdDR2VybWFueSVFMiU4MCU5OXMlMjBJbmZpbmVvbiUyMG9wZW5zJTIwbWFqb3IlMjBjaGlwJTIwcGxhbnQlMjBhcyUyMEVVJTIwc2Vla3MlMjB0ZWNoJTIwYXV0b25vbXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2MDY2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDEyJTNBNDYlM0EzMSUyMCUyQjAwMDA",
+      "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
+      "pubDate": "Thu, 02 Jul 2026 12:46:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAxMjMyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAxMjMyJTdDSXMlMjBPbmUlMjBMYXllciUyMEVub3VnaCUzRiUyMEElMjBTaW5nbGUlMjBUcmFuc2Zvcm1lciUyMExheWVyJTIwTWF0Y2hlcyUyMEZ1bGwtUGFyYW1ldGVyJTIwUkwlMjBUcmFpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYwMjAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTIlM0ExMCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "pubDate": "Thu, 02 Jul 2026 12:10:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoc3RvZG9uLnh5eiUyRiU0MG1qZCUyRjExNTA5NjcyMDM1MDUwNzg5NyU3Q2h0dHBzJTNBJTJGJTJGbWF0aHN0b2Rvbi54eXolMkYlNDBtamQlMkYxMTUwOTY3MjAzNTA1MDc4OTclN0NUaGUlMjBwcmltYXJ5JTIwcHVycG9zZSUyMG9mJTIwY29kZSUyMHJldmlldyUyMGlzJTIwdG8lMjBmaW5kJTIwY29kZSUyMHRoYXQlMjB3aWxsJTIwYmUlMjBoYXJkJTIwdG8lMjBtYWludGFpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU5ODcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTElM0E0MSUzQTI3JTIwJTJCMDAwMA",
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "pubDate": "Thu, 02 Jul 2026 11:41:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2b2lkemVyby5kZXYlMkZwb3N0cyUyRmFubm91bmNpbmctdml0ZS1wbHVzLWJldGElN0NodHRwcyUzQSUyRiUyRnZvaWR6ZXJvLmRldiUyRnBvc3RzJTJGYW5ub3VuY2luZy12aXRlLXBsdXMtYmV0YSU3Q1ZpdGUlMkIlMjBCZXRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTk3NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAxMSUzQTMwJTNBMDElMjAlMkIwMDAw",
+      "title": "Vite+ Beta",
+      "pubDate": "Thu, 02 Jul 2026 11:30:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ2hvY29ib3p6eiUyRlBlZXJUdWJlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ2hvY29ib3p6eiUyRlBlZXJUdWJlJTdDUGVlclR1YmUlMjBpcyUyMGElMjBmcmVlJTJDJTIwZGVjZW50cmFsaXplZCUyMGFuZCUyMGZlZGVyYXRlZCUyMHZpZGVvJTIwcGxhdGZvcm0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1OTYzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDExJTNBMTclM0E0NSUyMCUyQjAwMDA",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "pubDate": "Thu, 02 Jul 2026 11:17:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZGJlc3Npcy5zdWJzdGFjay5jb20lMkZwJTJGdGhlLWZhbGwtb2YtdGhlLXRoZW9yZW0tZWNvbm9teSU3Q2h0dHBzJTNBJTJGJTJGZGF2aWRiZXNzaXMuc3Vic3RhY2suY29tJTJGcCUyRnRoZS1mYWxsLW9mLXRoZS10aGVvcmVtLWVjb25vbXklN0NUaGUlMjBmYWxsJTIwb2YlMjB0aGUlMjB0aGVvcmVtJTIwZWNvbm9teSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU4MDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMDglM0EwMSUzQTE1JTIwJTJCMDAwMA",
+      "title": "The fall of the theorem economy",
+      "pubDate": "Thu, 02 Jul 2026 08:01:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmLWRyb2lkLm9yZyUyRjIwMjYlMkYwNyUyRjAxJTJGYWR2LW1hbHdhcmUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZi1kcm9pZC5vcmclMkYyMDI2JTJGMDclMkYwMSUyRmFkdi1tYWx3YXJlLmh0bWwlN0NBbmRyb2lkJTIwRGV2ZWxvcGVyJTIwVmVyaWZpY2F0aW9uJTNBJTIwVGhyZWF0JTIwbWFzcXVlcmFkaW5nJTIwYXMlMjBwcm90ZWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTU5NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAwMyUzQTAwJTNBMTUlMjAlMkIwMDAw",
+      "title": "Android Developer Verification: Threat masquerading as protection",
       "pubDate": "Thu, 02 Jul 2026 03:00:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     }
