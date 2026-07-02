@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "siteId": "https://news.ycombinator.com/rss",
+    "siteName": "Hacker News",
+    "oldestItemDate": "2026-07-02",
+    "newestItemDate": "2026-07-02",
+    "itemCount": 4,
+    "generatedAt": "2026-07-02T04:33:28.686Z"
+  },
+  "items": [
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZW5pb3Itc3dlLWJlbmNoLnNub3JrZWwuYWklMkYlN0NodHRwcyUzQSUyRiUyRnNlbmlvci1zd2UtYmVuY2guc25vcmtlbC5haSUyRiU3Q1NlbmlvciUyMFNXRS1CZW5jaCUzQSUyMG9wZW4tc291cmNlJTIwYmVuY2htYXJrJTIwdGhhdCUyMGFzc2Vzc2VzJTIwYWdlbnRzJTIwYXMlMjBzZW5pb3IlMjBlbmdpbmVlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1NTkyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDAyJTNBNTUlM0ExNiUyMCUyQjAwMDA",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "pubDate": "Thu, 02 Jul 2026 02:55:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWRpdW0uY28lMkYyMDI2JTJGMDclMkYwMSUyRm9ubGluZS13ZWItZm9ydW1zLXJldHJvc3BlY3RpdmUlMkYlN0NodHRwcyUzQSUyRiUyRnRlZGl1bS5jbyUyRjIwMjYlMkYwNyUyRjAxJTJGb25saW5lLXdlYi1mb3J1bXMtcmV0cm9zcGVjdGl2ZSUyRiU3Q0JyaW5nJTIwYmFjayUyMGNyYXBweSUyMGZvcnVtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU1NzMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMDIlM0EzMCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Bring back crappy forums",
+      "pubDate": "Thu, 02 Jul 2026 02:30:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWtlcnNwZXQuY29tJTJGYmxvZyUyRmJ1aWxkaW5nLWFuLW9wZW4tc291cmNlLXJvYm90LXZhY3V1bS1tZWV0LW9vbXdvbyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFrZXJzcGV0LmNvbSUyRmJsb2clMkZidWlsZGluZy1hbi1vcGVuLXNvdXJjZS1yb2JvdC12YWN1dW0tbWVldC1vb213b28lMkYlN0NPb213b28lMkMlMjBhbiUyMG9wZW4tc291cmNlJTIwcm9ib3QlMjB2YWN1dW0lMjB5b3UlMjBidWlsZCUyMHlvdXJzZWxmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTUwMDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAwMCUzQTQ4JTNBMDElMjAlMkIwMDAw",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "pubDate": "Thu, 02 Jul 2026 00:48:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnViYy5jYSUyRjIwMjYlMkYwNiUyRm1ybmEtdmFjY2luZXMtYXJlLXNhZmUtZWZmZWN0aXZlLWFuZC1mdWxsLW9mLXByb21pc2UlMkYlN0NodHRwcyUzQSUyRiUyRm5ld3MudWJjLmNhJTJGMjAyNiUyRjA2JTJGbXJuYS12YWNjaW5lcy1hcmUtc2FmZS1lZmZlY3RpdmUtYW5kLWZ1bGwtb2YtcHJvbWlzZSUyRiU3Q0dsb2JhbCUyMHJldmlldyUyMGNvbmZpcm1zJTIwbVJOQSUyMHZhY2NpbmVzJTIwYXJlJTIwc2FmZSUyQyVDMiVBMGVmZmVjdGl2ZSVDMiVBMGFuZCUyMGZ1bGwlMjBvZiUyMHByb21pc2UlQzIlQTAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1NDk2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDAwJTNBNDAlM0ExNCUyMCUyQjAwMDA",
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+      "pubDate": "Thu, 02 Jul 2026 00:40:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    }
+  ]
+}

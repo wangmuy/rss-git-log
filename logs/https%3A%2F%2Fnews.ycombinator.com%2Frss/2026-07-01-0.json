@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-01",
     "newestItemDate": "2026-07-01",
-    "itemCount": 46,
-    "generatedAt": "2026-07-01T18:18:50.696Z"
+    "itemCount": 61,
+    "generatedAt": "2026-07-02T04:33:28.687Z"
   },
   "items": [
     {
@@ -282,6 +282,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoZXlvbmNhbGwuY29tJTJGYmxvZyUyRmZpeGluZy1rdWJlcm5ldGVzLWt1YmVsZXQtbWVtb3J5LWxlYWslN0NodHRwcyUzQSUyRiUyRmhleW9uY2FsbC5jb20lMkZibG9nJTJGZml4aW5nLWt1YmVybmV0ZXMta3ViZWxldC1tZW1vcnktbGVhayU3Q0ZpeGluZyUyMGElMjBrdWJlbGV0JTIwbWVtb3J5JTIwbGVhayUyMGluJTIwS3ViZXJuZXRlcyUyMDEuMzYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc0MTYwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAxJTIwSnVsJTIwMjAyNiUyMDAyJTNBMTQlM0EyOSUyMCUyQjAwMDA",
       "title": "Fixing a kubelet memory leak in Kubernetes 1.36",
       "pubDate": "Wed, 01 Jul 2026 02:14:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuY2hyb21lLmNvbSUyRmJsb2clMkZ1c2VybWVkaWEtaHRtbC1lbGVtZW50JTdDaHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuY2hyb21lLmNvbSUyRmJsb2clMkZ1c2VybWVkaWEtaHRtbC1lbGVtZW50JTdDVGhlJTIwJTNDVXNlcm1lZGlhJTNFJTIwSFRNTCUyMEVsZW1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1NDcwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAxJTIwSnVsJTIwMjAyNiUyMDIzJTNBNTYlM0ExNSUyMCUyQjAwMDA",
+      "title": "The <Usermedia> HTML Element",
+      "pubDate": "Wed, 01 Jul 2026 23:56:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmN1YW5zY2h1dHouZWR1JTJGbmV3cy1zdG9yaWVzJTJGaGVhbHRoeS1idXQtc2VkZW50YXJ5LWluZGl2aWR1YWxzLXNob3ctZWFybHktZGVjbGluZS1pbi1jZWxsdWxhci1lbmVyZ3ktcHJvZHVjdGlvbiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5jdWFuc2NodXR6LmVkdSUyRm5ld3Mtc3RvcmllcyUyRmhlYWx0aHktYnV0LXNlZGVudGFyeS1pbmRpdmlkdWFscy1zaG93LWVhcmx5LWRlY2xpbmUtaW4tY2VsbHVsYXItZW5lcmd5LXByb2R1Y3Rpb24lN0NIZWFsdGh5JTIwYnV0JTIwc2VkZW50YXJ5JTIwcGVvcGxlJTIwc2hvdyUyMGVhcmx5JTIwZGVjbGluZSUyMGluJTIwY2VsbHVsYXIlMjBlbmVyZ3klMjBwcm9kdWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTQxNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAyMiUzQTQ4JTNBNTYlMjAlMkIwMDAw",
+      "title": "Healthy but sedentary people show early decline in cellular energy production",
+      "pubDate": "Wed, 01 Jul 2026 22:48:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmRlcmhhbmRlZC1jLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGdW5kZXJoYW5kZWQtYy5vcmclMkYlN0NUaGUlMjBVbmRlcmhhbmRlZCUyMEMlMjBDb250ZXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTQwODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAyMiUzQTM5JTNBMTUlMjAlMkIwMDAw",
+      "title": "The Underhanded C Contest",
+      "pubDate": "Wed, 01 Jul 2026 22:39:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRnNhZmV0eS1zZWN1cml0eSUyRm9wZW5pbmctdXAtemVyby1rbm93bGVkZ2UtcHJvb2YtdGVjaG5vbG9neS10by1wcm9tb3RlLXByaXZhY3ktaW4tYWdlLWFzc3VyYW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZpbm5vdmF0aW9uLWFuZC1haSUyRnRlY2hub2xvZ3klMkZzYWZldHktc2VjdXJpdHklMkZvcGVuaW5nLXVwLXplcm8ta25vd2xlZGdlLXByb29mLXRlY2hub2xvZ3ktdG8tcHJvbW90ZS1wcml2YWN5LWluLWFnZS1hc3N1cmFuY2UlMkYlN0NPcGVuaW5nJTIwdXAlMjAnWmVyby1Lbm93bGVkZ2UlMjBQcm9vZiclMjB0ZWNobm9sb2d5JTIwdG8lMjBwcm9tb3RlJTIwcHJpdmFjeSUyMGluJTIwYWdlJTIwYXNzdXJhbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTM5NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAyMiUzQTI3JTNBNDclMjAlMkIwMDAw",
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "pubDate": "Wed, 01 Jul 2026 22:27:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6Y29kZS56LmFpJTJGZW4lN0NodHRwcyUzQSUyRiUyRnpjb2RlLnouYWklMkZlbiU3Q1pDb2RlJTIwJUUyJTgwJTkzJTIwSGFybmVzcyUyMGZvciUyMEdMTS01LjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1MzcxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAxJTIwSnVsJTIwMjAyNiUyMDIyJTNBMDMlM0EzNiUyMCUyQjAwMDA",
+      "title": "ZCode – Harness for GLM-5.2",
+      "pubDate": "Wed, 01 Jul 2026 22:03:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXN0cmFsY29kZXh0ZW4uY29tJTJGcCUyRmNoaXAtb2ZmLXRoZS1vbGQtYmxvY2slN0NodHRwcyUzQSUyRiUyRnd3dy5hc3RyYWxjb2RleHRlbi5jb20lMkZwJTJGY2hpcC1vZmYtdGhlLW9sZC1ibG9jayU3Q0NoaXAlMjBPZmYlMjBUaGUlMjBPbGQlMjBCbG9jayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzUzNTI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDElMjBKdWwlMjAyMDI2JTIwMjElM0E0MiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Chip Off The Old Block",
+      "pubDate": "Wed, 01 Jul 2026 21:42:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbGNvbW0uY29tJTJGZGV2ZWxvcGVyJTJGYmxvZyUyRjIwMjYlMkYwNiUyRnF1YWxjb21tLWxpbnV4LTItbm93LWF2YWlsYWJsZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YWxjb21tLmNvbSUyRmRldmVsb3BlciUyRmJsb2clMkYyMDI2JTJGMDYlMkZxdWFsY29tbS1saW51eC0yLW5vdy1hdmFpbGFibGUlN0NRdWFsY29tbSUyMExpbnV4JTIwMi4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTMwNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAyMSUzQTAxJTNBNDIlMjAlMkIwMDAw",
+      "title": "Qualcomm Linux 2.0",
+      "pubDate": "Wed, 01 Jul 2026 21:01:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcHJvbGlmZXJhdGUlMkZqb2JzJTJGbU1IdktSOS1mb3VuZGluZy1wcm9kdWN0LWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcHJvbGlmZXJhdGUlMkZqb2JzJTJGbU1IdktSOS1mb3VuZGluZy1wcm9kdWN0LWVuZ2luZWVyJTdDUHJvbGlmZXJhdGUlMjAoWUMlMjBTMjUpJTIwSXMlMjBIaXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1MzA0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAxJTIwSnVsJTIwMjAyNiUyMDIxJTNBMDAlM0ExNCUyMCUyQjAwMDA",
+      "title": "Proliferate (YC S25) Is Hiring",
+      "pubDate": "Wed, 01 Jul 2026 21:00:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ya2Vyb3duZWQuaW5mbyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndvcmtlcm93bmVkLmluZm8lMkYlN0NTaG93JTIwSE4lM0ElMjBTZWFyY2hhYmxlJTIwZGlyZWN0b3J5JTIwb2YlMjAyMmslMkIlMjBwcm9kdWN0cyUyMGZyb20lMjB3b3JrZXItb3duZWQlMjBjby1vcHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1MjkwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAxJTIwSnVsJTIwMjAyNiUyMDIwJTNBNDclM0E0MSUyMCUyQjAwMDA",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "pubDate": "Wed, 01 Jul 2026 20:47:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2VhdmVyb2JvdGljcy5jb20lMkZpc2FhYy0xJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2VhdmVyb2JvdGljcy5jb20lMkZpc2FhYy0xJTdDV2VhdmUlMjBSb2JvdGljcyUyMGxhdW5jaGVzJTIwSXNhYWMlMjAxJTJDJTIwYSUyMCUyNDclMkM5OTklMjBob21lJTIwcm9ib3QlMjB3aXRoJTIwRmFsbCUyMDIwMjYlMjBkZWxpdmVyaWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTA5ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAxOCUzQTEyJTNBMTglMjAlMkIwMDAw",
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "pubDate": "Wed, 01 Jul 2026 18:12:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlzaXNtb2Rlc3QuY29tJTJGdmltc2Nvb3BzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGlzaXNtb2Rlc3QuY29tJTJGdmltc2Nvb3BzJTJGJTdDTGVhcm4lMjBWaW0lMjBtb3Rpb25zJTIwd2l0aCUyMGFuJTIwaWNlLWNyZWFtJTIwdmFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTA4MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAxOCUzQTAwJTNBMDclMjAlMkIwMDAw",
+      "title": "Learn Vim motions with an ice-cream van",
+      "pubDate": "Wed, 01 Jul 2026 18:00:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRlbW9mb3gub3JnJTJGMjAyNiUyRjA3JTJGMDElMkZ3aGF0LXRvLWxlYXJuLXRvLWJlLWEtZ3JhcGhpY3MtcHJvZ3JhbW1lciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5kZW1vZm94Lm9yZyUyRjIwMjYlMkYwNyUyRjAxJTJGd2hhdC10by1sZWFybi10by1iZS1hLWdyYXBoaWNzLXByb2dyYW1tZXIlMkYlN0NXaGF0JTIwdG8lMjBsZWFybiUyMHRvJTIwYmUlMjBhJTIwZ3JhcGhpY3MlMjBwcm9ncmFtbWVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NTA3MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAxNyUzQTUzJTNBNDQlMjAlMkIwMDAw",
+      "title": "What to learn to be a graphics programmer",
+      "pubDate": "Wed, 01 Jul 2026 17:53:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGbW9uZXRpemF0aW9uLWdhdGV3YXklMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZtb25ldGl6YXRpb24tZ2F0ZXdheSUyRiU3Q01vbmV0aXphdGlvbiUyMEdhdGV3YXklM0ElMjBDaGFyZ2UlMjBmb3IlMjBhbnklMjByZXNvdXJjZSUyMGJlaGluZCUyMENsb3VkZmxhcmUlMjB2aWElMjB4NDAyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDY5MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAxMyUzQTU5JTNBMTMlMjAlMkIwMDAw",
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "pubDate": "Wed, 01 Jul 2026 13:59:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaWVjaGFub3cuc2tpJTJGaW50ZXJuYWwtY29tYnVzdGlvbi1lbmdpbmUlMkYlN0NodHRwcyUzQSUyRiUyRmNpZWNoYW5vdy5za2klMkZpbnRlcm5hbC1jb21idXN0aW9uLWVuZ2luZSUyRiU3Q0ludGVybmFsJTIwQ29tYnVzdGlvbiUyMEVuZ2luZSUyMCgyMDIxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzQ2MDc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDElMjBKdWwlMjAyMDI2JTIwMTMlM0EwNCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Internal Combustion Engine (2021)",
+      "pubDate": "Wed, 01 Jul 2026 13:04:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYWthc2guc3Vic3RhY2suY29tJTJGcCUyRndoeS1qZXQtZW5naW5lcy1hcmVudC1tYWRlLWluLWNoaW5hJTdDaHR0cHMlM0ElMkYlMkZhYWthc2guc3Vic3RhY2suY29tJTJGcCUyRndoeS1qZXQtZW5naW5lcy1hcmVudC1tYWRlLWluLWNoaW5hJTdDV2h5JTIwamV0JTIwZW5naW5lcyUyMGFyZW4ndCUyMG1hZGUlMjBpbiUyMENoaW5hJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDA5NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAwMCUzQTIyJTNBNDElMjAlMkIwMDAw",
+      "title": "Why jet engines aren't made in China",
+      "pubDate": "Wed, 01 Jul 2026 00:22:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
     }
   ]
