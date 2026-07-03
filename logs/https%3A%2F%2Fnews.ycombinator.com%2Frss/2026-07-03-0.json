@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-03",
     "newestItemDate": "2026-07-03",
-    "itemCount": 3,
-    "generatedAt": "2026-07-03T04:12:44.393Z"
+    "itemCount": 8,
+    "generatedAt": "2026-07-03T11:02:41.595Z"
   },
   "items": [
     {
@@ -24,6 +24,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGFhcm9uc29uLmJsb2clMkYlM0ZwJTNEOTkwMiU3Q2h0dHBzJTNBJTJGJTJGc2NvdHRhYXJvbnNvbi5ibG9nJTJGJTNGcCUzRDk5MDIlN0NBbiUyMEFtZXJpY2FuJTIwUHJpdmFjeSUyMEVtZXJnZW5jeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY4OTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDAlM0EwMSUzQTA2JTIwJTJCMDAwMA",
       "title": "An American Privacy Emergency",
       "pubDate": "Fri, 03 Jul 2026 00:01:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JkZ2FyZC5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRnYXJkLm5ldCUyRiU3Q1dvcmRnYXJkJTNBJTIwVGhlJTIwbmV3JTIwaW4tYnJvd3NlciUyMHJpY2gtdGV4dCUyMGVkaXRvciUyMGZyb20lMjB0aGUlMjBjcmVhdG9yJTIwb2YlMjBQcm9zZU1pcnJvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0E1MCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "pubDate": "Fri, 03 Jul 2026 08:50:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGYWxpYmFiYS1iYW4tY2xhdWRlLWNvZGUtd29ya3BsYWNlLW92ZXItYWxsZWdlZC1iYWNrZG9vci1yaXNrcy1zb3VyY2Utc2F5cy0yMDI2LTA3LTAzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGYWxpYmFiYS1iYW4tY2xhdWRlLWNvZGUtd29ya3BsYWNlLW92ZXItYWxsZWdlZC1iYWNrZG9vci1yaXNrcy1zb3VyY2Utc2F5cy0yMDI2LTA3LTAzJTJGJTdDQWxpYmFiYSUyMHRvJTIwYmFuJTIwQ2xhdWRlJTIwQ29kZSUyMGluJTIwd29ya3BsYWNlJTIwb3ZlciUyMGFsbGVnZWQlMjBiYWNrZG9vciUyMHJpc2tzJTJDJTIwc291cmNlJTIwc2F5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNDQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0EzMSUzQTM3JTIwJTJCMDAwMA",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "pubDate": "Fri, 03 Jul 2026 08:31:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWxpLmRldiUyRmJsb2clMkZoYWxmLWJha2VkLXByb2R1Y3QlMkYlN0NodHRwcyUzQSUyRiUyRndlbGkuZGV2JTJGYmxvZyUyRmhhbGYtYmFrZWQtcHJvZHVjdCUyRiU3Q0hhbGYtQmFrZWQlMjBQcm9kdWN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzIzODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwOCUzQTIzJTNBMzIlMjAlMkIwMDAw",
+      "title": "Half-Baked Product",
+      "pubDate": "Fri, 03 Jul 2026 08:23:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYW50aWNvcmVzZWFyY2guY29tJTJGYmxvZyUyRm9ubngtZW1iZWRkaW5ncy1zcGVlZHVwJTJGJTdDaHR0cHMlM0ElMkYlMkZtYW50aWNvcmVzZWFyY2guY29tJTJGYmxvZyUyRm9ubngtZW1iZWRkaW5ncy1zcGVlZHVwJTJGJTdDMTQlQzMlOTclMjBmYXN0ZXIlMjBlbWJlZGRpbmdzJTNBJTIwaG93JTIwd2UlMjByZWJ1aWx0JTIwdGhlJTIwT05OWCUyMHBhdGglMjBpbiUyME1hbnRpY29yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcwNDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDMlM0E0OSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "pubDate": "Fri, 03 Jul 2026 03:49:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJraXQub3JnJTJGYmxvZyUyRjE4MTM2JTJGaW50cm9kdWNpbmctdGhlLXNhZmFyaS1tY3Atc2VydmVyLWZvci13ZWItZGV2ZWxvcGVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGd2Via2l0Lm9yZyUyRmJsb2clMkYxODEzNiUyRmludHJvZHVjaW5nLXRoZS1zYWZhcmktbWNwLXNlcnZlci1mb3Itd2ViLWRldmVsb3BlcnMlMkYlN0NUaGUlMjBTYWZhcmklMjBNQ1AlMjBzZXJ2ZXIlMjBmb3IlMjB3ZWIlMjBkZXZlbG9wZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3Njk2MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwMSUzQTM3JTNBMTElMjAlMkIwMDAw",
+      "title": "The Safari MCP server for web developers",
+      "pubDate": "Fri, 03 Jul 2026 01:37:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     }
   ]

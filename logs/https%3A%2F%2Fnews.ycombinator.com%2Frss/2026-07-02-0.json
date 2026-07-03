@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-02",
     "newestItemDate": "2026-07-02",
-    "itemCount": 47,
-    "generatedAt": "2026-07-03T04:12:44.393Z"
+    "itemCount": 48,
+    "generatedAt": "2026-07-03T11:02:41.595Z"
   },
   "items": [
     {
@@ -288,6 +288,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaW1taWNoLWFwcCUyRmltbWljaCUyRmRpc2N1c3Npb25zJTJGMjk0MzklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZpbW1pY2gtYXBwJTJGaW1taWNoJTJGZGlzY3Vzc2lvbnMlMkYyOTQzOSU3Q0ltbWljaCUyMDMuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzYxOTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMTQlM0ExMyUzQTI2JTIwJTJCMDAwMA",
       "title": "Immich 3.0",
       "pubDate": "Thu, 02 Jul 2026 14:13:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwNiUyRmVmZi1hbmQtYWxsaWVzLXhzLWZ0Yy1wZXRpdGlvbi13YWl2ZS1wcml2YWN5LXZpb2xhdGlvbi1vcmRlci1zaG91bGQtYmUtcmVqZWN0ZWQlN0NodHRwcyUzQSUyRiUyRnd3dy5lZmYub3JnJTJGZGVlcGxpbmtzJTJGMjAyNiUyRjA2JTJGZWZmLWFuZC1hbGxpZXMteHMtZnRjLXBldGl0aW9uLXdhaXZlLXByaXZhY3ktdmlvbGF0aW9uLW9yZGVyLXNob3VsZC1iZS1yZWplY3RlZCU3Q0VGRiUyMGxldHRlciUyMHRvJTIwRlRDJTIwb24lMjBYJTIwY29uc2VudCUyMG9yZGVyJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NjYyMDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMiUyMEp1bCUyMDIwMjYlMjAxOSUzQTI3JTNBMzglMjAlMkIwMDAw",
+      "title": "EFF letter to FTC on X consent order [pdf]",
+      "pubDate": "Thu, 02 Jul 2026 19:27:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     }
   ]
