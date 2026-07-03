@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-30",
     "newestItemDate": "2026-06-30",
-    "itemCount": 47,
-    "generatedAt": "2026-07-03T11:02:41.596Z"
+    "itemCount": 50,
+    "generatedAt": "2026-07-03T17:52:30.346Z"
   },
   "items": [
     {
@@ -288,6 +288,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtb3JldGhhbm1vb3JlLnN1YnN0YWNrLmNvbSUyRnAlMkZxLWFuZC1hLXdpdGgtbWljcm9ucy12cC1hbmQtZ20tb2YlN0NodHRwcyUzQSUyRiUyRm1vcmV0aGFubW9vcmUuc3Vic3RhY2suY29tJTJGcCUyRnEtYW5kLWEtd2l0aC1taWNyb25zLXZwLWFuZC1nbS1vZiU3Q1ElMjZBJTIwd2l0aCUyME1pY3JvbidzJTIwVlAlMjBhbmQlMjBHTSUyMG9mJTIwTWVtb3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3MzgyNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAxOSUzQTQ1JTNBMzklMjAlMkIwMDAw",
       "title": "Q&A with Micron's VP and GM of Memory",
       "pubDate": "Tue, 30 Jun 2026 19:45:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmF0dC5uZXQlMkZsYXVyaWUlMkZibG9nJTJGMjAyNiUyRmxvY2FsX3JlYXNvbmluZ19mb3JfZ2xvYmFsX3Byb3BlcnRpZXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdHJhdHQubmV0JTJGbGF1cmllJTJGYmxvZyUyRjIwMjYlMkZsb2NhbF9yZWFzb25pbmdfZm9yX2dsb2JhbF9wcm9wZXJ0aWVzLmh0bWwlN0NMb2NhbCUyMFJlYXNvbmluZyUyMGZvciUyMEdsb2JhbCUyMFByb3BlcnRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczOTE0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDIxJTNBMDElM0EwNiUyMCUyQjAwMDA",
+      "title": "Local Reasoning for Global Properties",
+      "pubDate": "Tue, 30 Jun 2026 21:01:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWJyb29rLmNvbSUyRm9mZnJhbmdlJTJGcGVyc3BlY3RpdmUlMkZob3ctd2UtbG9zdC1vdXItb2F0cyU3Q2h0dHBzJTNBJTJGJTJGYW1icm9vay5jb20lMkZvZmZyYW5nZSUyRnBlcnNwZWN0aXZlJTJGaG93LXdlLWxvc3Qtb3VyLW9hdHMlN0NNeSUyMERhZCUyMEhlbHBlZCUyMEJ1aWxkJTIwTm9ydGglMjBBbWVyaWNhJ3MlMjBPYXQlMjBTdXBwbHklMjBDaGFpbiUzQSUyMENhbiUyMEl0JTIwQmUlMjBSZW1hZGUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczMjg3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE0JTNBMDAlM0E1MSUyMCUyQjAwMDA",
+      "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "pubDate": "Tue, 30 Jun 2026 14:00:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1YnVudHUuY29tJTJGYmxvZyUyRmh1bnRpbmctYS0xNi15ZWFyLW9sZC1zcWxpdGUtYnVnLXdpdGgtdGxhLWlzLWRxbGl0ZS1hZmZlY3RlZCU3Q2h0dHBzJTNBJTJGJTJGdWJ1bnR1LmNvbSUyRmJsb2clMkZodW50aW5nLWEtMTYteWVhci1vbGQtc3FsaXRlLWJ1Zy13aXRoLXRsYS1pcy1kcWxpdGUtYWZmZWN0ZWQlN0NIdW50aW5nJTIwYSUyMDE2LXllYXItb2xkJTIwU1FMaXRlJTIwV0FMJTIwYnVnJTIwd2l0aCUyMFRMQSUyQiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMwOTUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTElM0EwNyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "pubDate": "Tue, 30 Jun 2026 11:07:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
     }
   ]
