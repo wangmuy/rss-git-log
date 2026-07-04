@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-01",
     "newestItemDate": "2026-07-01",
-    "itemCount": 69,
-    "generatedAt": "2026-07-04T07:47:20.517Z"
+    "itemCount": 71,
+    "generatedAt": "2026-07-04T10:28:06.099Z"
   },
   "items": [
     {
@@ -423,6 +423,18 @@
       "pubDate": "Wed, 01 Jul 2026 05:21:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json",
       "readAt": "2026-07-04T07:47:20.178Z"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb29rYW5kcG9zc3VtLmNvbSUyRnBhcGVycyUyRnNjYW5saW5lX3N3ZWVwZXJfcHJlcHJpbnQucGRmJTdDaHR0cHMlM0ElMkYlMkZyb29rYW5kcG9zc3VtLmNvbSUyRnBhcGVycyUyRnNjYW5saW5lX3N3ZWVwZXJfcHJlcHJpbnQucGRmJTdDVGhlJTIwU2NhbmxpbmUlMjBTd2VlcGVyJTNBJTIwQSUyMEdseXBoJTIwUmVuZGVyaW5nJTIwQWxnb3JpdGhtJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDY0MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAxMyUzQTI4JTNBMTglMjAlMkIwMDAw",
+      "title": "The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]",
+      "pubDate": "Wed, 01 Jul 2026 13:28:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0YWJyaWNrcy5jb20lMkZibG9nJTJGbGFrZWJhc2UtbHRhcC1yZXRoaW5raW5nLWRhdGFiYXNlLXN0b3JhZ2UlN0NodHRwcyUzQSUyRiUyRnd3dy5kYXRhYnJpY2tzLmNvbSUyRmJsb2clMkZsYWtlYmFzZS1sdGFwLXJldGhpbmtpbmctZGF0YWJhc2Utc3RvcmFnZSU3Q1Bvc3RncmVzJTIwZGF0YSUyMHN0b3JlZCUyMGluJTIwUGFycXVldCUyMG9uJTIwUzMlM0ElMjBMVEFQJTIwYXJjaGl0ZWN0dXJlJTIwZXhwbGFpbmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDU4NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAxMiUzQTQ4JTNBNTYlMjAlMkIwMDAw",
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "pubDate": "Wed, 01 Jul 2026 12:48:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
     }
   ]
 }
