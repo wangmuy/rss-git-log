@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-06-30",
     "newestItemDate": "2026-06-30",
-    "itemCount": 50,
-    "generatedAt": "2026-07-03T17:52:30.346Z"
+    "itemCount": 52,
+    "generatedAt": "2026-07-04T04:06:19.823Z"
   },
   "items": [
     {
@@ -306,6 +306,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1YnVudHUuY29tJTJGYmxvZyUyRmh1bnRpbmctYS0xNi15ZWFyLW9sZC1zcWxpdGUtYnVnLXdpdGgtdGxhLWlzLWRxbGl0ZS1hZmZlY3RlZCU3Q2h0dHBzJTNBJTJGJTJGdWJ1bnR1LmNvbSUyRmJsb2clMkZodW50aW5nLWEtMTYteWVhci1vbGQtc3FsaXRlLWJ1Zy13aXRoLXRsYS1pcy1kcWxpdGUtYWZmZWN0ZWQlN0NIdW50aW5nJTIwYSUyMDE2LXllYXItb2xkJTIwU1FMaXRlJTIwV0FMJTIwYnVnJTIwd2l0aCUyMFRMQSUyQiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzMwOTUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMzAlMjBKdW4lMjAyMDI2JTIwMTElM0EwNyUzQTM4JTIwJTJCMDAwMA",
       "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
       "pubDate": "Tue, 30 Jun 2026 11:07:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjA0JTJGMjMlMkZnb25lLWJ1dC1ub3QtZm9yZ290dGVuLXJlY292ZXJpbmctdGhlLWRlYWQtd2ViJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjA0JTJGMjMlMkZnb25lLWJ1dC1ub3QtZm9yZ290dGVuLXJlY292ZXJpbmctdGhlLWRlYWQtd2ViJTJGJTdDR29uZSUyMGJ1dCUyME5vdCUyMEZvcmdvdHRlbiUzQSUyMFJlY292ZXJpbmclMjB0aGUlMjBEZWFkJTIwV2ViJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3Mzk2ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAzMCUyMEp1biUyMDIwMjYlMjAyMSUzQTQ4JTNBNDMlMjAlMkIwMDAw",
+      "title": "Gone but Not Forgotten: Recovering the Dead Web",
+      "pubDate": "Tue, 30 Jun 2026 21:48:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm9jaHVzLWtlbGxlciUyRkJVU1klMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZyb2NodXMta2VsbGVyJTJGQlVTWSUyRiU3Q1Nob3clMjBITiUzQSUyMEElMjBzdGF0aWNhbGx5JTIwdHlwZWQlMkMlMjBjcm9zcy1wbGF0Zm9ybSUyQyUyMGVhc2lseSUyMGJvb3RzdHJhcHBhYmxlJTIwYnVpbGQlMjBzeXN0ZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODczNTA5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDMwJTIwSnVuJTIwMjAyNiUyMDE2JTNBMjglM0E1NSUyMCUyQjAwMDA",
+      "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
+      "pubDate": "Tue, 30 Jun 2026 16:28:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-06-30-0.json"
     }
   ]

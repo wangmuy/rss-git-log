@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-01",
     "newestItemDate": "2026-07-01",
-    "itemCount": 65,
-    "generatedAt": "2026-07-03T04:12:44.393Z"
+    "itemCount": 66,
+    "generatedAt": "2026-07-04T04:06:19.823Z"
   },
   "items": [
     {
@@ -396,6 +396,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGYXByaWNvdC1jb21wdXRlcnMtYW4tdW5kZXJyYXRlZC1icml0aXNoLWJyYW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGYXByaWNvdC1jb21wdXRlcnMtYW4tdW5kZXJyYXRlZC1icml0aXNoLWJyYW5kJTJGJTdDQXByaWNvdCUyMENvbXB1dGVycyUzQSUyMEFuJTIwdW5kZXJyYXRlZCUyMEJyaXRpc2glMjBicmFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzQzMzYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDElMjBKdWwlMjAyMDI2JTIwMDclM0EyNiUzQTA1JTIwJTJCMDAwMA",
       "title": "Apricot Computers: An underrated British brand",
       "pubDate": "Wed, 01 Jul 2026 07:26:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmNvcmUuZGV2JTJGYmxvZyUyRnJlZGlzLXJ1bnRpbWUlN0NodHRwcyUzQSUyRiUyRmVuY29yZS5kZXYlMkZibG9nJTJGcmVkaXMtcnVudGltZSU3Q1dlJTIwcHV0JTIwYSUyMFJlZGlzJTIwc2VydmVyJTIwaW5zaWRlJTIwb3VyJTIwcnVudGltZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzQ0NTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDElMjBKdWwlMjAyMDI2JTIwMTAlM0ExMSUzQTEyJTIwJTJCMDAwMA",
+      "title": "We put a Redis server inside our runtime",
+      "pubDate": "Wed, 01 Jul 2026 10:11:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
     }
   ]
