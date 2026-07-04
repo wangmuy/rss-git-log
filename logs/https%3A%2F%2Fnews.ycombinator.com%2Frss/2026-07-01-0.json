@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-01",
     "newestItemDate": "2026-07-01",
-    "itemCount": 66,
-    "generatedAt": "2026-07-04T04:06:19.823Z"
+    "itemCount": 69,
+    "generatedAt": "2026-07-04T07:45:33.702Z"
   },
   "items": [
     {
@@ -402,6 +402,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbmNvcmUuZGV2JTJGYmxvZyUyRnJlZGlzLXJ1bnRpbWUlN0NodHRwcyUzQSUyRiUyRmVuY29yZS5kZXYlMkZibG9nJTJGcmVkaXMtcnVudGltZSU3Q1dlJTIwcHV0JTIwYSUyMFJlZGlzJTIwc2VydmVyJTIwaW5zaWRlJTIwb3VyJTIwcnVudGltZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzQ0NTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDElMjBKdWwlMjAyMDI2JTIwMTAlM0ExMSUzQTEyJTIwJTJCMDAwMA",
       "title": "We put a Redis server inside our runtime",
       "pubDate": "Wed, 01 Jul 2026 10:11:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRhbS1zJTJGY2FyLWRpYWdub3NpcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFkYW0tcyUyRmNhci1kaWFnbm9zaXMlN0NTaG93JTIwSE4lM0ElMjBDbGFzc2lmeSUyMG1lY2hhbmljYWwlMjBmYXVsdHMlMjB1c2luZyUyMENvbnRyYXN0aXZlJTIwTGFuZ3VhZ2UtQXVkaW8lMjBQcmV0cmFpbmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzQ5ODY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDElMjBKdWwlMjAyMDI2JTIwMTYlM0E1NyUzQTIwJTIwJTJCMDAwMA",
+      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "pubDate": "Wed, 01 Jul 2026 16:57:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWdoaWwuY29tJTJGbm90ZXMtZnJvbS1idWlsZGluZy10aW5rZXJmb250JTdDaHR0cHMlM0ElMkYlMkZtaWdoaWwuY29tJTJGbm90ZXMtZnJvbS1idWlsZGluZy10aW5rZXJmb250JTdDTm90ZXMlMjBmcm9tJTIwQnVpbGRpbmclMjBUaW5rZXJmb250JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDY2OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAxMyUzQTQ1JTNBMzIlMjAlMkIwMDAw",
+      "title": "Notes from Building Tinkerfont",
+      "pubDate": "Wed, 01 Jul 2026 13:45:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmt1LmVkdSUyRm5ld3MlMkZhcnRpY2xlJTJGc3R1ZHktcmV2ZWFscy13aGF0LXBlb3BsZS1yZWFsbHktc2VlLXdoZW4tdGhleS1yZWFkLWxpcHMlN0NodHRwcyUzQSUyRiUyRm5ld3Mua3UuZWR1JTJGbmV3cyUyRmFydGljbGUlMkZzdHVkeS1yZXZlYWxzLXdoYXQtcGVvcGxlLXJlYWxseS1zZWUtd2hlbi10aGV5LXJlYWQtbGlwcyU3Q1N0dWR5JTIwcmV2ZWFscyUyMHdoYXQlMjBwZW9wbGUlMjBzZWUlMjB3aGVuJTIwdGhleSUyMHJlYWQlMjBsaXBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NDI1NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMSUyMEp1bCUyMDIwMjYlMjAwNSUzQTIxJTNBMDMlMjAlMkIwMDAw",
+      "title": "Study reveals what people see when they read lips",
+      "pubDate": "Wed, 01 Jul 2026 05:21:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-01-0.json"
     }
   ]

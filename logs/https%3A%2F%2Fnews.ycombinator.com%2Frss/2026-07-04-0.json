@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-04",
     "newestItemDate": "2026-07-04",
-    "itemCount": 3,
-    "generatedAt": "2026-07-04T04:06:19.823Z"
+    "itemCount": 8,
+    "generatedAt": "2026-07-04T07:45:33.701Z"
   },
   "items": [
     {
@@ -24,6 +24,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzb2F0b2suYmxvZyUyRjIwMjYlMkYwNiUyRjMwJTJGc29hdG9rcy1pbmZvcm1hbC1ndWlkZS10by10aHJlYXQtbW9kZWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZzb2F0b2suYmxvZyUyRjIwMjYlMkYwNiUyRjMwJTJGc29hdG9rcy1pbmZvcm1hbC1ndWlkZS10by10aHJlYXQtbW9kZWxzJTJGJTdDU29hdG9rJ3MlMjBJbmZvcm1hbCUyMEd1aWRlJTIwdG8lMjBUaHJlYXQlMjBNb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MTU5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDAwJTNBMzUlM0E0OSUyMCUyQjAwMDA",
       "title": "Soatok's Informal Guide to Threat Models",
       "pubDate": "Sat, 04 Jul 2026 00:35:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1pa2Vib3dsZXIuY2ElMkYyMDI2JTJGMDclMkYwMyUyRmNvMi1hbmQtZGVjaXNpb24tbWFraW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLm1pa2Vib3dsZXIuY2ElMkYyMDI2JTJGMDclMkYwMyUyRmNvMi1hbmQtZGVjaXNpb24tbWFraW5nJTJGJTdDVGhlJTIwYm90dGxlbmVjayUyMG1pZ2h0JTIwYmUlMjB0aGUlMjBhaXIlMjBpbiUyMHRoZSUyMHJvb20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MzExNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDA2JTNBMzIlM0EyOCUyMCUyQjAwMDA",
+      "title": "The bottleneck might be the air in the room",
+      "pubDate": "Sat, 04 Jul 2026 06:32:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFiZWF6LmNvbSUyRmNvdXJzZXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhYmVhei5jb20lMkZjb3Vyc2VzLmh0bWwlN0NEYXZpZCUyMEJlYXpsZXklMjAlRTIlODAlOTMlMjBQcm9ncmFtbWluZyUyMENvdXJzZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MjkxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDA1JTNBNDMlM0EwMSUyMCUyQjAwMDA",
+      "title": "David Beazley – Programming Courses",
+      "pubDate": "Sat, 04 Jul 2026 05:43:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHlwZXJzdGl0aW9uYWkuY29tJTJGdW5zbG9wLXJlc3VsdHMlN0NodHRwcyUzQSUyRiUyRnd3dy5oeXBlcnN0aXRpb25haS5jb20lMkZ1bnNsb3AtcmVzdWx0cyU3QzIwMjYlMjBVbnNsb3AlMjBBSS1Xcml0dGVuJTIwRmljdGlvbiUyMENvbnRlc3QlMjBSZXN1bHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODI4OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAwNSUzQTM3JTNBMjUlMjAlMkIwMDAw",
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "pubDate": "Sat, 04 Jul 2026 05:37:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGYWktY29kaW5nJTJGJTIzYXBwZW5kaXgtYWdlbnRpYy1sb29wcy1hbmQtd3JpdGluZy10aGlzLXBvc3QlN0NodHRwcyUzQSUyRiUyRmRhbmx1dS5jb20lMkZhaS1jb2RpbmclMkYlMjNhcHBlbmRpeC1hZ2VudGljLWxvb3BzLWFuZC13cml0aW5nLXRoaXMtcG9zdCU3Q0FnZW50aWMlMjBjb2RpbmclMjBub3RlcyUyMGZyb20lMjBHYWxhcGFnb3MlMjBJc2xhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MjY3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDA0JTNBMzclM0ExNSUyMCUyQjAwMDA",
+      "title": "Agentic coding notes from Galapagos Island",
+      "pubDate": "Sat, 04 Jul 2026 04:37:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFyZ2luYWxpYS5udSUyRmxvZyUyRmFfMTM1X2xlYXJuJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFyZ2luYWxpYS5udSUyRmxvZyUyRmFfMTM1X2xlYXJuJTJGJTdDTWF5YmUlMjB5b3UlMjBzaG91bGQlMjBsZWFybiUyMHNvbWV0aGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgyNDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMDMlM0EzNiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Maybe you should learn something",
+      "pubDate": "Sat, 04 Jul 2026 03:36:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
     }
   ]

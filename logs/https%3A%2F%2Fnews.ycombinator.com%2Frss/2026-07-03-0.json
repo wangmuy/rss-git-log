@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-03",
     "newestItemDate": "2026-07-03",
-    "itemCount": 46,
-    "generatedAt": "2026-07-04T04:06:19.823Z"
+    "itemCount": 55,
+    "generatedAt": "2026-07-04T07:45:33.701Z"
   },
   "items": [
     {
@@ -282,6 +282,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JkZ2FyZC5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRnYXJkLm5ldCUyRiU3Q1dvcmRnYXJkJTNBJTIwSW4tYnJvd3NlciUyMHJpY2gtdGV4dCUyMGVkaXRvciUyMGZyb20lMjB0aGUlMjBjcmVhdG9yJTIwb2YlMjBQcm9zZU1pcnJvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0E1MCUzQTQ3JTIwJTJCMDAwMA",
       "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
       "pubDate": "Fri, 03 Jul 2026 08:50:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYXRhbWFyaTY0LnNlJTJGcG9zdHMlMkYyMDI2JTJGb2Rpbi13aWtpcGVkaWElMkYlN0NodHRwcyUzQSUyRiUyRmthdGFtYXJpNjQuc2UlMkZwb3N0cyUyRjIwMjYlMkZvZGluLXdpa2lwZWRpYSUyRiU3Q09kaW4lMkMlMjBXaWtpcGVkaWElMjBhbmQlMjBFbmdhZ2VtZW50JTIwRmFybWluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgxMTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjMlM0EyNCUzQTM1JTIwJTJCMDAwMA",
+      "title": "Odin, Wikipedia and Engagement Farming",
+      "pubDate": "Fri, 03 Jul 2026 23:24:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy1hbXN0ZXJkYW0taW52ZW50ZWQtdGhlLWZpcmUtZGVwYXJ0bWVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGd29ya3NpbnByb2dyZXNzLmNvJTJGaXNzdWUlMkZob3ctYW1zdGVyZGFtLWludmVudGVkLXRoZS1maXJlLWRlcGFydG1lbnQlMkYlN0NBbXN0ZXJkYW0lMjBpbnZlbnRlZCUyMHRoZSUyMGZpcmUlMjBkZXBhcnRtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA5MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTQ2JTNBMTglMjAlMkIwMDAw",
+      "title": "Amsterdam invented the fire department",
+      "pubDate": "Fri, 03 Jul 2026 22:46:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmV4ZXRlci5hYy51ayUyRmZhY3VsdHktb2YtZW52aXJvbm1lbnQtc2NpZW5jZS1hbmQtZWNvbm9teSUyRmdpYW50LXRyZWVzLWhhdmUtbm8tdHJvdWJsZS1wdW1waW5nLXdhdGVyLXRvLXRvcC1icmFuY2hlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5leGV0ZXIuYWMudWslMkZmYWN1bHR5LW9mLWVudmlyb25tZW50LXNjaWVuY2UtYW5kLWVjb25vbXklMkZnaWFudC10cmVlcy1oYXZlLW5vLXRyb3VibGUtcHVtcGluZy13YXRlci10by10b3AtYnJhbmNoZXMlMkYlN0NHaWFudCUyMHRyZWVzJTIwaGF2ZSUyMG5vJTIwdHJvdWJsZSUyMHB1bXBpbmclMjB3YXRlciUyMHRvJTIwdG9wJTIwYnJhbmNoZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MDg3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIyJTNBNDAlM0EyOSUyMCUyQjAwMDA",
+      "title": "Giant trees have no trouble pumping water to top branches",
+      "pubDate": "Fri, 03 Jul 2026 22:40:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRmxlYW5zdHJhbC0xLTUlMkYlN0NodHRwcyUzQSUyRiUyRm1pc3RyYWwuYWklMkZuZXdzJTJGbGVhbnN0cmFsLTEtNSUyRiU3Q0xlYW5zdHJhbCUyMDEuNSUzQSUyMFByb29mJTIwQWJ1bmRhbmNlJTIwZm9yJTIwQWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA4MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTMzJTNBMTAlMjAlMkIwMDAw",
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "pubDate": "Fri, 03 Jul 2026 22:33:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDUGVyZm9ybWFuY2UlMjBwZXIlMjBkb2xsYXIlMjBpcyUyMGdldHRpbmclMjBmYXN0ZXIlMjBhbmQlMjBjaGVhcGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA0MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMSUzQTQ5JTNBMDYlMjAlMkIwMDAw",
+      "title": "Performance per dollar is getting faster and cheaper",
+      "pubDate": "Fri, 03 Jul 2026 21:49:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnByZXBhcmF0aW9uLnN1YnN0YWNrLmNvbSUyRnAlMkZvcGluaW9uLWktd2FzLW5vdC1hbGxvd2VkLXRvLXR5cGUlN0NodHRwcyUzQSUyRiUyRmlucHJlcGFyYXRpb24uc3Vic3RhY2suY29tJTJGcCUyRm9waW5pb24taS13YXMtbm90LWFsbG93ZWQtdG8tdHlwZSU3Q0klMjBXYXNuJ3QlMjBBbGxvd2VkJTIwUHJvbXB0aW5nJTIwQ2hhdEdQVCUyMER1cmluZyUyME15JTIwQ2hhbGslMjBUYWxrJTNBJTIwVGhpcyUyMElzJTIwRGlzY3JpbWluYXRpb24lMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NzcyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE3JTNBNDYlM0ExMCUyMCUyQjAwMDA",
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "pubDate": "Fri, 03 Jul 2026 17:46:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2VybGVudG9uJTJGbWNwc25vb3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZrZXJsZW50b24lMkZtY3Bzbm9vcCU3Q1Nob3clMjBITiUzQSUyME1jcHNub29wJTIwJUUyJTgwJTkzJTIwV2lyZXNoYXJrJTIwZm9yJTIwTUNQJTIwKHRyYW5zcGFyZW50JTIwcHJveHklMjBhbmQlMjBsaXZlJTIwVFVJKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc3MTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTYlM0E1MyUzQTUwJTIwJTJCMDAwMA",
+      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "pubDate": "Fri, 03 Jul 2026 16:53:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDVmFsdmUlMjBvcGVuLXNvdXJjZSUyMHRoZSUyMFN0ZWFtJTIwTWFjaGluZSUyMGUtaW5rJTIwc2NyZWVuJTIwc28lMjB5b3UlMjBjYW4lMjBtYWtlJTIweW91ciUyMG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0NTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTMlM0EwMSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "pubDate": "Fri, 03 Jul 2026 13:01:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDaHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDUG9zdGdyZVNRTCUyMGFuZCUyMHRoZSUyME9PTSUyMGtpbGxlciUzQSUyMFdoeSUyMHdlJTIwdXNlJTIwc3RyaWN0JTIwbWVtb3J5JTIwb3ZlcmNvbW1pdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0NTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTMlM0EwMCUzQTMxJTIwJTJCMDAwMA",
+      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
+      "pubDate": "Fri, 03 Jul 2026 13:00:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     }
   ]
