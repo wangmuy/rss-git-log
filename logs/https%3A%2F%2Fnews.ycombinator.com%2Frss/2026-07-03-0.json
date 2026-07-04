@@ -5,352 +5,392 @@
     "oldestItemDate": "2026-07-03",
     "newestItemDate": "2026-07-03",
     "itemCount": 55,
-    "generatedAt": "2026-07-04T07:47:20.517Z"
+    "generatedAt": "2026-07-04T12:48:35.881Z"
   },
   "items": [
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FzZXlsaXNzLmNvbSUyRjIwMjYlMkY3JTJGMiUyRmNhcnBsYXktaXMtYWRkaXRpdmUteW91LWRvbHRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FzZXlsaXNzLmNvbSUyRjIwMjYlMkY3JTJGMiUyRmNhcnBsYXktaXMtYWRkaXRpdmUteW91LWRvbHRzJTdDQ2FyUGxheSUyMElzJTIwQWRkaXRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2OTM5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDAxJTNBMDIlM0E0NSUyMCUyQjAwMDA",
-      "title": "CarPlay Is Additive",
-      "pubDate": "Fri, 03 Jul 2026 01:02:45 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZmb3Jtcy5jbG91ZC5taWNyb3NvZnQlMkZwYWdlcyUyRnJlc3BvbnNlcGFnZS5hc3B4JTNGaWQlM0R2NGo1Y3ZHR3IwR1JxeTE4MEJIYlI2Ry1jMTFuOHlGRGxRbWs0Qi1RakR4VVFrZFRUalpMVTBFeVRGRlJWMUUzTlZSVFZUUlRXalJITXk0dSUyNnJvdXRlJTNEc2hvcnR1cmwlN0NodHRwcyUzQSUyRiUyRmZvcm1zLmNsb3VkLm1pY3Jvc29mdCUyRnBhZ2VzJTJGcmVzcG9uc2VwYWdlLmFzcHglM0ZpZCUzRHY0ajVjdkdHcjBHUnF5MTgwQkhiUjZHLWMxMW44eUZEbFFtazRCLVFqRHhVUWtkVFRqWkxVMEV5VEZGUlYxRTNOVlJUVlRSVFdqUkhNeTR1JTI2cm91dGUlM0RzaG9ydHVybCU3Q09yZGVyJTIwYSUyMGJ1cm5lZCUyMENEJTIwb2YlMjB5b3VyJTIwb3duJTIwcHVibGljJTIwR2l0SHViJTIwcmVwbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY4OTk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDAlM0EwMSUzQTI2JTIwJTJCMDAwMA",
-      "title": "Order a burned CD of your own public GitHub repo",
-      "pubDate": "Fri, 03 Jul 2026 00:01:26 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGFhcm9uc29uLmJsb2clMkYlM0ZwJTNEOTkwMiU3Q2h0dHBzJTNBJTJGJTJGc2NvdHRhYXJvbnNvbi5ibG9nJTJGJTNGcCUzRDk5MDIlN0NBbiUyMEFtZXJpY2FuJTIwUHJpdmFjeSUyMEVtZXJnZW5jeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY4OTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDAlM0EwMSUzQTA2JTIwJTJCMDAwMA",
-      "title": "An American Privacy Emergency",
-      "pubDate": "Fri, 03 Jul 2026 00:01:06 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JkZ2FyZC5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRnYXJkLm5ldCUyRiU3Q1dvcmRnYXJkJTNBJTIwVGhlJTIwbmV3JTIwaW4tYnJvd3NlciUyMHJpY2gtdGV4dCUyMGVkaXRvciUyMGZyb20lMjB0aGUlMjBjcmVhdG9yJTIwb2YlMjBQcm9zZU1pcnJvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0E1MCUzQTQ3JTIwJTJCMDAwMA",
-      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-      "pubDate": "Fri, 03 Jul 2026 08:50:47 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGYWxpYmFiYS1iYW4tY2xhdWRlLWNvZGUtd29ya3BsYWNlLW92ZXItYWxsZWdlZC1iYWNrZG9vci1yaXNrcy1zb3VyY2Utc2F5cy0yMDI2LTA3LTAzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGYWxpYmFiYS1iYW4tY2xhdWRlLWNvZGUtd29ya3BsYWNlLW92ZXItYWxsZWdlZC1iYWNrZG9vci1yaXNrcy1zb3VyY2Utc2F5cy0yMDI2LTA3LTAzJTJGJTdDQWxpYmFiYSUyMHRvJTIwYmFuJTIwQ2xhdWRlJTIwQ29kZSUyMGluJTIwd29ya3BsYWNlJTIwb3ZlciUyMGFsbGVnZWQlMjBiYWNrZG9vciUyMHJpc2tzJTJDJTIwc291cmNlJTIwc2F5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNDQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0EzMSUzQTM3JTIwJTJCMDAwMA",
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "pubDate": "Fri, 03 Jul 2026 08:31:37 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWxpLmRldiUyRmJsb2clMkZoYWxmLWJha2VkLXByb2R1Y3QlMkYlN0NodHRwcyUzQSUyRiUyRndlbGkuZGV2JTJGYmxvZyUyRmhhbGYtYmFrZWQtcHJvZHVjdCUyRiU3Q0hhbGYtQmFrZWQlMjBQcm9kdWN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzIzODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwOCUzQTIzJTNBMzIlMjAlMkIwMDAw",
-      "title": "Half-Baked Product",
-      "pubDate": "Fri, 03 Jul 2026 08:23:32 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZtYW50aWNvcmVzZWFyY2guY29tJTJGYmxvZyUyRm9ubngtZW1iZWRkaW5ncy1zcGVlZHVwJTJGJTdDaHR0cHMlM0ElMkYlMkZtYW50aWNvcmVzZWFyY2guY29tJTJGYmxvZyUyRm9ubngtZW1iZWRkaW5ncy1zcGVlZHVwJTJGJTdDMTQlQzMlOTclMjBmYXN0ZXIlMjBlbWJlZGRpbmdzJTNBJTIwaG93JTIwd2UlMjByZWJ1aWx0JTIwdGhlJTIwT05OWCUyMHBhdGglMjBpbiUyME1hbnRpY29yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcwNDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDMlM0E0OSUzQTQ3JTIwJTJCMDAwMA",
-      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "pubDate": "Fri, 03 Jul 2026 03:49:47 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJraXQub3JnJTJGYmxvZyUyRjE4MTM2JTJGaW50cm9kdWNpbmctdGhlLXNhZmFyaS1tY3Atc2VydmVyLWZvci13ZWItZGV2ZWxvcGVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGd2Via2l0Lm9yZyUyRmJsb2clMkYxODEzNiUyRmludHJvZHVjaW5nLXRoZS1zYWZhcmktbWNwLXNlcnZlci1mb3Itd2ViLWRldmVsb3BlcnMlMkYlN0NUaGUlMjBTYWZhcmklMjBNQ1AlMjBzZXJ2ZXIlMjBmb3IlMjB3ZWIlMjBkZXZlbG9wZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3Njk2MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwMSUzQTM3JTNBMTElMjAlMkIwMDAw",
-      "title": "The Safari MCP server for web developers",
-      "pubDate": "Fri, 03 Jul 2026 01:37:11 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlkZS5jb20lMkZmaWRlLWV0aGljcy1kaXNjaXBsaW5hcnktY29tbWlzc2lvbi1pc3N1ZXMtYS1kZWNpc2lvbi1pbi1jYXNlLWludm9sdmluZy1nbS12bGFkaW1pci1rcmFtbmlrJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZmlkZS5jb20lMkZmaWRlLWV0aGljcy1kaXNjaXBsaW5hcnktY29tbWlzc2lvbi1pc3N1ZXMtYS1kZWNpc2lvbi1pbi1jYXNlLWludm9sdmluZy1nbS12bGFkaW1pci1rcmFtbmlrJTJGJTdDSW50ZXJuYXRpb25hbCUyMGNoZXNzJTIwZmVkZXJhdGlvbiUyMHNhbmN0aW9ucyUyMEtyYW1uaWslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NzI2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE3JTNBMDQlM0EwOCUyMCUyQjAwMDA",
-      "title": "International chess federation sanctions Kramnik",
-      "pubDate": "Fri, 03 Jul 2026 17:04:08 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZqdWwlMkYwMyUyRmRhdGFjZW50ZXItcmVjYWxsLWVsZWN0aW9ucyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnVzLW5ld3MlMkYyMDI2JTJGanVsJTJGMDMlMkZkYXRhY2VudGVyLXJlY2FsbC1lbGVjdGlvbnMlN0NVUyUyMHJlc2lkZW50cyUyMGFuZ3J5JTIwZGF0YWNlbnRlcnMlMjAnc2hvdmVkJTIwZG93biUyMG91ciUyMHRocm9hdHMnJTIwYXJlJTIwcmVjYWxsaW5nJTIwb2ZmaWNpYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzY3ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNiUzQTIwJTNBMTglMjAlMkIwMDAw",
-      "title": "US residents angry datacenters 'shoved down our throats' are recalling officials",
-      "pubDate": "Fri, 03 Jul 2026 16:20:18 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlsZnJlLm5ldCUyRjIwMjYlMkYwNyUyRnRoZS1saWZlLWFuZC10aW1lcy1vZi1tYXhpcy1wYXJ0LTEtc2ltZXZlcnl0aGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZpbGZyZS5uZXQlMkYyMDI2JTJGMDclMkZ0aGUtbGlmZS1hbmQtdGltZXMtb2YtbWF4aXMtcGFydC0xLXNpbWV2ZXJ5dGhpbmclMkYlN0NUaGUlMjBMaWZlJTIwYW5kJTIwVGltZXMlMjBvZiUyME1heGlzJTJDJTIwUGFydCUyMDElM0ElMjBTaW1FdmVyeXRoaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzY1MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTU2JTNBMDIlMjAlMkIwMDAw",
-      "title": "The Life and Times of Maxis, Part 1: SimEverything",
-      "pubDate": "Fri, 03 Jul 2026 15:56:02 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGVhbWNob25nJTJGcHhwaXBlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGVhbWNob25nJTJGcHhwaXBlJTdDNjAlMjUlMjBGYWJsZSUyMGNvc3QlMjBjdXQlMjBieSUyMGNvbnZlcnRpbmclMjBjb2RlJTIwdG8lMjBpbWFnZXMlMjBhbmQlMjBoYXZpbmclMjB0aGUlMjBtb2RlbCUyME9DUiUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzY0NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTUwJTNBNDklMjAlMkIwMDAw",
-      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
-      "pubDate": "Fri, 03 Jul 2026 15:50:49 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAyLjIwNDE1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAyLjIwNDE1JTdDTWFya2V0cyUyMGFyZSUyMGNvbXBldGl0aXZlJTIwaWYlMjBhbmQlMjBvbmx5JTIwaWYlMjBQJTIwISUzRCUyME5QJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzYzNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTQxJTNBNDQlMjAlMkIwMDAw",
-      "title": "Markets are competitive if and only if P != NP",
-      "pubDate": "Fri, 03 Jul 2026 15:41:44 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkYxMmdyYW1zb2ZjYXJib24uY29tJTJGcCUyRmFnZW50aWNzLW1lbW9yaXppbmctc2Vzc2lvbi10cmFuc2NyaXB0cyU3Q2h0dHBzJTNBJTJGJTJGMTJncmFtc29mY2FyYm9uLmNvbSUyRnAlMkZhZ2VudGljcy1tZW1vcml6aW5nLXNlc3Npb24tdHJhbnNjcmlwdHMlN0NDbGF1ZGUlMkMlMjBwbGVhc2UlMjBzdG9wJTIwdHJ5aW5nJTIwdG8lMjBtZW1vcml6ZSUyMHJhbmRvbSUyMGNyYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NjIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMzIlM0E1MSUyMCUyQjAwMDA",
-      "title": "Claude, please stop trying to memorize random crap",
-      "pubDate": "Fri, 03 Jul 2026 15:32:51 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZpbnRlcmNvbm5lY3RlZC5vcmclMkZob21lJTJGMjAyNiUyRjA3JTJGMDMlMkZmYWN0b3JpZXMlN0NodHRwcyUzQSUyRiUyRmludGVyY29ubmVjdGVkLm9yZyUyRmhvbWUlMkYyMDI2JTJGMDclMkYwMyUyRmZhY3RvcmllcyU3Q0ZhY3RvcmllcyUyMEFyZSUyMEp1c3QlMjBSb29tcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc2MDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTUlM0ExMyUzQTQzJTIwJTJCMDAwMA",
-      "title": "Factories Are Just Rooms",
-      "pubDate": "Fri, 03 Jul 2026 15:13:43 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVyZWt0aG9tcHNvbi5vcmclMkZwJTJGYW1lcmljYS0xOTI2LWFuLWFic3VyZGx5LWRlZXAtZGl2ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRlcmVrdGhvbXBzb24ub3JnJTJGcCUyRmFtZXJpY2EtMTkyNi1hbi1hYnN1cmRseS1kZWVwLWRpdmUlN0NBbWVyaWNhJTJDJTIwMTkyNiUzQSUyMFdoYXQlMjBhJTIwRm9yZ290dGVuJTIwMTAwLVllYXItT2xkJTIwUmVwb3J0JTIwU2F5cyUyMEFib3V0JTIwV2hvJTIwV2UlMjBBcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NTk3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMDglM0E1NiUyMCUyQjAwMDA",
-      "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
-      "pubDate": "Fri, 03 Jul 2026 15:08:56 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5ub3J0aC5uZXQlMkZibG9nJTJGYmVzdC1zaW1wbGUtc3lzdGVtLWZvci1ub3clMkYlN0NodHRwcyUzQSUyRiUyRmRhbm5vcnRoLm5ldCUyRmJsb2clMkZiZXN0LXNpbXBsZS1zeXN0ZW0tZm9yLW5vdyUyRiU3Q0Jlc3QlMjBTaW1wbGUlMjBTeXN0ZW0lMjBmb3IlMjBOb3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NTk0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMDYlM0E0NCUyMCUyQjAwMDA",
-      "title": "Best Simple System for Now",
-      "pubDate": "Fri, 03 Jul 2026 15:06:44 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFtZXNvYiUyRmxvY2FsLWxsbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmphbWVzb2IlMkZsb2NhbC1sbG0lN0NKYW1lc29iJ3MlMjBndWlkZSUyMHRvJTIwcnVubmluZyUyMFNPVEElMjBMTE1zJTIwbG9jYWxseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc1OTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTUlM0EwMyUzQTQzJTIwJTJCMDAwMA",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "pubDate": "Fri, 03 Jul 2026 15:03:43 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.177Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBlcnVzZXJkb25lLmNvbSUyRnBvc3RzJTJGMjAyNi0wNy0wMy1naXZlLXNtYXJ0LXBlb3BsZS10aGUtdG9vbHMlMkYlN0NodHRwcyUzQSUyRiUyRnN1cGVydXNlcmRvbmUuY29tJTJGcG9zdHMlMkYyMDI2LTA3LTAzLWdpdmUtc21hcnQtcGVvcGxlLXRoZS10b29scyUyRiU3Q0dpdmUlMjBTbWFydCUyMFBlb3BsZSUyMHRoZSUyMFRvb2xzJTIwdG8lMjBEbyUyMFNtYXJ0JTIwVGhpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzU3NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTQ5JTNBNDQlMjAlMkIwMDAw",
-      "title": "Give Smart People the Tools to Do Smart Things",
-      "pubDate": "Fri, 03 Jul 2026 14:49:44 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9tcHRvd2wuYWklMkZyZXNvdXJjZXMlMkZwZXJzaXN0ZW50LW1lbW9yeS1haS1hZ2VudHMlMkYlN0NodHRwcyUzQSUyRiUyRnByb21wdG93bC5haSUyRnJlc291cmNlcyUyRnBlcnNpc3RlbnQtbWVtb3J5LWFpLWFnZW50cyUyRiU3Q0FuYXRvbXklMjBvZiUyMFBlcnNpc3RlbnQlMjBNZW1vcnkncyUyMDMlMjBMYXllcnMlM0ElMjBDb21wYXJpbmclMjBDb250ZXh0TmVzdCUyQyUyME1lbTAlMjBhbmQlMjBaZXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NTQ4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE0JTNBMjclM0EyMSUyMCUyQjAwMDA",
-      "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
-      "pubDate": "Fri, 03 Jul 2026 14:27:21 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDVmFsdmUlMjBvcGVuJTIwc291cmNlJTIwdGhlJTIwU3RlYW0lMjBNYWNoaW5lJTIwZS1pbmslMjBzY3JlZW4lMjBzbyUyMHlvdSUyMGNhbiUyMG1ha2UlMjB5b3VyJTIwb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzQ1MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxMyUzQTAxJTNBNDklMjAlMkIwMDAw",
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "pubDate": "Fri, 03 Jul 2026 13:01:49 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDaHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDUG9zdGdyZVNRTCUyMGFuZCUyMHRoZSUyME9PTSUyMEtpbGxlciUzQSUyMFdoeSUyMFdlJTIwVXNlJTIwU3RyaWN0JTIwTWVtb3J5JTIwT3ZlcmNvbW1pdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0NTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTMlM0EwMCUzQTMxJTIwJTJCMDAwMA",
-      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-      "pubDate": "Fri, 03 Jul 2026 13:00:31 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tJTJGcCUyRnRoZS1mYWxsLWFuZC1yaXNlLW9mLXNjcmV3d29ybSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cnVjdGlvbi1waHlzaWNzLmNvbSUyRnAlMkZ0aGUtZmFsbC1hbmQtcmlzZS1vZi1zY3Jld3dvcm0lN0NUaGUlMjBGYWxsJTIwYW5kJTIwUmlzZSUyMG9mJTIwU2NyZXd3b3JtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzQ0OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxMiUzQTU4JTNBNDclMjAlMkIwMDAw",
-      "title": "The Fall and Rise of Screwworm",
-      "pubDate": "Fri, 03 Jul 2026 12:58:47 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAyNTEyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAyNTEyJTdDUHJvZ3JhbS1hcy1XZWlnaHRzJTNBJTIwQSUyMFByb2dyYW1taW5nJTIwUGFyYWRpZ20lMjBmb3IlMjBGdXp6eSUyMEZ1bmN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0MzY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTIlM0E0NiUzQTMwJTIwJTJCMDAwMA",
-      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "pubDate": "Fri, 03 Jul 2026 12:46:30 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG9tYnJvd24uYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA3JTJGbG9hZC1wbGNibWJhc2ljODEtY29tbW9kb3JlLTY0LWJhc2ljLmh0bWwlN0NodHRwcyUzQSUyRiUyRnRob21icm93bi5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDclMkZsb2FkLXBsY2JtYmFzaWM4MS1jb21tb2RvcmUtNjQtYmFzaWMuaHRtbCU3Q0NvbW1vZG9yZSUyMDY0JTIwQmFzaWMlMjBmb3IlMjBQb3N0Z3JlU1FMJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzI3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwOSUzQTA4JTNBMTQlMjAlMkIwMDAw",
-      "title": "Commodore 64 Basic for PostgreSQL",
-      "pubDate": "Fri, 03 Jul 2026 09:08:14 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmV4ZXRlci5hYy51ayUyRmZhY3VsdHktb2YtZW52aXJvbm1lbnQtc2NpZW5jZS1hbmQtZWNvbm9teSUyRnNjaWVudGlzdHMtZGlzY292ZXItZ3VpZGFuY2Utc3lzdGVtLWZvci1taWdyYXRvcnktc29uZ2JpcmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZuZXdzLmV4ZXRlci5hYy51ayUyRmZhY3VsdHktb2YtZW52aXJvbm1lbnQtc2NpZW5jZS1hbmQtZWNvbm9teSUyRnNjaWVudGlzdHMtZGlzY292ZXItZ3VpZGFuY2Utc3lzdGVtLWZvci1taWdyYXRvcnktc29uZ2JpcmRzJTJGJTdDU2NpZW50aXN0cyUyMGRpc2NvdmVyJTIwZ3VpZGFuY2UlMjBzeXN0ZW0lMjBmb3IlMjBtaWdyYXRvcnklMjBzb25nYmlyZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MTI3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIzJTNBMzYlM0E0NiUyMCUyQjAwMDA",
       "title": "Scientists discover guidance system for migratory songbirds",
       "pubDate": "Fri, 03 Jul 2026 23:36:46 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZrYXRhbWFyaTY0LnNlJTJGcG9zdHMlMkYyMDI2JTJGb2Rpbi13aWtpcGVkaWElMkYlN0NodHRwcyUzQSUyRiUyRmthdGFtYXJpNjQuc2UlMkZwb3N0cyUyRjIwMjYlMkZvZGluLXdpa2lwZWRpYSUyRiU3Q09kaW4lMkMlMjBXaWtpcGVkaWElMjBhbmQlMjBlbmdhZ2VtZW50JTIwZmFybWluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgxMTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjMlM0EyNCUzQTM1JTIwJTJCMDAwMA",
-      "title": "Odin, Wikipedia and engagement farming",
-      "pubDate": "Fri, 03 Jul 2026 23:24:35 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.179Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW5naW5lZXJpbmcuY29sdW1iaWEuZWR1JTJGYWJvdXQlMkZuZXdzJTJGY2lyY3VpdC1sZXRzLXlvdXItYnJhaW4tdGhpbmstYW5kLXNlZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVuZ2luZWVyaW5nLmNvbHVtYmlhLmVkdSUyRmFib3V0JTJGbmV3cyUyRmNpcmN1aXQtbGV0cy15b3VyLWJyYWluLXRoaW5rLWFuZC1zZWUlN0NUaGUlMjBjaXJjdWl0JTIwdGhhdCUyMGxldHMlMjB5b3VyJTIwYnJhaW4lMjB0aGluayUyMGFuZCUyMHNlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwOTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0E1NiUzQTE3JTIwJTJCMDAwMA",
-      "title": "The circuit that lets your brain think and see",
-      "pubDate": "Fri, 03 Jul 2026 22:56:17 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy1hbXN0ZXJkYW0taW52ZW50ZWQtdGhlLWZpcmUtZGVwYXJ0bWVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGd29ya3NpbnByb2dyZXNzLmNvJTJGaXNzdWUlMkZob3ctYW1zdGVyZGFtLWludmVudGVkLXRoZS1maXJlLWRlcGFydG1lbnQlMkYlN0NUaGUlMjBmaXJlZmlnaHRpbmclMjBzeXN0ZW0lMjBvZiUyMHRoZSUyMFZhbiUyMGRlciUyMEhleWRlbiUyMGJyb3RoZXJzJTIwaW4lMjAxN3RoJTIwY2VudHVyeSUyMEFtc3RlcmRhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwOTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0E0NiUzQTE4JTIwJTJCMDAwMA",
-      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-      "pubDate": "Fri, 03 Jul 2026 22:46:18 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.179Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmV4ZXRlci5hYy51ayUyRmZhY3VsdHktb2YtZW52aXJvbm1lbnQtc2NpZW5jZS1hbmQtZWNvbm9teSUyRmdpYW50LXRyZWVzLWhhdmUtbm8tdHJvdWJsZS1wdW1waW5nLXdhdGVyLXRvLXRvcC1icmFuY2hlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5leGV0ZXIuYWMudWslMkZmYWN1bHR5LW9mLWVudmlyb25tZW50LXNjaWVuY2UtYW5kLWVjb25vbXklMkZnaWFudC10cmVlcy1oYXZlLW5vLXRyb3VibGUtcHVtcGluZy13YXRlci10by10b3AtYnJhbmNoZXMlMkYlN0NHaWFudCUyMHRyZWVzJTIwaGF2ZSUyMG5vJTIwdHJvdWJsZSUyMHB1bXBpbmclMjB3YXRlciUyMHRvJTIwdG9wJTIwYnJhbmNoZXMlM0ElMjBuZXclMjByZXNlYXJjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwODcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0E0MCUzQTI5JTIwJTJCMDAwMA",
-      "title": "Giant trees have no trouble pumping water to top branches: new research",
-      "pubDate": "Fri, 03 Jul 2026 22:40:29 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRm9zc1ByaW1lJTJGU3RlYW0tQ29udHJvbGxlci1BdXRvLUNoYXJnZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkZvc3NQcmltZSUyRlN0ZWFtLUNvbnRyb2xsZXItQXV0by1DaGFyZ2UlN0NTdGVhbSUyMENvbnRyb2xsZXIlMjBBdXRvLUNoYXJnZSUyMCVFMiU4MCU5MyUyMHBpbG90JTIwdG8lMjBtYWduZXRpYyUyMGNoYXJnaW5nJTIwcHVjayUyMHVzaW5nJTIwQ1YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MDg2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIyJTNBMzklM0E1MCUyMCUyQjAwMDA",
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "pubDate": "Fri, 03 Jul 2026 22:39:50 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZjaGVubGl1LTE5OTYuZ2l0aHViLmlvJTJGcHJvamVjdHMlMkZMTS1EaXNwZXJzaW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZjaGVubGl1LTE5OTYuZ2l0aHViLmlvJTJGcHJvamVjdHMlMkZMTS1EaXNwZXJzaW9uJTJGJTdDRGlzcGVyc2lvbiUyMGxvc3MlMjBjb3VudGVyYWN0cyUyMGVtYmVkZGluZyUyMGNvbmRlbnNhdGlvbiUyMGluJTIwc21hbGwlMjBsYW5ndWFnZSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwODI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0EzNSUzQTQ3JTIwJTJCMDAwMA",
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "pubDate": "Fri, 03 Jul 2026 22:35:47 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRmdXQuY29tJTdDaHR0cHMlM0ElMkYlMkZnaXRmdXQuY29tJTJGJTdDR2l0RnV0JTIwJUUyJTgwJTkzJTIwWW91ciUyMEdpdEh1YiUyMHN0YXRzJTIwdHVybmVkJTIwaW50byUyMGElMjBXb3JsZC1DdXAtc3R5bGUlMjBwbGF5ZXIlMjBjYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA4MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTM0JTNBMTYlMjAlMkIwMDAw",
-      "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
-      "pubDate": "Fri, 03 Jul 2026 22:34:16 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRmxlYW5zdHJhbC0xLTUlMkYlN0NodHRwcyUzQSUyRiUyRm1pc3RyYWwuYWklMkZuZXdzJTJGbGVhbnN0cmFsLTEtNSUyRiU3Q0xlYW5zdHJhbCUyMDEuNSUzQSUyMFByb29mJTIwYWJ1bmRhbmNlJTIwZm9yJTIwYWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA4MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTMzJTNBMTAlMjAlMkIwMDAw",
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "pubDate": "Fri, 03 Jul 2026 22:33:10 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDR0xNNS4yJTIwb24lMjBBTUQlMjBNSTM1NVglMjBhdCUyMDI2MjYlMjB0b2slMkZzJTJGbm9kZSUyMGF0JTIwb3ZlciUyMDJ4JTIwbG93ZXIlMjBjb3N0JTIwdGhhbiUyMEJsYWNrd2VsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwNDE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjElM0E0OSUzQTA2JTIwJTJCMDAwMA",
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "pubDate": "Fri, 03 Jul 2026 21:49:06 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZmYXphbWhkLmNvbSUyRm1lbnRhbC1tb2RlbHMlMkZzb2Z0d2FyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZmF6YW1oZC5jb20lMkZtZW50YWwtbW9kZWxzJTJGc29mdHdhcmUlMkYlN0NTb2Z0d2FyZSUyQyUyMGZyb20lMjBGaXJzdCUyMFByaW5jaXBsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MDIyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIxJTNBMjglM0E1NSUyMCUyQjAwMDA",
-      "title": "Software, from First Principles",
-      "pubDate": "Fri, 03 Jul 2026 21:28:55 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZlcG9jaC5haSUyRmRhdGEtaW5zaWdodHMlMkZjdmUtc2V2ZXJpdHktc3Bpa2UlN0NodHRwcyUzQSUyRiUyRmVwb2NoLmFpJTJGZGF0YS1pbnNpZ2h0cyUyRmN2ZS1zZXZlcml0eS1zcGlrZSU3Q05ldyUyMHNlcmlvdXMlMjB2dWxuZXJhYmlsaXRpZXMlMjBzcGlrZWQlMjBhcm91bmQlMjByZWxlYXNlJTIwb2YlMjBDbGF1ZGUlMjBNeXRob3MlMjBQcmV2aWV3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODAwNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMSUzQTE2JTNBMTYlMjAlMkIwMDAw",
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "pubDate": "Fri, 03 Jul 2026 21:16:16 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRm1pZGRsZS1lYXN0LWFuZC1hZnJpY2ElMkYyMDI2JTJGMDclMkYwMiUyRmFmcmljYW5zLWFyZS10dXJuaW5nLXRvLXN0YXJsaW5rJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRm1pZGRsZS1lYXN0LWFuZC1hZnJpY2ElMkYyMDI2JTJGMDclMkYwMiUyRmFmcmljYW5zLWFyZS10dXJuaW5nLXRvLXN0YXJsaW5rJTdDQWZyaWNhbnMlMjBBcmUlMjBUdXJuaW5nJTIwdG8lMjBTdGFybGluayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc5OTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjElM0EwOCUzQTM3JTIwJTJCMDAwMA",
-      "title": "Africans Are Turning to Starlink",
-      "pubDate": "Fri, 03 Jul 2026 21:08:37 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGaW5mcmFjb3N0JTJGam9icyUyRllUSmNGd3ItbWFya2V0aW5nLWxlYWQlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZpbmZyYWNvc3QlMkZqb2JzJTJGWVRKY0Z3ci1tYXJrZXRpbmctbGVhZCU3Q0luZnJhY29zdCUyMChZQyUyMFcyMSklMjBJcyUyMEhpcmluZyUyMGElMjBNYXJrZXRpbmclMjBMZWFkJTIwdG8lMjBTaGlmdCUyMEZpbk9wcyUyMExlZnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3OTkwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIxJTNBMDAlM0E1MCUyMCUyQjAwMDA",
-      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
-      "pubDate": "Fri, 03 Jul 2026 21:00:50 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoLnVjci5lZHUlMkZob21lJTJGYmFleiUyRmFjdF9jb3Vyc2UlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXRoLnVjci5lZHUlMkZob21lJTJGYmFleiUyRmFjdF9jb3Vyc2UlMkZpbmRleC5odG1sJTdDQXBwbGllZCUyMENhdGVnb3J5JTIwVGhlb3J5JTIwQ291cnNlJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3Nzk3MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMCUzQTQyJTNBMDAlMjAlMkIwMDAw",
-      "title": "Applied Category Theory Course (2018)",
-      "pubDate": "Fri, 03 Jul 2026 20:42:00 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZjaXRpemVubGFiLmNhJTJGcmVzZWFyY2glMkZtZW1iZXItb2YtY29tbWl0dGVlLWludmVzdGlnYXRpbmctc3B5d2FyZS1oYWNrZWQtd2l0aC1wZWdhc3VzJTJGJTdDaHR0cHMlM0ElMkYlMkZjaXRpemVubGFiLmNhJTJGcmVzZWFyY2glMkZtZW1iZXItb2YtY29tbWl0dGVlLWludmVzdGlnYXRpbmctc3B5d2FyZS1oYWNrZWQtd2l0aC1wZWdhc3VzJTJGJTdDRXNwaW9uYWdlJTIwQWdhaW5zdCUyMHRoZSUyMEV1cm9wZWFuJTIwUGFybGlhbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc5NjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjAlM0EzOCUzQTI2JTIwJTJCMDAwMA",
-      "title": "Espionage Against the European Parliament",
-      "pubDate": "Fri, 03 Jul 2026 20:38:26 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2VhcnhuZyUyRnNlYXJ4bmclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzZWFyeG5nJTJGc2VhcnhuZyU3Q1NlYXJYTkclM0ElMjBBJTIwZnJlZSUyMGludGVybmV0JTIwbWV0YXNlYXJjaCUyMGVuZ2luZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc5NDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjAlM0ExNSUzQTQ5JTIwJTJCMDAwMA",
-      "title": "SearXNG: A free internet metasearch engine",
-      "pubDate": "Fri, 03 Jul 2026 20:15:49 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZjcm9jaWRiLmNvbSUyRnBvc3QlMkZmcmVlYnNkLWF0ZS1teS1yYW0lMkYlN0NodHRwcyUzQSUyRiUyRmNyb2NpZGIuY29tJTJGcG9zdCUyRmZyZWVic2QtYXRlLW15LXJhbSUyRiU3Q0ZyZWVCU0QlMjBhdGUlMjBteSUyMFJBTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc4NzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTklM0EwOCUzQTMxJTIwJTJCMDAwMA",
-      "title": "FreeBSD ate my RAM",
-      "pubDate": "Fri, 03 Jul 2026 19:08:31 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZwaGVub21lbmFsd29ybGQub3JnJTJGYW5hbHlzaXMlMkZ0aGUtYW50aS1hbWF6b24lMkYlN0NodHRwcyUzQSUyRiUyRnBoZW5vbWVuYWx3b3JsZC5vcmclMkZhbmFseXNpcyUyRnRoZS1hbnRpLWFtYXpvbiUyRiU3Q0Nvc3RjbyUyMGlzJTIwdGhlJTIwYW50aS1BbWF6b24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NjA0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMTQlM0E1NSUyMCUyQjAwMDA",
-      "title": "Costco is the anti-Amazon",
-      "pubDate": "Fri, 03 Jul 2026 15:14:55 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZpbnRlcmNvbm5lY3RlZC5vcmclMkZob21lJTJGMjAyNiUyRjA3JTJGMDMlMkZmYWN0b3JpZXMlN0NodHRwcyUzQSUyRiUyRmludGVyY29ubmVjdGVkLm9yZyUyRmhvbWUlMkYyMDI2JTJGMDclMkYwMyUyRmZhY3RvcmllcyU3Q0ZhY3RvcmllcyUyMGFyZSUyMGp1c3QlMjByb29tcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc2MDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTUlM0ExMyUzQTQzJTIwJTJCMDAwMA",
-      "title": "Factories are just rooms",
-      "pubDate": "Fri, 03 Jul 2026 15:13:43 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.178Z"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JkZ2FyZC5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRnYXJkLm5ldCUyRiU3Q1dvcmRnYXJkJTNBJTIwSW4tYnJvd3NlciUyMHJpY2gtdGV4dCUyMGVkaXRvciUyMGZyb20lMjB0aGUlMjBjcmVhdG9yJTIwb2YlMjBQcm9zZU1pcnJvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0E1MCUzQTQ3JTIwJTJCMDAwMA",
-      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
-      "pubDate": "Fri, 03 Jul 2026 08:50:47 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZrYXRhbWFyaTY0LnNlJTJGcG9zdHMlMkYyMDI2JTJGb2Rpbi13aWtpcGVkaWElMkYlN0NodHRwcyUzQSUyRiUyRmthdGFtYXJpNjQuc2UlMkZwb3N0cyUyRjIwMjYlMkZvZGluLXdpa2lwZWRpYSUyRiU3Q09kaW4lMkMlMjBXaWtpcGVkaWElMjBhbmQlMjBFbmdhZ2VtZW50JTIwRmFybWluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgxMTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjMlM0EyNCUzQTM1JTIwJTJCMDAwMA",
       "title": "Odin, Wikipedia and Engagement Farming",
       "pubDate": "Fri, 03 Jul 2026 23:24:35 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYXRhbWFyaTY0LnNlJTJGcG9zdHMlMkYyMDI2JTJGb2Rpbi13aWtpcGVkaWElMkYlN0NodHRwcyUzQSUyRiUyRmthdGFtYXJpNjQuc2UlMkZwb3N0cyUyRjIwMjYlMkZvZGluLXdpa2lwZWRpYSUyRiU3Q09kaW4lMkMlMjBXaWtpcGVkaWElMjBhbmQlMjBlbmdhZ2VtZW50JTIwZmFybWluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgxMTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjMlM0EyNCUzQTM1JTIwJTJCMDAwMA",
+      "title": "Odin, Wikipedia and engagement farming",
+      "pubDate": "Fri, 03 Jul 2026 23:24:35 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW5naW5lZXJpbmcuY29sdW1iaWEuZWR1JTJGYWJvdXQlMkZuZXdzJTJGY2lyY3VpdC1sZXRzLXlvdXItYnJhaW4tdGhpbmstYW5kLXNlZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVuZ2luZWVyaW5nLmNvbHVtYmlhLmVkdSUyRmFib3V0JTJGbmV3cyUyRmNpcmN1aXQtbGV0cy15b3VyLWJyYWluLXRoaW5rLWFuZC1zZWUlN0NUaGUlMjBjaXJjdWl0JTIwdGhhdCUyMGxldHMlMjB5b3VyJTIwYnJhaW4lMjB0aGluayUyMGFuZCUyMHNlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwOTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0E1NiUzQTE3JTIwJTJCMDAwMA",
+      "title": "The circuit that lets your brain think and see",
+      "pubDate": "Fri, 03 Jul 2026 22:56:17 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy1hbXN0ZXJkYW0taW52ZW50ZWQtdGhlLWZpcmUtZGVwYXJ0bWVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGd29ya3NpbnByb2dyZXNzLmNvJTJGaXNzdWUlMkZob3ctYW1zdGVyZGFtLWludmVudGVkLXRoZS1maXJlLWRlcGFydG1lbnQlMkYlN0NBbXN0ZXJkYW0lMjBpbnZlbnRlZCUyMHRoZSUyMGZpcmUlMjBkZXBhcnRtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA5MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTQ2JTNBMTglMjAlMkIwMDAw",
       "title": "Amsterdam invented the fire department",
       "pubDate": "Fri, 03 Jul 2026 22:46:18 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy1hbXN0ZXJkYW0taW52ZW50ZWQtdGhlLWZpcmUtZGVwYXJ0bWVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGd29ya3NpbnByb2dyZXNzLmNvJTJGaXNzdWUlMkZob3ctYW1zdGVyZGFtLWludmVudGVkLXRoZS1maXJlLWRlcGFydG1lbnQlMkYlN0NUaGUlMjBmaXJlZmlnaHRpbmclMjBzeXN0ZW0lMjBvZiUyMHRoZSUyMFZhbiUyMGRlciUyMEhleWRlbiUyMGJyb3RoZXJzJTIwaW4lMjAxN3RoJTIwY2VudHVyeSUyMEFtc3RlcmRhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwOTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0E0NiUzQTE4JTIwJTJCMDAwMA",
+      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+      "pubDate": "Fri, 03 Jul 2026 22:46:18 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmV4ZXRlci5hYy51ayUyRmZhY3VsdHktb2YtZW52aXJvbm1lbnQtc2NpZW5jZS1hbmQtZWNvbm9teSUyRmdpYW50LXRyZWVzLWhhdmUtbm8tdHJvdWJsZS1wdW1waW5nLXdhdGVyLXRvLXRvcC1icmFuY2hlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5leGV0ZXIuYWMudWslMkZmYWN1bHR5LW9mLWVudmlyb25tZW50LXNjaWVuY2UtYW5kLWVjb25vbXklMkZnaWFudC10cmVlcy1oYXZlLW5vLXRyb3VibGUtcHVtcGluZy13YXRlci10by10b3AtYnJhbmNoZXMlMkYlN0NHaWFudCUyMHRyZWVzJTIwaGF2ZSUyMG5vJTIwdHJvdWJsZSUyMHB1bXBpbmclMjB3YXRlciUyMHRvJTIwdG9wJTIwYnJhbmNoZXMlM0ElMjBuZXclMjByZXNlYXJjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwODcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0E0MCUzQTI5JTIwJTJCMDAwMA",
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "pubDate": "Fri, 03 Jul 2026 22:40:29 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmV4ZXRlci5hYy51ayUyRmZhY3VsdHktb2YtZW52aXJvbm1lbnQtc2NpZW5jZS1hbmQtZWNvbm9teSUyRmdpYW50LXRyZWVzLWhhdmUtbm8tdHJvdWJsZS1wdW1waW5nLXdhdGVyLXRvLXRvcC1icmFuY2hlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5leGV0ZXIuYWMudWslMkZmYWN1bHR5LW9mLWVudmlyb25tZW50LXNjaWVuY2UtYW5kLWVjb25vbXklMkZnaWFudC10cmVlcy1oYXZlLW5vLXRyb3VibGUtcHVtcGluZy13YXRlci10by10b3AtYnJhbmNoZXMlMkYlN0NHaWFudCUyMHRyZWVzJTIwaGF2ZSUyMG5vJTIwdHJvdWJsZSUyMHB1bXBpbmclMjB3YXRlciUyMHRvJTIwdG9wJTIwYnJhbmNoZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MDg3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIyJTNBNDAlM0EyOSUyMCUyQjAwMDA",
       "title": "Giant trees have no trouble pumping water to top branches",
       "pubDate": "Fri, 03 Jul 2026 22:40:29 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRm9zc1ByaW1lJTJGU3RlYW0tQ29udHJvbGxlci1BdXRvLUNoYXJnZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkZvc3NQcmltZSUyRlN0ZWFtLUNvbnRyb2xsZXItQXV0by1DaGFyZ2UlN0NTdGVhbSUyMENvbnRyb2xsZXIlMjBBdXRvLUNoYXJnZSUyMCVFMiU4MCU5MyUyMHBpbG90JTIwdG8lMjBtYWduZXRpYyUyMGNoYXJnaW5nJTIwcHVjayUyMHVzaW5nJTIwQ1YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MDg2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIyJTNBMzklM0E1MCUyMCUyQjAwMDA",
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "pubDate": "Fri, 03 Jul 2026 22:39:50 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGVubGl1LTE5OTYuZ2l0aHViLmlvJTJGcHJvamVjdHMlMkZMTS1EaXNwZXJzaW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZjaGVubGl1LTE5OTYuZ2l0aHViLmlvJTJGcHJvamVjdHMlMkZMTS1EaXNwZXJzaW9uJTJGJTdDRGlzcGVyc2lvbiUyMGxvc3MlMjBjb3VudGVyYWN0cyUyMGVtYmVkZGluZyUyMGNvbmRlbnNhdGlvbiUyMGluJTIwc21hbGwlMjBsYW5ndWFnZSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwODI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjIlM0EzNSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Dispersion loss counteracts embedding condensation in small language models",
+      "pubDate": "Fri, 03 Jul 2026 22:35:47 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRmdXQuY29tJTdDaHR0cHMlM0ElMkYlMkZnaXRmdXQuY29tJTJGJTdDR2l0RnV0JTIwJUUyJTgwJTkzJTIwWW91ciUyMEdpdEh1YiUyMHN0YXRzJTIwdHVybmVkJTIwaW50byUyMGElMjBXb3JsZC1DdXAtc3R5bGUlMjBwbGF5ZXIlMjBjYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA4MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTM0JTNBMTYlMjAlMkIwMDAw",
+      "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
+      "pubDate": "Fri, 03 Jul 2026 22:34:16 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRmxlYW5zdHJhbC0xLTUlMkYlN0NodHRwcyUzQSUyRiUyRm1pc3RyYWwuYWklMkZuZXdzJTJGbGVhbnN0cmFsLTEtNSUyRiU3Q0xlYW5zdHJhbCUyMDEuNSUzQSUyMFByb29mJTIwQWJ1bmRhbmNlJTIwZm9yJTIwQWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA4MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTMzJTNBMTAlMjAlMkIwMDAw",
       "title": "Leanstral 1.5: Proof Abundance for All",
       "pubDate": "Fri, 03 Jul 2026 22:33:10 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRmxlYW5zdHJhbC0xLTUlMkYlN0NodHRwcyUzQSUyRiUyRm1pc3RyYWwuYWklMkZuZXdzJTJGbGVhbnN0cmFsLTEtNSUyRiU3Q0xlYW5zdHJhbCUyMDEuNSUzQSUyMFByb29mJTIwYWJ1bmRhbmNlJTIwZm9yJTIwYWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA4MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMiUzQTMzJTNBMTAlMjAlMkIwMDAw",
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "pubDate": "Fri, 03 Jul 2026 22:33:10 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDR0xNNS4yJTIwb24lMjBBTUQlMjBNSTM1NVglMjBhdCUyMDI2MjYlMjB0b2slMkZzJTJGbm9kZSUyMGF0JTIwb3ZlciUyMDJ4JTIwbG93ZXIlMjBjb3N0JTIwdGhhbiUyMEJsYWNrd2VsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgwNDE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjElM0E0OSUzQTA2JTIwJTJCMDAwMA",
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "pubDate": "Fri, 03 Jul 2026 21:49:06 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGZ2xtNTItYW1kJTdDUGVyZm9ybWFuY2UlMjBwZXIlMjBkb2xsYXIlMjBpcyUyMGdldHRpbmclMjBmYXN0ZXIlMjBhbmQlMjBjaGVhcGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODA0MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMSUzQTQ5JTNBMDYlMjAlMkIwMDAw",
       "title": "Performance per dollar is getting faster and cheaper",
       "pubDate": "Fri, 03 Jul 2026 21:49:06 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json",
-      "readAt": "2026-07-04T07:47:20.179Z"
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYXphbWhkLmNvbSUyRm1lbnRhbC1tb2RlbHMlMkZzb2Z0d2FyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZmF6YW1oZC5jb20lMkZtZW50YWwtbW9kZWxzJTJGc29mdHdhcmUlMkYlN0NTb2Z0d2FyZSUyQyUyMGZyb20lMjBGaXJzdCUyMFByaW5jaXBsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4MDIyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIxJTNBMjglM0E1NSUyMCUyQjAwMDA",
+      "title": "Software, from First Principles",
+      "pubDate": "Fri, 03 Jul 2026 21:28:55 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcG9jaC5haSUyRmRhdGEtaW5zaWdodHMlMkZjdmUtc2V2ZXJpdHktc3Bpa2UlN0NodHRwcyUzQSUyRiUyRmVwb2NoLmFpJTJGZGF0YS1pbnNpZ2h0cyUyRmN2ZS1zZXZlcml0eS1zcGlrZSU3Q05ldyUyMHNlcmlvdXMlMjB2dWxuZXJhYmlsaXRpZXMlMjBzcGlrZWQlMjBhcm91bmQlMjByZWxlYXNlJTIwb2YlMjBDbGF1ZGUlMjBNeXRob3MlMjBQcmV2aWV3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODAwNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMSUzQTE2JTNBMTYlMjAlMkIwMDAw",
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "pubDate": "Fri, 03 Jul 2026 21:16:16 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRm1pZGRsZS1lYXN0LWFuZC1hZnJpY2ElMkYyMDI2JTJGMDclMkYwMiUyRmFmcmljYW5zLWFyZS10dXJuaW5nLXRvLXN0YXJsaW5rJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRm1pZGRsZS1lYXN0LWFuZC1hZnJpY2ElMkYyMDI2JTJGMDclMkYwMiUyRmFmcmljYW5zLWFyZS10dXJuaW5nLXRvLXN0YXJsaW5rJTdDQWZyaWNhbnMlMjBBcmUlMjBUdXJuaW5nJTIwdG8lMjBTdGFybGluayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc5OTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjElM0EwOCUzQTM3JTIwJTJCMDAwMA",
+      "title": "Africans Are Turning to Starlink",
+      "pubDate": "Fri, 03 Jul 2026 21:08:37 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGaW5mcmFjb3N0JTJGam9icyUyRllUSmNGd3ItbWFya2V0aW5nLWxlYWQlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZpbmZyYWNvc3QlMkZqb2JzJTJGWVRKY0Z3ci1tYXJrZXRpbmctbGVhZCU3Q0luZnJhY29zdCUyMChZQyUyMFcyMSklMjBJcyUyMEhpcmluZyUyMGElMjBNYXJrZXRpbmclMjBMZWFkJTIwdG8lMjBTaGlmdCUyMEZpbk9wcyUyMExlZnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3OTkwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDIxJTNBMDAlM0E1MCUyMCUyQjAwMDA",
+      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
+      "pubDate": "Fri, 03 Jul 2026 21:00:50 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoLnVjci5lZHUlMkZob21lJTJGYmFleiUyRmFjdF9jb3Vyc2UlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXRoLnVjci5lZHUlMkZob21lJTJGYmFleiUyRmFjdF9jb3Vyc2UlMkZpbmRleC5odG1sJTdDQXBwbGllZCUyMENhdGVnb3J5JTIwVGhlb3J5JTIwQ291cnNlJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3Nzk3MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAyMCUzQTQyJTNBMDAlMjAlMkIwMDAw",
+      "title": "Applied Category Theory Course (2018)",
+      "pubDate": "Fri, 03 Jul 2026 20:42:00 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXRpemVubGFiLmNhJTJGcmVzZWFyY2glMkZtZW1iZXItb2YtY29tbWl0dGVlLWludmVzdGlnYXRpbmctc3B5d2FyZS1oYWNrZWQtd2l0aC1wZWdhc3VzJTJGJTdDaHR0cHMlM0ElMkYlMkZjaXRpemVubGFiLmNhJTJGcmVzZWFyY2glMkZtZW1iZXItb2YtY29tbWl0dGVlLWludmVzdGlnYXRpbmctc3B5d2FyZS1oYWNrZWQtd2l0aC1wZWdhc3VzJTJGJTdDRXNwaW9uYWdlJTIwQWdhaW5zdCUyMHRoZSUyMEV1cm9wZWFuJTIwUGFybGlhbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc5NjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjAlM0EzOCUzQTI2JTIwJTJCMDAwMA",
+      "title": "Espionage Against the European Parliament",
+      "pubDate": "Fri, 03 Jul 2026 20:38:26 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2VhcnhuZyUyRnNlYXJ4bmclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzZWFyeG5nJTJGc2VhcnhuZyU3Q1NlYXJYTkclM0ElMjBBJTIwZnJlZSUyMGludGVybmV0JTIwbWV0YXNlYXJjaCUyMGVuZ2luZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc5NDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMjAlM0ExNSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "SearXNG: A free internet metasearch engine",
+      "pubDate": "Fri, 03 Jul 2026 20:15:49 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcm9jaWRiLmNvbSUyRnBvc3QlMkZmcmVlYnNkLWF0ZS1teS1yYW0lMkYlN0NodHRwcyUzQSUyRiUyRmNyb2NpZGIuY29tJTJGcG9zdCUyRmZyZWVic2QtYXRlLW15LXJhbSUyRiU3Q0ZyZWVCU0QlMjBhdGUlMjBteSUyMFJBTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc4NzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTklM0EwOCUzQTMxJTIwJTJCMDAwMA",
+      "title": "FreeBSD ate my RAM",
+      "pubDate": "Fri, 03 Jul 2026 19:08:31 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZpbnByZXBhcmF0aW9uLnN1YnN0YWNrLmNvbSUyRnAlMkZvcGluaW9uLWktd2FzLW5vdC1hbGxvd2VkLXRvLXR5cGUlN0NodHRwcyUzQSUyRiUyRmlucHJlcGFyYXRpb24uc3Vic3RhY2suY29tJTJGcCUyRm9waW5pb24taS13YXMtbm90LWFsbG93ZWQtdG8tdHlwZSU3Q0klMjBXYXNuJ3QlMjBBbGxvd2VkJTIwUHJvbXB0aW5nJTIwQ2hhdEdQVCUyMER1cmluZyUyME15JTIwQ2hhbGslMjBUYWxrJTNBJTIwVGhpcyUyMElzJTIwRGlzY3JpbWluYXRpb24lMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NzcyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE3JTNBNDYlM0ExMCUyMCUyQjAwMDA",
       "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
       "pubDate": "Fri, 03 Jul 2026 17:46:10 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlkZS5jb20lMkZmaWRlLWV0aGljcy1kaXNjaXBsaW5hcnktY29tbWlzc2lvbi1pc3N1ZXMtYS1kZWNpc2lvbi1pbi1jYXNlLWludm9sdmluZy1nbS12bGFkaW1pci1rcmFtbmlrJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZmlkZS5jb20lMkZmaWRlLWV0aGljcy1kaXNjaXBsaW5hcnktY29tbWlzc2lvbi1pc3N1ZXMtYS1kZWNpc2lvbi1pbi1jYXNlLWludm9sdmluZy1nbS12bGFkaW1pci1rcmFtbmlrJTJGJTdDSW50ZXJuYXRpb25hbCUyMGNoZXNzJTIwZmVkZXJhdGlvbiUyMHNhbmN0aW9ucyUyMEtyYW1uaWslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NzI2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE3JTNBMDQlM0EwOCUyMCUyQjAwMDA",
+      "title": "International chess federation sanctions Kramnik",
+      "pubDate": "Fri, 03 Jul 2026 17:04:08 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2VybGVudG9uJTJGbWNwc25vb3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZrZXJsZW50b24lMkZtY3Bzbm9vcCU3Q1Nob3clMjBITiUzQSUyME1jcHNub29wJTIwJUUyJTgwJTkzJTIwV2lyZXNoYXJrJTIwZm9yJTIwTUNQJTIwKHRyYW5zcGFyZW50JTIwcHJveHklMjBhbmQlMjBsaXZlJTIwVFVJKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc3MTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTYlM0E1MyUzQTUwJTIwJTJCMDAwMA",
       "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
       "pubDate": "Fri, 03 Jul 2026 16:53:50 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZqdWwlMkYwMyUyRmRhdGFjZW50ZXItcmVjYWxsLWVsZWN0aW9ucyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnVzLW5ld3MlMkYyMDI2JTJGanVsJTJGMDMlMkZkYXRhY2VudGVyLXJlY2FsbC1lbGVjdGlvbnMlN0NVUyUyMHJlc2lkZW50cyUyMGFuZ3J5JTIwZGF0YWNlbnRlcnMlMjAnc2hvdmVkJTIwZG93biUyMG91ciUyMHRocm9hdHMnJTIwYXJlJTIwcmVjYWxsaW5nJTIwb2ZmaWNpYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzY3ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNiUzQTIwJTNBMTglMjAlMkIwMDAw",
+      "title": "US residents angry datacenters 'shoved down our throats' are recalling officials",
+      "pubDate": "Fri, 03 Jul 2026 16:20:18 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlsZnJlLm5ldCUyRjIwMjYlMkYwNyUyRnRoZS1saWZlLWFuZC10aW1lcy1vZi1tYXhpcy1wYXJ0LTEtc2ltZXZlcnl0aGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZpbGZyZS5uZXQlMkYyMDI2JTJGMDclMkZ0aGUtbGlmZS1hbmQtdGltZXMtb2YtbWF4aXMtcGFydC0xLXNpbWV2ZXJ5dGhpbmclMkYlN0NUaGUlMjBMaWZlJTIwYW5kJTIwVGltZXMlMjBvZiUyME1heGlzJTJDJTIwUGFydCUyMDElM0ElMjBTaW1FdmVyeXRoaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzY1MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTU2JTNBMDIlMjAlMkIwMDAw",
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "pubDate": "Fri, 03 Jul 2026 15:56:02 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGVhbWNob25nJTJGcHhwaXBlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGVhbWNob25nJTJGcHhwaXBlJTdDNjAlMjUlMjBGYWJsZSUyMGNvc3QlMjBjdXQlMjBieSUyMGNvbnZlcnRpbmclMjBjb2RlJTIwdG8lMjBpbWFnZXMlMjBhbmQlMjBoYXZpbmclMjB0aGUlMjBtb2RlbCUyME9DUiUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzY0NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTUwJTNBNDklMjAlMkIwMDAw",
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "pubDate": "Fri, 03 Jul 2026 15:50:49 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAyLjIwNDE1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAyLjIwNDE1JTdDTWFya2V0cyUyMGFyZSUyMGNvbXBldGl0aXZlJTIwaWYlMjBhbmQlMjBvbmx5JTIwaWYlMjBQJTIwISUzRCUyME5QJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzYzNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTQxJTNBNDQlMjAlMkIwMDAw",
+      "title": "Markets are competitive if and only if P != NP",
+      "pubDate": "Fri, 03 Jul 2026 15:41:44 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYxMmdyYW1zb2ZjYXJib24uY29tJTJGcCUyRmFnZW50aWNzLW1lbW9yaXppbmctc2Vzc2lvbi10cmFuc2NyaXB0cyU3Q2h0dHBzJTNBJTJGJTJGMTJncmFtc29mY2FyYm9uLmNvbSUyRnAlMkZhZ2VudGljcy1tZW1vcml6aW5nLXNlc3Npb24tdHJhbnNjcmlwdHMlN0NDbGF1ZGUlMkMlMjBwbGVhc2UlMjBzdG9wJTIwdHJ5aW5nJTIwdG8lMjBtZW1vcml6ZSUyMHJhbmRvbSUyMGNyYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NjIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMzIlM0E1MSUyMCUyQjAwMDA",
+      "title": "Claude, please stop trying to memorize random crap",
+      "pubDate": "Fri, 03 Jul 2026 15:32:51 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaGVub21lbmFsd29ybGQub3JnJTJGYW5hbHlzaXMlMkZ0aGUtYW50aS1hbWF6b24lMkYlN0NodHRwcyUzQSUyRiUyRnBoZW5vbWVuYWx3b3JsZC5vcmclMkZhbmFseXNpcyUyRnRoZS1hbnRpLWFtYXpvbiUyRiU3Q0Nvc3RjbyUyMGlzJTIwdGhlJTIwYW50aS1BbWF6b24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NjA0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMTQlM0E1NSUyMCUyQjAwMDA",
+      "title": "Costco is the anti-Amazon",
+      "pubDate": "Fri, 03 Jul 2026 15:14:55 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnRlcmNvbm5lY3RlZC5vcmclMkZob21lJTJGMjAyNiUyRjA3JTJGMDMlMkZmYWN0b3JpZXMlN0NodHRwcyUzQSUyRiUyRmludGVyY29ubmVjdGVkLm9yZyUyRmhvbWUlMkYyMDI2JTJGMDclMkYwMyUyRmZhY3RvcmllcyU3Q0ZhY3RvcmllcyUyMGFyZSUyMGp1c3QlMjByb29tcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc2MDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTUlM0ExMyUzQTQzJTIwJTJCMDAwMA",
+      "title": "Factories are just rooms",
+      "pubDate": "Fri, 03 Jul 2026 15:13:43 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnRlcmNvbm5lY3RlZC5vcmclMkZob21lJTJGMjAyNiUyRjA3JTJGMDMlMkZmYWN0b3JpZXMlN0NodHRwcyUzQSUyRiUyRmludGVyY29ubmVjdGVkLm9yZyUyRmhvbWUlMkYyMDI2JTJGMDclMkYwMyUyRmZhY3RvcmllcyU3Q0ZhY3RvcmllcyUyMEFyZSUyMEp1c3QlMjBSb29tcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc2MDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTUlM0ExMyUzQTQzJTIwJTJCMDAwMA",
+      "title": "Factories Are Just Rooms",
+      "pubDate": "Fri, 03 Jul 2026 15:13:43 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVyZWt0aG9tcHNvbi5vcmclMkZwJTJGYW1lcmljYS0xOTI2LWFuLWFic3VyZGx5LWRlZXAtZGl2ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRlcmVrdGhvbXBzb24ub3JnJTJGcCUyRmFtZXJpY2EtMTkyNi1hbi1hYnN1cmRseS1kZWVwLWRpdmUlN0NBbWVyaWNhJTJDJTIwMTkyNiUzQSUyMFdoYXQlMjBhJTIwRm9yZ290dGVuJTIwMTAwLVllYXItT2xkJTIwUmVwb3J0JTIwU2F5cyUyMEFib3V0JTIwV2hvJTIwV2UlMjBBcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NTk3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMDglM0E1NiUyMCUyQjAwMDA",
+      "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+      "pubDate": "Fri, 03 Jul 2026 15:08:56 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5ub3J0aC5uZXQlMkZibG9nJTJGYmVzdC1zaW1wbGUtc3lzdGVtLWZvci1ub3clMkYlN0NodHRwcyUzQSUyRiUyRmRhbm5vcnRoLm5ldCUyRmJsb2clMkZiZXN0LXNpbXBsZS1zeXN0ZW0tZm9yLW5vdyUyRiU3Q0Jlc3QlMjBTaW1wbGUlMjBTeXN0ZW0lMjBmb3IlMjBOb3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NTk0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMDYlM0E0NCUyMCUyQjAwMDA",
+      "title": "Best Simple System for Now",
+      "pubDate": "Fri, 03 Jul 2026 15:06:44 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFtZXNvYiUyRmxvY2FsLWxsbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmphbWVzb2IlMkZsb2NhbC1sbG0lN0NKYW1lc29iJ3MlMjBndWlkZSUyMHRvJTIwcnVubmluZyUyMFNPVEElMjBMTE1zJTIwbG9jYWxseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc1OTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTUlM0EwMyUzQTQzJTIwJTJCMDAwMA",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "pubDate": "Fri, 03 Jul 2026 15:03:43 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBlcnVzZXJkb25lLmNvbSUyRnBvc3RzJTJGMjAyNi0wNy0wMy1naXZlLXNtYXJ0LXBlb3BsZS10aGUtdG9vbHMlMkYlN0NodHRwcyUzQSUyRiUyRnN1cGVydXNlcmRvbmUuY29tJTJGcG9zdHMlMkYyMDI2LTA3LTAzLWdpdmUtc21hcnQtcGVvcGxlLXRoZS10b29scyUyRiU3Q0dpdmUlMjBTbWFydCUyMFBlb3BsZSUyMHRoZSUyMFRvb2xzJTIwdG8lMjBEbyUyMFNtYXJ0JTIwVGhpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzU3NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTQ5JTNBNDQlMjAlMkIwMDAw",
+      "title": "Give Smart People the Tools to Do Smart Things",
+      "pubDate": "Fri, 03 Jul 2026 14:49:44 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9tcHRvd2wuYWklMkZyZXNvdXJjZXMlMkZwZXJzaXN0ZW50LW1lbW9yeS1haS1hZ2VudHMlMkYlN0NodHRwcyUzQSUyRiUyRnByb21wdG93bC5haSUyRnJlc291cmNlcyUyRnBlcnNpc3RlbnQtbWVtb3J5LWFpLWFnZW50cyUyRiU3Q0FuYXRvbXklMjBvZiUyMFBlcnNpc3RlbnQlMjBNZW1vcnkncyUyMDMlMjBMYXllcnMlM0ElMjBDb21wYXJpbmclMjBDb250ZXh0TmVzdCUyQyUyME1lbTAlMjBhbmQlMjBaZXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc3NTQ4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDE0JTNBMjclM0EyMSUyMCUyQjAwMDA",
+      "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+      "pubDate": "Fri, 03 Jul 2026 14:27:21 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDVmFsdmUlMjBvcGVuJTIwc291cmNlJTIwdGhlJTIwU3RlYW0lMjBNYWNoaW5lJTIwZS1pbmslMjBzY3JlZW4lMjBzbyUyMHlvdSUyMGNhbiUyMG1ha2UlMjB5b3VyJTIwb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzQ1MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxMyUzQTAxJTNBNDklMjAlMkIwMDAw",
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "pubDate": "Fri, 03 Jul 2026 13:01:49 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2FtaW5nb25saW51eC5jb20lMkYyMDI2JTJGMDclMkZ2YWx2ZS1vcGVuLXNvdXJjZS10aGUtc3RlYW0tbWFjaGluZS1lLWluay1zY3JlZW4tc28teW91LWNhbi1tYWtlLXlvdXItb3duJTJGJTdDVmFsdmUlMjBvcGVuLXNvdXJjZSUyMHRoZSUyMFN0ZWFtJTIwTWFjaGluZSUyMGUtaW5rJTIwc2NyZWVuJTIwc28lMjB5b3UlMjBjYW4lMjBtYWtlJTIweW91ciUyMG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0NTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTMlM0EwMSUzQTQ5JTIwJTJCMDAwMA",
       "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
       "pubDate": "Fri, 03 Jul 2026 13:01:49 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDaHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDUG9zdGdyZVNRTCUyMGFuZCUyMHRoZSUyME9PTSUyMGtpbGxlciUzQSUyMFdoeSUyMHdlJTIwdXNlJTIwc3RyaWN0JTIwbWVtb3J5JTIwb3ZlcmNvbW1pdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0NTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTMlM0EwMCUzQTMxJTIwJTJCMDAwMA",
       "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
       "pubDate": "Fri, 03 Jul 2026 13:00:31 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDaHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRnBvc3RncmVzcWwtYW5kLXRoZS1vb20ta2lsbGVyLXdoeS13ZS11c2Utc3RyaWN0LW1lbW9yeS1vdmVyY29tbWl0JTdDUG9zdGdyZVNRTCUyMGFuZCUyMHRoZSUyME9PTSUyMEtpbGxlciUzQSUyMFdoeSUyMFdlJTIwVXNlJTIwU3RyaWN0JTIwTWVtb3J5JTIwT3ZlcmNvbW1pdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0NTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTMlM0EwMCUzQTMxJTIwJTJCMDAwMA",
+      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+      "pubDate": "Fri, 03 Jul 2026 13:00:31 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tJTJGcCUyRnRoZS1mYWxsLWFuZC1yaXNlLW9mLXNjcmV3d29ybSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cnVjdGlvbi1waHlzaWNzLmNvbSUyRnAlMkZ0aGUtZmFsbC1hbmQtcmlzZS1vZi1zY3Jld3dvcm0lN0NUaGUlMjBGYWxsJTIwYW5kJTIwUmlzZSUyMG9mJTIwU2NyZXd3b3JtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzQ0OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAxMiUzQTU4JTNBNDclMjAlMkIwMDAw",
+      "title": "The Fall and Rise of Screwworm",
+      "pubDate": "Fri, 03 Jul 2026 12:58:47 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAyNTEyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAyNTEyJTdDUHJvZ3JhbS1hcy1XZWlnaHRzJTNBJTIwQSUyMFByb2dyYW1taW5nJTIwUGFyYWRpZ20lMjBmb3IlMjBGdXp6eSUyMEZ1bmN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzc0MzY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMTIlM0E0NiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "pubDate": "Fri, 03 Jul 2026 12:46:30 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG9tYnJvd24uYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA3JTJGbG9hZC1wbGNibWJhc2ljODEtY29tbW9kb3JlLTY0LWJhc2ljLmh0bWwlN0NodHRwcyUzQSUyRiUyRnRob21icm93bi5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDclMkZsb2FkLXBsY2JtYmFzaWM4MS1jb21tb2RvcmUtNjQtYmFzaWMuaHRtbCU3Q0NvbW1vZG9yZSUyMDY0JTIwQmFzaWMlMjBmb3IlMjBQb3N0Z3JlU1FMJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzI3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwOSUzQTA4JTNBMTQlMjAlMkIwMDAw",
+      "title": "Commodore 64 Basic for PostgreSQL",
+      "pubDate": "Fri, 03 Jul 2026 09:08:14 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JkZ2FyZC5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRnYXJkLm5ldCUyRiU3Q1dvcmRnYXJkJTNBJTIwVGhlJTIwbmV3JTIwaW4tYnJvd3NlciUyMHJpY2gtdGV4dCUyMGVkaXRvciUyMGZyb20lMjB0aGUlMjBjcmVhdG9yJTIwb2YlMjBQcm9zZU1pcnJvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0E1MCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "pubDate": "Fri, 03 Jul 2026 08:50:47 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JkZ2FyZC5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRnYXJkLm5ldCUyRiU3Q1dvcmRnYXJkJTNBJTIwSW4tYnJvd3NlciUyMHJpY2gtdGV4dCUyMGVkaXRvciUyMGZyb20lMjB0aGUlMjBjcmVhdG9yJTIwb2YlMjBQcm9zZU1pcnJvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0E1MCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+      "pubDate": "Fri, 03 Jul 2026 08:50:47 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGYWxpYmFiYS1iYW4tY2xhdWRlLWNvZGUtd29ya3BsYWNlLW92ZXItYWxsZWdlZC1iYWNrZG9vci1yaXNrcy1zb3VyY2Utc2F5cy0yMDI2LTA3LTAzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGYWxpYmFiYS1iYW4tY2xhdWRlLWNvZGUtd29ya3BsYWNlLW92ZXItYWxsZWdlZC1iYWNrZG9vci1yaXNrcy1zb3VyY2Utc2F5cy0yMDI2LTA3LTAzJTJGJTdDQWxpYmFiYSUyMHRvJTIwYmFuJTIwQ2xhdWRlJTIwQ29kZSUyMGluJTIwd29ya3BsYWNlJTIwb3ZlciUyMGFsbGVnZWQlMjBiYWNrZG9vciUyMHJpc2tzJTJDJTIwc291cmNlJTIwc2F5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcyNDQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDglM0EzMSUzQTM3JTIwJTJCMDAwMA",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "pubDate": "Fri, 03 Jul 2026 08:31:37 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWxpLmRldiUyRmJsb2clMkZoYWxmLWJha2VkLXByb2R1Y3QlMkYlN0NodHRwcyUzQSUyRiUyRndlbGkuZGV2JTJGYmxvZyUyRmhhbGYtYmFrZWQtcHJvZHVjdCUyRiU3Q0hhbGYtQmFrZWQlMjBQcm9kdWN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3NzIzODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwOCUzQTIzJTNBMzIlMjAlMkIwMDAw",
+      "title": "Half-Baked Product",
+      "pubDate": "Fri, 03 Jul 2026 08:23:32 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYW50aWNvcmVzZWFyY2guY29tJTJGYmxvZyUyRm9ubngtZW1iZWRkaW5ncy1zcGVlZHVwJTJGJTdDaHR0cHMlM0ElMkYlMkZtYW50aWNvcmVzZWFyY2guY29tJTJGYmxvZyUyRm9ubngtZW1iZWRkaW5ncy1zcGVlZHVwJTJGJTdDMTQlQzMlOTclMjBmYXN0ZXIlMjBlbWJlZGRpbmdzJTNBJTIwaG93JTIwd2UlMjByZWJ1aWx0JTIwdGhlJTIwT05OWCUyMHBhdGglMjBpbiUyME1hbnRpY29yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzcwNDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDMlM0E0OSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "pubDate": "Fri, 03 Jul 2026 03:49:47 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJraXQub3JnJTJGYmxvZyUyRjE4MTM2JTJGaW50cm9kdWNpbmctdGhlLXNhZmFyaS1tY3Atc2VydmVyLWZvci13ZWItZGV2ZWxvcGVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGd2Via2l0Lm9yZyUyRmJsb2clMkYxODEzNiUyRmludHJvZHVjaW5nLXRoZS1zYWZhcmktbWNwLXNlcnZlci1mb3Itd2ViLWRldmVsb3BlcnMlMkYlN0NUaGUlMjBTYWZhcmklMjBNQ1AlMjBzZXJ2ZXIlMjBmb3IlMjB3ZWIlMjBkZXZlbG9wZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3Njk2MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMyUyMEp1bCUyMDIwMjYlMjAwMSUzQTM3JTNBMTElMjAlMkIwMDAw",
+      "title": "The Safari MCP server for web developers",
+      "pubDate": "Fri, 03 Jul 2026 01:37:11 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FzZXlsaXNzLmNvbSUyRjIwMjYlMkY3JTJGMiUyRmNhcnBsYXktaXMtYWRkaXRpdmUteW91LWRvbHRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FzZXlsaXNzLmNvbSUyRjIwMjYlMkY3JTJGMiUyRmNhcnBsYXktaXMtYWRkaXRpdmUteW91LWRvbHRzJTdDQ2FyUGxheSUyMElzJTIwQWRkaXRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2OTM5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAzJTIwSnVsJTIwMjAyNiUyMDAxJTNBMDIlM0E0NSUyMCUyQjAwMDA",
+      "title": "CarPlay Is Additive",
+      "pubDate": "Fri, 03 Jul 2026 01:02:45 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3Jtcy5jbG91ZC5taWNyb3NvZnQlMkZwYWdlcyUyRnJlc3BvbnNlcGFnZS5hc3B4JTNGaWQlM0R2NGo1Y3ZHR3IwR1JxeTE4MEJIYlI2Ry1jMTFuOHlGRGxRbWs0Qi1RakR4VVFrZFRUalpMVTBFeVRGRlJWMUUzTlZSVFZUUlRXalJITXk0dSUyNnJvdXRlJTNEc2hvcnR1cmwlN0NodHRwcyUzQSUyRiUyRmZvcm1zLmNsb3VkLm1pY3Jvc29mdCUyRnBhZ2VzJTJGcmVzcG9uc2VwYWdlLmFzcHglM0ZpZCUzRHY0ajVjdkdHcjBHUnF5MTgwQkhiUjZHLWMxMW44eUZEbFFtazRCLVFqRHhVUWtkVFRqWkxVMEV5VEZGUlYxRTNOVlJUVlRSVFdqUkhNeTR1JTI2cm91dGUlM0RzaG9ydHVybCU3Q09yZGVyJTIwYSUyMGJ1cm5lZCUyMENEJTIwb2YlMjB5b3VyJTIwb3duJTIwcHVibGljJTIwR2l0SHViJTIwcmVwbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY4OTk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDAlM0EwMSUzQTI2JTIwJTJCMDAwMA",
+      "title": "Order a burned CD of your own public GitHub repo",
+      "pubDate": "Fri, 03 Jul 2026 00:01:26 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGFhcm9uc29uLmJsb2clMkYlM0ZwJTNEOTkwMiU3Q2h0dHBzJTNBJTJGJTJGc2NvdHRhYXJvbnNvbi5ibG9nJTJGJTNGcCUzRDk5MDIlN0NBbiUyMEFtZXJpY2FuJTIwUHJpdmFjeSUyMEVtZXJnZW5jeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY4OTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDMlMjBKdWwlMjAyMDI2JTIwMDAlM0EwMSUzQTA2JTIwJTJCMDAwMA",
+      "title": "An American Privacy Emergency",
+      "pubDate": "Fri, 03 Jul 2026 00:01:06 +0000",
+      "readAt": "2026-07-04 20:48:18.327+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-03-0.json"
     }
   ]
