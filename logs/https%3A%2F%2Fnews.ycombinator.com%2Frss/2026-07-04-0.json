@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-04",
     "newestItemDate": "2026-07-04",
-    "itemCount": 24,
-    "generatedAt": "2026-07-04T18:09:53.102Z"
+    "itemCount": 33,
+    "generatedAt": "2026-07-04T23:05:27.750Z"
   },
   "items": [
     {
@@ -72,98 +72,147 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcElhdDBuJTJGQmFyZU1ldGFsLVJBTS1EdW1wZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwSWF0MG4lMkZCYXJlTWV0YWwtUkFNLUR1bXBlciU3Q0JhcmVNZXRhbCUyMFJBTSUyMER1bXBlciUyMCVFMiU4MCU5MyUyMEJhcmUtbWV0YWwlMjB4ODYlMjB0b29sJTIwZm9yJTIwQ29sZCUyMEJvb3QlMjBBdHRhY2slMjBleHBlcmltZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg3MjAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTclM0EzNyUzQTIxJTIwJTJCMDAwMA",
       "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
       "pubDate": "Sat, 04 Jul 2026 17:37:21 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXNvLm9yZyUyRnB1YmxpYyUyRm5ld3MlMkZlc28yNjA3JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZXNvLm9yZyUyRnB1YmxpYyUyRm5ld3MlMkZlc28yNjA3JTJGJTdDTm8lMjBtb3JlJTIwdGhhbiUyMDEwMCUyMDAwMCUyMGZhaW50JTIwc2F0ZWxsaXRlcyUyMHNob3VsZCUyMG9yYml0JTIwRWFydGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4NzA0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDE3JTNBMTclM0EyOCUyMCUyQjAwMDA",
       "title": "No more than 100 000 faint satellites should orbit Earth",
       "pubDate": "Sat, 04 Jul 2026 17:17:28 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnQuam9vbmFzLnd0ZiUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJ0Lmpvb25hcy53dGYlMkYlN0NQbGVpbiUyMEFpciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg2ODgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTYlM0E1NSUzQTI5JTIwJTJCMDAwMA",
       "title": "Plein Air",
       "pubDate": "Sat, 04 Jul 2026 16:55:29 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXVyb25ld3MuY29tJTJGbmV4dCUyRjIwMjYlMkYwNiUyRjMwJTJGZmlubGFuZHMtbGFzdC1hbmFsb2d1ZS1sYW5kbGluZS1waG9uZXMtZ28tc2lsZW50LWFmdGVyLTE1MC15ZWFycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmV1cm9uZXdzLmNvbSUyRm5leHQlMkYyMDI2JTJGMDYlMkYzMCUyRmZpbmxhbmRzLWxhc3QtYW5hbG9ndWUtbGFuZGxpbmUtcGhvbmVzLWdvLXNpbGVudC1hZnRlci0xNTAteWVhcnMlN0NGaW5sYW5kJ3MlMjBsYXN0JTIwYW5hbG9ndWUlMjBsYW5kbGluZSUyMHBob25lcyUyMGdvJTIwc2lsZW50JTIwYWZ0ZXIlMjAxNTAlMjB5ZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg2ODY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTYlM0E1NCUzQTAyJTIwJTJCMDAwMA",
       "title": "Finland's last analogue landline phones go silent after 150 years",
       "pubDate": "Sat, 04 Jul 2026 16:54:02 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0d2FyZS5hbm5hcy1hcmNoaXZlLmdsJTJGQW5uYUFyY2hpdmlzdCUyRmFubmFzLWFyY2hpdmUlMkYtJTJGd29ya19pdGVtcyUyRjIzNCU3Q2h0dHBzJTNBJTJGJTJGc29mdHdhcmUuYW5uYXMtYXJjaGl2ZS5nbCUyRkFubmFBcmNoaXZpc3QlMkZhbm5hcy1hcmNoaXZlJTJGLSUyRndvcmtfaXRlbXMlMkYyMzQlN0NHb29nbGUlMjBCb29rcyUyMChvciUyMHNpbWlsYXIpJTIwYWxsJTIwYm9vayUyMHNjYW5zJTIwJUUyJTgwJTkzJTIwJTI0MjAwayUyMGJvdW50eSUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg2ODM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTYlM0E1MSUzQTI2JTIwJTJCMDAwMA",
       "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
       "pubDate": "Sat, 04 Jul 2026 16:51:26 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZkYXRhLWNlbnRlcnMlMkZjaGV5ZW5uZS1zdXNwZW5kcy1kYXRhLWNlbnRlci1maWxsLWFuZC1mbHVzaC1hbmQtY2xvc2VkLWxvb3AtZGlzY2hhcmdlcy1hZnRlci1tZXRhLWNvbnRyYWN0b3ItY29udGFtaW5hdGVkLWl0cy1yZXVzZS13YXRlci1zeXN0ZW0lN0NodHRwcyUzQSUyRiUyRnd3dy50b21zaGFyZHdhcmUuY29tJTJGdGVjaC1pbmR1c3RyeSUyRmRhdGEtY2VudGVycyUyRmNoZXllbm5lLXN1c3BlbmRzLWRhdGEtY2VudGVyLWZpbGwtYW5kLWZsdXNoLWFuZC1jbG9zZWQtbG9vcC1kaXNjaGFyZ2VzLWFmdGVyLW1ldGEtY29udHJhY3Rvci1jb250YW1pbmF0ZWQtaXRzLXJldXNlLXdhdGVyLXN5c3RlbSU3Q01ldGElMjBkYXRhJTIwY2VudGVyJTIwd2F0ZXIlMjBkaXNjaGFyZ2VzJTIwc3VzcGVuZGVkJTIwZm9yJTIwY29udGFtaW5hdGluZyUyMHdhdGVyJTIwc3VwcGx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODY3ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTQ1JTNBMjMlMjAlMkIwMDAw",
       "title": "Meta data center water discharges suspended for contaminating water supply",
       "pubDate": "Sat, 04 Jul 2026 16:45:23 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZqYXZvcml1c2tpLmNvbSUyRnBvc3QlMkZ5b3V0dWJlJTdDaHR0cHMlM0ElMkYlMkZqYXZvcml1c2tpLmNvbSUyRnBvc3QlMkZ5b3V0dWJlJTdDTGVha2luZyUyMFlvdVR1YmUlMjBjcmVhdG9ycyclMjBwcml2YXRlJTIwdmlkZW9zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODY3ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTQ1JTNBMTAlMjAlMkIwMDAw",
       "title": "Leaking YouTube creators' private videos",
       "pubDate": "Sat, 04 Jul 2026 16:45:10 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ2aW1lby5jb20lMkY0OTcxODcxMiU3Q2h0dHBzJTNBJTJGJTJGdmltZW8uY29tJTJGNDk3MTg3MTIlN0NSb2IlMjBQaWtlJTIwJUUyJTgwJTkzJTIwJ0NvbmN1cnJlbmN5JTIwSXMlMjBOb3QlMjBQYXJhbGxlbGlzbSclMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg2NzEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTYlM0EzNyUzQTA1JTIwJTJCMDAwMA",
       "title": "Rob Pike – 'Concurrency Is Not Parallelism' [video]",
       "pubDate": "Sat, 04 Jul 2026 16:37:05 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZtaWdodHlidXJnZXIubmV0JTJGcHJvamVjdHMlMkZjdXJ2ZWJhbGwlMkYlN0NodHRwcyUzQSUyRiUyRm1pZ2h0eWJ1cmdlci5uZXQlMkZwcm9qZWN0cyUyRmN1cnZlYmFsbCUyRiU3Q0N1cnZlYmFsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg2NDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTYlM0ExNSUzQTQ4JTIwJTJCMDAwMA",
       "title": "Curveball",
       "pubDate": "Sat, 04 Jul 2026 16:15:48 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWF4aW1xYXhkJTJGd2luY2UtZGMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtYXhpbXFheGQlMkZ3aW5jZS1kYyU3Q1dpbmRvd3MlMjBDRSUyMERyZWFtY2FzdCUyMENvbW11bml0eSUyMEVkaXRpb24lMjAod2luY2UtZGMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODU4NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAxNCUzQTUyJTNBMjUlMjAlMkIwMDAw",
       "title": "Windows CE Dreamcast Community Edition (wince-dc)",
       "pubDate": "Sat, 04 Jul 2026 14:52:25 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmNsYXVkZS1jb2RlJTJGaXNzdWVzJTJGNzQwNjYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbnRocm9waWNzJTJGY2xhdWRlLWNvZGUlMkZpc3N1ZXMlMkY3NDA2NiU3Q1BvdGVudGlhbCUyMHNlc3Npb24lMkZjYWNoZSUyMGxlYWthZ2UlMjBiZXR3ZWVuJTIwd29ya3NwYWNlJTIwaW5zdGFuY2VzJTIwb3IlMjBjb25zdW1lciUyMGFjY291bnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODU0ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAxNCUzQTAzJTNBNDAlMjAlMkIwMDAw",
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "pubDate": "Sat, 04 Jul 2026 14:03:40 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZwZXRlcmlzLnJvY2tzJTJGYmxvZyUyRmh0b3AlMkYlN0NodHRwcyUzQSUyRiUyRnBldGVyaXMucm9ja3MlMkZibG9nJTJGaHRvcCUyRiU3Q0V4cGxhbmF0aW9uJTIwb2YlMjBldmVyeXRoaW5nJTIweW91JTIwY2FuJTIwc2VlJTIwaW4lMjBodG9wJTJGdG9wJTIwb24lMjBMaW51eCUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg0Nzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTIlM0EwMCUzQTU3JTIwJTJCMDAwMA",
       "title": "Explanation of everything you can see in htop/top on Linux (2019)",
       "pubDate": "Sat, 04 Jul 2026 12:00:57 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5lLmRldiUyRjIwMjYlMkYwNyUyRnRoZS1yZXBvcnRzLW9mLWppbS1jYXJyZXlzLWRlYXRoLWFyZS1hLWZhaWx1cmUtbW9kZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGFuZS5kZXYlMkYyMDI2JTJGMDclMkZ0aGUtcmVwb3J0cy1vZi1qaW0tY2FycmV5cy1kZWF0aC1hcmUtYS1mYWlsdXJlLW1vZGUlMkYlN0NUaGUlMjBSZXBvcnRzJTIwb2YlMjBKaW0lMjBDYXJyZXkncyUyMERlYXRoJTIwQXJlJTIwYSUyMEZhaWx1cmUlMjBNb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODQ2NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAxMSUzQTM5JTNBMDElMjAlMkIwMDAw",
       "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
       "pubDate": "Sat, 04 Jul 2026 11:39:01 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+      "readAt": "2026-07-05 02:09:38.071+08"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGYXN0cm9waHlzaWNpc3RzLXB1enpsZS1vdmVyLXdlYmJzLW5ldy11bml2ZXJzZS0yMDI2MDcwMiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRmFzdHJvcGh5c2ljaXN0cy1wdXp6bGUtb3Zlci13ZWJicy1uZXctdW5pdmVyc2UtMjAyNjA3MDIlMkYlN0NBc3Ryb3BoeXNpY2lzdHMlMjBQdXp6bGUlMjBvdmVyJTIwV2ViYiVFMiU4MCU5OXMlMjBOZXclMjBVbml2ZXJzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzgzOTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMDklM0EwOCUzQTA5JTIwJTJCMDAwMA",
       "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "pubDate": "Sat, 04 Jul 2026 09:08:09 +0000",
-      "readAt": "2026-07-05 02:09:38.071+08",
+      "readAt": "2026-07-05 02:09:38.071+08"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXglMkZpc3N1ZXMlMkYzMDM2NCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRmNvZGV4JTJGaXNzdWVzJTJGMzAzNjQlN0NHUFQtNS41JTIwQ29kZXglMjByZWFzb25pbmctdG9rZW4lMjBjbHVzdGVyaW5nJTIwbWF5JTIwYmUlMjBsZWFkaW5nJTIwdG8lMjBkZWdyYWRlZCUyMHBlcmZvcm1hbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODk0MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAyMSUzQTUxJTNBMDklMjAlMkIwMDAw",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "pubDate": "Sat, 04 Jul 2026 21:51:09 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjI2OTY3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA2LjI2OTY3JTdDUHJvdG9jb2wlMjBQcnlpbmclM0ElMjBWdWxuZXJhYmlsaXR5JTIwUmVzZWFyY2glMjBpbiUyMEFpckRyb3AlMjBhbmQlMjBRdWljayUyMFNoYXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODg4NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAyMCUzQTM4JTNBMzklMjAlMkIwMDAw",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "pubDate": "Sat, 04 Jul 2026 20:38:39 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjclMkY0JTJGYmV0dGVyLW1vZGVscy13b3JzZS10b29scyUyRiU3Q2h0dHBzJTNBJTJGJTJGbHVjdW1yLnBvY29vLm9yZyUyRjIwMjYlMkY3JTJGNCUyRmJldHRlci1tb2RlbHMtd29yc2UtdG9vbHMlMkYlN0NCZXR0ZXIlMjBNb2RlbHMlM0ElMjBXb3JzZSUyMFRvb2xzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODg1OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAyMCUzQTE2JTNBMjIlMjAlMkIwMDAw",
+      "title": "Better Models: Worse Tools",
+      "pubDate": "Sat, 04 Jul 2026 20:16:22 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW1tYWFycmVzaGklMkZHZW5lcmFscy1NYWMtaU9TLWlQYWQlMkZ0cmVlJTJGbWFpbiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFtbWFhcnJlc2hpJTJGR2VuZXJhbHMtTWFjLWlPUy1pUGFkJTJGdHJlZSUyRm1haW4lN0NDb21tYW5kJTIwYW5kJTIwQ29ucXVlciUyMEdlbmVyYWxzJTIwbmF0aXZlbHklMjBwb3J0ZWQlMjB0byUyMG1hY09TJTJDJTIwaVBob25lJTJDJTIwaVBhZCUyMHVzaW5nJTIwRmFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4ODI4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDE5JTNBNDElM0ExMCUyMCUyQjAwMDA",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "pubDate": "Sat, 04 Jul 2026 19:41:10 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZ2ZXJpem9uLWlzLWFib3V0LXRvLWJyZWFrLW91ci13YXRjaGVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZ2ZXJpem9uLWlzLWFib3V0LXRvLWJyZWFrLW91ci13YXRjaGVzJTdDVmVyaXpvbiUyMGlzJTIwQWJvdXQlMjB0byUyMEJyZWFrJTIwb3VyJTIwV2F0Y2hlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg3MzI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTclM0E1MiUzQTM2JTIwJTJCMDAwMA",
+      "title": "Verizon is About to Break our Watches",
+      "pubDate": "Sat, 04 Jul 2026 17:52:36 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dGdyZWVyLmRldiUyRmJsb2clMkZnYmEtZGV2LWxvZ2dpbmclMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5tYXR0Z3JlZXIuZGV2JTJGYmxvZyUyRmdiYS1kZXYtbG9nZ2luZyUyRiU3Q0dhbWUlMjBCb3klMjBBZHZhbmNlJTIwRGV2JTNBJTIwTG9nZ2luZyUyMHRvJTIwdGhlJTIwQ29uc29sZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg3MDAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTclM0ExMiUzQTAwJTIwJTJCMDAwMA",
+      "title": "Game Boy Advance Dev: Logging to the Console",
+      "pubDate": "Sat, 04 Jul 2026 17:12:00 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW5kYmFzaWMuZGV2JTJGMjAyNiUyRjA3JTJGZW5kYmFzaWMtMC4xNC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZW5kYmFzaWMuZGV2JTJGMjAyNiUyRjA3JTJGZW5kYmFzaWMtMC4xNC5odG1sJTdDRW5kQkFTSUMlMjAwLjE0JTNBJTIwQXJlJTIwd2UlMjBtdWx0aW1lZGlhJTIweWV0JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODY5NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAxNyUzQTA4JTNBMTglMjAlMkIwMDAw",
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "pubDate": "Sat, 04 Jul 2026 17:08:18 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6aWdsYW5nLm9yZyUyRmRldmxvZyUyRjIwMjYlMkYlMjMyMDI2LTA2LTMwJTdDaHR0cHMlM0ElMkYlMkZ6aWdsYW5nLm9yZyUyRmRldmxvZyUyRjIwMjYlMkYlMjMyMDI2LTA2LTMwJTdDWmlnJTNBJTIwQWxsJTIwUGFja2FnZSUyME1hbmFnZW1lbnQlMjBGdW5jdGlvbmFsaXR5JTIwTW92ZWQlMjBmcm9tJTIwQ29tcGlsZXIlMjB0byUyMEJ1aWxkJTIwU3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3ODY2MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTMwJTNBMTAlMjAlMkIwMDAw",
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "pubDate": "Sat, 04 Jul 2026 16:30:10 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZGFtcmF1ZG9uaXMuZ2l0aHViLmlvJTJGc3BsYXRzNEQlMkYlN0NodHRwcyUzQSUyRiUyRmFkYW1yYXVkb25pcy5naXRodWIuaW8lMkZzcGxhdHM0RCUyRiU3Q0ZhYmxlJTIwY3JlYXRlZCUyMG5vdmVsJTIwNEQlMjBzcGxhdCUyMGZvcm1hdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg2MjQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTUlM0E0OSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Fable created novel 4D splat format",
+      "pubDate": "Sat, 04 Jul 2026 15:49:08 +0000",
+      "readAt": "2026-07-05 07:04:56.586+08",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
     }
   ]
