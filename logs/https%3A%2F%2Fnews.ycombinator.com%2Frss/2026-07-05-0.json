@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-05",
     "newestItemDate": "2026-07-05",
-    "itemCount": 6,
-    "generatedAt": "2026-07-05T04:34:28.221Z"
+    "itemCount": 17,
+    "generatedAt": "2026-07-05T10:30:26.366Z"
   },
   "items": [
     {
@@ -42,6 +42,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0ZXJiZXdhcmUuYmxvZyUyRjIwMjUlMkYwOSUyRjE5JTJGcmV0dXJuLW9mLXRoZS1uaWdlcmlhbi1wcmluY2UtcmVkdXgtYmV3YXJlLWJvb2stY2x1Yi1hbmQtYm9vay1yZXZpZXctc2NhbXMlMkYlN0NodHRwcyUzQSUyRiUyRndyaXRlcmJld2FyZS5ibG9nJTJGMjAyNSUyRjA5JTJGMTklMkZyZXR1cm4tb2YtdGhlLW5pZ2VyaWFuLXByaW5jZS1yZWR1eC1iZXdhcmUtYm9vay1jbHViLWFuZC1ib29rLXJldmlldy1zY2FtcyUyRiU3Q1JldHVybiUyMG9mJTIwdGhlJTIwTmlnZXJpYW4lMjBQcmluY2UlMjBSZWR1eCUzQSUyMEJld2FyZSUyMEJvb2slMjBDbHViJTIwYW5kJTIwQm9vayUyMFJldmlldyUyMFNjYW1zJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTAyNDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAwMCUzQTIyJTNBMjUlMjAlMkIwMDAw",
       "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
       "pubDate": "Sun, 05 Jul 2026 00:22:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYwZGQuY29tcGFueSUyRmdhbGxlcmllcyUyRnRyaXVtcGglMkYxLmh0bWwlN0NodHRwcyUzQSUyRiUyRjBkZC5jb21wYW55JTJGZ2FsbGVyaWVzJTJGdHJpdW1waCUyRjEuaHRtbCU3Q0Fwb2NrZXRseXBzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkyMzUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMDglM0EzMiUzQTA5JTIwJTJCMDAwMA",
+      "title": "Apocketlypse",
+      "pubDate": "Sun, 05 Jul 2026 08:32:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGV2ZXZlci5uZXQlMkZ+aGwlMkZ3ZWJjcnlwdG8lN0NodHRwcyUzQSUyRiUyRnd3dy5kZXZldmVyLm5ldCUyRn5obCUyRndlYmNyeXB0byU3Q1dlYi1iYXNlZCUyMGNyeXB0b2dyYXBoeSUyMGlzJTIwYWx3YXlzJTIwc25ha2UlMjBvaWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5MjIwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDA4JTNBMDElM0EyOSUyMCUyQjAwMDA",
+      "title": "Web-based cryptography is always snake oil",
+      "pubDate": "Sun, 05 Jul 2026 08:01:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWNvYi5nb2xkJTJGcG9zdHMlMkZwcm9ncmFtbWVycy1uZWVkLXRvLXN0YXJ0LW1lZGl0YXRpbmctbm93JTJGJTdDaHR0cHMlM0ElMkYlMkZqYWNvYi5nb2xkJTJGcG9zdHMlMkZwcm9ncmFtbWVycy1uZWVkLXRvLXN0YXJ0LW1lZGl0YXRpbmctbm93JTJGJTdDUHJvZ3JhbW1lcnMlMjBuZWVkJTIwdG8lMjBzdGFydCUyMG1lZGl0YXRpbmclMjBub3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5MjA4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDA3JTNBMzklM0EzNSUyMCUyQjAwMDA",
+      "title": "Programmers need to start meditating now",
+      "pubDate": "Sun, 05 Jul 2026 07:39:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcmFpZ21vZC5jb20lMkZlc3NheXMlMkZmYXN0X3NvZnR3YXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZjcmFpZ21vZC5jb20lMkZlc3NheXMlMkZmYXN0X3NvZnR3YXJlJTJGJTdDRmFzdCUyMFNvZnR3YXJlJTJDJTIwdGhlJTIwQmVzdCUyMFNvZnR3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTIwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAwNyUzQTI1JTNBMjUlMjAlMkIwMDAw",
+      "title": "Fast Software, the Best Software",
+      "pubDate": "Sun, 05 Jul 2026 07:25:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkY1JTJGc3FsaXRlLXV0aWxzLWZhYmxlJTJGJTdDaHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkY1JTJGc3FsaXRlLXV0aWxzLWZhYmxlJTJGJTdDc3FsaXRlLXV0aWxzJTIwNC4wcmMyJTJDJTIwbW9zdGx5JTIwd3JpdHRlbiUyMGJ5JTIwQ2xhdWRlJTIwRmFibGUlMjAoZm9yJTIwYWJvdXQlMjAlMjQxNDkuMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTE3MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAwNiUzQTE5JTNBMzQlMjAlMkIwMDAw",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "pubDate": "Sun, 05 Jul 2026 06:19:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21wdXRlci5yaXAlMkYyMDI2LTA3LTA0LW1pY3Jvd2F2ZS1hbmQtcG93ZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGY29tcHV0ZXIucmlwJTJGMjAyNi0wNy0wNC1taWNyb3dhdmUtYW5kLXBvd2VyLmh0bWwlN0NNZWdhd2F0dHMlMjBieSUyME1pY3Jvd2F2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkxNTkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMDUlM0E1NiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Megawatts by Microwave",
+      "pubDate": "Sun, 05 Jul 2026 05:56:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1aS5zaGFkY24uY29tJTJGZG9jcyUyRmNoYW5nZWxvZyU3Q2h0dHBzJTNBJTJGJTJGdWkuc2hhZGNuLmNvbSUyRmRvY3MlMkZjaGFuZ2Vsb2clN0NTaGFkY24lMkZVSSUyMG5vdyUyMGRlZmF1bHRzJTIwdG8lMjBCYXNlJTIwVUklMjBpbnN0ZWFkJTIwb2YlMjBSYWRpeCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkxMzI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMDQlM0E0NiUzQTA4JTIwJTJCMDAwMA",
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "pubDate": "Sun, 05 Jul 2026 04:46:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG9nYmF5c29mdHdhcmUuY29tJTJGcG9zdHMlMkZtb2J5LWRpY2std29ya291dCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhvZ2JheXNvZnR3YXJlLmNvbSUyRnBvc3RzJTJGbW9ieS1kaWNrLXdvcmtvdXQlMkYlN0NNb2J5JTIwRGljayUyMFdvcmtvdXQlMjAoMjAyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5MTI2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDA0JTNBMzAlM0EzMyUyMCUyQjAwMDA",
+      "title": "Moby Dick Workout (2022)",
+      "pubDate": "Sun, 05 Jul 2026 04:30:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW5pbW1vdXNlLmNvbSUyRnAlMkZteS1hc24tam91cm5leSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFuaW1tb3VzZS5jb20lMkZwJTJGbXktYXNuLWpvdXJuZXklMkYlN0NNeSUyMEFTTiUyMEpvdXJuZXklMjBzZXJpZXMlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5MTI1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDA0JTNBMjklM0EwNSUyMCUyQjAwMDA",
+      "title": "My ASN Journey series (2024)",
+      "pubDate": "Sun, 05 Jul 2026 04:29:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndXRzZ2F0ZXNndWFyZHMud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwNiUyRjIzJTJGdGhlLXByZWVtcHRpdmUtZHJhdy1hbmQtcHJlZW1wdGl2ZS1ncmlwLWluLXRoZS1jYXNoLWluLXRyYW5zaXQtc2VjdG9yLXBhcnQtMSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3V0c2dhdGVzZ3VhcmRzLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDYlMkYyMyUyRnRoZS1wcmVlbXB0aXZlLWRyYXctYW5kLXByZWVtcHRpdmUtZ3JpcC1pbi10aGUtY2FzaC1pbi10cmFuc2l0LXNlY3Rvci1wYXJ0LTElMkYlN0NUaGUlMjBQcmVlbXB0aXZlJTIwRHJhdyUyMGFuZCUyMFByZWVtcHRpdmUlMjBHcmlwJTIwaW4lMjB0aGUlMjBDYXNoLWluLVRyYW5zaXQlMjBTZWN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5MDk5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDAzJTNBMjAlM0E0NiUyMCUyQjAwMDA",
+      "title": "The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector",
+      "pubDate": "Sun, 05 Jul 2026 03:20:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDVGhlJTIwTG9nJTIwSXMlMjB0aGUlMjBBZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkwOTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMDIlM0E1NyUzQTM4JTIwJTJCMDAwMA",
+      "title": "The Log Is the Agent",
+      "pubDate": "Sun, 05 Jul 2026 02:57:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
     }
   ]
