@@ -7,6 +7,13 @@ export interface RSSItem {
   link: string;
   pubDate: string;
   description: string;
+  /**
+   * Pre-computed item ID. Set when the item originates from GitHub log files
+   * (via addHistoricalItems) so the original ID is preserved instead of
+   * regenerated from incomplete fields (link/description are empty for
+   * historical items). When absent, generateItemIdFromItem is used.
+   */
+  itemId?: string;
 }
 
 /**

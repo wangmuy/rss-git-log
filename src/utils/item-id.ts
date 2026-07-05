@@ -68,6 +68,27 @@ export function generateItemIdFromItem(item: {
 }
 
 /**
+ * Get the item ID, preferring a pre-computed `itemId` if present.
+ *
+ * Historical items (from GitHub log files via addHistoricalItems) store the
+ * original itemId directly, since their link/description fields are empty and
+ * generateItemIdFromItem would produce a different (wrong) ID.
+ *
+ * RSS feed items don't have itemId set, so this falls back to
+ * generateItemIdFromItem for them.
+ */
+export function getItemId(item: {
+  itemId?: string;
+  guid?: string;
+  link?: string;
+  title?: string;
+  description?: string;
+  pubDate?: string;
+}): string {
+  return item.itemId || generateItemIdFromItem(item);
+}
+
+/**
  * Batch generate item IDs for multiple items
  *
  * @param items - Array of RSS items

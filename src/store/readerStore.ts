@@ -2,7 +2,7 @@
 import { RSSFeed, RSSItem, SiteWithStatus } from '@/types/rss';
 import { ReaderSettings } from '@/types/config';
 import { ReadStatus } from '@/types/log';
-import { generateItemIdFromItem } from '@/utils/item-id';
+import { getItemId } from '@/utils/item-id';
 import { compressedGetItem, compressedSetItem } from '@/utils/compressed-storage';
 
 interface ReaderState {
@@ -112,7 +112,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         if (site.siteId === siteId) {
           const readItems = newReadStatus[siteId];
           const unreadCount = site.items.filter(item => {
-            const id = generateItemIdFromItem(item);
+            const id = getItemId(item);
             return !readItems.has(id);
           }).length;
           return { ...site, unreadCount };
@@ -140,7 +140,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
       }
 
       site.items.forEach(item => {
-        const itemId = generateItemIdFromItem(item);
+        const itemId = getItemId(item);
         newReadStatus[siteId].add(itemId);
         newSessionSet[siteId].add(itemId);
       });
@@ -174,7 +174,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
         newSessionSet[siteId] = new Set();
 
         site.items.forEach(item => {
-          const itemId = generateItemIdFromItem(item);
+          const itemId = getItemId(item);
           newReadStatus[siteId].add(itemId);
           newSessionSet[siteId].add(itemId);
         });
@@ -208,7 +208,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
 
     const readItems = state.readStatus[siteId] || new Set();
     return site.items.filter(item => {
-      const itemId = generateItemIdFromItem(item);
+      const itemId = getItemId(item);
       return !readItems.has(itemId);
     }).length;
   },
@@ -221,11 +221,11 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
     const readItems = state.readStatus[siteId] || new Set();
     return site.items
       .filter(item => {
-        const itemId = generateItemIdFromItem(item);
+        const itemId = getItemId(item);
         return !readItems.has(itemId);
       })
       .map(item => ({
-        itemId: generateItemIdFromItem(item),
+        itemId: getItemId(item),
         title: item.title,
         pubDate: item.pubDate,
         siteName: site.name
@@ -253,7 +253,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
     if (!site) return [];
 
     return site.items.map(item => ({
-      itemId: generateItemIdFromItem(item),
+      itemId: getItemId(item),
       title: item.title,
       pubDate: item.pubDate,
       siteName: site.name
@@ -269,7 +269,7 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
     const readItemsList: Array<{ itemId: string; title: string; pubDate: string; readAt?: string }> = [];
 
     site.items.forEach(item => {
-      const itemId = generateItemIdFromItem(item);
+      const itemId = getItemId(item);
       if (readItems.has(itemId)) {
         readItemsList.push({
           itemId,
@@ -315,11 +315,12 @@ export const useReaderStore = create<ReaderState>((set, get) => ({
       if (siteIndex === -1) return state;
 
       const site = state.sites[siteIndex];
-      const existingItemIds = new Set(site.items.map(item => generateItemIdFromItem(item)));
+      const existingItemIds = new Set(site.items.map(item => getItemId(item)));
 
       const newItems = historicalItems
         .filter(item => !existingItemIds.has(item.itemId))
         .map(item => ({
+          itemId: item.itemId,
           guid: item.itemId,
           title: item.title,
           pubDate: item.pubDate,

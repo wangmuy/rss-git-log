@@ -1,6 +1,6 @@
 ﻿import React, { useState, useEffect, useRef, useMemo, useLayoutEffect, useCallback } from 'react';
 import { useReaderStore } from '../store/readerStore';
-import { generateItemIdFromItem } from '@/utils/item-id';
+import { getItemId } from '@/utils/item-id';
 import { getItemStore } from '@/stores/use-item-store';
 import { SearchResult } from '@/stores/item-store';
 import {
@@ -140,6 +140,17 @@ export const SidebarFeedLayout: React.FC<SidebarFeedLayoutProps> = ({
           s.siteId === selectedSiteId ? { ...s, unreadCount: 0 } : s
         )
       });
+
+      // Also mark all items as read in the item store (PGlite DB) so that
+      // getItemsForCommit returns readAt for ALL items, not just those
+      // whose IDs match the Zustand readStatus (historical items have
+      // mismatched IDs due to addHistoricalItems storing empty link/description).
+      try {
+        const itemStore = await getItemStore();
+        await itemStore.markSiteAsRead(selectedSiteId);
+      } catch (e) {
+        console.error('Failed to mark site as read in item store:', e);
+      }
     } catch (e) {
       console.error('Failed to mark all as read:', e);
     } finally {
@@ -367,13 +378,13 @@ export const FeedListPane: React.FC<FeedListPaneProps> = ({ site, onMarkAsRead, 
       return [...site.items]
         .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
         .filter(item => {
-          const id = generateItemIdFromItem(item);
+          const id = getItemId(item);
           if (seen.has(id)) return false;
           seen.add(id);
           return true;
         })
         .map((item, idx) => ({
-          itemId: generateItemIdFromItem(item),
+          itemId: getItemId(item),
           item,
           idx,
         }));

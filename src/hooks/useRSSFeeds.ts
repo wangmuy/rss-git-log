@@ -4,7 +4,7 @@ import { SiteWithStatus } from '@/types/rss';
 import { useReaderStore } from '../store/readerStore';
 import { getSiteId } from '@/utils/url';
 import { loadAppConfig } from '@/utils/app-config';
-import { generateItemIdFromItem } from '@/utils/item-id';
+import { getItemId } from '@/utils/item-id';
 import { GitProviderConfig } from '@/types/git';
 import { getItemStore } from '@/stores/use-item-store';
 
@@ -118,7 +118,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
               const allStoreItems = itemsList.map((i: any) => i);
               const rssItemIds = new Set(itemsList.map((i: any) => i.itemId));
               for (const item of items) {
-                const itemId = generateItemIdFromItem(item);
+                const itemId = getItemId(item);
                 if (!rssItemIds.has(itemId)) {
                   allStoreItems.push({
                     itemId, title: item.title || '', link: item.link,
@@ -142,7 +142,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
           } else {
             // Always store items in PGlite for search, even without GitHub
             const rssStoreItems = items.map(item => ({
-              itemId: generateItemIdFromItem(item),
+              itemId: getItemId(item),
               title: item.title || '',
               link: item.link,
               description: item.description,
@@ -228,7 +228,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
                 const allStoreItems = itemsList.map((i: any) => i);
                 const rssItemIds = new Set(itemsList.map((i: any) => i.itemId));
                 for (const item of items) {
-                  const itemId = generateItemIdFromItem(item);
+                  const itemId = getItemId(item);
                   if (!rssItemIds.has(itemId)) {
                     allStoreItems.push({
                       itemId, title: item.title || '', link: item.link,
@@ -252,7 +252,7 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
             } else {
               // Always store items in PGlite for search, even without GitHub
               const rssStoreItems = items.map(item => ({
-                itemId: generateItemIdFromItem(item),
+                itemId: getItemId(item),
                 title: item.title || '',
                 link: item.link,
                 description: item.description,
@@ -286,14 +286,29 @@ export function useRSSFeeds(config: any): UseRSSFeedsReturn {
     setStoreLoading(false);
   }, [config, sites, setStoreLoading, setStoreError, setSiteLoading, updateSite, addHistoricalItems, mergeGitHubReadStatus]);
 
+  const markAsReadWithStore = useCallback((siteId: string, itemId: string) => {
+    markAsRead(siteId, itemId);
+    getItemStore().then(store => store.markAsRead(siteId, itemId)).catch(() => {});
+  }, [markAsRead]);
+
+  const markSiteAsReadWithStore = useCallback((siteId: string) => {
+    markSiteAsRead(siteId);
+    getItemStore().then(store => store.markSiteAsRead(siteId)).catch(() => {});
+  }, [markSiteAsRead]);
+
+  const markAllAsReadWithStore = useCallback(() => {
+    markAllAsRead();
+    getItemStore().then(store => store.markAllAsRead()).catch(() => {});
+  }, [markAllAsRead]);
+
   return {
     sites,
     loading,
     error,
     refresh,
-    markAsRead,
-    markSiteAsRead,
-    markAllAsRead,
+    markAsRead: markAsReadWithStore,
+    markSiteAsRead: markSiteAsReadWithStore,
+    markAllAsRead: markAllAsReadWithStore,
     fetchSiteFeed
   };
 }

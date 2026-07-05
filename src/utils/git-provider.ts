@@ -111,18 +111,23 @@ export class GitHubProvider implements GitProvider {
       const deletes = deletePaths ?? [];
 
       // 1. Create blobs for changed files (skip if only deletes)
+      //    Use limited concurrency to avoid overwhelming GitHub API (CORS/rate-limit)
       const blobResponses: any[] = [];
       if (changes.length > 0) {
-        const results = await Promise.all(
-          changes.map(change =>
-            fetch(`${this.baseUrl}/git/blobs`, {
-              method: 'POST', headers,
-              body: JSON.stringify({ content: utf8ToBase64(change.content), encoding: 'base64' })
-            }).then(r => r.json())
-          )
-        );
-        if (results.some((r: any) => !r.sha)) return false;
-        blobResponses.push(...results);
+        const BLOB_CONCURRENCY = 10;
+        for (let i = 0; i < changes.length; i += BLOB_CONCURRENCY) {
+          const batch = changes.slice(i, i + BLOB_CONCURRENCY);
+          const results = await Promise.all(
+            batch.map(change =>
+              fetch(`${this.baseUrl}/git/blobs`, {
+                method: 'POST', headers,
+                body: JSON.stringify({ content: utf8ToBase64(change.content), encoding: 'base64' })
+              }).then(r => r.json())
+            )
+          );
+          if (results.some((r: any) => !r.sha)) return false;
+          blobResponses.push(...results);
+        }
       }
 
       // 2. Get current head commit tree SHA
@@ -132,20 +137,23 @@ export class GitHubProvider implements GitProvider {
       const refData = await refResp.json();
       const currentTreeSha = refData.object.sha;
 
-      // 3. Get the current tree
-      const treeResp = await this.fetchWithSignal(`${this.baseUrl}/git/trees/${currentTreeSha}`, { headers });
-      if (!treeResp.ok) return false;
-      const currentTree = await treeResp.json();
-
-      // 4. Create new tree: filter out replaced and deleted paths, add changed files
-      const pathsToExclude = new Set([...changes.map(c => c.path), ...deletes]);
+      // 3. Create new tree with changed files + explicit deletion entries.
+      //    base_tree inherits all unchanged files. Deletion entries (sha: null)
+      //    tell the API to remove those paths. This works for files in any
+      //    subdirectory without needing to fetch the full recursive tree.
       const treeItems = [
-        ...currentTree.tree.filter((item: any) => !pathsToExclude.has(item.path)),
         ...changes.map((change, i) => ({
           path: change.path,
           mode: '100644' as const,
           type: 'blob' as const,
           sha: blobResponses[i].sha
+        })),
+        // Explicit deletion entries: sha: null tells the API to remove these paths
+        ...deletes.map(path => ({
+          path,
+          mode: '100644' as const,
+          type: 'blob' as const,
+          sha: null as string | null
         }))
       ];
 

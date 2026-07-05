@@ -1,7 +1,7 @@
 import { describe, expect, it, beforeEach } from 'vitest';
 import { useReaderStore } from './readerStore';
 import { RSSItem } from '@/types/rss';
-import { generateItemIdFromItem } from '@/utils/item-id';
+import { generateItemIdFromItem, getItemId } from '@/utils/item-id';
 
 const createMockItem = (id: number): RSSItem => ({
   guid: `guid-${id}`,
@@ -341,6 +341,126 @@ describe('readerStore', () => {
 
       expect(useReaderStore.getState().readStatus['site-1'].size).toBe(2);
       expect(useReaderStore.getState().readStatus['site-2'].size).toBe(2);
+    });
+  });
+
+  describe('addHistoricalItems preserves itemId', () => {
+    it('stores original itemId on historical items so getItemId returns it', () => {
+      const rssItem = createMockItem(1);
+      const originalItemId = generateItemIdFromItem(rssItem);
+
+      useReaderStore.setState({
+        sites: [{
+          siteId: 'site-1',
+          name: 'Test Site',
+          url: 'https://example.com/feed.xml',
+          color: '#1976d2',
+          items: [],
+          unreadCount: 0,
+          error: undefined
+        }],
+        readStatus: {},
+        loadingSites: {}
+      });
+
+      const store = useReaderStore.getState();
+      store.addHistoricalItems('site-1', [
+        { itemId: originalItemId, title: rssItem.title, pubDate: rssItem.pubDate }
+      ]);
+
+      const site = useReaderStore.getState().sites.find(s => s.siteId === 'site-1');
+      expect(site!.items.length).toBe(1);
+
+      const historicalItem = site!.items[0];
+      expect(historicalItem.itemId).toBe(originalItemId);
+      expect(getItemId(historicalItem)).toBe(originalItemId);
+    });
+
+    it('markSiteAsRead uses original itemId for historical items', () => {
+      const rssItem = createMockItem(1);
+      const originalItemId = generateItemIdFromItem(rssItem);
+
+      useReaderStore.setState({
+        sites: [{
+          siteId: 'site-1',
+          name: 'Test Site',
+          url: 'https://example.com/feed.xml',
+          color: '#1976d2',
+          items: [],
+          unreadCount: 0,
+          error: undefined
+        }],
+        readStatus: { 'site-1': new Set() },
+        loadingSites: {}
+      });
+
+      const store = useReaderStore.getState();
+      store.addHistoricalItems('site-1', [
+        { itemId: originalItemId, title: rssItem.title, pubDate: rssItem.pubDate }
+      ]);
+
+      store.markSiteAsRead('site-1');
+
+      const readStatus = useReaderStore.getState().readStatus['site-1'];
+      expect(readStatus.has(originalItemId)).toBe(true);
+    });
+
+    it('getAllItems returns original itemId for historical items', () => {
+      const rssItem = createMockItem(1);
+      const originalItemId = generateItemIdFromItem(rssItem);
+
+      useReaderStore.setState({
+        sites: [{
+          siteId: 'site-1',
+          name: 'Test Site',
+          url: 'https://example.com/feed.xml',
+          color: '#1976d2',
+          items: [],
+          unreadCount: 0,
+          error: undefined
+        }],
+        readStatus: {},
+        loadingSites: {}
+      });
+
+      const store = useReaderStore.getState();
+      store.addHistoricalItems('site-1', [
+        { itemId: originalItemId, title: rssItem.title, pubDate: rssItem.pubDate }
+      ]);
+
+      const allItems = useReaderStore.getState().getAllItems('site-1');
+      expect(allItems.length).toBe(1);
+      expect(allItems[0].itemId).toBe(originalItemId);
+    });
+
+    it('deduplicates historical items by original itemId', () => {
+      const rssItem = createMockItem(1);
+      const originalItemId = generateItemIdFromItem(rssItem);
+
+      useReaderStore.setState({
+        sites: [{
+          siteId: 'site-1',
+          name: 'Test Site',
+          url: 'https://example.com/feed.xml',
+          color: '#1976d2',
+          items: [],
+          unreadCount: 0,
+          error: undefined
+        }],
+        readStatus: {},
+        loadingSites: {}
+      });
+
+      const store = useReaderStore.getState();
+      store.addHistoricalItems('site-1', [
+        { itemId: originalItemId, title: rssItem.title, pubDate: rssItem.pubDate }
+      ]);
+      store.addHistoricalItems('site-1', [
+        { itemId: originalItemId, title: rssItem.title, pubDate: rssItem.pubDate }
+      ]);
+
+      const site = useReaderStore.getState().sites.find(s => s.siteId === 'site-1');
+      expect(site!.items.length).toBe(1);
     });
   });
 });

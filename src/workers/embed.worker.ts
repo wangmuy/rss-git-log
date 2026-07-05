@@ -1,11 +1,21 @@
+// ── Dev-only: local model hosting + CORS proxy for HuggingFace ──────
+// HuggingFace may be unreachable from some networks during local dev.
+// In dev: load model from public/models/ and proxy HF requests.
+// In production: use default HuggingFace remote loading.
+import './hf-fetch-override';
+
 // @ts-ignore
 import { PGlite } from 'https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.4.5/dist/index.min.js';
 // @ts-ignore
 import { vector } from 'https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.4.5/dist/vector/index.min.js';
 // @ts-ignore
-import { pipeline } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@4.2.0/dist/transformers.min.js';
+import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@4.2.0/dist/transformers.min.js';
+if (import.meta.env.DEV) {
+  env.allowLocalModels = true;
+  env.localModelPath = '/models/';
+}
 
-let db: PGlite | null = null;
+let db: any = null;
 let dbPort: MessagePort | null = null;
 let embedPipeline: any = null;
 let pendingEmbeds: Array<{ id: string; text: string }> = [];
@@ -72,6 +82,7 @@ async function startModelDownload() {
     }
   } catch (e: any) {
     console.error('[W2] model download failed:', e?.message || e);
+    console.warn('[W2] vector search disabled, falling back to text search. If HuggingFace is blocked, the CORS proxy may also fail.');
     self.postMessage({ type: 'STATUS', status: 'MODEL_ERROR', error: e?.message || String(e) });
   }
 }
@@ -129,11 +140,11 @@ async function handleVectorSearch(payload: any) {
   try {
     const output = await embedPipeline(text, { pooling: 'mean', normalize: true });
     const vector = arrayToVectorString(Array.from(output.data));
-    const res = await db.query<{ item_id: string }>(
+    const res = await db.query(
       `SELECT item_id FROM embeddings ORDER BY embedding <=> $1 ASC LIMIT 30`,
       [vector]
     );
-    const ids = (res.rows ?? []).map((r: any) => r.item_id);
+    const ids = ((res.rows ?? []) as any[]).map((r: any) => r.item_id);
     console.log(`[W2] vectorSearch "${text}" found ${ids.length} results (${(performance.now() - t0).toFixed(0)}ms)`);
     self.postMessage({ seq: payload.seq, type: 'VECTOR_SEARCH', ids });
   } catch (e: any) {

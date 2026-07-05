@@ -1,9 +1,9 @@
-import { generateItemId } from '../utils/item-id';
+import { getItemId } from '../utils/item-id';
 import LZString from 'lz-string';
 
 interface MarkAllReadInput {
   siteId: string;
-  items: Array<{ guid?: string; link?: string; title?: string; description?: string; pubDate?: string }>;
+  items: Array<{ itemId?: string; guid?: string; link?: string; title?: string; description?: string; pubDate?: string }>;
   existingReadStatus: Record<string, string[]>;
   settings: any;
 }
@@ -21,13 +21,7 @@ self.onmessage = (e: MessageEvent<MarkAllReadInput>) => {
   const itemIds: string[] = [];
 
   for (const item of items) {
-    const id = generateItemId(
-      item.guid || '',
-      item.link || '',
-      item.title || '',
-      item.description || '',
-      item.pubDate || ''
-    );
+    const id = getItemId(item);
     itemIds.push(id);
   }
 

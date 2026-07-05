@@ -1,4 +1,5 @@
 import { ItemStore, SearchResult } from './item-store';
+import { useReaderStore } from '../store/readerStore';
 
 export class PGliteStore implements ItemStore {
   private dbWorker: Worker | null = null;
@@ -152,7 +153,14 @@ export class PGliteStore implements ItemStore {
   }>> {
     try {
       const resp = await this.request(this.dbWorker!, 'getItemsForCommit', { siteId });
-      return (resp.items || []) as any[];
+      const items = (resp.items || []) as any[];
+      const readerState = useReaderStore.getState();
+      return items.map(item => ({
+        itemId: item.itemId,
+        title: item.title,
+        pubDate: item.pubDate,
+        readAt: item.readAt || (readerState.isRead(siteId, item.itemId) ? new Date().toISOString() : undefined)
+      }));
     } catch {
       return [];
     }

@@ -1,6 +1,6 @@
 import { ItemStore, SearchResult } from './item-store';
 import { useReaderStore } from '../store/readerStore';
-import { generateItemIdFromItem } from '@/utils/item-id';
+import { getItemId } from '@/utils/item-id';
 import MiniSearch from 'minisearch';
 
 export class LocalStorageStore implements ItemStore {
@@ -28,7 +28,7 @@ export class LocalStorageStore implements ItemStore {
     const docs: any[] = [];
     for (const site of store.sites) {
       for (const item of site.items) {
-        const itemId = generateItemIdFromItem(item);
+        const itemId = getItemId(item);
         docs.push({
           id: itemId,
           itemId,

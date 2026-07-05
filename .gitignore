@@ -17,6 +17,9 @@
 .env.test.local
 .env.production.local
 .env
+
+# dev-only model files (downloaded from hf-mirror, not for production)
+/public/models/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
