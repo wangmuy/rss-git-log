@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-05",
     "newestItemDate": "2026-07-05",
-    "itemCount": 17,
-    "generatedAt": "2026-07-05T10:30:26.366Z"
+    "itemCount": 32,
+    "generatedAt": "2026-07-05T17:33:32.082Z"
   },
   "items": [
     {
@@ -107,6 +107,96 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDVGhlJTIwTG9nJTIwSXMlMjB0aGUlMjBBZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkwOTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMDIlM0E1NyUzQTM4JTIwJTJCMDAwMA",
       "title": "The Log Is the Agent",
+      "pubDate": "Sun, 05 Jul 2026 02:57:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtY2VnbG93c2tpLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtcGxpZ2h0LW9mLXRoZS1tYXJ0aWFuLWZhcm1lciU3Q2h0dHBzJTNBJTJGJTJGbWNlZ2xvd3NraS5zdWJzdGFjay5jb20lMkZwJTJGdGhlLXBsaWdodC1vZi10aGUtbWFydGlhbi1mYXJtZXIlN0NUaGUlMjBQbGlnaHQlMjBvZiUyMHRoZSUyME1hcnRpYW4lMjBGYXJtZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NTMwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDE2JTNBMDQlM0EyMyUyMCUyQjAwMDA",
+      "title": "The Plight of the Martian Farmer",
+      "pubDate": "Sun, 05 Jul 2026 16:04:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVzaWduYm9vbS5jb20lMkZ0ZWNobm9sb2d5JTJGYXV0b25vbW91cy1mbHlpbmctdW1icmVsbGEtZm9sbG93cy11c2Vycy1yYWluLXN1bmxpZ2h0LWktYnVpbGQtc3R1ZmYtMDEtMTMtMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRlc2lnbmJvb20uY29tJTJGdGVjaG5vbG9neSUyRmF1dG9ub21vdXMtZmx5aW5nLXVtYnJlbGxhLWZvbGxvd3MtdXNlcnMtcmFpbi1zdW5saWdodC1pLWJ1aWxkLXN0dWZmLTAxLTEzLTIwMjYlMkYlN0NBdXRvbm9tb3VzJTIwZmx5aW5nJTIwdW1icmVsbGElMjBmb2xsb3dzJTIwYW5kJTIwc2hpZWxkcyUyMHVzZXJzJTIwZnJvbSUyMHJhaW4lMjBhbmQlMjBzdW5saWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk1MTc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMTUlM0E0OSUzQTE4JTIwJTJCMDAwMA",
+      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "pubDate": "Sun, 05 Jul 2026 15:49:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbWFyY3dpc2UuaW8lMkZibG9nJTJGZG1hcmMtbnAtaW5jb21wYXRpYmlsaXR5LXdpdGgtZG5zc2VjJTdDaHR0cHMlM0ElMkYlMkZkbWFyY3dpc2UuaW8lMkZibG9nJTJGZG1hcmMtbnAtaW5jb21wYXRpYmlsaXR5LXdpdGgtZG5zc2VjJTdDV2h5JTIwRE1BUkMncyUyMG5ldyUyMCUyMk5QJTIyJTIwdGFnJTIwY2FuJTIwZmFpbCUyMHdpdGglMjBETlNTRUMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NDc4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDE1JTNBMDAlM0EyMSUyMCUyQjAwMDA",
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "pubDate": "Sun, 05 Jul 2026 15:00:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb3BjYXIuYmVhcmJsb2cuZGV2JTJGaXRzLWFib3V0LW93bmVyc2hpcCUyRiU3Q2h0dHBzJTNBJTJGJTJGcG9wY2FyLmJlYXJibG9nLmRldiUyRml0cy1hYm91dC1vd25lcnNoaXAlMkYlN0NJdCdzJTIwbm90JTIwYWJvdXQlMjBwaHlzaWNhbCUyMHZzLiUyMGRpZ2l0YWwlMjBnYW1lcyUyQyUyMGl0J3MlMjBhYm91dCUyMG93bmVyc2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk0NzUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMTQlM0E1NiUzQTE1JTIwJTJCMDAwMA",
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "pubDate": "Sun, 05 Jul 2026 14:56:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXVyb25ld3MuY29tJTJGMjAyNiUyRjA3JTJGMDUlMkZpdGFseS1jb3VsZC1iZS10aGUtbmV4dC1jb3VudHJ5LXRvLWJ1aWxkLWEtc29sYXItcmFpbHdheS1hZnRlci1zd2l0emVybGFuZHMtc3VjY2Vzc2Z1bC10cmklN0NodHRwcyUzQSUyRiUyRnd3dy5ldXJvbmV3cy5jb20lMkYyMDI2JTJGMDclMkYwNSUyRml0YWx5LWNvdWxkLWJlLXRoZS1uZXh0LWNvdW50cnktdG8tYnVpbGQtYS1zb2xhci1yYWlsd2F5LWFmdGVyLXN3aXR6ZXJsYW5kcy1zdWNjZXNzZnVsLXRyaSU3Q1NvbGFyJTIwcmFpbCUyMGNvdWxkJTIwYmVjb21lJTIwY29tbW9uJTIwaW4lMjBFdXJvcGUlMjBhZnRlciUyMHN1Y2Nlc3NmdWwlMjB0cmlhbCUyMGluJTIwU3dpdHplcmxhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NDcwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDE0JTNBNDklM0E0MiUyMCUyQjAwMDA",
+      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "pubDate": "Sun, 05 Jul 2026 14:49:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcmdhbmljbWFwcy5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRm9yZ2FuaWNtYXBzLmFwcCUyRiU3Q09yZ2FuaWMlMjBNYXBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTQ0NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxNCUzQTE0JTNBMzAlMjAlMkIwMDAw",
+      "title": "Organic Maps",
+      "pubDate": "Sun, 05 Jul 2026 14:14:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXltaWkub3JnJTJGcyUyRmJsb2clMkZSdW5fV2luZG93c18yMDAwX2Zvcl9EZWNfQWxwaGFfb25fYV9uZXdfZXM0MF9mb3JrLmh0bWwlN0NodHRwcyUzQSUyRiUyRnJheW1paS5vcmclMkZzJTJGYmxvZyUyRlJ1bl9XaW5kb3dzXzIwMDBfZm9yX0RlY19BbHBoYV9vbl9hX25ld19lczQwX2ZvcmsuaHRtbCU3Q1J1biUyMFdpbmRvd3MlMjAyMDAwJTIwb24lMjBhJTIwREVDJTIwQWxwaGElMjB3aXRoJTIwYSUyMG5ldyUyMGVzNDAlMjBmb3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTQzMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxMyUzQTQ3JTNBNDQlMjAlMkIwMDAw",
+      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+      "pubDate": "Sun, 05 Jul 2026 13:47:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaG9zaC5tb2JpJTJGcmVsZWFzZXMlMkZyZWwtMC41Ni4wJTJGJTdDaHR0cHMlM0ElMkYlMkZwaG9zaC5tb2JpJTJGcmVsZWFzZXMlMkZyZWwtMC41Ni4wJTJGJTdDUGhvc2glMjAwLjU2LjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NDE3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDEzJTNBMjglM0ExMSUyMCUyQjAwMDA",
+      "title": "Phosh 0.56.0",
+      "pubDate": "Sun, 05 Jul 2026 13:28:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZW1vLnBjYmphbS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmRlbW8ucGNiamFtLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEtpQ2FkJTIwaW4lMjB0aGUlMjBCcm93c2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTM1NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxMiUzQTA2JTNBNTclMjAlMkIwMDAw",
+      "title": "Show HN: KiCad in the Browser",
+      "pubDate": "Sun, 05 Jul 2026 12:06:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWNjLm9yZyUyRmFib3V0LWFjYyUyRnByZXNzLXJlbGVhc2VzJTJGMjAyNSUyRjAzJTJGMTclMkYxNSUyRjM1JTJGY2FubmFiaXMtdXNlcnMtZmFjZS1zdWJzdGFudGlhbGx5LWhpZ2hlci1yaXNrJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWNjLm9yZyUyRmFib3V0LWFjYyUyRnByZXNzLXJlbGVhc2VzJTJGMjAyNSUyRjAzJTJGMTclMkYxNSUyRjM1JTJGY2FubmFiaXMtdXNlcnMtZmFjZS1zdWJzdGFudGlhbGx5LWhpZ2hlci1yaXNrJTdDQ2FubmFiaXMlMjB1c2VycyUyMGZhY2UlMjBzdWJzdGFudGlhbGx5JTIwaGlnaGVyJTIwcmlzayUyMG9mJTIwaGVhcnQlMjBhdHRhY2slMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5MzQ5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDExJTNBNTklM0EyNyUyMCUyQjAwMDA",
+      "title": "Cannabis users face substantially higher risk of heart attack (2025)",
+      "pubDate": "Sun, 05 Jul 2026 11:59:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdGhhaW4uZ2l0aHViLmlvJTJGYm9va3MlMkZjb21waWxlciUyRiU3Q2h0dHBzJTNBJTJGJTJGZHRoYWluLmdpdGh1Yi5pbyUyRmJvb2tzJTJGY29tcGlsZXIlMkYlN0NJbnRyb2R1Y3Rpb24lMjB0byUyMENvbXBpbGVycyUyMGFuZCUyMExhbmd1YWdlJTIwRGVzaWduJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTM0NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxMSUzQTU0JTNBMTYlMjAlMkIwMDAw",
+      "title": "Introduction to Compilers and Language Design",
+      "pubDate": "Sun, 05 Jul 2026 11:54:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVpc2UuZGUlMkZlbiUyRm5ld3MlMkZDaGF0LUNvbnRyb2wtMS0wLUVVLUNvdW5jaWwtZm9yY2VzLW1lc3Nlbmdlci1zY2Fucy12aWEtZmFzdC10cmFjay0xMTM1MzY1OS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGVpc2UuZGUlMkZlbiUyRm5ld3MlMkZDaGF0LUNvbnRyb2wtMS0wLUVVLUNvdW5jaWwtZm9yY2VzLW1lc3Nlbmdlci1zY2Fucy12aWEtZmFzdC10cmFjay0xMTM1MzY1OS5odG1sJTdDRVUlMjBDb3VuY2lsJTIwZm9yY2VzJTIwQ2hhdCUyMENvbnRyb2wlMjB2aWElMjBmYXN0LXRyYWNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTMzOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxMSUzQTQ0JTNBMDQlMjAlMkIwMDAw",
+      "title": "EU Council forces Chat Control via fast-track",
+      "pubDate": "Sun, 05 Jul 2026 11:44:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWhhaS5wYWdlJTJGcGktc3F1YXJlLWlzLTEwJTJGJTdDaHR0cHMlM0ElMkYlMkZtaWhhaS5wYWdlJTJGcGktc3F1YXJlLWlzLTEwJTJGJTdDUGklMjBzcXVhcmVkJTIwaXMlMjBuZWFybHklMjAxMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkzMDczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMTAlM0E1MCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Pi squared is nearly 10",
+      "pubDate": "Sun, 05 Jul 2026 10:50:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcmFpZ21vZC5jb20lMkZlc3NheXMlMkZmYXN0X3NvZnR3YXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZjcmFpZ21vZC5jb20lMkZlc3NheXMlMkZmYXN0X3NvZnR3YXJlJTJGJTdDRmFzdCUyMFNvZnR3YXJlJTJDJTIwdGhlJTIwQmVzdCUyMFNvZnR3YXJlJTIwKDIwMTkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTIwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAwNyUzQTI1JTNBMjUlMjAlMkIwMDAw",
+      "title": "Fast Software, the Best Software (2019)",
+      "pubDate": "Sun, 05 Jul 2026 07:25:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDVGhlJTIwTG9nJTIwaXMlMjB0aGUlMjBBZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkwOTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMDIlM0E1NyUzQTM4JTIwJTJCMDAwMA",
+      "title": "The Log is the Agent",
       "pubDate": "Sun, 05 Jul 2026 02:57:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
     }
