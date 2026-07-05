@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-04",
     "newestItemDate": "2026-07-04",
-    "itemCount": 33,
-    "generatedAt": "2026-07-04T23:05:27.750Z"
+    "itemCount": 39,
+    "generatedAt": "2026-07-05T04:34:28.221Z"
   },
   "items": [
     {
@@ -213,6 +213,42 @@
       "title": "Fable created novel 4D splat format",
       "pubDate": "Sat, 04 Jul 2026 15:49:08 +0000",
       "readAt": "2026-07-05 07:04:56.586+08",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVhbmFyY2hpc3RsaWJyYXJ5Lm9yZyUyRmxpYnJhcnklMkZhbGJlcnQtY2FtdXMtcmVmbGVjdGlvbnMtb24tdGhlLWd1aWxsb3RpbmUlN0NodHRwcyUzQSUyRiUyRnRoZWFuYXJjaGlzdGxpYnJhcnkub3JnJTJGbGlicmFyeSUyRmFsYmVydC1jYW11cy1yZWZsZWN0aW9ucy1vbi10aGUtZ3VpbGxvdGluZSU3Q1JlZmxlY3Rpb25zJTIwb24lMjB0aGUlMjBHdWlsbG90aW5lJTIwKDE5NTcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTAwMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNCUyMEp1bCUyMDIwMjYlMjAyMyUzQTM2JTNBMTElMjAlMkIwMDAw",
+      "title": "Reflections on the Guillotine (1957)",
+      "pubDate": "Sat, 04 Jul 2026 23:36:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaWRnZXRleHQuY29tJTJGYmxvZyUyRm1hcGJveC1sbG0tY29tcG9zaXRpb24lN0NodHRwcyUzQSUyRiUyRnJpZGdldGV4dC5jb20lMkZibG9nJTJGbWFwYm94LWxsbS1jb21wb3NpdGlvbiU3Q01hcHBpbmclMjB3aXRoJTIwSW4tTWVtb3J5JTIwTGF5ZXJzJTIwdG8lMjBSZWR1Y2UlMjBMTE0lMjBPdmVybG9hZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg5OTg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMjMlM0EyNSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "pubDate": "Sat, 04 Jul 2026 23:25:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2dnb256YWxlei5jb20lMkZibG9nJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNnZ29uemFsZXouY29tJTJGYmxvZyUyRmluZGV4Lmh0bWwlN0NEcm9uZSUyMEF1dG9ub215JTIwQ3Jhc2glMjBDb3Vyc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4OTk2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDIzJTNBMjIlM0ExNSUyMCUyQjAwMDA",
+      "title": "Drone Autonomy Crash Course",
+      "pubDate": "Sat, 04 Jul 2026 23:22:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWJsLmVkdSUyRm5ld3MlMkZqZWxseWZpc2gtY2FuLWhlYWwtd291bmRzLW1pbnV0ZXMtc2NpZW50aXN0cy13YW50LXRoZWlyLXNlY3JldHMlN0NodHRwcyUzQSUyRiUyRnd3dy5tYmwuZWR1JTJGbmV3cyUyRmplbGx5ZmlzaC1jYW4taGVhbC13b3VuZHMtbWludXRlcy1zY2llbnRpc3RzLXdhbnQtdGhlaXItc2VjcmV0cyU3Q0plbGx5ZmlzaCUyMGNhbiUyMGhlYWwlMjB3b3VuZHMlMjBpbiUyMG1pbnV0ZXMuJTIwU2NpZW50aXN0cyUyMHdhbnQlMjB0aGVpciUyMHNlY3JldHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4OTcxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDIyJTNBMzYlM0EyOCUyMCUyQjAwMDA",
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "pubDate": "Sat, 04 Jul 2026 22:36:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VhdHRsZXRpbWVzLmNvbSUyRmJ1c2luZXNzJTJGbG9jYWwtYnVzaW5lc3MlMkZhcy1kb3dudG93bi1zZWF0dGxlLW9mZmljZXMtZW1wdHktY2l0eS1mYWNpbmcteWVhcnMtb2Ytem9tYmllLXRvd2VycyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNlYXR0bGV0aW1lcy5jb20lMkZidXNpbmVzcyUyRmxvY2FsLWJ1c2luZXNzJTJGYXMtZG93bnRvd24tc2VhdHRsZS1vZmZpY2VzLWVtcHR5LWNpdHktZmFjaW5nLXllYXJzLW9mLXpvbWJpZS10b3dlcnMlMkYlN0NBcyUyMGRvd250b3duJTIwU2VhdHRsZSUyMG9mZmljZXMlMjBlbXB0eSUyQyUyMGNpdHklMjBmYWNpbmclMjB5ZWFycyUyMG9mJTIwJ3pvbWJpZSclMjB0b3dlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4NzcyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDE4JTNBNDIlM0EyNCUyMCUyQjAwMDA",
+      "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers",
+      "pubDate": "Sat, 04 Jul 2026 18:42:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXNvLm9yZyUyRnB1YmxpYyUyRm5ld3MlMkZlc28yNjA3JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZXNvLm9yZyUyRnB1YmxpYyUyRm5ld3MlMkZlc28yNjA3JTJGJTdDJTIyQmV5b25kJTIwdGhlJTIwbGltaXQlMjIlM0ElMjBTYXRlbGxpdGVzJTIwYW5kJTIwbWlycm9ycyUyMGluJTIwc3BhY2UlMjBwb3NlJTIwdGhyZWF0JTIwdG8lMjB0aGUlMjBuaWdodCUyMHNreSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg3MDQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMTclM0ExNyUzQTI4JTIwJTJCMDAwMA",
+      "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+      "pubDate": "Sat, 04 Jul 2026 17:17:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
     }
   ]
