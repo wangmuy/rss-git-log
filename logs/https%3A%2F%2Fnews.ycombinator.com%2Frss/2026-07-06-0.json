@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-06",
     "newestItemDate": "2026-07-06",
-    "itemCount": 4,
-    "generatedAt": "2026-07-06T04:45:11.077Z"
+    "itemCount": 12,
+    "generatedAt": "2026-07-06T12:15:10.833Z"
   },
   "items": [
     {
@@ -30,6 +30,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVhZHRoZWxpbmUuY2ElMkZwJTJGYWwtdmlnaWVyLWNhbmFkYXMtYWktc3RyYXRlZ3ktc2hvdWxkbnQlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWFkdGhlbGluZS5jYSUyRnAlMkZhbC12aWdpZXItY2FuYWRhcy1haS1zdHJhdGVneS1zaG91bGRudCU3Q0FsJTIwVmlnaWVyJTNBJTIwQ2FuYWRhJ3MlMjBBSSUyMHN0cmF0ZWd5JTIwc2hvdWxkbid0JTIwaW5jbHVkZSUyMHNlY3JldCUyMFBhbGFudGlyJTIwYmlsbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5OTI1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDAwJTNBMDQlM0E0OCUyMCUyQjAwMDA",
       "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
       "pubDate": "Mon, 06 Jul 2026 00:04:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGb2ZmYmVhdCUyRjIwMjYlMkYwNyUyRjA1JTJGYy1wcm9ncmFtbWVycy1jb21taXQtZnJlc2gtY3JpbWVzLWFnYWluc3QtcmVhZGFiaWxpdHklMkY1MjY1OTgxJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGb2ZmYmVhdCUyRjIwMjYlMkYwNyUyRjA1JTJGYy1wcm9ncmFtbWVycy1jb21taXQtZnJlc2gtY3JpbWVzLWFnYWluc3QtcmVhZGFiaWxpdHklMkY1MjY1OTgxJTdDQyUyMHByb2dyYW1tZXJzJTIwY29tbWl0JTIwZnJlc2glMjBjcmltZXMlMjBhZ2FpbnN0JTIwcmVhZGFiaWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwMzM0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDExJTNBNDQlM0EzOSUyMCUyQjAwMDA",
+      "title": "C programmers commit fresh crimes against readability",
+      "pubDate": "Mon, 06 Jul 2026 11:44:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWIuYXJjaGl2ZS5vcmclMkZ3ZWIlMkYyMDA1MDYxNTIzNTEwOCUyRmh0dHAlM0ElMkYlMkZ3d3cuZ2VvY2l0aWVzLmNvbSUyRnRhYmxpemVyJTJGc2NpZW5jZS5odG0lN0NodHRwcyUzQSUyRiUyRndlYi5hcmNoaXZlLm9yZyUyRndlYiUyRjIwMDUwNjE1MjM1MTA4JTJGaHR0cCUzQSUyRiUyRnd3dy5nZW9jaXRpZXMuY29tJTJGdGFibGl6ZXIlMkZzY2llbmNlLmh0bSU3QyUyMlNvZnR3YXJlJTIwRW5naW5lZXJpbmclMjIlMjBJcyUyME5vdCUyMEVuZ2luZWVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDMzMzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAxMSUzQTQyJTNBNDYlMjAlMkIwMDAw",
+      "title": "\"Software Engineering\" Is Not Engineering",
+      "pubDate": "Mon, 06 Jul 2026 11:42:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnVzLWVuZ2luZWVyZWQtc292ZXJlaWdudHklN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGdXMtZW5naW5lZXJlZC1zb3ZlcmVpZ250eSU3Q0hvdyUyMHRoZSUyMFUuUy4lMjBFbmdpbmVlcmVkJTIwSXRzJTIwU292ZXJlaWdudHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwMjk3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDEwJTNBNDklM0EyOSUyMCUyQjAwMDA",
+      "title": "How the U.S. Engineered Its Sovereignty",
+      "pubDate": "Mon, 06 Jul 2026 10:49:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaHRlaW4ubWUlMkZwb3N0cyUyRng0MDItcG9jJTJGJTdDaHR0cHMlM0ElMkYlMkZzaHRlaW4ubWUlMkZwb3N0cyUyRng0MDItcG9jJTJGJTdDWDQwMiUyQyUyMGElMjBzdGF0aWMlMjBibG9nJTIwbW9uZXRpemF0aW9uJTIwZXhjZXJjaXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDI4ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAxMCUzQTM3JTNBNTglMjAlMkIwMDAw",
+      "title": "X402, a static blog monetization excercise",
+      "pubDate": "Mon, 06 Jul 2026 10:37:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJ0aC50YXR0b28lN0NodHRwcyUzQSUyRiUyRmVhcnRoLnRhdHRvbyUyRiU3Q1Nob3clMjBITiUzQSUyMFBhaW50JTIwdGhlJTIwRWFydGglMjBvbiUyMGElMjBsaXZlJTJDJTIwaW50ZXJhY3RpdmUlMjBnbG9iZSUyMChjb2xsYWJvcmF0aXZlJTIwYXJ0LiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwMjgxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDEwJTNBMjglM0EzMiUyMCUyQjAwMDA",
+      "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+      "pubDate": "Mon, 06 Jul 2026 10:28:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib3JpbmdzcWwuY29tJTJGcG9zdHMlMkZ2YWN1dW0tYXQtdGhlLXBhZ2UtbGV2ZWwlMkYlN0NodHRwcyUzQSUyRiUyRmJvcmluZ3NxbC5jb20lMkZwb3N0cyUyRnZhY3V1bS1hdC10aGUtcGFnZS1sZXZlbCUyRiU3Q1ZhY3V1bSUyMGF0JTIwdGhlJTIwUGFnZSUyMExldmVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDI2NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAxMCUzQTAyJTNBMDglMjAlMkIwMDAw",
+      "title": "Vacuum at the Page Level",
+      "pubDate": "Mon, 06 Jul 2026 10:02:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFwLnNpZ25hbGJveC5pbyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hcC5zaWduYWxib3guaW8lMkYlN0NSZWFsLXRpbWUlMjBtYXAlMjBvZiUyMEdyZWF0JTIwQnJpdGFpbidzJTIwcmFpbCUyMG5ldHdvcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwMjUzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDA5JTNBMzglM0EzNiUyMCUyQjAwMDA",
+      "title": "Real-time map of Great Britain's rail network",
+      "pubDate": "Mon, 06 Jul 2026 09:38:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZreXJhbGwuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZreXJhbGwuY29tJTJGJTdDR2VuZXJhdGUlMjBwYXJhbWV0cmljJTJDJTIwbWFudWZhY3R1cmFibGUlMjAzRCUyMG1vZGVscyUyMGluJTIwc2Vjb25kcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODAxNDg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMDclM0EwNCUzQTMzJTIwJTJCMDAwMA",
+      "title": "Generate parametric, manufacturable 3D models in seconds",
+      "pubDate": "Mon, 06 Jul 2026 07:04:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
     }
   ]

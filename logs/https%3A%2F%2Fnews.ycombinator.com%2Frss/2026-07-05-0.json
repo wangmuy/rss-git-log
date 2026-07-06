@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-05",
     "newestItemDate": "2026-07-05",
-    "itemCount": 48,
-    "generatedAt": "2026-07-06T04:45:11.077Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-06T12:15:10.833Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RhcnJpbmd0aGVjb21wdXRlci5jb20lMkZjb21wdXRlcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0YXJyaW5ndGhlY29tcHV0ZXIuY29tJTJGY29tcHV0ZXJzLmh0bWwlN0NTdGFycmluZyUyMHRoZSUyMENvbXB1dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTYwOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxNyUzQTMzJTNBMDQlMjAlMkIwMDAw",
       "title": "Starring the Computer",
       "pubDate": "Sun, 05 Jul 2026 17:33:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIwMDQ5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIwMDQ5JTdDRG9lcyUyMGNvZGUlMjBjbGVhbmxpbmVzcyUyMGFmZmVjdCUyMGNvZGluZyUyMGFnZW50cyUzRiUyMEElMjBjb250cm9sbGVkJTIwbWluaW1hbC1wYWlyJTIwc3R1ZHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5ODgxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDIzJTNBMDMlM0E1NSUyMCUyQjAwMDA",
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "pubDate": "Sun, 05 Jul 2026 23:03:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
     }
   ]
