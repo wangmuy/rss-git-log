@@ -4,38 +4,26 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-02",
     "newestItemDate": "2026-07-02",
-    "itemCount": 5,
-    "generatedAt": "2026-07-06T12:15:10.834Z"
+    "itemCount": 3,
+    "generatedAt": "2026-07-06T18:22:33.617Z"
   },
   "items": [
     {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRnp1Y2tlcmJlcmctc2F5cy1haS1hZ2VudC1kZXZlbG9wbWVudC1nb2luZy1zbG93ZXItdGhhbi1leHBlY3RlZC0yMDI2LTA3LTAyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRnp1Y2tlcmJlcmctc2F5cy1haS1hZ2VudC1kZXZlbG9wbWVudC1nb2luZy1zbG93ZXItdGhhbi1leHBlY3RlZC0yMDI2LTA3LTAyJTJGJTdDWnVja2VyYmVyZyUyMHNheXMlMjBBSSUyMGFnZW50JTIwZGV2ZWxvcG1lbnQlMjBnb2luZyUyMHNsb3dlciUyMHRoYW4lMjBleHBlY3RlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY3MDU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMjAlM0EzOCUzQTA2JTIwJTJCMDAwMA",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "pubDate": "Thu, 02 Jul 2026 20:38:06 +0000",
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbG9qdXJlLm9yZyUyRm5ld3MlMkYyMDI2JTJGMDclMkYwMiUyRmNsb2p1cmUtMS0xMy1hbHBoYTElN0NodHRwcyUzQSUyRiUyRmNsb2p1cmUub3JnJTJGbmV3cyUyRjIwMjYlMkYwNyUyRjAyJTJGY2xvanVyZS0xLTEzLWFscGhhMSU3Q0Nsb2p1cmUlMjAxLjEzJTIwYWRkcyUyMHN1cHBvcnQlMjBmb3IlMjBjaGVja2VkJTIwa2V5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY3MjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMjAlM0E1MSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "pubDate": "Thu, 02 Jul 2026 20:51:52 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     },
     {
-      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRpdGhlc2lzLmNvbSUyRmJsb2clMkYyMDI2JTJGdGV0cmlzLXF1ZXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZhbnRpdGhlc2lzLmNvbSUyRmJsb2clMkYyMDI2JTJGdGV0cmlzLXF1ZXN0JTJGJTdDTXklMjBxdWVzdCUyMHRvJTIwc2VlJTIwYWxsJTIwb2YlMjBUZXRyaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2NTk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDE5JTNBMDklM0EzNSUyMCUyQjAwMDA",
-      "title": "My quest to see all of Tetris",
-      "pubDate": "Thu, 02 Jul 2026 19:09:35 +0000",
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzZWN1cml0eSUyRjIwMjYlMkYwNiUyRmFpLWJyb3dzZXJzLWNhbi1iZS1sdWxsZWQtaW50by1hLWRyZWFtLXdvcmxkLXdoZXJlLWd1YXJkcmFpbHMtbm8tbG9uZ2VyLWFwcGx5JTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzZWN1cml0eSUyRjIwMjYlMkYwNiUyRmFpLWJyb3dzZXJzLWNhbi1iZS1sdWxsZWQtaW50by1hLWRyZWFtLXdvcmxkLXdoZXJlLWd1YXJkcmFpbHMtbm8tbG9uZ2VyLWFwcGx5JTJGJTdDV2hlbiUyMDIlMkIyJTNENSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY2OTQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMjAlM0EyOSUzQTIzJTIwJTJCMDAwMA",
+      "title": "When 2+2=5",
+      "pubDate": "Thu, 02 Jul 2026 20:29:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     },
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZsZWFybmdlbm9taWNzLmRldiUyRmRvY3MlMkZiaW9sb2dpY2FsLWZvdW5kYXRpb25zJTJGY2VsbHMtZ2Vub21lcy1kbmEtY2hyb21vc29tZXMlMkYlN0NodHRwcyUzQSUyRiUyRmxlYXJuZ2Vub21pY3MuZGV2JTJGZG9jcyUyRmJpb2xvZ2ljYWwtZm91bmRhdGlvbnMlMkZjZWxscy1nZW5vbWVzLWRuYS1jaHJvbW9zb21lcyUyRiU3Q0ludHJvZHVjdGlvbiUyMHRvJTIwR2Vub21pY3MlMjBmb3IlMjBFbmdpbmVlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2MDQyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDEyJTNBMjglM0EyMCUyMCUyQjAwMDA",
       "title": "Introduction to Genomics for Engineers",
       "pubDate": "Thu, 02 Jul 2026 12:28:20 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZnZWFzdGFjay5jb20lMkZibG9nLXRoZS1hZ2Utb2YtcGVyc29uYWxpemVkLWhhcmR3YXJlLWlzLWNvbWluZyU3Q2h0dHBzJTNBJTJGJTJGZ2Vhc3RhY2suY29tJTJGYmxvZy10aGUtYWdlLW9mLXBlcnNvbmFsaXplZC1oYXJkd2FyZS1pcy1jb21pbmclN0NUaGUlMjBBZ2UlMjBvZiUyMFBlcnNvbmFsaXplZCUyMEhhcmR3YXJlJTIwSXMlMjBDb21pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc1NzkwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDA3JTNBNDIlM0EzMyUyMCUyQjAwMDA",
-      "title": "The Age of Personalized Hardware Is Coming",
-      "pubDate": "Thu, 02 Jul 2026 07:42:33 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuam9zaHVhY2xpZnRvbi5jb20lMkZqdWdnbGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5qb3NodWFjbGlmdG9uLmNvbSUyRmp1Z2dsZSUyRiU3Q1RoZSUyMENvbXBsZXRlJTIwSG9tZW1hZGUlMjBKdWdnbGluZyUyMEJlYW5iYWclMjBHdWlkZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU3MjE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMDYlM0ExMyUzQTUwJTIwJTJCMDAwMA",
-      "title": "The Complete Homemade Juggling Beanbag Guide",
-      "pubDate": "Thu, 02 Jul 2026 06:13:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     }
   ]
