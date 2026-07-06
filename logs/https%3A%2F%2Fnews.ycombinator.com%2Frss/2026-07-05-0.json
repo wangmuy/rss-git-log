@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-05",
     "newestItemDate": "2026-07-05",
-    "itemCount": 32,
-    "generatedAt": "2026-07-05T17:33:32.082Z"
+    "itemCount": 48,
+    "generatedAt": "2026-07-06T04:45:11.077Z"
   },
   "items": [
     {
@@ -198,6 +198,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIxOTk3JTdDVGhlJTIwTG9nJTIwaXMlMjB0aGUlMjBBZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkwOTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMDIlM0E1NyUzQTM4JTIwJTJCMDAwMA",
       "title": "The Log is the Agent",
       "pubDate": "Sun, 05 Jul 2026 02:57:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3lzci54eXolMkZwJTJGdGhlLXByaXZhdGUtY2FwdHVyZS1vZi1wdWJsaWMtZ2VuaXVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cud3lzci54eXolMkZwJTJGdGhlLXByaXZhdGUtY2FwdHVyZS1vZi1wdWJsaWMtZ2VuaXVzJTdDVGhlJTIwUHJpdmF0ZSUyMENhcHR1cmUlMjBvZiUyMFB1YmxpYyUyMEdlbml1cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk5MTc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMjMlM0E1MiUzQTIwJTIwJTJCMDAwMA",
+      "title": "The Private Capture of Public Genius",
+      "pubDate": "Sun, 05 Jul 2026 23:52:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYW13aWxsd2FuZy5jb20lMkZub3RlcyUyRmhhcy1ub3QtYmVlbi12aWV3ZWQtbXVjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGaWFtd2lsbHdhbmcuY29tJTJGbm90ZXMlMkZoYXMtbm90LWJlZW4tdmlld2VkLW11Y2glMkYlN0NIYXNfbm90X2JlZW5fdmlld2VkX211Y2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5OTE1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDIzJTNBNDklM0EwMCUyMCUyQjAwMDA",
+      "title": "Has_not_been_viewed_much",
+      "pubDate": "Sun, 05 Jul 2026 23:49:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGlsbHRoaW5raW5nLm5ldCUyRnBvc3RzJTJGY29ubmVjdGlvbnMtaW4tbWF0aC10d28ta2luZHMtb2YtcmFuZG9tJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGlsbHRoaW5raW5nLm5ldCUyRnBvc3RzJTJGY29ubmVjdGlvbnMtaW4tbWF0aC10d28ta2luZHMtb2YtcmFuZG9tJTJGJTdDQ29ubmVjdGlvbnMlMjBpbiUyME1hdGglM0ElMjB0aGUlMjB0d28lMjBraW5kcyUyMG9mJTIwcmFuZG9tJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTkwMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAyMyUzQTMxJTNBMzAlMjAlMkIwMDAw",
+      "title": "Connections in Math: the two kinds of random",
+      "pubDate": "Sun, 05 Jul 2026 23:31:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIwMDQ5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjIwMDQ5JTdDRG9lcyUyMENvZGUlMjBDbGVhbmxpbmVzcyUyMEFmZmVjdCUyMENvZGluZyUyMEFnZW50cyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk4ODE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMjMlM0EwMyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Does Code Cleanliness Affect Coding Agents?",
+      "pubDate": "Sun, 05 Jul 2026 23:03:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGNTE0LWxhYnMlMkZkbnNnbG9iZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRjUxNC1sYWJzJTJGZG5zZ2xvYmUlN0NETlNHbG9iZSUyMCVFMiU4MCU5MyUyMFJ1c3QlMjBUVUklMjB0byUyMHdhdGNoJTIwRE5TJTIwcHJvcGFnYXRlJTIwYXJvdW5kJTIwdGhlJTIwd29ybGQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5ODMxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDIxJTNBNTUlM0E1MyUyMCUyQjAwMDA",
+      "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+      "pubDate": "Sun, 05 Jul 2026 21:55:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWNvbGUuZXhwcmVzcyUyRjIwMjYlMkZwaGFzZS1hbHRlcmluZy1ieS1saW5lLmh0bWwlN0NodHRwcyUzQSUyRiUyRm5pY29sZS5leHByZXNzJTJGMjAyNiUyRnBoYXNlLWFsdGVyaW5nLWJ5LWxpbmUuaHRtbCU3Q0NvbXBvc2l0ZSUyMFZpZGVvJTIwb24lMjB0aGUlMjBORVMlM0ElMjBXaHkncyUyMGl0JTIwc28lMjB3b2JibHklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5ODI0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDIxJTNBNDUlM0ExNyUyMCUyQjAwMDA",
+      "title": "Composite Video on the NES: Why's it so wobbly?",
+      "pubDate": "Sun, 05 Jul 2026 21:45:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob21lZ2FtZXMuaW8lN0NodHRwcyUzQSUyRiUyRmhvbWVnYW1lcy5pbyUyRiU3Q1Nob3clMjBITiUzQSUyMEhvbWVnYW1lcy4lMjBBbiUyMG9wZW4tc291cmNlJTIwZ2FtZSUyMHBsYXRmb3JtJTIwSSd2ZSUyMGJlZW4lMjBtYWtpbmclMjBmb3IlMjA4JTIweWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5ODE1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDIxJTNBMzIlM0E0NCUyMCUyQjAwMDA",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "pubDate": "Sun, 05 Jul 2026 21:32:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Rlc2J5bGV4LmNvbSUyRmNvbXBsZXRpbmctYS1jb21wdXRlci1zY2llbmNlLWRlZ3JlZS1vbi1jb3Vyc2VyYSU3Q2h0dHBzJTNBJTJGJTJGbm90ZXNieWxleC5jb20lMkZjb21wbGV0aW5nLWEtY29tcHV0ZXItc2NpZW5jZS1kZWdyZWUtb24tY291cnNlcmElN0NDb21wbGV0aW5nJTIwYSUyMGNvbXB1dGVyJTIwc2NpZW5jZSUyMGRlZ3JlZSUyMG9uJTIwQ291cnNlcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5ODA2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDIxJTNBMjAlM0E0OSUyMCUyQjAwMDA",
+      "title": "Completing a computer science degree on Coursera",
+      "pubDate": "Sun, 05 Jul 2026 21:20:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnRvb2xzLnN0dWRpbyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9wZW50b29scy5zdHVkaW8lMkYlN0NPcGVuUHJpbnRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk3OTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMjElM0EwMyUzQTA2JTIwJTJCMDAwMA",
+      "title": "OpenPrinter",
+      "pubDate": "Sun, 05 Jul 2026 21:03:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaGlsc3QuZ2l0aHViLmlvJTJGYWxnYWUlMkZnYW1lJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZGhpbHN0LmdpdGh1Yi5pbyUyRmFsZ2FlJTJGZ2FtZSUyRmluZGV4Lmh0bWwlN0NEdW5nZW9uJTIwUHJvb2YlMjBDcmF3bGVyJTNBJTIwbGVhcm4lMjBob3clMjB0byUyMHdyaXRlJTIwcHJvb2ZzJTIwd2l0aCUyMFJQRyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk3ODk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMjElM0EwMCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+      "pubDate": "Sun, 05 Jul 2026 21:00:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsY2FtdHVmLnN1YnN0YWNrLmNvbSUyRnAlMkZjdXJzZWQtY2lyY3VpdHMtY2FwYWNpdGFuY2UtbXVsdGlwbGllciU3Q2h0dHBzJTNBJTJGJTJGbGNhbXR1Zi5zdWJzdGFjay5jb20lMkZwJTJGY3Vyc2VkLWNpcmN1aXRzLWNhcGFjaXRhbmNlLW11bHRpcGxpZXIlN0NDdXJzZWQlMjBjaXJjdWl0cyUyMCUyMzUlM0ElMjBjYXBhY2l0YW5jZSUyMG11bHRpcGxpZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NzQ2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDIwJTNBMDAlM0EzMCUyMCUyQjAwMDA",
+      "title": "Cursed circuits #5: capacitance multiplier",
+      "pubDate": "Sun, 05 Jul 2026 20:00:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmJjY2hpY2Fnby5jb20lMkZuZXdzJTJGbG9jYWwlMkZkZWx0YS1mbGlnaHQtaGl0LWJ5LWZpcmV3b3JrLXdoaWxlLWxhbmRpbmctYXQtbWlkd2F5LWFpcnBvcnQtb24tZm91cnRoLW9mLWp1bHklMkYzOTU3NDUxJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmJjY2hpY2Fnby5jb20lMkZuZXdzJTJGbG9jYWwlMkZkZWx0YS1mbGlnaHQtaGl0LWJ5LWZpcmV3b3JrLXdoaWxlLWxhbmRpbmctYXQtbWlkd2F5LWFpcnBvcnQtb24tZm91cnRoLW9mLWp1bHklMkYzOTU3NDUxJTJGJTdDRGVsdGElMjBmbGlnaHQlMjBoaXQlMjBieSUyMGZpcmV3b3JrJTIwd2hpbGUlMjBsYW5kaW5nJTIwYXQlMjBNaWR3YXklMjBBaXJwb3J0JTIwb24lMjBGb3VydGglMjBvZiUyMEp1bHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NzE0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDE5JTNBMjIlM0E1MSUyMCUyQjAwMDA",
+      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "pubDate": "Sun, 05 Jul 2026 19:22:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnRleHRib29rcy5zY2llbmNlLnV1Lm5sJTJGd29ya3Nob3AyMDI2JTJGZmlsZXMlMkZpdGIyNl9zMXMyLnBkZiU3Q2h0dHBzJTNBJTJGJTJGaW50ZXh0Ym9va3Muc2NpZW5jZS51dS5ubCUyRndvcmtzaG9wMjAyNiUyRmZpbGVzJTJGaXRiMjZfczFzMi5wZGYlN0NOZXclMjBBSSUyMHR1dG9yJTIwYWNoaWV2ZXMlMjAwLjcxLTEuMzAlMjBTRCUyMGVmZmVjdCUyMHNpemUlMjBpbiUyMERhcnRtb3V0aCUyMGNvdXJzZSUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk2ODE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMTglM0E0NyUzQTQzJTIwJTJCMDAwMA",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "pubDate": "Sun, 05 Jul 2026 18:47:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaHViLmNsdWIlMkZ3cml0aW5ncyUyRjIwMjYlMkZqdWx5JTJGeW91LW5lZWQtYS13ZWJyaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZzaHViLmNsdWIlMkZ3cml0aW5ncyUyRjIwMjYlMkZqdWx5JTJGeW91LW5lZWQtYS13ZWJyaW5nJTJGJTdDWW91JTIwbmVlZCUyMGElMjB3ZWJyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTY3OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxOCUzQTQ2JTNBMDclMjAlMkIwMDAw",
+      "title": "You need a webring",
+      "pubDate": "Sun, 05 Jul 2026 18:46:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmZsaXBwZXIubmV0JTJGZnV0dXJlLW9mLWZsaXBwZXItemVyby1kZXZlbG9wbWVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5mbGlwcGVyLm5ldCUyRmZ1dHVyZS1vZi1mbGlwcGVyLXplcm8tZGV2ZWxvcG1lbnQlMkYlN0NUaGUlMjBmdXR1cmUlMjBvZiUyMEZsaXBwZXIlMjBaZXJvJTIwZGV2ZWxvcG1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NjU1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDE4JTNBMjIlM0EwMCUyMCUyQjAwMDA",
+      "title": "The future of Flipper Zero development",
+      "pubDate": "Sun, 05 Jul 2026 18:22:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RhcnJpbmd0aGVjb21wdXRlci5jb20lMkZjb21wdXRlcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0YXJyaW5ndGhlY29tcHV0ZXIuY29tJTJGY29tcHV0ZXJzLmh0bWwlN0NTdGFycmluZyUyMHRoZSUyMENvbXB1dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTYwOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxNyUzQTMzJTNBMDQlMjAlMkIwMDAw",
+      "title": "Starring the Computer",
+      "pubDate": "Sun, 05 Jul 2026 17:33:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
     }
   ]
