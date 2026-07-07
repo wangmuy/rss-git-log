@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-06",
     "newestItemDate": "2026-07-06",
-    "itemCount": 34,
-    "generatedAt": "2026-07-06T18:22:33.617Z"
+    "itemCount": 50,
+    "generatedAt": "2026-07-07T04:27:29.307Z"
   },
   "items": [
     {
@@ -210,6 +210,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3YWx6ci5jb20lMkZsb3N0LWFuZC1mb3VuZCU3Q2h0dHBzJTNBJTJGJTJGd2FsenIuY29tJTJGbG9zdC1hbmQtZm91bmQlN0NMb3N0JTIwYW5kJTIwRm91bmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5OTYyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDAxJTNBMDYlM0EyMSUyMCUyQjAwMDA",
       "title": "Lost and Found",
       "pubDate": "Mon, 06 Jul 2026 01:06:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnNtYWxsLWxhbmd1YWdlLW1vZGVscy1haS1waGFybWFjZXV0aWNhbHMlN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGc21hbGwtbGFuZ3VhZ2UtbW9kZWxzLWFpLXBoYXJtYWNldXRpY2FscyU3Q1NtYWxsJTIwQUklMjBNb2RlbHMlMjBHYWluJTIwVHJhY3Rpb24lMjBJbiUyMHBsYWNlcyUyMHdpdGglMjB1bnJlbGlhYmxlJTIwbmV0d29ya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxMjA1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDIzJTNBNTklM0E1NCUyMCUyQjAwMDA",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "pubDate": "Mon, 06 Jul 2026 23:59:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJubGlnaHQtZGVtby52ZXJjZWwuYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJubGlnaHQtZGVtby52ZXJjZWwuYXBwJTJGJTdDVGVybmxpZ2h0JTIwJUUyJTgwJTkzJTIwNyUyME1CJTIwZW1iZWRkaW5nJTIwbW9kZWwlMjB0aGF0JTIwcnVucyUyMGluJTIwYnJvd3NlciUyMChXQVNNKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODExNjQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMjMlM0EwNiUzQTMxJTIwJTJCMDAwMA",
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "pubDate": "Mon, 06 Jul 2026 23:06:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWF4aW1lUml2ZXN0JTJGUmlkZGxlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWF4aW1lUml2ZXN0JTJGUmlkZGxlJTdDRmFibGUlMjB0dXJuZWQlMjByZU1hcmthYmxlJTIwaW50byUyMFRvbSUyMFJpZGRsZSdzJTIwZGlhcnklMjBmcm9tJTIwSGFycnklMjBQb3R0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxMTU5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDIzJTNBMDAlM0EyNCUyMCUyQjAwMDA",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "pubDate": "Mon, 06 Jul 2026 23:00:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnNzaC5vcmclMkZ0eHQlMkZyZWxlYXNlLTEwLjQlN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVuc3NoLm9yZyUyRnR4dCUyRnJlbGVhc2UtMTAuNCU3Q09wZW5TU0glMjAxMC40JTJGMTAuNHAxJTIwUmVsZWFzZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxMTM3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDIyJTNBMzIlM0E1OCUyMCUyQjAwMDA",
+      "title": "OpenSSH 10.4/10.4p1 Released",
+      "pubDate": "Mon, 06 Jul 2026 22:32:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZ6LmNsJTJGcG9zdHMlMkZhY3J5b255bS1mYXRpZ3VlLXNlcmllcy13aHktaS1tLXdhcnktb2YtZW5naW5lZXJpbmctYWNyb255bXMlMkYlN0NodHRwcyUzQSUyRiUyRmRldnouY2wlMkZwb3N0cyUyRmFjcnlvbnltLWZhdGlndWUtc2VyaWVzLXdoeS1pLW0td2FyeS1vZi1lbmdpbmVlcmluZy1hY3JvbnltcyUyRiU3Q0Fjcm9ueW0lMjBGYXRpZ3VlJTIwU2VyaWVzJTIwSW50cm9kdWN0aW9uJTNBJTIwd2h5JTIwSSdtJTIwd2FyeSUyMG9mJTIwYWNyb255bXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxMTMzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDIyJTNBMzAlM0EzMyUyMCUyQjAwMDA",
+      "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+      "pubDate": "Mon, 06 Jul 2026 22:30:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcG9seW1sJTJGcG9seW1sJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcG9seW1sJTJGcG9seW1sJTdDUG9seSUyRk1MJTIwJUUyJTgwJTkzJTIwQSUyMFN0YW5kYXJkJTIwTUwlMjBJbXBsZW1lbnRhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODExMzE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMjIlM0EyOCUzQTA2JTIwJTJCMDAwMA",
+      "title": "Poly/ML – A Standard ML Implementation",
+      "pubDate": "Mon, 06 Jul 2026 22:28:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGU210aW1lc0lXbmRyJTJGZ2RpZC1yZXZlcnNhbCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlNtdGltZXNJV25kciUyRmdkaWQtcmV2ZXJzYWwlN0NGdWxsJTIwV3JpdGV1cCUyMG9mJTIwdGhlJTIwV2luZG93cyUyMEdESUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxMTA4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDIyJTNBMDIlM0EyNCUyMCUyQjAwMDA",
+      "title": "Full Writeup of the Windows GDID",
+      "pubDate": "Mon, 06 Jul 2026 22:02:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGV2ZWtyb3VzZS5jb20lMkZsZWFybi10by1jb2RlJTdDaHR0cHMlM0ElMkYlMkZzdGV2ZWtyb3VzZS5jb20lMkZsZWFybi10by1jb2RlJTdDTGVhcm5pbmclMjB0byUyMGNvZGUlMjBpcyUyMHN0aWxsJTIwd29ydGh3aGlsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODEwNDM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMjAlM0E1OSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Learning to code is still worthwhile",
+      "pubDate": "Mon, 06 Jul 2026 20:59:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5hbGRlcnNvbi5jb20lMkZwb3N0cyUyRnRoZS11cGNvbWluZy1haS1tYXJnaW4tY29sbGFwc2UtcGFydC0xLWdsbS01LTIlMkYlN0NodHRwcyUzQSUyRiUyRm1hcnRpbmFsZGVyc29uLmNvbSUyRnBvc3RzJTJGdGhlLXVwY29taW5nLWFpLW1hcmdpbi1jb2xsYXBzZS1wYXJ0LTEtZ2xtLTUtMiUyRiU3Q0dMTSUyMDUuMiUyMGFuZCUyMHRoZSUyMGNvbWluZyUyMEFJJTIwbWFyZ2luJTIwY29sbGFwc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwOTg3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDIwJTNBMTQlM0E1NSUyMCUyQjAwMDA",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "pubDate": "Mon, 06 Jul 2026 20:14:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWtpLnh4aWl2di5jb20lMkZzaXRlJTJGbV9wYy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3aWtpLnh4aWl2di5jb20lMkZzaXRlJTJGbV9wYy5odG1sJTdDTSUyRlBDJTIwJUUyJTgwJTkzJTIwQSUyMENvbmNhdGVuYXRpdmUlMjBPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODA5ODEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMjAlM0EwOCUzQTQ2JTIwJTJCMDAwMA",
+      "title": "M/PC – A Concatenative OS",
+      "pubDate": "Mon, 06 Jul 2026 20:08:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2FwYS5haSUyRmJsb2clMkZob3ctd2UtcHJ1bmUtcmFnLWNvbnRleHQlN0NodHRwcyUzQSUyRiUyRnd3dy5rYXBhLmFpJTJGYmxvZyUyRmhvdy13ZS1wcnVuZS1yYWctY29udGV4dCU3Q1BydW5pbmclMjBSQUclMjBjb250ZXh0JTIwZG93biUyMHRvJTIwd2hhdCUyMHRoZSUyMGFuc3dlciUyMGFjdHVhbGx5JTIwbmVlZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwOTM1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDE5JTNBMjglM0EyNCUyMCUyQjAwMDA",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "pubDate": "Mon, 06 Jul 2026 19:28:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29tYXBzLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbWFwcy5hcHAlMkYlN0NDb01hcHMlMjAlRTIlODAlOTMlMjBGT1NTJTIwT2ZmbGluZSUyME1hcHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwODkyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDE4JTNBNTUlM0EwNyUyMCUyQjAwMDA",
+      "title": "CoMaps – FOSS Offline Maps",
+      "pubDate": "Mon, 06 Jul 2026 18:55:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWtlaG9ub2x1bHUuZ2l0aHViLmlvJTJGbGludXgtZm9yLWphZ3VhciUyRiU3Q2h0dHBzJTNBJTJGJTJGY2FrZWhvbm9sdWx1LmdpdGh1Yi5pbyUyRmxpbnV4LWZvci1qYWd1YXIlMkYlN0NMaW51eCUyMG9uJTIwdGhlJTIwQXRhcmklMjBKYWd1YXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwODY2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDE4JTNBMzUlM0E1NCUyMCUyQjAwMDA",
+      "title": "Linux on the Atari Jaguar",
+      "pubDate": "Mon, 06 Jul 2026 18:35:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVud3J0Lm9yZyUyRnRvaCUyRm9wZW53cnQlMkZvbmUlN0NodHRwcyUzQSUyRiUyRm9wZW53cnQub3JnJTJGdG9oJTJGb3BlbndydCUyRm9uZSU3Q09wZW5XcnQlMjBPbmUlMjAlRTIlODAlOTMlMjBPcGVuJTIwSGFyZHdhcmUlMjBSb3V0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwODQ4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDE4JTNBMjMlM0ExMiUyMCUyQjAwMDA",
+      "title": "OpenWrt One – Open Hardware Router",
+      "pubDate": "Mon, 06 Jul 2026 18:23:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZ2xvYmFsLXdvcmtzcGFjZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZyZXNlYXJjaCUyRmdsb2JhbC13b3Jrc3BhY2UlN0NBJTIwZ2xvYmFsJTIwd29ya3NwYWNlJTIwaW4lMjBsYW5ndWFnZSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODA4MDAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMTclM0E0NCUzQTA4JTIwJTJCMDAwMA",
+      "title": "A global workspace in language models",
+      "pubDate": "Mon, 06 Jul 2026 17:44:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVjRiZWwlMkZKYW51c2NhcGUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZWNGJlbCUyRkphbnVzY2FwZSU3Q0phbnVzY2FwZSUzQSUyMEd1ZXN0LXRvLUhvc3QlMjBFc2NhcGUlMjBpbiUyMEtWTSUyRng4NiUyMCU1QkNWRS0yMDI2LTUzMzU5JTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDc5MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAxNyUzQTM1JTNBMDMlMjAlMkIwMDAw",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "pubDate": "Mon, 06 Jul 2026 17:35:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
     }
   ]

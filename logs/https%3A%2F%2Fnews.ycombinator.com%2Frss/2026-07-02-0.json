@@ -4,26 +4,20 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-02",
     "newestItemDate": "2026-07-02",
-    "itemCount": 3,
-    "generatedAt": "2026-07-06T18:22:33.617Z"
+    "itemCount": 2,
+    "generatedAt": "2026-07-07T04:27:29.307Z"
   },
   "items": [
     {
-      "itemId": "aHR0cHMlM0ElMkYlMkZjbG9qdXJlLm9yZyUyRm5ld3MlMkYyMDI2JTJGMDclMkYwMiUyRmNsb2p1cmUtMS0xMy1hbHBoYTElN0NodHRwcyUzQSUyRiUyRmNsb2p1cmUub3JnJTJGbmV3cyUyRjIwMjYlMkYwNyUyRjAyJTJGY2xvanVyZS0xLTEzLWFscGhhMSU3Q0Nsb2p1cmUlMjAxLjEzJTIwYWRkcyUyMHN1cHBvcnQlMjBmb3IlMjBjaGVja2VkJTIwa2V5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY3MjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMjAlM0E1MSUzQTUyJTIwJTJCMDAwMA",
-      "title": "Clojure 1.13 adds support for checked keys",
-      "pubDate": "Thu, 02 Jul 2026 20:51:52 +0000",
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGViYWZmbGVyLmNvbSUyRmxhdGVzdCUyRnRoZS1tdXNpYy1vZi1kZXN0cnVjdGlvbi1mdWVsbGluZyU3Q2h0dHBzJTNBJTJGJTJGdGhlYmFmZmxlci5jb20lMkZsYXRlc3QlMkZ0aGUtbXVzaWMtb2YtZGVzdHJ1Y3Rpb24tZnVlbGxpbmclN0NUaGUlMjBNdXNpYyUyMG9mJTIwRGVzdHJ1Y3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2NzMxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDIxJTNBMDElM0EzMSUyMCUyQjAwMDA",
+      "title": "The Music of Destruction",
+      "pubDate": "Thu, 02 Jul 2026 21:01:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     },
     {
-      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzZWN1cml0eSUyRjIwMjYlMkYwNiUyRmFpLWJyb3dzZXJzLWNhbi1iZS1sdWxsZWQtaW50by1hLWRyZWFtLXdvcmxkLXdoZXJlLWd1YXJkcmFpbHMtbm8tbG9uZ2VyLWFwcGx5JTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzZWN1cml0eSUyRjIwMjYlMkYwNiUyRmFpLWJyb3dzZXJzLWNhbi1iZS1sdWxsZWQtaW50by1hLWRyZWFtLXdvcmxkLXdoZXJlLWd1YXJkcmFpbHMtbm8tbG9uZ2VyLWFwcGx5JTJGJTdDV2hlbiUyMDIlMkIyJTNENSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzY2OTQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMjAlM0EyOSUzQTIzJTIwJTJCMDAwMA",
-      "title": "When 2+2=5",
-      "pubDate": "Thu, 02 Jul 2026 20:29:23 +0000",
-      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
-    },
-    {
-      "itemId": "aHR0cHMlM0ElMkYlMkZsZWFybmdlbm9taWNzLmRldiUyRmRvY3MlMkZiaW9sb2dpY2FsLWZvdW5kYXRpb25zJTJGY2VsbHMtZ2Vub21lcy1kbmEtY2hyb21vc29tZXMlMkYlN0NodHRwcyUzQSUyRiUyRmxlYXJuZ2Vub21pY3MuZGV2JTJGZG9jcyUyRmJpb2xvZ2ljYWwtZm91bmRhdGlvbnMlMkZjZWxscy1nZW5vbWVzLWRuYS1jaHJvbW9zb21lcyUyRiU3Q0ludHJvZHVjdGlvbiUyMHRvJTIwR2Vub21pY3MlMjBmb3IlMjBFbmdpbmVlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc2MDQyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAyJTIwSnVsJTIwMjAyNiUyMDEyJTNBMjglM0EyMCUyMCUyQjAwMDA",
-      "title": "Introduction to Genomics for Engineers",
-      "pubDate": "Thu, 02 Jul 2026 12:28:20 +0000",
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucm50ei5uZXQlMkZwb3N0JTJGMjAyNi0wNi0xMS1kYXRhbG9nLW5vbnRlcm1pbmF0aW9uLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ybnR6Lm5ldCUyRnBvc3QlMkYyMDI2LTA2LTExLWRhdGFsb2ctbm9udGVybWluYXRpb24uaHRtbCU3Q0V2YWx1YXRpb24lMjBvcmRlciUyMGFuZCUyMG5vbnRlcm1pbmF0aW9uJTIwaW4lMjBxdWVyeSUyMGxhbmd1YWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzU3NjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDIlMjBKdWwlMjAyMDI2JTIwMDclM0EwOCUzQTU4JTIwJTJCMDAwMA",
+      "title": "Evaluation order and nontermination in query languages",
+      "pubDate": "Thu, 02 Jul 2026 07:08:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-02-0.json"
     }
   ]
