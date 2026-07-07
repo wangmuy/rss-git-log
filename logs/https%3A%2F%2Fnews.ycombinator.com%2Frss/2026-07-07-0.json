@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-07",
     "newestItemDate": "2026-07-07",
-    "itemCount": 6,
-    "generatedAt": "2026-07-07T11:20:39.874Z"
+    "itemCount": 30,
+    "generatedAt": "2026-07-07T18:23:50.263Z"
   },
   "items": [
     {
@@ -42,6 +42,150 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3ctY3MtZmFjdWx0eS5zdGFuZm9yZC5lZHUlMkZ+a251dGglMkZ0YW9jcC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3ctY3MtZmFjdWx0eS5zdGFuZm9yZC5lZHUlMkZ+a251dGglMkZ0YW9jcC5odG1sJTdDVGhlJTIwQXJ0JTIwb2YlMjBDb21wdXRlciUyMFByb2dyYW1taW5nJTIwYnklMjBEb25hbGQlMjBFLiUyMEtudXRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTM5MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAwNSUzQTE5JTNBMDMlMjAlMkIwMDAw",
       "title": "The Art of Computer Programming by Donald E. Knuth",
       "pubDate": "Tue, 07 Jul 2026 05:19:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYXltb2xsaWNhLmNvbSUyRmJsb2clMkZuZXctbGl0ZXJhbGlzbS1jb21lcy1mb3ItbXVzZXVtcyUyRiU3Q2h0dHBzJTNBJTJGJTJGamF5bW9sbGljYS5jb20lMkZibG9nJTJGbmV3LWxpdGVyYWxpc20tY29tZXMtZm9yLW11c2V1bXMlMkYlN0NOZXclMjBMaXRlcmFsaXNtJTIwQ29tZXMlMjBmb3IlMjBNdXNldW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjA0NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNiUzQTU2JTNBMzElMjAlMkIwMDAw",
+      "title": "New Literalism Comes for Museums",
+      "pubDate": "Tue, 07 Jul 2026 16:56:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb3ZhdWN0aW9ucy5hcHAlMkZyZXNlYXJjaCUyRmNoZWFwZXN0LWhvbWVzLWluLWFtZXJpY2ElN0NodHRwcyUzQSUyRiUyRmdvdmF1Y3Rpb25zLmFwcCUyRnJlc2VhcmNoJTJGY2hlYXBlc3QtaG9tZXMtaW4tYW1lcmljYSU3Q01hcHBpbmclMjBob21lcyUyMHlvdSUyMGNhbiUyMGJ1eSUyMGZyb20lMjB0aGUlMjBVUyUyMGdvdmVybm1lbnQlMjBmb3IlMjAlM0MlMjQxMDBrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjAyNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNiUzQTQyJTNBNDElMjAlMkIwMDAw",
+      "title": "Mapping homes you can buy from the US government for <$100k",
+      "pubDate": "Tue, 07 Jul 2026 16:42:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmMzM3kwbjF2MXhqbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjMzN5MG4xdjF4am8lN0NDaGluYSUyMHNlbnRlbmNlcyUyMG9mZmljaWFsJTIwdG8lMjBkZWF0aCUyMGZvciUyMHRha2luZyUyMCUyNDMyNU0lMjBpbiUyMGJyaWJlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODIwMjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTYlM0EzOCUzQTA4JTIwJTJCMDAwMA",
+      "title": "China sentences official to death for taking $325M in bribes",
+      "pubDate": "Tue, 07 Jul 2026 16:38:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlxdWlkLmFpJTJGYmxvZyUyRmFudGlkb29tJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGlxdWlkLmFpJTJGYmxvZyUyRmFudGlkb29tJTdDUmVkdWNpbmclMjBEb29tJTIwTG9vcHMlMjB3aXRoJTIwRmluYWwlMjBUb2tlbiUyMFByZWZlcmVuY2UlMjBPcHRpbWl6YXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyMDEyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDE2JTNBMzElM0ExOSUyMCUyQjAwMDA",
+      "title": "Reducing Doom Loops with Final Token Preference Optimization",
+      "pubDate": "Tue, 07 Jul 2026 16:31:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamltcGFyaXMlMkZxci1mb250JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamltcGFyaXMlMkZxci1mb250JTdDSmltJ3MlMjBUcnVlVHlwZSUyMFFSJTIwQ29kZSUyMEZvbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyMDExOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDE2JTNBMzAlM0E0MiUyMCUyQjAwMDA",
+      "title": "Jim's TrueType QR Code Font",
+      "pubDate": "Tue, 07 Jul 2026 16:30:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXBsc2xsYyUyRm1hY3N1cmYlMkZyZWxlYXNlcyUyRnRhZyUyRnYxLjg2JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXBsc2xsYyUyRm1hY3N1cmYlMkZyZWxlYXNlcyUyRnRhZyUyRnYxLjg2JTdDTWFjU3VyZiUyMDEuNjglMjAlRTIlODAlOTMlMjBOZXRTdXJmJTIwb24lMjBPUyUyMDklMjBSZWxlYXNlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODIwMDIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTYlM0EyNCUzQTQwJTIwJTJCMDAwMA",
+      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "pubDate": "Tue, 07 Jul 2026 16:24:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYzMHBhcGVycy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRjMwcGFwZXJzLmNvbSUyRiU3QzMwcGFwZXJzLmNvbSUyMCVFMiU4MCU5MyUyMElseWEncyUyMDMwJTIwZXNzZW50aWFsJTIwTUwlMjBwYXBlcnMlMkMlMjBpbiUyMGElMjBiZWdpbm5lciUyMGZyaWVuZGx5JTIwZm9ybWF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTk2MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNSUzQTU4JTNBMTMlMjAlMkIwMDAw",
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "pubDate": "Tue, 07 Jul 2026 15:58:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXR0ZXItYXV0aC5jb20lMkZibG9nJTJGYmV0dGVyLWF1dGgtam9pbnMtdmVyY2VsJTdDaHR0cHMlM0ElMkYlMkZiZXR0ZXItYXV0aC5jb20lMkZibG9nJTJGYmV0dGVyLWF1dGgtam9pbnMtdmVyY2VsJTdDQmV0dGVyJTIwQXV0aCUyMGlzJTIwam9pbmluZyUyMFZlcmNlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODE5NTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTUlM0E1MiUzQTIyJTIwJTJCMDAwMA",
+      "title": "Better Auth is joining Vercel",
+      "pubDate": "Tue, 07 Jul 2026 15:52:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZ2RvZy5kZXYlMkZibG9nJTJGd2h5LXlldC1hbm90aGVyLWNvbm5lY3Rpb24tcG9vbGVyJTdDaHR0cHMlM0ElMkYlMkZwZ2RvZy5kZXYlMkZibG9nJTJGd2h5LXlldC1hbm90aGVyLWNvbm5lY3Rpb24tcG9vbGVyJTdDV2h5JTIwd2UlMjBidWlsdCUyMHlldCUyMGFub3RoZXIlMjBQb3N0Z3JlcyUyMGNvbm5lY3Rpb24lMjBwb29sZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxOTMwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDE1JTNBMzYlM0E0OSUyMCUyQjAwMDA",
+      "title": "Why we built yet another Postgres connection pooler",
+      "pubDate": "Tue, 07 Jul 2026 15:36:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcmFpZ21vZC5jb20lMkZlc3NheXMlMkZzb2Z0d2FyZV9ib25rZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZjcmFpZ21vZC5jb20lMkZlc3NheXMlMkZzb2Z0d2FyZV9ib25rZXJzJTJGJTdDU29mdHdhcmUlMjBCb25rZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTkyNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNSUzQTMzJTNBNDAlMjAlMkIwMDAw",
+      "title": "Software Bonkers",
+      "pubDate": "Tue, 07 Jul 2026 15:33:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYW1lZnJvbXNjcmF0Y2guY29tJTJGbWljcm9zb2Z0LWZpcmUtaWR0ZWNoLXRlYW0tYXQtaWQtc29mdHdhcmUlMkYlN0NodHRwcyUzQSUyRiUyRmdhbWVmcm9tc2NyYXRjaC5jb20lMkZtaWNyb3NvZnQtZmlyZS1pZHRlY2gtdGVhbS1hdC1pZC1zb2Z0d2FyZSUyRiU3Q01pY3Jvc29mdCUyMGZpcmUlMjBpZFRlY2glMjB0ZWFtJTIwYXQlMjBJZCUyMHNvZnR3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTkyNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNSUzQTMzJTNBMjAlMjAlMkIwMDAw",
+      "title": "Microsoft fire idTech team at Id software",
+      "pubDate": "Tue, 07 Jul 2026 15:33:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVpc2UuZGUlMkZlbiUyRm5ld3MlMkZTaG93ZG93bi1pbi1TdHJhc2JvdXJnLVRoZS11bmV4cGVjdGVkLXJldHVybi1vZi1DaGF0LUNvbnRyb2wtMS0wLTExMzU2NjgwLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5oZWlzZS5kZSUyRmVuJTJGbmV3cyUyRlNob3dkb3duLWluLVN0cmFzYm91cmctVGhlLXVuZXhwZWN0ZWQtcmV0dXJuLW9mLUNoYXQtQ29udHJvbC0xLTAtMTEzNTY2ODAuaHRtbCU3Q0NoYXQlMjBDb250cm9sJTIwcGFzc2VkJTIwZmlyc3QlMjByb3VuZCUyMGluJTIwRVUlMjBQYXJsaWFtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTkwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNSUzQTE2JTNBMTUlMjAlMkIwMDAw",
+      "title": "Chat Control passed first round in EU Parliament",
+      "pubDate": "Tue, 07 Jul 2026 15:16:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrbm9ja29mZi5zaG9wcGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGa25vY2tvZmYuc2hvcHBpbmclMkYlN0NBbWF6b24lMjB3aXRob3V0JTIwdGhlJTIwa25vY2tvZmZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTg5NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNSUzQTEzJTNBMDElMjAlMkIwMDAw",
+      "title": "Amazon without the knockoffs",
+      "pubDate": "Tue, 07 Jul 2026 15:13:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXBsaWNhdGVkLmxpdmUlMkZibG9nJTJGYXdheSU3Q2h0dHBzJTNBJTJGJTJGcmVwbGljYXRlZC5saXZlJTJGYmxvZyUyRmF3YXklN0NBdXRvbWF0aW5nJTIwQUklMjBBd2F5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTg5MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNSUzQTExJTNBMDglMjAlMkIwMDAw",
+      "title": "Automating AI Away",
+      "pubDate": "Tue, 07 Jul 2026 15:11:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYwNSUyRmJ1c2luZXNzJTJGcGhpbG9zb3BoeS1tYWpvcnMtYWktam9icy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYwNSUyRmJ1c2luZXNzJTJGcGhpbG9zb3BoeS1tYWpvcnMtYWktam9icy5odG1sJTdDVGhlJTIwcmV2ZW5nZSUyMG9mJTIwdGhlJTIwcGhpbG9zb3BoeSUyMG1ham9ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODE4NTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTQlM0E0MSUzQTU2JTIwJTJCMDAwMA",
+      "title": "The revenge of the philosophy majors",
+      "pubDate": "Tue, 07 Jul 2026 14:41:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWdodGNoYXRjb250cm9sLmV1JTJGY2hhdC1jb250cm9sLW92ZXJ2aWV3JTdDaHR0cHMlM0ElMkYlMkZmaWdodGNoYXRjb250cm9sLmV1JTJGY2hhdC1jb250cm9sLW92ZXJ2aWV3JTdDQ2hhdCUyMENvbnRyb2wlMjAxLjAlMjBhbmQlMjAyLjAlMjBFeHBsYWluZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxODMxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDE0JTNBMjMlM0ExNSUyMCUyQjAwMDA",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "pubDate": "Tue, 07 Jul 2026 14:23:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXVyb25ld3MuY29tJTJGY3VsdHVyZSUyRjIwMjYlMkYwNiUyRjI5JTJGZHVhLWxpcGEtb3BlbnMtbGlicmFyeS1mb3ItYmFubmVkLWFuZC1jZW5zb3JlZC1ib29rcy1pbi1wb3J0dWdhbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmV1cm9uZXdzLmNvbSUyRmN1bHR1cmUlMkYyMDI2JTJGMDYlMkYyOSUyRmR1YS1saXBhLW9wZW5zLWxpYnJhcnktZm9yLWJhbm5lZC1hbmQtY2Vuc29yZWQtYm9va3MtaW4tcG9ydHVnYWwlN0NEdWElMjBMaXBhJTIwb3BlbnMlMjBsaWJyYXJ5JTIwZm9yJTIwYmFubmVkJTIwYW5kJTIwY2Vuc29yZWQlMjBib29rcyUyMGluJTIwUG9ydHVnYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxNzAxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDEyJTNBNTAlM0E0MCUyMCUyQjAwMDA",
+      "title": "Dua Lipa opens library for banned and censored books in Portugal",
+      "pubDate": "Tue, 07 Jul 2026 12:50:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aHlub3RodWdvLm5sJTJGam91cm5hbCUyRjIwMjYlMkYwNyUyRjAzJTJGOTgtaXNudC12ZXJ5LW11Y2glMkYlN0NodHRwcyUzQSUyRiUyRndoeW5vdGh1Z28ubmwlMkZqb3VybmFsJTJGMjAyNiUyRjA3JTJGMDMlMkY5OC1pc250LXZlcnktbXVjaCUyRiU3Qzk4JTI1JTIwaXNuJ3QlMjBtdWNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTY5NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxMiUzQTQ1JTNBMTQlMjAlMkIwMDAw",
+      "title": "98% isn't much",
+      "pubDate": "Tue, 07 Jul 2026 12:45:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0QzUjBMcDg2R0VCayU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEM1IwTHA4NkdFQmslN0NBJTIwYmV0dGVyJTIwd2F5JTIwdG8lMjB0aWUlMjBneW0lMjBzaG9ydHMlMjAob3IlMjBhbnklMjBkcmF3c3RyaW5nKSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTY5NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxMiUzQTQ1JTNBMDYlMjAlMkIwMDAw",
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "pubDate": "Tue, 07 Jul 2026 12:45:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb3N0Z3Jlcy5zYW5lZW5naW5lZXIuY29tJTdDaHR0cHMlM0ElMkYlMkZwb3N0Z3Jlcy5zYW5lZW5naW5lZXIuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwUG9zdGdyZVNRTCUyMHBlcmZvcm1hbmNlJTIwYW5kJTIwY29zdCUyMGFjcm9zcyUyMDIzJTIwRUMyJTIwaW5zdGFuY2UlMjB0eXBlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODE2OTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTIlM0E0MCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+      "pubDate": "Tue, 07 Jul 2026 12:40:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJlZXRjb21wbGV0ZS5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRnN0cmVldGNvbXBsZXRlLmFwcCUyRiU3Q1N0cmVldENvbXBsZXRlJTNBJTIwRml4aW5nJTIwT3BlblN0cmVldE1hcCUyQyUyMG9uZSUyMHRpbnklMjBxdWVzdCUyMGF0JTIwYSUyMHRpbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxNjg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDEyJTNBMzglM0EzNSUyMCUyQjAwMDA",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "pubDate": "Tue, 07 Jul 2026 12:38:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXBoZXJjdWUuY29tJTJGYmxvZyUyRmV1cm9wZWFuLXdlYi1ob3N0aW5nLXZlbmRvci1zaGFyZS0yMDI2JTdDaHR0cHMlM0ElMkYlMkZjaXBoZXJjdWUuY29tJTJGYmxvZyUyRmV1cm9wZWFuLXdlYi1ob3N0aW5nLXZlbmRvci1zaGFyZS0yMDI2JTdDRXVyb3BlJ3MlMjBjb21wYW55JTIwd2Vic2l0ZXMlMjBhcmUlMjBtb3N0bHklMjBzZXJ2ZWQlMjBieSUyMFVTJTIwdmVuZG9ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODE2NjEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTIlM0EwOCUzQTI1JTIwJTJCMDAwMA",
+      "title": "Europe's company websites are mostly served by US vendors",
+      "pubDate": "Tue, 07 Jul 2026 12:08:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY5bW90aGVycy5jb20lMkZjYXJlZXJzJTdDaHR0cHMlM0ElMkYlMkY5bW90aGVycy5jb20lMkZjYXJlZXJzJTdDOSUyME1vdGhlcnMlMjAoWUMlMjBQMjYpJTIwSXMlMjBIaXJpbmclMjBpbiUyMEF1c3RpbiUyQyUyMFRYJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTY1MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxMiUzQTAwJTNBNDQlMjAlMkIwMDAw",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "pubDate": "Tue, 07 Jul 2026 12:00:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHcuY29tJTJGZW4lMkZnZXJtYW55LW1pZ3JhbnRzLXNraWxsZWQtd29ya2Vycy1pbnRlZ3JhdGlvbi1sYWJvci1tYXJrZXQtYnVyZWF1Y3JhY3ktbGFuZ3VhZ2UtaG91c2luZyUyRmEtNzc4NTMxNjIlN0NodHRwcyUzQSUyRiUyRnd3dy5kdy5jb20lMkZlbiUyRmdlcm1hbnktbWlncmFudHMtc2tpbGxlZC13b3JrZXJzLWludGVncmF0aW9uLWxhYm9yLW1hcmtldC1idXJlYXVjcmFjeS1sYW5ndWFnZS1ob3VzaW5nJTJGYS03Nzg1MzE2MiU3Q1doeSUyMHNraWxsZWQlMjB3b3JrZXJzJTIwY29tZSUyMHRvJTIwR2VybWFueSUyMGFuZCUyMHRoZW4lMjBsZWF2ZSUyMGFnYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTU5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxMCUzQTQyJTNBNTklMjAlMkIwMDAw",
+      "title": "Why skilled workers come to Germany and then leave again",
+      "pubDate": "Tue, 07 Jul 2026 10:42:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
     }
   ]
