@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-06",
     "newestItemDate": "2026-07-06",
-    "itemCount": 50,
-    "generatedAt": "2026-07-07T04:27:29.307Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-07T11:20:39.874Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVjRiZWwlMkZKYW51c2NhcGUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZWNGJlbCUyRkphbnVzY2FwZSU3Q0phbnVzY2FwZSUzQSUyMEd1ZXN0LXRvLUhvc3QlMjBFc2NhcGUlMjBpbiUyMEtWTSUyRng4NiUyMCU1QkNWRS0yMDI2LTUzMzU5JTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDc5MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAxNyUzQTM1JTNBMDMlMjAlMkIwMDAw",
       "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
       "pubDate": "Mon, 06 Jul 2026 17:35:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNyLnlwLnRvJTJGMjAyNjA3MDYtZmFpcm5lc3MuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jci55cC50byUyRjIwMjYwNzA2LWZhaXJuZXNzLmh0bWwlN0NOU0ElMjBhbmQlMjBJRVRGJTNBJTIwRmFpcm5lc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxMTg4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDIzJTNBMzMlM0E1NCUyMCUyQjAwMDA",
+      "title": "NSA and IETF: Fairness",
+      "pubDate": "Mon, 06 Jul 2026 23:33:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
     }
   ]
