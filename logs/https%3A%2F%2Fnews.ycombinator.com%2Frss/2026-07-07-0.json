@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-07",
     "newestItemDate": "2026-07-07",
-    "itemCount": 30,
-    "generatedAt": "2026-07-07T18:23:50.263Z"
+    "itemCount": 41,
+    "generatedAt": "2026-07-08T03:49:39.091Z"
   },
   "items": [
     {
@@ -186,6 +186,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHcuY29tJTJGZW4lMkZnZXJtYW55LW1pZ3JhbnRzLXNraWxsZWQtd29ya2Vycy1pbnRlZ3JhdGlvbi1sYWJvci1tYXJrZXQtYnVyZWF1Y3JhY3ktbGFuZ3VhZ2UtaG91c2luZyUyRmEtNzc4NTMxNjIlN0NodHRwcyUzQSUyRiUyRnd3dy5kdy5jb20lMkZlbiUyRmdlcm1hbnktbWlncmFudHMtc2tpbGxlZC13b3JrZXJzLWludGVncmF0aW9uLWxhYm9yLW1hcmtldC1idXJlYXVjcmFjeS1sYW5ndWFnZS1ob3VzaW5nJTJGYS03Nzg1MzE2MiU3Q1doeSUyMHNraWxsZWQlMjB3b3JrZXJzJTIwY29tZSUyMHRvJTIwR2VybWFueSUyMGFuZCUyMHRoZW4lMjBsZWF2ZSUyMGFnYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTU5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxMCUzQTQyJTNBNTklMjAlMkIwMDAw",
       "title": "Why skilled workers come to Germany and then leave again",
       "pubDate": "Tue, 07 Jul 2026 10:42:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvY3cubWl0LmVkdSUyRmNvdXJzZXMlMkY2LTAwMS1zdHJ1Y3R1cmUtYW5kLWludGVycHJldGF0aW9uLW9mLWNvbXB1dGVyLXByb2dyYW1zLXNwcmluZy0yMDA1JTJGdmlkZW9fZ2FsbGVyaWVzJTJGdmlkZW8tbGVjdHVyZXMlMkYlN0NodHRwcyUzQSUyRiUyRm9jdy5taXQuZWR1JTJGY291cnNlcyUyRjYtMDAxLXN0cnVjdHVyZS1hbmQtaW50ZXJwcmV0YXRpb24tb2YtY29tcHV0ZXItcHJvZ3JhbXMtc3ByaW5nLTIwMDUlMkZ2aWRlb19nYWxsZXJpZXMlMkZ2aWRlby1sZWN0dXJlcyUyRiU3Q1N0cnVjdHVyZSUyMGFuZCUyMEludGVycHJldGF0aW9uJTIwb2YlMjBDb21wdXRlciUyMFByb2dyYW1zJTIwVmlkZW8lMjBMZWN0dXJlcyUyMCgxOTg2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODI1NjY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMjMlM0E1NyUzQTI5JTIwJTJCMDAwMA",
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "pubDate": "Tue, 07 Jul 2026 23:57:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3hpZWRvY3MuY29tJTJGbWVybWFpZC1kaWFncmFtLWVkaXRvciU3Q2h0dHBzJTNBJTJGJTJGbW94aWVkb2NzLmNvbSUyRm1lcm1haWQtZGlhZ3JhbS1lZGl0b3IlN0NTaG93JTIwSE4lM0ElMjBGcmVlJTIwTWVybWFpZCUyMERpYWdyYW0lMjBFZGl0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyNTQzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDIzJTNBMjklM0EzNiUyMCUyQjAwMDA",
+      "title": "Show HN: Free Mermaid Diagram Editor",
+      "pubDate": "Tue, 07 Jul 2026 23:29:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FvLmdvdiUyRnByb2R1Y3RzJTJGZ2FvLTI2LTEwODE5MyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmdhby5nb3YlMkZwcm9kdWN0cyUyRmdhby0yNi0xMDgxOTMlN0NHQU8lM0ElMjBET0UlMjBJcyUyMFByZW1hdHVyZWx5JTIwRXhjbHVkaW5nJTIwTGVzcyUyMEV4cGVuc2l2ZSUyME9wdGlvbnMlMjBmb3IlMjBOdWNsZWFyJTIwQ2xlYW51cCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODI0ODI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMjIlM0EyMyUzQTU4JTIwJTJCMDAwMA",
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "pubDate": "Tue, 07 Jul 2026 22:23:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGxhYm91dGNvb2tpZXMub3JnJTJGZXUtbWFuZGF0b3J5LWRpc3RyYWN0ZWQtZHJpdmVyLXN5c3RlbSU3Q2h0dHBzJTNBJTJGJTJGYWxsYWJvdXRjb29raWVzLm9yZyUyRmV1LW1hbmRhdG9yeS1kaXN0cmFjdGVkLWRyaXZlci1zeXN0ZW0lN0NFdmVyeSUyMG5ldyUyMGNhciUyMHNvbGQlMjBpbiUyMHRoZSUyMEV1cm9wZWFuJTIwVW5pb24lMjBtdXN0JTIwaW5jbHVkZSUyMGElMjBkcml2ZXIlMjBtb25pdG9yaW5nJTIwY2FtZXJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjM1NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAyMCUzQTUwJTNBNDYlMjAlMkIwMDAw",
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "pubDate": "Tue, 07 Jul 2026 20:50:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpdC5hcHAlN0NodHRwcyUzQSUyRiUyRmRhdml0LmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMERhdml0JTJDJTIwYSUyMEFwcGxlJTIwQ29udGFpbmVycyUyMFVJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjE4NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxOCUzQTQ0JTNBMjklMjAlMkIwMDAw",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "pubDate": "Tue, 07 Jul 2026 18:44:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnprc2VjdXJpdHkueHl6JTJGcG9zdHMlMkZjaXJjbC1idWdzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnprc2VjdXJpdHkueHl6JTJGcG9zdHMlMkZjaXJjbC1idWdzJTJGJTdDQUklMjBNZWV0cyUyMENyeXB0b2dyYXBoeSUyMDElM0ElMjBXaGF0JTIwQUklMjBGb3VuZCUyMGluJTIwQ2xvdWRmbGFyZSdzJTIwQ2lyY2wlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyMTc0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDE4JTNBMzYlM0EzNSUyMCUyQjAwMDA",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "pubDate": "Tue, 07 Jul 2026 18:36:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcml5YS5pbyUyRjIwMjYlMkYwMyUyRmxvY2FsLWNwdS1mcmllbmRseS1oaWdoLXF1YWxpdHktdHRzLXRleHQtdG8tc3BlZWNoLXdpdGgta29rb3JvJTJGJTdDaHR0cHMlM0ElMkYlMkZhcml5YS5pbyUyRjIwMjYlMkYwMyUyRmxvY2FsLWNwdS1mcmllbmRseS1oaWdoLXF1YWxpdHktdHRzLXRleHQtdG8tc3BlZWNoLXdpdGgta29rb3JvJTJGJTdDTG9jYWwlMkMlMjBDUFUtRnJpZW5kbHklMkMlMjBIaWdoLVF1YWxpdHklMjBUVFMlMjAoVGV4dC10by1TcGVlY2gpJTIwd2l0aCUyMEtva29ybyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODIxNTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTglM0EyNCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "pubDate": "Tue, 07 Jul 2026 18:24:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRob255aG9iZGF5LmNvbSUyRmJsb2clMkYyMDI2MDQxMCU3Q2h0dHBzJTNBJTJGJTJGYW50aG9ueWhvYmRheS5jb20lMkZibG9nJTJGMjAyNjA0MTAlN0NOb3RlcyUyMG9uJTIwU29mdHdhcmUlMjBRdWFsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjE0NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxOCUzQTE0JTNBNTAlMjAlMkIwMDAw",
+      "title": "Notes on Software Quality",
+      "pubDate": "Tue, 07 Jul 2026 18:14:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdjEuc2glMkYlN0NodHRwcyUzQSUyRiUyRmx2MS5zaCUyRiU3Q2wlM0ElMjBBJTIwbmV3JTIwcnVudGltZSUyMGZvciUyMGslMjBhbmQlMjBxJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjEzNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxOCUzQTA4JTNBMjklMjAlMkIwMDAw",
+      "title": "l: A new runtime for k and q",
+      "pubDate": "Tue, 07 Jul 2026 18:08:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmNsYXVkZWFpJTJGc3RhdHVzJTJGMjA3NDU0ODI0MjM4NjE3ODI1OCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZjbGF1ZGVhaSUyRnN0YXR1cyUyRjIwNzQ1NDgyNDIzODYxNzgyNTglN0NXZSdyZSUyMGV4dGVuZGluZyUyMGFjY2VzcyUyMHRvJTIwRmFibGUlMjA1JTIwb24lMjBhbGwlMjBwYWlkJTIwcGxhbnMlMjB0aHJvdWdoJTIwSnVseSUyMDEyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjExMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxNyUzQTQ0JTNBNTAlMjAlMkIwMDAw",
+      "title": "We're extending access to Fable 5 on all paid plans through July 12",
+      "pubDate": "Tue, 07 Jul 2026 17:44:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm93Ym9hdGxhYnMlMkZyb3dib2F0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm93Ym9hdGxhYnMlMkZyb3dib2F0JTdDU2hvdyUyMEhOJTNBJTIwUm93Ym9hdCUyMCVFMiU4MCU5MyUyME9wZW4tc291cmNlJTJDJTIwbG9jYWwtZmlyc3QlMjBhbHRlcm5hdGl2ZSUyMHRvJTIwQ2xhdWRlJTIwRGVza3RvcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODE5ODA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTYlM0ExMCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "pubDate": "Tue, 07 Jul 2026 16:10:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
     }
   ]
