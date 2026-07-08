@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 10,
-    "generatedAt": "2026-07-08T10:31:47.529Z"
+    "itemCount": 20,
+    "generatedAt": "2026-07-08T17:54:17.737Z"
   },
   "items": [
     {
@@ -66,6 +66,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlnaXByZXMub3JnJTJGdGhlLWZsb3BweS1ndWlkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRpZ2lwcmVzLm9yZyUyRnRoZS1mbG9wcHktZ3VpZGUlMkYlN0NDb3B5JTIwVGhhdCUyMEZsb3BweSUyMCVFMiU4MCU5MyUyMENhbWJyaWRnZSUyMGd1aWRlJTIwZm9yJTIwcHJlc2VydmluZyUyMGRhdGElMjBmcm9tJTIwZnJhZ2lsZSUyMGZsb3BweSUyMGRpc2tzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjcwOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAwMyUzQTIyJTNBMzElMjAlMkIwMDAw",
       "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
       "pubDate": "Wed, 08 Jul 2026 03:22:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1ncHQtbGl2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGaW50cm9kdWNpbmctZ3B0LWxpdmUlMkYlN0NHUFQlRTIlODAlOTFMaXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzQ0MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAxNyUzQTAzJTNBMTklMjAlMkIwMDAw",
+      "title": "GPT‑Live",
+      "pubDate": "Wed, 08 Jul 2026 17:03:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjeWJlcmluc2lkZXIuY29tJTJGZXUtbm93LW9uZS1zdGVwLWF3YXktZnJvbS1yZXZpdmluZy1wcml2YXRlLW1lc3NhZ2Utc2Nhbm5pbmctcnVsZXMlMkYlN0NodHRwcyUzQSUyRiUyRmN5YmVyaW5zaWRlci5jb20lMkZldS1ub3ctb25lLXN0ZXAtYXdheS1mcm9tLXJldml2aW5nLXByaXZhdGUtbWVzc2FnZS1zY2FubmluZy1ydWxlcyUyRiU3Q0VVJTIwbm93JTIwb25lJTIwc3RlcCUyMGF3YXklMjBmcm9tJTIwcmV2aXZpbmclMjBwcml2YXRlJTIwbWVzc2FnZSUyMHNjYW5uaW5nJTIwcnVsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzNDI5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE2JTNBNTMlM0EwNiUyMCUyQjAwMDA",
+      "title": "EU now one step away from reviving private message scanning rules",
+      "pubDate": "Wed, 08 Jul 2026 16:53:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2duaXRpb24uY29tJTJGYmxvZyUyRnN3ZS0xLTclN0NodHRwcyUzQSUyRiUyRmNvZ25pdGlvbi5jb20lMkZibG9nJTJGc3dlLTEtNyU3Q1NXRS0xLjclMjBSZWFjaCUyME5lYXIlMjBHUFQlMjA1LjUlMjBhbmQlMjBPcHVzJTIwSW50ZWxsaWdlbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzM4NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAxNiUzQTE5JTNBMzYlMjAlMkIwMDAw",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "pubDate": "Wed, 08 Jul 2026 16:19:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGdHlwZXNjcmlwdCUyRmFubm91bmNpbmctdHlwZXNjcmlwdC03LTAlMkYlN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZ0eXBlc2NyaXB0JTJGYW5ub3VuY2luZy10eXBlc2NyaXB0LTctMCUyRiU3Q1R5cGVTY3JpcHQlMjA3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzM3MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAxNiUzQTA2JTNBMzUlMjAlMkIwMDAw",
+      "title": "TypeScript 7",
+      "pubDate": "Wed, 08 Jul 2026 16:06:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGd2VpcmRHdXklMkZrYXN0b3IlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ3ZWlyZEd1eSUyRmthc3RvciU3Q1Nob3clMjBITiUzQSUyMEthc3RvciUyMCVFMiU4MCU5MyUyMFRlcnJhZm9ybS1zdHlsZSUyMHNwZWNzJTIwZm9yJTIwQUklMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMzE4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE1JTNBMjUlM0EwOSUyMCUyQjAwMDA",
+      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "pubDate": "Wed, 08 Jul 2026 15:25:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG1hbnMuZGV2JTJGYmxvZyUyRmNoYXR0by1pcy1vcGVuLXNvdXJjZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhtYW5zLmRldiUyRmJsb2clMkZjaGF0dG8taXMtb3Blbi1zb3VyY2UlN0NDaGF0dG8lMjBpcyUyMG5vdyUyME9wZW4lMjBTb3VyY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMzExNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE1JTNBMTklM0E1MCUyMCUyQjAwMDA",
+      "title": "Chatto is now Open Source",
+      "pubDate": "Wed, 08 Jul 2026 15:19:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRnJvYm9zdHJhbC1uYXZpZ2F0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWlzdHJhbC5haSUyRm5ld3MlMkZyb2Jvc3RyYWwtbmF2aWdhdGUlMkYlN0NNaXN0cmFsJ3MlMjBSb2Jvc3RyYWwlMjBOYXZpZ2F0ZSUzQSUyMGElMjBzdGF0ZSUyMG9mJTIwdGhlJTIwYXJ0JTIwcm9ib3RpY3MlMjBuYXZpZ2F0aW9uJTIwbW9kZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMjIxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE0JTNBMDklM0ExNyUyMCUyQjAwMDA",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "pubDate": "Wed, 08 Jul 2026 14:09:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudmQubmlzdC5nb3YlMkZ2dWxuJTJGZGV0YWlsJTJGY3ZlLTIwMjYtNTc1ODklN0NodHRwcyUzQSUyRiUyRm52ZC5uaXN0LmdvdiUyRnZ1bG4lMkZkZXRhaWwlMkZjdmUtMjAyNi01NzU4OSU3Q09wZW5CU0QlMjBoYXMlMjBhJTIwdXNlLWFmdGVyLWZyZWUlMjBhbGxvd2luZyUyMGxvY2FsJTIwcHJpdmlsZWdlJTIwZXNjYWxhdGlvbiUyMHRvJTIwcm9vdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODMxNjU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTMlM0EyNCUzQTUyJTIwJTJCMDAwMA",
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "pubDate": "Wed, 08 Jul 2026 13:24:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGbWVlcmthdC1pbnRyb2R1Y3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZtZWVya2F0LWludHJvZHVjdGlvbiUyRiU3Q0Nsb3VkZmxhcmUlMjBNZWVya2F0JTIwLSUyMEdsb2JhbGx5JTIwZGlzdHJpYnV0ZWQlMjBjb25zZW5zdXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMTU2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDEzJTNBMTglM0EwMyUyMCUyQjAwMDA",
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "pubDate": "Wed, 08 Jul 2026 13:18:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDclMkZhcHBsZS10by1pbmNyZWFzZS1zcGVuZC13aXRoLWJyb2FkY29tLXRvLXByb2R1Y2UtYmlsbGlvbnMtbW9yZS11cy1jaGlwcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRjA3JTJGYXBwbGUtdG8taW5jcmVhc2Utc3BlbmQtd2l0aC1icm9hZGNvbS10by1wcm9kdWNlLWJpbGxpb25zLW1vcmUtdXMtY2hpcHMlMkYlN0NBcHBsZSUyMHRvJTIwaW5jcmVhc2UlMjBzcGVuZCUyMHdpdGglMjBCcm9hZGNvbSUyMHRvJTIwcHJvZHVjZSUyMGJpbGxpb25zJTIwbW9yZSUyMFUuUy4lMjBjaGlwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODMwNTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTElM0EzMCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "pubDate": "Wed, 08 Jul 2026 11:30:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]

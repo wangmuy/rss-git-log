@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-05",
     "newestItemDate": "2026-07-05",
-    "itemCount": 52,
-    "generatedAt": "2026-07-08T10:31:47.530Z"
+    "itemCount": 56,
+    "generatedAt": "2026-07-08T17:54:17.738Z"
   },
   "items": [
     {
@@ -318,6 +318,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RxTVIzSVhGMnNXdyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEcU1SM0lYRjJzV3clN0NIb21lJTIwbWFkZSUyMEdQVSUyMGVzY2FsYXRlZCUyMHF1aWNrbHklMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4NzkzODA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMTIlM0EzOSUzQTA4JTIwJTJCMDAwMA",
       "title": "Home made GPU escalated quickly [video]",
       "pubDate": "Sun, 05 Jul 2026 12:39:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvYnNlcnZlci5jby51ayUyRnN0eWxlJTJGZmVhdHVyZXMlMkZhcnRpY2xlJTJGZXZlcnktcG9zdGNhcmQtdGVsbHMtYS1zdG9yeSU3Q2h0dHBzJTNBJTJGJTJGb2JzZXJ2ZXIuY28udWslMkZzdHlsZSUyRmZlYXR1cmVzJTJGYXJ0aWNsZSUyRmV2ZXJ5LXBvc3RjYXJkLXRlbGxzLWEtc3RvcnklN0NFdmVyeSUyMHBvc3RjYXJkJTIwdGVsbHMlMjBhJTIwc3RvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc5NjQ3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA1JTIwSnVsJTIwMjAyNiUyMDE4JTNBMTQlM0E0MiUyMCUyQjAwMDA",
+      "title": "Every postcard tells a story",
+      "pubDate": "Sun, 05 Jul 2026 18:14:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmdsYXNzYm90dG9tYmxvZy5ibG9nc3BvdC5jb20lMkYyMDExJTJGMDElMkZjYXRhc3Ryb3BoZS10aGVvcnktZ2VuaXVzZXMtYW5kLW1hbmlhY3MuaHRtbCU3Q2h0dHAlM0ElMkYlMkZnbGFzc2JvdHRvbWJsb2cuYmxvZ3Nwb3QuY29tJTJGMjAxMSUyRjAxJTJGY2F0YXN0cm9waGUtdGhlb3J5LWdlbml1c2VzLWFuZC1tYW5pYWNzLmh0bWwlN0NDYXRhc3Ryb3BoZSUyMHRoZW9yeSUzQiUyMGdlbml1c2VzJTIwYW5kJTIwbWFuaWFjcyUyMCgyMDExKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk0MjI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMTMlM0EzNSUzQTMyJTIwJTJCMDAwMA",
+      "title": "Catastrophe theory; geniuses and maniacs (2011)",
+      "pubDate": "Sun, 05 Jul 2026 13:35:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaGlsYXR5cGUuY29tJTJGdGFiZm9udCUyRiU3Q2h0dHBzJTNBJTJGJTJGcGhpbGF0eXBlLmNvbSUyRnRhYmZvbnQlMkYlN0NUYWJGb250JTIwJUUyJTgwJTkzJTIwZ3VpdGFyJTIwdGFicyUyMHJlbmRlcmVkJTIwYXMlMjB5b3UlMjB0eXBlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTQwNjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxMyUzQTEzJTNBNTQlMjAlMkIwMDAw",
+      "title": "TabFont – guitar tabs rendered as you type",
+      "pubDate": "Sun, 05 Jul 2026 13:13:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3czLm5oay5vci5qcCUyRm5oa3dvcmxkJTJGZW4lMkZuZXdzJTJGMjAyNjA3MDVfMDElMkYlN0NodHRwcyUzQSUyRiUyRnd3dzMubmhrLm9yLmpwJTJGbmhrd29ybGQlMkZlbiUyRm5ld3MlMkYyMDI2MDcwNV8wMSUyRiU3Q0phcGFuJ3MlMjBIYXlhYnVzYTIlMjBwcm9iZSUyMHRvJTIwY29uZHVjdCUyMGZseWJ5JTIwb2YlMjBUb3JpZnVuZSUyMGFzdGVyb2lkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTI5ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxMCUzQTMzJTNBNDUlMjAlMkIwMDAw",
+      "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
+      "pubDate": "Sun, 05 Jul 2026 10:33:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
     }
   ]
