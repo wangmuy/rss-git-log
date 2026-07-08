@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 5,
-    "generatedAt": "2026-07-08T03:49:39.091Z"
+    "itemCount": 10,
+    "generatedAt": "2026-07-08T10:31:47.529Z"
   },
   "items": [
     {
@@ -36,6 +36,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZrYi5jZXJ0Lm9yZyUyRnZ1bHMlMkZpZCUyRjIxMzU2MCU3Q2h0dHBzJTNBJTJGJTJGa2IuY2VydC5vcmclMkZ2dWxzJTJGaWQlMkYyMTM1NjAlN0NUZW5kYSUyMGZpcm13YXJlJTIwKG11bHRpcGxlJTIwdmVyc2lvbnMpJTIwY29udGFpbnMlMjBoaWRkZW4lMjBhdXRoZW50aWNhdGlvbiUyMGJhY2tkb29yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjU3NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAwMCUzQTA4JTNBNTElMjAlMkIwMDAw",
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
       "pubDate": "Wed, 08 Jul 2026 00:08:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmlzLnNoZXJsaWtlci5uZXQlMkZibG9nJTJGb2JmdXNjYXRlZC1zZWxmLWV2YWx1YXRpbmctYmFzaC1zY3JpcHQtYnktY2RuLWFrYW1haS1iZWluZy1zdXBwbGllZC10by1jb25zdW1lcnMtdmlhLXJldGFpbC1zdG9yZXMlMkYlN0NodHRwcyUzQSUyRiUyRnRyaXMuc2hlcmxpa2VyLm5ldCUyRmJsb2clMkZvYmZ1c2NhdGVkLXNlbGYtZXZhbHVhdGluZy1iYXNoLXNjcmlwdC1ieS1jZG4tYWthbWFpLWJlaW5nLXN1cHBsaWVkLXRvLWNvbnN1bWVycy12aWEtcmV0YWlsLXN0b3JlcyUyRiU3Q0RlY29kaW5nJTIwdGhlJTIwb2JmdXNjYXRlZCUyMGJhc2glMjBzY3JpcHQlMjBvbiUyMGElMjBVbmlxbG8lMjB0LXNoaXJ0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjkzMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAwOCUzQTQ2JTNBMDYlMjAlMkIwMDAw",
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "pubDate": "Wed, 08 Jul 2026 08:46:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVrYXJ0LXh5eiUyRmdlb3NxbCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmRla2FydC14eXolMkZnZW9zcWwlN0NHZW9zcWwlM0ElMjBBJTIwQ2xhdWRlJTJGQ29kZXglMjBza2lsbCUyMGZvciUyMGdlb3NwYXRpYWwlMjBkYXRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjkyNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAwOCUzQTM3JTNBMjYlMjAlMkIwMDAw",
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "pubDate": "Wed, 08 Jul 2026 08:37:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub21hLnNlY3VyaXR5JTJGYmxvZyUyRmdpdGxvc3QtaG93LXdlLXRyaWNrZWQtZ2l0aHVicy1haS1hZ2VudC1pbnRvLWxlYWtpbmctcHJpdmF0ZS1yZXBvcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbm9tYS5zZWN1cml0eSUyRmJsb2clMkZnaXRsb3N0LWhvdy13ZS10cmlja2VkLWdpdGh1YnMtYWktYWdlbnQtaW50by1sZWFraW5nLXByaXZhdGUtcmVwb3MlMkYlN0NHaXRMb3N0JTNBJTIwV2UlMjBUcmlja2VkJTIwR2l0SHViJ3MlMjBBSSUyMEFnZW50JTIwaW50byUyMExlYWtpbmclMjBQcml2YXRlJTIwUmVwb3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyNzg1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDA1JTNBMjUlM0EzNSUyMCUyQjAwMDA",
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "pubDate": "Wed, 08 Jul 2026 05:25:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWlsLmNvbXB1dGVyJTJGbm90ZXMlMkZob3ctdG8tc2V0dXAtbWluaW1hbC16ZnMtbmFzLXdpdGhvdXQtdHJ1ZW5hcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbmVpbC5jb21wdXRlciUyRm5vdGVzJTJGaG93LXRvLXNldHVwLW1pbmltYWwtemZzLW5hcy13aXRob3V0LXRydWVuYXMlMkYlN0NIb3clMjB0byUyMEJ1aWxkJTIwYSUyME1pbmltYWwlMjBaRlMlMjBOQVMlMjBXaXRob3V0JTIwU3lub2xvZ3klMkMlMjBRTkFQJTJDJTIwVHJ1ZU5BUyUyMCgyMDI0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODI3MzI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMDMlM0E1OSUzQTM1JTIwJTJCMDAwMA",
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "pubDate": "Wed, 08 Jul 2026 03:59:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlnaXByZXMub3JnJTJGdGhlLWZsb3BweS1ndWlkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRpZ2lwcmVzLm9yZyUyRnRoZS1mbG9wcHktZ3VpZGUlMkYlN0NDb3B5JTIwVGhhdCUyMEZsb3BweSUyMCVFMiU4MCU5MyUyMENhbWJyaWRnZSUyMGd1aWRlJTIwZm9yJTIwcHJlc2VydmluZyUyMGRhdGElMjBmcm9tJTIwZnJhZ2lsZSUyMGZsb3BweSUyMGRpc2tzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MjcwOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAwMyUzQTIyJTNBMzElMjAlMkIwMDAw",
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "pubDate": "Wed, 08 Jul 2026 03:22:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]
