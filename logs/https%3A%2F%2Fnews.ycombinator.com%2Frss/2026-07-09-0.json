@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-09",
     "newestItemDate": "2026-07-09",
-    "itemCount": 10,
-    "generatedAt": "2026-07-09T11:21:25.469Z"
+    "itemCount": 35,
+    "generatedAt": "2026-07-09T18:13:08.928Z"
   },
   "items": [
     {
@@ -66,6 +66,156 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb25uZWN0c2NpLmF1JTJGbmV3cyUyRm5ld3MtcGFyZW50JTJGOTcwMyUyRlNwaWRlci12ZW5vbS1raWxscy12YXJyb2EtbWl0ZXMtd2l0aG91dC1oYXJtaW5nJTdDaHR0cHMlM0ElMkYlMkZjb25uZWN0c2NpLmF1JTJGbmV3cyUyRm5ld3MtcGFyZW50JTJGOTcwMyUyRlNwaWRlci12ZW5vbS1raWxscy12YXJyb2EtbWl0ZXMtd2l0aG91dC1oYXJtaW5nJTdDU3BpZGVyJTIwdmVub20lMjBraWxscyUyMHZhcnJvYSUyMG1pdGVzJTIwd2l0aG91dCUyMGhhcm1pbmclMjBob25leWJlZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MTI1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDA1JTNBMTQlM0E0NSUyMCUyQjAwMDA",
       "title": "Spider venom kills varroa mites without harming honeybees",
       "pubDate": "Thu, 09 Jul 2026 05:14:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJpbmRlZGljLmNvbSUyRmdyb3VwcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFyaW5kZWRpYy5jb20lMkZncm91cHMlMkYlN0NIb3clMjBzaG91bGQlMjBncm91cCUyMGNoYXRzJTIwd29yayUyMGluJTIwZGVjZW50cmFsaXplZCUyMHN5c3RlbXMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0OTI1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE3JTNBMTUlM0E0NyUyMCUyQjAwMDA",
+      "title": "How should group chats work in decentralized systems?",
+      "pubDate": "Thu, 09 Jul 2026 17:15:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZncHQtNS02JTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZncHQtNS02JTJGJTdDR1BULTUuNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQ5MDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTclM0EwNCUzQTE0JTIwJTJCMDAwMA",
+      "title": "GPT-5.6",
+      "pubDate": "Thu, 09 Jul 2026 17:04:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZjaGF0Z3B0LWZvci15b3VyLW1vc3QtYW1iaXRpb3VzLXdvcmslMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmNoYXRncHQtZm9yLXlvdXItbW9zdC1hbWJpdGlvdXMtd29yayUyRiU3Q0NoYXRHUFQlMjBXb3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDkwNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNyUzQTAzJTNBNTMlMjAlMkIwMDAw",
+      "title": "ChatGPT Work",
+      "pubDate": "Thu, 09 Jul 2026 17:03:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGd2lsZGNhcmQlMkZqb2JzJTJGWlNMVmFhVS1mb3VuZGluZy1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRndpbGRjYXJkJTJGam9icyUyRlpTTFZhYVUtZm91bmRpbmctZW5naW5lZXIlN0NXaWxkY2FyZCUyMChZQyUyMFcyNSklMjBJcyUyMEhpcmluZyUyMGElMjBGb3VuZGluZyUyMEVuZ2luZWVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDkwMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNyUzQTAwJTNBMzclMjAlMkIwMDAw",
+      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+      "pubDate": "Thu, 09 Jul 2026 17:00:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZ0aHJvcG9sb2d5LmNvbSUyRmRlbW8lN0NodHRwcyUzQSUyRiUyRmRldnRocm9wb2xvZ3kuY29tJTJGZGVtbyU3Q1Nob3clMjBITiUzQSUyMERldnRocm9wb2xvZ3klMjAlRTIlODAlOTMlMjBCZXR0ZXIlMjBJbnNpZ2h0cyUyMGZvciUyMEdpdEh1YiUyMFJlcG9zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDg4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNiUzQTQ3JTNBNTMlMjAlMkIwMDAw",
+      "title": "Show HN: Devthropology – Better Insights for GitHub Repos",
+      "pubDate": "Thu, 09 Jul 2026 16:47:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGlmZXNjaWVuY2VzLm9yZyUyRmFydGljbGVzJTJGMTA3MDg4JTdDaHR0cHMlM0ElMkYlMkZlbGlmZXNjaWVuY2VzLm9yZyUyRmFydGljbGVzJTJGMTA3MDg4JTdDQXVkaXRvcnklMjBhbmQlMjBzcG9udGFuZW91cyUyMG1vdmVtZW50JTIwcmVzcG9uc2VzJTIwdG8lMjBtdXNpYyUyMG92ZXIlMjBmaXJzdCUyMHBvc3RuYXRhbCUyMHllYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0ODExMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE2JTNBMDAlM0E1OCUyMCUyQjAwMDA",
+      "title": "Auditory and spontaneous movement responses to music over first postnatal year",
+      "pubDate": "Thu, 09 Jul 2026 16:00:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29udGV4dC5kZXYlN0NodHRwcyUzQSUyRiUyRnd3dy5jb250ZXh0LmRldiUyRiU3Q0xhdW5jaCUyMEhOJTNBJTIwQ29udGV4dC5kZXYlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwQVBJJTIwdG8lMjBnZXQlMjBzdHJ1Y3R1cmVkJTIwZGF0YSUyMGZyb20lMjBhbnklMjB3ZWJzaXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDc1NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNSUzQTI4JTNBMzklMjAlMkIwMDAw",
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "pubDate": "Thu, 09 Jul 2026 15:28:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoeS50ZW5jZW50LmNvbSUyRnJlc2VhcmNoJTJGaHkzJTdDaHR0cHMlM0ElMkYlMkZoeS50ZW5jZW50LmNvbSUyRnJlc2VhcmNoJTJGaHkzJTdDSHkzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDc1NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNSUzQTI3JTNBNDglMjAlMkIwMDAw",
+      "title": "Hy3",
+      "pubDate": "Thu, 09 Jul 2026 15:27:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRhbm55Y2FzdG9uZ3VheS5jb20lMkZob3ctdG8td3JpdGUtYW4tZW1haWwlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZGFubnljYXN0b25ndWF5LmNvbSUyRmhvdy10by13cml0ZS1hbi1lbWFpbCUyRiU3Q0hvdyUyMHRvJTIwV3JpdGUlMjBhbiUyMEVtYWlsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDc1MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNSUzQTI2JTNBNTIlMjAlMkIwMDAw",
+      "title": "How to Write an Email",
+      "pubDate": "Thu, 09 Jul 2026 15:26:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFtbmludGVyZXN0aW5nLmNvbSUyRmEtcG9zc2libGUtZnV0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGFtbmludGVyZXN0aW5nLmNvbSUyRmEtcG9zc2libGUtZnV0dXJlJTJGJTdDQSUyMHBvc3NpYmxlJTIwZnV0dXJlJTIwZm9yJTIwRGFtbiUyMEludGVyZXN0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDc1MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNSUzQTI1JTNBMjUlMjAlMkIwMDAw",
+      "title": "A possible future for Damn Interesting",
+      "pubDate": "Thu, 09 Jul 2026 15:25:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXp5cGkub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZsYXp5cGkub3JnJTJGJTdDT3BpbmlvbmF0ZWQlMjBhbmQlMjBFYXN5JTIwUGkuZGV2JTIwQ29uZmlndXJhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQ3NDA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTUlM0ExOSUzQTMzJTIwJTJCMDAwMA",
+      "title": "Opinionated and Easy Pi.dev Configuration",
+      "pubDate": "Thu, 09 Jul 2026 15:19:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc29ub21pYXF1YXJ0ZXJseS5jb20lMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjYlMkYwNiUyRmlxLTQuMi1zdW1tZXItMjAyNi1tYWNkb25hbGQtY29vcmRpbmF0aW9uLXdpdGhvdXQtY29uc29saWRhdGlvbi5wZGYlN0NodHRwcyUzQSUyRiUyRmlzb25vbWlhcXVhcnRlcmx5LmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyNiUyRjA2JTJGaXEtNC4yLXN1bW1lci0yMDI2LW1hY2RvbmFsZC1jb29yZGluYXRpb24td2l0aG91dC1jb25zb2xpZGF0aW9uLnBkZiU3Q0Nvb3JkaW5hdGlvbiUyMFdpdGhvdXQlMjBDb25zb2xpZGF0aW9uJTNBJTIwT24lMjBTeXN0ZW1zJTIwb2YlMjBTdGF0ZXMlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0NzQwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE1JTNBMTklM0EyMyUyMCUyQjAwMDA",
+      "title": "Coordination Without Consolidation: On Systems of States [pdf]",
+      "pubDate": "Thu, 09 Jul 2026 15:19:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVuLWV2YW5zLmNvbSUyRmJlbmVkaWN0ZXZhbnMlMkYyMDI2JTJGNyUyRjklMkZ3YXlzLXRvLXRoaW5rLWFib3V0LXRva2VuLXByaWNpbmclN0NodHRwcyUzQSUyRiUyRnd3dy5iZW4tZXZhbnMuY29tJTJGYmVuZWRpY3RldmFucyUyRjIwMjYlMkY3JTJGOSUyRndheXMtdG8tdGhpbmstYWJvdXQtdG9rZW4tcHJpY2luZyU3Q1dheXMlMjB0byUyMHRoaW5rJTIwYWJvdXQlMjB0b2tlbiUyMHByaWNpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0NzE4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE1JTNBMDYlM0E1MiUyMCUyQjAwMDA",
+      "title": "Ways to think about token pricing",
+      "pubDate": "Thu, 09 Jul 2026 15:06:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dXhuZXQuZGV2JTJGcG9zdHMlMkZ0bHMtZm9yLWludGVybmFsLXNlcnZpY2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0dXhuZXQuZGV2JTJGcG9zdHMlMkZ0bHMtZm9yLWludGVybmFsLXNlcnZpY2VzJTJGJTdDVExTJTIwY2VydGlmaWNhdGVzJTIwZm9yJTIwaW50ZXJuYWwlMjBzZXJ2aWNlcyUyMGRvbmUlMjByaWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQ2OTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTQlM0E1NyUzQTAyJTIwJTJCMDAwMA",
+      "title": "TLS certificates for internal services done right",
+      "pubDate": "Thu, 09 Jul 2026 14:57:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1c2V3aXJlLmlvJTJGZW5naW5lZXJpbmclMkZ3aHktd2VyZS1tb3Zpbmctd2lyZS1vZmYtY2xvdWRmbGFyZS1kdXJhYmxlLW9iamVjdHMlMkYlN0NodHRwcyUzQSUyRiUyRnVzZXdpcmUuaW8lMkZlbmdpbmVlcmluZyUyRndoeS13ZXJlLW1vdmluZy13aXJlLW9mZi1jbG91ZGZsYXJlLWR1cmFibGUtb2JqZWN0cyUyRiU3Q1doeSUyMHdlJ3JlJTIwbW92aW5nJTIwb2ZmJTIwQ2xvdWRmbGFyZSUyMER1cmFibGUlMjBPYmplY3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDY3NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNCUzQTQ1JTNBMDQlMjAlMkIwMDAw",
+      "title": "Why we're moving off Cloudflare Durable Objects",
+      "pubDate": "Thu, 09 Jul 2026 14:45:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmFsb2cud2F0Y2glN0NodHRwcyUzQSUyRiUyRmFuYWxvZy53YXRjaCUyRiU3Q1Nob3clMjBITiUzQSUyMEFuYWxvZyUyMFdhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDY1MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNCUzQTMwJTNBNTQlMjAlMkIwMDAw",
+      "title": "Show HN: Analog Watch",
+      "pubDate": "Thu, 09 Jul 2026 14:30:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXRwcmVzcy5taXQuZWR1JTJGOTc4MDI2MjA1MzE5OCUyRnNpbXBvbGl0aWNzJTJGJTdDaHR0cHMlM0ElMkYlMkZtaXRwcmVzcy5taXQuZWR1JTJGOTc4MDI2MjA1MzE5OCUyRnNpbXBvbGl0aWNzJTJGJTdDTmV3JTIwb3BlbiUyMGFjY2VzcyUyMGJvb2slMjBvbiUyMGhpc3RvcnklMjBvZiUyMGNvbXB1dGVycyUyMGFuZCUyMHBvbGl0aWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDYzMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNCUzQTIwJTNBMTQlMjAlMkIwMDAw",
+      "title": "New open access book on history of computers and politics",
+      "pubDate": "Thu, 09 Jul 2026 14:20:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhY2VudGVyLmllcnMub3JnJTJGZGF0YSUyRmxhdGVzdFZlcnNpb24lMkZidWxsZXRpbkMudHh0JTdDaHR0cHMlM0ElMkYlMkZkYXRhY2VudGVyLmllcnMub3JnJTJGZGF0YSUyRmxhdGVzdFZlcnNpb24lMkZidWxsZXRpbkMudHh0JTdDTm8lMjBsZWFwJTIwc2Vjb25kJTIwd2lsbCUyMGJlJTIwaW50cm9kdWNlZCUyMGF0JTIwdGhlJTIwZW5kJTIwb2YlMjBEZWNlbWJlciUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0NjI4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE0JTNBMTYlM0EzNCUyMCUyQjAwMDA",
+      "title": "No leap second will be introduced at the end of December 2026",
+      "pubDate": "Thu, 09 Jul 2026 14:16:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaS5tZXRhLmNvbSUyRmJsb2clMkZpbnRyb2R1Y2luZy1tdXNlLXNwYXJrLW1ldGEtbW9kZWwtYXBpJTJGJTdDaHR0cHMlM0ElMkYlMkZhaS5tZXRhLmNvbSUyRmJsb2clMkZpbnRyb2R1Y2luZy1tdXNlLXNwYXJrLW1ldGEtbW9kZWwtYXBpJTJGJTdDTXVzZSUyMFNwYXJrJTIwMS4xJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDYxODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNCUzQTEwJTNBMjIlMjAlMkIwMDAw",
+      "title": "Muse Spark 1.1",
+      "pubDate": "Thu, 09 Jul 2026 14:10:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtd2kud2VzdHBvaW50LmVkdSUyRnRoZS1nbGFzcy1iYWNrYm9uZS13aHktdGhlLWFybXlzLWxvZ2lzdGljcy13aWxsLWJyZWFrLWluLXRoZS1uZXh0LXdhciUyRiU3Q2h0dHBzJTNBJTJGJTJGbXdpLndlc3Rwb2ludC5lZHUlMkZ0aGUtZ2xhc3MtYmFja2JvbmUtd2h5LXRoZS1hcm15cy1sb2dpc3RpY3Mtd2lsbC1icmVhay1pbi10aGUtbmV4dC13YXIlMkYlN0NUaGUlMjBnbGFzcyUyMGJhY2tib25lJTNBJTIwV2h5JTIwdGhlJTIwQXJteSdzJTIwbG9naXN0aWNzJTIwd2lsbCUyMGJyZWFrJTIwaW4lMjB0aGUlMjBuZXh0JTIwd2FyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDU0NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxMyUzQTI0JTNBNDMlMjAlMkIwMDAw",
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "pubDate": "Thu, 09 Jul 2026 13:24:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYxOHdvcmRzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGMTh3b3Jkcy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjAxOCUyMFdvcmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDUwNDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxMiUzQTQ4JTNBNTIlMjAlMkIwMDAw",
+      "title": "Show HN: 18 Words",
+      "pubDate": "Thu, 09 Jul 2026 12:48:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGF0cmljay1icmV5ZXIuZGUlMkZlbiUyRmV1LXBhcmxpYW1lbnQtZ3JlZW5saWdodHMtY2hhdC1jb250cm9sLTEtMC1icmV5ZXItb3VyLWNoaWxkcmVuLWxvc2Utb3V0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGF0cmljay1icmV5ZXIuZGUlMkZlbiUyRmV1LXBhcmxpYW1lbnQtZ3JlZW5saWdodHMtY2hhdC1jb250cm9sLTEtMC1icmV5ZXItb3VyLWNoaWxkcmVuLWxvc2Utb3V0JTJGJTdDRVUlMjBQYXJsaWFtZW50JTIwZ3JlZW5saWdodHMlMjBDaGF0JTIwQ29udHJvbCUyMDEuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQzOTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTElM0EwMyUzQTU0JTIwJTJCMDAwMA",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "pubDate": "Thu, 09 Jul 2026 11:03:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV0cnV0aGFzaXNlZWl0bm93LmNvbSUyRmFpLXNsb3Atc3RhcnRzLXdpdGgtdGhlLWNvZGViYXNlLWl0c2VsZiUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhldHJ1dGhhc2lzZWVpdG5vdy5jb20lMkZhaS1zbG9wLXN0YXJ0cy13aXRoLXRoZS1jb2RlYmFzZS1pdHNlbGYlMkYlN0NBSSUyMGNoYW5nZXMlMjB0aGUlMjBlY29ub21pY3MlMjBvZiUyMHNvZnR3YXJlJTIwcmV3cml0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MTQ0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDA1JTNBNDYlM0E1MCUyMCUyQjAwMDA",
+      "title": "AI changes the economics of software rewrites",
+      "pubDate": "Thu, 09 Jul 2026 05:46:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGYWktaXMtYm90dGxlbmVja2VkLWJ5LXRoZS1ncmlkJTdDaHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGYWktaXMtYm90dGxlbmVja2VkLWJ5LXRoZS1ncmlkJTdDV2hhdCdzJTIwc2xvd2luZyUyMGRvd24lMjB0aGUlMjBBSSUyMGJ1aWxkb3V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDA2MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAwMyUzQTI2JTNBMDIlMjAlMkIwMDAw",
+      "title": "What's slowing down the AI buildout",
+      "pubDate": "Thu, 09 Jul 2026 03:26:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b21lc3BoZXJlLmNvbSUyRmF0bGFzJTdDaHR0cHMlM0ElMkYlMkZ0b21lc3BoZXJlLmNvbSUyRmF0bGFzJTdDU2hvdyUyMEhOJTNBJTIwSSUyMG1hcHBlZCUyMDguNU0lMjByZXNlYXJjaCUyMHBhcGVycyUyMGludG8lMjBhbiUyMGludGVyYWN0aXZlJTIwYXRsYXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MDIwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDAyJTNBMjMlM0EyNCUyMCUyQjAwMDA",
+      "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
+      "pubDate": "Thu, 09 Jul 2026 02:23:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-06",
     "newestItemDate": "2026-07-06",
-    "itemCount": 54,
-    "generatedAt": "2026-07-09T04:16:49.107Z"
+    "itemCount": 57,
+    "generatedAt": "2026-07-09T18:13:08.928Z"
   },
   "items": [
     {
@@ -330,6 +330,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXh0ZS5zdCUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV4dGUuc3QlMkYlN0NDYXJnby1uZXh0ZXN0JTNBJTIwM3glMjBmYXN0ZXIlMjB0aGFuJTIwY2FyZ28lMjB0ZXN0JTJDJTIwcGVyLXRlc3QlMjBpc29sYXRpb24lMkMlMjBmaXJzdC1jbGFzcyUyMENJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDA1OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAwNCUzQTE5JTNBMzAlMjAlMkIwMDAw",
       "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
       "pubDate": "Mon, 06 Jul 2026 04:19:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYWhsYS5kZXYlMkZibG9nJTJGd2FpdGZyZWVfcXVldWUlMkYlN0NodHRwcyUzQSUyRiUyRm5haGxhLmRldiUyRmJsb2clMkZ3YWl0ZnJlZV9xdWV1ZSUyRiU3Q0dpcmxzJTIwSnVzdCUyMFdhbm5hJTIwSGF2ZSUyMEZhc3QlMjBNUE1DJTIwUXVldWVzJTIwd2l0aCUyMEJvdW5kZWQlMjBXYWl0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDk1NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAxOSUzQTQ2JTNBMzAlMjAlMkIwMDAw",
+      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+      "pubDate": "Mon, 06 Jul 2026 19:46:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGlzLWJ1cmllZC1hcHBsZS1mZWF0dXJlLXR1cm5zLWFuLWlwaG9uZS1pbnRvLXRoZS1wZXJmZWN0LWtpZHMtZHVtYi1waG9uZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGdGhpcy1idXJpZWQtYXBwbGUtZmVhdHVyZS10dXJucy1hbi1pcGhvbmUtaW50by10aGUtcGVyZmVjdC1raWRzLWR1bWItcGhvbmUlMkYlN0NCdXJpZWQlMjBBcHBsZSUyMEZlYXR1cmUlMjBUdXJucyUyMGFuJTIwaVBob25lJTIwaW50byUyMHRoZSUyMFBlcmZlY3QlMjBLaWRzJyUyMER1bWIlMjBQaG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODAzMDA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMTAlM0E1MyUzQTUxJTIwJTJCMDAwMA",
+      "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+      "pubDate": "Mon, 06 Jul 2026 10:53:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNyUyRjA1JTJGd2hhdC1pcy1iZW5kaW5nLXNwb29ucy1ldmVyeXRoaW5nLXRvLWtub3ctYWJvdXQtYW9scy1hY3F1aXJlciUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDclMkYwNSUyRndoYXQtaXMtYmVuZGluZy1zcG9vbnMtZXZlcnl0aGluZy10by1rbm93LWFib3V0LWFvbHMtYWNxdWlyZXIlMkYlN0NXaGF0JTIwaXMlMjBCZW5kaW5nJTIwU3Bvb25zJTNGJTIwVGhlJTIwbGl0dGxlLWtub3duJTIwQU9MJTIwYW5kJTIwVmltZW8lMjBvd25lciUyMHRoYXQncyUyMG5vdyUyMHB1YmxpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk5OTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMDIlM0ExMyUzQTM1JTIwJTJCMDAwMA",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
+      "pubDate": "Mon, 06 Jul 2026 02:13:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
     }
   ]
