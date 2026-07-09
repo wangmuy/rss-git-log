@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-09",
     "newestItemDate": "2026-07-09",
-    "itemCount": 4,
-    "generatedAt": "2026-07-09T04:16:49.106Z"
+    "itemCount": 10,
+    "generatedAt": "2026-07-09T11:21:25.469Z"
   },
   "items": [
     {
@@ -30,6 +30,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtaXJhLXdtLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWlyYS13bS5jb20lMkYlN0NNSVJBJTNBJTIwTXVsdGlwbGF5ZXIlMjBJbnRlcmFjdGl2ZSUyMFdvcmxkJTIwTW9kZWxzJTIwVHJhaW5lZCUyMG9uJTIwUm9ja2V0JTIwTGVhZ3VlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzkzNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAwMCUzQTI3JTNBNTclMjAlMkIwMDAw",
       "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
       "pubDate": "Thu, 09 Jul 2026 00:27:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGF0cmljay1icmV5ZXIuZGUlMkZlbiUyRmV1LXBhcmxpYW1lbnQtZ3JlZW5saWdodHMtY2hhdC1jb250cm9sLTEtMC1icmV5ZXItb3VyLWNoaWxkcmVuLWxvc2Utb3V0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGF0cmljay1icmV5ZXIuZGUlMkZlbiUyRmV1LXBhcmxpYW1lbnQtZ3JlZW5saWdodHMtY2hhdC1jb250cm9sLTEtMC1icmV5ZXItb3VyLWNoaWxkcmVuLWxvc2Utb3V0JTJGJTdDRVUlMjBQYXJsaWFtZW50JTIwZ3JlZW5saWdodHMlMjBDaGF0JTIwQ29udHJvbCUyMDEuMCUyMCVFMiU4MCU5MyUyMEJyZXllciUzQSUyMCUyMk91ciUyMGNoaWxkcmVuJTIwbG9zZSUyMG91dCUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQzOTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTElM0EwMyUzQTU0JTIwJTJCMDAwMA",
+      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "pubDate": "Thu, 09 Jul 2026 11:03:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZXdrZWxsZXkubWUlMkZwb3N0JTJGbXktdGhvdWdodHMtYnVuLXJ1c3QtcmV3cml0ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbmRyZXdrZWxsZXkubWUlMkZwb3N0JTJGbXktdGhvdWdodHMtYnVuLXJ1c3QtcmV3cml0ZS5odG1sJTdDTXklMjBUaG91Z2h0cyUyMG9uJTIwdGhlJTIwQnVuJTIwUnVzdCUyMFJld3JpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MzM1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDA5JTNBNDclM0EyOCUyMCUyQjAwMDA",
+      "title": "My Thoughts on the Bun Rust Rewrite",
+      "pubDate": "Thu, 09 Jul 2026 09:47:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG93dG9nZWVrLmNvbSUyRndoeS1kZXZlbG9wZXJzLWFyZS1kaXRjaGluZy1naXRodWItZm9yLWNvZGViZXJnLWFuZC1zZWxmLWhvc3RpbmctYWx0ZXJuYXRpdmVzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaG93dG9nZWVrLmNvbSUyRndoeS1kZXZlbG9wZXJzLWFyZS1kaXRjaGluZy1naXRodWItZm9yLWNvZGViZXJnLWFuZC1zZWxmLWhvc3RpbmctYWx0ZXJuYXRpdmVzJTJGJTdDV2h5JTIwZGV2ZWxvcGVycyUyMGFyZSUyMGRpdGNoaW5nJTIwR2l0SHViJTIwZm9yJTIwQ29kZWJlcmclMjBhbmQlMjBzZWxmLWhvc3RpbmclMjBhbHRlcm5hdGl2ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MjYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDA4JTNBMjIlM0E1MiUyMCUyQjAwMDA",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "pubDate": "Thu, 09 Jul 2026 08:22:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY29sbGVjdHdpc2UlMkZqb2JzJTJGUDY0Nll3Ni1mb3VuZGluZy1hY2NvdW50LWV4ZWN1dGl2ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRmNvbGxlY3R3aXNlJTJGam9icyUyRlA2NDZZdzYtZm91bmRpbmctYWNjb3VudC1leGVjdXRpdmUlN0NDb2xsZWN0V2lzZSUyMChZQyUyMEYyNCklMjBJcyUyMEhpcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQxOTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMDclM0EwMCUzQTQzJTIwJTJCMDAwMA",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "pubDate": "Thu, 09 Jul 2026 07:00:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGaG93LWRvbmtleS1rb25nLXRvcHBsZWQtYXRhcmklMkYlN0NodHRwcyUzQSUyRiUyRmRmYXJxLmhvbWVpcC5uZXQlMkZob3ctZG9ua2V5LWtvbmctdG9wcGxlZC1hdGFyaSUyRiU3Q0hvdyUyMERvbmtleSUyMEtvbmclMjBUb3BwbGVkJTIwQXRhcmklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MTM4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDA1JTNBMzQlM0E0NCUyMCUyQjAwMDA",
+      "title": "How Donkey Kong Toppled Atari",
+      "pubDate": "Thu, 09 Jul 2026 05:34:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25uZWN0c2NpLmF1JTJGbmV3cyUyRm5ld3MtcGFyZW50JTJGOTcwMyUyRlNwaWRlci12ZW5vbS1raWxscy12YXJyb2EtbWl0ZXMtd2l0aG91dC1oYXJtaW5nJTdDaHR0cHMlM0ElMkYlMkZjb25uZWN0c2NpLmF1JTJGbmV3cyUyRm5ld3MtcGFyZW50JTJGOTcwMyUyRlNwaWRlci12ZW5vbS1raWxscy12YXJyb2EtbWl0ZXMtd2l0aG91dC1oYXJtaW5nJTdDU3BpZGVyJTIwdmVub20lMjBraWxscyUyMHZhcnJvYSUyMG1pdGVzJTIwd2l0aG91dCUyMGhhcm1pbmclMjBob25leWJlZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MTI1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDA1JTNBMTQlM0E0NSUyMCUyQjAwMDA",
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "pubDate": "Thu, 09 Jul 2026 05:14:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
     }
   ]
