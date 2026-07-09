@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 20,
-    "generatedAt": "2026-07-08T17:54:17.737Z"
+    "itemCount": 35,
+    "generatedAt": "2026-07-09T04:16:49.106Z"
   },
   "items": [
     {
@@ -126,6 +126,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDclMkZhcHBsZS10by1pbmNyZWFzZS1zcGVuZC13aXRoLWJyb2FkY29tLXRvLXByb2R1Y2UtYmlsbGlvbnMtbW9yZS11cy1jaGlwcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRjA3JTJGYXBwbGUtdG8taW5jcmVhc2Utc3BlbmQtd2l0aC1icm9hZGNvbS10by1wcm9kdWNlLWJpbGxpb25zLW1vcmUtdXMtY2hpcHMlMkYlN0NBcHBsZSUyMHRvJTIwaW5jcmVhc2UlMjBzcGVuZCUyMHdpdGglMjBCcm9hZGNvbSUyMHRvJTIwcHJvZHVjZSUyMGJpbGxpb25zJTIwbW9yZSUyMFUuUy4lMjBjaGlwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODMwNTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTElM0EzMCUzQTU2JTIwJTJCMDAwMA",
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "pubDate": "Wed, 08 Jul 2026 11:30:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmpvaG4tZGVlcmUtcmlnaHQtdG8tcmVwYWlyLWFncmljdWx0dXJlLWVxdWlwbWVudC1jYjc1MTRmZmVkYjk1YzEzMGE5NzZhZjY2MWYyYmMwMiU3Q2h0dHBzJTNBJTJGJTJGYXBuZXdzLmNvbSUyRmFydGljbGUlMkZqb2huLWRlZXJlLXJpZ2h0LXRvLXJlcGFpci1hZ3JpY3VsdHVyZS1lcXVpcG1lbnQtY2I3NTE0ZmZlZGI5NWMxMzBhOTc2YWY2NjFmMmJjMDIlN0NKb2huJTIwRGVlcmUlMjBvd25lcnMlMjB3aWxsJTIwZ2V0JTIwdGhlJTIwcmlnaHQlMjB0byUyMHJlcGFpciUyMGVxdWlwbWVudCUyMHVuZGVyJTIwRlRDJTIwc2V0dGxlbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM4ODc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMjMlM0EzNyUzQTQzJTIwJTJCMDAwMA",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "pubDate": "Wed, 08 Jul 2026 23:37:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHJ5YWkuZGV2JTJGYmxvZyUyRmdyb2stNC41LXZzLWdwdC01LjUtdnMtY2xhdWRlLWJ1aWxkLW9mZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRyeWFpLmRldiUyRmJsb2clMkZncm9rLTQuNS12cy1ncHQtNS41LXZzLWNsYXVkZS1idWlsZC1vZmYlN0NXZSUyMG1hZGUlMjBHcm9rJTIwNC41JTJDJTIwR1BULTUuNSUyQyUyMGFuZCUyMENsYXVkZSUyMGJ1aWxkJTIwdGhlJTIwc2FtZSUyMGFwcHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzODc3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDIzJTNBMjclM0ExNCUyMCUyQjAwMDA",
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "pubDate": "Wed, 08 Jul 2026 23:27:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidW4uY29tJTJGYmxvZyUyRmJ1bi1pbi1ydXN0JTdDaHR0cHMlM0ElMkYlMkZidW4uY29tJTJGYmxvZyUyRmJ1bi1pbi1ydXN0JTdDUmV3cml0aW5nJTIwQnVuJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4Mzc4NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAyMSUzQTQ5JTNBNTklMjAlMkIwMDAw",
+      "title": "Rewriting Bun in Rust",
+      "pubDate": "Wed, 08 Jul 2026 21:49:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0YWJyaWNrcy5jb20lMkZibG9nJTJGYmVuY2htYXJraW5nLWNvZGluZy1hZ2VudHMtZGF0YWJyaWNrcy1tdWx0aS1taWxsaW9uLWxpbmUtY29kZWJhc2UlN0NodHRwcyUzQSUyRiUyRnd3dy5kYXRhYnJpY2tzLmNvbSUyRmJsb2clMkZiZW5jaG1hcmtpbmctY29kaW5nLWFnZW50cy1kYXRhYnJpY2tzLW11bHRpLW1pbGxpb24tbGluZS1jb2RlYmFzZSU3Q0JlbmNobWFya2luZyUyMGNvZGluZyUyMGFnZW50cyUyMG9uJTIwRGF0YWJyaWNrcyclMjBtdWx0aS1taWxsaW9uJTIwbGluZSUyMGNvZGViYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4Mzc2OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAyMSUzQTMwJTNBMDklMjAlMkIwMDAw",
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "pubDate": "Wed, 08 Jul 2026 21:30:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzZXBhcmF0aW5nLXNpZ25hbC1mcm9tLW5vaXNlLWNvZGluZy1ldmFsdWF0aW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGc2VwYXJhdGluZy1zaWduYWwtZnJvbS1ub2lzZS1jb2RpbmctZXZhbHVhdGlvbnMlMkYlN0NTZXBhcmF0aW5nJTIwc2lnbmFsJTIwZnJvbSUyMG5vaXNlJTIwaW4lMjBjb2RpbmclMjBldmFsdWF0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM3Mzk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMjElM0EwMyUzQTUxJTIwJTJCMDAwMA",
+      "title": "Separating signal from noise in coding evaluations",
+      "pubDate": "Wed, 08 Jul 2026 21:03:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbGludXhyZWJlbCUyRkRvY3VCcm93c2VyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbGludXhyZWJlbCUyRkRvY3VCcm93c2VyJTdDVHVybmluZyUyMGElMjBwaWxlJTIwb2YlMjBkb2N1bWVudHMlMjBpbnRvJTIwYSUyMHNlYXJjaGFibGUlMjB1c2VhYmxlJTIwa25vd2xlZGdlJTIwYmFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM3MTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMjAlM0EzNyUzQTI5JTIwJTJCMDAwMA",
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "pubDate": "Wed, 08 Jul 2026 20:37:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWJleWsuY29tJTJGZXNjYXBlLXRoZS1yYXQtcmFjZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFiZXlrLmNvbSUyRmVzY2FwZS10aGUtcmF0LXJhY2UlMkYlN0NGQUFORyUyMFNpbXVsYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM2Nzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMjAlM0EwNSUzQTQyJTIwJTJCMDAwMA",
+      "title": "FAANG Simulator",
+      "pubDate": "Wed, 08 Jul 2026 20:05:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRnRyYXZlbCUyRmFydGljbGUlMkYyMDI2MDYyOS1uZXctc3dlZGVuLXRoZS11c3MtbG9uZy1sb3N0LXNlY3JldC1jb2xvbnklN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGdHJhdmVsJTJGYXJ0aWNsZSUyRjIwMjYwNjI5LW5ldy1zd2VkZW4tdGhlLXVzcy1sb25nLWxvc3Qtc2VjcmV0LWNvbG9ueSU3Q05ldyUyMFN3ZWRlbiUzQSUyMHRoZSUyMFVTJ3MlMjBsb25nLWxvc3QlMjAnc2VjcmV0JyUyMGNvbG9ueSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM2MzI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTklM0EyNiUzQTE4JTIwJTJCMDAwMA",
+      "title": "New Sweden: the US's long-lost 'secret' colony",
+      "pubDate": "Wed, 08 Jul 2026 19:26:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2xvdWRmbGFyZS5jb20lMkZkcm9wJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2xvdWRmbGFyZS5jb20lMkZkcm9wJTJGJTdDQ2xvdWRmbGFyZSUyMERyb3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzNjIzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE5JTNBMTglM0EyNiUyMCUyQjAwMDA",
+      "title": "Cloudflare Drop",
+      "pubDate": "Wed, 08 Jul 2026 19:18:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bS5vcGVubWFuZHJpdmEub3JnJTJGdCUyRnN0YXRlbWVudC1yZWdhcmRpbmctYXR0ZW1wdGVkLWRpc3RyaWJ1dGlvbi1zYWJvdGFnZSUyRjg5OTclN0NodHRwcyUzQSUyRiUyRmZvcnVtLm9wZW5tYW5kcml2YS5vcmclMkZ0JTJGc3RhdGVtZW50LXJlZ2FyZGluZy1hdHRlbXB0ZWQtZGlzdHJpYnV0aW9uLXNhYm90YWdlJTJGODk5NyU3Q09wZW5NYW5kcml2YSUzQSUyMFN0YXRlbWVudCUyMHJlZ2FyZGluZyUyMGF0dGVtcHRlZCUyMGRpc3RyaWJ1dGlvbiUyMHNhYm90YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzU0MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAxOCUzQTIxJTNBNTMlMjAlMkIwMDAw",
+      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "pubDate": "Wed, 08 Jul 2026 18:21:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4LmFpJTJGbmV3cyUyRmdyb2stNC01JTdDaHR0cHMlM0ElMkYlMkZ4LmFpJTJGbmV3cyUyRmdyb2stNC01JTdDR3JvayUyMDQuNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM1MTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTglM0EwMCUzQTMyJTIwJTJCMDAwMA",
+      "title": "Grok 4.5",
+      "pubDate": "Wed, 08 Jul 2026 18:00:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuZ2l0aHViLmlvJTJGZmxpbnQtY2hhcnQlMkYlMjMlMkYlN0NodHRwcyUzQSUyRiUyRm1pY3Jvc29mdC5naXRodWIuaW8lMkZmbGludC1jaGFydCUyRiUyMyUyRiU3Q1Nob3clMjBITiUzQSUyME1pY3Jvc29mdCUyMHJlbGVhc2VzJTIwRmxpbnQlMkMlMjBhJTIwdmlzdWFsaXphdGlvbiUyMGxhbmd1YWdlJTIwZm9yJTIwQUklMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzNDkyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE3JTNBNDYlM0ExMiUyMCUyQjAwMDA",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "pubDate": "Wed, 08 Jul 2026 17:46:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG1hbnMuZGV2JTJGYmxvZyUyRmNoYXR0by1pcy1vcGVuLXNvdXJjZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhtYW5zLmRldiUyRmJsb2clMkZjaGF0dG8taXMtb3Blbi1zb3VyY2UlN0NDaGF0dG8lMjBpcyUyMG5vdyUyMG9wZW4lMjBzb3VyY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMzExNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE1JTNBMTklM0E1MCUyMCUyQjAwMDA",
+      "title": "Chatto is now open source",
+      "pubDate": "Wed, 08 Jul 2026 15:19:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMDclMkZhLWJ1Zy13aGljaC1vbmx5LWFmZmVjdGVkLWxlZnQtaGFuZGVkLXVzZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMDclMkZhLWJ1Zy13aGljaC1vbmx5LWFmZmVjdGVkLWxlZnQtaGFuZGVkLXVzZXJzJTJGJTdDQSUyMGJ1ZyUyMHdoaWNoJTIwYWZmZWN0ZWQlMjBvbmx5JTIwbGVmdCUyMGhhbmRlZCUyMHVzZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzE1ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAxMyUzQTIwJTNBMDUlMjAlMkIwMDAw",
+      "title": "A bug which affected only left handed users",
+      "pubDate": "Wed, 08 Jul 2026 13:20:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJpb3QuY2glMkZjb21wdXRhdGlvbiUyRnV0czM1JTJGJTdDaHR0cHMlM0ElMkYlMkZzZXJpb3QuY2glMkZjb21wdXRhdGlvbiUyRnV0czM1JTJGJTdDVW5pY29kZSdzJTIwdHJhbnNsaXRlcmF0aW9uJTIwcnVsZXMlMjBhcmUlMjBUdXJpbmctY29tcGxldGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyOTc5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDA5JTNBNDQlM0EyMCUyMCUyQjAwMDA",
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "pubDate": "Wed, 08 Jul 2026 09:44:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]
