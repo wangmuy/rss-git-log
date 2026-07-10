@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-06",
     "newestItemDate": "2026-07-06",
-    "itemCount": 57,
-    "generatedAt": "2026-07-09T18:13:08.928Z"
+    "itemCount": 62,
+    "generatedAt": "2026-07-10T04:28:13.269Z"
   },
   "items": [
     {
@@ -348,6 +348,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNyUyRjA1JTJGd2hhdC1pcy1iZW5kaW5nLXNwb29ucy1ldmVyeXRoaW5nLXRvLWtub3ctYWJvdXQtYW9scy1hY3F1aXJlciUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDclMkYwNSUyRndoYXQtaXMtYmVuZGluZy1zcG9vbnMtZXZlcnl0aGluZy10by1rbm93LWFib3V0LWFvbHMtYWNxdWlyZXIlMkYlN0NXaGF0JTIwaXMlMjBCZW5kaW5nJTIwU3Bvb25zJTNGJTIwVGhlJTIwbGl0dGxlLWtub3duJTIwQU9MJTIwYW5kJTIwVmltZW8lMjBvd25lciUyMHRoYXQncyUyMG5vdyUyMHB1YmxpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk5OTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMDIlM0ExMyUzQTM1JTIwJTJCMDAwMA",
       "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
       "pubDate": "Mon, 06 Jul 2026 02:13:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYWhsYS5kZXYlMkZibG9nJTJGd2FpdGZyZWVfcXVldWUlMkYlN0NodHRwcyUzQSUyRiUyRm5haGxhLmRldiUyRmJsb2clMkZ3YWl0ZnJlZV9xdWV1ZSUyRiU3Q0dpcmxzJTIwanVzdCUyMHdhbm5hJTIwaGF2ZSUyMGZhc3QlMjBNUE1DJTIwcXVldWVzJTIwd2l0aCUyMGJvdW5kZWQlMjB3YWl0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MDk1NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAxOSUzQTQ2JTNBMzAlMjAlMkIwMDAw",
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "pubDate": "Mon, 06 Jul 2026 19:46:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQubmV0JTJGaGF6YXJkLXJhdGlvcyUyRiU3Q2h0dHBzJTNBJTJGJTJGZHlub21pZ2h0Lm5ldCUyRmhhemFyZC1yYXRpb3MlMkYlN0NMaWZlJTIwd2l0aCUyMEhhemFyZCUyMFJhdGlvcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODA2MzA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMTUlM0E0NSUzQTUwJTIwJTJCMDAwMA",
+      "title": "Life with Hazard Ratios",
+      "pubDate": "Mon, 06 Jul 2026 15:45:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwNyUyRjA2JTJGYXBwbGUtc2lsaWNvbi1leGVjLWV4cGxhaW5zLW1hYy1taW5pLWFpLWRlbWFuZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hY3J1bW9ycy5jb20lMkYyMDI2JTJGMDclMkYwNiUyRmFwcGxlLXNpbGljb24tZXhlYy1leHBsYWlucy1tYWMtbWluaS1haS1kZW1hbmQlMkYlN0NBcHBsZSUyMFNpbGljb24lMjBFeGVjJTIwRXhwbGFpbnMlMjBNYWMlMjBNaW5pJTIwQUklMjBEZW1hbmQlMjBhbmQlMjBPbi1EZXZpY2UlMjBGdXR1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwNTU5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDE0JTNBNTklM0EyMSUyMCUyQjAwMDA",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "pubDate": "Mon, 06 Jul 2026 14:59:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXVsYm91cmtlLm5ldCUyRmZyYWN0YWxzJTJGdHJpcGxlZHJhZ29uJTJGJTdDaHR0cHMlM0ElMkYlMkZwYXVsYm91cmtlLm5ldCUyRmZyYWN0YWxzJTJGdHJpcGxlZHJhZ29uJTJGJTdDVHJpcGxlJTIwRHJhZ29uJTIwRnJhY3RhbCUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODA0NDAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMTMlM0EzNiUzQTU4JTIwJTJCMDAwMA",
+      "title": "Triple Dragon Fractal (2020)",
+      "pubDate": "Mon, 06 Jul 2026 13:36:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGlzLWJ1cmllZC1hcHBsZS1mZWF0dXJlLXR1cm5zLWFuLWlwaG9uZS1pbnRvLXRoZS1wZXJmZWN0LWtpZHMtZHVtYi1waG9uZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGdGhpcy1idXJpZWQtYXBwbGUtZmVhdHVyZS10dXJucy1hbi1pcGhvbmUtaW50by10aGUtcGVyZmVjdC1raWRzLWR1bWItcGhvbmUlMkYlN0NCdXJpZWQlMjBBcHBsZSUyMGZlYXR1cmUlMjB0dXJucyUyMGFuJTIwaVBob25lJTIwaW50byUyMHRoZSUyMHBlcmZlY3QlMjBraWRzJyUyMGR1bWIlMjBwaG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODAzMDA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMTAlM0E1MyUzQTUxJTIwJTJCMDAwMA",
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+      "pubDate": "Mon, 06 Jul 2026 10:53:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-07",
     "newestItemDate": "2026-07-07",
-    "itemCount": 44,
-    "generatedAt": "2026-07-09T11:21:25.469Z"
+    "itemCount": 45,
+    "generatedAt": "2026-07-10T04:28:13.268Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXV0b3BpYW4uY29tJTJGaS1iZXQtbXktY29tcGFueS1vbi1hbi1pbXBvc3NpYmxlLWplZXAtYnVpbGQtdGhlbi1hLW1pcmFjbGUtaGFwcGVuZWQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVhdXRvcGlhbi5jb20lMkZpLWJldC1teS1jb21wYW55LW9uLWFuLWltcG9zc2libGUtamVlcC1idWlsZC10aGVuLWEtbWlyYWNsZS1oYXBwZW5lZCUyRiU3Q0klMjBCdWlsdCUyMHRoZSUyME9ubHklMjAyMDI2JTIwV1dJSSUyMEplZXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxNDAyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDA1JTNBMzglM0EyNiUyMCUyQjAwMDA",
       "title": "I Built the Only 2026 WWII Jeep",
       "pubDate": "Tue, 07 Jul 2026 05:38:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWJhc2lzaGcuZ2l0aHViLmlvJTJGYmxvZyUyRnBhcnQxLWNhY2hlLWNvbnNjaW91cy1kYXRhLWxheW91dC1pbi1ydXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZkZWJhc2lzaGcuZ2l0aHViLmlvJTJGYmxvZyUyRnBhcnQxLWNhY2hlLWNvbnNjaW91cy1kYXRhLWxheW91dC1pbi1ydXN0JTJGJTdDQ2FjaGUtQ29uc2Npb3VzJTIwRGF0YSUyMExheW91dCUyMGluJTIwUnVzdCUzQSUyMEZpZWxkJTIwWm9uaW5nJTJDJTIwRmFsc2UlMjBTaGFyaW5nJTJDJTIwMTI4LUJ5dGUlMjBSdWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTMyMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAwMyUzQTAxJTNBMDMlMjAlMkIwMDAw",
+      "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+      "pubDate": "Tue, 07 Jul 2026 03:01:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
     }
   ]
