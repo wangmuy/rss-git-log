@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-10",
     "newestItemDate": "2026-07-10",
-    "itemCount": 5,
-    "generatedAt": "2026-07-10T04:28:13.268Z"
+    "itemCount": 8,
+    "generatedAt": "2026-07-10T11:21:31.704Z"
   },
   "items": [
     {
@@ -35,6 +35,24 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGam91cm5hbHMlMkZwc3ljaG9sb2d5JTJGYXJ0aWNsZXMlMkYxMC4zMzg5JTJGZnBzeWcuMjAyNi4xNzY2NjY1JTJGZnVsbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZyb250aWVyc2luLm9yZyUyRmpvdXJuYWxzJTJGcHN5Y2hvbG9neSUyRmFydGljbGVzJTJGMTAuMzM4OSUyRmZwc3lnLjIwMjYuMTc2NjY2NSUyRmZ1bGwlN0NTdHVkeSUzQSUyMCUyMk1vbW15JTJDJTIwZG8lMjB5b3UlMjBsb3ZlJTIweW91ciUyMHBob25lJTIwbW9yZSUyMHRoYW4lMjBtZSUzRiUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU0MjQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMDAlM0EyMCUzQTI4JTIwJTJCMDAwMA",
       "title": "Study: \"Mommy, do you love your phone more than me?\"",
+      "pubDate": "Fri, 10 Jul 2026 00:20:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnl1bW15bWVsb24uY29tJTJGZGV2bnVsbCUyRmluLWVtYWNzLWV2ZXJ5dGhpbmctbG9va3MtbGlrZS1hLXNlcnZpY2UuaHRtbCU3Q2h0dHAlM0ElMkYlMkZ5dW1teW1lbG9uLmNvbSUyRmRldm51bGwlMkZpbi1lbWFjcy1ldmVyeXRoaW5nLWxvb2tzLWxpa2UtYS1zZXJ2aWNlLmh0bWwlN0NJbiUyMEVtYWNzJTJDJTIwRXZlcnl0aGluZyUyMExvb2tzJTIwTGlrZSUyMGElMjBTZXJ2aWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NTcyMzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAwOCUzQTIxJTNBMTAlMjAlMkIwMDAw",
+      "title": "In Emacs, Everything Looks Like a Service",
+      "pubDate": "Fri, 10 Jul 2026 08:21:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXZvLXByb2plY3QuZXBmbC5jaCUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV2by1wcm9qZWN0LmVwZmwuY2glMkYlN0NBSS1nZW5lcmF0ZWQlMjB2aWRlb3MlMjB0byUyMG1heGltYWxseSUyMGRyaXZlJTIwYSUyMHRhcmdldCUyMGJyYWluJTIwcmVnaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NTY5MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAwNyUzQTM5JTNBMTElMjAlMkIwMDAw",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "pubDate": "Fri, 10 Jul 2026 07:39:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGam91cm5hbHMlMkZwc3ljaG9sb2d5JTJGYXJ0aWNsZXMlMkYxMC4zMzg5JTJGZnBzeWcuMjAyNi4xNzY2NjY1JTJGZnVsbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZyb250aWVyc2luLm9yZyUyRmpvdXJuYWxzJTJGcHN5Y2hvbG9neSUyRmFydGljbGVzJTJGMTAuMzM4OSUyRmZwc3lnLjIwMjYuMTc2NjY2NSUyRmZ1bGwlN0NQYXJlbnRhbCUyMGRldmljZSUyMHVzZSUyMGFuZCUyMHRoZSUyMGFkb2xlc2NlbnQtY2FyZWdpdmVyJTIwYXR0YWNobWVudCUyMGJvbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg1NDI0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDAwJTNBMjAlM0EyOCUyMCUyQjAwMDA",
+      "title": "Parental device use and the adolescent-caregiver attachment bond",
       "pubDate": "Fri, 10 Jul 2026 00:20:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
     }

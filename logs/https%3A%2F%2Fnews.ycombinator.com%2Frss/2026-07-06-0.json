@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-06",
     "newestItemDate": "2026-07-06",
-    "itemCount": 62,
-    "generatedAt": "2026-07-10T04:28:13.269Z"
+    "itemCount": 66,
+    "generatedAt": "2026-07-10T11:21:31.705Z"
   },
   "items": [
     {
@@ -378,6 +378,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGlzLWJ1cmllZC1hcHBsZS1mZWF0dXJlLXR1cm5zLWFuLWlwaG9uZS1pbnRvLXRoZS1wZXJmZWN0LWtpZHMtZHVtYi1waG9uZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGdGhpcy1idXJpZWQtYXBwbGUtZmVhdHVyZS10dXJucy1hbi1pcGhvbmUtaW50by10aGUtcGVyZmVjdC1raWRzLWR1bWItcGhvbmUlMkYlN0NCdXJpZWQlMjBBcHBsZSUyMGZlYXR1cmUlMjB0dXJucyUyMGFuJTIwaVBob25lJTIwaW50byUyMHRoZSUyMHBlcmZlY3QlMjBraWRzJyUyMGR1bWIlMjBwaG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODAzMDA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDYlMjBKdWwlMjAyMDI2JTIwMTAlM0E1MyUzQTUxJTIwJTJCMDAwMA",
       "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
       "pubDate": "Mon, 06 Jul 2026 10:53:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnNtYWxsZGF0dW0uYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjAxJTJGY29tbW9uLXByZWZpeC1za2lwcGluZy1hZGFwdGl2ZS1zb3J0Lmh0bWwlN0NodHRwJTNBJTJGJTJGc21hbGxkYXR1bS5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDElMkZjb21tb24tcHJlZml4LXNraXBwaW5nLWFkYXB0aXZlLXNvcnQuaHRtbCU3Q0NvbW1vbiUyMHByZWZpeCUyMHNraXBwaW5nJTJDJTIwYWRhcHRpdmUlMjBzb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTAyMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNiUyMEp1bCUyMDIwMjYlMjAyMCUzQTQwJTNBMTQlMjAlMkIwMDAw",
+      "title": "Common prefix skipping, adaptive sort",
+      "pubDate": "Mon, 06 Jul 2026 20:40:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3J1dGNoZmllbGQuY29tJTJGUy1sczY3T2l2YTRXdSUyRmxlYXJuJTJGY3J1dGNoZmllbGQtdmlzaXRzLWhhcm1hbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3J1dGNoZmllbGQuY29tJTJGUy1sczY3T2l2YTRXdSUyRmxlYXJuJTJGY3J1dGNoZmllbGQtdmlzaXRzLWhhcm1hbi5odG1sJTdDSGFybWFuJTIwYW5kJTIwRHIuJTIwU2VhbiUyME9saXZlJTIwYXJlJTIwcmVzaGFwaW5nJTIwaGVhZHBob25lJTIwc291bmQlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwNTM1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDE0JTNBNDIlM0EzNSUyMCUyQjAwMDA",
+      "title": "Harman and Dr. Sean Olive are reshaping headphone sound (2025)",
+      "pubDate": "Mon, 06 Jul 2026 14:42:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5qYW1pbnRvbGwuY29tJTJGMjAyNiUyRjA2JTJGMjklMkZvbi1kaXRjaGluZy12YWdyYW50JTJGJTdDaHR0cHMlM0ElMkYlMkZiZW5qYW1pbnRvbGwuY29tJTJGMjAyNiUyRjA2JTJGMjklMkZvbi1kaXRjaGluZy12YWdyYW50JTJGJTdDRGl0Y2hpbmclMjBWYWdyYW50JTNBJTIwVk1zJTIwd2l0aCUyMEtWTSUyMGFuZCUyMFZpcnNoJTIwb24lMjBEZWJpYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwNTM0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDE0JTNBNDIlM0EwNCUyMCUyQjAwMDA",
+      "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
+      "pubDate": "Mon, 06 Jul 2026 14:42:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWF0aXNoYiUyRnBhdHRlcm5jb2xsaWRlciU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFhdGlzaGIlMkZwYXR0ZXJuY29sbGlkZXIlN0NQYXR0ZXJuY29sbGlkZXIlM0ElMjBHZW5lcmF0ZSUyMGFuZCUyMGV4cGxvcmUlMjBxdWFzaXBlcmlvZGljJTIwdGlsaW5nJTIwcGF0dGVybnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgwMDkzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA2JTIwSnVsJTIwMjAyNiUyMDA1JTNBMjYlM0EyMiUyMCUyQjAwMDA",
+      "title": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
+      "pubDate": "Mon, 06 Jul 2026 05:26:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-06-0.json"
     }
   ]
