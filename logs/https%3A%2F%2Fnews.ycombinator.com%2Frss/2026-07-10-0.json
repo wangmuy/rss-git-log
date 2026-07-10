@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-10",
     "newestItemDate": "2026-07-10",
-    "itemCount": 8,
-    "generatedAt": "2026-07-10T11:21:31.704Z"
+    "itemCount": 24,
+    "generatedAt": "2026-07-10T18:04:27.421Z"
   },
   "items": [
     {
@@ -54,6 +54,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGam91cm5hbHMlMkZwc3ljaG9sb2d5JTJGYXJ0aWNsZXMlMkYxMC4zMzg5JTJGZnBzeWcuMjAyNi4xNzY2NjY1JTJGZnVsbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZyb250aWVyc2luLm9yZyUyRmpvdXJuYWxzJTJGcHN5Y2hvbG9neSUyRmFydGljbGVzJTJGMTAuMzM4OSUyRmZwc3lnLjIwMjYuMTc2NjY2NSUyRmZ1bGwlN0NQYXJlbnRhbCUyMGRldmljZSUyMHVzZSUyMGFuZCUyMHRoZSUyMGFkb2xlc2NlbnQtY2FyZWdpdmVyJTIwYXR0YWNobWVudCUyMGJvbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg1NDI0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDAwJTNBMjAlM0EyOCUyMCUyQjAwMDA",
       "title": "Parental device use and the adolescent-caregiver attachment bond",
       "pubDate": "Fri, 10 Jul 2026 00:20:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuemRuZXQuY29tJTJGaG9tZS1hbmQtb2ZmaWNlJTJGbmV0d29ya2luZyUyRnNwYWNleC13YW50cy10by1sYXVuY2gtMTAwMDAwLW1vcmUtc3Rhcmxpbmstc2F0ZWxsaXRlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnpkbmV0LmNvbSUyRmhvbWUtYW5kLW9mZmljZSUyRm5ldHdvcmtpbmclMkZzcGFjZXgtd2FudHMtdG8tbGF1bmNoLTEwMDAwMC1tb3JlLXN0YXJsaW5rLXNhdGVsbGl0ZXMlMkYlN0NTcGFjZVglMjB3YW50cyUyMHRvJTIwbGF1bmNoJTIwMTAwayUyMG1vcmUlMjBTdGFybGluayUyMHNhdGVsbGl0ZXMlMjAlRTIlODAlOTMlMjBmb3IlMjAxMDB4JTIwdGhlJTIwYmFuZHdpZHRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjMwNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAxNyUzQTUxJTNBMDclMjAlMkIwMDAw",
+      "title": "SpaceX wants to launch 100k more Starlink satellites – for 100x the bandwidth",
+      "pubDate": "Fri, 10 Jul 2026 17:51:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXN0cy5vc2dlby5vcmclMkZwaXBlcm1haWwlMkZxZ2lzLWRldmVsb3BlciUyRjIwMjYtSnVseSUyRjA2ODQzMC5odG1sJTdDaHR0cHMlM0ElMkYlMkZsaXN0cy5vc2dlby5vcmclMkZwaXBlcm1haWwlMkZxZ2lzLWRldmVsb3BlciUyRjIwMjYtSnVseSUyRjA2ODQzMC5odG1sJTdDQW55b25lJTIwZWxzZSUyMGdldCUyMGElMjB2YWd1ZSUyMEdpdEh1YiUyMHNoYWtlZG93biUyMG5vdGljZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYyNDY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTYlM0E1NyUzQTM1JTIwJTJCMDAwMA",
+      "title": "Anyone else get a vague GitHub shakedown notice?",
+      "pubDate": "Fri, 10 Jul 2026 16:57:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZnhibG9nLmNvbSUyRjIwMTclMkYwOCUyRjIzJTJGdGhlLXRlY2gtb2YtdGVybWluYXRvci0yLWFuLW9yYWwtaGlzdG9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGdmZ4YmxvZy5jb20lMkYyMDE3JTJGMDglMkYyMyUyRnRoZS10ZWNoLW9mLXRlcm1pbmF0b3ItMi1hbi1vcmFsLWhpc3RvcnklMkYlN0NUaGUlMjB0ZWNoJTIwb2YlMjAnVGVybWluYXRvciUyMDInJTIwJUUyJTgwJTkzJTIwYW4lMjBvcmFsJTIwaGlzdG9yeSUyMCgyMDE3KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYyMzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTYlM0E0OCUzQTQxJTIwJTJCMDAwMA",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "pubDate": "Fri, 10 Jul 2026 16:48:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc21hcnQtbmV3cyUyRnNwaWRlci1zaWxrLWxvc2VzLXRvcC1zcG90LW5hdHVyZXMtc3Ryb25nZXN0LW1hdGVyaWFsLXNuYWlscy10ZWV0aC0xODA5NTQzNDYlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZzbWFydC1uZXdzJTJGc3BpZGVyLXNpbGstbG9zZXMtdG9wLXNwb3QtbmF0dXJlcy1zdHJvbmdlc3QtbWF0ZXJpYWwtc25haWxzLXRlZXRoLTE4MDk1NDM0NiUyRiU3Q1NuYWlscyclMjBUZWV0aCUyMEJlYXRzJTIwU3BpZGVyJTIwU2lsayUyMGFzJTIwTmF0dXJlJ3MlMjBTdHJvbmdlc3QlMjBNYXRlcmlhbCUyMCgyMDE1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYyMjUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTYlM0EzNyUzQTUyJTIwJTJCMDAwMA",
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+      "pubDate": "Fri, 10 Jul 2026 16:37:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWljcm9jZW50ZXIuY29tJTJGc2l0ZSUyRm1jLW5ld3MlMkZhcnRpY2xlJTJGYW1kLXJ5emVuLWFpLWhhbG8tcmV2aWV3LmFzcHglN0NodHRwcyUzQSUyRiUyRnd3dy5taWNyb2NlbnRlci5jb20lMkZzaXRlJTJGbWMtbmV3cyUyRmFydGljbGUlMkZhbWQtcnl6ZW4tYWktaGFsby1yZXZpZXcuYXNweCU3Q0hhbmRzLU9uJTIwd2l0aCUyMHRoZSUyMEFNRCUyMFJ5emVuJTIwQUklMjBIYWxvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjE4MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAxNiUzQTA2JTNBMzglMjAlMkIwMDAw",
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "pubDate": "Fri, 10 Jul 2026 16:06:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZmdlZXJsaW5nLmNvbSUyRmJsb2clMkYyMDI2JTJGcXVhZHJmLWNhbi1zcG90LWRyb25lcy1hbmQtc2VlLXdpZmktdGhyb3VnaC1teS13YWxsJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamVmZmdlZXJsaW5nLmNvbSUyRmJsb2clMkYyMDI2JTJGcXVhZHJmLWNhbi1zcG90LWRyb25lcy1hbmQtc2VlLXdpZmktdGhyb3VnaC1teS13YWxsJTJGJTdDUXVhZFJGJTIwY2FuJTIwc3BvdCUyMGRyb25lcyUyMGFuZCUyMHNlZSUyMFdpRmklMjB0aHJvdWdoJTIwbXklMjB3YWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjE3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAxNSUzQTU5JTNBNTMlMjAlMkIwMDAw",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "pubDate": "Fri, 10 Jul 2026 15:59:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXNsZXlsYWkuaW5mbyUyRmVuJTJGZmxhc2hjYXJkcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVzbGV5bGFpLmluZm8lMkZlbiUyRmZsYXNoY2FyZHMlMkYlN0NBJTIwTG92ZSUyMExldHRlciUyMHRvJTIwRmxhc2hjYXJkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYxMzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTUlM0EzMCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "A Love Letter to Flashcards",
+      "pubDate": "Fri, 10 Jul 2026 15:30:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcmdvLm9yZyUyRmNvdXJzZXMlMkZjb21wdXRhdGlvbi1hcy1hLXVuaXZlcnNhbC1hbmQtZnVuZGFtZW50YWwtY29uY2VwdCU3Q2h0dHBzJTNBJTJGJTJGZXJnby5vcmclMkZjb3Vyc2VzJTJGY29tcHV0YXRpb24tYXMtYS11bml2ZXJzYWwtYW5kLWZ1bmRhbWVudGFsLWNvbmNlcHQlN0NDb21wdXRhdGlvbiUyMGFzJTIwYSUyMFVuaXZlcnNhbCUyMGFuZCUyMEZ1bmRhbWVudGFsJTIwQ29uY2VwdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYxMjEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTUlM0EyMyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Computation as a Universal and Fundamental Concept",
+      "pubDate": "Fri, 10 Jul 2026 15:23:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbG9ubGl0LmNvbSUyRnNjcml2aW5ncyUyRnRoZS1hbm5vdGF0ZWQtamVwYSUyRiU3Q2h0dHBzJTNBJTJGJTJGZWxvbmxpdC5jb20lMkZzY3JpdmluZ3MlMkZ0aGUtYW5ub3RhdGVkLWplcGElMkYlN0NUaGUlMjBBbm5vdGF0ZWQlMjBKRVBBJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NTk4MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAxMyUzQTQ1JTNBMDUlMjAlMkIwMDAw",
+      "title": "The Annotated JEPA",
+      "pubDate": "Fri, 10 Jul 2026 13:45:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN0YWNrLmlvJTJGd3JpdGUtY29kZS1saWtlLWEtaHVtYW4td2lsbC1tYWludGFpbi1pdCU3Q2h0dHBzJTNBJTJGJTJGdW5zdGFjay5pbyUyRndyaXRlLWNvZGUtbGlrZS1hLWh1bWFuLXdpbGwtbWFpbnRhaW4taXQlN0NXcml0ZSUyMGNvZGUlMjBsaWtlJTIwYSUyMGh1bWFuJTIwd2lsbCUyMG1haW50YWluJTIwaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg1OTcwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzMlM0EwMCUyMCUyQjAwMDA",
+      "title": "Write code like a human will maintain it",
+      "pubDate": "Fri, 10 Jul 2026 13:33:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYW5yZXBwZWwub3JnJTJGaG93LXN1Y2Nlc3NmdWwtY29tcGFuaWVzLWdvLWJsaW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZpYW5yZXBwZWwub3JnJTJGaG93LXN1Y2Nlc3NmdWwtY29tcGFuaWVzLWdvLWJsaW5kJTJGJTdDU3VjY2Vzc2Z1bCUyMENvbXBhbmllcyUyMEdvJTIwQmxpbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg1OTY3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzElM0EwOCUyMCUyQjAwMDA",
+      "title": "Successful Companies Go Blind",
+      "pubDate": "Fri, 10 Jul 2026 13:31:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm9iZXJ0c2RvdHBtJTJGcnVubG9vbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJvYmVydHNkb3RwbSUyRnJ1bmxvb20lN0NTaG93JTIwSE4lM0ElMjBSdW5sb29tJTIwJUUyJTgwJTkzJTIwR28tc3R5bGUlMjBjb3JvdXRpbmVzJTIwZm9yJTIwUHl0aG9uJTIwZnJlZS10aHJlYWRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU5Mzg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTMlM0EwNyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+      "pubDate": "Fri, 10 Jul 2026 13:07:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbGF5bG8lMkZqb2JzJTJGcWNlNDFEMi1oZWFkLW9mLWZpbmFuY2UlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZsYXlsbyUyRmpvYnMlMkZxY2U0MUQyLWhlYWQtb2YtZmluYW5jZSU3Q0xheWxvJTIwKFlDJTIwUzIwKSUyMElzJTIwSGlyaW5nJTIwYSUyMEhlYWQlMjBvZiUyMEZpbmFuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg1ODc0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDEyJTNBMDAlM0EzNiUyMCUyQjAwMDA",
+      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+      "pubDate": "Fri, 10 Jul 2026 12:00:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY291cC5ibG9nJTJGMjAyNiUyRjAxJTJGMzAlMkZjb2xsZWN0aW9ucy10aGUtbGF0ZS1icm9uemUtYWdlLWNvbGxhcHNlLWEtdmVyeS1icmllZi1pbnRyb2R1Y3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRmFjb3VwLmJsb2clMkYyMDI2JTJGMDElMkYzMCUyRmNvbGxlY3Rpb25zLXRoZS1sYXRlLWJyb256ZS1hZ2UtY29sbGFwc2UtYS12ZXJ5LWJyaWVmLWludHJvZHVjdGlvbiUyRiU3Q0xhdGUlMjBCcm9uemUlMjBBZ2UlMjBDb2xsYXBzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU4NzM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTElM0E1OSUzQTU1JTIwJTJCMDAwMA",
+      "title": "Late Bronze Age Collapse",
+      "pubDate": "Fri, 10 Jul 2026 11:59:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYy5ldXJvcGEuZXUlMkZjb21taXNzaW9uJTJGcHJlc3Njb3JuZXIlMkZob21lJTJGZW4lN0NodHRwcyUzQSUyRiUyRmVjLmV1cm9wYS5ldSUyRmNvbW1pc3Npb24lMkZwcmVzc2Nvcm5lciUyRmhvbWUlMkZlbiU3Q0VVJTIwQ29tbWlzc2lvbiUzQSUyMGFkZGljdGl2ZSUyMGRlc2lnbiUyMEluc3RhZ3JhbSUyMGFuZCUyMEZhY2Vib29rJTIwaW4lMjBicmVhY2glMjBvZiUyMHRoZSUyMERTQSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU4MjkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTElM0EwMCUzQTE1JTIwJTJCMDAwMA",
+      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "pubDate": "Fri, 10 Jul 2026 11:00:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2luZ2VyYmlsbC5vcmclMkZhcnRpY2xlJTJGMjAyNiUyRjA3JTJGMTAlMkZnb29kLXRvb2xzLWFyZS1pbnZpc2libGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5naW5nZXJiaWxsLm9yZyUyRmFydGljbGUlMkYyMDI2JTJGMDclMkYxMCUyRmdvb2QtdG9vbHMtYXJlLWludmlzaWJsZSUyRiU3Q0dvb2QlMjBUb29scyUyMEFyZSUyMEludmlzaWJsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU4MTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTAlM0EzMiUzQTQxJTIwJTJCMDAwMA",
+      "title": "Good Tools Are Invisible",
+      "pubDate": "Fri, 10 Jul 2026 10:32:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
     }
   ]
