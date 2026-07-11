@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-05",
     "newestItemDate": "2026-07-05",
-    "itemCount": 61,
-    "generatedAt": "2026-07-11T03:46:46.740Z"
+    "itemCount": 62,
+    "generatedAt": "2026-07-11T17:25:25.640Z"
   },
   "items": [
     {
@@ -372,6 +372,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb21idXN0aW9ubGFiLm5ldCU3Q2h0dHBzJTNBJTJGJTJGY29tYnVzdGlvbmxhYi5uZXQlMkYlN0NDb21idXN0aW9uJTIwZW5naW5lJTIwd2ViLWJhc2VkJTIwc2ltdWxhdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg3OTU5MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNSUyMEp1bCUyMDIwMjYlMjAxNyUzQTExJTNBMzglMjAlMkIwMDAw",
       "title": "Combustion engine web-based simulator",
       "pubDate": "Sun, 05 Jul 2026 17:11:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzdGRiLmNvbSUyRmJsb2clMkZqdm0taml0LWtub3duLWJpdHMlMkYlN0NodHRwcyUzQSUyRiUyRnF1ZXN0ZGIuY29tJTJGYmxvZyUyRmp2bS1qaXQta25vd24tYml0cyUyRiU3Q1RoZSUyMG1hc2slMjB0aGF0JTIwY29tcGlsZXMlMjB0byUyMG5vdGhpbmclM0ElMjBob3clMjBIb3RTcG90cyUyMEpJVCUyMGxlYXJuZWQlMjB0byUyMHJlYXNvbiUyMGFib3V0JTIwYml0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzk4NTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDUlMjBKdWwlMjAyMDI2JTIwMjIlM0EzMyUzQTA4JTIwJTJCMDAwMA",
+      "title": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "pubDate": "Sun, 05 Jul 2026 22:33:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-05-0.json"
     }
   ]
