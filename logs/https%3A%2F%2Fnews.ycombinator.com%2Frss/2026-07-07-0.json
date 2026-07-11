@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-07",
     "newestItemDate": "2026-07-07",
-    "itemCount": 45,
-    "generatedAt": "2026-07-10T04:28:13.268Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-11T03:46:46.739Z"
   },
   "items": [
     {
@@ -276,6 +276,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZWJhc2lzaGcuZ2l0aHViLmlvJTJGYmxvZyUyRnBhcnQxLWNhY2hlLWNvbnNjaW91cy1kYXRhLWxheW91dC1pbi1ydXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZkZWJhc2lzaGcuZ2l0aHViLmlvJTJGYmxvZyUyRnBhcnQxLWNhY2hlLWNvbnNjaW91cy1kYXRhLWxheW91dC1pbi1ydXN0JTJGJTdDQ2FjaGUtQ29uc2Npb3VzJTIwRGF0YSUyMExheW91dCUyMGluJTIwUnVzdCUzQSUyMEZpZWxkJTIwWm9uaW5nJTJDJTIwRmFsc2UlMjBTaGFyaW5nJTJDJTIwMTI4LUJ5dGUlMjBSdWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTMyMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAwMyUzQTAxJTNBMDMlMjAlMkIwMDAw",
       "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
       "pubDate": "Tue, 07 Jul 2026 03:01:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGVwaG5ldXJvLmNvbSUyRmJsb2clMkZzaWxlbnQtc3BlZWNoJTdDaHR0cHMlM0ElMkYlMkZhbGVwaG5ldXJvLmNvbSUyRmJsb2clMkZzaWxlbnQtc3BlZWNoJTdDU2lsZW50JTIwc3BlZWNoJTIwd2l0aCUyMHVsdHJhc291bmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyNTIxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDIzJTNBMDYlM0EwOSUyMCUyQjAwMDA",
+      "title": "Silent speech with ultrasound",
+      "pubDate": "Tue, 07 Jul 2026 23:06:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaXJvaC5jb21wdXRlciUyRmJsb2clMkZhbi1pcm9oLXBvd2VyZWQtc21hcnQtZmFuJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaXJvaC5jb21wdXRlciUyRmJsb2clMkZhbi1pcm9oLXBvd2VyZWQtc21hcnQtZmFuJTdDQW4lMjBpcm9oJTIwcG93ZXJlZCUyMHNtYXJ0JTIwZmFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTc1MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAxMyUzQTMwJTNBMTclMjAlMkIwMDAw",
+      "title": "An iroh powered smart fan",
+      "pubDate": "Tue, 07 Jul 2026 13:30:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW1vLnhpYW9taS5jb20lMkZibG9nJTJGbWltby12Mi01LWluZmVyZW5jZSU3Q2h0dHBzJTNBJTJGJTJGbWltby54aWFvbWkuY29tJTJGYmxvZyUyRm1pbW8tdjItNS1pbmZlcmVuY2UlN0NJbmZlcmVuY2UlMjBPcHRpbWl6YXRpb24lMjBmb3IlMjBNaU1vJTIwdjIuNSUzQSUyMFB1c2hpbmclMjBIeWJyaWQlMjBTV0ElMjBFZmZpY2llbmN5JTIwdG8lMjB0aGUlMjBMaW1pdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODE0MTcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMDYlM0EwNiUzQTI1JTIwJTJCMDAwMA",
+      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "pubDate": "Tue, 07 Jul 2026 06:06:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFsZXhiZWFscy5jb20lMkZwb3N0cyUyRnRoZS1mb290Z3VuLW9mLXJpZ2h0LXRvLWxlZnQtZGVjb3JhdGl2ZS1jaGFyYWN0ZXJzJTdDaHR0cHMlM0ElMkYlMkZibG9nLmFsZXhiZWFscy5jb20lMkZwb3N0cyUyRnRoZS1mb290Z3VuLW9mLXJpZ2h0LXRvLWxlZnQtZGVjb3JhdGl2ZS1jaGFyYWN0ZXJzJTdDVGhlJTIwZm9vdGd1biUyMG9mJTIwcmlnaHQtdG8tbGVmdCUyMGRlY29yYXRpdmUlMjBjaGFyYWN0ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTMyNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAwMyUzQTA0JTNBNDYlMjAlMkIwMDAw",
+      "title": "The footgun of right-to-left decorative characters",
+      "pubDate": "Tue, 07 Jul 2026 03:04:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
     }
   ]

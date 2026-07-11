@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 35,
-    "generatedAt": "2026-07-09T04:16:49.106Z"
+    "itemCount": 36,
+    "generatedAt": "2026-07-11T03:46:46.739Z"
   },
   "items": [
     {
@@ -216,6 +216,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzZXJpb3QuY2glMkZjb21wdXRhdGlvbiUyRnV0czM1JTJGJTdDaHR0cHMlM0ElMkYlMkZzZXJpb3QuY2glMkZjb21wdXRhdGlvbiUyRnV0czM1JTJGJTdDVW5pY29kZSdzJTIwdHJhbnNsaXRlcmF0aW9uJTIwcnVsZXMlMjBhcmUlMjBUdXJpbmctY29tcGxldGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyOTc5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDA5JTNBNDQlM0EyMCUyMCUyQjAwMDA",
       "title": "Unicode's transliteration rules are Turing-complete",
       "pubDate": "Wed, 08 Jul 2026 09:44:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdmsuY2ElMkZCbG9nJTJGMjAxOSUyRjAxJTJGMDklMkZwcmVlbXB0aW9uLWlzLWdjLWZvci1tZW1vcnktcmVvcmRlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHZrLmNhJTJGQmxvZyUyRjIwMTklMkYwMSUyRjA5JTJGcHJlZW1wdGlvbi1pcy1nYy1mb3ItbWVtb3J5LXJlb3JkZXJpbmclMkYlN0NQcmVlbXB0aW9uJTIwaXMlMjBHQyUyMGZvciUyMG1lbW9yeSUyMHJlb3JkZXJpbmclMjAoMjAxOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMTgxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDEzJTNBMzglM0EwNCUyMCUyQjAwMDA",
+      "title": "Preemption is GC for memory reordering (2019)",
+      "pubDate": "Wed, 08 Jul 2026 13:38:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]

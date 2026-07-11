@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-10",
     "newestItemDate": "2026-07-10",
-    "itemCount": 24,
-    "generatedAt": "2026-07-10T18:04:27.421Z"
+    "itemCount": 38,
+    "generatedAt": "2026-07-11T03:46:46.739Z"
   },
   "items": [
     {
@@ -150,6 +150,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2luZ2VyYmlsbC5vcmclMkZhcnRpY2xlJTJGMjAyNiUyRjA3JTJGMTAlMkZnb29kLXRvb2xzLWFyZS1pbnZpc2libGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5naW5nZXJiaWxsLm9yZyUyRmFydGljbGUlMkYyMDI2JTJGMDclMkYxMCUyRmdvb2QtdG9vbHMtYXJlLWludmlzaWJsZSUyRiU3Q0dvb2QlMjBUb29scyUyMEFyZSUyMEludmlzaWJsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU4MTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTAlM0EzMiUzQTQxJTIwJTJCMDAwMA",
       "title": "Good Tools Are Invisible",
       "pubDate": "Fri, 10 Jul 2026 10:32:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJvd24uZWR1JTJGbmV3cyUyRjIwMjYtMDctMDklMkZjaGVtaWNhbC1ib25kcy1yZWxhdGl2aXR5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnJvd24uZWR1JTJGbmV3cyUyRjIwMjYtMDctMDklMkZjaGVtaWNhbC1ib25kcy1yZWxhdGl2aXR5JTdDRWluc3RlaW4ncyUyMHJlbGF0aXZpdHklMjBydWxlcyUyMGNoZW1pY2FsJTIwYm9uZHMlMjBpbiUyMGhlYXZ5JTIwZWxlbWVudHMlMkMlMjBuZXclMjByZXNlYXJjaCUyMHNob3dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjYxMzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAyMiUzQTMwJTNBNDQlMjAlMkIwMDAw",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "pubDate": "Fri, 10 Jul 2026 22:30:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbW9zcyUyRmpvYnMlMkY1MkxucUxRLXNvZnR3YXJlLWVuZ2luZWVyLXNkayU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRm1vc3MlMkZqb2JzJTJGNTJMbnFMUS1zb2Z0d2FyZS1lbmdpbmVlci1zZGslN0NNb3NzJTIwKFlDJTIwRjI1KSUyMElzJTIwSGlyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjUzMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAyMSUzQTExJTNBMTglMjAlMkIwMDAw",
+      "title": "Moss (YC F25) Is Hiring",
+      "pubDate": "Fri, 10 Jul 2026 21:11:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY5dG81bWFjLmNvbSUyRjIwMjYlMkYwNyUyRjEwJTJGYXBwbGUtc3Vlcy1vcGVuYWktdHJhZGUtc2VjcmV0LXRoZWZ0JTJGJTdDaHR0cHMlM0ElMkYlMkY5dG81bWFjLmNvbSUyRjIwMjYlMkYwNyUyRjEwJTJGYXBwbGUtc3Vlcy1vcGVuYWktdHJhZGUtc2VjcmV0LXRoZWZ0JTJGJTdDQXBwbGUlMjBzdWVzJTIwT3BlbkFJJTJDJTIwYWNjdXNlcyUyMGV4LWVtcGxveWVlcyUyMG9mJTIwc3RlYWxpbmclMjB0cmFkZSUyMHNlY3JldHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg2NTAxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDIwJTNBNDclM0EwOSUyMCUyQjAwMDA",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "pubDate": "Fri, 10 Jul 2026 20:47:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWJ1c2VjLmFpJTJGcmVzZWFyY2glMkZpb25zdGFjay1wYXJ0LTIlMkYlN0NodHRwcyUzQSUyRiUyRm5lYnVzZWMuYWklMkZyZXNlYXJjaCUyRmlvbnN0YWNrLXBhcnQtMiUyRiU3Q0dob3N0TG9jayUyQyUyMGElMjBzdGFjay1VQUYlMjB0aGF0JTIwaGFzJTIwZXhpc3RlZCUyMGluJTIwQUxMJTIwTGludXglMjBkaXN0cmlidXRpb25zJTIwZm9yJTIwMTUlMjB5ZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODY0OTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMjAlM0E0MyUzQTAyJTIwJTJCMDAwMA",
+      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+      "pubDate": "Fri, 10 Jul 2026 20:43:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMDgwODIyJTJGOTkwYThhNWUyZDM3OTA4NSUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTA4MDgyMiUyRjk5MGE4YTVlMmQzNzkwODUlMkYlN0NBbiUyMHVwZGF0ZSUyMG9uJTIwcmVzaWRlbnRpYWwlMjBwcm94aWVzJTIwYW5kJTIwdGhlJTIwc2NyYXBlciUyMHNpdHVhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODY0MjUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTklM0EzOCUzQTM0JTIwJTJCMDAwMA",
+      "title": "An update on residential proxies and the scraper situation",
+      "pubDate": "Fri, 10 Jul 2026 19:38:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXNwLmFjJTJGcmVwb3J0cyUyRmFpLWVuYWJsZWQtdGVycm9yaXNtJTdDaHR0cHMlM0ElMkYlMkZjYXNwLmFjJTJGcmVwb3J0cyUyRmFpLWVuYWJsZWQtdGVycm9yaXNtJTdDSG93JTIwdGhlJTIwdGVycm9yaXN0JTIwZ3JvdXAlMjBCb2tvJTIwSGFyYW0lMjB1c2VzJTIwZnJvbnRpZXIlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYzNzA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTglM0E0OSUzQTI2JTIwJTJCMDAwMA",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "pubDate": "Fri, 10 Jul 2026 18:49:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZG4ub3BlbmFpLmNvbSUyRnBkZiUyRjA0ZDFkMWU0LWJjNzUtNDc2YS05N2NmLTQ5MDU1Y2Q5OGQzMSUyRmNkY19wcm9vZi5wZGYlN0NodHRwcyUzQSUyRiUyRmNkbi5vcGVuYWkuY29tJTJGcGRmJTJGMDRkMWQxZTQtYmM3NS00NzZhLTk3Y2YtNDkwNTVjZDk4ZDMxJTJGY2RjX3Byb29mLnBkZiU3Q0dQVC01LjYlMjBTb2wlMjBVbHRyYSUyMHByb2R1Y2VzJTIwcHJvb2YlMjBvZiUyMHRoZSUyMEN5Y2xlJTIwRG91YmxlJTIwQ292ZXIlMjBDb25qZWN0dXJlJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjM0OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAxOCUzQTI5JTNBMTklMjAlMkIwMDAw",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "pubDate": "Fri, 10 Jul 2026 18:29:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZqdWwlMkYxMCUyRm5ldy15b3JrLWNpdHktZGVjZXB0aXZlLXN1YnNjcmlwdGlvbnMtYmFuJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZqdWwlMkYxMCUyRm5ldy15b3JrLWNpdHktZGVjZXB0aXZlLXN1YnNjcmlwdGlvbnMtYmFuJTdDTmV3JTIwWW9yayUyMENpdHklMjB0byUyMGJhbiUyMGRlY2VwdGl2ZSUyMHN1YnNjcmlwdGlvbiUyMHByYWN0aWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYzNDY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTglM0EyNiUzQTI0JTIwJTJCMDAwMA",
+      "title": "New York City to ban deceptive subscription practices",
+      "pubDate": "Fri, 10 Jul 2026 18:26:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YXJhdGxhcy5vcmclN0NodHRwcyUzQSUyRiUyRndhcmF0bGFzLm9yZyUyRiU3Q1dhciUyMEF0bGFzJTNBJTIwQW4lMjBpbnRlcmFjdGl2ZSUyMGNhcnRvZ3JhcGh5JTIwb2YlMjBldmVyeSUyMG5hbWVkJTIwd2FyJTIwaW4lMjBodW1hbiUyMGhpc3RvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg2MzA4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDE3JTNBNTIlM0E0OCUyMCUyQjAwMDA",
+      "title": "War Atlas: An interactive cartography of every named war in human history",
+      "pubDate": "Fri, 10 Jul 2026 17:52:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuemRuZXQuY29tJTJGaG9tZS1hbmQtb2ZmaWNlJTJGbmV0d29ya2luZyUyRnNwYWNleC13YW50cy10by1sYXVuY2gtMTAwMDAwLW1vcmUtc3Rhcmxpbmstc2F0ZWxsaXRlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnpkbmV0LmNvbSUyRmhvbWUtYW5kLW9mZmljZSUyRm5ldHdvcmtpbmclMkZzcGFjZXgtd2FudHMtdG8tbGF1bmNoLTEwMDAwMC1tb3JlLXN0YXJsaW5rLXNhdGVsbGl0ZXMlMkYlN0NTcGFjZVglMjB3YW50cyUyMHRvJTIwbGF1bmNoJTIwMTAwayUyMG1vcmUlMjBTdGFybGluayUyMHNhdGVsbGl0ZXMlMjBmb3IlMjAxMDB4JTIwdGhlJTIwYmFuZHdpZHRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjMwNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAxNyUzQTUxJTNBMDclMjAlMkIwMDAw",
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "pubDate": "Fri, 10 Jul 2026 17:51:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc21hcnQtbmV3cyUyRnNwaWRlci1zaWxrLWxvc2VzLXRvcC1zcG90LW5hdHVyZXMtc3Ryb25nZXN0LW1hdGVyaWFsLXNuYWlscy10ZWV0aC0xODA5NTQzNDYlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZzbWFydC1uZXdzJTJGc3BpZGVyLXNpbGstbG9zZXMtdG9wLXNwb3QtbmF0dXJlcy1zdHJvbmdlc3QtbWF0ZXJpYWwtc25haWxzLXRlZXRoLTE4MDk1NDM0NiUyRiU3Q1NuYWlscyclMjB0ZWV0aCUyMGJlYXRzJTIwc3BpZGVyJTIwc2lsayUyMGFzJTIwbmF0dXJlJ3MlMjBzdHJvbmdlc3QlMjBtYXRlcmlhbCUyMCgyMDE1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYyMjUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTYlM0EzNyUzQTUyJTIwJTJCMDAwMA",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "pubDate": "Fri, 10 Jul 2026 16:37:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXNsZXlsYWkuaW5mbyUyRmVuJTJGZmxhc2hjYXJkcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVzbGV5bGFpLmluZm8lMkZlbiUyRmZsYXNoY2FyZHMlMkYlN0NBJTIwbG92ZSUyMGxldHRlciUyMHRvJTIwZmxhc2hjYXJkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYxMzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTUlM0EzMCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "A love letter to flashcards",
+      "pubDate": "Fri, 10 Jul 2026 15:30:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcmdvLm9yZyUyRmNvdXJzZXMlMkZjb21wdXRhdGlvbi1hcy1hLXVuaXZlcnNhbC1hbmQtZnVuZGFtZW50YWwtY29uY2VwdCU3Q2h0dHBzJTNBJTJGJTJGZXJnby5vcmclMkZjb3Vyc2VzJTJGY29tcHV0YXRpb24tYXMtYS11bml2ZXJzYWwtYW5kLWZ1bmRhbWVudGFsLWNvbmNlcHQlN0NDb21wdXRhdGlvbiUyMGFzJTIwYSUyMHVuaXZlcnNhbCUyMGFuZCUyMGZ1bmRhbWVudGFsJTIwY29uY2VwdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODYxMjEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMTUlM0EyMyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Computation as a universal and fundamental concept",
+      "pubDate": "Fri, 10 Jul 2026 15:23:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdmkucHJlc3MlMkZwb3N0cyUyRjIwMjYtMDctMTAtYWZ0ZXItNy15ZWFycy1pbi1wcm9kdWN0aW9uLXNjYXJmLWhhcy1yZWx1Y3RhbnRseS1tb3ZlZC1hd2F5LWZyb20taGFza2VsbC5odG1sJTdDaHR0cHMlM0ElMkYlMkZhdmkucHJlc3MlMkZwb3N0cyUyRjIwMjYtMDctMTAtYWZ0ZXItNy15ZWFycy1pbi1wcm9kdWN0aW9uLXNjYXJmLWhhcy1yZWx1Y3RhbnRseS1tb3ZlZC1hd2F5LWZyb20taGFza2VsbC5odG1sJTdDQWZ0ZXIlMjA3JTIweWVhcnMlMjBpbiUyMHByb2R1Y3Rpb24lMkMlMjBTY2FyZiUyMGhhcyUyMHJlbHVjdGFudGx5JTIwbW92ZWQlMjBhd2F5JTIwZnJvbSUyMEhhc2tlbGwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg1OTY3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzAlM0E0MSUyMCUyQjAwMDA",
+      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "pubDate": "Fri, 10 Jul 2026 13:30:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
     }
   ]
