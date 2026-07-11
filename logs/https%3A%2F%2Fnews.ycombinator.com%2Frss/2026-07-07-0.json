@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-07",
     "newestItemDate": "2026-07-07",
-    "itemCount": 49,
-    "generatedAt": "2026-07-11T03:46:46.739Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-11T09:51:45.771Z"
   },
   "items": [
     {
@@ -300,6 +300,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFsZXhiZWFscy5jb20lMkZwb3N0cyUyRnRoZS1mb290Z3VuLW9mLXJpZ2h0LXRvLWxlZnQtZGVjb3JhdGl2ZS1jaGFyYWN0ZXJzJTdDaHR0cHMlM0ElMkYlMkZibG9nLmFsZXhiZWFscy5jb20lMkZwb3N0cyUyRnRoZS1mb290Z3VuLW9mLXJpZ2h0LXRvLWxlZnQtZGVjb3JhdGl2ZS1jaGFyYWN0ZXJzJTdDVGhlJTIwZm9vdGd1biUyMG9mJTIwcmlnaHQtdG8tbGVmdCUyMGRlY29yYXRpdmUlMjBjaGFyYWN0ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MTMyNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNyUyMEp1bCUyMDIwMjYlMjAwMyUzQTA0JTNBNDYlMjAlMkIwMDAw",
       "title": "The footgun of right-to-left decorative characters",
       "pubDate": "Tue, 07 Jul 2026 03:04:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ2hyaWxsZXdlYiUyRmRvdGVudi1kaWZmJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ2hyaWxsZXdlYiUyRmRvdGVudi1kaWZmJTdDU2hvdyUyMEhOJTNBJTIwRG90ZW52LURpZmYlMjB2My4wLjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyMzYwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDIwJTNBNTQlM0EyMSUyMCUyQjAwMDA",
+      "title": "Show HN: Dotenv-Diff v3.0.0",
+      "pubDate": "Tue, 07 Jul 2026 20:54:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZXJpcmVpZC5jb20lMkZibG9nJTJGb3JnYW5pc2luZy1kb2N1bWVudGF0aW9uLWZvci1odW1hbnMtYW5kLWFpJTJGJTdDaHR0cHMlM0ElMkYlMkZnZXJpcmVpZC5jb20lMkZibG9nJTJGb3JnYW5pc2luZy1kb2N1bWVudGF0aW9uLWZvci1odW1hbnMtYW5kLWFpJTJGJTdDRG9jdW1lbnRhdGlvbiUyMGlzJTIwc3RpbGwlMjBpbiUyMHlvdXIlMjBNdW0ncyUyMGZpbGluZyUyMGNhYmluZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgxOTYxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDE1JTNBNTglM0EyMCUyMCUyQjAwMDA",
+      "title": "Documentation is still in your Mum's filing cabinet",
+      "pubDate": "Tue, 07 Jul 2026 15:58:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
     }
   ]
