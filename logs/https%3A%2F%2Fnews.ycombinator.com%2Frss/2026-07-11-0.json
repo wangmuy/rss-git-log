@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-11",
     "newestItemDate": "2026-07-11",
-    "itemCount": 13,
-    "generatedAt": "2026-07-11T17:25:25.638Z"
+    "itemCount": 22,
+    "generatedAt": "2026-07-12T04:02:55.193Z"
   },
   "items": [
     {
@@ -84,6 +84,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZmZWF0dXJlcyUyRjIwMjYtMDctMDclMkZ3aHktaXQtcy1zby1kaWZmaWN1bHQtdG8tcHJvZHVjZS0xMDAtYW1lcmljYW4tbWFkZS1tZWRpY2FsLWdsb3ZlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJsb29tYmVyZy5jb20lMkZuZXdzJTJGZmVhdHVyZXMlMkYyMDI2LTA3LTA3JTJGd2h5LWl0LXMtc28tZGlmZmljdWx0LXRvLXByb2R1Y2UtMTAwLWFtZXJpY2FuLW1hZGUtbWVkaWNhbC1nbG92ZXMlN0NXaHklMjBpdCdzJTIwc28lMjBkaWZmaWN1bHQlMjB0byUyMHByb2R1Y2UlMjBBbWVyaWNhbi1tYWRlJTIwbWVkaWNhbCUyMGdsb3ZlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODcwMjU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMDklM0ExNiUzQTEwJTIwJTJCMDAwMA",
       "title": "Why it's so difficult to produce American-made medical gloves",
       "pubDate": "Sat, 11 Jul 2026 09:16:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNoaXZlLmNhbmNlcndvcmxkLm5ldCUyRmZlYXR1cmVkJTJGaG93LWRvY3RvcnMtZGllJTJGJTdDaHR0cHMlM0ElMkYlMkZhcmNoaXZlLmNhbmNlcndvcmxkLm5ldCUyRmZlYXR1cmVkJTJGaG93LWRvY3RvcnMtZGllJTJGJTdDRG9jdG9ycyUyMGRpZS4lMjBJdCdzJTIwbm90JTIwbGlrZSUyMHRoZSUyMHJlc3QlMjBvZiUyMHVzJTJDJTIwYnV0JTIwaXQlMjBzaG91bGQlMjBiZSUyMCgyMDE2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc2NzQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMjMlM0ExNSUzQTA2JTIwJTJCMDAwMA",
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "pubDate": "Sat, 11 Jul 2026 23:15:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtcnprLmlvJTJGcG9zdHMlMkZxbWx4LW1heGltaXNpbmctYWktcHN5Y2hvc2lzLW1pbm1heGluZy1tYWMtc3R1ZGlvJTJGJTdDaHR0cHMlM0ElMkYlMkZtcnprLmlvJTJGcG9zdHMlMkZxbWx4LW1heGltaXNpbmctYWktcHN5Y2hvc2lzLW1pbm1heGluZy1tYWMtc3R1ZGlvJTJGJTdDRml4ZWQlMjB0aHJlZSUyMGJ1Z3MlMjB0aGF0JTIwbWFkZSUyMFF3ZW4zLjUtMTIyQiUyMGElMjBkYWlseSUyMGRyaXZlciUyMG9uJTIwTWFjJTIwU3R1ZGlvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzY2MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAyMiUzQTU0JTNBMDYlMjAlMkIwMDAw",
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "pubDate": "Sat, 11 Jul 2026 22:54:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaXJvaC5jb21wdXRlciUyRmJsb2clMkZtZXNoLWxsbSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmlyb2guY29tcHV0ZXIlMkZibG9nJTJGbWVzaC1sbG0lN0NNZXNoJTIwTExNJTNBJTIwZGlzdHJpYnV0ZWQlMjBBSSUyMGNvbXB1dGluZyUyMG9uJTIwaXJvaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc2NTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMjIlM0EzOCUzQTU3JTIwJTJCMDAwMA",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "pubDate": "Sat, 11 Jul 2026 22:38:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGV3JlbjY5OTElMkZSSVNDQm95JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGV3JlbjY5OTElMkZSSVNDQm95JTdDUklTQ0JveSUyMGlzJTIwYW4lMjBvcGVuLXNvdXJjZSUyMHBvcnRhYmxlJTIwZ2FtZXMlMjBjb25zb2xlJTJDJTIwZGVzaWduZWQlMjBmcm9tJTIwc2NyYXRjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc2MjQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMjElM0E1OCUzQTAwJTIwJTJCMDAwMA",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "pubDate": "Sat, 11 Jul 2026 21:58:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRqcy5vcmclN0NodHRwcyUzQSUyRiUyRmFudGpzLm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMEFudCUyMCVFMiU4MCU5MyUyMEElMjBKYXZhU2NyaXB0JTIwcnVudGltZSUyMGFuZCUyMGVjb3N5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc1Mzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMjAlM0EwNyUzQTE4JTIwJTJCMDAwMA",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "pubDate": "Sat, 11 Jul 2026 20:07:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3Fsc3VyZSUyRnNxbHN1cmUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzcWxzdXJlJTJGc3Fsc3VyZSU3Q1Nob3clMjBITiUzQSUyMFNxbHN1cmUlMjAlRTIlODAlOTMlMjBkZXRlcm1pbmlzdGljJTIwc2VtYW50aWMlMjBjaGVja3MlMjBmb3IlMjBBSS1nZW5lcmF0ZWQlMjBTUUwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3NTM0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDExJTIwSnVsJTIwMjAyNiUyMDIwJTNBMDMlM0E0MiUyMCUyQjAwMDA",
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "pubDate": "Sat, 11 Jul 2026 20:03:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmFuaGFobi5jb20lMkZwcmVmZXItc3RyaWN0LXRhYmxlcy1pbi1zcWxpdGUlMkYlN0NodHRwcyUzQSUyRiUyRmV2YW5oYWhuLmNvbSUyRnByZWZlci1zdHJpY3QtdGFibGVzLWluLXNxbGl0ZSUyRiU3Q1ByZWZlciUyMHN0cmljdCUyMHRhYmxlcyUyMGluJTIwU1FMaXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzM5NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAxNyUzQTMzJTNBNTUlMjAlMkIwMDAw",
+      "title": "Prefer strict tables in SQLite",
+      "pubDate": "Sat, 11 Jul 2026 17:33:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpby1mdW5kLmNvbSUyRmFpLXN0b2NrcyUyRm52aWRpYS1jb3Jld2VhdmUtbmViaXVzLWNpcmN1bGFyLWZpbmFuY2luZy1ncHUtYm9vbSU3Q2h0dHBzJTNBJTJGJTJGaW8tZnVuZC5jb20lMkZhaS1zdG9ja3MlMkZudmlkaWEtY29yZXdlYXZlLW5lYml1cy1jaXJjdWxhci1maW5hbmNpbmctZ3B1LWJvb20lN0NOdmlkaWElMkMlMjBDb3JlV2VhdmUlMkMlMjBhbmQlMjBOZWJpdXMlM0ElMjBJbnNpZGUlMjB0aGUlMjBDaXJjdWxhciUyMEZpbmFuY2luZyUyMG9mJTIwdGhlJTIwR1BVJTIwQm9vbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODczODM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMTclM0EyMSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "pubDate": "Sat, 11 Jul 2026 17:21:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW1lc2VyaWVzb2ZpbmRpYS5jb20lMkZlY29ub215JTJGcmVhZHMlMkZ1cGktYXJjaGl0ZWN0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aW1lc2VyaWVzb2ZpbmRpYS5jb20lMkZlY29ub215JTJGcmVhZHMlMkZ1cGktYXJjaGl0ZWN0dXJlJTJGJTdDVVBJJTNBJTIwQW5hdG9teSUyMG9mJTIwYSUyMFBheW1lbnQlMjBUcmFuc2FjdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODczNDU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMTYlM0EzMyUzQTQyJTIwJTJCMDAwMA",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "pubDate": "Sat, 11 Jul 2026 16:33:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
     }
   ]

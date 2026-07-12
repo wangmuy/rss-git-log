@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-09",
     "newestItemDate": "2026-07-09",
-    "itemCount": 48,
-    "generatedAt": "2026-07-11T17:25:25.638Z"
+    "itemCount": 52,
+    "generatedAt": "2026-07-12T04:02:55.193Z"
   },
   "items": [
     {
@@ -294,6 +294,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW1hem9uLmNvbSUyRlJJU0MtVi1NaWNyb3Byb2Nlc3Nvci1TeXN0ZW0tQ2hpcC1EZXNpZ24lMkZkcCUyRjAzMjM5OTQ5ODklN0NodHRwcyUzQSUyRiUyRnd3dy5hbWF6b24uY29tJTJGUklTQy1WLU1pY3JvcHJvY2Vzc29yLVN5c3RlbS1DaGlwLURlc2lnbiUyRmRwJTJGMDMyMzk5NDk4OSU3Q0Jvb2slM0ElMjBSSVNDLVYlMjBTeXN0ZW0tb24tQ2hpcCUyMERlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQxMzQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMDUlM0EyOCUzQTQyJTIwJTJCMDAwMA",
       "title": "Book: RISC-V System-on-Chip Design",
       "pubDate": "Thu, 09 Jul 2026 05:28:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjA3MjY3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjA3MjY3JTdDQmlsbGlvbnMlMjBvZiUyMFNrZXRjaGVzJTIwUmV2ZWFsJTIwSGlkZGVuJTIwQ3VsdHVyYWwlMjBWYXJpYXRpb24lMjBpbiUyMEh1bWFuJTIwQ29uY2VwdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0OTc0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE3JTNBNDQlM0EyMCUyMCUyQjAwMDA",
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "pubDate": "Thu, 09 Jul 2026 17:44:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmlhcHVsLmN6JTJGYXV0b21hJTJGaV9kaWRfbm90X2tpbGxfc3RhbmxleV9saWViZXIlN0NodHRwcyUzQSUyRiUyRnRyaWFwdWwuY3olMkZhdXRvbWElMkZpX2RpZF9ub3Rfa2lsbF9zdGFubGV5X2xpZWJlciU3Q0klMjBEaWQlMjBOb3QlMjBLaWxsJTIwU3RhbmxleSUyMExpZWJlciUzQSUyMEhvdyUyMHRvJTIwRHJhdyUyMChXaXRoJTIwOWZyb250KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQ2MTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTQlM0ExMCUzQTA0JTIwJTJCMDAwMA",
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "pubDate": "Thu, 09 Jul 2026 14:10:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWtpYmVuaXRhLmNvbSUyRnBvc3RncmVzcWwtcGFydGl0aW9uLXBydW5pbmclN0NodHRwcyUzQSUyRiUyRmhha2liZW5pdGEuY29tJTJGcG9zdGdyZXNxbC1wYXJ0aXRpb24tcHJ1bmluZyU3Q0hvdyUyMHRvJTIwQWNoaWV2ZSUyMFBydW5pbmclMjBXaGVuJTIwUXVlcnlpbmclMjBieSUyME5vbi1QYXJ0aXRpb25lZCUyMENvbHVtbnMlMjBpbiUyMFBvc3RncmVTUUwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0NDQ3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDExJTNBNTclM0EzNCUyMCUyQjAwMDA",
+      "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
+      "pubDate": "Thu, 09 Jul 2026 11:57:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aXNpdGZhcm9laXNsYW5kcy5jb20lMkZlbiUyRnBsYW4teW91ci1zdGF5JTJGZ2V0dGluZy1hcm91bmQlMkZ3b3JsZC1maXJzdC11bmRlci1zZWEtcm91bmRhYm91dCU3Q2h0dHBzJTNBJTJGJTJGdmlzaXRmYXJvZWlzbGFuZHMuY29tJTJGZW4lMkZwbGFuLXlvdXItc3RheSUyRmdldHRpbmctYXJvdW5kJTJGd29ybGQtZmlyc3QtdW5kZXItc2VhLXJvdW5kYWJvdXQlN0NKZWxseWZpc2glMjBVbmRlcnNlYSUyMFJvdW5kYWJvdXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MDE1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDAyJTNBMTclM0E1OSUyMCUyQjAwMDA",
+      "title": "Jellyfish Undersea Roundabout",
+      "pubDate": "Thu, 09 Jul 2026 02:17:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
     }
   ]

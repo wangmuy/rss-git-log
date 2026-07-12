@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 39,
-    "generatedAt": "2026-07-11T17:25:25.639Z"
+    "itemCount": 40,
+    "generatedAt": "2026-07-12T04:02:55.193Z"
   },
   "items": [
     {
@@ -240,6 +240,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXRhcmlhcmNoaXZlcy5vcmclMkZkZWxpJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXRhcmlhcmNoaXZlcy5vcmclMkZkZWxpJTJGJTdDRGlnaXRhbCUyMERlbGklMkMlMjAxOTg0JTIwYm9vayUyMGJ5JTIwZWFybHklMjBQQyUyMGhhY2tlcnMlMjBhbmQlMjBlbnRodXNpYXN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODMwMTkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTAlM0EzNSUzQTM3JTIwJTJCMDAwMA",
       "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
       "pubDate": "Wed, 08 Jul 2026 10:35:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVpY29wdC5jb20lMkZkZXZlbG9wZXIlMkZnZXR0aW5nLXN0YXJ0ZWQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWljb3B0LmNvbSUyRmRldmVsb3BlciUyRmdldHRpbmctc3RhcnRlZCUyRiU3Q09wdGltaXphdGlvbiUyMFNvbHZlciUyMGFzJTIwYSUyMFNlcnZpY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMDY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDExJTNBNDQlM0EyNSUyMCUyQjAwMDA",
+      "title": "Optimization Solver as a Service",
+      "pubDate": "Wed, 08 Jul 2026 11:44:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]
