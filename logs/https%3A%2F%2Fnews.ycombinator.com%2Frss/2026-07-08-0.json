@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 40,
-    "generatedAt": "2026-07-12T04:02:55.193Z"
+    "itemCount": 43,
+    "generatedAt": "2026-07-12T10:03:16.235Z"
   },
   "items": [
     {
@@ -246,6 +246,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVpY29wdC5jb20lMkZkZXZlbG9wZXIlMkZnZXR0aW5nLXN0YXJ0ZWQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWljb3B0LmNvbSUyRmRldmVsb3BlciUyRmdldHRpbmctc3RhcnRlZCUyRiU3Q09wdGltaXphdGlvbiUyMFNvbHZlciUyMGFzJTIwYSUyMFNlcnZpY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMDY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDExJTNBNDQlM0EyNSUyMCUyQjAwMDA",
       "title": "Optimization Solver as a Service",
       "pubDate": "Wed, 08 Jul 2026 11:44:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZobG5ldC5ub3Rpb24uc2l0ZSUyRnRleHQtYXJ0LXRvb2xzJTdDaHR0cHMlM0ElMkYlMkZobG5ldC5ub3Rpb24uc2l0ZSUyRnRleHQtYXJ0LXRvb2xzJTdDVGV4dCUyMGFydCUyMHRvb2xzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzEzODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAxMyUzQTAwJTNBNDMlMjAlMkIwMDAw",
+      "title": "Text art tools",
+      "pubDate": "Wed, 08 Jul 2026 13:00:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWdlbHRhby5naXRodWIuaW8lMkZibG9nJTJGMjAyNiUyRmhhbmRzdW0uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbmlnZWx0YW8uZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkZoYW5kc3VtLmh0bWwlN0NIYW5kc3VtJTNBJTIwQW4lMjBMUUlQJTIwSW1hZ2UlMjBGaWxlJTIwRm9ybWF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4MzA4NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOCUyMEp1bCUyMDIwMjYlMjAxMiUzQTA3JTNBNTklMjAlMkIwMDAw",
+      "title": "Handsum: An LQIP Image File Format",
+      "pubDate": "Wed, 08 Jul 2026 12:07:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWYuYnVpbGQlMkZibG9nJTJGcHJvdG9idWYtcHklN0NodHRwcyUzQSUyRiUyRmJ1Zi5idWlsZCUyRmJsb2clMkZwcm90b2J1Zi1weSU3Q1Byb3RvYnVmLXB5JTNBJTIwUHJvdG9idWYlMjBmb3IlMjBQeXRob24lMkMlMjB3aXRob3V0JTIwY29tcHJvbWlzZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyNzA1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDAzJTNBMTYlM0EzOCUyMCUyQjAwMDA",
+      "title": "Protobuf-py: Protobuf for Python, without compromises",
+      "pubDate": "Wed, 08 Jul 2026 03:16:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]

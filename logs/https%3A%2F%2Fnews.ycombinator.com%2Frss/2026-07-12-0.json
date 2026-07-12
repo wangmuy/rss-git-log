@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 10,
-    "generatedAt": "2026-07-12T04:02:55.193Z"
+    "itemCount": 15,
+    "generatedAt": "2026-07-12T10:03:16.234Z"
   },
   "items": [
     {
@@ -66,6 +66,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhYmNuZXdzLmNvbSUyRlVTJTJGd2lyZVN0b3J5JTJGbWFydGhhLWxpbGxhcmQtdXMtcG9saW8tcGF0aWVudC1pcm9uLWx1bmctZGllcy0xMzQ2Njg0OTElN0NodHRwcyUzQSUyRiUyRmFiY25ld3MuY29tJTJGVVMlMkZ3aXJlU3RvcnklMkZtYXJ0aGEtbGlsbGFyZC11cy1wb2xpby1wYXRpZW50LWlyb24tbHVuZy1kaWVzLTEzNDY2ODQ5MSU3Q01hcnRoYSUyMExpbGxhcmQlMkMlMjBsYXN0JTIwVVMlMjBwb2xpbyUyMHBhdGllbnQlMjB1c2luZyUyMGlyb24lMjBsdW5nJTJDJTIwZGllcyUyMGF0JTIwNzglMjBpbiUyME9rbGFob21hJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzcxNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAwMCUzQTMyJTNBMTUlMjAlMkIwMDAw",
       "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
       "pubDate": "Sun, 12 Jul 2026 00:32:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY29zbXRyZWslMkZtaW5kd2FsayU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNvc210cmVrJTJGbWluZHdhbGslN0NTaG93JTIwSE4lM0ElMjBNaW5kd2FsayUyMCVFMiU4MCU5MyUyMFJlcGxheSUyMGNvZGluZy1hZ2VudCUyMHNlc3Npb25zJTIwb24lMjBhJTIwM0QlMjBtYXAlMjBvZiUyMHlvdXIlMjBjb2RlYmFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc4NjgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMDUlM0E1MSUzQTMyJTIwJTJCMDAwMA",
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "pubDate": "Sun, 12 Jul 2026 05:51:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0d2FyZWRvdWcuY29tJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjA5JTJGd3JpdGUtY29kZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZzb2Z0d2FyZWRvdWcuY29tJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjA5JTJGd3JpdGUtY29kZS5odG1sJTdDV2h5JTIwV3JpdGUlMjBDb2RlJTIwaW4lMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzgxOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAwNCUzQTE1JTNBMjclMjAlMkIwMDAw",
+      "title": "Why Write Code in 2026",
+      "pubDate": "Sun, 12 Jul 2026 04:15:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnByLm9yZyUyRjIwMjYlMkYwNiUyRjMwJTJGbngtczEtNTgzNTYzMSUyRnR1cm5lci1jYW1oaS1kby1uby1oYXJtLWNvbGxlZ2UtbG9hbnMlN0NodHRwcyUzQSUyRiUyRnd3dy5ucHIub3JnJTJGMjAyNiUyRjA2JTJGMzAlMkZueC1zMS01ODM1NjMxJTJGdHVybmVyLWNhbWhpLWRvLW5vLWhhcm0tY29sbGVnZS1sb2FucyU3Q1VuZGVyJTIwZmVkZXJhbCUyMHJ1bGUlMkMlMjBjb2xsZWdlcyUyMG11c3QlMjBsZWF2ZSUyMGdyYWRzJTIwYmV0dGVyJTIwb2ZmJTIwb3IlMjBsb3NlJTIwZmluYW5jaWFsJTIwYWlkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzgxMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAwNCUzQTAwJTNBMTQlMjAlMkIwMDAw",
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "pubDate": "Sun, 12 Jul 2026 04:00:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGd2Uta25vdy1zaW1wbGUtZmx1aWRzLWNhbi1mbG93LXR1cm5zLW91dC1zb21lLWNhbi1mcmFjdHVyZS0yMDI2MDcxMCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRndlLWtub3ctc2ltcGxlLWZsdWlkcy1jYW4tZmxvdy10dXJucy1vdXQtc29tZS1jYW4tZnJhY3R1cmUtMjAyNjA3MTAlMkYlN0NVbmV4cGVjdGVkJTIwU29saWRsaWtlJTIwRnJhY3R1cmUlMjBpbiUyMFNpbXBsZSUyMExpcXVpZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3NzY2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDAyJTNBMTMlM0E0NiUyMCUyQjAwMDA",
+      "title": "Unexpected Solidlike Fracture in Simple Liquids",
+      "pubDate": "Sun, 12 Jul 2026 02:13:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZteS51c2NhcC5vcmclMkZ1c2NhcCUyRnByb2dyYW0lMkZTMHRjNjc1JTJGaW5kZXguY2ZtJTNGcGdpZCUzRDUxNjclMjZzaWQlM0QxNDc3MCUyNmFiaWQlM0Q1MTIyOCU3Q2h0dHBzJTNBJTJGJTJGbXkudXNjYXAub3JnJTJGdXNjYXAlMkZwcm9ncmFtJTJGUzB0YzY3NSUyRmluZGV4LmNmbSUzRnBnaWQlM0Q1MTY3JTI2c2lkJTNEMTQ3NzAlMjZhYmlkJTNENTEyMjglN0NBdXRvcHN5JTIwU3R1ZHklMjBGaW5kcyUyMFJlcGxpY2F0aW5nJTIwU0FSUy1Db1YtMiUyMGluJTIwdGhlJTIwSGVhcnRzJTIwb2YlMjBMb25nJTIwQ292aWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3NzIxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDAwJTNBMzglM0EwMiUyMCUyQjAwMDA",
+      "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
+      "pubDate": "Sun, 12 Jul 2026 00:38:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]

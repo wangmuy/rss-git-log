@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-04",
     "newestItemDate": "2026-07-04",
-    "itemCount": 49,
-    "generatedAt": "2026-07-09T11:21:25.470Z"
+    "itemCount": 50,
+    "generatedAt": "2026-07-12T10:03:16.235Z"
   },
   "items": [
     {
@@ -309,6 +309,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZiaXR0bGV4LXNpbS5wZXRvaS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmJpdHRsZXgtc2ltLnBldG9pLmNvbSUyRiU3Q0luLWJyb3dzZXIlMjBwcm9ncmFtbWFibGUlMjByb2JvdCUyMHNpbXVsYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4Nzg0MTI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDQlMjBKdWwlMjAyMDI2JTIwMDklM0E0MSUzQTMwJTIwJTJCMDAwMA",
       "title": "In-browser programmable robot simulator",
       "pubDate": "Sat, 04 Jul 2026 09:41:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGV2ZW4tZ2llc2VsLmNvbSUyRmJsb2dQb3N0JTJGZDQ0MDFmZDAtODA1YS00NzAzLTlkOWUtNWZlM2I1N2MyNWVhJTdDaHR0cHMlM0ElMkYlMkZzdGV2ZW4tZ2llc2VsLmNvbSUyRmJsb2dQb3N0JTJGZDQ0MDFmZDAtODA1YS00NzAzLTlkOWUtNWZlM2I1N2MyNWVhJTdDRUYlMjBDb3JlJTIwMTElMjBtYWtlcyUyMHlvdXIlMjBzcGxpdCUyMHF1ZXJpZXMlMjBmYXN0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODc4NTEwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA0JTIwSnVsJTIwMjAyNiUyMDEyJTNBNTclM0EzOCUyMCUyQjAwMDA",
+      "title": "EF Core 11 makes your split queries faster",
+      "pubDate": "Sat, 04 Jul 2026 12:57:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-04-0.json"
     }
   ]

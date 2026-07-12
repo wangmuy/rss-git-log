@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-07",
     "newestItemDate": "2026-07-07",
-    "itemCount": 54,
-    "generatedAt": "2026-07-12T04:02:55.193Z"
+    "itemCount": 55,
+    "generatedAt": "2026-07-12T10:03:16.235Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFjb2JvYnJ5YW50JTJGYmlmZiUyRnRyZWUlMkZ2Mi54JTJGbGlicyUyRmdyYXBoJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFjb2JvYnJ5YW50JTJGYmlmZiUyRnRyZWUlMkZ2Mi54JTJGbGlicyUyRmdyYXBoJTdDQmlmZi5ncmFwaCUzQSUyMHN0cnVjdHVyZSUyMHlvdXIlMjBDbG9qdXJlJTIwY29kZWJhc2UlMjBhcyUyMGElMjBxdWVyeWFibGUlMjBncmFwaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODIwMzYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDclMjBKdWwlMjAyMDI2JTIwMTYlM0E0OCUzQTQ4JTIwJTJCMDAwMA",
       "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
       "pubDate": "Tue, 07 Jul 2026 16:48:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdWRlLWRveWxlLmdob3N0LmlvJTJGdW50aXRsZWQtMjElMkYlN0NodHRwcyUzQSUyRiUyRmp1ZGUtZG95bGUuZ2hvc3QuaW8lMkZ1bnRpdGxlZC0yMSUyRiU3Q1NpeHRlZW4lMjBGYWlsZWQlMjBBdHRlbXB0cyUyMHRvJTIwV3JpdGUlMjBhJTIwRXVsb2d5JTIwZm9yJTIwTXklMjBGYXRoZXIlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyMjE4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA3JTIwSnVsJTIwMjAyNiUyMDE5JTNBMDclM0EyMSUyMCUyQjAwMDA",
+      "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
+      "pubDate": "Tue, 07 Jul 2026 19:07:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-07-0.json"
     }
   ]
