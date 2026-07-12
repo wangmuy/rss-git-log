@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 15,
-    "generatedAt": "2026-07-12T10:03:16.234Z"
+    "itemCount": 34,
+    "generatedAt": "2026-07-12T17:28:55.754Z"
   },
   "items": [
     {
@@ -96,6 +96,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZteS51c2NhcC5vcmclMkZ1c2NhcCUyRnByb2dyYW0lMkZTMHRjNjc1JTJGaW5kZXguY2ZtJTNGcGdpZCUzRDUxNjclMjZzaWQlM0QxNDc3MCUyNmFiaWQlM0Q1MTIyOCU3Q2h0dHBzJTNBJTJGJTJGbXkudXNjYXAub3JnJTJGdXNjYXAlMkZwcm9ncmFtJTJGUzB0YzY3NSUyRmluZGV4LmNmbSUzRnBnaWQlM0Q1MTY3JTI2c2lkJTNEMTQ3NzAlMjZhYmlkJTNENTEyMjglN0NBdXRvcHN5JTIwU3R1ZHklMjBGaW5kcyUyMFJlcGxpY2F0aW5nJTIwU0FSUy1Db1YtMiUyMGluJTIwdGhlJTIwSGVhcnRzJTIwb2YlMjBMb25nJTIwQ292aWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3NzIxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDAwJTNBMzglM0EwMiUyMCUyQjAwMDA",
       "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
       "pubDate": "Sun, 12 Jul 2026 00:38:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYyMDBrYi5mcmVlbGFuZy5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRjIwMGtiLmZyZWVsYW5nLmRldiUyRiU3Q1dlYnNpdGUlMjBpcyUyMHNlcnZlZCUyMGZyb20lMjBhJTIwMjAwS0IlMjBiaW5hcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4MjYwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDE2JTNBNTklM0EzNyUyMCUyQjAwMDA",
+      "title": "Website is served from a 200KB binary",
+      "pubDate": "Sun, 12 Jul 2026 16:59:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGFzZW5qJTJGZ28tc2hpcmVpJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGFzZW5qJTJGZ28tc2hpcmVpJTJGJTdDU2hvdyUyMEhOJTNBJTIwU2hpcmVpJTJDJTIwY3Jvc3MtcGxhdGZvcm0lMjBHVUklMjBmcmFtZXdvcmslMjBpbiUyMG5hdGl2ZSUyMEdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODI1NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNiUzQTU1JTNBNDIlMjAlMkIwMDAw",
+      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "pubDate": "Sun, 12 Jul 2026 16:55:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjA2Mzc3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjA2Mzc3JTdDQXV0b21hdGlvbiUyMFdpdGhvdXQlMjBVbmRlcnN0YW5kaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODI1NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNiUzQTU0JTNBNDclMjAlMkIwMDAw",
+      "title": "Automation Without Understanding",
+      "pubDate": "Sun, 12 Jul 2026 16:54:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJjLmluZm8lMkYlM0ZsJTNEb3BlbmJzZC1taXNjJTI2bSUzRDExOTMxODkwOTAxNjU4MiU3Q2h0dHBzJTNBJTJGJTJGbWFyYy5pbmZvJTJGJTNGbCUzRG9wZW5ic2QtbWlzYyUyNm0lM0QxMTkzMTg5MDkwMTY1ODIlN0NUaGVvJTIwZGUlMjBSYWFkdCUzQSUyMCUyMllvdSd2ZSUyMGJlZW4lMjBzbW9raW5nJTIwc29tZXRoaW5nJTIwbWluZCUyMGFsdGVyaW5nJTIyJTIwKDIwMDcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODIxODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNiUzQTA1JTNBMjklMjAlMkIwMDAw",
+      "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
+      "pubDate": "Sun, 12 Jul 2026 16:05:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdHRoaXMubGluayUyRmJsb2clMkYyMDI0JTJGNDk2MjkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYXR0aGlzLmxpbmslMkZibG9nJTJGMjAyNCUyRjQ5NjI5Lmh0bWwlN0NUSyUyQyUyMG9yJTIwdGhlJTIwc2VjcmV0JTIwdG8lMjBlZmZvcnRsZXNzJTIwd3JpdGluZyUyMCgyMDI0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgyMTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTUlM0E1OCUzQTQyJTIwJTJCMDAwMA",
+      "title": "TK, or the secret to effortless writing (2024)",
+      "pubDate": "Sun, 12 Jul 2026 15:58:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaWRkZW4tcGhlbm9tZW5hLmNvbSUyRmFydGljbGVzJTJGbW9kdWxhciU3Q2h0dHBzJTNBJTJGJTJGaGlkZGVuLXBoZW5vbWVuYS5jb20lMkZhcnRpY2xlcyUyRm1vZHVsYXIlN0NXaHklMjBzdHVkeSUyMERpb3BoYW50aW5lJTIwZXF1YXRpb25zJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODIwOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNSUzQTUzJTNBNTMlMjAlMkIwMDAw",
+      "title": "Why study Diophantine equations?",
+      "pubDate": "Sun, 12 Jul 2026 15:53:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dG8ubWUlMkZibG9nJTJGMjAyNi0wNy0xMi1ob3ctdG8tcmVhZC1tb3JlLWJvb2tzJTJGJTdDaHR0cHMlM0ElMkYlMkZzY290dG8ubWUlMkZibG9nJTJGMjAyNi0wNy0xMi1ob3ctdG8tcmVhZC1tb3JlLWJvb2tzJTJGJTdDSG93JTIwdG8lMjBSZWFkJTIwTW9yZSUyMEJvb2tzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODIwNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNSUzQTQ3JTNBMTYlMjAlMkIwMDAw",
+      "title": "How to Read More Books",
+      "pubDate": "Sun, 12 Jul 2026 15:47:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGdGhlLXBvd2VyLW9mLWNvbGxhYm9yYXRpb24taG93LXdlLWNhbi1yZWR1Y2UtdHJhZmZpYy1jb25nZXN0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGdGhlLXBvd2VyLW9mLWNvbGxhYm9yYXRpb24taG93LXdlLWNhbi1yZWR1Y2UtdHJhZmZpYy1jb25nZXN0aW9uJTJGJTdDVGhlJTIwcG93ZXIlMjBvZiUyMGNvbGxhYm9yYXRpb24lM0ElMjBIb3clMjB3ZSUyMGNhbiUyMHJlZHVjZSUyMHRyYWZmaWMlMjBjb25nZXN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODE5NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNSUzQTM1JTNBMzYlMjAlMkIwMDAw",
+      "title": "The power of collaboration: How we can reduce traffic congestion",
+      "pubDate": "Sun, 12 Jul 2026 15:35:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmxlYWRlcnMlMkYyMDI2JTJGMDclMkYwOSUyRmEtbm8tYnJhaW5lci1mb3ItcHJvdGVjdGluZy15b3VyLWJyYWluJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmxlYWRlcnMlMkYyMDI2JTJGMDclMkYwOSUyRmEtbm8tYnJhaW5lci1mb3ItcHJvdGVjdGluZy15b3VyLWJyYWluJTdDQSUyMG5vLWJyYWluZXIlMjBmb3IlMjBwcm90ZWN0aW5nJTIweW91ciUyMGJyYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODE4NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNSUzQTIzJTNBNTklMjAlMkIwMDAw",
+      "title": "A no-brainer for protecting your brain",
+      "pubDate": "Sun, 12 Jul 2026 15:23:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWJpZW5zYW5nbGFyZC5uZXQlMkZleHRpbmN0JTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZmFiaWVuc2FuZ2xhcmQubmV0JTJGZXh0aW5jdCUyRmluZGV4Lmh0bWwlN0NEb24ndCUyMFlvdSUyME1lYW4lMjBFeHRpbmN0JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODE4MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNSUzQTE3JTNBMjAlMjAlMkIwMDAw",
+      "title": "Don't You Mean Extinct?",
+      "pubDate": "Sun, 12 Jul 2026 15:17:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWxsaW90Y3NtaXRoLmNvbSUyRmF1dG9yZXNlYXJjaC1jbGF1ZGUtYW5kLWNvbnN0cmFpbmVkLW9wdGltaXphdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVsbGlvdGNzbWl0aC5jb20lMkZhdXRvcmVzZWFyY2gtY2xhdWRlLWFuZC1jb25zdHJhaW5lZC1vcHRpbWl6YXRpb24lMkYlN0NBdXRvcmVzZWFyY2glMkMlMjBDbGF1ZGUlMjBhbmQlMjBDb25zdHJhaW5lZCUyME9wdGltaXphdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgxNDk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTQlM0EzMiUzQTAwJTIwJTJCMDAwMA",
+      "title": "Autoresearch, Claude and Constrained Optimization",
+      "pubDate": "Sun, 12 Jul 2026 14:32:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrdXJ2ZW5nZWZhaHIub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZrdXJ2ZW5nZWZhaHIub3JnJTJGJTdDU2hvdyUyMEhOJTNBJTIwS3VydmVuZ2VmYWhyJTIwJUUyJTgwJTkzJTIwYnJvd3NlciUyMENBRCUyRkNBTSUyMGZvciUyMHBlbiUyMHBsb3R0ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODEzNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNCUzQTA5JTNBMjMlMjAlMkIwMDAw",
+      "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+      "pubDate": "Sun, 12 Jul 2026 14:09:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3Nod2FydHMlMkZza2lsbHNjcmlwdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnNzaHdhcnRzJTJGc2tpbGxzY3JpcHQlN0NTaG93JTIwSE4lM0ElMjBTa2lsbHNjcmlwdCUyMCVFMiU4MCU5MyUyMEElMjBkZWNsYXJhdGl2ZSUyQyUyMHNhbmRib3hlZCUyMGxhbmd1YWdlJTIwZm9yJTIwdG9vbCUyMG9yY2hlc3RyYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4MTExMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzQlM0EwMCUyMCUyQjAwMDA",
+      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+      "pubDate": "Sun, 12 Jul 2026 13:34:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLXNjaWVuY2UtcmVzZWFyY2gtZmxhdHRlbnMtZGlzY292ZXJ5JTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLXNjaWVuY2UtcmVzZWFyY2gtZmxhdHRlbnMtZGlzY292ZXJ5JTdDQUklMjBCb29zdHMlMjBSZXNlYXJjaCUyMENhcmVlcnMlMjBidXQlMjBGbGF0dGVucyUyMFNjaWVudGlmaWMlMjBEaXNjb3ZlcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4MTA0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDEzJTNBMjYlM0ExMyUyMCUyQjAwMDA",
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "pubDate": "Sun, 12 Jul 2026 13:26:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2luYWdhbGxlcnkuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2luYWdhbGxlcnkuY29tJTJGJTdDR2luYSUyMEdhbGxlcnklMjBvZiUyMEludGVybmF0aW9uYWwlMjBOYWl2ZSUyMEFydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgwOTg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTMlM0ExOCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Gina Gallery of International Naive Art",
+      "pubDate": "Sun, 12 Jul 2026 13:18:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvZGluYm9vay5jb20lMkYlN0NodHRwcyUzQSUyRiUyRm9kaW5ib29rLmNvbSUyRiU3Q1VuZGVyc3RhbmRpbmclMjB0aGUlMjBPZGluJTIwUHJvZ3JhbW1pbmclMjBMYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgwNDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTIlM0EwOCUzQTA3JTIwJTJCMDAwMA",
+      "title": "Understanding the Odin Programming Language",
+      "pubDate": "Sun, 12 Jul 2026 12:08:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtcmJydWguY29tJTJGbW90b3JvbGElMkYlN0NodHRwcyUzQSUyRiUyRm1yYnJ1aC5jb20lMkZtb3Rvcm9sYSUyRiU3Q1VuYXV0aGVudGljYXRlZCUyMFJDRSUyMGluJTIwTW90b3JvbGEncyUyME1SMjYwMCUyMFJvdXRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgwNDA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTElM0E1MiUzQTIxJTIwJTJCMDAwMA",
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "pubDate": "Sun, 12 Jul 2026 11:52:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA3JTJGMTElMkZvbGQtYW5kLW5ldy1hcHBzLXZpYS1tb2Rlcm4tY29kaW5nLWFnZW50cyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVycnl0YW8ud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwNyUyRjExJTJGb2xkLWFuZC1uZXctYXBwcy12aWEtbW9kZXJuLWNvZGluZy1hZ2VudHMlMkYlN0NPbGQlMjBhbmQlMjBuZXclMjBhcHBzJTJDJTIwdmlhJTIwbW9kZXJuJTIwY29kaW5nJTIwYWdlbnRzJTIwYnklMjBUZXJyeSUyMFRhbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgwMTcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTElM0EwOSUzQTQyJTIwJTJCMDAwMA",
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "pubDate": "Sun, 12 Jul 2026 11:09:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYWtyYS5naXRodWIuaW8lMkZnaG9zdGVsJTJGJTdDaHR0cHMlM0ElMkYlMkZkYWtyYS5naXRodWIuaW8lMkZnaG9zdGVsJTJGJTdDR2hvc3RlbC5lbCUzQSUyMFRlcm1pbmFsJTIwZW11bGF0b3IlMjBwb3dlcmVkJTIwYnklMjBsaWJnaG9zdHR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4Nzk1MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAwOCUzQTUyJTNBNTklMjAlMkIwMDAw",
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "pubDate": "Sun, 12 Jul 2026 08:52:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]
