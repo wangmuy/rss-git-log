@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 47,
-    "generatedAt": "2026-07-13T04:05:18.367Z"
+    "itemCount": 48,
+    "generatedAt": "2026-07-13T11:32:21.135Z"
   },
   "items": [
     {
@@ -288,6 +288,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3VzYW5yaWdldHRpLmNvbSUyRnBoeXNpY3MlN0NodHRwcyUzQSUyRiUyRnd3dy5zdXNhbnJpZ2V0dGkuY29tJTJGcGh5c2ljcyU3Q1NvJTIweW91JTIwd2FudCUyMHRvJTIwbGVhcm4lMjBwaHlzaWNzJTIwKHNlY29uZCUyMGVkaXRpb24lMkMlMjAyMDIxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODI3MTI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMDMlM0EyOCUzQTAwJTIwJTJCMDAwMA",
       "title": "So you want to learn physics (second edition, 2021)",
       "pubDate": "Wed, 08 Jul 2026 03:28:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRpcm9iZXJ0cy5jb20lMkZjaXRpemVuc2hpcCUyRnRoZS1zb2NpYWwtcGh5c2ljcy1vZi1jb252ZXJzYXRpb24tY2l0aXplbnNoaXAtbGVhZGVyc2hpcCU3Q2h0dHBzJTNBJTJGJTJGYW5kaXJvYmVydHMuY29tJTJGY2l0aXplbnNoaXAlMkZ0aGUtc29jaWFsLXBoeXNpY3Mtb2YtY29udmVyc2F0aW9uLWNpdGl6ZW5zaGlwLWxlYWRlcnNoaXAlN0NUaGUlMjBzb2NpYWwlMjBwaHlzaWNzJTIwb2YlMjBjb252ZXJzYXRpb24lM0ElMjBDb21tdW5pY2F0aW9uJTIwcGF0dGVybnMlMjBtYXR0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyODU3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDA3JTNBMDUlM0E0OSUyMCUyQjAwMDA",
+      "title": "The social physics of conversation: Communication patterns matter",
+      "pubDate": "Wed, 08 Jul 2026 07:05:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]

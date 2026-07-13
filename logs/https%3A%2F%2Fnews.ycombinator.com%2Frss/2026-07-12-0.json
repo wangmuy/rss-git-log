@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 52,
-    "generatedAt": "2026-07-13T04:05:18.366Z"
+    "itemCount": 54,
+    "generatedAt": "2026-07-13T11:32:21.134Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGdGhlLXBvd2VyLW9mLWNvbGxhYm9yYXRpb24taG93LXdlLWNhbi1yZWR1Y2UtdHJhZmZpYy1jb25nZXN0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGdGhlLXBvd2VyLW9mLWNvbGxhYm9yYXRpb24taG93LXdlLWNhbi1yZWR1Y2UtdHJhZmZpYy1jb25nZXN0aW9uJTJGJTdDSG93JTIwd2UlMjBjYW4lMjByZWR1Y2UlMjB0cmFmZmljJTIwY29uZ2VzdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgxOTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTUlM0EzNSUzQTM2JTIwJTJCMDAwMA",
       "title": "How we can reduce traffic congestion",
       "pubDate": "Sun, 12 Jul 2026 15:35:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dG8ubWUlMkZibG9nJTJGMjAyNi0wNy0xMi1ob3ctdG8tcmVhZC1tb3JlLWJvb2tzJTJGJTdDaHR0cHMlM0ElMkYlMkZzY290dG8ubWUlMkZibG9nJTJGMjAyNi0wNy0xMi1ob3ctdG8tcmVhZC1tb3JlLWJvb2tzJTJGJTdDSG93JTIwdG8lMjByZWFkJTIwbW9yZSUyMGJvb2tzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODIwNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxNSUzQTQ3JTNBMTYlMjAlMkIwMDAw",
+      "title": "How to read more books",
+      "pubDate": "Sun, 12 Jul 2026 15:47:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXN0LmdpdGh1Yi5jb20lMkZjZXJlYmxhYiUyRmRjOWE0MGJjMjYxMjBmNDU0MGU0ZTA5Yjc1ZmZiNTQ3JTdDaHR0cHMlM0ElMkYlMkZnaXN0LmdpdGh1Yi5jb20lMkZjZXJlYmxhYiUyRmRjOWE0MGJjMjYxMjBmNDU0MGU0ZTA5Yjc1ZmZiNTQ3JTdDV2hhdCUyMHhBSSdzJTIwR3JvayUyMGJ1aWxkJTIwQ0xJJTIwc2VuZHMlMjB0byUyMHhBSSUzQSUyMEElMjB3aXJlLWxldmVsJTIwYW5hbHlzaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3NzM3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDAxJTNBMDklM0E1MCUyMCUyQjAwMDA",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "pubDate": "Sun, 12 Jul 2026 01:09:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]

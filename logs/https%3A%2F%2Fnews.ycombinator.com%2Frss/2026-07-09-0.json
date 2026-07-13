@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-09",
     "newestItemDate": "2026-07-09",
-    "itemCount": 55,
-    "generatedAt": "2026-07-13T04:05:18.367Z"
+    "itemCount": 57,
+    "generatedAt": "2026-07-13T11:32:21.135Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaHViLmNsdWIlMkZ3cml0aW5ncyUyRjIwMjYlMkZqdWx5JTJGY2hlY2steW91ci1zY3JvbGxoZWlnaHQlMkYlN0NodHRwcyUzQSUyRiUyRnNodWIuY2x1YiUyRndyaXRpbmdzJTJGMjAyNiUyRmp1bHklMkZjaGVjay15b3VyLXNjcm9sbGhlaWdodCUyRiU3Q0FyZSUyMHlvdSUyMHRlbGxpbmclMjBtZSUyMGElMjByZWFkb25seSUyMHByb3BlcnR5JTIwaXMlMjB3cmVja2luZyUyMG15JTIwcGVyZm9ybWFuY2UlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0OTk4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE3JTNBNTklM0ExMyUyMCUyQjAwMDA",
       "title": "Are you telling me a readonly property is wrecking my performance?",
       "pubDate": "Thu, 09 Jul 2026 17:59:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQ4NzQxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQ4NzQxJTdDQXNrJTIwSE4lM0ElMjBEb2VzJTIwYW55b25lJTIwbGV0JTIwQUklMjBhZ2VudHMlMjBwbGF5JTIwZ2FtZXMlMjBqdXN0JTIwZm9yJTIwZnVuJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDg3NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNiUzQTQyJTNBMzklMjAlMkIwMDAw",
+      "title": "Ask HN: Does anyone let AI agents play games just for fun?",
+      "pubDate": "Thu, 09 Jul 2026 16:42:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmlldmUtYS5naXRodWIuaW8lMkZzb3VuZF90b29sYm94JTJGdmlueWxfZXhwbGFpbmVkJTJGdmlueWxfZXhwbGFpbmVkLmh0bWwlN0NodHRwcyUzQSUyRiUyRmZyaWV2ZS1hLmdpdGh1Yi5pbyUyRnNvdW5kX3Rvb2xib3glMkZ2aW55bF9leHBsYWluZWQlMkZ2aW55bF9leHBsYWluZWQuaHRtbCU3Q0ZyaWV2ZSUyMFZpbnlsJTIwRXhwbGFpbmVkJTIwJUUyJTgwJTkzJTIwTWljcm9zY29waWMlMjBzdHlsdXMlMkZncm9vdmUlMjBwaHlzaWNzJTIwc2ltdWxhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODQzNzc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTAlM0E0NSUzQTM2JTIwJTJCMDAwMA",
+      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
+      "pubDate": "Thu, 09 Jul 2026 10:45:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
     }
   ]

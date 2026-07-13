@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-13",
     "newestItemDate": "2026-07-13",
-    "itemCount": 3,
-    "generatedAt": "2026-07-13T04:05:18.366Z"
+    "itemCount": 11,
+    "generatedAt": "2026-07-13T11:32:21.134Z"
   },
   "items": [
     {
@@ -24,6 +24,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg2NzQxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg2NzQxJTdDQXNrJTIwSE4lM0ElMjBBZGQlMjBmbGFnJTIwZm9yJTIwQUktZ2VuZXJhdGVkJTIwYXJ0aWNsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4Njc0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDAxJTNBMjQlM0EyMCUyMCUyQjAwMDA",
       "title": "Ask HN: Add flag for AI-generated articles",
       "pubDate": "Mon, 13 Jul 2026 01:24:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXlteWVycy5vcmclMkZwb3N0JTJGemVkLWNyZWF0b3ItY2FsbHMtc3BhZGUtYS1zcGFkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGcmF5bXllcnMub3JnJTJGcG9zdCUyRnplZC1jcmVhdG9yLWNhbGxzLXNwYWRlLWEtc3BhZGUlMkYlN0NaaWclMjBDcmVhdG9yJTIwQ2FsbHMlMjBTcGFkZSUyMGElMjBTcGFkZSUyQyUyMEFudGhyb3BpYyUyMEJsb3dzJTIwU21va2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4OTYzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDA4JTNBMzklM0EzOSUyMCUyQjAwMDA",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "pubDate": "Mon, 13 Jul 2026 08:39:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlzcnVwdGlvbmJhbmtpbmcuY29tJTJGMjAyNiUyRjA3JTJGMTMlMkZpbnNpZGUtYmVya3NoaXJlcy0zOTctYmlsbGlvbi1iZXQtYWdhaW5zdC1hbi1vdmVyaGVhdGVkLW1hcmtldCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRpc3J1cHRpb25iYW5raW5nLmNvbSUyRjIwMjYlMkYwNyUyRjEzJTJGaW5zaWRlLWJlcmtzaGlyZXMtMzk3LWJpbGxpb24tYmV0LWFnYWluc3QtYW4tb3ZlcmhlYXRlZC1tYXJrZXQlMkYlN0NCZXJrc2hpcmUncyUyMCUyNDM5N0IlMjBCZXQlMjBBZ2FpbnN0JTIwYW4lMjBPdmVyaGVhdGVkJTIwTWFya2V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODk0MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAwOCUzQTE1JTNBNTIlMjAlMkIwMDAw",
+      "title": "Berkshire's $397B Bet Against an Overheated Market",
+      "pubDate": "Mon, 13 Jul 2026 08:15:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMDclMkZhbm90aGVyLXJpZGljdWxvdXMtaW50ZXJyYWlsLWhvbGlkYXktNjM3OWttLWFuZC0xMy1jb3VudHJpZXMtb3Zlci03LXdlZWtzJTJGJTdDaHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMDclMkZhbm90aGVyLXJpZGljdWxvdXMtaW50ZXJyYWlsLWhvbGlkYXktNjM3OWttLWFuZC0xMy1jb3VudHJpZXMtb3Zlci03LXdlZWtzJTJGJTdDSW50ZXJyYWlsJTNBJTIwNiUyQzM3OUttJTIwYW5kJTIwMTMlMjBDb3VudHJpZXMlMjBvdmVyJTIwNyUyMHdlZWtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODkzNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAwOCUzQTA0JTNBMzAlMjAlMkIwMDAw",
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "pubDate": "Mon, 13 Jul 2026 08:04:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZxdWFkcnVwbGluZy1jb2RlLXBlcmZvcm1hbmNlLXdpdGgtYS11c2VsZXNzLWlmJTJGJTdDaHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZxdWFkcnVwbGluZy1jb2RlLXBlcmZvcm1hbmNlLXdpdGgtYS11c2VsZXNzLWlmJTJGJTdDUXVhZHJ1cGxpbmclMjBjb2RlJTIwcGVyZm9ybWFuY2UlMjB3aXRoJTIwYSUyMCUyMnVzZWxlc3MlMjIlMjBpZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg5MTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMDclM0EzNyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Quadrupling code performance with a \"useless\" if",
+      "pubDate": "Mon, 13 Jul 2026 07:37:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtbWFwcGVkLmJsb2clMkZwb3N0cyUyRjUyLWJhY2t0cmFjay1mcmVlLWN1cnNpdmUlN0NodHRwcyUzQSUyRiUyRm1tYXBwZWQuYmxvZyUyRnBvc3RzJTJGNTItYmFja3RyYWNrLWZyZWUtY3Vyc2l2ZSU3Q0JhY2t0cmFjay1GcmVlJTIwQ3Vyc2l2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg4NTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMDYlM0EwOCUzQTEyJTIwJTJCMDAwMA",
+      "title": "Backtrack-Free Cursive",
+      "pubDate": "Mon, 13 Jul 2026 06:08:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGZmlsbSUyRjIwMjYlMkZqdWwlMkYxMyUyRnNhbS1uZWlsbC1kZWF0aC1hY3Rvci1kaWVzLWFnZWQtNzglN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZmaWxtJTJGMjAyNiUyRmp1bCUyRjEzJTJGc2FtLW5laWxsLWRlYXRoLWFjdG9yLWRpZXMtYWdlZC03OCU3Q1NhbSUyME5laWxsJTIwaGFzJTIwZGllZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg4NDY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMDYlM0EwMiUzQTExJTIwJTJCMDAwMA",
+      "title": "Sam Neill has died",
+      "pubDate": "Mon, 13 Jul 2026 06:02:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubHlyZWJpcmRkcmVhbWluZy5jb20lMkZwb3N0JTJGdGhlLWdyYXBoLXRoYXQtc2hvdWxkLWJlLWZyb250LXBhZ2UtbmV3cyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmx5cmViaXJkZHJlYW1pbmcuY29tJTJGcG9zdCUyRnRoZS1ncmFwaC10aGF0LXNob3VsZC1iZS1mcm9udC1wYWdlLW5ld3MlN0NUaGUlMjBHcmFwaCUyMFRoYXQlMjBTaG91bGQlMjBCZSUyMEZyb250LVBhZ2UlMjBOZXdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODgzMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAwNSUzQTM1JTNBMjclMjAlMkIwMDAw",
+      "title": "The Graph That Should Be Front-Page News",
+      "pubDate": "Mon, 13 Jul 2026 05:35:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2NobGFlJTJGQmVhdmlzVWx0cmFzb3VuZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnNjaGxhZSUyRkJlYXZpc1VsdHJhc291bmQlN0NCZWF2aXMlMjBVbHRyYXNvdW5kJTIwUG5QJTIwSVNBJTIwU291bmQlMjBDYXJkJTIwUmVwbGljYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg4MTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMDUlM0ExNSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "pubDate": "Mon, 13 Jul 2026 05:15:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
     }
   ]
