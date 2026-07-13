@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 44,
-    "generatedAt": "2026-07-12T17:28:55.755Z"
+    "itemCount": 47,
+    "generatedAt": "2026-07-13T04:05:18.367Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjIwMGE2YzQ0LTliNjYtNGFmMy04MmViLTk4YWNiNTM4OThlNCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkYyMDBhNmM0NC05YjY2LTRhZjMtODJlYi05OGFjYjUzODk4ZTQlN0NMZXNzb25zJTIwZnJvbSUyMHRoZSUyMFZhc2ElMjBTaGlwd3JlY2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzODAyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDIyJTNBMDclM0EwNSUyMCUyQjAwMDA",
       "title": "Lessons from the Vasa Shipwreck",
       "pubDate": "Wed, 08 Jul 2026 22:07:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWJ1c2VjLmFpJTJGcmVzZWFyY2glMkZpb25zdGFjay1wYXJ0LTIlMkYlN0NodHRwcyUzQSUyRiUyRm5lYnVzZWMuYWklMkZyZXNlYXJjaCUyRmlvbnN0YWNrLXBhcnQtMiUyRiU3Q0dob3N0TG9jayUyQyUyMGElMjBzdGFjay1VQUYlMjB0aGF0JTIwaGFzJTIwZXhpc3RlZCUyMGluJTIwYWxsJTIwTGludXglMjBkaXN0cmlidXRpb25zJTIwZm9yJTIwMTUlMjB5ZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM0MzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTYlM0E1MyUzQTU4JTIwJTJCMDAwMA",
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "pubDate": "Wed, 08 Jul 2026 16:53:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRnF1ZXN0LXNoaXB3cmVjay1leHBlZGl0aW9uLWltYWdlcy05LjcyNjIyMjklN0NodHRwcyUzQSUyRiUyRnd3dy5jYmMuY2ElMkZuZXdzJTJGY2FuYWRhJTJGcXVlc3Qtc2hpcHdyZWNrLWV4cGVkaXRpb24taW1hZ2VzLTkuNzI2MjIyOSU3Q0ZpcnN0JTIwbG9vayUyMGF0JTIwUXVlc3QlMkMlMjB0aGUlMjBmaW5hbCUyMHNoaXAlMjBvZiUyMEFudGFyY3RpYyUyMGV4cGxvcmVyJTIwU2hhY2tsZXRvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODMxODQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMTMlM0EzOSUzQTU5JTIwJTJCMDAwMA",
+      "title": "First look at Quest, the final ship of Antarctic explorer Shackleton",
+      "pubDate": "Wed, 08 Jul 2026 13:39:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3VzYW5yaWdldHRpLmNvbSUyRnBoeXNpY3MlN0NodHRwcyUzQSUyRiUyRnd3dy5zdXNhbnJpZ2V0dGkuY29tJTJGcGh5c2ljcyU3Q1NvJTIweW91JTIwd2FudCUyMHRvJTIwbGVhcm4lMjBwaHlzaWNzJTIwKHNlY29uZCUyMGVkaXRpb24lMkMlMjAyMDIxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODI3MTI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMDMlM0EyOCUzQTAwJTIwJTJCMDAwMA",
+      "title": "So you want to learn physics (second edition, 2021)",
+      "pubDate": "Wed, 08 Jul 2026 03:28:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]

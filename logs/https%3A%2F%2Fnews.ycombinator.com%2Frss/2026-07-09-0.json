@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-09",
     "newestItemDate": "2026-07-09",
-    "itemCount": 52,
-    "generatedAt": "2026-07-12T04:02:55.193Z"
+    "itemCount": 55,
+    "generatedAt": "2026-07-13T04:05:18.367Z"
   },
   "items": [
     {
@@ -318,6 +318,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2aXNpdGZhcm9laXNsYW5kcy5jb20lMkZlbiUyRnBsYW4teW91ci1zdGF5JTJGZ2V0dGluZy1hcm91bmQlMkZ3b3JsZC1maXJzdC11bmRlci1zZWEtcm91bmRhYm91dCU3Q2h0dHBzJTNBJTJGJTJGdmlzaXRmYXJvZWlzbGFuZHMuY29tJTJGZW4lMkZwbGFuLXlvdXItc3RheSUyRmdldHRpbmctYXJvdW5kJTJGd29ybGQtZmlyc3QtdW5kZXItc2VhLXJvdW5kYWJvdXQlN0NKZWxseWZpc2glMjBVbmRlcnNlYSUyMFJvdW5kYWJvdXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0MDE1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDAyJTNBMTclM0E1OSUyMCUyQjAwMDA",
       "title": "Jellyfish Undersea Roundabout",
       "pubDate": "Thu, 09 Jul 2026 02:17:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FsY3VsaXguZGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYWxjdWxpeC5kZSUyRiU3Q0NhbGN1bGl4JTNBJTIwQSUyMEZyZWUlMjBTb2Z0d2FyZSUyMFRocmVlLURpbWVuc2lvbmFsJTIwU3RydWN0dXJhbCUyMEZpbml0ZSUyMEVsZW1lbnQlMjBQcm9ncmFtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NTI3MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAyMSUzQTM5JTNBMTclMjAlMkIwMDAw",
+      "title": "Calculix: A Free Software Three-Dimensional Structural Finite Element Program",
+      "pubDate": "Thu, 09 Jul 2026 21:39:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWxpc3Blci5tZSUyRnRoZS1mb3VyLWhvcnNlbWVuLWJlaGluZC10aG91c2FuZHMtb2YtcG9zdGdyZXMtb3V0YWdlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFsaXNwZXIubWUlMkZ0aGUtZm91ci1ob3JzZW1lbi1iZWhpbmQtdGhvdXNhbmRzLW9mLXBvc3RncmVzLW91dGFnZXMlMkYlN0NUaGUlMjBmb3VyJTIwaG9yc2VtZW4lMjBiZWhpbmQlMjBQb3N0Z3JlcyUyMG91dGFnZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg1MTA2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE5JTNBMjAlM0ExMSUyMCUyQjAwMDA",
+      "title": "The four horsemen behind Postgres outages",
+      "pubDate": "Thu, 09 Jul 2026 19:20:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaHViLmNsdWIlMkZ3cml0aW5ncyUyRjIwMjYlMkZqdWx5JTJGY2hlY2steW91ci1zY3JvbGxoZWlnaHQlMkYlN0NodHRwcyUzQSUyRiUyRnNodWIuY2x1YiUyRndyaXRpbmdzJTJGMjAyNiUyRmp1bHklMkZjaGVjay15b3VyLXNjcm9sbGhlaWdodCUyRiU3Q0FyZSUyMHlvdSUyMHRlbGxpbmclMjBtZSUyMGElMjByZWFkb25seSUyMHByb3BlcnR5JTIwaXMlMjB3cmVja2luZyUyMG15JTIwcGVyZm9ybWFuY2UlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0OTk4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE3JTNBNTklM0ExMyUyMCUyQjAwMDA",
+      "title": "Are you telling me a readonly property is wrecking my performance?",
+      "pubDate": "Thu, 09 Jul 2026 17:59:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
     }
   ]
