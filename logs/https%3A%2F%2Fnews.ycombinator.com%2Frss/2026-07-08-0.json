@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-08",
     "newestItemDate": "2026-07-08",
-    "itemCount": 48,
-    "generatedAt": "2026-07-13T11:32:21.135Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-13T18:12:35.137Z"
   },
   "items": [
     {
@@ -294,6 +294,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbmRpcm9iZXJ0cy5jb20lMkZjaXRpemVuc2hpcCUyRnRoZS1zb2NpYWwtcGh5c2ljcy1vZi1jb252ZXJzYXRpb24tY2l0aXplbnNoaXAtbGVhZGVyc2hpcCU3Q2h0dHBzJTNBJTJGJTJGYW5kaXJvYmVydHMuY29tJTJGY2l0aXplbnNoaXAlMkZ0aGUtc29jaWFsLXBoeXNpY3Mtb2YtY29udmVyc2F0aW9uLWNpdGl6ZW5zaGlwLWxlYWRlcnNoaXAlN0NUaGUlMjBzb2NpYWwlMjBwaHlzaWNzJTIwb2YlMjBjb252ZXJzYXRpb24lM0ElMjBDb21tdW5pY2F0aW9uJTIwcGF0dGVybnMlMjBtYXR0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyODU3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDA3JTNBMDUlM0E0OSUyMCUyQjAwMDA",
       "title": "The social physics of conversation: Communication patterns matter",
       "pubDate": "Wed, 08 Jul 2026 07:05:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5rbGludXguY29tJTJGYmxvZyUyRnYxLTUtcmVsZWFzZSU3Q2h0dHBzJTNBJTJGJTJGZGFua2xpbnV4LmNvbSUyRmJsb2clMkZ2MS01LXJlbGVhc2UlN0NETVMlMjAxLjUlMjAlMjJUaGUlMjBXb2x2ZXJpbmUlMjIlMjBSZWxlYXNlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODM3NDEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDglMjBKdWwlMjAyMDI2JTIwMjElM0EwNCUzQTUyJTIwJTJCMDAwMA",
+      "title": "DMS 1.5 \"The Wolverine\" Released",
+      "pubDate": "Wed, 08 Jul 2026 21:04:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmN3eWUwZGx6Z2VqbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjd3llMGRsemdlam8lN0NUaGUlMjAnYWJzb2x1dGUlMjBtYWdpYyclMjBvZiUyME1vcnNlJTIwY29kZSUyMHRoYXQlMjBzdGlsbCUyMGNvbm5lY3RzJTIwcGVvcGxlJTIwZ2xvYmFsbHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgzMjMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDE0JTNBMjAlM0EwOSUyMCUyQjAwMDA",
+      "title": "The 'absolute magic' of Morse code that still connects people globally",
+      "pubDate": "Wed, 08 Jul 2026 14:20:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmJsb2cudmFuaWxsYWphdmEuYmxvZyUyRjIwMjYlMkYwNiUyRndoeS15b3Utc2hvdWxkLXR1bi1jb2RlLWJlZm9yZS15b3VyLmh0bWwlN0NodHRwJTNBJTJGJTJGYmxvZy52YW5pbGxhamF2YS5ibG9nJTJGMjAyNiUyRjA2JTJGd2h5LXlvdS1zaG91bGQtdHVuLWNvZGUtYmVmb3JlLXlvdXIuaHRtbCU3Q1R1bmUlMjBDb2RlJTIwQmVmb3JlJTIwWW91ciUyMEdhcmJhZ2UlMjBDb2xsZWN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODgyODk4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA4JTIwSnVsJTIwMjAyNiUyMDA4JTNBMDUlM0ExMCUyMCUyQjAwMDA",
+      "title": "Tune Code Before Your Garbage Collector",
+      "pubDate": "Wed, 08 Jul 2026 08:05:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-08-0.json"
     }
   ]

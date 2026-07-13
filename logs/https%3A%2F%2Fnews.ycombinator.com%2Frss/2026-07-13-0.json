@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-13",
     "newestItemDate": "2026-07-13",
-    "itemCount": 11,
-    "generatedAt": "2026-07-13T11:32:21.134Z"
+    "itemCount": 26,
+    "generatedAt": "2026-07-13T18:12:35.136Z"
   },
   "items": [
     {
@@ -72,6 +72,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2NobGFlJTJGQmVhdmlzVWx0cmFzb3VuZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnNjaGxhZSUyRkJlYXZpc1VsdHJhc291bmQlN0NCZWF2aXMlMjBVbHRyYXNvdW5kJTIwUG5QJTIwSVNBJTIwU291bmQlMjBDYXJkJTIwUmVwbGljYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg4MTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMDUlM0ExNSUzQTE0JTIwJTJCMDAwMA",
       "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
       "pubDate": "Mon, 13 Jul 2026 05:15:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhLm50c2IuZ292JTJGY2Fyb2wtcmVwZ2VuJTJGYXBpJTJGQXZpYXRpb24lMkZSZXBvcnRNYWluJTJGR2VuZXJhdGVOZXdlc3RSZXBvcnQlMkYyMDMxOTElMkZwZGYlN0NodHRwcyUzQSUyRiUyRmRhdGEubnRzYi5nb3YlMkZjYXJvbC1yZXBnZW4lMkZhcGklMkZBdmlhdGlvbiUyRlJlcG9ydE1haW4lMkZHZW5lcmF0ZU5ld2VzdFJlcG9ydCUyRjIwMzE5MSUyRnBkZiU3Q05UU0IlMjBSZXBvcnQlMjBvbiUyME5ldEpldHMlMjBmaXJzdCUyMGZhdGFsaXR5JTIwaW4lMjA0MCUyMHllYXJzJTIwKEpvc2glMjBCYWVyJTIwUklQKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk2MzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTclM0E1NSUzQTI4JTIwJTJCMDAwMA",
+      "title": "NTSB Report on NetJets first fatality in 40 years (Josh Baer RIP)",
+      "pubDate": "Mon, 13 Jul 2026 17:55:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcGdkb2clMkZqb2JzJTJGdVd5bVVZeS1mb3VuZGluZy1zb2Z0d2FyZS1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnBnZG9nJTJGam9icyUyRnVXeW1VWXktZm91bmRpbmctc29mdHdhcmUtZW5naW5lZXIlN0NQZ0RvZyUyMChZQyUyMFAyNSklMjBJcyUyMEhpcmluZyUyMGElMjBGb3VuZGluZyUyMFNvZnR3YXJlJTIwRW5naW5lZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg5NTU2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDE3JTNBMDAlM0E1NCUyMCUyQjAwMDA",
+      "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
+      "pubDate": "Mon, 13 Jul 2026 17:00:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZXQtaW5zY3JpYmUuY29tJTJGYmxvZyUyRmFwcGxlLXNwZWVjaC1hcGktYmVuY2htYXJrLmh0bWwlN0NodHRwcyUzQSUyRiUyRmdldC1pbnNjcmliZS5jb20lMkZibG9nJTJGYXBwbGUtc3BlZWNoLWFwaS1iZW5jaG1hcmsuaHRtbCU3Q0FwcGxlJ3MlMjBuZXclMjBTcGVlY2hBbmFseXplciUyMEFQSSUyQyUyMGJlbmNobWFya2VkJTIwYWdhaW5zdCUyMFdoaXNwZXIlMjBhbmQlMjBpdHMlMjBwcmVkZWNlc3NvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk0NzUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTYlM0EwNiUzQTA4JTIwJTJCMDAwMA",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "pubDate": "Mon, 13 Jul 2026 16:06:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRldpa2lwZWRpYSUzQVdpa2lwZWRpYV9TaWducG9zdCUyRjIwMjYtMDctMTMlMkZTcGVjaWFsX3JlcG9ydCU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZXaWtpcGVkaWElM0FXaWtpcGVkaWFfU2lnbnBvc3QlMkYyMDI2LTA3LTEzJTJGU3BlY2lhbF9yZXBvcnQlN0NXaWtpcGVkaWElMjBlc2NhcGVzJTIwQ2F0ZWdvcnklMjAxJTIwZGVzaWduYXRpb24lMjB1bmRlciUyMHRoZSUyMFVLJTIwT25saW5lJTIwU2FmZXR5JTIwQWN0JTIwZm9yJTIwbm93JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTQ2NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTU5JTNBMzYlMjAlMkIwMDAw",
+      "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
+      "pubDate": "Mon, 13 Jul 2026 15:59:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRvbnoub3JnJTJGY29uY3VycmVuY3ktaW4tYyUyRiU3Q2h0dHBzJTNBJTJGJTJGYW50b256Lm9yZyUyRmNvbmN1cnJlbmN5LWluLWMlMkYlN0NHby1GbGF2b3JlZCUyMENvbmN1cnJlbmN5JTIwaW4lMjBDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTQ2MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTU2JTNBMjIlMjAlMkIwMDAw",
+      "title": "Go-Flavored Concurrency in C",
+      "pubDate": "Mon, 13 Jul 2026 15:56:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwNyUyRjEzJTJGbGFwZC1sZXRzLWNvbnRyYWN0LXdpdGgtc3VydmVpbGxhbmNlLWdpYW50LWZsb2NrLWV4cGlyZS1jaXRpbmctc2VyaW91cy1jb25jZXJucy1vdmVyLWNpdmlsLWxpYmVydGllcy1hbmQtcHJpdmFjeSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDclMkYxMyUyRmxhcGQtbGV0cy1jb250cmFjdC13aXRoLXN1cnZlaWxsYW5jZS1naWFudC1mbG9jay1leHBpcmUtY2l0aW5nLXNlcmlvdXMtY29uY2VybnMtb3Zlci1jaXZpbC1saWJlcnRpZXMtYW5kLXByaXZhY3klMkYlN0NMQVBEJTIwbGV0cyUyMGNvbnRyYWN0JTIwd2l0aCUyMHN1cnZlaWxsYW5jZSUyMGdpYW50JTIwRmxvY2slMjBleHBpcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg5Mzk0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMTElM0E1MCUyMCUyQjAwMDA",
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "pubDate": "Mon, 13 Jul 2026 15:11:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWJpZW5zYW5nbGFyZC5uZXQlMkZzaWxwaGVlZCUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmZhYmllbnNhbmdsYXJkLm5ldCUyRnNpbHBoZWVkJTJGaW5kZXguaHRtbCU3Q1RoZSUyMGFydCUyMGFuZCUyMGVuZ2luZWVyaW5nJTIwb2YlMjBTZWdhJTIwQ0QlMjBTaWxwaGVlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODkzNjM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTQlM0E1MiUzQTMzJTIwJTJCMDAwMA",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "pubDate": "Mon, 13 Jul 2026 14:52:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGaW50cm9kdWNpbmctcHJlY3Vyc29yJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGaW50cm9kdWNpbmctcHJlY3Vyc29yJTJGJTdDUHJlY3Vyc29yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTM0NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTM5JTNBMzglMjAlMkIwMDAw",
+      "title": "Precursor",
+      "pubDate": "Mon, 13 Jul 2026 14:39:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2xhd2t3b3JrJTJGY2xhd2slN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZjbGF3a3dvcmslMkZjbGF3ayU3Q1Nob3clMjBITiUzQSUyMENsYXdrJTIwJUUyJTgwJTkzJTIwR2l2ZSUyMGNvZGluZyUyMGFnZW50cyUyMGElMjBkaXNwb3NhYmxlJTIwTGludXglMjBWTSUyQyUyMG5vdCUyMHlvdXIlMjBsYXB0b3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg5Mjg1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDE0JTNBMDIlM0EwMyUyMCUyQjAwMDA",
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "pubDate": "Mon, 13 Jul 2026 14:02:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRm5va2lhLXBob25lcy1oaXN0b3J5JTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRm5va2lhLXBob25lcy1oaXN0b3J5JTdDTm9raWEncyUyMDE0JTIwWWVhcnMlMjBvZiUyME1vYmlsZS1QaG9uZSUyMFN1cHJlbWFjeSUyMEVuZGVkJTIwaW4lMjBhbiUyMEFmdGVybm9vbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODkyNzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTMlM0E1NCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
+      "pubDate": "Mon, 13 Jul 2026 13:54:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlc29sb2dpYy5jb20lMkZiZW5jaG1hcmtpbmctdGVzbGEtZ3B1cyUyRiU3Q2h0dHBzJTNBJTJGJTJGZXNvbG9naWMuY29tJTJGYmVuY2htYXJraW5nLXRlc2xhLWdwdXMlMkYlN0NCZW5jaG1hcmtpbmclMjAxNSUyMCUyMkUtV2FzdGUlMjIlMjBHUFVzJTIwd2l0aCUyME1vZGVybiUyMFdvcmtsb2FkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODkyNjM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTMlM0E0OCUzQTQyJTIwJTJCMDAwMA",
+      "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+      "pubDate": "Mon, 13 Jul 2026 13:48:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmFfZ3JlZW5fYmVpbmclMkZzdGF0dXMlMkYyMDc2NTk4ODk3Nzc5MDIwMTU5JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmFfZ3JlZW5fYmVpbmclMkZzdGF0dXMlMkYyMDc2NTk4ODk3Nzc5MDIwMTU5JTdDR3JvayUyMENMSSUyMHVwbG9hZGVkJTIwdGhlJTIwd2hvbGUlMjBob21lJTIwZGlyZWN0b3J5JTIwdG8lMjBHQ1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg5MjQ2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzUlM0EzMiUyMCUyQjAwMDA",
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "pubDate": "Mon, 13 Jul 2026 13:35:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLnJpcGUubmV0JTJGYXV0aG9yJTJGcmVtY28tdmFuLW1vb2slMkZhLWZhcmV3ZWxsLXRvLWFycHMtaXB2NC1zZXJ2aWNlLW9uLWlwdjYtb25seS1uZXR3b3JrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGFicy5yaXBlLm5ldCUyRmF1dGhvciUyRnJlbWNvLXZhbi1tb29rJTJGYS1mYXJld2VsbC10by1hcnBzLWlwdjQtc2VydmljZS1vbi1pcHY2LW9ubHktbmV0d29ya3MlMkYlN0NBJTIwRmFyZXdlbGwlMjB0byUyMEFSUHMlM0ElMjBJUHY0JTIwU2VydmljZSUyMG9uJTIwSVB2Ni1Pbmx5JTIwTmV0d29ya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg5MTk4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDEyJTNBNTglM0EwNyUyMCUyQjAwMDA",
+      "title": "A Farewell to ARPs: IPv4 Service on IPv6-Only Networks",
+      "pubDate": "Mon, 13 Jul 2026 12:58:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZmxvb2R0aWRlJTJGZG9tLWRvY3glN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmbG9vZHRpZGUlMkZkb20tZG9jeCU3Q1Nob3clMjBITiUzQSUyMERPTS1kb2N4JTIwJUUyJTgwJTkzJTIwSFRNTCUyMHRvJTIwbmF0aXZlJTJDJTIwZWRpdGFibGUlMjBXb3JkJTIwZG9jcyUyMChNSVQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTEyNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxMSUzQTUxJTNBNTYlMjAlMkIwMDAw",
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "pubDate": "Mon, 13 Jul 2026 11:51:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqaXZ4LmNvbSUyRmRlbnNoYSU3Q2h0dHBzJTNBJTJGJTJGaml2eC5jb20lMkZkZW5zaGElN0NBJTIwdm94ZWwlMjBUb2t5byUyMGluJTIwcmVhbCUyMEphcGFuJTIwdGltZSUyMCVFMiU4MCU5MyUyMHJpZGUlMjB0aGUlMjBZYW1hbm90ZSUyMGxpbmUlMjBhbmQlMjBzdHVkeSUyMEphcGFuZXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTA5NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxMSUzQTE4JTNBMzAlMjAlMkIwMDAw",
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "pubDate": "Mon, 13 Jul 2026 11:18:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
     }
   ]
