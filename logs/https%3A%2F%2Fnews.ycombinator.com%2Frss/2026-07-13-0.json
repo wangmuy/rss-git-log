@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-13",
     "newestItemDate": "2026-07-13",
-    "itemCount": 26,
-    "generatedAt": "2026-07-13T18:12:35.136Z"
+    "itemCount": 39,
+    "generatedAt": "2026-07-14T03:39:58.466Z"
   },
   "items": [
     {
@@ -162,6 +162,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqaXZ4LmNvbSUyRmRlbnNoYSU3Q2h0dHBzJTNBJTJGJTJGaml2eC5jb20lMkZkZW5zaGElN0NBJTIwdm94ZWwlMjBUb2t5byUyMGluJTIwcmVhbCUyMEphcGFuJTIwdGltZSUyMCVFMiU4MCU5MyUyMHJpZGUlMjB0aGUlMjBZYW1hbm90ZSUyMGxpbmUlMjBhbmQlMjBzdHVkeSUyMEphcGFuZXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTA5NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxMSUzQTE4JTNBMzAlMjAlMkIwMDAw",
       "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
       "pubDate": "Mon, 13 Jul 2026 11:18:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGV1dGgtaW8uZ2l0aHViLmlvJTJGc3glMkYyMDI2JTJGMDclMkYxMCUyRnlvdXItZHJvcGJveC1pcy1ub3ctYS1za2lsbC1zZXJ2ZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGc2xldXRoLWlvLmdpdGh1Yi5pbyUyRnN4JTJGMjAyNiUyRjA3JTJGMTAlMkZ5b3VyLWRyb3Bib3gtaXMtbm93LWEtc2tpbGwtc2VydmVyLmh0bWwlN0NTaG93JTIwSE4lM0ElMjBTeCUyMDIuMCUyMCVFMiU4MCU5MyUyMFNoYXJlJTIwQUklMjBza2lsbHMlMjB3aXRoJTIweW91ciUyMHRlYW0lMjB0aHJvdWdoJTIwYSUyMERyb3Bib3glMjBmb2xkZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwMDMxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDIzJTNBMjYlM0E1MiUyMCUyQjAwMDA",
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "pubDate": "Mon, 13 Jul 2026 23:26:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNtMmRycnY2cTU0byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjbTJkcnJ2NnE1NG8lN0NBbiUyMEVuZ2xpc2h3b21hbiUyMHdobyUyMHNrZXRjaGVkJTIwSW5kaWElMjBiZWZvcmUlMjBwaG90b2dyYXBoeSUyMHRvb2slMjBob2xkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDAxOTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAyMyUzQTEyJTNBMjIlMjAlMkIwMDAw",
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "pubDate": "Mon, 13 Jul 2026 23:12:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAxNDE4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjAxNDE4JTdDQSUyMFN0dWR5JTIwb2YlMjBNaWNyb3NvZnQncyUyMEVhcmx5JTIwMjAyNiUyMFJvbGxvdXQlMjBvZiUyMENsYXVkZSUyMENvZGUlMjBhbmQlMjBHaXRIdWIlMjBDb3BpbG90JTIwQ0xJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTkzMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAyMSUzQTQzJTNBNTElMjAlMkIwMDAw",
+      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "pubDate": "Mon, 13 Jul 2026 21:43:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2JzLmFzaGJ5aHEuY29tJTJGU2FsZXNQYXRyaW90JTJGZGYyMjM3MjctNTc4MS00MzNlLWJjNzUtMmFhNWJmOGRjOGQ3JTdDaHR0cHMlM0ElMkYlMkZqb2JzLmFzaGJ5aHEuY29tJTJGU2FsZXNQYXRyaW90JTJGZGYyMjM3MjctNTc4MS00MzNlLWJjNzUtMmFhNWJmOGRjOGQ3JTdDU2FsZXNQYXRyaW90JTIwKFlDJTIwVzI1KSUyMElzJTIwSGlyaW5nJTIwRnVsbCUyMFN0YWNrJTIwRW5naW5lZXJzJTIwKFNGKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk4ODE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMjElM0EwMSUzQTAwJTIwJTJCMDAwMA",
+      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+      "pubDate": "Mon, 13 Jul 2026 21:01:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFyY2VscGFuc2UlMkZ5b3V0dWJlLWd1aXRhci10YWItcGFyc2VyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFyY2VscGFuc2UlMkZ5b3V0dWJlLWd1aXRhci10YWItcGFyc2VyJTdDU2hvdyUyMEhOJTNBJTIwWW91VHViZSUyMEd1aXRhciUyMFRhYiUyMFBhcnNlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk4MTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMjAlM0ExMyUzQTE0JTIwJTJCMDAwMA",
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "pubDate": "Mon, 13 Jul 2026 20:13:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeHFsc3lzdGVtcyUyRnhhcnJheS1zcWwlMkZibG9iJTJGY2xhdWRlJTJGeGFycmF5LXNxbC1tbmlzdC1kZW1vJTJGYmVuY2htYXJrcyUyRm5uLnB5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeHFsc3lzdGVtcyUyRnhhcnJheS1zcWwlMkZibG9iJTJGY2xhdWRlJTJGeGFycmF5LXNxbC1tbmlzdC1kZW1vJTJGYmVuY2htYXJrcyUyRm5uLnB5JTdDU2hvdyUyMEhOJTNBJTIwSSUyMGltcGxlbWVudGVkJTIwYSUyMG5ldXJhbCUyMG5ldHdvcmslMjBpbiUyMFNRTCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk3OTc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMjAlM0EwMCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "pubDate": "Mon, 13 Jul 2026 20:00:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2hvaXMuY29tJTJGd2hvaXMlMkZ0Lm1lJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2hvaXMuY29tJTJGd2hvaXMlMkZ0Lm1lJTdDVGVsZWdyYW0ncyUyMHQubWUlMjBkb21haW4lMjBoYXMlMjBiZWVuJTIwc3VzcGVuZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTc4NzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxOSUzQTUyJTNBMjUlMjAlMkIwMDAw",
+      "title": "Telegram's t.me domain has been suspended",
+      "pubDate": "Mon, 13 Jul 2026 19:52:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicnVjZWVkaWdlci5jb20lMkZwb3N0cyUyRnRmdHAtaG9uZXlwb3QtcmVzdWx0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJ1Y2VlZGlnZXIuY29tJTJGcG9zdHMlMkZ0ZnRwLWhvbmV5cG90LXJlc3VsdHMlMkYlN0NURlRQJTIwSG9uZXklMjBQb3QlMjBSZXN1bHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTczMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxOSUzQTExJTNBMTclMjAlMkIwMDAw",
+      "title": "TFTP Honey Pot Results",
+      "pubDate": "Mon, 13 Jul 2026 19:11:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2ZnYXRlLmNvbSUyRnBvbGl0aWNzJTJGYXJ0aWNsZSUyRm1ldGEtc29jaWFsLW1lZGlhLXRlZW5hZ2Vycy0yMjMzNzcyNC5waHAlN0NodHRwcyUzQSUyRiUyRnd3dy5zZmdhdGUuY29tJTJGcG9saXRpY3MlMkZhcnRpY2xlJTJGbWV0YS1zb2NpYWwtbWVkaWEtdGVlbmFnZXJzLTIyMzM3NzI0LnBocCU3Q1RoZSUyMGluZmluaXRlJTIwc2Nyb2xsJTIwbWF5JTIwYmVjb21lJTIwZW5kYW5nZXJlZCUyMGlmJTIwY29udHJvdmVyc2lhbCUyMENhbGlmLiUyMGxhdyUyMHBhc3NlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk3MTA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTglM0E1MyUzQTUzJTIwJTJCMDAwMA",
+      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+      "pubDate": "Mon, 13 Jul 2026 18:53:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dHdpbGxzZXkuY29tJTJGYnVpbGRpbmctYW5kLXNoaXBwaW5nLW1hYy1hbmQtaW9zLWFwcHMtd2l0aG91dC1ldmVyLW9wZW5pbmcteGNvZGUlMkYlN0NodHRwcyUzQSUyRiUyRnNjb3R0d2lsbHNleS5jb20lMkZidWlsZGluZy1hbmQtc2hpcHBpbmctbWFjLWFuZC1pb3MtYXBwcy13aXRob3V0LWV2ZXItb3BlbmluZy14Y29kZSUyRiU3Q0J1aWxkaW5nJTIwYW5kJTIwc2hpcHBpbmclMjBNYWMlMjBhbmQlMjBpT1MlMjBhcHBzJTIwd2l0aG91dCUyMG9wZW5pbmclMjBYY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk2NjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTglM0EyMiUzQTE2JTIwJTJCMDAwMA",
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "pubDate": "Mon, 13 Jul 2026 18:22:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWtlaG9ub2x1bHUuZ2l0aHViLmlvJTJGbGludXgtb24tMzJ4JTJGJTdDaHR0cHMlM0ElMkYlMkZjYWtlaG9ub2x1bHUuZ2l0aHViLmlvJTJGbGludXgtb24tMzJ4JTJGJTdDTGludXglMjBvbiUyMHRoZSUyMFNlZ2ElMjAzMlguJTIwV2hvJTIwbmVlZHMlMjBoYXJkd2FyZSUyMHN5bmNocm9uaXphdGlvbiUyMHByaW1pdGl2ZXMlMjBhbnl3YXklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg5NjYwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDE4JTNBMTglM0EyNSUyMCUyQjAwMDA",
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "pubDate": "Mon, 13 Jul 2026 18:18:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamJ3aW50ZXJzJTJGamFjcXVhcmQtbGFuZyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmpid2ludGVycyUyRmphY3F1YXJkLWxhbmclN0NTaG93JTIwSE4lM0ElMjBKYWNxdWFyZCUyQyUyMGElMjBwcm9ncmFtbWluZyUyMGxhbmd1YWdlJTIwZm9yJTIwQUktd3JpdHRlbiUyQyUyMGh1bWFuLXJldmlld2VkJTIwY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk0NjMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTUlM0E1NiUzQTAyJTIwJTJCMDAwMA",
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "pubDate": "Mon, 13 Jul 2026 15:56:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrbmV5LmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGaGFja25leS5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBIYWNrbmV5JTIwJUUyJTgwJTkzJTIwQ29tcGFyZSUyMFViZXIlMkMlMjBMeWZ0JTJDJTIwV2F5bW8lMkMlMjBhbmQlMjBSb2JvdGF4aSUyMFByaWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODkzNTUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTQlM0E0NyUzQTIzJTIwJTJCMDAwMA",
+      "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
+      "pubDate": "Mon, 13 Jul 2026 14:47:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
     }
   ]
