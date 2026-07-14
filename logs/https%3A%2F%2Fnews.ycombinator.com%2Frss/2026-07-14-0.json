@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 21,
-    "generatedAt": "2026-07-14T10:12:31.004Z"
+    "itemCount": 38,
+    "generatedAt": "2026-07-14T17:36:35.248Z"
   },
   "items": [
     {
@@ -132,6 +132,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsYWxpdG0uY29tJTJGcG9zdCUyRmdpdC1oaXN0b3J5JTJGJTdDaHR0cHMlM0ElMkYlMkZsYWxpdG0uY29tJTJGcG9zdCUyRmdpdC1oaXN0b3J5JTJGJTdDVGhlJTIwZ2l0JTIwaGlzdG9yeSUyMGNvbW1hbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwMTAxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDAwJTNBNTclM0ExMSUyMCUyQjAwMDA",
       "title": "The git history command",
       "pubDate": "Tue, 14 Jul 2026 00:57:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa29udGlnbyUyRmpvYnMlMkZ1TnR0cmx2LWhlYWQtb2Ytc2VjdXJpdHklN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZrb250aWdvJTJGam9icyUyRnVOdHRybHYtaGVhZC1vZi1zZWN1cml0eSU3Q0tvbnRpZ28lMjAoWUMlMjBTMjQpJTIwSXMlMjBIaXJpbmclMjAoSGVhZCUyMG9mJTIwU2VjdXJpdHkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDk4MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNyUzQTAwJTNBMTclMjAlMkIwMDAw",
+      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+      "pubDate": "Tue, 14 Jul 2026 17:00:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjclMkYxMyUyRnRoZS10b3dlci1rZWVwcy1yaXNpbmclMkYlN0NodHRwcyUzQSUyRiUyRmx1Y3Vtci5wb2Nvby5vcmclMkYyMDI2JTJGNyUyRjEzJTJGdGhlLXRvd2VyLWtlZXBzLXJpc2luZyUyRiU3Q1RoZSUyMFRvd2VyJTIwS2VlcHMlMjBSaXNpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwOTc4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDE2JTNBNTclM0E1NCUyMCUyQjAwMDA",
+      "title": "The Tower Keeps Rising",
+      "pubDate": "Tue, 14 Jul 2026 16:57:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVpc2UuZGUlMkZlbiUyRm5ld3MlMkZTLVAtZG93bmdyYWRlcy1PcmFjbGUtdG8tQkJCLW9ubHktb25lLW5vdGNoLWFib3ZlLWp1bmstbGV2ZWwtMTEzNjM0NzIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhlaXNlLmRlJTJGZW4lMkZuZXdzJTJGUy1QLWRvd25ncmFkZXMtT3JhY2xlLXRvLUJCQi1vbmx5LW9uZS1ub3RjaC1hYm92ZS1qdW5rLWxldmVsLTExMzYzNDcyLmh0bWwlN0NTJTI2UCUyMGRvd25ncmFkZXMlMjBPcmFjbGUlMjB0byUyMEJCQiUyMCVFMiU4MCU5MyUyMG9ubHklMjBvbmUlMjBub3RjaCUyMGFib3ZlJTIwanVuayUyMGxldmVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDk3NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTU2JTNBNDglMjAlMkIwMDAw",
+      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
+      "pubDate": "Tue, 14 Jul 2026 16:56:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJjby1uZXR0LmRlJTJGYmxvZyUyRm1lYXN1cmluZy1pbnB1dC1sYXRlbmN5LW9uLWxpbnV4LXgxMS12cy13YXlsYW5kLXZyci1keHZrJTJGJTdDaHR0cHMlM0ElMkYlMkZtYXJjby1uZXR0LmRlJTJGYmxvZyUyRm1lYXN1cmluZy1pbnB1dC1sYXRlbmN5LW9uLWxpbnV4LXgxMS12cy13YXlsYW5kLXZyci1keHZrJTJGJTdDTWVhc3VyaW5nJTIwSW5wdXQlMjBMYXRlbmN5JTIwb24lMjBMaW51eCUzQSUyMFgxMSUyMHZzLiUyMFdheWxhbmQlMkMlMjBWUlIlMkMlMjBhbmQlMjBEWFZLJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDk0MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTM2JTNBMDYlMjAlMkIwMDAw",
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "pubDate": "Tue, 14 Jul 2026 16:36:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ25vc3QuYWklN0NodHRwcyUzQSUyRiUyRmFnbm9zdC5haSUyRiU3Q0xhdW5jaCUyMEhOJTNBJTIwQWdub3N0JTIwQUklMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwRXh0cmFjdCUyMHVzZXIlMjBmZWVkYmFjayUyMGZyb20lMjBhZ2VudCUyMGNvbnZlcnNhdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwODk1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDE2JTNBMDYlM0ExOCUyMCUyQjAwMDA",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "pubDate": "Tue, 14 Jul 2026 16:06:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmVyYmFwcmltYS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy52ZXJiYXByaW1hLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyME9wZW5pbmclMjBsaW5lcyUyMG9mJTIwZmFtb3VzJTIwbGl0ZXJhcnklMjB3b3JrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTA4MjcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTUlM0EyNCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Show HN: Opening lines of famous literary works",
+      "pubDate": "Tue, 14 Jul 2026 15:24:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXJ0ZmlzaC5haSUyRnAlMkZvZmZsb2FkaW5nLXRoaW5raW5nLXRvLWFpJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXJ0ZmlzaC5haSUyRnAlMkZvZmZsb2FkaW5nLXRoaW5raW5nLXRvLWFpJTdDQXJlJTIwd2UlMjBvZmZsb2FkaW5nJTIwdG9vJTIwbXVjaCUyMG9mJTIwb3VyJTIwdGhpbmtpbmclMjB0byUyMEFJJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDgxNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNSUzQTE4JTNBMTMlMjAlMkIwMDAw",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "pubDate": "Tue, 14 Jul 2026 15:18:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm9iYnl0YWJsZXMuaW8lMkZwJTJGdGhlLWFnZW50aWMtbG9vcC10aHJlZS1sb29wcy1pbi1hJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYm9iYnl0YWJsZXMuaW8lMkZwJTJGdGhlLWFnZW50aWMtbG9vcC10aHJlZS1sb29wcy1pbi1hJTdDVGhlJTIwQWdlbnRpYyUyMExvb3AlM0ElMjBUaHJlZSUyMGxvb3BzJTIwaW4lMjBhJTIwdHJlbmNoJTIwY29hdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTA3NjcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTQlM0EzOSUzQTU2JTIwJTJCMDAwMA",
+      "title": "The Agentic Loop: Three loops in a trench coat",
+      "pubDate": "Tue, 14 Jul 2026 14:39:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6c2VyZ2UuY29tJTJGcG9zdHMlMkZ0ZW5zb3IlMkYlN0NodHRwcyUzQSUyRiUyRnpzZXJnZS5jb20lMkZwb3N0cyUyRnRlbnNvciUyRiU3Q1RlbnNvciUyMElzJTIwdGhlJTIwTWlnaHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwNjEyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDEyJTNBNTYlM0EyMSUyMCUyQjAwMDA",
+      "title": "Tensor Is the Might",
+      "pubDate": "Tue, 14 Jul 2026 12:56:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGFuYXU1dGluJTJGYWktdHJhaW5zLWFpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGFuYXU1dGluJTJGYWktdHJhaW5zLWFpJTdDU2hvdyUyMEhOJTNBJTIwSSUyMFJMLXRyYWluZWQlMjBhbiUyMGFnZW50JTIwdGhhdCUyMHRyYWlucyUyMG1vZGVscyUyMHdpdGglMjBSTCUyMChmb3IlMjAlRTIlODAlOTMlMjQxLjNrKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTA1OTE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTIlM0E0MSUzQTI1JTIwJTJCMDAwMA",
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "pubDate": "Tue, 14 Jul 2026 12:41:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyeWFuams1LmdpdGh1Yi5pbyUyRnBvc3RzJTJGcmprLWR1Y2slMkYlN0NodHRwcyUzQSUyRiUyRnJ5YW5qazUuZ2l0aHViLmlvJTJGcG9zdHMlMkZyamstZHVjayUyRiU3Q0JlYXV0aWZ1bCUyMFR5cGUlMjBFcmFzdXJlJTIwd2l0aCUyMEMlMkIlMkIyNiUyMFJlZmxlY3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwNTkxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDEyJTNBNDAlM0E1MCUyMCUyQjAwMDA",
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "pubDate": "Tue, 14 Jul 2026 12:40:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLnBhc3RldXJsYWJzLmFpJTJGcHJvamVjdHMlMkZ0ZXNzZXJhY3QtY29yZSUyRmxhdGVzdCUyRmJsb2clMkYyMDI2LTA3LTA5LWVuenltZS1sZm9ydHJhbi1hdXRvZGlmZi5odG1sJTdDaHR0cHMlM0ElMkYlMkZkb2NzLnBhc3RldXJsYWJzLmFpJTJGcHJvamVjdHMlMkZ0ZXNzZXJhY3QtY29yZSUyRmxhdGVzdCUyRmJsb2clMkYyMDI2LTA3LTA5LWVuenltZS1sZm9ydHJhbi1hdXRvZGlmZi5odG1sJTdDRGlmZmVyZW50aWFibGUlMjBGb3J0cmFuJTIwd2l0aCUyMExGb3J0cmFuJTIwYW5kJTIwRW56eW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDU2NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxMiUzQTIxJTNBNDYlMjAlMkIwMDAw",
+      "title": "Differentiable Fortran with LFortran and Enzyme",
+      "pubDate": "Tue, 14 Jul 2026 12:21:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHcuY29tJTJGZW4lMkZnZXJtYW55LWZyZWVkb20tb2YtaW5mb3JtYXRpb24tYWN0JTJGYS03NzkzOTY5NSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmR3LmNvbSUyRmVuJTJGZ2VybWFueS1mcmVlZG9tLW9mLWluZm9ybWF0aW9uLWFjdCUyRmEtNzc5Mzk2OTUlN0NHZXJtYW55JTIwc2V0JTIwdG8lMjByZXN0cmljdCUyMGl0cyUyMEZyZWVkb20lMjBvZiUyMEluZm9ybWF0aW9uJTIwQWN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDUyOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxMSUzQTQ5JTNBNDglMjAlMkIwMDAw",
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "pubDate": "Tue, 14 Jul 2026 11:49:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2xhLmRldiUyRnBvc3RzJTJGaG93LXRvLXN0b3AtY2xhdWRlLWZyb20tc2F5aW5nLWxvYWQtYmVhcmluZyU3Q2h0dHBzJTNBJTJGJTJGam9sYS5kZXYlMkZwb3N0cyUyRmhvdy10by1zdG9wLWNsYXVkZS1mcm9tLXNheWluZy1sb2FkLWJlYXJpbmclN0NIb3clMjB0byUyMHN0b3AlMjBDbGF1ZGUlMjBmcm9tJTIwc2F5aW5nJTIwbG9hZC1iZWFyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDUyNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxMSUzQTQ2JTNBMDIlMjAlMkIwMDAw",
+      "title": "How to stop Claude from saying load-bearing",
+      "pubDate": "Tue, 14 Jul 2026 11:46:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZGkuYmlvJTJGcmVhbGl0eSU3Q2h0dHBzJTNBJTJGJTJGYWRpLmJpbyUyRnJlYWxpdHklN0NQdW5jaCUyMHlvdXJzZWxmJTIwaW4lMjB0aGUlMjBmYWNlJTIwd2l0aCUyMHJlYWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwNTExOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDExJTNBMzMlM0ExOSUyMCUyQjAwMDA",
+      "title": "Punch yourself in the face with reality",
+      "pubDate": "Tue, 14 Jul 2026 11:33:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29tbW9ucmVhZGVyLmNvLnVrJTJGcCUyRm5vLXNwYW5pc2gtcmVhZGluZy1jcmlzaXMlN0NodHRwcyUzQSUyRiUyRnd3dy5jb21tb25yZWFkZXIuY28udWslMkZwJTJGbm8tc3BhbmlzaC1yZWFkaW5nLWNyaXNpcyU3Q05vJTIwU3BhbmlzaCUyMHJlYWRpbmclMjBjcmlzaXMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwNTEwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDExJTNBMzElM0E1OSUyMCUyQjAwMDA",
+      "title": "No Spanish reading crisis?",
+      "pubDate": "Tue, 14 Jul 2026 11:31:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXUtZGlnaXRhbC1pZGVudGl0eS13YWxsZXQlMkZhdi1kb2MtdGVjaG5pY2FsLXNwZWNpZmljYXRpb24lMkZkaXNjdXNzaW9ucyUyRjE5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXUtZGlnaXRhbC1pZGVudGl0eS13YWxsZXQlMkZhdi1kb2MtdGVjaG5pY2FsLXNwZWNpZmljYXRpb24lMkZkaXNjdXNzaW9ucyUyRjE5JTdDRXVyb3BlYW4lMjAlMjJhZ2UlMjB2ZXJpZmljYXRpb24lMjIlMjAlMjJhcHAlMjIlMjBmb3JjaW5nJTIwZXZlcnlvbmUlMjB0byUyMHVzZSUyMEFuZHJvaWQlMjBvciUyMGlPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTAzNzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMDglM0EzNCUzQTU3JTIwJTJCMDAwMA",
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "pubDate": "Tue, 14 Jul 2026 08:34:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]

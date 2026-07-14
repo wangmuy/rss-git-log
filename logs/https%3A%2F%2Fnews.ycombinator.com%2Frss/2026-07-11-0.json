@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-11",
     "newestItemDate": "2026-07-11",
-    "itemCount": 27,
-    "generatedAt": "2026-07-14T10:12:31.005Z"
+    "itemCount": 29,
+    "generatedAt": "2026-07-14T17:36:35.248Z"
   },
   "items": [
     {
@@ -168,6 +168,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeWFnYXJlYSUyRmpla3RleCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnlhZ2FyZWElMkZqZWt0ZXglN0NKZWt0ZXglMjAwLjIuMCUyMCVFMiU4MCU5MyUyMEElMjBKZWt5bGwlMjBwbHVnaW4lMjBmb3IlMjBMYVRlWCUyMHJlbmRlcmluZyUyMGlzJTIwbm93JTIwfjEweCUyMGZhc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODcyNzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMTUlM0ExOSUzQTI1JTIwJTJCMDAwMA",
       "title": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
       "pubDate": "Sat, 11 Jul 2026 15:19:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnNmLm9yZyUyRmJsb2dzJTJGY29tbXVuaXR5JTJGYmxvY2tpbmctYm90bmV0cy13aXRoLXJlYWN0aW9uJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZnNmLm9yZyUyRmJsb2dzJTJGY29tbXVuaXR5JTJGYmxvY2tpbmctYm90bmV0cy13aXRoLXJlYWN0aW9uJTdDSG93JTIwdGhlJTIwRlNGJTIwc3lzYWRtaW5zJTIwYmxvY2slMjBib3RuZXRzJTIwd2l0aCUyMHJlYWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzY4MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAyMyUzQTI2JTNBMTIlMjAlMkIwMDAw",
+      "title": "How the FSF sysadmins block botnets with reaction",
+      "pubDate": "Sat, 11 Jul 2026 23:26:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5xLm1lJTJGMjAyNiUyRjA3JTJGMDklMkZ5b3VyLWFwcC1jb3VsZC1oYXZlLWJlZW4tYS13ZWJwYWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5xLm1lJTJGMjAyNiUyRjA3JTJGMDklMkZ5b3VyLWFwcC1jb3VsZC1oYXZlLWJlZW4tYS13ZWJwYWdlJTJGJTdDWW91ciUyMCdhcHAnJTIwY291bGQlMjBoYXZlJTIwYmVlbiUyMGElMjB3ZWJwYWdlJTIwKHNvJTIwSSUyMGZpeGVkJTIwaXQlMjBmb3IlMjB5b3UpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4Njk5ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAwOCUzQTIxJTNBMjclMjAlMkIwMDAw",
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "pubDate": "Sat, 11 Jul 2026 08:21:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
     }
   ]

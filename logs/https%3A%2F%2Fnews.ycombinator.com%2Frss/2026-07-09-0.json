@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-09",
     "newestItemDate": "2026-07-09",
-    "itemCount": 62,
-    "generatedAt": "2026-07-14T10:12:31.005Z"
+    "itemCount": 64,
+    "generatedAt": "2026-07-14T17:36:35.249Z"
   },
   "items": [
     {
@@ -378,6 +378,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2V2aW4tZ2lic29uLmNvbSUyRmJsb2clMkZ3cml0aW5nLWEtYmluZGxlc3MtZ3B1LWFic3RyYWN0aW9uLWxheWVyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cua2V2aW4tZ2lic29uLmNvbSUyRmJsb2clMkZ3cml0aW5nLWEtYmluZGxlc3MtZ3B1LWFic3RyYWN0aW9uLWxheWVyJTJGJTdDV3JpdGluZyUyMGElMjBiaW5kbGVzcyUyMEdQVSUyMGFic3RyYWN0aW9uJTIwbGF5ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0NTk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE0JTNBMDAlM0ExOSUyMCUyQjAwMDA",
       "title": "Writing a bindless GPU abstraction layer",
       "pubDate": "Thu, 09 Jul 2026 14:00:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYW1wb3J0LmF6dXJld2Vic2l0ZXMubmV0JTJGcHVicyUyRnBheG9zLXNpbXBsZS5wZGYlN0NodHRwcyUzQSUyRiUyRmxhbXBvcnQuYXp1cmV3ZWJzaXRlcy5uZXQlMkZwdWJzJTJGcGF4b3Mtc2ltcGxlLnBkZiU3Q1BheG9zJTIwTWFkZSUyMFNpbXBsZSUyMCgyMDAxKSU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODUwNjg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMTglM0E1MSUzQTIyJTIwJTJCMDAwMA",
+      "title": "Paxos Made Simple (2001)[pdf]",
+      "pubDate": "Thu, 09 Jul 2026 18:51:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmlzdC5vcmclMkZzY2llbmNlJTJGbml0cm9nZW4tY3ljbGUtY2VsbC1kaXNjb3Zlcnktbml0cm9wbGFzdC1zY2llbmNlLWZlcnRpbGl6ZXItYWxnYWUtYmFjdGVyaWElMkYlN0NodHRwcyUzQSUyRiUyRmdyaXN0Lm9yZyUyRnNjaWVuY2UlMkZuaXRyb2dlbi1jeWNsZS1jZWxsLWRpc2NvdmVyeS1uaXRyb3BsYXN0LXNjaWVuY2UtZmVydGlsaXplci1hbGdhZS1iYWN0ZXJpYSUyRiU3Q0ElMjB0aW55JTIwY2VsbCUyMHRoYXQlMjBicm9rZSUyMGElMjBiaWclMjBydWxlJTIwb2YlMjBiaW9sb2d5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NDc5NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOSUyMEp1bCUyMDIwMjYlMjAxNSUzQTUwJTNBNDAlMjAlMkIwMDAw",
+      "title": "A tiny cell that broke a big rule of biology",
+      "pubDate": "Thu, 09 Jul 2026 15:50:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
     }
   ]

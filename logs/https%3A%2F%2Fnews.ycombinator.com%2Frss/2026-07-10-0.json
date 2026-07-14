@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-10",
     "newestItemDate": "2026-07-10",
-    "itemCount": 43,
-    "generatedAt": "2026-07-14T10:12:31.005Z"
+    "itemCount": 45,
+    "generatedAt": "2026-07-14T17:36:35.248Z"
   },
   "items": [
     {
@@ -264,6 +264,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwNzA5LW5hbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwNzA5LW5hbi5odG1sJTdDVHdvJTIwQ2FzZSUyMFN0dWRpZXMlMjBvZiUyME5hTiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU1MDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMDIlM0EyNyUzQTU1JTIwJTJCMDAwMA",
       "title": "Two Case Studies of NaN",
       "pubDate": "Fri, 10 Jul 2026 02:27:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhvdWdodHdvcmtzLmNvbSUyRmluc2lnaHRzJTJGYmxvZyUyRm9wZW4tc291cmNlJTJGemVyby1jb3N0LWZhbGxhY3ktb3Blbi1zb3VyY2UtYWdlbnRpYy1lcmElN0NodHRwcyUzQSUyRiUyRnd3dy50aG91Z2h0d29ya3MuY29tJTJGaW5zaWdodHMlMkZibG9nJTJGb3Blbi1zb3VyY2UlMkZ6ZXJvLWNvc3QtZmFsbGFjeS1vcGVuLXNvdXJjZS1hZ2VudGljLWVyYSU3Q1RoZSUyMHplcm8tY29zdCUyMGZhbGxhY3klM0ElMjBvcGVuLXNvdXJjZSUyMHNvZnR3YXJlJTIwaW4lMjB0aGUlMjBhZ2VudGljJTIwZXJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjUwMDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAyMCUzQTQ1JTNBNDMlMjAlMkIwMDAw",
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "pubDate": "Fri, 10 Jul 2026 20:45:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGZXBkZiUyRjEwLjExNDUlMkYzNjE3Ny4zNjE5NCU3Q2h0dHBzJTNBJTJGJTJGZGwuYWNtLm9yZyUyRmRvaSUyRmVwZGYlMkYxMC4xMTQ1JTJGMzYxNzcuMzYxOTQlN0NTdXBlcm9wdGltaXplciUyMCVFMiU4MCU5MyUyMEElMjBMb29rJTIwYXQlMjB0aGUlMjBTbWFsbGVzdCUyMFByb2dyYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg2MzMzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDE4JTNBMTUlM0EyNyUyMCUyQjAwMDA",
+      "title": "Superoptimizer – A Look at the Smallest Program",
+      "pubDate": "Fri, 10 Jul 2026 18:15:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
     }
   ]
