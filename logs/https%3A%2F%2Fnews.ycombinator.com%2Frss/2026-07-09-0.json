@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-09",
     "newestItemDate": "2026-07-09",
-    "itemCount": 61,
-    "generatedAt": "2026-07-14T03:39:58.466Z"
+    "itemCount": 62,
+    "generatedAt": "2026-07-14T10:12:31.005Z"
   },
   "items": [
     {
@@ -372,6 +372,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyYW5kb2ZvbnQuYWxlc2guY29tJTdDaHR0cHMlM0ElMkYlMkZyYW5kb2ZvbnQuYWxlc2guY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwUmFuZG9Gb250JTIwJUUyJTgwJTkzJTIwQSUyMGJyb3dzZXIlMjBmb3IlMjBHb29nbGUlMjBGb250cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODUyMTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDklMjBKdWwlMjAyMDI2JTIwMjAlM0E0NiUzQTM4JTIwJTJCMDAwMA",
       "title": "Show HN: RandoFont – A browser for Google Fonts",
       "pubDate": "Thu, 09 Jul 2026 20:46:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2V2aW4tZ2lic29uLmNvbSUyRmJsb2clMkZ3cml0aW5nLWEtYmluZGxlc3MtZ3B1LWFic3RyYWN0aW9uLWxheWVyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cua2V2aW4tZ2lic29uLmNvbSUyRmJsb2clMkZ3cml0aW5nLWEtYmluZGxlc3MtZ3B1LWFic3RyYWN0aW9uLWxheWVyJTJGJTdDV3JpdGluZyUyMGElMjBiaW5kbGVzcyUyMEdQVSUyMGFic3RyYWN0aW9uJTIwbGF5ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg0NTk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA5JTIwSnVsJTIwMjAyNiUyMDE0JTNBMDAlM0ExOSUyMCUyQjAwMDA",
+      "title": "Writing a bindless GPU abstraction layer",
+      "pubDate": "Thu, 09 Jul 2026 14:00:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-09-0.json"
     }
   ]

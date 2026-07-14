@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-13",
     "newestItemDate": "2026-07-13",
-    "itemCount": 39,
-    "generatedAt": "2026-07-14T03:39:58.466Z"
+    "itemCount": 42,
+    "generatedAt": "2026-07-14T10:12:31.004Z"
   },
   "items": [
     {
@@ -240,6 +240,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrbmV5LmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGaGFja25leS5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBIYWNrbmV5JTIwJUUyJTgwJTkzJTIwQ29tcGFyZSUyMFViZXIlMkMlMjBMeWZ0JTJDJTIwV2F5bW8lMkMlMjBhbmQlMjBSb2JvdGF4aSUyMFByaWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODkzNTUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTQlM0E0NyUzQTIzJTIwJTJCMDAwMA",
       "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
       "pubDate": "Mon, 13 Jul 2026 14:47:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLnByYWdtYXRpY2VuZ2luZWVyLmNvbSUyRnAlMkZmb3J3YXJkLWRlcGxveWVkLWVuZ2luZWVycyU3Q2h0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5wcmFnbWF0aWNlbmdpbmVlci5jb20lMkZwJTJGZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlcnMlN0NXaGF0JTIwYXJlJTIwRm9yd2FyZCUyMERlcGxveWVkJTIwRW5naW5lZXJzJTJDJTIwYW5kJTIwd2h5JTIwYXJlJTIwdGhleSUyMHNvJTIwaW4lMjBkZW1hbmQlM0YlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwMDQzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDIzJTNBMzklM0ExMCUyMCUyQjAwMDA",
+      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "pubDate": "Mon, 13 Jul 2026 23:39:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUG9zZWlkb24tZmFuJTJGbGludXgtMC4xMS1ycyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlBvc2VpZG9uLWZhbiUyRmxpbnV4LTAuMTEtcnMlN0NMaW51eCUyMDAuMTElMjByZXdyaXR0ZW4lMjBpbiUyMGlkaW9tYXRpYyUyMFJ1c3QlMkMlMjBib290cyUyMGluJTIwUUVNVSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk4MTM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMjAlM0ExMSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+      "pubDate": "Mon, 13 Jul 2026 20:11:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRm5va2lhLXBob25lcy1oaXN0b3J5JTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRm5va2lhLXBob25lcy1oaXN0b3J5JTdDTm9raWElRTIlODAlOTlzJTIweWVhcnMlMjBvZiUyMG1vYmlsZS1waG9uZSUyMHN1cHJlbWFjeSUyMGVuZGVkJTIwaW4lMjBhbiUyMGFmdGVybm9vbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODkyNzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTMlM0E1NCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Nokia’s years of mobile-phone supremacy ended in an afternoon",
+      "pubDate": "Mon, 13 Jul 2026 13:54:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
     }
   ]

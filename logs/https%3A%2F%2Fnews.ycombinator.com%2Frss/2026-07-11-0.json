@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-11",
     "newestItemDate": "2026-07-11",
-    "itemCount": 24,
-    "generatedAt": "2026-07-12T10:03:16.234Z"
+    "itemCount": 27,
+    "generatedAt": "2026-07-14T10:12:31.005Z"
   },
   "items": [
     {
@@ -150,6 +150,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRm1vZGVybi1kZWNvci1tYXktYmUtc3RyYWluaW5nLXBlb3BsZXMtYnJhaW5zJTJGJTdDaHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRm1vZGVybi1kZWNvci1tYXktYmUtc3RyYWluaW5nLXBlb3BsZXMtYnJhaW5zJTJGJTdDTW9kZXJuJTIwZGVjb3IlMjBtYXklMjBiZSUyMHN0cmFpbmluZyUyMHBlb3BsZSdzJTIwYnJhaW5zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzM0MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAxNiUzQTI4JTNBNDglMjAlMkIwMDAw",
       "title": "Modern decor may be straining people's brains",
       "pubDate": "Sat, 11 Jul 2026 16:28:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXgtYW1iLmdpdGh1Yi5pbyUyRmJsb2clMkZ6ZXJvX2tub3dsZWRnZV90b2xzdG95YW5fYXJ0JTJGJTdDaHR0cHMlM0ElMkYlMkZtYXgtYW1iLmdpdGh1Yi5pbyUyRmJsb2clMkZ6ZXJvX2tub3dsZWRnZV90b2xzdG95YW5fYXJ0JTJGJTdDWmVybyUyMEtub3dsZWRnZSUyMFRvbHN0b3lhbiUyMEFydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODcyOTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMTUlM0EzOCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Zero Knowledge Tolstoyan Art",
+      "pubDate": "Sat, 11 Jul 2026 15:38:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibGlucnkub3JnJTJGbGNkLWNsb2NrJTJGJTdDaHR0cHMlM0ElMkYlMkZibGlucnkub3JnJTJGbGNkLWNsb2NrJTJGJTdDSG93JTIwdG8lMjBidWlsZCUyMGElMjBjaXJjdWxhciUyMExDRCUyMGNsb2NrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzI4MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAxNSUzQTIzJTNBNTQlMjAlMkIwMDAw",
+      "title": "How to build a circular LCD clock",
+      "pubDate": "Sat, 11 Jul 2026 15:23:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeWFnYXJlYSUyRmpla3RleCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnlhZ2FyZWElMkZqZWt0ZXglN0NKZWt0ZXglMjAwLjIuMCUyMCVFMiU4MCU5MyUyMEElMjBKZWt5bGwlMjBwbHVnaW4lMjBmb3IlMjBMYVRlWCUyMHJlbmRlcmluZyUyMGlzJTIwbm93JTIwfjEweCUyMGZhc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODcyNzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMTUlM0ExOSUzQTI1JTIwJTJCMDAwMA",
+      "title": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
+      "pubDate": "Sat, 11 Jul 2026 15:19:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
     }
   ]

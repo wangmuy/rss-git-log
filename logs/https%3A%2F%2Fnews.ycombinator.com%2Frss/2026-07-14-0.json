@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 11,
-    "generatedAt": "2026-07-14T03:39:58.466Z"
+    "itemCount": 21,
+    "generatedAt": "2026-07-14T10:12:31.004Z"
   },
   "items": [
     {
@@ -72,6 +72,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvbS1pbnRlbGxpZ2VuY2UuY2glMkZwcm9qZWN0cyUyRnZvY2FsLW5vdGF0aW9uJTJGdm9jYWwtbm90YXRpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGb20taW50ZWxsaWdlbmNlLmNoJTJGcHJvamVjdHMlMkZ2b2NhbC1ub3RhdGlvbiUyRnZvY2FsLW5vdGF0aW9uLmh0bWwlN0NUdXJuJTIweW91ciUyMHNpbmdpbmclMjB2b2ljZSUyMGludG8lMjBwcmludGFibGUlMjBub3RlcyUyMChpbiUyMHRoZSUyMGJyb3dzZXIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDA2ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAwMCUzQTEwJTNBMzYlMjAlMkIwMDAw",
       "title": "Turn your singing voice into printable notes (in the browser)",
       "pubDate": "Tue, 14 Jul 2026 00:10:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHBjd2lyZS5jb20lMkYyMDI2JTJGMDclMkYwOSUyRnNwZWN0cmFsLWNvbXB1dGUtYWltcy10by1zZXQtY3VkYS1mcmVlLXdpbGwtaXQtc3VjY2VlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhwY3dpcmUuY29tJTJGMjAyNiUyRjA3JTJGMDklMkZzcGVjdHJhbC1jb21wdXRlLWFpbXMtdG8tc2V0LWN1ZGEtZnJlZS13aWxsLWl0LXN1Y2NlZWQlMkYlN0NBbHRlcm5hdGl2ZShzKSUyMHRvJTIwcnVuJTIwQ1VEQSUyMG9uJTIwbm9uLU52aWRpYSUyMGhhcmR3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDM3MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAwOCUzQTI0JTNBNDklMjAlMkIwMDAw",
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "pubDate": "Tue, 14 Jul 2026 08:24:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwNzA5LW5hbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwNzA5LW5hbi5odG1sJTdDVHdvJTIwQ2FzZSUyMFN0dWRpZXMlMjBvZiUyME5hTiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTAzNzAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMDglM0EyMiUzQTUyJTIwJTJCMDAwMA",
+      "title": "Two Case Studies of NaN",
+      "pubDate": "Tue, 14 Jul 2026 08:22:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaXJhZGl0eWEuZ2l0aHViLmlvJTJGcG9zdHMlMkZoYXJkd2FyZS1oYXphcmRzLWIyMDAlMkYlN0NodHRwcyUzQSUyRiUyRmhpcmFkaXR5YS5naXRodWIuaW8lMkZwb3N0cyUyRmhhcmR3YXJlLWhhemFyZHMtYjIwMCUyRiU3Q1RoZSUyMEFuYXRvbXklMjBvZiUyMGFuJTIwSW5zdHJ1Y3Rpb24lMjBQaXBlbGluZSUyMEhhemFyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTAzMTkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMDclM0EwNiUzQTUwJTIwJTJCMDAwMA",
+      "title": "The Anatomy of an Instruction Pipeline Hazard",
+      "pubDate": "Tue, 14 Jul 2026 07:06:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNnNTNsNzM3djFxbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjZzUzbDczN3YxcW8lN0NJbmRpYW4lMjBzY2llbnRpc3RzJTIwcHJvZHVjZSUyMG1vc3QlMjBkZXRhaWxlZCUyMDNEJTIwYXRsYXMlMjBvZiUyMHRoZSUyMGh1bWFuJTIwYnJhaW5zdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDMwODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAwNiUzQTQzJTNBMjglMjAlMkIwMDAw",
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "pubDate": "Tue, 14 Jul 2026 06:43:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZW5keC5kZXYlMkZibG9nJTJGMjAyNiUyRjA3JTJGMTMlMkZpbnB1dC1kaWdpdHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZ2VuZHguZGV2JTJGYmxvZyUyRjIwMjYlMkYwNyUyRjEzJTJGaW5wdXQtZGlnaXRzLmh0bWwlN0NKdXN0JTIwTGV0JTIwTWUlMjBXcml0ZSUyMERpZ2l0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTAyNzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMDUlM0E1NyUzQTUwJTIwJTJCMDAwMA",
+      "title": "Just Let Me Write Digits",
+      "pubDate": "Tue, 14 Jul 2026 05:57:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZW5lcmd5LmNvbS5hdSUyRmZyZWUtZGF5dGltZS1lbGVjdHJpY2l0eS1pcy1jb21pbmctaGVyZXMtaG93LWl0LWFjdHVhbGx5LXdvcmtzJTJGJTdDaHR0cHMlM0ElMkYlMkZsZW5lcmd5LmNvbS5hdSUyRmZyZWUtZGF5dGltZS1lbGVjdHJpY2l0eS1pcy1jb21pbmctaGVyZXMtaG93LWl0LWFjdHVhbGx5LXdvcmtzJTJGJTdDQXVzdHJhbGlhbiUyMGVuZXJneSUyMHJldGFpbGVycyUyMG11c3QlMjBwcm92aWRlJTIwdGhyZWUlMjBob3VycyUyMG9mJTIwZnJlZSUyMGRheXRpbWUlMjBlbGVjdHJpY2l0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTAyMzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMDQlM0EzMSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "pubDate": "Tue, 14 Jul 2026 04:31:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSmV0QnJhaW5zJTJGeW91dHJhY2tkYiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkpldEJyYWlucyUyRnlvdXRyYWNrZGIlN0NZb3VUcmFja0RCJTIwaXMlMjBhJTIwZ2VuZXJhbC11c2UlMjBvYmplY3Qtb3JpZW50ZWQlMjBncmFwaCUyMGRhdGFiYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDIwMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAwMyUzQTM5JTNBNTUlMjAlMkIwMDAw",
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "pubDate": "Tue, 14 Jul 2026 03:39:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZGlhbC53b3JsZCUyRmFydGljbGVzJTJGbmV3cyUyRmFtaXNoLXBlbm5zeWx2YW5pYS1kdXRjaCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWRpYWwud29ybGQlMkZhcnRpY2xlcyUyRm5ld3MlMkZhbWlzaC1wZW5uc3lsdmFuaWEtZHV0Y2glN0NPdXIlMjBBbWlzaCUyMExhbmd1YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDE2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAwMiUzQTQwJTNBNDElMjAlMkIwMDAw",
+      "title": "Our Amish Language",
+      "pubDate": "Tue, 14 Jul 2026 02:40:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWIuc3RhbmZvcmQuZWR1JTJGfmRudHNlJTJGd2lyZWxlc3NfYm9vay5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3ZWIuc3RhbmZvcmQuZWR1JTJGfmRudHNlJTJGd2lyZWxlc3NfYm9vay5odG1sJTdDRnVuZGFtZW50YWxzJTIwb2YlMjBXaXJlbGVzcyUyMENvbW11bmljYXRpb24lMjAoMjAwNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwMTQ1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDAyJTNBMTAlM0ExOSUyMCUyQjAwMDA",
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "pubDate": "Tue, 14 Jul 2026 02:10:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWxpdG0uY29tJTJGcG9zdCUyRmdpdC1oaXN0b3J5JTJGJTdDaHR0cHMlM0ElMkYlMkZsYWxpdG0uY29tJTJGcG9zdCUyRmdpdC1oaXN0b3J5JTJGJTdDVGhlJTIwZ2l0JTIwaGlzdG9yeSUyMGNvbW1hbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwMTAxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDAwJTNBNTclM0ExMSUyMCUyQjAwMDA",
+      "title": "The git history command",
+      "pubDate": "Tue, 14 Jul 2026 00:57:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]

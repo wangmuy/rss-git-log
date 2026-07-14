@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-10",
     "newestItemDate": "2026-07-10",
-    "itemCount": 42,
-    "generatedAt": "2026-07-13T18:12:35.136Z"
+    "itemCount": 43,
+    "generatedAt": "2026-07-14T10:12:31.005Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmaS1sZS5uZXQlMkZhcnhpdiUyRiU3Q2h0dHBzJTNBJTJGJTJGZmktbGUubmV0JTJGYXJ4aXYlMkYlN0NDb3VudGluZyUyMEFyWGl2JTIwRGVsYXlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NTU4ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAwNCUzQTUyJTNBMzQlMjAlMkIwMDAw",
       "title": "Counting ArXiv Delays",
       "pubDate": "Fri, 10 Jul 2026 04:52:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwNzA5LW5hbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwNzA5LW5hbi5odG1sJTdDVHdvJTIwQ2FzZSUyMFN0dWRpZXMlMjBvZiUyME5hTiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU1MDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMDIlM0EyNyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Two Case Studies of NaN",
+      "pubDate": "Fri, 10 Jul 2026 02:27:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
     }
   ]
