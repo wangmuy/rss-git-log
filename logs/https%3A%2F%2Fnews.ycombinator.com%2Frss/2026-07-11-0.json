@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-11",
     "newestItemDate": "2026-07-11",
-    "itemCount": 31,
-    "generatedAt": "2026-07-15T03:40:28.842Z"
+    "itemCount": 33,
+    "generatedAt": "2026-07-15T10:16:50.864Z"
   },
   "items": [
     {
@@ -192,6 +192,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoZWF0aGVyYnVybnMudGVjaCUyRjIwMjYlMkYwNyUyRjA4JTJGdGhlLWtpZHMtd2l0aC1waG9uZXMtYXJlLWFscmlnaHQlMkYlN0NodHRwcyUzQSUyRiUyRmhlYXRoZXJidXJucy50ZWNoJTJGMjAyNiUyRjA3JTJGMDglMkZ0aGUta2lkcy13aXRoLXBob25lcy1hcmUtYWxyaWdodCUyRiU3Q1RoZSUyMGtpZHMlMjB3aXRoJTIwcGhvbmVzJTIwYXJlJTIwYWxyaWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODcwMjE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMDklM0EwOCUzQTA4JTIwJTJCMDAwMA",
       "title": "The kids with phones are alright",
       "pubDate": "Sat, 11 Jul 2026 09:08:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmloZHpwJTJGY29tYmluYXRvcmlhbC1nYW1lcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnZpaGR6cCUyRmNvbWJpbmF0b3JpYWwtZ2FtZXMlN0NDb21iaW5hdG9yaWFsJTIwR2FtZXMlMjBpbiUyMExlYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3NjMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDExJTIwSnVsJTIwMjAyNiUyMDIyJTNBMTElM0EyNCUyMCUyQjAwMDA",
+      "title": "Combinatorial Games in Lean",
+      "pubDate": "Sat, 11 Jul 2026 22:11:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkFuZG9uXyhtYW51ZmFjdHVyaW5nKSU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZBbmRvbl8obWFudWZhY3R1cmluZyklN0NBbmRvbiUyMChtYW51ZmFjdHVyaW5nKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc1MTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMTklM0E0OSUzQTA3JTIwJTJCMDAwMA",
+      "title": "Andon (manufacturing)",
+      "pubDate": "Sat, 11 Jul 2026 19:49:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
     }
   ]

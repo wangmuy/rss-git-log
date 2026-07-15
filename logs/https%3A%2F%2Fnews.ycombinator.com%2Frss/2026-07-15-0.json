@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-15",
     "newestItemDate": "2026-07-15",
-    "itemCount": 6,
-    "generatedAt": "2026-07-15T03:40:28.841Z"
+    "itemCount": 10,
+    "generatedAt": "2026-07-15T10:16:50.863Z"
   },
   "items": [
     {
@@ -42,6 +42,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2cGQuY2ElMkYlN0NodHRwcyUzQSUyRiUyRnZwZC5jYSUyRiU3Q1ZhbmNvdXZlciUyMFBEJTIwd2Vic2l0ZSUyMGZlYXR1cmVzJTIwUXVpY2slMjBFc2NhcGUlMjBidXR0b24lMjB0aGF0JTIwd2lwZXMlMjBpdHNlbGYlMjBmcm9tJTIwaGlzdG9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTE0NjQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMDAlM0ExNSUzQTUzJTIwJTJCMDAwMA",
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "pubDate": "Wed, 15 Jul 2026 00:15:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYwNyUyRjEzJTJGdXMtd29yc3Qtb2VjZC1mYWlyLXBheS1zY29yZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9ydHVuZS5jb20lMkYyMDI2JTJGMDclMkYxMyUyRnVzLXdvcnN0LW9lY2QtZmFpci1wYXktc2NvcmUlMkYlN0NBbWVyaWNhJTIwcGF5cyUyMHdvcmtlcnMlMjBqdXN0JTIwMjclMjUlMjBvZiUyMHdoYXQlMjBpdHMlMjB3ZWFsdGglMjBhbGxvd3MlMjAlRTIlODAlOTMlMjB0aGUlMjB3b3JzdCUyMGluJTIwdGhlJTIwT0VDRCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTE4MDc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMDglM0E1OCUzQTE3JTIwJTJCMDAwMA",
+      "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD",
+      "pubDate": "Wed, 15 Jul 2026 08:58:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFwbmljLm5ldCUyRjIwMjYlMkYwNyUyRjE1JTJGd2hvcy1ydW5uaW5nLWFsbC10aG9zZS10aW55LXJwa2ktc2VydmVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcG5pYy5uZXQlMkYyMDI2JTJGMDclMkYxNSUyRndob3MtcnVubmluZy1hbGwtdGhvc2UtdGlueS1ycGtpLXNlcnZlcnMlMkYlN0NXaG8ncyUyMHJ1bm5pbmclMjBhbGwlMjB0aG9zZSUyMHRpbnklMjBSUEtJJTIwc2VydmVycyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTE3MDU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMDYlM0EzOCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Who's running all those tiny RPKI servers?",
+      "pubDate": "Wed, 15 Jul 2026 06:38:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXl1c2guZGlnaXRhbCUyRmJsb2clMkZ0aGUtbWVtb3J5LWhlaXN0JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXl1c2guZGlnaXRhbCUyRmJsb2clMkZ0aGUtbWVtb3J5LWhlaXN0JTdDSSUyMHRyaWNrZWQlMjBDbGF1ZGUlMjBpbnRvJTIwbGVha2luZyUyMHlvdXIlMjBkZWVwZXN0JTJDJTIwZGFya2VzdCUyMHNlY3JldHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkxNjk3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDA2JTNBMjglM0EwMCUyMCUyQjAwMDA",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "pubDate": "Wed, 15 Jul 2026 06:28:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWV0aW1lcy5jb20lMkZyaXNjLXYtaXMtaW5ldml0YWJsZS1zdGF0ZS1vZi10aGUtdW5pb24ta2V5bm90ZS1hcmd1ZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5lZXRpbWVzLmNvbSUyRnJpc2Mtdi1pcy1pbmV2aXRhYmxlLXN0YXRlLW9mLXRoZS11bmlvbi1rZXlub3RlLWFyZ3VlcyUyRiU3Q1JJU0MtViUyMElzJTIwSW5ldml0YWJsZSUzQSUyMFN0YXRlJTIwb2YlMjB0aGUlMjBVbmlvbiUyMEtleW5vdGUlMjBBcmd1ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkxNjgwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDA2JTNBMDIlM0ExNyUyMCUyQjAwMDA",
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "pubDate": "Wed, 15 Jul 2026 06:02:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
     }
   ]
