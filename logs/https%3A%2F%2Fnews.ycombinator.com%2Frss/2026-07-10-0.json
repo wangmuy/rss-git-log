@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-10",
     "newestItemDate": "2026-07-10",
-    "itemCount": 45,
-    "generatedAt": "2026-07-14T17:36:35.248Z"
+    "itemCount": 47,
+    "generatedAt": "2026-07-15T03:40:28.842Z"
   },
   "items": [
     {
@@ -276,6 +276,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGZXBkZiUyRjEwLjExNDUlMkYzNjE3Ny4zNjE5NCU3Q2h0dHBzJTNBJTJGJTJGZGwuYWNtLm9yZyUyRmRvaSUyRmVwZGYlMkYxMC4xMTQ1JTJGMzYxNzcuMzYxOTQlN0NTdXBlcm9wdGltaXplciUyMCVFMiU4MCU5MyUyMEElMjBMb29rJTIwYXQlMjB0aGUlMjBTbWFsbGVzdCUyMFByb2dyYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg2MzMzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDE4JTNBMTUlM0EyNyUyMCUyQjAwMDA",
       "title": "Superoptimizer – A Look at the Smallest Program",
       "pubDate": "Fri, 10 Jul 2026 18:15:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b2xvbG8ubmV0JTJGMjAyNiUyRjA2JTJGMTYlMkZ1bmxvY2tpbmctdGhlLXBzcHMtZHVhbC1jb3JlLXNldHVwJTJGJTdDaHR0cHMlM0ElMkYlMkZ3b2xvbG8ubmV0JTJGMjAyNiUyRjA2JTJGMTYlMkZ1bmxvY2tpbmctdGhlLXBzcHMtZHVhbC1jb3JlLXNldHVwJTJGJTdDVW5sb2NraW5nJTIwdGhlJTIwUFNQJ3MlMjBEdWFsJTIwQ29yZSUyMFNldHVwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjY4NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAyMyUzQTUxJTNBMzclMjAlMkIwMDAw",
+      "title": "Unlocking the PSP's Dual Core Setup",
+      "pubDate": "Fri, 10 Jul 2026 23:51:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1dGNjLnV0b3JvbnRvLmNhJTJGfmNrcyUyRnNwYWNlJTJGYmxvZyUyRnN5c2FkbWluJTJGREhDUFNlcnZlckFuZFNjcmVhbWluZ0hvc3QlN0NodHRwcyUzQSUyRiUyRnV0Y2MudXRvcm9udG8uY2ElMkZ+Y2tzJTJGc3BhY2UlMkZibG9nJTJGc3lzYWRtaW4lMkZESENQU2VydmVyQW5kU2NyZWFtaW5nSG9zdCU3Q0FuJTIwdW51c3VhbCUyMHdheSUyMGZvciUyMHlvdXIlMjBESENQJTIwc2VydmVyJTIwdG8lMjBydW4lMjBvdXQlMjBvZiUyMGR5bmFtaWMlMjBJUHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg2MjM1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEwJTIwSnVsJTIwMjAyNiUyMDE2JTNBNDclM0ExMSUyMCUyQjAwMDA",
+      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+      "pubDate": "Fri, 10 Jul 2026 16:47:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
     }
   ]

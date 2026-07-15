@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 38,
-    "generatedAt": "2026-07-14T17:36:35.248Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-15T03:40:28.841Z"
   },
   "items": [
     {
@@ -234,6 +234,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXUtZGlnaXRhbC1pZGVudGl0eS13YWxsZXQlMkZhdi1kb2MtdGVjaG5pY2FsLXNwZWNpZmljYXRpb24lMkZkaXNjdXNzaW9ucyUyRjE5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXUtZGlnaXRhbC1pZGVudGl0eS13YWxsZXQlMkZhdi1kb2MtdGVjaG5pY2FsLXNwZWNpZmljYXRpb24lMkZkaXNjdXNzaW9ucyUyRjE5JTdDRXVyb3BlYW4lMjAlMjJhZ2UlMjB2ZXJpZmljYXRpb24lMjIlMjAlMjJhcHAlMjIlMjBmb3JjaW5nJTIwZXZlcnlvbmUlMjB0byUyMHVzZSUyMEFuZHJvaWQlMjBvciUyMGlPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTAzNzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMDglM0EzNCUzQTU3JTIwJTJCMDAwMA",
       "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
       "pubDate": "Tue, 14 Jul 2026 08:34:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVuamFtaW4tYmFpLmNvbSUyRnByb2plY3RzJTJGbGVtYXJpbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJlbmphbWluLWJhaS5jb20lMkZwcm9qZWN0cyUyRmxlbWFyaW8lN0NMZU1hcmlvJTNBJTIwVHJhaW5pbmclMjBhJTIwSkVQQSUyMFdvcmxkJTIwTW9kZWwlMjBvbiUyMFN1cGVyJTIwTWFyaW8lMjBCcm9zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MTM3NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAyMiUzQTMwJTNBNDclMjAlMkIwMDAw",
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "pubDate": "Tue, 14 Jul 2026 22:30:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZWlhc28ubmV0JTJGbm90ZXMlMkYyMDI2JTJGY2hlY2steW91ci1zbWFydC10diUyRiU3Q2h0dHBzJTNBJTJGJTJGeGVpYXNvLm5ldCUyRm5vdGVzJTJGMjAyNiUyRmNoZWNrLXlvdXItc21hcnQtdHYlMkYlN0NQcm9iYWJseSUyMGNoZWNrJTIwb24lMjB5b3VyJTIwc21hcnQlMjBhcHBsaWFuY2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MTM0NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAyMiUzQTAwJTNBNDElMjAlMkIwMDAw",
+      "title": "Probably check on your smart appliances",
+      "pubDate": "Tue, 14 Jul 2026 22:00:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlzLm9yZyUyRnB1YmwlMkZiaXNidWxsMTIwLnBkZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJpcy5vcmclMkZwdWJsJTJGYmlzYnVsbDEyMC5wZGYlN0NGaW5hbmNpbmclMjB0aGUlMjBBSSUyMGJvb20lM0ElMjBmcm9tJTIwY2FzaCUyMGZsb3dzJTIwdG8lMjBkZWJ0JTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MTM0NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAyMSUzQTU4JTNBMzYlMjAlMkIwMDAw",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "pubDate": "Tue, 14 Jul 2026 21:58:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA3JTJGbWljcm9zb2Z0LXBhdGNoZXMtYS1yZWNvcmQtNTcwLXNlY3VyaXR5LWZsYXdzJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA3JTJGbWljcm9zb2Z0LXBhdGNoZXMtYS1yZWNvcmQtNTcwLXNlY3VyaXR5LWZsYXdzJTJGJTdDTWljcm9zb2Z0JTIwUGF0Y2hlcyUyMGElMjBSZWNvcmQlMjA1NzAlMjBTZWN1cml0eSUyMEZsYXdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MTMxOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAyMSUzQTMyJTNBMjIlMjAlMkIwMDAw",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "pubDate": "Tue, 14 Jul 2026 21:32:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmNoYW5nZWxvZyUyRjIwMjYtMDctMTQtZGVwZW5kYWJvdC12ZXJzaW9uLXVwZGF0ZXMtaW50cm9kdWNlLWRlZmF1bHQtcGFja2FnZS1jb29sZG93biUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmJsb2clMkZjaGFuZ2Vsb2clMkYyMDI2LTA3LTE0LWRlcGVuZGFib3QtdmVyc2lvbi11cGRhdGVzLWludHJvZHVjZS1kZWZhdWx0LXBhY2thZ2UtY29vbGRvd24lMkYlN0NEZXBlbmRhYm90JTIwdmVyc2lvbiUyMHVwZGF0ZXMlMjBpbnRyb2R1Y2UlMjBkZWZhdWx0JTIwcGFja2FnZSUyMGNvb2xkb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MTMwNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAyMSUzQTE1JTNBNTElMjAlMkIwMDAw",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "pubDate": "Tue, 14 Jul 2026 21:15:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWxleGVkd2FyZHMubmV0JTJGYmxvZyUyRmhvdy1pLXVzZS1odG14LXdpdGgtZ28lN0NodHRwcyUzQSUyRiUyRnd3dy5hbGV4ZWR3YXJkcy5uZXQlMkZibG9nJTJGaG93LWktdXNlLWh0bXgtd2l0aC1nbyU3Q0hvdyUyMEklMjB1c2UlMjBIVE1YJTIwd2l0aCUyMEdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MTIxNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxOSUzQTU1JTNBMzElMjAlMkIwMDAw",
+      "title": "How I use HTMX with Go",
+      "pubDate": "Tue, 14 Jul 2026 19:55:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW5kZ2FyZC5haSUyRmJsb2clMkZjdXJzb3ItMGRheS13aGVuLWZ1bGwtZGlzY2xvc3VyZS1iZWNvbWVzLXRoZS1vbmx5LXByb3RlY3Rpb24tbGVmdCU3Q2h0dHBzJTNBJTJGJTJGbWluZGdhcmQuYWklMkZibG9nJTJGY3Vyc29yLTBkYXktd2hlbi1mdWxsLWRpc2Nsb3N1cmUtYmVjb21lcy10aGUtb25seS1wcm90ZWN0aW9uLWxlZnQlN0NDdXJzb3IlMjAwZGF5JTNBJTIwV2hlbiUyMEZ1bGwlMjBEaXNjbG9zdXJlJTIwQmVjb21lcyUyMHRoZSUyME9ubHklMjBQcm90ZWN0aW9uJTIwTGVmdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTEwNjc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTclM0E1OCUzQTM1JTIwJTJCMDAwMA",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "pubDate": "Tue, 14 Jul 2026 17:58:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmlzbW1sLmNvbSUyRm5ld3MlMkZib25zYWktMjdiJTdDaHR0cHMlM0ElMkYlMkZwcmlzbW1sLmNvbSUyRm5ld3MlMkZib25zYWktMjdiJTdDQm9uc2FpJTIwMjdCJTNBJTIwQSUyMDI3Qi1DbGFzcyUyMG1vZGVsJTIwdGhhdCUyMHJ1bnMlMjBvbiUyMGElMjBwaG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTEwNTQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTclM0E1MCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "pubDate": "Tue, 14 Jul 2026 17:50:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMDclMkZpbS1hLXVzYi1jLW1heGltYWxpc3QlMkYlN0NodHRwcyUzQSUyRiUyRnNoa3Nwci5tb2JpJTJGYmxvZyUyRjIwMjYlMkYwNyUyRmltLWEtdXNiLWMtbWF4aW1hbGlzdCUyRiU3Q0knbSUyMGElMjBVU0ItQyUyME1heGltYWxpc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwODIxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDE1JTNBMjAlM0EzNiUyMCUyQjAwMDA",
+      "title": "I'm a USB-C Maximalist",
+      "pubDate": "Tue, 14 Jul 2026 15:20:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZndWFyZGlhbi1hbmdlbCU3Q2h0dHBzJTNBJTJGJTJGZ3dlcm4ubmV0JTJGZ3VhcmRpYW4tYW5nZWwlN0NHdWFyZGlhbiUyMEFuZ2VscyUzQSUyMExMTSUyMFBlcnNvbmFsaXphdGlvbiUyMGZvciUyMFByb2R1Y3Rpdml0eSUyMGFuZCUyMFNlY3VyaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDYwNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxMiUzQTUwJTNBMjklMjAlMkIwMDAw",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "pubDate": "Tue, 14 Jul 2026 12:50:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMjE3MC04JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMjE3MC04JTdDTWF0aGVtYXRpY2FsJTIwdGV4dHMlMjBmcm9tJTIwYSUyME1heWElMjBzaXRlJTIwaW4lMjBHdWF0ZW1hbGElMjBpZGVudGlmeSUyMGFuJTIwYW5jaWVudCUyMGFzdHJvbm9tZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwNTE4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDExJTNBNDAlM0EzNCUyMCUyQjAwMDA",
+      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "pubDate": "Tue, 14 Jul 2026 11:40:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]

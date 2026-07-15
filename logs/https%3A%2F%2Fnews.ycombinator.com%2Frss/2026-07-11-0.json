@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-11",
     "newestItemDate": "2026-07-11",
-    "itemCount": 29,
-    "generatedAt": "2026-07-14T17:36:35.248Z"
+    "itemCount": 31,
+    "generatedAt": "2026-07-15T03:40:28.842Z"
   },
   "items": [
     {
@@ -180,6 +180,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5xLm1lJTJGMjAyNiUyRjA3JTJGMDklMkZ5b3VyLWFwcC1jb3VsZC1oYXZlLWJlZW4tYS13ZWJwYWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5xLm1lJTJGMjAyNiUyRjA3JTJGMDklMkZ5b3VyLWFwcC1jb3VsZC1oYXZlLWJlZW4tYS13ZWJwYWdlJTJGJTdDWW91ciUyMCdhcHAnJTIwY291bGQlMjBoYXZlJTIwYmVlbiUyMGElMjB3ZWJwYWdlJTIwKHNvJTIwSSUyMGZpeGVkJTIwaXQlMjBmb3IlMjB5b3UpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4Njk5ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAwOCUzQTIxJTNBMjclMjAlMkIwMDAw",
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "pubDate": "Sat, 11 Jul 2026 08:21:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYyYjJ0LnBsYWNlJTJGMW1pbGxpb24lN0NodHRwcyUzQSUyRiUyRjJiMnQucGxhY2UlMkYxbWlsbGlvbiU3Q1RoZSUyMGxhcmdlc3QlMjBhdmFpbGFibGUlMjBNaW5lY3JhZnQlMjB3b3JsZCUyQyUyMHRvdGFsbGluZyUyMDE1JTIwVEIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3MjQwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDExJTIwSnVsJTIwMjAyNiUyMDE0JTNBMzIlM0ExOSUyMCUyQjAwMDA",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "pubDate": "Sat, 11 Jul 2026 14:32:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZWF0aGVyYnVybnMudGVjaCUyRjIwMjYlMkYwNyUyRjA4JTJGdGhlLWtpZHMtd2l0aC1waG9uZXMtYXJlLWFscmlnaHQlMkYlN0NodHRwcyUzQSUyRiUyRmhlYXRoZXJidXJucy50ZWNoJTJGMjAyNiUyRjA3JTJGMDglMkZ0aGUta2lkcy13aXRoLXBob25lcy1hcmUtYWxyaWdodCUyRiU3Q1RoZSUyMGtpZHMlMjB3aXRoJTIwcGhvbmVzJTIwYXJlJTIwYWxyaWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODcwMjE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMDklM0EwOCUzQTA4JTIwJTJCMDAwMA",
+      "title": "The kids with phones are alright",
+      "pubDate": "Sat, 11 Jul 2026 09:08:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
     }
   ]
