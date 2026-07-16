@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-11",
     "newestItemDate": "2026-07-11",
-    "itemCount": 35,
-    "generatedAt": "2026-07-16T03:42:52.066Z"
+    "itemCount": 36,
+    "generatedAt": "2026-07-16T10:22:10.898Z"
   },
   "items": [
     {
@@ -216,6 +216,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZG9iYW5kby5naXRodWIuaW8lMkZnc2hhcnAlMkYlN0NodHRwcyUzQSUyRiUyRmRhdmlkb2JhbmRvLmdpdGh1Yi5pbyUyRmdzaGFycCUyRiU3Q0clMjMlMjAlRTIlODAlOTMlMjBBJTIwbW9kZXJuJTIwLk5FVCUyMGxhbmd1YWdlJTIwd2l0aCUyMEdvJTJDJTIwS290bGluJTJDJTIwYW5kJTIwU3dpZnQlMjBlcmdvbm9taWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NzE3MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMSUyMEp1bCUyMDIwMjYlMjAxMyUzQTA0JTNBNDYlMjAlMkIwMDAw",
       "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
       "pubDate": "Sat, 11 Jul 2026 13:04:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGV0ZWtlZW4ubmV0JTJGaG9tZWxhYi1yZXNvbHZlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBldGVrZWVuLm5ldCUyRmhvbWVsYWItcmVzb2x2ZWQlMkYlN0NSZWJ1aWxkaW5nJTIwTXklMjBIb21lbGFiJTIwd2l0aCUyMENvbXBvc2UlMkMlMjBSdWJ5JTJDJTIwSVB2NiUyQyUyMGFuZCUyME5vJTIwS3ViZXJuZXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODcyMDMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTElMjBKdWwlMjAyMDI2JTIwMTMlM0E0NyUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+      "pubDate": "Sat, 11 Jul 2026 13:47:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-11-0.json"
     }
   ]

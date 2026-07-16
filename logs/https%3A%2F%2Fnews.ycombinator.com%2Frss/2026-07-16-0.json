@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-16",
     "newestItemDate": "2026-07-16",
-    "itemCount": 3,
-    "generatedAt": "2026-07-16T03:42:52.065Z"
+    "itemCount": 11,
+    "generatedAt": "2026-07-16T10:22:10.897Z"
   },
   "items": [
     {
@@ -24,6 +24,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhdHByb3RvLmNvbSUyRmJsb2clMkZhdC1wcm90b2NvbC10cmFkZW1hcmslN0NodHRwcyUzQSUyRiUyRmF0cHJvdG8uY29tJTJGYmxvZyUyRmF0LXByb3RvY29sLXRyYWRlbWFyayU3Q0JsdWVza3klMjBUcmFkZW1hcmtzJTIwQVRQcm90byU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI5MzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMDElM0EyMSUzQTA0JTIwJTJCMDAwMA",
       "title": "Bluesky Trademarks ATProto",
       "pubDate": "Thu, 16 Jul 2026 01:21:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2luZWRhbnRocm9waWMuY29tJTdDaHR0cHMlM0ElMkYlMkZqb2luZWRhbnRocm9waWMuY29tJTJGJTdDV2hlcmUlMjBhcmUlMjBZQyUyMGZvdW5kZXJzJTIwbm93JTNGJTIwT3BlbkFJJTIwYW5kJTIwQW50aHJvcGljJTJDJTIwbW9zdGx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MzE1ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAwOCUzQTAzJTNBMzUlMjAlMkIwMDAw",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "pubDate": "Thu, 16 Jul 2026 08:03:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjci55cC50byUyRnByb3RvJTJGbmV0c3RyaW5ncy50eHQlN0NodHRwcyUzQSUyRiUyRmNyLnlwLnRvJTJGcHJvdG8lMkZuZXRzdHJpbmdzLnR4dCU3Q05ldHN0cmluZ3MlMjAoMTk5NyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkzMDcxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDA1JTNBMzMlM0E1MCUyMCUyQjAwMDA",
+      "title": "Netstrings (1997)",
+      "pubDate": "Thu, 16 Jul 2026 05:33:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGlnZW9uc2FuZHBsYW5lcy5jb20lMkZyZWFkJTJGbXVzaWMtcGlyYWN5LXdoYXQtY2Qtb2luay1uaW5lLWluY2gtbmFpbHMtc3RyZWFtaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGlnZW9uc2FuZHBsYW5lcy5jb20lMkZyZWFkJTJGbXVzaWMtcGlyYWN5LXdoYXQtY2Qtb2luay1uaW5lLWluY2gtbmFpbHMtc3RyZWFtaW5nJTdDVGhlJTIwbG9zdCUyMGpveSUyMG9mJTIwbXVzaWMlMjBwaXJhY3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkzMDQ1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDA0JTNBNDYlM0EyMSUyMCUyQjAwMDA",
+      "title": "The lost joy of music piracy",
+      "pubDate": "Thu, 16 Jul 2026 04:46:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWluaC10b24lMkZyZXluYXJkLWJyb3dzZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaW5oLXRvbiUyRnJleW5hcmQtYnJvd3NlciU3Q1JleW5hcmQlM0ElMjBBJTIwcmVhbCUyMEZpcmVmb3glMjB3ZWIlMjBicm93c2VyJTIwZm9yJTIwaU9TJTIwMTMlMjBvciUyMGxhdGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MzAzOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAwNCUzQTM2JTNBMDclMjAlMkIwMDAw",
+      "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+      "pubDate": "Thu, 16 Jul 2026 04:36:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWRjYW1wb3MuZGV2JTJGYmxvZyUyRjIwMjYlMkYwNyUyRmFjY2Vzc2liaWxpdHktZnJvbS1zY3JhdGNoJTJGJTdDaHR0cHMlM0ElMkYlMkZtYWRjYW1wb3MuZGV2JTJGYmxvZyUyRjIwMjYlMkYwNyUyRmFjY2Vzc2liaWxpdHktZnJvbS1zY3JhdGNoJTJGJTdDSWYlMjB5b3UlMjB3YW50JTIwdG8lMjBjcmVhdGUlMjBhJTIwYnV0dG9uJTIwZnJvbSUyMHNjcmF0Y2glMkMlMjB5b3UlMjBtdXN0JTIwZmlyc3QlMjBjcmVhdGUlMjB0aGUlMjB1bml2ZXJzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTMwMTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMDMlM0E0OCUzQTQzJTIwJTJCMDAwMA",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "pubDate": "Thu, 16 Jul 2026 03:48:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGbWFraW5nLTc2OC1zZXJ2ZXJzLWxvb2stbGlrZS0xJTdDaHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGbWFraW5nLTc2OC1zZXJ2ZXJzLWxvb2stbGlrZS0xJTdDTWFraW5nJTIwNzY4JTIwc2VydmVycyUyMGxvb2slMjBsaWtlJTIwMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTMwMDc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMDMlM0EzNiUzQTQyJTIwJTJCMDAwMA",
+      "title": "Making 768 servers look like 1",
+      "pubDate": "Thu, 16 Jul 2026 03:36:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbmN1bHR1cmUuY29tJTJGMjAyNiUyRjA3JTJGZXhwbG9yZS0xMzAwLWJlYXV0aWZ1bC13aWxkbGlmZS1pbGx1c3RyYXRpb25zLWZyb20tdGhlLTE5dGgtY2VudHVyeS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cub3BlbmN1bHR1cmUuY29tJTJGMjAyNiUyRjA3JTJGZXhwbG9yZS0xMzAwLWJlYXV0aWZ1bC13aWxkbGlmZS1pbGx1c3RyYXRpb25zLWZyb20tdGhlLTE5dGgtY2VudHVyeS5odG1sJTdDMSUyQzMwMCUyMEJlYXV0aWZ1bCUyMFdpbGRsaWZlJTIwSWxsdXN0cmF0aW9ucyUyMGZyb20lMjB0aGUlMjAxOXRoJTIwQ2VudHVyeSUyME5vdyUyMFJlc3RvcmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5Mjk5NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAwMyUzQTEyJTNBNDclMjAlMkIwMDAw",
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "pubDate": "Thu, 16 Jul 2026 03:12:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjExODU5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjExODU5JTdDQ2FuJTIwTExNcyUyMFBlcmZvcm0lMjBEZWVwJTIwVGVjaG5pY2FsJTIwQ29tcHJlaGVuc2lvbiUyMG9mJTIwQ29tcHV0ZXIlMjBBcmNoaXRlY3R1cmUlMjBQYXBlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkyOTY2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDAyJTNBMTclM0EzMSUyMCUyQjAwMDA",
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "pubDate": "Thu, 16 Jul 2026 02:17:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
     }
   ]

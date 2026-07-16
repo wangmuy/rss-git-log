@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 58,
-    "generatedAt": "2026-07-16T03:42:52.066Z"
+    "itemCount": 61,
+    "generatedAt": "2026-07-16T10:22:10.897Z"
   },
   "items": [
     {
@@ -354,6 +354,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbGlnLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGY2xpZy5kZXYlMkYlN0NDb21tYW5kJTIwTGluZSUyMEludGVyZmFjZSUyMEd1aWRlbGluZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4MTA2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDEzJTNBMjglM0EzMSUyMCUyQjAwMDA",
       "title": "Command Line Interface Guidelines",
       "pubDate": "Sun, 12 Jul 2026 13:28:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaWtvc2NodXJtYW5uLmNvbSUyRmJsb2clMkZzdHJpbmctaW50ZXJuaW5nLWNvbXBpbGVycyU3Q2h0dHBzJTNBJTJGJTJGYWlrb3NjaHVybWFubi5jb20lMkZibG9nJTJGc3RyaW5nLWludGVybmluZy1jb21waWxlcnMlN0NEZW5zZSUyMEFyZW5hJTIwSW50ZXJuaW5nJTNBJTIwVGhlJTIwRW5naW5lJTIwb2YlMjBDb21waWxlciUyMFBlcmZvcm1hbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4ODM0NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMiUyMEp1bCUyMDIwMjYlMjAxOCUzQTQ4JTNBNDElMjAlMkIwMDAw",
+      "title": "Dense Arena Interning: The Engine of Compiler Performance",
+      "pubDate": "Sun, 12 Jul 2026 18:48:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb3VnaGx1aS5jb20lMkYyMDI2JTJGMDclMkYwOSUyRnRlYXJkb3duLWEtZ2VuZXJpYy03LXBvcnQtdXNiLTMtMC1odWItdGhhdC13YXNudCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ291Z2hsdWkuY29tJTJGMjAyNiUyRjA3JTJGMDklMkZ0ZWFyZG93bi1hLWdlbmVyaWMtNy1wb3J0LXVzYi0zLTAtaHViLXRoYXQtd2FzbnQlMkYlN0NUZWFyZG93biUzQSUyMEElMjBHZW5lcmljJTIwNy1Qb3J0JTIwVVNCJTIwMy4wJTIwSHViJTIwVGhhdCUyMFdhc24ndCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgzMDM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTclM0E1NyUzQTU4JTIwJTJCMDAwMA",
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "pubDate": "Sun, 12 Jul 2026 17:57:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VhbmdvZWRlY2tlLmNvbSUyRmluLWRlZmVuc2Utb2Ytbm90LXVuZGVyc3RhbmRpbmcteW91ci1jb2RlYmFzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNlYW5nb2VkZWNrZS5jb20lMkZpbi1kZWZlbnNlLW9mLW5vdC11bmRlcnN0YW5kaW5nLXlvdXItY29kZWJhc2UlMkYlN0NJbiUyMGRlZmVuc2UlMjBvZiUyMG5vdCUyMHVuZGVyc3RhbmRpbmclMjB5b3VyJTIwY29kZWJhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4Mjc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDE3JTNBMTklM0E0NyUyMCUyQjAwMDA",
+      "title": "In defense of not understanding your codebase",
+      "pubDate": "Sun, 12 Jul 2026 17:19:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]
