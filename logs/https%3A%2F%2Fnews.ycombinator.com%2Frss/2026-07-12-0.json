@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 61,
-    "generatedAt": "2026-07-16T10:22:10.897Z"
+    "itemCount": 62,
+    "generatedAt": "2026-07-16T17:42:29.482Z"
   },
   "items": [
     {
@@ -372,6 +372,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VhbmdvZWRlY2tlLmNvbSUyRmluLWRlZmVuc2Utb2Ytbm90LXVuZGVyc3RhbmRpbmcteW91ci1jb2RlYmFzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNlYW5nb2VkZWNrZS5jb20lMkZpbi1kZWZlbnNlLW9mLW5vdC11bmRlcnN0YW5kaW5nLXlvdXItY29kZWJhc2UlMkYlN0NJbiUyMGRlZmVuc2UlMjBvZiUyMG5vdCUyMHVuZGVyc3RhbmRpbmclMjB5b3VyJTIwY29kZWJhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4Mjc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDE3JTNBMTklM0E0NyUyMCUyQjAwMDA",
       "title": "In defense of not understanding your codebase",
       "pubDate": "Sun, 12 Jul 2026 17:19:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWRuYWZpLmNvbSUyRmdvJTJGZ2Mtc2hhcGUtc3RlbmNpbGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVkbmFmaS5jb20lMkZnbyUyRmdjLXNoYXBlLXN0ZW5jaWxpbmclMkYlN0NHQyUyMHNoYXBlJTIwc3RlbmNpbGluZyUyMGluJTIwR28lMjBnZW5lcmljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc3MTUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMDAlM0EyNyUzQTUyJTIwJTJCMDAwMA",
+      "title": "GC shape stenciling in Go generics",
+      "pubDate": "Sun, 12 Jul 2026 00:27:52 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]
