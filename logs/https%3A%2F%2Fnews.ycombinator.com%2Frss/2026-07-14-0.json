@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 52,
-    "generatedAt": "2026-07-15T17:41:56.019Z"
+    "itemCount": 54,
+    "generatedAt": "2026-07-16T03:42:52.066Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmV4ZS5kZXYlMkZtZWV0LXRoZS1jb25zZXJ2YXRpb25pc3Qtd2hvLXR1cm5lZC00MC10ZXJhYnl0ZXMtb2YtZ292ZXJubWVudC1kYXRhLWludG8tYS12aWRlby1nYW1lJTdDaHR0cHMlM0ElMkYlMkZibG9nLmV4ZS5kZXYlMkZtZWV0LXRoZS1jb25zZXJ2YXRpb25pc3Qtd2hvLXR1cm5lZC00MC10ZXJhYnl0ZXMtb2YtZ292ZXJubWVudC1kYXRhLWludG8tYS12aWRlby1nYW1lJTdDVGhlJTIwQ29uc2VydmF0aW9uaXN0JTIwV2hvJTIwVHVybmVkJTIwNDAlMjBUZXJhYnl0ZXMlMjBvZiUyMFB1YmxpYyUyMERhdGElMjBpbnRvJTIwYSUyMFZpZGVvJTIwR2FtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTA2ODkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTMlM0E1MiUzQTIxJTIwJTJCMDAwMA",
       "title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
       "pubDate": "Tue, 14 Jul 2026 13:52:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWJlY2NhbWFra2FpLnN1YnN0YWNrLmNvbSUyRnAlMkZib29rLXByaXplcy1kb250LXdvcmstaG93LXlvdS10aGluayU3Q2h0dHBzJTNBJTJGJTJGcmViZWNjYW1ha2thaS5zdWJzdGFjay5jb20lMkZwJTJGYm9vay1wcml6ZXMtZG9udC13b3JrLWhvdy15b3UtdGhpbmslN0NCb29rJTIwcHJpemVzJTIwZG9uJ3QlMjB3b3JrJTIwaG93JTIweW91JTIwdGhpbmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkxMzY1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDIyJTNBMTklM0EwMSUyMCUyQjAwMDA",
+      "title": "Book prizes don't work how you think",
+      "pubDate": "Tue, 14 Jul 2026 22:19:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlc2FuaXRpemVyLmNvbSUyRmJsb2clMkZqb2ItcXVldWVzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnR5cGVzYW5pdGl6ZXIuY29tJTJGYmxvZyUyRmpvYi1xdWV1ZXMuaHRtbCU3Q0pvYiUyMHF1ZXVlcyUyMGFyZSUyMGRlY2VwdGl2ZWx5JTIwdHJpY2t5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDM3MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAwOCUzQTI3JTNBNTYlMjAlMkIwMDAw",
+      "title": "Job queues are deceptively tricky",
+      "pubDate": "Tue, 14 Jul 2026 08:27:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]

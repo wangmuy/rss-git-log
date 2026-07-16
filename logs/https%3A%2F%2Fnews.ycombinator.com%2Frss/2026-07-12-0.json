@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 57,
-    "generatedAt": "2026-07-15T17:41:56.019Z"
+    "itemCount": 58,
+    "generatedAt": "2026-07-16T03:42:52.066Z"
   },
   "items": [
     {
@@ -348,6 +348,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5xLm1lJTJGMjAyNiUyRjA3JTJGMTAlMkZyZXNjdWluZy03MjM0LWdpZnMlMkYlN0NodHRwcyUzQSUyRiUyRmRhbnEubWUlMkYyMDI2JTJGMDclMkYxMCUyRnJlc2N1aW5nLTcyMzQtZ2lmcyUyRiU3Q1RvZGF5JTIwSSUyMFJlc2N1ZWQlMjA3JTJDMjM0JTIwT2xkJTIwR0lGcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgzNTc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTklM0EwMCUzQTQ5JTIwJTJCMDAwMA",
       "title": "Today I Rescued 7,234 Old GIFs",
       "pubDate": "Sun, 12 Jul 2026 19:00:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGlnLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGY2xpZy5kZXYlMkYlN0NDb21tYW5kJTIwTGluZSUyMEludGVyZmFjZSUyMEd1aWRlbGluZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4MTA2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDEzJTNBMjglM0EzMSUyMCUyQjAwMDA",
+      "title": "Command Line Interface Guidelines",
+      "pubDate": "Sun, 12 Jul 2026 13:28:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]

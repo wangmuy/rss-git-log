@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-15",
     "newestItemDate": "2026-07-15",
-    "itemCount": 35,
-    "generatedAt": "2026-07-15T17:41:56.018Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-16T03:42:52.065Z"
   },
   "items": [
     {
@@ -216,6 +216,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWljaGFlbC1NYW5uaW5nJTJGRS1QYXBlci1DbGltYXRlLUxvZ2dlciU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk1pY2hhZWwtTWFubmluZyUyRkUtUGFwZXItQ2xpbWF0ZS1Mb2dnZXIlN0NXZWF0aGVyZ290Y2hpJTIwJUUyJTgwJTkzJTIwYW4lMjBvcGVuLXNvdXJjZSUyMGNsaW1hdGUlMjBUYW1hZ290Y2hpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MTkwMTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNSUyMEp1bCUyMDIwMjYlMjAxMSUzQTAyJTNBNDMlMjAlMkIwMDAw",
       "title": "Weathergotchi – an open-source climate Tamagotchi",
       "pubDate": "Wed, 15 Jul 2026 11:02:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF5b25lbW9yZWxldHRlci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnBsYXlvbmVtb3JlbGV0dGVyLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyME9uZSUyME1vcmUlMjBMZXR0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkyODQwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDIzJTNBMTAlM0ExMCUyMCUyQjAwMDA",
+      "title": "Show HN: One More Letter",
+      "pubDate": "Wed, 15 Jul 2026 23:10:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcWxpdGUub3JnJTJGbnVsaW5zdHIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGc3FsaXRlLm9yZyUyRm51bGluc3RyLmh0bWwlN0NOdWwlMjBDaGFyYWN0ZXJzJTIwaW4lMjBTdHJpbmdzJTIwaW4lMjBTUUxpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkyODM0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDIzJTNBMDMlM0E0NSUyMCUyQjAwMDA",
+      "title": "Nul Characters in Strings in SQLite",
+      "pubDate": "Wed, 15 Jul 2026 23:03:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGVtaXN0cnkuYmVya2VsZXkuZWR1JTJGbmV3cyUyRm1lZXQtbWV0YWwtb3JnYW5pYy1mcmFtZXdvcmtzLWNoZW1pc3RyeSUyNUUyJTI1ODAlMjU5OXMtbmV3LW1pcmFjbGUtbWF0ZXJpYWxzJTdDaHR0cHMlM0ElMkYlMkZjaGVtaXN0cnkuYmVya2VsZXkuZWR1JTJGbmV3cyUyRm1lZXQtbWV0YWwtb3JnYW5pYy1mcmFtZXdvcmtzLWNoZW1pc3RyeSUyNUUyJTI1ODAlMjU5OXMtbmV3LW1pcmFjbGUtbWF0ZXJpYWxzJTdDTWV0YWwtT3JnYW5pYyUyMEZyYW1ld29ya3MlMkMlMjBDaGVtaXN0cnkncyUyME5ldyUyME1pcmFjbGUlMjBNYXRlcmlhbHMlMjAoMjAxOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkyODMxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDIzJTNBMDAlM0EzMSUyMCUyQjAwMDA",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+      "pubDate": "Wed, 15 Jul 2026 23:00:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3J0LmNvZmZlZSUyRmhvbWUlMkZzcWxpdGUtZWRpdGlvbnMlMkYlN0NodHRwcyUzQSUyRiUyRm1vcnQuY29mZmVlJTJGaG9tZSUyRnNxbGl0ZS1lZGl0aW9ucyUyRiU3Q1NRTGl0ZSUyMHNob3VsZCUyMGhhdmUlMjAoUnVzdC1zdHlsZSklMjBlZGl0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI4MTM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMjIlM0E0MiUzQTU4JTIwJTJCMDAwMA",
+      "title": "SQLite should have (Rust-style) editions",
+      "pubDate": "Wed, 15 Jul 2026 22:42:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdyZWcudGVjaG5vbG9neSUyRjIwMjYlMkYwNyUyRjE0JTJGbGxtLW5ldHdvcmtpbmctd2l0aC1taWtyb3Rpay5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdyZWcudGVjaG5vbG9neSUyRjIwMjYlMkYwNyUyRjE0JTJGbGxtLW5ldHdvcmtpbmctd2l0aC1taWtyb3Rpay5odG1sJTdDTExNJTIwTmV0d29ya2luZyUyMHdpdGglMjBNaWtyb1RpayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI3OTE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMjIlM0EyMyUzQTI3JTIwJTJCMDAwMA",
+      "title": "LLM Networking with MikroTik",
+      "pubDate": "Wed, 15 Jul 2026 22:23:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYWlyZHJvcC5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRnBhaXJkcm9wLm5ldCUyRiU3Q1AyUCUyMGxvY2FsJTIwZmlsZSUyMHRyYW5zZmVyJTIwYmFzZWQlMjBvbiUyMFdlYlJUQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI3OTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMjIlM0EyMiUzQTA4JTIwJTJCMDAwMA",
+      "title": "P2P local file transfer based on WebRTC",
+      "pubDate": "Wed, 15 Jul 2026 22:22:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2llZ2VsZW5kb3dtZW50Lm9yZyUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyNiUyRjA3JTJGZm9ydHVuZS1kYXZpZC1zaWVnZWwtb3Blbi1zb3VyY2UtYWkucGRmJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2llZ2VsZW5kb3dtZW50Lm9yZyUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyNiUyRjA3JTJGZm9ydHVuZS1kYXZpZC1zaWVnZWwtb3Blbi1zb3VyY2UtYWkucGRmJTdDR292ZXJubWVudHMlMkMlMjBjb21wYW5pZXMlMkMlMjBub25wcm9maXRzJTIwc2hvdWxkJTIwaW52ZXN0JTIwaW4lMjBmcmVlJTJDJTIwb3BlbiUyMHNvdXJjZSUyMEFJJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MjcwOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNSUyMEp1bCUyMDIwMjYlMjAyMSUzQTE2JTNBMzYlMjAlMkIwMDAw",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "pubDate": "Wed, 15 Jul 2026 21:16:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIucHV0ZXIuY29tJTJGbGFicyUyRmZpcmVmb3gtd2FzbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVyLnB1dGVyLmNvbSUyRmxhYnMlMkZmaXJlZm94LXdhc20lMkYlN0NTaG93JTIwSE4lM0ElMjBGaXJlZm94JTIwaW4lMjBXZWJBc3NlbWJseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI2OTM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMjElM0EwMCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Show HN: Firefox in WebAssembly",
+      "pubDate": "Wed, 15 Jul 2026 21:00:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeGFpLW9yZyUyRmdyb2stYnVpbGQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ4YWktb3JnJTJGZ3Jvay1idWlsZCU3Q0dyb2slMjBCdWlsZCUyMGlzJTIwb3BlbiUyMHNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI2NTkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMjAlM0EyNCUzQTU4JTIwJTJCMDAwMA",
+      "title": "Grok Build is open source",
+      "pubDate": "Wed, 15 Jul 2026 20:24:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFpbmxlc3Muc3dlcmRsb3cuZGV2JTdDaHR0cHMlM0ElMkYlMkZicmFpbmxlc3Muc3dlcmRsb3cuZGV2JTJGJTdDQnJhaW5sZXNzJTNBJTIwU2hhZGNuJTIwY29tcG9uZW50cyUyMHRoYXQlMjBsb29rJTIwbGlrZSUyMENsYXVkZSUyMENvZGUlMkMlMjBDb2RleCUyMGFuZCUyMEdyb2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkyNjA4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDE5JTNBNDIlM0E1MyUyMCUyQjAwMDA",
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "pubDate": "Wed, 15 Jul 2026 19:42:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGV4YWxvZmZsZS5jb20lMkZ2b3hhdHJvbi5waHAlN0NodHRwcyUzQSUyRiUyRnd3dy5sZXhhbG9mZmxlLmNvbSUyRnZveGF0cm9uLnBocCU3Q1ZveGF0cm9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MjYwNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNSUyMEp1bCUyMDIwMjYlMjAxOSUzQTQwJTNBMjMlMjAlMkIwMDAw",
+      "title": "Voxatron",
+      "pubDate": "Wed, 15 Jul 2026 19:40:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGJvd2dyZWFzZWdhbWVzLnN1YnN0YWNrLmNvbSUyRnAlMkZtaXNmaXRzLWF0dGljLWFubm91bmNlcy1kdXNrZXJzLTIwJTdDaHR0cHMlM0ElMkYlMkZlbGJvd2dyZWFzZWdhbWVzLnN1YnN0YWNrLmNvbSUyRnAlMkZtaXNmaXRzLWF0dGljLWFubm91bmNlcy1kdXNrZXJzLTIwJTdDRHVza2VycyUyQyUyMHRoZSUyMHNjYXJ5JTIwY29tbWFuZCUyMGxpbmUlMjBnYW1lJTJDJTIwaXMlMjBnZXR0aW5nJTIwYSUyMHNlcXVlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI1ODg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMTklM0EyNyUzQTU5JTIwJTJCMDAwMA",
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "pubDate": "Wed, 15 Jul 2026 19:27:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlua2luZ21hY2hpbmVzLmFpJTJGbmV3cyUyRmludHJvZHVjaW5nLWlua2xpbmclMkYlN0NodHRwcyUzQSUyRiUyRnRoaW5raW5nbWFjaGluZXMuYWklMkZuZXdzJTJGaW50cm9kdWNpbmctaW5rbGluZyUyRiU3Q0lua2xpbmclM0ElMjBPdXIlMjBPcGVuLVdlaWdodHMlMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTI0OTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMTglM0ExMiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Inkling: Our Open-Weights Model",
+      "pubDate": "Wed, 15 Jul 2026 18:12:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXYubW9lJTJGZW4lMkYzMDI1JTdDaHR0cHMlM0ElMkYlMkZkZXYubW9lJTJGZW4lMkYzMDI1JTdDTXlzdGVyaWVzJTIwb2YlMjBUZWxlZ3JhbSUyMERhdGElMjBDZW50ZXJzJTIwKDIwMjIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MjA0NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNSUyMEp1bCUyMDIwMjYlMjAxMyUzQTIyJTNBMDAlMjAlMkIwMDAw",
+      "title": "Mysteries of Telegram Data Centers (2022)",
+      "pubDate": "Wed, 15 Jul 2026 13:22:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRmZpbmFuY2UlMkZzdHJpcGUtYWR2ZW50LW9mZmVyLWJ1eS1wYXlwYWwtbW9yZS10aGFuLTUzLWJpbGxpb24tc291cmNlcy1zYXktMjAyNi0wNy0xNSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGYnVzaW5lc3MlMkZmaW5hbmNlJTJGc3RyaXBlLWFkdmVudC1vZmZlci1idXktcGF5cGFsLW1vcmUtdGhhbi01My1iaWxsaW9uLXNvdXJjZXMtc2F5LTIwMjYtMDctMTUlMkYlN0NTdHJpcGUlMjBhbmQlMjBBZHZlbnQlMjBoYXZlJTIwbWFkZSUyMGElMjBqb2ludCUyMG9mZmVyJTIwdG8lMjBhY3F1aXJlJTIwUGF5UGFsJTIwJUUyJTgwJTkzJTIwc291cmNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTE1OTUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTUlMjBKdWwlMjAyMDI2JTIwMDMlM0EzMiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "pubDate": "Wed, 15 Jul 2026 03:32:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmhpZ2gtYmFuZHdpZHRoLWZsYXNoJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmhpZ2gtYmFuZHdpZHRoLWZsYXNoJTdDSGlnaC1CYW5kd2lkdGglMjBGbGFzaCUyMG9mZmVycyUyMGVmZmljaWVudCUyMHN0b3JhZ2UlMjBmb3IlMjBtb2RlbCUyMHdlaWdodHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkxNTM5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDAyJTNBMDQlM0ExMiUyMCUyQjAwMDA",
+      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "pubDate": "Wed, 15 Jul 2026 02:04:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
     }
   ]
