@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-17",
     "newestItemDate": "2026-07-17",
-    "itemCount": 4,
-    "generatedAt": "2026-07-17T03:42:20.092Z"
+    "itemCount": 9,
+    "generatedAt": "2026-07-17T10:13:22.701Z"
   },
   "items": [
     {
@@ -30,6 +30,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUm9iYnlhbnQlMkZsaW5nYm90LW1hcCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlJvYmJ5YW50JTJGbGluZ2JvdC1tYXAlN0NMaW5nYm90LW1hcCUzQSUyMEElMjAzRCUyMGZvdW5kYXRpb24lMjBtb2RlbCUyMGZvciUyMHJlY29uc3RydWN0aW5nJTIwc2NlbmVzJTIwZnJvbSUyMHN0cmVhbWluZyUyMGRhdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MTkwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDAwJTNBMDclM0E0OSUyMCUyQjAwMDA",
       "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
       "pubDate": "Fri, 17 Jul 2026 00:07:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3VybmFscy5wbG9zLm9yZyUyRnBsb3NiaW9sb2d5JTJGYXJ0aWNsZSUzRmlkJTNEMTAuMTM3MSUyRmpvdXJuYWwucGJpby4zMDAzODc2JTdDaHR0cHMlM0ElMkYlMkZqb3VybmFscy5wbG9zLm9yZyUyRnBsb3NiaW9sb2d5JTJGYXJ0aWNsZSUzRmlkJTNEMTAuMTM3MSUyNTJGam91cm5hbC5wYmlvLjMwMDM4NzYlN0NFRUclMjBzaG93cyUyMGJyYWluJTIwY2FuJTIwc2ltdWx0YW5lb3VzJTIwZW5jb2RlJTIwdHdvJTIwc3BlZWNoJTIwc3RyZWFtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQzNzQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMDUlM0E1MSUzQTEwJTIwJTJCMDAwMA",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "pubDate": "Fri, 17 Jul 2026 05:51:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXBlYmJsZS5jb20lMkZibG9nJTJGcGViYmxlLW1lZ2EtdXBkYXRlLWp1bHktMjAyNiU3Q2h0dHBzJTNBJTJGJTJGcmVwZWJibGUuY29tJTJGYmxvZyUyRnBlYmJsZS1tZWdhLXVwZGF0ZS1qdWx5LTIwMjYlN0NQZWJibGUlMjBNZWdhJTIwVXBkYXRlJTIwJUUyJTgwJTkzJTIwSnVseSUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MzE3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDAzJTNBNTMlM0EzOCUyMCUyQjAwMDA",
+      "title": "Pebble Mega Update – July 2026",
+      "pubDate": "Fri, 17 Jul 2026 03:53:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc21hcnQtbmV3cyUyRmhvdy1oYXMtcm9tYW4tY29uY3JldGUtbGFzdGVkLWZvci1taWxsZW5uaWEtYS0xOTAwLXllYXItb2xkLWxhdHJpbmUtb2ZmZXJzLW5ldy1jbHVlcy1hYm91dC10aGUtbWF0ZXJpYWxzLWltcHJlc3NpdmUtZHVyYWJpbGl0eS0xODA5ODkxMTUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZzbWFydC1uZXdzJTJGaG93LWhhcy1yb21hbi1jb25jcmV0ZS1sYXN0ZWQtZm9yLW1pbGxlbm5pYS1hLTE5MDAteWVhci1vbGQtbGF0cmluZS1vZmZlcnMtbmV3LWNsdWVzLWFib3V0LXRoZS1tYXRlcmlhbHMtaW1wcmVzc2l2ZS1kdXJhYmlsaXR5LTE4MDk4OTExNSUyRiU3Q0hvdyUyMEhhcyUyMFJvbWFuJTIwQ29uY3JldGUlMjBMYXN0ZWQlMjBmb3IlMjBNaWxsZW5uaWElM0YlMjAxJTJDOTAwLVllYXItT2xkJTIwTGF0cmluZSUyME9mZmVycyUyMENsdWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDMxNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAwMyUzQTQ4JTNBMjYlMjAlMkIwMDAw",
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "pubDate": "Fri, 17 Jul 2026 03:48:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ2VudGVyLWZvci1BSS1Jbm5vdmF0aW9uJTJGYWktdGVhY2hpbmctYXNzaXN0YW50LXVpdWMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZDZW50ZXItZm9yLUFJLUlubm92YXRpb24lMkZhaS10ZWFjaGluZy1hc3Npc3RhbnQtdWl1YyU3Q1VJVUMlMjBBSSUyMFRlYWNoaW5nJTIwQXNzaXN0YW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDI3MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAwMiUzQTIzJTNBMTglMjAlMkIwMDAw",
+      "title": "UIUC AI Teaching Assistant",
+      "pubDate": "Fri, 17 Jul 2026 02:23:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZweWRhbnRpYy5kZXYlMkZhcnRpY2xlcyUyRnRoZS1odW1hbi1pbi10aGUtbG9vcC1pcy10aXJlZCU3Q2h0dHBzJTNBJTJGJTJGcHlkYW50aWMuZGV2JTJGYXJ0aWNsZXMlMkZ0aGUtaHVtYW4taW4tdGhlLWxvb3AtaXMtdGlyZWQlN0NUaGUlMjBodW1hbi1pbi10aGUtbG9vcCUyMGlzJTIwdGlyZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MjAwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDAwJTNBMjElM0EwOSUyMCUyQjAwMDA",
+      "title": "The human-in-the-loop is tired",
+      "pubDate": "Fri, 17 Jul 2026 00:21:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
     }
   ]

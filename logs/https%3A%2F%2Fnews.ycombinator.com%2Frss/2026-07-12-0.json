@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 62,
-    "generatedAt": "2026-07-16T17:42:29.482Z"
+    "itemCount": 65,
+    "generatedAt": "2026-07-17T10:13:22.701Z"
   },
   "items": [
     {
@@ -378,6 +378,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZWRuYWZpLmNvbSUyRmdvJTJGZ2Mtc2hhcGUtc3RlbmNpbGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVkbmFmaS5jb20lMkZnbyUyRmdjLXNoYXBlLXN0ZW5jaWxpbmclMkYlN0NHQyUyMHNoYXBlJTIwc3RlbmNpbGluZyUyMGluJTIwR28lMjBnZW5lcmljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc3MTUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMDAlM0EyNyUzQTUyJTIwJTJCMDAwMA",
       "title": "GC shape stenciling in Go generics",
       "pubDate": "Sun, 12 Jul 2026 00:27:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3eW91bmFzLmdpdGh1Yi5pbyUyRnB1enpsZXMlMkZjb25jdXJyZW5jeSUyRjIwMjYlMkYwMSUyRjEwJTJGaG93LXRvLWhlbHAtc2FudGEtY2xhdXMtY29uY3VycmVudGx5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3eW91bmFzLmdpdGh1Yi5pbyUyRnB1enpsZXMlMkZjb25jdXJyZW5jeSUyRjIwMjYlMkYwMSUyRjEwJTJGaG93LXRvLWhlbHAtc2FudGEtY2xhdXMtY29uY3VycmVudGx5JTJGJTdDU29sdmluZyUyMFNhbnRhJTIwQ2xhdXMlMjBQdXp6bGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3OTk2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDEwJTNBMjYlM0E1MyUyMCUyQjAwMDA",
+      "title": "Solving Santa Claus Puzzle",
+      "pubDate": "Sun, 12 Jul 2026 10:26:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRvaW5lLnZhbmRlY3JlbWUubmV0JTJGYmxvZyUyRmV4aGF1c3RpdmUtZGVzdHJ1Y3R1cmluZy1wcmFpc2UlMkYlN0NodHRwcyUzQSUyRiUyRmFudG9pbmUudmFuZGVjcmVtZS5uZXQlMkZibG9nJTJGZXhoYXVzdGl2ZS1kZXN0cnVjdHVyaW5nLXByYWlzZSUyRiU3Q0luJTIwUHJhaXNlJTIwb2YlMjBFeGhhdXN0aXZlJTIwRGVzdHJ1Y3R1cmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc5NTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMDglM0E1OCUzQTE1JTIwJTJCMDAwMA",
+      "title": "In Praise of Exhaustive Destructuring",
+      "pubDate": "Sun, 12 Jul 2026 08:58:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZWFuY3Jldy5jb20lMkZhbGwtdGhpcyUyRjIwMjYlMkYwNyUyRm9sZC1pY29ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVhbmNyZXcuY29tJTJGYWxsLXRoaXMlMkYyMDI2JTJGMDclMkZvbGQtaWNvbnMlMkYlN0NPbGQlMjBJY29ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODc3MTM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMDAlM0EyNCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Old Icons",
+      "pubDate": "Sun, 12 Jul 2026 00:24:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]
