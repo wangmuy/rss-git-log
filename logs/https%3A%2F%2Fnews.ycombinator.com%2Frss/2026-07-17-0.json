@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-17",
     "newestItemDate": "2026-07-17",
-    "itemCount": 9,
-    "generatedAt": "2026-07-17T10:13:22.701Z"
+    "itemCount": 26,
+    "generatedAt": "2026-07-17T17:33:27.488Z"
   },
   "items": [
     {
@@ -60,6 +60,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZweWRhbnRpYy5kZXYlMkZhcnRpY2xlcyUyRnRoZS1odW1hbi1pbi10aGUtbG9vcC1pcy10aXJlZCU3Q2h0dHBzJTNBJTJGJTJGcHlkYW50aWMuZGV2JTJGYXJ0aWNsZXMlMkZ0aGUtaHVtYW4taW4tdGhlLWxvb3AtaXMtdGlyZWQlN0NUaGUlMjBodW1hbi1pbi10aGUtbG9vcCUyMGlzJTIwdGlyZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MjAwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDAwJTNBMjElM0EwOSUyMCUyQjAwMDA",
       "title": "The human-in-the-loop is tired",
       "pubDate": "Fri, 17 Jul 2026 00:21:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc3BhY2VzLnh5eiUyRiU3Q2h0dHBzJTNBJTJGJTJGd29ya3NwYWNlcy54eXolMkYlN0NTaG93JTIwSE4lM0ElMjBFeHBsb3JlJTIwdGhlJTIwV29ya3NwYWNlcyUyMG9mJTIwTW9kZXJuJTIwQ3JlYXRvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0ODY5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDE1JTNBNDElM0EwNSUyMCUyQjAwMDA",
+      "title": "Show HN: Explore the Workspaces of Modern Creators",
+      "pubDate": "Fri, 17 Jul 2026 15:41:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc2VuZS5vcmclMkYyMDI2JTJGMDclMkZGcmFtZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZpc2VuZS5vcmclMkYyMDI2JTJGMDclMkZGcmFtZS5odG1sJTdDRnJhbWUlMjAlRTIlODAlOTMlMjB0aGUlMjBmaXJzdCUyMExpbnV4JTIwQXNzZW1ibHklMjBYJTIwc2VydmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDg1OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxNSUzQTMxJTNBMjIlMjAlMkIwMDAw",
+      "title": "Frame – the first Linux Assembly X server",
+      "pubDate": "Fri, 17 Jul 2026 15:31:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRm1lZGlhLXRlbGVjb20lMkZzaG9ydC1zZWxsZXJzLXJhY2stdXAtODctYmxuLXByb2ZpdC1zcGFjZXgtc2xpcHMtYmVsb3ctaXBvLXByaWNlLW9ydGV4LTIwMjYtMDctMTYlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRmJ1c2luZXNzJTJGbWVkaWEtdGVsZWNvbSUyRnNob3J0LXNlbGxlcnMtcmFjay11cC04Ny1ibG4tcHJvZml0LXNwYWNleC1zbGlwcy1iZWxvdy1pcG8tcHJpY2Utb3J0ZXgtMjAyNi0wNy0xNiUyRiU3Q1Nob3J0JTIwc2VsbGVycyUyMG5vdGNoJTIwJTI0OC43QiUyMHByb2ZpdCUyMGFzJTIwU3BhY2VYJTIwc2hhcmVzJTIwZGlwJTIwdG8lMjBJUE8lMjBwcmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ4NDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTUlM0ExNyUzQTU0JTIwJTJCMDAwMA",
+      "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+      "pubDate": "Fri, 17 Jul 2026 15:17:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0ZW9mb3BlbnNvdXJjZS5haSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RhdGVvZm9wZW5zb3VyY2UuYWklMkYlN0NNb3ppbGxhJTNBJTIwVGhlJTIwc3RhdGUlMjBvZiUyMG9wZW4lMjBzb3VyY2UlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ3ODI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTQlM0EzMSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Mozilla: The state of open source AI",
+      "pubDate": "Fri, 17 Jul 2026 14:31:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub2xhZmFsZGVycy5jb20lMkYyMDI2JTJGMDclMkYxNyUyRmNsYXVkZS1jb2RlLWFuYXRvbXktb2YtYS1taXNmZWF0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cub2xhZmFsZGVycy5jb20lMkYyMDI2JTJGMDclMkYxNyUyRmNsYXVkZS1jb2RlLWFuYXRvbXktb2YtYS1taXNmZWF0dXJlJTJGJTdDQ2xhdWRlJTIwQ29kZSUzQSUyMEFuYXRvbXklMjBvZiUyMGElMjBNaXNmZWF0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDc3NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxNCUzQTI2JTNBNTglMjAlMkIwMDAw",
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "pubDate": "Fri, 17 Jul 2026 14:26:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkYxNiUyRmtpbWktazMlMkYlN0NodHRwcyUzQSUyRiUyRnNpbW9ud2lsbGlzb24ubmV0JTJGMjAyNiUyRkp1bCUyRjE2JTJGa2ltaS1rMyUyRiU3Q0tpbWklMjBLMyUyQyUyMGFuZCUyMHdoYXQlMjB3ZSUyMGNhbiUyMHN0aWxsJTIwbGVhcm4lMjBmcm9tJTIwdGhlJTIwcGVsaWNhbiUyMGJlbmNobWFyayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ3NzE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTQlM0EyMSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "pubDate": "Fri, 17 Jul 2026 14:21:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnprc2VjdXJpdHkueHl6JTJGcG9zdHMlMkZvcGVudm0tYnVncyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy56a3NlY3VyaXR5Lnh5eiUyRnBvc3RzJTJGb3BlbnZtLWJ1Z3MlMkYlN0NBSSUyME1lZXRzJTIwQ3J5cHRvZ3JhcGh5JTIwMiUzQSUyMFdoYXQlMjBBSSUyMEZvdW5kJTIwaW4lMjBPcGVuVk0ncyUyMFprVk0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0NzcxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDE0JTNBMjElM0EzNSUyMCUyQjAwMDA",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "pubDate": "Fri, 17 Jul 2026 14:21:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmN5NGtkZDFlMGVqbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjeTRrZGQxZTBlam8lN0NGaXJzdCUyMGF0bW9zcGhlcmUlMjBmb3VuZCUyMG9uJTIwRWFydGgtbGlrZSUyMHBsYW5ldCUyMGluJTIwaGFiaXRhYmxlJTIwem9uZSUyMG9mJTIwZGlzdGFudCUyMHN0YXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0NzU2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDE0JTNBMDYlM0ExMyUyMCUyQjAwMDA",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "pubDate": "Fri, 17 Jul 2026 14:06:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob25leXBvdGxpdmUuY2MlMkYlN0NodHRwcyUzQSUyRiUyRmhvbmV5cG90bGl2ZS5jYyUyRiU3Q1Nob3clMjBITiUzQSUyMFdhdGNoJTIwYm90cyUyMGludGVyYWN0JTIwd2l0aCUyMGFuJTIwU1NIJTIwaG9uZXlwb3QlMjBpbiUyMHJlYWwlMjB0aW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDc1NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxNCUzQTA1JTNBMTUlMjAlMkIwMDAw",
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "pubDate": "Fri, 17 Jul 2026 14:05:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbXByb3Zlc29tZXRoaW5nLnRvZGF5JTJGcmVzcG9uc2VzLXRvLXByb2JsZW1zJTJGJTdDaHR0cHMlM0ElMkYlMkZpbXByb3Zlc29tZXRoaW5nLnRvZGF5JTJGcmVzcG9uc2VzLXRvLXByb2JsZW1zJTJGJTdDVGhyZWUlMjB3YXlzJTIwcGVvcGxlJTIwcmVzcG9uZCUyMHRvJTIwYSUyMHByb2JsZW0lMjAob3RoZXIlMjB0aGFuJTIwc29sdmluZyUyMGl0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ3NDkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTQlM0EwMCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "pubDate": "Fri, 17 Jul 2026 14:00:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dG8ubWUlMkZibG9nJTJGMjAyNi0wNy0xNy13aGljaC1saXNwJTJGJTdDaHR0cHMlM0ElMkYlMkZzY290dG8ubWUlMkZibG9nJTJGMjAyNi0wNy0xNy13aGljaC1saXNwJTJGJTdDQSUyMFJvYWQlMjB0byUyMExpc3AlM0ElMjBXaGljaCUyMExpc3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0NzQ1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDEzJTNBNTYlM0EwNCUyMCUyQjAwMDA",
+      "title": "A Road to Lisp: Which Lisp",
+      "pubDate": "Fri, 17 Jul 2026 13:56:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtY2VnbG93c2tpLnN1YnN0YWNrLmNvbSUyRnAlMkZtb3JlLWJvdW5jZS10by10aGUtb3VuY2UlN0NodHRwcyUzQSUyRiUyRm1jZWdsb3dza2kuc3Vic3RhY2suY29tJTJGcCUyRm1vcmUtYm91bmNlLXRvLXRoZS1vdW5jZSU3Q01vcmUlMjBCb3VuY2UlMjB0byUyMHRoZSUyME91bmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDcyMDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxMyUzQTMyJTNBMTElMjAlMkIwMDAw",
+      "title": "More Bounce to the Ounce",
+      "pubDate": "Fri, 17 Jul 2026 13:32:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUGVubnlMYW5lQUklMkZwZW5ueWxhbmUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZQZW5ueUxhbmVBSSUyRnBlbm55bGFuZSU3Q1Blbm55TGFuZSUyMGlzJTIwYW4lMjBvcGVuLXNvdXJjZSUyMHF1YW50dW0lMjBzb2Z0d2FyZSUyMHBsYXRmb3JtJTIwZm9yJTIwcXVhbnR1bSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ3MTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTMlM0EzMCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "PennyLane is an open-source quantum software platform for quantum",
+      "pubDate": "Fri, 17 Jul 2026 13:30:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbWFudWZhY3QlMkZqb2JzJTJGRGg2UFlQNS1zZW5pb3ItaW5mcmFzdHJ1Y3R1cmUtZW5naW5lZXIlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZtYW51ZmFjdCUyRmpvYnMlMkZEaDZQWVA1LXNlbmlvci1pbmZyYXN0cnVjdHVyZS1lbmdpbmVlciU3Q01hbnVmYWN0JTIwKFlDJTIwUzI1KSUyMElzJTIwSGlyaW5nJTIwYSUyMFNlbmlvciUyMGluZnJhJTIwZW5naW5lZXIlMjB0byUyMGJ1aWxkJTIwdGhlJTIwTUNQJTIwY2xvdWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0NzEwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDEzJTNBMjIlM0EzMyUyMCUyQjAwMDA",
+      "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+      "pubDate": "Fri, 17 Jul 2026 13:22:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FwaXRhbG9uZS5jb20lMkZ0ZWNoJTJGb3Blbi1zb3VyY2UlMkZhbm5vdW5jaW5nLXZ1bG5odW50ZXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYXBpdGFsb25lLmNvbSUyRnRlY2glMkZvcGVuLXNvdXJjZSUyRmFubm91bmNpbmctdnVsbmh1bnRlciUyRiU3Q1Z1bG5IdW50ZXIlM0ElMjBDYXBpdGFsJTIwT25lJ3MlMjBhZ2VudGljJTIwQUklMjBjb2RlJTIwc2VjdXJpdHklMjB0b29sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDY2OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxMiUzQTQyJTNBMTIlMjAlMkIwMDAw",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "pubDate": "Fri, 17 Jul 2026 12:42:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjFiOGM5ZDUyLTg4YTktNDI2Yi1iYTQ3LWYxODExZjg1OTE2NiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkYxYjhjOWQ1Mi04OGE5LTQyNmItYmE0Ny1mMTgxMWY4NTkxNjYlN0NBcHBsZSUyMHRhcmdldHMlMjBkb3plbnMlMjBvZiUyME9wZW5BSSUyMGVtcGxveWVlcyUyMHdpdGglMjBsZWdhbCUyMGxldHRlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0NjMwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDEyJTNBMDIlM0EzOSUyMCUyQjAwMDA",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "pubDate": "Fri, 17 Jul 2026 12:02:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ1MjQxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ1MjQxJTdDQVdTJTNBJTIwSW5hY2N1cmF0ZSUyMEVzdGltYXRlZCUyMEJpbGxpbmclMjBEYXRhJTIwJUUyJTgwJTkzJTIwJTI0MS43JTIwYmlsbGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ1MjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMDklM0E0MiUzQTA1JTIwJTJCMDAwMA",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "pubDate": "Fri, 17 Jul 2026 09:42:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
     }
   ]

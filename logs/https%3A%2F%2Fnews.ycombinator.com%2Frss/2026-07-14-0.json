@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 57,
-    "generatedAt": "2026-07-17T03:42:20.092Z"
+    "itemCount": 59,
+    "generatedAt": "2026-07-17T17:33:27.488Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQubmV0JTJGcHNldWRwb2NhbHlwc2UlMkYlN0NodHRwcyUzQSUyRiUyRmR5bm9taWdodC5uZXQlMkZwc2V1ZHBvY2FseXBzZSUyRiU3Q1BzZXVkcG9jYWx5cHNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDg4ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTAyJTNBMDElMjAlMkIwMDAw",
       "title": "Pseudpocalypse",
       "pubDate": "Tue, 14 Jul 2026 16:02:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtc2FwMi5tZWhyYW4uZGslN0NodHRwcyUzQSUyRiUyRm1zYXAyLm1laHJhbi5kayUyRiU3Q1Nob3clMjBITiUzQSUyMFNpbXVsYXRvciUyMGZvciUyMGElMjBjdXN0b20lMjA4LWJpdCUyMGRpc2NyZWV0JTIwbG9naWMlMjBjb21wdXRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTA4NjkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTUlM0E1MCUzQTE5JTIwJTJCMDAwMA",
+      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
+      "pubDate": "Tue, 14 Jul 2026 15:50:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYXJ0b3N6bWlsZXdza2kuY29tJTJGMjAyNiUyRjA3JTJGMTQlMkZ0YW5uYWtpYW4tcmVjb25zdHJ1Y3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRmJhcnRvc3ptaWxld3NraS5jb20lMkYyMDI2JTJGMDclMkYxNCUyRnRhbm5ha2lhbi1yZWNvbnN0cnVjdGlvbiUyRiU3Q1Rhbm5ha2lhbiUyMFJlY29uc3RydWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDcyNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNCUzQTE1JTNBNTElMjAlMkIwMDAw",
+      "title": "Tannakian Reconstruction",
+      "pubDate": "Tue, 14 Jul 2026 14:15:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]
