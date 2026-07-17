@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-13",
     "newestItemDate": "2026-07-13",
-    "itemCount": 47,
-    "generatedAt": "2026-07-16T17:42:29.482Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-17T03:42:20.093Z"
   },
   "items": [
     {
@@ -288,6 +288,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYWN3cmlnaHQuY29tJTJGMjAyNiUyRjA2JTJGMjQlMkZhY2NpZGVudGFsLWFub255bWl0eSU3Q2h0dHBzJTNBJTJGJTJGbWFjd3JpZ2h0LmNvbSUyRjIwMjYlMkYwNiUyRjI0JTJGYWNjaWRlbnRhbC1hbm9ueW1pdHklN0NBY2NpZGVudGFsJTIwQW5vbnltaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTgyMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAyMCUzQTE3JTNBNDYlMjAlMkIwMDAw",
       "title": "Accidental Anonymity",
       "pubDate": "Mon, 13 Jul 2026 20:17:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZhaSUyRjIwMjYlMkYwNyUyRnNpbXVsYXRpbmctZXZlcnl0aGluZy1zb3J0LW9mLXRoZS1wcm9taXNlLWFuZC1saW1pdHMtb2Ytd29ybGQtbW9kZWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZhaSUyRjIwMjYlMkYwNyUyRnNpbXVsYXRpbmctZXZlcnl0aGluZy1zb3J0LW9mLXRoZS1wcm9taXNlLWFuZC1saW1pdHMtb2Ytd29ybGQtbW9kZWxzJTJGJTdDU2ltdWxhdGluZyUyMGV2ZXJ5dGhpbmclMkMlMjBzb3J0JTIwb2YlM0ElMjBUaGUlMjBwcm9taXNlJTIwYW5kJTIwbGltaXRzJTIwb2YlMjB3b3JsZCUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODk2MDQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTclM0EzNCUzQTMzJTIwJTJCMDAwMA",
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "pubDate": "Mon, 13 Jul 2026 17:34:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2xvZC5kZXYlN0NodHRwcyUzQSUyRiUyRnNvbG9kLmRldiUyRiU3Q1NvbG9kJTNBJTIwR28lMjBjYW4lMjBiZSUyMGElMjBiZXR0ZXIlMjBDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTUxOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxNiUzQTM4JTNBMjElMjAlMkIwMDAw",
+      "title": "Solod: Go can be a better C",
+      "pubDate": "Mon, 13 Jul 2026 16:38:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
     }
   ]

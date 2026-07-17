@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-16",
     "newestItemDate": "2026-07-16",
-    "itemCount": 36,
-    "generatedAt": "2026-07-16T17:42:29.481Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-17T03:42:20.092Z"
   },
   "items": [
     {
@@ -222,6 +222,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb21tdW5pdHkub25lcGx1cy5jb20lMkZ0aHJlYWQlMkYyMTcwNzE1MTE4NTg3ODcxMjM3JTdDaHR0cHMlM0ElMkYlMkZjb21tdW5pdHkub25lcGx1cy5jb20lMkZ0aHJlYWQlMkYyMTcwNzE1MTE4NTg3ODcxMjM3JTdDT25lUGx1cyUyMGhhbHRzJTIwb3BlcmF0aW9ucyUyMGluJTIwVVNBJTIwYW5kJTIwRXVyb3BlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MzI1MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAxMCUzQTE0JTNBMDQlMjAlMkIwMDAw",
       "title": "OnePlus halts operations in USA and Europe",
       "pubDate": "Thu, 16 Jul 2026 10:14:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb2ppYmFrZS56YWVybC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRm1vamliYWtlLnphZXJsLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyME1vamliYWtlJTIwJUUyJTgwJTkzJTIwQSUyMGxvdy1sZXZlbCUyMFVuaWNvZGUlMjBsaWJyYXJ5JTIwd3JpdHRlbiUyMGluJTIwQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQxMTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMjIlM0EyOSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
+      "pubDate": "Thu, 16 Jul 2026 22:29:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWx4bmRyVEwlMkZsaXR0bGUtYm9vay1ybCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFseG5kclRMJTJGbGl0dGxlLWJvb2stcmwlMkYlN0NUaGUlMjBMaXR0bGUlMjBCb29rJTIwb2YlMjBSZWluZm9yY2VtZW50JTIwTGVhcm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MTEwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDIyJTNBMjclM0EyMiUyMCUyQjAwMDA",
+      "title": "The Little Book of Reinforcement Learning",
+      "pubDate": "Thu, 16 Jul 2026 22:27:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZWxsb3JlY29uLmNvbSUyRmJsb2clMkZjdmUtMjAyNi0yNTA4OSU3Q2h0dHBzJTNBJTJGJTJGaGVsbG9yZWNvbi5jb20lMkZibG9nJTJGY3ZlLTIwMjYtMjUwODklN0NDVkUtMjAyNi0yNTA4OSUzQSUyMEZvcnRpU2FuZGJveCUyMHVuYXV0aGVudGljYXRlZCUyMGNvbW1hbmQlMjBpbmplY3Rpb24lMjBhZGRlZCUyMHRvJTIwQ0lTQSUyMEtFViU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQwODk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMjIlM0EwNyUzQTMwJTIwJTJCMDAwMA",
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "pubDate": "Thu, 16 Jul 2026 22:07:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnlhbGUuZWR1JTJGMjAyNiUyRjA3JTJGMTUlMkZtZWV0LWxpa3dlbGktbmV3LW1vbmtleS1zcGVjaWVzLWRpc2NvdmVyZWQtY29uZ28tYmFzaW4lN0NodHRwcyUzQSUyRiUyRm5ld3MueWFsZS5lZHUlMkYyMDI2JTJGMDclMkYxNSUyRm1lZXQtbGlrd2VsaS1uZXctbW9ua2V5LXNwZWNpZXMtZGlzY292ZXJlZC1jb25nby1iYXNpbiU3QydMaWt3ZWxpJyUzQSUyMEElMjBuZXclMjBtb25rZXklMjBzcGVjaWVzJTIwZGlzY292ZXJlZCUyMGluJTIwdGhlJTIwQ29uZ28lMjBCYXNpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQwODMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMjIlM0EwMCUzQTAwJTIwJTJCMDAwMA",
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "pubDate": "Thu, 16 Jul 2026 22:00:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjEyMzk1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjEyMzk1JTdDUmluZy1aZXJvJTNBJTIwU2NhbGluZyUyMFplcm8lMjBSTCUyMHRvJTIwYSUyMFRyaWxsaW9uJTIwUGFyYW1ldGVycyUyMGZvciUyMEVtZXJnZW50JTIwUmVhc29uaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDA2MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAyMSUzQTM4JTNBMDIlMjAlMkIwMDAw",
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "pubDate": "Thu, 16 Jul 2026 21:38:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjExOTM4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjExOTM4JTdDTWF0aGVtYXRpY3MlMjBvZiUyMERhdGElMjBTY2llbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5Mzk4OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAyMCUzQTM4JTNBNDglMjAlMkIwMDAw",
+      "title": "Mathematics of Data Science",
+      "pubDate": "Thu, 16 Jul 2026 20:38:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZkb2klMkYxMC4xMTI2JTJGc2NpZW5jZS5hZWE5NzA4JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZkb2klMkYxMC4xMTI2JTJGc2NpZW5jZS5hZWE5NzA4JTdDSGVsaXVtJTIwZXNjYXBpbmclMjBmcm9tJTIwYXRtb3NwaGVyZSUyMG9mJTIwbmVhcmJ5JTIwcm9ja3klMjBleG9wbGFuZXQlMjBpbiUyMGElMjBoYWJpdGFibGUlMjB6b25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5Mzk3NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAyMCUzQTI0JTNBMDIlMjAlMkIwMDAw",
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "pubDate": "Thu, 16 Jul 2026 20:24:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsbXN0dWRpby5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy1sbS1zdHVkaW8tYmlvbmljJTdDaHR0cHMlM0ElMkYlMkZsbXN0dWRpby5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy1sbS1zdHVkaW8tYmlvbmljJTdDTE0lMjBTdHVkaW8lMjBCaW9uaWMlM0ElMjB0aGUlMjBBSSUyMGFnZW50JTIwZm9yJTIwb3BlbiUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTM5NjYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMjAlM0ExOCUzQTE1JTIwJTJCMDAwMA",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "pubDate": "Thu, 16 Jul 2026 20:18:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHJ5YWkuZGV2JTJGYmxvZyUyRmFpLW11c2ljLXZpZGVvLWFyZW5hLWNsYXVkZS12cy1ncHQtNS42JTdDaHR0cHMlM0ElMkYlMkZ3d3cudHJ5YWkuZGV2JTJGYmxvZyUyRmFpLW11c2ljLXZpZGVvLWFyZW5hLWNsYXVkZS12cy1ncHQtNS42JTdDJTI0MTAwJTIwQUklMjBNdXNpYyUyMFZpZGVvJTNBJTIwQ2xhdWRlJTIwRmFibGUlMjA1JTIwdnMuJTIwR1BULTUuNiUyMFNvbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTM5NTI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMjAlM0EwMyUzQTIzJTIwJTJCMDAwMA",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "pubDate": "Thu, 16 Jul 2026 20:03:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25zZXF1ZW5jZS5uZXQlMkYyMDI2JTJGMDclMkZ0aGUtY2QtcmV2aXZhbC1pcy1nZXR0aW5nLWhhcmQtdG8taWdub3JlJTJGJTdDaHR0cHMlM0ElMkYlMkZjb25zZXF1ZW5jZS5uZXQlMkYyMDI2JTJGMDclMkZ0aGUtY2QtcmV2aXZhbC1pcy1nZXR0aW5nLWhhcmQtdG8taWdub3JlJTJGJTdDQ0QlMjBzYWxlcyUyMGdyb3d0aCUyMG91dHBhY2VkJTIwdmlueWwlMjBpbiUyMHRoZSUyMGZpcnN0JTIwaGFsZiUyMG9mJTIwMjAyNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTM3Mzk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMTclM0ExOSUzQTE2JTIwJTJCMDAwMA",
+      "title": "CD sales growth outpaced vinyl in the first half of 2026",
+      "pubDate": "Thu, 16 Jul 2026 17:19:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbW1lcnNpdmVtYXRoLmNvbSUyRmlsYSUyRiU3Q2h0dHBzJTNBJTJGJTJGaW1tZXJzaXZlbWF0aC5jb20lMkZpbGElMkYlN0NJbW1lcnNpdmUlMjBMaW5lYXIlMjBBbGdlYnJhJTIwQm9vayUyMHdpdGglMjBJbnRlcmFjdGl2ZSUyMEZpZ3VyZXMlMjAoMjAxNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkzNTk1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDE1JTNBMzIlM0EyMyUyMCUyQjAwMDA",
+      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "pubDate": "Thu, 16 Jul 2026 15:32:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2ltaS5jb20lMkZibG9nJTJGa2ltaS1rMyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmtpbWkuY29tJTJGYmxvZyUyRmtpbWktazMlN0NLaW1pJTIwSzMlM0ElMjBPcGVuJTIwRnJvbnRpZXIlMjBJbnRlbGxpZ2VuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkzNTM0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDE0JTNBNDYlM0EwNSUyMCUyQjAwMDA",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "pubDate": "Thu, 16 Jul 2026 14:46:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcm93ZGhhaWxlci5tZSUyRjIwMjYtMDctMTUlMkZhYnN0cmFjdGluZy1lZmZlY3RzLXdpdGgtY29udGludWF0aW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGY3Jvd2RoYWlsZXIubWUlMkYyMDI2LTA3LTE1JTJGYWJzdHJhY3RpbmctZWZmZWN0cy13aXRoLWNvbnRpbnVhdGlvbnMlMkYlN0NBYnN0cmFjdGluZyUyMEVmZmVjdHMlMjB3aXRoJTIwQ29udGludWF0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTMyNzIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTYlMjBKdWwlMjAyMDI2JTIwMTAlM0E0MSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Abstracting Effects with Continuations",
+      "pubDate": "Thu, 16 Jul 2026 10:41:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
     }
   ]
