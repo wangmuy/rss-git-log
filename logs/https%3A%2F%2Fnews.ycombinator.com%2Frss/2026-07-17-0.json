@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-17",
     "newestItemDate": "2026-07-17",
-    "itemCount": 26,
-    "generatedAt": "2026-07-17T17:33:27.488Z"
+    "itemCount": 41,
+    "generatedAt": "2026-07-18T03:38:02.012Z"
   },
   "items": [
     {
@@ -162,6 +162,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ1MjQxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ1MjQxJTdDQVdTJTNBJTIwSW5hY2N1cmF0ZSUyMEVzdGltYXRlZCUyMEJpbGxpbmclMjBEYXRhJTIwJUUyJTgwJTkzJTIwJTI0MS43JTIwYmlsbGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ1MjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMDklM0E0MiUzQTA1JTIwJTJCMDAwMA",
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "pubDate": "Fri, 17 Jul 2026 09:42:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaXNvbW9ycGhpY2xhYnMuY29tJTJGYXJ0aWNsZXMlMkZ0aGUtaXNvbW9ycGhpYy1sYWJzLWRydWctZGVzaWduLWVuZ2luZS11bmxvY2tzLWEtbmV3LWZyb250aWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaXNvbW9ycGhpY2xhYnMuY29tJTJGYXJ0aWNsZXMlMkZ0aGUtaXNvbW9ycGhpYy1sYWJzLWRydWctZGVzaWduLWVuZ2luZS11bmxvY2tzLWEtbmV3LWZyb250aWVyJTdDVGhlJTIwSXNvbW9ycGhpYyUyMExhYnMlMjBEcnVnJTIwRGVzaWduJTIwRW5naW5lJTIwdW5sb2NrcyUyMGElMjBuZXclMjBmcm9udGllciUyMGJleW9uZCUyMEFscGhhRm9sZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUzNDA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjMlM0EyNiUzQTM1JTIwJTJCMDAwMA",
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "pubDate": "Fri, 17 Jul 2026 23:26:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb2NhbG5ld3NtYXR0ZXJzLm9yZyUyRjIwMjYlMkYwNyUyRjE1JTJGa2Fpc2VyLW51cnNlcy1zYXktYWktd29ya3BsYWNlLXN1cnZlaWxsYW5jZS1hcmUtbWFraW5nLXRoZWlyLWpvYnMtYW5kLXBhdGllbnQtY2FyZS13b3JzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9jYWxuZXdzbWF0dGVycy5vcmclMkYyMDI2JTJGMDclMkYxNSUyRmthaXNlci1udXJzZXMtc2F5LWFpLXdvcmtwbGFjZS1zdXJ2ZWlsbGFuY2UtYXJlLW1ha2luZy10aGVpci1qb2JzLWFuZC1wYXRpZW50LWNhcmUtd29yc2UlMkYlN0NLYWlzZXIlMjBudXJzZXMlMjBzYXklMjBBSSUyQyUyMHdvcmtwbGFjZSUyMHN1cnZlaWxsYW5jZSUyMGFyZSUyMG1ha2luZyUyMHRoZWlyJTIwam9icyUyQyUyMGNhcmUlMjB3b3JzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUyODgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjIlM0EyNiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "pubDate": "Fri, 17 Jul 2026 22:26:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQmFkQ2hlbWljYWwlMkZJb1QtVnVsbmVyYWJpbGl0eS1SZXNlYXJjaC1QdWJsaWMlMkZibG9iJTJGbWFpbiUyRlRQLUxpbmtfS2FzYV9FQzcxJTJGS2FzYV9FQzcxLm1kJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQmFkQ2hlbWljYWwlMkZJb1QtVnVsbmVyYWJpbGl0eS1SZXNlYXJjaC1QdWJsaWMlMkZibG9iJTJGbWFpbiUyRlRQLUxpbmtfS2FzYV9FQzcxJTJGS2FzYV9FQzcxLm1kJTdDVFAtTGluayUyMEthc2ElMjBjYW1lcmFzJTIwbGVha2VkJTIwaG9tZSUyMEdQUyUyMHZpYSUyMHVuYXV0aGVudGljYXRlZCUyMFVEUCUyMGZvciUyMDYlMjB5ZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUyNTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjElM0E0MiUzQTQzJTIwJTJCMDAwMA",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "pubDate": "Fri, 17 Jul 2026 21:42:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDclMkYxNyUyRmZhYS1ib2VpbmctNzM3LW1heC03ODcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNuYmMuY29tJTJGMjAyNiUyRjA3JTJGMTclMkZmYWEtYm9laW5nLTczNy1tYXgtNzg3Lmh0bWwlN0NGQUElMjBsZXRzJTIwQm9laW5nJTIwc2lnbiUyMG9mZiUyMG9uJTIwNzM3JTIwTUFYJTJDJTIwNzg3JTIwYWlyd29ydGhpbmVzcyUyMGNlcnRpZmljYXRlcyUyMGFnYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTI0MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAyMSUzQTIyJTNBNTMlMjAlMkIwMDAw",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "pubDate": "Fri, 17 Jul 2026 21:22:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Jvd2RzdXBwbHkuY29tJTJGb2RkbHktc3BlY2lmaWMtb2JqZWN0cyUyRm9wZW4tYm9vay10b3VjaCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNyb3dkc3VwcGx5LmNvbSUyRm9kZGx5LXNwZWNpZmljLW9iamVjdHMlMkZvcGVuLWJvb2stdG91Y2glN0NPcGVuJTIwQm9vayUyMFRvdWNoJTNBJTIwb3Blbi1zb3VyY2UlMjBlLXJlYWRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUyMTM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjAlM0E0NyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Open Book Touch: open-source e-reader",
+      "pubDate": "Fri, 17 Jul 2026 20:47:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdG9raW8tcnMlMkZ0b3Bjb2F0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdG9raW8tcnMlMkZ0b3Bjb2F0JTdDVG9wY29hdCUzQSUyMFRoZSUyMGZ1bGwlMjBmdWxsLXN0YWNrJTIwZnJhbWV3b3JrJTIwZm9yJTIwUnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUyMDY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjAlM0E0MSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "pubDate": "Fri, 17 Jul 2026 20:41:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJpb3VzY29kaW5nLm5sJTJGcG9zdHMlMkZzdGF0aWMtc2VhcmNoLXRyZWUlMkYlN0NodHRwcyUzQSUyRiUyRmN1cmlvdXNjb2RpbmcubmwlMkZwb3N0cyUyRnN0YXRpYy1zZWFyY2gtdHJlZSUyRiU3Q1N0YXRpYyUyMHNlYXJjaCUyMHRyZWVzJTNBJTIwNDB4JTIwZmFzdGVyJTIwdGhhbiUyMGJpbmFyeSUyMHNlYXJjaCUyMCgyMDI0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUxODk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjAlM0EyNCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "pubDate": "Fri, 17 Jul 2026 20:24:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXAuY29tJTJGbmV3cyUyRnNhZmV0eSUyRlRyYWNraW5nLVJhaWwtSGVhdC0yNjA2MDglN0NodHRwcyUzQSUyRiUyRnd3dy51cC5jb20lMkZuZXdzJTJGc2FmZXR5JTJGVHJhY2tpbmctUmFpbC1IZWF0LTI2MDYwOCU3Q1BhaW50aW5nJTIwdGhlJTIwc2lkZXMlMjBvZiUyMHJhaWxyb2FkJTIwcmFpbHMlMjB3aGl0ZSUyMHRvJTIwcmVkdWNlJTIwZGVyYWlsbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUxNzgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjAlM0ExMiUzQTU5JTIwJTJCMDAwMA",
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "pubDate": "Fri, 17 Jul 2026 20:12:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb2xpYXRoMzIuY29tJTJGYmxvZyUyRno4MC5odG1sJTdDaHR0cHMlM0ElMkYlMkZnb2xpYXRoMzIuY29tJTJGYmxvZyUyRno4MC5odG1sJTdDVGhlJTIwWmlsb2clMjBaODAlMjBoYXMlMjB0dXJuZWQlMjA1MCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUxNDYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTklM0E0MSUzQTAyJTIwJTJCMDAwMA",
+      "title": "The Zilog Z80 has turned 50",
+      "pubDate": "Fri, 17 Jul 2026 19:41:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcHAuZXZlcnl0aGluZy5kaWVuYS5jbyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXBwLmV2ZXJ5dGhpbmcuZGllbmEuY28lMkYlN0NTaG93JTIwSE4lM0ElMjBBJTIwem9vbWFibGUlMjB0aW1lbGluZSUyMG9mJTIwNE0lMjBXaWtpcGVkaWElMjBldmVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1MDc3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDE4JTNBMzclM0EzMyUyMCUyQjAwMDA",
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "pubDate": "Fri, 17 Jul 2026 18:37:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVnby5jb20lMkZlbi11cyUyRmhpc3RvcnklMkZhcnRpY2xlcyUyRmQtbGVnby1idWlsZGluZy1pbnN0cnVjdGlvbnMtdGhyb3VnaC10aW1lJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGVnby5jb20lMkZlbi11cyUyRmhpc3RvcnklMkZhcnRpY2xlcyUyRmQtbGVnby1idWlsZGluZy1pbnN0cnVjdGlvbnMtdGhyb3VnaC10aW1lJTdDTGVnbyUyMGJ1aWxkaW5nJTIwaW5zdHJ1Y3Rpb25zJTIwdGhyb3VnaCUyMHRpbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1MDUxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDE4JTNBMjElM0ExNCUyMCUyQjAwMDA",
+      "title": "Lego building instructions through time",
+      "pubDate": "Fri, 17 Jul 2026 18:21:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdm5zLmNhJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjE3JTJGbGVhcm5pbmctYWJvdXQtcnVubmluZy1zcWxpdGUlMkYlN0NodHRwcyUzQSUyRiUyRmp2bnMuY2ElMkZibG9nJTJGMjAyNiUyRjA3JTJGMTclMkZsZWFybmluZy1hYm91dC1ydW5uaW5nLXNxbGl0ZSUyRiU3Q0xlYXJuaW5nJTIwYSUyMGZldyUyMHRoaW5ncyUyMGFib3V0JTIwcnVubmluZyUyMFNRTGl0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUwMTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTclM0E0NSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Learning a few things about running SQLite",
+      "pubDate": "Fri, 17 Jul 2026 17:45:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ5NTUxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ5NTUxJTdDVGhhbmtzJTIwSE4lMjBmb3IlMjAxNSUyMHllYXJzJTIwb2YlMjBzdXBwb3J0JTIwYW5kJTIwaGVscGluZyUyMG1lJTIwZmluZCUyMG15JTIwbGlmZSdzJTIwd29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTQ5NTUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMTYlM0E1NyUzQTI3JTIwJTJCMDAwMA",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "pubDate": "Fri, 17 Jul 2026 16:57:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRnByb2R1Y3RzLWFuZC1wbGF0Zm9ybXMlMkZwbGF0Zm9ybXMlMkZhbmRyb2lkJTJGd29ybGQtZW1vamktZGF5LW5vdG8tM2QlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ29vZ2xlJTJGcHJvZHVjdHMtYW5kLXBsYXRmb3JtcyUyRnBsYXRmb3JtcyUyRmFuZHJvaWQlMkZ3b3JsZC1lbW9qaS1kYXktbm90by0zZCUyRiU3Q0Rlc2lnbmluZyUyMGVtb2ppJTIwZm9yJTIwdGhlJTIwd2F5JTIwd2UlMjBjb21tdW5pY2F0ZSUyMHRvZGF5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDkxODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxNiUzQTI0JTNBMTMlMjAlMkIwMDAw",
+      "title": "Designing emoji for the way we communicate today",
+      "pubDate": "Fri, 17 Jul 2026 16:24:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0ZW9mb3BlbnNvdXJjZS5haSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RhdGVvZm9wZW5zb3VyY2UuYWklMkYlN0NUaGUlMjBzdGF0ZSUyMG9mJTIwb3BlbiUyMHNvdXJjZSUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDc4MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxNCUzQTMxJTNBMTAlMjAlMkIwMDAw",
+      "title": "The state of open source AI",
+      "pubDate": "Fri, 17 Jul 2026 14:31:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
     }
   ]
