@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-18",
     "newestItemDate": "2026-07-18",
-    "itemCount": 8,
-    "generatedAt": "2026-07-18T09:49:16.309Z"
+    "itemCount": 25,
+    "generatedAt": "2026-07-18T17:18:07.076Z"
   },
   "items": [
     {
@@ -54,6 +54,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwaW5ld2luZC5iZWFyYmxvZy5kZXYlMkZpLXN0YXJ0ZWQtYS1kaXJ0LW5vdGVib29rJTJGJTdDaHR0cHMlM0ElMkYlMkZwaW5ld2luZC5iZWFyYmxvZy5kZXYlMkZpLXN0YXJ0ZWQtYS1kaXJ0LW5vdGVib29rJTJGJTdDSSUyMHN0YXJ0ZWQlMjBhJTIwJUUyJTgwJTlDZGlydCUyMG5vdGVib29rJUUyJTgwJTlEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTQxNDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAwMSUzQTEyJTNBMTMlMjAlMkIwMDAw",
       "title": "I started a “dirt notebook”",
       "pubDate": "Sat, 18 Jul 2026 01:12:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5a2Rvam8uZ2l0aHViLmlvJTJGY2xhdWRlLWNvbnRyb2xzLW1hYyUyRiU3Q2h0dHBzJTNBJTJGJTJGeWtkb2pvLmdpdGh1Yi5pbyUyRmNsYXVkZS1jb250cm9scy1tYWMlMkYlN0NTZXR0aW5nJTIwdXAlMjB5b3VyJTIwc3BhcmUlMjBNYWMlMjBmb3IlMjBDbGF1ZGUlMjBDb2RlJTIwdG8lMjBjb250cm9sJTJDJTIwYSUyMHN0ZXAtYnktc3RlcCUyMGd1aWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTkzOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAxNiUzQTEyJTNBMDglMjAlMkIwMDAw",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "pubDate": "Sat, 18 Jul 2026 16:12:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbGQucmVkZGl0LmNvbSUyRnIlMkZCaW5nZUVhdGluZ0Rpc29yZGVyJTJGY29tbWVudHMlMkYxdXpyM3VpJTJGZmFrZV9mb29kX2RlbGl2ZXJ5X3NpdGVfZm9yX3RoZV9kb3BhbWluZSUyRiU3Q2h0dHBzJTNBJTJGJTJGb2xkLnJlZGRpdC5jb20lMkZyJTJGQmluZ2VFYXRpbmdEaXNvcmRlciUyRmNvbW1lbnRzJTJGMXV6cjN1aSUyRmZha2VfZm9vZF9kZWxpdmVyeV9zaXRlX2Zvcl90aGVfZG9wYW1pbmUlMkYlN0NGYWtlJTIwZm9vZCUyMGRlbGl2ZXJ5JTIwc2l0ZSUyMGZvciUyMHRoZSUyMGRvcGFtaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTkzNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAxNiUzQTA4JTNBMzglMjAlMkIwMDAw",
+      "title": "Fake food delivery site for the dopamine",
+      "pubDate": "Sat, 18 Jul 2026 16:08:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGgudW5jLmVkdSUyRnNwaC1uZXdzJTJGbm8tbGluay1iZXR3ZWVuLWFjZXRhbWlub3BoZW4tdXNlLWR1cmluZy1wcmVnbmFuY3ktYW5kLWFkdmVyc2UtYmlydGgtb3V0Y29tZXMtc3R1ZHktZmluZHMlMkYlN0NodHRwcyUzQSUyRiUyRnNwaC51bmMuZWR1JTJGc3BoLW5ld3MlMkZuby1saW5rLWJldHdlZW4tYWNldGFtaW5vcGhlbi11c2UtZHVyaW5nLXByZWduYW5jeS1hbmQtYWR2ZXJzZS1iaXJ0aC1vdXRjb21lcy1zdHVkeS1maW5kcyUyRiU3Q05vJTIwbGluayUyMGJldHdlZW4lMjBhY2V0YW1pbm9waGVuJTIwdXNlJTIwZHVyaW5nJTIwcHJlZ25hbmN5JTIwYW5kJTIwYWR2ZXJzZSUyMGJpcnRoJTIwb3V0Y29tZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1OTMwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE4JTIwSnVsJTIwMjAyNiUyMDE2JTNBMDMlM0EwOSUyMCUyQjAwMDA",
+      "title": "No link between acetaminophen use during pregnancy and adverse birth outcomes",
+      "pubDate": "Sat, 18 Jul 2026 16:03:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGb3VyLWFwcHJvYWNoLXRvLWJpb3Jlc2lsaWVuY2UlMkYlN0NodHRwcyUzQSUyRiUyRmRlZXBtaW5kLmdvb2dsZSUyRmJsb2clMkZvdXItYXBwcm9hY2gtdG8tYmlvcmVzaWxpZW5jZSUyRiU3Q091ciUyMEFwcHJvYWNoJTIwdG8lMjBCaW9yZXNpbGllbmNlJTNBJTIwSXNvbW9ycGhpYyUyMExhYnMlMjBhbmQlMjBHb29nbGUlMjBEZWVwTWluZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTU5Mjk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTglMjBKdWwlMjAyMDI2JTIwMTYlM0EwMiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "pubDate": "Sat, 18 Jul 2026 16:02:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRmdsZWFtLnJ1biUyRmdsZWFtJTdDaHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRmdsZWFtLnJ1biUyRmdsZWFtJTdDR2xlYW0lMjBJcyUyME5vdyUyMG9uJTIwVGFuZ2xlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTU5MTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTglMjBKdWwlMjAyMDI2JTIwMTUlM0E0NCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Gleam Is Now on Tangled",
+      "pubDate": "Sat, 18 Jul 2026 15:44:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFjdG9ybWFnLmNvbSUyRnRoZS1mZXJtaS1wYXJhZG94LXBlcmNvbGF0aW9uLWFuZC1pbmJyZWVkaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZyZWFjdG9ybWFnLmNvbSUyRnRoZS1mZXJtaS1wYXJhZG94LXBlcmNvbGF0aW9uLWFuZC1pbmJyZWVkaW5nJTJGJTdDVGhlJTIwRmVybWklMjBQYXJhZG94JTJDJTIwUGVyY29sYXRpb24lMkMlMjBhbmQlMjBJbmJyZWVkaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTkxMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTM4JTNBMzYlMjAlMkIwMDAw",
+      "title": "The Fermi Paradox, Percolation, and Inbreeding",
+      "pubDate": "Sat, 18 Jul 2026 15:38:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVubGFuZGF1dGF5bG9yLmNvbSUyRnAlMkZpZi15b3UtYnVpbGQtaXQtdGhleS13aWxsLWNvbWUlN0NodHRwcyUzQSUyRiUyRnd3dy5iZW5sYW5kYXV0YXlsb3IuY29tJTJGcCUyRmlmLXlvdS1idWlsZC1pdC10aGV5LXdpbGwtY29tZSU3Q0lmJTIwWW91JTIwQnVpbGQlMjBJdCUyQyUyMFRoZXklMjBXaWxsJTIwQ29tZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTU5MDkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTglMjBKdWwlMjAyMDI2JTIwMTUlM0EzNyUzQTAxJTIwJTJCMDAwMA",
+      "title": "If You Build It, They Will Come",
+      "pubDate": "Sat, 18 Jul 2026 15:37:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGl4aXItbGFuZy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRmVsaXhpci1sYW5nLm9yZyUyRiU3Q0VsaXhpci1sYW5nLm9yZyUyMGhhcyUyMGElMjBuZXclMjBkZXNpZ24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1OTA0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE4JTIwSnVsJTIwMjAyNiUyMDE1JTNBMzIlM0EwNCUyMCUyQjAwMDA",
+      "title": "Elixir-lang.org has a new design",
+      "pubDate": "Sat, 18 Jul 2026 15:32:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxM2VkaXQuY29tJTdDaHR0cHMlM0ElMkYlMkZxM2VkaXQuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwUTNFZGl0JTIwJUUyJTgwJTkzJTIwRWRpdCUyMGFuZCUyMHBsYXklMjBRdWFrZSUyMDMlMjBtYXBzJTIwaW4lMjB0aGUlMjBicm93c2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTg4NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTEyJTNBNDAlMjAlMkIwMDAw",
+      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "pubDate": "Sat, 18 Jul 2026 15:12:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnNreS5jb20lMkZzdG9yeSUyRmJyaXRpc2gtcnVubmVyLWpvc2gta2Vyci1icmVha3Mtd29ybGQtcmVjb3JkLWZvci1taWxlLXdoaWNoLWhhZC1zdG9vZC1mb3ItMjcteWVhcnMtMTM1NjQ2ODglN0NodHRwcyUzQSUyRiUyRm5ld3Muc2t5LmNvbSUyRnN0b3J5JTJGYnJpdGlzaC1ydW5uZXItam9zaC1rZXJyLWJyZWFrcy13b3JsZC1yZWNvcmQtZm9yLW1pbGUtd2hpY2gtaGFkLXN0b29kLWZvci0yNy15ZWFycy0xMzU2NDY4OCU3Q0JyaXRpc2glMjBydW5uZXIlMjBKb3NoJTIwS2VyciUyMGJyZWFrcyUyMHdvcmxkJTIwcmVjb3JkJTIwZm9yJTIwbWlsZSUyMHdoaWNoJTIwc3Rvb2QlMjBmb3IlMjAyNyUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTg4MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTA4JTNBMzIlMjAlMkIwMDAw",
+      "title": "British runner Josh Kerr breaks world record for mile which stood for 27 years",
+      "pubDate": "Sat, 18 Jul 2026 15:08:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbnZpcm9ubWVudC5lYy5ldXJvcGEuZXUlMkZuZXdzJTJGYmFuLWRlc3RydWN0aW9uLXVuc29sZC1jbG90aGVzLWFuZC1zaG9lcy1lbnRlcnMtYXBwbGljYXRpb24tMjAyNi0wNy0xN19lbiU3Q2h0dHBzJTNBJTJGJTJGZW52aXJvbm1lbnQuZWMuZXVyb3BhLmV1JTJGbmV3cyUyRmJhbi1kZXN0cnVjdGlvbi11bnNvbGQtY2xvdGhlcy1hbmQtc2hvZXMtZW50ZXJzLWFwcGxpY2F0aW9uLTIwMjYtMDctMTdfZW4lN0NFVSUyMGJhbiUyMG9uJTIwZGVzdHJ1Y3Rpb24lMjBvZiUyMHVuc29sZCUyMGNsb3RoZXMlMjBhbmQlMjBzaG9lcyUyMGVudGVycyUyMGludG8lMjBhcHBsaWNhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTU4MjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTglMjBKdWwlMjAyMDI2JTIwMTQlM0EwNCUzQTQyJTIwJTJCMDAwMA",
+      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+      "pubDate": "Sat, 18 Jul 2026 14:04:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbGQucmVkZGl0LmNvbSUyRnIlMkZtYXRoJTJGY29tbWVudHMlMkYxdXhqM2N5JTJGYWZ0ZXJfb3BlbmFpc19jZGNfcHJvb2ZfYW5ub3VuY2VtZW50X2dwdDU2X3VzZWRfYSUyRiU3Q2h0dHBzJTNBJTJGJTJGb2xkLnJlZGRpdC5jb20lMkZyJTJGbWF0aCUyRmNvbW1lbnRzJTJGMXV4ajNjeSUyRmFmdGVyX29wZW5haXNfY2RjX3Byb29mX2Fubm91bmNlbWVudF9ncHQ1Nl91c2VkX2ElMkYlN0NHUFQtNS42JTIwdXNlZCUyMGElMjBwcm9tcHQlMjB0byUyMGNsb3NlJTIwYSUyMDMwLXllYXIlMjBnYXAlMjBpbiUyMGNvbnZleCUyMG9wdGltaXphdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTU3Nzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTglMjBKdWwlMjAyMDI2JTIwMTMlM0EwMCUzQTUyJTIwJTJCMDAwMA",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "pubDate": "Sat, 18 Jul 2026 13:00:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhLnN0YWNrZXhjaGFuZ2UuY29tJTJGc3RhY2tvdmVyZmxvdyUyRnF1ZXJ5JTJGMTk1Mzc2OCUyM2dyYXBoJTdDaHR0cHMlM0ElMkYlMkZkYXRhLnN0YWNrZXhjaGFuZ2UuY29tJTJGc3RhY2tvdmVyZmxvdyUyRnF1ZXJ5JTJGMTk1Mzc2OCUyM2dyYXBoJTdDV2hhdCUyMEFJJTIwZGlkJTIwdG8lMjBzdGFja292ZXJmbG93JTIwaW4lMjBhJTIwZ3JhcGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1Njk0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE4JTIwSnVsJTIwMjAyNiUyMDExJTNBMTIlM0E0NiUyMCUyQjAwMDA",
+      "title": "What AI did to stackoverflow in a graph",
+      "pubDate": "Sat, 18 Jul 2026 11:12:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGFybGVzYXphbS5jb20lMkZibG9nJTJGZmFibGUtNS1ncHQtNS02LXNvbC1nb2FsJTJGJTdDaHR0cHMlM0ElMkYlMkZjaGFybGVzYXphbS5jb20lMkZibG9nJTJGZmFibGUtNS1ncHQtNS02LXNvbC1nb2FsJTJGJTdDRmFibGUlMjA1JTIwdnMuJTIwR1BULTUuNiUyMFNvbCUyMG9uJTIwYW4lMjBOUC1IYXJkJTIwUHJvYmxlbSUzQSUyMERvZXMlMjAlMkZnb2FsJTIwaGVscCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTU2ODc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTglMjBKdWwlMjAyMDI2JTIwMTElM0EwMCUzQTI5JTIwJTJCMDAwMA",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "pubDate": "Sat, 18 Jul 2026 11:00:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWRlb2NhcmR6LmNvbSUyRm5ld3olMkZsZy1tb25pdG9ycy1zaWxlbnRseS1pbnN0YWxsLXNvZnR3YXJlLXRocm91Z2gtd2luZG93cy11cGRhdGUtd2l0aG91dC11c2VyLWNvbnNlbnQlN0NodHRwcyUzQSUyRiUyRnZpZGVvY2FyZHouY29tJTJGbmV3eiUyRmxnLW1vbml0b3JzLXNpbGVudGx5LWluc3RhbGwtc29mdHdhcmUtdGhyb3VnaC13aW5kb3dzLXVwZGF0ZS13aXRob3V0LXVzZXItY29uc2VudCU3Q0xHJTIwbW9uaXRvcnMlMjBzaWxlbnRseSUyMGluc3RhbGwlMjBzb2Z0d2FyZSUyMHRocm91Z2glMjBXaW5kb3dzJTIwVXBkYXRlJTIwd2l0aG91dCUyMGNvbnNlbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1NjY4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE4JTIwSnVsJTIwMjAyNiUyMDEwJTNBMjElM0ExOSUyMCUyQjAwMDA",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "pubDate": "Sat, 18 Jul 2026 10:21:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjE0NTg3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjE0NTg3JTdDUXViZXMlMjBPUyUyMFNlY3VyaXR5JTIwaW4lMjB0aGUlMjBQdWJsaWMlMjBSZWNvcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1NjMwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE4JTIwSnVsJTIwMjAyNiUyMDA4JTNBNTAlM0EwNyUyMCUyQjAwMDA",
+      "title": "Qubes OS Security in the Public Record",
+      "pubDate": "Sat, 18 Jul 2026 08:50:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWdyb25pdmVudHVyZXN0dWRpb3MuY29tJTJGMjAyNiUyRjA3JTJGMTglMkZ0aGUtY29tcHV0ZXItYXQtdGhlLWJvdHRvbS1vZi1hLWNhbmFsJTJGJTdDaHR0cHMlM0ElMkYlMkZuZWdyb25pdmVudHVyZXN0dWRpb3MuY29tJTJGMjAyNiUyRjA3JTJGMTglMkZ0aGUtY29tcHV0ZXItYXQtdGhlLWJvdHRvbS1vZi1hLWNhbmFsJTJGJTdDVGhlJTIwQ29tcHV0ZXIlMjBhdCUyMHRoZSUyMEJvdHRvbSUyMG9mJTIwYSUyMENhbmFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTYyMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAwOCUzQTMzJTNBMzElMjAlMkIwMDAw",
+      "title": "The Computer at the Bottom of a Canal",
+      "pubDate": "Sat, 18 Jul 2026 08:33:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
     }
   ]

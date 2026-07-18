@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-17",
     "newestItemDate": "2026-07-17",
-    "itemCount": 43,
-    "generatedAt": "2026-07-18T09:49:16.309Z"
+    "itemCount": 44,
+    "generatedAt": "2026-07-18T17:18:07.076Z"
   },
   "items": [
     {
@@ -264,6 +264,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpbi10b3RvLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZpbi10b3RvLmlvJTJGJTdDSW4tdG90byUzQSUyMEElMjBmcmFtZXdvcmslMjB0byUyMHNlY3VyZSUyMHRoZSUyMGludGVncml0eSUyMG9mJTIwc29mdHdhcmUlMjBzdXBwbHklMjBjaGFpbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MjYwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDAyJTNBMDAlM0EzOCUyMCUyQjAwMDA",
       "title": "In-toto: A framework to secure the integrity of software supply chains",
       "pubDate": "Fri, 17 Jul 2026 02:00:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsY2FtdHVmLnN1YnN0YWNrLmNvbSUyRnAlMkZ0ZWNoLW5vdGUtbWFraW5nLXlvdXItb3duLXYtaS1wbG90cyU3Q2h0dHBzJTNBJTJGJTJGbGNhbXR1Zi5zdWJzdGFjay5jb20lMkZwJTJGdGVjaC1ub3RlLW1ha2luZy15b3VyLW93bi12LWktcGxvdHMlN0NUZWNoJTIwbm90ZSUzQSUyMG1ha2luZyUyMHlvdXIlMjBvd24lMjBWLUklMjBwbG90cyUyMGF0JTIwaG9tZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUxNzU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjAlM0ExMCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Tech note: making your own V-I plots at home",
+      "pubDate": "Fri, 17 Jul 2026 20:10:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
     }
   ]
