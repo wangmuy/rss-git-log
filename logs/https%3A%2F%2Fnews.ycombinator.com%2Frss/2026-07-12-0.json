@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-12",
     "newestItemDate": "2026-07-12",
-    "itemCount": 66,
-    "generatedAt": "2026-07-17T17:33:27.489Z"
+    "itemCount": 67,
+    "generatedAt": "2026-07-18T09:49:16.310Z"
   },
   "items": [
     {
@@ -402,6 +402,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZweXRob25zcGVlZC5jb20lMkZhcnRpY2xlcyUyRmJyYW5jaGxlc3MtYmluYXJ5LXNlYXJjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGcHl0aG9uc3BlZWQuY29tJTJGYXJ0aWNsZXMlMkZicmFuY2hsZXNzLWJpbmFyeS1zZWFyY2glMkYlN0NGYXN0ZXIlMjBiaW5hcnklMjBzZWFyY2glM0ElMjBmcm9tJTIwY29tcGlsZWQlMjBjb2RlJTIwdG8lMjBtZWNoYW5pY2FsJTIwc3ltcGF0aHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg3ODk5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEyJTIwSnVsJTIwMjAyNiUyMDA3JTNBMDAlM0EyNCUyMCUyQjAwMDA",
       "title": "Faster binary search: from compiled code to mechanical sympathy",
       "pubDate": "Sun, 12 Jul 2026 07:00:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGd2FhbGRldiUyRndhbGRpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGd2FhbGRldiUyRndhbGRpJTdDV2FsZGklM0ElMjBBJTIwcXVpZXQlMjBwbGFjZSUyMHRvJTIwd3JpdGUlMkMlMjBhbmQlMjB0byUyMGJlJTIwcmVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODgwMjU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTIlMjBKdWwlMjAyMDI2JTIwMTElM0EyNiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Waldi: A quiet place to write, and to be read",
+      "pubDate": "Sun, 12 Jul 2026 11:26:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-12-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-17",
     "newestItemDate": "2026-07-17",
-    "itemCount": 41,
-    "generatedAt": "2026-07-18T03:38:02.012Z"
+    "itemCount": 43,
+    "generatedAt": "2026-07-18T09:49:16.309Z"
   },
   "items": [
     {
@@ -252,6 +252,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0ZW9mb3BlbnNvdXJjZS5haSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RhdGVvZm9wZW5zb3VyY2UuYWklMkYlN0NUaGUlMjBzdGF0ZSUyMG9mJTIwb3BlbiUyMHNvdXJjZSUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NDc4MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAxNCUzQTMxJTNBMTAlMjAlMkIwMDAw",
       "title": "The state of open source AI",
       "pubDate": "Fri, 17 Jul 2026 14:31:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb2NhbG5ld3NtYXR0ZXJzLm9yZyUyRjIwMjYlMkYwNyUyRjE1JTJGa2Fpc2VyLW51cnNlcy1zYXktYWktd29ya3BsYWNlLXN1cnZlaWxsYW5jZS1hcmUtbWFraW5nLXRoZWlyLWpvYnMtYW5kLXBhdGllbnQtY2FyZS13b3JzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9jYWxuZXdzbWF0dGVycy5vcmclMkYyMDI2JTJGMDclMkYxNSUyRmthaXNlci1udXJzZXMtc2F5LWFpLXdvcmtwbGFjZS1zdXJ2ZWlsbGFuY2UtYXJlLW1ha2luZy10aGVpci1qb2JzLWFuZC1wYXRpZW50LWNhcmUtd29yc2UlMkYlN0NLYWlzZXIlMjBudXJzZXMlMjBzYXklMjBBSSUyQyUyMHN1cnZlaWxsYW5jZSUyMGFyZSUyMG1ha2luZyUyMHRoZWlyJTIwam9icyUyMGFuZCUyMHBhdGllbnQlMjBjYXJlJTIwd29yc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk1Mjg4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDIyJTNBMjYlM0EzMCUyMCUyQjAwMDA",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "pubDate": "Fri, 17 Jul 2026 22:26:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbi10b3RvLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZpbi10b3RvLmlvJTJGJTdDSW4tdG90byUzQSUyMEElMjBmcmFtZXdvcmslMjB0byUyMHNlY3VyZSUyMHRoZSUyMGludGVncml0eSUyMG9mJTIwc29mdHdhcmUlMjBzdXBwbHklMjBjaGFpbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MjYwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE3JTIwSnVsJTIwMjAyNiUyMDAyJTNBMDAlM0EzOCUyMCUyQjAwMDA",
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "pubDate": "Fri, 17 Jul 2026 02:00:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
     }
   ]

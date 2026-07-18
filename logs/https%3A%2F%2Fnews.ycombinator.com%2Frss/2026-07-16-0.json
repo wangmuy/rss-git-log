@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-16",
     "newestItemDate": "2026-07-16",
-    "itemCount": 50,
-    "generatedAt": "2026-07-17T10:13:22.701Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-18T09:49:16.309Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlb2NoYXJpcy5kZXYlMkZibG9nJTJGbGxtLWNyaXRpY3MtYXJlLXJpZ2h0LWktdXNlLWxsbXMtYW55d2F5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlb2NoYXJpcy5kZXYlMkZibG9nJTJGbGxtLWNyaXRpY3MtYXJlLXJpZ2h0LWktdXNlLWxsbXMtYW55d2F5JTJGJTdDVGhlJTIwTExNJTIwQ3JpdGljcyUyMEFyZSUyMFJpZ2h0LiUyMEklMjBVc2UlMjBMTE1zJTIwQW55d2F5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MzMzMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAxMSUzQTU5JTNBMDElMjAlMkIwMDAw",
       "title": "The LLM Critics Are Right. I Use LLMs Anyway",
       "pubDate": "Thu, 16 Jul 2026 11:59:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbWFsbGN1bHRmb2xsb3dpbmcuY29tJTJGYmFieXN0ZXBzJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjE1JTJGYmF0dGVyeS1wYWNrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGc21hbGxjdWx0Zm9sbG93aW5nLmNvbSUyRmJhYnlzdGVwcyUyRmJsb2clMkYyMDI2JTJGMDclMkYxNSUyRmJhdHRlcnktcGFja3MlMkYlN0NCYXR0ZXJ5JTIwcGFja3MlM0ElMjBMZXQncyUyMHRhbGslMjBhYm91dCUyMGNyYXRlcyUyQyUyMGJhYnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk0MTMxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDIyJTNBNDglM0E0NCUyMCUyQjAwMDA",
+      "title": "Battery packs: Let's talk about crates, baby",
+      "pubDate": "Thu, 16 Jul 2026 22:48:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
     }
   ]
