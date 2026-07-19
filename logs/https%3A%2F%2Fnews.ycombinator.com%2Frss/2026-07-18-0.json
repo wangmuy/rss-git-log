@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-18",
     "newestItemDate": "2026-07-18",
-    "itemCount": 37,
-    "generatedAt": "2026-07-19T10:01:53.603Z"
+    "itemCount": 38,
+    "generatedAt": "2026-07-19T17:27:18.190Z"
   },
   "items": [
     {
@@ -228,6 +228,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZxdWV1ZS5hY20ub3JnJTJGZGV0YWlsLmNmbSUzRmlkJTNEMzgxODMwNyU3Q2h0dHBzJTNBJTJGJTJGcXVldWUuYWNtLm9yZyUyRmRldGFpbC5jZm0lM0ZpZCUzRDM4MTgzMDclN0NHb29kYnllJTJDJTIwYW5kJTIwVGhhbmtzJTIwZm9yJTIwQWxsJTIwdGhlJTIwQmlrZXNoZWRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NjAxNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAxNyUzQTI3JTNBMjQlMjAlMkIwMDAw",
       "title": "Goodbye, and Thanks for All the Bikesheds",
       "pubDate": "Sat, 18 Jul 2026 17:27:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSnVsaWFMYW5nJTJGanVsaWElMkZwdWxsJTJGNjIzMzQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZKdWxpYUxhbmclMkZqdWxpYSUyRnB1bGwlMkY2MjMzNCU3Q1VuaWZpZWRJUiUyMGZvciUyMEp1bGlhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NjI2MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOCUyMEp1bCUyMDIwMjYlMjAyMSUzQTI4JTNBMzglMjAlMkIwMDAw",
+      "title": "UnifiedIR for Julia",
+      "pubDate": "Sat, 18 Jul 2026 21:28:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-18-0.json"
     }
   ]

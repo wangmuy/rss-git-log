@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-19",
     "newestItemDate": "2026-07-19",
-    "itemCount": 10,
-    "generatedAt": "2026-07-19T10:01:53.603Z"
+    "itemCount": 25,
+    "generatedAt": "2026-07-19T17:27:18.189Z"
   },
   "items": [
     {
@@ -66,6 +66,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhaXJkb3dzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGYWlyZG93cy5jb20lMkYlN0NJJTIwYnVpbHQlMjBhJTIwYnJvd3Nlci1iYXNlZCUyMFAyUCUyMGZpbGUlMjB0cmFuc2ZlciUyMHRvb2wlMjB1c2luZyUyMFdlYlJUQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY0NDI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMDIlM0ExNyUzQTAzJTIwJTJCMDAwMA",
       "title": "I built a browser-based P2P file transfer tool using WebRTC",
       "pubDate": "Sun, 19 Jul 2026 02:17:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkxhc3QtTVBFRy00LVBhdGVudC1FeHBpcmVkJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkxhc3QtTVBFRy00LVBhdGVudC1FeHBpcmVkJTdDVGhlJTIwTGFzdCUyME1QRUctNCUyMFZpc3VhbCUyMFBhdGVudCUyMEhhcyUyMEV4cGlyZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2OTYzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDE2JTNBNDUlM0ExNyUyMCUyQjAwMDA",
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "pubDate": "Sun, 19 Jul 2026 16:45:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXRyb2dhbWVjb2RlcnMuY29tJTJGYzY0LWJhc2ljLWR1bmdlb24tcGFydDglMkYlN0NodHRwcyUzQSUyRiUyRnJldHJvZ2FtZWNvZGVycy5jb20lMkZjNjQtYmFzaWMtZHVuZ2Vvbi1wYXJ0OCUyRiU3Q0M2NCUyMEJhc2ljJTIwRHVuZ2VvbiUyMENyYXdsZXIlM0ElMjBHb2JsaW4lMjBBdHRhY2slMjAoQzY0JTIwQmFzaWMlMjBQYXJ0JTIwOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2ODk0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDE1JTNBMjAlM0EyMiUyMCUyQjAwMDA",
+      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+      "pubDate": "Sun, 19 Jul 2026 15:20:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwc3ljaGVkZWxpY3MuY29tbXVuaXR5JTJGY3VsdHVyYWwtaWNvbnMlMkZ0ZXJlbmNlLW1ja2VubmFzLW1lZ2EtYmFkLXRyaXAlN0NodHRwcyUzQSUyRiUyRnBzeWNoZWRlbGljcy5jb21tdW5pdHklMkZjdWx0dXJhbC1pY29ucyUyRnRlcmVuY2UtbWNrZW5uYXMtbWVnYS1iYWQtdHJpcCU3Q1RlcmVuY2UlMjBNY0tlbm5hJ3MlMjBNZWdhJTIwQmFkJTIwVHJpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY4NTE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMTQlM0EzMCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Terence McKenna's Mega Bad Trip",
+      "pubDate": "Sun, 19 Jul 2026 14:30:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRm5ldHdvcmtpbmclMkZjbGV2ZXItaGFja2VyLWZpdHMtNTM3LTAwMC1kb21haW5zLWluLWEtdGlueS11c2Q1LWVzcDMyLWFkLWJsb2NraW5nLWRvbmdsZS1maXJtd2FyZS11c2VzLW9ubHktYXJvdW5kLTUwa2Itb2YtcmFtLWFuZC1jYW4tYW5zd2VyLWJsb2NrZWQtbG9va3Vwcy1pbi0xMC1taWxsaXNlY29uZHMlN0NodHRwcyUzQSUyRiUyRnd3dy50b21zaGFyZHdhcmUuY29tJTJGbmV0d29ya2luZyUyRmNsZXZlci1oYWNrZXItZml0cy01MzctMDAwLWRvbWFpbnMtaW4tYS10aW55LXVzZDUtZXNwMzItYWQtYmxvY2tpbmctZG9uZ2xlLWZpcm13YXJlLXVzZXMtb25seS1hcm91bmQtNTBrYi1vZi1yYW0tYW5kLWNhbi1hbnN3ZXItYmxvY2tlZC1sb29rdXBzLWluLTEwLW1pbGxpc2Vjb25kcyU3Q0NsZXZlciUyMGhhY2tlciUyMGZpdHMlMjA1MzclMkMwMDAlMjBkb21haW5zJTIwaW4lMjBhJTIwJTI0NSUyMEVTUDMyJTIwYWQtYmxvY2tpbmclMjBkb25nbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2ODM0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDE0JTNBMDclM0EwNyUyMCUyQjAwMDA",
+      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+      "pubDate": "Sun, 19 Jul 2026 14:07:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmN2ZzhlZHFxNWc1byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjdmc4ZWRxcTVnNW8lN0NCYW5hbmFzJTIwc3Byb3V0JTIwaW4lMjBSYXlsZWlnaCUyMEdhcmRlbiUyMFVLJTIwYWZ0ZXIlMjAxNSUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NjgwNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAxMyUzQTI5JTNBMjklMjAlMkIwMDAw",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "pubDate": "Sun, 19 Jul 2026 13:29:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWluZWNyYWZ0Lm5ldCUyRmVuLXVzJTJGYXJ0aWNsZSUyRm1pbmVjcmFmdC0yNi0zLXNuYXBzaG90LTQlN0NodHRwcyUzQSUyRiUyRnd3dy5taW5lY3JhZnQubmV0JTJGZW4tdXMlMkZhcnRpY2xlJTJGbWluZWNyYWZ0LTI2LTMtc25hcHNob3QtNCU3Q01pbmVjcmFmdCUzQSUyMEphdmElMjBFZGl0aW9uJTIwbm93JTIwdXNlcyUyMFNETDMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NzI1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDExJTNBNDglM0ExOCUyMCUyQjAwMDA",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "pubDate": "Sun, 19 Jul 2026 11:48:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjBiOGU0NTFlJTJGaS1qb2luZWQtdGhlLWluZGlld2ViLWhlcmVzLXdoYXQtaS1sZWFybmVkJTJGJTdDaHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjBiOGU0NTFlJTJGaS1qb2luZWQtdGhlLWluZGlld2ViLWhlcmVzLXdoYXQtaS1sZWFybmVkJTJGJTdDSSUyMGpvaW5lZCUyMHRoZSUyMEluZGllV2ViJTJDJTIwaGVyZSdzJTIwd2hhdCUyMEklMjBsZWFybmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NjY5ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAxMSUzQTE0JTNBMzglMjAlMkIwMDAw",
+      "title": "I joined the IndieWeb, here's what I learned",
+      "pubDate": "Sun, 19 Jul 2026 11:14:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZ3QuaG9vdHIuY2x1YiUyRmJsb2clMkZob21lLXNlcnZlci1yZWJpcnRoJTJGJTdDaHR0cHMlM0ElMkYlMkZzZ3QuaG9vdHIuY2x1YiUyRmJsb2clMkZob21lLXNlcnZlci1yZWJpcnRoJTJGJTdDVGhlJTIwZGVhdGglMjBhbmQlMjByZWJpcnRoJTIwb2YlMjBteSUyMGhvbWUlMjBzZXJ2ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2Njc2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDEwJTNBNDQlM0EzMSUyMCUyQjAwMDA",
+      "title": "The death and rebirth of my home server",
+      "pubDate": "Sun, 19 Jul 2026 10:44:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwd2VpbmJlcmdlci5jb20lMkZhcnRpY2xlcyUyRjIwMjYwNzE5LWhhcmR3YXJlLWlzLW5vdC1zby1oYXJkJTdDaHR0cHMlM0ElMkYlMkZjaGlwd2VpbmJlcmdlci5jb20lMkZhcnRpY2xlcyUyRjIwMjYwNzE5LWhhcmR3YXJlLWlzLW5vdC1zby1oYXJkJTdDV2hhdCUyMEklMjBsZWFybmVkJTIwc2VsbGluZyUyMDIlMkM1MDAlMjBNSURJJTIwcmVjb3JkZXJzJTNBJTIwSGFyZHdhcmUlMjBpcyUyMG5vdCUyMHNvJTIwaGFyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY2NzEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMTAlM0EzNCUzQTU4JTIwJTJCMDAwMA",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "pubDate": "Sun, 19 Jul 2026 10:34:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkYxOSUyRmNsYXVkZS1jb2RlLWluLWJ1bi1pbi1ydXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkYxOSUyRmNsYXVkZS1jb2RlLWluLWJ1bi1pbi1ydXN0JTJGJTdDQ2xhdWRlJTIwQ29kZSUyMHVzZXMlMjBCdW4lMjB3cml0dGVuJTIwaW4lMjBSdXN0JTIwbm93JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NjY1NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAxMCUzQTAzJTNBMjMlMjAlMkIwMDAw",
+      "title": "Claude Code uses Bun written in Rust now",
+      "pubDate": "Sun, 19 Jul 2026 10:03:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkFsaWJhYmFfUXdlbiUyRnN0YXR1cyUyRjIwNzg3NTkxMjQ5MTQwOTgyOTElN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGQWxpYmFiYV9Rd2VuJTJGc3RhdHVzJTJGMjA3ODc1OTEyNDkxNDA5ODI5MSU3Q1F3ZW4lMjAzLjglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NjEyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDA4JTNBNDQlM0E1NyUyMCUyQjAwMDA",
+      "title": "Qwen 3.8",
+      "pubDate": "Sun, 19 Jul 2026 08:44:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYTBieS5kYXJjLmRlJTJGTEE4WUJfRU1FX01CQS5odG0lN0NodHRwcyUzQSUyRiUyRmxhMGJ5LmRhcmMuZGUlMkZMQThZQl9FTUVfTUJBLmh0bSU3Q1RoZSUyME1pZ2h0eSUyMEJpZyUyMEFycmF5JTIwb2YlMjBGaW5uJTIwSmVuc2VuJTIwTEE4WUIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NTkxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDA4JTNBMDUlM0E0NiUyMCUyQjAwMDA",
+      "title": "The Mighty Big Array of Finn Jensen LA8YB",
+      "pubDate": "Sun, 19 Jul 2026 08:05:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbGxhbWEuY29tJTJGYmxvZyUyRmFsbC1hYm9hcmQtb3Blbi1tb2RlbHMlN0NodHRwcyUzQSUyRiUyRm9sbGFtYS5jb20lMkZibG9nJTJGYWxsLWFib2FyZC1vcGVuLW1vZGVscyU3Q09sbGFtYSUzQSUyMEFsbCUyMEFib2FyZCUyME9wZW4lMjBNb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NTg4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDA3JTNBNTklM0E0NCUyMCUyQjAwMDA",
+      "title": "Ollama: All Aboard Open Models",
+      "pubDate": "Sun, 19 Jul 2026 07:59:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXglMkZwdWxsJTJGMzM5NzIlMkZmaWxlcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRmNvZGV4JTJGcHVsbCUyRjMzOTcyJTJGZmlsZXMlN0NPcGVuQUklMjByZWR1Y2VzJTIwQ29kZXglMjBNb2RlbCUyMENvbnRleHQlMjBTaXplJTIwZnJvbSUyMDM3MmslMjB0byUyMDI3MmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NTg1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDA3JTNBNTQlM0EzOSUyMCUyQjAwMDA",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "pubDate": "Sun, 19 Jul 2026 07:54:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvY3cubWl0LmVkdSUyRmNvdXJzZXMlMkZyZXMtNi0wMTEtdGhlLWFydC1vZi1pbnNpZ2h0LWluLXNjaWVuY2UtYW5kLWVuZ2luZWVyaW5nLW1hc3RlcmluZy1jb21wbGV4aXR5LWZhbGwtMjAxNCUyRjNiY2E4NTAzODZhMzAwNWMyMjEzNGZhNjJmYjNiYWQ1X01JVFJFU182LTAxMUYxNF9hcnRfaW5zZmluLnBkZiU3Q2h0dHBzJTNBJTJGJTJGb2N3Lm1pdC5lZHUlMkZjb3Vyc2VzJTJGcmVzLTYtMDExLXRoZS1hcnQtb2YtaW5zaWdodC1pbi1zY2llbmNlLWFuZC1lbmdpbmVlcmluZy1tYXN0ZXJpbmctY29tcGxleGl0eS1mYWxsLTIwMTQlMkYzYmNhODUwMzg2YTMwMDVjMjIxMzRmYTYyZmIzYmFkNV9NSVRSRVNfNi0wMTFGMTRfYXJ0X2luc2Zpbi5wZGYlN0NUaGUlMjBBcnQlMjBvZiUyMEluc2lnaHQlMjBpbiUyMFNjaWVuY2UlMjBhbmQlMjBFbmdpbmVlcmluZyUyMCVFMiU4MCU5MyUyME1hc3RlcmluZyUyMENvbXBsZXhpdHkoMjAxNCklMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NTcxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDA3JTNBMjclM0EzNyUyMCUyQjAwMDA",
+      "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]",
+      "pubDate": "Sun, 19 Jul 2026 07:27:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
     }
   ]

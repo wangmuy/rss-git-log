@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 65,
-    "generatedAt": "2026-07-19T10:01:53.604Z"
+    "itemCount": 68,
+    "generatedAt": "2026-07-19T17:27:18.190Z"
   },
   "items": [
     {
@@ -396,6 +396,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFraW5nc29mdHdhcmUuY29tJTJGY2hhcHRlcnMlMkZob3ctdG8tbWFrZS1hLWZvbnQlN0NodHRwcyUzQSUyRiUyRnd3dy5tYWtpbmdzb2Z0d2FyZS5jb20lMkZjaGFwdGVycyUyRmhvdy10by1tYWtlLWEtZm9udCU3Q01ha2luZyUyMFNvZnR3YXJlJTNBJTIwSG93JTIwdG8lMjBtYWtlJTIwYSUyMGZvbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwNDI2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDA5JTNBNDElM0EyOSUyMCUyQjAwMDA",
       "title": "Making Software: How to make a font",
       "pubDate": "Tue, 14 Jul 2026 09:41:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxlbmRlci5vcmclMkZkb3dubG9hZCUyRnJlbGVhc2VzJTJGNS0yJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmxlbmRlci5vcmclMkZkb3dubG9hZCUyRnJlbGVhc2VzJTJGNS0yJTJGJTdDQmxlbmRlciUyMDUuMiUyMExUUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTExMDIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTglM0EyMiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Blender 5.2 LTS",
+      "pubDate": "Tue, 14 Jul 2026 18:22:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudm94LmNvbSUyRnBvZGNhc3RzJTJGNDkzOTMwJTJGZHVwZS1jdWx0dXJlLWZlbmRlci11Z2ctcXVpbmNlLXRpa3Rvay1hbWF6b24tb25saW5lLXNob3BwaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cudm94LmNvbSUyRnBvZGNhc3RzJTJGNDkzOTMwJTJGZHVwZS1jdWx0dXJlLWZlbmRlci11Z2ctcXVpbmNlLXRpa3Rvay1hbWF6b24tb25saW5lLXNob3BwaW5nJTdDRHVwZXMlMjAocHJvZHVjdCUyMGNsb25lcyklMjB0b29rJTIwb3ZlciUyMHRoZSUyMHdvcmxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDg0MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNSUzQTMzJTNBNDIlMjAlMkIwMDAw",
+      "title": "Dupes (product clones) took over the world",
+      "pubDate": "Tue, 14 Jul 2026 15:33:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYWluLnNvJTJGaW5maW5pdGllcy1pbXBvc3NpYmlsaXRpZXMtYW5kLXRoZS1tYW4taW4tdGhlLXdoaXRlLWxpbmVuLXN1aXQlN0NodHRwcyUzQSUyRiUyRmlhaW4uc28lMkZpbmZpbml0aWVzLWltcG9zc2liaWxpdGllcy1hbmQtdGhlLW1hbi1pbi10aGUtd2hpdGUtbGluZW4tc3VpdCU3Q0luZmluaXRpZXMlMkMlMjBpbXBvc3NpYmlsaXRpZXMlMkMlMjBhbmQlMjB0aGUlMjBtYW4lMjBpbiUyMHRoZSUyMHdoaXRlJTIwbGluZW4lMjBzdWl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDM3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAwOCUzQTI0JTNBNTQlMjAlMkIwMDAw",
+      "title": "Infinities, impossibilities, and the man in the white linen suit",
+      "pubDate": "Tue, 14 Jul 2026 08:24:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]

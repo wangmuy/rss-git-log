@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-10",
     "newestItemDate": "2026-07-10",
-    "itemCount": 52,
-    "generatedAt": "2026-07-17T10:13:22.702Z"
+    "itemCount": 53,
+    "generatedAt": "2026-07-19T17:27:18.190Z"
   },
   "items": [
     {
@@ -318,6 +318,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFuc2lzdG9yLW1hbi5jb20lMkZnaW1iYWxfY2FtZXJhX3JvdmVyLmh0bWwlN0NodHRwcyUzQSUyRiUyRnRyYW5zaXN0b3ItbWFuLmNvbSUyRmdpbWJhbF9jYW1lcmFfcm92ZXIuaHRtbCU3Q0NhbWVyYSUyMENoYXNlJTIwVmVoaWNsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODU0OTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTAlMjBKdWwlMjAyMDI2JTIwMDIlM0ExNyUzQTU1JTIwJTJCMDAwMA",
       "title": "Camera Chase Vehicle",
       "pubDate": "Fri, 10 Jul 2026 02:17:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWdpcmUucmFwaGFlbGZvcm1lbnQuZnIlN0NodHRwcyUzQSUyRiUyRmNhZ2lyZS5yYXBoYWVsZm9ybWVudC5mciUyRiU3Q0NhZ2lyZSUzQSUyMExpdmUlMjBDb2RpbmclMjBpbiUyMEZvcnRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4NjA3MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMCUyMEp1bCUyMDIwMjYlMjAxNCUzQTQ1JTNBMzMlMjAlMkIwMDAw",
+      "title": "Cagire: Live Coding in Forth",
+      "pubDate": "Fri, 10 Jul 2026 14:45:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-10-0.json"
     }
   ]
