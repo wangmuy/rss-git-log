@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-13",
     "newestItemDate": "2026-07-13",
-    "itemCount": 52,
-    "generatedAt": "2026-07-18T03:38:02.013Z"
+    "itemCount": 55,
+    "generatedAt": "2026-07-19T03:59:30.770Z"
   },
   "items": [
     {
@@ -318,6 +318,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXJjaGl0ZWN0dXJhbGRpZ2VzdC5jb20lMkZzdG9yeSUyRmZyYW5rLWxsb3lkLXdyaWdodC1ob21lLWFuZC1zdHVkaW8tZXZlcnl0aGluZy15b3UtbmVlZC10by1rbm93JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXJjaGl0ZWN0dXJhbGRpZ2VzdC5jb20lMkZzdG9yeSUyRmZyYW5rLWxsb3lkLXdyaWdodC1ob21lLWFuZC1zdHVkaW8tZXZlcnl0aGluZy15b3UtbmVlZC10by1rbm93JTdDRnJhbmslMjBMbG95ZCUyMFdyaWdodCVFMiU4MCU5OXMlMjBmaXJzdCUyMGhvbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg4NzEwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDAyJTNBMjMlM0ExOSUyMCUyQjAwMDA",
       "title": "Frank Lloyd Wright’s first home",
       "pubDate": "Mon, 13 Jul 2026 02:23:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbSUyRmFydGljbGUlMkZtYXRoZW1hdGljaWFucy1zdGlsbC1kb250LWtub3ctdGhlLWZhc3Rlc3Qtd2F5LXRvLW11bHRpcGx5LW51bWJlcnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbnRpZmljYW1lcmljYW4uY29tJTJGYXJ0aWNsZSUyRm1hdGhlbWF0aWNpYW5zLXN0aWxsLWRvbnQta25vdy10aGUtZmFzdGVzdC13YXktdG8tbXVsdGlwbHktbnVtYmVycyUyRiU3Q01hdGhlbWF0aWNpYW5zJTIwc3RpbGwlMjBkb24ndCUyMGtub3clMjB0aGUlMjBmYXN0ZXN0JTIwd2F5JTIwdG8lMjBtdWx0aXBseSUyMG51bWJlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODg5NTg2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEzJTIwSnVsJTIwMjAyNiUyMDE3JTNBMjElM0ExMCUyMCUyQjAwMDA",
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "pubDate": "Mon, 13 Jul 2026 17:21:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYxMyUyRnN0eWxlJTJGYmFja3lhcmQtYmFzZWJhbGwtdmlkZW8tZ2FtZS10ZWFjaGVyLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwNyUyRjEzJTJGc3R5bGUlMkZiYWNreWFyZC1iYXNlYmFsbC12aWRlby1nYW1lLXRlYWNoZXIuaHRtbCU3Q0ElMjBTZWNvbmQtR3JhZGUlMjBUZWFjaGVyJTIwUmV2aXZlZCUyMGElMjBCZWxvdmVkJTIwVmlkZW8lMjBHYW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTU3NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxNyUzQTEzJTNBMjIlMjAlMkIwMDAw",
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "pubDate": "Mon, 13 Jul 2026 17:13:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtc3N2Lm5ldCUyRjIwMjYlMkYwNCUyRjI5JTJGaW0tbWFraW5nLXN0cmFuZGZhbGwtYS1zb2xhcnB1bmstb3JpZW50ZWVyaW5nLWxhcnAlMkYlN0NodHRwcyUzQSUyRiUyRm1zc3YubmV0JTJGMjAyNiUyRjA0JTJGMjklMkZpbS1tYWtpbmctc3RyYW5kZmFsbC1hLXNvbGFycHVuay1vcmllbnRlZXJpbmctbGFycCUyRiU3Q0knbSUyME1ha2luZyUyMFN0cmFuZGZhbGwlMkMlMjBhJTIwU29sYXJwdW5rJTIwT3JpZW50ZWVyaW5nJTIwTGFycCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODkyMDIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMTMlM0EwMCUzQTM1JTIwJTJCMDAwMA",
+      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+      "pubDate": "Mon, 13 Jul 2026 13:00:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
     }
   ]

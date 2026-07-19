@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 62,
-    "generatedAt": "2026-07-18T09:49:16.310Z"
+    "itemCount": 63,
+    "generatedAt": "2026-07-19T03:59:30.770Z"
   },
   "items": [
     {
@@ -378,6 +378,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwYXJrc2IuZ2l0aHViLmlvJTJGZW4lMkZhcnRpY2xlJTJGNDEuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGFya3NiLmdpdGh1Yi5pbyUyRmVuJTJGYXJ0aWNsZSUyRjQxLmh0bWwlN0NSZXZpdmluZyUyMGElMjAxNS15ZWFyLW9sZCUyMG5ldGJvb2slMjB3aXRoJTIwQXJjaCUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MDcwNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNCUyMEp1bCUyMDIwMjYlMjAxNCUzQTAyJTNBMzYlMjAlMkIwMDAw",
       "title": "Reviving a 15-year-old netbook with Arch Linux",
       "pubDate": "Tue, 14 Jul 2026 14:02:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9vbnNoaW5lLWFpJTJGbW9vbnNoaW5lJTJGdHJlZSUyRm1haW4lMkZtaWNybyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1vb25zaGluZS1haSUyRm1vb25zaGluZSUyRnRyZWUlMkZtYWluJTJGbWljcm8lN0NTcGVlY2glMjBSZWNvZ25pdGlvbiUyMGFuZCUyMFRUUyUyMGluJTIwbGVzcyUyMHRoYW4lMjA1MDBrYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTExNzkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTklM0EyNSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "pubDate": "Tue, 14 Jul 2026 19:25:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]
