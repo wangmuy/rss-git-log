@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-15",
     "newestItemDate": "2026-07-15",
-    "itemCount": 56,
-    "generatedAt": "2026-07-19T03:59:30.770Z"
+    "itemCount": 57,
+    "generatedAt": "2026-07-19T10:01:53.604Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYWd3b3JsZC5wdyU3Q2h0dHBzJTNBJTJGJTJGbWFnd29ybGQucHclMkYlN0NEZXZlbG9waW5nJTIwYW4lMjBJbnR1aXRpdmUlMjBTZW5zZSUyMG9mJTIwU2NhbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkxNjU0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE1JTIwSnVsJTIwMjAyNiUyMDA1JTNBMTMlM0E1NSUyMCUyQjAwMDA",
       "title": "Developing an Intuitive Sense of Scale",
       "pubDate": "Wed, 15 Jul 2026 05:13:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBhYmFzZS5jb20lMkZibG9nJTJGc2VhcmNoYWJsZS1maWVsZC1sZXZlbC1lbmNyeXB0aW9uLXdpdGgtY2lwaGVyc3Rhc2glN0NodHRwcyUzQSUyRiUyRnN1cGFiYXNlLmNvbSUyRmJsb2clMkZzZWFyY2hhYmxlLWZpZWxkLWxldmVsLWVuY3J5cHRpb24td2l0aC1jaXBoZXJzdGFzaCU3Q1NlYXJjaGFibGUlMjBmaWVsZC1sZXZlbCUyMGVuY3J5cHRpb24lMjBvbiUyMFN1cGFiYXNlJTIwd2l0aCUyMENpcGhlclN0YXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MjAzMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNSUyMEp1bCUyMDIwMjYlMjAxMyUzQTEwJTNBMDElMjAlMkIwMDAw",
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "pubDate": "Wed, 15 Jul 2026 13:10:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-15-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-19",
     "newestItemDate": "2026-07-19",
-    "itemCount": 5,
-    "generatedAt": "2026-07-19T03:59:30.769Z"
+    "itemCount": 10,
+    "generatedAt": "2026-07-19T10:01:53.603Z"
   },
   "items": [
     {
@@ -36,6 +36,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2hvcC5janBhaXMuY29tJTJGcHJvamVjdHMlMkZ0cmFuc2NyaWJlLWNwcCU3Q2h0dHBzJTNBJTJGJTJGd29ya3Nob3AuY2pwYWlzLmNvbSUyRnByb2plY3RzJTJGdHJhbnNjcmliZS1jcHAlN0NUcmFuc2NyaWJlLmNwcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTYzODc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMDAlM0EzOCUzQTI2JTIwJTJCMDAwMA",
       "title": "Transcribe.cpp",
       "pubDate": "Sun, 19 Jul 2026 00:38:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubXNuLmNvbSUyRmVuLXVzJTJGaGVhbHRoJTJGb3RoZXIlMkZib3lzLWFkaGQtc3ltcHRvbXMtbGlua2VkLXRvLWFkZGljdGl2ZS1zb2NpYWwtbWVkaWEtdXNlLWluLW5ldy1zdHVkeSUyRmFyLUFBMjg3TFkwJTdDaHR0cHMlM0ElMkYlMkZ3d3cubXNuLmNvbSUyRmVuLXVzJTJGaGVhbHRoJTJGb3RoZXIlMkZib3lzLWFkaGQtc3ltcHRvbXMtbGlua2VkLXRvLWFkZGljdGl2ZS1zb2NpYWwtbWVkaWEtdXNlLWluLW5ldy1zdHVkeSUyRmFyLUFBMjg3TFkwJTdDQm95cyclMjBBREhEJTIwc3ltcHRvbXMlMjBsaW5rZWQlMjB0byUyMGFkZGljdGl2ZSUyMHNvY2lhbCUyMG1lZGlhJTIwdXNlJTIwaW4lMjBuZXclMjBzdHVkeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY2MTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMDglM0E0NyUzQTE1JTIwJTJCMDAwMA",
+      "title": "Boys' ADHD symptoms linked to addictive social media use in new study",
+      "pubDate": "Sun, 19 Jul 2026 08:47:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkFsaWJhYmFfUXdlbiUyRnN0YXR1cyUyRjIwNzg3NTkxMjQ5MTQwOTgyOTElN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGQWxpYmFiYV9Rd2VuJTJGc3RhdHVzJTJGMjA3ODc1OTEyNDkxNDA5ODI5MSU3Q1F3ZW4zLjglMjBpcyUyMGxhdW5jaGluZyUyMGFuZCUyMGdvaW5nJTIwb3Blbi13ZWlnaHQlMjBzb29uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NjYxMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAwOCUzQTQ0JTNBNTclMjAlMkIwMDAw",
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "pubDate": "Sun, 19 Jul 2026 08:44:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFpbmluZy5wZXJmb3JjZS5jb20lMkZsZWFybiUyRmNvdXJzZXMlMkY1MzUlMkZwNC1oZWxpeC1jb3JlLXVzZXItYmFzaWMlN0NodHRwcyUzQSUyRiUyRnRyYWluaW5nLnBlcmZvcmNlLmNvbSUyRmxlYXJuJTJGY291cnNlcyUyRjUzNSUyRnA0LWhlbGl4LWNvcmUtdXNlci1iYXNpYyU3Q1BlcmZvcmNlJTIwY2hhcmdlcyUyMCUyNDUwMCUyMGZvciUyMHRyYWluaW5nJTIwdHJhaW5pbmclMjB2aWRlb3MuLiUyMGFuZCUyMGl0J3MlMjBBSSUyMG5hcnJhdGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NjU4ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAwOCUzQTAwJTNBMjQlMjAlMkIwMDAw",
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "pubDate": "Sun, 19 Jul 2026 08:00:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGc2NyeWluZy10aGUtYW1kLWdmeDEyNTAtbGx2bS10ZWElN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZzY3J5aW5nLXRoZS1hbWQtZ2Z4MTI1MC1sbHZtLXRlYSU3Q1NjcnlpbmclMjB0aGUlMjBBTUQlMjBHRlgxMjUwJTIwTExWTSUyMFRlYSUyMExlYXZlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY1MTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMDUlM0EwNyUzQTA4JTIwJTJCMDAwMA",
+      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+      "pubDate": "Sun, 19 Jul 2026 05:07:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaXJkb3dzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGYWlyZG93cy5jb20lMkYlN0NJJTIwYnVpbHQlMjBhJTIwYnJvd3Nlci1iYXNlZCUyMFAyUCUyMGZpbGUlMjB0cmFuc2ZlciUyMHRvb2wlMjB1c2luZyUyMFdlYlJUQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY0NDI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMDIlM0ExNyUzQTAzJTIwJTJCMDAwMA",
+      "title": "I built a browser-based P2P file transfer tool using WebRTC",
+      "pubDate": "Sun, 19 Jul 2026 02:17:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
     }
   ]
