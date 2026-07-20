@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 72,
-    "generatedAt": "2026-07-20T11:16:38.437Z"
+    "itemCount": 73,
+    "generatedAt": "2026-07-20T18:23:58.202Z"
   },
   "items": [
     {
@@ -438,6 +438,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFuZHIyaS5jb20lMkZwb3N0cyUyRjIwMjYtMDctMDYtZWxpbWluYXRpbmctZ28tYm91bmQtY2hlY2tzLXdpdGgtdW5zYWZlJTdDaHR0cHMlM0ElMkYlMkZibG9nLmFuZHIyaS5jb20lMkZwb3N0cyUyRjIwMjYtMDctMDYtZWxpbWluYXRpbmctZ28tYm91bmQtY2hlY2tzLXdpdGgtdW5zYWZlJTdDRWxpbWluYXRpbmclMjBHbyUyMGJvdW5kcyUyMGNoZWNrcyUyMHdpdGglMjB1bnNhZmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwODg4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDE2JTNBMDElM0E1NyUyMCUyQjAwMDA",
       "title": "Eliminating Go bounds checks with unsafe",
       "pubDate": "Tue, 14 Jul 2026 16:01:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZWFjZWZ1bC5iZWFyYmxvZy5kZXYlN0NodHRwcyUzQSUyRiUyRnBlYWNlZnVsLmJlYXJibG9nLmRldiUyRiU3Q0klMjB0dXJuZWQlMjBteSUyMGJlYXJibG9nJTIwaW50byUyMGElMjB0ZXh0JTIwYmFzZWQlMjBhZHZlbnR1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwMjYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDA1JTNBMjMlM0E0NyUyMCUyQjAwMDA",
+      "title": "I turned my bearblog into a text based adventure",
+      "pubDate": "Tue, 14 Jul 2026 05:23:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]
