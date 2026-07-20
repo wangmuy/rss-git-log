@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-20",
     "newestItemDate": "2026-07-20",
-    "itemCount": 2,
-    "generatedAt": "2026-07-20T04:09:00.001Z"
+    "itemCount": 8,
+    "generatedAt": "2026-07-20T11:16:38.436Z"
   },
   "items": [
     {
@@ -18,6 +18,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGdhaXNlciUyRm1vb25zaGluZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmhnYWlzZXIlMkZtb29uc2hpbmUlN0NNb29uc2hpbmUlM0ElMjBMZXRzJTIweW91JTIwc3RyZWFtJTIwZ2FtZXMlMjBmcm9tJTIweW91ciUyMFBDJTIwdG8lMjBhbnklMjBkZXZpY2UlMjBydW5uaW5nJTIwTW9vbmxpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NzI5NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAwMCUzQTE2JTNBNTAlMjAlMkIwMDAw",
       "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
       "pubDate": "Mon, 20 Jul 2026 00:16:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGY29sdW1uaXN0cyUyRjIwMjYlMkYwNyUyRjIwJTJGYWlyYnVzLXRha2VzLWZsaWdodC1mcm9tLWF3cy13aGF0LWhhcHBlbnMtbmV4dC1pcy1jcml0aWNhbCUyRjUyNzQxMDklN0NodHRwcyUzQSUyRiUyRnd3dy50aGVyZWdpc3Rlci5jb20lMkZjb2x1bW5pc3RzJTJGMjAyNiUyRjA3JTJGMjAlMkZhaXJidXMtdGFrZXMtZmxpZ2h0LWZyb20tYXdzLXdoYXQtaGFwcGVucy1uZXh0LWlzLWNyaXRpY2FsJTJGNTI3NDEwOSU3Q0FpcmJ1cyUyMFRha2VzJTIwRmxpZ2h0JTIwZnJvbSUyMEFXUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc2NjgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMTAlM0ExMiUzQTIyJTIwJTJCMDAwMA",
+      "title": "Airbus Takes Flight from AWS",
+      "pubDate": "Mon, 20 Jul 2026 10:12:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGN5YmVyLmlvJTJGcmVzZWFyY2gtY2VudGVyJTJGZXhwbG9pdC1icm9rZXJzLXBheS01MDAwMDAtZm9yLWEtd29yZHByZXNzLXJjZS1pLWZvdW5kLW9uZS13aXRoLWdwdDUtNiUyRiU3Q2h0dHBzJTNBJTJGJTJGc2xjeWJlci5pbyUyRnJlc2VhcmNoLWNlbnRlciUyRmV4cGxvaXQtYnJva2Vycy1wYXktNTAwMDAwLWZvci1hLXdvcmRwcmVzcy1yY2UtaS1mb3VuZC1vbmUtd2l0aC1ncHQ1LTYlMkYlN0NFeHBsb2l0JTIwYnJva2VycyUyMHBheSUyMCUyNDUwMGslMjBmb3IlMjBXb3JkUHJlc3MlMjBSQ0VzLiUyMEklMjBmb3VuZCUyMG9uZSUyMHdpdGglMjBHUFQ1LjYlMjBhbmQlMjAlMjQyNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc1NjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDglM0ExMyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "pubDate": "Mon, 20 Jul 2026 08:13:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRvY3VtZW50Zm91bmRhdGlvbi5vcmclMkZibG9nJTJGMjAyNiUyRjA3JTJGMTclMkZtaWNyb3NvZnRzLW1haW4tdG9vbC1mb3ItbG9jay1pbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5kb2N1bWVudGZvdW5kYXRpb24ub3JnJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjE3JTJGbWljcm9zb2Z0cy1tYWluLXRvb2wtZm9yLWxvY2staW4lMkYlN0NIb3clMjBwcm9wcmlldGFyeSUyMGZvcm1hdHMlMjBoYXZlJTIwYmVjb21lJTIwTWljcm9zb2Z0JUUyJTgwJTk5cyUyMG1haW4lMjB0b29sJTIwZm9yJTIwbG9jay1pbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc0NDc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDQlM0E0OSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "pubDate": "Mon, 20 Jul 2026 04:49:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2JvdGljcy54aWFvbWkuY29tJTJGeGlhb21pLXJvYm90aWNzLTEuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcm9ib3RpY3MueGlhb21pLmNvbSUyRnhpYW9taS1yb2JvdGljcy0xLmh0bWwlN0NYaWFvbWktUm9ib3RpY3MtMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc0NDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDQlM0E0NSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Xiaomi-Robotics-1",
+      "pubDate": "Mon, 20 Jul 2026 04:45:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGU2FpdmluZWV0aDE0NyUyRmxvcmEtc3BlZWRydW4lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZTYWl2aW5lZXRoMTQ3JTJGbG9yYS1zcGVlZHJ1biU3Q0xvUkElMjBTcGVlZHJ1biUyMCVFMiU4MCU5MyUyMGElMjBwdWJsaWMlMjB3YWxsLWNsb2NrJTIwbGVhZGVyYm9hcmQlMjBmb3IlMjBmaW5lLXR1bmluZyUyMHRlY2huaXF1ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3NDMyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIwJTIwSnVsJTIwMjAyNiUyMDA0JTNBMjQlM0E0OCUyMCUyQjAwMDA",
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "pubDate": "Mon, 20 Jul 2026 04:24:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb252ZXJzYXRpb24uY29tJTJGd2hlbi1jYW4tYS1wb3dlci1jb21wYW55LXRha2UteW91ci1sYW5kLWZvci1kYXRhLWNlbnRlci1pbmZyYXN0cnVjdHVyZS0yODQwNjElN0NodHRwcyUzQSUyRiUyRnRoZWNvbnZlcnNhdGlvbi5jb20lMkZ3aGVuLWNhbi1hLXBvd2VyLWNvbXBhbnktdGFrZS15b3VyLWxhbmQtZm9yLWRhdGEtY2VudGVyLWluZnJhc3RydWN0dXJlLTI4NDA2MSU3Q1doZW4lMjBjYW4lMjBhJTIwcG93ZXIlMjBjb21wYW55JTIwdGFrZSUyMHlvdXIlMjBsYW5kJTIwZm9yJTIwZGF0YSUyMGNlbnRlciUyMGluZnJhc3RydWN0dXJlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NzQyOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAwNCUzQTE5JTNBMjIlMjAlMkIwMDAw",
+      "title": "When can a power company take your land for data center infrastructure?",
+      "pubDate": "Mon, 20 Jul 2026 04:19:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
     }
   ]

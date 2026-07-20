@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 71,
-    "generatedAt": "2026-07-20T04:09:00.002Z"
+    "itemCount": 72,
+    "generatedAt": "2026-07-20T11:16:38.437Z"
   },
   "items": [
     {
@@ -432,6 +432,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzbW9sbmVyby5jb20lMkZwb3N0cyUyRnRoZS16ZW4tb2YtcGFyYWxsZWwtcHJvZ3JhbW1pbmclN0NodHRwcyUzQSUyRiUyRnNtb2xuZXJvLmNvbSUyRnBvc3RzJTJGdGhlLXplbi1vZi1wYXJhbGxlbC1wcm9ncmFtbWluZyU3Q1RoZSUyMFplbiUyMG9mJTIwUGFyYWxsZWwlMjBQcm9ncmFtbWluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTA3MzkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMTQlM0EyMyUzQTI2JTIwJTJCMDAwMA",
       "title": "The Zen of Parallel Programming",
       "pubDate": "Tue, 14 Jul 2026 14:23:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFuZHIyaS5jb20lMkZwb3N0cyUyRjIwMjYtMDctMDYtZWxpbWluYXRpbmctZ28tYm91bmQtY2hlY2tzLXdpdGgtdW5zYWZlJTdDaHR0cHMlM0ElMkYlMkZibG9nLmFuZHIyaS5jb20lMkZwb3N0cyUyRjIwMjYtMDctMDYtZWxpbWluYXRpbmctZ28tYm91bmQtY2hlY2tzLXdpdGgtdW5zYWZlJTdDRWxpbWluYXRpbmclMjBHbyUyMGJvdW5kcyUyMGNoZWNrcyUyMHdpdGglMjB1bnNhZmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwODg4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDE2JTNBMDElM0E1NyUyMCUyQjAwMDA",
+      "title": "Eliminating Go bounds checks with unsafe",
+      "pubDate": "Tue, 14 Jul 2026 16:01:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]

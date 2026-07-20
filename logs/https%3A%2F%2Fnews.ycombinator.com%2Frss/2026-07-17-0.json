@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-17",
     "newestItemDate": "2026-07-17",
-    "itemCount": 44,
-    "generatedAt": "2026-07-18T17:18:07.076Z"
+    "itemCount": 45,
+    "generatedAt": "2026-07-20T11:16:38.436Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsY2FtdHVmLnN1YnN0YWNrLmNvbSUyRnAlMkZ0ZWNoLW5vdGUtbWFraW5nLXlvdXItb3duLXYtaS1wbG90cyU3Q2h0dHBzJTNBJTJGJTJGbGNhbXR1Zi5zdWJzdGFjay5jb20lMkZwJTJGdGVjaC1ub3RlLW1ha2luZy15b3VyLW93bi12LWktcGxvdHMlN0NUZWNoJTIwbm90ZSUzQSUyMG1ha2luZyUyMHlvdXIlMjBvd24lMjBWLUklMjBwbG90cyUyMGF0JTIwaG9tZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTUxNzU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTclMjBKdWwlMjAyMDI2JTIwMjAlM0ExMCUzQTAyJTIwJTJCMDAwMA",
       "title": "Tech note: making your own V-I plots at home",
       "pubDate": "Fri, 17 Jul 2026 20:10:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaWRkZW4tcGhlbm9tZW5hLmNvbSUyRmFydGljbGVzJTJGcmglN0NodHRwcyUzQSUyRiUyRmhpZGRlbi1waGVub21lbmEuY29tJTJGYXJ0aWNsZXMlMkZyaCU3Q1doYXQlMjBkb2VzJTIwdGhlJTIwUmllbWFubiUyMHpldGElMjBmdW5jdGlvbiUyMGhhdmUlMjB0byUyMGRvJTIwd2l0aCUyMHRoZSUyMGRpc3RyaWJ1dGlvbiUyMG9mJTIwcHJpbWVzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NTI3MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNyUyMEp1bCUyMDIwMjYlMjAyMiUzQTAyJTNBMTglMjAlMkIwMDAw",
+      "title": "What does the Riemann zeta function have to do with the distribution of primes?",
+      "pubDate": "Fri, 17 Jul 2026 22:02:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-17-0.json"
     }
   ]
