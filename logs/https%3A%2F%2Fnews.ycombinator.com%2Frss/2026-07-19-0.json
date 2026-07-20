@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-19",
     "newestItemDate": "2026-07-19",
-    "itemCount": 25,
-    "generatedAt": "2026-07-19T17:27:18.189Z"
+    "itemCount": 35,
+    "generatedAt": "2026-07-20T04:09:00.001Z"
   },
   "items": [
     {
@@ -156,6 +156,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvY3cubWl0LmVkdSUyRmNvdXJzZXMlMkZyZXMtNi0wMTEtdGhlLWFydC1vZi1pbnNpZ2h0LWluLXNjaWVuY2UtYW5kLWVuZ2luZWVyaW5nLW1hc3RlcmluZy1jb21wbGV4aXR5LWZhbGwtMjAxNCUyRjNiY2E4NTAzODZhMzAwNWMyMjEzNGZhNjJmYjNiYWQ1X01JVFJFU182LTAxMUYxNF9hcnRfaW5zZmluLnBkZiU3Q2h0dHBzJTNBJTJGJTJGb2N3Lm1pdC5lZHUlMkZjb3Vyc2VzJTJGcmVzLTYtMDExLXRoZS1hcnQtb2YtaW5zaWdodC1pbi1zY2llbmNlLWFuZC1lbmdpbmVlcmluZy1tYXN0ZXJpbmctY29tcGxleGl0eS1mYWxsLTIwMTQlMkYzYmNhODUwMzg2YTMwMDVjMjIxMzRmYTYyZmIzYmFkNV9NSVRSRVNfNi0wMTFGMTRfYXJ0X2luc2Zpbi5wZGYlN0NUaGUlMjBBcnQlMjBvZiUyMEluc2lnaHQlMjBpbiUyMFNjaWVuY2UlMjBhbmQlMjBFbmdpbmVlcmluZyUyMCVFMiU4MCU5MyUyME1hc3RlcmluZyUyMENvbXBsZXhpdHkoMjAxNCklMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NTcxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDA3JTNBMjclM0EzNyUyMCUyQjAwMDA",
       "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]",
       "pubDate": "Sun, 19 Jul 2026 07:27:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmJpZ2dlc3QtcHJvYmFiaWxpc3RpYy1jb21wdXRlciU3Q2h0dHBzJTNBJTJGJTJGc3BlY3RydW0uaWVlZS5vcmclMkZiaWdnZXN0LXByb2JhYmlsaXN0aWMtY29tcHV0ZXIlN0NCaWdnZXN0JTIwUHJvYmFiaWxpc3RpYyUyMENvbXB1dGVyJTIwVHVybnMlMjBOb2lzZSUyMGludG8lMjBBbnN3ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NzE5MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAyMSUzQTQyJTNBMTIlMjAlMkIwMDAw",
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "pubDate": "Sun, 19 Jul 2026 21:42:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVuZXh0d2ViLmNvbSUyRm5ld3MlMkZhaS1hZHZpY2Utc3VwcHJlc3Nlcy1jcml0aWNhbC10aGlua2luZy13cm9uZy1hbnN3ZXJzLXN0dWR5JTdDaHR0cHMlM0ElMkYlMkZ0aGVuZXh0d2ViLmNvbSUyRm5ld3MlMkZhaS1hZHZpY2Utc3VwcHJlc3Nlcy1jcml0aWNhbC10aGlua2luZy13cm9uZy1hbnN3ZXJzLXN0dWR5JTdDQUklMjBhZHZpY2UlMjBtYWRlJTIwcGVvcGxlJTIwbGVzcyUyMGFjY3VyYXRlJTIwYnV0JTIwbW9yZSUyMGNvbmZpZGVudCUyMCVFMiU4MCU5MyUyMHN1ZHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3MTczOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDIxJTNBMTglM0ExMCUyMCUyQjAwMDA",
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "pubDate": "Sun, 19 Jul 2026 21:18:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXltaWkub3JnJTJGcyUyRmJsb2clMkZJbnRlbF9JdGFuaXVtX0lBLTY0LUVtdWxhdG9yX3RoYXRfYm9vdHNfV2luZG93cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZyYXltaWkub3JnJTJGcyUyRmJsb2clMkZJbnRlbF9JdGFuaXVtX0lBLTY0LUVtdWxhdG9yX3RoYXRfYm9vdHNfV2luZG93cy5odG1sJTdDQSUyMG5ldyUyMEludGVsJTIwSXRhbml1bSUyMChJQS02NCklMjBlbXVsYXRvciUyMHRoYXQlMjBib290cyUyMFdpbmRvd3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3MTU2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDIwJTNBNTAlM0E0MiUyMCUyQjAwMDA",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "pubDate": "Sun, 19 Jul 2026 20:50:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcmlvbmJyb3dzZXIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZvcmlvbmJyb3dzZXIuY29tJTJGJTdDT3Jpb24lMjBCcm93c2VyJTIwYnklMjBLYWdpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NzA4OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAxOSUzQTEzJTNBMjklMjAlMkIwMDAw",
+      "title": "Orion Browser by Kagi",
+      "pubDate": "Sun, 19 Jul 2026 19:13:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdXN0c29tZWJvZHkuZGV2JTJGYmxvZyUyRm1pa3JvdGlrLWhvbWUtcm91dGVyJTdDaHR0cHMlM0ElMkYlMkZqdXN0c29tZWJvZHkuZGV2JTJGYmxvZyUyRm1pa3JvdGlrLWhvbWUtcm91dGVyJTdDSG9tZUxhYiUyMCUyMzElM0ElMjBNaWtyb1RpayUyMGFzJTIwYSUyMEhvbWUlMjBSb3V0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3MDc3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDE4JTNBNTclM0EwMSUyMCUyQjAwMDA",
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "pubDate": "Sun, 19 Jul 2026 18:57:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG1kLmNvbSUyRmVuX2ludCUyRmhtZC10b3VjaC00ZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhtZC5jb20lMkZlbl9pbnQlMkZobWQtdG91Y2gtNGclN0NITUQlMjBUb3VjaCUyMDRHJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5Njk5ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAxNyUzQTI1JTNBMDMlMjAlMkIwMDAw",
+      "title": "HMD Touch 4G",
+      "pubDate": "Sun, 19 Jul 2026 17:25:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub25lcGVyY2VudGJyaWdodGVyLmNvbSUyRnAlMkZuYXR1cmFsLWV4cGVyaW1lbnRzLXByb3ZlLWZlZWRpbmclN0NodHRwcyUzQSUyRiUyRnd3dy5vbmVwZXJjZW50YnJpZ2h0ZXIuY29tJTJGcCUyRm5hdHVyYWwtZXhwZXJpbWVudHMtcHJvdmUtZmVlZGluZyU3Q05hdHVyYWwlMjBleHBlcmltZW50cyUyMHByb3ZlJTIwcGh5dG9wbGFua3RvbiUyMGNhcmJvbiUyMHJlbW92YWwlMjB3b3JrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY4NzAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMTQlM0E1MSUzQTU3JTIwJTJCMDAwMA",
+      "title": "Natural experiments prove phytoplankton carbon removal works",
+      "pubDate": "Sun, 19 Jul 2026 14:51:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY4NjA2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY4NjA2JTdDU2hvdyUyMEhOJTNBJTIwSSUyMHJlcGxhY2VkJTIwYSUyMCUyNDEyMGslMjBib3dsaW5nJTIwY2VudGVyJTIwc3lzdGVtJTIwd2l0aCUyMCUyNDElMkM2MDAlMjBpbiUyMEVTUDMycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY4NjA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMTQlM0E0MSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "pubDate": "Sun, 19 Jul 2026 14:41:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwc3ljaGVkZWxpY3MuY29tbXVuaXR5JTJGY3VsdHVyYWwtaWNvbnMlMkZ0ZXJlbmNlLW1ja2VubmFzLW1lZ2EtYmFkLXRyaXAlN0NodHRwcyUzQSUyRiUyRnBzeWNoZWRlbGljcy5jb21tdW5pdHklMkZjdWx0dXJhbC1pY29ucyUyRnRlcmVuY2UtbWNrZW5uYXMtbWVnYS1iYWQtdHJpcCU3Q1RlcmVuY2UlMjBNY0tlbm5hJ3MlMjBNZWdhJTIwQmFkJTIwVHJpcCUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTY4NTE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTklMjBKdWwlMjAyMDI2JTIwMTQlM0EzMCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Terence McKenna's Mega Bad Trip (2025)",
+      "pubDate": "Sun, 19 Jul 2026 14:30:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRmN1c3RvbS1kZWVwLXJlc2VhcmNoLXBpcGVsaW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRmN1c3RvbS1kZWVwLXJlc2VhcmNoLXBpcGVsaW5lJTJGJTdDSSUyMGJ1cm5lZCUyMGFsbCUyMG15JTIwdG9rZW5zJTIwcmVzZWFyY2hpbmclMjBob3clMjB0byUyMHNhdmUlMjB0b2tlbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NzM1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDEyJTNBMDElM0E1MyUyMCUyQjAwMDA",
+      "title": "I burned all my tokens researching how to save tokens",
+      "pubDate": "Sun, 19 Jul 2026 12:01:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
     }
   ]
