@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-13",
     "newestItemDate": "2026-07-13",
-    "itemCount": 58,
-    "generatedAt": "2026-07-20T04:09:00.002Z"
+    "itemCount": 59,
+    "generatedAt": "2026-07-21T03:51:27.724Z"
   },
   "items": [
     {
@@ -354,6 +354,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXh0Ym9va3Mud21pc2Qub3JnJTJGd29ybGRnZW9oaXN0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnRleHRib29rcy53bWlzZC5vcmclMkZ3b3JsZGdlb2hpc3QuaHRtbCU3Q1dvcmxkJTIwR2VvSGlzdG9HcmFtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg4OTQ2ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMyUyMEp1bCUyMDIwMjYlMjAxNiUzQTAwJTNBMjMlMjAlMkIwMDAw",
       "title": "World GeoHistoGram",
       "pubDate": "Mon, 13 Jul 2026 16:00:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm9jaHVzLWtlbGxlciUyRk1VTVBTJTJGYmxvYiUyRm1haW4lMkZkb2NzJTJGRmlyc3RfTVVNUFNfU3RhbmRhcmRfQXJ0aWNsZS5tZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJvY2h1cy1rZWxsZXIlMkZNVU1QUyUyRmJsb2IlMkZtYWluJTJGZG9jcyUyRkZpcnN0X01VTVBTX1N0YW5kYXJkX0FydGljbGUubWQlN0NXaGF0JTIwbW9zdCUyMGhpc3RvcmllcyUyMGdldCUyMHdyb25nJTIwYWJvdXQlMjBNVU1QUydzJTIwZmlyc3QlMjBzdGFuZGFyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4ODg3MDQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTMlMjBKdWwlMjAyMDI2JTIwMDIlM0ExNCUzQTA4JTIwJTJCMDAwMA",
+      "title": "What most histories get wrong about MUMPS's first standard",
+      "pubDate": "Mon, 13 Jul 2026 02:14:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-13-0.json"
     }
   ]

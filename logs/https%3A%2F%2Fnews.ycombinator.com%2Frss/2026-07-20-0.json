@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-20",
     "newestItemDate": "2026-07-20",
-    "itemCount": 35,
-    "generatedAt": "2026-07-20T18:23:58.202Z"
+    "itemCount": 48,
+    "generatedAt": "2026-07-21T03:51:27.723Z"
   },
   "items": [
     {
@@ -216,6 +216,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRm1pc2NlbGxhbmllcyUyRnNhdGFucy0xOXRoLWNlbnR1cnktYmFuay1ub3RlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRm1pc2NlbGxhbmllcyUyRnNhdGFucy0xOXRoLWNlbnR1cnktYmFuay1ub3RlJTdDU2F0YW4ncyUyMDE5dGgtQ2VudHVyeSUyMEJhbmslMjBOb3RlJTIwKDIwMTcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NzM0NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAwMSUzQTMxJTNBMTIlMjAlMkIwMDAw",
       "title": "Satan's 19th-Century Bank Note (2017)",
       "pubDate": "Mon, 20 Jul 2026 01:31:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bS5qZWxseWZpbi5vcmclMkZ0LXByb2plY3QtbGVhZGVyc2hpcC1jaGFuZ2VzJTdDaHR0cHMlM0ElMkYlMkZmb3J1bS5qZWxseWZpbi5vcmclMkZ0LXByb2plY3QtbGVhZGVyc2hpcC1jaGFuZ2VzJTdDSmVsbHlmaW4lMjBmb3VuZGVyJTIwQW5kcmV3JTIwbGVhdmVzJTIwdGVhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTg2MDkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMjMlM0ExNSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Jellyfin founder Andrew leaves team",
+      "pubDate": "Mon, 20 Jul 2026 23:15:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jkcy5maWxpcHBvLmlvJTJGcGFzc2tleS1yZWNvcmQlMkYlN0NodHRwcyUzQSUyRiUyRndvcmRzLmZpbGlwcG8uaW8lMkZwYXNza2V5LXJlY29yZCUyRiU3Q09wYXF1ZSUyQyUyMEludGVyb3BlcmFibGUlMjBQYXNza2V5JTIwUmVjb3JkcyUyMChhbmQlMjBhJTIwR28lMjBBUEkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODU5NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAyMyUzQTAwJTNBMjklMjAlMkIwMDAw",
+      "title": "Opaque, Interoperable Passkey Records (and a Go API)",
+      "pubDate": "Mon, 20 Jul 2026 23:00:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudW1lcmxhYi5vcmclMkYyMDI1JTJGMDclMkYyMCUyRmJhc2h1bWVyYXRlLWVudW1lcmF0b3IlMkYlN0NodHRwcyUzQSUyRiUyRm51bWVybGFiLm9yZyUyRjIwMjUlMkYwNyUyRjIwJTJGYmFzaHVtZXJhdGUtZW51bWVyYXRvciUyRiU3Q0klMjB3cm90ZSUyMGFuJTIwYmFzaCUyMGVudW1lcmF0b3IlMjBiZWNhdXNlJTIwSSUyMHdhcyUyMHNpY2slMjBvZiUyMHhhcmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODQyNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAyMCUzQTEyJTNBMTklMjAlMkIwMDAw",
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "pubDate": "Mon, 20 Jul 2026 20:12:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW5jZW50d29vLmNvbSUyRjNkJTJGZ3JhY2VfY2F0aGVkcmFsJTJGJTdDaHR0cHMlM0ElMkYlMkZ2aW5jZW50d29vLmNvbSUyRjNkJTJGZ3JhY2VfY2F0aGVkcmFsJTJGJTdDU2hvdyUyMEhOJTNBJTIwSW1tZXJzaXZlJTIwR2F1c3NpYW4lMjBTcGxhdCUyMHRvdXIlMjBvZiUyMGdyYWNlJTIwY2F0aGVkcmFsJTJDJTIwU2FuJTIwRnJhbmNpc2NvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODQyNTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAyMCUzQTEwJTNBNDQlMjAlMkIwMDAw",
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "pubDate": "Mon, 20 Jul 2026 20:10:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NvdHRybGFyc29uLmNvbSUyRnByZXNlbnRhdGlvbnMlMkZvdmVyY29taW5nLXN1cnZlaWxsYW5jZS1jYXBpdGFsaXNtLXdpdGgtYXdhcmVuZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NvdHRybGFyc29uLmNvbSUyRnByZXNlbnRhdGlvbnMlMkZvdmVyY29taW5nLXN1cnZlaWxsYW5jZS1jYXBpdGFsaXNtLXdpdGgtYXdhcmVuZXNzJTJGJTdDVGhlJTIwUG93ZXIlMjBvZiUyMEF3YXJlbmVzcyUzQSUyME92ZXJjb21pbmclMjBTdXJ2ZWlsbGFuY2UlMjBDYXBpdGFsaXNtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODQyMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAyMCUzQTA4JTNBNDUlMjAlMkIwMDAw",
+      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+      "pubDate": "Mon, 20 Jul 2026 20:08:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZW5hcHJvamVjdC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA3JTJGMjAlMkZodW1hbi1tYXRoZW1hdGljaWFucy1hcmUtYmVpbmctb3V0Y291bnRlcmV4YW1wbGVkJTJGJTdDaHR0cHMlM0ElMkYlMkZ4ZW5hcHJvamVjdC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA3JTJGMjAlMkZodW1hbi1tYXRoZW1hdGljaWFucy1hcmUtYmVpbmctb3V0Y291bnRlcmV4YW1wbGVkJTJGJTdDSHVtYW4lMjBtYXRoZW1hdGljaWFucyUyMGFyZSUyMGJlaW5nJTIwb3V0Y291bnRlcmV4YW1wbGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODMzODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAxOSUzQTAzJTNBMzclMjAlMkIwMDAw",
+      "title": "Human mathematicians are being outcounterexampled",
+      "pubDate": "Mon, 20 Jul 2026 19:03:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibGFpenp5LmdpdGh1Yi5pbyUyRm5hdGl2JTJGJTdDaHR0cHMlM0ElMkYlMkZibGFpenp5LmdpdGh1Yi5pbyUyRm5hdGl2JTJGJTdDTmF0aXYlM0ElMjBSdW4lMjBmcm9udGllciUyMG9wZW4lMjBtb2RlbHMlMjBsb2NhbGx5JTIwb24lMjB5b3VyJTIwTWFjJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODI2ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAxOCUzQTE2JTNBMDglMjAlMkIwMDAw",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "pubDate": "Mon, 20 Jul 2026 18:16:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJzb3IuY29tJTJGYmxvZyUyRmFnZW50LXN3YXJtLW1vZGVsLWVjb25vbWljcyU3Q2h0dHBzJTNBJTJGJTJGY3Vyc29yLmNvbSUyRmJsb2clMkZhZ2VudC1zd2FybS1tb2RlbC1lY29ub21pY3MlN0NBZ2VudCUyMHN3YXJtcyUyMGFuZCUyMHRoZSUyMG5ldyUyMG1vZGVsJTIwZWNvbm9taWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODI1MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAxOCUzQTA2JTNBMTMlMjAlMkIwMDAw",
+      "title": "Agent swarms and the new model economics",
+      "pubDate": "Mon, 20 Jul 2026 18:06:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnNsb3AucnVuJTJGYmxvZyUyRm1lYXN1cmluZy1haS13cml0aW5nLW9uLWFyeGl2JTdDaHR0cHMlM0ElMkYlMkZ1bnNsb3AucnVuJTJGYmxvZyUyRm1lYXN1cmluZy1haS13cml0aW5nLW9uLWFyeGl2JTdDSG93JTIwd2UlMjBtZWFzdXJlZCUyMEFJJTIwd3JpdGluZyUyMGFjcm9zcyUyMGFyWGl2JTJDJTIwYW5kJTIwd2hlcmUlMjB0aGUlMjBtZWFzdXJlbWVudCUyMGJyZWFrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTgxMjA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMTYlM0EzNiUzQTM2JTIwJTJCMDAwMA",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "pubDate": "Mon, 20 Jul 2026 16:36:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZXJkLmlvJTJGYW1lcmljYW4tYWktaXMtbG9ja2VkLWRvd24tYW5kLXByb3ByaWV0YXJ5LWl0cy1sb3NpbmclMkYlN0NodHRwcyUzQSUyRiUyRndlcmQuaW8lMkZhbWVyaWNhbi1haS1pcy1sb2NrZWQtZG93bi1hbmQtcHJvcHJpZXRhcnktaXRzLWxvc2luZyUyRiU3Q0NoaW5hJUUyJTgwJTk5cyUyMG9wZW4td2VpZ2h0cyUyMEFJJTIwc3RyYXRlZ3klMjBpcyUyMHdpbm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3OTI2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIwJTIwSnVsJTIwMjAyNiUyMDE0JTNBMjElM0E0NyUyMCUyQjAwMDA",
+      "title": "China’s open-weights AI strategy is winning",
+      "pubDate": "Mon, 20 Jul 2026 14:21:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YXIwLnh5eiUyRnBvc3RzJTJGcGVyZmVjdGlvbi1pcy1ub3Qtb3Zlci1lbmdpbmVlcmluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ2YXIwLnh5eiUyRnBvc3RzJTJGcGVyZmVjdGlvbi1pcy1ub3Qtb3Zlci1lbmdpbmVlcmluZy5odG1sJTdDUGVyZmVjdGlvbiUyMGlzJTIwbm90JTIwb3Zlci1lbmdpbmVlcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc5MTIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMTQlM0ExMCUzQTMwJTIwJTJCMDAwMA",
+      "title": "Perfection is not over-engineering",
+      "pubDate": "Mon, 20 Jul 2026 14:10:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmxlZC1saWdodC1wb2xsdXRpb24lN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGbGVkLWxpZ2h0LXBvbGx1dGlvbiU3Q0xFRHMlRTIlODAlOTklMjBwb3RlbnRpYWwlMjB0byUyMHNhdmUlMjBvdXIlMjBuaWdodCUyMHNraWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NzgzNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAxMyUzQTA3JTNBMTElMjAlMkIwMDAw",
+      "title": "LEDs’ potential to save our night skies",
+      "pubDate": "Mon, 20 Jul 2026 13:07:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJhdGVjaGVyeS5jb20lMkYyMDI2JTJGd2hvcy1hZnJhaWQtb2YtY2hpbmVzZS1tb2RlbHMlMkYlN0NodHRwcyUzQSUyRiUyRnN0cmF0ZWNoZXJ5LmNvbSUyRjIwMjYlMkZ3aG9zLWFmcmFpZC1vZi1jaGluZXNlLW1vZGVscyUyRiU3Q1dobydzJTIwYWZyYWlkJTIwb2YlMjBDaGluZXNlJTIwbW9kZWxzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5NzcxMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAxMSUzQTA1JTNBNTglMjAlMkIwMDAw",
+      "title": "Who's afraid of Chinese models?",
+      "pubDate": "Mon, 20 Jul 2026 11:05:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
     }
   ]
