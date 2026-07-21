@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-20",
     "newestItemDate": "2026-07-20",
-    "itemCount": 49,
-    "generatedAt": "2026-07-21T10:34:54.752Z"
+    "itemCount": 50,
+    "generatedAt": "2026-07-21T17:48:20.219Z"
   },
   "items": [
     {
@@ -300,6 +300,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZWZhY3RvcmluZ2VuZ2xpc2guY29tJTJGYmxvZyUyRndoeS1pLXN0b3BwZWQtY3JlYXRpbmctY29udGVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVmYWN0b3JpbmdlbmdsaXNoLmNvbSUyRmJsb2clMkZ3aHktaS1zdG9wcGVkLWNyZWF0aW5nLWNvbnRlbnQlMkYlN0NJJTIwU3RvcHBlZCUyMCVFMiU4MCU5Q0NyZWF0aW5nJTIwQ29udGVudCVFMiU4MCU5RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTgwNTIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMTUlM0E0NyUzQTI4JTIwJTJCMDAwMA",
       "title": "I Stopped “Creating Content”",
       "pubDate": "Mon, 20 Jul 2026 15:47:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb290a2l0bGFicy5jb20lMkYyMDI2JTJGMDYlMkYyMiUyRkklMjUyN20tQnVpbGRpbmctYS1TZWN1cmUtVVNCLURyaXZlJTJGJTdDaHR0cHMlM0ElMkYlMkZyb290a2l0bGFicy5jb20lMkYyMDI2JTJGMDYlMkYyMiUyRkklMjUyN20tQnVpbGRpbmctYS1TZWN1cmUtVVNCLURyaXZlJTJGJTdDTXklMjBVU0IlMjBEcml2ZSUyMEhhcyUyMGElMjBIaWRkZW4lMjBFbmNyeXB0ZWQlMjBWYXVsdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc0ODYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDYlM0EwOSUzQTI1JTIwJTJCMDAwMA",
+      "title": "My USB Drive Has a Hidden Encrypted Vault",
+      "pubDate": "Mon, 20 Jul 2026 06:09:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
     }
   ]

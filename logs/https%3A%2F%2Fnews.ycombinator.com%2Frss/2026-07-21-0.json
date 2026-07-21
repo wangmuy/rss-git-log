@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-21",
     "newestItemDate": "2026-07-21",
-    "itemCount": 10,
-    "generatedAt": "2026-07-21T10:34:54.752Z"
+    "itemCount": 24,
+    "generatedAt": "2026-07-21T17:48:20.219Z"
   },
   "items": [
     {
@@ -66,6 +66,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9reW9kZXYuY29tJTJGYXJ0aWNsZXMlMkZ2dHViaW5nLWhvdy1hLWphcGFuZXNlLXBoZW5vbWVub24taXMtZ29pbmctd29ybGR3aWRlJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9reW9kZXYuY29tJTJGYXJ0aWNsZXMlMkZ2dHViaW5nLWhvdy1hLWphcGFuZXNlLXBoZW5vbWVub24taXMtZ29pbmctd29ybGR3aWRlJTdDVlR1YmluZyUzQSUyMEhvdyUyMGElMjBKYXBhbmVzZSUyMFBoZW5vbWVub24lMjBJcyUyMEdvaW5nJTIwV29ybGR3aWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODc3NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAwMyUzQTQyJTNBNDclMjAlMkIwMDAw",
       "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
       "pubDate": "Tue, 21 Jul 2026 03:42:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY3Jpc3RpYmFsdXRhJTJGSW1hZ2luLVJhdyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNyaXN0aWJhbHV0YSUyRkltYWdpbi1SYXclN0NTaG93JTIwSE4lM0ElMjBJbWFnaW4lMjBSYXclMjAlRTIlODAlOTMlMjBBJTIwOU1CJTIwT3Blbi1Tb3VyY2UlMjBBbHRlcm5hdGl2ZSUyMHRvJTIwQWRvYmUlMjBCcmlkZ2UlMjBmb3IlMjBNYWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5NTQ0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDE3JTNBMzAlM0EwMSUyMCUyQjAwMDA",
+      "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+      "pubDate": "Tue, 21 Jul 2026 17:30:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWF0aGV1emdvbWVzJTJGZGVjb3JlYmElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtYXRoZXV6Z29tZXMlMkZkZWNvcmViYSU3Q1Nob3clMjBITiUzQSUyMEklMjBidWlsdCUyMGElMjBjb21tYW5kJTIwcGFsZXR0ZSUyMGZvciUyMHRoZSUyMHRlcm1pbmFsJTIwJUUyJTgwJTkzJTIwNi4yTUIlMkMlMjBwdXJlJTIwR28lMkMlMjBubyUyMGZ6ZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk1MzMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTclM0EyMiUzQTE3JTIwJTJCMDAwMA",
+      "title": "Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf",
+      "pubDate": "Tue, 21 Jul 2026 17:22:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaS5tZXRhLmNvbSUyRmJsb2clMkZnZW5lc2lzLW1pc3Npb24tbGF3cmVuY2UtYmVya2VsZXktbmF0aW9uYWwtbGFib3JhdG9yeS1zZWdtZW50LWFueXRoaW5nLWRpbm8lMkYlM0ZfZmJfbm9zY3JpcHQlM0QxJTdDaHR0cHMlM0ElMkYlMkZhaS5tZXRhLmNvbSUyRmJsb2clMkZnZW5lc2lzLW1pc3Npb24tbGF3cmVuY2UtYmVya2VsZXktbmF0aW9uYWwtbGFib3JhdG9yeS1zZWdtZW50LWFueXRoaW5nLWRpbm8lMkYlM0ZfZmJfbm9zY3JpcHQlM0QxJTdDTWV0YSdzJTIwQUklMjBNb2RlbHMlMjBBcmUlMjBQb3dlcmluZyUyMHRoZSUyMEZpcnN0JTIwV2F2ZSUyMG9mJTIwR2VuZXNpcyUyME1pc3Npb24lMjBQcm9qZWN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk1MDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTclM0EwMyUzQTE4JTIwJTJCMDAwMA",
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "pubDate": "Tue, 21 Jul 2026 17:03:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk1MDM3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk1MDM3JTdDQmxvb215JTIwKFlDJTIwUzI2KSUyMGlzJTIwaGlyaW5nJTIwYSUyMGZvdW5kaW5nJTIwZW5naW5lZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5NTAzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDE3JTNBMDAlM0EyMCUyMCUyQjAwMDA",
+      "title": "Bloomy (YC S26) is hiring a founding engineer",
+      "pubDate": "Tue, 21 Jul 2026 17:00:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjYXN0bGVtYXAuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGVjYXN0bGVtYXAuY29tJTJGJTdDVGhlJTIwV29ybGQncyUyMDIlMkM0MDAlMjBDYXN0bGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTQxNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNiUzQTA1JTNBNTglMjAlMkIwMDAw",
+      "title": "The World's 2,400 Castles",
+      "pubDate": "Tue, 21 Jul 2026 16:05:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb3N0cXVhbnR1bS5jb20lMkZzZWN1cml0eS1wcWMlMkZhbnNzaS1wcWMtY2VydGlmaWNhdGlvbi0yMDI3JTJGJTdDaHR0cHMlM0ElMkYlMkZwb3N0cXVhbnR1bS5jb20lMkZzZWN1cml0eS1wcWMlMkZhbnNzaS1wcWMtY2VydGlmaWNhdGlvbi0yMDI3JTJGJTdDRnJhbmNlJ3MlMjBBbnNzaSUyMFdpbGwlMjBCbG9jayUyMFBRQy1GcmVlJTIwUHJvZHVjdHMlMjBmcm9tJTIwQ2VydGlmaWNhdGlvbiUyMFN0YXJ0aW5nJTIwMjAyNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk0MTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTYlM0EwMiUzQTA0JTIwJTJCMDAwMA",
+      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+      "pubDate": "Tue, 21 Jul 2026 16:02:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlMzYwLnlhbGUuZWR1JTJGZGlnZXN0JTJGYmVuaW4tY29yYWwtcmVlZiU3Q2h0dHBzJTNBJTJGJTJGZTM2MC55YWxlLmVkdSUyRmRpZ2VzdCUyRmJlbmluLWNvcmFsLXJlZWYlN0NMb25nJTIwUHJlc3VtZWQlMjBEZWFkJTJDJTIwYSUyMFRocml2aW5nJTIwQ29yYWwlMjBSZWVmJTIwSXMlMjBEaXNjb3ZlcmVkJTIwaW4lMjBXZXN0JTIwQWZyaWNhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTM4MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNSUzQTQxJTNBNTElMjAlMkIwMDAw",
+      "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+      "pubDate": "Tue, 21 Jul 2026 15:41:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZhcHBsZS1maXhlcy1oaWRlLW15LWVtYWlsLXZ1bG5lcmFiaWxpdHktYWZ0ZXItNDA0LW1lZGlhLWNvdmVyYWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZhcHBsZS1maXhlcy1oaWRlLW15LWVtYWlsLXZ1bG5lcmFiaWxpdHktYWZ0ZXItNDA0LW1lZGlhLWNvdmVyYWdlJTJGJTdDQXBwbGUlMjBGaXhlcyUyMEhpZGUlMjBNeSUyMEVtYWlsJTIwVnVsbmVyYWJpbGl0eSUyMEFmdGVyJTIwNDA0JTIwTWVkaWElMjBDb3ZlcmFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTkzNjM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTUlM0EzMSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "pubDate": "Tue, 21 Jul 2026 15:31:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRmIzNzAzMGI2LWJkYTgtNGJhOS04ZTA4LWU2Yjg4Njg3YjhmNSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkZiMzcwMzBiNi1iZGE4LTRiYTktOGUwOC1lNmI4ODY4N2I4ZjUlN0NPcmFjbGUlMjBjb3VsZCUyMGZhY2UlMjAlMjQ3QiUyMGNvbGxhdGVyYWwlMjBiaWxsJTIwZm9yJTIwV2lzY29uc2luJTIwZGF0YSUyMGNlbnRyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTkzNDg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTUlM0EyMiUzQTMzJTIwJTJCMDAwMA",
+      "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
+      "pubDate": "Tue, 21 Jul 2026 15:22:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZnZW1pbmktMy02LWZsYXNoLTMtNS1mbGFzaC1saXRlLTMtNS1mbGFzaC1jeWJlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZpbm5vdmF0aW9uLWFuZC1haSUyRm1vZGVscy1hbmQtcmVzZWFyY2glMkZnZW1pbmktbW9kZWxzJTJGZ2VtaW5pLTMtNi1mbGFzaC0zLTUtZmxhc2gtbGl0ZS0zLTUtZmxhc2gtY3liZXIlMkYlN0NHZW1pbmklMjAzLjYlMjBGbGFzaCUyQyUyMDMuNSUyMEZsYXNoLUxpdGUlMkMlMjBhbmQlMjAzLjUlMjBGbGFzaCUyMEN5YmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTM0MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNSUzQTE3JTNBMTYlMjAlMkIwMDAw",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "pubDate": "Tue, 21 Jul 2026 15:17:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmV4ZS5kZXYlMkZjbGF1ZGUtaXMtbm90LWEtY29tcGlsZXIlN0NodHRwcyUzQSUyRiUyRmJsb2cuZXhlLmRldiUyRmNsYXVkZS1pcy1ub3QtYS1jb21waWxlciU3Q0NsYXVkZSUyMElzJTIwTm90JTIwYSUyMENvbXBpbGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTMwNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNCUzQTQ5JTNBMTglMjAlMkIwMDAw",
+      "title": "Claude Is Not a Compiler",
+      "pubDate": "Tue, 21 Jul 2026 14:49:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA3JTJGYXBwbGUtZGVmZWF0cy1saWFiaWxpdHktZm9yLW5vdC1zY2FubmluZy1pY2xvdWQtZm9yLWNzYW0tYnV0LXRoZS1qdWRnZS13YXMtbm90LXBsZWFzZWQtYW15LXYtYXBwbGUuaHRtJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA3JTJGYXBwbGUtZGVmZWF0cy1saWFiaWxpdHktZm9yLW5vdC1zY2FubmluZy1pY2xvdWQtZm9yLWNzYW0tYnV0LXRoZS1qdWRnZS13YXMtbm90LXBsZWFzZWQtYW15LXYtYXBwbGUuaHRtJTdDQXBwbGUlMjBEZWZlYXRzJTIwTGlhYmlsaXR5JTIwZm9yJTIwTm90JTIwU2Nhbm5pbmclMjBpQ2xvdWQlMjBmb3IlMjBDU0FNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTI4NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNCUzQTMxJTNBNDElMjAlMkIwMDAw",
+      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+      "pubDate": "Tue, 21 Jul 2026 14:31:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGNqcy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wY2pzLm9yZyUyRiU3Q1BDanMlMjBNYWNoaW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTkyMzIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTMlM0E0OCUzQTM1JTIwJTJCMDAwMA",
+      "title": "PCjs Machines",
+      "pubDate": "Tue, 21 Jul 2026 13:48:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY291cC5ibG9nJTJGMjAxOSUyRjExJTJGMjIlMkZjb2xsZWN0aW9ucy13aHktYXJlLXRoZXJlLW5vLWVtcGlyZXMtaW4tYWdlLW9mLWVtcGlyZXMlMkYlN0NodHRwcyUzQSUyRiUyRmFjb3VwLmJsb2clMkYyMDE5JTJGMTElMkYyMiUyRmNvbGxlY3Rpb25zLXdoeS1hcmUtdGhlcmUtbm8tZW1waXJlcy1pbi1hZ2Utb2YtZW1waXJlcyUyRiU3Q1doeSUyMEFyZSUyMFRoZXJlJTIwTm8lMjBFbXBpcmVzJTIwaW4lMjBBZ2UlMjBvZiUyMEVtcGlyZXMlM0YlMjAoMjAxOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5MjMxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDEzJTNBNDglM0EwNyUyMCUyQjAwMDA",
+      "title": "Why Are There No Empires in Age of Empires? (2019)",
+      "pubDate": "Tue, 21 Jul 2026 13:48:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
     }
   ]
