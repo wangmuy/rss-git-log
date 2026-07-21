@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-19",
     "newestItemDate": "2026-07-19",
-    "itemCount": 35,
-    "generatedAt": "2026-07-20T04:09:00.001Z"
+    "itemCount": 36,
+    "generatedAt": "2026-07-21T10:34:54.752Z"
   },
   "items": [
     {
@@ -216,6 +216,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRmN1c3RvbS1kZWVwLXJlc2VhcmNoLXBpcGVsaW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRmN1c3RvbS1kZWVwLXJlc2VhcmNoLXBpcGVsaW5lJTJGJTdDSSUyMGJ1cm5lZCUyMGFsbCUyMG15JTIwdG9rZW5zJTIwcmVzZWFyY2hpbmclMjBob3clMjB0byUyMHNhdmUlMjB0b2tlbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk2NzM1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE5JTIwSnVsJTIwMjAyNiUyMDEyJTNBMDElM0E1MyUyMCUyQjAwMDA",
       "title": "I burned all my tokens researching how to save tokens",
       "pubDate": "Sun, 19 Jul 2026 12:01:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWlsZHdpdGh0cmFjdC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmJ1aWxkd2l0aHRyYWN0LmNvbSUyRiU3Q1Bvc3Rtb3J0ZW0lMjBvZiUyMGElMjBCcml0aXNoJTIwU3RhcnR1cCUzQSUyMFRyYWN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5Njg0NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOSUyMEp1bCUyMDIwMjYlMjAxNCUzQTI1JTNBMzglMjAlMkIwMDAw",
+      "title": "Postmortem of a British Startup: Tract",
+      "pubDate": "Sun, 19 Jul 2026 14:25:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-19-0.json"
     }
   ]

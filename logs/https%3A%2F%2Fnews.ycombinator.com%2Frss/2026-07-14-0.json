@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-14",
     "newestItemDate": "2026-07-14",
-    "itemCount": 73,
-    "generatedAt": "2026-07-20T18:23:58.202Z"
+    "itemCount": 74,
+    "generatedAt": "2026-07-21T10:34:54.753Z"
   },
   "items": [
     {
@@ -444,6 +444,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwZWFjZWZ1bC5iZWFyYmxvZy5kZXYlN0NodHRwcyUzQSUyRiUyRnBlYWNlZnVsLmJlYXJibG9nLmRldiUyRiU3Q0klMjB0dXJuZWQlMjBteSUyMGJlYXJibG9nJTIwaW50byUyMGElMjB0ZXh0JTIwYmFzZWQlMjBhZHZlbnR1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkwMjYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE0JTIwSnVsJTIwMjAyNiUyMDA1JTNBMjMlM0E0NyUyMCUyQjAwMDA",
       "title": "I turned my bearblog into a text based adventure",
       "pubDate": "Tue, 14 Jul 2026 05:23:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21waWxhZGUubmV0JTJGYmxvZyUyRnRlcm5hcnktcGFja2luZyU3Q2h0dHBzJTNBJTJGJTJGY29tcGlsYWRlLm5ldCUyRmJsb2clMkZ0ZXJuYXJ5LXBhY2tpbmclN0NIb3clMjB0byUyMHBhY2slMjB0ZXJuYXJ5JTIwbnVtYmVycyUyMGluJTIwOC1iaXQlMjBieXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTEyODEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTQlMjBKdWwlMjAyMDI2JTIwMjAlM0E1MyUzQTUyJTIwJTJCMDAwMA",
+      "title": "How to pack ternary numbers in 8-bit bytes",
+      "pubDate": "Tue, 14 Jul 2026 20:53:52 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-14-0.json"
     }
   ]
