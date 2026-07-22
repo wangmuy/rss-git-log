@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 3,
-    "generatedAt": "2026-07-22T03:51:46.311Z"
+    "itemCount": 8,
+    "generatedAt": "2026-07-22T10:35:26.353Z"
   },
   "items": [
     {
@@ -24,6 +24,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZidWlsZGtpdGUuZW5naW5lZXJpbmclMkZob3ctYS1mbGFreS10ZXN0LWV4cG9zZWQtYS1yZWRpcy11c2UtYWZ0ZXItZnJlZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYnVpbGRraXRlLmVuZ2luZWVyaW5nJTJGaG93LWEtZmxha3ktdGVzdC1leHBvc2VkLWEtcmVkaXMtdXNlLWFmdGVyLWZyZWUlMkYlN0NBJTIwZmxha3klMjB0ZXN0JTIwZXhwb3NlZCUyMGElMjBSZWRpcyUyMGNsaWVudCUyMHVzZS1hZnRlci1mcmVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDAyNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAwMCUzQTI3JTNBMzUlMjAlMkIwMDAw",
       "title": "A flaky test exposed a Redis client use-after-free",
       "pubDate": "Wed, 22 Jul 2026 00:27:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlYmVyZy5vcmclMkZDb2RlYmVyZyUyRm9yZyUyRnB1bGxzJTJGMTI1MyU3Q2h0dHBzJTNBJTJGJTJGY29kZWJlcmcub3JnJTJGQ29kZWJlcmclMkZvcmclMkZwdWxscyUyRjEyNTMlN0NDb2RlYmVyZyUzQSUyMFRvVSUyMGV4dGVuc2lvbiUyMHRvJTIwcHJvaGliaXQlMjBMTE0tZXh0cnVzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDAzNDY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjIlMjBKdWwlMjAyMDI2JTIwMDglM0EyNyUzQTEyJTIwJTJCMDAwMA",
+      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+      "pubDate": "Wed, 22 Jul 2026 08:27:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW5nbGkuZGV2JTJGcG9zdHMlMkZtY3Atc2VydmVycy1mYWlsaW5nLWFnZW50cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0ZW5nbGkuZGV2JTJGcG9zdHMlMkZtY3Atc2VydmVycy1mYWlsaW5nLWFnZW50cy5odG1sJTdDSSUyMGdyYWRlZCUyMDM2JTIwcG9wdWxhciUyME1DUCUyMHNlcnZlcnMlMjBvbiUyMGFnZW50JTIwdXNhYmlsaXR5LiUyMEElMjB0aGlyZCUyMGdvdCUyMGElMjBEJTIwb3IlMjBGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDIzNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAwNSUzQTUxJTNBNTAlMjAlMkIwMDAw",
+      "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+      "pubDate": "Wed, 22 Jul 2026 05:51:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWltLnByYW1pdC5nZyUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpbS5wcmFtaXQuZ2clMkYlN0NTaG93JTIwSE4lM0ElMjBBJTIwbmV3JTIwa2luZCUyMG9mJTIwRlBTJTIwYWltJTIwdHJhaW5lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDAyMjc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjIlMjBKdWwlMjAyMDI2JTIwMDUlM0EzOSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "pubDate": "Wed, 22 Jul 2026 05:39:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2hyaXNsZ2FycnklMkZBcG9sbG8tMTElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZjaHJpc2xnYXJyeSUyRkFwb2xsby0xMSU3Q09yaWdpbmFsJTIwQXBvbGxvJTIwMTElMjBHdWlkYW5jZSUyMENvbXB1dGVyJTIwc291cmNlJTIwY29kZSUyMGZvciUyMGNvbW1hbmQlMjBhbmQlMjBsdW5hciUyMG1vZHVsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAwMjE2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDA1JTNBMTglM0EwOCUyMCUyQjAwMDA",
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "pubDate": "Wed, 22 Jul 2026 05:18:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXRlLnNoJTJGJTdDaHR0cHMlM0ElMkYlMkZsYXRlLnNoJTJGJTdDTGF0ZS5zaCUyMCVFMiU4MCU5MyUyMGElMjBjb21tYW5kLWxpbmUlMjBDbHViaG91c2UlMjBmb3IlMjBjb21wdXRlciUyMHBlb3BsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDAxMTI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjIlMjBKdWwlMjAyMDI2JTIwMDIlM0EzMiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Late.sh – a command-line Clubhouse for computer people",
+      "pubDate": "Wed, 22 Jul 2026 02:32:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]
