@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-21",
     "newestItemDate": "2026-07-21",
-    "itemCount": 24,
-    "generatedAt": "2026-07-21T17:48:20.219Z"
+    "itemCount": 43,
+    "generatedAt": "2026-07-22T03:51:46.311Z"
   },
   "items": [
     {
@@ -150,6 +150,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhY291cC5ibG9nJTJGMjAxOSUyRjExJTJGMjIlMkZjb2xsZWN0aW9ucy13aHktYXJlLXRoZXJlLW5vLWVtcGlyZXMtaW4tYWdlLW9mLWVtcGlyZXMlMkYlN0NodHRwcyUzQSUyRiUyRmFjb3VwLmJsb2clMkYyMDE5JTJGMTElMkYyMiUyRmNvbGxlY3Rpb25zLXdoeS1hcmUtdGhlcmUtbm8tZW1waXJlcy1pbi1hZ2Utb2YtZW1waXJlcyUyRiU3Q1doeSUyMEFyZSUyMFRoZXJlJTIwTm8lMjBFbXBpcmVzJTIwaW4lMjBBZ2UlMjBvZiUyMEVtcGlyZXMlM0YlMjAoMjAxOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5MjMxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDEzJTNBNDglM0EwNyUyMCUyQjAwMDA",
       "title": "Why Are There No Empires in Age of Empires? (2019)",
       "pubDate": "Tue, 21 Jul 2026 13:48:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbWdyZXkubmV0JTJGMjAyNiUyRjA3JTJGMjElMkZpdHMtYS1zaGFtZS13aGF0cy1oYXBwZW5lZC10by1yYWRpby0zJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmppbWdyZXkubmV0JTJGMjAyNiUyRjA3JTJGMjElMkZpdHMtYS1zaGFtZS13aGF0cy1oYXBwZW5lZC10by1yYWRpby0zJTJGJTdDSXQncyUyMGElMjBzaGFtZSUyMHdoYXQncyUyMGhhcHBlbmVkJTIwdG8lMjByYWRpbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk5ODI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMjMlM0EzMyUzQTMxJTIwJTJCMDAwMA",
+      "title": "It's a shame what's happened to radio",
+      "pubDate": "Tue, 21 Jul 2026 23:33:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaXJld29ya3MuYWklMkZibG9nJTJGa2ltaWszLWZhYmxlJTdDaHR0cHMlM0ElMkYlMkZmaXJld29ya3MuYWklMkZibG9nJTJGa2ltaWszLWZhYmxlJTdDS2ltaSUyMEszJTIwSXMlMjBDb21wZXRpdGl2ZSUyMHdpdGglMjBGYWJsZSUzQiUyMEtpbWklMjBLMyUyMGFuZCUyMEZhYmxlJTIwSXMlMjBTb1RBJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTkyOTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAyMiUzQTM1JTNBMjQlMjAlMkIwMDAw",
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "pubDate": "Tue, 21 Jul 2026 22:35:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2V0Y29tcHV0YWJsZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5nZXRjb21wdXRhYmxlLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMENvbXB1dGFibGUlMjAlRTIlODAlOTMlMjBCdXklMkMlMjBzZWxsJTJDJTIwYW5kJTIwcmVkZWVtJTIwR1BVJTIwZm9yJTIwdGhlJTIwZXhhY3QlMjB3ZWVrcyUyMHlvdSUyMHdhbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5ODgyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDIxJTNBNDglM0ExOSUyMCUyQjAwMDA",
+      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+      "pubDate": "Tue, 21 Jul 2026 21:48:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaS5nb29nbGUuZGV2JTJGZ2VtaW5pLWFwaSUyRmRvY3MlMkZsYXRlc3QtbW9kZWwlN0NodHRwcyUzQSUyRiUyRmFpLmdvb2dsZS5kZXYlMkZnZW1pbmktYXBpJTJGZG9jcyUyRmxhdGVzdC1tb2RlbCU3Q0dlbWluaSUyMGxhc3QlMjBtb2RlbHMlM0ElMjB0ZW1wZXJhdHVyZSUyQyUyMHRvcF9wJTJDJTIwYW5kJTIwdG9wX2slMjBhcmUlMjBkZXByZWNhdGVkJTIwYW5kJTIwaWdub3JlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk4NjA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMjElM0EyNyUzQTU0JTIwJTJCMDAwMA",
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "pubDate": "Tue, 21 Jul 2026 21:27:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHJ5YWkuZGV2JTJGYmxvZyUyRmFpLWRyYXdpbmctYXJlbmEtY29sb3JlZC1wZW5jaWxzLWNsYXVkZS1ncHQtZ3JvayU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRyeWFpLmRldiUyRmJsb2clMkZhaS1kcmF3aW5nLWFyZW5hLWNvbG9yZWQtcGVuY2lscy1jbGF1ZGUtZ3B0LWdyb2slN0MlMjJEcmF3aW5nJTIyJTIwdGhlJTIwTW9uYSUyMExpc2ElMjB3aXRoJTIwR1BULTUuNiUyQyUyMENsYXVkZSUyQyUyMEdlbWluaSUyQyUyMGFuZCUyMEdyb2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5ODQwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDIxJTNBMTMlM0EyMCUyMCUyQjAwMDA",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "pubDate": "Tue, 21 Jul 2026 21:13:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA3JTJGMjElMkZhLWRpZ2VzdGlvbi1vZi10aGUtamFjb2JpYW4tY29uamVjdHVyZS1jb3VudGVyZXhhbXBsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVycnl0YW8ud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwNyUyRjIxJTJGYS1kaWdlc3Rpb24tb2YtdGhlLWphY29iaWFuLWNvbmplY3R1cmUtY291bnRlcmV4YW1wbGUlMkYlN0NBJTIwZGlnZXN0aW9uJTIwb2YlMjB0aGUlMjBKYWNvYmlhbiUyMGNvbmplY3R1cmUlMjBjb3VudGVyZXhhbXBsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk4MzYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMjElM0EwOSUzQTI1JTIwJTJCMDAwMA",
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "pubDate": "Tue, 21 Jul 2026 21:09:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZodWdnaW5nLWZhY2UtbW9kZWwtZXZhbHVhdGlvbi1zZWN1cml0eS1pbmNpZGVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGaHVnZ2luZy1mYWNlLW1vZGVsLWV2YWx1YXRpb24tc2VjdXJpdHktaW5jaWRlbnQlMkYlN0NPcGVuQUklMjBhbmQlMjBIdWdnaW5nJTIwRmFjZSUyMGFkZHJlc3MlMjBzZWN1cml0eSUyMGluY2lkZW50JTIwZHVyaW5nJTIwbW9kZWwlMjBldmFsdWF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTc1NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAyMCUzQTA5JTNBNTIlMjAlMkIwMDAw",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "pubDate": "Tue, 21 Jul 2026 20:09:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHJhZGFyLmNvbSUyRnZwbiUyRnZwbi1wcml2YWN5LXNlY3VyaXR5JTJGdnBucy1hcmUtbGF3ZnVsLXRlY2huaWNhbC10b29scy1zYXlzLWV1LWNvdXJ0LWluLWxhbmRtYXJrLWFubmUtZnJhbmstY29weXJpZ2h0LXJ1bGluZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRlY2hyYWRhci5jb20lMkZ2cG4lMkZ2cG4tcHJpdmFjeS1zZWN1cml0eSUyRnZwbnMtYXJlLWxhd2Z1bC10ZWNobmljYWwtdG9vbHMtc2F5cy1ldS1jb3VydC1pbi1sYW5kbWFyay1hbm5lLWZyYW5rLWNvcHlyaWdodC1ydWxpbmclN0MnVlBOcyUyMGFyZSUyMGxhd2Z1bCUyMHRlY2huaWNhbCUyMHRvb2xzJTJDJyUyMHNheXMlMjBFVSUyMENvdXJ0JTIwaW4lMjBsYW5kbWFyayUyMGNvcHlyaWdodCUyMHJ1bGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk3MjIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTklM0E0MyUzQTU5JTIwJTJCMDAwMA",
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "pubDate": "Tue, 21 Jul 2026 19:43:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmFpLWFudGhyb3BpYy1jb3B5cmlnaHQtc2V0dGxlbWVudC1jbGF1ZGUtYm9va3MtYmFydHotNzRiMTQwNDQ0MDIzODk4YWViYTg1NzliNmU5ZjBkNjMlN0NodHRwcyUzQSUyRiUyRmFwbmV3cy5jb20lMkZhcnRpY2xlJTJGYWktYW50aHJvcGljLWNvcHlyaWdodC1zZXR0bGVtZW50LWNsYXVkZS1ib29rcy1iYXJ0ei03NGIxNDA0NDQwMjM4OThhZWJhODU3OWI2ZTlmMGQ2MyU3Q0p1ZGdlJTIwYXBwcm92ZXMlMjAlMjQxLjVCJTIwQW50aHJvcGljJTIwc2V0dGxlbWVudCUyMGZvciUyMHBpcmF0ZWQlMjBib29rcyUyMHVzZWQlMjB0byUyMHRyYWluJTIwQ2xhdWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTY2NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxOSUzQTA0JTNBMzklMjAlMkIwMDAw",
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "pubDate": "Tue, 21 Jul 2026 19:04:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZHMub3BlbmFpLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGYWRzLm9wZW5haS5jb20lMkYlN0NBZHZlcnRpc2UlMjBpbiUyMENoYXRHUFQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5NjU3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDE4JTNBNTglM0E0NCUyMCUyQjAwMDA",
+      "title": "Advertise in ChatGPT",
+      "pubDate": "Tue, 21 Jul 2026 18:58:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmVlaW5rLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZnJlZWluay5vcmclMkYlN0NGcmVlSW5rJTNBJTIwT3BlbiUyMGVjb3N5c3RlbSUyMGZvciUyMGUtcmVhZGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk2MzE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTglM0EzOSUzQTA2JTIwJTJCMDAwMA",
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "pubDate": "Tue, 21 Jul 2026 18:39:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmd1aWRlJTJGY2VydGlmaWNhdGlvbnMlMkZhcHBsZS1wcml2YXRlLWNsb3VkLWNvbXB1dGUtc29jLTMtYXVkaXQtYXBjOTVhMzFiOWQ4JTJGd2ViJTdDaHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmd1aWRlJTJGY2VydGlmaWNhdGlvbnMlMkZhcHBsZS1wcml2YXRlLWNsb3VkLWNvbXB1dGUtc29jLTMtYXVkaXQtYXBjOTVhMzFiOWQ4JTJGd2ViJTdDQXBwbGUlMjBQcml2YXRlJTIwQ2xvdWQlMjBDb21wdXRlJTIwU29DJTIwMyUyMGF1ZGl0JTIwcmVwb3J0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk1Nzk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTclM0E1OCUzQTIxJTIwJTJCMDAwMA",
+      "title": "Apple Private Cloud Compute SoC 3 audit reports",
+      "pubDate": "Tue, 21 Jul 2026 17:58:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb29sc2lkZS5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy1sYWd1bmEtcy0yLTElN0NodHRwcyUzQSUyRiUyRnBvb2xzaWRlLmFpJTJGYmxvZyUyRmludHJvZHVjaW5nLWxhZ3VuYS1zLTItMSU3Q0xhZ3VuYSUyMFMlMjAyLjElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5NTI2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDE3JTNBMTclM0EwNiUyMCUyQjAwMDA",
+      "title": "Laguna S 2.1",
+      "pubDate": "Tue, 21 Jul 2026 17:17:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW50aW1ld2lyZS5jb20lMkZhcnRpY2xlJTJGamFjay1kb3JzZXktYmxvY2stYnV6ei10ZWFtLWNoYXQtYWktYWdlbnRzLWdpdCU3Q2h0dHBzJTNBJTJGJTJGcnVudGltZXdpcmUuY29tJTJGYXJ0aWNsZSUyRmphY2stZG9yc2V5LWJsb2NrLWJ1enotdGVhbS1jaGF0LWFpLWFnZW50cy1naXQlN0NKYWNrJTIwRG9yc2V5JTIwbGF1bmNoZXMlMjBCdXp6JTIwdG8lMjBjb21iaW5lJTIwdGVhbSUyMGNoYXQlMkMlMjBBSSUyMGFnZW50cyUyMGFuZCUyMEdpdCUyMGhvc3RpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5NTIxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDE3JTNBMTQlM0EwNiUyMCUyQjAwMDA",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "pubDate": "Tue, 21 Jul 2026 17:14:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5oZWxwLnJvYmxveC5jb20lMkZoYyUyRmVuLXVzJTJGYXJ0aWNsZXMlMkY0OTY0ODkzOTk4NDkxNi1BbmRyb2lkLVJlbW90ZS1BdHRlc3RhdGlvbiU3Q2h0dHBzJTNBJTJGJTJGZW4uaGVscC5yb2Jsb3guY29tJTJGaGMlMkZlbi11cyUyRmFydGljbGVzJTJGNDk2NDg5Mzk5ODQ5MTYtQW5kcm9pZC1SZW1vdGUtQXR0ZXN0YXRpb24lN0NSb2Jsb3glMjBPZmZpY2lhbGx5JTIwU3VwcG9ydHMlMjBHcmFwaGVuZU9TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTQ3MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNiUzQTM5JTNBMzAlMjAlMkIwMDAw",
+      "title": "Roblox Officially Supports GrapheneOS",
+      "pubDate": "Tue, 21 Jul 2026 16:39:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3Blbi1hbmQtYXN5bmMlMkZtY3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvcGVuLWFuZC1hc3luYyUyRm1jcCU3Q1Nob3clMjBITiUzQSUyMEFuJTIwTUNQJTIwc2VydmVyJTIwdGhhdCUyMHR1cm5zJTIwYXN5bmMtd29yayUyMHByYWN0aWNlcyUyMGludG8lMjB0b29scyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk0MTg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTYlM0EwNiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Show HN: An MCP server that turns async-work practices into tools",
+      "pubDate": "Tue, 21 Jul 2026 16:06:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjYXN0bGVtYXAuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGVjYXN0bGVtYXAuY29tJTJGJTdDTWFwJTIwb2YlMjB0aGUlMjB3b3JsZCdzJTIwZ3JlYXQlMjBjYXN0bGVzJTIwYW5kJTIwZm9ydHJlc3NlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk0MTc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTYlM0EwNSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Map of the world's great castles and fortresses",
+      "pubDate": "Tue, 21 Jul 2026 16:05:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlMzYwLnlhbGUuZWR1JTJGZGlnZXN0JTJGYmVuaW4tY29yYWwtcmVlZiU3Q2h0dHBzJTNBJTJGJTJGZTM2MC55YWxlLmVkdSUyRmRpZ2VzdCUyRmJlbmluLWNvcmFsLXJlZWYlN0NMb25nJTIwcHJlc3VtZWQlMjBkZWFkJTJDJTIwYSUyMHRocml2aW5nJTIwY29yYWwlMjByZWVmJTIwaXMlMjBkaXNjb3ZlcmVkJTIwaW4lMjBXZXN0JTIwQWZyaWNhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTM4MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNSUzQTQxJTNBNTElMjAlMkIwMDAw",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "pubDate": "Tue, 21 Jul 2026 15:41:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA3JTJGYXBwbGUtZGVmZWF0cy1saWFiaWxpdHktZm9yLW5vdC1zY2FubmluZy1pY2xvdWQtZm9yLWNzYW0tYnV0LXRoZS1qdWRnZS13YXMtbm90LXBsZWFzZWQtYW15LXYtYXBwbGUuaHRtJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA3JTJGYXBwbGUtZGVmZWF0cy1saWFiaWxpdHktZm9yLW5vdC1zY2FubmluZy1pY2xvdWQtZm9yLWNzYW0tYnV0LXRoZS1qdWRnZS13YXMtbm90LXBsZWFzZWQtYW15LXYtYXBwbGUuaHRtJTdDQXBwbGUlMjBkZWZlYXRzJTIwbGlhYmlsaXR5JTIwZm9yJTIwbm90JTIwc2Nhbm5pbmclMjBpQ2xvdWQlMjBmb3IlMjBDU0FNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTI4NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNCUzQTMxJTNBNDElMjAlMkIwMDAw",
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
+      "pubDate": "Tue, 21 Jul 2026 14:31:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
     }
   ]
