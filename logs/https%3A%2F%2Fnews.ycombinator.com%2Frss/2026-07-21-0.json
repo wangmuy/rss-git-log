@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-21",
     "newestItemDate": "2026-07-21",
-    "itemCount": 46,
-    "generatedAt": "2026-07-23T10:36:03.760Z"
+    "itemCount": 47,
+    "generatedAt": "2026-07-23T17:50:00.264Z"
   },
   "items": [
     {
@@ -282,6 +282,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZicmlnaHRzZWMuY29tJTJGcmVzZWFyY2glMkZkZXRlY3RpbmctYW5zaS1lc2NhcGUtc2VxdWVuY2UtaW5qZWN0aW9uLWluLW1jcC1zZXJ2ZXJzLXdpdGgtZGFzdCUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJpZ2h0c2VjLmNvbSUyRnJlc2VhcmNoJTJGZGV0ZWN0aW5nLWFuc2ktZXNjYXBlLXNlcXVlbmNlLWluamVjdGlvbi1pbi1tY3Atc2VydmVycy13aXRoLWRhc3QlMkYlN0NBTlNJJTIwZXNjYXBlJTIwaW5qZWN0aW9uJTIwaW4lMjBNQ1AlMjBzZXJ2ZXJzJTNBJTIwSGlkZGVuJTIwZnJvbSUyMGh1bWFucyUyQyUyMHZpc2libGUlMjB0byUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODkwMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAwNyUzQTAxJTNBMjQlMjAlMkIwMDAw",
       "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
       "pubDate": "Tue, 21 Jul 2026 07:01:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bml0eS5jb20lMkZibG9nJTJGbWVldC10aGUtdW5pdHktY2xpJTdDaHR0cHMlM0ElMkYlMkZ1bml0eS5jb20lMkZibG9nJTJGbWVldC10aGUtdW5pdHktY2xpJTdDVGhlJTIwVW5pdHklMjBDTEklM0ElMjBtYW5hZ2UlMjBVbml0eSUyMGZyb20lMjB5b3VyJTIwdGVybWluYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5NTcxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDE3JTNBNTElM0E1NyUyMCUyQjAwMDA",
+      "title": "The Unity CLI: manage Unity from your terminal",
+      "pubDate": "Tue, 21 Jul 2026 17:51:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
     }
   ]

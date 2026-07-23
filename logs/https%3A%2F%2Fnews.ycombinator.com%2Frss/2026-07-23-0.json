@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-23",
     "newestItemDate": "2026-07-23",
-    "itemCount": 7,
-    "generatedAt": "2026-07-23T10:36:03.759Z"
+    "itemCount": 33,
+    "generatedAt": "2026-07-23T17:50:00.263Z"
   },
   "items": [
     {
@@ -48,6 +48,162 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvZGViZXJnLm9yZyUyRnByb3RlY3Rpbmctb3VyLWZsb3NzLWNvbW1vbnMtZnJvbS1sbG1zLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cuY29kZWJlcmcub3JnJTJGcHJvdGVjdGluZy1vdXItZmxvc3MtY29tbW9ucy1mcm9tLWxsbXMuaHRtbCU3Q1Byb3RlY3RpbmclMjBvdXIlMjBGTE9TUyUyMGNvbW1vbnMlMjBmcm9tJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDE1NjM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMDElM0ExNCUzQTUzJTIwJTJCMDAwMA",
       "title": "Protecting our FLOSS commons from LLMs",
       "pubDate": "Thu, 23 Jul 2026 01:14:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGVwaGVuZm9sbG93cy5jb20lMkZwJTJGd2hhdC1qdXN0LWhhcHBlbmVkLXRvLXRoZW51bWJlcnNjb20tc2hvdWxkLXdvcnJ5LXVzLWFsbCU3Q2h0dHBzJTNBJTJGJTJGc3RlcGhlbmZvbGxvd3MuY29tJTJGcCUyRndoYXQtanVzdC1oYXBwZW5lZC10by10aGVudW1iZXJzY29tLXNob3VsZC13b3JyeS11cy1hbGwlN0NXaGF0JTIwaGFwcGVuZWQlMjB0byUyMFRoZU51bWJlcnMuY29tJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjQ2OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNiUzQTUzJTNBMzMlMjAlMkIwMDAw",
+      "title": "What happened to TheNumbers.com",
+      "pubDate": "Thu, 23 Jul 2026 16:53:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b21iZWRvci5kZXYlMkZhcmd1bWVudHMtYWdhaW5zdC1vcGVuLXNvdXJjZS1haS1hcmUtdmVyeS1iYWQlMkYlN0NodHRwcyUzQSUyRiUyRnRvbWJlZG9yLmRldiUyRmFyZ3VtZW50cy1hZ2FpbnN0LW9wZW4tc291cmNlLWFpLWFyZS12ZXJ5LWJhZCUyRiU3Q1RoZSUyMGFyZ3VtZW50cyUyMGFnYWluc3QlMjBvcGVuJTIwc291cmNlJTIwQUklMjBhcmUlMjBiYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyNDY0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE2JTNBNDklM0E1NyUyMCUyQjAwMDA",
+      "title": "The arguments against open source AI are bad",
+      "pubDate": "Thu, 23 Jul 2026 16:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI0NjIwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI0NjIwJTdDTGF1bmNoJTIwSE4lM0ElMjBTY3JlZW5waXBlJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMFBvd2VyJTIweW91ciUyMGFnZW50cyUyMGJ5JTIweW91ciUyMDI0JTJGNyUyMHNjcmVlbiUyMHJlY29yZGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI0NjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTYlM0E0OCUzQTM4JTIwJTJCMDAwMA",
+      "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+      "pubDate": "Thu, 23 Jul 2026 16:48:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuamRrLm9yZyUyRmplcHMlMkY1NDAlN0NodHRwcyUzQSUyRiUyRm9wZW5qZGsub3JnJTJGamVwcyUyRjU0MCU3Q0pFUCUyMDU0MCUzQSUyMFNpbXBsZSUyMEpTT04lMjBBUEklMjAoTm93JTIwaW4lMjBJbmN1YmF0b3IpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjM4MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNiUzQTAxJTNBMDIlMjAlMkIwMDAw",
+      "title": "JEP 540: Simple JSON API (Now in Incubator)",
+      "pubDate": "Thu, 23 Jul 2026 16:01:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ29ucmFkcWglMkZzY3JhcGVteWNoYXRzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ29ucmFkcWglMkZzY3JhcGVteWNoYXRzJTdDRnJlZSUyMHdheSUyMHRvJTIwZ2V0JTIweW91ciUyMGRhdGElMjBvdXQlMjBvZiUyMENoYXRHUFQlMjBCdXNpbmVzcyUyMGFjY291bnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjM0ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNSUzQTQ1JTNBNTElMjAlMkIwMDAw",
+      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "pubDate": "Thu, 23 Jul 2026 15:45:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb25lY2xpJTJGb25lY2xpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb25lY2xpJTJGb25lY2xpJTdDU2hvdyUyMEhOJTNBJTIwT25lQ0xJJTIwJUUyJTgwJTkzJTIwT1NTJTIwY3JlZGVudGlhbCUyMGdhdGV3YXklMjB0aGF0JTIwa2VlcHMlMjBzZWNyZXRzJTIwb3V0JTIwb2YlMjBBSSUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIzNDI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTUlM0E0MiUzQTQwJTIwJTJCMDAwMA",
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "pubDate": "Thu, 23 Jul 2026 15:42:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHVtYW5sYXllciUyRmFkdmFuY2VkLWNvbnRleHQtZW5naW5lZXJpbmctZm9yLWNvZGluZy1hZ2VudHMlMkZibG9iJTJGbWFpbiUyRndzZmYubWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZodW1hbmxheWVyJTJGYWR2YW5jZWQtY29udGV4dC1lbmdpbmVlcmluZy1mb3ItY29kaW5nLWFnZW50cyUyRmJsb2IlMkZtYWluJTJGd3NmZi5tZCU3Q1doeSUyMFNvZnR3YXJlJTIwRmFjdG9yaWVzJTIwRmFpbCUyMChvciUzQSUyMGhhcm5lc3MlMjBlbmdpbmVlcmluZyUyMGlzJTIwbm90JTIwZW5vdWdoKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIzMDE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTUlM0ExOCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "pubDate": "Thu, 23 Jul 2026 15:18:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9saXRpY28uY29tJTJGbmV3cyUyRjIwMjYlMkYwNyUyRjIyJTJGc3RhcnR1cC1mb3VuZGVycy11cmdlLXRydW1wLW5vdC10by1zaHV0LW9mZi1jaGluZXNlLW9wZW4td2VpZ2h0LWFpLTAxMDA4OTkyJTdDaHR0cHMlM0ElMkYlMkZ3d3cucG9saXRpY28uY29tJTJGbmV3cyUyRjIwMjYlMkYwNyUyRjIyJTJGc3RhcnR1cC1mb3VuZGVycy11cmdlLXRydW1wLW5vdC10by1zaHV0LW9mZi1jaGluZXNlLW9wZW4td2VpZ2h0LWFpLTAxMDA4OTkyJTdDU3RhcnR1cCUyMGZvdW5kZXJzJTIwdXJnZSUyMFUuUy4lMjBnb3Zlcm5tZW50JTIwbm90JTIwdG8lMjBzaHV0JTIwb2ZmJTIwQ2hpbmVzZSUyMG9wZW4lMjB3ZWlnaHQlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIzMDE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTUlM0ExOCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "pubDate": "Thu, 23 Jul 2026 15:18:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGFsbWllci1pbyUyRnBhbG1pZXItcHJvJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGFsbWllci1pbyUyRnBhbG1pZXItcHJvJTdDU2hvdyUyMEhOJTNBJTIwUGFsbWllciUyMFBybyUyMCVFMiU4MCU5MyUyMG9wZW4tc291cmNlJTIwbWFjT1MlMjB2aWRlbyUyMGVkaXRvciUyMGJ1aWx0JTIwZm9yJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMjkxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMTElM0EzNyUyMCUyQjAwMDA",
+      "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
+      "pubDate": "Thu, 23 Jul 2026 15:11:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXBlcnMuc3Nybi5jb20lMkZzb2wzJTJGcGFwZXJzLmNmbSUzRmFic3RyYWN0X2lkJTNENjk1OTY5OSU3Q2h0dHBzJTNBJTJGJTJGcGFwZXJzLnNzcm4uY29tJTJGc29sMyUyRnBhcGVycy5jZm0lM0ZhYnN0cmFjdF9pZCUzRDY5NTk2OTklN0NFbmNyeXB0aW9uJTIwYW5kJTIwR2xvYmFsaXphdGlvbiUyMDE1JTIwWWVhcnMlMjBMYXRlciUzQSUyMEUyRUUlMjBhbmQlMjB0aGUlMjAlMjJHb2luZyUyMERhcmslMjIlMjBEZWJhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMjY2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE0JTNBNTUlM0E0NSUyMCUyQjAwMDA",
+      "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "pubDate": "Thu, 23 Jul 2026 14:55:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGllbWljaGVsLmdpdGh1Yi5pbyUyRkxlYXJuV2ViR1BVJTJGJTdDaHR0cHMlM0ElMkYlMkZlbGllbWljaGVsLmdpdGh1Yi5pbyUyRkxlYXJuV2ViR1BVJTJGJTdDTGVhcm4lMjBXZWJHUFUlMjBmb3IlMjBDJTJCJTJCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjI2NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTU1JTNBMzIlMjAlMkIwMDAw",
+      "title": "Learn WebGPU for C++",
+      "pubDate": "Thu, 23 Jul 2026 14:55:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZWFybm9wZW5nbC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmxlYXJub3BlbmdsLmNvbSUyRiU3Q0xlYXJuJTIwT3BlbkdMJTJDJTIwZXh0ZW5zaXZlJTIwdHV0b3JpYWwlMjByZXNvdXJjZSUyMGZvciUyMGxlYXJuaW5nJTIwTW9kZXJuJTIwT3BlbkdMJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjI2MzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTUzJTNBMzQlMjAlMkIwMDAw",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "pubDate": "Thu, 23 Jul 2026 14:53:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YW1hZmFrdG9yeS5naXRodWIuaW8lMkZ3aGV0dXUlMkYlN0NodHRwcyUzQSUyRiUyRnlhbWFmYWt0b3J5LmdpdGh1Yi5pbyUyRndoZXR1dSUyRiU3Q1Nob3clMjBITiUzQSUyMFdoZXR1dSUyMCVFMiU4MCU5MyUyMGElMjB6ZXJvLWNvbmZpZyUyMGNyb3NzLXNoZWxsJTIwcHJvbXB0JTIwd3JpdHRlbiUyMGluJTIwWmlnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjIzNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTM3JTNBNTQlMjAlMkIwMDAw",
+      "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
+      "pubDate": "Thu, 23 Jul 2026 14:37:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHgyMDI2JTJGUmVsYXlCYXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZseDIwMjYlMkZSZWxheUJhciU3Q1Nob3clMjBITiUzQSUyMG1hY09TJTIwbWVudS1iYXIlMjBtYW5hZ2VyJTIwZm9yJTIwU1NIJTIwcG9ydCUyMGZvcndhcmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjIzMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTMyJTNBNTMlMjAlMkIwMDAw",
+      "title": "Show HN: macOS menu-bar manager for SSH port forwards",
+      "pubDate": "Thu, 23 Jul 2026 14:32:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaDNub2NrJTJGcmVtdXglN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZoM25vY2slMkZyZW11eCU3Q1Nob3clMjBITiUzQSUyMFJlbXV4JTIwJUUyJTgwJTkzJTIwYW4lMjBvcGVuLXNvdXJjZSUyMHRtdXglMjB3b3Jrc3BhY2UlMjBkZXNpZ25lZCUyMGZvciUyMGlQaG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIyMjg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTQlM0EzMSUzQTI2JTIwJTJCMDAwMA",
+      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+      "pubDate": "Thu, 23 Jul 2026 14:31:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWFsc3RlcGhlbnNvbi5zdWJzdGFjay5jb20lMkZwJTJGd3JpdGluZy1ieS1oYW5kLWlzLWdvb2QtZm9yLXlvdXIlN0NodHRwcyUzQSUyRiUyRm5lYWxzdGVwaGVuc29uLnN1YnN0YWNrLmNvbSUyRnAlMkZ3cml0aW5nLWJ5LWhhbmQtaXMtZ29vZC1mb3IteW91ciU3Q1dyaXRpbmclMjBieSUyMGhhbmQlMjBpcyUyMGdvb2QlMjBmb3IlMjB5b3VyJTIwYnJhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMjE1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE0JTNBMjQlM0E0MyUyMCUyQjAwMDA",
+      "title": "Writing by hand is good for your brain",
+      "pubDate": "Thu, 23 Jul 2026 14:24:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0aHVuaW9uLm9yZyUyRmltdS1hd2FyZHMlMkZmaWVsZHMtbWVkYWwlMkZmaWVsZHMtbWVkYWxzLTIwMjYlN0NodHRwcyUzQSUyRiUyRnd3dy5tYXRodW5pb24ub3JnJTJGaW11LWF3YXJkcyUyRmZpZWxkcy1tZWRhbCUyRmZpZWxkcy1tZWRhbHMtMjAyNiU3Q0ZpZWxkcyUyME1lZGFscyUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMjEzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE0JTNBMjMlM0E1MSUyMCUyQjAwMDA",
+      "title": "Fields Medals 2026",
+      "pubDate": "Thu, 23 Jul 2026 14:23:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXFyLmV1JTJGdGlueXJlbmRlcmVyJTJGJTdDaHR0cHMlM0ElMkYlMkZoYXFyLmV1JTJGdGlueXJlbmRlcmVyJTJGJTdDU29mdHdhcmUlMjByZW5kZXJpbmclMjBpbiUyMDUwMCUyMGxpbmVzJTIwb2YlMjBiYXJlJTIwQyUyQiUyQiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIyMDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTQlM0ExNyUzQTQwJTIwJTJCMDAwMA",
+      "title": "Software rendering in 500 lines of bare C++",
+      "pubDate": "Thu, 23 Jul 2026 14:17:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcHVsbHJ1biUyRnB1bGxydW4lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwdWxscnVuJTJGcHVsbHJ1biU3Q1lvdSUyMGNhbiUyMG5vdyUyMHJ1biUyMHNhbWUlMjBPQ0klMjBpbWFnZXMlMjBhcyUyMGNvbnRhaW5lcnMlMjBvciUyMEZpcmVjcmFja2VyJTIwbWljcm9WTXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMTg4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE0JTNBMDglM0EzOSUyMCUyQjAwMDA",
+      "title": "You can now run same OCI images as containers or Firecracker microVMs",
+      "pubDate": "Thu, 23 Jul 2026 14:08:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucnR4LmNvbSUyRm5ld3MlMkZuZXdzLWNlbnRlciUyRjIwMjYlMkYwNyUyRjIxJTJGcnR4cy1wcmF0dC13aGl0bmV5LWNhbmFkYS1hZHZhbmNlcy1oeWJyaWQtZWxlY3RyaWMtdGVjaG5vbG9neS1kZXZlbG9wbWVudCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJ0eC5jb20lMkZuZXdzJTJGbmV3cy1jZW50ZXIlMkYyMDI2JTJGMDclMkYyMSUyRnJ0eHMtcHJhdHQtd2hpdG5leS1jYW5hZGEtYWR2YW5jZXMtaHlicmlkLWVsZWN0cmljLXRlY2hub2xvZ3ktZGV2ZWxvcG1lbnQlN0NIeWJyaWQtRWxlY3RyaWMlMjBBaWNyYWZ0JTIwRW5naW5lJTIwVGFyZ2V0aW5nJTIwMzAlMjUlMjBGdWVsJTIwRWZmaWNpZW5jeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIxODY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTQlM0EwNyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "pubDate": "Thu, 23 Jul 2026 14:07:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjA2YmZkMTA3JTJGZW1hY3MtaXMtYS1saXNwYm9hcmQlMkYlN0NodHRwcyUzQSUyRiUyRmVuLmFuZHJvcy5kZXYlMkZibG9nJTJGMDZiZmQxMDclMkZlbWFjcy1pcy1hLWxpc3Bib2FyZCUyRiU3Q0VtYWNzJTIwSXMlMjBhJTIwTGlzcGJvYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjE3ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxNCUzQTAyJTNBNDUlMjAlMkIwMDAw",
+      "title": "Emacs Is a Lispboard",
+      "pubDate": "Thu, 23 Jul 2026 14:02:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXNvLm9yZyUyRnB1YmxpYyUyRm5ld3MlMkZlc28yNjEwJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZXNvLm9yZyUyRnB1YmxpYyUyRm5ld3MlMkZlc28yNjEwJTJGJTdDQXN0cm9ub21lcnMlMjBtYXklMjBoYXZlJTIwZm91bmQlMjB0aGUlMjBmaXJzdCUyMGV4b21vb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMTc4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE0JTNBMDIlM0EyNCUyMCUyQjAwMDA",
+      "title": "Astronomers may have found the first exomoon",
+      "pubDate": "Thu, 23 Jul 2026 14:02:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRmphbmFudG9zLnRuZ2wuc2glMkZicm93NmVsJTdDaHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRmphbmFudG9zLnRuZ2wuc2glMkZicm93NmVsJTdDQnJvdzZlbCUzQSUyMEElMjBmdWxsLWZlYXR1cmVkJTIwd2ViJTIwYnJvd3NlciUyMGZvciUyMHRoZSUyMHRlcm1pbmFsJTIwdXNpbmclMjBDaHJvbWl1bSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIxNjQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTMlM0E1NSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Brow6el: A full-featured web browser for the terminal using Chromium",
+      "pubDate": "Thu, 23 Jul 2026 13:55:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbWdyZXkubmV0JTJGMjAyNiUyRjA2JTJGMzAlMkZ3aGF0LWhhcHBlbnMtd2hlbi10aGUtaW5mb3JtYXRpb24tcnVucy1vdXQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuamltZ3JleS5uZXQlMkYyMDI2JTJGMDYlMkYzMCUyRndoYXQtaGFwcGVucy13aGVuLXRoZS1pbmZvcm1hdGlvbi1ydW5zLW91dCUyRiU3Q1doYXQlMjBoYXBwZW5zJTIwd2hlbiUyMHRoZSUyMGluZm9ybWF0aW9uJTIwcnVucyUyMG91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIxNTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTMlM0E0OSUzQTE3JTIwJTJCMDAwMA",
+      "title": "What happens when the information runs out",
+      "pubDate": "Thu, 23 Jul 2026 13:49:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdXR1cmlzbS5jb20lMkZhcnRpZmljaWFsLWludGVsbGlnZW5jZSUyRmFpLWNvbXBhbmllcy1oaWRlLWRlYnQtb2ZmLWJhbGFuY2Utc2hlZXQlN0NodHRwcyUzQSUyRiUyRmZ1dHVyaXNtLmNvbSUyRmFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTJGYWktY29tcGFuaWVzLWhpZGUtZGVidC1vZmYtYmFsYW5jZS1zaGVldCU3Q0FJJTIwQ29tcGFuaWVzJTIwQXJlJTIwVHJ5aW5nJTIwdG8lMjBIaWRlJTIwYSUyMFN0YWdnZXJpbmclMjBBbW91bnQlMjBvZiUyMERlYnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMDk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDEzJTNBMDklM0ExMCUyMCUyQjAwMDA",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "pubDate": "Thu, 23 Jul 2026 13:09:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkYyMiUyRm9wZW5haS1jeWJlcmF0dGFjayUyRiU3Q2h0dHBzJTNBJTJGJTJGc2ltb253aWxsaXNvbi5uZXQlMkYyMDI2JTJGSnVsJTJGMjIlMkZvcGVuYWktY3liZXJhdHRhY2slMkYlN0NPcGVuQUklRTIlODAlOTlzJTIwYWNjaWRlbnRhbCUyMGF0dGFjayUyMGFnYWluc3QlMjBIdWdnaW5nJTIwRmFjZSUyMGlzJTIwc2NpZW5jZSUyMGZpY3Rpb24lMjB0aGF0JTIwaGFwcGVuZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxNTYzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDAxJTNBMTYlM0ExNCUyMCUyQjAwMDA",
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "pubDate": "Thu, 23 Jul 2026 01:16:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
     }
   ]
