@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-20",
     "newestItemDate": "2026-07-20",
-    "itemCount": 51,
-    "generatedAt": "2026-07-22T17:44:19.444Z"
+    "itemCount": 53,
+    "generatedAt": "2026-07-23T03:48:58.404Z"
   },
   "items": [
     {
@@ -312,6 +312,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwc3FsLmFpJTJGJTdDaHR0cHMlM0ElMkYlMkZkZWVwc3FsLmFpJTJGJTdDU2hvdyUyMEhOJTNBJTIwRGVlcFNRTCUyMCVFMiU4MCU5MyUyMEElMjBzZWxmLWhvc3RhYmxlJTIwREJBJTIwYWdlbnQlMjBmb3IlMjBQb3N0Z3JlcyUyMGFuZCUyME15U1FMJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODAyODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAxNSUzQTMyJTNBMjAlMjAlMkIwMDAw",
       "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
       "pubDate": "Mon, 20 Jul 2026 15:32:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXhsZWUlMkZhc2NkcmF3JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXhsZWUlMkZhc2NkcmF3JTdDYXNjZHJhdyUzQSUyMEVkaXRvciUyMGZvciUyMEFTQ0lJJTJGVVRGLTglMjBkaWFncmFtcyUyMChpbiUyMDE0NEZQUyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk4NDUzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIwJTIwSnVsJTIwMjAyNiUyMDIwJTNBMzQlM0E1MiUyMCUyQjAwMDA",
+      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "pubDate": "Mon, 20 Jul 2026 20:34:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXR0amhhbGwuY28udWslMkZwb3N0cyUyRnRha2luZy1vY2FtbC1laW8tZm9yLWEtc3Bpbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXR0amhhbGwuY28udWslMkZwb3N0cyUyRnRha2luZy1vY2FtbC1laW8tZm9yLWEtc3Bpbi5odG1sJTdDVGFraW5nJTIwT0NhbWwlMjBhbmQlMjBFaW8lMjBmb3IlMjBhJTIwU3BpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc1Mzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDclM0EzMiUzQTM5JTIwJTJCMDAwMA",
+      "title": "Taking OCaml and Eio for a Spin",
+      "pubDate": "Mon, 20 Jul 2026 07:32:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
     }
   ]

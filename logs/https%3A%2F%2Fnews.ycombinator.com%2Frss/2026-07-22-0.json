@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 32,
-    "generatedAt": "2026-07-22T17:44:19.443Z"
+    "itemCount": 48,
+    "generatedAt": "2026-07-23T03:48:58.403Z"
   },
   "items": [
     {
@@ -198,6 +198,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZiZWVqLnVzJTJGYmxvZyUyRmRhdGElMkZteXN0ZXJ5LWNvbW1lbnQlMkYlN0NodHRwcyUzQSUyRiUyRmJlZWoudXMlMkZibG9nJTJGZGF0YSUyRm15c3RlcnktY29tbWVudCUyRiU3QzEwJTIwUkVNJTIyXyhDMlNMRkY0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDUzMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxMSUzQTU4JTNBMDklMjAlMkIwMDAw",
       "title": "10 REM\"_(C2SLFF4",
       "pubDate": "Wed, 22 Jul 2026 11:58:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYwNyUyRjE1JTJGc2NpZW5jZSUyRm1lZGljaS1mYW1pbHktbXlzdGVyeS1kbmEtbWFsYXJpYSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI2JTJGMDclMkYxNSUyRnNjaWVuY2UlMkZtZWRpY2ktZmFtaWx5LW15c3RlcnktZG5hLW1hbGFyaWElN0NNZWRpY2klMjBmYW1pbHklMjBteXN0ZXJ5JTIwbWF5JTIwYmUlMjBzb2x2ZWQlMjBhZnRlciUyMG1vcmUlMjB0aGFuJTIwNDAwJTIweWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxNDAwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDIxJTNBNTUlM0EzNCUyMCUyQjAwMDA",
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "pubDate": "Wed, 22 Jul 2026 21:55:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWNtLmFjbS5vcmclMkZibG9nY2FjbSUyRmlmLXlvdS10aGluay15b3UtY2FuLWRvLXJlYWwtd29ybGQtdGV4dC10by1zcWwlMkYlN0NodHRwcyUzQSUyRiUyRmNhY20uYWNtLm9yZyUyRmJsb2djYWNtJTJGaWYteW91LXRoaW5rLXlvdS1jYW4tZG8tcmVhbC13b3JsZC10ZXh0LXRvLXNxbCUyRiU3Q0FueSUyMHRleHQtdG8tU1FMJTIwYmVuY2htYXJrJTIwc2hvdWxkJTIwYWRkcmVzcyUyMGRpZmZpY3VsdGllcyUyMG9mJTIwcmVhbC13b3JsZCUyMGRhdGElMjBzdG9yZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMzk5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDIxJTNBNTQlM0EzMCUyMCUyQjAwMDA",
+      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+      "pubDate": "Wed, 22 Jul 2026 21:54:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF5dG9uZG9yZ2UuY29tJTJGcGF0dGVybnMtbGlzdCU3Q2h0dHBzJTNBJTJGJTJGY2xheXRvbmRvcmdlLmNvbSUyRnBhdHRlcm5zLWxpc3QlN0NBbGwlMjAyNTMlMjBQYXR0ZXJucyUyMGZyb20lMjBDaHJpc3RvcGhlciUyMEFsZXhhbmRlcidzJTIwYSUyMFBhdHRlcm4lMjBMYW5ndWFnZSUyMFN1bW1hcml6ZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMzkyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDIxJTNBNDglM0E0NCUyMCUyQjAwMDA",
+      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "pubDate": "Wed, 22 Jul 2026 21:48:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnl1bW15bWVsb24uY29tJTJGZGV2bnVsbCUyRm1hbGxlYWJsZS1jb21wdXRpbmctZW1hY3MtYW5kLXlvdS5odG1sJTdDaHR0cCUzQSUyRiUyRnl1bW15bWVsb24uY29tJTJGZGV2bnVsbCUyRm1hbGxlYWJsZS1jb21wdXRpbmctZW1hY3MtYW5kLXlvdS5odG1sJTdDTWFsbGVhYmxlJTIwQ29tcHV0aW5nJTJDJTIwRW1hY3MlMkMlMjBhbmQlMjBZb3UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMzUzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDIxJTNBMTUlM0EyNiUyMCUyQjAwMDA",
+      "title": "Malleable Computing, Emacs, and You",
+      "pubDate": "Wed, 22 Jul 2026 21:15:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXRpemVuZG90LmdpdGh1Yi5pbyUyRmFydGljbGVzJTJGZmFrZS1qb2ItaW50ZXJ2aWV3LWdpdC1ob29rLW1hbHdhcmUlMkYlN0NodHRwcyUzQSUyRiUyRmNpdGl6ZW5kb3QuZ2l0aHViLmlvJTJGYXJ0aWNsZXMlMkZmYWtlLWpvYi1pbnRlcnZpZXctZ2l0LWhvb2stbWFsd2FyZSUyRiU3Q0klMjBJbnNwZWN0ZWQlMjBNeSUyMFRha2UtSG9tZSUyMEludGVydmlldyUyMFByb2plY3QuJTIwSXQlMjBXYXMlMjBhJTIwV2hvbGUlMjBPcGVyYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMzAzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDIwJTNBMzMlM0E0NCUyMCUyQjAwMDA",
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "pubDate": "Wed, 22 Jul 2026 20:33:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub25kZXNjcmlwdHBvaW50ZXIuY29tJTJGYXJ0aWNsZXMlMkZmYWlycGhvbmUtNi13aWRlLWNhbWVyYS1saW51eCUyRiU3Q2h0dHBzJTNBJTJGJTJGbm9uZGVzY3JpcHRwb2ludGVyLmNvbSUyRmFydGljbGVzJTJGZmFpcnBob25lLTYtd2lkZS1jYW1lcmEtbGludXglMkYlN0NGYWlycGhvbmUlMjA2JTIwd2lkZSUyMGNhbWVyYSUyMGV4cGVyaW1lbnRhbCUyMExpbnV4JTIwc3VwcG9ydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDEyNzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjIlMjBKdWwlMjAyMDI2JTIwMjAlM0ExNiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "pubDate": "Wed, 22 Jul 2026 20:16:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm5hX2Fubm91bmNlJTJGc3RhdHVzJTJGMjA3OTk1MjUzODA0MDY3MjMwMiU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZuYV9hbm5vdW5jZSUyRnN0YXR1cyUyRjIwNzk5NTI1MzgwNDA2NzIzMDIlN0NKb2huJTIwQy4lMjBEdm9yYWslMjBoYXMlMjBkaWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTIwNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxOSUzQTIyJTNBMTklMjAlMkIwMDAw",
+      "title": "John C. Dvorak has died",
+      "pubDate": "Wed, 22 Jul 2026 19:22:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZmaWN0aW9uJTJGc2NpZW5jZS1maWN0aW9uJTJGMjAxMi0xMC0wMy15dmFpbi10aGV3aGlzcGVyaW5nZWFycmluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZmaWN0aW9uJTJGc2NpZW5jZS1maWN0aW9uJTJGMjAxMi0xMC0wMy15dmFpbi10aGV3aGlzcGVyaW5nZWFycmluZy5odG1sJTdDQ2xhcml0eSUyMGRpZG4ndCUyMHdvcmslMkMlMjB0cnlpbmclMjBteXN0ZXJpYW5pc20lMjAoMjAxMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMTY4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE4JTNBNTUlM0E0MiUyMCUyQjAwMDA",
+      "title": "Clarity didn't work, trying mysterianism (2012)",
+      "pubDate": "Wed, 22 Jul 2026 18:55:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2FjdHVzLWNvbXB1dGUlMkZjYWN0dXMtaHlicmlkJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2FjdHVzLWNvbXB1dGUlMkZjYWN0dXMtaHlicmlkJTdDU2hvdyUyMEhOJTNBJTIwQ2FjdHVzJTIwSHlicmlkJTNBJTIwV2UlMjB0YXVnaHQlMjBHZW1tYSUyMDQlMjB0byUyMGtub3clMjB3aGVuJTIwaXQncyUyMHdyb25nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTA3ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxNyUzQTU2JTNBMjklMjAlMkIwMDAw",
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "pubDate": "Wed, 22 Jul 2026 17:56:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXRjaGVsbGguY29tJTJGd3JpdGluZyUyRmV2ZXJ5b25lLXNob3VsZC1rbm93LXNpbWQlN0NodHRwcyUzQSUyRiUyRm1pdGNoZWxsaC5jb20lMkZ3cml0aW5nJTJGZXZlcnlvbmUtc2hvdWxkLWtub3ctc2ltZCU3Q0V2ZXJ5b25lJTIwc2hvdWxkJTIwa25vdyUyMFNJTUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMDY0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE3JTNBNDglM0ExOCUyMCUyQjAwMDA",
+      "title": "Everyone should know SIMD",
+      "pubDate": "Wed, 22 Jul 2026 17:48:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGF0Z3B0LmNvbSUyRnNoYXJlJTJGNmE1ZmRjN2EtZDZmOC04M2U4LWJiZWEtOGRlYjQyY2ZlZDU2JTdDaHR0cHMlM0ElMkYlMkZjaGF0Z3B0LmNvbSUyRnNoYXJlJTJGNmE1ZmRjN2EtZDZmOC04M2U4LWJiZWEtOGRlYjQyY2ZlZDU2JTdDVGVyZW5jZSUyMFRhbydzJTIwQ2hhdEdQVCUyMGNvbnZlcnNhdGlvbiUyMGFib3V0JTIwdGhlJTIwSmFjb2JpYW4lMjBDb25qZWN0dXJlJTIwY291bnRlcmV4YW1wbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMDM0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE3JTNBMzAlM0E0MCUyMCUyQjAwMDA",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "pubDate": "Wed, 22 Jul 2026 17:30:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkeWxhbmNhc3RpbGxvLmNvJTJGcG9zdHMlMkZwZWxpY2FubWF4eGluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZkeWxhbmNhc3RpbGxvLmNvJTJGcG9zdHMlMkZwZWxpY2FubWF4eGluZy5odG1sJTdDQXJlJTIwQUklMjBMYWJzJTIwUGVsaWNhbm1heHhpbmclM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMDEyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE3JTNBMTclM0E1NCUyMCUyQjAwMDA",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "pubDate": "Wed, 22 Jul 2026 17:17:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNvYnNjdXJhLnN1YnN0YWNrLmNvbSUyRnAlMkZxdWFsaXR5LW5vbi1maWN0aW9uLWJvb2tzLWFyZS10aGUlN0NodHRwcyUzQSUyRiUyRnJlc29ic2N1cmEuc3Vic3RhY2suY29tJTJGcCUyRnF1YWxpdHktbm9uLWZpY3Rpb24tYm9va3MtYXJlLXRoZSU3Q1F1YWxpdHklMjBub24tZmljdGlvbiUyMGJvb2tzJTIwYXJlJTIwdGhlJTIwYW50aXRoZXNpcyUyMG9mJTIwQUklMjBzbG9wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDcyNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxNCUzQTE4JTNBMDUlMjAlMkIwMDAw",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "pubDate": "Wed, 22 Jul 2026 14:18:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1lbGFzaHJpLm5ldCUyRm1pY3JvJTJGYmFjay10by1rYWdpJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLm1lbGFzaHJpLm5ldCUyRm1pY3JvJTJGYmFjay10by1rYWdpJTJGJTdDQmFjayUyMHRvJTIwS2FnaSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDA2MTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjIlMjBKdWwlMjAyMDI2JTIwMTMlM0EwOCUzQTE5JTIwJTJCMDAwMA",
+      "title": "Back to Kagi",
+      "pubDate": "Wed, 22 Jul 2026 13:08:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmZpZGRlcnkuY29tJTJGYnVzaW5lc3Nlcy13aXRoLXVnbHktYWktbWVudS1yZWRlc2lnbnMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZmlkZGVyeS5jb20lMkZidXNpbmVzc2VzLXdpdGgtdWdseS1haS1tZW51LXJlZGVzaWducyUyRiU3Q0J1c2luZXNzZXMlMjB3aXRoJTIwdWdseSUyMEFJJTIwbWVudSUyMHJlZGVzaWducyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDA1OTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjIlMjBKdWwlMjAyMDI2JTIwMTIlM0E0OSUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Businesses with ugly AI menu redesigns",
+      "pubDate": "Wed, 22 Jul 2026 12:49:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29sZS1rLmNvbSUyRjIwMjYlMkYwNyUyRjIxJTJGcmVkZGl0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29sZS1rLmNvbSUyRjIwMjYlMkYwNyUyRjIxJTJGcmVkZGl0JTJGJTdDU28lMjBSZWRkaXQlMjBoYXMlMjBkZWNpZGVkJTIwdGhhdCUyMHBsYWluJTIwSFRNTCUyMGlzJTIwdW5zYWZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDU3NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxMiUzQTMyJTNBNDglMjAlMkIwMDAw",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "pubDate": "Wed, 22 Jul 2026 12:32:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]
