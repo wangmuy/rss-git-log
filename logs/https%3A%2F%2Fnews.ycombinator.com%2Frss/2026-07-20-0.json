@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-20",
     "newestItemDate": "2026-07-20",
-    "itemCount": 53,
-    "generatedAt": "2026-07-23T03:48:58.404Z"
+    "itemCount": 56,
+    "generatedAt": "2026-07-23T10:36:03.760Z"
   },
   "items": [
     {
@@ -324,6 +324,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXR0amhhbGwuY28udWslMkZwb3N0cyUyRnRha2luZy1vY2FtbC1laW8tZm9yLWEtc3Bpbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXR0amhhbGwuY28udWslMkZwb3N0cyUyRnRha2luZy1vY2FtbC1laW8tZm9yLWEtc3Bpbi5odG1sJTdDVGFraW5nJTIwT0NhbWwlMjBhbmQlMjBFaW8lMjBmb3IlMjBhJTIwU3BpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc1Mzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDclM0EzMiUzQTM5JTIwJTJCMDAwMA",
       "title": "Taking OCaml and Eio for a Spin",
       "pubDate": "Mon, 20 Jul 2026 07:32:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4eWFuZy5kZXYlMkZ2aW0tYXNjaWktYXJ0JTJGJTdDaHR0cHMlM0ElMkYlMkZhbGV4eWFuZy5kZXYlMkZ2aW0tYXNjaWktYXJ0JTJGJTdDTWFraW5nJTIwQVNDSUklMjBBcnQlMjBpbiUyMFZpbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTgzMDc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMTglM0E0MiUzQTA3JTIwJTJCMDAwMA",
+      "title": "Making ASCII Art in Vim",
+      "pubDate": "Mon, 20 Jul 2026 18:42:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdHBldGVyc29uLnN1YnN0YWNrLmNvbSUyRnAlMkZmYXEtb24tZXhwZXJ0aXNlJTdDaHR0cHMlM0ElMkYlMkZqdHBldGVyc29uLnN1YnN0YWNrLmNvbSUyRnAlMkZmYXEtb24tZXhwZXJ0aXNlJTdDRnJlcXVlbnRseSUyMEFza2VkJTIwUXVlc3Rpb25zJTIwb24lMjBFeHBlcnRpc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3OTAwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIwJTIwSnVsJTIwMjAyNiUyMDE0JTNBMDAlM0EyOSUyMCUyQjAwMDA",
+      "title": "Frequently Asked Questions on Expertise",
+      "pubDate": "Mon, 20 Jul 2026 14:00:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzc2VudGhpbG5hdGhhbjMuZ2l0aHViLmlvJTJGYmxvZyUyRm1hbGxvYyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3NlbnRoaWxuYXRoYW4zLmdpdGh1Yi5pbyUyRmJsb2clMkZtYWxsb2MlMkYlN0NXaHklMjBtYWxsb2MlMjBhbHdheXMlMjBkb2VzJTIwbW9yZSUyMHRoYW4lMjBJJTIwYXNrZWQlMjBmb3IlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3NzQ2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIwJTIwSnVsJTIwMjAyNiUyMDExJTNBNTAlM0EwMSUyMCUyQjAwMDA",
+      "title": "Why malloc always does more than I asked for?",
+      "pubDate": "Mon, 20 Jul 2026 11:50:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-16",
     "newestItemDate": "2026-07-16",
-    "itemCount": 53,
-    "generatedAt": "2026-07-22T03:51:46.312Z"
+    "itemCount": 54,
+    "generatedAt": "2026-07-23T10:36:03.760Z"
   },
   "items": [
     {
@@ -324,6 +324,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJhbWl0LmdnJTJGcG9zdCUyRnJlbWFraW5nLWVjaG8tMS1zdGVhbHRoLXBoeXNpY3MlN0NodHRwcyUzQSUyRiUyRnd3dy5wcmFtaXQuZ2clMkZwb3N0JTJGcmVtYWtpbmctZWNoby0xLXN0ZWFsdGgtcGh5c2ljcyU3Q1JlY3JlYXRpbmclMjB0aGUlMjBtYXRoJTIwYmVoaW5kJTIwdGhlJTIwZmlyc3QlMjBzdGVhbHRoJTIwYWlyY3JhZnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODkzODM5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE2JTIwSnVsJTIwMjAyNiUyMDE4JTNBMzQlM0E1NiUyMCUyQjAwMDA",
       "title": "Recreating the math behind the first stealth aircraft",
       "pubDate": "Thu, 16 Jul 2026 18:34:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb21lbnRzaW5ncmFwaGljcy5kZSUyRkNhbWVyYVJheXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbW9tZW50c2luZ3JhcGhpY3MuZGUlMkZDYW1lcmFSYXlzLmh0bWwlN0NDb21wdXRpbmclMjBDYW1lcmElMjBSYXlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5MzEzNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNiUyMEp1bCUyMDIwMjYlMjAwNyUzQTI1JTNBNTklMjAlMkIwMDAw",
+      "title": "Computing Camera Rays",
+      "pubDate": "Thu, 16 Jul 2026 07:25:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-16-0.json"
     }
   ]

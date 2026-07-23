@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-21",
     "newestItemDate": "2026-07-21",
-    "itemCount": 43,
-    "generatedAt": "2026-07-22T03:51:46.311Z"
+    "itemCount": 46,
+    "generatedAt": "2026-07-23T10:36:03.760Z"
   },
   "items": [
     {
@@ -264,6 +264,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA3JTJGYXBwbGUtZGVmZWF0cy1saWFiaWxpdHktZm9yLW5vdC1zY2FubmluZy1pY2xvdWQtZm9yLWNzYW0tYnV0LXRoZS1qdWRnZS13YXMtbm90LXBsZWFzZWQtYW15LXYtYXBwbGUuaHRtJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA3JTJGYXBwbGUtZGVmZWF0cy1saWFiaWxpdHktZm9yLW5vdC1zY2FubmluZy1pY2xvdWQtZm9yLWNzYW0tYnV0LXRoZS1qdWRnZS13YXMtbm90LXBsZWFzZWQtYW15LXYtYXBwbGUuaHRtJTdDQXBwbGUlMjBkZWZlYXRzJTIwbGlhYmlsaXR5JTIwZm9yJTIwbm90JTIwc2Nhbm5pbmclMjBpQ2xvdWQlMjBmb3IlMjBDU0FNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTI4NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAxNCUzQTMxJTNBNDElMjAlMkIwMDAw",
       "title": "Apple defeats liability for not scanning iCloud for CSAM",
       "pubDate": "Tue, 21 Jul 2026 14:31:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXNiaXR0LmlvJTJGMjAyNiUyRjA3JTJGMjElMkZlbmQtb2Ytb3B0aW9ucy5odG1sJTdDaHR0cHMlM0ElMkYlMkZuZXNiaXR0LmlvJTJGMjAyNiUyRjA3JTJGMjElMkZlbmQtb2Ytb3B0aW9ucy5odG1sJTdDZ2l0J3MlMjAlRTIlODAlOTNlbmQtb2Ytb3B0aW9ucyUyMEZsYWclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5MTg4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDEzJTNBMTMlM0E0NyUyMCUyQjAwMDA",
+      "title": "git's –end-of-options Flag",
+      "pubDate": "Tue, 21 Jul 2026 13:13:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2ludGhlZnJlZXdvcmxkLm9yZyUyRmJsb2clMkZhcnRpY2xlcyUyRmVtYWNzJTJGZW1hY3MtZWdsb3Qtc2NhbGEta290bGluJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGam9pbnRoZWZyZWV3b3JsZC5vcmclMkZibG9nJTJGYXJ0aWNsZXMlMkZlbWFjcyUyRmVtYWNzLWVnbG90LXNjYWxhLWtvdGxpbiUyRmluZGV4Lmh0bWwlN0NFc2NhcGUlMjBJbnRlbGxpSiUzQSUyMFNjYWxhJTIwYW5kJTIwS290bGluJTIwTFNQcyUyMG9uJTIwRW1hY3MlMjBFZ2xvdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTkwMjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTAlM0EwNCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "pubDate": "Tue, 21 Jul 2026 10:04:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmlnaHRzZWMuY29tJTJGcmVzZWFyY2glMkZkZXRlY3RpbmctYW5zaS1lc2NhcGUtc2VxdWVuY2UtaW5qZWN0aW9uLWluLW1jcC1zZXJ2ZXJzLXdpdGgtZGFzdCUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJpZ2h0c2VjLmNvbSUyRnJlc2VhcmNoJTJGZGV0ZWN0aW5nLWFuc2ktZXNjYXBlLXNlcXVlbmNlLWluamVjdGlvbi1pbi1tY3Atc2VydmVycy13aXRoLWRhc3QlMkYlN0NBTlNJJTIwZXNjYXBlJTIwaW5qZWN0aW9uJTIwaW4lMjBNQ1AlMjBzZXJ2ZXJzJTNBJTIwSGlkZGVuJTIwZnJvbSUyMGh1bWFucyUyQyUyMHZpc2libGUlMjB0byUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODkwMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAwNyUzQTAxJTNBMjQlMjAlMkIwMDAw",
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "pubDate": "Tue, 21 Jul 2026 07:01:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
     }
   ]
