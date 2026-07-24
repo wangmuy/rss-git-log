@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-24",
     "newestItemDate": "2026-07-24",
-    "itemCount": 13,
-    "generatedAt": "2026-07-24T10:30:14.806Z"
+    "itemCount": 36,
+    "generatedAt": "2026-07-24T17:55:10.322Z"
   },
   "items": [
     {
@@ -84,6 +84,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwbGF0Zm9ybS5jbGF1ZGUuY29tJTJGY29va2Jvb2slMkYlN0NodHRwcyUzQSUyRiUyRnBsYXRmb3JtLmNsYXVkZS5jb20lMkZjb29rYm9vayUyRiU3Q0NsYXVkZSUyMENvb2tib29rJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzE0MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAwNSUzQTA5JTNBMTUlMjAlMkIwMDAw",
       "title": "Claude Cookbook",
       "pubDate": "Fri, 24 Jul 2026 05:09:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWNrcGdxLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZHVja3BncS5vcmclMkYlN0NEdWNrUEdRJTIwJUUyJTgwJTkzJTIwQSUyMER1Y2tEQiUyMGNvbW11bml0eSUyMGV4dGVuc2lvbiUyMGZvciUyMGdyYXBoJTIwd29ya2xvYWRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzg0ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxNyUzQTAwJTNBMjMlMjAlMkIwMDAw",
+      "title": "DuckPGQ – A DuckDB community extension for graph workloads",
+      "pubDate": "Fri, 24 Jul 2026 17:00:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmNsYXVkZS1vcHVzLTUtc3lzdGVtLWNhcmQlN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGY2xhdWRlLW9wdXMtNS1zeXN0ZW0tY2FyZCU3Q0NsYXVkZSUyME9wdXMlMjA1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzg0MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTU3JTNBNDElMjAlMkIwMDAw",
+      "title": "Claude Opus 5",
+      "pubDate": "Fri, 24 Jul 2026 16:57:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZjbGF1ZGUtb3B1cy01JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZjbGF1ZGUtb3B1cy01JTdDQ2xhdWRlJTIwT3B1cyUyMDUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzODM5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDE2JTNBNTUlM0EyNiUyMCUyQjAwMDA",
+      "title": "Claude Opus 5",
+      "pubDate": "Fri, 24 Jul 2026 16:55:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuamRrLm9yZyUyRmplcHMlMkY1NDElN0NodHRwcyUzQSUyRiUyRm9wZW5qZGsub3JnJTJGamVwcyUyRjU0MSU3Q0FzJTIwb2YlMjBKREslMjAyNyUyQyUyME9yYWNsZSUyMGVuZ2luZWVycyUyMHdpbGwlMjB0aHVzJTIwc3RvcCUyMG1haW50YWluaW5nJTIwdGhlJTIwbWFjT1MlMkZ4NjQlMjBwb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzgzNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTUyJTNBMzMlMjAlMkIwMDAw",
+      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "pubDate": "Fri, 24 Jul 2026 16:52:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3BsLmluZm8lMkYlN0NodHRwcyUzQSUyRiUyRmhvcGwuaW5mbyUyRiU3Q09ubGluZSUyMEhpc3RvcmljYWwlMjBFbmN5Y2xvcGFlZGlhJTIwb2YlMjBQcm9ncmFtbWluZyUyMExhbmd1YWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM4Mjc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTYlM0E0NyUzQTIzJTIwJTJCMDAwMA",
+      "title": "Online Historical Encyclopaedia of Programming Languages",
+      "pubDate": "Fri, 24 Jul 2026 16:47:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aXNlZGF5cGxhbm5lci5jb20lMkZibG9nJTJGYXBwbGUtd29udC1sZXQtbWUtc2hvdy1teS1hcHAlMkYlN0NodHRwcyUzQSUyRiUyRndpc2VkYXlwbGFubmVyLmNvbSUyRmJsb2clMkZhcHBsZS13b250LWxldC1tZS1zaG93LW15LWFwcCUyRiU3Q0FwcGxlJTIwd29uJ3QlMjBsZXQlMjBtZSUyMHNob3clMjBteSUyMGFwcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM4MTg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTYlM0E0MSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Apple won't let me show my app",
+      "pubDate": "Fri, 24 Jul 2026 16:41:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZkb2klMkYxMC4xMTI2JTJGc2NpZW5jZS5hZHg0MzQzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZkb2klMkYxMC4xMTI2JTJGc2NpZW5jZS5hZHg0MzQzJTdDVGhlJTIwcmlzZSUyMGFuZCUyMGZhbGwlMjBvZiUyMGxhbmd1YWdlJTIwZGl2ZXJzaXR5JTIwdGhyb3VnaCUyMHRoZSUyMEhvbG9jZW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzgxODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTQwJTNBNDklMjAlMkIwMDAw",
+      "title": "The rise and fall of language diversity through the Holocene",
+      "pubDate": "Fri, 24 Jul 2026 16:40:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZqdWwlMkYyNCUyRm9wZW5haS1yb2d1ZS1oYWNrZXIlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRmp1bCUyRjI0JTJGb3BlbmFpLXJvZ3VlLWhhY2tlciU3Q0JlJTIwc2tlcHRpY2FsJTIwb2YlMjBPcGVuQUkncyUyMHJvZ3VlJTIwaGFja2VyJTIwYWdlbnQlMjBzdG9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM4MDYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTYlM0EzMyUzQTMxJTIwJTJCMDAwMA",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "pubDate": "Fri, 24 Jul 2026 16:33:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnanRvcmlraWFuLm9ubGluZSUyRnBvc3RzJTJGcHJvdmluZy1hLWh1bWFuLXdyb3RlLXNvbWV0aGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2p0b3Jpa2lhbi5vbmxpbmUlMkZwb3N0cyUyRnByb3ZpbmctYS1odW1hbi13cm90ZS1zb21ldGhpbmclMkYlN0NQcm92aW5nJTIwYSUyMEh1bWFuJTIwV3JvdGUlMjBTb21ldGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzODA1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDE2JTNBMzMlM0EyNiUyMCUyQjAwMDA",
+      "title": "Proving a Human Wrote Something",
+      "pubDate": "Fri, 24 Jul 2026 16:33:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudW5pdHJlZS5jb20lMkZBczItVyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnVuaXRyZWUuY29tJTJGQXMyLVclMkYlN0NVbml0cmVlJTIwQXMyLVclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzODA0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDE2JTNBMzIlM0E1MiUyMCUyQjAwMDA",
+      "title": "Unitree As2-W",
+      "pubDate": "Fri, 24 Jul 2026 16:32:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZHJpZW5nb25pbi5jb20lMkZ3cml0aW5nJTJGc2VydmljZS13aXRoLWEtc29mdHdhcmUlMkYlN0NodHRwcyUzQSUyRiUyRmFkcmllbmdvbmluLmNvbSUyRndyaXRpbmclMkZzZXJ2aWNlLXdpdGgtYS1zb2Z0d2FyZSUyRiU3Q01pY3JvLVNhYVMlMjBJcyUyMERlYWQuJTIwU2VydmljZSUyMFdpdGglMjBBJTIwU29mdHdhcmUlMjBSZXBsYWNlcyUyMEl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzc5NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxNiUzQTI3JTNBNTglMjAlMkIwMDAw",
+      "title": "Micro-SaaS Is Dead. Service With A Software Replaces It",
+      "pubDate": "Fri, 24 Jul 2026 16:27:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb2xka2l0LmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9sZGtpdC5kZXYlMkYlN0NUaGUlMjBmcm9udCUyMGVuZCUyMGZyYW1ld29yayUyMGZvciUyMGNvcnJlY3RuZXNzJTNBJTIwYnVpbHQlMjBvbiUyMEVmZmVjdCUyQyUyMGFyY2hpdGVjdGVkJTIwbGlrZSUyMEVsbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM3MDMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTUlM0EyNCUzQTAwJTIwJTJCMDAwMA",
+      "title": "The front end framework for correctness: built on Effect, architected like Elm",
+      "pubDate": "Fri, 24 Jul 2026 15:24:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlaGluZHUuY29tJTJGbmV3cyUyRm5hdGlvbmFsJTJGZ292ZXJubWVudC1vcmRlcnMtZ2l0aHViLXRvLXJlbW92ZS1ibHVldG9vdGgtYmFzZWQtY2hhdC1hcHAtYml0Y2hhdC1vdmVyLXNlY3VyaXR5LWNvbmNlcm5zLWphY2stZG9yc2V5JTJGYXJ0aWNsZTcxMjYyMDQ5LmVjZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWhpbmR1LmNvbSUyRm5ld3MlMkZuYXRpb25hbCUyRmdvdmVybm1lbnQtb3JkZXJzLWdpdGh1Yi10by1yZW1vdmUtYmx1ZXRvb3RoLWJhc2VkLWNoYXQtYXBwLWJpdGNoYXQtb3Zlci1zZWN1cml0eS1jb25jZXJucy1qYWNrLWRvcnNleSUyRmFydGljbGU3MTI2MjA0OS5lY2UlN0NHb3Zlcm5tZW50JTIwb3JkZXJzJTIwR2l0SHViJTIwdG8lMjByZW1vdmUlMjBCbHVldG9vdGgtYmFzZWQlMjBjaGF0JTIwYXBwJTIwQml0Y2hhdCUzQSUyMEphY2slMjBEb3JzZXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzNjQzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDE0JTNBNDElM0E1OSUyMCUyQjAwMDA",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "pubDate": "Fri, 24 Jul 2026 14:41:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRmNvbmZlcmVuY2UlMkZhdGMyMiUyRnByZXNlbnRhdGlvbiUyRmphbnNlbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnVzZW5peC5vcmclMkZjb25mZXJlbmNlJTJGYXRjMjIlMkZwcmVzZW50YXRpb24lMkZqYW5zZW4lN0NDby1PcHRpbmclMjBMaW51eCUyMFByb2Nlc3NlcyUyMGZvciUyMEhpZ2gtUGVyZm9ybWFuY2UlMjBOZXR3b3JrJTIwU2ltdWxhdGlvbiUyMCgyMDIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM2MjI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTQlM0EyOCUzQTM4JTIwJTJCMDAwMA",
+      "title": "Co-Opting Linux Processes for High-Performance Network Simulation (2022)",
+      "pubDate": "Fri, 24 Jul 2026 14:28:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuM2dwcC5vcmclMkZzcGVjaWZpY2F0aW9ucy10ZWNobm9sb2dpZXMlMkZyZWxlYXNlcyUyRnJlbGVhc2UtMTklN0NodHRwcyUzQSUyRiUyRnd3dy4zZ3BwLm9yZyUyRnNwZWNpZmljYXRpb25zLXRlY2hub2xvZ2llcyUyRnJlbGVhc2VzJTJGcmVsZWFzZS0xOSU3QzNHUFAlMjBWZXJzaW9uJTIwMTklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzNjEzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDE0JTNBMjMlM0EzOSUyMCUyQjAwMDA",
+      "title": "3GPP Version 19",
+      "pubDate": "Fri, 24 Jul 2026 14:23:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGltZGJnLmNvbSUyRnBvc3RzJTJGd3JpdGluZy1hLWRlYnVnZ2VyLWZyb20tc2NyYXRjaC1wYXJ0LTElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50aW1kYmcuY29tJTJGcG9zdHMlMkZ3cml0aW5nLWEtZGVidWdnZXItZnJvbS1zY3JhdGNoLXBhcnQtMSUyRiU3Q1dyaXRpbmclMjBhJTIwRGVidWdnZXIlMjBmcm9tJTIwU2NyYXRjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM1ODY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTQlM0EwNiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Writing a Debugger from Scratch",
+      "pubDate": "Fri, 24 Jul 2026 14:06:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGkteWFuLmdpdGh1Yi5pbyUyRndlYmdwdXVubGVhc2hlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2hpLXlhbi5naXRodWIuaW8lMkZ3ZWJncHV1bmxlYXNoZWQlMkYlN0NXZWJHUFUlMjBVbmxlYXNoZWQlM0ElMjBBJTIwUHJhY3RpY2FsJTIwVHV0b3JpYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzNTg0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDE0JTNBMDQlM0E1MCUyMCUyQjAwMDA",
+      "title": "WebGPU Unleashed: A Practical Tutorial",
+      "pubDate": "Fri, 24 Jul 2026 14:04:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGT3B0aUp1ZWdvcyUyRnB2ei1wczIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZPcHRpSnVlZ29zJTJGcHZ6LXBzMiU3Q1BsYW50cyUyMHZzLiUyMFpvbWJpZXMlMjBmb3IlMjBQbGF5U3RhdGlvbiUyMDIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzNTc0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDEzJTNBNTclM0EyMiUyMCUyQjAwMDA",
+      "title": "Plants vs. Zombies for PlayStation 2",
+      "pubDate": "Fri, 24 Jul 2026 13:57:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldWdlbmUtYW5kcmllbmtvLmNvbSUyRjIwMjYtMDctMDUtbXktZW1hY3MtY29uZmlndXJhdGlvbi1kaXJlZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZldWdlbmUtYW5kcmllbmtvLmNvbSUyRjIwMjYtMDctMDUtbXktZW1hY3MtY29uZmlndXJhdGlvbi1kaXJlZC5odG1sJTdDTXklMjBFbWFjcyUyMENvbmZpZ3VyYXRpb24lMjAoRGlyZWQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzU1NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxMyUzQTQ3JTNBMDQlMjAlMkIwMDAw",
+      "title": "My Emacs Configuration (Dired)",
+      "pubDate": "Fri, 24 Jul 2026 13:47:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzLmhhaWt1LW9zLm9yZyUyRnQlMkZoYWlrdS1udmlkaWEtcG9ydGluZy1udmlkaWEtZHJpdmVyLWZvci10dXJpbmctZ3B1cyUyRjE2NTIwJTNGcGFnZSUzRDE4JTdDaHR0cHMlM0ElMkYlMkZkaXNjdXNzLmhhaWt1LW9zLm9yZyUyRnQlMkZoYWlrdS1udmlkaWEtcG9ydGluZy1udmlkaWEtZHJpdmVyLWZvci10dXJpbmctZ3B1cyUyRjE2NTIwJTNGcGFnZSUzRDE4JTdDSGFsZi1MaWZlJTIwMiUyMHJ1bm5pbmclMjBuYXRpdmVseSUyMG9uJTIwSGFpa3VPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM0ODY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTIlM0E1MyUzQTU5JTIwJTJCMDAwMA",
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "pubDate": "Fri, 24 Jul 2026 12:53:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwc3ljaG90ZWNobm9sb2d5LnN1YnN0YWNrLmNvbSUyRnAlMkZlbS1kYXNoZXMtYXJlLWZ1Y2tpbmctYW1hemluZyU3Q2h0dHBzJTNBJTJGJTJGcHN5Y2hvdGVjaG5vbG9neS5zdWJzdGFjay5jb20lMkZwJTJGZW0tZGFzaGVzLWFyZS1mdWNraW5nLWFtYXppbmclN0NFbSUyMGRhc2hlcyUyMGFyZSUyMGZ1Y2tpbmclMjBhbWF6aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzQ3NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxMiUzQTQwJTNBMjclMjAlMkIwMDAw",
+      "title": "Em dashes are fucking amazing",
+      "pubDate": "Fri, 24 Jul 2026 12:40:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaGguaG4lMkZoYW53aGEtZ2l0aHViLXRva2VuJTJGJTdDaHR0cHMlM0ElMkYlMkZoaGguaG4lMkZoYW53aGEtZ2l0aHViLXRva2VuJTJGJTdDTXklMjBzZWN1cml0eSUyMGNhbWVyYSUyMHNoaXBwZWQlMjBhJTIwR2l0SHViJTIwYWRtaW4lMjB0b2tlbiUyMGluJTIwaXRzJTIwbG9naW4lMjBwYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzQyOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxMSUzQTU0JTNBNDElMjAlMkIwMDAw",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "pubDate": "Fri, 24 Jul 2026 11:54:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6aWdnaXQuZGV2JTJGdCUyRmJ1ei1hLWRyb3AtaW4tcmVwbGFjZW1lbnQtZm9yLWJ1bi11c2luZy1tb2Rlcm4temlnLXdpdGgtc3ViLTFzLWluY3JlbWVudGFsLWJ1aWxkcyUyRjE2ODkxJTdDaHR0cHMlM0ElMkYlMkZ6aWdnaXQuZGV2JTJGdCUyRmJ1ei1hLWRyb3AtaW4tcmVwbGFjZW1lbnQtZm9yLWJ1bi11c2luZy1tb2Rlcm4temlnLXdpdGgtc3ViLTFzLWluY3JlbWVudGFsLWJ1aWxkcyUyRjE2ODkxJTdDQnV6JTIwJUUyJTgwJTkzJTIwQSUyMGZvcmslMjBvZiUyMEJ1biUyMHVzaW5nJTIwbW9kZXJuJTIwWmlnJTJDJTIwd2l0aCUyMHN1Yi0xcyUyMGluY3JlbWVudGFsJTIwYnVpbGRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzMwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAwOSUzQTI2JTNBNDAlMjAlMkIwMDAw",
+      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "pubDate": "Fri, 24 Jul 2026 09:26:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
     }
   ]

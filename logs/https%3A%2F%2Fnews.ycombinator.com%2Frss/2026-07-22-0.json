@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 51,
-    "generatedAt": "2026-07-24T03:48:57.085Z"
+    "itemCount": 52,
+    "generatedAt": "2026-07-24T17:55:10.322Z"
   },
   "items": [
     {
@@ -312,6 +312,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnbGluc2NvdHQuZ2l0aHViLmlvJTJGYmVhbS1lbmdpbmUlMkYlN0NodHRwcyUzQSUyRiUyRmdsaW5zY290dC5naXRodWIuaW8lMkZiZWFtLWVuZ2luZSUyRiU3Q1RoZSUyMEJlYW0lMjBFbmdpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAwNzIyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE0JTNBMTYlM0E0NCUyMCUyQjAwMDA",
       "title": "The Beam Engine",
       "pubDate": "Wed, 22 Jul 2026 14:16:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZGVyYS5kZXYlMkZzdG9yaWVzJTJGbnVtYS1wYXJ0LTQtY2xvc2luZy10aGUteGVuLWRvbTAtaS1vLWdhcCU3Q2h0dHBzJTNBJTJGJTJGZWRlcmEuZGV2JTJGc3RvcmllcyUyRm51bWEtcGFydC00LWNsb3NpbmctdGhlLXhlbi1kb20wLWktby1nYXAlN0NNYWtpbmclMjBYZW4ncyUyMGRvbTAlMjBJJTJGTyUyMHBhdGglMjBOVU1BJTIwYXdhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAwNDU0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDEwJTNBMzUlM0E0MyUyMCUyQjAwMDA",
+      "title": "Making Xen's dom0 I/O path NUMA aware",
+      "pubDate": "Wed, 22 Jul 2026 10:35:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-21",
     "newestItemDate": "2026-07-21",
-    "itemCount": 48,
-    "generatedAt": "2026-07-24T10:30:14.806Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-24T17:55:10.322Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbmV3cmVuJTJGZ2l0LWZpbHRlci1yZXBvJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbmV3cmVuJTJGZ2l0LWZpbHRlci1yZXBvJTdDUXVpY2tseSUyMHJld3JpdGUlMjBHaXQlMjByZXBvc2l0b3J5JTIwaGlzdG9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTg2NzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMDAlM0EyOCUzQTM5JTIwJTJCMDAwMA",
       "title": "Quickly rewrite Git repository history",
       "pubDate": "Tue, 21 Jul 2026 00:28:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmZW5pYy5haSUyRmJsb2clMkZleHRlbmRpbmctcG9sYXJzLXdpdGgtcnVzdC1leHByZXNzaW9uLXBsdWdpbnMlN0NodHRwcyUzQSUyRiUyRmZlbmljLmFpJTJGYmxvZyUyRmV4dGVuZGluZy1wb2xhcnMtd2l0aC1ydXN0LWV4cHJlc3Npb24tcGx1Z2lucyU3Q0V4dGVuZGluZyUyMFBvbGFycyUyMHdpdGglMjBSdXN0JTIwRXhwcmVzc2lvbiUyMFBsdWdpbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5ODU4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDIxJTNBMjYlM0EzMiUyMCUyQjAwMDA",
+      "title": "Extending Polars with Rust Expression Plugins",
+      "pubDate": "Tue, 21 Jul 2026 21:26:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
     }
   ]
