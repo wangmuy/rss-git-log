@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-23",
     "newestItemDate": "2026-07-23",
-    "itemCount": 33,
-    "generatedAt": "2026-07-23T17:50:00.263Z"
+    "itemCount": 44,
+    "generatedAt": "2026-07-24T03:48:57.085Z"
   },
   "items": [
     {
@@ -204,6 +204,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkYyMiUyRm9wZW5haS1jeWJlcmF0dGFjayUyRiU3Q2h0dHBzJTNBJTJGJTJGc2ltb253aWxsaXNvbi5uZXQlMkYyMDI2JTJGSnVsJTJGMjIlMkZvcGVuYWktY3liZXJhdHRhY2slMkYlN0NPcGVuQUklRTIlODAlOTlzJTIwYWNjaWRlbnRhbCUyMGF0dGFjayUyMGFnYWluc3QlMjBIdWdnaW5nJTIwRmFjZSUyMGlzJTIwc2NpZW5jZSUyMGZpY3Rpb24lMjB0aGF0JTIwaGFwcGVuZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxNTYzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDAxJTNBMTYlM0ExNCUyMCUyQjAwMDA",
       "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
       "pubDate": "Thu, 23 Jul 2026 01:16:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnZpc3VhbDY1MDIub3JnJTJGSlNTaW0lMkZpbmRleC5odG1sJTdDaHR0cCUzQSUyRiUyRnZpc3VhbDY1MDIub3JnJTJGSlNTaW0lMkZpbmRleC5odG1sJTdDVGhlJTIwVmlzdWFsJTIwNjUwMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI5NTM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMjMlM0EzNiUzQTQyJTIwJTJCMDAwMA",
+      "title": "The Visual 6502",
+      "pubDate": "Thu, 23 Jul 2026 23:36:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA3LjA5MzY5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA3LjA5MzY5JTdDQSUyMHRheG9ub215JTIwb2YlMjBvbW5pY2lkYWwlMjBmdXR1cmVzJTIwaW52b2x2aW5nJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI5MTMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMjIlM0E1MSUzQTEzJTIwJTJCMDAwMA",
+      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "pubDate": "Thu, 23 Jul 2026 22:51:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZGFuLmdpdGh1Yi5pbyUyRjk4LmNzcyUyRiUyM3N0YXR1cy1iYXIlN0NodHRwcyUzQSUyRiUyRmpkYW4uZ2l0aHViLmlvJTJGOTguY3NzJTJGJTIzc3RhdHVzLWJhciU3Qzk4LmNzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI4OTI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMjIlM0EzMCUzQTI5JTIwJTJCMDAwMA",
+      "title": "98.css",
+      "pubDate": "Thu, 23 Jul 2026 22:30:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg0NTQ1JTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg0NTQ1JTJGJTdDTW91cm5pbmclMjBEYW4lMjBXaWxsaWFtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI3MDUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTklM0E0NiUzQTI4JTIwJTJCMDAwMA",
+      "title": "Mourning Dan Williams",
+      "pubDate": "Thu, 23 Jul 2026 19:46:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI2ODEwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI2ODEwJTdDU2hvdyUyMEhOJTNBJTIwRWNobyUyMCVFMiU4MCU5MyUyMEZhYmxlLWxldmVsJTIwcmVzdWx0cyUyMGF0JTIwMSUyRjMlMjB0aGUlMjBjb3N0JTIwdXNpbmclMjBvcGVuLXdlaWdodCUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI2ODEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTklM0EyNiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "pubDate": "Thu, 23 Jul 2026 19:26:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWtla2FuaWVzLmNvbSUyRndyaXRpbmclMkZidWlsZGluZy1vbi1hdHByb3RvJTJGJTdDaHR0cHMlM0ElMkYlMkZsdWtla2FuaWVzLmNvbSUyRndyaXRpbmclMkZidWlsZGluZy1vbi1hdHByb3RvJTJGJTdDQnVpbGRpbmclMjBvbiUyMEFUUHJvdG8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyNTk4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE4JTNBMjMlM0E1MCUyMCUyQjAwMDA",
+      "title": "Building on ATProto",
+      "pubDate": "Thu, 23 Jul 2026 18:23:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbWUudWNoaWNhZ28uZWR1JTJGbmV3cy1ldmVudHMlMkZuZXdzJTJGY2xlYW5lci1yb3V0ZS1wdXJpZnlpbmctcmFyZS1lYXJ0aC1lbGVtZW50cyU3Q2h0dHBzJTNBJTJGJTJGcG1lLnVjaGljYWdvLmVkdSUyRm5ld3MtZXZlbnRzJTJGbmV3cyUyRmNsZWFuZXItcm91dGUtcHVyaWZ5aW5nLXJhcmUtZWFydGgtZWxlbWVudHMlN0NBJTIwc29saWQtc3RhdGUlMjAlRTIlODAlOUNhdG9taWMlMjBjaGFubmVsJUUyJTgwJTlEJTIwZm9yJTIwc2VwYXJhdGluZyUyMHJhcmUlMjBlYXJ0aCUyMGVsZW1lbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjU4MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxOCUzQTEzJTNBMDMlMjAlMkIwMDAw",
+      "title": "A solid-state “atomic channel” for separating rare earth elements",
+      "pubDate": "Thu, 23 Jul 2026 18:13:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaXplaWdlcm1hbiUyRmNsYXVkZS10aGVybW9zJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaXplaWdlcm1hbiUyRmNsYXVkZS10aGVybW9zJTdDU2hvdyUyMEhOJTNBJTIwQ2xhdWRlLXRoZXJtb3MlMjBrZWVwcyUyMHlvdXIlMjBDbGF1ZGUlMjBzZXNzaW9uJTIwd2FybSUyMGZvciUyMHlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI0ODgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTclM0EwNiUzQTIyJTIwJTJCMDAwMA",
+      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+      "pubDate": "Thu, 23 Jul 2026 17:06:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI0NjIwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDI0NjIwJTdDTGF1bmNoJTIwSE4lM0ElMjBTY3JlZW5waXBlJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMFJlY29yZCUyMGhvdyUyMHlvdSUyMHdvcmslMjBhbmQlMjB0dXJuJTIwdGhhdCUyMGludG8lMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyNDYyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE2JTNBNDglM0EzOCUyMCUyQjAwMDA",
+      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+      "pubDate": "Thu, 23 Jul 2026 16:48:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGFsbWllci1pbyUyRnBhbG1pZXItcHJvJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGFsbWllci1pbyUyRnBhbG1pZXItcHJvJTdDU2hvdyUyMEhOJTNBJTIwUGFsbWllciUyMFBybyUyMCVFMiU4MCU5MyUyME9wZW4tc291cmNlJTIwbWFjT1MlMjB2aWRlbyUyMGVkaXRvciUyMGJ1aWx0JTIwZm9yJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyMjkxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE1JTNBMTElM0EzNyUyMCUyQjAwMDA",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "pubDate": "Thu, 23 Jul 2026 15:11:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFycGEubWlsJTJGbmV3cyUyRjIwMjYlMkZkYXJwYS11cy1haXItZm9yY2UtZmx5LWFpLWNvbnRyb2xsZWQtZi0xNiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhcnBhLm1pbCUyRm5ld3MlMkYyMDI2JTJGZGFycGEtdXMtYWlyLWZvcmNlLWZseS1haS1jb250cm9sbGVkLWYtMTYlN0NEQVJQQSUyQyUyMFUuUy4lMjBBaXIlMjBGb3JjZSUyMGZseSUyMEFJLWNvbnRyb2xsZWQlMjBGLTE2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjE1OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxMyUzQTUxJTNBMzYlMjAlMkIwMDAw",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "pubDate": "Thu, 23 Jul 2026 13:51:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
     }
   ]

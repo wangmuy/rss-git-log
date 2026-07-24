@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 50,
-    "generatedAt": "2026-07-23T10:36:03.759Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-24T03:48:57.085Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpc2htYWVsLnRleHR1YWxpemUuaW8lMkZibG9nJTJGZ2hvc3QtY3V0JTJGJTdDaHR0cHMlM0ElMkYlMkZpc2htYWVsLnRleHR1YWxpemUuaW8lMkZibG9nJTJGZ2hvc3QtY3V0JTJGJTdDR2hvc3QlMjBDdXQlMjAlRTIlODAlOTMlMjBPciUyMHdoeSUyMEN1dCUyMGFuZCUyMFBhc3RlJTIwaXMlMjBicm9rZW4lMjBldmVyeXdoZXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDc2MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxNCUzQTQzJTNBMjglMjAlMkIwMDAw",
       "title": "Ghost Cut – Or why Cut and Paste is broken everywhere",
       "pubDate": "Wed, 22 Jul 2026 14:43:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbGluc2NvdHQuZ2l0aHViLmlvJTJGYmVhbS1lbmdpbmUlMkYlN0NodHRwcyUzQSUyRiUyRmdsaW5zY290dC5naXRodWIuaW8lMkZiZWFtLWVuZ2luZSUyRiU3Q1RoZSUyMEJlYW0lMjBFbmdpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAwNzIyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE0JTNBMTYlM0E0NCUyMCUyQjAwMDA",
+      "title": "The Beam Engine",
+      "pubDate": "Wed, 22 Jul 2026 14:16:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]

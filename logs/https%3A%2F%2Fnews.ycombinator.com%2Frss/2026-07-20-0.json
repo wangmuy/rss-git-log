@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-20",
     "newestItemDate": "2026-07-20",
-    "itemCount": 56,
-    "generatedAt": "2026-07-23T10:36:03.760Z"
+    "itemCount": 60,
+    "generatedAt": "2026-07-24T03:48:57.085Z"
   },
   "items": [
     {
@@ -342,6 +342,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzc2VudGhpbG5hdGhhbjMuZ2l0aHViLmlvJTJGYmxvZyUyRm1hbGxvYyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3NlbnRoaWxuYXRoYW4zLmdpdGh1Yi5pbyUyRmJsb2clMkZtYWxsb2MlMkYlN0NXaHklMjBtYWxsb2MlMjBhbHdheXMlMjBkb2VzJTIwbW9yZSUyMHRoYW4lMjBJJTIwYXNrZWQlMjBmb3IlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3NzQ2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIwJTIwSnVsJTIwMjAyNiUyMDExJTNBNTAlM0EwMSUyMCUyQjAwMDA",
       "title": "Why malloc always does more than I asked for?",
       "pubDate": "Mon, 20 Jul 2026 11:50:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3dWVtZWxpLmNvbSUyRmJsb2clMkZzdWxmdXItcGFydC0xJTJGJTdDaHR0cHMlM0ElMkYlMkZ3dWVtZWxpLmNvbSUyRmJsb2clMkZzdWxmdXItcGFydC0xJTJGJTdDQ29udmVydGluZyUyMEZpbGVzJTIwaW50byUyME1pbmVjcmFmdCUyMFdvcmxkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTg0NzYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMjAlM0E1NCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Converting Files into Minecraft Worlds",
+      "pubDate": "Mon, 20 Jul 2026 20:54:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb3RlcmlhLXRvb2xzLmNvbSUyRmJsb2clMkZtZXRhLWdhcmJhZ2UtY29sbGVjdGlvbiU3Q2h0dHBzJTNBJTJGJTJGc290ZXJpYS10b29scy5jb20lMkZibG9nJTJGbWV0YS1nYXJiYWdlLWNvbGxlY3Rpb24lN0NNZXRhJTIwR2FyYmFnZSUyMENvbGxlY3Rpb24lM0ElMjBVc2luZyUyME9DYW1sJ3MlMjBHQyUyMHRvJTIwR0MlMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5Nzg5ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMCUyMEp1bCUyMDIwMjYlMjAxMyUzQTU5JTNBNDklMjAlMkIwMDAw",
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "pubDate": "Mon, 20 Jul 2026 13:59:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmFjdGwuYXJ0JTdDaHR0cHMlM0ElMkYlMkZmcmFjdGwuYXJ0JTJGJTdDRnJhY3RsLmFydCUyMCVFMiU4MCU5MyUyMGElMjBmcmFjdGFsJTIwZ2VuZXJhdG9yJTIwd2l0aCUyMDglMjBvY3RpbGxpb24lMjBkaWZmZXJlbnQlMjBwYXR0ZXJucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc0MzAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDQlM0EyMCUzQTQzJTIwJTJCMDAwMA",
+      "title": "Fractl.art – a fractal generator with 8 octillion different patterns",
+      "pubDate": "Mon, 20 Jul 2026 04:20:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkZyZWV6ZS1jYXN0aW5nJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkZyZWV6ZS1jYXN0aW5nJTdDRnJlZXplLUNhc3RpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk3MzA3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIwJTIwSnVsJTIwMjAyNiUyMDAwJTNBMzIlM0EyMSUyMCUyQjAwMDA",
+      "title": "Freeze-Casting",
+      "pubDate": "Mon, 20 Jul 2026 00:32:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
     }
   ]
