@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-20",
     "newestItemDate": "2026-07-20",
-    "itemCount": 67,
-    "generatedAt": "2026-07-25T10:02:15.814Z"
+    "itemCount": 68,
+    "generatedAt": "2026-07-25T17:25:50.611Z"
   },
   "items": [
     {
@@ -408,6 +408,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlcmlubXVycGh5LmRldiUyRnByb2plY3RzJTJGcHJvamVjdC0yJTJGJTdDaHR0cHMlM0ElMkYlMkZlcmlubXVycGh5LmRldiUyRnByb2plY3RzJTJGcHJvamVjdC0yJTJGJTdDTllDJTIwQXBhcnRtZW50JTIwQXF1YXBvbmljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc5ODM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMTUlM0EwMCUzQTU0JTIwJTJCMDAwMA",
       "title": "NYC Apartment Aquaponics",
       "pubDate": "Mon, 20 Jul 2026 15:00:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmF0b2x5emVua292LmNvbSUyRnN0b2xlbi1idXR0b25zJTdDaHR0cHMlM0ElMkYlMkZhbmF0b2x5emVua292LmNvbSUyRnN0b2xlbi1idXR0b25zJTdDU3RvbGVuJTIwQnV0dG9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTc2MjYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjAlMjBKdWwlMjAyMDI2JTIwMDklM0EyMyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Stolen Buttons",
+      "pubDate": "Mon, 20 Jul 2026 09:23:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-20-0.json"
     }
   ]

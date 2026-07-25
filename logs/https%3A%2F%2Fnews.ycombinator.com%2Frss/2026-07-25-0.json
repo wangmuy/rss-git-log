@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-25",
     "newestItemDate": "2026-07-25",
-    "itemCount": 6,
-    "generatedAt": "2026-07-25T10:02:15.813Z"
+    "itemCount": 21,
+    "generatedAt": "2026-07-25T17:25:50.610Z"
   },
   "items": [
     {
@@ -42,6 +42,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0aHMuY2FtLmFjLnVrJTJGZmVhdHVyZXMlMkZwcm9mZXNzb3ItaGFubmFoLWZyeS13aW5zLWxlZWxhdmF0aS1wcml6ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hdGhzLmNhbS5hYy51ayUyRmZlYXR1cmVzJTJGcHJvZmVzc29yLWhhbm5haC1mcnktd2lucy1sZWVsYXZhdGktcHJpemUlN0NIYW5uYWglMjBGcnklMjBXaW5zJTIwdGhlJTIwTGVlbGF2YXRpJTIwUHJpemUlMjBpbiUyMDIwMjYlMjBmb3IlMjBNYXRoZW1hdGljcyUyME91dHJlYWNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDM3MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAwMSUzQTQ0JTNBMTIlMjAlMkIwMDAw",
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "pubDate": "Sat, 25 Jul 2026 01:44:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXVuby5tZSUyRm5vdGVzJTJGMiU3Q2h0dHBzJTNBJTJGJTJGcmF1bm8ubWUlMkZub3RlcyUyRjIlN0NSYXVubydzJTIwRmllbGQlMjBOb3RlcyUyMCUyMzIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0OTA2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDE2JTNBMzklM0E1NSUyMCUyQjAwMDA",
+      "title": "Rauno's Field Notes #2",
+      "pubDate": "Sat, 25 Jul 2026 16:39:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkFtZW5fYnJlYWslN0NodHRwcyUzQSUyRiUyRmVuLndpa2lwZWRpYS5vcmclMkZ3aWtpJTJGQW1lbl9icmVhayU3Q0FtZW4lMjBCcmVhayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ5MDE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTYlM0EzNCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Amen Break",
+      "pubDate": "Sat, 25 Jul 2026 16:34:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmVyZ2llc21lZGlhLmNvbSUyRndpbmQtdHVyYmluZS1zdG9wcGVkLWVsZWN0cmljaXR5LXdpbmQtd2F0ZXItYWlyJTJGJTdDaHR0cHMlM0ElMkYlMkZlbmVyZ2llc21lZGlhLmNvbSUyRndpbmQtdHVyYmluZS1zdG9wcGVkLWVsZWN0cmljaXR5LXdpbmQtd2F0ZXItYWlyJTJGJTdDV2luZCUyMHR1cmJpbmUlMjBpcyUyMGJlaW5nJTIwdXNlZCUyMHRvJTIwcHJvZHVjZSUyMHplcm8tY2FyYm9uJTIwJTIyZ3JlZW4lMjBhbW1vbmlhJTIyJTIwZmVydGlsaXplciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ4ODE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTYlM0EwOSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+      "pubDate": "Sat, 25 Jul 2026 16:09:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZweXRvcmNoLm9yZyUyRmJsb2clMkZicmluZ2luZy1weXRvcmNoLW1vbmFyY2gtdG8tYW1kLWdwdXMtc2luZ2xlLWNvbnRyb2xsZXItZGlzdHJpYnV0ZWQtdHJhaW5pbmctb24tcm9jbSUyRiU3Q2h0dHBzJTNBJTJGJTJGcHl0b3JjaC5vcmclMkZibG9nJTJGYnJpbmdpbmctcHl0b3JjaC1tb25hcmNoLXRvLWFtZC1ncHVzLXNpbmdsZS1jb250cm9sbGVyLWRpc3RyaWJ1dGVkLXRyYWluaW5nLW9uLXJvY20lMkYlN0NCcmluZ2luZyUyMFB5VG9yY2glMjBNb25hcmNoJTIwdG8lMjBBTUQlMjBHUFVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDg2ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAxNSUzQTU1JTNBMjclMjAlMkIwMDAw",
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "pubDate": "Sat, 25 Jul 2026 15:55:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZraXJ3aW5oYW1wc2hpcmUuc3Vic3RhY2suY29tJTJGcCUyRnRoZS1kYXJrLW5pZ2h0LW9mLW1hdGhlbWF0aWNzJTdDaHR0cHMlM0ElMkYlMkZraXJ3aW5oYW1wc2hpcmUuc3Vic3RhY2suY29tJTJGcCUyRnRoZS1kYXJrLW5pZ2h0LW9mLW1hdGhlbWF0aWNzJTdDVGhlJTIwRGFyayUyME5pZ2h0JTIwb2YlMjBNYXRoZW1hdGljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ4NjgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTUlM0E1NCUzQTU5JTIwJTJCMDAwMA",
+      "title": "The Dark Night of Mathematics",
+      "pubDate": "Sat, 25 Jul 2026 15:54:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29pbmRlc2suY29tJTJGbWFya2V0cyUyRjIwMjYlMkYwNyUyRjI0JTJGYnJhemlsaWFuLWZhcm1lcnMtdG9rZW5pemVkLWRhaXJ5LWNvd3MtdG8tZ2V0LWxvYW5zLWJ5cGFzc2luZy1iYW5rLWxlbmRpbmctbGltaXRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29pbmRlc2suY29tJTJGbWFya2V0cyUyRjIwMjYlMkYwNyUyRjI0JTJGYnJhemlsaWFuLWZhcm1lcnMtdG9rZW5pemVkLWRhaXJ5LWNvd3MtdG8tZ2V0LWxvYW5zLWJ5cGFzc2luZy1iYW5rLWxlbmRpbmctbGltaXRzJTdDQnJhemlsaWFuJTIwZmFybWVycyUyMHRva2VuaXplZCUyMGRhaXJ5JTIwY293cyUyMHRvJTIwZ2V0JTIwbG9hbnMlMkMlMjBieXBhc3NpbmclMjBiYW5rJTIwbGltaXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDg2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAxNSUzQTUxJTNBMjYlMjAlMkIwMDAw",
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "pubDate": "Sat, 25 Jul 2026 15:51:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYXJpbWplZGRhLmNvbSUyRmVuZ2luZWVyaW5nLW1hbmFnZW1lbnQtYWZ0ZXItY29zdC1vZi1jb2RlLWNvbGxhcHNlJTJGJTdDaHR0cHMlM0ElMkYlMkZrYXJpbWplZGRhLmNvbSUyRmVuZ2luZWVyaW5nLW1hbmFnZW1lbnQtYWZ0ZXItY29zdC1vZi1jb2RlLWNvbGxhcHNlJTJGJTdDRW5naW5lZXJpbmclMjBtYW5hZ2VtZW50JTIwYWZ0ZXIlMjB0aGUlMjBjb3N0JTIwb2YlMjBjb2RlJTIwY29sbGFwc2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDgyMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAxNSUzQTEwJTNBNTElMjAlMkIwMDAw",
+      "title": "Engineering management after the cost of code collapsed",
+      "pubDate": "Sat, 25 Jul 2026 15:10:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b2JpLmtuYXVwLm1lJTJGMjAyNi0wNy0yNS1vcGVuLXdlaWdodC1haS1pcy1oYXZpbmctaXRzLWt1YmVybmV0ZXMtbW9tZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZ0b2JpLmtuYXVwLm1lJTJGMjAyNi0wNy0yNS1vcGVuLXdlaWdodC1haS1pcy1oYXZpbmctaXRzLWt1YmVybmV0ZXMtbW9tZW50JTJGJTdDT3Blbi13ZWlnaHQlMjBBSSUyMGlzJTIwaGF2aW5nJTIwaXRzJTIwS3ViZXJuZXRlcyUyMG1vbWVudC4lMjBMZXQncyUyMG5vdCUyMHJ1aW4lMjBpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ4MDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTQlM0E0OSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "pubDate": "Sat, 25 Jul 2026 14:49:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYXR1cmluLm9yZyUyRmRvY3MlMkZpcHJvdXRlMiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmF0dXJpbi5vcmclMkZkb2NzJTJGaXByb3V0ZTIlMkYlN0NUYXNrLWNlbnRlcmVkJTIwaXByb3V0ZTIlMjB1c2VyJTIwZ3VpZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0Nzg4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDE0JTNBMzIlM0ExNiUyMCUyQjAwMDA",
+      "title": "Task-centered iproute2 user guide",
+      "pubDate": "Sat, 25 Jul 2026 14:32:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW5jaWVudEphbWVzJTJGU2NhbndoZWVsJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW5jaWVudEphbWVzJTJGU2NhbndoZWVsJTJGJTdDU2NhbndoZWVsJTIwaXMlMjBhJTIwZHJ1bSUyMHN0eWxlJTIwbWVjaGFuaWNhbCUyMHRlbGV2aXNpb24lMjB5b3UlMjBjYW4lMjBidWlsZCUyMHlvdXJzZWxmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDc3MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAxNCUzQTEwJTNBNDMlMjAlMkIwMDAw",
+      "title": "Scanwheel is a drum style mechanical television you can build yourself",
+      "pubDate": "Sat, 25 Jul 2026 14:10:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJtYXJzLm5maWxlcy50b3AlMkYlN0NodHRwcyUzQSUyRiUyRndlYm1hcnMubmZpbGVzLnRvcCUyRiU3Q015JTIwd2ViJTIwdmVyc2lvbiUyMG9mJTIwTWFycyUyME1JUFMlMkMlMjBub3clMjBoYXZlJTIwYnVpbHRpbiUyMEMlMjBjb21waWxlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ3NTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTMlM0E0MiUzQTI4JTIwJTJCMDAwMA",
+      "title": "My web version of Mars MIPS, now have builtin C compiler",
+      "pubDate": "Sat, 25 Jul 2026 13:42:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYWRpY2xlLm5ldHdvcmslMkZub2RlcyUyRnJvc2EucmFkaWNsZS5uZXR3b3JrJTJGcmFkJTI1M0F6MnY5dFJKejFva25GQXFDU1k1VzVjNzZuVnZtNiU3Q2h0dHBzJTNBJTJGJTJGcmFkaWNsZS5uZXR3b3JrJTJGbm9kZXMlMkZyb3NhLnJhZGljbGUubmV0d29yayUyRnJhZCUyNTNBejJ2OXRSSnoxb2tuRkFxQ1NZNVc1Yzc2blZ2bTYlN0NCaXRjaGF0JTIwSXMlMjBOb3clMjBvbiUyMFJhZGljbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NzM2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDEzJTNBMTglM0E0OSUyMCUyQjAwMDA",
+      "title": "Bitchat Is Now on Radicle",
+      "pubDate": "Sat, 25 Jul 2026 13:18:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa3liZXIlMkZqb2JzJTJGRkdtSThteC1oZWFkLW9mLWVuZ2luZWVyaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa3liZXIlMkZqb2JzJTJGRkdtSThteC1oZWFkLW9mLWVuZ2luZWVyaW5nJTdDS3liZXIlMjAoWUMlMjBXMjMpJTIwSXMlMjBIaXJpbmclMjBhJTIwSGVhZCUyMG9mJTIwRW5naW5lZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0Njg1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDEyJTNBMDAlM0EwNCUyMCUyQjAwMDA",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "pubDate": "Sat, 25 Jul 2026 12:00:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBha2Vlbi5jb20lMkZ3ZWJsb2clMkZ0aGUtZmVkb3JhLTQ1LXNhdXNhZ2UtZmFjdG9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3VwYWtlZW4uY29tJTJGd2VibG9nJTJGdGhlLWZlZG9yYS00NS1zYXVzYWdlLWZhY3RvcnklMkYlN0NUaGUlMjBGZWRvcmElMjA0NSUyMFNhdXNhZ2UlMjBGYWN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDY1MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAxMSUzQTA0JTNBNTclMjAlMkIwMDAw",
+      "title": "The Fedora 45 Sausage Factory",
+      "pubDate": "Sat, 25 Jul 2026 11:04:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXVnbWVudGFsLnRlY2glMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hdWdtZW50YWwudGVjaCUyRiU3Q01vdXRoUGFkJTNBJTIwQSUyMFRvbmd1ZS1Db250cm9sbGVkJTIwVG91Y2hwYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NTQ0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDA3JTNBNTElM0ExOSUyMCUyQjAwMDA",
+      "title": "MouthPad: A Tongue-Controlled Touchpad",
+      "pubDate": "Sat, 25 Jul 2026 07:51:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
     }
   ]
