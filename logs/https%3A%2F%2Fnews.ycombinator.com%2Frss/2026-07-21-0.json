@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-21",
     "newestItemDate": "2026-07-21",
-    "itemCount": 49,
-    "generatedAt": "2026-07-24T17:55:10.322Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-25T03:43:19.132Z"
   },
   "items": [
     {
@@ -300,6 +300,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmZW5pYy5haSUyRmJsb2clMkZleHRlbmRpbmctcG9sYXJzLXdpdGgtcnVzdC1leHByZXNzaW9uLXBsdWdpbnMlN0NodHRwcyUzQSUyRiUyRmZlbmljLmFpJTJGYmxvZyUyRmV4dGVuZGluZy1wb2xhcnMtd2l0aC1ydXN0LWV4cHJlc3Npb24tcGx1Z2lucyU3Q0V4dGVuZGluZyUyMFBvbGFycyUyMHdpdGglMjBSdXN0JTIwRXhwcmVzc2lvbiUyMFBsdWdpbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5ODU4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDIxJTNBMjYlM0EzMiUyMCUyQjAwMDA",
       "title": "Extending Polars with Rust Expression Plugins",
       "pubDate": "Tue, 21 Jul 2026 21:26:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1vemlsbGEub3JnJTJGZW4lMkZmaXJlZm94JTJGZmlyZWZveC1jb250YWluZXJzLXByZXZpZXclMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cubW96aWxsYS5vcmclMkZlbiUyRmZpcmVmb3glMkZmaXJlZm94LWNvbnRhaW5lcnMtcHJldmlldyUyRiU3Q0ZpcmVmb3glMjBDb250YWluZXJzJTIwUHJldmlldyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ4OTk1NDA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjElMjBKdWwlMjAyMDI2JTIwMTclM0EyNyUzQTU5JTIwJTJCMDAwMA",
+      "title": "Firefox Containers Preview",
+      "pubDate": "Tue, 21 Jul 2026 17:27:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXJrc2IuZ2l0aHViLmlvJTJGZW4lMkZhcnRpY2xlJTJGMjkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGFya3NiLmdpdGh1Yi5pbyUyRmVuJTJGYXJ0aWNsZSUyRjI5Lmh0bWwlN0NBJTIwY29uY3JldGUlMjBleHBsYW5hdGlvbiUyMG9mJTIwaG93JTIwYSUyMGNhY2hlJTIwd29ya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0ODk5MjUzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIxJTIwSnVsJTIwMjAyNiUyMDE0JTNBMDUlM0ExNiUyMCUyQjAwMDA",
+      "title": "A concrete explanation of how a cache works",
+      "pubDate": "Tue, 21 Jul 2026 14:05:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
     }
   ]

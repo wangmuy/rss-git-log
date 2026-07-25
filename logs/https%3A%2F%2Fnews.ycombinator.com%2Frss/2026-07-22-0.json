@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 52,
-    "generatedAt": "2026-07-24T17:55:10.322Z"
+    "itemCount": 54,
+    "generatedAt": "2026-07-25T03:43:19.132Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlZGVyYS5kZXYlMkZzdG9yaWVzJTJGbnVtYS1wYXJ0LTQtY2xvc2luZy10aGUteGVuLWRvbTAtaS1vLWdhcCU3Q2h0dHBzJTNBJTJGJTJGZWRlcmEuZGV2JTJGc3RvcmllcyUyRm51bWEtcGFydC00LWNsb3NpbmctdGhlLXhlbi1kb20wLWktby1nYXAlN0NNYWtpbmclMjBYZW4ncyUyMGRvbTAlMjBJJTJGTyUyMHBhdGglMjBOVU1BJTIwYXdhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAwNDU0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDEwJTNBMzUlM0E0MyUyMCUyQjAwMDA",
       "title": "Making Xen's dom0 I/O path NUMA aware",
       "pubDate": "Wed, 22 Jul 2026 10:35:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLm1pdC5lZHUlMkYyMDI2JTJGdGhyZWUtc2lkZWQteS16aXBwZXItZGVzaWduLTA1MDQlN0NodHRwcyUzQSUyRiUyRm5ld3MubWl0LmVkdSUyRjIwMjYlMkZ0aHJlZS1zaWRlZC15LXppcHBlci1kZXNpZ24tMDUwNCU3Q0FuJTIwb2xkJTIwcGF0ZW50JTIwaW5zcGlyZWQlMjB0aGUlMjBuZXclMjAlMjJZLXppcHBlciUyMiUyQyUyMGElMjB0aHJlZS1zaWRlZCUyMGZhc3RlbmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDg1MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxNSUzQTM3JTNBMjUlMjAlMkIwMDAw",
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "pubDate": "Wed, 22 Jul 2026 15:37:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJpbW8uaW8lMkZibG9nJTJGcHljaGFybSU3Q2h0dHBzJTNBJTJGJTJGbWFyaW1vLmlvJTJGYmxvZyUyRnB5Y2hhcm0lN0NNYXJpbW8lMjBub3clMjBydW5zJTIwaW4lMjBQeUNoYXJtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDQ0NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxMCUzQTI0JTNBNDAlMjAlMkIwMDAw",
+      "title": "Marimo now runs in PyCharm",
+      "pubDate": "Wed, 22 Jul 2026 10:24:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]

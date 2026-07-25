@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-23",
     "newestItemDate": "2026-07-23",
-    "itemCount": 46,
-    "generatedAt": "2026-07-24T10:30:14.806Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-25T03:43:19.131Z"
   },
   "items": [
     {
@@ -282,6 +282,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ4bi0tZ2NrdmI4ZnpiLmNvbSUyRmktcmVncmV0LW1pZ3JhdGluZy10by1jb2RlYmVyZyUyRiU3Q2h0dHBzJTNBJTJGJTJGeG4tLWdja3ZiOGZ6Yi5jb20lMkZpLXJlZ3JldC1taWdyYXRpbmctdG8tY29kZWJlcmclMkYlN0NJJTIwcmVncmV0JTIwbWlncmF0aW5nJTIwdG8lMjBDb2RlYmVyZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIxODU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTQlM0EwNiUzQTQ3JTIwJTJCMDAwMA",
       "title": "I regret migrating to Codeberg",
       "pubDate": "Thu, 23 Jul 2026 14:06:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0Q1Ri0yWTFMUFJlayU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNENUYtMlkxTFBSZWslN0NGaWwtQyUzQSUyMEdhcmJhZ2UlMjBJbiUyQyUyME1lbW9yeSUyMFNhZmV0eSUyME91dCUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMjY5MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAxOSUzQTM3JTNBMzclMjAlMkIwMDAw",
+      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+      "pubDate": "Thu, 23 Jul 2026 19:37:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmZyaWVkX3JpY2UlMkZzdGF0dXMlMkYyMDgwMDU5MzU2MzIyOTE4Nzc3JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmZyaWVkX3JpY2UlMkZzdGF0dXMlMkYyMDgwMDU5MzU2MzIyOTE4Nzc3JTdDS2ltaSUyMEszJTIwZXhwbG9pdGVkJTIwdGhlJTIwbGF0ZXN0JTIwUmVkaXMlMjBzZXJ2ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyNDkzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE3JTNBMTAlM0EwMiUyMCUyQjAwMDA",
+      "title": "Kimi K3 exploited the latest Redis server",
+      "pubDate": "Thu, 23 Jul 2026 17:10:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbG9iYWxvaWxuZXR3b3JrLnN0YWZmaW5nYW5hbHl0aWNzLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZnbG9iYWxvaWxuZXR3b3JrLnN0YWZmaW5nYW5hbHl0aWNzLmlvJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSUyMHNpbXVsYXRlZCUyMGNsb3NpbmclMjB0aGUlMjBTdHJhaXQlMjBvZiUyMEhvcm11eiUyMG9uJTIwcmVhbCUyMG9pbCUyMHRyYWRlJTIwZGF0YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIwNTQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTIlM0EzMSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "pubDate": "Thu, 23 Jul 2026 12:31:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
     }
   ]

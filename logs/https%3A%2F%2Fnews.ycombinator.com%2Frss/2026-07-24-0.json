@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-24",
     "newestItemDate": "2026-07-24",
-    "itemCount": 36,
-    "generatedAt": "2026-07-24T17:55:10.322Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-25T03:43:19.131Z"
   },
   "items": [
     {
@@ -222,6 +222,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ6aWdnaXQuZGV2JTJGdCUyRmJ1ei1hLWRyb3AtaW4tcmVwbGFjZW1lbnQtZm9yLWJ1bi11c2luZy1tb2Rlcm4temlnLXdpdGgtc3ViLTFzLWluY3JlbWVudGFsLWJ1aWxkcyUyRjE2ODkxJTdDaHR0cHMlM0ElMkYlMkZ6aWdnaXQuZGV2JTJGdCUyRmJ1ei1hLWRyb3AtaW4tcmVwbGFjZW1lbnQtZm9yLWJ1bi11c2luZy1tb2Rlcm4temlnLXdpdGgtc3ViLTFzLWluY3JlbWVudGFsLWJ1aWxkcyUyRjE2ODkxJTdDQnV6JTIwJUUyJTgwJTkzJTIwQSUyMGZvcmslMjBvZiUyMEJ1biUyMHVzaW5nJTIwbW9kZXJuJTIwWmlnJTJDJTIwd2l0aCUyMHN1Yi0xcyUyMGluY3JlbWVudGFsJTIwYnVpbGRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzMwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAwOSUzQTI2JTNBNDAlMjAlMkIwMDAw",
       "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
       "pubDate": "Fri, 24 Jul 2026 09:26:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnN0LWFuZHJld3MuYWMudWslMkZhcmNoaXZlJTJGc3Blcm0td2hhbGVzLWJsb3ctYnViYmxlcy10by1hY2hpZXZlLXJlc3RmdWwtdmVydGljYWwtc2xlZXAlMkYlN0NodHRwcyUzQSUyRiUyRm5ld3Muc3QtYW5kcmV3cy5hYy51ayUyRmFyY2hpdmUlMkZzcGVybS13aGFsZXMtYmxvdy1idWJibGVzLXRvLWFjaGlldmUtcmVzdGZ1bC12ZXJ0aWNhbC1zbGVlcCUyRiU3Q1NwZXJtJTIwV2hhbGVzJTIwYmxvdyUyMGJ1YmJsZXMlMjB0byUyMGFjaGlldmUlMjByZXN0ZnVsJTJDJTIwdmVydGljYWwlMjBzbGVlcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQyNzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMjMlM0ExMyUzQTE4JTIwJTJCMDAwMA",
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "pubDate": "Fri, 24 Jul 2026 23:13:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXByZXN0YSUyRm1heC1zdHVkaW8tdG9vbHMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhcHJlc3RhJTJGbWF4LXN0dWRpby10b29scyU3Q1Nob3clMjBITiUzQSUyME1heCUyMFN0dWRpbyUyMFRvb2xzJTIwJUUyJTgwJTkzJTIwQyUyQiUyQiUyMERTUCUyME1vZHVsZXMlMjBmb3IlMjBNYXglMjBhbmQlMjBBYmxldG9uJTIwTGl2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQxNTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMjElM0EwMyUzQTEwJTIwJTJCMDAwMA",
+      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+      "pubDate": "Fri, 24 Jul 2026 21:03:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlN0NodHRwcyUzQSUyRiUyRmFydGlmaWNpYWxhbmFseXNpcy5haSUyRm1vZGVscyU3Q09wdXMlMjA1JTIwaXMlMjBjdXJyZW50bHklMjAlMjMxJTIwb24lMjBBcnRpZmljaWFsJTIwQW5hbHlzaXMlMjBJbnRlbGxpZ2VuY2UlMjBMZWFkZXJib2FyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQwNzQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTklM0E0NSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "pubDate": "Fri, 24 Jul 2026 19:45:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGJvcy5kZXYlMkZibG9nJTJGcG9zdGdyZXMtbGlzdGVuLW5vdGlmeS1zY2FsYWJpbGl0eSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRib3MuZGV2JTJGYmxvZyUyRnBvc3RncmVzLWxpc3Rlbi1ub3RpZnktc2NhbGFiaWxpdHklN0NQb3N0Z3JlcyUyMExJU1RFTiUyRk5PVElGWSUyMGFjdHVhbGx5JTIwc2NhbGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDAyOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxOSUzQTA1JTNBNTMlMjAlMkIwMDAw",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "pubDate": "Fri, 24 Jul 2026 19:05:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1aS5nc3hocS5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRnVpLmdzeGhxLmRldiUyRiU3Q0dzeHVpJTIwJUUyJTgwJTkzJTIwU2hhZGNuLXN0eWxlJTIwY29tcG9uZW50cyUyMGZvciUyMEdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzkzOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxNyUzQTU5JTNBMDglMjAlMkIwMDAw",
+      "title": "Gsxui – Shadcn-style components for Go",
+      "pubDate": "Fri, 24 Jul 2026 17:59:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZjbGF1ZGUtb3B1cy01JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZjbGF1ZGUtb3B1cy01JTdDQ2xhdWRlJTIwT3B1cyUyMDUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzODQzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDE2JTNBNTclM0E0MSUyMCUyQjAwMDA",
+      "title": "Claude Opus 5",
+      "pubDate": "Fri, 24 Jul 2026 16:57:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0R6TFp3cEg1bENENCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEekxad3BINWxDRDQlN0NEb24ndCUyMFRha2UlMjB0aGUlMjBCbGFjayUyMFBpbGwlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM4Mjk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTYlM0E0OCUzQTU3JTIwJTJCMDAwMA",
+      "title": "Don't Take the Black Pill [video]",
+      "pubDate": "Fri, 24 Jul 2026 16:48:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDclMkYyNCUyRm52aWRpYS1taWNyb3NvZnQtbWV0YS1vcGVuLXdlaWdodC1haS1tb2RlbHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNuYmMuY29tJTJGMjAyNiUyRjA3JTJGMjQlMkZudmlkaWEtbWljcm9zb2Z0LW1ldGEtb3Blbi13ZWlnaHQtYWktbW9kZWxzLmh0bWwlN0NOdmlkaWElMkMlMjBNaWNyb3NvZnQlMkMlMjBNZXRhJTIwd2FybiUyMGFnYWluc3QlMjBvdmVycmVndWxhdGluZyUyMG9wZW4td2VpZ2h0JTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzUzMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxMyUzQTMyJTNBMzAlMjAlMkIwMDAw",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "pubDate": "Fri, 24 Jul 2026 13:32:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJ1aC5sdGQlMkZibG9nJTJGcHJvZ3JhbW1pbmctbGFuZ3VhZ2UtZmlsZS1leHRlbnNpb25zLXRoYXQtbWF0Y2gtYW4taXNvLTMxNjYtMS1hbHBoYS0yLWNvdW50cnktY29kZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJydWgubHRkJTJGYmxvZyUyRnByb2dyYW1taW5nLWxhbmd1YWdlLWZpbGUtZXh0ZW5zaW9ucy10aGF0LW1hdGNoLWFuLWlzby0zMTY2LTEtYWxwaGEtMi1jb3VudHJ5LWNvZGUlMkYlN0NQcm9ncmFtbWluZyUyMGxhbmd1YWdlJTIwZmlsZSUyMGV4dGVuc2lvbnMlMjB0aGF0JTIwbWF0Y2glMjBJU08lMjAzMTY2LTElMjBhbHBoYS0yJTIwY291bnRyeSUyMGNvZGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzQ2NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxMiUzQTM0JTNBMjglMjAlMkIwMDAw",
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+      "pubDate": "Fri, 24 Jul 2026 12:34:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW5kcmV3emlnbGVyLmNvbSUyRmZlZWQlMkZ0aGUtY2FzZS1mb3ItbXVkcy1pbi1tb2Rlcm4tdGltZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5hbmRyZXd6aWdsZXIuY29tJTJGZmVlZCUyRnRoZS1jYXNlLWZvci1tdWRzLWluLW1vZGVybi10aW1lcyU3Q1RoZSUyMGNhc2UlMjBmb3IlMjBNVURzJTIwaW4lMjBtb2Rlcm4lMjB0aW1lcyUyMCgyMDE4KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM0MjE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTElM0E0NiUzQTQwJTIwJTJCMDAwMA",
+      "title": "The case for MUDs in modern times (2018)",
+      "pubDate": "Fri, 24 Jul 2026 11:46:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3VzZW9mc2F1ZC5jb20lMkZpcmdjLWNsYWltcy1kZXN0cm95ZWQtYW1hem9uLWJhaHJhaW4tZGF0YS1jZW50ZXIlMkYlN0NodHRwcyUzQSUyRiUyRmhvdXNlb2ZzYXVkLmNvbSUyRmlyZ2MtY2xhaW1zLWRlc3Ryb3llZC1hbWF6b24tYmFocmFpbi1kYXRhLWNlbnRlciUyRiU3Q0lSR0MlMjBjbGFpbXMlMjBpdCUyMGRlc3Ryb3llZCUyMEFtYXpvbidzJTIwQmFocmFpbiUyMGRhdGElMjBjZW50ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzMzI0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDA5JTNBNTIlM0E1OCUyMCUyQjAwMDA",
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "pubDate": "Fri, 24 Jul 2026 09:52:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNiLmV1cm9wYS5ldSUyRmV1cm8lMkZiYW5rbm90ZXMlMkZmdXR1cmVfYmFua25vdGVzJTJGaHRtbCUyRmFsbC1kZXNpZ24tcHJvcG9zYWxzLmVuLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5lY2IuZXVyb3BhLmV1JTJGZXVybyUyRmJhbmtub3RlcyUyRmZ1dHVyZV9iYW5rbm90ZXMlMkZodG1sJTJGYWxsLWRlc2lnbi1wcm9wb3NhbHMuZW4uaHRtbCU3Q0Z1dHVyZSUyMGV1cm8lMjBiYW5rbm90ZSUyMGRlc2lnbiUyMHByb3Bvc2FscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDMzMTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMDklM0EyOSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Future euro banknote design proposals",
+      "pubDate": "Fri, 24 Jul 2026 09:29:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdHJjaG0uY29tJTJGcG9zdHMlMkZub3RoaW5nLXdvcmtzLWFuZC1ldmVyeW9uZS1pcy1ldXBob3JpYyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHRyY2htLmNvbSUyRnBvc3RzJTJGbm90aGluZy13b3Jrcy1hbmQtZXZlcnlvbmUtaXMtZXVwaG9yaWMlMkYlN0NJZiUyMGNvZGluZyUyMGhhcyUyMGJlZW4lMjBzb2x2ZWQlMkMlMjB3aHklMjBkb2VzJTIwc29mdHdhcmUlMjBrZWVwJTIwZ2V0dGluZyUyMHdvcnNlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzMwMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAwOSUzQTA4JTNBMTclMjAlMkIwMDAw",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "pubDate": "Fri, 24 Jul 2026 09:08:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
     }
   ]
