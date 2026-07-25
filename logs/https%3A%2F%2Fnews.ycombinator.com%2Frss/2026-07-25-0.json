@@ -4,14 +4,44 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-25",
     "newestItemDate": "2026-07-25",
-    "itemCount": 1,
-    "generatedAt": "2026-07-25T03:43:19.131Z"
+    "itemCount": 6,
+    "generatedAt": "2026-07-25T10:02:15.813Z"
   },
   "items": [
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRmhlYWx0aCUyRnRheWxvci1mYXJtcy1jeWNsb3Nwb3JhLXJlY2FsbC1kZWxheS1jYWxsLTQxZmVmMGJjJTdDaHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRmhlYWx0aCUyRnRheWxvci1mYXJtcy1jeWNsb3Nwb3JhLXJlY2FsbC1kZWxheS1jYWxsLTQxZmVmMGJjJTdDVGF5bG9yJTIwRmFybXMlMjBDYWxsZWQlMjBXaGl0ZSUyMEhvdXNlJTIwdG8lMjBUcnklMjB0byUyMERlbGF5JTIwQ3ljbG9zcG9yYSUyMFJlY2FsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ0MDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMDIlM0E1NCUzQTM2JTIwJTJCMDAwMA",
       "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
       "pubDate": "Sat, 25 Jul 2026 02:54:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZraXRzdW1lZC5naXRodWIuaW8lMkZibG9nJTJGcG9zdHMlMkZhbmRyb2lkLW1heS1zb29uLXJlc3RyaWN0LW9uLWRldmljZS1hZGIlMkYlN0NodHRwcyUzQSUyRiUyRmtpdHN1bWVkLmdpdGh1Yi5pbyUyRmJsb2clMkZwb3N0cyUyRmFuZHJvaWQtbWF5LXNvb24tcmVzdHJpY3Qtb24tZGV2aWNlLWFkYiUyRiU3Q0FuZHJvaWQlMjBNYXklMjBTb29uJTIwUmVzdHJpY3QlMjBPbi1EZXZpY2UlMjBBREIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NTE1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDA2JTNBNTclM0ExNCUyMCUyQjAwMDA",
+      "title": "Android May Soon Restrict On-Device ADB",
+      "pubDate": "Sat, 25 Jul 2026 06:57:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNwcml6ZS5vcmclMkZsZWFkZXJib2FyZCU3Q2h0dHBzJTNBJTJGJTJGYXJjcHJpemUub3JnJTJGbGVhZGVyYm9hcmQlN0NBUkMtQUdJJTIwTGVhZGVyYm9hcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NTA0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDA2JTNBMzElM0E0MCUyMCUyQjAwMDA",
+      "title": "ARC-AGI Leaderboard",
+      "pubDate": "Sat, 25 Jul 2026 06:31:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZleHRpbmN0LW1lZGlhLW11c2V1bS5ibG9nLmpwJTJGb3RlbWFjaGklMkYlN0NodHRwcyUzQSUyRiUyRmV4dGluY3QtbWVkaWEtbXVzZXVtLmJsb2cuanAlMkZvdGVtYWNoaSUyRiU3Q0V4dGluY3QlMjBNZWRpYSUyME11c2V1bSUyMFRva3lvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDQ4NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAwNSUzQTUxJTNBMjclMjAlMkIwMDAw",
+      "title": "Extinct Media Museum Tokyo",
+      "pubDate": "Sat, 25 Jul 2026 05:51:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmlzdC5nb3YlMkZuZXdzLWV2ZW50cyUyRm5ld3MlMkYyMDI2JTJGMDclMkZ1ay1haXNpLWNhaXNpLXByZWxpbWluYXJ5LWFzc2Vzc21lbnQta2ltaS1rM3MtY3liZXItY2FwYWJpbGl0aWVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmlzdC5nb3YlMkZuZXdzLWV2ZW50cyUyRm5ld3MlMkYyMDI2JTJGMDclMkZ1ay1haXNpLWNhaXNpLXByZWxpbWluYXJ5LWFzc2Vzc21lbnQta2ltaS1rM3MtY3liZXItY2FwYWJpbGl0aWVzJTdDVUslMjBBSVNJJTIwJTJGJTIwQ2Fpc2klMjBQcmVsaW1pbmFyeSUyMEFzc2Vzc21lbnQlMjBvZiUyMEtpbWklMjBLMydzJTIwQ3liZXIlMjBDYXBhYmlsaXRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NDQ5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDA0JTNBMjAlM0EyMSUyMCUyQjAwMDA",
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "pubDate": "Sat, 25 Jul 2026 04:20:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0aHMuY2FtLmFjLnVrJTJGZmVhdHVyZXMlMkZwcm9mZXNzb3ItaGFubmFoLWZyeS13aW5zLWxlZWxhdmF0aS1wcml6ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hdGhzLmNhbS5hYy51ayUyRmZlYXR1cmVzJTJGcHJvZmVzc29yLWhhbm5haC1mcnktd2lucy1sZWVsYXZhdGktcHJpemUlN0NIYW5uYWglMjBGcnklMjBXaW5zJTIwdGhlJTIwTGVlbGF2YXRpJTIwUHJpemUlMjBpbiUyMDIwMjYlMjBmb3IlMjBNYXRoZW1hdGljcyUyME91dHJlYWNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDM3MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAwMSUzQTQ0JTNBMTIlMjAlMkIwMDAw",
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "pubDate": "Sat, 25 Jul 2026 01:44:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 54,
-    "generatedAt": "2026-07-25T03:43:19.132Z"
+    "itemCount": 57,
+    "generatedAt": "2026-07-25T10:02:15.814Z"
   },
   "items": [
     {
@@ -330,6 +330,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXJpbW8uaW8lMkZibG9nJTJGcHljaGFybSU3Q2h0dHBzJTNBJTJGJTJGbWFyaW1vLmlvJTJGYmxvZyUyRnB5Y2hhcm0lN0NNYXJpbW8lMjBub3clMjBydW5zJTIwaW4lMjBQeUNoYXJtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMDQ0NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxMCUzQTI0JTNBNDAlMjAlMkIwMDAw",
       "title": "Marimo now runs in PyCharm",
       "pubDate": "Wed, 22 Jul 2026 10:24:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYyMiUyRmFydHMlMkZkZXNpZ24lMkZjaGFybGVzLXJvc3Mtc3Rhci1heGlzLWxhbmQtYXJ0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwNyUyRjIyJTJGYXJ0cyUyRmRlc2lnbiUyRmNoYXJsZXMtcm9zcy1zdGFyLWF4aXMtbGFuZC1hcnQuaHRtbCU3Q0NoYXJsZXMlMjBSb3NzJTIwc3BlbnQlMjA1MCUyMHlycyUyMGJ1aWxkaW5nJTIwU3RhciUyMEF4aXMlMjBuYWtlZC1leWUlMjBvYnNlcnZhdG9yeSUyMGluJTIwTmV3JTIwTWV4aWNvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTQwMzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAyMSUzQTU4JTNBNDIlMjAlMkIwMDAw",
+      "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+      "pubDate": "Wed, 22 Jul 2026 21:58:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm9va2Nvcm5lcnMub3JnJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYm9va2Nvcm5lcnMub3JnJTJGJTdDQm9vayUyMENvcm5lcnMlM0ElMjBDb21tdW5pdHklMjBtYXAlMjBvZiUyMG5laWdoYm9yaG9vZCUyMGJvb2slMjBleGNoYW5nZSUyMHNwb3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTI2MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAyMCUzQTAzJTNBMzIlMjAlMkIwMDAw",
+      "title": "Book Corners: Community map of neighborhood book exchange spots",
+      "pubDate": "Wed, 22 Jul 2026 20:03:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYWZmcm9uY3IuaXRjaC5pbyUyRmthdGF2YXRpcyUyRmRldmxvZyUyRjE1MzQ1MTQlMkZidWlsZGluZy1hLXRpbnktM2QtcmVuZGVyZXItZm9yLWEtdGlueS1oYW5kaGVsZCU3Q2h0dHBzJTNBJTJGJTJGc2FmZnJvbmNyLml0Y2guaW8lMkZrYXRhdmF0aXMlMkZkZXZsb2clMkYxNTM0NTE0JTJGYnVpbGRpbmctYS10aW55LTNkLXJlbmRlcmVyLWZvci1hLXRpbnktaGFuZGhlbGQlN0NCdWlsZGluZyUyMGElMjBUaW55JTIwM0QlMjBSZW5kZXJlciUyMGZvciUyMGElMjBUaW55JTIwSGFuZGhlbGQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAxMDk5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE4JTNBMDklM0EyNiUyMCUyQjAwMDA",
+      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+      "pubDate": "Wed, 22 Jul 2026 18:09:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]
