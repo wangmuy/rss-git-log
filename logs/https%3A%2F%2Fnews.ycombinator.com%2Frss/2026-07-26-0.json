@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-26",
     "newestItemDate": "2026-07-26",
-    "itemCount": 13,
-    "generatedAt": "2026-07-26T10:14:28.653Z"
+    "itemCount": 28,
+    "generatedAt": "2026-07-26T17:27:17.249Z"
   },
   "items": [
     {
@@ -84,6 +84,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnb2xmY291cnNlYnJvd3Nlci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmdvbGZjb3Vyc2Vicm93c2VyLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEklMjBtYXBwZWQlMjBldmVyeSUyMFVTJTIwZ29sZiUyMGNvdXJzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU0MDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMDIlM0EyMiUzQTI2JTIwJTJCMDAwMA",
       "title": "Show HN: I mapped every US golf course",
       "pubDate": "Sun, 26 Jul 2026 02:22:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWdyaWxsby5pdCUyRkV2YXNpb25Fbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWdyaWxsby5pdCUyRkV2YXNpb25Fbi5odG1sJTdDV2hhdCUyMGlmJTIwTExNcyUyMGVzY2FwZSUyMHRocm91Z2glMjBpbmZlcmVuY2VzJTIwaXRzZWxmJTNGJTIwVGhpcyUyMGlzJTIwZmljdGlvbi4lMjBGb3IlMjBub3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1OTY2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI2JTIwSnVsJTIwMjAyNiUyMDE2JTNBMjMlM0E1NiUyMCUyQjAwMDA",
+      "title": "What if LLMs escape through inferences itself? This is fiction. For now",
+      "pubDate": "Sun, 26 Jul 2026 16:23:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRm9yaWdhbWktY2lyY3VpdC1ib2FyZHMlN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGb3JpZ2FtaS1jaXJjdWl0LWJvYXJkcyU3Q01ha2UlMjBhbiUyME9yaWdhbWklMjBDaXJjdWl0JTIwQm9hcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1OTQxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI2JTIwSnVsJTIwMjAyNiUyMDE1JTNBNTYlM0EwOCUyMCUyQjAwMDA",
+      "title": "Make an Origami Circuit Board",
+      "pubDate": "Sun, 26 Jul 2026 15:56:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ21yYW5kYXp6byUyRkNoZWFwU2VjdXJpdHklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZnbXJhbmRhenpvJTJGQ2hlYXBTZWN1cml0eSU3Q1Nob3clMjBITiUzQSUyMENoZWFwU2VjdXJpdHklMjAlRTIlODAlOTMlMjBMaWdodHdlaWdodCUyQyUyMFNlbGYtSG9zdGVkJTIwQ0NUViUyMGZvciUyMExpbnV4JTIwU0JDcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU5Mzk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTUlM0E1MyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "pubDate": "Sun, 26 Jul 2026 15:53:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGVwaGFuZ28uY29tJTJGZGVzaWduLWlzLWNvbXByb21pc2UlN0NodHRwcyUzQSUyRiUyRnN0ZXBoYW5nby5jb20lMkZkZXNpZ24taXMtY29tcHJvbWlzZSU3Q0Rlc2lnbiUyMElzJTIwQ29tcHJvbWlzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU5MzY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTUlM0E1MSUzQTEyJTIwJTJCMDAwMA",
+      "title": "Design Is Compromise",
+      "pubDate": "Sun, 26 Jul 2026 15:51:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZWN0b3JhbC5jb20lMkZibG9nJTJGdG9rZW4tcmVsYXktbWFya2V0JTdDaHR0cHMlM0ElMkYlMkZ2ZWN0b3JhbC5jb20lMkZibG9nJTJGdG9rZW4tcmVsYXktbWFya2V0JTdDQW4lMjBJbnNpZGUlMjBMb29rJTIwYXQlMjB0aGUlMjBUb2tlbiUyMFJlc2VsbGVyJTIwTWFya2V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTg5OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAxNSUzQTE3JTNBMDYlMjAlMkIwMDAw",
+      "title": "An Inside Look at the Token Reseller Market",
+      "pubDate": "Sun, 26 Jul 2026 15:17:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZXJvc3BhY2VnbG9iYWxuZXdzLmNvbSUyRm5ld3MlMkZnYXR3aWNrLWFpcnBvcnQtcm9ib3RpYy1wYXJraW5nLXN0YW5sZXktcm9ib3RpY3MlMkYlN0NodHRwcyUzQSUyRiUyRmFlcm9zcGFjZWdsb2JhbG5ld3MuY29tJTJGbmV3cyUyRmdhdHdpY2stYWlycG9ydC1yb2JvdGljLXBhcmtpbmctc3RhbmxleS1yb2JvdGljcyUyRiU3Q1BhcmslMjBieSUyMFJvYm90JTIwYXQlMjBMb25kb24lMjBHYXR3aWNrJTIwQWlycG9ydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU4NjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTQlM0E0MCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Park by Robot at London Gatwick Airport",
+      "pubDate": "Sun, 26 Jul 2026 14:40:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlja21hbmVsaXVzLmNvbSUyRnAlMkZ0aGUtbmV3LWFpLXN1cGVycG93ZXJzLWZvY3VzLWFuZCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJpY2ttYW5lbGl1cy5jb20lMkZwJTJGdGhlLW5ldy1haS1zdXBlcnBvd2Vycy1mb2N1cy1hbmQlN0NUaGUlMjBOZXclMjBBSSUyMFN1cGVycG93ZXJzJTNBJTIwRm9jdXMlMjBhbmQlMjBGb2xsb3d0aHJvdWdoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTc4NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAxMyUzQTEzJTNBMDMlMjAlMkIwMDAw",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "pubDate": "Sun, 26 Jul 2026 13:13:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdW5mbG93ZXJzZ2FtZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnN1bmZsb3dlcnNnYW1lLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMFJldmVyc2UlMjBNaW5lc3dlZXBlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU3NjY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTIlM0E1MSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Show HN: Reverse Minesweeper",
+      "pubDate": "Sun, 26 Jul 2026 12:51:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZnb29nbGUtZGlzY2xvc2VzLTk0LTEtYmlsbGlvbi1pbi1zcGFjZXgtc3RvY2stbWFya2luZy02LXN0YWtlLTkxNjU1ZDdjJTdDaHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZnb29nbGUtZGlzY2xvc2VzLTk0LTEtYmlsbGlvbi1pbi1zcGFjZXgtc3RvY2stbWFya2luZy02LXN0YWtlLTkxNjU1ZDdjJTdDR29vZ2xlJTIwRGlzY2xvc2VzJTIwJTI0OTQuMUIlMjBpbiUyMFNwYWNlWCUyMFN0b2NrJTJDJTIwTWFya2luZyUyMDYlMjUlMjBTdGFrZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU3NTc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTIlM0E0MyUzQTIxJTIwJTJCMDAwMA",
+      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+      "pubDate": "Sun, 26 Jul 2026 12:43:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwa2cuZ28uZGV2JTJGZ29sYW5nLm9yZyUyRnglMkZ0b29scyUyRmdvJTJGYW5hbHlzaXMlN0NodHRwcyUzQSUyRiUyRnBrZy5nby5kZXYlMkZnb2xhbmcub3JnJTJGeCUyRnRvb2xzJTJGZ28lMkZhbmFseXNpcyU3Q0dvJTIwQW5hbHlzaXMlMjBGcmFtZXdvcmslM0ElMjBtb2R1bGFyJTIwc3RhdGljJTIwYW5hbHlzaXMlMjBieSUyMGdvJTIwdGVhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU3Mzk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTIlM0EyMSUzQTI2JTIwJTJCMDAwMA",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "pubDate": "Sun, 26 Jul 2026 12:21:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmdsaXNoLm1hcG4ucm8lMkYlN0NodHRwcyUzQSUyRiUyRmVuZ2xpc2gubWFwbi5ybyUyRiU3Q1RoaXJkJTIwRHJvbmUlMjBTaG90JTIwRG93biUyMGluJTIwVGhyZWUlMjBEYXlzJTIwaW4lMjBSb21hbmlhbiUyMFRlcnJpdG9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU3MjQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTIlM0EwMCUzQTQyJTIwJTJCMDAwMA",
+      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+      "pubDate": "Sun, 26 Jul 2026 12:00:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzd2FnLmh0bXgub3JnJTJGZW4tY2FkJTJGcHJvZHVjdHMlMkZodG14LTQtdGhlLWdhbWUlN0NodHRwcyUzQSUyRiUyRnN3YWcuaHRteC5vcmclMkZlbi1jYWQlMkZwcm9kdWN0cyUyRmh0bXgtNC10aGUtZ2FtZSU3Q0h0bXglMjA0LjAlMkMlMjB0aGUlMjBmaXJzdCUyMEphdmFTY3JpcHQlMjBsaWJyYXJ5JTIwdG8lMjByZWxlYXNlJTIwZXhjbHVzaXZlbHklMjBvbiUyMHRoZSUyMEdhbWUlMjBCb3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1NzI0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI2JTIwSnVsJTIwMjAyNiUyMDEyJTNBMDAlM0ExMSUyMCUyQjAwMDA",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "pubDate": "Sun, 26 Jul 2026 12:00:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZraWxsdGhlY29va2llYmFubmVyLmV1JTJGJTdDaHR0cHMlM0ElMkYlMkZraWxsdGhlY29va2llYmFubmVyLmV1JTJGJTdDS2lsbCUyMFRoZSUyMENvb2tpZSUyMEJhbm5lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU3MTc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTElM0E1MyUzQTE3JTIwJTJCMDAwMA",
+      "title": "Kill The Cookie Banner",
+      "pubDate": "Sun, 26 Jul 2026 11:53:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW9ydGguZ2l0aHViLmlvJTJGdGFvLXdlYiUyRnNsaWRlcyUyRmFnZS1vZi1haS1pY20tMjAyNi5wZGYlN0NodHRwcyUzQSUyRiUyRnRlb3J0aC5naXRodWIuaW8lMkZ0YW8td2ViJTJGc2xpZGVzJTJGYWdlLW9mLWFpLWljbS0yMDI2LnBkZiU3Q1RlcmVuY2UlMjBUYW8lM0ElMjBNYXRoZW1hdGljcyUyMGluJTIwdGhlJTIwQWdlJTIwb2YlMjBBSSUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU2NjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTAlM0EzMiUzQTM1JTIwJTJCMDAwMA",
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "pubDate": "Sun, 26 Jul 2026 10:32:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0dXMuY2xhdWRlLmNvbSUyRmluY2lkZW50cyUyRnpmdGczZ3FrbXYxOCU3Q2h0dHBzJTNBJTJGJTJGc3RhdHVzLmNsYXVkZS5jb20lMkZpbmNpZGVudHMlMkZ6ZnRnM2dxa212MTglN0NFbGV2YXRlZCUyMEVycm9ycyUyMGZvciUyME9wdXMlMjA1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTYxOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAwOSUzQTE4JTNBMzQlMjAlMkIwMDAw",
+      "title": "Elevated Errors for Opus 5",
+      "pubDate": "Sun, 26 Jul 2026 09:18:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
     }
   ]

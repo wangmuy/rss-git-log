@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-23",
     "newestItemDate": "2026-07-23",
-    "itemCount": 50,
-    "generatedAt": "2026-07-26T04:02:26.288Z"
+    "itemCount": 52,
+    "generatedAt": "2026-07-26T17:27:17.249Z"
   },
   "items": [
     {
@@ -306,6 +306,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGF3LnVjaGljYWdvLmVkdSUyRm5ld3MlMkZhaS1zdHJhdGVneS1zdGF0ZW1lbnQlN0NodHRwcyUzQSUyRiUyRnd3dy5sYXcudWNoaWNhZ28uZWR1JTJGbmV3cyUyRmFpLXN0cmF0ZWd5LXN0YXRlbWVudCU3Q1JldGhpbmtpbmclMjBMZWdhbCUyMEVkdWNhdGlvbiUyMGluJTIwdGhlJTIwQUklMjBFcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAyNDk4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIzJTIwSnVsJTIwMjAyNiUyMDE3JTNBMTIlM0E0OCUyMCUyQjAwMDA",
       "title": "Rethinking Legal Education in the AI Era",
       "pubDate": "Thu, 23 Jul 2026 17:12:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZW50YXRvbi5hcHAlMkZibG9nJTJGMjAyNi0wNy0xMi1pbnRyb2R1Y2luZy1wZW50YXRvbi1scCUyRiU3Q2h0dHBzJTNBJTJGJTJGcGVudGF0b24uYXBwJTJGYmxvZyUyRjIwMjYtMDctMTItaW50cm9kdWNpbmctcGVudGF0b24tbHAlMkYlN0NJJTIwbGVhcm5lZCUyMFBDQiUyMGRlc2lnbiUyQyUyMDNEJTIwcHJpbnRpbmclMjBhbmQlMjBDJTIwanVzdCUyMHRvJTIwbGlzdGVuJTIwdG8lMjBtdXNpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIyMzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTQlM0EzNyUzQTEzJTIwJTJCMDAwMA",
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "pubDate": "Thu, 23 Jul 2026 14:37:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGVtZW50Lm9yZyUyRnNlZCUyRm1ha2VfaW5kZXhlcy50eHQlN0NodHRwcyUzQSUyRiUyRnd3dy5wZW1lbnQub3JnJTJGc2VkJTJGbWFrZV9pbmRleGVzLnR4dCU3Q1VzaW5nJTIwc2VkJTIwdG8lMjBtYWtlJTIwaW5kZXhlcyUyMGZvciUyMGJvb2tzJTIwKGxvbmcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTY5MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAwNCUzQTI1JTNBMjQlMjAlMkIwMDAw",
+      "title": "Using sed to make indexes for books (long)",
+      "pubDate": "Thu, 23 Jul 2026 04:25:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
     }
   ]
