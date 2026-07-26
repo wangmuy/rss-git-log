@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-26",
     "newestItemDate": "2026-07-26",
-    "itemCount": 9,
-    "generatedAt": "2026-07-26T04:02:26.288Z"
+    "itemCount": 13,
+    "generatedAt": "2026-07-26T10:14:28.653Z"
   },
   "items": [
     {
@@ -60,6 +60,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm93ZW5zb25nJTJGSW5mbGVjdC1NaWNyby12MiU3Q2h0dHBzJTNBJTJGJTJGaHVnZ2luZ2ZhY2UuY28lMkZvd2Vuc29uZyUyRkluZmxlY3QtTWljcm8tdjIlN0NJbmZsZWN0LU1pY3JvLXYyJTNBJTIwY29tcGxldGUlMjB2b2ljZSUyMGluJTIwOS4zNk0lMjBwYXJhbWV0ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTMzNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAwMCUzQTM2JTNBMzAlMjAlMkIwMDAw",
       "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
       "pubDate": "Sun, 26 Jul 2026 00:36:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhc3RyYWwuc2glMkZibG9nJTJGcnVmZi12MC4xNi4wJTdDaHR0cHMlM0ElMkYlMkZhc3RyYWwuc2glMkZibG9nJTJGcnVmZi12MC4xNi4wJTdDUnVmZiUyMHYwLjE2LjAlMjAlRTIlODAlOTMlMjBTaWduaWZpY2FudCUyMG5ldyUyMHVwZGF0ZXMlMjAlRTIlODAlOTMlMjA0MTMlMjBkZWZhdWx0JTIwcnVsZXMlMjB1cCUyMGZyb20lMjA1OSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU2MTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMDklM0EwMSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "pubDate": "Sun, 26 Jul 2026 09:01:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzLmdyYXBoZW5lb3Mub3JnJTJGZCUyRjQwNzAwLWdyYXBoZW5lb3MtcHJvdGVjdGlvbnMtYWdhaW5zdC1kYXRhLWV4dHJhY3Rpb24tZnJvbS1sb2NrZWQtZGV2aWNlcyU3Q2h0dHBzJTNBJTJGJTJGZGlzY3Vzcy5ncmFwaGVuZW9zLm9yZyUyRmQlMkY0MDcwMC1ncmFwaGVuZW9zLXByb3RlY3Rpb25zLWFnYWluc3QtZGF0YS1leHRyYWN0aW9uLWZyb20tbG9ja2VkLWRldmljZXMlN0NHcmFwaGVuZU9TJTIwcHJvdGVjdGlvbnMlMjBhZ2FpbnN0JTIwZGF0YSUyMGV4dHJhY3Rpb24lMjBmcm9tJTIwbG9ja2VkJTIwZGV2aWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU1MTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMDUlM0E1NyUzQTIyJTIwJTJCMDAwMA",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "pubDate": "Sun, 26 Jul 2026 05:57:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXVsZnl4JTJGdzRtZS1zdGF0aW9uJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXVsZnl4JTJGdzRtZS1zdGF0aW9uJTdDVzRNRSUyMFN0YXRpb24lMjAlRTIlODAlOTMlMjBhJTIwV0FTTS00JTIwcnVudGltZSUyMGZvciUyMEphdmElMjBNRSUyMHBob25lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU0Njk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMDQlM0ExOSUzQTU5JTIwJTJCMDAwMA",
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "pubDate": "Sun, 26 Jul 2026 04:19:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb2xmY291cnNlYnJvd3Nlci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmdvbGZjb3Vyc2Vicm93c2VyLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEklMjBtYXBwZWQlMjBldmVyeSUyMFVTJTIwZ29sZiUyMGNvdXJzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU0MDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMDIlM0EyMiUzQTI2JTIwJTJCMDAwMA",
+      "title": "Show HN: I mapped every US golf course",
+      "pubDate": "Sun, 26 Jul 2026 02:22:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
     }
   ]

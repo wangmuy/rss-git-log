@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-21",
     "newestItemDate": "2026-07-21",
-    "itemCount": 54,
-    "generatedAt": "2026-07-26T04:02:26.289Z"
+    "itemCount": 55,
+    "generatedAt": "2026-07-26T10:14:28.654Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpZ29ycGFrLndvcmRwcmVzcy5jb20lMkYyMDIwJTJGMTIlMkYxMCUyRndoYXQtaWYtdGhleS1hcmUtYWxsLXdyb25nJTJGJTdDaHR0cHMlM0ElMkYlMkZpZ29ycGFrLndvcmRwcmVzcy5jb20lMkYyMDIwJTJGMTIlMkYxMCUyRndoYXQtaWYtdGhleS1hcmUtYWxsLXdyb25nJTJGJTdDV2hhdCUyMGlmJTIwdGhleSUyMGFyZSUyMGFsbCUyMHdyb25nJTNGJTIwKDIwMjApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5ODkzMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAwNyUzQTQ1JTNBNDklMjAlMkIwMDAw",
       "title": "What if they are all wrong? (2020)",
       "pubDate": "Tue, 21 Jul 2026 07:45:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdm5zLmNhJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjIxJTJGbW9yZS1uaWNlLWRqYW5nby10aGluZ3MlMkYlN0NodHRwcyUzQSUyRiUyRmp2bnMuY2ElMkZibG9nJTJGMjAyNiUyRjA3JTJGMjElMkZtb3JlLW5pY2UtZGphbmdvLXRoaW5ncyUyRiU3Q1NvbWUlMjBtb3JlJTIwdGhpbmdzJTIwYWJvdXQlMjBEamFuZ28lMjBJJ3ZlJTIwYmVlbiUyMGVuam95aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDg5OTc4MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMSUyMEp1bCUyMDIwMjYlMjAyMCUzQTMwJTNBMjIlMjAlMkIwMDAw",
+      "title": "Some more things about Django I've been enjoying",
+      "pubDate": "Tue, 21 Jul 2026 20:30:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-21-0.json"
     }
   ]

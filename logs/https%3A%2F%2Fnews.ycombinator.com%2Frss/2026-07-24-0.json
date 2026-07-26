@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-24",
     "newestItemDate": "2026-07-24",
-    "itemCount": 50,
-    "generatedAt": "2026-07-26T04:02:26.288Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-26T10:14:28.654Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZicmFuZG9ubGkubmV0JTJGc2VtaXNpbSUyRmFuaW1hdGlvbnMlN0NodHRwcyUzQSUyRiUyRmJyYW5kb25saS5uZXQlMkZzZW1pc2ltJTJGYW5pbWF0aW9ucyU3Q1Nob3clMjBITiUzQSUyMEklMjBtYWRlJTIwc29tZSUyMHRyYW5zaXN0b3IlMjBhbmltYXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzk4NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxOCUzQTM3JTNBMDYlMjAlMkIwMDAw",
       "title": "Show HN: I made some transistor animations",
       "pubDate": "Fri, 24 Jul 2026 18:37:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRm9wcGkubGklMkZzdGlua3BvdCU3Q2h0dHBzJTNBJTJGJTJGdGFuZ2xlZC5vcmclMkZvcHBpLmxpJTJGc3Rpbmtwb3QlN0NTdGlua3BvdCUzQSUyMFNRTGl0ZS1iYWNrZWQlMjBzaGVsbCUyMGhpc3RvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzNDc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDEyJTNBNDQlM0EzMiUyMCUyQjAwMDA",
+      "title": "Stinkpot: SQLite-backed shell history",
+      "pubDate": "Fri, 24 Jul 2026 12:44:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-25",
     "newestItemDate": "2026-07-25",
-    "itemCount": 35,
-    "generatedAt": "2026-07-26T04:02:26.288Z"
+    "itemCount": 39,
+    "generatedAt": "2026-07-26T10:14:28.654Z"
   },
   "items": [
     {
@@ -216,6 +216,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0b2JpLmtuYXVwLm1lJTJGMjAyNi0wNy0yNS1vcGVuLXdlaWdodC1haS1pcy1oYXZpbmctaXRzLWt1YmVybmV0ZXMtbW9tZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZ0b2JpLmtuYXVwLm1lJTJGMjAyNi0wNy0yNS1vcGVuLXdlaWdodC1haS1pcy1oYXZpbmctaXRzLWt1YmVybmV0ZXMtbW9tZW50JTJGJTdDT3Blbi13ZWlnaHQlMjBBSSUyMGlzJTIwaGF2aW5nJTIwaXRzJTIwS3ViZXJuZXRlcyUyMG1vbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ4MDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTQlM0E0OSUzQTQ5JTIwJTJCMDAwMA",
       "title": "Open-weight AI is having its Kubernetes moment",
       "pubDate": "Sat, 25 Jul 2026 14:49:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWVwci5zdGFuZm9yZC5lZHUlMkZwdWJsaWNhdGlvbnMlMkZwb2xpY3ktYnJpZWYlMkZ3aGF0LXJlYWxseS1oYXBwZW5pbmctam9icy1zZXBhcmF0aW5nLWFpLWh5cGUtcmVhbGl0eSU3Q2h0dHBzJTNBJTJGJTJGc2llcHIuc3RhbmZvcmQuZWR1JTJGcHVibGljYXRpb25zJTJGcG9saWN5LWJyaWVmJTJGd2hhdC1yZWFsbHktaGFwcGVuaW5nLWpvYnMtc2VwYXJhdGluZy1haS1oeXBlLXJlYWxpdHklN0NXaGF0JTIwaXMlMjBoYXBwZW5pbmclMjB0byUyMGpvYnMlM0YlMjBTZXBhcmF0aW5nJTIwQUklMjBoeXBlJTIwZnJvbSUyMHJlYWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1MjU3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDIyJTNBNTElM0ExMCUyMCUyQjAwMDA",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "pubDate": "Sat, 25 Jul 2026 22:51:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpdHNhbGxhYm91dHRoZWJpdC5jb20lMkZtZW1vcnktc2FmZXR5LWFic29sdXRpc3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZpdHNhbGxhYm91dHRoZWJpdC5jb20lMkZtZW1vcnktc2FmZXR5LWFic29sdXRpc3RzJTJGJTdDTWVtb3J5JTIwc2FmZXR5JTIwYWJzb2x1dGlzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1MDA1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDE4JTNBMDglM0E1MiUyMCUyQjAwMDA",
+      "title": "Memory safety absolutists",
+      "pubDate": "Sat, 25 Jul 2026 18:08:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWZwLnNlJTJGYXJ0aWNsZXMlMkZ5b3VyLXNoZWxsLWFuZC10aGUtbWFnaWMtY29sb24lN0NodHRwcyUzQSUyRiUyRnJlZnAuc2UlMkZhcnRpY2xlcyUyRnlvdXItc2hlbGwtYW5kLXRoZS1tYWdpYy1jb2xvbiU3Q0ElMjBzaGVsbCUyMGNvbG9uJTIwZG9lcyUyMG5vdGhpbmcuJTIwVXNlJTIwaXQlMjBhbnl3YXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NzQ1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDEzJTNBMzMlM0E0OSUyMCUyQjAwMDA",
+      "title": "A shell colon does nothing. Use it anyway",
+      "pubDate": "Sat, 25 Jul 2026 13:33:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZraXRzdW1lZC5naXRodWIuaW8lMkZibG9nJTJGcG9zdHMlMkZhbmRyb2lkLW1heS1zb29uLXJlc3RyaWN0LW9uLWRldmljZS1hZGIlMkYlN0NodHRwcyUzQSUyRiUyRmtpdHN1bWVkLmdpdGh1Yi5pbyUyRmJsb2clMkZwb3N0cyUyRmFuZHJvaWQtbWF5LXNvb24tcmVzdHJpY3Qtb24tZGV2aWNlLWFkYiUyRiU3Q0FuZHJvaWQlMjBtYXklMjBzb29uJTIwcmVzdHJpY3QlMjBvbi1kZXZpY2UlMjBBREIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NTE1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDA2JTNBNTclM0ExNCUyMCUyQjAwMDA",
+      "title": "Android may soon restrict on-device ADB",
+      "pubDate": "Sat, 25 Jul 2026 06:57:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
     }
   ]
