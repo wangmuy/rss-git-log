@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-25",
     "newestItemDate": "2026-07-25",
-    "itemCount": 21,
-    "generatedAt": "2026-07-25T17:25:50.610Z"
+    "itemCount": 35,
+    "generatedAt": "2026-07-26T04:02:26.288Z"
   },
   "items": [
     {
@@ -132,6 +132,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXVnbWVudGFsLnRlY2glMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hdWdtZW50YWwudGVjaCUyRiU3Q01vdXRoUGFkJTNBJTIwQSUyMFRvbmd1ZS1Db250cm9sbGVkJTIwVG91Y2hwYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NTQ0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDA3JTNBNTElM0ExOSUyMCUyQjAwMDA",
       "title": "MouthPad: A Tongue-Controlled Touchpad",
       "pubDate": "Sat, 25 Jul 2026 07:51:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVtby16ZXh1YW4lMkZsaWFuZy13ZW5mZW5nLWludmVzdG9yLW1lZXRpbmctMjAyNi03LTIyJTJGYmxvYiUyRm1hc3RlciUyRiUyNUU2JTI1QTIlMjU4MSUyNUU2JTI1OTYlMjU4NyUyNUU5JTI1OTQlMjU4QiUyNUU2JTI1OEElMjU5NSUyNUU4JTI1QjUlMjU4NCUyNUU4JTI1ODAlMjU4NSUyNUU0JTI1QkElMjVBNCUyNUU2JTI1QjUlMjU4MSUyNUU0JTI1QkMlMjU5QS0lMjVFNiUyNTk2JTI1ODclMjVFNSUyNUFEJTI1OTclMjVFNyUyNUE4JTI1QkZfMV8xOF90cmFuc2xhdGVfMjAyNjA3MjMyMDE2NTEucGRmJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVtby16ZXh1YW4lMkZsaWFuZy13ZW5mZW5nLWludmVzdG9yLW1lZXRpbmctMjAyNi03LTIyJTJGYmxvYiUyRm1hc3RlciUyRiUyNUU2JTI1QTIlMjU4MSUyNUU2JTI1OTYlMjU4NyUyNUU5JTI1OTQlMjU4QiUyNUU2JTI1OEElMjU5NSUyNUU4JTI1QjUlMjU4NCUyNUU4JTI1ODAlMjU4NSUyNUU0JTI1QkElMjVBNCUyNUU2JTI1QjUlMjU4MSUyNUU0JTI1QkMlMjU5QS0lMjVFNiUyNTk2JTI1ODclMjVFNSUyNUFEJTI1OTclMjVFNyUyNUE4JTI1QkZfMV8xOF90cmFuc2xhdGVfMjAyNjA3MjMyMDE2NTEucGRmJTdDRGVlcFNlZWslMjBwYXVzZSUyMGZ1bmRyYWlzZSUyMGFmdGVyJTIwY29tbWVudHMlMjBvbiUyMGNvbXB1dGUlMjBnYXAlMjB0byUyMFVTJTIwbGVha2VkJTIwKHRyYW5zY3JpcHQpJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTI5MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAyMyUzQTMyJTNBNTAlMjAlMkIwMDAw",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "pubDate": "Sat, 25 Jul 2026 23:32:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGY2xpbmljYWwtZmFpbHVyZS1yYXRlcy1vdmVyLWRlY2FkZXMteWlrZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbmNlLm9yZyUyRmNvbnRlbnQlMkZibG9nLXBvc3QlMkZjbGluaWNhbC1mYWlsdXJlLXJhdGVzLW92ZXItZGVjYWRlcy15aWtlcyU3Q0NsaW5pY2FsJTIwZmFpbHVyZSUyMHJhdGVzJTIwb3ZlciUyMHRoZSUyMGRlY2FkZXMlM0ElMjB5aWtlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDUyNjI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMjIlM0E1NyUzQTE3JTIwJTJCMDAwMA",
+      "title": "Clinical failure rates over the decades: yikes",
+      "pubDate": "Sat, 25 Jul 2026 22:57:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY29udGVudC1pbmRlcGVuZGVuY2UtZGF5LWFpLW9wdGlvbnMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZjb250ZW50LWluZGVwZW5kZW5jZS1kYXktYWktb3B0aW9ucyUyRiU3Q0Nsb3VkZmxhcmUncyUyMG5ldyUyMEFJJTIwdHJhZmZpYyUyMG9wdGlvbnMlMjBmb3IlMjBjdXN0b21lcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1MjU2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDIyJTNBNTAlM0E0OSUyMCUyQjAwMDA",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "pubDate": "Sat, 25 Jul 2026 22:50:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnNvZGl1bS1pb24tYmF0dGVyeS1wZWFrLWVuZXJneSU3Q2h0dHBzJTNBJTJGJTJGc3BlY3RydW0uaWVlZS5vcmclMkZzb2RpdW0taW9uLWJhdHRlcnktcGVhay1lbmVyZ3klN0NHTSUyMEJhY2tzJTIwU29kaXVtJTIwSW9uJTIwQmF0dGVyaWVzJTIwZm9yJTIwVS5TLiUyMEdyaWQlMjBTdG9yYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTE5NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAyMSUzQTQ4JTNBMjIlMjAlMkIwMDAw",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "pubDate": "Sat, 25 Jul 2026 21:48:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBhbHJkLm5ldCUyRnBvc3RzJTJGMjAyNiUyRmlzcF9tY2FzdCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwYWxyZC5uZXQlMkZwb3N0cyUyRjIwMjYlMkZpc3BfbWNhc3QlMkYlN0NNdWx0aWNhc3QlMjBUViUyMERpc3RyaWJ1dGlvbiUyMG9uJTIwTXklMjBIb21lJTIwTmV0d29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDUxNDYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMjAlM0E1NSUzQTEyJTIwJTJCMDAwMA",
+      "title": "Multicast TV Distribution on My Home Network",
+      "pubDate": "Sat, 25 Jul 2026 20:55:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbHkuaW8lMkZibG9nJTJGa3VydC1zY290dC1tb25leS1zcHJpdGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZmbHkuaW8lMkZibG9nJTJGa3VydC1zY290dC1tb25leS1zcHJpdGVzJTJGJTdDVHVybiUyMEFuZCUyMEZhY2UlMjBUaGUlMjBTdHJhbmdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTEzNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAyMCUzQTQzJTNBMTElMjAlMkIwMDAw",
+      "title": "Turn And Face The Strange",
+      "pubDate": "Sat, 25 Jul 2026 20:43:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGYmxvZyUyRnRoZS1uZXctcnVsZXMtb2YtY29udGV4dC1lbmdpbmVlcmluZy1mb3ItY2xhdWRlLTUtZ2VuZXJhdGlvbi1tb2RlbHMlN0NodHRwcyUzQSUyRiUyRmNsYXVkZS5jb20lMkZibG9nJTJGdGhlLW5ldy1ydWxlcy1vZi1jb250ZXh0LWVuZ2luZWVyaW5nLWZvci1jbGF1ZGUtNS1nZW5lcmF0aW9uLW1vZGVscyU3Q1RoZSUyMG5ldyUyMHJ1bGVzJTIwb2YlMjBjb250ZXh0JTIwZW5naW5lZXJpbmclMjBmb3IlMjBDbGF1ZGUlMjA1JTIwZ2VuZXJhdGlvbiUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDUxMzYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMjAlM0E0MiUzQTM1JTIwJTJCMDAwMA",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "pubDate": "Sat, 25 Jul 2026 20:42:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWR0aGV5Z2hvc3R5b3UuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZkaWR0aGV5Z2hvc3R5b3UuY29tJTJGJTdDRGlkJTIwVGhleSUyMEdob3N0JTIwWW91JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTExMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAyMCUzQTE4JTNBMDMlMjAlMkIwMDAw",
+      "title": "Did They Ghost You?",
+      "pubDate": "Sat, 25 Jul 2026 20:18:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGViaWFuLm9yZyUyRnZvdGUlMkYyMDI2JTJGdm90ZV8wMDIlN0NodHRwcyUzQSUyRiUyRnd3dy5kZWJpYW4ub3JnJTJGdm90ZSUyRjIwMjYlMkZ2b3RlXzAwMiU3Q0xMTSUyMFVzYWdlJTIwaW4lMjBEZWJpYW4lM0ElMjBUaHJlZSUyMFByb3Bvc2FscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDUwODU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTklM0E0NCUzQTM5JTIwJTJCMDAwMA",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "pubDate": "Sat, 25 Jul 2026 19:44:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbW1vbmlhZW5lcmd5Lm9yZyUyRmFydGljbGVzJTJGZmxleGlibGUtcmVuZXdhYmxlLWFtbW9uaWEtZGVtb25zdHJhdG9yLW5vdy1vcGVyYXRpb25hbC1pbi1taW5uZXNvdGElMkYlN0NodHRwcyUzQSUyRiUyRmFtbW9uaWFlbmVyZ3kub3JnJTJGYXJ0aWNsZXMlMkZmbGV4aWJsZS1yZW5ld2FibGUtYW1tb25pYS1kZW1vbnN0cmF0b3Itbm93LW9wZXJhdGlvbmFsLWluLW1pbm5lc290YSUyRiU3Q1Byb2R1Y2luZyUyMGFtbW9uaWElMjBhbmQlMjBmZXJ0aWxpc2VyJTIwdXNpbmclMjB3aW5kJTIwcG93ZXIlMjBpbiUyME1vcnJpcyUyQyUyME1pbm5lc290YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDUwNzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTklM0EzMCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "pubDate": "Sat, 25 Jul 2026 19:30:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2x2RGV2JTJGZXNwMzItYWklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzbHZEZXYlMkZlc3AzMi1haSU3Q1J1bm5pbmclMjBhJTIwMjguOU0lMjBwYXJhbWV0ZXIlMjBMTE0lMjBvbiUyMGFuJTIwJTI0OCUyMG1pY3JvY29udHJvbGxlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDUwNTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTglM0E1OSUzQTUwJTIwJTJCMDAwMA",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "pubDate": "Sat, 25 Jul 2026 18:59:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpdHNhbGxhYm91dHRoZWJpdC5jb20lMkZtZW1vcnktc2FmZXR5LWFic29sdXRpc3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZpdHNhbGxhYm91dHRoZWJpdC5jb20lMkZtZW1vcnktc2FmZXR5LWFic29sdXRpc3RzJTJGJTdDTWVtb3J5JTIwU2FmZXR5JTIwQWJzb2x1dGlzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1MDA1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDE4JTNBMDglM0E1MiUyMCUyQjAwMDA",
+      "title": "Memory Safety Absolutists",
+      "pubDate": "Sat, 25 Jul 2026 18:08:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm9sbHkuc2glMkZmb3JlY2FzdCUyRlJXRlAycVc4JTdDaHR0cHMlM0ElMkYlMkZicm9sbHkuc2glMkZmb3JlY2FzdCUyRlJXRlAycVc4JTdDU2hvdyUyMEhOJTNBJTIwQnJvbGx5JTJDJTIwYSUyMHBsYWluLXRleHQlMjB3ZWF0aGVyJTIwZm9yZWNhc3QlMjBzaXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNDk2OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNSUyMEp1bCUyMDIwMjYlMjAxNyUzQTM0JTNBMzQlMjAlMkIwMDAw",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "pubDate": "Sat, 25 Jul 2026 17:34:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b2JpLmtuYXVwLm1lJTJGMjAyNi0wNy0yNS1vcGVuLXdlaWdodC1haS1pcy1oYXZpbmctaXRzLWt1YmVybmV0ZXMtbW9tZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZ0b2JpLmtuYXVwLm1lJTJGMjAyNi0wNy0yNS1vcGVuLXdlaWdodC1haS1pcy1oYXZpbmctaXRzLWt1YmVybmV0ZXMtbW9tZW50JTJGJTdDT3Blbi13ZWlnaHQlMjBBSSUyMGlzJTIwaGF2aW5nJTIwaXRzJTIwS3ViZXJuZXRlcyUyMG1vbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ4MDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTQlM0E0OSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "pubDate": "Sat, 25 Jul 2026 14:49:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
     }
   ]

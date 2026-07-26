@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-24",
     "newestItemDate": "2026-07-24",
-    "itemCount": 49,
-    "generatedAt": "2026-07-25T03:43:19.131Z"
+    "itemCount": 50,
+    "generatedAt": "2026-07-26T04:02:26.288Z"
   },
   "items": [
     {
@@ -300,6 +300,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdHJjaG0uY29tJTJGcG9zdHMlMkZub3RoaW5nLXdvcmtzLWFuZC1ldmVyeW9uZS1pcy1ldXBob3JpYyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHRyY2htLmNvbSUyRnBvc3RzJTJGbm90aGluZy13b3Jrcy1hbmQtZXZlcnlvbmUtaXMtZXVwaG9yaWMlMkYlN0NJZiUyMGNvZGluZyUyMGhhcyUyMGJlZW4lMjBzb2x2ZWQlMkMlMjB3aHklMjBkb2VzJTIwc29mdHdhcmUlMjBrZWVwJTIwZ2V0dGluZyUyMHdvcnNlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzMwMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAwOSUzQTA4JTNBMTclMjAlMkIwMDAw",
       "title": "If coding has been solved, why does software keep getting worse?",
       "pubDate": "Fri, 24 Jul 2026 09:08:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFuZG9ubGkubmV0JTJGc2VtaXNpbSUyRmFuaW1hdGlvbnMlN0NodHRwcyUzQSUyRiUyRmJyYW5kb25saS5uZXQlMkZzZW1pc2ltJTJGYW5pbWF0aW9ucyU3Q1Nob3clMjBITiUzQSUyMEklMjBtYWRlJTIwc29tZSUyMHRyYW5zaXN0b3IlMjBhbmltYXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMzk4NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNCUyMEp1bCUyMDIwMjYlMjAxOCUzQTM3JTNBMDYlMjAlMkIwMDAw",
+      "title": "Show HN: I made some transistor animations",
+      "pubDate": "Fri, 24 Jul 2026 18:37:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
     }
   ]
