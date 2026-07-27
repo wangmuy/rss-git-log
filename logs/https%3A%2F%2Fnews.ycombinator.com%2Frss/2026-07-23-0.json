@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-23",
     "newestItemDate": "2026-07-23",
-    "itemCount": 55,
-    "generatedAt": "2026-07-27T04:07:55.263Z"
+    "itemCount": 57,
+    "generatedAt": "2026-07-27T11:44:24.185Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGVtZW50Lm9yZyUyRnNlZCUyRm1ha2VfaW5kZXhlcy50eHQlN0NodHRwcyUzQSUyRiUyRnd3dy5wZW1lbnQub3JnJTJGc2VkJTJGbWFrZV9pbmRleGVzLnR4dCU3Q1VzaW5nJTIwc2VkJTIwdG8lMjBtYWtlJTIwaW5kZXhlcyUyMGZvciUyMGJvb2tzJTIwKDE5OTcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTY5MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMyUyMEp1bCUyMDIwMjYlMjAwNCUzQTI1JTNBMjQlMjAlMkIwMDAw",
       "title": "Using sed to make indexes for books (1997)",
       "pubDate": "Thu, 23 Jul 2026 04:25:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA3JTJGaS13YW50ZWQtYS1jbG9jay10aGF0LW5ldmVyLW5lZWRlZC1zZXR0aW5nLXRoaW5ncy1lc2NhbGF0ZWQlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmdhZGdldHMlMkYyMDI2JTJGMDclMkZpLXdhbnRlZC1hLWNsb2NrLXRoYXQtbmV2ZXItbmVlZGVkLXNldHRpbmctdGhpbmdzLWVzY2FsYXRlZCUyRiU3Q0klMjB3YW50ZWQlMjBhJTIwY2xvY2slMjB0aGF0JTIwbmV2ZXIlMjBuZWVkZWQlMjBzZXR0aW5nLiUyMFRoaW5ncyUyMGVzY2FsYXRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDIwMjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMTIlM0EwMSUzQTUyJTIwJTJCMDAwMA",
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "pubDate": "Thu, 23 Jul 2026 12:01:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dXJib3dhcnAub3JnJTJGMTI0ODMxNTk2NyUzRnNpemUlM0Q2NDB4NDAwJTdDaHR0cHMlM0ElMkYlMkZ0dXJib3dhcnAub3JnJTJGMTI0ODMxNTk2NyUzRnNpemUlM0Q2NDB4NDAwJTdDODA4NiUyMEVtdWxhdG9yJTIwSW5zaWRlJTIwU2NyYXRjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDE2MzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjMlMjBKdWwlMjAyMDI2JTIwMDIlM0E1NCUzQTQ2JTIwJTJCMDAwMA",
+      "title": "8086 Emulator Inside Scratch",
+      "pubDate": "Thu, 23 Jul 2026 02:54:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-23-0.json"
     }
   ]

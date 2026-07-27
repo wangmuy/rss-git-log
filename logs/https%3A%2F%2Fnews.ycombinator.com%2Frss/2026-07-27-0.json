@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 2,
-    "generatedAt": "2026-07-27T04:07:55.262Z"
+    "itemCount": 13,
+    "generatedAt": "2026-07-27T11:44:24.185Z"
   },
   "items": [
     {
@@ -18,6 +18,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwb3J0emVyby5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRnBvcnR6ZXJvLm5ldCUyRiU3Q1Nob3clMjBITiUzQSUyMFBvcnQlMjBaZXJvJTIwJUUyJTgwJTkzJTIwaG93JTIwSSUyMGxlYXJuZWQlMjB0byUyMHN0b3AlMjB3b3JyeWluZyUyMGFuZCUyMGxvdmUlMjBQT1JUJTNEMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDYzNjQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMDAlM0EwMyUzQTQ4JTIwJTJCMDAwMA",
       "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
       "pubDate": "Mon, 27 Jul 2026 00:03:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFycGd1aXRhcnMubmV0JTJGaGlzdG9yeSUyRmdydW5ld2FsZCUyRjEyLXN0cmluZy5odG0lN0NodHRwcyUzQSUyRiUyRnd3dy5oYXJwZ3VpdGFycy5uZXQlMkZoaXN0b3J5JTJGZ3J1bmV3YWxkJTJGMTItc3RyaW5nLmh0bSU3Q1RoZSUyMEJpcnRoJTIwb2YlMjB0aGUlMjBBbWVyaWNhbiUyMDEyLXN0cmluZyUyMEd1aXRhciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDY3NjkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMTAlM0E1MiUzQTIxJTIwJTJCMDAwMA",
+      "title": "The Birth of the American 12-string Guitar",
+      "pubDate": "Mon, 27 Jul 2026 10:52:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbW9vdGhicmFpbnMubmV0JTJGcG9zdHMlMkYyMDI2LTA1LTA5LWRpZ2l0YWwtY29uc2Npb3VzbmVzcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZzbW9vdGhicmFpbnMubmV0JTJGcG9zdHMlMkYyMDI2LTA1LTA5LWRpZ2l0YWwtY29uc2Npb3VzbmVzcy5odG1sJTdDSWYlMjBkaWdpdGFsJTIwY29tcHV0ZXJzJTIwYXJlJTIwY29uc2Npb3VzJTJDJTIwdGhleSUyMGFyZSUyMGNvbnNjaW91cyUyMGF0JTIwdGhlJTIwaGFyZHdhcmUlMjBsZXZlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDY3NTU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMTAlM0EzMyUzQTI1JTIwJTJCMDAwMA",
+      "title": "If digital computers are conscious, they are conscious at the hardware level",
+      "pubDate": "Mon, 27 Jul 2026 10:33:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbGlic202NCUyRmxpYnNtNjQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZsaWJzbTY0JTJGbGlic202NCU3Q0xpYnNtNjQlM0ElMjBNYXJpbyUyMDY0JTIwYXMlMjBhJTIwbGlicmFyeSUyMGZvciUyMHVzZSUyMGluJTIwZXh0ZXJuYWwlMjBnYW1lJTIwZW5naW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDY3MzUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMTAlM0EwNCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Libsm64: Mario 64 as a library for use in external game engines",
+      "pubDate": "Mon, 27 Jul 2026 10:04:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGaUttMkZocFdrdXVCb2ptODIlMkZ3aHktaS1sZWZ0LWdvb2dsZS1kZWVwbWluZCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmxlc3N3cm9uZy5jb20lMkZwb3N0cyUyRmlLbTJGaHBXa3V1Qm9qbTgyJTJGd2h5LWktbGVmdC1nb29nbGUtZGVlcG1pbmQlN0NXaHklMjBJJTIwTGVmdCUyMEdvb2dsZSUyMERlZXBNaW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjcyODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAwOSUzQTU2JTNBMzclMjAlMkIwMDAw",
+      "title": "Why I Left Google DeepMind",
+      "pubDate": "Mon, 27 Jul 2026 09:56:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2hheWxvY29tb3RpdmVzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNoYXlsb2NvbW90aXZlcy5jb20lMkYlN0NTaGF5JTIwTG9jb21vdGl2ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NzA0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA5JTNBMjMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Shay Locomotives",
+      "pubDate": "Mon, 27 Jul 2026 09:23:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmM5cTl3M3g5cW4ybyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjOXE5dzN4OXFuMm8lN0NDaGluZXNlJTIwY2hpcG1ha2VyJTIwc2hhcmVzJTIwc3VyZ2UlMjA0NzAlMjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2Njk2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA5JTNBMTElM0E1OSUyMCUyQjAwMDA",
+      "title": "Chinese chipmaker shares surge 470%",
+      "pubDate": "Mon, 27 Jul 2026 09:11:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlLnZpZGVvbGFuLm9yZyUyRnZpZGVvbGFuJTJGdmxjLXVuaXR5JTdDaHR0cHMlM0ElMkYlMkZjb2RlLnZpZGVvbGFuLm9yZyUyRnZpZGVvbGFuJTJGdmxjLXVuaXR5JTdDVkxDJTIwZm9yJTIwVW5pdHklMjBub3clMjBzdXBwb3J0ZWQlMjBvbiUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjY5MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAwOSUzQTA2JTNBMzQlMjAlMkIwMDAw",
+      "title": "VLC for Unity now supported on Linux",
+      "pubDate": "Mon, 27 Jul 2026 09:06:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvZGluZ2NvbmZlc3Npb25zLmNvbSUyRnAlMkZob3ctdW5peC1zcGVsbC1yYW4taW4tNjRrYi1yYW0lN0NodHRwcyUzQSUyRiUyRmJsb2cuY29kaW5nY29uZmVzc2lvbnMuY29tJTJGcCUyRmhvdy11bml4LXNwZWxsLXJhbi1pbi02NGtiLXJhbSU3Q0hvdyUyMFVuaXglMjBzcGVsbCUyMHJhbiUyMGluJTIwNjQlMjBrQiUyMG9mJTIwUkFNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjY3NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAwOCUzQTQzJTNBMTElMjAlMkIwMDAw",
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "pubDate": "Mon, 27 Jul 2026 08:43:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRmQ3ZWQ4YjA3JTJGbW9kZXJuLWVtYWlsLWNhbi1iZS1idWlsdC1mcm9tLWJvcnJvd2VkLXBhcnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRmQ3ZWQ4YjA3JTJGbW9kZXJuLWVtYWlsLWNhbi1iZS1idWlsdC1mcm9tLWJvcnJvd2VkLXBhcnRzJTJGJTdDTW9kZXJuJTIwZW1haWwlMjBjYW4lMjBiZSUyMGJ1aWx0JTIwZnJvbSUyMGJvcnJvd2VkJTIwcGFydHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NjYzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA4JTNBMjclM0EyMSUyMCUyQjAwMDA",
+      "title": "Modern email can be built from borrowed parts",
+      "pubDate": "Mon, 27 Jul 2026 08:27:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0dXMuY2xhdWRlLmNvbSUyRmluY2lkZW50cyUyRmxocXAwOWt4cTdwYiU3Q2h0dHBzJTNBJTJGJTJGc3RhdHVzLmNsYXVkZS5jb20lMkZpbmNpZGVudHMlMkZsaHFwMDlreHE3cGIlN0NFbGV2YXRlZCUyMGVycm9ycyUyMG9uJTIwQ2xhdWRlJTIwT3B1cyUyMDUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NjU5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA4JTNBMjAlM0EwNiUyMCUyQjAwMDA",
+      "title": "Elevated errors on Claude Opus 5",
+      "pubDate": "Mon, 27 Jul 2026 08:20:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm1vb25zaG90YWklMkZLaW1pLUszJTdDaHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm1vb25zaG90YWklMkZLaW1pLUszJTdDS2ltaS1LMyUyMFJlbGVhc2VzJTIwb24lMjBIdWdnaW5nRmFjZSUyMDclMkYyNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDY1NzUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMDYlM0ExOCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "pubDate": "Mon, 27 Jul 2026 06:18:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]

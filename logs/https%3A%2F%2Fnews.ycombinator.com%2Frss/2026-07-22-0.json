@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 66,
-    "generatedAt": "2026-07-27T04:07:55.263Z"
+    "itemCount": 68,
+    "generatedAt": "2026-07-27T11:44:24.186Z"
   },
   "items": [
     {
@@ -402,6 +402,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtdWNobWlydWwuZ2l0aHViLmlvJTJGamFjb2JpYW4tY29uamVjdHVyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbXVjaG1pcnVsLmdpdGh1Yi5pbyUyRmphY29iaWFuLWNvbmplY3R1cmUlMkYlN0NKYWNvYmlhbiUyMENvbmplY3R1cmUlMjBmb3IlMjBCYWJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTEyMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxOCUzQTI1JTNBMTIlMjAlMkIwMDAw",
       "title": "Jacobian Conjecture for Baby",
       "pubDate": "Wed, 22 Jul 2026 18:25:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZteW1vZGVybm1ldC5jb20lMkZtYWdub2xpYS1hbmNpZW50LWZsb3dlcnMtYmVldGxlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbXltb2Rlcm5tZXQuY29tJTJGbWFnbm9saWEtYW5jaWVudC1mbG93ZXJzLWJlZXRsZXMlMkYlN0NNYWdub2xpYXMlMjBBcmUlMjBTbyUyME9sZCUyMFRoYXQlMjBUaGV5J3JlJTIwUG9sbGluYXRlZCUyMGJ5JTIwQmVldGxlcyUyQyUyME5vdCUyMEJlZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAwOTcwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDE2JTNBNDklM0EyOSUyMCUyQjAwMDA",
+      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "pubDate": "Wed, 22 Jul 2026 16:49:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpheXNtaXRvLmRldiUyRmJsb2clMkYwNC1mYXN0LWxvY2tmcmVlLXF1ZXVlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qYXlzbWl0by5kZXYlMkZibG9nJTJGMDQtZmFzdC1sb2NrZnJlZS1xdWV1ZXMlMkYlN0NCdWlsZGluZyUyMGElMjBGYXN0JTIwTG9jay1GcmVlJTIwUXVldWUlMjBpbiUyME1vZGVybiUyMEMlMkIlMkIlMjBmcm9tJTIwU2NyYXRjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDA3ODUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjIlMjBKdWwlMjAyMDI2JTIwMTQlM0E1OCUzQTM2JTIwJTJCMDAwMA",
+      "title": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
+      "pubDate": "Wed, 22 Jul 2026 14:58:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]
