@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-22",
     "newestItemDate": "2026-07-22",
-    "itemCount": 65,
-    "generatedAt": "2026-07-26T17:27:17.250Z"
+    "itemCount": 66,
+    "generatedAt": "2026-07-27T04:07:55.263Z"
   },
   "items": [
     {
@@ -396,6 +396,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjclMkYyMSUyRndoYXRzLXVuZGVyLXlvdXItZmVldC1pbi1uZXcteW9yay1jaXR5JTdDaHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjclMkYyMSUyRndoYXRzLXVuZGVyLXlvdXItZmVldC1pbi1uZXcteW9yay1jaXR5JTdDV2hhdCdzJTIwVW5kZXIlMjBZb3VyJTIwRmVldCUyMGluJTIwTmV3JTIwWW9yayUyMENpdHklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAwNjA0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIyJTIwSnVsJTIwMjAyNiUyMDEyJTNBNTYlM0E1NCUyMCUyQjAwMDA",
       "title": "What's Under Your Feet in New York City?",
       "pubDate": "Wed, 22 Jul 2026 12:56:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdWNobWlydWwuZ2l0aHViLmlvJTJGamFjb2JpYW4tY29uamVjdHVyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbXVjaG1pcnVsLmdpdGh1Yi5pbyUyRmphY29iaWFuLWNvbmplY3R1cmUlMkYlN0NKYWNvYmlhbiUyMENvbmplY3R1cmUlMjBmb3IlMjBCYWJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwMTEyMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMiUyMEp1bCUyMDIwMjYlMjAxOCUzQTI1JTNBMTIlMjAlMkIwMDAw",
+      "title": "Jacobian Conjecture for Baby",
+      "pubDate": "Wed, 22 Jul 2026 18:25:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-22-0.json"
     }
   ]

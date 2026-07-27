@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-24",
     "newestItemDate": "2026-07-24",
-    "itemCount": 51,
-    "generatedAt": "2026-07-26T10:14:28.654Z"
+    "itemCount": 52,
+    "generatedAt": "2026-07-27T04:07:55.263Z"
   },
   "items": [
     {
@@ -312,6 +312,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRm9wcGkubGklMkZzdGlua3BvdCU3Q2h0dHBzJTNBJTJGJTJGdGFuZ2xlZC5vcmclMkZvcHBpLmxpJTJGc3Rpbmtwb3QlN0NTdGlua3BvdCUzQSUyMFNRTGl0ZS1iYWNrZWQlMjBzaGVsbCUyMGhpc3RvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTAzNDc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI0JTIwSnVsJTIwMjAyNiUyMDEyJTNBNDQlM0EzMiUyMCUyQjAwMDA",
       "title": "Stinkpot: SQLite-backed shell history",
       "pubDate": "Fri, 24 Jul 2026 12:44:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0d2FyZXByZXNlcnZhdGlvbi5jb21wdXRlcmhpc3Rvcnkub3JnJTJGRlAlMkYlN0NodHRwcyUzQSUyRiUyRnNvZnR3YXJlcHJlc2VydmF0aW9uLmNvbXB1dGVyaGlzdG9yeS5vcmclMkZGUCUyRiU3Q0hpc3RvcnklMjBvZiUyMEpvaG4lMjBCYWNrdXMncyUyMGZ1bmN0aW9uYWwlMjBwcm9ncmFtbWluZyUyMHByb2plY3QlMjAlNUJkcmFmdCU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDM4MDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTYlM0EzMiUzQTIzJTIwJTJCMDAwMA",
+      "title": "History of John Backus's functional programming project [draft]",
+      "pubDate": "Fri, 24 Jul 2026 16:32:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
     }
   ]

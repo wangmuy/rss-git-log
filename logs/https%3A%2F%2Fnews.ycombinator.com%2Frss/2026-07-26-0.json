@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-26",
     "newestItemDate": "2026-07-26",
-    "itemCount": 28,
-    "generatedAt": "2026-07-26T17:27:17.249Z"
+    "itemCount": 42,
+    "generatedAt": "2026-07-27T04:07:55.262Z"
   },
   "items": [
     {
@@ -174,6 +174,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0dXMuY2xhdWRlLmNvbSUyRmluY2lkZW50cyUyRnpmdGczZ3FrbXYxOCU3Q2h0dHBzJTNBJTJGJTJGc3RhdHVzLmNsYXVkZS5jb20lMkZpbmNpZGVudHMlMkZ6ZnRnM2dxa212MTglN0NFbGV2YXRlZCUyMEVycm9ycyUyMGZvciUyME9wdXMlMjA1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTYxOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAwOSUzQTE4JTNBMzQlMjAlMkIwMDAw",
       "title": "Elevated Errors for Opus 5",
       "pubDate": "Sun, 26 Jul 2026 09:18:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb250c2ludXNlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9udHNpbnVzZS5jb20lMkYlN0NGb250cyUyMEluJTIwVXNlJTIwJUUyJTgwJTkzJTIwRmluZCUyMG91dCUyMHdoZXJlJTIwYSUyMGZvbnQlMjBpcyUyMHVzZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2MzUyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI2JTIwSnVsJTIwMjAyNiUyMDIzJTNBNDUlM0EwOSUyMCUyQjAwMDA",
+      "title": "Fonts In Use – Find out where a font is used",
+      "pubDate": "Sun, 26 Jul 2026 23:45:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmVyY2VsLWxhYnMlMkZzY3JpcHRjJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmVyY2VsLWxhYnMlMkZzY3JpcHRjJTdDU2NyaXB0YyUyMGJ5JTIwVmVyY2VsJTNBJTIwVHlwZVNjcmlwdC10by1OYXRpdmUlMjBjb21waWxlciUyQyUyMG5vJTIwSmF2YVNjcmlwdCUyMGVuZ2luZSUyMGluJTIwYmluYXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjMxNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAyMiUzQTQ2JTNBMTAlMjAlMkIwMDAw",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "pubDate": "Sun, 26 Jul 2026 22:46:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExMzIzNi11cy1wcm9zZWN1dG9ycy1jaGFyZ2UtYXRsYW50YS1tYW4tYWZ0ZXItZ3JhcGhlbmVvcy1waG9uZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExMzIzNi11cy1wcm9zZWN1dG9ycy1jaGFyZ2UtYXRsYW50YS1tYW4tYWZ0ZXItZ3JhcGhlbmVvcy1waG9uZS5odG1sJTdDVVMlMjBjaXRpemVuJTIwY2hhcmdlZCUyMGFmdGVyJTIwR3JhcGhlbmVPUyUyMHBob25lJTIwd2lwZXMlMjBkdXJpbmclMjBhaXJwb3J0JTIwc2VhcmNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjMwMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAyMiUzQTIxJTNBNDElMjAlMkIwMDAw",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "pubDate": "Sun, 26 Jul 2026 22:21:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFjZWZ1bGxpYmVydHkuY29tJTJGYXJ0aWNsZXMlMkZ0ZWFjaGluZy1raWRzLWZvcnRoJTJGJTdDaHR0cHMlM0ElMkYlMkZncmFjZWZ1bGxpYmVydHkuY29tJTJGYXJ0aWNsZXMlMkZ0ZWFjaGluZy1raWRzLWZvcnRoJTJGJTdDVGVhY2hpbmclMjBLaWRzJTIwRm9ydGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2MjcwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI2JTIwSnVsJTIwMjAyNiUyMDIxJTNBMzklM0ExNyUyMCUyQjAwMDA",
+      "title": "Teaching Kids Forth",
+      "pubDate": "Sun, 26 Jul 2026 21:39:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW1wZXJpYWx2aW9sZXQub3JnJTJGMjAyNiUyRjA3JTJGMjYlMkZ6c3RkLWxlYW4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmltcGVyaWFsdmlvbGV0Lm9yZyUyRjIwMjYlMkYwNyUyRjI2JTJGenN0ZC1sZWFuLmh0bWwlN0NXZSUyMGhhdmUlMjBwcm9vZiUyMGF1dG9tYXRpb24lMjBub3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2MjI5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI2JTIwSnVsJTIwMjAyNiUyMDIwJTNBNTMlM0EyNiUyMCUyQjAwMDA",
+      "title": "We have proof automation now",
+      "pubDate": "Sun, 26 Jul 2026 20:53:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnNwYWNlLWRlYnJpcy1hdG1vc3BoZXJlLWJ1cm4tdXAlN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGc3BhY2UtZGVicmlzLWF0bW9zcGhlcmUtYnVybi11cCU3Q1BsYXNtYSUyMFR1bm5lbHMlMjBSZXZlYWwlMjBIb3clMjBEeWluZyUyMFNhdGVsbGl0ZXMlMjBGYWxsJTIwdG8lMjBFYXJ0aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDYyMTIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMjAlM0EzMSUzQTU3JTIwJTJCMDAwMA",
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "pubDate": "Sun, 26 Jul 2026 20:31:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQUFSb21hbm92MTk4NSUyRkF1ZGlvLUNhc3NldHRlLVNpbXVsYXRpb24lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZBQVJvbWFub3YxOTg1JTJGQXVkaW8tQ2Fzc2V0dGUtU2ltdWxhdGlvbiU3Q1NpbXVsYXRlJTIwY2Fzc2V0dGUlMjB0YXBlJTIwYXVkaW8lMjBwcm9maWxlcyUyMHVzaW5nJTIwRkZtcGVnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjE4ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAyMCUzQTAyJTNBMTUlMjAlMkIwMDAw",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "pubDate": "Sun, 26 Jul 2026 20:02:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub2NoYW4ubmV0JTJGYiUyRkludGVybmV0LUNyYXAlMkYyMDI2MDYwNi1Ib3ctVG8tQmxvY2stU29tZS1PZi1UaGUtQm90cyUyRiU3Q2h0dHBzJTNBJTJGJTJGbm9jaGFuLm5ldCUyRmIlMkZJbnRlcm5ldC1DcmFwJTJGMjAyNjA2MDYtSG93LVRvLUJsb2NrLVNvbWUtT2YtVGhlLUJvdHMlMkYlN0NIb3clMjB0byUyMEJsb2NrJTIwU29tZSUyMG9mJTIwdGhlJTIwQm90cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDYwOTQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTglM0EzMiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "How to Block Some of the Bots",
+      "pubDate": "Sun, 26 Jul 2026 18:32:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXlvbmRsb29tLmNvbSUyRmRlY2tlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmV5b25kbG9vbS5jb20lMkZkZWNrZXIlMkYlN0NEZWNrZXIlMkMlMjBhJTIwcGxhdGZvcm0lMjB0aGF0JTIwYnVpbGRzJTIwb24lMjB0aGUlMjBsZWdhY3klMjBvZiUyMEh5cGVyY2FyZCUyMGFuZCUyMGNsYXNzaWMlMjBtYWNPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDYwODU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTglM0EyMyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "pubDate": "Sun, 26 Jul 2026 18:23:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FtZWRldnMub3JnJTJGdXBsb2FkcyUyRmludHJvZHVjdGlvbi10by1kYXRhLW9yaWVudGVkLWRlc2lnbi5wZGYlN0NodHRwcyUzQSUyRiUyRnd3dy5nYW1lZGV2cy5vcmclMkZ1cGxvYWRzJTJGaW50cm9kdWN0aW9uLXRvLWRhdGEtb3JpZW50ZWQtZGVzaWduLnBkZiU3Q0ludHJvZHVjdGlvbiUyMHRvJTIwRGF0YS1PcmllbnRlZCUyMERlc2lnbiUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDYwNzI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTglM0ExMSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "pubDate": "Sun, 26 Jul 2026 18:11:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJhbmNlMjQuY29tJTJGZW4lMkZsaXZlLW5ld3MlMkYyMDI2MDcyNi1mcmVuY2gtZmlyZWZpZ2h0ZXJzLWZhY2UtcHlyb2N1bXVsb25pbWJ1cy1mb3ItZmlyc3QtdGltZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZyYW5jZTI0LmNvbSUyRmVuJTJGbGl2ZS1uZXdzJTJGMjAyNjA3MjYtZnJlbmNoLWZpcmVmaWdodGVycy1mYWNlLXB5cm9jdW11bG9uaW1idXMtZm9yLWZpcnN0LXRpbWUlN0NGcmVuY2glMjBmaXJlZmlnaHRlcnMlMjBmYWNlJTIwJ3B5cm9jdW11bG9uaW1idXMnJTIwZm9yJTIwZmlyc3QlMjB0aW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjA0OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAxNyUzQTQ5JTNBNDQlMjAlMkIwMDAw",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "pubDate": "Sun, 26 Jul 2026 17:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVsYW1wbWFnYXppbmUuY29tJTJGYmxvZyUyRmhvdy10by13cml0ZS1lbmdsaXNoLXByb3NlJTdDaHR0cHMlM0ElMkYlMkZ0aGVsYW1wbWFnYXppbmUuY29tJTJGYmxvZyUyRmhvdy10by13cml0ZS1lbmdsaXNoLXByb3NlJTdDSG93JTIwdG8lMjBXcml0ZSUyMEVuZ2xpc2glMjBQcm9zZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDYwMjk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTclM0EyOSUzQTM1JTIwJTJCMDAwMA",
+      "title": "How to Write English Prose",
+      "pubDate": "Sun, 26 Jul 2026 17:29:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGVwaGFuZ28uY29tJTJGZGVzaWduLWlzLWNvbXByb21pc2UlN0NodHRwcyUzQSUyRiUyRnN0ZXBoYW5nby5jb20lMkZkZXNpZ24taXMtY29tcHJvbWlzZSU3Q0Rlc2lnbiUyMGlzJTIwY29tcHJvbWlzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDU5MzY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTUlM0E1MSUzQTEyJTIwJTJCMDAwMA",
+      "title": "Design is compromise",
+      "pubDate": "Sun, 26 Jul 2026 15:51:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZWN0b3JhbC5jb20lMkZibG9nJTJGdG9rZW4tcmVsYXktbWFya2V0JTdDaHR0cHMlM0ElMkYlMkZ2ZWN0b3JhbC5jb20lMkZibG9nJTJGdG9rZW4tcmVsYXktbWFya2V0JTdDVGhlJTIwcmVsYXklMjBtYXJrZXQlMjBwb3dlcmluZyUyMHRva2VuJTIwcmVzZWxsZXJzJTIwYW5kJTIwZnJhdWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1ODk5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI2JTIwSnVsJTIwMjAyNiUyMDE1JTNBMTclM0EwNiUyMCUyQjAwMDA",
+      "title": "The relay market powering token resellers and fraud",
+      "pubDate": "Sun, 26 Jul 2026 15:17:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
     }
   ]
