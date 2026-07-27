@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-24",
     "newestItemDate": "2026-07-24",
-    "itemCount": 53,
-    "generatedAt": "2026-07-27T11:44:24.185Z"
+    "itemCount": 54,
+    "generatedAt": "2026-07-27T17:58:30.497Z"
   },
   "items": [
     {
@@ -324,6 +324,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnZXRkeC5jb20lMkZyZXNlYXJjaCUyRm1lYXN1cmluZy1kZXZlbG9wZXItcHJvZHVjdGl2aXR5LXdpdGgtdGhlLWR4LWNvcmUtNCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2V0ZHguY29tJTJGcmVzZWFyY2glMkZtZWFzdXJpbmctZGV2ZWxvcGVyLXByb2R1Y3Rpdml0eS13aXRoLXRoZS1keC1jb3JlLTQlMkYlN0NNZWFzdXJpbmclMjBkZXZlbG9wZXIlMjBwcm9kdWN0aXZpdHklMjB3aXRoJTIwdGhlJTIwRFglMjBDb3JlJTIwNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDMzNTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMTAlM0EyOCUzQTMzJTIwJTJCMDAwMA",
       "title": "Measuring developer productivity with the DX Core 4",
       "pubDate": "Fri, 24 Jul 2026 10:28:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20lMkYyMDI2JTJGMDclMkZ0b3dhcmRzLWEtdGhlb3J5LW9mLWJ1Z3MtdGhlLXJ1bGlvbG9neS1vZi10aGUtdW5leHBlY3RlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3JpdGluZ3Muc3RlcGhlbndvbGZyYW0uY29tJTJGMjAyNiUyRjA3JTJGdG93YXJkcy1hLXRoZW9yeS1vZi1idWdzLXRoZS1ydWxpb2xvZ3ktb2YtdGhlLXVuZXhwZWN0ZWQlMkYlN0NUb3dhcmRzJTIwYSUyMFRoZW9yeSUyMG9mJTIwQnVncyUzQSUyMFRoZSUyMFJ1bGlvbG9neSUyMG9mJTIwdGhlJTIwVW5leHBlY3RlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDMzMTE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjQlMjBKdWwlMjAyMDI2JTIwMDklM0EzMCUzQTAzJTIwJTJCMDAwMA",
+      "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
+      "pubDate": "Fri, 24 Jul 2026 09:30:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-24-0.json"
     }
   ]
