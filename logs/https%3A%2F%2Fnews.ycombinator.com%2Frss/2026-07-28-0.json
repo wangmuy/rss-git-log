@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-28",
     "newestItemDate": "2026-07-28",
-    "itemCount": 6,
-    "generatedAt": "2026-07-28T03:42:06.704Z"
+    "itemCount": 13,
+    "generatedAt": "2026-07-28T10:46:32.530Z"
   },
   "items": [
     {
@@ -42,6 +42,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmd1aWRlJTJGaXBob25lJTJGaXBob25lLWNvbWZvcnRhYmx5LXJpZGluZy1hLXZlaGljbGUtaXBoNTU1NjRjYjIyJTJGaW9zJTdDaHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmd1aWRlJTJGaXBob25lJTJGaXBob25lLWNvbWZvcnRhYmx5LXJpZGluZy1hLXZlaGljbGUtaXBoNTU1NjRjYjIyJTJGaW9zJTdDVmVoaWNsZSUyME1vdGlvbiUyMEN1ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3Nzk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDAxJTNBMTMlM0EyNiUyMCUyQjAwMDA",
       "title": "Vehicle Motion Cues",
       "pubDate": "Tue, 28 Jul 2026 01:13:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGF3bi1xdWV1ZS5hY20ub3JnJTJGZG9pJTJGMTAuMTE0NSUyRjM4MTkwODMlN0NodHRwcyUzQSUyRiUyRnNwYXduLXF1ZXVlLmFjbS5vcmclMkZkb2klMkYxMC4xMTQ1JTJGMzgxOTA4MyU3Q0dvb2dsZSdzJTIwQmV5b25kJTIwWmVybyUzQSUyMEVudGVycHJpc2UlMjBTZWN1cml0eSUyMGZvciUyMHRoZSUyMEFJJTIwRXJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODE2NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAwOSUzQTU5JTNBMTMlMjAlMkIwMDAw",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "pubDate": "Tue, 28 Jul 2026 09:59:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YXIwLnh5eiUyRnBvc3RzJTJGd2hhdC1ldmVuLWFyZS1taWNyb3NlcnZpY2VzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnZhcjAueHl6JTJGcG9zdHMlMkZ3aGF0LWV2ZW4tYXJlLW1pY3Jvc2VydmljZXMuaHRtbCU3Q1doYXQlMjBFdmVuJTIwQXJlJTIwTWljcm9zZXJ2aWNlcyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDgxNTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMDklM0E1MiUzQTMxJTIwJTJCMDAwMA",
+      "title": "What Even Are Microservices?",
+      "pubDate": "Tue, 28 Jul 2026 09:52:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmVuLXVzJTJGMTI4MDY3JTdDaHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmVuLXVzJTJGMTI4MDY3JTdDQWJvdXQlMjB0aGUlMjBzZWN1cml0eSUyMGNvbnRlbnQlMjBvZiUyMG1hY09TJTIwVGFob2UlMjAyNi42JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODE1NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAwOSUzQTQ1JTNBNDMlMjAlMkIwMDAw",
+      "title": "About the security content of macOS Tahoe 26.6",
+      "pubDate": "Tue, 28 Jul 2026 09:45:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0YS5qbWEuZ28uanAlMkZtdWx0aSUyRnF1YWtlJTJGcXVha2VfZGV0YWlsLmh0bWwlM0ZldmVudElEJTNEMjAyNjA3MjgxNjM1MjglMjZsYW5nJTNEZW4lN0NodHRwcyUzQSUyRiUyRnd3dy5kYXRhLmptYS5nby5qcCUyRm11bHRpJTJGcXVha2UlMkZxdWFrZV9kZXRhaWwuaHRtbCUzRmV2ZW50SUQlM0QyMDI2MDcyODE2MzUyOCUyNmxhbmclM0RlbiU3QzcuMSUyMEVhcnRocXVha2UlMjBpbiUyMEphcGFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODA2NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAwNyUzQTQ0JTNBMjQlMjAlMkIwMDAw",
+      "title": "7.1 Earthquake in Japan",
+      "pubDate": "Tue, 28 Jul 2026 07:44:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnNhc3Ryb25vbWljYS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmFyc2FzdHJvbm9taWNhLmNvbSUyRiU3Q0FycyUyMEFzdHJvbm9taWNhJTIwJUUyJTgwJTkzJTIwRW5nbGlzaCUyMHRyYW5zbGF0aW9ucyUyMG9mJTIwcmFyZSUyMEhlYnJldyUyMGFuZCUyMExhdGluJTIwYXN0cm9ub215JTIwdGV4dHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3OTcyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDA1JTNBMjUlM0EzNCUyMCUyQjAwMDA",
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "pubDate": "Tue, 28 Jul 2026 05:25:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmVybWlvbnJlc2VhcmNoLmNvbSUyRm1vZGVscyUyRm5ldXRyaW5vLThiJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZmVybWlvbnJlc2VhcmNoLmNvbSUyRm1vZGVscyUyRm5ldXRyaW5vLThiJTJGJTdDTmV1dHJpbm8tMSUyMDhCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzk0OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAwNCUzQTQ5JTNBNTQlMjAlMkIwMDAw",
+      "title": "Neutrino-1 8B",
+      "pubDate": "Tue, 28 Jul 2026 04:49:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLnB5dG9yY2gub3JnJTJGZGV2bG9ncyUyRmNvbXBpbGVyJTJGMjAyNi0wNy0yNS1weXRvcmNoLWEtcmVmZXJlbmNlLWxhbmd1YWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZkb2NzLnB5dG9yY2gub3JnJTJGZGV2bG9ncyUyRmNvbXBpbGVyJTJGMjAyNi0wNy0yNS1weXRvcmNoLWEtcmVmZXJlbmNlLWxhbmd1YWdlJTJGJTdDUHlUb3JjaCUzQSUyMEElMjBSZWZlcmVuY2UlMjBMYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDc5NDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMDQlM0E0NiUzQTAwJTIwJTJCMDAwMA",
+      "title": "PyTorch: A Reference Language",
+      "pubDate": "Tue, 28 Jul 2026 04:46:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
     }
   ]

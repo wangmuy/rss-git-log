@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 40,
-    "generatedAt": "2026-07-28T03:42:06.704Z"
+    "itemCount": 41,
+    "generatedAt": "2026-07-28T10:46:32.531Z"
   },
   "items": [
     {
@@ -246,6 +246,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkZtYXRoJTJGMDQxMTQxOCU3Q2h0dHBzJTNBJTJGJTJGYXJ4aXYub3JnJTJGYWJzJTJGbWF0aCUyRjA0MTE0MTglN0NIb3clMjByZWFsJTIwYXJlJTIwcmVhbCUyMG51bWJlcnMlM0YlMjAoMjAwNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3MTE5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDE1JTNBNDAlM0ExNyUyMCUyQjAwMDA",
       "title": "How real are real numbers? (2004)",
       "pubDate": "Mon, 27 Jul 2026 15:40:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWxueXguY29tJTJGcmVsZWFzZS1ub3RlcyUyRmtpbWktazMtdGVsbnl4LWluZmVyZW5jZSU3Q2h0dHBzJTNBJTJGJTJGdGVsbnl4LmNvbSUyRnJlbGVhc2Utbm90ZXMlMkZraW1pLWszLXRlbG55eC1pbmZlcmVuY2UlN0NLaW1pJTIwSzMlMjBOb3clMjBBdmFpbGFibGUlMjB2aWElMjBUZWxueXglMjBJbmZlcmVuY2UlMjBBUEklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3NjUwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDIyJTNBNDYlM0EyOCUyMCUyQjAwMDA",
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "pubDate": "Mon, 27 Jul 2026 22:46:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]
