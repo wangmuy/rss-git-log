@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-28",
     "newestItemDate": "2026-07-28",
-    "itemCount": 13,
-    "generatedAt": "2026-07-28T10:46:32.530Z"
+    "itemCount": 38,
+    "generatedAt": "2026-07-28T17:47:39.538Z"
   },
   "items": [
     {
@@ -84,6 +84,156 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLnB5dG9yY2gub3JnJTJGZGV2bG9ncyUyRmNvbXBpbGVyJTJGMjAyNi0wNy0yNS1weXRvcmNoLWEtcmVmZXJlbmNlLWxhbmd1YWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZkb2NzLnB5dG9yY2gub3JnJTJGZGV2bG9ncyUyRmNvbXBpbGVyJTJGMjAyNi0wNy0yNS1weXRvcmNoLWEtcmVmZXJlbmNlLWxhbmd1YWdlJTJGJTdDUHlUb3JjaCUzQSUyMEElMjBSZWZlcmVuY2UlMjBMYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDc5NDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMDQlM0E0NiUzQTAwJTIwJTJCMDAwMA",
       "title": "PyTorch: A Reference Language",
       "pubDate": "Tue, 28 Jul 2026 04:46:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZGlzY292ZXJpbmctY3J5cHRvZ3JhcGhpYy13ZWFrbmVzc2VzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZGlzY292ZXJpbmctY3J5cHRvZ3JhcGhpYy13ZWFrbmVzc2VzJTdDRGlzY292ZXJpbmclMjBDcnlwdG9ncmFwaGljJTIwV2Vha25lc3NlcyUyMHdpdGglMjBDbGF1ZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NzA5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE3JTNBMjIlM0ExNiUyMCUyQjAwMDA",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "pubDate": "Tue, 28 Jul 2026 17:22:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzY2llbnRpZmljLWNvbXB1dGluZy1hZ2VudGljLWFpJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzY2llbnRpZmljLWNvbXB1dGluZy1hZ2VudGljLWFpJTJGJTdDU2NpZW50aWZpYyUyMGNvbXB1dGluZyUyMGluJTIwdGhlJTIwYWdlJTIwb2YlMjBhZ2VudGljJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4Njk4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE3JTNBMTMlM0ExNSUyMCUyQjAwMDA",
+      "title": "Scientific computing in the age of agentic AI",
+      "pubDate": "Tue, 28 Jul 2026 17:13:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYmNsLm9yZyUyRmFsbC1uZXdzLmh0bWwlM0YyLjYuNyU3Q2h0dHBzJTNBJTJGJTJGc2JjbC5vcmclMkZhbGwtbmV3cy5odG1sJTNGMi42LjclM0QlN0NTdGVlbCUyMEJhbmslMjBDb21tb24lMjBMaXNwJTIwdmVyc2lvbiUyMDIuNi43JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODY5NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNyUzQTExJTNBNTQlMjAlMkIwMDAw",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "pubDate": "Tue, 28 Jul 2026 17:11:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudzMub3JnJTJGYmxvZyUyRjIwMjYlMkZ3b2ZmLTEtMC1hLW1pbGVzdG9uZS1vbi13M2NzLWpvdXJuZXktb2YtZm9udHMtb24tdGhlLXdlYiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnczLm9yZyUyRmJsb2clMkYyMDI2JTJGd29mZi0xLTAtYS1taWxlc3RvbmUtb24tdzNjcy1qb3VybmV5LW9mLWZvbnRzLW9uLXRoZS13ZWIlMkYlN0NXT0ZGJTIwMS4wJTNBJTIwYSUyMG1pbGVzdG9uZSUyMG9uJTIwVzNDJ3MlMjBqb3VybmV5JTIwb2YlMjBmb250cyUyMG9uJTIwdGhlJTIwd2ViJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODY4OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNyUzQTA1JTNBNTElMjAlMkIwMDAw",
+      "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+      "pubDate": "Tue, 28 Jul 2026 17:05:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGl6YWJldGh0YWkuY29tJTJGMjAyNiUyRjA2JTJGMTAlMkZzdWJzdGFjay13cml0ZXJzLXlvdS1uZWVkLWEtd2Vic2l0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZWxpemFiZXRodGFpLmNvbSUyRjIwMjYlMkYwNiUyRjEwJTJGc3Vic3RhY2std3JpdGVycy15b3UtbmVlZC1hLXdlYnNpdGUlMkYlN0NTdWJzdGFjayUyMHdyaXRlcnMlMkMlMjB5b3UlMjBuZWVkJTIwYSUyMHdlYnNpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4Njc4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE2JTNBNTglM0EzMSUyMCUyQjAwMDA",
+      "title": "Substack writers, you need a website",
+      "pubDate": "Tue, 28 Jul 2026 16:58:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZW5oYXJtbGliLnJlYWR0aGVkb2NzLmlvJTJGZW4lMkZsYXRlc3QlMkZ3aGF0c19uZXdfMF80XzAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGeGVuaGFybWxpYi5yZWFkdGhlZG9jcy5pbyUyRmVuJTJGbGF0ZXN0JTJGd2hhdHNfbmV3XzBfNF8wLmh0bWwlN0NYZW5oYXJtbGliJTIwKG11c2ljJTIwdGhlb3J5JTIwbGlicmFyeSklMjBhZGRzJTIwc3VwcG9ydCUyMGZvciUyMEp1c3QlMjBJbnRvbmF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODYwNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNiUzQTEwJTNBMzclMjAlMkIwMDAw",
+      "title": "Xenharmlib (music theory library) adds support for Just Intonation",
+      "pubDate": "Tue, 28 Jul 2026 16:10:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRvdWJsZXdvcmQuYWklMkZ5b3UtY291bGQtaGF2ZS1jb21lLXVwLXdpdGgta2ltaS1kZWx0YS1hdHRlbnRpb24lN0NodHRwcyUzQSUyRiUyRmJsb2cuZG91Ymxld29yZC5haSUyRnlvdS1jb3VsZC1oYXZlLWNvbWUtdXAtd2l0aC1raW1pLWRlbHRhLWF0dGVudGlvbiU3Q1lvdSUyMENvdWxkJTIwSGF2ZSUyMENvbWUlMjBVcCUyMHdpdGglMjBLaW1pJTIwRGVsdGElMjBBdHRlbnRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NTkwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE2JTNBMDIlM0EwNyUyMCUyQjAwMDA",
+      "title": "You Could Have Come Up with Kimi Delta Attention",
+      "pubDate": "Tue, 28 Jul 2026 16:02:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXZlZW5zcmluaXZhc2FuLmNvbSUyRnBvc3RzJTJGMjAyNi0wNy0yMi1ob3ctZG8taS1wcm9maWxlLWVicGYtY29kZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbmF2ZWVuc3Jpbml2YXNhbi5jb20lMkZwb3N0cyUyRjIwMjYtMDctMjItaG93LWRvLWktcHJvZmlsZS1lYnBmLWNvZGUlMkYlN0NIb3clMjBEbyUyMEklMjBQcm9maWxlJTIwZUJQRiUyMENvZGUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NTgxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE1JTNBNTUlM0E0NCUyMCUyQjAwMDA",
+      "title": "How Do I Profile eBPF Code?",
+      "pubDate": "Tue, 28 Jul 2026 15:55:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmVmbGV4LWRldiUyRnh5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmVmbGV4LWRldiUyRnh5JTdDU2hvdyUyMEhOJTNBJTIwWFklMjAlRTIlODAlOTMlMjBBJTIwRmFzdCUyQyUyMGNvbXBvc2FibGUlMkMlMjBHUFUtYWNjZWxlcmF0ZWQlMjBpbnRlcmFjdGl2ZSUyMHBsb3R0aW5nJTIwbGlicmFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDg1Nzk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTUlM0E1NCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
+      "pubDate": "Tue, 28 Jul 2026 15:54:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2xvdy1qb3VybmFsaXNtLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNsb3ctam91cm5hbGlzbS5jb20lMkYlN0NEZWxheWVkJTIwR3JhdGlmaWNhdGlvbiUyMCVFMiU4MCU5MyUyMFByb3VkJTIwdG8lMjBCZSUyMCdMYXN0JTIwdG8lMjBCcmVha2luZyUyME5ld3MnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODU3MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTUwJTNBMzglMjAlMkIwMDAw",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "pubDate": "Tue, 28 Jul 2026 15:50:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWJhc3RpYW5yYXNjaGthLmNvbSUyRmJsb2clMkYyMDI2JTJGa2ltaS1rMy1hcmNoaXRlY3R1cmUtbm90ZXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGc2ViYXN0aWFucmFzY2hrYS5jb20lMkZibG9nJTJGMjAyNiUyRmtpbWktazMtYXJjaGl0ZWN0dXJlLW5vdGVzLmh0bWwlN0NLaW1pJTIwSzMlMjBBcmNoaXRlY3R1cmUlMjBPdmVydmlldyUyMGFuZCUyME5vdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODU2OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTQ4JTNBMzQlMjAlMkIwMDAw",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "pubDate": "Tue, 28 Jul 2026 15:48:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtbHVnZy5jby51ayUyRnBvc3RzJTJGaW5jcmVtZW50YWwtY29tcGlsYXRpb24taW50ZXJuYWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZtbHVnZy5jby51ayUyRnBvc3RzJTJGaW5jcmVtZW50YWwtY29tcGlsYXRpb24taW50ZXJuYWxzJTJGJTdDWmlnJ3MlMjBJbmNyZW1lbnRhbCUyMENvbXBpbGF0aW9uJTIwSW50ZXJuYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODU2NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTQ2JTNBNDUlMjAlMkIwMDAw",
+      "title": "Zig's Incremental Compilation Internals",
+      "pubDate": "Tue, 28 Jul 2026 15:46:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXN5YXJ1cy5naXRodWIuaW8lMkZibG9nJTJGcG9zdHMlMkZzby15b3Utd2FudC10by1tYWtlLWEtZ2FtZS1lbmdpbmUuaHRtbCUyM3BhcnQtMyU3Q2h0dHBzJTNBJTJGJTJGbGlzeWFydXMuZ2l0aHViLmlvJTJGYmxvZyUyRnBvc3RzJTJGc28teW91LXdhbnQtdG8tbWFrZS1hLWdhbWUtZW5naW5lLmh0bWwlMjNwYXJ0LTMlN0NTbyUyQyUyMHlvdSUyMHdhbnQlMjB0byUyMG1ha2UlMjBhJTIwZ2FtZSUyMGVuZ2luZSUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDg1NTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTUlM0EzNiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "So, you want to make a game engine (2023)",
+      "pubDate": "Tue, 28 Jul 2026 15:36:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbGFzaHBhcGVyLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZmxhc2hwYXBlci5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBGbGFzaHBhcGVyJTIwJUUyJTgwJTkzJTIwU2VsZi1kZXN0cnVjdGluZyUyMHNlY3JldCUyMHNoYXJpbmclMjB3aXRoJTIwbm8lMjBkYXRhYmFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDg1NTAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTUlM0EzNiUzQTM1JTIwJTJCMDAwMA",
+      "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+      "pubDate": "Tue, 28 Jul 2026 15:36:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaWVjaG93c2tpLmlvJTJGcG9zdCUyRnNldHVwLXNjcmlwdC1naXQtd29ya3RyZWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZwaWVjaG93c2tpLmlvJTJGcG9zdCUyRnNldHVwLXNjcmlwdC1naXQtd29ya3RyZWVzJTJGJTdDU2V0dXAlMjBTY3JpcHQlMjBTaG91bGQlMjBTdXBwb3J0JTIwR2l0JTIwV29ya3RyZWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODU0NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTMyJTNBNTglMjAlMkIwMDAw",
+      "title": "Setup Script Should Support Git Worktrees",
+      "pubDate": "Tue, 28 Jul 2026 15:32:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYxMjAyLjQyMTIlN0NodHRwcyUzQSUyRiUyRmFyeGl2Lm9yZyUyRmFicyUyRjEyMDIuNDIxMiU3Q0hhcm1vbnklMjBFeHBsYWluZWQlM0ElMjBQcm9ncmVzcyUyMFRvd2FyZHMlMjBhJTIwU2NpZW50aWZpYyUyMFRoZW9yeSUyMG9mJTIwTXVzaWMlMjAoMjAxMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NTI4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE1JTNBMjAlM0EzNSUyMCUyQjAwMDA",
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "pubDate": "Tue, 28 Jul 2026 15:20:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRocm9wZXVtLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGYW50aHJvcGV1bS5jb20lMkYlN0NBbnRocm9wZXVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODQ5ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTAxJTNBMTUlMjAlMkIwMDAw",
+      "title": "Anthropeum",
+      "pubDate": "Tue, 28 Jul 2026 15:01:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWNtLmFjbS5vcmclMkZvcGluaW9uJTJGbm93LWlzLXRoZS10aW1lLXRvLWdpdmUtbGxtcy1hY2Nlc3MtdG8tdGhlLWFjbS1kaWdpdGFsLWxpYnJhcnklMkYlN0NodHRwcyUzQSUyRiUyRmNhY20uYWNtLm9yZyUyRm9waW5pb24lMkZub3ctaXMtdGhlLXRpbWUtdG8tZ2l2ZS1sbG1zLWFjY2Vzcy10by10aGUtYWNtLWRpZ2l0YWwtbGlicmFyeSUyRiU3Q05vdyUyMElzJTIwdGhlJTIwVGltZSUyMHRvJTIwR2l2ZSUyMExMTXMlMjBBY2Nlc3MlMjB0byUyMHRoZSUyMEFDTSUyMERpZ2l0YWwlMjBMaWJyYXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODQ5ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTAxJTNBMTIlMjAlMkIwMDAw",
+      "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+      "pubDate": "Tue, 28 Jul 2026 15:01:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXRpemVucy1pbml0aWF0aXZlLmV1cm9wYS5ldSUyRmluaXRpYXRpdmVzJTJGZGV0YWlscyUyRjIwMjYlMkYwMDAwMTFfZW4lN0NodHRwcyUzQSUyRiUyRmNpdGl6ZW5zLWluaXRpYXRpdmUuZXVyb3BhLmV1JTJGaW5pdGlhdGl2ZXMlMkZkZXRhaWxzJTJGMjAyNiUyRjAwMDAxMV9lbiU3Q1N0b3AlMjBLaWxsaW5nJTIwdGhlJTIwSW50ZXJuZXQlM0ElMjBObyUyMERpZ2l0YWwlMjBJRCUyMGFuZCUyME5vJTIwQWdlJTIwVmVyaWZpY2F0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODQ5MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNCUzQTU4JTNBMTUlMjAlMkIwMDAw",
+      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+      "pubDate": "Tue, 28 Jul 2026 14:58:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmF3YXRjaC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnVuYXdhdGNoLmNvbSUyRiU3Q1VuYSUyMFdhdGNoJTNBJTIwR2FybWluJTIwd2F0Y2glMjBjb21wZXRpdG9yJTIwYnV0JTIwcmVwYWlyYWJsZSUyQyUyMG9wZW4lMjBlY29zeXN0ZW0lMjBhbmQlMjBVU0ItQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDg0ODEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTQlM0E0OCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
+      "pubDate": "Tue, 28 Jul 2026 14:48:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdXRtYXBwJTJGVVRNJTJGaXNzdWVzJTJGNzY1OCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnV0bWFwcCUyRlVUTSUyRmlzc3VlcyUyRjc2NTglN0NWTXMlMjBjYW4ndCUyMGJvb3QlMjB3aXRoJTIwTmV0d29yayUyME1vZGUlMjBzZXQlMjB0byUyMEJyaWRnZWQlMjBvbiUyMEFwcGxlJTIwTTUlMjBQcm8lMjBtYWNoaW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDgzNjM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTMlM0EzMyUzQTQyJTIwJTJCMDAwMA",
+      "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+      "pubDate": "Tue, 28 Jul 2026 13:33:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGppLm9yZyUyRm5ld3MtZXZlbnRzJTJGbmV3cyUyRnBvc3QlMkZuZXctaGl2LXZhY2NpbmUtc2hvd3MtdW5wcmVjZWRlbnRlZC1zdWNjZXNzLWluLXByZWNsaW5pY2FsLXN0dWR5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGppLm9yZyUyRm5ld3MtZXZlbnRzJTJGbmV3cyUyRnBvc3QlMkZuZXctaGl2LXZhY2NpbmUtc2hvd3MtdW5wcmVjZWRlbnRlZC1zdWNjZXNzLWluLXByZWNsaW5pY2FsLXN0dWR5JTJGJTdDTmV3JTIwSElWJTIwdmFjY2luZSUyMHNob3dzJTIwdW5wcmVjZWRlbnRlZCUyMHN1Y2Nlc3MlMjBpbiUyMHByZWNsaW5pY2FsJTIwc3R1ZHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4MzMxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDEzJTNBMTIlM0EwMSUyMCUyQjAwMDA",
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "pubDate": "Tue, 28 Jul 2026 13:12:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2NoaWxkZXAlMkZ2ZXJpZmllZC0zZC1tZXNoLWludGVyc2VjdGlvbiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnNjaGlsZGVwJTJGdmVyaWZpZWQtM2QtbWVzaC1pbnRlcnNlY3Rpb24lN0NTaG93JTIwSE4lM0ElMjBGb3JtYWxseSUyMHZlcmlmaWVkJTIwM0QlMjBDU0clM0ElMjBUcnVzdCUyMDkzJTIwbGluZXMlMjBzcGVjJTJDJTIwbm90JTIwMTAwMCUyMGxpbmVzJTIwQUklMjBjb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODMyMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxMyUzQTA3JTNBMTQlMjAlMkIwMDAw",
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "pubDate": "Tue, 28 Jul 2026 13:07:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjI2NjkyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjI2NjkyJTdDS2ltaSUyMExpbmVhciUzQSUyMEFuJTIwRXhwcmVzc2l2ZSUyQyUyMEVmZmljaWVudCUyMEF0dGVudGlvbiUyMEFyY2hpdGVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDgyMDIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTAlM0E1MiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "pubDate": "Tue, 28 Jul 2026 10:52:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXBoZXJjdWUuY29tJTJGYmxvZyUyRmRtYXJjLWVuZm9yY2VtZW50LWdhcC1ydWEtZnJhZ21lbnRhdGlvbi0yMDI2JTdDaHR0cHMlM0ElMkYlMkZjaXBoZXJjdWUuY29tJTJGYmxvZyUyRmRtYXJjLWVuZm9yY2VtZW50LWdhcC1ydWEtZnJhZ21lbnRhdGlvbi0yMDI2JTdDRE1BUkMlMjBIYXMlMjBCZWVuJTIwUHVibGljJTIwU2luY2UlMjAyMDEyLiUyMDY4LjQlMjUlMjBvZiUyMERvbWFpbnMlMjBTdGlsbCUyMERvbid0JTIwRW5mb3JjZSUyMEl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODE3ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxMCUzQTIwJTNBNTAlMjAlMkIwMDAw",
+      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "pubDate": "Tue, 28 Jul 2026 10:20:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
     }
   ]
