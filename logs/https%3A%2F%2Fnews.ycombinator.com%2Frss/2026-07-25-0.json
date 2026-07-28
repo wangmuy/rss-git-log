@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-25",
     "newestItemDate": "2026-07-25",
-    "itemCount": 39,
-    "generatedAt": "2026-07-26T10:14:28.654Z"
+    "itemCount": 42,
+    "generatedAt": "2026-07-28T03:42:06.704Z"
   },
   "items": [
     {
@@ -240,6 +240,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZraXRzdW1lZC5naXRodWIuaW8lMkZibG9nJTJGcG9zdHMlMkZhbmRyb2lkLW1heS1zb29uLXJlc3RyaWN0LW9uLWRldmljZS1hZGIlMkYlN0NodHRwcyUzQSUyRiUyRmtpdHN1bWVkLmdpdGh1Yi5pbyUyRmJsb2clMkZwb3N0cyUyRmFuZHJvaWQtbWF5LXNvb24tcmVzdHJpY3Qtb24tZGV2aWNlLWFkYiUyRiU3Q0FuZHJvaWQlMjBtYXklMjBzb29uJTIwcmVzdHJpY3QlMjBvbi1kZXZpY2UlMjBBREIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA0NTE1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDA2JTNBNTclM0ExNCUyMCUyQjAwMDA",
       "title": "Android may soon restrict on-device ADB",
       "pubDate": "Sat, 25 Jul 2026 06:57:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmV2b3JhbGVvLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aHJlZS10aGVzZXMtb24tdGhlLWxpdGVyYWN5LWNyaXNpcyU3Q2h0dHBzJTNBJTJGJTJGdHJldm9yYWxlby5zdWJzdGFjay5jb20lMkZwJTJGdGhyZWUtdGhlc2VzLW9uLXRoZS1saXRlcmFjeS1jcmlzaXMlN0NUaHJlZSUyMFRoZXNlcyUyMG9uJTIwdGhlJTIwTGl0ZXJhY3klMjBDcmlzaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1MDAyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDE4JTNBMDUlM0E1OSUyMCUyQjAwMDA",
+      "title": "Three Theses on the Literacy Crisis",
+      "pubDate": "Sat, 25 Jul 2026 18:05:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cyLmlzeWUuZ2F0ZWNoLmVkdSUyRn5qamIlMkZyZXNlYXJjaCUyRm1vdyUyRm1vdy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cyLmlzeWUuZ2F0ZWNoLmVkdSUyRn5qamIlMkZyZXNlYXJjaCUyRm1vdyUyRm1vdy5odG1sJTdDU29tZSUyMGNvbWJpbmF0b3JpYWwlMjBhcHBsaWNhdGlvbnMlMjBvZiUyMHNwYWNlZmlsbGluZyUyMGN1cnZlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ5NzI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTclM0EzNyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Some combinatorial applications of spacefilling curves",
+      "pubDate": "Sat, 25 Jul 2026 17:37:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb25zZW5zdXMuZGV2JTJGcCUyRjIwMjYlMkYwNyUyRjE5JTJGb2JzZXJ2aW5nLWdvcy1nYXJiYWdlLWNvbGxlY3Rvci1vbGQtYW5kLW5ldy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0aGVjb25zZW5zdXMuZGV2JTJGcCUyRjIwMjYlMkYwNyUyRjE5JTJGb2JzZXJ2aW5nLWdvcy1nYXJiYWdlLWNvbGxlY3Rvci1vbGQtYW5kLW5ldy5odG1sJTdDV2F0Y2hpbmclMjBHbydzJTIwbmV3JTIwZ2FyYmFnZSUyMGNvbGxlY3RvciUyMG1vdmUlMjB0aHJvdWdoJTIwdGhlJTIwaGVhcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ1NDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMDclM0E1NSUzQTE5JTIwJTJCMDAwMA",
+      "title": "Watching Go's new garbage collector move through the heap",
+      "pubDate": "Sat, 25 Jul 2026 07:55:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
     }
   ]

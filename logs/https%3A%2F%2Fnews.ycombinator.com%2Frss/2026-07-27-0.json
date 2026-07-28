@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 27,
-    "generatedAt": "2026-07-27T17:58:30.497Z"
+    "itemCount": 40,
+    "generatedAt": "2026-07-28T03:42:06.704Z"
   },
   "items": [
     {
@@ -168,6 +168,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm1vb25zaG90YWklMkZLaW1pLUszJTdDaHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm1vb25zaG90YWklMkZLaW1pLUszJTdDS2ltaS1LMyUyMG9uJTIwSHVnZ2luZ0ZhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NTc1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA2JTNBMTglM0ExMCUyMCUyQjAwMDA",
       "title": "Kimi-K3 on HuggingFace",
       "pubDate": "Mon, 27 Jul 2026 06:18:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjA1MjgzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjA1MjgzJTdDVGhlJTIwQnVyYXUlMjByZXByZXNlbnRhdGlvbiUyMG9mJTIwdGhlJTIwYnJhaWQlMjBncm91cCUyMGlzJTIwZmFpdGhmdWwlMjBmb3IlMjBuJTIwJTNEJTIwNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDc3MjA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMjMlM0E0NiUzQTE1JTIwJTJCMDAwMA",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "pubDate": "Mon, 27 Jul 2026 23:46:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZueXBvc3QuY29tJTJGMjAyNiUyRjA3JTJGMjYlMkZ1cy1uZXdzJTJGbmV0ZmxpeC1leGVjLWdvZXMtYmFsbGlzdGljLWFmdGVyLWJlaW5nLWZpcmVkLWZvci1zdHVubmluZy10cnVzdC1leGVyY2lzZS1jb25mZXNzaW9uLWF0LXJldHJlYXQtc3VpdCUyRiU3Q2h0dHBzJTNBJTJGJTJGbnlwb3N0LmNvbSUyRjIwMjYlMkYwNyUyRjI2JTJGdXMtbmV3cyUyRm5ldGZsaXgtZXhlYy1nb2VzLWJhbGxpc3RpYy1hZnRlci1iZWluZy1maXJlZC1mb3Itc3R1bm5pbmctdHJ1c3QtZXhlcmNpc2UtY29uZmVzc2lvbi1hdC1yZXRyZWF0LXN1aXQlMkYlN0NOZXRmbGl4JTIwZW1wbG95ZWUlMjBmaXJlZCUyMGZvciUyMHNoYXJpbmclMjBwZXJzb25hbCUyMGRldGFpbHMlMjBpbiUyMHJldHJlYXQlMjB0cnVzdCUyMGV4ZXJjaXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzY5MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAyMyUzQTIxJTNBMzclMjAlMkIwMDAw",
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "pubDate": "Mon, 27 Jul 2026 23:21:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGFjZWRhaWx5LmNvbSUyRnNkLXYtYXN0cm9uYXV0cy1yZXR1cm5pbmctZnJvbS1zaXgtbW9udGgtbWlzc2lvbnMtZGVzY3JpYmUtYS1wZXJzaXN0ZW50LW9ic2VydmVyLXNlbnNhdGlvbi10aGUtZmVlbGluZy1vZi13YXRjaGluZy10aGVpci1vd24tbGl2ZXMtZnJvbS1hLWhhbGYtc3RlcC1vdXRzaWRlLXRoZS1mcmFtZS13ZWVrcy1hZnRlci10aGV5ciUyRiU3Q2h0dHBzJTNBJTJGJTJGc3BhY2VkYWlseS5jb20lMkZzZC12LWFzdHJvbmF1dHMtcmV0dXJuaW5nLWZyb20tc2l4LW1vbnRoLW1pc3Npb25zLWRlc2NyaWJlLWEtcGVyc2lzdGVudC1vYnNlcnZlci1zZW5zYXRpb24tdGhlLWZlZWxpbmctb2Ytd2F0Y2hpbmctdGhlaXItb3duLWxpdmVzLWZyb20tYS1oYWxmLXN0ZXAtb3V0c2lkZS10aGUtZnJhbWUtd2Vla3MtYWZ0ZXItdGhleXIlMkYlN0NBc3Ryb25hdXRzJTIwZGVzY3JpYmUlMjBwZXJzaXN0ZW50JTIwJ29ic2VydmVyJyUyMHNlbnNhdGlvbiUyMGFmdGVyJTIwNiUyMG1vbnRoJTIwbWlzc2lvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3NjkwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDIzJTNBMTklM0ExOSUyMCUyQjAwMDA",
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "pubDate": "Mon, 27 Jul 2026 23:19:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkY29uZi5vcmclMkYyMDI2JTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZGNvbmYub3JnJTJGMjAyNiUyRmluZGV4Lmh0bWwlN0NEQ29uZiUyMDIwMjYlMjBpbiUyMExvbmRvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDc2ODQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMjMlM0ExNCUzQTE5JTIwJTJCMDAwMA",
+      "title": "DConf 2026 in London",
+      "pubDate": "Mon, 27 Jul 2026 23:14:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxseW91cmNvZGViYXNlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxseW91cmNvZGViYXNlJTdDQyUyRkMlMkIlMkIlMjBwcm9qZWN0cyUyMHBhY2thZ2VkJTIwZm9yJTIwWmlnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzY3OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAyMyUzQTA5JTNBNTAlMjAlMkIwMDAw",
+      "title": "C/C++ projects packaged for Zig",
+      "pubDate": "Mon, 27 Jul 2026 23:09:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHVtYW5sYXllciUyRmFkdmFuY2VkLWNvbnRleHQtZW5naW5lZXJpbmctZm9yLWNvZGluZy1hZ2VudHMlMkZibG9iJTJGbWFpbiUyRmJlbmNobWFya2luZy1vcHVzLTUtb24tc2xvcC1jb2RlLWJlbmNoLm1kJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHVtYW5sYXllciUyRmFkdmFuY2VkLWNvbnRleHQtZW5naW5lZXJpbmctZm9yLWNvZGluZy1hZ2VudHMlMkZibG9iJTJGbWFpbiUyRmJlbmNobWFya2luZy1vcHVzLTUtb24tc2xvcC1jb2RlLWJlbmNoLm1kJTdDQmVuY2htYXJraW5nJTIwT3B1cyUyMDUlMjBvbiUyMFNsb3BDb2RlQmVuY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3NjM5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDIyJTNBMzclM0E1MiUyMCUyQjAwMDA",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "pubDate": "Mon, 27 Jul 2026 22:37:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYwNyUyRnBvbGljZS1taXNzZWQtb25lLXVuZGVyc2NvcmUtYW5kLXNlbnQtdGhlLXdyb25nLW1hbi10by1wcmlzb24lMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRnRlY2gtcG9saWN5JTJGMjAyNiUyRjA3JTJGcG9saWNlLW1pc3NlZC1vbmUtdW5kZXJzY29yZS1hbmQtc2VudC10aGUtd3JvbmctbWFuLXRvLXByaXNvbiUyRiU3Q0ElMjBtaXNzaW5nJTIwdW5kZXJzY29yZSUyMHNlbnQlMjBpbm5vY2VudCUyMG1hbiUyMHRvJTIwcHJpc29uJTIwZm9yJTIwMTglMjBtb250aHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3NjExNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDIyJTNBMTAlM0ExNSUyMCUyQjAwMDA",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "pubDate": "Mon, 27 Jul 2026 22:10:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZwb3NpdGlvbi1vcGVuLXdlaWdodHMtbW9kZWxzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZwb3NpdGlvbi1vcGVuLXdlaWdodHMtbW9kZWxzJTdDT3VyJTIwcG9zaXRpb24lMjBvbiUyMG9wZW4td2VpZ2h0cyUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDc2MDU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMjIlM0EwMyUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Our position on open-weights models",
+      "pubDate": "Mon, 27 Jul 2026 22:03:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlzZS1yZWZvcm1pbmcuY29tJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmlzZS1yZWZvcm1pbmcuY29tJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBSaXNlJTIwUmVmb3JtaW5nJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMFR1cm5pbmclMjBXYXN0ZSUyMEdhc2VzJTIwaW50byUyMFZhbHVhYmxlJTIwQ2hlbWljYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzQ4MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAxOSUzQTU4JTNBMjIlMjAlMkIwMDAw",
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "pubDate": "Mon, 27 Jul 2026 19:58:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmVnb3J5c3pvcmMuY29tJTJGZG9jcyUyRnB5dGhvbi1idWlsZC1zdGFuZGFsb25lJTJGbWFpbiUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JlZ29yeXN6b3JjLmNvbSUyRmRvY3MlMkZweXRob24tYnVpbGQtc3RhbmRhbG9uZSUyRm1haW4lMkYlN0NTZWxmLWNvbnRhaW5lZCUyMGhpZ2hseS1wb3J0YWJsZSUyMFB5dGhvbiUyMGRpc3RyaWJ1dGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3Mzk0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDE4JTNBNDMlM0EzMSUyMCUyQjAwMDA",
+      "title": "Self-contained highly-portable Python distributions",
+      "pubDate": "Mon, 27 Jul 2026 18:43:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRnJpZ2FkZUhRJTJGeWFwJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRnJpZ2FkZUhRJTJGeWFwJTdDU2hvdyUyMEhOJTNBJTIwWWFwJTIwJUUyJTgwJTkzJTIwT1NTJTIwb24tZGV2aWNlJTIwdm9pY2UlMjBkaWN0YXRpb24lMjBmb3IlMjBtYWNPUyUyMHdpdGglMjBubyUyMG1vZGVsJTIwdG8lMjBkb3dubG9hZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDczODM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMTglM0EzNiUzQTAyJTIwJTJCMDAwMA",
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "pubDate": "Mon, 27 Jul 2026 18:36:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaGRpcnQuY29tJTJGMjAyNiUyRjA3JTJGMjclMkZqdWRnZS1yZWplY3RzLWdvb2dsZXMtYXR0ZW1wdC10by1kbWNhLWl0cy13YXktb3V0LW9mLWJlaW5nLXNjcmFwZWQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNoZGlydC5jb20lMkYyMDI2JTJGMDclMkYyNyUyRmp1ZGdlLXJlamVjdHMtZ29vZ2xlcy1hdHRlbXB0LXRvLWRtY2EtaXRzLXdheS1vdXQtb2YtYmVpbmctc2NyYXBlZCUyRiU3Q0p1ZGdlJTIwUmVqZWN0cyUyMEdvb2dsZSdzJTIwQXR0ZW1wdCUyMHRvJTIwRE1DQSUyMEl0cyUyMFdheSUyME91dCUyMG9mJTIwQmVpbmclMjBTY3JhcGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzM1MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAxOCUzQTE1JTNBMzUlMjAlMkIwMDAw",
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "pubDate": "Mon, 27 Jul 2026 18:15:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkZtYXRoJTJGMDQxMTQxOCU3Q2h0dHBzJTNBJTJGJTJGYXJ4aXYub3JnJTJGYWJzJTJGbWF0aCUyRjA0MTE0MTglN0NIb3clMjByZWFsJTIwYXJlJTIwcmVhbCUyMG51bWJlcnMlM0YlMjAoMjAwNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3MTE5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDE1JTNBNDAlM0ExNyUyMCUyQjAwMDA",
+      "title": "How real are real numbers? (2004)",
+      "pubDate": "Mon, 27 Jul 2026 15:40:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]
