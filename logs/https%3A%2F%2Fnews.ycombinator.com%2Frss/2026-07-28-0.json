@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-28",
     "newestItemDate": "2026-07-28",
-    "itemCount": 38,
-    "generatedAt": "2026-07-28T17:47:39.538Z"
+    "itemCount": 47,
+    "generatedAt": "2026-07-29T03:44:53.379Z"
   },
   "items": [
     {
@@ -234,6 +234,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjaXBoZXJjdWUuY29tJTJGYmxvZyUyRmRtYXJjLWVuZm9yY2VtZW50LWdhcC1ydWEtZnJhZ21lbnRhdGlvbi0yMDI2JTdDaHR0cHMlM0ElMkYlMkZjaXBoZXJjdWUuY29tJTJGYmxvZyUyRmRtYXJjLWVuZm9yY2VtZW50LWdhcC1ydWEtZnJhZ21lbnRhdGlvbi0yMDI2JTdDRE1BUkMlMjBIYXMlMjBCZWVuJTIwUHVibGljJTIwU2luY2UlMjAyMDEyLiUyMDY4LjQlMjUlMjBvZiUyMERvbWFpbnMlMjBTdGlsbCUyMERvbid0JTIwRW5mb3JjZSUyMEl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODE3ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxMCUzQTIwJTNBNTAlMjAlMkIwMDAw",
       "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
       "pubDate": "Tue, 28 Jul 2026 10:20:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWZyYW1lLmNhbWVyYSUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVmcmFtZS5jYW1lcmElMkYlN0NSZUZyYW1lJTIwJUUyJTgwJTkzJTIwVGhlJTIwRVBhcGVyJTIwQ2FtZXJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwOTEzNzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAyMyUzQTI3JTNBMDklMjAlMkIwMDAw",
+      "title": "ReFrame – The EPaper Camera",
+      "pubDate": "Tue, 28 Jul 2026 23:27:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdHdhbGljaGlld2ljeiUyRkhOZXdoZXJlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdHdhbGljaGlld2ljeiUyRkhOZXdoZXJlJTdDU2hvdyUyMEhOJTNBJTIwSSUyMHdhcyUyMHRpcmVkJTIwb2YlMjBvcGVuaW5nJTIwMiUyMHRhYnMlMjBmb3IlMjBldmVyeSUyMEhOJTIwbGluayUyQyUyMHNvJTIwSSUyMG1hZGUlMjBhJTIwdXNlcnNjcmlwdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDkwNjA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMjIlM0EwOSUzQTA2JTIwJTJCMDAwMA",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "pubDate": "Tue, 28 Jul 2026 22:09:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWMtY2xhc3NpYy5jb20lMkZuZXdzJTJGaGFsZi1saWZlLXBvcnRlZC10by1tYWMtb3MtOSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFjLWNsYXNzaWMuY29tJTJGbmV3cyUyRmhhbGYtbGlmZS1wb3J0ZWQtdG8tbWFjLW9zLTklMkYlN0NIYWxmLUxpZmUlMjBwb3J0ZWQlMjB0byUyME1hYyUyME9TJTIwOSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDg5ODE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMjAlM0E1OCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Half-Life ported to Mac OS 9",
+      "pubDate": "Tue, 28 Jul 2026 20:58:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXgtc2VjdXJpdHklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvcGVuYWklMkZjb2RleC1zZWN1cml0eSU3Q0NvZGV4JTIwU2VjdXJpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4OTc1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDIwJTNBNTIlM0E1NSUyMCUyQjAwMDA",
+      "title": "Codex Security",
+      "pubDate": "Tue, 28 Jul 2026 20:52:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFjaW5ndGhlZnJvbnRpZXIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGFjaW5ndGhlZnJvbnRpZXIuY29tJTJGJTdDUGFjaW5nJTIwdGhlJTIwZnJvbnRpZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4OTI0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDIwJTNBMDklM0EwOSUyMCUyQjAwMDA",
+      "title": "Pacing the frontier",
+      "pubDate": "Tue, 28 Jul 2026 20:09:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGc2hvcCUyRmlwaG9uZSUyRmlwaG9uZS11cGdyYWRlLXByb2dyYW0lN0NodHRwcyUzQSUyRiUyRnd3dy5hcHBsZS5jb20lMkZzaG9wJTJGaXBob25lJTJGaXBob25lLXVwZ3JhZGUtcHJvZ3JhbSU3Q1RoZSUyMGlQaG9uZSUyMFVwZ3JhZGUlMjBQcm9ncmFtJTIwaXMlMjBiZWluZyUyMHJlcGxhY2VkJTIwYnklMjBBcHBsZSUyMFVwZ3JhZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NzMwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE3JTNBMzclM0ExMiUyMCUyQjAwMDA",
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "pubDate": "Tue, 28 Jul 2026 17:37:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWNtLmFjbS5vcmclMkZvcGluaW9uJTJGbm93LWlzLXRoZS10aW1lLXRvLWdpdmUtbGxtcy1hY2Nlc3MtdG8tdGhlLWFjbS1kaWdpdGFsLWxpYnJhcnklMkYlN0NodHRwcyUzQSUyRiUyRmNhY20uYWNtLm9yZyUyRm9waW5pb24lMkZub3ctaXMtdGhlLXRpbWUtdG8tZ2l2ZS1sbG1zLWFjY2Vzcy10by10aGUtYWNtLWRpZ2l0YWwtbGlicmFyeSUyRiU3Q05vdyUyMGlzJTIwdGhlJTIwdGltZSUyMHRvJTIwZ2l2ZSUyMExMTXMlMjBhY2Nlc3MlMjB0byUyMHRoZSUyMEFDTSUyMGRpZ2l0YWwlMjBsaWJyYXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwODQ5ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOCUyMEp1bCUyMDIwMjYlMjAxNSUzQTAxJTNBMTIlMjAlMkIwMDAw",
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "pubDate": "Tue, 28 Jul 2026 15:01:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmF3YXRjaC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnVuYXdhdGNoLmNvbSUyRiU3Q1VuYSUyMEdQUyUyMHNtYXJ0JTIwd2F0Y2glMjAlRTIlODAlOTMlMjBSZXBhaXJhYmxlJTJDJTIwVVNCLUMlMjBjaGFyZ2luZyUyQyUyMGRldmVsb3Blci1mcmllbmRseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDg0ODEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTQlM0E0OCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "pubDate": "Tue, 28 Jul 2026 14:48:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjI2NjkyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjI2NjkyJTdDS2ltaSUyMExpbmVhciUzQSUyMEFuJTIwRXhwcmVzc2l2ZSUyQyUyMEVmZmljaWVudCUyMEF0dGVudGlvbiUyMEFyY2hpdGVjdHVyZSUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDgyMDIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTAlM0E1MiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "pubDate": "Tue, 28 Jul 2026 10:52:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 42,
-    "generatedAt": "2026-07-28T17:47:39.538Z"
+    "itemCount": 45,
+    "generatedAt": "2026-07-29T03:44:53.379Z"
   },
   "items": [
     {
@@ -258,6 +258,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGJzLm9yZyUyRndnYmglMkZub3ZhJTJGcHJvb2YlMkZ3aWxlcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGJzLm9yZyUyRndnYmglMkZub3ZhJTJGcHJvb2YlMkZ3aWxlcy5odG1sJTdDU29sdmluZyUyMEZlcm1hdCUzQSUyMEFuZHJldyUyMFdpbGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzUyNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAyMCUzQTQyJTNBNDYlMjAlMkIwMDAw",
       "title": "Solving Fermat: Andrew Wiles",
       "pubDate": "Mon, 27 Jul 2026 20:42:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RxeVBDVnFGVXlEbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEcXlQQ1ZxRlV5RG8lN0NJbnRlcnZpZXclMjB3aXRoJTIwQm9yaXMlMjBDaGVybnklMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDc3MDQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMjMlM0EzMyUzQTA0JTIwJTJCMDAwMA",
+      "title": "Interview with Boris Cherny [video]",
+      "pubDate": "Mon, 27 Jul 2026 23:33:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZW9uLmNvJTJGZXNzYXlzJTJGdW5jb3ZlcmluZy1hLWdsb2JhbC1hbmNpZW50LWhpc3RvcnktYmV5b25kLWdyZWVjZS1hbmQtcm9tZSU3Q2h0dHBzJTNBJTJGJTJGYWVvbi5jbyUyRmVzc2F5cyUyRnVuY292ZXJpbmctYS1nbG9iYWwtYW5jaWVudC1oaXN0b3J5LWJleW9uZC1ncmVlY2UtYW5kLXJvbWUlN0NCZXlvbmQlMjBHcmVlY2UlMjBhbmQlMjBSb21lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzMzNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAxOCUzQTA0JTNBMzAlMjAlMkIwMDAw",
+      "title": "Beyond Greece and Rome",
+      "pubDate": "Mon, 27 Jul 2026 18:04:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYmVsamFuc21hLm5sJTJGMjAyNiUyRjA3JTJGMTAlMkZ0cnV0aC1pcy1ub3QtYS1kaXJlY3Rpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYWJlbGphbnNtYS5ubCUyRjIwMjYlMkYwNyUyRjEwJTJGdHJ1dGgtaXMtbm90LWEtZGlyZWN0aW9uLmh0bWwlN0NUcnV0aCUyMGlzJTIwbm90JTIwYSUyMGRpcmVjdGlvbiUzQSUyMGElMjBUYXJza2klMjBhdHRhY2slMjBvbiUyMExMTSUyMHByb2JlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDY5MDMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMTIlM0E1NiUzQTM2JTIwJTJCMDAwMA",
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "pubDate": "Mon, 27 Jul 2026 12:56:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]
