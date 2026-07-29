@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 18,
-    "generatedAt": "2026-07-29T10:58:23.770Z"
+    "itemCount": 40,
+    "generatedAt": "2026-07-29T17:41:46.280Z"
   },
   "items": [
     {
@@ -114,6 +114,138 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFuc2Zvcm1lci10cmFuc2Zvcm1lci5naXRodWIuaW8lMkYlN0NodHRwcyUzQSUyRiUyRnRyYW5zZm9ybWVyLXRyYW5zZm9ybWVyLmdpdGh1Yi5pbyUyRiU3Q1RyYW5zZm9ybWVyJTIwVHJhbnNmb3JtZXIlM0ElMjBBJTIwVW5pZmllZCUyME1vZGVsJTIwZm9yJTIwTW90aW9uLUNvbmRpdGlvbmVkJTIwUm9ib3QlMjBDby1EZXNpZ24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5MzIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDAzJTNBNTIlM0EyOSUyMCUyQjAwMDA",
       "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
       "pubDate": "Wed, 29 Jul 2026 03:52:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcGdkb2clMkZqb2JzJTJGdVd5bVVZeS1mb3VuZGluZy1zb2Z0d2FyZS1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnBnZG9nJTJGam9icyUyRnVXeW1VWXktZm91bmRpbmctc29mdHdhcmUtZW5naW5lZXIlN0NQZ0RvZyUyMChZQyUyMFAyNSklMjBJcyUyMEhpcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAwMDU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTclM0EwMSUzQTEwJTIwJTJCMDAwMA",
+      "title": "PgDog (YC P25) Is Hiring",
+      "pubDate": "Wed, 29 Jul 2026 17:01:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZW5kZXIuY29tJTJGYmxvZyUyRmluZnJhc3RydWN0dXJlLXBhdHRlcm5zLWZvci1hZ2VudGljLWFwcGxpY2F0aW9ucyU3Q2h0dHBzJTNBJTJGJTJGcmVuZGVyLmNvbSUyRmJsb2clMkZpbmZyYXN0cnVjdHVyZS1wYXR0ZXJucy1mb3ItYWdlbnRpYy1hcHBsaWNhdGlvbnMlN0NJbmZyYXN0cnVjdHVyZSUyMFBhdHRlcm5zJTIwZm9yJTIwQWdlbnRpYyUyMEFwcGxpY2F0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAwMDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTYlM0E1OSUzQTA0JTIwJTJCMDAwMA",
+      "title": "Infrastructure Patterns for Agentic Applications",
+      "pubDate": "Wed, 29 Jul 2026 16:59:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlnaXRhbGZvdW5kcnkubmV0JTJGbmV3cyUyRjIwMjYlMkYwNyUyRmtleWNocm9uLWFubm91bmNlcy1maXJzdC1vcGVuLXNvdXJjZS1maXJtd2FyZS1mb3ItZ2FtaW5nLW1pY2UlN0NodHRwcyUzQSUyRiUyRnd3dy5kaWdpdGFsZm91bmRyeS5uZXQlMkZuZXdzJTJGMjAyNiUyRjA3JTJGa2V5Y2hyb24tYW5ub3VuY2VzLWZpcnN0LW9wZW4tc291cmNlLWZpcm13YXJlLWZvci1nYW1pbmctbWljZSU3Q0tleWNocm9uJTIwYW5ub3VuY2VzJTIwZmlyc3QlMjBvcGVuLXNvdXJjZSUyMGZpcm13YXJlJTIwZm9yJTIwZ2FtaW5nJTIwbWljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk5NzE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTYlM0EzNiUzQTU5JTIwJTJCMDAwMA",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "pubDate": "Wed, 29 Jul 2026 16:36:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZWRnZS5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRmtlZGdlLmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMEtlZGdlJTIwJUUyJTgwJTkzJTIwRnVsbC1zdGFjayUyMGNsb3VkJTIwd2l0aCUyMGZvcmthYmxlJTIwVk0lMjBzbmFwc2hvdHMlMjBhbmQlMjBnbG9iYWwlMjBTUUxpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5OTQzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE2JTNBMTUlM0E1NyUyMCUyQjAwMDA",
+      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+      "pubDate": "Wed, 29 Jul 2026 16:15:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1c2V0b2tlbmxlc3MuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ1c2V0b2tlbmxlc3MuY29tJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBUb2tlbmxlc3MlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwQXV0b21hdGljJTIwbW9kZWwlMjBzd2l0Y2hpbmclMjB0byUyMHNhdmUlMjBtb25leSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk5MTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTUlM0E1NSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "pubDate": "Wed, 29 Jul 2026 15:55:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3VwZXJsb2dpY2FsLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN1cGVybG9naWNhbC5jb20lMkYlN0NTdXBlcmxvZ2ljYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5ODk2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE1JTNBNDElM0EzMyUyMCUyQjAwMDA",
+      "title": "Superlogical",
+      "pubDate": "Wed, 29 Jul 2026 15:41:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZXNpdW0uY29tJTJGZXZlbnRzJTJGY2VzaXVtLWRldmVsb3Blci1jb25mZXJlbmNlJTJGMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGY2VzaXVtLmNvbSUyRmV2ZW50cyUyRmNlc2l1bS1kZXZlbG9wZXItY29uZmVyZW5jZSUyRjIwMjYlMkYlN0NDZXNpdW0lMjBEZXZDb24lMjAyMDI2JTIwdGFsa3MlMjBhcmUlMjB1cCUyQyUyMGluY2x1ZGluZyUyMGElMjBrZXlub3RlJTIwZnJvbSUyMFNRTGl0ZSdzJTIwY3JlYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk4NTk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTUlM0ExMyUzQTI1JTIwJTJCMDAwMA",
+      "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+      "pubDate": "Wed, 29 Jul 2026 15:13:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZHJ1bWloJTJGdHVyYm8tZmllbGRmYXJlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZHJ1bWloJTJGdHVyYm8tZmllbGRmYXJlJTdDU2hvdyUyMEhOJTNBJTIwT3Blbi1zb3VyY2UlMjBlbmdpbmUlMjBydW5uaW5nJTIwR2VtbWElMjA0JTIwMjZCJTIwaW4lMjAyJTIwR0IlMjBSQU0lMjBvbiUyMGFueSUyME0tc2VyaWVzJTIwTWFjJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwOTg1MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOSUyMEp1bCUyMDIwMjYlMjAxNSUzQTA1JTNBNDMlMjAlMkIwMDAw",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "pubDate": "Wed, 29 Jul 2026 15:05:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS1hbmF0b215LW9mLWZyb250aWVyLWxhYi1tb2RlbC1pbnRydXNpb24uc3RhdGljLmhmLnNwYWNlJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGaHVnZ2luZ2ZhY2UtYW5hdG9teS1vZi1mcm9udGllci1sYWItbW9kZWwtaW50cnVzaW9uLnN0YXRpYy5oZi5zcGFjZSUyRmluZGV4Lmh0bWwlN0NIdWdnaW5nJTIwRmFjZSUzQSUyMEFuYXRvbXklMjBvZiUyMGElMjBmcm9udGllci1sYWIlMjBhZ2VudCUyMGludHJ1c2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk4NDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTUlM0EwMSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+      "pubDate": "Wed, 29 Jul 2026 15:01:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdWxpYWh1Yi5jb20lMkZibG9nJTJGZnJvbnRpZXItbW9kZWxzLXBoeXNpY2FsLWFpLWV2YWx1YXRpb24lN0NodHRwcyUzQSUyRiUyRmp1bGlhaHViLmNvbSUyRmJsb2clMkZmcm9udGllci1tb2RlbHMtcGh5c2ljYWwtYWktZXZhbHVhdGlvbiU3Q0dQVC01LjYlMjB2cy4lMjBDbGF1ZGUlMjBGYWJsZSUyMDUlMjBmb3IlMjBQaHlzaWNhbCUyMEFJJTJDJTIwd2hpY2glMjBwZXJmb3JtcyUyMGJlc3QlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5ODM4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE0JTNBNTYlM0EyOCUyMCUyQjAwMDA",
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "pubDate": "Wed, 29 Jul 2026 14:56:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVmxhZFVaSCUyRnF3ZW4tc2NyaWJlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVmxhZFVaSCUyRnF3ZW4tc2NyaWJlJTdDU2hvdyUyMEhOJTNBJTIwUXdlbiUyMFNjcmliZSUyMCVFMiU4MCU5MyUyMGxvY2FsJTIwdHJhbnNjcmlwdGlvbiUyMGFuZCUyMGRpY3RhdGlvbiUyMGZvciUyMEFwcGxlJTIwU2lsaWNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk4MjYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTQlM0E0NyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "pubDate": "Wed, 29 Jul 2026 14:47:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYyOSUyRmJ1c2luZXNzJTJGZWNvbm9teSUyRmRhdGEtY2VudGVyLWVsZWN0cmljaWFucy10cmFpbmluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYyOSUyRmJ1c2luZXNzJTJGZWNvbm9teSUyRmRhdGEtY2VudGVyLWVsZWN0cmljaWFucy10cmFpbmluZy5odG1sJTdDQS5JLiUyMENvbXBhbmllcyUyMEFyZSUyMFJlY3J1aXRpbmclMjBFbGVjdHJpY2lhbnMlMjBhbmQlMjBDYXJwZW50ZXJzJTIwYnklMjB0aGUlMjBUaG91c2FuZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5ODE5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE0JTNBNDMlM0E0NyUyMCUyQjAwMDA",
+      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "pubDate": "Wed, 29 Jul 2026 14:43:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaXN0YWNrLmltZWMtaW50LmNvbSUyRmJsb2clMkZncHUtc2VsZi1ob3N0aW5nJTdDaHR0cHMlM0ElMkYlMkZhaXN0YWNrLmltZWMtaW50LmNvbSUyRmJsb2clMkZncHUtc2VsZi1ob3N0aW5nJTdDU2VsZi1ob3N0aW5nJTIwS2ltaSUyMEszJTNBJTIwMjAlMjUlMjBtb3JlJTIwaGFyZHdhcmUlMjBjb3N0JTJDJTIwMjAlMjUlMjBiZXR0ZXIlMjB0YXNrJTIwcmVzb2x1dGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk4MTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTQlM0EzOCUzQTM1JTIwJTJCMDAwMA",
+      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+      "pubDate": "Wed, 29 Jul 2026 14:38:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVzaWduYm9vbS5jb20lMkZ0ZWNobm9sb2d5JTJGY2lwaGVyeC1wYWlubGVzcy1wZXJtYW5lbnQtdGF0dG9vcy1kaXNzb2x2aW5nLW1pY3JvbmVlZGxlLXBhdGNoZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kZXNpZ25ib29tLmNvbSUyRnRlY2hub2xvZ3klMkZjaXBoZXJ4LXBhaW5sZXNzLXBlcm1hbmVudC10YXR0b29zLWRpc3NvbHZpbmctbWljcm9uZWVkbGUtcGF0Y2hlcyUyRiU3Q0NpcGhlclglMjBhcHBsaWVzJTIwcGFpbmxlc3MlMjBwZXJtYW5lbnQlMjB0YXR0b29zJTIwd2l0aCUyMGRpc3NvbHZpbmclMjBtaWNyb25lZWRsZSUyMHBhdGNoZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NzkwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE0JTNBMjAlM0EzNCUyMCUyQjAwMDA",
+      "title": "CipherX applies painless permanent tattoos with dissolving microneedle patches",
+      "pubDate": "Wed, 29 Jul 2026 14:20:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI1Mzk4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI1Mzk4JTdDSGFuZGJvb2subWQlMjBzaG93cyUyMHRoYXQlMjBsb25nJTIwcG9saWN5JTIwZG9jdW1lbnRzJTIwZG8lMjBub3QlMjByZWxpYWJseSUyMGdvdmVybiUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk2OTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTMlM0EwMSUzQTU3JTIwJTJCMDAwMA",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "pubDate": "Wed, 29 Jul 2026 13:01:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb3RzYW5kcGFuc2J5Y2NnLmNvbSUyRjIwMjYlMkYwNyUyRjI5JTJGYWZ0ZXItdGhlLWFpLWNyYXNoJTJGJTdDaHR0cHMlM0ElMkYlMkZwb3RzYW5kcGFuc2J5Y2NnLmNvbSUyRjIwMjYlMkYwNyUyRjI5JTJGYWZ0ZXItdGhlLWFpLWNyYXNoJTJGJTdDQWZ0ZXIlMjB0aGUlMjBBSSUyMENyYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwOTY5NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOSUyMEp1bCUyMDIwMjYlMjAxMyUzQTAwJTNBMzklMjAlMkIwMDAw",
+      "title": "After the AI Crash",
+      "pubDate": "Wed, 29 Jul 2026 13:00:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2xhaXJlLWJsYWNrc2hhdy5jb20lMkZibG9nJTJGMjAyNiUyRjA3JTJGc2hpcHBpbmctZ29kb3QtdnItYW5kLXBvcnRpbmctdG8tcHN2cjItYS1wYXJ0aWFsLXBvc3QtbW9ydGVtJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2xhaXJlLWJsYWNrc2hhdy5jb20lMkZibG9nJTJGMjAyNiUyRjA3JTJGc2hpcHBpbmctZ29kb3QtdnItYW5kLXBvcnRpbmctdG8tcHN2cjItYS1wYXJ0aWFsLXBvc3QtbW9ydGVtJTJGJTdDU2hpcHBpbmclMjBHb2RvdCUyMFZSJTIwYW5kJTIwUG9ydGluZyUyMHRvJTIwUFNWUjIlM0ElMjBBJTIwUGFydGlhbCUyMFBvc3QlMjBNb3J0ZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NjgxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDEyJTNBNDglM0ExOCUyMCUyQjAwMDA",
+      "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+      "pubDate": "Wed, 29 Jul 2026 12:48:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFya3RhYmxlLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhcmt0YWJsZS5vcmclMkYlN0NEYXJrdGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NjY1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDEyJTNBMzMlM0EwMiUyMCUyQjAwMDA",
+      "title": "Darktable",
+      "pubDate": "Wed, 29 Jul 2026 12:33:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRnNlY3VyaXR5JTJGc3VwcGx5LWNoYWluLXNlY3VyaXR5JTJGZGlzcnVwdGluZy1zdXBwbHktY2hhaW4tYXR0YWNrcy1vbi1ucG0tYW5kLWdpdGh1Yi1hY3Rpb25zJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRnNlY3VyaXR5JTJGc3VwcGx5LWNoYWluLXNlY3VyaXR5JTJGZGlzcnVwdGluZy1zdXBwbHktY2hhaW4tYXR0YWNrcy1vbi1ucG0tYW5kLWdpdGh1Yi1hY3Rpb25zJTJGJTdDRGlzcnVwdGluZyUyMHN1cHBseSUyMGNoYWluJTIwYXR0YWNrcyUyMG9uJTIwTlBNJTIwYW5kJTIwR2l0SHViJTIwQWN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk2NDI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTIlM0ExMSUzQTE4JTIwJTJCMDAwMA",
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "pubDate": "Wed, 29 Jul 2026 12:11:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmtseXBlc2FsdC5jb20lMkZwb3N0cyUyRmNvbnRleHQtY29sbGFwc2UtcGFydDMtYWktd29ybWluZy10aHJvdWdoLXdvcmQlMkYlN0NodHRwcyUzQSUyRiUyRmVua2x5cGVzYWx0LmNvbSUyRnBvc3RzJTJGY29udGV4dC1jb2xsYXBzZS1wYXJ0My1haS13b3JtaW5nLXRocm91Z2gtd29yZCUyRiU3Q0RvY3VtZW50LWJvcm5lJTIwQUklMjB3b3JtcyUyMGNhbiUyMHNlbGYtcHJvcGFnYXRlJTIwdGhyb3VnaCUyMENvcGlsb3QlMjBmb3IlMjBXb3JkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwOTYxODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOSUyMEp1bCUyMDIwMjYlMjAxMSUzQTQ0JTNBMzMlMjAlMkIwMDAw",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "pubDate": "Wed, 29 Jul 2026 11:44:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb3JlYWRlci5yb2NrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGa29yZWFkZXIucm9ja3MlMkYlN0NLT1JlYWRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk1ODY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTElM0EwNSUzQTA4JTIwJTJCMDAwMA",
+      "title": "KOReader",
+      "pubDate": "Wed, 29 Jul 2026 11:05:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWlnYS5seWNoZXNpcy5uZXQlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbWlnYS5seWNoZXNpcy5uZXQlMkZpbmRleC5odG1sJTdDQW1pZ2ElMjBHcmFwaGljcyUyMEFyY2hpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NTUxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDEwJTNBMTklM0E0NCUyMCUyQjAwMDA",
+      "title": "Amiga Graphics Archive",
+      "pubDate": "Wed, 29 Jul 2026 10:19:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]

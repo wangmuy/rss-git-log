@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-25",
     "newestItemDate": "2026-07-25",
-    "itemCount": 42,
-    "generatedAt": "2026-07-28T03:42:06.704Z"
+    "itemCount": 43,
+    "generatedAt": "2026-07-29T17:41:46.281Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb25zZW5zdXMuZGV2JTJGcCUyRjIwMjYlMkYwNyUyRjE5JTJGb2JzZXJ2aW5nLWdvcy1nYXJiYWdlLWNvbGxlY3Rvci1vbGQtYW5kLW5ldy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0aGVjb25zZW5zdXMuZGV2JTJGcCUyRjIwMjYlMkYwNyUyRjE5JTJGb2JzZXJ2aW5nLWdvcy1nYXJiYWdlLWNvbGxlY3Rvci1vbGQtYW5kLW5ldy5odG1sJTdDV2F0Y2hpbmclMjBHbydzJTIwbmV3JTIwZ2FyYmFnZSUyMGNvbGxlY3RvciUyMG1vdmUlMjB0aHJvdWdoJTIwdGhlJTIwaGVhcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ1NDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMDclM0E1NSUzQTE5JTIwJTJCMDAwMA",
       "title": "Watching Go's new garbage collector move through the heap",
       "pubDate": "Sat, 25 Jul 2026 07:55:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLmVzcHJlc3NpZi5jb20lMkZwcm9qZWN0cyUyRnJ1c3QlMkZib29rJTJGJTdDaHR0cHMlM0ElMkYlMkZkb2NzLmVzcHJlc3NpZi5jb20lMkZwcm9qZWN0cyUyRnJ1c3QlMkZib29rJTJGJTdDVGhlJTIwUnVzdCUyMG9uJTIwRVNQJTIwQm9vayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ3MzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTMlM0ExNSUzQTQxJTIwJTJCMDAwMA",
+      "title": "The Rust on ESP Book",
+      "pubDate": "Sat, 25 Jul 2026 13:15:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
     }
   ]

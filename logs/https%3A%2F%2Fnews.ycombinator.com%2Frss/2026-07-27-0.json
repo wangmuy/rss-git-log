@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 46,
-    "generatedAt": "2026-07-29T10:58:23.770Z"
+    "itemCount": 48,
+    "generatedAt": "2026-07-29T17:41:46.280Z"
   },
   "items": [
     {
@@ -282,6 +282,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9wdWxhcm1lY2hhbmljcy5jb20lMkZtaWxpdGFyeSUyRndlYXBvbnMlMkZhMzIwMDkxMDklMkZvcGVyYXRpb24tc2FuZGJsYXN0LXN1bWJhcmluZS1jaXJjdW1uYXZpZ2F0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucG9wdWxhcm1lY2hhbmljcy5jb20lMkZtaWxpdGFyeSUyRndlYXBvbnMlMkZhMzIwMDkxMDklMkZvcGVyYXRpb24tc2FuZGJsYXN0LXN1bWJhcmluZS1jaXJjdW1uYXZpZ2F0aW9uJTJGJTdDNjAlMjBZZWFycyUyMEFnbyUyQyUyMGElMjBTdWJtZXJnZWQlMjBTdWJtYXJpbmUlMjBDaXJjbGVkJTIwdGhlJTIwR2xvYmUlMjBmb3IlMjB0aGUlMjBGaXJzdCUyMFRpbWUlMjAoMjAyMCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3NjQ1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDIyJTNBNDIlM0ExMSUyMCUyQjAwMDA",
       "title": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
       "pubDate": "Mon, 27 Jul 2026 22:42:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHN0ZXJydW5kZS5jb20lMkZoYW1idXJncy1zdGFkdHBhcmstYS1wYXJrLWJ1aWx0LXRvLWJlLXVzZWQlMkYlN0NodHRwcyUzQSUyRiUyRmFsc3RlcnJ1bmRlLmNvbSUyRmhhbWJ1cmdzLXN0YWR0cGFyay1hLXBhcmstYnVpbHQtdG8tYmUtdXNlZCUyRiU3Q0hhbWJ1cmcncyUyMFN0YWR0cGFyayUzQSUyMEElMjBQYXJrJTIwQnVpbHQlMjB0byUyMEJlJTIwVXNlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDY1Nzg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMDYlM0EyMyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
+      "pubDate": "Mon, 27 Jul 2026 06:23:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3c2NpZW50aXN0LmNvbSUyRmFydGljbGUlMkYyNTgwMTE5LWh1bnRlci1nYXRoZXJlcnMtaW50cm9kdWNlZC1maXNoLXRvLWEtbW91bnRhaW4tbGFrZS03MDAwLXllYXJzLWFnbyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5ld3NjaWVudGlzdC5jb20lMkZhcnRpY2xlJTJGMjU4MDExOS1odW50ZXItZ2F0aGVyZXJzLWludHJvZHVjZWQtZmlzaC10by1hLW1vdW50YWluLWxha2UtNzAwMC15ZWFycy1hZ28lMkYlN0NIdW50ZXItZ2F0aGVyZXJzJTIwaW50cm9kdWNlZCUyMGZpc2glMjB0byUyMGElMjBtb3VudGFpbiUyMGxha2UlMjA3MDAwJTIweWVhcnMlMjBhZ28lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2Mzk4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDAwJTNBNTglM0E0NSUyMCUyQjAwMDA",
+      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "pubDate": "Mon, 27 Jul 2026 00:58:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]
