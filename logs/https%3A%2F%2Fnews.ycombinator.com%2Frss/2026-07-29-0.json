@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 9,
-    "generatedAt": "2026-07-29T03:44:53.379Z"
+    "itemCount": 18,
+    "generatedAt": "2026-07-29T10:58:23.770Z"
   },
   "items": [
     {
@@ -60,6 +60,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkaW8uYWNhZGVtYS5haSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3R1ZGlvLmFjYWRlbWEuYWklMkYlN0NTaG93JTIwSE4lM0ElMjBNYW5pbSUyMCgzQmx1ZTFCcm93bidzJTIwYW5pbWF0aW9uJTIwZW5naW5lKSUyMGluJTIwdGhlJTIwYnJvd3NlciUyMHZpYSUyMFdlYkdQVSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDkxNzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMDAlM0EwNyUzQTQzJTIwJTJCMDAwMA",
       "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
       "pubDate": "Wed, 29 Jul 2026 00:07:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLmltaXJvbi5pbyUyRnYlMkYwLjUuMTAlMkZlbiUyRnRvdXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZG9jcy5pbWlyb24uaW8lMkZ2JTJGMC41LjEwJTJGZW4lMkZ0b3VyLmh0bWwlN0NTcGVjRm9yZ2UlMjAlRTIlODAlOTMlMjBBJTIwUGxhdGZvcm0lMjBmb3IlMjBBdXRob3JpbmclMjBGb3JtYWwlMjBTcGVjaWZpY2F0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk1NjI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTAlM0EzNSUzQTE5JTIwJTJCMDAwMA",
+      "title": "SpecForge – A Platform for Authoring Formal Specifications",
+      "pubDate": "Wed, 29 Jul 2026 10:35:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW1nb2xmLmFpJTdDaHR0cHMlM0ElMkYlMkZ2aW1nb2xmLmFpJTJGJTdDU2hvdyUyMEhOJTNBJTIwVmltZ29sZi5haSUyMCVFMiU4MCU5MyUyMExlYXJuJTIwVmltJTIwYnklMjBwbGF5aW5nJTIwdGhyb3VnaCUyMGElMjBtYXAlMjBvZiUyMGxldmVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk1MTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMDklM0EyNiUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "pubDate": "Wed, 29 Jul 2026 09:26:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGbmV3cyUyRmFydGljbGVzJTJGYzJlbDMxOXZ6cjNvJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGbmV3cyUyRmFydGljbGVzJTJGYzJlbDMxOXZ6cjNvJTdDQ2hhdEdQVCUyMGNsYWltcyUyMHJvZ3VlJTIwQUklMjBhdHRhY2tlZCUyMG1vcmUlMjBjb21wYW5pZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NDk5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDA5JTNBMDMlM0ExNyUyMCUyQjAwMDA",
+      "title": "ChatGPT claims rogue AI attacked more companies",
+      "pubDate": "Wed, 29 Jul 2026 09:03:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NhdHRlcmVkLXRob3VnaHRzLm5ldCUyRndyaXRpbmclMkZ0aGUtc2hhcGUtb2YtZGF0YSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjYXR0ZXJlZC10aG91Z2h0cy5uZXQlMkZ3cml0aW5nJTJGdGhlLXNoYXBlLW9mLWRhdGElMkYlN0NUaGUlMjBTaGFwZSUyMG9mJTIwRGF0YSUyMCgyMDIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk0OTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMDglM0E1MyUzQTQ4JTIwJTJCMDAwMA",
+      "title": "The Shape of Data (2022)",
+      "pubDate": "Wed, 29 Jul 2026 08:53:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb2xvZ2ljcy5vcmclMkZibG9nJTJGc3FsaXRlLWluLXByb2R1Y3Rpb24tb3B0aW1pemluZy13YWwtbW9kZS1jb25jdXJyZW5jeS1hbmQtdmZzLWxheWVycy1mb3ItbG93LWxhdGVuY3ktYXBwLXNlcnZlcnMlN0NodHRwcyUzQSUyRiUyRm1pY3JvbG9naWNzLm9yZyUyRmJsb2clMkZzcWxpdGUtaW4tcHJvZHVjdGlvbi1vcHRpbWl6aW5nLXdhbC1tb2RlLWNvbmN1cnJlbmN5LWFuZC12ZnMtbGF5ZXJzLWZvci1sb3ctbGF0ZW5jeS1hcHAtc2VydmVycyU3Q1NRTGl0ZSUyMGluJTIwUHJvZHVjdGlvbiUzQSUyME9wdGltaXppbmclMjBXQUwlMjBNb2RlJTJDJTIwQ29uY3VycmVuY3klMkMlMjBhbmQlMjBWRlMlMjBMYXllcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NDM0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDA3JTNBMTglM0EyNCUyMCUyQjAwMDA",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "pubDate": "Wed, 29 Jul 2026 07:18:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGYmxvZyUyRmphaWxicm9rZW4ta2luZGxlLXByb3h5LXR1bi1tb2RlcyU3Q2h0dHBzJTNBJTJGJTJGdGFpbHNjYWxlLmNvbSUyRmJsb2clMkZqYWlsYnJva2VuLWtpbmRsZS1wcm94eS10dW4tbW9kZXMlN0NNb3JlJTIwVGFpbHNjYWxlJTIwdHJpY2tzJTIwZm9yJTIweW91ciUyMGphaWxicm9rZW4lMjBLaW5kbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5MzU2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDA0JTNBNTglM0E0NiUyMCUyQjAwMDA",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "pubDate": "Wed, 29 Jul 2026 04:58:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29sbGFib3JhLmNvbSUyRm5ld3MtYW5kLWJsb2clMkZuZXdzLWFuZC1ldmVudHMlMkZjcmFja2luZy13aW5kb3dzLW9wZW4tcG9ydGluZy1yYWR2LXRvLXdpbjMyLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5jb2xsYWJvcmEuY29tJTJGbmV3cy1hbmQtYmxvZyUyRm5ld3MtYW5kLWV2ZW50cyUyRmNyYWNraW5nLXdpbmRvd3Mtb3Blbi1wb3J0aW5nLXJhZHYtdG8td2luMzIuaHRtbCU3Q0NyYWNraW5nJTIwV2luZG93cyUyME9wZW4lM0ElMjBQb3J0aW5nJTIwUkFEViUyMHRvJTIwV2luMzIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5MzQzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDA0JTNBMzAlM0E0NyUyMCUyQjAwMDA",
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "pubDate": "Wed, 29 Jul 2026 04:30:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0YWd1YmJlLnNlJTJGc2NlbmVndWklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kYXRhZ3ViYmUuc2UlMkZzY2VuZWd1aSUyRiU3Q1VzZXIlMjBJbnRlcmZhY2VzJTIwb2YlMjB0aGUlMjBEZW1vJTIwU2NlbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5MzQzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDA0JTNBMzAlM0EzNiUyMCUyQjAwMDA",
+      "title": "User Interfaces of the Demo Scene",
+      "pubDate": "Wed, 29 Jul 2026 04:30:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFuc2Zvcm1lci10cmFuc2Zvcm1lci5naXRodWIuaW8lMkYlN0NodHRwcyUzQSUyRiUyRnRyYW5zZm9ybWVyLXRyYW5zZm9ybWVyLmdpdGh1Yi5pbyUyRiU3Q1RyYW5zZm9ybWVyJTIwVHJhbnNmb3JtZXIlM0ElMjBBJTIwVW5pZmllZCUyME1vZGVsJTIwZm9yJTIwTW90aW9uLUNvbmRpdGlvbmVkJTIwUm9ib3QlMjBDby1EZXNpZ24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5MzIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDAzJTNBNTIlM0EyOSUyMCUyQjAwMDA",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "pubDate": "Wed, 29 Jul 2026 03:52:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-26",
     "newestItemDate": "2026-07-26",
-    "itemCount": 43,
-    "generatedAt": "2026-07-29T03:44:53.379Z"
+    "itemCount": 44,
+    "generatedAt": "2026-07-29T10:58:23.770Z"
   },
   "items": [
     {
@@ -264,6 +264,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9ydmlnLmNvbSUyRjIxLWRheXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vcnZpZy5jb20lMkYyMS1kYXlzLmh0bWwlN0NUZWFjaCUyMHlvdXJzZWxmJTIwcHJvZ3JhbW1pbmclMjBpbiUyMHRlbiUyMHllYXJzJTIwKDE5OTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNTU4MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNiUyMEp1bCUyMDIwMjYlMjAwOCUzQTA2JTNBNDUlMjAlMkIwMDAw",
       "title": "Teach yourself programming in ten years (1998)",
       "pubDate": "Sun, 26 Jul 2026 08:06:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXRvdmVybGFtYmRhLmNvbSUyRnRleHRtb2RlLmNsJTJGZ3Vlc3QlMkZjaGFwOC5odG1sJTdDaHR0cHMlM0ElMkYlMkZsZXRvdmVybGFtYmRhLmNvbSUyRnRleHRtb2RlLmNsJTJGZ3Vlc3QlMkZjaGFwOC5odG1sJTdDTGlzcCUyMG1vdmluZyUyMEZvcnRoJTIwbW92aW5nJTIwTGlzcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDYwMzYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjYlMjBKdWwlMjAyMDI2JTIwMTclM0EzNyUzQTMzJTIwJTJCMDAwMA",
+      "title": "Lisp moving Forth moving Lisp",
+      "pubDate": "Sun, 26 Jul 2026 17:37:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-26-0.json"
     }
   ]
