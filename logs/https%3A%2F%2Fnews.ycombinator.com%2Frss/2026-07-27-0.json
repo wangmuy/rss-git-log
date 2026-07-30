@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 49,
-    "generatedAt": "2026-07-30T10:35:27.198Z"
+    "itemCount": 51,
+    "generatedAt": "2026-07-30T17:53:04.486Z"
   },
   "items": [
     {
@@ -300,6 +300,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubjE2Zi5uZXQlMkZibG9nJTJGY29uY3VycmVuY3ktaW50ZXJhY3Rpdml0eS1tdXRhYmlsaXR5LWNob29zZS10d28lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uMTZmLm5ldCUyRmJsb2clMkZjb25jdXJyZW5jeS1pbnRlcmFjdGl2aXR5LW11dGFiaWxpdHktY2hvb3NlLXR3byUyRiU3Q0NvbmN1cnJlbmN5JTJDJTIwaW50ZXJhY3Rpdml0eSUyQyUyMG11dGFiaWxpdHklMkMlMjBjaG9vc2UlMjB0d28lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NTg3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA2JTNBMzglM0E1NCUyMCUyQjAwMDA",
       "title": "Concurrency, interactivity, mutability, choose two",
       "pubDate": "Mon, 27 Jul 2026 06:38:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZic2lkLmlvJTJGd3JpdGluZyUyRmJ1aWxkaW5nLWEtY2VsLWVuZ2luZS1mb3ItbmV0JTdDaHR0cHMlM0ElMkYlMkZic2lkLmlvJTJGd3JpdGluZyUyRmJ1aWxkaW5nLWEtY2VsLWVuZ2luZS1mb3ItbmV0JTdDQnVpbGRpbmclMjBhJTIwbmF0aXZlJTIwQyUyMyUyMGltcGxlbWVudGF0aW9uJTIwb2YlMjBDRUwlMjBlbmdpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3NDg0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDIwJTNBMDElM0EwNyUyMCUyQjAwMDA",
+      "title": "Building a native C# implementation of CEL engine",
+      "pubDate": "Mon, 27 Jul 2026 20:01:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZXgub29vJTJGbGlicmFyeSUyRmFsaWNlYm9iLmh0bWwlN0NodHRwcyUzQSUyRiUyRmhleC5vb28lMkZsaWJyYXJ5JTJGYWxpY2Vib2IuaHRtbCU3Q1RoZSUyMEFsaWNlJTIwYW5kJTIwQm9iJTIwQWZ0ZXIlMjBEaW5uZXIlMjBTcGVlY2glMjAoMTk4NCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NzE2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA5JTNBMzklM0ExNiUyMCUyQjAwMDA",
+      "title": "The Alice and Bob After Dinner Speech (1984)",
+      "pubDate": "Mon, 27 Jul 2026 09:39:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]

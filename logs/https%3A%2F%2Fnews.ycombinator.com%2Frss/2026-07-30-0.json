@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-30",
     "newestItemDate": "2026-07-30",
-    "itemCount": 7,
-    "generatedAt": "2026-07-30T10:35:27.197Z"
+    "itemCount": 32,
+    "generatedAt": "2026-07-30T17:53:04.485Z"
   },
   "items": [
     {
@@ -48,6 +48,156 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsb2dpY2ZvcnByb2dyYW1tZXJzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9naWNmb3Jwcm9ncmFtbWVycy5jb20lMkYlN0NMb2dpYyUyMGZvciUyMFByb2dyYW1tZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDQ5MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAwMCUzQTUxJTNBMzklMjAlMkIwMDAw",
       "title": "Logic for Programmers",
       "pubDate": "Thu, 30 Jul 2026 00:51:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm90dGxlbmVja2xhYnMuY29tJTJGYmxvZyUyRmF1dG9ub21vdXNseS1ydW4tYnVzaW5lc3NlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJvdHRsZW5lY2tsYWJzLmNvbSUyRmJsb2clMkZhdXRvbm9tb3VzbHktcnVuLWJ1c2luZXNzZXMlN0NXZSUyMEdhdmUlMjBHUFQlMjA1LjYlMjBTb2wlMjBhJTIwUmVhbCUyMEJ1c2luZXNzLiUyMEl0JTIwTGllZCUyQyUyMFNwYW1tZWQlMkMlMjBhbmQlMjBMb3N0JTIwJTI0NDQ3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTMwNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAxNyUzQTMxJTNBMDclMjAlMkIwMDAw",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "pubDate": "Thu, 30 Jul 2026 17:31:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhZHZhbmNpbmctdGhlLXByaWNlLXBlcmZvcm1hbmNlLWZyb250aWVyLXdpdGgtZ3B0LTUtNiUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGYWR2YW5jaW5nLXRoZS1wcmljZS1wZXJmb3JtYW5jZS1mcm9udGllci13aXRoLWdwdC01LTYlMkYlN0NBZHZhbmNpbmclMjB0aGUlMjBwcmljZS1wZXJmb3JtYW5jZSUyMGZyb250aWVyJTIwd2l0aCUyMEdQVCVFMiU4MCU5MTUuNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEyODY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTclM0ExNSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "pubDate": "Thu, 30 Jul 2026 17:15:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA3JTJGcmVhZC10aGlzLWJlZm9yZS15b3UtYnV5LXRoYXQtdHYtc3RyZWFtaW5nLXN0aWNrJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA3JTJGcmVhZC10aGlzLWJlZm9yZS15b3UtYnV5LXRoYXQtdHYtc3RyZWFtaW5nLXN0aWNrJTJGJTdDUmVhZCUyMFRoaXMlMjBCZWZvcmUlMjBZb3UlMjBCdXklMjBUaGF0JTIwVFYlMjBTdHJlYW1pbmclMjBTdGljayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEyNzQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTclM0EwNCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "pubDate": "Thu, 30 Jul 2026 17:04:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcmlzZS1yZWZvcm1pbmclMkZqb2JzJTJGd0o5UTludi1zZW5pb3ItY2hlbWljYWwtcHJvY2Vzcy1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnJpc2UtcmVmb3JtaW5nJTJGam9icyUyRndKOVE5bnYtc2VuaW9yLWNoZW1pY2FsLXByb2Nlc3MtZW5naW5lZXIlN0NSaXNlJTIwUmVmb3JtaW5nJTIwKFlDJTIwUzI2KSUyMElzJTIwSGlyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTI2ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAxNyUzQTAwJTNBMjElMjAlMkIwMDAw",
+      "title": "Rise Reforming (YC S26) Is Hiring",
+      "pubDate": "Thu, 30 Jul 2026 17:00:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRm1leGljby1vbGluaWEtY2FyLWVsZWN0cmljLXZlaGljbGUlN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGbWV4aWNvLW9saW5pYS1jYXItZWxlY3RyaWMtdmVoaWNsZSU3Q0hvdyUyME9saW5pYSUyMFR1cm5zJTIwTWV4aWNvJ3MlMjBFViUyMEFtYml0aW9uJTIwaW50byUyMFJlYWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExMjM2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDE2JTNBMzYlM0E0NyUyMCUyQjAwMDA",
+      "title": "How Olinia Turns Mexico's EV Ambition into Reality",
+      "pubDate": "Thu, 30 Jul 2026 16:36:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2NpYWwuam9yaWpuLmNvbSUyRiU0MGpvcmlqbiUyRnN0YXR1c2VzJTJGMDFLWU4wMEFQM05DWlhDRkI5NktRQjhHTjIlN0NodHRwcyUzQSUyRiUyRnNvY2lhbC5qb3Jpam4uY29tJTJGJTQwam9yaWpuJTJGc3RhdHVzZXMlMkYwMUtZTjAwQVAzTkNaWENGQjk2S1FCOEdOMiU3Q1Rvb3QuY29tbXVuaXR5JTIwaXMlMjBzaHV0dGluZyUyMGRvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExMjMyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDE2JTNBMzMlM0E0MSUyMCUyQjAwMDA",
+      "title": "Toot.community is shutting down",
+      "pubDate": "Thu, 30 Jul 2026 16:33:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmNoYW5nZWxvZyUyRjIwMjYtMDctMzAtc3RhY2tlZC1wdWxsLXJlcXVlc3RzLWFyZS1ub3ctaW4tcHVibGljLXByZXZpZXclMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5ibG9nJTJGY2hhbmdlbG9nJTJGMjAyNi0wNy0zMC1zdGFja2VkLXB1bGwtcmVxdWVzdHMtYXJlLW5vdy1pbi1wdWJsaWMtcHJldmlldyUyRiU3Q1N0YWNrZWQlMjBQUnMlMjBhcmUlMjBub3clMjBsaXZlJTIwb24lMjBHaXRIdWIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExMjIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDE2JTNBMjYlM0ExNiUyMCUyQjAwMDA",
+      "title": "Stacked PRs are now live on GitHub",
+      "pubDate": "Thu, 30 Jul 2026 16:26:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGcGh5c2ljaXN0cy1zb2x2ZS1hLW11b24tbXlzdGVyeS1ub3ctb2xkLXJlc3VsdHMtZG9udC1hZGQtdXAtMjAyNjA3MjklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZwaHlzaWNpc3RzLXNvbHZlLWEtbXVvbi1teXN0ZXJ5LW5vdy1vbGQtcmVzdWx0cy1kb250LWFkZC11cC0yMDI2MDcyOSUyRiU3Q1BoeXNpY2lzdHMlMjBTb2x2ZSUyMGElMjBNdW9uJTIwTXlzdGVyeS4lMjBOb3clMkMlMjBPbGQlMjBSZXN1bHRzJTIwRG9uJ3QlMjBBZGQlMjBVcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTExMzA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTUlM0EyMiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "pubDate": "Thu, 30 Jul 2026 15:22:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGZ2VtaW5pLXJvYm90aWNzLTItYnJpbmdzLXdob2xlLWJvZHktaW50ZWxsaWdlbmNlLXRvLXJvYm90cyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVlcG1pbmQuZ29vZ2xlJTJGYmxvZyUyRmdlbWluaS1yb2JvdGljcy0yLWJyaW5ncy13aG9sZS1ib2R5LWludGVsbGlnZW5jZS10by1yb2JvdHMlMkYlN0NHZW1pbmklMjBSb2JvdGljcyUyMDIlMjBicmluZ3MlMjB3aG9sZSUyMGJvZHklMjBpbnRlbGxpZ2VuY2UlMjB0byUyMHJvYm90cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTExMjM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTUlM0ExNSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "pubDate": "Thu, 30 Jul 2026 15:15:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5mb3dsZXIuY29tJTJGYXJ0aWNsZXMlMkZleHBsb3JpbmctZ2VuLWFpJTJGcmVmYWN0b3JpbmctZWNvbm9taWMtYmVuZWZpdC5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXJ0aW5mb3dsZXIuY29tJTJGYXJ0aWNsZXMlMkZleHBsb3JpbmctZ2VuLWFpJTJGcmVmYWN0b3JpbmctZWNvbm9taWMtYmVuZWZpdC5odG1sJTdDVGhlJTIwRWNvbm9taWMlMjBCZW5lZml0JTIwb2YlMjBSZWZhY3RvcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTExMTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTUlM0ExMCUzQTI3JTIwJTJCMDAwMA",
+      "title": "The Economic Benefit of Refactoring",
+      "pubDate": "Thu, 30 Jul 2026 15:10:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGFtemFyZWhtYW5kZXZlbG9wZXIlMkZjbGF1ZGUtYWNjb3VudCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmhhbXphcmVobWFuZGV2ZWxvcGVyJTJGY2xhdWRlLWFjY291bnQlN0NTaG93JTIwSE4lM0ElMjBDbGF1ZGUtYWNjb3VudCUyMCVFMiU4MCU5MyUyMHN3aXRjaCUyMENsYXVkZSUyMENvZGUlMjBhY2NvdW50cyUyMHdpdGhvdXQlMjBsb2dnaW5nJTIwaW4lMjBhZ2FpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTExMDE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTQlM0E1OCUzQTU5JTIwJTJCMDAwMA",
+      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "pubDate": "Thu, 30 Jul 2026 14:58:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydXN0eS50b2RheSUyRmJsb2clMkZwYWdpbmctcGFycXVldC1kdWNrZGItZmlsZS1yb3ctbnVtYmVyLXZzLW9mZnNldCUyRiU3Q2h0dHBzJTNBJTJGJTJGcnVzdHkudG9kYXklMkZibG9nJTJGcGFnaW5nLXBhcnF1ZXQtZHVja2RiLWZpbGUtcm93LW51bWJlci12cy1vZmZzZXQlMkYlN0NQYWdpbmclMjBUaHJvdWdoJTIwYSUyMFBhcnF1ZXQlMjBGaWxlJTIwaW4lMjBEdWNrREIlM0ElMjBGaWxlX3Jvd19udW1iZXIlMjBvciUyME9mZnNldCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTExMDA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTQlM0E1OCUzQTA3JTIwJTJCMDAwMA",
+      "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+      "pubDate": "Thu, 30 Jul 2026 14:58:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbjY3MDk0JTJGc2RsX2dwJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbjY3MDk0JTJGc2RsX2dwJTdDU0RMX0dQVSUyMG1pbmltYWwlMkMlMjBzaW5nbGUtaGVhZGVyJTJDJTIwaGlnaC1wZXJmb3JtYW5jZSUyMDJEJTIwZ3JhcGhpY3MlMjBwYWludGluZyUyMGxpYnJhcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExMDY1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDE0JTNBMzYlM0E1OSUyMCUyQjAwMDA",
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "pubDate": "Thu, 30 Jul 2026 14:36:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNlcnRpc2Z5LmNvbSUyRjIwMjYlMkYwNCUyRnRydXN0ZWQtdXJscy12aWEtY3J5cHRvZ3JhcGhpYy5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNlcnRpc2Z5LmNvbSUyRjIwMjYlMkYwNCUyRnRydXN0ZWQtdXJscy12aWEtY3J5cHRvZ3JhcGhpYy5odG1sJTdDVHJ1c3RlZCUyMFVSTHMlMjB2aWElMjBDcnlwdG9ncmFwaGljJTIwU2lnbmF0dXJlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEwNTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTQlM0EzMSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Trusted URLs via Cryptographic Signatures",
+      "pubDate": "Thu, 30 Jul 2026 14:31:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrZXJwdWJsaWNyYWRpby5vcmclMkYlN0NodHRwcyUzQSUyRiUyRmhhY2tlcnB1YmxpY3JhZGlvLm9yZyUyRiU3Q0hhY2tlciUyMFB1YmxpYyUyMFJhZGlvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTA1NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAxNCUzQTI5JTNBMjclMjAlMkIwMDAw",
+      "title": "Hacker Public Radio",
+      "pubDate": "Thu, 30 Jul 2026 14:29:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcml6ZWQuZGV2JTdDaHR0cHMlM0ElMkYlMkZwcml6ZWQuZGV2JTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBQcml6ZWQlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwTGV0JTIwbm9uLWVuZ2luZWVyJTIwc3RhZmYlMjBidWlsZCUyMHNlY3VyZSUyMGludGVybmFsJTIwdG9vbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwOTcyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDEzJTNBMjklM0EwMyUyMCUyQjAwMDA",
+      "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+      "pubDate": "Thu, 30 Jul 2026 13:29:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJvamVjdHBsdXRvLmNvbSUyRjI1MDEwZC5odG0lN0NodHRwcyUzQSUyRiUyRnd3dy5wcm9qZWN0cGx1dG8uY29tJTJGMjUwMTBkLmh0bSU3Q1VwcGVyJTIwc3RhZ2UlMjBpbXBhY3RpbmclMjB0aGUlMjBtb29uJTIwb24lMjAyMDI2JTIwQXVndXN0JTIwNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA5NjE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTMlM0EyMSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Upper stage impacting the moon on 2026 August 5",
+      "pubDate": "Thu, 30 Jul 2026 13:21:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtbm90Lm5ldCUyRmJsb2clMkYyMDIwJTJGZm9yX3RoZV91c2VycyU3Q2h0dHBzJTNBJTJGJTJGbW5vdC5uZXQlMkZibG9nJTJGMjAyMCUyRmZvcl90aGVfdXNlcnMlN0NSRkMlMjA4ODkwJTIwJUUyJTgwJTkzJTIwVGhlJTIwSW50ZXJuZXQlMjBpcyUyMGZvciUyMEVuZCUyMFVzZXJzJTIwKDIwMjApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDk0NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAxMyUzQTA3JTNBNTMlMjAlMkIwMDAw",
+      "title": "RFC 8890 – The Internet is for End Users (2020)",
+      "pubDate": "Thu, 30 Jul 2026 13:07:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tJTJGcCUyRndoeS1pcy1ldmVyeW9uZS10cnlpbmctdG8tYnVpbGQtYSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cnVjdGlvbi1waHlzaWNzLmNvbSUyRnAlMkZ3aHktaXMtZXZlcnlvbmUtdHJ5aW5nLXRvLWJ1aWxkLWElN0NXaHklMjBpcyUyMGV2ZXJ5b25lJTIwdHJ5aW5nJTIwdG8lMjBidWlsZCUyMGElMjBzb2xpZC1zdGF0ZSUyMGJhdHRlcnklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwOTE5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDEyJTNBMzglM0E1MSUyMCUyQjAwMDA",
+      "title": "Why is everyone trying to build a solid-state battery?",
+      "pubDate": "Thu, 30 Jul 2026 12:38:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdXV4cGx1c29uZS5naXRodWIuaW8lMkZibG9nJTJGMjAyNiUyRjA3JTJGMjklMkZob3ctb2xkLWlzLWFubiUyRiU3Q2h0dHBzJTNBJTJGJTJGcXV1eHBsdXNvbmUuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjI5JTJGaG93LW9sZC1pcy1hbm4lMkYlN0NIb3clMjBvbGQlMjBpcyUyMEFubiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA4OTcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTIlM0ExNCUzQTIzJTIwJTJCMDAwMA",
+      "title": "How old is Ann?",
+      "pubDate": "Thu, 30 Jul 2026 12:14:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRob3ZlcmZsb3cubmV0JTJGcXVlc3Rpb25zJTJGNTEzNzQyJTJGYXJlLXdlLXN0dWNrLXdpdGgtbGVhbiU3Q2h0dHBzJTNBJTJGJTJGbWF0aG92ZXJmbG93Lm5ldCUyRnF1ZXN0aW9ucyUyRjUxMzc0MiUyRmFyZS13ZS1zdHVjay13aXRoLWxlYW4lN0NBcmUlMjBXZSUyMFN0dWNrJTIwd2l0aCUyMExlYW4lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwODY3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDExJTNBNDUlM0EwMSUyMCUyQjAwMDA",
+      "title": "Are We Stuck with Lean?",
+      "pubDate": "Thu, 30 Jul 2026 11:45:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWxlY3Quc3VwcGx5JTJGZ2FtZSUyRmNoaXBidWlsZGVyJTdDaHR0cHMlM0ElMkYlMkZzZWxlY3Quc3VwcGx5JTJGZ2FtZSUyRmNoaXBidWlsZGVyJTdDU2hvdyUyMEhOJTNBJTIwSSUyMG1hZGUlMjBhJTIwZ2FtZSUyMHdoZXJlJTIweW91JTIwYnVpbGQlMjBhJTIwQ1BVJTIwZnJvbSUyMGxvZ2ljJTIwZ2F0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwODU3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDExJTNBMzMlM0EwMiUyMCUyQjAwMDA",
+      "title": "Show HN: I made a game where you build a CPU from logic gates",
+      "pubDate": "Thu, 30 Jul 2026 11:33:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY5OC5qcy5vcmclMkZwcm9ncmFtcyUyRnBpbmJhbGwlMkZzcGFjZS1jYWRldC5odG1sJTdDaHR0cHMlM0ElMkYlMkY5OC5qcy5vcmclMkZwcm9ncmFtcyUyRnBpbmJhbGwlMkZzcGFjZS1jYWRldC5odG1sJTdDM0QlMjBQaW5iYWxsJTIwZm9yJTIwV2luZG93cyUyMCgxOTk1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA4NDg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTElM0EyMyUzQTEyJTIwJTJCMDAwMA",
+      "title": "3D Pinball for Windows (1995)",
+      "pubDate": "Thu, 30 Jul 2026 11:23:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5udXR0YWxsLmNvbSUyRmJsb2clMkYyMDI2JTJGMDclMkZncGlvemVyby1mbG93JTJGJTdDaHR0cHMlM0ElMkYlMkZiZW5udXR0YWxsLmNvbSUyRmJsb2clMkYyMDI2JTJGMDclMkZncGlvemVyby1mbG93JTJGJTdDR3Bpb3plcm8lMjBGbG93JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDgwNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAxMCUzQTMyJTNBNDElMjAlMkIwMDAw",
+      "title": "Gpiozero Flow",
+      "pubDate": "Thu, 30 Jul 2026 10:32:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3J1bXB5Z2FtZXIuY29tJTJGdHdwMl9hbm5vdW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdydW1weWdhbWVyLmNvbSUyRnR3cDJfYW5ub3VuY2UlMkYlN0NSb24lMjBHaWxiZXJ0JTIwc3RhcnRlZCUyMHByb2R1Y3Rpb24lMjBvbiUyMFRoaW1ibGV3ZWVkJTIwUGFyayUyMDIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwNzI0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDA4JTNBMTAlM0EzMyUyMCUyQjAwMDA",
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "pubDate": "Thu, 30 Jul 2026 08:10:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
     }
   ]
