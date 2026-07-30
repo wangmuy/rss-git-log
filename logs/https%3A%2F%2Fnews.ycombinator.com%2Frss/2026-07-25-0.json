@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-25",
     "newestItemDate": "2026-07-25",
-    "itemCount": 43,
-    "generatedAt": "2026-07-29T17:41:46.281Z"
+    "itemCount": 45,
+    "generatedAt": "2026-07-30T10:35:27.198Z"
   },
   "items": [
     {
@@ -264,6 +264,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLmVzcHJlc3NpZi5jb20lMkZwcm9qZWN0cyUyRnJ1c3QlMkZib29rJTJGJTdDaHR0cHMlM0ElMkYlMkZkb2NzLmVzcHJlc3NpZi5jb20lMkZwcm9qZWN0cyUyRnJ1c3QlMkZib29rJTJGJTdDVGhlJTIwUnVzdCUyMG9uJTIwRVNQJTIwQm9vayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ3MzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTMlM0ExNSUzQTQxJTIwJTJCMDAwMA",
       "title": "The Rust on ESP Book",
       "pubDate": "Sat, 25 Jul 2026 13:15:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucW9pdGVjaC5jb20lMkZibG9nJTJGZXNwMzItYzYtcG93ZXItY29uc3VtcHRpb24tY29tcGFyaXNvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnFvaXRlY2guY29tJTJGYmxvZyUyRmVzcDMyLWM2LXBvd2VyLWNvbnN1bXB0aW9uLWNvbXBhcmlzb24lMkYlN0NFU1AzMi1DNiUyMFBvd2VyJTIwQ29uc3VtcHRpb24lM0ElMjBBcmR1aW5vJTIwdnMuJTIwWmVwaHlyJTIwdnMuJTIwRVNQLUlERiUyMENvbXBhcmlzb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA1MDIxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI1JTIwSnVsJTIwMjAyNiUyMDE4JTNBMjclM0E0MSUyMCUyQjAwMDA",
+      "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+      "pubDate": "Sat, 25 Jul 2026 18:27:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcXVpZGlzdGFuY2UuaW8lMkZsb25kb25zLW1vc3QtZXF1aWRpc3RhbnQtcHViJTJGJTdDaHR0cHMlM0ElMkYlMkZlcXVpZGlzdGFuY2UuaW8lMkZsb25kb25zLW1vc3QtZXF1aWRpc3RhbnQtcHViJTJGJTdDTG9uZG9uJUUyJTgwJTk5cyUyMG1vc3QlMjBlcXVpZGlzdGFudCUyMHB1YiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDQ3NjkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjUlMjBKdWwlMjAyMDI2JTIwMTQlM0EwOCUzQTU3JTIwJTJCMDAwMA",
+      "title": "London’s most equidistant pub",
+      "pubDate": "Sat, 25 Jul 2026 14:08:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-25-0.json"
     }
   ]

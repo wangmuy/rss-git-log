@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 48,
-    "generatedAt": "2026-07-29T17:41:46.280Z"
+    "itemCount": 49,
+    "generatedAt": "2026-07-30T10:35:27.198Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3c2NpZW50aXN0LmNvbSUyRmFydGljbGUlMkYyNTgwMTE5LWh1bnRlci1nYXRoZXJlcnMtaW50cm9kdWNlZC1maXNoLXRvLWEtbW91bnRhaW4tbGFrZS03MDAwLXllYXJzLWFnbyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5ld3NjaWVudGlzdC5jb20lMkZhcnRpY2xlJTJGMjU4MDExOS1odW50ZXItZ2F0aGVyZXJzLWludHJvZHVjZWQtZmlzaC10by1hLW1vdW50YWluLWxha2UtNzAwMC15ZWFycy1hZ28lMkYlN0NIdW50ZXItZ2F0aGVyZXJzJTIwaW50cm9kdWNlZCUyMGZpc2glMjB0byUyMGElMjBtb3VudGFpbiUyMGxha2UlMjA3MDAwJTIweWVhcnMlMjBhZ28lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2Mzk4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDAwJTNBNTglM0E0NSUyMCUyQjAwMDA",
       "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
       "pubDate": "Mon, 27 Jul 2026 00:58:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubjE2Zi5uZXQlMkZibG9nJTJGY29uY3VycmVuY3ktaW50ZXJhY3Rpdml0eS1tdXRhYmlsaXR5LWNob29zZS10d28lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uMTZmLm5ldCUyRmJsb2clMkZjb25jdXJyZW5jeS1pbnRlcmFjdGl2aXR5LW11dGFiaWxpdHktY2hvb3NlLXR3byUyRiU3Q0NvbmN1cnJlbmN5JTJDJTIwaW50ZXJhY3Rpdml0eSUyQyUyMG11dGFiaWxpdHklMkMlMjBjaG9vc2UlMjB0d28lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NTg3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA2JTNBMzglM0E1NCUyMCUyQjAwMDA",
+      "title": "Concurrency, interactivity, mutability, choose two",
+      "pubDate": "Mon, 27 Jul 2026 06:38:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]
