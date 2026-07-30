@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 40,
-    "generatedAt": "2026-07-29T17:41:46.280Z"
+    "itemCount": 54,
+    "generatedAt": "2026-07-30T03:35:20.413Z"
   },
   "items": [
     {
@@ -246,6 +246,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbWlnYS5seWNoZXNpcy5uZXQlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbWlnYS5seWNoZXNpcy5uZXQlMkZpbmRleC5odG1sJTdDQW1pZ2ElMjBHcmFwaGljcyUyMEFyY2hpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NTUxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDEwJTNBMTklM0E0NCUyMCUyQjAwMDA",
       "title": "Amiga Graphics Archive",
       "pubDate": "Wed, 29 Jul 2026 10:19:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmFudGljLmltJTJGbWlyYWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZmcmFudGljLmltJTJGbWlyYWdlJTJGJTdDVGhlJTIwUHJvZHVjdGl2aXR5JTIwTWlyYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDQzMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOSUyMEp1bCUyMDIwMjYlMjAyMyUzQTE4JTNBMTElMjAlMkIwMDAw",
+      "title": "The Productivity Mirage",
+      "pubDate": "Wed, 29 Jul 2026 23:18:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNoaXZlLm9yZyUyRmRldGFpbHMlMkZtYW5jb21wdXRlcmJ5am9oMDAwMGpvaG4lN0NodHRwcyUzQSUyRiUyRmFyY2hpdmUub3JnJTJGZGV0YWlscyUyRm1hbmNvbXB1dGVyYnlqb2gwMDAwam9obiU3Q01hbiUyMGFuZCUyMHRoZSUyMENvbXB1dGVyJTIwYnklMjBKb2huJTIwRy4lMjBLZW1lbnklMjAoMTk3MiUyMGJvb2slMjBieSUyMHRoZSUyMGNvLWNyZWF0b3IlMjBvZiUyMEJBU0lDKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA0MTQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMjIlM0E1MyUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+      "pubDate": "Wed, 29 Jul 2026 22:53:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsbG0yaHVtYW4ucGFnZXMuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZsbG0yaHVtYW4ucGFnZXMuZGV2JTJGJTdDTExNJTIwSG9uZXlwb3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwNDExNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDIyJTNBNTElM0EwMyUyMCUyQjAwMDA",
+      "title": "LLM Honeypot",
+      "pubDate": "Wed, 29 Jul 2026 22:51:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmFpLXMtdG9wLXN0YXJ0dXBzLWFyZS1iYXJlbHktcHVibGlzaGluZy10aGVpci1yZXNlYXJjaCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZhaS1zLXRvcC1zdGFydHVwcy1hcmUtYmFyZWx5LXB1Ymxpc2hpbmctdGhlaXItcmVzZWFyY2glN0NBSSdzJTIwdG9wJTIwc3RhcnR1cHMlMjBhcmUlMjBiYXJlbHklMjBwdWJsaXNoaW5nJTIwdGhlaXIlMjByZXNlYXJjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAzMjg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMjElM0EyNSUzQTQwJTIwJTJCMDAwMA",
+      "title": "AI's top startups are barely publishing their research",
+      "pubDate": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6YWNoaG9sbWFuLmNvbSUyRnBvc3RzJTJGY29sZC1lbWFpbCU3Q2h0dHBzJTNBJTJGJTJGemFjaGhvbG1hbi5jb20lMkZwb3N0cyUyRmNvbGQtZW1haWwlN0NUaGUlMjBDb2xkJTIwRW1haWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwMzA4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDIxJTNBMDYlM0E0MiUyMCUyQjAwMDA",
+      "title": "The Cold Email",
+      "pubDate": "Wed, 29 Jul 2026 21:06:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGc2FsZXNwYXRyaW90JTJGam9icyUyRk00Nlg2WVgtZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnNhbGVzcGF0cmlvdCUyRmpvYnMlMkZNNDZYNllYLWZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXIlN0NTYWxlc1BhdHJpb3QlMjAoWUMlMjBXMjUpJTIwSXMlMjBIaXJpbmclMjBGREVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDMwMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOSUyMEp1bCUyMDIwMjYlMjAyMSUzQTAxJTNBMDElMjAlMkIwMDAw",
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+      "pubDate": "Wed, 29 Jul 2026 21:01:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHJpc3RpYW5zZWxpZy5jb20lMkYyMDI2JTJGMDclMkZ2aXNpb24tcHJvLWhvdXNlJTJGJTdDaHR0cHMlM0ElMkYlMkZjaHJpc3RpYW5zZWxpZy5jb20lMkYyMDI2JTJGMDclMkZ2aXNpb24tcHJvLWhvdXNlJTJGJTdDVGhlJTIwY29vbGVzdCUyMHVzZSUyMGZvciUyMHRoZSUyMFZpc2lvbiUyMFBybyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAyNzc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMjAlM0EzOSUzQTQwJTIwJTJCMDAwMA",
+      "title": "The coolest use for the Vision Pro",
+      "pubDate": "Wed, 29 Jul 2026 20:39:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2dkb2dmaXNoLmNvbSUyRmJsb2clMkYyMDI2JTJGMDclMkYyOSUyRmEtdHJhbXBvbGluZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZG9nZG9nZmlzaC5jb20lMkZibG9nJTJGMjAyNiUyRjA3JTJGMjklMkZhLXRyYW1wb2xpbmUlMkYlN0NBJTIwVHJhbXBvbGluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAyNDI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMjAlM0ExNCUzQTM2JTIwJTJCMDAwMA",
+      "title": "A Trampoline",
+      "pubDate": "Wed, 29 Jul 2026 20:14:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2ltaS5jb20lMkZjb2RlJTJGZG9jcyUyRmVuJTJGa2ltaS1jb2RlJTJGbW9kZWxzJTdDaHR0cHMlM0ElMkYlMkZ3d3cua2ltaS5jb20lMkZjb2RlJTJGZG9jcyUyRmVuJTJGa2ltaS1jb2RlJTJGbW9kZWxzJTdDS2ltaSUyMEszLTI1NmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwMTg1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE5JTNBMjUlM0EzMyUyMCUyQjAwMDA",
+      "title": "Kimi K3-256k",
+      "pubDate": "Wed, 29 Jul 2026 19:25:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW1lcmdpbmd0cmFqZWN0b3JpZXMuY29tJTJGbGglMkZjb21tb2RpZmljYXRpb24tYW5kLWNpcmN1bGFyaXR5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZW1lcmdpbmd0cmFqZWN0b3JpZXMuY29tJTJGbGglMkZjb21tb2RpZmljYXRpb24tYW5kLWNpcmN1bGFyaXR5JTJGJTdDQ29tbW9kaWZpY2F0aW9uJTIwb2YlMjBJbnRlbGxpZ2VuY2UlM0ElMjBHb29kJTJDJTIwQmFkJTJDJTIwYW5kJTIwVWdseSUyMENpcmN1bGFyJTIwQUklMjBEZWFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAxNTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTglM0E1NyUzQTEwJTIwJTJCMDAwMA",
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "pubDate": "Wed, 29 Jul 2026 18:57:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmlsaWsuY29tJTJGYmxvZyUyRnBvc3QlMkZhdXRvbWF0aW5nLWFjLW55YyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHJpbGlrLmNvbSUyRmJsb2clMkZwb3N0JTJGYXV0b21hdGluZy1hYy1ueWMlMkYlN0NUdXJuaW5nJTIwYSUyMGR1bWIlMjBBQyUyMHVuaXQlMjBzbWFydCUyMCh3aXRob3V0JTIwbG9zaW5nJTIwbXklMjBzZWN1cml0eSUyMGRlcG9zaXQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDExOTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOSUyMEp1bCUyMDIwMjYlMjAxOCUzQTI4JTNBNTElMjAlMkIwMDAw",
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+      "pubDate": "Wed, 29 Jul 2026 18:28:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGVhcGZvb2RtYXAuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZjaGVhcGZvb2RtYXAuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwQ2hlYXBGb29kTWFwJTIwJUUyJTgwJTkzJTIwQSUyMG1hcCUyMG9mJTIwZ29vZCUyMG1lYWxzJTIwdW5kZXIlMjAlMjQxMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAwMDQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTYlM0E1OSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "pubDate": "Wed, 29 Jul 2026 16:59:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNyeXB0b2dyYXBoeWVuZ2luZWVyaW5nLmNvbSUyRjIwMjYlMkYwNyUyRjI5JTJGc29tZS1ub3Rlcy1hYm91dC1hbnRocm9waWNzLW5ldy1yZXN1bHRzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNyeXB0b2dyYXBoeWVuZ2luZWVyaW5nLmNvbSUyRjIwMjYlMkYwNyUyRjI5JTJGc29tZS1ub3Rlcy1hYm91dC1hbnRocm9waWNzLW5ldy1yZXN1bHRzJTJGJTdDU29tZSUyMHRob3VnaHRzJTIwYWJvdXQlMjBBbnRocm9waWMncyUyMG5ldyUyMGNyeXB0YW5hbHlzaXMlMjByZXN1bHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwOTk4MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOSUyMEp1bCUyMDIwMjYlMjAxNiUzQTQyJTNBMjAlMjAlMkIwMDAw",
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "pubDate": "Wed, 29 Jul 2026 16:42:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYyOSUyRmJ1c2luZXNzJTJGZWNvbm9teSUyRmRhdGEtY2VudGVyLWVsZWN0cmljaWFucy10cmFpbmluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYyOSUyRmJ1c2luZXNzJTJGZWNvbm9teSUyRmRhdGEtY2VudGVyLWVsZWN0cmljaWFucy10cmFpbmluZy5odG1sJTdDQS5JLiUyMGNvbXBhbmllcyUyMGFyZSUyMHJlY3J1aXRpbmclMjBlbGVjdHJpY2lhbnMlMjBhbmQlMjBjYXJwZW50ZXJzJTIwYnklMjB0aGUlMjB0aG91c2FuZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5ODE5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE0JTNBNDMlM0E0NyUyMCUyQjAwMDA",
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "pubDate": "Wed, 29 Jul 2026 14:43:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]
