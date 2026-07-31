@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 55,
-    "generatedAt": "2026-07-31T11:01:54.911Z"
+    "itemCount": 56,
+    "generatedAt": "2026-07-31T17:56:20.446Z"
   },
   "items": [
     {
@@ -336,6 +336,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlYmVyZy5vcmclMkZnb29kZXYlMkZnb29kZXYlN0NodHRwcyUzQSUyRiUyRmNvZGViZXJnLm9yZyUyRmdvb2RldiUyRmdvb2RldiU3Q1Nob3clMjBITiUzQSUyMEElMjB1ZGV2JTIwaW1wbGVtZW50YXRpb24lMjBpbiUyMEd1aWxlJTIwU2NoZW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjgyMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAxMSUzQTUxJTNBMDglMjAlMkIwMDAw",
       "title": "Show HN: A udev implementation in Guile Scheme",
       "pubDate": "Mon, 27 Jul 2026 11:51:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZ2plbm5pbmdzLmNhJTJGYXJ0aWNsZXMlMkZqcGVnLWNvbXByZXNzaW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZjZ2plbm5pbmdzLmNhJTJGYXJ0aWNsZXMlMkZqcGVnLWNvbXByZXNzaW9uJTJGJTdDSG93JTIwSlBFRyUyMHdvcmtzJTNBJTIwSW50ZXJhY3RpdmVseSUyMGV4cGxvcmUlMjBKUEVHJ3MlMjBsb3NzeSUyMGNvbXByZXNzaW9uJTIwbWV0aG9kcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDcwODEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjclMjBKdWwlMjAyMDI2JTIwMTUlM0ExMSUzQTE0JTIwJTJCMDAwMA",
+      "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+      "pubDate": "Mon, 27 Jul 2026 15:11:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]

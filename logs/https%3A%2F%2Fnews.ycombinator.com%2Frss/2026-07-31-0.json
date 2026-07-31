@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-31",
     "newestItemDate": "2026-07-31",
-    "itemCount": 9,
-    "generatedAt": "2026-07-31T11:01:54.910Z"
+    "itemCount": 32,
+    "generatedAt": "2026-07-31T17:56:20.445Z"
   },
   "items": [
     {
@@ -60,6 +60,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlYXJlbmRpbC5jb20lMkZwb3N0cyUyRnNlc3Npb24tcG9ydGFiaWxpdHklMkYlN0NodHRwcyUzQSUyRiUyRmVhcmVuZGlsLmNvbSUyRnBvc3RzJTJGc2Vzc2lvbi1wb3J0YWJpbGl0eSUyRiU3Q1RoZSUyMHNlc3Npb24lMjB5b3UlMjBjYW5ub3QlMjB0YWtlJTIwd2l0aCUyMHlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE4NzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDMlM0E0NyUzQTU5JTIwJTJCMDAwMA",
       "title": "The session you cannot take with you",
       "pubDate": "Fri, 31 Jul 2026 03:47:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbWlzbyUyRmpvYnMlMkZnMnVBbE1HLWZvdW5kaW5nLWJ1c2luZXNzLWxlYWQtdS1zLWV4cGFuc2lvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRm1pc28lMkZqb2JzJTJGZzJ1QWxNRy1mb3VuZGluZy1idXNpbmVzcy1sZWFkLXUtcy1leHBhbnNpb24lN0NNaXNvJTIwKFlDJTIwUzE2KSUyMGlzJTIwaGlyaW5nJTIwZm9yJTIwVS5TLiUyMGV4cGFuc2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI1Nzg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTclM0EwMSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Miso (YC S16) is hiring for U.S. expansion",
+      "pubDate": "Fri, 31 Jul 2026 17:01:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZmdlZXJsaW5nLmNvbSUyRmJsb2clMkYyMDI2JTJGZ2V0dGluZy0yNWctZXRoZXJuZXQtbWFjLXRodW5kZXJib2x0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamVmZmdlZXJsaW5nLmNvbSUyRmJsb2clMkYyMDI2JTJGZ2V0dGluZy0yNWctZXRoZXJuZXQtbWFjLXRodW5kZXJib2x0JTJGJTdDR2V0dGluZyUyMDI1JTIwR2JwcyUyMFRodW5kZXJib2x0JTIwRXRoZXJuZXQlMjBvbiUyME15JTIwTWFjJTIwU3R1ZGlvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjUwMzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxNiUzQTE1JTNBMzElMjAlMkIwMDAw",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "pubDate": "Fri, 31 Jul 2026 16:15:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlnaHRob3VzZXJlcG9ydHMuY29tJTJGaW52ZXN0aWdhdGlvbiUyRmJpZy1mb29kLXZzLXRoZS1wZW9wbGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5saWdodGhvdXNlcmVwb3J0cy5jb20lMkZpbnZlc3RpZ2F0aW9uJTJGYmlnLWZvb2QtdnMtdGhlLXBlb3BsZSUyRiU3Q0JpZyUyMEZvb2QlMjB2cy4lMjB0aGUlMjBQZW9wbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNDg1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE2JTNBMDQlM0EzMiUyMCUyQjAwMDA",
+      "title": "Big Food vs. the People",
+      "pubDate": "Fri, 31 Jul 2026 16:04:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZW15b25zaW5jaGVua28uZ2l0aHViLmlvJTJGc3NpbmNoZW5rbyUyRnBvc3QlMkZkYXRhZnVzaW9uLWdyYXBocy1jYy0yJTJGJTdDaHR0cHMlM0ElMkYlMkZzZW15b25zaW5jaGVua28uZ2l0aHViLmlvJTJGc3NpbmNoZW5rbyUyRnBvc3QlMkZkYXRhZnVzaW9uLWdyYXBocy1jYy0yJTJGJTdDQWxnb3JpdGhtcyUyMG9uJTIwYmlsbGlvbi1zY2FsZSUyMGdyYXBoJTIwdXNpbmclMjAxMEdCJTIwUkFNJTNBJTIwSSUyMGxvdmUlMjBEYXRhRnVzaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjQ2NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxNSUzQTUzJTNBMzclMjAlMkIwMDAw",
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "pubDate": "Fri, 31 Jul 2026 15:53:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMjAxOSUyRjAxJTJGMjElMkZ0aGUtYXJ0LW9mLWRlY2lzaW9uLW1ha2luZyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5ld3lvcmtlci5jb20lMkZtYWdhemluZSUyRjIwMTklMkYwMSUyRjIxJTJGdGhlLWFydC1vZi1kZWNpc2lvbi1tYWtpbmclN0NUaGUlMjBBcnQlMjBvZiUyMERlY2lzaW9uLU1ha2luZyUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI0NTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTUlM0E0MiUzQTI4JTIwJTJCMDAwMA",
+      "title": "The Art of Decision-Making (2019)",
+      "pubDate": "Fri, 31 Jul 2026 15:42:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4bi0tZ2NrdmI4ZnpiLmNvbSUyRmEtZ3RrNC1zc2gtYXNrcGFzcy1pbi16aWclMkYlN0NodHRwcyUzQSUyRiUyRnhuLS1nY2t2YjhmemIuY29tJTJGYS1ndGs0LXNzaC1hc2twYXNzLWluLXppZyUyRiU3Q0ElMjBHVEs0JTIwU1NILWFza3Bhc3MlMjBpbiUyMFppZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI0NDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTUlM0E0MCUzQTEzJTIwJTJCMDAwMA",
+      "title": "A GTK4 SSH-askpass in Zig",
+      "pubDate": "Fri, 31 Jul 2026 15:40:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZkZWZjb24tMzQtYmFkZ2UtYmFvY2hpcC1hbmRyZXctYnVubmllLWh1YW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZkZWZjb24tMzQtYmFkZ2UtYmFvY2hpcC1hbmRyZXctYnVubmllLWh1YW5nJTJGJTdDTmV3JTIwRGVmY29uJTIwQmFkZ2VzJTIwUGFjayUyMGElMjBVbmlxdWUlMjBPcGVuLVNvdXJjZSUyMENoaXAlMjBUaGF0JTIwRG91YmxlcyUyMGFzJTIwYSUyMFNlY3VyaXR5JTIwS2V5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjQ0MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxNSUzQTMzJTNBMDIlMjAlMkIwMDAw",
+      "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
+      "pubDate": "Fri, 31 Jul 2026 15:33:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzd2UtcmViZW5jaC5jb20lN0NodHRwcyUzQSUyRiUyRnN3ZS1yZWJlbmNoLmNvbSUyRiU3QzEzJTIwTW9kZWxzJTIwYW5kJTIwNCUyMEFnZW50cyUyMG9uJTIwU1dFJTIwVGFza3MlM0ElMjBHbyUyQyUyMEphdmElMkMlMjBQeXRob24lMkMlMjBSdXN0JTJDJTIwVFMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNDMzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE1JTNBMjglM0EyOCUyMCUyQjAwMDA",
+      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+      "pubDate": "Fri, 31 Jul 2026 15:28:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2huLmZ1biUyRmVsZXZhdG9ycyU3Q2h0dHBzJTNBJTJGJTJGam9obi5mdW4lMkZlbGV2YXRvcnMlN0NFbGV2YXRvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNDIxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE1JTNBMTclM0EyOCUyMCUyQjAwMDA",
+      "title": "Elevators",
+      "pubDate": "Fri, 31 Jul 2026 15:17:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdub3JlZ2FsaWxlaS5jb20lMkYyMDI2JTJGMDclMkYyNiUyRnRoZS1tb3N0LW9mZmljaWFsLXdhdGVyLWNvc3RzLTEyMDAwMC1hLWdhbGxvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGc2lnbm9yZWdhbGlsZWkuY29tJTJGMjAyNiUyRjA3JTJGMjYlMkZ0aGUtbW9zdC1vZmZpY2lhbC13YXRlci1jb3N0cy0xMjAwMDAtYS1nYWxsb24lMkYlN0NUaGUlMjBtb3N0JTIwb2ZmaWNpYWwlMjB3YXRlciUyMGNvc3RzJTIwJTI0MTIwayUyMGElMjBnYWxsb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNDA0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE1JTNBMDAlM0ExNSUyMCUyQjAwMDA",
+      "title": "The most official water costs $120k a gallon",
+      "pubDate": "Fri, 31 Jul 2026 15:00:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcml2YWN5dGhpbmcuY29tJTJGZW4lMkYlN0NodHRwcyUzQSUyRiUyRnByaXZhY3l0aGluZy5jb20lMkZlbiUyRiU3Q1Nob3clMjBITiUzQSUyMEklMjBidWlsdCUyMGElMjBjcm9zcy1icm93c2VyJTIwZXh0ZW5zaW9uJTIwdGhhdCUyMGNvbnRyb2xzJTIwZmluZ2VycHJpbnRpbmclMjBzdXJmYWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI0MDE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTQlM0E1NyUzQTM5JTIwJTJCMDAwMA",
+      "title": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
+      "pubDate": "Fri, 31 Jul 2026 14:57:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmljaGxlZ3JhbmQlMkZiaXRiYW5nLWNsaSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJpY2hsZWdyYW5kJTJGYml0YmFuZy1jbGklN0NTaG93JTIwSE4lM0ElMjBCaXRCYW5nJTIwJUUyJTgwJTkzJTIwUmVhY2glMjBtYWNoaW5lcyUyMGJlaGluZCUyME5BVCUyMGZyb20lMjBhJTIwYnJvd3NlciUyQyUyMG5vJTIwYWNjb3VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTIzNzg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTQlM0E0MSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
+      "pubDate": "Fri, 31 Jul 2026 14:41:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3FsaXRlYWklMkZ3YXN0ZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnNxbGl0ZWFpJTJGd2FzdGUlN0NSdW4lMjBLaW1pJTIwSzMlMjB1c2luZyUyMDI5JTIwR0IlMjBvZiUyMFJBTSUyMGF0JTIwMC41MCUyMHRvayUyRnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMzM4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE0JTNBMTIlM0EzOCUyMCUyQjAwMDA",
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "pubDate": "Fri, 31 Jul 2026 14:12:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg2NDg5JTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg2NDg5JTJGJTdDQXJjaCUyMExpbnV4JTIwZGlzYWJsZXMlMjBBVVIlMjBwYWNrYWdlJTIwYWRvcHRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMzIwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDEzJTNBNTclM0EzNSUyMCUyQjAwMDA",
+      "title": "Arch Linux disables AUR package adoption",
+      "pubDate": "Fri, 31 Jul 2026 13:57:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjLWZhcS5jb20lMkZkZWNsJTJGc3BpcmFsLmFuZGVyc29uLmh0bWwlN0NodHRwcyUzQSUyRiUyRmMtZmFxLmNvbSUyRmRlY2wlMkZzcGlyYWwuYW5kZXJzb24uaHRtbCU3Q1RoZSUyMEMlMjAlNjAlNjBDbG9ja3dpc2UlMkZTcGlyYWwlMjBSdWxlJyclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMzE5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDEzJTNBNTYlM0EzMSUyMCUyQjAwMDA",
+      "title": "The C ``Clockwise/Spiral Rule''",
+      "pubDate": "Fri, 31 Jul 2026 13:56:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRmZpbmFuY2UlMkZpbnZlc3RpbmclMkZzaXR1YXRpb25hbC1hd2FyZW5lc3MtZG93bi02Ny1pbi1qdWx5LWluLWFpLXN0b2NrLXJvdXQtY2QxOTkwMWYlN0NodHRwcyUzQSUyRiUyRnd3dy53c2ouY29tJTJGZmluYW5jZSUyRmludmVzdGluZyUyRnNpdHVhdGlvbmFsLWF3YXJlbmVzcy1kb3duLTY3LWluLWp1bHktaW4tYWktc3RvY2stcm91dC1jZDE5OTAxZiU3Q1NpdHVhdGlvbmFsJTIwQXdhcmVuZXNzJTIwZG93biUyMDY3JTI1JTIwaW4lMjBKdWx5JTIwaW4lMjBBSSUyMHN0b2NrJTIwcm91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTIyOTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTMlM0EzNyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Situational Awareness down 67% in July in AI stock rout",
+      "pubDate": "Fri, 31 Jul 2026 13:37:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm9hZGJhbmRicmVha2Zhc3QuY29tJTJGaG93LXRvLWZpZ2h0LWJhY2stYWdhaW5zdC1mcmF1ZHVsZW50LXJvYm9jYWxscyUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJvYWRiYW5kYnJlYWtmYXN0LmNvbSUyRmhvdy10by1maWdodC1iYWNrLWFnYWluc3QtZnJhdWR1bGVudC1yb2JvY2FsbHMlMkYlN0NBbnRpLWZyYXVkJTIwdG9vbHMlMjBjYW4ndCUyMGtlZXAlMjBwYWNlJTIwd2l0aCUyMHNjYW1tZXJzJTIwZXhwbG9pdGluZyUyMGNoZWFwJTIwaW50ZXJuZXQlMjBjYWxsaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjI4ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxMyUzQTI4JTNBMDUlMjAlMkIwMDAw",
+      "title": "Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling",
+      "pubDate": "Fri, 31 Jul 2026 13:28:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDctMzElMkZtb29uc2hvdC1zLWtpbWktYnVpbHQtb24tMjAtMDAwLW52aWRpYS1jaGlwLWNsdXN0ZXItZnJvbS1hbGliYWJhJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDctMzElMkZtb29uc2hvdC1zLWtpbWktYnVpbHQtb24tMjAtMDAwLW52aWRpYS1jaGlwLWNsdXN0ZXItZnJvbS1hbGliYWJhJTdDTW9vbnNob3QlRTIlODAlOTlzJTIwS2ltaSUyMHVzZXMlMjAyMGslMjBOdmlkaWElMjBjaGlwJTIwY2x1c3RlciUyMGZyb20lMjBBbGliYWJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjI4MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxMyUzQTI0JTNBMDMlMjAlMkIwMDAw",
+      "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
+      "pubDate": "Fri, 31 Jul 2026 13:24:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdoaG93ZXkuY29tJTJGdGhlLWVuZC1vZi1hbi1lcmElMkYlN0NodHRwcyUzQSUyRiUyRmh1Z2hob3dleS5jb20lMkZ0aGUtZW5kLW9mLWFuLWVyYSUyRiU3Q1RoZSUyMEVuZCUyMG9mJTIwYW4lMjBFcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMTk4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDExJTNBNTElM0E0NiUyMCUyQjAwMDA",
+      "title": "The End of an Era",
+      "pubDate": "Fri, 31 Jul 2026 11:51:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI3MTk3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI3MTk3JTdDVGhlJTIwTWF4d2VsbCUyMENvbmplY3R1cmUlMjBJcyUyMEZhbHNlJTIwKEdQVCUyMDUuNiUyMFNvbCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMTg2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDExJTNBMzclM0ExMiUyMCUyQjAwMDA",
+      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "pubDate": "Fri, 31 Jul 2026 11:37:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZkZWVwc2Vlay12NC1mbGFzaCU3Q2h0dHBzJTNBJTJGJTJGYXJ0aWZpY2lhbGFuYWx5c2lzLmFpJTJGbW9kZWxzJTJGZGVlcHNlZWstdjQtZmxhc2glN0NEZWVwU2VlayUyMFY0JTIwRmxhc2glMjAwNzMxJTIwSW50ZWxsaWdlbmNlJTJDJTIwUGVyZm9ybWFuY2UlMjBhbmQlMjBQcmljZSUyMEFuYWx5c2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjAyOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAwNyUzQTU5JTNBMTElMjAlMkIwMDAw",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "pubDate": "Fri, 31 Jul 2026 07:59:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNuMG5xdjA1ZzBkbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjbjBucXYwNWcwZG8lN0NEYW51YmUncyUyMHJlY29yZCUyMGxvdyUyMGxldmVscyUyMGZvcmNlJTIwc2h1dGRvd24lMjBvZiUyMEh1bmdhcnkncyUyMG9ubHklMjBudWNsZWFyJTIwcGxhbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMDEyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDA3JTNBMzMlM0ExMCUyMCUyQjAwMDA",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "pubDate": "Fri, 31 Jul 2026 07:33:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9rc2hhYmxyJTJGZ2FuZGVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9rc2hhYmxyJTJGZ2FuZGVyJTdDU2hvdyUyMEhOJTNBJTIwR2FuZGVyJTJDJTIwYW4lMjBBbmRyb2lkJTIwZmlsZSUyMHZpZXdlciUyMHRoYXQlMjBhc2tzJTIwZm9yJTIwbm8lMjBwZXJtaXNzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE5NDI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDUlM0E0NSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
+      "pubDate": "Fri, 31 Jul 2026 05:45:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
     }
   ]
