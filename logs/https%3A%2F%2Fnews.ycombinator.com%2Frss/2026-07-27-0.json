@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 51,
-    "generatedAt": "2026-07-30T17:53:04.486Z"
+    "itemCount": 53,
+    "generatedAt": "2026-07-31T03:55:23.309Z"
   },
   "items": [
     {
@@ -312,6 +312,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoZXgub29vJTJGbGlicmFyeSUyRmFsaWNlYm9iLmh0bWwlN0NodHRwcyUzQSUyRiUyRmhleC5vb28lMkZsaWJyYXJ5JTJGYWxpY2Vib2IuaHRtbCU3Q1RoZSUyMEFsaWNlJTIwYW5kJTIwQm9iJTIwQWZ0ZXIlMjBEaW5uZXIlMjBTcGVlY2glMjAoMTk4NCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA2NzE2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDA5JTNBMzklM0ExNiUyMCUyQjAwMDA",
       "title": "The Alice and Bob After Dinner Speech (1984)",
       "pubDate": "Mon, 27 Jul 2026 09:39:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidXR0b25kb3duLmNvbSUyRnRoZXN3b3JkYW5kdGhlc2FuZHdpY2glMkZhcmNoaXZlJTJGdGhlLWJlc3QtYW1lcmljYW4tZ3JpbGxlZC1jaGVlc2Utc2FuZHdpY2gtZXNzYXklMkYlN0NodHRwcyUzQSUyRiUyRmJ1dHRvbmRvd24uY29tJTJGdGhlc3dvcmRhbmR0aGVzYW5kd2ljaCUyRmFyY2hpdmUlMkZ0aGUtYmVzdC1hbWVyaWNhbi1ncmlsbGVkLWNoZWVzZS1zYW5kd2ljaC1lc3NheSUyRiU3Q1RoZSUyMEFtZXJpY2FuJTIwR3JpbGxlZCUyMENoZWVzZSUyMFNhbmR3aWNoJTIwRXNzYXklMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3MzAxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDE3JTNBMzclM0EzMiUyMCUyQjAwMDA",
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "pubDate": "Mon, 27 Jul 2026 17:37:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqc3Nmci5kZSUyRjIwMjYtMDctMjctYmFkLWFwcGxlLWJ1dC10cmFjZXJvdXRlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmpzc2ZyLmRlJTJGMjAyNi0wNy0yNy1iYWQtYXBwbGUtYnV0LXRyYWNlcm91dGUuaHRtbCU3Q0JhZCUyMEFwcGxlJTIwYnV0JTIwSXQncyUyMFRyYWNlcm91dGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3MTI5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDE1JTNBNDglM0EwOSUyMCUyQjAwMDA",
+      "title": "Bad Apple but It's Traceroute",
+      "pubDate": "Mon, 27 Jul 2026 15:48:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]

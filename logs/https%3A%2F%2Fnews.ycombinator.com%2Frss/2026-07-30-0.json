@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-30",
     "newestItemDate": "2026-07-30",
-    "itemCount": 32,
-    "generatedAt": "2026-07-30T17:53:04.485Z"
+    "itemCount": 46,
+    "generatedAt": "2026-07-31T03:55:23.308Z"
   },
   "items": [
     {
@@ -198,6 +198,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3J1bXB5Z2FtZXIuY29tJTJGdHdwMl9hbm5vdW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdydW1weWdhbWVyLmNvbSUyRnR3cDJfYW5ub3VuY2UlMkYlN0NSb24lMjBHaWxiZXJ0JTIwc3RhcnRlZCUyMHByb2R1Y3Rpb24lMjBvbiUyMFRoaW1ibGV3ZWVkJTIwUGFyayUyMDIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwNzI0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDA4JTNBMTAlM0EzMyUyMCUyQjAwMDA",
       "title": "Ron Gilbert started production on Thimbleweed Park 2",
       "pubDate": "Thu, 30 Jul 2026 08:10:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmF5YmVhcmQuaW5nJTJGdGhlLXJlbGlnaW9uLW9mLXNwZWVkJTJGJTdDaHR0cHMlM0ElMkYlMkZncmF5YmVhcmQuaW5nJTJGdGhlLXJlbGlnaW9uLW9mLXNwZWVkJTJGJTdDVGhlJTIwUmVsaWdpb24lMjBvZiUyMFNwZWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTcyODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAyMyUzQTQzJTNBMjIlMjAlMkIwMDAw",
+      "title": "The Religion of Speed",
+      "pubDate": "Thu, 30 Jul 2026 23:43:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZhaS1hZXN0aGV0aWMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuamltLW5pZWxzZW4uY29tJTJGMjAyNiUyRmFpLWFlc3RoZXRpYyUyRiU3Q1RoZSUyMEFJJTIwQWVzdGhldGljJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTcwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAyMyUzQTIyJTNBMTYlMjAlMkIwMDAw",
+      "title": "The AI Aesthetic",
+      "pubDate": "Thu, 30 Jul 2026 23:22:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZpbnZlc3RpZ2F0aW5nLWluY2lkZW50cy1jeWJlcnNlY3VyaXR5LWV2YWxzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZpbnZlc3RpZ2F0aW5nLWluY2lkZW50cy1jeWJlcnNlY3VyaXR5LWV2YWxzJTdDSW52ZXN0aWdhdGluZyUyMHRocmVlJTIwcmVhbC13b3JsZCUyMGluY2lkZW50cyUyMGluJTIwb3VyJTIwY3liZXJzZWN1cml0eSUyMGV2YWx1YXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTY5MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAyMyUzQTAwJTNBNTElMjAlMkIwMDAw",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "pubDate": "Thu, 30 Jul 2026 23:00:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZW9zcGF0aWFsbWwuY29tJTJGcG9zdHMlMkZyZXZpZXdpbmctYWktc2xvcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2Vvc3BhdGlhbG1sLmNvbSUyRnBvc3RzJTJGcmV2aWV3aW5nLWFpLXNsb3AlMkYlN0NJJTIwZmxhZ2dlZCUyMHR3byUyMHJlc2VhcmNoJTIwcGFwZXJzJTIwZm9yJTIwZmFrZSUyMGF1dGhvcnMlMjBhbmQlMjBib3RoJTIwd2VyZSUyMGFjY2VwdGVkJTIwYXMlMjBvcmFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE2NzIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMjIlM0EzMyUzQTExJTIwJTJCMDAwMA",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "pubDate": "Thu, 30 Jul 2026 22:33:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW5lLmJ1aWxkJTJGYmxvZyUyRnJ1bmUtMS0xLXJlbGVhc2UlN0NodHRwcyUzQSUyRiUyRnJ1bmUuYnVpbGQlMkZibG9nJTJGcnVuZS0xLTEtcmVsZWFzZSU3Q1J1bmUlMjAxLjElM0ElMjBhZGRzJTIwUHl0aG9uJTJDJTIwYW4lMjBFbWFjcyUyMGVkaXRvciUyQyUyMGElMjBzeW1ib2wlMjBpbmRleCUyMGFuZCUyMGlzJTIwbm93JTIwZnJlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE2MjcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMjElM0E0NyUzQTMxJTIwJTJCMDAwMA",
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "pubDate": "Thu, 30 Jul 2026 21:47:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRnNhYmVyLXRvb3RoZWQtY2F0cy1iZWNhbWUtaW5icmVkLWFuZC1zdHJ1Z2dsZWQtbW92ZS10aGV5LXdlbnQtZXh0aW5jdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZzYWJlci10b290aGVkLWNhdHMtYmVjYW1lLWluYnJlZC1hbmQtc3RydWdnbGVkLW1vdmUtdGhleS13ZW50LWV4dGluY3QlN0NTYWJlci10b290aGVkJTIwY2F0cyUyMGJlY2FtZSUyMGluYnJlZCVFMiU4MCU5M2FuZCUyMHN0cnVnZ2xlZCUyMHRvJTIwbW92ZSVFMiU4MCU5M2JlZm9yZSUyMHRoZXklMjB3ZW50JTIwZXh0aW5jdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE2MDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMjElM0EzMSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "pubDate": "Thu, 30 Jul 2026 21:31:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW1pbkJsZyUyRlNpbXBsZUVuZ2xpc2glN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZBbWluQmxnJTJGU2ltcGxlRW5nbGlzaCU3Q0FnZW50JTIwU2tpbGwlMjB0byUyMEZvcmNlJTIwRG9jcyUyMGluJTIwQVNELVNURTEwMCUyMFNpbXBsaWZpZWQlMjBUZWNobmljYWwlMjBFbmdsaXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTQ2MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAxOSUzQTM0JTNBMjclMjAlMkIwMDAw",
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "pubDate": "Thu, 30 Jul 2026 19:34:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudWVmYS5jb20lMkZuZXdzLW1lZGlhJTJGbmV3cyUyRjAyYTctMjEzYTkyODk2ZWIwLTU0ZGZiZjQ1NGUzYi0xMDAwLS1zdGF0ZW1lbnQtb24tYmVoYWxmLW9mLXVlZmEtYW5kLWl0cy01NS1uYXRpb25hbC1hc3NvY2lhdGlvbnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy51ZWZhLmNvbSUyRm5ld3MtbWVkaWElMkZuZXdzJTJGMDJhNy0yMTNhOTI4OTZlYjAtNTRkZmJmNDU0ZTNiLTEwMDAtLXN0YXRlbWVudC1vbi1iZWhhbGYtb2YtdWVmYS1hbmQtaXRzLTU1LW5hdGlvbmFsLWFzc29jaWF0aW9ucyUyRiU3Q1VFRkElMjBhbmQlMjBpdHMlMjBuYXRpb25hbCUyMGFzc29jaWF0aW9ucyUyMHdpbGwlMjBub3QlMjBwYXJ0aWNpcGF0ZSUyMGluJTIwRklGQSUyMGNvbXBldGl0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEzOTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTglM0E0MCUzQTUyJTIwJTJCMDAwMA",
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "pubDate": "Thu, 30 Jul 2026 18:40:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3RndC5haSUyRnJlc2VhcmNoJTJGZGlzdGlsbGF0aW9uLWNlbnNvcnNoaXAtdHJhbnNmZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5jdGd0LmFpJTJGcmVzZWFyY2glMkZkaXN0aWxsYXRpb24tY2Vuc29yc2hpcC10cmFuc2ZlciU3Q1Nob3clMjBITiUzQSUyMERpc3RpbGxpbmclMjBEZWVwU2VlayUyMGludG8lMjBHUFQtT1NTJTIwZG9lc24ndCUyMHRyYW5zZmVyJTIwY2Vuc29yc2hpcC4lMjBUcnklMjBpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEzNTk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTglM0ExMyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "pubDate": "Thu, 30 Jul 2026 18:13:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHJpc2NveWllci5uZXQlMkYyMDI2JTJGMDclMkYzMCUyRmNvZGVwZW4tMi0wJTJGJTdDaHR0cHMlM0ElMkYlMkZjaHJpc2NveWllci5uZXQlMkYyMDI2JTJGMDclMkYzMCUyRmNvZGVwZW4tMi0wJTJGJTdDQ29kZVBlbiUyMDIuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEzMzM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTclM0E1MiUzQTUxJTIwJTJCMDAwMA",
+      "title": "CodePen 2.0",
+      "pubDate": "Thu, 30 Jul 2026 17:52:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA3JTJGcmVhZC10aGlzLWJlZm9yZS15b3UtYnV5LXRoYXQtdHYtc3RyZWFtaW5nLXN0aWNrJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA3JTJGcmVhZC10aGlzLWJlZm9yZS15b3UtYnV5LXRoYXQtdHYtc3RyZWFtaW5nLXN0aWNrJTJGJTdDUmVhZCUyMHRoaXMlMjBiZWZvcmUlMjB5b3UlMjBidXklMjB0aGF0JTIwVFYlMjBzdHJlYW1pbmclMjBzdGljayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEyNzQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTclM0EwNCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Read this before you buy that TV streaming stick",
+      "pubDate": "Thu, 30 Jul 2026 17:04:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZWFkZXIubWl0cHJlc3MubWl0LmVkdSUyRnRoZS1sb3N0LWNpdmljLWxpZmUtb2YtbW92aWUtcmVudGFsLXN0b3JlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlcmVhZGVyLm1pdHByZXNzLm1pdC5lZHUlMkZ0aGUtbG9zdC1jaXZpYy1saWZlLW9mLW1vdmllLXJlbnRhbC1zdG9yZXMlMkYlN0NUaGUlMjBsb3N0JTIwY2l2aWMlMjBsaWZlJTIwb2YlMjBtb3ZpZSUyMHJlbnRhbCUyMHN0b3JlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEwMzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTQlM0ExMSUzQTQyJTIwJTJCMDAwMA",
+      "title": "The lost civic life of movie rental stores",
+      "pubDate": "Thu, 30 Jul 2026 14:11:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg2MDQxJTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg2MDQxJTJGJTdDR0NDJTIwc3RlZXJpbmclMjBjb21taXR0ZWUlMjBhbm5vdW5jZXMlMjBBSSUyMHBvbGljeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA4Njg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTElM0E0NSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "GCC steering committee announces AI policy",
+      "pubDate": "Thu, 30 Jul 2026 11:45:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyb2lkLWRldmVsb3BlcnMuZ29vZ2xlYmxvZy5jb20lMkYyMDI2JTJGMDclMkZnb29nbGUtcGxheS1hZ2Utc2lnbmFscy1hcGktc2FmZXItZXhwZXJpZW5jZXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYW5kcm9pZC1kZXZlbG9wZXJzLmdvb2dsZWJsb2cuY29tJTJGMjAyNiUyRjA3JTJGZ29vZ2xlLXBsYXktYWdlLXNpZ25hbHMtYXBpLXNhZmVyLWV4cGVyaWVuY2VzLmh0bWwlN0NHb29nbGUlMjB3aWxsJTIwZXhwYW5kJTIwYWdlJTIwY2hlY2tzJTIwb24lMjBBbmRyb2lkJTIwd29ybGR3aWRlJTIwdGlsbCUyMHRoZSUyMGVuZCUyMG9mJTIwdGhlJTIweWVhciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA3OTUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTAlM0ExMyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "pubDate": "Thu, 30 Jul 2026 10:13:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
     }
   ]

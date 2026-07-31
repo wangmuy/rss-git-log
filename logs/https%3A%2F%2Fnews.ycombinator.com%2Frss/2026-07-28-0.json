@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-28",
     "newestItemDate": "2026-07-28",
-    "itemCount": 50,
-    "generatedAt": "2026-07-30T17:53:04.486Z"
+    "itemCount": 52,
+    "generatedAt": "2026-07-31T03:55:23.309Z"
   },
   "items": [
     {
@@ -306,6 +306,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkF6dWxlam8lN0NodHRwcyUzQSUyRiUyRmVuLndpa2lwZWRpYS5vcmclMkZ3aWtpJTJGQXp1bGVqbyU3Q0F6dWxlam8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4OTUwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDIwJTNBMjklM0EwMyUyMCUyQjAwMDA",
       "title": "Azulejo",
       "pubDate": "Tue, 28 Jul 2026 20:29:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWVtb2lyZU1vcnRlJTJGTWVtby0xJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWVtb2lyZU1vcnRlJTJGTWVtby0xJTdDTWVtby0xJTNBJTIwQSUyMDY1MDIlMjBjb21wdXRlciUyMGJ1aWx0JTIwZnJvbSUyMHNjcmF0Y2glMkMlMjB1c2luZyUyMGElMjBNaW5pdGVsJTIwYXMlMjBpdHMlMjB0ZXJtaW5hbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDgzOTcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTMlM0E1NiUzQTI3JTIwJTJCMDAwMA",
+      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+      "pubDate": "Tue, 28 Jul 2026 13:56:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpldGJyYWlucy5jb20lMkZhaSUyRjIwMjYlMkYwNyUyRnNwZWFrLXRvLWFpLWFnZW50cy1saWtlLWNhdmVtZW4tdG9zYXZlLXRva2VucyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qZXRicmFpbnMuY29tJTJGYWklMkYyMDI2JTJGMDclMkZzcGVhay10by1haS1hZ2VudHMtbGlrZS1jYXZlbWVuLXRvc2F2ZS10b2tlbnMlMkYlN0NEb2VzJTIwU3BlYWtpbmclMjB0byUyMEFnZW50cyUyMExpa2UlMjBDYXZlbWVuJTIwU2F2ZSUyMDY1JTI1JTIwb2YlMjBUb2tlbnMlM0YlMjBXZSUyMFRlc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4MDYwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDA3JTNBMzclM0EyMiUyMCUyQjAwMDA",
+      "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
+      "pubDate": "Tue, 28 Jul 2026 07:37:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
     }
   ]
