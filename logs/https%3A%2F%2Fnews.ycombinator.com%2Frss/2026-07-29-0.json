@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 55,
-    "generatedAt": "2026-07-30T17:53:04.486Z"
+    "itemCount": 56,
+    "generatedAt": "2026-07-31T11:01:54.910Z"
   },
   "items": [
     {
@@ -336,6 +336,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RXLU9wSWJMVU9VMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEVy1PcEliTFVPVTAlN0NSQ2FkZSUzQSUyMFRoZSUyMEFyY2FkZSUyMENhYmluZXQlMjB3aXRoJTIwQ0klMkZDRCUyMERlcGxveW1lbnQlMkMlMjBDdXN0b20lMjBHcmFwaGljcyUyMENhcmQlMjBmb3IlMjBDUlQlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTAzMDU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMjElM0EwMyUzQTUwJTIwJTJCMDAwMA",
       "title": "RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",
       "pubDate": "Wed, 29 Jul 2026 21:03:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmemFrYXJpYS5jb20lMkYyMDI2JTJGMDclMkYyNyUyRnRoZS1tZWFuLW1lYW5zLW5vdGhpbmclN0NodHRwcyUzQSUyRiUyRmZ6YWthcmlhLmNvbSUyRjIwMjYlMkYwNyUyRjI3JTJGdGhlLW1lYW4tbWVhbnMtbm90aGluZyU3Q1RoZSUyMG1lYW4lMjBtZWFucyUyMG5vdGhpbmclM0ElMjBkYXRhJTIwdmlzdWFsaXphdGlvbiUyMHRvJTIwZGVidWclMjBhJTIwbGF0ZW5jeSUyMHByb2JsZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NjE3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDExJTNBNDIlM0EwNCUyMCUyQjAwMDA",
+      "title": "The mean means nothing: data visualization to debug a latency problem",
+      "pubDate": "Wed, 29 Jul 2026 11:42:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-27",
     "newestItemDate": "2026-07-27",
-    "itemCount": 53,
-    "generatedAt": "2026-07-31T03:55:23.309Z"
+    "itemCount": 55,
+    "generatedAt": "2026-07-31T11:01:54.911Z"
   },
   "items": [
     {
@@ -324,6 +324,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqc3Nmci5kZSUyRjIwMjYtMDctMjctYmFkLWFwcGxlLWJ1dC10cmFjZXJvdXRlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmpzc2ZyLmRlJTJGMjAyNi0wNy0yNy1iYWQtYXBwbGUtYnV0LXRyYWNlcm91dGUuaHRtbCU3Q0JhZCUyMEFwcGxlJTIwYnV0JTIwSXQncyUyMFRyYWNlcm91dGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3MTI5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI3JTIwSnVsJTIwMjAyNiUyMDE1JTNBNDglM0EwOSUyMCUyQjAwMDA",
       "title": "Bad Apple but It's Traceroute",
       "pubDate": "Mon, 27 Jul 2026 15:48:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVubmllc3R1ZGlvcy5jb20lMkZibG9nJTJGMjAxMyUyRndoZXJlLXVzYi1tZW1vcnktc3RpY2tzLWFyZS1ib3JuJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnVubmllc3R1ZGlvcy5jb20lMkZibG9nJTJGMjAxMyUyRndoZXJlLXVzYi1tZW1vcnktc3RpY2tzLWFyZS1ib3JuJTJGJTdDV2hlcmUlMjBVU0IlMjBNZW1vcnklMjBTdGlja3MlMjBhcmUlMjBCb3JuJTIwKDIwMTMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNzczNzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAyMyUzQTU5JTNBMzclMjAlMkIwMDAw",
+      "title": "Where USB Memory Sticks are Born (2013)",
+      "pubDate": "Mon, 27 Jul 2026 23:59:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlYmVyZy5vcmclMkZnb29kZXYlMkZnb29kZXYlN0NodHRwcyUzQSUyRiUyRmNvZGViZXJnLm9yZyUyRmdvb2RldiUyRmdvb2RldiU3Q1Nob3clMjBITiUzQSUyMEElMjB1ZGV2JTIwaW1wbGVtZW50YXRpb24lMjBpbiUyMEd1aWxlJTIwU2NoZW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkwNjgyMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNyUyMEp1bCUyMDIwMjYlMjAxMSUzQTUxJTNBMDglMjAlMkIwMDAw",
+      "title": "Show HN: A udev implementation in Guile Scheme",
+      "pubDate": "Mon, 27 Jul 2026 11:51:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-27-0.json"
     }
   ]
