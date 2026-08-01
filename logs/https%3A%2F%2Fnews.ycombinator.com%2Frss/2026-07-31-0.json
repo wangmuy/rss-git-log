@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-31",
     "newestItemDate": "2026-07-31",
-    "itemCount": 45,
-    "generatedAt": "2026-08-01T03:55:25.998Z"
+    "itemCount": 46,
+    "generatedAt": "2026-08-01T10:12:15.841Z"
   },
   "items": [
     {
@@ -276,6 +276,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ6c2VyZ2UuY29tJTJGcG9zdHMlMkZ3b3JzdC1odG14LWV2ZXIlMkYlN0NodHRwcyUzQSUyRiUyRnpzZXJnZS5jb20lMkZwb3N0cyUyRndvcnN0LWh0bXgtZXZlciUyRiU3Q0xldCdzJTIwbWFrZSUyMHRoZSUyMHdvcnN0JTIwSHRteCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE5MjcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDUlM0ExNiUzQTQ1JTIwJTJCMDAwMA",
       "title": "Let's make the worst Htmx",
       "pubDate": "Fri, 31 Jul 2026 05:16:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXVyeWN5ei5jb20lMkZtaXNjJTJGdHVuZ3N0ZW4lMkYlN0NodHRwcyUzQSUyRiUyRm1hdXJ5Y3l6LmNvbSUyRm1pc2MlMkZ0dW5nc3RlbiUyRiU3Q0luY3JlYXNpbmclMjB0aGUlMjBsaWZlc3BhbiUyMG9mJTIwYSUyMGJ1bGIlMjBtYWtlcyUyMGl0JTIwd29yc2UlMjBpbiUyMGV2ZXJ5JTIwb3RoZXIlMjB3YXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMTg0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDExJTNBMzQlM0EyNCUyMCUyQjAwMDA",
+      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
+      "pubDate": "Fri, 31 Jul 2026 11:34:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
     }
   ]
