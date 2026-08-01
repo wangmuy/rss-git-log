@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-30",
     "newestItemDate": "2026-07-30",
-    "itemCount": 47,
-    "generatedAt": "2026-08-01T03:55:25.998Z"
+    "itemCount": 50,
+    "generatedAt": "2026-08-01T17:27:32.792Z"
   },
   "items": [
     {
@@ -288,6 +288,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZwb3J0cmFpdC1hdXRob3ItaGlzdG9yaWFuJTJGYWJzdXJkaXR5LWFsYmVydC1jYW11cyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmhpc3Rvcnl0b2RheS5jb20lMkZhcmNoaXZlJTJGcG9ydHJhaXQtYXV0aG9yLWhpc3RvcmlhbiUyRmFic3VyZGl0eS1hbGJlcnQtY2FtdXMlN0NUaGUlMjBBYnN1cmRpdHklMjBvZiUyMEFsYmVydCUyMENhbXVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMTcwODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAyMyUzQTIxJTNBMTclMjAlMkIwMDAw",
       "title": "The Absurdity of Albert Camus",
       "pubDate": "Thu, 30 Jul 2026 23:21:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyanAuaW8lMkZibG9nJTJGMjAyNi0wNy0xOS1yZWdpc3Rlci1kZXByaXZhdGlvbiU3Q2h0dHBzJTNBJTJGJTJGcmpwLmlvJTJGYmxvZyUyRjIwMjYtMDctMTktcmVnaXN0ZXItZGVwcml2YXRpb24lN0NSZWdpc3RlciUyMGRlcHJpdmF0aW9uJTNBJTIwc3BpbGxzJTIwYW5kJTIwcnVudGltZSUyMHVuZGVyJTIwZm9yY2VkJTIwcmVnaXN0ZXIlMjBzY2FyY2l0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA5MDE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTIlM0EyMCUzQTMwJTIwJTJCMDAwMA",
+      "title": "Register deprivation: spills and runtime under forced register scarcity",
+      "pubDate": "Thu, 30 Jul 2026 12:20:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnlhbGUuZWR1JTJGMjAyNiUyRjA3JTJGMjMlMkZzdHVkeS11bmNvdmVycy1sb3N0LWdvbGRlbi1hZ2UtbGFuZ3VhZ2VzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnlhbGUuZWR1JTJGMjAyNiUyRjA3JTJGMjMlMkZzdHVkeS11bmNvdmVycy1sb3N0LWdvbGRlbi1hZ2UtbGFuZ3VhZ2VzJTdDU3R1ZHklMjB1bmNvdmVycyUyMGxvc3QlMjAnZ29sZGVuJTIwYWdlJyUyMG9mJTIwbGFuZ3VhZ2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDUzMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAwMSUzQTU4JTNBNDMlMjAlMkIwMDAw",
+      "title": "Study uncovers lost 'golden age' of languages",
+      "pubDate": "Thu, 30 Jul 2026 01:58:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlLnRvZGF5JTJGZW4lMkZqb3VybmFsJTJGZG90cyU3Q2h0dHBzJTNBJTJGJTJGdHlwZS50b2RheSUyRmVuJTJGam91cm5hbCUyRmRvdHMlN0NNYW51YWwlM0ElMjAlRTIlODAlQTIuJTJDJTNBJTNCJTNGJUMyJUI3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMDUwMTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAzMCUyMEp1bCUyMDIwMjYlMjAwMSUzQTA1JTNBNDIlMjAlMkIwMDAw",
+      "title": "Manual: •.,:;?·",
+      "pubDate": "Thu, 30 Jul 2026 01:05:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
     }
   ]
