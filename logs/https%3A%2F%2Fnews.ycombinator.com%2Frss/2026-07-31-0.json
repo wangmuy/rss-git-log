@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-31",
     "newestItemDate": "2026-07-31",
-    "itemCount": 32,
-    "generatedAt": "2026-07-31T17:56:20.445Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-01T03:55:25.998Z"
   },
   "items": [
     {
@@ -198,6 +198,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9rc2hhYmxyJTJGZ2FuZGVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9rc2hhYmxyJTJGZ2FuZGVyJTdDU2hvdyUyMEhOJTNBJTIwR2FuZGVyJTJDJTIwYW4lMjBBbmRyb2lkJTIwZmlsZSUyMHZpZXdlciUyMHRoYXQlMjBhc2tzJTIwZm9yJTIwbm8lMjBwZXJtaXNzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE5NDI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDUlM0E0NSUzQTEzJTIwJTJCMDAwMA",
       "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
       "pubDate": "Fri, 31 Jul 2026 05:45:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlLmludGVsbGlvcy5haSUyRmN3YnJvd3NlciUyRiU3Q2h0dHBzJTNBJTJGJTJGY29kZS5pbnRlbGxpb3MuYWklMkZjd2Jyb3dzZXIlMkYlN0NTaG93JTIwSE4lM0ElMjBJJTIwd29ya2VkJTIwb24lMjBhJTIwbmV3JTIwYnJvd3NlciUyMGZvciUyMDIlMjB5ZWFycyUyQyUyMHRvZGF5JTIwaXQlMjBwYXNzZWQlMjBBY2lkJTIwMyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI4ODI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMjElM0EzOSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "pubDate": "Fri, 31 Jul 2026 21:39:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbG9vcHMlMkZqb2JzJTJGenFVbndxQi1wcm9kdWN0LWVkdWNhdG9yLXRlY2huaWNhbC1jb250ZW50LWNyZWF0b3IlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZsb29wcyUyRmpvYnMlMkZ6cVVud3FCLXByb2R1Y3QtZWR1Y2F0b3ItdGVjaG5pY2FsLWNvbnRlbnQtY3JlYXRvciU3Q0xvb3BzJTIwKFlDJTIwVzIyKSUyMElzJTIwSGlyaW5nJTIwYSUyMFByb2R1Y3QlMjBFZHVjYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI4NDYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMjElM0EwMCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "pubDate": "Fri, 31 Jul 2026 21:00:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI4MjMzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI4MjMzJTdDRGVteXN0aWZ5aW5nJTIwRFJBTSUyMFJlYWQlMjBEaXN0dXJiYW5jZSUzQSUyMFJvd0hhbW1lciUyMGFuZCUyMFJvd1ByZXNzJTIwUGhlbm9tZW5hJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjgzMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAyMCUzQTQ0JTNBMjklMjAlMkIwMDAw",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "pubDate": "Fri, 31 Jul 2026 20:44:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGYmxvZyUyRmh1Z2dpbmctZmFjZS1pbnRydXNpb24lN0NodHRwcyUzQSUyRiUyRnRhaWxzY2FsZS5jb20lMkZibG9nJTJGaHVnZ2luZy1mYWNlLWludHJ1c2lvbiU3Q1RhaWxzY2FsZSUyMGRpZG4ndCUyMHN0b3AlMjB0aGUlMjBIdWdnaW5nJTIwRmFjZSUyMGludHJ1c2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI3MzA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTklM0EwMyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "pubDate": "Fri, 31 Jul 2026 19:03:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ29sYW5nJTJGZ28lMkZpc3N1ZXMlMkY4MDU5MCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmdvbGFuZyUyRmdvJTJGaXNzdWVzJTJGODA1OTAlN0NHb2xhbmclMjBwcm9wb3NhbCUzQSUyMGNvbnRhaW5lciUyRiUzQSUyMGdlbmVyaWMlMjBjb2xsZWN0aW9uJTIwdHlwZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNzAzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE4JTNBMzklM0E0NyUyMCUyQjAwMDA",
+      "title": "Golang proposal: container/: generic collection types",
+      "pubDate": "Fri, 31 Jul 2026 18:39:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpYS5jY2MuZGUlMkZ2JTJGZW1mMjAyNi03NC0xLXVzaW5nLXRoZS1yYWlsd2F5LW5ldHdvcmstYXMtYS1mbGF0YmVkLXNjYW5uZXIlN0NodHRwcyUzQSUyRiUyRm1lZGlhLmNjYy5kZSUyRnYlMkZlbWYyMDI2LTc0LTEtdXNpbmctdGhlLXJhaWx3YXktbmV0d29yay1hcy1hLWZsYXRiZWQtc2Nhbm5lciU3Q1VzaW5nJTIwdGhlJTIwcmFpbHdheSUyMG5ldHdvcmslMjBhcyUyMGElMjBmbGF0YmVkJTIwc2Nhbm5lciUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjY5MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxOCUzQTMwJTNBNDQlMjAlMkIwMDAw",
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "pubDate": "Fri, 31 Jul 2026 18:30:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbDAwc2VkJTJGdGVybWl4ZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZsMDBzZWQlMkZ0ZXJtaXhlciU3Q1Rlcm1peGVyJTIwKFRVSSUyMERKJTIwTWl4ZXIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjY4ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxOCUzQTI4JTNBMDglMjAlMkIwMDAw",
+      "title": "Termixer (TUI DJ Mixer)",
+      "pubDate": "Fri, 31 Jul 2026 18:28:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJ2by5vcmclMkZibG9nJTJGMjAyNiUyRjA3JTJGMzElMkZqdW5lLWluLXNlcnZvJTJGJTdDaHR0cHMlM0ElMkYlMkZzZXJ2by5vcmclMkZibG9nJTJGMjAyNiUyRjA3JTJGMzElMkZqdW5lLWluLXNlcnZvJTJGJTdDSnVuZSUyMGluJTIwU2Vydm8lM0ElMjByZWFsJTIwd29ybGQlMjBjb21wYXQlMkMlMjBtZWRpYSUyMHF1ZXJpZXMlMkMlMjBTaGFyZWRXb3JrZXIlMkMlMjBhbmQlMjBtb3JlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjY3NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxOCUzQTE3JTNBNTIlMjAlMkIwMDAw",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "pubDate": "Fri, 31 Jul 2026 18:17:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeWMtc29mdHdhcmUlMkZxbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnljLXNvZnR3YXJlJTJGcW0lN0NxbSUyMCVFMiU4MCU5MyUyME11bHRpcGxheWVyJTIwYWdlbnQlMjBoYXJuZXNzJTIwZm9yJTIwd29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI2NjA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTglM0EwNCUzQTU4JTIwJTJCMDAwMA",
+      "title": "qm – Multiplayer agent harness for work",
+      "pubDate": "Fri, 31 Jul 2026 18:04:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGaXMtYWktcmVhc29uaW5nLXJpZ2h0LWZvci10aGUtd3JvbmctcmVhc29ucy0yMDI2MDczMSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRmlzLWFpLXJlYXNvbmluZy1yaWdodC1mb3ItdGhlLXdyb25nLXJlYXNvbnMtMjAyNjA3MzElMkYlN0NJcyUyMEFJJTIwcmVhc29uaW5nJTIwcmlnaHQlMjBmb3IlMjB0aGUlMjB3cm9uZyUyMHJlYXNvbnMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNDM1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE1JTNBMjklM0EzOSUyMCUyQjAwMDA",
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "pubDate": "Fri, 31 Jul 2026 15:29:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1hcmN1YS5uZXQlMkYyMDI2JTJGMDclMkYzMSUyRmF1dGhvcml6ZS1kb250LWF1dGhlbnRpY2F0ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLm1hcmN1YS5uZXQlMkYyMDI2JTJGMDclMkYzMSUyRmF1dGhvcml6ZS1kb250LWF1dGhlbnRpY2F0ZS5odG1sJTdDQXV0aG9yaXplJTJDJTIwZG9uJ3QlMjBhdXRoZW50aWNhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMzQ2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE0JTNBMTclM0E0MyUyMCUyQjAwMDA",
+      "title": "Authorize, don't authenticate",
+      "pubDate": "Fri, 31 Jul 2026 14:17:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmllbHNhbG1pbmVuLmNvbSUyRjIwMjYlMkZwcm9ncmVzc2l2ZS13ZWItY29tcG9uZW50cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJpZWxzYWxtaW5lbi5jb20lMkYyMDI2JTJGcHJvZ3Jlc3NpdmUtd2ViLWNvbXBvbmVudHMlMkYlN0NQcm9ncmVzc2l2ZSUyMFdlYiUyMENvbXBvbmVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMTE5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDEwJTNBMDQlM0E0MCUyMCUyQjAwMDA",
+      "title": "Progressive Web Components",
+      "pubDate": "Fri, 31 Jul 2026 10:04:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6c2VyZ2UuY29tJTJGcG9zdHMlMkZ3b3JzdC1odG14LWV2ZXIlMkYlN0NodHRwcyUzQSUyRiUyRnpzZXJnZS5jb20lMkZwb3N0cyUyRndvcnN0LWh0bXgtZXZlciUyRiU3Q0xldCdzJTIwbWFrZSUyMHRoZSUyMHdvcnN0JTIwSHRteCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE5MjcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDUlM0ExNiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Let's make the worst Htmx",
+      "pubDate": "Fri, 31 Jul 2026 05:16:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-28",
     "newestItemDate": "2026-07-28",
-    "itemCount": 54,
-    "generatedAt": "2026-07-31T11:01:54.910Z"
+    "itemCount": 57,
+    "generatedAt": "2026-08-01T03:55:25.999Z"
   },
   "items": [
     {
@@ -330,6 +330,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2aXRhbGlrLmV0aC5saW1vJTJGZ2VuZXJhbCUyRjIwMjYlMkYwNyUyRjI4JTJGb2JmdXNjYXRpb25fcGFydF9paV9kaWFtb25kX2lvLmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpdGFsaWsuZXRoLmxpbW8lMkZnZW5lcmFsJTJGMjAyNiUyRjA3JTJGMjglMkZvYmZ1c2NhdGlvbl9wYXJ0X2lpX2RpYW1vbmRfaW8uaHRtbCU3Q09iZnVzY2F0aW9uJTIwKFBhcnQlMjBJSSklM0ElMjBEaWFtb25kJTIwSU8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NzY3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE4JTNBMDQlM0ExNCUyMCUyQjAwMDA",
       "title": "Obfuscation (Part II): Diamond IO",
       "pubDate": "Tue, 28 Jul 2026 18:04:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuam9obmRjb29rLmNvbSUyRmJsb2clMkYyMDI2JTJGMDclMkYyNyUyRmZsb2F0LWJpbmFyeSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmpvaG5kY29vay5jb20lMkZibG9nJTJGMjAyNiUyRjA3JTJGMjclMkZmbG9hdC1iaW5hcnklMkYlN0NQcmludGluZyUyMGZsb2F0aW5nJTIwcG9pbnQlMjBudW1iZXJzJTIwaW4lMjBiaW5hcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NDY0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE0JTNBMzclM0E1NCUyMCUyQjAwMDA",
+      "title": "Printing floating point numbers in binary",
+      "pubDate": "Tue, 28 Jul 2026 14:37:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhpZGdldHMuY29tJTJGJTNGdmlldyUzRGFydGljbGVzJTI2YXJ0aWNsZSUzRExvbmdSYW5nZVdpZmklN0NodHRwcyUzQSUyRiUyRnd3dy5waGlkZ2V0cy5jb20lMkYlM0Z2aWV3JTNEYXJ0aWNsZXMlMjZhcnRpY2xlJTNETG9uZ1JhbmdlV2lmaSU3Q0hvdyUyMGZhciUyMGNhbiUyMHlvdSUyMHB1c2glMjB0aGUlMjByYW5nZSUyMG9mJTIwV2ktRmklMjBjb25uZWN0aXZpdHklMjBpbiUyMGFuJTIwaWRlYWwlMjBlbnZpcm9ubWVudCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDg0MDA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTMlM0E1OSUzQTE0JTIwJTJCMDAwMA",
+      "title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+      "pubDate": "Tue, 28 Jul 2026 13:59:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWVyYW1hbi5jb20lMkZiZWNhdXNlLXdlLWNhbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd2VlcmFtYW4uY29tJTJGYmVjYXVzZS13ZS1jYW4lMkYlN0NUd2VudHktZml2ZSUyMHllYXJzJTIwYWdvJTIwaXQlMjB3YXMlMjBjcnlwdG9ncmFwaHklMkMlMjB0b2RheSUyMGl0J3MlMjBtb2RlbCUyMHdlaWdodHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4MzU5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDEzJTNBMzElM0EyNSUyMCUyQjAwMDA",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "pubDate": "Tue, 28 Jul 2026 13:31:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
     }
   ]
