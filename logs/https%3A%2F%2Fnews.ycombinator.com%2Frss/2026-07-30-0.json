@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-30",
     "newestItemDate": "2026-07-30",
-    "itemCount": 55,
-    "generatedAt": "2026-08-02T10:11:16.494Z"
+    "itemCount": 56,
+    "generatedAt": "2026-08-02T17:27:02.712Z"
   },
   "items": [
     {
@@ -336,6 +336,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZlc3ByZXNzby1tYWNoaW5lLW9ic2VydmFiaWxpdHktd2l0aC1vdGVsJTdDaHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZlc3ByZXNzby1tYWNoaW5lLW9ic2VydmFiaWxpdHktd2l0aC1vdGVsJTdDSW5zdHJ1bWVudGluZyUyMG15JTIwZXNwcmVzc28lMjBtYWNoaW5lJTIwd2l0aCUyME9wZW5UZWxlbWV0cnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwNzIxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDA4JTNBMDYlM0EyNSUyMCUyQjAwMDA",
       "title": "Instrumenting my espresso machine with OpenTelemetry",
       "pubDate": "Thu, 30 Jul 2026 08:06:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob2xvY2xvdGgudmVyY2VsLmFwcCU3Q2h0dHBzJTNBJTJGJTJGaG9sb2Nsb3RoLnZlcmNlbC5hcHAlMkYlN0NIb2xvY2xvdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExNjkxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDIyJTNBNTklM0EyNyUyMCUyQjAwMDA",
+      "title": "Holocloth",
+      "pubDate": "Thu, 30 Jul 2026 22:59:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
     }
   ]

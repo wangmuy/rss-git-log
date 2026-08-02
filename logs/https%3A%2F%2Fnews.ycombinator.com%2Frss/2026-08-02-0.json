@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 15,
-    "generatedAt": "2026-08-02T10:11:16.493Z"
+    "itemCount": 33,
+    "generatedAt": "2026-08-02T17:27:02.711Z"
   },
   "items": [
     {
@@ -96,6 +96,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ5YXJjaGl2ZS5uZXQlMkZjb21wJTJGMTI4Yml0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnlhcmNoaXZlLm5ldCUyRmNvbXAlMkYxMjhiaXQuaHRtbCU3Q1RoZSUyMFByb3NwZWN0cyUyMGZvciUyMDEyOCUyMEJpdCUyMFByb2Nlc3NvcnMlMjAoJTIwSm9obiUyME1hc2hleSUyMFNHSSUyMDE5OTUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDAxNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwMSUzQTI2JTNBMTIlMjAlMkIwMDAw",
       "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
       "pubDate": "Sun, 02 Aug 2026 01:26:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ3JhaGFtMzMlMkZuaXhvcy1kZ3gtc3BhcmslN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZncmFoYW0zMyUyRm5peG9zLWRneC1zcGFyayU3Q1Nob3clMjBITiUzQSUyME5peE9TLURHWC1TcGFyayUyMCVFMiU4MCU5MyUyME5peCUyMGFuZCUyME5peE9TJTIwb24lMjB0aGUlMjBER1glMjBTcGFyayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ2MjY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTclM0EwNSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "pubDate": "Sun, 02 Aug 2026 17:05:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW51eGlhYy5jb20lMkZsaW51eC1kZXNrdG9wLW1hcmtldC1zaGFyZS1zdXJwYXNzZXMtMTAtaW4tbm9ydGgtYW1lcmljYSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGludXhpYWMuY29tJTJGbGludXgtZGVza3RvcC1tYXJrZXQtc2hhcmUtc3VycGFzc2VzLTEwLWluLW5vcnRoLWFtZXJpY2ElMkYlN0NMaW51eCUyMERlc2t0b3AlMjBNYXJrZXQlMjBTaGFyZSUyMFN1cnBhc3NlcyUyMDEwJTI1JTIwaW4lMjBOb3J0aCUyMEFtZXJpY2ElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0NjEyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDE2JTNBNTAlM0EwMSUyMCUyQjAwMDA",
+      "title": "Linux Desktop Market Share Surpasses 10% in North America",
+      "pubDate": "Sun, 02 Aug 2026 16:50:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZTk3LmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2U5Ny5jb20lMkYlN0NHRS05NyUyMFRlcm1pbmFsJTNBJTIwVGhlJTIwT2xkJTIwSW50ZXJuZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0NjA1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDE2JTNBNDElM0EzNSUyMCUyQjAwMDA",
+      "title": "GE-97 Terminal: The Old Internet",
+      "pubDate": "Sun, 02 Aug 2026 16:41:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGd2llLXByb2plY3QlMkZrYWtlaGFzaGklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ3aWUtcHJvamVjdCUyRmtha2VoYXNoaSU3Q1Nob3clMjBITiUzQSUyMEtha2VoYXNoaSUyMCVFMiU4MCU5MyUyMEV4cGVyaW1lbnRhbCUyMHVzZXJzcGFjZSUyMHRvJTIwcnVuJTIwbWFjT1MlMjBiaW5hcmllcyUyMG9uJTIwTGludXglMjBBUk0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0NTkzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDE2JTNBMjYlM0E0MCUyMCUyQjAwMDA",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "pubDate": "Sun, 02 Aug 2026 16:26:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmp1bmktbXA0LmNvbSUyRnBvc3RzJTJGNDIlMkZyb290aW5nLXRoZS10cGxpbmstdGw4NDFuLXB0MSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qdW5pLW1wNC5jb20lMkZwb3N0cyUyRjQyJTJGcm9vdGluZy10aGUtdHBsaW5rLXRsODQxbi1wdDElMkYlN0NSb290aW5nJTJDJTIwZmlybXdhcmUlMjBhbmFseXNpcyUyMGFuZCUyMHBlcnNpc3RlbnQlMjBjcmVkZW50aWFscyUyMG9mJTIwVFAtTGluayUyMFRMLTg0MU4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0NTg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDE2JTNBMTklM0ExNyUyMCUyQjAwMDA",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "pubDate": "Sun, 02 Aug 2026 16:19:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWRkaW5nLmNvb2wlMkYyMDI2JTJGMDclMkZlc3NlbnRpYWwtd29yZHMlMkYlN0NodHRwcyUzQSUyRiUyRnB1ZGRpbmcuY29vbCUyRjIwMjYlMkYwNyUyRmVzc2VudGlhbC13b3JkcyUyRiU3Q0hvdyUyMHRoZSUyMHdvcmRzJTIwd2UlMjB0ZWFjaCUyMEVuZ2xpc2glMjBsYW5ndWFnZSUyMGxlYXJuZXJzJTIwY2hhbmdlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ1NTkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTUlM0E0MSUzQTA4JTIwJTJCMDAwMA",
+      "title": "How the words we teach English language learners changed",
+      "pubDate": "Sun, 02 Aug 2026 15:41:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXJzdWxha2xlZ3Vpbi5jb20lMkZhLXJhbnQtYWJvdXQtdGVjaG5vbG9neSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnVyc3VsYWtsZWd1aW4uY29tJTJGYS1yYW50LWFib3V0LXRlY2hub2xvZ3klN0NBJTIwUmFudCUyMEFib3V0JTIwJUUyJTgwJTlDVGVjaG5vbG9neSVFMiU4MCU5RCUyMCgyMDA1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ1MjAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTQlM0E1MSUzQTE4JTIwJTJCMDAwMA",
+      "title": "A Rant About “Technology” (2005)",
+      "pubDate": "Sun, 02 Aug 2026 14:51:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlzY29zb3Blbi5vcmclMkZuZXdzJTJGYXJ0aWNsZXMlMkYyMDI2JTJGMDYlMkYyMCUyRnR3ZW50eS15ZWFycy1vZi1yaXNjLW9zLW9wZW4lN0NodHRwcyUzQSUyRiUyRnd3dy5yaXNjb3NvcGVuLm9yZyUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYlMkYwNiUyRjIwJTJGdHdlbnR5LXllYXJzLW9mLXJpc2Mtb3Mtb3BlbiU3Q1R3ZW50eSUyMFllYXJzJTIwb2YlMjBSSVNDJTIwT1MlMjBPcGVuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDM5NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAxMiUzQTM2JTNBMDclMjAlMkIwMDAw",
+      "title": "Twenty Years of RISC OS Open",
+      "pubDate": "Sun, 02 Aug 2026 12:36:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmc3Rhci1sYW5nLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZnN0YXItbGFuZy5vcmclMkYlN0NGKiUzQSUyMEElMjBnZW5lcmFsLXB1cnBvc2UlMjBwcm9vZi1vcmllbnRlZCUyMHByb2dyYW1taW5nJTIwbGFuZ3VhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0MzkyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDEyJTNBMzElM0ExNiUyMCUyQjAwMDA",
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "pubDate": "Sun, 02 Aug 2026 12:31:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGZ3JlYXQtcXVlc3Rpb24lMkZqb2JzJTJGWXV0RHh5Zi1zZW5pb3ItZGVtYW5kLWdlbmVyYXRpb24tbWFuYWdlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRmdyZWF0LXF1ZXN0aW9uJTJGam9icyUyRll1dER4eWYtc2VuaW9yLWRlbWFuZC1nZW5lcmF0aW9uLW1hbmFnZXIlN0NHcmVhdCUyMFF1ZXN0aW9uJTIwKFlDJTIwVzIxKSUyMElzJTIwSGlyaW5nJTIwU2VuaW9yJTIwRGVtYW5kJTIwR2VuJTIwTWFuYWdlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQzNjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTIlM0EwMSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "pubDate": "Sun, 02 Aug 2026 12:01:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZXNoZGlmZi5jb20lMkYlN0NodHRwcyUzQSUyRiUyRm1lc2hkaWZmLmNvbSUyRiU3Q01lc2hkaWZmJTIwJUUyJTgwJTkzJTIwdmlzdWFsbHklMjBjb21wYXJlJTIwdHdvJTIwU1RMJTIwdmVyc2lvbnMlMjBpbiUyMHRoZSUyMGJyb3dzZXIlMkMlMjBjbGllbnQtc2lkZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQzNDc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTElM0EzNCUzQTQxJTIwJTJCMDAwMA",
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "pubDate": "Sun, 02 Aug 2026 11:34:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdXNlbGFuZy5vcmclN0NodHRwcyUzQSUyRiUyRmZ1c2VsYW5nLm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMEZ1c2UlMjAlRTIlODAlOTMlMjBzdGF0aWNhbGx5JTIwdHlwZWQlMjBmdW5jdGlvbmFsJTIwcHJvZ3JhbW1pbmclMjBsYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQzNDEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTElM0EyMyUzQTU2JTIwJTJCMDAwMA",
+      "title": "Show HN: Fuse – statically typed functional programming language",
+      "pubDate": "Sun, 02 Aug 2026 11:23:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2FtYWxmYXJhaGFuaSUyRmthdGhhcm9zJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2FtYWxmYXJhaGFuaSUyRmthdGhhcm9zJTdDU2hvdyUyMEhOJTNBJTIwS2F0aGFyb3MlMjBGdW5jdGlvbmFsJTIwcHJvZ3JhbW1pbmclMjBhbmQlMjBDU1Atc3R5bGUlMjBjb25jdXJyZW5jeSUyMGZvciUyMFB5dGhvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQzMTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTAlM0E0NSUzQTExJTIwJTJCMDAwMA",
+      "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "pubDate": "Sun, 02 Aug 2026 10:45:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJ1c3QtbGFuZy5vcmclMkZpbnNpZGUtcnVzdCUyRjIwMjYlMkYwNyUyRjMxJTJGYWxsLWhhbmRzLTIwMjYtcmV0cm9zcGVjdGl2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5ydXN0LWxhbmcub3JnJTJGaW5zaWRlLXJ1c3QlMkYyMDI2JTJGMDclMkYzMSUyRmFsbC1oYW5kcy0yMDI2LXJldHJvc3BlY3RpdmUlMkYlN0NSdXN0JTIwQWxsJTIwSGFuZHMlMjAyMDI2JTIwUmV0cm9zcGVjdGl2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQzMDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTAlM0EzMyUzQTI2JTIwJTJCMDAwMA",
+      "title": "Rust All Hands 2026 Retrospective",
+      "pubDate": "Sun, 02 Aug 2026 10:33:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGZXNzYXklMkZhcnMtbm90b3JpYSUyRiU3Q2h0dHBzJTNBJTJGJTJGcHVibGljZG9tYWlucmV2aWV3Lm9yZyUyRmVzc2F5JTJGYXJzLW5vdG9yaWElMkYlN0NBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTNBJTIwQXJzJTIwTm90b3JpYSUyMGFuZCUyMHRoZSUyMFByb21pc2UlMjBvZiUyMEluc3RhbnQlMjBLbm93bGVkZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0MzAwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDEwJTNBMTglM0EyNCUyMCUyQjAwMDA",
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "pubDate": "Sun, 02 Aug 2026 10:18:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZXRib3IuZGV2JTJGYmxvZyUyRjIwMjYtMDgtMDItYm9yLXYwODAtcmVsZWFzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2V0Ym9yLmRldiUyRmJsb2clMkYyMDI2LTA4LTAyLWJvci12MDgwLXJlbGVhc2UlMkYlN0NTaG93JTIwSE4lM0ElMjBCb3IlMjAlRTIlODAlOTMlMjBPcGVuLXNvdXJjZSUyMHBvbGljeSUyMG1hbmFnZW1lbnQlMjBmb3IlMjBMaW51eCUyMGRlc2t0b3BzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDI1NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwOSUzQTA2JTNBMzMlMjAlMkIwMDAw",
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "pubDate": "Sun, 02 Aug 2026 09:06:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZXRlcm5ldWZlbGQud29yZHByZXNzLmNvbSUyRjIwMjUlMkYwMyUyRjA0JTJGZXNwMzItYzMtc3VwZXJtaW5pLWFudGVubmEtbW9kaWZpY2F0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZwZXRlcm5ldWZlbGQud29yZHByZXNzLmNvbSUyRjIwMjUlMkYwMyUyRjA0JTJGZXNwMzItYzMtc3VwZXJtaW5pLWFudGVubmEtbW9kaWZpY2F0aW9uJTJGJTdDRVNQMzItQzMlMjBTdXBlck1pbmklMjBhbnRlbm5hJTIwbW9kaWZpY2F0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDE4MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwNiUzQTU2JTNBMzglMjAlMkIwMDAw",
+      "title": "ESP32-C3 SuperMini antenna modification",
+      "pubDate": "Sun, 02 Aug 2026 06:56:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmthcnBhdGh5JTJGc3RhdHVzJTJGMjA4Mzc0OTY2NzQxMDcyNzMxOSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZrYXJwYXRoeSUyRnN0YXR1cyUyRjIwODM3NDk2Njc0MTA3MjczMTklN0NLYXJwYXRoeSVFMiU4MCU5OXMlMjBQZWxpY2FuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDA5OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwNCUzQTA1JTNBNTYlMjAlMkIwMDAw",
+      "title": "Karpathy’s Pelican",
+      "pubDate": "Sun, 02 Aug 2026 04:05:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]
