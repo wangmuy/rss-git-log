@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-01",
     "newestItemDate": "2026-08-01",
-    "itemCount": 29,
-    "generatedAt": "2026-08-01T17:27:32.792Z"
+    "itemCount": 41,
+    "generatedAt": "2026-08-02T03:58:38.485Z"
   },
   "items": [
     {
@@ -180,6 +180,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa29udGlnbyUyRmpvYnMlMkZ4QW82dE10LWZvdW5kaW5nLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa29udGlnbyUyRmpvYnMlMkZ4QW82dE10LWZvdW5kaW5nLWVuZ2luZWVyJTdDS29udGlnbyUyMChZQyUyMFMyNCklMjBJcyUyMEhpcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTMzNjU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDElMjBBdWclMjAyMDI2JTIwMTIlM0EwMCUzQTI1JTIwJTJCMDAwMA",
       "title": "Kontigo (YC S24) Is Hiring",
       "pubDate": "Sat, 01 Aug 2026 12:00:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmZjLWVkaXRvci5vcmclMkZyZmMlMkZyZmMxMDAxNS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmZjLWVkaXRvci5vcmclMkZyZmMlMkZyZmMxMDAxNS5odG1sJTdDUkZDJTIwMTAwMTUlM0ElMjBEZXByZWNhdGluZyUyME9ic29sZXRlJTIwS2V5JTIwRXhjaGFuZ2UlMjBNZXRob2RzJTIwaW4lMjBUTFMlMjAxLjIlMjBhbmQlMjBEVExTJTIwMS4yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzk3MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAyMyUzQTQ0JTNBNTUlMjAlMkIwMDAw",
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "pubDate": "Sat, 01 Aug 2026 23:44:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua3lvdG8tdS5hYy5qcCUyRmVuJTJGcmVzZWFyY2gtbmV3cyUyRjIwMjYtMDctMjglN0NodHRwcyUzQSUyRiUyRnd3dy5reW90by11LmFjLmpwJTJGZW4lMkZyZXNlYXJjaC1uZXdzJTJGMjAyNi0wNy0yOCU3Q1VucmF2ZWxpbmclMjB0aGUlMjBteXN0ZXJpZXMlMjBvZiUyMGhhYml0JTIwZm9ybWF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzkzODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAyMiUzQTU1JTNBNTIlMjAlMkIwMDAw",
+      "title": "Unraveling the mysteries of habit formation",
+      "pubDate": "Sat, 01 Aug 2026 22:55:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbW9ycGglMkZqb2JzJTJGMFo4dkkzSy1tZW1iZXItb2YtdGVjaG5pY2FsLXN0YWZmJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbW9ycGglMkZqb2JzJTJGMFo4dkkzSy1tZW1iZXItb2YtdGVjaG5pY2FsLXN0YWZmJTdDTW9ycGglMjAoWUMlMjBTMjMpJTIwSXMlMjBIaXJpbmclMjBNZW1iZXIlMjBvZiUyMFRlY2huaWNhbCUyMFN0YWZmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzkzNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAyMiUzQTUyJTNBNDQlMjAlMkIwMDAw",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+      "pubDate": "Sat, 01 Aug 2026 22:52:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXRzbG9hbi5taXQuZWR1JTJGaWRlYXMtbWFkZS10by1tYXR0ZXIlMkZhaS1maW5hbmNpYWwtYWR2aWNlLXN1cnByaXNpbmdseS1nb29kLWVzcGVjaWFsbHktaWYteW91LWFzay1yaWdodC1xdWVzdGlvbnMlN0NodHRwcyUzQSUyRiUyRm1pdHNsb2FuLm1pdC5lZHUlMkZpZGVhcy1tYWRlLXRvLW1hdHRlciUyRmFpLWZpbmFuY2lhbC1hZHZpY2Utc3VycHJpc2luZ2x5LWdvb2QtZXNwZWNpYWxseS1pZi15b3UtYXNrLXJpZ2h0LXF1ZXN0aW9ucyU3Q0FJJTIwZmluYW5jaWFsJTIwYWR2aWNlJTIwaXMlMjBzdXJwcmlzaW5nbHklMjBnb29kJTJDJTIwZXNwZWNpYWxseSUyMGlmJTIweW91JTIwYXNrJTIwcmlnaHQlMjBxdWVzdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzOTEwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDIyJTNBMjUlM0ExMiUyMCUyQjAwMDA",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "pubDate": "Sat, 01 Aug 2026 22:25:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWVkLmJ5dGVkYW5jZS5jb20lMkZlbiUyRmJsb2clMkZvbmUtdGFrZS1jcmVhdGlvbi1mbGV4aWJsZS1yZWZlcmVuY2luZy1pbnRyb2R1Y2luZy1zZWVkYW5jZS0yLTUlN0NodHRwcyUzQSUyRiUyRnNlZWQuYnl0ZWRhbmNlLmNvbSUyRmVuJTJGYmxvZyUyRm9uZS10YWtlLWNyZWF0aW9uLWZsZXhpYmxlLXJlZmVyZW5jaW5nLWludHJvZHVjaW5nLXNlZWRhbmNlLTItNSU3Q1NlZWRhbmNlJTIwMi41JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzgzMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAyMCUzQTQ1JTNBMTIlMjAlMkIwMDAw",
+      "title": "Seedance 2.5",
+      "pubDate": "Sat, 01 Aug 2026 20:45:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWF0YXhpcy5mciUyRiU3Q2h0dHBzJTNBJTJGJTJGZGlhdGF4aXMuZnIlMkYlN0NEaSVDMyVBMXRheGlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzgxODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAyMCUzQTMzJTNBMjclMjAlMkIwMDAw",
+      "title": "Diátaxis",
+      "pubDate": "Sat, 01 Aug 2026 20:33:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXltaWkub3JnJTJGcyUyRmFydGljbGVzJTJGQnV0X2Nhbl95b3VyX2NhbGN1bGF0b3JfcnVuX0xpbnV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnJheW1paS5vcmclMkZzJTJGYXJ0aWNsZXMlMkZCdXRfY2FuX3lvdXJfY2FsY3VsYXRvcl9ydW5fTGludXguaHRtbCU3Q0J1dCUyMGNhbiUyMHlvdXIlMjBjYWxjdWxhdG9yJTIwcnVuJTIwTGludXglM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzNzcxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDE5JTNBNDQlM0E0OCUyMCUyQjAwMDA",
+      "title": "But can your calculator run Linux?",
+      "pubDate": "Sat, 01 Aug 2026 19:44:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZW5zeXMuY29tJTJGYmxvZyUyRmNpc2EtYWxlcnQtd2F0ZXItdG93ZXItcGxjLXRhcmdldGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGY2Vuc3lzLmNvbSUyRmJsb2clMkZjaXNhLWFsZXJ0LXdhdGVyLXRvd2VyLXBsYy10YXJnZXRpbmclMkYlN0NDSVNBJTIwQWxlcnQlM0ElMjBXYXRlciUyMFNlY3RvciUyMFBMQyUyMFRhcmdldGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTM3MjI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDElMjBBdWclMjAyMDI2JTIwMTglM0E1MCUzQTE3JTIwJTJCMDAwMA",
+      "title": "CISA Alert: Water Sector PLC Targeting",
+      "pubDate": "Sat, 01 Aug 2026 18:50:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZW9kZW1vdXJhLmdpdGh1Yi5pbyUyRmJsb2clMkYyMDI2LTgtMS1wb3N0bW9ydGVtLWZvci1rZXJuZWwtc291bmRuZXNzLWJ1Zy0xNDU3NiUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVvZGVtb3VyYS5naXRodWIuaW8lMkZibG9nJTJGMjAyNi04LTEtcG9zdG1vcnRlbS1mb3Ita2VybmVsLXNvdW5kbmVzcy1idWctMTQ1NzYlMkYlN0NQb3N0bW9ydGVtJTIwZm9yJTIwS2VybmVsJTIwU291bmRuZXNzJTIwQnVnJTIwJTIzMTQ1NzYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzNzA2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDE4JTNBMzIlM0EyMCUyMCUyQjAwMDA",
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "pubDate": "Sat, 01 Aug 2026 18:32:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucnNzLm9yZyUyRmJsb2clMkZob3ctZ29vZ2xlLWhlbHBlZC1kZXN0cm95LWFkb3B0aW9uLW9mLXJzcy1mZWVkcyU3Q2h0dHBzJTNBJTJGJTJGb3BlbnJzcy5vcmclMkZibG9nJTJGaG93LWdvb2dsZS1oZWxwZWQtZGVzdHJveS1hZG9wdGlvbi1vZi1yc3MtZmVlZHMlN0NIb3clMjBHb29nbGUlMjBoZWxwZWQlMjBkZXN0cm95JTIwYWRvcHRpb24lMjBvZiUyMFJTUyUyMGZlZWRzJTIwKDIwMjMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzY4MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTA3JTNBMDclMjAlMkIwMDAw",
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "pubDate": "Sat, 01 Aug 2026 18:07:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm5ldGJzZC5vcmclMkZ0bmYlMkZlbnRyeSUyRm5ldGJzZF8xMV8wX3JlbGVhc2VkJTdDaHR0cHMlM0ElMkYlMkZibG9nLm5ldGJzZC5vcmclMkZ0bmYlMkZlbnRyeSUyRm5ldGJzZF8xMV8wX3JlbGVhc2VkJTdDTmV0QlNEJTIwMTEuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTM2NzM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDElMjBBdWclMjAyMDI2JTIwMTclM0E1NiUzQTQxJTIwJTJCMDAwMA",
+      "title": "NetBSD 11.0",
+      "pubDate": "Sat, 01 Aug 2026 17:56:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VyaW91c2VhdHMuY29tJTJGMzAtbWludXRlLXByZXNzdXJlLWNvb2tlci1waG8tZ2EtcmVjaXBlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2VyaW91c2VhdHMuY29tJTJGMzAtbWludXRlLXByZXNzdXJlLWNvb2tlci1waG8tZ2EtcmVjaXBlJTdDS2VuamklMkZTZXJpb3VzJTIwRWF0cyUyMCVFMiU4MCU5MyUyMDMwLU1pbiUyMFByZXNzdXJlJTIwQ29va2VyJTIwUGhvJTIwR2ElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzNTQyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDE1JTNBNDYlM0E1NCUyMCUyQjAwMDA",
+      "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+      "pubDate": "Sat, 01 Aug 2026 15:46:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
     }
   ]
