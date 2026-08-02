@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-30",
     "newestItemDate": "2026-07-30",
-    "itemCount": 52,
-    "generatedAt": "2026-08-02T03:58:38.486Z"
+    "itemCount": 55,
+    "generatedAt": "2026-08-02T10:11:16.494Z"
   },
   "items": [
     {
@@ -318,6 +318,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmNoaW5hJTJGY2hpbmEtc3RhcnRzLXByb2R1Y3Rpb24taG9tZS1ncm93bi1pbW1lcnNpb24tZHV2LWNoaXBtYWtpbmctdG9vbHMtc291cmNlLTIwMjYtMDctMjglMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRndvcmxkJTJGY2hpbmElMkZjaGluYS1zdGFydHMtcHJvZHVjdGlvbi1ob21lLWdyb3duLWltbWVyc2lvbi1kdXYtY2hpcG1ha2luZy10b29scy1zb3VyY2UtMjAyNi0wNy0yOCUyRiU3Q0NoaW5hJTIwYmVnaW5zJTIwcHJvZHVjaW5nJTIwYWR2YW5jZWQlMjBjaGlwbWFraW5nJTIwZGVlcC11bHRyYXZpb2xldCUyMGxpdGhvZ3JhcGh5JTIwbWFjaGluZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExMDMxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDE0JTNBMTIlM0E0NCUyMCUyQjAwMDA",
       "title": "China begins producing advanced chipmaking deep-ultraviolet lithography machines",
       "pubDate": "Thu, 30 Jul 2026 14:12:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW51c29mdC5jb20lMkZsb2dhbmJhc2ljJTJGJTdDaHR0cHMlM0ElMkYlMkZzaW51c29mdC5jb20lMkZsb2dhbmJhc2ljJTJGJTdDU2hvdyUyMEhOJTNBJTIwTG9nYW4lMjBCYXNpYyUyMHYyLjElMjAtJTIwQW4lMjBvbmxpbmUlMjBCQVNJQyUyMGludGVycHJldGVyLiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE1NDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMjAlM0EzNiUzQTUzJTIwJTJCMDAwMA",
+      "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
+      "pubDate": "Thu, 30 Jul 2026 20:36:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVuYWpzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZWxlbmFqcy5jb20lMkYlN0NFbGVuYSUyQyUyMGElMjBsaWJyYXJ5JTIwZm9yJTIwYnVpbGRpbmclMjBQcm9ncmVzc2l2ZSUyMFdlYiUyMENvbXBvbmVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwOTc1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzElM0E1NiUyMCUyQjAwMDA",
+      "title": "Elena, a library for building Progressive Web Components",
+      "pubDate": "Thu, 30 Jul 2026 13:31:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZlc3ByZXNzby1tYWNoaW5lLW9ic2VydmFiaWxpdHktd2l0aC1vdGVsJTdDaHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZlc3ByZXNzby1tYWNoaW5lLW9ic2VydmFiaWxpdHktd2l0aC1vdGVsJTdDSW5zdHJ1bWVudGluZyUyMG15JTIwZXNwcmVzc28lMjBtYWNoaW5lJTIwd2l0aCUyME9wZW5UZWxlbWV0cnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwNzIxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDA4JTNBMDYlM0EyNSUyMCUyQjAwMDA",
+      "title": "Instrumenting my espresso machine with OpenTelemetry",
+      "pubDate": "Thu, 30 Jul 2026 08:06:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
     }
   ]

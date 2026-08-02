@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 10,
-    "generatedAt": "2026-08-02T03:58:38.485Z"
+    "itemCount": 15,
+    "generatedAt": "2026-08-02T10:11:16.493Z"
   },
   "items": [
     {
@@ -66,6 +66,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwbHVnLXdvcmxkLmNvbSUyRnBvc3RzJTJGMjAyNiUyRmFzcm9jay1iYzI1MC10aGUtYnVkZ2V0LXN0ZWFtLW1hY2hpbmUlMkYlN0NodHRwcyUzQSUyRiUyRnBsdWctd29ybGQuY29tJTJGcG9zdHMlMkYyMDI2JTJGYXNyb2NrLWJjMjUwLXRoZS1idWRnZXQtc3RlYW0tbWFjaGluZSUyRiU3Q0FTUm9jayUyMEJDLTI1MCUzQSUyMEJ1aWxkaW5nJTIwdGhlJTIwQnVkZ2V0JTIwU3RlYW0lMjBNYWNoaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDAyMTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwMSUzQTM1JTNBMTElMjAlMkIwMDAw",
       "title": "ASRock BC-250: Building the Budget Steam Machine",
       "pubDate": "Sun, 02 Aug 2026 01:35:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3luY3VsYXIlMkZzeW5jdWxhciU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnN5bmN1bGFyJTJGc3luY3VsYXIlN0NTaG93JTIwSE4lM0ElMjBTeW5jdWxhciUyMCVFMiU4MCU5MyUyMG9mZmxpbmUtZmlyc3QlMjBTUUwlMjBzeW5jJTIwd2l0aCUyMFR5cGVTY3JpcHQlMjBhbmQlMjBSdXN0JTIwY29yZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0Mjc5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDA5JTNBNDglM0EwOCUyMCUyQjAwMDA",
+      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "pubDate": "Sun, 02 Aug 2026 09:48:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5vbmxpbmUlMkYlNDBtd2ljaGFyeSUyRjExNzAyMzczNjgwNDEyOTM0MiU3Q2h0dHBzJTNBJTJGJTJGbWFzdG9kb24ub25saW5lJTJGJTQwbXdpY2hhcnklMkYxMTcwMjM3MzY4MDQxMjkzNDIlN0NUaGUlMjB0aW1lJTIwZmlsdGVyJTIwaW4lMjBHb29nbGUlMjBTZWFyY2glMjBicm9rZSUyMGElMjBmZXclMjBkYXlzJTIwYWdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDI0NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwOCUzQTQ4JTNBNTMlMjAlMkIwMDAw",
+      "title": "The time filter in Google Search broke a few days ago",
+      "pubDate": "Sun, 02 Aug 2026 08:48:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRmFmM2VlMTkxJTJGd2h5LWktZG9udC1yZWNvbW1lbmQtdGFpbHdpbmQtY3NzJTJGJTdDaHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRmFmM2VlMTkxJTJGd2h5LWktZG9udC1yZWNvbW1lbmQtdGFpbHdpbmQtY3NzJTJGJTdDSSUyMGRvbid0JTIwcmVjb21tZW5kJTIwVGFpbHdpbmQlMjBDU1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0MTg5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDA3JTNBMDklM0EzOCUyMCUyQjAwMDA",
+      "title": "I don't recommend Tailwind CSS",
+      "pubDate": "Sun, 02 Aug 2026 07:09:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FmZXIuYWklMkZibG9nJTJGa2ltaS1rMy1taTM1NXglN0NodHRwcyUzQSUyRiUyRnd3dy53YWZlci5haSUyRmJsb2clMkZraW1pLWszLW1pMzU1eCU3Q1J1bm5pbmclMjBLaW1pJTIwSzMlMjBvbiUyME1JMzU1WCUyMGF0JTIwQmV0dGVyJTIwUGVyZm9ybWFuY2UlMjBwZXIlMjBEb2xsYXIlMjBUaGFuJTIwQjMwMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQxMDczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMDQlM0EyMSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "pubDate": "Sun, 02 Aug 2026 04:21:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YXJjaGl2ZS5uZXQlMkZjb21wJTJGMTI4Yml0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnlhcmNoaXZlLm5ldCUyRmNvbXAlMkYxMjhiaXQuaHRtbCU3Q1RoZSUyMFByb3NwZWN0cyUyMGZvciUyMDEyOCUyMEJpdCUyMFByb2Nlc3NvcnMlMjAoJTIwSm9obiUyME1hc2hleSUyMFNHSSUyMDE5OTUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDAxNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwMSUzQTI2JTNBMTIlMjAlMkIwMDAw",
+      "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "pubDate": "Sun, 02 Aug 2026 01:26:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]
