@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 6,
-    "generatedAt": "2026-08-03T04:00:26.107Z"
+    "itemCount": 21,
+    "generatedAt": "2026-08-03T11:48:51.262Z"
   },
   "items": [
     {
@@ -42,6 +42,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW5kcmVhZ3JhbmRpLml0JTJGcG9zdHMlMkZ3aHktYm9vay1jb3JuZXJzLXdvbnQtc3luYy1jb250cmlidXRpb25zLWJhY2stdG8tb3BlbnN0cmVldG1hcCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFuZHJlYWdyYW5kaS5pdCUyRnBvc3RzJTJGd2h5LWJvb2stY29ybmVycy13b250LXN5bmMtY29udHJpYnV0aW9ucy1iYWNrLXRvLW9wZW5zdHJlZXRtYXAlMkYlN0NXaHklMjBCb29rJTIwQ29ybmVycyUyMHdvbid0JTIwc3luYyUyMGNvbnRyaWJ1dGlvbnMlMjBiYWNrJTIwdG8lMjBPcGVuU3RyZWV0TWFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDk3NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAwMCUzQTEyJTNBMTYlMjAlMkIwMDAw",
       "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
       "pubDate": "Mon, 03 Aug 2026 00:12:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5qZnJvZy5jb20lMkZwb3N0JTJGc3FsaXRlLWNyaXRpY2FsLWN2ZXMtb3ItbGxtLXNsb3BzJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5qZnJvZy5jb20lMkZwb3N0JTJGc3FsaXRlLWNyaXRpY2FsLWN2ZXMtb3ItbGxtLXNsb3BzJTJGJTdDQ3JpdGljYWwlMjBDVkUlMjBpc3N1ZWQlMjBmb3IlMjBoYWxsdWNpbmF0ZWQlMjBTUUxpdGUlMjB2dWxuZXJhYmlsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTQzMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxMSUzQTI4JTNBNTQlMjAlMkIwMDAw",
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "pubDate": "Mon, 03 Aug 2026 11:28:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZpY2UtZG5hLWNvbGxlY3Rpb24tZmJpLWNvZGlzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZpY2UtZG5hLWNvbGxlY3Rpb24tZmJpLWNvZGlzJTJGJTdDSUNFJTIwQ29sbGVjdGVkJTIwTmVhcmx5JTIwMU0lMjBQZW9wbGUncyUyMEROQSUyMExhc3QlMjBZZWFyJUUyJTgwJTkzSW5jbHVkaW5nJTIwWW91bmclMjBDaGlsZHJlbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU0MjM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTElM0ExNiUzQTMzJTIwJTJCMDAwMA",
+      "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+      "pubDate": "Mon, 03 Aug 2026 11:16:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2FyYWdlaHElMkZuaWdodGNyYXdsZXIlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZnYXJhZ2VocSUyRm5pZ2h0Y3Jhd2xlciUyRiU3Q1Nob3clMjBITiUzQSUyME5pZ2h0Y3Jhd2xlciUyMCVFMiU4MCU5MyUyMEElMjBsb2NhbCUyMEFJJTIwcGVudGVzdGluZyUyMGFnZW50JTIwcnVubmluZyUyMG9uJTIwYSUyMHNtYXJ0cGhvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1NDEyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDExJTNBMDYlM0ExNSUyMCUyQjAwMDA",
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "pubDate": "Mon, 03 Aug 2026 11:06:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmt1cnNldGhpLmNvbSUyRmJsb2clMkZwcmV2ZW50LWNvZ25pdGl2ZS1kZWJ0LWJ5LW1hbnVhbGx5LXJldHlwaW5nLWxsbS1nZW5lcmF0ZWQtY29kZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5rdXJzZXRoaS5jb20lMkZibG9nJTJGcHJldmVudC1jb2duaXRpdmUtZGVidC1ieS1tYW51YWxseS1yZXR5cGluZy1sbG0tZ2VuZXJhdGVkLWNvZGUlMkYlN0NQcmV2ZW50JTIwY29nbml0aXZlJTIwZGVidCUyMGJ5JTIwbWFudWFsbHklMjByZXR5cGluZyUyMExMTS1nZW5lcmF0ZWQlMjBjb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTMzNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAwOSUzQTMyJTNBMDclMjAlMkIwMDAw",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "pubDate": "Mon, 03 Aug 2026 09:32:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZW5kZXJsZWRnZXIuY29tJTJGYXJ0aWNsZXMlMkZ3aGF0LWRtYXJjLWFjdHVhbGx5LXByb3RlY3RzLXlvdS1mcm9tJTdDaHR0cHMlM0ElMkYlMkZzZW5kZXJsZWRnZXIuY29tJTJGYXJ0aWNsZXMlMkZ3aGF0LWRtYXJjLWFjdHVhbGx5LXByb3RlY3RzLXlvdS1mcm9tJTdDV2hhdCUyMERNQVJDJTIwUHJvdGVjdHMlMjBZb3UlMjBGcm9tJTJDJTIwYW5kJTIwV2hhdCUyMEl0JTIwRG9lcyUyME5vdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTUzMzYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMDklM0EyOSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "pubDate": "Mon, 03 Aug 2026 09:29:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29tcHV0ZXJ3ZWVrbHkuY29tJTJGbmV3cyUyRjM2NjY0NjcyMSUyRk1Qcy1kZW1hbmQtYW5zd2Vycy1vbi1GdWppdHN1cy1pbmNsdXNpb24taW4tbHVjcmF0aXZlLWZyYW1ld29ya3MlN0NodHRwcyUzQSUyRiUyRnd3dy5jb21wdXRlcndlZWtseS5jb20lMkZuZXdzJTJGMzY2NjQ2NzIxJTJGTVBzLWRlbWFuZC1hbnN3ZXJzLW9uLUZ1aml0c3VzLWluY2x1c2lvbi1pbi1sdWNyYXRpdmUtZnJhbWV3b3JrcyU3Q01QcyUyMGRlbWFuZCUyMGFuc3dlcnMlMjBvbiUyMEZ1aml0c3UncyUyMGluY2x1c2lvbiUyMGluJTIwbHVjcmF0aXZlJTIwZnJhbWV3b3JrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTUzMzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMDklM0EyNSUzQTE1JTIwJTJCMDAwMA",
+      "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+      "pubDate": "Mon, 03 Aug 2026 09:25:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9oYW1lZC0tYWJkZWwtbWFrc291ZCUyRnBpc2lndWFyZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1vaGFtZWQtLWFiZGVsLW1ha3NvdWQlMkZwaXNpZ3VhcmQlN0NQSVNJR3VhcmQlM0ElMjBQcm90ZWN0JTIweW91ciUyMHBlcnNvbmFsJTIwYW5kJTIwc2Vuc2l0aXZlJTIwaW5mbyUyMHdoZW4lMjB5b3UlMjBjaGF0JTIwd2l0aCUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTMwMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAwOCUzQTU0JTNBMDAlMjAlMkIwMDAw",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "pubDate": "Mon, 03 Aug 2026 08:54:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnBvcG92LmNvbSUyRjIwMTIlMkYwNiUyRjE1JTJGVGhlLXRydWUtcG93ZXItb2YtcmVndWxhci1leHByZXNzaW9ucy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnBvcG92LmNvbSUyRjIwMTIlMkYwNiUyRjE1JTJGVGhlLXRydWUtcG93ZXItb2YtcmVndWxhci1leHByZXNzaW9ucy5odG1sJTdDVGhlJTIwdHJ1ZSUyMHBvd2VyJTIwb2YlMjByZWd1bGFyJTIwZXhwcmVzc2lvbnMlMjAoMjAxMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1Mjk3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA4JTNBNDclM0EyMyUyMCUyQjAwMDA",
+      "title": "The true power of regular expressions (2012)",
+      "pubDate": "Mon, 03 Aug 2026 08:47:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNib3guZGV2JTJGYmxvZyUyRnVuaWZpLXBwcG9lLWhhbGYtYnJpZGdlLWFjY2VsZXJhdGlvbiU3Q2h0dHBzJTNBJTJGJTJGYXJjYm94LmRldiUyRmJsb2clMkZ1bmlmaS1wcHBvZS1oYWxmLWJyaWRnZS1hY2NlbGVyYXRpb24lN0NTaG93JTIwSE4lM0ElMjBXZSUyMEZpeGVkJTIwVW5pRmkncyUyMFNsb3clMjBQUFBvRSUyMFBlcmZvcm1hbmNlJTIwd2l0aCUyMFBQUG9FJTIwSGFsZi1CcmlkZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1Mjg3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA4JTNBMzQlM0EyNCUyMCUyQjAwMDA",
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "pubDate": "Mon, 03 Aug 2026 08:34:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFuZXN0cmVldCUyRmJvbnNhaSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmphbmVzdHJlZXQlMkZib25zYWklN0NCb25zYWklM0ElMjBKYW5lc3RyZWV0J3MlMjBVSSUyMExpYnJhcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1Mjg0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA4JTNBMjklM0E1NyUyMCUyQjAwMDA",
+      "title": "Bonsai: Janestreet's UI Library",
+      "pubDate": "Mon, 03 Aug 2026 08:29:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvY3RhbmVqcy5kZXYlN0NodHRwcyUzQSUyRiUyRm9jdGFuZWpzLmRldiUyRiU3Q09jdGFuZSUyMCVFMiU4MCU5MyUyMFJlYWN0J3MlMjBwcm9ncmFtbWluZyUyMG1vZGVsJTJDJTIwY29tcGlsZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1MjY0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA4JTNBMDQlM0EwNCUyMCUyQjAwMDA",
+      "title": "Octane – React's programming model, compiled",
+      "pubDate": "Mon, 03 Aug 2026 08:04:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5ZWdnZS5haSUyRmVzc2F5cyUyRnRoZS1zaGFwZS1vZi10aGluZ3MtdG8tY29tZSUyRiU3Q2h0dHBzJTNBJTJGJTJGeWVnZ2UuYWklMkZlc3NheXMlMkZ0aGUtc2hhcGUtb2YtdGhpbmdzLXRvLWNvbWUlMkYlN0NUaGUlMjBTaGFwZSUyMG9mJTIwVGhpbmdzJTIwdG8lMjBDb21lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTIzMTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAwNyUzQTIyJTNBMjclMjAlMkIwMDAw",
+      "title": "The Shape of Things to Come",
+      "pubDate": "Mon, 03 Aug 2026 07:22:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnVzdC1sYW5nJTJGcnVzdC1wcm9qZWN0LWdvYWxzJTJGYmxvYiUyRm1haW4lMkZzcmMlMkYyMDI2JTJGbW92ZS10cmFpdC5tZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJ1c3QtbGFuZyUyRnJ1c3QtcHJvamVjdC1nb2FscyUyRmJsb2IlMkZtYWluJTJGc3JjJTJGMjAyNiUyRm1vdmUtdHJhaXQubWQlN0NSdXN0JTIwcHJvamVjdCUyMGdvYWxzJTNBJTIwSW1tb2JpbGUlMjB0eXBlcyUyMGFuZCUyMGd1YXJhbnRlZWQlMjBkZXN0cnVjdG9ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTUyMDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMDYlM0E0MiUzQTAwJTIwJTJCMDAwMA",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "pubDate": "Mon, 03 Aug 2026 06:42:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncnVobi5tZSUyRmJsb2clMkYyMDI2LTA4LTAzJTJGJTdDaHR0cHMlM0ElMkYlMkZncnVobi5tZSUyRmJsb2clMkYyMDI2LTA4LTAzJTJGJTdDRG9uJ3QlMjBiZSUyMGElMjBtZWF0JTIwcHJveHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1MTkzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA2JTNBMjglM0EwMSUyMCUyQjAwMDA",
+      "title": "Don't be a meat proxy",
+      "pubDate": "Mon, 03 Aug 2026 06:28:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW1lcmdpbmd0cmFqZWN0b3JpZXMuY29tJTJGbGglMkZzaXR1YXRpb25hbC1hd2FyZW5lc3MtYmlnZ2VyLXBpY3R1cmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5lbWVyZ2luZ3RyYWplY3Rvcmllcy5jb20lMkZsaCUyRnNpdHVhdGlvbmFsLWF3YXJlbmVzcy1iaWdnZXItcGljdHVyZSUyRiU3Q1NpdHVhdGlvbmFsJTIwQXdhcmVuZXNzJTIwYW5kJTIwdGhlJTIwSW1wZW5kaW5nJTIwU3RvY2slMjBNYXJrZXQlMjBWb2xhdGlsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTE4NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAwNiUzQTE3JTNBNTMlMjAlMkIwMDAw",
+      "title": "Situational Awareness and the Impending Stock Market Volatility",
+      "pubDate": "Mon, 03 Aug 2026 06:17:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }
   ]
