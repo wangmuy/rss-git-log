@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-31",
     "newestItemDate": "2026-07-31",
-    "itemCount": 48,
-    "generatedAt": "2026-08-02T17:27:02.712Z"
+    "itemCount": 53,
+    "generatedAt": "2026-08-03T04:00:26.108Z"
   },
   "items": [
     {
@@ -294,6 +294,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsZXR0ZXJmb3JtYXJjaGl2ZS5vcmclMkZuZXdzJTJGbWlsd2F1a2VlLXRyYW5zaXQtcGFzc2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZsZXR0ZXJmb3JtYXJjaGl2ZS5vcmclMkZuZXdzJTJGbWlsd2F1a2VlLXRyYW5zaXQtcGFzc2VzJTJGJTdDV2hlbiUyMHRyYW5zaXQlMjBwYXNzZXMlMjB3ZXJlJTIwZGVzaWduZWQlMjBieSUyMGhhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMzAwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzglM0EwNCUyMCUyQjAwMDA",
       "title": "When transit passes were designed by hand",
       "pubDate": "Fri, 31 Jul 2026 13:38:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZWRnZWhvZ3Jldmlldy5jb20lMkZ3ZWItZmVhdHVyZXMlMkZ0aHIlMkZwb3N0cyUyRnJlYWQtdGhlLW5vdmVscy1hbmQtZm9yZ2V0LWV2ZXJ5dGhpbmctZWxzZSU3Q2h0dHBzJTNBJTJGJTJGaGVkZ2Vob2dyZXZpZXcuY29tJTJGd2ViLWZlYXR1cmVzJTJGdGhyJTJGcG9zdHMlMkZyZWFkLXRoZS1ub3ZlbHMtYW5kLWZvcmdldC1ldmVyeXRoaW5nLWVsc2UlN0NSZWFkJTIwdGhlJTIwbm92ZWxzJTIwYW5kJTIwZm9yZ2V0JTIwZXZlcnl0aGluZyUyMGVsc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyOTY3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDIzJTNBMzElM0EyOCUyMCUyQjAwMDA",
+      "title": "Read the novels and forget everything else",
+      "pubDate": "Fri, 31 Jul 2026 23:31:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb2NhbGFpLmlvJTJGYmxvZyUyRndoeS13ZS13cml0ZS1vdXItb3duLWVuZ2luZXMlMkYlN0NodHRwcyUzQSUyRiUyRmxvY2FsYWkuaW8lMkZibG9nJTJGd2h5LXdlLXdyaXRlLW91ci1vd24tZW5naW5lcyUyRiU3Q1doeSUyMHdlJTIwd3JpdGUlMjBvdXIlMjBvd24lMjBDJTIwYW5kJTIwQyUyQiUyQiUyMGluZmVyZW5jZSUyMGVuZ2luZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNTA2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE2JTNBMTclM0EwNCUyMCUyQjAwMDA",
+      "title": "Why we write our own C and C++ inference engines",
+      "pubDate": "Fri, 31 Jul 2026 16:17:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXR0ZXJmb3JtYXJjaGl2ZS5vcmclMkZuZXdzJTJGbWlsd2F1a2VlLXRyYW5zaXQtcGFzc2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZsZXR0ZXJmb3JtYXJjaGl2ZS5vcmclMkZuZXdzJTJGbWlsd2F1a2VlLXRyYW5zaXQtcGFzc2VzJTJGJTdDV2hlbiUyMHRyYW5zaXQlMjBwYXNzZXMlMjB3ZXJlJTIwZGVzaWduZWQlMjBieSUyMGhhbmQlMjAoMjAyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyMzAwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDEzJTNBMzglM0EwNCUyMCUyQjAwMDA",
+      "title": "When transit passes were designed by hand (2022)",
+      "pubDate": "Fri, 31 Jul 2026 13:38:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXR0YmV0b24uY29tJTJGYmxvZyUyRmJpdG5ldC02NTAyLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1hdHRiZXRvbi5jb20lMkZibG9nJTJGYml0bmV0LTY1MDIuaHRtbCU3Q0F1dG9yZWdyZXNzaXZlJTIwTGFuZ3VhZ2UlMjBNb2RlbCUyMG9uJTIwdGhlJTIwNjUwMiUyMFByb2Nlc3NvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTIyNjU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTMlM0EwOCUzQTMwJTIwJTJCMDAwMA",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "pubDate": "Fri, 31 Jul 2026 13:08:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYW5kd3JpdHRlbi5ibG9nJTJGJTdDaHR0cHMlM0ElMkYlMkZoYW5kd3JpdHRlbi5ibG9nJTJGJTdDU2hvdyUyMEhOJTNBJTIwQSUyMEhhbmR3cml0dGVuJTIwQmxvZ2dpbmclMjBQbGF0Zm9ybSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE5NzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDYlM0EzNyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "pubDate": "Fri, 31 Jul 2026 06:37:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
     }
   ]
