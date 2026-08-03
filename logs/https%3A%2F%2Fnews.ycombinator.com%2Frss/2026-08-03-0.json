@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 21,
-    "generatedAt": "2026-08-03T11:48:51.262Z"
+    "itemCount": 37,
+    "generatedAt": "2026-08-03T18:12:00.991Z"
   },
   "items": [
     {
@@ -132,6 +132,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW1lcmdpbmd0cmFqZWN0b3JpZXMuY29tJTJGbGglMkZzaXR1YXRpb25hbC1hd2FyZW5lc3MtYmlnZ2VyLXBpY3R1cmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5lbWVyZ2luZ3RyYWplY3Rvcmllcy5jb20lMkZsaCUyRnNpdHVhdGlvbmFsLWF3YXJlbmVzcy1iaWdnZXItcGljdHVyZSUyRiU3Q1NpdHVhdGlvbmFsJTIwQXdhcmVuZXNzJTIwYW5kJTIwdGhlJTIwSW1wZW5kaW5nJTIwU3RvY2slMjBNYXJrZXQlMjBWb2xhdGlsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTE4NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAwNiUzQTE3JTNBNTMlMjAlMkIwMDAw",
       "title": "Situational Awareness and the Impending Stock Market Volatility",
       "pubDate": "Mon, 03 Aug 2026 06:17:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoY2tlci5uZXdzJTJGJTNGdmlldyUzRGZyb250cGFnZSUyNmFpJTNEZXhjbHVkZSU3Q2h0dHBzJTNBJTJGJTJGaGNrZXIubmV3cyUyRiUzRnZpZXclM0Rmcm9udHBhZ2UlMjZhaSUzRGV4Y2x1ZGUlN0NTaG93JTIwSE4lM0ElMjBIYWNrZXIlMjBOZXdzJTIwd2l0aCUyMEFJJTIwc3RvcmllcyUyMGZpbHRlcmVkJTIwb3V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTkwMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNyUzQTM5JTNBNTYlMjAlMkIwMDAw",
+      "title": "Show HN: Hacker News with AI stories filtered out",
+      "pubDate": "Mon, 03 Aug 2026 17:39:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGFuZ2Vsb2cuY29tcGxldGUub3JnJTJGYXJjaGl2ZXMlMkY0NDQ1Ni1jZWxlYnJhdGluZy00NS15ZWFycy1vZi1rZXJtaXQtd2l0aC10aGUtZmlyc3QtbmV3LWMta2VybWl0LXJlbGVhc2UtaW4tMTUteWVhcnMtYW5kLXdvcmtpbmctd2l0aC1hLWRlY2FkZXMtb2xkLWMtY29kZWJhc2UlN0NodHRwcyUzQSUyRiUyRmNoYW5nZWxvZy5jb21wbGV0ZS5vcmclMkZhcmNoaXZlcyUyRjQ0NDU2LWNlbGVicmF0aW5nLTQ1LXllYXJzLW9mLWtlcm1pdC13aXRoLXRoZS1maXJzdC1uZXctYy1rZXJtaXQtcmVsZWFzZS1pbi0xNS15ZWFycy1hbmQtd29ya2luZy13aXRoLWEtZGVjYWRlcy1vbGQtYy1jb2RlYmFzZSU3Q0NlbGVicmF0aW5nJTIwNDUlMjBZZWFycyUyMG9mJTIwS2VybWl0JTIwd2l0aCUyMHRoZSUyMEZpcnN0JTIwTmV3JTIwQy1LZXJtaXQlMjBSZWxlYXNlJTIwaW4lMjAxNSUyMFllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTg0NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNyUzQTAyJTNBMTAlMjAlMkIwMDAw",
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "pubDate": "Mon, 03 Aug 2026 17:02:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWtlLmNvbXB1dGVyJTJGYmxvZyUyRmhlbHAtd2FudGVkJTJGJTdDaHR0cHMlM0ElMkYlMkZsYWtlLmNvbXB1dGVyJTJGYmxvZyUyRmhlbHAtd2FudGVkJTJGJTdDSGVscCUyMFdhbnRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU4MjE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTYlM0E0NiUzQTQxJTIwJTJCMDAwMA",
+      "title": "Help Wanted",
+      "pubDate": "Mon, 03 Aug 2026 16:46:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWlrZUx1dTk5JTJGc2VhcnhuZy1ydXN0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWlrZUx1dTk5JTJGc2VhcnhuZy1ydXN0JTdDU2VhclhORyUyMGluJTIwUnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU4MTQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTYlM0E0MSUzQTQwJTIwJTJCMDAwMA",
+      "title": "SearXNG in Rust",
+      "pubDate": "Mon, 03 Aug 2026 16:41:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3BsaXRlLnNoJTdDaHR0cHMlM0ElMkYlMkZob3BsaXRlLnNoJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBIb3BsaXRlJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMEVmZm9ydGxlc3NseSUyMGRlcGxveSUyMGNsb3VkJTIwY29kaW5nJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTc5OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTMyJTNBMDYlMjAlMkIwMDAw",
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "pubDate": "Mon, 03 Aug 2026 16:32:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZ0ZW4tYWR2YW5jZXMtaW4tbWF0aGVtYXRpY3MlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRnRlbi1hZHZhbmNlcy1pbi1tYXRoZW1hdGljcyUyRiU3Q1RlbiUyMGFkdmFuY2VzJTIwaW4lMjBtYXRoZW1hdGljcyUyMGFuZCUyMHRoZW9yZXRpY2FsJTIwY29tcHV0ZXIlMjBzY2llbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTc5MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTI3JTNBMTIlMjAlMkIwMDAw",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "pubDate": "Mon, 03 Aug 2026 16:27:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcm1hdHVyZS50ZWNoJTJGJTdDaHR0cHMlM0ElMkYlMkZhcm1hdHVyZS50ZWNoJTJGJTdDU2hvdyUyMEhOJTNBJTIwUHJvZHVjdCUyMGFuYWx5dGljcyUyMChhbmQlMjBldmFscyklMjBmb3IlMjBhZ2VudCUyMHNlc3Npb25zJTIwb24lMjB5b3VyJTIwTUNQJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTc4MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTE3JTNBNTklMjAlMkIwMDAw",
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "pubDate": "Mon, 03 Aug 2026 16:17:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3RlLmNvbSUyRmhpcm9yb2hpMDMlMkZuJTJGbjA0N2E4YzVmN2Y4YiUzRmhsJTNEZW4lN0NodHRwcyUzQSUyRiUyRm5vdGUuY29tJTJGaGlyb3JvaGkwMyUyRm4lMkZuMDQ3YThjNWY3ZjhiJTNGaGwlM0RlbiU3Q0V4cGxhbmF0aW9uJTIwb2YlMjBJTlQ4JTIwQ29udlJvdCUyMChGUDglMjBpcyUyMG5vJTIwbG9uZ2VyJTIwbmVlZGVkKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU3NjQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTYlM0EwNyUzQTA5JTIwJTJCMDAwMA",
+      "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+      "pubDate": "Mon, 03 Aug 2026 16:07:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFybGVyYmxvZy5jb20lMkZjYXNlLW5ld3MlMkZ0YXlsb3ItZmFybXMtaGFzLXJld3JpdHRlbi1pdHMtY3ljbG9zcG9yYS1zdGF0ZW1lbnQtZm91ci10aW1lcy1pbi1zaXh0ZWVuLWRheXMtaXQtc3RpbGwtaGFzLW5vdC1zYWlkLXdoYXQtY2hhbmdlZC1hdC10aGF0LXBsYW50LWFmdGVyLTIwMTMtb3Itd2h5LXR3by10aG91c2FuZC1uZWdhdGl2ZS10ZXN0cy1zaG91bGQtbWVhbi1hbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hcmxlcmJsb2cuY29tJTJGY2FzZS1uZXdzJTJGdGF5bG9yLWZhcm1zLWhhcy1yZXdyaXR0ZW4taXRzLWN5Y2xvc3BvcmEtc3RhdGVtZW50LWZvdXItdGltZXMtaW4tc2l4dGVlbi1kYXlzLWl0LXN0aWxsLWhhcy1ub3Qtc2FpZC13aGF0LWNoYW5nZWQtYXQtdGhhdC1wbGFudC1hZnRlci0yMDEzLW9yLXdoeS10d28tdGhvdXNhbmQtbmVnYXRpdmUtdGVzdHMtc2hvdWxkLW1lYW4tYW4lMkYlN0NUYXlsb3IlMjBGYXJtcyUyMGhhcyUyMHJld3JpdHRlbiUyMGl0cyUyMGN5Y2xvc3BvcmElMjBzdGF0ZW1lbnQlMjBmb3VyJTIwdGltZXMlMjBpbiUyMHNpeHRlZW4lMjBkYXlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTcxMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTMxJTNBMzIlMjAlMkIwMDAw",
+      "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+      "pubDate": "Mon, 03 Aug 2026 15:31:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmV4ZS5kZXYlMkZkZXZ0b29scy1tdXN0LWJlLW9wZW4tc291cmNlJTdDaHR0cHMlM0ElMkYlMkZibG9nLmV4ZS5kZXYlMkZkZXZ0b29scy1tdXN0LWJlLW9wZW4tc291cmNlJTdDRGV2dG9vbHMlMjBtdXN0JTIwYmUlMjBvcGVuJTIwc291cmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTYxMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTE1JTNBNDclMjAlMkIwMDAw",
+      "title": "Devtools must be open source",
+      "pubDate": "Mon, 03 Aug 2026 14:15:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZhbmR5LXBhdmxvLWpvaW5zLWNsaWNraG91c2UlN0NodHRwcyUzQSUyRiUyRmNsaWNraG91c2UuY29tJTJGYmxvZyUyRmFuZHktcGF2bG8tam9pbnMtY2xpY2tob3VzZSU3Q0FuZHklMjBQYXZsbyUyMGpvaW5zJTIwQ2xpY2tIb3VzZSUyMHRvJTIwZXN0YWJsaXNoJTIwQ2xpY2tIb3VzZSUyMExhYnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1NjAxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDE0JTNBMDklM0EwMCUyMCUyQjAwMDA",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "pubDate": "Mon, 03 Aug 2026 14:09:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvbWZ5Lm9yZyUyRnAlMkZtaW5pbWF4LWgzLWRheS0wLXN1cHBvcnQtaW4tY29tZnl1aSU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jb21meS5vcmclMkZwJTJGbWluaW1heC1oMy1kYXktMC1zdXBwb3J0LWluLWNvbWZ5dWklN0NNaW5pTWF4JTIwSDMlMjBEYXktMCUyMFN1cHBvcnQlMjBpbiUyMENvbWZ5VUklM0ElMjBPcGVuJTIwV2VpZ2h0cyUyQyUyME5hdGl2ZSUyMEF1ZGlvJTJDJTIwYW5kJTIwMkslMjBWaWRlbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU1NjI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTMlM0EzNCUzQTQzJTIwJTJCMDAwMA",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "pubDate": "Mon, 03 Aug 2026 13:34:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbWFyY2d1YXJkLmlvJTJGYmxvZyUyRnNwZi1yZWNvcmQtc3ludGF4JTJGJTdDaHR0cHMlM0ElMkYlMkZkbWFyY2d1YXJkLmlvJTJGYmxvZyUyRnNwZi1yZWNvcmQtc3ludGF4JTJGJTdDU1BGJTIwUmVjb3JkJTIwU3ludGF4JTNBJTIwTWVjaGFuaXNtcyUyQyUyMFF1YWxpZmllcnMlMkMlMjBNb2RpZmllcnMlMkMlMjBhbmQlMjBNYWNyb3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1NTYyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDEzJTNBMzQlM0EyNSUyMCUyQjAwMDA",
+      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+      "pubDate": "Mon, 03 Aug 2026 13:34:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50ZWxsaW5ld3MuY29tJTJGd2luZC1hbmQtc29sYXItb3ZlcnRha2UtZm9zc2lsLWZ1ZWxzLWluLWdlcm1hbnktZm9yLXRoZS1maXJzdC10aW1lLWV2ZXItNDU4Mzc5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaW50ZWxsaW5ld3MuY29tJTJGd2luZC1hbmQtc29sYXItb3ZlcnRha2UtZm9zc2lsLWZ1ZWxzLWluLWdlcm1hbnktZm9yLXRoZS1maXJzdC10aW1lLWV2ZXItNDU4Mzc5JTJGJTdDV2luZCUyMGFuZCUyMHNvbGFyJTIwb3ZlcnRha2UlMjBmb3NzaWwlMjBmdWVscyUyMGluJTIwR2VybWFueSUyMGZvciUyMHRoZSUyMGZpcnN0JTIwdGltZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU1MzU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTMlM0ExMyUzQTAyJTIwJTJCMDAwMA",
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "pubDate": "Mon, 03 Aug 2026 13:13:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5qZnJvZy5jb20lMkZwb3N0JTJGc3FsaXRlLWNyaXRpY2FsLWN2ZXMtb3ItbGxtLXNsb3BzJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5qZnJvZy5jb20lMkZwb3N0JTJGc3FsaXRlLWNyaXRpY2FsLWN2ZXMtb3ItbGxtLXNsb3BzJTJGJTdDU1FMaXRlJTIwQ3JpdGljYWwlMjBDVkVzJTIwb3IlMjBMTE0lMjBTbG9wJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTQzMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxMSUzQTI4JTNBNTQlMjAlMkIwMDAw",
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "pubDate": "Mon, 03 Aug 2026 11:28:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHlvZ2F2aW4lMkZhaXJsbG0lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZseW9nYXZpbiUyRmFpcmxsbSU3Q0FpckxMTSUyMDcwQiUyMGluZmVyZW5jZSUyMHdpdGglMjBzaW5nbGUlMjA0R0IlMjBHUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1NDIyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDExJTNBMTUlM0E0OCUyMCUyQjAwMDA",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "pubDate": "Mon, 03 Aug 2026 11:15:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }
   ]

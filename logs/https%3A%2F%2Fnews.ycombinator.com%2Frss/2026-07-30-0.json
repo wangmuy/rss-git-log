@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-30",
     "newestItemDate": "2026-07-30",
-    "itemCount": 57,
-    "generatedAt": "2026-08-03T11:48:51.263Z"
+    "itemCount": 59,
+    "generatedAt": "2026-08-03T18:12:00.992Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ6ODAubWUlMkZibG9nJTJGdHNjLTIwMjYtanVseSUyRiU3Q2h0dHBzJTNBJTJGJTJGejgwLm1lJTJGYmxvZyUyRnRzYy0yMDI2LWp1bHklMkYlN0NUcmFpbiUyMFNpbXVsYXRvciUyMENvbnRyb2xsZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExNTkzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDIxJTNBMTglM0EzOSUyMCUyQjAwMDA",
       "title": "Train Simulator Controller",
       "pubDate": "Thu, 30 Jul 2026 21:18:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29sbGFib3JhLmNvbSUyRm5ld3MtYW5kLWJsb2clMkZuZXdzLWFuZC1ldmVudHMlMkZrcmFpZC1pcy1hLW5vdy1hLXJlYWwtY29tcGlsZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbGxhYm9yYS5jb20lMkZuZXdzLWFuZC1ibG9nJTJGbmV3cy1hbmQtZXZlbnRzJTJGa3JhaWQtaXMtYS1ub3ctYS1yZWFsLWNvbXBpbGVyLmh0bWwlN0NLcmFpZCUyMGlzJTIwYSUyMG5vdyUyMGElMjByZWFsJTIwY29tcGlsZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTExMDkxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDE0JTNBNTIlM0EwMyUyMCUyQjAwMDA",
+      "title": "Kraid is a now a real compiler",
+      "pubDate": "Thu, 30 Jul 2026 14:52:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrdHRuci5uZXQlMkZibG9nJTJGY3BwLWZsb2F0LXRvLWludC1jb252ZXJzaW9uLXVuZGVmaW5lZC1iZWhhdmlvciUyRiU3Q2h0dHBzJTNBJTJGJTJGa3R0bnIubmV0JTJGYmxvZyUyRmNwcC1mbG9hdC10by1pbnQtY29udmVyc2lvbi11bmRlZmluZWQtYmVoYXZpb3IlMkYlN0NDJTJCJTJCJTIwZmxvYXQtdG8taW50JTIwY29udmVyc2lvbiUyMGNhbiUyMGJlJTIwdW5kZWZpbmVkJTIwYmVoYXZpb3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEwNzg4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDMwJTIwSnVsJTIwMjAyNiUyMDA5JTNBNTklM0ExMSUyMCUyQjAwMDA",
+      "title": "C++ float-to-int conversion can be undefined behavior",
+      "pubDate": "Thu, 30 Jul 2026 09:59:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
     }
   ]

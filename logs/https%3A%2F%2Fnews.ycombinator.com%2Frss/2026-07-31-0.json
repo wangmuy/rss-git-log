@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-31",
     "newestItemDate": "2026-07-31",
-    "itemCount": 53,
-    "generatedAt": "2026-08-03T04:00:26.108Z"
+    "itemCount": 55,
+    "generatedAt": "2026-08-03T18:12:00.992Z"
   },
   "items": [
     {
@@ -324,6 +324,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYW5kd3JpdHRlbi5ibG9nJTJGJTdDaHR0cHMlM0ElMkYlMkZoYW5kd3JpdHRlbi5ibG9nJTJGJTdDU2hvdyUyMEhOJTNBJTIwQSUyMEhhbmR3cml0dGVuJTIwQmxvZ2dpbmclMjBQbGF0Zm9ybSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE5NzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDYlM0EzNyUzQTQyJTIwJTJCMDAwMA",
       "title": "Show HN: A Handwritten Blogging Platform",
       "pubDate": "Fri, 31 Jul 2026 06:37:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWZlY3Rvci5jb20lMkZhYmFuZG9uZWQtZmlzaC1zYXVjZS1jYW5hZGEtaW50ZXJ2aWV3JTdDaHR0cHMlM0ElMkYlMkZkZWZlY3Rvci5jb20lMkZhYmFuZG9uZWQtZmlzaC1zYXVjZS1jYW5hZGEtaW50ZXJ2aWV3JTdDVGhlJTIwQWJhbmRvbmVkJTIwRmlzaCUyMFNhdWNlJTIwVGVycm9yaXppbmclMjBhJTIwU21hbGwlMjBDYW5hZGlhbiUyMFRvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNTE2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE2JTNBMjMlM0ExMCUyMCUyQjAwMDA",
+      "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+      "pubDate": "Fri, 31 Jul 2026 16:23:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGbWFzc2l2ZWx5LXBhcmFsbGVsLXBvc3RncmVzLWJhY2t1cHMlN0NodHRwcyUzQSUyRiUyRnBsYW5ldHNjYWxlLmNvbSUyRmJsb2clMkZtYXNzaXZlbHktcGFyYWxsZWwtcG9zdGdyZXMtYmFja3VwcyU3Q01hc3NpdmVseSUyMFBhcmFsbGVsJTIwUG9zdGdyZXMlMjBCYWNrdXBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjQyMTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxNSUzQTE3JTNBMTglMjAlMkIwMDAw",
+      "title": "Massively Parallel Postgres Backups",
+      "pubDate": "Fri, 31 Jul 2026 15:17:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
     }
   ]

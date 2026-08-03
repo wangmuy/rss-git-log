@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 42,
-    "generatedAt": "2026-08-03T04:00:26.108Z"
+    "itemCount": 43,
+    "generatedAt": "2026-08-03T18:12:00.992Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucnViZW5lcmQuYXUlMkZ0aGUtbXl0aC1vZi1zbm93LWxlb3BhcmQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ydWJlbmVyZC5hdSUyRnRoZS1teXRoLW9mLXNub3ctbGVvcGFyZCUyRiU3Q1RoZSUyMG15dGglMjBvZiUyMFNub3clMjBMZW9wYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDY5NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAxOCUzQTIxJTNBNDUlMjAlMkIwMDAw",
       "title": "The myth of Snow Leopard",
       "pubDate": "Sun, 02 Aug 2026 18:21:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdpbmdlcmJlYXJkbWFuLmNvbSUyRjIwMjYlMkYwOCUyRjAyJTJGZ2FtZXMtYXQtdGhlLXByZXNzLW9mLWEtYnV0dG9uLXRoZS1yaXAtby1ib3QlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ2luZ2VyYmVhcmRtYW4uY29tJTJGMjAyNiUyRjA4JTJGMDIlMkZnYW1lcy1hdC10aGUtcHJlc3Mtb2YtYS1idXR0b24tdGhlLXJpcC1vLWJvdCUyRiU3Q0dhbWVzJTIwYXQlMjB0aGUlMjBwcmVzcyUyMG9mJTIwYSUyMGJ1dHRvbiUzQSUyMFRoZSUyMFJpcC1PLUJvdCUyMCgxOTg5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ3OTA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMjAlM0ExOSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Games at the press of a button: The Rip-O-Bot (1989)",
+      "pubDate": "Sun, 02 Aug 2026 20:19:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]
