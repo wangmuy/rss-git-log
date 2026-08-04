@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-01",
     "newestItemDate": "2026-08-01",
-    "itemCount": 46,
-    "generatedAt": "2026-08-04T10:59:13.496Z"
+    "itemCount": 48,
+    "generatedAt": "2026-08-04T18:08:17.800Z"
   },
   "items": [
     {
@@ -282,6 +282,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYzMSUyRndvcmxkJTJGYW1lcmljYXMlMkZhbWF6b24tYXJjaGFlb2xvZ3ktZ2VvZ2x5cGhzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwNyUyRjMxJTJGd29ybGQlMkZhbWVyaWNhcyUyRmFtYXpvbi1hcmNoYWVvbG9neS1nZW9nbHlwaHMuaHRtbCU3Q0FyY2hhZW9sb2dpc3RzJTIwRmluZCUyMEFuY2llbnQlMjBHbHlwaHMlMjBpbiUyMHRoZSUyMEFtYXpvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTM1MDA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDElMjBBdWclMjAyMDI2JTIwMTQlM0E1NSUzQTMyJTIwJTJCMDAwMA",
       "title": "Archaeologists Find Ancient Glyphs in the Amazon",
       "pubDate": "Sat, 01 Aug 2026 14:55:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnlvc3Nhcmlhbi5uZXQlMkYyMDE1JTJGMDYlMkYwOSUyRkRhdGVzLVRoYXQtRG9udC1FeGlzdCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy55b3NzYXJpYW4ubmV0JTJGMjAxNSUyRjA2JTJGMDklMkZEYXRlcy1UaGF0LURvbnQtRXhpc3QlN0NEYXRlcyUyMFRoYXQlMjBEb24ndCUyMEV4aXN0JTIwKDIwMTUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzYzNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTE4JTNBNDglMjAlMkIwMDAw",
+      "title": "Dates That Don't Exist (2015)",
+      "pubDate": "Sat, 01 Aug 2026 17:18:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMTklMkYwNyUyRmxvb2tpbmctaW5zaWRlLTE5NzBzLXByb20tY2hpcC10aGF0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5yaWdodG8uY29tJTJGMjAxOSUyRjA3JTJGbG9va2luZy1pbnNpZGUtMTk3MHMtcHJvbS1jaGlwLXRoYXQuaHRtbCU3Q0xvb2tpbmclMjBpbnNpZGUlMjBhJTIwMTk3MHMlMjBQUk9NJTIwY2hpcCUyMHRoYXQlMjBzdG9yZXMlMjBkYXRhJTIwaW4lMjBtaWNyb3Njb3BpYyUyMGZ1c2VzJTIwKDIwMTkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzAxMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAwMCUzQTUzJTNBNDIlMjAlMkIwMDAw",
+      "title": "Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019)",
+      "pubDate": "Sat, 01 Aug 2026 00:53:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
     }
   ]

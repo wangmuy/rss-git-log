@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 49,
-    "generatedAt": "2026-08-04T03:43:10.656Z"
+    "itemCount": 50,
+    "generatedAt": "2026-08-04T18:08:17.799Z"
   },
   "items": [
     {
@@ -300,6 +300,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtZXJ0YnVsYW4uY29tJTJGbW9yZS1nZXJtYW4tdGhhbi1tYW55LWdlcm1hbnMlMkYlN0NodHRwcyUzQSUyRiUyRm1lcnRidWxhbi5jb20lMkZtb3JlLWdlcm1hbi10aGFuLW1hbnktZ2VybWFucyUyRiU3Q01vcmUlMjBHZXJtYW4lMjB0aGFuJTIwbWFueSUyMEdlcm1hbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1MTczNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA2JTNBMDAlM0ExNCUyMCUyQjAwMDA",
       "title": "More German than many Germans",
       "pubDate": "Mon, 03 Aug 2026 06:00:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm9tZ21vZy5uZXQlMkZwb3N0JTJGcmVidWlsZGluZy13b3JkbGUtc3RhdHMtZnJvbS13aGF0c2FwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5vbWdtb2cubmV0JTJGcG9zdCUyRnJlYnVpbGRpbmctd29yZGxlLXN0YXRzLWZyb20td2hhdHNhcHAlMkYlN0NSZWJ1aWxkaW5nJTIwYW5kJTIwYW5hbHlzaW5nJTIwNCUyMHllYXJzJTIwb2YlMjBXb3JkbGUlMjBzdGF0cyUyMGZyb20lMjBXaGF0c0FwcCUyMGNoYXQlMjBsb2dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTY5NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTIwJTNBMTMlMjAlMkIwMDAw",
+      "title": "Rebuilding and analysing 4 years of Wordle stats from WhatsApp chat logs",
+      "pubDate": "Mon, 03 Aug 2026 15:20:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }
   ]
