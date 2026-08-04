@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-01",
     "newestItemDate": "2026-08-01",
-    "itemCount": 43,
-    "generatedAt": "2026-08-02T10:11:16.494Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-04T03:43:10.656Z"
   },
   "items": [
     {
@@ -264,6 +264,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjaHJpc21vcmdhbi5pbmZvJTJGYXRvbSUyNTNFcnNzJTdDaHR0cHMlM0ElMkYlMkZjaHJpc21vcmdhbi5pbmZvJTJGYXRvbSUyNTNFcnNzJTdDQXRvbSUyMGlzJTIwYmV0dGVyJTIwdGhhbiUyMFJTUyUyQyUyMGluJTIwd2F5cyUyMHRoYXQlMjBtYXR0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzODg5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDIyJTNBMDAlM0ExNiUyMCUyQjAwMDA",
       "title": "Atom is better than RSS, in ways that matter",
       "pubDate": "Sat, 01 Aug 2026 22:00:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYyMDBtcy50aGVub2RlYm9vay5jb20lN0NodHRwcyUzQSUyRiUyRjIwMG1zLnRoZW5vZGVib29rLmNvbSUyRiU3QzIwMCUyME1pbGxpc2Vjb25kcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTMyOTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDElMjBBdWclMjAyMDI2JTIwMTAlM0ExNyUzQTA2JTIwJTJCMDAwMA",
+      "title": "200 Milliseconds",
+      "pubDate": "Sat, 01 Aug 2026 10:17:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkJhdHRsZV9vZl90aGVfQmVhbXMlN0NodHRwcyUzQSUyRiUyRmVuLndpa2lwZWRpYS5vcmclMkZ3aWtpJTJGQmF0dGxlX29mX3RoZV9CZWFtcyU3Q0JhdHRsZSUyMG9mJTIwdGhlJTIwQmVhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzMTI1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDA1JTNBMTQlM0E1MSUyMCUyQjAwMDA",
+      "title": "Battle of the Beams",
+      "pubDate": "Sat, 01 Aug 2026 05:14:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
     }
   ]

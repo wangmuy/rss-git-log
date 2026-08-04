@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 37,
-    "generatedAt": "2026-08-03T18:12:00.991Z"
+    "itemCount": 49,
+    "generatedAt": "2026-08-04T03:43:10.656Z"
   },
   "items": [
     {
@@ -228,6 +228,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHlvZ2F2aW4lMkZhaXJsbG0lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZseW9nYXZpbiUyRmFpcmxsbSU3Q0FpckxMTSUyMDcwQiUyMGluZmVyZW5jZSUyMHdpdGglMjBzaW5nbGUlMjA0R0IlMjBHUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1NDIyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDExJTNBMTUlM0E0OCUyMCUyQjAwMDA",
       "title": "AirLLM 70B inference with single 4GB GPU",
       "pubDate": "Mon, 03 Aug 2026 11:15:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1c2Vycy53cGkuZWR1JTJGfnpyYnV0emtlJTJGRG9jcyUyRkJyYWRidXJ5U3RvcmllcygxKS5wZGYlN0NodHRwcyUzQSUyRiUyRnVzZXJzLndwaS5lZHUlMkZ+enJidXR6a2UlMkZEb2NzJTJGQnJhZGJ1cnlTdG9yaWVzKDEpLnBkZiU3Q1RoZXJlJTIwV2lsbCUyMENvbWUlMjBTb2Z0JTIwUmFpbnMlMjAoMTk1MCklMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE2MjY1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDIzJTNBMjQlM0E1MyUyMCUyQjAwMDA",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "pubDate": "Mon, 03 Aug 2026 23:24:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aXJ0dWFsbHlmdW4uY29tJTJGMjAyNiUyRjA4JTJGMDMlMkZ3aW5kb3dzLXhwLTIwMDItZm9yLXRoZS1pdGFuaXVtLXVuYnJpZGxlZC1yYWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZ2aXJ0dWFsbHlmdW4uY29tJTJGMjAyNiUyRjA4JTJGMDMlMkZ3aW5kb3dzLXhwLTIwMDItZm9yLXRoZS1pdGFuaXVtLXVuYnJpZGxlZC1yYWdlJTJGJTdDV2luZG93cyUyMFhQJTIwMjAwMiUyMGZvciUyMHRoZSUyMEl0YW5pdW0lM0ElMjBVbmJyaWRsZWQlMjByYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNjIwODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAyMiUzQTA0JTNBNDklMjAlMkIwMDAw",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "pubDate": "Mon, 03 Aug 2026 22:04:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidW1iZXJzaG9vdHNvZnQud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwNSUyRjMwJTJGengtc3BlY3RydW0tc3lzdGVtLXRvdXItdGV4dC1tb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZidW1iZXJzaG9vdHNvZnQud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwNSUyRjMwJTJGengtc3BlY3RydW0tc3lzdGVtLXRvdXItdGV4dC1tb2RlJTJGJTdDWlglMjBTcGVjdHJ1bSUyMFN5c3RlbSUyMFRvdXIlM0ElMjBUZXh0JTIwTW9kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTYxODAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMjElM0EzOSUzQTEyJTIwJTJCMDAwMA",
+      "title": "ZX Spectrum System Tour: Text Mode",
+      "pubDate": "Mon, 03 Aug 2026 21:39:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VhbmdvZWRlY2tlLmNvbSUyRmxsbXMtcmV3YXJkLWV4cGVydGlzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNlYW5nb2VkZWNrZS5jb20lMkZsbG1zLXJld2FyZC1leHBlcnRpc2UlMkYlN0NMTE1zJTIwcmV3YXJkJTIwZXhwZXJ0aXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNjE1MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAyMSUzQTEzJTNBNTMlMjAlMkIwMDAw",
+      "title": "LLMs reward expertise",
+      "pubDate": "Mon, 03 Aug 2026 21:13:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWNnaWxsLmNhJTJGb3NzJTJGYXJ0aWNsZSUyRmNyaXRpY2FsLXRoaW5raW5nJTJGZHVubmluZy1rcnVnZXItZWZmZWN0LXByb2JhYmx5LW5vdC1yZWFsJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWNnaWxsLmNhJTJGb3NzJTJGYXJ0aWNsZSUyRmNyaXRpY2FsLXRoaW5raW5nJTJGZHVubmluZy1rcnVnZXItZWZmZWN0LXByb2JhYmx5LW5vdC1yZWFsJTdDVGhlJTIwRHVubmluZy1LcnVnZXIlMjBlZmZlY3QlMjBtYXklMjBqdXN0JTIwYmUlMjBhJTIwZGF0YSUyMGFydGVmYWN0JTIwKDIwMjApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNjA0MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxOSUzQTM5JTNBMzQlMjAlMkIwMDAw",
+      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+      "pubDate": "Mon, 03 Aug 2026 19:39:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGU3dhZ1NvZnR3YXJlJTJGS2lzYWtDT0QlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZTd2FnU29mdHdhcmUlMkZLaXNha0NPRCU3Q0tpc2FrQ09EJTIwJUUyJTgwJTkzJTIwT3Blbi1zb3VyY2UlMjByZWltcGxlbWVudGF0aW9uJTIwb2YlMjBDYWxsJTIwb2YlMjBEdXR5JTIwNCUyME11bHRpcGxheWVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTk5NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxOCUzQTU4JTNBMDAlMjAlMkIwMDAw",
+      "title": "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer",
+      "pubDate": "Mon, 03 Aug 2026 18:58:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGc21hbGxlci1mYXN0ZXItc2FmZXItbW9kZWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGc21hbGxlci1mYXN0ZXItc2FmZXItbW9kZWxzJTJGJTdDU21hbGxlciUyQyUyMGZhc3RlciUyQyUyMHNhZmVyJTNBJTIwcnVubmluZyUyMEtpbWklMjBhbmQlMjBHTE0lMjBhdCUyMHNjYWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNTg1ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMyUyMEF1ZyUyMDIwMjYlMjAxNyUzQTA4JTNBNDYlMjAlMkIwMDAw",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "pubDate": "Mon, 03 Aug 2026 17:08:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbGVvbmlja3NvbjElMkZTd2lmdGxldCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmxlb25pY2tzb24xJTJGU3dpZnRsZXQlN0NTaG93JTIwSE4lM0ElMjBSdW4lMjBhbiUyMDgwQiUyMFF3ZW4lMjBpbiUyMDQuMyUyMEdCJTIwb2YlMjBSQU0lMjBvbiUyMGElMjBNYWMlMkMlMjBhbmQlMjBhJTIwMzVCJTIwb24lMjBhbiUyMGlQaG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU4MzMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTYlM0E1NCUzQTE1JTIwJTJCMDAwMA",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "pubDate": "Mon, 03 Aug 2026 16:54:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYW5kb2Mub3JnJTJGdHdlbnR5LXllYXJzLW9mLXBhbmRvYy5odG1sJTdDaHR0cHMlM0ElMkYlMkZwYW5kb2Mub3JnJTJGdHdlbnR5LXllYXJzLW9mLXBhbmRvYy5odG1sJTdDVHdlbnR5JTIwWWVhcnMlMjBvZiUyMFBhbmRvYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU2NzUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTUlM0EwNCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Twenty Years of Pandoc",
+      "pubDate": "Mon, 03 Aug 2026 15:04:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU2NjgzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU2NjgzJTdDQXNrJTIwSE4lM0ElMjBXaG8lMjBpcyUyMGhpcmluZyUzRiUyMChBdWd1c3QlMjAyMDI2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU2NjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTUlM0EwMCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "pubDate": "Mon, 03 Aug 2026 15:00:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU2NjgyJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU2NjgyJTdDQXNrJTIwSE4lM0ElMjBXaG8lMjB3YW50cyUyMHRvJTIwYmUlMjBoaXJlZCUzRiUyMChBdWd1c3QlMjAyMDI2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU2NjgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTUlM0EwMCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "pubDate": "Mon, 03 Aug 2026 15:00:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZXJ0YnVsYW4uY29tJTJGbW9yZS1nZXJtYW4tdGhhbi1tYW55LWdlcm1hbnMlMkYlN0NodHRwcyUzQSUyRiUyRm1lcnRidWxhbi5jb20lMkZtb3JlLWdlcm1hbi10aGFuLW1hbnktZ2VybWFucyUyRiU3Q01vcmUlMjBHZXJtYW4lMjB0aGFuJTIwbWFueSUyMEdlcm1hbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1MTczNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA2JTNBMDAlM0ExNCUyMCUyQjAwMDA",
+      "title": "More German than many Germans",
+      "pubDate": "Mon, 03 Aug 2026 06:00:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }
   ]
