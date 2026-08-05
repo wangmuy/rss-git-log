@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 44,
-    "generatedAt": "2026-08-05T03:39:41.187Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-05T17:56:29.534Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaGFyZWRvYmplY3QuYmxvZyUyRnBvc3RzJTJGdnA4LWNvbWJpbmF0b3JpYWwtbG9naWMlMkYlN0NodHRwcyUzQSUyRiUyRnNoYXJlZG9iamVjdC5ibG9nJTJGcG9zdHMlMkZ2cDgtY29tYmluYXRvcmlhbC1sb2dpYyUyRiU3Q1ZpZGVvMk5BTkQlMjAlRTIlODAlOTMlMjBBYnVzaW5nJTIwdmlkZW8lMjBjb2RlY3MlMjBmb3IlMjBncmVhdCUyMGNvbXB1dGF0aW9uYWwlMjBwb3dlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ1MDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTQlM0EyOSUzQTAxJTIwJTJCMDAwMA",
       "title": "Video2NAND – Abusing video codecs for great computational power",
       "pubDate": "Sun, 02 Aug 2026 14:29:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYWhhbnNlcmEuZGV2JTJGbm8taGVhbHRoeS11cHN0cmVhbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc2FoYW5zZXJhLmRldiUyRm5vLWhlYWx0aHktdXBzdHJlYW0lMkYlN0NXaGVuJTIwJTIybm8lMjBoZWFsdGh5JTIwdXBzdHJlYW0lMjIlMjBpc24ndCUyMGFib3V0JTIwdGhlJTIwdXBzdHJlYW0lMjB5b3UlMjB0aGluayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQzMDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTAlM0EyNCUzQTE4JTIwJTJCMDAwMA",
+      "title": "When \"no healthy upstream\" isn't about the upstream you think",
+      "pubDate": "Sun, 02 Aug 2026 10:24:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]

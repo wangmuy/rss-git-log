@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-05",
     "newestItemDate": "2026-08-05",
-    "itemCount": 10,
-    "generatedAt": "2026-08-05T10:47:43.911Z"
+    "itemCount": 34,
+    "generatedAt": "2026-08-05T17:56:29.534Z"
   },
   "items": [
     {
@@ -66,6 +66,150 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmbG93aXNlYWkuY29tJTJGc3Vuc2V0JTdDaHR0cHMlM0ElMkYlMkZmbG93aXNlYWkuY29tJTJGc3Vuc2V0JTdDRmxvd2lzZSUyMGlzJTIwc2h1dHRpbmclMjBkb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNzY5MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAwMCUzQTAyJTNBNDAlMjAlMkIwMDAw",
       "title": "Flowise is shutting down",
       "pubDate": "Wed, 05 Aug 2026 00:02:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RyYWludGxhYi5jb20lMkZibG9nJTJGYWktaXMtYS1idWJibGUtanVzdC1saWtlLWRvdC1jb20uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cmFpbnRsYWIuY29tJTJGYmxvZyUyRmFpLWlzLWEtYnViYmxlLWp1c3QtbGlrZS1kb3QtY29tLmh0bWwlN0NBSSUyMGlzJTIwYSUyMGJ1YmJsZSUyQyUyMGp1c3QlMjBsaWtlJTIwZG90LWNvbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg1ODgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTclM0ExNyUzQTE5JTIwJTJCMDAwMA",
+      "title": "AI is a bubble, just like dot-com",
+      "pubDate": "Wed, 05 Aug 2026 17:17:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHlwZXJwcm9iZS5jbyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmh5cGVycHJvYmUuY28lMkYlN0NMYXVuY2glMjBITiUzQSUyMEh5cGVyUHJvYmUlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwQWdlbnRzJTIwdGhhdCUyMGRvJTIwcmVhZC1vbmx5JTIwZGVidWdnaW5nJTIwaW4lMjBwcm9kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODUzODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTQ3JTNBMTUlMjAlMkIwMDAw",
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "pubDate": "Wed, 05 Aug 2026 16:47:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlzY292ZXJ5bG9vcC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kaXNjb3Zlcnlsb29wLmNvbSUyRiU3Q0Rpc2NvdmVyeSUyMExvb3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4NDk2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE2JTNBMTklM0E0NCUyMCUyQjAwMDA",
+      "title": "Discovery Loop",
+      "pubDate": "Wed, 05 Aug 2026 16:19:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkplZmZEZWFuJTJGc3RhdHVzJTJGMjA4NTAzNDYwNDE3MjYwMzcyNCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZKZWZmRGVhbiUyRnN0YXR1cyUyRjIwODUwMzQ2MDQxNzI2MDM3MjQlN0NKZWZmJTIwRGVhbiUyMExlYXZpbmclMjBHb29nbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4NDg3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE2JTNBMTQlM0E0OSUyMCUyQjAwMDA",
+      "title": "Jeff Dean Leaving Google",
+      "pubDate": "Wed, 05 Aug 2026 16:14:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXhpb3MuY29tJTJGMjAyNiUyRjA4JTJGMDUlMkZnb29nbGUtZGVlcG1pbmQtZGVtaXMtaGFzc2FiaXMtYWklN0NodHRwcyUzQSUyRiUyRnd3dy5heGlvcy5jb20lMkYyMDI2JTJGMDglMkYwNSUyRmdvb2dsZS1kZWVwbWluZC1kZW1pcy1oYXNzYWJpcy1haSU3Q0dvb2dsZSUyMERlZXBNaW5kJTIwQ0VPJTIwRGVtaXMlMjBIYXNzYWJpcyUyMGlzJTIwc3RlcHBpbmclMjBkb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODQ3NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTA1JTNBMzclMjAlMkIwMDAw",
+      "title": "Google DeepMind CEO Demis Hassabis is stepping down",
+      "pubDate": "Wed, 05 Aug 2026 16:05:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmNvbXBhbnktbmV3cyUyRmluc2lkZS1nb29nbGUlMkZtZXNzYWdlLWNlbyUyRm5leHQtY2hhcHRlci1haS1tb21lbnR1bSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZjb21wYW55LW5ld3MlMkZpbnNpZGUtZ29vZ2xlJTJGbWVzc2FnZS1jZW8lMkZuZXh0LWNoYXB0ZXItYWktbW9tZW50dW0lMkYlN0NUaGUlMjBuZXh0JTIwY2hhcHRlciUyMG9mJTIwb3VyJTIwQUklMjBtb21lbnR1bSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg0NzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTYlM0EwNSUzQTMxJTIwJTJCMDAwMA",
+      "title": "The next chapter of our AI momentum",
+      "pubDate": "Wed, 05 Aug 2026 16:05:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDglMkYwNSUyRnRlY2hub2xvZ3klMkZnb29nbGUtcmVzZWFyY2hlcnMtYWktc3RhcnR1cC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDglMkYwNSUyRnRlY2hub2xvZ3klMkZnb29nbGUtcmVzZWFyY2hlcnMtYWktc3RhcnR1cC5odG1sJTdDSmVmZiUyMERlYW4lMjBsZWF2aW5nJTIwQWxwaGFiZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4NDc0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE2JTNBMDQlM0EzMyUyMCUyQjAwMDA",
+      "title": "Jeff Dean leaving Alphabet",
+      "pubDate": "Wed, 05 Aug 2026 16:04:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWxpLmRldiUyRmJsb2clMkZ0aGUtdmFsbGV5LW9mLXdlYmhvb2tzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3ZWxpLmRldiUyRmJsb2clMkZ0aGUtdmFsbGV5LW9mLXdlYmhvb2tzJTJGJTdDVGhlJTIwVmFsbGV5JTIwb2YlMjBXZWJob29rcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg0MjE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTUlM0EyMiUzQTA2JTIwJTJCMDAwMA",
+      "title": "The Valley of Webhooks",
+      "pubDate": "Wed, 05 Aug 2026 15:22:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZjb3BzLXVzZWQtZmxvY2stdG8tdHJhY2stYS1tYW4tYWNyb3NzLXN0YXRlLWxpbmVzLXRvLWNyZWF0ZS1wcmV0ZXh0LXRvLXNlYXJjaC1oaXMtY2FyLWZvci13ZWVkJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZjb3BzLXVzZWQtZmxvY2stdG8tdHJhY2stYS1tYW4tYWNyb3NzLXN0YXRlLWxpbmVzLXRvLWNyZWF0ZS1wcmV0ZXh0LXRvLXNlYXJjaC1oaXMtY2FyLWZvci13ZWVkJTJGJTdDQ29wcyUyMFVzZWQlMjBGbG9jayUyMHRvJTIwVHJhY2slMjBhJTIwTWFuJTIwQWNyb3NzJTIwU3RhdGUlMjBMaW5lcyUyMGZvciUyMGElMjBQcmV0ZXh0dWFsJTIwV2VlZCUyMFNlYXJjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg0MTkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTUlM0EyMCUzQTExJTIwJTJCMDAwMA",
+      "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+      "pubDate": "Wed, 05 Aug 2026 15:20:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXdlbmNsb3VkLmNvbSUyRm1vZGVscyUyRnF3ZW4taW1hZ2UtMy4wLXBybyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF3ZW5jbG91ZC5jb20lMkZtb2RlbHMlMkZxd2VuLWltYWdlLTMuMC1wcm8lN0NRd2VuJTIwMy4wJTIwSW1hZ2UlMjBQcm8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4Mzg1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE0JTNBNTMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Qwen 3.0 Image Pro",
+      "pubDate": "Wed, 05 Aug 2026 14:53:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25lbGVjYXIuY29tJTJGYmxvZyUyRm9yYWNsZS1hbHdheXMtZnJlZS1hcm0tbGltaXRzLWN1dC0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY25lbGVjYXIuY29tJTJGYmxvZyUyRm9yYWNsZS1hbHdheXMtZnJlZS1hcm0tbGltaXRzLWN1dC0yMDI2JTJGJTdDT3JhY2xlJTIwSnVzdCUyMEhhbHZlZCUyMEl0cyUyMEFsd2F5cyUyMEZyZWUlMjBBUk0lMjBMaW1pdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4Mzc1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE0JTNBNDYlM0EzNiUyMCUyQjAwMDA",
+      "title": "Oracle Just Halved Its Always Free ARM Limits",
+      "pubDate": "Wed, 05 Aug 2026 14:46:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdodGxlc3NzY3JpYmJsZXMuY29tJTJGZGlzYWJpbGl0eS1kb25nbGUlMkYlN0NodHRwcyUzQSUyRiUyRnNpZ2h0bGVzc3NjcmliYmxlcy5jb20lMkZkaXNhYmlsaXR5LWRvbmdsZSUyRiU3Q1RoZSUyMCUyMkRpc2FiaWxpdHklMjBEb25nbGUlMjIlM0ElMjBXaHklMjBTaWxpY29uJTIwVmFsbGV5JTIwSGF0ZXMlMjBNZSUyMGFuZCUyMFlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTgzNjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTQlM0EzOCUzQTEzJTIwJTJCMDAwMA",
+      "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You",
+      "pubDate": "Wed, 05 Aug 2026 14:38:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtcGlvbi5lZHUuYXUlMkZibG9nJTJGdG9wLTI1LWFyaXN0b3RsZS1xdW90ZXMtb24tdmlydHVlLWtub3dsZWRnZS1hbmQtaGFwcGluZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FtcGlvbi5lZHUuYXUlMkZibG9nJTJGdG9wLTI1LWFyaXN0b3RsZS1xdW90ZXMtb24tdmlydHVlLWtub3dsZWRnZS1hbmQtaGFwcGluZXNzJTJGJTdDQXJpc3RvdGxlJTIwcXVvdGVzJTIwb24lMjB2aXJ0dWUlMkMlMjBrbm93bGVkZ2UlMkMlMjBhbmQlMjBoYXBwaW5lc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4MzExNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE0JTNBMDYlM0EzOSUyMCUyQjAwMDA",
+      "title": "Aristotle quotes on virtue, knowledge, and happiness",
+      "pubDate": "Wed, 05 Aug 2026 14:06:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydWJpbm9ic2VydmF0b3J5Lm9yZyUyRm5ld3MlMkZydWJpbi1uZXctd2luZG93LWNvc21vcy1maWVsZCU3Q2h0dHBzJTNBJTJGJTJGcnViaW5vYnNlcnZhdG9yeS5vcmclMkZuZXdzJTJGcnViaW4tbmV3LXdpbmRvdy1jb3Ntb3MtZmllbGQlN0NSdWJpbiUyME9ic2VydmF0b3J5J3MlMjBmaXJzdCUyMExTU1QlMjBDYW1lcmElMjByZWxlYXNlJTNBJTIwNTAwayUyMGdhbGF4aWVzJTIwaW4lMjB0aGUlMjBDT1NNT1MlMjBmaWVsZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTgzMDc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTQlM0EwNCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+      "pubDate": "Wed, 05 Aug 2026 14:04:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3JpdGluZ3J1eGFuZHJhYmlvLmNvbSUyRnAlMkZpbnRlbGxpZ2VuY2UtaXMtbm90LXRoZS1tYWluLWJvdHRsZW5lY2slN0NodHRwcyUzQSUyRiUyRnd3dy53cml0aW5ncnV4YW5kcmFiaW8uY29tJTJGcCUyRmludGVsbGlnZW5jZS1pcy1ub3QtdGhlLW1haW4tYm90dGxlbmVjayU3Q0ludGVsbGlnZW5jZSUyMElzJTIwTm90JTIwdGhlJTIwTWFpbiUyMEJvdHRsZW5lY2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4MzA3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE0JTNBMDQlM0EwNiUyMCUyQjAwMDA",
+      "title": "Intelligence Is Not the Main Bottleneck",
+      "pubDate": "Wed, 05 Aug 2026 14:04:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0c29uLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZ0c29uLmlvJTJGJTdDVFNPTiUyMCVFMiU4MCU5MyUyMEElMjBKU09OJTIwc3VwZXJzZXQlMjB3aXRoJTIwaW1tdXRhYmxlJTJDJTIwaGFzaC1waW5uZWQlMjBzY2hlbWFzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODMwNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTAzJTNBNDAlMjAlMkIwMDAw",
+      "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
+      "pubDate": "Wed, 05 Aug 2026 14:03:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlsbHBoeXNpY3NlbmpveWVyLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtZW50cm9weS1vZi1hLW1hcmtvdi1jaGFpbiU3Q2h0dHBzJTNBJTJGJTJGY2hpbGxwaHlzaWNzZW5qb3llci5zdWJzdGFjay5jb20lMkZwJTJGdGhlLWVudHJvcHktb2YtYS1tYXJrb3YtY2hhaW4lN0NUaGUlMjBFbnRyb3B5JTIwb2YlMjBhJTIwTWFya292JTIwQ2hhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4MzAxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE0JTNBMDAlM0ExMCUyMCUyQjAwMDA",
+      "title": "The Entropy of a Markov Chain",
+      "pubDate": "Wed, 05 Aug 2026 14:00:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY2xvdWRmbGFyZS1vcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jbG91ZGZsYXJlLmNvbSUyRmNsb3VkZmxhcmUtb3MlMkYlN0NDbG91ZGZsYXJlJTIwT1MlM0ElMjBhbiUyMG9wZW4lMjBwbGF0Zm9ybSUyMGZvciUyMGFnZW50cyUyQyUyMGFwcHMlMkMlMjBhbmQlMjB3b3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODI5OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTU4JTNBNTMlMjAlMkIwMDAw",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "pubDate": "Wed, 05 Aug 2026 13:58:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhNHNjaS5jb20lMkZibG9nJTJGYnVpbGRpbmctYW4tYWR2YW5jZWQtYWdlbnRpYy1oYXJuZXNzJTdDaHR0cHMlM0ElMkYlMkZkYXRhNHNjaS5jb20lMkZibG9nJTJGYnVpbGRpbmctYW4tYWR2YW5jZWQtYWdlbnRpYy1oYXJuZXNzJTdDQnVpbGRpbmclMjBhbiUyMEFkdmFuY2VkJTIwQWdlbnRpYyUyMEhhcm5lc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4Mjk0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDEzJTNBNTQlM0ExMiUyMCUyQjAwMDA",
+      "title": "Building an Advanced Agentic Harness",
+      "pubDate": "Wed, 05 Aug 2026 13:54:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5b2d0aG9zLm5ldCUyRnBvc3RzJTJGMjAyNi0wOC0wMy1zcGxhdC1wYWludGVyLmh0bWwlN0NodHRwcyUzQSUyRiUyRnlvZ3Rob3MubmV0JTJGcG9zdHMlMkYyMDI2LTA4LTAzLXNwbGF0LXBhaW50ZXIuaHRtbCU3Q1BhaW50aW5nJTIwd2l0aCUyMEdhdXNzaWFucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTgyNjk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTMlM0EzNCUzQTMyJTIwJTJCMDAwMA",
+      "title": "Painting with Gaussians",
+      "pubDate": "Wed, 05 Aug 2026 13:34:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWlsZDIub3JnJTJGYmxvZyUyRmZhc3Rlci10aGFuLW5pbmphLnhodG1sJTdDaHR0cHMlM0ElMkYlMkZidWlsZDIub3JnJTJGYmxvZyUyRmZhc3Rlci10aGFuLW5pbmphLnhodG1sJTdDRmFzdGVyJTIwVGhhbiUyME5pbmphJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODI2ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTMzJTNBMjUlMjAlMkIwMDAw",
+      "title": "Faster Than Ninja",
+      "pubDate": "Wed, 05 Aug 2026 13:33:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmluY2VudHNjaG1hbGJhY2guY29tJTJGdGltZS1zZXJ2ZXMtYWktYm90cy1hLWRpZmZlcmVudC13ZWJzaXRlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudmluY2VudHNjaG1hbGJhY2guY29tJTJGdGltZS1zZXJ2ZXMtYWktYm90cy1hLWRpZmZlcmVudC13ZWJzaXRlJTJGJTdDVElNRSUyMElzJTIwU2VydmluZyUyMEFJJTIwQm90cyUyMGElMjBEaWZmZXJlbnQlMjBXZWJzaXRlJTJDJTIwd2l0aCUyMEFkcyUyMEJ1aWx0JTIwSW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4MjA0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDEyJTNBNDElM0E0NyUyMCUyQjAwMDA",
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "pubDate": "Wed, 05 Aug 2026 12:41:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZhLWNpdmlsaWFuLXBsYW5lLWNyYXNoZWQtaW4tbmV3LW1leGljby13YXMtdGhlLW1pbGl0YXJ5cy10ZWNoLXRvLWJsYW1lJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZhLWNpdmlsaWFuLXBsYW5lLWNyYXNoZWQtaW4tbmV3LW1leGljby13YXMtdGhlLW1pbGl0YXJ5cy10ZWNoLXRvLWJsYW1lJTJGJTdDQ2l2aWxpYW4lMjBwbGFuZSUyMGNyYXNoJTIwaW4lMjBOZXclMjBNZXhpY28lMjB0aWVkJTIwdG8lMjBtaWxpdGFyeSUyMEdQUyUyMGJsb2NraW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODEwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxMSUzQTAzJTNBMTMlMjAlMkIwMDAw",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "pubDate": "Wed, 05 Aug 2026 11:03:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucmV2aWV3Lm5ldCUyRmNoYWxsZW5nZSUzRnJlZGlyZWN0JTNEJTI1MkZmb3J1bSUyNTNGaWQlMjUzRGtsVTQ3MzdvcHQlN0NodHRwcyUzQSUyRiUyRm9wZW5yZXZpZXcubmV0JTJGY2hhbGxlbmdlJTNGcmVkaXJlY3QlM0QlMjUyRmZvcnVtJTI1M0ZpZCUyNTNEa2xVNDczN29wdCU3Q1Bvc2l0aW9uJTNBJTIwTExNcyUyMENhbid0JTIwSnVtcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTgxMDgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTElM0EwMSUzQTM3JTIwJTJCMDAwMA",
+      "title": "Position: LLMs Can't Jump",
+      "pubDate": "Wed, 05 Aug 2026 11:01:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
     }
   ]
