@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-01",
     "newestItemDate": "2026-08-01",
-    "itemCount": 48,
-    "generatedAt": "2026-08-04T18:08:17.800Z"
+    "itemCount": 50,
+    "generatedAt": "2026-08-05T03:39:41.187Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMTklMkYwNyUyRmxvb2tpbmctaW5zaWRlLTE5NzBzLXByb20tY2hpcC10aGF0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5yaWdodG8uY29tJTJGMjAxOSUyRjA3JTJGbG9va2luZy1pbnNpZGUtMTk3MHMtcHJvbS1jaGlwLXRoYXQuaHRtbCU3Q0xvb2tpbmclMjBpbnNpZGUlMjBhJTIwMTk3MHMlMjBQUk9NJTIwY2hpcCUyMHRoYXQlMjBzdG9yZXMlMjBkYXRhJTIwaW4lMjBtaWNyb3Njb3BpYyUyMGZ1c2VzJTIwKDIwMTkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzAxMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAwMCUzQTUzJTNBNDIlMjAlMkIwMDAw",
       "title": "Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019)",
       "pubDate": "Sat, 01 Aug 2026 00:53:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5wcmFjdGljYWxseWVmZmljaWVudC5jb20lMkYyMDE3JTJGMTAlMkYxMyUyRmZyb20tYm9pbGluZy1sZWFkLWFuZC1ibGFjay1hcnQuaHRtbCU3Q2h0dHAlM0ElMkYlMkZ3d3cucHJhY3RpY2FsbHllZmZpY2llbnQuY29tJTJGMjAxNyUyRjEwJTJGMTMlMkZmcm9tLWJvaWxpbmctbGVhZC1hbmQtYmxhY2stYXJ0Lmh0bWwlN0NGcm9tJTIwYm9pbGluZyUyMGxlYWQlMjBhbmQlMjBibGFjayUyMGFydCUzQSUyMFRoZSUyMGhpc3RvcnklMjBvZiUyMG1hdGhlbWF0aWNhbCUyMHR5cG9ncmFwaHklMjAoMjAxNyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzNDI0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDEzJTNBMjQlM0E1NyUyMCUyQjAwMDA",
+      "title": "From boiling lead and black art: The history of mathematical typography (2017)",
+      "pubDate": "Sat, 01 Aug 2026 13:24:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZKdWwlMkYzMSUyRnN0YXRlbGVzcy1tY3AlMkYlN0NodHRwcyUzQSUyRiUyRnNpbW9ud2lsbGlzb24ubmV0JTJGMjAyNiUyRkp1bCUyRjMxJTJGc3RhdGVsZXNzLW1jcCUyRiU3Q1N0YXRlbGVzcyUyME1DUCUyMGhhcyUyMHJlY2FwdHVyZWQlMjBteSUyMGludGVyZXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMzE0MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMSUyMEF1ZyUyMDIwMjYlMjAwNSUzQTUxJTNBMzYlMjAlMkIwMDAw",
+      "title": "Stateless MCP has recaptured my interest",
+      "pubDate": "Sat, 01 Aug 2026 05:51:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
     }
   ]
