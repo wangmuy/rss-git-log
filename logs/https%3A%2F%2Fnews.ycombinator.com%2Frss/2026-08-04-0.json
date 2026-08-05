@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-04",
     "newestItemDate": "2026-08-04",
-    "itemCount": 44,
-    "generatedAt": "2026-08-05T03:39:41.187Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-05T10:47:43.911Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRnNoaWVsZHN0cmFsJTJGJTdDaHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRnNoaWVsZHN0cmFsJTJGJTdDTWlzdHJhbCdzJTIwU2hpZWxkc3RyYWwlM0ElMjAzQiUyMG9wZW4td2VpZ2h0cyUyMG1vZGVsJTIwZm9yJTIwbXVsdGltb2RhbCUyMG1vZGVyYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE3MTI2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA0JTIwQXVnJTIwMjAyNiUyMDE2JTNBMzYlM0EwNSUyMCUyQjAwMDA",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "pubDate": "Tue, 04 Aug 2026 16:36:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwZ3JvdmUuYWklMkZtYXBsZS1wcmV2aWV3JTdDaHR0cHMlM0ElMkYlMkZkZWVwZ3JvdmUuYWklMkZtYXBsZS1wcmV2aWV3JTdDU2hvdyUyMEhOJTNBJTIwTWFwbGUtUHJldmlldyUyMCVFMiU4MCU5MyUyMFRlcm5hcnklMjAyMEIlMjBNb0UlMjBydW5uaW5nJTIwYXQlMjAxMjAlMjB0b2slMkZzJTIwb24lMjBhJTIwaVBob25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNzM5ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTQ0JTNBNTUlMjAlMkIwMDAw",
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+      "pubDate": "Tue, 04 Aug 2026 19:44:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
     }
   ]
