@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 66,
-    "generatedAt": "2026-08-04T03:43:10.657Z"
+    "itemCount": 67,
+    "generatedAt": "2026-08-06T03:45:09.095Z"
   },
   "items": [
     {
@@ -402,6 +402,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvY2hhZ2F2aWEubmwlMkZibG9nJTJGdGhhdC10aW1lLXdoZW4taS1mYWlsZWQtdGhlLW1pY3Jvc29mdC1pbnRlcnZpZXclMkYlN0NodHRwcyUzQSUyRiUyRm9jaGFnYXZpYS5ubCUyRmJsb2clMkZ0aGF0LXRpbWUtd2hlbi1pLWZhaWxlZC10aGUtbWljcm9zb2Z0LWludGVydmlldyUyRiU3Q1RoYXQlMjB0aW1lJTIwd2hlbiUyMEklMjBmYWlsZWQlMjB0aGUlMjBNaWNyb3NvZnQlMjBpbnRlcnZpZXclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5NTM4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDEwJTNBMDIlM0E1MCUyMCUyQjAwMDA",
       "title": "That time when I failed the Microsoft interview",
       "pubDate": "Wed, 29 Jul 2026 10:02:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaHVrbGFheXUuc2glMkZibG9nJTJGcmlzY3YtcmVjb21waWxlciU3Q2h0dHBzJTNBJTJGJTJGc2h1a2xhYXl1LnNoJTJGYmxvZyUyRnJpc2N2LXJlY29tcGlsZXIlN0NQdXNoaW5nJTIwdGhlJTIwbGltaXRzJTIwb2YlMjBSSVNDLVYlMjBlbXVsYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5OTkwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE2JTNBNDglM0E1NiUyMCUyQjAwMDA",
+      "title": "Pushing the limits of RISC-V emulation",
+      "pubDate": "Wed, 29 Jul 2026 16:48:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]

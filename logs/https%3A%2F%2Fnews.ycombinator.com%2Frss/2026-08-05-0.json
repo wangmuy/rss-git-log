@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-05",
     "newestItemDate": "2026-08-05",
-    "itemCount": 34,
-    "generatedAt": "2026-08-05T17:56:29.534Z"
+    "itemCount": 48,
+    "generatedAt": "2026-08-06T03:45:09.093Z"
   },
   "items": [
     {
@@ -210,6 +210,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucmV2aWV3Lm5ldCUyRmNoYWxsZW5nZSUzRnJlZGlyZWN0JTNEJTI1MkZmb3J1bSUyNTNGaWQlMjUzRGtsVTQ3MzdvcHQlN0NodHRwcyUzQSUyRiUyRm9wZW5yZXZpZXcubmV0JTJGY2hhbGxlbmdlJTNGcmVkaXJlY3QlM0QlMjUyRmZvcnVtJTI1M0ZpZCUyNTNEa2xVNDczN29wdCU3Q1Bvc2l0aW9uJTNBJTIwTExNcyUyMENhbid0JTIwSnVtcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTgxMDgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTElM0EwMSUzQTM3JTIwJTJCMDAwMA",
       "title": "Position: LLMs Can't Jump",
       "pubDate": "Wed, 05 Aug 2026 11:01:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYW5kc2lucmVwb3NlLmNvbSUyRmFyY2hpdmVzJTJGYmxhZGUtcnVubmVyLXRpdGxlLWNhcmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZyYW5kc2lucmVwb3NlLmNvbSUyRmFyY2hpdmVzJTJGYmxhZGUtcnVubmVyLXRpdGxlLWNhcmRzJTJGJTdDVGhlJTIwdGl0bGUlMjBjYXJkcyUyMGluJTIwQmxhZGUlMjBSdW5uZXIlMjBhcmUlMjBhbWF6aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODkyODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAyMSUzQTI5JTNBMjMlMjAlMkIwMDAw",
+      "title": "The title cards in Blade Runner are amazing",
+      "pubDate": "Wed, 05 Aug 2026 21:29:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGbnZpZGlhcy12ZXJhLXdoaXRlcGFwZXItaGFzLWEtdGhyZWFkJTdDaHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGbnZpZGlhcy12ZXJhLXdoaXRlcGFwZXItaGFzLWEtdGhyZWFkJTdDTlZJRElBJUUyJTgwJTk5cyUyMFZlcmElMjBXaGl0ZXBhcGVyJTIwSGFzJTIwYSUyMFRocmVhZCUyMExvb3NlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODkyMzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAyMSUzQTI0JTNBNDUlMjAlMkIwMDAw",
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "pubDate": "Wed, 05 Aug 2026 21:24:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm5pa2l0YWJpZXIlMkZzdGF0dXMlMkYyMDg1MTA1NTg2OTY2ODI3MzQzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm5pa2l0YWJpZXIlMkZzdGF0dXMlMkYyMDg1MTA1NTg2OTY2ODI3MzQzJTJGJTdDSSdsbCUyMGJlJTIwc3RlcHBpbmclMjBiYWNrJTIwZnJvbSUyMGxlYWRpbmclMjBwcm9kdWN0JTIwZm9yJTIwWCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg5MTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMjElM0ExNSUzQTQwJTIwJTJCMDAwMA",
+      "title": "I'll be stepping back from leading product for X",
+      "pubDate": "Wed, 05 Aug 2026 21:15:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJpbWVpbnRlbGxlY3QuYWklMkZibG9nJTJGcHJpbWUtYWdlbnQlN0NodHRwcyUzQSUyRiUyRnd3dy5wcmltZWludGVsbGVjdC5haSUyRmJsb2clMkZwcmltZS1hZ2VudCU3Q1ByaW1lJTIwQWdlbnQlM0ElMjBBJTIwc2VsZi1pbXByb3ZpbmclMjBSTE0lMjBhZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg5MDc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMjElM0ExMSUzQTU3JTIwJTJCMDAwMA",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "pubDate": "Wed, 05 Aug 2026 21:11:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW5hcmNuLm5vJTJGYW5kcm9pZC10by1saW51eCUyRiU3Q2h0dHBzJTNBJTJGJTJGcnVuYXJjbi5ubyUyRmFuZHJvaWQtdG8tbGludXglMkYlN0NJJ20lMjBzd2l0Y2hpbmclMjBteSUyMHBob25lJTIwZnJvbSUyMEFuZHJvaWQlMjB0byUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODgwMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxOSUzQTUwJTNBMTMlMjAlMkIwMDAw",
+      "title": "I'm switching my phone from Android to Linux",
+      "pubDate": "Wed, 05 Aug 2026 19:50:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5tZXRhLmFpJTJGYmxvZyUyRmludHJvZHVjaW5nLW11c2UtY29kZS1hbmQtbXVzZS1zcGFyay0xLTIlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLm1ldGEuYWklMkZibG9nJTJGaW50cm9kdWNpbmctbXVzZS1jb2RlLWFuZC1tdXNlLXNwYXJrLTEtMiU3Q011c2UlMjBDb2RlJTIwYW5kJTIwTXVzZSUyMFNwYXJrJTIwMS4yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODc1NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxOSUzQTE1JTNBNTIlMjAlMkIwMDAw",
+      "title": "Muse Code and Muse Spark 1.2",
+      "pubDate": "Wed, 05 Aug 2026 19:15:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGZGVsdGFkYiU3Q2h0dHBzJTNBJTJGJTJGemVkLmRldiUyRmRlbHRhZGIlN0NaZWQlMjBEZWx0YURCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODcyNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTUyJTNBNTQlMjAlMkIwMDAw",
+      "title": "Zed DeltaDB",
+      "pubDate": "Wed, 05 Aug 2026 18:52:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmZvZ3VzLm1lJTJGbGxtJTJGYm9ybi1hZ2FpbnN0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cuZm9ndXMubWUlMkZsbG0lMkZib3JuLWFnYWluc3QuaHRtbCU3Q0Jvcm4lMjBBZ2FpbnN0JTJDJTIwb3IlMjB3aHklMjBob2JieSUyMHByb2dyYW1taW5nJTIwY29tbXVuaXRpZXMlMjBhcmUlMjBhZ2FpbnN0JTIwTExNJTIwdXNhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4NzA2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE4JTNBMzclM0E0OSUyMCUyQjAwMDA",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "pubDate": "Wed, 05 Aug 2026 18:37:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZW9uLmNvbSUyRmJsb2clMkZob3ctY2FzdGZvcm0tbmVvbi1iZWF0cy1mcm9udGllci1tb2RlbHMtb24tcHJpY2UtYW5kLWVmZmljaWVuY3klN0NodHRwcyUzQSUyRiUyRm5lb24uY29tJTJGYmxvZyUyRmhvdy1jYXN0Zm9ybS1uZW9uLWJlYXRzLWZyb250aWVyLW1vZGVscy1vbi1wcmljZS1hbmQtZWZmaWNpZW5jeSU3Q0JlYXRpbmclMjBHUFQtNS42JTIwU29sJTIwb24lMjByZXRyaWV2YWwlMjB3aXRoJTIwMTAweCUyMGNoZWFwZXIlMjBvcGVuJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODY3NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTE4JTNBNTYlMjAlMkIwMDAw",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "pubDate": "Wed, 05 Aug 2026 18:18:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjAxMzk1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjAxMzk1JTdDU3ljb3BoYW50aWMlMjBBSSUyMERlY3JlYXNlcyUyMFByb3NvY2lhbCUyMEludGVudGlvbnMlMjBhbmQlMjBQcm9tb3RlcyUyMERlcGVuZGVuY2UlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4NjcyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE4JTNBMTclM0EwMyUyMCUyQjAwMDA",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "pubDate": "Wed, 05 Aug 2026 18:17:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJvbXB0YXJtb3IuY29tJTJGcmVzb3VyY2VzJTJGYXRsYXNzaWFuLXJvdm8tZXhmaWx0cmF0ZXMtZGF0YSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnByb21wdGFybW9yLmNvbSUyRnJlc291cmNlcyUyRmF0bGFzc2lhbi1yb3ZvLWV4ZmlsdHJhdGVzLWRhdGElN0NBdGxhc3NpYW4lMjBSb3ZvJTIwRXhmaWx0cmF0ZXMlMjBEYXRhJTJDJTIwQnlwYXNzaW5nJTIwQ29udHJvbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4NTk4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDE3JTNBMjMlM0EyNSUyMCUyQjAwMDA",
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "pubDate": "Wed, 05 Aug 2026 17:23:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVub2xhbmQlMkZjZWxsZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmRlbm9sYW5kJTJGY2VsbGQlN0NDZWxsZCUzQSUyMFNlbGYtaG9zdGVkJTJDJTIwZGlzdHJpYnV0ZWQlMjBEdXJhYmxlJTIwT2JqZWN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg1NDMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTYlM0E1MCUzQTA2JTIwJTJCMDAwMA",
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "pubDate": "Wed, 05 Aug 2026 16:50:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWNvbG8ueHl6JTJGc29tZXRoaW5nLWlzLWNoYW5naW5nLWluLXRoZS11bml0LWVjb25vbWljcy1vZi1zb2Z0d2FyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbmljb2xvLnh5eiUyRnNvbWV0aGluZy1pcy1jaGFuZ2luZy1pbi10aGUtdW5pdC1lY29ub21pY3Mtb2Ytc29mdHdhcmUlMkYlN0NTb21ldGhpbmclMjBpcyUyMGNoYW5naW5nJTIwaW4lMjB0aGUlMjB1bml0JTIwZWNvbm9taWNzJTIwb2YlMjBzb2Z0d2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg1MTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTYlM0EyOCUzQTU5JTIwJTJCMDAwMA",
+      "title": "Something is changing in the unit economics of software",
+      "pubDate": "Wed, 05 Aug 2026 16:28:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmNvbXBhbnktbmV3cyUyRmluc2lkZS1nb29nbGUlMkZtZXNzYWdlLWNlbyUyRm5leHQtY2hhcHRlci1haS1tb21lbnR1bSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZjb21wYW55LW5ld3MlMkZpbnNpZGUtZ29vZ2xlJTJGbWVzc2FnZS1jZW8lMkZuZXh0LWNoYXB0ZXItYWktbW9tZW50dW0lMkYlN0NDaGFuZ2VzJTIwYXQlMjBHb29nbGUlMjBEZWVwTWluZCUzQSUyMERlbWlzJTIwSGFzc2FiaXMlMjBmcm9tJTIwQ0VPJTIwdG8lMjBDaGFpciUyQyUyMEplZmYlMjBEZWFuJTIwZGVwYXJ0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTg0NzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMTYlM0EwNSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "pubDate": "Wed, 05 Aug 2026 16:05:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
     }
   ]

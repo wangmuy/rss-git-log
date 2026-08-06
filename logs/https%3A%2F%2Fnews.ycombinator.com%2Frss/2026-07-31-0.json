@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-31",
     "newestItemDate": "2026-07-31",
-    "itemCount": 65,
-    "generatedAt": "2026-08-05T17:56:29.535Z"
+    "itemCount": 68,
+    "generatedAt": "2026-08-06T03:45:09.094Z"
   },
   "items": [
     {
@@ -396,6 +396,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwNyUyRmlibS02MDQtdHJpZ2dlci10dWJlLW1vZHVsZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwNyUyRmlibS02MDQtdHJpZ2dlci10dWJlLW1vZHVsZS5odG1sJTdDRW5lcmdpemluZyUyMGElMjB2YWN1dW0tdHViZSUyMGZsaXAtZmxvcCUyMG1vZHVsZSUyMGZyb20lMjBhJTIwMTk0OCUyMElCTSUyMHN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI1NjAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTYlM0E0OSUzQTMwJTIwJTJCMDAwMA",
       "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
       "pubDate": "Fri, 31 Jul 2026 16:49:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWNtLmFjbS5vcmclMkZibG9nY2FjbSUyRmdvb2RoYXJ0cy1sYXctY29tZXMtZm9yLWV2ZXJ5LWJlbmNobWFyay15b3UtdHJ1c3QlMkYlN0NodHRwcyUzQSUyRiUyRmNhY20uYWNtLm9yZyUyRmJsb2djYWNtJTJGZ29vZGhhcnRzLWxhdy1jb21lcy1mb3ItZXZlcnktYmVuY2htYXJrLXlvdS10cnVzdCUyRiU3Q0dvb2RoYXJ0J3MlMjBMYXclMjBDb21lcyUyMGZvciUyMEV2ZXJ5JTIwQmVuY2htYXJrJTIwWW91JTIwVHJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyNjcxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDE4JTNBMTQlM0E0OCUyMCUyQjAwMDA",
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "pubDate": "Fri, 31 Jul 2026 18:14:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9yaXNodXolMkZkZWxhdW5heTMyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9yaXNodXolMkZkZWxhdW5heTMyJTdDRXhhY3QlMkMlMjBwYXJhbGxlbCUyMDJEJTIwRGVsYXVuYXklMjB0cmlhbmd1bGF0aW9uJTIwZm9yJTIwaW50MzIlMjBjb29yZGluYXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTI1NTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMTYlM0E0NSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+      "pubDate": "Fri, 31 Jul 2026 16:45:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b3NrYS5iZWFyYmxvZy5kZXYlMkZyZS1vbmxpbmUtZnJpZW5kcy1hcmUtcmVhbC1mcmllbmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b3NrYS5iZWFyYmxvZy5kZXYlMkZyZS1vbmxpbmUtZnJpZW5kcy1hcmUtcmVhbC1mcmllbmRzJTJGJTdDT25saW5lJTIwRnJpZW5kcyUyMEFyZSUyMFJlYWwlMjBGcmllbmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxMjQ5MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMSUyMEp1bCUyMDIwMjYlMjAxNiUzQTA3JTNBNTUlMjAlMkIwMDAw",
+      "title": "Online Friends Are Real Friends",
+      "pubDate": "Fri, 31 Jul 2026 16:07:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
     }
   ]
