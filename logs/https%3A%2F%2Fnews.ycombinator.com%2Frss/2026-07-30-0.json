@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-30",
     "newestItemDate": "2026-07-30",
-    "itemCount": 64,
-    "generatedAt": "2026-08-06T03:45:09.095Z"
+    "itemCount": 65,
+    "generatedAt": "2026-08-06T10:57:01.878Z"
   },
   "items": [
     {
@@ -390,6 +390,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHJ1ZWdyaXR0ZXh0dXJlc3VwcGx5LmNvbSUyRmJsb2dzJTJGbmV3cyUyRm9yaWdpbnMtb2YtdGhlLXZpbnRhZ2UtY29taWNzLWFlc3RoZXRpYy1wYXJ0LTElN0NodHRwcyUzQSUyRiUyRnd3dy50cnVlZ3JpdHRleHR1cmVzdXBwbHkuY29tJTJGYmxvZ3MlMkZuZXdzJTJGb3JpZ2lucy1vZi10aGUtdmludGFnZS1jb21pY3MtYWVzdGhldGljLXBhcnQtMSU3Q1RoZSUyME9yaWdpbnMlMjBvZiUyMFZpbnRhZ2UlMjBDb21pY3MlMjBQYXJ0JTIwMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTA2NzU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMDYlM0E0NSUzQTMyJTIwJTJCMDAwMA",
       "title": "The Origins of Vintage Comics Part 1",
       "pubDate": "Thu, 30 Jul 2026 06:45:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFudGVnby5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnF1YW50ZWdvLm9yZyUyRiU3Q1F1YW50ZWdvJTNBJTIwQSUyMEZhbWlseSUyMG9mJTIwTGVnbyUyME1vZGVscyUyMG9mJTIwSUJNJTIwUXVhbnR1bSUyMENvbXB1dGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTEyMzQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMzAlMjBKdWwlMjAyMDI2JTIwMTYlM0EzNSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "pubDate": "Thu, 30 Jul 2026 16:35:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-30-0.json"
     }
   ]

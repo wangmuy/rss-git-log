@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 52,
-    "generatedAt": "2026-08-06T03:45:09.094Z"
+    "itemCount": 53,
+    "generatedAt": "2026-08-06T10:57:01.878Z"
   },
   "items": [
     {
@@ -318,6 +318,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3JleWJsYWtlLmNvbSUyRmJsb2clMkZicmFuY2hsZXNzLXJ1c3QlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ncmV5Ymxha2UuY29tJTJGYmxvZyUyRmJyYW5jaGxlc3MtcnVzdCUyRiU3Q0JyYW5jaGxlc3MlMjBSdXN0JTNBJTIwTWFraW5nJTIwYSUyMEZpbHRlciUyMDR4JTIwRmFzdGVyJTIwYnklMjBSZW1vdmluZyUyMGFuJTIwSWYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1MTk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDA2JTNBMzclM0EwNSUyMCUyQjAwMDA",
       "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
       "pubDate": "Mon, 03 Aug 2026 06:37:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYmFzaGFsYXJtaXN0YWx0JTJGZGVjaW1lbi1vcHRpY2FsLXRyYW5zZmVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYmFzaGFsYXJtaXN0YWx0JTJGZGVjaW1lbi1vcHRpY2FsLXRyYW5zZmVyJTdDRGVjaW1lbiUyME9wdGljYWwlMjBUcmFuc2ZlciUzQSUyMGZvdW50YWluLWNvZGVkJTIwUVIlMjBmaWxlJTIwdHJhbnNmZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1Nzc5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDE2JTNBMTclM0EwMyUyMCUyQjAwMDA",
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "pubDate": "Mon, 03 Aug 2026 16:17:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }
   ]

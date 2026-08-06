@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 67,
-    "generatedAt": "2026-08-06T03:45:09.095Z"
+    "itemCount": 69,
+    "generatedAt": "2026-08-06T10:57:01.878Z"
   },
   "items": [
     {
@@ -408,6 +408,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaHVrbGFheXUuc2glMkZibG9nJTJGcmlzY3YtcmVjb21waWxlciU3Q2h0dHBzJTNBJTJGJTJGc2h1a2xhYXl1LnNoJTJGYmxvZyUyRnJpc2N2LXJlY29tcGlsZXIlN0NQdXNoaW5nJTIwdGhlJTIwbGltaXRzJTIwb2YlMjBSSVNDLVYlMjBlbXVsYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA5OTkwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI5JTIwSnVsJTIwMjAyNiUyMDE2JTNBNDglM0E1NiUyMCUyQjAwMDA",
       "title": "Pushing the limits of RISC-V emulation",
       "pubDate": "Wed, 29 Jul 2026 16:48:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlBhcmV0b19mcm9udCU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZQYXJldG9fZnJvbnQlN0NQYXJldG8lMjBGcm9udCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk2NDM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTIlM0ExMiUzQTI5JTIwJTJCMDAwMA",
+      "title": "Pareto Front",
+      "pubDate": "Wed, 29 Jul 2026 12:12:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnNpbGVudHNpZ25hbC5ldSUyRjIwMjYlMkYwNyUyRjI4JTJGdGhlLWNpcGhlci1iZWhpbmQtcXN5cnVwd2QtcmVjb25zdHJ1Y3RpbmctaWJtLWktcGFzc3dvcmQtaGFzaGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnNpbGVudHNpZ25hbC5ldSUyRjIwMjYlMkYwNyUyRjI4JTJGdGhlLWNpcGhlci1iZWhpbmQtcXN5cnVwd2QtcmVjb25zdHJ1Y3RpbmctaWJtLWktcGFzc3dvcmQtaGFzaGVzJTJGJTdDVGhlJTIwQ2lwaGVyJTIwQmVoaW5kJTIwUXN5cnVwd2QlM0ElMjBSZWNvbnN0cnVjdGluZyUyMElCTSUyMGklMjBQYXNzd29yZCUyMEhhc2hlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk0MzU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMDclM0ExOSUzQTIwJTIwJTJCMDAwMA",
+      "title": "The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes",
+      "pubDate": "Wed, 29 Jul 2026 07:19:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]
