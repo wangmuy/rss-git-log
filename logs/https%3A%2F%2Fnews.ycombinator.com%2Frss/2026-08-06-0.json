@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-06",
     "newestItemDate": "2026-08-06",
-    "itemCount": 5,
-    "generatedAt": "2026-08-06T10:57:01.878Z"
+    "itemCount": 23,
+    "generatedAt": "2026-08-07T03:19:47.884Z"
   },
   "items": [
     {
@@ -36,6 +36,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3JpbWVwYXlzYnV0Ym90YW55ZG9lc250LmNvbSUyRnJlYWRpbmctbGlzdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNyaW1lcGF5c2J1dGJvdGFueWRvZXNudC5jb20lMkZyZWFkaW5nLWxpc3QlN0NDcmltZSUyMFBheXMlMjBidXQlMjBCb3RhbnklMjBEb2Vzbid0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxOTI1NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAwNCUzQTQ2JTNBMzUlMjAlMkIwMDAw",
       "title": "Crime Pays but Botany Doesn't",
       "pubDate": "Thu, 06 Aug 2026 04:46:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZoYWNrZXJzLXN0YWxrZWQtbWUtYnktaGlqYWNraW5nLWEtc21hcnR3YXRjaC1mb3Ita2lkcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGaGFja2Vycy1zdGFsa2VkLW1lLWJ5LWhpamFja2luZy1hLXNtYXJ0d2F0Y2gtZm9yLWtpZHMlMkYlN0NIYWNrZXJzJTIwU3RhbGtlZCUyME1lJTIwYnklMjBIaWphY2tpbmclMjBhJTIwU21hcnR3YXRjaCUyMGZvciUyMEtpZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwNDA2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA2JTIwQXVnJTIwMjAyNiUyMDIzJTNBMzAlM0EwMyUyMCUyQjAwMDA",
+      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+      "pubDate": "Thu, 06 Aug 2026 23:30:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHJveWh1bnQuY29tJTJGd2VsY29taW5nLXRoZS1uZXBhbGVzZS1nb3Zlcm5tZW50LXRvLWhhdmUtaS1iZWVuLXB3bmVkJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudHJveWh1bnQuY29tJTJGd2VsY29taW5nLXRoZS1uZXBhbGVzZS1nb3Zlcm5tZW50LXRvLWhhdmUtaS1iZWVuLXB3bmVkJTJGJTdDV2VsY29taW5nJTIwdGhlJTIwTmVwYWxlc2UlMjBHb3Zlcm5tZW50JTIwdG8lMjBIYXZlJTIwSSUyMEJlZW4lMjBQd25lZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjAzMTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMjElM0E1MiUzQTE2JTIwJTJCMDAwMA",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "pubDate": "Thu, 06 Aug 2026 21:52:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWxla3NhZ29yZGljLmNvbSUyRmJsb2clMkZ2bGxtJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWxla3NhZ29yZGljLmNvbSUyRmJsb2clMkZ2bGxtJTdDSW5zaWRlJTIwdkxMTSUzQSUyMEFuYXRvbXklMjBvZiUyMGElMjBIaWdoLVRocm91Z2hwdXQlMjBMTE0lMjBJbmZlcmVuY2UlMjBTeXN0ZW0lMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwMjg1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA2JTIwQXVnJTIwMjAyNiUyMDIxJTNBMzAlM0EyMSUyMCUyQjAwMDA",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "pubDate": "Thu, 06 Aug 2026 21:30:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWRhaWx5LmNvbSUyRnJlbGVhc2VzJTJGMjAyNiUyRjA4JTJGMjYwODAzMDgwOTE3Lmh0bSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2VkYWlseS5jb20lMkZyZWxlYXNlcyUyRjIwMjYlMkYwOCUyRjI2MDgwMzA4MDkxNy5odG0lN0NCaW9lbmdpbmVlcmVkJTIwY2hld2luZyUyMGd1bSUyMG1heSUyMG9mZmVyJTIwYSUyMHdheSUyMHRvJTIwZmlnaHQlMjBIUFYlMjBhbmQlMjBvdGhlciUyMG1pY3JvYmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDI3MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAyMSUzQTE4JTNBMzIlMjAlMkIwMDAw",
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "pubDate": "Thu, 06 Aug 2026 21:18:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc3lzdGVtcyUyRjIwMjYlMkYwOCUyRjA2JTJGYW1kLWFjcXVpcmVzLWFpLWNoaXAtc3RhcnR1cC10YWFsYXMtdG8tYm9vc3QtaW5mZXJlbmNlLXBlcmZvcm1hbmNlLWJ5LWV0Y2hpbmctbW9kZWxzLWludG8tc2lsaWNvbiUyRjUyODQzNDQlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVyZWdpc3Rlci5jb20lMkZzeXN0ZW1zJTJGMjAyNiUyRjA4JTJGMDYlMkZhbWQtYWNxdWlyZXMtYWktY2hpcC1zdGFydHVwLXRhYWxhcy10by1ib29zdC1pbmZlcmVuY2UtcGVyZm9ybWFuY2UtYnktZXRjaGluZy1tb2RlbHMtaW50by1zaWxpY29uJTJGNTI4NDM0NCU3Q0FNRCUyMGFjcXVpcmVzJTIwVGFhbGFzJTIwdG8lMjBib29zdCUyMGluZmVyZW5jZSUyMHBlcmZvcm1hbmNlJTIwYnklMjBldGNoaW5nJTIwbW9kZWxzJTIwaW4lMjBzaWxpY29uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDE5NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAyMCUzQTIzJTNBMTElMjAlMkIwMDAw",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "pubDate": "Thu, 06 Aug 2026 20:23:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGF5ZXJzY2x1Yi5iZXRoZXNkYS5uZXQlMkZlbi1VUyUyRm5ld3MlMkZxdWFrZS0zMHRoLWFubml2ZXJzYXJ5LXVwZGF0ZSU3Q2h0dHBzJTNBJTJGJTJGc2xheWVyc2NsdWIuYmV0aGVzZGEubmV0JTJGZW4tVVMlMkZuZXdzJTJGcXVha2UtMzB0aC1hbm5pdmVyc2FyeS11cGRhdGUlN0NRdWFrZSUyMCVFMiU4MCU5MyUyMDMwdGglMjBBbm5pdmVyc2FyeSUyMFVwZGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjAxOTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMjAlM0EyMSUzQTE5JTIwJTJCMDAwMA",
+      "title": "Quake – 30th Anniversary Update",
+      "pubDate": "Thu, 06 Aug 2026 20:21:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZXJkci5kZXYlMkZibG9nJTJGaGVyZHItaXMtam9pbmluZy15LWNvbWJpbmF0b3IlMkYlN0NodHRwcyUzQSUyRiUyRmhlcmRyLmRldiUyRmJsb2clMkZoZXJkci1pcy1qb2luaW5nLXktY29tYmluYXRvciUyRiU3Q0hlcmRyJTIwaXMlMjBqb2luaW5nJTIwWSUyMENvbWJpbmF0b3IuJTIwVGhlJTIwcnVudGltZSUyMHN0YXlzJTIwb3BlbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjAxMDAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTklM0ExNCUzQTIxJTIwJTJCMDAwMA",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "pubDate": "Thu, 06 Aug 2026 19:14:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGY2FuLXlvdS1yZXZlcnNlLWVuZ2luZWVyLWFuLWFzaWMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuamFuZXN0cmVldC5jb20lMkZjYW4teW91LXJldmVyc2UtZW5naW5lZXItYW4tYXNpYyUyRiU3Q0NhbiUyMHlvdSUyMHJldmVyc2UlMjBlbmdpbmVlciUyMGFuJTIwQVNJQyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjAwOTMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTklM0EwNyUzQTMzJTIwJTJCMDAwMA",
+      "title": "Can you reverse engineer an ASIC?",
+      "pubDate": "Thu, 06 Aug 2026 19:07:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkYlM0ZpbnRlbGxpZ2VuY2UlM0RhZ2VudGljLWluZGV4JTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkYlM0ZpbnRlbGxpZ2VuY2UlM0RhZ2VudGljLWluZGV4JTdDUXdlbjMuOCUyME1heCUyMG5vdyUyMHJhbmtlZCUyMGFzJTIwdGhlJTIwYmVzdCUyMG92ZXJhbGwlMjBtb2RlbCUyMGJ5JTIwYWdlbnRpYyUyMGluZGV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDA2NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAxOCUzQTQ0JTNBNDklMjAlMkIwMDAw",
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "pubDate": "Thu, 06 Aug 2026 18:44:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5nYW1lZGV2LnBsYWNlJTJGJTQwcnlnb3JvdXMlMkYxMTcwNDc2OTcyNTU1ODQ5NjUlN0NodHRwcyUzQSUyRiUyRm1hc3RvZG9uLmdhbWVkZXYucGxhY2UlMkYlNDByeWdvcm91cyUyRjExNzA0NzY5NzI1NTU4NDk2NSU3Q015JTIwcGhvbmUlMjBkZXRlY3RzJTIwZ29pbmclMjBvbiUyMGElMjBydW4lMjBhcyUyMCVFMiU4MCU5Q3NvbWVvbmUlMjBzbmF0Y2hpbmclMjBteSUyMHBob25lJTIwYW5kJTIwcnVubmluZyUyMG9mZiVFMiU4MCU5RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjAwNDM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTglM0EyNiUzQTA4JTIwJTJCMDAwMA",
+      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "pubDate": "Thu, 06 Aug 2026 18:26:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbXByb3ZpbmctZ3B0LTUtNi1zb2wtaW4tY2hhdGdwdCUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGaW1wcm92aW5nLWdwdC01LTYtc29sLWluLWNoYXRncHQlMkYlN0NJbXByb3ZpbmclMjBHUFQlRTIlODAlOTE1LjYlMjBTb2wlMjBpbiUyMENoYXRHUFQlMkMlMjBleHBhbmRpbmclMjBHUFQlRTIlODAlOTE1LjYlMjBMdW5hJTIwYWNjZXNzJTIwZm9yJTIwZnJlZSUyMHVzZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxOTkzNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTAyJTNBMDQlMjAlMkIwMDAw",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "pubDate": "Thu, 06 Aug 2026 17:02:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Rhc2hlbGYuZGV2JTJGcG9zdHMlMkZ0YXN0ZS1pcy1hbGwtdGhhdHMtbGVmdCU3Q2h0dHBzJTNBJTJGJTJGbm90YXNoZWxmLmRldiUyRnBvc3RzJTJGdGFzdGUtaXMtYWxsLXRoYXRzLWxlZnQlN0NUYXN0ZSUyMElzJTIwQWxsJTIwVGhhdCdzJTIwTGVmdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTk5MzQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTclM0EwMSUzQTMzJTIwJTJCMDAwMA",
+      "title": "Taste Is All That's Left",
+      "pubDate": "Thu, 06 Aug 2026 17:01:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ29waWxvdEtpdCUyRmNoYW5uZWxzLXNkayU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkNvcGlsb3RLaXQlMkZjaGFubmVscy1zZGslN0NTaG93JTIwSE4lM0ElMjBUaGUlMjBDaGFubmVscyUyMFNESyUyMCVFMiU4MCU5MyUyMEJyaW5nJTIwQW55JTIwQWdlbnQlMjB0byUyMEFueSUyMENoYW5uZWwlMjAoU2xhY2slMkMlMjBNUyUyMFRlYW1zKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTk4NTgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTYlM0EwNSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "pubDate": "Thu, 06 Aug 2026 16:05:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm92ZW5tZXRhbC5jb20lN0NodHRwcyUzQSUyRiUyRnByb3Zlbm1ldGFsLmNvbSUyRiU3Q0xhdW5jaCUyMEhOJTNBJTIwUHJvdmVuTWV0YWwlMjAoWUMlMjBTMjYpJTIwZGVsaXZlcnMlMjBjaXJjdWl0JTIwYm9hcmRzJTIwaW4lMjBkYXlzJTIwaW5zdGVhZCUyMG9mJTIwd2Vla3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE5ODQ2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA2JTIwQXVnJTIwMjAyNiUyMDE1JTNBNTklM0ExNSUyMCUyQjAwMDA",
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "pubDate": "Thu, 06 Aug 2026 15:59:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2l0aHVic3RhdHVzLmNvbSUyRmluY2lkZW50cyUyRnFjdmpremNzN2o3NCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdpdGh1YnN0YXR1cy5jb20lMkZpbmNpZGVudHMlMkZxY3Zqa3pjczdqNzQlN0NHaXRIdWIlMjBBY3Rpb25zJTIwYW5kJTIwUGFnZXMlMjBhcmUlMjBleHBlcmllbmNpbmclMjBkZWdyYWRlZCUyMGF2YWlsYWJpbGl0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTk4MzAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTUlM0E0OSUzQTM4JTIwJTJCMDAwMA",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "pubDate": "Thu, 06 Aug 2026 15:49:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnN5ZG9yZXRzLmNvbSUyRmVuJTJGcG9zdHMlMkZhbG1vc3Qtbm8tc2tpbGwtcmVxdWlyZWQtdG8tY29vay1hLXN0ZWFrJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnN5ZG9yZXRzLmNvbSUyRmVuJTJGcG9zdHMlMkZhbG1vc3Qtbm8tc2tpbGwtcmVxdWlyZWQtdG8tY29vay1hLXN0ZWFrJTJGJTdDQWxtb3N0JTIwbm8lMjBza2lsbCUyMHJlcXVpcmVkJTIwdG8lMjBjb29rJTIwYSUyMHN0ZWFrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxOTgwNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAxNSUzQTMwJTNBNDglMjAlMkIwMDAw",
+      "title": "Almost no skill required to cook a steak",
+      "pubDate": "Thu, 06 Aug 2026 15:30:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2FsZXguZGV2JTJGYmxvZyUyRmFpLWFnZW50LXBlcm1pc3Npb25zLXN0YXRzJTJGJTdDaHR0cHMlM0ElMkYlMkZzY2FsZXguZGV2JTJGYmxvZyUyRmFpLWFnZW50LXBlcm1pc3Npb25zLXN0YXRzJTJGJTdDSHVtYW5zJTIwbWlzc2VkJTIwMSUyMGluJTIwMyUyMHRocmVhdHMlMjBhcHByb3ZpbmclMjBBSSUyMGFnZW50JTIwY29tbWFuZHMlMjBhY3Jvc3MlMjA0MGslMjBnYW1lJTIwcnVucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTk1NDY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTElM0E1OCUzQTA3JTIwJTJCMDAwMA",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "pubDate": "Thu, 06 Aug 2026 11:58:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF5ZXJvd2l0ei5pbyUyRmJsb2clMkZtYXJpby1tZWV0cy1wYXJldG8lN0NodHRwcyUzQSUyRiUyRnd3dy5tYXllcm93aXR6LmlvJTJGYmxvZyUyRm1hcmlvLW1lZXRzLXBhcmV0byU3Q01hcmlvJTIwTWVldHMlMjBQYXJldG8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE5NTIzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA2JTIwQXVnJTIwMjAyNiUyMDExJTNBMjQlM0E1MyUyMCUyQjAwMDA",
+      "title": "Mario Meets Pareto",
+      "pubDate": "Thu, 06 Aug 2026 11:24:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
     }
   ]
