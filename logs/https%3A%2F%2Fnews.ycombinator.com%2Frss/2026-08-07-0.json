@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-07",
     "newestItemDate": "2026-08-07",
-    "itemCount": 5,
-    "generatedAt": "2026-08-07T09:18:27.578Z"
+    "itemCount": 19,
+    "generatedAt": "2026-08-07T17:11:51.354Z"
   },
   "items": [
     {
@@ -36,6 +36,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZhdWclMkYwNiUyRm5ldy1tZXhpY28tY291cnQtbWV0YSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnRlY2hub2xvZ3klMkYyMDI2JTJGYXVnJTJGMDYlMkZuZXctbWV4aWNvLWNvdXJ0LW1ldGElN0NOZXclMjBNZXhpY28lMjBjb3VydCUyMG9yZGVycyUyME1ldGElMjB0byUyMHBheSUyMCUyNDU2N20lMjBvdmVyJTIwaGFybXMlMjB0byUyMGNoaWxkcmVuJUUyJTgwJTk5cyUyMG1lbnRhbCUyMGhlYWx0aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjA0MzUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDclMjBBdWclMjAyMDI2JTIwMDAlM0EwNiUzQTI4JTIwJTJCMDAwMA",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "pubDate": "Fri, 07 Aug 2026 00:06:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubHNlLmFjLnVrJTJGcmVzZWFyY2glMkZyZXNlYXJjaC1mb3ItdGhlLXdvcmxkJTJGZWNvbm9taWNzJTJGdGF4LWN1dHMtZm9yLXRoZS13ZWFsdGh5LW9ubHktYmVuZWZpdC10aGUtcmljaC1kZWJ1bmtpbmctdHJpY2tsZS1kb3duLWVjb25vbWljcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmxzZS5hYy51ayUyRnJlc2VhcmNoJTJGcmVzZWFyY2gtZm9yLXRoZS13b3JsZCUyRmVjb25vbWljcyUyRnRheC1jdXRzLWZvci10aGUtd2VhbHRoeS1vbmx5LWJlbmVmaXQtdGhlLXJpY2gtZGVidW5raW5nLXRyaWNrbGUtZG93bi1lY29ub21pY3MlN0NUYXglMjBjdXRzJTIwZm9yJTIwdGhlJTIwd2VhbHRoeSUyMG9ubHklMjBiZW5lZml0JTIwdGhlJTIwcmljaCUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjEzMDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDclMjBBdWclMjAyMDI2JTIwMTYlM0E0NCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "pubDate": "Fri, 07 Aug 2026 16:44:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZyZXNwb25kaW5nLW5leHQtZnJvbnRpZXItY3JpdGljYWwtY3liZXItY2FwYWJpbGl0aWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZyZXNwb25kaW5nLW5leHQtZnJvbnRpZXItY3JpdGljYWwtY3liZXItY2FwYWJpbGl0aWVzJTJGJTdDUmVzcG9uZGluZyUyMHRvJTIwdGhlJTIwbmV4dCUyMGZyb250aWVyJTIwb2YlMjBjcml0aWNhbCUyMGN5YmVyJTIwY2FwYWJpbGl0aWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMTMwMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTM5JTNBMzYlMjAlMkIwMDAw",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "pubDate": "Fri, 07 Aug 2026 16:39:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZnN0YW5kYXJkLmNvbSUyRnBhY2lmaWMtc3RhbmRhcmQtdGltZSUyRjIwMjYlMkYwOCUyRjA3JTJGc2YtYWktYmlsbGJvYXJkcy1keXN0b3BpYW4tbm90LWZ1bm55JTJGJTdDaHR0cHMlM0ElMkYlMkZzZnN0YW5kYXJkLmNvbSUyRnBhY2lmaWMtc3RhbmRhcmQtdGltZSUyRjIwMjYlMkYwOCUyRjA3JTJGc2YtYWktYmlsbGJvYXJkcy1keXN0b3BpYW4tbm90LWZ1bm55JTJGJTdDVGhlJTIwQUklMjBCaWxsYm9hcmRzJTIwQXJlJTIwS2lsbGluZyUyMFNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMTI5MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTMyJTNBMTYlMjAlMkIwMDAw",
+      "title": "The AI Billboards Are Killing SF",
+      "pubDate": "Fri, 07 Aug 2026 16:32:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2Rzcy5vcmclMkZibGFjay1ob2xlLW1hcHBlci1yZWxlYXNlLTIwJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2Rzcy5vcmclMkZibGFjay1ob2xlLW1hcHBlci1yZWxlYXNlLTIwJTJGJTdDQW4lMjBhbGwtc2t5JTIwbWFwJTIwb2YlMjBoYWxmJTIwYSUyMG1pbGxpb24lMjBzdXBlcm1hc3NpdmUlMjBibGFjayUyMGhvbGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMTE5MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTI0JTNBNTMlMjAlMkIwMDAw",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "pubDate": "Fri, 07 Aug 2026 15:24:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdXV4cGx1c29uZS5naXRodWIuaW8lMkZibG9nJTJGMjAyNiUyRjA4JTJGMDQlMkZtb2JpdXMtY3Jvc3N3b3JkJTJGJTdDaHR0cHMlM0ElMkYlMkZxdXV4cGx1c29uZS5naXRodWIuaW8lMkZibG9nJTJGMjAyNiUyRjA4JTJGMDQlMkZtb2JpdXMtY3Jvc3N3b3JkJTJGJTdDTSVDMyVCNmJpdXMtU3RyaXAlMjBDcm9zc3dvcmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMTE2NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTEwJTNBMzQlMjAlMkIwMDAw",
+      "title": "Möbius-Strip Crosswords",
+      "pubDate": "Fri, 07 Aug 2026 15:10:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RVdWZNcXd5TzdwWSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEVXVmTXF3eU83cFklN0NJY2ViZXJnJTIwQ29sbGFwc2VzJTIwYW5kJTIwRmxpcHMlMjBvdmVyJTIwaW4lMjBJbHVsaXNzYXQlMkMlMjBHcmVlbmxhbmQlMjAoSnVseSUyMDI1JTJDJTIwMjAyNiklMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjExNDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDclMjBBdWclMjAyMDI2JTIwMTQlM0E1NSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+      "pubDate": "Fri, 07 Aug 2026 14:55:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXR0ZXJzdG9hbmV3ZGV2ZWxvcGVyLmNvbSUyRjIwMjAlMkYwMSUyRjI3JTJGc29mdHdhcmUtaXMtYWJvdXQtcGVvcGxlLW5vdC1jb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZsZXR0ZXJzdG9hbmV3ZGV2ZWxvcGVyLmNvbSUyRjIwMjAlMkYwMSUyRjI3JTJGc29mdHdhcmUtaXMtYWJvdXQtcGVvcGxlLW5vdC1jb2RlJTJGJTdDU29mdHdhcmUlMjBpcyUyMGFib3V0JTIwcGVvcGxlJTJDJTIwbm90JTIwY29kZSUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjExNDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDclMjBBdWclMjAyMDI2JTIwMTQlM0E1NSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Software is about people, not code (2020)",
+      "pubDate": "Fri, 07 Aug 2026 14:55:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXRyb252aWV3LmNvbSUyRm5ld3MlMkY5OS1wZXJjZW50LW9mLW15LXdlYnNpdGUtdHJhZmZpYy1pcy1ib3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZwYXRyb252aWV3LmNvbSUyRm5ld3MlMkY5OS1wZXJjZW50LW9mLW15LXdlYnNpdGUtdHJhZmZpYy1pcy1ib3RzJTJGJTdDOTklMjUlMjBvZiUyME15JTIwV2Vic2l0ZSUyMFRyYWZmaWMlMjBJcyUyMEJvdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIxMTM4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDE0JTNBNTElM0E1NyUyMCUyQjAwMDA",
+      "title": "99% of My Website Traffic Is Bots",
+      "pubDate": "Fri, 07 Aug 2026 14:51:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmllbWFubGFiLm9yZyUyRjIwMjYlMkYwOCUyRmFtZXJpY2FzLWxhcmdlc3QtbmV3c3BhcGVyLWNoYWluLXVzYS10b2RheS1jby1wYXJ0bmVycy13aXRoLXBhbGFudGlyLXRvLWFuYWx5emUtYXVkaWVuY2UtZGF0YSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5pZW1hbmxhYi5vcmclMkYyMDI2JTJGMDglMkZhbWVyaWNhcy1sYXJnZXN0LW5ld3NwYXBlci1jaGFpbi11c2EtdG9kYXktY28tcGFydG5lcnMtd2l0aC1wYWxhbnRpci10by1hbmFseXplLWF1ZGllbmNlLWRhdGElMkYlN0NVU0ElMjBUb2RheSUyMENvLiUyQyUyMHBhcnRuZXJzJTIwd2l0aCUyMFBhbGFudGlyJTIwdG8lMjBhbmFseXplJTIwYXVkaWVuY2UlMjBkYXRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMTA1ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTAyJTNBMTUlMjAlMkIwMDAw",
+      "title": "USA Today Co., partners with Palantir to analyze audience data",
+      "pubDate": "Fri, 07 Aug 2026 14:02:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGV3l6ZXItTGFuZyUyRnd5emVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGV3l6ZXItTGFuZyUyRnd5emVyJTdDU2hvdyUyMEhOJTNBJTIwV3l6ZXIlMjBQcm9ncmFtbWluZyUyMExhbmd1YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDkzODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxMiUzQTI4JTNBNTUlMjAlMkIwMDAw",
+      "title": "Show HN: Wyzer Programming Language",
+      "pubDate": "Fri, 07 Aug 2026 12:28:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWxpc3Blci5tZSUyRmhvdy13ZS1tYWRlLXBvc3RncmVzLWh1bmRyZWRzLW9mLXRpbWVzLWZhc3Rlci10aGUtcXVlcnktZW5naW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZtYWxpc3Blci5tZSUyRmhvdy13ZS1tYWRlLXBvc3RncmVzLWh1bmRyZWRzLW9mLXRpbWVzLWZhc3Rlci10aGUtcXVlcnktZW5naW5lJTJGJTdDTWFraW5nJTIwUG9zdGdyZXMlMjAzMDB4JTIwZmFzdGVyJTIwZm9yJTIwYW5hbHl0aWNzJTNBJTIwYmF0Y2hpbmclMkMlMjBvcGVyYXRvciUyMGZ1c2lvbiUyQyUyMGFuZCUyMFNJTUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwODUzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDExJTNBMDAlM0EzNSUyMCUyQjAwMDA",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "pubDate": "Fri, 07 Aug 2026 11:00:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXh0bG9nLmNjJTJGYWJvdXQlN0NodHRwcyUzQSUyRiUyRnRleHRsb2cuY2MlMkZhYm91dCU3Q1Nob3clMjBITiUzQSUyMHRleHRsb2clMjAlRTIlODAlOTMlMjBBJTIwcXVpZXQlMkMlMjB0ZXh0LW9ubHklMjBtaWNyb2Jsb2dnaW5nJTIwcGxhdGZvcm0lMkMlMjBvcGVuLXNvdXJjZSUyQyUyMG5vJTIwSlMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwODQ1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDEwJTNBNTIlM0EyMSUyMCUyQjAwMDA",
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "pubDate": "Fri, 07 Aug 2026 10:52:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGa2l0ZXN1cmYlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZraXRlc3VyZiUyRiU3Q0tpdGVzdXJmJTNBJTIwQWdlbnQtZmlyc3QlMjBicm93c2VyJTIwdGhhdCUyMHJ1bnMlMjBpbiUyMFY4JTIwaXNvbGF0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwODM5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDEwJTNBNDIlM0EwNyUyMCUyQjAwMDA",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "pubDate": "Fri, 07 Aug 2026 10:42:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmMxZTF2ZzBnamw1byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjMWUxdmcwZ2psNW8lN0NVUyUyMHN0cmlrZXMlMjAlMjQxLjJCJTIwZGVhbCUyMHRvJTIwcGF5JTIwR2VybWFuJTIwZmlybSUyMHRvJTIwaGFsdCUyMG9mZnNob3JlJTIwd2luZCUyMHByb2plY3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDgzMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxMCUzQTI4JTNBNTUlMjAlMkIwMDAw",
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "pubDate": "Fri, 07 Aug 2026 10:28:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
     }
   ]

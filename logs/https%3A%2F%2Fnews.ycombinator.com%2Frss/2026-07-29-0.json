@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 70,
-    "generatedAt": "2026-08-07T09:18:27.580Z"
+    "itemCount": 71,
+    "generatedAt": "2026-08-07T17:11:51.355Z"
   },
   "items": [
     {
@@ -426,6 +426,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZia2FyYWR6aWMuZ2l0aHViLmlvJTJGcG9zdHMlMkZzY2FubmVyJTJGJTdDaHR0cHMlM0ElMkYlMkZia2FyYWR6aWMuZ2l0aHViLmlvJTJGcG9zdHMlMkZzY2FubmVyJTJGJTdDUGFyc2VycyUyMGRvbid0JTIwaGF2ZSUyMHRvJTIwYmUlMjBjb21wbGljYXRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk1OTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTElM0ExNSUzQTUwJTIwJTJCMDAwMA",
       "title": "Parsers don't have to be complicated",
       "pubDate": "Wed, 29 Jul 2026 11:15:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVhZGVkc29sZGVyLmNvbSUyRjIwMjYlMkYwNyUyRjI4JTJGYmJjLWJyaWRnZS1jb21wYW5pb24tcGFydC0xLW92ZXJ2aWV3Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5sZWFkZWRzb2xkZXIuY29tJTJGMjAyNiUyRjA3JTJGMjglMkZiYmMtYnJpZGdlLWNvbXBhbmlvbi1wYXJ0LTEtb3ZlcnZpZXcuaHRtbCU3Q1RoZSUyMEJCQyUyMFRldHJpcyUyMENvbXBhbmlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDkyNzQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMDIlM0EyNCUzQTM4JTIwJTJCMDAwMA",
+      "title": "The BBC Tetris Companion",
+      "pubDate": "Wed, 29 Jul 2026 02:24:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]
