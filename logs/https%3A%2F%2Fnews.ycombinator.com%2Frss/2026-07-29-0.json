@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-29",
     "newestItemDate": "2026-07-29",
-    "itemCount": 69,
-    "generatedAt": "2026-08-06T10:57:01.878Z"
+    "itemCount": 70,
+    "generatedAt": "2026-08-07T09:18:27.580Z"
   },
   "items": [
     {
@@ -420,6 +420,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnNpbGVudHNpZ25hbC5ldSUyRjIwMjYlMkYwNyUyRjI4JTJGdGhlLWNpcGhlci1iZWhpbmQtcXN5cnVwd2QtcmVjb25zdHJ1Y3RpbmctaWJtLWktcGFzc3dvcmQtaGFzaGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnNpbGVudHNpZ25hbC5ldSUyRjIwMjYlMkYwNyUyRjI4JTJGdGhlLWNpcGhlci1iZWhpbmQtcXN5cnVwd2QtcmVjb25zdHJ1Y3RpbmctaWJtLWktcGFzc3dvcmQtaGFzaGVzJTJGJTdDVGhlJTIwQ2lwaGVyJTIwQmVoaW5kJTIwUXN5cnVwd2QlM0ElMjBSZWNvbnN0cnVjdGluZyUyMElCTSUyMGklMjBQYXNzd29yZCUyMEhhc2hlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk0MzU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMDclM0ExOSUzQTIwJTIwJTJCMDAwMA",
       "title": "The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes",
       "pubDate": "Wed, 29 Jul 2026 07:19:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZia2FyYWR6aWMuZ2l0aHViLmlvJTJGcG9zdHMlMkZzY2FubmVyJTJGJTdDaHR0cHMlM0ElMkYlMkZia2FyYWR6aWMuZ2l0aHViLmlvJTJGcG9zdHMlMkZzY2FubmVyJTJGJTdDUGFyc2VycyUyMGRvbid0JTIwaGF2ZSUyMHRvJTIwYmUlMjBjb21wbGljYXRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDk1OTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjklMjBKdWwlMjAyMDI2JTIwMTElM0ExNSUzQTUwJTIwJTJCMDAwMA",
+      "title": "Parsers don't have to be complicated",
+      "pubDate": "Wed, 29 Jul 2026 11:15:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-29-0.json"
     }
   ]
