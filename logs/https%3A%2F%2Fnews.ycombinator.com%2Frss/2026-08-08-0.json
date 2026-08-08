@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-08",
     "newestItemDate": "2026-08-08",
-    "itemCount": 7,
-    "generatedAt": "2026-08-08T09:04:27.094Z"
+    "itemCount": 18,
+    "generatedAt": "2026-08-08T16:56:32.969Z"
   },
   "items": [
     {
@@ -48,6 +48,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2UuY29tJTJGc3BhY2UtZXhwbG9yYXRpb24lMkZ2b3lhZ2VyJTJGbmFzYS1maWd1cmVkLW91dC1ob3ctdG8ta2VlcC1pdHMtNDgteWVhci1vbGQtdm95YWdlci0yLXByb2JlLXJ1bm5pbmctZm9yLXlldC1hbm90aGVyLXllYXIlN0NodHRwcyUzQSUyRiUyRnd3dy5zcGFjZS5jb20lMkZzcGFjZS1leHBsb3JhdGlvbiUyRnZveWFnZXIlMkZuYXNhLWZpZ3VyZWQtb3V0LWhvdy10by1rZWVwLWl0cy00OC15ZWFyLW9sZC12b3lhZ2VyLTItcHJvYmUtcnVubmluZy1mb3IteWV0LWFub3RoZXIteWVhciU3Q05BU0ElMjBmaWd1cmVkJTIwb3V0JTIwaG93JTIwdG8lMjBrZWVwJTIwaXRzJTIwVm95YWdlciUyMDIlMjBwcm9iZSUyMHJ1bm5pbmclMjBmb3IlMjBhbm90aGVyJTIweWVhciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjE4MTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMDElM0E0OSUzQTExJTIwJTJCMDAwMA",
       "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
       "pubDate": "Sat, 08 Aug 2026 01:49:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZzZW5zaXRpdmUtaW5mby1nb2VzLWludG8tbm8tcmVwbHktZW1haWxzLWNvbnN0YW50bHktdGhpcy1ndXktc2Vlcy1pdC1hbGwlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53aXJlZC5jb20lMkZzdG9yeSUyRnNlbnNpdGl2ZS1pbmZvLWdvZXMtaW50by1uby1yZXBseS1lbWFpbHMtY29uc3RhbnRseS10aGlzLWd1eS1zZWVzLWl0LWFsbCUyRiU3Q1NlbnNpdGl2ZSUyMEluZm8lMjBHb2VzJTIwaW50byUyMCdObyUyMFJlcGx5JyUyMEVtYWlscyUyMENvbnN0YW50bHkuJTIwVGhpcyUyMEd1eSUyMFNlZXMlMjBJdCUyMEFsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjIxOTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMTQlM0EwNyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+      "pubDate": "Sat, 08 Aug 2026 14:07:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2NpYWwudHJlZWhvdXNlLnN5c3RlbXMlMkYlNDBtZ29ybnklMkYxMTcwNTg0ODMwMzkzNjI3NzklN0NodHRwcyUzQSUyRiUyRnNvY2lhbC50cmVlaG91c2Uuc3lzdGVtcyUyRiU0MG1nb3JueSUyRjExNzA1ODQ4MzAzOTM2Mjc3OSU3Q0dlbnRvbyUyMGJ1Z3ppbGxhJTIwY2xvc2VkJTIwZHVlJTIwQUklMjBib3QlMjBzY3JhcGVyJTIwb3ZlcmxvYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyMTg2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDEzJTNBNTUlM0E0MiUyMCUyQjAwMDA",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "pubDate": "Sat, 08 Aug 2026 13:55:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdldHV0bS5hcHAlMkYyMDI2JTJGaW50cm9kdWNpbmctdHJpdG9uLWRpcmVjdHgtMTEtZHJpdmVyLWZvci1xZW11JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdldHV0bS5hcHAlMkYyMDI2JTJGaW50cm9kdWNpbmctdHJpdG9uLWRpcmVjdHgtMTEtZHJpdmVyLWZvci1xZW11JTJGJTdDVHJpdG9uJTNBJTIwRGlyZWN0WCUyMDExJTIwRHJpdmVyJTIwZm9yJTIwUUVNVSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjIxNzExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMTMlM0EzMyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "pubDate": "Sat, 08 Aug 2026 13:33:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6YW5laGFtLmdpdGh1Yi5pbyUyRnZveWFnZXItZmRzLWVtdWxhdG9yJTJGJTdDaHR0cHMlM0ElMkYlMkZ6YW5laGFtLmdpdGh1Yi5pbyUyRnZveWFnZXItZmRzLWVtdWxhdG9yJTJGJTdDVm95YWdlciUyMDElMjBGRFMlMjBDb21wdXRlciUyMEVtdWxhdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMjE2NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwOCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTI4JTNBMzglMjAlMkIwMDAw",
+      "title": "Voyager 1 FDS Computer Emulator",
+      "pubDate": "Sat, 08 Aug 2026 13:28:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjaWZpY2F0aW9uLndlYnNpdGUlMkZzcGVjJTJGZm91bmRhdGlvbnMlMkZmb3Itc2FsZS1kbnMlMkYlN0NodHRwcyUzQSUyRiUyRnNwZWNpZmljYXRpb24ud2Vic2l0ZSUyRnNwZWMlMkZmb3VuZGF0aW9ucyUyRmZvci1zYWxlLWRucyUyRiU3Q0ElMjBkb21haW4lMjBjYW4lMjBub3clMjBzYXklMjBpdCUyMGlzJTIwZm9yJTIwc2FsZSUyQyUyMGluJTIwRE5TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMjE2NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwOCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTI2JTNBNTElMjAlMkIwMDAw",
+      "title": "A domain can now say it is for sale, in DNS",
+      "pubDate": "Sat, 08 Aug 2026 13:26:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidXR0b25kb3duLmNvbSUyRnN1Y2hiYWR0ZWNoYWRzJTJGYXJjaGl2ZSUyRmdhdGV3YXktMjAwMC1wYXJ0LTIlMkYlN0NodHRwcyUzQSUyRiUyRmJ1dHRvbmRvd24uY29tJTJGc3VjaGJhZHRlY2hhZHMlMkZhcmNoaXZlJTJGZ2F0ZXdheS0yMDAwLXBhcnQtMiUyRiU3Q0dhdGV3YXklMjAyMDAwJ3MlMjBoaWxhcmlvdXNseSUyMGJhZCUyMGFkcyUyMGluJTIwdGhlJTIwOTBzJTIwKFBhcnQlMjBJSSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyMTIyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDEyJTNBMzElM0ExMSUyMCUyQjAwMDA",
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "pubDate": "Sat, 08 Aug 2026 12:31:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZBdWclMkY3JTJGb3BlbmFpLXRpbWVsaW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZBdWclMkY3JTJGb3BlbmFpLXRpbWVsaW5lJTJGJTdDVGltZWxpbmUlMjBvZiUyMHRoZSUyME9wZW5BSSUyMGFjY2lkZW50YWwlMjBhdHRhY2slMjBhZ2FpbnN0JTIwSHVnZ2luZyUyMEZhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyMDYwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDEwJTNBNTclM0E0NCUyMCUyQjAwMDA",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "pubDate": "Sat, 08 Aug 2026 10:57:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGdGVjaCUyRjk3Njg4MCUyRm1pY3Jvc29mdC1lZGdlLWV4dGVuc2lvbnMtYWQtYmxvY2tlcnMtbXYyLW12MyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXZlcmdlLmNvbSUyRnRlY2glMkY5NzY4ODAlMkZtaWNyb3NvZnQtZWRnZS1leHRlbnNpb25zLWFkLWJsb2NrZXJzLW12Mi1tdjMlN0NNaWNyb3NvZnQlMjBFZGdlJTIwaXMlMjBhYm91dCUyMHRvJTIwbG9jayUyMG91dCUyMG9sZGVyJTIwYWQlMjBibG9ja2VycyUyQyUyMGp1c3QlMjBsaWtlJTIwQ2hyb21lJTIwZGlkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMjAzOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwOCUyMEF1ZyUyMDIwMjYlMjAxMCUzQTE2JTNBMDclMjAlMkIwMDAw",
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "pubDate": "Sat, 08 Aug 2026 10:16:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDgtMDYlMkZ1cy1taWxpdGFyeS1zLWN5YmVyLWNvbW1hbmQtdW5pdC1ncmFwcGxlcy13aXRoLWNsdXN0ZXItb2YtZGVhdGhzLWJ5LXN1aWNpZGUlN0NodHRwcyUzQSUyRiUyRnd3dy5ibG9vbWJlcmcuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGMjAyNi0wOC0wNiUyRnVzLW1pbGl0YXJ5LXMtY3liZXItY29tbWFuZC11bml0LWdyYXBwbGVzLXdpdGgtY2x1c3Rlci1vZi1kZWF0aHMtYnktc3VpY2lkZSU3Q1VTJTIwTWlsaXRhcnkncyUyMGN5YmVyJTIwY29tbWFuZCUyMHVuaXQlMjBncmFwcGxlcyUyMHdpdGglMjBjbHVzdGVyJTIwb2YlMjBkZWF0aHMlMjBieSUyMHN1aWNpZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyMDMzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDEwJTNBMDQlM0EyNSUyMCUyQjAwMDA",
+      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+      "pubDate": "Sat, 08 Aug 2026 10:04:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA4JTJGZXVyb3Blcy1mcmVlLXNhdGVsbGl0ZS1zZXJ2aWNlLWp1c3QtbWFkZS1pdC1lYXNpZXItdG8tdHJhY2std2lsZGZpcmVzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA4JTJGZXVyb3Blcy1mcmVlLXNhdGVsbGl0ZS1zZXJ2aWNlLWp1c3QtbWFkZS1pdC1lYXNpZXItdG8tdHJhY2std2lsZGZpcmVzJTJGJTdDRXVyb3BlJ3MlMjBmcmVlJTIwc2F0ZWxsaXRlJTIwc2VydmljZSUyMGp1c3QlMjBtYWRlJTIwaXQlMjBlYXNpZXIlMjB0byUyMHRyYWNrJTIwd2lsZGZpcmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMjAzMTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwOCUyMEF1ZyUyMDIwMjYlMjAwOSUzQTU4JTNBNDElMjAlMkIwMDAw",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "pubDate": "Sat, 08 Aug 2026 09:58:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGd2VhdGhlcm5leHQtYWktbW9kZWwtYWNoaWV2ZXMtYnJlYWt0aHJvdWdoLWluLWZvcmVjYXN0aW5nLWN5Y2xvbmVzJTJGJTdDaHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGd2VhdGhlcm5leHQtYWktbW9kZWwtYWNoaWV2ZXMtYnJlYWt0aHJvdWdoLWluLWZvcmVjYXN0aW5nLWN5Y2xvbmVzJTJGJTdDRGVlcE1pbmQncyUyMFdlYXRoZXJOZXh0JTIwbW9kZWwlMjBhY2hpZXZlcyUyMGJyZWFrdGhyb3VnaCUyMGZvcmVjYXN0aW5nJTIwY3ljbG9uZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyMDEyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDA5JTNBMTglM0E1MCUyMCUyQjAwMDA",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "pubDate": "Sat, 08 Aug 2026 09:18:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
     }
   ]

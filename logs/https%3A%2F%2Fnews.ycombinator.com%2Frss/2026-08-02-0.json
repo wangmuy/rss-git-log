@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 51,
-    "generatedAt": "2026-08-08T09:04:27.095Z"
+    "itemCount": 52,
+    "generatedAt": "2026-08-08T16:56:32.970Z"
   },
   "items": [
     {
@@ -312,6 +312,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxmaWtwbCUyRmFvNDg2JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxmaWtwbCUyRmFvNDg2JTdDYW80ODYlM0ElMjB4ODYtY29tcGF0aWJsZSUyMFZlcmlsb2clMjBjb3JlJTIwaW1wbGVtZW50aW5nJTIwYWxsJTIwZmVhdHVyZXMlMjBvZiUyMGElMjA0ODYlMjBTWCUyMCgyMDE0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQxMjM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMDQlM0E1MyUzQTI0JTIwJTJCMDAwMA",
       "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
       "pubDate": "Sun, 02 Aug 2026 04:53:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZWFkaW1hdHRlby5jb20lMkZ0b3J1cy12MC01Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmFuZHJlYWRpbWF0dGVvLmNvbSUyRnRvcnVzLXYwLTUuaHRtbCU3Q1Nob3clMjBITiUzQSUyMFJvdGF0aW5nJTIwdG9ydXMlMjBpbiUyMHRlcm1pbmFsJTIwKGJ1dCUyMHdpdGglMjBraXR0eSUyMGdyYXBoaWNzJTIwcHJvdG9jb2wpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDE2NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwNiUzQTE4JTNBNDIlMjAlMkIwMDAw",
+      "title": "Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
+      "pubDate": "Sun, 02 Aug 2026 06:18:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]

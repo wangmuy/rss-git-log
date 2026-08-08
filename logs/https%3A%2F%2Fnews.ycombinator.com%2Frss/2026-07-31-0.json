@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-31",
     "newestItemDate": "2026-07-31",
-    "itemCount": 73,
-    "generatedAt": "2026-08-07T09:18:27.579Z"
+    "itemCount": 74,
+    "generatedAt": "2026-08-08T16:56:32.970Z"
   },
   "items": [
     {
@@ -444,6 +444,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmlzdC5nb3YlMkZhdG9taWMtY2xvY2tzJTJGaG93LWRvLWF0b21pYy1jbG9ja3Mtd29yayU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5pc3QuZ292JTJGYXRvbWljLWNsb2NrcyUyRmhvdy1kby1hdG9taWMtY2xvY2tzLXdvcmslN0NBdG9taWMlMjBDbG9ja3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEyOTAxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMxJTIwSnVsJTIwMjAyNiUyMDIxJTNBNTglM0EwMyUyMCUyQjAwMDA",
       "title": "Atomic Clocks",
       "pubDate": "Fri, 31 Jul 2026 21:58:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI1OTczJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI1OTczJTdDay1Db2xvcmluZyUyMGlzJTIwRmFzdGVyJTIwdGhhbiUyMENvbXB1dGluZyUyMHRoZSUyMENocm9tYXRpYyUyME51bWJlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTE5NTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzElMjBKdWwlMjAyMDI2JTIwMDYlM0EwMCUzQTM0JTIwJTJCMDAwMA",
+      "title": "k-Coloring is Faster than Computing the Chromatic Number",
+      "pubDate": "Fri, 31 Jul 2026 06:00:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-31-0.json"
     }
   ]
