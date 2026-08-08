@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-01",
     "newestItemDate": "2026-08-01",
-    "itemCount": 53,
-    "generatedAt": "2026-08-08T02:24:38.691Z"
+    "itemCount": 54,
+    "generatedAt": "2026-08-08T09:04:27.095Z"
   },
   "items": [
     {
@@ -324,6 +324,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjYXJsa29sb24uY29tJTJGcmVhZGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGY2FybGtvbG9uLmNvbSUyRnJlYWRpbmclMkYlN0NDYXJsJ3MlMjBSZXF1aXJlZCUyMFJlYWRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzNTQ1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDE1JTNBNTElM0ExNSUyMCUyQjAwMDA",
       "title": "Carl's Required Reading",
       "pubDate": "Sat, 01 Aug 2026 15:51:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2hpcnRwb2NrZXQuY29tJTJGYmxvZyUyRnN1cGVyZXJkdXBlcmVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2hpcnRwb2NrZXQuY29tJTJGYmxvZyUyRnN1cGVyZXJkdXBlcmVyJTdDU3VwZXJlckR1cGVyZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzNTI2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDE1JTNBMjYlM0EyOSUyMCUyQjAwMDA",
+      "title": "SupererDuperer",
+      "pubDate": "Sat, 01 Aug 2026 15:26:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
     }
   ]

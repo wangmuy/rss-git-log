@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 50,
-    "generatedAt": "2026-08-08T02:24:38.691Z"
+    "itemCount": 51,
+    "generatedAt": "2026-08-08T09:04:27.095Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZiYW5rc3RhdGVtZW50Y29udmVydGVyLmNvbSUyRmJsb2clMkZwb3N0cyUyRjIwMjYtMDgtMDItd2h5LWFyZS1hbGwtYW1vdW50cy1uZWdhdGl2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmFua3N0YXRlbWVudGNvbnZlcnRlci5jb20lMkZibG9nJTJGcG9zdHMlMkYyMDI2LTA4LTAyLXdoeS1hcmUtYWxsLWFtb3VudHMtbmVnYXRpdmUlMkYlN0NXaHklMjBhcmUlMjBhbGwlMjB0aGUlMjBhbW91bnRzJTIwdmFsdWVzJTIwbmVnYXRpdmUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0MTUyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDA1JTNBNTMlM0E1MCUyMCUyQjAwMDA",
       "title": "Why are all the amounts values negative?",
       "pubDate": "Sun, 02 Aug 2026 05:53:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxmaWtwbCUyRmFvNDg2JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxmaWtwbCUyRmFvNDg2JTdDYW80ODYlM0ElMjB4ODYtY29tcGF0aWJsZSUyMFZlcmlsb2clMjBjb3JlJTIwaW1wbGVtZW50aW5nJTIwYWxsJTIwZmVhdHVyZXMlMjBvZiUyMGElMjA0ODYlMjBTWCUyMCgyMDE0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQxMjM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMDQlM0E1MyUzQTI0JTIwJTJCMDAwMA",
+      "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+      "pubDate": "Sun, 02 Aug 2026 04:53:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]

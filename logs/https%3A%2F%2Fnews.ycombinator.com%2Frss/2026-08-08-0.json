@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-08",
     "newestItemDate": "2026-08-08",
-    "itemCount": 3,
-    "generatedAt": "2026-08-08T02:24:38.690Z"
+    "itemCount": 7,
+    "generatedAt": "2026-08-08T09:04:27.094Z"
   },
   "items": [
     {
@@ -24,6 +24,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjb3Vyc2Uubml4b3Mub3JnJTJGdCUyRnRoZS1uaXhwa2dzLWNvcmUtdGVhbS1oYXMtZGlzYmFuZGVkJTJGNzk0MTMlN0NodHRwcyUzQSUyRiUyRmRpc2NvdXJzZS5uaXhvcy5vcmclMkZ0JTJGdGhlLW5peHBrZ3MtY29yZS10ZWFtLWhhcy1kaXNiYW5kZWQlMkY3OTQxMyU3Q1RoZSUyME5peHBrZ3MlMjBjb3JlJTIwdGVhbSUyMGhhcyUyMGRpc2JhbmRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjE3OTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMDElM0ExMiUzQTQ1JTIwJTJCMDAwMA",
       "title": "The Nixpkgs core team has disbanded",
       "pubDate": "Sat, 08 Aug 2026 01:12:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaS11cGRhdGVzLm5ldCUyRmdyaW5kci1jZW8tc2F5cy1haS1pcy1kb2luZy10aGUtd29yay1vZi0yMDAtZW5naW5lZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZhaS11cGRhdGVzLm5ldCUyRmdyaW5kci1jZW8tc2F5cy1haS1pcy1kb2luZy10aGUtd29yay1vZi0yMDAtZW5naW5lZXJzJTJGJTdDR3JpbmRyJTIwQ0VPJTIwU2F5cyUyMEFJJTIwSXMlMjBEb2luZyUyMHRoZSUyMFdvcmslMjBvZiUyMDIwMCUyMEVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjE5Nzc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMDclM0E1OCUzQTM2JTIwJTJCMDAwMA",
+      "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
+      "pubDate": "Sat, 08 Aug 2026 07:58:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeG9yZWF4ZWF4ZWF4JTJGcm9zZW5icmlkZ2UlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ4b3JlYXhlYXhlYXglMkZyb3NlbmJyaWRnZSU3Q0hhcmR3YXJlJTIwYmFja2Rvb3JzJTIwaW4lMjBzb21lJTIweDg2JTIwQ1BVcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjE5NTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMDclM0EwNCUzQTUxJTIwJTJCMDAwMA",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "pubDate": "Sat, 08 Aug 2026 07:04:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWIuYXJjaGl2ZS5vcmclMkZ3ZWIlMkYyMDI2MDczMTA1MzcyMSUyRmh0dHAlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5jYWZlcnJvJTJGbXlOZXR3b3JrJTJGcHVsbCUyRjMlN0NodHRwcyUzQSUyRiUyRndlYi5hcmNoaXZlLm9yZyUyRndlYiUyRjIwMjYwNzMxMDUzNzIxJTJGaHR0cCUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbmNhZmVycm8lMkZteU5ldHdvcmslMkZwdWxsJTJGMyU3Q015dGhvcyUyMHNvY2lhbCUyMGVuZ2luZWVyaW5nJTIwQUlTSSUyMElOQy0yMDI2LTA3LTI4LTAxJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMTg3MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwOCUyMEF1ZyUyMDIwMjYlMjAwMyUzQTQxJTNBNTYlMjAlMkIwMDAw",
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "pubDate": "Sat, 08 Aug 2026 03:41:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2UuY29tJTJGc3BhY2UtZXhwbG9yYXRpb24lMkZ2b3lhZ2VyJTJGbmFzYS1maWd1cmVkLW91dC1ob3ctdG8ta2VlcC1pdHMtNDgteWVhci1vbGQtdm95YWdlci0yLXByb2JlLXJ1bm5pbmctZm9yLXlldC1hbm90aGVyLXllYXIlN0NodHRwcyUzQSUyRiUyRnd3dy5zcGFjZS5jb20lMkZzcGFjZS1leHBsb3JhdGlvbiUyRnZveWFnZXIlMkZuYXNhLWZpZ3VyZWQtb3V0LWhvdy10by1rZWVwLWl0cy00OC15ZWFyLW9sZC12b3lhZ2VyLTItcHJvYmUtcnVubmluZy1mb3IteWV0LWFub3RoZXIteWVhciU3Q05BU0ElMjBmaWd1cmVkJTIwb3V0JTIwaG93JTIwdG8lMjBrZWVwJTIwaXRzJTIwVm95YWdlciUyMDIlMjBwcm9iZSUyMHJ1bm5pbmclMjBmb3IlMjBhbm90aGVyJTIweWVhciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjE4MTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMDElM0E0OSUzQTExJTIwJTJCMDAwMA",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "pubDate": "Sat, 08 Aug 2026 01:49:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
     }
   ]
