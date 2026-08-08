@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 59,
-    "generatedAt": "2026-08-07T17:11:51.355Z"
+    "itemCount": 60,
+    "generatedAt": "2026-08-08T02:24:38.691Z"
   },
   "items": [
     {
@@ -360,6 +360,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsb25kb25pc3QuY29tJTJGbG9uZG9uJTJGaGlzdG9yeSUyRm94Zm9yZC1zdHJlZXQtYmVhdmVycyU3Q2h0dHBzJTNBJTJGJTJGbG9uZG9uaXN0LmNvbSUyRmxvbmRvbiUyRmhpc3RvcnklMkZveGZvcmQtc3RyZWV0LWJlYXZlcnMlN0NXaHklMjBBcmUlMjBUaGVyZSUyMFN0YXR1ZXMlMjBvZiUyMEJlYXZlcnMlMjBvbiUyMFRvcCUyMG9mJTIwVGhpcyUyME94Zm9yZCUyMFN0cmVldCUyMFNob3AlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE1ODMwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAzJTIwQXVnJTIwMjAyNiUyMDE2JTNBNTIlM0EzNiUyMCUyQjAwMDA",
       "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
       "pubDate": "Mon, 03 Aug 2026 16:52:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4dncubG9sJTJGZW4lMkZhcnRpY2xlcyUyRm9vcC1yZWZsLmh0bWwlN0NodHRwcyUzQSUyRiUyRnh2dy5sb2wlMkZlbiUyRmFydGljbGVzJTJGb29wLXJlZmwuaHRtbCU3Q0d1YXJkZWQlMjBNZXRob2RzJTIwaW4lMjBPQ2FtbCUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU3NzcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTYlM0ExNSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Guarded Methods in OCaml (2025)",
+      "pubDate": "Mon, 03 Aug 2026 16:15:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 48,
-    "generatedAt": "2026-08-07T17:11:51.355Z"
+    "itemCount": 50,
+    "generatedAt": "2026-08-08T02:24:38.691Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ5a2lrby5tZSUyRmVuJTJGYXJ0aWNsZXMlMkY2OTI4ODYyOTIlMkYlN0NodHRwcyUzQSUyRiUyRnlraWtvLm1lJTJGZW4lMkZhcnRpY2xlcyUyRjY5Mjg4NjI5MiUyRiU3Q1Rob3JvdWdobHklMjBVbmRlcnN0YW5kaW5nJTIwQyUyQiUyQiUyMEFCSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ1MjU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTQlM0E1OCUzQTA4JTIwJTJCMDAwMA",
       "title": "Thoroughly Understanding C++ ABI",
       "pubDate": "Sun, 02 Aug 2026 14:58:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGV0ZXJrZWxseSUyRmNhcHRhaW4tYmlibGUtcmUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwZXRlcmtlbGx5JTJGY2FwdGFpbi1iaWJsZS1yZSU3Q0NhcHRhaW4lMjBCaWJsZSUyMFJldmVyc2UlMjBFbmdpbmVlcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ2NTQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTclM0EzOCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Captain Bible Reverse Engineering",
+      "pubDate": "Sun, 02 Aug 2026 17:38:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYW5rc3RhdGVtZW50Y29udmVydGVyLmNvbSUyRmJsb2clMkZwb3N0cyUyRjIwMjYtMDgtMDItd2h5LWFyZS1hbGwtYW1vdW50cy1uZWdhdGl2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmFua3N0YXRlbWVudGNvbnZlcnRlci5jb20lMkZibG9nJTJGcG9zdHMlMkYyMDI2LTA4LTAyLXdoeS1hcmUtYWxsLWFtb3VudHMtbmVnYXRpdmUlMkYlN0NXaHklMjBhcmUlMjBhbGwlMjB0aGUlMjBhbW91bnRzJTIwdmFsdWVzJTIwbmVnYXRpdmUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE0MTUyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAyJTIwQXVnJTIwMjAyNiUyMDA1JTNBNTMlM0E1MCUyMCUyQjAwMDA",
+      "title": "Why are all the amounts values negative?",
+      "pubDate": "Sun, 02 Aug 2026 05:53:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]
