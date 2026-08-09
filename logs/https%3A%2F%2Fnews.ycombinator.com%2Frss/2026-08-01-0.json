@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-01",
     "newestItemDate": "2026-08-01",
-    "itemCount": 54,
-    "generatedAt": "2026-08-08T09:04:27.095Z"
+    "itemCount": 55,
+    "generatedAt": "2026-08-09T02:32:10.047Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2hpcnRwb2NrZXQuY29tJTJGYmxvZyUyRnN1cGVyZXJkdXBlcmVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2hpcnRwb2NrZXQuY29tJTJGYmxvZyUyRnN1cGVyZXJkdXBlcmVyJTdDU3VwZXJlckR1cGVyZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzNTI2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDE1JTNBMjYlM0EyOSUyMCUyQjAwMDA",
       "title": "SupererDuperer",
       "pubDate": "Sat, 01 Aug 2026 15:26:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZXVzLnVnZW50LmJlJTJGYmxvZyUyRjI1LTI2JTJGMTJ1cmVubG9vcC11d2IlMkYlN0NodHRwcyUzQSUyRiUyRnpldXMudWdlbnQuYmUlMkZibG9nJTJGMjUtMjYlMkYxMnVyZW5sb29wLXV3YiUyRiU3Q0J1aWxkaW5nJTIwYSUyMGxvY2FsJTIwcG9zaXRpb25pbmclMjBzeXN0ZW0lMjB0byUyMHRyYWNrJTIwcnVubmVycyUyMHVzaW5nJTIwVWx0cmEtV2lkZWJhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTEzMzg1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAxJTIwQXVnJTIwMjAyNiUyMDEyJTNBMzAlM0ExMCUyMCUyQjAwMDA",
+      "title": "Building a local positioning system to track runners using Ultra-Wideband",
+      "pubDate": "Sat, 01 Aug 2026 12:30:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-01-0.json"
     }
   ]

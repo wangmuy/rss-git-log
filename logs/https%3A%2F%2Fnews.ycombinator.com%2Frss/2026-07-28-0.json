@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-28",
     "newestItemDate": "2026-07-28",
-    "itemCount": 68,
-    "generatedAt": "2026-08-05T10:47:43.912Z"
+    "itemCount": 69,
+    "generatedAt": "2026-08-09T02:32:10.047Z"
   },
   "items": [
     {
@@ -414,6 +414,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyaW90ZXJtLmNvbSUyRmJsb2clMkYyMDI2JTJGMDclMkYyNyUyRnJpby12dC1hbmQtbGlicmlvJTdDaHR0cHMlM0ElMkYlMkZyaW90ZXJtLmNvbSUyRmJsb2clMkYyMDI2JTJGMDclMkYyNyUyRnJpby12dC1hbmQtbGlicmlvJTdDUmlvLXZ0JTIwYW5kJTIwbGlicmlvJTNBJTIwUmlvJ3MlMjB0ZXJtaW5hbCUyMGVuZ2luZSUyQyUyMG5vdyUyMGVtYmVkZGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA4NDIzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDE0JTNBMTUlM0E0OSUyMCUyQjAwMDA",
       "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
       "pubDate": "Tue, 28 Jul 2026 14:15:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkYmxvYmdhbWVzLmNvbSUyRnBhdGhmaW5kaW5nJTJGaGV1cmlzdGljcyUyRmRpZmZlcmVudGlhbC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVkYmxvYmdhbWVzLmNvbSUyRnBhdGhmaW5kaW5nJTJGaGV1cmlzdGljcyUyRmRpZmZlcmVudGlhbC5odG1sJTdDSW1wcm92aW5nJTIwSGV1cmlzdGljcyUyMGZvciUyMEEqJTIwUGF0aGZpbmRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3OTk5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDA2JTNBMDQlM0E0MiUyMCUyQjAwMDA",
+      "title": "Improving Heuristics for A* Pathfinding",
+      "pubDate": "Tue, 28 Jul 2026 06:04:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
     }
   ]

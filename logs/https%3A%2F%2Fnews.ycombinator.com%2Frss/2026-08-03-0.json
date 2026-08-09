@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 60,
-    "generatedAt": "2026-08-08T02:24:38.691Z"
+    "itemCount": 62,
+    "generatedAt": "2026-08-09T02:32:10.047Z"
   },
   "items": [
     {
@@ -366,6 +366,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ4dncubG9sJTJGZW4lMkZhcnRpY2xlcyUyRm9vcC1yZWZsLmh0bWwlN0NodHRwcyUzQSUyRiUyRnh2dy5sb2wlMkZlbiUyRmFydGljbGVzJTJGb29wLXJlZmwuaHRtbCU3Q0d1YXJkZWQlMjBNZXRob2RzJTIwaW4lMjBPQ2FtbCUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTU3NzcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTYlM0ExNSUzQTQ0JTIwJTJCMDAwMA",
       "title": "Guarded Methods in OCaml (2025)",
       "pubDate": "Mon, 03 Aug 2026 16:15:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0d2FyZS5yYWppdnByYWIuY29tJTJGMjAxOSUyRjEyJTJGMTklMkZ3aGVuLWZlYXR1cmUtZmxhZ3MtZG8tYW5kLWRvbnQtbWFrZS1zZW5zZSUyRiU3Q2h0dHBzJTNBJTJGJTJGc29mdHdhcmUucmFqaXZwcmFiLmNvbSUyRjIwMTklMkYxMiUyRjE5JTJGd2hlbi1mZWF0dXJlLWZsYWdzLWRvLWFuZC1kb250LW1ha2Utc2Vuc2UlMkYlN0NXaGVuJTIwRmVhdHVyZSUyMEZsYWdzJTIwRG8lMjBhbmQlMjBEb24ndCUyME1ha2UlMjBTZW5zZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTYwMzgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMTklM0EzNSUzQTEyJTIwJTJCMDAwMA",
+      "title": "When Feature Flags Do and Don't Make Sense",
+      "pubDate": "Mon, 03 Aug 2026 19:35:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGR3JhbW1hVGVjaCUyRmRkaXNhc20lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZHcmFtbWFUZWNoJTJGZGRpc2FzbSU3Q0REaXNhc20lM0ElMjBSZXZlcnNpYmxlJTIwKGJpLWRpcmVjdGlvbmFsKSUyMERpc2Fzc2VtYmxlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTUxMTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMDQlM0ExMyUzQTQ4JTIwJTJCMDAwMA",
+      "title": "DDisasm: Reversible (bi-directional) Disassembler",
+      "pubDate": "Mon, 03 Aug 2026 04:13:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }
   ]

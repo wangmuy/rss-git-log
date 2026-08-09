@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-04",
     "newestItemDate": "2026-08-04",
-    "itemCount": 54,
-    "generatedAt": "2026-08-08T16:56:32.969Z"
+    "itemCount": 55,
+    "generatedAt": "2026-08-09T02:32:10.046Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvbW5pc3RyYXRlLmNvbSUyRmJsb2clMkZieW9jLWFueXdoZXJlLXRoZS1zcGVjdHJ1bS1vZi1icmluZy15b3VyLW93bi1jbG91ZC1kZXBsb3ltZW50cyU3Q2h0dHBzJTNBJTJGJTJGb21uaXN0cmF0ZS5jb20lMkZibG9nJTJGYnlvYy1hbnl3aGVyZS10aGUtc3BlY3RydW0tb2YtYnJpbmcteW91ci1vd24tY2xvdWQtZGVwbG95bWVudHMlN0NCWU9DJTIwSXMlMjBOb3QlMjBKdXN0JTIwJ0RlcGxveSUyMGludG8lMjBUaGVpciUyMENsb3VkJyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTYzNDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDQlMjBBdWclMjAyMDI2JTIwMDElM0EzNyUzQTQwJTIwJTJCMDAwMA",
       "title": "BYOC Is Not Just 'Deploy into Their Cloud'",
       "pubDate": "Tue, 04 Aug 2026 01:37:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGcHJldmVudGluZy1taXNmb2xkaW5nLXByZXZlbnRpbmctZm9sZGluZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmJsb2ctcG9zdCUyRnByZXZlbnRpbmctbWlzZm9sZGluZy1wcmV2ZW50aW5nLWZvbGRpbmclN0NQcmV2ZW50aW5nJTIwTWlzZm9sZGluZyUyMGJ5JTIwUHJldmVudGluZyUyMEZvbGRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE2OTk3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDMlM0EyMyUyMCUyQjAwMDA",
+      "title": "Preventing Misfolding by Preventing Folding",
+      "pubDate": "Tue, 04 Aug 2026 15:03:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
     }
   ]
