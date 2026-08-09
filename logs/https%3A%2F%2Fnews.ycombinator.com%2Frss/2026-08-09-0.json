@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-09",
     "newestItemDate": "2026-08-09",
-    "itemCount": 9,
-    "generatedAt": "2026-08-09T09:05:42.540Z"
+    "itemCount": 27,
+    "generatedAt": "2026-08-09T16:59:07.799Z"
   },
   "items": [
     {
@@ -60,6 +60,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhY2FkZW1pYy5vdXAuY29tJTJGc2xlZXAlMkZhcnRpY2xlJTJGNDYlMkZTdXBwbGVtZW50XzElMkZBMzQlMkY3MTgxNjIxJTdDaHR0cHMlM0ElMkYlMkZhY2FkZW1pYy5vdXAuY29tJTJGc2xlZXAlMkZhcnRpY2xlJTJGNDYlMkZTdXBwbGVtZW50XzElMkZBMzQlMkY3MTgxNjIxJTdDTWVsYXRvbmluJTIwaW1wYWlycyUyMG1vcm5pbmclMjBjb2duaXRpb24lMjBpbiUyMGhlYWx0aHklMjB5b3VuZyUyMGFkdWx0cyUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjI3MzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMDAlM0E1OSUzQTU4JTIwJTJCMDAwMA",
       "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
       "pubDate": "Sun, 09 Aug 2026 00:59:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2hheW9uLmRldiUyRnBvc3QlMkYyMDI2JTJGMjIwJTJGZXZlcnktZmFzdC13cml0ZS1tb3Zlcy13b3JrLXNvbWV3aGVyZS1lbHNlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2hheW9uLmRldiUyRnBvc3QlMkYyMDI2JTJGMjIwJTJGZXZlcnktZmFzdC13cml0ZS1tb3Zlcy13b3JrLXNvbWV3aGVyZS1lbHNlJTJGJTdDRXZlcnklMjBmYXN0JTIwd3JpdGUlMjBtb3ZlcyUyMHdvcmslMjBzb21ld2hlcmUlMjBlbHNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzI0MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTM2JTNBNTIlMjAlMkIwMDAw",
+      "title": "Every fast write moves work somewhere else",
+      "pubDate": "Sun, 09 Aug 2026 15:36:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4YW5kZXJ3YW55b2lrZS5naXRodWIuaW8lMkZ2aWJleiUyRiU3Q2h0dHBzJTNBJTJGJTJGYWxleGFuZGVyd2FueW9pa2UuZ2l0aHViLmlvJTJGdmliZXolMkYlN0NTaG93JTIwSE4lM0ElMjBWaWJleiUyMCVFMiU4MCU5MyUyME9wZW4tU291cmNlJTIwUnVzdCUyMEJhc2VkJTIwRGlnaXRhbCUyMEF1ZGlvJTIwV29ya3N0YXRpb24lMjAoREFXKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMyMzY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMTUlM0EzMSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+      "pubDate": "Sun, 09 Aug 2026 15:31:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJzb25saW5lLmluZm9ybXMub3JnJTJGZG9pJTJGZnVsbCUyRjEwLjEyODclMkZvcnNjLjIwMjQuMTk5ODElN0NodHRwcyUzQSUyRiUyRnB1YnNvbmxpbmUuaW5mb3Jtcy5vcmclMkZkb2klMkZmdWxsJTJGMTAuMTI4NyUyRm9yc2MuMjAyNC4xOTk4MSU3Q0NyaW1pbmFsJTIwRGVjZXB0aW9uJTIwaW4lMjBTaWxpY29uJTIwVmFsbGV5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzIzMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTI2JTNBNDUlMjAlMkIwMDAw",
+      "title": "Criminal Deception in Silicon Valley",
+      "pubDate": "Sun, 09 Aug 2026 15:26:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZWlnaHR0cmlncmFtcyUyRnVzLXZzLXRoZW0lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZlaWdodHRyaWdyYW1zJTJGdXMtdnMtdGhlbSU3Q0h1bWFuJTIwdnMuJTIwQUklMjAlRTIlODAlOTMlMjBEaWZmLWJhc2VkJTIwbGluZS1sZXZlbCUyMHByb3ZlbmFuY2UlMjBmb3IlMjB0ZXh0JTIwdW5kZXIlMjBhZ2VudGljJTIwZWRpdGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMyMzAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMTUlM0EyNSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "pubDate": "Sun, 09 Aug 2026 15:25:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb252ZXJzYXRpb24uY29tJTJGdGF4aS1kcml2ZXJzLXJhcmVseS1kaWUtb2YtYWx6aGVpbWVycy1ob3ctY29tcGxleC1tZW50YWwtbWFwcy1hbmQtc3BhdGlhbC1yZWFzb25pbmctcHJvdGVjdC15b3VyLWJyYWluLTI4NjY1MCU3Q2h0dHBzJTNBJTJGJTJGdGhlY29udmVyc2F0aW9uLmNvbSUyRnRheGktZHJpdmVycy1yYXJlbHktZGllLW9mLWFsemhlaW1lcnMtaG93LWNvbXBsZXgtbWVudGFsLW1hcHMtYW5kLXNwYXRpYWwtcmVhc29uaW5nLXByb3RlY3QteW91ci1icmFpbi0yODY2NTAlN0NUYXhpJTIwZHJpdmVycyUyMHJhcmVseSUyMGRpZSUyMG9mJTIwQWx6aGVpbWVyJ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzMjI1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDE1JTNBMjElM0E0NiUyMCUyQjAwMDA",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "pubDate": "Sun, 09 Aug 2026 15:21:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOCUyRjA5JTJGaGlzdG9yaWFuLWppbGwtbGVwb3JlLXNheXMtdGhlLXRlY2gtaW5kdXN0cnktaXMtbGVkLWJ5LWJhZC1yZWFkZXJzLXdoby1hcmUtdW5kZXJtaW5pbmctZGVtb2NyYWN5JTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOCUyRjA5JTJGaGlzdG9yaWFuLWppbGwtbGVwb3JlLXNheXMtdGhlLXRlY2gtaW5kdXN0cnktaXMtbGVkLWJ5LWJhZC1yZWFkZXJzLXdoby1hcmUtdW5kZXJtaW5pbmctZGVtb2NyYWN5JTJGJTdDU2lsaWNvbiUyMFZhbGxleSUyMG1pc3JlYWRzJTIwc2NpZW5jZSUyMGZpY3Rpb24lMjBhbmQlMjB1bmRlcm1pbmVzJTIwZGVtb2NyYWN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzIyMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTE4JTNBMjUlMjAlMkIwMDAw",
+      "title": "Silicon Valley misreads science fiction and undermines democracy",
+      "pubDate": "Sun, 09 Aug 2026 15:18:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm90ZWJvb2tjaGVjay5uZXQlMkZXaW5kb3dzLTExLXMtYnVpbHQtaW4tV2VhdGhlci1hcHAtd2FzdGVzLW1vcmUtdGhhbi0xLUdCLW9mLVJBTS4xMzY0MjA1LjAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vdGVib29rY2hlY2submV0JTJGV2luZG93cy0xMS1zLWJ1aWx0LWluLVdlYXRoZXItYXBwLXdhc3Rlcy1tb3JlLXRoYW4tMS1HQi1vZi1SQU0uMTM2NDIwNS4wLmh0bWwlN0NXaW5kb3dzJTIwMTEncyUyMGJ1aWx0LWluJTIwV2VhdGhlciUyMGFwcCUyMHdhc3RlcyUyMG1vcmUlMjB0aGFuJTIwMSUyMEdCJTIwb2YlMjBSQU0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzMjEzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDE1JTNBMTElM0EyMCUyMCUyQjAwMDA",
+      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "pubDate": "Sun, 09 Aug 2026 15:11:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaGVibG9nLmNvbSUyRnRvbS1zdGFudG9uLXN1cGVyc29uaWMtdHJlYnVjaGV0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaGVibG9nLmNvbSUyRnRvbS1zdGFudG9uLXN1cGVyc29uaWMtdHJlYnVjaGV0JTJGJTdDVG9tJTIwU3RhbnRvbidzJTIwc3VwZXJzb25pYyUyMHRyZWJ1Y2hldCUyMGJyZWFrcyUyMHNvdW5kJTIwYmFycmllciUyMHdpdGglMjBncmF2aXR5JTIwYWxvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzMjExMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDglM0E1MSUyMCUyQjAwMDA",
+      "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+      "pubDate": "Sun, 09 Aug 2026 15:08:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3J5cGVzdG9yaW91cy5jb20lMkZibG9nJTJGcG9ydGFibGUtYWdlbnQtZmFjdG9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGam9yeXBlc3RvcmlvdXMuY29tJTJGYmxvZyUyRnBvcnRhYmxlLWFnZW50LWZhY3RvcnklMkYlN0NJJTIwV2FudGVkJTIwdG8lMjBPd24lMjB0aGUlMjBIYXJuZXNzLiUyMFRoZW4lMjBDb2RleCUyMERlc2t0b3AlMjBXb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzMTgzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDE0JTNBMzYlM0E0NiUyMCUyQjAwMDA",
+      "title": "I Wanted to Own the Harness. Then Codex Desktop Won",
+      "pubDate": "Sun, 09 Aug 2026 14:36:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudzMub3JnJTJGUHJvdmlkZXIlMkZTdHlsZSUyRlVSSSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnczLm9yZyUyRlByb3ZpZGVyJTJGU3R5bGUlMkZVUkklN0NDb29sJTIwVVJJcyUyMERvbid0JTIwQ2hhbmdlJTIwKDE5OTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzE4MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTMyJTNBNTMlMjAlMkIwMDAw",
+      "title": "Cool URIs Don't Change (1998)",
+      "pubDate": "Sun, 09 Aug 2026 14:32:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb3V3ZS5jb20lMkZwcm9qZWN0cyUyRnRlY3RvbmljX2dsb2JlJTdDaHR0cHMlM0ElMkYlMkZkb3V3ZS5jb20lMkZwcm9qZWN0cyUyRnRlY3RvbmljX2dsb2JlJTdDU2hvdyUyMEhOJTNBJTIwVG9kYXkncyUyMGNpdGllcyUyMG9uJTIwYSUyMGdsb2JlJTIwb2YlMjBFYXJ0aCdzJTIwdGVjdG9uaWMlMjBwYXN0JTIwYW5kJTIwZnV0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzE3NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTMwJTNBMDUlMjAlMkIwMDAw",
+      "title": "Show HN: Today's cities on a globe of Earth's tectonic past and future",
+      "pubDate": "Sun, 09 Aug 2026 14:30:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMDYlMkZhLXBhcnRpYWwtZGlnZXN0aW9uLW9mLXRoZS1ocnQtY291bnRlcmV4YW1wbGUlMkYlN0NodHRwcyUzQSUyRiUyRnRlcnJ5dGFvLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDglMkYwNiUyRmEtcGFydGlhbC1kaWdlc3Rpb24tb2YtdGhlLWhydC1jb3VudGVyZXhhbXBsZSUyRiU3Q0ElMjBwYXJ0aWFsJTIwZGlnZXN0aW9uJTIwb2YlMjB0aGUlMjBIUlQlMjBjb3VudGVyZXhhbXBsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMxNTg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMTQlM0EwOSUzQTQyJTIwJTJCMDAwMA",
+      "title": "A partial digestion of the HRT counterexample",
+      "pubDate": "Sun, 09 Aug 2026 14:09:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZraWJvdHJvbmljcy5uZXQlMkZ1bmxpc3RlZCUyRmxpbGx5LW1hY2hpbmVzJTJGJTdDaHR0cHMlM0ElMkYlMkZraWJvdHJvbmljcy5uZXQlMkZ1bmxpc3RlZCUyRmxpbGx5LW1hY2hpbmVzJTJGJTdDSm9obiUyMEMuJTIwTGlsbHklMjBvbiUyMHNvbGlkJTIwc3RhdGUlMjBpbnRlbGxpZ2VuY2UlMjBhbmQlMjB0aGUlMjBlbGltaW5hdGlvbiUyMG9mJTIwbWFuJTIwKDE5NzgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzEzOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTQ3JTNBMzYlMjAlMkIwMDAw",
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "pubDate": "Sun, 09 Aug 2026 13:47:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRlcnJ5Z29kaWVyLmNvbSUyRjIwMjYlMkYwOCUyRjA5JTJGbWVhLWN1bHBhLWRhcmstaG91cnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy50ZXJyeWdvZGllci5jb20lMkYyMDI2JTJGMDglMkYwOSUyRm1lYS1jdWxwYS1kYXJrLWhvdXJzLmh0bWwlN0NNZWElMjBDdWxwYSUyMCVFMiU4MCU5MyUyMERhcmslMjBIb3VycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMxMTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMTMlM0EyMCUzQTQzJTIwJTJCMDAwMA",
+      "title": "Mea Culpa – Dark Hours",
+      "pubDate": "Sun, 09 Aug 2026 13:20:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm9jaHVzLWtlbGxlciUyRk9iZXJvblN5c3RlbSUyRnRyZWUlMkZvcDItcnYzMiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJvY2h1cy1rZWxsZXIlMkZPYmVyb25TeXN0ZW0lMkZ0cmVlJTJGb3AyLXJ2MzIlN0NTaG93JTIwSE4lM0ElMjBBJTIwUHJvamVjdCUyME9iZXJvbiUyMFN5c3RlbSUyMHZlcnNpb24lMjBydW5uaW5nJTIwb24lMjBSSVNDLVYlMjBpbnN0ZWFkJTIwb2YlMjBSSVNDLTUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzMDg5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDEyJTNBNDMlM0ExNiUyMCUyQjAwMDA",
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "pubDate": "Sun, 09 Aug 2026 12:43:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvc2tyaW0uZ2l0aHViLmlvJTJGaGFyZHdhcmUlMkYyMDI2JTJGMDglMkYwOSUyRnJlbWFya2FibGUtb3Zlci1zc2guaHRtbCU3Q2h0dHBzJTNBJTJGJTJGb3NrcmltLmdpdGh1Yi5pbyUyRmhhcmR3YXJlJTJGMjAyNiUyRjA4JTJGMDklMkZyZW1hcmthYmxlLW92ZXItc3NoLmh0bWwlN0NSZXZpdmluZyUyMGElMjBmb3VyJTIweWVhciUyMG9sZCUyMHJlTWFya2FibGUlMjAyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzA1MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxMSUzQTM5JTNBMjUlMjAlMkIwMDAw",
+      "title": "Reviving a four year old reMarkable 2",
+      "pubDate": "Sun, 09 Aug 2026 11:39:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWxmaGlsbC5jb20lMkZieXRlJTJGMTk5OC0xMl9hbHBoYS5odG1sJTdDaHR0cHMlM0ElMkYlMkZoYWxmaGlsbC5jb20lMkZieXRlJTJGMTk5OC0xMl9hbHBoYS5odG1sJTdDVGhlJTIwQWxwaGElMjAyMTI2NCUyMENQVSUzQSUyME5UJ3MlMjBHcmVhdGVzdCUyMFJJU0MlMjAoMTk5OCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzMDAyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDEwJTNBMDYlM0EzNyUyMCUyQjAwMDA",
+      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+      "pubDate": "Sun, 09 Aug 2026 10:06:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaXJ5LnNvJTdDaHR0cHMlM0ElMkYlMkZhaXJ5LnNvJTJGJTdDU2hvdyUyMEhOJTNBJTIwQWlyeSUyMCVFMiU4MCU5MyUyMEZyZWUlMkMlMjBmYXN0JTJDJTIwYW5kJTIwc2ltcGxlJTIwdm9pY2UlMjBjb250ZW50JTIwY3JlYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyOTg0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDA5JTNBMjklM0EzMiUyMCUyQjAwMDA",
+      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+      "pubDate": "Sun, 09 Aug 2026 09:29:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
     }
   ]
