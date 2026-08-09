@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-04",
     "newestItemDate": "2026-08-04",
-    "itemCount": 55,
-    "generatedAt": "2026-08-09T02:32:10.046Z"
+    "itemCount": 58,
+    "generatedAt": "2026-08-09T09:05:42.540Z"
   },
   "items": [
     {
@@ -336,6 +336,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGcHJldmVudGluZy1taXNmb2xkaW5nLXByZXZlbnRpbmctZm9sZGluZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmJsb2ctcG9zdCUyRnByZXZlbnRpbmctbWlzZm9sZGluZy1wcmV2ZW50aW5nLWZvbGRpbmclN0NQcmV2ZW50aW5nJTIwTWlzZm9sZGluZyUyMGJ5JTIwUHJldmVudGluZyUyMEZvbGRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE2OTk3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDMlM0EyMyUyMCUyQjAwMDA",
       "title": "Preventing Misfolding by Preventing Folding",
       "pubDate": "Tue, 04 Aug 2026 15:03:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXZpbmtlbGx5LnN1YnN0YWNrLmNvbSUyRnAlMkZwcm90b3BpYSU3Q2h0dHBzJTNBJTJGJTJGa2V2aW5rZWxseS5zdWJzdGFjay5jb20lMkZwJTJGcHJvdG9waWElN0NQcm90b3BpYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTY4MjgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDQlMjBBdWclMjAyMDI2JTIwMTMlM0EwMCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Protopia",
+      "pubDate": "Tue, 04 Aug 2026 13:00:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4YW5kcmVsYW11cmUuZ2l0aHViLmlvJTJGZ3JhcGhpY3MtcG9zdHMlMkZzdHlsaXplZC1nZ3gtc2hhZGluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbGV4YW5kcmVsYW11cmUuZ2l0aHViLmlvJTJGZ3JhcGhpY3MtcG9zdHMlMkZzdHlsaXplZC1nZ3gtc2hhZGluZy5odG1sJTdDU3R5bGl6ZWQlMjBHR1glMjBTaGFkaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNjcwOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNCUyMEF1ZyUyMDIwMjYlMjAxMSUzQTI4JTNBNDclMjAlMkIwMDAw",
+      "title": "Stylized GGX Shading",
+      "pubDate": "Tue, 04 Aug 2026 11:28:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWJlcmZzLmlvJTJGYmxvZyUyRmFzc2VydF9hX21vZGVybl9ob3dfdG8lN0NodHRwcyUzQSUyRiUyRmZpYmVyZnMuaW8lMkZibG9nJTJGYXNzZXJ0X2FfbW9kZXJuX2hvd190byU3Q0Fzc2VydCgpJTNBJTIwQSUyME1vZGVybiUyMEhvdyUyMFRvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNjQ2ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNCUyMEF1ZyUyMDIwMjYlMjAwNSUzQTQyJTNBNDAlMjAlMkIwMDAw",
+      "title": "Assert(): A Modern How To",
+      "pubDate": "Tue, 04 Aug 2026 05:42:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
     }
   ]

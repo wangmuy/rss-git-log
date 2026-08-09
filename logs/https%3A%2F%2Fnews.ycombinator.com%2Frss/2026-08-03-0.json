@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-03",
     "newestItemDate": "2026-08-03",
-    "itemCount": 62,
-    "generatedAt": "2026-08-09T02:32:10.047Z"
+    "itemCount": 63,
+    "generatedAt": "2026-08-09T09:05:42.541Z"
   },
   "items": [
     {
@@ -377,6 +377,12 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGR3JhbW1hVGVjaCUyRmRkaXNhc20lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZHcmFtbWFUZWNoJTJGZGRpc2FzbSU3Q0REaXNhc20lM0ElMjBSZXZlcnNpYmxlJTIwKGJpLWRpcmVjdGlvbmFsKSUyMERpc2Fzc2VtYmxlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTUxMTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMDQlM0ExMyUzQTQ4JTIwJTJCMDAwMA",
       "title": "DDisasm: Reversible (bi-directional) Disassembler",
+      "pubDate": "Mon, 03 Aug 2026 04:13:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGR3JhbW1hVGVjaCUyRmRkaXNhc20lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZHcmFtbWFUZWNoJTJGZGRpc2FzbSU3Q0RhdGFsb2clMjBEaXNhc3NlbWJseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTUxMTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDMlMjBBdWclMjAyMDI2JTIwMDQlM0ExMyUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Datalog Disassembly",
       "pubDate": "Mon, 03 Aug 2026 04:13:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-03-0.json"
     }

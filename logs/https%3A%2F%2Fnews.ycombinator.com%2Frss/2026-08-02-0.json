@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-02",
     "newestItemDate": "2026-08-02",
-    "itemCount": 52,
-    "generatedAt": "2026-08-08T16:56:32.970Z"
+    "itemCount": 54,
+    "generatedAt": "2026-08-09T09:05:42.541Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZWFkaW1hdHRlby5jb20lMkZ0b3J1cy12MC01Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmFuZHJlYWRpbWF0dGVvLmNvbSUyRnRvcnVzLXYwLTUuaHRtbCU3Q1Nob3clMjBITiUzQSUyMFJvdGF0aW5nJTIwdG9ydXMlMjBpbiUyMHRlcm1pbmFsJTIwKGJ1dCUyMHdpdGglMjBraXR0eSUyMGdyYXBoaWNzJTIwcHJvdG9jb2wpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDE2NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAwNiUzQTE4JTNBNDIlMjAlMkIwMDAw",
       "title": "Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
       "pubDate": "Sun, 02 Aug 2026 06:18:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQ0MTg0LTAyNS0wMDE3MS01JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQ0MTg0LTAyNS0wMDE3MS01JTdDVW5leHBlY3RlZCUyMGV2ZW50cyUyMGFuZCUyMHByb3NvY2lhbCUyMGJlaGF2aW9yJTNBJTIwdGhlJTIwQmF0bWFuJTIwZWZmZWN0JTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNDkxNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMiUyMEF1ZyUyMDIwMjYlMjAyMiUzQTQwJTNBMTMlMjAlMkIwMDAw",
+      "title": "Unexpected events and prosocial behavior: the Batman effect (2025)",
+      "pubDate": "Sun, 02 Aug 2026 22:40:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGcGludGVyZXN0LWVuZ2luZWVyaW5nJTJGZmluZGluZy16b21iaWVzLWluLW91ci1zeXN0ZW1zLWEtcmVhbC13b3JsZC1zdG9yeS1vZi1jcHUtYm90dGxlbmVja3MtZWE0NzIyZTU1MmViJTdDaHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGcGludGVyZXN0LWVuZ2luZWVyaW5nJTJGZmluZGluZy16b21iaWVzLWluLW91ci1zeXN0ZW1zLWEtcmVhbC13b3JsZC1zdG9yeS1vZi1jcHUtYm90dGxlbmVja3MtZWE0NzIyZTU1MmViJTdDRmluZGluZyUyMHpvbWJpZXMlMjBpbiUyMG91ciUyMHN5c3RlbXMlM0ElMjBBJTIwcmVhbC13b3JsZCUyMHN0b3J5JTIwb2YlMjBDUFUlMjBib3R0bGVuZWNrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTQ1MTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDIlMjBBdWclMjAyMDI2JTIwMTQlM0E1MCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+      "pubDate": "Sun, 02 Aug 2026 14:50:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-02-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-07-28",
     "newestItemDate": "2026-07-28",
-    "itemCount": 69,
-    "generatedAt": "2026-08-09T02:32:10.047Z"
+    "itemCount": 70,
+    "generatedAt": "2026-08-09T09:05:42.541Z"
   },
   "items": [
     {
@@ -420,6 +420,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkYmxvYmdhbWVzLmNvbSUyRnBhdGhmaW5kaW5nJTJGaGV1cmlzdGljcyUyRmRpZmZlcmVudGlhbC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVkYmxvYmdhbWVzLmNvbSUyRnBhdGhmaW5kaW5nJTJGaGV1cmlzdGljcyUyRmRpZmZlcmVudGlhbC5odG1sJTdDSW1wcm92aW5nJTIwSGV1cmlzdGljcyUyMGZvciUyMEEqJTIwUGF0aGZpbmRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTA3OTk5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI4JTIwSnVsJTIwMjAyNiUyMDA2JTNBMDQlM0E0MiUyMCUyQjAwMDA",
       "title": "Improving Heuristics for A* Pathfinding",
       "pubDate": "Tue, 28 Jul 2026 06:04:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWtlYXJjaGliYWxkLmNvbSUyRjIwMjYlMkZteS10b29sdGlwLWExMXktbWlzdGFrZSUyRiU3Q2h0dHBzJTNBJTJGJTJGamFrZWFyY2hpYmFsZC5jb20lMkYyMDI2JTJGbXktdG9vbHRpcC1hMTF5LW1pc3Rha2UlMkYlN0NGaXhpbmclMjBteSUyMHRvb2x0aXAlMjBhY2Nlc3NpYmlsaXR5JTIwbWlzdGFrZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MDgyNjQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjglMjBKdWwlMjAyMDI2JTIwMTIlM0ExMyUzQTMxJTIwJTJCMDAwMA",
+      "title": "Fixing my tooltip accessibility mistake",
+      "pubDate": "Tue, 28 Jul 2026 12:13:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-07-28-0.json"
     }
   ]
