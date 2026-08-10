@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-06",
     "newestItemDate": "2026-08-06",
-    "itemCount": 25,
-    "generatedAt": "2026-08-07T09:18:27.579Z"
+    "itemCount": 30,
+    "generatedAt": "2026-08-10T02:38:00.321Z"
   },
   "items": [
     {
@@ -156,6 +156,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyb2dlLm9ud3JpdGUuYXBwJTJGd2hhdC1pcy1hLXByb2R1Y3QlN0NodHRwcyUzQSUyRiUyRnJvZ2Uub253cml0ZS5hcHAlMkZ3aGF0LWlzLWEtcHJvZHVjdCU3Q1doYXQlMjBpcyUyMGElMjBwcm9kdWN0JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDI2OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAyMSUzQTE2JTNBNTIlMjAlMkIwMDAw",
       "title": "What is a product?",
       "pubDate": "Thu, 06 Aug 2026 21:16:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RHUzdDeEF0VjVLcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNER1M3Q3hBdFY1S3MlN0NBbmRyZXclMjBXaWxlcyUyMG9uJTIwcHJvdmluZyUyMEZlcm1hdCVFMiU4MCU5OXMlMjBMYXN0JTIwVGhlb3JlbSUyMCgxOTk1KSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDM2MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAyMiUzQTQxJTNBMjQlMjAlMkIwMDAw",
+      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+      "pubDate": "Thu, 06 Aug 2026 22:41:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdHByb3RvLmNvbSUyRmFydGljbGVzJTJGYXRwcm90by1mb3ItZGlzdHN5cy1lbmdpbmVlcnMlN0NodHRwcyUzQSUyRiUyRmF0cHJvdG8uY29tJTJGYXJ0aWNsZXMlMkZhdHByb3RvLWZvci1kaXN0c3lzLWVuZ2luZWVycyU3Q0FUUHJvdG8lMjBmb3IlMjBEaXN0cmlidXRlZCUyMFN5c3RlbXMlMjBFbmdpbmVlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwMjkxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA2JTIwQXVnJTIwMjAyNiUyMDIxJTNBMzUlM0EzNyUyMCUyQjAwMDA",
+      "title": "ATProto for Distributed Systems Engineers",
+      "pubDate": "Thu, 06 Aug 2026 21:35:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMjAyNiUyRjA4JTJGMTAlMkZzaWxlbmNlLWthdGUtbWNsb3VnaGxpbi1ib29rLXJldmlldyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5ld3lvcmtlci5jb20lMkZtYWdhemluZSUyRjIwMjYlMkYwOCUyRjEwJTJGc2lsZW5jZS1rYXRlLW1jbG91Z2hsaW4tYm9vay1yZXZpZXclN0NIb3clMjBHb2xkZW4lMjBJcyUyMFNpbGVuY2UlMkMlMjBBY3R1YWxseSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTk5NDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTclM0EwOCUzQTA0JTIwJTJCMDAwMA",
+      "title": "How Golden Is Silence, Actually?",
+      "pubDate": "Thu, 06 Aug 2026 17:08:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZraWVyYW52ZWxhc3F1ZXouc3Vic3RhY2suY29tJTJGcCUyRm9uLXRoZS1nZXJtYW4tbWl0dGVsc3RhbmQlN0NodHRwcyUzQSUyRiUyRmtpZXJhbnZlbGFzcXVlei5zdWJzdGFjay5jb20lMkZwJTJGb24tdGhlLWdlcm1hbi1taXR0ZWxzdGFuZCU3Q1RoZSUyMEdlcm1hbiUyME1pdHRlbHN0YW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxOTM2NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAwNyUzQTMyJTNBNTQlMjAlMkIwMDAw",
+      "title": "The German Mittelstand",
+      "pubDate": "Thu, 06 Aug 2026 07:32:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb25zZW5zdXMuZGV2JTJGYmxvZyUyRjIwMjYlMkYwOCUyRjA1JTJGdG91cmluZy10aGUtY29uc2Vuc3VzLXNpeC1tb250aHMtaW4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdGhlY29uc2Vuc3VzLmRldiUyRmJsb2clMkYyMDI2JTJGMDglMkYwNSUyRnRvdXJpbmctdGhlLWNvbnNlbnN1cy1zaXgtbW9udGhzLWluLmh0bWwlN0NUb3VyaW5nJTIwdGhlJTIwQ29uc2Vuc3VzJTJDJTIwU2l4JTIwTW9udGhzJTIwSW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE5MjYzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA2JTIwQXVnJTIwMjAyNiUyMDA0JTNBNTklM0E0NyUyMCUyQjAwMDA",
+      "title": "Touring the Consensus, Six Months In",
+      "pubDate": "Thu, 06 Aug 2026 04:59:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
     }
   ]

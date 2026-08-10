@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-09",
     "newestItemDate": "2026-08-09",
-    "itemCount": 27,
-    "generatedAt": "2026-08-09T16:59:07.799Z"
+    "itemCount": 39,
+    "generatedAt": "2026-08-10T02:38:00.321Z"
   },
   "items": [
     {
@@ -168,6 +168,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhaXJ5LnNvJTdDaHR0cHMlM0ElMkYlMkZhaXJ5LnNvJTJGJTdDU2hvdyUyMEhOJTNBJTIwQWlyeSUyMCVFMiU4MCU5MyUyMEZyZWUlMkMlMjBmYXN0JTJDJTIwYW5kJTIwc2ltcGxlJTIwdm9pY2UlMjBjb250ZW50JTIwY3JlYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyOTg0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDA5JTNBMjklM0EzMiUyMCUyQjAwMDA",
       "title": "Show HN: Airy – Free, fast, and simple voice content creation",
       "pubDate": "Sun, 09 Aug 2026 09:29:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmV0b25pdC5haSUyRnAlMkZ0aGUtYW1iaXRpb24tcHJvamVjdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJldG9uaXQuYWklMkZwJTJGdGhlLWFtYml0aW9uLXByb2plY3QlN0NUaGUlMjBBbWJpdGlvbiUyMFByb2plY3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzNzQwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDIzJTNBMzYlM0EwNSUyMCUyQjAwMDA",
+      "title": "The Ambition Project",
+      "pubDate": "Sun, 09 Aug 2026 23:36:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDclMkYyOCUyRmJ1c2luZXNzJTJGYWZmb3JkYWJsZS1ob3VzaW5nLXNjaG9vbHMtdGVhY2hlcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjA3JTJGMjglMkZidXNpbmVzcyUyRmFmZm9yZGFibGUtaG91c2luZy1zY2hvb2xzLXRlYWNoZXJzLmh0bWwlN0NUbyUyMFJlY3J1aXQlMjBUZWFjaGVycyUyQyUyMFNjaG9vbCUyMERpc3RyaWN0cyUyMEFyZSUyMEJ1aWxkaW5nJTIwSG9tZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzNjU0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDIyJTNBMDAlM0EzNiUyMCUyQjAwMDA",
+      "title": "To Recruit Teachers, School Districts Are Building Homes",
+      "pubDate": "Sun, 09 Aug 2026 22:00:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dXhlZG9ubzIuY29tJTdDaHR0cHMlM0ElMkYlMkZ0dXhlZG9ubzIuY29tJTJGJTdDVHV4ZWRvJTIwTm8uJTIwMiUyMCVFMiU4MCU5MyUyMENvY2t0YWlsJTIwcmVjaXBlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjM1Njk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMjAlM0E0OCUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "pubDate": "Sun, 09 Aug 2026 20:48:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9wZWxtdXNpYy5jby5ueiUyRmFydGljbGVzJTJGdGhlLXNvdW5kLXdlbnQtcXVpZXQtbnotbXVzaWMtbWVkaWElN0NodHRwcyUzQSUyRiUyRnByb3BlbG11c2ljLmNvLm56JTJGYXJ0aWNsZXMlMkZ0aGUtc291bmQtd2VudC1xdWlldC1uei1tdXNpYy1tZWRpYSU3Q05ldyUyMFplYWxhbmQlMjBsb3N0JTIwaXRzJTIwbXVzaWMlMjBtZWRpYSUyQyUyMGFuZCUyMHdoYXQlMjB3ZSdyZSUyMGJ1aWxkaW5nJTIwdG8lMjByZXBsYWNlJTIwaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzNTY0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDIwJTNBNDIlM0EyOSUyMCUyQjAwMDA",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "pubDate": "Sun, 09 Aug 2026 20:42:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHJhY2sub3JnJTJGaXNzdWVzJTJGNzIlMkYxOSUyM2FydGljbGUlN0NodHRwcyUzQSUyRiUyRnBocmFjay5vcmclMkZpc3N1ZXMlMkY3MiUyRjE5JTIzYXJ0aWNsZSU3Q1RoZSUyMEhhY2tlcidzJTIwUmVuYWlzc2FuY2UlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzNTM3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDIwJTNBMTglM0E0NCUyMCUyQjAwMDA",
+      "title": "The Hacker's Renaissance (2025)",
+      "pubDate": "Sun, 09 Aug 2026 20:18:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBoYWJldHNvdXAuY2x1YiU3Q2h0dHBzJTNBJTJGJTJGYWxwaGFiZXRzb3VwLmNsdWIlMkYlN0NTaG93JTIwSE4lM0ElMjBBbHBoYWJldCUyMFNvdXAlMkMlMjBhJTIwbXVsdGlwbGF5ZXIlMjBnYW1lJTJDJTIwYnVpbGQlMjB0aGUlMjBsb25nZXN0JTIwd29yZCUyMHRvJTIwd2luJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzUzNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAyMCUzQTE1JTNBNDUlMjAlMkIwMDAw",
+      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+      "pubDate": "Sun, 09 Aug 2026 20:15:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmJyaXRhaW4lMkYyMDI2JTJGMDglMkYwNiUyRnRoZS10cmFnZWR5LW9mLXRoZS1jb21tb25zLWFpLWVkaXRpb24lN0NodHRwcyUzQSUyRiUyRnd3dy5lY29ub21pc3QuY29tJTJGYnJpdGFpbiUyRjIwMjYlMkYwOCUyRjA2JTJGdGhlLXRyYWdlZHktb2YtdGhlLWNvbW1vbnMtYWktZWRpdGlvbiU3Q1RoZSUyMHRyYWdlZHklMjBvZiUyMHRoZSUyMGNvbW1vbnMlMkMlMjBBSSUyMGVkaXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzNTAxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDE5JTNBNDMlM0E1MiUyMCUyQjAwMDA",
+      "title": "The tragedy of the commons, AI edition",
+      "pubDate": "Sun, 09 Aug 2026 19:43:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXVyZW50aXVnYWJyaWVsLmdpdGh1Yi5pbyUyRmJsb2clMkZhcnRpY2xlcyUyRmhvdy1pLXVzZS1sbG1zLXRvLWxlYXJuJTJGJTdDaHR0cHMlM0ElMkYlMkZsYXVyZW50aXVnYWJyaWVsLmdpdGh1Yi5pbyUyRmJsb2clMkZhcnRpY2xlcyUyRmhvdy1pLXVzZS1sbG1zLXRvLWxlYXJuJTJGJTdDSG93JTIwSSUyMHVzZSUyMExMTXMlMjB0byUyMGxlYXJuJTIwY29tcGxleCUyMHRvcGljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjM0Njc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMTklM0ExNiUzQTQ5JTIwJTJCMDAwMA",
+      "title": "How I use LLMs to learn complex topics",
+      "pubDate": "Sun, 09 Aug 2026 19:16:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZteW5vaXNlLm5ldCUyRnZsb2cucGhwJTNGZXAlM0QyMDI2MDgwMyU3Q2h0dHBzJTNBJTJGJTJGbXlub2lzZS5uZXQlMkZ2bG9nLnBocCUzRmVwJTNEMjAyNjA4MDMlN0NJJTIwbWFkZSUyMHRpbm5pdHVzJTIwbXklMjBmcmllbmQlMkMlMjB0aGVuJTIwaXQlMjBkaXNhcHBlYXJlZCUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzQyNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTQxJTNBMzUlMjAlMkIwMDAw",
+      "title": "I made tinnitus my friend, then it disappeared [video]",
+      "pubDate": "Sun, 09 Aug 2026 18:41:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuY2hhbWJlci5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5jaGFtYmVyLmRldiUyRiU3Q09wZW5DaGFtYmVyJTNBJTIwQW4lMjBBZ2VudGljJTIwRGV2ZWxvcG1lbnQlMjBFbnZpcm9ubWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMzNDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMTclM0EyNyUzQTE2JTIwJTJCMDAwMA",
+      "title": "OpenChamber: An Agentic Development Environment",
+      "pubDate": "Sun, 09 Aug 2026 17:27:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMzNDIzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMzNDIzJTdDQXNrJTIwSE4lM0ElMjBXaGF0JTIwYXJlJTIweW91JTIwd29ya2luZyUyMG9uJTNGJTIwKEF1Z3VzdCUyMDIwMjYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzM0MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTIzJTNBMjIlMjAlMkIwMDAw",
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "pubDate": "Sun, 09 Aug 2026 17:23:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXRsYW50aWMuY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkYwNSUyRmFpLXdlYXJhYmxlLXN1cnZlaWxsYW5jZS1jb3VudGVybWVhc3VyZXMlMkY2ODcyMDMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVhdGxhbnRpYy5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjA1JTJGYWktd2VhcmFibGUtc3VydmVpbGxhbmNlLWNvdW50ZXJtZWFzdXJlcyUyRjY4NzIwMyUyRiU3Q0V2ZXJ5dGhpbmclMjB5b3UlMjBkbyUyMGlzJTIwYmVpbmclMjByZWNvcmRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjMwNDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDklMjBBdWclMjAyMDI2JTIwMTElM0EzMCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Everything you do is being recorded",
+      "pubDate": "Sun, 09 Aug 2026 11:30:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-05",
     "newestItemDate": "2026-08-05",
-    "itemCount": 57,
-    "generatedAt": "2026-08-09T16:59:07.799Z"
+    "itemCount": 59,
+    "generatedAt": "2026-08-10T02:38:00.321Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjglMkY0JTJGdGhlLWdyaWQtdGhhdC1kb3VibGVzLXRoZS1zdHJlbmd0aC1vZi10aGUtZ3JvdW5kJTdDaHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjglMkY0JTJGdGhlLWdyaWQtdGhhdC1kb3VibGVzLXRoZS1zdHJlbmd0aC1vZi10aGUtZ3JvdW5kJTdDVGhlJTIwR3JpZCUyMFRoYXQlMjBEb3VibGVzJTIwdGhlJTIwU3RyZW5ndGglMjBvZiUyMHRoZSUyMEdyb3VuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTc4NDc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDUlMjBBdWclMjAyMDI2JTIwMDQlM0ExMSUzQTEzJTIwJTJCMDAwMA",
       "title": "The Grid That Doubles the Strength of the Ground",
       "pubDate": "Wed, 05 Aug 2026 04:11:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRsYWIuY29tJTJGS2F6YWRlJTJGcGljb3BoeXNpY3MlN0NodHRwcyUzQSUyRiUyRmdpdGxhYi5jb20lMkZLYXphZGUlMkZwaWNvcGh5c2ljcyU3Q1BpY29waHlzaWNzJTNBJTIwU2luZ2xlJTIwZmlsZSUyMHBoeXNpY3MlMjBmb3IlMjBnYW1lcyUyMG9uJTIwcGxhdGZvcm1zJTIwbGlrZSUyME42NCUyQyUyMFBTWCUyQyUyMERDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxODIxNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNSUyMEF1ZyUyMDIwMjYlMjAxMiUzQTUyJTNBMDAlMjAlMkIwMDAw",
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "pubDate": "Wed, 05 Aug 2026 12:52:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZW1hbmphdHJpZnVub3ZpYy5zdWJzdGFjay5jb20lMkZwJTJGd2hlbi1jb21waWxlcnMtZGlzYWdyZWUtYWJvdXQtdXRmOCU3Q2h0dHBzJTNBJTJGJTJGbmVtYW5qYXRyaWZ1bm92aWMuc3Vic3RhY2suY29tJTJGcCUyRndoZW4tY29tcGlsZXJzLWRpc2FncmVlLWFib3V0LXV0ZjglN0NXaGVuJTIwQ29tcGlsZXJzJTIwRGlzYWdyZWUlMjBBYm91dCUyMFVURiVFMiU4MCU5MTglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTE4MDA1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA1JTIwQXVnJTIwMjAyNiUyMDA4JTNBMjclM0E0MCUyMCUyQjAwMDA",
+      "title": "When Compilers Disagree About UTF‑8",
+      "pubDate": "Wed, 05 Aug 2026 08:27:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-05-0.json"
     }
   ]
