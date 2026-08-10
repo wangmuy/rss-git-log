@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-10",
     "newestItemDate": "2026-08-10",
-    "itemCount": 9,
-    "generatedAt": "2026-08-10T09:52:11.768Z"
+    "itemCount": 31,
+    "generatedAt": "2026-08-10T17:12:54.809Z"
   },
   "items": [
     {
@@ -60,6 +60,138 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRla25vZ2Vlay5pbyUyRnBvc3RzJTJGd2hhdC1oYXBwZW5lZC10by1oYWNrZXJvbmUlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cudGVrbm9nZWVrLmlvJTJGcG9zdHMlMkZ3aGF0LWhhcHBlbmVkLXRvLWhhY2tlcm9uZSUyRiU3Q1doYXQlMjBIYXBwZW5lZCUyMHRvJTIwSGFja2VyT25lJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzg1NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAwMiUzQTIzJTNBMTclMjAlMkIwMDAw",
       "title": "What Happened to HackerOne?",
       "pubDate": "Mon, 10 Aug 2026 02:23:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RvYWV4Y2hhbmdlLmNvbSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0b2FleGNoYW5nZS5jb20lMkYlN0NMYXVuY2glMjBITiUzQSUyMFN0b2ElMjBNYXJrZXRzJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMEElMjBNYXJrZXRwbGFjZSUyMGZvciUyMEdQVXMlMjBhbmQlMjBBSSUyMFNlcnZlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0NjA1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDE2JTNBMzUlM0EyNyUyMCUyQjAwMDA",
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "pubDate": "Mon, 10 Aug 2026 16:35:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVoaXN0b3JpY2FsaW5zaWdodHMucGFnZSUyRjIwMjYlMkYwNiUyRndoeS1hZGRyZXNzZXMtaGF2ZS1udW1iZXJzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnRoZWhpc3RvcmljYWxpbnNpZ2h0cy5wYWdlJTJGMjAyNiUyRjA2JTJGd2h5LWFkZHJlc3Nlcy1oYXZlLW51bWJlcnMuaHRtbCU3Q1doeSUyMEFkZHJlc3NlcyUyMEhhdmUlMjBOdW1iZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDU2NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTEyJTNBNTQlMjAlMkIwMDAw",
+      "title": "Why Addresses Have Numbers",
+      "pubDate": "Mon, 10 Aug 2026 16:12:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeG9yZWF4ZWF4ZWF4JTJGc21paWlpaWlpaWlpaWlpaWlpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeG9yZWF4ZWF4ZWF4JTJGc21paWlpaWlpaWlpaWlpaWlpJTdDRXhwbG9pdGluZyUyMFN5c3RlbSUyME1hbmFnZW1lbnQlMjBNb2RlJTIwd2l0aCUyMGElMjB2ZXJ5JTIwbG9uZyUyMGludGVycnVwdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ1NDkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTYlM0EwMyUzQTE0JTIwJTJCMDAwMA",
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "pubDate": "Mon, 10 Aug 2026 16:03:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaW5hbmNlLnlhaG9vLmNvbSUyRmhlYWx0aGNhcmUlMkZhcnRpY2xlcyUyRmhhcnZhcmQtc3R1ZHktbGlua3MtZ2xwLTEtMTIzMDAwNjM3Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmZpbmFuY2UueWFob28uY29tJTJGaGVhbHRoY2FyZSUyRmFydGljbGVzJTJGaGFydmFyZC1zdHVkeS1saW5rcy1nbHAtMS0xMjMwMDA2MzcuaHRtbCU3Q1N0dWR5JTIwbGlua3MlMjBHTFAtMSUyMGRydWdzJTIwdG8lMjBiaWdnZXIlMjBqdW1wJTIwaW4lMjB3b21lbidzJTIwZW1wbG95bWVudCUyMHRoYW4lMjBhJTIwZGVncmVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDU0ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTAyJTNBMzQlMjAlMkIwMDAw",
+      "title": "Study links GLP-1 drugs to bigger jump in women's employment than a degree",
+      "pubDate": "Mon, 10 Aug 2026 16:02:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW50aWdtYUxhYnMlMkZhbnRlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW50aWdtYUxhYnMlMkZhbnRlJTdDU2hvdyUyMEhOJTNBJTIwQW50ZSUyQyUyMGElMjBjb2RpbmclMjBhZ2VudCUyMGluJTIwYSUyMHNpbmdsZSUyMGJpbmFyeSUyMHRoYXQlMjBydW5zJTIwb2ZmbGluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ1NDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTUlM0E1OSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "pubDate": "Mon, 10 Aug 2026 15:59:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWNrc2NoYWVkbGVyLmdpdGh1Yi5pbyUyRmhhbmR3cml0aW5nLXJlY29nbml0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZqYWNrc2NoYWVkbGVyLmdpdGh1Yi5pbyUyRmhhbmR3cml0aW5nLXJlY29nbml0aW9uJTJGJTdDQmFjayUyMHRvJTIwdGhlJTIwRnV0dXJlJTIwb2YlMjBIYW5kd3JpdGluZyUyMFJlY29nbml0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDU0MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTU4JTNBMzIlMjAlMkIwMDAw",
+      "title": "Back to the Future of Handwriting Recognition",
+      "pubDate": "Mon, 10 Aug 2026 15:58:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI5MzgwJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjI5MzgwJTdDVGhlJTIwVHJhZ2VkeSUyMG9mJTIwdGhlJTIwQ29nbml0aXZlJTIwQ29tbW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ1MzU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTUlM0E1NSUzQTE1JTIwJTJCMDAwMA",
+      "title": "The Tragedy of the Cognitive Commons",
+      "pubDate": "Mon, 10 Aug 2026 15:55:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV1cm9sb2d5Lm9yZyUyRmRvaSUyRjEwLjEyMTIlMkZXTjkuMDAwMDAwMDAwMDAwMDE1MiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5ldXJvbG9neS5vcmclMkZkb2klMkYxMC4xMjEyJTJGV045LjAwMDAwMDAwMDAwMDAxNTIlN0NNaWRsaWZlJTIwVmFzY3VsYXIlMjBSaXNrJTIwQnVyZGVuJTIwYW5kJTIwRGVtZW50aWEtRnJlZSUyMFN1cnZpdmFsJTIwWWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0NTM0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDE1JTNBNTQlM0E0NyUyMCUyQjAwMDA",
+      "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+      "pubDate": "Mon, 10 Aug 2026 15:54:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJ0aHF1YWtlLnVzZ3MuZ292JTJGZWFydGhxdWFrZXMlMkZldmVudHBhZ2UlMkZ1czYwMDB0amwyJTJGZXhlY3V0aXZlJTdDaHR0cHMlM0ElMkYlMkZlYXJ0aHF1YWtlLnVzZ3MuZ292JTJGZWFydGhxdWFrZXMlMkZldmVudHBhZ2UlMkZ1czYwMDB0amwyJTJGZXhlY3V0aXZlJTdDTWFnbml0dWRlJTIwNy40JTIwRWFydGhxdWFrZSUyMCVFMiU4MCU5MyUyMDUlMjBrbSUyMFMlMjBvZiUyMFNhbiUyMEpvcyVDMyVBOSUyMGRlbCUyMFBhbG1hciUyQyUyMENvbG9tYmlhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDUyNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTQ5JTNBNDglMjAlMkIwMDAw",
+      "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+      "pubDate": "Mon, 10 Aug 2026 15:49:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmMxajFrank3Z2V3byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjMWoxa2p5N2dld28lN0NNYXJzJTIwQmFyJTIwZnJvbSUyMDE5OTElMjBmb3VuZCUyMCVFMiU4MCU5MyUyMGFuZCUyMGl0J3MlMjAyMGclMjBiaWdnZXIlMjB0aGFuJTIwdG9kYXkncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ1MDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTUlM0EzMiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "pubDate": "Mon, 10 Aug 2026 15:32:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV0b2t5b2hlcm1pdC5zdWJzdGFjay5jb20lMkZwJTJGaXRhZGFraW1hc3UtYS13b3JkLXlvdS1zYXktdG8tdGhlJTdDaHR0cHMlM0ElMkYlMkZ0aGV0b2t5b2hlcm1pdC5zdWJzdGFjay5jb20lMkZwJTJGaXRhZGFraW1hc3UtYS13b3JkLXlvdS1zYXktdG8tdGhlJTdDSXRhZGFraW1hc3UlM0ElMjBBJTIwV29yZCUyMFlvdSUyMFNheSUyMHRvJTIwdGhlJTIwRm9vZCUyQyUyME5vdCUyMHRoZSUyMENvb2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0NDkxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDE1JTNBMjMlM0E0NCUyMCUyQjAwMDA",
+      "title": "Itadakimasu: A Word You Say to the Food, Not the Cook",
+      "pubDate": "Mon, 10 Aug 2026 15:23:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2NheC5jb20lMkYyMDI2JTJGMDglMkYwNyUyRmtpbm5leS1kcnVncy1wdWxscy1iYWNrLWFpLXBob25lLWFzc2lzdGFudC1hZnRlci1odW5kcmVkcy1jdXN0b21lci1jb21wbGFpbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2NheC5jb20lMkYyMDI2JTJGMDglMkYwNyUyRmtpbm5leS1kcnVncy1wdWxscy1iYWNrLWFpLXBob25lLWFzc2lzdGFudC1hZnRlci1odW5kcmVkcy1jdXN0b21lci1jb21wbGFpbnRzJTJGJTdDS2lubmV5JTIwRHJ1Z3MlMjBwdWxscyUyMGJhY2slMjBBSSUyMHBob25lJTIwYXNzaXN0YW50JTIwYWZ0ZXIlMjBodW5kcmVkcyUyMG9mJTIwY3VzdG9tZXIlMjBjb21wbGFpbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDQ1NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTU2JTNBMzIlMjAlMkIwMDAw",
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "pubDate": "Mon, 10 Aug 2026 14:56:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV0cmVrLmNvJTJGYXBwYWxhY2hpYW4tdHJhaWwlMkZ0aGVyZS1pcy1uby1kb25lLXJlZmxlY3Rpb25zLW9uLWEtY29tcGxldGVkLWF0LXRocnUtaGlrZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhldHJlay5jbyUyRmFwcGFsYWNoaWFuLXRyYWlsJTJGdGhlcmUtaXMtbm8tZG9uZS1yZWZsZWN0aW9ucy1vbi1hLWNvbXBsZXRlZC1hdC10aHJ1LWhpa2UlMkYlN0NUaGVyZSUyMElzJTIwTm8lMjAlMjJEb25lJTIyJTNBJTIwUmVmbGVjdGlvbnMlMjBvbiUyMGElMjBDb21wbGV0ZWQlMjBhdCUyMFRocnUtSGlrZSUyMCgyMDIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ0MjUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTQlM0EzMiUzQTU0JTIwJTJCMDAwMA",
+      "title": "There Is No \"Done\": Reflections on a Completed at Thru-Hike (2022)",
+      "pubDate": "Mon, 10 Aug 2026 14:32:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnNzaGguaW8lMkZwJTJGZXhwbG9yaW5nLWNsYXVkZWdwdC1rbm93bGVkZ2UtY3V0b2ZmcyU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5zc2hoLmlvJTJGcCUyRmV4cGxvcmluZy1jbGF1ZGVncHQta25vd2xlZGdlLWN1dG9mZnMlN0NFeHBsb3JpbmclMjBDbGF1ZGUlMkZHUFQlMjBLbm93bGVkZ2UlMjBDdXRvZmZzJTIwYW5kJTIwUHJlLVRyYWluaW5nJTIwVGltZWxpbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDQwODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTIwJTNBNDElMjAlMkIwMDAw",
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "pubDate": "Mon, 10 Aug 2026 14:20:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrdWJlci5zdHVkaW8lMkZibG9nJTJGUmVmbGVjdGlvbnMlMkZIdW1hbmlzaW5nLUxMTS1PdXRwdXRzLWlzLUFjdHVhbGx5LUR1bWIlN0NodHRwcyUzQSUyRiUyRmt1YmVyLnN0dWRpbyUyRmJsb2clMkZSZWZsZWN0aW9ucyUyRkh1bWFuaXNpbmctTExNLU91dHB1dHMtaXMtQWN0dWFsbHktRHVtYiU3Q0h1bWFuaXNpbmclMjBMTE0lMjBPdXRwdXRzJTIwSXMlMjBEdW1iJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDM0NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTM1JTNBNDAlMjAlMkIwMDAw",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "pubDate": "Mon, 10 Aug 2026 13:35:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXRlbnRzZ2F6ZXR0ZS51c3B0by5nb3YlMkZ3ZWVrMjYlMkZPRyUyRmh0bWwlMkYxNTQ3LTUlMkZVUzEyNjcwMDQ1LTIwMjYwNjMwLmh0bWwlN0NodHRwcyUzQSUyRiUyRnBhdGVudHNnYXpldHRlLnVzcHRvLmdvdiUyRndlZWsyNiUyRk9HJTJGaHRtbCUyRjE1NDctNSUyRlVTMTI2NzAwNDUtMjAyNjA2MzAuaHRtbCU3Q01pc3RyYWwlMjBQYXRlbnQlMjBmb3IlMjAlMjJDb2RlJTIwaW1wbGVtZW50ZWQlMjB0b29sJTIwY2FsbHMlMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0MzM5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDEzJTNBMjklM0ExMiUyMCUyQjAwMDA",
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "pubDate": "Mon, 10 Aug 2026 13:29:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVhdXRpZnVscHVibGljZGF0YS5jb20lMkZib2F0LW5hbWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmVhdXRpZnVscHVibGljZGF0YS5jb20lMkZib2F0LW5hbWVzJTJGJTdDNTBrJTIwQm9hdCUyME5hbWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDMwMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxMiUzQTU4JTNBMTYlMjAlMkIwMDAw",
+      "title": "50k Boat Names",
+      "pubDate": "Mon, 10 Aug 2026 12:58:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib2JkYWhhY2tlci5jb20lMkZibG9nJTJGdGxkdi1oYWNrJTdDaHR0cHMlM0ElMkYlMkZib2JkYWhhY2tlci5jb20lMkZibG9nJTJGdGxkdi1oYWNrJTdDT3ZlciUyMDE4MSUyQzAwMCUyMEFJJTIwbWVldGluZyUyMHJlY29yZGluZ3MlMjBsZWZ0JTIwd2lkZSUyMG9wZW4lMjBpbiUyMG5vdGUlMjB0YWtpbmclMjBhcHAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0MjczOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDEyJTNBMjYlM0EwNSUyMCUyQjAwMDA",
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "pubDate": "Mon, 10 Aug 2026 12:26:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcXVlYWsub3JnJTJGcmVsZWFzZV9ub3RlcyUyRjYuMSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3F1ZWFrLm9yZyUyRnJlbGVhc2Vfbm90ZXMlMkY2LjElMkYlN0NTcXVlYWslMjA2LjElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0MjY1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDEyJTNBMTUlM0E1MyUyMCUyQjAwMDA",
+      "title": "Squeak 6.1",
+      "pubDate": "Mon, 10 Aug 2026 12:15:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDM0NzAzJTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDM0NzAzJTJGJTdDVGFpbC1jYWxsJTIwb3B0aW1pemF0aW9uJTIwaW4lMjBDJTIwaXMlMjByZWxhdGl2ZWx5JTIwcmVjZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDIyOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxMSUzQTM0JTNBNDAlMjAlMkIwMDAw",
+      "title": "Tail-call optimization in C is relatively recent",
+      "pubDate": "Mon, 10 Aug 2026 11:34:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldGh3Lm9yZyUyRk1pbGVzdG9uZXMlM0FQYXJhbWV0cm9uJTJDXzE5NTQlN0NodHRwcyUzQSUyRiUyRmV0aHcub3JnJTJGTWlsZXN0b25lcyUzQVBhcmFtZXRyb24lMkNfMTk1NCU3Q1BhcmFtZXRyb24lM0ElMjA1MHMlMjBKYXBhbmVzZSUyMGNvbXB1dGVyJTIwdGhhdCUyMHVzZXMlMjBuZWl0aGVyJTIwdHJhbnNpc3RvcnMlMjBub3IlMjB2YWN1dW0lMjB0dWJlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQxODQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTAlM0EyOSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "pubDate": "Mon, 10 Aug 2026 10:29:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5tZXRhLmFpJTJGYmxvZyUyRmludHJvZHVjaW5nLW11c2UtZ2xpbW1lci1vcGVuLWFnZW50aWMtbW9kZWwlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLm1ldGEuYWklMkZibG9nJTJGaW50cm9kdWNpbmctbXVzZS1nbGltbWVyLW9wZW4tYWdlbnRpYy1tb2RlbCU3Q01ldGElMjBNdXNlJTIwR2xpbW1lciUyMCVFMiU4MCU5MyUyME9wZW4lMjB3ZWlnaHRzJTIwMzBCJTIwbG9jYWwlMjBjb2RpbmclMjBtb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQxNjc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTAlM0ExMCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Meta Muse Glimmer – Open weights 30B local coding model",
+      "pubDate": "Mon, 10 Aug 2026 10:10:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
     }
   ]
