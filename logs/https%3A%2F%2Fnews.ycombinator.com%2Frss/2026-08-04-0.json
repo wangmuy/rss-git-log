@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-04",
     "newestItemDate": "2026-08-04",
-    "itemCount": 58,
-    "generatedAt": "2026-08-09T09:05:42.540Z"
+    "itemCount": 59,
+    "generatedAt": "2026-08-10T09:52:11.768Z"
   },
   "items": [
     {
@@ -354,6 +354,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmaWJlcmZzLmlvJTJGYmxvZyUyRmFzc2VydF9hX21vZGVybl9ob3dfdG8lN0NodHRwcyUzQSUyRiUyRmZpYmVyZnMuaW8lMkZibG9nJTJGYXNzZXJ0X2FfbW9kZXJuX2hvd190byU3Q0Fzc2VydCgpJTNBJTIwQSUyME1vZGVybiUyMEhvdyUyMFRvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNjQ2ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNCUyMEF1ZyUyMDIwMjYlMjAwNSUzQTQyJTNBNDAlMjAlMkIwMDAw",
       "title": "Assert(): A Modern How To",
       "pubDate": "Tue, 04 Aug 2026 05:42:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrbm93d2hlcmVjb25zdWx0aW5nLmNvLnVrJTJGbWFwcyUyRnB1YnMlMkYlN0NodHRwcyUzQSUyRiUyRmtub3d3aGVyZWNvbnN1bHRpbmcuY28udWslMkZtYXBzJTJGcHVicyUyRiU3Q05lYXJlc3QlMjBQaW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxNzQwMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTQ3JTNBMTAlMjAlMkIwMDAw",
+      "title": "Nearest Pint",
+      "pubDate": "Tue, 04 Aug 2026 19:47:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-04-0.json"
     }
   ]

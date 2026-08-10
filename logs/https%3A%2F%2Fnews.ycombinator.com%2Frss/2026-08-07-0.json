@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-07",
     "newestItemDate": "2026-08-07",
-    "itemCount": 32,
-    "generatedAt": "2026-08-10T02:38:00.321Z"
+    "itemCount": 36,
+    "generatedAt": "2026-08-10T09:52:11.768Z"
   },
   "items": [
     {
@@ -198,6 +198,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGY29sbGVjdGlvbiUyRm1hcm5hbWVoJTJGJTdDaHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGY29sbGVjdGlvbiUyRm1hcm5hbWVoJTJGJTdDJTIyVGhlJTIwUGVyc2lhbiUyME0lQzMlQTJSLU4lQzMlQTJtZWglMjBPciUyQyUyMHRoZSUyMEJvb2slMjBmb3IlMjBUYWtpbmclMjBPbWVucyUyMGZyb20lMjBTbmFrZXMlMjIlMjAoMTg5MiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwNTc5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDA0JTNBMDQlM0E1NiUyMCUyQjAwMDA",
       "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
       "pubDate": "Fri, 07 Aug 2026 04:04:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbWFsbGN1bHRmb2xsb3dpbmcuY29tJTJGYmFieXN0ZXBzJTJGYmxvZyUyRjIwMTglMkYwNCUyRjI3JTJGYW4tYWxpYXMtYmFzZWQtZm9ybXVsYXRpb24tb2YtdGhlLWJvcnJvdy1jaGVja2VyJTJGJTdDaHR0cHMlM0ElMkYlMkZzbWFsbGN1bHRmb2xsb3dpbmcuY29tJTJGYmFieXN0ZXBzJTJGYmxvZyUyRjIwMTglMkYwNCUyRjI3JTJGYW4tYWxpYXMtYmFzZWQtZm9ybXVsYXRpb24tb2YtdGhlLWJvcnJvdy1jaGVja2VyJTJGJTdDQW4lMjBhbGlhcy1iYXNlZCUyMGZvcm11bGF0aW9uJTIwb2YlMjB0aGUlMjBib3Jyb3clMjBjaGVja2VyJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMTE4MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTIwJTNBMjglMjAlMkIwMDAw",
+      "title": "An alias-based formulation of the borrow checker (2018)",
+      "pubDate": "Fri, 07 Aug 2026 15:20:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3JkZ29hdGkudXMlMkZibG9nJTJGdGFpbC1jYWxsJTJGJTdDaHR0cHMlM0ElMkYlMkZsb3JkZ29hdGkudXMlMkZibG9nJTJGdGFpbC1jYWxsJTJGJTdDVGFpbC1DYWxsJTIwSW50ZXJwcmV0ZXJzJTIwaW4lMjBSdXN0JTIwJUUyJTgwJTkzJTIwSmltbXklMjBPc3RsZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwOTEzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDEyJTNBMDUlM0ExMCUyMCUyQjAwMDA",
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "pubDate": "Fri, 07 Aug 2026 12:05:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZueXV1LnBhZ2UlMkZwcm9qZWN0cyUyRnNsYXAlMkYlN0NodHRwcyUzQSUyRiUyRm55dXUucGFnZSUyRnByb2plY3RzJTJGc2xhcCUyRiU3Q1NsYXAlMjBST00lMjBQYXRjaGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMDYwMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNyUyMEF1ZyUyMDIwMjYlMjAwNCUzQTU0JTNBNTIlMjAlMkIwMDAw",
+      "title": "Slap ROM Patcher",
+      "pubDate": "Fri, 07 Aug 2026 04:54:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHNwcmVsYXRlZC5jb20lMkZzaG93YXJ0aWNsZSUyRjQwLnBocCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRzcHJlbGF0ZWQuY29tJTJGc2hvd2FydGljbGUlMkY0MC5waHAlN0NBbiUyMEludGVyZXN0aW5nJTIwRm91cmllciUyMFRyYW5zZm9ybSUyMCVFMiU4MCU5MyUyMDElMkZGJTIwTm9pc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwNTA4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDAxJTNBNTYlM0ExMCUyMCUyQjAwMDA",
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "pubDate": "Fri, 07 Aug 2026 01:56:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
     }
   ]
