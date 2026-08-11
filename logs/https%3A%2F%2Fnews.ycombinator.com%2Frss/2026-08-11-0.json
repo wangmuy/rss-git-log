@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-11",
     "newestItemDate": "2026-08-11",
-    "itemCount": 5,
-    "generatedAt": "2026-08-11T09:16:57.988Z"
+    "itemCount": 18,
+    "generatedAt": "2026-08-11T17:16:03.397Z"
   },
   "items": [
     {
@@ -36,6 +36,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aXJleiUyRmgzLmMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbnRpcmV6JTJGaDMuYyU3Q0gzLW1ldGFsJTIwJUUyJTgwJTkzJTIwTmF0aXZlJTIwTWluaU1heC1IMyUyMGluZmVyZW5jZSUyMGZvciUyMEFwcGxlJTIwU2lsaWNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjUyMTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMDElM0EyMiUzQTA5JTIwJTJCMDAwMA",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "pubDate": "Tue, 11 Aug 2026 01:22:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGhlUmVhbFlUJTJGZ2l0LWtuaWZlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGhlUmVhbFlUJTJGZ2l0LWtuaWZlJTdDU2hvdyUyMEhOJTNBJTIwR2l0LWtuaWZlJTIwJUUyJTgwJTkzJTIwZWRpdCUyMGNvbW1pdCUyMG1lc3NhZ2VzJTJDJTIwYXV0aG9ycyUyQyUyMGFuZCUyMGRhdGVzJTIwbGlrZSUyMGElMjBzcHJlYWRzaGVldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU5NjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTUlM0EwOSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "pubDate": "Tue, 11 Aug 2026 15:09:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdHJ5Y3VhJTJGY3VhJTJGYmxvYiUyRm1haW4lMkZibG9nJTJGZ3B1LXBhc3N0aHJvdWdoLW1hY29zLXZtcy5tZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnRyeWN1YSUyRmN1YSUyRmJsb2IlMkZtYWluJTJGYmxvZyUyRmdwdS1wYXNzdGhyb3VnaC1tYWNvcy12bXMubWQlN0NBcHBsZSUyMFNpbGljb24lMjBhbmQlMjBtYWNPUyUyMFZNcyUzQSUyMDExJUUyJTgwJTkzMTYlQzMlOTclMjBGYXN0ZXIlMjBMTE0lMjBJbmZlcmVuY2UlMjB3aXRoJTIwTGxhbWEuY3BwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTkzMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTUwJTNBMzMlMjAlMkIwMDAw",
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "pubDate": "Tue, 11 Aug 2026 14:50:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHJ5a2VldC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50cnlrZWV0LmNvbSUyRiU3Q0xhdW5jaCUyMEhOJTNBJTIwS2VldCUyMChZQyUyMFMyNCklMjAlRTIlODAlOTMlMjBBbiUyMGFwcCUyMHRvJTIwY3JlYXRlJTIwdmlkZW8lMjBjb3Vyc2VzJTIwb24lMjBhbnl0aGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU5MzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTQlM0E0OCUzQTM3JTIwJTJCMDAwMA",
+      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+      "pubDate": "Tue, 11 Aug 2026 14:48:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJvcHVibGljYS5vcmclMkZhcnRpY2xlJTJGZm9pYS1yZXF1ZXN0cy1yZXNwb25zZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5wcm9wdWJsaWNhLm9yZyUyRmFydGljbGUlMkZmb2lhLXJlcXVlc3RzLXJlc3BvbnNlcyU3Q0ZlZGVyYWwlMjB2ZW5kb3IlMjB3aXRoJTIwJTI0NTBNJTIwaW4lMjBjb250cmFjdHMlMjBsZWF2ZXMlMjBwb3J0YWwlMjBicm9rZW4lMjBmb3IlMjBhJTIwbW9udGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI1OTA0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDE0JTNBMzIlM0EyMSUyMCUyQjAwMDA",
+      "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
+      "pubDate": "Tue, 11 Aug 2026 14:32:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYW51cy5pbSUyRmJsb2clMkZhLW5vdGUtdG8tb3VyLXVzZXJzJTdDaHR0cHMlM0ElMkYlMkZtYW51cy5pbSUyRmJsb2clMkZhLW5vdGUtdG8tb3VyLXVzZXJzJTdDTWFudXMlMjB3aWxsJTIwcmV0dXJuJTIwdG8lMjBvcGVyYXRpbmclMjBhcyUyMGFuJTIwaW5kZXBlbmRlbnQlMjBjb21wYW55JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTg3NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTE0JTNBNTMlMjAlMkIwMDAw",
+      "title": "Manus will return to operating as an independent company",
+      "pubDate": "Tue, 11 Aug 2026 14:14:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaW1hZ2F6aW5lLmNvbSUyRm5ld3MlMkZ3aHktZGlkLW9wZW5haS1oZWFkLW9mLWV0aGljcy1jaGxvZS1iYWthbGFyLWxlYXZlJTdDaHR0cHMlM0ElMkYlMkZhaW1hZ2F6aW5lLmNvbSUyRm5ld3MlMkZ3aHktZGlkLW9wZW5haS1oZWFkLW9mLWV0aGljcy1jaGxvZS1iYWthbGFyLWxlYXZlJTdDV2h5JTIwRGlkJTIwT3BlbkFJJ3MlMjBIZWFkJTIwb2YlMjBFdGhpY3MlMjBDaGxvJUMzJUE5JTIwQmFrYWxhciUyMExlYXZlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTg1ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTAzJTNBMTglMjAlMkIwMDAw",
+      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "pubDate": "Tue, 11 Aug 2026 14:03:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRm5ldHdvcmtpbmclMkZ1c2Q1ODAtbWlsbGlvbi11bmRlcnNlYS1jYWJsZS1yZXJvdXRlZC10by1hdm9pZC10aGUtZ3JhdmUtb2YtZG9iYnktdGhlLWhvdXNlLWVsZi1jb21wYW55LWNhdmVzLXRvLWZhbi1kZW1hbmRzLXRvLXNhZmVndWFyZC1oYXJyeS1wb3R0ZXItZmlsbWluZy1sb2NhdGlvbi13aWxsLWluc3RlYWQtcGFzcy1ieS1icm9uemUtYWdlLWJ1cmlhbC1zaXRlJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRm5ldHdvcmtpbmclMkZ1c2Q1ODAtbWlsbGlvbi11bmRlcnNlYS1jYWJsZS1yZXJvdXRlZC10by1hdm9pZC10aGUtZ3JhdmUtb2YtZG9iYnktdGhlLWhvdXNlLWVsZi1jb21wYW55LWNhdmVzLXRvLWZhbi1kZW1hbmRzLXRvLXNhZmVndWFyZC1oYXJyeS1wb3R0ZXItZmlsbWluZy1sb2NhdGlvbi13aWxsLWluc3RlYWQtcGFzcy1ieS1icm9uemUtYWdlLWJ1cmlhbC1zaXRlJTdDJTI0NTgwTSUyMHVuZGVyc2VhJTIwY2FibGUlMjByZXJvdXRlZCUyMHRvJTIwYXZvaWQlMjB0aGUlMjBncmF2ZSUyMG9mJTIwRG9iYnklMjB0aGUlMjBIb3VzZSUyMEVsZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU4MjAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTMlM0E0MiUzQTI3JTIwJTJCMDAwMA",
+      "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+      "pubDate": "Tue, 11 Aug 2026 13:42:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0ZW1kLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3JpdGVtZC5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBXcml0ZS5tZCUyQyUyMGElMjBmcmVlJTJDJTIwb3Blbi1zb3VyY2UlMkMlMjB0aGVtZWFibGUlMjBNYXJrZG93biUyMGVkaXRvciUyMGZvciUyMG1hY09TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTgwMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTMwJTNBMzklMjAlMkIwMDAw",
+      "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
+      "pubDate": "Tue, 11 Aug 2026 13:30:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm52aWRpYSUyRk5WSURJQS1OZW1vdHJvbi0zLjUtTGlnaHRuaW5nLTMwQi1BM0ItTlZGUDQlN0NodHRwcyUzQSUyRiUyRmh1Z2dpbmdmYWNlLmNvJTJGbnZpZGlhJTJGTlZJRElBLU5lbW90cm9uLTMuNS1MaWdodG5pbmctMzBCLUEzQi1OVkZQNCU3Q052aWRpYSUyME5lbW90cm9uJTIwMy41JTIwTGlnaHRuaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTc5NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTI2JTNBMDIlMjAlMkIwMDAw",
+      "title": "Nvidia Nemotron 3.5 Lightning",
+      "pubDate": "Tue, 11 Aug 2026 13:26:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9sZW4tdGhvdWdodHMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZzdG9sZW4tdGhvdWdodHMuY29tJTJGJTdDU3RlYWxpbmclMjBSZWFzb25pbmclMjBUcmFjZXMlMjBmcm9tJTIwUHJvcHJpZXRhcnklMjBMTE0lMjBBUElzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTc4NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTIyJTNBMDAlMjAlMkIwMDAw",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "pubDate": "Tue, 11 Aug 2026 13:22:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmM3NWdrNjIwcjIybyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjNzVnazYyMHIyMm8lN0NFbmdsYW5kJTIwc2V0JTIwdG8lMjBiZSUyMG9uZSUyMG9mJTIwdGhlJTIwZmlyc3QlMjBjb3VudHJpZXMlMjB0byUyMGVsaW1pbmF0ZSUyMGhlcGF0aXRpcyUyMEMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI1NzM3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDEyJTNBNDElM0E1OSUyMCUyQjAwMDA",
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "pubDate": "Tue, 11 Aug 2026 12:41:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlnaHRob3VzZW5ld3NsZXR0ZXIuY29tJTJGcCUyRmktcHV0LWdpdGh1Yi1jb3BpbG90LWJlaGluZC1hLW1pdG0lN0NodHRwcyUzQSUyRiUyRnd3dy5saWdodGhvdXNlbmV3c2xldHRlci5jb20lMkZwJTJGaS1wdXQtZ2l0aHViLWNvcGlsb3QtYmVoaW5kLWEtbWl0bSU3Q1doYXQlMjBJJTIwbGVhcm5lZCUyMGJ5JTIwcHV0dGluZyUyMEdpdEh1YiUyMENvcGlsb3QlMjBiZWhpbmQlMjBhJTIwTWl0TSUyMHByb3h5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTYwNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxMCUzQTQwJTNBNDclMjAlMkIwMDAw",
+      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "pubDate": "Tue, 11 Aug 2026 10:40:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJhdGVjaGVyeS5jb20lMkYyMDI2JTJGbnZpZGlhcy1yaXNreS1idXNpbmVzcyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RyYXRlY2hlcnkuY29tJTJGMjAyNiUyRm52aWRpYXMtcmlza3ktYnVzaW5lc3MlMkYlN0NOdmlkaWEncyUyMFJpc2t5JTIwQnVzaW5lc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI1NTcxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDEwJTNBMDIlM0EwMCUyMCUyQjAwMDA",
+      "title": "Nvidia's Risky Business",
+      "pubDate": "Tue, 11 Aug 2026 10:02:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
     }
   ]

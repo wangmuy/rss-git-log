@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-10",
     "newestItemDate": "2026-08-10",
-    "itemCount": 48,
-    "generatedAt": "2026-08-11T09:16:57.988Z"
+    "itemCount": 49,
+    "generatedAt": "2026-08-11T17:16:03.397Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGcmllbWFubi16ZXRhJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGcmllbWFubi16ZXRhJTdDTGVhcm5pbmclMjBtb3JlJTIwYWJvdXQlMjBDbGF1ZGUncyUyMG1hdGhlbWF0aWNhbCUyMGNhcGFiaWxpdGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ3MDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTclM0E0MSUzQTEzJTIwJTJCMDAwMA",
       "title": "Learning more about Claude's mathematical capabilities",
       "pubDate": "Mon, 10 Aug 2026 17:41:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdpbmdlcmJlYXJkbWFuLmNvbSUyRjIwMjYlMkYwNyUyRjMwJTJGYmVsdHJ1bm5lci1nYW1lLWRlc2lnbi1wb3N0bW9ydGVtJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdpbmdlcmJlYXJkbWFuLmNvbSUyRjIwMjYlMkYwNyUyRjMwJTJGYmVsdHJ1bm5lci1nYW1lLWRlc2lnbi1wb3N0bW9ydGVtJTJGJTdDQmVsdHJ1bm5lciUzQSUyMEdhbWUlMjBEZXNpZ24lMjBQb3N0bW9ydGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDUxMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTQwJTNBMjQlMjAlMkIwMDAw",
+      "title": "Beltrunner: Game Design Postmortem",
+      "pubDate": "Mon, 10 Aug 2026 15:40:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
     }
   ]

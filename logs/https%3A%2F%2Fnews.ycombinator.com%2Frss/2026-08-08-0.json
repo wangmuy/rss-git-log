@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-08",
     "newestItemDate": "2026-08-08",
-    "itemCount": 36,
-    "generatedAt": "2026-08-11T09:16:57.988Z"
+    "itemCount": 38,
+    "generatedAt": "2026-08-11T17:16:03.397Z"
   },
   "items": [
     {
@@ -222,6 +222,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVwaGQuZGV2JTJGdG8tc2F2ZS1jLXdlLW11c3Qtc2F2ZS1hYmktZml4aW5nLWMtZnVuY3Rpb24tYWJpJTdDaHR0cHMlM0ElMkYlMkZ0aGVwaGQuZGV2JTJGdG8tc2F2ZS1jLXdlLW11c3Qtc2F2ZS1hYmktZml4aW5nLWMtZnVuY3Rpb24tYWJpJTdDVG8lMjBTYXZlJTIwQyUyQyUyMFdlJTIwTXVzdCUyMFNhdmUlMjBBQkklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIxOTY3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDA3JTNBMzYlM0E1NSUyMCUyQjAwMDA",
       "title": "To Save C, We Must Save ABI",
       "pubDate": "Sat, 08 Aug 2026 07:36:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaG90b3N5bnRoZXNpcy5jYW1lcmElN0NodHRwcyUzQSUyRiUyRnBob3Rvc3ludGhlc2lzLmNhbWVyYSUyRiU3Q1Nob3clMjBITiUzQSUyMGlQaG9uZSUyMGFwcCUyMHRha2VzJTIwc2ltdWx0YW5lb3VzJTIwaW1hZ2VzJTIwZnJvbSUyMDIlMjBsZW5zZXMlMkMlMjBmdXNlcyUyMGludG8lMjAxJTIwcGhvdG8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyNjYyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDIyJTNBNDclM0ExMCUyMCUyQjAwMDA",
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "pubDate": "Sat, 08 Aug 2026 22:47:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2x0LWxhbmcuZ2l0aHViLmlvJTdDaHR0cHMlM0ElMkYlMkZqb2x0LWxhbmcuZ2l0aHViLmlvJTJGJTdDSm9sdCUzQSUyMENsb2p1cmUlMjBjb21waWxlciUyMGltcGxlbWVudGVkJTIwd2l0aCUyMENoZXolMjBTY2hlbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyMzk2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDE3JTNBMzglM0EyMCUyMCUyQjAwMDA",
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "pubDate": "Sat, 08 Aug 2026 17:38:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
     }
   ]
