@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-10",
     "newestItemDate": "2026-08-10",
-    "itemCount": 44,
-    "generatedAt": "2026-08-11T02:31:02.753Z"
+    "itemCount": 48,
+    "generatedAt": "2026-08-11T09:16:57.988Z"
   },
   "items": [
     {
@@ -270,6 +270,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5tZXRhLmFpJTJGYmxvZyUyRmludHJvZHVjaW5nLW11c2UtZ2xpbW1lci1vcGVuLWFnZW50aWMtbW9kZWwlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLm1ldGEuYWklMkZibG9nJTJGaW50cm9kdWNpbmctbXVzZS1nbGltbWVyLW9wZW4tYWdlbnRpYy1tb2RlbCU3Q011c2UlMjBHbGltbWVyJTNBJTIwMzBCLXBhcmFtZXRlciUyMG1vZGVsJTIwb3B0aW1pemVkJTIwZm9yJTIwYWx3YXlzLW9uJTIwbG9jYWwlMjBhZ2VudCUyMHdvcmtmbG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQxNjc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTAlM0ExMCUzQTAyJTIwJTJCMDAwMA",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "pubDate": "Mon, 10 Aug 2026 10:10:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmb3J0Lm5ld3MlMkZ1ay1sb2JieSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVmZm9ydC5uZXdzJTJGdWstbG9iYnklN0NUaGUlMjBVSydzJTIwd2FyJTIwb24lMjBhbm9ueW1pdHklMjBoYXMlMjBjb21lJTIwdG8lMjBBbWVyaWNhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTE0MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAyMyUzQTQ1JTNBNTAlMjAlMkIwMDAw",
+      "title": "The UK's war on anonymity has come to America",
+      "pubDate": "Mon, 10 Aug 2026 23:45:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV3YWxydXMuY2ElMkZnb29nbGUtc2VhcmNoLWlzLWR5aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGV3YWxydXMuY2ElMkZnb29nbGUtc2VhcmNoLWlzLWR5aW5nJTJGJTdDQXMlMjBBSSUyMGVhdHMlMjB0aGUlMjB3ZWIlMkMlMjB0aGUlMjBpbnRlcm5ldCVFMiU4MCU5OXMlMjBjb2xsZWN0aXZlJTIwbWVtb3J5JTIwaXMlMjBkaXNhcHBlYXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI1MDgzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDIyJTNBMzYlM0EzMCUyMCUyQjAwMDA",
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "pubDate": "Mon, 10 Aug 2026 22:36:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTYyNjY3NzMtaG93LWNsYXVkZS1tYXJrcy1haS1nZW5lcmF0ZWQtY29udGVudCU3Q2h0dHBzJTNBJTJGJTJGc3VwcG9ydC5jbGF1ZGUuY29tJTJGZW4lMkZhcnRpY2xlcyUyRjE2MjY2NzczLWhvdy1jbGF1ZGUtbWFya3MtYWktZ2VuZXJhdGVkLWNvbnRlbnQlN0NIb3clMjBDbGF1ZGUlMjBtYXJrcyUyMEFJLWdlbmVyYXRlZCUyMGNvbnRlbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI1MDEwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDIxJTNBMzYlM0E1NiUyMCUyQjAwMDA",
+      "title": "How Claude marks AI-generated content",
+      "pubDate": "Mon, 10 Aug 2026 21:36:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGcmllbWFubi16ZXRhJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGcmllbWFubi16ZXRhJTdDTGVhcm5pbmclMjBtb3JlJTIwYWJvdXQlMjBDbGF1ZGUncyUyMG1hdGhlbWF0aWNhbCUyMGNhcGFiaWxpdGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ3MDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTclM0E0MSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "pubDate": "Mon, 10 Aug 2026 17:41:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
     }
   ]
