@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-08",
     "newestItemDate": "2026-08-08",
-    "itemCount": 34,
-    "generatedAt": "2026-08-09T16:59:07.799Z"
+    "itemCount": 35,
+    "generatedAt": "2026-08-11T02:31:02.753Z"
   },
   "items": [
     {
@@ -210,6 +210,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaG9waWZ5LmVuZ2luZWVyaW5nJTJGc2NhbGluZy1pbnZlbnRvcnktcmVzZXJ2YXRpb25zJTdDaHR0cHMlM0ElMkYlMkZzaG9waWZ5LmVuZ2luZWVyaW5nJTJGc2NhbGluZy1pbnZlbnRvcnktcmVzZXJ2YXRpb25zJTdDV2UlMjByZXBsYWNlZCUyMFJlZGlzJTIwd2l0aCUyME15U1FMJTIwZm9yJTIwaW52ZW50b3J5JTIwcmVzZXJ2YXRpb25zJTIwYW5kJTIwaXQlMjBzY2FsZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIyNjUzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA4JTIwQXVnJTIwMjAyNiUyMDIyJTNBMzIlM0E1MCUyMCUyQjAwMDA",
       "title": "We replaced Redis with MySQL for inventory reservations and it scaled",
       "pubDate": "Sat, 08 Aug 2026 22:32:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzamcuaW8lMkZ3cml0aW5nJTJGc3FybC13YXNudC13cm9uZy1pdC13YXMtZWFybHklMkYlN0NodHRwcyUzQSUyRiUyRnNqZy5pbyUyRndyaXRpbmclMkZzcXJsLXdhc250LXdyb25nLWl0LXdhcy1lYXJseSUyRiU3Q1NRUkwlMjB3YW4ndCUyMHdyb25nJTJDJTIwaXQlMjB3YXMlMjBlYXJseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjIxMTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDglMjBBdWclMjAyMDI2JTIwMTIlM0EyNCUzQTEyJTIwJTJCMDAwMA",
+      "title": "SQRL wan't wrong, it was early",
+      "pubDate": "Sat, 08 Aug 2026 12:24:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-08-0.json"
     }
   ]
