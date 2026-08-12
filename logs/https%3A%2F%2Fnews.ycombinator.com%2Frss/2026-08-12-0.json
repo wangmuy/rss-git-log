@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-12",
     "newestItemDate": "2026-08-12",
-    "itemCount": 3,
-    "generatedAt": "2026-08-12T02:59:49.981Z"
+    "itemCount": 8,
+    "generatedAt": "2026-08-12T09:33:54.212Z"
   },
   "items": [
     {
@@ -24,6 +24,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZpbmZvcm1hdGlvbi10ZWNobm9sb2d5JTJGMjAyNiUyRjA4JTJGZGVmLWNvbi1jcm93ZC1zdXNwZWN0ZWQtaW4tZmFrZS1ob3RzcG90LWF0dGFjay1vbi1kZWx0YS1mbGlnaHQlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmluZm9ybWF0aW9uLXRlY2hub2xvZ3klMkYyMDI2JTJGMDglMkZkZWYtY29uLWNyb3dkLXN1c3BlY3RlZC1pbi1mYWtlLWhvdHNwb3QtYXR0YWNrLW9uLWRlbHRhLWZsaWdodCUyRiU3Q0RFRiUyMENPTiUyMGNyb3dkJTIwc3VzcGVjdGVkJTIwaW4lMjBmYWtlLWhvdHNwb3QlMjBhdHRhY2slMjBvbiUyMERlbHRhJTIwZmxpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjY1NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAwMCUzQTU4JTNBMDAlMjAlMkIwMDAw",
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
       "pubDate": "Wed, 12 Aug 2026 00:58:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcG9vcmthYXJ0LnphemEuZGV2JTdDaHR0cHMlM0ElMkYlMkZzcG9vcmthYXJ0LnphemEuZGV2JTJGJTdDRHV0Y2glMjBUcmFpbiUyME1hcCUyMFNpbXVsYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY5NjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMDklM0EwOSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Dutch Train Map Simulator",
+      "pubDate": "Wed, 12 Aug 2026 09:09:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3JpbmdlYm90MzAwMC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcmluZ2Vib3QzMDAwLmNvbSUyRiU3Q0xpbmtlZEluJTIwQ3JpbmdlQm90JTIwMzAwMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY4NTY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMDYlM0EzMCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "LinkedIn CringeBot 3000",
+      "pubDate": "Wed, 12 Aug 2026 06:30:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsbGFtYS5hcHAlN0NodHRwcyUzQSUyRiUyRmxsYW1hLmFwcCUyRiU3Q2xsYW1hLmNwcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY3OTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMDQlM0E1MSUzQTU5JTIwJTJCMDAwMA",
+      "title": "llama.cpp",
+      "pubDate": "Wed, 12 Aug 2026 04:51:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcm9uZXhsLmNvJTJGMjAyNiUyRjA4JTJGMTAlMkZkYXJwYS1saWZ0LWNoYWxsZW5nZS1yZXN1bHRzLWF2aWRyb25lJTJGJTdDaHR0cHMlM0ElMkYlMkZkcm9uZXhsLmNvJTJGMjAyNiUyRjA4JTJGMTAlMkZkYXJwYS1saWZ0LWNoYWxsZW5nZS1yZXN1bHRzLWF2aWRyb25lJTJGJTdDREFSUEElMjBoZWF2eSUyMGxpZnQlMjBjaGFsbGVuZ2UlMjBlbmRzJTIwd2l0aCUyMHdpbm5lciUyMGF0JTIwYSUyMDMuODQlM0ExJTIwcGF5bG9hZCUyMHRvJTIwd2VpZ2h0JTIwcmF0aW8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2NzUyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDAzJTNBMjclM0EzMSUyMCUyQjAwMDA",
+      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "pubDate": "Wed, 12 Aug 2026 03:27:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmVudGZpdHpnZXJhbGQuY29tJTJGcG9zdHMlMkZ0aGUtaHVtYW4taXMtdGhlLWxvb3AlMkYlN0NodHRwcyUzQSUyRiUyRmJyZW50Zml0emdlcmFsZC5jb20lMkZwb3N0cyUyRnRoZS1odW1hbi1pcy10aGUtbG9vcCUyRiU3Q1RoZSUyMEh1bWFuJTIwSXMlMjB0aGUlMjBMb29wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjcxMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAwMiUzQTE1JTNBMDElMjAlMkIwMDAw",
+      "title": "The Human Is the Loop",
+      "pubDate": "Wed, 12 Aug 2026 02:15:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
     }
   ]

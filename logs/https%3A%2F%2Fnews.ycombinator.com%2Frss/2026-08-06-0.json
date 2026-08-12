@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-06",
     "newestItemDate": "2026-08-06",
-    "itemCount": 34,
-    "generatedAt": "2026-08-12T02:59:49.982Z"
+    "itemCount": 35,
+    "generatedAt": "2026-08-12T09:33:54.213Z"
   },
   "items": [
     {
@@ -210,6 +210,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYXp5cmVzZWFyY2guc3RhbmZvcmQuZWR1JTJGYmxvZyUyRjIwMjYtMDgtMDUtcmV0aXJlLXRoZS1hYnN0cmFjdGlvbnMlN0NodHRwcyUzQSUyRiUyRmhhenlyZXNlYXJjaC5zdGFuZm9yZC5lZHUlMkZibG9nJTJGMjAyNi0wOC0wNS1yZXRpcmUtdGhlLWFic3RyYWN0aW9ucyU3Q1JldGlyZSUyMHRoZSUyMEFic3RyYWN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTkxMTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMDElM0EwNSUzQTE2JTIwJTJCMDAwMA",
       "title": "Retire the Abstractions",
       "pubDate": "Thu, 06 Aug 2026 01:05:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWZwLnNlJTJGYXJ0aWNsZXMlMkZ5b3VyLXNoZWxsLWFuZC10aGUtbGF6eS1leGNsYW1hdGlvbi1tYXJrJTdDaHR0cHMlM0ElMkYlMkZyZWZwLnNlJTJGYXJ0aWNsZXMlMkZ5b3VyLXNoZWxsLWFuZC10aGUtbGF6eS1leGNsYW1hdGlvbi1tYXJrJTdDQSUyMHNoZWxsJTIwZXhjbGFtYXRpb24lMjBtYXJrJTIwaXMlMjBub3QlMjBmb3IlMjB5ZWxsaW5nLiUyMEJlJTIwbGF6eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTk3NTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTQlM0E1MyUzQTQwJTIwJTJCMDAwMA",
+      "title": "A shell exclamation mark is not for yelling. Be lazy",
+      "pubDate": "Thu, 06 Aug 2026 14:53:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
     }
   ]
