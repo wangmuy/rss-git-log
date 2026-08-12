@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-12",
     "newestItemDate": "2026-08-12",
-    "itemCount": 8,
-    "generatedAt": "2026-08-12T09:33:54.212Z"
+    "itemCount": 32,
+    "generatedAt": "2026-08-12T17:16:20.282Z"
   },
   "items": [
     {
@@ -54,6 +54,150 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZicmVudGZpdHpnZXJhbGQuY29tJTJGcG9zdHMlMkZ0aGUtaHVtYW4taXMtdGhlLWxvb3AlMkYlN0NodHRwcyUzQSUyRiUyRmJyZW50Zml0emdlcmFsZC5jb20lMkZwb3N0cyUyRnRoZS1odW1hbi1pcy10aGUtbG9vcCUyRiU3Q1RoZSUyMEh1bWFuJTIwSXMlMjB0aGUlMjBMb29wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjcxMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAwMiUzQTE1JTNBMDElMjAlMkIwMDAw",
       "title": "The Human Is the Loop",
       "pubDate": "Wed, 12 Aug 2026 02:15:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcmVmbGV4JTJGam9icyUyRjcxeDVHRmItZ3Jvd3RoLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcmVmbGV4JTJGam9icyUyRjcxeDVHRmItZ3Jvd3RoLWVuZ2luZWVyJTdDUmVmbGV4JTIwKFlDJTIwVzIzKSUyMElzJTIwaGlyaW5nJTIwR3Jvd3RoJTIwYW5kJTIwR1RNJTIwUm9sZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3NTQ2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE3JTNBMDAlM0EyMSUyMCUyQjAwMDA",
+      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+      "pubDate": "Wed, 12 Aug 2026 17:00:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZhcnRpY2xlcyUyRmdyb2stNC02LWJlbmNobWFya3MtYW5kLWFuYWx5c2lzJTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZhcnRpY2xlcyUyRmdyb2stNC02LWJlbmNobWFya3MtYW5kLWFuYWx5c2lzJTdDU3BhY2VYQUkncyUyMEdyb2slMjA0LjYlMjBTY29yZXMlMjA2MSUyMG9uJTIwdGhlJTIwQXJ0aWZpY2lhbCUyMEFuYWx5c2lzJTIwSW50ZWxsaWdlbmNlJTIwSW5kZXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3NTM4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE2JTNBNTQlM0EyNSUyMCUyQjAwMDA",
+      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "pubDate": "Wed, 12 Aug 2026 16:54:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRmVmNDk2OGY1JTJGaHRtbC1vdmVyLXdlYnNvY2tldHMtcmVhbC10aW1lLXNwYXMtd2l0aC1iYXJlbHktYW55LWphdmFzY3JpcHQlMkYlN0NodHRwcyUzQSUyRiUyRmVuLmFuZHJvcy5kZXYlMkZibG9nJTJGZWY0OTY4ZjUlMkZodG1sLW92ZXItd2Vic29ja2V0cy1yZWFsLXRpbWUtc3Bhcy13aXRoLWJhcmVseS1hbnktamF2YXNjcmlwdCUyRiU3Q0hUTUwlMjBvdmVyJTIwV2ViU29ja2V0cyUzQSUyMHJlYWwtdGltZSUyMFNQQXMlMjB3aXRoJTIwYmFyZWx5JTIwYW55JTIwSmF2YVNjcmlwdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc1MzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTYlM0E1MSUzQTI1JTIwJTJCMDAwMA",
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "pubDate": "Wed, 12 Aug 2026 16:51:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGltYXRlLm1ldG9mZmljZS5jbG91ZCUyRmdsYWNpZXJzLmh0bWwlN0NodHRwcyUzQSUyRiUyRmNsaW1hdGUubWV0b2ZmaWNlLmNsb3VkJTJGZ2xhY2llcnMuaHRtbCU3Q0dsYWNpZXJzJTIwb24lMjB0aGUlMjBDbGltYXRlJTIwRGFzaGJvYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNzUxMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAxNiUzQTM4JTNBMjUlMjAlMkIwMDAw",
+      "title": "Glaciers on the Climate Dashboard",
+      "pubDate": "Wed, 12 Aug 2026 16:38:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcGktZG9jcy5kZWVwc2Vlay5jb20lMkZndWlkZXMlMkZyZXNwb25zZXNfYXBpJTJGJTdDaHR0cHMlM0ElMkYlMkZhcGktZG9jcy5kZWVwc2Vlay5jb20lMkZndWlkZXMlMkZyZXNwb25zZXNfYXBpJTJGJTdDRGVlcFNlZWslMjBWNCUyMFBybyUyMDA4MTMlMjBxdWlldGx5JTIwcmVsZWFzZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3NTExNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE2JTNBMzclM0ExMyUyMCUyQjAwMDA",
+      "title": "DeepSeek V4 Pro 0813 quietly released",
+      "pubDate": "Wed, 12 Aug 2026 16:37:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2l0aHVic3RhdHVzLmNvbSUyRmluY2lkZW50cyUyRjc2dDg5aGJmYjA5aCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdpdGh1YnN0YXR1cy5jb20lMkZpbmNpZGVudHMlMkY3NnQ4OWhiZmIwOWglN0NXZWRuZXNkYXklMkMlMjBBdWd1c3QlMjAxMiUzQSUyMEdpdEh1YiUyQyUyMEluY2lkZW50JTIwd2l0aCUyMFB1bGwlMjBSZXF1ZXN0cyUyMGFuZCUyMElzc3VlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc0ODk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTYlM0EyMiUzQTI3JTIwJTJCMDAwMA",
+      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+      "pubDate": "Wed, 12 Aug 2026 16:22:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3VkYmljeWNsZS5jb20lMkZiYiU3Q2h0dHBzJTNBJTJGJTJGbG91ZGJpY3ljbGUuY29tJTJGYmIlN0NCaWtlJTIwQnVyZWF1JTNBJTIwUmVwb3J0JTIwQmlrZSUyMExhbmUlMjBPYnN0cnVjdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3NDg1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE2JTNBMjAlM0EyMiUyMCUyQjAwMDA",
+      "title": "Bike Bureau: Report Bike Lane Obstructions",
+      "pubDate": "Wed, 12 Aug 2026 16:20:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGZGVlcHNlZWslMkZkZWVwc2Vlay12NC1wcm8tMDgxMyU3Q2h0dHBzJTNBJTJGJTJGb3BlbnJvdXRlci5haSUyRmRlZXBzZWVrJTJGZGVlcHNlZWstdjQtcHJvLTA4MTMlN0NEZWVwU2VlayUyMFY0JTIwUHJvJTIwMDgxMyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc0NjAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTYlM0EwNCUzQTUwJTIwJTJCMDAwMA",
+      "title": "DeepSeek V4 Pro 0813",
+      "pubDate": "Wed, 12 Aug 2026 16:04:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRlF3ZW4lMkZRd2VuMy44LTIuNFQtQTk1QiU3Q2h0dHBzJTNBJTJGJTJGaHVnZ2luZ2ZhY2UuY28lMkZRd2VuJTJGUXdlbjMuOC0yLjRULUE5NUIlN0NRd2VuJTJGUXdlbjMuOC0yLjRULUE5NUIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MzQ3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE1JTNBMDElM0ExNyUyMCUyQjAwMDA",
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "pubDate": "Wed, 12 Aug 2026 15:01:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1c2VoYXguZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZ1c2VoYXguZGV2JTJGJTdDSGF4JTIwJUUyJTgwJTkzJTIwYSUyMG1pbmltYWxpc3QlMkMlMjB0ZXJtaW5hbC1uYXRpdmUlMjBjb2RpbmclMjBhZ2VudCUyMHdyaXR0ZW4lMjBpbiUyMEMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MzE3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE0JTNBNDMlM0E0NSUyMCUyQjAwMDA",
+      "title": "Hax – a minimalist, terminal-native coding agent written in C",
+      "pubDate": "Wed, 12 Aug 2026 14:43:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZXdwd2hlZWxlci5jb20lMkYyMDI2JTJGMDglMkYxMiUyRmxpY2Vuc2UtcGxhdGUtcmVhZGVyLXNlYXJjaGVzLXNob3VsZC1yZXF1aXJlLWEtd2FycmFudCUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5kcmV3cHdoZWVsZXIuY29tJTJGMjAyNiUyRjA4JTJGMTIlMkZsaWNlbnNlLXBsYXRlLXJlYWRlci1zZWFyY2hlcy1zaG91bGQtcmVxdWlyZS1hLXdhcnJhbnQlMkYlN0NMaWNlbnNlJTIwcGxhdGUlMjByZWFkZXIlMjBzZWFyY2hlcyUyMHNob3VsZCUyMHJlcXVpcmUlMjBhJTIwd2FycmFudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjczMTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTQlM0E0MyUzQTM5JTIwJTJCMDAwMA",
+      "title": "License plate reader searches should require a warrant",
+      "pubDate": "Wed, 12 Aug 2026 14:43:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGYmxvZyUyRnNxbGl0ZS13YWwtcmVzZXQtYnVnJTdDaHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGYmxvZyUyRnNxbGl0ZS13YWwtcmVzZXQtYnVnJTdDVGFpbHNjYWxlJTIwVHJhY2VzJTIwRGF0YWJhc2UlMjBDb3JydXB0aW9uJTIwdG8lMjAxNnklMkZvJTIwU1FMaXRlJTIwV0FMLVJlc2V0JTIwQnVnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNzI4MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAxNCUzQTIyJTNBMzAlMjAlMkIwMDAw",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "pubDate": "Wed, 12 Aug 2026 14:22:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWlnYS1uZXdzLmRlJTJGZW4lMkZuZXdzJTJGQU4tMjAyNi0wOC0wMDA3MC1FTi5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbWlnYS1uZXdzLmRlJTJGZW4lMkZuZXdzJTJGQU4tMjAyNi0wOC0wMDA3MC1FTi5odG1sJTdDVGltJTIwS2luZyUyQyUyMEFtaWdhRE9TJTIwZGV2ZWxvcGVyJTJDJTIwaGFzJTIwZGllZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjcyNjU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTQlM0EwOSUzQTExJTIwJTJCMDAwMA",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "pubDate": "Wed, 12 Aug 2026 14:09:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrbm93bmFnZW50cy5jb20lMkZpbnNpZ2h0cyU3Q2h0dHBzJTNBJTJGJTJGa25vd25hZ2VudHMuY29tJTJGaW5zaWdodHMlN0NTb21lb25lJTIwaXMlMjBydW5uaW5nJTIwbWFzcyUyMHZ1bG5lcmFiaWxpdHklMjBzY2FucyUyQyUyMHNwb29maW5nJTIwQUklMjBib3RzJTIwbGlrZSUyMENsYXVkZUJvdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjcyNTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTQlM0EwMiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "pubDate": "Wed, 12 Aug 2026 14:02:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWlsbGF1bWV0ZWNoLmdpdGh1Yi5pbyUyRnBvc3RzJTJGanBnLXNjYWxpbmctY2hyb21lJTJGJTdDaHR0cHMlM0ElMkYlMkZndWlsbGF1bWV0ZWNoLmdpdGh1Yi5pbyUyRnBvc3RzJTJGanBnLXNjYWxpbmctY2hyb21lJTJGJTdDV2h5JTIwVGlueSUyMEpQRUdzJTIwTG9vayUyMERpZmZlcmVudCUyMGluJTIwQ2hyb21lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNzI1NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAxNCUzQTAwJTNBNTQlMjAlMkIwMDAw",
+      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "pubDate": "Wed, 12 Aug 2026 14:00:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGFkLmNtJTJGcG9zdHMlMkYyMDI2LTgtMTEtbXktYWdlbnQtc2V0dXAlN0NodHRwcyUzQSUyRiUyRmNoYWQuY20lMkZwb3N0cyUyRjIwMjYtOC0xMS1teS1hZ2VudC1zZXR1cCU3Q015JTIwQWdlbnQlMjBTZXR1cCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjcyNDg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTMlM0E1NiUzQTA1JTIwJTJCMDAwMA",
+      "title": "My Agent Setup",
+      "pubDate": "Wed, 12 Aug 2026 13:56:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyYWQubmluamElMkZmcm9tLTgtMTAtc2Vjb25kcy10by0zLTctdGVhY2hpbmctYXV0b21hdGljMTExMS10by1zcGVhay1tZXRhbC1vbi1hbi1tMy1wcm8lMkYlN0NodHRwcyUzQSUyRiUyRnRoZXJhZC5uaW5qYSUyRmZyb20tOC0xMC1zZWNvbmRzLXRvLTMtNy10ZWFjaGluZy1hdXRvbWF0aWMxMTExLXRvLXNwZWFrLW1ldGFsLW9uLWFuLW0zLXBybyUyRiU3Q0F1dG9tYXRpYzExMTElMjBmb3IlMjBBcHBsZSUyMG1ldGFsJTJDJTIwNDAlMjUlMjBzcGVlZCUyMHVwJTIwc2QxLjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MjI4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDEzJTNBNDElM0ExMiUyMCUyQjAwMDA",
+      "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+      "pubDate": "Wed, 12 Aug 2026 13:41:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmZsb3JpYW5oZXJyZW5ndC5jb20lMkZhaS1yZW1vdmluZy1taWRkbGUtY2xhc3Mtc29mdHdhcmUtZW5naW5lZXJpbmcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5mbG9yaWFuaGVycmVuZ3QuY29tJTJGYWktcmVtb3ZpbmctbWlkZGxlLWNsYXNzLXNvZnR3YXJlLWVuZ2luZWVyaW5nLmh0bWwlN0NBSSUyMGlzJTIwcmVtb3ZpbmclMjB0aGUlMjBtaWRkbGUlMjBjbGFzcyUyMG9mJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjcxOTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTMlM0EyMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "AI is removing the middle class of software engineering",
+      "pubDate": "Wed, 12 Aug 2026 13:20:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGFkZW1hcC5hcHAlN0NodHRwcyUzQSUyRiUyRnNoYWRlbWFwLmFwcCUyRiU3Q1NoYWRlJTIwTWFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNzE3NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTAxJTNBMjElMjAlMkIwMDAw",
+      "title": "Shade Map",
+      "pubDate": "Wed, 12 Aug 2026 13:01:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb250eS5naXRodWIuaW8lMkYyMDI2X2VjbGlwc2Vfd2ViY2FtcyUyRiU3Q2h0dHBzJTNBJTJGJTJGam9udHkuZ2l0aHViLmlvJTJGMjAyNl9lY2xpcHNlX3dlYmNhbXMlMkYlN0MyMDI2JTIwRWNsaXBzZSUyMFdlYmNhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MDk1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDExJTNBNTMlM0EwMSUyMCUyQjAwMDA",
+      "title": "2026 Eclipse Webcams",
+      "pubDate": "Wed, 12 Aug 2026 11:53:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWdpdGFsZXNjYXBldG9vbHMuY29tJTJGMjAyNiUyRjA4JTJGdWJsb2NrLW9yaWdpbi1zdG9wcy1jaGFzaW5nLWZhY2Vib29rLWFkcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZkaWdpdGFsZXNjYXBldG9vbHMuY29tJTJGMjAyNiUyRjA4JTJGdWJsb2NrLW9yaWdpbi1zdG9wcy1jaGFzaW5nLWZhY2Vib29rLWFkcy5odG1sJTdDdUJsb2NrJTIwT3JpZ2luJTIwSXMlMjBHaXZpbmclMjBVcCUyMHRoZSUyMEZpZ2h0JTIwdG8lMjBLZWVwJTIwQWRzJTIwT2ZmJTIwRmFjZWJvb2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MDcyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDExJTNBMjglM0EyNyUyMCUyQjAwMDA",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "pubDate": "Wed, 12 Aug 2026 11:28:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ncy5lbWJhcmNhZGVyby5jb20lMkZkZWxwaGktMTMtY29tbXVuaXR5LWVkaXRpb24taXMtbm93LWF2YWlsYWJsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZ3MuZW1iYXJjYWRlcm8uY29tJTJGZGVscGhpLTEzLWNvbW11bml0eS1lZGl0aW9uLWlzLW5vdy1hdmFpbGFibGUlMkYlN0NEZWxwaGklMjAxMyUyMENvbW11bml0eSUyMEVkaXRpb24lMjBJcyUyME5vdyUyMEF2YWlsYWJsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjcwNjIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTElM0ExMyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "pubDate": "Wed, 12 Aug 2026 11:13:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3hpLmFkLXNpLmNvbSU3Q2h0dHBzJTNBJTJGJTJGd294aS5hZC1zaS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBXb3hpJTIwLSUyME9wZW4tc291cmNlJTIwTWF0aGVtYXRpY2ElMjAlMkYlMjBXb2xmcmFtJTIwTGFuZ3VhZ2UlMjByZWltcGxlbWVudGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNzAwNDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAxMCUzQTA2JTNBMjklMjAlMkIwMDAw",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "pubDate": "Wed, 12 Aug 2026 10:06:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb3dlcnMud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOCUyRjEyJTJGd2hhdC1zb3J0LW9mLW1hdGhzLWFyZS1sbG1zLWdvb2QtYXQlMkYlN0NodHRwcyUzQSUyRiUyRmdvd2Vycy53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTIlMkZ3aGF0LXNvcnQtb2YtbWF0aHMtYXJlLWxsbXMtZ29vZC1hdCUyRiU3Q1doYXQlMjBzb3J0JTIwb2YlMjBtYXRocyUyMGFyZSUyMExMTXMlMjBnb29kJTIwYXQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MDAyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDEwJTNBMDQlM0EyNSUyMCUyQjAwMDA",
+      "title": "What sort of maths are LLMs good at?",
+      "pubDate": "Wed, 12 Aug 2026 10:04:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
     }
   ]
