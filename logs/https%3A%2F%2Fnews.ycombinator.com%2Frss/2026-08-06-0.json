@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-06",
     "newestItemDate": "2026-08-06",
-    "itemCount": 31,
-    "generatedAt": "2026-08-11T09:16:57.988Z"
+    "itemCount": 34,
+    "generatedAt": "2026-08-12T02:59:49.982Z"
   },
   "items": [
     {
@@ -192,6 +192,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZweXRob25zcGVlZC5jb20lMkZhcnRpY2xlcyUyRmZhc3Rlci1mbG9hdC1tYXRoLXJ1c3QlMkYlN0NodHRwcyUzQSUyRiUyRnB5dGhvbnNwZWVkLmNvbSUyRmFydGljbGVzJTJGZmFzdGVyLWZsb2F0LW1hdGgtcnVzdCUyRiU3Q0Zhc3RlciUyMGZsb2F0aW5nJTIwcG9pbnQlMjBtYXRoJTIwd2l0aCUyMFJ1c3QncyUyMG5ldyUyMEFQSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTk2NTgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMTMlM0E0MyUzQTEyJTIwJTJCMDAwMA",
       "title": "Faster floating point math with Rust's new API",
       "pubDate": "Thu, 06 Aug 2026 13:43:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmVzbHVuYS5vcmclMkZ0aGUtaGFyZGVzdC13b3JraW5nLWZvbnQtaW4tbWFuaGF0dGFuJTJGJTdDaHR0cHMlM0ElMkYlMkZhcmVzbHVuYS5vcmclMkZ0aGUtaGFyZGVzdC13b3JraW5nLWZvbnQtaW4tbWFuaGF0dGFuJTJGJTdDVGhlJTIwaGFyZGVzdCUyMHdvcmtpbmclMjBmb250JTIwaW4lMjBNYW5oYXR0YW4lMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIwMTk1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA2JTIwQXVnJTIwMjAyNiUyMDIwJTNBMjIlM0EyOSUyMCUyQjAwMDA",
+      "title": "The hardest working font in Manhattan (2025)",
+      "pubDate": "Thu, 06 Aug 2026 20:22:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lOS5haSUyRmRpYWdyYW0lN0NodHRwcyUzQSUyRiUyRmxpbmU5LmFpJTJGZGlhZ3JhbSU3Q1Nob3clMjBITiUzQSUyMExpbmU5JTIwJUUyJTgwJTkzJTIwQSUyME1lcm1haWQlMjByZW5kZXJpbmclMjBlbmdpbmUlMjB3aXRoJTIwaXRzJTIwb3duJTIwbGF5b3V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkxOTY2NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTQ3JTNBNTQlMjAlMkIwMDAw",
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "pubDate": "Thu, 06 Aug 2026 13:47:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXp5cmVzZWFyY2guc3RhbmZvcmQuZWR1JTJGYmxvZyUyRjIwMjYtMDgtMDUtcmV0aXJlLXRoZS1hYnN0cmFjdGlvbnMlN0NodHRwcyUzQSUyRiUyRmhhenlyZXNlYXJjaC5zdGFuZm9yZC5lZHUlMkZibG9nJTJGMjAyNi0wOC0wNS1yZXRpcmUtdGhlLWFic3RyYWN0aW9ucyU3Q1JldGlyZSUyMHRoZSUyMEFic3RyYWN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MTkxMTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDYlMjBBdWclMjAyMDI2JTIwMDElM0EwNSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Retire the Abstractions",
+      "pubDate": "Thu, 06 Aug 2026 01:05:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-06-0.json"
     }
   ]

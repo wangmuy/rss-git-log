@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-11",
     "newestItemDate": "2026-08-11",
-    "itemCount": 18,
-    "generatedAt": "2026-08-11T17:16:03.397Z"
+    "itemCount": 35,
+    "generatedAt": "2026-08-12T02:59:49.982Z"
   },
   "items": [
     {
@@ -114,6 +114,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdHJhdGVjaGVyeS5jb20lMkYyMDI2JTJGbnZpZGlhcy1yaXNreS1idXNpbmVzcyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RyYXRlY2hlcnkuY29tJTJGMjAyNiUyRm52aWRpYXMtcmlza3ktYnVzaW5lc3MlMkYlN0NOdmlkaWEncyUyMFJpc2t5JTIwQnVzaW5lc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI1NTcxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDEwJTNBMDIlM0EwMCUyMCUyQjAwMDA",
       "title": "Nvidia's Risky Business",
       "pubDate": "Tue, 11 Aug 2026 10:02:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW5jZW50LWh1bnl1YW4uZ2l0aHViLmlvJTJGSHVueXVhbjNELVdvcmxkQ2xhdyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVuY2VudC1odW55dWFuLmdpdGh1Yi5pbyUyRkh1bnl1YW4zRC1Xb3JsZENsYXclMkYlN0NXb3JsZENsYXclMjBBZ2VudGljJTIwM0QlMjBvcGVuLXdvcmxkJTIwZ2VuZXJhdGlvbiUyMGF0JTIwc2NhbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2NTA1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDIxJTNBNTYlM0ExOCUyMCUyQjAwMDA",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "pubDate": "Tue, 11 Aug 2026 21:56:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGlja2hvdXNlLmNvbSUyRmJsb2clMkZwZ19jbGlja2hvdXNlLXdoYXRzLW5ldy1qdWx5LTIwMjYlN0NodHRwcyUzQSUyRiUyRmNsaWNraG91c2UuY29tJTJGYmxvZyUyRnBnX2NsaWNraG91c2Utd2hhdHMtbmV3LWp1bHktMjAyNiU3Q3BnX2NsaWNraG91c2UlMjB2MC4xMCUzQSUyMFN1YnF1ZXJ5JTIwcHVzaGRvd24lMjBhbmQlMjAxMDAweCUyMGZhc3RlciUyMFRQQy1IJTIwcXVlcmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY1MDMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMjElM0E1NCUzQTI1JTIwJTJCMDAwMA",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "pubDate": "Tue, 11 Aug 2026 21:54:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3V6YW5uZTNkLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN1emFubmUzZC5jb20lMkYlN0NTdXphbm5lJTNBJTIwQUklMjB0b29sJTIwZm9yJTIwZGVzaWduaW5nJTIwYW5kJTIwbWFudWZhY3R1cmluZyUyMHBoeXNpY2FsJTIwcHJvZHVjdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2NDc1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDIxJTNBMjglM0EyNiUyMCUyQjAwMDA",
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "pubDate": "Tue, 11 Aug 2026 21:28:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAxLjAxODI4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAxLjAxODI4JTdDRW1lcmdlbnQlMjBJbnRyb3NwZWN0aXZlJTIwQXdhcmVuZXNzJTIwaW4lMjBMYXJnZSUyMExhbmd1YWdlJTIwTW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjQ1ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAyMSUzQTE0JTNBMTAlMjAlMkIwMDAw",
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "pubDate": "Tue, 11 Aug 2026 21:14:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZ3Jvay5jb20lMkZibG9nJTJGY29tcHJlc3Npb24taXMtcHJlZGljdGlvbiU3Q2h0dHBzJTNBJTJGJTJGbmdyb2suY29tJTJGYmxvZyUyRmNvbXByZXNzaW9uLWlzLXByZWRpY3Rpb24lN0NDb21wcmVzc2lvbiUyMGlzJTIwcHJlZGljdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjYzNDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTklM0E0OSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Compression is prediction",
+      "pubDate": "Tue, 11 Aug 2026 19:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ncy5udmlkaWEuY29tJTJGYmxvZyUyRm5lbW90cm9uLWxpZ2h0bmluZy1zd2l0Y2h5YXJkLXJ0eC1kZ3glMkYlN0NodHRwcyUzQSUyRiUyRmJsb2dzLm52aWRpYS5jb20lMkZibG9nJTJGbmVtb3Ryb24tbGlnaHRuaW5nLXN3aXRjaHlhcmQtcnR4LWRneCUyRiU3Q052aWRpYSUyME5lbW90cm9uJTIwMy41JTIwTGlnaHRuaW5nJTIwYW5kJTIwTmVNbyUyMFN3aXRjaHlhcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2MzM0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDE5JTNBMzUlM0E1MiUyMCUyQjAwMDA",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "pubDate": "Tue, 11 Aug 2026 19:35:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpvcmRhbi5tYXRlbHNreS5jb20lMkZQZW5wbG90dGVyLWhvbG9ncmFwaHklMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuam9yZGFuLm1hdGVsc2t5LmNvbSUyRlBlbnBsb3R0ZXItaG9sb2dyYXBoeSUyRiU3Q01ha2luZyUyMGhvbG9ncmFtcyUyMHdpdGglMjBhJTIwcGVuJTIwcGxvdHRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjYyODExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTglM0E1MSUzQTM1JTIwJTJCMDAwMA",
+      "title": "Making holograms with a pen plotter",
+      "pubDate": "Tue, 11 Aug 2026 18:51:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcm9uaWNzYW5zLmdob3N0LmlvJTJGaG93LXdlLXVzZWQtdG8tZ2V0LWpvYnMlMkYlN0NodHRwcyUzQSUyRiUyRmlyb25pY3NhbnMuZ2hvc3QuaW8lMkZob3ctd2UtdXNlZC10by1nZXQtam9icyUyRiU3Q0hvdyUyMHdlJTIwdXNlZCUyMHRvJTIwZ2V0JTIwam9icyUzQSUyMEElMjBuZXdzcGFwZXIlMjBjbGFzc2lmaWVkcyUyMHN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjIyMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTA5JTNBNTYlMjAlMkIwMDAw",
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "pubDate": "Tue, 11 Aug 2026 18:09:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4LmFpJTJGYm90JTdDaHR0cHMlM0ElMkYlMkZ4LmFpJTJGYm90JTdDR3JvayUyMEJvdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjYxNTE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTclM0EyMyUzQTA5JTIwJTJCMDAwMA",
+      "title": "Grok Bot",
+      "pubDate": "Tue, 11 Aug 2026 17:23:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0ZXIuZGV2JTJGYmxvZyUyRnR5cG9ncmFwaGljLWNzcy10cmlja3MlMkYlN0NodHRwcyUzQSUyRiUyRm1hc3Rlci5kZXYlMkZibG9nJTJGdHlwb2dyYXBoaWMtY3NzLXRyaWNrcyUyRiU3Q0NTUyUyMHByb3BlcnRpZXMlMjB5b3UlMjBzaG91bGQlMjBrbm93JTIwZm9yJTIwYmV0dGVyJTIwdGV4dCUyMGRlc2lnbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2MTQxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDE3JTNBMTYlM0EwNiUyMCUyQjAwMDA",
+      "title": "CSS properties you should know for better text designs",
+      "pubDate": "Tue, 11 Aug 2026 17:16:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFyYWRpZ20ueHl6JTJGd3JpdGluZyUyRnJzaS1zaW11bGF0b3IlN0NodHRwcyUzQSUyRiUyRnd3dy5wYXJhZGlnbS54eXolMkZ3cml0aW5nJTJGcnNpLXNpbXVsYXRvciU3Q1JTSSUyMFNpbXVsYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjYxMTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTclM0EwMSUzQTIxJTIwJTJCMDAwMA",
+      "title": "RSI Simulator",
+      "pubDate": "Tue, 11 Aug 2026 17:01:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLmdvb2dsZWJsb2cuY29tJTJGd2h5LWdvLWlzLWFuLWlkZWFsLWxhbmd1YWdlLWZvci1haS1hc3Npc3RlZC1zb2Z0d2FyZS1lbmdpbmVlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVycy5nb29nbGVibG9nLmNvbSUyRndoeS1nby1pcy1hbi1pZGVhbC1sYW5ndWFnZS1mb3ItYWktYXNzaXN0ZWQtc29mdHdhcmUtZW5naW5lZXJpbmclMkYlN0NHbyUyMGlzJTIwYW4lMjBpZGVhbCUyMGxhbmd1YWdlJTIwZm9yJTIwQUktYXNzaXN0ZWQlMjBzb2Z0d2FyZSUyMGVuZ2luZWVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjExMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTU3JTNBMDklMjAlMkIwMDAw",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "pubDate": "Tue, 11 Aug 2026 16:57:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9kdWxhci5jb20lMkZibG9nJTJGbW9kdWxhci0yNi01LW1vam8tMS0wLWlzLWhlcmUlN0NodHRwcyUzQSUyRiUyRnd3dy5tb2R1bGFyLmNvbSUyRmJsb2clMkZtb2R1bGFyLTI2LTUtbW9qby0xLTAtaXMtaGVyZSU3Q01vam8lMjAxLjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2MTEyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDE2JTNBNTYlM0E0NiUyMCUyQjAwMDA",
+      "title": "Mojo 1.0",
+      "pubDate": "Tue, 11 Aug 2026 16:56:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGhlUmVhbFlUJTJGZ2l0LWtuaWZlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGhlUmVhbFlUJTJGZ2l0LWtuaWZlJTdDU2hvdyUyMEhOJTNBJTIwR2l0LWtuaWZlJTIwJUUyJTgwJTkzJTIwRWRpdCUyMGNvbW1pdCUyMG1lc3NhZ2VzJTJDJTIwYXV0aG9ycyUyQyUyMGFuZCUyMGRhdGVzJTIwbGlrZSUyMGElMjBzcHJlYWRzaGVldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU5NjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTUlM0EwOSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "pubDate": "Tue, 11 Aug 2026 15:09:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGbmV1dHJpbm9zLWZyb20tZGVlcC1pbnNpZGUtZWFydGgtcHJvdmlkZS1hLW5ldy1waWN0dXJlLW9mLXRoZS1tYW50bGUtMjAyNjA4MDclMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZuZXV0cmlub3MtZnJvbS1kZWVwLWluc2lkZS1lYXJ0aC1wcm92aWRlLWEtbmV3LXBpY3R1cmUtb2YtdGhlLW1hbnRsZS0yMDI2MDgwNyUyRiU3Q05ldXRyaW5vcyUyMGZyb20lMjBEZWVwJTIwSW5zaWRlJTIwRWFydGglMjBQcm92aWRlJTIwYSUyME5ldyUyMFBpY3R1cmUlMjBvZiUyMHRoZSUyME1hbnRsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU3ODUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTMlM0EyMCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "pubDate": "Tue, 11 Aug 2026 13:20:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRmU0OWRmYjc1LWY4NDEtNDQ2Ni1hNTc3LWY3YWFmZjg3NzlhMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkZlNDlkZmI3NS1mODQxLTQ0NjYtYTU3Ny1mN2FhZmY4Nzc5YTAlN0NPcGVuQUklRTIlODAlOTlzJTIwaGVhZCUyMG9mJTIwZXRoaWNzJTIwbGVhdmVzJTIwbGVzcyUyMHRoYW4lMjBhJTIweWVhciUyMGFmdGVyJTIwam9pbmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU3MTYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTIlM0EyMyUzQTA3JTIwJTJCMDAwMA",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "pubDate": "Tue, 11 Aug 2026 12:23:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnRwLnBvbGljZS51ayUyRm5ld3MlMkZidHAlMkZuZXdzJTJGZW5nbGFuZCUyRmJ0cC1leHBhbmRzLWxpdmUtZmFjaWFsLXJlY29nbml0aW9uLWxmci10cmlhbC1pbnRvLWxvbmRvbi11bmRlcmdyb3VuZC1zdGF0aW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJ0cC5wb2xpY2UudWslMkZuZXdzJTJGYnRwJTJGbmV3cyUyRmVuZ2xhbmQlMkZidHAtZXhwYW5kcy1saXZlLWZhY2lhbC1yZWNvZ25pdGlvbi1sZnItdHJpYWwtaW50by1sb25kb24tdW5kZXJncm91bmQtc3RhdGlvbnMlMkYlN0NMb25kb24lMjBVbmRlcmdyb3VuZCUyMGJlZ2lucyUyMHNjYW5uaW5nJTIwcGFzc2VuZ2VycyclMjBmYWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU1NDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMDklM0E0MCUzQTAyJTIwJTJCMDAwMA",
+      "title": "London Underground begins scanning passengers' faces",
+      "pubDate": "Tue, 11 Aug 2026 09:40:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
     }
   ]
