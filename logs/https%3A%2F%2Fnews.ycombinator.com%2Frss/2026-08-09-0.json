@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-09",
     "newestItemDate": "2026-08-09",
-    "itemCount": 40,
-    "generatedAt": "2026-08-12T09:33:54.213Z"
+    "itemCount": 43,
+    "generatedAt": "2026-08-13T03:02:44.990Z"
   },
   "items": [
     {
@@ -246,6 +246,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRm5ld2ZvdW5kbGFuZC1sYWJyYWRvciUyRm5sLWhhcmQtYnJlYWQtaGlzdG9yeS1zaG9ydGFnZS05LjcyOTkyNzYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYmMuY2ElMkZuZXdzJTJGY2FuYWRhJTJGbmV3Zm91bmRsYW5kLWxhYnJhZG9yJTJGbmwtaGFyZC1icmVhZC1oaXN0b3J5LXNob3J0YWdlLTkuNzI5OTI3NiU3Q05ld2ZvdW5kbGFuZCUyMGhhcyUyMGElMjBoYXJkJTIwYnJlYWQlMjBzaG9ydGFnZSUyQyUyMGJ1dCUyMHdoeSUyMGRvJTIwdGhleSUyMGVhdCUyMGl0JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzU1MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAyMCUzQTMyJTNBMTIlMjAlMkIwMDAw",
       "title": "Newfoundland has a hard bread shortage, but why do they eat it?",
       "pubDate": "Sun, 09 Aug 2026 20:32:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYWdvbGVhbC5jb20lMkZwb3N0cyUyRmR5bmFtaWMtcHJvZ3JhbW1pbmclMkYlN0NodHRwcyUzQSUyRiUyRmlhZ29sZWFsLmNvbSUyRnBvc3RzJTJGZHluYW1pYy1wcm9ncmFtbWluZyUyRiU3Q0ElMjBUYWxlJTIwb2YlMjBEeW5hbWljJTIwUHJvZ3JhbW1pbmclMjAoMjAyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIzMjMxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA5JTIwQXVnJTIwMjAyNiUyMDE1JTNBMjYlM0EwNyUyMCUyQjAwMDA",
+      "title": "A Tale of Dynamic Programming (2022)",
+      "pubDate": "Sun, 09 Aug 2026 15:26:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDgzOTg1JTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDgzOTg1JTJGJTdDRGVidWdnaW5nJTIwSW5mb3JtYXRpb24lMjBmb3IlMjBJbmxpbmVkJTIwRnVuY3Rpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMzEzMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTM3JTNBNTklMjAlMkIwMDAw",
+      "title": "Debugging Information for Inlined Functions",
+      "pubDate": "Sun, 09 Aug 2026 13:37:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW1lcmVzaGFyZWQuY29tJTJGd2FpdHMtc2FtdWVsLWNoZWNrZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aW1lcmVzaGFyZWQuY29tJTJGd2FpdHMtc2FtdWVsLWNoZWNrZXJzJTJGJTdDV2FpdHMlM0ElMjBBcnRodXIlMjBTYW11ZWwncyUyMENoZWNrZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyMjc3MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOSUyMEF1ZyUyMDIwMjYlMjAwMSUzQTU5JTNBNTQlMjAlMkIwMDAw",
+      "title": "Waits: Arthur Samuel's Checkers",
+      "pubDate": "Sun, 09 Aug 2026 01:59:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-09-0.json"
     }
   ]

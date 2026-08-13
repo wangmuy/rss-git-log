@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-12",
     "newestItemDate": "2026-08-12",
-    "itemCount": 32,
-    "generatedAt": "2026-08-12T17:16:20.282Z"
+    "itemCount": 48,
+    "generatedAt": "2026-08-13T03:02:44.990Z"
   },
   "items": [
     {
@@ -198,6 +198,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnb3dlcnMud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOCUyRjEyJTJGd2hhdC1zb3J0LW9mLW1hdGhzLWFyZS1sbG1zLWdvb2QtYXQlMkYlN0NodHRwcyUzQSUyRiUyRmdvd2Vycy53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTIlMkZ3aGF0LXNvcnQtb2YtbWF0aHMtYXJlLWxsbXMtZ29vZC1hdCUyRiU3Q1doYXQlMjBzb3J0JTIwb2YlMjBtYXRocyUyMGFyZSUyMExMTXMlMjBnb29kJTIwYXQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MDAyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDEwJTNBMDQlM0EyNSUyMCUyQjAwMDA",
       "title": "What sort of maths are LLMs good at?",
       "pubDate": "Wed, 12 Aug 2026 10:04:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGFya3Rhc3RpY2EuY28udWslMkZhcnRpY2xlcyUyRnBjLWZ4dC00NSU3Q2h0dHBzJTNBJTJGJTJGc2hhcmt0YXN0aWNhLmNvLnVrJTJGYXJ0aWNsZXMlMkZwYy1meHQtNDUlN0NIYXBweSUyMDQ1dGglMjBCaXJ0aGRheSUyMHRvJTIwdGhlJTIwSUJNJTIwUEMlMjBhbmQlMjBNb2RlbCUyMEYlMkZYVCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjgwMTAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMjMlM0E1MCUzQTMzJTIwJTJCMDAwMA",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "pubDate": "Wed, 12 Aug 2026 23:50:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbHV0dGVyLmRldiUyRmJsb2clMkZ3aGF0cy1uZXctaW4tZmx1dHRlci0zLTQ3JTdDaHR0cHMlM0ElMkYlMkZmbHV0dGVyLmRldiUyRmJsb2clMkZ3aGF0cy1uZXctaW4tZmx1dHRlci0zLTQ3JTdDV2hhdCdzJTIwTmV3JTIwaW4lMjBGbHV0dGVyJTIwMy40NyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjgwMDYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMjMlM0E0NiUzQTAwJTIwJTJCMDAwMA",
+      "title": "What's New in Flutter 3.47",
+      "pubDate": "Wed, 12 Aug 2026 23:46:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZGFwdC5jb20lMkZibG9nJTJGYnVpbGQtd2lkZS1zaGlwLW5hcnJvdyU3Q2h0dHBzJTNBJTJGJTJGYWRhcHQuY29tJTJGYmxvZyUyRmJ1aWxkLXdpZGUtc2hpcC1uYXJyb3clN0NCdWlsZCUyMFdpZGUlMkMlMjBTaGlwJTIwTmFycm93JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODAwNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAyMyUzQTQzJTNBNDglMjAlMkIwMDAw",
+      "title": "Build Wide, Ship Narrow",
+      "pubDate": "Wed, 12 Aug 2026 23:43:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZva21pai5vcmclMkZmdHAlMkZDb21wdXRhdGlvbiUyRkltcHJlc3Npb25zJTJGUHJpbmNpcGlhTWF0aGVtYXRpY2EuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGb2ttaWoub3JnJTJGZnRwJTJGQ29tcHV0YXRpb24lMkZJbXByZXNzaW9ucyUyRlByaW5jaXBpYU1hdGhlbWF0aWNhLmh0bWwlN0NQcmluY2lwaWElMjBNYXRoZW1hdGljYSUyMGlzJTIwbW9kZXJuJTIwYW5kJTIwaW5zaWdodGZ1bCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc5OTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMjMlM0EyNiUzQTIxJTIwJTJCMDAwMA",
+      "title": "Principia Mathematica is modern and insightful",
+      "pubDate": "Wed, 12 Aug 2026 23:26:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5nb2RmcmV5LmRldiUyRmJsb2clMkZwcm9jZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZiZW5nb2RmcmV5LmRldiUyRmJsb2clMkZwcm9jZXNzJTJGJTdDUHJvY2VzcyUyMGFzJTIwYSUyMFByb3h5JTIwZm9yJTIwTW90aXZhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc5MTk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMjIlM0EwMSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Process as a Proxy for Motivation",
+      "pubDate": "Wed, 12 Aug 2026 22:01:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3JuZXJvZmZpZnRoLnN0dWRpbyUyRndoeS1jYW50LXlvdS1maW5kLWNhbm5lZC1zYXJkaW5lcy1yaWdodC1ub3clMkYlN0NodHRwcyUzQSUyRiUyRmNvcm5lcm9mZmlmdGguc3R1ZGlvJTJGd2h5LWNhbnQteW91LWZpbmQtY2FubmVkLXNhcmRpbmVzLXJpZ2h0LW5vdyUyRiU3Q1RoYW5rcyUyMHRvJTIwc29jaWFsJTIwbWVkaWElMkMlMjBjYW5uZWQlMjBzYXJkaW5lcyUyMGFyZSUyMGElMjBzY2FyY2l0eSUyMG9uJTIwdGhlJTIwc3VwZXJtYXJrZXQlMjBzaGVsZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc5MDEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMjElM0E0NSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "pubDate": "Wed, 12 Aug 2026 21:45:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRpdGhlc2lzLmNvbSUyRmJsb2clMkYyMDI2JTJGd2FsLXJlc2V0LWJ1ZyUyRiU3Q2h0dHBzJTNBJTJGJTJGYW50aXRoZXNpcy5jb20lMkZibG9nJTJGMjAyNiUyRndhbC1yZXNldC1idWclMkYlN0NCcmVha2luZyUyMHRoZSUyMFdBTCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc3Nzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMjAlM0EwMCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Breaking the WAL",
+      "pubDate": "Wed, 12 Aug 2026 20:00:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGYmxvZyUyRmludHJvZHVjaW5nLWRlbHRhJTdDaHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGYmxvZyUyRmludHJvZHVjaW5nLWRlbHRhJTdDRGVsdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3NjU3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE4JTNBMTklM0E1OSUyMCUyQjAwMDA",
+      "title": "Delta",
+      "pubDate": "Wed, 12 Aug 2026 18:19:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3ZhYmxlLmRldiUyRmJsb2clMkZzZXJpZXMtYyU3Q2h0dHBzJTNBJTJGJTJGbG92YWJsZS5kZXYlMkZibG9nJTJGc2VyaWVzLWMlN0NMb3ZhYmxlJTIwcmFpc2VzJTIwJTI0NDAwTSUyMFNlcmllcyUyMEMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3NDg1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE2JTNBMjAlM0EzNCUyMCUyQjAwMDA",
+      "title": "Lovable raises $400M Series C",
+      "pubDate": "Wed, 12 Aug 2026 16:20:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRnByb2R1Y3RzLWFuZC1wbGF0Zm9ybXMlMkZkZXZpY2VzJTJGcGl4ZWwlMkZwaXhlbC13YXRjaC01JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRnByb2R1Y3RzLWFuZC1wbGF0Zm9ybXMlMkZkZXZpY2VzJTJGcGl4ZWwlMkZwaXhlbC13YXRjaC01JTJGJTdDUGl4ZWwlMjBXYXRjaCUyMDUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3NDc1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE2JTNBMTQlM0EzNyUyMCUyQjAwMDA",
+      "title": "Pixel Watch 5",
+      "pubDate": "Wed, 12 Aug 2026 16:14:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4LmFpJTJGbmV3cyUyRmdyb2stNC02JTdDaHR0cHMlM0ElMkYlMkZ4LmFpJTJGbmV3cyUyRmdyb2stNC02JTdDR3JvayUyMDQuNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc0MDI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTUlM0EzMiUzQTUwJTIwJTJCMDAwMA",
+      "title": "Grok 4.6",
+      "pubDate": "Wed, 12 Aug 2026 15:32:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRlF3ZW4lMkZRd2VuMy44LTIuNFQtQTk1QiU3Q2h0dHBzJTNBJTJGJTJGaHVnZ2luZ2ZhY2UuY28lMkZRd2VuJTJGUXdlbjMuOC0yLjRULUE5NUIlN0NRd2VuMy44LTIuNFQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MzQ3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE1JTNBMDElM0ExNyUyMCUyQjAwMDA",
+      "title": "Qwen3.8-2.4T",
+      "pubDate": "Wed, 12 Aug 2026 15:01:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWlsbGF1bWV0ZWNoLmdpdGh1Yi5pbyUyRnBvc3RzJTJGanBnLXNjYWxpbmctY2hyb21lJTJGJTdDaHR0cHMlM0ElMkYlMkZndWlsbGF1bWV0ZWNoLmdpdGh1Yi5pbyUyRnBvc3RzJTJGanBnLXNjYWxpbmctY2hyb21lJTJGJTdDV2h5JTIwdGlueSUyMEpQRUdzJTIwbG9vayUyMGRpZmZlcmVudCUyMGluJTIwQ2hyb21lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNzI1NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAxNCUzQTAwJTNBNTQlMjAlMkIwMDAw",
+      "title": "Why tiny JPEGs look different in Chrome",
+      "pubDate": "Wed, 12 Aug 2026 14:00:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmZsb3JpYW5oZXJyZW5ndC5jb20lMkZhaS1yZW1vdmluZy1taWRkbGUtY2xhc3Mtc29mdHdhcmUtZW5naW5lZXJpbmcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5mbG9yaWFuaGVycmVuZ3QuY29tJTJGYWktcmVtb3ZpbmctbWlkZGxlLWNsYXNzLXNvZnR3YXJlLWVuZ2luZWVyaW5nLmh0bWwlN0NBSSUyMGlzJTIwcmVtb3ZpbmclMjB0aGUlMjBtaWRkbGUlMjBjbGFzcyUyMG9mJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjcxOTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMTMlM0EyMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "AI is removing the middle class of software engineering?",
+      "pubDate": "Wed, 12 Aug 2026 13:20:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmZ1bmNhbGwuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA4JTJGd2h5LXZpYmUtY29kZS1pbi1saXNwLmh0bWwlN0NodHRwJTNBJTJGJTJGZnVuY2FsbC5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDglMkZ3aHktdmliZS1jb2RlLWluLWxpc3AuaHRtbCU3Q1doeSUyMFRhcmdldCUyMENvbW1vbiUyMExpc3AlMjBmb3IlMjBDb2RlJTIwR2VuZXJhdGlvbiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY5NDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMDglM0E0MCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Why Target Common Lisp for Code Generation?",
+      "pubDate": "Wed, 12 Aug 2026 08:40:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjb3ZlcmVkbWF0ZXJpYWxzLmNvbSUyRnJlc2VhcmNoJTJGJTdDaHR0cHMlM0ElMkYlMkZkaXNjb3ZlcmVkbWF0ZXJpYWxzLmNvbSUyRnJlc2VhcmNoJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBEaXNjb3ZlcmVkJTIwTWF0ZXJpYWxzJTIwKFlDJTIwUDI2KSUyMCVFMiU4MCU5MyUyMEFJJTIwYWdlbnRzJTIwdG8lMjBkaXNjb3ZlciUyMG5ldyUyMG1hdGVyaWFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY5MDkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMDclM0E1MSUzQTIwJTIwJTJCMDAwMA",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "pubDate": "Wed, 12 Aug 2026 07:51:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
     }
   ]
