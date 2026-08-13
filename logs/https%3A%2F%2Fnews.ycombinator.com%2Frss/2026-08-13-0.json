@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-13",
     "newestItemDate": "2026-08-13",
-    "itemCount": 3,
-    "generatedAt": "2026-08-13T09:35:53.612Z"
+    "itemCount": 23,
+    "generatedAt": "2026-08-13T17:16:54.169Z"
   },
   "items": [
     {
@@ -23,6 +23,126 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGY29kZXglMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZjb2RleCUyRiU3Q0NoYXRHUFQlMjBEZXNrdG9wJTIwKENvZGV4JTIwRGVza3RvcCklMjBmb3IlMjBMaW51eCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjgxOTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMDQlM0E1MyUzQTQxJTIwJTJCMDAwMA",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "pubDate": "Thu, 13 Aug 2026 04:53:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VhbmdvZWRlY2tlLmNvbSUyRnRleHQtYWktd2F0ZXJtYXJrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNlYW5nb2VkZWNrZS5jb20lMkZ0ZXh0LWFpLXdhdGVybWFya3MlMkYlN0NUZXh0JTIwQUklMjB3YXRlcm1hcmtzJTIwd2lsbCUyMGFsd2F5cyUyMGJlJTIwdHJpdmlhbCUyMHRvJTIwcmVtb3ZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODcxNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTA3JTNBMTAlMjAlMkIwMDAw",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "pubDate": "Thu, 13 Aug 2026 15:07:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZtY2RvbmFsZHMtYnVpbHQtYS01MTUtcGFnZS1kb3NzaWVyLW9uLW1lLWl0LXNheXMtaWxsLW5ldmVyLWxlYXZlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZtY2RvbmFsZHMtYnVpbHQtYS01MTUtcGFnZS1kb3NzaWVyLW9uLW1lLWl0LXNheXMtaWxsLW5ldmVyLWxlYXZlJTJGJTdDSSUyMHJlcXVlc3RlZCUyMGElMjBjb3B5JTIwb2YlMjBteSUyMGRhdGElMjBmcm9tJTIwTWNEb25hbGQlRTIlODAlOTlzJTIwbG95YWx0eSUyMHByb2dyYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NjY2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDE0JTNBMzclM0E1MSUyMCUyQjAwMDA",
+      "title": "I requested a copy of my data from McDonald’s loyalty program",
+      "pubDate": "Thu, 13 Aug 2026 14:37:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZveGlkZS5jb21wdXRlciUyRmJsb2clMkZrdWJlcm5ldGVzLW9uLW94aWRlJTdDaHR0cHMlM0ElMkYlMkZveGlkZS5jb21wdXRlciUyRmJsb2clMkZrdWJlcm5ldGVzLW9uLW94aWRlJTdDS3ViZXJuZXRlcyUyMG9uJTIwT3hpZGUlM0ElMjBIb3clMjBjdXN0b21lciUyMG5lZWRzJTIwc2hhcGVkJTIwb3VyJTIwaW50ZWdyYXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODY0ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTI2JTNBNDElMjAlMkIwMDAw",
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "pubDate": "Thu, 13 Aug 2026 14:26:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGZ3JhZHVhdGUtc3R1ZGVudC1wcm92ZXMtdGhlLWZyYWN0YWwtdW5jZXJ0YWludHktcHJpbmNpcGxlLTIwMjYwODEyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGZ3JhZHVhdGUtc3R1ZGVudC1wcm92ZXMtdGhlLWZyYWN0YWwtdW5jZXJ0YWludHktcHJpbmNpcGxlLTIwMjYwODEyJTJGJTdDR3JhZHVhdGUlMjBzdHVkZW50JTIwcHJvdmVzJTIwYSUyMHF1YW50dW0lMjB1bmNlcnRhaW50eSUyMHByaW5jaXBsZSUyMGZvciUyMGZyYWN0YWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODY0MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTIyJTNBNTQlMjAlMkIwMDAw",
+      "title": "Graduate student proves a quantum uncertainty principle for fractals",
+      "pubDate": "Thu, 13 Aug 2026 14:22:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNoby5haSUyRmJsb2clMkZlY2hvLXhuYW5vY2xhdy11bmRlci10aGUtaG9vZCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVjaG8uYWklMkZibG9nJTJGZWNoby14bmFub2NsYXctdW5kZXItdGhlLWhvb2QlN0NXZSUyMGVsaW1pbmF0ZWQlMjAxJTJDNDAwJTIwQ1ZFcyUyMGluJTIwTmFub0NsYXcncyUyMGNvbnRhaW5lciUyMGltYWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjg2MzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMTQlM0ExOCUzQTM0JTIwJTJCMDAwMA",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "pubDate": "Thu, 13 Aug 2026 14:18:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeG9yZWF4ZWF4ZWF4JTJGc2tpdHRlci1jcmVlay1iYXRoLXNhbHRzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeG9yZWF4ZWF4ZWF4JTJGc2tpdHRlci1jcmVlay1iYXRoLXNhbHRzJTdDU3BhZ2hldHRpZnlpbmclMjBEUkFNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODYzNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTE3JTNBMTMlMjAlMkIwMDAw",
+      "title": "Spaghettifying DRAM",
+      "pubDate": "Thu, 13 Aug 2026 14:17:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVhcnRhZXJvc3BhY2UuY29tJTJGbmV3c3Jvb20lMkZoZWFydC1hZXJvc3BhY2UtY29tcGxldGVzLWZpcnN0LWZsaWdodC1vZi13b3JsZC1zLWxhcmdlc3QtZWxlY3RyaWMtYWlyY3JhZnQlN0NodHRwcyUzQSUyRiUyRnd3dy5oZWFydGFlcm9zcGFjZS5jb20lMkZuZXdzcm9vbSUyRmhlYXJ0LWFlcm9zcGFjZS1jb21wbGV0ZXMtZmlyc3QtZmxpZ2h0LW9mLXdvcmxkLXMtbGFyZ2VzdC1lbGVjdHJpYy1haXJjcmFmdCU3Q0hlYXJ0JTIwYWVyb3NwYWNlJTIwY29tcGxldGVzJTIwZmlyc3QlMjBmbGlnaHQlMjBvZiUyMGxhcmdlc3QlMjBlbGVjdHJpYyUyMGFpcmNyYWZ0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODYyNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTExJTNBNTElMjAlMkIwMDAw",
+      "title": "Heart aerospace completes first flight of largest electric aircraft",
+      "pubDate": "Thu, 13 Aug 2026 14:11:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZmVsbG93Z2VlayUyRm1jcC1tZW1vcnklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmZWxsb3dnZWVrJTJGbWNwLW1lbW9yeSU3Q1Nob3clMjBITiUzQSUyME1DUCUyME1lbW9yeSUyMCVFMiU4MCU5MyUyMEZhc3QlMjBBZ2VudCUyME1lbW9yeSUyMFVzaW5nJTIwR29vZ2xlJ3MlMjBPS0YlMjBhbmQlMjBTUUxpdGUlMjBGVFM1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODYwNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTU3JTNBNDclMjAlMkIwMDAw",
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "pubDate": "Thu, 13 Aug 2026 13:57:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjEwODYzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjEwODYzJTdDVGltZSUyMHRvJTIwTW92ZSUyME9uJTNBJTIwUXVlcnlpbmclMjBXaXRob3V0JTIwTnVsbHMlMjBhbmQlMjBCYWdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODYwMzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTU0JTNBNTYlMjAlMkIwMDAw",
+      "title": "Time to Move On: Querying Without Nulls and Bags",
+      "pubDate": "Thu, 13 Aug 2026 13:54:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbG9vbS5zaCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2xvb20uc2glMkYlN0NHbG9vbWJlcmIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NTk4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDEzJTNBNTIlM0EzMiUyMCUyQjAwMDA",
+      "title": "Gloomberb",
+      "pubDate": "Thu, 13 Aug 2026 13:52:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcmRpbmFyeWFidW5kYW5jZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRm9yZGluYXJ5YWJ1bmRhbmNlLmNvbSUyRiU3Q09yZGluYXJ5JTIwQWJ1bmRhbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODU3NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTM5JTNBNDElMjAlMkIwMDAw",
+      "title": "Ordinary Abundance",
+      "pubDate": "Thu, 13 Aug 2026 13:39:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4bW9ybGV5ZmluY2guZ2l0aHViLmlvJTJGbWFybGluJTJGaGlzdG9yeSUyRnYxJTJGYXJ0aWNsZSUyRnRoZV9iaXJ0aC5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbGV4bW9ybGV5ZmluY2guZ2l0aHViLmlvJTJGbWFybGluJTJGaGlzdG9yeSUyRnYxJTJGYXJ0aWNsZSUyRnRoZV9iaXJ0aC5odG1sJTdDSSUyMGJ1aWx0JTIwYSUyMDUwMGstZG9tYWluJTIwc2VhcmNoJTIwZW5naW5lJTIwZm9yJTIwbWFrZXJzJTIwaW4lMjBhJTIwd2Vla2VuZCUyMGZvciUyMCUyNDEwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODU3MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTM2JTNBMTklMjAlMkIwMDAw",
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "pubDate": "Thu, 13 Aug 2026 13:36:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnNvZnR3YXJlJTJGY2xvdWQtc3RvcmFnZSUyRm5pbmUtcGJzLWxvc2VzLWFjY2Vzcy10by03MC15ZWFycy1vZi1kYXRhLWFmdGVyLWNvbnRyYWN0ZWQtY2xvdWQtc3RvcmFnZS12ZW5kb3ItZ29lcy1kZWZ1bmN0LXB1YmxpYy10di1jaGFubmVsLXN1ZXMtaXJvbi1tb3VudGFpbi1kYXRhLWNlbnRlci13aGljaC1ob3N0cy1hcmNoaXZhbC1tYXRlcmlhbHMtdG8tZW5zdXJlLXByZXNlcnZhdGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRvbXNoYXJkd2FyZS5jb20lMkZzb2Z0d2FyZSUyRmNsb3VkLXN0b3JhZ2UlMkZuaW5lLXBicy1sb3Nlcy1hY2Nlc3MtdG8tNzAteWVhcnMtb2YtZGF0YS1hZnRlci1jb250cmFjdGVkLWNsb3VkLXN0b3JhZ2UtdmVuZG9yLWdvZXMtZGVmdW5jdC1wdWJsaWMtdHYtY2hhbm5lbC1zdWVzLWlyb24tbW91bnRhaW4tZGF0YS1jZW50ZXItd2hpY2gtaG9zdHMtYXJjaGl2YWwtbWF0ZXJpYWxzLXRvLWVuc3VyZS1wcmVzZXJ2YXRpb24lN0NOaW5lJTIwUEJTJTIwY291bGQlMjBsb3NlJTIwNzAlMjB5ZWFycyUyMG9mJTIwYXJjaGl2ZXMlMjBhZnRlciUyMGNsb3VkJTIwdmVuZG9yJTIwZ29lcyUyMGRlZnVuY3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NTQxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDEzJTNBMTQlM0ExMiUyMCUyQjAwMDA",
+      "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
+      "pubDate": "Thu, 13 Aug 2026 13:14:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV0bGlmeS5jb20lMkZibG9nJTJGb25lLXByb21wdC0xMS1tb2RlbHMtdmVyeS1kaWZmZXJlbnQtcmVzdWx0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5ldGxpZnkuY29tJTJGYmxvZyUyRm9uZS1wcm9tcHQtMTEtbW9kZWxzLXZlcnktZGlmZmVyZW50LXJlc3VsdHMlMkYlN0NDaG9vc2luZyUyMGFuJTIwQUklMjBtb2RlbCUzQSUyMG9uZSUyMHByb21wdCUyQyUyMDExJTIwbW9kZWxzJTJDJTIwZGlmZmVyZW50JTIwcmVzdWx0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjg1MzI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMTMlM0EwNSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "pubDate": "Thu, 13 Aug 2026 13:05:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwc2Vlay5jb20lMkZoYXJuZXNzJTJGZW4lMkYlN0NodHRwcyUzQSUyRiUyRmRlZXBzZWVrLmNvbSUyRmhhcm5lc3MlMkZlbiUyRiU3Q0RlZXBTZWVrJTIwSGFybmVzcyUyMGRldmVsb3BlciUyMHByZXZpZXclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NTI0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDEyJTNBNTglM0EwMiUyMCUyQjAwMDA",
+      "title": "DeepSeek Harness developer preview",
+      "pubDate": "Thu, 13 Aug 2026 12:58:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmRlZXBzZWVrX2FpJTJGc3RhdHVzJTJGMjA4Nzg2NDU4OTg5NTc5ODk2OCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZkZWVwc2Vla19haSUyRnN0YXR1cyUyRjIwODc4NjQ1ODk4OTU3OTg5NjglN0NEZWVwU2VlayUyMEFQSSUyMFByaWNpbmclMjBVcGRhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NTE2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDEyJTNBNDklM0EyMSUyMCUyQjAwMDA",
+      "title": "DeepSeek API Pricing Update",
+      "pubDate": "Thu, 13 Aug 2026 12:49:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFkZXJzdW5pb24uY29tJTJGbmV3cyUyRmNlbnRyYWwtYmFua3MlMkZzaG93JTJGMjk3MzU3MS1kZXV0c2NoZS1iYW5rLWJlY29tZXMlMkYlN0NodHRwcyUzQSUyRiUyRnRyYWRlcnN1bmlvbi5jb20lMkZuZXdzJTJGY2VudHJhbC1iYW5rcyUyRnNob3clMkYyOTczNTcxLWRldXRzY2hlLWJhbmstYmVjb21lcyUyRiU3Q0RldXRzY2hlJTIwQmFuayUyMGJlY29tZXMlMjBmaXJzdCUyMGZvcmVpZ24lMjB5dWFuJTIwY2xlYXJpbmclMjBiYW5rJTIwaW4lMjBFdXJvcGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NDc3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDEyJTNBMDklM0E1MCUyMCUyQjAwMDA",
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "pubDate": "Thu, 13 Aug 2026 12:09:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdGcuc2NpZW5jZSUyRmNhcmVlcnMlN0NodHRwcyUzQSUyRiUyRmF0Zy5zY2llbmNlJTJGY2FyZWVycyU3Q0FURyUyMChZQyUyMEYyNSklMjBJcyUyMEhpcmluZyUyME1lbWJlciUyMG9mJTIwVGVjaG5pY2FsJTIwU3RhZmYlMjAoRGF0YSUyMFBsYXRmb3JtKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjg0Njk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMTIlM0EwMSUzQTAyJTIwJTJCMDAwMA",
+      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "pubDate": "Thu, 13 Aug 2026 12:01:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29kZXdpdGhidWxsZXQuY29tJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29kZXdpdGhidWxsZXQuY29tJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBCdWxsZXQlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwQSUyMEZhc3RlciUyMENvZGluZyUyMEFnZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODMwNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAwOCUzQTE0JTNBMzAlMjAlMkIwMDAw",
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "pubDate": "Thu, 13 Aug 2026 08:14:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tdW5pdHkub3BlbmFpLmNvbSUyRnQlMkZjb2RleC1pbi1jaGF0Z3B0LWRlc2t0b3AtYXBwLWZvci1saW51eC1pcy1ub3ctaW4tcHJldmlldyUyRjEzOTAwMjclN0NodHRwcyUzQSUyRiUyRmNvbW11bml0eS5vcGVuYWkuY29tJTJGdCUyRmNvZGV4LWluLWNoYXRncHQtZGVza3RvcC1hcHAtZm9yLWxpbnV4LWlzLW5vdy1pbi1wcmV2aWV3JTJGMTM5MDAyNyU3Q0NvZGV4JTIwaW4lMjBDaGF0R1BUJTIwZGVza3RvcCUyMGFwcCUyMGZvciUyMExpbnV4JTIwaXMlMjBub3clMjBpbiUyMHByZXZpZXclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4MTkxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDA0JTNBNTMlM0E0MSUyMCUyQjAwMDA",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
       "pubDate": "Thu, 13 Aug 2026 04:53:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
     }
