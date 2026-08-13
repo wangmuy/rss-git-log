@@ -4,14 +4,26 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-13",
     "newestItemDate": "2026-08-13",
-    "itemCount": 1,
-    "generatedAt": "2026-08-13T03:02:44.990Z"
+    "itemCount": 3,
+    "generatedAt": "2026-08-13T09:35:53.612Z"
   },
   "items": [
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmFsbGV0LmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJhbGxldC5kZXYlMkYlN0NTaG93JTIwSE4lM0ElMjBCYWxsZXQlMjAlRTIlODAlOTMlMjBXb3JrZmxvdyUyMGF1dG9tYXRpb24lMjB0aGF0JTIwd3JpdGVzJTIwaW50ZWdyYXRpb25zJTIwYWdhaW5zdCUyMGFueSUyMEFQSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjgwMTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMDAlM0EwMSUzQTQzJTIwJTJCMDAwMA",
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
       "pubDate": "Thu, 13 Aug 2026 00:01:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ2VudC13YXJzLmNvbSUyRm5ld3MlMkYyMDI2LTA4LTExLW1pc3RyYWwtY29kZS10b29sLWNhbGxzLXBhdGVudC1iMSU3Q2h0dHBzJTNBJTJGJTJGYWdlbnQtd2Fycy5jb20lMkZuZXdzJTJGMjAyNi0wOC0xMS1taXN0cmFsLWNvZGUtdG9vbC1jYWxscy1wYXRlbnQtYjElN0NNaXN0cmFsJTIwZ290JTIwYSUyMFVTJTIwcGF0ZW50JTIwb24lMjB0b29sJTIwY2FsbHMlMjBpbiUyMDExOCUyMGRheXMuJTIwV2l0aG91dCUyMHByaW9yJTIwcHVibGljJTIwbm90aWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODMzNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAwOSUzQTAyJTNBMDIlMjAlMkIwMDAw",
+      "title": "Mistral got a US patent on tool calls in 118 days. Without prior public notice",
+      "pubDate": "Thu, 13 Aug 2026 09:02:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGY29kZXglMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZjb2RleCUyRiU3Q0NoYXRHUFQlMjBEZXNrdG9wJTIwKENvZGV4JTIwRGVza3RvcCklMjBmb3IlMjBMaW51eCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjgxOTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMDQlM0E1MyUzQTQxJTIwJTJCMDAwMA",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "pubDate": "Thu, 13 Aug 2026 04:53:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
     }
   ]
