@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-14",
     "newestItemDate": "2026-08-14",
-    "itemCount": 6,
-    "generatedAt": "2026-08-14T09:29:50.593Z"
+    "itemCount": 30,
+    "generatedAt": "2026-08-14T17:15:10.043Z"
   },
   "items": [
     {
@@ -42,6 +42,150 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSnVzdFZ1Z2clMkZsdW1hYnJpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSnVzdFZ1Z2clMkZsdW1hYnJpJTdDU2hvdyUyMEhOJTNBJTIwTHVtYWJyaSUyMCVFMiU4MCU5MyUyMFJ1biUyME1vZSUyME1vZGVscyUyMG9uJTIwYSUyMFAyUCUyMFN3YXJtJTIwd2l0aCUyMENvbGlicmklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5MzUyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDAwJTNBNDclM0EwNCUyMCUyQjAwMDA",
       "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
       "pubDate": "Fri, 14 Aug 2026 00:47:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGYmxvZyUyRm1heGltaXppbmctdGhlLXZhbHVlLW9mLXlvdXItY2xhdWRlLWNvZGUtc2Vzc2lvbnMlN0NodHRwcyUzQSUyRiUyRmNsYXVkZS5jb20lMkZibG9nJTJGbWF4aW1pemluZy10aGUtdmFsdWUtb2YteW91ci1jbGF1ZGUtY29kZS1zZXNzaW9ucyU3Q01heGltaXppbmclMjB0aGUlMjB2YWx1ZSUyMG9mJTIweW91ciUyMENsYXVkZSUyMENvZGUlMjBzZXNzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzAwODAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTYlM0ExNSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "pubDate": "Fri, 14 Aug 2026 16:15:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydXN0ZGVzay5jb20lMkZibG9nJTJGdW5hdHRlbmRlZC1yZW1vdGUtYWNjZXNzLXdheWxhbmQlMkYlN0NodHRwcyUzQSUyRiUyRnJ1c3RkZXNrLmNvbSUyRmJsb2clMkZ1bmF0dGVuZGVkLXJlbW90ZS1hY2Nlc3Mtd2F5bGFuZCUyRiU3Q1J1c3REZXNrJTIwbm93JTIwc3VwcG9ydHMlMjB0cnVlJTIwdW5hdHRlbmRlZCUyMHJlbW90ZSUyMGFjY2VzcyUyMG9uJTIwV2F5bGFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzAwNzU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTYlM0ExMiUzQTUyJTIwJTJCMDAwMA",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "pubDate": "Fri, 14 Aug 2026 16:12:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmZyYW5jZXMtdG9wLWNvdXJ0LXJ1bGVzLXNvY2lhbC1tZWRpYS1iYW4tY3VydGFpbHMtZnJlZWRvbS1leHByZXNzaW9uLTIwMjYtMDgtMTQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRndvcmxkJTJGZnJhbmNlcy10b3AtY291cnQtcnVsZXMtc29jaWFsLW1lZGlhLWJhbi1jdXJ0YWlscy1mcmVlZG9tLWV4cHJlc3Npb24tMjAyNi0wOC0xNCUyRiU3Q0ZyYW5jZSUyMGJsb2NrcyUyMHNvY2lhbCUyMG1lZGlhJTIwYmFuJTIwYmVjYXVzZSUyMGl0JTIwd291bGQlMjByZXF1aXJlJTIwYWR1bHRzJTIwdG8lMjBwcm92ZSUyMGFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzAwNjcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTYlM0EwNiUzQTQ5JTIwJTJCMDAwMA",
+      "title": "France blocks social media ban because it would require adults to prove age",
+      "pubDate": "Fri, 14 Aug 2026 16:06:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXlmb3JjZWRiLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGcmF5Zm9yY2VkYi5jb20lMkYlN0NSYXlmb3JjZURCJTIwJUUyJTgwJTkzJTIwYSUyMHB1cmUlMjBDJTIwYW5hbHl0aWNzJTIwZGF0YWJhc2UlMjB3aXRoJTIwYSUyMExpc3AtbGlrZSUyMHN5bnRheCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzAwNjE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTYlM0EwMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+      "pubDate": "Fri, 14 Aug 2026 16:02:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnloYW5kLmFpJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnloYW5kLmFpJTJGJTdDQUklMjBieSUyMEhhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwMDU2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE1JTNBNTglM0E1OSUyMCUyQjAwMDA",
+      "title": "AI by Hand",
+      "pubDate": "Fri, 14 Aug 2026 15:58:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGc29sdmluZy1hLWxhcmdlbHktaW1hZ2luYXJ5LXVzZXItZ29hbCUyRiU3Q2h0dHBzJTNBJTJGJTJGdW5zdW5nLmFyZXNsdW5hLm9yZyUyRnNvbHZpbmctYS1sYXJnZWx5LWltYWdpbmFyeS11c2VyLWdvYWwlMkYlN0MlMjJTb2x2aW5nJTIwYSUyMGxhcmdlbHklMjBpbWFnaW5hcnklMjB1c2VyJTIwZ29hbCUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzAwNDExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTUlM0E0OCUzQTU5JTIwJTJCMDAwMA",
+      "title": "\"Solving a largely imaginary user goal\"",
+      "pubDate": "Fri, 14 Aug 2026 15:48:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRnNlY3VyaXR5JTJGaG93LWdvb2dsZS1pcy1tYWtpbmctcHJpdmF0ZS1haS1wcmFjdGljYWwtd2l0aC1ob21vbW9ycGhpYy1lbmNyeXB0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRnNlY3VyaXR5JTJGaG93LWdvb2dsZS1pcy1tYWtpbmctcHJpdmF0ZS1haS1wcmFjdGljYWwtd2l0aC1ob21vbW9ycGhpYy1lbmNyeXB0aW9uJTJGJTdDR29vZ2xlJTIwaXMlMjBtYWtpbmclMjBwcml2YXRlJTIwQUklMjBwcmFjdGljYWwlMjB3aXRoJTIwaG9tb21vcnBoaWMlMjBlbmNyeXB0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDAzMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTQzJTNBMTAlMjAlMkIwMDAw",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "pubDate": "Fri, 14 Aug 2026 15:43:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTmFub05ldHMlMkZHcmFmdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk5hbm9OZXRzJTJGR3JhZnQlN0NTaG93JTIwSE4lM0ElMjBHcmFmdCUyMCVFMiU4MCU5MyUyMENsYXVkZSUyMENvZGUlMjBob29rcyUyMHRoYXQlMjBjdXQlMjBncmVwJTIwdG9rZW5zJTIwYnklMjA0MiUyNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk5OTg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTUlM0EyMiUzQTAyJTIwJTJCMDAwMA",
+      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "pubDate": "Fri, 14 Aug 2026 15:22:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWl4ZWRicmVhZC5jb20lMkZibG9nJTJGdG9hc3QtMSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1peGVkYnJlYWQuY29tJTJGYmxvZyUyRnRvYXN0LTElN0NJbnRyb2R1Y2luZyUyMFRvYXN0JTIwMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk5NzQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTUlM0EwNyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Introducing Toast 1",
+      "pubDate": "Fri, 14 Aug 2026 15:07:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRnVuc2xvdGglMkZRd2VuMy44LTI3Qi1HR1VGJTdDaHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRnVuc2xvdGglMkZRd2VuMy44LTI3Qi1HR1VGJTdDVW5zbG90aCUyMFF3ZW4zLjgtMjdCJTIwR0dVRiUyMGZpbGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyOTk2ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTA0JTNBMTclMjAlMkIwMDAw",
+      "title": "Unsloth Qwen3.8-27B GGUF files",
+      "pubDate": "Fri, 14 Aug 2026 15:04:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsb3Zlci5jb20lMkYyMDI2JTJGMDglMkYwMiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5wbG92ZXIuY29tJTJGMjAyNiUyRjA4JTJGMDIlMkYlN0NTZXZlbiUyMGJvb2tzJTIwSSUyMGtlZXAlMjBjbG9zZSUyMGJlY2F1c2UlMjBJJTIwbG92ZSUyMHRoZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5OTY3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDMlM0EyNiUyMCUyQjAwMDA",
+      "title": "Seven books I keep close because I love them",
+      "pubDate": "Fri, 14 Aug 2026 15:03:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrdWt1cm9vLmNjJTJGJTdDaHR0cHMlM0ElMkYlMkZrdWt1cm9vLmNjJTJGJTdDU2VsZi1ob3N0ZWQlMjB3ZWIlMjBwdXNoJTIwQ2xvdWRmbGFyZSUyMFdvcmtlciUyQyUyMHdvcmtzJTIwb24lMjBpT1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5OTY2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDMlM0ExMiUyMCUyQjAwMDA",
+      "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+      "pubDate": "Fri, 14 Aug 2026 15:03:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRlF3ZW4lMkZRd2VuMy44LTI3Qi1GUDglN0NodHRwcyUzQSUyRiUyRmh1Z2dpbmdmYWNlLmNvJTJGUXdlbiUyRlF3ZW4zLjgtMjdCLUZQOCU3Q1F3ZW4lMjAzLjglMjAyN0IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5OTYwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDAlM0EwMCUyMCUyQjAwMDA",
+      "title": "Qwen 3.8 27B",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJ0aC5udWxsc2Nob29sLm5ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWFydGgubnVsbHNjaG9vbC5uZXQlMkYlN0NFYXJ0aC5udWxsc2Nob29sLm5ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk5MzY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTQlM0E0MiUzQTIzJTIwJTJCMDAwMA",
+      "title": "Earth.nullschool.net",
+      "pubDate": "Fri, 14 Aug 2026 14:42:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZseGUuZ2l0aHViLmlvJTJGZXZlcnl3ZWJzaXRlJTJGJTdDaHR0cHMlM0ElMkYlMkZseGUuZ2l0aHViLmlvJTJGZXZlcnl3ZWJzaXRlJTJGJTdDRXZlcnklMjBGdWNraW5nJTIwV2Vic2l0ZSUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk5MjIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTQlM0EzMSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Every Fucking Website (2020)",
+      "pubDate": "Fri, 14 Aug 2026 14:31:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW4uY29zbW9ncmFwaC5hcHAlMkZwdWJsaWMlMkZjYTlmZDFhZC1mZTgzLTQyMzgtOGI2OS1iNzA3YzYzM2FlZjAlN0NodHRwcyUzQSUyRiUyRnJ1bi5jb3Ntb2dyYXBoLmFwcCUyRnB1YmxpYyUyRmNhOWZkMWFkLWZlODMtNDIzOC04YjY5LWI3MDdjNjMzYWVmMCU3Q0FJJTIwTW9kZWwlMjBBdGxhcyUyMCVFMiU4MCU5MyUyMHZpc3VhbGl6aW5nJTIwcG9wdWxhdGlvbnMlMjBvZiUyME1MJTIwbW9kZWxzJTIwYXMlMjBpbnRlcmNvbm5lY3RlZCUyMDNEJTIwZ3JhcGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5OTEwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE0JTNBMjIlM0EzOSUyMCUyQjAwMDA",
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "pubDate": "Fri, 14 Aug 2026 14:22:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZXlqb25ueS5kZXYlMkZwb3N0cyUyRnJzcy10by1laW5rLW5ld3NwYXBlciUyRiU3Q2h0dHBzJTNBJTJGJTJGaGV5am9ubnkuZGV2JTJGcG9zdHMlMkZyc3MtdG8tZWluay1uZXdzcGFwZXIlMkYlN0NJJTIwdHVybmVkJTIwbXklMjBSU1MlMjBmZWVkcyUyMGludG8lMjBhbiUyMGUtaW5rJTIwbmV3c3BhcGVyJTIwdG8lMjBzdG9wJTIwcmVhZGluZyUyMG9uJTIwbXklMjBwaG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk5MDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTQlM0EyMSUzQTE4JTIwJTJCMDAwMA",
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "pubDate": "Fri, 14 Aug 2026 14:21:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlMzYwLnlhbGUuZWR1JTJGZGlnZXN0JTJGYXVzdHJhbGlhLWhvbWUtYmF0dGVyaWVzJTdDaHR0cHMlM0ElMkYlMkZlMzYwLnlhbGUuZWR1JTJGZGlnZXN0JTJGYXVzdHJhbGlhLWhvbWUtYmF0dGVyaWVzJTdDSW4lMjBBdXN0cmFsaWElMkMlMjBhJTIwaG9tZSUyMGJhdHRlcnklMjBib29tJTIwaGFzJTIwaGVscGVkJTIwY3V0JTIwd2hvbGVzYWxlJTIwcG93ZXIlMjBwcmljZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5ODkxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE0JTNBMDclM0E1MiUyMCUyQjAwMDA",
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "pubDate": "Fri, 14 Aug 2026 14:07:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJzb3IuY29tJTJGYmxvZyUyRmpvaW5pbmctc3BhY2V4JTdDaHR0cHMlM0ElMkYlMkZjdXJzb3IuY29tJTJGYmxvZyUyRmpvaW5pbmctc3BhY2V4JTdDQ3Vyc29yJTIwaXMlMjBub3clMjBhJTIwcGFydCUyMG9mJTIwU3BhY2VYJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyOTgyMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTEwJTNBMTIlMjAlMkIwMDAw",
+      "title": "Cursor is now a part of SpaceX",
+      "pubDate": "Fri, 14 Aug 2026 13:10:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXNoYWdlbnQucGFnZXMuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZoYXNoYWdlbnQucGFnZXMuZGV2JTJGJTdDSGFzaEFnZW50JTIwJUUyJTgwJTkzJTIwU2hhcmUlMjBhbiUyMEFJJTIwYWdlbnQlMjBhcyUyMGElMjBVUkwlMkMlMjBydW5zJTIwbG9jYWxseSUyMHZpYSUyMFdlYkdQVSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk4MDg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTIlM0E1NyUzQTAyJTIwJTJCMDAwMA",
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "pubDate": "Fri, 14 Aug 2026 12:57:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb29uaG9zdC5yb2NrcyUyRmJsb2clMkZpbXBsZW1lbnRpbmctaXB2OC1pbnRlcm5ldC1kcmFmdCU3Q2h0dHBzJTNBJTJGJTJGZ29vbmhvc3Qucm9ja3MlMkZibG9nJTJGaW1wbGVtZW50aW5nLWlwdjgtaW50ZXJuZXQtZHJhZnQlN0NTaG93JTIwSE4lM0ElMjBXZSUyMEltcGxlbWVudGVkJTIwdGhlJTIwSVB2OCUyMEludGVybmV0LURyYWZ0JTIwaW4lMjBMaW51eCUyQyUyMExpYmMlMkMlMjBhbmQlMjBCR1AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5Nzk5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDEyJTNBNDUlM0EzNyUyMCUyQjAwMDA",
+      "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+      "pubDate": "Fri, 14 Aug 2026 12:45:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4bi0tZ2NrdmI4ZnpiLmNvbSUyRnRoZS10ZW11LWZpY2F0aW9uLW9mLXNvZnR3YXJlLWRpZ2l0YWwtZ29vZHMtc2VydmljZXMlMkYlN0NodHRwcyUzQSUyRiUyRnhuLS1nY2t2YjhmemIuY29tJTJGdGhlLXRlbXUtZmljYXRpb24tb2Ytc29mdHdhcmUtZGlnaXRhbC1nb29kcy1zZXJ2aWNlcyUyRiU3Q1RoZSUyMFRFTVUtRmljYXRpb24lMjBvZiUyMFNvZnR3YXJlJTJDJTIwRGlnaXRhbCUyMEdvb2RzJTIwYW5kJTIwU2VydmljZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5NzYzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDEyJTNBMDAlM0E1MSUyMCUyQjAwMDA",
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "pubDate": "Fri, 14 Aug 2026 12:00:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdW4tbG9nYWRhbi5naXRodWIuaW8lMkZ3aHktZG9lcy1vcHVzLTUtZmVlbC13b3JzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbXVuLWxvZ2FkYW4uZ2l0aHViLmlvJTJGd2h5LWRvZXMtb3B1cy01LWZlZWwtd29yc2UlMkYlN0NXaHklMjBkb2VzJTIwT3B1cyUyMDUlMjBmZWVsJTIwd29yc2UlMjB0byUyMHdvcmslMjB3aXRoJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyOTY3NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxMCUzQTEyJTNBNDglMjAlMkIwMDAw",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "pubDate": "Fri, 14 Aug 2026 10:12:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcGktZG9jcy5kZWVwc2Vlay5jb20lMkZuZXdzJTJGbmV3czI2MDgxMyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXBpLWRvY3MuZGVlcHNlZWsuY29tJTJGbmV3cyUyRm5ld3MyNjA4MTMlMkYlN0NEZWVwU2VlayUyMHBlYWslMkZvZmYtcGVhayUyMHByaWNpbmclMjB1cGRhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5NjYyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDA5JTNBNTUlM0EzMyUyMCUyQjAwMDA",
+      "title": "DeepSeek peak/off-peak pricing update",
+      "pubDate": "Fri, 14 Aug 2026 09:55:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
     }
   ]
