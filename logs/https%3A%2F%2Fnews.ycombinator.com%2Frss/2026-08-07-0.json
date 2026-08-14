@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-07",
     "newestItemDate": "2026-08-07",
-    "itemCount": 48,
-    "generatedAt": "2026-08-13T09:35:53.613Z"
+    "itemCount": 49,
+    "generatedAt": "2026-08-14T03:02:08.731Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWJtLmNvbSUyRmhpc3RvcnklMkZwdW5jaGVkLWNhcmQtdGFidWxhdG9yJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaWJtLmNvbSUyRmhpc3RvcnklMkZwdW5jaGVkLWNhcmQtdGFidWxhdG9yJTdDVGhlJTIwcHVuY2hlZCUyMGNhcmQlMjB0YWJ1bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIxMTUzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDElM0E1OCUyMCUyQjAwMDA",
       "title": "The punched card tabulator",
       "pubDate": "Fri, 07 Aug 2026 15:01:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmR1bmRucy5ldSUyRnBvc3RzJTJGZGRyLWVuY3J5cHRlZC1kbnMtZGlzY292ZXJ5JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmR1bmRucy5ldSUyRnBvc3RzJTJGZGRyLWVuY3J5cHRlZC1kbnMtZGlzY292ZXJ5JTJGJTdDSG93JTIwYSUyMGRldmljZSUyMGZpbmRzJTIwZW5jcnlwdGVkJTIwRE5TJTIwYnklMjBpdHNlbGYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTIxMDc0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA3JTIwQXVnJTIwMjAyNiUyMDE0JTNBMTElM0E1NSUyMCUyQjAwMDA",
+      "title": "How a device finds encrypted DNS by itself",
+      "pubDate": "Fri, 07 Aug 2026 14:11:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-07-0.json"
     }
   ]

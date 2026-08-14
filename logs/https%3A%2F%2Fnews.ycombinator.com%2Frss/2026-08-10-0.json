@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-10",
     "newestItemDate": "2026-08-10",
-    "itemCount": 54,
-    "generatedAt": "2026-08-13T17:16:54.169Z"
+    "itemCount": 56,
+    "generatedAt": "2026-08-14T03:02:08.731Z"
   },
   "items": [
     {
@@ -330,6 +330,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqZGguaGFta2lucy5vcmclMkZ0aGUtbGF0dGljZS1vZi1zZXRzLW9mLW5hdHVyYWwtbnVtYmVycy1pcy1yaWNoJTJGJTdDaHR0cHMlM0ElMkYlMkZqZGguaGFta2lucy5vcmclMkZ0aGUtbGF0dGljZS1vZi1zZXRzLW9mLW5hdHVyYWwtbnVtYmVycy1pcy1yaWNoJTJGJTdDVGhlJTIwbGF0dGljZSUyMG9mJTIwc2V0cyUyMG9mJTIwbmF0dXJhbCUyMG51bWJlcnMlMjBpcyUyMHJpY2glMjAoMjAyMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0MzY4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDEzJTNBNTMlM0ExMyUyMCUyQjAwMDA",
       "title": "The lattice of sets of natural numbers is rich (2021)",
       "pubDate": "Mon, 10 Aug 2026 13:53:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Jvd25lbmdpbmUub3JnJTJGbmV3cyUyRmNyb3duLTAtNjQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcm93bmVuZ2luZS5vcmclMkZuZXdzJTJGY3Jvd24tMC02NCUyRiU3Q0Nyb3duJTIwMC42NCUyMCVFMiU4MCU5MyUyME5hdGl2ZSUyMGFuZCUyMGNyb3NzLXBsYXRmb3JtJTIwZ2FtZSUyMGVuZ2luZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQzODYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTQlM0EwNSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Crown 0.64 – Native and cross-platform game engine",
+      "pubDate": "Mon, 10 Aug 2026 14:05:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwODEwLWM4OWFtYmlndWl0eS5odG1sJTdDaHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwODEwLWM4OWFtYmlndWl0eS5odG1sJTdDQW4lMjBhbWJpZ3VpdHklMjBpbiUyMGM4OSUyMHdoaWNoJTIwd2lsbCUyMG5ldmVyJTIwYmUlMjBmaXhlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQwNjE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMDclM0E0OSUzQTA5JTIwJTJCMDAwMA",
+      "title": "An ambiguity in c89 which will never be fixed",
+      "pubDate": "Mon, 10 Aug 2026 07:49:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
     }
   ]
