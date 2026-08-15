@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-14",
     "newestItemDate": "2026-08-14",
-    "itemCount": 30,
-    "generatedAt": "2026-08-14T17:15:10.043Z"
+    "itemCount": 40,
+    "generatedAt": "2026-08-15T01:52:49.847Z"
   },
   "items": [
     {
@@ -186,6 +186,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcGktZG9jcy5kZWVwc2Vlay5jb20lMkZuZXdzJTJGbmV3czI2MDgxMyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXBpLWRvY3MuZGVlcHNlZWsuY29tJTJGbmV3cyUyRm5ld3MyNjA4MTMlMkYlN0NEZWVwU2VlayUyMHBlYWslMkZvZmYtcGVhayUyMHByaWNpbmclMjB1cGRhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI5NjYyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDA5JTNBNTUlM0EzMyUyMCUyQjAwMDA",
       "title": "DeepSeek peak/off-peak pricing update",
       "pubDate": "Fri, 14 Aug 2026 09:55:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjQ3ZGQ1MzA4LWRkMTctNDA0YS1hNjE1LTYxMDQ2ZGVmZDY5NyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkY0N2RkNTMwOC1kZDE3LTQwNGEtYTYxNS02MTA0NmRlZmQ2OTclN0NKYW5lJTIwU3RyZWV0JTIwc3VmZmVycyUyMCUyNDE1QiUyMGhpdCUyMGFmdGVyJTIwbWVsdGRvd24lMjBhdCUyMFNpdHVhdGlvbmFsJTIwQXdhcmVuZXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDU5MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAyMyUzQTQwJTNBMzclMjAlMkIwMDAw",
+      "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+      "pubDate": "Fri, 14 Aug 2026 23:40:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmJ5LWludml0YXRpb24lMkYyMDI2JTJGMDglMkYxMyUyRnRoZS1jYXNlLWZvci1vdmVyaGF1bGluZy1hbWVyaWNhbi1zY2llbmNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmJ5LWludml0YXRpb24lMkYyMDI2JTJGMDglMkYxMyUyRnRoZS1jYXNlLWZvci1vdmVyaGF1bGluZy1hbWVyaWNhbi1zY2llbmNlJTdDVGhlJTIwY2FzZSUyMGZvciUyMG92ZXJoYXVsaW5nJTIwQW1lcmljYW4lMjBzY2llbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDU3MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAyMyUzQTExJTNBMzQlMjAlMkIwMDAw",
+      "title": "The case for overhauling American science",
+      "pubDate": "Fri, 14 Aug 2026 23:11:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZXRzbWFsbC54eXolMkZwb3N0JTJGY21zdGpmbDlsMDAwaWY3MGxqbXB6cjR2YSU3Q2h0dHBzJTNBJTJGJTJGZ2V0c21hbGwueHl6JTJGcG9zdCUyRmNtc3RqZmw5bDAwMGlmNzBsam1wenI0dmElN0NTdG9wJTIwc2VuZGluZyUyMG1lJTIwaHVnZSUyMFBScyUzQiUyMGElMjByYW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDU1NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAyMiUzQTQ4JTNBMTUlMjAlMkIwMDAw",
+      "title": "Stop sending me huge PRs; a rant",
+      "pubDate": "Fri, 14 Aug 2026 22:48:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbWl0cnkuZ3IlMkYlM0ZyJTNEMDYuJTI1MjBUaG91Z2h0cyUyNnByb2olM0QxMi4lMjUyMFJWJTdDaHR0cHMlM0ElMkYlMkZkbWl0cnkuZ3IlMkYlM0ZyJTNEMDYuJTJCVGhvdWdodHMlMjZwcm9qJTNEMTIuJTJCUlYlN0NSSVNDLVYlM0ElMjBUaGV5JTIwc2hvdWxkJTIwaGF2ZSUyMGtub3duJTIwYmV0dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDU0OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAyMiUzQTM4JTNBMzQlMjAlMkIwMDAw",
+      "title": "RISC-V: They should have known better",
+      "pubDate": "Fri, 14 Aug 2026 22:38:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlaWdlbmRydW0uY29tJTJGJTIzcCUzRGNpcmNsZSU3Q2h0dHBzJTNBJTJGJTJGZWlnZW5kcnVtLmNvbSUyRiUyM3AlM0RjaXJjbGUlN0NlaWdlbmRydW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwNTI1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDIyJTNBMTUlM0ExMiUyMCUyQjAwMDA",
+      "title": "eigendrum",
+      "pubDate": "Fri, 14 Aug 2026 22:15:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNyeXB0b2dyYXBoeWVuZ2luZWVyaW5nLmNvbSUyRjIwMjYlMkYwOCUyRjE0JTJGZXZlcnl0aGluZy1pcy1hYm91dC10by1nby1kYXJrJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNyeXB0b2dyYXBoeWVuZ2luZWVyaW5nLmNvbSUyRjIwMjYlMkYwOCUyRjE0JTJGZXZlcnl0aGluZy1pcy1hYm91dC10by1nby1kYXJrJTJGJTdDR29pbmclMjBEYXJrJTJDJTIwYW5kJTIwdGhlJTIwZXJhJTIwb2YlMjBsYXclMjBlbmZvcmNlbWVudCUyMGhhY2tpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwNDQ0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDIwJTNBNTIlM0E0NCUyMCUyQjAwMDA",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "pubDate": "Fri, 14 Aug 2026 20:52:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYWZpc2hlci5jb20lMkYyMDI2JTJGMDclMkZwZWxoYW0tMTIzJTdDaHR0cHMlM0ElMkYlMkZpYWZpc2hlci5jb20lMkYyMDI2JTJGMDclMkZwZWxoYW0tMTIzJTdDRXZlcnklMjBleHRlcmlvciUyMHNob3QlMjBpbiUyMFRoZSUyMFRha2luZyUyMG9mJTIwUGVsaGFtJTIwMTIzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDM5NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAyMCUzQTEwJTNBNDklMjAlMkIwMDAw",
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "pubDate": "Fri, 14 Aug 2026 20:10:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjExMTU4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjExMTU4JTdDTmV3JTIwTG93ZXIlMjBhbmQlMjBVcHBlciUyMEJvdW5kcyUyMGZvciUyMHRoZSUyMEdyb3RoZW5kaWVjayUyMENvbnN0YW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDM2NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTQxJTNBNDIlMjAlMkIwMDAw",
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "pubDate": "Fri, 14 Aug 2026 19:41:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGN3b3JsZC5jb20lMkZhcnRpY2xlJTJGMzIxMjQyOCUyRmZpcmVmb3gtaXMtbm93LXRoZS1sYXN0LW1ham9yLWJyb3dzZXItdGhhdC1zdGlsbC1zdXBwb3J0cy11YmxvY2stb3JpZ2luLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5wY3dvcmxkLmNvbSUyRmFydGljbGUlMkYzMjEyNDI4JTJGZmlyZWZveC1pcy1ub3ctdGhlLWxhc3QtbWFqb3ItYnJvd3Nlci10aGF0LXN0aWxsLXN1cHBvcnRzLXVibG9jay1vcmlnaW4uaHRtbCU3Q0ZpcmVmb3glMjBpcyUyMG5vdyUyMHRoZSUyMGxhc3QlMjBtYWpvciUyMGJyb3dzZXIlMjB0aGF0JTIwc3RpbGwlMjBzdXBwb3J0cyUyMHVCbG9jayUyME9yaWdpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzAzMjAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTklM0EwMyUzQTIwJTIwJTJCMDAwMA",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "pubDate": "Fri, 14 Aug 2026 19:03:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbGFqb3NkZW1lJTJGbW9sZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmxham9zZGVtZSUyRm1vbGUlN0NTaG93JTIwSE4lM0ElMjBNb2xlJTIwJUUyJTgwJTkzJTIwRGVlcCUyMHJlc2VhcmNoJTIwYWdlbnQlMjBmb3IlMjB5b3VyJTIwdGVybWluYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwMzA0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE4JTNBNTIlM0E0OCUyMCUyQjAwMDA",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "pubDate": "Fri, 14 Aug 2026 18:52:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
     }
   ]
