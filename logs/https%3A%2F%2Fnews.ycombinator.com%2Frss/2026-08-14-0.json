@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-14",
     "newestItemDate": "2026-08-14",
-    "itemCount": 41,
-    "generatedAt": "2026-08-15T08:48:50.403Z"
+    "itemCount": 42,
+    "generatedAt": "2026-08-15T16:44:25.718Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJhY2tldC1sYW5nLm9yZyUyRjIwMjYlMkYwOCUyRnJhY2tldC12OS0zLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cucmFja2V0LWxhbmcub3JnJTJGMjAyNiUyRjA4JTJGcmFja2V0LXY5LTMuaHRtbCU3Q1JhY2tldCUyMHY5LjMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwMjU2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE0JTIwQXVnJTIwMjAyNiUyMDE4JTNBMTQlM0E0OCUyMCUyQjAwMDA",
       "title": "Racket v9.3",
       "pubDate": "Fri, 14 Aug 2026 18:14:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbWl0cnkuZ3IlMkYlM0ZyJTNEMDYuJTI1MjBUaG91Z2h0cyUyNnByb2olM0QxMi4lMjUyMFJWJTdDaHR0cHMlM0ElMkYlMkZkbWl0cnkuZ3IlMkYlM0ZyJTNEMDYuJTJCVGhvdWdodHMlMjZwcm9qJTNEMTIuJTJCUlYlN0NSSVNDLVYlM0ElMjBUaGV5JTIwU2hvdWxkJTIwSGF2ZSUyMEtub3duJTIwQmV0dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyOTgwMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxMiUzQTUwJTNBNTYlMjAlMkIwMDAw",
+      "title": "RISC-V: They Should Have Known Better",
+      "pubDate": "Fri, 14 Aug 2026 12:50:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
     }
   ]

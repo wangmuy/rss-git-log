@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-15",
     "newestItemDate": "2026-08-15",
-    "itemCount": 8,
-    "generatedAt": "2026-08-15T08:48:50.403Z"
+    "itemCount": 25,
+    "generatedAt": "2026-08-15T16:44:25.718Z"
   },
   "items": [
     {
@@ -54,6 +54,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYxODExLjAzNDU5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYxODExLjAzNDU5JTdDU2ltcGxpZnlpbmclMjBhbmQlMjBSZWZhY3RvcmluZyUyMEludHJvZHVjdG9yeSUyMENhbGN1bHVzJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDYxOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAwMCUzQTE1JTNBMjMlMjAlMkIwMDAw",
       "title": "Simplifying and Refactoring Introductory Calculus (2018)",
       "pubDate": "Sat, 15 Aug 2026 00:15:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW5hLmJpbyUyRnBvc3RzJTJGY29zdGNvLWhvdGRvZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZzaW5hLmJpbyUyRnBvc3RzJTJGY29zdGNvLWhvdGRvZy5odG1sJTdDVGhlJTIwcHJpY2UlMjBvZiUyMGElMjBDb3N0Y28lMjBob3QlMjBkb2clMjBoYXMlMjBnb25lJTIwdXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMTY4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE2JTNBMDElM0E1NyUyMCUyQjAwMDA",
+      "title": "The price of a Costco hot dog has gone up",
+      "pubDate": "Sat, 15 Aug 2026 16:01:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLWRlc2lnbmVkLXZpcnVzJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFpLWRlc2lnbmVkLXZpcnVzJTdDQUklMjBDYW4lMjBOb3clMjBEZXNpZ24lMjBGdW5jdGlvbmFsJTIwVmlydXNlcy4lMjBTaG91bGQlMjBXZSUyMFdvcnJ5JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTE0NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTMyJTNBMjUlMjAlMkIwMDAw",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "pubDate": "Sat, 15 Aug 2026 15:32:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFtcGZrcmFmdC5jb20lMkZnaG9zdC1jaGFyYWN0ZXJzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYW1wZmtyYWZ0LmNvbSUyRmdob3N0LWNoYXJhY3RlcnMuaHRtbCU3Q0ElMjBTcGVjdHJlJTIwSXMlMjBIYXVudGluZyUyMFVuaWNvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMDkyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE0JTNBMzQlM0EwNCUyMCUyQjAwMDA",
+      "title": "A Spectre Is Haunting Unicode",
+      "pubDate": "Sat, 15 Aug 2026 14:34:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcmlrYW50aC5jaCUyRnBvc3RzJTJGdGhlLWFpLXNpdHVhdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGc3Jpa2FudGguY2glMkZwb3N0cyUyRnRoZS1haS1zaXR1YXRpb24lMkYlN0NUaGUlMjBBSSUyMFNpdHVhdGlvbiUyMGluJTIwU29mdHdhcmUlMjBEZXZlbG9wbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzEwNzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMTQlM0ExMiUzQTI3JTIwJTJCMDAwMA",
+      "title": "The AI Situation in Software Development",
+      "pubDate": "Sat, 15 Aug 2026 14:12:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGaW5ub3ZhdGlvbiUyRnRoZS1maXJzdC1hdC1ob21lLXRlc3QtZm9yLWluZmVjdGVkLXRpY2tzLWNvdWxkLWltcHJvdmUtbHltZS1kaXNlYXNlLWRpYWdub3Npcy0xODA5ODkyMzUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZpbm5vdmF0aW9uJTJGdGhlLWZpcnN0LWF0LWhvbWUtdGVzdC1mb3ItaW5mZWN0ZWQtdGlja3MtY291bGQtaW1wcm92ZS1seW1lLWRpc2Vhc2UtZGlhZ25vc2lzLTE4MDk4OTIzNSUyRiU3Q1RoZSUyMEZpcnN0JTIwQXQtSG9tZSUyMFRlc3QlMjBmb3IlMjBJbmZlY3RlZCUyMFRpY2tzJTIwQ291bGQlMjBJbXByb3ZlJTIwTHltZSUyMERpc2Vhc2UlMjBEaWFnbm9zaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMDY4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE0JTNBMDQlM0E0OSUyMCUyQjAwMDA",
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+      "pubDate": "Sat, 15 Aug 2026 14:04:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoeXBuYWdvZ2ljLXF1YXNpY3J5c3RhbHMuZ2l0aHViLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZoeXBuYWdvZ2ljLXF1YXNpY3J5c3RhbHMuZ2l0aHViLmlvJTJGJTdDU2hvdyUyMEhOJTNBJTIwUXVhc2ljcnlzdGFscyUyMEFuaW1hdGlvbiUyMFBsYXlncm91bmQlMjB3aXRoJTIwV2ViWFIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMDUzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDEzJTNBNDglM0E0MyUyMCUyQjAwMDA",
+      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+      "pubDate": "Sat, 15 Aug 2026 13:48:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5zdGVwaGVuLWNyZXNzd2VsbC5jb20lMkYyMDI2JTJGMDglMkYxNSUyRllhZGRhLTMuMC4wLUJERC1pbi10aGUtQWdlLW9mLUFJLUFnZW50cy5odG1sJTdDaHR0cCUzQSUyRiUyRnd3dy5zdGVwaGVuLWNyZXNzd2VsbC5jb20lMkYyMDI2JTJGMDglMkYxNSUyRllhZGRhLTMuMC4wLUJERC1pbi10aGUtQWdlLW9mLUFJLUFnZW50cy5odG1sJTdDWWFkZGElMjAzLjAuMCUzQSUyMEJERCUyMGluJTIwdGhlJTIwQWdlJTIwb2YlMjBBSSUyMEFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzEwNDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMTMlM0E0MyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "pubDate": "Sat, 15 Aug 2026 13:43:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFua2Vyc3RqZW5zLmdpdGh1Yi5pbyUyRmNvdWxkLWEtY29tcHV0ZXItc2NpZW50aXN0LWJ1aWxkLWEtYnJhaW4lMkYlN0NodHRwcyUzQSUyRiUyRnN0YW5rZXJzdGplbnMuZ2l0aHViLmlvJTJGY291bGQtYS1jb21wdXRlci1zY2llbnRpc3QtYnVpbGQtYS1icmFpbiUyRiU3Q0NvdWxkJTIwYSUyMGNvbXB1dGVyJTIwc2NpZW50aXN0JTIwYnVpbGQlMjBhJTIwYnJhaW4lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMDM2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDEzJTNBMjYlM0EyOCUyMCUyQjAwMDA",
+      "title": "Could a computer scientist build a brain?",
+      "pubDate": "Sat, 15 Aug 2026 13:26:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeGFpLW9yZyUyRngtYWxnb3JpdGhtJTJGYmxvYiUyRm1haW4lMkZob21lLW1peGVyJTJGZmlsdGVycyUyRmJyYXppbF8yMDI2X2VsZWN0aW9uX2ZpbHRlci5ycyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnhhaS1vcmclMkZ4LWFsZ29yaXRobSUyRmJsb2IlMkZtYWluJTJGaG9tZS1taXhlciUyRmZpbHRlcnMlMkZicmF6aWxfMjAyNl9lbGVjdGlvbl9maWx0ZXIucnMlN0NCcmF6aWxpYW4lMjBlbGVjdGlvbiUyMGZpbHRlciUyMGluJTIwWCUyMEZvciUyMFlvdSUyMHRpbWVsaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTAyOTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTE4JTNBMjclMjAlMkIwMDAw",
+      "title": "Brazilian election filter in X For You timeline",
+      "pubDate": "Sat, 15 Aug 2026 13:18:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbSUyRmFydGljbGUlMkYzODgteWVhcnMtYWdvLWdhbGlsZW8td29ya2VkLW91dC13aHktaHVtYW4tZ2lhbnRzLWNhbnQtZXhpc3QtYW5kLWV4cGxhaW5lZC1hLWxhdy1vZi1uYXR1cmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbnRpZmljYW1lcmljYW4uY29tJTJGYXJ0aWNsZSUyRjM4OC15ZWFycy1hZ28tZ2FsaWxlby13b3JrZWQtb3V0LXdoeS1odW1hbi1naWFudHMtY2FudC1leGlzdC1hbmQtZXhwbGFpbmVkLWEtbGF3LW9mLW5hdHVyZSUyRiU3QzM4OCUyMHllYXJzJTIwYWdvJTJDJTIwR2FsaWxlbyUyMHdvcmtlZCUyMG91dCUyMHdoeSUyMGh1bWFuJTIwZ2lhbnRzJTIwY2FuJ3QlMjBleGlzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzEwMjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMTMlM0ExNSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "388 years ago, Galileo worked out why human giants can't exist",
+      "pubDate": "Sat, 15 Aug 2026 13:15:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpY2FseHByZXNzLmNvbSUyRm5ld3MlMkYyMDI2LTA3LWJyYWluLXJlbS1lZWcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWVkaWNhbHhwcmVzcy5jb20lMkZuZXdzJTJGMjAyNi0wNy1icmFpbi1yZW0tZWVnLmh0bWwlN0NCcmFpbiUyMHR1cm5zJTIwbGlzdGVuaW5nJTIwaW53YXJkJTIwZHVyaW5nJTIwUkVNJTIwc2xlZXAlMkMlMjBFRUclMjByZWNvcmRpbmdzJTIwc3VnZ2VzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzEwMjQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMTMlM0EwOSUzQTI4JTIwJTJCMDAwMA",
+      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+      "pubDate": "Sat, 15 Aug 2026 13:09:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWxhbnp1Y2NvbmkuY29tJTJGMjAyNiUyRjA4JTJGMTUlMkZ4b3JzaGlmdC1nZW5lcmF0b3JzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWxhbnp1Y2NvbmkuY29tJTJGMjAyNiUyRjA4JTJGMTUlMkZ4b3JzaGlmdC1nZW5lcmF0b3JzJTJGJTdDWG9yc2hpZnQlMjBHZW5lcmF0b3JzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTAxMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAxMiUzQTQ3JTNBNTIlMjAlMkIwMDAw",
+      "title": "Xorshift Generators",
+      "pubDate": "Sat, 15 Aug 2026 12:47:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnRlbGxpZ2VuY2Uub3JnJTJGdGhlLXByb2JsZW0lMkYlN0NodHRwcyUzQSUyRiUyRmludGVsbGlnZW5jZS5vcmclMkZ0aGUtcHJvYmxlbSUyRiU3Q1RoZSUyMFByb2JsZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwOTk2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDEyJTNBMTQlM0ExNyUyMCUyQjAwMDA",
+      "title": "The Problem",
+      "pubDate": "Sat, 15 Aug 2026 12:14:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW5rYWxwLmJlYXJibG9nLmRldiUyRmF1dG9yZXNlYXJjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2Fua2FscC5iZWFyYmxvZy5kZXYlMkZhdXRvcmVzZWFyY2glMkYlN0NBdXRvLXJlc2VhcmNoJTIwd2l0aCUyMGNvZGV4JTNBJTIwSG93JTIwSSUyMGFjaGlldmVkJTIwYSUyMDIzMnglMjBGYXN0ZXIlMjBLZXJuZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwOTU0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDExJTNBMDAlM0EwMiUyMCUyQjAwMDA",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "pubDate": "Sat, 15 Aug 2026 11:00:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGxlbi5iYXJnaS5vcmclMkZub3RlcyUyRndvcmtpbmctd2l0aC1haS1mZWVscy1saWtlLWxlYWRlcnNoaXAlMkYlN0NodHRwcyUzQSUyRiUyRmFsbGVuLmJhcmdpLm9yZyUyRm5vdGVzJTJGd29ya2luZy13aXRoLWFpLWZlZWxzLWxpa2UtbGVhZGVyc2hpcCUyRiU3Q1dvcmtpbmclMjB3aXRoJTIwQUklMjBGZWVscyUyME1vcmUlMjBMaWtlJTIwTGVhZGVyc2hpcCUyMFRoYW4lMjBDb2RpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwOTQ1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDEwJTNBMzklM0E0MSUyMCUyQjAwMDA",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "pubDate": "Sat, 15 Aug 2026 10:39:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1ZWNrZXIuY29kZWJlcmcucGFnZSUyRjIwMjYtMDctMTQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdWVja2VyLmNvZGViZXJnLnBhZ2UlMkYyMDI2LTA3LTE0Lmh0bWwlN0NVc2luZyUyMEdDQydzJTIwTmVzdGVkJTIwRnVuY3Rpb25zJTIwd2l0aCUyMFdpZGUlMjBQb2ludGVycyUyMGFuZCUyME5vJTIwVHJhbXBvbGluZXMlMjBJSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzA4Njg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMDclM0E1OSUzQTQyJTIwJTJCMDAwMA",
+      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "pubDate": "Sat, 15 Aug 2026 07:59:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkaW9zLmRpc25leXJlc2VhcmNoLmNvbSUyRjIwMjYlMkYwNyUyRjE2JTJGMmQtZ2F1c3NpYW4tc3BsYXR0aW5nLWZvci1iZXppZXItc3BsaW5lLWxpbmUtYXJ0LXZlY3Rvcml6YXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRnN0dWRpb3MuZGlzbmV5cmVzZWFyY2guY29tJTJGMjAyNiUyRjA3JTJGMTYlMkYyZC1nYXVzc2lhbi1zcGxhdHRpbmctZm9yLWJlemllci1zcGxpbmUtbGluZS1hcnQtdmVjdG9yaXphdGlvbiUyRiU3QzJEJTIwR2F1c3NpYW4lMjBTcGxhdHRpbmclMjBmb3IlMjBCJUMzJUE5emllciUyMFNwbGluZSUyMExpbmUlMjBBcnQlMjBWZWN0b3JpemF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDYzMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAwMCUzQTM2JTNBMDElMjAlMkIwMDAw",
+      "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+      "pubDate": "Sat, 15 Aug 2026 00:36:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
     }
   ]

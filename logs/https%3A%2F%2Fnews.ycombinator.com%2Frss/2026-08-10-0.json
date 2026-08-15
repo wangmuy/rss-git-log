@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-10",
     "newestItemDate": "2026-08-10",
-    "itemCount": 61,
-    "generatedAt": "2026-08-15T01:52:49.847Z"
+    "itemCount": 63,
+    "generatedAt": "2026-08-15T16:44:25.719Z"
   },
   "items": [
     {
@@ -372,6 +372,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0d2FyZWRvdWcuY29tJTJGYmxvZyUyRjIwMjYlMkYwOCUyRjEwJTJGaHlwb3RoZXRpY2FsLWNsYXNzaWZpY2F0aW9ucyU3Q2h0dHBzJTNBJTJGJTJGc29mdHdhcmVkb3VnLmNvbSUyRmJsb2clMkYyMDI2JTJGMDglMkYxMCUyRmh5cG90aGV0aWNhbC1jbGFzc2lmaWNhdGlvbnMlN0NEb24ndCUyMGNsYXNzaWZ5JTJDJTIwaGFsbHVjaW5hdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0OTUyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDIwJTNBNTAlM0EzNiUyMCUyQjAwMDA",
       "title": "Don't classify, hallucinate",
       "pubDate": "Mon, 10 Aug 2026 20:50:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYXNlbGFzaHJhZjgxLmdpdGh1Yi5pbyUyRmVpZ2VuZHJ1bSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmFzZWxhc2hyYWY4MS5naXRodWIuaW8lMkZlaWdlbmRydW0lMkYlN0NTaG93JTIwSE4lM0ElMjBFaWdlbmRydW0lMjAtJTIwRHJhdyUyMGFueSUyMHNoYXBlJTIwYW5kJTIwaGVhciUyMHdoYXQlMjBpdCUyMHNvdW5kcyUyMGxpa2UlMjBhcyUyMGElMjBkcnVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNDYzNjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTUzJTNBMzElMjAlMkIwMDAw",
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "pubDate": "Mon, 10 Aug 2026 16:53:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaWRkZW4tcGhlbm9tZW5hLmNvbSUyRmFydGljbGVzJTJGbW9ub2Ryb215JTdDaHR0cHMlM0ElMkYlMkZoaWRkZW4tcGhlbm9tZW5hLmNvbSUyRmFydGljbGVzJTJGbW9ub2Ryb215JTdDTSVDMyVCNmJpdXMlMjBTdHJpcHMlMjBhbmQlMjBEaWZmZXJlbnRpYWwlMjBFcXVhdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI0MjA4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEwJTIwQXVnJTIwMjAyNiUyMDExJTNBMDIlM0EwNCUyMCUyQjAwMDA",
+      "title": "Möbius Strips and Differential Equations",
+      "pubDate": "Mon, 10 Aug 2026 11:02:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
     }
   ]
