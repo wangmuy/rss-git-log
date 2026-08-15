@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-15",
     "newestItemDate": "2026-08-15",
-    "itemCount": 4,
-    "generatedAt": "2026-08-15T01:52:49.847Z"
+    "itemCount": 8,
+    "generatedAt": "2026-08-15T08:48:50.403Z"
   },
   "items": [
     {
@@ -30,6 +30,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzZi5nYXpldHRlZXIuY28lMkZjb3JnaS1raWxscy1zaG9ydC1saXZlZC13ZWJzaXRlLXRoYXQtcmFua2VkLWl0cy1mZW1hbGUtZW1wbG95ZWVzJTdDaHR0cHMlM0ElMkYlMkZzZi5nYXpldHRlZXIuY28lMkZjb3JnaS1raWxscy1zaG9ydC1saXZlZC13ZWJzaXRlLXRoYXQtcmFua2VkLWl0cy1mZW1hbGUtZW1wbG95ZWVzJTdDQ29yZ2klMjBraWxscyUyMHNob3J0LWxpdmVkJTIwd2Vic2l0ZSUyMHRoYXQlMjByYW5rZWQlMjBpdHMlMjBmZW1hbGUlMjBlbXBsb3llZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwNjA4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDAwJTNBMDAlM0E1NSUyMCUyQjAwMDA",
       "title": "Corgi kills short-lived website that ranked its female employees",
       "pubDate": "Sat, 15 Aug 2026 00:00:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGVueGlhY2hhbi5naXRodWIuaW8lMkZ0aG91Z2h0ZGFnJTJGJTdDaHR0cHMlM0ElMkYlMkZjaGVueGlhY2hhbi5naXRodWIuaW8lMkZ0aG91Z2h0ZGFnJTJGJTdDU2hvdyUyMEhOJTNBJTIwVGhvdWdodERBRyUyMCVFMiU4MCU5MyUyMEFuJTIwZWRpdGFibGUlMjBjb250ZXh0JTIwZ3JhcGglMjBmb3IlMjBMTE0lMjBjb252ZXJzYXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDc3MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAwNCUzQTQyJTNBMDclMjAlMkIwMDAw",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "pubDate": "Sat, 15 Aug 2026 04:42:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25pYy5hbCUyRndyaXRpbmclMkZ0aGUtb3RoZXItc2Vhbi1ieXJuZS1kb2VzbnQtZXhpc3QlMkYlN0NodHRwcyUzQSUyRiUyRmNvbmljLmFsJTJGd3JpdGluZyUyRnRoZS1vdGhlci1zZWFuLWJ5cm5lLWRvZXNudC1leGlzdCUyRiU3Q1RoZSUyMG90aGVyJTIwU2VhbiUyMEJ5cm5lJTIwZG9lc24ndCUyMGV4aXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDc1OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAwNCUzQTE4JTNBNDQlMjAlMkIwMDAw",
+      "title": "The other Sean Byrne doesn't exist",
+      "pubDate": "Sat, 15 Aug 2026 04:18:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcHAuZGVsdGl4LmFpJTdDaHR0cHMlM0ElMkYlMkZhcHAuZGVsdGl4LmFpJTJGJTdDU2hvdyUyMEhOJTNBJTIwRGVsdGl4JTIwJUUyJTgwJTkzJUMyJUEwQUklMjBEcml2ZW4lMjBUZXN0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDcwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAwMiUzQTQyJTNBMTQlMjAlMkIwMDAw",
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "pubDate": "Sat, 15 Aug 2026 02:42:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYxODExLjAzNDU5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYxODExLjAzNDU5JTdDU2ltcGxpZnlpbmclMjBhbmQlMjBSZWZhY3RvcmluZyUyMEludHJvZHVjdG9yeSUyMENhbGN1bHVzJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDYxOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAwMCUzQTE1JTNBMjMlMjAlMkIwMDAw",
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "pubDate": "Sat, 15 Aug 2026 00:15:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
     }
   ]

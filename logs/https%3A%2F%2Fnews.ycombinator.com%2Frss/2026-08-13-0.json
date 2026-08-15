@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-13",
     "newestItemDate": "2026-08-13",
-    "itemCount": 41,
-    "generatedAt": "2026-08-14T03:02:08.731Z"
+    "itemCount": 42,
+    "generatedAt": "2026-08-15T08:48:50.403Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjdXJyZW50Lm9yZyUyRjIwMjYlMkYwOCUyRm5pbmUtcGJzLXN1ZXMtaXJvbi1tb3VudGFpbi1vdmVyLWJsb2NrZWQtYWNjZXNzLXRvLWFyY2hpdmFsLWRhdGElMkYlN0NodHRwcyUzQSUyRiUyRmN1cnJlbnQub3JnJTJGMjAyNiUyRjA4JTJGbmluZS1wYnMtc3Vlcy1pcm9uLW1vdW50YWluLW92ZXItYmxvY2tlZC1hY2Nlc3MtdG8tYXJjaGl2YWwtZGF0YSUyRiU3Q05pbmUlMjBQQlMlMjBzdWVzJTIwSXJvbiUyME1vdW50YWluJTIwb3ZlciUyMGJsb2NrZWQlMjBhY2Nlc3MlMjB0byUyMGFyY2hpdmFsJTIwZGF0YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjg1NDE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMTMlM0ExNCUzQTEyJTIwJTJCMDAwMA",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "pubDate": "Thu, 13 Aug 2026 13:14:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGlzLWNvaW4tc2l6ZWQtZGV2aWNlLWNhbi1oYWNrLWEtYm9laW5nLTczNyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGdGhpcy1jb2luLXNpemVkLWRldmljZS1jYW4taGFjay1hLWJvZWluZy03MzclMkYlN0NDb2luLXNpemVkJTIwZGV2aWNlJTIwY2FuJTIwaGFjayUyMGElMjBCb2VpbmclMjA3MzclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4Mjk1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDA3JTNBNTclM0E0MCUyMCUyQjAwMDA",
+      "title": "Coin-sized device can hack a Boeing 737",
+      "pubDate": "Thu, 13 Aug 2026 07:57:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
     }
   ]
