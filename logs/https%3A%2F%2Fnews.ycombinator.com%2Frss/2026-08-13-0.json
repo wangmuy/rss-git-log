@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-13",
     "newestItemDate": "2026-08-13",
-    "itemCount": 42,
-    "generatedAt": "2026-08-15T08:48:50.403Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-16T16:45:14.406Z"
   },
   "items": [
     {
@@ -258,6 +258,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGlzLWNvaW4tc2l6ZWQtZGV2aWNlLWNhbi1oYWNrLWEtYm9laW5nLTczNyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGdGhpcy1jb2luLXNpemVkLWRldmljZS1jYW4taGFjay1hLWJvZWluZy03MzclMkYlN0NDb2luLXNpemVkJTIwZGV2aWNlJTIwY2FuJTIwaGFjayUyMGElMjBCb2VpbmclMjA3MzclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4Mjk1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDA3JTNBNTclM0E0MCUyMCUyQjAwMDA",
       "title": "Coin-sized device can hack a Boeing 737",
       "pubDate": "Thu, 13 Aug 2026 07:57:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZod2J1c3RlcnMuY29tJTJGbmV3cyUyRmNvbW1hLWFpLWVncHUtZG9jay1ydW5zLW9wZW4tc291cmNlLWZpcm13YXJlLTI0OS1iYXJlLTc5OS13aXRoLWFuLXJ4LTkwNjAlMkYlN0NodHRwcyUzQSUyRiUyRmh3YnVzdGVycy5jb20lMkZuZXdzJTJGY29tbWEtYWktZWdwdS1kb2NrLXJ1bnMtb3Blbi1zb3VyY2UtZmlybXdhcmUtMjQ5LWJhcmUtNzk5LXdpdGgtYW4tcngtOTA2MCUyRiU3Q0NoZXN0bnV0JTIwJUUyJTgwJTkzJTIwZUdQVSUyMGRvY2slMjB3aXRoJTIwb3Blbi1zb3VyY2UlMjBmaXJtd2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjkyMzg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMjIlM0EwMSUzQTA0JTIwJTJCMDAwMA",
+      "title": "Chestnut – eGPU dock with open-source firmware",
+      "pubDate": "Thu, 13 Aug 2026 22:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbmlmZm5ldC5hcHAlMkZuZXdzJTJGZ2l0aHViLXNlY3VyZS1vcGVuLXNvdXJjZS1mdW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZzbmlmZm5ldC5hcHAlMkZuZXdzJTJGZ2l0aHViLXNlY3VyZS1vcGVuLXNvdXJjZS1mdW5kJTJGJTdDV2hhdCUyMEklMjBMZWFybmVkJTIwU2VjdXJpbmclMjBTbmlmZm5ldCUyMHdpdGglMjB0aGUlMjBHaXRIdWIlMjBTZWN1cmUlMjBPcGVuJTIwU291cmNlJTIwRnVuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjg4ODU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTMlMjBBdWclMjAyMDI2JTIwMTclM0EwMiUzQTUwJTIwJTJCMDAwMA",
+      "title": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+      "pubDate": "Thu, 13 Aug 2026 17:02:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZubmFtZ3JlYi5kZSUyRmJsb2clMkZDbGFtaWdhJTJCLSUyQkNvbW1vbiUyQkxpc3AlMkJmb3IlMkJ0aGUlMkJBbWlnYSU3Q2h0dHBzJTNBJTJGJTJGbm5hbWdyZWIuZGUlMkZibG9nJTJGQ2xhbWlnYSUyQi0lMkJDb21tb24lMkJMaXNwJTJCZm9yJTJCdGhlJTJCQW1pZ2ElN0NDbGFtaWdhJTNBJTIwQ29tbW9uJTIwTGlzcCUyMGZvciUyMHRoZSUyMEFtaWdhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODEzNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAwMyUzQTA1JTNBMzYlMjAlMkIwMDAw",
+      "title": "Clamiga: Common Lisp for the Amiga",
+      "pubDate": "Thu, 13 Aug 2026 03:05:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
     }
   ]

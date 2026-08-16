@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 8,
-    "generatedAt": "2026-08-16T08:50:05.232Z"
+    "itemCount": 21,
+    "generatedAt": "2026-08-16T16:45:14.406Z"
   },
   "items": [
     {
@@ -54,6 +54,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWljZHJvcC5nZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pY2Ryb3AuZ2clMkYlN0NTaG93JTIwSE4lM0ElMjBNaWMlMjBEcm9wJTJDJTIwYSUyMHJlYWwtdGltZSUyMG11bHRpcGxheWVyJTIwa2FyYW9rZSUyMGdhbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTc0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDAwJTNBNDYlM0EyOSUyMCUyQjAwMDA",
       "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
       "pubDate": "Sun, 16 Aug 2026 00:46:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGbW9uZXklMkYyMDI2JTJGYXVnJTJGMTYlMkZ0aGUtd2Vla2VuZC1pcy0xMDAteWVhcnMtb2xkLXNraXZlZGF5LWZyaWRheXMtYW5kLWh5YnJpZC13b3JraW5nLXJ1aW5lZC1pdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRm1vbmV5JTJGMjAyNiUyRmF1ZyUyRjE2JTJGdGhlLXdlZWtlbmQtaXMtMTAwLXllYXJzLW9sZC1za2l2ZWRheS1mcmlkYXlzLWFuZC1oeWJyaWQtd29ya2luZy1ydWluZWQtaXQlN0NUaGUlMjB3ZWVrZW5kJTIwaXMlMjAxMDAlMjB5ZWFycyUyMG9sZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIwOTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTUlM0EzMCUzQTE1JTIwJTJCMDAwMA",
+      "title": "The weekend is 100 years old",
+      "pubDate": "Sun, 16 Aug 2026 15:30:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3B0di5jb20lMkZuZXdzJTJGdHJlYXN1cmUtY29hc3QlMkZyZWdpb24tc3QtbHVjaWUtY291bnR5JTJGc2FpbnQtbHVjaWUtbnVjbGVhci1wb3dlci1wbGFudC11bml0LTEtbWFudWFsbHktc2h1dC1kb3duLWFmdGVyLTMtY29udHJvbC1yb2RzLWRyb3AtaW50by1yZWFjdG9yLWNvcmUlN0NodHRwcyUzQSUyRiUyRnd3dy53cHR2LmNvbSUyRm5ld3MlMkZ0cmVhc3VyZS1jb2FzdCUyRnJlZ2lvbi1zdC1sdWNpZS1jb3VudHklMkZzYWludC1sdWNpZS1udWNsZWFyLXBvd2VyLXBsYW50LXVuaXQtMS1tYW51YWxseS1zaHV0LWRvd24tYWZ0ZXItMy1jb250cm9sLXJvZHMtZHJvcC1pbnRvLXJlYWN0b3ItY29yZSU3Q1N0JTIwTHVjaWUlMjBOdWNsZWFyJTIwUmVhY3RvciUyMFVuaXQlMjAxJTIwbWFudWFsbHklMjBzaHV0ZG93biUyQyUyMDMlMjBjb250cm9sJTIwcm9kcyUyMGRyb3AlMjBpbnRvJTIwY29yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIwODU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTUlM0ExNiUzQTA2JTIwJTJCMDAwMA",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "pubDate": "Sun, 16 Aug 2026 15:16:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm5ld3MlMkZhbm5hbHMtb2YtaW5xdWlyeSUyRmdwcy1hbmQtdGhlLWxvc3QtYXJ0LW9mLWdldHRpbmctbG9zdCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5ld3lvcmtlci5jb20lMkZuZXdzJTJGYW5uYWxzLW9mLWlucXVpcnklMkZncHMtYW5kLXRoZS1sb3N0LWFydC1vZi1nZXR0aW5nLWxvc3QlN0NHUFMlMjBhbmQlMjB0aGUlMjBMb3N0JTIwQXJ0JTIwb2YlMjBHZXR0aW5nJTIwTG9zdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIwNjczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTQlM0E1MyUzQTE0JTIwJTJCMDAwMA",
+      "title": "GPS and the Lost Art of Getting Lost",
+      "pubDate": "Sun, 16 Aug 2026 14:53:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZWN0b3JhbC5jb20lMkZibG9nJTJGd2hvLWFyZS10aGUtdG9rZW4tYnJva2VycyU3Q2h0dHBzJTNBJTJGJTJGdmVjdG9yYWwuY29tJTJGYmxvZyUyRndoby1hcmUtdGhlLXRva2VuLWJyb2tlcnMlN0NUaGUlMjBBSSUyMENyZWRpdCUyMFJlc2FsZSUyMEVjb25vbXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMDYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDE0JTNBNDQlM0E1NSUyMCUyQjAwMDA",
+      "title": "The AI Credit Resale Economy",
+      "pubDate": "Sun, 16 Aug 2026 14:44:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YXNrbGV0LmFpJTJGY2FyZWVycyUyRmhlYWQtb2YtZGVzaWduLWVuZ2luZWVyaW5nJTdDaHR0cHMlM0ElMkYlMkZ0YXNrbGV0LmFpJTJGY2FyZWVycyUyRmhlYWQtb2YtZGVzaWduLWVuZ2luZWVyaW5nJTdDVGFza2xldCUyMChZQyUyMFAyNiklMjBJcyUyMEhpcmluZyUyMGElMjBIZWFkJTIwb2YlMjBEZXNpZ24lMjBFbmdpbmVlcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE5ODkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTMlM0EzMCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "pubDate": "Sun, 16 Aug 2026 13:30:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWxkc3RhdGljLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd2lsZHN0YXRpYy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBBJTIwcHVibGljJTIwQUklMjB3aG9zZSUyMG1lbW9yeSUyMGlzJTIwc2hhcmVkJTIwYWNyb3NzJTIwYWxsJTIwdXNlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxOTgxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDEzJTNBMjElM0E0NSUyMCUyQjAwMDA",
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "pubDate": "Sun, 16 Aug 2026 13:21:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmFuZC5vcmclMkZwdWJzJTJGcmVzZWFyY2hfcmVwb3J0cyUyRlJSQTQzMzUtMS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmFuZC5vcmclMkZwdWJzJTJGcmVzZWFyY2hfcmVwb3J0cyUyRlJSQTQzMzUtMS5odG1sJTdDQSUyMFUuUy4lMjBTdHJhdGVneSUyMHRvJTIwUHJldmVudCUyMHRoZSUyMENyZWF0aW9uJTIwb2YlMjBNaXJyb3IlMjBMaWZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTk3MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTA5JTNBNDElMjAlMkIwMDAw",
+      "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+      "pubDate": "Sun, 16 Aug 2026 13:09:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0Lm1vemlsbGEub3JnJTJGZW4tVVMlMkZrYiUyRmJsb2NrLWFkcy1maXJlZm94LWlvcyU3Q2h0dHBzJTNBJTJGJTJGc3VwcG9ydC5tb3ppbGxhLm9yZyUyRmVuLVVTJTJGa2IlMkZibG9jay1hZHMtZmlyZWZveC1pb3MlN0NGaXJlZm94JTIwZm9yJTIwaU9TJTIwbm93JTIwaGFzJTIwYSUyMG5hdGl2ZSUyMGFkYmxvY2tlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE5NjMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTIlM0E1OCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Firefox for iOS now has a native adblocker",
+      "pubDate": "Sun, 16 Aug 2026 12:58:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF0Zm9ybS5jbGF1ZGUuY29tJTJGZG9jcyUyRmVuJTJGcmVsZWFzZS1ub3RlcyUyRnN5c3RlbS1wcm9tcHRzJTdDaHR0cHMlM0ElMkYlMkZwbGF0Zm9ybS5jbGF1ZGUuY29tJTJGZG9jcyUyRmVuJTJGcmVsZWFzZS1ub3RlcyUyRnN5c3RlbS1wcm9tcHRzJTdDQ2xhdWRlJTNBJTIwU3lzdGVtJTIwUHJvbXB0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE5NTU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTIlM0E0OCUzQTIxJTIwJTJCMDAwMA",
+      "title": "Claude: System Prompts",
+      "pubDate": "Sun, 16 Aug 2026 12:48:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2hvbGFyLmdvb2dsZS5jb20lMkZzY2hvbGFyJTNGcSUzRCUyNTIya2lkbmV5JTJCZGlzYXBwb2ludG1lbnQlMjUyMiU3Q2h0dHBzJTNBJTJGJTJGc2Nob2xhci5nb29nbGUuY29tJTJGc2Nob2xhciUzRnElM0QlMjUyMmtpZG5leSUyQmRpc2FwcG9pbnRtZW50JTI1MjIlN0NSZXNlYXJjaCUyMHBhcGVycyUyMHVzaW5nJTIwJTIya2lkbmV5JTIwZGlzYXBwb2ludG1lbnQlMjIlMjBpbnN0ZWFkJTIwb2YlMjAlMjJraWRuZXklMjBmYWlsdXJlJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTkzODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxMiUzQTIyJTNBMjAlMjAlMkIwMDAw",
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "pubDate": "Sun, 16 Aug 2026 12:22:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlaTNsaC5ldSUyRjIwMjYlMkYwOCUyRjE2JTJGYS10cnVlLXRlbG5ldC1iYnMtb24tYS1jYXNpby1jYWxjdWxhdG9yJTJGJTdDaHR0cHMlM0ElMkYlMkZlaTNsaC5ldSUyRjIwMjYlMkYwOCUyRjE2JTJGYS10cnVlLXRlbG5ldC1iYnMtb24tYS1jYXNpby1jYWxjdWxhdG9yJTJGJTdDQSUyMFRydWUlMjBUZWxuZXQlMjBCQlMlMjBvbiUyMGElMjBDYXNpbyUyMENhbGN1bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxOTM0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDEyJTNBMTYlM0EyMSUyMCUyQjAwMDA",
+      "title": "A True Telnet BBS on a Casio Calculator",
+      "pubDate": "Sun, 16 Aug 2026 12:16:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZXRlcmJsb2VtLm5sJTJGYmxvZyUyRmNyYWZ0LWNvZGluZyU3Q2h0dHBzJTNBJTJGJTJGcGV0ZXJibG9lbS5ubCUyRmJsb2clMkZjcmFmdC1jb2RpbmclN0NBSSUyMENvZGluZyUyMFdpdGhvdXQlMjB0aGUlMjBWaWJlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE4NzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTAlM0EzMSUzQTM2JTIwJTJCMDAwMA",
+      "title": "AI Coding Without the Vibes",
+      "pubDate": "Sun, 16 Aug 2026 10:31:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW5rZXJpbmdzLm9yZyUyRjIwMTglMkYwMyUyRjI4JTJGZ3VpZGluZy1zaGlwcy13aXRoLW1vaXJlLXBhdHRlcm5zJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aW5rZXJpbmdzLm9yZyUyRjIwMTglMkYwMyUyRjI4JTJGZ3VpZGluZy1zaGlwcy13aXRoLW1vaXJlLXBhdHRlcm5zJTJGJTdDR3VpZGluZyUyMFNoaXBzJTIwd2l0aCUyME1vaXJlJTIwUGF0dGVybnMlMjAoMjAxOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTk5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDAxJTNBMjYlM0E0NCUyMCUyQjAwMDA",
+      "title": "Guiding Ships with Moire Patterns (2018)",
+      "pubDate": "Sun, 16 Aug 2026 01:26:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }
   ]

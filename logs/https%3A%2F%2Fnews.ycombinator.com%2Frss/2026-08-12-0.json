@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-12",
     "newestItemDate": "2026-08-12",
-    "itemCount": 62,
-    "generatedAt": "2026-08-16T08:50:05.233Z"
+    "itemCount": 65,
+    "generatedAt": "2026-08-16T16:45:14.406Z"
   },
   "items": [
     {
@@ -378,6 +378,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZub3RlYm9vay5saW5rJTJGYmxvZyUyRm51bWJhLWluLXRoZS1icm93c2VyJTJGJTdDaHR0cHMlM0ElMkYlMkZub3RlYm9vay5saW5rJTJGYmxvZyUyRm51bWJhLWluLXRoZS1icm93c2VyJTJGJTdDTnVtYmElMjBpbiUyMHRoZSUyMEJyb3dzZXIlM0ElMjBVbmxvY2tpbmclMjBhJTIwTmV3JTIwU2NpZW50aWZpYyUyMFB5dGhvbiUyMFN0YWNrJTIwaW4lMjBKdXB5dGVyTGl0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY5NDUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMDglM0E0NCUzQTIzJTIwJTJCMDAwMA",
       "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
       "pubDate": "Wed, 12 Aug 2026 08:44:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFuZHVyLm9yZyUyRmZyYWdtZW50cyUyRnBvc3RncmVzLXdpdGhvdXQtcGdib3VuY2VyJTdDaHR0cHMlM0ElMkYlMkZicmFuZHVyLm9yZyUyRmZyYWdtZW50cyUyRnBvc3RncmVzLXdpdGhvdXQtcGdib3VuY2VyJTdDRG9lcyUyMGFueW9uZSUyMHJ1biUyMFBvc3RncmVzJTIwd2l0aG91dCUyMFBnQm91bmNlciUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjc3OTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMjAlM0ExMyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Does anyone run Postgres without PgBouncer?",
+      "pubDate": "Wed, 12 Aug 2026 20:13:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTg2LTAyNi0xMDg1Ny0xJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTg2LTAyNi0xMDg1Ny0xJTdDU3VwZXJjb25kdWN0aW5nJTIwbW9ub2xheWVyJTIwY3VwcmF0ZSUyMHdpdGglMjBhJTIwc2luZ2xlJTIwQ3VPMiUyMHBsYW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNzcxNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMiUyMEF1ZyUyMDIwMjYlMjAxOSUzQTA3JTNBMDYlMjAlMkIwMDAw",
+      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+      "pubDate": "Wed, 12 Aug 2026 19:07:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjA4NDIxJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjA4NDIxJTdDQSUyMFNBVCUyMEF0dGFjayUyMG9uJTIwVGFyc2tpJ3MlMjBIaWdoJTIwU2Nob29sJTIwQWxnZWJyYSUyMFByb2JsZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2ODU2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDA2JTNBMzAlM0E1NyUyMCUyQjAwMDA",
+      "title": "A SAT Attack on Tarski's High School Algebra Problem",
+      "pubDate": "Wed, 12 Aug 2026 06:30:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
     }
   ]
