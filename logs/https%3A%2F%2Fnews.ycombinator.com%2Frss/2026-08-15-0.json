@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-15",
     "newestItemDate": "2026-08-15",
-    "itemCount": 25,
-    "generatedAt": "2026-08-15T16:44:25.718Z"
+    "itemCount": 44,
+    "generatedAt": "2026-08-16T02:00:01.721Z"
   },
   "items": [
     {
@@ -156,6 +156,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkaW9zLmRpc25leXJlc2VhcmNoLmNvbSUyRjIwMjYlMkYwNyUyRjE2JTJGMmQtZ2F1c3NpYW4tc3BsYXR0aW5nLWZvci1iZXppZXItc3BsaW5lLWxpbmUtYXJ0LXZlY3Rvcml6YXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRnN0dWRpb3MuZGlzbmV5cmVzZWFyY2guY29tJTJGMjAyNiUyRjA3JTJGMTYlMkYyZC1nYXVzc2lhbi1zcGxhdHRpbmctZm9yLWJlemllci1zcGxpbmUtbGluZS1hcnQtdmVjdG9yaXphdGlvbiUyRiU3QzJEJTIwR2F1c3NpYW4lMjBTcGxhdHRpbmclMjBmb3IlMjBCJUMzJUE5emllciUyMFNwbGluZSUyMExpbmUlMjBBcnQlMjBWZWN0b3JpemF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDYzMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAwMCUzQTM2JTNBMDElMjAlMkIwMDAw",
       "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
       "pubDate": "Sat, 15 Aug 2026 00:36:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdHVydHVzaGlnMjItYmxpcCUyRnRlYTU3NjctcmFkaW8tdHVuZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ0dXJ0dXNoaWcyMi1ibGlwJTJGdGVhNTc2Ny1yYWRpby10dW5lciU3Q1RlYTU3NjctUmFkaW8tVHVuZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTQ1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDIzJTNBNTQlM0EzNSUyMCUyQjAwMDA",
+      "title": "Tea5767-Radio-Tuner",
+      "pubDate": "Sat, 15 Aug 2026 23:54:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdWdhcnRyYWNrLWJldGEudmVyY2VsLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGc3VnYXJ0cmFjay1iZXRhLnZlcmNlbC5hcHAlMkYlN0NTdWdhclRyYWNrJTIwJUUyJTgwJTkzJTIwYW4lMjBvZmZsaW5lJTIwQW5kcm9pZCUyMGxvZ2Jvb2slMjBmb3IlMjBibG9vZCUyMHN1Z2FyJTIwKG5vJTIwYWNjb3VudCUyQyUyMG5vJTIwY2xvdWQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTQ4ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAyMiUzQTI4JTNBMTQlMjAlMkIwMDAw",
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "pubDate": "Sat, 15 Aug 2026 22:28:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZXNjdS5yZSUyRmtlZXRhLWNvbnNlbnN1cy5wZGYlN0NodHRwcyUzQSUyRiUyRnhlc2N1LnJlJTJGa2VldGEtY29uc2Vuc3VzLnBkZiU3Q01vZGVsaW5nJTIwYW5kJTIwVmVyaWZpY2F0aW9uJTIwb2YlMjBLZWV0YSdzJTIwQ29uc2Vuc3VzJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTQ2NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAyMSUzQTQ5JTNBNDUlMjAlMkIwMDAw",
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "pubDate": "Sat, 15 Aug 2026 21:49:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmRpZ2l0YWwtc2lnbmFsLXByb2Nlc3NpbmclN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGZGlnaXRhbC1zaWduYWwtcHJvY2Vzc2luZyU3Q0JlZGUlMjBMaXUlMkMlMjBhJTIwZGlnaXRhbCUyMHNpZ25hbCUyMHByb2Nlc3NpbmclMjBwaW9uZWVyJTJDJTIwaGFzJTIwZGllZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE0NjE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMjElM0E0NSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "pubDate": "Sat, 15 Aug 2026 21:45:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRldvdyFfc2lnbmFsJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRldvdyFfc2lnbmFsJTdDVGhlJTIwV293JTIwc2lnbmFsJTIwd2FzJTIwYSUyMHN0cm9uZyUyMG5hcnJvd2JhbmQlMjByYWRpbyUyMHNpZ25hbCUyMGRldGVjdGVkJTIwb24lMjBBdWd1c3QlMjAxNSUyQyUyMDE5NzclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNDU5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDIxJTNBNDIlM0E0NyUyMCUyQjAwMDA",
+      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+      "pubDate": "Sat, 15 Aug 2026 21:42:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNoYWVsLnN0YXBlbGJlcmcuY2glMkZwb3N0cyUyRjIwMjYtMDgtMDktenNoLWhpc3RvcnktdHJ1bmNhdGlvbi1idWclMkYlN0NodHRwcyUzQSUyRiUyRm1pY2hhZWwuc3RhcGVsYmVyZy5jaCUyRnBvc3RzJTJGMjAyNi0wOC0wOS16c2gtaGlzdG9yeS10cnVuY2F0aW9uLWJ1ZyUyRiU3Q1RyYWNraW5nJTIwZG93biUyMGElMjBac2glMjBoaXN0b3J5JTIwZGF0YSUyMGxvc3MlMjBidWclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNDU3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDIxJTNBMzklM0EwOSUyMCUyQjAwMDA",
+      "title": "Tracking down a Zsh history data loss bug",
+      "pubDate": "Sat, 15 Aug 2026 21:39:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWNjLm9yZyUyRmFib3V0LWFjYyUyRnByZXNzLXJlbGVhc2VzJTJGMjAyNiUyRjA4JTJGMTElMkYxNCUyRjU5JTJGYWJkb21pbmFsLWZhdC1wcmVkaWN0cy1oZWFydC1kaXNlYXNlLXJpc2stYmV0dGVyLXRoYW4tYm1pJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWNjLm9yZyUyRmFib3V0LWFjYyUyRnByZXNzLXJlbGVhc2VzJTJGMjAyNiUyRjA4JTJGMTElMkYxNCUyRjU5JTJGYWJkb21pbmFsLWZhdC1wcmVkaWN0cy1oZWFydC1kaXNlYXNlLXJpc2stYmV0dGVyLXRoYW4tYm1pJTdDQWJkb21pbmFsJTIwZmF0JTIwcHJlZGljdHMlMjBoZWFydCUyMGRpc2Vhc2UlMjByaXNrJTIwYmV0dGVyJTIwdGhhbiUyMEJNSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE0NDAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMjElM0ExNCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "pubDate": "Sat, 15 Aug 2026 21:14:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVucmlra2FybHNzb24ueHl6JTJGcCUyRmdvb2QtaWRlYXMlN0NodHRwcyUzQSUyRiUyRnd3dy5oZW5yaWtrYXJsc3Nvbi54eXolMkZwJTJGZ29vZC1pZGVhcyU3Q0N1bHRpdmF0aW5nJTIwYSUyMHN0YXRlJTIwb2YlMjBtaW5kJTIwd2hlcmUlMjBuZXclMjBpZGVhcyUyMGFyZSUyMGJvcm4lMjAoMjAyMyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNDIzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDIwJTNBNTQlM0ExMSUyMCUyQjAwMDA",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "pubDate": "Sat, 15 Aug 2026 20:54:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2V2ZXJlLXdlYXRoZXIuZXUlMkZsb25nLXJhbmdlLTIlMkZzdXBlci1lbC1uaW5vLWdyb3d0aC1hY2NlbGVyYXRpbmctdG8tcmVjb3JkLXN0cmVuZ3RoLWZhbGwtd2ludGVyLTIwMjYtMjAyNy1mb3JlY2FzdC1pbXBhY3QtdW5pdGVkLXN0YXRlcy1jYW5hZGEtZXVyb3BlLWZhJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2V2ZXJlLXdlYXRoZXIuZXUlMkZsb25nLXJhbmdlLTIlMkZzdXBlci1lbC1uaW5vLWdyb3d0aC1hY2NlbGVyYXRpbmctdG8tcmVjb3JkLXN0cmVuZ3RoLWZhbGwtd2ludGVyLTIwMjYtMjAyNy1mb3JlY2FzdC1pbXBhY3QtdW5pdGVkLXN0YXRlcy1jYW5hZGEtZXVyb3BlLWZhJTJGJTdDU3VwZXIlMjBFbCUyME5pJUMzJUIxbyUyMEtlZXBzJTIwR3Jvd2luZyUyMGFzJTIwTmV3JTIwRm9yZWNhc3RzJTIwUmVhY2glMjBSZWNvcmQlMjBUZXJyaXRvcnklMjBBaGVhZCUyMFdpbnRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzEzNDI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMTklM0EyMCUzQTUxJTIwJTJCMDAwMA",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "pubDate": "Sat, 15 Aug 2026 19:20:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGc28taG93LWFpLWRydWctZGlzY292ZXJ5LWRvaW5nLXJlYWxseSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmJsb2ctcG9zdCUyRnNvLWhvdy1haS1kcnVnLWRpc2NvdmVyeS1kb2luZy1yZWFsbHklN0NBSSUyMGluJTIwZHJ1ZyUyMGRpc2NvdmVyeSUyMCVFMiU4MCU5MyUyMHdoYXQlMjBpdCUyMGlzJTJDJTIwd2hlcmUlMjB3ZSUyMHN0YW5kJTIwYW5kJTIwdGhlJTIwcGF0aCUyMGZvcndhcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMzM2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE5JTNBMTIlM0E1MyUyMCUyQjAwMDA",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "pubDate": "Sat, 15 Aug 2026 19:12:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGd213dyUyRnRhd2MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ3bXd3JTJGdGF3YyU3Q1Rlc3MncyUyMEFuZHJvaWQlMjBXYXlsYW5kJTIwQ29tcG9zaXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzEzMDY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMTglM0EzNCUzQTI2JTIwJTJCMDAwMA",
+      "title": "Tess's Android Wayland Compositor",
+      "pubDate": "Sat, 15 Aug 2026 18:34:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGdm9sdGFpciUyRmpvYnMlMkZzU09EMk94LWZsaWdodC10ZXN0LWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGdm9sdGFpciUyRmpvYnMlMkZzU09EMk94LWZsaWdodC10ZXN0LWVuZ2luZWVyJTdDVm9sdGFpciUyMChZQyUyMFcyNiklMjBJcyUyMEhpcmluZyUyMGElMjBUZXN0JTIwRmxpZ2h0JTIwRW5naW5lZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMzA0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE4JTNBMzMlM0EyNSUyMCUyQjAwMDA",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "pubDate": "Sat, 15 Aug 2026 18:33:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZGVwaWZmZXIuY29tJTJGcCUyRmFpLWlzbnQtb3V0dGhpbmtpbmctbWF0aGVtYXRpY2lhbnMlN0NodHRwcyUzQSUyRiUyRmRhdmlkZXBpZmZlci5jb20lMkZwJTJGYWktaXNudC1vdXR0aGlua2luZy1tYXRoZW1hdGljaWFucyU3Q0FJJTIwaGFzJTIwYWNjZXNzJTIwdG8lMjBhJTIwdmFzdGx5JTIwbGFyZ2VyJTIwd29ya2luZyUyMG1lbW9yeSUyMHRoYW4lMjB0aGUlMjBodW1hbiUyMGJyYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTI4NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTEzJTNBMDIlMjAlMkIwMDAw",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpzYmFycmV0dG8uY29tJTJGcG9zdCUyRmktcmVtYWluLWEtc2tlcHRpYyU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qc2JhcnJldHRvLmNvbSUyRnBvc3QlMkZpLXJlbWFpbi1hLXNrZXB0aWMlN0NJJTIwUmVtYWluJTIwYSUyMFNrZXB0aWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMjA1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE2JTNBNDIlM0E1OCUyMCUyQjAwMDA",
+      "title": "I Remain a Skeptic",
+      "pubDate": "Sat, 15 Aug 2026 16:42:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHotam91cm5hbHMub25saW5lbGlicmFyeS53aWxleS5jb20lMkZkb2klMkYxMC4xMDAyJTJGZGFkMi43MDQzMiU3Q2h0dHBzJTNBJTJGJTJGYWx6LWpvdXJuYWxzLm9ubGluZWxpYnJhcnkud2lsZXkuY29tJTJGZG9pJTJGMTAuMTAwMiUyRmRhZDIuNzA0MzIlN0NTZW1hZ2x1dGlkZSUyMGxpbmtlZCUyMHRvJTIwbG93ZXIlMjBwcmVkaWN0ZWQlMjBkZW1lbnRpYSUyMHJpc2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMTY1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE1JTNBNTglM0E1MyUyMCUyQjAwMDA",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "pubDate": "Sat, 15 Aug 2026 15:58:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFtcGZrcmFmdC5jb20lMkZnaG9zdC1jaGFyYWN0ZXJzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYW1wZmtyYWZ0LmNvbSUyRmdob3N0LWNoYXJhY3RlcnMuaHRtbCU3Q0ElMjBzcGVjdHJlJTIwaXMlMjBoYXVudGluZyUyMFVuaWNvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMDkyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE0JTNBMzQlM0EwNCUyMCUyQjAwMDA",
+      "title": "A spectre is haunting Unicode",
+      "pubDate": "Sat, 15 Aug 2026 14:34:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmludHl0cm9uLmNvbSU3Q2h0dHBzJTNBJTJGJTJGcHJpbnR5dHJvbi5jb20lMkYlN0NQcmludHl0cm9uJTIwJUUyJTgwJTkzJTIwRGVzY3JpYmUlMjBhJTIwcGFydCUyQyUyMGdldCUyMGElMjBwcmludGFibGUlMjBTVEwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxMDgyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDE0JTNBMjIlM0EyMCUyMCUyQjAwMDA",
+      "title": "Printytron – Describe a part, get a printable STL",
+      "pubDate": "Sat, 15 Aug 2026 14:22:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGaW5ub3ZhdGlvbiUyRnRoZS1maXJzdC1hdC1ob21lLXRlc3QtZm9yLWluZmVjdGVkLXRpY2tzLWNvdWxkLWltcHJvdmUtbHltZS1kaXNlYXNlLWRpYWdub3Npcy0xODA5ODkyMzUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZpbm5vdmF0aW9uJTJGdGhlLWZpcnN0LWF0LWhvbWUtdGVzdC1mb3ItaW5mZWN0ZWQtdGlja3MtY291bGQtaW1wcm92ZS1seW1lLWRpc2Vhc2UtZGlhZ25vc2lzLTE4MDk4OTIzNSUyRiU3Q0F0LWhvbWUlMjB0ZXN0JTIwZm9yJTIwaW5mZWN0ZWQlMjB0aWNrcyUyMGNvdWxkJTIwaW1wcm92ZSUyMEx5bWUlMjBEaXNlYXNlJTIwZGlhZ25vc2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTA2ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTA0JTNBNDklMjAlMkIwMDAw",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "pubDate": "Sat, 15 Aug 2026 14:04:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGxlbi5iYXJnaS5vcmclMkZub3RlcyUyRndvcmtpbmctd2l0aC1haS1mZWVscy1saWtlLWxlYWRlcnNoaXAlMkYlN0NodHRwcyUzQSUyRiUyRmFsbGVuLmJhcmdpLm9yZyUyRm5vdGVzJTJGd29ya2luZy13aXRoLWFpLWZlZWxzLWxpa2UtbGVhZGVyc2hpcCUyRiU3Q1dvcmtpbmclMjB3aXRoJTIwQUklMjBmZWVscyUyMG1vcmUlMjBsaWtlJTIwbGVhZGVyc2hpcCUyMHRoYW4lMjBjb2RpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMwOTQ1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDEwJTNBMzklM0E0MSUyMCUyQjAwMDA",
+      "title": "Working with AI feels more like leadership than coding",
+      "pubDate": "Sat, 15 Aug 2026 10:39:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
     }
   ]

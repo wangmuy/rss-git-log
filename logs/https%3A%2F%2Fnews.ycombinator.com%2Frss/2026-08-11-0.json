@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-11",
     "newestItemDate": "2026-08-11",
-    "itemCount": 42,
-    "generatedAt": "2026-08-15T16:44:25.719Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-16T02:00:01.722Z"
   },
   "items": [
     {
@@ -258,6 +258,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsdWRlbnMuY2wlMkZwaG90byUyRnNwZWN0cmElMkZzcGVjdHJhLmh0bWwlN0NodHRwcyUzQSUyRiUyRmx1ZGVucy5jbCUyRnBob3RvJTJGc3BlY3RyYSUyRnNwZWN0cmEuaHRtbCU3Q1RoZSUyMENvbG9yJTIwb2YlMjBXaGl0ZSUyMExpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjA1ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTE4JTNBNTMlMjAlMkIwMDAw",
       "title": "The Color of White Light",
       "pubDate": "Tue, 11 Aug 2026 16:18:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWJoaXJhbWFzb25ueSUyRmphaXRob24lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhYmhpcmFtYXNvbm55JTJGamFpdGhvbiU3Q0phaXRob24lMjAzJTJDJTIwYSUyMGZhc3QlMjBwcm9ncmFtbWluZyUyMGxhbmd1YWdlJTIwd2l0aCUyMHRoZSUyMHBlcmZlY3QlMjBzeW50YXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI2NTc2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDExJTIwQXVnJTIwMjAyNiUyMDIzJTNBMTMlM0E1NyUyMCUyQjAwMDA",
+      "title": "Jaithon 3, a fast programming language with the perfect syntax",
+      "pubDate": "Tue, 11 Aug 2026 23:13:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0ZXIuZGV2JTJGYmxvZyUyRnNvbWV0aGluZy1ub2JvZHktdG9sZC15b3UtYWJvdXQtdGhlLWltYWdlLWVsZW1lbnQtaXQtY2FuLW92ZXJmbG93JTJGJTdDaHR0cHMlM0ElMkYlMkZtYXN0ZXIuZGV2JTJGYmxvZyUyRnNvbWV0aGluZy1ub2JvZHktdG9sZC15b3UtYWJvdXQtdGhlLWltYWdlLWVsZW1lbnQtaXQtY2FuLW92ZXJmbG93JTJGJTdDQW4lMjBpbWFnZSUyMGNhbiUyMG92ZXJmbG93JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjE0MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTE2JTNBMzglMjAlMkIwMDAw",
+      "title": "An image can overflow",
+      "pubDate": "Tue, 11 Aug 2026 17:16:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYmxnaC5vcmclMkZwb3N0cyUyRjIwMjYtMDctMzEtcGl6emEtYm94LXByb2plY3Qtc3RhY2slMkYlN0NodHRwcyUzQSUyRiUyRmNibGdoLm9yZyUyRnBvc3RzJTJGMjAyNi0wNy0zMS1waXp6YS1ib3gtcHJvamVjdC1zdGFjayUyRiU3Q1BpenphJTIwQm94JTIwUHJvamVjdCUyMFN0YWNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNTgxNzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTQwJTNBMzclMjAlMkIwMDAw",
+      "title": "Pizza Box Project Stack",
+      "pubDate": "Tue, 11 Aug 2026 13:40:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
     }
   ]
