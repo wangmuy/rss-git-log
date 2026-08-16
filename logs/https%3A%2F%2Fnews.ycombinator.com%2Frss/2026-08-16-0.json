@@ -4,14 +4,56 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 1,
-    "generatedAt": "2026-08-16T02:00:01.720Z"
+    "itemCount": 8,
+    "generatedAt": "2026-08-16T08:50:05.232Z"
   },
   "items": [
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVHJhY2VDb2hlblRlY2glMkZhaS1zZW8tcGxheWJvb2slN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZUcmFjZUNvaGVuVGVjaCUyRmFpLXNlby1wbGF5Ym9vayU3Q1RoZSUyMGNvbXBsZXRlJTIwQUklMjBTRU8lMjBwbGF5Ym9vayUzQSUyMGZyb20lMjB6ZXJvJTIwdG8lMjA0LjZNJTIwaW1wcmVzc2lvbnMlMjBpbiUyMDMlMjBtb250aHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTYyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDAwJTNBMTklM0E1OSUyMCUyQjAwMDA",
       "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
       "pubDate": "Sun, 16 Aug 2026 00:19:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXR0bGVsZWFybmVyLWxsLmdpdGh1Yi5pbyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGl0dGxlbGVhcm5lci1sbC5naXRodWIuaW8lMkYlN0NXaGF0JTIwaGFwcGVucyUyMHdoZW4lMjBhbiUyMExMTSUyMG5ldmVyJTIwc2VlcyUyMG1hdGVyaWFsJTIwYmV5b25kJTIwZmlmdGglMjBncmFkZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE3NzYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMDclM0EzNyUzQTUzJTIwJTJCMDAwMA",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "pubDate": "Sun, 16 Aug 2026 07:37:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmFsc3RhZC5jb20lMkZtYXRocGh5c2ljcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZmFsc3RhZC5jb20lMkZtYXRocGh5c2ljcy5odG1sJTdDRmFsc3RhZCUyME1hdGglMjBhbmQlMjBQaHlzaWNzJTIwU2ltdWxhdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNjg3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDA0JTNBMTklM0EzMiUyMCUyQjAwMDA",
+      "title": "Falstad Math and Physics Simulations",
+      "pubDate": "Sun, 16 Aug 2026 04:19:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZubnRhbGViLnN1YnN0YWNrLmNvbSUyRnAlMkZoYXZlLWFub3RoZXItZHJpbmslN0NodHRwcyUzQSUyRiUyRm5udGFsZWIuc3Vic3RhY2suY29tJTJGcCUyRmhhdmUtYW5vdGhlci1kcmluayU3Q0dvdmVybm1lbnQlMjBzcG9uc29yZWQlMjBzdHVkeSUyMG9uJTIwYWxjb2hvbCUyMGRvZXNuJ3QlMjBzdGFuZCUyMHVwJTIwdG8lMjBzY3J1dGlueSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE2NjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMDMlM0EyMyUzQTM0JTIwJTJCMDAwMA",
+      "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
+      "pubDate": "Sun, 16 Aug 2026 03:23:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnN0aW11bGF0ZWQtZ2VvbG9naWMtaHlkcm9nZW4lN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGc3RpbXVsYXRlZC1nZW9sb2dpYy1oeWRyb2dlbiU3Q1phcHBpbmclMjBSb2NrcyUyMFVubG9ja3MlMjBTdGltdWxhdGVkJTIwR2VvbG9naWMlMjBIeWRyb2dlbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE2Mzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMDIlM0EzNiUzQTEwJTIwJTJCMDAwMA",
+      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+      "pubDate": "Sun, 16 Aug 2026 02:36:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGbXVsdGlhZ2VudC1zeXN0ZW1zJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGbXVsdGlhZ2VudC1zeXN0ZW1zJTdDUGF0dGVybnMlMjBhbmQlMjBwcm9ibGVtcyUyMGluJTIwZW1lcmdpbmclMjBtdWx0aS1hZ2VudCUyMHN5c3RlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNjI3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDAyJTNBMTIlM0E1MyUyMCUyQjAwMDA",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "pubDate": "Sun, 16 Aug 2026 02:12:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW5rZXJpbmdzLm9yZyUyRjIwMTglMkYwMyUyRjI4JTJGZ3VpZGluZy1zaGlwcy13aXRoLW1vaXJlLXBhdHRlcm5zJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aW5rZXJpbmdzLm9yZyUyRjIwMTglMkYwMyUyRjI4JTJGZ3VpZGluZy1zaGlwcy13aXRoLW1vaXJlLXBhdHRlcm5zJTJGJTdDR3VpZGluZyUyMFNoaXBzJTIwd2l0aCUyME1vaXJlJTIwUGF0dGVybnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTk5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDAxJTNBMjYlM0E0NCUyMCUyQjAwMDA",
+      "title": "Guiding Ships with Moire Patterns",
+      "pubDate": "Sun, 16 Aug 2026 01:26:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWljZHJvcC5nZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pY2Ryb3AuZ2clMkYlN0NTaG93JTIwSE4lM0ElMjBNaWMlMjBEcm9wJTJDJTIwYSUyMHJlYWwtdGltZSUyMG11bHRpcGxheWVyJTIwa2FyYW9rZSUyMGdhbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTc0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDAwJTNBNDYlM0EyOSUyMCUyQjAwMDA",
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "pubDate": "Sun, 16 Aug 2026 00:46:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }
   ]
