@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-11",
     "newestItemDate": "2026-08-11",
-    "itemCount": 46,
-    "generatedAt": "2026-08-16T08:50:05.233Z"
+    "itemCount": 49,
+    "generatedAt": "2026-08-17T01:57:52.811Z"
   },
   "items": [
     {
@@ -282,6 +282,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBpY2tjb2RlLmlvJTJGcHJvZ3JhbS13aXRoLXBhaW50LWJydXNoZXMtbm90LXBlbmNpbHMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cucGlja2NvZGUuaW8lMkZwcm9ncmFtLXdpdGgtcGFpbnQtYnJ1c2hlcy1ub3QtcGVuY2lscyUyRiU3Q1Byb2dyYW0lMjB3aXRoJTIwUGFpbnQlMjBCcnVzaGVzJTJDJTIwTm90JTIwUGVuY2lscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU5ODkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTUlM0EzMCUzQTA0JTIwJTJCMDAwMA",
       "title": "Program with Paint Brushes, Not Pencils",
       "pubDate": "Tue, 11 Aug 2026 15:30:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWFudmlzaXRzLmNvLnVrJTJGYXJ0aWNsZXMlMkZiZWZvcmUtcmlnaHRtb3ZlLXRoZXJlLXdhcy10aGUtY29zbW9yYW1hLWxvbmRvbnMtZm9yZ290dGVuLXByb3BlcnR5LWlubm92YXRpb24tOTE2ODclMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5pYW52aXNpdHMuY28udWslMkZhcnRpY2xlcyUyRmJlZm9yZS1yaWdodG1vdmUtdGhlcmUtd2FzLXRoZS1jb3Ntb3JhbWEtbG9uZG9ucy1mb3Jnb3R0ZW4tcHJvcGVydHktaW5ub3ZhdGlvbi05MTY4NyUyRiU3Q0JlZm9yZSUyMFJpZ2h0bW92ZSUyQyUyMHRoZXJlJTIwd2FzJTIwdGhlJTIwQ29zbW9yYW1hJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyNjAyNjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTU2JTNBMDElMjAlMkIwMDAw",
+      "title": "Before Rightmove, there was the Cosmorama",
+      "pubDate": "Tue, 11 Aug 2026 15:56:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWtpLmxvd3RlY2hsYWIub3JnJTJGd2lraSUyRkZpbHRyZV8lMjVDMyUyNUEwX2VhdV9jJTI1QzMlMjVBOXJhbWlxdWUlMkZlbiU3Q2h0dHBzJTNBJTJGJTJGd2lraS5sb3d0ZWNobGFiLm9yZyUyRndpa2klMkZGaWx0cmVfJTI1QzMlMjVBMF9lYXVfYyUyNUMzJTI1QTlyYW1pcXVlJTJGZW4lN0NMb3ctVGVjaCUyMENlcmFtaWMlMjBXYXRlciUyMEZpbHRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU5OTgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTUlM0EzNiUzQTI3JTIwJTJCMDAwMA",
+      "title": "Low-Tech Ceramic Water Filter",
+      "pubDate": "Tue, 11 Aug 2026 15:36:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tdW5pdHkud29sZnJhbS5jb20lMkZncm91cHMlMkYtJTJGbSUyRnQlMkYxMjIwOTUlN0NodHRwcyUzQSUyRiUyRmNvbW11bml0eS53b2xmcmFtLmNvbSUyRmdyb3VwcyUyRi0lMkZtJTJGdCUyRjEyMjA5NSU3Q0RhbmNpbmclMjB3aXRoJTIwZnJpZW5kcyUyMGFuZCUyMGVuZW1pZXMlM0ElMjBib2lkcyclMjBzd2FybSUyMGludGVsbGlnZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjU3MzYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTElMjBBdWclMjAyMDI2JTIwMTIlM0E0MCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Dancing with friends and enemies: boids' swarm intelligence",
+      "pubDate": "Tue, 11 Aug 2026 12:40:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-11-0.json"
     }
   ]

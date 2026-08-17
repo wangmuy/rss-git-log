@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-14",
     "newestItemDate": "2026-08-14",
-    "itemCount": 42,
-    "generatedAt": "2026-08-15T16:44:25.718Z"
+    "itemCount": 44,
+    "generatedAt": "2026-08-17T01:57:52.810Z"
   },
   "items": [
     {
@@ -258,6 +258,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkbWl0cnkuZ3IlMkYlM0ZyJTNEMDYuJTI1MjBUaG91Z2h0cyUyNnByb2olM0QxMi4lMjUyMFJWJTdDaHR0cHMlM0ElMkYlMkZkbWl0cnkuZ3IlMkYlM0ZyJTNEMDYuJTJCVGhvdWdodHMlMjZwcm9qJTNEMTIuJTJCUlYlN0NSSVNDLVYlM0ElMjBUaGV5JTIwU2hvdWxkJTIwSGF2ZSUyMEtub3duJTIwQmV0dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyOTgwMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxMiUzQTUwJTNBNTYlMjAlMkIwMDAw",
       "title": "RISC-V: They Should Have Known Better",
       "pubDate": "Fri, 14 Aug 2026 12:50:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tb25yZWFkZXIud3VzdGwuZWR1JTJGd2lubmluZy1hbmQtbG9zaW5nLWF0LXRoZS1ncmVhdC1nYW1lLW9mLWludGltYWN5JTJGJTdDaHR0cHMlM0ElMkYlMkZjb21tb25yZWFkZXIud3VzdGwuZWR1JTJGd2lubmluZy1hbmQtbG9zaW5nLWF0LXRoZS1ncmVhdC1nYW1lLW9mLWludGltYWN5JTJGJTdDQW50b24lMjBDaGVraG92JTIwcGxheWVkJTIwYXQlMjBsb3ZlJTIwbW9zdCUyMG9mJTIwaGlzJTIwbGlmZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzA2MDIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMjMlM0E1MyUzQTQzJTIwJTJCMDAwMA",
+      "title": "Anton Chekhov played at love most of his life",
+      "pubDate": "Fri, 14 Aug 2026 23:53:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXJuc3RlaW5iZWFyLmNvbSUyRmJsb2clMkZ6a3AlMkYlN0NodHRwcyUzQSUyRiUyRmJlcm5zdGVpbmJlYXIuY29tJTJGYmxvZyUyRnprcCUyRiU3Q0ElMjBxdWljayUyMGxvb2slMjBhdCUyMHplcm8ta25vd2xlZGdlJTIwcHJvb2ZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDM3NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTUyJTNBMDUlMjAlMkIwMDAw",
+      "title": "A quick look at zero-knowledge proofs",
+      "pubDate": "Fri, 14 Aug 2026 19:52:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
     }
   ]

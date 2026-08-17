@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 21,
-    "generatedAt": "2026-08-16T16:45:14.406Z"
+    "itemCount": 31,
+    "generatedAt": "2026-08-17T01:57:52.810Z"
   },
   "items": [
     {
@@ -132,6 +132,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aW5rZXJpbmdzLm9yZyUyRjIwMTglMkYwMyUyRjI4JTJGZ3VpZGluZy1zaGlwcy13aXRoLW1vaXJlLXBhdHRlcm5zJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aW5rZXJpbmdzLm9yZyUyRjIwMTglMkYwMyUyRjI4JTJGZ3VpZGluZy1zaGlwcy13aXRoLW1vaXJlLXBhdHRlcm5zJTJGJTdDR3VpZGluZyUyMFNoaXBzJTIwd2l0aCUyME1vaXJlJTIwUGF0dGVybnMlMjAoMjAxOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTk5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDAxJTNBMjYlM0E0NCUyMCUyQjAwMDA",
       "title": "Guiding Ships with Moire Patterns (2018)",
       "pubDate": "Sun, 16 Aug 2026 01:26:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXRpY3VsdW0ubmV0d29yayUyRiU3Q2h0dHBzJTNBJTJGJTJGcmV0aWN1bHVtLm5ldHdvcmslMkYlN0NSZXRpY3VsdW0lMjAlRTIlODAlOTMlMjBEZWNlbnRyYWxpemVkJTIwTWVzaCUyME5ldHdvcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyNTA2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDIzJTNBNTklM0ExMCUyMCUyQjAwMDA",
+      "title": "Reticulum – Decentralized Mesh Network",
+      "pubDate": "Sun, 16 Aug 2026 23:59:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZBdWclMkYxNiUyRnF3ZW4tMzgtMjdiJTJGJTdDaHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZBdWclMkYxNiUyRnF3ZW4tMzgtMjdiJTJGJTdDUXdlbiUyMDMuOCUyMDI3QiUyMGlzJTIwZXhjZWxsZW50JTJDJTIwYnV0JTIwaXQlMjBkZWZhdWx0cyUyMHRvJTIwb3ZlcnRoaW5raW5nJTIwdGhpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjQ5ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAyMyUzQTQ1JTNBMDklMjAlMkIwMDAw",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "pubDate": "Sun, 16 Aug 2026 23:45:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRm52aWRpYS1zY2FsZXMtYmFjay0yNTAtYmlsbGlvbi1vcGVuYWktZGF0YS1jZW50ZXItZ3VhcmFudGVlLXdzai1yZXBvcnRzLTIwMjYtMDgtMTQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRmJ1c2luZXNzJTJGbnZpZGlhLXNjYWxlcy1iYWNrLTI1MC1iaWxsaW9uLW9wZW5haS1kYXRhLWNlbnRlci1ndWFyYW50ZWUtd3NqLXJlcG9ydHMtMjAyNi0wOC0xNCUyRiU3Q052aWRpYSUyMGRyYW1hdGljYWxseSUyMHJlZHVjZXMlMjBhbW91bnQlMjBvZiUyME9wZW5BSSUyMGluZnJhJTIwZmluYW5jaW5nJTIwaXQlMjBtYXklMjBndWFyYW50ZWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMzY4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDIxJTNBMDclM0ExMCUyMCUyQjAwMDA",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "pubDate": "Sun, 16 Aug 2026 21:07:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDgtMTYlMkZzdHJpcGUtbmVhcnMtZGVhbC10by1idXktYWktZmlybS1vcGVucm91dGVyLWZvci1vdmVyLTctYmlsbGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJsb29tYmVyZy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkYyMDI2LTA4LTE2JTJGc3RyaXBlLW5lYXJzLWRlYWwtdG8tYnV5LWFpLWZpcm0tb3BlbnJvdXRlci1mb3Itb3Zlci03LWJpbGxpb24lN0NTdHJpcGUlMjBDbGluY2hlcyUyMG92ZXIlMjAlMjQ3QiUyMERlYWwlMjB0byUyMEJ1eSUyMEFJJTIwRmlybSUyME9wZW5Sb3V0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMzM4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDIwJTNBMzElM0ExNiUyMCUyQjAwMDA",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "pubDate": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3N0LmNhbS5hYy51ayUyRm5ld3MlMkZyZWQtcXVlZW4taHlwb3RoZXNpcy1uZXctd2F5LWZvcndhcmQtc2VsZi1pbXByb3ZpbmctYWklN0NodHRwcyUzQSUyRiUyRnd3dy5jc3QuY2FtLmFjLnVrJTJGbmV3cyUyRnJlZC1xdWVlbi1oeXBvdGhlc2lzLW5ldy13YXktZm9yd2FyZC1zZWxmLWltcHJvdmluZy1haSU3Q1JlZCUyMHF1ZWVuJTIwaHlwb3RoZXNpcyUyMCVFMiU4MCU5MyUyMGElMjBuZXclMjB3YXklMjBmb3J3YXJkJTIwZm9yJTIwc2VsZi1pbXByb3ZpbmclMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIzMTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMjAlM0EwMSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Red queen hypothesis – a new way forward for self-improving AI",
+      "pubDate": "Sun, 16 Aug 2026 20:01:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3NGcxLmRldiUyRmJsb2clMkZtb2RlbHMtYXJlLWdldHRpbmctZHVtYmVyLW9uLXB1cnBvc2UlN0NodHRwcyUzQSUyRiUyRnc0ZzEuZGV2JTJGYmxvZyUyRm1vZGVscy1hcmUtZ2V0dGluZy1kdW1iZXItb24tcHVycG9zZSU3Q01vZGVscyUyMEFyZSUyMEdldHRpbmclMjBEdW1iZXIlMjBvbiUyMFB1cnBvc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMjY5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDE5JTNBMDQlM0EyNiUyMCUyQjAwMDA",
+      "title": "Models Are Getting Dumber on Purpose",
+      "pubDate": "Sun, 16 Aug 2026 19:04:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWYuYnVpbGQlMkZibG9nJTJGcHJvdG9idWYtbHNwJTdDaHR0cHMlM0ElMkYlMkZidWYuYnVpbGQlMkZibG9nJTJGcHJvdG9idWYtbHNwJTdDUHJvdG9idWYlMjBoYXMlMjBMU1AlMjBzdXBwb3J0LiUyMFlvdSdyZSUyMHdlbGNvbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMjU3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDE4JTNBNDglM0EyNyUyMCUyQjAwMDA",
+      "title": "Protobuf has LSP support. You're welcome",
+      "pubDate": "Sun, 16 Aug 2026 18:48:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoLWFpLW9yZy5naXRodWIuaW8lMkZtYXRoY29kZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWF0aC1haS1vcmcuZ2l0aHViLmlvJTJGbWF0aGNvZGUlMkYlN0NNYXRoQ29kZSUyQyUyME1hdGhlbWF0aWNhbCUyMENvZGluZyUyMEFnZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjIzMzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxOCUzQTE3JTNBMTAlMjAlMkIwMDAw",
+      "title": "MathCode, Mathematical Coding Agent",
+      "pubDate": "Sun, 16 Aug 2026 18:17:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIyMTA3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIyMTA3JTdDVGVsbCUyMEhOJTNBJTIwQ2xvdWRmbGFyZSUyMHNpbGVudGx5JTIwaW5qZWN0cyUyMGl0cyUyMGFuYWx5dGljcyUyMHdoZW4lMjB5b3UlMjBzd2l0Y2glMjBuYW1lc2VydmVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIyMTA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTclM0E0OSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "pubDate": "Sun, 16 Aug 2026 17:49:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydmVtYmVkZGVkLmNvbSUyRmJsb2dfcG9zdCUyRjEyJTJGJTdDaHR0cHMlM0ElMkYlMkZydmVtYmVkZGVkLmNvbSUyRmJsb2dfcG9zdCUyRjEyJTJGJTdDQSUyMDNyZCUyMFdvcmxkJTIwRW1iZWRkZWQlMjBFbmdpbmVlciUyMFJlc3BvbmRzJTIwdG8lMjAlMjJSSVNDLVYlMjBUaGV5JTIwU2hvdWxkJTIwSGF2ZSUyMEtub3duJTIwQmV0dGVyJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjE3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTAxJTNBMDclMjAlMkIwMDAw",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "pubDate": "Sun, 16 Aug 2026 17:01:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }
   ]
