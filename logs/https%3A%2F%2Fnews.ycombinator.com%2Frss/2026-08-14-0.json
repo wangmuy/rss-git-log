@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-14",
     "newestItemDate": "2026-08-14",
-    "itemCount": 44,
-    "generatedAt": "2026-08-17T01:57:52.810Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-17T09:03:50.191Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZiZXJuc3RlaW5iZWFyLmNvbSUyRmJsb2clMkZ6a3AlMkYlN0NodHRwcyUzQSUyRiUyRmJlcm5zdGVpbmJlYXIuY29tJTJGYmxvZyUyRnprcCUyRiU3Q0ElMjBxdWljayUyMGxvb2slMjBhdCUyMHplcm8ta25vd2xlZGdlJTIwcHJvb2ZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDM3NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTUyJTNBMDUlMjAlMkIwMDAw",
       "title": "A quick look at zero-knowledge proofs",
       "pubDate": "Fri, 14 Aug 2026 19:52:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudXJiLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGbnVyYi5kZXYlMkYlN0NEZXNpZ24lMjAzRC1wcmludGFibGUlMjBwYXJ0cyUyMGJ5JTIwdGFsa2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk4OTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMTQlM0EwOSUzQTMyJTIwJTJCMDAwMA",
+      "title": "Design 3D-printable parts by talking",
+      "pubDate": "Fri, 14 Aug 2026 14:09:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
     }
   ]

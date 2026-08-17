@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-10",
     "newestItemDate": "2026-08-10",
-    "itemCount": 65,
-    "generatedAt": "2026-08-16T08:50:05.233Z"
+    "itemCount": 66,
+    "generatedAt": "2026-08-17T09:03:50.192Z"
   },
   "items": [
     {
@@ -396,6 +396,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkdWNrZGIub3JnJTJGMjAyNiUyRjA3JTJGMzElMkZhc3luY2hyb25vdXMtaW8lN0NodHRwcyUzQSUyRiUyRmR1Y2tkYi5vcmclMkYyMDI2JTJGMDclMkYzMSUyRmFzeW5jaHJvbm91cy1pbyU3Q0FzeW5jaHJvbm91cyUyMEklMkZPJTIwaW4lMjBEdWNrREIlM0ElMjBXb3JrJTJDJTIwVGhyZWFkJTJDJTIwV29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQzMDYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTMlM0EwMSUzQTE4JTIwJTJCMDAwMA",
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "pubDate": "Mon, 10 Aug 2026 13:01:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2b2NhbHNsaWNlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdm9jYWxzbGljZS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBWb2NhbCUyMFNsaWNlJTIwJUUyJTgwJTkzJTIwQ3V0JTIwYXVkaW8lMjBieSUyMHNlbGVjdGluZyUyMHRleHQlMkMlMjBmdWxseSUyMG9uLWRldmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjQ1MDIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTAlMjBBdWclMjAyMDI2JTIwMTUlM0EzMiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",
+      "pubDate": "Mon, 10 Aug 2026 15:32:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-10-0.json"
     }
   ]

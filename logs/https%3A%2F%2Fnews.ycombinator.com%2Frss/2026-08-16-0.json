@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 31,
-    "generatedAt": "2026-08-17T01:57:52.810Z"
+    "itemCount": 36,
+    "generatedAt": "2026-08-17T09:03:50.191Z"
   },
   "items": [
     {
@@ -191,6 +191,36 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZydmVtYmVkZGVkLmNvbSUyRmJsb2dfcG9zdCUyRjEyJTJGJTdDaHR0cHMlM0ElMkYlMkZydmVtYmVkZGVkLmNvbSUyRmJsb2dfcG9zdCUyRjEyJTJGJTdDQSUyMDNyZCUyMFdvcmxkJTIwRW1iZWRkZWQlMjBFbmdpbmVlciUyMFJlc3BvbmRzJTIwdG8lMjAlMjJSSVNDLVYlMjBUaGV5JTIwU2hvdWxkJTIwSGF2ZSUyMEtub3duJTIwQmV0dGVyJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjE3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTAxJTNBMDclMjAlMkIwMDAw",
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "pubDate": "Sun, 16 Aug 2026 17:01:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXJpbmdmaXJlYmFsbC5uZXQlMkYyMDI2JTJGMDglMkZhbnRocm9waWNzX3dhdGVybWFya190ZXh0X2FkdWx0ZXJhdGlvbl9pbl9jbGF1ZGVfaXNfYV9wZXJ2ZXJzaW9uX29mX3dyaXRpbmclN0NodHRwcyUzQSUyRiUyRmRhcmluZ2ZpcmViYWxsLm5ldCUyRjIwMjYlMkYwOCUyRmFudGhyb3BpY3Nfd2F0ZXJtYXJrX3RleHRfYWR1bHRlcmF0aW9uX2luX2NsYXVkZV9pc19hX3BlcnZlcnNpb25fb2Zfd3JpdGluZyU3Q0FudGhyb3BpYydzJTIwJ3dhdGVybWFyayclMjB0ZXh0JTIwYWR1bHRlcmF0aW9uJTIwaW4lMjBDbGF1ZGUlMjBpcyUyMGElMjBwZXJ2ZXJzaW9uJTIwb2YlMjB3cml0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjQwODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAyMSUzQTUzJTNBNDMlMjAlMkIwMDAw",
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "pubDate": "Sun, 16 Aug 2026 21:53:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOCUyRjE2JTJGc3RyaXBlLXdpbGwtcmVwb3J0ZWRseS1hY3F1aXJlLWFpLWdhdGV3YXktc3RhcnR1cC1vcGVucm91dGVyLWZvci03YiUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDglMkYxNiUyRnN0cmlwZS13aWxsLXJlcG9ydGVkbHktYWNxdWlyZS1haS1nYXRld2F5LXN0YXJ0dXAtb3BlbnJvdXRlci1mb3ItN2IlMkYlN0NTdHJpcGUlMjB3aWxsJTIwcmVwb3J0ZWRseSUyMGFjcXVpcmUlMjBPcGVuUm91dGVyJTIwZm9yJTIwJTI0N0IlMkIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMzM4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDIwJTNBMzElM0ExNiUyMCUyQjAwMDA",
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "pubDate": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3N0LmNhbS5hYy51ayUyRm5ld3MlMkZyZWQtcXVlZW4taHlwb3RoZXNpcy1uZXctd2F5LWZvcndhcmQtc2VsZi1pbXByb3ZpbmctYWklN0NodHRwcyUzQSUyRiUyRnd3dy5jc3QuY2FtLmFjLnVrJTJGbmV3cyUyRnJlZC1xdWVlbi1oeXBvdGhlc2lzLW5ldy13YXktZm9yd2FyZC1zZWxmLWltcHJvdmluZy1haSU3Q1JlZCUyMHF1ZWVuJTIwaHlwb3RoZXNpcyUyMCVFMiU4MCU5MyUyMEElMjBuZXclMjB3YXklMjBmb3J3YXJkJTIwZm9yJTIwc2VsZi1pbXByb3ZpbmclMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIzMTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMjAlM0EwMSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "pubDate": "Sun, 16 Aug 2026 20:01:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWYuYnVpbGQlMkZibG9nJTJGcHJvdG9idWYtbHNwJTdDaHR0cHMlM0ElMkYlMkZidWYuYnVpbGQlMkZibG9nJTJGcHJvdG9idWYtbHNwJTdDUHJvdG9idWYlMjBoYXMlMjBMU1AlMjBzdXBwb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjI1NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxOCUzQTQ4JTNBMjclMjAlMkIwMDAw",
+      "title": "Protobuf has LSP support",
+      "pubDate": "Sun, 16 Aug 2026 18:48:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydmVtYmVkZGVkLmNvbSUyRmJsb2dfcG9zdCUyRjEyJTJGJTdDaHR0cHMlM0ElMkYlMkZydmVtYmVkZGVkLmNvbSUyRmJsb2dfcG9zdCUyRjEyJTJGJTdDQSUyMHRoaXJkJTIwd29ybGQlMjBlbmdpbmVlciUyMHJlc3BvbmRzJTIwdG8lMjAlRTIlODAlOUNSSVNDLVYlM0ElMjBUaGV5JTIwc2hvdWxkJTIwaGF2ZSUyMGtub3duJTIwYmV0dGVyJUUyJTgwJTlEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjE3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTAxJTNBMDclMjAlMkIwMDAw",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "pubDate": "Sun, 16 Aug 2026 17:01:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }

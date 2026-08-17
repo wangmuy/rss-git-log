@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-17",
     "newestItemDate": "2026-08-17",
-    "itemCount": 3,
-    "generatedAt": "2026-08-17T01:57:52.810Z"
+    "itemCount": 11,
+    "generatedAt": "2026-08-17T09:03:50.191Z"
   },
   "items": [
     {
@@ -24,6 +24,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlnaGVyZWRkaXZlLmNvbSUyRm5ld3MlMkZpbnNpZGUtdGhlLWZlZGVyYWwta2V5d29yZC1saXN0cy10aGF0LWNhbmNlbGVkLWJpbGxpb25zLWluLXJlc2VhcmNoLWZ1bmRpbmclMkY4MjYyMDMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5oaWdoZXJlZGRpdmUuY29tJTJGbmV3cyUyRmluc2lkZS10aGUtZmVkZXJhbC1rZXl3b3JkLWxpc3RzLXRoYXQtY2FuY2VsZWQtYmlsbGlvbnMtaW4tcmVzZWFyY2gtZnVuZGluZyUyRjgyNjIwMyUyRiU3Q1RoZSUyMGZlZGVyYWwlMjBrZXl3b3JkJTIwbGlzdHMlMjB0aGF0JTIwY2FuY2VsZWQlMjBiaWxsaW9ucyUyMGluJTIwcmVzZWFyY2glMjBmdW5kaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjUxNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAwMCUzQTE0JTNBMTAlMjAlMkIwMDAw",
       "title": "The federal keyword lists that canceled billions in research funding",
       "pubDate": "Mon, 17 Aug 2026 00:14:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdXRpLmRldiUyRmJsb2clMkYyMDI2JTJGc3ByJTJGJTdDaHR0cHMlM0ElMkYlMkZkdXRpLmRldiUyRmJsb2clMkYyMDI2JTJGc3ByJTJGJTdDSGFja0V1cm9wZSUyMDIwMjYlM0ElMjBBJTIwc2hvcnQlMjByYW50JTIwb24lMjBBSSUyMGFuZCUyMGhhY2thdGhvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyNzQ5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDA3JTNBMjglM0E0MyUyMCUyQjAwMDA",
+      "title": "HackEurope 2026: A short rant on AI and hackathons",
+      "pubDate": "Mon, 17 Aug 2026 07:28:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLnNlbWlhbmFseXNpcy5jb20lMkZwJTJGMTJiLW9mLXVzLXJhdGVwYXllcnMtbW9uZXktd2FzdGVkJTdDaHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLnNlbWlhbmFseXNpcy5jb20lMkZwJTJGMTJiLW9mLXVzLXJhdGVwYXllcnMtbW9uZXktd2FzdGVkJTdDJTI0MTJCJTIwb2YlMjBVUyUyMHJhdGVwYXllcnMnJTIwbW9uZXklMjB3YXN0ZWQlMjBvbiUyMGElMjBtb2RlbGluZyUyMG1pc3Rha2UlMjBpbiUyMFBKTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzI2ODI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMDUlM0EyMiUzQTQ5JTIwJTJCMDAwMA",
+      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+      "pubDate": "Mon, 17 Aug 2026 05:22:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYXIuYXhsZXIubmV0JTJGJTdDaHR0cHMlM0ElMkYlMkZsaW5lYXIuYXhsZXIubmV0JTJGJTdDTGluZWFyJTIwYWxnZWJyYSUyMGRvbmUlMjByaWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzI2ODE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMDUlM0EyMSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Linear algebra done right",
+      "pubDate": "Mon, 17 Aug 2026 05:21:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2ltcC5vcmclMkZuZXdzJTJGMjAyNiUyRjA4JTJGMTYlMkZkZXYtdXBkYXRlLWF1Z3VzdC0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2ltcC5vcmclMkZuZXdzJTJGMjAyNiUyRjA4JTJGMTYlMkZkZXYtdXBkYXRlLWF1Z3VzdC0yMDI2JTJGJTdDR0lNUCUyMERldmVsb3BtZW50JTIwVXBkYXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjYxNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAwMyUzQTA4JTNBNDclMjAlMkIwMDAw",
+      "title": "GIMP Development Update",
+      "pubDate": "Mon, 17 Aug 2026 03:08:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmZvc2NpZW5jZS5lcGZsLmNoJTJGZW50aXRpZXMlMkZwdWJsaWNhdGlvbiUyRjY0NGNhZDhhLTZjOWItNGIwMi1iY2YzLWI4YjZlOGM2MTRjNSU3Q2h0dHBzJTNBJTJGJTJGaW5mb3NjaWVuY2UuZXBmbC5jaCUyRmVudGl0aWVzJTJGcHVibGljYXRpb24lMkY2NDRjYWQ4YS02YzliLTRiMDItYmNmMy1iOGI2ZThjNjE0YzUlN0NTdHJvbmclMjBncmF2aXRhdGlvbmFsJTIwbGVuc2luZyUyMGFuZCUyMG1pY3JvbGVuc2luZyUyMG9mJTIwc3VwZXJub3ZhZSUyMCgyMDI0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzI2MDcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMDIlM0E1NSUzQTIwJTIwJTJCMDAwMA",
+      "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+      "pubDate": "Mon, 17 Aug 2026 02:55:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWFuaGFtc3Rlci5jb20lMkZuZXdzJTJGYWdpLTY0LWJyaW5ncy1zaWVycmEtYWR2ZW50dXJlcy10by10aGUtY29tbW9kb3JlLTY0JTdDaHR0cHMlM0ElMkYlMkZtZWFuaGFtc3Rlci5jb20lMkZuZXdzJTJGYWdpLTY0LWJyaW5ncy1zaWVycmEtYWR2ZW50dXJlcy10by10aGUtY29tbW9kb3JlLTY0JTdDQUdJLTY0JTIwQnJpbmdzJTIwU2llcnJhJTIwQWR2ZW50dXJlcyUyMHRvJTIwdGhlJTIwQ29tbW9kb3JlJTIwNjQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyNTcxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDAxJTNBNDUlM0EzNiUyMCUyQjAwMDA",
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "pubDate": "Mon, 17 Aug 2026 01:45:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY3JhYmJ1aWxkJTJGcHJvbGx5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY3JhYmJ1aWxkJTJGcHJvbGx5JTdDUHJvbGx5JTNBJTIwQSUyMGNvbnRlbnQtYWRkcmVzc2VkJTIwb3JkZXJlZCUyMG1hcCUyMGJ1aWx0JTIwb24lMjBwcm9sbHklMjB0cmVlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzI1NDU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMDElM0EwMCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Prolly: A content-addressed ordered map built on prolly trees",
+      "pubDate": "Mon, 17 Aug 2026 01:00:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGdGFraW5nLXRpcC1wbGFudHMtZXllcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmJsb2ctcG9zdCUyRnRha2luZy10aXAtcGxhbnRzLWV5ZXMlN0NBcHBseWluZyUyMGElMjBwaG90b3N5bnRoZXRpYyUyMHByb2Nlc3MlMjB0byUyMHRyZWF0JTIwJUUyJTgwJTlDZHJ5JTIwZXllJUUyJTgwJTlEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjUzMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAwMCUzQTM1JTNBMjklMjAlMkIwMDAw",
+      "title": "Applying a photosynthetic process to treat “dry eye”",
+      "pubDate": "Mon, 17 Aug 2026 00:35:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
     }
   ]
