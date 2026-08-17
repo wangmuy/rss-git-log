@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-17",
     "newestItemDate": "2026-08-17",
-    "itemCount": 11,
-    "generatedAt": "2026-08-17T09:03:50.191Z"
+    "itemCount": 31,
+    "generatedAt": "2026-08-17T16:49:21.200Z"
   },
   "items": [
     {
@@ -72,6 +72,126 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGdGFraW5nLXRpcC1wbGFudHMtZXllcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmJsb2ctcG9zdCUyRnRha2luZy10aXAtcGxhbnRzLWV5ZXMlN0NBcHBseWluZyUyMGElMjBwaG90b3N5bnRoZXRpYyUyMHByb2Nlc3MlMjB0byUyMHRyZWF0JTIwJUUyJTgwJTlDZHJ5JTIwZXllJUUyJTgwJTlEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjUzMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAwMCUzQTM1JTNBMjklMjAlMkIwMDAw",
       "title": "Applying a photosynthetic process to treat “dry eye”",
       "pubDate": "Mon, 17 Aug 2026 00:35:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5c3BoLnlhbGUuZWR1JTJGbmV3cy1hcnRpY2xlJTJGdW5pdmVyc2FsLWhlYWx0aC1jb3ZlcmFnZS1jb3VsZC1zYXZlLW9uZS10cmlsbGlvbi1kb2xsYXJzLWFuZC0xMTQwMDAtbGl2ZXMtZXZlcnkteWVhciUyRiU3Q2h0dHBzJTNBJTJGJTJGeXNwaC55YWxlLmVkdSUyRm5ld3MtYXJ0aWNsZSUyRnVuaXZlcnNhbC1oZWFsdGgtY292ZXJhZ2UtY291bGQtc2F2ZS1vbmUtdHJpbGxpb24tZG9sbGFycy1hbmQtMTE0MDAwLWxpdmVzLWV2ZXJ5LXllYXIlMkYlN0NVbml2ZXJzYWwlMjBIZWFsdGglMjBDb3ZlcmFnZSUyMENvdWxkJTIwU2F2ZSUyMCUyNDFUJTIwYW5kJTIwMTE0ayUyMExpdmVzJTIwYSUyMFllYXIlMkMlMjBZYWxlJTIwU3R1ZHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMzMjk4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDE1JTNBNDklM0E1NyUyMCUyQjAwMDA",
+      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+      "pubDate": "Mon, 17 Aug 2026 15:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVrby5haSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3Bla28uYWklMkYlN0NMYXVuY2glMjBITiUzQSUyMFNwZWtvJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyME9wZW5Sb3V0ZXIlMjBmb3IlMjBWb2ljZSUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMzI3NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTM2JTNBMTglMjAlMkIwMDAw",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "pubDate": "Mon, 17 Aug 2026 15:36:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFzb24uY29tJTJGdm9sb2toJTJGMjAyNiUyRjA4JTJGMTclMkZqdWRnZXMtYWxsZWdlZGx5LXJlbHlpbmctd2hvbGx5LW9uLWFpLWluLW9yZGVyLWlzLWNvdmVyZWQtYnktanVkaWNpYWwtaW1tdW5pdHktY291cnQtcnVsZXMlMkYlN0NodHRwcyUzQSUyRiUyRnJlYXNvbi5jb20lMkZ2b2xva2glMkYyMDI2JTJGMDglMkYxNyUyRmp1ZGdlcy1hbGxlZ2VkbHktcmVseWluZy13aG9sbHktb24tYWktaW4tb3JkZXItaXMtY292ZXJlZC1ieS1qdWRpY2lhbC1pbW11bml0eS1jb3VydC1ydWxlcyUyRiU3Q0p1ZGdlJTIwcmVseWluZyUyMHdob2xseSUyMG9uJTIwQUklMjBpbiUyMG9yZGVyJTIwaXMlMjBjb3ZlcmVkJTIwYnklMjBqdWRpY2lhbCUyMGltbXVuaXR5JTJDJTIwY291cnQlMjBydWxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxNjI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTQlM0EzMCUzQTA5JTIwJTJCMDAwMA",
+      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "pubDate": "Mon, 17 Aug 2026 14:30:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjA4JTJGbWVldC10aGUtb25seS1rbm93bi10cmVidWNoZXQtY2FzdWFsdHktaW4taGlzdG9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGc2NpZW5jZSUyRjIwMjYlMkYwOCUyRm1lZXQtdGhlLW9ubHkta25vd24tdHJlYnVjaGV0LWNhc3VhbHR5LWluLWhpc3RvcnklMkYlN0NUaGUlMjBvbmx5JTIwa25vd24lMjB0cmVidWNoZXQlMjBjYXN1YWx0eSUyMGluJTIwaGlzdG9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxNTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTQlM0EyNiUzQTE5JTIwJTJCMDAwMA",
+      "title": "The only known trebuchet casualty in history",
+      "pubDate": "Mon, 17 Aug 2026 14:26:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYWdnYXIubWFyZ2luYWx1dGlsaXR5LmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGc2FnZ2FyLm1hcmdpbmFsdXRpbGl0eS5kZXYlMkYlN0NTaG93JTIwSE4lM0ElMjBTYWdnYXIlMkMlMjBhJTIwTWFjJTIwdGVybWluYWwlMjB0aGF0JTIwa2VlcHMlMjBzZXNzaW9ucyUyMGFuZCUyMHlvdXIlMjBhdHRlbnRpb24lMjBvcmdhbml6ZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMzMTU1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDE0JTNBMjUlM0E1NCUyMCUyQjAwMDA",
+      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+      "pubDate": "Mon, 17 Aug 2026 14:25:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdub3JlZ2FsaWxlaS5jb20lMkYyMDI2JTJGMDglMkYwMiUyRmhvdy10by1wdXQtMTcwLWF0b21zLWluLWFuLWF0b20lMkYlN0NodHRwcyUzQSUyRiUyRnNpZ25vcmVnYWxpbGVpLmNvbSUyRjIwMjYlMkYwOCUyRjAyJTJGaG93LXRvLXB1dC0xNzAtYXRvbXMtaW4tYW4tYXRvbSUyRiU3Q0hvdyUyMHRvJTIwcHV0JTIwMTcwJTIwYXRvbXMlMjBpbiUyMGFuJTIwYXRvbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxNDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTQlM0EyMSUzQTI1JTIwJTJCMDAwMA",
+      "title": "How to put 170 atoms in an atom",
+      "pubDate": "Mon, 17 Aug 2026 14:21:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2l6LmlvJTJGYmxvZyUyRnJlZC1hZ2VudC1zbm93Zmxha2UtY29waWxvdC1jaWNkLWJ1ZyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndpei5pbyUyRmJsb2clMkZyZWQtYWdlbnQtc25vd2ZsYWtlLWNvcGlsb3QtY2ljZC1idWclN0NBSS1HZW5lcmF0ZWQlMjBHaXRIdWIlMjBDb3BpbG90JTIwJUUyJTgwJTlDQXV0b2ZpeCVFMiU4MCU5RCUyMEFsbG93ZWQlMjBDb21wcm9taXNlJTIwb2YlMjBTbm93Zmxha2UncyUyMEppcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMzMTQyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDE0JTNBMTglM0EzOCUyMCUyQjAwMDA",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "pubDate": "Mon, 17 Aug 2026 14:18:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbGFncXVpenplcy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmZsYWdxdWl6emVzLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMExlYXJuJTIwRmxhZ3MlMjBRdWl6JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMzEyODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTExJTNBMTclMjAlMkIwMDAw",
+      "title": "Show HN: Learn Flags Quiz",
+      "pubDate": "Mon, 17 Aug 2026 14:11:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVuZGVza2FydGVsbGFtdC5kZSUyRlNoYXJlZERvY3MlMkZNZWxkdW5nJTJGRU4lMkZQcmVzc2VtaXR0ZWlsdW5nZW4lMkYyMDI2JTJGMDhfMTdfMjAyNl9BcHBsZV9BVFRGLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5idW5kZXNrYXJ0ZWxsYW10LmRlJTJGU2hhcmVkRG9jcyUyRk1lbGR1bmclMkZFTiUyRlByZXNzZW1pdHRlaWx1bmdlbiUyRjIwMjYlMkYwOF8xN18yMDI2X0FwcGxlX0FUVEYuaHRtbCU3Q0FwcGxlJ3MlMjBBcHAlMjBUcmFja2luZyUyMFRyYW5zcGFyZW5jeSUyMHRyZWF0ZWQlMjBpdHMlMjBvd24lMjBhcHBzJTIwYmV0dGVyJTIwdGhhbiUyMHJpdmFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxMjIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTQlM0EwNyUzQTU5JTIwJTJCMDAwMA",
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "pubDate": "Mon, 17 Aug 2026 14:07:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlicmFyaWFuLm5ldCUyRm5vdG9haSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmxpYnJhcmlhbi5uZXQlMkZub3RvYWklMkYlN0NIb3clMjB0byUyMGRpc2FibGUlMjBvciUyMGF2b2lkJTIwaW50cnVzaXZlJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMzMTIyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDE0JTNBMDclM0E1NiUyMCUyQjAwMDA",
+      "title": "How to disable or avoid intrusive AI",
+      "pubDate": "Mon, 17 Aug 2026 14:07:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxMDMzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxMDMzJTdDQXNrJTIwSE4lM0ElMjBBbHRlcm5hdGl2ZXMlMjB0byUyMEdpdEh1YiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxMDMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTMlM0E1OSUzQTE3JTIwJTJCMDAwMA",
+      "title": "Ask HN: Alternatives to GitHub",
+      "pubDate": "Mon, 17 Aug 2026 13:59:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dXJib3B1ZmZlci5jb20lMkZibG9nJTJGY29udHJvbC1wbGFuZSU3Q2h0dHBzJTNBJTJGJTJGdHVyYm9wdWZmZXIuY29tJTJGYmxvZyUyRmNvbnRyb2wtcGxhbmUlN0NIb3clMjB0byUyMHNoaXAlMjBhJTIwZGF0YWJhc2UlMjBldmVyeSUyMGRheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMwOTc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTMlM0E1NiUzQTM4JTIwJTJCMDAwMA",
+      "title": "How to ship a database every day",
+      "pubDate": "Mon, 17 Aug 2026 13:56:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWNrZGIub3JnJTJGMjAyNiUyRjA4JTJGMTclMkZkdWNrZGItMjAtaGlnaGxpZ2h0cyU3Q2h0dHBzJTNBJTJGJTJGZHVja2RiLm9yZyUyRjIwMjYlMkYwOCUyRjE3JTJGZHVja2RiLTIwLWhpZ2hsaWdodHMlN0NBJTIwUHJldmlldyUyMG9mJTIwRHVja0RCJTIwdjIuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMwNzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTMlM0E0NiUzQTI3JTIwJTJCMDAwMA",
+      "title": "A Preview of DuckDB v2.0",
+      "pubDate": "Mon, 17 Aug 2026 13:46:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2l0aHVic3RhdHVzLmNvbSUyRmluY2lkZW50cyUyRnpreHdiZ3IwY25teCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdpdGh1YnN0YXR1cy5jb20lMkZpbmNpZGVudHMlMkZ6a3h3YmdyMGNubXglN0NJbmNpZGVudCUyMHdpdGglMjBHaXRodWIuY29tJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMzA1OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTM1JTNBMDYlMjAlMkIwMDAw",
+      "title": "Incident with Github.com",
+      "pubDate": "Mon, 17 Aug 2026 13:35:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnByLm9yZyUyRjIwMjYlMkYwOCUyRjE3JTJGbngtczEtNTkyODI2MyUyRmNpYWxpcy12aWFncmEtdGFkYWxhZmlsLWxvbmdldml0eS1oZWFydC1oZWFsdGglN0NodHRwcyUzQSUyRiUyRnd3dy5ucHIub3JnJTJGMjAyNiUyRjA4JTJGMTclMkZueC1zMS01OTI4MjYzJTJGY2lhbGlzLXZpYWdyYS10YWRhbGFmaWwtbG9uZ2V2aXR5LWhlYXJ0LWhlYWx0aCU3Q09ubGluZSUyMGNsaW5pY3MlMjBhbmQlMjBpbmZsdWVuY2VycyUyMGFyZSUyMHByb21vdGluZyUyMENpYWxpcyUyMGFzJTIwYSUyMGxvbmdldml0eSUyMGRydWclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMzMDQ1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDEzJTNBMjQlM0E1NSUyMCUyQjAwMDA",
+      "title": "Online clinics and influencers are promoting Cialis as a longevity drug",
+      "pubDate": "Mon, 17 Aug 2026 13:24:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZta29ybnJlaWNoLm1lJTJGcHJvamVjdHMlMkZzb2tvYmFuJTJGJTdDaHR0cHMlM0ElMkYlMkZta29ybnJlaWNoLm1lJTJGcHJvamVjdHMlMkZzb2tvYmFuJTJGJTdDU2hvdyUyMEhOJTNBJTIwU29rb2JhbiUyMEFJJTIwU29sdmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMzAyMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTA3JTNBMDAlMjAlMkIwMDAw",
+      "title": "Show HN: Sokoban AI Solver",
+      "pubDate": "Mon, 17 Aug 2026 13:07:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5dWNhdGFubWFnYXppbmUuY29tJTJGbWV4aWNvLWNyYWNrZG93bi1vbi1jb2FzdGFsLWRldmVsb3BtZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZ5dWNhdGFubWFnYXppbmUuY29tJTJGbWV4aWNvLWNyYWNrZG93bi1vbi1jb2FzdGFsLWRldmVsb3BtZW50JTJGJTdDTWV4aWNvJTIwY3JhY2tkb3duJTIwb24lMjBjb2FzdGFsJTIwZGV2ZWxvcG1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyOTU4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDEyJTNBMTAlM0EyMiUyMCUyQjAwMDA",
+      "title": "Mexico crackdown on coastal development",
+      "pubDate": "Mon, 17 Aug 2026 12:10:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJvYm9mbG93LmNvbSUyRm9wZW5haS1ncHQtNS02JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLnJvYm9mbG93LmNvbSUyRm9wZW5haS1ncHQtNS02JTJGJTdDR1BUJTIwNS42JTIwU29sJTIwaXMlMjB0aGUlMjBiZXN0JTIwJTIydmlzaW9uJTIyJTIwbW9kZWwlMjBPcGVuQUklMjBldmVyJTIwcmVsZWFzZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyOTU3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDEyJTNBMDklM0E0MiUyMCUyQjAwMDA",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "pubDate": "Mon, 17 Aug 2026 12:09:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXNrdG9wY29sb3JzLmNvbSU3Q2h0dHBzJTNBJTJGJTJGZGVza3RvcGNvbG9ycy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBEZXNrdG9wY29sb3JzLmNvbSUyMCVFMiU4MCU5MyUyMEElMjBtdXNldW0lMjBmb3IlMjBzb2xpZCUyMGJhY2tncm91bmQlMjBjb2xvcnMlMjBvZiUyMGNsYXNzaWMlMjBPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzI3NjQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMDclM0E1MSUzQTIyJTIwJTJCMDAwMA",
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "pubDate": "Mon, 17 Aug 2026 07:51:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkRhcmlvQW1vZGVpJTJGc3RhdHVzJTJGMjA4ODc1ODgxNjM3NjgwNzc2MiU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZEYXJpb0Ftb2RlaSUyRnN0YXR1cyUyRjIwODg3NTg4MTYzNzY4MDc3NjIlN0NPbiUyMEFJJTIwcmVndWxhdGlvbiUyMGFuZCUyMG1lc3NhZ2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzI1Nzg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMDElM0E1OSUzQTU2JTIwJTJCMDAwMA",
+      "title": "On AI regulation and messaging",
+      "pubDate": "Mon, 17 Aug 2026 01:59:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
     }
   ]
