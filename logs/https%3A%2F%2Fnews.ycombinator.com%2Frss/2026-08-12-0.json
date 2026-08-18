@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-12",
     "newestItemDate": "2026-08-12",
-    "itemCount": 69,
-    "generatedAt": "2026-08-18T01:53:52.249Z"
+    "itemCount": 70,
+    "generatedAt": "2026-08-18T16:52:29.771Z"
   },
   "items": [
     {
@@ -420,6 +420,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZW1hbmphdHJpZnVub3ZpYy5zdWJzdGFjay5jb20lMkZwJTJGdGhlLXJvYWQtdG8tbXMtZG9zLTIlN0NodHRwcyUzQSUyRiUyRm5lbWFuamF0cmlmdW5vdmljLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtcm9hZC10by1tcy1kb3MtMiU3Q1RoZSUyMFJvYWQlMjB0byUyME1TLURPUyUyMDIuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MjY5OTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTIlMjBBdWclMjAyMDI2JTIwMDklM0E1NyUzQTU2JTIwJTJCMDAwMA",
       "title": "The Road to MS-DOS 2.0",
       "pubDate": "Wed, 12 Aug 2026 09:57:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YXUuZGV2JTJGMjAyNiUyRjA4JTJGMDclMkZjYW5vbiU3Q2h0dHBzJTNBJTJGJTJGdGF1LmRldiUyRjIwMjYlMkYwOCUyRjA3JTJGY2Fub24lN0NUZWFjaGluZyUyMG15JTIwa2lkJTIwdG8lMjBjb2RlJTIwd2l0aCUyMGElMjBtb2Rlcm4lMjBNVUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI3MjYzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDEyJTIwQXVnJTIwMjAyNiUyMDE0JTNBMDclM0ExNCUyMCUyQjAwMDA",
+      "title": "Teaching my kid to code with a modern MUD",
+      "pubDate": "Wed, 12 Aug 2026 14:07:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-12-0.json"
     }
   ]

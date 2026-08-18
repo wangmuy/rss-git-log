@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-18",
     "newestItemDate": "2026-08-18",
-    "itemCount": 4,
-    "generatedAt": "2026-08-18T08:56:58.137Z"
+    "itemCount": 22,
+    "generatedAt": "2026-08-18T16:52:29.769Z"
   },
   "items": [
     {
@@ -30,6 +30,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGYmVuY2hwb2NhbHlwc2UlMkYlN0NodHRwcyUzQSUyRiUyRmRhbmx1dS5jb20lMkZiZW5jaHBvY2FseXBzZSUyRiU3Q1RoZSUyMEJlbmNobWFya3BvY2FseXBzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQwMjk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMDIlM0ExMSUzQTAyJTIwJTJCMDAwMA",
       "title": "The Benchmarkpocalypse",
       "pubDate": "Tue, 18 Aug 2026 02:11:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0dXMuY2xhdWRlLmNvbSUyRmluY2lkZW50cyUyRnE3dHh4dmJzZnRncSU3Q2h0dHBzJTNBJTJGJTJGc3RhdHVzLmNsYXVkZS5jb20lMkZpbmNpZGVudHMlMkZxN3R4eHZic2Z0Z3ElN0NDbGF1ZGUlM0ElMjBEZWdyYWRlZCUyMFBlcmZvcm1hbmNlJTIwZm9yJTIwTXVsdGlwbGUlMjBNb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0ODE2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE2JTNBMjglM0EyMCUyMCUyQjAwMDA",
+      "title": "Claude: Degraded Performance for Multiple Models",
+      "pubDate": "Tue, 18 Aug 2026 16:28:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNoaW5lMC5pbyU3Q2h0dHBzJTNBJTJGJTJGbWFjaGluZTAuaW8lMkYlN0NMYXVuY2glMjBITiUzQSUyMG1hY2hpbmUwJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMFBlcnNpc3RlbnQlMjBDUFUlMjBhbmQlMjBHUFUlMjBWTXMlMjBmcm9tJTIwdGhlJTIwQ0xJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNDgxMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTI2JTNBNDIlMjAlMkIwMDAw",
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "pubDate": "Tue, 18 Aug 2026 16:26:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDglMkZhcHBsZS1hbm5vdW5jZXMtY2hhbmdlcy1mb3ItYXBwcy1pbi10aGUtZXVyb3BlYW4tdW5pb24lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHBsZS5jb20lMkZuZXdzcm9vbSUyRjIwMjYlMkYwOCUyRmFwcGxlLWFubm91bmNlcy1jaGFuZ2VzLWZvci1hcHBzLWluLXRoZS1ldXJvcGVhbi11bmlvbiUyRiU3Q0FwcGxlJTIwYW5ub3VuY2VzJTIwY2hhbmdlcyUyMGZvciUyMGFwcHMlMjBpbiUyMHRoZSUyMEV1cm9wZWFuJTIwVW5pb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0ODA1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE2JTNBMjElM0EzNCUyMCUyQjAwMDA",
+      "title": "Apple announces changes for apps in the European Union",
+      "pubDate": "Tue, 18 Aug 2026 16:21:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGhlcmVwYW5pYyUyRm9wZW5sZWV0Y29kZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnRoZXJlcGFuaWMlMkZvcGVubGVldGNvZGUlN0NTaG93JTIwSE4lM0ElMjBPcGVubGVldGNvZGUlMjAlRTIlODAlOTMlMjBsb2NhbCUyMExlZXRDb2RlJTIwcnVubmVyJTIwd2hlcmUlMjB0ZXN0cyUyMGxpdmUlMjBpbiUyMHRoZSUyMHJlcG8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0NzE3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE1JTNBMzAlM0E0MCUyMCUyQjAwMDA",
+      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+      "pubDate": "Tue, 18 Aug 2026 15:30:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjIyNzM4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjIyNzM4JTdDQ29kZS1uYXRpdmUlMjBnZW5lcmF0aW9uJTIwb2YlMjBoaWdobHklMjBwcm9ncmFtbWFibGUlMjAzRCUyMGFzc2V0cyUyMCgyMDI2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ2NTM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTQlM0E1NCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Code-native generation of highly programmable 3D assets (2026)",
+      "pubDate": "Tue, 18 Aug 2026 14:54:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0QtMnVBc0o1RVBBdyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNELTJ1QXNKNUVQQXclN0NUaGUlMjBjb29sZXN0JTIwYW50aS1zdXJ2ZWlsbGFuY2UlMjB0b29scyUyMGF0JTIwRGVmY29uJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0NjQ0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE0JTNBNDklM0ExOSUyMCUyQjAwMDA",
+      "title": "The coolest anti-surveillance tools at Defcon [video]",
+      "pubDate": "Tue, 18 Aug 2026 14:49:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3RhY3R1YWxseXRyZXlhbmFzdGFzaW8uZ2l0aHViLmlvJTJGc2hvZWhvcm4lMkYlN0NodHRwcyUzQSUyRiUyRm5vdGFjdHVhbGx5dHJleWFuYXN0YXNpby5naXRodWIuaW8lMkZzaG9laG9ybiUyRiU3Q1Nob3clMjBITiUzQSUyMFNob2Vob3JuJTIwJUUyJTgwJTkzJTIwUXVhbnRpemUlMjBhbnklMjBtb2RlbCUyMGRvd24lMjB0byUyMHJ1biUyMG9uJTIweW91ciUyMG1hY2hpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0NjEzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE0JTNBMjklM0EyMCUyMCUyQjAwMDA",
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "pubDate": "Tue, 18 Aug 2026 14:29:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb252ZXJzYXRpb24uY29tJTJGYmFiaWVzLWJvcm4tdW5kZXItc3VnYXItcmF0aW9uaW5nLWdyZXctaW50by1hZHVsdHMtd2l0aC1sb3dlci1jYW5jZXItcmlzay0yODk4NzMlN0NodHRwcyUzQSUyRiUyRnRoZWNvbnZlcnNhdGlvbi5jb20lMkZiYWJpZXMtYm9ybi11bmRlci1zdWdhci1yYXRpb25pbmctZ3Jldy1pbnRvLWFkdWx0cy13aXRoLWxvd2VyLWNhbmNlci1yaXNrLTI4OTg3MyU3Q0JhYmllcyUyMGJvcm4lMjB1bmRlciUyMHN1Z2FyJTIwcmF0aW9uaW5nJTIwZ3JldyUyMGludG8lMjBhZHVsdHMlMjB3aXRoJTIwbG93ZXIlMjBjYW5jZXIlMjByaXNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNDU4NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTA2JTNBNTAlMjAlMkIwMDAw",
+      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+      "pubDate": "Tue, 18 Aug 2026 14:06:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuc291cmNlLnBvc2l0LmNvJTJGcmVzb3VyY2VzJTJGY2hlYXRzaGVldHMlMkZwb2xhcnMlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5zb3VyY2UucG9zaXQuY28lMkZyZXNvdXJjZXMlMkZjaGVhdHNoZWV0cyUyRnBvbGFycyUyRiU3Q1B5dGhvbiUyMFBvbGFycyUyMENoZWF0c2hlZXQlMjAoYmFzZWQlMjBvbiUyMG91ciUyME8nUmVpbGx5JTIwYm9vayklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0NTQ3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDEzJTNBMzglM0EyMyUyMCUyQjAwMDA",
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "pubDate": "Tue, 18 Aug 2026 13:38:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXRocy5ibG9nJTJGMjAyNiUyRjA4JTJGdGhlLWFtYXpvbi10YXglMkYlN0NodHRwcyUzQSUyRiUyRnNldGhzLmJsb2clMkYyMDI2JTJGMDglMkZ0aGUtYW1hem9uLXRheCUyRiU3Q1RoZSUyMEFtYXpvbiUyMFRheCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ1MjYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTMlM0EyMiUzQTM4JTIwJTJCMDAwMA",
+      "title": "The Amazon Tax",
+      "pubDate": "Tue, 18 Aug 2026 13:22:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFudHVtNS5jYSUyRjIwMjYlMkYwOCUyRjE2JTJGZml4aW5nLWJyaWNrZWQtYW1kLTcwNDAtc2VyaWVzLWZyYW1ld29yay0xMy1sYXB0b3Atd2l0aC0yMC10b29scyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVhbnR1bTUuY2ElMkYyMDI2JTJGMDglMkYxNiUyRmZpeGluZy1icmlja2VkLWFtZC03MDQwLXNlcmllcy1mcmFtZXdvcmstMTMtbGFwdG9wLXdpdGgtMjAtdG9vbHMlMkYlN0NGaXhpbmclMjBhJTIwQnJpY2tlZCUyMEZyYW1ld29yayUyMExhcHRvcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ1MjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTMlM0ExOCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Fixing a Bricked Framework Laptop",
+      "pubDate": "Tue, 18 Aug 2026 13:18:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLmtlbnRiZWNrLmNvbSUyRnAlMkZjb21wb3NhYmxlLXRlc3RzJTdDaHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLmtlbnRiZWNrLmNvbSUyRnAlMkZjb21wb3NhYmxlLXRlc3RzJTdDQ29tcG9zYWJsZSUyMFRlc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNDUwOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTA4JTNBMzIlMjAlMkIwMDAw",
+      "title": "Composable Tests",
+      "pubDate": "Tue, 18 Aug 2026 13:08:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaGlsby5nYXklMkZsaW5lY2FtJTJGJTdDaHR0cHMlM0ElMkYlMkZwaGlsby5nYXklMkZsaW5lY2FtJTJGJTdDVXNpbmclMjB0aGUlMjByYWlsd2F5JTIwbmV0d29yayUyMGFzJTIwYSUyMGZsYXRiZWQlMjBzY2FubmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNDQ4MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxMiUzQTQzJTNBNTQlMjAlMkIwMDAw",
+      "title": "Using the railway network as a flatbed scanner",
+      "pubDate": "Tue, 18 Aug 2026 12:43:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmFpcnBob25lLmNvbSUyRm5sJTJGc3RvcmllcyUyRnRoZS1mYWlycGhvbmUtZ2VuLTYtaXMtYWxsLWFib3V0LWdpdmluZy15b3UtbW9yZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZhaXJwaG9uZS5jb20lMkZubCUyRnN0b3JpZXMlMkZ0aGUtZmFpcnBob25lLWdlbi02LWlzLWFsbC1hYm91dC1naXZpbmcteW91LW1vcmUlN0NGYWlycGhvbmUlMjBpcyUyMG5vdyUyMG9mZmljaWFsbHklMjBhdmFpbGFibGUlMjBpbiUyMHRoZSUyMFVuaXRlZCUyMFN0YXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ0ODExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTIlM0E0MiUzQTUzJTIwJTJCMDAwMA",
+      "title": "Fairphone is now officially available in the United States",
+      "pubDate": "Tue, 18 Aug 2026 12:42:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJpdmFjeWd1aWRlcy5vcmclMkZuZXdzJTJGMjAyNiUyRjA4JTJGMTclMkZtZXRhLWZpbGVzLXBhdGVudC1mb3ItZmFjaWFsLXJlY29nbml0aW9uLWF1dG9tYXRpYy1yZWNvcmRpbmctb2YtcGVvcGxlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucHJpdmFjeWd1aWRlcy5vcmclMkZuZXdzJTJGMjAyNiUyRjA4JTJGMTclMkZtZXRhLWZpbGVzLXBhdGVudC1mb3ItZmFjaWFsLXJlY29nbml0aW9uLWF1dG9tYXRpYy1yZWNvcmRpbmctb2YtcGVvcGxlJTJGJTdDTWV0YSUyMEZpbGVzJTIwUGF0ZW50JTIwZm9yJTIwRmFjaWFsJTIwUmVjb2duaXRpb24lMkMlMjBBdXRvbWF0aWMlMjBSZWNvcmRpbmclMjBvZiUyMFBlb3BsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ0NjU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTIlM0EyMyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+      "pubDate": "Tue, 18 Aug 2026 12:23:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGYWktYW5kLW1sJTJGMjAyNiUyRjA4JTJGMTglMkZnb29nbGUtYnV5cy1jcmFzaGVkLWFpcmxpbmUtc3Bpcml0cy1kYXRhLWF0LWF1Y3Rpb24tYmVjYXVzZS1haSUyRjUyODg5NjIlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVyZWdpc3Rlci5jb20lMkZhaS1hbmQtbWwlMkYyMDI2JTJGMDglMkYxOCUyRmdvb2dsZS1idXlzLWNyYXNoZWQtYWlybGluZS1zcGlyaXRzLWRhdGEtYXQtYXVjdGlvbi1iZWNhdXNlLWFpJTJGNTI4ODk2MiU3Q0dvb2dsZSUyMGhhcyUyMGFjcXVpcmVkJTIwdGhlJTIwZGF0YSUyMG9mJTIwZmFpbGVkJTIwVVMlMjBhaXJsaW5lJTIwU3Bpcml0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNDM1NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxMCUzQTEzJTNBMjglMjAlMkIwMDAw",
+      "title": "Google has acquired the data of failed US airline Spirit",
+      "pubDate": "Tue, 18 Aug 2026 10:13:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjU0NTcyYmM3JTJGZmluZ2VyLXRoZS0xOTcxLXNvY2lhbC1uZXR3b3JrLXRoYXQtbmV2ZXItZGllZCUyRiU3Q2h0dHBzJTNBJTJGJTJGZW4uYW5kcm9zLmRldiUyRmJsb2clMkY1NDU3MmJjNyUyRmZpbmdlci10aGUtMTk3MS1zb2NpYWwtbmV0d29yay10aGF0LW5ldmVyLWRpZWQlMkYlN0NGaW5nZXIlM0ElMjBTb2NpYWwlMjBuZXR3b3JrJTIwdGhhdCUyMG5ldmVyJTIwZGllZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQyNDcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMDclM0EyMSUzQTM1JTIwJTJCMDAwMA",
+      "title": "Finger: Social network that never died",
+      "pubDate": "Tue, 18 Aug 2026 07:21:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmlzdC5vcmclMkZ0cmFuc3BvcnRhdGlvbiUyRmNhbGlmb3JuaWFzLW5ldy10aXJlLWVmZmljaWVuY3ktcnVsZXMtY291bGQtc2F2ZS1kcml2ZXJzLTFiLWEteWVhciUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3Jpc3Qub3JnJTJGdHJhbnNwb3J0YXRpb24lMkZjYWxpZm9ybmlhcy1uZXctdGlyZS1lZmZpY2llbmN5LXJ1bGVzLWNvdWxkLXNhdmUtZHJpdmVycy0xYi1hLXllYXIlMkYlN0NDYWxpZm9ybmlhJ3MlMjBuZXclMjB0aXJlJTIwZWZmaWNpZW5jeSUyMHJ1bGVzJTIwY291bGQlMjBzYXZlJTIwZHJpdmVycyUyMCUyNDFCJTIwYSUyMHllYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0MDcxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDAyJTNBNTglM0E0MiUyMCUyQjAwMDA",
+      "title": "California's new tire efficiency rules could save drivers $1B a year",
+      "pubDate": "Tue, 18 Aug 2026 02:58:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
     }
   ]
