@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-13",
     "newestItemDate": "2026-08-13",
-    "itemCount": 49,
-    "generatedAt": "2026-08-17T16:49:21.200Z"
+    "itemCount": 50,
+    "generatedAt": "2026-08-18T08:56:58.140Z"
   },
   "items": [
     {
@@ -300,6 +300,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmdW5jMjUuZGV2JTJGcG9zdHMlMkZnby1zeW5jLW5vY29weSUyRiU3Q2h0dHBzJTNBJTJGJTJGZnVuYzI1LmRldiUyRnBvc3RzJTJGZ28tc3luYy1ub2NvcHklMkYlN0NIb3clMjBHbyUyMGRldGVjdHMlMjBzdHJ1Y3QlMjBjb3BpZXMlMjB3aXRoJTIwc3luYy5ub0NvcHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NDk4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDEyJTNBMzMlM0E0MyUyMCUyQjAwMDA",
       "title": "How Go detects struct copies with sync.noCopy",
       "pubDate": "Thu, 13 Aug 2026 12:33:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRnNoYXR0ZXJlZC1za2VsZXRvbi1zY290dGlzaC1jYXN0bGUtZmlyc3QtY29uZmlybWVkLWRlYXRoLXRyZWJ1Y2hldCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZzaGF0dGVyZWQtc2tlbGV0b24tc2NvdHRpc2gtY2FzdGxlLWZpcnN0LWNvbmZpcm1lZC1kZWF0aC10cmVidWNoZXQlN0NTaGF0dGVyZWQlMjBza2VsZXRvbiUyMGlzJTIwZmlyc3QlMjBjb25maXJtZWQlMjBkZWF0aCUyMGZyb20lMjB0cmVidWNoZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NTEzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDEyJTNBNDclM0E0MyUyMCUyQjAwMDA",
+      "title": "Shattered skeleton is first confirmed death from trebuchet",
+      "pubDate": "Thu, 13 Aug 2026 12:47:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
     }
   ]

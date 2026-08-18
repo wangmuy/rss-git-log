@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-14",
     "newestItemDate": "2026-08-14",
-    "itemCount": 46,
-    "generatedAt": "2026-08-18T01:53:52.249Z"
+    "itemCount": 47,
+    "generatedAt": "2026-08-18T08:56:58.139Z"
   },
   "items": [
     {
@@ -282,6 +282,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbmdpbmVlcmluZy5teWhvYWkuY29tJTJGcG9zdHMlMkZhLXNpbXBsZS1maXgtZm9yLWxsbS10YWlsLWxhdGVuY3klMkYlN0NodHRwcyUzQSUyRiUyRmVuZ2luZWVyaW5nLm15aG9haS5jb20lMkZwb3N0cyUyRmEtc2ltcGxlLWZpeC1mb3ItbGxtLXRhaWwtbGF0ZW5jeSUyRiU3Q0ElMjBzaW1wbGUlMjBmaXglMjBmb3IlMjBMTE0lMjB0YWlsJTIwbGF0ZW5jeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk1MTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMDUlM0E1OCUzQTE2JTIwJTJCMDAwMA",
       "title": "A simple fix for LLM tail latency",
       "pubDate": "Fri, 14 Aug 2026 05:58:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTIlMkZhLWRpZ2VzdGlvbi1vZi10aGUtcHJvb2Ytb2Ytc2VuZG92cy1jb25qZWN0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTIlMkZhLWRpZ2VzdGlvbi1vZi10aGUtcHJvb2Ytb2Ytc2VuZG92cy1jb25qZWN0dXJlJTJGJTdDQSUyMGRpZ2VzdGlvbiUyMG9mJTIwdGhlJTIwcHJvb2YlMjBvZiUyMFNlbmRvdidzJTIwY29uamVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk0OTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMDUlM0EwMyUzQTQxJTIwJTJCMDAwMA",
+      "title": "A digestion of the proof of Sendov's conjecture",
+      "pubDate": "Fri, 14 Aug 2026 05:03:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
     }
   ]
