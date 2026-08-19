@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-18",
     "newestItemDate": "2026-08-18",
-    "itemCount": 39,
-    "generatedAt": "2026-08-19T08:58:05.553Z"
+    "itemCount": 40,
+    "generatedAt": "2026-08-19T16:50:52.558Z"
   },
   "items": [
     {
@@ -240,6 +240,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjU0NTcyYmM3JTJGZmluZ2VyLXRoZS0xOTcxLXNvY2lhbC1uZXR3b3JrLXRoYXQtbmV2ZXItZGllZCUyRiU3Q2h0dHBzJTNBJTJGJTJGZW4uYW5kcm9zLmRldiUyRmJsb2clMkY1NDU3MmJjNyUyRmZpbmdlci10aGUtMTk3MS1zb2NpYWwtbmV0d29yay10aGF0LW5ldmVyLWRpZWQlMkYlN0NGaW5nZXIlM0ElMjB0aGUlMjAxOTcxJTIwc29jaWFsJTIwbmV0d29yayUyMHRoYXQlMjBuZXZlciUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0MjQ3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDA3JTNBMjElM0EzNSUyMCUyQjAwMDA",
       "title": "Finger: the 1971 social network that never died",
       "pubDate": "Tue, 18 Aug 2026 07:21:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdml4aGFsLWJhcmFpeWElMkZtaWNyb2dwdC1jJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdml4aGFsLWJhcmFpeWElMkZtaWNyb2dwdC1jJTdDTWljcm9ncHQlMjBpbiUyMHB1cmUlMjBDJTIwaGl0cyUyMDEwTSUyMHRwcyUyMG9uJTIwQXBwbGUlMjBtNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ3NDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTUlM0E0NiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Microgpt in pure C hits 10M tps on Apple m5",
+      "pubDate": "Tue, 18 Aug 2026 15:46:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
     }
   ]

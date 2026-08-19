@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-19",
     "newestItemDate": "2026-08-19",
-    "itemCount": 15,
-    "generatedAt": "2026-08-19T08:58:05.552Z"
+    "itemCount": 29,
+    "generatedAt": "2026-08-19T16:50:52.558Z"
   },
   "items": [
     {
@@ -96,6 +96,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2VyZWJyYXMuYWklMkZjczQlN0NodHRwcyUzQSUyRiUyRnd3dy5jZXJlYnJhcy5haSUyRmNzNCU3Q0NlcmVicmFzJTIwQ1MtNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU0OTQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMDAlM0EyOCUzQTE4JTIwJTJCMDAwMA",
       "title": "Cerebras CS-4",
       "pubDate": "Wed, 19 Aug 2026 00:28:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb25lY2xpJTJGb25lY2xpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb25lY2xpJTJGb25lY2xpJTdDTGF1bmNoJTIwSE4lM0ElMjBPbmVDTEklMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwT1NTJTIwc2FuZGJveGVkJTIwYWdlbnQlMjBoYXJuZXNzJTIwZm9yJTIwdGVhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MzcxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDE2JTNBMjklM0EwMiUyMCUyQjAwMDA",
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "pubDate": "Wed, 19 Aug 2026 16:29:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXJlbXltb3JyZWxsLmRldiUyRmJsb2clMkZleHRlbnNpYmxlLXNvZnR3YXJlLWluLXRoZS1hZ2Utb2YtbGxtcyUyRiU3Q2h0dHBzJTNBJTJGJTJGamVyZW15bW9ycmVsbC5kZXYlMkZibG9nJTJGZXh0ZW5zaWJsZS1zb2Z0d2FyZS1pbi10aGUtYWdlLW9mLWxsbXMlMkYlN0NFeHRlbnNpYmxlJTIwU29mdHdhcmUlMjBpbiUyMHRoZSUyMEFnZSUyMG9mJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzYzNjY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTYlM0EyNiUzQTA1JTIwJTJCMDAwMA",
+      "title": "Extensible Software in the Age of LLMs",
+      "pubDate": "Wed, 19 Aug 2026 16:26:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTAzLjA4Njc5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTAzLjA4Njc5JTdDQ2hhaW4tb2YtVGhvdWdodCUyMFJlYXNvbmluZyUyMGluJTIwdGhlJTIwV2lsZCUyMElzJTIwTm90JTIwQWx3YXlzJTIwRmFpdGhmdWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MzU4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDE2JTNBMTglM0E1NyUyMCUyQjAwMDA",
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "pubDate": "Wed, 19 Aug 2026 16:18:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDEzJTJGMTElMkZjaXZpYy1oeWdpZW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDEzJTJGMTElMkZjaXZpYy1oeWdpZW5lJTJGJTdDQ2l2aWMlMjBIeWdpZW5lJTIwJUUyJTgwJTkzJTIwYXZvaWQlMjBidWlsZGluZyUyMHRlY2hub2xvZ2llcyUyMHRoYXQlMjBjb3VsZCUyMGJlJTIwdXNlZCUyMGJ5JTIwYSUyMHBvbGljZSUyMHN0YXRlJTIwKDIwMTMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjM0MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTA3JTNBMTQlMjAlMkIwMDAw",
+      "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
+      "pubDate": "Wed, 19 Aug 2026 16:07:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29sb3JhZG8uZWR1JTJGdG9kYXklMkYyMDI2JTJGMDglMkYxMiUyRnJlbW90ZS13b3JrZXJzLXJlcG9ydC1oaWdoZXN0LXdlbGwtYmVpbmctc3R1ZHktNzcwMC1lbXBsb3llZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5jb2xvcmFkby5lZHUlMkZ0b2RheSUyRjIwMjYlMkYwOCUyRjEyJTJGcmVtb3RlLXdvcmtlcnMtcmVwb3J0LWhpZ2hlc3Qtd2VsbC1iZWluZy1zdHVkeS03NzAwLWVtcGxveWVlcyU3Q1JlbW90ZSUyMHdvcmtlcnMlMjByZXBvcnQlMjB0aGUlMjBoaWdoZXN0JTIwd2VsbC1iZWluZyUyMGluJTIwc3R1ZHklMjBvZiUyMDclMkM3MDAlMjBlbXBsb3llZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MjkzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDE1JTNBMzIlM0EwOCUyMCUyQjAwMDA",
+      "title": "Remote workers report the highest well-being in study of 7,700 employees",
+      "pubDate": "Wed, 19 Aug 2026 15:32:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FzaW8uY29tJTJGdWslMkZ3YXRjaGVzJTJGY2FzaW8lMkZwcm9kdWN0LkYtQjEwMFctMUElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYXNpby5jb20lMkZ1ayUyRndhdGNoZXMlMkZjYXNpbyUyRnByb2R1Y3QuRi1CMTAwVy0xQSUyRiU3Q05ldyUyMENhc2lvJTIwRi1CMTAwVyUyMCVFMiU4MCU5MyUyMFVwZ3JhZGUlMjB0byUyMHRoZSUyMGljb25pYyUyMEYtOTFXJTIwYWZ0ZXIlMjA0MCUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjI4ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTI4JTNBMDElMjAlMkIwMDAw",
+      "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+      "pubDate": "Wed, 19 Aug 2026 15:28:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE2NzUzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE2NzUzJTdDTWF0aGVtYXRpY3MlMjBpbiUyMHRoZSUyMEFnZSUyMG9mJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MjcyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDE1JTNBMTQlM0EyNSUyMCUyQjAwMDA",
+      "title": "Mathematics in the Age of AI",
+      "pubDate": "Wed, 19 Aug 2026 15:14:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcm5pdGguYWklMkZvcm5pdGhfMV81Lmh0bWwlN0NodHRwcyUzQSUyRiUyRm9ybml0aC5haSUyRm9ybml0aF8xXzUuaHRtbCU3Q09ybml0aC0xLjUlM0ElMjBGcm9tJTIwU2VsZi1TY2FmZm9sZGluZyUyMHRvJTIwU2VsZi1JbXByb3ZlbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzYyNDAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTQlM0E0OCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "pubDate": "Wed, 19 Aug 2026 14:48:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRk5vdWJhckFmZXlhbiUyRnN0YXR1cyUyRjIwOTAwNTAxNjI0NDE3NTI3ODclN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGTm91YmFyQWZleWFuJTJGc3RhdHVzJTJGMjA5MDA1MDE2MjQ0MTc1Mjc4NyU3Q01vZGVybmElMjByZXBvcnRzJTIwZmlyc3QlMjBwb3NpdGl2ZSUyMFBoYXNlJTIwMyUyMGZvciUyMG1STkElMjBuZW9hbnRpZ2VuJTIwdGhlcmFweSUyMGluJTIwbWVsYW5vbWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MTM5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDEzJTNBMzMlM0EzNSUyMCUyQjAwMDA",
+      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+      "pubDate": "Wed, 19 Aug 2026 13:33:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmFwaGFlbGJhdWVyLmNvbSUzQTQ0MyUyRnBvc3RzJTJGcG9zdGdyZXNxbC1ldmVyeXRoaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmFwaGFlbGJhdWVyLmNvbSUyRnBvc3RzJTJGcG9zdGdyZXNxbC1ldmVyeXRoaW5nJTJGJTdDUG9zdGdyZVNRTCUyMGZvciUyMEV2ZXJ5dGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MTI3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDEzJTNBMjElM0EyMSUyMCUyQjAwMDA",
+      "title": "PostgreSQL for Everything",
+      "pubDate": "Wed, 19 Aug 2026 13:21:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YXNzYTkuZ2l0aHViLmlvJTJGb3NpbnQlMkZncmFsaGl4LTAwNCUyRiU3Q2h0dHBzJTNBJTJGJTJGeWFzc2E5LmdpdGh1Yi5pbyUyRm9zaW50JTJGZ3JhbGhpeC0wMDQlMkYlN0NHZW9sb2NhdGluZyUyMGElMjByYW5kb20lMjBpc2xhbmQlMjB1c2luZyUyMGdlb21ldHJ5JTIwYW5kJTIwQ1VEQSUyMHByb2dyYW1taW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjA1NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxMiUzQTE5JTNBNTIlMjAlMkIwMDAw",
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "pubDate": "Wed, 19 Aug 2026 12:19:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGVuZW9zLnNvY2lhbCUyRiU0MEdyYXBoZW5lT1MlMkYxMTcwNzgwNjQxODQyMTU3MzAlN0NodHRwcyUzQSUyRiUyRmdyYXBoZW5lb3Muc29jaWFsJTJGJTQwR3JhcGhlbmVPUyUyRjExNzA3ODA2NDE4NDIxNTczMCU3Q0RldmljZXMlMjB3aXRoJTIwR3JhcGhlbmVPUyUyMHN1cHBvcnQlMjBzaG91bGQlMjBiZSUyMGF2YWlsYWJsZSUyMGluJTIwMjAyNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzYwMjQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTElM0E0NiUzQTU4JTIwJTJCMDAwMA",
+      "title": "Devices with GrapheneOS support should be available in 2027",
+      "pubDate": "Wed, 19 Aug 2026 11:46:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcHJvY2tldGZveC5pbyUyRnhzc2ZveCUyRjIwMjYlMkYwOCUyRjE5JTJGc29uZGVodWItYW5kLXdhciUyRiU3Q2h0dHBzJTNBJTJGJTJGc3Byb2NrZXRmb3guaW8lMkZ4c3Nmb3glMkYyMDI2JTJGMDglMkYxOSUyRnNvbmRlaHViLWFuZC13YXIlMkYlN0NBJTIwam9rZSUyMGRvbWFpbiUyMHB1cmNoYXNlJTIwdHVybmVkJTIwaW4lMjBnZW9wb2xpdGljYWwlMjB3YXJmYXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjAwMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxMSUzQTIxJTNBNTAlMjAlMkIwMDAw",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "pubDate": "Wed, 19 Aug 2026 11:21:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZW1pbi5iaXppYmFoLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlcmVtaW4uYml6aWJhaC5jb20lMkYlN0NBaXIlMjBUaGVyZW1pbiUyMCVFMiU4MCU5MyUyMGElMjBicm93c2VyJTIwdGhlcmVtaW4lMjB5b3UlMjBwbGF5JTIwYnklMjB3YXZpbmclMjBhdCUyMHlvdXIlMjB3ZWJjYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1OTQyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDEwJTNBMTUlM0EwMCUyMCUyQjAwMDA",
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "pubDate": "Wed, 19 Aug 2026 10:15:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
     }
   ]
