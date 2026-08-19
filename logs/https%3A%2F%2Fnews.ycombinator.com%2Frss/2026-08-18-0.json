@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-18",
     "newestItemDate": "2026-08-18",
-    "itemCount": 37,
-    "generatedAt": "2026-08-19T01:55:57.740Z"
+    "itemCount": 39,
+    "generatedAt": "2026-08-19T08:58:05.553Z"
   },
   "items": [
     {
@@ -228,6 +228,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZxdWFudHVtNS5jYSUyRjIwMjYlMkYwOCUyRjE2JTJGZml4aW5nLWJyaWNrZWQtYW1kLTcwNDAtc2VyaWVzLWZyYW1ld29yay0xMy1sYXB0b3Atd2l0aC0yMC10b29scyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVhbnR1bTUuY2ElMkYyMDI2JTJGMDglMkYxNiUyRmZpeGluZy1icmlja2VkLWFtZC03MDQwLXNlcmllcy1mcmFtZXdvcmstMTMtbGFwdG9wLXdpdGgtMjAtdG9vbHMlMkYlN0NGaXhpbmclMjBhJTIwYnJpY2tlZCUyMEZyYW1ld29yayUyMGxhcHRvcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ1MjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTMlM0ExOCUzQTQwJTIwJTJCMDAwMA",
       "title": "Fixing a bricked Framework laptop",
       "pubDate": "Tue, 18 Aug 2026 13:18:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmt1YmVyd2FzdGFrZW4lMkZzdGF0dXMlMkYyMDg5Mzc3OTgyNTM2Mzg4OTY0JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmt1YmVyd2FzdGFrZW4lMkZzdGF0dXMlMkYyMDg5Mzc3OTgyNTM2Mzg4OTY0JTdDQ2xhdWRlJTIwd3JpdGluZyUyMGElMjBtYWNPUyUyMGRyaXZlciUyMGZvciUyMG15JTIwb2JzY3VyZSUyMEhQJTIwcHJpbnRlciUyMGJ1aWx0JTIwb25seSUyMGZvciUyMFdpbmRvd3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0NDY0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDEyJTNBMjIlM0E1OCUyMCUyQjAwMDA",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "pubDate": "Tue, 18 Aug 2026 12:22:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5hbmRyb3MuZGV2JTJGYmxvZyUyRjU0NTcyYmM3JTJGZmluZ2VyLXRoZS0xOTcxLXNvY2lhbC1uZXR3b3JrLXRoYXQtbmV2ZXItZGllZCUyRiU3Q2h0dHBzJTNBJTJGJTJGZW4uYW5kcm9zLmRldiUyRmJsb2clMkY1NDU3MmJjNyUyRmZpbmdlci10aGUtMTk3MS1zb2NpYWwtbmV0d29yay10aGF0LW5ldmVyLWRpZWQlMkYlN0NGaW5nZXIlM0ElMjB0aGUlMjAxOTcxJTIwc29jaWFsJTIwbmV0d29yayUyMHRoYXQlMjBuZXZlciUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0MjQ3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDA3JTNBMjElM0EzNSUyMCUyQjAwMDA",
+      "title": "Finger: the 1971 social network that never died",
+      "pubDate": "Tue, 18 Aug 2026 07:21:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
     }
   ]

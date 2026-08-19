@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-13",
     "newestItemDate": "2026-08-13",
-    "itemCount": 51,
-    "generatedAt": "2026-08-19T01:55:57.741Z"
+    "itemCount": 53,
+    "generatedAt": "2026-08-19T08:58:05.554Z"
   },
   "items": [
     {
@@ -312,6 +312,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXJ0bmV3c3BhcGVyLmNvbSUyRjIwMjYlMkYwOCUyRjA3JTJGY29sb3NzYWwtMjUwMC15ZWFyLW9sZC1zY3VscHR1cmUtZGlzY292ZXJlZC10dXJrZXktdW5lc2NvLXNpdGUlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVhcnRuZXdzcGFwZXIuY29tJTJGMjAyNiUyRjA4JTJGMDclMkZjb2xvc3NhbC0yNTAwLXllYXItb2xkLXNjdWxwdHVyZS1kaXNjb3ZlcmVkLXR1cmtleS11bmVzY28tc2l0ZSU3QzIlMkM1MDAteWVhci1vbGQlMjBzY3VscHR1cmUlMjBkaXNjb3ZlcmVkJTIwYXQlMjBVTkVTQ08lMjBzaXRlJTIwaW4lMjBUdXJrZXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NzQ2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDE1JTNBMjYlM0E0MiUyMCUyQjAwMDA",
       "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
       "pubDate": "Thu, 13 Aug 2026 15:26:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZWltYW8uZ2l0aHViLmlvJTJGYmxvZyUyRkNVREEtU2hhcmVkLU1lbW9yeS1Td2l6emxpbmclMkYlN0NodHRwcyUzQSUyRiUyRmxlaW1hby5naXRodWIuaW8lMkZibG9nJTJGQ1VEQS1TaGFyZWQtTWVtb3J5LVN3aXp6bGluZyUyRiU3Q0NVREElMjBTaGFyZWQlMjBNZW1vcnklMjBTd2l6emxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTI4NjI5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEzJTIwQXVnJTIwMjAyNiUyMDE0JTNBMTMlM0E0MSUyMCUyQjAwMDA",
+      "title": "CUDA Shared Memory Swizzling",
+      "pubDate": "Thu, 13 Aug 2026 14:13:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmNpZGVudC5pbyUyRmJsb2clMkZ3ZS10dXJuZWQtb2ZmLXB1Yi1zdWItYW5kLW5vYm9keS1ub3RpY2VkJTdDaHR0cHMlM0ElMkYlMkZpbmNpZGVudC5pbyUyRmJsb2clMkZ3ZS10dXJuZWQtb2ZmLXB1Yi1zdWItYW5kLW5vYm9keS1ub3RpY2VkJTdDV2UlMjB0dXJuZWQlMjBvZmYlMjBQdWIlMkZTdWIlMjBhbmQlMjBub2JvZHklMjBub3RpY2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyODUzMjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTA1JTNBMjElMjAlMkIwMDAw",
+      "title": "We turned off Pub/Sub and nobody noticed",
+      "pubDate": "Thu, 13 Aug 2026 13:05:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-13-0.json"
     }
   ]

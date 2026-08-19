@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-19",
     "newestItemDate": "2026-08-19",
-    "itemCount": 5,
-    "generatedAt": "2026-08-19T01:55:57.740Z"
+    "itemCount": 15,
+    "generatedAt": "2026-08-19T08:58:05.552Z"
   },
   "items": [
     {
@@ -36,6 +36,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZrb25zdGFudGludGthY2h1ay5jb20lMkZ3cml0aW5nJTJGZGVwaW4taXMtZGVhZC1sb25nLWxpdmUtaW5mcmFzdHJ1Y3R1cmUtYXMtYS1zZXJ2aWNlJTJGJTdDaHR0cHMlM0ElMkYlMkZrb25zdGFudGludGthY2h1ay5jb20lMkZ3cml0aW5nJTJGZGVwaW4taXMtZGVhZC1sb25nLWxpdmUtaW5mcmFzdHJ1Y3R1cmUtYXMtYS1zZXJ2aWNlJTJGJTdDV2h5JTIwY3J5cHRvJ3MlMjBiZXN0JTIwaW5mcmFzdHJ1Y3R1cmUlMjBjb21wYW5pZXMlMjBzdG9wcGVkJTIwbG9va2luZyUyMGxpa2UlMjBjcnlwdG8lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1NDc3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDAwJTNBMTElM0EzNSUyMCUyQjAwMDA",
       "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
       "pubDate": "Wed, 19 Aug 2026 00:11:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9kdWxhci5jb20lMkZibG9nJTJGbW9kY29uLWFubm91bmNlbWVudHMlN0NodHRwcyUzQSUyRiUyRnd3dy5tb2R1bGFyLmNvbSUyRmJsb2clMkZtb2Rjb24tYW5ub3VuY2VtZW50cyU3Q1RoZSUyME1vam8lMjBsYW5ndWFnZSUyMChieSUyME1vZHVsYXIlMkMlMjBub3clMjBRdWFsY29tbSklMjBpcyUyMG5vdyUyMG9wZW4tc291cmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTgzMjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAwNyUzQTQ3JTNBMTklMjAlMkIwMDAw",
+      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+      "pubDate": "Wed, 19 Aug 2026 07:47:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXV0aWwudXMlMkZ3aGVyZS1odW1hbi1zbGVlcC13ZW50LXdyb25nLTEyODM3OTclN0NodHRwcyUzQSUyRiUyRm5hdXRpbC51cyUyRndoZXJlLWh1bWFuLXNsZWVwLXdlbnQtd3JvbmctMTI4Mzc5NyU3Q1doZXJlJTIwSHVtYW4lMjBTbGVlcCUyMFdlbnQlMjBXcm9uZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU4MjU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMDclM0E0MCUzQTMyJTIwJTJCMDAwMA",
+      "title": "Where Human Sleep Went Wrong",
+      "pubDate": "Wed, 19 Aug 2026 07:40:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZoZWFsdGglMkYyMDI2JTJGMDglMkZzYWJvdGFnZS1leHBlcnRzLWxhd21ha2Vycy1ibGFzdC1yZmstanItZm9yLWRlc3Ryb3lpbmctaGVhbHRoY2FyZS1yZXNlYXJjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGaGVhbHRoJTJGMjAyNiUyRjA4JTJGc2Fib3RhZ2UtZXhwZXJ0cy1sYXdtYWtlcnMtYmxhc3QtcmZrLWpyLWZvci1kZXN0cm95aW5nLWhlYWx0aGNhcmUtcmVzZWFyY2glMkYlN0MlMjJTYWJvdGFnZSUyMiUzQSUyMEV4cGVydHMlMkMlMjBsYXdtYWtlcnMlMjBibGFzdCUyMFJGSyUyMEpyLiUyMGZvciUyMGRlc3Ryb3lpbmclMjBoZWFsdGhjYXJlJTIwcmVzZWFyY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1ODIyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDA3JTNBMzUlM0E1OSUyMCUyQjAwMDA",
+      "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+      "pubDate": "Wed, 19 Aug 2026 07:35:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGMTAuMTE0NSUyRjM3ODkyNDAuMzgyOTE1MSU3Q2h0dHBzJTNBJTJGJTJGZGwuYWNtLm9yZyUyRmRvaSUyRjEwLjExNDUlMkYzNzg5MjQwLjM4MjkxNTElN0MlQ0UlQkIlQ0UlQkIlM0ElMjBBJTIwUHJvZ3JhbW1pbmclMjBMYW5ndWFnZSUyMGZvciUyMFNpbGljb24lMjBQaG90b25pY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1NzUwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDA2JTNBMDklM0ExNiUyMCUyQjAwMDA",
+      "title": "λλ: A Programming Language for Silicon Photonics",
+      "pubDate": "Wed, 19 Aug 2026 06:09:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTglMkZwYWxvbWFyLWEtcmVnaXN0cnktb2YtbGVhbi12ZXJpZmllZC1tYXRoZW1hdGljcyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVycnl0YW8ud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOCUyRjE4JTJGcGFsb21hci1hLXJlZ2lzdHJ5LW9mLWxlYW4tdmVyaWZpZWQtbWF0aGVtYXRpY3MlMkYlN0NQYWxvbWFyJTNBJTIwQSUyMHJlZ2lzdHJ5JTIwb2YlMjBMZWFuJTIwdmVyaWZpZWQlMjBtYXRoZW1hdGljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU1OTY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMDIlM0E0MSUzQTUwJTIwJTJCMDAwMA",
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "pubDate": "Wed, 19 Aug 2026 02:41:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmJ1c2luZXNzJTJGMjAyNiUyRjA4JTJGMTglMkZtZXRhcy1ibG9ja2J1c3Rlci10cmlhbC1kcmF3cy1wYXJhbGxlbHMtdG8tYmlnLXRvYmFjY28lN0NodHRwcyUzQSUyRiUyRnd3dy5lY29ub21pc3QuY29tJTJGYnVzaW5lc3MlMkYyMDI2JTJGMDglMkYxOCUyRm1ldGFzLWJsb2NrYnVzdGVyLXRyaWFsLWRyYXdzLXBhcmFsbGVscy10by1iaWctdG9iYWNjbyU3Q01ldGEncyUyMGJsb2NrYnVzdGVyJTIwdHJpYWwlMjBkcmF3cyUyMHBhcmFsbGVscyUyMHRvJTIwYmlnJTIwdG9iYWNjbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU1ODI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMDIlM0EyNCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "pubDate": "Wed, 19 Aug 2026 02:24:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2F0aWFoYXlhdGklMkZsdWNhc2FydHNpZmllciUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmthdGlhaGF5YXRpJTJGbHVjYXNhcnRzaWZpZXIlMkYlN0NTaG93JTIwSE4lM0ElMjBBdXRvbWF0aWNhbGx5JTIwZGV0ZWN0JTIwYW5kJTIwcGF0Y2glMjB3YWxraW5nLWRlYWQlMjBzdGF0ZXMlMjBpbiUyMFNpZXJyYSUyMGdhbWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTU2MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAwMSUzQTU4JTNBMzMlMjAlMkIwMDAw",
+      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+      "pubDate": "Wed, 19 Aug 2026 01:58:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVubG9naS5vcmclMkZlbiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmxvZ2kub3JnJTJGZW4lN0NPcGVuTG9naSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU1NjA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMDElM0E1OCUzQTI4JTIwJTJCMDAwMA",
+      "title": "OpenLogi",
+      "pubDate": "Wed, 19 Aug 2026 01:58:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua29oLWFudGlxdWUuY29tJTJGY2xpZW50JTJGdGFuZ3dyZWNrJTJGdGFuZ3dyZWNrLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5rb2gtYW50aXF1ZS5jb20lMkZjbGllbnQlMkZ0YW5nd3JlY2slMkZ0YW5nd3JlY2suaHRtbCU3Q1RoZSUyMFZpZXRuYW0lMjBCaW5oJTIwQ2hhdSUyMChDaGF1JTIwVGFuKSUyMExhdGUlMjBUYW5nJTIwV3JlY2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1NTQ1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDAxJTNBMzYlM0E0MCUyMCUyQjAwMDA",
+      "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+      "pubDate": "Wed, 19 Aug 2026 01:36:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2VyZWJyYXMuYWklMkZjczQlN0NodHRwcyUzQSUyRiUyRnd3dy5jZXJlYnJhcy5haSUyRmNzNCU3Q0NlcmVicmFzJTIwQ1MtNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU0OTQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMDAlM0EyOCUzQTE4JTIwJTJCMDAwMA",
+      "title": "Cerebras CS-4",
+      "pubDate": "Wed, 19 Aug 2026 00:28:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
     }
   ]
