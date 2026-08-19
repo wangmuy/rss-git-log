@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-18",
     "newestItemDate": "2026-08-18",
-    "itemCount": 22,
-    "generatedAt": "2026-08-18T16:52:29.769Z"
+    "itemCount": 37,
+    "generatedAt": "2026-08-19T01:55:57.740Z"
   },
   "items": [
     {
@@ -138,6 +138,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZncmlzdC5vcmclMkZ0cmFuc3BvcnRhdGlvbiUyRmNhbGlmb3JuaWFzLW5ldy10aXJlLWVmZmljaWVuY3ktcnVsZXMtY291bGQtc2F2ZS1kcml2ZXJzLTFiLWEteWVhciUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3Jpc3Qub3JnJTJGdHJhbnNwb3J0YXRpb24lMkZjYWxpZm9ybmlhcy1uZXctdGlyZS1lZmZpY2llbmN5LXJ1bGVzLWNvdWxkLXNhdmUtZHJpdmVycy0xYi1hLXllYXIlMkYlN0NDYWxpZm9ybmlhJ3MlMjBuZXclMjB0aXJlJTIwZWZmaWNpZW5jeSUyMHJ1bGVzJTIwY291bGQlMjBzYXZlJTIwZHJpdmVycyUyMCUyNDFCJTIwYSUyMHllYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0MDcxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDAyJTNBNTglM0E0MiUyMCUyQjAwMDA",
       "title": "California's new tire efficiency rules could save drivers $1B a year",
       "pubDate": "Tue, 18 Aug 2026 02:58:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb2RlbG1hcC5jYyU3Q2h0dHBzJTNBJTJGJTJGbW9kZWxtYXAuY2MlMkYlN0NTaG93JTIwSE4lM0ElMjBJbnRlcmFjdGl2ZSUyQyUyMGFuaW1hdGVkJTIwYXJjaGl0ZWN0dXJlJTIwb2YlMjBhbnklMjBIdWdnaW5nRmFjZSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU0NjY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMjMlM0E1NyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "pubDate": "Tue, 18 Aug 2026 23:57:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGc4MyUyRnNvbG8lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwZzgzJTJGc29sbyU3Q1NvbG8lMjAlRTIlODAlOTMlMjBhJTIwLnNvJTIwbG9hZGVyJTIwZm9yJTIwc3RhdGljJTIwTGludXglMjBiaW5hcmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzU0NjEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMjMlM0E1MSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Solo – a .so loader for static Linux binaries",
+      "pubDate": "Tue, 18 Aug 2026 23:51:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHByZXZpZXcuY29tJTJGbmV3cyUyRnRoZS05MC15ZWFyLWhpc3Rvcnktb2YtdGhlLWJpbm9jdWxhcnMtYm9sdGVkLXRvLXNjZW5pYy1vdmVybG9va3MlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kcHJldmlldy5jb20lMkZuZXdzJTJGdGhlLTkwLXllYXItaGlzdG9yeS1vZi10aGUtYmlub2N1bGFycy1ib2x0ZWQtdG8tc2NlbmljLW92ZXJsb29rcyUyRiU3Q1RoZSUyMDkwLXllYXIlMjBoaXN0b3J5JTIwb2YlMjB0aGUlMjBiaW5vY3VsYXJzJTIwYm9sdGVkJTIwdG8lMjBzY2VuaWMlMjBvdmVybG9va3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1Mzg1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDIyJTNBNDMlM0EwNiUyMCUyQjAwMDA",
+      "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+      "pubDate": "Tue, 18 Aug 2026 22:43:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYXIuYXBwJTJGZGF0YSU3Q2h0dHBzJTNBJTJGJTJGbGluZWFyLmFwcCUyRmRhdGElN0NBSSUyMHVzYWdlJTIwcGF0dGVybnMlMjBpbiUyMHNvZnR3YXJlJTIwdGVhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1MzQzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDIyJTNBMDglM0EwNyUyMCUyQjAwMDA",
+      "title": "AI usage patterns in software teams",
+      "pubDate": "Tue, 18 Aug 2026 22:08:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZnbG0tNS0zJTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZnbG0tNS0zJTdDR0xNLTUuMyUyMEFydGlmaWNpYWwlMjBBbmFseXNpcyUyMEJlbmNobWFya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1MzQwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDIyJTNBMDYlM0ExMCUyMCUyQjAwMDA",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "pubDate": "Tue, 18 Aug 2026 22:06:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGVuaXNTZXJnZWV2aXRjaCUyRmRlc2t0b3AtZmx5JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGVuaXNTZXJnZWV2aXRjaCUyRmRlc2t0b3AtZmx5JTdDQSUyMDNEJTIwZnJ1aXQlMjBmbHklMjBvbiUyMG1hY09TJTIwZGVza3RvcCUyMHBvd2VyZWQlMjBieSUyMHRoZSUyMHJlYWwlMjBGbHlXaXJlJTIwY29ubmVjdG9tZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzUzMjIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMjElM0E1MCUzQTMzJTIwJTJCMDAwMA",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "pubDate": "Tue, 18 Aug 2026 21:50:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZG4ua3ViZXIuc3R1ZGlvJTJGY2hhdCUyRmhwLWxhc2VyLTEwMDhhLWRyaXZlciU3Q2h0dHBzJTNBJTJGJTJGY2RuLmt1YmVyLnN0dWRpbyUyRmNoYXQlMkZocC1sYXNlci0xMDA4YS1kcml2ZXIlN0NDbGF1ZGUlMjBDb2RlJTIwVGVhY2hpbmclMjBtYWNPUyUyMHRvJTIwTmF0aXZlbHklMjBQcmludCUyMHRvJTIwdGhlJTIwSFAlMjBMYXNlciUyMDEwMDhhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTI4MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAyMSUzQTE0JTNBMjElMjAlMkIwMDAw",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "pubDate": "Tue, 18 Aug 2026 21:14:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub25ldGhvdXNhbmRtZWFucy5jb20lMkZwJTJGbm9yd2F5LXNob3VsZC1idXktb3BlbmFpJTdDaHR0cHMlM0ElMkYlMkZ3d3cub25ldGhvdXNhbmRtZWFucy5jb20lMkZwJTJGbm9yd2F5LXNob3VsZC1idXktb3BlbmFpJTdDTm9yd2F5JTIwc2hvdWxkJTIwYnV5JTIwT3BlbkFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTEzMzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTMwJTNBMjklMjAlMkIwMDAw",
+      "title": "Norway should buy OpenAI",
+      "pubDate": "Tue, 18 Aug 2026 19:30:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYm91dC5pY2VsYW5kLmNvLnVrJTJGb3VyLXN0b3J5JTJGdGhlLWRhcmstYWdlcyUyRmJld2FyZS1tYW5hZ2VtZW50LWNvbnN1bHRhbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZhYm91dC5pY2VsYW5kLmNvLnVrJTJGb3VyLXN0b3J5JTJGdGhlLWRhcmstYWdlcyUyRmJld2FyZS1tYW5hZ2VtZW50LWNvbnN1bHRhbnRzJTJGJTdDQmV3YXJlJTIwTWFuYWdlbWVudCUyMENvbnN1bHRhbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTEzMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTI5JTNBNTElMjAlMkIwMDAw",
+      "title": "Beware Management Consultants",
+      "pubDate": "Tue, 18 Aug 2026 19:29:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWtlYS5jb20lMkZzZSUyRmVuJTJGY3VzdG9tZXItc2VydmljZSUyRmtub3dsZWRnZSUyRmFydGljbGVzJTJGNmY1NjRjNGQtMmNjYy00NmRlLWI2NDMtNTQ1YTM5NDhkYzc5Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5pa2VhLmNvbSUyRnNlJTJGZW4lMkZjdXN0b21lci1zZXJ2aWNlJTJGa25vd2xlZGdlJTJGYXJ0aWNsZXMlMkY2ZjU2NGM0ZC0yY2NjLTQ2ZGUtYjY0My01NDVhMzk0OGRjNzkuaHRtbCU3Q0hvdyUyMGRvZXMlMjBJS0VBJTIwY29tZSUyMHVwJTIwd2l0aCUyMG5hbWVzJTIwZm9yJTIwaXRzJTIwcHJvZHVjdHMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0OTk4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE4JTNBMTElM0E1MyUyMCUyQjAwMDA",
+      "title": "How does IKEA come up with names for its products?",
+      "pubDate": "Tue, 18 Aug 2026 18:11:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUnlhbkNvZHJhaSUyRnR1cmJvdmVjJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUnlhbkNvZHJhaSUyRnR1cmJvdmVjJTdDVHVyYm92ZWMlMjAlRTIlODAlOTMlMjBHb29nbGUncyUyMFR1cmJvUXVhbnQlMjBmb3IlMjB2ZWN0b3IlMjBzZWFyY2glMjBpbiUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0OTg5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE4JTNBMDclM0EyMSUyMCUyQjAwMDA",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "pubDate": "Tue, 18 Aug 2026 18:07:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMDglMkZhbmQtdGhlbi10aGUtbWVuLXdpdGgtZ3Vucy10ZWxsLXlvdS10by1kby1pdC1hbnl3YXklMkYlN0NodHRwcyUzQSUyRiUyRnNoa3Nwci5tb2JpJTJGYmxvZyUyRjIwMjYlMkYwOCUyRmFuZC10aGVuLXRoZS1tZW4td2l0aC1ndW5zLXRlbGwteW91LXRvLWRvLWl0LWFueXdheSUyRiU3Q0FuZCUyMHRoZW4lMjB0aGUlMjBtZW4lMjB3aXRoJTIwZ3VucyUyMHRlbGwlMjB5b3UlMjB0byUyMGRvJTIwaXQlMjBhbnl3YXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0ODkxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE3JTNBMTElM0EyOCUyMCUyQjAwMDA",
+      "title": "And then the men with guns tell you to do it anyway",
+      "pubDate": "Tue, 18 Aug 2026 17:11:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTU5MTA4NDUtY2xhdWRlLWNvZGUtbWF5LWF1Z3VzdC0yMDI2LXdlZWtseS1saW1pdHMtcHJvbW90aW9uJTdDaHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTU5MTA4NDUtY2xhdWRlLWNvZGUtbWF5LWF1Z3VzdC0yMDI2LXdlZWtseS1saW1pdHMtcHJvbW90aW9uJTdDQ2xhdWRlJTIwQ29kZSUyME1heSVFMiU4MCU5M0F1Z3VzdCUyMDIwMjYlMjB3ZWVrbHklMjBsaW1pdHMlMjBwcm9tb3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0ODc1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE3JTNBMDIlM0ExNSUyMCUyQjAwMDA",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "pubDate": "Tue, 18 Aug 2026 17:02:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXRocy5ibG9nJTJGMjAyNiUyRjA4JTJGdGhlLWFtYXpvbi10YXglMkYlN0NodHRwcyUzQSUyRiUyRnNldGhzLmJsb2clMkYyMDI2JTJGMDglMkZ0aGUtYW1hem9uLXRheCUyRiU3Q1RoZSUyMEFtYXpvbiUyMHRheCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ1MjYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTMlM0EyMiUzQTM4JTIwJTJCMDAwMA",
+      "title": "The Amazon tax",
+      "pubDate": "Tue, 18 Aug 2026 13:22:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFudHVtNS5jYSUyRjIwMjYlMkYwOCUyRjE2JTJGZml4aW5nLWJyaWNrZWQtYW1kLTcwNDAtc2VyaWVzLWZyYW1ld29yay0xMy1sYXB0b3Atd2l0aC0yMC10b29scyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVhbnR1bTUuY2ElMkYyMDI2JTJGMDglMkYxNiUyRmZpeGluZy1icmlja2VkLWFtZC03MDQwLXNlcmllcy1mcmFtZXdvcmstMTMtbGFwdG9wLXdpdGgtMjAtdG9vbHMlMkYlN0NGaXhpbmclMjBhJTIwYnJpY2tlZCUyMEZyYW1ld29yayUyMGxhcHRvcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ1MjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTMlM0ExOCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Fixing a bricked Framework laptop",
+      "pubDate": "Tue, 18 Aug 2026 13:18:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
     }
   ]
