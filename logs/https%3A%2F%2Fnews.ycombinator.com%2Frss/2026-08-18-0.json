@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-18",
     "newestItemDate": "2026-08-18",
-    "itemCount": 44,
-    "generatedAt": "2026-08-20T08:59:37.636Z"
+    "itemCount": 47,
+    "generatedAt": "2026-08-20T16:55:19.556Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqdW1wbG9vcHMuY29tJTJGYmxvZyUyRnNvbC1sb3Zlcy10by1jaGVhdCUyRiU3Q2h0dHBzJTNBJTJGJTJGanVtcGxvb3BzLmNvbSUyRmJsb2clMkZzb2wtbG92ZXMtdG8tY2hlYXQlMkYlN0NTb2wlMjBsb3ZlcyUyMHRvJTIwY2hlYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0ODE4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE2JTNBMjklM0E1MSUyMCUyQjAwMDA",
       "title": "Sol loves to cheat",
       "pubDate": "Tue, 18 Aug 2026 16:29:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJzb3IuY29tJTJGYmxvZyUyRmdpdC1hdC1hbnktc2NhbGUlN0NodHRwcyUzQSUyRiUyRmN1cnNvci5jb20lMkZibG9nJTJGZ2l0LWF0LWFueS1zY2FsZSU3Q0dpdCUyMGF0JTIwYW55JTIwc2NhbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0ODE0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE2JTNBMjYlM0E1NiUyMCUyQjAwMDA",
+      "title": "Git at any scale",
+      "pubDate": "Tue, 18 Aug 2026 16:26:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9kdWxhci5jb20lMkZibG9nJTJGbW9qby1vcGVuLXNvdXJjZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1vZHVsYXIuY29tJTJGYmxvZyUyRm1vam8tb3Blbi1zb3VyY2UlN0NNb2pvJTIwaXMlMjBub3clMjBvcGVuJTIwc291cmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNDgwNzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTIzJTNBMjQlMjAlMkIwMDAw",
+      "title": "Mojo is now open source",
+      "pubDate": "Tue, 18 Aug 2026 16:23:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXhwZXJpbWVudGFsLWhpc3RvcnkuY29tJTJGcCUyRmktbGlrZS1lbS10aGljayU3Q2h0dHBzJTNBJTJGJTJGd3d3LmV4cGVyaW1lbnRhbC1oaXN0b3J5LmNvbSUyRnAlMkZpLWxpa2UtZW0tdGhpY2slN0NJJTIwbGlrZSUyMCdlbSUyMHRoaWNrJTNBJTIwYW4lMjBhcG9sb2d5JTIwdG8lMjBteSUyMEVuZ2xpc2glMjB0ZWFjaGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ3NTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTUlM0E1MCUzQTUyJTIwJTJCMDAwMA",
+      "title": "I like 'em thick: an apology to my English teachers",
+      "pubDate": "Tue, 18 Aug 2026 15:50:52 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
     }
   ]

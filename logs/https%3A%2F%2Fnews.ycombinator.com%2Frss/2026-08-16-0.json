@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 48,
-    "generatedAt": "2026-08-20T08:59:37.636Z"
+    "itemCount": 49,
+    "generatedAt": "2026-08-20T16:55:19.556Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzbmFya3kuY2ElMkZ3aGF0cy1taXNzaW5nLXRvLWhhdmUtcmVwcm9kdWNpYmxlLWJ1aWxkcy1vbi1weXBpJTJGJTdDaHR0cHMlM0ElMkYlMkZzbmFya3kuY2ElMkZ3aGF0cy1taXNzaW5nLXRvLWhhdmUtcmVwcm9kdWNpYmxlLWJ1aWxkcy1vbi1weXBpJTJGJTdDV2hhdCdzJTIwbWlzc2luZyUyMHRvJTIwaGF2ZSUyMHJlcHJvZHVjaWJsZSUyMGJ1aWxkcyUyMG9uJTIwUHlQSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE3MjQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMDUlM0E0OCUzQTQxJTIwJTJCMDAwMA",
       "title": "What's missing to have reproducible builds on PyPI",
       "pubDate": "Sun, 16 Aug 2026 05:48:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJla2Zpc2VyLmNvbSUyRmJsb2clMkZkb3VibGUtZG91YmxlLWFyaXRobWV0aWMlMkYlN0NodHRwcyUzQSUyRiUyRm1hcmVrZmlzZXIuY29tJTJGYmxvZyUyRmRvdWJsZS1kb3VibGUtYXJpdGhtZXRpYyUyRiU3Q0RvdWJsZS1kb3VibGUlM0ElMjAzMSUyMGRpZ2l0cyUyMG9mJTIwcHJlY2lzaW9uJTIwd2l0aG91dCUyMGxlYXZpbmclMjB0aGUlMjBGUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMjg2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDE5JTNBMjUlM0E0MSUyMCUyQjAwMDA",
+      "title": "Double-double: 31 digits of precision without leaving the FPU",
+      "pubDate": "Sun, 16 Aug 2026 19:25:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }
   ]

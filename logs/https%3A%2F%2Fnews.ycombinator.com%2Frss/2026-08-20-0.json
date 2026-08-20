@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-20",
     "newestItemDate": "2026-08-20",
-    "itemCount": 5,
-    "generatedAt": "2026-08-20T08:59:37.635Z"
+    "itemCount": 26,
+    "generatedAt": "2026-08-20T16:55:19.556Z"
   },
   "items": [
     {
@@ -36,6 +36,132 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29tcHV0ZXJlbmhhbmNlLmNvbSUyRnAlMkZ0dXJucy1hcmUtYmV0dGVyLXRoYW4tcmFkaWFucyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbXB1dGVyZW5oYW5jZS5jb20lMkZwJTJGdHVybnMtYXJlLWJldHRlci10aGFuLXJhZGlhbnMlN0NUdXJucyUyMGFyZSUyMEJldHRlciUyMHRoYW4lMjBSYWRpYW5zJTIwKDIwMjIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjk0MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAwMSUzQTI5JTNBMTIlMjAlMkIwMDAw",
       "title": "Turns are Better than Radians (2022)",
       "pubDate": "Thu, 20 Aug 2026 01:29:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29kZWRnZS5kZSUyRnBvc3RzJTJGaG93LXRvLWNvbXByb21pc2UteW91ci1zeXN0ZW0td2l0aC1hLWpvYi1pbnRlcnZpZXclN0NodHRwcyUzQSUyRiUyRnd3dy5jb2RlZGdlLmRlJTJGcG9zdHMlMkZob3ctdG8tY29tcHJvbWlzZS15b3VyLXN5c3RlbS13aXRoLWEtam9iLWludGVydmlldyU3Q0hvdyUyMHRvJTIwY29tcHJvbWlzZSUyMHlvdXIlMjBzeXN0ZW0lMjB3aXRoJTIwYSUyMGpvYiUyMGludGVydmlldyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc2MzMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTUlM0E1MCUzQTU3JTIwJTJCMDAwMA",
+      "title": "How to compromise your system with a job interview",
+      "pubDate": "Thu, 20 Aug 2026 15:50:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWdhbGlhLmNvbSUyRjIwMjYlMkYwOCUyRjE5JTJGTGludXgtNzItUmVsZWFzZWQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmlnYWxpYS5jb20lMkYyMDI2JTJGMDglMkYxOSUyRkxpbnV4LTcyLVJlbGVhc2VkLmh0bWwlN0NMaW51eCUyMDcuMiUyMFJlbGVhc2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzYyNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTQ2JTNBMTglMjAlMkIwMDAw",
+      "title": "Linux 7.2 Released",
+      "pubDate": "Thu, 20 Aug 2026 15:46:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb21pbmlrLmluZm8lMkZibG9nJTJGZ28tZ2VuZXJpYy1tZXRob2RzJTdDaHR0cHMlM0ElMkYlMkZkb21pbmlrLmluZm8lMkZibG9nJTJGZ28tZ2VuZXJpYy1tZXRob2RzJTdDR2VuZXJpYyUyME1ldGhvZHMlMjBpbiUyMEdvJTIwMS4yNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc2MjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTUlM0E0MSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Generic Methods in Go 1.27",
+      "pubDate": "Thu, 20 Aug 2026 15:41:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnVudmVuZG8lMkZ2ZW5kbyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJ1bnZlbmRvJTJGdmVuZG8lN0NMYXVuY2glMjBITiUzQSUyMFZlbmRvJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMExldCUyMHVzZXJzJTIwYnVpbGQlMjBmZWF0dXJlcyUyMG9uJTIwdG9wJTIwb2YlMjB5b3VyJTIwcHJvZHVjdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc2MDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTUlM0EyOSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "pubDate": "Thu, 20 Aug 2026 15:29:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemFjaGFobiUyRnZvbWl0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemFjaGFobiUyRnZvbWl0JTdDQ2xlYW4lMjB1cCUyMENsYXVkZSUyMDUncyUyMHRva2VuJTIwdm9taXQlMjB3aXRoJTIwYSUyMHNlcGFyYXRlJTIwTExNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzU5OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTI2JTNBMDIlMjAlMkIwMDAw",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "pubDate": "Thu, 20 Aug 2026 15:26:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnlhcm9zLmFlJTJGYW50aS1haS1mb250cy1hcmUtdXNlbGVzcy1hbmQtaGFybWZ1bCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy55YXJvcy5hZSUyRmFudGktYWktZm9udHMtYXJlLXVzZWxlc3MtYW5kLWhhcm1mdWwlMkYlN0NBbnRpLUFJJTIwZm9udHMlMjBhcmUlMjB1c2VsZXNzJTIwYW5kJTIwaGFybWZ1bCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc1NzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTUlM0EwNiUzQTUzJTIwJTJCMDAwMA",
+      "title": "Anti-AI fonts are useless and harmful",
+      "pubDate": "Thu, 20 Aug 2026 15:06:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6b25lbGVzcy5jb20lN0NodHRwcyUzQSUyRiUyRnpvbmVsZXNzLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyME9wZW4tc291cmNlJTIwU3RyaXBlJTIwQ29ubmVjdCUyMGFsdGVybmF0aXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzUyNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTM4JTNBNDUlMjAlMkIwMDAw",
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "pubDate": "Thu, 20 Aug 2026 14:38:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWIuZG91Yi5seSUyRiU3Q2h0dHBzJTNBJTJGJTJGcHViLmRvdWIubHklMkYlN0NTaG93JTIwSE4lM0ElMjBDaGVjayUyMGlmJTIwYW55JTIwb2YlMjB0aGUlMjAlMjQ2NTZNJTIwaW4lMjB1bmNsYWltZWQlMjByb3lhbHRpZXMlMjBhdCUyMFRoZSUyME1MQyUyMGlzJTIweW91cnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3NTIzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDE0JTNBMzglM0EyOCUyMCUyQjAwMDA",
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "pubDate": "Thu, 20 Aug 2026 14:38:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGxpcHRpYy1yYW5rLmljYXJtLmNsb3VkJTJGY3VydmUlMkYyNzMlN0NodHRwcyUzQSUyRiUyRmVsbGlwdGljLXJhbmsuaWNhcm0uY2xvdWQlMkZjdXJ2ZSUyRjI3MyU3Q0FuJTIwZWxsaXB0aWMlMjBjdXJ2ZSUyMG9mJTIwcmFuayUyMCVFMiU4OSVBNSUyMDMwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzQ4NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTE0JTNBMzklMjAlMkIwMDAw",
+      "title": "An elliptic curve of rank ≥ 30",
+      "pubDate": "Thu, 20 Aug 2026 14:14:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidW4uY29tJTJGYmxvZyUyRmJ1bi12MS40JTdDaHR0cHMlM0ElMkYlMkZidW4uY29tJTJGYmxvZyUyRmJ1bi12MS40JTdDQnVuJTIwMS40JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzQ3OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTEwJTNBMTIlMjAlMkIwMDAw",
+      "title": "Bun 1.4",
+      "pubDate": "Thu, 20 Aug 2026 14:10:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWlrZWthc2JlcmcuY29tJTJGYmxvZyUyRjIwMjYlMkYwOCUyRjE5JTJGaGFja2luZy13aXRoLWNsYXVkZS1vbi1hLTI3LXNtYXJ0LXdhdGNoLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5taWtla2FzYmVyZy5jb20lMkZibG9nJTJGMjAyNiUyRjA4JTJGMTklMkZoYWNraW5nLXdpdGgtY2xhdWRlLW9uLWEtMjctc21hcnQtd2F0Y2guaHRtbCU3Q0hhY2tpbmclMjB3aXRoJTIwQ2xhdWRlJTIwb24lMjBhJTIwJTI0MjclMjBTbWFydCUyMFdhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzQ3NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTA4JTNBMDklMjAlMkIwMDAw",
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "pubDate": "Thu, 20 Aug 2026 14:08:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcmVhZG5vZGUuaW8lMkZyZXNlYXJjaCUyRmV2ZXJ5LW1vZGVsLWNoZWF0cy1wcm9tcHQtbGV2ZWwtbWl0aWdhdGlvbi1vZi1jaGVhdGluZy1vbi1vZmZlbnNpdmUtY3liZXItdGFza3MlMkYlN0NodHRwcyUzQSUyRiUyRmRyZWFkbm9kZS5pbyUyRnJlc2VhcmNoJTJGZXZlcnktbW9kZWwtY2hlYXRzLXByb21wdC1sZXZlbC1taXRpZ2F0aW9uLW9mLWNoZWF0aW5nLW9uLW9mZmVuc2l2ZS1jeWJlci10YXNrcyUyRiU3Q0V2ZXJ5JTIwTW9kZWwlMjBDaGVhdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3NDYzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDEzJTNBNTYlM0E1OSUyMCUyQjAwMDA",
+      "title": "Every Model Cheats",
+      "pubDate": "Thu, 20 Aug 2026 13:56:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjAwMTQ2JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjAwMTQ2JTdDRGlmZnVzaW9uR2VtbWElMjBUZWNobmljYWwlMjBSZXBvcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3NDI4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDEzJTNBMjQlM0EzMiUyMCUyQjAwMDA",
+      "title": "DiffusionGemma Technical Report",
+      "pubDate": "Thu, 20 Aug 2026 13:24:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYWZlZGVwLmlvJTJGYXJyYXlyZWYtcHJvYy1tYWNybzEtcnVzdC1idWlsZC10aW1lLW1hbHdhcmUlMkYlN0NodHRwcyUzQSUyRiUyRnNhZmVkZXAuaW8lMkZhcnJheXJlZi1wcm9jLW1hY3JvMS1ydXN0LWJ1aWxkLXRpbWUtbWFsd2FyZSUyRiU3Q01hbGljaW91cyUyMFJ1c3QlMjBjcmF0ZSUyMEFycmF5cmVmJTIwcnVucyUyMGElMjBidWlsZC10aW1lJTIwcGF5bG9hZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc0MjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTMlM0EyMyUzQTEyJTIwJTJCMDAwMA",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "pubDate": "Thu, 20 Aug 2026 13:23:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZXZlbGF0b3Iub3JnJTJGd2h5LW9jZWFuLWNsZWFudXAtaGFzLW5vdC1zb2x2ZWQtcGxhc3RpYy1wb2xsdXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRnRoZXJldmVsYXRvci5vcmclMkZ3aHktb2NlYW4tY2xlYW51cC1oYXMtbm90LXNvbHZlZC1wbGFzdGljLXBvbGx1dGlvbiUyRiU3Q1doeSUyMHRoZSUyME9jZWFuJTIwQ2xlYW51cCUyMGhhc24ndCUyMHNvbHZlZCUyMHRoZSUyMHBsYXN0aWMlMjBwb2xsdXRpb24lMjBjcmlzaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3NDAzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDEyJTNBNTglM0EzMSUyMCUyQjAwMDA",
+      "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
+      "pubDate": "Thu, 20 Aug 2026 12:58:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXN0cy54Lm9yZyUyRmFyY2hpdmVzJTJGeG9yZy1hbm5vdW5jZSUyRjIwMjYtQXVndXN0JTJGMDAzNzQxLmh0bWwlN0NodHRwcyUzQSUyRiUyRmxpc3RzLngub3JnJTJGYXJjaGl2ZXMlMkZ4b3JnLWFubm91bmNlJTJGMjAyNi1BdWd1c3QlMkYwMDM3NDEuaHRtbCU3Q1hvcmctU2VydmVyJTIwMjYuMC45OS45MDElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3MzkzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDEyJTNBNTAlM0ExNiUyMCUyQjAwMDA",
+      "title": "Xorg-Server 26.0.99.901",
+      "pubDate": "Thu, 20 Aug 2026 12:50:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1lZHcuY29tJTJGMjAyNiUyRjA4JTJGMjAlMkZtaWRpLWF1dG9jb21wbGV0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGc2ltZWR3LmNvbSUyRjIwMjYlMkYwOCUyRjIwJTJGbWlkaS1hdXRvY29tcGxldGUlMkYlN0NTaG93JTIwSE4lM0ElMjBJJTIwdHJhaW5lZCUyMGElMjAxMjVNJTIwbW9kZWwlMjB0byUyMGF1dG9jb21wbGV0ZSUyMHBpYW5vJTIwb24tZGV2aWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzM0NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxMiUzQTA0JTNBMzglMjAlMkIwMDAw",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "pubDate": "Thu, 20 Aug 2026 12:04:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcHJvb2Ytb2YtaHVtYW4lMkZqb2JzJTJGWlRaSEViYi1tZW1iZXItb2YtdGVjaG5pY2FsLXN0YWZmJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcHJvb2Ytb2YtaHVtYW4lMkZqb2JzJTJGWlRaSEViYi1tZW1iZXItb2YtdGVjaG5pY2FsLXN0YWZmJTdDUHJvb2YlMjBvZiUyMEh1bWFuJTIwKFlDJTIwUzIzKSUyMElzJTIwSGlyaW5nJTIwYSUyME1lbWJlciUyMG9mJTIwVGVjaG5pY2FsJTIwU3RhZmYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3MzQyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDEyJTNBMDAlM0EyMyUyMCUyQjAwMDA",
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "pubDate": "Thu, 20 Aug 2026 12:00:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmxhc2VycGhpbGUuY29tJTJGMjAyNiUyRjA4JTJGYWxpZXhwcmVzcy13ZWJwYWdlLWtlZXBpbmctbXVsdGlwb2ludC5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLmxhc2VycGhpbGUuY29tJTJGMjAyNiUyRjA4JTJGYWxpZXhwcmVzcy13ZWJwYWdlLWtlZXBpbmctbXVsdGlwb2ludC5odG1sJTdDQWxpRXhwcmVzcyUyMHJ1bnMlMjBzaWxlbnQlMjBXZWJBdWRpbyUyMGZpbmdlcnByaW50aW5nJTIwdGhhdCUyMGJyZWFrcyUyMEJsdWV0b290aCUyMG11bHRpcG9pbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3MjU4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDEwJTNBMDglM0E1MiUyMCUyQjAwMDA",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "pubDate": "Thu, 20 Aug 2026 10:08:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDAzMDgyNS0wMCUyRiUzRnAlM0Q0MjgwMyU3Q2h0dHBzJTNBJTJGJTJGZGV2YmxvZ3MubWljcm9zb2Z0LmNvbSUyRm9sZG5ld3RoaW5nJTJGMjAwMzA4MjUtMDAlMkYlM0ZwJTNENDI4MDMlN0NXaW5kb3dzJTIwYnJpbmdzJTIwb3V0JTIwdGhlJTIwUm9yc2NoYWNoJTIwdGVzdCUyMGluJTIwZXZlcnlvbmUlMjAoMjAwMyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3MTAwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDA2JTNBMTYlM0E0MCUyMCUyQjAwMDA",
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "pubDate": "Thu, 20 Aug 2026 06:16:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZzdGV2ZS1qb2JzLWFwcGxlLW5leHQtY2lhLTE2MWI2NWY5JTNGc3QlM0ROV1dkczElMjZyZWZsaW5rJTNEZGVza3RvcHdlYnNoYXJlX3Blcm1hbGluayU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndzai5jb20lMkZ0ZWNoJTJGc3RldmUtam9icy1hcHBsZS1uZXh0LWNpYS0xNjFiNjVmOSUzRnN0JTNETldXZHMxJTI2cmVmbGluayUzRGRlc2t0b3B3ZWJzaGFyZV9wZXJtYWxpbmslN0NDSUElMjBmdW5kaW5nJTIwaGVscGVkJTIwa2VlcCUyME5lWFQlMjBhZmxvYXQlMjBpbiUyMHRoZSUyMDgwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzY4ODg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMDAlM0ExNSUzQTAxJTIwJTJCMDAwMA",
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "pubDate": "Thu, 20 Aug 2026 00:15:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
     }
   ]

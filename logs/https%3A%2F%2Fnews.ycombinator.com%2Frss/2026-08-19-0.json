@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-19",
     "newestItemDate": "2026-08-19",
-    "itemCount": 46,
-    "generatedAt": "2026-08-20T08:59:37.636Z"
+    "itemCount": 48,
+    "generatedAt": "2026-08-20T16:55:19.556Z"
   },
   "items": [
     {
@@ -282,6 +282,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGVuZW9zLnNvY2lhbCUyRiU0MEdyYXBoZW5lT1MlMkYxMTcwNTcwOTk3NTM5MDUwMjMlN0NodHRwcyUzQSUyRiUyRmdyYXBoZW5lb3Muc29jaWFsJTJGJTQwR3JhcGhlbmVPUyUyRjExNzA1NzA5OTc1MzkwNTAyMyU3Q0dvb2dsZSUyMGhhcyUyMHN0b3BwZWQlMjBwdXNoaW5nJTIwR2l0JTIwdGFncyUyMGZvciUyMHNvbWUlMjBBbmRyb2lkJTIwc291cmNlJTIwY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzY0NzQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTclM0E0NyUzQTI5JTIwJTJCMDAwMA",
       "title": "Google has stopped pushing Git tags for some Android source code",
       "pubDate": "Wed, 19 Aug 2026 17:47:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHJpc2J1cm5lbGwuY29tJTJGaHRtbC1jYW4tZG8tdGhhdCUyRiU3Q2h0dHBzJTNBJTJGJTJGY2hyaXNidXJuZWxsLmNvbSUyRmh0bWwtY2FuLWRvLXRoYXQlMkYlN0NIVE1MJTIwQ2FuJTIwRG8lMjBUaGF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjI2ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTExJTNBMzYlMjAlMkIwMDAw",
+      "title": "HTML Can Do That",
+      "pubDate": "Wed, 19 Aug 2026 15:11:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA0LjA5NzYyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA0LjA5NzYyJTdDU3RvcCUyMEFudGhyb3BvbW9ycGhpemluZyUyMEludGVybWVkaWF0ZSUyMFRva2VucyUyMGFzJTIwUmVhc29uaW5nJTJGVGhpbmtpbmclMjBUcmFjZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MDE0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDExJTNBMzUlM0EyNiUyMCUyQjAwMDA",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "pubDate": "Wed, 19 Aug 2026 11:35:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
     }
   ]
