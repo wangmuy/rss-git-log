@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-18",
     "newestItemDate": "2026-08-18",
-    "itemCount": 40,
-    "generatedAt": "2026-08-19T16:50:52.558Z"
+    "itemCount": 43,
+    "generatedAt": "2026-08-20T01:55:07.242Z"
   },
   "items": [
     {
@@ -246,6 +246,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdml4aGFsLWJhcmFpeWElMkZtaWNyb2dwdC1jJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdml4aGFsLWJhcmFpeWElMkZtaWNyb2dwdC1jJTdDTWljcm9ncHQlMjBpbiUyMHB1cmUlMjBDJTIwaGl0cyUyMDEwTSUyMHRwcyUyMG9uJTIwQXBwbGUlMjBtNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzQ3NDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTglMjBBdWclMjAyMDI2JTIwMTUlM0E0NiUzQTQ2JTIwJTJCMDAwMA",
       "title": "Microgpt in pure C hits 10M tps on Apple m5",
       "pubDate": "Tue, 18 Aug 2026 15:46:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmeC5zaCU3Q2h0dHBzJTNBJTJGJTJGZnguc2glMkYlN0NmeCUyMCUzQVRpbnklMkMlMjBvcGVuJTJDJTIwbmF0aXZlJTIwY29kaW5nJTIwYWdlbnQuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTMzMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAyMiUzQTAwJTNBMjElMjAlMkIwMDAw",
+      "title": "fx :Tiny, open, native coding agent.",
+      "pubDate": "Tue, 18 Aug 2026 22:00:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZwYWNpbmctbW9kZWwtZGV2ZWxvcG1lbnQtY3liZXItY2FwYWJpbGl0aWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZwYWNpbmctbW9kZWwtZGV2ZWxvcG1lbnQtY3liZXItY2FwYWJpbGl0aWVzJTJGJTdDUGFjaW5nJTIwbW9kZWwlMjBkZXZlbG9wbWVudCUyMGluJTIwYW4lMjBlcmElMjBvZiUyMGN5YmVyLWNyaXRpY2FsJTIwY2FwYWJpbGl0aWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTAwMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxOCUyMEF1ZyUyMDIwMjYlMjAxOCUzQTE0JTNBNTklMjAlMkIwMDAw",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "pubDate": "Tue, 18 Aug 2026 18:14:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdW1wbG9vcHMuY29tJTJGYmxvZyUyRnNvbC1sb3Zlcy10by1jaGVhdCUyRiU3Q2h0dHBzJTNBJTJGJTJGanVtcGxvb3BzLmNvbSUyRmJsb2clMkZzb2wtbG92ZXMtdG8tY2hlYXQlMkYlN0NTb2wlMjBMb3ZlcyUyMHRvJTIwQ2hlYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM0ODE4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE4JTIwQXVnJTIwMjAyNiUyMDE2JTNBMjklM0E1MSUyMCUyQjAwMDA",
+      "title": "Sol Loves to Cheat",
+      "pubDate": "Tue, 18 Aug 2026 16:29:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-18-0.json"
     }
   ]

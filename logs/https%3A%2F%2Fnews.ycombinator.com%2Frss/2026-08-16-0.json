@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 42,
-    "generatedAt": "2026-08-19T16:50:52.559Z"
+    "itemCount": 44,
+    "generatedAt": "2026-08-20T01:55:07.243Z"
   },
   "items": [
     {
@@ -258,6 +258,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtcmFuZHJpMTkuZ2l0aHViLmlvJTJGMjAyNiUyRjA3JTJGMTklMkZkcm9uZS1yYWNpbmctd2l0aC1yZWluZm9yY2VtZW50LWxlYXJuaW5nLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1yYW5kcmkxOS5naXRodWIuaW8lMkYyMDI2JTJGMDclMkYxOSUyRmRyb25lLXJhY2luZy13aXRoLXJlaW5mb3JjZW1lbnQtbGVhcm5pbmcuaHRtbCU3Q0ElMjByZWNpcGUlMjBmb3IlMjBkcm9uZSUyMHJhY2luZyUyMHdpdGglMjByZWluZm9yY2VtZW50JTIwbGVhcm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxOTc0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDEzJTNBMTIlM0EzNCUyMCUyQjAwMDA",
       "title": "A recipe for drone racing with reinforcement learning",
       "pubDate": "Sun, 16 Aug 2026 13:12:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRnRyYXZlbCUyRmFydGljbGUlMkYyMDI2MDgxMS10aGUtc3VwZXJtYXJrZXQtaXMtYmVjb21pbmctYS10b3VyaXN0LWF0dHJhY3Rpb24lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGdHJhdmVsJTJGYXJ0aWNsZSUyRjIwMjYwODExLXRoZS1zdXBlcm1hcmtldC1pcy1iZWNvbWluZy1hLXRvdXJpc3QtYXR0cmFjdGlvbiU3Q1doeSUyMHRyYXZlbGxlcnMlMjBhcmUlMjBvYnNlc3NlZCUyMHdpdGglMjBmb3JlaWduJTIwc3VwZXJtYXJrZXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMTgzNzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAwOSUzQTI1JTNBNDYlMjAlMkIwMDAw",
+      "title": "Why travellers are obsessed with foreign supermarkets",
+      "pubDate": "Sun, 16 Aug 2026 09:25:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWRlbnMuY2wlMkZFbGVjdHJvbiUyRmdlaWdlcjIlMkZnZWlnZXIyLmh0bWwlN0NodHRwcyUzQSUyRiUyRmx1ZGVucy5jbCUyRkVsZWN0cm9uJTJGZ2VpZ2VyMiUyRmdlaWdlcjIuaHRtbCU3Q0ElMjBwb3J0YWJsZSUyQyUyMHNlbnNpdGl2ZSUyQyUyMGxvdyUyMHBvd2VyJTJDJTIwYW5hbG9nJTIwR2VpZ2VyJTIwY291bnRlciUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE3NjMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMDclM0ExMiUzQTU5JTIwJTJCMDAwMA",
+      "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
+      "pubDate": "Sun, 16 Aug 2026 07:12:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }
   ]

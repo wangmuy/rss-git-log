@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-19",
     "newestItemDate": "2026-08-19",
-    "itemCount": 29,
-    "generatedAt": "2026-08-19T16:50:52.558Z"
+    "itemCount": 44,
+    "generatedAt": "2026-08-20T01:55:07.242Z"
   },
   "items": [
     {
@@ -179,6 +179,96 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZW1pbi5iaXppYmFoLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlcmVtaW4uYml6aWJhaC5jb20lMkYlN0NBaXIlMjBUaGVyZW1pbiUyMCVFMiU4MCU5MyUyMGElMjBicm93c2VyJTIwdGhlcmVtaW4lMjB5b3UlMjBwbGF5JTIwYnklMjB3YXZpbmclMjBhdCUyMHlvdXIlMjB3ZWJjYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1OTQyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDEwJTNBMTUlM0EwMCUyMCUyQjAwMDA",
       "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "pubDate": "Wed, 19 Aug 2026 10:15:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQnJpZ2h0YmVhbUFJJTJGY2hhcCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkJyaWdodGJlYW1BSSUyRmNoYXAlN0NDb2xsYWJvcmF0aXZlJTIwSHVtYW4lMjBBZ2VudCUyMFByb3RvY29sJTIwKENIQVApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjc4MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAyMiUzQTA5JTNBMTYlMjAlMkIwMDAw",
+      "title": "Collaborative Human Agent Protocol (CHAP)",
+      "pubDate": "Wed, 19 Aug 2026 22:09:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmNsYXVkZS1jb2RlJTJGaXNzdWVzJTJGNjIzNSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFudGhyb3BpY3MlMkZjbGF1ZGUtY29kZSUyRmlzc3VlcyUyRjYyMzUlN0NGZWF0dXJlJTIwUmVxdWVzdCUzQSUyMFN1cHBvcnQlMjBBR0VOVFMubWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2NzM1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDIxJTNBMTklM0E1MCUyMCUyQjAwMDA",
+      "title": "Feature Request: Support AGENTS.md",
+      "pubDate": "Wed, 19 Aug 2026 21:19:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvczgwODguY29tJTJGc3BvdGxpZ2h0JTJGJTdDaHR0cHMlM0ElMkYlMkZvczgwODguY29tJTJGc3BvdGxpZ2h0JTJGJTdDT3M4MDg4LmNvbSUzQSUyMElCTSUyMFhUJTIwT1MlMjBub3clMjBoYXMlMjBhJTIwQnJvd3NlciUyQyUyMENQJTJGTSUyMDIuMiUyMHdpdGglMjBaODAlMjBjb3JlJTIwYW5kJTIwTVMlMjBXb3JkJTIwMS4xYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzY3MjU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMjElM0ExMSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "pubDate": "Wed, 19 Aug 2026 21:11:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmNvLmFpJTJGYmxvZyUyRmRmbGFzaDIlMkYlN0NodHRwcyUzQSUyRiUyRmluY28uYWklMkZibG9nJTJGZGZsYXNoMiUyRiU3Q0RGbGFzaCUyMDIlM0ElMjBLZWVwJTIwRHJhZnRpbmclMjBQYXJhbGxlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzY2NzkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMjAlM0EyOCUzQTQzJTIwJTJCMDAwMA",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "pubDate": "Wed, 19 Aug 2026 20:28:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZW5ueXByZXNzZXMubmV0JTJGaG9tZSUyRm1hcC5waHAlN0NodHRwcyUzQSUyRiUyRnBlbm55cHJlc3Nlcy5uZXQlMkZob21lJTJGbWFwLnBocCU3Q1ByZXNzZWQlMjBQZW5ueSUyME1hY2hpbmUlMjBNYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2NjU5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDIwJTNBMTMlM0E0NyUyMCUyQjAwMDA",
+      "title": "Pressed Penny Machine Map",
+      "pubDate": "Wed, 19 Aug 2026 20:13:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcHJvY2tldGZveC5pbyUyRnhzc2ZveCUyRjIwMjYlMkYwNyUyRjAxJTJGY3JpY3V0LXVubG9jayUyRiU3Q2h0dHBzJTNBJTJGJTJGc3Byb2NrZXRmb3guaW8lMkZ4c3Nmb3glMkYyMDI2JTJGMDclMkYwMSUyRmNyaWN1dC11bmxvY2slMkYlN0NVbmxvY2tpbmclMjBhJTIwbG9ja2VkJTJGZGVhY3RpdmF0ZWQlMjBlLXdhc3RlJTIwQ3JpY3V0JTIwTWFrZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2NTg0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDE5JTNBMDYlM0ExNiUyMCUyQjAwMDA",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "pubDate": "Wed, 19 Aug 2026 19:06:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnNsb3RoLmFpJTJGZG9jcyUyRmJhc2ljcyUyRmR5bmFtaWMtMy4wLWdndWZzJTdDaHR0cHMlM0ElMkYlMkZ1bnNsb3RoLmFpJTJGZG9jcyUyRmJhc2ljcyUyRmR5bmFtaWMtMy4wLWdndWZzJTdDVW5zbG90aCUyMER5bmFtaWMlMjAzLjAlMjBHR1VGcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzY1NDQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTglM0EzNiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "pubDate": "Wed, 19 Aug 2026 18:36:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnby5kZXYlMkZibG9nJTJGZ28xLjI3JTdDaHR0cHMlM0ElMkYlMkZnby5kZXYlMkZibG9nJTJGZ28xLjI3JTdDR28lMjAxLjI3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjU0MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTMzJTNBNDklMjAlMkIwMDAw",
+      "title": "Go 1.27",
+      "pubDate": "Wed, 19 Aug 2026 18:33:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGVuZW9zLnNvY2lhbCUyRiU0MEdyYXBoZW5lT1MlMkYxMTcwNTcwOTk3NTM5MDUwMjMlN0NodHRwcyUzQSUyRiUyRmdyYXBoZW5lb3Muc29jaWFsJTJGJTQwR3JhcGhlbmVPUyUyRjExNzA1NzA5OTc1MzkwNTAyMyU3Q0dvb2dsZSUyMHJlcGxhY2VkJTIwR2l0JTIwdGFncyUyMGZvciUyMGNlcnRhaW4lMjBzb3VyY2UlMjBjb2RlJTIwd2l0aCUyMG9idGFpbmluZyUyMHZpYSUyMEdvb2dsZSUyMERyaXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjQ3NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTQ3JTNBMjklMjAlMkIwMDAw",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "pubDate": "Wed, 19 Aug 2026 17:47:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGYmxvZyUyRmFubm91bmNlbWVudHMlMkZvcGVucm91dGVyLWlzLWpvaW5pbmctc3RyaXBlJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGYmxvZyUyRmFubm91bmNlbWVudHMlMkZvcGVucm91dGVyLWlzLWpvaW5pbmctc3RyaXBlJTJGJTdDT3BlblJvdXRlciUyMGlzJTIwam9pbmluZyUyMFN0cmlwZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzY0NTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTclM0EzMiUzQTM4JTIwJTJCMDAwMA",
+      "title": "OpenRouter is joining Stripe",
+      "pubDate": "Wed, 19 Aug 2026 17:32:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXJlbXltb3JyZWxsLmRldiUyRmJsb2clMkZleHRlbnNpYmxlLXNvZnR3YXJlLWluLXRoZS1hZ2Utb2YtbGxtcyUyRiU3Q2h0dHBzJTNBJTJGJTJGamVyZW15bW9ycmVsbC5kZXYlMkZibG9nJTJGZXh0ZW5zaWJsZS1zb2Z0d2FyZS1pbi10aGUtYWdlLW9mLWxsbXMlMkYlN0NFeHRlbnNpYmxlJTIwU29mdHdhcmUlMjBpbiUyMHRoZSUyMGFnZSUyMG9mJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzYzNjY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTYlM0EyNiUzQTA1JTIwJTJCMDAwMA",
+      "title": "Extensible Software in the age of LLMs",
+      "pubDate": "Wed, 19 Aug 2026 16:26:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FzaW8uY29tJTJGdWslMkZ3YXRjaGVzJTJGY2FzaW8lMkZwcm9kdWN0LkYtQjEwMFctMUElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYXNpby5jb20lMkZ1ayUyRndhdGNoZXMlMkZjYXNpbyUyRnByb2R1Y3QuRi1CMTAwVy0xQSUyRiU3Q0Nhc2lvJTIwRi1CMTAwVy0xQSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzYyODg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTklMjBBdWclMjAyMDI2JTIwMTUlM0EyOCUzQTAxJTIwJTJCMDAwMA",
+      "title": "Casio F-B100W-1A",
+      "pubDate": "Wed, 19 Aug 2026 15:28:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE2NzUzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE2NzUzJTdDTWF0aGVtYXRpY3MlMjBpbiUyMHRoZSUyMGFnZSUyMG9mJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MjcyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDE1JTNBMTQlM0EyNSUyMCUyQjAwMDA",
+      "title": "Mathematics in the age of AI",
+      "pubDate": "Wed, 19 Aug 2026 15:14:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2NhMTEyNzIwMDAud2l4c2l0ZS5jb20lMkZtYW5hYnVrb3Nha2ElN0NodHRwcyUzQSUyRiUyRmNvY2ExMTI3MjAwMC53aXhzaXRlLmNvbSUyRm1hbmFidWtvc2FrYSU3Q01hbmFidSUyMEtvc2FrYSdzJTIwSGFuZG1hZGUlMjBQYXBlciUyMFNjdWxwdHVyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM2MjAwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDE0JTNBMjAlM0ExMCUyMCUyQjAwMDA",
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "pubDate": "Wed, 19 Aug 2026 14:20:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZW1pbi5iaXppYmFoLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlcmVtaW4uYml6aWJhaC5jb20lMkYlN0NBaXIlMjBUaGVyZW1pbiUyMCVFMiU4MCU5MyUyMEElMjBicm93c2VyJTIwdGhlcmVtaW4lMjB5b3UlMjBwbGF5JTIwYnklMjB3YXZpbmclMjBhdCUyMHlvdXIlMjB3ZWJjYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM1OTQyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE5JTIwQXVnJTIwMjAyNiUyMDEwJTNBMTUlM0EwMCUyMCUyQjAwMDA",
+      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
       "pubDate": "Wed, 19 Aug 2026 10:15:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
     }
