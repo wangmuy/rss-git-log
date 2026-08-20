@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 44,
-    "generatedAt": "2026-08-20T01:55:07.243Z"
+    "itemCount": 48,
+    "generatedAt": "2026-08-20T08:59:37.636Z"
   },
   "items": [
     {
@@ -270,6 +270,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsdWRlbnMuY2wlMkZFbGVjdHJvbiUyRmdlaWdlcjIlMkZnZWlnZXIyLmh0bWwlN0NodHRwcyUzQSUyRiUyRmx1ZGVucy5jbCUyRkVsZWN0cm9uJTJGZ2VpZ2VyMiUyRmdlaWdlcjIuaHRtbCU3Q0ElMjBwb3J0YWJsZSUyQyUyMHNlbnNpdGl2ZSUyQyUyMGxvdyUyMHBvd2VyJTJDJTIwYW5hbG9nJTIwR2VpZ2VyJTIwY291bnRlciUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE3NjMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMDclM0ExMiUzQTU5JTIwJTJCMDAwMA",
       "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
       "pubDate": "Sun, 16 Aug 2026 07:12:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmdpbmVzLmVnci51aC5lZHUlMkZlcGlzb2RlJTJGMTQ5NSU3Q2h0dHBzJTNBJTJGJTJGZW5naW5lcy5lZ3IudWguZWR1JTJGZXBpc29kZSUyRjE0OTUlN0NUaGUlMjBDaGF1ZmZldXIlMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjUwMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAyMyUzQTU1JTNBMzUlMjAlMkIwMDAw",
+      "title": "The Chauffeur Problem",
+      "pubDate": "Sun, 16 Aug 2026 23:55:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVuam9mZmUuY29tJTJGZmFzdC1kYXktb2Ytd2VlayU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJlbmpvZmZlLmNvbSUyRmZhc3QtZGF5LW9mLXdlZWslN0NBJTIwZmFzdGVyJTIwd2F5JTIwdG8lMjBjYWxjdWxhdGUlMjB0aGUlMjBkYXklMjBvZiUyMHRoZSUyMHdlZWslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMzc5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDIxJTNBMjAlM0E0MCUyMCUyQjAwMDA",
+      "title": "A faster way to calculate the day of the week",
+      "pubDate": "Sun, 16 Aug 2026 21:20:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2VzYXJibHVtJTJGc2VjdG9yZm9ydGglN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZjZXNhcmJsdW0lMkZzZWN0b3Jmb3J0aCU3Q1NlY3RvcmZvcnRoJTIwaXMlMjBhJTIwMTYtYml0JTIweDg2JTIwRm9ydGglMjB0aGF0JTIwZml0cyUyMGluJTIwYSUyMDUxMi1ieXRlJTIwYm9vdCUyMHNlY3RvciUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzIxOTM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMTclM0EyOSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+      "pubDate": "Sun, 16 Aug 2026 17:29:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbmFya3kuY2ElMkZ3aGF0cy1taXNzaW5nLXRvLWhhdmUtcmVwcm9kdWNpYmxlLWJ1aWxkcy1vbi1weXBpJTJGJTdDaHR0cHMlM0ElMkYlMkZzbmFya3kuY2ElMkZ3aGF0cy1taXNzaW5nLXRvLWhhdmUtcmVwcm9kdWNpYmxlLWJ1aWxkcy1vbi1weXBpJTJGJTdDV2hhdCdzJTIwbWlzc2luZyUyMHRvJTIwaGF2ZSUyMHJlcHJvZHVjaWJsZSUyMGJ1aWxkcyUyMG9uJTIwUHlQSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE3MjQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTYlMjBBdWclMjAyMDI2JTIwMDUlM0E0OCUzQTQxJTIwJTJCMDAwMA",
+      "title": "What's missing to have reproducible builds on PyPI",
+      "pubDate": "Sun, 16 Aug 2026 05:48:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }
   ]

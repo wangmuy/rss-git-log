@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-15",
     "newestItemDate": "2026-08-15",
-    "itemCount": 54,
-    "generatedAt": "2026-08-20T01:55:07.243Z"
+    "itemCount": 55,
+    "generatedAt": "2026-08-20T08:59:37.636Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDgxMS0wMCUyRiUzRnAlM0QxMTI2MDUlN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwODExLTAwJTJGJTNGcCUzRDExMjYwNSU3Q1RoZSUyMGxpdHRsZS1rbm93biUyMHdpbnN0YXJ0LmJhdCUyMGJhdGNoJTIwZmlsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzE0MTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTUlMjBBdWclMjAyMDI2JTIwMjAlM0EzNyUzQTE4JTIwJTJCMDAwMA",
       "title": "The little-known winstart.bat batch file",
       "pubDate": "Sat, 15 Aug 2026 20:37:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpldGJyYWlucy5jb20lMkZydXN0JTJGMjAyNiUyRjA4JTJGMTAlMkZyZXdyaXRpbmctaW4tcnVzdCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qZXRicmFpbnMuY29tJTJGcnVzdCUyRjIwMjYlMkYwOCUyRjEwJTJGcmV3cml0aW5nLWluLXJ1c3QlMkYlN0NSZXdyaXRpbmclMjBpbiUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMxNTM3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE1JTIwQXVnJTIwMjAyNiUyMDIzJTNBNDMlM0EwOSUyMCUyQjAwMDA",
+      "title": "Rewriting in Rust",
+      "pubDate": "Sat, 15 Aug 2026 23:43:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-15-0.json"
     }
   ]
