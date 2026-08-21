@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-20",
     "newestItemDate": "2026-08-20",
-    "itemCount": 26,
-    "generatedAt": "2026-08-20T16:55:19.556Z"
+    "itemCount": 39,
+    "generatedAt": "2026-08-21T02:00:57.619Z"
   },
   "items": [
     {
@@ -162,6 +162,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZzdGV2ZS1qb2JzLWFwcGxlLW5leHQtY2lhLTE2MWI2NWY5JTNGc3QlM0ROV1dkczElMjZyZWZsaW5rJTNEZGVza3RvcHdlYnNoYXJlX3Blcm1hbGluayU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndzai5jb20lMkZ0ZWNoJTJGc3RldmUtam9icy1hcHBsZS1uZXh0LWNpYS0xNjFiNjVmOSUzRnN0JTNETldXZHMxJTI2cmVmbGluayUzRGRlc2t0b3B3ZWJzaGFyZV9wZXJtYWxpbmslN0NDSUElMjBmdW5kaW5nJTIwaGVscGVkJTIwa2VlcCUyME5lWFQlMjBhZmxvYXQlMjBpbiUyMHRoZSUyMDgwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzY4ODg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMDAlM0ExNSUzQTAxJTIwJTJCMDAwMA",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "pubDate": "Thu, 20 Aug 2026 00:15:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGc3RlYWx0aCUyRm94LWFscGhhJTdDaHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGc3RlYWx0aCUyRm94LWFscGhhJTdDU3RlYWx0aCUyME1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODE4OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAyMyUzQTU2JTNBMzUlMjAlMkIwMDAw",
+      "title": "Stealth Model",
+      "pubDate": "Thu, 20 Aug 2026 23:56:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWtpLmNhdCUyRmRldGVjdGluZy1zY3JhcGVyLWJvdHMtdGhyb3VnaC1zY3JvbGwtYmVoYXZpb3VyJTdDaHR0cHMlM0ElMkYlMkZuaWtpLmNhdCUyRmRldGVjdGluZy1zY3JhcGVyLWJvdHMtdGhyb3VnaC1zY3JvbGwtYmVoYXZpb3VyJTdDRGV0ZWN0aW5nJTIwc2NyYXBlciUyMGJvdHMlMjB0aHJvdWdoJTIwc2Nyb2xsJTIwYmVoYXZpb3VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODEzMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAyMiUzQTQ3JTNBNTIlMjAlMkIwMDAw",
+      "title": "Detecting scraper bots through scroll behaviour",
+      "pubDate": "Thu, 20 Aug 2026 22:47:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmN1cmlvdXNxdWFpbC5jb20lMkZpbS11cHNldC1hZ2Fpbi1hYm91dC1hLWNvLWNyZWF0b3Itb2YtcnNzLWJlaW5nLXByb3NlY3V0ZWQtZm9yLXNvbWV0aGluZy1tZXRhLWlzLWRvaW5nLXdpdGgtbGl0dGxlLWNvbnNlcXVlbmNlJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmN1cmlvdXNxdWFpbC5jb20lMkZpbS11cHNldC1hZ2Fpbi1hYm91dC1hLWNvLWNyZWF0b3Itb2YtcnNzLWJlaW5nLXByb3NlY3V0ZWQtZm9yLXNvbWV0aGluZy1tZXRhLWlzLWRvaW5nLXdpdGgtbGl0dGxlLWNvbnNlcXVlbmNlJTJGJTdDQWFyb24lMjBTd2FydHolMjB3YXMlMjBwcm9zZWN1dGVkJTIwZm9yJTIwc2NyYXBpbmclMkMlMjB3aGlsZSUyME1ldGElMjBkb2VzJTIwaXQlMjB3aXRob3V0JTIwY29uc2VxdWVuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3OTU1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDIwJTNBMDclM0EyNiUyMCUyQjAwMDA",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "pubDate": "Thu, 20 Aug 2026 20:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRm5ld3MtaW5zaWdodHMlMkZjb21wYW55LW5ld3MlMkZ0aGUtYXVndXN0LTE3LW91dGFnZS1hbmQtdGhlLXdvcmstYWhlYWQlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5ibG9nJTJGbmV3cy1pbnNpZ2h0cyUyRmNvbXBhbnktbmV3cyUyRnRoZS1hdWd1c3QtMTctb3V0YWdlLWFuZC10aGUtd29yay1haGVhZCUyRiU3Q1RoZSUyMEF1Z3VzdCUyMDE3JTIwb3V0YWdlJTJDJTIwYW5kJTIwdGhlJTIwd29yayUyMGFoZWFkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzg5NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTIyJTNBMjQlMjAlMkIwMDAw",
+      "title": "The August 17 outage, and the work ahead",
+      "pubDate": "Thu, 20 Aug 2026 19:22:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aWRhbGN5Y2xlcy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnRpZGFsY3ljbGVzLm9yZyUyRiU3Q1RpZGFsJTIwQ3ljbGVzJTIwJUUyJTgwJTkzJTIwTGl2ZSUyMGNvZGluZyUyMG11c2ljJTIwd2l0aCUyMEFsZ29yaXRobWljJTIwcGF0dGVybnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3ODk1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDE5JTNBMjElM0E0NSUyMCUyQjAwMDA",
+      "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+      "pubDate": "Thu, 20 Aug 2026 19:21:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJuLmNhdCUyRnBvc3RzJTJGc3BhY2V0aW1lJTJGJTdDaHR0cHMlM0ElMkYlMkZzdHJuLmNhdCUyRnBvc3RzJTJGc3BhY2V0aW1lJTJGJTdDU3BhY2V0aW1lREIlM0ElMjBBJTIwU2hvcnQlMjBUZWNobmljYWwlMjBSZXZpZXclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3ODkzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDE5JTNBMTklM0E1MyUyMCUyQjAwMDA",
+      "title": "SpacetimeDB: A Short Technical Review",
+      "pubDate": "Thu, 20 Aug 2026 19:19:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFuaWVsdmF1Z2huLmRldiUyRnBvc3RzJTJGaHV6emFoJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGFuaWVsdmF1Z2huLmRldiUyRnBvc3RzJTJGaHV6emFoJTJGJTdDU2hvdyUyMEhOJTNBJTIwSHV6emFoJTIwJUUyJTgwJTkzJTIwYSUyMG5vdmVsJTIwYXBwcm9hY2glMjB0byUyMGNvZGluZyUyMHdpdGglMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc4NzY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTklM0EwNSUzQTM2JTIwJTJCMDAwMA",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "pubDate": "Thu, 20 Aug 2026 19:05:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXhwZXJpbWVudGFsLWhpc3RvcnkuY29tJTJGcCUyRndoeS1hcmVudC1zbWFydC1wZW9wbGUtaGFwcGllciU3Q2h0dHBzJTNBJTJGJTJGd3d3LmV4cGVyaW1lbnRhbC1oaXN0b3J5LmNvbSUyRnAlMkZ3aHktYXJlbnQtc21hcnQtcGVvcGxlLWhhcHBpZXIlN0NXaHklMjBhcmVuJ3QlMjBzbWFydCUyMHBlb3BsZSUyMGhhcHBpZXIlM0YlMjAoMjAyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3ODQ0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDE4JTNBMzglM0E0NyUyMCUyQjAwMDA",
+      "title": "Why aren't smart people happier? (2022)",
+      "pubDate": "Thu, 20 Aug 2026 18:38:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25zdW1lcnJpZ2h0cy53aWtpJTJGdyUyRk1haW5fUGFnZSU3Q2h0dHBzJTNBJTJGJTJGY29uc3VtZXJyaWdodHMud2lraSUyRnclMkZNYWluX1BhZ2UlN0NDb25zdW1lciUyMFJpZ2h0cyUyMFdpa2klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3ODI0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDE4JTNBMTklM0E1MSUyMCUyQjAwMDA",
+      "title": "Consumer Rights Wiki",
+      "pubDate": "Thu, 20 Aug 2026 18:19:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqc29tZXJzLm5ldCUyRmktc2hvdWxkLWhhdmUtbG92ZWQtYmlvbG9neSUyRiU3Q2h0dHBzJTNBJTJGJTJGanNvbWVycy5uZXQlMkZpLXNob3VsZC1oYXZlLWxvdmVkLWJpb2xvZ3klMkYlN0NJJTIwc2hvdWxkJTIwaGF2ZSUyMGxvdmVkJTIwYmlvbG9neSUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc3ODUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTclM0E1MCUzQTAyJTIwJTJCMDAwMA",
+      "title": "I should have loved biology (2020)",
+      "pubDate": "Thu, 20 Aug 2026 17:50:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGc2l4dHlmb3VyJTJGam9icyUyRjM5U2tTckEtc29mdHdhcmUtZW5naW5lZXJpbmctaW50ZXJuJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGc2l4dHlmb3VyJTJGam9icyUyRjM5U2tTckEtc29mdHdhcmUtZW5naW5lZXJpbmctaW50ZXJuJTdDU2l4dHlmb3VyJTIwKFlDJTIwUDI1KSUyMElzJTIwSGlyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzcyNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNyUzQTAxJTNBMDUlMjAlMkIwMDAw",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "pubDate": "Thu, 20 Aug 2026 17:01:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWdhbGlhLmNvbSUyRjIwMjYlMkYwOCUyRjE5JTJGTGludXgtNzItUmVsZWFzZWQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmlnYWxpYS5jb20lMkYyMDI2JTJGMDglMkYxOSUyRkxpbnV4LTcyLVJlbGVhc2VkLmh0bWwlN0NMaW51eCUyMDcuMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc2MjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTUlM0E0NiUzQTE4JTIwJTJCMDAwMA",
+      "title": "Linux 7.2",
+      "pubDate": "Thu, 20 Aug 2026 15:46:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemFjaGFobiUyRnZvbWl0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemFjaGFobiUyRnZvbWl0JTdDVm9taXQlM0ElMjBDbGVhbiUyMHVwJTIwQ2xhdWRlJTIwNSdzJTIwdG9rZW4lMjBvdXRwdXQlMjB3aXRoJTIwYSUyMHNlcGFyYXRlJTIwTExNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzU5OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTI2JTNBMDIlMjAlMkIwMDAw",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "pubDate": "Thu, 20 Aug 2026 15:26:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
     }
   ]
