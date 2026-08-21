@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-21",
     "newestItemDate": "2026-08-21",
-    "itemCount": 14,
-    "generatedAt": "2026-08-21T09:01:32.210Z"
+    "itemCount": 42,
+    "generatedAt": "2026-08-21T16:55:19.517Z"
   },
   "items": [
     {
@@ -90,6 +90,174 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbm5hcy1hcmNoaXZlLmdsJTJGYmxvZyUyRnBoeXNpY2FsLWRlc3RydWN0aW9uLmh0bWwlN0NodHRwcyUzQSUyRiUyRmFubmFzLWFyY2hpdmUuZ2wlMkZibG9nJTJGcGh5c2ljYWwtZGVzdHJ1Y3Rpb24uaHRtbCU3Q0FJJTIwY29tcGFuaWVzJTIwZGVzdHJveSUyMHBoeXNpY2FsJTIwYm9va3MlMjAlRTIlODAlOTMlMjBsZXQncyUyMHNjYW4lMjByYXJlJTIwYm9va3MlMjBiZWZvcmUlMjBpdCdzJTIwdG9vJTIwbGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzgzMDI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMDIlM0EzNyUzQTQ3JTIwJTJCMDAwMA",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "pubDate": "Fri, 21 Aug 2026 02:37:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpha2VzYXVuZGVycy5kZXYlMkZidWlsZGluZy1hbi1hbG1vc3QtZnVsbHktc2VsZi1ob3N0ZWQtc2FuZGJveGVkLWFnZW50aWMtc29mdHdhcmUtZmFjdG9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qYWtlc2F1bmRlcnMuZGV2JTJGYnVpbGRpbmctYW4tYWxtb3N0LWZ1bGx5LXNlbGYtaG9zdGVkLXNhbmRib3hlZC1hZ2VudGljLXNvZnR3YXJlLWZhY3RvcnklMkYlN0NBJTIwc2VsZiUyMGhvc3RlZCUyMEFJJTIwc29mdHdhcmUlMjBmYWN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTA0NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTI3JTNBNTIlMjAlMkIwMDAw",
+      "title": "A self hosted AI software factory",
+      "pubDate": "Fri, 21 Aug 2026 16:27:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRvdWJsZXdvcmQuYWklMkZ3aGF0LWhhcHBlbnMtd2hlbi1hLWdwdS1yZWFkcy1tZW1vcnklN0NodHRwcyUzQSUyRiUyRmJsb2cuZG91Ymxld29yZC5haSUyRndoYXQtaGFwcGVucy13aGVuLWEtZ3B1LXJlYWRzLW1lbW9yeSU3Q1doYXQlMjBoYXBwZW5zJTIwd2hlbiUyMGElMjBHUFUlMjByZWFkcyUyMG1lbW9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzkwMzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTYlM0ExNiUzQTQyJTIwJTJCMDAwMA",
+      "title": "What happens when a GPU reads memory",
+      "pubDate": "Fri, 21 Aug 2026 16:16:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbWFyY2h5Lm9yZyUyRm5ld3MlMkYyMDI2JTJGMDglMkZvbWFjb20tZm91bmRhdGlvbi1sYXVuY2hlcy13aXRoLTgtbWlsbGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGb21hcmNoeS5vcmclMkZuZXdzJTJGMjAyNiUyRjA4JTJGb21hY29tLWZvdW5kYXRpb24tbGF1bmNoZXMtd2l0aC04LW1pbGxpb24lMkYlN0NPbWFjb20lMjBGb3VuZGF0aW9uJTIwTGF1bmNoZXMlMjB3aXRoJTIwJTI0OE0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM5MDEzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE2JTNBMDMlM0E0NyUyMCUyQjAwMDA",
+      "title": "Omacom Foundation Launches with $8M",
+      "pubDate": "Fri, 21 Aug 2026 16:03:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuMHhzaWQuY29tJTJGYmxvZyUyRmp1c3Qtd2FudC10by1zZWFyY2glN0NodHRwcyUzQSUyRiUyRnd3dy4weHNpZC5jb20lMkZibG9nJTJGanVzdC13YW50LXRvLXNlYXJjaCU3Q0klMjBKdXN0JTIwV2FudCUyMHRvJTIwU2VhcmNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTAwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTAwJTNBNTQlMjAlMkIwMDAw",
+      "title": "I Just Want to Search",
+      "pubDate": "Fri, 21 Aug 2026 16:00:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXJpLWxhYnMuY29tJTJGYmxvZyUyRnF3ZW4zLXR0cy1zcGVlZC1jb3N0LWZyb250aWVyJTJGJTdDaHR0cHMlM0ElMkYlMkZuYXJpLWxhYnMuY29tJTJGYmxvZyUyRnF3ZW4zLXR0cy1zcGVlZC1jb3N0LWZyb250aWVyJTJGJTdDSG93JTIwV2UlMjBNYWRlJTIwYSUyMFRleHQtdG8tU3BlZWNoJTIwTW9kZWwlMjBSZXNwb25kJTIwaW4lMjBTdWItNTAlMjBtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg5OTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTUlM0E1MSUzQTEwJTIwJTJCMDAwMA",
+      "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+      "pubDate": "Fri, 21 Aug 2026 15:51:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYW5ld3MyNC5vbmxpbmUlMkYlM0ZwJTNENzElN0NodHRwcyUzQSUyRiUyRmNhbmV3czI0Lm9ubGluZSUyRiUzRnAlM0Q3MSU3Q0FJJTIwQm9vc3RlZCUyMEhvbWV3b3JrJTIwU2NvcmVzJTIwYnklMjAxOCUyNSUyMCVFMiU4MCU5MyUyMFRoZW4lMjBFeGFtJTIwU2NvcmVzJTIwRHJvcHBlZCUyMDIwJTI1JTJDJTIwU3R1ZHklMjBTaG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg5NTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTUlM0EyNSUzQTQyJTIwJTJCMDAwMA",
+      "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "pubDate": "Fri, 21 Aug 2026 15:25:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYW1hbmV0d29yay5jb20lMkZqb3VybmFscyUyRmphbWFpbnRlcm5hbG1lZGljaW5lJTJGYXJ0aWNsZS1hYnN0cmFjdCUyRjI4NTI1MDQlN0NodHRwcyUzQSUyRiUyRmphbWFuZXR3b3JrLmNvbSUyRmpvdXJuYWxzJTJGamFtYWludGVybmFsbWVkaWNpbmUlMkZhcnRpY2xlLWFic3RyYWN0JTJGMjg1MjUwNCU3Q0NhbmNlci1SZWxhdGVkJTIwTW9ydGFsaXR5JTIwQW1vbmclMjBVUyUyMFBpbG90cyUyMGFuZCUyMEZsaWdodCUyMEF0dGVuZGFudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4OTUyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE1JTNBMjMlM0EzMiUyMCUyQjAwMDA",
+      "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
+      "pubDate": "Fri, 21 Aug 2026 15:23:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnRyb253ZWIuc3VwZXItbm92YS5jby5qcCUyRmItcmlnaHQtdnIyaW50cm8uaHRtbCU3Q2h0dHAlM0ElMkYlMkZ0cm9ud2ViLnN1cGVyLW5vdmEuY28uanAlMkZiLXJpZ2h0LXZyMmludHJvLmh0bWwlN0NUaGUlMjBCLXJpZ2h0JTJGViUyMFIyJTIwT3BlcmF0aW5nJTIwU3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODk0OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTIwJTNBNTklMjAlMkIwMDAw",
+      "title": "The B-right/V R2 Operating System",
+      "pubDate": "Fri, 21 Aug 2026 15:20:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmVsb255YmVuY2guY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZmVsb255YmVuY2guY29tJTJGJTdDRmVsb255JTIwQmVuY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4OTQzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE1JTNBMTclM0EwNCUyMCUyQjAwMDA",
+      "title": "Felony Bench",
+      "pubDate": "Fri, 21 Aug 2026 15:17:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxpZ3JhLmNvbSUyRmMxMDAlMkYlN0NodHRwcyUzQSUyRiUyRmNhbGlncmEuY29tJTJGYzEwMCUyRiU3Q2MxMDAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4OTM5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE1JTNBMTQlM0EwNyUyMCUyQjAwMDA",
+      "title": "c100",
+      "pubDate": "Fri, 21 Aug 2026 15:14:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aXRhbGlrLmV0aC5saW1vJTJGZ2VuZXJhbCUyRjIwMjYlMkYwOCUyRjIxJTJGb2JmdXNjYXRpb25fcGFydF9paWlfbG9jYWxfbWl4aW5nLmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpdGFsaWsuZXRoLmxpbW8lMkZnZW5lcmFsJTJGMjAyNiUyRjA4JTJGMjElMkZvYmZ1c2NhdGlvbl9wYXJ0X2lpaV9sb2NhbF9taXhpbmcuaHRtbCU3Q0NvZGUlMjBPYmZ1c2NhdGlvbiUyMHZpYSUyMExvY2FsJTIwTWl4aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODkzMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTExJTNBMTAlMjAlMkIwMDAw",
+      "title": "Code Obfuscation via Local Mixing",
+      "pubDate": "Fri, 21 Aug 2026 15:11:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXdyZW5jZWNwYXVsc29uLmdpdGh1Yi5pbyUyRiUyRjIwMjYlMkYwOCUyRjIxJTJGTGFtcG9ydC5odG1sJTdDaHR0cHMlM0ElMkYlMkZsYXdyZW5jZWNwYXVsc29uLmdpdGh1Yi5pbyUyRiUyRjIwMjYlMkYwOCUyRjIxJTJGTGFtcG9ydC5odG1sJTdDSSUyMGNhbWUlMjB0byUyMHdyaXRlJTIwVEhBVCUyMHBhcGVyJTIwd2l0aCUyMExlc2xpZSUyMExhbXBvcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4ODk2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE0JTNBNDYlM0EwMSUyMCUyQjAwMDA",
+      "title": "I came to write THAT paper with Leslie Lamport",
+      "pubDate": "Fri, 21 Aug 2026 14:46:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lub25hcG9zdC5jb20lMkZuZXdzJTJGd3BkLXdvbnQtcmVwbGFjZS1zdG9sZW4tZmxvY2stY2FtZXJhcy1jaXRpbmctcHVibGljLXRydXN0JTJGYXJ0aWNsZV8wNmE2Nzg1OS0yZDk3LTQxNGItYWE4Zi1kODc1MWFkMjE0YmIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndpbm9uYXBvc3QuY29tJTJGbmV3cyUyRndwZC13b250LXJlcGxhY2Utc3RvbGVuLWZsb2NrLWNhbWVyYXMtY2l0aW5nLXB1YmxpYy10cnVzdCUyRmFydGljbGVfMDZhNjc4NTktMmQ5Ny00MTRiLWFhOGYtZDg3NTFhZDIxNGJiLmh0bWwlN0NXUEQlMjB3b24ndCUyMHJlcGxhY2UlMjBzdG9sZW4lMjBGbG9jayUyMGNhbWVyYXMlMkMlMjBjaXRpbmclMjBwdWJsaWMlMjB0cnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg4NjgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTQlM0EyNyUzQTM3JTIwJTJCMDAwMA",
+      "title": "WPD won't replace stolen Flock cameras, citing public trust",
+      "pubDate": "Fri, 21 Aug 2026 14:27:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLjhiYWxsLnNwYWNlJTJGd2hhdC13ZS1sb3N0LXdoZW4tc2VhcmNoJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLjhiYWxsLnNwYWNlJTJGd2hhdC13ZS1sb3N0LXdoZW4tc2VhcmNoJTJGJTdDV2hhdCUyMFdlJTIwTG9zdCUyMFdoZW4lMjBTZWFyY2glMjBTdG9wcGVkJTIwTWFraW5nJTIwVXMlMjBUaGluayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg4NDQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTQlM0ExNiUzQTE3JTIwJTJCMDAwMA",
+      "title": "What We Lost When Search Stopped Making Us Think",
+      "pubDate": "Fri, 21 Aug 2026 14:16:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYWdpLmNvbSUyRmNoYW5nZWxvZyUyMzExMjk2JTdDaHR0cHMlM0ElMkYlMkZrYWdpLmNvbSUyRmNoYW5nZWxvZyUyMzExMjk2JTdDS2FnaSUyMGFkZGVkJTIwYSUyMHNldHRpbmclMjBmb3IlMjByZW1vdmluZyUyMHBheXdhbGxlZCUyMGxpbmtzJTIwZnJvbSUyMHNlYXJjaCUyMHJlc3VsdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4ODE1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDEzJTNBNTYlM0EzNyUyMCUyQjAwMDA",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "pubDate": "Fri, 21 Aug 2026 13:56:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlcnRpbmd2aXNpb24uY29tJTJGMjAyNiUyRjA4JTJGMTAlMkZrb2Rha3MtcHJlLWludmVudGVkLWx1bmFyLW9yYml0ZXItY2FtZXJhLW9yLXRoZS1mYXRlLW9mLXNhbW9zLXJlYWRvdXQlMkYlN0NodHRwcyUzQSUyRiUyRmludmVydGluZ3Zpc2lvbi5jb20lMkYyMDI2JTJGMDglMkYxMCUyRmtvZGFrcy1wcmUtaW52ZW50ZWQtbHVuYXItb3JiaXRlci1jYW1lcmEtb3ItdGhlLWZhdGUtb2Ytc2Ftb3MtcmVhZG91dCUyRiU3Q0tvZGFrJ3MlMjAlMjJQcmUtSW52ZW50ZWQlMjIlMjBMdW5hciUyME9yYml0ZXIlMjBDYW1lcmElM0IlMjBPciUyQyUyMHRoZSUyMEZhdGUlMjBvZiUyMFNBTU9TJTIwUmVhZG91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg4MDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTMlM0E1MiUzQTUzJTIwJTJCMDAwMA",
+      "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+      "pubDate": "Fri, 21 Aug 2026 13:52:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE4MjE0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE4MjE0JTdDUmFkaWF0aW9uJTIwZGFtYWdlJTIwdG8lMjBIdWJibGUlMjBoYXMlMjBiZWVuJTIwNC4zJTIweWVhcnMlMjBvdXQlMjBvZiUyMHBoYXNlJTIwd2l0aCUyMHRoZSUyMFNvbGFyJTIwY3ljbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4Nzg1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDEzJTNBMzUlM0ExNyUyMCUyQjAwMDA",
+      "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+      "pubDate": "Fri, 21 Aug 2026 13:35:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXRhbHlzdG5ldXJvLmNvbSUyRmJsb2clMkZjb3N0LW9mLWludGVsbGlnZW5jZS1kcm9wcy0xMDB4JTJGJTdDaHR0cHMlM0ElMkYlMkZjYXRhbHlzdG5ldXJvLmNvbSUyRmJsb2clMkZjb3N0LW9mLWludGVsbGlnZW5jZS1kcm9wcy0xMDB4JTJGJTdDV2hhdCUyMEhhcHBlbnMlMjBXaGVuJTIwdGhlJTIwQ29zdCUyMG9mJTIwSW50ZWxsaWdlbmNlJTIwRHJvcHMlMjAxMDB4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODc3MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTI0JTNBMjglMjAlMkIwMDAw",
+      "title": "What Happens When the Cost of Intelligence Drops 100x",
+      "pubDate": "Fri, 21 Aug 2026 13:24:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5hLnNoJTJGYmxvZyUyRmhpamFja2luZy1lMTY0LWFycGElN0NodHRwcyUzQSUyRiUyRmxpbmEuc2glMkZibG9nJTJGaGlqYWNraW5nLWUxNjQtYXJwYSU3Q0klMjBhY2NpZGVudGFsbHklMjBsb2dnZWQlMjBwaG9uZSUyMGNhbGxzJTIwdG8lMjBtaWxpdGFyeSUyMGJhc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODc1NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTExJTNBMjglMjAlMkIwMDAw",
+      "title": "I accidentally logged phone calls to military bases",
+      "pubDate": "Fri, 21 Aug 2026 13:11:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmVjYXN0cmVpbmZvcmNlZC5jby51ayUyRjIwMjYlMkYwOCUyRjE2JTJGbmV3LXdvcmxkcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHJlY2FzdHJlaW5mb3JjZWQuY28udWslMkYyMDI2JTJGMDglMkYxNiUyRm5ldy13b3JsZHMlMkYlN0NXZSUyMGFyZSUyMGxpdmluZyUyMGluJTIwYSUyMHZlcnNpb24lMjBvZiUyMHRoZSUyMGZ1dHVyZSUyMG91dCUyMG9mJTIwSi5HLiUyMEJhbGxhcmQlMjBvciUyMFdpbGxpYW0lMjBHaWJzb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4NzUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDEzJTNBMDclM0EyNiUyMCUyQjAwMDA",
+      "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+      "pubDate": "Fri, 21 Aug 2026 13:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW4uY29tJTJGY2MlMkZncmFuZC1qdXJ5LWRlY2xpbmVzLXRvLWluZGljdC1vaGlvLW1hbi1jaGFyZ2VkLXdpdGgtZGVzdHJveWluZy1mbG9jay1jYW1lcmElMkYlN0NodHRwcyUzQSUyRiUyRnNhbi5jb20lMkZjYyUyRmdyYW5kLWp1cnktZGVjbGluZXMtdG8taW5kaWN0LW9oaW8tbWFuLWNoYXJnZWQtd2l0aC1kZXN0cm95aW5nLWZsb2NrLWNhbWVyYSUyRiU3Q0dyYW5kJTIwanVyeSUyMGRlY2xpbmVzJTIwdG8lMjBpbmRpY3QlMjBPaGlvJTIwbWFuJTIwY2hhcmdlZCUyMHdpdGglMjBkZXN0cm95aW5nJTIwRmxvY2slMjBjYW1lcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4NzQ5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDEzJTNBMDQlM0EzMSUyMCUyQjAwMDA",
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "pubDate": "Fri, 21 Aug 2026 13:04:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWNrZGIub3JnJTJGMjAyNiUyRjA4JTJGMjAlMkZkdWNrZGItMjAtcGVnLXBhcnNlciU3Q2h0dHBzJTNBJTJGJTJGZHVja2RiLm9yZyUyRjIwMjYlMkYwOCUyRjIwJTJGZHVja2RiLTIwLXBlZy1wYXJzZXIlN0NEdWNrREIlMjBWMiUyMFBFRy1iYXNlZCUyMFNRTCUyMHBhcnNlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg3MzQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTIlM0E1MiUzQTI1JTIwJTJCMDAwMA",
+      "title": "DuckDB V2 PEG-based SQL parser",
+      "pubDate": "Fri, 21 Aug 2026 12:52:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnV0aWxpdHljbG9zZXQuY29tJTJGMjAyNiUyRjA4JTJGMTAlMkZub3RoaW5nLWRvaW5nLTEyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZnV0aWxpdHljbG9zZXQuY29tJTJGMjAyNiUyRjA4JTJGMTAlMkZub3RoaW5nLWRvaW5nLTEyJTJGJTdDTm90aGluZyUyMERvaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODcyMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMiUzQTQwJTNBMTAlMjAlMkIwMDAw",
+      "title": "Nothing Doing",
+      "pubDate": "Fri, 21 Aug 2026 12:40:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpeHV2by5jb20lMkZibG9nJTJGdGlnZXJiZWV0bGUtY29yZS1zeXN0ZW0tYXJjaGl0ZWN0dXJlLXBlcmZvcm1hbmNlLWVuZ2luZWVyaW5nJTdDaHR0cHMlM0ElMkYlMkZpeHV2by5jb20lMkZibG9nJTJGdGlnZXJiZWV0bGUtY29yZS1zeXN0ZW0tYXJjaGl0ZWN0dXJlLXBlcmZvcm1hbmNlLWVuZ2luZWVyaW5nJTdDVGlnZXJCZWV0bGUlMjBDb3JlJTIwU3lzdGVtJTIwQXJjaGl0ZWN0dXJlJTNBJTIwRGVjb25zdHJ1Y3RpbmclMjBQZXJmb3JtYW5jZSUyMEVuZ2luZWVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODY2NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMSUzQTQzJTNBMzglMjAlMkIwMDAw",
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "pubDate": "Fri, 21 Aug 2026 11:43:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeWFyb3NsYXYlMkZraW5vJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeWFyb3NsYXYlMkZraW5vJTdDS2lubyUzQSUyMEElMjBoaWdoLXBlcmZvcm1hbmNlJTIwUmFjdG9yJTIwd2ViJTIwc2VydmVyJTIwZm9yJTIwUnVieSUyMDQuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg2MzgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTElM0EwNiUzQTI1JTIwJTJCMDAwMA",
+      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "pubDate": "Fri, 21 Aug 2026 11:06:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcGktZG9jcy5kZWVwc2Vlay5jb20lMkZndWlkZXMlMkZ2aXNpb24lMkYlN0NodHRwcyUzQSUyRiUyRmFwaS1kb2NzLmRlZXBzZWVrLmNvbSUyRmd1aWRlcyUyRnZpc2lvbiUyRiU3Q0RlZXBTZWVrLXY0LWZsYXNoLXZpc2lvbi1leHAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4NjE2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDEwJTNBMzMlM0E1NiUyMCUyQjAwMDA",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "pubDate": "Fri, 21 Aug 2026 10:33:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbm5hcy1hcmNoaXZlLnBrJTJGYmxvZyUyRnBoeXNpY2FsLWRlc3RydWN0aW9uLmh0bWwlN0NodHRwcyUzQSUyRiUyRmFubmFzLWFyY2hpdmUucGslMkZibG9nJTJGcGh5c2ljYWwtZGVzdHJ1Y3Rpb24uaHRtbCU3Q0FJJTIwY29tcGFuaWVzJTIwZGVzdHJveSUyMHBoeXNpY2FsJTIwYm9va3MlMjAlRTIlODAlOTMlMjBsZXQncyUyMHNjYW4lMjByYXJlJTIwYm9va3MlMjBiZWZvcmUlMjBpdCdzJTIwdG9vJTIwbGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg1OTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTAlM0EwNSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "pubDate": "Fri, 21 Aug 2026 10:05:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodG1sY2F0Lm5ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGaHRtbGNhdC5uZXQlMkYlN0NTbWFsbCUyQyUyMG5hdGl2ZSUyMHdlYiUyMHRyaWNrcyUyMHdvcnRoJTIwcmVtZW1iZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4NTg2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDA5JTNBNDUlM0ExNCUyMCUyQjAwMDA",
+      "title": "Small, native web tricks worth remembering",
+      "pubDate": "Fri, 21 Aug 2026 09:45:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
     }
   ]
