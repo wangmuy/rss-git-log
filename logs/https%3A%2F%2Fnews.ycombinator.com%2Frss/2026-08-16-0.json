@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-16",
     "newestItemDate": "2026-08-16",
-    "itemCount": 49,
-    "generatedAt": "2026-08-20T16:55:19.556Z"
+    "itemCount": 50,
+    "generatedAt": "2026-08-21T09:01:32.211Z"
   },
   "items": [
     {
@@ -300,6 +300,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXJla2Zpc2VyLmNvbSUyRmJsb2clMkZkb3VibGUtZG91YmxlLWFyaXRobWV0aWMlMkYlN0NodHRwcyUzQSUyRiUyRm1hcmVrZmlzZXIuY29tJTJGYmxvZyUyRmRvdWJsZS1kb3VibGUtYXJpdGhtZXRpYyUyRiU3Q0RvdWJsZS1kb3VibGUlM0ElMjAzMSUyMGRpZ2l0cyUyMG9mJTIwcHJlY2lzaW9uJTIwd2l0aG91dCUyMGxlYXZpbmclMjB0aGUlMjBGUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyMjg2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE2JTIwQXVnJTIwMjAyNiUyMDE5JTNBMjUlM0E0MSUyMCUyQjAwMDA",
       "title": "Double-double: 31 digits of precision without leaving the FPU",
       "pubDate": "Sun, 16 Aug 2026 19:25:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjMy5oYW5kbWFkZS5uZXR3b3JrJTJGYmxvZyUyRnAlMkY4NDg2LXRoZV9jYXNlX2FnYWluc3RfYV9jX2FsdGVybmF0aXZlJTdDaHR0cHMlM0ElMkYlMkZjMy5oYW5kbWFkZS5uZXR3b3JrJTJGYmxvZyUyRnAlMkY4NDg2LXRoZV9jYXNlX2FnYWluc3RfYV9jX2FsdGVybmF0aXZlJTdDVGhlJTIwY2FzZSUyMGFnYWluc3QlMjBhJTIwQyUyMGFsdGVybmF0aXZlJTIwKDIwMjIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjA4NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNiUyMEF1ZyUyMDIwMjYlMjAxNSUzQTE3JTNBMDklMjAlMkIwMDAw",
+      "title": "The case against a C alternative (2022)",
+      "pubDate": "Sun, 16 Aug 2026 15:17:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-16-0.json"
     }
   ]

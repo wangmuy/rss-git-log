@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-21",
     "newestItemDate": "2026-08-21",
-    "itemCount": 4,
-    "generatedAt": "2026-08-21T02:00:57.619Z"
+    "itemCount": 14,
+    "generatedAt": "2026-08-21T09:01:32.210Z"
   },
   "items": [
     {
@@ -30,6 +30,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzZWFyY2gucGFycWRiLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZzZWFyY2gucGFycWRiLmlvJTJGJTdDU2hvdyUyMEhOJTNBJTIwUGFycURCJTIwJUUyJTgwJTkzJTIwVmVjdG9yJTIwc2VhcmNoJTIwaW4lMjB0aGUlMjBicm93c2VyJTIwZnJvbSUyMFBhcnF1ZXQlMjBvdmVyJTIwSFRUUCUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzgyMDIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMDAlM0ExMyUzQTM5JTIwJTJCMDAwMA",
       "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
       "pubDate": "Fri, 21 Aug 2026 00:13:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZW1hY3MtbWlycm9yJTJGZW1hY3MlMkZibG9iJTJGMDYyZGNkMmFlYWQwMGMzYjQ3YzE0ZmY1YjZjNDAzMTNmN2E3NzVmNSUyRmV0YyUyRkhJU1RPUlklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZlbWFjcy1taXJyb3IlMkZlbWFjcyUyRmJsb2IlMkYwNjJkY2QyYWVhZDAwYzNiNDdjMTRmZjViNmM0MDMxM2Y3YTc3NWY1JTJGZXRjJTJGSElTVE9SWSU3Q0VtYWNzJTIwMzEuMSUyMHdpbGwlMjByZWxlYXNlJTIwb24lMjA4JTJGMjQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4NTI5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDA4JTNBMTklM0E0OCUyMCUyQjAwMDA",
+      "title": "Emacs 31.1 will release on 8/24",
+      "pubDate": "Fri, 21 Aug 2026 08:19:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZW1hcHJhZGlvLmNvbSUyRmFydGljbGVzJTJGdGhlLWxvc3QtdHJlYXN1cmUtb2Ytc2lkLW1laWVycy1waXJhdGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZyZW1hcHJhZGlvLmNvbSUyRmFydGljbGVzJTJGdGhlLWxvc3QtdHJlYXN1cmUtb2Ytc2lkLW1laWVycy1waXJhdGVzJTJGJTdDVGhlJTIwTG9zdCUyMFRyZWFzdXJlJTIwb2YlMjBTaWQlMjBNZWllcidzJTIwUGlyYXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg0ODk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMDclM0EyMyUzQTI3JTIwJTJCMDAwMA",
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "pubDate": "Fri, 21 Aug 2026 07:23:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmNvcmUuZGV2JTJGYmxvZyUyRmZpcmVjcmFja2VyLWFwcGxlLXNpbGljb24lN0NodHRwcyUzQSUyRiUyRmVuY29yZS5kZXYlMkZibG9nJTJGZmlyZWNyYWNrZXItYXBwbGUtc2lsaWNvbiU3Q1dlJTIwUmVidWlsdCUyMHRoZSUyMExpbnV4JTIwTWljcm9WTSUyMFN0YWNrJTIwb24lMjBBcHBsZSUyMFNpbGljb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4NDcxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDA2JTNBNTklM0E0MCUyMCUyQjAwMDA",
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "pubDate": "Fri, 21 Aug 2026 06:59:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZBcmdlbnRpYy5uZXR3b3JrJTdDaHR0cHMlM0ElMkYlMkZhcmdlbnRpYy5uZXR3b3JrJTJGJTdDU2hvdyUyMEhOJTNBJTIwQXJnZW50aWMlMjAlRTIlODAlOTMlMjBBbiUyMEw0MDIlMjBMaWdodG5pbmclMjB0b2xsJTIwYm9vdGglMjBmb3IlMjBBSSUyMHNjcmFwaW5nJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODQ0NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAwNiUzQTI0JTNBMTYlMjAlMkIwMDAw",
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "pubDate": "Fri, 21 Aug 2026 06:24:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaGlsaXBkaWNrLmNvbSUyRnJlc291cmNlcyUyRm1pc2NlbGxhbmVvdXMlMkZ0aGUtcmVsaWdpb3VzLWV4cGVyaWVuY2Utb2YtcGhpbGlwLWstZGljay1ieS1yLWNydW1iLWZyb20td2VpcmRvLTE3JTJGJTdDaHR0cHMlM0ElMkYlMkZwaGlsaXBkaWNrLmNvbSUyRnJlc291cmNlcyUyRm1pc2NlbGxhbmVvdXMlMkZ0aGUtcmVsaWdpb3VzLWV4cGVyaWVuY2Utb2YtcGhpbGlwLWstZGljay1ieS1yLWNydW1iLWZyb20td2VpcmRvLTE3JTJGJTdDVGhlJTIwUmVsaWdpb3VzJTIwRXhwZXJpZW5jZSUyMG9mJTIwUGhpbGlwJTIwSy4lMjBEaWNrJTIwYnklMjBSLiUyMENydW1iJTIwKDE5ODYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODQyMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAwNSUzQTM5JTNBMzklMjAlMkIwMDAw",
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "pubDate": "Fri, 21 Aug 2026 05:39:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueGRhLWRldmVsb3BlcnMuY29tJTJGamFwYW4tdHJpZWQtYnVpbGQtb3BlcmF0aW5nLXN5c3RlbS1lbnRpcmUtd29ybGQtdXMtZ292ZXJubWVudC1pbnRlcnZlbmVkJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cueGRhLWRldmVsb3BlcnMuY29tJTJGamFwYW4tdHJpZWQtYnVpbGQtb3BlcmF0aW5nLXN5c3RlbS1lbnRpcmUtd29ybGQtdXMtZ292ZXJubWVudC1pbnRlcnZlbmVkJTJGJTdDSmFwYW4lMjB0cmllZCUyMHRvJTIwYnVpbGQlMjBhbiUyMG9wZXJhdGluZyUyMHN5c3RlbSUyMGZvciUyMHRoZSUyMHdvcmxkJTJDJTIwdGhlJTIwVVMlMjBpbnRlcnZlbmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODQxODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAwNSUzQTMxJTNBMzQlMjAlMkIwMDAw",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "pubDate": "Fri, 21 Aug 2026 05:31:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdml2ZWtoYWxkYXIlMkZzZWVkJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdml2ZWtoYWxkYXIlMkZzZWVkJTdDU2VlZCUzQSUyME1pbmltYWwlMkMlMjBzZWxmLW1vZGlmeWluZyUyMGFnZW50JTIwaGFybmVzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg0MTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMDUlM0EyMCUzQTUwJTIwJTJCMDAwMA",
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "pubDate": "Fri, 21 Aug 2026 05:20:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlc3RvcnMubWljcm9uLmNvbSUyRm5ld3MlMkZwcmVzcy1yZWxlYXNlJTJGMjAyNiUyRk1pY3Jvbi1VbnZlaWxzLU1pY3Jvbi1SZXNlYXJjaC1MYWJzLWEtVS1TLS1CYXNlZC1Mb25nLUhvcml6b24tSW5ub3ZhdGlvbi1IdWItdG8tU2hhcGUtdGhlLUZ1dHVyZS1vZi1NZW1vcnktYW5kLUFJJTJGZGVmYXVsdC5hc3B4JTdDaHR0cHMlM0ElMkYlMkZpbnZlc3RvcnMubWljcm9uLmNvbSUyRm5ld3MlMkZwcmVzcy1yZWxlYXNlJTJGMjAyNiUyRk1pY3Jvbi1VbnZlaWxzLU1pY3Jvbi1SZXNlYXJjaC1MYWJzLWEtVS1TLS1CYXNlZC1Mb25nLUhvcml6b24tSW5ub3ZhdGlvbi1IdWItdG8tU2hhcGUtdGhlLUZ1dHVyZS1vZi1NZW1vcnktYW5kLUFJJTJGZGVmYXVsdC5hc3B4JTdDTWljcm9uJTIwYW5ub3VuY2VzJTIwJTI0MTBCJTIwcmVzZWFyY2glMjBodWIlMjBpbiUyMEJvaXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODM1ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAwMyUzQTUxJTNBNTglMjAlMkIwMDAw",
+      "title": "Micron announces $10B research hub in Boise",
+      "pubDate": "Fri, 21 Aug 2026 03:51:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXglMkZpc3N1ZXMlMkYzNzY3NCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRmNvZGV4JTJGaXNzdWVzJTJGMzc2NzQlN0NDb2RleCUyMG9uJTIwQVdTJTIwYmVkcm9jayUyMGJ1ZyUyMGNhdXNpbmclMjAxMHglMjBjaGFyZ2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODMzMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAwMyUzQTE3JTNBNDMlMjAlMkIwMDAw",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "pubDate": "Fri, 21 Aug 2026 03:17:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbm5hcy1hcmNoaXZlLmdsJTJGYmxvZyUyRnBoeXNpY2FsLWRlc3RydWN0aW9uLmh0bWwlN0NodHRwcyUzQSUyRiUyRmFubmFzLWFyY2hpdmUuZ2wlMkZibG9nJTJGcGh5c2ljYWwtZGVzdHJ1Y3Rpb24uaHRtbCU3Q0FJJTIwY29tcGFuaWVzJTIwZGVzdHJveSUyMHBoeXNpY2FsJTIwYm9va3MlMjAlRTIlODAlOTMlMjBsZXQncyUyMHNjYW4lMjByYXJlJTIwYm9va3MlMjBiZWZvcmUlMjBpdCdzJTIwdG9vJTIwbGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzgzMDI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMDIlM0EzNyUzQTQ3JTIwJTJCMDAwMA",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "pubDate": "Fri, 21 Aug 2026 02:37:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
     }
   ]

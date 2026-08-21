@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-14",
     "newestItemDate": "2026-08-14",
-    "itemCount": 54,
-    "generatedAt": "2026-08-20T01:55:07.243Z"
+    "itemCount": 56,
+    "generatedAt": "2026-08-21T09:01:32.211Z"
   },
   "items": [
     {
@@ -330,6 +330,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpdHNhaXJib3JuZS5jb20lMkZhbHVtaW51bS1mcmFtZS1wYy1mYW4tY29yc2ktcm9zZW50aGFsLWJ1aWxkLWMyOGFhN2NhODkyNyU3Q2h0dHBzJTNBJTJGJTJGaXRzYWlyYm9ybmUuY29tJTJGYWx1bWludW0tZnJhbWUtcGMtZmFuLWNvcnNpLXJvc2VudGhhbC1idWlsZC1jMjhhYTdjYTg5MjclN0NBbHVtaW51bSUyMEZyYW1lJTIwUEMlMjBGYW4lMjBDb3JzaS1Sb3NlbnRoYWwlMjBCdWlsZCUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mjk0NjIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTQlMjBBdWclMjAyMDI2JTIwMDQlM0EwMyUzQTAyJTIwJTJCMDAwMA",
       "title": "Aluminum Frame PC Fan Corsi-Rosenthal Build (2023)",
       "pubDate": "Fri, 14 Aug 2026 04:03:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3VybmFscy5hcHMub3JnJTJGcHJhYiUyRmFic3RyYWN0JTJGMTAuMTEwMyUyRjRuaHMtYmt3aCU3Q2h0dHBzJTNBJTJGJTJGam91cm5hbHMuYXBzLm9yZyUyRnByYWIlMkZhYnN0cmFjdCUyRjEwLjExMDMlMkY0bmhzLWJrd2glN0NNYWtlJTIwYSUyMDYtVGVzbGEtY2xhc3MlMjBoaWdoLXRlbXBlcmF0dXJlJTIwc3VwZXJjb25kdWN0aW5nJTIwZGlwb2xlJTIwbWFnbmV0JTIwYXQlMjA0LjIlMjBLJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMDQ0MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAyMCUzQTQ5JTNBMjklMjAlMkIwMDAw",
+      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+      "pubDate": "Fri, 14 Aug 2026 20:49:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZieXJvb3QuZ2l0aHViLmlvJTJGcnVieSUyRnBlcmZvcm1hbmNlJTJGMjAyNiUyRjA4JTJGMTMlMkZzcGVlZGluZy11cC1ydWJ5LWhhc2hlcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZieXJvb3QuZ2l0aHViLmlvJTJGcnVieSUyRnBlcmZvcm1hbmNlJTJGMjAyNiUyRjA4JTJGMTMlMkZzcGVlZGluZy11cC1ydWJ5LWhhc2hlcy5odG1sJTdDU3BlZWRpbmclMjBVcCUyMChTbWFsbCklMjBSdWJ5JTIwSGFzaGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkyOTUxMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNCUyMEF1ZyUyMDIwMjYlMjAwNSUzQTQ1JTNBMTIlMjAlMkIwMDAw",
+      "title": "Speeding Up (Small) Ruby Hashes",
+      "pubDate": "Fri, 14 Aug 2026 05:45:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-14-0.json"
     }
   ]
