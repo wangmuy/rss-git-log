@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-20",
     "newestItemDate": "2026-08-20",
-    "itemCount": 41,
-    "generatedAt": "2026-08-21T09:01:32.210Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-22T01:53:43.739Z"
   },
   "items": [
     {
@@ -252,6 +252,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRm5ld3MtaW5zaWdodHMlMkZjb21wYW55LW5ld3MlMkZ0aGUtYXVndXN0LTE3LW91dGFnZS1hbmQtdGhlLXdvcmstYWhlYWQlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5ibG9nJTJGbmV3cy1pbnNpZ2h0cyUyRmNvbXBhbnktbmV3cyUyRnRoZS1hdWd1c3QtMTctb3V0YWdlLWFuZC10aGUtd29yay1haGVhZCUyRiU3Q1RoZSUyMEF1Z3VzdCUyMDE3JTIwb3V0YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzg5NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxOSUzQTIyJTNBMjQlMjAlMkIwMDAw",
       "title": "The August 17 outage",
       "pubDate": "Thu, 20 Aug 2026 19:22:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXJmaW5nY29tcGxleGl0eS5ibG9nJTJGMjAyNiUyRjA4JTJGMTklMkZnaXRodWItYXV0b3NjYWxpbmctYW5kLXRoZS1jb21wb25lbnQtc3Vic3RpdHV0aW9uLWZhbGxhY3klMkYlN0NodHRwcyUzQSUyRiUyRnN1cmZpbmdjb21wbGV4aXR5LmJsb2clMkYyMDI2JTJGMDglMkYxOSUyRmdpdGh1Yi1hdXRvc2NhbGluZy1hbmQtdGhlLWNvbXBvbmVudC1zdWJzdGl0dXRpb24tZmFsbGFjeSUyRiU3Q0dpdEh1YiUyQyUyMGF1dG9zY2FsaW5nJTJDJTIwYW5kJTIwdGhlJTIwY29tcG9uZW50JTIwc3Vic3RpdHV0aW9uJTIwZmFsbGFjeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc5MDI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTklM0EyOCUzQTE4JTIwJTJCMDAwMA",
+      "title": "GitHub, autoscaling, and the component substitution fallacy",
+      "pubDate": "Thu, 20 Aug 2026 19:28:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2luZ2VyYmlsbC5vcmclMkZhcnRpY2xlJTJGMjAyNiUyRjA4JTJGMjAlMkZkZXNpZ25pbmctb2RpbnMtaW5saW5lLWFzbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdpbmdlcmJpbGwub3JnJTJGYXJ0aWNsZSUyRjIwMjYlMkYwOCUyRjIwJTJGZGVzaWduaW5nLW9kaW5zLWlubGluZS1hc20lMkYlN0NFdmVyeW9uZSUyMHNheXMlMjBhc3NlbWJseSUyMGlzJTIwdW50eXBlZCVFMiU4MCU5NGV2ZXJ5b25lJTIwaXMlMjB3cm9uZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc2NzY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTYlM0EyMiUzQTU4JTIwJTJCMDAwMA",
+      "title": "Everyone says assembly is untyped—everyone is wrong",
+      "pubDate": "Thu, 20 Aug 2026 16:22:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGFtYmRhLXN5bWJvbGljcy5jb20lMkZhdXRvbGl0aCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmxhbWJkYS1zeW1ib2xpY3MuY29tJTJGYXV0b2xpdGglN0NBdXRvbGl0aCUzQSUyMEElMjBwcm9ncmFtbWluZyUyMGFnZW50JTIwd2l0aCUyMGElMjBsaXZlJTIwcnVudGltZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc2MTk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTUlM0E0MCUzQTU3JTIwJTJCMDAwMA",
+      "title": "Autolith: A programming agent with a live runtime",
+      "pubDate": "Thu, 20 Aug 2026 15:40:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YXltby5jb20lMkZibG9nJTJGMjAyNiUyRjA4JTJGbG9vay11bmRlci1vdXItdHJ1bmslMkYlN0NodHRwcyUzQSUyRiUyRndheW1vLmNvbSUyRmJsb2clMkYyMDI2JTJGMDglMkZsb29rLXVuZGVyLW91ci10cnVuayUyRiU3Q0ElMjBsb29rJTIwdW5kZXIlMjBvdXIlMjB0cnVuayUzQSUyMHdoYXQncyUyMGluJTIwb3VyJTIwY29tcHV0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc0ODUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTQlM0ExMyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "A look under our trunk: what's in our compute",
+      "pubDate": "Thu, 20 Aug 2026 14:13:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
     }
   ]

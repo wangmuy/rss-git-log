@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-21",
     "newestItemDate": "2026-08-21",
-    "itemCount": 42,
-    "generatedAt": "2026-08-21T16:55:19.517Z"
+    "itemCount": 59,
+    "generatedAt": "2026-08-22T01:53:43.739Z"
   },
   "items": [
     {
@@ -258,6 +258,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZodG1sY2F0Lm5ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGaHRtbGNhdC5uZXQlMkYlN0NTbWFsbCUyQyUyMG5hdGl2ZSUyMHdlYiUyMHRyaWNrcyUyMHdvcnRoJTIwcmVtZW1iZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM4NTg2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDA5JTNBNDUlM0ExNCUyMCUyQjAwMDA",
       "title": "Small, native web tricks worth remembering",
       "pubDate": "Fri, 21 Aug 2026 09:45:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGaG4tY29tbWVudHMlMkYlN0NodHRwcyUzQSUyRiUyRmRhbmx1dS5jb20lMkZobi1jb21tZW50cyUyRiU3Q0hOJTNBJTIwVGhlJTIwR29vZCUyMFBhcnRzJTIwKDIwMTYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTUxNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAyMyUzQTUzJTNBMDMlMjAlMkIwMDAw",
+      "title": "HN: The Good Parts (2016)",
+      "pubDate": "Fri, 21 Aug 2026 23:53:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvemJyYWluLmNvbSU3Q2h0dHBzJTNBJTJGJTJGb3picmFpbi5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBPekJyYWluJTJDJTIwYSUyMHNoYXJlZCUyMGJyYWluJTIwZm9yJTIwa25vd2xlZGdlJTIwYmV0d2VlbiUyMGFnZW50cyUyMGFuZCUyMHlvdXIlMjB0ZWFtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTQ4MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAyMyUzQTA5JTNBMDYlMjAlMkIwMDAw",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "pubDate": "Fri, 21 Aug 2026 23:09:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG9tYXNkdWxsaWVuLmdpdGh1Yi5pbyUyRnBvc3RzJTJGMjAyNi0wOC0yMS10aHJlZS1pbXBvcnRhbnQtc3RlcHMtaW4tbXktbWF0dXJhdGlvbi1wcm9jZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aG9tYXNkdWxsaWVuLmdpdGh1Yi5pbyUyRnBvc3RzJTJGMjAyNi0wOC0yMS10aHJlZS1pbXBvcnRhbnQtc3RlcHMtaW4tbXktbWF0dXJhdGlvbi1wcm9jZXNzJTJGJTdDVGhyZWUlMjBpbXBvcnRhbnQlMjBzdGVwcyUyMGluJTIwbXklMjBtYXR1cmF0aW9uJTIwcHJvY2VzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzk0NDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMjIlM0EyOSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Three important steps in my maturation process",
+      "pubDate": "Fri, 21 Aug 2026 22:29:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGc2FsZXNwYXRyaW90JTJGam9icyUyRk00Nlg2WVgtZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnNhbGVzcGF0cmlvdCUyRmpvYnMlMkZNNDZYNllYLWZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXIlN0NTYWxlc1BhdHJpb3QlMjAoWUMlMjBXMjUpJTIwSXMlMjBIaXJpbmclMjBGb3J3YXJkJTIwRGVwbG95ZWQlMjBFbmdpbmVlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM5MzczMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDIxJTNBMDAlM0E0OCUyMCUyQjAwMDA",
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "pubDate": "Fri, 21 Aug 2026 21:00:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydXN0LWdsYW5jZXIuZ2l0aHViLmlvJTJGYmxvZyUyRmhlbGxvLXdvcmxkJTJGJTdDaHR0cHMlM0ElMkYlMkZydXN0LWdsYW5jZXIuZ2l0aHViLmlvJTJGYmxvZyUyRmhlbGxvLXdvcmxkJTJGJTdDUnVzdCUyMEdsYW5jZXIlM0ElMjBSdXN0JTIwTFNQJTIwdXNpbmclMjAxMDB4JTIwbGVzcyUyMFJBTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzkzMDUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTklM0E1MSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "pubDate": "Fri, 21 Aug 2026 19:51:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dW1ibGVmb3J0aC5oYXJkY29kZWQubmV0JTJGJTdDaHR0cHMlM0ElMkYlMkZ0dW1ibGVmb3J0aC5oYXJkY29kZWQubmV0JTJGJTdDVHVtYmxlJTIwRm9ydGglMjAlRTIlODAlOTMlMjBmcm9tJTIwYXNzZW1ibHklMjB0byUyME9TJTIwd2l0aCUyMEMlMjBjb21waWxlciUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzkyNDY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTglM0E1OSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
+      "pubDate": "Fri, 21 Aug 2026 18:59:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzY2VudGVyLmxibC5nb3YlMkYyMDI2JTJGMDglMkYxMCUyRnNjaWVudGlzdHMtcmVsZWFzZS1iaWdnZXN0LTJkLW1hcC1vZi10aGUtdW5pdmVyc2UlMkYlN0NodHRwcyUzQSUyRiUyRm5ld3NjZW50ZXIubGJsLmdvdiUyRjIwMjYlMkYwOCUyRjEwJTJGc2NpZW50aXN0cy1yZWxlYXNlLWJpZ2dlc3QtMmQtbWFwLW9mLXRoZS11bml2ZXJzZSUyRiU3Q1NjaWVudGlzdHMlMjByZWxlYXNlJTIwYmlnZ2VzdCUyMDJEJTIwbWFwJTIwb2YlMjB0aGUlMjB1bml2ZXJzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzkyMjAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTglM0EzNiUzQTM0JTIwJTJCMDAwMA",
+      "title": "Scientists release biggest 2D map of the universe",
+      "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRkdWdnYW4uY29tJTJGb3RlbC1pc250LWdvaW5nLXdlbGwtYW5kLWktbWFkZS1hLXNwcmVhZHNoZWV0LWFib3V0LWl0JTJGJTdDaHR0cHMlM0ElMkYlMkZtYXRkdWdnYW4uY29tJTJGb3RlbC1pc250LWdvaW5nLXdlbGwtYW5kLWktbWFkZS1hLXNwcmVhZHNoZWV0LWFib3V0LWl0JTJGJTdDT1RlbCUyMGlzbid0JTIwZ29pbmclMjB3ZWxsJTIwKGFuZCUyMEklMjBtYWRlJTIwYSUyMHNwcmVhZHNoZWV0JTIwYWJvdXQlMjBpdCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM5MTU1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE3JTNBNDUlM0E0MSUyMCUyQjAwMDA",
+      "title": "OTel isn't going well (and I made a spreadsheet about it)",
+      "pubDate": "Fri, 21 Aug 2026 17:45:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYW5kYXJsYWJzLmdpdGh1Yi5pbyUyRkNvYmFsdCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmFuZGFybGFicy5naXRodWIuaW8lMkZDb2JhbHQlMkYlN0NLb2JvJTIwY2FuJTIwcnVuJTIwYXBwcyUyMG5vdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzkwNDI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTYlM0EyNSUzQTI1JTIwJTJCMDAwMA",
+      "title": "Kobo can run apps now",
+      "pubDate": "Fri, 21 Aug 2026 16:25:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXJpLWxhYnMuY29tJTJGYmxvZyUyRnF3ZW4zLXR0cy1zcGVlZC1jb3N0LWZyb250aWVyJTJGJTdDaHR0cHMlM0ElMkYlMkZuYXJpLWxhYnMuY29tJTJGYmxvZyUyRnF3ZW4zLXR0cy1zcGVlZC1jb3N0LWZyb250aWVyJTJGJTdDSG93JTIwd2UlMjBtYWRlJTIwYSUyMHRleHQtdG8tc3BlZWNoJTIwbW9kZWwlMjByZXNwb25kJTIwaW4lMjBzdWItNTAlMjBtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg5OTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTUlM0E1MSUzQTEwJTIwJTJCMDAwMA",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "pubDate": "Fri, 21 Aug 2026 15:51:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb2ludGludGhlY2xvdWQuY29tJTJGMjAyNi0wOC0xOS0xNDQ2MDAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcG9pbnRpbnRoZWNsb3VkLmNvbSUyRjIwMjYtMDgtMTktMTQ0NjAwLmh0bWwlN0NJJTIwcmFuJTIwUGhvdG9zaG9wJTIwb24lMjBhJTIwJUMyJUEzMC42MCUyMGNvbXB1dGVyJTIwY2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg5NDQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTUlM0ExNyUzQTQ3JTIwJTJCMDAwMA",
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "pubDate": "Fri, 21 Aug 2026 15:17:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRuYW5ha2lsJTJGbm9idXp6JTJGYmxvYiUyRm1haW4lMkZSRUFETUUubWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhZG5hbmFraWwlMkZub2J1enolMkZibG9iJTJGbWFpbiUyRlJFQURNRS5tZCU3Q0NsYXVkZXR0ZSUzQSUyME1ha2UlMjBDbGF1ZGUlMjBzdG9wJTIwdGFsa2luZyUyMGxpa2UlMjBhJTIwQnV6ekZlZWQlMjBhcnRpY2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODg3NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTMxJTNBNTIlMjAlMkIwMDAw",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "pubDate": "Fri, 21 Aug 2026 14:31:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlcnRpbmd2aXNpb24uY29tJTJGMjAyNiUyRjA4JTJGMTAlMkZrb2Rha3MtcHJlLWludmVudGVkLWx1bmFyLW9yYml0ZXItY2FtZXJhLW9yLXRoZS1mYXRlLW9mLXNhbW9zLXJlYWRvdXQlMkYlN0NodHRwcyUzQSUyRiUyRmludmVydGluZ3Zpc2lvbi5jb20lMkYyMDI2JTJGMDglMkYxMCUyRmtvZGFrcy1wcmUtaW52ZW50ZWQtbHVuYXItb3JiaXRlci1jYW1lcmEtb3ItdGhlLWZhdGUtb2Ytc2Ftb3MtcmVhZG91dCUyRiU3Q0tvZGFrJ3MlMjAlMjJwcmUtaW52ZW50ZWQlMjIlMjBsdW5hciUyMG9yYml0ZXIlMjBjYW1lcmElM0IlMjBvciUyQyUyMHRoZSUyMGZhdGUlMjBvZiUyMFNBTU9TJTIwcmVhZG91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg4MDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTMlM0E1MiUzQTUzJTIwJTJCMDAwMA",
+      "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+      "pubDate": "Fri, 21 Aug 2026 13:52:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5hLnNoJTJGYmxvZyUyRmhpamFja2luZy1lMTY0LWFycGElN0NodHRwcyUzQSUyRiUyRmxpbmEuc2glMkZibG9nJTJGaGlqYWNraW5nLWUxNjQtYXJwYSU3Q0klMjBhY2NpZGVudGFsbHklMjBsb2dnZWQlMjBodW5kcmVkcyUyMG9mJTIwdGhvdXNhbmRzJTIwb2YlMjBwaG9uZSUyMGNhbGxzJTIwdG8lMjBtaWxpdGFyeSUyMGJhc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODc1NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTExJTNBMjglMjAlMkIwMDAw",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "pubDate": "Fri, 21 Aug 2026 13:11:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmVjYXN0cmVpbmZvcmNlZC5jby51ayUyRjIwMjYlMkYwOCUyRjE2JTJGbmV3LXdvcmxkcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHJlY2FzdHJlaW5mb3JjZWQuY28udWslMkYyMDI2JTJGMDglMkYxNiUyRm5ldy13b3JsZHMlMkYlN0NOZXclMjBXb3JsZHMlM0ElMjBXZSUyMGFyZSUyMGxpdmluZyUyMGluJTIwdGhlJTIwZnV0dXJlJTIwb2YlMjBKLkcuJTIwQmFsbGFyZCUyMG9yJTIwV2lsbGlhbSUyMEdpYnNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzg3NTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjElMjBBdWclMjAyMDI2JTIwMTMlM0EwNyUzQTI2JTIwJTJCMDAwMA",
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "pubDate": "Fri, 21 Aug 2026 13:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDglMkYyMSUyRnVzJTJGcG9saXRpY3MlMkZzYW11ZWwtdHVuaWNrLWRlbGV0ZWQtcGhvbmUtZmVsb255Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwOCUyRjIxJTJGdXMlMkZwb2xpdGljcyUyRnNhbXVlbC10dW5pY2stZGVsZXRlZC1waG9uZS1mZWxvbnkuaHRtbCU3Q0ZlbG9ueSUyMGNoYXJnZXMlMjBmb3IlMjBjaXRpemVuJTIwZGVsZXRpbmclMjBwaG9uZSUyMGRhdGElMjBhdCUyMFVTJTIwQm9yZGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODY4OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMiUzQTEwJTNBMTMlMjAlMkIwMDAw",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "pubDate": "Fri, 21 Aug 2026 12:10:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjeW1lcnlzLmNvbSUyRnclMkZpbS1iZWNvbWluZy1haS1ibGluZCU3Q2h0dHBzJTNBJTJGJTJGY3ltZXJ5cy5jb20lMkZ3JTJGaW0tYmVjb21pbmctYWktYmxpbmQlN0NJJ20lMjBiZWNvbWluZyUyMEFJLWJsaW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODY2OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMSUzQTQ4JTNBMDUlMjAlMkIwMDAw",
+      "title": "I'm becoming AI-blind",
+      "pubDate": "Fri, 21 Aug 2026 11:48:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
     }
   ]

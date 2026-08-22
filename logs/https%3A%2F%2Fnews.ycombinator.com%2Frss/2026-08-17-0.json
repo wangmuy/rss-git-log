@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-17",
     "newestItemDate": "2026-08-17",
-    "itemCount": 62,
-    "generatedAt": "2026-08-21T16:55:19.517Z"
+    "itemCount": 64,
+    "generatedAt": "2026-08-22T01:53:43.740Z"
   },
   "items": [
     {
@@ -378,6 +378,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwYXNzby51bm8lMkZpZi15b3UtYXJlLWFuLWFnZW50LXJlYWQtdGhpcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcGFzc28udW5vJTJGaWYteW91LWFyZS1hbi1hZ2VudC1yZWFkLXRoaXMlMkYlN0NEb2VzJTIwd2hpc3BlcmluZyUyMHRvJTIwYWdlbnRzJTIwaW4lMjBkb2NzJTIwaGVscCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5MzMxMzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTclMjBBdWclMjAyMDI2JTIwMTQlM0ExNiUzQTQxJTIwJTJCMDAwMA",
       "title": "Does whispering to agents in docs help?",
       "pubDate": "Mon, 17 Aug 2026 14:16:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWNtLm9yZyUyRmFydGljbGVzJTJGcGVvcGxlLW9mLWFjbSUyRjIwMjYlMkZydXNzLWNveCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFjbS5vcmclMkZhcnRpY2xlcyUyRnBlb3BsZS1vZi1hY20lMkYyMDI2JTJGcnVzcy1jb3glN0NQZW9wbGUlMjBvZiUyMEFDTSUyMCVFMiU4MCU5MyUyMFJ1c3MlMjBDb3glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyNzQwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDA3JTNBMTIlM0ExNSUyMCUyQjAwMDA",
+      "title": "People of ACM – Russ Cox",
+      "pubDate": "Mon, 17 Aug 2026 07:12:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGV0ZXJrZWxseSUyRnJleCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnBldGVya2VsbHklMkZyZXglN0NTaG93JTIwSE4lM0ElMjBSZXglMkMlMjBhJTIwcGFyYWxsZWwlMjBmdW5jdGlvbmFsJTIwbGFuZ3VhZ2UlMjBmb3IlMjBzY2llbnRpZmljJTIwd29ya2Zsb3dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjY4NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAwNSUzQTI4JTNBMDclMjAlMkIwMDAw",
+      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+      "pubDate": "Mon, 17 Aug 2026 05:28:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
     }
   ]
