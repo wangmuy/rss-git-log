@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-21",
     "newestItemDate": "2026-08-21",
-    "itemCount": 63,
-    "generatedAt": "2026-08-22T08:51:16.774Z"
+    "itemCount": 66,
+    "generatedAt": "2026-08-22T16:43:56.170Z"
   },
   "items": [
     {
@@ -384,6 +384,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzb2NrcHVwcGV0Lm9yZyUyRmJsb2clMkYyMDI2JTJGMDglMkYyMCUyRnN0b3AtbWFraW5nLXR1aXMlMkYlN0NodHRwcyUzQSUyRiUyRnNvY2twdXBwZXQub3JnJTJGYmxvZyUyRjIwMjYlMkYwOCUyRjIwJTJGc3RvcC1tYWtpbmctdHVpcyUyRiU3Q1N0b3AlMjBNYWtpbmclMjBUVUlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODQyMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAwNSUzQTM3JTNBMzglMjAlMkIwMDAw",
       "title": "Stop Making TUIs",
       "pubDate": "Fri, 21 Aug 2026 05:37:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmhvdy10aGFpbGFuZC1yZXNpc3RlZC1jb2xvbml6YXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRndvcmtzaW5wcm9ncmVzcy5jbyUyRmlzc3VlJTJGaG93LXRoYWlsYW5kLXJlc2lzdGVkLWNvbG9uaXphdGlvbiUyRiU3Q0hvdyUyMFRoYWlsYW5kJTIwUmVzaXN0ZWQlMjBDb2xvbml6YXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM5MjA5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE4JTNBMjglM0E0MiUyMCUyQjAwMDA",
+      "title": "How Thailand Resisted Colonization",
+      "pubDate": "Fri, 21 Aug 2026 18:28:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0aWMubGFzemxva29ydGUuZGUlMkZyb3Rvci1yZWZsZWN0JTJGJTdDaHR0cHMlM0ElMkYlMkZzdGF0aWMubGFzemxva29ydGUuZGUlMkZyb3Rvci1yZWZsZWN0JTJGJTdDU2hvdyUyMEhOJTNBJTIwUm90YXRpb24lMjB2aWElMjBEb3VibGUlMjBSZWZsZWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTExNjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTE4JTNBMDYlMjAlMkIwMDAw",
+      "title": "Show HN: Rotation via Double Reflection",
+      "pubDate": "Fri, 21 Aug 2026 17:18:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwOCUyRjA2JTJGbmVhdC1pby10aHJlYWRlZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwOCUyRjA2JTJGbmVhdC1pby10aHJlYWRlZC5odG1sJTdDWmlnJUUyJTgwJTk5cyUyMElvLlRocmVhZGVkJTIwaXMlMjBuZWF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODg2OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTI4JTNBMTUlMjAlMkIwMDAw",
+      "title": "Zig’s Io.Threaded is neat",
+      "pubDate": "Fri, 21 Aug 2026 14:28:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
     }
   ]

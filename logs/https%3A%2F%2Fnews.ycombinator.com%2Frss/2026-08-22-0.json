@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-22",
     "newestItemDate": "2026-08-22",
-    "itemCount": 3,
-    "generatedAt": "2026-08-22T08:51:16.774Z"
+    "itemCount": 11,
+    "generatedAt": "2026-08-22T16:43:56.169Z"
   },
   "items": [
     {
@@ -24,6 +24,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmN2Z3Z5eTR4Mm12byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjdmd2eXk0eDJtdm8lN0NDYW5hZGElMjB3aWxsJTIwbWF0Y2glMjBVUyUyMHRhcmlmZnMlMjAnZG9sbGFyJTIwZm9yJTIwZG9sbGFyJyUyMGFzJTIwdHJhZGUlMjB0YWxrcyUyMGJyZWFrJTIwZG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzk3MDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjIlMjBBdWclMjAyMDI2JTIwMDYlM0ExNiUzQTU3JTIwJTJCMDAwMA",
       "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
       "pubDate": "Sat, 22 Aug 2026 06:16:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFudHVtaS5zaCUyRnB1YmxpYyUyRmxhYnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcXVhbnR1bWkuc2glMkZwdWJsaWMlMkZsYWJzLmh0bWwlN0NFbGV2ZW5MYWJzJTJDJTIwVHdlbHZlTGFicyUyQyUyMFRoaXJ0ZWVuTGFicyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDAwNDA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjIlMjBBdWclMjAyMDI2JTIwMTQlM0E1NCUzQTA3JTIwJTJCMDAwMA",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZW9tZXRyaWRhZS5iZWFyYmxvZy5kZXYlMkZhLWZyaWVuZGx5LWludHJvZHVjdGlvbi10by1yYWNrZXQlMkYlN0NodHRwcyUzQSUyRiUyRmdlb21ldHJpZGFlLmJlYXJibG9nLmRldiUyRmEtZnJpZW5kbHktaW50cm9kdWN0aW9uLXRvLXJhY2tldCUyRiU3Q0ElMjBGcmllbmRseSUyMEludHJvZHVjdGlvbiUyMHRvJTIwUmFja2V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTk4OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxNCUzQTA4JTNBMTklMjAlMkIwMDAw",
+      "title": "A Friendly Introduction to Racket",
+      "pubDate": "Sat, 22 Aug 2026 14:08:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1vZGVsY29udGV4dHByb3RvY29sLmlvJTJGcG9zdHMlMkZtY3Atcm9hZG1hcCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5tb2RlbGNvbnRleHRwcm90b2NvbC5pbyUyRnBvc3RzJTJGbWNwLXJvYWRtYXAlMkYlN0NUaGUlMjBOZXclMjBNQ1AlMjBSb2FkbWFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTk1OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTMxJTNBMzQlMjAlMkIwMDAw",
+      "title": "The New MCP Roadmap",
+      "pubDate": "Sat, 22 Aug 2026 13:31:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWNvZGluZ3ZpYmVzLmNvbSUyRmJsb2clMkZhLWthbnRpYW4tY3JpdGlxdWUtb2Ytc29ycnktYnktanVzdGluLWJpZWJlciUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVjb2Rpbmd2aWJlcy5jb20lMkZibG9nJTJGYS1rYW50aWFuLWNyaXRpcXVlLW9mLXNvcnJ5LWJ5LWp1c3Rpbi1iaWViZXIlMkYlN0NBJTIwS2FudGlhbiUyMENyaXRpcXVlJTIwb2YlMjAlMjJTb3JyeSUyMiUyMGJ5JTIwSnVzdGluJTIwQmllYmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTk1MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTI0JTNBMDYlMjAlMkIwMDAw",
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "pubDate": "Sat, 22 Aug 2026 13:24:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZhdWclMkYyMiUyRm1ldGEtdHJpYWwtY2hpbGRyZW4tcHJpdmFjeSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnRlY2hub2xvZ3klMkYyMDI2JTJGYXVnJTJGMjIlMkZtZXRhLXRyaWFsLWNoaWxkcmVuLXByaXZhY3klN0NIb29rJTJDJTIwaG9sZCUyQyUyMGhhcnZlc3QlMjBhbmQlMjBoaWRlJTNBJTIwTWV0YSdzJTIwYWxsZWdlZCUyMHN0cmF0ZWd5JTIwbGFpZCUyMG91dCUyMGluJTIwZmlyc3QlMjB3ZWVrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTg5MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxMiUzQTA3JTNBMDYlMjAlMkIwMDAw",
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "pubDate": "Sat, 22 Aug 2026 12:07:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29tcHV0ZXIub3JnJTJGY3NkbCUyRm1hZ2F6aW5lJTJGbWklMkYyMDIxJTJGMDYlMkYwOTYyMzQwMiUyRjF5SlR2bFJMbWhpJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29tcHV0ZXIub3JnJTJGY3NkbCUyRm1hZ2F6aW5lJTJGbWklMkYyMDIxJTJGMDYlMkYwOTYyMzQwMiUyRjF5SlR2bFJMbWhpJTdDWjgwJTIwJUUyJTgwJTkzJTIwVGhlJTIwMTk3MHMlMjBNaWNyb3Byb2Nlc3NvciUyMFN0aWxsJTIwQWxpdmUlMjAoMjAyMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM5ODE1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIyJTIwQXVnJTIwMjAyNiUyMDA5JTNBNDklM0E1NyUyMCUyQjAwMDA",
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "pubDate": "Sat, 22 Aug 2026 09:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdW5kZXJkaWZmbC5pbiUyRiU3Q2h0dHBzJTNBJTJGJTJGbXVuZGVyZGlmZmwuaW4lMkYlN0NNdW5kZXIlMjBEaWZmbGluJTIwJUUyJTgwJTkzJTIwQWdlbnQlMjBoYXJuZXNzJTIwdG8lMjBydW4lMjBhbiUyMG9mZmljZSUyMG9mJTIweW91ciUyMGNsb25lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzk4MTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjIlMjBBdWclMjAyMDI2JTIwMDklM0E0OSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "pubDate": "Sat, 22 Aug 2026 09:49:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3N0YXJjaC5jb20lMkZlbWJlZGRlZC1haSU3Q2h0dHBzJTNBJTJGJTJGbm9zdGFyY2guY29tJTJGZW1iZWRkZWQtYWklN0NFbWJlZGRlZCUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTc5NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAwOSUzQTA3JTNBMjYlMjAlMkIwMDAw",
+      "title": "Embedded AI",
+      "pubDate": "Sat, 22 Aug 2026 09:07:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
     }
   ]
