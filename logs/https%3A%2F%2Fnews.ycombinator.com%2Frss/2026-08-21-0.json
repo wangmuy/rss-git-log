@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-21",
     "newestItemDate": "2026-08-21",
-    "itemCount": 59,
-    "generatedAt": "2026-08-22T01:53:43.739Z"
+    "itemCount": 63,
+    "generatedAt": "2026-08-22T08:51:16.774Z"
   },
   "items": [
     {
@@ -360,6 +360,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjeW1lcnlzLmNvbSUyRnclMkZpbS1iZWNvbWluZy1haS1ibGluZCU3Q2h0dHBzJTNBJTJGJTJGY3ltZXJ5cy5jb20lMkZ3JTJGaW0tYmVjb21pbmctYWktYmxpbmQlN0NJJ20lMjBiZWNvbWluZyUyMEFJLWJsaW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODY2OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxMSUzQTQ4JTNBMDUlMjAlMkIwMDAw",
       "title": "I'm becoming AI-blind",
       "pubDate": "Fri, 21 Aug 2026 11:48:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZXV4LmlvJTJGMjAyNSUyRjA5JTJGMzAlMkZiaWxsaW9ucy1vZi10cmlhbmdsZXMtaW4tbWludXRlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGemV1eC5pbyUyRjIwMjUlMkYwOSUyRjMwJTJGYmlsbGlvbnMtb2YtdHJpYW5nbGVzLWluLW1pbnV0ZXMlMkYlN0NPcHRpbWl6aW5nJTIwbWVzaG9wdGltaXplciUyMHRvJTIwcHJvY2VzcyUyMGJpbGxpb25zJTIwb2YlMjB0cmlhbmdsZXMlMjBpbiUyMG1pbnV0ZXMlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM5MTY2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE3JTNBNTQlM0EwNiUyMCUyQjAwMDA",
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "pubDate": "Fri, 21 Aug 2026 17:54:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRkdWdnYW4uY29tJTJGb3RlbC1pc250LWdvaW5nLXdlbGwtYW5kLWktbWFkZS1hLXNwcmVhZHNoZWV0LWFib3V0LWl0JTJGJTdDaHR0cHMlM0ElMkYlMkZtYXRkdWdnYW4uY29tJTJGb3RlbC1pc250LWdvaW5nLXdlbGwtYW5kLWktbWFkZS1hLXNwcmVhZHNoZWV0LWFib3V0LWl0JTJGJTdDT1RlbCUyMGlzbiVFMiU4MCU5OXQlMjBnb2luZyUyMHdlbGwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM5MTU1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIxJTIwQXVnJTIwMjAyNiUyMDE3JTNBNDUlM0E0MSUyMCUyQjAwMDA",
+      "title": "OTel isn’t going well",
+      "pubDate": "Fri, 21 Aug 2026 17:45:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwOCUyRjA2JTJGbmVhdC1pby10aHJlYWRlZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwOCUyRjA2JTJGbmVhdC1pby10aHJlYWRlZC5odG1sJTdDWmlnJUUyJTgwJTk5cyUyMGlvLnRocmVhZGVkJTIwaXMlMjBuZWF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODg2OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTI4JTNBMTUlMjAlMkIwMDAw",
+      "title": "Zig’s io.threaded is neat",
+      "pubDate": "Fri, 21 Aug 2026 14:28:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2NrcHVwcGV0Lm9yZyUyRmJsb2clMkYyMDI2JTJGMDglMkYyMCUyRnN0b3AtbWFraW5nLXR1aXMlMkYlN0NodHRwcyUzQSUyRiUyRnNvY2twdXBwZXQub3JnJTJGYmxvZyUyRjIwMjYlMkYwOCUyRjIwJTJGc3RvcC1tYWtpbmctdHVpcyUyRiU3Q1N0b3AlMjBNYWtpbmclMjBUVUlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODQyMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMSUyMEF1ZyUyMDIwMjYlMjAwNSUzQTM3JTNBMzglMjAlMkIwMDAw",
+      "title": "Stop Making TUIs",
+      "pubDate": "Fri, 21 Aug 2026 05:37:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-21-0.json"
     }
   ]

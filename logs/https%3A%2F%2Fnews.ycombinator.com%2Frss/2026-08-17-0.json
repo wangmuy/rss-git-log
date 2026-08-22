@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-17",
     "newestItemDate": "2026-08-17",
-    "itemCount": 64,
-    "generatedAt": "2026-08-22T01:53:43.740Z"
+    "itemCount": 65,
+    "generatedAt": "2026-08-22T08:51:16.775Z"
   },
   "items": [
     {
@@ -390,6 +390,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGV0ZXJrZWxseSUyRnJleCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnBldGVya2VsbHklMkZyZXglN0NTaG93JTIwSE4lM0ElMjBSZXglMkMlMjBhJTIwcGFyYWxsZWwlMjBmdW5jdGlvbmFsJTIwbGFuZ3VhZ2UlMjBmb3IlMjBzY2llbnRpZmljJTIwd29ya2Zsb3dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzMjY4NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNyUyMEF1ZyUyMDIwMjYlMjAwNSUzQTI4JTNBMDclMjAlMkIwMDAw",
       "title": "Show HN: Rex, a parallel functional language for scientific workflows",
       "pubDate": "Mon, 17 Aug 2026 05:28:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZG9ja2VyLmNvbSUyRmJsb2clMkZyZXByb2R1Y2libGUtZXNwMzItZmlybXdhcmUtZGV2ZWxvcG1lbnQtd2l0aC1kb2NrZXItYW5kLWRvY2tlci1zYW5kYm94ZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kb2NrZXIuY29tJTJGYmxvZyUyRnJlcHJvZHVjaWJsZS1lc3AzMi1maXJtd2FyZS1kZXZlbG9wbWVudC13aXRoLWRvY2tlci1hbmQtZG9ja2VyLXNhbmRib3hlcyUyRiU3Q0VTUDMyJTIwRmlybXdhcmUlMjBEZXZlbG9wbWVudCUyMHdpdGglMjBEb2NrZXIlMjBTYW5kYm94ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTMyOTUwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE3JTIwQXVnJTIwMjAyNiUyMDEyJTNBMDIlM0ExOCUyMCUyQjAwMDA",
+      "title": "ESP32 Firmware Development with Docker Sandboxes",
+      "pubDate": "Mon, 17 Aug 2026 12:02:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-17-0.json"
     }
   ]

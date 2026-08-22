@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-19",
     "newestItemDate": "2026-08-19",
-    "itemCount": 50,
-    "generatedAt": "2026-08-22T01:53:43.740Z"
+    "itemCount": 51,
+    "generatedAt": "2026-08-22T08:51:16.775Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmdyYXBoaWMtZGV0YWlsJTJGMjAyNiUyRjA4JTJGMTglMkZkb2VzLWFpLXN0b3AtY2hpbGRyZW4tZnJvbS1sZWFybmluZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVjb25vbWlzdC5jb20lMkZncmFwaGljLWRldGFpbCUyRjIwMjYlMkYwOCUyRjE4JTJGZG9lcy1haS1zdG9wLWNoaWxkcmVuLWZyb20tbGVhcm5pbmclN0NBSSUyMGJvb3N0ZWQlMjBob21ld29yayUyMHNjb3JlcyUyQyUyMHRoZW4lMjBleGFtJTIwc2NvcmVzJTIwZHJvcHBlZCUzQSUyMHN0dWR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNTc1MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAwNiUzQTEzJTNBMzElMjAlMkIwMDAw",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "pubDate": "Wed, 19 Aug 2026 06:13:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGcmV2aXNpdGluZy1zcGVjdHJlLWF0dGFja3Mtb24td29ya2VycyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jbG91ZGZsYXJlLmNvbSUyRnJldmlzaXRpbmctc3BlY3RyZS1hdHRhY2tzLW9uLXdvcmtlcnMlMkYlN0NBJTIwcmV2aXNpdCUyMG9mJTIwcmVtb3RlJTIwU3BlY3RyZSUyMGF0dGFja3MlMjBvbiUyMENsb3VkZmxhcmUlMjBXb3JrZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNjQ3MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTQ1JTNBNDElMjAlMkIwMDAw",
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "pubDate": "Wed, 19 Aug 2026 17:45:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-19-0.json"
     }
   ]
