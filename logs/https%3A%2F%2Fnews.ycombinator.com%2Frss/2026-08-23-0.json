@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-23",
     "newestItemDate": "2026-08-23",
-    "itemCount": 2,
-    "generatedAt": "2026-08-23T02:02:27.729Z"
+    "itemCount": 11,
+    "generatedAt": "2026-08-23T08:52:11.909Z"
   },
   "items": [
     {
@@ -18,6 +18,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNtMmcyM25nOHA0byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjbTJnMjNuZzhwNG8lN0NVUyUyME1pbGl0YXJ5JTIwbmV3c3BhcGVyJTIwZWRpdG9yJTIwdm9pY2VzJTIwY2Vuc29yc2hpcCUyMGZlYXJzJTIwYWZ0ZXIlMjBiZWluZyUyMGZpcmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDUxMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwMCUzQTE5JTNBMTclMjAlMkIwMDAw",
       "title": "US Military newspaper editor voices censorship fears after being fired",
       "pubDate": "Sun, 23 Aug 2026 00:19:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueGRhLWRldmVsb3BlcnMuY29tJTJGd2ktZmktOC1maXJzdC13aXJlbGVzcy11cGdyYWRlLXllYXJzLWlzbnQtY2hhc2luZy1zcGVlZC1ob21lLW5ldHdvcmtzLW5lZWQtaXQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy54ZGEtZGV2ZWxvcGVycy5jb20lMkZ3aS1maS04LWZpcnN0LXdpcmVsZXNzLXVwZ3JhZGUteWVhcnMtaXNudC1jaGFzaW5nLXNwZWVkLWhvbWUtbmV0d29ya3MtbmVlZC1pdCUyRiU3Q1dpLUZpJTIwOCUyMGlzJTIwdGhlJTIwZmlyc3QlMjB3aXJlbGVzcyUyMHVwZ3JhZGUlMjBpbiUyMHllYXJzJTIwdGhhdCUyMGlzbid0JTIwY2hhc2luZyUyMHNwZWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDY1MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwNiUzQTQxJTNBNTElMjAlMkIwMDAw",
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWxpc3Blci5tZSUyRmppdC1jb21waWxpbmctY29kZS1pbi01LXVzJTJGJTdDaHR0cHMlM0ElMkYlMkZtYWxpc3Blci5tZSUyRmppdC1jb21waWxpbmctY29kZS1pbi01LXVzJTJGJTdDSklUJTIwQ29tcGlsaW5nJTIwQ29kZSUyMGluJTIwNSVDRSVCQ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwNjM4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDA2JTNBMDQlM0E1MSUyMCUyQjAwMDA",
+      "title": "JIT Compiling Code in 5μs",
+      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5vczJtdXNldW0uY29tJTJGd3AlMkZ0aGUtZW5kLW9mLWFuLWF0aGxvbiUyRiU3Q2h0dHAlM0ElMkYlMkZ3d3cub3MybXVzZXVtLmNvbSUyRndwJTJGdGhlLWVuZC1vZi1hbi1hdGhsb24lMkYlN0NUaGUlMjBFbmQlMjBvZiUyMGFuJTIwQXRobG9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDYzMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwNSUzQTUxJTNBMDElMjAlMkIwMDAw",
+      "title": "The End of an Athlon",
+      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjglMkYyMiUyRmZhc3QtaGFyZC1jb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjglMkYyMiUyRmZhc3QtaGFyZC1jb2RlJTJGJTdDRmFzdCUyMGFuZCUyMEhhcmQlMjBDb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDYyODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwNSUzQTM5JTNBMDYlMjAlMkIwMDAw",
+      "title": "Fast and Hard Code",
+      "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDglMkYyMyUyRndvcmxkJTJGZXVyb3BlJTJGcG9sYW5kLWVzdG9uaWEtY3J5cHRvY3VycmVuY3kuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjA4JTJGMjMlMkZ3b3JsZCUyRmV1cm9wZSUyRnBvbGFuZC1lc3RvbmlhLWNyeXB0b2N1cnJlbmN5Lmh0bWwlN0NGb3VyJTIwWWVhcnMlMjBBZ28lMkMlMjBhJTIwQ3J5cHRvJTIwQm9zcyUyMFdlbnQlMjBNaXNzaW5nLiUyME5vdyUyMEhpcyUyMFN1Y2Nlc3NvciUyMEhhcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDA2MDY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMDQlM0EyOCUzQTE4JTIwJTJCMDAwMA",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+      "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXBwZXJ0aW1lLmNvbSUyRnRoZS1nb2xkZW4tcnVsZS1vZi1iZWNvbWluZy1hLWJldHRlci13cml0ZXIlMkYlN0NodHRwcyUzQSUyRiUyRm5hcHBlcnRpbWUuY29tJTJGdGhlLWdvbGRlbi1ydWxlLW9mLWJlY29taW5nLWEtYmV0dGVyLXdyaXRlciUyRiU3Q1RvJTIwYmVjb21lJTIwYSUyMGJldHRlciUyMHdyaXRlciUyQyUyMHJlYWQlMjBhcyUyMG11Y2glMjBhcyUyMHlvdSUyMGNhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDA1ODcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMDMlM0EzMiUzQTI1JTIwJTJCMDAwMA",
+      "title": "To become a better writer, read as much as you can",
+      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0eXBjLm5ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFydHlwYy5uZXQlMkYlN0NNYXJ0eVBDJTIwaXMlMjBhJTIwY3Jvc3MtcGxhdGZvcm0lMjBlbXVsYXRvciUyMG9mJTIwZWFybHklMjBQQ3MlMjB3cml0dGVuJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDU4MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwMyUzQTEzJTNBMTYlMjAlMkIwMDAw",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZW5yeS5jb2RlcyUyRndyaXRpbmclMkZpLWRyZWFtLW9mLXF1aWV0ZXItY29tcHV0aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZoZW5yeS5jb2RlcyUyRndyaXRpbmclMkZpLWRyZWFtLW9mLXF1aWV0ZXItY29tcHV0aW5nJTJGJTdDSSUyMERyZWFtJTIwb2YlMjBRdWlldGVyJTIwQ29tcHV0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDU2ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwMiUzQTMzJTNBMjIlMjAlMkIwMDAw",
+      "title": "I Dream of Quieter Computing",
+      "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXBwZXJ0aW1lLmNvbSUyRnRoZS1hcnQtb2YtYW5kLWJlYXV0eS1vZi1ibGFkZS1ydW5uZXIlMkYlN0NodHRwcyUzQSUyRiUyRm5hcHBlcnRpbWUuY29tJTJGdGhlLWFydC1vZi1hbmQtYmVhdXR5LW9mLWJsYWRlLXJ1bm5lciUyRiU3Q1RoZSUyMEFydCUyMGFuZCUyMEJlYXV0eSUyMG9mJTIwQmxhZGUlMjBSdW5uZXIlMjAoMjAxNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwNTMzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDAwJTNBNTYlM0EwMyUyMCUyQjAwMDA",
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
     }
   ]
