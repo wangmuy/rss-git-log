@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-22",
     "newestItemDate": "2026-08-22",
-    "itemCount": 11,
-    "generatedAt": "2026-08-22T16:43:56.169Z"
+    "itemCount": 20,
+    "generatedAt": "2026-08-23T02:02:27.730Z"
   },
   "items": [
     {
@@ -72,6 +72,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZub3N0YXJjaC5jb20lMkZlbWJlZGRlZC1haSU3Q2h0dHBzJTNBJTJGJTJGbm9zdGFyY2guY29tJTJGZW1iZWRkZWQtYWklN0NFbWJlZGRlZCUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTc5NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAwOSUzQTA3JTNBMjYlMjAlMkIwMDAw",
       "title": "Embedded AI",
       "pubDate": "Sat, 22 Aug 2026 09:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJpbWVpbnRlbGxlY3QuYWklMkZyZXNlYXJjaCUyRm5hbm9ncHQtc3BlZWRydW4lN0NodHRwcyUzQSUyRiUyRnd3dy5wcmltZWludGVsbGVjdC5haSUyRnJlc2VhcmNoJTJGbmFub2dwdC1zcGVlZHJ1biU3Q05hbm9HUFQlMjBTcGVlZHJ1biUyMEZyb250aWVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDQzODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAyMiUzQTE0JTNBMjclMjAlMkIwMDAw",
+      "title": "NanoGPT Speedrun Frontier",
+      "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWlsLWluZGV4Lm5ldGJzZC5vcmclMkZuZXRic2QtYWR2b2NhY3klMkYyMDA1JTJGMDklMkYxMCUyRjAwMDAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWFpbC1pbmRleC5uZXRic2Qub3JnJTJGbmV0YnNkLWFkdm9jYWN5JTJGMjAwNSUyRjA5JTJGMTAlMkYwMDAwLmh0bWwlN0NOZXRCU0QlMjBhbmQlMjBteSUyMGxpZmUlMjAoMjAwNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwMjc4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIyJTIwQXVnJTIwMjAyNiUyMDE5JTNBMDclM0E0NiUyMCUyQjAwMDA",
+      "title": "NetBSD and my life (2005)",
+      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXBjYXRzb2Z0d2FyZS5jb20lMkZhcnRpY2xlcyUyRjIwMjYlMkY4JTJGNy5odG1sJTdDaHR0cHMlM0ElMkYlMkZsYXBjYXRzb2Z0d2FyZS5jb20lMkZhcnRpY2xlcyUyRjIwMjYlMkY4JTJGNy5odG1sJTdDaGRpdXRpbCUyMGlzJTIwZGVwcmVjYXRlZCUyMGluJTIwbWFjT1MlMjAyNyUyMEdvbGRlbiUyMEdhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwMjc0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIyJTIwQXVnJTIwMjAyNiUyMDE5JTNBMDQlM0E0MSUyMCUyQjAwMDA",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bS5sZXZlbDF0ZWNocy5jb20lMkZ0JTJGd2h5LXlvdXItbG9jYWwtbGxtLWZlZWxzLWR1bWJlci10aGFuLWl0LWlzJTJGMjUzOTE3JTdDaHR0cHMlM0ElMkYlMkZmb3J1bS5sZXZlbDF0ZWNocy5jb20lMkZ0JTJGd2h5LXlvdXItbG9jYWwtbGxtLWZlZWxzLWR1bWJlci10aGFuLWl0LWlzJTJGMjUzOTE3JTdDV2h5JTIweW91ciUyMGxvY2FsJTIwTExNJTIwZmVlbHMlMjBkdW1iZXIlMjB0aGFuJTIwaXQlMjBpcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDAyMjMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjIlMjBBdWclMjAyMDI2JTIwMTglM0ExNCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Why your local LLM feels dumber than it is",
+      "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJjdWEubmV0JTJGbWluaXRvb2xzJTJGZmlnbWltaWMlMkYlN0NodHRwcyUzQSUyRiUyRm1hcmN1YS5uZXQlMkZtaW5pdG9vbHMlMkZmaWdtaW1pYyUyRiU3Q0ZpZ21pbWljJTIwJUUyJTgwJTkzJTIwQSUyMGJvb2ttYXJrbGV0JTIwdG8lMjBjb3B5JTIwYW55JTIwd2VicGFnZSUyMGludG8lMjBGaWdtYSUyMGFzJTIwZWRpdGFibGUlMjBsYXllcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwMjIxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIyJTIwQXVnJTIwMjAyNiUyMDE4JTNBMTElM0E0MCUyMCUyQjAwMDA",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "pubDate": "Sat, 22 Aug 2026 18:11:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlua2luZ2lucHl0aG9uLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhpbmtpbmdpbnB5dGhvbi5jb20lMkYlN0NUaGlua2luZyUyMGluJTIwUHl0aG9uJTIwYnklMjBCcnVjZSUyMEVja2VsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDIyMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxOCUzQTEwJTNBNDklMjAlMkIwMDAw",
+      "title": "Thinking in Python by Bruce Eckel",
+      "pubDate": "Sat, 22 Aug 2026 18:10:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm1veGllJTJGc3RhdHVzJTJGMjA5MTIxODY1MjEzMzczMjQ5MSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZtb3hpZSUyRnN0YXR1cyUyRjIwOTEyMTg2NTIxMzM3MzI0OTElN0NTY3JhcCUyMCgyMDA2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDAyMTg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjIlMjBBdWclMjAyMDI2JTIwMTglM0EwOCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Scrap (2006)",
+      "pubDate": "Sat, 22 Aug 2026 18:08:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyd3dncmVlbmUuc3Vic3RhY2suY29tJTJGcCUyRmktc2V0LWEtdHJhcC1mb3ItYS1ib29rLW1hcmtldGluZyU3Q2h0dHBzJTNBJTJGJTJGcnd3Z3JlZW5lLnN1YnN0YWNrLmNvbSUyRnAlMkZpLXNldC1hLXRyYXAtZm9yLWEtYm9vay1tYXJrZXRpbmclN0NJJTIwc2V0JTIwYSUyMHRyYXAlMjBmb3IlMjBhJTIwYm9vay1tYXJrZXRpbmclMjBzY2FtbWVyJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDIxODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxOCUzQTA4JTNBMjUlMjAlMkIwMDAw",
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "pubDate": "Sat, 22 Aug 2026 18:08:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFkaW5nbWFwcy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnJlYWRpbmdtYXBzLmNvbSUyRiU3Q1JlYWRpbmclMjBNYXBzJTIwJUUyJTgwJTkzJTIwSm91cm5leXMlMjBmcm9tJTIwZmljdGlvbiUyMGRyYXduJTIwb24lMjB0aGUlMjByZWFsJTIwd29ybGQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwMjEwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIyJTIwQXVnJTIwMjAyNiUyMDE3JTNBNTklM0EwOSUyMCUyQjAwMDA",
+      "title": "Reading Maps – Journeys from fiction drawn on the real world",
+      "pubDate": "Sat, 22 Aug 2026 17:59:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
     }
   ]

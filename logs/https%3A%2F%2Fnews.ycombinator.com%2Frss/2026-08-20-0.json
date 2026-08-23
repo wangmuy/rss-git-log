@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-20",
     "newestItemDate": "2026-08-20",
-    "itemCount": 46,
-    "generatedAt": "2026-08-22T08:51:16.775Z"
+    "itemCount": 50,
+    "generatedAt": "2026-08-23T02:02:27.730Z"
   },
   "items": [
     {
@@ -282,6 +282,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpY2luZS53YXNodS5lZHUlMkZuZXdzJTJGaG93LWVhcmx5LWxpZmUtc3RyZXNzLWxlYXZlcy1hLXNjYXItaW5zaWRlLWJyYWluLWNlbGxzJTJGJTdDaHR0cHMlM0ElMkYlMkZtZWRpY2luZS53YXNodS5lZHUlMkZuZXdzJTJGaG93LWVhcmx5LWxpZmUtc3RyZXNzLWxlYXZlcy1hLXNjYXItaW5zaWRlLWJyYWluLWNlbGxzJTJGJTdDRWFybHktbGlmZSUyMHN0cmVzcyUyMGxlYXZlcyUyMGElMjAnc2NhciclMjBpbnNpZGUlMjBicmFpbiUyMGNlbGxzJTIwaW4lMjBtaWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzODAzMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAyMSUzQTA4JTNBMzYlMjAlMkIwMDAw",
       "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
       "pubDate": "Thu, 20 Aug 2026 21:08:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdHByb3RvLmNvbSUyRmJsb2clMkZhdHByb3RvLXNwYWNlcy1hbHBoYSU3Q2h0dHBzJTNBJTJGJTJGYXRwcm90by5jb20lMkZibG9nJTJGYXRwcm90by1zcGFjZXMtYWxwaGElN0NBVFByb3RvJTIwc3BhY2VzJTNBJTIwQSUyMG5ldyUyMGV4dGVuc2lvbiUyMHRvJTIwQVRQcm90byUyMHRoYXQlMjBlbmFibGVzJTIwbm9uLXB1YmxpYyUyMGRhdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTM3OTczMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIwJTIwQXVnJTIwMjAyNiUyMDIwJTNBMjIlM0EzNSUyMCUyQjAwMDA",
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "pubDate": "Thu, 20 Aug 2026 20:22:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXV0aWwudXMlMkZ3aHktaXQtbWlnaHQtYmUtdGltZS10by1yZXRoaW5rLXRoZS1odW1hbi1mYW1pbHktdHJlZS0xMjgzOTg1JTdDaHR0cHMlM0ElMkYlMkZuYXV0aWwudXMlMkZ3aHktaXQtbWlnaHQtYmUtdGltZS10by1yZXRoaW5rLXRoZS1odW1hbi1mYW1pbHktdHJlZS0xMjgzOTg1JTdDV2h5JTIwaXQlMjBtaWdodCUyMGJlJTIwdGltZSUyMHRvJTIwcmV0aGluayUyMHRoZSUyMGh1bWFuJTIwZmFtaWx5JTIwdHJlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Mzc3MzE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjAlMjBBdWclMjAyMDI2JTIwMTclM0EwNyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Why it might be time to rethink the human family tree",
+      "pubDate": "Thu, 20 Aug 2026 17:07:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXR0by5haSUyRmNvbXBhbmllcyUyRnByb2dyYW1iZW5jaC12ZXR0ZWQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdmV0dG8uYWklMkZjb21wYW5pZXMlMkZwcm9ncmFtYmVuY2gtdmV0dGVkLmh0bWwlN0NQcm9ncmFtQmVuY2glMjBWZXR0ZWQlM0ElMjBSZXZlcnNlJTIwRW5naW5lZXJpbmclMjBmcm9tJTIwYSUyMFJ1bm5hYmxlJTIwQmluYXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzUxNzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTM1JTNBMDglMjAlMkIwMDAw",
+      "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
+      "pubDate": "Thu, 20 Aug 2026 14:35:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRmNvbndheXMtZ2FtZS1vZi1saWZlLWluLXJlYWwtbGlmZSU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jb3JlZHVtcC5jeCUyRnAlMkZjb253YXlzLWdhbWUtb2YtbGlmZS1pbi1yZWFsLWxpZmUlN0NDb253YXkncyUyMEdhbWUlMjBvZiUyMExpZmUlMjBpbiUyMHJlYWwlMjBsaWZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzNzM4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMCUyMEF1ZyUyMDIwMjYlMjAxMiUzQTQwJTNBMDQlMjAlMkIwMDAw",
+      "title": "Conway's Game of Life in real life",
+      "pubDate": "Thu, 20 Aug 2026 12:40:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-20-0.json"
     }
   ]
