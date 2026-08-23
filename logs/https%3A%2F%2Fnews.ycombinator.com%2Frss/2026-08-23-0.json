@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-23",
     "newestItemDate": "2026-08-23",
-    "itemCount": 11,
-    "generatedAt": "2026-08-23T08:52:11.909Z"
+    "itemCount": 24,
+    "generatedAt": "2026-08-23T16:46:03.843Z"
   },
   "items": [
     {
@@ -72,6 +72,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuYXBwZXJ0aW1lLmNvbSUyRnRoZS1hcnQtb2YtYW5kLWJlYXV0eS1vZi1ibGFkZS1ydW5uZXIlMkYlN0NodHRwcyUzQSUyRiUyRm5hcHBlcnRpbWUuY29tJTJGdGhlLWFydC1vZi1hbmQtYmVhdXR5LW9mLWJsYWRlLXJ1bm5lciUyRiU3Q1RoZSUyMEFydCUyMGFuZCUyMEJlYXV0eSUyMG9mJTIwQmxhZGUlMjBSdW5uZXIlMjAoMjAxNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwNTMzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDAwJTNBNTYlM0EwMyUyMCUyQjAwMDA",
       "title": "The Art and Beauty of Blade Runner (2015)",
       "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWludmVudGx5LmNvLnVrJTJGdG9vbHMlMkZlZC1vLW1ldGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZyZWludmVudGx5LmNvLnVrJTJGdG9vbHMlMkZlZC1vLW1ldGVyJTJGJTdDR0xNLTUuMyUyMChvcGVuLXdlaWdodCklMjBiZWF0JTIwQW50aHJvcGljJTJGT3BlbkFJJTIwbW9kZWxzJTIwJUUyJTgwJTkzJTIwZm9yJTIwMSUyRjUlMjB0aGUlMjBjb3N0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTAwOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTI0JTNBMjElMjAlMkIwMDAw",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "pubDate": "Sun, 23 Aug 2026 16:24:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRmNvY29udXQtb2lsLWpldC1mdWVsLW1hdGNoZXMta2Vyb3NlbmVzLWVmZmljaWVuY3ktaW4tZW5naW5lLXRlc3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRmNvY29udXQtb2lsLWpldC1mdWVsLW1hdGNoZXMta2Vyb3NlbmVzLWVmZmljaWVuY3ktaW4tZW5naW5lLXRlc3RzJTJGJTdDQ29jb251dCUyME9pbCUyMEpldCUyMEZ1ZWwlMjBNYXRjaGVzJTIwS2Vyb3NlbmUncyUyMEVmZmljaWVuY3klMjBpbiUyMEVuZ2luZSUyMFRlc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDk3ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTUwJTNBMTglMjAlMkIwMDAw",
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "pubDate": "Sun, 23 Aug 2026 15:50:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmNocmlzdGlhbnJlYmVyJTJGc3RhdHVzJTJGMjA5MTUzMjU0NTU3Nzg0OTAwOCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZjaHJpc3RpYW5yZWJlciUyRnN0YXR1cyUyRjIwOTE1MzI1NDU1Nzc4NDkwMDglN0NVbml2ZXJzYWwlMjBIb3VzaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDk1NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTI0JTNBNDMlMjAlMkIwMDAw",
+      "title": "Universal Housing",
+      "pubDate": "Sun, 23 Aug 2026 15:24:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3cuY29tcGxleHN5c3RlbXMuZmFpbCUyRiU3Q2h0dHBzJTNBJTJGJTJGaG93LmNvbXBsZXhzeXN0ZW1zLmZhaWwlMkYlN0NIb3clMjBDb21wbGV4JTIwU3lzdGVtcyUyMEZhaWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwOTQ3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE1JTNBMTMlM0EzMSUyMCUyQjAwMDA",
+      "title": "How Complex Systems Fail",
+      "pubDate": "Sun, 23 Aug 2026 15:13:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrYWRheS5jb20lMkYyMDI2JTJGMDglMkYyMyUyRmFtaWdhLWluc3BpcmVkLWFyb3MtZ29lcy1iYXJlLW1ldGFsLW9uLXJhc3BiZXJyeS1waSUyRiU3Q2h0dHBzJTNBJTJGJTJGaGFja2FkYXkuY29tJTJGMjAyNiUyRjA4JTJGMjMlMkZhbWlnYS1pbnNwaXJlZC1hcm9zLWdvZXMtYmFyZS1tZXRhbC1vbi1yYXNwYmVycnktcGklMkYlN0NBbWlnYS1JbnNwaXJlZCUyMEFST1MlMjBHb2VzJTIwQmFyZSUyME1ldGFsJTIwb24lMjBSYXNwYmVycnklMjBQaSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDA5MjEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMTQlM0EzOSUzQTM1JTIwJTJCMDAwMA",
+      "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
+      "pubDate": "Sun, 23 Aug 2026 14:39:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaXNreS5iaXolMkZyaXNreS1idWxsZXRpbi1zbG92YWtpYS1maW5kcy1ydXNzaWFuLWJhY2tkb29yLWluLXRyYWZmaWMtc3BlZWQtY2FtZXJhcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcmlza3kuYml6JTJGcmlza3ktYnVsbGV0aW4tc2xvdmFraWEtZmluZHMtcnVzc2lhbi1iYWNrZG9vci1pbi10cmFmZmljLXNwZWVkLWNhbWVyYXMlMkYlN0NTbG92YWtpYSUyMGZpbmRzJTIwUnVzc2lhbiUyMGJhY2tkb29yJTIwaW4lMjB0cmFmZmljJTIwc3BlZWQlMjBjYW1lcmFzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDkyMDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxNCUzQTM4JTNBMjUlMjAlMkIwMDAw",
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "pubDate": "Sun, 23 Aug 2026 14:38:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJlbmRpbC5jb20lMkZwb3N0cyUyRndoYXQtaXMtYS1oYXJuZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZlYXJlbmRpbC5jb20lMkZwb3N0cyUyRndoYXQtaXMtYS1oYXJuZXNzJTJGJTdDV2hhdCUyMElzJTIwYSUyMEhhcm5lc3MlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwOTA5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE0JTNBMjQlM0EyMSUyMCUyQjAwMDA",
+      "title": "What Is a Harness?",
+      "pubDate": "Sun, 23 Aug 2026 14:24:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcmljcGFyZGVlLmdpdGh1Yi5pbyUyRmZpcmUtaGQtb3duZXJzaGlwJTJGJTdDaHR0cHMlM0ElMkYlMkZlcmljcGFyZGVlLmdpdGh1Yi5pbyUyRmZpcmUtaGQtb3duZXJzaGlwJTJGJTdDSSUyMHNwZW50JTIwJTI0MjY2JTIwYW5kJTIwZm91ciUyMEFJJTIwbW9kZWxzJTIwdG8lMjBvd24lMjBteSUyMHRhYmxldC4lMjBHTE0tNS4zJTIwZmluaXNoZWQlMjBpdCUyMGluJTIwYSUyMGRheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDA5MDczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMTQlM0EyMyUzQTA5JTIwJTJCMDAwMA",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "pubDate": "Sun, 23 Aug 2026 14:23:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMDglMkZkZWF0aC10by1weC1sb25nLWxpdmUtY2glMkYlN0NodHRwcyUzQSUyRiUyRnNoa3Nwci5tb2JpJTJGYmxvZyUyRjIwMjYlMkYwOCUyRmRlYXRoLXRvLXB4LWxvbmctbGl2ZS1jaCUyRiU3Q0RlYXRoJTIwdG8lMjBweCUyQyUyMGxvbmclMjBsaXZlJTIwY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwODg4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDEzJTNBNTYlM0EyNyUyMCUyQjAwMDA",
+      "title": "Death to px, long live ch",
+      "pubDate": "Sun, 23 Aug 2026 13:56:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib29rZG5hLmNvbSUyRmJlc3QtYm9va3MlMkZub25maWN0aW9uLWFib3V0LWN1bHRzLXNjYW1zLWFuZC1zY2hlbWVzJTdDaHR0cHMlM0ElMkYlMkZib29rZG5hLmNvbSUyRmJlc3QtYm9va3MlMkZub25maWN0aW9uLWFib3V0LWN1bHRzLXNjYW1zLWFuZC1zY2hlbWVzJTdDTXklMjBmYXZvcml0ZSUyMG5vbmZpY3Rpb24lMjBib29rcyUyMGFib3V0JTIwY3VsdHMlMkMlMjBzY2FtcyUyQyUyMGFuZCUyMHNjaGVtZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwODg1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDEzJTNBNTElM0ExMCUyMCUyQjAwMDA",
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "pubDate": "Sun, 23 Aug 2026 13:51:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWN1cmVsaXN0LmNvbSUyRmFuZHJvaWQtaGVhZC11bml0LW1hbHdhcmUlMkYxMjExMDYlMkYlN0NodHRwcyUzQSUyRiUyRnNlY3VyZWxpc3QuY29tJTJGYW5kcm9pZC1oZWFkLXVuaXQtbWFsd2FyZSUyRjEyMTEwNiUyRiU3Q01hbHdhcmUlMjBpbmZlY3RzJTIwQW5kcm9pZC1iYXNlZCUyMGF1dG9tb3RpdmUlMjBoZWFkJTIwdW5pdCUyMGZpcm13YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDg1NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxMyUzQTA1JTNBMzglMjAlMkIwMDAw",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueGRhLWRldmVsb3BlcnMuY29tJTJGcXdlbi0zLTgtMjdiLXJldmVyc2UtZW5naW5lZXJpbmctam9iLWZyb250aWVyLW1vZGVsJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cueGRhLWRldmVsb3BlcnMuY29tJTJGcXdlbi0zLTgtMjdiLXJldmVyc2UtZW5naW5lZXJpbmctam9iLWZyb250aWVyLW1vZGVsJTJGJTdDSSUyMGdhdmUlMjBRd2VuJTIwMy44JTIwMjdCJTIwYSUyMHJldmVyc2UtZW5naW5lZXJpbmclMjBqb2IlMjBhbmQlMjBpdCUyMGZpbmlzaGVkJTIwaW4lMjAzMCUyMG1pbnV0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwNzUwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDEwJTNBMDIlM0E1MSUyMCUyQjAwMDA",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "pubDate": "Sun, 23 Aug 2026 10:02:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZza3lsZW5zLnlhbnRyYWFpLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2t5bGVucy55YW50cmFhaS5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBMaXZlJTIwM0QlMjBzYXRlbGxpdGUlMjB0cmFja2VyJTIwYW5kJTIwdGhlJTIwZGVjbGFzc2lmaWVkJTIwUGVudGFnb24lMjBVRk8lMjBhcmNoaXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDczMDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwOSUzQTI3JTNBNDAlMjAlMkIwMDAw",
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "pubDate": "Sun, 23 Aug 2026 09:27:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
     }
   ]

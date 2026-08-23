@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-22",
     "newestItemDate": "2026-08-22",
-    "itemCount": 22,
-    "generatedAt": "2026-08-23T08:52:11.909Z"
+    "itemCount": 23,
+    "generatedAt": "2026-08-23T16:46:03.843Z"
   },
   "items": [
     {
@@ -138,6 +138,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1vZGVsY29udGV4dHByb3RvY29sLmlvJTJGcG9zdHMlMkZtY3Atcm9hZG1hcCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5tb2RlbGNvbnRleHRwcm90b2NvbC5pbyUyRnBvc3RzJTJGbWNwLXJvYWRtYXAlMkYlN0NOZXclMjBNQ1AlMjBSb2FkbWFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDkzOTk1OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTMxJTNBMzQlMjAlMkIwMDAw",
       "title": "New MCP Roadmap",
       "pubDate": "Sat, 22 Aug 2026 13:31:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcG9ya3Muc3BhY2UlMkYyMDI2JTJGMDglMkYxOSUyRnRoaW5ncy1pLXdhbnQtaW4tYS1tb2Rlcm4tcmVsYXRpb25hbC1xdWVyeS1sYW5ndWFnZSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3BvcmtzLnNwYWNlJTJGMjAyNiUyRjA4JTJGMTklMkZ0aGluZ3MtaS13YW50LWluLWEtbW9kZXJuLXJlbGF0aW9uYWwtcXVlcnktbGFuZ3VhZ2UlMkYlN0NUaGluZ3MlMjBJJTIwd2FudCUyMGluJTIwYSUyMG1vZGVybiUyMHJlbGF0aW9uYWwlMjBxdWVyeSUyMGxhbmd1YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDI0OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMiUyMEF1ZyUyMDIwMjYlMjAxOCUzQTM4JTNBNDElMjAlMkIwMDAw",
+      "title": "Things I want in a modern relational query language",
+      "pubDate": "Sat, 22 Aug 2026 18:38:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-22-0.json"
     }
   ]
