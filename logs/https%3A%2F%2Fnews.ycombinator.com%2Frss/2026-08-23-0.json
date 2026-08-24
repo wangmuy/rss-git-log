@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-23",
     "newestItemDate": "2026-08-23",
-    "itemCount": 24,
-    "generatedAt": "2026-08-23T16:46:03.843Z"
+    "itemCount": 49,
+    "generatedAt": "2026-08-24T02:00:36.214Z"
   },
   "items": [
     {
@@ -150,6 +150,156 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZza3lsZW5zLnlhbnRyYWFpLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2t5bGVucy55YW50cmFhaS5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBMaXZlJTIwM0QlMjBzYXRlbGxpdGUlMjB0cmFja2VyJTIwYW5kJTIwdGhlJTIwZGVjbGFzc2lmaWVkJTIwUGVudGFnb24lMjBVRk8lMjBhcmNoaXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDczMDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAwOSUzQTI3JTNBNDAlMjAlMkIwMDAw",
       "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
       "pubDate": "Sun, 23 Aug 2026 09:27:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2hsYXJwLmNvbSUyRnBvc3RzJTJGZXZlcnl0aGluZy1pLW93bi1vd25lZCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2NobGFycC5jb20lMkZwb3N0cyUyRmV2ZXJ5dGhpbmctaS1vd24tb3duZWQlMkYlN0NFdmVyeXRoaW5nJTIwSSUyMG93biUyQyUyMG93bmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTMzMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAyMiUzQTQxJTNBMDQlMjAlMkIwMDAw",
+      "title": "Everything I own, owned",
+      "pubDate": "Sun, 23 Aug 2026 22:41:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYXJyZC5kZXYlMkZhcnRpY2xlJTJGcGFyYWxsZWwtZGV2ZWxvcG1lbnQtd2l0aG91dC10aGUtaGVhZGFjaGVzLXVzaW5nLWdpdC13b3JrdHJlZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmFycmQuZGV2JTJGYXJ0aWNsZSUyRnBhcmFsbGVsLWRldmVsb3BtZW50LXdpdGhvdXQtdGhlLWhlYWRhY2hlcy11c2luZy1naXQtd29ya3RyZWUlMkYlN0NQYXJhbGxlbCUyMGRldmVsb3BtZW50JTIwd2l0aG91dCUyMHRoZSUyMGhlYWRhY2hlcyUyMHVzaW5nJTIwR2l0JTIwd29ya3RyZWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxMzA5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDIyJTNBMDYlM0ExNCUyMCUyQjAwMDA",
+      "title": "Parallel development without the headaches using Git worktree",
+      "pubDate": "Sun, 23 Aug 2026 22:06:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwc21hZy5jb20lMkZlbnZpcm9ubWVudCUyRnRoZS1wbGFuZXQtbm93LWhhcy1tb3JlLXRyZWVzLXRoYW4taXQtZGlkLTM1LXllYXJzLWFnbyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHNtYWcuY29tJTJGZW52aXJvbm1lbnQlMkZ0aGUtcGxhbmV0LW5vdy1oYXMtbW9yZS10cmVlcy10aGFuLWl0LWRpZC0zNS15ZWFycy1hZ28lMkYlN0NUaGUlMjBwbGFuZXQlMjBub3clMjBoYXMlMjBtb3JlJTIwdHJlZXMlMjB0aGFuJTIwaXQlMjBkaWQlMjAzNSUyMHllYXJzJTIwYWdvJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTMwMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAyMSUzQTU1JTNBNTUlMjAlMkIwMDAw",
+      "title": "The planet now has more trees than it did 35 years ago (2018)",
+      "pubDate": "Sun, 23 Aug 2026 21:55:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBvLmdlJTJGczYucGRmJTdDaHR0cHMlM0ElMkYlMkZhbHBvLmdlJTJGczYucGRmJTdDQSUyMGNvbXBsZXglMjBzdHJ1Y3R1cmUlMjBvbiUyMFMlNUU2JTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTI5NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAyMSUzQTQ3JTNBMjUlMjAlMkIwMDAw",
+      "title": "A complex structure on S^6 [pdf]",
+      "pubDate": "Sun, 23 Aug 2026 21:47:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQWxwaW5EYWxlJTJGZ3B0Mi5jbWFrZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkFscGluRGFsZSUyRmdwdDIuY21ha2UlN0NJbXBsZW1lbnRhdGlvbiUyMG9mJTIwR1BULTIlMjBpbiUyMHB1cmUlMjBDTWFrZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDEyOTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMjElM0E0MSUzQTE3JTIwJTJCMDAwMA",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "pubDate": "Sun, 23 Aug 2026 21:41:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdvZGFuaWVsLmNvbSUyRnBvc3RzJTJGZGVjbGFyYXRpdmUtd2ViZ3B1LXdpdGgtcy1leHByZXNzaW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGaHVnb2RhbmllbC5jb20lMkZwb3N0cyUyRmRlY2xhcmF0aXZlLXdlYmdwdS13aXRoLXMtZXhwcmVzc2lvbnMlMkYlN0NEZWNsYXJhdGl2ZSUyMFdlYkdQVSUyMHdpdGglMjBTLUV4cHJlc3Npb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTI0NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAyMCUzQTQ3JTNBNTMlMjAlMkIwMDAw",
+      "title": "Declarative WebGPU with S-Expressions",
+      "pubDate": "Sun, 23 Aug 2026 20:47:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY250cmF2ZWxlci5jb20lMkZzdG9yeSUyRnRoaXMtcnVyYWwtdmlsbGFnZS1pbi1zcGFpbi1pcy13ZWxjb21pbmctZGlnaXRhbC1ub21hZHMtd2l0aC1vcGVuLWFybXMlN0NodHRwcyUzQSUyRiUyRnd3dy5jbnRyYXZlbGVyLmNvbSUyRnN0b3J5JTJGdGhpcy1ydXJhbC12aWxsYWdlLWluLXNwYWluLWlzLXdlbGNvbWluZy1kaWdpdGFsLW5vbWFkcy13aXRoLW9wZW4tYXJtcyU3Q1J1cmFsJTIwVmlsbGFnZSUyMGluJTIwU3BhaW4lMjBJcyUyMFdlbGNvbWluZyUyMERpZ2l0YWwlMjBOb21hZHMlMjB3aXRoJTIwT3BlbiUyMEFybXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxMjMyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDIwJTNBMzAlM0E1MCUyMCUyQjAwMDA",
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "pubDate": "Sun, 23 Aug 2026 20:30:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjIwMTg2JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjIwMTg2JTdDRGVjb2RpbmclMjBzaWxlbnQlMjByZWFkaW5nJTIwZnJvbSUyMG5vbi1pbnZhc2l2ZSUyMEVFRyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDEyMTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMjAlM0ExMyUzQTM0JTIwJTJCMDAwMA",
+      "title": "Decoding silent reading from non-invasive EEG",
+      "pubDate": "Sun, 23 Aug 2026 20:13:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVsaXMuY2MlMkZhcnRpY2xlcyUyRmdvb2dsZS13b3Jrc3BhY2UtdGhpbmtzLW15LWRvbWFpbi1pcy1hbi1lbWFpbC1wcm92aWRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5lbGlzLmNjJTJGYXJ0aWNsZXMlMkZnb29nbGUtd29ya3NwYWNlLXRoaW5rcy1teS1kb21haW4taXMtYW4tZW1haWwtcHJvdmlkZXIlMkYlN0NHb29nbGUlMjBXb3Jrc3BhY2UlMjB0aGlua3MlMjBteSUyMGRvbWFpbiUyMGlzJTIwYW4lMjBlbWFpbCUyMHByb3ZpZGVyJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTE3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxOSUzQTI5JTNBMzIlMjAlMkIwMDAw",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "pubDate": "Sun, 23 Aug 2026 19:29:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWxpdG0uY29tJTJGcG9zdCUyRmZpbmQtcHJvYmxlbXMtc3RhZmYtZW5naW5lZXIlMkYlN0NodHRwcyUzQSUyRiUyRmxhbGl0bS5jb20lMkZwb3N0JTJGZmluZC1wcm9ibGVtcy1zdGFmZi1lbmdpbmVlciUyRiU3Q0hvdyUyMEklMjBmaW5kJTIwcHJvYmxlbXMlMjB0byUyMHNvbHZlJTIwYXMlMjBhJTIwc3RhZmYlMjBlbmdpbmVlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDExNjQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMTklM0EyMyUzQTI5JTIwJTJCMDAwMA",
+      "title": "How I find problems to solve as a staff engineer",
+      "pubDate": "Sun, 23 Aug 2026 19:23:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGJyZXVuaWcuY29tJTJGMjAyNiUyRjA4JTJGMjMlMkZmYWJsZS10aGUtZW5kLW9mLW1vb3JlLXMtbGF3Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYnJldW5pZy5jb20lMkYyMDI2JTJGMDglMkYyMyUyRmZhYmxlLXRoZS1lbmQtb2YtbW9vcmUtcy1sYXcuaHRtbCU3Q0ZhYmxlJTIwYW5kJTIwdGhlJTIwZW5kJTIwb2YlMjB0aGUlMjBmcmVlJTIwbHVuY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxMTQ2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE5JTNBMDYlM0EwOSUyMCUyQjAwMDA",
+      "title": "Fable and the end of the free lunch",
+      "pubDate": "Sun, 23 Aug 2026 19:06:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjA4JTJGbWljcm9zb2Z0LXNvZnR3YXJlLW5vbnByb2ZpdC1kYXRhLWRlbGV0ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjA4JTJGbWljcm9zb2Z0LXNvZnR3YXJlLW5vbnByb2ZpdC1kYXRhLWRlbGV0ZS5odG1sJTdDT3ZlciUyMDE3MGslMjBOb25wcm9maXRzJTIwTG9zdCUyMEFsbCUyMFRoZWlyJTIwRGF0YS4lMjBJcyUyME1pY3Jvc29mdCUyMHRvJTIwQmxhbWUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxMTM5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE4JTNBNTUlM0E1NCUyMCUyQjAwMDA",
+      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "pubDate": "Sun, 23 Aug 2026 18:55:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnN1ZmZlcmFibGUuZGV2JTJGcG9zdHMlMkZ2aWJlLXRheCUyRiU3Q2h0dHBzJTNBJTJGJTJGaW5zdWZmZXJhYmxlLmRldiUyRnBvc3RzJTJGdmliZS10YXglMkYlN0NUaGUlMjBWaWJlJTIwVGF4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTExOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxOCUzQTMxJTNBMDIlMjAlMkIwMDAw",
+      "title": "The Vibe Tax",
+      "pubDate": "Sun, 23 Aug 2026 18:31:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjVlZTQ5NzE4LWMyNTgtNGYwMS1hYTMyLTdlNWI3NmFlNTI0NSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkY1ZWU0OTcxOC1jMjU4LTRmMDEtYWEzMi03ZTViNzZhZTUyNDUlN0NBbnRocm9waWMncyUyMGJlc3QlMjBBSSUyMG1vZGVsJTIwc3RydWdnbGVzJTIwdG8lMjBhdHRyYWN0JTIwdXNlcnMlMjBhcyUyMGNoZWFwZXIlMjB0b29scyUyMHRocml2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDExMTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMTglM0ExNiUzQTM3JTIwJTJCMDAwMA",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "pubDate": "Sun, 23 Aug 2026 18:16:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbWVnaW9uLmRldiUyRjIwMjYlMkYwOCUyRmFpLWFuZC1pbmZyYXN0cnVjdHVyZS1lbmdpbmVlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGb21lZ2lvbi5kZXYlMkYyMDI2JTJGMDglMkZhaS1hbmQtaW5mcmFzdHJ1Y3R1cmUtZW5naW5lZXJpbmclMkYlN0NBSSUyMGFuZCUyMEluZnJhc3RydWN0dXJlJTIwRW5naW5lZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxMTAyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE4JTNBMDklM0EwMSUyMCUyQjAwMDA",
+      "title": "AI and Infrastructure Engineering",
+      "pubDate": "Sun, 23 Aug 2026 18:09:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW1oYXJmb3JkLmNvbSUyRjIwMjYlMkYwOCUyRmV4cGxhaW4taXQtdG8tbWUtbGlrZS1pbS10ZW4lMkYlN0NodHRwcyUzQSUyRiUyRnRpbWhhcmZvcmQuY29tJTJGMjAyNiUyRjA4JTJGZXhwbGFpbi1pdC10by1tZS1saWtlLWltLXRlbiUyRiU3Q0V4cGxhaW4lMjBpdCUyMHRvJTIwbWUlMjBsaWtlJTIwSSdtJTIwdGVuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTEwMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxOCUzQTA4JTNBMTMlMjAlMkIwMDAw",
+      "title": "Explain it to me like I'm ten",
+      "pubDate": "Sun, 23 Aug 2026 18:08:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWJpZW5zYW5nbGFyZC5uZXQlMkZhZ2VudC5tZCUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmZhYmllbnNhbmdsYXJkLm5ldCUyRmFnZW50Lm1kJTJGaW5kZXguaHRtbCU3Q015JTIwYWdlbnQubWQlMjB0byUyMGltcHJvdmUlMjBMTE0tYXNzaXN0ZWQlMjBjb2RlJTIwcXVhbGl0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDEwOTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMTclM0E1OSUzQTUyJTIwJTJCMDAwMA",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "pubDate": "Sun, 23 Aug 2026 17:59:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGV3Lm9yZyUyRmVuJTJGcmVzZWFyY2gtYW5kLWFuYWx5c2lzJTJGcmVwb3J0cyUyRjIwMjYlMkYwNSUyRnRoZS1yZW1vdGUtd29yay1jaGFsbGVuZ2UtbGVzc29ucy1mcm9tLTUtY2l0aWVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGV3Lm9yZyUyRmVuJTJGcmVzZWFyY2gtYW5kLWFuYWx5c2lzJTJGcmVwb3J0cyUyRjIwMjYlMkYwNSUyRnRoZS1yZW1vdGUtd29yay1jaGFsbGVuZ2UtbGVzc29ucy1mcm9tLTUtY2l0aWVzJTdDVGhlJTIwUmVtb3RlJTIwV29yayUyMENoYWxsZW5nZSUzQSUyMExlc3NvbnMlMjBmcm9tJTIwNSUyMENpdGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDEwNTQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMTclM0ExNSUzQTM2JTIwJTJCMDAwMA",
+      "title": "The Remote Work Challenge: Lessons from 5 Cities",
+      "pubDate": "Sun, 23 Aug 2026 17:15:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWJsb2F0LmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVibG9hdC5kZXYlMkYlN0NBJTIwd2Vic2l0ZSUyMGZvciUyMGRlYmxvYXRlZCUyMG9wZW4lMjBzb3VyY2UlMjBhbHRlcm5hdGl2ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxMDM2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE2JTNBNTQlM0ExMCUyMCUyQjAwMDA",
+      "title": "A website for debloated open source alternatives",
+      "pubDate": "Sun, 23 Aug 2026 16:54:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29saW5vLm5ldCUyRndvcmRwcmVzcyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA4JTJGMjMlMkZrb2Rhay1kYzUwLW5vdy11c2FibGUtb24tdGhlLWFwcGxlLWlpJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29saW5vLm5ldCUyRndvcmRwcmVzcyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA4JTJGMjMlMkZrb2Rhay1kYzUwLW5vdy11c2FibGUtb24tdGhlLWFwcGxlLWlpJTJGJTdDS29kYWslMjBEQzUwJTIwbm93JTIwdXNhYmxlJTIwb24lMjB0aGUlMjBBcHBsZSUyMElJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTAxMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTI1JTNBNTklMjAlMkIwMDAw",
+      "title": "Kodak DC50 now usable on the Apple II",
+      "pubDate": "Sun, 23 Aug 2026 16:25:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdW55YW1pc2hyYS5jb20lMkYyMDI2JTJGMDQlMkYxNiUyRndoeS1zYWwta2hhbnQtb24tbGVhcm5pbmctYnktbWFraW5nLWJ1dC10ZWFjaGluZy1ieS10ZWxsaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZwdW55YW1pc2hyYS5jb20lMkYyMDI2JTJGMDQlMkYxNiUyRndoeS1zYWwta2hhbnQtb24tbGVhcm5pbmctYnktbWFraW5nLWJ1dC10ZWFjaGluZy1ieS10ZWxsaW5nJTJGJTdDV2h5JTIwU2FsJTIwS2hhbid0JTNBJTIwT24lMjBMZWFybmluZyUyMGJ5JTIwTWFraW5nJTIwYnV0JTIwVGVhY2hpbmclMjBieSUyMFRlbGxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwOTg2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE1JTNBNTklM0EwOCUyMCUyQjAwMDA",
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "pubDate": "Sun, 23 Aug 2026 15:59:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRmNvY29udXQtb2lsLWpldC1mdWVsLW1hdGNoZXMta2Vyb3NlbmVzLWVmZmljaWVuY3ktaW4tZW5naW5lLXRlc3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRmNvY29udXQtb2lsLWpldC1mdWVsLW1hdGNoZXMta2Vyb3NlbmVzLWVmZmljaWVuY3ktaW4tZW5naW5lLXRlc3RzJTJGJTdDQ29jb251dCUyMG9pbCUyMGpldCUyMGZ1ZWwlMjBtYXRjaGVzJTIwa2Vyb3NlbmUncyUyMGVmZmljaWVuY3klMjBpbiUyMGVuZ2luZSUyMHRlc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MDk3ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxNSUzQTUwJTNBMTglMjAlMkIwMDAw",
+      "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
+      "pubDate": "Sun, 23 Aug 2026 15:50:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3cuY29tcGxleHN5c3RlbXMuZmFpbCUyRiU3Q2h0dHBzJTNBJTJGJTJGaG93LmNvbXBsZXhzeXN0ZW1zLmZhaWwlMkYlN0NIb3clMjBDb21wbGV4JTIwU3lzdGVtcyUyMEZhaWwlMjAoMTk5OCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwOTQ3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE1JTNBMTMlM0EzMSUyMCUyQjAwMDA",
+      "title": "How Complex Systems Fail (1998)",
+      "pubDate": "Sun, 23 Aug 2026 15:13:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZW5yeWFqLnN1YnN0YWNrLmNvbSUyRnAlMkZ0aGUtc2xvcHBpZmljYXRpb24tb2YtcGVwdGlkZXMlN0NodHRwcyUzQSUyRiUyRmhlbnJ5YWouc3Vic3RhY2suY29tJTJGcCUyRnRoZS1zbG9wcGlmaWNhdGlvbi1vZi1wZXB0aWRlcyU3Q1RoZSUyMFNsb3BwaWZpY2F0aW9uJTIwb2YlMjBQZXB0aWRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDA3MzQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjMlMjBBdWclMjAyMDI2JTIwMDklM0EzMiUzQTU0JTIwJTJCMDAwMA",
+      "title": "The Sloppification of Peptides",
+      "pubDate": "Sun, 23 Aug 2026 09:32:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVwZWFrZS5jb20lMkZhaS1jaGlwLWFyY2hpdGVjdHVyZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5qZXBlYWtlLmNvbSUyRmFpLWNoaXAtYXJjaGl0ZWN0dXJlcyU3Q0FJJTIwQ2hpcCUyMEFyY2hpdGVjdHVyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwNTY1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDAyJTNBMjUlM0ExMCUyMCUyQjAwMDA",
+      "title": "AI Chip Architectures",
+      "pubDate": "Sun, 23 Aug 2026 02:25:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
     }
   ]
