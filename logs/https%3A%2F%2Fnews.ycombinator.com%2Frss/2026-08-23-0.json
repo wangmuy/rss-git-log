@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-23",
     "newestItemDate": "2026-08-23",
-    "itemCount": 49,
-    "generatedAt": "2026-08-24T02:00:36.214Z"
+    "itemCount": 51,
+    "generatedAt": "2026-08-24T09:07:58.720Z"
   },
   "items": [
     {
@@ -300,6 +300,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVwZWFrZS5jb20lMkZhaS1jaGlwLWFyY2hpdGVjdHVyZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5qZXBlYWtlLmNvbSUyRmFpLWNoaXAtYXJjaGl0ZWN0dXJlcyU3Q0FJJTIwQ2hpcCUyMEFyY2hpdGVjdHVyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQwNTY1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDAyJTNBMjUlM0ExMCUyMCUyQjAwMDA",
       "title": "AI Chip Architectures",
       "pubDate": "Sun, 23 Aug 2026 02:25:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYW50ZWwuaXMlMkZwcm9qZWN0cyUyRmFpLWdhbWluZy1jb21wYW5pb24lMkYlN0NodHRwcyUzQSUyRiUyRnBhbnRlbC5pcyUyRnByb2plY3RzJTJGYWktZ2FtaW5nLWNvbXBhbmlvbiUyRiU3Q0klMjBidWlsdCUyMGElMjBsb3ctbGF0ZW5jeSUyMEFJJTIwY29tcGFuaW9uJTIwdGhhdCUyMHBsYXlzJTIwU2t5cmltJTIwd2l0aCUyMG1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTM1NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAyMyUzQTE4JTNBMTclMjAlMkIwMDAw",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "pubDate": "Sun, 23 Aug 2026 23:18:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnBhdWxnJTJGc3RhdHVzJTJGMjA5MTU0NDM0MzU4OTA2MDYyNSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZwYXVsZyUyRnN0YXR1cyUyRjIwOTE1NDQzNDM1ODkwNjA2MjUlN0NJJTIwd2VyZSUyMDE3JTJDJTIwSSdkJTIwbGVhcm4lMjBob3clMjB0byUyMGJ1aWxkJTIwTExNcyUyMGZyb20lMjBzY3JhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTIzOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAyMCUzQTM4JTNBMDklMjAlMkIwMDAw",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "pubDate": "Sun, 23 Aug 2026 20:38:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
     }
   ]
