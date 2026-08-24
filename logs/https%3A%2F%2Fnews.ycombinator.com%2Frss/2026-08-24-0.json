@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 12,
-    "generatedAt": "2026-08-24T09:07:58.720Z"
+    "itemCount": 36,
+    "generatedAt": "2026-08-24T16:59:22.467Z"
   },
   "items": [
     {
@@ -78,6 +78,150 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2hvZGFuLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2hvZGFuLmlvJTJGJTdDVGhlJTIwZmlyc3QlMjBzZWFyY2glMjBlbmdpbmUlMjBmb3IlMjBJbnRlcm5ldC1jb25uZWN0ZWQlMjBkZXZpY2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTQwOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAwMCUzQTUyJTNBMjElMjAlMkIwMDAw",
       "title": "The first search engine for Internet-connected devices",
       "pubDate": "Mon, 24 Aug 2026 00:52:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3ZlbnBhc3RhJTJGYWRpMiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm92ZW5wYXN0YSUyRmFkaTIlN0NTaG93JTIwSE4lM0ElMjBBJTIwTW9kZXJuJTIwR1VJJTIwTGlicmFyeSUyMGZvciUyMEFkYSUzQSUyMENTUyUyMFN0eWxpbmclMkMlMjBYTUwlMjBVSSUyQyUyMFNETDMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMjI0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE2JTNBMzAlM0E1MSUyMCUyQjAwMDA",
+      "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+      "pubDate": "Mon, 24 Aug 2026 16:30:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE2NjAzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjE2NjAzJTdDUHVibGljJTIwc2VydmljZXMlMjBhcmUlMjBpbmNyZWFzaW5nbHklMjBzdHJhaW5lZCUyMGJ5JTIwTExNLXdyaXR0ZW4lMjBhcHBlYWxzJTIwZm9yJTIwYmVuZWZpdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMjIyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE2JTNBMzAlM0EyMSUyMCUyQjAwMDA",
+      "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+      "pubDate": "Mon, 24 Aug 2026 16:30:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW51YmVkYXRhLnJvJTJGYmxvZyUyRnN0b3JhZ2UtcG93ZXItbG9zcy1wb3N0bW9ydGVtLWF1Z3VzdC0yMDI2JTdDaHR0cHMlM0ElMkYlMkZkYW51YmVkYXRhLnJvJTJGYmxvZyUyRnN0b3JhZ2UtcG93ZXItbG9zcy1wb3N0bW9ydGVtLWF1Z3VzdC0yMDI2JTdDQSUyMFNlcnZlciUyMExvc3QlMjBQb3dlciUyMGF0JTIwMDAlM0EzMi4lMjBXZSUyMEZvdW5kJTIwT3V0JTIwYXQlMjAwOCUzQTE4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjIyMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTI5JTNBNTclMjAlMkIwMDAw",
+      "title": "A Server Lost Power at 00:32. We Found Out at 08:18",
+      "pubDate": "Mon, 24 Aug 2026 16:29:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4c2NoYXBpcm8uY29tJTJGc2VjdXJpdHklMkZ2dWxuZXJhYmlsaXR5JTJGMjAyNiUyRjA3JTJGMTYlMkZiZWFtLWxpdmluZy1ncmFwaHFsLWRhdGEtZXhwb3N1cmUlN0NodHRwcyUzQSUyRiUyRmFsZXhzY2hhcGlyby5jb20lMkZzZWN1cml0eSUyRnZ1bG5lcmFiaWxpdHklMkYyMDI2JTJGMDclMkYxNiUyRmJlYW0tbGl2aW5nLWdyYXBocWwtZGF0YS1leHBvc3VyZSU3Q0ElMjBCbGFja3N0b25lJTIwcmVhbCUyMGVzdGF0ZSUyMGNvbXBhbnklMjBleHBvc2VkJTIwU1NOJTIwZGlnaXRzJTJDJTIwRE9CcyUyQyUyMGFkZHJlc3NlcyUyMGFuZCUyMG1vcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMjIwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE2JTNBMjklM0EwMCUyMCUyQjAwMDA",
+      "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+      "pubDate": "Mon, 24 Aug 2026 16:29:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbGFzc2JveC5jb2RlY2FuYXJ5Lm9yZyU3Q2h0dHBzJTNBJTJGJTJGZ2xhc3Nib3guY29kZWNhbmFyeS5vcmclMkYlN0NTaG93JTIwSE4lM0ElMjBHbGFzc0JveCUyMCVFMiU4MCU5MyUyMHdoYXQlMjB0aGUlMjBicm93c2VyJTIwcmV2ZWFscyUyQyUyMGFuZCUyMGhvdyUyMGlkZW50aWZpYWJsZSUyMHlvdSUyMGFyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIxOTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTYlM0ExNSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+      "pubDate": "Mon, 24 Aug 2026 16:15:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaWNvbXEuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZwaWNvbXEuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwUGljb01RJTIwJUUyJTgwJTkzJTIwRHVyYWJsZSUyMFN0cmVhbXMlMjBvdmVyJTIwSFRUUCUyQyUyMG9uJTIwb2JqZWN0JTIwc3RvcmFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIxODA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTYlM0EwOCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "pubDate": "Mon, 24 Aug 2026 16:08:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXJzZmF5ZS5jb20lMkZhcnRpY2xlcyUyRmFpLWNvZGluZy13aWxsLXByZXZlbnQtZXhwZXJ0aXNlJTdDaHR0cHMlM0ElMkYlMkZsYXJzZmF5ZS5jb20lMkZhcnRpY2xlcyUyRmFpLWNvZGluZy13aWxsLXByZXZlbnQtZXhwZXJ0aXNlJTdDQ29kaW5nJTIwZXhwZXJ0aXNlJTIwaXMlMjBnb2luZyUyMHRvJTIwY29sbGFwc2UlMjBmcm9tJTIwQUklMjByZWxpYW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIxNTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0E1MiUzQTMzJTIwJTJCMDAwMA",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "pubDate": "Mon, 24 Aug 2026 15:52:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWx0c2NoLmRlJTJGcG9zdHMlMkYyNS15ZWFycy1vZi1kaWdpdGFsLWluZGVwZW5kZW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3VsdHNjaC5kZSUyRnBvc3RzJTJGMjUteWVhcnMtb2YtZGlnaXRhbC1pbmRlcGVuZGVuY2UlMkYlN0NKYWJiZXIlMkZYTVBQJTNBJTIwMjUlMjBZZWFycyUyMG9mJTIwRGlnaXRhbCUyMEluZGVwZW5kZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIxNTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0E1MSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "pubDate": "Mon, 24 Aug 2026 15:51:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcHNoaXB5YXJkLmNvbSUyRmJsb2clMkYyMDI2LXRoZS1lbmQtb2YtaXBmcy1hdC1zaGlweWFyZCUyRiU3Q2h0dHBzJTNBJTJGJTJGaXBzaGlweWFyZC5jb20lMkZibG9nJTJGMjAyNi10aGUtZW5kLW9mLWlwZnMtYXQtc2hpcHlhcmQlMkYlN0NJUEZTJTIwTWFpbnRhaW5lcnMlMjBXaW5kaW5nJTIwRG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIxNDg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0E0OCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "IPFS Maintainers Winding Down",
+      "pubDate": "Mon, 24 Aug 2026 15:48:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2huY2FybG9zYmFlei53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTIlMkZ0aHJlZS1nZW5lcmF0aW9ucy1pbi1lNyUyRiU3Q2h0dHBzJTNBJTJGJTJGam9obmNhcmxvc2JhZXoud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOCUyRjEyJTJGdGhyZWUtZ2VuZXJhdGlvbnMtaW4tZTclMkYlN0NUaHJlZSUyMEdlbmVyYXRpb25zJTIwaW4lMjBFNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIxMzQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0E0MCUzQTM4JTIwJTJCMDAwMA",
+      "title": "Three Generations in E7",
+      "pubDate": "Mon, 24 Aug 2026 15:40:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4dXNoZW5nLmRldiUyRnBvc3RzJTJGcmV2ZXJzaW5nJTJGbXNwYWludF9pbnZpc2libGVfd2F0ZXJtYXJrJTJGbWFpbiUyRiU3Q2h0dHBzJTNBJTJGJTJGeHVzaGVuZy5kZXYlMkZwb3N0cyUyRnJldmVyc2luZyUyRm1zcGFpbnRfaW52aXNpYmxlX3dhdGVybWFyayUyRm1haW4lMkYlN0NNUyUyMFBhaW50JTIwYW5kJTIwUGhvdG9zJTIwaW5pdmlzaWJseSUyMHdhdGVybWFyayUyMGV2ZW4lMjBsb2NhbGx5JTIwZ2VuZXJhdGVkJTIwb3V0cHV0JTIwd2l0aCUyMEdVSUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMTE1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMjglM0EwNCUyMCUyQjAwMDA",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "pubDate": "Mon, 24 Aug 2026 15:28:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLm9wZW5haS5jb20lMkZhcGklMkZkb2NzJTJGcHJpY2luZyU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVycy5vcGVuYWkuY29tJTJGYXBpJTJGZG9jcyUyRnByaWNpbmclN0NPcGVuQUklM0ElMjBHUFQlMjA1LjYlMjBTb2wlMjBwcmljZSUyMHJlZHVjdGlvbiUyMCh1bnRpbCUyMGF0JTIwbGVhc3QlMjBOb3YlMjAyMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMTA3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMjIlM0E0MyUyMCUyQjAwMDA",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "pubDate": "Mon, 24 Aug 2026 15:22:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm5ldGJzZC5vcmclMkZ0bmYlMkZlbnRyeSUyRmdzb2MyMDI2X3JhaWRmcmFtZSU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5uZXRic2Qub3JnJTJGdG5mJTJGZW50cnklMkZnc29jMjAyNl9yYWlkZnJhbWUlN0NOZXRCU0QlMjBHU29DJTIwMjAyNiUyMEltcHJvdmluZyUyMFJBSURmcmFtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIwOTk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0ExNyUzQTM4JTIwJTJCMDAwMA",
+      "title": "NetBSD GSoC 2026 Improving RAIDframe",
+      "pubDate": "Mon, 24 Aug 2026 15:17:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b3JyZW50ZnJlYWsuY29tJTJGYW5uYXMtYXJjaGl2ZS1vd2VzLTM0MC1taWxsaW9uLWxvc3Qtc2V2ZXJhbC1kb21haW5zLWJ1dC1pdHMtc3RpbGwtb25saW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b3JyZW50ZnJlYWsuY29tJTJGYW5uYXMtYXJjaGl2ZS1vd2VzLTM0MC1taWxsaW9uLWxvc3Qtc2V2ZXJhbC1kb21haW5zLWJ1dC1pdHMtc3RpbGwtb25saW5lJTJGJTdDQW5uYSdzJTIwQXJjaGl2ZSUyME93ZXMlMjAlMjQzNDAlMjBNaWxsaW9uJTJDJTIwTG9zdCUyMFNldmVyYWwlMjBEb21haW5zJTJDJTIwYnV0JTIwSXQncyUyMFN0aWxsJTIwT25saW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjA5MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTEwJTNBMjUlMjAlMkIwMDAw",
+      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "pubDate": "Mon, 24 Aug 2026 15:10:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmxlbWlyZSUyRnN0YXR1cyUyRjIwOTE4OTQyOTkyODk4NzQ5MjYlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGbGVtaXJlJTJGc3RhdHVzJTJGMjA5MTg5NDI5OTI4OTg3NDkyNiU3Q1hpYW9taSUzQSUyME5ldyUyMENQVSUyMG1hdGNoZXMlMjBBcHBsZSUyMGNvcmVzJTIwc2luZ2xlJTIwdGhyZWFkZWQlMkMlMjBtdWNoJTIwZmFzdGVyJTIwbXVsdGl0aHJlYWRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIwODczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0EwOCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "pubDate": "Mon, 24 Aug 2026 15:08:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWRhZnJ1aXQuY29tJTJGcHJvZHVjdCUyRjYzMjMlN0NodHRwcyUzQSUyRiUyRnd3dy5hZGFmcnVpdC5jb20lMkZwcm9kdWN0JTJGNjMyMyU3Q0FkYWZydWl0JTIwVVNCJTIwVHlwZSUyMEMlMjBDQyUyMFJlc2lzdG9yJTIwRml4ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMDgzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDUlM0EyMiUyMCUyQjAwMDA",
+      "title": "Adafruit USB Type C CC Resistor Fixer",
+      "pubDate": "Mon, 24 Aug 2026 15:05:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmZlcnF1ZXN0Lm9yZyU3Q2h0dHBzJTNBJTJGJTJGaW5mZXJxdWVzdC5vcmclMkYlN0NTaG93JTIwSE4lM0ElMjBGcmVlJTIwSW5mZXJlbmNlJTIwRW5naW5lZXIlMjBhbmQlMjBNb2RlbCUyMFRyYWluaW5nJTIwUm9hZG1hcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIwNzgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0EwMiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
+      "pubDate": "Mon, 24 Aug 2026 15:02:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGaG90LWNoaXBzLTIwMjYtc2Ftc3VuZy1hbmQtaGJtLWJhc2UlN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZob3QtY2hpcHMtMjAyNi1zYW1zdW5nLWFuZC1oYm0tYmFzZSU3Q0hvdCUyMENoaXBzJTIwMjAyNiUzQSUyMFNhbXN1bmclMjBhbmQlMjBIQk0lMjBCYXNlJTIwRGllJTIwT3Bwb3J0dW5pdGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIwNzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTUlM0EwMSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+      "pubDate": "Mon, 24 Aug 2026 15:01:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGaG90LWNoaXBzLTIwMjYtYXBwbHlpbmctaGlnaC1iYW5kd2lkdGglN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZob3QtY2hpcHMtMjAyNi1hcHBseWluZy1oaWdoLWJhbmR3aWR0aCU3Q0hvdCUyMENoaXBzJTIwMjAyNiUzQSUyMEFwcGx5aW5nJTIwSGlnaCUyMEJhbmR3aWR0aCUyMEZsYXNoJTIwKEhCRiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMDU5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE0JTNBNDglM0E1OCUyMCUyQjAwMDA",
+      "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+      "pubDate": "Mon, 24 Aug 2026 14:48:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzc3gzNjAuZ2l0aHViLmlvJTJGcmFjay0wMiUyRiUzRnNyYyUzRGhuJTdDaHR0cHMlM0ElMkYlMkZzc3gzNjAuZ2l0aHViLmlvJTJGcmFjay0wMiUyRiUzRnNyYyUzRGhuJTdDU2hvdyUyMEhOJTNBJTIwQSUyMHRlY2hubyUyMG1hY2hpbmUlMjBpbiUyMG9uZSUyMEhUTUwlMjBmaWxlJTJDJTIwd2l0aCUyMHZlcmlmaWFibGUlMjByZW5kZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTkzNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTE3JTNBMTElMjAlMkIwMDAw",
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "pubDate": "Mon, 24 Aug 2026 13:17:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZWN0cm9uei5jb20lMkZ1JTJGbGVjdHJvbnolMkZhcnRpY2xlcyUyRmhvdy1ldXJvcGUtaXMta2lsbGluZy1tYWtlcnMtYW5kLW1pY3JvLWVudHJlcHJlbmV1cnMlN0NodHRwcyUzQSUyRiUyRmxlY3Ryb256LmNvbSUyRnUlMkZsZWN0cm9ueiUyRmFydGljbGVzJTJGaG93LWV1cm9wZS1pcy1raWxsaW5nLW1ha2Vycy1hbmQtbWljcm8tZW50cmVwcmVuZXVycyU3Q0hvdyUyMEV1cm9wZSUyMGlzJTIwa2lsbGluZyUyMG1ha2VycyUyMGFuZCUyMG1pY3JvLWVudHJlcHJlbmV1cnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxOTIzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDEzJTNBMDUlM0EyNSUyMCUyQjAwMDA",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "pubDate": "Mon, 24 Aug 2026 13:05:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9vZmNyYWZ0LnN5c3RlbXMlMkZuZXdzLTIwMjYlMkYlMjMyMDI2LTA4LTIxJTdDaHR0cHMlM0ElMkYlMkZwcm9vZmNyYWZ0LnN5c3RlbXMlMkZuZXdzLTIwMjYlMkYlMjMyMDI2LTA4LTIxJTdDU2VMNCUyMHNlY3VyaXR5JTIwcHJvb2ZzJTIwbm93JTIwY29tcGxldGUlMjBvbiUyMEFBcmNoNjQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxODI1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDExJTNBMzIlM0E1MSUyMCUyQjAwMDA",
+      "title": "SeL4 security proofs now complete on AArch64",
+      "pubDate": "Mon, 24 Aug 2026 11:32:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRmZ1dHVyZSUyRmFydGljbGUlMkYyMDI2MDgyMS13aHktb2xkZXItdGVjaC1pcy1zb21ldGltZXMtc2FmZXItZnJvbS1oYWNrZXJzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRmZ1dHVyZSUyRmFydGljbGUlMkYyMDI2MDgyMS13aHktb2xkZXItdGVjaC1pcy1zb21ldGltZXMtc2FmZXItZnJvbS1oYWNrZXJzJTdDV2h5JTIwb2xkZXIlMjB0ZWNoJTIwaXMlMjBzb21ldGltZXMlMjBzYWZlciUyMGZyb20lMjBoYWNrZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTgxODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxMSUzQTIzJTNBMzklMjAlMkIwMDAw",
+      "title": "Why older tech is sometimes safer from hackers",
+      "pubDate": "Mon, 24 Aug 2026 11:23:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFtaWx0b251bG1lci5jb20lMkZjdXN0b21lci1kYXNoYm9hcmRzLXIyLWh5cGFycXVldCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhhbWlsdG9udWxtZXIuY29tJTJGY3VzdG9tZXItZGFzaGJvYXJkcy1yMi1oeXBhcnF1ZXQlMkYlN0NGYXN0JTIwZHJpbGxkb3duJTIwZGFzaGJvYXJkcyUyMGZyb20lMjBhJTIwc2luZ2xlJTIwUGFycXVldCUyMGZpbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxNjY1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDA4JTNBMTMlM0ExNyUyMCUyQjAwMDA",
+      "title": "Fast drilldown dashboards from a single Parquet file",
+      "pubDate": "Mon, 24 Aug 2026 08:13:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]
