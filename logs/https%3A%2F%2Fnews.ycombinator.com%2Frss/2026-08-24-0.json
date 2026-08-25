@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 53,
-    "generatedAt": "2026-08-25T01:56:03.321Z"
+    "itemCount": 56,
+    "generatedAt": "2026-08-25T09:03:33.618Z"
   },
   "items": [
     {
@@ -324,6 +324,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqb3VybmFscy5wbG9zLm9yZyUyRnBsb3NvbmUlMkZhcnRpY2xlJTNGaWQlM0QxMC4xMzcxJTJGam91cm5hbC5wb25lLjAzNDQ1MzglN0NodHRwcyUzQSUyRiUyRmpvdXJuYWxzLnBsb3Mub3JnJTJGcGxvc29uZSUyRmFydGljbGUlM0ZpZCUzRDEwLjEzNzElMjUyRmpvdXJuYWwucG9uZS4wMzQ0NTM4JTdDUGVwcGVybWludCUyMG9pbCUyMHJlZHVjZXMlMjBibG9vZCUyMHByZXNzdXJlJTIwYnklMjA4LjQ4JTIwbW1IZyUyMGluJTIwc21hbGwlMjBzdHVkeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIwNTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTQlM0E0NCUzQTU1JTIwJTJCMDAwMA",
       "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
       "pubDate": "Mon, 24 Aug 2026 14:44:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdG9iaSUyRndhbGdpdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnRvYmklMkZ3YWxnaXQlN0NXYWxnaXQlMjAlRTIlODAlOTMlMjBhJTIwR2l0JTIwc2VydmVyJTIwdGhhdCUyMGlzJTIwb25lJTIwYmluYXJ5JTIwaW4lMjBmcm9udCUyMG9mJTIwYW4lMjBvYmplY3QlMjBzdG9yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIwNTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTQlM0E0OSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Walgit – a Git server that is one binary in front of an object store",
+      "pubDate": "Mon, 24 Aug 2026 14:49:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZreWxlemhlLm5nJTJGd3JpdGVzJTJGY3JhZnRpbmctcXItY29kZXMlN0NodHRwcyUzQSUyRiUyRmt5bGV6aGUubmclMkZ3cml0ZXMlMkZjcmFmdGluZy1xci1jb2RlcyU3Q0NyYWZ0aW5nJTIwUVIlMjBDb2RlcyUzQSUyMEElMjBkZWVwJTIwZGl2ZSUyMGludG8lMjBRUiUyMGNvZGUlMjBhcnQlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMDExNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE0JTNBMTUlM0EzOCUyMCUyQjAwMDA",
+      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+      "pubDate": "Mon, 24 Aug 2026 14:15:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFzdGVyaW5nZW1hY3Mub3JnJTJGYXJ0aWNsZSUyRndoYXRzLW5ldy1pbi1lbWFjcy0zMTElN0NodHRwcyUzQSUyRiUyRnd3dy5tYXN0ZXJpbmdlbWFjcy5vcmclMkZhcnRpY2xlJTJGd2hhdHMtbmV3LWluLWVtYWNzLTMxMSU3Q1doYXQncyUyMG5ldyUyMGluJTIwRW1hY3MlMjAzMS4xJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTkyNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTA3JTNBMjIlMjAlMkIwMDAw",
+      "title": "What's new in Emacs 31.1",
+      "pubDate": "Mon, 24 Aug 2026 13:07:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]

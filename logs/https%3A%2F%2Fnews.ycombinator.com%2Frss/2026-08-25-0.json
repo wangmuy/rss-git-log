@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-25",
     "newestItemDate": "2026-08-25",
-    "itemCount": 2,
-    "generatedAt": "2026-08-25T01:56:03.321Z"
+    "itemCount": 8,
+    "generatedAt": "2026-08-25T09:03:33.618Z"
   },
   "items": [
     {
@@ -18,6 +18,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwbGljYXJhLmFpJTJGcmVzZWFyY2glMkZhZ2VudC1za2lsbC1sYW5ndWFnZXMlMkYlN0NodHRwcyUzQSUyRiUyRnBsaWNhcmEuYWklMkZyZXNlYXJjaCUyRmFnZW50LXNraWxsLWxhbmd1YWdlcyUyRiU3Q1doYXQlMjBsYW5ndWFnZXMlMjBhcmUlMjBhZ2VudCUyMHNraWxscyUyMHdyaXR0ZW4lMjBpbiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI3ODI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDAlM0E1MiUzQTI3JTIwJTJCMDAwMA",
       "title": "What languages are agent skills written in?",
       "pubDate": "Tue, 25 Aug 2026 00:52:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZHJhZ3RoZWxha2UlMkZhbWJpZW50LWNvbnRleHQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkcmFndGhlbGFrZSUyRmFtYmllbnQtY29udGV4dCU3Q1Nob3clMjBITiUzQSUyMFNjcmVlbiUyMG1lbW9yeSUyMHdpdGhvdXQlMjBzY3JlZW5zaG90cyUyQyUyMGp1c3QlMjB0ZXh0JTIwdG8lMjBNYXJrZG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI5MDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDQlM0EzMyUzQTI0JTIwJTJCMDAwMA",
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "pubDate": "Tue, 25 Aug 2026 04:33:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrbm93YWJsZW1hZ2F6aW5lLm9yZyUyRmNvbnRlbnQlMkZhcnRpY2xlJTJGcGh5c2ljYWwtd29ybGQlMkYyMDI2JTJGdm9sY2Fub2VzLXRoYXQtbWFkZS1oaXN0b3J5JTdDaHR0cHMlM0ElMkYlMkZrbm93YWJsZW1hZ2F6aW5lLm9yZyUyRmNvbnRlbnQlMkZhcnRpY2xlJTJGcGh5c2ljYWwtd29ybGQlMkYyMDI2JTJGdm9sY2Fub2VzLXRoYXQtbWFkZS1oaXN0b3J5JTdDVm9sY2Fub2VzJTIwdGhhdCUyMG1hZGUlMjBoaXN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0Mjg5NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAwNCUzQTA5JTNBNDMlMjAlMkIwMDAw",
+      "title": "Volcanoes that made history",
+      "pubDate": "Tue, 25 Aug 2026 04:09:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGF1ZGUub3JnJTJGdXBkYXRlcyUyRmhlYWRsb25nLWEtbWljcm9oYXJuZXNzLWZvci1wZXJzaXN0ZW50LWFnZW50cyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmxhdWRlLm9yZyUyRnVwZGF0ZXMlMkZoZWFkbG9uZy1hLW1pY3JvaGFybmVzcy1mb3ItcGVyc2lzdGVudC1hZ2VudHMlN0NIZWFkbG9uZyUzQSUyMEElMjBNaWNyb2hhcm5lc3MlMjBmb3IlMjBQZXJzaXN0ZW50JTIwQWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0Mjg4ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAwMyUzQTU0JTNBMTklMjAlMkIwMDAw",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "pubDate": "Tue, 25 Aug 2026 03:54:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGc2lmaXZlcy1maXJzdC1zZXJ2ZXItcGxhdGZvcm0lN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZzaWZpdmVzLWZpcnN0LXNlcnZlci1wbGF0Zm9ybSU3Q1NpRml2ZSdzJTIwRmlyc3QlMjBTZXJ2ZXIlMjBQbGF0Zm9ybSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI4NjM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDMlM0EwNiUzQTI2JTIwJTJCMDAwMA",
+      "title": "SiFive's First Server Platform",
+      "pubDate": "Tue, 25 Aug 2026 03:06:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhvbXNvbnJldXRlcnMuY29tJTJGZW4lMkZwcmVzcy1yZWxlYXNlcyUyRjIwMjYlMkZhdWd1c3QlMkZ0aG9tc29uLXJldXRlcnMtbGV2ZXJhZ2VzLWl0cy13b3JsZC1jbGFzcy1kYXRhLWFzc2V0cy10by1sYXVuY2gtaXRzLW93bi1mcm9udGllci1tb2RlbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRob21zb25yZXV0ZXJzLmNvbSUyRmVuJTJGcHJlc3MtcmVsZWFzZXMlMkYyMDI2JTJGYXVndXN0JTJGdGhvbXNvbi1yZXV0ZXJzLWxldmVyYWdlcy1pdHMtd29ybGQtY2xhc3MtZGF0YS1hc3NldHMtdG8tbGF1bmNoLWl0cy1vd24tZnJvbnRpZXItbW9kZWwlN0NUaG9tc29uJTIwUmV1dGVycyUyMExhdW5jaGVzJTIwSXRzJTIwT3duJTIwRnJvbnRpZXIlMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI4MzE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDIlM0ExMSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "pubDate": "Tue, 25 Aug 2026 02:11:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ3YXMtbW9kZXJuLWFydC1yZWFsbHktYS1jaWEtcHN5LW9wJTJGJTdDaHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ3YXMtbW9kZXJuLWFydC1yZWFsbHktYS1jaWEtcHN5LW9wJTJGJTdDV2FzJTIwbW9kZXJuJTIwYXJ0JTIwYSUyMENJQSUyMHBzeS1vcCUzRiUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI4MDgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDElM0EzNSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "pubDate": "Tue, 25 Aug 2026 01:35:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
     }
   ]

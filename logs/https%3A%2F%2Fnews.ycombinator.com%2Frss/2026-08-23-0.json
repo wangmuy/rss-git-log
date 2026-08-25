@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-23",
     "newestItemDate": "2026-08-23",
-    "itemCount": 51,
-    "generatedAt": "2026-08-24T09:07:58.720Z"
+    "itemCount": 53,
+    "generatedAt": "2026-08-25T09:03:33.619Z"
   },
   "items": [
     {
@@ -312,6 +312,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnBhdWxnJTJGc3RhdHVzJTJGMjA5MTU0NDM0MzU4OTA2MDYyNSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZwYXVsZyUyRnN0YXR1cyUyRjIwOTE1NDQzNDM1ODkwNjA2MjUlN0NJJTIwd2VyZSUyMDE3JTJDJTIwSSdkJTIwbGVhcm4lMjBob3clMjB0byUyMGJ1aWxkJTIwTExNcyUyMGZyb20lMjBzY3JhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTIzOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAyMCUzQTM4JTNBMDklMjAlMkIwMDAw",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "pubDate": "Sun, 23 Aug 2026 20:38:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXJ5YS53ZWJzaXRlJTJGcmxpbmctcXdlbi10by1wYWludC13aXRoLWNvZGUlN0NodHRwcyUzQSUyRiUyRnN1cnlhLndlYnNpdGUlMkZybGluZy1xd2VuLXRvLXBhaW50LXdpdGgtY29kZSU3Q1RyYWluaW5nJTIwQUklMjB0byUyMFBhaW50JTIwd2l0aCUyMENvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxMTgwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIzJTIwQXVnJTIwMjAyNiUyMDE5JTNBMzklM0EyOSUyMCUyQjAwMDA",
+      "title": "Training AI to Paint with Code",
+      "pubDate": "Sun, 23 Aug 2026 19:39:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YXJqYW4uaXRjaC5pbyUyRnRob3JlYXViYXNpYyU3Q2h0dHBzJTNBJTJGJTJGdGFyamFuLml0Y2guaW8lMkZ0aG9yZWF1YmFzaWMlN0NTaG93JTIwSE4lM0ElMjBJJTIwd3JvdGUlMjBhJTIwQkFTSUMlMjBpbnRlcnByZXRlciUyMHRoYXQlMjBib290cyUyMG9uJTIwVUVGSSUyMG1hY2hpbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTA4MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMyUyMEF1ZyUyMDIwMjYlMjAxNyUzQTQ4JTNBMTIlMjAlMkIwMDAw",
+      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "pubDate": "Sun, 23 Aug 2026 17:48:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-23-0.json"
     }
   ]
