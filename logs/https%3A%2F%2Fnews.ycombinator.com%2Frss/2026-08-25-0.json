@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-25",
     "newestItemDate": "2026-08-25",
-    "itemCount": 8,
-    "generatedAt": "2026-08-25T09:03:33.618Z"
+    "itemCount": 24,
+    "generatedAt": "2026-08-25T16:59:17.753Z"
   },
   "items": [
     {
@@ -54,6 +54,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ3YXMtbW9kZXJuLWFydC1yZWFsbHktYS1jaWEtcHN5LW9wJTJGJTdDaHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ3YXMtbW9kZXJuLWFydC1yZWFsbHktYS1jaWEtcHN5LW9wJTJGJTdDV2FzJTIwbW9kZXJuJTIwYXJ0JTIwYSUyMENJQSUyMHBzeS1vcCUzRiUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI4MDgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDElM0EzNSUzQTAwJTIwJTJCMDAwMA",
       "title": "Was modern art a CIA psy-op? (2020)",
       "pubDate": "Tue, 25 Aug 2026 01:35:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGcGRmJTJGMTAuMTE0NSUyRjM4MjAwMTIlN0NodHRwcyUzQSUyRiUyRmRsLmFjbS5vcmclMkZkb2klMkZwZGYlMkYxMC4xMTQ1JTJGMzgyMDAxMiU3Q1dhcm5vY2slM0ElMjBIYXJuZXNzaW5nJTIwR1BVJTIwR2VvbWV0cnklMjBBbXBsaWZpY2F0aW9uJTIwZm9yJTIwVmVjdG9yJTIwR3JhcGhpY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzNTc4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE1JTNBMjYlM0E0NSUyMCUyQjAwMDA",
+      "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+      "pubDate": "Tue, 25 Aug 2026 15:26:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRmhvdy1tdWNoLW9mLWhuLWlzLWFpJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRmhvdy1tdWNoLW9mLWhuLWlzLWFpJTdDSG93JTIwbXVjaCUyMG9mJTIwSE4lMjBpcyUyMEFJJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzU3MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTIzJTNBNDElMjAlMkIwMDAw",
+      "title": "How much of HN is AI?",
+      "pubDate": "Tue, 25 Aug 2026 15:23:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZmZWF0dXJlJTJGYmV5b25kLWdvb2QtYW5kLWV2aWwtbmlldHpzY2hlLWFuZC1ncmVhdC13YXIlN0NodHRwcyUzQSUyRiUyRnd3dy5oaXN0b3J5dG9kYXkuY29tJTJGYXJjaGl2ZSUyRmZlYXR1cmUlMkZiZXlvbmQtZ29vZC1hbmQtZXZpbC1uaWV0enNjaGUtYW5kLWdyZWF0LXdhciU3Q0JleW9uZCUyMEdvb2QlMjBhbmQlMjBFdmlsJTNBJTIwTmlldHpzY2hlJTIwYW5kJTIwdGhlJTIwR3JlYXQlMjBXYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzNTQ5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDklM0EyMCUyMCUyQjAwMDA",
+      "title": "Beyond Good and Evil: Nietzsche and the Great War",
+      "pubDate": "Tue, 25 Aug 2026 15:09:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZhaSUyRjIwMjYlMkYwOCUyRmFpLWlzLWhpdHRpbmctZW50cnktbGV2ZWwtam9icy1oYXJkZXN0LXN0YW5mb3JkLXN0dWR5LWZpbmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZhaSUyRjIwMjYlMkYwOCUyRmFpLWlzLWhpdHRpbmctZW50cnktbGV2ZWwtam9icy1oYXJkZXN0LXN0YW5mb3JkLXN0dWR5LWZpbmRzJTJGJTdDQUklMjBpcyUyMGhpdHRpbmclMjBlbnRyeS1sZXZlbCUyMGpvYnMlMjBoYXJkZXN0JTJDJTIwU3RhbmZvcmQlMjBzdHVkeSUyMGZpbmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzUxNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTQ4JTNBNTglMjAlMkIwMDAw",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "pubDate": "Tue, 25 Aug 2026 14:48:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlMzYwLnlhbGUuZWR1JTJGZGlnZXN0JTJGYm9tYi1maXNoaW5nLWNvcmFsLXJlZWZzJTdDaHR0cHMlM0ElMkYlMkZlMzYwLnlhbGUuZWR1JTJGZGlnZXN0JTJGYm9tYi1maXNoaW5nLWNvcmFsLXJlZWZzJTdDQm9tYiUyMGZpc2hpbmclMjBpcyUyMHdyZWFraW5nJTIwaGF2b2MlMjBvbiUyMEluZG9uZXNpYSdzJTIwY29yYWwlMjByZWVmcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDM0ODIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTQlM0EyOSUzQTMyJTIwJTJCMDAwMA",
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "pubDate": "Tue, 25 Aug 2026 14:29:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW1reWxlbGFtYmVydC5jb20lMkZhcnRpY2xlcyUyRmJ1aWxkaW5nLWEtYmFja3lhcmQtb2ZmaWNlLXRoZS1idWlsZC1hbmQtY29zdC1icmVha2Rvd24lN0NodHRwcyUzQSUyRiUyRnd3dy5pbWt5bGVsYW1iZXJ0LmNvbSUyRmFydGljbGVzJTJGYnVpbGRpbmctYS1iYWNreWFyZC1vZmZpY2UtdGhlLWJ1aWxkLWFuZC1jb3N0LWJyZWFrZG93biU3Q0J1aWxkaW5nJTIwYSUyMGJhY2t5YXJkJTIwb2ZmaWNlJTJDJTIwdGhlJTIwYnVpbGQlMjBhbmQlMjBjb3N0JTIwYnJlYWtkb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzQ2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTIwJTNBMzYlMjAlMkIwMDAw",
+      "title": "Building a backyard office, the build and cost breakdown",
+      "pubDate": "Tue, 25 Aug 2026 14:20:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXJhdGhvcy5jb20lMkZlbiUyRmJsb2clMkZteXNxbC1jZGMtdG8tYmlncXVlcnklN0NodHRwcyUzQSUyRiUyRnd3dy5lcmF0aG9zLmNvbSUyRmVuJTJGYmxvZyUyRm15c3FsLWNkYy10by1iaWdxdWVyeSU3Q015U1FMJTIwQ0RDJTIwdG8lMjBCaWdRdWVyeSUzQSUyMHdoYXQlMjBwZXJpb2RpYyUyMHN5bmNzJTIwbWlzcyUyQyUyMGFuZCUyMGhvdyUyMGJpbmxvZyUyMGF2b2lkcyUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzQ2MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTE4JTNBMjklMjAlMkIwMDAw",
+      "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+      "pubDate": "Tue, 25 Aug 2026 14:18:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVzaW5lc3NpbnNpZGVyLmNvbSUyRmFudGhyb3BpYy1zYW4tZnJhbmNpc2NvLXN0YWZmLXdvcmstcmVtb3RlLW9mZmljZS1zZWN1cml0eS1zdHJpa2UtMjAyNi04JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnVzaW5lc3NpbnNpZGVyLmNvbSUyRmFudGhyb3BpYy1zYW4tZnJhbmNpc2NvLXN0YWZmLXdvcmstcmVtb3RlLW9mZmljZS1zZWN1cml0eS1zdHJpa2UtMjAyNi04JTdDQW50aHJvcGljJTIwdGVsbHMlMjBzdGFmZiUyMHRvJTIwd29yayUyMGZyb20lMjBob21lJTIwZHVlJTIwdG8lMjBwb3NzaWJsZSUyMHNlY3VyaXR5JTIwdGVhbSUyMHN0cmlrZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDM0MjkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTQlM0EwMCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "pubDate": "Tue, 25 Aug 2026 14:00:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDglMkZhcHBsZS11bnZlaWxzLWEtbW9yZS1wb3dlcmZ1bC1tYWMtbWluaS1mZWF0dXJpbmctdGhlLWFsbC1uZXctbTYtYW5kLW01LXBybyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRjA4JTJGYXBwbGUtdW52ZWlscy1hLW1vcmUtcG93ZXJmdWwtbWFjLW1pbmktZmVhdHVyaW5nLXRoZS1hbGwtbmV3LW02LWFuZC1tNS1wcm8lMkYlN0NOZXclMjBNYWMlMjBtaW5pJTJDJTIwZmVhdHVyaW5nJTIwTTYlMjBhbmQlMjBNNSUyMFBybyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMzNDUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTMlM0ExMyUzQTAwJTIwJTJCMDAwMA",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "pubDate": "Tue, 25 Aug 2026 13:13:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDglMkZhcHBsZS1pbnRyb2R1Y2VzLW5ldy1tYWMtc3R1ZGlvLXdpdGgtbTUtbWF4LWFuZC1tNS11bHRyYSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRjA4JTJGYXBwbGUtaW50cm9kdWNlcy1uZXctbWFjLXN0dWRpby13aXRoLW01LW1heC1hbmQtbTUtdWx0cmElMkYlN0NOZXclMjBNYWMlMjBTdHVkaW8lMjB3aXRoJTIwTTUlMjBNYXglMjBhbmQlMjBNNSUyMFVsdHJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzMzMTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTAzJTNBMTclMjAlMkIwMDAw",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "pubDate": "Tue, 25 Aug 2026 13:03:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDglMkZhcHBsZS1pbnRyb2R1Y2VzLW02LWFuZC1tNS11bHRyYS1mb3ItYS1iaWctbGVhcC1pbi1wZXJmb3JtYW5jZS1hbmQtYWktY29tcHV0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRjA4JTJGYXBwbGUtaW50cm9kdWNlcy1tNi1hbmQtbTUtdWx0cmEtZm9yLWEtYmlnLWxlYXAtaW4tcGVyZm9ybWFuY2UtYW5kLWFpLWNvbXB1dGUlMkYlN0NBcHBsZSUyMGludHJvZHVjZXMlMjBNNiUyMGFuZCUyME01JTIwVWx0cmElMjBmb3IlMjBhJTIwYmlnJTIwbGVhcCUyMGluJTIwcGVyZm9ybWFuY2UlMjBhbmQlMjBBSSUyMGNvbXB1dGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMzI5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDEzJTNBMDElM0EyMiUyMCUyQjAwMDA",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "pubDate": "Tue, 25 Aug 2026 13:01:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY2FkaWEuZW5naW5lZXJpbmclMkZibG9nJTJGc29sdmluZy10aGUtMS1wbHVzLU4tcXVlcnktcHJvYmxlbSU3Q2h0dHBzJTNBJTJGJTJGYWNhZGlhLmVuZ2luZWVyaW5nJTJGYmxvZyUyRnNvbHZpbmctdGhlLTEtcGx1cy1OLXF1ZXJ5LXByb2JsZW0lN0NTb2x2aW5nJTIwdGhlJTIwMSUyQk4lMjBRdWVyeSUyMFByb2JsZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMjc4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDEyJTNBMjYlM0E1OCUyMCUyQjAwMDA",
+      "title": "Solving the 1+N Query Problem",
+      "pubDate": "Tue, 25 Aug 2026 12:26:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb250d29yZGxlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZG9udHdvcmRsZS5jb20lMkYlN0NEb24ndCUyMFdvcmRsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMyMzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTElM0E0OSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Don't Wordle",
+      "pubDate": "Tue, 25 Aug 2026 11:49:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb2RlbHNjb3BlLmNuJTJGbW9kZWxzJTJGUXdlbiUyRlF3ZW4zLjgtRmxhc2gtTmV4dCU3Q2h0dHBzJTNBJTJGJTJGbW9kZWxzY29wZS5jbiUyRm1vZGVscyUyRlF3ZW4lMkZRd2VuMy44LUZsYXNoLU5leHQlN0NRd2VuJTIwMy44LUZsYXNoLU5leHQlMjByZWxlYXNpbmclMjB0b21vcnJvdyUyMCgxMjVCJTIwYTZCKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMyMzE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTElM0E0OSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "pubDate": "Tue, 25 Aug 2026 11:49:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUGx1bW1lcnNTb2Z0d2FyZUxMQyUyRkhlbGxvQXNzZW1ibHklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZQbHVtbWVyc1NvZnR3YXJlTExDJTJGSGVsbG9Bc3NlbWJseSU3Q0hlbGxvQXNzZW1ibHklMjBUaGUlMjBzbWFsbGVzdCUyMHBvc3NpYmxlJTIwY29tcGxldGUlMjBXaW5kb3dzJTIwYXBwbGljYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMjIyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDExJTNBNDAlM0EwMCUyMCUyQjAwMDA",
+      "title": "HelloAssembly The smallest possible complete Windows application",
+      "pubDate": "Tue, 25 Aug 2026 11:40:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGaGFwcHktMjB0aC1iaXJ0aGRheS10by13aW5kb3dzLTk1JTJGJTdDaHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGaGFwcHktMjB0aC1iaXJ0aGRheS10by13aW5kb3dzLTk1JTJGJTdDV2luZG93cyUyMDk1JTIwcmVsZWFzZWQlMjBBdWd1c3QlMjAyNCUyQyUyMDE5OTUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMDAwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDA2JTNBNTYlM0E1NSUyMCUyQjAwMDA",
+      "title": "Windows 95 released August 24, 1995",
+      "pubDate": "Tue, 25 Aug 2026 06:56:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
     }
   ]
