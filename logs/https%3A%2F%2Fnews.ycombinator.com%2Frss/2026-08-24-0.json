@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 36,
-    "generatedAt": "2026-08-24T16:59:22.467Z"
+    "itemCount": 53,
+    "generatedAt": "2026-08-25T01:56:03.321Z"
   },
   "items": [
     {
@@ -222,6 +222,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFtaWx0b251bG1lci5jb20lMkZjdXN0b21lci1kYXNoYm9hcmRzLXIyLWh5cGFycXVldCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhhbWlsdG9udWxtZXIuY29tJTJGY3VzdG9tZXItZGFzaGJvYXJkcy1yMi1oeXBhcnF1ZXQlMkYlN0NGYXN0JTIwZHJpbGxkb3duJTIwZGFzaGJvYXJkcyUyMGZyb20lMjBhJTIwc2luZ2xlJTIwUGFycXVldCUyMGZpbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxNjY1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDA4JTNBMTMlM0ExNyUyMCUyQjAwMDA",
       "title": "Fast drilldown dashboards from a single Parquet file",
       "pubDate": "Mon, 24 Aug 2026 08:13:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXVyZXJraW5uJTJGYm9va3NoZWxmJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbXVyZXJraW5uJTJGYm9va3NoZWxmJTdDQm9va3NoZWxmJTIwJUUyJTgwJTkzJTIwU2VsZi1ob3N0ZWQlMjBlQm9vayUyMGxpYnJhcnklMjB0aGF0JTIwcnVucyUyMG9uJTIwb2JqZWN0JTIwc3RvcmFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI3MDAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMjMlM0EwMCUzQTM3JTIwJTJCMDAwMA",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "pubDate": "Mon, 24 Aug 2026 23:00:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuYXBwbGUuY29tJTJGbmV3cyUyRiUzRmlkJTNEMXB0dmR0Y20lN0NodHRwcyUzQSUyRiUyRmRldmVsb3Blci5hcHBsZS5jb20lMkZuZXdzJTJGJTNGaWQlM0QxcHR2ZHRjbSU3Q2lDbG91ZCUyQiUyMEhpZGUlMjBNeSUyMEVtYWlsJTIwYWRkcmVzc2VzJTIwd2lsbCUyMHJlbWFpbiUyMG9uJTIwaWNsb3VkLmNvbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI2NTY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMjIlM0ExMyUzQTQwJTIwJTJCMDAwMA",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "pubDate": "Mon, 24 Aug 2026 22:13:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaWVjaGFub3cuc2tpJTJGbW9vbiUyRiU3Q2h0dHBzJTNBJTJGJTJGY2llY2hhbm93LnNraSUyRm1vb24lMkYlN0NNb29uJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjY0NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAyMiUzQTA2JTNBMDIlMjAlMkIwMDAw",
+      "title": "Moon (2024)",
+      "pubDate": "Mon, 24 Aug 2026 22:06:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYwOCUyRjE5JTJGc3R5bGUlMkZjaGluYS10YW5nLWR5bmFzdHktbmV2ZXItZXhpc3RlZC1ob2F4LWludGwtaG5rJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYwOCUyRjE5JTJGc3R5bGUlMkZjaGluYS10YW5nLWR5bmFzdHktbmV2ZXItZXhpc3RlZC1ob2F4LWludGwtaG5rJTdDT25lJTIwY29ybmVyJTIwb2YlMjBDaGluYSVFMiU4MCU5OXMlMjBpbnRlcm5ldCUyMGlzJTIwaW5zaXN0aW5nJTIwdGhhdCUyMHRoZSUyMFRhbmclMjBEeW5hc3R5JTIwbmV2ZXIlMjBleGlzdGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjU4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAyMSUzQTAzJTNBMDYlMjAlMkIwMDAw",
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "pubDate": "Mon, 24 Aug 2026 21:03:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjA4JTJGMTYlMkZ2aW50YWdlLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLWJlZm9yZS1pdC1nb3QtYXdrd2FyZCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcmNoaXZlLm9yZyUyRjIwMjYlMkYwOCUyRjE2JTJGdmludGFnZS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1iZWZvcmUtaXQtZ290LWF3a3dhcmQlMkYlN0NWaW50YWdlJTIwQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZSUzQSUyMEJlZm9yZSUyMEl0JTIwR290JTIwQXdrd2FyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI1ODAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMjElM0EwMSUzQTM4JTIwJTJCMDAwMA",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "pubDate": "Mon, 24 Aug 2026 21:01:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmM2Mm00Z3BucDc4byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjNjJtNGdwbnA3OG8lN0NPY2VhbnMlMjBoaXQlMjBoaWdoZXN0JTIwdGVtcGVyYXR1cmUlMjBvbiUyMHJlY29yZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI0NjA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTklM0ExOSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Oceans hit highest temperature on record",
+      "pubDate": "Mon, 24 Aug 2026 19:19:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib3lka2FuZS5jb20lMkZlc3NheXMlMkZsbG1zLWNvdWxkLWNvbnRyb2wtdGhlaXItaG9zdC1tYWNoaW5lcy1ieS1leHBsb2l0aW5nLWluZmVyZW5jZS1lbmdpbmVzJTdDaHR0cHMlM0ElMkYlMkZib3lka2FuZS5jb20lMkZlc3NheXMlMkZsbG1zLWNvdWxkLWNvbnRyb2wtdGhlaXItaG9zdC1tYWNoaW5lcy1ieS1leHBsb2l0aW5nLWluZmVyZW5jZS1lbmdpbmVzJTdDTExNcyUyMGNvdWxkJTIwY29udHJvbCUyMHRoZWlyJTIwaG9zdCUyMG1hY2hpbmVzJTIwYnklMjBleHBsb2l0aW5nJTIwaW5mZXJlbmNlJTIwZW5naW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI0Mzg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTklM0EwMyUzQTA2JTIwJTJCMDAwMA",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "pubDate": "Mon, 24 Aug 2026 19:03:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXh0bG9nLmNjJTJGcG9zdCUyRjIwNTklN0NodHRwcyUzQSUyRiUyRnRleHRsb2cuY2MlMkZwb3N0JTJGMjA1OSU3Q1JlbW92ZWQlMjBhbGwlMjBjb3VudGVycyUyQyUyMHJlcGxpZXMlMkMlMjBmb2xsb3dpbmclMkZlcnMlMkMlMjB0aW1lc3RhbXBzJTJDJTIwZnJvbSUyMHRleHRsb2clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyNDE2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE4JTNBNDUlM0E0MyUyMCUyQjAwMDA",
+      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+      "pubDate": "Mon, 24 Aug 2026 18:45:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjglMkYyNCUyRmFuZ2VyLWFueGlldHktYWdlbmN5JTJGJTdDaHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjglMkYyNCUyRmFuZ2VyLWFueGlldHktYWdlbmN5JTJGJTdDQW5nZXIlMkMlMjBBbnhpZXR5JTIwYW5kJTIwQWdlbmN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjQwODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxOCUzQTM3JTNBMjQlMjAlMkIwMDAw",
+      "title": "Anger, Anxiety and Agency",
+      "pubDate": "Mon, 24 Aug 2026 18:37:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdyZWVuY2xvdWR2cHMuY29tJTJGd2hhdC1pcy1hLXN5c2xvZy1zZXJ2ZXIucGhwJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdyZWVuY2xvdWR2cHMuY29tJTJGd2hhdC1pcy1hLXN5c2xvZy1zZXJ2ZXIucGhwJTdDV2hhdCUyMElzJTIwYSUyMFN5c2xvZyUyMFNlcnZlciUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIzNzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTglM0ExNSUzQTUwJTIwJTJCMDAwMA",
+      "title": "What Is a Syslog Server?",
+      "pubDate": "Mon, 24 Aug 2026 18:15:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc21hcnQtbmV3cyUyRndoeS1hcmUtc29tZS1vY3RvcHVzZXMtc28tc21hcnQtdGhlLWFuc3dlci1taWdodC1saWUtaW4tYS1uZXZlci1iZWZvcmUtc2Vlbi1tdXRhdGlvbi10aGF0LWhlbHBzLXRoZW0tYWNjdXJhdGVseS1idWlsZC1wcm90ZWlucy0xODA5ODkzMTklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZzbWFydC1uZXdzJTJGd2h5LWFyZS1zb21lLW9jdG9wdXNlcy1zby1zbWFydC10aGUtYW5zd2VyLW1pZ2h0LWxpZS1pbi1hLW5ldmVyLWJlZm9yZS1zZWVuLW11dGF0aW9uLXRoYXQtaGVscHMtdGhlbS1hY2N1cmF0ZWx5LWJ1aWxkLXByb3RlaW5zLTE4MDk4OTMxOSUyRiU3Q09jdG9wdXMlMjBpbnRlbGxpZ2VuY2UlMjBtYXklMjBiZSUyMHJlbGF0ZWQlMjB0byUyMG5ldmVyLWJlZm9yZS1zZWVuJTIwbXV0YXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMzUzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE3JTNBNTclM0ExMyUyMCUyQjAwMDA",
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "pubDate": "Mon, 24 Aug 2026 17:57:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcHAuZG92ZXIuY29tJTJGQXV0b3N0ZXAlMkZjYXJlZXJzJTJGZTk1MTBlM2ItYTg1NC00ZTQ4LTllNWQtYzg5Nzk2YWNhZWQ0JTdDaHR0cHMlM0ElMkYlMkZhcHAuZG92ZXIuY29tJTJGQXV0b3N0ZXAlMkZjYXJlZXJzJTJGZTk1MTBlM2ItYTg1NC00ZTQ4LTllNWQtYzg5Nzk2YWNhZWQ0JTdDQXV0b3N0ZXAlMjAoWUMlMjBQMjYpJTIwSXMlMjBIaXJpbmclMjBBSSUyRkZ1bGxzdGFjayUyMEVuZ2luZWVycyUyMGFuZCUyMGElMjBDaGllZiUyMG9mJTIwU3RhZmYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMzQ5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE3JTNBNTMlM0ExNCUyMCUyQjAwMDA",
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "pubDate": "Mon, 24 Aug 2026 17:53:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGYWdlbnQtbGlnaHRuaW5nJTJGcmVsZWFzZXMlMkZ0YWclMkZ2MS4wLjElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaWNyb3NvZnQlMkZhZ2VudC1saWdodG5pbmclMkZyZWxlYXNlcyUyRnRhZyUyRnYxLjAuMSU3Q0FnZW50JTIwTGlnaHRuaW5nJTIwdjEuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIzMDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTclM0EyMyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Agent Lightning v1.0",
+      "pubDate": "Mon, 24 Aug 2026 17:23:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ3aGVyZS1kaWQtYWxsLXRoZS1wdWJsaWMtYmF0aHJvb21zLWdvJTJGJTdDaHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ3aGVyZS1kaWQtYWxsLXRoZS1wdWJsaWMtYmF0aHJvb21zLWdvJTJGJTdDV2hlcmUlMjBkaWQlMjBhbGwlMjB0aGUlMjBwdWJsaWMlMjBiYXRocm9vbXMlMjBnbyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIyODAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTclM0EwNyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Where did all the public bathrooms go?",
+      "pubDate": "Mon, 24 Aug 2026 17:07:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZi50aGlqcy5nZyUyRiU3Q2h0dHBzJTNBJTJGJTJGc2YudGhpanMuZ2clMkYlN0NUaGUlMjBlbnRpcmUlMjBjaXR5JTIwb2YlMjBTYW4lMjBGcmFuY2lzY28lMjBhcyUyMGElMjB2aWRlbyUyMGdhbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMjc4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE3JTNBMDUlM0EzOCUyMCUyQjAwMDA",
+      "title": "The entire city of San Francisco as a video game",
+      "pubDate": "Mon, 24 Aug 2026 17:05:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGaG90LWNoaXBzLTIwMjYtY3VkYS10YXJnZXRzLXJpc2MlN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZob3QtY2hpcHMtMjAyNi1jdWRhLXRhcmdldHMtcmlzYyU3Q0hvdCUyMENoaXBzJTIwMjAyNiUzQSUyMENVREElMjBUYXJnZXRzJTIwUklTQy1WJTIwJUUyJTgwJTkzJTIwQnklMjBDaGVzdGVyJTIwTGFtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjI1NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTUyJTNBMDElMjAlMkIwMDAw",
+      "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+      "pubDate": "Mon, 24 Aug 2026 16:52:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3VybmFscy5wbG9zLm9yZyUyRnBsb3NvbmUlMkZhcnRpY2xlJTNGaWQlM0QxMC4xMzcxJTJGam91cm5hbC5wb25lLjAzNDQ1MzglN0NodHRwcyUzQSUyRiUyRmpvdXJuYWxzLnBsb3Mub3JnJTJGcGxvc29uZSUyRmFydGljbGUlM0ZpZCUzRDEwLjEzNzElMjUyRmpvdXJuYWwucG9uZS4wMzQ0NTM4JTdDUGVwcGVybWludCUyMG9pbCUyMHJlZHVjZXMlMjBibG9vZCUyMHByZXNzdXJlJTIwYnklMjA4LjQ4JTIwbW1IZyUyMGluJTIwc21hbGwlMjBzdHVkeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIwNTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTQlM0E0NCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "pubDate": "Mon, 24 Aug 2026 14:44:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]
