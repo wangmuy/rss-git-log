@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-26",
     "newestItemDate": "2026-08-26",
-    "itemCount": 8,
-    "generatedAt": "2026-08-26T09:06:06.705Z"
+    "itemCount": 37,
+    "generatedAt": "2026-08-26T18:05:50.042Z"
   },
   "items": [
     {
@@ -54,6 +54,180 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjIxNTAzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjIxNTAzJTdDQWdlbnRpYyUyMENvbnRleHQlMjBNYW5hZ2VtZW50JTNBJTIwTWVtb3J5JTIwYW5kJTIwQ29zdCUyMGFzJTIwQXJjaGl0ZWN0dXJlJTIwUHJvYmxlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0MzUyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDAyJTNBMzUlM0EyNSUyMCUyQjAwMDA",
       "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
       "pubDate": "Wed, 26 Aug 2026 02:35:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGFpbHNjYWxlJTJGdGFpbGNhdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnRhaWxzY2FsZSUyRnRhaWxjYXQlN0NUYWlsY2F0JTNBJTIwU2VjdXJlJTIwVHVubmVscyUyMGluJTIwU2Vjb25kcyUyMChUYWlsc2NhbGUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTI5OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTQyJTNBMjIlMjAlMkIwMDAw",
+      "title": "Tailcat: Secure Tunnels in Seconds (Tailscale)",
+      "pubDate": "Wed, 26 Aug 2026 17:42:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMDg5MzkwJTJGNDYxMTY2MTRjYzc0YjgxNCUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTA4OTM5MCUyRjQ2MTE2NjE0Y2M3NGI4MTQlMkYlN0NBbiUyMG9uZ29pbmclMjAzRC1wcmludGVyJTIwQUdQTCUyMHZpb2xhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDUyOTgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTclM0E0MSUzQTQwJTIwJTJCMDAwMA",
+      "title": "An ongoing 3D-printer AGPL violation",
+      "pubDate": "Wed, 26 Aug 2026 17:41:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3Jlc2lnaHRwbGFubmVyLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9yZXNpZ2h0cGxhbm5lci5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBJJTIwbWFkZSUyMGElMjByZXRpcmVtZW50JTIwc2ltdWxhdG9yJTNBJTIwMTI1JTIweWVhcnMlMjBvZiUyMGRhdGElMkMlMjAyNSUyMGNvdW50cmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDUyOTc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTclM0E0MSUzQTE5JTIwJTJCMDAwMA",
+      "title": "Show HN: I made a retirement simulator: 125 years of data, 25 countries",
+      "pubDate": "Wed, 26 Aug 2026 17:41:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmV0b25pdC5haSUyRnAlMkZjZHMtdnMtbmltYnklN0NodHRwcyUzQSUyRiUyRnd3dy5iZXRvbml0LmFpJTJGcCUyRmNkcy12cy1uaW1ieSU3Q0NEcyUyMHZzLiUyME5JTUJZJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTI4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTMxJTNBMDglMjAlMkIwMDAw",
+      "title": "CDs vs. NIMBY",
+      "pubDate": "Wed, 26 Aug 2026 17:31:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmF6ZS5sZWFmbGV0LnB1YiUyRjNtdHlwY3V4eGMyMnAlN0NodHRwcyUzQSUyRiUyRmdyYXplLmxlYWZsZXQucHViJTJGM210eXBjdXh4YzIycCU3Q0dyYXplJTIwSm9pbnMlMjBGbGlwYm9hcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1Mjc0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE3JTNBMjQlM0ExNSUyMCUyQjAwMDA",
+      "title": "Graze Joins Flipboard",
+      "pubDate": "Wed, 26 Aug 2026 17:24:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3Rvc20ub3JnJTJGZW4lMkZuZXdzJTJGY29tYXBzLXRoZS1vZmZsaW5lLWFwcC10aGF0LWd1aWRlZC1yZXNjdWVycy13aXRob3V0LWEtc2lnbmFsLWluLXRoZS12ZW5lenVlbGEtcmVzcG9uc2UlMkYlN0NodHRwcyUzQSUyRiUyRmhvdG9zbS5vcmclMkZlbiUyRm5ld3MlMkZjb21hcHMtdGhlLW9mZmxpbmUtYXBwLXRoYXQtZ3VpZGVkLXJlc2N1ZXJzLXdpdGhvdXQtYS1zaWduYWwtaW4tdGhlLXZlbmV6dWVsYS1yZXNwb25zZSUyRiU3Q0NvTWFwcyUzQSUyMFRoZSUyME9mZmxpbmUlMjBBcHAlMjBUaGF0JTIwR3VpZGVkJTIwUmVzY3VlcnMlMjBXaXRob3V0JTIwYSUyMFNpZ25hbCUyMGluJTIwVmVuZXp1ZWxhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTI2NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTIwJTNBMTIlMjAlMkIwMDAw",
+      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "pubDate": "Wed, 26 Aug 2026 17:20:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmRhLmdvdiUyRm5ld3MtZXZlbnRzJTJGcHJlc3MtYW5ub3VuY2VtZW50cyUyRmZkYS1hcHByb3Zlcy1maXJzdC1jbGFzcy10YXJnZXRlZC10aGVyYXB5LW1ldGFzdGF0aWMtcGFuY3JlYXRpYy1jYW5jZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5mZGEuZ292JTJGbmV3cy1ldmVudHMlMkZwcmVzcy1hbm5vdW5jZW1lbnRzJTJGZmRhLWFwcHJvdmVzLWZpcnN0LWNsYXNzLXRhcmdldGVkLXRoZXJhcHktbWV0YXN0YXRpYy1wYW5jcmVhdGljLWNhbmNlciU3Q0ZEQSUyMEFwcHJvdmVzJTIwRmlyc3QlMjBpbiUyMENsYXNzJTIwVGFyZ2V0ZWQlMjBUaGVyYXB5JTIwZm9yJTIwTWV0YXN0YXRpYyUyMFBhbmNyZWF0aWMlMjBDYW5jZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1MTY3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE2JTNBMTklM0EwMyUyMCUyQjAwMDA",
+      "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+      "pubDate": "Wed, 26 Aug 2026 16:19:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlza2x5dGljcy5haSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJpc2tseXRpY3MuYWklMkYlN0NMYXVuY2glMjBITiUzQSUyMFJpc2tseXRpY3MlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwSW5zdXJhbmNlJTIwYnJva2VyYWdlJTIwZm9yJTIwZnJvbnRpZXIlMjB0ZWNoJTIwY29tcGFuaWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTE0OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNiUzQTA2JTNBMDElMjAlMkIwMDAw",
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "pubDate": "Wed, 26 Aug 2026 16:06:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGZmlsbSUyRjIwMjYlMkZhdWclMkYyNiUyRnRpbS1jdXJyeS1kaWVzLXJvY2t5LWhvcnJvci1zaG93LXN0ZXBoZW4ta2luZy1pdC1sZWdlbmQtZmlsbSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRmZpbG0lMkYyMDI2JTJGYXVnJTJGMjYlMkZ0aW0tY3VycnktZGllcy1yb2NreS1ob3Jyb3Itc2hvdy1zdGVwaGVuLWtpbmctaXQtbGVnZW5kLWZpbG0lN0NUaW0lMjBDdXJyeSUyMGhhcyUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1MTQ0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE2JTNBMDMlM0EzNyUyMCUyQjAwMDA",
+      "title": "Tim Curry has died",
+      "pubDate": "Wed, 26 Aug 2026 16:03:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2F0ZXNub3Rlcy5jb20lMkZhLXR1cmJ1bGVudC1haS1lcmEtYW5kLWNyaXRpY2FsLWNob2ljZXMtdG8tbWFrZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdhdGVzbm90ZXMuY29tJTJGYS10dXJidWxlbnQtYWktZXJhLWFuZC1jcml0aWNhbC1jaG9pY2VzLXRvLW1ha2UlN0NUaGUlMjB0dXJidWxlbnQlMjBBSSUyMGVyYSUyMGlzJTIwaGVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDUxMzEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTUlM0E1NSUzQTE1JTIwJTJCMDAwMA",
+      "title": "The turbulent AI era is here",
+      "pubDate": "Wed, 26 Aug 2026 15:55:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3NwLnNoJTJGYnJhaW4lMkZ1c2luZy1vYnNpZGlhbi13aXRoLWFpJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3NwLnNoJTJGYnJhaW4lMkZ1c2luZy1vYnNpZGlhbi13aXRoLWFpJTJGJTdDSXQlRTIlODAlOTlzJTIwc28lMjBoYXJkJTIwdG8lMjBmaW5pc2glMjBhbiUyMGlkZWElMjB0aGF0JTIwaXMlMjBub3QlMjB5b3VycyUyMGFuZCUyMGlzJTIwanVzdCUyMHN1Z2dlc3RlZCUyMGJ5JTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1MDg5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE1JTNBMzAlM0EwNSUyMCUyQjAwMDA",
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "pubDate": "Wed, 26 Aug 2026 15:30:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2l0aHVic3RhdHVzLmNvbSUyRmluY2lkZW50cyUyRmhjYnR6a3NjY2oyZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdpdGh1YnN0YXR1cy5jb20lMkZpbmNpZGVudHMlMkZoY2J0emtzY2NqMmYlN0NEaXNydXB0aW9uJTIwd2l0aCUyMFNvbWUlMjBHaXRIdWIlMjBTZXJ2aWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDUwNzIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTUlM0ExOSUzQTQwJTIwJTJCMDAwMA",
+      "title": "Disruption with Some GitHub Services",
+      "pubDate": "Wed, 26 Aug 2026 15:19:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVidWxhc2Fucy5jb20lN0NodHRwcyUzQSUyRiUyRnd3dy5uZWJ1bGFzYW5zLmNvbSUyRiU3Q05lYnVsYSUyMFNhbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1MDQ0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE1JTNBMDMlM0E1MiUyMCUyQjAwMDA",
+      "title": "Nebula Sans",
+      "pubDate": "Wed, 26 Aug 2026 15:03:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRyYWlsb2ZiaXRzLmNvbSUyRjIwMjYlMkYwOCUyRjI2JTJGdm1zLXdvbnQtY29udGFpbi1jeWJlci1jYXBhYmxlLWFnZW50cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy50cmFpbG9mYml0cy5jb20lMkYyMDI2JTJGMDglMkYyNiUyRnZtcy13b250LWNvbnRhaW4tY3liZXItY2FwYWJsZS1hZ2VudHMlMkYlN0NWTXMlMjB3b24ndCUyMGNvbnRhaW4lMjBjeWJlci1jYXBhYmxlJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTAxODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNCUzQTQ5JTNBMzAlMjAlMkIwMDAw",
+      "title": "VMs won't contain cyber-capable agents",
+      "pubDate": "Wed, 26 Aug 2026 14:49:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmF2ZXNoa29pcmFsYS5jb20lMkYyMDI2JTJGMDglMkYyNiUyRnlvdS1jb3VsZC1oYXZlLWludmVudGVkLXBhZ2VyYW5rJTJGJTdDaHR0cHMlM0ElMkYlMkZwcmF2ZXNoa29pcmFsYS5jb20lMkYyMDI2JTJGMDglMkYyNiUyRnlvdS1jb3VsZC1oYXZlLWludmVudGVkLXBhZ2VyYW5rJTJGJTdDWW91JTIwY291bGQlMjBoYXZlJTIwaW52ZW50ZWQlMjBQYWdlUmFuayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQ5ODg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTQlM0EyOSUzQTA1JTIwJTJCMDAwMA",
+      "title": "You could have invented PageRank",
+      "pubDate": "Wed, 26 Aug 2026 14:29:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYXJtYWN0aW9uLnVzJTJGdGF5bG9yZmFybXNyZXBvcnQlMkYlN0NodHRwcyUzQSUyRiUyRmZhcm1hY3Rpb24udXMlMkZ0YXlsb3JmYXJtc3JlcG9ydCUyRiU3Q1RheWxvciUyMEZhcm1zJTNBJTIwSG93JTIwT25lJTIwQ29tcGFueSdzJTIwUmVhY2glMjBCZWNhbWUlMjBhJTIwTmF0aW9uYWwlMjBSaXNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDk3NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNCUzQTIxJTNBNDQlMjAlMkIwMDAw",
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "pubDate": "Wed, 26 Aug 2026 14:21:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyd2Vidmlld2VyLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlcndlYnZpZXdlci5jb20lMkYlN0NUd2l0dGVyJTIwVmlld2VyJTIwJUUyJTgwJTkzJTIwVmlldyUyMFR3aXR0ZXIlMjBXaXRob3V0JTIwQWNjb3VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQ5NTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTQlM0ExMSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Twitter Viewer – View Twitter Without Account",
+      "pubDate": "Wed, 26 Aug 2026 14:11:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6LmFpJTJGYmxvZyUyRmdsbS01LjMtZmxhc2glN0NodHRwcyUzQSUyRiUyRnouYWklMkZibG9nJTJGZ2xtLTUuMy1mbGFzaCU3Q0dMTS01LjMtRmxhc2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0OTUwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE0JTNBMDglM0E1MCUyMCUyQjAwMDA",
+      "title": "GLM-5.3-Flash",
+      "pubDate": "Wed, 26 Aug 2026 14:08:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm9va2FuZHN3b3JkLmNvbSUyRjIwMjYlMkYwOCUyRjI1JTJGYS1jaXRhdGlvbi10by1hc2ltb3YlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ib29rYW5kc3dvcmQuY29tJTJGMjAyNiUyRjA4JTJGMjUlMkZhLWNpdGF0aW9uLXRvLWFzaW1vdiUyRiU3Q0ElMjBDaXRhdGlvbiUyMHRvJTIwQXNpbW92JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDk0NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNCUzQTA2JTNBMTYlMjAlMkIwMDAw",
+      "title": "A Citation to Asimov",
+      "pubDate": "Wed, 26 Aug 2026 14:06:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlMzYwLnlhbGUuZWR1JTJGZGlnZXN0JTJGc2NvdGxhbmQtd29vZGxhbmRzLWFudGlkZXByZXNzYW50cyU3Q2h0dHBzJTNBJTJGJTJGZTM2MC55YWxlLmVkdSUyRmRpZ2VzdCUyRnNjb3RsYW5kLXdvb2RsYW5kcy1hbnRpZGVwcmVzc2FudHMlN0NBY2Nlc3MlMjB0byUyMFVyYmFuJTIwV29vZGxhbmRzJTIwTGlua2VkJTIwd2l0aCUyMExvd2VyJTIwVXNlJTIwb2YlMjBBbnRpZGVwcmVzc2FudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0OTEyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDEzJTNBNDglM0EwMyUyMCUyQjAwMDA",
+      "title": "Access to Urban Woodlands Linked with Lower Use of Antidepressants",
+      "pubDate": "Wed, 26 Aug 2026 13:48:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZWFkZXIubWl0cHJlc3MubWl0LmVkdSUyRnRoZS1tYW4td2hvLXNhdy1odW1hbml0eS1mcm9tLXR3by1iaWxsaW9uLXllYXJzLWF3YXklMkYlN0NodHRwcyUzQSUyRiUyRnRoZXJlYWRlci5taXRwcmVzcy5taXQuZWR1JTJGdGhlLW1hbi13aG8tc2F3LWh1bWFuaXR5LWZyb20tdHdvLWJpbGxpb24teWVhcnMtYXdheSUyRiU3Q0ElMjBNYW4lMjBXaG8lMjBTYXclMjBIdW1hbml0eSUyMGZyb20lMjBUd28lMjBCaWxsaW9uJTIwWWVhcnMlMjBBd2F5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDg5MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTM0JTNBMzklMjAlMkIwMDAw",
+      "title": "A Man Who Saw Humanity from Two Billion Years Away",
+      "pubDate": "Wed, 26 Aug 2026 13:34:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJ0ZWZpYnJlLmFyY2VwLmZyJTdDaHR0cHMlM0ElMkYlMkZjYXJ0ZWZpYnJlLmFyY2VwLmZyJTJGJTdDRnJhbmNlJTIwcmVhY2hlcyUyMDk0LjklMjUlMjBmaWJlciUyMGNvdmVyYWdlJTIwaW4lMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDg4NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTMyJTNBMzUlMjAlMkIwMDAw",
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "pubDate": "Wed, 26 Aug 2026 13:32:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlaGlzdG9yeWJsb2cuY29tJTJGYXJjaGl2ZXMlMkY3NjgwOSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWhpc3RvcnlibG9nLmNvbSUyRmFyY2hpdmVzJTJGNzY4MDklN0MxMSUyQzAwMC15ZWFyLW9sZCUyMHNjdWxwdHVyZSUyMG9mJTIwbWFuJTIwcmlkaW5nJTIwYSUyMGxlb3BhcmQlMjBmb3VuZCUyMGluJTIwVHVya2V5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDg2NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTIwJTNBNDAlMjAlMkIwMDAw",
+      "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
+      "pubDate": "Wed, 26 Aug 2026 13:20:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWNrbGFicy5jb20lMkZuZXdzJTJGMjAyNiUyRjA4JTJGMjYlMkZkdWNrbGFicy10by1qb2luLWF3cyU3Q2h0dHBzJTNBJTJGJTJGZHVja2xhYnMuY29tJTJGbmV3cyUyRjIwMjYlMkYwOCUyRjI2JTJGZHVja2xhYnMtdG8tam9pbi1hd3MlN0NBV1MlMjBBY3F1aXJlcyUyMER1Y2tEQiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQ4MzIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTIlM0E1OSUzQTI2JTIwJTJCMDAwMA",
+      "title": "AWS Acquires DuckDB",
+      "pubDate": "Wed, 26 Aug 2026 12:59:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxd2VuLmFpJTJGYmxvZyUzRmlkJTNEcXdlbjMuOC1mbGFzaC1uZXh0JTdDaHR0cHMlM0ElMkYlMkZxd2VuLmFpJTJGYmxvZyUzRmlkJTNEcXdlbjMuOC1mbGFzaC1uZXh0JTdDUXdlbjMuOC1GbGFzaC1OZXh0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDgyMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMiUzQTUyJTNBMTIlMjAlMkIwMDAw",
+      "title": "Qwen3.8-Flash-Next",
+      "pubDate": "Wed, 26 Aug 2026 12:52:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcHJvbGlmZXJhdGUlMkZqb2JzJTJGT2dwQ0tZSi1mb3VuZGluZy1wcm9kdWN0LWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcHJvbGlmZXJhdGUlMkZqb2JzJTJGT2dwQ0tZSi1mb3VuZGluZy1wcm9kdWN0LWVuZ2luZWVyJTdDUHJvbGlmZXJhdGUlMjAoWUMlMjBTMjUpJTIwSXMlMjBIaXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0NzQ4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDEyJTNBMDAlM0EwNyUyMCUyQjAwMDA",
+      "title": "Proliferate (YC S25) Is Hiring",
+      "pubDate": "Wed, 26 Aug 2026 12:00:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNuMGozejYxNDdqbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjbjBqM3o2MTQ3am8lN0NSYWRpYXRpb24lMjBsaW5rJTIwaW4lMjBmbGlnaHQlMjBhdHRlbmRhbnQncyUyMGJyZWFzdCUyMGNhbmNlciUyQyUyMEZyZW5jaCUyMGNvdXJ0JTIwZmluZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0Njk4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDExJTNBMTUlM0E1NiUyMCUyQjAwMDA",
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "pubDate": "Wed, 26 Aug 2026 11:15:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuc3RyZWV0bWFwLnVzJTJGbmV3cyUyRjIwMjYlMkYwOCUyRm9pbS1jaGFydGVyLXByb2plY3QlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5zdHJlZXRtYXAudXMlMkZuZXdzJTJGMjAyNiUyRjA4JTJGb2ltLWNoYXJ0ZXItcHJvamVjdCUyRiU3Q09sZGluc3VyYW5jZW1hcHMubmV0JTIwaXMlMjBub3clMjBhJTIwQ2hhcnRlciUyMFByb2plY3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0NTg3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDA4JTNBNTclM0E0NiUyMCUyQjAwMDA",
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "pubDate": "Wed, 26 Aug 2026 08:57:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlnaHRob3VzZW5ld3NsZXR0ZXIuY29tJTJGcCUyRnJhZy1pcy1zaW1wbGVyLXRoYW4teW91LXRoaW5rJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGlnaHRob3VzZW5ld3NsZXR0ZXIuY29tJTJGcCUyRnJhZy1pcy1zaW1wbGVyLXRoYW4teW91LXRoaW5rJTdDUkFHJTIwSXMlMjBTaW1wbGVyJTIwVGhhbiUyMFlvdSUyMFRoaW5rJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDU3MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAwOCUzQTM5JTNBMTclMjAlMkIwMDAw",
+      "title": "RAG Is Simpler Than You Think",
+      "pubDate": "Wed, 26 Aug 2026 08:39:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
     }
   ]
