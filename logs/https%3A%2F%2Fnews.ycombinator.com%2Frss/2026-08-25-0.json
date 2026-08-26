@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-25",
     "newestItemDate": "2026-08-25",
-    "itemCount": 45,
-    "generatedAt": "2026-08-26T02:02:05.748Z"
+    "itemCount": 47,
+    "generatedAt": "2026-08-26T09:06:06.705Z"
   },
   "items": [
     {
@@ -276,6 +276,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmZGVwbG95LmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZmRlcGxveS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBJJTIwYnVpbHQlMjBzZWxmLWhvc3RlZCUyMGRlcGxveW1lbnQlMjBhdXRvbWF0aW9uJTIwdG9vbCUyMGZvciUyMFdpbmRvd3MlMjBhbmQlMjBJSVMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMDI1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDA3JTNBMzIlM0ExMSUyMCUyQjAwMDA",
       "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
       "pubDate": "Tue, 25 Aug 2026 07:32:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXRobWxhcnNvbi5kZXYlMkZ3aGVuLXN0ci1sb3dlci1pcy1hLXNlY3VyaXR5LXZ1bG5lcmFiaWxpdHklN0NodHRwcyUzQSUyRiUyRnNldGhtbGFyc29uLmRldiUyRndoZW4tc3RyLWxvd2VyLWlzLWEtc2VjdXJpdHktdnVsbmVyYWJpbGl0eSU3Q1doZW4lMjBzdHIubG93ZXIoKSUyMGlzJTIwYSUyMHNlY3VyaXR5JTIwdnVsbmVyYWJpbGl0eSUyMGluJTIwUHl0aG9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDA0MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAyMCUzQTQ5JTNBMDMlMjAlMkIwMDAw",
+      "title": "When str.lower() is a security vulnerability in Python",
+      "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlicmFyeS5oYnMuZWR1JTJGd29ya2luZy1rbm93bGVkZ2UlMkZob3ctY3JlZGl0LWNhcmQtcmV3YXJkcy1iZWNhbWUtbXVsdGliaWxsaW9uLWRvbGxhci13ZWFsdGgtdHJhbnNmZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5saWJyYXJ5Lmhicy5lZHUlMkZ3b3JraW5nLWtub3dsZWRnZSUyRmhvdy1jcmVkaXQtY2FyZC1yZXdhcmRzLWJlY2FtZS1tdWx0aWJpbGxpb24tZG9sbGFyLXdlYWx0aC10cmFuc2ZlciU3Q0hvdyUyMGNyZWRpdCUyMGNhcmQlMjByZXdhcmRzJTIwYmVjYW1lJTIwYSUyMCUyNDkuMkIlMjB3ZWFsdGglMjB0cmFuc2ZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMyMjAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTElM0EzNyUzQTI0JTIwJTJCMDAwMA",
+      "title": "How credit card rewards became a $9.2B wealth transfer",
+      "pubDate": "Tue, 25 Aug 2026 11:37:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
     }
   ]

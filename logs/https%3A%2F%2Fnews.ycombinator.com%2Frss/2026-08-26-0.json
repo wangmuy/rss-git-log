@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-26",
     "newestItemDate": "2026-08-26",
-    "itemCount": 2,
-    "generatedAt": "2026-08-26T02:02:05.748Z"
+    "itemCount": 8,
+    "generatedAt": "2026-08-26T09:06:06.705Z"
   },
   "items": [
     {
@@ -18,6 +18,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmemFrYXJpYS5jb20lMkYyMDI2JTJGMDglMkYyNCUyRmFjdHVhbGx5LXF1ZXJ5YWJsZS1leGVjdXRhYmxlcyU3Q2h0dHBzJTNBJTJGJTJGZnpha2FyaWEuY29tJTJGMjAyNiUyRjA4JTJGMjQlMkZhY3R1YWxseS1xdWVyeWFibGUtZXhlY3V0YWJsZXMlN0NRdWVyeWFibGUlMjBFeGVjdXRhYmxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQyNTg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMDAlM0EyMCUzQTQ5JTIwJTJCMDAwMA",
       "title": "Queryable Executables",
       "pubDate": "Wed, 26 Aug 2026 00:20:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXVsZGl4LmNvbSUyRnRoZS1lbmQtb2YtcHJvZ3JhbW1pbmclN0NodHRwcyUzQSUyRiUyRnBhdWxkaXguY29tJTJGdGhlLWVuZC1vZi1wcm9ncmFtbWluZyU3Q1RoZSUyMEVuZCUyMG9mJTIwUHJvZ3JhbW1pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0NTcxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDA4JTNBMzclM0E1OSUyMCUyQjAwMDA",
+      "title": "The End of Programming",
+      "pubDate": "Wed, 26 Aug 2026 08:37:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydXBlcnRsaW5hY3JlLmNvbSUyRmJ1c2xlbnMlMkYlN0NodHRwcyUzQSUyRiUyRnJ1cGVydGxpbmFjcmUuY29tJTJGYnVzbGVucyUyRiU3Q1Nob3clMjBITiUzQSUyMEJ1c2xlbnMlMjAlRTIlODAlOTMlMjB3aGVyZSUyMGNhbiUyMEklMjBnZXQlMjB0byUyMGJ5JTIwYnVzJTNGJTIwKFVLKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQ1Mjg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMDclM0EzNiUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+      "pubDate": "Wed, 26 Aug 2026 07:36:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZkaXNydXB0aW5nLW1hbGljaW91cy11c2VzLW9mLWFpLWluZmx1ZW5jZS1jYW1wYWlnbi1ydXNzaWElMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmRpc3J1cHRpbmctbWFsaWNpb3VzLXVzZXMtb2YtYWktaW5mbHVlbmNlLWNhbXBhaWduLXJ1c3NpYSUyRiU3Q0Rpc3J1cHRpbmclMjBhJTIwbmV3JTIwY292ZXJ0JTIwaW5mbHVlbmNlJTIwY2FtcGFpZ24lMjBmcm9tJTIwUnVzc2lhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDUyNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAwNyUzQTMxJTNBMzElMjAlMkIwMDAw",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "pubDate": "Wed, 26 Aug 2026 07:31:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHN1LmVkdSUyRm5ld3MlMkZyZXNlYXJjaCUyRnN0b3J5JTJGbW9yZS1oYWxmLWFkdWx0cy11cy1zYXktdGhleS1sYWNrLWJhc2ljLXN0YXRpc3RpY2FsLXVuZGVyc3RhbmRpbmclN0NodHRwcyUzQSUyRiUyRnd3dy5wc3UuZWR1JTJGbmV3cyUyRnJlc2VhcmNoJTJGc3RvcnklMkZtb3JlLWhhbGYtYWR1bHRzLXVzLXNheS10aGV5LWxhY2stYmFzaWMtc3RhdGlzdGljYWwtdW5kZXJzdGFuZGluZyU3Q01vcmUlMjB0aGFuJTIwaGFsZiUyMG9mJTIwYWR1bHRzJTIwaW4lMjBVLlMuJTIwc2F5JTIwdGhleSUyMGxhY2slMjBiYXNpYyUyMHN0YXRpc3RpY2FsJTIwdW5kZXJzdGFuZGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQ0NTE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMDUlM0E0OSUzQTIwJTIwJTJCMDAwMA",
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "pubDate": "Wed, 26 Aug 2026 05:49:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmNvbGQtd2FyLWNvZGVicmVha2VyLW5zYS1pYm0lN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGY29sZC13YXItY29kZWJyZWFrZXItbnNhLWlibSU3Q0hhcnZlc3QlMjAoSUJNJTIwNzk1MCklM0ElMjBTdXBlcmNvbXB1dGVyJTIwZm9yJTIwY3J5cHRhbmFseXNpcyUyMGF0JTIwdGhlJTIwTlNBJTIwaW4lMjB0aGUlMjBDb2xkJTIwV2FyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDQyMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAwNSUzQTA5JTNBMDclMjAlMkIwMDAw",
+      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+      "pubDate": "Wed, 26 Aug 2026 05:09:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjIxNTAzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA3LjIxNTAzJTdDQWdlbnRpYyUyMENvbnRleHQlMjBNYW5hZ2VtZW50JTNBJTIwTWVtb3J5JTIwYW5kJTIwQ29zdCUyMGFzJTIwQXJjaGl0ZWN0dXJlJTIwUHJvYmxlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0MzUyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDAyJTNBMzUlM0EyNSUyMCUyQjAwMDA",
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "pubDate": "Wed, 26 Aug 2026 02:35:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
     }
   ]
