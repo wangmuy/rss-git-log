@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-25",
     "newestItemDate": "2026-08-25",
-    "itemCount": 24,
-    "generatedAt": "2026-08-25T16:59:17.753Z"
+    "itemCount": 45,
+    "generatedAt": "2026-08-26T02:02:05.748Z"
   },
   "items": [
     {
@@ -150,6 +150,132 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGaGFwcHktMjB0aC1iaXJ0aGRheS10by13aW5kb3dzLTk1JTJGJTdDaHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGaGFwcHktMjB0aC1iaXJ0aGRheS10by13aW5kb3dzLTk1JTJGJTdDV2luZG93cyUyMDk1JTIwcmVsZWFzZWQlMjBBdWd1c3QlMjAyNCUyQyUyMDE5OTUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMDAwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDA2JTNBNTYlM0E1NSUyMCUyQjAwMDA",
       "title": "Windows 95 released August 24, 1995",
       "pubDate": "Tue, 25 Aug 2026 06:56:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnVuZXRlcyUyRm1haWFvJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnVuZXRlcyUyRm1haWFvJTdDTWFpYW8lM0ElMjBHZXJyaXQtc3R5bGUlMjBjb2RlJTIwcmV2aWV3JTIwd29ya2Zsb3clMjBmb3IlMjBHaXRIdWIlMkMlMjBHaXRMYWIlMkMlMjBHaXRlYSUyQyUyMG90aGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQxNjY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMjIlM0E0MCUzQTA3JTIwJTJCMDAwMA",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "pubDate": "Tue, 25 Aug 2026 22:40:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3dpbW1pbmdicmFpbiUyRnRleGJyYWluJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3dpbW1pbmdicmFpbiUyRnRleGJyYWluJTdDU2hvdyUyMEhOJTNBJTIwVGVYYnJhaW4lMkMlMjBhJTIwTGFUZVglMjBlZGl0b3IlMjB0aGF0JTIwcnVucyUyMHBkZlRlWCUyMGluJTIwdGhlJTIwYnJvd3NlciUyMHZpYSUyMFdBU00lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0MTM3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDIyJTNBMDglM0E1MCUyMCUyQjAwMDA",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "pubDate": "Tue, 25 Aug 2026 22:08:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwODAxLXB5dGhvbmNvbnN0YW50cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZzZWJzaXRlLnB3JTJGdyUyRjIwMjYwODAxLXB5dGhvbmNvbnN0YW50cy5odG1sJTdDUHl0aG9uJ3MlMjBwcmUtZGVjbGFyZWQlMjBjb25zdGFudHMlMjBhcmUlMjBraW5kYSUyMHdlaXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDEwMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAyMSUzQTM5JTNBMDIlMjAlMkIwMDAw",
+      "title": "Python's pre-declared constants are kinda weird",
+      "pubDate": "Tue, 25 Aug 2026 21:39:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXRobWxhcnNvbi5kZXYlMkZ3aGVuLXN0ci1sb3dlci1pcy1hLXNlY3VyaXR5LXZ1bG5lcmFiaWxpdHklN0NodHRwcyUzQSUyRiUyRnNldGhtbGFyc29uLmRldiUyRndoZW4tc3RyLWxvd2VyLWlzLWEtc2VjdXJpdHktdnVsbmVyYWJpbGl0eSU3Q1doZW4lMjBzdHIubG93ZXIoKSUyMGlzJTIwYSUyMHNlY3VyaXR5JTIwdnVsbmVyYWJpbGl0eSUyMGluJTIwUHl0aG9uJTIwJUUyJTgwJTkzJTIwU2V0aCUyMExhcnNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDQwNDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMjAlM0E0OSUzQTAzJTIwJTJCMDAwMA",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGEudmlkYnVjaGFuYW4uY28udWslMkZibG9nJTJGYW5kcm9pZC1jMnBhLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYS52aWRidWNoYW5hbi5jby51ayUyRmJsb2clMkZhbmRyb2lkLWMycGEuaHRtbCU3Q0MyUEElMjBDYW1lcmFzJTIwRG8lMjBOb3QlMjBTdXJ2aXZlJTIwQ29udGFjdCUyMHdpdGglMjBSZWFsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0Mzk0OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxOSUzQTM4JTNBMjQlMjAlMkIwMDAw",
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "pubDate": "Tue, 25 Aug 2026 19:38:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6YWtwb2Rtb3JlLnN1YnN0YWNrLmNvbSUyRnAlMkZhLWJyaWVmLWhpc3Rvcnktb2YtZmVkZXJhbC1saWZ0LXRpY2tldCU3Q2h0dHBzJTNBJTJGJTJGemFrcG9kbW9yZS5zdWJzdGFjay5jb20lMkZwJTJGYS1icmllZi1oaXN0b3J5LW9mLWZlZGVyYWwtbGlmdC10aWNrZXQlN0NBJTIwYnJpZWYlMjBoaXN0b3J5JTIwb2YlMjBmZWRlcmFsJTIwbGlmdCUyMHRpY2tldCUyMHJlZ3VsYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzOTI5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE5JTNBMjUlM0E0MyUyMCUyQjAwMDA",
+      "title": "A brief history of federal lift ticket regulation",
+      "pubDate": "Tue, 25 Aug 2026 19:25:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmRhLmdvdiUyRm5ld3MtZXZlbnRzJTJGcHJlc3MtYW5ub3VuY2VtZW50cyUyRmZkYS1hdXRob3JpemVzLWZpcnN0LXdlYXJhYmxlLWRldmljZS1jb250aW51b3VzbHktbW9uaXRvcnMtYm90aC1rZXRvbmUtbGV2ZWxzLWFuZC1ibG9vZC1zdWdhciU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZkYS5nb3YlMkZuZXdzLWV2ZW50cyUyRnByZXNzLWFubm91bmNlbWVudHMlMkZmZGEtYXV0aG9yaXplcy1maXJzdC13ZWFyYWJsZS1kZXZpY2UtY29udGludW91c2x5LW1vbml0b3JzLWJvdGgta2V0b25lLWxldmVscy1hbmQtYmxvb2Qtc3VnYXIlN0NGREElMjBhdXRob3JpemVzJTIwZmlyc3QlMjB3ZWFyYWJsZSUyMGRldmljZSUyMHRoYXQlMjBtb25pdG9ycyUyMGtldG9uZSUyMGFuZCUyMGJsb29kJTIwc3VnYXIlMjBsZXZlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzOTAxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE5JTNBMDclM0EwMSUyMCUyQjAwMDA",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "pubDate": "Tue, 25 Aug 2026 19:07:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGbXVzaWMlMkYyMDI2JTJGYXVnJTJGMjUlMkZkb2xseS1wYXJ0b24tY291bnRyeS1zaW5nZXItZGVhZCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRm11c2ljJTJGMjAyNiUyRmF1ZyUyRjI1JTJGZG9sbHktcGFydG9uLWNvdW50cnktc2luZ2VyLWRlYWQlN0NEb2xseSUyMFBhcnRvbiUyMGhhcyUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzODA1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE4JTNBMDIlM0EyMiUyMCUyQjAwMDA",
+      "title": "Dolly Parton has died",
+      "pubDate": "Tue, 25 Aug 2026 18:02:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncm91cHMuZ29vZ2xlLmNvbSUyRmElMkZtb3ppbGxhLm9yZyUyRmclMkZkZXYtcGxhdGZvcm0lMkZjJTJGM1lNVjRNUzM0S0ElM0ZwbGklM0QxJTdDaHR0cHMlM0ElMkYlMkZncm91cHMuZ29vZ2xlLmNvbSUyRmElMkZtb3ppbGxhLm9yZyUyRmclMkZkZXYtcGxhdGZvcm0lMkZjJTJGM1lNVjRNUzM0S0ElM0ZwbGklM0QxJTdDRmlyZWZveCUyMDE1NyUyMHdpbGwlMjBpbmNsdWRlJTIwSlBFRyUyMFhMJTIwYnklMjBkZWZhdWx0JTIwb24lMjBhbGwlMjBwbGF0Zm9ybXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzNzk0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE3JTNBNTUlM0EyMyUyMCUyQjAwMDA",
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "pubDate": "Tue, 25 Aug 2026 17:55:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY2xhcmEtMiUyRmpvYnMlMkY4c25jaTZrLWZvdW5kaW5nLWZ1bGwtc3RhY2stZ3Jvd3RoLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY2xhcmEtMiUyRmpvYnMlMkY4c25jaTZrLWZvdW5kaW5nLWZ1bGwtc3RhY2stZ3Jvd3RoLWVuZ2luZWVyJTdDQ2xhcmElMjAoWUMlMjBQMjYpJTIwaXMlMjBoaXJpbmclMjBhJTIwZ3Jvd3RoJTIwZW5naW5lZXIlMjB0byUyMGJyaW5nJTIwQUklMjBkb2N0b3JzJTIwdG8lMjBtYXJrZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzNzU2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE3JTNBMjglM0E1MiUyMCUyQjAwMDA",
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "pubDate": "Tue, 25 Aug 2026 17:28:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWwud2FsbHlqb25lcy5jb20lMkZydW4tb3BlbmJzZC1vbi1kaWdpdGFsb2NlYW4tZm9yLTRtb250aCUyRiU3Q2h0dHBzJTNBJTJGJTJGbmlsLndhbGx5am9uZXMuY29tJTJGcnVuLW9wZW5ic2Qtb24tZGlnaXRhbG9jZWFuLWZvci00bW9udGglMkYlN0NSdW4lMjBPcGVuQlNEJTIwb24lMjBEaWdpdGFsT2NlYW4lMjBmb3IlMjAlMjQ0JTJGbW9udGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzNzQ4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE3JTNBMjMlM0EwNyUyMCUyQjAwMDA",
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "pubDate": "Tue, 25 Aug 2026 17:23:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVkZXVzJTJGbml0dGVyJTJGaXNzdWVzJTJGMTQ0MiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnplZGV1cyUyRm5pdHRlciUyRmlzc3VlcyUyRjE0NDIlN0NOaXR0ZXIlMjBhbmQlMjBYQ2FuY2VsJTIwcmVjZWl2ZSUyMGNlYXNlJTIwYW5kJTIwZGVzaXN0JTIwbm90aWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDM3MjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTclM0EwOCUzQTIxJTIwJTJCMDAwMA",
+      "title": "Nitter and XCancel receive cease and desist notices",
+      "pubDate": "Tue, 25 Aug 2026 17:08:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjIxNTkwJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjIxNTkwJTdDQmxhY2slMjBob2xlJTIwc2luZ3VsYXJpdHklMjBpcyUyMGElMjBzdXJmYWNlJTIwbm90JTIwYSUyMHBvaW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzcyMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTAyJTNBNDklMjAlMkIwMDAw",
+      "title": "Black hole singularity is a surface not a point",
+      "pubDate": "Tue, 25 Aug 2026 17:02:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb3J6LmlvJTJGd3JpdGluZyUyRm15LWZyaWVuZC1hYXJvbiU3Q2h0dHBzJTNBJTJGJTJGcm9yei5pbyUyRndyaXRpbmclMkZteS1mcmllbmQtYWFyb24lN0NNeSUyMEZyaWVuZCUyMEFhcm9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzcwNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTUzJTNBMzMlMjAlMkIwMDAw",
+      "title": "My Friend Aaron",
+      "pubDate": "Tue, 25 Aug 2026 16:53:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamVmZmhhamV3c2tpJTJGbGF0dGljZWRiJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamVmZmhhamV3c2tpJTJGbGF0dGljZWRiJTdDU2hvdyUyMEhOJTNBJTIwTGF0dGljZURCJTIwJUUyJTgwJTkzJTIwTGlrZSUyMFNRTGl0ZSUyMGJ1dCUyMGZvciUyMGdyYXBoJTIwZGF0YWJhc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzcwNDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTUyJTNBMDUlMjAlMkIwMDAw",
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "pubDate": "Tue, 25 Aug 2026 16:52:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2V4LmNvbSUyRnNpdGVzJTJGc3RhcmJhc2UtbGElN0NodHRwcyUzQSUyRiUyRnd3dy5zcGFjZXguY29tJTJGc2l0ZXMlMkZzdGFyYmFzZS1sYSU3Q1N0YXJiYXNlJTJDJTIwTEElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzNjgyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE2JTNBMzclM0E1MiUyMCUyQjAwMDA",
+      "title": "Starbase, LA",
+      "pubDate": "Tue, 25 Aug 2026 16:37:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1hc3Rlci5kZXYlMkZ0b29sdGlwcy1uZWVkLWEtZGVsYXktYW5kLXRoZW4tdGhleS1uZWVkLXRvLXNraXAtaXQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cubWFzdGVyLmRldiUyRnRvb2x0aXBzLW5lZWQtYS1kZWxheS1hbmQtdGhlbi10aGV5LW5lZWQtdG8tc2tpcC1pdCUyRiU3Q1Rvb2x0aXBzJTIwbmVlZCUyMGElMjBkZWxheSUyQyUyMGFuZCUyMHRoZW4lMjB0aGV5JTIwbmVlZCUyMHRvJTIwc2tpcCUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MzY3ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTM1JTNBMzYlMjAlMkIwMDAw",
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "pubDate": "Tue, 25 Aug 2026 16:35:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGhpbmtPZmZBcHAlMkZDYXJXYXRjaCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlRoaW5rT2ZmQXBwJTJGQ2FyV2F0Y2glN0NTaG93JTIwSE4lM0ElMjBJJTIwbWFkZSUyMGElMjBSYXNwYmVycnklMjB3aXRoJTIwUXdlbiUyMG15JTIwbG9jYWwlMjBjYXIlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDM1Njc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTUlM0EyMCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "pubDate": "Tue, 25 Aug 2026 15:20:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLnNlbWlhbmFseXNpcy5jb20lMkZwJTJGb3BlbmFpLWphbGFwZW5vLWJldHRlci10aGFuLW52aWRpYSU3Q2h0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5zZW1pYW5hbHlzaXMuY29tJTJGcCUyRm9wZW5haS1qYWxhcGVuby1iZXR0ZXItdGhhbi1udmlkaWElN0NPcGVuQUklMjBKYWxhcGUlQzMlQjFvJTNBJTIwQmV0dGVyJTIwdGhhbiUyME52aWRpYSUyMEJsYWNrd2VsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDM0Mzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTQlM0EwNiUzQTAyJTIwJTJCMDAwMA",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "pubDate": "Tue, 25 Aug 2026 14:06:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDglMkZhcHBsZS1pbnRyb2R1Y2VzLW02LWFuZC1tNS11bHRyYS1mb3ItYS1iaWctbGVhcC1pbi1wZXJmb3JtYW5jZS1hbmQtYWktY29tcHV0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRjA4JTJGYXBwbGUtaW50cm9kdWNlcy1tNi1hbmQtbTUtdWx0cmEtZm9yLWEtYmlnLWxlYXAtaW4tcGVyZm9ybWFuY2UtYW5kLWFpLWNvbXB1dGUlMkYlN0NBcHBsZSUyMGludHJvZHVjZXMlMjBNNiUyMGFuZCUyME01JTIwVWx0cmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMzI5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDEzJTNBMDElM0EyMiUyMCUyQjAwMDA",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "pubDate": "Tue, 25 Aug 2026 13:01:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmZGVwbG95LmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZmRlcGxveS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBJJTIwYnVpbHQlMjBzZWxmLWhvc3RlZCUyMGRlcGxveW1lbnQlMjBhdXRvbWF0aW9uJTIwdG9vbCUyMGZvciUyMFdpbmRvd3MlMjBhbmQlMjBJSVMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMDI1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDA3JTNBMzIlM0ExMSUyMCUyQjAwMDA",
+      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+      "pubDate": "Tue, 25 Aug 2026 07:32:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
     }
   ]

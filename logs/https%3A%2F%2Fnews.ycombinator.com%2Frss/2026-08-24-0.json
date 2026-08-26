@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 57,
-    "generatedAt": "2026-08-25T16:59:17.753Z"
+    "itemCount": 58,
+    "generatedAt": "2026-08-26T02:02:05.749Z"
   },
   "items": [
     {
@@ -348,6 +348,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtb3ZxLmRlJTJGYmxvZyUyRnBvc3RpbmdzJTJGMjAyNi0wOC0wNSUyRjAlMkZQT1NUSU5HLWVuLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1vdnEuZGUlMkZibG9nJTJGcG9zdGluZ3MlMkYyMDI2LTA4LTA1JTJGMCUyRlBPU1RJTkctZW4uaHRtbCU3Q1Zpc3VhbGl6aW5nJTIwQmluYXJ5JTIwRmlsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMzg3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE4JTNBMjElM0ExNyUyMCUyQjAwMDA",
       "title": "Visualizing Binary Files",
       "pubDate": "Mon, 24 Aug 2026 18:21:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFjay5iaW8lMkZibG9nJTJGY29zdGNvLWdhcy10cmFja2luZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmphY2suYmlvJTJGYmxvZyUyRmNvc3Rjby1nYXMtdHJhY2tpbmclN0NUcmFja2luZyUyMENvc3RjbyUyMGdhcyUyMHByaWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIzMDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTclM0EyMSUzQTIwJTIwJTJCMDAwMA",
+      "title": "Tracking Costco gas prices",
+      "pubDate": "Mon, 24 Aug 2026 17:21:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]
