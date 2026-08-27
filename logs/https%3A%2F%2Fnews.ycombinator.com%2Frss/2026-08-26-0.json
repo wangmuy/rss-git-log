@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-26",
     "newestItemDate": "2026-08-26",
-    "itemCount": 37,
-    "generatedAt": "2026-08-26T18:05:50.042Z"
+    "itemCount": 52,
+    "generatedAt": "2026-08-27T09:58:33.085Z"
   },
   "items": [
     {
@@ -228,6 +228,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlnaHRob3VzZW5ld3NsZXR0ZXIuY29tJTJGcCUyRnJhZy1pcy1zaW1wbGVyLXRoYW4teW91LXRoaW5rJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGlnaHRob3VzZW5ld3NsZXR0ZXIuY29tJTJGcCUyRnJhZy1pcy1zaW1wbGVyLXRoYW4teW91LXRoaW5rJTdDUkFHJTIwSXMlMjBTaW1wbGVyJTIwVGhhbiUyMFlvdSUyMFRoaW5rJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDU3MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAwOCUzQTM5JTNBMTclMjAlMkIwMDAw",
       "title": "RAG Is Simpler Than You Think",
       "pubDate": "Wed, 26 Aug 2026 08:39:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubXR1cmsuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubXR1cmsuY29tJTJGJTdDTWVjaGFuaWNhbCUyMFR1cmslMjBzaHV0dGluZyUyMGRvd24lMjBTZXB0ZW1iZXIlMjAzMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDU3NTQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMjMlM0E1NSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Mechanical Turk shutting down September 30",
+      "pubDate": "Wed, 26 Aug 2026 23:55:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYW13aWxsd2FuZy5jb20lMkZub3RlcyUyRnpvaHJhbi1hbmQtdGhlLXNob3J0LWxpbmslMkYlN0NodHRwcyUzQSUyRiUyRmlhbXdpbGx3YW5nLmNvbSUyRm5vdGVzJTJGem9ocmFuLWFuZC10aGUtc2hvcnQtbGluayUyRiU3Q1pvaHJhbiUyMGFuZCUyMHRoZSUyMFNob3J0JTIwTGluayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDU3NTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMjMlM0E1MCUzQTE1JTIwJTJCMDAwMA",
+      "title": "Zohran and the Short Link",
+      "pubDate": "Wed, 26 Aug 2026 23:50:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaGVzcy5jb3Blcm5pY3VzLm9yZyUyRmFydGljbGVzJTJGMjIlMkYzNzY1JTJGMjAyMiUyRm5oZXNzLTIyLTM3NjUtMjAyMi5odG1sJTdDaHR0cHMlM0ElMkYlMkZuaGVzcy5jb3Blcm5pY3VzLm9yZyUyRmFydGljbGVzJTJGMjIlMkYzNzY1JTJGMjAyMiUyRm5oZXNzLTIyLTM3NjUtMjAyMi5odG1sJTdDV29yc3QtY2FzZSUyMGdsYWNpYWwlMjBsYWtlJTIwZmxvb2QlMjBzY2VuYXJpb3MlMjBpbiUyMGElMjB0cmFuc2JvdW5kYXJ5JTIwSGltYWxheWFuJTIwYmFzaW4lMjAyMDIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTY5MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAyMiUzQTQ0JTNBMDMlMjAlMkIwMDAw",
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "pubDate": "Wed, 26 Aug 2026 22:44:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhc2FoaWxpbnV4Lm9yZyUyRjIwMjYlMkYwOCUyRnByb2dyZXNzLXJlcG9ydC03LTIlMkYlN0NodHRwcyUzQSUyRiUyRmFzYWhpbGludXgub3JnJTJGMjAyNiUyRjA4JTJGcHJvZ3Jlc3MtcmVwb3J0LTctMiUyRiU3Q0FzYWhpJTIwTGludXglMjBQcm9ncmVzcyUyMFJlcG9ydCUzQSUyMExpbnV4JTIwNy4yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTY4NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAyMiUzQTM1JTNBMDIlMjAlMkIwMDAw",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "pubDate": "Wed, 26 Aug 2026 22:35:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2xlcmt5LmNvbSUyRmJsb2clMkZjbGVya3ktaXMtam9pbmluZy1zdHJpcGUlN0NodHRwcyUzQSUyRiUyRnd3dy5jbGVya3kuY29tJTJGYmxvZyUyRmNsZXJreS1pcy1qb2luaW5nLXN0cmlwZSU3Q1N0cmlwZSUyMGFjcXVpcmVzJTIwQ2xlcmt5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTU5NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAyMSUzQTA5JTNBMzIlMjAlMkIwMDAw",
+      "title": "Stripe acquires Clerky",
+      "pubDate": "Wed, 26 Aug 2026 21:09:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjIzMjI4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjIzMjI4JTdDTW9sZCUzQSUyMEElMjBNYXNzaXZlbHklMjBQYXJhbGxlbCUyMExpbmtlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDU1NTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMjAlM0EzNyUzQTAyJTIwJTJCMDAwMA",
+      "title": "Mold: A Massively Parallel Linker",
+      "pubDate": "Wed, 26 Aug 2026 20:37:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzcm9vbS5pYm0uY29tJTJGMjAyNi0wOC0yNC1pYm0tdW52ZWlscy1uZXh0LWdlbmVyYXRpb24tZHVhbC1hcmNoaXRlY3R1cmUtcHJvY2Vzc29yLWZvci1pYm0tei1hbmQtbGludXhvbmUlN0NodHRwcyUzQSUyRiUyRm5ld3Nyb29tLmlibS5jb20lMkYyMDI2LTA4LTI0LWlibS11bnZlaWxzLW5leHQtZ2VuZXJhdGlvbi1kdWFsLWFyY2hpdGVjdHVyZS1wcm9jZXNzb3ItZm9yLWlibS16LWFuZC1saW51eG9uZSU3Q0lCTSUyMFVudmVpbHMlMjBOZXh0JTIwR2VuZXJhdGlvbiUyMER1YWwtQXJjaGl0ZWN0dXJlJTIwUHJvY2Vzc29yJTIwZm9yJTIwSUJNJTIwWiUyMGFuZCUyMExpbnV4T05FJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTU0NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAyMCUzQTMyJTNBMjklMjAlMkIwMDAw",
+      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+      "pubDate": "Wed, 26 Aug 2026 20:32:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY2NlcHRtYXJrZG93bi5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmFjY2VwdG1hcmtkb3duLmNvbSUyRiU3Q1NlcnZlJTIwTWFya2Rvd24lMjB0byUyMEFJJTIwQWdlbnRzJTIwd2l0aCUyMEFjY2VwdCUyMEhlYWRlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1NDc2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE5JTNBNDUlM0E1OSUyMCUyQjAwMDA",
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "pubDate": "Wed, 26 Aug 2026 19:45:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWN0aW5pZGVpbmMuY29tJTJGcHJlc3MlMkZhY3RpbmlkZS1iZWNvbWVzLWZpcnN0LXN0YXJ0dXAtdG8tZXZlci1lbnJpY2gtbmF0dXJhbC11cmFuaXVtLXRvLXByb2R1Y2UtaGFsZXUlN0NodHRwcyUzQSUyRiUyRnd3dy5hY3RpbmlkZWluYy5jb20lMkZwcmVzcyUyRmFjdGluaWRlLWJlY29tZXMtZmlyc3Qtc3RhcnR1cC10by1ldmVyLWVucmljaC1uYXR1cmFsLXVyYW5pdW0tdG8tcHJvZHVjZS1oYWxldSU3Q0FjdGluaWRlJTIwaXMlMjBmaXJzdCUyMHN0YXJ0dXAlMjB0byUyMHByb2R1Y2UlMjBoaWdoLWFzc2F5JTIwbG93LWVucmljaGVkJTIwdXJhbml1bSUyMChIQUxFVSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1NDQxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE5JTNBMjMlM0EwMSUyMCUyQjAwMDA",
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "pubDate": "Wed, 26 Aug 2026 19:23:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZodWdnaW5nLWZhY2UtaW5jaWRlbnQtYW5kLXRoZS1yb2FkLWFoZWFkJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZodWdnaW5nLWZhY2UtaW5jaWRlbnQtYW5kLXRoZS1yb2FkLWFoZWFkJTJGJTdDVGhlJTIwSHVnZ2luZyUyMEZhY2UlMjBpbmNpZGVudCUyMGFuZCUyMHRoZSUyMHJvYWQlMjBhaGVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDU0MzE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTklM0ExNSUzQTIzJTIwJTJCMDAwMA",
+      "title": "The Hugging Face incident and the road ahead",
+      "pubDate": "Wed, 26 Aug 2026 19:15:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGFpbHNjYWxlJTJGdGFpbGNhdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnRhaWxzY2FsZSUyRnRhaWxjYXQlN0NUYWlsY2F0JTIwJUUyJTgwJTkzJTIwTGlrZSUyMG5ldGNhdCUyQyUyMGJ1dCUyMG92ZXIlMjBUYWlsc2NhbGUlRTIlODAlOTlzJTIwZGF0YSUyMHBsYW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTI5OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNyUzQTQyJTNBMjIlMjAlMkIwMDAw",
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "pubDate": "Wed, 26 Aug 2026 17:42:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnBvbGl0aWNzJTJGcG9saWN5JTJGdS1zLXN0YXRlLWRlcGFydG1lbnQtcGF1c2VzLWltbWlncmFudC12aXNhLWFwcGxpY2F0aW9ucy0yNWIzMWIyMyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndzai5jb20lMkZwb2xpdGljcyUyRnBvbGljeSUyRnUtcy1zdGF0ZS1kZXBhcnRtZW50LXBhdXNlcy1pbW1pZ3JhbnQtdmlzYS1hcHBsaWNhdGlvbnMtMjViMzFiMjMlN0NVLlMuJTIwU3RhdGUlMjBEZXBhcnRtZW50JTIwcGF1c2VzJTIwaW1taWdyYW50JTIwdmlzYSUyMGFwcGxpY2F0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDUyNzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTclM0EyMiUzQTE2JTIwJTJCMDAwMA",
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "pubDate": "Wed, 26 Aug 2026 17:22:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dC1mcnl4ZWxsLmdpdGh1Yi5pbyUyRmJsb2clMkZ0aGUtaGFybmVzcy1pcy10aGUtdGhpbmclMkYlN0NodHRwcyUzQSUyRiUyRnNjb3R0LWZyeXhlbGwuZ2l0aHViLmlvJTJGYmxvZyUyRnRoZS1oYXJuZXNzLWlzLXRoZS10aGluZyUyRiU3Q1RoZSUyMEhhcm5lc3MlMjBJcyUyMHRoZSUyMFRoaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTIzNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNiUzQTU5JTNBNTklMjAlMkIwMDAw",
+      "title": "The Harness Is the Thing",
+      "pubDate": "Wed, 26 Aug 2026 16:59:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmRhLmdvdiUyRm5ld3MtZXZlbnRzJTJGcHJlc3MtYW5ub3VuY2VtZW50cyUyRmZkYS1hcHByb3Zlcy1maXJzdC1jbGFzcy10YXJnZXRlZC10aGVyYXB5LW1ldGFzdGF0aWMtcGFuY3JlYXRpYy1jYW5jZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5mZGEuZ292JTJGbmV3cy1ldmVudHMlMkZwcmVzcy1hbm5vdW5jZW1lbnRzJTJGZmRhLWFwcHJvdmVzLWZpcnN0LWNsYXNzLXRhcmdldGVkLXRoZXJhcHktbWV0YXN0YXRpYy1wYW5jcmVhdGljLWNhbmNlciU3Q0ZEQSUyMGFwcHJvdmVzJTIwZmlyc3QlMjBpbiUyMGNsYXNzJTIwdGFyZ2V0ZWQlMjB0aGVyYXB5JTIwZm9yJTIwbWV0YXN0YXRpYyUyMHBhbmNyZWF0aWMlMjBjYW5jZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1MTY3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDE2JTNBMTklM0EwMyUyMCUyQjAwMDA",
+      "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
+      "pubDate": "Wed, 26 Aug 2026 16:19:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWNrbGFicy5jb20lMkZuZXdzJTJGMjAyNiUyRjA4JTJGMjYlMkZkdWNrbGFicy10by1qb2luLWF3cyU3Q2h0dHBzJTNBJTJGJTJGZHVja2xhYnMuY29tJTJGbmV3cyUyRjIwMjYlMkYwOCUyRjI2JTJGZHVja2xhYnMtdG8tam9pbi1hd3MlN0NBV1MlMjBBY3F1aXJlcyUyMER1Y2tMYWJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDgzMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMiUzQTU5JTNBMjYlMjAlMkIwMDAw",
+      "title": "AWS Acquires DuckLabs",
+      "pubDate": "Wed, 26 Aug 2026 12:59:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
     }
   ]
