@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 58,
-    "generatedAt": "2026-08-26T02:02:05.749Z"
+    "itemCount": 60,
+    "generatedAt": "2026-08-28T20:14:22.097Z"
   },
   "items": [
     {
@@ -354,6 +354,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFjay5iaW8lMkZibG9nJTJGY29zdGNvLWdhcy10cmFja2luZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmphY2suYmlvJTJGYmxvZyUyRmNvc3Rjby1nYXMtdHJhY2tpbmclN0NUcmFja2luZyUyMENvc3RjbyUyMGdhcyUyMHByaWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDIzMDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTclM0EyMSUzQTIwJTIwJTJCMDAwMA",
       "title": "Tracking Costco gas prices",
       "pubDate": "Mon, 24 Aug 2026 17:21:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY2tvLm5ldCUyRmJsb2clMkZjdXJ2YXR1cmUtYmV6aWVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGYWNrby5uZXQlMkZibG9nJTJGY3VydmF0dXJlLWJlemllcnMlMkYlN0NDdXJ2YXR1cmUlMjBCZXppZXJzJTNBJTIwSW1wcm92aW5nJTIwb24lMjBhJTIwdGltZWxlc3MlMjByZWNpcGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQyMjc0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDE3JTNBMDMlM0ExMiUyMCUyQjAwMDA",
+      "title": "Curvature Beziers: Improving on a timeless recipe",
+      "pubDate": "Mon, 24 Aug 2026 17:03:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib3l0ZXIub3JnJTJGcG9zdHMlMkZzbG9jLWNsb2MtY29kZS1ob3RzcG90cy1maW5kaW5nLWZpbGVzLXRoYXQtbmVlZC1hdHRlbnRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmJveXRlci5vcmclMkZwb3N0cyUyRnNsb2MtY2xvYy1jb2RlLWhvdHNwb3RzLWZpbmRpbmctZmlsZXMtdGhhdC1uZWVkLWF0dGVudGlvbiUyRiU3Q1Nsb2MlMjBDbG9jJTIwYW5kJTIwQ29kZSUyMDQuMCUyMChzY2MpJTIwJUUyJTgwJTkzJTIwRmluZGluZyUyMHRoZSUyMGZpbGVzJTIwdGhhdCUyMG5lZWQlMjB0aGUlMjBtb3N0JTIwYXR0ZW50aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTU5MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAwNiUzQTM1JTNBNTAlMjAlMkIwMDAw",
+      "title": "Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention",
+      "pubDate": "Mon, 24 Aug 2026 06:35:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]
