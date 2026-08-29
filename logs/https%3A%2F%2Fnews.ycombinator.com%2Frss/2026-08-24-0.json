@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 66,
-    "generatedAt": "2026-08-29T13:52:37.649Z"
+    "itemCount": 70,
+    "generatedAt": "2026-08-29T19:26:07.301Z"
   },
   "items": [
     {
@@ -402,6 +402,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnYWxheGl1bS5hcHAlN0NodHRwcyUzQSUyRiUyRmdhbGF4aXVtLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMEdhbGF4aXVtJTJDJTIwYW4lMjBleHBlcmltZW50YWwlMjBXZWJHUFUlMjBzcGFjZSUyMGV4cGxvcmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjA1MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTQ0JTNBMjAlMjAlMkIwMDAw",
       "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
       "pubDate": "Mon, 24 Aug 2026 14:44:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZ2wuY3glMkYyMDIwJTJGMDYlMkZzcWxpdGUtanNvbi1zdXBwb3J0JTdDaHR0cHMlM0ElMkYlMkZkZ2wuY3glMkYyMDIwJTJGMDYlMkZzcWxpdGUtanNvbi1zdXBwb3J0JTdDU1FMaXRlJTIwYXMlMjBhJTIwRG9jdW1lbnQlMjBEYXRhYmFzZSUyMCgyMDIwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI2OTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMjMlM0EwMCUzQTEwJTIwJTJCMDAwMA",
+      "title": "SQLite as a Document Database (2020)",
+      "pubDate": "Mon, 24 Aug 2026 23:00:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXNvbi5iZWFyYmxvZy5kZXYlMkZrbWFydC1kaWdpY2FtLW1vZC1wYXJ0LTIlMkYlN0NodHRwcyUzQSUyRiUyRm1hc29uLmJlYXJibG9nLmRldiUyRmttYXJ0LWRpZ2ljYW0tbW9kLXBhcnQtMiUyRiU3Q0ttYXJ0JTIwRGlnaWNhbSUyME1vZCUyMFBhcnQlMjAyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTc2NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxMCUzQTE0JTNBNTAlMjAlMkIwMDAw",
+      "title": "Kmart Digicam Mod Part 2",
+      "pubDate": "Mon, 24 Aug 2026 10:14:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6YWNrYmFydGVsLmNvbSUyRmJsb2clMkYyMDI2JTJGMDglMkZ0ZXRoZXIlMkYlN0NodHRwcyUzQSUyRiUyRnphY2tiYXJ0ZWwuY29tJTJGYmxvZyUyRjIwMjYlMkYwOCUyRnRldGhlciUyRiU3Q1RldGhlciUzQSUyMGlNZXNzYWdlJTJDJTIwU01TJTJDJTIwZXRjLiUyMG9uJTIwTGludXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQxNTM4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI0JTIwQXVnJTIwMjAyNiUyMDA1JTNBMDklM0EyMyUyMCUyQjAwMDA",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "pubDate": "Mon, 24 Aug 2026 05:09:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmFuaGFobi5jb20lMkZ1c2VyZ2V0dGluZ2JvcmVkLXZpbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZXZhbmhhaG4uY29tJTJGdXNlcmdldHRpbmdib3JlZC12aW0lMkYlN0NWaW0ncyUyMFVzZXJHZXR0aW5nQm9yZWQlMjBBdXRvY21kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTQ4OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAwMyUzQTIzJTNBMDclMjAlMkIwMDAw",
+      "title": "Vim's UserGettingBored Autocmd",
+      "pubDate": "Mon, 24 Aug 2026 03:23:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]

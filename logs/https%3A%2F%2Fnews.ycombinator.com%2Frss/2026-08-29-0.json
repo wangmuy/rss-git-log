@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-29",
     "newestItemDate": "2026-08-29",
-    "itemCount": 6,
-    "generatedAt": "2026-08-29T13:52:37.648Z"
+    "itemCount": 18,
+    "generatedAt": "2026-08-29T19:26:07.300Z"
   },
   "items": [
     {
@@ -42,6 +42,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNuNDV2ZHh5dnZsbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjbjQ1dmR4eXZ2bG8lN0NJY2VsYW5kJTIwdm90ZXMlMjBvbiUyMHdoZXRoZXIlMjB0byUyMHJlc3RhcnQlMjB0YWxrcyUyMG9uJTIwam9pbmluZyUyMEVVJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0ODkwNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOSUyMEF1ZyUyMDIwMjYlMjAxMSUzQTM5JTNBMzglMjAlMkIwMDAw",
       "title": "Iceland votes on whether to restart talks on joining EU",
       "pubDate": "Sat, 29 Aug 2026 11:39:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGYmxvZyUyRmhvdy13YXJwLWJ1aWxkcy1zZWxmLWltcHJvdmluZy1hZ2VudHMtb24tY2xhdWRlJTdDaHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGYmxvZyUyRmhvdy13YXJwLWJ1aWxkcy1zZWxmLWltcHJvdmluZy1hZ2VudHMtb24tY2xhdWRlJTdDV2FycCUyMGJ1aWxkcyUyMHNlbGYtaW1wcm92aW5nJTIwYWdlbnRzJTIwb24lMjBDbGF1ZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5MjQzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI5JTIwQXVnJTIwMjAyNiUyMDE5JTNBMDklM0EzMyUyMCUyQjAwMDA",
+      "title": "Warp builds self-improving agents on Claude",
+      "pubDate": "Sat, 29 Aug 2026 19:09:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZhdWclMkYyOSUyRnRydW1wLWRocy0xNTA5LXN1bW1vbnMtcmVjb3Jkcy1qb3VybmFsaXN0cy1ub25wcm9maXRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZhdWclMkYyOSUyRnRydW1wLWRocy0xNTA5LXN1bW1vbnMtcmVjb3Jkcy1qb3VybmFsaXN0cy1ub25wcm9maXRzJTdDREhTJTIwaXMlMjB1c2luZyUyMG9ic2N1cmUlMjBsYXclMjB0byUyMHNub29wJTIwb24lMjBqb3VybmFsaXN0cyUyQyUyMG5vbi1wcm9maXRzJTJDJTIwdW5pb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTIyMTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOSUyMEF1ZyUyMDIwMjYlMjAxOCUzQTQ0JTNBMzclMjAlMkIwMDAw",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "pubDate": "Sat, 29 Aug 2026 18:44:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RlcGhlbmRpZWhsLmNvbSUyRnBvc3RzJTJGaW50ZXJuZXRfcHJlZGF0b3J5X2Nlc3NwaXQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zdGVwaGVuZGllaGwuY29tJTJGcG9zdHMlMkZpbnRlcm5ldF9wcmVkYXRvcnlfY2Vzc3BpdCUyRiU3Q1RoZSUyMEludGVybmV0JTIwSXMlMjBLaW5kJTIwb2YlMjBhJTIwUHJlZGF0b3J5JTIwQ2Vzc3BpdCUyME5vdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDkyMTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjklMjBBdWclMjAyMDI2JTIwMTglM0E0MCUzQTU2JTIwJTJCMDAwMA",
+      "title": "The Internet Is Kind of a Predatory Cesspit Now",
+      "pubDate": "Sat, 29 Aug 2026 18:40:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dWNrZXIud2FsZXMlMkZ3cml0aW5nJTJGYmlhcy10b3dhcmRzLWFjdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGdHVja2VyLndhbGVzJTJGd3JpdGluZyUyRmJpYXMtdG93YXJkcy1hY3Rpb24lMkYlN0NDYWxpYnJhdGUlMjBCZWZvcmUlMjBZb3UlMjBBY2NlbGVyYXRlJTNBJTIwQmlhcyUyMFRvd2FyZCUyMEFjdGlvbiUyMGluJTIwYSUyME5ldyUyMFJvbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5MTcxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI5JTIwQXVnJTIwMjAyNiUyMDE3JTNBMzklM0ExOCUyMCUyQjAwMDA",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "pubDate": "Sat, 29 Aug 2026 17:39:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLmVuZy1sZWFkZXJzaGlwLmNvbSUyRnAlMkZnb29kLWN1bHR1cmUtaXMtdGhlLWJpZ2dlc3QtcHJvZHVjdGl2aXR5JTdDaHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLmVuZy1sZWFkZXJzaGlwLmNvbSUyRnAlMkZnb29kLWN1bHR1cmUtaXMtdGhlLWJpZ2dlc3QtcHJvZHVjdGl2aXR5JTdDR29vZCUyMEN1bHR1cmUlMjBJcyUyMHRoZSUyMEJpZ2dlc3QlMjBQcm9kdWN0aXZpdHklMjBIYWNrJTJDJTIwTm90JTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5MTU2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI5JTIwQXVnJTIwMjAyNiUyMDE3JTNBMTklM0E0NyUyMCUyQjAwMDA",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "pubDate": "Sat, 29 Aug 2026 17:19:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmVsYS1sYW5nLm9yZyUyRnR1dG9yaWFsJTJGJTdDaHR0cHMlM0ElMkYlMkZwcmVsYS1sYW5nLm9yZyUyRnR1dG9yaWFsJTJGJTdDQSUyMGJldHRlciUyMFNRTCUyMGluJTIwMTElMjBsaW5lcyUyMG9mJTIwY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDkxNTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjklMjBBdWclMjAyMDI2JTIwMTclM0ExMyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "A better SQL in 11 lines of code",
+      "pubDate": "Sat, 29 Aug 2026 17:13:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29vbGJvdWxkZXIub3JnJTJGbmV3cyUyRnRyZWVzLWZvci1hLWNoYW5naW5nLWNsaW1hdGUtcmVzaWxpZW50LXVyYmFuLWZvcmVzdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvb2xib3VsZGVyLm9yZyUyRm5ld3MlMkZ0cmVlcy1mb3ItYS1jaGFuZ2luZy1jbGltYXRlLXJlc2lsaWVudC11cmJhbi1mb3Jlc3QlN0NUcmVlcyUyMGZvciUyMGElMjBDaGFuZ2luZyUyMENsaW1hdGUlMjBhbmQlMjBSZXNpbGllbnQlMjBVcmJhbiUyMEZvcmVzdCUyMCgyMDIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDkxMTc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjklMjBBdWclMjAyMDI2JTIwMTYlM0EyNCUzQTIxJTIwJTJCMDAwMA",
+      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "pubDate": "Sat, 29 Aug 2026 16:24:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcHRpbWl6ZWRieW90dG8uY29tJTJGcG9zdCUyRndoeS1vcGVuLXNvdXJjZS1wcm9qZWN0cy1iYW4tYWklMkYlN0NodHRwcyUzQSUyRiUyRm9wdGltaXplZGJ5b3R0by5jb20lMkZwb3N0JTJGd2h5LW9wZW4tc291cmNlLXByb2plY3RzLWJhbi1haSUyRiU3Q1RoZSUyMGdyb3dpbmclMjBkaXZpZGUlMjBiZXR3ZWVuJTIwQUklMjBoeXBlJTIwYW5kJTIwc29mdHdhcmUlMjBlbmdpbmVlcmluZyUyMHJlYWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5MTExMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI5JTIwQXVnJTIwMjAyNiUyMDE2JTNBMTYlM0EzMiUyMCUyQjAwMDA",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "pubDate": "Sat, 29 Aug 2026 16:16:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2llbmNlLm5hc2EuZ292JTJGbWlzc2lvbiUyRnJvbWFuLXNwYWNlLXRlbGVzY29wZSUyRiU3Q2h0dHBzJTNBJTJGJTJGc2NpZW5jZS5uYXNhLmdvdiUyRm1pc3Npb24lMkZyb21hbi1zcGFjZS10ZWxlc2NvcGUlMkYlN0NOYW5jeSUyMEdyYWNlJTIwUm9tYW4lMjBTcGFjZSUyMFRlbGVzY29wZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDkwODcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjklMjBBdWclMjAyMDI2JTIwMTUlM0E0OCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Nancy Grace Roman Space Telescope",
+      "pubDate": "Sat, 29 Aug 2026 15:48:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZla3VuYXphbnUuZm9vJTJGbGFiJTJGcXVhbnRpZnlpbmctY29sb3VyJTJGJTdDaHR0cHMlM0ElMkYlMkZla3VuYXphbnUuZm9vJTJGbGFiJTJGcXVhbnRpZnlpbmctY29sb3VyJTJGJTdDUXVhbnRpZnlpbmclMjBDb2xvdXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5MDgzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI5JTIwQXVnJTIwMjAyNiUyMDE1JTNBNDMlM0E1MyUyMCUyQjAwMDA",
+      "title": "Quantifying Colour",
+      "pubDate": "Sat, 29 Aug 2026 15:43:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZic2t5LmFwcCUyRnByb2ZpbGUlMkZncmFwaGVuZW9zLm9yZyUyRnBvc3QlMkYzbXVhMzJxNGRzMjJlJTdDaHR0cHMlM0ElMkYlMkZic2t5LmFwcCUyRnByb2ZpbGUlMkZncmFwaGVuZW9zLm9yZyUyRnBvc3QlMkYzbXVhMzJxNGRzMjJlJTdDR3JhcGhlbmVPUyUyMHByb2plY3QlM0ElMjBwaXhlbCUyMDExJTIwbm8lMjBsb25nZXIlMjBzdXBwb3J0cyUyMGhhcmR3YXJlJTIwbWVtb3J5JTIwdGFnZ2luZyUyMChNVEUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTA3MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOSUyMEF1ZyUyMDIwMjYlMjAxNSUzQTI2JTNBMjglMjAlMkIwMDAw",
+      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "pubDate": "Sat, 29 Aug 2026 15:26:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1ZWNrZXIuY29kZWJlcmcucGFnZSUyRjIwMjYtMDgtMjkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdWVja2VyLmNvZGViZXJnLnBhZ2UlMkYyMDI2LTA4LTI5Lmh0bWwlN0NJbmRpcmVjdCUyMENhbGxpbmclMjBvZiUyME5lc3RlZCUyMEZ1bmN0aW9ucyUyMG9uJTIwR0NDJTIwV2l0aG91dCUyMEV4ZWN1dGFibGUlMjBTdGFjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDkwMTM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjklMjBBdWclMjAyMDI2JTIwMTQlM0EyMCUzQTMzJTIwJTJCMDAwMA",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "pubDate": "Sat, 29 Aug 2026 14:20:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
     }
   ]

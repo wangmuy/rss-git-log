@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-26",
     "newestItemDate": "2026-08-26",
-    "itemCount": 56,
-    "generatedAt": "2026-08-29T13:52:37.648Z"
+    "itemCount": 57,
+    "generatedAt": "2026-08-29T19:26:07.300Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaWdtYS1zdGFyLmF0JTJGYmxvZyUyRjIwMjYlMkYwOCUyRmdvLXJ1bnRpbWUtbmV0cG9sbC1idWclMkYlN0NodHRwcyUzQSUyRiUyRnNpZ21hLXN0YXIuYXQlMkZibG9nJTJGMjAyNiUyRjA4JTJGZ28tcnVudGltZS1uZXRwb2xsLWJ1ZyUyRiU3Q0h1bnRpbmclMjBEb3duJTIwYSUyMEdvJTIwUnVudGltZSUyMEJ1ZyUyMG9uJTIwMzItQml0JTIwRW1iZWRkZWQlMjBTeXN0ZW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTA3ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNSUzQTIyJTNBNDglMjAlMkIwMDAw",
       "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
       "pubDate": "Wed, 26 Aug 2026 15:22:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlYmFzZS5pbyU3Q2h0dHBzJTNBJTJGJTJGdHlwZWJhc2UuaW8lMkYlN0NTaG93JTIwSE4lM0ElMjBUeXBlYmFzZSUyMCVFMiU4MCU5MyUyMEElMjBzaW5nbGUtZm9sZGVyJTIwYmFjayUyMGVuZCUyMHlvdSUyMHdyaXRlJTIwaW4lMjBUeXBlU2NyaXB0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDcxNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMSUzQTMzJTNBMzElMjAlMkIwMDAw",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "pubDate": "Wed, 26 Aug 2026 11:33:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
     }
   ]
