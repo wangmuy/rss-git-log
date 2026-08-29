@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-28",
     "newestItemDate": "2026-08-28",
-    "itemCount": 26,
-    "generatedAt": "2026-08-28T20:14:22.096Z"
+    "itemCount": 32,
+    "generatedAt": "2026-08-29T07:10:47.521Z"
   },
   "items": [
     {
@@ -162,6 +162,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDglMkYyNyUyRnRlY2hub2xvZ3klMkZhbnRocm9waWMtZ292ZXJubWVudC1ibGFja2xpc3RpbmctcnVsaW5nLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwOCUyRjI3JTJGdGVjaG5vbG9neSUyRmFudGhyb3BpYy1nb3Zlcm5tZW50LWJsYWNrbGlzdGluZy1ydWxpbmcuaHRtbCU3Q0p1ZGdlJTIwcnVsZXMlMjBUcnVtcCUyMGFkbWluaXN0cmF0aW9uJUUyJTgwJTk5cyUyMGJsYWNrbGlzdGluZyUyMG9mJTIwQW50aHJvcGljJTIwd2FzJTIwaWxsZWdhbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDczNTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjglMjBBdWclMjAyMDI2JTIwMDIlM0EwMyUzQTM4JTIwJTJCMDAwMA",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "pubDate": "Fri, 28 Aug 2026 02:03:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmVjdG9yaWFuLmJlJTJGYXJ0aWNsZXMlMkYyMDI2LTA2LTA3JTJGc3VtZXJpYW4ta2luZy1saXN0LXBhbGVvY2xpbWF0ZS1hbGlnbm1lbnQtZXhwbG9yZXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy52ZWN0b3JpYW4uYmUlMkZhcnRpY2xlcyUyRjIwMjYtMDYtMDclMkZzdW1lcmlhbi1raW5nLWxpc3QtcGFsZW9jbGltYXRlLWFsaWdubWVudC1leHBsb3JlciUyRiU3Q0RvZXMlMjB0aGUlMjBTdW1lcmlhbiUyMEtpbmclMjBMaXN0JTIwQWxpZ24lMjB3aXRoJTIwUGFsZW9jbGltYXRlJTIwRXZlbnRzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0ODU1MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyOCUyMEF1ZyUyMDIwMjYlMjAyMyUzQTQ2JTNBMTAlMjAlMkIwMDAw",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "pubDate": "Fri, 28 Aug 2026 23:46:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhem1pcnJvci5jb20lMkYyMDI2JTJGMDglMkYyOCUyRjl0aC1jaXJjdWl0LXNpZGVzLXdpdGgtc3RhdGVzLWluLWthbHNoaS1nYW1ibGluZy1maWdodC1wb3RlbnRpYWxseS1yZXZpdmluZy1hcml6b25hcy1wcm9zZWN1dGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYXptaXJyb3IuY29tJTJGMjAyNiUyRjA4JTJGMjglMkY5dGgtY2lyY3VpdC1zaWRlcy13aXRoLXN0YXRlcy1pbi1rYWxzaGktZ2FtYmxpbmctZmlnaHQtcG90ZW50aWFsbHktcmV2aXZpbmctYXJpem9uYXMtcHJvc2VjdXRpb24lMkYlN0M5dGglMjBDaXJjdWl0JTIwc2lkZXMlMjB3aXRoJTIwc3RhdGVzJTIwaW4lMjBLYWxzaGklMjBnYW1ibGluZyUyMGZpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0ODU0NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyOCUyMEF1ZyUyMDIwMjYlMjAyMyUzQTMyJTNBMjIlMjAlMkIwMDAw",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "pubDate": "Fri, 28 Aug 2026 23:32:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwd25pbmcuc3lzdGVtcyUyRnBvc3RzJTJGbGxtLW1lbW9yeS1wcm9ncmFtLWFuYWx5c2lzJTJGJTdDaHR0cHMlM0ElMkYlMkZwd25pbmcuc3lzdGVtcyUyRnBvc3RzJTJGbGxtLW1lbW9yeS1wcm9ncmFtLWFuYWx5c2lzJTJGJTdDSSUyMGFjY2lkZW50YWxseSUyMHR1cm5lZCUyMExMTSUyMG1lbW9yeSUyMGludG8lMjBwcm9ncmFtJTIwYW5hbHlzaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ4NTQxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI4JTIwQXVnJTIwMjAyNiUyMDIzJTNBMjclM0E0NSUyMCUyQjAwMDA",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "pubDate": "Fri, 28 Aug 2026 23:27:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTGFrcjIzMyUyRnZwaG9uZS1jbGklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZMYWtyMjMzJTJGdnBob25lLWNsaSU3Q0Jvb3QlMjBhJTIwVmlydHVhbCUyMGlQaG9uZSUyMHZpYSUyMEFwcGxlJ3MlMjBWaXJ0dWFsaXphdGlvbi5mcmFtZXdvcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ4NTI2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI4JTIwQXVnJTIwMjAyNiUyMDIzJTNBMDIlM0EyMSUyMCUyQjAwMDA",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "pubDate": "Fri, 28 Aug 2026 23:02:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncm92ZXJsYWIub3JnJTJGaG5iZnByJTJGMjAyNi0wOC0yNi1haS1jb3VudGVyZmVpdC1jb3NtZXRpY3MuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZ3JvdmVybGFiLm9yZyUyRmhuYmZwciUyRjIwMjYtMDgtMjYtYWktY291bnRlcmZlaXQtY29zbWV0aWNzLmh0bWwlN0NJZGVudGlmeWluZyUyMGZha2UlMjBjb3NtZXRpY3MlMjB1c2luZyUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0ODQ5MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyOCUyMEF1ZyUyMDIwMjYlMjAyMiUzQTE4JTNBMjclMjAlMkIwMDAw",
+      "title": "Identifying fake cosmetics using AI",
+      "pubDate": "Fri, 28 Aug 2026 22:18:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3NuZXdzLmNvbSUyRnN0b3J5JTJGMTQ1ODgzJTJGZWFzeWVmZmVjdHMtc2hvdWxkLWJlLXBhcnQtb2YtZXZlcnktbGludXgtZGlzdHJpYnV0aW9uLWFuZC1kZXNrdG9wLWVudmlyb25tZW50LXRvLW1hc3NpdmVseS1pbXByb3ZlLWxhcHRvcC1zcGVha2VyLXNvdW5kLXF1YWxpdHklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5vc25ld3MuY29tJTJGc3RvcnklMkYxNDU4ODMlMkZlYXN5ZWZmZWN0cy1zaG91bGQtYmUtcGFydC1vZi1ldmVyeS1saW51eC1kaXN0cmlidXRpb24tYW5kLWRlc2t0b3AtZW52aXJvbm1lbnQtdG8tbWFzc2l2ZWx5LWltcHJvdmUtbGFwdG9wLXNwZWFrZXItc291bmQtcXVhbGl0eSUyRiU3Q0Vhc3lFZmZlY3RzJTIwY2FuJTIwaW1wcm92ZSUyMGxhcHRvcCUyMHNwZWFrZXIlMjBzb3VuZCUyMHF1YWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ3OTkyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI4JTIwQXVnJTIwMjAyNiUyMDE1JTNBMjMlM0ExMCUyMCUyQjAwMDA",
+      "title": "EasyEffects can improve laptop speaker sound quality",
+      "pubDate": "Fri, 28 Aug 2026 15:23:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
     }
   ]

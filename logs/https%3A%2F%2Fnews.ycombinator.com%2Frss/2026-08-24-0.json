@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 60,
-    "generatedAt": "2026-08-28T20:14:22.097Z"
+    "itemCount": 64,
+    "generatedAt": "2026-08-29T07:10:47.522Z"
   },
   "items": [
     {
@@ -366,6 +366,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZib3l0ZXIub3JnJTJGcG9zdHMlMkZzbG9jLWNsb2MtY29kZS1ob3RzcG90cy1maW5kaW5nLWZpbGVzLXRoYXQtbmVlZC1hdHRlbnRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmJveXRlci5vcmclMkZwb3N0cyUyRnNsb2MtY2xvYy1jb2RlLWhvdHNwb3RzLWZpbmRpbmctZmlsZXMtdGhhdC1uZWVkLWF0dGVudGlvbiUyRiU3Q1Nsb2MlMjBDbG9jJTIwYW5kJTIwQ29kZSUyMDQuMCUyMChzY2MpJTIwJUUyJTgwJTkzJTIwRmluZGluZyUyMHRoZSUyMGZpbGVzJTIwdGhhdCUyMG5lZWQlMjB0aGUlMjBtb3N0JTIwYXR0ZW50aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTU5MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAwNiUzQTM1JTNBNTAlMjAlMkIwMDAw",
       "title": "Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention",
       "pubDate": "Mon, 24 Aug 2026 06:35:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb252ZXJzYXRpb24uY29tJTJGaG93LXF1ZWVuLWNhcm9saW5lLXR1cm5lZC1raW5nLWFydGh1ci1pbnRvLWFuLTE4dGgtY2VudHVyeS1yb3lhbC1wci1zdHJhdGVneS0yODgyNDQlN0NodHRwcyUzQSUyRiUyRnRoZWNvbnZlcnNhdGlvbi5jb20lMkZob3ctcXVlZW4tY2Fyb2xpbmUtdHVybmVkLWtpbmctYXJ0aHVyLWludG8tYW4tMTh0aC1jZW50dXJ5LXJveWFsLXByLXN0cmF0ZWd5LTI4ODI0NCU3Q1F1ZWVuJTIwQ2Fyb2xpbmUlMjB0dXJuZWQlMjBLaW5nJTIwQXJ0aHVyJTIwaW50byUyMGFuJTIwMThDJTIwcm95YWwlMjBQUiUyMHN0cmF0ZWd5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjIzOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxNiUzQTQxJTNBMjYlMjAlMkIwMDAw",
+      "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+      "pubDate": "Mon, 24 Aug 2026 16:41:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb21ldGltZXMuZGlnaXRhbCUyRnBvc3RzJTJGZXhwZXJpbWVudHMtd2l0aC1wbG90dGVyLWFydCUyRiU3Q2h0dHBzJTNBJTJGJTJGc29tZXRpbWVzLmRpZ2l0YWwlMkZwb3N0cyUyRmV4cGVyaW1lbnRzLXdpdGgtcGxvdHRlci1hcnQlMkYlN0NFeHBlcmltZW50cyUyMHdpdGglMjBQbG90dGVyJTIwQXJ0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTk0MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTIxJTNBNTYlMjAlMkIwMDAw",
+      "title": "Experiments with Plotter Art",
+      "pubDate": "Mon, 24 Aug 2026 13:21:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA4JTJGcmV2aWV3LWNodXdpcy00NDktdW5pYm9vay1sYXB0b3AtaXMtYS1mdW5ob3VzZS1taXJyb3ItbWFjYm9vay1uZW8lMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmdhZGdldHMlMkYyMDI2JTJGMDglMkZyZXZpZXctY2h1d2lzLTQ0OS11bmlib29rLWxhcHRvcC1pcy1hLWZ1bmhvdXNlLW1pcnJvci1tYWNib29rLW5lbyUyRiU3Q1JldmlldyUzQSUyMENodXdpJ3MlMjAlMjQ0NDklMjBVbmlib29rJTIwbGFwdG9wJTIwaXMlMjBhJTIwZnVuaG91c2UtbWlycm9yJTIwTWFjQm9vayUyME5lbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDE4ODEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTIlM0EzMCUzQTU3JTIwJTJCMDAwMA",
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "pubDate": "Mon, 24 Aug 2026 12:30:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb256by5jb20lMkZibG9nJTJGdG9sZXJhdGluZy1mdWxsLWNsb3VkLW91dGFnZXMtd2l0aC1tb256by1zdGFuZC1pbiU3Q2h0dHBzJTNBJTJGJTJGbW9uem8uY29tJTJGYmxvZyUyRnRvbGVyYXRpbmctZnVsbC1jbG91ZC1vdXRhZ2VzLXdpdGgtbW9uem8tc3RhbmQtaW4lN0NNb256byUyMFN0YW5kLUluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTcyOTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAwOSUzQTMwJTNBMDklMjAlMkIwMDAw",
+      "title": "Monzo Stand-In",
+      "pubDate": "Mon, 24 Aug 2026 09:30:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]
