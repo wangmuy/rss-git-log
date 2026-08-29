@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 64,
-    "generatedAt": "2026-08-29T07:10:47.522Z"
+    "itemCount": 66,
+    "generatedAt": "2026-08-29T13:52:37.649Z"
   },
   "items": [
     {
@@ -390,6 +390,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtb256by5jb20lMkZibG9nJTJGdG9sZXJhdGluZy1mdWxsLWNsb3VkLW91dGFnZXMtd2l0aC1tb256by1zdGFuZC1pbiU3Q2h0dHBzJTNBJTJGJTJGbW9uem8uY29tJTJGYmxvZyUyRnRvbGVyYXRpbmctZnVsbC1jbG91ZC1vdXRhZ2VzLXdpdGgtbW9uem8tc3RhbmQtaW4lN0NNb256byUyMFN0YW5kLUluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTcyOTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAwOSUzQTMwJTNBMDklMjAlMkIwMDAw",
       "title": "Monzo Stand-In",
       "pubDate": "Mon, 24 Aug 2026 09:30:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkdsYWNpZXJfbWljZSU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZHbGFjaWVyX21pY2UlN0NHbGFjaWVyJTIwTWljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI0MzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMTglM0E1OCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Glacier Mice",
+      "pubDate": "Mon, 24 Aug 2026 18:58:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYWxheGl1bS5hcHAlN0NodHRwcyUzQSUyRiUyRmdhbGF4aXVtLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMEdhbGF4aXVtJTJDJTIwYW4lMjBleHBlcmltZW50YWwlMjBXZWJHUFUlMjBzcGFjZSUyMGV4cGxvcmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjA1MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTQ0JTNBMjAlMjAlMkIwMDAw",
+      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "pubDate": "Mon, 24 Aug 2026 14:44:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]

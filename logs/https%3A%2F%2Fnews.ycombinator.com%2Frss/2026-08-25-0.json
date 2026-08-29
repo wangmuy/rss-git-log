@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-25",
     "newestItemDate": "2026-08-25",
-    "itemCount": 49,
-    "generatedAt": "2026-08-29T07:10:47.522Z"
+    "itemCount": 51,
+    "generatedAt": "2026-08-29T13:52:37.648Z"
   },
   "items": [
     {
@@ -300,6 +300,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGaGlzdG9yeSUyRnRoaXMtYm94LW9mLTMwMC1sb3ZlLWxldHRlcnMtc2hvd2VkLXVwLW91dC1vZi10aGUtYmx1ZS13aG8td2FzLXRoZS13aGltc2ljYWwtd29ybGQtd2FyLWlpLXNvbGRpZXItd2hvLXdyb3RlLXRoZW0tMTgwOTg5MzAwJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGaGlzdG9yeSUyRnRoaXMtYm94LW9mLTMwMC1sb3ZlLWxldHRlcnMtc2hvd2VkLXVwLW91dC1vZi10aGUtYmx1ZS13aG8td2FzLXRoZS13aGltc2ljYWwtd29ybGQtd2FyLWlpLXNvbGRpZXItd2hvLXdyb3RlLXRoZW0tMTgwOTg5MzAwJTJGJTdDQm94JTIwb2YlMjAzMDAlMjBMb3ZlJTIwTGV0dGVycyUyMFNob3dlZCUyMFVwJTJDJTIwV2hhdCUyMFdoaW1zaWNhbCUyMFdXSUklMjBTb2xkaWVyJTIwV2hvJTIwV3JvdGUlMjBUaGVtJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MjgzNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNSUyMEF1ZyUyMDIwMjYlMjAwMiUzQTE3JTNBMTklMjAlMkIwMDAw",
       "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
       "pubDate": "Tue, 25 Aug 2026 02:17:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLnB5dGhvbi5vcmclMkYzLjE2JTJGbGlicmFyeSUyRnRpbWUtY29tcGxleGl0eS5odG1sJTdDaHR0cHMlM0ElMkYlMkZkb2NzLnB5dGhvbi5vcmclMkYzLjE2JTJGbGlicmFyeSUyRnRpbWUtY29tcGxleGl0eS5odG1sJTdDVGltZSUyMGNvbXBsZXhpdHklMjBvZiUyMG9wZXJhdGlvbnMlMjBvbiUyMFB5dGhvbidzJTIwYnVpbHQtaW4lMjB0eXBlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDM1NTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTUlM0ExNSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Time complexity of operations on Python's built-in types",
+      "pubDate": "Tue, 25 Aug 2026 15:15:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXZlb25saW5lLmNvbSUyRm5ld3MlMkZ2aWV3JTJGdGhlLW1vdmUtdG8tcHl0aG9uLTMtYmVnaW5zJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZXZlb25saW5lLmNvbSUyRm5ld3MlMkZ2aWV3JTJGdGhlLW1vdmUtdG8tcHl0aG9uLTMtYmVnaW5zJTdDRVZFJTIwT25saW5lJTIwbW92ZXMlMjB0byUyMFB5dGhvbiUyMDMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzMzMyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDEzJTNBMDQlM0E1NSUyMCUyQjAwMDA",
+      "title": "EVE Online moves to Python 3",
+      "pubDate": "Tue, 25 Aug 2026 13:04:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-26",
     "newestItemDate": "2026-08-26",
-    "itemCount": 55,
-    "generatedAt": "2026-08-29T07:10:47.521Z"
+    "itemCount": 56,
+    "generatedAt": "2026-08-29T13:52:37.648Z"
   },
   "items": [
     {
@@ -336,6 +336,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwYXJvd296b3duaWF3b2xzenR5bi5wbCUyRiUzRnBhZ2VfaWQlM0QyMTQxJTdDaHR0cHMlM0ElMkYlMkZwYXJvd296b3duaWF3b2xzenR5bi5wbCUyRiUzRnBhZ2VfaWQlM0QyMTQxJTdDRXVyb3BlJ3MlMjBsYXN0JTIwcmVndWxhciUyMHN0YW5kYXJkLWdhdWdlJTIwc3RlYW0lMjBwYXNzZW5nZXIlMjBzZXJ2aWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTY4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAyMiUzQTMyJTNBMDAlMjAlMkIwMDAw",
       "title": "Europe's last regular standard-gauge steam passenger service",
       "pubDate": "Wed, 26 Aug 2026 22:32:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdtYS1zdGFyLmF0JTJGYmxvZyUyRjIwMjYlMkYwOCUyRmdvLXJ1bnRpbWUtbmV0cG9sbC1idWclMkYlN0NodHRwcyUzQSUyRiUyRnNpZ21hLXN0YXIuYXQlMkZibG9nJTJGMjAyNiUyRjA4JTJGZ28tcnVudGltZS1uZXRwb2xsLWJ1ZyUyRiU3Q0h1bnRpbmclMjBEb3duJTIwYSUyMEdvJTIwUnVudGltZSUyMEJ1ZyUyMG9uJTIwMzItQml0JTIwRW1iZWRkZWQlMjBTeXN0ZW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NTA3ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxNSUzQTIyJTNBNDglMjAlMkIwMDAw",
+      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "pubDate": "Wed, 26 Aug 2026 15:22:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
     }
   ]
