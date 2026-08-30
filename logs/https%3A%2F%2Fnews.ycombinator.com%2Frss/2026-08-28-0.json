@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-28",
     "newestItemDate": "2026-08-28",
-    "itemCount": 34,
-    "generatedAt": "2026-08-30T05:31:33.922Z"
+    "itemCount": 35,
+    "generatedAt": "2026-08-30T19:21:10.737Z"
   },
   "items": [
     {
@@ -210,6 +210,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRmRheWNhcmUtcHNldWRvc2NpZW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd29ya3NpbnByb2dyZXNzLmNvJTJGaXNzdWUlMkZkYXljYXJlLXBzZXVkb3NjaWVuY2UlMkYlN0NEYXljYXJlJTIwUHNldWRvc2NpZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDc3Njk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjglMjBBdWclMjAyMDI2JTIwMTIlM0E0MiUzQTAyJTIwJTJCMDAwMA",
       "title": "Daycare Pseudoscience",
       "pubDate": "Fri, 28 Aug 2026 12:42:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhpbHJlZXMuY28udWslMkZhcnRpY2xlcyUyRnRpbWVjb2RlLmh0bSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBoaWxyZWVzLmNvLnVrJTJGYXJ0aWNsZXMlMkZ0aW1lY29kZS5odG0lN0NTeW5jaHJvbmlzYXRpb24lMjBhbmQlMjBTTVBURSUyMHRpbWVjb2RlJTIwKHRpbWUlMjBjb2RlKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDc0NTE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjglMjBBdWclMjAyMDI2JTIwMDQlM0E1OCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Synchronisation and SMPTE timecode (time code)",
+      "pubDate": "Fri, 28 Aug 2026 04:58:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
     }
   ]

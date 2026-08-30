@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-27",
     "newestItemDate": "2026-08-27",
-    "itemCount": 36,
-    "generatedAt": "2026-08-30T13:50:46.634Z"
+    "itemCount": 39,
+    "generatedAt": "2026-08-30T19:21:10.737Z"
   },
   "items": [
     {
@@ -222,6 +222,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RocGo2cjZDakpmOCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEaHBqNnI2Q2pKZjglN0NDYXNleSUyME11cmF0b3JpJTIwJUUyJTgwJTkzJTIwVGhlJTIwUm9vdCUyMG9mJTIwdGhlJTIwUm9vdCUyMG9mJTIwQWxsJTIwRXZpbCUyMCVFMiU4MCU5MyUyMEJTQyUyMDIwMjYlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDYzODg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjclMjBBdWclMjAyMDI2JTIwMTIlM0E0MCUzQTQzJTIwJTJCMDAwMA",
       "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
       "pubDate": "Thu, 27 Aug 2026 12:40:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYWJhcmFnb3lhLmNvbSUyRnByb2R1Y3RzJTJGc3Rvcm0tc3VtbW9uZXIlN0NodHRwcyUzQSUyRiUyRmthYmFyYWdveWEuY29tJTJGcHJvZHVjdHMlMkZzdG9ybS1zdW1tb25lciU3Q1N0b3JtJTIwU3VtbW9uZXIlMkMlMjBhJTIwTUlESSUyMGNvbnRyb2xsZXIlMjBmb3IlMjBlZmZlY3RzJTIwcGVkYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NzE2MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNyUyMEF1ZyUyMDIwMjYlMjAyMSUzQTM4JTNBMjclMjAlMkIwMDAw",
+      "title": "Storm Summoner, a MIDI controller for effects pedals",
+      "pubDate": "Thu, 27 Aug 2026 21:38:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ290bzEwcmV0cm8uY29tJTJGcCUyRmRhZHMtY3VzdG9tLWF0YXJpLXBlcmlwaGVyYWxzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ290bzEwcmV0cm8uY29tJTJGcCUyRmRhZHMtY3VzdG9tLWF0YXJpLXBlcmlwaGVyYWxzJTdDRGFkJUUyJTgwJTk5cyUyMEN1c3RvbSUyMEF0YXJpJTIwUGVyaXBoZXJhbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ2ODEyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI3JTIwQXVnJTIwMjAyNiUyMDE3JTNBMjAlM0EyMSUyMCUyQjAwMDA",
+      "title": "Dad’s Custom Atari Peripherals",
+      "pubDate": "Thu, 27 Aug 2026 17:20:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW50aWZpY2FtZXJpY2FuLmNvbSUyRmFydGljbGUlMkZlbGVjdHJpYy1yYWluLWNhbi1lYXQtdGhyb3VnaC1tZXRhbCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20lMkZhcnRpY2xlJTJGZWxlY3RyaWMtcmFpbi1jYW4tZWF0LXRocm91Z2gtbWV0YWwlMkYlN0NFbGVjdHJpYyUyMHJhaW4lMjBjYW4lMjBlYXQlMjB0aHJvdWdoJTIwbWV0YWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ2MzM5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI3JTIwQXVnJTIwMjAyNiUyMDEyJTNBMDQlM0ExMSUyMCUyQjAwMDA",
+      "title": "Electric rain can eat through metal",
+      "pubDate": "Thu, 27 Aug 2026 12:04:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
     }
   ]

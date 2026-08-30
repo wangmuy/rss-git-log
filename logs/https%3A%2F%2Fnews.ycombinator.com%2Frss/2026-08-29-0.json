@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-29",
     "newestItemDate": "2026-08-29",
-    "itemCount": 22,
-    "generatedAt": "2026-08-30T05:31:33.922Z"
+    "itemCount": 24,
+    "generatedAt": "2026-08-30T19:21:10.737Z"
   },
   "items": [
     {
@@ -138,6 +138,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGMTAuMTE0NSUyRjM4MzA0MzguMzgzMDk1OCU3Q2h0dHBzJTNBJTJGJTJGZGwuYWNtLm9yZyUyRmRvaSUyRjEwLjExNDUlMkYzODMwNDM4LjM4MzA5NTglN0NGdW5jdGlvbmFsJTIwU3RhdGUlMjBNYWNoaW5lcyUyMGluJTIwUnVzdCUzQSUyMFR5cGVzdGF0ZSUyMGFuZCUyME5ld3R5cGUlMjBQYXR0ZXJucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDkyMzY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjklMjBBdWclMjAyMDI2JTIwMTklM0EwMSUzQTA5JTIwJTJCMDAwMA",
       "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
       "pubDate": "Sat, 29 Aug 2026 19:01:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZW9wbGUua2VybmVsLm9yZyUyRm1vbnNpZXVyaWNvbiUyRmNyZWVweS1jcmF3bGllcyU3Q2h0dHBzJTNBJTJGJTJGcGVvcGxlLmtlcm5lbC5vcmclMkZtb25zaWV1cmljb24lMkZjcmVlcHktY3Jhd2xpZXMlN0NDcmVlcHklMjBDcmF3bGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDkxNzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjklMjBBdWclMjAyMDI2JTIwMTclM0E0OSUzQTAxJTIwJTJCMDAwMA",
+      "title": "Creepy Crawlies",
+      "pubDate": "Sat, 29 Aug 2026 17:49:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc21hcnQtbmV3cyUyRndoZW4tZnJ1aXQtaXMtc2NhcmNlLXRoZXNlLW1vbmtleXMtaHVudC1hbmltYWxzLXRoZS1iZWhhdmlvci1tYXktb2ZmZXItY2x1ZXMtYWJvdXQtdGhlLW9yaWdpbnMtb2YtaHVtYW5zLW1lYXQtZWF0aW5nLWhhYml0cy0xODA5ODk0MTIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZzbWFydC1uZXdzJTJGd2hlbi1mcnVpdC1pcy1zY2FyY2UtdGhlc2UtbW9ua2V5cy1odW50LWFuaW1hbHMtdGhlLWJlaGF2aW9yLW1heS1vZmZlci1jbHVlcy1hYm91dC10aGUtb3JpZ2lucy1vZi1odW1hbnMtbWVhdC1lYXRpbmctaGFiaXRzLTE4MDk4OTQxMiUyRiU3Q1doZW4lMjBmcnVpdCUyMGlzJTIwc2NhcmNlJTJDJTIwdGhlc2UlMjBtb25rZXlzJTIwaHVudCUyMGFuaW1hbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ4OTI3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI5JTIwQXVnJTIwMjAyNiUyMDEyJTNBMTQlM0ExOCUyMCUyQjAwMDA",
+      "title": "When fruit is scarce, these monkeys hunt animals",
+      "pubDate": "Sat, 29 Aug 2026 12:14:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-29-0.json"
     }
   ]

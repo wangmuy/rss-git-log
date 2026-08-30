@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-30",
     "newestItemDate": "2026-08-30",
-    "itemCount": 17,
-    "generatedAt": "2026-08-30T13:50:46.634Z"
+    "itemCount": 28,
+    "generatedAt": "2026-08-30T19:21:10.737Z"
   },
   "items": [
     {
@@ -108,6 +108,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGaG90LWNoaXBzLTIwMjYteGNlbmEtYW5kLXNhbXN1bmdzJTdDaHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGaG90LWNoaXBzLTIwMjYteGNlbmEtYW5kLXNhbXN1bmdzJTdDWGNlbmElMjBhbmQlMjBTYW1zdW5nJ3MlMjBOZWFyJTIwTWVtb3J5JTIwQ29tcHV0ZSUyMENYTCUyMERldmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk2NTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMDclM0EzNSUzQTQxJTIwJTJCMDAwMA",
       "title": "Xcena and Samsung's Near Memory Compute CXL Device",
       "pubDate": "Sun, 30 Aug 2026 07:35:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGS29kZU11bmtpZSUyRnNtNzUwaGRtaWZiJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGS29kZU11bmtpZSUyRnNtNzUwaGRtaWZiJTdDV2h5JTIwb3BlbiUyMHNvdXJjZSUyMHJvY2tzJTIwJUUyJTgwJTkzJTIwYSUyMG5ldyUyMFNNNzUwJTIwKFNpbGljb24lMjBNb3Rpb24lMjBHUFUpJTIwSERNSSUyMERyaXZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTAxNjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTglM0E0OSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "pubDate": "Sun, 30 Aug 2026 18:49:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucnVuLmRldiUyRmJsb2clMkZsaXRlc3RyZWFtJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVucnVuLmRldiUyRmJsb2clMkZsaXRlc3RyZWFtJTJGJTdDUnVubmluZyUyMFNRTGl0ZSUyMEFwcHMlMjBvbiUyMERvY2tlciUyMGFuZCUyMEt1YmVybmV0ZXMlMjB3aXRoJTIwTGl0ZXN0cmVhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTAxMTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTglM0EwNSUzQTA2JTIwJTJCMDAwMA",
+      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "pubDate": "Sun, 30 Aug 2026 18:05:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXJ0aWUuY29tJTJGY2FyZWVycyUzRmFzaGJ5X2ppZCUzRGU4N2I4NGQyLTc4YjMtNDFhMy05MzdhLTQ3ZTgzNjQzY2RmMSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFydGllLmNvbSUyRmNhcmVlcnMlM0Zhc2hieV9qaWQlM0RlODdiODRkMi03OGIzLTQxYTMtOTM3YS00N2U4MzY0M2NkZjElN0NBcnRpZSUyMChZQyUyMFMyMyklMjBJcyUyMEhpcmluZyUyMFRlY2huaWNhbCUyMEFFUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTAwNDcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTclM0EwMSUzQTU2JTIwJTJCMDAwMA",
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "pubDate": "Sun, 30 Aug 2026 17:01:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb21vcm9za2UuY29tJTJGc2xpbWUtbW9sZCUyRiU3Q2h0dHBzJTNBJTJGJTJGa29tb3Jvc2tlLmNvbSUyRnNsaW1lLW1vbGQlMkYlN0NDb29yZGluYXRpb24lMjBIZWFkd2luZCUzQSUyMEhvdyUyME9yZ2FuaXphdGlvbnMlMjBBcmUlMjBMaWtlJTIwU2xpbWUlMjBNb2xkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk5ODkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTYlM0EwMyUzQTE3JTIwJTJCMDAwMA",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "pubDate": "Sun, 30 Aug 2026 16:03:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFpa3Utb3Mub3JnJTJGbmV3cyUyRjIwMjYtMDgtMjZfaGFpa3VfcjFfYmV0YTYlN0NodHRwcyUzQSUyRiUyRnd3dy5oYWlrdS1vcy5vcmclMkZuZXdzJTJGMjAyNi0wOC0yNl9oYWlrdV9yMV9iZXRhNiU3Q0hhaWt1JTIwUjElMkZiZXRhNiUyMGhhcyUyMGJlZW4lMjByZWxlYXNlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk5ODY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTYlM0EwMSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Haiku R1/beta6 has been released",
+      "pubDate": "Sun, 30 Aug 2026 16:01:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYweGNjLmlvJTJGcG9zdHMlMkZvbWFyY2h5LXJvb3QtY3JlZHMlMkYlN0NodHRwcyUzQSUyRiUyRjB4Y2MuaW8lMkZwb3N0cyUyRm9tYXJjaHktcm9vdC1jcmVkcyUyRiU3Q09tYXJjaHklM0ElMjBBbnklMjBVc2VyJTIwUHJvY2VzcyUyMENhbiUyMEVzY2FsYXRlJTIwdG8lMjBSb290JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTk4NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTU5JTNBNDklMjAlMkIwMDAw",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "pubDate": "Sun, 30 Aug 2026 15:59:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWNsYWltdGhlbmV0Lm9yZyUyRmV1LXByb3RlY3RldS1zdHJhdGVneS1lbmNyeXB0aW9uLWJhY2tkb29yLWxhdy1lbmZvcmNlbWVudCU3Q2h0dHBzJTNBJTJGJTJGcmVjbGFpbXRoZW5ldC5vcmclMkZldS1wcm90ZWN0ZXUtc3RyYXRlZ3ktZW5jcnlwdGlvbi1iYWNrZG9vci1sYXctZW5mb3JjZW1lbnQlN0NFdXJvcGVhbiUyMENvbW1pc3Npb24lMjBSZXZpdmVzJTIwUHVzaCUyMGZvciUyMEVuY3J5cHRpb24lMjBCYWNrZG9vcnMlMjBpbiUyMFByb3RlY3RFVSUyMFN0cmF0ZWd5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTkzOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAxNSUzQTEyJTNBNDAlMjAlMkIwMDAw",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "pubDate": "Sun, 30 Aug 2026 15:12:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6aWdsYW5nLm9yZyUyRmRldmxvZyUyRjIwMjYlMkYlMjMyMDI2LTA4LTI3JTdDaHR0cHMlM0ElMkYlMkZ6aWdsYW5nLm9yZyUyRmRldmxvZyUyRjIwMjYlMkYlMjMyMDI2LTA4LTI3JTdDWmlnJTNBJTIwUG9pbnRlciUyMFN0YWJpbGl0eSUyMGZvciUyMEFycmF5TGlzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5OTA5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDE0JTNBNDElM0E1MyUyMCUyQjAwMDA",
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "pubDate": "Sun, 30 Aug 2026 14:41:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYwOCUyRjI5JTJGZXVyb3BlLXN1bW1lci1kcm91Z2h0LWRlc2VydGlmaWNhdGlvbi10aHJlYXQtcml2ZXJzLWZpc2glMkYlN0NodHRwcyUzQSUyRiUyRmZvcnR1bmUuY29tJTJGMjAyNiUyRjA4JTJGMjklMkZldXJvcGUtc3VtbWVyLWRyb3VnaHQtZGVzZXJ0aWZpY2F0aW9uLXRocmVhdC1yaXZlcnMtZmlzaCUyRiU3Q0V1cm9wZSdzJTIwc3VtbWVyJTIwZHJvdWdodCUyMGlzJTIwc28lMjBleHRyZW1lJTIwdGhhdCUyMGRlc2VydGlmaWNhdGlvbiUyMGlzJTIwYSUyMGdyb3dpbmclMjB0aHJlYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5ODk3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDE0JTNBMjklM0EyNSUyMCUyQjAwMDA",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "pubDate": "Sun, 30 Aug 2026 14:29:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV6dmkud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOCUyRjI5JTJGbWV0ci1hbmQtcmVkd29vZC1vZmZlci1ob2x5LXBvc3Rtb3J0ZW0tb2YtdGhlLWh1Z2dpbmdmYWNlLWhhY2slMkYlN0NodHRwcyUzQSUyRiUyRnRoZXp2aS53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMjklMkZtZXRyLWFuZC1yZWR3b29kLW9mZmVyLWhvbHktcG9zdG1vcnRlbS1vZi10aGUtaHVnZ2luZ2ZhY2UtaGFjayUyRiU3Q01FVFIlMjBhbmQlMjBSZWR3b29kJTIwT2ZmZXIlMjBIb2x5JTIwJTI1JTVFJTIwUG9zdG1vcnRlbSUyMG9mJTIwdGhlJTIwSHVnZ2luZ0ZhY2UlMjBIYWNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTg3ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAxNCUzQTA2JTNBNTQlMjAlMkIwMDAw",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "pubDate": "Sun, 30 Aug 2026 14:06:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmx5Yzg1MDMubmV0JTJGZW4lMkZwb3N0JTJGZG40Mi0yLWRuZXQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cubHljODUwMy5uZXQlMkZlbiUyRnBvc3QlMkZkbjQyLTItZG5ldCUyRiU3Q0J1aWxkaW5nJTIwbXklMjBvd24lMjBuZXR3b3JrJTIwc3RhY2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5NzIwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDA5JTNBNTIlM0ExNSUyMCUyQjAwMDA",
+      "title": "Building my own network stack",
+      "pubDate": "Sun, 30 Aug 2026 09:52:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
     }
   ]
