@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-25",
     "newestItemDate": "2026-08-25",
-    "itemCount": 54,
-    "generatedAt": "2026-08-30T05:31:33.922Z"
+    "itemCount": 57,
+    "generatedAt": "2026-08-30T13:50:46.635Z"
   },
   "items": [
     {
@@ -330,6 +330,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubXVwcGV0bGFicy5jb20lMkZ+YnJlYWRib3glMkZzb2Z0d2FyZSUyRnRpbnklMkZ0ZWVuc3kuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm11cHBldGxhYnMuY29tJTJGfmJyZWFkYm94JTJGc29mdHdhcmUlMkZ0aW55JTJGdGVlbnN5Lmh0bWwlN0NDcmVhdGluZyUyMFRlZW5zeSUyMEVMRiUyMEV4ZWN1dGFibGVzJTIwZm9yJTIwTGludXglMjAoT3IlMkMlMjAlMjJTaXplJTIwSXMlMjBFdmVyeXRoaW5nJTIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMzNTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTMlM0EyMCUzQTAyJTIwJTJCMDAwMA",
       "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
       "pubDate": "Tue, 25 Aug 2026 13:20:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbXBjb2RlLmNvbSUyRm5vdGVzJTJGb3Jicy1leHBsYWluZWQlN0NodHRwcyUzQSUyRiUyRmFtcGNvZGUuY29tJTJGbm90ZXMlMkZvcmJzLWV4cGxhaW5lZCU3Q09yYnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQzNzExNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI1JTIwQXVnJTIwMjAyNiUyMDE2JTNBNTYlM0ExNSUyMCUyQjAwMDA",
+      "title": "Orbs",
+      "pubDate": "Tue, 25 Aug 2026 16:56:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubXVwcGV0bGFicy5jb20lMkZ+YnJlYWRib3glMkZzb2Z0d2FyZSUyRnRpbnklMkZ0ZWVuc3kuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm11cHBldGxhYnMuY29tJTJGfmJyZWFkYm94JTJGc29mdHdhcmUlMkZ0aW55JTJGdGVlbnN5Lmh0bWwlN0NDcmVhdGluZyUyMFRlZW5zeSUyMEVMRiUyMEV4ZWN1dGFibGVzJTIwZm9yJTIwTGludXglMjAoT3IlMkMlMjAlMjJTaXplJTIwSXMlMjBFdmVyeXRoaW5nJTIyKSUyMCgxOTk5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMzNTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTMlM0EyMCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
+      "pubDate": "Tue, 25 Aug 2026 13:20:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmp1cHl0ZXIub3JnJTJGanVweXRlcmdpcy0wLTE2LW5ldy12aXN1YWxpemF0aW9uLWNhcGFiaWxpdGllcy1jb2xsYWJvcmF0aXZlLXN0b3J5LW1hcHMtYW5kLW1vcmUtMDNlNmI3OGJhY2MwJTdDaHR0cHMlM0ElMkYlMkZibG9nLmp1cHl0ZXIub3JnJTJGanVweXRlcmdpcy0wLTE2LW5ldy12aXN1YWxpemF0aW9uLWNhcGFiaWxpdGllcy1jb2xsYWJvcmF0aXZlLXN0b3J5LW1hcHMtYW5kLW1vcmUtMDNlNmI3OGJhY2MwJTdDSnVweXRlckdJUyUyMDAuMTYlM0ElMjBhJTIwZ3JhbW1hciUyMG9mJTIwZ3JhcGhpY3MlMjBmb3IlMjBtYXBzJTJDJTIwYW5kJTIwY29sbGFib3JhdGl2ZSUyMHN0b3J5JTIwbWFwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMwNzQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDglM0E0MyUzQTQyJTIwJTJCMDAwMA",
+      "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
+      "pubDate": "Tue, 25 Aug 2026 08:43:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
     }
   ]

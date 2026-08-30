@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-30",
     "newestItemDate": "2026-08-30",
-    "itemCount": 6,
-    "generatedAt": "2026-08-30T05:31:33.922Z"
+    "itemCount": 17,
+    "generatedAt": "2026-08-30T13:50:46.634Z"
   },
   "items": [
     {
@@ -42,6 +42,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGYnVnLWJsaW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGYnVnLWJsaW5kJTJGJTdDQnVnJTIwQmxpbmRuZXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTQ1MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAwMCUzQTIxJTNBNDAlMjAlMkIwMDAw",
       "title": "Bug Blindness",
       "pubDate": "Sun, 30 Aug 2026 00:21:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmNsYXVkZS1jb2RlJTJGaXNzdWVzJTJGNjY1MDQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbnRocm9waWNzJTJGY2xhdWRlLWNvZGUlMkZpc3N1ZXMlMkY2NjUwNCU3Q0NsYXVkZSUyMFNlc3Npb24lMjBVUkwlMjBhcHBlbmRlZCUyMHRvJTIwY29tbWl0JTIwbWVzc2FnZXMlMjBhbmQlMjBQUiUyMGRlc2NyaXB0aW9ucyUyMGJ5JTIwZGVmYXVsdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk4MjAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTIlM0E1MCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "pubDate": "Sun, 30 Aug 2026 12:50:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZnVndWUtbGFicyUyRm1vbnR5LWdvJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZnVndWUtbGFicyUyRm1vbnR5LWdvJTdDbW9udHktZ28lM0ElMjBQdXJlLUdvJTIwd3JhcHBlciUyMGZvciUyMFB5ZGFudGljJ3MlMjBNb250eSUyMFB5dGhvbiUyMEludGVycHJldGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTc5MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAxMiUzQTAyJTNBMDklMjAlMkIwMDAw",
+      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+      "pubDate": "Sun, 30 Aug 2026 12:02:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbW9vcmVzLmRldiUyRnBvc3QlMkZhdXRvbWF0aW5nX2ltbWVyc2l2ZV9yZWFkaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZzbW9vcmVzLmRldiUyRnBvc3QlMkZhdXRvbWF0aW5nX2ltbWVyc2l2ZV9yZWFkaW5nJTJGJTdDQXV0b21hdGluZyUyMEltbWVyc2l2ZSUyMFJlYWRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5Nzg1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDExJTNBNDYlM0EyMyUyMCUyQjAwMDA",
+      "title": "Automating Immersive Reading",
+      "pubDate": "Sun, 30 Aug 2026 11:46:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubXVwcGV0bGFicy5jb20lMkZ+YnJlYWRib3glMkZzb2Z0d2FyZSUyRndpbmRvd3MuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm11cHBldGxhYnMuY29tJTJGfmJyZWFkYm94JTJGc29mdHdhcmUlMkZ3aW5kb3dzLmh0bWwlN0NBbiUyMGltcGxlbWVudGF0aW9uJTIwb2YlMjBDb253YXkncyUyMEdhbWUlMjBvZiUyMExpZmUlMjBmb3IlMjBXaW5kb3dzJTIwMy4xeCUyMGFuZCUyMGxhdGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTc4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAxMSUzQTQxJTNBNDAlMjAlMkIwMDAw",
+      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+      "pubDate": "Sun, 30 Aug 2026 11:41:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmVlbmxpZ2h0bmluZy5ldSUyRmRpeSUyRmhhY2tpbmctaWtlYS1mdXJuaXR1cmUlMkYlN0NodHRwcyUzQSUyRiUyRmdyZWVubGlnaHRuaW5nLmV1JTJGZGl5JTJGaGFja2luZy1pa2VhLWZ1cm5pdHVyZSUyRiU3Q0hhY2tpbmclMjBJS0VBJTIwRnVybml0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTc4MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAxMSUzQTM5JTNBNDMlMjAlMkIwMDAw",
+      "title": "Hacking IKEA Furniture",
+      "pubDate": "Sun, 30 Aug 2026 11:39:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWJjLm5ldC5hdSUyRm5ld3MlMkYyMDI2LTA4LTI5JTJGZmFpci13b3JrLWNvbW1pc3Npb24tY29uZGVtbnMtYWktbGVnYWwtYWR2aWNlJTJGMTA3MDg5NzY2JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWJjLm5ldC5hdSUyRm5ld3MlMkYyMDI2LTA4LTI5JTJGZmFpci13b3JrLWNvbW1pc3Npb24tY29uZGVtbnMtYWktbGVnYWwtYWR2aWNlJTJGMTA3MDg5NzY2JTdDRmFpciUyMFdvcmslMjBDb21taXNzaW9uJTIwY29uZGVtbnMlMjAncGxhaW4lMjB3cm9uZyclMjBBSSUyMGxlZ2FsJTIwYWR2aWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTczNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAxMCUzQTIwJTNBMTElMjAlMkIwMDAw",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "pubDate": "Sun, 30 Aug 2026 10:20:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXQuengyYzQuY29tJTJGc3BhcmslMkZhYm91dCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0Lnp4MmM0LmNvbSUyRnNwYXJrJTJGYWJvdXQlMkYlN0NTcGFyayUzQSUyMFNwYXJrbGluZXMlMjBpbiUyMHlvdXIlMjBzaGVsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk3MjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTAlM0EwMiUzQTE2JTIwJTJCMDAwMA",
+      "title": "Spark: Sparklines in your shell",
+      "pubDate": "Sun, 30 Aug 2026 10:02:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc2VjdXJpdHklMkYyMDI2JTJGMDglMkYzMCUyRnR1cm5zLW91dC1icml0cy13b3VsZC1xdWl0ZS1saWtlLXRoZWlyLXByaXZhdGUtbWVzc2FnZXMtdG8tc3RheS1wcml2YXRlJTJGNTI5Mjk5NCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXJlZ2lzdGVyLmNvbSUyRnNlY3VyaXR5JTJGMjAyNiUyRjA4JTJGMzAlMkZ0dXJucy1vdXQtYnJpdHMtd291bGQtcXVpdGUtbGlrZS10aGVpci1wcml2YXRlLW1lc3NhZ2VzLXRvLXN0YXktcHJpdmF0ZSUyRjUyOTI5OTQlN0NCcml0cyUyMHdvdWxkJTIwcXVpdGUlMjBsaWtlJTIwdGhlaXIlMjBwcml2YXRlJTIwbWVzc2FnZXMlMjB0byUyMHN0YXklMjBwcml2YXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0OTcwNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAwOSUzQTI2JTNBMDglMjAlMkIwMDAw",
+      "title": "Brits would quite like their private messages to stay private",
+      "pubDate": "Sun, 30 Aug 2026 09:26:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXViZXMtb3Mub3JnJTJGbmV3cyUyRjIwMjYlMkYwOCUyRjI5JTJGcXNiLTExOCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YmVzLW9zLm9yZyUyRm5ld3MlMkYyMDI2JTJGMDglMkYyOSUyRnFzYi0xMTglMkYlN0NBcmJpdHJhcnklMjBjb2RlJTIwZXhlY3V0aW9uJTIwaW4lMjBRdWJlc09TJTIwdmlhJTIwY29weS10by1WTSUyMGVycm9yJTIwcmVwb3J0aW5nJTIwYmFja2NoYW5uZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5NjkxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDA4JTNBNTElM0EzOSUyMCUyQjAwMDA",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "pubDate": "Sun, 30 Aug 2026 08:51:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYxODA0LjA3Mzg5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYxODA0LjA3Mzg5JTdDTG9uZ2VzdCUyMFN0cmFpZ2h0JTIwTGluZSUyMFBhdGhzJTIwb24lMjBXYXRlciUyMG9yJTIwTGFuZCUyMG9uJTIwdGhlJTIwRWFydGglMjAoMjAxOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5Njc4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDA4JTNBMjMlM0EyNiUyMCUyQjAwMDA",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "pubDate": "Sun, 30 Aug 2026 08:23:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGaG90LWNoaXBzLTIwMjYteGNlbmEtYW5kLXNhbXN1bmdzJTdDaHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGaG90LWNoaXBzLTIwMjYteGNlbmEtYW5kLXNhbXN1bmdzJTdDWGNlbmElMjBhbmQlMjBTYW1zdW5nJ3MlMjBOZWFyJTIwTWVtb3J5JTIwQ29tcHV0ZSUyMENYTCUyMERldmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk2NTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMDclM0EzNSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+      "pubDate": "Sun, 30 Aug 2026 07:35:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
     }
   ]
