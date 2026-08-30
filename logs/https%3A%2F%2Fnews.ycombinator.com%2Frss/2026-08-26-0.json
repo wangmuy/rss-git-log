@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-26",
     "newestItemDate": "2026-08-26",
-    "itemCount": 57,
-    "generatedAt": "2026-08-29T19:26:07.300Z"
+    "itemCount": 59,
+    "generatedAt": "2026-08-30T05:31:33.922Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlYmFzZS5pbyU3Q2h0dHBzJTNBJTJGJTJGdHlwZWJhc2UuaW8lMkYlN0NTaG93JTIwSE4lM0ElMjBUeXBlYmFzZSUyMCVFMiU4MCU5MyUyMEElMjBzaW5nbGUtZm9sZGVyJTIwYmFjayUyMGVuZCUyMHlvdSUyMHdyaXRlJTIwaW4lMjBUeXBlU2NyaXB0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDcxNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMSUzQTMzJTNBMzElMjAlMkIwMDAw",
       "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
       "pubDate": "Wed, 26 Aug 2026 11:33:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYWZpc2hlci5jb20lMkYyMDI2JTJGMDglMkZzaWdwcmludCU3Q2h0dHBzJTNBJTJGJTJGaWFmaXNoZXIuY29tJTJGMjAyNiUyRjA4JTJGc2lncHJpbnQlN0NJcyUyMGl0JTIwc2FmZSUyMHRvJTIwY2FsbCUyMHByaW50JTIwaW4lMjBhJTIwUHl0aG9uJTIwc2lnbmFsJTIwaGFuZGxlciUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDUwMjQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjYlMjBBdWclMjAyMDI2JTIwMTQlM0E1MyUzQTQxJTIwJTJCMDAwMA",
+      "title": "Is it safe to call print in a Python signal handler?",
+      "pubDate": "Wed, 26 Aug 2026 14:53:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RydWN0Lm5ldCUyRmVuJTJGYmxvZ3MlMkZhc2hsZXlzLWJsb2ctMiUyRnJlY292ZXJpbmctY29ycnVwdC16aXAtZmlsZXMtMTg5NSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cnVjdC5uZXQlMkZlbiUyRmJsb2dzJTJGYXNobGV5cy1ibG9nLTIlMkZyZWNvdmVyaW5nLWNvcnJ1cHQtemlwLWZpbGVzLTE4OTUlN0NSZWNvdmVyaW5nJTIwQ29ycnVwdCUyMFppcCUyMEZpbGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0NDg1ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNiUyMEF1ZyUyMDIwMjYlMjAxMyUzQTE0JTNBNDYlMjAlMkIwMDAw",
+      "title": "Recovering Corrupt Zip Files",
+      "pubDate": "Wed, 26 Aug 2026 13:14:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-24",
     "newestItemDate": "2026-08-24",
-    "itemCount": 70,
-    "generatedAt": "2026-08-29T19:26:07.301Z"
+    "itemCount": 71,
+    "generatedAt": "2026-08-30T05:31:33.923Z"
   },
   "items": [
     {
@@ -426,6 +426,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZldmFuaGFobi5jb20lMkZ1c2VyZ2V0dGluZ2JvcmVkLXZpbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZXZhbmhhaG4uY29tJTJGdXNlcmdldHRpbmdib3JlZC12aW0lMkYlN0NWaW0ncyUyMFVzZXJHZXR0aW5nQm9yZWQlMjBBdXRvY21kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0MTQ4OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNCUyMEF1ZyUyMDIwMjYlMjAwMyUzQTIzJTNBMDclMjAlMkIwMDAw",
       "title": "Vim's UserGettingBored Autocmd",
       "pubDate": "Mon, 24 Aug 2026 03:23:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnB5dGhvbi5vcmclMkYyMDI2JTJGMDglMkZyaXNjdi1ub3ctb2ZmaWNpYWxseS1zdXBwb3J0ZWQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cucHl0aG9uLm9yZyUyRjIwMjYlMkYwOCUyRnJpc2N2LW5vdy1vZmZpY2lhbGx5LXN1cHBvcnRlZCUyRiU3Q1JJU0MtViUyMGlzJTIwbm93JTIwb2ZmaWNpYWxseSUyMHN1cHBvcnRlZCUyMGJ5JTIwQ1B5dGhvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI1MjUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjQlMjBBdWclMjAyMDI2JTIwMjAlM0ExMiUzQTIyJTIwJTJCMDAwMA",
+      "title": "RISC-V is now officially supported by CPython",
+      "pubDate": "Mon, 24 Aug 2026 20:12:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-24-0.json"
     }
   ]

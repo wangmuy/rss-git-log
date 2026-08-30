@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-25",
     "newestItemDate": "2026-08-25",
-    "itemCount": 52,
-    "generatedAt": "2026-08-29T19:26:07.301Z"
+    "itemCount": 54,
+    "generatedAt": "2026-08-30T05:31:33.922Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyMTM2YTEuZGV2JTJGMjAyNiUyRjA4JTJGMjQlMkZzbGVlcHdhbGtlci1hLXBhc3NpdmUtYmFja2Rvb3Itd2l0aC1pdHMtb3duLWNvbW1hbmQtbGFuZ3VhZ2UlMkYlN0NodHRwcyUzQSUyRiUyRnIxMzZhMS5kZXYlMkYyMDI2JTJGMDglMkYyNCUyRnNsZWVwd2Fsa2VyLWEtcGFzc2l2ZS1iYWNrZG9vci13aXRoLWl0cy1vd24tY29tbWFuZC1sYW5ndWFnZSUyRiU3Q1NsZWVwd2Fsa2VyJTNBJTIwUGFzc2l2ZSUyMEJhY2tkb29yJTIwd2l0aCUyMEl0cyUyME93biUyMENvbW1hbmQlMjBMYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDI4NzU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMDMlM0EyNiUzQTA5JTIwJTJCMDAwMA",
       "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
       "pubDate": "Tue, 25 Aug 2026 03:26:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2JpbiUyRmRlZnJhZ2dlciU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmdiaW4lMkZkZWZyYWdnZXIlN0NTaG93JTIwSE4lM0ElMjBJJTIwbWlzc2VkJTIwdGhlJTIwbW92aW5nJTIwYmxvY2tzJTJDJTIwc28lMjBJJTIwYnVpbHQlMjBhJTIwcmVhbCUyMExpbnV4JTIwZGlzayUyMGRlZnJhZ21lbnRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDM4ODY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTglM0E1NyUzQTI3JTIwJTJCMDAwMA",
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "pubDate": "Tue, 25 Aug 2026 18:57:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubXVwcGV0bGFicy5jb20lMkZ+YnJlYWRib3glMkZzb2Z0d2FyZSUyRnRpbnklMkZ0ZWVuc3kuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm11cHBldGxhYnMuY29tJTJGfmJyZWFkYm94JTJGc29mdHdhcmUlMkZ0aW55JTJGdGVlbnN5Lmh0bWwlN0NDcmVhdGluZyUyMFRlZW5zeSUyMEVMRiUyMEV4ZWN1dGFibGVzJTIwZm9yJTIwTGludXglMjAoT3IlMkMlMjAlMjJTaXplJTIwSXMlMjBFdmVyeXRoaW5nJTIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDMzNTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjUlMjBBdWclMjAyMDI2JTIwMTMlM0EyMCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+      "pubDate": "Tue, 25 Aug 2026 13:20:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-25-0.json"
     }
   ]
