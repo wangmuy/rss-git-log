@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-30",
     "newestItemDate": "2026-08-30",
-    "itemCount": 34,
-    "generatedAt": "2026-08-31T05:46:05.615Z"
+    "itemCount": 35,
+    "generatedAt": "2026-08-31T16:13:03.060Z"
   },
   "items": [
     {
@@ -210,6 +210,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaXRhbWFybm92aWNrLmNvbSUyRmludHJvLXRvLXN0YXJ0dXAtYW50aS1wYXR0ZXJuLXNlcmllcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lml0YW1hcm5vdmljay5jb20lMkZpbnRyby10by1zdGFydHVwLWFudGktcGF0dGVybi1zZXJpZXMlMkYlN0NTdGFydHVwJTIwQW50aS1QYXR0ZXJucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk5ODMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTUlM0E1NyUzQTMwJTIwJTJCMDAwMA",
       "title": "Startup Anti-Patterns",
       "pubDate": "Sun, 30 Aug 2026 15:57:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLnJpcGUubmV0JTJGYXV0aG9yJTJGYW5kcmV3X2NhbXBsaW5nJTJGZG5zLWFidXNlLWFuZC1jcmltaW5hbC1pbmZyYXN0cnVjdHVyZS1iZXlvbmQtZGVmaW5pdGlvbnMtYW5kLWJsb2NrbGlzdHMlMkYlN0NodHRwcyUzQSUyRiUyRmxhYnMucmlwZS5uZXQlMkZhdXRob3IlMkZhbmRyZXdfY2FtcGxpbmclMkZkbnMtYWJ1c2UtYW5kLWNyaW1pbmFsLWluZnJhc3RydWN0dXJlLWJleW9uZC1kZWZpbml0aW9ucy1hbmQtYmxvY2tsaXN0cyUyRiU3Q0ROUyUyMEFidXNlJTIwYW5kJTIwQ3JpbWluYWwlMjBJbmZyYXN0cnVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk4OTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTQlM0EzMCUzQTU1JTIwJTJCMDAwMA",
+      "title": "DNS Abuse and Criminal Infrastructure",
+      "pubDate": "Sun, 30 Aug 2026 14:30:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
     }
   ]

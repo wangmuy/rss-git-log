@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 6,
-    "generatedAt": "2026-08-31T05:46:05.615Z"
+    "itemCount": 26,
+    "generatedAt": "2026-08-31T16:13:03.059Z"
   },
   "items": [
     {
@@ -42,6 +42,126 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZBdWclMkYzMCUyRnVuZGVyc3RhbmRpbmctY2hhdGdwdC13b3JrJTJGJTdDaHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZBdWclMkYzMCUyRnVuZGVyc3RhbmRpbmctY2hhdGdwdC13b3JrJTJGJTdDVW5kZXJzdGFuZGluZyUyMENoYXRHUFQlMjBXb3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDQ2MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAwMSUzQTI4JTNBMjIlMjAlMkIwMDAw",
       "title": "Understanding ChatGPT Work",
       "pubDate": "Mon, 31 Aug 2026 01:28:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1c2VhbG1hbmFjLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdXNlYWxtYW5hYy5jb20lMkYlN0NMYXVuY2glMjBITiUzQSUyMEFsbWFuYWMlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwQUklMjB0aGF0JTIwa25vd3MlMjB5b3VyJTIwY29tcGFueSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTExMDA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTUlM0EzNCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "pubDate": "Mon, 31 Aug 2026 15:34:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSGViYmlhbi1Sb2JvdGljcyUyRmhmbG93JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSGViYmlhbi1Sb2JvdGljcyUyRmhmbG93JTdDTGF1bmNoJTIwSE4lM0ElMjBIZWJiaWFuJTIwUm9ib3RpY3MlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwQnVpbGQlMjBzY2FsYWJsZSUyMHJvYm90aWNzJTIwZGF0YSUyMHBpcGVsaW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTEwNjMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTUlM0EwMiUzQTQxJTIwJTJCMDAwMA",
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "pubDate": "Mon, 31 Aug 2026 15:02:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cnVzdGNvbnRyb2xzLmFpJTJGJTdDaHR0cHMlM0ElMkYlMkZ0cnVzdGNvbnRyb2xzLmFpJTJGJTdDQWdlbnRpYyUyMFRydXN0JTIwQ29udHJvbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxMDYxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDE1JTNBMDElM0EwNCUyMCUyQjAwMDA",
+      "title": "Agentic Trust Controls",
+      "pubDate": "Mon, 31 Aug 2026 15:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpZ2d5LmFwYWNoZS5vcmclMkZibG9ncyUyRjIwMjYlMkYwOCUyRjI0JTJGYXBhY2hlLWlnZ3ktdG9wLWxldmVsLXByb2plY3QtdGxwLWdyYWR1YXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmlnZ3kuYXBhY2hlLm9yZyUyRmJsb2dzJTJGMjAyNiUyRjA4JTJGMjQlMkZhcGFjaGUtaWdneS10b3AtbGV2ZWwtcHJvamVjdC10bHAtZ3JhZHVhdGlvbiUyRiU3Q0FwYWNoZSUyMElnZ3klMkMlMjBhJTIwbWVzc2FnZSUyMHN0cmVhbWluZyUyMHBsYXRmb3JtJTIwaW4lMjBSdXN0JTJDJTIwZ3JhZHVhdGVzJTIwdG8lMjBhbiUyMEFwYWNoZSUyMFRMUCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTEwNTQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTQlM0E1NCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
+      "pubDate": "Mon, 31 Aug 2026 14:54:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZrb2JvJTJGY29tbWVudHMlMkYxdzIwYXp2JTJGdGhlX2RvdWJsaW5nX29mX2tvYm9zX3VzX3NhbGVzX2luX2JvdGhfMjAyNV9hbmQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWRkaXQuY29tJTJGciUyRmtvYm8lMkZjb21tZW50cyUyRjF3MjBhenYlMkZ0aGVfZG91Ymxpbmdfb2Zfa29ib3NfdXNfc2FsZXNfaW5fYm90aF8yMDI1X2FuZCUyRiU3Q0RvdWJsaW5nJTIwb2YlMjBLb2JvJ3MlMjBVLlMuJTIwc2FsZXMlMjBpbiUyMGJvdGglMjAyMDI1JTIwYW5kJTIwMjAyNiUyQyUyMDcwJTI1JTIwVVMlMjBmZW1hbGUlMjBjdXN0b21lciUyMGJhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxMDUzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDE0JTNBNTMlM0EzNCUyMCUyQjAwMDA",
+      "title": "Doubling of Kobo's U.S. sales in both 2025 and 2026, 70% US female customer base",
+      "pubDate": "Mon, 31 Aug 2026 14:53:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF5YXBob25lLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGcGxheWFwaG9uZS5jb20lMkYlN0NQbGF5YSUyMFBob25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTA1MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTUyJTNBMjYlMjAlMkIwMDAw",
+      "title": "Playa Phone",
+      "pubDate": "Mon, 31 Aug 2026 14:52:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Bwc3Rvcmllcy5jb20lMkYyMDI2JTJGaGFyZGVuaW5nLWV4cGVyaW1lbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3Bwc3Rvcmllcy5jb20lMkYyMDI2JTJGaGFyZGVuaW5nLWV4cGVyaW1lbnRzJTJGJTdDQyUyQiUyQjI2JTNBJTIwU3RhbmRhcmQlMjBMaWJyYXJ5JTIwSGFyZGVuaW5nJTIwRXhwZXJpbWVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxMDUxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDE0JTNBNTIlM0EyNCUyMCUyQjAwMDA",
+      "title": "C++26: Standard Library Hardening Experiments",
+      "pubDate": "Mon, 31 Aug 2026 14:52:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZW9uLmNvJTJGZXNzYXlzJTJGYXQtdGhlLWhlYXJ0LW9mLXRoZS1zbm93LWxlYXZpcy10d28tY3VsdHVyZXMtY2xhc2glN0NodHRwcyUzQSUyRiUyRmFlb24uY28lMkZlc3NheXMlMkZhdC10aGUtaGVhcnQtb2YtdGhlLXNub3ctbGVhdmlzLXR3by1jdWx0dXJlcy1jbGFzaCU3Q0N1bHR1cmUlMjBDbGFzaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTEwNDg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTQlM0E1MCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Culture Clash",
+      "pubDate": "Mon, 31 Aug 2026 14:50:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZudWFuY2UtZm9yLW1lLW5vbmUtZm9yLXlvdSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qaW0tbmllbHNlbi5jb20lMkYyMDI2JTJGbnVhbmNlLWZvci1tZS1ub25lLWZvci15b3UlMkYlN0NNeSUyMEV4cGVyaWVuY2UlMjBIYXMlMjBOdWFuY2UlMkMlMjBZb3VycyUyMElzJTIwYSUyMERhdGElMjBQb2ludCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTEwMzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTQlM0EzNyUzQTI4JTIwJTJCMDAwMA",
+      "title": "My Experience Has Nuance, Yours Is a Data Point",
+      "pubDate": "Mon, 31 Aug 2026 14:37:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RleC10b29sLXJlZmVyZW5jZS5zaW1vbncuY2hhdGdwdC5zaXRlJTJGJTdDaHR0cHMlM0ElMkYlMkZjb2RleC10b29sLXJlZmVyZW5jZS5zaW1vbncuY2hhdGdwdC5zaXRlJTJGJTdDQ2hhdEdQVCUyMFdvcmslMjBUb29sJTIwYW5kJTIwU2tpbGwlMjBSZWZlcmVuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxMDAwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDE0JTNBMDclM0ExNSUyMCUyQjAwMDA",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "pubDate": "Mon, 31 Aug 2026 14:07:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJ2ZXJib3guc3R1cGlkbGFicy5sb2wlMkYlN0NodHRwcyUzQSUyRiUyRnNlcnZlcmJveC5zdHVwaWRsYWJzLmxvbCUyRiU3Q1Nob3clMjBITiUzQSUyMExpbnV4JTIwc2VydmVyJTIwbWFuYWdlbWVudCUyMG92ZXIlMjBTU0glMjAlRTIlODAlOTMlMjB3cml0dGVuJTIwaW4lMjBSdXN0JTIwYW5kJTIwVGF1cmklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwOTY3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDEzJTNBMzklM0E0MyUyMCUyQjAwMDA",
+      "title": "Show HN: Linux server management over SSH – written in Rust and Tauri",
+      "pubDate": "Mon, 31 Aug 2026 13:39:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxwYXRlcnNvbi5jb20lMkZtZW1vcnlmaWVsZHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGY2FscGF0ZXJzb24uY29tJTJGbWVtb3J5ZmllbGRzLmh0bWwlN0NBZ2VudCUyME1lbW9yeSUyMGFzJTIwYSUyMEZpbGUlMjBGb3JtYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwODMxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDExJTNBMTclM0EyNSUyMCUyQjAwMDA",
+      "title": "Agent Memory as a File Format",
+      "pubDate": "Mon, 31 Aug 2026 11:17:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWR1YmFrb3YubWUlMkZtYWxsZWFibGUtc29mdHdhcmUtc29saWQtYmFzZXMtY3VzdG9tLWNvZGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5tZHViYWtvdi5tZSUyRm1hbGxlYWJsZS1zb2Z0d2FyZS1zb2xpZC1iYXNlcy1jdXN0b20tY29kZSUyRiU3Q01hbGxlYWJsZSUyMHNvZnR3YXJlJTIwJTNEJTIwc29saWQlMjBiYXNlcyUyMGFuZCUyMGN1c3RvbSUyMGNvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwODA1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDEwJTNBMzYlM0E0MyUyMCUyQjAwMDA",
+      "title": "Malleable software = solid bases and custom code",
+      "pubDate": "Mon, 31 Aug 2026 10:36:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnNob3Qub3JnJTJGYmxvZyUyRjIwMjYlMkYwOCUyRjMwJTJGb3BlbnNob3QtNDAtcmVjb3JkLWVkaXQtY29sb3ItbGlrZS1uZXZlci1iZWZvcmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVuc2hvdC5vcmclMkZibG9nJTJGMjAyNiUyRjA4JTJGMzAlMkZvcGVuc2hvdC00MC1yZWNvcmQtZWRpdC1jb2xvci1saWtlLW5ldmVyLWJlZm9yZSUyRiU3Q09wZW5TaG90JTIwNC4wJTNBJTIwUmVjb3JkJTJDJTIwRWRpdCUyQyUyMGFuZCUyMENvbG9yJTIwTGlrZSUyME5ldmVyJTIwQmVmb3JlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDc4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAwOSUzQTU5JTNBMDUlMjAlMkIwMDAw",
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "pubDate": "Mon, 31 Aug 2026 09:59:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb3Zlc2hhbS53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMzAlMkZzdGF0ZS1vZi10aGUtbWFwLTIwMjYtb3BlbnN0cmVldG1hcC1jb25mZXJlbmNlJTJGJTdDaHR0cHMlM0ElMkYlMkZwb3Zlc2hhbS53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMzAlMkZzdGF0ZS1vZi10aGUtbWFwLTIwMjYtb3BlbnN0cmVldG1hcC1jb25mZXJlbmNlJTJGJTdDU3RhdGUlMjBvZiUyMHRoZSUyME1hcCUyMDIwMjYlM0ElMjBPcGVuU3RyZWV0TWFwJTIwY29uZmVyZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA3MjgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMDglM0E1NyUzQTM1JTIwJTJCMDAwMA",
+      "title": "State of the Map 2026: OpenStreetMap conference",
+      "pubDate": "Mon, 31 Aug 2026 08:57:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC51Z2EuZWR1JTJGbmV3cyUyRmJsdWUtbGlnaHQtaGFzLWEtc3VycHJpc2luZy1lZmZlY3Qtb24teW91ci1leWVzLXN0dWR5LWZpbmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXNlYXJjaC51Z2EuZWR1JTJGbmV3cyUyRmJsdWUtbGlnaHQtaGFzLWEtc3VycHJpc2luZy1lZmZlY3Qtb24teW91ci1leWVzLXN0dWR5LWZpbmRzJTJGJTdDU3R1ZHklM0ElMjBCbHVlJTIwbGlnaHQlMjBpbXBhaXJzJTIwdGhlJTIwZXllJ3MlMjBhYmlsaXR5JTIwdG8lMjBkaXN0aW5ndWlzaCUyMGZpbmUlMjBkZXRhaWwlMjBtb3N0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDcxMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAwOCUzQTMzJTNBMDElMjAlMkIwMDAw",
+      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "pubDate": "Mon, 31 Aug 2026 08:33:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFjdG9zLm9yZyUyRnByb2plY3QtbmV3cyUyRnJlYWN0b3MtMDQxNi1yZWxlYXNlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVhY3Rvcy5vcmclMkZwcm9qZWN0LW5ld3MlMkZyZWFjdG9zLTA0MTYtcmVsZWFzZWQlMkYlN0NSZWFjdE9TJTIwMC40LjE2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDY5NzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAwOCUzQTEzJTNBMzclMjAlMkIwMDAw",
+      "title": "ReactOS 0.4.16",
+      "pubDate": "Mon, 31 Aug 2026 08:13:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbWJyYWNldGhlcmVkLmNvbSUyRmJsb2clMkZwb3N0cyUyRjIwMjYlMkZicmVha2luZy1jbGF1ZGUtY29kZS1vcHVzLTUtYW5kLWF1dG9tb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZlbWJyYWNldGhlcmVkLmNvbSUyRmJsb2clMkZwb3N0cyUyRjIwMjYlMkZicmVha2luZy1jbGF1ZGUtY29kZS1vcHVzLTUtYW5kLWF1dG9tb2RlJTJGJTdDQnJlYWtpbmclMjBDbGF1ZGUlMjBDb2RlJTIwT3B1cyUyMDUlMjBBdXRvJTIwTW9kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA2ODE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMDclM0E0OSUzQTE4JTIwJTJCMDAwMA",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "pubDate": "Mon, 31 Aug 2026 07:49:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYW1pbmclMkYyMDI2JTJGMDglMkZhLTEydGItc3RlYW0tdGVyYWxlYWstc3BpbGxzLW1vcmUtdGhhbi1hLWRlY2FkZS1vZi1sb3N0LXBjLWdhbWluZy1oaXN0b3J5JTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYW1pbmclMkYyMDI2JTJGMDglMkZhLTEydGItc3RlYW0tdGVyYWxlYWstc3BpbGxzLW1vcmUtdGhhbi1hLWRlY2FkZS1vZi1sb3N0LXBjLWdhbWluZy1oaXN0b3J5JTJGJTdDQSUyMDEyVEIlMjBTdGVhbSUyMCVFMiU4MCU5Q3RlcmFsZWFrJUUyJTgwJTlEJTIwc3BpbGxzJTIwbW9yZSUyMHRoYW4lMjBhJTIwZGVjYWRlJTIwb2YlMjBsb3N0JTIwUEMlMjBnYW1pbmclMjBoaXN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDYxODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAwNiUzQTEwJTNBNDQlMjAlMkIwMDAw",
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "pubDate": "Mon, 31 Aug 2026 06:10:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXN0cmFsLXNoJTJGdXYlMkZwdWxsJTJGMjEzMjclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhc3RyYWwtc2glMkZ1diUyRnB1bGwlMkYyMTMyNyU3Q3V2JTNBJTIwRGVkdXBsaWNhdGUlMjBhbGwlMjBmaWxlcyUyMGluJTIwdGhlJTIwd2hlZWwlMjBjYWNoZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA2MTQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMDYlM0EwMyUzQTAyJTIwJTJCMDAwMA",
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "pubDate": "Mon, 31 Aug 2026 06:03:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]

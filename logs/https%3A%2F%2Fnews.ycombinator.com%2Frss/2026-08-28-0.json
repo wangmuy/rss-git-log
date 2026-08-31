@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-28",
     "newestItemDate": "2026-08-28",
-    "itemCount": 39,
-    "generatedAt": "2026-08-31T05:46:05.615Z"
+    "itemCount": 40,
+    "generatedAt": "2026-08-31T16:13:03.060Z"
   },
   "items": [
     {
@@ -240,6 +240,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3aWxzb25oYXJwZXIubmV0JTJGcHJvamVjdHMlMkZidXNpbmVzc2NhcmQlMkYlN0NodHRwcyUzQSUyRiUyRndpbHNvbmhhcnBlci5uZXQlMkZwcm9qZWN0cyUyRmJ1c2luZXNzY2FyZCUyRiU3Q1Nob3clMjBITiUzQSUyME5GQyUyMEVuZXJneS1IYXJ2ZXN0aW5nJTIwUENCJTIwQnVzaW5lc3MlMjBDYXJkJTIwd2l0aCUyMGFuJTIwTUNVJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0Nzg0MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyOCUyMEF1ZyUyMDIwMjYlMjAxMyUzQTQ4JTNBMTIlMjAlMkIwMDAw",
       "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
       "pubDate": "Fri, 28 Aug 2026 13:48:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbG93Zy5jbG91ZCUyRmJsb2clMkZ1c2luZy1mbG9jaS1sb2NhbC1lbXVsYXRvcnMlN0NodHRwcyUzQSUyRiUyRmZsb3dnLmNsb3VkJTJGYmxvZyUyRnVzaW5nLWZsb2NpLWxvY2FsLWVtdWxhdG9ycyU3Q1VzaW5nJTIwZmxvY2klMjB0byUyMGVtdWxhdGUlMjBDbG91ZCUyMHBsYXRmb3JtcyUyMChHQ1AlMkMlMjBBV1MlMkMlMjBBenVyZSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ3NTU2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI4JTIwQXVnJTIwMjAyNiUyMDA3JTNBNDElM0E1NyUyMCUyQjAwMDA",
+      "title": "Using floci to emulate Cloud platforms (GCP, AWS, Azure)",
+      "pubDate": "Fri, 28 Aug 2026 07:41:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
     }
   ]
