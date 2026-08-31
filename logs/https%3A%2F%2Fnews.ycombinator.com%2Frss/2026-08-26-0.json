@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-26",
     "newestItemDate": "2026-08-26",
-    "itemCount": 62,
-    "generatedAt": "2026-08-31T05:46:05.616Z"
+    "itemCount": 63,
+    "generatedAt": "2026-08-31T21:30:55.477Z"
   },
   "items": [
     {
@@ -378,6 +378,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZWxtNC5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnJlbG00Lm9yZyUyRiU3Q1JlbG00JTIwbWFrZXMlMjBkZXZlbG9waW5nJTIwYmVhdXRpZnVsJTIwY3Jvc3MtcGxhdGZvcm0lMjBhcHBsaWNhdGlvbnMlMjBpZGlvbWF0aWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ0NjcwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDEwJTNBMzglM0E1NiUyMCUyQjAwMDA",
       "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
       "pubDate": "Wed, 26 Aug 2026 10:38:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYW50c2ZvcmJpcmRzLmNvbSUyRnRoZS13b3JsZHMtc21hbGxlc3QtZHVhbC1iYW5kLWFkcy1iLXJlY2VpdmVyLW1vZHVsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGcGFudHNmb3JiaXJkcy5jb20lMkZ0aGUtd29ybGRzLXNtYWxsZXN0LWR1YWwtYmFuZC1hZHMtYi1yZWNlaXZlci1tb2R1bGUlMkYlN0NTaG93JTIwSE4lM0ElMjBXZSUyMGJ1aWx0JTIwdGhlJTIwc21hbGxlc3QlMjBkdWFsLWJhbmQlMjBhaXJjcmFmdCUyMHRyYWNrZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ1NTU1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI2JTIwQXVnJTIwMjAyNiUyMDIwJTNBMzglM0E0NCUyMCUyQjAwMDA",
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "pubDate": "Wed, 26 Aug 2026 20:38:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-26-0.json"
     }
   ]

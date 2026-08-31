@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-27",
     "newestItemDate": "2026-08-27",
-    "itemCount": 43,
-    "generatedAt": "2026-08-31T16:13:03.060Z"
+    "itemCount": 46,
+    "generatedAt": "2026-08-31T21:30:55.477Z"
   },
   "items": [
     {
@@ -264,6 +264,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzZWFzLmhhcnZhcmQuZWR1JTJGbmV3cyUyRnNtYXJ0cGhvbmUtbmF2aWdhdGlvbi1hcHAtcGVvcGxlLWJsaW5kbmVzcy1hbmQtbG93LXZpc2lvbiU3Q2h0dHBzJTNBJTJGJTJGc2Vhcy5oYXJ2YXJkLmVkdSUyRm5ld3MlMkZzbWFydHBob25lLW5hdmlnYXRpb24tYXBwLXBlb3BsZS1ibGluZG5lc3MtYW5kLWxvdy12aXNpb24lN0NOYXZpZ2F0aW9uJTIwQXBwJTIwZm9yJTIwUGVvcGxlJTIwd2l0aCUyMEJsaW5kbmVzcyUyMGFuZCUyMExvdyUyMFZpc2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDY1NjcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjclMjBBdWclMjAyMDI2JTIwMTQlM0E0MSUzQTE0JTIwJTJCMDAwMA",
       "title": "Navigation App for People with Blindness and Low Vision",
       "pubDate": "Thu, 27 Aug 2026 14:41:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudWxscHQucnMlMkZyZXZlcnNlLWVuZ2luZWVyaW5nLWFkaGQtdGVzdCU3Q2h0dHBzJTNBJTJGJTJGbnVsbHB0LnJzJTJGcmV2ZXJzZS1lbmdpbmVlcmluZy1hZGhkLXRlc3QlN0NSZXZlcnNlJTIwZW5naW5lZXJpbmclMjBteSUyMEFESEQlMjB0ZXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0Njc3MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNyUyMEF1ZyUyMDIwMjYlMjAxNiUzQTQ5JTNBNDAlMjAlMkIwMDAw",
+      "title": "Reverse engineering my ADHD test",
+      "pubDate": "Thu, 27 Aug 2026 16:49:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucm9ja3BhcGVyc2hvdGd1bi5jb20lMkZkd2FyZi1mb3J0cmVzcy1pcy1nZXR0aW5nLXRoZS1tb3RoZXItb2YtYWxsLW1hZ2ljLXVwZGF0ZXMtZXh0ZW5kaW5nLXRvLXRoZS1mdW5kYW1lbnRhbC1jb3Ntb2xvZ2ljYWwtbWFrZXVwLW9mLXRoZS11bml2ZXJzZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJvY2twYXBlcnNob3RndW4uY29tJTJGZHdhcmYtZm9ydHJlc3MtaXMtZ2V0dGluZy10aGUtbW90aGVyLW9mLWFsbC1tYWdpYy11cGRhdGVzLWV4dGVuZGluZy10by10aGUtZnVuZGFtZW50YWwtY29zbW9sb2dpY2FsLW1ha2V1cC1vZi10aGUtdW5pdmVyc2UlN0NEd2FyZiUyMEZvcnRyZXNzJTIwaXMlMjBnZXR0aW5nJTIwdGhlJTIwbW90aGVyJTIwb2YlMjBhbGwlMjBtYWdpYyUyMHVwZGF0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ2NzYzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI3JTIwQXVnJTIwMjAyNiUyMDE2JTNBNDUlM0EyMiUyMCUyQjAwMDA",
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "pubDate": "Thu, 27 Aug 2026 16:45:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZham1wLnV3ci5lZHUucGwlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRnNpdGVzJTJGMzklMkYyMDIzJTJGMTIlMkYxMF9LbGVwYXJza2kucGRmJTdDaHR0cHMlM0ElMkYlMkZham1wLnV3ci5lZHUucGwlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRnNpdGVzJTJGMzklMkYyMDIzJTJGMTIlMkYxMF9LbGVwYXJza2kucGRmJTdDRXVwaGVtaXNhdGlvbiUyMG9mJTIwVGFib28lMjBBcmVhcyUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDY3MjAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjclMjBBdWclMjAyMDI2JTIwMTYlM0ExNCUzQTIzJTIwJTJCMDAwMA",
+      "title": "Euphemisation of Taboo Areas [pdf]",
+      "pubDate": "Thu, 27 Aug 2026 16:14:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
     }
   ]

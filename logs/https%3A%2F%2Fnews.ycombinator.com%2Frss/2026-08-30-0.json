@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-30",
     "newestItemDate": "2026-08-30",
-    "itemCount": 35,
-    "generatedAt": "2026-08-31T16:13:03.060Z"
+    "itemCount": 39,
+    "generatedAt": "2026-08-31T21:30:55.476Z"
   },
   "items": [
     {
@@ -216,6 +216,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLnJpcGUubmV0JTJGYXV0aG9yJTJGYW5kcmV3X2NhbXBsaW5nJTJGZG5zLWFidXNlLWFuZC1jcmltaW5hbC1pbmZyYXN0cnVjdHVyZS1iZXlvbmQtZGVmaW5pdGlvbnMtYW5kLWJsb2NrbGlzdHMlMkYlN0NodHRwcyUzQSUyRiUyRmxhYnMucmlwZS5uZXQlMkZhdXRob3IlMkZhbmRyZXdfY2FtcGxpbmclMkZkbnMtYWJ1c2UtYW5kLWNyaW1pbmFsLWluZnJhc3RydWN0dXJlLWJleW9uZC1kZWZpbml0aW9ucy1hbmQtYmxvY2tsaXN0cyUyRiU3Q0ROUyUyMEFidXNlJTIwYW5kJTIwQ3JpbWluYWwlMjBJbmZyYXN0cnVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk4OTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTQlM0EzMCUzQTU1JTIwJTJCMDAwMA",
       "title": "DNS Abuse and Criminal Infrastructure",
       "pubDate": "Sun, 30 Aug 2026 14:30:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ292ZXJuYW5jZS5meWklMkZwJTJGYWNjaWRlbnRhbC1hZXN0aGV0aWNzLWFuZC1yb21hbmNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ292ZXJuYW5jZS5meWklMkZwJTJGYWNjaWRlbnRhbC1hZXN0aGV0aWNzLWFuZC1yb21hbmNlJTdDQWNjaWRlbnRhbCUyMEFlc3RoZXRpY3MlMjBhbmQlMjBSb21hbmNlJTIwb2YlMjBQb3dlciUyMFdpcmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDM2NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAyMyUzQTAwJTNBMTUlMjAlMkIwMDAw",
+      "title": "Accidental Aesthetics and Romance of Power Wires",
+      "pubDate": "Sun, 30 Aug 2026 23:00:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RPT014MkJISFd0RSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNET09NeDJCSEhXdEUlN0NUZXJlbmNlJTIwVGFvJTIwZXhwbGFpbnMlMjA2JTIwZXNzZW50aWFsJTIwbWF0aGVtYXRpY2FsJTIwY29uY2VwdHMlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTAzNTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMjIlM0EzNyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "pubDate": "Sun, 30 Aug 2026 22:37:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLnJpcGUubmV0JTJGYXV0aG9yJTJGYW5kcmV3X2NhbXBsaW5nJTJGZG5zLWFidXNlLWFuZC1jcmltaW5hbC1pbmZyYXN0cnVjdHVyZS1iZXlvbmQtZGVmaW5pdGlvbnMtYW5kLWJsb2NrbGlzdHMlMkYlN0NodHRwcyUzQSUyRiUyRmxhYnMucmlwZS5uZXQlMkZhdXRob3IlMkZhbmRyZXdfY2FtcGxpbmclMkZkbnMtYWJ1c2UtYW5kLWNyaW1pbmFsLWluZnJhc3RydWN0dXJlLWJleW9uZC1kZWZpbml0aW9ucy1hbmQtYmxvY2tsaXN0cyUyRiU3Q0ROUyUyMGFidXNlJTIwYW5kJTIwY3JpbWluYWwlMjBpbmZyYXN0cnVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk4OTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTQlM0EzMCUzQTU1JTIwJTJCMDAwMA",
+      "title": "DNS abuse and criminal infrastructure",
+      "pubDate": "Sun, 30 Aug 2026 14:30:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2hvc3VuLmNvbSUyRmVuZ2xpc2glMkZpbmR1c3RyeS1lbiUyRjIwMjYlMkYwOCUyRjMwJTJGU0JGWFVJSlFZWkVBUktQNVQ0RkJBWTI1SFElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jaG9zdW4uY29tJTJGZW5nbGlzaCUyRmluZHVzdHJ5LWVuJTJGMjAyNiUyRjA4JTJGMzAlMkZTQkZYVUlKUVlaRUFSS1A1VDRGQkFZMjVIUSUyRiU3Q1NtYXJ0cGhvbmUlMjBMRUQlMjBkZXRlY3RzJTIwaGlkZGVuJTIwY2FtZXJhcyUyMHdpdGglMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk2MjkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMDYlM0E1MiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "pubDate": "Sun, 30 Aug 2026 06:52:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
     }
   ]

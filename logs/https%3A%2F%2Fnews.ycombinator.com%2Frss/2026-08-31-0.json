@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 26,
-    "generatedAt": "2026-08-31T16:13:03.059Z"
+    "itemCount": 38,
+    "generatedAt": "2026-08-31T21:30:55.476Z"
   },
   "items": [
     {
@@ -162,6 +162,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXN0cmFsLXNoJTJGdXYlMkZwdWxsJTJGMjEzMjclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhc3RyYWwtc2glMkZ1diUyRnB1bGwlMkYyMTMyNyU3Q3V2JTNBJTIwRGVkdXBsaWNhdGUlMjBhbGwlMjBmaWxlcyUyMGluJTIwdGhlJTIwd2hlZWwlMjBjYWNoZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA2MTQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMDYlM0EwMyUzQTAyJTIwJTJCMDAwMA",
       "title": "uv: Deduplicate all files in the wheel cache",
       "pubDate": "Mon, 31 Aug 2026 06:03:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE0NzgxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE0NzgxJTdDQXV0b25vbW91cyUyMChZQyUyMEYyNSklMjBJcyUyMEhpcmluZyUyMEVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE0NzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMjElM0EwMCUzQTA5JTIwJTJCMDAwMA",
+      "title": "Autonomous (YC F25) Is Hiring Engineers",
+      "pubDate": "Mon, 31 Aug 2026 21:00:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0QzWXR5Z0F4X0M2QSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEM1l0eWdBeF9DNkElN0NBJTIwd2Fsa2FibGUlMjBBU0NJSSUyMGN5YmVycHVuayUyMGNpdHklMjBpbiUyMG9uZSUyMEhUTUwlMjBmaWxlJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxMjk3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDE4JTNBMjElM0EzMyUyMCUyQjAwMDA",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "pubDate": "Mon, 31 Aug 2026 18:21:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbWFsbHBvdGF0b2VzLnBhdWxibG9vbS5uZXQlMkZwJTJGa2lkcy10aGVzZS1kYXlzJTdDaHR0cHMlM0ElMkYlMkZzbWFsbHBvdGF0b2VzLnBhdWxibG9vbS5uZXQlMkZwJTJGa2lkcy10aGVzZS1kYXlzJTdDS2lkcyUyMFRoZXNlJTIwRGF5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTEyNjE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTclM0E1MCUzQTM3JTIwJTJCMDAwMA",
+      "title": "Kids These Days",
+      "pubDate": "Mon, 31 Aug 2026 17:50:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGc3R1bm5pbmctcGVyY29sYXRpb24tcHJvb2Ytc29sdmVzLWRlY2FkZXMtb2xkLXB1enpsZS1hYm91dC1waGFzZS10cmFuc2l0aW9ucy0yMDI2MDgzMSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRnN0dW5uaW5nLXBlcmNvbGF0aW9uLXByb29mLXNvbHZlcy1kZWNhZGVzLW9sZC1wdXp6bGUtYWJvdXQtcGhhc2UtdHJhbnNpdGlvbnMtMjAyNjA4MzElMkYlN0MnU3R1bm5pbmcnJTIwcGVyY29sYXRpb24lMjBwcm9vZiUyMHNvbHZlcyUyMGRlY2FkZXMtb2xkJTIwcHV6emxlJTIwYWJvdXQlMjBwaGFzZSUyMHRyYW5zaXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTIzMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAxNyUzQTIyJTNBNDMlMjAlMkIwMDAw",
+      "title": "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
+      "pubDate": "Mon, 31 Aug 2026 17:22:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVpc2UuZGUlMkZlbiUyRm5ld3MlMkZadXNlLUNvbXB1dGVyLU11c2V1bS1aQ09NLWluLUhveWVyc3dlcmRhLWZhY2VzLWNsb3N1cmUtMTEzNDQ1MTMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhlaXNlLmRlJTJGZW4lMkZuZXdzJTJGWnVzZS1Db21wdXRlci1NdXNldW0tWkNPTS1pbi1Ib3llcnN3ZXJkYS1mYWNlcy1jbG9zdXJlLTExMzQ0NTEzLmh0bWwlN0NLb25yYWQlMjBadXNlJTIwTXVzZXVtJTIwc2h1dHRpbmclMjBkb3duJTIwZHVlJTIwdG8lMjBsYWNrJTIwb2YlMjBmdW5kaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTE5MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTUyJTNBMzUlMjAlMkIwMDAw",
+      "title": "Konrad Zuse Museum shutting down due to lack of funding",
+      "pubDate": "Mon, 31 Aug 2026 16:52:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYXNvbnR1Y2tlci5ibG9nJTJGaG93LWktdHVybmVkLW15LXNlY3VyaXR5LWNhbWVyYXMtaW50by1hbi1hdXRvbWF0aWMtYmlyZC1pZGVudGlmaWNhdGlvbi1zeXN0ZW0td2l0aC1iaXJkbmV0LWdvJTJGJTdDaHR0cHMlM0ElMkYlMkZqYXNvbnR1Y2tlci5ibG9nJTJGaG93LWktdHVybmVkLW15LXNlY3VyaXR5LWNhbWVyYXMtaW50by1hbi1hdXRvbWF0aWMtYmlyZC1pZGVudGlmaWNhdGlvbi1zeXN0ZW0td2l0aC1iaXJkbmV0LWdvJTJGJTdDSSUyMHR1cm5lZCUyMG15JTIwc2VjdXJpdHklMjBjYW1lcmFzJTIwaW50byUyMGFuJTIwYXV0b21hdGljJTIwYmlyZCUyMGlkZW50aWZpY2F0aW9uJTIwc3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTE4NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAxNiUzQTQ3JTNBMTElMjAlMkIwMDAw",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "pubDate": "Mon, 31 Aug 2026 16:47:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXZ5bm9zLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGcmF2eW5vcy5jb20lMkYlN0NyYXZ5bk9TJTNBJTIwUHJlLWFscGhhJTIwb3Blbi1zb3VyY2UlMjBPUyUyMGJhc2VkJTIwb24lMjBEYXJ3aW4lMkMlMjBGcmVlQlNEJTJDJTIwQXBwbGUlMjBvcGVuLXNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTExNTM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTYlM0ExOSUzQTM2JTIwJTJCMDAwMA",
+      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "pubDate": "Mon, 31 Aug 2026 16:19:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3Jwb3JhdGVtaW5kZ2FtZXMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZjb3Jwb3JhdGVtaW5kZ2FtZXMuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwQ29ycG9yYXRlJTIwTWluZCUyMEdhbWVzJTIwJUUyJTgwJTkzJTIwbG9naWMlMjBwdXp6bGVzJTIwd2l0aCUyMGElMjBzYXJjYXN0aWMlMjBjb3Jwb3JhdGUlMjB0aGVtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTExNDAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTYlM0EwOCUzQTA4JTIwJTJCMDAwMA",
+      "title": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
+      "pubDate": "Mon, 31 Aug 2026 16:08:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZW9uLmNvJTJGZXNzYXlzJTJGYXQtdGhlLWhlYXJ0LW9mLXRoZS1zbm93LWxlYXZpcy10d28tY3VsdHVyZXMtY2xhc2glN0NodHRwcyUzQSUyRiUyRmFlb24uY28lMkZlc3NheXMlMkZhdC10aGUtaGVhcnQtb2YtdGhlLXNub3ctbGVhdmlzLXR3by1jdWx0dXJlcy1jbGFzaCU3Q1RoZSUyMFNub3clMkZMZWF2aXMlMjAlRTIlODAlOTh0d28lMjBjdWx0dXJlcyVFMiU4MCU5OSUyMGNsYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTA0ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAxNCUzQTUwJTNBMjQlMjAlMkIwMDAw",
+      "title": "The Snow/Leavis ‘two cultures’ clash",
+      "pubDate": "Mon, 31 Aug 2026 14:50:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwOCUyRjMwJTJGYXBwbGUtdW5leHBlY3RlZC1tYWMtbWluaS1hbmQtc3R1ZGlvLWRlbWFuZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hY3J1bW9ycy5jb20lMkYyMDI2JTJGMDglMkYzMCUyRmFwcGxlLXVuZXhwZWN0ZWQtbWFjLW1pbmktYW5kLXN0dWRpby1kZW1hbmQlMkYlN0NBcHBsZSUyMGNhdWdodCUyMG9mZiUyMGd1YXJkJTIwYnklMjBBSSUyMGRlbWFuZCUyMGZvciUyME1hYyUyME1pbmklMjBhbmQlMjBNYWMlMjBTdHVkaW8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwODk4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDEyJTNBNDElM0EyMiUyMCUyQjAwMDA",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "pubDate": "Mon, 31 Aug 2026 12:41:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWduYWxhbmRzaWxlbmNlLnN1YnN0YWNrLmNvbSUyRnAlMkZpLXRoaW5rLXNvbWVvbmUtaGFja2VkLXRoZS1jb21taXNzYXJ5JTdDaHR0cHMlM0ElMkYlMkZzaWduYWxhbmRzaWxlbmNlLnN1YnN0YWNrLmNvbSUyRnAlMkZpLXRoaW5rLXNvbWVvbmUtaGFja2VkLXRoZS1jb21taXNzYXJ5JTdDSSUyMHRoaW5rJTIwdGhlJTIwbWlsaXRhcnklMjBjb21taXNzYXJ5J3MlMjBmcmVlemVycyUyMHdlcmUlMjBoYWNrZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwODUwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDExJTNBNDUlM0E0OCUyMCUyQjAwMDA",
+      "title": "I think the military commissary's freezers were hacked",
+      "pubDate": "Mon, 31 Aug 2026 11:45:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnNob3Qub3JnJTJGYmxvZyUyRjIwMjYlMkYwOCUyRjMwJTJGb3BlbnNob3QtNDAtcmVjb3JkLWVkaXQtY29sb3ItbGlrZS1uZXZlci1iZWZvcmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVuc2hvdC5vcmclMkZibG9nJTJGMjAyNiUyRjA4JTJGMzAlMkZvcGVuc2hvdC00MC1yZWNvcmQtZWRpdC1jb2xvci1saWtlLW5ldmVyLWJlZm9yZSUyRiU3Q09wZW5TaG90JTIwNC4wJTIwJUUyJTgwJTkzJTIwT3Blbi1zb3VyY2UlMjB2aWRlbyUyMGVkaXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA3ODIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMDklM0E1OSUzQTA1JTIwJTJCMDAwMA",
+      "title": "OpenShot 4.0 – Open-source video editor",
+      "pubDate": "Mon, 31 Aug 2026 09:59:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]
