@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-30",
     "newestItemDate": "2026-08-30",
-    "itemCount": 28,
-    "generatedAt": "2026-08-30T19:21:10.737Z"
+    "itemCount": 34,
+    "generatedAt": "2026-08-31T05:46:05.615Z"
   },
   "items": [
     {
@@ -174,6 +174,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmx5Yzg1MDMubmV0JTJGZW4lMkZwb3N0JTJGZG40Mi0yLWRuZXQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cubHljODUwMy5uZXQlMkZlbiUyRnBvc3QlMkZkbjQyLTItZG5ldCUyRiU3Q0J1aWxkaW5nJTIwbXklMjBvd24lMjBuZXR3b3JrJTIwc3RhY2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5NzIwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDA5JTNBNTIlM0ExNSUyMCUyQjAwMDA",
       "title": "Building my own network stack",
       "pubDate": "Sun, 30 Aug 2026 09:52:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrdWxlc2hvdi1ncm91cC5naXRodWIuaW8lMkZibG9nJTJGYmxvZyUyRjIwMjYlMkZob3ctdG8tYnVpbGQtYS1kaWZmdXNpb24tbGFuZ3VhZ2UtbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRmt1bGVzaG92LWdyb3VwLmdpdGh1Yi5pbyUyRmJsb2clMkZibG9nJTJGMjAyNiUyRmhvdy10by1idWlsZC1hLWRpZmZ1c2lvbi1sYW5ndWFnZS1tb2RlbCUyRiU3Q0hvdyUyMHRvJTIwYnVpbGQlMjBhJTIwZGlmZnVzaW9uJTIwbGFuZ3VhZ2UlMjBtb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTAzOTU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMjMlM0E0MSUzQTMyJTIwJTJCMDAwMA",
+      "title": "How to build a diffusion language model",
+      "pubDate": "Sun, 30 Aug 2026 23:41:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWJvcnRyZXRyeS5mYWlsJTJGcCUyRm1hdHJveCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFib3J0cmV0cnkuZmFpbCUyRnAlMkZtYXRyb3glN0NNYXRyb3glM0ElMjBHcmFwaGljcyUyMGZvciUyMFByb2Zlc3Npb25hbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwMzkzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDIzJTNBMzklM0EzNSUyMCUyQjAwMDA",
+      "title": "Matrox: Graphics for Professionals",
+      "pubDate": "Sun, 30 Aug 2026 23:39:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGaS1qdXN0LWNob3NlLXdvcmRzLWNhcmVmdWxseSUyRiU3Q2h0dHBzJTNBJTJGJTJGdW5zdW5nLmFyZXNsdW5hLm9yZyUyRmktanVzdC1jaG9zZS13b3Jkcy1jYXJlZnVsbHklMkYlN0MlRTIlODAlOUNJJTIwanVzdCUyMGNob3NlJTIwd29yZHMlMjBjYXJlZnVsbHklRTIlODAlOUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwMzYwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDIyJTNBNDklM0E0OCUyMCUyQjAwMDA",
+      "title": "“I just chose words carefully”",
+      "pubDate": "Sun, 30 Aug 2026 22:49:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW5kZXIuYWklMkYyMDI2JTJGMDglMkYyNCUyRmNvbnRpbnVvdXMtZGxtcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZzYW5kZXIuYWklMkYyMDI2JTJGMDglMkYyNCUyRmNvbnRpbnVvdXMtZGxtcy5odG1sJTdDQ29udGludW91cyUyMERpZmZ1c2lvbiUyMExhbmd1YWdlJTIwTW9kZWxzJTIwKENETE0ncyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwMjYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDIwJTNBNDYlM0E1MyUyMCUyQjAwMDA",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "pubDate": "Sun, 30 Aug 2026 20:46:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwOCUyRnNwYWNlbGFiLWNvcmUtbWVtb3J5Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5yaWdodG8uY29tJTJGMjAyNiUyRjA4JTJGc3BhY2VsYWItY29yZS1tZW1vcnkuaHRtbCU3Q0NvcmVzJTIwaW4lMjBzcGFjZSUzQSUyMFRoZSUyMGNvcmUlMjBtZW1vcnklMjBtb2R1bGUlMjBmcm9tJTIwYSUyMDE5ODAlMjBTcGFjZWxhYiUyMGNvbXB1dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDIyMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAzMCUyMEF1ZyUyMDIwMjYlMjAyMCUzQTAwJTNBMjUlMjAlMkIwMDAw",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "pubDate": "Sun, 30 Aug 2026 20:00:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaXRhbWFybm92aWNrLmNvbSUyRmludHJvLXRvLXN0YXJ0dXAtYW50aS1wYXR0ZXJuLXNlcmllcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lml0YW1hcm5vdmljay5jb20lMkZpbnRyby10by1zdGFydHVwLWFudGktcGF0dGVybi1zZXJpZXMlMkYlN0NTdGFydHVwJTIwQW50aS1QYXR0ZXJucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk5ODMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTUlM0E1NyUzQTMwJTIwJTJCMDAwMA",
+      "title": "Startup Anti-Patterns",
+      "pubDate": "Sun, 30 Aug 2026 15:57:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
     }
   ]
