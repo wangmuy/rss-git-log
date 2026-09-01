@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 38,
-    "generatedAt": "2026-08-31T21:30:55.476Z"
+    "itemCount": 44,
+    "generatedAt": "2026-09-01T05:19:06.272Z"
   },
   "items": [
     {
@@ -234,6 +234,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnNob3Qub3JnJTJGYmxvZyUyRjIwMjYlMkYwOCUyRjMwJTJGb3BlbnNob3QtNDAtcmVjb3JkLWVkaXQtY29sb3ItbGlrZS1uZXZlci1iZWZvcmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVuc2hvdC5vcmclMkZibG9nJTJGMjAyNiUyRjA4JTJGMzAlMkZvcGVuc2hvdC00MC1yZWNvcmQtZWRpdC1jb2xvci1saWtlLW5ldmVyLWJlZm9yZSUyRiU3Q09wZW5TaG90JTIwNC4wJTIwJUUyJTgwJTkzJTIwT3Blbi1zb3VyY2UlMjB2aWRlbyUyMGVkaXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA3ODIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMDklM0E1OSUzQTA1JTIwJTJCMDAwMA",
       "title": "OpenShot 4.0 – Open-source video editor",
       "pubDate": "Mon, 31 Aug 2026 09:59:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhY29sYWRhLm9yZyUyRjEzOCU3Q2h0dHBzJTNBJTJGJTJGZGF0YWNvbGFkYS5vcmclMkYxMzglN0NFdmlkZW5jZSUyMG9mJTIwRnJhdWQlMjBpbiUyMGFuJTIwSW5mbHVlbnRpYWwlMjBTdHVkeSUyMEFib3V0JTIwUHJvY3Jhc3RpbmF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTYxOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAyMyUzQTQ1JTNBNTYlMjAlMkIwMDAw",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "pubDate": "Mon, 31 Aug 2026 23:45:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFybGluZ2hxLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhcmxpbmdocS5vcmclMkYlN0NSdW4lMjBtYWNPUyUyMFNvZnR3YXJlJTIwb24lMjBMaW51eCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE1ODMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMjIlM0E1MyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Run macOS Software on Linux",
+      "pubDate": "Mon, 31 Aug 2026 22:53:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZ2ljb2ZmZWUuY29tJTJGYmxvZyUyRjIwMjYlMkYwNCUyRnRjbC10ay1kZXZlbG9wLWNyb3NzLXBsYXRmb3JtLWNsaS1ndWktdG9vbHMtdHV0b3JpYWwtZ3VpZGUlN0NodHRwcyUzQSUyRiUyRmNnaWNvZmZlZS5jb20lMkZibG9nJTJGMjAyNiUyRjA0JTJGdGNsLXRrLWRldmVsb3AtY3Jvc3MtcGxhdGZvcm0tY2xpLWd1aS10b29scy10dXRvcmlhbC1ndWlkZSU3Q0RldmVsb3AlMjBDcm9zcy1QbGF0Zm9ybSUyMENMSSUyMGFuZCUyMEdVSSUyMFRvb2xzJTIwd2l0aCUyMFRjbCUyRlRrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTU2NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAyMiUzQTMyJTNBMjIlMjAlMkIwMDAw",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "pubDate": "Mon, 31 Aug 2026 22:32:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE0NzgxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE0NzgxJTdDQXV0b25vbW91cyUyMChZQyUyMEYyNSklMjBpcyUyMGhpcmluZyUyMGVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE0NzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMjElM0EwMCUzQTA5JTIwJTJCMDAwMA",
+      "title": "Autonomous (YC F25) is hiring engineers",
+      "pubDate": "Mon, 31 Aug 2026 21:00:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3B1d29ybGQub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ3B1d29ybGQub3JnJTJGJTdDR1BVJTIwV29ybGQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxMjE2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDE3JTNBMTIlM0EwMiUyMCUyQjAwMDA",
+      "title": "GPU World",
+      "pubDate": "Mon, 31 Aug 2026 17:12:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXZ5bm9zLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGcmF2eW5vcy5jb20lMkYlN0NSYXZ5bk9TJTNBJTIwUHJlLWFscGhhJTIwb3Blbi1zb3VyY2UlMjBPUyUyMGJhc2VkJTIwb24lMjBEYXJ3aW4lMkMlMjBGcmVlQlNEJTJDJTIwQXBwbGUlMjBvcGVuLXNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTExNTM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTYlM0ExOSUzQTM2JTIwJTJCMDAwMA",
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "pubDate": "Mon, 31 Aug 2026 16:19:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]

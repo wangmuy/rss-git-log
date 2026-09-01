@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-27",
     "newestItemDate": "2026-08-27",
-    "itemCount": 46,
-    "generatedAt": "2026-08-31T21:30:55.477Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-01T05:19:06.273Z"
   },
   "items": [
     {
@@ -282,6 +282,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZham1wLnV3ci5lZHUucGwlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRnNpdGVzJTJGMzklMkYyMDIzJTJGMTIlMkYxMF9LbGVwYXJza2kucGRmJTdDaHR0cHMlM0ElMkYlMkZham1wLnV3ci5lZHUucGwlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRnNpdGVzJTJGMzklMkYyMDIzJTJGMTIlMkYxMF9LbGVwYXJza2kucGRmJTdDRXVwaGVtaXNhdGlvbiUyMG9mJTIwVGFib28lMjBBcmVhcyUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDY3MjAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjclMjBBdWclMjAyMDI2JTIwMTYlM0ExNCUzQTIzJTIwJTJCMDAwMA",
       "title": "Euphemisation of Taboo Areas [pdf]",
       "pubDate": "Thu, 27 Aug 2026 16:14:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHVtcHJvZy5vcmclMkZ+c3RlcGhlbiUyRmJsb2clMkYyMDI2JTJGMDglMkYyNSUyRiUyM2ZsYXQtdnMtc2VnbWVudGVkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaHVtcHJvZy5vcmclMkZ+c3RlcGhlbiUyRmJsb2clMkYyMDI2JTJGMDglMkYyNSUyRiUyM2ZsYXQtdnMtc2VnbWVudGVkJTdDRmxhdCUyMHZzLiUyMHNlZ21lbnRlZCUyMG1lbW9yeSUyMCVFMiU4MCU5MyUyMGl0J3MlMjByZWN1cnNpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ2MDQxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI3JTIwQXVnJTIwMjAyNiUyMDA2JTNBMDIlM0EzMCUyMCUyQjAwMDA",
+      "title": "Flat vs. segmented memory – it's recursive",
+      "pubDate": "Thu, 27 Aug 2026 06:02:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-27-0.json"
     }
   ]
