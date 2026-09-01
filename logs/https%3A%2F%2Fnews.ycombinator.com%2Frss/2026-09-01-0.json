@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 7,
-    "generatedAt": "2026-09-01T05:19:06.272Z"
+    "itemCount": 13,
+    "generatedAt": "2026-09-01T13:32:45.868Z"
   },
   "items": [
     {
@@ -48,6 +48,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqa20uZGV2JTJGcG9zdHMlMkZob3ctMjAwNC1ydW5lc2NhcGUtZml0LWEtbXVsdGlwbGF5ZXItcnBnLWludG8tNTZrLWRpYWx1cCUyRiU3Q2h0dHBzJTNBJTJGJTJGamttLmRldiUyRnBvc3RzJTJGaG93LTIwMDQtcnVuZXNjYXBlLWZpdC1hLW11bHRpcGxheWVyLXJwZy1pbnRvLTU2ay1kaWFsdXAlMkYlN0MyMDA0JTIwUnVuZVNjYXBlJTIwZml0JTIwYSUyMG11bHRpcGxheWVyJTIwUlBHJTIwaW50byUyMDU2ayUyMGRpYWwtdXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxNjY5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDAxJTNBMDElM0EwOCUyMCUyQjAwMDA",
       "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
       "pubDate": "Tue, 01 Sep 2026 01:01:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYwOCUyRmVmZi1jb3VydHMtZG9udC1yZXdyaXRlLWNvcHlyaWdodC1vdmVyLWFpLWh5cGUlN0NodHRwcyUzQSUyRiUyRnd3dy5lZmYub3JnJTJGZGVlcGxpbmtzJTJGMjAyNiUyRjA4JTJGZWZmLWNvdXJ0cy1kb250LXJld3JpdGUtY29weXJpZ2h0LW92ZXItYWktaHlwZSU3Q0VGRiUyMHRvJTIwQ291cnRzJTNBJTIwRG9uJ3QlMjBSZXdyaXRlJTIwQ29weXJpZ2h0JTIwb3ZlciUyMEFJJTIwSHlwZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIxMzE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTIlM0E1MyUzQTUxJTIwJTJCMDAwMA",
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "pubDate": "Tue, 01 Sep 2026 12:53:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW5pbGRhc2guY29tJTJGMjAyNSUyRjA5JTJGMDklMkZob3ctdGltLWNvb2stc29sZC1vdXQtc3RldmUtam9icyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFuaWxkYXNoLmNvbSUyRjIwMjUlMkYwOSUyRjA5JTJGaG93LXRpbS1jb29rLXNvbGQtb3V0LXN0ZXZlLWpvYnMlMkYlN0NUaW0lMjBDb29rJTIwU29sZCUyME91dCUyMFN0ZXZlJTIwSm9icyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIwODk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTIlM0ExMiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Tim Cook Sold Out Steve Jobs",
+      "pubDate": "Tue, 01 Sep 2026 12:12:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5raWRyb2lkJTJGQW5raS1BbmRyb2lkJTJGaXNzdWVzJTJGMjE2NTYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbmtpZHJvaWQlMkZBbmtpLUFuZHJvaWQlMkZpc3N1ZXMlMkYyMTY1NiU3Q0Fua2lEcm9pZCUzQSUyMEdvb2dsZSUyMFBsYXklMjBubyUyMGxvbmdlciUyMGFsbG93aW5nJTIwT3BlbiUyMENvbGxlY3RpdmUlMjBkb25hdGlvbiUyMGxpbmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMDAyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDEwJTNBMTElM0EwMiUyMCUyQjAwMDA",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "pubDate": "Tue, 01 Sep 2026 10:11:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdmFrZGUuZ2l0aHViLmlvJTJGYmxvZyUyRjQ0LW9uLWFyYy0xJTJGJTdDaHR0cHMlM0ElMkYlMkZtdmFrZGUuZ2l0aHViLmlvJTJGYmxvZyUyRjQ0LW9uLWFyYy0xJTJGJTdDNDQlMjUlMjBvbiUyMEFSQy1BR0ktMSUyMGluJTIwNjclMjBjZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE5OTM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMDklM0E1MiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "pubDate": "Tue, 01 Sep 2026 09:52:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2llbmNlLm5hc2EuZ292JTJGbWlzc2lvbiUyRnJvbWFuLXNwYWNlLXRlbGVzY29wZSUyRmFkb3B0LWEtcGl4ZWwlMkYlN0NodHRwcyUzQSUyRiUyRnNjaWVuY2UubmFzYS5nb3YlMkZtaXNzaW9uJTJGcm9tYW4tc3BhY2UtdGVsZXNjb3BlJTJGYWRvcHQtYS1waXhlbCUyRiU3Q05BU0ElM0ElMjBGaWxsJTIwaW4lMjBhJTIwbmFtZSUyQyUyMGFuZCUyMHlvdSUyMGNhbiUyMGhhdmUlMjBhbiUyMGV4Y2x1c2l2ZSUyMGNvb3JkaW5hdGUlMjBpbiUyMHRoZSUyMHVuaXZlcnNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTk5MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAwOSUzQTQ2JTNBMzklMjAlMkIwMDAw",
+      "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+      "pubDate": "Tue, 01 Sep 2026 09:46:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY29sbGVjdHdpc2UlMkZqb2JzJTJGN1U1MDBwUC1mb3VuZGluZy1jdXN0b21lci1zdWNjZXNzLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY29sbGVjdHdpc2UlMkZqb2JzJTJGN1U1MDBwUC1mb3VuZGluZy1jdXN0b21lci1zdWNjZXNzLWVuZ2luZWVyJTdDQ29sbGVjdFdpc2UlMjAoWUMlMjBGMjQpJTIwSXMlMjBIaXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxODg3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDA3JTNBMDElM0E0OSUyMCUyQjAwMDA",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "pubDate": "Tue, 01 Sep 2026 07:01:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]
