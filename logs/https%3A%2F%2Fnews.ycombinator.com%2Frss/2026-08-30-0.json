@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-30",
     "newestItemDate": "2026-08-30",
-    "itemCount": 41,
-    "generatedAt": "2026-09-01T05:19:06.272Z"
+    "itemCount": 42,
+    "generatedAt": "2026-09-01T19:26:14.788Z"
   },
   "items": [
     {
@@ -252,6 +252,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZieW9waWFwcmVzcy53b3JkcHJlc3MuY29tJTJGMjAyNCUyRjA1JTJGMTklMkZhLWN5YW5vbWV0ZXItYW5kLWEtY2xvdWQtY29sb3VyaW1ldGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZieW9waWFwcmVzcy53b3JkcHJlc3MuY29tJTJGMjAyNCUyRjA1JTJGMTklMkZhLWN5YW5vbWV0ZXItYW5kLWEtY2xvdWQtY29sb3VyaW1ldGVyJTJGJTdDQSUyMEN5YW5vbWV0ZXIlMjBhbmQlMjBhJTIwQ2xvdWQlMjBDb2xvdXJpbWV0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ5NzEzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDMwJTIwQXVnJTIwMjAyNiUyMDA5JTNBNDAlM0ExMiUyMCUyQjAwMDA",
       "title": "A Cyanometer and a Cloud Colourimeter",
       "pubDate": "Sun, 30 Aug 2026 09:40:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYXZhcnR1cy5jb20lMkZzb2x1dGlvbnMlMkZlbnRlcnByaXNlLWxhc2VyLXN0b3JhZ2UlMkYlN0NodHRwcyUzQSUyRiUyRnNhdmFydHVzLmNvbSUyRnNvbHV0aW9ucyUyRmVudGVycHJpc2UtbGFzZXItc3RvcmFnZSUyRiU3Q1BoeXNpY2FsbHklMjBJbW11dGFibGUlMjBPcHRpY2FsJTIwQXJjaGl2ZSUyMExpYnJhcmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDk3NzQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMzAlMjBBdWclMjAyMDI2JTIwMTElM0EyNyUzQTE2JTIwJTJCMDAwMA",
+      "title": "Physically Immutable Optical Archive Libraries",
+      "pubDate": "Sun, 30 Aug 2026 11:27:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-30-0.json"
     }
   ]

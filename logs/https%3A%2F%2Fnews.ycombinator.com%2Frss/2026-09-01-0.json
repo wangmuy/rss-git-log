@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 13,
-    "generatedAt": "2026-09-01T13:32:45.868Z"
+    "itemCount": 31,
+    "generatedAt": "2026-09-01T19:26:14.787Z"
   },
   "items": [
     {
@@ -84,6 +84,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY29sbGVjdHdpc2UlMkZqb2JzJTJGN1U1MDBwUC1mb3VuZGluZy1jdXN0b21lci1zdWNjZXNzLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY29sbGVjdHdpc2UlMkZqb2JzJTJGN1U1MDBwUC1mb3VuZGluZy1jdXN0b21lci1zdWNjZXNzLWVuZ2luZWVyJTdDQ29sbGVjdFdpc2UlMjAoWUMlMjBGMjQpJTIwSXMlMjBIaXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxODg3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDA3JTNBMDElM0E0OSUyMCUyQjAwMDA",
       "title": "CollectWise (YC F24) Is Hiring",
       "pubDate": "Tue, 01 Sep 2026 07:01:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYXJpeXVjZS5jb20lMkZibG9nJTJGMjAyNiUyRlVFRkEtRHJhdyUyRiU3Q2h0dHBzJTNBJTJGJTJGc2FyaXl1Y2UuY29tJTJGYmxvZyUyRjIwMjYlMkZVRUZBLURyYXclMkYlN0NVRUZBJ3MlMjBDaGFtcGlvbnMlMjBMZWFndWUlMjBkcmF3JTIwY3JlYXRlcyUyMHVuZmFpciUyMGNsdXN0ZXJzJTNCJTIwYSUyMENheWxleSUyMGdyYXBoJTIwZml4ZXMlMjBpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI1NDIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTclM0E1NyUzQTA5JTIwJTJCMDAwMA",
+      "title": "UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it",
+      "pubDate": "Tue, 01 Sep 2026 17:57:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmNsYXVkZS1mYWJsZS1hbmQtbXl0aG9zLTUtMSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZjbGF1ZGUtZmFibGUtYW5kLW15dGhvcy01LTElN0NDbGF1ZGUlMjBGYWJsZSUyMDUuMSUyMGFuZCUyMENsYXVkZSUyME15dGhvcyUyMDUuMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI1Mzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTclM0E1MyUzQTUzJTIwJTJCMDAwMA",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "pubDate": "Tue, 01 Sep 2026 17:53:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcnNjLmlvJTJGYmxvZyUyRm1hcnRpbi1qb2lucy1lcnNjJTdDaHR0cHMlM0ElMkYlMkZlcnNjLmlvJTJGYmxvZyUyRm1hcnRpbi1qb2lucy1lcnNjJTdDVGhlJTIwY3JlYXRvciUyMG9mJTIwSnVqdXRzdSUyMGhhcyUyMGpvaW5lZCUyMEVSU0MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyNTI5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE3JTNBNDYlM0EyMSUyMCUyQjAwMDA",
+      "title": "The creator of Jujutsu has joined ERSC",
+      "pubDate": "Tue, 01 Sep 2026 17:46:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ybGRsYWJzLmFpJTJGYmxvZyUyRmF0bGFzJTdDaHR0cHMlM0ElMkYlMkZ3d3cud29ybGRsYWJzLmFpJTJGYmxvZyUyRmF0bGFzJTdDQXRsYXMlM0ElMjBBJTIwV29ybGQlMjBNb2RlbCUyMGZvciUyMFNwYXRpYWwlMjBJbnRlbGxpZ2VuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyNTE2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE3JTNBMzYlM0EwMiUyMCUyQjAwMDA",
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "pubDate": "Tue, 01 Sep 2026 17:36:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9yaXJvYm90aWNzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vcmlyb2JvdGljcy5jb20lMkYlN0NMYXVuY2glMjBITiUzQSUyME5vcmklMjBSb2JvdGljcyUyMChZQyUyMFMyNiklMjAlRTIlODAlOTMlMjBBJTIwbG93LWNvc3QlMjBodW1hbm9pZCUyMHJvYm90JTIwZm9yJTIwZGV2ZWxvcG1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyNTE1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE3JTNBMzUlM0ExMCUyMCUyQjAwMDA",
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "pubDate": "Tue, 01 Sep 2026 17:35:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI0NzA0JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI0NzA0JTdDUXVpbGwlMjAoWUMlMjBXMjApJTIwSXMlMjBIaXJpbmclMjBhJTIwRnVsbHN0YWNrJTIwU1dFJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjQ3MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAxNyUzQTAwJTNBMTQlMjAlMkIwMDAw",
+      "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+      "pubDate": "Tue, 01 Sep 2026 17:00:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2FybG9zbGZ1JTJGc2xvdHN0cmVhbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNhcmxvc2xmdSUyRnNsb3RzdHJlYW0lN0NTaG93JTIwSE4lM0ElMjBSdW5uaW5nJTIwMTA0R0IlMjBRd2VuMy44LUZsYXNoLU5leHQlMjBvbiUyMDQ4R0IlMjBNYWMlMjB3aXRoJTIwYXQlMjB+MTIlMjB0b2slMkZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjQ0NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAxNiUzQTQyJTNBNDYlMjAlMkIwMDAw",
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "pubDate": "Tue, 01 Sep 2026 16:42:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3ZpZXNjZW5lbWFwLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbW92aWVzY2VuZW1hcC5jb20lMkYlN0NNb3ZpZSUyMFNjZW5lJTIwTWFwJTIwJUUyJTgwJTkzJTIwMTMlMkMzMTIlMjBmaWxtcyUyQyUyMHNlcmllcyUyQyUyMGdhbWVzJTJDJTIwYW5pbWUlMjBhbmQlMjBtYW5nYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI0MzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTYlM0EzNCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "pubDate": "Tue, 01 Sep 2026 16:34:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRsYWIuY29tJTJGQXVyb3JhT1NTJTJGQXVyb3JhU3RvcmUlMkYtJTJGd29ya19pdGVtcyUyRjE1NjYlN0NodHRwcyUzQSUyRiUyRmdpdGxhYi5jb20lMkZBdXJvcmFPU1MlMkZBdXJvcmFTdG9yZSUyRi0lMkZ3b3JrX2l0ZW1zJTJGMTU2NiU3Q1BsYXklMjBTdG9yZSUyMGJsb2NrcyUyMEF1cm9yYVN0b3JlJTJDJTIwaHVydGluZyUyMEdyYXBoZW5lT1MlMjB1c2VycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIzNzU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTUlM0E1NSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "pubDate": "Tue, 01 Sep 2026 15:55:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGNnYW1lci5jb20lMkZnYW1pbmctaW5kdXN0cnklMkZkd2FyZi1mb3J0cmVzcy1jcmVhdG9yLXNheXMtdGhlLWluZHVzdHJ5cy1pbi1zaGFtYmxlcy1vdmVyLWFpLWFuZC1sYXlvZmYtaGFwcHktY2Vvcy1ldmVyeW9uZS1pLWtub3ctdGhlaXItYm9zc2VzLWFyZS1zbG93bHktZ2V0dGluZy1wc3ljaG9zaXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wY2dhbWVyLmNvbSUyRmdhbWluZy1pbmR1c3RyeSUyRmR3YXJmLWZvcnRyZXNzLWNyZWF0b3Itc2F5cy10aGUtaW5kdXN0cnlzLWluLXNoYW1ibGVzLW92ZXItYWktYW5kLWxheW9mZi1oYXBweS1jZW9zLWV2ZXJ5b25lLWkta25vdy10aGVpci1ib3NzZXMtYXJlLXNsb3dseS1nZXR0aW5nLXBzeWNob3NpcyUyRiU3Q0R3YXJmJTIwRm9ydHJlc3MnJTIwY3JlYXRvciUyMHNheXMlMjB0aGUlMjBpbmR1c3RyeSdzJTIwaW4lMjBzaGFtYmxlcyUyMG92ZXIlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIzNzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTUlM0E1MyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "pubDate": "Tue, 01 Sep 2026 15:53:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZWVuYWJsZWFpLmdpdGh1Yi5pbyUyRnNlbGVjdC1zaG93Y2FzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGa2VlbmFibGVhaS5naXRodWIuaW8lMkZzZWxlY3Qtc2hvd2Nhc2UlMkYlN0NLZWVuYWJsZSUyMFNFTEVDVCUzQSUyMGFuJTIwYWdlbnQlMjB0aGF0JTIwc2VhcmNoZXMlMjB0aGUlMjB3ZWIlMjBpbiUyMFNRTCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIzNDczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTUlM0E0MSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Keenable SELECT: an agent that searches the web in SQL",
+      "pubDate": "Tue, 01 Sep 2026 15:41:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWJpZW50Y3NzLnZlcmNlbC5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRmFtYmllbnRjc3MudmVyY2VsLmFwcCUyRiU3Q0FtYmllbnQlMjBDU1MlMjB2MyUyMCVFMiU4MCU5MyUyMEJsZW5kZXIlMjBtZWV0cyUyMENTUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIzMzg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTUlM0EzNSUzQTExJTIwJTJCMDAwMA",
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "pubDate": "Tue, 01 Sep 2026 15:35:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvb3htbC5zaWx1cnVzLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGb294bWwuc2lsdXJ1cy5kZXYlMkYlN0NBJTIwYnJvd3Nlci1iYXNlZCUyMHZpZXdlciUyMGZvciUyME9mZmljZSUyME9wZW4lMjBYTUwlMjBkb2N1bWVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMzM2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE1JTNBMzMlM0ExMyUyMCUyQjAwMDA",
+      "title": "A browser-based viewer for Office Open XML documents",
+      "pubDate": "Tue, 01 Sep 2026 15:33:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIyODk3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIyODk3JTdDQXNrJTIwSE4lM0ElMjBXaG8lMjBpcyUyMGhpcmluZyUzRiUyMChTZXB0ZW1iZXIlMjAyMDI2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIyODk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTUlM0EwMSUzQTE3JTIwJTJCMDAwMA",
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "pubDate": "Tue, 01 Sep 2026 15:01:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIyODk2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIyODk2JTdDQXNrJTIwSE4lM0ElMjBXaG8lMjB3YW50cyUyMHRvJTIwYmUlMjBoaXJlZCUzRiUyMChTZXB0ZW1iZXIlMjAyMDI2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIyODk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTUlM0EwMSUzQTE3JTIwJTJCMDAwMA",
+      "title": "Ask HN: Who wants to be hired? (September 2026)",
+      "pubDate": "Tue, 01 Sep 2026 15:01:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1vemlsbGEub3JnJTJGZW4lMkZmaXJlZm94JTJGYWQtYmxvY2tlci1vbi1pb3MlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cubW96aWxsYS5vcmclMkZlbiUyRmZpcmVmb3glMkZhZC1ibG9ja2VyLW9uLWlvcyUyRiU3Q0ludHJvZHVjaW5nJTIwQWQlMjBCbG9ja2VyJTIwZm9yJTIwRmlyZWZveCUyMG9uJTIwaU9TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjE5NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAxMyUzQTQ2JTNBNDklMjAlMkIwMDAw",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "pubDate": "Tue, 01 Sep 2026 13:46:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcm4uc2glMkZpby11cmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZnJuLnNoJTJGaW8tdXJpbmclMkYlN0NJb191cmluZyUyMFdpdGhvdXQlMjBSZWFkYWhlYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMTYyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDEzJTNBMTklM0ExMiUyMCUyQjAwMDA",
+      "title": "Io_uring Without Readahead",
+      "pubDate": "Tue, 01 Sep 2026 13:19:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdmFrZGUuZ2l0aHViLmlvJTJGYmxvZyUyRjQ0LW9uLWFyYy0xJTJGJTdDaHR0cHMlM0ElMkYlMkZtdmFrZGUuZ2l0aHViLmlvJTJGYmxvZyUyRjQ0LW9uLWFyYy0xJTJGJTdDSSUyMHRyYWluZWQlMjBhJTIwc21hbGwlMjB0cmFuc2Zvcm1lciUyMGluJTIwMS41aHJzJTIwYW5kJTIwaXQlMjBiZWF0cyUyMG1hbnklMjBMTE1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTk5MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAwOSUzQTUyJTNBNDUlMjAlMkIwMDAw",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "pubDate": "Tue, 01 Sep 2026 09:52:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]
