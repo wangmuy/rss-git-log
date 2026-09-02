@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 31,
-    "generatedAt": "2026-09-01T19:26:14.787Z"
+    "itemCount": 41,
+    "generatedAt": "2026-09-02T04:44:09.630Z"
   },
   "items": [
     {
@@ -192,6 +192,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtdmFrZGUuZ2l0aHViLmlvJTJGYmxvZyUyRjQ0LW9uLWFyYy0xJTJGJTdDaHR0cHMlM0ElMkYlMkZtdmFrZGUuZ2l0aHViLmlvJTJGYmxvZyUyRjQ0LW9uLWFyYy0xJTJGJTdDSSUyMHRyYWluZWQlMjBhJTIwc21hbGwlMjB0cmFuc2Zvcm1lciUyMGluJTIwMS41aHJzJTIwYW5kJTIwaXQlMjBiZWF0cyUyMG1hbnklMjBMTE1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTk5MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAwOSUzQTUyJTNBNDUlMjAlMkIwMDAw",
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "pubDate": "Tue, 01 Sep 2026 09:52:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmFzZXRlbi5jbyUyRmJsb2clMkZ0aGUtZWZmaWNpZW50LWZyb250aWVyLW9mLWxsbS1pbmZlcmVuY2UlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5iYXNldGVuLmNvJTJGYmxvZyUyRnRoZS1lZmZpY2llbnQtZnJvbnRpZXItb2YtbGxtLWluZmVyZW5jZSUyRiU3Q1RoZSUyMGVmZmljaWVudCUyMGZyb250aWVyJTIwb2YlMjBMTE0lMjBpbmZlcmVuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyOTg5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDIzJTNBNDglM0EwNSUyMCUyQjAwMDA",
+      "title": "The efficient frontier of LLM inference",
+      "pubDate": "Tue, 01 Sep 2026 23:48:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA5JTJGZmJpLXByb2Jlcy1zZXJ2aWNlLXNlbGxpbmctMTUzbS1kcml2ZXJzLWxpY2Vuc2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjA5JTJGZmJpLXByb2Jlcy1zZXJ2aWNlLXNlbGxpbmctMTUzbS1kcml2ZXJzLWxpY2Vuc2VzJTJGJTdDRkJJJTIwUHJvYmVzJTIwU2VydmljZSUyMFNlbGxpbmclMjAxNTNNJTJCJTIwRHJpdmVycyUyMExpY2Vuc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Mjk2MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAyMyUzQTE3JTNBNDMlMjAlMkIwMDAw",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "pubDate": "Tue, 01 Sep 2026 23:17:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd3MuaW8lMkZibG9nJTJGbXktbG9jYWwtbW9kZWwtc2V0dXAlMkYlN0NodHRwcyUzQSUyRiUyRmx3cy5pbyUyRmJsb2clMkZteS1sb2NhbC1tb2RlbC1zZXR1cCUyRiU3Q015JTIwbG9jYWwlMjBtb2RlbCUyMHNldHVwJTIwb24lMjBhbiUyME00JTIwUHJvJTIwTWFjJTIwTWluaSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI5MTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMjIlM0EzMCUzQTUyJTIwJTJCMDAwMA",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "pubDate": "Tue, 01 Sep 2026 22:30:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0ZXJhbnphLmdpdGh1Yi5pbyUyRndlZWRvdXQlMkYlN0NodHRwcyUzQSUyRiUyRm1hc3RlcmFuemEuZ2l0aHViLmlvJTJGd2VlZG91dCUyRiU3Q1Nob3clMjBITiUzQSUyMFdlZWRvdXQlMjAlRTIlODAlOTMlMjBTYWZhcmklMjBleHRlbnNpb24lMjB0aGF0JTIwaGlkZXMlMjBZb3VUdWJlJTIwQUktbGFiZWxlZCUyMHZpZGVvcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI4ODk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMjIlM0EwNiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "pubDate": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZobm1hdGNobWFrZXIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZobm1hdGNobWFrZXIuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwSE4lMjBNYXRjaCUyME1ha2VyJTIwJUUyJTgwJTkzJTIwTWF0Y2hpbmclMjAlMjJXaG8lMjBXYW50cyUyMHRvJTIwQmUlMjBIaXJlZCUzRiUyMiUyMFdpdGglMjAlMjJXaG8ncyUyMEhpcmluZyUzRiUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI4MDU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMjAlM0E1MyUzQTM1JTIwJTJCMDAwMA",
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "pubDate": "Tue, 01 Sep 2026 20:53:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZwYXRoLXRvLWFzdHJhJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZwYXRoLXRvLWFzdHJhJTJGJTdDUGF0aCUyMHRvJTIwQXN0cmElM0ElMjBjcml0aWNhbCUyMGNhcGFiaWxpdGllcyUyMGFuZCUyMGZyb250aWVyJTIwc2FmZWd1YXJkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI3NTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMjAlM0EyMCUzQTQxJTIwJTJCMDAwMA",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "pubDate": "Tue, 01 Sep 2026 20:20:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZTZXAlMkYxJTJGY29kZXgtbGlicmVvZmZpY2UlMkYlN0NodHRwcyUzQSUyRiUyRnNpbW9ud2lsbGlzb24ubmV0JTJGMjAyNiUyRlNlcCUyRjElMkZjb2RleC1saWJyZW9mZmljZSUyRiU3Q1RoZSUyMENoYXRHUFQlMkZDb2RleCUyMGFwcCUyMGJ1bmRsZXMlMjBhJTIwZnVsbCUyMGNvcHklMjBvZiUyMExpYnJlT2ZmaWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjczOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAyMCUzQTA3JTNBNTclMjAlMkIwMDAw",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "pubDate": "Tue, 01 Sep 2026 20:07:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b212ZXJiZXVyZS5naXRodWIuaW8lMkYyMDI2JTJGMDglMkYyMyUyRlRla3Ryb25peC1URFM3MTA0LVJlZnVyYmlzaGluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0b212ZXJiZXVyZS5naXRodWIuaW8lMkYyMDI2JTJGMDglMkYyMyUyRlRla3Ryb25peC1URFM3MTA0LVJlZnVyYmlzaGluZy5odG1sJTdDUmVmdXJiaXNoaW5nJTIwYSUyMFRla3Ryb25peCUyMFREUzcxMDQlMjBPc2NpbGxvc2NvcGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyNzIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE5JTNBNTUlM0E0NyUyMCUyQjAwMDA",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "pubDate": "Tue, 01 Sep 2026 19:55:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGeml0cm9uJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGeml0cm9uJTJGJTdDSG93JTIwYWNjdXJhdGUlMjBoYXZlJTIwRWQlMjBaaXRyb24ncyUyMEFJJTIwc2tlcHRpYyUyMHByZWRpY3Rpb25zJTIwYmVlbiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI2MDY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTglM0EzNSUzQTE1JTIwJTJCMDAwMA",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "pubDate": "Tue, 01 Sep 2026 18:35:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYnVzaGVsbC5jb20lMkYyMDI2JTJGMDklMkYwMSUyRnRleHQtZWRpdG9yJTJGJTdDaHR0cHMlM0ElMkYlMkZkYnVzaGVsbC5jb20lMkYyMDI2JTJGMDklMkYwMSUyRnRleHQtZWRpdG9yJTJGJTdDRmluZSUyQyUyMEknbGwlMjBidWlsZCUyMG15JTIwb3duJTIwdGV4dCUyMGVkaXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI0ODYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTclM0ExMiUzQTE1JTIwJTJCMDAwMA",
+      "title": "Fine, I'll build my own text editor",
+      "pubDate": "Tue, 01 Sep 2026 17:12:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]

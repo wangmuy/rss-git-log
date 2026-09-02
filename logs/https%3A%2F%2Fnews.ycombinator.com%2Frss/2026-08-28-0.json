@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-28",
     "newestItemDate": "2026-08-28",
-    "itemCount": 42,
-    "generatedAt": "2026-09-01T05:19:06.273Z"
+    "itemCount": 45,
+    "generatedAt": "2026-09-02T04:44:09.630Z"
   },
   "items": [
     {
@@ -258,6 +258,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FsbHBhcGVyLmNvbSUyRmRlc2lnbi1pbnRlcmlvcnMlMkZsYWJpcmludG8tYm9yZ2VzLXZlbmljZS1yZW9wZW5pbmclN0NodHRwcyUzQSUyRiUyRnd3dy53YWxscGFwZXIuY29tJTJGZGVzaWduLWludGVyaW9ycyUyRmxhYmlyaW50by1ib3JnZXMtdmVuaWNlLXJlb3BlbmluZyU3Q0JvcmdlcyUyMExhYnlyaW50aCUyMGluJTIwVmVuaWNlJTIwcmVvcGVucyUyMHRvJTIwdGhlJTIwcHVibGljJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk0ODQwMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyOCUyMEF1ZyUyMDIwMjYlMjAyMCUzQTQxJTNBMzUlMjAlMkIwMDAw",
       "title": "Borges Labyrinth in Venice reopens to the public",
       "pubDate": "Fri, 28 Aug 2026 20:41:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnRoZS1mb3Jnb3R0ZW4taGlzdG9yeS1vZi1zbWFsbC1udWNsZWFyLXJlYWN0b3JzJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnRoZS1mb3Jnb3R0ZW4taGlzdG9yeS1vZi1zbWFsbC1udWNsZWFyLXJlYWN0b3JzJTdDRm9yZ290dGVuJTIwSGlzdG9yeSUyMG9mJTIwU21hbGwlMjBOdWNsZWFyJTIwUmVhY3RvcnMlMjAoMjAxNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ4NDc5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI4JTIwQXVnJTIwMjAyNiUyMDIyJTNBMDUlM0EzOSUyMCUyQjAwMDA",
+      "title": "Forgotten History of Small Nuclear Reactors (2015)",
+      "pubDate": "Fri, 28 Aug 2026 22:05:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb25pYy1waS5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRnNvbmljLXBpLm5ldCUyRiU3Q1NvbmljJTIwUGklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTQ4MjA5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI4JTIwQXVnJTIwMjAyNiUyMDE3JTNBNTElM0ExOSUyMCUyQjAwMDA",
+      "title": "Sonic Pi",
+      "pubDate": "Fri, 28 Aug 2026 17:51:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5ob2xtZW4uY29tJTJGYmxvZyUyRmhhbGZtb29uLWNoaW1lcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmVuaG9sbWVuLmNvbSUyRmJsb2clMkZoYWxmbW9vbi1jaGltZXMlMkYlN0NCdWlsZGluZyUyMGFuJTIwaW50ZXJhY3RpdmUlMjBpbnN0cnVtZW50JTIwZm9yJTIwYSUyMG9uZS1vZi1hLWtpbmQlMjBmZXN0aXZhbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NDc5OTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjglMjBBdWclMjAyMDI2JTIwMTUlM0EyMSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Building an interactive instrument for a one-of-a-kind festival",
+      "pubDate": "Fri, 28 Aug 2026 15:21:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-28-0.json"
     }
   ]

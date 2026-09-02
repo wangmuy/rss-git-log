@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 47,
-    "generatedAt": "2026-09-01T19:26:14.787Z"
+    "itemCount": 48,
+    "generatedAt": "2026-09-02T04:44:09.630Z"
   },
   "items": [
     {
@@ -288,6 +288,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9uaWNhaHEuY29tJTJGZW4lMkZibG9nJTJGd2UtYXJlLXJlYnVpbGRpbmctbW9uaWNhJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubW9uaWNhaHEuY29tJTJGZW4lMkZibG9nJTJGd2UtYXJlLXJlYnVpbGRpbmctbW9uaWNhJTJGJTdDV2UlMjBhcmUlMjByZWJ1aWxkaW5nJTIwTW9uaWNhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDk2NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTM3JTNBMjglMjAlMkIwMDAw",
       "title": "We are rebuilding Monica",
       "pubDate": "Mon, 31 Aug 2026 13:37:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoZW5jaGFudC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTklMkZzb2x2aW5nLXRoZS1mbGF0LWN1YmUlMkYlN0NodHRwcyUzQSUyRiUyRm1hdGhlbmNoYW50LndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDglMkYxOSUyRnNvbHZpbmctdGhlLWZsYXQtY3ViZSUyRiU3Q1NvbHZpbmclMjB0aGUlMjBGbGF0JTIwQ3ViZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA4NjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTIlM0EwMiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Solving the Flat Cube",
+      "pubDate": "Mon, 31 Aug 2026 12:02:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]
