@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 2,
-    "generatedAt": "2026-09-02T04:44:09.630Z"
+    "itemCount": 10,
+    "generatedAt": "2026-09-02T12:49:29.641Z"
   },
   "items": [
     {
@@ -18,6 +18,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlzZXAub3JnJTJGdHJ1JTdDaHR0cHMlM0ElMkYlMkZ3d3cubGlzZXAub3JnJTJGdHJ1JTdDVHJ1ZSUyMFJhdGUlMjBvZiUyMFVuZW1wbG95bWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMwOTg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMDIlM0EyMSUzQTEwJTIwJTJCMDAwMA",
       "title": "True Rate of Unemployment",
       "pubDate": "Wed, 02 Sep 2026 02:21:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlLm1lbmRoYWsuY29tJTJGaGFyZGNvZGUtZmVhdHVyZS1mbGFncyUyRiU3Q2h0dHBzJTNBJTJGJTJGY29kZS5tZW5kaGFrLmNvbSUyRmhhcmRjb2RlLWZlYXR1cmUtZmxhZ3MlMkYlN0NJdCdzJTIwT0slMjB0byUyMGhhcmRjb2RlJTIwZmVhdHVyZSUyMGZsYWdzJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzQ1MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMSUzQTAwJTNBMjAlMjAlMkIwMDAw",
+      "title": "It's OK to hardcode feature flags (2025)",
+      "pubDate": "Wed, 02 Sep 2026 11:00:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGVtaXN0aW5nLmNvbSUyRjIwMjYlMkYwOSUyRjAyJTJGd2h5LWFyZS10aGVyZS1uby1mbG93LWJhdHRlcmllcy13aXRoLXN5bW1ldHJpYy1mZXJyb2N5YW5pZGUtZWxlY3Ryb2x5dGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZjaGVtaXN0aW5nLmNvbSUyRjIwMjYlMkYwOSUyRjAyJTJGd2h5LWFyZS10aGVyZS1uby1mbG93LWJhdHRlcmllcy13aXRoLXN5bW1ldHJpYy1mZXJyb2N5YW5pZGUtZWxlY3Ryb2x5dGVzJTJGJTdDV2h5JTIwYXJlJTIwdGhlcmUlMjBubyUyMGZsb3clMjBiYXR0ZXJpZXMlMjB3aXRoJTIwc3ltbWV0cmljJTIwZmVycm9jeWFuaWRlJTIwZWxlY3Ryb2x5dGVzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzQzOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMCUzQTM5JTNBMDIlMjAlMkIwMDAw",
+      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "pubDate": "Wed, 02 Sep 2026 10:39:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdWx0aXZlcnNlY29tcHV0aW5nLmNvbSUyRnJlc291cmNlcyUyRmludHJvZHVjaW5nLXF1YXNhci00MzhiLWV1cm9wZS1zLWxlYWRpbmctYWktbW9kZWwlN0NodHRwcyUzQSUyRiUyRm11bHRpdmVyc2Vjb21wdXRpbmcuY29tJTJGcmVzb3VyY2VzJTJGaW50cm9kdWNpbmctcXVhc2FyLTQzOGItZXVyb3BlLXMtbGVhZGluZy1haS1tb2RlbCU3Q1F1YXNhciUyMDQzOEIlM0ElMjBFdXJvcGUncyUyMExlYWRpbmclMjBBSSUyME1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzQxMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMCUzQTAyJTNBNDElMjAlMkIwMDAw",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "pubDate": "Wed, 02 Sep 2026 10:02:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9yZGlza3Bvc3QuY29tJTJGMjAyNiUyRjA1JTJGMDglMkZzd2VkZW4tcG93ZXItY2FibGUtZGlzcHV0ZS1mcmVlemVzLWxpbmstdG8tZGVubWFyayUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vcmRpc2twb3N0LmNvbSUyRjIwMjYlMkYwNSUyRjA4JTJGc3dlZGVuLXBvd2VyLWNhYmxlLWRpc3B1dGUtZnJlZXplcy1saW5rLXRvLWRlbm1hcmslMkYlN0NTd2VkZW4lMjBwYXVzZXMlMjBEZW5tYXJrJTIwcG93ZXIlMjBjYWJsZSUyMG92ZXIlMjBFVSUyMGdyaWQlMjBydWxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMzODA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMDklM0EyMCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Sweden pauses Denmark power cable over EU grid rules",
+      "pubDate": "Wed, 02 Sep 2026 09:20:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJlZXJzLnRlbGxpLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2FyZWVycy50ZWxsaS5jb20lMkYlN0NUZWxsaSUyMChZQyUyMEYyNCklMjBpcyUyMGhpcmluZyUyMGVuZ2luZWVycyUyMGFuZCUyMGRlc2lnbmVycyUyMCU1QkJlcmxpbiUyQyUyMG9uLXNpdGUlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzMzU1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDA4JTNBNDMlM0E0OSUyMCUyQjAwMDA",
+      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "pubDate": "Wed, 02 Sep 2026 08:43:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGY29tbW9kb3JlLTY0LXJlbGVhc2VkLXNlcHRlbWJlci0xLTE5ODIlMkYlN0NodHRwcyUzQSUyRiUyRmRmYXJxLmhvbWVpcC5uZXQlMkZjb21tb2RvcmUtNjQtcmVsZWFzZWQtc2VwdGVtYmVyLTEtMTk4MiUyRiU3Q0NvbW1vZG9yZSUyMDY0JTIwcmVsZWFzZWQlMjBTZXB0ZW1iZXIlMjAxJTJDJTIwMTk4MiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMzNDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMDglM0EzNiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Commodore 64 released September 1, 1982",
+      "pubDate": "Wed, 02 Sep 2026 08:36:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjI5NTMwJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjI5NTMwJTdDVGhlJTIwRW1lcmdlbnQlMjBTeW1ib2xpYyUyMFN0cnVjdHVyZSUyMG9mJTIwQXJ0aWZpY2lhbCUyME5ldXJhbCUyME5ldHdvcmtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzE2NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAwNCUzQTE1JTNBNTYlMjAlMkIwMDAw",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "pubDate": "Wed, 02 Sep 2026 04:15:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJmcGdhLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZ3ZWJmcGdhLmlvJTJGJTdDV2ViRlBHQSUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMxNTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMDMlM0E1NCUzQTU4JTIwJTJCMDAwMA",
+      "title": "WebFPGA (2019)",
+      "pubDate": "Wed, 02 Sep 2026 03:54:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

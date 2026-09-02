@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 48,
-    "generatedAt": "2026-09-02T04:44:09.630Z"
+    "itemCount": 49,
+    "generatedAt": "2026-09-02T12:49:29.642Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoZW5jaGFudC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA4JTJGMTklMkZzb2x2aW5nLXRoZS1mbGF0LWN1YmUlMkYlN0NodHRwcyUzQSUyRiUyRm1hdGhlbmNoYW50LndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDglMkYxOSUyRnNvbHZpbmctdGhlLWZsYXQtY3ViZSUyRiU3Q1NvbHZpbmclMjB0aGUlMjBGbGF0JTIwQ3ViZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA4NjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTIlM0EwMiUzQTAxJTIwJTJCMDAwMA",
       "title": "Solving the Flat Cube",
       "pubDate": "Mon, 31 Aug 2026 12:02:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZpbnN1cmFuY2UtY2xhaW1zLWFkanVzdGVycy1yZWFsbHktaGF0ZS1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGaW5zdXJhbmNlLWNsYWltcy1hZGp1c3RlcnMtcmVhbGx5LWhhdGUtYWklMkYlN0NZb3UlMjBLbm93JTIwV2hvJTIwSGF0ZXMlMjBBSSUzRiUyMEluc3VyYW5jZSUyMENsYWltcyUyMEFkanVzdGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA4MjI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTElM0EwMSUzQTE5JTIwJTJCMDAwMA",
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "pubDate": "Mon, 31 Aug 2026 11:01:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 41,
-    "generatedAt": "2026-09-02T04:44:09.630Z"
+    "itemCount": 45,
+    "generatedAt": "2026-09-02T12:49:29.641Z"
   },
   "items": [
     {
@@ -252,6 +252,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYnVzaGVsbC5jb20lMkYyMDI2JTJGMDklMkYwMSUyRnRleHQtZWRpdG9yJTJGJTdDaHR0cHMlM0ElMkYlMkZkYnVzaGVsbC5jb20lMkYyMDI2JTJGMDklMkYwMSUyRnRleHQtZWRpdG9yJTJGJTdDRmluZSUyQyUyMEknbGwlMjBidWlsZCUyMG15JTIwb3duJTIwdGV4dCUyMGVkaXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI0ODYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTclM0ExMiUzQTE1JTIwJTJCMDAwMA",
       "title": "Fine, I'll build my own text editor",
       "pubDate": "Tue, 01 Sep 2026 17:12:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNyLnlwLnRvJTJGMjAyNjA3MDQtYnVncy5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNyLnlwLnRvJTJGMjAyNjA3MDQtYnVncy5odG1sJTdDQnVncyUyMGhhcHBlbiUzQSUyMFRoZSUyMGVhc3klMjB3YXklMjB0byUyMGNvbXBhcmUlMjBzb2xvJTIwUFElMjB0byUyMEVDQyUyQlBRJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Mjg0ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAyMSUzQTI3JTNBMzclMjAlMkIwMDAw",
+      "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
+      "pubDate": "Tue, 01 Sep 2026 21:27:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZGZyLmlvJTJGdGhvdWdodHMlMkYyMDI2MDgzMV9hX3NtYWxsX3RlbGVzY29wZV90aGF0X3N1cnByaXNlZF9tZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYWRmci5pbyUyRnRob3VnaHRzJTJGMjAyNjA4MzFfYV9zbWFsbF90ZWxlc2NvcGVfdGhhdF9zdXJwcmlzZWRfbWUlMkYlN0NBJTIwU21hbGwlMjBUZWxlc2NvcGUlMjBUaGF0JTIwU3VycHJpc2VkJTIwTWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMjg4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE1JTNBMDAlM0EyOSUyMCUyQjAwMDA",
+      "title": "A Small Telescope That Surprised Me",
+      "pubDate": "Tue, 01 Sep 2026 15:00:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbmxpbmVsaWJyYXJ5LndpbGV5LmNvbSUyRmRvaSUyRjEwLjExMTElMkZwYWxhLjcwMDY0JTdDaHR0cHMlM0ElMkYlMkZvbmxpbmVsaWJyYXJ5LndpbGV5LmNvbSUyRmRvaSUyRjEwLjExMTElMkZwYWxhLjcwMDY0JTdDUHJhZWFyY3R1cnVzJTIwZ2lnYXMlM0ElMjBnaWFudCUyMHNjb3JwaW9uJTIwZnJvbSUyMExvd2VyJTIwRGV2b25pYW4lMjAoTG9jaGtvdmlhbiklMjBvZiUyMEJyaXRhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMjE5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE0JTNBMDUlM0ExOSUyMCUyQjAwMDA",
+      "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
+      "pubDate": "Tue, 01 Sep 2026 14:05:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZWFzZmVydGlnLmNvbSUyRmJsb2clMkYyMDI2JTJGMDklMkZtb3ZlLWluLWNwcC13aXRob3V0LWEtc3RkbW92ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5kcmVhc2ZlcnRpZy5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGbW92ZS1pbi1jcHAtd2l0aG91dC1hLXN0ZG1vdmUlMkYlN0NNb3ZlJTIwaW4lMjBDJTJCJTJCJTIwd2l0aG91dCUyMGElMjBzdGQlM0Ftb3ZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjE1OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAxMyUzQTE3JTNBMTMlMjAlMkIwMDAw",
+      "title": "Move in C++ without a std:move",
+      "pubDate": "Tue, 01 Sep 2026 13:17:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]
