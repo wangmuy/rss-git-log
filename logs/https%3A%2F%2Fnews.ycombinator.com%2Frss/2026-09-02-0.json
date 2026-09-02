@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 10,
-    "generatedAt": "2026-09-02T12:49:29.641Z"
+    "itemCount": 33,
+    "generatedAt": "2026-09-02T19:25:23.895Z"
   },
   "items": [
     {
@@ -66,6 +66,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJmcGdhLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZ3ZWJmcGdhLmlvJTJGJTdDV2ViRlBHQSUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMxNTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMDMlM0E1NCUzQTU4JTIwJTJCMDAwMA",
       "title": "WebFPGA (2019)",
       "pubDate": "Wed, 02 Sep 2026 03:54:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmlhZG5lLnNwYWNlJTJGMjAyNiUyRjA5JTJGMDElMkZodW1hbml0eS1oYXMtYnVpbHQtdGhlLXJlY29yZHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYXJpYWRuZS5zcGFjZSUyRjIwMjYlMkYwOSUyRjAxJTJGaHVtYW5pdHktaGFzLWJ1aWx0LXRoZS1yZWNvcmRzLmh0bWwlN0NIdW1hbml0eSUyMGhhcyUyMGJ1aWx0JTIwdGhlJTIwcmVjb3JkcyUyMG9mJTIwRkFURSUyMGJ5JTIwYWNjaWRlbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU0MDgwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDE5JTNBMDElM0ExNyUyMCUyQjAwMDA",
+      "title": "Humanity has built the records of FATE by accident",
+      "pubDate": "Wed, 02 Sep 2026 19:01:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFyZ2luYWxseWNvbXBlbGxpbmcuY29tJTJGcCUyRnRoZS1hbWVyaWNhbi13b3JrZXItdnMtdGhlLW1vc3QtcXVhbGlmaWVkJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFyZ2luYWxseWNvbXBlbGxpbmcuY29tJTJGcCUyRnRoZS1hbWVyaWNhbi13b3JrZXItdnMtdGhlLW1vc3QtcXVhbGlmaWVkJTdDVGhlJTIwQW1lcmljYW4lMjBXb3JrZXIlMjB2cy4lMjB0aGUlMjBNb3N0JTIwUXVhbGlmaWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDA1NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxOCUzQTQzJTNBMzUlMjAlMkIwMDAw",
+      "title": "The American Worker vs. the Most Qualified",
+      "pubDate": "Wed, 02 Sep 2026 18:43:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJpdXMuYmxvZyUyRmZpcmVmb3gtMTU1LWFpLWtpbGwtc3dpdGNoLXJldGVzdCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFyaXVzLmJsb2clMkZmaXJlZm94LTE1NS1haS1raWxsLXN3aXRjaC1yZXRlc3QlMkYlN0NGaXJlZm94J3MlMjBBSSUyMFN3aXRjaCUyMElzJTIwT2ZmLiUyMFRlbGVtZXRyeSUyMElzbid0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDAzOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxOCUzQTMwJTNBNDklMjAlMkIwMDAw",
+      "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
+      "pubDate": "Wed, 02 Sep 2026 18:30:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXh0bG9nLmNjJTJGcG9zdCUyRjg5NSU3Q2h0dHBzJTNBJTJGJTJGdGV4dGxvZy5jYyUyRnBvc3QlMkY4OTUlN0NXaHklMjBkbyUyMHNvJTIwbWFueSUyMHRvb2xzJTIwaGF2ZSUyMEpTT04lMjBjb25maWclMjBmaWxlcyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQwMjk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTglM0EyMyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Why do so many tools have JSON config files?",
+      "pubDate": "Wed, 02 Sep 2026 18:23:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbG91bS5uZXQlMkYyMDI2LTA5LTAyLWlfZG9udF9oYXZlX2Ffc21hcnRwaG9uZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZwbG91bS5uZXQlMkYyMDI2LTA5LTAyLWlfZG9udF9oYXZlX2Ffc21hcnRwaG9uZS5odG1sJTdDSSUyMERvbid0JTIwSGF2ZSUyMGElMjBTbWFydHBob25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Mzk4NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxNyUzQTUxJTNBMjklMjAlMkIwMDAw",
+      "title": "I Don't Have a Smartphone",
+      "pubDate": "Wed, 02 Sep 2026 17:51:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bXMucGFpbnQubmV0JTJGdG9waWMlMkYxMzQ1NjItcGFpbnRuZXQtNTItYWxwaGEtYnVpbGQtOTczOSUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9ydW1zLnBhaW50Lm5ldCUyRnRvcGljJTJGMTM0NTYyLXBhaW50bmV0LTUyLWFscGhhLWJ1aWxkLTk3MzklMkYlN0NQYWludC5uZXQlMjA1LjIlMjBhbHBoYSUyMG5vdyUyMHJ1bnMlMjBvbiUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzkzODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxNyUzQTE4JTNBMzklMjAlMkIwMDAw",
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "pubDate": "Wed, 02 Sep 2026 17:18:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5nbGVtbC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnRhbmdsZW1sLmNvbSUyRiU3Q1RhbmdsZSUyMCVFMiU4MCU5MyUyMFZpc3VhbCUyME1MJTIwUGlwZWxpbmUlMjBFZGl0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzOTAyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDE2JTNBNDklM0EyOSUyMCUyQjAwMDA",
+      "title": "Tangle – Visual ML Pipeline Editor",
+      "pubDate": "Wed, 02 Sep 2026 16:49:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFja2VybmluamEuY29kZWJlcmcucGFnZSUyRnBvc3QlMkZob3ctdG8tZGVibG9hdC15b3VyLXhpYW9taS0xNS11bHRyYS13aXRob3V0LXJvb3RpbmctYW5kLWNvbm5lY3RpbmctaXQtdG8tdGhlLWNvbXB1dGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZ0cmFja2VybmluamEuY29kZWJlcmcucGFnZSUyRnBvc3QlMkZob3ctdG8tZGVibG9hdC15b3VyLXhpYW9taS0xNS11bHRyYS13aXRob3V0LXJvb3RpbmctYW5kLWNvbm5lY3RpbmctaXQtdG8tdGhlLWNvbXB1dGVyJTJGJTdDSG93JTIwdG8lMjBkZWJsb2F0JTIweW91ciUyMFhpYW9taSUyMDE1JTIwVWx0cmElMjB3aXRob3V0JTIwcm9vdCUyMGFjY2VzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM4NzQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTYlM0EzMyUzQTA3JTIwJTJCMDAwMA",
+      "title": "How to debloat your Xiaomi 15 Ultra without root access",
+      "pubDate": "Wed, 02 Sep 2026 16:33:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV1cm9haS5zY2llbmNlJTJGcCUyRnRoZS1yYWNlLXRvLWVuZ2luZWVyLW5ldy1rbm9icy1mb3IlN0NodHRwcyUzQSUyRiUyRnd3dy5uZXVyb2FpLnNjaWVuY2UlMkZwJTJGdGhlLXJhY2UtdG8tZW5naW5lZXItbmV3LWtub2JzLWZvciU3Q1RoZSUyMHJhY2UlMjB0byUyMGVuZ2luZWVyJTIwbmV3JTIwa25vYnMlMjBmb3IlMjB0aGUlMjBodW1hbiUyMGJyYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Mzg2MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxNiUzQTI1JTNBMjglMjAlMkIwMDAw",
+      "title": "The race to engineer new knobs for the human brain",
+      "pubDate": "Wed, 02 Sep 2026 16:25:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcm9udGllcmhhcm5lc3Mub3JnJTdDaHR0cHMlM0ElMkYlMkZmcm9udGllcmhhcm5lc3Mub3JnJTJGJTdDU2hvdyUyMEhOJTNBJTIwRnJvbnRpZXJIYXJuZXNzJTIwRXZhbCUyMCVFMiU4MCU5MyUyMDklMjBoYXJuZXNzJTJDJTIwc2FtZSUyMG1vZGVsJTJDJTIwY29zdCUyMHBlciUyMHBhc3MlMjB2YXJpZXMlMjAxN3glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzODQ5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDE2JTNBMTQlM0E1MiUyMCUyQjAwMDA",
+      "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+      "pubDate": "Wed, 02 Sep 2026 16:14:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV4dXNtb2RzLmNvbSUyRm5ld3MlMkYxNTU5NyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5leHVzbW9kcy5jb20lMkZuZXdzJTJGMTU1OTclN0NTdGVhbWREQiUyMEpvaW5zJTIwTmV4dXMlMjBNb2RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Mzc3MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxNSUzQTI1JTNBNTUlMjAlMkIwMDAw",
+      "title": "SteamdDB Joins Nexus Mods",
+      "pubDate": "Wed, 02 Sep 2026 15:25:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkYzLTgtZmxhc2gtYW5kLTMtOC1mbGFzaC1jeWJlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZpbm5vdmF0aW9uLWFuZC1haSUyRm1vZGVscy1hbmQtcmVzZWFyY2glMkZnZW1pbmktbW9kZWxzJTJGMy04LWZsYXNoLWFuZC0zLTgtZmxhc2gtY3liZXIlMkYlN0NHZW1pbmklMjAzLjglMjBGbGFzaCUyMGFuZCUyMDMuOCUyMEZsYXNoJTIwQ3liZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzNzU1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDE1JTNBMTIlM0E0MCUyMCUyQjAwMDA",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "pubDate": "Wed, 02 Sep 2026 15:12:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dXJ0bGVzcGFjZS5ibG9nJTJGcCUyRmV4aXQtdGhlLWNhdmUlN0NodHRwcyUzQSUyRiUyRnR1cnRsZXNwYWNlLmJsb2clMkZwJTJGZXhpdC10aGUtY2F2ZSU3Q0V4aXQlMjB0aGUlMjBDYXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzY2MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxNCUzQTE2JTNBNDUlMjAlMkIwMDAw",
+      "title": "Exit the Cave",
+      "pubDate": "Wed, 02 Sep 2026 14:16:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWxjLWFpJTJGd2ViLWxsbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1sYy1haSUyRndlYi1sbG0lN0NXZWJMTE0lM0ElMjBoaWdoLXBlcmZvcm1hbmNlJTIwaW4tYnJvd3NlciUyMExMTSUyMGluZmVyZW5jZSUyMGVuZ2luZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM2NDExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTQlM0EwMiUzQTM1JTIwJTJCMDAwMA",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "pubDate": "Wed, 02 Sep 2026 14:02:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGVuZW9zLnNvY2lhbCUyRiU0MEdyYXBoZW5lT1MlMkYxMTcxOTQwMDcxNTc0OTk0MzUlN0NodHRwcyUzQSUyRiUyRmdyYXBoZW5lb3Muc29jaWFsJTJGJTQwR3JhcGhlbmVPUyUyRjExNzE5NDAwNzE1NzQ5OTQzNSU3Q0dyYXBoZW5lT1MlMjBzYXlzJTIwUGl4ZWwlMjAxMSUyMGhhcyUyME1URSUyMHN1cHBvcnQlMjBhZnRlciUyMGFsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM2Mzg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTQlM0EwMCUzQTI4JTIwJTJCMDAwMA",
+      "title": "GrapheneOS says Pixel 11 has MTE support after all",
+      "pubDate": "Wed, 02 Sep 2026 14:00:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmVsbG5lci5jb20lMkZyZXBvcnRzJTJGbWFudWZhY3R1cmVkLXNvdXJjZXMtYmVoaW5kLWFpLXJlY29tbWVuZGF0aW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGdHJlbGxuZXIuY29tJTJGcmVwb3J0cyUyRm1hbnVmYWN0dXJlZC1zb3VyY2VzLWJlaGluZC1haS1yZWNvbW1lbmRhdGlvbnMlMkYlN0NUaHJlZSUyMHNpdGVzJTIwbWFkZSUyMDIxNSUyQzEyOCUyMCVFMiU4MCU5Q2Jlc3QlMjBzb2Z0d2FyZSVFMiU4MCU5RCUyMHBhZ2VzJTIwZm9yJTIwQUkuJTIwUGVycGxleGl0eSUyMGNpdGVzJTIwdGhlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM2Mzc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTMlM0E1OSUzQTU5JTIwJTJCMDAwMA",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "pubDate": "Wed, 02 Sep 2026 13:59:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJpcGVhY3Jvc3MuY29tJTJGcG9zdHMlMkZwb2lzc29uLWRpc2stc2FtcGxpbmclMkYlN0NodHRwcyUzQSUyRiUyRnN0cmlwZWFjcm9zcy5jb20lMkZwb3N0cyUyRnBvaXNzb24tZGlzay1zYW1wbGluZyUyRiU3Q1BvaXNzb24lMjBEaXNrJTIwU2FtcGxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzNjE3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDEzJTNBNDclM0E0OSUyMCUyQjAwMDA",
+      "title": "Poisson Disk Sampling",
+      "pubDate": "Wed, 02 Sep 2026 13:47:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaXNsZS5jb20lMkZibG9nJTJGYWlzbGUtZGlzY292ZXJlZC1zaXgtY3VybC1jdmVzLWFmdGVyLW9wZW5haS1hbmQtYW50aHJvcGljLWZvdW5kLXplcm8lN0NodHRwcyUzQSUyRiUyRmFpc2xlLmNvbSUyRmJsb2clMkZhaXNsZS1kaXNjb3ZlcmVkLXNpeC1jdXJsLWN2ZXMtYWZ0ZXItb3BlbmFpLWFuZC1hbnRocm9waWMtZm91bmQtemVybyU3Q1NpeCUyMGN1cmwlMjBDVkVzJTIwYWZ0ZXIlMjBPcGVuQUklMjBhbmQlMjBBbnRocm9waWMlMjBjYW1lJTIwYmFjayUyMHdpdGglMjB6ZXJvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzYxMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMyUzQTQzJTNBMTQlMjAlMkIwMDAw",
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "pubDate": "Wed, 02 Sep 2026 13:43:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRndvcmxkLXMtYmlnZ2VzdC1kYXJrLW1hdHRlci1kZXRlY3Rvci1zcG90cy1zaW5nbGUtd2VpcmQtcGFydGljbGUlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbmNlLm9yZyUyRmNvbnRlbnQlMkZhcnRpY2xlJTJGd29ybGQtcy1iaWdnZXN0LWRhcmstbWF0dGVyLWRldGVjdG9yLXNwb3RzLXNpbmdsZS13ZWlyZC1wYXJ0aWNsZSU3Q0JpZ2dlc3QlMjBkYXJrJTIwbWF0dGVyJTIwZGV0ZWN0b3IlMjBzcG90cyUyMGElMjBzaW5nbGUlMjB3ZWlyZCUyMHBhcnRpY2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzYwNzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMyUzQTQwJTNBMjklMjAlMkIwMDAw",
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "pubDate": "Wed, 02 Sep 2026 13:40:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDkwNTg1JTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDkwNTg1JTJGJTdDQSUyME5vdGUlMjBmcm9tJTIwTFdOJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzU3NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMyUzQTE3JTNBMTIlMjAlMkIwMDAw",
+      "title": "A Note from LWN",
+      "pubDate": "Wed, 02 Sep 2026 13:17:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRmFnaW5nLWJyYWlucy1ibGVuZC1tZW1vcmllcy10b2dldGhlci1pbnN0ZWFkLW9mLWZvcmdldHRpbmctdGhlbS1zdHVkeS1maW5kcyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3R1ZHlmaW5kcy5jb20lMkZhZ2luZy1icmFpbnMtYmxlbmQtbWVtb3JpZXMtdG9nZXRoZXItaW5zdGVhZC1vZi1mb3JnZXR0aW5nLXRoZW0tc3R1ZHktZmluZHMlMkYlN0NBZ2luZyUyMEJyYWlucyUyMEJsZW5kJTIwTWVtb3JpZXMlMjBUb2dldGhlciUyMEluc3RlYWQlMjBvZiUyMEp1c3QlMjBGb3JnZXR0aW5nJTIwVGhlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM1NTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTIlM0E1OSUzQTA5JTIwJTJCMDAwMA",
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "pubDate": "Wed, 02 Sep 2026 12:59:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZWxwLm1pc3RyYWwuYWklMkZlbiUyRmFydGljbGVzJTJGNDU1MjA3LWNhbi1pLW9wdC1vdXQtb2YtbXktaW5wdXQtb3Itb3V0cHV0LWRhdGEtYmVpbmctdXNlZC1mb3ItdHJhaW5pbmclN0NodHRwcyUzQSUyRiUyRmhlbHAubWlzdHJhbC5haSUyRmVuJTJGYXJ0aWNsZXMlMkY0NTUyMDctY2FuLWktb3B0LW91dC1vZi1teS1pbnB1dC1vci1vdXRwdXQtZGF0YS1iZWluZy11c2VkLWZvci10cmFpbmluZyU3Q01pc3RyYWwlMjBub3clMjB0cmFpbnMlMjBvbiUyMHVzZXIlMjBpbnB1dCUyMGJ5JTIwZGVmYXVsdCUyQyUyMGV4Y2VwdCUyMG9uJTIwZW50ZXJwcmlzZSUyMHRpZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzNTI4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDEyJTNBMzAlM0EzOSUyMCUyQjAwMDA",
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "pubDate": "Wed, 02 Sep 2026 12:30:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGY2hlY2stY29udGVudCU3Q2h0dHBzJTNBJTJGJTJGY2xhdWRlLmNvbSUyRmNoZWNrLWNvbnRlbnQlN0NDaGVjayUyMGlmJTIwYSUyMGZpbGUlMjB3YXMlMjBtYWRlJTIwd2l0aCUyMENsYXVkZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM1MjAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTIlM0EyMyUzQTIwJTIwJTJCMDAwMA",
+      "title": "Check if a file was made with Claude",
+      "pubDate": "Wed, 02 Sep 2026 12:23:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

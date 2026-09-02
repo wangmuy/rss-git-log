@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 45,
-    "generatedAt": "2026-09-02T12:49:29.641Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-02T19:25:23.895Z"
   },
   "items": [
     {
@@ -276,6 +276,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbmRyZWFzZmVydGlnLmNvbSUyRmJsb2clMkYyMDI2JTJGMDklMkZtb3ZlLWluLWNwcC13aXRob3V0LWEtc3RkbW92ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5kcmVhc2ZlcnRpZy5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGbW92ZS1pbi1jcHAtd2l0aG91dC1hLXN0ZG1vdmUlMkYlN0NNb3ZlJTIwaW4lMjBDJTJCJTJCJTIwd2l0aG91dCUyMGElMjBzdGQlM0Ftb3ZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjE1OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAxMyUzQTE3JTNBMTMlMjAlMkIwMDAw",
       "title": "Move in C++ without a std:move",
       "pubDate": "Tue, 01 Sep 2026 13:17:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY2FjaGUtdHJhbnNjb2RpbmclMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZjYWNoZS10cmFuc2NvZGluZyUyRiU3Q1dlJTIwY291bGQlMjBzYXZlJTIwcGV0YWJ5dGVzJTIwb2YlMjBjYWNoZSUyMHN0b3JhZ2UlMjB3aXRoJTIwWnN0YW5kYXJkJTIwYW5kJTIwUGluZ29yYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIxOTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTMlM0E0MSUzQTExJTIwJTJCMDAwMA",
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "pubDate": "Tue, 01 Sep 2026 13:41:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDglMkYzMSUyRnVzJTJGd2VuZGVsbC1iZXJyeS1kZWFkLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwOCUyRjMxJTJGdXMlMkZ3ZW5kZWxsLWJlcnJ5LWRlYWQuaHRtbCU3Q1dlbmRlbGwlMjBCZXJyeSUyMGhhcyUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxNzAxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDAxJTNBNDklM0E1OCUyMCUyQjAwMDA",
+      "title": "Wendell Berry has died",
+      "pubDate": "Tue, 01 Sep 2026 01:49:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]
