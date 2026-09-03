@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 33,
-    "generatedAt": "2026-09-02T19:25:23.895Z"
+    "itemCount": 44,
+    "generatedAt": "2026-09-03T04:40:46.726Z"
   },
   "items": [
     {
@@ -204,6 +204,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGY2hlY2stY29udGVudCU3Q2h0dHBzJTNBJTJGJTJGY2xhdWRlLmNvbSUyRmNoZWNrLWNvbnRlbnQlN0NDaGVjayUyMGlmJTIwYSUyMGZpbGUlMjB3YXMlMjBtYWRlJTIwd2l0aCUyMENsYXVkZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM1MjAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTIlM0EyMyUzQTIwJTIwJTJCMDAwMA",
       "title": "Check if a file was made with Claude",
       "pubDate": "Wed, 02 Sep 2026 12:23:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQzNTMwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQzNTMwJTdDTGF1bmNoJTIwSE4lM0ElMjBSb25hblJYJTIwKFlDJTIwUzI2KSUyMCVFMiU4MCU5MyUyMFBlcnNvbmFsaXplZCUyMFBlcHRpZGVzJTIwYW5kJTIwR0xQLTFzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDM1MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAyMiUzQTM2JTNBMDQlMjAlMkIwMDAw",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "pubDate": "Wed, 02 Sep 2026 22:36:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWNvbmR0aG91Z2h0cy5haSUyRnAlMkYxNC1yZWFzb25zLXJvYm90aWNzLWlzLWhhcmQlN0NodHRwcyUzQSUyRiUyRnNlY29uZHRob3VnaHRzLmFpJTJGcCUyRjE0LXJlYXNvbnMtcm9ib3RpY3MtaXMtaGFyZCU3Q1JlYXNvbnMlMjByb2JvdGljcyUyMGlzJTIwaGFyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQzMTkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMjIlM0EwMiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Reasons robotics is hard",
+      "pubDate": "Wed, 02 Sep 2026 22:02:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYW5nby5kZXYlMkZjYXJlZXJzJTdDaHR0cHMlM0ElMkYlMkZuYW5nby5kZXYlMkZjYXJlZXJzJTdDTmFuZ28lMjAoWUMlMjBXMjMpJTIwaXMlMjBoaXJpbmclMjBhY3Jvc3MlMjBlbmclMkMlMjBwcm9kdWN0JTIwYW5kJTIwR1RNJTIwKFNGJTIwYW5kJTIwcmVtb3RlKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQyNDg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMjElM0EwMCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "pubDate": "Wed, 02 Sep 2026 21:00:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbWFnZXMuZ2F0ZXNub3Rlcy5jb20lMkYxMjUxNGViOC03YjUxLTAwOGUtNDFhOS01MTI1NDJjZjY4M2IlMkYzNGQ1NjFjOC1jZjVjLTRlNjktYWY0Ny0zNzgyZWExMTQ4MmUlMkZPcmlnaW5hbC1NaWNyb3NvZnQtU291cmNlLUNvZGUucGRmJTdDaHR0cHMlM0ElMkYlMkZpbWFnZXMuZ2F0ZXNub3Rlcy5jb20lMkYxMjUxNGViOC03YjUxLTAwOGUtNDFhOS01MTI1NDJjZjY4M2IlMkYzNGQ1NjFjOC1jZjVjLTRlNjktYWY0Ny0zNzgyZWExMTQ4MmUlMkZPcmlnaW5hbC1NaWNyb3NvZnQtU291cmNlLUNvZGUucGRmJTdDQWx0YWlyJTIwQmFzaWMlMjBJbnRlcnByZXRlciUyMFNvdXJjZSUyMENvZGUlMjAoMTk3NSklMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU0MTc1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDIwJTNBMDglM0EyMiUyMCUyQjAwMDA",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "pubDate": "Wed, 02 Sep 2026 20:08:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUGhpbG9MYWJzJTJGZmFibGU1MS13b3JsZHMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZQaGlsb0xhYnMlMkZmYWJsZTUxLXdvcmxkcyU3Q0ZhYmxlJTIwNS4xJTIwV29ybGQlMjBNb2RlbGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQxNDU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTklM0E0OSUzQTAxJTIwJTJCMDAwMA",
+      "title": "Fable 5.1 World Modeling",
+      "pubDate": "Wed, 02 Sep 2026 19:49:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIubWV0YS5jb20lMkZhaSUyRm1vZGVscyUyRm11c2Utc3BhcmslMkYlN0NodHRwcyUzQSUyRiUyRmRldmVsb3Blci5tZXRhLmNvbSUyRmFpJTJGbW9kZWxzJTJGbXVzZS1zcGFyayUyRiU3Q011c2UlMjBTcGFyayUyMDEuMyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQxMjU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTklM0EzNSUzQTA0JTIwJTJCMDAwMA",
+      "title": "Muse Spark 1.3",
+      "pubDate": "Wed, 02 Sep 2026 19:35:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZG1pcmFsY2xvdWRiZXJnLm1lZGl1bS5jb20lMkZhLW1hdHRlci1vZi1taWxsaW1ldGVycy10aGUtc3Rvcnktb2YtcWFudGFzLWZsaWdodC0zMi1iZGFhNjJkYzk4ZTclN0NodHRwcyUzQSUyRiUyRmFkbWlyYWxjbG91ZGJlcmcubWVkaXVtLmNvbSUyRmEtbWF0dGVyLW9mLW1pbGxpbWV0ZXJzLXRoZS1zdG9yeS1vZi1xYW50YXMtZmxpZ2h0LTMyLWJkYWE2MmRjOThlNyU3Q1FhbnRhcyUyMEFpcmJ1cyUyMEEzODAlMjBlbmdpbmUlMjBmYWlsdXJlJTIwaW4lMjAyMDEwJTIwKDIwMjMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDA1NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxOCUzQTQyJTNBNDElMjAlMkIwMDAw",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "pubDate": "Wed, 02 Sep 2026 18:42:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2VlZGVnb2xmLm5sJTJGZW4lMkZibG9nJTJGNjUlMkZhc3luYy1ydXN0LXZzLXJ0b3Mtc2hvd2Rvd24lMkYlN0NodHRwcyUzQSUyRiUyRnR3ZWVkZWdvbGYubmwlMkZlbiUyRmJsb2clMkY2NSUyRmFzeW5jLXJ1c3QtdnMtcnRvcy1zaG93ZG93biUyRiU3Q0VtYmVkZGVkJTIwUnVzdCUyMFJUT1MlMjB2cy4lMjBDJTIwUlRPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQwNDE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTglM0EzMiUzQTI0JTIwJTJCMDAwMA",
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "pubDate": "Wed, 02 Sep 2026 18:32:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYwMiUyRnRlY2hub2xvZ3klMkZnb29nbGUtYWQtdGVjaC1yZW1lZGllcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYwMiUyRnRlY2hub2xvZ3klMkZnb29nbGUtYWQtdGVjaC1yZW1lZGllcy5odG1sJTdDR29vZ2xlJTIwYXZvaWRzJTIwYSUyMGJyZWFrdXAlMjBvZiUyMGl0cyUyMGFkJTIwdGVjaCUyMGJ1c2luZXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzcxMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxNCUzQTQ2JTNBMTYlMjAlMkIwMDAw",
+      "title": "Google avoids a breakup of its ad tech business",
+      "pubDate": "Wed, 02 Sep 2026 14:46:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHVkeWZpbmRzLmNvbSUyRmFnaW5nLWJyYWlucy1ibGVuZC1tZW1vcmllcy10b2dldGhlci1pbnN0ZWFkLW9mLWZvcmdldHRpbmctdGhlbS1zdHVkeS1maW5kcyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3R1ZHlmaW5kcy5jb20lMkZhZ2luZy1icmFpbnMtYmxlbmQtbWVtb3JpZXMtdG9nZXRoZXItaW5zdGVhZC1vZi1mb3JnZXR0aW5nLXRoZW0tc3R1ZHktZmluZHMlMkYlN0NBZ2luZyUyMGJyYWlucyUyMGJsZW5kJTIwbWVtb3JpZXMlMjB0b2dldGhlciUyMGluc3RlYWQlMjBvZiUyMGp1c3QlMjBmb3JnZXR0aW5nJTIwdGhlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM1NTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTIlM0E1OSUzQTA5JTIwJTJCMDAwMA",
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "pubDate": "Wed, 02 Sep 2026 12:59:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZWxwLm1pc3RyYWwuYWklMkZlbiUyRmFydGljbGVzJTJGNDU1MjA3LWNhbi1pLW9wdC1vdXQtb2YtbXktaW5wdXQtb3Itb3V0cHV0LWRhdGEtYmVpbmctdXNlZC1mb3ItdHJhaW5pbmclN0NodHRwcyUzQSUyRiUyRmhlbHAubWlzdHJhbC5haSUyRmVuJTJGYXJ0aWNsZXMlMkY0NTUyMDctY2FuLWktb3B0LW91dC1vZi1teS1pbnB1dC1vci1vdXRwdXQtZGF0YS1iZWluZy11c2VkLWZvci10cmFpbmluZyU3Q0NhbiUyMEklMjBvcHQlMjBvdXQlMjBvZiUyMG15JTIwaW5wdXQlMjBvciUyMG91dHB1dCUyMGRhdGElMjBiZWluZyUyMHVzZWQlMjBmb3IlMjB0cmFpbmluZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM1Mjg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTIlM0EzMCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "pubDate": "Wed, 02 Sep 2026 12:30:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

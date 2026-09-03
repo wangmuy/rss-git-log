@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 51,
-    "generatedAt": "2026-09-02T19:25:23.896Z"
+    "itemCount": 54,
+    "generatedAt": "2026-09-03T04:40:46.727Z"
   },
   "items": [
     {
@@ -312,6 +312,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbHVpLm9yZyUyRmNvbGxlY3Rpb25zJTJGbG9zLWFsYW1vcy1idXNpbmVzcy1jYXJkcyUyRnNlbGVjdGlvbi1jYXJkcyU3Q2h0dHBzJTNBJTJGJTJGY2x1aS5vcmclMkZjb2xsZWN0aW9ucyUyRmxvcy1hbGFtb3MtYnVzaW5lc3MtY2FyZHMlMkZzZWxlY3Rpb24tY2FyZHMlN0NBJTIwU2VsZWN0aW9uJTIwb2YlMjBMb3MlMjBBbGFtb3MlMjBSb2xvZGV4JTIwQnVzaW5lc3MlMjBDYXJkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTEzODU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMTklM0EyNSUzQTQ0JTIwJTJCMDAwMA",
       "title": "A Selection of Los Alamos Rolodex Business Cards",
       "pubDate": "Mon, 31 Aug 2026 19:25:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbWFybWVsbGluZy5jb20lMkZwb3N0cyUyRmNyZWF0aW5nLWJhY2t1cC1zdG9yYWdlLXN1Y2tzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnNtYXJtZWxsaW5nLmNvbSUyRnBvc3RzJTJGY3JlYXRpbmctYmFja3VwLXN0b3JhZ2Utc3Vja3MuaHRtbCU3Q0NyZWF0aW5nJTIwQmFja3VwJTIwU3RvcmFnZSUyMFN1Y2tzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDk2MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAxMyUzQTMzJTNBMzElMjAlMkIwMDAw",
+      "title": "Creating Backup Storage Sucks",
+      "pubDate": "Mon, 31 Aug 2026 13:33:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZXJ3b2x2Lm5ldCUyRnBvc3RzJTJGZmlsZV9mb3JtYXRfcmV2ZXJzZV9lbmdpbmVlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd2Vyd29sdi5uZXQlMkZwb3N0cyUyRmZpbGVfZm9ybWF0X3JldmVyc2VfZW5naW5lZXJpbmclMkYlN0NSZXZlcnNlJTIwRW5naW5lZXJpbmclMjBVbmtub3duJTIwRmlsZSUyMEZvcm1hdHMlMjB3aXRoJTIwSW1IZXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwODYwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDEyJTNBMDElM0EwNSUyMCUyQjAwMDA",
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "pubDate": "Mon, 31 Aug 2026 12:01:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkhvbGRlbiUyNTI3c19MaWdodG5pbmdfZmxpZ2h0JTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkhvbGRlbiUyNTI3c19MaWdodG5pbmdfZmxpZ2h0JTdDSG9sZGVuJ3MlMjBMaWdodG5pbmclMjBGbGlnaHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUwODQwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDMxJTIwQXVnJTIwMjAyNiUyMDExJTNBMjklM0E0NCUyMCUyQjAwMDA",
+      "title": "Holden's Lightning Flight",
+      "pubDate": "Mon, 31 Aug 2026 11:29:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]
