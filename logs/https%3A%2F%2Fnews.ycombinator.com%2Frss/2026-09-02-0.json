@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 44,
-    "generatedAt": "2026-09-03T04:40:46.726Z"
+    "itemCount": 50,
+    "generatedAt": "2026-09-03T19:19:41.529Z"
   },
   "items": [
     {
@@ -270,6 +270,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoZWxwLm1pc3RyYWwuYWklMkZlbiUyRmFydGljbGVzJTJGNDU1MjA3LWNhbi1pLW9wdC1vdXQtb2YtbXktaW5wdXQtb3Itb3V0cHV0LWRhdGEtYmVpbmctdXNlZC1mb3ItdHJhaW5pbmclN0NodHRwcyUzQSUyRiUyRmhlbHAubWlzdHJhbC5haSUyRmVuJTJGYXJ0aWNsZXMlMkY0NTUyMDctY2FuLWktb3B0LW91dC1vZi1teS1pbnB1dC1vci1vdXRwdXQtZGF0YS1iZWluZy11c2VkLWZvci10cmFpbmluZyU3Q0NhbiUyMEklMjBvcHQlMjBvdXQlMjBvZiUyMG15JTIwaW5wdXQlMjBvciUyMG91dHB1dCUyMGRhdGElMjBiZWluZyUyMHVzZWQlMjBmb3IlMjB0cmFpbmluZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM1Mjg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTIlM0EzMCUzQTM5JTIwJTJCMDAwMA",
       "title": "Can I opt out of my input or output data being used for training?",
       "pubDate": "Wed, 02 Sep 2026 12:30:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc3RoYXR3b3JrLmNvbSUyRjYlMkZ1bmlmaWVkLWFyYWJpYyU3Q2h0dHBzJTNBJTJGJTJGd29ya3N0aGF0d29yay5jb20lMkY2JTJGdW5pZmllZC1hcmFiaWMlN0NVbmlmaWVkJTIwQXJhYmljJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDA4MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxOSUzQTAyJTNBNDklMjAlMkIwMDAw",
+      "title": "Unified Arabic",
+      "pubDate": "Wed, 02 Sep 2026 19:02:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwOSUyRjAyJTJGc3RhdGljLWFsbG9jYXRpb24tY29uc3RhbnQtd29yay5odG1sJTdDaHR0cHMlM0ElMkYlMkZtYXRrbGFkLmdpdGh1Yi5pbyUyRjIwMjYlMkYwOSUyRjAyJTJGc3RhdGljLWFsbG9jYXRpb24tY29uc3RhbnQtd29yay5odG1sJTdDU3RhdGljJTIwQWxsb2NhdGlvbiUyQyUyMENvbnN0YW50JTIwV29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM5NTU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTclM0EzMCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Static Allocation, Constant Work",
+      "pubDate": "Wed, 02 Sep 2026 17:30:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWFsLmZ1biUyRnVudXN1YWwtc3VzcGVjdHMlMkYlN0NodHRwcyUzQSUyRiUyRm5lYWwuZnVuJTJGdW51c3VhbC1zdXNwZWN0cyUyRiU3Q1VudXN1YWwlMjBTdXNwZWN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM4MDY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTUlM0E0OCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Unusual Suspects",
+      "pubDate": "Wed, 02 Sep 2026 15:48:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YWxlcmV2aWV3Lm9yZyUyRmFydGljbGUlMkZlbWlseS1vZ2Rlbi1lZGdhci1hbGxhbi1wb2UlN0NodHRwcyUzQSUyRiUyRnlhbGVyZXZpZXcub3JnJTJGYXJ0aWNsZSUyRmVtaWx5LW9nZGVuLWVkZ2FyLWFsbGFuLXBvZSU3Q0hvdyUyMHRvJTIwVGFsayUyMEFib3V0JTIwTXVyZGVyJTNBJTIwRWRnYXIlMjBBbGxhbiUyMFBvZSdzJTIwc3RvcmllcyUyMGFyZSUyMGZ1bGwlMjBvZiUyMGdoYXN0bHklMjBjcmltZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzNzYzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDE1JTNBMTglM0E1OSUyMCUyQjAwMDA",
+      "title": "How to Talk About Murder: Edgar Allan Poe's stories are full of ghastly crimes",
+      "pubDate": "Wed, 02 Sep 2026 15:18:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb2xpbHkuZGUlMkZzYWZlLXdlYnN1cmZpbmclMkYlN0NodHRwcyUzQSUyRiUyRm1vbGlseS5kZSUyRnNhZmUtd2Vic3VyZmluZyUyRiU3Q015JTIwcHJhY3RpY2FsJTIwYXBwcm9hY2glMjB0byUyMHN1cmZpbmclMjB0aGUlMjB3ZWIlMjBzYWZlbHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzNjE5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDEzJTNBNDklM0ExMiUyMCUyQjAwMDA",
+      "title": "My practical approach to surfing the web safely",
+      "pubDate": "Wed, 02 Sep 2026 13:49:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnBsdXNvbmVtYWcuY29tJTJGaXNzdWUtNTQlMkZ0aGUtaW50ZWxsZWN0dWFsLXNpdHVhdGlvbiUyRm9sZC1kaXJlY3Rpb25zJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnBsdXNvbmVtYWcuY29tJTJGaXNzdWUtNTQlMkZ0aGUtaW50ZWxsZWN0dWFsLXNpdHVhdGlvbiUyRm9sZC1kaXJlY3Rpb25zJTJGJTdDT2xkJTIwRGlyZWN0aW9ucyUzQSUyMFJldml2aW5nJTIwdGhlJTIwc3Bpcml0JTIwb2YlMjByZXZpdmFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzQ2NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMSUzQTE3JTNBMDYlMjAlMkIwMDAw",
+      "title": "Old Directions: Reviving the spirit of revival",
+      "pubDate": "Wed, 02 Sep 2026 11:17:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

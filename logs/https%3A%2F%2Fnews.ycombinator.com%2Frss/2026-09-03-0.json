@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-03",
     "newestItemDate": "2026-09-03",
-    "itemCount": 6,
-    "generatedAt": "2026-09-03T12:52:48.525Z"
+    "itemCount": 22,
+    "generatedAt": "2026-09-03T19:19:41.529Z"
   },
   "items": [
     {
@@ -42,6 +42,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwb2xhLnJzJTJGcG9zdHMlMkZhbm5vdW5jaW5nLXBvbGFycy0yJTJGJTdDaHR0cHMlM0ElMkYlMkZwb2xhLnJzJTJGcG9zdHMlMkZhbm5vdW5jaW5nLXBvbGFycy0yJTJGJTdDUHJlLVJlbGVhc2UlMjBvZiUyMFBvbGFycyUyMDIuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ2NzUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMDYlM0E1OSUzQTA4JTIwJTJCMDAwMA",
       "title": "Pre-Release of Polars 2.0",
       "pubDate": "Thu, 03 Sep 2026 06:59:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmZlcmVuY2UtZG9jcy5jZXJlYnJhcy5haSUyRm1vZGVscyUyRm92ZXJ2aWV3JTdDaHR0cHMlM0ElMkYlMkZpbmZlcmVuY2UtZG9jcy5jZXJlYnJhcy5haSUyRm1vZGVscyUyRm92ZXJ2aWV3JTdDUXdlbiUyMDMuOCUyMDI3QiUyMGF2YWlsYWJsZSUyMG9uJTIwQ2VyZWJyYXMlMjBhdCUyMDE1MDAlMjB0b2tlbnMlMkZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NTQ1MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxOCUzQTMyJTNBMTMlMjAlMkIwMDAw",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "pubDate": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDklMkYwMyUyRm9wZW4tYWktYXN0cmEtZ3B0LTYtY3liZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNuYmMuY29tJTJGMjAyNiUyRjA5JTJGMDMlMkZvcGVuLWFpLWFzdHJhLWdwdC02LWN5YmVyLmh0bWwlN0NPcGVuQUklMjBiZWdpbnMlMjByb2xsaW5nJTIwb3V0JTIwR1BULTYlMjBBc3RyYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTU0MjczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTglM0ExOCUzQTIyJTIwJTJCMDAwMA",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "pubDate": "Thu, 03 Sep 2026 18:18:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuYWklMkZwdWJsaWMlMkZhcnRpZmFjdHMlMkYwNmZkMjZhNS00MDNjLTQ3YzgtYWY0OS1kY2Y2YzM1ZWM1NWMlN0NodHRwcyUzQSUyRiUyRmNsYXVkZS5haSUyRnB1YmxpYyUyRmFydGlmYWN0cyUyRjA2ZmQyNmE1LTQwM2MtNDdjOC1hZjQ5LWRjZjZjMzVlYzU1YyU3Q1RoZSUyMERvdWJsZSUyME1hdHRoZXclMjBXYWxrZXIlMjBLbm90JTIwYnklMjBGYWJsZSUyMDUuMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTU0MTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTglM0EwOSUzQTM3JTIwJTJCMDAwMA",
+      "title": "The Double Matthew Walker Knot by Fable 5.1",
+      "pubDate": "Thu, 03 Sep 2026 18:09:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGUExpc25TRmlyOHk1QUhrbVAlMkZob3ctY29uY2VybmVkLXNob3VsZC13ZS1iZS1hYm91dC1hc3RyYS1zLXJlY3VycmVudCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmxlc3N3cm9uZy5jb20lMkZwb3N0cyUyRlBMaXNuU0Zpcjh5NUFIa21QJTJGaG93LWNvbmNlcm5lZC1zaG91bGQtd2UtYmUtYWJvdXQtYXN0cmEtcy1yZWN1cnJlbnQlN0NIb3clMjBjb25jZXJuZWQlMjBzaG91bGQlMjB3ZSUyMGJlJTIwYWJvdXQlMjBBc3RyYSdzJTIwcmVjdXJyZW50JTIwYXJjaGl0ZWN0dXJlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NTMzMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxNyUzQTEwJTNBMDYlMjAlMkIwMDAw",
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "pubDate": "Thu, 03 Sep 2026 17:10:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbWFsbHJ1bi5uZXQlMkZibG9nJTJGbG91ZCUyRnVzYnNpZC1waWNvLXNpZHMtb24tdXNiJTdDaHR0cHMlM0ElMkYlMkZzbWFsbHJ1bi5uZXQlMkZibG9nJTJGbG91ZCUyRnVzYnNpZC1waWNvLXNpZHMtb24tdXNiJTdDVXNic2lkLVBpY28lM0ElMjBCcmlkZ2luZyUyMFJlYWwlMjBDb21tb2RvcmUlMjA2NCUyMFNvdW5kJTIwdG8lMjBNb2Rlcm4lMjBVU0IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU1MzMwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAzJTIwU2VwJTIwMjAyNiUyMDE3JTNBMDklM0EwNCUyMCUyQjAwMDA",
+      "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
+      "pubDate": "Thu, 03 Sep 2026 17:09:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGZ29vc2V3b3JrcyUyRmpvYnMlMkZyZmdZOExhLWZvdW5kaW5nLWNyZWF0aXZlLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGZ29vc2V3b3JrcyUyRmpvYnMlMkZyZmdZOExhLWZvdW5kaW5nLWNyZWF0aXZlLWVuZ2luZWVyJTdDR29vc2V3b3JrcyUyMChZQyUyMFcyMyklMjBJcyUyMEhpcmluZyUyMCVFMiU4MCU5MyVDMiVBMEZvdW5kaW5nJTIwQ3JlYXRpdmUlMjBFbmdpbmVlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUzMTczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTclM0EwMCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
+      "pubDate": "Thu, 03 Sep 2026 17:00:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUyNjE2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUyNjE2JTdDTGF1bmNoJTIwSE4lM0ElMjBNaXJleWUlMjAoWUMlMjBTMjYpJTIwJUUyJTgwJTkzJTIwSW5mcmFzdHJ1Y3R1cmUlMjBmb3IlMjBQaHlzaWNhbCUyMFdvcmxkJTIwQUklMjBBZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU1MjYxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAzJTIwU2VwJTIwMjAyNiUyMDE2JTNBMjQlM0ExMyUyMCUyQjAwMDA",
+      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+      "pubDate": "Thu, 03 Sep 2026 16:24:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlzY292ZXJ3aWxkbGlmZS5jb20lMkZhbmltYWwtZmFjdHMlMkZhcnRpZmljaWFsLWJlYXZlci1kYW1zLWNhbGlmb3JuaWElN0NodHRwcyUzQSUyRiUyRnd3dy5kaXNjb3ZlcndpbGRsaWZlLmNvbSUyRmFuaW1hbC1mYWN0cyUyRmFydGlmaWNpYWwtYmVhdmVyLWRhbXMtY2FsaWZvcm5pYSU3Q0FydGlmaWNpYWwlMjBiZWF2ZXIlMjBkYW1zJTIwc2F3JTIwanV2ZW5pbGUlMjBjb2hvJTIwc2FsbW9uJTIwc3Vydml2YWwlMjByYXRlcyUyMGdvJTIwZnJvbSUyMDglMjUlMjB0byUyMDYwJTI1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NTI1NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxNiUzQTIxJTNBMzMlMjAlMkIwMDAw",
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "pubDate": "Thu, 03 Sep 2026 16:21:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpZm0uYWklMkZibG9nJTJGazIlMkYlN0NodHRwcyUzQSUyRiUyRmlmbS5haSUyRmJsb2clMkZrMiUyRiU3Q0syJTIwSG9yaXpvbiUzQSUyMEElMjBjb25uZWN0ZWQlMjBmbGVldCUyMG9mJTIwc2l4JTIwb3BlbiUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUxNzYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTUlM0EzNiUzQTQzJTIwJTJCMDAwMA",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "pubDate": "Thu, 03 Sep 2026 15:36:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUxMDk2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUxMDk2JTdDQXNrJTIwSE4lM0ElMjBXaHklMjB3ZXJlJTIwT3BlbkFJJTJDJTIwQ2xhdWRlJTJDJTIwYW5kJTIwR3JvayUyMHNpbXVsdGFuZW91c2x5JTIwZG93biUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUxMDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTUlM0EwNyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "pubDate": "Thu, 03 Sep 2026 15:07:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWlsLmZyYXNlci5uYW1lJTJGbmV3cyUyRjIwMjYlMkYwOSUyRjAzJTJGJTdDaHR0cHMlM0ElMkYlMkZuZWlsLmZyYXNlci5uYW1lJTJGbmV3cyUyRjIwMjYlMkYwOSUyRjAzJTJGJTdDLm5hbWUlMjBUZXJtaW5hdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUwNzcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTQlM0E1NCUzQTM5JTIwJTJCMDAwMA",
+      "title": ".name Termination",
+      "pubDate": "Thu, 03 Sep 2026 14:54:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnlodW1hbmV2ZXIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZhbnlodW1hbmV2ZXIuY29tJTJGJTdDQW55JTIwSHVtYW4lMjBFdmVyJTIwJUUyJTgwJTkzJTIwT25lJTIwbGlmZSUyQyUyMGRyYXduJTIwYXQlMjByYW5kb20lMjBmcm9tJTIwYWxsJTIwd2hvJTIwaGF2ZSUyMGV2ZXIlMjBsaXZlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTUwNjk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTQlM0E1MSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "pubDate": "Thu, 03 Sep 2026 14:51:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYWJ5bG9uaWFudHdpbnMuY29tJTJGYmxvZyUyRnBvcnRpbmctYS0xOTkzLWFtaWdhLWdhbWUtdG8tZ29kb3QlMkYlN0NodHRwcyUzQSUyRiUyRmJhYnlsb25pYW50d2lucy5jb20lMkZibG9nJTJGcG9ydGluZy1hLTE5OTMtYW1pZ2EtZ2FtZS10by1nb2RvdCUyRiU3Q1BvcnRpbmclMjBteSUyMDE5OTMlMjBBbWlnYSUyMGdhbWUlMjB0byUyMEdvZG90JTJDJTIwd2l0aCUyMGFuJTIwTExNJTIwcmVhZGluZyUyMHRoZSUyMDY4MDAwJTIwYXNzZW1ibHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU1MDM3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAzJTIwU2VwJTIwMjAyNiUyMDE0JTNBMjglM0ExOCUyMCUyQjAwMDA",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "pubDate": "Thu, 03 Sep 2026 14:28:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWFsZXJ0LmNvbSUyRmFzdHJvbm9tZXJzLXNwb3QtYW4tdW5jYW5uaWx5LWdlb21ldHJpYy0xMC1zaWRlZC1zdHJ1Y3R1cmUtaW4tc2F0dXJucy1hdG1vc3BoZXJlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWFsZXJ0LmNvbSUyRmFzdHJvbm9tZXJzLXNwb3QtYW4tdW5jYW5uaWx5LWdlb21ldHJpYy0xMC1zaWRlZC1zdHJ1Y3R1cmUtaW4tc2F0dXJucy1hdG1vc3BoZXJlJTdDQXN0cm9ub21lcnMlMjBEZXRlY3QlMjBhJTIwMTAtU2lkZWQlMjBTdHJ1Y3R1cmUlMjBpbiUyMFNhdHVybidzJTIwQXRtb3NwaGVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ5ODc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTMlM0E0NyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
+      "pubDate": "Thu, 03 Sep 2026 13:47:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDklMkYwMyUyRm52aWRpYS1hZ3JlZXMtdG8tYnV5LWh1Z2dpbmctZmFjZS1mb3ItYWxtb3N0LTEzLWJpbGxpb24tYWktZXhwYW5zaW9uLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5jbmJjLmNvbSUyRjIwMjYlMkYwOSUyRjAzJTJGbnZpZGlhLWFncmVlcy10by1idXktaHVnZ2luZy1mYWNlLWZvci1hbG1vc3QtMTMtYmlsbGlvbi1haS1leHBhbnNpb24uaHRtbCU3Q052aWRpYSUyMHRvJTIwYWNxdWlyZSUyMEh1Z2dpbmclMjBGYWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDg5NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxMiUzQTEwJTNBMzMlMjAlMkIwMDAw",
+      "title": "Nvidia to acquire Hugging Face",
+      "pubDate": "Thu, 03 Sep 2026 12:10:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2VkZ2xvYmFsLmNvbSUyRmFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTJGbmV3c1ZpZXclMkZrZWQyMDI2MDcyMTAwMDclN0NodHRwcyUzQSUyRiUyRnd3dy5rZWRnbG9iYWwuY29tJTJGYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UlMkZuZXdzVmlldyUyRmtlZDIwMjYwNzIxMDAwNyU3Q0dvJTIwZ3JhbmRtYXN0ZXIlMjBTaGluJTIwZGVmZWF0cyUyMEFJJTIwS2F0YUdvJTIwd2l0aCUyMGElMjB0d28tc3RvbmUlMjBoYW5kaWNhcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ0NzYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMDElM0ExMSUzQTIyJTIwJTJCMDAwMA",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "pubDate": "Thu, 03 Sep 2026 01:11:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
     }
   ]

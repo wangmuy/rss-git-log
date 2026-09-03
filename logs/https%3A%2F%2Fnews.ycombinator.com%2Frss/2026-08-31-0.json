@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 57,
-    "generatedAt": "2026-09-03T12:52:48.526Z"
+    "itemCount": 58,
+    "generatedAt": "2026-09-03T19:19:41.530Z"
   },
   "items": [
     {
@@ -348,6 +348,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0YS1zdHJ1Y3R1cmVzLWluLXByYWN0aWNlLmNvbSUyRmludHJ1c2l2ZS1saW5rZWQtbGlzdHMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kYXRhLXN0cnVjdHVyZXMtaW4tcHJhY3RpY2UuY29tJTJGaW50cnVzaXZlLWxpbmtlZC1saXN0cyUyRiU3Q0ludHJ1c2l2ZSUyMExpbmtlZCUyMExpc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MDUyNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAzMSUyMEF1ZyUyMDIwMjYlMjAwMyUzQTI4JTNBMzIlMjAlMkIwMDAw",
       "title": "Intrusive Linked Lists",
       "pubDate": "Mon, 31 Aug 2026 03:28:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXdrc2xleS5kZXYlMkZibG9nJTJGZ2V0LWZyZWUtYXJwYS1kb21haW4lN0NodHRwcyUzQSUyRiUyRmhhd2tzbGV5LmRldiUyRmJsb2clMkZnZXQtZnJlZS1hcnBhLWRvbWFpbiU3Q0hvdyUyMHRvJTIwZ2V0JTIwYSUyMGZyZWUlMjAuYXJwYSUyMGRvbWFpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE1NTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMjIlM0EyMSUzQTU4JTIwJTJCMDAwMA",
+      "title": "How to get a free .arpa domain",
+      "pubDate": "Mon, 31 Aug 2026 22:21:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]

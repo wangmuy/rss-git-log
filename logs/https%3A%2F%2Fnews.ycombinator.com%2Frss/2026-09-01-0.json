@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 52,
-    "generatedAt": "2026-09-03T12:52:48.525Z"
+    "itemCount": 54,
+    "generatedAt": "2026-09-03T19:19:41.529Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb2xvc3N1cy5jb20lMkZhcnRpY2xlJTJGaW52aXNpYmxlLWNvbXBhbmllcyUyRiU3Q2h0dHBzJTNBJTJGJTJGY29sb3NzdXMuY29tJTJGYXJ0aWNsZSUyRmludmlzaWJsZS1jb21wYW5pZXMlMkYlN0NJbnZpc2libGUlMjBDb21wYW5pZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMTI2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDEyJTNBNDglM0E0MCUyMCUyQjAwMDA",
       "title": "Invisible Companies",
       "pubDate": "Tue, 01 Sep 2026 12:48:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrY2l0ZXIuc28lMkZwb3N0cyUyRnRoZS1leHBlbnNpdmUtbWFpbi10aHJlYWQlMkZlbiUyRiU3Q2h0dHBzJTNBJTJGJTJGa2NpdGVyLnNvJTJGcG9zdHMlMkZ0aGUtZXhwZW5zaXZlLW1haW4tdGhyZWFkJTJGZW4lMkYlN0NUaGUlMjBicm93c2VyJ3MlMjBtYWluJTIwdGhyZWFkJTIwaXMlMjBleHBlbnNpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMjEzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE0JTNBMDAlM0ExNSUyMCUyQjAwMDA",
+      "title": "The browser's main thread is expensive",
+      "pubDate": "Tue, 01 Sep 2026 14:00:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmZvLnpjdS5jeiUyRmNsYW5lay5qc3AlM0ZpZCUzRDk4ODIlMjZsYW5nJTNEZW4lN0NodHRwcyUzQSUyRiUyRmluZm8uemN1LmN6JTJGY2xhbmVrLmpzcCUzRmlkJTNEOTg4MiUyNmxhbmclM0RlbiU3Q0ElMjB0aG91c2FuZCUyMHllYXJzJTIwb2xkZXIlMjB0aGFuJTIwU3RvbmVoZW5nZSUzQSUyMEFyY2hhZW9sb2dpc3RzJTIwZXhwbG9yZSUyMGElMjBDemVjaCUyMHNhbmN0dWFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIxOTMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTMlM0E0MyUzQTE0JTIwJTJCMDAwMA",
+      "title": "A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary",
+      "pubDate": "Tue, 01 Sep 2026 13:43:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]
