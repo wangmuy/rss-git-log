@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-04",
     "newestItemDate": "2026-09-04",
-    "itemCount": 4,
-    "generatedAt": "2026-09-04T04:43:18.480Z"
+    "itemCount": 12,
+    "generatedAt": "2026-09-04T12:46:27.451Z"
   },
   "items": [
     {
@@ -29,6 +29,54 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZ4YW5hZHUlN0NodHRwcyUzQSUyRiUyRmd3ZXJuLm5ldCUyRnhhbmFkdSU3Q1Byb2plY3QlMjBYYW5hZHUlM0ElMjBFdmVuJTIwTW9yZSUyMEhpbmRzaWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTU5NTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDElM0E0NSUzQTIzJTIwJTJCMDAwMA",
       "title": "Project Xanadu: Even More Hindsight",
+      "pubDate": "Fri, 04 Sep 2026 01:45:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGc3ViaW1hZ2UlMkZqb2JzJTJGTkNURmdLSy1mb3VuZGluZy1lbmdpbmVlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnN1YmltYWdlJTJGam9icyUyRk5DVEZnS0stZm91bmRpbmctZW5naW5lZXIlN0NTdWJJbWFnZSUyMChZQyUyMFcyNSklMjBJcyUyMEhpcmluZyUyMGElMjBGb3VuZGluZyUyMEVuZ2luZWVyJTIwaW4lMjBTRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYzNDE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTIlM0EwMSUzQTA3JTIwJTJCMDAwMA",
+      "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+      "pubDate": "Fri, 04 Sep 2026 12:01:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2xsdXNpb24ud2lraSUyRiU3Q2h0dHBzJTNBJTJGJTJGY29sbHVzaW9uLndpa2klMkYlN0NEaXNjb3ZlcnklMjBvZiUyMGElMjBuZXclMjBPcGVuQUklMjBhZ2VudCUyMG1lc3NhZ2UlMjBib2FyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYzMzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTElM0E1NCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Discovery of a new OpenAI agent message board",
+      "pubDate": "Fri, 04 Sep 2026 11:54:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub28tc29mdHdhcmUuY29tJTJGZW4lMkZzaHV0dXAxMCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9vLXNvZnR3YXJlLmNvbSUyRmVuJTJGc2h1dHVwMTAlN0NPJTI2TyUyMFNodXRVcDEwJTIwJUUyJTgwJTkzJTIwVGhlJTIwYW50aXNweSUyMHRvb2wlMjBmb3IlMjBXaW5kb3dzJTIwMTAlMjBhbmQlMjAxMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYyODk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTAlM0E1NiUzQTA3JTIwJTJCMDAwMA",
+      "title": "O&O ShutUp10 – The antispy tool for Windows 10 and 11",
+      "pubDate": "Fri, 04 Sep 2026 10:56:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmdhcy1kaWVzZWwtcHJpY2VzLXVzLWlyYW4td2FyLWViZDAxYjk3NzMzNjVlZTQwNTUwZGNmZDdkM2ViZjg3JTdDaHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmdhcy1kaWVzZWwtcHJpY2VzLXVzLWlyYW4td2FyLWViZDAxYjk3NzMzNjVlZTQwNTUwZGNmZDdkM2ViZjg3JTdDVVMlMjBkaWVzZWwlMjBwcmljZXMlMjBoaXQlMjBhJTIwcmVjb3JkJTIwaGlnaCUyMG9mJTIwJTI0NS44NSUyMG9uJTIwYXZlcmFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYyODE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTAlM0E0MiUzQTE5JTIwJTJCMDAwMA",
+      "title": "US diesel prices hit a record high of $5.85 on average",
+      "pubDate": "Fri, 04 Sep 2026 10:42:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXN0b3BoLmNvbSUyRjIwMjYlMkYwOSUyRjA0JTJGamFuZS1zdHJlZXQtY2hhbGxlbmdlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmplc3RvcGguY29tJTJGMjAyNiUyRjA5JTJGMDQlMkZqYW5lLXN0cmVldC1jaGFsbGVuZ2UuaHRtbCU3Q1NvbHZpbmclMjB0aGUlMjBKYW5lJTIwU3RyZWV0JTIwUmV2ZXJzZSUyMEVuZ2luZWVyaW5nJTIwQ2hhbGxlbmdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjI2NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxMCUzQTE3JTNBMDElMjAlMkIwMDAw",
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "pubDate": "Fri, 04 Sep 2026 10:17:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJib25hd2FyZXByaWNpbmcuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZjYXJib25hd2FyZXByaWNpbmcuY29tJTJGJTdDQ2FyYm9uLWF3YXJlJTIwZWxlY3RyaWNpdHklMjBwcmljaW5nJTJDJTIwbWVhc3VyZWQlMjBkYWlseSUyMG9uJTIwMzglMjBncmlkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYxOTc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDglM0ExOSUzQTU3JTIwJTJCMDAwMA",
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "pubDate": "Fri, 04 Sep 2026 08:19:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy50ZWNoZGlydC5jb20lMkYyMDI2JTJGMDklMkYwMyUyRmhhY2tlcnMtaGFkLWEtbGl2ZS1mZWVkLW9mLWV2ZXJ5LWlkLXRoaXMtdmVyaWZpY2F0aW9uLWNvbXBhbnktc2Nhbm5lZC1mb3Itb3Zlci1hLXllYXIlMkYlN0NodHRwJTNBJTJGJTJGd3d3LnRlY2hkaXJ0LmNvbSUyRjIwMjYlMkYwOSUyRjAzJTJGaGFja2Vycy1oYWQtYS1saXZlLWZlZWQtb2YtZXZlcnktaWQtdGhpcy12ZXJpZmljYXRpb24tY29tcGFueS1zY2FubmVkLWZvci1vdmVyLWEteWVhciUyRiU3Q0hhY2tlcnMlMjBIYWQlMjBhJTIwTGl2ZSUyMEZlZWQlMjBvZiUyMEV2ZXJ5JTIwSUQlMjBWZXJpZmljYXRpb24lMjBDb21wYW55JTIwU2Nhbm5lZCUyMGZvciUyMG92ZXIlMjBhJTIwWWVhciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYxMzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDYlM0E0NyUzQTUxJTIwJTJCMDAwMA",
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "pubDate": "Fri, 04 Sep 2026 06:47:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZ4YW5hZHUlN0NodHRwcyUzQSUyRiUyRmd3ZXJuLm5ldCUyRnhhbmFkdSU3Q1Byb2plY3QlMjBYYW5hZHUlM0ElMjBFdmVuJTIwTW9yZSUyMEhpbmRzaWdodCUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTU5NTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDElM0E0NSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Project Xanadu: Even More Hindsight (2025)",
       "pubDate": "Fri, 04 Sep 2026 01:45:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
     }
