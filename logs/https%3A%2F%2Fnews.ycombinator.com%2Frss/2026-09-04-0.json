@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-04",
     "newestItemDate": "2026-09-04",
-    "itemCount": 12,
-    "generatedAt": "2026-09-04T12:46:27.451Z"
+    "itemCount": 31,
+    "generatedAt": "2026-09-04T19:00:55.057Z"
   },
   "items": [
     {
@@ -78,6 +78,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZ4YW5hZHUlN0NodHRwcyUzQSUyRiUyRmd3ZXJuLm5ldCUyRnhhbmFkdSU3Q1Byb2plY3QlMjBYYW5hZHUlM0ElMjBFdmVuJTIwTW9yZSUyMEhpbmRzaWdodCUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTU5NTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDElM0E0NSUzQTIzJTIwJTJCMDAwMA",
       "title": "Project Xanadu: Even More Hindsight (2025)",
       "pubDate": "Fri, 04 Sep 2026 01:45:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdWxsdmFkLm5ldCUyRmVuJTJGYmxvZyUyRnNodXR0aW5nLWRvd24tb3VyLXB1YmxpYy1lbmNyeXB0ZWQtZG5zLXNlcnZlcnMtYW5kLXNwb25zb3JpbmctcXVhZDktaW5zdGVhZCU3Q2h0dHBzJTNBJTJGJTJGbXVsbHZhZC5uZXQlMkZlbiUyRmJsb2clMkZzaHV0dGluZy1kb3duLW91ci1wdWJsaWMtZW5jcnlwdGVkLWRucy1zZXJ2ZXJzLWFuZC1zcG9uc29yaW5nLXF1YWQ5LWluc3RlYWQlN0NNdWxsdmFkJTIwJUUyJTgwJTkzJTIwU2h1dHRpbmclMjBkb3duJTIwb3VyJTIwcHVibGljJTIwZW5jcnlwdGVkJTIwRE5TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Njg1NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxOCUzQTUwJTNBMjglMjAlMkIwMDAw",
+      "title": "Mullvad – Shutting down our public encrypted DNS",
+      "pubDate": "Fri, 04 Sep 2026 18:50:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZm9ybWFsaXppbmctZmVybWF0cy1sYXN0LXRoZW9yZW0lN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGcmVzZWFyY2glMkZmb3JtYWxpemluZy1mZXJtYXRzLWxhc3QtdGhlb3JlbSU3Q0Zvcm1hbGl6aW5nJTIwRmVybWF0J3MlMjBMYXN0JTIwVGhlb3JlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTY4NTA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTglM0E0MiUzQTU2JTIwJTJCMDAwMA",
+      "title": "Formalizing Fermat's Last Theorem",
+      "pubDate": "Fri, 04 Sep 2026 18:42:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkhheWVzX0FUX2NvbW1hbmRfc2V0JTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkhheWVzX0FUX2NvbW1hbmRfc2V0JTdDSGF5ZXMlMjBBVCUyMGNvbW1hbmQlMjBzZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2Nzk2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE3JTNBNTYlM0ExNCUyMCUyQjAwMDA",
+      "title": "Hayes AT command set",
+      "pubDate": "Fri, 04 Sep 2026 17:56:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1hc3Rlci5kZXYlMkZyZWFjdC1ub3ctcnVzdGVkLWFsbC10aGUtd2F5LW91dCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5tYXN0ZXIuZGV2JTJGcmVhY3Qtbm93LXJ1c3RlZC1hbGwtdGhlLXdheS1vdXQlMkYlN0NUaGUlMjBSdXN0JTIwUmVhY3QlMjBDb21waWxlciUyMGlzJTIwbm93JTIwbmF0aXZlJTIwaW4lMjBWaXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Njc4NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxNyUzQTQ5JTNBMDklMjAlMkIwMDAw",
+      "title": "The Rust React Compiler is now native in Vite",
+      "pubDate": "Fri, 04 Sep 2026 17:49:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZub2JvZHktaXMtc2F5aW5nLXdoeS1vcGVuYWktYW5kLWFudGhyb3BpYy1oYWQtb3V0YWdlcy10b2RheSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGbm9ib2R5LWlzLXNheWluZy13aHktb3BlbmFpLWFuZC1hbnRocm9waWMtaGFkLW91dGFnZXMtdG9kYXklMkYlN0NOb2JvZHklMjBJcyUyMFNheWluZyUyMFdoeSUyME9wZW5BSSUyMGFuZCUyMEFudGhyb3BpYyUyMEhhZCUyME91dGFnZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2NzU5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE3JTNBMjklM0EyMiUyMCUyQjAwMDA",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "pubDate": "Fri, 04 Sep 2026 17:29:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVudHJhaWxwYXBlci5jb20lN0NodHRwcyUzQSUyRiUyRm9wZW50cmFpbHBhcGVyLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyME9wZW4tU291cmNlJTIwZUluayUyMEJpa2UlMjBDb21wdXRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTY3NDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTclM0ExOCUzQTA4JTIwJTJCMDAwMA",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "pubDate": "Fri, 04 Sep 2026 17:18:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmdnZXJnYW5vdiUyRnN0YXR1cyUyRjIwOTU4OTcxNzMzNzY2MTg4ODElN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGZ2dlcmdhbm92JTJGc3RhdHVzJTJGMjA5NTg5NzE3MzM3NjYxODg4MSU3Q0dlb3JnaSUyMEdlcmdhbm92JTIwb24lMjBsbGFtYS5jcHAlMkZnZ21sJTIwZnV0dXJlJTIwYWZ0ZXIlMjBOdmlkaWElMjBhY3F1aXNpdGlvbiUyMG9mJTIwSHVnZ2luZ0ZhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2NzM1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE3JTNBMTIlM0EyMiUyMCUyQjAwMDA",
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "pubDate": "Fri, 04 Sep 2026 17:12:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbWNnb2xkci5naXRodWIuaW8lMkYyMDI2JTJGMDklMkYwNCUyRmxsbS1uZXh0LXRva2VuLXByZWRpY3RvcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZ21jZ29sZHIuZ2l0aHViLmlvJTJGMjAyNiUyRjA5JTJGMDQlMkZsbG0tbmV4dC10b2tlbi1wcmVkaWN0b3JzLmh0bWwlN0NTdG9wJTIwVGhpbmtpbmclMjBvZiUyMExMTXMlMjBhcyUyME5leHQtVG9rZW4lMjBQcmVkaWN0b3JzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjczMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxNyUzQTA5JTNBMjQlMjAlMkIwMDAw",
+      "title": "Stop Thinking of LLMs as Next-Token Predictors",
+      "pubDate": "Fri, 04 Sep 2026 17:09:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b3JyZW50ZnJlYWsuY29tJTJGYWR1bHQtZmlsbS1wcm9kdWNlci11bm1hc2tzLXByb2xpZmljLWpvaG4tZG9lLXRvcnJlbnQtcGlyYXRlLWFzLW1ldGEtZXhlY3V0aXZlJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b3JyZW50ZnJlYWsuY29tJTJGYWR1bHQtZmlsbS1wcm9kdWNlci11bm1hc2tzLXByb2xpZmljLWpvaG4tZG9lLXRvcnJlbnQtcGlyYXRlLWFzLW1ldGEtZXhlY3V0aXZlJTJGJTdDQWR1bHQlMjBGaWxtJTIwUHJvZHVjZXIlMjBVbm1hc2tzJTIwUHJvbGlmaWMlMjAnSm9obiUyMERPRSclMjBUb3JyZW50JTIwUGlyYXRlJTIwYXMlMjBNZXRhJTIwRXhlY3V0aXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjcwNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxNiUzQTQ2JTNBNTklMjAlMkIwMDAw",
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "pubDate": "Fri, 04 Sep 2026 16:46:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmFpLWFuZC1tbCUyRmdpdGh1Yi1jb3BpbG90JTJGcHJvamVjdC1oeWRyYWZ1c2lvbi1mcm9udGllci1xdWFsaXR5LXZpYS1tdWx0aS1tb2RlbC1vcmNoZXN0cmF0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmFpLWFuZC1tbCUyRmdpdGh1Yi1jb3BpbG90JTJGcHJvamVjdC1oeWRyYWZ1c2lvbi1mcm9udGllci1xdWFsaXR5LXZpYS1tdWx0aS1tb2RlbC1vcmNoZXN0cmF0aW9uJTJGJTdDUHJvamVjdCUyMEh5ZHJhRnVzaW9uJTNBJTIwRnJvbnRpZXIlMjBxdWFsaXR5JTIwdmlhJTIwbXVsdGktbW9kZWwlMjBvcmNoZXN0cmF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjY3ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxNiUzQTI0JTNBNTAlMjAlMkIwMDAw",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "pubDate": "Fri, 04 Sep 2026 16:24:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXNlYy5pbyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVzZWMuaW8lMkYlN0NkZVNFQyUyMCVFMiU4MCU5MyUyMEZyZWUlMjBTZWN1cmUlMjBETlMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2NjE5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzglM0E1OCUyMCUyQjAwMDA",
+      "title": "deSEC – Free Secure DNS",
+      "pubDate": "Fri, 04 Sep 2026 15:38:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYwNCUyRnRlY2hub2xvZ3klMkZvcGVuLXNvdXJjZS1haS1hbnRocm9waWMtb3BlbmFpLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwOSUyRjA0JTJGdGVjaG5vbG9neSUyRm9wZW4tc291cmNlLWFpLWFudGhyb3BpYy1vcGVuYWkuaHRtbCU3Q0NvcnBvcmF0ZSUyMEFtZXJpY2ElMjBpcyUyMGdldHRpbmclMjBob29rZWQlMjBvbiUyMG9wZW4tc291cmNlJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2NjEzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzMlM0E0NSUyMCUyQjAwMDA",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "pubDate": "Fri, 04 Sep 2026 15:33:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZzZXAlMkYwNCUyRm1pbGl0YXJ5LWRpc2FibGVzLXBob25lLWFkLXRyYWNrZXJzJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZzZXAlMkYwNCUyRm1pbGl0YXJ5LWRpc2FibGVzLXBob25lLWFkLXRyYWNrZXJzJTdDVVMlMjBNaWxpdGFyeSUyMGRpc2FibGVzJTIwYWQlMjB0cmFja2VycyUyMG9uJTIwdHJvb3BzJyUyMHBob25lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTY0NTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTMlM0E0NCUzQTE0JTIwJTJCMDAwMA",
+      "title": "US Military disables ad trackers on troops' phones",
+      "pubDate": "Fri, 04 Sep 2026 13:44:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib2IuaWJtLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGYm9iLmlibS5jb20lMkYlN0NJQk0lMjBCb2IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2Mzg1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDEyJTNBNTAlM0EyOSUyMCUyQjAwMDA",
+      "title": "IBM Bob",
+      "pubDate": "Fri, 04 Sep 2026 12:50:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGF3c2hlbWklMkZsZy1jNS13ZWJvczI1LXJlZ2lvbi1jaGFuZ2UlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZoYXdzaGVtaSUyRmxnLWM1LXdlYm9zMjUtcmVnaW9uLWNoYW5nZSU3Q1Jlc3RvcmluZyUyMDUlMjBHSHolMjBXaS1GaSUyMG9uJTIwYW4lMjBMRyUyMEM1JTIwYnklMjBjaGFuZ2luZyUyMGl0cyUyMHdlYk9TJTIwcmVnaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjM4MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxMiUzQTQ5JTNBNDQlMjAlMkIwMDAw",
+      "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "pubDate": "Fri, 04 Sep 2026 12:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA5JTJGbmVhcmx5LWltcG9zc2libGUtaG93LWZhaXJwaG9uZS1idWlsdC10aGUtZXRoaWNhbC1yZXBhaXJhYmxlLWZhaXJwaG9uZS1nZW4tNiUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGZ2FkZ2V0cyUyRjIwMjYlMkYwOSUyRm5lYXJseS1pbXBvc3NpYmxlLWhvdy1mYWlycGhvbmUtYnVpbHQtdGhlLWV0aGljYWwtcmVwYWlyYWJsZS1mYWlycGhvbmUtZ2VuLTYlMkYlN0NIb3clMjBGYWlycGhvbmUlMjBidWlsdCUyMHRoZSUyMEZhaXJwaG9uZSUyMEdlbiUyMDYlMkIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2Mzc4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDEyJTNBNDMlM0E0OSUyMCUyQjAwMDA",
+      "title": "How Fairphone built the Fairphone Gen 6+",
+      "pubDate": "Fri, 04 Sep 2026 12:43:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9kdWN0cmlzZS5hcHAlMkZibG9nJTJGZ29vZ2xlLWFpLW1vZGUtcHJlZmVycy1tb3JlLWV4cGVuc2l2ZS1wcm9kdWN0cyU3Q2h0dHBzJTNBJTJGJTJGcHJvZHVjdHJpc2UuYXBwJTJGYmxvZyUyRmdvb2dsZS1haS1tb2RlLXByZWZlcnMtbW9yZS1leHBlbnNpdmUtcHJvZHVjdHMlN0NHb29nbGUlMjBBSSUyME1vZGUlMjBzaG93cyUyMHNhbWUlMjBwcm9kdWN0cyUyMDIxLjYlMjUlMjBtb3JlJTIwZXhwZW5zaXZlJTIwdGhhbiUyMHRyYWRpdGlvbmFsJTIwc2VhcmNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjMzODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxMSUzQTU5JTNBMTUlMjAlMkIwMDAw",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "pubDate": "Fri, 04 Sep 2026 11:59:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXN0b3BoLmNvbSUyRjIwMjYlMkYwOSUyRjA0JTJGamFuZS1zdHJlZXQtY2hhbGxlbmdlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmplc3RvcGguY29tJTJGMjAyNiUyRjA5JTJGMDQlMkZqYW5lLXN0cmVldC1jaGFsbGVuZ2UuaHRtbCU3Q1NvbHZpbmclMjB0aGUlMjBKYW5lJTIwU3RyZWV0JTIwcmV2ZXJzZSUyMGVuZ2luZWVyaW5nJTIwY2hhbGxlbmdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjI2NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxMCUzQTE3JTNBMDElMjAlMkIwMDAw",
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "pubDate": "Fri, 04 Sep 2026 10:17:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2lvYmx1JTJGTlBDLUZvcmdlJTJGYmxvYiUyRm1haW4lMkZkb2NzJTJGZGV2ZWxvcG1lbnQubWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZnaW9ibHUlMkZOUEMtRm9yZ2UlMkZibG9iJTJGbWFpbiUyRmRvY3MlMkZkZXZlbG9wbWVudC5tZCU3Q1Nob3clMjBITiUzQSUyMFRFUk15JTIwJUUyJTgwJTkzJTIwQSUyMGZhc3QlMjB0ZXJtaW5hbCUyMGFzc2lzdGFudCUyMHRoYXQlMjBkb2VzJTIwbm90JTIwdXNlJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYyMjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDklM0EwMyUzQTAwJTIwJTJCMDAwMA",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "pubDate": "Fri, 04 Sep 2026 09:03:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
     }
   ]
