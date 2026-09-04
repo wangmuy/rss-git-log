@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-03",
     "newestItemDate": "2026-09-03",
-    "itemCount": 22,
-    "generatedAt": "2026-09-03T19:19:41.529Z"
+    "itemCount": 31,
+    "generatedAt": "2026-09-04T04:43:18.481Z"
   },
   "items": [
     {
@@ -138,6 +138,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2VkZ2xvYmFsLmNvbSUyRmFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTJGbmV3c1ZpZXclMkZrZWQyMDI2MDcyMTAwMDclN0NodHRwcyUzQSUyRiUyRnd3dy5rZWRnbG9iYWwuY29tJTJGYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UlMkZuZXdzVmlldyUyRmtlZDIwMjYwNzIxMDAwNyU3Q0dvJTIwZ3JhbmRtYXN0ZXIlMjBTaGluJTIwZGVmZWF0cyUyMEFJJTIwS2F0YUdvJTIwd2l0aCUyMGElMjB0d28tc3RvbmUlMjBoYW5kaWNhcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ0NzYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMDElM0ExMSUzQTIyJTIwJTJCMDAwMA",
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
       "pubDate": "Thu, 03 Sep 2026 01:11:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRm96ZW1waWMtYW5kLW90aGVyLWdscC0xcy1hcmUtYmVpbmctbGlua2VkLXRvLWZld2VyLXNlcmlvdXMtaW5mZWN0aW9ucy1pbmNsdWRpbmctdGItMjAwMDgwNjc5NiU3Q2h0dHBzJTNBJTJGJTJGZ2l6bW9kby5jb20lMkZvemVtcGljLWFuZC1vdGhlci1nbHAtMXMtYXJlLWJlaW5nLWxpbmtlZC10by1mZXdlci1zZXJpb3VzLWluZmVjdGlvbnMtaW5jbHVkaW5nLXRiLTIwMDA4MDY3OTYlN0NHTFAtMXMlMjBhcmUlMjBiZWluZyUyMGxpbmtlZCUyMHRvJTIwZmV3ZXIlMjBzZXJpb3VzJTIwaW5mZWN0aW9ucyUyQyUyMGluY2x1ZGluZyUyMFRCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NTgwODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAyMiUzQTM3JTNBMzElMjAlMkIwMDAw",
+      "title": "GLP-1s are being linked to fewer serious infections, including TB",
+      "pubDate": "Thu, 03 Sep 2026 22:37:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcm1hdHVyZS50ZWNoJTJGYmxvZyUyRndoaWNoLXRvb2xzLWNvZGluZy1hZ2VudHMtaW5zdGFsbCU3Q2h0dHBzJTNBJTJGJTJGYXJtYXR1cmUudGVjaCUyRmJsb2clMkZ3aGljaC10b29scy1jb2RpbmctYWdlbnRzLWluc3RhbGwlN0NXaGljaCUyMHRvb2xzJTIwZG8lMjBDbGF1ZGUlMkMlMjBDb2RleCUyMGFuZCUyMEN1cnNvciUyMGNob29zZSUzRiUyMFdlJTIwbWVhc3VyZWQlMjAxN2slMjBydW5zJTIwdG8lMjBmaW5kJTIwb3V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NTcyMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAyMSUzQTIwJTNBMzQlMjAlMkIwMDAw",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "pubDate": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YXNrbGV0LmFpJTJGY2FyZWVycyUyRmN1c3RvbWVyLXN1Y2Nlc3MtZW5naW5lZXIlN0NodHRwcyUzQSUyRiUyRnRhc2tsZXQuYWklMkZjYXJlZXJzJTJGY3VzdG9tZXItc3VjY2Vzcy1lbmdpbmVlciU3Q1Rhc2tsZXQlMjAoWUMlMjBQMjYpJTIwSXMlMjBIaXJpbmclMjBhJTIwQ3VzdG9tZXIlMjBTdWNjZXNzJTIwRW5naW5lZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU1NjkyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAzJTIwU2VwJTIwMjAyNiUyMDIxJTNBMDElM0ExMCUyMCUyQjAwMDA",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "pubDate": "Thu, 03 Sep 2026 21:01:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNwcml6ZS5vcmclMkZibG9nJTJGYXN0cmElN0NodHRwcyUzQSUyRiUyRmFyY3ByaXplLm9yZyUyRmJsb2clMkZhc3RyYSU3Q09wZW5BSSdzJTIwR1BULTYlMjBBc3RyYSUyMG9uJTIwQVJDLUFHSS0zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NTU2OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxOSUzQTQ1JTNBMDAlMjAlMkIwMDAw",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "pubDate": "Thu, 03 Sep 2026 19:45:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub2xhbmxhd3Nvbi5jb20lMkYyMDI2JTJGMDglMkYyMyUyRnRoZS1hc3Rlcm9pZC1jdXJyZW50bHktaGl0dGluZy1mcm9udGVuZC13ZWItZGV2ZWxvcG1lbnQlMkYlN0NodHRwcyUzQSUyRiUyRm5vbGFubGF3c29uLmNvbSUyRjIwMjYlMkYwOCUyRjIzJTJGdGhlLWFzdGVyb2lkLWN1cnJlbnRseS1oaXR0aW5nLWZyb250ZW5kLXdlYi1kZXZlbG9wbWVudCUyRiU3Q1RoZSUyMGFzdGVyb2lkJTIwY3VycmVudGx5JTIwaGl0dGluZyUyMGZyb250JTIwZW5kJTIwd2ViJTIwZGV2ZWxvcG1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU1NTIzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAzJTIwU2VwJTIwMjAyNiUyMDE5JTNBMTclM0EyNCUyMCUyQjAwMDA",
+      "title": "The asteroid currently hitting front end web development",
+      "pubDate": "Thu, 03 Sep 2026 19:17:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZncHQtNi1hc3RyYSUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGZ3B0LTYtYXN0cmElMkYlN0NHUFQtNiUyMEFzdHJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NTQ2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxOCUzQTQxJTNBMDUlMjAlMkIwMDAw",
+      "title": "GPT-6 Astra",
+      "pubDate": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFjdG9yYXRsYXMuY29tJTdDaHR0cHMlM0ElMkYlMkZyZWFjdG9yYXRsYXMuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwUmVhY3RvciUyMEF0bGFzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDkxNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxMiUzQTMzJTNBMDElMjAlMkIwMDAw",
+      "title": "Show HN: Reactor Atlas",
+      "pubDate": "Thu, 03 Sep 2026 12:33:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ4NjAwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ4NjAwJTdDQXNrJTIwSE4lM0ElMjBXaG8lMjBpcyUyMHVzaW5nJTIwTUNQJTIwaW4lMjBwcm9kdWN0aW9uJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDg2MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAxMSUzQTIxJTNBMTglMjAlMkIwMDAw",
+      "title": "Ask HN: Who is using MCP in production?",
+      "pubDate": "Thu, 03 Sep 2026 11:21:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWFsZXJ0LmNvbSUyRmdwcy1nbGl0Y2hlZC1hY3Jvc3MtdGhlLXVzLWJ5LWFzLW11Y2gtYXMtMzMtZmVldC1zY2llbnRpc3RzLWhhdmUtbmV2ZXItc2Vlbi10aGlzLWJlZm9yZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2VhbGVydC5jb20lMkZncHMtZ2xpdGNoZWQtYWNyb3NzLXRoZS11cy1ieS1hcy1tdWNoLWFzLTMzLWZlZXQtc2NpZW50aXN0cy1oYXZlLW5ldmVyLXNlZW4tdGhpcy1iZWZvcmUlN0NHUFMlMjBnbGl0Y2hlZCUyMGFjcm9zcyUyMHRoZSUyMFVTJTIwYnklMjBhcyUyMG11Y2glMjBhcyUyMDMzJTIwZmVldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ0NjE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMDAlM0E0OSUzQTA3JTIwJTJCMDAwMA",
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "pubDate": "Thu, 03 Sep 2026 00:49:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-08-31",
     "newestItemDate": "2026-08-31",
-    "itemCount": 58,
-    "generatedAt": "2026-09-03T19:19:41.530Z"
+    "itemCount": 59,
+    "generatedAt": "2026-09-04T04:43:18.481Z"
   },
   "items": [
     {
@@ -354,6 +354,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYXdrc2xleS5kZXYlMkZibG9nJTJGZ2V0LWZyZWUtYXJwYS1kb21haW4lN0NodHRwcyUzQSUyRiUyRmhhd2tzbGV5LmRldiUyRmJsb2clMkZnZXQtZnJlZS1hcnBhLWRvbWFpbiU3Q0hvdyUyMHRvJTIwZ2V0JTIwYSUyMGZyZWUlMjAuYXJwYSUyMGRvbWFpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTE1NTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMjIlM0EyMSUzQTU4JTIwJTJCMDAwMA",
       "title": "How to get a free .arpa domain",
       "pubDate": "Mon, 31 Aug 2026 22:21:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLm1pdC5lZHUlMkYyMDI2JTJGaG93LW1pdC1yZXNlYXJjaC1wcm9qZWN0LWJlY2FtZS1nbG9iYWwtcHJvZ3JhbW1pbmctbGFuZ3VhZ2UtMDgzMSU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5taXQuZWR1JTJGMjAyNiUyRmhvdy1taXQtcmVzZWFyY2gtcHJvamVjdC1iZWNhbWUtZ2xvYmFsLXByb2dyYW1taW5nLWxhbmd1YWdlLTA4MzElN0NIb3clMjBhbiUyME1JVCUyMHJlc2VhcmNoJTIwcHJvamVjdCUyMGJlY2FtZSUyMHRoZSUyMEp1bGlhJTIwcHJvZ3JhbW1pbmclMjBsYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTA3MDcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMzElMjBBdWclMjAyMDI2JTIwMDglM0EyNiUzQTA5JTIwJTJCMDAwMA",
+      "title": "How an MIT research project became the Julia programming language",
+      "pubDate": "Mon, 31 Aug 2026 08:26:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-08-31-0.json"
     }
   ]

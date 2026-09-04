@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 54,
-    "generatedAt": "2026-09-03T19:19:41.529Z"
+    "itemCount": 58,
+    "generatedAt": "2026-09-04T04:43:18.481Z"
   },
   "items": [
     {
@@ -330,6 +330,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpbmZvLnpjdS5jeiUyRmNsYW5lay5qc3AlM0ZpZCUzRDk4ODIlMjZsYW5nJTNEZW4lN0NodHRwcyUzQSUyRiUyRmluZm8uemN1LmN6JTJGY2xhbmVrLmpzcCUzRmlkJTNEOTg4MiUyNmxhbmclM0RlbiU3Q0ElMjB0aG91c2FuZCUyMHllYXJzJTIwb2xkZXIlMjB0aGFuJTIwU3RvbmVoZW5nZSUzQSUyMEFyY2hhZW9sb2dpc3RzJTIwZXhwbG9yZSUyMGElMjBDemVjaCUyMHNhbmN0dWFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIxOTMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTMlM0E0MyUzQTE0JTIwJTJCMDAwMA",
       "title": "A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary",
       "pubDate": "Tue, 01 Sep 2026 13:43:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2V2aW4ubWQlMkZ0aGUtYnVzaW5lc3MtY2FyZC10aGF0LWxpZ2h0cy11cC5tZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmtldmluLm1kJTJGdGhlLWJ1c2luZXNzLWNhcmQtdGhhdC1saWdodHMtdXAubWQlMkYlN0NBJTIwUENCJTIwYnVzaW5lc3MlMjBjYXJkJTIwd2l0aCUyMGElMjBiYXR0ZXJ5bGVzcyUyMExFRCUyQyUyMHBvd2VyZWQlMjBieSUyMHRoZSUyMHBob25lJTIwdGhhdCUyMHRhcHMlMjBpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI3OTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMjAlM0E0NiUzQTAzJTIwJTJCMDAwMA",
+      "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
+      "pubDate": "Tue, 01 Sep 2026 20:46:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RuTTg2REJPcWdQTSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEbk04NkRCT3FnUE0lN0NUaGUlMjBsYXJnZXN0JTIwZWxlY3RyaWMlMjBhaXJjcmFmdCUyMGp1c3QlMjBmbGV3JTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyNjQ1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDE5JTNBMDIlM0EzNCUyMCUyQjAwMDA",
+      "title": "The largest electric aircraft just flew [video]",
+      "pubDate": "Tue, 01 Sep 2026 19:02:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGYmxvZyUyRmFnZW50aWMteGFuYWR1JTdDaHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGYmxvZyUyRmFnZW50aWMteGFuYWR1JTdDWGFuYWR1JTIwd2FzJTIwd2FpdGluZyUyMGZvciUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI2Mjk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTglM0E1MCUzQTQyJTIwJTJCMDAwMA",
+      "title": "Xanadu was waiting for agents",
+      "pubDate": "Tue, 01 Sep 2026 18:50:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWN0bC5pbyUyRmJsb2clMkYyMDI2JTJGMDglMkYyOCUyRmphY3RsLXZpcnR1YWwtdGhyZWFkcyU3Q2h0dHBzJTNBJTJGJTJGamFjdGwuaW8lMkZibG9nJTJGMjAyNiUyRjA4JTJGMjglMkZqYWN0bC12aXJ0dWFsLXRocmVhZHMlN0NWaXJ0dWFsJTIwVGhyZWFkcyUyMGZvciUyMGElMjBzY3JpcHRpbmclMjBsYW5ndWFnZSUyMGluJTIwSmF2YSUyMDglMjB3aXRob3V0JTIwTG9vbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTIyNjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTQlM0EzNiUzQTU4JTIwJTJCMDAwMA",
+      "title": "Virtual Threads for a scripting language in Java 8 without Loom",
+      "pubDate": "Tue, 01 Sep 2026 14:36:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]
