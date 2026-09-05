@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 61,
-    "generatedAt": "2026-09-04T19:00:55.057Z"
+    "itemCount": 64,
+    "generatedAt": "2026-09-05T04:38:19.363Z"
   },
   "items": [
     {
@@ -372,6 +372,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibmIuaW0lMkZwb3N0cyUyRmF0cHJvdG8tZXNzZW50aWFsLXJlc291cmNlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYm5iLmltJTJGcG9zdHMlMkZhdHByb3RvLWVzc2VudGlhbC1yZXNvdXJjZXMlMkYlN0NHZXR0aW5nJTIwU3RhcnRlZCUyMHdpdGglMjBBVCUyMFByb3RvY29sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjcxMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAxOSUzQTQ4JTNBMzclMjAlMkIwMDAw",
       "title": "Getting Started with AT Protocol",
       "pubDate": "Tue, 01 Sep 2026 19:48:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2dib2x0Lm9yZyU3Q2h0dHBzJTNBJTJGJTJGZG9nYm9sdC5vcmclMkYlN0NEZWNvbXBpbGVyJTIwRXhwbG9yZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyOTE2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDIyJTNBMzMlM0ExNSUyMCUyQjAwMDA",
+      "title": "Decompiler Explorer",
+      "pubDate": "Tue, 01 Sep 2026 22:33:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2FtaWxvY2hzJTJGZXhhY3R0ZXglN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZjYW1pbG9jaHMlMkZleGFjdHRleCU3Q0V4YWN0VGV4LiUyMEElMjBncmFkdWFsbHktdHlwZWQlMjBzdXBlcnNldCUyMG9mJTIwTGFUZVglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUyMTYzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDEzJTNBMTklM0E0OCUyMCUyQjAwMDA",
+      "title": "ExactTex. A gradually-typed superset of LaTeX",
+      "pubDate": "Tue, 01 Sep 2026 13:19:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXNiaXR0LmlvJTJGMjAyNiUyRjA5JTJGMDElMkZnaXQtc3VibW9kdWxlcy1hcy1hLXBhY2thZ2UtbWFuYWdlci5odG1sJTdDaHR0cHMlM0ElMkYlMkZuZXNiaXR0LmlvJTJGMjAyNiUyRjA5JTJGMDElMkZnaXQtc3VibW9kdWxlcy1hcy1hLXBhY2thZ2UtbWFuYWdlci5odG1sJTdDR2l0JTIwU3VibW9kdWxlcyUyMGFzJTIwYSUyMFBhY2thZ2UlMjBNYW5hZ2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MTk4NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAwOSUzQTM2JTNBMTAlMjAlMkIwMDAw",
+      "title": "Git Submodules as a Package Manager",
+      "pubDate": "Tue, 01 Sep 2026 09:36:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]

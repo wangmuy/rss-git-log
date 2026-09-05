@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-04",
     "newestItemDate": "2026-09-04",
-    "itemCount": 31,
-    "generatedAt": "2026-09-04T19:00:55.057Z"
+    "itemCount": 45,
+    "generatedAt": "2026-09-05T04:38:19.362Z"
   },
   "items": [
     {
@@ -192,6 +192,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2lvYmx1JTJGTlBDLUZvcmdlJTJGYmxvYiUyRm1haW4lMkZkb2NzJTJGZGV2ZWxvcG1lbnQubWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZnaW9ibHUlMkZOUEMtRm9yZ2UlMkZibG9iJTJGbWFpbiUyRmRvY3MlMkZkZXZlbG9wbWVudC5tZCU3Q1Nob3clMjBITiUzQSUyMFRFUk15JTIwJUUyJTgwJTkzJTIwQSUyMGZhc3QlMjB0ZXJtaW5hbCUyMGFzc2lzdGFudCUyMHRoYXQlMjBkb2VzJTIwbm90JTIwdXNlJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYyMjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDklM0EwMyUzQTAwJTIwJTJCMDAwMA",
       "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
       "pubDate": "Fri, 04 Sep 2026 09:03:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb2FkaW0uaW8lMkYlN0NodHRwcyUzQSUyRiUyRm1vYWRpbS5pbyUyRiU3Q1Nob3clMjBITiUzQSUyME1vYWRpbS5pbyUyMCVFMiU4MCU5MyUyMEElMjBzY2hlZHVsZXIlMjBmb3IlMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MTUzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDIzJTNBNTAlM0EyOSUyMCUyQjAwMDA",
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "pubDate": "Fri, 04 Sep 2026 23:50:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmdpbmVlcmluZy5hdHNwb3RpZnkuY29tJTJGMjAyNiUyRjklMkZwb3J0YWwtYnktc3BvdGlmeS1jdXQtbXktY2xhdWRlLWNvZGUtdG9rZW4tdXNhZ2UtYnktOTAlN0NodHRwcyUzQSUyRiUyRmVuZ2luZWVyaW5nLmF0c3BvdGlmeS5jb20lMkYyMDI2JTJGOSUyRnBvcnRhbC1ieS1zcG90aWZ5LWN1dC1teS1jbGF1ZGUtY29kZS10b2tlbi11c2FnZS1ieS05MCU3Q1BvcnRhbCUyMGJ5JTIwU3BvdGlmeSUyMGN1dCUyMG15JTIwQ2xhdWRlJTIwQ29kZSUyMHRva2VuJTIwdXNhZ2UlMjBieSUyMDkwJTI1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NzE0NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAyMyUzQTM4JTNBNTAlMjAlMkIwMDAw",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "pubDate": "Fri, 04 Sep 2026 23:38:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnZhbC50b3duJTJGY29ubmVjdG9ycyU3Q2h0dHBzJTNBJTJGJTJGYmxvZy52YWwudG93biUyRmNvbm5lY3RvcnMlN0NDb25uZWN0aW5nJTIwZXZlcnklMjBhcHAlMjB0byUyMGV2ZXJ5JTIwb3RoZXIlMjBhcHAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MTI2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDIzJTNBMDklM0E1OSUyMCUyQjAwMDA",
+      "title": "Connecting every app to every other app",
+      "pubDate": "Fri, 04 Sep 2026 23:09:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2hhcmxlc3BldHpvbGQuY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRkNhbi1HdWl0YXItRnJldHMtUGVyZm9ybS1NdWx0aXBsaWNhdGlvbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2hhcmxlc3BldHpvbGQuY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRkNhbi1HdWl0YXItRnJldHMtUGVyZm9ybS1NdWx0aXBsaWNhdGlvbi5odG1sJTdDQ2FuJTIwZ3VpdGFyJTIwZnJldHMlMjBwZXJmb3JtJTIwbXVsdGlwbGljYXRpb24lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MTA0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDIyJTNBNDAlM0EzMCUyMCUyQjAwMDA",
+      "title": "Can guitar frets perform multiplication?",
+      "pubDate": "Fri, 04 Sep 2026 22:40:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmdhbGx1cC5jb20lMkZwb2xsJTJGNzEzOTMzJTJGcmVjb3JkLWhpZ2gtc2F5LWdvdmVybm1lbnQtY29ycnVwdGlvbi13aWRlc3ByZWFkLmFzcHglN0NodHRwcyUzQSUyRiUyRm5ld3MuZ2FsbHVwLmNvbSUyRnBvbGwlMkY3MTM5MzMlMkZyZWNvcmQtaGlnaC1zYXktZ292ZXJubWVudC1jb3JydXB0aW9uLXdpZGVzcHJlYWQuYXNweCU3Q1JlY29yZC1IaWdoJTIwODklMjUlMjBpbiUyMFUuUy4lMjBTYXklMjBHb3Zlcm5tZW50JTIwQ29ycnVwdGlvbiUyMFdpZGVzcHJlYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MDc3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDIyJTNBMDMlM0ExNiUyMCUyQjAwMDA",
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "pubDate": "Fri, 04 Sep 2026 22:03:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudmQubmlzdC5nb3YlMkZ2dWxuJTJGZGV0YWlsJTJGY3ZlLTIwMjYtODUwNDYlN0NodHRwcyUzQSUyRiUyRm52ZC5uaXN0LmdvdiUyRnZ1bG4lMkZkZXRhaWwlMkZjdmUtMjAyNi04NTA0NiU3Q0FjdGl2ZWx5JTIwZXhwbG9pdGVkJTIwc2FuZGJveCUyMFJDRSUyMGluJTIwYWxsJTIwQ2hyb21pdW0lMjB2ZXJzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTcwNjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMjElM0E1MiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "pubDate": "Fri, 04 Sep 2026 21:52:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZucmF2aWMuY29tJTJGYmxvZyUyRmltYWdlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbnJhdmljLmNvbSUyRmJsb2clMkZpbWFnZXMlMkYlN0NJY29ucyUyMGFzJTIwYSUyMFNlcnZpY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MDU5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDIxJTNBNDQlM0E1OSUyMCUyQjAwMDA",
+      "title": "Icons as a Service",
+      "pubDate": "Fri, 04 Sep 2026 21:44:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGb3BlbmFpJTJGZ3B0LTYtYXN0cmElN0NodHRwcyUzQSUyRiUyRm9wZW5yb3V0ZXIuYWklMkZvcGVuYWklMkZncHQtNi1hc3RyYSU3Q0dQVC02JTIwQXN0cmElMjBvbiUyME9wZW5Sb3V0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MDU0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDIxJTNBMzklM0ExOSUyMCUyQjAwMDA",
+      "title": "GPT-6 Astra on OpenRouter",
+      "pubDate": "Fri, 04 Sep 2026 21:39:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RhdGljaG9zdC5ldSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0YXRpY2hvc3QuZXUlMkYlN0NTdGF0aWNob3N0LmV1JTIwJUUyJTgwJTkzJTIwRXVyb3BlYW4lMjBzdGF0aWMlMjBzaXRlJTIwaG9zdGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTY5ODk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMjAlM0EzNCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Statichost.eu – European static site hosting",
+      "pubDate": "Fri, 04 Sep 2026 20:34:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFkOS5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRnF1YWQ5Lm5ldCUyRiU3Q0FuJTIwb3BlbiUyMEROUyUyMHJlY3Vyc2l2ZSUyMHNlcnZpY2UlMjBmb3IlMjBmcmVlJTIwc2VjdXJpdHklMjBhbmQlMjBoaWdoJTIwcHJpdmFjeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTY5NjYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMjAlM0ExMyUzQTA4JTIwJTJCMDAwMA",
+      "title": "An open DNS recursive service for free security and high privacy",
+      "pubDate": "Fri, 04 Sep 2026 20:13:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZWJlbmNoLm9yZyUyRmJsb2clMkZjYW4tYWktZGVzaWduLWNpcmN1aXQtYm9hcmRzLXlldCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWViZW5jaC5vcmclMkZibG9nJTJGY2FuLWFpLWRlc2lnbi1jaXJjdWl0LWJvYXJkcy15ZXQlMkYlN0NDYW4lMjBBSSUyMGRlc2lnbiUyMGNpcmN1aXQlMjBib2FyZHMlMjB5ZXQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2OTM2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE5JTNBNDglM0EyOSUyMCUyQjAwMDA",
+      "title": "Can AI design circuit boards yet?",
+      "pubDate": "Fri, 04 Sep 2026 19:48:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaWV0dGEuY29tJTJGYmxvZyUyRnJ1Ynktb24tcmFpbHMtY3ZlLWV4cGxvaXRlZC1ob3Vycy1hZnRlci1wYXRjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGcmlldHRhLmNvbSUyRmJsb2clMkZydWJ5LW9uLXJhaWxzLWN2ZS1leHBsb2l0ZWQtaG91cnMtYWZ0ZXItcGF0Y2glMkYlN0NHb3Zlcm5tZW50JTIwUmFpbHMlMjBTaXRlJTIwSGl0JTIwSG91cnMlMjBBZnRlciUyMENWRSUyMFBhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Njg4MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAxOSUzQTA2JTNBMzklMjAlMkIwMDAw",
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "pubDate": "Fri, 04 Sep 2026 19:06:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmZlcm1hdHMtbGFzdC10aGVvcmVtJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmZlcm1hdHMtbGFzdC10aGVvcmVtJTdDRmVybWF0J3MlMjBMYXN0JTIwVGhlb3JlbSUyMGluJTIwTGVhbiUyMDQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2ODY5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE4JTNBNTclM0EzMiUyMCUyQjAwMDA",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "pubDate": "Fri, 04 Sep 2026 18:57:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdWxsdmFkLm5ldCUyRmVuJTJGYmxvZyUyRnNodXR0aW5nLWRvd24tb3VyLXB1YmxpYy1lbmNyeXB0ZWQtZG5zLXNlcnZlcnMtYW5kLXNwb25zb3JpbmctcXVhZDktaW5zdGVhZCU3Q2h0dHBzJTNBJTJGJTJGbXVsbHZhZC5uZXQlMkZlbiUyRmJsb2clMkZzaHV0dGluZy1kb3duLW91ci1wdWJsaWMtZW5jcnlwdGVkLWRucy1zZXJ2ZXJzLWFuZC1zcG9uc29yaW5nLXF1YWQ5LWluc3RlYWQlN0NTaHV0dGluZyUyMGRvd24lMjBvdXIlMjBwdWJsaWMlMjBlbmNyeXB0ZWQlMjBETlMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2ODU3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDE4JTNBNTAlM0EyOCUyMCUyQjAwMDA",
+      "title": "Shutting down our public encrypted DNS",
+      "pubDate": "Fri, 04 Sep 2026 18:50:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
     }
   ]
