@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 56,
-    "generatedAt": "2026-09-05T04:38:19.363Z"
+    "itemCount": 57,
+    "generatedAt": "2026-09-05T11:52:05.011Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMzODQwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMzODQwJTdDQXNrJTIwSE4lM0ElMjBSZXNvdXJjZXMlMjB0byUyMGdldCUyMGdvb2QlMjBhdCUyMHNvbGRlcmluZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTMzODQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMDklM0EyNCUzQTExJTIwJTJCMDAwMA",
       "title": "Ask HN: Resources to get good at soldering?",
       "pubDate": "Wed, 02 Sep 2026 09:24:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1dXRpbHMub3JnJTJGYmxvZyUyRjIwMjYtMDgtZXJyb3ItZGlhZ25vc3RpY3MlMkYlN0NodHRwcyUzQSUyRiUyRnV1dGlscy5vcmclMkZibG9nJTJGMjAyNi0wOC1lcnJvci1kaWFnbm9zdGljcyUyRiU3Q1BvaW50aW5nJTIwYXQlMjB0aGUlMjBlcnJvciUzQSUyMGNvbXBpbGVyLXN0eWxlJTIwZGlhZ25vc3RpY3MlMjBpbiUyMHV1dGlscyUyMGNvcmV1dGlscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM1MDI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTIlM0EwNSUzQTA1JTIwJTJCMDAwMA",
+      "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+      "pubDate": "Wed, 02 Sep 2026 12:05:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-05",
     "newestItemDate": "2026-09-05",
-    "itemCount": 2,
-    "generatedAt": "2026-09-05T04:38:19.362Z"
+    "itemCount": 5,
+    "generatedAt": "2026-09-05T11:52:05.011Z"
   },
   "items": [
     {
@@ -18,6 +18,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZhcnRpY2xlcyUyRmFydGlmaWNpYWwtYW5hbHlzaXMtaW50ZWxsaWdlbmNlLWluZGV4LXY0LTIlN0NodHRwcyUzQSUyRiUyRmFydGlmaWNpYWxhbmFseXNpcy5haSUyRmFydGljbGVzJTJGYXJ0aWZpY2lhbC1hbmFseXNpcy1pbnRlbGxpZ2VuY2UtaW5kZXgtdjQtMiU3Q0FydGlmaWNpYWwlMjBBbmFseXNpcyUyMEludGVsbGlnZW5jZSUyMEluZGV4JTIwdjQuMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTcxNjMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDUlMjBTZXAlMjAyMDI2JTIwMDAlM0EwNCUzQTE0JTIwJTJCMDAwMA",
       "title": "Artificial Analysis Intelligence Index v4.2",
       "pubDate": "Sat, 05 Sep 2026 00:04:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWJjLm5ldC5hdSUyRm5ld3MlMkYyMDI2LTA5LTA0JTJGd2h5LXRoZS1uZXRoZXJsYW5kcy1tb3ZlZC1pdHMtZ29sZC1mcm9tLXVzLWFuZC1jYW5hZGElMkYxMDcxMTE5OTAlN0NodHRwcyUzQSUyRiUyRnd3dy5hYmMubmV0LmF1JTJGbmV3cyUyRjIwMjYtMDktMDQlMkZ3aHktdGhlLW5ldGhlcmxhbmRzLW1vdmVkLWl0cy1nb2xkLWZyb20tdXMtYW5kLWNhbmFkYSUyRjEwNzExMTk5MCU3Q05ldGhlcmxhbmRzJTIwcHVsbHMlMjBnb2xkJTIwb3V0JTIwb2YlMjB0aGUlMjBVUyUyMGZvciUyMGZlYXJzJTIwb2YlMjAnZ2VvcG9saXRpY2FsJTIwdW5yZXN0JyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTc1MDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDUlMjBTZXAlMjAyMDI2JTIwMTAlM0ExNCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "pubDate": "Sat, 05 Sep 2026 10:14:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3lsdmFpbmthbGFjaGUuY29tJTJGYmxvZyUyRmFpLWhhbmRsZXMtaW5jaWRlbnRzLWVuZ2luZWVycy1sb3NlLXRvdWNoLXdpdGgtdGhlaXItc3lzdGVtcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN5bHZhaW5rYWxhY2hlLmNvbSUyRmJsb2clMkZhaS1oYW5kbGVzLWluY2lkZW50cy1lbmdpbmVlcnMtbG9zZS10b3VjaC13aXRoLXRoZWlyLXN5c3RlbXMlN0NBSSUyMGhhbmRsZXMlMjBpbmNpZGVudHMlMkMlMjBlbmdpbmVlcnMlMjBsb3NlJTIwdG91Y2glMjB3aXRoJTIwdGhlaXIlMjBzeXN0ZW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NzQxNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAwNyUzQTUyJTNBNTAlMjAlMkIwMDAw",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "pubDate": "Sat, 05 Sep 2026 07:52:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29kZXJhYmJpdC5haSUyRmJsb2clMkZncHQtNi1hc3RyYS1jb2RlLXJldmlldy1ldmFsdWF0aW9uJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29kZXJhYmJpdC5haSUyRmJsb2clMkZncHQtNi1hc3RyYS1jb2RlLXJldmlldy1ldmFsdWF0aW9uJTdDR1BULTYlMjBBc3RyYSUyMGluJTIwY29kZSUyMHJldmlldyUzQSUyMEdhaW5zJTJDJTIwcHJpdmFjeSUyQyUyMGFuZCUyMGNvc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3Mjg3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDAzJTNBMzglM0E1NiUyMCUyQjAwMDA",
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "pubDate": "Sat, 05 Sep 2026 03:38:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
     }
   ]
