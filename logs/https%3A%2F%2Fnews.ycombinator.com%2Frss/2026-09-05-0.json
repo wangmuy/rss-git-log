@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-05",
     "newestItemDate": "2026-09-05",
-    "itemCount": 5,
-    "generatedAt": "2026-09-05T11:52:05.011Z"
+    "itemCount": 16,
+    "generatedAt": "2026-09-05T18:23:02.389Z"
   },
   "items": [
     {
@@ -36,6 +36,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29kZXJhYmJpdC5haSUyRmJsb2clMkZncHQtNi1hc3RyYS1jb2RlLXJldmlldy1ldmFsdWF0aW9uJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29kZXJhYmJpdC5haSUyRmJsb2clMkZncHQtNi1hc3RyYS1jb2RlLXJldmlldy1ldmFsdWF0aW9uJTdDR1BULTYlMjBBc3RyYSUyMGluJTIwY29kZSUyMHJldmlldyUzQSUyMEdhaW5zJTJDJTIwcHJpdmFjeSUyQyUyMGFuZCUyMGNvc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3Mjg3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDAzJTNBMzglM0E1NiUyMCUyQjAwMDA",
       "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
       "pubDate": "Sat, 05 Sep 2026 03:38:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJjby5vcmclMkYyMDI2JTJGMDklMkYwNCUyRmJvYi1hbmQtdmFuJTdDaHR0cHMlM0ElMkYlMkZtYXJjby5vcmclMkYyMDI2JTJGMDklMkYwNCUyRmJvYi1hbmQtdmFuJTdDQm9iJTIwYW5kJTIwVmFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NzgxMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAxNiUzQTMwJTNBMzUlMjAlMkIwMDAw",
+      "title": "Bob and Van",
+      "pubDate": "Sat, 05 Sep 2026 16:30:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2Y3Jlc2VhcmNoLmJlcmtlbGV5LmVkdSUyRm5ld3MlMkZob3ctdG9iYWNjby1pbmR1c3RyeS1kcm92ZS1yaXNlLXVsdHJhLXByb2Nlc3NlZC1mb29kcyU3Q2h0dHBzJTNBJTJGJTJGdmNyZXNlYXJjaC5iZXJrZWxleS5lZHUlMkZuZXdzJTJGaG93LXRvYmFjY28taW5kdXN0cnktZHJvdmUtcmlzZS11bHRyYS1wcm9jZXNzZWQtZm9vZHMlN0NIb3clMjB0aGUlMjBUb2JhY2NvJTIwSW5kdXN0cnklMjBEcm92ZSUyMHRoZSUyMFJpc2UlMjBvZiUyMFVsdHJhLVByb2Nlc3NlZCUyMEZvb2RzJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Nzc5ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAxNiUzQTE0JTNBMzQlMjAlMkIwMDAw",
+      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+      "pubDate": "Sat, 05 Sep 2026 16:14:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWtpd29ya2Vyc3VuaXRlZC5vcmclMkZhbm5vdW5jZW1lbnRzJTJGMjAyNi0wOS0wNC11cy13aWtpbWVkaWEtZm91bmRhdGlvbi13b3JrZXJzLW92ZXJ3aGVsbWluZ2x5LXZvdGUtdG8tZm9ybS11bmlvbi13aXRoLWN3YSUyRiU3Q2h0dHBzJTNBJTJGJTJGd2lraXdvcmtlcnN1bml0ZWQub3JnJTJGYW5ub3VuY2VtZW50cyUyRjIwMjYtMDktMDQtdXMtd2lraW1lZGlhLWZvdW5kYXRpb24td29ya2Vycy1vdmVyd2hlbG1pbmdseS12b3RlLXRvLWZvcm0tdW5pb24td2l0aC1jd2ElMkYlN0NXaWtpbWVkaWElMjBGb3VuZGF0aW9uJTIwV29ya2VycyUyME92ZXJ3aGVsbWluZ2x5JTIwVm90ZSUyMHRvJTIwRm9ybSUyMFVuaW9uJTIwd2l0aCUyMENXQSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTc3OTc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDUlMjBTZXAlMjAyMDI2JTIwMTYlM0ExMyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "pubDate": "Sat, 05 Sep 2026 16:13:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJvcHVibGljYS5vcmclMkZwb2RjYXN0JTJGZm9yZXZlci1jaGVtaWNhbHMtcGZhcy1wZm9zLTNtLXNlY3JldC1rcmlzLWhhbnNlbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnByb3B1YmxpY2Eub3JnJTJGcG9kY2FzdCUyRmZvcmV2ZXItY2hlbWljYWxzLXBmYXMtcGZvcy0zbS1zZWNyZXQta3Jpcy1oYW5zZW4lN0NIb3clMjB0aGUlMjBEaXNhc3RlciUyMG9mJTIwJTIyRm9yZXZlciUyMENoZW1pY2FscyUyMiUyMFdhcyUyMEtlcHQlMjBTZWNyZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3Njk4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDE0JTNBNDAlM0E1MiUyMCUyQjAwMDA",
+      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "pubDate": "Sat, 05 Sep 2026 14:40:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjA5JTJGbWVldC10aGUtMjAyNi1pZy1ub2JlbC1wcml6ZS13aW5uZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjA5JTJGbWVldC10aGUtMjAyNi1pZy1ub2JlbC1wcml6ZS13aW5uZXJzJTJGJTdDTWVldCUyMHRoZSUyMElnJTIwTm9iZWwlMjBQcml6ZSUyMFdpbm5lcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3NjYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDIlM0E0NCUyMCUyQjAwMDA",
+      "title": "Meet the Ig Nobel Prize Winners",
+      "pubDate": "Sat, 05 Sep 2026 14:02:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZxdWFzYXIuY29tJTJGaGFyZHdhcmUlMkZ0aGUtNjAtZ2FtaW5nLXBjLWFtZC1iYy0yNTAlMkYlN0NodHRwcyUzQSUyRiUyRmRldnF1YXNhci5jb20lMkZoYXJkd2FyZSUyRnRoZS02MC1nYW1pbmctcGMtYW1kLWJjLTI1MCUyRiU3Q1RoZSUyMCUyMiUyNDYwJTIwR2FtaW5nJTIwUEMlMjIlMjAlRTIlODAlOTMlMjBBTUQlMjBCQy0yNTAlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3NjM4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzYlM0EzOCUyMCUyQjAwMDA",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "pubDate": "Sat, 05 Sep 2026 13:36:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2ZpYWJlbGVuLmdpdGh1Yi5pbyUyRnByb2plY3RzJTJGdmlzdWFsaXppbmctcnVzdHMtdnRhYmxlcy1ob3ctZHluLXRyYWl0LXdvcmtzLWluLW1lbW9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGc29maWFiZWxlbi5naXRodWIuaW8lMkZwcm9qZWN0cyUyRnZpc3VhbGl6aW5nLXJ1c3RzLXZ0YWJsZXMtaG93LWR5bi10cmFpdC13b3Jrcy1pbi1tZW1vcnklMkYlN0NWaXN1YWxpemluZyUyMFJ1c3QncyUyMFZ0YWJsZXMlM0ElMjBIb3clMjBkeW4lMjBUcmFpdCUyMFdvcmtzJTIwSW4lMjBNZW1vcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3NjM0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzElM0EwNSUyMCUyQjAwMDA",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "pubDate": "Sat, 05 Sep 2026 13:31:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYWNrYWdlbWFpbi50ZWNoJTJGcCUyRmdpdGlnbm9yZS1ldmVyeXRoaW5nLWJ5LWRlZmF1bHQlN0NodHRwcyUzQSUyRiUyRnBhY2thZ2VtYWluLnRlY2glMkZwJTJGZ2l0aWdub3JlLWV2ZXJ5dGhpbmctYnktZGVmYXVsdCU3Qy5naXRpZ25vcmUlMjBFdmVyeXRoaW5nJTIwYnklMjBEZWZhdWx0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NzYyNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAxMyUzQTE5JTNBNDIlMjAlMkIwMDAw",
+      "title": ".gitignore Everything by Default",
+      "pubDate": "Sat, 05 Sep 2026 13:19:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidXR0b25kb3duLmNvbSUyRnN1Y2hiYWR0ZWNoYWRzJTJGYXJjaGl2ZSUyRnNwYXJ0YW4tYW5kLXRoZS1taW1lJTJGJTdDaHR0cHMlM0ElMkYlMkZidXR0b25kb3duLmNvbSUyRnN1Y2hiYWR0ZWNoYWRzJTJGYXJjaGl2ZSUyRnNwYXJ0YW4tYW5kLXRoZS1taW1lJTJGJTdDQSUyMGJpemFycmUlMjBDb21tb2RvcmUlMjA2NCUyMHBlcmlwaGVyYWwlMkMlMjBhJTIwbWltZSUyQyUyMGFuZCUyMHNvbWUlMjBwcmV0dHklMjBiYWQlMjBhZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3NTg1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDEyJTNBMjMlM0E1MSUyMCUyQjAwMDA",
+      "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+      "pubDate": "Sat, 05 Sep 2026 12:23:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnRlcnBzdHJha2V5Ym9hcmQuY29tJTJGJTdDaHR0cCUzQSUyRiUyRnRlcnBzdHJha2V5Ym9hcmQuY29tJTJGJTdDVGVycHN0cmElMjBLZXlib2FyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTc1MTUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDUlMjBTZXAlMjAyMDI2JTIwMTAlM0EzMyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Terpstra Keyboard",
+      "pubDate": "Sat, 05 Sep 2026 10:33:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXNoaW4uZXUlN0NodHRwcyUzQSUyRiUyRnB1c2hpbi5ldSUyRiU3Q0dpdCUyMGhvc3RpbmclMjB0aGF0JTIwbmV2ZXIlMjBsZWF2ZXMlMjBFdXJvcGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MzY4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDA2JTNBMzElM0E0OSUyMCUyQjAwMDA",
+      "title": "Git hosting that never leaves Europe",
+      "pubDate": "Sat, 05 Sep 2026 06:31:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
     }
   ]

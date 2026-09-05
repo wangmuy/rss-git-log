@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 65,
-    "generatedAt": "2026-09-05T11:52:05.012Z"
+    "itemCount": 66,
+    "generatedAt": "2026-09-05T18:23:02.389Z"
   },
   "items": [
     {
@@ -396,6 +396,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjI2MzQ1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA4LjI2MzQ1JTdDS2FsZSUzQSUyMEElMjBUcmFuc2Zvcm1hdGlvbi1TYWZlJTIwU3ByZWFkc2hlZXQlMjBTeXN0ZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxNjk2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDAxJTNBNDIlM0EzMCUyMCUyQjAwMDA",
       "title": "Kale: A Transformation-Safe Spreadsheet System",
       "pubDate": "Tue, 01 Sep 2026 01:42:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjklMkYxJTJGc3RvcHBpbmctdGhlLXVuc3RvcHBhYmxlJTdDaHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjklMkYxJTJGc3RvcHBpbmctdGhlLXVuc3RvcHBhYmxlJTdDU3RvcHBpbmclMjB0aGUlMjBVbnN0b3BwYWJsZSUzQSUyMFdoZW4lMjBhbiUyMHVuc3RvcHBhYmxlJTIwZm9yY2UlMjBtZWV0cyUyMGElMjBkYXNocG90JTIwc251YmJlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI1MTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTclM0EzOCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
+      "pubDate": "Tue, 01 Sep 2026 17:38:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]
