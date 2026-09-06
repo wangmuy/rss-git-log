@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-01",
     "newestItemDate": "2026-09-01",
-    "itemCount": 66,
-    "generatedAt": "2026-09-05T18:23:02.389Z"
+    "itemCount": 70,
+    "generatedAt": "2026-09-06T04:48:47.909Z"
   },
   "items": [
     {
@@ -402,6 +402,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjklMkYxJTJGc3RvcHBpbmctdGhlLXVuc3RvcHBhYmxlJTdDaHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAyNiUyRjklMkYxJTJGc3RvcHBpbmctdGhlLXVuc3RvcHBhYmxlJTdDU3RvcHBpbmclMjB0aGUlMjBVbnN0b3BwYWJsZSUzQSUyMFdoZW4lMjBhbiUyMHVuc3RvcHBhYmxlJTIwZm9yY2UlMjBtZWV0cyUyMGElMjBkYXNocG90JTIwc251YmJlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI1MTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMTclM0EzOCUzQTEwJTIwJTJCMDAwMA",
       "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
       "pubDate": "Tue, 01 Sep 2026 17:38:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHByZXZpZXcuY29tJTJGbmV3cyUyRnRoZS1jb2xvcmNoZWNrZXItcGhvdG9ncmFwaHlzLW1vc3QtaW1wb3J0YW50LTI0LXNxdWFyZXMtdHVybnMtNTAlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kcHJldmlldy5jb20lMkZuZXdzJTJGdGhlLWNvbG9yY2hlY2tlci1waG90b2dyYXBoeXMtbW9zdC1pbXBvcnRhbnQtMjQtc3F1YXJlcy10dXJucy01MCUyRiU3Q1RoZSUyMENvbG9yQ2hlY2tlciUyQyUyMHBob3RvZ3JhcGh5J3MlMjBtb3N0JTIwaW1wb3J0YW50JTIwMjQlMjBzcXVhcmVzJTJDJTIwdHVybnMlMjA1MCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTI5Mzk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDElMjBTZXAlMjAyMDI2JTIwMjIlM0E1NCUzQTE1JTIwJTJCMDAwMA",
+      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "pubDate": "Tue, 01 Sep 2026 22:54:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnV0aWxpdHljbG9zZXQuY29tJTJGMjAyNiUyRjA5JTJGMDElMkZzbWFsbC13b3JsZC0yMCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ1dGlsaXR5Y2xvc2V0LmNvbSUyRjIwMjYlMkYwOSUyRjAxJTJGc21hbGwtd29ybGQtMjAlMkYlN0NUb3BvbG9naXN0J3MlMjBNYXAlMjBvZiUyMHRoZSUyMFdvcmxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Mjc1OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAyMCUzQTIxJTNBMDglMjAlMkIwMDAw",
+      "title": "Topologist's Map of the World",
+      "pubDate": "Tue, 01 Sep 2026 20:21:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtbS1kZXYucm9ja3MlMkZzZXJpZXMlMkZyZWN1cnNlY2VudGVyLnJldHVybiUyRiU3Q2h0dHBzJTNBJTJGJTJGbW0tZGV2LnJvY2tzJTJGc2VyaWVzJTJGcmVjdXJzZWNlbnRlci5yZXR1cm4lMkYlN0NSZWN1cnNlQ2VudGVyLnJldHVybigpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MjcxMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMSUyMFNlcCUyMDIwMjYlMjAxOSUzQTQ4JTNBMDQlMjAlMkIwMDAw",
+      "title": "RecurseCenter.return()",
+      "pubDate": "Tue, 01 Sep 2026 19:48:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNoYWVsdGV0ZXIuY29tJTJGZmx5YnkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWljaGFlbHRldGVyLmNvbSUyRmZseWJ5Lmh0bWwlN0NTaG93JTIwSE4lM0ElMjBGbHklMjBCeSUyMCVFMiU4MCU5MyUyMHJldHJvJTIwYmlwbGFuZSUyMGZseWluZyUyMGdhbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUxOTEwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAxJTIwU2VwJTIwMjAyNiUyMDA3JTNBMzElM0EzOCUyMCUyQjAwMDA",
+      "title": "Show HN: Fly By – retro biplane flying game",
+      "pubDate": "Tue, 01 Sep 2026 07:31:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-01-0.json"
     }
   ]

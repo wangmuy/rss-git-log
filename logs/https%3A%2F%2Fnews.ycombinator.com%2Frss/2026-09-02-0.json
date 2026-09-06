@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 59,
-    "generatedAt": "2026-09-05T18:23:02.389Z"
+    "itemCount": 62,
+    "generatedAt": "2026-09-06T04:48:47.909Z"
   },
   "items": [
     {
@@ -360,6 +360,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2d0cmFpbnMuY29tJTJGdGVjaG5vbG9neS1pbmZvc3lzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5zZ3RyYWlucy5jb20lMkZ0ZWNobm9sb2d5LWluZm9zeXMuaHRtbCU3Q1NpbmdhcG9yZSUyMHN1YndheSUyMChtcnQpJTIwaW5mb3JtYXRpb24lMjBkaXNwbGF5JTIwdHlwZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzNTk0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDEzJTNBMzAlM0EwOSUyMCUyQjAwMDA",
       "title": "Singapore subway (mrt) information display types",
       "pubDate": "Wed, 02 Sep 2026 13:30:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2lyY3VpdHZhbGxleS5jb20lMkYyMDI2JTJGMDglMkZjaGM1LW9wZW4tY2FtZXJhLXNlbnNvci1jb21wYXJpc29uLXNwZWNpZmljYXRpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNpcmN1aXR2YWxsZXkuY29tJTJGMjAyNiUyRjA4JTJGY2hjNS1vcGVuLWNhbWVyYS1zZW5zb3ItY29tcGFyaXNvbi1zcGVjaWZpY2F0aW9uLmh0bWwlN0NDSEM1JTNBJTIwT3BlbiUyMENhbWVyYSUyMFN5c3RlbSUyMCVFMiU4MCU5MyUyMEltYWdlJTIwU2Vuc29yJTIwU3BlY2lmaWNhdGlvbiUyMENvbXBhcmlzb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU0MzM0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDIyJTNBMTclM0EwOCUyMCUyQjAwMDA",
+      "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
+      "pubDate": "Wed, 02 Sep 2026 22:17:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm1pb2Qub25saW5lLmZyJTJGc29mdHdhcmUlMkZvcGVuYnNkJTJGc3RvcmllcyUyRnNtZC5odG1sJTdDaHR0cCUzQSUyRiUyRm1pb2Qub25saW5lLmZyJTJGc29mdHdhcmUlMkZvcGVuYnNkJTJGc3RvcmllcyUyRnNtZC5odG1sJTdDT3BlbkJTRCUyMFN0b3JpZXMlM0ElMjBTdHJhbmdlJTIwTWVkaWV2YWwlMjBEZXZpY2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Mzk3NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxNyUzQTQ0JTNBMjQlMjAlMkIwMDAw",
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "pubDate": "Wed, 02 Sep 2026 17:44:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubHR0bGFicy5jb20lMkZhcnRpY2xlcyUyRjIwMjYlMkYwOSUyRjAyJTJGZGVsaWRkZWQtaW50ZWwtaTktMTQ5MDBrcyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmx0dGxhYnMuY29tJTJGYXJ0aWNsZXMlMkYyMDI2JTJGMDklMkYwMiUyRmRlbGlkZGVkLWludGVsLWk5LTE0OTAwa3MlN0NEZWxpZGRlZCUyMEludGVsJTIwSTktMTQ5MDBLUyUyMENUJTIwU2NhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM5MTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTYlM0E1NiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Delidded Intel I9-14900KS CT Scan",
+      "pubDate": "Wed, 02 Sep 2026 16:56:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

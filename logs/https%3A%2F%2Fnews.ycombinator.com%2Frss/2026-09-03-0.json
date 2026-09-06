@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-03",
     "newestItemDate": "2026-09-03",
-    "itemCount": 37,
-    "generatedAt": "2026-09-05T18:23:02.389Z"
+    "itemCount": 39,
+    "generatedAt": "2026-09-06T04:48:47.909Z"
   },
   "items": [
     {
@@ -228,6 +228,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RmR1pwYXFNaGEwbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEZkdacGFxTWhhMG8lN0NXcml0ZSUyMFNvZnR3YXJlJTIwaW4lMjBMYXRpbiUyMCgyMDI1KSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDU0MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAwMiUzQTUzJTNBNDYlMjAlMkIwMDAw",
       "title": "Write Software in Latin (2025) [video]",
       "pubDate": "Thu, 03 Sep 2026 02:53:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaWN6ZWxpYSUyRmJhbHJvZ2clN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZpY3plbGlhJTJGYmFscm9nZyU3Q0JhbHJvZ2clM0ElMjBEZW1vbmljYWxseSUyMGNvbXBhY3RpbmclMjAodXAlMjB0byUyMDE1JTI1KSUyMGxvc3NsZXNzJTIwVm9yYmlzJTJGT3B1cyUyMHJlY29tcHJlc3NvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ5Nzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTMlM0EzNyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "pubDate": "Thu, 03 Sep 2026 13:37:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWN0b3JpYW1ldHJpY3MuY29tJTJGYmxvZyUyRmdvLXN3aXNzLXRhYmxlLW1hcCUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpY3RvcmlhbWV0cmljcy5jb20lMkZibG9nJTJGZ28tc3dpc3MtdGFibGUtbWFwJTJGaW5kZXguaHRtbCU3Q0hvdyUyMFN3aXNzJTIwdGFibGVzJTIwd29yayUyMGluJTIwR28lMjBidWlsdC1pbiUyMG1hcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ4ODUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTElM0E1OSUzQTE3JTIwJTJCMDAwMA",
+      "title": "How Swiss tables work in Go built-in map",
+      "pubDate": "Thu, 03 Sep 2026 11:59:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-05",
     "newestItemDate": "2026-09-05",
-    "itemCount": 16,
-    "generatedAt": "2026-09-05T18:23:02.389Z"
+    "itemCount": 24,
+    "generatedAt": "2026-09-06T04:48:47.909Z"
   },
   "items": [
     {
@@ -102,6 +102,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdXNoaW4uZXUlN0NodHRwcyUzQSUyRiUyRnB1c2hpbi5ldSUyRiU3Q0dpdCUyMGhvc3RpbmclMjB0aGF0JTIwbmV2ZXIlMjBsZWF2ZXMlMjBFdXJvcGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3MzY4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDA2JTNBMzElM0E0OSUyMCUyQjAwMDA",
       "title": "Git hosting that never leaves Europe",
       "pubDate": "Sat, 05 Sep 2026 06:31:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXBjYXRzb2Z0d2FyZS5jb20lMkZhcnRpY2xlcyUyRjIwMjYlMkY5JTJGMS5odG1sJTdDaHR0cHMlM0ElMkYlMkZsYXBjYXRzb2Z0d2FyZS5jb20lMkZhcnRpY2xlcyUyRjIwMjYlMkY5JTJGMS5odG1sJTdDQ2hyb21lJTIwYWdhaW4lMjBleGVtcHRzJTIwR29vZ2xlJTIwZnJvbSUyMHVzZXIlMjBzaXRlJTIwZGF0YSUyMHNldHRpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODE4NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAyMyUzQTM5JTNBNDclMjAlMkIwMDAw",
+      "title": "Chrome again exempts Google from user site data settings",
+      "pubDate": "Sat, 05 Sep 2026 23:39:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb2tmLW1lbW9yeSUyRm9rZi1hZ2VudC1tZW1vcnklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZva2YtbWVtb3J5JTJGb2tmLWFnZW50LW1lbW9yeSU3Q09LRiUyMEFnZW50JTIwTWVtb3J5JTIwJUUyJTgwJTkzJTIwR2l0LW5hdGl2ZSUyMHBlcnNpc3RlbnQlMjBtZW1vcnklMjBmb3IlMjBBSSUyMGNvZGluZyUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTgxMjQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDUlMjBTZXAlMjAyMDI2JTIwMjIlM0ExNSUzQTUyJTIwJTJCMDAwMA",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "pubDate": "Sat, 05 Sep 2026 22:15:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjYlMkYwOSUyRjA1JTJGdGhlLXJldm9sdC1vZi10aGUtcmVhZGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjYlMkYwOSUyRjA1JTJGdGhlLXJldm9sdC1vZi10aGUtcmVhZGVyJTJGJTdDVGhlJTIwcmV2b2x0JTIwb2YlMjB0aGUlMjByZWFkZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4MDkzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDIxJTNBMzclM0E0OSUyMCUyQjAwMDA",
+      "title": "The revolt of the reader",
+      "pubDate": "Sat, 05 Sep 2026 21:37:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2UuY29tJTJGc3BhY2UtZXhwbG9yYXRpb24lMkZsYXVuY2hlcy1zcGFjZWNyYWZ0JTJGaXNhci1hZXJvc3BhY2Utc2Vjb25kLWxhdW5jaC1ub3J3YXktYW5kb3lhLXNwYWNlcG9ydC1zcGVjdHJ1bS1yb2NrZXQlN0NodHRwcyUzQSUyRiUyRnd3dy5zcGFjZS5jb20lMkZzcGFjZS1leHBsb3JhdGlvbiUyRmxhdW5jaGVzLXNwYWNlY3JhZnQlMkZpc2FyLWFlcm9zcGFjZS1zZWNvbmQtbGF1bmNoLW5vcndheS1hbmRveWEtc3BhY2Vwb3J0LXNwZWN0cnVtLXJvY2tldCU3Q1ByaXZhdGUlMjBHZXJtYW4lMjByb2NrZXQlMjBtYWtlcyUyMGhpc3RvcnklMkMlMjByZWFjaGVzJTIwb3JiaXQlMjBmcm9tJTIwRXVyb3BlYW4lMjBzb2lsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODAzNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAyMCUzQTMxJTNBMzglMjAlMkIwMDAw",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "pubDate": "Sat, 05 Sep 2026 20:31:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAxNCUyRjAyJTJGMDQlMkZmaW5pdGUtdGltZS1ibG93dXAtZm9yLWFuLWF2ZXJhZ2VkLXRocmVlLWRpbWVuc2lvbmFsLW5hdmllci1zdG9rZXMtZXF1YXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRnRlcnJ5dGFvLndvcmRwcmVzcy5jb20lMkYyMDE0JTJGMDIlMkYwNCUyRmZpbml0ZS10aW1lLWJsb3d1cC1mb3ItYW4tYXZlcmFnZWQtdGhyZWUtZGltZW5zaW9uYWwtbmF2aWVyLXN0b2tlcy1lcXVhdGlvbiUyRiU3Q0Zpbml0ZSUyMHRpbWUlMjBibG93dXAlMjBmb3IlMjBhbiUyMGF2ZXJhZ2VkJTIwdGhyZWUtZGltZW5zaW9uYWwlMjBOYXZpZXItU3Rva2VzJTIwZXF1YXRpb24lMjAoMjAxNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4MDMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDIwJTNBMjUlM0E1OSUyMCUyQjAwMDA",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "pubDate": "Sat, 05 Sep 2026 20:25:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAzMzQ0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAzMzQ0JTdDTExNcyUyMGFzJTIwYSUyMENvZ25pdGl2ZSUyMFZpcnVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODAxNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAyMCUzQTAyJTNBMzUlMjAlMkIwMDAw",
+      "title": "LLMs as a Cognitive Virus",
+      "pubDate": "Sat, 05 Sep 2026 20:02:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc2FyYWVyb3NwYWNlLmNvbSUyRm1pc3Npb24tdXBkYXRlcy1vdmVydmlldyU3Q2h0dHBzJTNBJTJGJTJGaXNhcmFlcm9zcGFjZS5jb20lMkZtaXNzaW9uLXVwZGF0ZXMtb3ZlcnZpZXclN0NJU0FSJTIwQWVyb3NwYWNlJTIwNSUyMFNlcHQlMjBNaXNzaW9uJTIwT253YXJkJTIwYW5kJTIwVXB3YXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1Nzk5NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAxOSUzQTQxJTNBMjclMjAlMkIwMDAw",
+      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+      "pubDate": "Sat, 05 Sep 2026 19:41:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1c3IubG1mLmNucnMuZnIlMkZscG8lMkYlN0NodHRwcyUzQSUyRiUyRnVzci5sbWYuY25ycy5mciUyRmxwbyUyRiU3Q0xlYXJuJTIwUHJvZ3JhbW1pbmclMjB3aXRoJTIwT0NhbWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3ODI4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDE2JTNBNDUlM0EwMiUyMCUyQjAwMDA",
+      "title": "Learn Programming with OCaml",
+      "pubDate": "Sat, 05 Sep 2026 16:45:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
     }
   ]
