@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 65,
-    "generatedAt": "2026-09-06T12:11:16.590Z"
+    "itemCount": 67,
+    "generatedAt": "2026-09-06T18:24:08.452Z"
   },
   "items": [
     {
@@ -396,6 +396,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk0tRElTQyU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZNLURJU0MlN0NNLURJU0MlMjAlRTIlODAlOTMlMjBEVkQlMkZCbHUtcmF5JTIwY29tcGF0aWJsZSUyMGRpc2NzJTIwdGhhdCUyMG1heSUyMGxhc3QlMjB1cCUyMHRvJTIwMTAwMCUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzE2MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAwNCUzQTEwJTNBMjElMjAlMkIwMDAw",
       "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
       "pubDate": "Wed, 02 Sep 2026 04:10:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnlkYi50ZWNoJTJGaXMtdGhlcmUtaS1vLWFmdGVyLWRlYXRoLXdoYXQtaGFwcGVucy10by1pby11cmluZy13aGVuLWEtcHJvY2Vzcy1kaWVzLTkyYzY1MzU0ODczZiUzRnBvc3RQdWJsaXNoZWRUeXBlJTNEcmVwdWIlN0NodHRwcyUzQSUyRiUyRmJsb2cueWRiLnRlY2glMkZpcy10aGVyZS1pLW8tYWZ0ZXItZGVhdGgtd2hhdC1oYXBwZW5zLXRvLWlvLXVyaW5nLXdoZW4tYS1wcm9jZXNzLWRpZXMtOTJjNjUzNTQ4NzNmJTNGcG9zdFB1Ymxpc2hlZFR5cGUlM0RyZXB1YiU3Q0lzJTIwVGhlcmUlMjBJJTJGTyUyMEFmdGVyJTIwRGVhdGglM0YlMjBXaGF0JTIwSGFwcGVucyUyMHRvJTIwSW9fdXJpbmclMjBXaGVuJTIwYSUyMFByb2Nlc3MlMjBEaWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDI0NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAyMCUzQTU4JTNBNDUlMjAlMkIwMDAw",
+      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+      "pubDate": "Wed, 02 Sep 2026 20:58:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLndzdS5lZHUlMkZwcmVzcy1yZWxlYXNlJTJGMjAyNiUyRjA4JTJGMjAlMkZyZXNlYXJjaGVycy1kZXZlbG9wLWVsZWN0cm9uaWMtc2tpbi1mb3ItcHJvc3RoZXRpY3MtdG8tc2Vuc2UtdGVtcGVyYXR1cmUtYW5kLXByZXNzdXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZuZXdzLndzdS5lZHUlMkZwcmVzcy1yZWxlYXNlJTJGMjAyNiUyRjA4JTJGMjAlMkZyZXNlYXJjaGVycy1kZXZlbG9wLWVsZWN0cm9uaWMtc2tpbi1mb3ItcHJvc3RoZXRpY3MtdG8tc2Vuc2UtdGVtcGVyYXR1cmUtYW5kLXByZXNzdXJlJTJGJTdDRWxlY3Ryb25pYyUyMHNraW4lMjBmb3IlMjBwcm9zdGhldGljcyUyMHRvJTIwc2Vuc2UlMjB0ZW1wZXJhdHVyZSUyMGFuZCUyMHByZXNzdXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDAwOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxOCUzQTA2JTNBNTYlMjAlMkIwMDAw",
+      "title": "Electronic skin for prosthetics to sense temperature and pressure",
+      "pubDate": "Wed, 02 Sep 2026 18:06:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

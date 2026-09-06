@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 11,
-    "generatedAt": "2026-09-06T12:11:16.590Z"
+    "itemCount": 28,
+    "generatedAt": "2026-09-06T18:24:08.451Z"
   },
   "items": [
     {
@@ -72,6 +72,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXJtYWRlbi53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMDYlMkZhbWQtYmFzZWQtZnJlZWJzZC1kZXNrdG9wLXJlbG9hZGVkJTJGJTdDaHR0cHMlM0ElMkYlMkZ2ZXJtYWRlbi53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMDYlMkZhbWQtYmFzZWQtZnJlZWJzZC1kZXNrdG9wLXJlbG9hZGVkJTJGJTdDQU1EJTIwQmFzZWQlMjBGcmVlQlNEJTIwRGVza3RvcCUyMFJlbG9hZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODI3MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAwMiUzQTI0JTNBNTclMjAlMkIwMDAw",
       "title": "AMD Based FreeBSD Desktop Reloaded",
       "pubDate": "Sun, 06 Sep 2026 02:24:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVkZXVzJTJGbml0dGVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVkZXVzJTJGbml0dGVyJTdDRm9sbG93aW5nJTIwbGVnYWwlMjBhZHZpY2UlMkMlMjB0aGUlMjBOaXR0ZXIlMjBwcm9qZWN0JTIwd2lsbCUyMGNvbnRpbnVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODkwMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxNyUzQTUxJTNBMjMlMjAlMkIwMDAw",
+      "title": "Following legal advice, the Nitter project will continue",
+      "pubDate": "Sun, 06 Sep 2026 17:51:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGb3BhbGl0ZS1oZWFsdGglMkZqb2JzJTJGYk5lZFZBRC1mb3VuZGluZy1ndG0lN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZvcGFsaXRlLWhlYWx0aCUyRmpvYnMlMkZiTmVkVkFELWZvdW5kaW5nLWd0bSU3Q09wYWxpdGUlMjBIZWFsdGglMjAoWUMlMjBXMjYpJTIwSXMlMjBIaXJpbmclMjAlRTIlODAlOTMlMjBGb3VuZGluZyUyMEdUTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg4NDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTclM0EwMCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+      "pubDate": "Sun, 06 Sep 2026 17:00:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZob3ctd2UtbW9uaXRvci1pbnRlcm5hbC1jb2RpbmctYWdlbnRzLW1pc2FsaWdubWVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGaG93LXdlLW1vbml0b3ItaW50ZXJuYWwtY29kaW5nLWFnZW50cy1taXNhbGlnbm1lbnQlMkYlN0NXZSUyMG1vbml0b3IlMjBpbnRlcm5hbCUyMGNvZGluZyUyMGFnZW50cyUyMGZvciUyMG1pc2FsaWdubWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg4MjE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTYlM0EzNyUzQTU1JTIwJTJCMDAwMA",
+      "title": "We monitor internal coding agents for misalignment",
+      "pubDate": "Sun, 06 Sep 2026 16:37:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhbi1hbGllbi1taW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhbi1hbGllbi1taW5kJTJGJTdDQW4lMjBBbGllbiUyME1pbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4ODA4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE2JTNBMjclM0EwNSUyMCUyQjAwMDA",
+      "title": "An Alien Mind",
+      "pubDate": "Sun, 06 Sep 2026 16:27:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV0YnNkLm9yZyUyRmdhbGxlcnklMkZyZXNlYXJjaC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmV0YnNkLm9yZyUyRmdhbGxlcnklMkZyZXNlYXJjaC5odG1sJTdDUmVzZWFyY2glMjBjYXJyaWVkJTIwb3V0JTIwdXNpbmclMjBOZXRCU0QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NzkwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE2JTNBMTAlM0EwNSUyMCUyQjAwMDA",
+      "title": "Research carried out using NetBSD",
+      "pubDate": "Sun, 06 Sep 2026 16:10:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm5ldGJzZC5vcmclMkZ0bmYlMkZlbnRyeSUyRm5ldGJzZF85XzVfcmVsZWFzZWRfYW5kJTdDaHR0cHMlM0ElMkYlMkZibG9nLm5ldGJzZC5vcmclMkZ0bmYlMkZlbnRyeSUyRm5ldGJzZF85XzVfcmVsZWFzZWRfYW5kJTdDTmV0QlNEJTIwOS41JTIwcmVsZWFzZWQlMjBhbmQlMjBFT0wlMjBmb3IlMjBOZXRCU0QtOSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg3NjM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTUlM0E0NCUzQTI0JTIwJTJCMDAwMA",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "pubDate": "Sun, 06 Sep 2026 15:44:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZyZXNlYXJjaC1hY2NlbGVyYXRpb24tdmlldy1pbnNpZGUtb3BlbmFpJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZyZXNlYXJjaC1hY2NlbGVyYXRpb24tdmlldy1pbnNpZGUtb3BlbmFpJTdDUmVzZWFyY2glMjBhY2NlbGVyYXRpb24lM0ElMjBUaGUlMjB2aWV3JTIwaW5zaWRlJTIwT3BlbkFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODcyMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxNSUzQTA4JTNBNDQlMjAlMkIwMDAw",
+      "title": "Research acceleration: The view inside OpenAI",
+      "pubDate": "Sun, 06 Sep 2026 15:08:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrdWJlci5zdHVkaW8lMkZibG9nJTJGUmVmbGVjdGlvbnMlMkZSZWNyZWF0aW5nLU1pbmVjcmFmdC1pcy1Ob3QtYS1CZW5jaG1hcmslN0NodHRwcyUzQSUyRiUyRmt1YmVyLnN0dWRpbyUyRmJsb2clMkZSZWZsZWN0aW9ucyUyRlJlY3JlYXRpbmctTWluZWNyYWZ0LWlzLU5vdC1hLUJlbmNobWFyayU3Q1JlY3JlYXRpbmclMjBNaW5lY3JhZnQlMjBJcyUyME5vdCUyMGElMjBCZW5jaG1hcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NzA0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE0JTNBNTIlM0EwNyUyMCUyQjAwMDA",
+      "title": "Recreating Minecraft Is Not a Benchmark",
+      "pubDate": "Sun, 06 Sep 2026 14:52:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2Nhc3RpZWwlMkZrYWRvJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2Nhc3RpZWwlMkZrYWRvJTdDU2hvdyUyMEhOJTNBJTIwS2FkJUM1JThEJTIwJUUyJTgwJTkzJTIwb3Blbi1zb3VyY2UlMjBoYWJpdCUyMHRyYWNrZXIlMkMlMjB3aXRoJTIwbm9uLWJpbmFyeSUyMGhhYml0JTIwc2NvcmUlMkMlMjBmb3IlMjBpT1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NjkwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE0JTNBMzQlM0E0NiUyMCUyQjAwMDA",
+      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "pubDate": "Sun, 06 Sep 2026 14:34:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZWVwaXRmcmVlLmFpJTJGYW5ub3VuY2VtZW50cyUyRmElMkZpLXNodXRzLWRvd24tc3RheS1odW1hbiUyRiU3Q2h0dHBzJTNBJTJGJTJGa2VlcGl0ZnJlZS5haSUyRmFubm91bmNlbWVudHMlMkZhJTJGaS1zaHV0cy1kb3duLXN0YXktaHVtYW4lMkYlN0NBJTJGSSUyMHNodXRzJTIwZG93biUyMCVFMiU4MCU5MyUyMFN0YXklMjBodW1hbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg2ODk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTQlM0EzNCUzQTM0JTIwJTJCMDAwMA",
+      "title": "A/I shuts down – Stay human",
+      "pubDate": "Sun, 06 Sep 2026 14:34:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkFzYWhpLUxpbnV4LU9mZmljaWFsLU0zJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkFzYWhpLUxpbnV4LU9mZmljaWFsLU0zJTdDQXNhaGklMjBMaW51eCUyME5vdyUyME9mZmljaWFsbHklMjBTdXBwb3J0cyUyMEFwcGxlJTIwTTMlMjBNYWNzJTIwJUUyJTgwJTkzJTIwV2l0aCUyMENhdmVhdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NjY5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDglM0E1OSUyMCUyQjAwMDA",
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+      "pubDate": "Sun, 06 Sep 2026 14:08:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlY29ub21pc3QuY29tJTJGaW50ZXJhY3RpdmUlMkZjdWx0dXJlJTJGMjAyNiUyRjA5JTJGMDMlMkZ0aGUtbWFueS1teXN0ZXJpZXMtYW5kLWxlc3NvbnMtb2YtdGhlLWJheWV1eC10YXBlc3RyeSU3Q2h0dHBzJTNBJTJGJTJGZWNvbm9taXN0LmNvbSUyRmludGVyYWN0aXZlJTJGY3VsdHVyZSUyRjIwMjYlMkYwOSUyRjAzJTJGdGhlLW1hbnktbXlzdGVyaWVzLWFuZC1sZXNzb25zLW9mLXRoZS1iYXlldXgtdGFwZXN0cnklN0NUaGUlMjBtYW55JTIwbXlzdGVyaWVzJTIwYW5kJTIwbGVzc29ucyUyMG9mJTIwdGhlJTIwQmF5ZXV4JTIwdGFwZXN0cnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NjQzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzglM0EwNyUyMCUyQjAwMDA",
+      "title": "The many mysteries and lessons of the Bayeux tapestry",
+      "pubDate": "Sun, 06 Sep 2026 13:38:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZWlnZS5wYXJ0eSUyRiU0MGludHJhbnNpdGl2ZWxpZSUyRjExNzA1NzM5NjczMjc2MzE4MyU3Q2h0dHBzJTNBJTJGJTJGYmVpZ2UucGFydHklMkYlNDBpbnRyYW5zaXRpdmVsaWUlMkYxMTcwNTczOTY3MzI3NjMxODMlN0NRQml0dG9ycmVudCUyMGJyZWFrcyUyMG91dCUyMG9mJTIwc2FuZGJveCUyMHRvJTIwY29tbWl0JTIwY3JpbWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODYxNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxMyUzQTAyJTNBNDElMjAlMkIwMDAw",
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "pubDate": "Sun, 06 Sep 2026 13:02:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaHVrbGEuaW8lMkZxdWFudHVtLW9yYWNsZS1lbmdpbmVlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGc2h1a2xhLmlvJTJGcXVhbnR1bS1vcmFjbGUtZW5naW5lZXJpbmclMkYlN0NJJ20lMjB0ZWFjaGluZyUyMGFuJTIwaW50cm9kdWN0b3J5JTIwMTIlMjB3ZWVrJTIwY291cnNlJTIwb24lMjBRdWFudHVtJTIwT3JhY2xlJTIwRW5naW5lZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NjE1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDEzJTNBMDAlM0EzNCUyMCUyQjAwMDA",
+      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+      "pubDate": "Sun, 06 Sep 2026 13:00:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWIudXUubmwlMkZlbiUyRmNvbHVtbiUyRnBlbmNpbC1jYXNlLW1vZGVsLWNyZWF0aXZpdHklN0NodHRwcyUzQSUyRiUyRmR1Yi51dS5ubCUyRmVuJTJGY29sdW1uJTJGcGVuY2lsLWNhc2UtbW9kZWwtY3JlYXRpdml0eSU3Q1RoZSUyMHBlbmNpbCUyMGNhc2UlMjBtb2RlbCUyMG9mJTIwY3JlYXRpdml0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg1NzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTIlM0EwNSUzQTM0JTIwJTJCMDAwMA",
+      "title": "The pencil case model of creativity",
+      "pubDate": "Sun, 06 Sep 2026 12:05:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjUlMkYxMiUyRjA1JTJGeW91ci1pbnRlbGxlY3R1YWwtZmx5LWlzLW9wZW4lMkYlN0NodHRwcyUzQSUyRiUyRmJjYW50cmlsbC5kdHJhY2Uub3JnJTJGMjAyNSUyRjEyJTJGMDUlMkZ5b3VyLWludGVsbGVjdHVhbC1mbHktaXMtb3BlbiUyRiU3Q1lvdXIlMjBpbnRlbGxlY3R1YWwlMjBmbHklMjBpcyUyMG9wZW4lMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NTY0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDExJTNBNTYlM0E0MyUyMCUyQjAwMDA",
+      "title": "Your intellectual fly is open (2025)",
+      "pubDate": "Sun, 06 Sep 2026 11:56:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWR3ZXN0LmNvLnVrJTJGcCUyRmRvb21zY3JvbGxpbmctb3Vyc2VsdmVzLXRvLWRlYXRoJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWR3ZXN0LmNvLnVrJTJGcCUyRmRvb21zY3JvbGxpbmctb3Vyc2VsdmVzLXRvLWRlYXRoJTdDRG9vbXNjcm9sbGluZyUyME91cnNlbHZlcyUyMHRvJTIwRGVhdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NTYyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDExJTNBNTMlM0E0MCUyMCUyQjAwMDA",
+      "title": "Doomscrolling Ourselves to Death",
+      "pubDate": "Sun, 06 Sep 2026 11:53:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

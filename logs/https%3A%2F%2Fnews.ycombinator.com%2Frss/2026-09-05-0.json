@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-05",
     "newestItemDate": "2026-09-05",
-    "itemCount": 24,
-    "generatedAt": "2026-09-06T04:48:47.909Z"
+    "itemCount": 25,
+    "generatedAt": "2026-09-06T18:24:08.451Z"
   },
   "items": [
     {
@@ -150,6 +150,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1c3IubG1mLmNucnMuZnIlMkZscG8lMkYlN0NodHRwcyUzQSUyRiUyRnVzci5sbWYuY25ycy5mciUyRmxwbyUyRiU3Q0xlYXJuJTIwUHJvZ3JhbW1pbmclMjB3aXRoJTIwT0NhbWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3ODI4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDE2JTNBNDUlM0EwMiUyMCUyQjAwMDA",
       "title": "Learn Programming with OCaml",
       "pubDate": "Sat, 05 Sep 2026 16:45:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhyaWxsaW5ndGFsZXNvZm9sZHZpZGVvZ2FtZXMuY29tJTJGYmxvZyUyRmdhbm9uLW5hbWUtb3JpZ2luLWthbWVuLXJpZGVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhyaWxsaW5ndGFsZXNvZm9sZHZpZGVvZ2FtZXMuY29tJTJGYmxvZyUyRmdhbm9uLW5hbWUtb3JpZ2luLWthbWVuLXJpZGVyJTdDR2Fub24ncyUyME15c3RlcmlvdXMlMjBPcmlnaW5zJTIwKFJldmlzaXRlZCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4MDM4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDIwJTNBMzMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Ganon's Mysterious Origins (Revisited)",
+      "pubDate": "Sat, 05 Sep 2026 20:33:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
     }
   ]
