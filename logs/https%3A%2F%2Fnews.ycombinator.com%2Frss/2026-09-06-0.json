@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 5,
-    "generatedAt": "2026-09-06T04:48:47.909Z"
+    "itemCount": 11,
+    "generatedAt": "2026-09-06T12:11:16.590Z"
   },
   "items": [
     {
@@ -36,6 +36,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbG91ZGluYWJvdHRsZS5vcmclMkZibG9nJTJGbGF1bmNoLXBvc3QlN0NodHRwcyUzQSUyRiUyRmNsb3VkaW5hYm90dGxlLm9yZyUyRmJsb2clMkZsYXVuY2gtcG9zdCU3Q0Nsb3VkJTIwaW4lMjBhJTIwQm90dGxlJTNBJTIwbWFraW5nJTIwc2VsZi1ob3N0aW5nJTIwYWNjZXNzaWJsZSUyMHRvJTIwZXZlcnlvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4MjAwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDAwJTNBMDMlM0EyOSUyMCUyQjAwMDA",
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "pubDate": "Sun, 06 Sep 2026 00:03:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXJnaWUuaWtpLmZpJTJGYmxvZyUyRmV1cGwlMkYlN0NodHRwcyUzQSUyRiUyRmJlcmdpZS5pa2kuZmklMkZibG9nJTJGZXVwbCUyRiU3Q0klMjBDaGFuZ2VkJTIwTXklMjBMaWNlbnNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODUxNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxMCUzQTM5JTNBNDQlMjAlMkIwMDAw",
+      "title": "I Changed My License",
+      "pubDate": "Sun, 06 Sep 2026 10:39:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZWVuYmVhbi5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRmtlZW5iZWFuLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMEtlZW4lMjBCZWFuJTIwJUUyJTgwJTkzJTIwTWFjJTIwbWVldGluZyUyMG5vdGVzJTIwdGhhdCUyMGRyYWZ0JTIwdGhlJTIwc3BlYyUyMHdoaWxlJTIweW91JTIwdGFsayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg0ODgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMDklM0E1MyUzQTEyJTIwJTJCMDAwMA",
+      "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
+      "pubDate": "Sun, 06 Sep 2026 09:53:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW90aGVyam9uZXMuY29tJTJGcG9saXRpY3MlMkYyMDI2JTJGMDklMkZkcmlua2luZy13YXRlci1taXNzaXNzaXBwaS1sYXdzdWl0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubW90aGVyam9uZXMuY29tJTJGcG9saXRpY3MlMkYyMDI2JTJGMDklMkZkcmlua2luZy13YXRlci1taXNzaXNzaXBwaS1sYXdzdWl0JTJGJTdDWW91JTIwRG9uJ3QlMjBIYXZlJTIwYSUyMFJpZ2h0JTIwdG8lMjBTYWZlJTIwRHJpbmtpbmclMjBXYXRlciUyQyUyMFVTJTIwQ291cnQlMjBSdWxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg0NjM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMDklM0ExNCUzQTIyJTIwJTJCMDAwMA",
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "pubDate": "Sun, 06 Sep 2026 09:14:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHJlbmRpbmd0b3BpY3MuZXUlMkZlbWFkLW1vc3RhcXVlLWFpLWludGVybmV0LW91dGxvb2stZW5nbGlzaCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRyZW5kaW5ndG9waWNzLmV1JTJGZW1hZC1tb3N0YXF1ZS1haS1pbnRlcm5ldC1vdXRsb29rLWVuZ2xpc2glMkYlN0MlMjJXZSUyMEhhdmUlMjB0byUyMEFzc3VtZSUyMFRoYXQlMjB0aGUlMjBJbnRlcm5ldCUyMFdpbGwlMjBHbyUyME9mZmxpbmUlMjBpbiUyMHRoZSUyME5leHQlMjBGZXclMjBZZWFycyUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg0NDQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMDglM0EzMSUzQTAxJTIwJTJCMDAwMA",
+      "title": "\"We Have to Assume That the Internet Will Go Offline in the Next Few Years\"",
+      "pubDate": "Sun, 06 Sep 2026 08:31:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc2FyYWVyb3NwYWNlLmNvbSUyRnByZXNzJTJGaGlzdG9yeS1mb3ItZXVyb3BlYW4tc3BhY2VmbGlnaHQtaXNhci1hZXJvc3BhY2UtcmVhY2hlcy1vcmJpdC1hbmQtZGVwbG95cy1wYXlsb2Fkcy1vbi1zZWNvbmQtZmxpZ2h0JTdDaHR0cHMlM0ElMkYlMkZpc2FyYWVyb3NwYWNlLmNvbSUyRnByZXNzJTJGaGlzdG9yeS1mb3ItZXVyb3BlYW4tc3BhY2VmbGlnaHQtaXNhci1hZXJvc3BhY2UtcmVhY2hlcy1vcmJpdC1hbmQtZGVwbG95cy1wYXlsb2Fkcy1vbi1zZWNvbmQtZmxpZ2h0JTdDSXNhciUyMEFlcm9zcGFjZSUyMHJlYWNoZXMlMjBvcmJpdCUyMGFuZCUyMGRlcGxveXMlMjBwYXlsb2FkcyUyMG9uJTIwc2Vjb25kJTIwZmxpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODQwODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAwNyUzQTIxJTNBMDYlMjAlMkIwMDAw",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "pubDate": "Sun, 06 Sep 2026 07:21:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXJtYWRlbi53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMDYlMkZhbWQtYmFzZWQtZnJlZWJzZC1kZXNrdG9wLXJlbG9hZGVkJTJGJTdDaHR0cHMlM0ElMkYlMkZ2ZXJtYWRlbi53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMDYlMkZhbWQtYmFzZWQtZnJlZWJzZC1kZXNrdG9wLXJlbG9hZGVkJTJGJTdDQU1EJTIwQmFzZWQlMjBGcmVlQlNEJTIwRGVza3RvcCUyMFJlbG9hZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODI3MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAwMiUzQTI0JTNBNTclMjAlMkIwMDAw",
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "pubDate": "Sun, 06 Sep 2026 02:24:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

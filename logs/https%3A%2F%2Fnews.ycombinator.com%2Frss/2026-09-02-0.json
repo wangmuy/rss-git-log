@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 62,
-    "generatedAt": "2026-09-06T04:48:47.909Z"
+    "itemCount": 65,
+    "generatedAt": "2026-09-06T12:11:16.590Z"
   },
   "items": [
     {
@@ -378,6 +378,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubHR0bGFicy5jb20lMkZhcnRpY2xlcyUyRjIwMjYlMkYwOSUyRjAyJTJGZGVsaWRkZWQtaW50ZWwtaTktMTQ5MDBrcyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmx0dGxhYnMuY29tJTJGYXJ0aWNsZXMlMkYyMDI2JTJGMDklMkYwMiUyRmRlbGlkZGVkLWludGVsLWk5LTE0OTAwa3MlN0NEZWxpZGRlZCUyMEludGVsJTIwSTktMTQ5MDBLUyUyMENUJTIwU2NhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTM5MTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTYlM0E1NiUzQTAzJTIwJTJCMDAwMA",
       "title": "Delidded Intel I9-14900KS CT Scan",
       "pubDate": "Wed, 02 Sep 2026 16:56:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW5qcy5hcHAlMkZibG9nJTJGbXVzaWMtdGhlb3J5LWZvci1wcm9ncmFtbWVycyU3Q2h0dHBzJTNBJTJGJTJGcnVuanMuYXBwJTJGYmxvZyUyRm11c2ljLXRoZW9yeS1mb3ItcHJvZ3JhbW1lcnMlN0NNdXNpYyUyMFRoZW9yeSUyMGZvciUyMFByb2dyYW1tZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDE4ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAyMCUzQTE5JTNBMTMlMjAlMkIwMDAw",
+      "title": "Music Theory for Programmers",
+      "pubDate": "Wed, 02 Sep 2026 20:19:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXJldmlld29mYm9va3Mub3JnJTJGYXJ0aWNsZSUyRmRhdGEtZW1waXJlLXJvb3Bpa2EtcmlzYW0taW5mb3JtYXRpb24tb3JnYW5pemUtY29udHJvbC1kb21pbmF0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGFyZXZpZXdvZmJvb2tzLm9yZyUyRmFydGljbGUlMkZkYXRhLWVtcGlyZS1yb29waWthLXJpc2FtLWluZm9ybWF0aW9uLW9yZ2FuaXplLWNvbnRyb2wtZG9taW5hdGUlMkYlN0NUaGUlMjBFbXBpcmUlMjBvZiUyMEluZm9ybWF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzUxMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAxMiUzQTE1JTNBMzclMjAlMkIwMDAw",
+      "title": "The Empire of Information",
+      "pubDate": "Wed, 02 Sep 2026 12:15:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk0tRElTQyU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZNLURJU0MlN0NNLURJU0MlMjAlRTIlODAlOTMlMjBEVkQlMkZCbHUtcmF5JTIwY29tcGF0aWJsZSUyMGRpc2NzJTIwdGhhdCUyMG1heSUyMGxhc3QlMjB1cCUyMHRvJTIwMTAwMCUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1MzE2MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwMiUyMFNlcCUyMDIwMjYlMjAwNCUzQTEwJTNBMjElMjAlMkIwMDAw",
+      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "pubDate": "Wed, 02 Sep 2026 04:10:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-03",
     "newestItemDate": "2026-09-03",
-    "itemCount": 39,
-    "generatedAt": "2026-09-06T04:48:47.909Z"
+    "itemCount": 40,
+    "generatedAt": "2026-09-06T12:11:16.590Z"
   },
   "items": [
     {
@@ -240,6 +240,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2aWN0b3JpYW1ldHJpY3MuY29tJTJGYmxvZyUyRmdvLXN3aXNzLXRhYmxlLW1hcCUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpY3RvcmlhbWV0cmljcy5jb20lMkZibG9nJTJGZ28tc3dpc3MtdGFibGUtbWFwJTJGaW5kZXguaHRtbCU3Q0hvdyUyMFN3aXNzJTIwdGFibGVzJTIwd29yayUyMGluJTIwR28lMjBidWlsdC1pbiUyMG1hcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQ4ODUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDMlMjBTZXAlMjAyMDI2JTIwMTElM0E1OSUzQTE3JTIwJTJCMDAwMA",
       "title": "How Swiss tables work in Go built-in map",
       "pubDate": "Thu, 03 Sep 2026 11:59:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWJtLmNvbSUyRnF1YW50dW0lMkZibG9nJTJGbmlnaHRoYXdrLXIyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaWJtLmNvbSUyRnF1YW50dW0lMkZibG9nJTJGbmlnaHRoYXdrLXIyJTdDSUJNJTIwUXVhbnR1bSUyME5pZ2h0aGF3ayUyMFIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NDYxOTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMyUyMFNlcCUyMDIwMjYlMjAwNSUzQTE2JTNBMDQlMjAlMkIwMDAw",
+      "title": "IBM Quantum Nighthawk R2",
+      "pubDate": "Thu, 03 Sep 2026 05:16:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-03-0.json"
     }
   ]
