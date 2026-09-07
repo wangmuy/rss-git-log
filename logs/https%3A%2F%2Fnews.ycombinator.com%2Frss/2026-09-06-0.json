@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 42,
-    "generatedAt": "2026-09-07T14:18:26.906Z"
+    "itemCount": 45,
+    "generatedAt": "2026-09-07T20:00:56.309Z"
   },
   "items": [
     {
@@ -258,6 +258,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYm1jY295LmRldiUyRnBvc3RzJTJGbWF0aGVtYXRpY2FsLWNvbnNlcnZhdG9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWJtY2NveS5kZXYlMkZwb3N0cyUyRm1hdGhlbWF0aWNhbC1jb25zZXJ2YXRvcnklMkYlN0NJcyUyMG1hdGhlbWF0aWNzJTIwYWJvdXQlMjB0byUyMGVudGVyJTIwdGhlJTIwY29uc2VydmF0b3J5JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTE3OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAyMyUzQTAyJTNBMTElMjAlMkIwMDAw",
       "title": "Is mathematics about to enter the conservatory?",
       "pubDate": "Sun, 06 Sep 2026 23:02:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmxkYi5vcmclMkZwdmxkYiUyRnZvbHVtZXMlMkYxOSUyRnBhcGVyJTJGVGhlJTI1MjBEYXRhZmxvdyUyNTIwTW9kZWwlMjUyMFJldmlzaXRlZCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnZsZGIub3JnJTJGcHZsZGIlMkZ2b2x1bWVzJTJGMTklMkZwYXBlciUyRlRoZSUyNTIwRGF0YWZsb3clMjUyME1vZGVsJTI1MjBSZXZpc2l0ZWQlN0NUaGUlMjBEYXRhZmxvdyUyME1vZGVsJTIwUmV2aXNpdGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODkxOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxOCUzQTEwJTNBNTMlMjAlMkIwMDAw",
+      "title": "The Dataflow Model Revisited",
+      "pubDate": "Sun, 06 Sep 2026 18:10:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtY2VnbG93c2tpLnN1YnN0YWNrLmNvbSUyRnAlMkZpY3ktbW9vbnMtYXJlLW9jZWFuLXdvcmxkcyU3Q2h0dHBzJTNBJTJGJTJGbWNlZ2xvd3NraS5zdWJzdGFjay5jb20lMkZwJTJGaWN5LW1vb25zLWFyZS1vY2Vhbi13b3JsZHMlN0NJY3klMjBNb29ucyUyMEFyZSUyME9jZWFuJTIwV29ybGRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODYyMDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxMyUzQTA3JTNBNTIlMjAlMkIwMDAw",
+      "title": "Icy Moons Are Ocean Worlds",
+      "pubDate": "Sun, 06 Sep 2026 13:07:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGVkLm5lb2NpdGllcy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnNsZWQubmVvY2l0aWVzLm9yZyUyRiU3Q1NjaGVteSUyMExpc3AlMjBFbiUyMERPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg2MTM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTIlM0E1OCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Schemy Lisp En DOS",
+      "pubDate": "Sun, 06 Sep 2026 12:58:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

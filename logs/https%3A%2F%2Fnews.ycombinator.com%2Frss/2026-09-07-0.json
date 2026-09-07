@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-07",
     "newestItemDate": "2026-09-07",
-    "itemCount": 20,
-    "generatedAt": "2026-09-07T14:18:26.906Z"
+    "itemCount": 29,
+    "generatedAt": "2026-09-07T20:00:56.309Z"
   },
   "items": [
     {
@@ -126,6 +126,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjA5JTJGMDElMkZrZWVwLW91ci1zZXJ2ZXJzLXJ1bm5pbmcteW91ci1yZWN1cnJpbmctZG9uYXRpb24tZ29lcy0zeC10aGlzLXNlcHRlbWJlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcmNoaXZlLm9yZyUyRjIwMjYlMkYwOSUyRjAxJTJGa2VlcC1vdXItc2VydmVycy1ydW5uaW5nLXlvdXItcmVjdXJyaW5nLWRvbmF0aW9uLWdvZXMtM3gtdGhpcy1zZXB0ZW1iZXIlMkYlN0NLZWVwJTIwT3VyJTIwU2VydmVycyUyMFJ1bm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5MzU2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDAzJTNBMjklM0E1MSUyMCUyQjAwMDA",
       "title": "Keep Our Servers Running",
       "pubDate": "Mon, 07 Sep 2026 03:29:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVjdHJlay5jbyUyRjIwMjYlMkYwOSUyRjAxJTJGdGVzbGEtc29sYXItcm9vZi1leGl0LWluc3RhbGxlcnMtbG9zc2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZlbGVjdHJlay5jbyUyRjIwMjYlMkYwOSUyRjAxJTJGdGVzbGEtc29sYXItcm9vZi1leGl0LWluc3RhbGxlcnMtbG9zc2VzJTJGJTdDVGVzbGElMjBraWxsaW5nJTIwU29sYXIlMjBSb29mJTIwaXMlMjBsZWF2aW5nJTIwaW5zdGFsbGVycyUyMHdpdGglMjBzaXgtZmlndXJlJTIwbG9zc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDE4NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxOSUzQTA4JTNBNDclMjAlMkIwMDAw",
+      "title": "Tesla killing Solar Roof is leaving installers with six-figure losses",
+      "pubDate": "Mon, 07 Sep 2026 19:08:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXgtc2t5bGluZS5wYXJjZWxzY29wZS5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRmxheC1za3lsaW5lLnBhcmNlbHNjb3BlLm5ldCUyRiU3Q1dhdGNoJTIwTG9zJTIwQW5nZWxlcyUyMGdldCUyMGJ1aWx0JTJDJTIwb25lJTIwYnVpbGRpbmclMjBhdCUyMGElMjB0aW1lJTIwKDE4ODAlRTIlODAlOTMyMDI2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjAxNjU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTglM0E1MiUzQTA2JTIwJTJCMDAwMA",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "pubDate": "Mon, 07 Sep 2026 18:52:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZteWhvbWVjYXQuY29tJTdDaHR0cHMlM0ElMkYlMkZteWhvbWVjYXQuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwSG9tZUNhdCUyMCVFMiU4MCU5MyUyMERlc2lnbiUyMHlvdXIlMjBiYWNreWFyZCUyMG9mZmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjAxMzI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTglM0EyMyUzQTM1JTIwJTJCMDAwMA",
+      "title": "Show HN: HomeCat – Design your backyard office",
+      "pubDate": "Mon, 07 Sep 2026 18:23:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWN0b3JpYW1ldHJpY3MuY29tJTJGYmxvZyUyRnBvc3RncmVzLTE5JTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdmljdG9yaWFtZXRyaWNzLmNvbSUyRmJsb2clMkZwb3N0Z3Jlcy0xOSUyRmluZGV4Lmh0bWwlN0NQb3N0Z3JlU1FMJTIwMTklMjBJbnRlcmFjdGl2ZSUyMFRvdXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYwMDQzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDE2JTNBNTglM0EzNSUyMCUyQjAwMDA",
+      "title": "PostgreSQL 19 Interactive Tour",
+      "pubDate": "Mon, 07 Sep 2026 16:58:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWV1ZS5hY20ub3JnJTJGZG9pJTJGMTAuMTE0NSUyRjMyMTI0NzcuMzIxMjQ3OSU3Q2h0dHBzJTNBJTJGJTJGcXVldWUuYWNtLm9yZyUyRmRvaSUyRjEwLjExNDUlMkYzMjEyNDc3LjMyMTI0NzklN0NDJTIwSXMlMjBOb3QlMjBhJTIwTG93LUxldmVsJTIwTGFuZ3VhZ2UlMjAoMjAxOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5OTYwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzklM0EyMCUyMCUyQjAwMDA",
+      "title": "C Is Not a Low-Level Language (2018)",
+      "pubDate": "Mon, 07 Sep 2026 15:39:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaGVtYWlscy5jb20lMkZwJTJGYmlsbC1nYXRlcy10cmllcy10by1pbnN0YWxsLW1vdmllLW1ha2VyJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaGVtYWlscy5jb20lMkZwJTJGYmlsbC1nYXRlcy10cmllcy10by1pbnN0YWxsLW1vdmllLW1ha2VyJTdDQmlsbCUyMEdhdGVzJTIwdHJpZXMlMjB0byUyMGluc3RhbGwlMjBNb3ZpZU1ha2VyJTIwKDIwMDMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTk0ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxNSUzQTI3JTNBMDMlMjAlMkIwMDAw",
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "pubDate": "Mon, 07 Sep 2026 15:27:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY2FkZW1pYy5vdXAuY29tJTJGcG5hc25leHVzJTJGYXJ0aWNsZSUyRjQlMkY0JTJGcGdhZjA4NyUyRjgwOTg3NDUlM0Zsb2dpbiUzRGZhbHNlJTdDaHR0cHMlM0ElMkYlMkZhY2FkZW1pYy5vdXAuY29tJTJGcG5hc25leHVzJTJGYXJ0aWNsZSUyRjQlMkY0JTJGcGdhZjA4NyUyRjgwOTg3NDUlM0Zsb2dpbiUzRGZhbHNlJTdDU3BsYXNoLWZyZWUlMjB1cmluYWxzJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTc4OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxMiUzQTU4JTNBNTclMjAlMkIwMDAw",
+      "title": "Splash-free urinals (2025)",
+      "pubDate": "Mon, 07 Sep 2026 12:58:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmZpbmFuY2UtYW5kLWVjb25vbWljcyUyRjIwMjYlMkYwOSUyRjA0JTJGdGhlLWpvYnMtYXBvY2FseXBzZS1pcy1wb3N0cG9uZWQtYW4tYWktam9icy1ib29tLWlzLWhlcmUlN0NodHRwcyUzQSUyRiUyRnd3dy5lY29ub21pc3QuY29tJTJGZmluYW5jZS1hbmQtZWNvbm9taWNzJTJGMjAyNiUyRjA5JTJGMDQlMkZ0aGUtam9icy1hcG9jYWx5cHNlLWlzLXBvc3Rwb25lZC1hbi1haS1qb2JzLWJvb20taXMtaGVyZSU3Q0luaXRpYWwlMjBlZmZlY3RzJTIwb2YlMjBBSSUyMHRlY2hub2xvZ3klMjBvbiUyMGVtcGxveW1lbnQlMjBsb29rJTIwcG9zaXRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5NjYxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDEwJTNBMzglM0EzMiUyMCUyQjAwMDA",
+      "title": "Initial effects of AI technology on employment look positive",
+      "pubDate": "Mon, 07 Sep 2026 10:38:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0Q2SUZWVGNNMjhLQSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNENklGVlRjTTI4S0ElN0MyMTZNJTIwU3B5JTIwVFZzJTIwJUUyJTgwJTkzJTIwVGhlJTIwTEclMjBTbWFydCUyMFRWJTIwUHJvYmxlbSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTIzNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAwMCUzQTIyJTNBMDQlMjAlMkIwMDAw",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "pubDate": "Mon, 07 Sep 2026 00:22:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
     }
   ]

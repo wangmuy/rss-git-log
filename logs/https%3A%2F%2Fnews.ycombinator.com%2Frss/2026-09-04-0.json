@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-04",
     "newestItemDate": "2026-09-04",
-    "itemCount": 48,
-    "generatedAt": "2026-09-07T04:53:00.384Z"
+    "itemCount": 50,
+    "generatedAt": "2026-09-07T20:00:56.310Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdsYXplci5lZSUyRnBvc3RzJTJGY29udmVydGluZy1jcm9ub3MlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ2xhemVyLmVlJTJGcG9zdHMlMkZjb252ZXJ0aW5nLWNyb25vcyUyRiU3Q1JldmVyc2UlMjBlbmdpbmVlcmluZyUyMHRoZSUyMHN0b3JhZ2UlMjBmb3JtYXQlMjBmb3IlMjBhbiUyMHVuZG9jdW1lbnRlZCUyMGRhdGFiYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjE1MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAwNyUzQTE3JTNBMDAlMjAlMkIwMDAw",
       "title": "Reverse engineering the storage format for an undocumented database",
       "pubDate": "Fri, 04 Sep 2026 07:17:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZ3aGlzdGxlLXN5bnRoLW1hYy1hcHAlN0NodHRwcyUzQSUyRiUyRnd3dy5qZWZmdGsuY29tJTJGcCUyRndoaXN0bGUtc3ludGgtbWFjLWFwcCU3Q1doaXN0bGUlMjBTeW50aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTYyNDQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMDklM0E0NCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Whistle Synth",
+      "pubDate": "Fri, 04 Sep 2026 09:44:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0eXBjLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwOSUyRmRlY29kaW5nLW5lYy12MjAtbWljcm9jb2RlLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1hcnR5cGMuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA5JTJGZGVjb2RpbmctbmVjLXYyMC1taWNyb2NvZGUuaHRtbCU3Q0RlY29kaW5nJTIwdGhlJTIwTkVDJTIwVjIwJTIwTWljcm9jb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjEwMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAwNSUzQTUzJTNBMzglMjAlMkIwMDAw",
+      "title": "Decoding the NEC V20 Microcode",
+      "pubDate": "Fri, 04 Sep 2026 05:53:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
     }
   ]
