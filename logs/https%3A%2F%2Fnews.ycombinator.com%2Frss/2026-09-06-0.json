@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 28,
-    "generatedAt": "2026-09-06T18:24:08.451Z"
+    "itemCount": 41,
+    "generatedAt": "2026-09-07T04:53:00.384Z"
   },
   "items": [
     {
@@ -174,6 +174,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWR3ZXN0LmNvLnVrJTJGcCUyRmRvb21zY3JvbGxpbmctb3Vyc2VsdmVzLXRvLWRlYXRoJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWR3ZXN0LmNvLnVrJTJGcCUyRmRvb21zY3JvbGxpbmctb3Vyc2VsdmVzLXRvLWRlYXRoJTdDRG9vbXNjcm9sbGluZyUyME91cnNlbHZlcyUyMHRvJTIwRGVhdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NTYyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDExJTNBNTMlM0E0MCUyMCUyQjAwMDA",
       "title": "Doomscrolling Ourselves to Death",
       "pubDate": "Sun, 06 Sep 2026 11:53:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdXN0aW5oZW5sZXkuY29tJTJGYmxvZyUyRnB5dGhvbjEwMjQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYXVzdGluaGVubGV5LmNvbSUyRmJsb2clMkZweXRob24xMDI0Lmh0bWwlN0NNYWtpbmclMjBhJTIwUHl0aG9uJTIwaW50ZXJwcmV0ZXIlMjBpbiUyMDEwMjQlMjBieXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTkxODc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMjMlM0ExNCUzQTA4JTIwJTJCMDAwMA",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "pubDate": "Sun, 06 Sep 2026 23:14:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZic2NoYWF0c2Jlcmdlbi5jb20lMkZwb3N0cyUyRmdvLXRwbS10bHMlMkYlN0NodHRwcyUzQSUyRiUyRmJzY2hhYXRzYmVyZ2VuLmNvbSUyRnBvc3RzJTJGZ28tdHBtLXRscyUyRiU3Q1NpZ25pbmclMjBUTFMlMjBoYW5kc2hha2VzJTIwaW5zaWRlJTIwYSUyMFRQTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTkwOTQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMjElM0EwNSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Signing TLS handshakes inside a TPM",
+      "pubDate": "Sun, 06 Sep 2026 21:05:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFyc2JvcyUyRm1hZG9yJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFyc2JvcyUyRm1hZG9yJTdDU2hvdyUyMEhOJTNBJTIwTWFkb3IlMjAlRTIlODAlOTMlMjBNYWtlJTIwYW55JTIwRE9NJTIwcmVhY3RpdmUlMjB3aXRoJTIwYSUyMHRpbnklMjA4MC1saW5lJTIwUHJveHklMjBzdGF0ZSUyMHR1cGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTA3MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAyMCUzQTQ1JTNBMTMlMjAlMkIwMDAw",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "pubDate": "Sun, 06 Sep 2026 20:45:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnViaXMudGVjaGFyby5sb2wlMkZibG9nJTJGMjAyNiUyRmFudWJpcy13YXNtJTJGJTdDaHR0cHMlM0ElMkYlMkZhbnViaXMudGVjaGFyby5sb2wlMkZibG9nJTJGMjAyNiUyRmFudWJpcy13YXNtJTJGJTdDSXQlMjB0b29rJTIwYSUyMHllYXIlMjB0byUyMHNoaXAlMjBXZWJBc3NlbWJseSUyMGluJTIwQW51YmlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTA2MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAyMCUzQTMyJTNBMzglMjAlMkIwMDAw",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "pubDate": "Sun, 06 Sep 2026 20:32:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA1LjEyNTQwJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA1LjEyNTQwJTdDSGFybmVzc2luZyUyMHRoZSUyMFVuaXZlcnNhbCUyMEdlb21ldHJ5JTIwb2YlMjBFbWJlZGRpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTA1OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAyMCUzQTMxJTNBMjAlMjAlMkIwMDAw",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "pubDate": "Sun, 06 Sep 2026 20:31:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGVuZW9zLnNvY2lhbCUyRiU0MEdyYXBoZW5lT1MlMkYxMTcyMjU1Mzk3NTY4MzU2NDklN0NodHRwcyUzQSUyRiUyRmdyYXBoZW5lb3Muc29jaWFsJTJGJTQwR3JhcGhlbmVPUyUyRjExNzIyNTUzOTc1NjgzNTY0OSU3Q0dyYXBoZW5lT1MlMjBPdmVyaGF1bGVkJTIwRGVmYXVsdCUyMEFwcHMlMjBhbmQlMjBTZWN1cmUlMjBDbGlwYm9hcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5MDUxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDIwJTNBMjQlM0EwMCUyMCUyQjAwMDA",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "pubDate": "Sun, 06 Sep 2026 20:24:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg5OTE0JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg5OTE0JTdDQXNrJTIwSE4lM0ElMjBIb3clMjBkbyUyMHlvdSUyMG1hbmFnZSUyMHNraWxscyUyMGZpbGVzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODk5MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxOSUzQTI3JTNBMTAlMjAlMkIwMDAw",
+      "title": "Ask HN: How do you manage skills files?",
+      "pubDate": "Sun, 06 Sep 2026 19:27:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVkZXVzJTJGbml0dGVyJTJGY29tbWl0JTJGMTQyOGI0YzJiNDI0NmY5MmE3ZTViMjY3MzQzOGU1ZmIzOWZjYzRhMyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnplZGV1cyUyRm5pdHRlciUyRmNvbW1pdCUyRjE0MjhiNGMyYjQyNDZmOTJhN2U1YjI2NzM0MzhlNWZiMzlmY2M0YTMlN0NOaXR0ZXIlMjBhbmQlMjBYQ2FuY2VsJTIwcmVzdW1lJTIwc2VydmljZSUyMGFmdGVyJTIwbGVnYWwlMjBhZHZpY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4ODk4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE3JTNBNDklM0E0NyUyMCUyQjAwMDA",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "pubDate": "Sun, 06 Sep 2026 17:49:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRoZXppbGJlci5jb20lMkYzLXlvdXR1YmUtaGFkLWEtYnVnLWNoYXRncHQtaGVscGVkLW1lLXRvLWludmVzdGlnYXRlJTdDaHR0cHMlM0ElMkYlMkZibG9nLnRoZXppbGJlci5jb20lMkYzLXlvdXR1YmUtaGFkLWEtYnVnLWNoYXRncHQtaGVscGVkLW1lLXRvLWludmVzdGlnYXRlJTdDWW91VHViZSUyMGhhZCUyMGElMjBidWclMjAlRTIlODAlOTMlMjBJJTIwdXNlZCUyMENoYXRHUFQlMjB0byUyMGludmVzdGlnYXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODg0ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxNyUzQTAxJTNBMzklMjAlMkIwMDAw",
+      "title": "YouTube had a bug – I used ChatGPT to investigate",
+      "pubDate": "Sun, 06 Sep 2026 17:01:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZWVwaXRmcmVlLmFpJTJGYW5ub3VuY2VtZW50cyUyRmElMkZpLXNodXRzLWRvd24tc3RheS1odW1hbiUyRiU3Q2h0dHBzJTNBJTJGJTJGa2VlcGl0ZnJlZS5haSUyRmFubm91bmNlbWVudHMlMkZhJTJGaS1zaHV0cy1kb3duLXN0YXktaHVtYW4lMkYlN0NBJTJGSSUyMHNodXRzJTIwZG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg2ODk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTQlM0EzNCUzQTM0JTIwJTJCMDAwMA",
+      "title": "A/I shuts down",
+      "pubDate": "Sun, 06 Sep 2026 14:34:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhc2FoaWxpbnV4Lm9yZyUyRjIwMjYlMkYwOSUyRm0yLWVwaXNvZGUtMSUyRiU3Q2h0dHBzJTNBJTJGJTJGYXNhaGlsaW51eC5vcmclMkYyMDI2JTJGMDklMkZtMi1lcGlzb2RlLTElMkYlN0NBc2FoaSUyMExpbnV4JTIwb24lMjBNMyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg2Njk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMTQlM0EwOCUzQTU5JTIwJTJCMDAwMA",
+      "title": "Asahi Linux on M3",
+      "pubDate": "Sun, 06 Sep 2026 14:08:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjUlMkYxMiUyRjA1JTJGeW91ci1pbnRlbGxlY3R1YWwtZmx5LWlzLW9wZW4lMkYlN0NodHRwcyUzQSUyRiUyRmJjYW50cmlsbC5kdHJhY2Uub3JnJTJGMjAyNSUyRjEyJTJGMDUlMkZ5b3VyLWludGVsbGVjdHVhbC1mbHktaXMtb3BlbiUyRiU3Q1lvdXIlMjBpbnRlbGxlY3R1YWwlMjBmbHklMjBpcyUyMG9wZW4lMjB3aGVuJTIweW91JTIwdXNlJTIwYW4lMjBMTE0lMjB0byUyMGF1dGhvciUyMGElMjBwb3N0JTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODU2NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxMSUzQTU2JTNBNDMlMjAlMkIwMDAw",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "pubDate": "Sun, 06 Sep 2026 11:56:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTgzNDQwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTgzNDQwJTdDQXNrJTIwSE4lM0ElMjBXb3VsZCUyMHlvdSUyMHJlYWQlMjBhJTIwc3RhdGlzdGljcyUyMHRleHRib29rJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODM0NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAwNCUzQTUyJTNBMTglMjAlMkIwMDAw",
+      "title": "Ask HN: Would you read a statistics textbook?",
+      "pubDate": "Sun, 06 Sep 2026 04:52:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

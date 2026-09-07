@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-04",
     "newestItemDate": "2026-09-04",
-    "itemCount": 46,
-    "generatedAt": "2026-09-06T18:24:08.451Z"
+    "itemCount": 48,
+    "generatedAt": "2026-09-07T04:53:00.384Z"
   },
   "items": [
     {
@@ -282,6 +282,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjY2Vja21hbi5jb20lMkZ3cml0aW5nJTJGaG91c2Vob2xkLWxhc2VyLWN1dHMlMkYlN0NodHRwcyUzQSUyRiUyRmNjZWNrbWFuLmNvbSUyRndyaXRpbmclMkZob3VzZWhvbGQtbGFzZXItY3V0cyUyRiU3Q0hvdXNlaG9sZCUyMExhc2VyJTIwQ3V0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTY5OTgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMjAlM0E0MiUzQTQ2JTIwJTJCMDAwMA",
       "title": "Household Laser Cuts",
       "pubDate": "Fri, 04 Sep 2026 20:42:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZndWVzdCUyRnRoZS1ueC1iaXQtaXMtbm90LWp1c3QtYWJvdXQtc2VjdXJpdHklMkYlN0NodHRwcyUzQSUyRiUyRnB1cnBsZXN5cmluZ2EubW9lJTJGYmxvZyUyRmd1ZXN0JTJGdGhlLW54LWJpdC1pcy1ub3QtanVzdC1hYm91dC1zZWN1cml0eSUyRiU3Q1RoZSUyME5YJTIwYml0JTIwaXMlMjBub3QlMjBqdXN0JTIwYWJvdXQlMjBzZWN1cml0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTY0NjA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMTMlM0E0NyUzQTI1JTIwJTJCMDAwMA",
+      "title": "The NX bit is not just about security",
+      "pubDate": "Fri, 04 Sep 2026 13:47:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdsYXplci5lZSUyRnBvc3RzJTJGY29udmVydGluZy1jcm9ub3MlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ2xhemVyLmVlJTJGcG9zdHMlMkZjb252ZXJ0aW5nLWNyb25vcyUyRiU3Q1JldmVyc2UlMjBlbmdpbmVlcmluZyUyMHRoZSUyMHN0b3JhZ2UlMjBmb3JtYXQlMjBmb3IlMjBhbiUyMHVuZG9jdW1lbnRlZCUyMGRhdGFiYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NjE1MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNCUyMFNlcCUyMDIwMjYlMjAwNyUzQTE3JTNBMDAlMjAlMkIwMDAw",
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "pubDate": "Fri, 04 Sep 2026 07:17:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
     }
   ]
