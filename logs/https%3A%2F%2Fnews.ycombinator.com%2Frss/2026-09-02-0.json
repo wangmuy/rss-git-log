@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-02",
     "newestItemDate": "2026-09-02",
-    "itemCount": 69,
-    "generatedAt": "2026-09-07T04:53:00.385Z"
+    "itemCount": 70,
+    "generatedAt": "2026-09-07T14:18:26.907Z"
   },
   "items": [
     {
@@ -420,6 +420,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXRsYXNvYnNjdXJhLmNvbSUyRnBsYWNlcyUyRmJsYWNrLWhvbGUtb2YtbG9zLWFsYW1vcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmF0bGFzb2JzY3VyYS5jb20lMkZwbGFjZXMlMkZibGFjay1ob2xlLW9mLWxvcy1hbGFtb3MlN0NCbGFjayUyMEhvbGUlMjBvZiUyMExvcyUyMEFsYW1vcyUzQSUyMFNlbGxlciUyMG9mJTIwc3VycGx1cyUyMG51Y2xlYXIlMjByZXNlYXJjaCUyMG1hdGVyaWFscyUyMCgyMDExKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTQwNjM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDIlMjBTZXAlMjAyMDI2JTIwMTglM0E0NyUzQTU1JTIwJTJCMDAwMA",
       "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
       "pubDate": "Wed, 02 Sep 2026 18:47:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF5LnNpbXRlbi5kZXYlN0NodHRwcyUzQSUyRiUyRnBsYXkuc2ltdGVuLmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMFRoaW5rJTIwVHVyaW5nJTIwQ29tcGxldGUlMkMlMjBidXQlMjB5b3UlMjB3cml0ZSUyMHRoZSUyMGNpcmN1aXRzJTIwaW4lMjBUeXBlU2NyaXB0JTIwKFdJUCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTUzNzE0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDAyJTIwU2VwJTIwMjAyNiUyMDE0JTNBNDclM0EwOSUyMCUyQjAwMDA",
+      "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+      "pubDate": "Wed, 02 Sep 2026 14:47:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-02-0.json"
     }
   ]

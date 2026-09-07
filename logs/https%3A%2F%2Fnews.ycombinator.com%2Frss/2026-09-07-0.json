@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-07",
     "newestItemDate": "2026-09-07",
-    "itemCount": 3,
-    "generatedAt": "2026-09-07T04:53:00.384Z"
+    "itemCount": 20,
+    "generatedAt": "2026-09-07T14:18:26.906Z"
   },
   "items": [
     {
@@ -24,6 +24,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGU3RhYXRzZ2VoZWltJTJGTWF0aEtlcm5lbCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlN0YWF0c2dlaGVpbSUyRk1hdGhLZXJuZWwlN0NNYXRoS2VybmVsJTNBJTIwQW4lMjBldmlkZW5jZS1hd2FyZSUyMG11bHRpLWVuZ2luZSUyMG1hdGhlbWF0aWNzJTIwa2VybmVsJTIwYW5kJTIwTUNQJTIwc2VydmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTIzNjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAwMCUzQTIxJTNBMDElMjAlMkIwMDAw",
       "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
       "pubDate": "Mon, 07 Sep 2026 00:21:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaWN6ZWxpYSUyRmJ6aXAzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaWN6ZWxpYSUyRmJ6aXAzJTdDYnppcDMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5ODI5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzUlM0ExMyUyMCUyQjAwMDA",
+      "title": "bzip3",
+      "pubDate": "Mon, 07 Sep 2026 13:35:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZ6LmNsJTJGcG9zdHMlMkZpLXNwZW50LW15LXZhY2F0aW9ucy1kZS1icmFpbnJvdHRpbmclMkYlN0NodHRwcyUzQSUyRiUyRmRldnouY2wlMkZwb3N0cyUyRmktc3BlbnQtbXktdmFjYXRpb25zLWRlLWJyYWlucm90dGluZyUyRiU3Q0RlLUJyYWlucm90JTIwVmFjYXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTc5MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxMyUzQTAwJTNBNDglMjAlMkIwMDAw",
+      "title": "De-Brainrot Vacations",
+      "pubDate": "Mon, 07 Sep 2026 13:00:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY2FkZW1pYy5vdXAuY29tJTJGcG5hc25leHVzJTJGYXJ0aWNsZSUyRjQlMkY0JTJGcGdhZjA4NyUyRjgwOTg3NDUlM0Zsb2dpbiUzRGZhbHNlJTdDaHR0cHMlM0ElMkYlMkZhY2FkZW1pYy5vdXAuY29tJTJGcG5hc25leHVzJTJGYXJ0aWNsZSUyRjQlMkY0JTJGcGdhZjA4NyUyRjgwOTg3NDUlM0Zsb2dpbiUzRGZhbHNlJTdDU3BsYXNoLWZyZWUlMjB1cmluYWxzJTIwZm9yJTIwZ2xvYmFsJTIwc3VzdGFpbmFiaWxpdHklMjBhbmQlMjBhY2Nlc3NpYmlsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTc4OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxMiUzQTU4JTNBNTclMjAlMkIwMDAw",
+      "title": "Splash-free urinals for global sustainability and accessibility",
+      "pubDate": "Mon, 07 Sep 2026 12:58:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGcGVyc29uYWwtdGVjaCUyRjIwMjYlMkYwOSUyRjA3JTJGc21hcnRwaG9uZS1tYWtlcnMtZG9udC1ib3RoZXItdG8tY29tcGx5LXdpdGgtZXUtcmVwYWlyYWJpbGl0eS1yZXF1aXJlbWVudHMlMkY1Mjk0NTMyJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGcGVyc29uYWwtdGVjaCUyRjIwMjYlMkYwOSUyRjA3JTJGc21hcnRwaG9uZS1tYWtlcnMtZG9udC1ib3RoZXItdG8tY29tcGx5LXdpdGgtZXUtcmVwYWlyYWJpbGl0eS1yZXF1aXJlbWVudHMlMkY1Mjk0NTMyJTdDU21hcnRwaG9uZSUyMG1ha2VycyUyMGRvbid0JTIwYm90aGVyJTIwdG8lMjBjb21wbHklMjB3aXRoJTIwRVUlMjByZXBhaXJhYmlsaXR5JTIwcmVxdWlyZW1lbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTcxODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxMSUzQTQ2JTNBMzclMjAlMkIwMDAw",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "pubDate": "Mon, 07 Sep 2026 11:46:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk2OTc2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk2OTc2JTdDQXBwYXJlbnRseSUyMENvZGVQZW4lMjAyLjAlMjBzZW5kcyUyMGRhdGElMjB0byUyMHRoZWlyJTIwc2VydmVycyUyMGFzJTIweW91JTIwdHlwZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk2OTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTElM0EyMiUzQTQwJTIwJTJCMDAwMA",
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "pubDate": "Mon, 07 Sep 2026 11:22:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZpbmZvcm1hdGlvbi10ZWNobm9sb2d5JTJGMjAyNiUyRjA5JTJGdm13YXJlLW1pZ3JhdGlvbi1yZWR1Y2VzLXRvdHRlbmhhbS1ob3RzcHVycy1saWNlbnNpbmctZmVlcy1ieS04NS1wZXJjZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZpbmZvcm1hdGlvbi10ZWNobm9sb2d5JTJGMjAyNiUyRjA5JTJGdm13YXJlLW1pZ3JhdGlvbi1yZWR1Y2VzLXRvdHRlbmhhbS1ob3RzcHVycy1saWNlbnNpbmctZmVlcy1ieS04NS1wZXJjZW50JTJGJTdDVk13YXJlJTIwbWlncmF0aW9uJTIwcmVkdWNlcyUyMFRvdHRlbmhhbSUyMEhvdHNwdXIncyUyMGxpY2Vuc2luZyUyMGZlZXMlMjBieSUyMDg1JTIwcGVyY2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk2Nzk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTElM0EwMSUzQTA2JTIwJTJCMDAwMA",
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "pubDate": "Mon, 07 Sep 2026 11:01:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXRsYW50aWMuY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkYwOSUyRnh0ZWluay1lLXJlYWRlci1iZXN0LXRlY2hub2xvZ3kteWVhcnMlMkY2ODg1MzklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVhdGxhbnRpYy5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjA5JTJGeHRlaW5rLWUtcmVhZGVyLWJlc3QtdGVjaG5vbG9neS15ZWFycyUyRjY4ODUzOSUyRiU3Q1RpbnklMjAlMjQ3MCUyMFh0ZWluayUyMFgzJTIwZS1yZWFkZXIlMjBwdXRzJTIwU2lsaWNvbiUyMFZhbGxleSUyMHRvJTIwc2hhbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5NjYyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDEwJTNBNDElM0EyOSUyMCUyQjAwMDA",
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "pubDate": "Mon, 07 Sep 2026 10:41:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmZpbmFuY2UtYW5kLWVjb25vbWljcyUyRjIwMjYlMkYwOSUyRjA0JTJGdGhlLWpvYnMtYXBvY2FseXBzZS1pcy1wb3N0cG9uZWQtYW4tYWktam9icy1ib29tLWlzLWhlcmUlN0NodHRwcyUzQSUyRiUyRnd3dy5lY29ub21pc3QuY29tJTJGZmluYW5jZS1hbmQtZWNvbm9taWNzJTJGMjAyNiUyRjA5JTJGMDQlMkZ0aGUtam9icy1hcG9jYWx5cHNlLWlzLXBvc3Rwb25lZC1hbi1haS1qb2JzLWJvb20taXMtaGVyZSU3Q1RoZSUyMGpvYnMlMjBhcG9jYWx5cHNlJTIwaXMlMjBwb3N0cG9uZWQuJTIwQW4lMjBBSSUyMGpvYnMlMjBib29tJTIwaXMlMjBoZXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTY2MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxMCUzQTM4JTNBMzIlMjAlMkIwMDAw",
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "pubDate": "Mon, 07 Sep 2026 10:38:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWRnZS5vcmclMkZyZXNwb25zZS1kZXRhaWwlMkYyNzIzOCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVkZ2Uub3JnJTJGcmVzcG9uc2UtZGV0YWlsJTJGMjcyMzglN0NJbXBlZGFuY2UlMjBNYXRjaGluZyUyMCgyMDE3KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk2Mjc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMDklM0E1MiUzQTI2JTIwJTJCMDAwMA",
+      "title": "Impedance Matching (2017)",
+      "pubDate": "Mon, 07 Sep 2026 09:52:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YXJpZXR5LmNvbSUyRjIwMjYlMkZmaWxtJTJGcmV2aWV3cyUyRm5hdGhhbi1maWVsZGVyLXN1cnByaXNlLWZpbG0tdGVsbHVyaWRlLWVsaXphYmV0aC1ob2xtZXMtMTIzNjg1MzUxMyUyRiU3Q2h0dHBzJTNBJTJGJTJGdmFyaWV0eS5jb20lMkYyMDI2JTJGZmlsbSUyRnJldmlld3MlMkZuYXRoYW4tZmllbGRlci1zdXJwcmlzZS1maWxtLXRlbGx1cmlkZS1lbGl6YWJldGgtaG9sbWVzLTEyMzY4NTM1MTMlMkYlN0MnWW91JTIwQ2FuJTIwU2VlJTIwRXZlcnl0aGluZyclMjBSZXZpZXclM0ElMjBOYXRoYW4lMjBGaWVsZGVyJ3MlMjBEb2MlMjBBYm91dCUyMEVsaXphYmV0aCUyMEhvbG1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk2MTE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMDklM0EzMyUzQTM5JTIwJTJCMDAwMA",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "pubDate": "Mon, 07 Sep 2026 09:33:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoYXRob25jaGFsbGVuZ2UuY29tJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWF0aGF0aG9uY2hhbGxlbmdlLmNvbSUyRmluZGV4Lmh0bWwlN0NDYWx0ZWNoJTIwTWF0aGF0aG9uJTIwJUUyJTgwJTkzJTIwZmlyc3QlMjBoYWNrYXRob24lMjBldmVyJTIwZGV2b3RlZCUyMHRvJTIwcmVzZWFyY2glMjBsZXZlbCUyMG1hdGhlbWF0aWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTYwNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAwOSUzQTI2JTNBNTMlMjAlMkIwMDAw",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "pubDate": "Mon, 07 Sep 2026 09:26:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2bGxtLmFpJTJGYmxvZyUyRjIwMjYtMDgtMjMtc3BlY3VsYXRpdmUtZGVjb2RpbmctYW1kLWdwdXMlN0NodHRwcyUzQSUyRiUyRnZsbG0uYWklMkZibG9nJTJGMjAyNi0wOC0yMy1zcGVjdWxhdGl2ZS1kZWNvZGluZy1hbWQtZ3B1cyU3Q1NwZWN1bGF0aXZlJTIwRGVjb2RpbmclMjBpbiUyMHZMTE0lMjBvbiUyMEFNRCUyMEdQVXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5NjA1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDA5JTNBMjYlM0E0MSUyMCUyQjAwMDA",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "pubDate": "Mon, 07 Sep 2026 09:26:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYmFhcnZlcnZvZXJiZWxnaWUuYmUlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5iYWFydmVydm9lcmJlbGdpZS5iZSUyRiU3Q0xpdmUlMjBtYXAlMjBvZiUyMHB1YmxpYyUyMHRyYW5zcG9ydCUyMGluJTIwQmVsZ2l1bSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk1ODY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMDklM0EwMiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Live map of public transport in Belgium",
+      "pubDate": "Mon, 07 Sep 2026 09:02:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcmNoaWRmaWxlcy5jb20lMkZwcm9ncmFtbWluZy1pcy1hcnQlMkYlN0NodHRwcyUzQSUyRiUyRm9yY2hpZGZpbGVzLmNvbSUyRnByb2dyYW1taW5nLWlzLWFydCUyRiU3Q1Byb2dyYW1taW5nJTIwaXMlMjBBcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5NTM2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDA4JTNBMDUlM0EwMCUyMCUyQjAwMDA",
+      "title": "Programming is Art",
+      "pubDate": "Mon, 07 Sep 2026 08:05:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm90ZWJvb2tjaGVjay5uZXQlMkZMRy1zbWFydC1UVnMtY2F1Z2h0LWxvZ2dpbmctYXVkaW8td2l0aC1zY3JlZW4tb2ZmLWFuZC1zbm9vcGluZy1vbi1sb2NhbC1kZXZpY2VzLjEzOTEyMTQuMC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubm90ZWJvb2tjaGVjay5uZXQlMkZMRy1zbWFydC1UVnMtY2F1Z2h0LWxvZ2dpbmctYXVkaW8td2l0aC1zY3JlZW4tb2ZmLWFuZC1zbm9vcGluZy1vbi1sb2NhbC1kZXZpY2VzLjEzOTEyMTQuMC5odG1sJTdDTEclMjBzbWFydCUyMFRWcyUyMGNhdWdodCUyMGxvZ2dpbmclMjBhdWRpbyUyMHdpdGglMjBzY3JlZW4lMjBvZmYlMjBhbmQlMjBzbm9vcGluZyUyMG9uJTIwbG9jYWwlMjBkZXZpY2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTQ4NzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAwNyUzQTAzJTNBMjAlMjAlMkIwMDAw",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "pubDate": "Mon, 07 Sep 2026 07:03:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGltZ29yZG9udGclMkZlbmdyaW0lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ0aW1nb3Jkb250ZyUyRmVuZ3JpbSU3Q1Nob3clMjBITiUzQSUyMEVuZ3JpbSUyMCVFMiU4MCU5MyUyMEElMjB1bml2ZXJzYWwlMkMlMjBsb2NhbC1maXJzdCUyMFNRTGl0ZSUyMG1lbW9yeSUyMGVuZ2luZSUyMGZvciUyMEFJJTIwQ0xJcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk0MDA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMDQlM0E0OSUzQTM2JTIwJTJCMDAwMA",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "pubDate": "Mon, 07 Sep 2026 04:49:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjA5JTJGMDElMkZrZWVwLW91ci1zZXJ2ZXJzLXJ1bm5pbmcteW91ci1yZWN1cnJpbmctZG9uYXRpb24tZ29lcy0zeC10aGlzLXNlcHRlbWJlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcmNoaXZlLm9yZyUyRjIwMjYlMkYwOSUyRjAxJTJGa2VlcC1vdXItc2VydmVycy1ydW5uaW5nLXlvdXItcmVjdXJyaW5nLWRvbmF0aW9uLWdvZXMtM3gtdGhpcy1zZXB0ZW1iZXIlMkYlN0NLZWVwJTIwT3VyJTIwU2VydmVycyUyMFJ1bm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5MzU2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDAzJTNBMjklM0E1MSUyMCUyQjAwMDA",
+      "title": "Keep Our Servers Running",
+      "pubDate": "Mon, 07 Sep 2026 03:29:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
     }
   ]
