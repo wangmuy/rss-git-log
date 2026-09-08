@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 48,
-    "generatedAt": "2026-09-08T12:55:21.884Z"
+    "itemCount": 50,
+    "generatedAt": "2026-09-08T19:28:00.034Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZyb2JvdC13cml0aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZyb2JvdC13cml0aW5nJTJGJTdDUm9ib3QlMjB3cml0ZXMlMjBpbiUyMGxhbmd1YWdlcyUyMGl0JTIwaGFzJTIwbmV2ZXIlMjBzZWVuJTIwYmVmb3JlJTIwKDIwMTkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODM2ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAwNSUzQTQ3JTNBMDUlMjAlMkIwMDAw",
       "title": "Robot writes in languages it has never seen before (2019)",
       "pubDate": "Sun, 06 Sep 2026 05:47:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYwNiUyRnNjaWVuY2UlMkY5Mi15ZWFyLW9sZC1tYXRoZW1hdGljaWFuLWFwcHJlbnRpY2UuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjA5JTJGMDYlMkZzY2llbmNlJTJGOTIteWVhci1vbGQtbWF0aGVtYXRpY2lhbi1hcHByZW50aWNlLmh0bWwlN0NUaGUlMjA5Mi1ZZWFyLU9sZCUyME1hdGhlbWF0aWNpYW4lMjBhbmQlMjB0aGUlMjBUZWVuYWdlJTIwQXBwcmVudGljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTkxNTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMjIlM0EyNyUzQTI3JTIwJTJCMDAwMA",
+      "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+      "pubDate": "Sun, 06 Sep 2026 22:27:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXJzaGFubWFrd2FuYTQxMi5naXRodWIuaW8lMkYyMDI2JTJGMDklMkZleHRyYWN0aW5nLXN0ZWVyaW5nLXZlY3RvcnMtZnJvbS1qLXNwYWNlJTJGJTdDaHR0cHMlM0ElMkYlMkZkYXJzaGFubWFrd2FuYTQxMi5naXRodWIuaW8lMkYyMDI2JTJGMDklMkZleHRyYWN0aW5nLXN0ZWVyaW5nLXZlY3RvcnMtZnJvbS1qLXNwYWNlJTJGJTdDRXh0cmFjdGluZyUyMFN0ZWVyaW5nJTIwVmVjdG9ycyUyMGZyb20lMjBKJTIwc3BhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NjY2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDMlM0EyNCUyMCUyQjAwMDA",
+      "title": "Extracting Steering Vectors from J space",
+      "pubDate": "Sun, 06 Sep 2026 14:03:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

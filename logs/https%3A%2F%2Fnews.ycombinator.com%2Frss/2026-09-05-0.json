@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-05",
     "newestItemDate": "2026-09-05",
-    "itemCount": 30,
-    "generatedAt": "2026-09-08T12:55:21.884Z"
+    "itemCount": 32,
+    "generatedAt": "2026-09-08T19:28:00.034Z"
   },
   "items": [
     {
@@ -186,6 +186,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZub3ZhbGlzLm9yZyUyRmJsb2clMkYyMDI2LTA4LTMxLXBpY29saWJyYXJ5LWEtdmVyeS1zbWFsbC1wcmVzcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZub3ZhbGlzLm9yZyUyRmJsb2clMkYyMDI2LTA4LTMxLXBpY29saWJyYXJ5LWEtdmVyeS1zbWFsbC1wcmVzcy5odG1sJTdDUGljb2xpYnJhcnklM0ElMjBBJTIwU21hbGwlMjBQcmVzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTc0OTQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDUlMjBTZXAlMjAyMDI2JTIwMDklM0E1NCUzQTE1JTIwJTJCMDAwMA",
       "title": "Picolibrary: A Small Press",
       "pubDate": "Sat, 05 Sep 2026 09:54:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb2ludGVyc2dvbmV3aWxkLmNvbSUyRjIwMjYtMDgtMjUtcmVwbGFjaW5nLWEtcnVzdC1lbnVtLXdpdGgtYS02NC1iaXQtd29yZCUyRiU3Q2h0dHBzJTNBJTJGJTJGcG9pbnRlcnNnb25ld2lsZC5jb20lMkYyMDI2LTA4LTI1LXJlcGxhY2luZy1hLXJ1c3QtZW51bS13aXRoLWEtNjQtYml0LXdvcmQlMkYlN0NSZXBsYWNpbmclMjBhJTIwUnVzdCUyMEVudW0lMjB3aXRoJTIwYSUyMDY0LUJpdCUyMFdvcmQlMjBNYWRlJTIwTXklMjBJbnRlcnByZXRlciUyMDE3JTI1JTIwRmFzdGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NzU5MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAxMiUzQTMyJTNBMDYlMjAlMkIwMDAw",
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "pubDate": "Sat, 05 Sep 2026 12:32:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1ZWNrZXIuY29kZWJlcmcucGFnZSUyRjIwMjYtMDktMDUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdWVja2VyLmNvZGViZXJnLnBhZ2UlMkYyMDI2LTA5LTA1Lmh0bWwlN0NJbXBsZW1lbnRhdGlvbiUyMG9mJTIwR0NDJ3MlMjBOZXN0ZWQlMjBGdW5jdGlvbnMlMjAodnMuJTIwQyUyQiUyQiUyMExhbWJkYXMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NzU3NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAxMiUzQTA5JTNBMjklMjAlMkIwMDAw",
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+      "pubDate": "Sat, 05 Sep 2026 12:09:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
     }
   ]

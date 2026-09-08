@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-08",
     "newestItemDate": "2026-09-08",
-    "itemCount": 14,
-    "generatedAt": "2026-09-08T12:55:21.884Z"
+    "itemCount": 36,
+    "generatedAt": "2026-09-08T19:28:00.033Z"
   },
   "items": [
     {
@@ -90,6 +90,138 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWlyZGdsb29wLm9yZyUyRmJsb2clMkZnb29nbGUtamFpbCU3Q2h0dHBzJTNBJTJGJTJGd2VpcmRnbG9vcC5vcmclMkZibG9nJTJGZ29vZ2xlLWphaWwlN0NUaGVyZSdzJTIwYSUyMG5ldyUyMCUyMkdvb2dsZSUyMEphaWwlMjIlMjBmb3IlMjBpbmRlcGVuZGVudCUyMHdpa2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDQ4NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAwMSUzQTU3JTNBMjMlMjAlMkIwMDAw",
       "title": "There's a new \"Google Jail\" for independent wikis",
       "pubDate": "Tue, 08 Sep 2026 01:57:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1jaGF0Z3B0LWltYWdlcy0yLTUlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmludHJvZHVjaW5nLWNoYXRncHQtaW1hZ2VzLTItNSUyRiU3Q0NoYXRHUFQlMjBJbWFnZXMlMjAyLjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxNDcyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDE4JTNBMzclM0E1MSUyMCUyQjAwMDA",
+      "title": "ChatGPT Images 2.5",
+      "pubDate": "Tue, 08 Sep 2026 18:37:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZsaXZlJTJGYzZ4MnoweXkzMmVqdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGbGl2ZSUyRmM2eDJ6MHl5MzJlanQlN0MxMDBzJTIwb2YlMjBmbGlnaHRzJTIwY2FuY2VsbGVkJTIwYXQlMjBVSyUyMGFpcnBvcnRzJTIwZHVlJTIwdG8lMjBBVEMlMjBpc3N1ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjE0NTU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTglM0EyNiUzQTI3JTIwJTJCMDAwMA",
+      "title": "100s of flights cancelled at UK airports due to ATC issue",
+      "pubDate": "Tue, 08 Sep 2026 18:26:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZuYXZpZXItc3Rva2VzLXNvbHV0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZuYXZpZXItc3Rva2VzLXNvbHV0aW9uJTJGJTdDT24lMjB0aGUlMjBOYXZpZXIlRTIlODAlOTNTdG9rZXMlMjBNaWxsZW5uaXVtJTIwUHJpemUlMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTMyNjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNyUzQTEzJTNBMjElMjAlMkIwMDAw",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "pubDate": "Tue, 08 Sep 2026 17:13:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc2hhbWYuZGV2JTJGcCUyRmxsbS1hdHRlbnRpb24tdmlzdWFsaXplciUyRiU3Q2h0dHBzJTNBJTJGJTJGaXNoYW1mLmRldiUyRnAlMkZsbG0tYXR0ZW50aW9uLXZpc3VhbGl6ZXIlMkYlN0NTaG93JTIwSE4lM0ElMjBMTE0lMjBBdHRlbnRpb24lMjBWaXN1YWxpemF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTMwNjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNiUzQTU5JTNBNDElMjAlMkIwMDAw",
+      "title": "Show HN: LLM Attention Visualization",
+      "pubDate": "Tue, 08 Sep 2026 16:59:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZXJkci5kZXYlMkZibG9nJTJGY29ubmVjdGluZy10aGUtbWFjaGluZXMlMkYlN0NodHRwcyUzQSUyRiUyRmhlcmRyLmRldiUyRmJsb2clMkZjb25uZWN0aW5nLXRoZS1tYWNoaW5lcyUyRiU3Q0Nvbm5lY3RpbmclMjB0aGUlMjBNYWNoaW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjEyODE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTYlM0E0MyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Connecting the Machines",
+      "pubDate": "Tue, 08 Sep 2026 16:43:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmVudHMueWNvbWJpbmF0b3IuY29tJTJGeWMtZWFybHktYWNjZXNzLWZhbGwtMjYlN0NodHRwcyUzQSUyRiUyRmV2ZW50cy55Y29tYmluYXRvci5jb20lMkZ5Yy1lYXJseS1hY2Nlc3MtZmFsbC0yNiU3Q1klMjBDb21iaW5hdG9yJTIwRWFybHklMjBBY2Nlc3MlMjBOZXR3b3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTI2MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNiUzQTMxJTNBMDElMjAlMkIwMDAw",
+      "title": "Y Combinator Early Access Network",
+      "pubDate": "Tue, 08 Sep 2026 16:31:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGdGVjaCUyRjk5MTE5MCUyRmxnLXR2LXNweWluZy1zdGFuZGJ5LXJlY29yZGluZy13aS1maS1zY2FubmluZy1nYW1lcnMtbmV4dXMlN0NodHRwcyUzQSUyRiUyRnd3dy50aGV2ZXJnZS5jb20lMkZ0ZWNoJTJGOTkxMTkwJTJGbGctdHYtc3B5aW5nLXN0YW5kYnktcmVjb3JkaW5nLXdpLWZpLXNjYW5uaW5nLWdhbWVycy1uZXh1cyU3Q0xHJTIwVFZzJTIwY2F1Z2h0JTIwc3B5aW5nJTIwZXZlbiUyMHdoZW4lMjBvZmZsaW5lJTIwb3IlMjBvbiUyMHN0YW5kYnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxMjMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDE2JTNBMDclM0EwOCUyMCUyQjAwMDA",
+      "title": "LG TVs caught spying even when offline or on standby",
+      "pubDate": "Tue, 08 Sep 2026 16:07:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA0LjAyMjQ2JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA0LjAyMjQ2JTdDQyolM0ElMjBVbmlmeWluZyUyMFByb2dyYW1taW5nJTIwYW5kJTIwVmVyaWZpY2F0aW9uJTIwaW4lMjBDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTIxOTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNSUzQTU2JTNBNTYlMjAlMkIwMDAw",
+      "title": "C*: Unifying Programming and Verification in C",
+      "pubDate": "Tue, 08 Sep 2026 15:56:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjd29kdGtlLmNvbSUyRmRpc2FwcG9pbnRlZC1vcHRpbWlzdHMlMkYlN0NodHRwcyUzQSUyRiUyRmN3b2R0a2UuY29tJTJGZGlzYXBwb2ludGVkLW9wdGltaXN0cyUyRiU3Q0Rpc2FwcG9pbnRlZCUyME9wdGltaXN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjExNTQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTUlM0ExMyUzQTU2JTIwJTJCMDAwMA",
+      "title": "Disappointed Optimists",
+      "pubDate": "Tue, 08 Sep 2026 15:13:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmFscGhhZ2Vub21lLWF0bGFzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmFscGhhZ2Vub21lLWF0bGFzJTJGJTdDR29vZ2xlJTIwRGVlcE1pbmQlMjBSZWxlYXNlcyUyMEFscGhhR2Vub21lJTIwQXRsYXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxMTI1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDE0JTNBNTUlM0E0NSUyMCUyQjAwMDA",
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "pubDate": "Tue, 08 Sep 2026 14:55:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidW1iZXJzaG9vdHNvZnQud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOSUyRjA1JTJGengtc3BlY3RydW0tZXhwZXJpbWVudGluZy13aXRoLTEtYml0LXNvdW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZidW1iZXJzaG9vdHNvZnQud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOSUyRjA1JTJGengtc3BlY3RydW0tZXhwZXJpbWVudGluZy13aXRoLTEtYml0LXNvdW5kJTJGJTdDWlglMjBTcGVjdHJ1bSUzQSUyMEV4cGVyaW1lbnRpbmclMjB3aXRoJTIwMS1CaXQlMjBTb3VuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjExMjMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTQlM0E1NCUzQTI5JTIwJTJCMDAwMA",
+      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "pubDate": "Tue, 08 Sep 2026 14:54:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRnF3ZW4zOC0yN2ItcXVhbnRpemF0aW9ucy1iZW5jaG1hcmtlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVlc21hLmNvbSUyRmJsb2clMkZxd2VuMzgtMjdiLXF1YW50aXphdGlvbnMtYmVuY2htYXJrZWQlMkYlN0NCZW5jaG1hcmtpbmclMjBRd2VuMy44JTIwMjdCJTIwcXVhbnRpemF0aW9ucyUzQSUyMDQtYml0JTIwaG9sZHMlMjB1cCUyQyUyMDEtYml0JTIwY29sbGFwc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTExMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNCUzQTQ5JTNBMTklMjAlMkIwMDAw",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "pubDate": "Tue, 08 Sep 2026 14:49:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdub3JlZ2FsaWxlaS5jb20lMkYyMDI2JTJGMDglMkYzMCUyRnRoZS10d28tY2hyaXN0aWFuLXNhaW50cy13aG8tYXJlLXNlY3JldGx5LXRoZS1idWRkaGElMkYlN0NodHRwcyUzQSUyRiUyRnNpZ25vcmVnYWxpbGVpLmNvbSUyRjIwMjYlMkYwOCUyRjMwJTJGdGhlLXR3by1jaHJpc3RpYW4tc2FpbnRzLXdoby1hcmUtc2VjcmV0bHktdGhlLWJ1ZGRoYSUyRiU3Q1RoZSUyMHR3byUyMENocmlzdGlhbiUyMHNhaW50cyUyMHdobyUyMGFyZSUyMHRoZSUyMEJ1ZGRoYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjExMDUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTQlM0E0NCUzQTI1JTIwJTJCMDAwMA",
+      "title": "The two Christian saints who are the Buddha",
+      "pubDate": "Tue, 08 Sep 2026 14:44:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZhLXNlY3JldGl2ZS1kaHMtcHJlZGljdGl2ZS1wb2xpY2luZy11bml0LWlzLWFuYWx5emluZy1hbWVyaWNhbnMtZmluYW5jaWFsLWhhYml0cy1hbmQtcHVsbGluZy10aGVtLW92ZXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy40MDRtZWRpYS5jbyUyRmEtc2VjcmV0aXZlLWRocy1wcmVkaWN0aXZlLXBvbGljaW5nLXVuaXQtaXMtYW5hbHl6aW5nLWFtZXJpY2Fucy1maW5hbmNpYWwtaGFiaXRzLWFuZC1wdWxsaW5nLXRoZW0tb3ZlciUyRiU3Q0RIUyUyMCdQcmVkaWN0aXZlJTIwUG9saWNpbmcnJTIwVW5pdCUyMElzJTIwQW5hbHl6aW5nJTIwQW1lcmljYW5zJyUyMEZpbmFuY2lhbCUyMEhhYml0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjEwOTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTQlM0E0MCUzQTMwJTIwJTJCMDAwMA",
+      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+      "pubDate": "Tue, 08 Sep 2026 14:40:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaGRpcnQuY29tJTJGMjAyNiUyRjA5JTJGMDglMkZwYXJhbW91bnQtY2F1Z2h0LXVzaW5nLWFzdHJvdHVyZi1ncm91cC10by1kcnVtLXVwLWZha2Utc3VwcG9ydC1mb3ItbWVyZ2VyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaGRpcnQuY29tJTJGMjAyNiUyRjA5JTJGMDglMkZwYXJhbW91bnQtY2F1Z2h0LXVzaW5nLWFzdHJvdHVyZi1ncm91cC10by1kcnVtLXVwLWZha2Utc3VwcG9ydC1mb3ItbWVyZ2VyJTJGJTdDUGFyYW1vdW50JTIwQ2F1Z2h0JTIwVXNpbmclMjAnQXN0cm90dXJmJyUyMEdyb3VwJTIwdG8lMjBEcnVtJTIwVXAlMjBGYWtlJTIwU3VwcG9ydCUyMGZvciUyME1lcmdlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjEwOTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTQlM0EzMyUzQTUyJTIwJTJCMDAwMA",
+      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "pubDate": "Tue, 08 Sep 2026 14:33:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGYWxwaGFnZW5vbWUtYXRsYXMtYS1wcmVkaWN0aXZlLW1hcC1vZi1ldmVyeS1wb3NzaWJsZS1kbmEtbGV0dGVyLWNoYW5nZS1pbi10aGUtaHVtYW4tZ2Vub21lJTJGJTdDaHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGYWxwaGFnZW5vbWUtYXRsYXMtYS1wcmVkaWN0aXZlLW1hcC1vZi1ldmVyeS1wb3NzaWJsZS1kbmEtbGV0dGVyLWNoYW5nZS1pbi10aGUtaHVtYW4tZ2Vub21lJTJGJTdDQWxwaGFHZW5vbWUlMjBBdGxhcyUyMHByZWRpY3RpdmUlMjBtYXAlMjBvZiUyMGV2ZXJ5JTIwRE5BJTIwbGV0dGVyJTIwY2hhbmdlJTIwaW4lMjB0aGUlMjBodW1hbiUyMGdlbm9tZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjEwNjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTQlM0ExNCUzQTE1JTIwJTJCMDAwMA",
+      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+      "pubDate": "Tue, 08 Sep 2026 14:14:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXlnaHJpJTJGaS1oYXZlLWFkaGQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZheWdocmklMkZpLWhhdmUtYWRoZCU3Q0ktaGF2ZS1BREhEJTNBJTIwQSUyMHNraWxsJTIwdG8lMjBzdG9wJTIwY29kaW5nJTIwYWdlbnRzJTIwZnJvbSUyMGJ1cnlpbmclMjB0aGUlMjBhbnN3ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxMDYzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDE0JTNBMTMlM0EyNiUyMCUyQjAwMDA",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "pubDate": "Tue, 08 Sep 2026 14:13:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxhY2ttYWdpY2Rlc2lnbi5jb20lMkZtZWRpYSUyRnJlbGVhc2UlMkYyMDI2MDkwOC0wMyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJsYWNrbWFnaWNkZXNpZ24uY29tJTJGbWVkaWElMkZyZWxlYXNlJTJGMjAyNjA5MDgtMDMlN0NEYVZpbmNpJTIwUmVzb2x2ZSUyMDIxLjElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxMDE4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzYlM0E1MyUyMCUyQjAwMDA",
+      "title": "DaVinci Resolve 21.1",
+      "pubDate": "Tue, 08 Sep 2026 13:36:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3BwZXJoZWFkLnNoJTJGJTdDaHR0cHMlM0ElMkYlMkZjb3BwZXJoZWFkLnNoJTJGJTdDU2hvdyUyMEhOJTNBJTIwQ29wcGVyaGVhZCUyMCVFMiU4MCU5MyUyMEhhcmR3YXJlJTIwYXMlMjBGYXN0JTIwYXMlMjBTb2Z0d2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjEwMDU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTMlM0EyNiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "pubDate": "Tue, 08 Sep 2026 13:26:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJlZWJzZC5vcmclMkZyZWxlYXNlcyUyRjE0LjVSJTJGYW5ub3VuY2UlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5mcmVlYnNkLm9yZyUyRnJlbGVhc2VzJTJGMTQuNVIlMkZhbm5vdW5jZSUyRiU3Q0ZyZWVCU0QlMjAxNC41LVJlbGVhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYwOTE3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDEyJTNBMDQlM0EwNCUyMCUyQjAwMDA",
+      "title": "FreeBSD 14.5-Release",
+      "pubDate": "Tue, 08 Sep 2026 12:04:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRmZ1dHVyZSUyRmFydGljbGUlMkYyMDI2MDkwNC1ob3ctZ2V0dGluZy15b3VyLWhhbmRzLWRpcnR5LWJvb3N0cy15b3VyLWhlYWx0aC13aXRoaW4td2Vla3MlN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGZnV0dXJlJTJGYXJ0aWNsZSUyRjIwMjYwOTA0LWhvdy1nZXR0aW5nLXlvdXItaGFuZHMtZGlydHktYm9vc3RzLXlvdXItaGVhbHRoLXdpdGhpbi13ZWVrcyU3Q0dldHRpbmclMjB5b3VyJTIwaGFuZHMlMjBkaXJ0eSUyMGlzJTIwZ29vZCUyMGZvciUyMHlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA4MDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDklM0E0OCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Getting your hands dirty is good for you",
+      "pubDate": "Tue, 08 Sep 2026 09:48:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaW1zLm55dS5lZHUlMkZ+dHJpc3RhbmIlMkZzdGF0ZW1lbnQucGRmJTdDaHR0cHMlM0ElMkYlMkZjaW1zLm55dS5lZHUlMkZ+dHJpc3RhbmIlMkZzdGF0ZW1lbnQucGRmJTdDTmF2aWVyLVN0b2tlcyUyMCVFMiU4MCU5MyUyMFRyaXN0YW4lMjBCdWNrbWFzdGVyJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDU5MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAwNSUzQTQyJTNBMjglMjAlMkIwMDAw",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "pubDate": "Tue, 08 Sep 2026 05:42:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
     }
   ]
