@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 46,
-    "generatedAt": "2026-09-08T04:48:41.245Z"
+    "itemCount": 48,
+    "generatedAt": "2026-09-08T12:55:21.884Z"
   },
   "items": [
     {
@@ -282,6 +282,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGMzUwMTQ2NzklN0NodHRwcyUzQSUyRiUyRnd3dy5uYXR1cmUuY29tJTJGYXJ0aWNsZXMlMkYzNTAxNDY3OSU3Q0NhdGNoaW5nJTIwQ3J1bWJzJTIwZnJvbSUyMHRoZSUyMFRhYmxlJTIwKDIwMDApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODQwNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAwNyUzQTE1JTNBMTAlMjAlMkIwMDAw",
       "title": "Catching Crumbs from the Table (2000)",
       "pubDate": "Sun, 06 Sep 2026 07:15:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RpbmdwaXJhdGUuY29tJTJGdW5kZXJzdGFuZGluZy1jb21wdXRlci1tZW1vcnktYXJjaGl0ZWN0dXJlLWFjOTMyMDExMDc4NyU3Q2h0dHBzJTNBJTJGJTJGY29kaW5ncGlyYXRlLmNvbSUyRnVuZGVyc3RhbmRpbmctY29tcHV0ZXItbWVtb3J5LWFyY2hpdGVjdHVyZS1hYzkzMjAxMTA3ODclN0NVbmRlcnN0YW5kaW5nJTIwQ29tcHV0ZXIlMjBNZW1vcnklMjBBcmNoaXRlY3R1cmUlMjBhbmQlMjBTU0QlMjBJbnRlcm5hbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5MDE5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE5JTNBNTElM0EyOCUyMCUyQjAwMDA",
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "pubDate": "Sun, 06 Sep 2026 19:51:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZyb2JvdC13cml0aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZyb2JvdC13cml0aW5nJTJGJTdDUm9ib3QlMjB3cml0ZXMlMjBpbiUyMGxhbmd1YWdlcyUyMGl0JTIwaGFzJTIwbmV2ZXIlMjBzZWVuJTIwYmVmb3JlJTIwKDIwMTkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODM2ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAwNSUzQTQ3JTNBMDUlMjAlMkIwMDAw",
+      "title": "Robot writes in languages it has never seen before (2019)",
+      "pubDate": "Sun, 06 Sep 2026 05:47:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-08",
     "newestItemDate": "2026-09-08",
-    "itemCount": 5,
-    "generatedAt": "2026-09-08T04:48:41.244Z"
+    "itemCount": 14,
+    "generatedAt": "2026-09-08T12:55:21.884Z"
   },
   "items": [
     {
@@ -36,6 +36,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtY3BoZXJyaW4uY2ElMkYyMDI2JTJGMDklMkYwNyUyRnJzYS5odG1sJTdDaHR0cHMlM0ElMkYlMkZtY3BoZXJyaW4uY2ElMkYyMDI2JTJGMDklMkYwNyUyRnJzYS5odG1sJTdDSSd2ZSUyMGZhY3RvcmVkJTIwdGhlJTIwUlNBJTIwa2V5cyUyMG9mJTIwYSUyMENlcnRpZmljYXRlJTIwQXV0aG9yaXR5JTIwZnJvbSUyMHRoZSUyMDkwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA0NjM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDElM0ExNiUzQTU5JTIwJTJCMDAwMA",
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
       "pubDate": "Tue, 08 Sep 2026 01:16:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub2VjZC5vcmclMkZlbiUyRmFib3V0JTJGbmV3cyUyRnByZXNzLXJlbGVhc2VzJTJGMjAyNiUyRjA5JTJGcGlzYS0yMDI1LXN0dWRlbnRzLXJlYWRpbmctYW5kLW1hdGhlbWF0aWNzLXBlcmZvcm1hbmNlLWRlY2xpbmVkLXNoYXJwbHktYWNyb3NzLXRoZS1vZWNkLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5vZWNkLm9yZyUyRmVuJTJGYWJvdXQlMkZuZXdzJTJGcHJlc3MtcmVsZWFzZXMlMkYyMDI2JTJGMDklMkZwaXNhLTIwMjUtc3R1ZGVudHMtcmVhZGluZy1hbmQtbWF0aGVtYXRpY3MtcGVyZm9ybWFuY2UtZGVjbGluZWQtc2hhcnBseS1hY3Jvc3MtdGhlLW9lY2QuaHRtbCU3Q1BJU0ElMjAyMDI1JTIwU3R1ZGVudHMnJTIwcmVhZGluZyUyMGFuZCUyMG1hdGhlbWF0aWNzJTIwcGVyZm9ybWFuY2UlMjBkZWNsaW5lZCUyMGFjcm9zcyUyMHRoZSUyME9FQ0QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYwODY5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDExJTNBMTMlM0EwMyUyMCUyQjAwMDA",
+      "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+      "pubDate": "Tue, 08 Sep 2026 11:13:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRmZ1dHVyZSUyRmFydGljbGUlMkYyMDI2MDkwNC1ob3ctZ2V0dGluZy15b3VyLWhhbmRzLWRpcnR5LWJvb3N0cy15b3VyLWhlYWx0aC13aXRoaW4td2Vla3MlN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGZnV0dXJlJTJGYXJ0aWNsZSUyRjIwMjYwOTA0LWhvdy1nZXR0aW5nLXlvdXItaGFuZHMtZGlydHktYm9vc3RzLXlvdXItaGVhbHRoLXdpdGhpbi13ZWVrcyU3Q1doeSUyMGdldHRpbmclMjB5b3VyJTIwaGFuZHMlMjBkaXJ0eSUyMGlzJTIwZ29vZCUyMGZvciUyMHlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA4MDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDklM0E0OCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Why getting your hands dirty is good for you",
+      "pubDate": "Tue, 08 Sep 2026 09:48:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YWxlLnJvY2tzJTJGcG9zdHMlMkZodG1sLXJlbGljcyU3Q2h0dHBzJTNBJTJGJTJGdmFsZS5yb2NrcyUyRnBvc3RzJTJGaHRtbC1yZWxpY3MlN0NBbnRpcXVhdGVkJTIwSFRNTCUyMFNuaXBwZXRzJTIwYW5kJTIwQXJ0ZWZhY3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDc5OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAwOSUzQTQzJTNBMTQlMjAlMkIwMDAw",
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "pubDate": "Tue, 08 Sep 2026 09:43:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXBoZXJjdWUuY29tJTJGYmxvZyUyRmV1cm9wZWFuLWNkbi1jb25jZW50cmF0aW9uLWNsb3VkZmxhcmUtbmluZS1pbi10ZW4lN0NodHRwcyUzQSUyRiUyRmNpcGhlcmN1ZS5jb20lMkZibG9nJTJGZXVyb3BlYW4tY2RuLWNvbmNlbnRyYXRpb24tY2xvdWRmbGFyZS1uaW5lLWluLXRlbiU3Q0Ftb25nJTIwRXVyb3BlYW4lMjBDb21wYW5pZXMlMjBUaGF0JTIwVXNlJTIwYSUyMENETiUyQyUyME5lYXJseSUyMDklMjBpbiUyMDEwJTIwVXNlJTIwQ2xvdWRmbGFyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA3NDQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDglM0E0MiUzQTU2JTIwJTJCMDAwMA",
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "pubDate": "Tue, 08 Sep 2026 08:42:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGF1cmljUmVzZWFyY2glMkZUcmFkaW5nQWdlbnRzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGF1cmljUmVzZWFyY2glMkZUcmFkaW5nQWdlbnRzJTdDTXVsdGktQWdlbnRzJTIwTExNJTIwRmluYW5jaWFsJTIwVHJhZGluZyUyMEZyYW1ld29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA1ODIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDUlM0EyMCUzQTIzJTIwJTJCMDAwMA",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "pubDate": "Tue, 08 Sep 2026 05:20:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG0uZ292LmF1JTJGbWVkaWElMkZteS1mZWVkLW15LXdheSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBtLmdvdi5hdSUyRm1lZGlhJTJGbXktZmVlZC1teS13YXklN0NNeSUyMEZlZWQlMkMlMjBNeSUyMFdheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA1NzgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDUlM0ExMCUzQTM2JTIwJTJCMDAwMA",
+      "title": "My Feed, My Way",
+      "pubDate": "Tue, 08 Sep 2026 05:10:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwtbWFrZXMtc292ZXJlaWduLW9wZW4td2VpZ2h0LWFpLXRvLWZyb250aWVyJTJGJTdDaHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwtbWFrZXMtc292ZXJlaWduLW9wZW4td2VpZ2h0LWFpLXRvLWZyb250aWVyJTJGJTdDTWlzdHJhbCUyMHJhaXNlcyUyMCVFMiU4MiVBQzNCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDU3NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAwNSUzQTA2JTNBMjMlMjAlMkIwMDAw",
+      "title": "Mistral raises €3B",
+      "pubDate": "Tue, 08 Sep 2026 05:06:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2hhbmFkd2Fua2FyLmdpdGh1Yi5pbyUyRnBvc3RzJTJGcGxhdGZvcm1zLmh0bWwlN0NodHRwcyUzQSUyRiUyRnJvaGFuYWR3YW5rYXIuZ2l0aHViLmlvJTJGcG9zdHMlMkZwbGF0Zm9ybXMuaHRtbCU3Q1RoZSUyMFZNcyUyMFBvd2VyaW5nJTIwTW9iaWxlJTIwQWdlbnRzJTIwKEluc3RpbmN0JTJDJTIwQ2xhdWRlJTIwQ29kZSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYwNTY0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDA0JTNBMzYlM0EyNiUyMCUyQjAwMDA",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "pubDate": "Tue, 08 Sep 2026 04:36:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWlyZGdsb29wLm9yZyUyRmJsb2clMkZnb29nbGUtamFpbCU3Q2h0dHBzJTNBJTJGJTJGd2VpcmRnbG9vcC5vcmclMkZibG9nJTJGZ29vZ2xlLWphaWwlN0NUaGVyZSdzJTIwYSUyMG5ldyUyMCUyMkdvb2dsZSUyMEphaWwlMjIlMjBmb3IlMjBpbmRlcGVuZGVudCUyMHdpa2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDQ4NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAwMSUzQTU3JTNBMjMlMjAlMkIwMDAw",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "pubDate": "Tue, 08 Sep 2026 01:57:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
     }
   ]
