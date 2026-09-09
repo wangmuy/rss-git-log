@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-08",
     "newestItemDate": "2026-09-08",
-    "itemCount": 46,
-    "generatedAt": "2026-09-09T04:51:42.375Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-09T13:00:54.094Z"
   },
   "items": [
     {
@@ -282,6 +282,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmFscGhhZ2Vub21lLWF0bGFzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmFscGhhZ2Vub21lLWF0bGFzJTJGJTdDQWxwaGFHZW5vbWUlMjBBdGxhcyUzQSUyMGElMjBoaWdoLXJlc29sdXRpb24lMjBtYXAlMjBvZiUyMGh1bWFuJTIwRE5BJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTEyNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNCUzQTU1JTNBNDUlMjAlMkIwMDAw",
       "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "pubDate": "Tue, 08 Sep 2026 14:55:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlYmVyZy5vcmclMkZqamJhMjMlMkZtYWFrLmVsJTdDaHR0cHMlM0ElMkYlMkZjb2RlYmVyZy5vcmclMkZqamJhMjMlMkZtYWFrLmVsJTdDTWFhay5lbCUzQSUyMExpc3AlMjBtYWNoaW5lJTIwY29tbWFuZCUyMHJ1bm5lciUyMGluJTIwRW1hY3MlMkMlMjBpbmZpbml0ZWx5JTIwZXh0ZW5zaWJsZSUyMGFuZCUyMFNjaGVtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA3ODU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDklM0EyOCUzQTM1JTIwJTJCMDAwMA",
+      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+      "pubDate": "Tue, 08 Sep 2026 09:28:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
     }
   ]

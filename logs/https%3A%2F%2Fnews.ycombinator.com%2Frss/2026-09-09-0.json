@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-09",
     "newestItemDate": "2026-09-09",
-    "itemCount": 2,
-    "generatedAt": "2026-09-09T04:51:42.375Z"
+    "itemCount": 15,
+    "generatedAt": "2026-09-09T13:00:54.094Z"
   },
   "items": [
     {
@@ -18,6 +18,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmhpbGJlcnRzcGFlc3MlMkZzdGF0dXMlMkYyMDk3NDc2MTk2NzkxNzA5ODQzJTIzbSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZoaWxiZXJ0c3BhZXNzJTJGc3RhdHVzJTJGMjA5NzQ3NjE5Njc5MTcwOTg0MyUyM20lN0NJJTIwcmVzaWduZWQlMjBmcm9tJTIwQW50aHJvcGljJTIwdG9kYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxOTIyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDAwJTNBNDAlM0E0MCUyMCUyQjAwMDA",
       "title": "I resigned from Anthropic today",
       "pubDate": "Wed, 09 Sep 2026 00:40:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcm9hbWUlMkZqb2JzJTJGS3VWVnFTaC1jb250ZW50LXN5c3RlbXMtYnVpbGRlci1lZGl0b3IlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZyb2FtZSUyRmpvYnMlMkZLdVZWcVNoLWNvbnRlbnQtc3lzdGVtcy1idWlsZGVyLWVkaXRvciU3Q1JvYW1lJTIwKFlDJTIwUzIzKSUyMElzJTIwSGlyaW5nJTIwVmlyYWwlMjBDb250ZW50JTIwRWRpdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjUxMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxMiUzQTAxJTNBMzglMjAlMkIwMDAw",
+      "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+      "pubDate": "Wed, 09 Sep 2026 12:01:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4bGlpLnNwYWNlJTJGZW5nJTJGbWFsaWNpb3VzLXNvZnR3YXJlLW9uLWdvb2dsZS1hZHMlMkYlN0NodHRwcyUzQSUyRiUyRnhsaWkuc3BhY2UlMkZlbmclMkZtYWxpY2lvdXMtc29mdHdhcmUtb24tZ29vZ2xlLWFkcyUyRiU3Q0klMjBhZHZlcnRpc2UlMjBtYWxpY2lvdXMlMjBzb2Z0d2FyZSUyMG9uJTIwR29vZ2xlJTIwQWRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjQ4NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxMSUzQTQzJTNBMjElMjAlMkIwMDAw",
+      "title": "I advertise malicious software on Google Ads",
+      "pubDate": "Wed, 09 Sep 2026 11:43:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXNlcnRhbnQuY29tJTJGYmxvZyUyRmludHJvZHVjaW5nLWRlc2VydC1hbnQtbGFicyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVzZXJ0YW50LmNvbSUyRmJsb2clMkZpbnRyb2R1Y2luZy1kZXNlcnQtYW50LWxhYnMlMkYlN0NEZXNlcnQlMjBBbnQlMjBMYWJzJTNBJTIwbG9jYWwlMkMlMjBmYXN0JTIwbW9kZWxzJTIwdGhhdCUyMHJ1biUyMG9uJTIwZGV2aWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjQ4MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxMSUzQTM5JTNBNDYlMjAlMkIwMDAw",
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "pubDate": "Wed, 09 Sep 2026 11:39:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI0NjAzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI0NjAzJTdDRGVlcFNlZWslMjBsYXVuY2hpbmclMjB2NC4xJTIwZmxhc2glMjBjaGVhcGVyJTIwYW5kJTIwbW9yZSUyMGNhcGFibGUlMjB0aGFuJTIwdjQlMjBwcm8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyNDYwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDExJTNBMTklM0EyNiUyMCUyQjAwMDA",
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "pubDate": "Wed, 09 Sep 2026 11:19:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRmN1bHR1cmUlMkZpbmZpbml0ZS1zY3JvbGwlMkZmbG9jay13YW50cy1hLWNsb3NlbHktc3VydmVpbGxlZC13b3JsZC13aXRoLW5vLWV4aXQlN0NodHRwcyUzQSUyRiUyRnd3dy5uZXd5b3JrZXIuY29tJTJGY3VsdHVyZSUyRmluZmluaXRlLXNjcm9sbCUyRmZsb2NrLXdhbnRzLWEtY2xvc2VseS1zdXJ2ZWlsbGVkLXdvcmxkLXdpdGgtbm8tZXhpdCU3Q0Zsb2NrJTIwV2FudHMlMjBhJTIwQ2xvc2VseSUyMFN1cnZlaWxsZWQlMjBXb3JsZCUyMHdpdGglMjBObyUyMEV4aXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyNDM5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDEwJTNBNTQlM0ExOCUyMCUyQjAwMDA",
+      "title": "Flock Wants a Closely Surveilled World with No Exit",
+      "pubDate": "Wed, 09 Sep 2026 10:54:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmhvdy1haS1tYXRoLWJyZWFrdGhyb3VnaC1pZ25pdGVkLWNvbnRyb3ZlcnN5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmhvdy1haS1tYXRoLWJyZWFrdGhyb3VnaC1pZ25pdGVkLWNvbnRyb3ZlcnN5JTdDSG93JTIwQW4lMjBBSSUyMG1hdGglMjBicmVha3Rocm91Z2glMjBpZ25pdGVkJTIwYSUyMGNvbnRyb3ZlcnN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjQxNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxMCUzQTI1JTNBNDElMjAlMkIwMDAw",
+      "title": "How An AI math breakthrough ignited a controversy",
+      "pubDate": "Wed, 09 Sep 2026 10:25:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYnVnZXJ0LmRlJTJGcG9zdHMlMkYyMDI2LTA5LTA5LWJlZHJvb20tbGFtcC1idWlsZCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWJ1Z2VydC5kZSUyRnBvc3RzJTJGMjAyNi0wOS0wOS1iZWRyb29tLWxhbXAtYnVpbGQlMkYlN0NCdWlsZGluZyUyMGElMjBXYWxsJTIwTGFtcCUyMGZyb20lMjBTY3JhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjM5MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxMCUzQTAxJTNBMTYlMjAlMkIwMDAw",
+      "title": "Building a Wall Lamp from Scratch",
+      "pubDate": "Wed, 09 Sep 2026 10:01:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidXR0b25kb3duLmNvbSUyRmJsb2clMkZsb3R1cy1ub3Rlcy1lbWFpbCU3Q2h0dHBzJTNBJTJGJTJGYnV0dG9uZG93bi5jb20lMkZibG9nJTJGbG90dXMtbm90ZXMtZW1haWwlN0NMb3R1cyUyME5vdGVzJTIwYW5kJTIwdGhlJTIwZGFuZ2VycyUyMG9mJTIwc3RhcnRpbmclMjBmcm9tJTIwc2NyYXRjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjIzOTM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTAlM0EwMSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "pubDate": "Wed, 09 Sep 2026 10:01:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcHVzZml2ZWQuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZvcHVzZml2ZWQuZGV2JTJGJTdDQ2xhdWRlJTJDJTIwY2hhbmdlJTIwdGhlJTIwJTIyQWRkJTIwdG8lMjBDYXJ0JTIyJTIwYnV0dG9uJTIwdG8lMjBibHVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjM3NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAwOSUzQTM5JTNBNDYlMjAlMkIwMDAw",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "pubDate": "Wed, 09 Sep 2026 09:39:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZjb2RleC1xdWFudHVtLWNvbXB1dGluZy1leHBlcmltZW50cyUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGY29kZXgtcXVhbnR1bS1jb21wdXRpbmctZXhwZXJpbWVudHMlMkYlN0NIb3clMjBHUFQlRTIlODAlOTE1LjYlMjBTb2wlMjBoZWxwcyUyMHJ1biUyMHF1YW50dW0lMjBjb21wdXRpbmclMjBleHBlcmltZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjIyNTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMDclM0EyMiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "pubDate": "Wed, 09 Sep 2026 07:22:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZvbi1yZWFsbHktdHJ5aW5nJTdDaHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZvbi1yZWFsbHktdHJ5aW5nJTdDT24lMjBSZWFsbHklMjBUcnlpbmclMjAoMjAwOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyMjMwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDA2JTNBNTglM0E0NCUyMCUyQjAwMDA",
+      "title": "On Really Trying (2009)",
+      "pubDate": "Wed, 09 Sep 2026 06:58:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA5JTJGdHdlZXQtYW5kLXRoZS1iaXJkLWxvZ28tYXBwYXJlbnRseS1lbnRlci10aGUtcHVibGljLWRvbWFpbi1idXQteC1tYWludGFpbnMtaXRzLWdyaXAtb24tdGhlLXR3aXR0ZXItbWFyay1mb3Itbm93LXgtdi1wcm9qZWN0LWJsdWViaXJkLmh0bSU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5lcmljZ29sZG1hbi5vcmclMkZhcmNoaXZlcyUyRjIwMjYlMkYwOSUyRnR3ZWV0LWFuZC10aGUtYmlyZC1sb2dvLWFwcGFyZW50bHktZW50ZXItdGhlLXB1YmxpYy1kb21haW4tYnV0LXgtbWFpbnRhaW5zLWl0cy1ncmlwLW9uLXRoZS10d2l0dGVyLW1hcmstZm9yLW5vdy14LXYtcHJvamVjdC1ibHVlYmlyZC5odG0lN0MlRTIlODAlOUNUd2VldCVFMiU4MCU5RCUyMGFuZCUyMHRoZSUyMGJpcmQlMjBsb2dvJTIwYXBwYXJlbnRseSUyMGVudGVyJTIwdGhlJTIwcHVibGljJTIwZG9tYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjE3NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAwNiUzQTAyJTNBMDclMjAlMkIwMDAw",
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
+      "pubDate": "Wed, 09 Sep 2026 06:02:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3RlLmNvbSUyRm1hc2FrYXp1X3VyYWJlJTJGbiUyRm43ODE1ZjViNjRmYWIlM0ZobCUzRGVuJTdDaHR0cHMlM0ElMkYlMkZub3RlLmNvbSUyRm1hc2FrYXp1X3VyYWJlJTJGbiUyRm43ODE1ZjViNjRmYWIlM0ZobCUzRGVuJTdDQSUyMEJpb2dyYXBoeSUyMG9mJTIwTGVlJTIwSG9sbG93YXklMkMlMjB0aGUlMjBBcmNoaXRlY3QlMjBvZiUyMENsb3VkZmxhcmUncyUyMFRlY2hub2xvZ3klMjAoUGFydCUyMDEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjExMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAwNCUzQTQzJTNBNDYlMjAlMkIwMDAw",
+      "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "pubDate": "Wed, 09 Sep 2026 04:43:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
     }
   ]
