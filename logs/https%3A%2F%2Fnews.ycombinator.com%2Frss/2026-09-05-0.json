@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-05",
     "newestItemDate": "2026-09-05",
-    "itemCount": 32,
-    "generatedAt": "2026-09-08T19:28:00.034Z"
+    "itemCount": 33,
+    "generatedAt": "2026-09-09T04:51:42.375Z"
   },
   "items": [
     {
@@ -198,6 +198,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1ZWNrZXIuY29kZWJlcmcucGFnZSUyRjIwMjYtMDktMDUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdWVja2VyLmNvZGViZXJnLnBhZ2UlMkYyMDI2LTA5LTA1Lmh0bWwlN0NJbXBsZW1lbnRhdGlvbiUyMG9mJTIwR0NDJ3MlMjBOZXN0ZWQlMjBGdW5jdGlvbnMlMjAodnMuJTIwQyUyQiUyQiUyMExhbWJkYXMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1NzU3NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNSUyMFNlcCUyMDIwMjYlMjAxMiUzQTA5JTNBMjklMjAlMkIwMDAw",
       "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
       "pubDate": "Sat, 05 Sep 2026 12:09:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5mb3dsZXIuY29tJTJGYXJ0aWNsZXMlMkZleHBsb3JpbmctZ2VuLWFpJTJGYW4tYWNjaWRlbnRhbC1ibGFja2JvYXJkLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1hcnRpbmZvd2xlci5jb20lMkZhcnRpY2xlcyUyRmV4cGxvcmluZy1nZW4tYWklMkZhbi1hY2NpZGVudGFsLWJsYWNrYm9hcmQuaHRtbCU3Q0FuJTIwQWNjaWRlbnRhbCUyMEJsYWNrYm9hcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU3OTQ4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA1JTIwU2VwJTIwMjAyNiUyMDE4JTNBNTAlM0EyNSUyMCUyQjAwMDA",
+      "title": "An Accidental Blackboard",
+      "pubDate": "Sat, 05 Sep 2026 18:50:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-05-0.json"
     }
   ]

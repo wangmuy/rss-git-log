@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 50,
-    "generatedAt": "2026-09-08T19:28:00.034Z"
+    "itemCount": 51,
+    "generatedAt": "2026-09-09T04:51:42.375Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYXJzaGFubWFrd2FuYTQxMi5naXRodWIuaW8lMkYyMDI2JTJGMDklMkZleHRyYWN0aW5nLXN0ZWVyaW5nLXZlY3RvcnMtZnJvbS1qLXNwYWNlJTJGJTdDaHR0cHMlM0ElMkYlMkZkYXJzaGFubWFrd2FuYTQxMi5naXRodWIuaW8lMkYyMDI2JTJGMDklMkZleHRyYWN0aW5nLXN0ZWVyaW5nLXZlY3RvcnMtZnJvbS1qLXNwYWNlJTJGJTdDRXh0cmFjdGluZyUyMFN0ZWVyaW5nJTIwVmVjdG9ycyUyMGZyb20lMjBKJTIwc3BhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU4NjY2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDMlM0EyNCUyMCUyQjAwMDA",
       "title": "Extracting Steering Vectors from J space",
       "pubDate": "Sun, 06 Sep 2026 14:03:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXJlY3QubWl0LmVkdSUyRmJvb2tzJTJGb2EtbW9ub2dyYXBoJTJGNjA2NyUyRlRoZS1NaWNyb2Vjb25vbWljcy1vZi1BcnRpZmljaWFsLUludGVsbGlnZW5jZSU3Q2h0dHBzJTNBJTJGJTJGZGlyZWN0Lm1pdC5lZHUlMkZib29rcyUyRm9hLW1vbm9ncmFwaCUyRjYwNjclMkZUaGUtTWljcm9lY29ub21pY3Mtb2YtQXJ0aWZpY2lhbC1JbnRlbGxpZ2VuY2UlN0NUaGUlMjBNaWNyb2Vjb25vbWljcyUyMG9mJTIwQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZSUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTkxMTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMjElM0EyNCUzQTIzJTIwJTJCMDAwMA",
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "pubDate": "Sun, 06 Sep 2026 21:24:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

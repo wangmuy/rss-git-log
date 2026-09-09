@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-08",
     "newestItemDate": "2026-09-08",
-    "itemCount": 36,
-    "generatedAt": "2026-09-08T19:28:00.033Z"
+    "itemCount": 46,
+    "generatedAt": "2026-09-09T04:51:42.375Z"
   },
   "items": [
     {
@@ -222,6 +222,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjaW1zLm55dS5lZHUlMkZ+dHJpc3RhbmIlMkZzdGF0ZW1lbnQucGRmJTdDaHR0cHMlM0ElMkYlMkZjaW1zLm55dS5lZHUlMkZ+dHJpc3RhbmIlMkZzdGF0ZW1lbnQucGRmJTdDTmF2aWVyLVN0b2tlcyUyMCVFMiU4MCU5MyUyMFRyaXN0YW4lMjBCdWNrbWFzdGVyJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDU5MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAwNSUzQTQyJTNBMjglMjAlMkIwMDAw",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "pubDate": "Tue, 08 Sep 2026 05:42:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlLWluZmluaXR5LnNwYWNlJTJGcGljdHVyZS1ib29rJTJGJTdDaHR0cHMlM0ElMkYlMkZlLWluZmluaXR5LnNwYWNlJTJGcGljdHVyZS1ib29rJTJGJTdDQSUyMFRvcG9sb2dpY2FsJTIwUGljdHVyZSUyMEJvb2slMkMlMjBSZW5kZXJlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjE4MDUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMjIlM0EyOCUzQTE0JTIwJTJCMDAwMA",
+      "title": "A Topological Picture Book, Rendered",
+      "pubDate": "Tue, 08 Sep 2026 22:28:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucmV2aWV3Lm5ldCUyRmNoYWxsZW5nZSUzRnJlZGlyZWN0JTNEJTI1MkZmb3J1bSUyNTNGaWQlMjUzRHBjN2ZxYU9jQUglN0NodHRwcyUzQSUyRiUyRm9wZW5yZXZpZXcubmV0JTJGY2hhbGxlbmdlJTNGcmVkaXJlY3QlM0QlMjUyRmZvcnVtJTI1M0ZpZCUyNTNEcGM3ZnFhT2NBSCU3Q0xhcmdlJTIwbGFuZ3VhZ2UlMjBtb2RlbHMlMjBkZXZlbG9wJTIwbm92ZWwlMjBzb2NpYWwlMjBiaWFzZXMlMjB0aHJvdWdoJTIwYWRhcHRpdmUlMjBleHBsb3JhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjE3NTgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMjElM0E0NyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "pubDate": "Tue, 08 Sep 2026 21:47:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaXNoYW50am9zaC5kZXYlMkZibG9ncyUyRmhvdy10by1idWlsZC1hLWZraW5nLXByaW50ZXIlMkYlN0NodHRwcyUzQSUyRiUyRm5pc2hhbnRqb3NoLmRldiUyRmJsb2dzJTJGaG93LXRvLWJ1aWxkLWEtZmtpbmctcHJpbnRlciUyRiU3Q0hvdyUyMHRvJTIwYnVpbGQlMjBhJTIwcHJpbnRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjE3MjU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMjElM0EyMiUzQTExJTIwJTJCMDAwMA",
+      "title": "How to build a printer",
+      "pubDate": "Tue, 08 Sep 2026 21:22:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoc3RvZG9uLnh5eiUyRiU0MHRhbyUyRjExNzIzNzMyMDc5NjkwMTU2MCU3Q2h0dHBzJTNBJTJGJTJGbWF0aHN0b2Rvbi54eXolMkYlNDB0YW8lMkYxMTcyMzczMjA3OTY5MDE1NjAlN0NUYW8lM0ElMjBPcGVuJTIwbWF0aCUyMHByb2JsZW1zJTIwYmVpbmclMjBub24tcmVuZXdhYmx5JTIwbWluZWQlMjBieSUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTY5NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAyMSUzQTAwJTNBNTIlMjAlMkIwMDAw",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "pubDate": "Tue, 08 Sep 2026 21:00:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5jZXB0aW9ubGFicy5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy1tZXJjdXJ5LTItNSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmluY2VwdGlvbmxhYnMuYWklMkZibG9nJTJGaW50cm9kdWNpbmctbWVyY3VyeS0yLTUlN0NNZXJjdXJ5JTIwMi41JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTYzNTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAyMCUzQTE0JTNBNTIlMjAlMkIwMDAw",
+      "title": "Mercury 2.5",
+      "pubDate": "Tue, 08 Sep 2026 20:14:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbG9jcS5jb20lMkZlbiUyRmJsb2clMkYyMDI2MDgyNyUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2xvY3EuY29tJTJGZW4lMkZibG9nJTJGMjAyNjA4MjclMkYlN0NBbmltYXRpb24lMjBpbiUyMEJldnklM0ElMjBUaGUlMjBCaWclMjBQaWN0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTYyNzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAyMCUzQTA4JTNBNDQlMjAlMkIwMDAw",
+      "title": "Animation in Bevy: The Big Picture",
+      "pubDate": "Tue, 08 Sep 2026 20:08:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXJnb25hdXRsYWJzYWklMkZkZWx0YWZpbiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFyZ29uYXV0bGFic2FpJTJGZGVsdGFmaW4lN0NLaW1pJTIwSzMlMjAoMi44VCklMjBhdCUyMDElMjB0b2tlbiUyRnMlMjBvbiUyMGElMjBNYWNCb29rJTIwUHJvJTJDJTIwc3RyZWFtZWQlMjBmcm9tJTIwZm91ciUyMFNTRHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxNjI1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA4JTIwU2VwJTIwMjAyNiUyMDIwJTNBMDclM0E1NSUyMCUyQjAwMDA",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "pubDate": "Tue, 08 Sep 2026 20:07:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaS5tZXRhLmNvbSUyRm11c2UlMkYlN0NodHRwcyUzQSUyRiUyRmFpLm1ldGEuY29tJTJGbXVzZSUyRiU3Q011c2UlMjAlRTIlODAlOTMlMjBNZXRhJUUyJTgwJTk5cyUyMHBlcnNvbmFsJTIwQUklMjBhZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjE1NTM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTklM0EyNSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Muse – Meta’s personal AI agent",
+      "pubDate": "Tue, 08 Sep 2026 19:25:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGMTAuMTE0NSUyRjI5ODA5ODMuMjkwODA4MSU3Q2h0dHBzJTNBJTJGJTJGZGwuYWNtLm9yZyUyRmRvaSUyRjEwLjExNDUlMkYyOTgwOTgzLjI5MDgwODElN0NJbnRvJTIwdGhlJTIwRGVwdGhzJTIwb2YlMjBDJTNBJTIwRWxhYm9yYXRpbmclMjB0aGUlMjBEZSUyMEZhY3RvJTIwU3RhbmRhcmRzJTIwKDIwMTYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTIwODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNSUzQTQ5JTNBNTclMjAlMkIwMDAw",
+      "title": "Into the Depths of C: Elaborating the De Facto Standards (2016)",
+      "pubDate": "Tue, 08 Sep 2026 15:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmFscGhhZ2Vub21lLWF0bGFzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmFscGhhZ2Vub21lLWF0bGFzJTJGJTdDQWxwaGFHZW5vbWUlMjBBdGxhcyUzQSUyMGElMjBoaWdoLXJlc29sdXRpb24lMjBtYXAlMjBvZiUyMGh1bWFuJTIwRE5BJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTEyNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNCUzQTU1JTNBNDUlMjAlMkIwMDAw",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "pubDate": "Tue, 08 Sep 2026 14:55:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
     }
   ]

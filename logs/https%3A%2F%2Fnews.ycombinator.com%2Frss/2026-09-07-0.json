@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-07",
     "newestItemDate": "2026-09-07",
-    "itemCount": 35,
-    "generatedAt": "2026-09-08T19:28:00.034Z"
+    "itemCount": 38,
+    "generatedAt": "2026-09-09T04:51:42.375Z"
   },
   "items": [
     {
@@ -216,6 +216,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrYWRheS5jb20lMkYyMDI2JTJGMDklMkYwNyUyRnRoZS1oZWxpY29wdGVyLXdpdGgtcmFkaW9hY3RpdmUtYmxhZGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZoYWNrYWRheS5jb20lMkYyMDI2JTJGMDklMkYwNyUyRnRoZS1oZWxpY29wdGVyLXdpdGgtcmFkaW9hY3RpdmUtYmxhZGVzJTJGJTdDVGhlJTIwSGVsaWNvcHRlciUyMHdpdGglMjBSYWRpb2FjdGl2ZSUyMEJsYWRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjAwOTAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTclM0E0NCUzQTMzJTIwJTJCMDAwMA",
       "title": "The Helicopter with Radioactive Blades",
       "pubDate": "Mon, 07 Sep 2026 17:44:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhyYW4udWslMkZ3cml0JTJGZGV2bG9nJTJGMjAyNiUyRjA5JTJGcGhwYmItMTQ0LWluLWRvY2tlci5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhyYW4udWslMkZ3cml0JTJGZGV2bG9nJTJGMjAyNiUyRjA5JTJGcGhwYmItMTQ0LWluLWRvY2tlci5odG1sJTdDR2V0dGluZyUyMHBocEJCJTIwMS40LjQlMjB3b3JraW5nJTIwaW4lMjBEb2NrZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5ODkyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDE0JTNBMzUlM0ExMiUyMCUyQjAwMDA",
+      "title": "Getting phpBB 1.4.4 working in Docker",
+      "pubDate": "Mon, 07 Sep 2026 14:35:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk4MDA5JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk4MDA5JTdDQXNrJTIwSE4lM0ElMjAzLjUlMjBpbmNoJTIwZGlza2V0dGUlMjByZWFkJTIwZXJyb3JzJTJDJTIwd291bGQlMjBhJTIwcGVyaW9kJTIwY29ycmVjdCUyMGRyaXZlJTIwZG8lMjBiZXR0ZXIlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5ODAwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDEzJTNBMDklM0E0NCUyMCUyQjAwMDA",
+      "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+      "pubDate": "Mon, 07 Sep 2026 13:09:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmFjdW5hbG5pc2tpLW11emVqLnNpJTJGZW4lMkZ0aGUtb3JpZ2lucy1vZi1wYXJ0bmVycy1jb21wdXRlci1jYXNlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmFjdW5hbG5pc2tpLW11emVqLnNpJTJGZW4lMkZ0aGUtb3JpZ2lucy1vZi1wYXJ0bmVycy1jb21wdXRlci1jYXNlJTJGJTdDVGhlJTIwVUslMjBvcmlnaW5zJTIwb2YlMjB0aGUlMjBTbG92ZW5pYW4lMjAlMjJQYXJ0bmVyJTIyJTIwODBzJTIwbWljcm9jb21wdXRlcidzJTIwY2FzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk3ODA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTIlM0E1MSUzQTU3JTIwJTJCMDAwMA",
+      "title": "The UK origins of the Slovenian \"Partner\" 80s microcomputer's case",
+      "pubDate": "Mon, 07 Sep 2026 12:51:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
     }
   ]

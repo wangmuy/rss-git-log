@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-04",
     "newestItemDate": "2026-09-04",
-    "itemCount": 59,
-    "generatedAt": "2026-09-08T12:55:21.885Z"
+    "itemCount": 60,
+    "generatedAt": "2026-09-09T04:51:42.376Z"
   },
   "items": [
     {
@@ -360,6 +360,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLmFwcGxpZWRjb21wdXRlLmNvbSU3Q2h0dHBzJTNBJTJGJTJGZG9jcy5hcHBsaWVkY29tcHV0ZS5jb20lMkYlN0NFbmQtdG8tZW5kJTIwaW5mcmFzdHJ1Y3R1cmUlMjBmb3IlMjB0cmFpbmluZyUyMGFuZCUyMGluZmVyZW5jaW5nJTIwb3BlbiUyMHdlaWdodCUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTcwNDExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDQlMjBTZXAlMjAyMDI2JTIwMjElM0EyNSUzQTQ5JTIwJTJCMDAwMA",
       "title": "End-to-end infrastructure for training and inferencing open weight models",
       "pubDate": "Fri, 04 Sep 2026 21:25:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnZlaXRoZWxsZXIuZGUlMkZudW1weS5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLnZlaXRoZWxsZXIuZGUlMkZudW1weS5odG1sJTdDVHJhY2luZyUyMG5wLmFkZCUyQyUyMGFsbCUyMHRoZSUyMHdheSUyMGRvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU2MjQzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA0JTIwU2VwJTIwMjAyNiUyMDA5JTNBNDIlM0EyOSUyMCUyQjAwMDA",
+      "title": "Tracing np.add, all the way down",
+      "pubDate": "Fri, 04 Sep 2026 09:42:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-04-0.json"
     }
   ]
