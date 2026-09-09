@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 52,
-    "generatedAt": "2026-09-09T13:00:54.094Z"
+    "itemCount": 53,
+    "generatedAt": "2026-09-09T19:19:30.143Z"
   },
   "items": [
     {
@@ -318,6 +318,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMTk5MCUyRjAyJTJGMjYlMkZjb3lvdGUtdi1hY21lJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMTk5MCUyRjAyJTJGMjYlMkZjb3lvdGUtdi1hY21lJTdDQ295b3RlJTIwdi4lMjBBY21lJTIwKDE5OTApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODY0OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxMyUzQTQzJTNBNDglMjAlMkIwMDAw",
       "title": "Coyote v. Acme (1990)",
       "pubDate": "Sun, 06 Sep 2026 13:43:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmhvZnN0ZWRlLml0JTJGYmVzcG9rZS1hLXByb2dyYW1taW5nLWxhbmd1YWdlLWZvci1wZW9wbGUtd2hvLXNheS1wbGVhc2UlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuaG9mc3RlZGUuaXQlMkZiZXNwb2tlLWEtcHJvZ3JhbW1pbmctbGFuZ3VhZ2UtZm9yLXBlb3BsZS13aG8tc2F5LXBsZWFzZSUyRiU3Q0Jlc3Bva2UlM0ElMjBBJTIwcHJvZ3JhbW1pbmclMjBsYW5ndWFnZSUyMGZvciUyMHBlb3BsZSUyMHdobyUyMHNheSUyMHBsZWFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg0MzYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMDglM0ExMyUzQTUzJTIwJTJCMDAwMA",
+      "title": "Bespoke: A programming language for people who say please",
+      "pubDate": "Sun, 06 Sep 2026 08:13:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

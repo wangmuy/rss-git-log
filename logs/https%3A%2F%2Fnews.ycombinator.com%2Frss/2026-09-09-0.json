@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-09",
     "newestItemDate": "2026-09-09",
-    "itemCount": 15,
-    "generatedAt": "2026-09-09T13:00:54.094Z"
+    "itemCount": 33,
+    "generatedAt": "2026-09-09T19:19:30.142Z"
   },
   "items": [
     {
@@ -96,6 +96,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZub3RlLmNvbSUyRm1hc2FrYXp1X3VyYWJlJTJGbiUyRm43ODE1ZjViNjRmYWIlM0ZobCUzRGVuJTdDaHR0cHMlM0ElMkYlMkZub3RlLmNvbSUyRm1hc2FrYXp1X3VyYWJlJTJGbiUyRm43ODE1ZjViNjRmYWIlM0ZobCUzRGVuJTdDQSUyMEJpb2dyYXBoeSUyMG9mJTIwTGVlJTIwSG9sbG93YXklMkMlMjB0aGUlMjBBcmNoaXRlY3QlMjBvZiUyMENsb3VkZmxhcmUncyUyMFRlY2hub2xvZ3klMjAoUGFydCUyMDEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjExMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAwNCUzQTQzJTNBNDYlMjAlMkIwMDAw",
       "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
       "pubDate": "Wed, 09 Sep 2026 04:43:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGYXBwbGUtd2F0Y2gtdWx0cmEtNCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRmFwcGxlLXdhdGNoLXVsdHJhLTQlMkYlN0NBcHBsZSUyMFdhdGNoJTIwVWx0cmElMjA0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MzExMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxOCUzQTIxJTNBNDAlMjAlMkIwMDAw",
+      "title": "Apple Watch Ultra 4",
+      "pubDate": "Wed, 09 Sep 2026 18:21:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDklMkZhcHBsZS11bnZlaWxzLWlwaG9uZS1kdW8lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHBsZS5jb20lMkZuZXdzcm9vbSUyRjIwMjYlMkYwOSUyRmFwcGxlLXVudmVpbHMtaXBob25lLWR1byUyRiU3Q0FwcGxlJTIwVW52ZWlscyUyMGlQaG9uZSUyMER1byU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjMwOTY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTglM0ExNyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Apple Unveils iPhone Duo",
+      "pubDate": "Wed, 09 Sep 2026 18:17:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGaXBob25lLWR1byUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRmlwaG9uZS1kdW8lMkYlN0NpUGhvbmUlMjBEdW8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYzMDkzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDE4JTNBMTUlM0E0MyUyMCUyQjAwMDA",
+      "title": "iPhone Duo",
+      "pubDate": "Wed, 09 Sep 2026 18:15:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGT3RvRG9jayUyRm90by1kb2NrJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGT3RvRG9jayUyRm90by1kb2NrJTdDU2hvdyUyMEhOJTNBJTIwU2VsZi1ob3N0ZWQlMjBjb21wYW55JTIwT1MlMkMlMjBDbGF1ZGUlMjBDb2RlJTIwYW5kJTIwQ29kZXglMjBhZ2VudHMlMjBpbiUyMGRlcGFydG1lbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MzA2MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxNyUzQTU3JTNBNTUlMjAlMkIwMDAw",
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "pubDate": "Wed, 09 Sep 2026 17:57:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDklMkZhcHBsZS1pbnRyb2R1Y2VzLWFpcnBvZHMtNS13aXRoLWJlc3QtaW4tY2xhc3Mtb3Blbi1lYXItYWN0aXZlLW5vaXNlLWNhbmNlbGxhdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRm5ld3Nyb29tJTJGMjAyNiUyRjA5JTJGYXBwbGUtaW50cm9kdWNlcy1haXJwb2RzLTUtd2l0aC1iZXN0LWluLWNsYXNzLW9wZW4tZWFyLWFjdGl2ZS1ub2lzZS1jYW5jZWxsYXRpb24lMkYlN0NBcHBsZSUyMEludHJvZHVjZXMlMjBBaXJQb2RzJTIwNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjMwMjUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTclM0EzOSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Apple Introduces AirPods 5",
+      "pubDate": "Wed, 09 Sep 2026 17:39:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXN0LmdpdGh1Yi5jb20lMkZ3c3hpYW95cyUyRmUwMjg2ZGM2YmI2MjRmZjVmZGY0OWU3ZjRjNTI4YmEzJTdDaHR0cHMlM0ElMkYlMkZnaXN0LmdpdGh1Yi5jb20lMkZ3c3hpYW95cyUyRmUwMjg2ZGM2YmI2MjRmZjVmZGY0OWU3ZjRjNTI4YmEzJTdDUXdlbiUyMDMuOCUyMGZvbGxvd3MlMjBHUFQtNS41JTIwUHJvJTIwcmVhc29uaW5nJTIwcHJlZmlsbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYzMDAyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDE3JTNBMjQlM0EyOCUyMCUyQjAwMDA",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "pubDate": "Wed, 09 Sep 2026 17:24:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY2FkZW15LmRhaXIuYWklMkZwYXBlcnMlMkZwcm9jZWR1cmFsLWdyYXBocy1zZWxmLWV2b2x2aW5nLWV4ZWN1dGlvbi1zdHJ1Y3R1cmVzLWZvci1sbG0tYWdlbnRzLTI2MDkuMDkxNTMlN0NodHRwcyUzQSUyRiUyRmFjYWRlbXkuZGFpci5haSUyRnBhcGVycyUyRnByb2NlZHVyYWwtZ3JhcGhzLXNlbGYtZXZvbHZpbmctZXhlY3V0aW9uLXN0cnVjdHVyZXMtZm9yLWxsbS1hZ2VudHMtMjYwOS4wOTE1MyU3Q1Byb2NlZHVyYWwlMjBHcmFwaHMlM0ElMjBTZWxmLUV2b2x2aW5nJTIwRXhlY3V0aW9uJTIwU3RydWN0dXJlcyUyMGZvciUyMExMTSUyMEFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI5ODY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTclM0ExMyUzQTUyJTIwJTJCMDAwMA",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "pubDate": "Wed, 09 Sep 2026 17:13:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFtZXNjaGVydGkuY29tJTJGZW1hY3MtY29uc3VsdC1zcGVlZC1hc3luYy1zZWFyY2hlLWdyZXAtcmlwZ3JlcC1mZC1maW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamFtZXNjaGVydGkuY29tJTJGZW1hY3MtY29uc3VsdC1zcGVlZC1hc3luYy1zZWFyY2hlLWdyZXAtcmlwZ3JlcC1mZC1maW5kJTJGJTdDV2h5JTIwRW1hY3MlMjBDb25zdWx0JTIwYXN5bmMlMjBzZWFyY2hlcyUyMGZlZWwlMjBzbG93JTIwYW5kJTIwaG93JTIwdG8lMjBzcGVlZCUyMHRoZW0lMjB1cCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI5ODY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTclM0ExMyUzQTQzJTIwJTJCMDAwMA",
+      "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+      "pubDate": "Wed, 09 Sep 2026 17:13:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGdGhlLWludmVudGlvbi1vZi10aGUtbW1vJTdDaHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGdGhlLWludmVudGlvbi1vZi10aGUtbW1vJTdDVGhlJTIwSW52ZW50aW9uJTIwb2YlMjB0aGUlMjBNTU8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyOTI5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDE2JTNBMzglM0ExNCUyMCUyQjAwMDA",
+      "title": "The Invention of the MMO",
+      "pubDate": "Wed, 09 Sep 2026 16:38:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3Vkb21vaW4uY29tJTJGcCUyRmNvbnN1bWVyLWNsYWltcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN1ZG9tb2luLmNvbSUyRnAlMkZjb25zdW1lci1jbGFpbXMlN0NJJTIwaGF2ZW4ndCUyMGxvc3QlMjBhJTIwY3VzdG9tZXIlMjBzZXJ2aWNlJTIwZmlnaHQlMjBpbiUyMHNldmVuJTIwbW9udGhzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2Mjg5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxNiUzQTE4JTNBMzglMjAlMkIwMDAw",
+      "title": "I haven't lost a customer service fight in seven months",
+      "pubDate": "Wed, 09 Sep 2026 16:18:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYm91dC5yZWFkdGhlZG9jcy5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGMjAyNi1kZG9zLWF0dGFjayUyRiU3Q2h0dHBzJTNBJTJGJTJGYWJvdXQucmVhZHRoZWRvY3MuY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjIwMjYtZGRvcy1hdHRhY2slMkYlN0NVbmRlcnN0YW5kaW5nJTIwdGhlJTIwcmVjZW50JTIwRERvUyUyMGF0dGFjayUyMGFnYWluc3QlMjBSZWFkJTIwdGhlJTIwRG9jcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI4NjE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTUlM0E1NSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "pubDate": "Wed, 09 Sep 2026 15:55:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbnVyYWRpb3dvcmxkLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ251cmFkaW93b3JsZC5jb20lMkYlN0NHTlUlMjBSYWRpbyUyMGluJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI4NTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTUlM0E1MyUzQTA2JTIwJTJCMDAwMA",
+      "title": "GNU Radio in the browser",
+      "pubDate": "Wed, 09 Sep 2026 15:53:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbnRyb3BpY3Rob3VnaHRzLmNvbSUyRmJldHRlci1haS1jb21tZW50LWNsYXNzaWZpZXIlN0NodHRwcyUzQSUyRiUyRmVudHJvcGljdGhvdWdodHMuY29tJTJGYmV0dGVyLWFpLWNvbW1lbnQtY2xhc3NpZmllciU3Q0JldHRlciUyMEFJJTIwY29kZSUyMGNvbW1lbnQlMjBkZXRlY3RvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI4NDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTUlM0E0NSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Better AI code comment detector",
+      "pubDate": "Wed, 09 Sep 2026 15:45:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoLm1hcmtzYmxvZ2cuY29tJTJGcGxhbmV0LWxhYnMtb3Blbi1zYXRlbGxpdGUtZmVlZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0ZWNoLm1hcmtzYmxvZ2cuY29tJTJGcGxhbmV0LWxhYnMtb3Blbi1zYXRlbGxpdGUtZmVlZC5odG1sJTdDUGxhbmV0JTIwTGFicyclMjBvcGVuJTIwc2F0ZWxsaXRlJTIwZmVlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI4NDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTUlM0E0NCUzQTA5JTIwJTJCMDAwMA",
+      "title": "Planet Labs' open satellite feed",
+      "pubDate": "Wed, 09 Sep 2026 15:44:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibmV4dC5iaW8lMkZwb3N0JTJGd2UtYWNjaWRlbnRhbGx5LWJ1aWx0LWEtc3ludGhldGljLWNlbGwtZmFjdG9yeSU3Q2h0dHBzJTNBJTJGJTJGYm5leHQuYmlvJTJGcG9zdCUyRndlLWFjY2lkZW50YWxseS1idWlsdC1hLXN5bnRoZXRpYy1jZWxsLWZhY3RvcnklN0NXZSUyMGFjY2lkZW50YWxseSUyMGJ1aWx0JTIwYSUyMHN5bnRoZXRpYyUyMGNlbGwlMjBmYWN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjgyOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxNSUzQTM0JTNBNTElMjAlMkIwMDAw",
+      "title": "We accidentally built a synthetic cell factory",
+      "pubDate": "Wed, 09 Sep 2026 15:34:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWdhemluZS5zZWJhc3RpYW5yYXNjaGthLmNvbSUyRnAlMkZncHQtNi1hc3RyYS1sb29wZWQtdHJhbnNmb3JtZXJzLWFuZCU3Q2h0dHBzJTNBJTJGJTJGbWFnYXppbmUuc2ViYXN0aWFucmFzY2hrYS5jb20lMkZwJTJGZ3B0LTYtYXN0cmEtbG9vcGVkLXRyYW5zZm9ybWVycy1hbmQlN0NHUFQtNiUyMEFzdHJhJTJDJTIwbG9vcGVkJTIwdHJhbnNmb3JtZXJzJTJDJTIwYW5kJTIwaGlkZGVuJTIwcmVhc29uaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjczNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxNCUzQTM3JTNBNDclMjAlMkIwMDAw",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "pubDate": "Wed, 09 Sep 2026 14:37:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWlsd2luZGNzcy5jb20lMkZibG9nJTJGdGFpbHdpbmQtaXMtam9pbmluZy1zaG9waWZ5JTdDaHR0cHMlM0ElMkYlMkZ0YWlsd2luZGNzcy5jb20lMkZibG9nJTJGdGFpbHdpbmQtaXMtam9pbmluZy1zaG9waWZ5JTdDVGFpbHdpbmQlMjBMYWJzJTIwaXMlMjBqb2luaW5nJTIwU2hvcGlmeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI2MTkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTMlM0EyNyUzQTExJTIwJTJCMDAwMA",
+      "title": "Tailwind Labs is joining Shopify",
+      "pubDate": "Wed, 09 Sep 2026 13:27:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4bGlpLnNwYWNlJTJGZW5nJTJGbWFsaWNpb3VzLXNvZnR3YXJlLW9uLWdvb2dsZS1hZHMlMkYlN0NodHRwcyUzQSUyRiUyRnhsaWkuc3BhY2UlMkZlbmclMkZtYWxpY2lvdXMtc29mdHdhcmUtb24tZ29vZ2xlLWFkcyUyRiU3Q0hvdyUyMEklMjBhZHZlcnRpc2UlMjBtYWxpY2lvdXMlMjBzb2Z0d2FyZSUyMG9uJTIwR29vZ2xlJTIwQWRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjQ4NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAxMSUzQTQzJTNBMjElMjAlMkIwMDAw",
+      "title": "How I advertise malicious software on Google Ads",
+      "pubDate": "Wed, 09 Sep 2026 11:43:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
     }
   ]
