@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-07",
     "newestItemDate": "2026-09-07",
-    "itemCount": 44,
-    "generatedAt": "2026-09-10T04:53:06.861Z"
+    "itemCount": 46,
+    "generatedAt": "2026-09-10T12:58:09.167Z"
   },
   "items": [
     {
@@ -270,6 +270,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRmFhcmRtYW4taXMtc2VsbGluZy1pdHMtb3JpZ2luYWwtbW92aWUtcHVwcGV0cy10aGlzLW1vbnRoLTIwMDA4MDc5NjglN0NodHRwcyUzQSUyRiUyRmdpem1vZG8uY29tJTJGYWFyZG1hbi1pcy1zZWxsaW5nLWl0cy1vcmlnaW5hbC1tb3ZpZS1wdXBwZXRzLXRoaXMtbW9udGgtMjAwMDgwNzk2OCU3Q0FhcmRtYW4lMjAoV2FsbGFjZSUyMGFuZCUyMEdyb21pdCklMjBJcyUyMFNlbGxpbmclMjBJdHMlMjBPcmlnaW5hbCUyME1vdmllJTIwUHVwcGV0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTkyNzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMDElM0EzNSUzQTIxJTIwJTJCMDAwMA",
       "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
       "pubDate": "Mon, 07 Sep 2026 01:35:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9ja2Zpc2hjaGVzcy5vcmclMkZibG9nJTJGMjAyNiUyRnN0b2NrZmlzaC0xOSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RvY2tmaXNoY2hlc3Mub3JnJTJGYmxvZyUyRjIwMjYlMkZzdG9ja2Zpc2gtMTklMkYlN0NTdG9ja2Zpc2glMjAxOSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk5OTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTYlM0ExNyUzQTI3JTIwJTJCMDAwMA",
+      "title": "Stockfish 19",
+      "pubDate": "Mon, 07 Sep 2026 16:17:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlbGVjLm5ldCUyRm5ld3MlMkZhcnRpY2xlVmlldy5odG1sJTNGaWR4bm8lM0QxMjgzNSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWxlYy5uZXQlMkZuZXdzJTJGYXJ0aWNsZVZpZXcuaHRtbCUzRmlkeG5vJTNEMTI4MzUlN0NTYW1zdW5nJTIwRGVidXRzJTIwekhCTSUyMFByb3RvdHlwZSUyQyUyMFN0YWNraW5nJTIwTWVtb3J5JTIwRGlyZWN0bHklMjBvbiUyMEFJJTIwQWNjZWxlcmF0b3JzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1OTM4OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAwNCUzQTI3JTNBMjklMjAlMkIwMDAw",
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "pubDate": "Mon, 07 Sep 2026 04:27:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
     }
   ]
