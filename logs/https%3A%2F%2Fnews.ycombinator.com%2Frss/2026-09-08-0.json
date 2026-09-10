@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-08",
     "newestItemDate": "2026-09-08",
-    "itemCount": 52,
-    "generatedAt": "2026-09-10T12:58:09.167Z"
+    "itemCount": 55,
+    "generatedAt": "2026-09-10T19:09:14.542Z"
   },
   "items": [
     {
@@ -318,6 +318,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzb2xpZG9iamVjdHMuZGV2JTJGYmxvZyUyRmludHJvZHVjaW5nLXNvbGlkb2JqZWN0cyU3Q2h0dHBzJTNBJTJGJTJGc29saWRvYmplY3RzLmRldiUyRmJsb2clMkZpbnRyb2R1Y2luZy1zb2xpZG9iamVjdHMlN0NPcGVuJTIwU291cmNlJTIwRHVyYWJsZSUyME9iamVjdHMlMjBmb3IlMjBQb3N0Z3JlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjEyMjIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTUlM0E1OSUzQTExJTIwJTJCMDAwMA",
       "title": "Open Source Durable Objects for Postgres",
       "pubDate": "Tue, 08 Sep 2026 15:59:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWdpYy5kZXYlMkZibG9nJTJGcHJldHJhaW5pbmclMjMlN0NodHRwcyUzQSUyRiUyRm1hZ2ljLmRldiUyRmJsb2clMkZwcmV0cmFpbmluZyUyMyU3QyUzRTEweCUyME1vcmUlMjBFZmZpY2llbnQlMjBQcmV0cmFpbmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjEzMDcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTYlM0E1OSUzQTUzJTIwJTJCMDAwMA",
+      "title": ">10x More Efficient Pretraining",
+      "pubDate": "Tue, 08 Sep 2026 16:59:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZW1pcmUubWUlMkZibG9nJTJGMjAyNiUyRjA5JTJGMDMlMkZweXRob24tc2V0cy1hbmQtZGljdGlvbmFyaWVzLWNhbi1oYXZlLXF1YWRyYXRpYy10aW1lLXBlcmZvcm1hbmNlJTJGJTdDaHR0cHMlM0ElMkYlMkZsZW1pcmUubWUlMkZibG9nJTJGMjAyNiUyRjA5JTJGMDMlMkZweXRob24tc2V0cy1hbmQtZGljdGlvbmFyaWVzLWNhbi1oYXZlLXF1YWRyYXRpYy10aW1lLXBlcmZvcm1hbmNlJTJGJTdDUHl0aG9uJTIwc2V0cyUyMGFuZCUyMGRpY3Rpb25hcmllcyUyMGNhbiUyMGhhdmUlMjBxdWFkcmF0aWMtdGltZSUyMHBlcmZvcm1hbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTI0NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNiUzQTE3JTNBNTElMjAlMkIwMDAw",
+      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "pubDate": "Tue, 08 Sep 2026 16:17:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZ6LmNsJTJGcG9zdHMlMkZob3ctdG8td3JpdGUlMkYlN0NodHRwcyUzQSUyRiUyRmRldnouY2wlMkZwb3N0cyUyRmhvdy10by13cml0ZSUyRiU3Q1RvJTIwd3JpdGUlMjBub24tZmljdGlvbiUyQyUyMGRyYXclMjB0aGUlMjB0cnVuayUyQyUyMHRoZW4lMjB0aGUlMjByZXN0JTIwb2YlMjB0aGUlMjB0cmVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTA3ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNCUzQTI1JTNBMDQlMjAlMkIwMDAw",
+      "title": "To write non-fiction, draw the trunk, then the rest of the tree",
+      "pubDate": "Tue, 08 Sep 2026 14:25:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
     }
   ]

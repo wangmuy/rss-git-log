@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-09",
     "newestItemDate": "2026-09-09",
-    "itemCount": 49,
-    "generatedAt": "2026-09-10T12:58:09.167Z"
+    "itemCount": 50,
+    "generatedAt": "2026-09-10T19:09:14.542Z"
   },
   "items": [
     {
@@ -300,6 +300,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkxhcmdlcl9QYWNpZmljX3N0cmlwZWRfb2N0b3B1cyU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZMYXJnZXJfUGFjaWZpY19zdHJpcGVkX29jdG9wdXMlN0NMYXJnZXIlMjBQYWNpZmljJTIwU3RyaXBlZCUyME9jdG9wdXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyMTAxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDA0JTNBMzIlM0EyMiUyMCUyQjAwMDA",
       "title": "Larger Pacific Striped Octopus",
       "pubDate": "Wed, 09 Sep 2026 04:32:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZheWxlcy5naXRodWIuaW8lMkZkb29tLWluLWtlcm5lbCUyRiU3Q2h0dHBzJTNBJTJGJTJGYXlsZXMuZ2l0aHViLmlvJTJGZG9vbS1pbi1rZXJuZWwlMkYlN0NTaG93JTIwSE4lM0ElMjBET09NJTIwaW4lMjB0aGUlMjBrZXJuZWwlMkMlMjBvciUyMGZpYmVycyUyMGluJTIwZUJQRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjMwMTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTclM0EzMSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
+      "pubDate": "Wed, 09 Sep 2026 17:31:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
     }
   ]
