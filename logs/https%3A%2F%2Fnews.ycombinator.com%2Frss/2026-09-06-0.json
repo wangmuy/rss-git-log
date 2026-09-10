@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-06",
     "newestItemDate": "2026-09-06",
-    "itemCount": 53,
-    "generatedAt": "2026-09-09T19:19:30.143Z"
+    "itemCount": 55,
+    "generatedAt": "2026-09-10T04:53:06.861Z"
   },
   "items": [
     {
@@ -324,6 +324,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmhvZnN0ZWRlLml0JTJGYmVzcG9rZS1hLXByb2dyYW1taW5nLWxhbmd1YWdlLWZvci1wZW9wbGUtd2hvLXNheS1wbGVhc2UlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuaG9mc3RlZGUuaXQlMkZiZXNwb2tlLWEtcHJvZ3JhbW1pbmctbGFuZ3VhZ2UtZm9yLXBlb3BsZS13aG8tc2F5LXBsZWFzZSUyRiU3Q0Jlc3Bva2UlM0ElMjBBJTIwcHJvZ3JhbW1pbmclMjBsYW5ndWFnZSUyMGZvciUyMHBlb3BsZSUyMHdobyUyMHNheSUyMHBsZWFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTg0MzYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDYlMjBTZXAlMjAyMDI2JTIwMDglM0ExMyUzQTUzJTIwJTJCMDAwMA",
       "title": "Bespoke: A programming language for people who say please",
       "pubDate": "Sun, 06 Sep 2026 08:13:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW9vZm1hYy5jb20lMkZzcGFjZSUyRnJldmlld3MlMkYyMDI2JTJGMDklMkYwNiUyRjE4MDAlN0NodHRwcyUzQSUyRiUyRnRhb29mbWFjLmNvbSUyRnNwYWNlJTJGcmV2aWV3cyUyRjIwMjYlMkYwOSUyRjA2JTJGMTgwMCU3Q1RoZSUyMEt1eWNvbiUyMFAyMCUyMCVFMiU4MCU5MyUyMDI4JTIyJTIwNDUwMHgzMDAwcHglMjAzJTNBMiUyMG1vbml0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTU5MTUzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA2JTIwU2VwJTIwMjAyNiUyMDIyJTNBMjQlM0ExOCUyMCUyQjAwMDA",
+      "title": "The Kuycon P20 – 28\" 4500x3000px 3:2 monitor",
+      "pubDate": "Sun, 06 Sep 2026 22:24:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZW8tdHAuZ2l0aHViLmlvJTJGRVNQMzItQml0LVBpcmF0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2VvLXRwLmdpdGh1Yi5pbyUyRkVTUDMyLUJpdC1QaXJhdGUlMkYlN0NFU1AzMiUyMEJpdCUyMFBpcmF0ZSUyMEhhcmR3YXJlJTIwSGFja2luZyUyMEtpdCUyMHdpdGglMjBXZWIlMjBUb29scyUyMFRoYXQlMjBTcGVha3MlMjBFdmVyeSUyMFByb3RvY29sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk1ODc0NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNiUyMFNlcCUyMDIwMjYlMjAxNSUzQTI4JTNBNTklMjAlMkIwMDAw",
+      "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
+      "pubDate": "Sun, 06 Sep 2026 15:28:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-06-0.json"
     }
   ]

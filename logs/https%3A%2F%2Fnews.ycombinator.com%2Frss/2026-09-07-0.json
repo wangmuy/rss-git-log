@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-07",
     "newestItemDate": "2026-09-07",
-    "itemCount": 42,
-    "generatedAt": "2026-09-09T19:19:30.143Z"
+    "itemCount": 44,
+    "generatedAt": "2026-09-10T04:53:06.861Z"
   },
   "items": [
     {
@@ -258,6 +258,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyYWh1bHJhdi5jb20lMkZibG9nJTJGbWFnaWNfbW92ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZyYWh1bHJhdi5jb20lMkZibG9nJTJGbWFnaWNfbW92ZS5odG1sJTdDTWFnaWMlMjBNb3ZlJTIwZm9yJTIwQ29kZSUyMFNuaXBwZXRzJTIwZnJvbSUyMGZpcnN0JTIwcHJpbmNpcGxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk5MDEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMTQlM0E0NCUzQTQyJTIwJTJCMDAwMA",
       "title": "Magic Move for Code Snippets from first principles",
       "pubDate": "Mon, 07 Sep 2026 14:44:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJlbWlqb3Vhbi5uZXQlMkZwb3N0cyUyRmxpYnptcS12c29jay1weXptcSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5yZW1pam91YW4ubmV0JTJGcG9zdHMlMkZsaWJ6bXEtdnNvY2stcHl6bXElMkYlN0NVc2UlMjBWc29jayUyMHdpdGglMjBMaWJ6bXElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYwMjYxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA3JTIwU2VwJTIwMjAyNiUyMDIwJTNBMjQlM0E1MyUyMCUyQjAwMDA",
+      "title": "Use Vsock with Libzmq",
+      "pubDate": "Mon, 07 Sep 2026 20:24:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRmFhcmRtYW4taXMtc2VsbGluZy1pdHMtb3JpZ2luYWwtbW92aWUtcHVwcGV0cy10aGlzLW1vbnRoLTIwMDA4MDc5NjglN0NodHRwcyUzQSUyRiUyRmdpem1vZG8uY29tJTJGYWFyZG1hbi1pcy1zZWxsaW5nLWl0cy1vcmlnaW5hbC1tb3ZpZS1wdXBwZXRzLXRoaXMtbW9udGgtMjAwMDgwNzk2OCU3Q0FhcmRtYW4lMjAoV2FsbGFjZSUyMGFuZCUyMEdyb21pdCklMjBJcyUyMFNlbGxpbmclMjBJdHMlMjBPcmlnaW5hbCUyME1vdmllJTIwUHVwcGV0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTkyNzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMDElM0EzNSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
+      "pubDate": "Mon, 07 Sep 2026 01:35:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
     }
   ]
