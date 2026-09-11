@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-10",
     "newestItemDate": "2026-09-10",
-    "itemCount": 40,
-    "generatedAt": "2026-09-11T04:50:00.150Z"
+    "itemCount": 42,
+    "generatedAt": "2026-09-11T19:11:31.489Z"
   },
   "items": [
     {
@@ -246,6 +246,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaG9waWZ5LmVuZ2luZWVyaW5nJTJGYmFjay10by1uYXRpdmUlN0NodHRwcyUzQSUyRiUyRnNob3BpZnkuZW5naW5lZXJpbmclMkZiYWNrLXRvLW5hdGl2ZSU3Q1Nob3BpZnklMjBpcyUyMG1vdmluZyUyMGZyb20lMjBSZWFjdCUyME5hdGl2ZSUyMGJhY2slMjB0byUyMFN3aWZ0JTIwYW5kJTIwS290bGluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDM5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxNCUzQTA5JTNBMzElMjAlMkIwMDAw",
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "pubDate": "Thu, 10 Sep 2026 14:09:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXJmbG91bmRlci53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMDglMkZtYW51YWxseS1jb3B5aW5nLWxvZ2luLWtleWNoYWluLWZpbGVzLWZyb20tb25lLW1hYy10by1hbm90aGVyLW5vLWxvbmdlci13b3Jrcy1vbi1zZWN1cmUtZW5jbGF2ZS1lcXVpcHBlZC1tYWNzLXJ1bm5pbmctbWFjb3MtdGFob2UlMkYlN0NodHRwcyUzQSUyRiUyRmRlcmZsb3VuZGVyLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDklMkYwOCUyRm1hbnVhbGx5LWNvcHlpbmctbG9naW4ta2V5Y2hhaW4tZmlsZXMtZnJvbS1vbmUtbWFjLXRvLWFub3RoZXItbm8tbG9uZ2VyLXdvcmtzLW9uLXNlY3VyZS1lbmNsYXZlLWVxdWlwcGVkLW1hY3MtcnVubmluZy1tYWNvcy10YWhvZSUyRiU3Q0NvcHlpbmclMjBsb2dpbiUyMGtleWNoYWlucyUyMGJldHdlZW4lMjBNYWNzJTIwZmFpbHMlMjBvbiUyMFNlY3VyZSUyMEVuY2xhdmUlMjBNYWNzJTIwd2l0aCUyMFRhaG9lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NTEwNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAyMiUzQTMzJTNBNDUlMjAlMkIwMDAw",
+      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+      "pubDate": "Thu, 10 Sep 2026 22:33:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXN0ZXIuc2klMkZib2RpbHktb2RkaXRpZXMlMkYlN0NodHRwcyUzQSUyRiUyRnZlc3Rlci5zaSUyRmJvZGlseS1vZGRpdGllcyUyRiU3Q1Nob3clMjBITiUzQSUyMEJvZGlseSUyME9kZGl0aWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDk3ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAyMCUzQTMzJTNBMTElMjAlMkIwMDAw",
+      "title": "Show HN: Bodily Oddities",
+      "pubDate": "Thu, 10 Sep 2026 20:33:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
     }
   ]

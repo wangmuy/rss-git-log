@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-09",
     "newestItemDate": "2026-09-09",
-    "itemCount": 51,
-    "generatedAt": "2026-09-11T12:52:25.615Z"
+    "itemCount": 54,
+    "generatedAt": "2026-09-11T19:11:31.489Z"
   },
   "items": [
     {
@@ -312,6 +312,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtbW91c3RhZmEuY29tJTJGYmxvZyUyRnNvLXlvdS13YW50LXRvLXVzZS1vcGVucm91dGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZtbW91c3RhZmEuY29tJTJGYmxvZyUyRnNvLXlvdS13YW50LXRvLXVzZS1vcGVucm91dGVyJTJGJTdDU28lMjB5b3UlMjB3YW50JTIwdG8lMjB1c2UlMjBPcGVuUm91dGVyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjE1NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAwNSUzQTM3JTNBMjElMjAlMkIwMDAw",
       "title": "So you want to use OpenRouter?",
       "pubDate": "Wed, 09 Sep 2026 05:37:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFscGhhZ2Vub21lLWF0bGFzJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFscGhhZ2Vub21lLWF0bGFzJTdDQWxwaGFHZW5vbWUlMjBtYXBzJTIwOUIlMjBETkElMjB2YXJpYW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI0NzE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTElM0EzMCUzQTUxJTIwJTJCMDAwMA",
+      "title": "AlphaGenome maps 9B DNA variants",
+      "pubDate": "Wed, 09 Sep 2026 11:30:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG9yc3RlbmJhbGwuY29tJTJGdGFsa3MlMkZob3ctaS1wcm9tcHQlMkYlN0NodHRwcyUzQSUyRiUyRnRob3JzdGVuYmFsbC5jb20lMkZ0YWxrcyUyRmhvdy1pLXByb21wdCUyRiU3Q0hvdyUyMEklMjBQcm9tcHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyMjQxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDA3JTNBMDclM0E0OCUyMCUyQjAwMDA",
+      "title": "How I Prompt",
+      "pubDate": "Wed, 09 Sep 2026 07:07:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbC5tZWRpYS5taXQuZWR1JTJGbG9nby1mb3VuZGF0aW9uJTJGd2hhdF9pc19sb2dvJTJGbG9nb19wcm9ncmFtbWluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZlbC5tZWRpYS5taXQuZWR1JTJGbG9nby1mb3VuZGF0aW9uJTJGd2hhdF9pc19sb2dvJTJGbG9nb19wcm9ncmFtbWluZy5odG1sJTdDTG9nbyUyMFByb2dyYW1taW5nJTIwTGFuZ3VhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyMjQwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDA3JTNBMDclM0EyNiUyMCUyQjAwMDA",
+      "title": "Logo Programming Language",
+      "pubDate": "Wed, 09 Sep 2026 07:07:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
     }
   ]

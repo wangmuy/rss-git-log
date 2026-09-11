@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-11",
     "newestItemDate": "2026-09-11",
-    "itemCount": 15,
-    "generatedAt": "2026-09-11T12:52:25.615Z"
+    "itemCount": 34,
+    "generatedAt": "2026-09-11T19:11:31.488Z"
   },
   "items": [
     {
@@ -96,6 +96,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2YWxlLnJvY2tzJTJGcG9zdHMlMkZjc3MtcmVsaWNzJTdDaHR0cHMlM0ElMkYlMkZ2YWxlLnJvY2tzJTJGcG9zdHMlMkZjc3MtcmVsaWNzJTdDQ1NTJTIwQ3VyaW9zaXRpZXMlMjBvZiUyMHRoZSUyMFBhc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1NDk2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDA3JTNBNTclM0ExNyUyMCUyQjAwMDA",
       "title": "CSS Curiosities of the Past",
       "pubDate": "Fri, 11 Sep 2026 07:57:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2lhLmdvdiUyRnN0b3JpZXMlMkZzdG9yeSUyRmNpYS1yZWxlYXNlcy1wcmVzaWRlbnRzLWRhaWx5LWJyaWVmcy1pbi1jb21tZW1vcmF0aW9uLW9mLXRoZS0yNXRoLWFubml2ZXJzYXJ5LW9mLTktMTElMkZzZXZlbnR5LW9uZS1kZWNsYXNzaWZpZWQtcHJlc2lkZW50cy1kYWlseS1icmllZi1wcm9kdWN0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNpYS5nb3YlMkZzdG9yaWVzJTJGc3RvcnklMkZjaWEtcmVsZWFzZXMtcHJlc2lkZW50cy1kYWlseS1icmllZnMtaW4tY29tbWVtb3JhdGlvbi1vZi10aGUtMjV0aC1hbm5pdmVyc2FyeS1vZi05LTExJTJGc2V2ZW50eS1vbmUtZGVjbGFzc2lmaWVkLXByZXNpZGVudHMtZGFpbHktYnJpZWYtcHJvZHVjdHMlMkYlN0NEZWNsYXNzaWZpZWQlMjA5JTJGMTElMjByZWxhdGVkJTIwUHJlc2lkZW50J3MlMjBEYWlseSUyMEJyaWVmJTIwcHJvZHVjdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MzA1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE4JTNBMzAlM0EwNyUyMCUyQjAwMDA",
+      "title": "Declassified 9/11 related President's Daily Brief products",
+      "pubDate": "Fri, 11 Sep 2026 18:30:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2VubmV0aHdvbHRlcnMlMkZsaXRlbG0lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZrZW5uZXRod29sdGVycyUyRmxpdGVsbSU3Q0xpdGVsbSUzQSUyMExpdGVMTE0lMjBXaXRob3V0JTIwdGhlJTIwQmxvYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2Mjc2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE4JTNBMTAlM0EyMCUyMCUyQjAwMDA",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "pubDate": "Fri, 11 Sep 2026 18:10:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXBpdGFsYm5ld3Mub3JnJTJGZGF0YS1jZW50ZXJzLXBlcm1pdC1ydWxlcy1lcGElMkYlN0NodHRwcyUzQSUyRiUyRmNhcGl0YWxibmV3cy5vcmclMkZkYXRhLWNlbnRlcnMtcGVybWl0LXJ1bGVzLWVwYSUyRiU3Q1RoZSUyMEVQQSUyMElzJTIwUGxhbm5pbmclMjB0byUyMFNjcmFwJTIwUHVibGljJTIwUmV2aWV3JTIwUnVsZXMlMjBmb3IlMjBEYXRhJTIwQ2VudGVyJTIwUG9sbHV0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjI2NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxOCUzQTA1JTNBMjElMjAlMkIwMDAw",
+      "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+      "pubDate": "Fri, 11 Sep 2026 18:05:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGFyYWRpc2UtcnVubmVyJTJGdG9hc3QlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwYXJhZGlzZS1ydW5uZXIlMkZ0b2FzdCU3Q1Nob3clMjBITiUzQSUyMFRvYXN0JTJDJTIwYSUyMGJlYXV0aWZ1bCUyMGJ5JTIwZGVmYXVsdCUyMGluJTIwdGVybWluYWwlMjBJREUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MjQ5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE3JTNBNTQlM0E1MyUyMCUyQjAwMDA",
+      "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+      "pubDate": "Fri, 11 Sep 2026 17:54:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdW5vLmNvbSUyRmJsb2clMkZpbnRyb2R1Y2luZy12NiU3Q2h0dHBzJTNBJTJGJTJGc3Vuby5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctdjYlN0NTdW5vJTIwdjYlMjByZWxlYXNlZCUyMGZvciUyMG11c2ljJTIwY3JlYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MjQyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE3JTNBNDklM0E0NCUyMCUyQjAwMDA",
+      "title": "Suno v6 released for music creation",
+      "pubDate": "Fri, 11 Sep 2026 17:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoYW5kYWkub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZtYXRoYW5kYWkub3JnJTJGJTdDQSUyMG1pc2FsaWdubWVudCUyMG9mJTIwQUklMjBpbiUyMG1hdGhlbWF0aWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjIzNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxNyUzQTQ1JTNBMTIlMjAlMkIwMDAw",
+      "title": "A misalignment of AI in mathematics",
+      "pubDate": "Fri, 11 Sep 2026 17:45:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlJvb21fNjQxQSU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZSb29tXzY0MUElN0NSb29tJTIwNjQxQSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjYyMzY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTclM0E0NSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Room 641A",
+      "pubDate": "Fri, 11 Sep 2026 17:45:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbmFwLmJlcmtlbGV5LmVkdSUyRiU3Q2h0dHBzJTNBJTJGJTJGc25hcC5iZXJrZWxleS5lZHUlMkYlN0MlQ0UlOUIlMjBTbmFwJTIwJUUyJTgwJTkzJTIwQW4lMjBpbnZpdGluZyUyMHByb2dyYW1taW5nJTIwbGFuZ3VhZ2UlMjBmb3IlMjBraWRzJTIwYW5kJTIwYWR1bHRzJTIwZm9yJTIwQ1MlMjBzdHVkeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjYyMjE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTclM0EzNiUzQTExJTIwJTJCMDAwMA",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "pubDate": "Fri, 11 Sep 2026 17:36:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYS50dCUyRjIwMjYlMkYwOSUyRm1pcmVuZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWEudHQlMkYyMDI2JTJGMDklMkZtaXJlbmUlMkYlN0NJJUUyJTgwJTk5dmUlMjBtYWRlJTIwYW4lMjBvZmZlciUyMHRvJTIwYnV5JTIwUnlhbiUyMFBoZWxhbiUyMGFuZCUyMFN0ZXdhcnQlMjBCcmFuZCVFMiU4MCU5OXMlMjBob3VzZWJvYXQlMjBNaXJlbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MTk5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE3JTNBMjMlM0E0NyUyMCUyQjAwMDA",
+      "title": "I’ve made an offer to buy Ryan Phelan and Stewart Brand’s houseboat Mirene",
+      "pubDate": "Fri, 11 Sep 2026 17:23:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2V0emVwLmNvbSUyRmNhcmVlcnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5nZXR6ZXAuY29tJTJGY2FyZWVycyUyRiU3Q1plcCUyMEFJJTIwKFlDJTIwVzI0KSUyMElzJTIwSGlyaW5nJTIwYSUyMEhlYWQlMjBvZiUyMEZvcndhcmQlMjBEZXBsb3llZCUyMEVuZ2luZWVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjE2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxNyUzQTAwJTNBMTclMjAlMkIwMDAw",
+      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "pubDate": "Fri, 11 Sep 2026 17:00:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudW5zbG9wLm5ld3MlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy51bnNsb3AubmV3cyUyRiU3Q1Nob3clMjBITiUzQSUyMEhhY2tlciUyME5ld3MlMkMlMjBXaXRob3V0JTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MDc4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE2JTNBMDglM0E1MCUyMCUyQjAwMDA",
+      "title": "Show HN: Hacker News, Without AI",
+      "pubDate": "Fri, 11 Sep 2026 16:08:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ29kb3QtcHR5JTJGZ3B0eSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmdvZG90LXB0eSUyRmdwdHklN0NTaG93JTIwSE4lM0ElMjBHb2RvdCUyMGFuZCUyMFJ1c3QlMjBiYXNlZCUyMG11bHRpcGxleGVyJTIwKHRlcm1pbmFsJTIwcGFuZXMlMjBhbmQlMjBtb3JlKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjYwNjc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTYlM0EwMyUzQTA1JTIwJTJCMDAwMA",
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "pubDate": "Fri, 11 Sep 2026 16:03:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbGFjaWVyZXh0aW5jdGlvbi5jb20lN0NodHRwcyUzQSUyRiUyRmdsYWNpZXJleHRpbmN0aW9uLmNvbSUyRiU3Q0dsb2JhbCUyMEdsYWNpZXIlMjBFeHRpbmN0aW9uJTIwRXhwbG9yZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MDU3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE1JTNBNTglM0EwNiUyMCUyQjAwMDA",
+      "title": "Global Glacier Extinction Explorer",
+      "pubDate": "Fri, 11 Sep 2026 15:58:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGMTE4LW1pbGxpb24tcXVlcmllcy1wZXItc2Vjb25kLW9uLW5la2klN0NodHRwcyUzQSUyRiUyRnBsYW5ldHNjYWxlLmNvbSUyRmJsb2clMkYxMTgtbWlsbGlvbi1xdWVyaWVzLXBlci1zZWNvbmQtb24tbmVraSU3QzExOE0lMjBRdWVyaWVzJTIwcGVyJTIwU2Vjb25kJTIwb24lMjBOZWtpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjA1NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxNSUzQTU2JTNBMzclMjAlMkIwMDAw",
+      "title": "118M Queries per Second on Neki",
+      "pubDate": "Fri, 11 Sep 2026 15:56:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW5lLmJ1aWxkJTJGYmxvZyUyRnJ1bmUtaXMtbm93LW9wZW4tc291cmNlJTdDaHR0cHMlM0ElMkYlMkZydW5lLmJ1aWxkJTJGYmxvZyUyRnJ1bmUtaXMtbm93LW9wZW4tc291cmNlJTdDUnVuZSUyMGlzJTIwbm93JTIwb3BlbiUyMHNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjYwMTQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTUlM0EzMSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Rune is now open source",
+      "pubDate": "Fri, 11 Sep 2026 15:31:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRnNlY3VyaXR5LnR4dCU3Q2h0dHBzJTNBJTJGJTJGaHVnZ2luZ2ZhY2UuY28lMkZzZWN1cml0eS50eHQlN0NIdWdnaW5nRmFjZSUzQSUyMFNlY3VyaXR5LnR4dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjU5MjQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTQlM0EzOCUzQTEzJTIwJTJCMDAwMA",
+      "title": "HuggingFace: Security.txt",
+      "pubDate": "Fri, 11 Sep 2026 14:38:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJlbmRpbC5jb20lMkZwb3N0cyUyRm1lYXN1cmluZy1jb2RlLXNsb3BwaW5lc3MlMkYlN0NodHRwcyUzQSUyRiUyRmVhcmVuZGlsLmNvbSUyRnBvc3RzJTJGbWVhc3VyaW5nLWNvZGUtc2xvcHBpbmVzcyUyRiU3Q01lYXN1cmluZyUyMHRoZSUyMHNsb3BwaW5lc3MlMjBvZiUyMGNvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1ODMxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDEzJTNBNDIlM0EyOCUyMCUyQjAwMDA",
+      "title": "Measuring the sloppiness of code",
+      "pubDate": "Fri, 11 Sep 2026 13:42:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTUxNzExMDAtYWdlLWFzc3VyYW5jZS1vbi1jbGF1ZGUlN0NodHRwcyUzQSUyRiUyRnN1cHBvcnQuY2xhdWRlLmNvbSUyRmVuJTJGYXJ0aWNsZXMlMkYxNTE3MTEwMC1hZ2UtYXNzdXJhbmNlLW9uLWNsYXVkZSU3Q0NsYXVkZSUyMGlzJTIwb25seSUyMGF2YWlsYWJsZSUyMHRvJTIwcGVvcGxlJTIwb3ZlciUyMDE4JTIweWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1NjIyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDEwJTNBNDglM0EwMCUyMCUyQjAwMDA",
+      "title": "Claude is only available to people over 18 years",
+      "pubDate": "Fri, 11 Sep 2026 10:48:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5pYWVhLm9yZyUyRm5ld3NjZW50ZXIlMkZuZXdzJTJGd2hhdC1pcy1jaGVyZW5rb3YtcmFkaWF0aW9uJTdDaHR0cCUzQSUyRiUyRnd3dy5pYWVhLm9yZyUyRm5ld3NjZW50ZXIlMkZuZXdzJTJGd2hhdC1pcy1jaGVyZW5rb3YtcmFkaWF0aW9uJTdDQ2hlcmVua292JTIwUmFkaWF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NTUyODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAwOCUzQTQyJTNBMDQlMjAlMkIwMDAw",
+      "title": "Cherenkov Radiation",
+      "pubDate": "Fri, 11 Sep 2026 08:42:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
     }
   ]
