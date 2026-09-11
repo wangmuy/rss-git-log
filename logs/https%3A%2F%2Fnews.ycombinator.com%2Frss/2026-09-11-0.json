@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-11",
     "newestItemDate": "2026-09-11",
-    "itemCount": 6,
-    "generatedAt": "2026-09-11T04:50:00.150Z"
+    "itemCount": 15,
+    "generatedAt": "2026-09-11T12:52:25.615Z"
   },
   "items": [
     {
@@ -42,6 +42,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXAteXVlMi5naXRodWIuaW8lMkYlN0NodHRwcyUzQSUyRiUyRm1hcC15dWUyLmdpdGh1Yi5pbyUyRiU3Q1l1RTIlMjAlQzIlQjclMjBGcm9udGllciUyME11c2ljJTIwd2l0aCUyMFN5bWJvbGljJTIwUGxhbm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1MjAyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDAwJTNBMzMlM0EyNiUyMCUyQjAwMDA",
       "title": "YuE2 · Frontier Music with Symbolic Planning",
       "pubDate": "Fri, 11 Sep 2026 00:33:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlbmV4dG1vdmUub3JnJTJGcCUyRnJlbWVtYmVyLWhvbmcta29uZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZW5leHRtb3ZlLm9yZyUyRnAlMkZyZW1lbWJlci1ob25nLWtvbmclN0NSZW1lbWJlciUyMEhvbmclMjBLb25nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NTczNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxMiUzQTM0JTNBMjUlMjAlMkIwMDAw",
+      "title": "Remember Hong Kong",
+      "pubDate": "Fri, 11 Sep 2026 12:34:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkRhdmlkQWdyYW5vdmljaCUyRnN0YXR1cyUyRjIwOTgxNjg1MjI4NjIyMTU0NDklN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGRGF2aWRBZ3Jhbm92aWNoJTJGc3RhdHVzJTJGMjA5ODE2ODUyMjg2MjIxNTQ0OSU3Q01vb25zaG90JTIwc2VydmVzJTIwQ2xhdWRlJTIwaW5zdGVhZCUyMG9mJTIwS2ltaSUyMGFuZCUyMGNvbGxlY3RzJTIwZXhjaGFuZ2VzJTIwZm9yJTIwbW9kZWwlMjB0cmFpbmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjU2Njk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTElM0EzNiUzQTI0JTIwJTJCMDAwMA",
+      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+      "pubDate": "Fri, 11 Sep 2026 11:36:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVuZXh0d2ViLmNvbSUyRm5ld3MlMkZtb3NzZXJpLWluc3RhZ3JhbS1hbGdvcml0aG0tb3B0LW91dC1lbmdhZ2VtZW50LWF1c3RyYWxpYSU3Q2h0dHBzJTNBJTJGJTJGdGhlbmV4dHdlYi5jb20lMkZuZXdzJTJGbW9zc2VyaS1pbnN0YWdyYW0tYWxnb3JpdGhtLW9wdC1vdXQtZW5nYWdlbWVudC1hdXN0cmFsaWElN0NJbnN0YWdyYW0ncyUyMGhlYWQlMjBzYXlzJTIwZW5nYWdlbWVudCUyMGZhbGxzJTIwYnklMjBoYWxmJTIwd2l0aG91dCUyMHRoZSUyMGFsZ29yaXRobSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjU2NTY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTElM0EyNCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Instagram's head says engagement falls by half without the algorithm",
+      "pubDate": "Fri, 11 Sep 2026 11:24:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVzZWFyY2hhZ2VuZGEubmV3cyUyRmFydGljbGVzJTJGdGhlLXdheW1vLWVmZmVjdC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVzZWFyY2hhZ2VuZGEubmV3cyUyRmFydGljbGVzJTJGdGhlLXdheW1vLWVmZmVjdC5odG1sJTdDVGhlJTIwV2F5bW8lMjBlZmZlY3QlM0ElMjBob3clMjBBSSUyMGlzJTIwcXVpZXRseSUyMG1ha2luZyUyMHJlc2VhcmNoJTIwbGVzcyUyMGNvbGxhYm9yYXRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1NjQ5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDExJTNBMTclM0E1MCUyMCUyQjAwMDA",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "pubDate": "Fri, 11 Sep 2026 11:17:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRmRvZXMtcnRrLW1ha2UtYWktY29kaW5nLWNoZWFwZXIlMkYlN0NodHRwcyUzQSUyRiUyRnF1ZXNtYS5jb20lMkZibG9nJTJGZG9lcy1ydGstbWFrZS1haS1jb2RpbmctY2hlYXBlciUyRiU3Q1JUSyUyMHJlcG9ydHMlMjB0b2tlbiUyMHNhdmluZ3MlMkMlMjBidXQlMjBvdXIlMjBjb3N0JTIwYmVuY2htYXJrcyUyMGRpc2FncmVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NTY0NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxMSUzQTE1JTNBMTMlMjAlMkIwMDAw",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "pubDate": "Fri, 11 Sep 2026 11:15:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmNsYXVkZS5jb20lMkZlbiUyRmFydGljbGVzJTJGMTUxNzExMDAtYWdlLWFzc3VyYW5jZS1vbi1jbGF1ZGUlN0NodHRwcyUzQSUyRiUyRnN1cHBvcnQuY2xhdWRlLmNvbSUyRmVuJTJGYXJ0aWNsZXMlMkYxNTE3MTEwMC1hZ2UtYXNzdXJhbmNlLW9uLWNsYXVkZSU3Q0NsYXVkZSUyMGlzJTIwbm8lMjBsb25nZXIlMjBhdmFpbGFibGUlMjBmb3IlMjBtaW5vcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1NjIyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDEwJTNBNDglM0EwMCUyMCUyQjAwMDA",
+      "title": "Claude is no longer available for minors",
+      "pubDate": "Fri, 11 Sep 2026 10:48:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5pYWVhLm9yZyUyRm5ld3NjZW50ZXIlMkZuZXdzJTJGd2hhdC1pcy1jaGVyZW5rb3YtcmFkaWF0aW9uJTdDaHR0cCUzQSUyRiUyRnd3dy5pYWVhLm9yZyUyRm5ld3NjZW50ZXIlMkZuZXdzJTJGd2hhdC1pcy1jaGVyZW5rb3YtcmFkaWF0aW9uJTdDQ2hlcmVua292JTIwUmFkaWF0aW9uJTIwLSUyMHRyYXZlbGluZyUyMGZhc3RlciUyMHRoYW4lMjBsaWdodCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjU1Mjg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMDglM0E0MiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "pubDate": "Fri, 11 Sep 2026 08:42:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk5laWp1YW4lN0NodHRwcyUzQSUyRiUyRmVuLndpa2lwZWRpYS5vcmclMkZ3aWtpJTJGTmVpanVhbiU3Q05laWp1YW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1NTE3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDA4JTNBMjYlM0E1NiUyMCUyQjAwMDA",
+      "title": "Neijuan",
+      "pubDate": "Fri, 11 Sep 2026 08:26:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YWxlLnJvY2tzJTJGcG9zdHMlMkZjc3MtcmVsaWNzJTdDaHR0cHMlM0ElMkYlMkZ2YWxlLnJvY2tzJTJGcG9zdHMlMkZjc3MtcmVsaWNzJTdDQ1NTJTIwQ3VyaW9zaXRpZXMlMjBvZiUyMHRoZSUyMFBhc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1NDk2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDA3JTNBNTclM0ExNyUyMCUyQjAwMDA",
+      "title": "CSS Curiosities of the Past",
+      "pubDate": "Fri, 11 Sep 2026 07:57:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
     }
   ]
