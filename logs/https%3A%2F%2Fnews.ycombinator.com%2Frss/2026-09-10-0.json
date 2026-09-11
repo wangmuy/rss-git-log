@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-10",
     "newestItemDate": "2026-09-10",
-    "itemCount": 29,
-    "generatedAt": "2026-09-10T19:09:14.541Z"
+    "itemCount": 40,
+    "generatedAt": "2026-09-11T04:50:00.150Z"
   },
   "items": [
     {
@@ -180,6 +180,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoc3RvZG9uLnh5eiUyRiU0MGFuZHJlYXN0aG9tJTJGMTE3MjQwNTM1MjcwNjA4MjAxJTdDaHR0cHMlM0ElMkYlMkZtYXRoc3RvZG9uLnh5eiUyRiU0MGFuZHJlYXN0aG9tJTJGMTE3MjQwNTM1MjcwNjA4MjAxJTdDTW9yZSUyMHF1ZXN0aW9ucyUyMGFib3V0JTIwd2hldGhlciUyMHJlc2VhcmNoZXJzJTIwY2FuJTIwdHJ1c3QlMjBPcGVuQUklMjB3aXRoJTIwdW5wdWJsaXNoZWQlMjBtYXRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2Mzk0MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAwNiUzQTQ5JTNBNDMlMjAlMkIwMDAw",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "pubDate": "Thu, 10 Sep 2026 06:49:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzeXN0ZW03Ni5jb20lMkZ3b3Jrc3RhdGlvbnMlMkZ0aGVsaW8tbWlyYS1haSU3Q2h0dHBzJTNBJTJGJTJGc3lzdGVtNzYuY29tJTJGd29ya3N0YXRpb25zJTJGdGhlbGlvLW1pcmEtYWklN0NUaGVsaW8lMjBNaXJhJTIwQUklMjBMaW51eCUyMFdvcmtzdGF0aW9uJTNBJTIwMTkyJTIwR0IlMjBHUFUlMjBNZW1vcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1MTM3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDIzJTNBMTAlM0EwNiUyMCUyQjAwMDA",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "pubDate": "Thu, 10 Sep 2026 23:10:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXN1dHRvbi5ub3Rpb24uc2l0ZSUyRk5pbmUtY29kaW5nLWhhcm5lc3Nlcy12cy15b3VyLWxhcHRvcC0zZDEzOTk5MDE4MmI4MGQ1OWZhM2NmNTAwZjA0NTBiYSUzRnB2cyUzRDc0JTdDaHR0cHMlM0ElMkYlMkZuYXN1dHRvbi5ub3Rpb24uc2l0ZSUyRk5pbmUtY29kaW5nLWhhcm5lc3Nlcy12cy15b3VyLWxhcHRvcC0zZDEzOTk5MDE4MmI4MGQ1OWZhM2NmNTAwZjA0NTBiYSUzRnB2cyUzRDc0JTdDTmluZSUyMGNvZGluZyUyMGhhcm5lc3NlcyUyMHZzLiUyMHlvdXIlMjBsYXB0b3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1MTIyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDIyJTNBNTQlM0EwMSUyMCUyQjAwMDA",
+      "title": "Nine coding harnesses vs. your laptop",
+      "pubDate": "Thu, 10 Sep 2026 22:54:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnRzYi5nb3YlM0E0NDMlMkZuZXdzJTJGcHJlc3MtcmVsZWFzZXMlMkZQYWdlcyUyRk5SMjAyNjA5MDkuYXNweCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm50c2IuZ292JTJGbmV3cyUyRnByZXNzLXJlbGVhc2VzJTJGUGFnZXMlMkZOUjIwMjYwOTA5LmFzcHglN0NOVFNCJTIwaXNzdWVzJTIwaW52ZXN0aWdhdGl2ZSUyMHVwZGF0ZSUyMG9uJTIwQi03NjclMjBydW53YXklMjBleGN1cnNpb24lMjBhY2NpZGVudCUyMGluJTIwTWlhbWklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1MDQxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDIxJTNBMzAlM0E1NSUyMCUyQjAwMDA",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "pubDate": "Thu, 10 Sep 2026 21:30:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZXJ5YmVuYXZlbnRlLm1lJTJGYmxvZyUyRnByb29mLW9mLWNhcHR1cmUlN0NodHRwcyUzQSUyRiUyRm1lcnliZW5hdmVudGUubWUlMkZibG9nJTJGcHJvb2Ytb2YtY2FwdHVyZSU3Q1Byb29mJTIwb2YlMjBDYXB0dXJlJTNBJTIwQXBwbGUlMjBSZWZlcmVuY2UlMjBJbWFnZSUyQyUyMGJ1dCUyMG9wZW4lMjBzb3VyY2UlMjBhbmQlMjB1c2luZyUyMHN0ZWdhbm9ncmFwaHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY0OTIyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDE5JTNBNDQlM0ExNSUyMCUyQjAwMDA",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "pubDate": "Thu, 10 Sep 2026 19:44:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLm9wZW5haS5jb20lMkZhcGklMkZkb2NzJTJGZ3VpZGVzJTJGYWdlbnRzLWFwaSUyRm92ZXJ2aWV3JTdDaHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLm9wZW5haS5jb20lMkZhcGklMkZkb2NzJTJGZ3VpZGVzJTJGYWdlbnRzLWFwaSUyRm92ZXJ2aWV3JTdDT3BlbkFJJTIwQWdlbnRzJTIwQVBJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDkyMTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTQzJTNBMjIlMjAlMkIwMDAw",
+      "title": "OpenAI Agents API",
+      "pubDate": "Thu, 10 Sep 2026 19:43:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdWJlcm9uLnh5eiUyRmJsb2clMkZwb3N0cyUyRmRlYXRocmF5JTJGJTdDaHR0cHMlM0ElMkYlMkZhdWJlcm9uLnh5eiUyRmJsb2clMkZwb3N0cyUyRmRlYXRocmF5JTJGJTdDVGhlJTIwRGVhdGhyYXklM0ElMjBBJTIwc2ltcGxlJTIwd2F5JTIwZm9yJTIwYW4lMjB1bnRydXN0ZWQlMjBzaXRlJTIwdG8lMjBmcmVlemUlMjBhJTIwTWFjJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDkxMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTM0JTNBMjAlMjAlMkIwMDAw",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "pubDate": "Thu, 10 Sep 2026 19:34:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnRocmVhdC1pbnRlbGxpZ2VuY2UtcmVwb3J0LXNlcHRlbWJlci0yMDI2JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnRocmVhdC1pbnRlbGxpZ2VuY2UtcmVwb3J0LXNlcHRlbWJlci0yMDI2JTdDRGV0ZWN0aW5nJTIwYW5kJTIwY291bnRlcmluZyUyMG1pc3VzZSUyMG9mJTIwQUklM0ElMjBTZXB0ZW1iZXIlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDczMDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxNyUzQTIzJTNBNDIlMjAlMkIwMDAw",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "pubDate": "Thu, 10 Sep 2026 17:23:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctbmVraSU3Q2h0dHBzJTNBJTJGJTJGcGxhbmV0c2NhbGUuY29tJTJGYmxvZyUyRmludHJvZHVjaW5nLW5la2klN0NOZWtpJTIwJUUyJTgwJTkzJTIwU2hhcmRlZCUyMFBvc3RncmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDU2ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxNSUzQTQzJTNBNDklMjAlMkIwMDAw",
+      "title": "Neki – Sharded Postgres",
+      "pubDate": "Thu, 10 Sep 2026 15:43:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGlub2ZmLm5hc2EuZ292JTJGTWFuaXB1bGF0aW5nX1NhdGVsbGl0ZV9QaG90b3NfTm93X1JldmVhbHNfQW5jaWVudF9JbWFnZXMlN0NodHRwcyUzQSUyRiUyRnNwaW5vZmYubmFzYS5nb3YlMkZNYW5pcHVsYXRpbmdfU2F0ZWxsaXRlX1Bob3Rvc19Ob3dfUmV2ZWFsc19BbmNpZW50X0ltYWdlcyU3Q1RlY2huaXF1ZSUyMGZvciUyME1hbmlwdWxhdGluZyUyMFNhdGVsbGl0ZSUyMFBob3RvcyUyME5vdyUyMFJldmVhbHMlMjBBbmNpZW50JTIwSW1hZ2VzJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDU0MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxNSUzQTI5JTNBMzAlMjAlMkIwMDAw",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "pubDate": "Thu, 10 Sep 2026 15:29:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZoYW5kcy1vZmYtbXktY2FibGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZoYW5kcy1vZmYtbXktY2FibGVzJTJGJTdDRG9uJ3QlMjBsZXQlMjBhbnlvbmUlMjB0YWtlJTIwYXdheSUyMHlvdXIlMjBiaWclMjBib3glMjBvZiUyMGNhYmxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjQ1MzkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTAlMjBTZXAlMjAyMDI2JTIwMTUlM0EyNyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Don't let anyone take away your big box of cables",
+      "pubDate": "Thu, 10 Sep 2026 15:27:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaG9waWZ5LmVuZ2luZWVyaW5nJTJGYmFjay10by1uYXRpdmUlN0NodHRwcyUzQSUyRiUyRnNob3BpZnkuZW5naW5lZXJpbmclMkZiYWNrLXRvLW5hdGl2ZSU3Q1Nob3BpZnklMjBpcyUyMG1vdmluZyUyMGZyb20lMjBSZWFjdCUyME5hdGl2ZSUyMGJhY2slMjB0byUyMFN3aWZ0JTIwYW5kJTIwS290bGluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDM5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxNCUzQTA5JTNBMzElMjAlMkIwMDAw",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "pubDate": "Thu, 10 Sep 2026 14:09:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
     }
   ]

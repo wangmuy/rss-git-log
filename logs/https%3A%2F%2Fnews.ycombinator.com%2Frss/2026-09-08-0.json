@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-08",
     "newestItemDate": "2026-09-08",
-    "itemCount": 55,
-    "generatedAt": "2026-09-10T19:09:14.542Z"
+    "itemCount": 57,
+    "generatedAt": "2026-09-11T04:50:00.150Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXZ6LmNsJTJGcG9zdHMlMkZob3ctdG8td3JpdGUlMkYlN0NodHRwcyUzQSUyRiUyRmRldnouY2wlMkZwb3N0cyUyRmhvdy10by13cml0ZSUyRiU3Q1RvJTIwd3JpdGUlMjBub24tZmljdGlvbiUyQyUyMGRyYXclMjB0aGUlMjB0cnVuayUyQyUyMHRoZW4lMjB0aGUlMjByZXN0JTIwb2YlMjB0aGUlMjB0cmVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MTA3ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwOCUyMFNlcCUyMDIwMjYlMjAxNCUzQTI1JTNBMDQlMjAlMkIwMDAw",
       "title": "To write non-fiction, draw the trunk, then the rest of the tree",
       "pubDate": "Tue, 08 Sep 2026 14:25:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRvdWJsZXdvcmQuYWklMkZ3aGF0LWhhcHBlbnMtd2hlbi1hLWdwdS13cml0ZXMtbWVtb3J5JTdDaHR0cHMlM0ElMkYlMkZibG9nLmRvdWJsZXdvcmQuYWklMkZ3aGF0LWhhcHBlbnMtd2hlbi1hLWdwdS13cml0ZXMtbWVtb3J5JTdDV2hhdCUyMGhhcHBlbnMlMjB3aGVuJTIwYSUyMEdQVSUyMHdyaXRlcyUyMG1lbW9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjE1OTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMTklM0E0NiUzQTU5JTIwJTJCMDAwMA",
+      "title": "What happens when a GPU writes memory",
+      "pubDate": "Tue, 08 Sep 2026 19:46:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMDclMkZmaW5pdGUtdGltZS1ibG93dXAtd2l0aC1zbW9vdGgtZm9yY2luZy10ZXJtLWZvci10aGUtaW5jb21wcmVzc2libGUtcG9yb3VzLW1lZGl1bS1ib3Vzc2luZXNxLWFuZC1pbmNvbXByZXNzaWJsZS1ldWxlci1lcXVhdGlvbnMlMkYlN0NodHRwcyUzQSUyRiUyRnRlcnJ5dGFvLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDklMkYwNyUyRmZpbml0ZS10aW1lLWJsb3d1cC13aXRoLXNtb290aC1mb3JjaW5nLXRlcm0tZm9yLXRoZS1pbmNvbXByZXNzaWJsZS1wb3JvdXMtbWVkaXVtLWJvdXNzaW5lc3EtYW5kLWluY29tcHJlc3NpYmxlLWV1bGVyLWVxdWF0aW9ucyUyRiU3Q0Zpbml0ZSUyMHRpbWUlMjBibG93dXAlMjB3aXRoJTIwc21vb3RoJTIwZm9yY2luZyUyMHRlcm0lMjBmb3IlMjB0aGUlMjBpbmNvbXByZXNzaWJsZSUyMHBvcm91cyUyMG1lZGl1bSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjA3OTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDglMjBTZXAlMjAyMDI2JTIwMDklM0EzOCUzQTI1JTIwJTJCMDAwMA",
+      "title": "Finite time blowup with smooth forcing term for the incompressible porous medium",
+      "pubDate": "Tue, 08 Sep 2026 09:38:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-08-0.json"
     }
   ]
