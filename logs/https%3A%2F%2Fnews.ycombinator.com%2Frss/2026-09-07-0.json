@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-07",
     "newestItemDate": "2026-09-07",
-    "itemCount": 50,
-    "generatedAt": "2026-09-11T19:11:31.489Z"
+    "itemCount": 51,
+    "generatedAt": "2026-09-12T12:13:44.973Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGlueWJpcmQuY28lMkZibG9nJTJGd2hhdC1pLWxlYXJuZWQtb3BlcmF0aW5nLWNsaWNraG91c2UlN0NodHRwcyUzQSUyRiUyRnd3dy50aW55YmlyZC5jbyUyRmJsb2clMkZ3aGF0LWktbGVhcm5lZC1vcGVyYXRpbmctY2xpY2tob3VzZSU3Q0kndmUlMjBvcGVyYXRlZCUyMHBldGFieXRlLXNjYWxlJTIwQ2xpY2tIb3VzZSUyMGNsdXN0ZXJzJTIwZm9yJTIwNSUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MDExMzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNyUyMFNlcCUyMDIwMjYlMjAxOCUzQTA1JTNBMDQlMjAlMkIwMDAw",
       "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "pubDate": "Mon, 07 Sep 2026 18:05:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVvcmFuZ2VkdWNrLmNvbSUyRnBhZ2UlMkZpbnZlcnNlLWtpbmVtYXRpY3MtZm9vdC1sb2NraW5nJTdDaHR0cHMlM0ElMkYlMkZ0aGVvcmFuZ2VkdWNrLmNvbSUyRnBhZ2UlMkZpbnZlcnNlLWtpbmVtYXRpY3MtZm9vdC1sb2NraW5nJTdDSW52ZXJzZSUyMEtpbmVtYXRpY3MlMjBhbmQlMjBGb290JTIwTG9ja2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NTk1NTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDclMjBTZXAlMjAyMDI2JTIwMDglM0EyMSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Inverse Kinematics and Foot Locking",
+      "pubDate": "Mon, 07 Sep 2026 08:21:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-07-0.json"
     }
   ]

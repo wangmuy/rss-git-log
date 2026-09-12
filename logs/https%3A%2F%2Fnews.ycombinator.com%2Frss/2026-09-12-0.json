@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 5,
-    "generatedAt": "2026-09-12T04:43:21.170Z"
+    "itemCount": 15,
+    "generatedAt": "2026-09-12T12:13:44.972Z"
   },
   "items": [
     {
@@ -36,6 +36,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemFjaHNhdyUyRmdyYXBoaWZ5LWNzaGFycCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnphY2hzYXclMkZncmFwaGlmeS1jc2hhcnAlN0NTaG93JTIwSE4lM0ElMjBHcmFwaGlmeSUyMEMlMjMlMjAlRTIlODAlOTMlMjBDb21waWxlci1hY2N1cmF0ZSUyMEZpbmQlMjBVc2FnZXMlMjBmb3IlMjBjb2RpbmclMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2NzE4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDAwJTNBMTYlM0ExMCUyMCUyQjAwMDA",
       "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
       "pubDate": "Sat, 12 Sep 2026 00:16:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuam9lbG90dGVyLmNvbSUyRnBvc3RzJTJGMjAyNiUyRjA5JTJGbWFrZS1pdC1hbnl3YXklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5qb2Vsb3R0ZXIuY29tJTJGcG9zdHMlMkYyMDI2JTJGMDklMkZtYWtlLWl0LWFueXdheSUyRiU3Q0Z1Y2slMjBpdCUyQyUyMG1ha2UlMjBpdCUyMGFueXdheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcxMzI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTElM0E0MiUzQTMyJTIwJTJCMDAwMA",
+      "title": "Fuck it, make it anyway",
+      "pubDate": "Sat, 12 Sep 2026 11:42:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRmFtZXJpY2FzJTJGaGlkZGVuLWNyeXB0by1mYXJtLW1leGljYW4tbW91bnRhaW5zLXB1dHMtc3BvdGxpZ2h0LWNhcnRlbC1mdW5kaW5nLTIwMjYtMDktMTIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRndvcmxkJTJGYW1lcmljYXMlMkZoaWRkZW4tY3J5cHRvLWZhcm0tbWV4aWNhbi1tb3VudGFpbnMtcHV0cy1zcG90bGlnaHQtY2FydGVsLWZ1bmRpbmctMjAyNi0wOS0xMiUyRiU3Q0NyeXB0byUyMGZhcm0lMjBpbiUyME1leGljYW4lMjBtb3VudGFpbnMlMjBwdXRzJTIwc3BvdGxpZ2h0JTIwb24lMjBjYXJ0ZWwlMjBmdW5kaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzEyOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxMSUzQTM3JTNBMjIlMjAlMkIwMDAw",
+      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+      "pubDate": "Sat, 12 Sep 2026 11:37:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRmFsdG1hbi10ZWxscy1zdGFmZi1vcGVuYWktaXMtb3Blbi1zbG93aW5nLWFpLWRldmVsb3BtZW50LWJsb29tYmVyZy1uZXdzLXJlcG9ydHMtMjAyNi0wOS0xMSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGYnVzaW5lc3MlMkZhbHRtYW4tdGVsbHMtc3RhZmYtb3BlbmFpLWlzLW9wZW4tc2xvd2luZy1haS1kZXZlbG9wbWVudC1ibG9vbWJlcmctbmV3cy1yZXBvcnRzLTIwMjYtMDktMTElMkYlN0NBbHRtYW4lMjB0ZWxscyUyMHN0YWZmJTIwT3BlbkFJJTIwaXMlMjBvcGVuJTIwdG8lMjBzbG93aW5nJTIwQUklMjBkZXZlbG9wbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcxMjc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTElM0EzMyUzQTAyJTIwJTJCMDAwMA",
+      "title": "Altman tells staff OpenAI is open to slowing AI development",
+      "pubDate": "Sat, 12 Sep 2026 11:33:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWRpdW0uY28lMkYyMDI2JTJGMDklMkYxMSUyRmlsYW5kcy1hZ2VudHMtZW1haWwtc3BhbS1rYWl4aW4tdGFuZyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVkaXVtLmNvJTJGMjAyNiUyRjA5JTJGMTElMkZpbGFuZHMtYWdlbnRzLWVtYWlsLXNwYW0ta2FpeGluLXRhbmclMkYlN0NUaGUlMjBXb3JzdCUyMFNwYW0lMjBFbWFpbHMlM0ElMjBJbnNpZGUlMjBpTGFuZHMnJTIwQUklMjBBZ2VudCUyMEh1c3RsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcxMTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTElM0ExMyUzQTM4JTIwJTJCMDAwMA",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "pubDate": "Sat, 12 Sep 2026 11:13:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGYm9va3MlMkYyMDI2JTJGc2VwJTJGMTIlMkZuYW9taS1rbGVpbi1leHRyZW1lLXdlYWx0aC1oYXMtYS1kZXJhbmdpbmctZWZmZWN0LWl0LXR1cm5zLXlvdS1pbnRvLWEtc3VwcmVtYWNpc3QlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZib29rcyUyRjIwMjYlMkZzZXAlMkYxMiUyRm5hb21pLWtsZWluLWV4dHJlbWUtd2VhbHRoLWhhcy1hLWRlcmFuZ2luZy1lZmZlY3QtaXQtdHVybnMteW91LWludG8tYS1zdXByZW1hY2lzdCU3Q05hb21pJTIwS2xlaW4lM0ElMjBFeHRyZW1lJTIwd2VhbHRoJTIwaGFzJTIwYSUyMGRlcmFuZ2luZyUyMGVmZmVjdC4lMjBUdXJucyUyMHlvdSUyMGludG8lMjBhJTIwc3VwcmVtYWNpc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3MTEzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDExJTNBMDglM0E1OCUyMCUyQjAwMDA",
+      "title": "Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist",
+      "pubDate": "Sat, 12 Sep 2026 11:08:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGbmV3cyUyRmFydGljbGVzJTJGY3JtOTMyZWwzeWpvJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGbmV3cyUyRmFydGljbGVzJTJGY3JtOTMyZWwzeWpvJTdDV2UndmUlMjBmb2xsb3dlZCUyMHRoZWlyJTIwbGl2ZXMlMjBmb3IlMjBzaXglMjBkZWNhZGVzJTNCJTIwbm93JTIwdGhlJTIwc3RhcnMlMjBvZiUyMDclMjBVcCUyMGFyZSUyMGJvd2luZyUyMG91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcwOTgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTAlM0EzOSUzQTAzJTIwJTJCMDAwMA",
+      "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+      "pubDate": "Sat, 12 Sep 2026 10:39:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbWMubmNiaS5ubG0ubmloLmdvdiUyRmFydGljbGVzJTJGUE1DMTI5NjU4MjMlMkYlN0NodHRwcyUzQSUyRiUyRnBtYy5uY2JpLm5sbS5uaWguZ292JTJGYXJ0aWNsZXMlMkZQTUMxMjk2NTgyMyUyRiU3Q1Jlc2lzdGFuY2UlMjBUcmFpbmluZyUyMFByZXNjcmlwdGlvbiUyMGZvciUyME11c2NsZSUyMEZ1bmN0aW9uJTJDJTIwSHlwZXJ0cm9waHklMjBpbiUyMEhlYWx0aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcwNDkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMDklM0EwOCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+      "pubDate": "Sat, 12 Sep 2026 09:08:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlaWxuLmdpdGh1Yi5pbyUyRnBvc3RzJTJGYW5lLmh0bWwlN0NodHRwcyUzQSUyRiUyRmVpbG4uZ2l0aHViLmlvJTJGcG9zdHMlMkZhbmUuaHRtbCU3Q1JldHJvc3BlY3RpdmVseSUyMFJldmVyc2UtRW5naW5lZXJpbmclMjBBcHBsZSdzJTIwTmV1cmFsJTIwRW5naW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzAwMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAwNyUzQTU0JTNBMDMlMjAlMkIwMDAw",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "pubDate": "Sat, 12 Sep 2026 07:54:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2xheW1hdGgub3JnJTJGbmV3cyUyRm5hdmllci1zdG9rZXMtYW5ub3VuY2VtZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2xheW1hdGgub3JnJTJGbmV3cyUyRm5hdmllci1zdG9rZXMtYW5ub3VuY2VtZW50JTJGJTdDTmF2aWVyLVN0b2tlcyUyMEFubm91bmNlbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjY4NzA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMDQlM0EwOSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Navier-Stokes Announcement",
+      "pubDate": "Sat, 12 Sep 2026 04:09:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXV0b20uZGV2JTJGYmxvZyUyRmdvb2dsZS1zZWFyY2gtZ290by1saW5rcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmF1dG9tLmRldiUyRmJsb2clMkZnb29nbGUtc2VhcmNoLWdvdG8tbGlua3MlN0Nnb29nbGUuY29tJTJGZ290byUzQSUyMEdvb2dsZSdzJTIwYW50aS1zY3JhcGluZyUyMHVwZGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjY4Mzg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMDMlM0ExNCUzQTIwJTIwJTJCMDAwMA",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "pubDate": "Sat, 12 Sep 2026 03:14:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]
