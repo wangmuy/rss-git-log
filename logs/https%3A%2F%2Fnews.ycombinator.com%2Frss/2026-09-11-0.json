@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-11",
     "newestItemDate": "2026-09-11",
-    "itemCount": 42,
-    "generatedAt": "2026-09-12T04:43:21.170Z"
+    "itemCount": 46,
+    "generatedAt": "2026-09-12T18:28:36.400Z"
   },
   "items": [
     {
@@ -258,6 +258,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRm1pbmQtYWx0ZXJpbmctZHJ1Z3MtcGxheWVkLWtleS1yb2xlLXJpc2UtYW5kZWFuLWNpdmlsaXphdGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZtaW5kLWFsdGVyaW5nLWRydWdzLXBsYXllZC1rZXktcm9sZS1yaXNlLWFuZGVhbi1jaXZpbGl6YXRpb24lN0NNaW5kLWFsdGVyaW5nJTIwZHJ1Z3MlMjBwbGF5ZWQlMjBrZXklMjByb2xlJTIwaW4lMjByaXNlJTIwb2YlMjBBbmRlYW4lMjBjaXZpbGl6YXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MjAyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE3JTNBMjUlM0EyMyUyMCUyQjAwMDA",
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "pubDate": "Fri, 11 Sep 2026 17:25:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXB1ay5jaCUyRnBhcGVycyUyRmFuZHJvaWQtbmF0dC1rZWVwYWxpdmUtdnBuLWJ5cGFzcyU3Q2h0dHBzJTNBJTJGJTJGc3VwdWsuY2glMkZwYXBlcnMlMkZhbmRyb2lkLW5hdHQta2VlcGFsaXZlLXZwbi1ieXBhc3MlN0NBbmRyb2lkJTIwTkFULVQlMjBrZWVwYWxpdmUlMjBvZmZsb2FkJTIwYnlwYXNzZXMlMjBWUE4lMjBsb2NrZG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjY1NTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMjElM0ExNiUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "pubDate": "Fri, 11 Sep 2026 21:16:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbmFwLmJlcmtlbGV5LmVkdSUyRiU3Q2h0dHBzJTNBJTJGJTJGc25hcC5iZXJrZWxleS5lZHUlMkYlN0MlQ0UlQkIlMjBTbmFwJTIwJUUyJTgwJTkzJTIwQW4lMjBpbnZpdGluZyUyMHByb2dyYW1taW5nJTIwbGFuZ3VhZ2UlMjBmb3IlMjBraWRzJTIwYW5kJTIwYWR1bHRzJTIwZm9yJTIwQ1MlMjBzdHVkeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjYyMjE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTclM0EzNiUzQTExJTIwJTJCMDAwMA",
+      "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+      "pubDate": "Fri, 11 Sep 2026 17:36:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZpLWZpeGVkLWEtdHJhY3Rvci1qb2huLWRlZXJlLXNlbGYtcmVwYWlyLXNlcnZpY2UlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53aXJlZC5jb20lMkZzdG9yeSUyRmktZml4ZWQtYS10cmFjdG9yLWpvaG4tZGVlcmUtc2VsZi1yZXBhaXItc2VydmljZSUyRiU3Q0klMjBmaXhlZCUyMGElMjB0cmFjdG9yJTIwdXNpbmclMjBKb2huJTIwRGVlcmUncyUyMHNlbGYtcmVwYWlyJTIwc2VydmljZS4lMjBGYXJtZXJzJTIwYXJlbid0JTIwc29sZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjU4NjcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMTQlM0EwNyUzQTA4JTIwJTJCMDAwMA",
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "pubDate": "Fri, 11 Sep 2026 14:07:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvYm9yb25hLnppcCUyRnBvc3QlMkZhLW1pZGRsZS1wZXJpb2QtZW5naW5lLXJlY29uc3RydWN0aW5nLWNvbmN1cnJlbmN5LWludmFyaWFudHMtdGhyb3VnaC1lYXN0LWFzaWFuLXN0cnVjdHVyYWwtbG9naWMlN0NodHRwcyUzQSUyRiUyRm9ib3JvbmEuemlwJTJGcG9zdCUyRmEtbWlkZGxlLXBlcmlvZC1lbmdpbmUtcmVjb25zdHJ1Y3RpbmctY29uY3VycmVuY3ktaW52YXJpYW50cy10aHJvdWdoLWVhc3QtYXNpYW4tc3RydWN0dXJhbC1sb2dpYyU3Q1JlY29uc3RydWN0aW5nJTIwQ29uY3VycmVuY3klMjBJbnZhcmlhbnRzJTIwVGhyb3VnaCUyME1lZGlldmFsJTIwRWFzdCUyMEFzaWFuJTIwTG9naWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY1MzUwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDA0JTNBMTklM0E0MCUyMCUyQjAwMDA",
+      "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
+      "pubDate": "Fri, 11 Sep 2026 04:19:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
     }
   ]

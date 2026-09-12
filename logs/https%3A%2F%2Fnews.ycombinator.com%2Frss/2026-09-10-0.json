@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-10",
     "newestItemDate": "2026-09-10",
-    "itemCount": 45,
-    "generatedAt": "2026-09-12T12:13:44.972Z"
+    "itemCount": 49,
+    "generatedAt": "2026-09-12T18:28:36.400Z"
   },
   "items": [
     {
@@ -276,6 +276,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RpWk9ETjBRVWdqSSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEaVpPRE4wUVVnakklN0NJS0VBJTIwbWFkZSUyMGElMjBtb2QlMjBmb3IlMjBTa3lyaW0lMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjM5NjQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTAlMjBTZXAlMjAyMDI2JTIwMDclM0EyMCUzQTUwJTIwJTJCMDAwMA",
       "title": "IKEA made a mod for Skyrim [video]",
       "pubDate": "Thu, 10 Sep 2026 07:20:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZiaWctdGVjaCUyRmxnLXN0cm9uZ2x5LWRlbmllcy10di1zZWN1cml0eS1jbGFpbXMtc2F5cy10cmFja2luZy1hbmQtc25vb3BpbmctY29uY2VybnMtbm90LXRydWUtb25saW5lLWludmVzdGlnYXRpb24tY2xhaW1zLTIxNi0wMDAtMDAwLXNweS10dnMtcmVjb3JkLWF1ZGlvJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZiaWctdGVjaCUyRmxnLXN0cm9uZ2x5LWRlbmllcy10di1zZWN1cml0eS1jbGFpbXMtc2F5cy10cmFja2luZy1hbmQtc25vb3BpbmctY29uY2VybnMtbm90LXRydWUtb25saW5lLWludmVzdGlnYXRpb24tY2xhaW1zLTIxNi0wMDAtMDAwLXNweS10dnMtcmVjb3JkLWF1ZGlvJTdDTEclMjBkZW5pZXMlMjBUViUyMHNweWluZyUyMGNsYWltcyUyQyUyMHNheXMlMjB0cmFja2luZyUyMGFuZCUyMHNub29waW5nJTIwY29uY2VybnMlMjAnbm90JTIwdHJ1ZSclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY0NTQ4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDE1JTNBMzElM0EzNyUyMCUyQjAwMDA",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "pubDate": "Thu, 10 Sep 2026 15:31:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2F1cmF2YXBpc2NlYW4lMkZhZ2VudGljLWt2LWNhY2hlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2F1cmF2YXBpc2NlYW4lMkZhZ2VudGljLWt2LWNhY2hlJTdDTFJVJTIwaXMlMjBoYXJkZXIlMjB0byUyMGJlYXQlMjB0aGFuJTIwdGhlJTIwS1YtY2FjaGUlMjBwYXBlcnMlMjBzdWdnZXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDM1NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxMyUzQTM5JTNBMTElMjAlMkIwMDAw",
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "pubDate": "Thu, 10 Sep 2026 13:39:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZDNzLm1mZi5jdW5pLmN6JTJGZmlsZXMlMkZwdWJsaWNhdGlvbnMlMkZhbnRvY2hfZXhwZXJpbWVudGFsXzIwMjYucGRmJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZDNzLm1mZi5jdW5pLmN6JTJGZmlsZXMlMkZwdWJsaWNhdGlvbnMlMkZhbnRvY2hfZXhwZXJpbWVudGFsXzIwMjYucGRmJTdDRXhwZXJpbWVudGFsJTIwRXZhbHVhdGlvbiUyME1ldGhvZG9sb2d5JTIwZm9yJTIwdGhlJTIwRXJhJTIwb2YlMjBObyUyMFN0ZWFkeSUyMFBlcmZvcm1hbmNlJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2Mzc1NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAwMiUzQTE4JTNBMzklMjAlMkIwMDAw",
+      "title": "Experimental Evaluation Methodology for the Era of No Steady Performance [pdf]",
+      "pubDate": "Thu, 10 Sep 2026 02:18:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXR1LmZpJTJGZW4lMkZuZXdzJTJGcHJlc3MtcmVsZWFzZSUyRmhvdy13ZS1tYW5hZ2UtYW5kLWVuZ2FnZS13aXRoLW91ci1ob3JzZXMtc2hhcGVzLXRoZWlyLXBlcnNvbmFsaXR5JTdDaHR0cHMlM0ElMkYlMkZ3d3cudXR1LmZpJTJGZW4lMkZuZXdzJTJGcHJlc3MtcmVsZWFzZSUyRmhvdy13ZS1tYW5hZ2UtYW5kLWVuZ2FnZS13aXRoLW91ci1ob3JzZXMtc2hhcGVzLXRoZWlyLXBlcnNvbmFsaXR5JTdDSG93JTIwd2UlMjBtYW5hZ2UlMjBhbmQlMjBlbmdhZ2UlMjB3aXRoJTIwb3VyJTIwaG9yc2VzJTIwc2hhcGVzJTIwdGhlaXIlMjBwZXJzb25hbGl0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjM3MzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTAlMjBTZXAlMjAyMDI2JTIwMDElM0E1NyUzQTMyJTIwJTJCMDAwMA",
+      "title": "How we manage and engage with our horses shapes their personality",
+      "pubDate": "Thu, 10 Sep 2026 01:57:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
     }
   ]

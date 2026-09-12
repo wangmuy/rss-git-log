@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 15,
-    "generatedAt": "2026-09-12T12:13:44.972Z"
+    "itemCount": 27,
+    "generatedAt": "2026-09-12T18:28:36.400Z"
   },
   "items": [
     {
@@ -96,6 +96,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXV0b20uZGV2JTJGYmxvZyUyRmdvb2dsZS1zZWFyY2gtZ290by1saW5rcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmF1dG9tLmRldiUyRmJsb2clMkZnb29nbGUtc2VhcmNoLWdvdG8tbGlua3MlN0Nnb29nbGUuY29tJTJGZ290byUzQSUyMEdvb2dsZSdzJTIwYW50aS1zY3JhcGluZyUyMHVwZGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjY4Mzg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMDMlM0ExNCUzQTIwJTIwJTJCMDAwMA",
       "title": "google.com/goto: Google's anti-scraping update",
       "pubDate": "Sat, 12 Sep 2026 03:14:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAxODc3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAxODc3JTdDV2lsbCUyMFRoZXJlJTIwQmUlMjBhJTIwN0clM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3NDQ5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE3JTNBMDUlM0EzMSUyMCUyQjAwMDA",
+      "title": "Will There Be a 7G?",
+      "pubDate": "Sat, 12 Sep 2026 17:05:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaWdoNWFwcHMuZ2l0aHViLmlvJTJGam9zbS1wbHVnaW4td2Vic2l0ZS13aXphcmQlMkYlN0NodHRwcyUzQSUyRiUyRmhpZ2g1YXBwcy5naXRodWIuaW8lMkZqb3NtLXBsdWdpbi13ZWJzaXRlLXdpemFyZCUyRiU3Q01ha2UlMjB5b3VyJTIwZmlyc3QlMjBlZGl0JTIwdG8lMjBPcGVuU3RyZWV0TWFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzQwNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxNiUzQTI1JTNBMDglMjAlMkIwMDAw",
+      "title": "Make your first edit to OpenStreetMap",
+      "pubDate": "Sat, 12 Sep 2026 16:25:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwOSUyRjgwODctbWljcm9jb2RlLXJldmVyc2UtZW5naW5lZXJpbmctZnNjYWxlLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5yaWdodG8uY29tJTJGMjAyNiUyRjA5JTJGODA4Ny1taWNyb2NvZGUtcmV2ZXJzZS1lbmdpbmVlcmluZy1mc2NhbGUuaHRtbCU3Q01pY3JvY29kZSUyMGluJTIwSW50ZWwncyUyMDgwODclMjBmbG9hdGluZy1wb2ludCUyMGNoaXAlM0ElMjB0aGUlMjBzY2FsZSUyMGluc3RydWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzM1ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxNSUzQTQ5JTNBNTIlMjAlMkIwMDAw",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "pubDate": "Sat, 12 Sep 2026 15:49:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmludGVyYWN0aXZlJTJGYnJpZWZpbmclMkYyMDI2JTJGMDklMkYwMyUyRm52aWRpYS1pcy10aGUtY2VudHJhbC1iYW5rLW9mLWFpJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmludGVyYWN0aXZlJTJGYnJpZWZpbmclMkYyMDI2JTJGMDklMkYwMyUyRm52aWRpYS1pcy10aGUtY2VudHJhbC1iYW5rLW9mLWFpJTdDTnZpZGlhJTIwaXMlMjB0aGUlMjBjZW50cmFsJTIwYmFuayUyMG9mJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3MzA5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE1JTNBMDglM0EyNyUyMCUyQjAwMDA",
+      "title": "Nvidia is the central bank of AI",
+      "pubDate": "Sat, 12 Sep 2026 15:08:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWxpdG0uY29tJTJGcG9zdCUyRmJ1aWxkcHJvZiUyRiU3Q2h0dHBzJTNBJTJGJTJGbGFsaXRtLmNvbSUyRnBvc3QlMkZidWlsZHByb2YlMkYlN0NJJTIwbWFkZSUyMGElMjBidWlsZCUyMHZpc3VhbGl6ZXIlMjB0byUyMHVuZGVyc3RhbmQlMjBCdW4ncyUyMGNvbXBpbGUlMjB0aW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcyODQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTQlM0E0NSUzQTI4JTIwJTJCMDAwMA",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "pubDate": "Sat, 12 Sep 2026 14:45:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbmVmYXJpdXMlMkZ2ZF9hZ2VudCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm5lZmFyaXVzJTJGdmRfYWdlbnQlMkYlN0NJJTIwcmVmdXNlJTIwdG8lMjBsZXQlMjBTUElDRSUyMGRpZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcyNjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTQlM0EyNSUzQTA3JTIwJTJCMDAwMA",
+      "title": "I refuse to let SPICE die",
+      "pubDate": "Sat, 12 Sep 2026 14:25:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGF0aW1lcy5jb20lMkZjYWxpZm9ybmlhJTJGc3RvcnklMkYyMDI2LTA5LTEyJTJGanV2ZW5pbGVzLXJpZGluZy1pbi13YXltby1hcnJlc3RlZC1hZnRlci1wb2xpY2UtZmluZC1naG9zdC1ndW4lN0NodHRwcyUzQSUyRiUyRnd3dy5sYXRpbWVzLmNvbSUyRmNhbGlmb3JuaWElMkZzdG9yeSUyRjIwMjYtMDktMTIlMkZqdXZlbmlsZXMtcmlkaW5nLWluLXdheW1vLWFycmVzdGVkLWFmdGVyLXBvbGljZS1maW5kLWdob3N0LWd1biU3Q1dheW1vJTIwcHVsbHMlMjBvdmVyJTJDJTIwY2FsbHMlMjBjb3BzJTIwb24lMjBqdXZlbmlsZSUyMHJpZGVycyUyMHdobyUyMGhhZCUyMCdnaG9zdCUyMGd1biUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcyNTQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTQlM0ExNiUzQTI0JTIwJTJCMDAwMA",
+      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+      "pubDate": "Sat, 12 Sep 2026 14:16:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXJpb2Ftb2RlaS5jb20lMkZwb3N0JTJGd2UtbXVzdC1wYWNlLXRoZS1mcm9udGllciU3Q2h0dHBzJTNBJTJGJTJGZGFyaW9hbW9kZWkuY29tJTJGcG9zdCUyRndlLW11c3QtcGFjZS10aGUtZnJvbnRpZXIlN0NXZSUyMG11c3QlMjBwYWNlJTIwdGhlJTIwZnJvbnRpZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3MjUxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE0JTNBMTAlM0E0OSUyMCUyQjAwMDA",
+      "title": "We must pace the frontier",
+      "pubDate": "Sat, 12 Sep 2026 14:10:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFuc2Zvcm1lci1jaXJjdWl0cy5wdWIlMkYyMDIxJTJGZnJhbWV3b3JrJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdHJhbnNmb3JtZXItY2lyY3VpdHMucHViJTJGMjAyMSUyRmZyYW1ld29yayUyRmluZGV4Lmh0bWwlN0NBJTIwTWF0aGVtYXRpY2FsJTIwRnJhbWV3b3JrJTIwZm9yJTIwVHJhbnNmb3JtZXIlMjBDaXJjdWl0cyUyMCgyMDIxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcyMzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTMlM0E1NiUzQTU4JTIwJTJCMDAwMA",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "pubDate": "Sat, 12 Sep 2026 13:56:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcnlkdC54eXolMkZibG9nJTJGYS1mZXctZ29vZC1pZGVhcy1pbi1wbCUyRiU3Q2h0dHBzJTNBJTJGJTJGcHJ5ZHQueHl6JTJGYmxvZyUyRmEtZmV3LWdvb2QtaWRlYXMtaW4tcGwlMkYlN0NBJTIwRmV3JTIwR29vZCUyMElkZWFzJTIwaW4lMjBQcm9ncmFtbWluZyUyMExhbmd1YWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjcxOTcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMTMlM0EwNyUzQTUyJTIwJTJCMDAwMA",
+      "title": "A Few Good Ideas in Programming Languages",
+      "pubDate": "Sat, 12 Sep 2026 13:07:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRyYWlsb2ZiaXRzLmNvbSUyRjIwMjYlMkYwOCUyRjExJTJGaG93LXRyYWlsLW9mLWJpdHMtaGVscHMtdmVyaWZ5LXRoZS1pbnRlZ3JpdHktb2YteW91ci1zaWduYWwtY2hhdHMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cudHJhaWxvZmJpdHMuY29tJTJGMjAyNiUyRjA4JTJGMTElMkZob3ctdHJhaWwtb2YtYml0cy1oZWxwcy12ZXJpZnktdGhlLWludGVncml0eS1vZi15b3VyLXNpZ25hbC1jaGF0cyUyRiU3Q0hvdyUyMFRyYWlsJTIwb2YlMjBCaXRzJTIwaGVscHMlMjB2ZXJpZnklMjB0aGUlMjBpbnRlZ3JpdHklMjBvZiUyMFNpZ25hbCUyMGNoYXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzEyMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxMSUzQTI3JTNBNTUlMjAlMkIwMDAw",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "pubDate": "Sat, 12 Sep 2026 11:27:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWRpdW0uY28lMkYyMDI2JTJGMDklMkYxMSUyRmlsYW5kcy1hZ2VudHMtZW1haWwtc3BhbS1rYWl4aW4tdGFuZyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVkaXVtLmNvJTJGMjAyNiUyRjA5JTJGMTElMkZpbGFuZHMtYWdlbnRzLWVtYWlsLXNwYW0ta2FpeGluLXRhbmclMkYlN0NUaGUlMjB3b3JzdCUyMHNwYW0lMjBlbWFpbHMlM0ElMjBpTGFuZHMlMjBBSSUyMGFnZW50JTIwaHVzdGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzExNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxMSUzQTEzJTNBMzglMjAlMkIwMDAw",
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "pubDate": "Sat, 12 Sep 2026 11:13:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]

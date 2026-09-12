@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-09",
     "newestItemDate": "2026-09-09",
-    "itemCount": 60,
-    "generatedAt": "2026-09-12T12:13:44.973Z"
+    "itemCount": 62,
+    "generatedAt": "2026-09-12T18:28:36.401Z"
   },
   "items": [
     {
@@ -366,6 +366,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbC5tZWRpYS5taXQuZWR1JTJGbG9nby1mb3VuZGF0aW9uJTJGd2hhdF9pc19sb2dvJTJGbG9nb19wcm9ncmFtbWluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZlbC5tZWRpYS5taXQuZWR1JTJGbG9nby1mb3VuZGF0aW9uJTJGd2hhdF9pc19sb2dvJTJGbG9nb19wcm9ncmFtbWluZy5odG1sJTdDTG9nbyUyMFByb2dyYW1taW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MjI0MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAwNyUzQTA3JTNBMjYlMjAlMkIwMDAw",
       "title": "Logo Programming",
       "pubDate": "Wed, 09 Sep 2026 07:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZ2FkZXkuY2ElMkZibG9nJTJGZWF0aW5nLWZydWl0LXNraW5zJTJGJTdDaHR0cHMlM0ElMkYlMkZwZ2FkZXkuY2ElMkZibG9nJTJGZWF0aW5nLWZydWl0LXNraW5zJTJGJTdDRWF0aW5nJTIwRnJ1aXQlMjBTa2lucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI1MTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTIlM0EwMSUzQTM4JTIwJTJCMDAwMA",
+      "title": "Eating Fruit Skins",
+      "pubDate": "Wed, 09 Sep 2026 12:01:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYwMGYubmV0JTJGMjAyNiUyRjA2JTJGMjMlMkZ3ZWJhc3NlbWJseS1ydW50aW1lcy0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkYwMGYubmV0JTJGMjAyNiUyRjA2JTJGMjMlMkZ3ZWJhc3NlbWJseS1ydW50aW1lcy0yMDI2JTJGJTdDUGVyZm9ybWFuY2UlMjBvZiUyMFdlYkFzc2VtYmx5JTIwUnVudGltZXMlMjBpbiUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyMzkzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDEwJTNBMDAlM0E1OSUyMCUyQjAwMDA",
+      "title": "Performance of WebAssembly Runtimes in 2026",
+      "pubDate": "Wed, 09 Sep 2026 10:00:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
     }
   ]
