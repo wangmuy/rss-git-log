@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-09",
     "newestItemDate": "2026-09-09",
-    "itemCount": 54,
-    "generatedAt": "2026-09-11T19:11:31.489Z"
+    "itemCount": 58,
+    "generatedAt": "2026-09-12T04:43:21.171Z"
   },
   "items": [
     {
@@ -330,6 +330,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbC5tZWRpYS5taXQuZWR1JTJGbG9nby1mb3VuZGF0aW9uJTJGd2hhdF9pc19sb2dvJTJGbG9nb19wcm9ncmFtbWluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZlbC5tZWRpYS5taXQuZWR1JTJGbG9nby1mb3VuZGF0aW9uJTJGd2hhdF9pc19sb2dvJTJGbG9nb19wcm9ncmFtbWluZy5odG1sJTdDTG9nbyUyMFByb2dyYW1taW5nJTIwTGFuZ3VhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyMjQwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDA3JTNBMDclM0EyNiUyMCUyQjAwMDA",
       "title": "Logo Programming Language",
       "pubDate": "Wed, 09 Sep 2026 07:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmZpc2ljYWwuY29tJTJGYmxvZyUyRmZvbGRlci1iYXNlZC1yYmFjJTdDaHR0cHMlM0ElMkYlMkZpbmZpc2ljYWwuY29tJTJGYmxvZyUyRmZvbGRlci1iYXNlZC1yYmFjJTdDSG93JTIwd2UlMjByZWJ1aWx0JTIwY29tcGxleCUyMHBlcm1pc3Npb25zJTIwd2l0aG91dCUyMG1pZ3JhdGluZyUyMHRvJTIwWmFuemliYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYzNTA0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDIxJTNBNTklM0ExMCUyMCUyQjAwMDA",
+      "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+      "pubDate": "Wed, 09 Sep 2026 21:59:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9qZWN0emVyby5nb29nbGUlMkYyMDI2JTJGMDklMkZtYWNjY29uYy1yYWNlLWNvbmRpdGlvbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZwcm9qZWN0emVyby5nb29nbGUlMkYyMDI2JTJGMDklMkZtYWNjY29uYy1yYWNlLWNvbmRpdGlvbi5odG1sJTdDVGVzdGluZyUyMFJhY2UlMjBDb25kaXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MzQ5MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAyMSUzQTUxJTNBMDIlMjAlMkIwMDAw",
+      "title": "Testing Race Conditions",
+      "pubDate": "Wed, 09 Sep 2026 21:51:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWwuY3MuYnJvd24uZWR1JTJGYmxvZyUyRmRlc2lnbi1zcGFjZS1hc3luYy1hd2FpdCUyRiU3Q2h0dHBzJTNBJTJGJTJGY2VsLmNzLmJyb3duLmVkdSUyRmJsb2clMkZkZXNpZ24tc3BhY2UtYXN5bmMtYXdhaXQlMkYlN0NBJTIwRGVzaWduJTIwU3BhY2UlMjBFeHBsb3JhdGlvbiUyMG9mJTIwQXN5bmMlMkZBd2FpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI2NzE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTMlM0E1OSUzQTUwJTIwJTJCMDAwMA",
+      "title": "A Design Space Exploration of Async/Await",
+      "pubDate": "Wed, 09 Sep 2026 13:59:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRm9udGFyaW8tZ3JlYXQtbGFrZXMtc3R1cmdlb24tbGlmZXNwYW4tc3R1ZHktOS43MzI5MjUwJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRm9udGFyaW8tZ3JlYXQtbGFrZXMtc3R1cmdlb24tbGlmZXNwYW4tc3R1ZHktOS43MzI5MjUwJTdDR3JlYXQlMjBMYWtlcyUyMHN0dXJnZW9uJTIwbWF5JTIwYmUlMjA0MDAlMjB5ZWFycyUyMG9sZCUzQVNjaWVudGlzdHMlMjByZXRoaW5raW5nJTIwaG93JTIwdG8lMjBzYXZlJTIwdGhlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI0NDU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTElM0EwMSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "pubDate": "Wed, 09 Sep 2026 11:01:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
     }
   ]

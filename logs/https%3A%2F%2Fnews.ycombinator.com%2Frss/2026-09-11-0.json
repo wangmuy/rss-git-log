@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-11",
     "newestItemDate": "2026-09-11",
-    "itemCount": 34,
-    "generatedAt": "2026-09-11T19:11:31.488Z"
+    "itemCount": 42,
+    "generatedAt": "2026-09-12T04:43:21.170Z"
   },
   "items": [
     {
@@ -210,6 +210,54 @@
       "itemId": "aHR0cCUzQSUyRiUyRnd3dy5pYWVhLm9yZyUyRm5ld3NjZW50ZXIlMkZuZXdzJTJGd2hhdC1pcy1jaGVyZW5rb3YtcmFkaWF0aW9uJTdDaHR0cCUzQSUyRiUyRnd3dy5pYWVhLm9yZyUyRm5ld3NjZW50ZXIlMkZuZXdzJTJGd2hhdC1pcy1jaGVyZW5rb3YtcmFkaWF0aW9uJTdDQ2hlcmVua292JTIwUmFkaWF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NTUyODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAwOCUzQTQyJTNBMDQlMjAlMkIwMDAw",
       "title": "Cherenkov Radiation",
       "pubDate": "Fri, 11 Sep 2026 08:42:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucnVieWhhY2suYWklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ydWJ5aGFjay5haSUyRiU3Q09wZW5BSSUyMGFnZW50cyUyMGNhcnJpZWQlMjBvdXQlMjBhbiUyMHVuZGlzY2xvc2VkJTIwYXR0YWNrJTIwb24lMjBSdWJ5R2VtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjY2NzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMjMlM0ExNyUzQTQyJTIwJTJCMDAwMA",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "pubDate": "Fri, 11 Sep 2026 23:17:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibGlua2VubGlnaHRzLmRlJTJGZW4lMkYlN0NodHRwcyUzQSUyRiUyRmJsaW5rZW5saWdodHMuZGUlMkZlbiUyRiU3Q1Byb2plY3QlMjBCbGlua2VubGlnaHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjYxNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAyMiUzQTE1JTNBMDAlMjAlMkIwMDAw",
+      "title": "Project Blinkenlights",
+      "pubDate": "Fri, 11 Sep 2026 22:15:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWlyemEtcml6dmklMkZSZXNvbHZlSFElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaXJ6YS1yaXp2aSUyRlJlc29sdmVIUSU3Q1Nob3clMjBITiUzQSUyMFJlc29sdmVIUSUyMCVFMiU4MCU5MyUyMEElMjBIZWxwZGVzayUyMEJ1aWx0JTIwb24lMjBDbG91ZGZsYXJlJTIwV29ya2VycyUyQyUyMEQxJTJDJTIwUjIlMjBhbmQlMjBRdWV1ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2NTg2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDIxJTNBNDglM0EwMCUyMCUyQjAwMDA",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "pubDate": "Fri, 11 Sep 2026 21:48:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHdhcmtlc2guY29tJTJGcCUyRmpvaG4tYmVyZW4tY2hhcmxpZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmR3YXJrZXNoLmNvbSUyRnAlMkZqb2huLWJlcmVuLWNoYXJsaWUlN0NBSSUyMHJlc2VhcmNoZXJzJTIwZGViYXRlJTIwaG93JTIwY2xvc2UlMjB3ZSUyMGFyZSUyMHRvJTIwcmVjdXJzaXZlJTIwc2VsZi1pbXByb3ZlbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjY1NzExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTElMjBTZXAlMjAyMDI2JTIwMjElM0EzNSUzQTI5JTIwJTJCMDAwMA",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "pubDate": "Fri, 11 Sep 2026 21:35:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGR3JhcGhlbmVPUyUyRk1lc3NhZ2luZyUyRnJlbGVhc2VzJTJGdGFnJTJGMTMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZHcmFwaGVuZU9TJTJGTWVzc2FnaW5nJTJGcmVsZWFzZXMlMkZ0YWclMkYxMyU3Q0dyYXBoZW5lT1MnJTIwcmV3cml0dGVuJTIwTWVzc2FnZXMlMjBhcHAlMjBpcyUyMHJlbGVhc2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjMzNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxOCUzQTUwJTNBMzYlMjAlMkIwMDAw",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "pubDate": "Fri, 11 Sep 2026 18:50:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXl6bGVnYW1lLmNvbSUyRmJsb2clMkZnb29nbGUtYWRzLWJvdC1mYXJtJTJGJTdDaHR0cHMlM0ElMkYlMkZkYXl6bGVnYW1lLmNvbSUyRmJsb2clMkZnb29nbGUtYWRzLWJvdC1mYXJtJTJGJTdDSSUyMHNwZW50JTIwJTI0MjIwJTIwb24lMjBHb29nbGUlMjBhcHAlMjBhZHMlMjBhbmQlMjA2MCUyNSUyMG9mJTIwdGhlJTIwaW5zdGFsbHMlMjB3ZXJlJTIwcm9ib3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjI5OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxOCUzQTI0JTNBNTUlMjAlMkIwMDAw",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "pubDate": "Fri, 11 Sep 2026 18:24:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXBpdGFsYm5ld3Mub3JnJTJGZGF0YS1jZW50ZXJzLXBlcm1pdC1ydWxlcy1lcGElMkYlN0NodHRwcyUzQSUyRiUyRmNhcGl0YWxibmV3cy5vcmclMkZkYXRhLWNlbnRlcnMtcGVybWl0LXJ1bGVzLWVwYSUyRiU3Q1RoZSUyMEVQQSUyMGlzJTIwcGxhbm5pbmclMjB0byUyMHNjcmFwJTIwcHVibGljJTIwcmV2aWV3JTIwcnVsZXMlMjBmb3IlMjBkYXRhJTIwY2VudGVyJTIwcG9sbHV0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjI2NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxOCUzQTA1JTNBMjElMjAlMkIwMDAw",
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "pubDate": "Fri, 11 Sep 2026 18:05:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRm1pbmQtYWx0ZXJpbmctZHJ1Z3MtcGxheWVkLWtleS1yb2xlLXJpc2UtYW5kZWFuLWNpdmlsaXphdGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZtaW5kLWFsdGVyaW5nLWRydWdzLXBsYXllZC1rZXktcm9sZS1yaXNlLWFuZGVhbi1jaXZpbGl6YXRpb24lN0NNaW5kLWFsdGVyaW5nJTIwZHJ1Z3MlMjBwbGF5ZWQlMjBrZXklMjByb2xlJTIwaW4lMjByaXNlJTIwb2YlMjBBbmRlYW4lMjBjaXZpbGl6YXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY2MjAyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDExJTIwU2VwJTIwMjAyNiUyMDE3JTNBMjUlM0EyMyUyMCUyQjAwMDA",
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "pubDate": "Fri, 11 Sep 2026 17:25:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
     }
   ]
