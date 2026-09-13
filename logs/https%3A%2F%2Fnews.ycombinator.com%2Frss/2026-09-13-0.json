@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-13",
     "newestItemDate": "2026-09-13",
-    "itemCount": 16,
-    "generatedAt": "2026-09-13T13:21:02.594Z"
+    "itemCount": 31,
+    "generatedAt": "2026-09-13T18:50:33.278Z"
   },
   "items": [
     {
@@ -102,6 +102,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ5b3NodWFiZW5naW8ub3JnJTJGZW4lMkZwdWJsaWNhdGlvbiUyRndoeS1hcmUtYWktYWdlbnRzLWx5aW5nLWNoZWF0aW5nLWFuZC1jb29yZGluYXRpbmclN0NodHRwcyUzQSUyRiUyRnlvc2h1YWJlbmdpby5vcmclMkZlbiUyRnB1YmxpY2F0aW9uJTJGd2h5LWFyZS1haS1hZ2VudHMtbHlpbmctY2hlYXRpbmctYW5kLWNvb3JkaW5hdGluZyU3Q1doeSUyMGFyZSUyMEFJJTIwYWdlbnRzJTIwbHlpbmclMkMlMjBjaGVhdGluZyUyMGFuZCUyMGNvb3JkaW5hdGluZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc4OTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMDElM0EyMiUzQTMxJTIwJTJCMDAwMA",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "pubDate": "Sun, 13 Sep 2026 01:22:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcmVhbXN0YXRpb24uc3lzdGVtcyUyRnBlcnNvbmFsJTJGdGVzbGEuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZHJlYW1zdGF0aW9uLnN5c3RlbXMlMkZwZXJzb25hbCUyRnRlc2xhLmh0bWwlN0NJJ20lMjBiZWluZyUyMGN5YmVyYXR0YWNrZWQlMjBieSUyMFRlc2xhJTJDJTIwSW5jJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODY3NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxOCUzQTAzJTNBMDklMjAlMkIwMDAw",
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "pubDate": "Sun, 13 Sep 2026 18:03:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXRvbWljMTQuY29tJTJGMjAyNiUyRjA5JTJGMTMlMkZ3aHktaXMtZ29vZ2xlLXN0aWxsLXNlcnZpbmctZG9kZ3ktYWRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXRvbWljMTQuY29tJTJGMjAyNiUyRjA5JTJGMTMlMkZ3aHktaXMtZ29vZ2xlLXN0aWxsLXNlcnZpbmctZG9kZ3ktYWRzJTdDV2h5JTIwaXMlMjBHb29nbGUlMjBzdGlsbCUyMHNlcnZpbmclMjBkb2RneSUyMGFkcyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg2NDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTclM0EzNyUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Why is Google still serving dodgy ads?",
+      "pubDate": "Sun, 13 Sep 2026 17:37:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkZhdGhsZXRpYyUyRjc1ODY4MjElMkYyMDI2JTJGMDklMkYxMiUyRmZvb3RiYWxsLWJsYWNrLWNhcmQtcmVmZXJlZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGYXRobGV0aWMlMkY3NTg2ODIxJTJGMjAyNiUyRjA5JTJGMTIlMkZmb290YmFsbC1ibGFjay1jYXJkLXJlZmVyZWUlMkYlN0NSb21hbmlhJTIwc29jY2VyJTIwaW50cm9kdWNlcyUyMGJsYWNrJTIwY2FyZCUyMHRvJTIwJ2NvbWJhdCUyMGFidXNpdmUlMjBiZWhhdmlvdXInJTIwZnJvbSUyMHBhcmVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY4NjEzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDE3JTNBMDglM0ExNiUyMCUyQjAwMDA",
+      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "pubDate": "Sun, 13 Sep 2026 17:08:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkRhdmlkU2Fja3MlMkZzdGF0dXMlMkYyMDk4OTczNjI1MjUyNzA4NDYwJTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkRhdmlkU2Fja3MlMkZzdGF0dXMlMkYyMDk4OTczNjI1MjUyNzA4NDYwJTdDRGF2aWQlMjBTYWNrcyUzQSUyME9wZW5BSSUyMGFuZCUyMEFudGhyb3BpYyUyMERvbid0JTIwTmVlZCUyMFJlZ3VsYXRpb25zJTIwdG8lMjBQYWNlJTIwRnJvbnRpZXIlMjBNb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY4NTk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDE2JTNBNTIlM0EzMyUyMCUyQjAwMDA",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "pubDate": "Sun, 13 Sep 2026 16:52:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGlsbG9uc21hcnQlMkZkb2NrZXQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZEaWxsb25zbWFydCUyRmRvY2tldCU3Q0RvY2tldCUyMCVFMiU4MCU5MyUyMFBlci1jb21taXQlMjBldmlkZW5jZSUyMHJlY29yZHMlMjBmb3IlMjBhZ2VudC13cml0dGVuJTIwY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg1NjQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTYlM0ExNyUzQTA3JTIwJTJCMDAwMA",
+      "title": "Docket – Per-commit evidence records for agent-written code",
+      "pubDate": "Sun, 13 Sep 2026 16:17:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGF1bGdyYWhhbS5jb20lMkZwb3dlcmZ1bC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGF1bGdyYWhhbS5jb20lMkZwb3dlcmZ1bC5odG1sJTdDTWFraW5nJTIwU3RhcnR1cHMlMjBQb3dlcmZ1bCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg1MzQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTUlM0E1MSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Making Startups Powerful",
+      "pubDate": "Sun, 13 Sep 2026 15:51:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOSUyRjExJTJGeS1jb21iaW5hdG9ycy1nYXJyeS10YW4td2FudHMtdS1zLW9wZW4td2VpZ2h0LWFpLWxhYnMtdG8tZGlzdGlsbC1mcm9udGllci1tb2RlbHMtdG9vJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOSUyRjExJTJGeS1jb21iaW5hdG9ycy1nYXJyeS10YW4td2FudHMtdS1zLW9wZW4td2VpZ2h0LWFpLWxhYnMtdG8tZGlzdGlsbC1mcm9udGllci1tb2RlbHMtdG9vJTJGJTdDR2FycnklMjBUYW4lMjB3YW50cyUyMFVTJTIwb3Blbi13ZWlnaHQlMjBBSSUyMGxhYnMlMjB0byUyMCdkaXN0aWxsJyUyMGZyb250aWVyJTIwbW9kZWxzJTJDJTIwdG9vJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODUyNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxNSUzQTQ0JTNBMzglMjAlMkIwMDAw",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "pubDate": "Sun, 13 Sep 2026 15:44:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZWxkZXJib3MuZGV2JTJGYmxvZyUyRmhvdy1saWJyYXJpZXMtcnVuLXJ1c3QtaW5zaWRlLXB5dGhvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmVsZGVyYm9zLmRldiUyRmJsb2clMkZob3ctbGlicmFyaWVzLXJ1bi1ydXN0LWluc2lkZS1weXRob24lMkYlN0NMaWJyYXJpZXMlMjBSdW4lMjBSdXN0JTIwSW5zaWRlJTIwUHl0aG9uJTIwKFdpdGglMjBQeU8zKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg1MDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTUlM0EyNCUzQTA1JTIwJTJCMDAwMA",
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "pubDate": "Sun, 13 Sep 2026 15:24:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcGFrLml0JTJGJTdDaHR0cHMlM0ElMkYlMkZjcGFrLml0JTJGJTdDQ3BhayUyMCVFMiU4MCU5MyUyME9DSSUyMGFwcGxpY2F0aW9uJTIwcGFja2FnZSUyMGZvcm1hdCUyMGZvciUyMExpbnV4JTIwZGVza3RvcHMlMkMlMjBzZXJ2ZXJzJTIwYW5kJTIwZGV2aWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg0Nzc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTUlM0EwMiUzQTU2JTIwJTJCMDAwMA",
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "pubDate": "Sun, 13 Sep 2026 15:02:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGbXVuSktGN2lXTXNXSkxBSDIlMkZhc3RyYS1hbmQtZmFibGUtc3RpbGwtaGFjay1vbi1zaW1wbGUtdmFyaWFudHMtb2YtYWxpZ25tZW50JTdDaHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGbXVuSktGN2lXTXNXSkxBSDIlMkZhc3RyYS1hbmQtZmFibGUtc3RpbGwtaGFjay1vbi1zaW1wbGUtdmFyaWFudHMtb2YtYWxpZ25tZW50JTdDQXN0cmElMjBhbmQlMjBGYWJsZSUyMHN0aWxsJTIwaGFjayUyMG9uJTIwc2ltcGxlJTIwdmFyaWFudHMlMjBvZiUyMGFsaWdubWVudCUyMGV2YWxzJTIwZnJvbSUyMDIwMjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY4NDM5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDE0JTNBMjglM0EzNiUyMCUyQjAwMDA",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "pubDate": "Sun, 13 Sep 2026 14:28:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGU3BlZWRzdHUlMkZDVURBLWZvci1BTUQtV2luZG93cyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlNwZWVkc3R1JTJGQ1VEQS1mb3ItQU1ELVdpbmRvd3MlN0NDVURBJTIwZm9yJTIwQU1EJTIwb24lMjBXaW5kb3dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODQzNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxNCUzQTI1JTNBMTMlMjAlMkIwMDAw",
+      "title": "CUDA for AMD on Windows",
+      "pubDate": "Sun, 13 Sep 2026 14:25:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXVsZ3JhaGFtLmNvbSUyRnBvd2VyZnVsLmh0bWwlN0NodHRwcyUzQSUyRiUyRnBhdWxncmFoYW0uY29tJTJGcG93ZXJmdWwuaHRtbCU3Q01ha2luZyUyMFN0YXJ0dXBzJTIwUG93ZXJmdWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY4NDE5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDE0JTNBMDklM0E1MyUyMCUyQjAwMDA",
+      "title": "Making Startups Powerful",
+      "pubDate": "Sun, 13 Sep 2026 14:09:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGa2V5LXN5bWJvbHMtd2UtbG9zdC10by10aW1lLXB0LTEtdGhlLXBjLXNpZGUlMkYlN0NodHRwcyUzQSUyRiUyRnVuc3VuZy5hcmVzbHVuYS5vcmclMkZrZXktc3ltYm9scy13ZS1sb3N0LXRvLXRpbWUtcHQtMS10aGUtcGMtc2lkZSUyRiU3Q0tleSUyMHN5bWJvbHMlMjB3ZSUyMGxvc3QlMjB0byUyMHRpbWUlMkMlMjBwdC4lMjAxJTNBJTIwVGhlJTIwUEMlMjBzaWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODQxMDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxNCUzQTAwJTNBNDQlMjAlMkIwMDAw",
+      "title": "Key symbols we lost to time, pt. 1: The PC side",
+      "pubDate": "Sun, 13 Sep 2026 14:00:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGY29sdW1uJTJGOTk0MTcyJTJGeW91ci1jYXItaXMtc2VsbGluZy15b3VyLWRhdGElN0NodHRwcyUzQSUyRiUyRnd3dy50aGV2ZXJnZS5jb20lMkZjb2x1bW4lMkY5OTQxNzIlMkZ5b3VyLWNhci1pcy1zZWxsaW5nLXlvdXItZGF0YSU3Q0RhdGElMjBjb2xsZWN0ZWQlMjBieSUyMGNhcnMlMjBhbmQlMjBzb2xkJTIwdG8lMjB0aGlyZCUyMHBhcnRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY4Mzk1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDEzJTNBNDUlM0EwOCUyMCUyQjAwMDA",
+      "title": "Data collected by cars and sold to third parties",
+      "pubDate": "Sun, 13 Sep 2026 13:45:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDkxMC0wMCUyRiUzRnAlM0QxMTI2ODklN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwOTEwLTAwJTJGJTNGcCUzRDExMjY4OSU3Q1doeSUyMGlzJTIwdGhlJTIweDg2JTIwdW5kZWZpbmVkJTIwaW5zdHJ1Y3Rpb24lMjBjYWxsZWQlMjB1ZDIlM0YlMjBXaHklMjAyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODMyNjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxMiUzQTMwJTNBMTUlMjAlMkIwMDAw",
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "pubDate": "Sun, 13 Sep 2026 12:30:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
     }
   ]
