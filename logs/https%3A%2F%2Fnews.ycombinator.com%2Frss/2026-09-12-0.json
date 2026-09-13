@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 27,
-    "generatedAt": "2026-09-12T18:28:36.400Z"
+    "itemCount": 34,
+    "generatedAt": "2026-09-13T04:57:04.066Z"
   },
   "items": [
     {
@@ -168,6 +168,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWRpdW0uY28lMkYyMDI2JTJGMDklMkYxMSUyRmlsYW5kcy1hZ2VudHMtZW1haWwtc3BhbS1rYWl4aW4tdGFuZyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVkaXVtLmNvJTJGMjAyNiUyRjA5JTJGMTElMkZpbGFuZHMtYWdlbnRzLWVtYWlsLXNwYW0ta2FpeGluLXRhbmclMkYlN0NUaGUlMjB3b3JzdCUyMHNwYW0lMjBlbWFpbHMlM0ElMjBpTGFuZHMlMjBBSSUyMGFnZW50JTIwaHVzdGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzExNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxMSUzQTEzJTNBMzglMjAlMkIwMDAw",
       "title": "The worst spam emails: iLands AI agent hustle",
       "pubDate": "Sat, 12 Sep 2026 11:13:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ2VudHNkb2NrLm5ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGYWdlbnRzZG9jay5uZXQlMkYlN0NBZ2VudHNEb2NrJTNBJTIwQW4lMjBJREUlMjBkZXNpZ25lZCUyMGZvciUyMGFnZW50aWMlMjBBSSUyMHJlc2VhcmNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2Nzg0MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAyMyUzQTQ1JTNBNTglMjAlMkIwMDAw",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "pubDate": "Sat, 12 Sep 2026 23:45:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWNjdXdlYXRoZXIuY29tJTJGZW4lMkZodXJyaWNhbmUlMkZuby1hdGxhbnRpYy1odXJyaWNhbmVzLWJ5LXNlcHQtMTItYnJlYWtzLWEtNjAteWVhci1yZWNvcmQlMkYxOTMyMjc4JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWNjdXdlYXRoZXIuY29tJTJGZW4lMkZodXJyaWNhbmUlMkZuby1hdGxhbnRpYy1odXJyaWNhbmVzLWJ5LXNlcHQtMTItYnJlYWtzLWEtNjAteWVhci1yZWNvcmQlMkYxOTMyMjc4JTdDTm8lMjBBdGxhbnRpYyUyMGh1cnJpY2FuZXMlMjBieSUyMFNlcHQuJTIwMTIlMjBicmVha3MlMjBhJTIwNjAteWVhciUyMHJlY29yZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc4NDMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMjMlM0E0NCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+      "pubDate": "Sat, 12 Sep 2026 23:44:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRklEX0FBX0Nhcm1hY2slMkZzdGF0dXMlMkYyMDk4NDQzMjYyMjE0MjMwMDk1JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRklEX0FBX0Nhcm1hY2slMkZzdGF0dXMlMkYyMDk4NDQzMjYyMjE0MjMwMDk1JTdDRG9uJ3QlMjBiZSUyMHRoZSUyMG91dCUyMG9mJTIwdG91Y2glMjBLdW5nJTIwRnUlMjBtYXN0ZXIlMjAlRTIlODAlOTMlMjBKb2huJTIwQ2FybWFjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc3NTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMjElM0E1MSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Don't be the out of touch Kung Fu master – John Carmack",
+      "pubDate": "Sat, 12 Sep 2026 21:51:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjklMkYxMiUyRnBkb29tJTJGJTdDaHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjklMkYxMiUyRnBkb29tJTJGJTdDUChkb29tKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc3NDUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMjElM0EzNSUzQTM4JTIwJTJCMDAwMA",
+      "title": "P(doom)",
+      "pubDate": "Sat, 12 Sep 2026 21:35:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aXRoc3BlY2lmaWMuY29tJTJGYmVuY2htYXJrcyUyRnJlYWwtc3dlJTdDaHR0cHMlM0ElMkYlMkZ3aXRoc3BlY2lmaWMuY29tJTJGYmVuY2htYXJrcyUyRnJlYWwtc3dlJTdDUmVhbC1TV0UlM0ElMjBCZW5jaG1hcmtpbmclMjBBSSUyMG1vZGVscyUyMG9uJTIwcHJpdmF0ZSUyQyUyMHJlYWwtd29ybGQlMkMlMjBlbnRlcnByaXNlJTIwY29kZWJhc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzY4MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAyMCUzQTI1JTNBNDglMjAlMkIwMDAw",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "pubDate": "Sat, 12 Sep 2026 20:25:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RUb1A5eGZMRFNNRSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEVG9QOXhmTERTTUUlN0NMRyUyMFNheXMlMjBXZSdyZSUyMEZha2UlMjBOZXdzJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3NjMyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE5JTNBMzUlM0EzNiUyMCUyQjAwMDA",
+      "title": "LG Says We're Fake News [video]",
+      "pubDate": "Sat, 12 Sep 2026 19:35:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWNoeWRlcm0uaW8lMkYlNDBzaW1vbnRhdGhhbSUyRjExNzIwMTU5NDk4MDk5MTA2MiU3Q2h0dHBzJTNBJTJGJTJGaGFjaHlkZXJtLmlvJTJGJTQwc2ltb250YXRoYW0lMkYxMTcyMDE1OTQ5ODA5OTEwNjIlN0NMaW51eCUyMFpvb20lMjBjbGllbnQlMjBwcm9hY3RpdmVseSUyMHJlYWRpbmclMjBldmVyeXRoaW5nJTIwd3JpdHRlbiUyMHRvJTIwWDExJTIwY2xpcGJvYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzU5MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxOCUzQTU4JTNBNTclMjAlMkIwMDAw",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "pubDate": "Sat, 12 Sep 2026 18:58:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]

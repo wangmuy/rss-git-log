@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-09",
     "newestItemDate": "2026-09-09",
-    "itemCount": 62,
-    "generatedAt": "2026-09-12T18:28:36.401Z"
+    "itemCount": 66,
+    "generatedAt": "2026-09-13T04:57:04.066Z"
   },
   "items": [
     {
@@ -378,6 +378,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkYwMGYubmV0JTJGMjAyNiUyRjA2JTJGMjMlMkZ3ZWJhc3NlbWJseS1ydW50aW1lcy0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkYwMGYubmV0JTJGMjAyNiUyRjA2JTJGMjMlMkZ3ZWJhc3NlbWJseS1ydW50aW1lcy0yMDI2JTJGJTdDUGVyZm9ybWFuY2UlMjBvZiUyMFdlYkFzc2VtYmx5JTIwUnVudGltZXMlMjBpbiUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYyMzkzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDEwJTNBMDAlM0E1OSUyMCUyQjAwMDA",
       "title": "Performance of WebAssembly Runtimes in 2026",
       "pubDate": "Wed, 09 Sep 2026 10:00:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmlnb3JhLmRldiUyRmJsb2clMkZkdXJhYmxlLWV4ZWN1dGlvbi13aXRob3V0LWhpc3RvcnktcmVwbGF5JTJGJTdDaHR0cHMlM0ElMkYlMkZ0cmlnb3JhLmRldiUyRmJsb2clMkZkdXJhYmxlLWV4ZWN1dGlvbi13aXRob3V0LWhpc3RvcnktcmVwbGF5JTJGJTdDRHVyYWJsZSUyMGV4ZWN1dGlvbiUyMHdpdGhvdXQlMjBoaXN0b3J5JTIwcmVwbGF5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2MzU2MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwOSUyMFNlcCUyMDIwMjYlMjAyMiUzQTQxJTNBMTQlMjAlMkIwMDAw",
+      "title": "Durable execution without history replay",
+      "pubDate": "Wed, 09 Sep 2026 22:41:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRm9hZHNmJTJGdmludGFnZS1sYXRleCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkZvYWRzZiUyRnZpbnRhZ2UtbGF0ZXglN0NWaW50YWdlJTIwU2NpZW50aWZpYyUyMFBhcGVycyUyMHdpdGglMjBMYVRlWCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI5NjI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTYlM0E1OCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Vintage Scientific Papers with LaTeX",
+      "pubDate": "Wed, 09 Sep 2026 16:58:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMDkxMDE1JTJGZDllNDgzMThlZDI0MmI0MSUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTA5MTAxNSUyRmQ5ZTQ4MzE4ZWQyNDJiNDElMkYlN0NTdGFiaWxpemluZyUyMFJ1c3QncyUyME5ldmVyJTIwVHlwZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjI1MDU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDklMjBTZXAlMjAyMDI2JTIwMTElM0E1NyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Stabilizing Rust's Never Type",
+      "pubDate": "Wed, 09 Sep 2026 11:57:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdW5zdGFub3JjaGFyZC5jb20lMkZhcHBsZS1pcG9kLWVuZ3JhdmVyJTJGJTdDaHR0cHMlM0ElMkYlMkZkdW5zdGFub3JjaGFyZC5jb20lMkZhcHBsZS1pcG9kLWVuZ3JhdmVyJTJGJTdDQXBwbGUlMjBpUG9kJTIwRW5ncmF2ZXIlMjAoMjAxOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYxOTg0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA5JTIwU2VwJTIwMjAyNiUyMDAxJTNBNTclM0EzNyUyMCUyQjAwMDA",
+      "title": "Apple iPod Engraver (2019)",
+      "pubDate": "Wed, 09 Sep 2026 01:57:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-09-0.json"
     }
   ]
