@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-13",
     "newestItemDate": "2026-09-13",
-    "itemCount": 5,
-    "generatedAt": "2026-09-13T04:57:04.065Z"
+    "itemCount": 16,
+    "generatedAt": "2026-09-13T13:21:02.594Z"
   },
   "items": [
     {
@@ -36,6 +36,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ4ZWlhc28ubmV0JTJGbm90ZXMlMkYyMDI2JTJGZXZlcnlvbmUtc2xvd2Rvd24tYnV0LW1lJTJGJTdDaHR0cHMlM0ElMkYlMkZ4ZWlhc28ubmV0JTJGbm90ZXMlMkYyMDI2JTJGZXZlcnlvbmUtc2xvd2Rvd24tYnV0LW1lJTJGJTdDRXZlcnlvbmUlMjBzaG91bGQlMjBzbG93JTIwZG93biUyMEFJJTIwZGV2ZWxvcG1lbnQlMjBleGNlcHQlMjBmb3IlMjBtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc4NjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMDAlM0EzMCUzQTQ0JTIwJTJCMDAwMA",
       "title": "Everyone should slow down AI development except for me",
       "pubDate": "Sun, 13 Sep 2026 00:30:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGdGVjaCUyRjk5NDA4NyUyRm1hdHQtbXVsbGVud2VnLWF1dG9tYXR0aWMtY2VvLXJldHVybiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXZlcmdlLmNvbSUyRnRlY2glMkY5OTQwODclMkZtYXR0LW11bGxlbndlZy1hdXRvbWF0dGljLWNlby1yZXR1cm4lN0NNYXR0JTIwTXVsbGVud2VnJTIwcmVwb3J0ZWRseSUyMHJldHVybnMlMjBhcyUyMEF1dG9tYXR0aWMlMjBDRU8lMjAyJTIwZGF5cyUyMGFmdGVyJTIwZ2V0dGluZyUyMGJvb3RlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjgzMjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTIlM0EzMCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
+      "pubDate": "Sun, 13 Sep 2026 12:30:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXMuYWMudWslMkZuZXdzLWFuZC1wcmVzcyUyRnJlc2VhcmNoLWhpZ2hsaWdodHMlMkZmaW5nZXJwcmludHMtaW5zaWRlLXN1bi1jb3VsZC1yZXZlYWwtaWYtaXQtb25jZS1zd2FsbG93ZWQtcGxhbmV0JTdDaHR0cHMlM0ElMkYlMkZyYXMuYWMudWslMkZuZXdzLWFuZC1wcmVzcyUyRnJlc2VhcmNoLWhpZ2hsaWdodHMlMkZmaW5nZXJwcmludHMtaW5zaWRlLXN1bi1jb3VsZC1yZXZlYWwtaWYtaXQtb25jZS1zd2FsbG93ZWQtcGxhbmV0JTdDJ0ZpbmdlcnByaW50cyclMjBpbnNpZGUlMjB0aGUlMjBTdW4lMjBjb3VsZCUyMHJldmVhbCUyMGlmJTIwaXQlMjBvbmNlJTIwc3dhbGxvd2VkJTIwYSUyMHBsYW5ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjgzMDMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTIlM0EwMSUzQTUyJTIwJTJCMDAwMA",
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "pubDate": "Sun, 13 Sep 2026 12:01:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlenouY29tJTJGbmV3cyUyRjIwMjYlMkYwOSUyRjExJTJGbnZpZGlhLXNheXMtZXZlcnktMS1pdC1pbnZlc3RzLWJyaW5ncy1iYWNrLTEwMC1zby13aHktZG9lcy10aGUtc3RvY2sta2VlcC1mYWxsaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZpbnZlenouY29tJTJGbmV3cyUyRjIwMjYlMkYwOSUyRjExJTJGbnZpZGlhLXNheXMtZXZlcnktMS1pdC1pbnZlc3RzLWJyaW5ncy1iYWNrLTEwMC1zby13aHktZG9lcy10aGUtc3RvY2sta2VlcC1mYWxsaW5nJTJGJTdDTnZpZGlhJTIwZGlzbWlzc2VzJTIwJTIyY2lyY3VsYXIlMjBmaW5hbmNpbmclMjIlMkMlMjBzYXlzJTIwZXZlcnklMjAlMjQxJTIwaXQlMjBpbnZlc3RzJTIwYnJpbmdzJTIwYmFjayUyMCUyNDEwMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjgyMzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMTAlM0EyOSUzQTE4JTIwJTJCMDAwMA",
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "pubDate": "Sun, 13 Sep 2026 10:29:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOSUyRjEyJTJGcmV2b2x1dC1jb25maXJtcy1jdXN0b21lci1kYXRhLWJyZWFjaC10aHJvdWdoLWZha2UtZ292ZXJubWVudC1yZXF1ZXN0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDklMkYxMiUyRnJldm9sdXQtY29uZmlybXMtY3VzdG9tZXItZGF0YS1icmVhY2gtdGhyb3VnaC1mYWtlLWdvdmVybm1lbnQtcmVxdWVzdHMlMkYlN0NSZXZvbHV0JTIwY29uZmlybXMlMjBjdXN0b21lciUyMGRhdGElMjBicmVhY2glMjB0aHJvdWdoJTIwZmFrZSUyMGdvdmVybm1lbnQlMjByZXF1ZXN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjgyMDg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMDklM0E1OSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "pubDate": "Sun, 13 Sep 2026 09:59:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmV3LnNoJTJGMjAyNiUyRjA5JTJGMTMlMkZob21lYnJldy03LjAuMCUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJldy5zaCUyRjIwMjYlMkYwOSUyRjEzJTJGaG9tZWJyZXctNy4wLjAlMkYlN0NIb21lYnJldyUyMDcuMC4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODE1NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAwOCUzQTQxJTNBMTclMjAlMkIwMDAw",
+      "title": "Homebrew 7.0.0",
+      "pubDate": "Sun, 13 Sep 2026 08:41:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXRrdm0uY29tJTJGYmxvZyUyRmludHJvZHVjaW5nLWpldGt2bS1taW5pJTdDaHR0cHMlM0ElMkYlMkZqZXRrdm0uY29tJTJGYmxvZyUyRmludHJvZHVjaW5nLWpldGt2bS1taW5pJTdDSmV0S1ZNJTIwTWluaSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjgxMTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMDclM0E0OSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "JetKVM Mini",
+      "pubDate": "Sun, 13 Sep 2026 07:49:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA4LWJsYWNrLWhvbGUtY2F1Z2h0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnBoeXMub3JnJTJGbmV3cyUyRjIwMjYtMDgtYmxhY2staG9sZS1jYXVnaHQuaHRtbCU3Q0ElMjB3YW5kZXJpbmclMjBibGFjayUyMGhvbGUlMjBjYXVnaHQlMjBmZWVkaW5nJTIwb24lMjB0aGUlMjBydW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3OTczNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDAzJTNBMzQlM0E1MyUyMCUyQjAwMDA",
+      "title": "A wandering black hole caught feeding on the run",
+      "pubDate": "Sun, 13 Sep 2026 03:34:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZmZWF0dXJlJTJGc3VjY2Vzc2lvbi1jcmlzaXMtdG9yZS1lbmdsYW5kLWFwYXJ0JTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZmZWF0dXJlJTJGc3VjY2Vzc2lvbi1jcmlzaXMtdG9yZS1lbmdsYW5kLWFwYXJ0JTdDQSUyMHN1Y2Nlc3Npb24lMjBjcmlzaXMlMjB0aGF0JTIwdG9yZSUyMEVuZ2xhbmQlMjBhcGFydCUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc5NjQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMDMlM0ExOCUzQTI5JTIwJTJCMDAwMA",
+      "title": "A succession crisis that tore England apart (2023)",
+      "pubDate": "Sun, 13 Sep 2026 03:18:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoeXBlcmJvLmxhJTJGdyUyRmFsaWduZWQtdG8td2hvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGaHlwZXJiby5sYSUyRnclMkZhbGlnbmVkLXRvLXdob20lMkYlN0NBbGlnbmVkJTIwdG8lMjB3aG9tJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2Nzk2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAwMyUzQTE3JTNBMTglMjAlMkIwMDAw",
+      "title": "Aligned to whom?",
+      "pubDate": "Sun, 13 Sep 2026 03:17:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMTIlMkZhZnRlci1tYXRoJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMTIlMkZhZnRlci1tYXRoJTJGJTdDQWZ0ZXIlMjBNYXRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2Nzk2MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAwMyUzQTE2JTNBNDElMjAlMkIwMDAw",
+      "title": "After Math",
+      "pubDate": "Sun, 13 Sep 2026 03:16:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5b3NodWFiZW5naW8ub3JnJTJGZW4lMkZwdWJsaWNhdGlvbiUyRndoeS1hcmUtYWktYWdlbnRzLWx5aW5nLWNoZWF0aW5nLWFuZC1jb29yZGluYXRpbmclN0NodHRwcyUzQSUyRiUyRnlvc2h1YWJlbmdpby5vcmclMkZlbiUyRnB1YmxpY2F0aW9uJTJGd2h5LWFyZS1haS1hZ2VudHMtbHlpbmctY2hlYXRpbmctYW5kLWNvb3JkaW5hdGluZyU3Q1doeSUyMGFyZSUyMEFJJTIwYWdlbnRzJTIwbHlpbmclMkMlMjBjaGVhdGluZyUyMGFuZCUyMGNvb3JkaW5hdGluZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc4OTY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMDElM0EyMiUzQTMxJTIwJTJCMDAwMA",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "pubDate": "Sun, 13 Sep 2026 01:22:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
     }
   ]

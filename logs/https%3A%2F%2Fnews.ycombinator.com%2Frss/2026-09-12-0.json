@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 34,
-    "generatedAt": "2026-09-13T04:57:04.066Z"
+    "itemCount": 37,
+    "generatedAt": "2026-09-13T13:21:02.594Z"
   },
   "items": [
     {
@@ -210,6 +210,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYWNoeWRlcm0uaW8lMkYlNDBzaW1vbnRhdGhhbSUyRjExNzIwMTU5NDk4MDk5MTA2MiU3Q2h0dHBzJTNBJTJGJTJGaGFjaHlkZXJtLmlvJTJGJTQwc2ltb250YXRoYW0lMkYxMTcyMDE1OTQ5ODA5OTEwNjIlN0NMaW51eCUyMFpvb20lMjBjbGllbnQlMjBwcm9hY3RpdmVseSUyMHJlYWRpbmclMjBldmVyeXRoaW5nJTIwd3JpdHRlbiUyMHRvJTIwWDExJTIwY2xpcGJvYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzU5MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxOCUzQTU4JTNBNTclMjAlMkIwMDAw",
       "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
       "pubDate": "Sat, 12 Sep 2026 18:58:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRmVyYWxGaXJtd2FyZSUyRlRhaWxUYWxrJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRmVyYWxGaXJtd2FyZSUyRlRhaWxUYWxrJTJGJTdDVGFpbFRhbGslM0ElMjBBJTIwbW9kZXJuJTIwYXN5bmMlMjB1c2VyJTIwc3BhY2UlMjBBcHBsZVRhbGslMjBzdGFjayUyMHdpdGglMjBSdXN0JTIwYW5kJTIwVG9raW8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3ODQyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDIzJTNBNDMlM0EzMSUyMCUyQjAwMDA",
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "pubDate": "Sat, 12 Sep 2026 23:43:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRklEX0FBX0Nhcm1hY2slMkZzdGF0dXMlMkYyMDk4NDQzMjYyMjE0MjMwMDk1JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRklEX0FBX0Nhcm1hY2slMkZzdGF0dXMlMkYyMDk4NDQzMjYyMjE0MjMwMDk1JTdDRG9uJ3QlMjBiZSUyMHRoZSUyMG91dCUyMG9mJTIwdG91Y2glMjBLdW5nJTIwRnUlMjBtYXN0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3NzU3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDIxJTNBNTElM0E0MyUyMCUyQjAwMDA",
+      "title": "Don't be the out of touch Kung Fu master",
+      "pubDate": "Sat, 12 Sep 2026 21:51:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAxODc3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAxODc3JTdDV2lsbCUyMHRoZXJlJTIwYmUlMjBhJTIwN0clM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3NDQ5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE3JTNBMDUlM0EzMSUyMCUyQjAwMDA",
+      "title": "Will there be a 7G?",
+      "pubDate": "Sat, 12 Sep 2026 17:05:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]
