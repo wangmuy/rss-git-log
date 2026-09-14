@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-11",
     "newestItemDate": "2026-09-11",
-    "itemCount": 54,
-    "generatedAt": "2026-09-14T15:04:47.704Z"
+    "itemCount": 55,
+    "generatedAt": "2026-09-14T20:21:13.982Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0bmNhcmRvc28uY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRm9wdGltaXppbmctYW5hbW9ycGhpYy1zY3VscHR1cmVzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0bmNhcmRvc28uY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRm9wdGltaXppbmctYW5hbW9ycGhpYy1zY3VscHR1cmVzJTJGJTdDT3B0aW1pemluZyUyMEFuYW1vcnBoaWMlMjBTY3VscHR1cmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NTcyNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAxMiUzQTI1JTNBMzclMjAlMkIwMDAw",
       "title": "Optimizing Anamorphic Sculptures",
       "pubDate": "Fri, 11 Sep 2026 12:25:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUEpIa29yZWElMkZqYXgtc29mdG1heC1ieXBhc3MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZQSkhrb3JlYSUyRmpheC1zb2Z0bWF4LWJ5cGFzcyU3Q1Nob3clMjBITiUzQSUyMEJ5cGFzc2luZyUyMFRyYW5zZm9ybWVyJTIwU29mdG1heCUyMHZpYSUyMFN0YXRpYyUyMENvbnRyYWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NjYzMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMSUyMFNlcCUyMDIwMjYlMjAyMiUzQTM2JTNBNDclMjAlMkIwMDAw",
+      "title": "Show HN: Bypassing Transformer Softmax via Static Contraction",
+      "pubDate": "Fri, 11 Sep 2026 22:36:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-11-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-14",
     "newestItemDate": "2026-09-14",
-    "itemCount": 31,
-    "generatedAt": "2026-09-14T15:04:47.704Z"
+    "itemCount": 53,
+    "generatedAt": "2026-09-14T20:21:13.982Z"
   },
   "items": [
     {
@@ -192,6 +192,138 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW51ajA0NTYlMkZPcGVuQXJjaCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFudWowNDU2JTJGT3BlbkFyY2glN0NPcGVuQXJjaCUyMCVFMiU4MCU5MyUyMFB5VG9yY2glMjBpbXBsZW1lbnRhdGlvbnMlMjBvZiUyMG1vZGVybiUyMExMTSUyMGFyY2hpdGVjdHVyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5MzM4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDA3JTNBNTUlM0ExOSUyMCUyQjAwMDA",
       "title": "OpenArch – PyTorch implementations of modern LLM architectures",
       "pubDate": "Mon, 14 Sep 2026 07:55:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbnRlbGxpZ2VuY2UuYWklMkZibG9ncyUyRmdwdC01LjYtbHVuYS12cy1ncHQtNi1hc3RyYS1pcy1hLTEuMjAtbW9kZWwtZ29vZC1lbm91Z2gtZm9yLWNvZGUtcmV2aWV3JTdDaHR0cHMlM0ElMkYlMkZlbnRlbGxpZ2VuY2UuYWklMkZibG9ncyUyRmdwdC01LjYtbHVuYS12cy1ncHQtNi1hc3RyYS1pcy1hLTEuMjAtbW9kZWwtZ29vZC1lbm91Z2gtZm9yLWNvZGUtcmV2aWV3JTdDR1BULTUuNiUyMEx1bmElMjB2cy4lMjBHUFQtNiUyMEFzdHJhJTNBJTIwSXMlMjBhJTIwJTI0MS4yMCUyME1vZGVsJTIwR29vZCUyMEVub3VnaCUyMGZvciUyMENvZGUlMjBSZXZpZXclM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcwMzAwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE5JTNBNTYlM0EyMCUyMCUyQjAwMDA",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "pubDate": "Mon, 14 Sep 2026 19:56:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZW9tYWNzLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbmVvbWFjcy5vcmclMkYlN0NOZW8lMjBFbWFjcyUyMCVFMiU4MCU5MyUyMEVtYWNzJTIwZnJvbSUyMHRoZSUyMEZ1dHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzAyNzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTklM0E0MiUzQTIyJTIwJTJCMDAwMA",
+      "title": "Neo Emacs – Emacs from the Future",
+      "pubDate": "Mon, 14 Sep 2026 19:42:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHRpbWVzLmNvLnVrJTJGb3JhY2xlLW5ldy1sYXlvZmZzLXJlc3RydWN0dXJpbmctY29zdHMtMi04LWJpbGxpb24tMTgwODY3NiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRlY2h0aW1lcy5jby51ayUyRm9yYWNsZS1uZXctbGF5b2Zmcy1yZXN0cnVjdHVyaW5nLWNvc3RzLTItOC1iaWxsaW9uLTE4MDg2NzYlN0NPcmFjbGUncyUyMENvbGQlMjA2QU0lMjBMYXlvZmYlMjBFbWFpbHMlMjBIaXQlMjBTdGFmZiUyMEFtaWQlMjBOZXclMjBXYXZlJTIwb2YlMjBDdXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MDIyMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxOSUzQTA1JTNBMTUlMjAlMkIwMDAw",
+      "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+      "pubDate": "Mon, 14 Sep 2026 19:05:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDklMkZtYWpvci11cGRhdGVzLWZvci1hcHBsZXMtc29mdHdhcmUtcGxhdGZvcm1zLWFyZS1ub3ctYXZhaWxhYmxlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMDklMkZtYWpvci11cGRhdGVzLWZvci1hcHBsZXMtc29mdHdhcmUtcGxhdGZvcm1zLWFyZS1ub3ctYXZhaWxhYmxlJTJGJTdDaU9TJTIwMjclMkMlMjBpUGFkT1MlMjAyNyUyQyUyMGFuZCUyMG1hY09TJTIwMjclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcwMTAwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE3JTNBNTAlM0EyOSUyMCUyQjAwMDA",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "pubDate": "Mon, 14 Sep 2026 17:50:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9yZS5zdGVhbXBvd2VyZWQuY29tJTJGaGFyZHdhcmUlMkZzdGVhbWZyYW1lJTdDaHR0cHMlM0ElMkYlMkZzdG9yZS5zdGVhbXBvd2VyZWQuY29tJTJGaGFyZHdhcmUlMkZzdGVhbWZyYW1lJTdDU3RlYW0lMjBGcmFtZSUyMHN0YXJ0cyUyMGF0JTIwJTI0MTA1OSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzAwNjYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTclM0EyNyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Steam Frame starts at $1059",
+      "pubDate": "Mon, 14 Sep 2026 17:27:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRvbmxhYnMuY29tJTJGYmxvZyUyRndoeS13ZS1idWlsdC1waW9uJTdDaHR0cHMlM0ElMkYlMkZhbmRvbmxhYnMuY29tJTJGYmxvZyUyRndoeS13ZS1idWlsdC1waW9uJTdDUGlvbiUyQyUyMGFuJTIwYWdlbnQlMjBkZXNpZ25lZCUyMHRvJTIwcnVuJTIwYW55JTIwY29tcGFueSUyMGF1dG9ub21vdXNseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzAwNDc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTclM0ExNiUzQTA2JTIwJTJCMDAwMA",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "pubDate": "Mon, 14 Sep 2026 17:16:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGYXV0b21hdGljLWtleS1leGNoYW5nZS1mb3Itb3JpZ2lucyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jbG91ZGZsYXJlLmNvbSUyRmF1dG9tYXRpYy1rZXktZXhjaGFuZ2UtZm9yLW9yaWdpbnMlMkYlN0NDbG91ZGZsYXJlJTIwQUtFJTIwY3V0cyUyMG9yaWdpbiUyMEhlbGxvUmV0cnlSZXF1ZXN0cyUyMGZyb20lMjA1MiUyNSUyMHRvJTIwMy43JTI1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MDAyNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxNyUzQTAyJTNBMzQlMjAlMkIwMDAw",
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "pubDate": "Mon, 14 Sep 2026 17:02:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY3VhJTJGam9icyUyRjFJV0VLVkgtZm91bmRpbmctdGVjaG5pY2FsLWd0bS1sZWFkJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY3VhJTJGam9icyUyRjFJV0VLVkgtZm91bmRpbmctdGVjaG5pY2FsLWd0bS1sZWFkJTdDQ3VhJTIwKFlDJTIwUDI1KSUyMElzJTIwSGlyaW5nJTIwYSUyMEZvdW5kaW5nJTIwVGVjaG5pY2FsJTIwR1RNJTIwTGVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzAwMjE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTclM0EwMCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "pubDate": "Mon, 14 Sep 2026 17:00:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW1hem9uLnNjaWVuY2UlMkZibG9nJTJGd2h5LWRvbnQtbWFjaGluZS1sZWFybmluZy1yZXNlYXJjaC1hZ2VudHMtb3ZlcmZpdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFtYXpvbi5zY2llbmNlJTJGYmxvZyUyRndoeS1kb250LW1hY2hpbmUtbGVhcm5pbmctcmVzZWFyY2gtYWdlbnRzLW92ZXJmaXQlN0NXaHklMjBkb24ndCUyMG1hY2hpbmUlMjBsZWFybmluZyUyMHJlc2VhcmNoJTIwYWdlbnRzJTIwb3ZlcmZpdCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk5NjQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTYlM0EzMiUzQTIzJTIwJTJCMDAwMA",
+      "title": "Why don't machine learning research agents overfit?",
+      "pubDate": "Mon, 14 Sep 2026 16:32:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW1hem9uLnNjaWVuY2UlMkZibG9nJTJGd2hlbi1sbG0tanVkZ2VzLWFncmVlLXNob3VsZC13ZS1iZWxpZXZlLXRoZW0lN0NodHRwcyUzQSUyRiUyRnd3dy5hbWF6b24uc2NpZW5jZSUyRmJsb2clMkZ3aGVuLWxsbS1qdWRnZXMtYWdyZWUtc2hvdWxkLXdlLWJlbGlldmUtdGhlbSU3Q1doZW4lMjBMTE0lMjBqdWRnZXMlMjBhZ3JlZSUyQyUyMHNob3VsZCUyMHdlJTIwYmVsaWV2ZSUyMHRoZW0lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5OTU5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE2JTNBMjklM0EzMCUyMCUyQjAwMDA",
+      "title": "When LLM judges agree, should we believe them?",
+      "pubDate": "Mon, 14 Sep 2026 16:29:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VycGVudGluZS5jb20lMkZwb3N0cyUyRjIwMjYlMkZ4My1zdHJpcGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2VycGVudGluZS5jb20lMkZwb3N0cyUyRjIwMjYlMkZ4My1zdHJpcGVzJTJGJTdDSG93JTIwbXklMjBlLXJlYWRlciUyMGxvc3QlMjBpdHMlMjBzdHJpcGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTk0ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxNiUzQTIzJTNBMTYlMjAlMkIwMDAw",
+      "title": "How my e-reader lost its stripes",
+      "pubDate": "Mon, 14 Sep 2026 16:23:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGb3MtcGxhdGZvcm1zJTJGMjAyNiUyRjA5JTJGMTQlMkZtaWNyb3NvZnQtcGF0Y2hlcy13aW5kb3dzLWFuZC1leGNlbC1icmVha3MtYXVkaW8tcmVtb3RlLWFjY2Vzcy1hbmQtcGFzdGUlMkY1Mjk2MDg1JTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGb3MtcGxhdGZvcm1zJTJGMjAyNiUyRjA5JTJGMTQlMkZtaWNyb3NvZnQtcGF0Y2hlcy13aW5kb3dzLWFuZC1leGNlbC1icmVha3MtYXVkaW8tcmVtb3RlLWFjY2Vzcy1hbmQtcGFzdGUlMkY1Mjk2MDg1JTdDTWljcm9zb2Z0JTIwcGF0Y2hlcyUyMFdpbmRvd3MlMjBhbmQlMjBFeGNlbCUyMCVFMiU4MCU5MyUyMGJyZWFrcyUyMGF1ZGlvJTJDJTIwcmVtb3RlJTIwYWNjZXNzJTJDJTIwYW5kJTIwcGFzdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5OTI5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE2JTNBMDklM0E0NSUyMCUyQjAwMDA",
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "pubDate": "Mon, 14 Sep 2026 16:09:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXJpbGFicy5jb20lMkZibG9nJTJGbmFyaS1sYWJzLWxlYWRzLWNvdmFsLXZvaWNlLWFpLWJlbmNobWFya3MlMkYlN0NodHRwcyUzQSUyRiUyRm5hcmlsYWJzLmNvbSUyRmJsb2clMkZuYXJpLWxhYnMtbGVhZHMtY292YWwtdm9pY2UtYWktYmVuY2htYXJrcyUyRiU3Q1Nob3clMjBITiUzQSUyME5hcmklMjBRd2VuMy1UVFMlMjBhbmQlMjBRd2VuMy1BU1IlMjAlRTIlODAlOTMlMjBIaWdoJTIwYWNjdXJhY3klMkMlMjBsb3clMjBsYXRlbmN5JTIwYW5kJTIwY29zdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk5MjY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTYlM0EwNyUzQTU4JTIwJTJCMDAwMA",
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "pubDate": "Mon, 14 Sep 2026 16:07:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVvYnJ1dGFsaXNtLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5lb2JydXRhbGlzbS5kZXYlMkYlN0NTaG93JTIwSE4lM0ElMjBOZW9icnV0YWxpc20uZGV2JTIwJUUyJTgwJTkzJTIwSnVzdCUyMGFkZGVkJTIwQmFzZSUyMFVJJTIwc3VwcG9ydCUyMGFuZCUyMGFkZGVkJTIwbmV3JTIwY29sb3IlMjB0aGVtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk5MTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTYlM0EwMiUzQTAyJTIwJTJCMDAwMA",
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "pubDate": "Mon, 14 Sep 2026 16:02:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudmFydG9sb21laS5jb20lMkZkaXN0LXN5cy1jbGFzc2ljcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbnZhcnRvbG9tZWkuY29tJTJGZGlzdC1zeXMtY2xhc3NpY3MlMkYlN0NEaXN0cmlidXRlZCUyMFN5c3RlbXMlMjBDbGFzc2ljcyUyMCgyMDE3KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk5MTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTYlM0EwMiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Distributed Systems Classics (2017)",
+      "pubDate": "Mon, 14 Sep 2026 16:02:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFzaGFuZHBsdWNreS5jb20lMkYyMDIzJTJGMDklMkYwOSUyRnRydW5jYXRlZC1zdmQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYnJhc2hhbmRwbHVja3kuY29tJTJGMjAyMyUyRjA5JTJGMDklMkZ0cnVuY2F0ZWQtc3ZkLmh0bWwlN0NUcnVuY2F0ZWQlMjBTVkQlMjAoMjAyMyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5OTEzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE2JTNBMDAlM0EzMyUyMCUyQjAwMDA",
+      "title": "Truncated SVD (2023)",
+      "pubDate": "Mon, 14 Sep 2026 16:00:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFuaWVsbGl0dC5jb20lMkZibG9nJTJGMjAyNiUyRjklMkYxMyUyRmEtYmVnaW5uaW5nLWZvci1tYXRoZW1hdGljcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhbmllbGxpdHQuY29tJTJGYmxvZyUyRjIwMjYlMkY5JTJGMTMlMkZhLWJlZ2lubmluZy1mb3ItbWF0aGVtYXRpY3MlMkYlN0NBJTIwQmVnaW5uaW5nJTIwZm9yJTIwTWF0aGVtYXRpY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5ODY5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzMlM0EwNyUyMCUyQjAwMDA",
+      "title": "A Beginning for Mathematics",
+      "pubDate": "Mon, 14 Sep 2026 15:33:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWFsOS1ycy5naXRodWIuaW8lMkZibG9nJTJGcHJpbmNpcGxlcy1mb3ItZmFzdC10b2tpby1hcHBsaWNhdGlvbnMlMkYlN0NodHRwcyUzQSUyRiUyRmRpYWw5LXJzLmdpdGh1Yi5pbyUyRmJsb2clMkZwcmluY2lwbGVzLWZvci1mYXN0LXRva2lvLWFwcGxpY2F0aW9ucyUyRiU3Q1ByaW5jaXBsZXMlMjBmb3IlMjBGYXN0JTIwVG9raW8lMjBBcHBsaWNhdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5ODYwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE1JTNBMjclM0E1NiUyMCUyQjAwMDA",
+      "title": "Principles for Fast Tokio Applications",
+      "pubDate": "Mon, 14 Sep 2026 15:27:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFkdmVyc2FyaWFsLWZhc2hpb24lN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGYWR2ZXJzYXJpYWwtZmFzaGlvbiU3Q0FkdmVyc2FyaWFsJTIwRmFzaGlvbiUyME1ha2VzJTIwYSUyMFN0YXRlbWVudCUyMG9uJTIwQUklMjBQYW5vcHRpY29uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTcwOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxNCUzQTA0JTNBNTMlMjAlMkIwMDAw",
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "pubDate": "Mon, 14 Sep 2026 14:04:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYWxseS5uZXQlMkZ0ZW1wJTJGMjAyNjA5MTRwZWxpY2FuLWFsdGVybmF0aXZlcyUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmdhbGx5Lm5ldCUyRnRlbXAlMkYyMDI2MDkxNHBlbGljYW4tYWx0ZXJuYXRpdmVzJTJGaW5kZXguaHRtbCU3Q1Nob3clMjBITiUzQSUyMFBlbGljYW4tYmljeWNsZSUyMGFsdGVybmF0aXZlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk2NDAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTMlM0EyMCUzQTIyJTIwJTJCMDAwMA",
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "pubDate": "Mon, 14 Sep 2026 13:20:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW5kZXJsb3ZlbWFraW5nLmNvbSUyRjIwMjYlMkYwOSUyRjExJTJGd2hhdC1hLXRpbWUtdG8tYmUtYWxpdmUlMkYlN0NodHRwcyUzQSUyRiUyRnRlbmRlcmxvdmVtYWtpbmcuY29tJTJGMjAyNiUyRjA5JTJGMTElMkZ3aGF0LWEtdGltZS10by1iZS1hbGl2ZSUyRiU3Q09wZW5BSSUyMGJvdHMlMjBrbmV3JTIwYWJvdXQlMjB0aGUlMjBSdWJ5R2VtcyUyMGNhY2hpbmclMjB2dWxuZXJhYmlsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTU4NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxMiUzQTQwJTNBNTclMjAlMkIwMDAw",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "pubDate": "Mon, 14 Sep 2026 12:40:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4Y2FuY2VsLmNvbSUyRiUyMyU3Q2h0dHBzJTNBJTJGJTJGeGNhbmNlbC5jb20lMkYlMjMlN0NYQ2FuY2VsJTIwc2VydmljZSUyMGlzJTIwc3VzcGVuZGVkJTIwdW50aWwlMjBmdXJ0aGVyJTIwbm90aWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTQyOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAwOSUzQTUxJTNBNTAlMjAlMkIwMDAw",
+      "title": "XCancel service is suspended until further notice",
+      "pubDate": "Mon, 14 Sep 2026 09:51:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
     }
   ]

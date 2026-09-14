@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-10",
     "newestItemDate": "2026-09-10",
-    "itemCount": 62,
-    "generatedAt": "2026-09-14T05:05:59.074Z"
+    "itemCount": 63,
+    "generatedAt": "2026-09-14T20:21:13.982Z"
   },
   "items": [
     {
@@ -378,6 +378,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzcGFjZXNoaXBzLnRyZXliYXN0aWFuLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3BhY2VzaGlwcy50cmV5YmFzdGlhbi5jb20lMkYlN0NTcGFjZXNoaXBzJTIwKFJldmVyc2UlMjBBc3Rlcm9pZCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYzODUxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDA0JTNBNDQlM0EzMiUyMCUyQjAwMDA",
       "title": "Spaceships (Reverse Asteroid)",
       "pubDate": "Thu, 10 Sep 2026 04:44:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqc2dyb3RoLmRldiUyRmJsb2clMkZwb3N0cyUyRnRyeWluZy10by1tYWtlLWEtbG9vcC1hdXRvLXZlY3Rvcml6ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGanNncm90aC5kZXYlMkZibG9nJTJGcG9zdHMlMkZ0cnlpbmctdG8tbWFrZS1hLWxvb3AtYXV0by12ZWN0b3JpemUlMkYlN0NUcnlpbmclMjB0byUyME1ha2UlMjBhJTIwTG9vcCUyMEF1dG8tVmVjdG9yaXplJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2Mzg1NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAwNCUzQTUwJTNBMjUlMjAlMkIwMDAw",
+      "title": "Trying to Make a Loop Auto-Vectorize",
+      "pubDate": "Thu, 10 Sep 2026 04:50:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
     }
   ]
