@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-14",
     "newestItemDate": "2026-09-14",
-    "itemCount": 8,
-    "generatedAt": "2026-09-14T05:05:59.073Z"
+    "itemCount": 31,
+    "generatedAt": "2026-09-14T15:04:47.704Z"
   },
   "items": [
     {
@@ -54,6 +54,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmNoaWxsaW5nLXdhcm5pbmctb3Itb3ZlcnJlYWN0aW9uLWFpLWJpb3dlYXBvbnMtcmVwb3J0LWRpdmlkZXMtZXhwZXJ0cyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZjaGlsbGluZy13YXJuaW5nLW9yLW92ZXJyZWFjdGlvbi1haS1iaW93ZWFwb25zLXJlcG9ydC1kaXZpZGVzLWV4cGVydHMlN0MlMjJDaGlsbGluZyUyMiUyMHdhcm5pbmclMjBvciUyMG92ZXJyZWFjdGlvbiUzRiUyMEFJJTIwYmlvd2VhcG9ucyUyMHJlcG9ydCUyMGRpdmlkZXMlMjBleHBlcnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTAxMzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAwMCUzQTA3JTNBMDklMjAlMkIwMDAw",
       "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
       "pubDate": "Mon, 14 Sep 2026 00:07:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaWV0dGEuY29tJTJGYmxvZyUyRnJ1YnlnZW1zLXN1cHBseS1jaGFpbi1vcGVuYWklMkYlN0NodHRwcyUzQSUyRiUyRnJpZXR0YS5jb20lMkZibG9nJTJGcnVieWdlbXMtc3VwcGx5LWNoYWluLW9wZW5haSUyRiU3Q1J1YnlHZW1zJTIwT3BlbiUyMFNvdXJjZSUyMFN1cHBseSUyMENoYWluJTIwU2VjdXJpdHklMjBhbmQlMjBPcGVuQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NzY2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE0JTNBMzklM0EwMSUyMCUyQjAwMDA",
+      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
+      "pubDate": "Mon, 14 Sep 2026 14:39:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWx0c2NoLmRlJTJGcG9zdHMlMkZob3ctZG8td2UtZ2Fpbi10cmFjdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3VsdHNjaC5kZSUyRnBvc3RzJTJGaG93LWRvLXdlLWdhaW4tdHJhY3Rpb24lMkYlN0NKYWJiZXIlMkZYTVBQJTNBJTIwSG93JTIwRG8lMjBXZSUyMEdhaW4lMjBUcmFjdGlvbiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk3NjQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTQlM0EzNyUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Jabber/XMPP: How Do We Gain Traction?",
+      "pubDate": "Mon, 14 Sep 2026 14:37:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmdyYXBoaWNyYW50cy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDIlMkZuYW5pdGUtdGVzc2VsbGF0aW9uLmh0bWwlN0NodHRwJTNBJTJGJTJGZ3JhcGhpY3JhbnRzLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwMiUyRm5hbml0ZS10ZXNzZWxsYXRpb24uaHRtbCU3Q0dyYXBoaWMlMjBSYW50cyUzQSUyME5hbml0ZSUyMFRlc3NlbGxhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk3NDQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTQlM0EyNyUzQTI0JTIwJTJCMDAwMA",
+      "title": "Graphic Rants: Nanite Tessellation",
+      "pubDate": "Mon, 14 Sep 2026 14:27:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tJTJGcCUyRndoZXJlLWhhcy1jb25zdHJ1Y3Rpb24tYXV0b21hdGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cnVjdGlvbi1waHlzaWNzLmNvbSUyRnAlMkZ3aGVyZS1oYXMtY29uc3RydWN0aW9uLWF1dG9tYXRpb24lN0NXaGVyZSUyMGhhcyUyMENvbnN0cnVjdGlvbiUyMEF1dG9tYXRpb24lMjBiZWVuJTIwc3VjY2Vzc2Z1bCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk3MjM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTQlM0ExMyUzQTUyJTIwJTJCMDAwMA",
+      "title": "Where has Construction Automation been successful?",
+      "pubDate": "Mon, 14 Sep 2026 14:13:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmgtMWItdmlzYS11cy1nb3Zlcm5tZW50JTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmgtMWItdmlzYS11cy1nb3Zlcm5tZW50JTdDTmV3JTIwJTI0MTAwSyUyMEgtMUIlMjBWaXNhJTIwRmVlJTIwUHVzaGVzJTIwVGVjaCUyMEpvYnMlMjBPZmZzaG9yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk3MTcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTQlM0EwOSUzQTEwJTIwJTJCMDAwMA",
+      "title": "New $100K H-1B Visa Fee Pushes Tech Jobs Offshore",
+      "pubDate": "Mon, 14 Sep 2026 14:09:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGl6a2lkZC5naXRodWIuaW8lMkYlMkYyMDI2JTJGMDklMkYxMyUyRmZsYXNoYXR0ZW50aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZjaGl6a2lkZC5naXRodWIuaW8lMkYlMkYyMDI2JTJGMDklMkYxMyUyRmZsYXNoYXR0ZW50aW9uJTJGJTdDVW5kZXJzdGFuZGluZyUyMEZsYXNoQXR0ZW50aW9uJTIwUHQlMjAxJTNBJTIwUGVyc29uYWwlMjBOb3RlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk3MDQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTQlM0EwMSUzQTA0JTIwJTJCMDAwMA",
+      "title": "Understanding FlashAttention Pt 1: Personal Notes",
+      "pubDate": "Mon, 14 Sep 2026 14:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXRyaWNrbWNjYW5uYS5uZXQlMkZub3Rlcy1vbi1taWdyYXRpbmctbGFyZ2UtcHJvbXB0cy1hd2F5LWZyb20tYW50aHJvcGljLW9wZW5haS10by1zZWxmLWhvc3RlZC1sbG1zJTJGJTdDaHR0cHMlM0ElMkYlMkZwYXRyaWNrbWNjYW5uYS5uZXQlMkZub3Rlcy1vbi1taWdyYXRpbmctbGFyZ2UtcHJvbXB0cy1hd2F5LWZyb20tYW50aHJvcGljLW9wZW5haS10by1zZWxmLWhvc3RlZC1sbG1zJTJGJTdDTm90ZXMlMjBvbiUyMGdvdGNoYXMlMjB3aGlsZSUyMG1pZ3JhdGluZyUyMDM1a2IlMjBwcmVwcm9tcHRzJTIwZnJvbSUyME9wdXMlMjB0byUyMHNlbGYtaG9zdGVkJTIwT2xsYW1hJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTcwMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxMyUzQTU5JTNBMDklMjAlMkIwMDAw",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "pubDate": "Mon, 14 Sep 2026 13:59:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWxpbm1ha3MuY29tJTJGYmxvZyUyRmVuJTJGYWktam9icy1tYXJrZXQtMjAyNiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmlsaW5tYWtzLmNvbSUyRmJsb2clMkZlbiUyRmFpLWpvYnMtbWFya2V0LTIwMjYlN0NUaGUlMjBBSSUyMGpvYiUyMG1hcmtldCUyMGluJTIwMjAyNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk2ODY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTMlM0E0OSUzQTU3JTIwJTJCMDAwMA",
+      "title": "The AI job market in 2026",
+      "pubDate": "Mon, 14 Sep 2026 13:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYW1hbC1kZXBsb3kub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZrYW1hbC1kZXBsb3kub3JnJTJGJTdDS2FtYWwlMjAlRTIlODAlOTMlMjBEZXBsb3klMjB3ZWIlMjBhcHBzJTIwYW55d2hlcmUlMjBmcm9tJTIwYmFyZSUyMG1ldGFsJTIwdG8lMjBjbG91ZCUyMFZNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk2NzA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTMlM0EzOSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Kamal – Deploy web apps anywhere from bare metal to cloud VMs",
+      "pubDate": "Mon, 14 Sep 2026 13:39:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub21ndWJ1bnR1LmNvLnVrJTJGMjAyNiUyRjA5JTJGdWJ1bnR1LTI2MTAtcnVzdC1jb3JldXRpbHMtY29tcGxldGUlN0NodHRwcyUzQSUyRiUyRnd3dy5vbWd1YnVudHUuY28udWslMkYyMDI2JTJGMDklMkZ1YnVudHUtMjYxMC1ydXN0LWNvcmV1dGlscy1jb21wbGV0ZSU3Q1VidW50dSUyMDI2LjEwJTIwY29tcGxldGVzJTIwdHJhbnNpdGlvbiUyMHRvJTIwUnVzdC1iYXNlZCUyMGNvcmV1dGlscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk2Njk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTMlM0EzOCUzQTU4JTIwJTJCMDAwMA",
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "pubDate": "Mon, 14 Sep 2026 13:38:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYWxseS5uZXQlMkZ0ZW1wJTJGMjAyNjA5MTRwZWxpY2FuLWFsdGVybmF0aXZlcyUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmdhbGx5Lm5ldCUyRnRlbXAlMkYyMDI2MDkxNHBlbGljYW4tYWx0ZXJuYXRpdmVzJTJGaW5kZXguaHRtbCU3Q1Nob3clMjBITiUzQSUyMFBlbGljYW4tYmljeWNsZSUyMGFsdGVybmF0aXZlcyUyMCh1cGRhdGVkJTIwZm9yJTIwMjAyNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NjQwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDEzJTNBMjAlM0EyMiUyMCUyQjAwMDA",
+      "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+      "pubDate": "Mon, 14 Sep 2026 13:20:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW1wb3JhbC5pbyUyRmJsb2clMkZ0ZW1wb3JhbC1yYWlzZXMtdXNkNTUwbS1zZXJpZXMtZS1hdC11c2QxMi01NWItdmFsdWF0aW9uLWFpJTdDaHR0cHMlM0ElMkYlMkZ0ZW1wb3JhbC5pbyUyRmJsb2clMkZ0ZW1wb3JhbC1yYWlzZXMtdXNkNTUwbS1zZXJpZXMtZS1hdC11c2QxMi01NWItdmFsdWF0aW9uLWFpJTdDVGVtcG9yYWwlMjByYWlzZXMlMjAlMjQ1NTBNJTIwYXQlMjBhJTIwJTI0MTIuNTVCJTIwdmFsdWF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTYzMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxMyUzQTE2JTNBMzElMjAlMkIwMDAw",
+      "title": "Temporal raises $550M at a $12.55B valuation",
+      "pubDate": "Mon, 14 Sep 2026 13:16:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXJ0bmV3c3BhcGVyLmNvbSUyRjIwMjYlMkYwOSUyRjE0JTJGbGFyZ2VzdC1yb21hbi1tb3NhaWMtb3BlbnMtdG8tdGhlLXB1YmxpYyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWFydG5ld3NwYXBlci5jb20lMkYyMDI2JTJGMDklMkYxNCUyRmxhcmdlc3Qtcm9tYW4tbW9zYWljLW9wZW5zLXRvLXRoZS1wdWJsaWMlN0NMYXJnZXN0JTIwa25vd24lMjBSb21hbiUyMG1vc2FpYyUyQyUyMGJlbmVhdGglMjBCYXRocyUyMG9mJTIwVHJhamFuJTJDJTIwb3BlbnMlMjB0byUyMHRoZSUyMHB1YmxpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk2MTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTMlM0EwMSUzQTA0JTIwJTJCMDAwMA",
+      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "pubDate": "Mon, 14 Sep 2026 13:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWZhY3RvcmluZ2VuZ2xpc2guY29tJTJGZXhjZXJwdHMlMkZ3cml0ZS1hbi1lZmZlY3RpdmUtZGVzaWduLWRvYyUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVmYWN0b3JpbmdlbmdsaXNoLmNvbSUyRmV4Y2VycHRzJTJGd3JpdGUtYW4tZWZmZWN0aXZlLWRlc2lnbi1kb2MlMkYlN0NIb3clMjB0byUyMFdyaXRlJTIwYW4lMjBFZmZlY3RpdmUlMjBTb2Z0d2FyZSUyMERlc2lnbiUyMERvY3VtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTYxMjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxMyUzQTAwJTNBNDYlMjAlMkIwMDAw",
+      "title": "How to Write an Effective Software Design Document",
+      "pubDate": "Mon, 14 Sep 2026 13:00:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZsZWdhbCUyRmxpdGlnYXRpb24lMkZ0ZXhhcy1qdWRnZS1ydWxlcy10aWt0b2stbWlzbGVkLXVzZXJzLWNoaWxkLXNhZmV0eS1mZWF0dXJlLTIwMjYtMDktMTElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRmxlZ2FsJTJGbGl0aWdhdGlvbiUyRnRleGFzLWp1ZGdlLXJ1bGVzLXRpa3Rvay1taXNsZWQtdXNlcnMtY2hpbGQtc2FmZXR5LWZlYXR1cmUtMjAyNi0wOS0xMSUyRiU3Q1RleGFzJTIwanVkZ2UlMjBydWxlcyUyMFRpa1RvayUyMG1pc2xlZCUyMHVzZXJzJTIwb24lMjBjaGlsZCUyMHNhZmV0eSUyMGZlYXR1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NTgyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDEyJTNBMzclM0E0MiUyMCUyQjAwMDA",
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "pubDate": "Mon, 14 Sep 2026 12:37:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTmV3c3BpY2VsJTJGc2RybWludXNtaW51cyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk5ld3NwaWNlbCUyRnNkcm1pbnVzbWludXMlN0NTRFIlRTIlODAlOTMlM0IlMjBvcGVuJTIwc291cmNlJTIwU0RSJTIwd2l0aCUyMGElMjBwYXRjaGFibGUlMjBzaWduYWwlMjBncmFwaCUyQyUyMFJ1c3QlMjBEU1AlMkMlMjB3ZWIlMjBVSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk1ODA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTIlM0EzNSUzQTU2JTIwJTJCMDAwMA",
+      "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+      "pubDate": "Mon, 14 Sep 2026 12:35:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHR4LmNvbSUyRmVuLWluJTJGbmV3cyUyRmludGVybmV0LXNob2NrZWQtdW5zb2x2ZWQtcHJvYmxlbS1ieS1maWVsZHMtbWVkYWxpc3QtYnJlYWNoZS1JQkRnWkcyaiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmh0eC5jb20lMkZlbi1pbiUyRm5ld3MlMkZpbnRlcm5ldC1zaG9ja2VkLXVuc29sdmVkLXByb2JsZW0tYnktZmllbGRzLW1lZGFsaXN0LWJyZWFjaGUtSUJEZ1pHMmolMkYlN0NVbnNvbHZlZCUyMFByb2JsZW0lMjBieSUyMEZpZWxkcyUyME1lZGFsaXN0JTIwQnJlYWNoZWQlMjBieSUyMFR3byUyMEhpZ2glMjBTY2hvb2wlMjBTdHVkZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk1NjYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTIlM0EyMyUzQTExJTIwJTJCMDAwMA",
+      "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
+      "pubDate": "Mon, 14 Sep 2026 12:23:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4Y2FuY2VsLmNvbSUyRnR3aXR0ZXIlN0NodHRwcyUzQSUyRiUyRnhjYW5jZWwuY29tJTJGdHdpdHRlciU3Q1hDYW5jZWwlMjBzdXNwZW5kZWQlMjAlMjJkdWUlMjB0byUyMGElMjBuZXclMjBkZXZlbG9wbWVudCUyMGluJTIwdGhlJTIwb25nb2luZyUyMGxlZ2FsJTIwcHJvY2VlZGluZ3MlMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NTQ1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDEyJTNBMDUlM0E1MiUyMCUyQjAwMDA",
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "pubDate": "Mon, 14 Sep 2026 12:05:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwOSUyRjE0JTJGc2lyaS1jYW4tYmUtc3dhcHBlZC1vdXQtZm9yLWNoYXRncHQtY2xhdWRlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwOSUyRjE0JTJGc2lyaS1jYW4tYmUtc3dhcHBlZC1vdXQtZm9yLWNoYXRncHQtY2xhdWRlJTJGJTdDQXBwbGUncyUyMFNpcmklMjBBSSUyMENhbiUyMEJlJTIwU3dhcHBlZCUyME91dCUyMGZvciUyMENsYXVkZSUyQyUyMENoYXRHUFQlMkMlMjBDb2RlJTIwU2hvd3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NTQwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDEyJTNBMDElM0EzMiUyMCUyQjAwMDA",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "pubDate": "Mon, 14 Sep 2026 12:01:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2FsbGJhY2tlZCUyRmtpbmVzaXMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZjYWxsYmFja2VkJTJGa2luZXNpcyU3Q1Nob3clMjBITiUzQSUyMEtpbmVzaXMlMjAlRTIlODAlOTMlMjBDb250cm9sJTIweW91ciUyME1hYyUyMHdpdGglMjB0aGUlMjBNZXRhJTIwTmV1cmFsJTIwQmFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk1NDA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTIlM0EwMSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+      "pubDate": "Mon, 14 Sep 2026 12:01:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmgxdGVjaCUyRmZyYW5rLTM4NiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJoMXRlY2glMkZmcmFuay0zODYlN0NBJTIwMzg2JTIwUEMlMjBmb3IlMjBZb3VyJTIwUlAyMzUwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTM2MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAwOCUzQTI1JTNBNTclMjAlMkIwMDAw",
+      "title": "A 386 PC for Your RP2350",
+      "pubDate": "Mon, 14 Sep 2026 08:25:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXVyb2JpcmRwb3J0YWwub3JnJTJGZWJwJTJGZW4lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ldXJvYmlyZHBvcnRhbC5vcmclMkZlYnAlMkZlbiUyRiU3Q0V1cm9CaXJkUG9ydGFsJTIwJUUyJTgwJTkzJTIwTGl2ZSUyMGJpcmQlMjBtb3ZlbWVudHMlMjBhY3Jvc3MlMjBFdXJvcGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5MzYxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDA4JTNBMjUlM0E0NyUyMCUyQjAwMDA",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "pubDate": "Mon, 14 Sep 2026 08:25:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW51ajA0NTYlMkZPcGVuQXJjaCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFudWowNDU2JTJGT3BlbkFyY2glN0NPcGVuQXJjaCUyMCVFMiU4MCU5MyUyMFB5VG9yY2glMjBpbXBsZW1lbnRhdGlvbnMlMjBvZiUyMG1vZGVybiUyMExMTSUyMGFyY2hpdGVjdHVyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5MzM4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDA3JTNBNTUlM0ExOSUyMCUyQjAwMDA",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "pubDate": "Mon, 14 Sep 2026 07:55:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
     }
   ]
