@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-13",
     "newestItemDate": "2026-09-13",
-    "itemCount": 31,
-    "generatedAt": "2026-09-13T18:50:33.278Z"
+    "itemCount": 38,
+    "generatedAt": "2026-09-14T05:05:59.073Z"
   },
   "items": [
     {
@@ -192,6 +192,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MDkxMC0wMCUyRiUzRnAlM0QxMTI2ODklN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYwOTEwLTAwJTJGJTNGcCUzRDExMjY4OSU3Q1doeSUyMGlzJTIwdGhlJTIweDg2JTIwdW5kZWZpbmVkJTIwaW5zdHJ1Y3Rpb24lMjBjYWxsZWQlMjB1ZDIlM0YlMjBXaHklMjAyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODMyNjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxMiUzQTMwJTNBMTUlMjAlMkIwMDAw",
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "pubDate": "Sun, 13 Sep 2026 12:30:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpc291cmNlLm9yZyUyRndpa2klMkZUaGVfQ29taW5nX1dhcl9vbl9HZW5lcmFsX0NvbXB1dGF0aW9uJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpc291cmNlLm9yZyUyRndpa2klMkZUaGVfQ29taW5nX1dhcl9vbl9HZW5lcmFsX0NvbXB1dGF0aW9uJTdDVGhlJTIwQ29taW5nJTIwV2FyJTIwb24lMjBHZW5lcmFsJTIwQ29tcHV0YXRpb24lMjAoMjAxMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5MDA1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDIzJTNBNTQlM0E1NSUyMCUyQjAwMDA",
+      "title": "The Coming War on General Computation (2011)",
+      "pubDate": "Sun, 13 Sep 2026 23:54:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tdW5pdHkuc2lnbmFsdXNlcnMub3JnJTJGdCUyRnJlZ2lzdHJhdGlvbi13aXRob3V0LWEtcGhvbmUtbnVtYmVyJTJGMjIyMiUzRnBhZ2UlM0QxMCU3Q2h0dHBzJTNBJTJGJTJGY29tbXVuaXR5LnNpZ25hbHVzZXJzLm9yZyUyRnQlMkZyZWdpc3RyYXRpb24td2l0aG91dC1hLXBob25lLW51bWJlciUyRjIyMjIlM0ZwYWdlJTNEMTAlN0NSZWdpc3RyYXRpb24lMjB3aXRob3V0JTIwYSUyMHBob25lJTIwbnVtYmVyJTIwb24lMjBTaWduYWwlMjB3aWxsJTIwdXNlJTIwemVyby1rbm93bGVkZ2UlMjBwcm9vZnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY4OTA0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDIxJTNBNDclM0EwNCUyMCUyQjAwMDA",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "pubDate": "Sun, 13 Sep 2026 21:47:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWNtLmFjbS5vcmclMkZibG9nY2FjbSUyRndoeS1pcy1wcml2YWN5LXNvLWhhcmQlMkYlN0NodHRwcyUzQSUyRiUyRmNhY20uYWNtLm9yZyUyRmJsb2djYWNtJTJGd2h5LWlzLXByaXZhY3ktc28taGFyZCUyRiU3Q1doeSUyMGlzJTIwcHJpdmFjeSUyMHNvJTIwaGFyZCUzRiUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg4NzY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMjElM0ExMyUzQTQzJTIwJTJCMDAwMA",
+      "title": "Why is privacy so hard? (2019)",
+      "pubDate": "Sun, 13 Sep 2026 21:13:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmFscy5haSUyRmJsb2dzJTJGZmFibGUtc29sdmVzLWN5cGhyYWwtZGlzdGljaCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnZhbHMuYWklMkZibG9ncyUyRmZhYmxlLXNvbHZlcy1jeXBocmFsLWRpc3RpY2glN0NGYWJsZSUyMDUuMSUyMFNvbHZlcyUyMHRoZSUyMEN5cGhyYWwlMjBEaXN0aWNoJTJDJTIwYSUyMDM3MC15ZWFyLW9sZCUyMGNpcGhlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg4Njk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMjElM0EwNiUzQTEzJTIwJTJCMDAwMA",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "pubDate": "Sun, 13 Sep 2026 21:06:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYWdlcy5jcy53aXNjLmVkdSUyRn5wbG9ua2ElMkZuZXRnZWFyLXNudHAlMkYlN0NodHRwcyUzQSUyRiUyRnBhZ2VzLmNzLndpc2MuZWR1JTJGfnBsb25rYSUyRm5ldGdlYXItc250cCUyRiU3Q0ZsYXdlZCUyMHJvdXRlcnMlMjBmbG9vZCUyMFVuaXZlcnNpdHklMjBvZiUyMFdpc2NvbnNpbiUyMGludGVybmV0JTIwdGltZSUyMHNlcnZlciUyMCgyMDAzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg4MzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMjAlM0EzMyUzQTE4JTIwJTJCMDAwMA",
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "pubDate": "Sun, 13 Sep 2026 20:33:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOSUyRjEyJTJGYXV0b21hdHRpYy1jb25maXJtcy1tdWxsZW53ZWctaGFzLXJldHVybmVkLWFzLWNlby1hZnRlci1hdHRlbXB0ZWQtb3VzdGVyLWJ5LWJvYXJkJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOSUyRjEyJTJGYXV0b21hdHRpYy1jb25maXJtcy1tdWxsZW53ZWctaGFzLXJldHVybmVkLWFzLWNlby1hZnRlci1hdHRlbXB0ZWQtb3VzdGVyLWJ5LWJvYXJkJTJGJTdDTXVsbGVud2VnJTIwaGFzJTIwcmV0dXJuZWQlMjBhcyUyMENFTyUyMGFmdGVyJTIwYXR0ZW1wdGVkJTIwYm9hcmQlMjBvdXN0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY4ODI1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDEzJTIwU2VwJTIwMjAyNiUyMDIwJTNBMTklM0EwNiUyMCUyQjAwMDA",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "pubDate": "Sun, 13 Sep 2026 20:19:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg2MzgwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg2MzgwJTdDQXNrJTIwSE4lM0ElMjBXaGF0JTIwYXJlJTIweW91JTIwd29ya2luZyUyMG9uJTNGJTIwKFNlcHRlbWJlciUyMDIwMjYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODYzODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxNyUzQTMxJTNBMzglMjAlMkIwMDAw",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "pubDate": "Sun, 13 Sep 2026 17:31:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
     }
   ]

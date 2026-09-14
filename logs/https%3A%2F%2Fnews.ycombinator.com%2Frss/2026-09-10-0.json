@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-10",
     "newestItemDate": "2026-09-10",
-    "itemCount": 57,
-    "generatedAt": "2026-09-13T18:50:33.279Z"
+    "itemCount": 62,
+    "generatedAt": "2026-09-14T05:05:59.074Z"
   },
   "items": [
     {
@@ -348,6 +348,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RfVEJOSnl6dGFpMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEX1RCTkp5enRhaTAlN0NTZWFuJTIwQ2Fycm9sbCUyMGV4cGxhaW5zJTIwdGhlJTIwYmlnZ2VzdCUyMGlkZWFzJTIwaW4lMjB0aGUlMjB1bml2ZXJzZSUyMCVFMiU4MCU5MyUyMEZ1bGwlMjBJbnRlcnZpZXclMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjUxNTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTAlMjBTZXAlMjAyMDI2JTIwMjMlM0EzMiUzQTEyJTIwJTJCMDAwMA",
       "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
       "pubDate": "Thu, 10 Sep 2026 23:32:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2F0amFob3llci51ayUyRnAlMkZ0aGUtZ2RyLWFuZC12aWV0bmFtLWZyb20tZmFrZS1jb2ZmZWUlN0NodHRwcyUzQSUyRiUyRnd3dy5rYXRqYWhveWVyLnVrJTJGcCUyRnRoZS1nZHItYW5kLXZpZXRuYW0tZnJvbS1mYWtlLWNvZmZlZSU3Q1RoZSUyMEdEUiUyMGFuZCUyMFZpZXRuYW0lM0ElMjBGcm9tJTIwRmFrZSUyMENvZmZlZSUyMHRvJTIwQ29mZmVlJTIwRW1waXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDkxNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTM5JTNBMTMlMjAlMkIwMDAw",
+      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "pubDate": "Thu, 10 Sep 2026 19:39:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldGVyZGIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZldGVyZGIuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwRXRlckRCJTJDJTIwYSUyMFBvc3RncmVzJTIwZm9yayUyMHRoYXQlMjBtYWtlcyUyMGl0JTIwZWFzeSUyMHRvJTIwcmVjb3ZlciUyMGZyb20lMjBpbmNpZGVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY0NTY1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDE1JTNBNDElM0EzNiUyMCUyQjAwMDA",
+      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+      "pubDate": "Thu, 10 Sep 2026 15:41:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWNraWJveWtpcy5jb20lMkYyMDI2JTJGMDklMkYwMSUyRmJhZC1jb2RlLWlzLWt1ZHp1JTJGJTdDaHR0cHMlM0ElMkYlMkZ2aWNraWJveWtpcy5jb20lMkYyMDI2JTJGMDklMkYwMSUyRmJhZC1jb2RlLWlzLWt1ZHp1JTJGJTdDQmFkJTIwY29kZSUyMGlzJTIwa3VkenUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY0MzA1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDEzJTNBMDIlM0E1OSUyMCUyQjAwMDA",
+      "title": "Bad code is kudzu",
+      "pubDate": "Thu, 10 Sep 2026 13:02:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdWxpYWxhbmcub3JnJTJGYmxvZyUyRjIwMjYlMkYwOSUyRmp1bGlhLTEuMTMtaGlnaGxpZ2h0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGanVsaWFsYW5nLm9yZyUyRmJsb2clMkYyMDI2JTJGMDklMkZqdWxpYS0xLjEzLWhpZ2hsaWdodHMlMkYlN0NKdWxpYSUyMDEuMTMlMjBoaWdobGlnaHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NDI2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMCUyMFNlcCUyMDIwMjYlMjAxMiUzQTI3JTNBMjUlMjAlMkIwMDAw",
+      "title": "Julia 1.13 highlights",
+      "pubDate": "Thu, 10 Sep 2026 12:27:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGFjZXNoaXBzLnRyZXliYXN0aWFuLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3BhY2VzaGlwcy50cmV5YmFzdGlhbi5jb20lMkYlN0NTcGFjZXNoaXBzJTIwKFJldmVyc2UlMjBBc3Rlcm9pZCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTYzODUxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEwJTIwU2VwJTIwMjAyNiUyMDA0JTNBNDQlM0EzMiUyMCUyQjAwMDA",
+      "title": "Spaceships (Reverse Asteroid)",
+      "pubDate": "Thu, 10 Sep 2026 04:44:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-10-0.json"
     }
   ]

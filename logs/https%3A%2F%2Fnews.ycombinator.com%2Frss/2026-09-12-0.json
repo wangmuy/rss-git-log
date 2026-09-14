@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 37,
-    "generatedAt": "2026-09-13T13:21:02.594Z"
+    "itemCount": 38,
+    "generatedAt": "2026-09-14T05:05:59.074Z"
   },
   "items": [
     {
@@ -228,6 +228,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAxODc3JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjAxODc3JTdDV2lsbCUyMHRoZXJlJTIwYmUlMjBhJTIwN0clM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3NDQ5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE3JTNBMDUlM0EzMSUyMCUyQjAwMDA",
       "title": "Will there be a 7G?",
       "pubDate": "Sat, 12 Sep 2026 17:05:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZW5vZG8ub3JnJTJGcmVjb3JkcyUyRjE0MzA5OTElN0NodHRwcyUzQSUyRiUyRnplbm9kby5vcmclMkZyZWNvcmRzJTJGMTQzMDk5MSU3Q05lY2tlciUyQyUyMDE4MzIlM0ElMjAlMjJBbiUyMG9wdGljYWwlMjBwaCVDMyVBNm5vbWVub24lMjBvbiUyMHZpZXdpbmclMjBhJTIwZmlndXJlJTIwb2YlMjBhJTIwZ2VvbWV0cmljYWwlMjBzb2xpZCUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjY3OTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMDIlM0EwMSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
+      "pubDate": "Sat, 12 Sep 2026 02:01:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]
