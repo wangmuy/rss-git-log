@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-14",
     "newestItemDate": "2026-09-14",
-    "itemCount": 61,
-    "generatedAt": "2026-09-15T05:01:51.956Z"
+    "itemCount": 65,
+    "generatedAt": "2026-09-15T13:39:50.116Z"
   },
   "items": [
     {
@@ -372,6 +372,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRnNjaWVuY2UlMkZ0aXRhbm9zYXVyLWVnZ3MtOS43MzM2ODQxJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRnNjaWVuY2UlMkZ0aXRhbm9zYXVyLWVnZ3MtOS43MzM2ODQxJTdDVGhlJTIwYmlnZ2VzdCUyMGRpbm9zYXVycyUyMGNvdWxkbid0JTIwc2l0JTIwb24lMjB0aGVpciUyMGVnZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5MDA4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDAwJTNBMDAlM0EzMCUyMCUyQjAwMDA",
       "title": "The biggest dinosaurs couldn't sit on their eggs",
       "pubDate": "Mon, 14 Sep 2026 00:00:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFuaWVsbGl0dC5jb20lMkZibG9nJTJGMjAyNiUyRjklMkYxMyUyRmEtYmVnaW5uaW5nLWZvci1tYXRoZW1hdGljcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhbmllbGxpdHQuY29tJTJGYmxvZyUyRjIwMjYlMkY5JTJGMTMlMkZhLWJlZ2lubmluZy1mb3ItbWF0aGVtYXRpY3MlMkYlN0NBJTIwYmVnaW5uaW5nJTIwZm9yJTIwbWF0aGVtYXRpY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5ODY5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzMlM0EwNyUyMCUyQjAwMDA",
+      "title": "A beginning for mathematics",
+      "pubDate": "Mon, 14 Sep 2026 15:33:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5pYm0uY29tJTJGYmxvZyUyRm5hc2EtaWJtLWx1bmFyLWZvdW5kYXRpb24tbW9kZWwlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLmlibS5jb20lMkZibG9nJTJGbmFzYS1pYm0tbHVuYXItZm91bmRhdGlvbi1tb2RlbCU3Q0ElMjByb3VnaCUyMGd1aWRlJTIwZm9yJTIwZ29pbmclMjBiYWNrJTIwdG8lMjB0aGUlMjBNb29uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTc1NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxNCUzQTMzJTNBMDAlMjAlMkIwMDAw",
+      "title": "A rough guide for going back to the Moon",
+      "pubDate": "Mon, 14 Sep 2026 14:33:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYWxkaW5vLmRldiUyRmJsb2clMkZ0aGVyZS1hcmUtb25seS10d2VsdmUtNHg0LXN1ZG9rdXMlMkYlN0NodHRwcyUzQSUyRiUyRmJhbGRpbm8uZGV2JTJGYmxvZyUyRnRoZXJlLWFyZS1vbmx5LXR3ZWx2ZS00eDQtc3Vkb2t1cyUyRiU3Q1RoZXJlJTIwYXJlJTIwb25seSUyMHR3ZWx2ZSUyMDR4NCUyMHN1ZG9rdXMlMjAoYW5kJTIwYSUyMGNvb2wlMjB0cmljayUyMGZvciUyMGZpbmRpbmclMjBtaW5pbWFsJTIwc3Vic2V0cyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NTUxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDEyJTNBMTAlM0ExNyUyMCUyQjAwMDA",
+      "title": "There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)",
+      "pubDate": "Mon, 14 Sep 2026 12:10:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRmludmVyc2Utc3F1YXJlLWxhdyU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jb3JlZHVtcC5jeCUyRnAlMkZpbnZlcnNlLXNxdWFyZS1sYXclN0NJbnZlcnNlLVNxdWFyZSUyMExhdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjkyMDk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMDQlM0E0NSUzQTQzJTIwJTJCMDAwMA",
+      "title": "Inverse-Square Law",
+      "pubDate": "Mon, 14 Sep 2026 04:45:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
     }
   ]

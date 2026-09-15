@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 43,
-    "generatedAt": "2026-09-15T05:01:51.956Z"
+    "itemCount": 44,
+    "generatedAt": "2026-09-15T13:39:50.116Z"
   },
   "items": [
     {
@@ -264,6 +264,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZC5hbHZhcmV6cm9zYS5jb20lMkZwb3N0cyUyRm9wdGltaXppbmctYS1zcGluLWxvY2slMkYlN0NodHRwcyUzQSUyRiUyRmRhdmlkLmFsdmFyZXpyb3NhLmNvbSUyRnBvc3RzJTJGb3B0aW1pemluZy1hLXNwaW4tbG9jayUyRiU3Q09wdGltaXppbmclMjBhJTIwU3Bpbi1Mb2NrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzA2OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAwOSUzQTQzJTNBNDQlMjAlMkIwMDAw",
       "title": "Optimizing a Spin-Lock",
       "pubDate": "Sat, 12 Sep 2026 09:43:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFkLnZhbnRlenplbi5pbyUyRm1pbmlmbGFncyU3Q2h0dHBzJTNBJTJGJTJGcmVhZC52YW50ZXp6ZW4uaW8lMkZtaW5pZmxhZ3MlN0NDb21wcmVzc2luZyUyMGElMjBmbGFnJTIwdG8lMjAxMSUyMGJpdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3MzY4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE1JTNBNTclM0E0MyUyMCUyQjAwMDA",
+      "title": "Compressing a flag to 11 bits",
+      "pubDate": "Sat, 12 Sep 2026 15:57:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]
