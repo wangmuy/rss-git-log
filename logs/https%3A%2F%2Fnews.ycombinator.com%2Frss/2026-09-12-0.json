@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 39,
-    "generatedAt": "2026-09-14T15:04:47.704Z"
+    "itemCount": 43,
+    "generatedAt": "2026-09-15T05:01:51.956Z"
   },
   "items": [
     {
@@ -240,6 +240,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhyZWVib2R5b3JiaXRzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRocmVlYm9keW9yYml0cy5jb20lMkYlN0NBbiUyMGF0bGFzJTIwb2YlMjBwZXJpb2RpYyUyMHNvbHV0aW9ucyUyMHRvJTIwdGhlJTIwdGhyZWUtYm9keSUyMHByb2JsZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3MDg1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDEwJTNBMTMlM0EyNCUyMCUyQjAwMDA",
       "title": "An atlas of periodic solutions to the three-body problem",
       "pubDate": "Sat, 12 Sep 2026 10:13:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb2x0b3JhLmRldiUyRnJlZGlzJTdDaHR0cHMlM0ElMkYlMkZwb2x0b3JhLmRldiUyRnJlZGlzJTdDU2hvdyUyMEhOJTNBJTIwUmVkaXMlMjBDaXR5JTIwJUUyJTgwJTkzJTIwRXhwbG9yZSUyMGhvdyUyMFJlZGlzJTIwd29ya3MlMjBpbiUyMGFuJTIwaW50ZXJhY3RpdmUlMjAzRCUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzY0MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxOSUzQTQzJTNBMzQlMjAlMkIwMDAw",
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "pubDate": "Sat, 12 Sep 2026 19:43:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmtlb25ld3MubmV0JTJGNDQwMC15ZWFyLW9sZC10b21iLW9mLWFuLWVneXB0aWFuLWp1ZGdlLWZvdW5kLWF0LXNhcXFhcmEtd2l0aC1jb2xvcnMtc3RpbGwtb24tdGhlLXdhbGxzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcmtlb25ld3MubmV0JTJGNDQwMC15ZWFyLW9sZC10b21iLW9mLWFuLWVneXB0aWFuLWp1ZGdlLWZvdW5kLWF0LXNhcXFhcmEtd2l0aC1jb2xvcnMtc3RpbGwtb24tdGhlLXdhbGxzJTJGJTdDNCUyQzQwMC1ZZWFyLU9sZCUyMFRvbWIlMjBvZiUyMEVneXB0aWFuJTIwSnVkZ2UlMjBGb3VuZCUyMGF0JTIwU2FxcWFyYSUyMHdpdGglMjBDb2xvcnMlMjBvbiUyMFdhbGxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzU4MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAxOCUzQTUxJTNBNDAlMjAlMkIwMDAw",
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "pubDate": "Sat, 12 Sep 2026 18:51:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFkLnZhbnRlenplbi5pbyUyRm1pbmlmbGFncyU3Q2h0dHBzJTNBJTJGJTJGcmVhZC52YW50ZXp6ZW4uaW8lMkZtaW5pZmxhZ3MlN0NDb21wcmVzc2luZyUyMGElMjBGbGFnJTIwdG8lMjAxMSUyMEJpdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3MzY4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE1JTNBNTclM0E0MyUyMCUyQjAwMDA",
+      "title": "Compressing a Flag to 11 Bits",
+      "pubDate": "Sat, 12 Sep 2026 15:57:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZC5hbHZhcmV6cm9zYS5jb20lMkZwb3N0cyUyRm9wdGltaXppbmctYS1zcGluLWxvY2slMkYlN0NodHRwcyUzQSUyRiUyRmRhdmlkLmFsdmFyZXpyb3NhLmNvbSUyRnBvc3RzJTJGb3B0aW1pemluZy1hLXNwaW4tbG9jayUyRiU3Q09wdGltaXppbmclMjBhJTIwU3Bpbi1Mb2NrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2NzA2OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMiUyMFNlcCUyMDIwMjYlMjAwOSUzQTQzJTNBNDQlMjAlMkIwMDAw",
+      "title": "Optimizing a Spin-Lock",
+      "pubDate": "Sat, 12 Sep 2026 09:43:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]

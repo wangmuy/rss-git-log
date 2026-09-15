@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-13",
     "newestItemDate": "2026-09-13",
-    "itemCount": 38,
-    "generatedAt": "2026-09-14T05:05:59.073Z"
+    "itemCount": 40,
+    "generatedAt": "2026-09-15T05:01:51.956Z"
   },
   "items": [
     {
@@ -234,6 +234,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg2MzgwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njg2MzgwJTdDQXNrJTIwSE4lM0ElMjBXaGF0JTIwYXJlJTIweW91JTIwd29ya2luZyUyMG9uJTNGJTIwKFNlcHRlbWJlciUyMDIwMjYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODYzODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxNyUzQTMxJTNBMzglMjAlMkIwMDAw",
       "title": "Ask HN: What are you working on? (September 2026)",
       "pubDate": "Sun, 13 Sep 2026 17:31:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZW5hY3RpYyUyRk9wZW5Bcm0lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZlbmFjdGljJTJGT3BlbkFybSU3Q09wZW5Bcm0lM0ElMjBBbiUyMG9wZW4tc291cmNlJTIwN0RPRiUyMGh1bWFub2lkJTIwYXJtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2ODQyODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMyUyMFNlcCUyMDIwMjYlMjAxNCUzQTE3JTNBNDklMjAlMkIwMDAw",
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "pubDate": "Sun, 13 Sep 2026 14:17:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3RvaXgtZGV2JTJGc2VmYXotd2Vic2VydmljZXMtcG9zdG1hbiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnN0b2l4LWRldiUyRnNlZmF6LXdlYnNlcnZpY2VzLXBvc3RtYW4lN0NFdmVyeSUyMGludm9pY2UlMjBpbiUyMEJyYXppbCdzJTIwZWNvbm9teSUyMHJ1bnMlMjBvbiUyMFNPQVAlMjAxLjIuJTIwV2UlMjBtYXBwZWQlMjBpdCUyMGFsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc5NjUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTMlMjBTZXAlMjAyMDI2JTIwMDMlM0ExOSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
+      "pubDate": "Sun, 13 Sep 2026 03:19:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-13-0.json"
     }
   ]
