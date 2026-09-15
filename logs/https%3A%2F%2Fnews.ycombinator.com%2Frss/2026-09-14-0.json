@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-14",
     "newestItemDate": "2026-09-14",
-    "itemCount": 65,
-    "generatedAt": "2026-09-15T13:39:50.116Z"
+    "itemCount": 68,
+    "generatedAt": "2026-09-15T19:43:58.483Z"
   },
   "items": [
     {
@@ -396,6 +396,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRmludmVyc2Utc3F1YXJlLWxhdyU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jb3JlZHVtcC5jeCUyRnAlMkZpbnZlcnNlLXNxdWFyZS1sYXclN0NJbnZlcnNlLVNxdWFyZSUyMExhdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NjkyMDk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMDQlM0E0NSUzQTQzJTIwJTJCMDAwMA",
       "title": "Inverse-Square Law",
       "pubDate": "Mon, 14 Sep 2026 04:45:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmb3J0Lm5ld3MlMkZpcnJlZ3VsYXIlN0NodHRwcyUzQSUyRiUyRnd3dy5lZmZvcnQubmV3cyUyRmlycmVndWxhciU3Q0ElMjBzaW5nbGUlMjBmaXJtJTIwaXMlMjBiZWhpbmQlMjBPcGVuQUklMkMlMjBBbnRocm9waWMlMkMlMjBhbmQlMjBNZXRhJTIwaGFja2luZyUyMHNjYW5kYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MDQxMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAyMSUzQTE1JTNBMDElMjAlMkIwMDAw",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "pubDate": "Mon, 14 Sep 2026 21:15:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGZG8tcGVvcGxlLXByZWZlci10cmFkaXRpb25hbC1hcmNoaXRlY3R1cmUlN0NodHRwcyUzQSUyRiUyRnd3dy53b3Jrc2lucHJvZ3Jlc3MubmV3cyUyRnAlMkZkby1wZW9wbGUtcHJlZmVyLXRyYWRpdGlvbmFsLWFyY2hpdGVjdHVyZSU3Q01vc3QlMjBwZW9wbGUlMjBwcmVmZXIlMjB0cmFkaXRpb25hbCUyMGFyY2hpdGVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk3NDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTQlM0EzMCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Most people prefer traditional architecture",
+      "pubDate": "Mon, 14 Sep 2026 14:30:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb25kb25pc3QuY29tJTJGbG9uZG9uJTJGbXVzaWMlMkZrb29sLWZtLWFyY2hpdmVzJTdDaHR0cHMlM0ElMkYlMkZsb25kb25pc3QuY29tJTJGbG9uZG9uJTJGbXVzaWMlMkZrb29sLWZtLWFyY2hpdmVzJTdDQXJjaGl2aW5nJTIwcGlyYXRlJTIwcmFkaW8lMjBzdGF0aW9uJTIwS29vbCUyMEZNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTQzODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxMCUzQTAxJTNBMDUlMjAlMkIwMDAw",
+      "title": "Archiving pirate radio station Kool FM",
+      "pubDate": "Mon, 14 Sep 2026 10:01:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
     }
   ]

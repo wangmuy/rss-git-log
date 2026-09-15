@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-15",
     "newestItemDate": "2026-09-15",
-    "itemCount": 14,
-    "generatedAt": "2026-09-15T13:39:50.116Z"
+    "itemCount": 32,
+    "generatedAt": "2026-09-15T19:43:58.482Z"
   },
   "items": [
     {
@@ -90,6 +90,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNrNzkweGc0MXlncm8lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGY2s3OTB4ZzQxeWdybyU3Q1VTJTIwY29uZmlybXMlMjBmb3IlMjBmaXJzdCUyMHRpbWUlMjBpdCUyMGhhcyUyMGRlcGxveWVkJTIwc3BhY2UlMjB3ZWFwb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MDc0NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAwMyUzQTQ3JTNBNTYlMjAlMkIwMDAw",
       "title": "US confirms for first time it has deployed space weapons",
       "pubDate": "Tue, 15 Sep 2026 03:47:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlc2FmZS5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy1zeXN0ZW0tb25lLW1vZGVscy1hbmQtamV2JTdDaHR0cHMlM0ElMkYlMkZ0eXBlc2FmZS5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy1zeXN0ZW0tb25lLW1vZGVscy1hbmQtamV2JTdDSmV2JTNBJTIwTmV3JTIwZnJvbnRpZXIlMjBtb2RlbCUyMDQwLTQwMHglMjBjaGVhcGVyJTIwYW5kJTIwMjAtMjAweCUyMGZhc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzE3NTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTklM0EyNSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Jev: New frontier model 40-400x cheaper and 20-200x faster",
+      "pubDate": "Tue, 15 Sep 2026 19:25:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm90ZWN0ZGVtb2NyYWN5Lm9yZyUyRnRocmVhdC10cmFja2VyJTJGJTdDaHR0cHMlM0ElMkYlMkZwcm90ZWN0ZGVtb2NyYWN5Lm9yZyUyRnRocmVhdC10cmFja2VyJTJGJTdDVHJhY2tpbmclMjB0aGUlMjBzbGlkZSUyMGludG8lMjBhdXRob3JpdGFyaWFuaXNtJTIwd2loaW4lMjB0aGUlMjBVbml0ZWQlMjBTdGF0ZXMlMjBvZiUyMEFtZXJpY2ElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNzM4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE5JTNBMTMlM0E1NCUyMCUyQjAwMDA",
+      "title": "Tracking the slide into authoritarianism wihin the United States of America",
+      "pubDate": "Tue, 15 Sep 2026 19:13:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdHRhaW5hYmxlZmVsaWNpdHkubWF0dGtpcmtsYW5kLmNvbSUyRjIwMjYwOTE1JTJGY3V0LXVwLXlvdXItYm9va3MuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYXR0YWluYWJsZWZlbGljaXR5Lm1hdHRraXJrbGFuZC5jb20lMkYyMDI2MDkxNSUyRmN1dC11cC15b3VyLWJvb2tzLmh0bWwlN0NDaG9wJTIwVXAlMjBZb3VyJTIwQm9va3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNjk1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE4JTNBNDUlM0EzMSUyMCUyQjAwMDA",
+      "title": "Chop Up Your Books",
+      "pubDate": "Tue, 15 Sep 2026 18:45:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RyaXguYWklMkZibG9nJTJGYmFzZXRlbi1oYXJib3ItZ2l0aHViLXBhdC10YWtlb3ZlciU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0cml4LmFpJTJGYmxvZyUyRmJhc2V0ZW4taGFyYm9yLWdpdGh1Yi1wYXQtdGFrZW92ZXIlN0NXZSUyMGdvdCUyMGFkbWluJTIwYWNjZXNzJTIwdG8lMjBCYXNldGVuJ3MlMjBwcm9kdWN0aW9uJTIwR2l0SHViJTIwaW4lMjAyNSUyMG1pbnV0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNjQ3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE4JTNBMTElM0EyNCUyMCUyQjAwMDA",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "pubDate": "Tue, 15 Sep 2026 18:11:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZyZWluZm9yY2VtZW50bGVhcm5pbmclMkZjb21tZW50cyUyRjF3ZzF1bnglMkZnb29nbGVfY29waWVkX291cl9vcGVuc291cmNlX2NvZGVfcmVtb3ZlZF9vdXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWRkaXQuY29tJTJGciUyRnJlaW5mb3JjZW1lbnRsZWFybmluZyUyRmNvbW1lbnRzJTJGMXdnMXVueCUyRmdvb2dsZV9jb3BpZWRfb3VyX29wZW5zb3VyY2VfY29kZV9yZW1vdmVkX291ciUyRiU3Q0dvb2dsZSUyMGNvcGllZCUyMG91ciUyMG9wZW4tc291cmNlJTIwY29kZSUyQyUyMHJlbW92ZWQlMjBlbmdpbmVlcnMnJTIwbmFtZXMlMjB3aXRob3V0JTIwY3JlZGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTYyNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNyUzQTU3JTNBMzklMjAlMkIwMDAw",
+      "title": "Google copied our open-source code, removed engineers' names without credit",
+      "pubDate": "Tue, 15 Sep 2026 17:57:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVuZXh0d2ViLmNvbSUyRm5ld3MlMkZodWdnaW5nLWZhY2UtZGVsYW5ndWUtb3BlbmFpLTEwMG0tY29tcHV0ZS10cmFjZXMtZGVtYW5kJTdDaHR0cHMlM0ElMkYlMkZ0aGVuZXh0d2ViLmNvbSUyRm5ld3MlMkZodWdnaW5nLWZhY2UtZGVsYW5ndWUtb3BlbmFpLTEwMG0tY29tcHV0ZS10cmFjZXMtZGVtYW5kJTdDSHVnZ2luZyUyMEZhY2UlMjBpcyUyMGJpbGxpbmclMjBPcGVuQUklMjAlMjQxMDBNJTIwZm9yJTIwaGFja2luZyUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTYyNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNyUzQTU2JTNBMTAlMjAlMkIwMDAw",
+      "title": "Hugging Face is billing OpenAI $100M for hacking it",
+      "pubDate": "Tue, 15 Sep 2026 17:56:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjA5JTJGMTUlMkZhbi11cGRhdGUtb24td2F5YmFjay1tYWNoaW5lLWFjY2VzcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcmNoaXZlLm9yZyUyRjIwMjYlMkYwOSUyRjE1JTJGYW4tdXBkYXRlLW9uLXdheWJhY2stbWFjaGluZS1hY2Nlc3MlMkYlN0NBbiUyMFVwZGF0ZSUyMG9uJTIwV2F5YmFjayUyME1hY2hpbmUlMjBBY2Nlc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNjE3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE3JTNBNTIlM0ExOCUyMCUyQjAwMDA",
+      "title": "An Update on Wayback Machine Access",
+      "pubDate": "Tue, 15 Sep 2026 17:52:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZnZW1pbmktMy04LWxpdmUtZ2VtaW5pLTMtOC1saXZlLWV4dGVuZGVkLXRoaW5raW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZnZW1pbmktMy04LWxpdmUtZ2VtaW5pLTMtOC1saXZlLWV4dGVuZGVkLXRoaW5raW5nJTJGJTdDR2VtaW5pJTIwMy44JTIwTGl2ZSUyMGFuZCUyMDMuOCUyMExpdmUlMjBFeHRlbmRlZCUyMFRoaW5raW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTU5NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNyUzQTM4JTNBMTglMjAlMkIwMDAw",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "pubDate": "Tue, 15 Sep 2026 17:38:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJjLmluZm8lMkYlM0ZsJTNEb3BlbmJzZC10ZWNoJTI2bSUzRDE3ODk0ODc0NDI3MTYzMyUyNnclM0QyJTdDaHR0cHMlM0ElMkYlMkZtYXJjLmluZm8lMkYlM0ZsJTNEb3BlbmJzZC10ZWNoJTI2bSUzRDE3ODk0ODc0NDI3MTYzMyUyNnclM0QyJTdDR0VGUyUyMG9uJTIwT3BlbkJTRCUzQSUyMEElMjBFYXJseSUyMFByZXZpZXclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNTU5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE3JTNBMTIlM0ExOSUyMCUyQjAwMDA",
+      "title": "GEFS on OpenBSD: A Early Preview",
+      "pubDate": "Tue, 15 Sep 2026 17:12:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqaWdhLmlvJTJGYWJvdXQtdXMlMkYlM0Zhc2hieV9qaWQlM0QwYjc1ZDcyZC1jOTJiLTRkY2EtODA2Mi0wOWQyOThhZGEwYmQlN0NodHRwcyUzQSUyRiUyRmppZ2EuaW8lMkZhYm91dC11cyUyRiUzRmFzaGJ5X2ppZCUzRDBiNzVkNzJkLWM5MmItNGRjYS04MDYyLTA5ZDI5OGFkYTBiZCU3Q0ppZ2ElMjAoWUMlMjBXMjEpJTIwSXMlMjBIaXJpbmclMjBQcm9kdWN0JTIwRW5naW5lZXIlMjAoUmVtb3RlJTJGVVMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTU0NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNyUzQTAwJTNBMzElMjAlMkIwMDAw",
+      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "pubDate": "Tue, 15 Sep 2026 17:00:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGF3ZmFyZW1lZGlhLm9yZyUyRmFydGljbGUlMkZhbWVyaWNhJTI1MjdzLWRyaXZlcnMtbGljZW5jZS1icmVhY2gtaXMtYS1uYXRpb25hbC1zZWN1cml0eS1kaXNhc3RlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmxhd2ZhcmVtZWRpYS5vcmclMkZhcnRpY2xlJTJGYW1lcmljYSUyNTI3cy1kcml2ZXJzLWxpY2VuY2UtYnJlYWNoLWlzLWEtbmF0aW9uYWwtc2VjdXJpdHktZGlzYXN0ZXIlN0NBbWVyaWNhJ3MlMjBEcml2ZXIncyUyMExpY2Vuc2UlMjBCcmVhY2glMjBJcyUyMGElMjBOYXRpb25hbCUyMFNlY3VyaXR5JTIwRGlzYXN0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNDU0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE1JTNBNTglM0E0OCUyMCUyQjAwMDA",
+      "title": "America's Driver's License Breach Is a National Security Disaster",
+      "pubDate": "Tue, 15 Sep 2026 15:58:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZm9ybWFzLmFpJTJGY2FydGVzaWFuJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZm9ybWFzLmFpJTJGY2FydGVzaWFuJTdDQ2FydGVzaWFuJTIwJUUyJTgwJTkzJTIwQUklMjAzRCUyME1vZGVsaW5nJTIwZm9yJTIwRGVzaWduJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTM5OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNSUzQTI2JTNBNDUlMjAlMkIwMDAw",
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "pubDate": "Tue, 15 Sep 2026 15:26:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3NwcmFndWUuY29tJTJGYmxvZyUyRnRoZS1jc3MtemVuLWdhcmRlbi1kcmVhbS1maW5hbGx5LXNoaXBwZWQlMkYlN0NodHRwcyUzQSUyRiUyRmpvc3ByYWd1ZS5jb20lMkZibG9nJTJGdGhlLWNzcy16ZW4tZ2FyZGVuLWRyZWFtLWZpbmFsbHktc2hpcHBlZCUyRiU3Q1RoZSUyMENTUyUyMFplbiUyMEdhcmRlbiUyMGRyZWFtJTJDJTIwZmluYWxseSUyMHNoaXBwZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxMzI2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE0JTNBNDAlM0EwOCUyMCUyQjAwMDA",
+      "title": "The CSS Zen Garden dream, finally shipped",
+      "pubDate": "Tue, 15 Sep 2026 14:40:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmluZmVyZW5jZS1oYXJkd2FyZS1yZXZvbHV0aW9uJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmluZmVyZW5jZS1oYXJkd2FyZS1yZXZvbHV0aW9uJTdDVGhlJTIwSW5mZXJlbmNlJTIwSGFyZHdhcmUlMjBSZXZvbHV0aW9uJTIwb2YlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTMwMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNCUzQTI0JTNBMDglMjAlMkIwMDAw",
+      "title": "The Inference Hardware Revolution of 2026",
+      "pubDate": "Tue, 15 Sep 2026 14:24:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aXRoY2Fwc3VsZS5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRndpdGhjYXBzdWxlLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMENhcHN1bGUlMjAlRTIlODAlOTMlMjBTaW5nbGUtZmlsZSUyMHdlYiUyMGFwcHMlMjB0aGF0JTIwc2F2ZSUyMHRoZWlyJTIwZGF0YSUyMGludG8lMjBTUUxpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxMjI3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzElM0E0MCUyMCUyQjAwMDA",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "pubDate": "Tue, 15 Sep 2026 13:31:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZia292YWMuZ2l0aHViLmlvJTJGbW9kZW0tdGhpbmclMkYlN0NodHRwcyUzQSUyRiUyRmJrb3ZhYy5naXRodWIuaW8lMkZtb2RlbS10aGluZyUyRiU3Q1Nob3clMjBITiUzQSUyMEhhY2tpbmclMjBhJTIwJTI0MjAlMjA0RyUyMHdpcmVsZXNzJTIwaG90c3BvdCUyMGludG8lMjBhJTIwdGV4dGluZyUyMGRldmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzEyMTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTMlM0EyMCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "pubDate": "Tue, 15 Sep 2026 13:20:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NobmVpZXIuY29tJTJGYmxvZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA5JTJGMjUteWVhcnMtb2YtbWFzcy1zdXJ2ZWlsbGFuY2UtaXMtZW5vdWdoLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2huZWllci5jb20lMkZibG9nJTJGYXJjaGl2ZXMlMkYyMDI2JTJGMDklMkYyNS15ZWFycy1vZi1tYXNzLXN1cnZlaWxsYW5jZS1pcy1lbm91Z2guaHRtbCU3QzI1JTIweWVhcnMlMjBvZiUyMG1hc3MlMjBzdXJ2ZWlsbGFuY2UlMjBpcyUyMGVub3VnaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzEwODgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTElM0EyNiUzQTQ4JTIwJTJCMDAwMA",
+      "title": "25 years of mass surveillance is enough",
+      "pubDate": "Tue, 15 Sep 2026 11:26:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZm9yYnJ1a2VycmFkZXQubm8lMkZzaG9ydC1saWZlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZm9yYnJ1a2VycmFkZXQubm8lMkZzaG9ydC1saWZlJTJGJTdDTGV0J3MlMjBtYWtlJTIwcXVhbGl0eSUyMHRoZSUyMG5vcm0lMjBhZ2FpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzEwMTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTAlM0EwMCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Let's make quality the norm again",
+      "pubDate": "Tue, 15 Sep 2026 10:00:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
     }
   ]
