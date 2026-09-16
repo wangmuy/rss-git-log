@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-16",
     "newestItemDate": "2026-09-16",
-    "itemCount": 3,
-    "generatedAt": "2026-09-16T04:57:38.649Z"
+    "itemCount": 12,
+    "generatedAt": "2026-09-16T13:34:15.260Z"
   },
   "items": [
     {
@@ -24,6 +24,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzZWN1cml0eS5hcHBsZS5jb20lMkZibG9nJTJGYXBwbGUtcmVmZXJlbmNlLWltYWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZzZWN1cml0eS5hcHBsZS5jb20lMkZibG9nJTJGYXBwbGUtcmVmZXJlbmNlLWltYWdlJTJGJTdDQXBwbGUlMjBSZWZlcmVuY2UlMjBJbWFnZSUzQSUyMEElMjBOZXclMjBBcHByb2FjaCUyMGZvciUyMFZlcmlmaWVkJTIwUGhvdG9ncmFwaHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyMTMyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDAyJTNBMDclM0EzMSUyMCUyQjAwMDA",
       "title": "Apple Reference Image: A New Approach for Verified Photography",
       "pubDate": "Wed, 16 Sep 2026 02:07:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb2ZmaWNlZmxvb3IlMkZJbXBhY3RHYXRlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb2ZmaWNlZmxvb3IlMkZJbXBhY3RHYXRlJTdDSW1wYWN0R2F0ZSUzQSUyMEElMjBtZXJnZSUyMGdhdGUlMjB0aGF0JTIwc2NvcmVzJTIwdGhlJTIwc3RydWN0dXJhbCUyMGRlY2F5JTIwQUklMjBhZGRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjYzMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxMyUzQTAxJTNBMDklMjAlMkIwMDAw",
+      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+      "pubDate": "Wed, 16 Sep 2026 13:01:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa3liZXIlMkZqb2JzJTJGZXR1cnJBUi1mb3J3YXJkLWRlcGxveWVkLWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGa3liZXIlMkZqb2JzJTJGZXR1cnJBUi1mb3J3YXJkLWRlcGxveWVkLWVuZ2luZWVyJTdDS3liZXIlMjAoWUMlMjBXMjMpJTIwSXMlMjBIaXJpbmclMjBhJTIwRm9yd2FyZCUyMERlcGxveWVkJTIwRW5naW5lZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyNTU0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDEyJTNBMDElM0EwOSUyMCUyQjAwMDA",
+      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+      "pubDate": "Wed, 16 Sep 2026 12:01:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnZpZGVvLWdhbWVzJTJGcGxheXN0YXRpb24lMkYyNi15ZWFyLW9sZC1zb255LXBzMi1zZWN1cml0eS1jaGlwLWJyb2tlbi13aWRlLW9wZW4tYWZ0ZXItZm91ci15ZWFycy1vZi1lZmZvcnQtcmV2ZXJzZS1lbmdpbmVlcmluZy1lbnRodXNpYXN0LXN1Y2Nlc3NmdWxseS11bmxvY2tzLWN4cDEwMjA2NC1tZWNoYWNvbi1jaGlwJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnZpZGVvLWdhbWVzJTJGcGxheXN0YXRpb24lMkYyNi15ZWFyLW9sZC1zb255LXBzMi1zZWN1cml0eS1jaGlwLWJyb2tlbi13aWRlLW9wZW4tYWZ0ZXItZm91ci15ZWFycy1vZi1lZmZvcnQtcmV2ZXJzZS1lbmdpbmVlcmluZy1lbnRodXNpYXN0LXN1Y2Nlc3NmdWxseS11bmxvY2tzLWN4cDEwMjA2NC1tZWNoYWNvbi1jaGlwJTdDT3JpZ2luYWwlMjBTb255JTIwUGxheVN0YXRpb24lMjAyJTIwc2VjdXJpdHklMjBjaGlwJTIwJ2Jyb2tlbiUyMHdpZGUlMjBvcGVuJyUyMGFmdGVyJTIwMjYlMjB5ZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI1MzU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTElM0E0OSUzQTQwJTIwJTJCMDAwMA",
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "pubDate": "Wed, 16 Sep 2026 11:49:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWx0c2NoLnNvY2lhbCUyRiU0MGRhbmllbCUyRjExNzI4MDQzODgyNDkwODk0NyU3Q2h0dHBzJTNBJTJGJTJGZ3VsdHNjaC5zb2NpYWwlMkYlNDBkYW5pZWwlMkYxMTcyODA0Mzg4MjQ5MDg5NDclN0NUaGUlMjBHb29nbGUlMjBQbGF5JTIwYXBwJTIwcmV2aWV3JTIwcHJvY2VzcyUyMG5vdyUyMHJlZ3VsYXJseSUyMHRha2VzJTIwbG9uZ2VyJTIwdGhhbiUyMGElMjB3ZWVrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjQ5MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxMSUzQTE5JTNBMTElMjAlMkIwMDAw",
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "pubDate": "Wed, 16 Sep 2026 11:19:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0dXMuc2FsZXNmb3JjZS5jb20lMkZwcm9kdWN0cyUyRmFsbCU3Q2h0dHBzJTNBJTJGJTJGc3RhdHVzLnNhbGVzZm9yY2UuY29tJTJGcHJvZHVjdHMlMkZhbGwlN0NTYWxlc2ZvcmNlJTIwR2xvYmFsJTIwT3V0YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjQ0ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxMCUzQTM3JTNBMDglMjAlMkIwMDAw",
+      "title": "Salesforce Global Outage",
+      "pubDate": "Wed, 16 Sep 2026 10:37:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNqd3l6cnI5ZDNka28lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGY2p3eXpycjlkM2RrbyU3Q0VVJTIwY2hpZWYlMjBvcGVucyUyMGRvb3IlMjBmb3IlMjBDYW5hZGElMjB0byUyMGJlY29tZSUyMCdhc3NvY2lhdGUlMjBtZW1iZXInJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjQxNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAwOSUzQTU0JTNBMDUlMjAlMkIwMDAw",
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "pubDate": "Wed, 16 Sep 2026 09:54:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsb2VoLmRrJTJGMjAyNiUyRjA5JTJGMTYlMkZvbi1sZWFybmluZy1wcm9ncmFtbWluZy1pbi1hbi1hZ2Utb2YtbGxtcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5wbG9laC5kayUyRjIwMjYlMkYwOSUyRjE2JTJGb24tbGVhcm5pbmctcHJvZ3JhbW1pbmctaW4tYW4tYWdlLW9mLWxsbXMlMkYlN0NMZWFybmluZyUyMFByb2dyYW1taW5nJTIwaW4lMjBhbiUyMEFnZSUyMG9mJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzIzODczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMDklM0ExMiUzQTM0JTIwJTJCMDAwMA",
+      "title": "Learning Programming in an Age of LLMs",
+      "pubDate": "Wed, 16 Sep 2026 09:12:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwteC1tb3ppbGxhJTJGJTdDaHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwteC1tb3ppbGxhJTJGJTdDTWlzdHJhbCUyMFglMjBNb3ppbGxhJTNBJTIwUHJpdmF0ZSUyQyUyME11bHRpbGluZ3VhbCUyMEFJJTIwQnJvd3NpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyMzQwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDA4JTNBMDglM0E1NyUyMCUyQjAwMDA",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "pubDate": "Wed, 16 Sep 2026 08:08:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bS52Y2ZlZC5vcmclMkZpbmRleC5waHAlM0Z0aHJlYWRzJTJGYS1zb2Z0d2FyZS10aGluZy1pLWJ1aWx0LWdwcy1vbi1hLTI1bWh6LTQ4Ni1zeC4xMjU4OTY2JTJGJTdDaHR0cHMlM0ElMkYlMkZmb3J1bS52Y2ZlZC5vcmclMkZpbmRleC5waHAlM0Z0aHJlYWRzJTI1MkZhLXNvZnR3YXJlLXRoaW5nLWktYnVpbHQtZ3BzLW9uLWEtMjVtaHotNDg2LXN4LjEyNTg5NjYlMjUyRiUzRCU3Q0ElMjBzb2Z0d2FyZSUyMHRoaW5nJTIwSSUyMGJ1aWx0JTNBJTIwR1BTJTIwb24lMjBhJTIwMjVNSHolMjA0ODYtU1glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyMjUyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDA1JTNBNDMlM0E0NCUyMCUyQjAwMDA",
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "pubDate": "Wed, 16 Sep 2026 05:43:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-14",
     "newestItemDate": "2026-09-14",
-    "itemCount": 70,
-    "generatedAt": "2026-09-16T04:57:38.649Z"
+    "itemCount": 73,
+    "generatedAt": "2026-09-16T13:34:15.260Z"
   },
   "items": [
     {
@@ -426,6 +426,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpbmZsaWdodHNpbXVsYXRvci5jb20lN0NodHRwcyUzQSUyRiUyRmluZmxpZ2h0c2ltdWxhdG9yLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEklMjBtYWRlJTIwYSUyMGZsaWdodCUyMHNpbXVsYXRvciUyQyUyMGV4Y2VwdCUyMHlvdSdyZSUyMGp1c3QlMjBhJTIwcGFzc2VuZ2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTM5NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAwOSUzQTA4JTNBNTYlMjAlMkIwMDAw",
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
       "pubDate": "Mon, 14 Sep 2026 09:08:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0bW9kZWxpbmcuc3RhdC5jb2x1bWJpYS5lZHUlMkYyMDI2JTJGMDklMkYxNCUyRnRoaXMtaXMtbW9kZXJuLWZyZXF1ZW50aXN0LXN0YXRpc3RpY3MtdXNpbmctZmFrZS1kYXRhLXNpbXVsYXRpb24tdG8tdW5kZXJzdGFuZCUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RhdG1vZGVsaW5nLnN0YXQuY29sdW1iaWEuZWR1JTJGMjAyNiUyRjA5JTJGMTQlMkZ0aGlzLWlzLW1vZGVybi1mcmVxdWVudGlzdC1zdGF0aXN0aWNzLXVzaW5nLWZha2UtZGF0YS1zaW11bGF0aW9uLXRvLXVuZGVyc3RhbmQlMkYlN0NXZSUyMGRvJTIwbW9kZXJuJTIwZnJlcXVlbnRpc3QlMjBzdGF0aXN0aWNzJTNBJTIwVXNpbmclMjBmYWtlLWRhdGElMjBzaW11bGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTY5OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxMyUzQTU4JTNBMDUlMjAlMkIwMDAw",
+      "title": "We do modern frequentist statistics: Using fake-data simulation",
+      "pubDate": "Mon, 14 Sep 2026 13:58:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYWtyaXR3cml0ZXMuY29tJTJGYmVzdC1tYW5nby12YXJpZXR5JTJGJTdDaHR0cHMlM0ElMkYlMkZhYWtyaXR3cml0ZXMuY29tJTJGYmVzdC1tYW5nby12YXJpZXR5JTJGJTdDV2UlMjB0YXN0ZWQlMjBhbmQlMjByYW5rZWQlMjAxNyUyMGRpZmZlcmVudCUyME1hbmdvJTIwdmFyaWV0aWVzJTIwdG8lMjBmaW5kJTIwdGhlJTIwYmVzdCUyMG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njk0NTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTQlMjBTZXAlMjAyMDI2JTIwMTAlM0EyOCUzQTIzJTIwJTJCMDAwMA",
+      "title": "We tasted and ranked 17 different Mango varieties to find the best one",
+      "pubDate": "Mon, 14 Sep 2026 10:28:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTExLjA3ODg1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTExLjA3ODg1JTdDSW50ZWxsaWdlbmNlJTIwcGVyJTIwV2F0dCUzQSUyME1lYXN1cmluZyUyMEludGVsbGlnZW5jZSUyMEVmZmljaWVuY3klMjBvZiUyMExvY2FsJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NDAzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDA5JTNBMTYlM0EzOSUyMCUyQjAwMDA",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "pubDate": "Mon, 14 Sep 2026 09:16:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
     }
   ]
