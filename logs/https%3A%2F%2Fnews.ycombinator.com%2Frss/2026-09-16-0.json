@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-16",
     "newestItemDate": "2026-09-16",
-    "itemCount": 12,
-    "generatedAt": "2026-09-16T13:34:15.260Z"
+    "itemCount": 30,
+    "generatedAt": "2026-09-16T19:36:10.770Z"
   },
   "items": [
     {
@@ -78,6 +78,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bS52Y2ZlZC5vcmclMkZpbmRleC5waHAlM0Z0aHJlYWRzJTJGYS1zb2Z0d2FyZS10aGluZy1pLWJ1aWx0LWdwcy1vbi1hLTI1bWh6LTQ4Ni1zeC4xMjU4OTY2JTJGJTdDaHR0cHMlM0ElMkYlMkZmb3J1bS52Y2ZlZC5vcmclMkZpbmRleC5waHAlM0Z0aHJlYWRzJTI1MkZhLXNvZnR3YXJlLXRoaW5nLWktYnVpbHQtZ3BzLW9uLWEtMjVtaHotNDg2LXN4LjEyNTg5NjYlMjUyRiUzRCU3Q0ElMjBzb2Z0d2FyZSUyMHRoaW5nJTIwSSUyMGJ1aWx0JTNBJTIwR1BTJTIwb24lMjBhJTIwMjVNSHolMjA0ODYtU1glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyMjUyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDA1JTNBNDMlM0E0NCUyMCUyQjAwMDA",
       "title": "A software thing I built: GPS on a 25MHz 486-SX",
       "pubDate": "Wed, 16 Sep 2026 05:43:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjEzMDA5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjEzMDA5JTdDSG93JTIwZ29vZCUyMGFyZSUyMGZyb250aWVyJTIwbW9kZWxzJTIwYXQlMjBwaHlzaWNzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzE2MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxOSUzQTE5JTNBMDglMjAlMkIwMDAw",
+      "title": "How good are frontier models at physics?",
+      "pubDate": "Wed, 16 Sep 2026 19:19:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE0ODQ1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE0ODQ1JTdDQWNjdXJhdGUlMjBNb2RlbHMlMjBvZiUyMEFNRCUyME1hdHJpeCUyMENvcmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzEzNjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxOCUzQTU2JTNBMDUlMjAlMkIwMDAw",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "pubDate": "Wed, 16 Sep 2026 18:56:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZsaXZlJTJGbGl2ZS1mZWQtcmF0ZS1oaWtlLWV4cGVjdGVkLWluZmxhdGlvbi13b3JyaWVzLXB1c2gtdXAtYm9uZC15aWVsZHMtMjAyNi0wOS0xNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGbGl2ZSUyRmxpdmUtZmVkLXJhdGUtaGlrZS1leHBlY3RlZC1pbmZsYXRpb24td29ycmllcy1wdXNoLXVwLWJvbmQteWllbGRzLTIwMjYtMDktMTYlMkYlN0NGZWQlMjBoaWtlcyUyMHJhdGVzJTIwYXMlMjBpbmZsYXRpb24lMjB3b3JyaWVzJTIwcHVzaCUyMHVwJTIwYm9uZCUyMHlpZWxkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzMxMzU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTglM0E1NSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Fed hikes rates as inflation worries push up bond yields",
+      "pubDate": "Wed, 16 Sep 2026 18:55:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2hhbmJhbnNhbC5jb20lMkZxb3JsJTdDaHR0cHMlM0ElMkYlMkZyb2hhbmJhbnNhbC5jb20lMkZxb3JsJTdDVHJhaW5pbmclMjBhJTIwNEIlMjBtb2RlbCUyMHRvJTIwcHJvZHVjZSUyMDgxJTI1JTIwZmFzdGVyJTIwcXVlcnklMjBwbGFucyUyMHRoYW4lMjBQb3N0Z3JlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzMxMjg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTglM0E1MCUzQTAwJTIwJTJCMDAwMA",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "pubDate": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuc291cmNlLmdvb2dsZWJsb2cuY29tJTJGMjAyMiUyRjA2JTJGVmVjdG9yaXplZCUyNTIwYW5kJTI1MjBwZXJmb3JtYW5jZSUyNTIwcG9ydGFibGUlMjUyMFF1aWNrc29ydC5odG1sJTdDaHR0cHMlM0ElMkYlMkZvcGVuc291cmNlLmdvb2dsZWJsb2cuY29tJTJGMjAyMiUyRjA2JTJGVmVjdG9yaXplZCUyNTIwYW5kJTI1MjBwZXJmb3JtYW5jZSUyNTIwcG9ydGFibGUlMjUyMFF1aWNrc29ydC5odG1sJTdDVmVjdG9yaXplZCUyMGFuZCUyMHBlcmZvcm1hbmNlLXBvcnRhYmxlJTIwUXVpY2tzb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzEwNTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxOCUzQTMxJTNBMzUlMjAlMkIwMDAw",
+      "title": "Vectorized and performance-portable Quicksort",
+      "pubDate": "Wed, 16 Sep 2026 18:31:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHVja2dyZWVubWFuLmNvbSUyRjIwMjYlMkYwOSUyRjE2JTJGY291bnRpbmctYXQtZ2l0aHViJTdDaHR0cHMlM0ElMkYlMkZjaHVja2dyZWVubWFuLmNvbSUyRjIwMjYlMkYwOSUyRjE2JTJGY291bnRpbmctYXQtZ2l0aHViJTdDR2l0SHViJTIwaXMlMjBoYXZpbmclMjB0cm91YmxlJTIwY291bnRpbmclMjB0aGluZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczMDMwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDE3JTNBMzElM0ExOSUyMCUyQjAwMDA",
+      "title": "GitHub is having trouble counting things",
+      "pubDate": "Wed, 16 Sep 2026 17:31:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW1lcnR5bWVkaWNpbmUudXRvcm9udG8uY2ElMkZuZXdzJTJGZW1lcmdlbmN5LXJvb20tdmlzaXRzLWdhbWJsaW5nLWRpc29yZGVycy1uZWFybHktZG91YmxlZC1hZnRlci1leHBhbmRlZC1vbmxpbmUtZ2FtYmxpbmctbWFya2V0JTdDaHR0cHMlM0ElMkYlMkZ0ZW1lcnR5bWVkaWNpbmUudXRvcm9udG8uY2ElMkZuZXdzJTJGZW1lcmdlbmN5LXJvb20tdmlzaXRzLWdhbWJsaW5nLWRpc29yZGVycy1uZWFybHktZG91YmxlZC1hZnRlci1leHBhbmRlZC1vbmxpbmUtZ2FtYmxpbmctbWFya2V0JTdDRVIlMjB2aXNpdHMlMjBmb3IlMjBnYW1ibGluZyUyMGRpc29yZGVycyUyMGRvdWJsZWQlMjBhZnRlciUyMGV4cGFuZGVkJTIwb25saW5lJTIwZ2FtYmxpbmclMjBtYXJrZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczMDIzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDE3JTNBMjclM0EzNyUyMCUyQjAwMDA",
+      "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+      "pubDate": "Wed, 16 Sep 2026 17:27:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGYmxvZyUyRmNvd29yay1pcy1ub3ctY2xhdWRlJTdDaHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGYmxvZyUyRmNvd29yay1pcy1ub3ctY2xhdWRlJTdDQ2xhdWRlJTIwQ293b3JrJTIwYW5kJTIwY2hhdCUyMGFyZSUyMG5vdyUyMG9uZSUyMENsYXVkZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI5NDEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTYlM0EyNiUzQTI1JTIwJTJCMDAwMA",
+      "title": "Claude Cowork and chat are now one Claude",
+      "pubDate": "Wed, 16 Sep 2026 16:26:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXN0aW5nLmdvb2dsZWJsb2cuY29tJTJGMjAxMSUyRjAyJTJGdGhpcy1jb2RlLWlzLWNyYXAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdGVzdGluZy5nb29nbGVibG9nLmNvbSUyRjIwMTElMkYwMiUyRnRoaXMtY29kZS1pcy1jcmFwLmh0bWwlN0NUaGlzJTIwQ29kZSUyMElzJTIwQ1JBUCUyMCgyMDExKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI5MjI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTYlM0ExMyUzQTU1JTIwJTJCMDAwMA",
+      "title": "This Code Is CRAP (2011)",
+      "pubDate": "Wed, 16 Sep 2026 16:13:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWxsLWtlbGVoZXIuY29tJTJGcG9zdHMlMkZzbWFsbC1wcm9ncmFtbWluZy10cmlja3MtbWF0dGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3aWxsLWtlbGVoZXIuY29tJTJGcG9zdHMlMkZzbWFsbC1wcm9ncmFtbWluZy10cmlja3MtbWF0dGVyJTJGJTdDU21hbGwlMjBwcm9ncmFtbWluZyUyMHRyaWNrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI5MDAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTUlM0E1NiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Small programming tricks",
+      "pubDate": "Wed, 16 Sep 2026 15:56:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZzdG9wLXdpdGgtdGhlLXVwdGltZS1wZXJjZW50YWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZzdG9wLXdpdGgtdGhlLXVwdGltZS1wZXJjZW50YWdlJTJGJTdDQ2FuJTIwd2UlMjBzdG9wJTIwd2l0aCUyMHRoZSUyMHVwdGltZSUyMHBlcmNlbnRhZ2VzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3Mjg3MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxNSUzQTQwJTNBMDQlMjAlMkIwMDAw",
+      "title": "Can we stop with the uptime percentages?",
+      "pubDate": "Wed, 16 Sep 2026 15:40:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnN0aXR1dGUuZGVlcG1pbmQuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZpbnN0aXR1dGUuZGVlcG1pbmQuY29tJTJGJTdDVGhlJTIwRGVlcE1pbmQlMjBJbnN0aXR1dGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyNzY1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDE0JTNBMzIlM0ExMSUyMCUyQjAwMDA",
+      "title": "The DeepMind Institute",
+      "pubDate": "Wed, 16 Sep 2026 14:32:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ2VudGxpZW4uZ2l0aHViLmlvJTJGdGV4dHVyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYWdlbnRsaWVuLmdpdGh1Yi5pbyUyRnRleHR1cmUlMkYlN0NBbmF0b215JTIwb2YlMjBhJTIwVGV4dHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI3NTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTQlM0EyOCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Anatomy of a Texture",
+      "pubDate": "Wed, 16 Sep 2026 14:28:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdXN0YWZhLXN1bGV5bWFuLmFpJTJGYS13YXJuaW5nLWFib3V0LW1vZGVsLXdlbGZhcmUlN0NodHRwcyUzQSUyRiUyRm11c3RhZmEtc3VsZXltYW4uYWklMkZhLXdhcm5pbmctYWJvdXQtbW9kZWwtd2VsZmFyZSU3Q0ElMjB3YXJuaW5nJTIwYWJvdXQlMjAnbW9kZWwlMjB3ZWxmYXJlJyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI3NTgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTQlM0EyNyUzQTQ3JTIwJTJCMDAwMA",
+      "title": "A warning about 'model welfare'",
+      "pubDate": "Wed, 16 Sep 2026 14:27:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE0ODU4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE0ODU4JTdDRHJlYW0tUlNJJTNBJTIwUmVjdXJzaXZlJTIwU2VsZi1JbXByb3ZlbWVudCUyMHRocm91Z2glMjBFdm9sdmluZyUyMFdvcmxkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI2OTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTMlM0E0NCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "pubDate": "Wed, 16 Sep 2026 13:44:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZoYWNrZXJzLWZsb2NrLWNhbWVyYS1kYXRhLXNob3dzLWhvdy1zeXN0ZW0td29ya3MlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53aXJlZC5jb20lMkZzdG9yeSUyRmhhY2tlcnMtZmxvY2stY2FtZXJhLWRhdGEtc2hvd3MtaG93LXN5c3RlbS13b3JrcyUyRiU3Q0hhY2tlcnMlMjBHb3QlMjBJbnNpZGUlMjBhJTIwRmxvY2slMjBDYW1lcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyNjU4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDEzJTNBMTglM0E0NyUyMCUyQjAwMDA",
+      "title": "Hackers Got Inside a Flock Camera",
+      "pubDate": "Wed, 16 Sep 2026 13:18:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2xvdWR4LmFpJTJGcG9zdHMlMkZzZXR1cC1nbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNsb3VkeC5haSUyRnBvc3RzJTJGc2V0dXAtZ28lN0NTY2FsaW5nJTIwR29sYW5nJTIwQ0klMjBieSUyMFJlcGxhY2luZyUyMGFjdGlvbnMlMkZzZXR1cC1nbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI2MzUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTMlM0EwMiUzQTE0JTIwJTJCMDAwMA",
+      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "pubDate": "Wed, 16 Sep 2026 13:02:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFsZS5qb2NrLnBsJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGFsZS5qb2NrLnBsJTJGJTdDU2hvdyUyMEhOJTNBJTIwSG93JTIwU3RhbGUlMjBJcyUyMFlvdXIlMjBBSSUzRiUyMFJlbGVhc2UlMjBhZ2UlMjBhbmQlMjB0cmFpbmluZyUyMGN1dG9mZiUyMGZvciUyMDIwJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjYzNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxMyUzQTAxJTNBNTIlMjAlMkIwMDAw",
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "pubDate": "Wed, 16 Sep 2026 13:01:52 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
     }
   ]

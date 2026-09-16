@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-15",
     "newestItemDate": "2026-09-15",
-    "itemCount": 46,
-    "generatedAt": "2026-09-16T13:34:15.260Z"
+    "itemCount": 49,
+    "generatedAt": "2026-09-16T19:36:10.770Z"
   },
   "items": [
     {
@@ -282,6 +282,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ5b3NlZmsuY29tJTJGYmxvZyUyRmRvaW5nLWV2ZXJ5b25lLWVsc2VzLWpvYi5odG1sJTdDaHR0cHMlM0ElMkYlMkZ5b3NlZmsuY29tJTJGYmxvZyUyRmRvaW5nLWV2ZXJ5b25lLWVsc2VzLWpvYi5odG1sJTdDRG9pbmclMjBFdmVyeW9uZSUyMEVsc2UncyUyMEpvYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzA1OTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMDAlM0EwMSUzQTMxJTIwJTJCMDAwMA",
       "title": "Doing Everyone Else's Job",
       "pubDate": "Tue, 15 Sep 2026 00:01:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXRyaWNrd3ltYW4uc3Vic3RhY2suY29tJTJGcCUyRnRoZS1zaWJlcmlhbi1pY2UtbWFpZGVuLWFuZC10aGUtc2N5dGhpYW4lN0NodHRwcyUzQSUyRiUyRnBhdHJpY2t3eW1hbi5zdWJzdGFjay5jb20lMkZwJTJGdGhlLXNpYmVyaWFuLWljZS1tYWlkZW4tYW5kLXRoZS1zY3l0aGlhbiU3Q1RoZSUyMFNpYmVyaWFuJTIwSWNlJTIwTWFpZGVuJTIwYW5kJTIwdGhlJTIwU2N5dGhpYW4lMjBXb3JsZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzE3Mjk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTklM0EwOSUzQTA5JTIwJTJCMDAwMA",
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "pubDate": "Tue, 15 Sep 2026 19:09:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGkudGhlZ3JlZW5wbGFjZS5uZXQlMkYyMDI2JTJGaG93LWJpZy1hcmUtZmFjdG9yaWFscyUyRiU3Q2h0dHBzJTNBJTJGJTJGZWxpLnRoZWdyZWVucGxhY2UubmV0JTJGMjAyNiUyRmhvdy1iaWctYXJlLWZhY3RvcmlhbHMlMkYlN0NIb3clMjBiaWclMjBhcmUlMjBmYWN0b3JpYWxzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTIxODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxMyUzQTI1JTNBMzglMjAlMkIwMDAw",
+      "title": "How big are factorials?",
+      "pubDate": "Tue, 15 Sep 2026 13:25:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvaGhlbGxvYW5hLmJsb2clMkZ0ZWxsLXRoZS1zcGVha2VycyUyRiU3Q2h0dHBzJTNBJTJGJTJGb2hoZWxsb2FuYS5ibG9nJTJGdGVsbC10aGUtc3BlYWtlcnMlMkYlN0NUZWxsJTIwdGhlJTIwc3BlYWtlcnMlMjB0aGF0JTIweW91JTIwbGlrZWQlMjB0aGVpciUyMHRhbGtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTA5MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxMSUzQTI4JTNBMTklMjAlMkIwMDAw",
+      "title": "Tell the speakers that you liked their talks",
+      "pubDate": "Tue, 15 Sep 2026 11:28:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
     }
   ]
