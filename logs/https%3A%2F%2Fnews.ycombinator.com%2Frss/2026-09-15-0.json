@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-15",
     "newestItemDate": "2026-09-15",
-    "itemCount": 58,
-    "generatedAt": "2026-09-17T13:34:53.595Z"
+    "itemCount": 61,
+    "generatedAt": "2026-09-17T19:45:57.040Z"
   },
   "items": [
     {
@@ -354,6 +354,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuZ2l0aHViLmlvJTJGejNndWlkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWljcm9zb2Z0LmdpdGh1Yi5pbyUyRnozZ3VpZGUlMkYlN0NPbmxpbmUlMjBaMyUyMEd1aWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTMzNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNCUzQTQ1JTNBMDglMjAlMkIwMDAw",
       "title": "Online Z3 Guide",
       "pubDate": "Tue, 15 Sep 2026 14:45:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpvaG5ub3Zhay5uZXQlMkYyMDIzJTJGMDMlMkYwNSUyRmdyYW5kLW1zLWRvcy1nYW1pbmctZ2VuZXJhbC1taWRpLXNob3dkb3duJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmpvaG5ub3Zhay5uZXQlMkYyMDIzJTJGMDMlMkYwNSUyRmdyYW5kLW1zLWRvcy1nYW1pbmctZ2VuZXJhbC1taWRpLXNob3dkb3duJTJGJTdDR3JhbmQlMjBNUy1ET1MlMjBHYW1pbmclMjBHZW5lcmFsJTIwTUlESSUyMFNob3dkb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTQxOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNSUzQTM3JTNBNTUlMjAlMkIwMDAw",
+      "title": "Grand MS-DOS Gaming General MIDI Showdown",
+      "pubDate": "Tue, 15 Sep 2026 15:37:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpZWRtMjYubWFweW91cnNob3cuY29tJTJGOF8wJTJGc2Vzc2lvbnMlMkZzZXNzaW9uLWRldGFpbHMuY2ZtJTNGc2NoZWR1bGVpZCUzRDMzMSU3Q2h0dHBzJTNBJTJGJTJGaWVkbTI2Lm1hcHlvdXJzaG93LmNvbSUyRjhfMCUyRnNlc3Npb25zJTJGc2Vzc2lvbi1kZXRhaWxzLmNmbSUzRnNjaGVkdWxlaWQlM0QzMzElN0NUU01DJTIwcmV2ZWFsaW5nJTIwZGV0YWlscyUyMGFib3V0JTIwbmV4dCUyMGdlbiUyMEExNCUyMG5vZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNDA5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzElM0E1NSUyMCUyQjAwMDA",
+      "title": "TSMC revealing details about next gen A14 node",
+      "pubDate": "Tue, 15 Sep 2026 15:31:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWlkZXMudmlzdWFsLXBhcmFkaWdtLmNvbSUyRm1hc3RlcmluZy1ncmFwaHZpei1sYXlvdXQtZW5naW5lcy1kb3QtbmVhdG8tdHdvcGktY2lyY28lMkYlN0NodHRwcyUzQSUyRiUyRmd1aWRlcy52aXN1YWwtcGFyYWRpZ20uY29tJTJGbWFzdGVyaW5nLWdyYXBodml6LWxheW91dC1lbmdpbmVzLWRvdC1uZWF0by10d29waS1jaXJjbyUyRiU3Q01hc3RlcmluZyUyMExheW91dCUyMEVuZ2luZXMlMjBpbiUyMEdyYXBodml6JTNBJTIwRG90JTIwdnMuJTIwTmVhdG8lMjB2cy4lMjBUd29waSUyMHZzLiUyMENpcmNvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MDc2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAwNCUzQTE3JTNBNTMlMjAlMkIwMDAw",
+      "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+      "pubDate": "Tue, 15 Sep 2026 04:17:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
     }
   ]

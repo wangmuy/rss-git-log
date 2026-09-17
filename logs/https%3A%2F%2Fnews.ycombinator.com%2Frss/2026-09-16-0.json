@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-16",
     "newestItemDate": "2026-09-16",
-    "itemCount": 38,
-    "generatedAt": "2026-09-17T04:59:59.542Z"
+    "itemCount": 39,
+    "generatedAt": "2026-09-17T19:45:57.040Z"
   },
   "items": [
     {
@@ -234,6 +234,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLndhdGNodG93ci5jb20lMkZhLTMyLXllYXItb2xkLWJ1Zy13YWxrcy1pbnRvLWEtdGVsbmV0LXNlcnZlci1nbnUtaW5ldHV0aWxzLXRlbG5ldGQtY3ZlLTIwMjYtMzI3NDYlMkYlN0NodHRwcyUzQSUyRiUyRmxhYnMud2F0Y2h0b3dyLmNvbSUyRmEtMzIteWVhci1vbGQtYnVnLXdhbGtzLWludG8tYS10ZWxuZXQtc2VydmVyLWdudS1pbmV0dXRpbHMtdGVsbmV0ZC1jdmUtMjAyNi0zMjc0NiUyRiU3Q0ElMjAzMi15ZWFyLW9sZCUyMGJ1ZyUyMHdhbGtzJTIwaW50byUyMGElMjBUZWxuZXQlMjBzZXJ2ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyMTI5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDAyJTNBMDElM0EyNyUyMCUyQjAwMDA",
       "title": "A 32-year-old bug walks into a Telnet server",
       "pubDate": "Wed, 16 Sep 2026 02:01:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRldheF9tb3RvciU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZXYXhfbW90b3IlN0NXYXglMjBNb3RvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI2MDA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTIlM0EzNSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Wax Motor",
+      "pubDate": "Wed, 16 Sep 2026 12:35:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
     }
   ]

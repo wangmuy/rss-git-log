@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-17",
     "newestItemDate": "2026-09-17",
-    "itemCount": 14,
-    "generatedAt": "2026-09-17T13:34:53.594Z"
+    "itemCount": 35,
+    "generatedAt": "2026-09-17T19:45:57.040Z"
   },
   "items": [
     {
@@ -90,6 +90,132 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2xvdWRmbGFyZSUyRnNlY3VyaXR5LWF1ZGl0LXNraWxsJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2xvdWRmbGFyZSUyRnNlY3VyaXR5LWF1ZGl0LXNraWxsJTdDQ2xvdWRmbGFyZSUyRlNlY3VyaXR5LUF1ZGl0LVNraWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzY0NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAwNCUzQTM2JTNBNTUlMjAlMkIwMDAw",
       "title": "Cloudflare/Security-Audit-Skill",
       "pubDate": "Thu, 17 Sep 2026 04:36:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RscHIub3JnJTJGbmV3cy1icmllZnMlMkYyMDI2LTA5LTE2JTJGZmxvY2stY2FtZXJhcy1ndWFyZHJhaWxzLW1pc3NvdXJpLWtlaG9lJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3RscHIub3JnJTJGbmV3cy1icmllZnMlMkYyMDI2LTA5LTE2JTJGZmxvY2stY2FtZXJhcy1ndWFyZHJhaWxzLW1pc3NvdXJpLWtlaG9lJTdDTWlzc291cmklMjBnb3Zlcm5vciUyMG9yZGVycyUyMGd1YXJkcmFpbHMlMjBvbiUyMEZsb2NrJTIwY2FtZXJhcyUyMGFuZCUyMEFMUFJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDU0MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxOSUzQTI4JTNBNDElMjAlMkIwMDAw",
+      "title": "Missouri governor orders guardrails on Flock cameras and ALPRs",
+      "pubDate": "Thu, 17 Sep 2026 19:28:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1lbGFzaHJpLm5ldCUyRm1pY3JvJTJGcHVibGljLWpvYi1yZWZlcnJhbCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5tZWxhc2hyaS5uZXQlMkZtaWNybyUyRnB1YmxpYy1qb2ItcmVmZXJyYWwlMkYlN0NEb24ndCUyME1ha2UlMjBKb2IlMjBSZWZlcnJhbHMlMjBQdWJsaWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0NDUzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE4JTNBMTYlM0EzOCUyMCUyQjAwMDA",
+      "title": "Don't Make Job Referrals Public",
+      "pubDate": "Thu, 17 Sep 2026 18:16:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnNsYXNoZG90Lm9yZyUyRnN0b3J5JTJGMDElMkYwOSUyRjE3JTJGMTc1ODIzMSUyRnN0YWxsbWFuLXRob3VzYW5kcy1kZWFkLW1pbGxpb25zLWRlcHJpdmVkLW9mLWxpYmVydGllcyU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5zbGFzaGRvdC5vcmclMkZzdG9yeSUyRjAxJTJGMDklMkYxNyUyRjE3NTgyMzElMkZzdGFsbG1hbi10aG91c2FuZHMtZGVhZC1taWxsaW9ucy1kZXByaXZlZC1vZi1saWJlcnRpZXMlN0NTdGFsbG1hbiUzQSUyMFRob3VzYW5kcyUyMERlYWQlMkMlMjBNaWxsaW9ucyUyMERlcHJpdmVkJTIwb2YlMjBMaWJlcnRpZXMlMjAoMjAwMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0Mzc1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE3JTNBMjAlM0ExNCUyMCUyQjAwMDA",
+      "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
+      "pubDate": "Thu, 17 Sep 2026 17:20:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnN0aXR1dGUuZGVlcG1pbmQuY29tJTJGZXNzYXlzJTJGZWNvbm9taWMtcG9saWN5LWZvci1hZ2klMkYlN0NodHRwcyUzQSUyRiUyRmluc3RpdHV0ZS5kZWVwbWluZC5jb20lMkZlc3NheXMlMkZlY29ub21pYy1wb2xpY3ktZm9yLWFnaSUyRiU3Q0Vjb25vbWljJTIwcG9saWN5JTIwZm9yJTIwQUdJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDM2ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNyUzQTEyJTNBNTElMjAlMkIwMDAw",
+      "title": "Economic policy for AGI",
+      "pubDate": "Thu, 17 Sep 2026 17:12:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6c2NjLmFpJTJGY2FyZWVycyUzRmpvYl9pZCUzRDEwOTgyMSU3Q2h0dHBzJTNBJTJGJTJGenNjYy5haSUyRmNhcmVlcnMlM0Zqb2JfaWQlM0QxMDk4MjElN0NaZXR0YXNjYWxlJTIwKFlDJTIwUzI0KSUyMElzJTIwSGlyaW5nJTIwQVNJQyUyRkZQR0ElMjBFbmdpbmVlcnMlMjB0byUyMEJ1aWxkJTIwQ2hpcHMlMjBmb3IlMjBBU0klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0MzU2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE3JTNBMDAlM0E1OSUyMCUyQjAwMDA",
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "pubDate": "Thu, 17 Sep 2026 17:00:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRldGFpbC5kZXYlMkZwb3N0cyUyRnRvd2FyZHMtc2VsZi1kcml2aW5nLWNvZGViYXNlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5kZXRhaWwuZGV2JTJGcG9zdHMlMkZ0b3dhcmRzLXNlbGYtZHJpdmluZy1jb2RlYmFzZXMlMkYlN0NUb3dhcmRzJTIwU2VsZi1Ecml2aW5nJTIwQ29kZWJhc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDM1MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNiUzQTU4JTNBMzElMjAlMkIwMDAw",
+      "title": "Towards Self-Driving Codebases",
+      "pubDate": "Thu, 17 Sep 2026 16:58:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE4ODQyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE4ODQyJTdDSW5maW5pdGUtUGFyYW1ldGVyJTIwTExNcyUzQSUyMEdlbmVyYXRpbmclMjBhbmQlMjBBZGFwdGluZyUyMFdlaWdodHMlMjBmcm9tJTIwTGl2ZSUyMERhdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0MzQ4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE2JTNBNTUlM0ExNCUyMCUyQjAwMDA",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "pubDate": "Thu, 17 Sep 2026 16:55:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZza2lsbGJheS5zaCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2tpbGxiYXkuc2glMkYlN0NTaG93JTIwSE4lM0ElMjBDcmFpZ3NsaXN0JTIwZm9yJTIwYWdlbnQlMjBza2lsbHMlMkMlMjBjdXJhdGVkJTIwYnklMjBhJTIwaHVtYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0MzQ1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE2JTNBNTMlM0E1MSUyMCUyQjAwMDA",
+      "title": "Show HN: Craigslist for agent skills, curated by a human",
+      "pubDate": "Thu, 17 Sep 2026 16:53:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXNjaWltb28lMkZoaXN0ZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhc2NpaW1vbyUyRmhpc3RlciU3Q0hpc3RlciUzQSUyMEElMjBwcml2YXRlJTIwc2VhcmNoJTIwZW5naW5lJTIwZm9yJTIwdGhlJTIwcGFnZXMlMjB5b3UlMjB2aXNpdCUyMGFuZCUyMHRoZSUyMGZpbGVzJTIweW91JTIwa2VlcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQzMDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMTYlM0EyNSUzQTM3JTIwJTJCMDAwMA",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "pubDate": "Thu, 17 Sep 2026 16:25:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQzMDQ5JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQzMDQ5JTdDTGF1bmNoJTIwSE4lM0ElMjBTa2lsbHN5bmMlMjAoWUMlMjBXMjYpJTIwJUUyJTgwJTkzJTIwQUklMjBjaGF0JTIwc2Vzc2lvbnMlMjBtYWRlJTIwcG9ydGFibGUlMjBhY3Jvc3MlMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0MzA0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE2JTNBMjIlM0ExNSUyMCUyQjAwMDA",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "pubDate": "Thu, 17 Sep 2026 16:22:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQyOTc2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQyOTc2JTdDQXNrJTIwSE4lM0ElMjBIb3clMjB0byUyMHJlY292ZXIlMjBHb29nbGUlMjBhdXRoJTIwYWZ0ZXIlMjBwaG9uZSUyMHN0b2xlbiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQyOTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMTYlM0ExNyUzQTI4JTIwJTJCMDAwMA",
+      "title": "Ask HN: How to recover Google auth after phone stolen?",
+      "pubDate": "Thu, 17 Sep 2026 16:17:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW5peC1vcy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnZpbml4LW9zLm9yZyUyRiU3Q1Zpbml4JTIwJUUyJTgwJTkzJTIwQSUyMG1vZGVybiUyMG9wZXJhdGluZyUyMHN5c3RlbSUyMHdyaXR0ZW4lMjBpbiUyMFYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0MjQzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE1JTNBNDAlM0ExOSUyMCUyQjAwMDA",
+      "title": "Vinix – A modern operating system written in V",
+      "pubDate": "Thu, 17 Sep 2026 15:40:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW5pbWFsbHlzdWZmaWNpZW50LmNvbSUyRnBvc3RzJTJGbGxtLWNsYXNzaWZpY2F0aW9uLWlzLWZlYXR1cmUtZXh0cmFjdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGbWluaW1hbGx5c3VmZmljaWVudC5jb20lMkZwb3N0cyUyRmxsbS1jbGFzc2lmaWNhdGlvbi1pcy1mZWF0dXJlLWV4dHJhY3Rpb24lMkYlN0NMTE0lMjBDbGFzc2lmaWNhdGlvbiUyMElzJTIwRmVhdHVyZSUyMEVuZ2luZWVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDI0MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNSUzQTQwJTNBMTclMjAlMkIwMDAw",
+      "title": "LLM Classification Is Feature Engineering",
+      "pubDate": "Thu, 17 Sep 2026 15:40:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Jvd2RzZWMubmV0JTJGYmxvZyUyRmNyb3dkc2VjLXN0YXRlbWVudC1zb3VyY2UtY29kZS1leHBvc3VyZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNyb3dkc2VjLm5ldCUyRmJsb2clMkZjcm93ZHNlYy1zdGF0ZW1lbnQtc291cmNlLWNvZGUtZXhwb3N1cmUlN0NDcm93ZFNlYyUyMFNvdXJjZSUyMENvZGUlMjBMZWFrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDIzNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNSUzQTM0JTNBMDElMjAlMkIwMDAw",
+      "title": "CrowdSec Source Code Leak",
+      "pubDate": "Thu, 17 Sep 2026 15:34:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYm91dC5naXRsYWIuY29tJTJGYmxvZyUyRnJhdGUtbGltaXQtY2hhbmdlLTIwMjYlMkYlN0NodHRwcyUzQSUyRiUyRmFib3V0LmdpdGxhYi5jb20lMkZibG9nJTJGcmF0ZS1saW1pdC1jaGFuZ2UtMjAyNiUyRiU3Q1JhdGUlMjBsaW1pdHMlMjBvbiUyMEdpdExhYi5jb20lMjBhcmUlMjBjaGFuZ2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQyMzUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMTUlM0EzMyUzQTU0JTIwJTJCMDAwMA",
+      "title": "Rate limits on GitLab.com are changing",
+      "pubDate": "Thu, 17 Sep 2026 15:33:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRnNjaWVuY2UtYW5kLXRlY2hub2xvZ3klMkYyMDI2JTJGMDklMkYxNiUyRmFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLW5vdy1iZWF0cy1zb21lLW9mLXRoZS1iZXN0LWh1bWFuLWZvcmVjYXN0ZXJzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRnNjaWVuY2UtYW5kLXRlY2hub2xvZ3klMkYyMDI2JTJGMDklMkYxNiUyRmFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLW5vdy1iZWF0cy1zb21lLW9mLXRoZS1iZXN0LWh1bWFuLWZvcmVjYXN0ZXJzJTdDQXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG5vdyUyMGJlYXRzJTIwc29tZSUyMG9mJTIwdGhlJTIwYmVzdCUyMGh1bWFuJTIwZm9yZWNhc3RlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0MjAyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE1JTNBMTMlM0EzMCUyMCUyQjAwMDA",
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "pubDate": "Thu, 17 Sep 2026 15:13:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMjAyNiUyRjA5JTJGMjElMkZ0aGUtYW1lcmljYW4tcmVsaWdpb24tb2Ytc2VsZi1zdG9yYWdlLWZhY2lsaXRpZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5uZXd5b3JrZXIuY29tJTJGbWFnYXppbmUlMkYyMDI2JTJGMDklMkYyMSUyRnRoZS1hbWVyaWNhbi1yZWxpZ2lvbi1vZi1zZWxmLXN0b3JhZ2UtZmFjaWxpdGllcyU3Q1RoZSUyMEFtZXJpY2FuJTIwUmVsaWdpb24lMjBvZiUyMFNlbGYtU3RvcmFnZSUyMEZhY2lsaXRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0MDI2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDEzJTNBMTIlM0EyOCUyMCUyQjAwMDA",
+      "title": "The American Religion of Self-Storage Facilities",
+      "pubDate": "Thu, 17 Sep 2026 13:12:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZteXNldHVwLmFpJTJGJTdDaHR0cHMlM0ElMkYlMkZteXNldHVwLmFpJTJGJTdDU2hvdyUyMEhOJTNBJTIwU2hhcmUlMjB5b3VyJTIwQUklMjBTZXR1cCUyQyUyMExlYXJuJTIwZnJvbSUyMG90aGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQwMTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMTMlM0EwMSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "pubDate": "Thu, 17 Sep 2026 13:01:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb3dlcnMud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOSUyRjE3JTJGd2h5LWktZGlkbnQtc2lnbi10aGUtZmllbGRzLW1lZGFsbGlzdHMtbGV0dGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZnb3dlcnMud29yZHByZXNzLmNvbSUyRjIwMjYlMkYwOSUyRjE3JTJGd2h5LWktZGlkbnQtc2lnbi10aGUtZmllbGRzLW1lZGFsbGlzdHMtbGV0dGVyJTJGJTdDV2h5JTIwSSUyMGRpZG4lRTIlODAlOTl0JTIwc2lnbiUyMHRoZSUyMEZpZWxkcyUyMG1lZGFsbGlzdHMlRTIlODAlOTklMjBsZXR0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczODA5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDA4JTNBNTElM0E1MSUyMCUyQjAwMDA",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "pubDate": "Thu, 17 Sep 2026 08:51:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6LmFpJTJGYmxvZyUyRmdsbS1idWlsdC1pdHMtaW5mZXJlbmNlLWluZnJhc3RydWN0dXJlJTdDaHR0cHMlM0ElMkYlMkZ6LmFpJTJGYmxvZyUyRmdsbS1idWlsdC1pdHMtaW5mZXJlbmNlLWluZnJhc3RydWN0dXJlJTdDSG93JTIwR0xNJTIwYnVpbHQlMjBpdHMlMjBvd24lMjBpbmZlcmVuY2UlMjBpbmZyYXN0cnVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzM3OTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMDglM0EyNyUzQTA5JTIwJTJCMDAwMA",
+      "title": "How GLM built its own inference infrastructure",
+      "pubDate": "Thu, 17 Sep 2026 08:27:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJ2by5vcmclMkZibG9nJTJGMjAyNiUyRjA5JTJGMTUlMkZvbmUteWVhci1vZi1zcG9uc29yc2hpcCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2Vydm8ub3JnJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjE1JTJGb25lLXllYXItb2Ytc3BvbnNvcnNoaXAlMkYlN0NPbmUlMjB5ZWFyJTIwb2YlMjBzcG9uc29yZWQlMjBTZXJ2byUyMGRldmVsb3BtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3Mzc4NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAwOCUzQTEzJTNBNTQlMjAlMkIwMDAw",
+      "title": "One year of sponsored Servo development",
+      "pubDate": "Thu, 17 Sep 2026 08:13:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
     }
   ]
