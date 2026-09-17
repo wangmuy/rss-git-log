@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-16",
     "newestItemDate": "2026-09-16",
-    "itemCount": 30,
-    "generatedAt": "2026-09-16T19:36:10.770Z"
+    "itemCount": 38,
+    "generatedAt": "2026-09-17T04:59:59.542Z"
   },
   "items": [
     {
@@ -186,6 +186,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdGFsZS5qb2NrLnBsJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGFsZS5qb2NrLnBsJTJGJTdDU2hvdyUyMEhOJTNBJTIwSG93JTIwU3RhbGUlMjBJcyUyMFlvdXIlMjBBSSUzRiUyMFJlbGVhc2UlMjBhZ2UlMjBhbmQlMjB0cmFpbmluZyUyMGN1dG9mZiUyMGZvciUyMDIwJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjYzNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxMyUzQTAxJTNBNTIlMjAlMkIwMDAw",
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
       "pubDate": "Wed, 16 Sep 2026 13:01:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuc3BlYy5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5zcGVjLmRldiUyRiU3Q09wZW5TcGVjJTIwJUUyJTgwJTkzJTIwQSUyMGxpZ2h0d2VpZ2h0JTIwYW5kJTIwY29uZmlndXJhYmxlJTIwQUklMjBzcGVjJTIwZnJhbWV3b3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzQyNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAyMyUzQTA2JTNBMzklMjAlMkIwMDAw",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "pubDate": "Wed, 16 Sep 2026 23:06:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXJuZXNzdGF4LmdpdGh1Yi5pbyUyRiU3Q2h0dHBzJTNBJTJGJTJGaGFybmVzc3RheC5naXRodWIuaW8lMkYlN0NIYXJuZXNzVGF4JTNBJTIwSG93JTIwTXVjaCUyMERvZXMlMjB0aGUlMjBIYXJuZXNzJTIwTWF0dGVyJTIwZm9yJTIwQ29kaW5nJTIwQWdlbnRzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzM3MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAyMiUzQTEwJTNBMTMlMjAlMkIwMDAw",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "pubDate": "Wed, 16 Sep 2026 22:10:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE2MzM4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE2MzM4JTdDQnJlYWtpbmclMjB0aGUlMjAxLjU4LWJpdCUyMEJhcnJpZXIlMjBmb3IlMjBUZXJuYXJ5JTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzMyOTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMjAlM0E1OSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "pubDate": "Wed, 16 Sep 2026 20:59:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWxpcG92c2tpLm5ldCUyRjIwMjYlMkYwOSUyRjE2JTJGYmFja3Vwcy1hcmVudC1zaW1wbGUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZmlsaXBvdnNraS5uZXQlMkYyMDI2JTJGMDklMkYxNiUyRmJhY2t1cHMtYXJlbnQtc2ltcGxlLmh0bWwlN0NCYWNrdXBzJTIwQXJlbid0JTIwU2ltcGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzI1MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAyMCUzQTI3JTNBMTYlMjAlMkIwMDAw",
+      "title": "Backups Aren't Simple",
+      "pubDate": "Wed, 16 Sep 2026 20:27:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW1vLnhpYW9taS5jb20lMkZybCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWltby54aWFvbWkuY29tJTJGcmwlMkYlN0NYaWFvbWklMjBNaW1vJTIwMi42JTIwbGl2ZSUyMHBvc3QtdHJhaW5pbmclMjBkYXNoYm9hcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczMjI3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDIwJTNBMDklM0ExOCUyMCUyQjAwMDA",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "pubDate": "Wed, 16 Sep 2026 20:09:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmlubnlsYXJvdWdlJTJGamV2bGlrZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnZpbm55bGFyb3VnZSUyRmpldmxpa2UlN0NSZXZlcnNlLWVuZ2luZWVyZWQlMjBKZXYtbGlrZSUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MzEyODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxOCUzQTQ5JTNBNTclMjAlMkIwMDAw",
+      "title": "Reverse-engineered Jev-like model",
+      "pubDate": "Wed, 16 Sep 2026 18:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIubnZpZGlhLmNvbSUyRmJsb2clMkZpbnRyb2R1Y2luZy1jdWRhLXJ1c3QtdHdvLXRyYWNrcy1mb3Itd3JpdGluZy1ncHUta2VybmVscyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVyLm52aWRpYS5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctY3VkYS1ydXN0LXR3by10cmFja3MtZm9yLXdyaXRpbmctZ3B1LWtlcm5lbHMlMkYlN0NOdmlkaWElMjBhbm5vdW5jZXMlMjBuYXRpdmUlMjBHUFUlMjBwcm9ncmFtbWluZyUyMGluJTIwUnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI0ODgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTElM0ExNSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "pubDate": "Wed, 16 Sep 2026 11:15:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLndhdGNodG93ci5jb20lMkZhLTMyLXllYXItb2xkLWJ1Zy13YWxrcy1pbnRvLWEtdGVsbmV0LXNlcnZlci1nbnUtaW5ldHV0aWxzLXRlbG5ldGQtY3ZlLTIwMjYtMzI3NDYlMkYlN0NodHRwcyUzQSUyRiUyRmxhYnMud2F0Y2h0b3dyLmNvbSUyRmEtMzIteWVhci1vbGQtYnVnLXdhbGtzLWludG8tYS10ZWxuZXQtc2VydmVyLWdudS1pbmV0dXRpbHMtdGVsbmV0ZC1jdmUtMjAyNi0zMjc0NiUyRiU3Q0ElMjAzMi15ZWFyLW9sZCUyMGJ1ZyUyMHdhbGtzJTIwaW50byUyMGElMjBUZWxuZXQlMjBzZXJ2ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyMTI5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDAyJTNBMDElM0EyNyUyMCUyQjAwMDA",
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "pubDate": "Wed, 16 Sep 2026 02:01:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-12",
     "newestItemDate": "2026-09-12",
-    "itemCount": 45,
-    "generatedAt": "2026-09-15T19:43:58.483Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-17T04:59:59.543Z"
   },
   "items": [
     {
@@ -276,6 +276,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZub3Rlc2J5bGV4LmNvbSUyRmdpdmluZy11cC1vbi1zbWFydC1yaW5ncyU3Q2h0dHBzJTNBJTJGJTJGbm90ZXNieWxleC5jb20lMkZnaXZpbmctdXAtb24tc21hcnQtcmluZ3MlN0NHaXZpbmclMjB1cCUyMG9uJTIwc21hcnQlMjByaW5ncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Njc3NjQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTIlMjBTZXAlMjAyMDI2JTIwMjIlM0EwMCUzQTIwJTIwJTJCMDAwMA",
       "title": "Giving up on smart rings",
       "pubDate": "Sat, 12 Sep 2026 22:00:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnRyYW5zbGF0ZWRqcC5zdWJzdGFjay5jb20lMkZwJTJGamFwYW5zLWJvb2stc2NlbmUtaXMtcXVpZXRseS1tb3ZpbmclN0NodHRwcyUzQSUyRiUyRnVudHJhbnNsYXRlZGpwLnN1YnN0YWNrLmNvbSUyRnAlMkZqYXBhbnMtYm9vay1zY2VuZS1pcy1xdWlldGx5LW1vdmluZyU3Q0phcGFuJ3MlMjBib29rJTIwc2NlbmUlMjBpcyUyMG1vdmluZyUyMGZyb20lMjBib29rc3RvcmVzJTIwdG8lMjBsaWJyYXJpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3NzkxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDIyJTNBMzUlM0EyNSUyMCUyQjAwMDA",
+      "title": "Japan's book scene is moving from bookstores to libraries",
+      "pubDate": "Sat, 12 Sep 2026 22:35:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZWdlbGwuZ2l0aHViLmlvJTJGcG9zdHMlMkZmYWN0b3Jpby1ybmclMkYlN0NodHRwcyUzQSUyRiUyRmdlZ2VsbC5naXRodWIuaW8lMkZwb3N0cyUyRmZhY3RvcmlvLXJuZyUyRiU3Q1JldmVyc2luZyUyMEZhY3RvcmlvJ3MlMjBSTkclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY3NDQ1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEyJTIwU2VwJTIwMjAyNiUyMDE3JTNBMDIlM0ExOSUyMCUyQjAwMDA",
+      "title": "Reversing Factorio's RNG",
+      "pubDate": "Sat, 12 Sep 2026 17:02:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-12-0.json"
     }
   ]

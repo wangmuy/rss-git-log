@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-15",
     "newestItemDate": "2026-09-15",
-    "itemCount": 49,
-    "generatedAt": "2026-09-16T19:36:10.770Z"
+    "itemCount": 53,
+    "generatedAt": "2026-09-17T04:59:59.543Z"
   },
   "items": [
     {
@@ -300,6 +300,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvaGhlbGxvYW5hLmJsb2clMkZ0ZWxsLXRoZS1zcGVha2VycyUyRiU3Q2h0dHBzJTNBJTJGJTJGb2hoZWxsb2FuYS5ibG9nJTJGdGVsbC10aGUtc3BlYWtlcnMlMkYlN0NUZWxsJTIwdGhlJTIwc3BlYWtlcnMlMjB0aGF0JTIweW91JTIwbGlrZWQlMjB0aGVpciUyMHRhbGtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTA5MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxMSUzQTI4JTNBMTklMjAlMkIwMDAw",
       "title": "Tell the speakers that you liked their talks",
       "pubDate": "Tue, 15 Sep 2026 11:28:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2huandhbmcuY29tJTJGcG9zdCUyRjIwMjYlMkYwOSUyRjE1JTJGZW5naW5lZXJpbmctYmVoaW5kLXVzLXN0cmF0ZWdpYy1wZXRyb2xldW0tcmVzZXJ2ZSU3Q2h0dHBzJTNBJTJGJTJGam9obmp3YW5nLmNvbSUyRnBvc3QlMkYyMDI2JTJGMDklMkYxNSUyRmVuZ2luZWVyaW5nLWJlaGluZC11cy1zdHJhdGVnaWMtcGV0cm9sZXVtLXJlc2VydmUlN0NUaGUlMjBlbmdpbmVlcmluZyUyMGJlaGluZCUyMHRoZSUyMFVTJTIwU3RyYXRlZ2ljJTIwUGV0cm9sZXVtJTIwUmVzZXJ2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzE5NTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMjIlM0ExNSUzQTI1JTIwJTJCMDAwMA",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "pubDate": "Tue, 15 Sep 2026 22:15:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRndvcmxkJTJGbWlkZGxlLWVhc3QlMkZhd3Mtc2F5cy1pdC1jYW50LXJlc3RvcmUtc29tZS1kYXRhLWZyb20tbWlkZWFzdC1mYWNpbGl0aWVzLXN0cnVjay1ieS1pcmFuLWRkY2I3ZTVkJTdDaHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRndvcmxkJTJGbWlkZGxlLWVhc3QlMkZhd3Mtc2F5cy1pdC1jYW50LXJlc3RvcmUtc29tZS1kYXRhLWZyb20tbWlkZWFzdC1mYWNpbGl0aWVzLXN0cnVjay1ieS1pcmFuLWRkY2I3ZTVkJTdDQVdTJTIwc2F5cyUyMGl0JTIwY2FuJ3QlMjByZXN0b3JlJTIwc29tZSUyMGRhdGElMjBmcm9tJTIwbWlkZWFzdCUyMGZhY2lsaXRpZXMlMjBzdHJ1Y2slMjBieSUyMElyYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxOTI0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDIxJTNBNDElM0E0MiUyMCUyQjAwMDA",
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "pubDate": "Tue, 15 Sep 2026 21:41:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFudmsub3JnJTJGMjAyNiUyRjA5JTJGMTAlMkZtYXBzbmFwLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYW52ay5vcmclMkYyMDI2JTJGMDklMkYxMCUyRm1hcHNuYXAuaHRtbCU3Q01hcHNuYXAlM0ElMjBBdXRvbWF0ZWQlMjBHZW9yZWZlcmVuY2luZyUyMGZvciUyMEhpc3RvcmljJTIwU2FuYm9ybiUyMEluc3VyYW5jZSUyME1hcHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxNzUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDE5JTNBMjIlM0E0OCUyMCUyQjAwMDA",
+      "title": "Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
+      "pubDate": "Tue, 15 Sep 2026 19:22:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGZG90bmV0JTJGcGVyZm9ybWFuY2UtaW1wcm92ZW1lbnRzLWluLW5ldC0xMSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2YmxvZ3MubWljcm9zb2Z0LmNvbSUyRmRvdG5ldCUyRnBlcmZvcm1hbmNlLWltcHJvdmVtZW50cy1pbi1uZXQtMTElMkYlN0NQZXJmb3JtYW5jZSUyMEltcHJvdmVtZW50cyUyMGluJTIwLk5FVCUyMDExJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTE0MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxMiUzQTE4JTNBMTYlMjAlMkIwMDAw",
+      "title": "Performance Improvements in .NET 11",
+      "pubDate": "Tue, 15 Sep 2026 12:18:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
     }
   ]

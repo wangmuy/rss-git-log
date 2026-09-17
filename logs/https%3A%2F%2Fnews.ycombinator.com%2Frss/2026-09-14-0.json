@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-14",
     "newestItemDate": "2026-09-14",
-    "itemCount": 73,
-    "generatedAt": "2026-09-16T13:34:15.260Z"
+    "itemCount": 76,
+    "generatedAt": "2026-09-17T04:59:59.543Z"
   },
   "items": [
     {
@@ -444,6 +444,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTExLjA3ODg1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTExLjA3ODg1JTdDSW50ZWxsaWdlbmNlJTIwcGVyJTIwV2F0dCUzQSUyME1lYXN1cmluZyUyMEludGVsbGlnZW5jZSUyMEVmZmljaWVuY3klMjBvZiUyMExvY2FsJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTY5NDAzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE0JTIwU2VwJTIwMjAyNiUyMDA5JTNBMTYlM0EzOSUyMCUyQjAwMDA",
       "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
       "pubDate": "Mon, 14 Sep 2026 09:16:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW1hem9uLnNjaWVuY2UlMkZibG9nJTJGZGV2ZWxvcGluZy1wcm92YWJseS1jb3JyZWN0LXJ1c3QtY29kZS13aXRoLXZlcnVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW1hem9uLnNjaWVuY2UlMkZibG9nJTJGZGV2ZWxvcGluZy1wcm92YWJseS1jb3JyZWN0LXJ1c3QtY29kZS13aXRoLXZlcnVzJTdDRGV2ZWxvcGluZyUyMHByb3ZhYmx5JTIwY29ycmVjdCUyMFJ1c3QlMjBjb2RlJTIwd2l0aCUyMFZlcnVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MDAxNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxNiUzQTU3JTNBNTAlMjAlMkIwMDAw",
+      "title": "Developing provably correct Rust code with Verus",
+      "pubDate": "Mon, 14 Sep 2026 16:57:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhNm16ZXJvLmNvbSUyRnBvc3RzJTJGdGhpcy1wY2ItaXMtYnJvdWdodC10by15b3UtYnktZmFibGUtNSUyRiU3Q2h0dHBzJTNBJTJGJTJGYTZtemVyby5jb20lMkZwb3N0cyUyRnRoaXMtcGNiLWlzLWJyb3VnaHQtdG8teW91LWJ5LWZhYmxlLTUlMkYlN0NQQ0IlMjBpcyUyMGJyb3VnaHQlMjB0byUyMHlvdSUyMGJ5JTIwRmFibGUlMjA1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTU2ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAxMiUzQTI1JTNBMjQlMjAlMkIwMDAw",
+      "title": "PCB is brought to you by Fable 5",
+      "pubDate": "Mon, 14 Sep 2026 12:25:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmFuaGFobi5jb20lMkZwb3N0cyUyRjIwMjYtMDktMTMtcHJvZ3JhbW1lcnMtZGlzbGlrZS1yZWR1Y2UlMkYlN0NodHRwcyUzQSUyRiUyRmV2YW5oYWhuLmNvbSUyRnBvc3RzJTJGMjAyNi0wOS0xMy1wcm9ncmFtbWVycy1kaXNsaWtlLXJlZHVjZSUyRiU3Q0FuZWNkb3RhbGx5JTJDJTIwcHJvZ3JhbW1lcnMlMjBkaXNsaWtlJTIwJTIycmVkdWNlJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk2OTI4NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNCUyMFNlcCUyMDIwMjYlMjAwNiUzQTQ2JTNBMjYlMjAlMkIwMDAw",
+      "title": "Anecdotally, programmers dislike \"reduce\"",
+      "pubDate": "Mon, 14 Sep 2026 06:46:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-14-0.json"
     }
   ]
