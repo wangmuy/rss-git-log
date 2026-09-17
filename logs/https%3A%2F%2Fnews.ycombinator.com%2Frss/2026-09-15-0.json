@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-15",
     "newestItemDate": "2026-09-15",
-    "itemCount": 53,
-    "generatedAt": "2026-09-17T04:59:59.543Z"
+    "itemCount": 58,
+    "generatedAt": "2026-09-17T13:34:53.595Z"
   },
   "items": [
     {
@@ -324,6 +324,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGZG90bmV0JTJGcGVyZm9ybWFuY2UtaW1wcm92ZW1lbnRzLWluLW5ldC0xMSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2YmxvZ3MubWljcm9zb2Z0LmNvbSUyRmRvdG5ldCUyRnBlcmZvcm1hbmNlLWltcHJvdmVtZW50cy1pbi1uZXQtMTElMkYlN0NQZXJmb3JtYW5jZSUyMEltcHJvdmVtZW50cyUyMGluJTIwLk5FVCUyMDExJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTE0MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxMiUzQTE4JTNBMTYlMjAlMkIwMDAw",
       "title": "Performance Improvements in .NET 11",
       "pubDate": "Tue, 15 Sep 2026 12:18:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b2dhbWVmb3JsaWZlLndvcmRwcmVzcy5jb20lMkYyMDIzJTJGMTIlMkYwOSUyRm9uLWx1Y2FzYXJ0cy1hZnRlcmxpZmUlMkYlN0NodHRwcyUzQSUyRiUyRnRvZ2FtZWZvcmxpZmUud29yZHByZXNzLmNvbSUyRjIwMjMlMkYxMiUyRjA5JTJGb24tbHVjYXNhcnRzLWFmdGVybGlmZSUyRiU3Q0x1Y2FzYXJ0J3MlMjBBZnRlcmxpZmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxOTc1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDIyJTNBMzAlM0EzMCUyMCUyQjAwMDA",
+      "title": "Lucasart's Afterlife",
+      "pubDate": "Tue, 15 Sep 2026 22:30:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWtlYXNtaXRoLmNvbSUyRmJsb2clMkZodHRwLWJ1aWxkLXVybCUyRiU3Q2h0dHBzJTNBJTJGJTJGamFrZWFzbWl0aC5jb20lMkZibG9nJTJGaHR0cC1idWlsZC11cmwlMkYlN0NNeSUyMHRlbXBvcmFyeSUyMFBIUCUyMGZpeCUyMGZyb20lMjAyMDE0JTIwaGFzJTIwbmVhcmx5JTIwMjBNJTIwaW5zdGFsbHMuJTIwVG9kYXklMjBJJ20lMjBkZXByZWNhdGluZyUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTg3NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAyMCUzQTUzJTNBMzYlMjAlMkIwMDAw",
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "pubDate": "Tue, 15 Sep 2026 20:53:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbG9iYWwuZnVqaXRzdSUyRmVuLWdsb2JhbCUyRnByJTJGbmV3cyUyRjIwMjYlMkYwOSUyRjE0LTAyJTdDaHR0cHMlM0ElMkYlMkZnbG9iYWwuZnVqaXRzdSUyRmVuLWdsb2JhbCUyRnByJTJGbmV3cyUyRjIwMjYlMkYwOSUyRjE0LTAyJTdDRnVqaXRzdSUyMGxhdW5jaGVzJTIwbWFkZS1pbi1KYXBhbiUyMG5leHQtZ2VuZXJhdGlvbiUyMENQVSUyMEZVSklUU1UtTU9OQUtBJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTU4MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNyUzQTI4JTNBMzglMjAlMkIwMDAw",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "pubDate": "Tue, 15 Sep 2026 17:28:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZ2JlcnQubmV0JTJGYmxvZyUyRmFydGljbGVzJTJGY29tcGFyaXNvbi1vZi1hcmVuYS1hcmNoaXRlY3R1cmUtaW4tbWFsbG9jLmh0bWwlN0NodHRwcyUzQSUyRiUyRmVnYmVydC5uZXQlMkZibG9nJTJGYXJ0aWNsZXMlMkZjb21wYXJpc29uLW9mLWFyZW5hLWFyY2hpdGVjdHVyZS1pbi1tYWxsb2MuaHRtbCU3Q0NvbXBhcmlzb24lMjBvZiUyME1hbGxvYygpJTIwQWxnb3JpdGhtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzE1MzE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTYlM0E1MiUzQTI1JTIwJTJCMDAwMA",
+      "title": "Comparison of Malloc() Algorithms",
+      "pubDate": "Tue, 15 Sep 2026 16:52:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuZ2l0aHViLmlvJTJGejNndWlkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWljcm9zb2Z0LmdpdGh1Yi5pbyUyRnozZ3VpZGUlMkYlN0NPbmxpbmUlMjBaMyUyMEd1aWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTMzNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNCUzQTQ1JTNBMDglMjAlMkIwMDAw",
+      "title": "Online Z3 Guide",
+      "pubDate": "Tue, 15 Sep 2026 14:45:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
     }
   ]
