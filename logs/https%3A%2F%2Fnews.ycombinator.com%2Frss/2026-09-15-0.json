@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-15",
     "newestItemDate": "2026-09-15",
-    "itemCount": 61,
-    "generatedAt": "2026-09-17T19:45:57.040Z"
+    "itemCount": 63,
+    "generatedAt": "2026-09-18T04:52:42.904Z"
   },
   "items": [
     {
@@ -372,6 +372,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZndWlkZXMudmlzdWFsLXBhcmFkaWdtLmNvbSUyRm1hc3RlcmluZy1ncmFwaHZpei1sYXlvdXQtZW5naW5lcy1kb3QtbmVhdG8tdHdvcGktY2lyY28lMkYlN0NodHRwcyUzQSUyRiUyRmd1aWRlcy52aXN1YWwtcGFyYWRpZ20uY29tJTJGbWFzdGVyaW5nLWdyYXBodml6LWxheW91dC1lbmdpbmVzLWRvdC1uZWF0by10d29waS1jaXJjbyUyRiU3Q01hc3RlcmluZyUyMExheW91dCUyMEVuZ2luZXMlMjBpbiUyMEdyYXBodml6JTNBJTIwRG90JTIwdnMuJTIwTmVhdG8lMjB2cy4lMjBUd29waSUyMHZzLiUyMENpcmNvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MDc2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAwNCUzQTE3JTNBNTMlMjAlMkIwMDAw",
       "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
       "pubDate": "Tue, 15 Sep 2026 04:17:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRob3ZlcmZsb3cubmV0JTJGcXVlc3Rpb25zJTJGNTE1MjYwJTJGaG93LWRvLXdlLXByZXZlbnQtbWF0aGVtYXRpY3MtZnJvbS1kZXZvbHZpbmctaW50by10aGUtbWVkaWV2YWwtZXJhLW9mLXNlY3JlY3klN0NodHRwcyUzQSUyRiUyRm1hdGhvdmVyZmxvdy5uZXQlMkZxdWVzdGlvbnMlMkY1MTUyNjAlMkZob3ctZG8td2UtcHJldmVudC1tYXRoZW1hdGljcy1mcm9tLWRldm9sdmluZy1pbnRvLXRoZS1tZWRpZXZhbC1lcmEtb2Ytc2VjcmVjeSU3Q0hvdyUyMGRvJTIwd2UlMjBwcmV2ZW50JTIwbWF0aGVtYXRoaWNzJTIwZnJvbSUyMGRldm9sdmluZyUyMGludG8lMjB0aGUlMjBNZWRpZXZhbCUyMEVyYSUyMG9mJTIwc2VjcmVjeSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzE1OTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTclM0EzNyUzQTQxJTIwJTJCMDAwMA",
+      "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+      "pubDate": "Tue, 15 Sep 2026 17:37:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpLm5ld3MlMkZwYWxlb250b2xvZ3klMkZzcGFuaXNoLWRpcGxvZG9jdXMtMTUwNjQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaS5uZXdzJTJGcGFsZW9udG9sb2d5JTJGc3BhbmlzaC1kaXBsb2RvY3VzLTE1MDY0Lmh0bWwlN0NEaXBsb2RvY3VzJTJDJTIwTG9uZyUyMFRob3VnaHQlMjBFeGNsdXNpdmVseSUyMEFtZXJpY2FuJTJDJTIwVHVybnMlMjBVcCUyMGluJTIwU3BhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxMDQ0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDEwJTNBNDYlM0EyNCUyMCUyQjAwMDA",
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "pubDate": "Tue, 15 Sep 2026 10:46:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
     }
   ]
