@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-18",
     "newestItemDate": "2026-09-18",
-    "itemCount": 17,
-    "generatedAt": "2026-09-18T13:00:35.627Z"
+    "itemCount": 32,
+    "generatedAt": "2026-09-18T19:04:20.630Z"
   },
   "items": [
     {
@@ -108,6 +108,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFja3Ryb24uYWklMkZibG9nJTJGaGFja2luZy1vcGVuYWklN0NodHRwcyUzQSUyRiUyRnd3dy5oYWNrdHJvbi5haSUyRmJsb2clMkZoYWNraW5nLW9wZW5haSU3Q0ElMjBoZWFwJTIwb3ZlcmZsb3clMjBhbmQlMjBTU08lMjBtaXNjb25maWd1cmF0aW9uJTIwdG8lMjBjb21wcm9taXNlJTIwT3BlbkFJJTIwaW50ZXJuYWwlMjByZXBvcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQ5NjU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMDIlM0E0NyUzQTI0JTIwJTJCMDAwMA",
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "pubDate": "Fri, 18 Sep 2026 02:47:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXdhbmRjcmltZS5jb20lMkZoaWdoLXByb2ZpbGUlMkZ0aGUtZ292ZXJubWVudC13YXMtZW50aXRsZWQtdHJ1bXBzLWJvcmRlci1hZ2VudHMtY2FuLW5vdy1zZWFyY2gtY2VsbHBob25lcy13aXRob3V0LWEtd2FycmFudC1wcm9iYWJsZS1jYXVzZS1vci1yZWFzb25hYmxlLXN1c3BpY2lvbi0ybmQtY2lyY3VpdC1ydWxlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGF3YW5kY3JpbWUuY29tJTJGaGlnaC1wcm9maWxlJTJGdGhlLWdvdmVybm1lbnQtd2FzLWVudGl0bGVkLXRydW1wcy1ib3JkZXItYWdlbnRzLWNhbi1ub3ctc2VhcmNoLWNlbGxwaG9uZXMtd2l0aG91dC1hLXdhcnJhbnQtcHJvYmFibGUtY2F1c2Utb3ItcmVhc29uYWJsZS1zdXNwaWNpb24tMm5kLWNpcmN1aXQtcnVsZXMlMkYlN0NCb3JkZXIlMjBhZ2VudHMlMjBjYW4lMjBzZWFyY2glMjBjZWxscGhvbmVzJTIwd2l0aG91dCUyMGElMjB3YXJyYW50JTIwb3IlMjByZWFzb25hYmxlJTIwc3VzcGljaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NTgwMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOCUyMFNlcCUyMDIwMjYlMjAxOCUzQTA4JTNBMzIlMjAlMkIwMDAw",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "pubDate": "Fri, 18 Sep 2026 18:08:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYwOSUyRjE4JTJGcG9saXRpY3MlMkZ1cy1taWxpdGFyeS1haS1mYWxzZS1pbnRlbGxpZ2VuY2UtY2hpbmEtc2hpcCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI2JTJGMDklMkYxOCUyRnBvbGl0aWNzJTJGdXMtbWlsaXRhcnktYWktZmFsc2UtaW50ZWxsaWdlbmNlLWNoaW5hLXNoaXAlN0NVUyUyME1pbGl0YXJ5JTIwaGFkJTIwY2xvc2UlMjBjYWxsJTIwYWZ0ZXIlMjB1c2luZyUyMEFJJTIwZm9yJTIwaGFsbHVjaW5hdGVkJTIwaW50ZWxsaWdlbmNlJTIwcmVwb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NTc1MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOCUyMFNlcCUyMDIwMjYlMjAxNyUzQTI4JTNBMDElMjAlMkIwMDAw",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "pubDate": "Fri, 18 Sep 2026 17:28:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb25qb24ubGVkZ2VyLmNvbSUyRmJsb2clMkZycDIzNTAtc2VjdXJlLWRlYnVnLWxhc2VyLWZhdWx0LWluamVjdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGZG9uam9uLmxlZGdlci5jb20lMkZibG9nJTJGcnAyMzUwLXNlY3VyZS1kZWJ1Zy1sYXNlci1mYXVsdC1pbmplY3Rpb24lMkYlN0NQaG90b24tRW1pc3Npb24tR3VpZGVkJTIwTGFzZXIlMjBGYXVsdCUyMEluamVjdGlvbiUyMEVuYWJsZXMlMjBSUDIzNTAlMjBTZWN1cmUlMjBEZWJ1ZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzU3MDUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTYlM0E1NCUzQTE4JTIwJTJCMDAwMA",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "pubDate": "Fri, 18 Sep 2026 16:54:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFuZC5zeXN0ZW1kLmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZicmFuZC5zeXN0ZW1kLmlvJTJGJTdDU3lzdGVtZCUyMGlzJTIwYSUyMHN1aXRlJTIwb2YlMjBiYXNpYyUyMGJ1aWxkaW5nJTIwYmxvY2tzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NTY3NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOCUyMFNlcCUyMDIwMjYlMjAxNiUzQTMxJTNBNDMlMjAlMkIwMDAw",
+      "title": "Systemd is a suite of basic building blocks",
+      "pubDate": "Fri, 18 Sep 2026 16:31:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWlyby52aXNpb24lMkZpbmRleC5waHAlMkYyMDI2JTJGMDklMkYxNyUyRmdyYXNzbG9iYnN0ZXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5taXJvLnZpc2lvbiUyRmluZGV4LnBocCUyRjIwMjYlMkYwOSUyRjE3JTJGZ3Jhc3Nsb2Jic3RlciUyRiU3Q0dyYXNzTG9ic3RlciUzQSUyMEFJJTIwQWdlbnRpYyUyMEdlbmVyYXRpb24lMjBvZiUyMFBhcmFtZXRyaWMlMjBHZW9tZXRyeSUyMFdvcmtmbG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzU1NDMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTUlM0EwNCUzQTU0JTIwJTJCMDAwMA",
+      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "pubDate": "Fri, 18 Sep 2026 15:04:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm5zZWxkZWliLmNvbSUyRnAlMkZidWlsZC1mYXN0ZXItZmVlZGJhY2stbG9vcHMtdXNpbmclN0NodHRwcyUzQSUyRiUyRmJsb2cubnNlbGRlaWIuY29tJTJGcCUyRmJ1aWxkLWZhc3Rlci1mZWVkYmFjay1sb29wcy11c2luZyU3Q0J1aWxkJTIwRmFzdGVyJTIwRmVlZGJhY2slMjBMb29wcyUyMFVzaW5nJTIwUXVhbGl0YXRpdmUlMjBVc2VyJTIwUmVzZWFyY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1NTMzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDE0JTNBNTglM0EwOSUyMCUyQjAwMDA",
+      "title": "Build Faster Feedback Loops Using Qualitative User Research",
+      "pubDate": "Fri, 18 Sep 2026 14:58:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRm5vcnRoLWtvcmVhbi1udWNsZWFyLXRlc3Qtc2V0cy15ZWFycy1lYXJ0aHF1YWtlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZub3J0aC1rb3JlYW4tbnVjbGVhci10ZXN0LXNldHMteWVhcnMtZWFydGhxdWFrZXMlN0NOb3J0aCUyMEtvcmVhbiUyMG51Y2xlYXIlMjB0ZXN0JTIwc2V0cyUyMG9mZiUyMHllYXJzJTIwb2YlMjBlYXJ0aHF1YWtlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzU1MTYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTQlM0E0NSUzQTMyJTIwJTJCMDAwMA",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "pubDate": "Fri, 18 Sep 2026 14:45:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGbWF0aGVtYXRpY2lhbnMtYnVpbGQtbG9uZy1hd2FpdGVkLWdyYXBoLXNhbmR3aWNoLTIwMjYwOTE4JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGbWF0aGVtYXRpY2lhbnMtYnVpbGQtbG9uZy1hd2FpdGVkLWdyYXBoLXNhbmR3aWNoLTIwMjYwOTE4JTJGJTdDTWF0aGVtYXRpY2lhbnMlMjBCdWlsZCUyMExvbmctQXdhaXRlZCUyMEdyYXBoJTIwU2FuZHdpY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1NTA5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDE0JTNBNDElM0EwMiUyMCUyQjAwMDA",
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "pubDate": "Fri, 18 Sep 2026 14:41:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvdmVycmVhY3RlZC5pbyUyRmhvdy1pLXZpYmVkLWEtcHJvb2Ytb2YtY29ud2F5cy1jb25qZWN0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZvdmVycmVhY3RlZC5pbyUyRmhvdy1pLXZpYmVkLWEtcHJvb2Ytb2YtY29ud2F5cy1jb25qZWN0dXJlJTJGJTdDSSUyMHZpYmVkJTIwYSUyMHByb29mJTIwb2YlMjBDb253YXkncyUyMGNvbmplY3R1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1NTAyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDE0JTNBMzYlM0ExMCUyMCUyQjAwMDA",
+      "title": "I vibed a proof of Conway's conjecture",
+      "pubDate": "Fri, 18 Sep 2026 14:36:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZWFuc2hlbGwuZ2l0aHViLmlvJTJGaG9tZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZiZWFuc2hlbGwuZ2l0aHViLmlvJTJGaG9tZS5odG1sJTdDQmVhblNoZWxsMyUyMGluJTIwRGV2ZWxvcG1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1NDgyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDE0JTNBMjElM0EyNCUyMCUyQjAwMDA",
+      "title": "BeanShell3 in Development",
+      "pubDate": "Fri, 18 Sep 2026 14:21:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cnkuY2xvdWRmbGFyZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnRyeS5jbG91ZGZsYXJlLmNvbSUyRiU3Q0Nsb3VkZmxhcmUlMjBRdWljayUyMFR1bm5lbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1NDc4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDE0JTNBMTglM0E0MSUyMCUyQjAwMDA",
+      "title": "Cloudflare Quick Tunnels",
+      "pubDate": "Fri, 18 Sep 2026 14:18:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmFpLWNoYXRib3RzLWFyZS1iZWNvbWluZy1leHBlcnRzLWNoYW5naW5nLXBlb3BsZS1zLW1pbmRzLXdoYXQtcy10aGVpci1zZWNyZXQlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbmNlLm9yZyUyRmNvbnRlbnQlMkZhcnRpY2xlJTJGYWktY2hhdGJvdHMtYXJlLWJlY29taW5nLWV4cGVydHMtY2hhbmdpbmctcGVvcGxlLXMtbWluZHMtd2hhdC1zLXRoZWlyLXNlY3JldCU3Q0FJJTIwY2hhdGJvdHMlMjBhcmUlMjBiZWNvbWluZyUyMGV4cGVydHMlMjBhdCUyMGNoYW5naW5nJTIwcGVvcGxlJ3MlMjBtaW5kcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzU0MjUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTMlM0EzOSUzQTI3JTIwJTJCMDAwMA",
+      "title": "AI chatbots are becoming experts at changing people's minds",
+      "pubDate": "Fri, 18 Sep 2026 13:39:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0cy5hZXJvJTJGbmV3cyUyRm5hdHMtcHVibGlzaGVzLXByZWxpbWluYXJ5LXJlcG9ydC1vbi10ZWNobmljYWwtaW5jaWRlbnQtb2YtOC1zZXB0ZW1iZXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uYXRzLmFlcm8lMkZuZXdzJTJGbmF0cy1wdWJsaXNoZXMtcHJlbGltaW5hcnktcmVwb3J0LW9uLXRlY2huaWNhbC1pbmNpZGVudC1vZi04LXNlcHRlbWJlciUyRiU3Q05BVFMlMjBwdWJsaXNoZXMlMjBwcmVsaW1pbmFyeSUyMHJlcG9ydCUyMG9uJTIwdGVjaG5pY2FsJTIwaW5jaWRlbnQlMjBvZiUyMDglMjBTZXB0ZW1iZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1NDA2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDEzJTNBMjQlM0EzNSUyMCUyQjAwMDA",
+      "title": "NATS publishes preliminary report on technical incident of 8 September",
+      "pubDate": "Fri, 18 Sep 2026 13:24:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjIwODA0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjIwODA0JTdDQW4lMjBlbXBpcmljYWwlMjBzdHVkeSUyMG9mJTIwaGFybmVzcyUyMGRlc2lnbiUyMGZvciUyMGNvZGluZyUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzUzODc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTMlM0EwNiUzQTMwJTIwJTJCMDAwMA",
+      "title": "An empirical study of harness design for coding agents",
+      "pubDate": "Fri, 18 Sep 2026 13:06:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWN0dXNjb21wdXRlLmNvbSUyRm5lZWRsZSU3Q2h0dHBzJTNBJTJGJTJGY2FjdHVzY29tcHV0ZS5jb20lMkZuZWVkbGUlN0NTaG93JTIwSE4lM0ElMjBDYWN0dXMlMjBOZWVkbGUlMjAzJTNBJTIwOC0yOU1CJTIwYXV0b21hdGlvbiUyMG1vZGVscyUyMGNhbiUyMG1hdGNoJTIwRGVlcFNlZWslMjBWNCUyMEZsYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDg1NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOCUyMFNlcCUyMDIwMjYlMjAwMCUzQTExJTNBNDQlMjAlMkIwMDAw",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "pubDate": "Fri, 18 Sep 2026 00:11:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
     }
   ]

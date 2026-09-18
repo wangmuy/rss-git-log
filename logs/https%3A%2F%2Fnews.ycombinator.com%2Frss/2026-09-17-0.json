@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-17",
     "newestItemDate": "2026-09-17",
-    "itemCount": 44,
-    "generatedAt": "2026-09-18T13:00:35.628Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-18T19:04:20.630Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZxd2VuLmFpJTJGYmxvZyUzRmlkJTNEcXdlbjMuOC1vbW5pLWZsYXNoJTdDaHR0cHMlM0ElMkYlMkZxd2VuLmFpJTJGYmxvZyUzRmlkJTNEcXdlbjMuOC1vbW5pLWZsYXNoJTdDUXdlbiUyMDMuOCUyME9tbmklMjBGbGFzaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQ3OTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMjMlM0EwNSUzQTQ4JTIwJTJCMDAwMA",
       "title": "Qwen 3.8 Omni Flash",
       "pubDate": "Thu, 17 Sep 2026 23:05:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY3J5LmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZzY3J5LmlvJTJGJTdDU2hvdyUyMEhOJTNBJTIwU2NyeSUyQyUyMHByb2dyYW1tYWJsZSUyMGludGVybmV0JTIwc2VhcmNoJTIwdyUyRiUyMGNvbmdlc3Rpb24lMjBwcmljaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDgwNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAyMyUzQTE1JTNBNTclMjAlMkIwMDAw",
+      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+      "pubDate": "Thu, 17 Sep 2026 23:15:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2FuZG9yZGFyZ28uY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjE2JTJGY3BwMjYtdHJpdmlhbC1pbmZpbml0ZS1sb29wcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNhbmRvcmRhcmdvLmNvbSUyRmJsb2clMkYyMDI2JTJGMDklMkYxNiUyRmNwcDI2LXRyaXZpYWwtaW5maW5pdGUtbG9vcHMlN0NDJTJCJTJCMjYlM0ElMjBUcml2aWFsJTIwaW5maW5pdGUlMjBsb29wcyUyMGFyZSUyMG5vJTIwbG9uZ2VyJTIwdW5kZWZpbmVkJTIwYmVoYXZpb3VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDY0MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAyMCUzQTUyJTNBMzMlMjAlMkIwMDAw",
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "pubDate": "Thu, 17 Sep 2026 20:52:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXgtY2hlY2suY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXgtY2hlY2suY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwQXgtY2hlY2suY29tJTIwJUUyJTgwJTkzJTIwQ2FuJTIwYWdlbnRzJTIwdXNlJTIweW91ciUyMHByb2R1Y3QlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0NDQxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE4JTNBMDglM0EwMiUyMCUyQjAwMDA",
+      "title": "Show HN: Ax-check.com – Can agents use your product?",
+      "pubDate": "Thu, 17 Sep 2026 18:08:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
     }
   ]
