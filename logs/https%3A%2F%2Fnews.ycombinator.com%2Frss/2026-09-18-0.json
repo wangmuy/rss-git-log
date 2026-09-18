@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-18",
     "newestItemDate": "2026-09-18",
-    "itemCount": 7,
-    "generatedAt": "2026-09-18T04:52:42.904Z"
+    "itemCount": 17,
+    "generatedAt": "2026-09-18T13:00:35.627Z"
   },
   "items": [
     {
@@ -48,6 +48,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV0bm9kLnNlJTJGYmxvZyUyRnRlbHN0cmEtb3V0YWdlLW5pZ2h0LW5ldHdvcmstZGVjaWRlZC15ZWFyLXdhcy0yMDA2JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmV0bm9kLnNlJTJGYmxvZyUyRnRlbHN0cmEtb3V0YWdlLW5pZ2h0LW5ldHdvcmstZGVjaWRlZC15ZWFyLXdhcy0yMDA2JTdDVGVsc3RyYSUyMG91dGFnZSUzQSUyMFRoZSUyMG5pZ2h0JTIwYSUyMG5ldHdvcmslMjBkZWNpZGVkJTIwdGhlJTIweWVhciUyMHdhcyUyMDIwMDYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0ODk1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDAxJTNBMDUlM0EwMyUyMCUyQjAwMDA",
       "title": "Telstra outage: The night a network decided the year was 2006",
       "pubDate": "Fri, 18 Sep 2026 01:05:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXdrc2xleS5kZXYlMkZibG9nJTJGaS1kb250LWxpa2UtcGFzc2tleXMlN0NodHRwcyUzQSUyRiUyRmhhd2tzbGV5LmRldiUyRmJsb2clMkZpLWRvbnQtbGlrZS1wYXNza2V5cyU3Q0klMjBkb24ndCUyMGxpa2UlMjBwYXNza2V5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzUzMjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTIlM0EwNiUzQTUwJTIwJTJCMDAwMA",
+      "title": "I don't like passkeys",
+      "pubDate": "Fri, 18 Sep 2026 12:06:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmxpYW1wd2xsLmNvbSUyRnBvc3RzJTJGYmVuZF92aWJlX2NvZGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5saWFtcHdsbC5jb20lMkZwb3N0cyUyRmJlbmRfdmliZV9jb2RpbmclMkYlN0NCZW5kJTIwMiUyMGFuZCUyMHRoZSUyMFZpYmUtQ29kaW5nJTIwVHJhcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzUzMTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTIlM0EwMyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "pubDate": "Fri, 18 Sep 2026 12:03:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGY2VrdXJhLWFpJTJGam9icyUyRkFpV3dVeEktZm9yd2FyZC1kZXBsb3llZC1lbmdpbmVlci11cyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRmNla3VyYS1haSUyRmpvYnMlMkZBaVd3VXhJLWZvcndhcmQtZGVwbG95ZWQtZW5naW5lZXItdXMlN0NDZWt1cmElMjAoWUMlMjBGMjQpJTIwSXMlMjBIaXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1MzEzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDEyJTNBMDAlM0ExMCUyMCUyQjAwMDA",
+      "title": "Cekura (YC F24) Is Hiring",
+      "pubDate": "Fri, 18 Sep 2026 12:00:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYxOCUyRmJ1c2luZXNzJTJGd2FycmVuLWJ1ZmZldHQtYmVya3NoaXJlLWNoYWlybWFuLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwOSUyRjE4JTJGYnVzaW5lc3MlMkZ3YXJyZW4tYnVmZmV0dC1iZXJrc2hpcmUtY2hhaXJtYW4uaHRtbCU3Q1dhcnJlbiUyMEJ1ZmZldHQlMjBTdGVwcyUyMERvd24lMjBhcyUyMEJlcmtzaGlyZSUyMENoYWlybWFuJTJDJTIwTmFtZXMlMjBTb24lMjB0byUyMFJlcGxhY2UlMjBIaW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1MjYxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDExJTNBMDElM0E0NCUyMCUyQjAwMDA",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "pubDate": "Fri, 18 Sep 2026 11:01:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b2tlbnN0ZWFkLmFpJTJGZ3VpZGVzJTJGemNvZGUtc2lsZW50LWdpdC1oaXN0b3J5LXVwbG9hZCU3Q2h0dHBzJTNBJTJGJTJGdG9rZW5zdGVhZC5haSUyRmd1aWRlcyUyRnpjb2RlLXNpbGVudC1naXQtaGlzdG9yeS11cGxvYWQlN0NaQ29kZSUyQyUyMHRoZSUyMEdMTSUyMGNvZGluZyUyMGFnZW50JTJDJTIwc2lsZW50bHklMjB1cGxvYWRzJTIweW91ciUyMEdpdCUyMGhpc3RvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1MjQyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDEwJTNBMzUlM0EyOCUyMCUyQjAwMDA",
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "pubDate": "Fri, 18 Sep 2026 10:35:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOSUyRjE3JTJGbWljcm9zb2Z0LWV4ZWMtY2FsbGVkLWFpLXNjcmFwaW5nLXRoZS1sYXJnZXN0LXRoZWZ0LW9mLWxhYm9yLWluLWh1bWFuLWhpc3RvcnktbmV3LXVucmVkYWN0ZWQtZmlsaW5ncy1yZXZlYWwlMkYlN0NodHRwcyUzQSUyRiUyRnRlY2hjcnVuY2guY29tJTJGMjAyNiUyRjA5JTJGMTclMkZtaWNyb3NvZnQtZXhlYy1jYWxsZWQtYWktc2NyYXBpbmctdGhlLWxhcmdlc3QtdGhlZnQtb2YtbGFib3ItaW4taHVtYW4taGlzdG9yeS1uZXctdW5yZWRhY3RlZC1maWxpbmdzLXJldmVhbCUyRiU3Q01pY3Jvc29mdCUyMGV4ZWMlMjBjYWxsZWQlMjBBSSUyMHNjcmFwaW5nJTIwJ3RoZSUyMGxhcmdlc3QlMjB0aGVmdCUyMG9mJTIwbGFib3IlMjBpbiUyMGh1bWFuJTIwaGlzdG9yeSclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1MjA1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDA5JTNBNDUlM0EwNyUyMCUyQjAwMDA",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "pubDate": "Fri, 18 Sep 2026 09:45:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuamV2LmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGb3Blbmpldi5jb20lMkYlN0NPcGVuSmV2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NTIwNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOCUyMFNlcCUyMDIwMjYlMjAwOSUzQTQyJTNBMjIlMjAlMkIwMDAw",
+      "title": "OpenJev",
+      "pubDate": "Fri, 18 Sep 2026 09:42:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamVtYWxsb2MlMkZqZW1hbGxvYyUyRnJlbGVhc2VzJTJGdGFnJTJGNS40LjAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZqZW1hbGxvYyUyRmplbWFsbG9jJTJGcmVsZWFzZXMlMkZ0YWclMkY1LjQuMCU3Q0plbWFsbG9jJTIwNS40LjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc1MDE1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE4JTIwU2VwJTIwMjAyNiUyMDA0JTNBMjAlM0EyNCUyMCUyQjAwMDA",
+      "title": "Jemalloc 5.4.0",
+      "pubDate": "Fri, 18 Sep 2026 04:20:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmZXgtZW11LmNvbSUyRlNjb3VyZ2Utb2YtZW11bGF0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZmZXgtZW11LmNvbSUyRlNjb3VyZ2Utb2YtZW11bGF0aW9uJTJGJTdDVGhlJTIwc2NvdXJnZSUyMG9mJTIweDg2JTIwZW11bGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NTAwOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOCUyMFNlcCUyMDIwMjYlMjAwNCUzQTA5JTNBNDglMjAlMkIwMDAw",
+      "title": "The scourge of x86 emulation",
+      "pubDate": "Fri, 18 Sep 2026 04:09:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFja3Ryb24uYWklMkZibG9nJTJGaGFja2luZy1vcGVuYWklN0NodHRwcyUzQSUyRiUyRnd3dy5oYWNrdHJvbi5haSUyRmJsb2clMkZoYWNraW5nLW9wZW5haSU3Q0ElMjBoZWFwJTIwb3ZlcmZsb3clMjBhbmQlMjBTU08lMjBtaXNjb25maWd1cmF0aW9uJTIwdG8lMjBjb21wcm9taXNlJTIwT3BlbkFJJTIwaW50ZXJuYWwlMjByZXBvcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQ5NjU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMDIlM0E0NyUzQTI0JTIwJTJCMDAwMA",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "pubDate": "Fri, 18 Sep 2026 02:47:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
     }
   ]

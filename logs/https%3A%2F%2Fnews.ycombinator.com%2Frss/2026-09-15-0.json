@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-15",
     "newestItemDate": "2026-09-15",
-    "itemCount": 63,
-    "generatedAt": "2026-09-18T04:52:42.904Z"
+    "itemCount": 66,
+    "generatedAt": "2026-09-18T13:00:35.628Z"
   },
   "items": [
     {
@@ -384,6 +384,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpLm5ld3MlMkZwYWxlb250b2xvZ3klMkZzcGFuaXNoLWRpcGxvZG9jdXMtMTUwNjQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaS5uZXdzJTJGcGFsZW9udG9sb2d5JTJGc3BhbmlzaC1kaXBsb2RvY3VzLTE1MDY0Lmh0bWwlN0NEaXBsb2RvY3VzJTJDJTIwTG9uZyUyMFRob3VnaHQlMjBFeGNsdXNpdmVseSUyMEFtZXJpY2FuJTJDJTIwVHVybnMlMjBVcCUyMGluJTIwU3BhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcxMDQ0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE1JTIwU2VwJTIwMjAyNiUyMDEwJTNBNDYlM0EyNCUyMCUyQjAwMDA",
       "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
       "pubDate": "Tue, 15 Sep 2026 10:46:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZW1pcmUubWUlMkZibG9nJTJGMjAyNiUyRjA5JTJGMTUlMkZzdWJub3JtYWwtZmxvYXRpbmctcG9pbnQtbnVtYmVycy1hcmUtZXhwZW5zaXZlLW9uLWludGVsLXByb2Nlc3NvcnMlMkYlN0NodHRwcyUzQSUyRiUyRmxlbWlyZS5tZSUyRmJsb2clMkYyMDI2JTJGMDklMkYxNSUyRnN1Ym5vcm1hbC1mbG9hdGluZy1wb2ludC1udW1iZXJzLWFyZS1leHBlbnNpdmUtb24taW50ZWwtcHJvY2Vzc29ycyUyRiU3Q1N1Ym5vcm1hbCUyMGZsb2F0aW5nLXBvaW50JTIwbnVtYmVycyUyMGFyZSUyMGV4cGVuc2l2ZSUyMG9uJTIwSW50ZWwlMjBwcm9jZXNzb3JzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTU0MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNiUzQTU4JTNBMjIlMjAlMkIwMDAw",
+      "title": "Subnormal floating-point numbers are expensive on Intel processors",
+      "pubDate": "Tue, 15 Sep 2026 16:58:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW0uZGV2JTJGYmxvZyUyRmdlYXJoYXNoLW9uLWFybTY0JTdDaHR0cHMlM0ElMkYlMkZzYW0uZGV2JTJGYmxvZyUyRmdlYXJoYXNoLW9uLWFybTY0JTdDU3BlZWRpbmclMjB1cCUyMGdlYXJoYXNoJTIwb24lMjBBUk02NCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzE0NTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTUlMjBTZXAlMjAyMDI2JTIwMTYlM0EwMiUzQTE1JTIwJTJCMDAwMA",
+      "title": "Speeding up gearhash on ARM64",
+      "pubDate": "Tue, 15 Sep 2026 16:02:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGY29sbGVjdGlvbiUyRmRyLWp1bGl1cy1uZXVicm9ubmVyLXMtbWluaWF0dXJlLXBpZ2Vvbi1jYW1lcmElMkYlN0NodHRwcyUzQSUyRiUyRnB1YmxpY2RvbWFpbnJldmlldy5vcmclMkZjb2xsZWN0aW9uJTJGZHItanVsaXVzLW5ldWJyb25uZXItcy1taW5pYXR1cmUtcGlnZW9uLWNhbWVyYSUyRiU3Q0RyJTIwSnVsaXVzJTIwTmV1YnJvbm5lcidzJTIwTWluaWF0dXJlJTIwUGlnZW9uJTIwQ2FtZXJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MTMwODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNSUyMFNlcCUyMDIwMjYlMjAxNCUzQTI3JTNBNTQlMjAlMkIwMDAw",
+      "title": "Dr Julius Neubronner's Miniature Pigeon Camera",
+      "pubDate": "Tue, 15 Sep 2026 14:27:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-15-0.json"
     }
   ]

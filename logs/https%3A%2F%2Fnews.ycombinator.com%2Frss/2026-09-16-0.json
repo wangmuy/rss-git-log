@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-16",
     "newestItemDate": "2026-09-16",
-    "itemCount": 44,
-    "generatedAt": "2026-09-18T04:52:42.904Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-18T13:00:35.628Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2hpcHVmaWVsZGd1aWRlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmtoaXB1ZmllbGRndWlkZS5jb20lMkYlN0NLaGlwdSUyMChRdWlwdSklMjBGaWVsZCUyMEd1aWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjExMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAwMSUzQTMyJTNBMjklMjAlMkIwMDAw",
       "title": "Khipu (Quipu) Field Guide",
       "pubDate": "Wed, 16 Sep 2026 01:32:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGYmxvZyUyRmRlbHRhLXB1YmxpYy1iZXRhJTdDaHR0cHMlM0ElMkYlMkZ6ZWQuZGV2JTJGYmxvZyUyRmRlbHRhLXB1YmxpYy1iZXRhJTdDUmVwbGFjaW5nJTIwUHVsbCUyMFJlcXVlc3RzJTIwd2l0aCUyMERlbHRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3MjcyNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNiUyMFNlcCUyMDIwMjYlMjAxNCUzQTA1JTNBNDQlMjAlMkIwMDAw",
+      "title": "Replacing Pull Requests with Delta",
+      "pubDate": "Wed, 16 Sep 2026 14:05:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcm9jaWRiLmNvbSUyRnBvc3QlMkZ3aGVuLXRoZS1mcmFjdGlvbmFsLXBhcnQtb2YtYS1mbG9hdC1maXhlcy15b3VyLXNoYWRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGY3JvY2lkYi5jb20lMkZwb3N0JTJGd2hlbi10aGUtZnJhY3Rpb25hbC1wYXJ0LW9mLWEtZmxvYXQtZml4ZXMteW91ci1zaGFkZXIlMkYlN0NXaGVuJTIwdGhlJTIwZnJhY3Rpb25hbCUyMHBhcnQlMjBvZiUyMGElMjBmbG9hdCUyMGZpeGVzJTIweW91ciUyMHNoYWRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI2NjE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTMlM0EyMCUzQTE1JTIwJTJCMDAwMA",
+      "title": "When the fractional part of a float fixes your shader",
+      "pubDate": "Wed, 16 Sep 2026 13:20:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb2RzLmFydCUyRmFydGljbGVzJTJGZXF1YXRpb25fc2hhZG93cyU3Q2h0dHBzJTNBJTJGJTJGZ29kcy5hcnQlMkZhcnRpY2xlcyUyRmVxdWF0aW9uX3NoYWRvd3MlN0NUaGUlMjBTaGFkb3dzJTIwTHVya2luZyUyMGluJTIwdGhlJTIwRXF1YXRpb25zJTIwJUUyJTgwJTkzJTIwVW5kZXJ3YXRlciUyMElzbGFuZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTcyMTUwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDAyJTNBMzclM0EyMiUyMCUyQjAwMDA",
+      "title": "The Shadows Lurking in the Equations – Underwater Islands",
+      "pubDate": "Wed, 16 Sep 2026 02:37:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
     }
   ]
