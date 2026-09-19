@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-17",
     "newestItemDate": "2026-09-17",
-    "itemCount": 47,
-    "generatedAt": "2026-09-18T19:04:20.630Z"
+    "itemCount": 50,
+    "generatedAt": "2026-09-19T04:45:05.230Z"
   },
   "items": [
     {
@@ -288,6 +288,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXgtY2hlY2suY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXgtY2hlY2suY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwQXgtY2hlY2suY29tJTIwJUUyJTgwJTkzJTIwQ2FuJTIwYWdlbnRzJTIwdXNlJTIweW91ciUyMHByb2R1Y3QlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0NDQxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE4JTNBMDglM0EwMiUyMCUyQjAwMDA",
       "title": "Show HN: Ax-check.com – Can agents use your product?",
       "pubDate": "Thu, 17 Sep 2026 18:08:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uc3RydWN0aW9uLXBoeXNpY3MuY29tJTJGcCUyRmhvdy1zcGFjZXgtc3RyZWFtbGluZWQtdGhlLXJhcHRvciU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbnN0cnVjdGlvbi1waHlzaWNzLmNvbSUyRnAlMkZob3ctc3BhY2V4LXN0cmVhbWxpbmVkLXRoZS1yYXB0b3IlN0NIb3clMjBTcGFjZVglMjBzdHJlYW1saW5lZCUyMHRoZSUyMFJhcHRvciUyMGVuZ2luZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQ2NjI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMjElM0ExNCUzQTE5JTIwJTJCMDAwMA",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "pubDate": "Thu, 17 Sep 2026 21:14:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbSUyRmFuaW1hbHMlMkZhcnRpY2xlJTJGbWVldC10aGUtZmlyc3QtbmV3LWNhdC1zcGVjaWVzLWRpc2NvdmVyZWQtaW4tMTAwLXllYXJzJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbSUyRmFuaW1hbHMlMkZhcnRpY2xlJTJGbWVldC10aGUtZmlyc3QtbmV3LWNhdC1zcGVjaWVzLWRpc2NvdmVyZWQtaW4tMTAwLXllYXJzJTdDVGhlJTIwZmlyc3QlMjBuZXclMjBjYXQlMjBzcGVjaWVzJTIwZGlzY292ZXJlZCUyMGluJTIwMTAwJTIweWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0NDcwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE4JTNBMzElM0E1NiUyMCUyQjAwMDA",
+      "title": "The first new cat species discovered in 100 years",
+      "pubDate": "Thu, 17 Sep 2026 18:31:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbmtsZWUuZGslMkZmYXJuZXNlLWxldHRlciU3Q2h0dHBzJTNBJTJGJTJGc2ltb25rbGVlLmRrJTJGZmFybmVzZS1sZXR0ZXIlN0NUaGUlMjBGYXJuZXNlJTIwbGV0dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDQwMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNyUzQTM5JTNBMDElMjAlMkIwMDAw",
+      "title": "The Farnese letter",
+      "pubDate": "Thu, 17 Sep 2026 17:39:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
     }
   ]
