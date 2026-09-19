@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-17",
     "newestItemDate": "2026-09-17",
-    "itemCount": 50,
-    "generatedAt": "2026-09-19T04:45:05.230Z"
+    "itemCount": 54,
+    "generatedAt": "2026-09-19T12:34:01.704Z"
   },
   "items": [
     {
@@ -306,6 +306,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbmtsZWUuZGslMkZmYXJuZXNlLWxldHRlciU3Q2h0dHBzJTNBJTJGJTJGc2ltb25rbGVlLmRrJTJGZmFybmVzZS1sZXR0ZXIlN0NUaGUlMjBGYXJuZXNlJTIwbGV0dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDQwMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNyUzQTM5JTNBMDElMjAlMkIwMDAw",
       "title": "The Farnese letter",
       "pubDate": "Thu, 17 Sep 2026 17:39:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGFja3glMkZjOC1hc3MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZUYWNreCUyRmM4LWFzcyU3Q1Nob3clMjBITiUzQSUyMEklMjB3cm90ZSUyMGElMjBjdXN0b20lMjBhc3NlbWJsZXIlMjBmb3IlMjBDSElQLTglMjBpbiUyMEMlMkIlMkIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc0NDE3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDE3JTNBNDclM0E0MCUyMCUyQjAwMDA",
+      "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+      "pubDate": "Thu, 17 Sep 2026 17:47:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVsYXN0c29mdHdhcmVlbmdpbmVlci5zdWJzdGFjay5jb20lMkZwJTJGZnJvbS1zdG9uZW1hc29ucy10by1jYXJwZW50ZXJzJTdDaHR0cHMlM0ElMkYlMkZ0aGVsYXN0c29mdHdhcmVlbmdpbmVlci5zdWJzdGFjay5jb20lMkZwJTJGZnJvbS1zdG9uZW1hc29ucy10by1jYXJwZW50ZXJzJTdDRnJvbSUyMFN0b25lbWFzb25zJTIwdG8lMjBDYXJwZW50ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDM0OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNiUzQTU1JTNBNTAlMjAlMkIwMDAw",
+      "title": "From Stonemasons to Carpenters",
+      "pubDate": "Thu, 17 Sep 2026 16:55:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG5hcy5vcmclMkZkb2klMkYxMC4xMDczJTJGcG5hcy4yMjAxMzM3MTE5JTdDaHR0cHMlM0ElMkYlMkZ3d3cucG5hcy5vcmclMkZkb2klMkYxMC4xMDczJTJGcG5hcy4yMjAxMzM3MTE5JTdDQ29tbXVuaWNhdGlvbiUyMGJ5JTIwbWVhbnMlMjBvZiUyMG1vZHVsYXRlZCUyMEpvaG5zb24lMjBub2lzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzM2ODIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMDUlM0E0MSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Communication by means of modulated Johnson noise",
+      "pubDate": "Thu, 17 Sep 2026 05:41:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGY3Rlbm9waG9yZXMtYXJlbnQtanVzdC1iZWF1dGlmdWwtdGhleXJlLWJpb2xvZ2ljYWwtd29uZGVycy0yMDI2MDkxNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRmN0ZW5vcGhvcmVzLWFyZW50LWp1c3QtYmVhdXRpZnVsLXRoZXlyZS1iaW9sb2dpY2FsLXdvbmRlcnMtMjAyNjA5MTYlMkYlN0NDdGVub3Bob3JlcyUzQSUyMFdvbmRlcnMlMjBvZiUyMEJpb2xvZ3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczNTU0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDAxJTNBNTglM0EyNSUyMCUyQjAwMDA",
+      "title": "Ctenophores: Wonders of Biology",
+      "pubDate": "Thu, 17 Sep 2026 01:58:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-16",
     "newestItemDate": "2026-09-16",
-    "itemCount": 52,
-    "generatedAt": "2026-09-19T04:45:05.230Z"
+    "itemCount": 54,
+    "generatedAt": "2026-09-19T12:34:01.704Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnby5kZXYlMkZibG9nJTJGZ29yb3V0aW5lLWxlYWstcHJvZmlsZXMlN0NodHRwcyUzQSUyRiUyRmdvLmRldiUyRmJsb2clMkZnb3JvdXRpbmUtbGVhay1wcm9maWxlcyU3Q0dvcm91dGluZSUyMExlYWslMjBQcm9maWxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI2NzczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTMlM0EzMCUzQTMwJTIwJTJCMDAwMA",
       "title": "Goroutine Leak Profiles",
       "pubDate": "Wed, 16 Sep 2026 13:30:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGlncmlzZGF0YS5jb20lMkZibG9nJTJGb2JqZ2l0LXBhY2tmaWxlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRpZ3Jpc2RhdGEuY29tJTJGYmxvZyUyRm9iamdpdC1wYWNrZmlsZXMlMkYlN0NZb3UlMjBjYW4lMjBydW4lMjBHaXQlMjBvbiUyMG9iamVjdCUyMHN0b3JhZ2UlMjBpZiUyMHlvdSUyMHJlLW1ha2UlMjBwYWNrZmlsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczMDA2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDE3JTNBMTYlM0ExMSUyMCUyQjAwMDA",
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "pubDate": "Wed, 16 Sep 2026 17:16:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGZXNzYXklMkZ2ZXJvbmVzZXMtZG9ncyU3Q2h0dHBzJTNBJTJGJTJGcHVibGljZG9tYWlucmV2aWV3Lm9yZyUyRmVzc2F5JTJGdmVyb25lc2VzLWRvZ3MlN0NWZXJvbmVzZSdzJTIwRG9ncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI4NjAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTUlM0EzMiUzQTI3JTIwJTJCMDAwMA",
+      "title": "Veronese's Dogs",
+      "pubDate": "Wed, 16 Sep 2026 15:32:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
     }
   ]

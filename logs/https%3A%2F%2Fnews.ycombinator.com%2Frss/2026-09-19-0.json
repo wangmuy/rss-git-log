@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-19",
     "newestItemDate": "2026-09-19",
-    "itemCount": 5,
-    "generatedAt": "2026-09-19T04:45:05.229Z"
+    "itemCount": 12,
+    "generatedAt": "2026-09-19T12:34:01.703Z"
   },
   "items": [
     {
@@ -36,6 +36,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsaXZld29ybGQuaW5mbyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGl2ZXdvcmxkLmluZm8lMkYlN0NTaG93JTIwSE4lM0ElMjBMaXZlV29ybGQlMjAlRTIlODAlOTMlMjBFdmVyeSUyMDI0JTJGNyUyMFlvdVR1YmUlMjBsaXZlJTIwY2FtZXJhJTIwb24lMjBvbmUlMjBnbG9iZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzYyMDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMDAlM0EzMCUzQTM0JTIwJTJCMDAwMA",
       "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
       "pubDate": "Sat, 19 Sep 2026 00:30:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXlhLmNvbnZhaWlubm92YXRpb25zLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGF5YS5jb252YWlpbm5vdmF0aW9ucy5jb20lMkYlN0NMYXlhJTIwdGhlJTIwb3BlbiUyMHNvdXJjZSUyMHZlcnNpb24lMjBvZiUyMEpldiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzY1MzQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMTAlM0E0NiUzQTU4JTIwJTJCMDAwMA",
+      "title": "Laya the open source version of Jev",
+      "pubDate": "Sat, 19 Sep 2026 10:46:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2huLmhhcnRudXAudWslMkYyMDI2JTJGMDYlMkYwNyUyRmFpLWV2ZW50LXBvc3RlcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGam9obi5oYXJ0bnVwLnVrJTJGMjAyNiUyRjA2JTJGMDclMkZhaS1ldmVudC1wb3N0ZXJzLmh0bWwlN0NBSS1nZW5lcmF0ZWQlMjBwb3N0ZXJzJTIwZG9uJUUyJTgwJTk5dCUyMGhhdmUlMjB0byUyMGJlJTIwaG9ycmlibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2NDc5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDA5JTNBMjAlM0E1OCUyMCUyQjAwMDA",
+      "title": "AI-generated posters don’t have to be horrible",
+      "pubDate": "Sat, 19 Sep 2026 09:20:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJpbnphaS5jb20lMkZwJTJGZ3B0LTYtYXN0cmEtc29sdmVzLWEtd3dpLWdlcm1hbi1yYWRpbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnByaW56YWkuY29tJTJGcCUyRmdwdC02LWFzdHJhLXNvbHZlcy1hLXd3aS1nZXJtYW4tcmFkaW8lN0NHUFQtNiUyMEFzdHJhJTIwU29sdmVzJTIwYSUyMFdXSSUyMEdlcm1hbiUyMFJhZGlvJTIwQ2lwaGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NjM5ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAwNiUzQTQxJTNBNDQlMjAlMkIwMDAw",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "pubDate": "Sat, 19 Sep 2026 06:41:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMTglMkZpZi1tYXRoLWlzLW1vcmUtdGhhbi1wcm9vZi13ZS1uZWVkLXRvLWJldHRlci1jZWxlYnJhdGUtdGhlLXJlc3Qtb2YtaXQlMkYlN0NodHRwcyUzQSUyRiUyRnRlcnJ5dGFvLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDklMkYxOCUyRmlmLW1hdGgtaXMtbW9yZS10aGFuLXByb29mLXdlLW5lZWQtdG8tYmV0dGVyLWNlbGVicmF0ZS10aGUtcmVzdC1vZi1pdCUyRiU3Q0lmJTIwbWF0aCUyMGlzJTIwbW9yZSUyMHRoYW4lMjBwcm9vZiUyQyUyMHdlJTIwbmVlZCUyMHRvJTIwYmV0dGVyJTIwY2VsZWJyYXRlJTIwdGhlJTIwcmVzdCUyMG9mJTIwaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2MzkyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDA2JTNBMjglM0EwMiUyMCUyQjAwMDA",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "pubDate": "Sat, 19 Sep 2026 06:28:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm93c2VyLmdlZWtiZW5jaC5jb20lMkZ2NyUyRmNwdSUyRjM4OTIxOSU3Q2h0dHBzJTNBJTJGJTJGYnJvd3Nlci5nZWVrYmVuY2guY29tJTJGdjclMkZjcHUlMkYzODkyMTklN0NBcHBsZSUyME02JTIwUHJvJTIwQWNoaWV2ZXMlMjB0aGUlMjBIaWdoZXN0JTIwU2luZ2xlLUNvcmUlMjBDUFUlMjBTY29yZSUyMGluJTIwR2Vla2JlbmNoJTIwNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzYzODgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMDYlM0ExOSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+      "pubDate": "Sat, 19 Sep 2026 06:19:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWQuc3RhbmZvcmQuZWR1JTJGbmV3cyUyRmFsbC1uZXdzJTJGMjAyNiUyRjA5JTJGdHdvLXNlcGFyYXRlLWJyYWlucy5odG1sJTdDaHR0cHMlM0ElMkYlMkZtZWQuc3RhbmZvcmQuZWR1JTJGbmV3cyUyRmFsbC1uZXdzJTJGMjAyNiUyRjA5JTJGdHdvLXNlcGFyYXRlLWJyYWlucy5odG1sJTdDSHVtYW4lMjBicmFpbiUyMGlzJTIwdHdvJTIwc2VwYXJhdGUlMjBvcmdhbnMlMkMlMjBTdGFuZm9yZCUyME1lZGljaW5lLWxlZCUyMHJlc2VhcmNoJTIwZmluZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2MzY5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDA1JTNBNDglM0E1MCUyMCUyQjAwMDA",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "pubDate": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzcm9vbS51c3JhLmVkdSUyRnVzcmEtY29udHJpYnV0ZXMtcGxhbmV0YXJ5LXNjaWVuY2UtZXhwZXJ0aXNlLXRvLW5hc2EtaWJtLWx1bmFyLWZvdW5kYXRpb24tbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRm5ld3Nyb29tLnVzcmEuZWR1JTJGdXNyYS1jb250cmlidXRlcy1wbGFuZXRhcnktc2NpZW5jZS1leHBlcnRpc2UtdG8tbmFzYS1pYm0tbHVuYXItZm91bmRhdGlvbi1tb2RlbCUyRiU3Q05BU0EtSUJNJTIwTHVuYXIlMjBGb3VuZGF0aW9uJTIwb3Blbi1Tb3VyY2UlMjBHZW9zcGF0aWFsJTIwQUklMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzYzMzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMDQlM0E0NCUzQTM1JTIwJTJCMDAwMA",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "pubDate": "Sat, 19 Sep 2026 04:44:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
     }
   ]
