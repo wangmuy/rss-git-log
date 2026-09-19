@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-16",
     "newestItemDate": "2026-09-16",
-    "itemCount": 54,
-    "generatedAt": "2026-09-19T12:34:01.704Z"
+    "itemCount": 55,
+    "generatedAt": "2026-09-19T18:38:33.870Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGZXNzYXklMkZ2ZXJvbmVzZXMtZG9ncyU3Q2h0dHBzJTNBJTJGJTJGcHVibGljZG9tYWlucmV2aWV3Lm9yZyUyRmVzc2F5JTJGdmVyb25lc2VzLWRvZ3MlN0NWZXJvbmVzZSdzJTIwRG9ncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzI4NjAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTYlMjBTZXAlMjAyMDI2JTIwMTUlM0EzMiUzQTI3JTIwJTJCMDAwMA",
       "title": "Veronese's Dogs",
       "pubDate": "Wed, 16 Sep 2026 15:32:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwVG1sck9yZyUyRmFza2luZy1hdXRob3JzLWFib3V0LXRoZWlyLW93bi1wYXBlcnMtM2QyZTA0ZTVkZWUwJTdDaHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwVG1sck9yZyUyRmFza2luZy1hdXRob3JzLWFib3V0LXRoZWlyLW93bi1wYXBlcnMtM2QyZTA0ZTVkZWUwJTdDQXNraW5nJTIwQXV0aG9ycyUyMEFib3V0JTIwVGhlaXIlMjBPd24lMjBQYXBlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczNDQ2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE2JTIwU2VwJTIwMjAyNiUyMDIzJTNBMzElM0EzMSUyMCUyQjAwMDA",
+      "title": "Asking Authors About Their Own Papers",
+      "pubDate": "Wed, 16 Sep 2026 23:31:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-16-0.json"
     }
   ]

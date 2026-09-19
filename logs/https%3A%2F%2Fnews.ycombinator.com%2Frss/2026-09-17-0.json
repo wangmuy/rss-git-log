@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-17",
     "newestItemDate": "2026-09-17",
-    "itemCount": 54,
-    "generatedAt": "2026-09-19T12:34:01.704Z"
+    "itemCount": 58,
+    "generatedAt": "2026-09-19T18:38:33.869Z"
   },
   "items": [
     {
@@ -330,6 +330,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGY3Rlbm9waG9yZXMtYXJlbnQtanVzdC1iZWF1dGlmdWwtdGhleXJlLWJpb2xvZ2ljYWwtd29uZGVycy0yMDI2MDkxNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRmN0ZW5vcGhvcmVzLWFyZW50LWp1c3QtYmVhdXRpZnVsLXRoZXlyZS1iaW9sb2dpY2FsLXdvbmRlcnMtMjAyNjA5MTYlMkYlN0NDdGVub3Bob3JlcyUzQSUyMFdvbmRlcnMlMjBvZiUyMEJpb2xvZ3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczNTU0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDAxJTNBNTglM0EyNSUyMCUyQjAwMDA",
       "title": "Ctenophores: Wonders of Biology",
       "pubDate": "Thu, 17 Sep 2026 01:58:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlnbWVzc293aXJlcy5jb20lMkYyMDI2JTJGMDglMkYzMCUyRmFkdmVudHVyZXMtaW4tbWljcm9jb250cm9sbGVyLWNpcmN1aXQtZGVidWdnaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmlnbWVzc293aXJlcy5jb20lMkYyMDI2JTJGMDglMkYzMCUyRmFkdmVudHVyZXMtaW4tbWljcm9jb250cm9sbGVyLWNpcmN1aXQtZGVidWdnaW5nJTJGJTdDQWR2ZW50dXJlcyUyMGluJTIwTWljcm9jb250cm9sbGVyJTIwQ2lyY3VpdCUyMERlYnVnZ2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQ1MDQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMTklM0EwMCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Adventures in Microcontroller Circuit Debugging",
+      "pubDate": "Thu, 17 Sep 2026 19:00:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMjYyMS0yJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMjYyMS0yJTdDTmV3JTIwZXZpZGVuY2UlMjBmb3IlMjBoaWRkZW4lMjBjaGFtYmVycyUyMGJleW9uZCUyMFR1dGFua2hhbXVuJ3MlMjB0b21iJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NDI2OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNyUyMFNlcCUyMDIwMjYlMjAxNSUzQTU4JTNBMzElMjAlMkIwMDAw",
+      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+      "pubDate": "Thu, 17 Sep 2026 15:58:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXByb29mLmFwcCUyRmJsb2clMkZsb3R1cy1ub3Rlcy1oaXN0b3J5JTdDaHR0cHMlM0ElMkYlMkZyZXByb29mLmFwcCUyRmJsb2clMkZsb3R1cy1ub3Rlcy1oaXN0b3J5JTdDUmF5JTIwT3p6aWUlMjBhbmQlMjB0aGUlMjBPcHRpbWlzbSUyMG9mJTIwQmVpbmclMjBFYXJseSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzM4NTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMDklM0E1NyUzQTI2JTIwJTJCMDAwMA",
+      "title": "Ray Ozzie and the Optimism of Being Early",
+      "pubDate": "Thu, 17 Sep 2026 09:57:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlY2hvLm9ycGhldXNpbnN0aXR1dXQuYmUlMkZhcnRpY2xlJTJGc3V6YW5uZXMtYnVjaGxhLWNvb2tib29rJTdDaHR0cHMlM0ElMkYlMkZlY2hvLm9ycGhldXNpbnN0aXR1dXQuYmUlMkZhcnRpY2xlJTJGc3V6YW5uZXMtYnVjaGxhLWNvb2tib29rJTdDU3V6YW5uZSUyMENpYW5pJ3MlMjBCdWNobGElMjBDb29rYm9vayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzM1MDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMDAlM0EzOSUzQTM5JTIwJTJCMDAwMA",
+      "title": "Suzanne Ciani's Buchla Cookbook",
+      "pubDate": "Thu, 17 Sep 2026 00:39:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
     }
   ]

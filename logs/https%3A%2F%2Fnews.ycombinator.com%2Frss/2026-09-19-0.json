@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-19",
     "newestItemDate": "2026-09-19",
-    "itemCount": 12,
-    "generatedAt": "2026-09-19T12:34:01.703Z"
+    "itemCount": 19,
+    "generatedAt": "2026-09-19T18:38:33.869Z"
   },
   "items": [
     {
@@ -78,6 +78,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzcm9vbS51c3JhLmVkdSUyRnVzcmEtY29udHJpYnV0ZXMtcGxhbmV0YXJ5LXNjaWVuY2UtZXhwZXJ0aXNlLXRvLW5hc2EtaWJtLWx1bmFyLWZvdW5kYXRpb24tbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRm5ld3Nyb29tLnVzcmEuZWR1JTJGdXNyYS1jb250cmlidXRlcy1wbGFuZXRhcnktc2NpZW5jZS1leHBlcnRpc2UtdG8tbmFzYS1pYm0tbHVuYXItZm91bmRhdGlvbi1tb2RlbCUyRiU3Q05BU0EtSUJNJTIwTHVuYXIlMjBGb3VuZGF0aW9uJTIwb3Blbi1Tb3VyY2UlMjBHZW9zcGF0aWFsJTIwQUklMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzYzMzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMDQlM0E0NCUzQTM1JTIwJTJCMDAwMA",
       "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
       "pubDate": "Sat, 19 Sep 2026 04:44:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2cmFzaC5zdWJzdGFjay5jb20lMkZwJTJGdGhlLXBlb3BsZS13aG8ta25vdy10aGUtbW9zdC1vZnRlbiU3Q2h0dHBzJTNBJTJGJTJGdnJhc2guc3Vic3RhY2suY29tJTJGcCUyRnRoZS1wZW9wbGUtd2hvLWtub3ctdGhlLW1vc3Qtb2Z0ZW4lN0NQZW9wbGUlMjB3aG8lMjBrbm93JTIwdGhlJTIwbW9zdCUyMG9mdGVuJTIwc291bmQlMjB0aGUlMjBsZWFzdCUyMGNlcnRhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2ODYwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDE3JTNBNDIlM0E0MyUyMCUyQjAwMDA",
+      "title": "People who know the most often sound the least certain",
+      "pubDate": "Sat, 19 Sep 2026 17:42:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBhYmFzZS5saW5rJTJGb3Jpb2xlZGJqb2IlN0NodHRwcyUzQSUyRiUyRnN1cGFiYXNlLmxpbmslMkZvcmlvbGVkYmpvYiU3Q1N1cGFiYXNlJTIwKFlDJTIwUzIwKSUyMElzJTIwSGlyaW5nJTIwZm9yJTIwT3Jpb2xlREIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2ODIyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDE3JTNBMDElM0EzMCUyMCUyQjAwMDA",
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "pubDate": "Sat, 19 Sep 2026 17:01:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcmljaGdydW5ld2FsZC5zdWJzdGFjay5jb20lMkZwJTJGd2h5LXlvdS1zaG91bGQtYWxtb3N0LW5ldmVyLXVzZS1haSU3Q2h0dHBzJTNBJTJGJTJGZXJpY2hncnVuZXdhbGQuc3Vic3RhY2suY29tJTJGcCUyRndoeS15b3Utc2hvdWxkLWFsbW9zdC1uZXZlci11c2UtYWklN0NBbG1vc3QlMjBOZXZlciUyMFVzZSUyMEFJJTIwdG8lMjBXcml0ZSUyMEFueXRoaW5nJTIwU3Vic3RhbnRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2NzkzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDE2JTNBMzUlM0EyNCUyMCUyQjAwMDA",
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "pubDate": "Sat, 19 Sep 2026 16:35:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWluZGJveDc3JTJGenhkZXNrJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWluZGJveDc3JTJGenhkZXNrJTdDQSUyMGdyYXBoaWNhbCUyMGRlc2t0b3AlMjBmb3IlMjB0aGUlMjBaWCUyMFNwZWN0cnVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NjY2NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAxNCUzQTAxJTNBNTglMjAlMkIwMDAw",
+      "title": "A graphical desktop for the ZX Spectrum",
+      "pubDate": "Sat, 19 Sep 2026 14:01:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXNvay5naXRodWIuaW8lMkZwb3N0cyUyRndoYXQtemlnLWZlbHQtbGlrZS1jb21pbmctZnJvbS1ydXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZiZXNvay5naXRodWIuaW8lMkZwb3N0cyUyRndoYXQtemlnLWZlbHQtbGlrZS1jb21pbmctZnJvbS1ydXN0JTJGJTdDV2hhdCUyMFppZyUyMGZlbHQlMjBsaWtlJTJDJTIwY29taW5nJTIwZnJvbSUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2NjYzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDEzJTNBNTUlM0ExOCUyMCUyQjAwMDA",
+      "title": "What Zig felt like, coming from Rust",
+      "pubDate": "Sat, 19 Sep 2026 13:55:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctdGluJTdDaHR0cHMlM0ElMkYlMkZwbGFuZXRzY2FsZS5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctdGluJTdDVGluJTNBJTIwZnVsbC10ZXh0JTIwc2VhcmNoJTIwZm9yJTIwUG9zdGdyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2NjYxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDEzJTNBNTIlM0EwNiUyMCUyQjAwMDA",
+      "title": "Tin: full-text search for Postgres",
+      "pubDate": "Sat, 19 Sep 2026 13:52:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXlhLmNvbnZhaWlubm92YXRpb25zLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGF5YS5jb252YWlpbm5vdmF0aW9ucy5jb20lMkYlN0NJJTIwQnVpbHQlMjBOb24tQXV0b3JlZ3Jlc3NpdmUlMjBEZWNpc2lvbiUyME1vZGVscyUyMHdpdGglMjBSTCUyMGElMjBZZWFyJTIwQWdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NjUzNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAxMCUzQTQ2JTNBNTglMjAlMkIwMDAw",
+      "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+      "pubDate": "Sat, 19 Sep 2026 10:46:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
     }
   ]
