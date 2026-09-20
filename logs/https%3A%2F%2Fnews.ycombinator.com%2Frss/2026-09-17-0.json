@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-17",
     "newestItemDate": "2026-09-17",
-    "itemCount": 58,
-    "generatedAt": "2026-09-19T18:38:33.869Z"
+    "itemCount": 61,
+    "generatedAt": "2026-09-20T05:00:53.598Z"
   },
   "items": [
     {
@@ -354,6 +354,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlY2hvLm9ycGhldXNpbnN0aXR1dXQuYmUlMkZhcnRpY2xlJTJGc3V6YW5uZXMtYnVjaGxhLWNvb2tib29rJTdDaHR0cHMlM0ElMkYlMkZlY2hvLm9ycGhldXNpbnN0aXR1dXQuYmUlMkZhcnRpY2xlJTJGc3V6YW5uZXMtYnVjaGxhLWNvb2tib29rJTdDU3V6YW5uZSUyMENpYW5pJ3MlMjBCdWNobGElMjBDb29rYm9vayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzM1MDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMDAlM0EzOSUzQTM5JTIwJTJCMDAwMA",
       "title": "Suzanne Ciani's Buchla Cookbook",
       "pubDate": "Thu, 17 Sep 2026 00:39:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAzLjIzNjk2JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAzLjIzNjk2JTdDQ29tcGlsZXItc3R5bGUlMjBvcHRpbWl6YXRpb24lMjBmb3IlMjBkcmF3aW5nJTIwdmlhJTIwU2tpYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQzOTM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMTclM0EzMCUzQTM4JTIwJTJCMDAwMA",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "pubDate": "Thu, 17 Sep 2026 17:30:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3RlYm9vay5saW5rJTJGYmxvZyUyRnRoZS1sYXN0LW1pbGUtZmFzdGVyLW51bXB5JTJGJTdDaHR0cHMlM0ElMkYlMkZub3RlYm9vay5saW5rJTJGYmxvZyUyRnRoZS1sYXN0LW1pbGUtZmFzdGVyLW51bXB5JTJGJTdDRmFzdGVyJTIwTnVtUHklMjBpbiUyMHRoZSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTczNzMyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE3JTIwU2VwJTIwMjAyNiUyMDA3JTNBMDAlM0EyNSUyMCUyQjAwMDA",
+      "title": "Faster NumPy in the Browser",
+      "pubDate": "Thu, 17 Sep 2026 07:00:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA5LXdoYWxlcy1zdGlsbGJvcm4taHVtcGJhY2std2hhbGUtZ3JpZXZpbmcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGh5cy5vcmclMkZuZXdzJTJGMjAyNi0wOS13aGFsZXMtc3RpbGxib3JuLWh1bXBiYWNrLXdoYWxlLWdyaWV2aW5nLmh0bWwlN0NXZWVwaW5nJTIwd2hhbGVzJTNBJTIwU3RpbGxib3JuJTIwaHVtcGJhY2slMjB3aGFsZSUyMGdyaWV2aW5nJTIwZG9jdW1lbnRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzM1MTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMDElM0EwMCUzQTE0JTIwJTJCMDAwMA",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "pubDate": "Thu, 17 Sep 2026 01:00:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
     }
   ]

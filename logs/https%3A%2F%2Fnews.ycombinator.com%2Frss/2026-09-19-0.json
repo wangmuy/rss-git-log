@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-19",
     "newestItemDate": "2026-09-19",
-    "itemCount": 19,
-    "generatedAt": "2026-09-19T18:38:33.869Z"
+    "itemCount": 32,
+    "generatedAt": "2026-09-20T05:00:53.597Z"
   },
   "items": [
     {
@@ -119,6 +119,84 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZsYXlhLmNvbnZhaWlubm92YXRpb25zLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGF5YS5jb252YWlpbm5vdmF0aW9ucy5jb20lMkYlN0NJJTIwQnVpbHQlMjBOb24tQXV0b3JlZ3Jlc3NpdmUlMjBEZWNpc2lvbiUyME1vZGVscyUyMHdpdGglMjBSTCUyMGElMjBZZWFyJTIwQWdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NjUzNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAxMCUzQTQ2JTNBNTglMjAlMkIwMDAw",
       "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+      "pubDate": "Sat, 19 Sep 2026 10:46:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXhmaWx3ZWlnaHRzLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmV4Zmlsd2VpZ2h0cy5vcmclMkYlN0NFeGZpbHRyYXRlJTIwWW91ciUyMFdlaWdodHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3MTExMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDIzJTNBNDYlM0E0MiUyMCUyQjAwMDA",
+      "title": "Exfiltrate Your Weights",
+      "pubDate": "Sat, 19 Sep 2026 23:46:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbG9wLXNlbnNlLmxhYnRvYWdpLmNvbSUyRmdhbWVzJTJGaXMtdGhpcy1pbWFnZS1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGc2xvcC1zZW5zZS5sYWJ0b2FnaS5jb20lMkZnYW1lcyUyRmlzLXRoaXMtaW1hZ2UtYWklMkYlN0NDYW4lMjB5b3UlMjB0ZWxsJTIwd2hpY2glMjBpbWFnZXMlMjBhcmUlMjBBSS1nZW5lcmF0ZWQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3MDg0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDIzJTNBMDIlM0EzNCUyMCUyQjAwMDA",
+      "title": "Can you tell which images are AI-generated?",
+      "pubDate": "Sat, 19 Sep 2026 23:02:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcmF3bC5kZXZlbHoub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZjcmF3bC5kZXZlbHoub3JnJTJGJTdDQW4lMjBvcGVuJTIwc291cmNlJTIwcm9ndWVsaWtlJTIwYWR2ZW50dXJlJTIwdGhyb3VnaCUyMGR1bmdlb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzA4MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAyMiUzQTU1JTNBNTMlMjAlMkIwMDAw",
+      "title": "An open source roguelike adventure through dungeons",
+      "pubDate": "Sat, 19 Sep 2026 22:55:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZweXB5Lm9yZyUyRnBvc3RzJTJGMjAyNiUyRjA5JTJGcHlweS12ODAwLXJlbGVhc2UuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcHlweS5vcmclMkZwb3N0cyUyRjIwMjYlMkYwOSUyRnB5cHktdjgwMC1yZWxlYXNlLmh0bWwlN0NQeVB5JTIwdjguMC4wJTIwUmVsZWFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzcwNzAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMjIlM0E0MCUzQTQyJTIwJTJCMDAwMA",
+      "title": "PyPy v8.0.0 Release",
+      "pubDate": "Sat, 19 Sep 2026 22:40:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5tYXlkYXlteXN0ZXJ5Lm9yZyUyRm1heWRheSUyRiU3Q2h0dHAlM0ElMkYlMkZ3d3cubWF5ZGF5bXlzdGVyeS5vcmclMkZtYXlkYXklMkYlN0NNYXlkYXklMjBNeXN0ZXJpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3MDM2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDIxJTNBNDMlM0EwOSUyMCUyQjAwMDA",
+      "title": "Mayday Mysteries",
+      "pubDate": "Sat, 19 Sep 2026 21:43:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHJvbm8uZmFuZG9tLmNvbSUyRndpa2klMkZEcmVhbV9EZXZvdXJlciU3Q2h0dHBzJTNBJTJGJTJGY2hyb25vLmZhbmRvbS5jb20lMkZ3aWtpJTJGRHJlYW1fRGV2b3VyZXIlN0NZb3UlMjBjYW4lMjBkZWZlYXQlMjB0aGUlMjBEcmVhbSUyMERldm91cmVyJTIwZnJvbSUyMENocm9ubyUyMFRyaWdnZXIlMjB1c2luZyUyMGFuJTIwaW50JTIwb3ZlcmZsb3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3MDI1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDIxJTNBMjUlM0EyOSUyMCUyQjAwMDA",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "pubDate": "Sat, 19 Sep 2026 21:25:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkYmxvYmdhbWVzLmNvbSUyRmJsb2clMkYyMDI2LTA5LTE2LWVuZ2xpc2gtYS12cy1hbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJlZGJsb2JnYW1lcy5jb20lMkZibG9nJTJGMjAyNi0wOS0xNi1lbmdsaXNoLWEtdnMtYW4lMkYlN0NFbmdsaXNoJTNBJTIwQSUyMHZzLiUyMEFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3Njk5NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAyMCUzQTQxJTNBMjYlMjAlMkIwMDAw",
+      "title": "English: A vs. An",
+      "pubDate": "Sat, 19 Sep 2026 20:41:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvb25pLm9yZyUyRmluc3RhbGwlN0NodHRwcyUzQSUyRiUyRm9vbmkub3JnJTJGaW5zdGFsbCU3Q01lYXN1cmUlMjBpbnRlcm5ldCUyMGNlbnNvcnNoaXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2OTY3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDIwJTNBMDAlM0E1OSUyMCUyQjAwMDA",
+      "title": "Measure internet censorship",
+      "pubDate": "Sat, 19 Sep 2026 20:00:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcHJpbnQuaWFjci5vcmclMkYyMDI2JTJGMjAzOSU3Q2h0dHBzJTNBJTJGJTJGZXByaW50LmlhY3Iub3JnJTJGMjAyNiUyRjIwMzklN0NaSy1KUEVHJTNBJTIwWmVyby1Lbm93bGVkZ2UlMjBJbWFnZSUyMEVkaXRpbmclMjBhbmQlMjBDb21wcmVzc2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzY5NDA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMTklM0EyMyUzQTIzJTIwJTJCMDAwMA",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "pubDate": "Sat, 19 Sep 2026 19:23:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYXJ0b3N6LmZlbnNraS5wbCUyRm1vZGVybi1mcy1iZW5jaG1hcmslMkYlN0NodHRwcyUzQSUyRiUyRmJhcnRvc3ouZmVuc2tpLnBsJTJGbW9kZXJuLWZzLWJlbmNobWFyayUyRiU3Q0J0cmZzJTJGWkZTJTJGYmNhY2hlZnMlMjB1bmRlciUyMHdvcmtsb2FkcyUyMGNsYXNzaWMlMjBiZW5jaG1hcmtzJTIwc2tpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzY4ODMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMTglM0ExMSUzQTQwJTIwJTJCMDAwMA",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "pubDate": "Sat, 19 Sep 2026 18:11:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlsZnJlLm5ldCUyRjIwMjYlMkYwOSUyRnRoZS1sYW1lbnRhYmxlLWxhdGVyLWxpZmUtb2YtbGVtbWluZ3MlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5maWxmcmUubmV0JTJGMjAyNiUyRjA5JTJGdGhlLWxhbWVudGFibGUtbGF0ZXItbGlmZS1vZi1sZW1taW5ncyUyRiU3Q1RoZSUyMExhbWVudGFibGUlMjBMYXRlciUyMExpZmUlMjBvZiUyMExlbW1pbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NjcyNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAxNSUzQTE3JTNBMTIlMjAlMkIwMDAw",
+      "title": "The Lamentable Later Life of Lemmings",
+      "pubDate": "Sat, 19 Sep 2026 15:17:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidy5zd2VyZGxvdy5kZXYlMkZyZXBvcnQlN0NodHRwcyUzQSUyRiUyRmJ3LnN3ZXJkbG93LmRldiUyRnJlcG9ydCU3Q0Jyb29kJTIwV2FyJTIwQmVuY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2Njk2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDE0JTNBNDQlM0EwMiUyMCUyQjAwMDA",
+      "title": "Brood War Bench",
+      "pubDate": "Sat, 19 Sep 2026 14:44:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXlhLmNvbnZhaWlubm92YXRpb25zLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGF5YS5jb252YWlpbm5vdmF0aW9ucy5jb20lMkYlN0NJJTIwYnVpbHQlMjBub24tYXV0b3JlZ3Jlc3NpdmUlMjBkZWNpc2lvbiUyMG1vZGVscyUyMHdpdGglMjBSTCUyMGElMjB5ZWFyJTIwYWdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NjUzNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAxMCUzQTQ2JTNBNTglMjAlMkIwMDAw",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "pubDate": "Sat, 19 Sep 2026 10:46:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
     }
