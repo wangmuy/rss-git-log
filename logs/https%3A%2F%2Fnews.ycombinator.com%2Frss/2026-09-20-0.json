@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-20",
     "newestItemDate": "2026-09-20",
-    "itemCount": 9,
-    "generatedAt": "2026-09-20T13:05:30.540Z"
+    "itemCount": 29,
+    "generatedAt": "2026-09-20T18:52:42.540Z"
   },
   "items": [
     {
@@ -60,6 +60,126 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RlcGZ1bi5jb20lMkZzdGVwLTUtcHJldmlldyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0ZXBmdW4uY29tJTJGc3RlcC01LXByZXZpZXclN0NTdGVwJTIwNSUyMFByZXZpZXclM0ElMjBBZHZhbmNpbmclMjB0aGUlMjBQYXJldG8lMjBGcm9udGllciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzcyNTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMDQlM0EzNSUzQTU5JTIwJTJCMDAwMA",
       "title": "Step 5 Preview: Advancing the Pareto Frontier",
       "pubDate": "Sun, 20 Sep 2026 04:35:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXRodWIuY29tJTJGYS1uZWNlc3NhcnktaGlzdG9yeS1vZi10aGUtb2RkZXN0LWxldHRlci13JTJGJTdDaHR0cHMlM0ElMkYlMkZsaXRodWIuY29tJTJGYS1uZWNlc3NhcnktaGlzdG9yeS1vZi10aGUtb2RkZXN0LWxldHRlci13JTJGJTdDQSUyME5lY2Vzc2FyeSUyMEhpc3RvcnklMjBvZiUyMHRoZSUyME9kZGVzdCUyMExldHRlciUzQSUyMFclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3ODE5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE3JTNBNTUlM0E1NyUyMCUyQjAwMDA",
+      "title": "A Necessary History of the Oddest Letter: W",
+      "pubDate": "Sun, 20 Sep 2026 17:55:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa3lsZS1wZW5hLW5scCUyRmpldmNoYXQlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZreWxlLXBlbmEtbmxwJTJGamV2Y2hhdCUyRiU3Q0klMjB0dXJuZWQlMjBKZXYlMjBpbnRvJTIwYSUyMChsb3VzeSklMjBjaGF0Ym90JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzgxNjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxNyUzQTUxJTNBMjclMjAlMkIwMDAw",
+      "title": "I turned Jev into a (lousy) chatbot",
+      "pubDate": "Sun, 20 Sep 2026 17:51:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV4bGFiLm5ldCUyRmFydGljbGVzJTJGc2VsZi1ob3N0ZWQtaW5mZXJlbmNlLW9yY2hlc3RyYXRvcnMtY29tcGFyZWQtMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5leGxhYi5uZXQlMkZhcnRpY2xlcyUyRnNlbGYtaG9zdGVkLWluZmVyZW5jZS1vcmNoZXN0cmF0b3JzLWNvbXBhcmVkLTIwMjYlMkYlN0NTZWxmLWhvc3RlZCUyMGluZmVyZW5jZSUyMG9yY2hlc3RyYXRvcnMlMjBjb21wYXJlZCUzQSUyMExvY2FsQUklMkMlMjBleG8lMkMlMjBHUFVTdGFjayUyQyUyMHZMTE0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3ODA3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE3JTNBNDMlM0EzNSUyMCUyQjAwMDA",
+      "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+      "pubDate": "Sun, 20 Sep 2026 17:43:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi5zZWRhaWx5LmNvbSUyRmZpbmFuY2UlMkYyMDI2JTJGMDklMkYyMCUyRnNhbXN1bmctdG8tZG91YmxlLWhibTQtb3V0cHV0LW5leHQteWVhci1zb3VyY2VzLXNheSU3Q2h0dHBzJTNBJTJGJTJGZW4uc2VkYWlseS5jb20lMkZmaW5hbmNlJTJGMjAyNiUyRjA5JTJGMjAlMkZzYW1zdW5nLXRvLWRvdWJsZS1oYm00LW91dHB1dC1uZXh0LXllYXItc291cmNlcy1zYXklN0NTYW1zdW5nJTIwaXMlMjBleHBlY3RlZCUyMHRvJTIwbW9yZSUyMHRoYW4lMjBkb3VibGUlMjBvdXRwdXQlMjBvZiUyMGl0cyUyMEhCTTQlMjBhbmQlMjBIQk00RSUyMERSQU0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3ODAyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE3JTNBMzglM0E1MCUyMCUyQjAwMDA",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "pubDate": "Sun, 20 Sep 2026 17:38:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRvbmlzLXNpbmdoJTJGcmU0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRvbmlzLXNpbmdoJTJGcmU0JTdDUmVzaWRlbnQlMjBFdmlsJTIwNCUyMChHYW1lQ3ViZSklMjAlRTIlODAlOTMlMjBjb21wbGV0ZSUyMGJ5dGUtaWRlbnRpY2FsJTIwZGVjb21waWxhdGlvbiUyMHRvJTIwQyUyRkMlMkIlMkIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3ODAyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE3JTNBMzglM0EyNyUyMCUyQjAwMDA",
+      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+      "pubDate": "Sun, 20 Sep 2026 17:38:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFweWRlY2suZXUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wYXB5ZGVjay5ldSUyRiU3Q1Nob3clMjBITiUzQSUyMFRocmVlJTIwZ2VubG9ja2VkJTIwUlAyMzUwQiUyMG1ha2UlMjBhJTIwY29uc29sZSUyMCVFMiU4MCU5MyUyMDNrJTIwc3ByaXRlJTIwcGl4ZWxzJTIwcGVyJTIwbGluZSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3ODAwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE3JTNBMzclM0EwNiUyMCUyQjAwMDA",
+      "title": "Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)",
+      "pubDate": "Sun, 20 Sep 2026 17:37:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXRoYWluLmNvbSUyRnNvZnR3YXJlLWZhY3RvcnktZXhwZXJpbWVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGbGV0aGFpbi5jb20lMkZzb2Z0d2FyZS1mYWN0b3J5LWV4cGVyaW1lbnQlMkYlN0NUcnlpbmclMjB0aGUlMjBTb2Z0d2FyZSUyMEZhY3RvcnklMjBQYXR0ZXJuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3Nzc5MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxNyUzQTI3JTNBMTElMjAlMkIwMDAw",
+      "title": "Trying the Software Factory Pattern",
+      "pubDate": "Sun, 20 Sep 2026 17:27:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXh0Lmhydy5vcmclMkZuZXdzJTJGMjAyNiUyRjA5JTJGMTclMkZ1cy1yZXZva2VzLWxpbWl0cy1vbi1wb3dlci1wbGFudHMtY2xpbWF0ZS1wb2xsdXRpb24lN0NodHRwcyUzQSUyRiUyRnRleHQuaHJ3Lm9yZyUyRm5ld3MlMkYyMDI2JTJGMDklMkYxNyUyRnVzLXJldm9rZXMtbGltaXRzLW9uLXBvd2VyLXBsYW50cy1jbGltYXRlLXBvbGx1dGlvbiU3Q1VTJTIwUmV2b2tlcyUyMExpbWl0cyUyMG9uJTIwUG93ZXIlMjBQbGFudHMnJTIwQ2xpbWF0ZSUyMFBvbGx1dGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc3ODQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTclM0ExOSUzQTUyJTIwJTJCMDAwMA",
+      "title": "US Revokes Limits on Power Plants' Climate Pollution",
+      "pubDate": "Sun, 20 Sep 2026 17:19:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYWRpdXMudG8lMkYlN0NodHRwcyUzQSUyRiUyRnJhZGl1cy50byUyRiU3Q1Nob3clMjBITiUzQSUyMFJhZGl1cyUyMCVFMiU4MCU5MyUyMEElMjBNZWV0dXAuY29tJTIwQWx0ZXJuYXRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NzUzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE2JTNBNTElM0EyNiUyMCUyQjAwMDA",
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "pubDate": "Sun, 20 Sep 2026 16:51:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmdhcy5vcmcudWslMkZ0Ymdhc19iZyUyRnYxMzUlMkYyNTEtMjY4LU1hY0tlY2huaWUtSmFydmlzLnBkZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJnYXMub3JnLnVrJTJGdGJnYXNfYmclMkZ2MTM1JTJGMjUxLTI2OC1NYWNLZWNobmllLUphcnZpcy5wZGYlN0NBJTIwSGlzdG9yeSUyMG9mJTIwdGhlJTIwQ2hpbWluZyUyME1hY2hpbmVzJTIwYXQlMjBHbG91Y2VzdGVyJ3MlMjBDYXRoZWRyYWwlMjBhbmQlMjBDaXR5JTIwQ2h1cmNoZXMlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NzUxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE2JTNBNDglM0EyMCUyMCUyQjAwMDA",
+      "title": "A History of the Chiming Machines at Gloucester's Cathedral and City Churches [pdf]",
+      "pubDate": "Sun, 20 Sep 2026 16:48:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib3Jpc2NoZXJueS5jb20lMkZtYW5hZ2VtZW50JTJDJTJGcHJvZHVjdCUyRjIwMjYlMkYwOSUyRjE5JTJGSS1hbS1vZnRlbi13cm9uZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZib3Jpc2NoZXJueS5jb20lMkZtYW5hZ2VtZW50JTJDJTJGcHJvZHVjdCUyRjIwMjYlMkYwOSUyRjE5JTJGSS1hbS1vZnRlbi13cm9uZy5odG1sJTdDSSUyMGFtJTIwb2Z0ZW4lMjB3cm9uZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc3NDY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTYlM0E0MSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "I am often wrong",
+      "pubDate": "Sun, 20 Sep 2026 16:41:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmFsdWF0aW9uLmNsdWIlN0NodHRwcyUzQSUyRiUyRmV2YWx1YXRpb24uY2x1YiUyRiU3Q1Byb21wdHMlMjBhcmVuJUUyJTgwJTk5dCUyMFJlYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NzExMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE1JTNBNTklM0EyNSUyMCUyQjAwMDA",
+      "title": "Prompts aren’t Real",
+      "pubDate": "Sun, 20 Sep 2026 15:59:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXN0LmdpdGh1Yi5jb20lMkZmb3Jkbm94JTJGZTU5MmQwZjY4YjU0M2ZkMDQ0YmU4ZTZkMDQwODYzYTAlN0NodHRwcyUzQSUyRiUyRmdpc3QuZ2l0aHViLmNvbSUyRmZvcmRub3glMkZlNTkyZDBmNjhiNTQzZmQwNDRiZThlNmQwNDA4NjNhMCU3Q0xheWElMjAoT1MlMjBKZXYpJTIwb24lMjBNYWMlMjBNNCUyMENvcmVNTCUyME9mZmxpbmUlMjAoNDUlMjBkZWNpc2lvbnMlMjBwZXIlMjBzZWNvbmQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzcxMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxNSUzQTU4JTNBNTIlMjAlMkIwMDAw",
+      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "pubDate": "Sun, 20 Sep 2026 15:58:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhc21hdC5jYSUyRmJsb2clMkZpLXdlbnQtYmFuYW5hcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXNtYXQuY2ElMkZibG9nJTJGaS13ZW50LWJhbmFuYXMlMkYlN0NDdXN0b20lMjBob21lJTIwc2VydmVyJTIwYnVpbHQlMjBmcm9tJTIwc3BhcmUlMjBwYXJ0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc2OTYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTUlM0E0MyUzQTMyJTIwJTJCMDAwMA",
+      "title": "Custom home server built from spare parts",
+      "pubDate": "Sun, 20 Sep 2026 15:43:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk9uZS1lbGVjdHJvbl91bml2ZXJzZSU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZPbmUtZWxlY3Ryb25fdW5pdmVyc2UlN0NPbmUtRWxlY3Ryb24lMjBVbml2ZXJzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc2ODI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTUlM0EyOCUzQTA1JTIwJTJCMDAwMA",
+      "title": "One-Electron Universe",
+      "pubDate": "Sun, 20 Sep 2026 15:28:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVjaG9kaS5jb20lMkZjaGF0Z3B0LW5vdy1rbm93cy13aGF0LXlvdS1kby1vbi1vdGhlci13ZWJzaXRlcy12aWEtYWQtY29sbGVjdG9yJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnVjaG9kaS5jb20lMkZjaGF0Z3B0LW5vdy1rbm93cy13aGF0LXlvdS1kby1vbi1vdGhlci13ZWJzaXRlcy12aWEtYWQtY29sbGVjdG9yJTJGJTdDQ2hhdEdQVCUyMG5vdyUyMGtub3dzJTIwd2hhdCUyMHlvdSUyMGRvJTIwb24lMjBvdGhlciUyMHdlYnNpdGVzJTIwdmlhJTIwYWQlMjBjb2xsZWN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NjcyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE1JTNBMTglM0E0NCUyMCUyQjAwMDA",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "pubDate": "Sun, 20 Sep 2026 15:18:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2FkZ2V0cmV2aWV3LmNvbSUyRnNpbmdhcG9yZS1pcy1wYXlpbmctcGVvcGxlLXRvLXB1dC1kb3duLXRoZWlyLXBob25lcy1hbmQtcmVhZC1ib29rcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdhZGdldHJldmlldy5jb20lMkZzaW5nYXBvcmUtaXMtcGF5aW5nLXBlb3BsZS10by1wdXQtZG93bi10aGVpci1waG9uZXMtYW5kLXJlYWQtYm9va3MlN0NTaW5nYXBvcmUlRTIlODAlOTlzJTIwTmF0aW9uYWwlMjBMaWJyYXJ5JTIwQm9hcmQlMjBvZmZlcnMlMjBtaWNyb3BheW1lbnRzJTIwdG8lMjBidWlsZCUyMHJlYWRpbmclMjBoYWJpdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NjcxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE1JTNBMTglM0EwNSUyMCUyQjAwMDA",
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "pubDate": "Sun, 20 Sep 2026 15:18:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaXJhdGVmYWNlLmNvJTJGJTdDaHR0cHMlM0ElMkYlMkZwaXJhdGVmYWNlLmNvJTJGJTdDUGlyYXRlJTIwRmFjZSUyMFJlc2N1ZXMlMjBMTE0lMjBNb2RlbHMlMjBmcm9tJTIwRGVsZXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NjY5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE1JTNBMTYlM0EwNyUyMCUyQjAwMDA",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "pubDate": "Sun, 20 Sep 2026 15:16:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b29sZ3V5ZC5jb20lMkZzaGVybGluZS10b29scy1zaHV0dGluZy1kb3duLXVzYS1wcm9kdWN0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b29sZ3V5ZC5jb20lMkZzaGVybGluZS10b29scy1zaHV0dGluZy1kb3duLXVzYS1wcm9kdWN0aW9uJTJGJTdDU2hlcmxpbmUlMjBUb29scyUyMElzJTIwR29pbmclMjBPdXQlMjBvZiUyMEJ1c2luZXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzY2MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxNSUzQTA5JTNBNDElMjAlMkIwMDAw",
+      "title": "Sherline Tools Is Going Out of Business",
+      "pubDate": "Sun, 20 Sep 2026 15:09:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxd2VuLmFpJTJGYmxvZyUzRmlkJTNEcXdlbi1pbWFnZS0yLjElN0NodHRwcyUzQSUyRiUyRnF3ZW4uYWklMkZibG9nJTNGaWQlM0Rxd2VuLWltYWdlLTIuMSU3Q1F3ZW4lMjBJbWFnZSUyMDIuMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc1NDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTMlM0EwOSUzQTI1JTIwJTJCMDAwMA",
+      "title": "Qwen Image 2.1",
+      "pubDate": "Sun, 20 Sep 2026 13:09:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
     }
   ]

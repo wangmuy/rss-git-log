@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-17",
     "newestItemDate": "2026-09-17",
-    "itemCount": 61,
-    "generatedAt": "2026-09-20T05:00:53.598Z"
+    "itemCount": 62,
+    "generatedAt": "2026-09-20T18:52:42.541Z"
   },
   "items": [
     {
@@ -372,6 +372,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA5LXdoYWxlcy1zdGlsbGJvcm4taHVtcGJhY2std2hhbGUtZ3JpZXZpbmcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGh5cy5vcmclMkZuZXdzJTJGMjAyNi0wOS13aGFsZXMtc3RpbGxib3JuLWh1bXBiYWNrLXdoYWxlLWdyaWV2aW5nLmh0bWwlN0NXZWVwaW5nJTIwd2hhbGVzJTNBJTIwU3RpbGxib3JuJTIwaHVtcGJhY2slMjB3aGFsZSUyMGdyaWV2aW5nJTIwZG9jdW1lbnRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzM1MTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMDElM0EwMCUzQTE0JTIwJTJCMDAwMA",
       "title": "Weeping whales: Stillborn humpback whale grieving documented",
       "pubDate": "Thu, 17 Sep 2026 01:00:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZW1lcmdpbmdyb2JvdGljcyUyRmdvcmFpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZW1lcmdpbmdyb2JvdGljcyUyRmdvcmFpJTdDR28tYmFzZWQlMjBSb2JvdGljcyUyMEZyYW1ld29yayUyMGJ1aWx0JTIwYXJvdW5kJTIwTkFUUy5pbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzQyNjQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTclMjBTZXAlMjAyMDI2JTIwMTUlM0E1NCUzQTQzJTIwJTJCMDAwMA",
+      "title": "Go-based Robotics Framework built around NATS.io",
+      "pubDate": "Thu, 17 Sep 2026 15:54:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-17-0.json"
     }
   ]
