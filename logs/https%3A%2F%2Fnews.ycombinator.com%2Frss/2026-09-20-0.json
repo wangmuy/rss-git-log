@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-20",
     "newestItemDate": "2026-09-20",
-    "itemCount": 2,
-    "generatedAt": "2026-09-20T05:00:53.597Z"
+    "itemCount": 9,
+    "generatedAt": "2026-09-20T13:05:30.540Z"
   },
   "items": [
     {
@@ -18,6 +18,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzYXdlaXMubmV0JTJGcG9zdHMlMkZyc2EtODk2Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnNhd2Vpcy5uZXQlMkZwb3N0cyUyRnJzYS04OTYuaHRtbCU3Q1JTQS04OTYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3MTk2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDAyJTNBMTklM0EzMyUyMCUyQjAwMDA",
       "title": "RSA-896",
       "pubDate": "Sun, 20 Sep 2026 02:19:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0d2FyZWNyaXNpcy5kZXYlMkZsZXR0ZXJzJTJGbGxtZW50YWxpc3QlMkYlN0NodHRwcyUzQSUyRiUyRnNvZnR3YXJlY3Jpc2lzLmRldiUyRmxldHRlcnMlMkZsbG1lbnRhbGlzdCUyRiU3Q0NoYXQtYmFzZWQlMjBMYXJnZSUyMExhbmd1YWdlJTIwTW9kZWxzJTIwcmVwbGljYXRlJTIwdGhlJTIwbWVjaGFuaXNtcyUyMG9mJTIwYSUyMHBzeWNoaWMncyUyMGNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc1MTA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTIlM0EyMCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "pubDate": "Sun, 20 Sep 2026 12:20:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWxsZW5uaXVtcHJvYmxlbXMuYmlvJTJGJTdDaHR0cHMlM0ElMkYlMkZtaWxsZW5uaXVtcHJvYmxlbXMuYmlvJTJGJTdDVGhlJTIwTWlsbGVubml1bSUyMFByb2JsZW1zJTIwZm9yJTIwQmlvbG9neSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc1MDgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTIlM0ExNyUzQTU0JTIwJTJCMDAwMA",
+      "title": "The Millennium Problems for Biology",
+      "pubDate": "Sun, 20 Sep 2026 12:17:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaS1raC5uZXQlMkZwJTJGaWYtYWktY29kaW5nLWlzLWxvd2VyaW5nLXlvdXItY29kZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmkta2gubmV0JTJGcCUyRmlmLWFpLWNvZGluZy1pcy1sb3dlcmluZy15b3VyLWNvZGUlN0NJZiUyMEFJJTIwY29kaW5nJTIwaXMlMjBsb3dlcmluZyUyMHlvdXIlMjBjb2RlJTIwcXVhbGl0eSUyQyUyMHlvdSdyZSUyMG5vdCUyMG1hbmFnaW5nJTIwcXVhbGl0eSUyMHJpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzQ3OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxMSUzQTM3JTNBMTAlMjAlMkIwMDAw",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "pubDate": "Sun, 20 Sep 2026 11:37:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMTklMkZ3aHktZG8td2UtbmVlZC1odW1hbi1tYXRoZW1hdGljaWFucy1hbnltb3JlJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMTklMkZ3aHktZG8td2UtbmVlZC1odW1hbi1tYXRoZW1hdGljaWFucy1hbnltb3JlJTJGJTdDV2h5JTIwRG8lMjBXZSUyME5lZWQlMjBIdW1hbiUyME1hdGhlbWF0aWNpYW5zJTIwQW55bW9yZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc0NTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTAlM0E0OSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Why Do We Need Human Mathematicians Anymore?",
+      "pubDate": "Sun, 20 Sep 2026 10:49:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2hlc3Rlcndpc25pZXdza2kuY29tJTJGcG9zdCUyRjIwMjYtMDktMTMtYWktaXMtZGVzdHJveWluZy10aGUtY3JlYXRpdmUtY29tbW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNoZXN0ZXJ3aXNuaWV3c2tpLmNvbSUyRnBvc3QlMkYyMDI2LTA5LTEzLWFpLWlzLWRlc3Ryb3lpbmctdGhlLWNyZWF0aXZlLWNvbW1vbnMlMkYlN0NBSSUyMGFuZCUyMHRoZSUyMERlc3RydWN0aW9uJTIwb2YlMjB0aGUlMjBDcmVhdGl2ZSUyMENvbW1vbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NDMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDEwJTNBMDclM0E1MSUyMCUyQjAwMDA",
+      "title": "AI and the Destruction of the Creative Commons",
+      "pubDate": "Sun, 20 Sep 2026 10:07:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWxsLWtlbGVoZXIuY29tJTJGcG9zdHMlMkZ0ZWxsaW5nLXlvdXItY29tcHV0ZXItdG8tZG8tdGhpbmdzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3aWxsLWtlbGVoZXIuY29tJTJGcG9zdHMlMkZ0ZWxsaW5nLXlvdXItY29tcHV0ZXItdG8tZG8tdGhpbmdzJTJGJTdDVGVsbGluZyUyMGElMjBDb21wdXRlciUyMHRvJTIwRG8lMjBUaGluZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3MjY2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDA1JTNBMTElM0EzMyUyMCUyQjAwMDA",
+      "title": "Telling a Computer to Do Things",
+      "pubDate": "Sun, 20 Sep 2026 05:11:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RlcGZ1bi5jb20lMkZzdGVwLTUtcHJldmlldyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0ZXBmdW4uY29tJTJGc3RlcC01LXByZXZpZXclN0NTdGVwJTIwNSUyMFByZXZpZXclM0ElMjBBZHZhbmNpbmclMjB0aGUlMjBQYXJldG8lMjBGcm9udGllciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzcyNTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMDQlM0EzNSUzQTU5JTIwJTJCMDAwMA",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "pubDate": "Sun, 20 Sep 2026 04:35:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
     }
   ]
