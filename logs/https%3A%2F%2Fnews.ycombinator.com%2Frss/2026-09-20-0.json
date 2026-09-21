@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-20",
     "newestItemDate": "2026-09-20",
-    "itemCount": 29,
-    "generatedAt": "2026-09-20T18:52:42.540Z"
+    "itemCount": 42,
+    "generatedAt": "2026-09-21T05:06:42.637Z"
   },
   "items": [
     {
@@ -180,6 +180,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZxd2VuLmFpJTJGYmxvZyUzRmlkJTNEcXdlbi1pbWFnZS0yLjElN0NodHRwcyUzQSUyRiUyRnF3ZW4uYWklMkZibG9nJTNGaWQlM0Rxd2VuLWltYWdlLTIuMSU3Q1F3ZW4lMjBJbWFnZSUyMDIuMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc1NDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTMlM0EwOSUzQTI1JTIwJTJCMDAwMA",
       "title": "Qwen Image 2.1",
       "pubDate": "Sun, 20 Sep 2026 13:09:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWlnYXV4Lm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGYW1pZ2F1eC5vcmclMkYlN0NBbWlnYSUyMFVuaXglMkMlMjBBZ2FpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgxNDM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMjMlM0E1NyUzQTEwJTIwJTJCMDAwMA",
+      "title": "Amiga Unix, Again",
+      "pubDate": "Sun, 20 Sep 2026 23:57:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaWJyb290Lm9yZyUyRnBvc3RzJTJGd2hhdC1oYXBwZW5lZC10by10aGUtc25vd2Rlbi1hcmNoaXZlJTdDaHR0cHMlM0ElMkYlMkZsaWJyb290Lm9yZyUyRnBvc3RzJTJGd2hhdC1oYXBwZW5lZC10by10aGUtc25vd2Rlbi1hcmNoaXZlJTdDV2hhdCUyMGhhcHBlbmVkJTIwdG8lMjB0aGUlMjBTbm93ZGVuJTIwYXJjaGl2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgwODIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMjIlM0EzNSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "What happened to the Snowden archive",
+      "pubDate": "Sun, 20 Sep 2026 22:35:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ2VudGV4ZWN1dG9yLmlvJTdDaHR0cHMlM0ElMkYlMkZhZ2VudGV4ZWN1dG9yLmlvJTJGJTdDQVglMjAlRTIlODAlOTMlMjBHb29nbGUlRTIlODAlOTlzJTIwT3BlbiUyMEFnZW50aWMlMjBPcmNoZXN0cmF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4MDc5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDIyJTNBMzIlM0E0MyUyMCUyQjAwMDA",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "pubDate": "Sun, 20 Sep 2026 22:32:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbGZhcnJvY28lMkZvZ3JlLWJhdHRsZS02NC1yZWNvbXAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZsZmFycm9jbyUyRm9ncmUtYmF0dGxlLTY0LXJlY29tcCU3Q09ncmUlMjBCYXR0bGUlMjA2NCUyMFJlY29tcGlsZWQlMjBQcm9qZWN0JTIwYXQlMjA5OS4wNSUyNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgwMDIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMjAlM0E1OSUzQTAyJTIwJTJCMDAwMA",
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "pubDate": "Sun, 20 Sep 2026 20:59:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWhhcnNoaXAuY29tJTJGYmxvZyUyRndoeS1tY3Atd2FzLWFsd2F5cy1hLWJhZC1pZGVhJTJGJTdDaHR0cHMlM0ElMkYlMkZtYWhhcnNoaXAuY29tJTJGYmxvZyUyRndoeS1tY3Atd2FzLWFsd2F5cy1hLWJhZC1pZGVhJTJGJTdDV2h5JTIwTUNQJTIwV2FzJTIwQWx3YXlzJTIwYSUyMEJhZCUyMElkZWElM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3OTMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE5JTNBNDQlM0E0MCUyMCUyQjAwMDA",
+      "title": "Why MCP Was Always a Bad Idea?",
+      "pubDate": "Sun, 20 Sep 2026 19:44:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmVnb3J5Z3VuZGVyc2VuLmNvbSUyRmJsb2clMkYyMDI2JTJGMDklMkYyMCUyRmhpZXJhcmNoeS1vZi1tb25leSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JlZ29yeWd1bmRlcnNlbi5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGMjAlMkZoaWVyYXJjaHktb2YtbW9uZXklMkYlN0NUaGUlMjBIaWVyYXJjaHklMjBvZiUyME1vbmV5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzkyNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTM3JTNBNDMlMjAlMkIwMDAw",
+      "title": "The Hierarchy of Money",
+      "pubDate": "Sun, 20 Sep 2026 19:37:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVtaWx1YS5vcmclMkYyMDI1JTJGMDElMkYxMiUyRnNvZnR3YXJlLXNhbmRib3hpbmctYmFzaWNzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVtaWx1YS5vcmclMkYyMDI1JTJGMDElMkYxMiUyRnNvZnR3YXJlLXNhbmRib3hpbmctYmFzaWNzJTJGJTdDU29mdHdhcmUlMjBzYW5kYm94aW5nJTNBJTIwVGhlJTIwYmFzaWNzJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3Nzg2NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxOCUzQTQyJTNBNDclMjAlMkIwMDAw",
+      "title": "Software sandboxing: The basics (2025)",
+      "pubDate": "Sun, 20 Sep 2026 18:42:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXN0LmdpdGh1Yi5jb20lMkZmb3Jkbm94JTJGZTU5MmQwZjY4YjU0M2ZkMDQ0YmU4ZTZkMDQwODYzYTAlN0NodHRwcyUzQSUyRiUyRmdpc3QuZ2l0aHViLmNvbSUyRmZvcmRub3glMkZlNTkyZDBmNjhiNTQzZmQwNDRiZThlNmQwNDA4NjNhMCU3Q0xheWElMjBvbiUyME1hYyUyME00JTIwQ29yZU1MJTIwT2ZmbGluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc3MTA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTUlM0E1OCUzQTUyJTIwJTJCMDAwMA",
+      "title": "Laya on Mac M4 CoreML Offline",
+      "pubDate": "Sun, 20 Sep 2026 15:58:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW55YnJhaW5zLmRldiU3Q2h0dHBzJTNBJTJGJTJGdGlueWJyYWlucy5kZXYlMkYlN0NTaG93JTIwSE4lM0ElMjBBJTIwY29tcGV0aXRpb24lMjBmb3IlMjBzbWFsbCUyMG5ldXJhbCUyMG5ldHdvcmtzJTIwdGhhdCUyMHBsYXklMjBzdHJhdGVneSUyMGdhbWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzY1MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxNCUzQTU5JTNBMTAlMjAlMkIwMDAw",
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "pubDate": "Sun, 20 Sep 2026 14:59:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0d2FyZWNyaXNpcy5kZXYlMkZsZXR0ZXJzJTJGbGxtZW50YWxpc3QlMkYlN0NodHRwcyUzQSUyRiUyRnNvZnR3YXJlY3Jpc2lzLmRldiUyRmxldHRlcnMlMkZsbG1lbnRhbGlzdCUyRiU3Q1RoZSUyMExMTWVudGFsaXN0JTIwRWZmZWN0JTIwKDIwMjMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzUxMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAxMiUzQTIwJTNBMTMlMjAlMkIwMDAw",
+      "title": "The LLMentalist Effect (2023)",
+      "pubDate": "Sun, 20 Sep 2026 12:20:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMTklMkZ3aHktZG8td2UtbmVlZC1odW1hbi1tYXRoZW1hdGljaWFucy1hbnltb3JlJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMTklMkZ3aHktZG8td2UtbmVlZC1odW1hbi1tYXRoZW1hdGljaWFucy1hbnltb3JlJTJGJTdDV2h5JTIwZG8lMjB3ZSUyMG5lZWQlMjBodW1hbiUyMG1hdGhlbWF0aWNpYW5zJTIwYW55bW9yZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc0NTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTAlM0E0OSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Why do we need human mathematicians anymore?",
+      "pubDate": "Sun, 20 Sep 2026 10:49:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWNsYWltdGhlbmV0Lm9yZyUyRnNwYWluLWJsb2Nrcy1hcmNoaXZlLXRvZGF5LWFuZC1taXJyb3JzJTdDaHR0cHMlM0ElMkYlMkZyZWNsYWltdGhlbmV0Lm9yZyUyRnNwYWluLWJsb2Nrcy1hcmNoaXZlLXRvZGF5LWFuZC1taXJyb3JzJTdDU3BhaW4lMjBPcmRlcnMlMjBCbG9ja3MlMjBvbiUyMEFyY2hpdmUudG9kYXklMjBhbmQlMjBJdHMlMjBNaXJyb3JzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzI5NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAwNiUzQTE2JTNBNDIlMjAlMkIwMDAw",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "pubDate": "Sun, 20 Sep 2026 06:16:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHhvbWFyay5jb20lMkZhcHBsZS1pcGhvbmUtMTgtcHJvLWNhbWVyYS10ZXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZHhvbWFyay5jb20lMkZhcHBsZS1pcGhvbmUtMTgtcHJvLWNhbWVyYS10ZXN0JTJGJTdDQXBwbGUlMjBpUGhvbmUlMjAxOCUyMFBybyUyMENhbWVyYSUyMHRlc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3MTIxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDAwJTNBMDAlM0E0NyUyMCUyQjAwMDA",
+      "title": "Apple iPhone 18 Pro Camera test",
+      "pubDate": "Sun, 20 Sep 2026 00:00:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
     }
   ]
