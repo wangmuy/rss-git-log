@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 23,
-    "generatedAt": "2026-09-21T15:09:51.051Z"
+    "itemCount": 48,
+    "generatedAt": "2026-09-21T20:27:52.091Z"
   },
   "items": [
     {
@@ -144,6 +144,156 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoZXJldGljLXByb2plY3Qub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZoZXJldGljLXByb2plY3Qub3JnJTJGJTdDSGVyZXRpYyUyMHJlbW92ZXMlMjByZXN0cmljdGlvbnMlMjBmcm9tJTIwbGFuZ3VhZ2UlMjBtb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4MzEwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDA0JTNBMzUlM0EyMiUyMCUyQjAwMDA",
       "title": "Heretic removes restrictions from language models",
       "pubDate": "Mon, 21 Sep 2026 04:35:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW1vLnhpYW9taS5jb20lMkZtaW1vLXYyLTYlN0NodHRwcyUzQSUyRiUyRm1pbW8ueGlhb21pLmNvbSUyRm1pbW8tdjItNiU3Q1hpYW9taSUyME1pTW8lMjB2Mi42JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTI3MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMCUzQTEyJTNBMTIlMjAlMkIwMDAw",
+      "title": "Xiaomi MiMo v2.6",
+      "pubDate": "Mon, 21 Sep 2026 20:12:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb2xvY2x1Yi5naXRodWIuaW8lMkZ0cmFuc2Zvcm1lci1leHBsYWluZXIlMkYlN0NodHRwcyUzQSUyRiUyRnBvbG9jbHViLmdpdGh1Yi5pbyUyRnRyYW5zZm9ybWVyLWV4cGxhaW5lciUyRiU3Q1RyYW5zZm9ybWVycyUyMEV4cGxhaW5lZCUyMFZpc3VhbGx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTIzNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxOSUzQTQzJTNBNDklMjAlMkIwMDAw",
+      "title": "Transformers Explained Visually",
+      "pubDate": "Mon, 21 Sep 2026 19:43:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYXIuYXBwJTJGbm93JTJGY2ktYm90dGxlbmVjay1yZXdvcmtlZCU3Q2h0dHBzJTNBJTJGJTJGbGluZWFyLmFwcCUyRm5vdyUyRmNpLWJvdHRsZW5lY2stcmV3b3JrZWQlN0NBSSUyMGNvZGluZyUyMGhhcyUyMG1hZGUlMjBDSSUyMGElMjBib3R0bGVuZWNrJTJDJTIwc28lMjB3ZSUyMHJld29ya2VkJTIwb3VycyUyMHRvJTIwa2VlcCUyMHVwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTIwNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxOSUzQTIzJTNBMzMlMjAlMkIwMDAw",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "pubDate": "Mon, 21 Sep 2026 19:23:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjA5JTJGMjElMkZhZHZpc29yeS1ncm91cC1vbi1tYXRoZW1hdGljcy1hbmQtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UlMkYlN0NodHRwcyUzQSUyRiUyRnRlcnJ5dGFvLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMDklMkYyMSUyRmFkdmlzb3J5LWdyb3VwLW9uLW1hdGhlbWF0aWNzLWFuZC1hcnRpZmljaWFsLWludGVsbGlnZW5jZSUyRiU3Q1RoZSUyMEFkdmlzb3J5JTIwR3JvdXAlMjBvbiUyME1hdGhlbWF0aWNzJTIwYW5kJTIwQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzkxOTk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTklM0ExNyUzQTQyJTIwJTJCMDAwMA",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "pubDate": "Mon, 21 Sep 2026 19:17:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyMSUyRmJ1c2luZXNzJTJGYWktZGF0YS1jZW50ZXItaXBvcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyMSUyRmJ1c2luZXNzJTJGYWktZGF0YS1jZW50ZXItaXBvcy5odG1sJTdDV2FsbCUyMFN0cmVldCUyMElzJTIwR3Jvd2luZyUyMFNrZXB0aWNhbCUyMG9mJTIwdGhlJTIwRGF0YSUyMENlbnRlciUyMEJvb20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5MTk0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE5JTNBMTQlM0EzMCUyMCUyQjAwMDA",
+      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+      "pubDate": "Mon, 21 Sep 2026 19:14:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRm5hc2Etcy1tYXJzLXNhbXBsZS1yZXR1cm4tbWlzc2lvbi1kZWFkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRm5hc2Etcy1tYXJzLXNhbXBsZS1yZXR1cm4tbWlzc2lvbi1kZWFkJTdDVGhlJTIwTkFTQSUyRkVTQSUyME1hcnMlMjBTYW1wbGUlMjBSZXR1cm4lMjBtaXNzaW9uJTIwaGFzJTIwYmVlbiUyMGNhbmNlbGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTE5MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxOSUzQTE0JTNBMTIlMjAlMkIwMDAw",
+      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "pubDate": "Mon, 21 Sep 2026 19:14:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm11cmF0YnVmZmFsby5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDklMkZpbi1zZWFyY2gtb2YtY29tcG9zaXRpb25hbC10aGVvcnktb2YuaHRtbCU3Q2h0dHAlM0ElMkYlMkZtdXJhdGJ1ZmZhbG8uYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA5JTJGaW4tc2VhcmNoLW9mLWNvbXBvc2l0aW9uYWwtdGhlb3J5LW9mLmh0bWwlN0NJbiUyMFNlYXJjaCUyMG9mJTIwYSUyMENvbXBvc2l0aW9uYWwlMjBUaGVvcnklMjBvZiUyMFNlbGYtU3RhYmlsaXphdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzkxNzk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTklM0EwNCUzQTM2JTIwJTJCMDAwMA",
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "pubDate": "Mon, 21 Sep 2026 19:04:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2JvY3VydmUub3JnJTJGcm9ib2hhcm0lMkYlN0NodHRwcyUzQSUyRiUyRnJvYm9jdXJ2ZS5vcmclMkZyb2JvaGFybSUyRiU3Q1JvYm9IYXJtJTNBJTIwRG8lMjBGcm9udGllciUyMFJvYm90JTIwUG9saWNpZXMlMjBSZWZ1c2UlMjBVbnNhZmUlMjBJbnN0cnVjdGlvbnMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5MTcyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE4JTNBNTglM0EyNiUyMCUyQjAwMDA",
+      "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
+      "pubDate": "Mon, 21 Sep 2026 18:58:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW1kZXR0bWVycy5jb20lMkYyMDI2JTJGMDklMkYyMSUyRmRsYWItb3Blbi1zb3VyY2Utd2VlayUyRiU3Q2h0dHBzJTNBJTJGJTJGdGltZGV0dG1lcnMuY29tJTJGMjAyNiUyRjA5JTJGMjElMkZkbGFiLW9wZW4tc291cmNlLXdlZWslMkYlN0NGcm9udGllciUyMEFJJTIwb24lMjBZb3VyJTIwT3duJTIwSGFyZHdhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5MTY0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE4JTNBNTMlM0EwMSUyMCUyQjAwMDA",
+      "title": "Frontier AI on Your Own Hardware",
+      "pubDate": "Mon, 21 Sep 2026 18:53:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRnVzJTJGZmFhLWhhbHRzLXNvbWUtdXMtZWFzdC1jb2FzdC1mbGlnaHRzLWR1ZS1jb21tdW5pY2F0aW9uLWlzc3Vlcy0yMDI2LTA5LTIxJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRnVzJTJGZmFhLWhhbHRzLXNvbWUtdXMtZWFzdC1jb2FzdC1mbGlnaHRzLWR1ZS1jb21tdW5pY2F0aW9uLWlzc3Vlcy0yMDI2LTA5LTIxJTJGJTdDVVMlMjBoYWx0cyUyMGZsaWdodHMlMjBhdCUyMGJ1c3klMjBFYXN0JTIwQ29hc3QlMjBhaXJwb3J0cyUyQyUyMHNheXMlMjBmaWJlciUyMGxpbmUlMjBjdXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5MTUwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE4JTNBNDElM0E1OSUyMCUyQjAwMDA",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "pubDate": "Mon, 21 Sep 2026 18:41:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYWZlZGVwLmlvJTJGbWF0aG1haW4tZW5jcnlwdGVkLWxvYWRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGc2FmZWRlcC5pbyUyRm1hdGhtYWluLWVuY3J5cHRlZC1sb2FkZXIlMkYlN0NXaHklMjBkb2VzJTIwbWF0aG1haW4lMjBuZWVkJTIwYW4lMjBlbmNyeXB0ZWQlMjBsb2FkZXIlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5MTM3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE4JTNBMzMlM0E0NCUyMCUyQjAwMDA",
+      "title": "Why does mathmain need an encrypted loader?",
+      "pubDate": "Mon, 21 Sep 2026 18:33:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFnZXRhYmxlLmNvbSUyRjMwMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhZ2V0YWJsZS5jb20lMkYzMDAlN0NBcHBsZSUyMENvcGxhbmQlMjBEMTFFNCUyMEJvb3RpbmclMjBpbiUyMHRoZSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5MTEyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE4JTNBMTUlM0EzMiUyMCUyQjAwMDA",
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "pubDate": "Mon, 21 Sep 2026 18:15:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpZWVleHBsb3JlLmllZWUub3JnJTJGZG9jdW1lbnQlMkY2ODk0NzMlN0NodHRwcyUzQSUyRiUyRmllZWV4cGxvcmUuaWVlZS5vcmclMkZkb2N1bWVudCUyRjY4OTQ3MyU3Q0F2b2lkaW5nJTIwdGhlJTIwYmFiYmxpbmctaWRpb3QlMjBmYWlsdXJlJTIwaW4lMjBhJTIwdGltZS10cmlnZ2VyZWQlMjBjb21tdW5pY2F0aW9uJTIwc3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTExMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxOCUzQTE0JTNBNTYlMjAlMkIwMDAw",
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "pubDate": "Mon, 21 Sep 2026 18:14:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmd1aWRlJTJGbWFjLWhlbHAlMkZ0dXJuLXJlc3RyaWN0LWFjY2Vzcy1hcHBsZS1pbnRlbGxpZ2VuY2UtbWNobGIyZTQ0Zjk0JTJGbWFjJTdDaHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmd1aWRlJTJGbWFjLWhlbHAlMkZ0dXJuLXJlc3RyaWN0LWFjY2Vzcy1hcHBsZS1pbnRlbGxpZ2VuY2UtbWNobGIyZTQ0Zjk0JTJGbWFjJTdDVHVybiUyMG9mZiUyMGFuZCUyMHJlc3RyaWN0JTIwYWNjZXNzJTIwdG8lMjBBcHBsZSUyMEludGVsbGlnZW5jZSUyMGZlYXR1cmVzJTIwb24lMjBNYWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5MDQwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE3JTNBMzAlM0EyMSUyMCUyQjAwMDA",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "pubDate": "Mon, 21 Sep 2026 17:30:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhZHZpc29yeS1ncm91cC1vbi1tYXRoZW1hdGljcy1hbmQtYWklMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmFkdmlzb3J5LWdyb3VwLW9uLW1hdGhlbWF0aWNzLWFuZC1haSUyRiU3Q0Fkdmlzb3J5JTIwR3JvdXAlMjBvbiUyME1hdGhlbWF0aWNzJTIwYW5kJTIwQXJ0aWZpY2lhbCUyMEludGVsbGlnZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzkwMzg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTclM0EyNyUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "pubDate": "Mon, 21 Sep 2026 17:27:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmhlcm1lcy1zaG9ydHdhdmUtcmFkaW8tZGlnaXRhbC1kYXRhJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmhlcm1lcy1zaG9ydHdhdmUtcmFkaW8tZGlnaXRhbC1kYXRhJTdDVGhpcyUyMERpZ2l0YWwlMjBSYWRpbyUyMEdldHMlMjBNZXNzYWdlcyUyMHRvJTIwdGhlJTIwV29ybGQlRTIlODAlOTlzJTIwUmVtb3Rlc3QlMjBMb2NhdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4OTIyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE2JTNBMTQlM0ExNiUyMCUyQjAwMDA",
+      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "pubDate": "Mon, 21 Sep 2026 16:14:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkxvbiUyRnN0YXR1cyUyRjIxMDE3OTM0MjI0ODcyMDQwMjclN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGTG9uJTJGc3RhdHVzJTJGMjEwMTc5MzQyMjQ4NzIwNDAyNyU3Q0ZhYmxlJTIwNSUyMCVFMiU4MCU5MyUyME1lZGlhbiUyMHRoaW5raW5nJTIwZGVjbGluZWQlMjBpbiUyMEF1Z3VzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg5MjI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTYlM0ExMyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Fable 5 – Median thinking declined in August",
+      "pubDate": "Mon, 21 Sep 2026 16:13:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAxOSUyRjUlMkYxMSUyRmhvdy1kby10cmFmZmljLXNpZ25hbHMtd29yayU3Q2h0dHBzJTNBJTJGJTJGcHJhY3RpY2FsLmVuZ2luZWVyaW5nJTJGYmxvZyUyRjIwMTklMkY1JTJGMTElMkZob3ctZG8tdHJhZmZpYy1zaWduYWxzLXdvcmslN0NIb3clMjBkbyUyMFRyYWZmaWMlMjBTaWduYWxzJTIwV29yayUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg5MDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTYlM0EwNiUzQTQ0JTIwJTJCMDAwMA",
+      "title": "How do Traffic Signals Work (2019)",
+      "pubDate": "Mon, 21 Sep 2026 16:06:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4LmFpJTJGbmV3cyUyRmdyb2stNC03JTdDaHR0cHMlM0ElMkYlMkZ4LmFpJTJGbmV3cyUyRmdyb2stNC03JTdDR3JvayUyMDQuNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg4ODM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTUlM0E1MCUzQTE1JTIwJTJCMDAwMA",
+      "title": "Grok 4.7",
+      "pubDate": "Mon, 21 Sep 2026 15:50:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnBkcDExNzMuY29tJTJGJTdDaHR0cCUzQSUyRiUyRnBkcDExNzMuY29tJTJGJTdDQSUyMHJlc3RvcmVkJTIwUERQLTExJTJGODMlMjBzZXJ2aW5nJTIwdGhpcyUyMHBhZ2UlMjBvbiUyMDIxMUJTRCUyMFVuaXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4ODc3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE1JTNBNDUlM0EwNiUyMCUyQjAwMDA",
+      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+      "pubDate": "Mon, 21 Sep 2026 15:45:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGljZWdnLnRlY2glMkYyMDI2JTJGMDklMkYyMSUyRmF0dGVudGlvbiU3Q2h0dHBzJTNBJTJGJTJGYWxpY2VnZy50ZWNoJTJGMjAyNiUyRjA5JTJGMjElMkZhdHRlbnRpb24lN0NBdHRlbnRpb24lMjBpcyUyMGFsbCUyMHlvdSUyMGhhdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NzcyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE0JTNBMjYlM0E1NiUyMCUyQjAwMDA",
+      "title": "Attention is all you have",
+      "pubDate": "Mon, 21 Sep 2026 14:26:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWdpdGFsZXNjYXBldG9vbHMuY29tJTJGdG9vbHMlMkZub29kbGVnYWxsZXJ5Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmRpZ2l0YWxlc2NhcGV0b29scy5jb20lMkZ0b29scyUyRm5vb2RsZWdhbGxlcnkuaHRtbCU3Q05vb2RsZSUyMEdhbGxlcnktJTIwT3Blbi1zb3VyY2UlMkMlMjBzZWxmLWhvc3RlZCUyMGFsdGVybmF0aXZlJTIwdG8lMjBHb29nbGUlMjBQaG90b3MlMjBhbmQlMjBJbW1pY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NzY4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE0JTNBMjIlM0E1OCUyMCUyQjAwMDA",
+      "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+      "pubDate": "Mon, 21 Sep 2026 14:22:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjYlMkYwOSUyRjIwJTJGd2hhdC1zdW4tZ290LXdyb25nJTJGJTdDaHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjYlMkYwOSUyRjIwJTJGd2hhdC1zdW4tZ290LXdyb25nJTJGJTdDV2hhdCUyMFN1biUyMGdvdCUyMHdyb25nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODc0MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxNCUzQTAzJTNBMTglMjAlMkIwMDAw",
+      "title": "What Sun got wrong",
+      "pubDate": "Mon, 21 Sep 2026 14:03:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFjc3Rvcmllcy5uZXQlMkZzdG9yaWVzJTJGbTUtdWx0cmEtbWFjLXN0dWRpby1yZXZpZXctdGhlLWRyZWFtLW1hYy1mb3ItbG9jYWwtYWktYWdlbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFjc3Rvcmllcy5uZXQlMkZzdG9yaWVzJTJGbTUtdWx0cmEtbWFjLXN0dWRpby1yZXZpZXctdGhlLWRyZWFtLW1hYy1mb3ItbG9jYWwtYWktYWdlbnRzJTJGJTdDTTUlMjBVbHRyYSUyME1hYyUyMFN0dWRpbyUyMFJldmlldyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg3MzEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTMlM0E1MyUzQTI3JTIwJTJCMDAwMA",
+      "title": "M5 Ultra Mac Studio Review",
+      "pubDate": "Mon, 21 Sep 2026 13:53:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGcHl0aG9uLXdvcmtlcnMtZ2ElMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZweXRob24td29ya2Vycy1nYSUyRiU3Q1B5dGhvbiUyMFdvcmtlcnMlMjBhcmUlMjBub3clMjBnZW5lcmFsbHklMjBhdmFpbGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NzE0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDEzJTNBMzglM0ExOSUyMCUyQjAwMDA",
+      "title": "Python Workers are now generally available",
+      "pubDate": "Mon, 21 Sep 2026 13:38:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]
