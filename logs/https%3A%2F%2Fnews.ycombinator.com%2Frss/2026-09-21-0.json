@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 4,
-    "generatedAt": "2026-09-21T05:06:42.636Z"
+    "itemCount": 23,
+    "generatedAt": "2026-09-21T15:09:51.051Z"
   },
   "items": [
     {
@@ -30,6 +30,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZncmVnb3J5Z3VuZGVyc2VuLmNvbSUyRmJsb2clMkYyMDE4JTJGMDQlMkYxNSUyRmJhY2twcm9wJTJGJTdDaHR0cHMlM0ElMkYlMkZncmVnb3J5Z3VuZGVyc2VuLmNvbSUyRmJsb2clMkYyMDE4JTJGMDQlMkYxNSUyRmJhY2twcm9wJTJGJTdDV2h5JTIwYmFjayUyMHByb3BhZ2F0aW9uJTIwZ29lcyUyMGJhY2t3YXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODE2OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAwMCUzQTQyJTNBMTQlMjAlMkIwMDAw",
       "title": "Why back propagation goes backward",
       "pubDate": "Mon, 21 Sep 2026 00:42:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZzZXAlMkYyMSUyRm1ldGEtYmFuLXZpcmdpbmlhLXdvb2xmLWEtcm9vbS1vZi1vbmVzLW93bi1iYXJjZWxvbmEtdGVhdHJlLXJhdmFsJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZzZXAlMkYyMSUyRm1ldGEtYmFuLXZpcmdpbmlhLXdvb2xmLWEtcm9vbS1vZi1vbmVzLW93bi1iYXJjZWxvbmEtdGVhdHJlLXJhdmFsJTdDTWV0YSUyMGJhbnMlMjBhZHMlMjBmb3IlMjBWaXJnaW5pYSUyMFdvb2xmJTIwcGxheSUyMGluJTIwU3BhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4Nzc2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE0JTNBMzAlM0EzOSUyMCUyQjAwMDA",
+      "title": "Meta bans ads for Virginia Woolf play in Spain",
+      "pubDate": "Mon, 21 Sep 2026 14:30:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjA5JTJGYXBwbGUtbTYtbWFjLW1pbmktcmV2aWV3LTMwMC1wcmljZS1oaWtlLXNwb2lscy1hLW5pY2UtdXBncmFkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGZ2FkZ2V0cyUyRjIwMjYlMkYwOSUyRmFwcGxlLW02LW1hYy1taW5pLXJldmlldy0zMDAtcHJpY2UtaGlrZS1zcG9pbHMtYS1uaWNlLXVwZ3JhZGUlMkYlN0NBcnMlMjBUZWNobmljYSdzJTIwTWFjJTIwTWluaSUyMHJldmlldyUzQSUyMFRoZSUyMG5ldyUyME02JTIwaW1wcmVzc2VzJTIwYnV0JTIwdGhlJTIwcHJpY2UlMjBoaWtlJTIwaXMlMjByb3VnaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg3NTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTQlM0ExMSUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough",
+      "pubDate": "Mon, 21 Sep 2026 14:11:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZNYWNPU0JldGElMkZjb21tZW50cyUyRjF2bG5mMTMlMkZ3b3JrYXJvdW5kX3RvX2F2b2lkX2Rvd25sb2FkaW5nX2FpX21vZGVsc19hbmQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWRkaXQuY29tJTJGciUyRk1hY09TQmV0YSUyRmNvbW1lbnRzJTJGMXZsbmYxMyUyRndvcmthcm91bmRfdG9fYXZvaWRfZG93bmxvYWRpbmdfYWlfbW9kZWxzX2FuZCUyRiU3Q21hY09TJTIwMjclM0ElMjBXb3JrYXJvdW5kJTIwdG8lMjBhdm9pZCUyMGRvd25sb2FkaW5nJTIwQUklMjBtb2RlbHMlMjBhbmQlMjBzYXZlJTIwc3RvcmFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg3NTM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTQlM0ExMCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "pubDate": "Mon, 21 Sep 2026 14:10:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25zdW1lcnJpZ2h0cy53aWtpJTJGdyUyRlViZXJfYXJiaXRyYXRpb25fYXdhcmRfb3Zlcl9FbWlseV9Ob3JtYW5kaW4tUGFya2VyJTI1MjdzX2RlYXRoJTdDaHR0cHMlM0ElMkYlMkZjb25zdW1lcnJpZ2h0cy53aWtpJTJGdyUyRlViZXJfYXJiaXRyYXRpb25fYXdhcmRfb3Zlcl9FbWlseV9Ob3JtYW5kaW4tUGFya2VyJTI1MjdzX2RlYXRoJTdDVWJlciUyMGFyYml0cmF0aW9uJTIwYXdhcmQlMjBvdmVyJTIwRW1pbHklMjBOb3JtYW5kaW4tUGFya2VyJ3MlMjBkZWF0aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg3NTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTQlM0EwOSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Uber arbitration award over Emily Normandin-Parker's death",
+      "pubDate": "Mon, 21 Sep 2026 14:09:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjYlMkYwOSUyRjIwJTJGd2hhdC1zdW4tZ290LXdyb25nJTJGJTdDaHR0cHMlM0ElMkYlMkZiY2FudHJpbGwuZHRyYWNlLm9yZyUyRjIwMjYlMkYwOSUyRjIwJTJGd2hhdC1zdW4tZ290LXdyb25nJTJGJTdDV2hhdCUyMFN1biUyMEdvdCUyMFdyb25nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODc0MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxNCUzQTAzJTNBMTglMjAlMkIwMDAw",
+      "title": "What Sun Got Wrong",
+      "pubDate": "Mon, 21 Sep 2026 14:03:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFjc3Rvcmllcy5uZXQlMkZzdG9yaWVzJTJGbTUtdWx0cmEtbWFjLXN0dWRpby1yZXZpZXctdGhlLWRyZWFtLW1hYy1mb3ItbG9jYWwtYWktYWdlbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFjc3Rvcmllcy5uZXQlMkZzdG9yaWVzJTJGbTUtdWx0cmEtbWFjLXN0dWRpby1yZXZpZXctdGhlLWRyZWFtLW1hYy1mb3ItbG9jYWwtYWktYWdlbnRzJTJGJTdDTTUlMjBVbHRyYSUyME1hYyUyMFN0dWRpbyUyMFJldmlldyUzQSUyMFRoZSUyMERyZWFtJTIwTWFjJTIwZm9yJTIwTG9jYWwlMjBBSSUyMEFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg3MzEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTMlM0E1MyUzQTI3JTIwJTJCMDAwMA",
+      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+      "pubDate": "Mon, 21 Sep 2026 13:53:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bXMucmFzcGJlcnJ5cGkuY29tJTJGdmlld3RvcGljLnBocCUzRnAlM0QyMzgwODg3JTIzcDIzODA4ODglN0NodHRwcyUzQSUyRiUyRmZvcnVtcy5yYXNwYmVycnlwaS5jb20lMkZ2aWV3dG9waWMucGhwJTNGcCUzRDIzODA4ODclMjNwMjM4MDg4OCU3Q1Jhc3BiZXJyeSUyMFBpJTIwYmxvY2tzJTIwY2hhbmdpbmclMjBSQU0lMjBjaGlwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg2Njg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTIlM0E1NCUzQTI0JTIwJTJCMDAwMA",
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "pubDate": "Mon, 21 Sep 2026 12:54:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg2NjA5JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg2NjA5JTdDQXNrJTIwSE4lM0ElMjBJcyUyMGl0JTIwaW1wb3NzaWJsZSUyMHRvJTIwZGlzYWJsZSUyMFNpcmklMjBvbiUyMG1hY09TJTIwMjclM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NjYwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDEyJTNBNDclM0EwNSUyMCUyQjAwMDA",
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "pubDate": "Mon, 21 Sep 2026 12:47:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXJ1LWxhYnMlMkZsb3NzbGVzcy1tZW1vcnklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhcnUtbGFicyUyRmxvc3NsZXNzLW1lbW9yeSU3Q1Nob3clMjBITiUzQSUyMExvc3NsZXNzLW1lbW9yeSUyMCVFMiU4MCU5MyUyMGElMjBwZXJzb25hbCUyMEFJJTIwbWVtb3J5JTIwdGhhdCUyMG5ldmVyJTIwc3VtbWFyaXplcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg2NDE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTIlM0EyOCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "pubDate": "Mon, 21 Sep 2026 12:28:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6dWNrb2ZmLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGenVja29mZi5hcHAlMkYlN0NadWNrT2ZmJTIwS25vdyUyMHdoZW4lMjBhJTIwY2FtZXJhJTIwaXMlMjBpbiUyMHRoZSUyMHJvb20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NTQyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDEwJTNBMzMlM0ExNCUyMCUyQjAwMDA",
+      "title": "ZuckOff Know when a camera is in the room",
+      "pubDate": "Mon, 21 Sep 2026 10:33:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQubWUlMkZzdG9yeSUyRm1ldGEtc21hcnQtZ2xhc3Nlcy1kZXRlY3Rvci1hcHAtenVja29mZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLm1lJTJGc3RvcnklMkZtZXRhLXNtYXJ0LWdsYXNzZXMtZGV0ZWN0b3ItYXBwLXp1Y2tvZmYlN0NadWNrT2ZmJTIwSXMlMjBhJTIwRnJlZSUyMEFwcCUyMFRoYXQlMjBTZWVzJTIwTWV0YSUyMEdsYXNzZXMlMjBCZWZvcmUlMjBUaGV5JTIwU2VlJTIwWW91JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODUzOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxMCUzQTI3JTNBNTAlMjAlMkIwMDAw",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "pubDate": "Mon, 21 Sep 2026 10:27:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXVsYmFra2VyLmlvJTJGd3JpdGluZyUyRm5vLWFpLWZvci13cml0aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZwYXVsYmFra2VyLmlvJTJGd3JpdGluZyUyRm5vLWFpLWZvci13cml0aW5nJTJGJTdDRG9uJ3QlMjBVc2UlMjBBSSUyMHRvJTIwV3JpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NDgxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDA4JTNBNTQlM0E0NCUyMCUyQjAwMDA",
+      "title": "Don't Use AI to Write",
+      "pubDate": "Mon, 21 Sep 2026 08:54:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZiUyRmpldi1sZWZ0cGFkJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZiUyRmpldi1sZWZ0cGFkJTdDSmV2LUxlZnRwYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NDcwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDA4JTNBMzklM0EzMiUyMCUyQjAwMDA",
+      "title": "Jev-Leftpad",
+      "pubDate": "Mon, 21 Sep 2026 08:39:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25zdW1lcnJpZ2h0cy53aWtpJTJGdyUyRkRpc25leSUyNTJCX2FkX3BvbGljeV9jaGFuZ2UlN0NodHRwcyUzQSUyRiUyRmNvbnN1bWVycmlnaHRzLndpa2klMkZ3JTJGRGlzbmV5JTI1MkJfYWRfcG9saWN5X2NoYW5nZSU3Q0Rpc25leSUyQiUzQSUyME5ldyUyMHVzZXIlMjBhZ3JlZW1lbnQlMjBhbGxvd3MlMjBhZHMlMjBiZWZvcmUlMjBtb3ZpZXMlMjBpbiUyMGFsbCUyMHN1YnNjcmlwdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NDMzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDA3JTNBNTUlM0EyOCUyMCUyQjAwMDA",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "pubDate": "Mon, 21 Sep 2026 07:55:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFyZWRwYWxtZXIlMkZrZXYlMkZ0cmVlJTJGbWFpbiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmphcmVkcGFsbWVyJTJGa2V2JTJGdHJlZSUyRm1haW4lN0NLZXYlM0ElMjBUaW55JTIwSmV2LWxpa2UlMjBmYW1pbHklMjBvZiUyMGRlY2lzaW9uJTIwbW9kZWxzJTIwYnVpbHQlMjBvbiUyMHRvcCUyMG9mJTIwUXdlbjMuNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgzOTk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMDclM0ExMSUzQTU1JTIwJTJCMDAwMA",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "pubDate": "Mon, 21 Sep 2026 07:11:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNoaW5lZHJ1bS1zdHVkeS5wYWdlcy5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRm1hY2hpbmVkcnVtLXN0dWR5LnBhZ2VzLmRldiUyRiU3Q0VsZWt0cm9uJTIwTWFjaGluZWRydW0lMjBpbiUyMHRoZSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4MzU2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDA2JTNBMDclM0E1MiUyMCUyQjAwMDA",
+      "title": "Elektron Machinedrum in the Browser",
+      "pubDate": "Mon, 21 Sep 2026 06:07:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmdhbWVzaGVsZi5qbWFjLm9yZyUyRjIwMDglMkYxMSUyRjEzJTJGR3JpbVB1enpsZURvY19zbWFsbC5wZGYlN0NodHRwJTNBJTJGJTJGZ2FtZXNoZWxmLmptYWMub3JnJTJGMjAwOCUyRjExJTJGMTMlMkZHcmltUHV6emxlRG9jX3NtYWxsLnBkZiU3Q0dyaW0lMjBGYW5kYW5nbyUyMFB1enpsZSUyMERvY3VtZW50JTIwKDE5OTYpJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODM0OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAwNSUzQTU1JTNBMjIlMjAlMkIwMDAw",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "pubDate": "Mon, 21 Sep 2026 05:55:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdm9sb3RhdCUyRm1pbmktQUdJJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdm9sb3RhdCUyRm1pbmktQUdJJTJGJTdDU2hvdyUyMEhOJTNBJTIwTWluaS1BR0klMjAlRTIlODAlOTMlMjBEeW5hbWljJTIwY29udGludWFsJTIwbGVhcm5pbmclMjBtb2RlbCUyMHRyYWluZWQlMjBvbiUyMDhHQiUyMFZSQU0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4MzEzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDA0JTNBNDIlM0EzNyUyMCUyQjAwMDA",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "pubDate": "Mon, 21 Sep 2026 04:42:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZXJldGljLXByb2plY3Qub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZoZXJldGljLXByb2plY3Qub3JnJTJGJTdDSGVyZXRpYyUyMHJlbW92ZXMlMjByZXN0cmljdGlvbnMlMjBmcm9tJTIwbGFuZ3VhZ2UlMjBtb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4MzEwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDA0JTNBMzUlM0EyMiUyMCUyQjAwMDA",
+      "title": "Heretic removes restrictions from language models",
+      "pubDate": "Mon, 21 Sep 2026 04:35:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]
