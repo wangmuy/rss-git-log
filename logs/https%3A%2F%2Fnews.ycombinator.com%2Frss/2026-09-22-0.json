@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-22",
     "newestItemDate": "2026-09-22",
-    "itemCount": 10,
-    "generatedAt": "2026-09-22T13:28:23.508Z"
+    "itemCount": 32,
+    "generatedAt": "2026-09-22T19:46:52.465Z"
   },
   "items": [
     {
@@ -66,6 +66,138 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZtaW1vLXYyLTYtcHJvJTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZtaW1vLXYyLTYtcHJvJTdDTWlNby12Mi42LVBybyUzQSUyMEludGVsbGlnZW5jZSUyQyUyMFBlcmZvcm1hbmNlJTIwYW5kJTIwUHJpY2UlMjBBbmFseXNpcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk2NjYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMDQlM0EwMiUzQTA5JTIwJTJCMDAwMA",
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
       "pubDate": "Tue, 22 Sep 2026 04:02:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvYnNjdXJhLmNvbSUyRiUyM2ZhcS10ZWNobmljYWwlN0NodHRwcyUzQSUyRiUyRm9ic2N1cmEuY29tJTJGJTIzZmFxLXRlY2huaWNhbCU3Q09ic2N1cmElM0ElMjBUaGUlMjBmaXJzdCUyMFZQTiUyMHRoYXQlMjBjYW4ndCUyMGxvZyUyMHlvdXIlMjBhY3Rpdml0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA3MDAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTklM0E0MCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Obscura: The first VPN that can't log your activity",
+      "pubDate": "Tue, 22 Sep 2026 19:40:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnN0YW5mb3JkLmVkdSUyRnN0b3JpZXMlMkYyMDI2JTJGMDklMkZodW1hbi1icmFpbi10d28tc2VwYXJhdGUtb3JnYW5zJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnN0YW5mb3JkLmVkdSUyRnN0b3JpZXMlMkYyMDI2JTJGMDklMkZodW1hbi1icmFpbi10d28tc2VwYXJhdGUtb3JnYW5zJTdDVGhlJTIwaHVtYW4lMjBicmFpbiUyMGlzJTIwdHdvJTIwc2VwYXJhdGUlMjBvcmdhbnMlMkMlMjBzdHVkeSUyMGZpbmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDY5MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxOSUzQTMzJTNBMDglMjAlMkIwMDAw",
+      "title": "The human brain is two separate organs, study finds",
+      "pubDate": "Tue, 22 Sep 2026 19:33:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRmdyYXBoaWNzJTJGMjAyNi1pcmFuLXNjaG9vbC1hdHRhY2slMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ibG9vbWJlcmcuY29tJTJGZ3JhcGhpY3MlMkYyMDI2LWlyYW4tc2Nob29sLWF0dGFjayUyRiU3Q1BlbnRhZ29uJTNBJTIwUGFsYW50aXIlMjBBSSUyME92ZXJyZWxpYW5jZSUyMExlZCUyMHRvJTIwU3RyaWtlJTIwS2lsbGluZyUyMDEyMyUyMElyYW5pYW4lMjBDaGlsZHJlbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA2NDMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTklM0EwMyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+      "pubDate": "Tue, 22 Sep 2026 19:03:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFuYWdlci5kZXYlMkZuZXdzbGV0dGVyJTJGY3Vyc2luZy10aGUtZGF5LWxvdmFibGUtd2FzLWJvcm4lN0NodHRwcyUzQSUyRiUyRnd3dy5tYW5hZ2VyLmRldiUyRm5ld3NsZXR0ZXIlMkZjdXJzaW5nLXRoZS1kYXktbG92YWJsZS13YXMtYm9ybiU3Q0V4cGxhaW5pbmclMjB0byUyMGJ1c2luZXNzJTIwcGVvcGxlJTIwd2h5JTIwYnVpbGRpbmclMjBzb2Z0d2FyZSUyMGlzJTIwc3RpbGwlMjBoYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDYzNzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxOSUzQTAwJTNBNDAlMjAlMkIwMDAw",
+      "title": "Explaining to business people why building software is still hard",
+      "pubDate": "Tue, 22 Sep 2026 19:00:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRyYWlsb2ZiaXRzLmNvbSUyRjIwMjYlMkYwOSUyRjIxJTJGc2FtbC1hLWZyYWN0YWwtb2YtYmFkLWRlc2lnbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy50cmFpbG9mYml0cy5jb20lMkYyMDI2JTJGMDklMkYyMSUyRnNhbWwtYS1mcmFjdGFsLW9mLWJhZC1kZXNpZ24lMkYlN0NTQU1MJTNBJTIwQSUyMEZyYWN0YWwlMjBvZiUyMEJhZCUyMERlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA2MzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTglM0E1NyUzQTE3JTIwJTJCMDAwMA",
+      "title": "SAML: A Fractal of Bad Design",
+      "pubDate": "Tue, 22 Sep 2026 18:57:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnJlYWxsYWJzLmFpJTJGYmxvZyUyRnVucmVhbC1hZ2VudCUyRiU3Q2h0dHBzJTNBJTJGJTJGdW5yZWFsbGFicy5haSUyRmJsb2clMkZ1bnJlYWwtYWdlbnQlMkYlN0NVbnJlYWwlMjBBZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA1NzQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTglM0ExNSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Unreal Agent",
+      "pubDate": "Tue, 22 Sep 2026 18:15:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1ncHQtNi1zb2wtYW5kLWx1bmElMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmludHJvZHVjaW5nLWdwdC02LXNvbC1hbmQtbHVuYSUyRiU3Q0dQVC02JTIwU29sJTIwYW5kJTIwTHVuYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA1NTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTglM0EwMCUzQTM0JTIwJTJCMDAwMA",
+      "title": "GPT-6 Sol and Luna",
+      "pubDate": "Tue, 22 Sep 2026 18:00:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY292ZXJhZ2VjYXQuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY292ZXJhZ2VjYXQuY29tJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBDb3ZlcmFnZSUyMENhdCUyMChZQyUyMFMyMiklMjAlRTIlODAlOTMlMjBVbWJyZWxsYSUyMGluc3VyYW5jZSUyMHZpYSUyMHlvdXIlMjBwZXJzb25hbCUyMGFnZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDQ5MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNyUzQTI2JTNBMzYlMjAlMkIwMDAw",
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "pubDate": "Tue, 22 Sep 2026 17:26:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGVuZW9zLnNvY2lhbCUyRiU0MEdyYXBoZW5lT1MlMkYxMTcyOTk5NTQxMzU4MDgyMTAlN0NodHRwcyUzQSUyRiUyRmdyYXBoZW5lb3Muc29jaWFsJTJGJTQwR3JhcGhlbmVPUyUyRjExNzI5OTk1NDEzNTgwODIxMCU3Q1RoZXJlJ3MlMjBhJTIwaGlnaCUyMGNoYW5jZSUyMG9mJTIwZGV2aWNlcyUyMGJlaW5nJTIwc29sZCUyMHdpdGglMjBHcmFwaGVuZU9TJTIwcHJlaW5zdGFsbGVkJTIwaW4lMjAyMDI3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDQ2ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNyUzQTEyJTNBNTElMjAlMkIwMDAw",
+      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+      "pubDate": "Tue, 22 Sep 2026 17:12:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZjbGF1ZGUtb3B1cy01LTUlN0NodHRwcyUzQSUyRiUyRmFydGlmaWNpYWxhbmFseXNpcy5haSUyRm1vZGVscyUyRmNsYXVkZS1vcHVzLTUtNSU3Q0NsYXVkZSUyME9wdXMlMjA1LjUlMjBJbnRlbGxpZ2VuY2UlMkMlMjBQZXJmb3JtYW5jZSUyMGFuZCUyMFByaWNlJTIwQW5hbHlzaXMlMjAoTWF4KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA0MzE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTYlM0E1MSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "pubDate": "Tue, 22 Sep 2026 16:51:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGV29yZFByZXNzJTJGd29yZHByZXNzLWRldmVsb3AlMkZzZWN1cml0eSUyRmFkdmlzb3JpZXMlMkZHSFNBLTdocDgtNjVjaC01d2hwJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGV29yZFByZXNzJTJGd29yZHByZXNzLWRldmVsb3AlMkZzZWN1cml0eSUyRmFkdmlzb3JpZXMlMkZHSFNBLTdocDgtNjVjaC01d2hwJTdDV29yZFByZXNzJTNBJTIwVW5hdXRoZW50aWNhdGVkJTIwcGF0aCUyMHRyYXZlcnNhbCUyMGxlYWRpbmclMjB0byUyMGNvbmRpdGlvbmFsJTIwUkNFJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDM5NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNiUzQTMzJTNBNDUlMjAlMkIwMDAw",
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "pubDate": "Tue, 22 Sep 2026 16:33:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmNsYXVkZS1vcHVzLTUtNSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZjbGF1ZGUtb3B1cy01LTUlN0NDbGF1ZGUlMjBPcHVzJTIwNS41JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDM4OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNiUzQTI5JTNBMDUlMjAlMkIwMDAw",
+      "title": "Claude Opus 5.5",
+      "pubDate": "Tue, 22 Sep 2026 16:29:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaS1yZXRlLXJhZy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmFpLXJldGUtcmFnLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEFJJUMyJUI3cmV0ZSVDMiVCN1JBRyUyMCVFMiU4MCU5MyUyMGElMjBSZXRlJTIwcnVsZSUyMGVuZ2luZSUyMGRlY2lkZXMlMkMlMjBSQUclMjBleHBsYWlucyUyMHdoeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODAzNjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTYlM0ExNSUzQTA2JTIwJTJCMDAwMA",
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "pubDate": "Tue, 22 Sep 2026 16:15:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGxwb2V0cnkuY29tJTJGMTYtYml0LUludGVsLTgwODgtY2hpcCU3Q2h0dHBzJTNBJTJGJTJGYWxscG9ldHJ5LmNvbSUyRjE2LWJpdC1JbnRlbC04MDg4LWNoaXAlN0MxNi1iaXQlMjBJbnRlbCUyMDgwODglMjBjaGlwJTIwKGMuJTIwMTk4NSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwMzYzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDE2JTNBMTElM0EzNCUyMCUyQjAwMDA",
+      "title": "16-bit Intel 8088 chip (c. 1985)",
+      "pubDate": "Tue, 22 Sep 2026 16:11:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW5pbWF4aXIuY29tJTJGMjAyNiUyRjA5JTJGYWdlbnRpYy1pdGVyYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRm1pbmltYXhpci5jb20lMkYyMDI2JTJGMDklMkZhZ2VudGljLWl0ZXJhdGlvbiUyRiU3Q1dyaXRpbmclMjBSdXN0JTIwY29kZSUyMHRoYXQncyUyMGZhc3QlMjBieSUyMGFza2luZyUyMGFnZW50cyUyMHRvJTIwbWFrZSUyMHRoZSUyMGNvZGUlMjBmYXN0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwMzA4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDE1JTNBMzglM0EyNCUyMCUyQjAwMDA",
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "pubDate": "Tue, 22 Sep 2026 15:38:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGR2VuZXJhbC1JbnN0aW5jdCUyRkluc3RpbmN0Rmxhc2glN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZHZW5lcmFsLUluc3RpbmN0JTJGSW5zdGluY3RGbGFzaCU3Q1Nob3clMjBITiUzQSUyMEluc3RpbmN0Rmxhc2glMjAlRTIlODAlOTMlMjBSdW4lMjA1QiUyMHdvcmxkLWFjdGlvbiUyMG1vZGVscyUyMGluJTIwcmVhbCUyMHRpbWUlMjBvbiUyMEpldHNvbiUyMFRob3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwMjc4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDE1JTNBMjAlM0EwNiUyMCUyQjAwMDA",
+      "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+      "pubDate": "Tue, 22 Sep 2026 15:20:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmN0dXJ1cy1sYWJzLmNvbSUyRmJsb2clMkYyMDI2JTJGMDklMkYyMSUyRndpbGwtb3BlbmFpLWVhdC1qZXZzLWx1bmNoJTJGJTdDaHR0cHMlM0ElMkYlMkZhcmN0dXJ1cy1sYWJzLmNvbSUyRmJsb2clMkYyMDI2JTJGMDklMkYyMSUyRndpbGwtb3BlbmFpLWVhdC1qZXZzLWx1bmNoJTJGJTdDT3BlbkFJJTIwaXMlMjB3ZWxsJTIwcG9zaXRpb25lZCUyMHRvJTIwZmFzdC1mb2xsb3clMjBKZXYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwMjE2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDE0JTNBNDIlM0E1OSUyMCUyQjAwMDA",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "pubDate": "Tue, 22 Sep 2026 14:42:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHJhZGFyLmNvbSUyRnBob25lcyUyRmlwaG9uZSUyRmktd2lzaC1hcHBsZS13b3VsZC1qdXN0LXN0b3AtdGhhdC1jcmFwLWFwcGxlLWhhcy1hZGRlZC1wZXJzaXN0ZW50LWFkcy10by1pb3MtYW5kLWl0cy1kcml2aW5nLXVzZXJzLWNyYXp5JTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaHJhZGFyLmNvbSUyRnBob25lcyUyRmlwaG9uZSUyRmktd2lzaC1hcHBsZS13b3VsZC1qdXN0LXN0b3AtdGhhdC1jcmFwLWFwcGxlLWhhcy1hZGRlZC1wZXJzaXN0ZW50LWFkcy10by1pb3MtYW5kLWl0cy1kcml2aW5nLXVzZXJzLWNyYXp5JTdDQXBwbGUlMjBoYXMlMjBhZGRlZCUyMHBlcnNpc3RlbnQlMjAnYWRzJyUyMHRvJTIwaU9TJTJDJTIwYW5kJTIwaXQncyUyMGRyaXZpbmclMjB1c2VycyUyMGNyYXp5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDE5MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNCUzQTMwJTNBMTIlMjAlMkIwMDAw",
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "pubDate": "Tue, 22 Sep 2026 14:30:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcm9wcnVuLnNoJTJGJTdDaHR0cHMlM0ElMkYlMkZkcm9wcnVuLnNoJTJGJTdDU2hvdyUyMEhOJTNBJTIwRHJvcCUyMCVFMiU4MCU5MyUyMEElMjByb290bGVzcyUyMExpbnV4JTIwc2FuZGJveCUyMHdpdGglMjBnVmlzb3IlMjBzdXBwb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDEzMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxMyUzQTUyJTNBNDclMjAlMkIwMDAw",
+      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+      "pubDate": "Tue, 22 Sep 2026 13:52:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3J5cHRvY2VsbGFyLm9yZyUyRmJnYWMlMkZ0aGUtbXZ1ZWgtYnJlYWsuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNyeXB0b2NlbGxhci5vcmclMkZiZ2FjJTJGdGhlLW12dWVoLWJyZWFrLmh0bWwlN0NPcGVuQUklMjBHUFQlRTIlODAlOTM2JTIwQXN0cmElMjBicmVha3MlMjBFbmlnbWElMjBtZXNzYWdlJTIwdGhhdCUyMGhhcyUyMHJlc2lzdGVkJTIwc29sdXRpb24lMjBzaW5jZSUyMDIwMDUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwMTMyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDEzJTNBNTIlM0ExNSUyMCUyQjAwMDA",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "pubDate": "Tue, 22 Sep 2026 13:52:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhLm9ybm4uY29tJTJGcHVibGljYXRpb25zJTJGdGhlLWVjb25vbWljcy1vZi1vcGVuLXdlaWdodC1pbmZlcmVuY2UlN0NodHRwcyUzQSUyRiUyRmRhdGEub3Jubi5jb20lMkZwdWJsaWNhdGlvbnMlMkZ0aGUtZWNvbm9taWNzLW9mLW9wZW4td2VpZ2h0LWluZmVyZW5jZSU3Q1RoZSUyMEVjb25vbWljcyUyMG9mJTIwT3Blbi1XZWlnaHQlMjBJbmZlcmVuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwMTIxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDEzJTNBNDUlM0EzMiUyMCUyQjAwMDA",
+      "title": "The Economics of Open-Weight Inference",
+      "pubDate": "Tue, 22 Sep 2026 13:45:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE1MzY5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE1MzY5JTdDVHJhaW5pbmclMjBhJTIwbW9kZWwlMjB0byUyMGlkZW50aWZ5JTIwQUktZ2VuZXJhdGVkJTIwd2ViJTIwY29udGVudCUyMGZyb20lMjBzdHJ1Y3R1cmUlMjBhbG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODAwNTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTMlM0EwMCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Training a model to identify AI-generated web content from structure alone",
+      "pubDate": "Tue, 22 Sep 2026 13:00:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
     }
   ]

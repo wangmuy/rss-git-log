@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 59,
-    "generatedAt": "2026-09-22T13:28:23.508Z"
+    "itemCount": 63,
+    "generatedAt": "2026-09-22T19:46:52.465Z"
   },
   "items": [
     {
@@ -360,6 +360,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZncmVnb3J5Z3VuZGVyc2VuLmNvbSUyRmJsb2clMkYyMDI0JTJGMTIlMkYyMSUyRmVuZ2luZWVyaW5nLW1lbW9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JlZ29yeWd1bmRlcnNlbi5jb20lMkZibG9nJTJGMjAyNCUyRjEyJTJGMjElMkZlbmdpbmVlcmluZy1tZW1vcnklMkYlN0NFbmdpbmVlcmluZyUyME1lbW9yeSUzQSUyME9uJTIwbGVhcm5pbmclMjB0byUyMG1lbW9yaXplJTIwZmlyc3QlMjAxMDAlMjBkaWdpdHMlMjBvZiUyMHBpJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODUyMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAwOSUzQTU2JTNBMzQlMjAlMkIwMDAw",
       "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
       "pubDate": "Mon, 21 Sep 2026 09:56:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2xpdGFpcmVhbG9uZXRvZ2V0aGVyLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc29saXRhaXJlYWxvbmV0b2dldGhlci5jb20lMkYlN0NTb2xpdGFpcmUlMjBBbG9uZSUyMFRvZ2V0aGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTQxOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMiUzQTE2JTNBMzQlMjAlMkIwMDAw",
+      "title": "Solitaire Alone Together",
+      "pubDate": "Mon, 21 Sep 2026 22:16:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGYS1zdHVkeS1vZi1zZXF1ZW5jZS13ZWlnaHRpbmctYXQtc2NhbGUlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuamFuZXN0cmVldC5jb20lMkZhLXN0dWR5LW9mLXNlcXVlbmNlLXdlaWdodGluZy1hdC1zY2FsZSUyRiU3Q0ElMjBzdHVkeSUyMG9mJTIwc2VxdWVuY2UlMjB3ZWlnaHRpbmclMjBhdCUyMHNjYWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODgyMjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxNSUzQTAzJTNBMzMlMjAlMkIwMDAw",
+      "title": "A study of sequence weighting at scale",
+      "pubDate": "Mon, 21 Sep 2026 15:03:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tb25lZGdlLm9yZyUyRmdlb3JnZS1sdWNhcy1yZXR1cm5zLXRvLWVhcnRoLWJlYXJpbmctZ2lmdHMlMkYlN0NodHRwcyUzQSUyRiUyRmNvbW1vbmVkZ2Uub3JnJTJGZ2VvcmdlLWx1Y2FzLXJldHVybnMtdG8tZWFydGgtYmVhcmluZy1naWZ0cyUyRiU3Q0dlb3JnZSUyMEx1Y2FzJTIwUmV0dXJucyUyMHRvJTIwRWFydGglMkMlMjBCZWFyaW5nJTIwR2lmdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NzE2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDEzJTNBNDAlM0EwMyUyMCUyQjAwMDA",
+      "title": "George Lucas Returns to Earth, Bearing Gifts",
+      "pubDate": "Mon, 21 Sep 2026 13:40:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaXNoLm9ic2lkaWFuLm1kJTJGaDFtMyUyRkFydGljbGVzJTJGUmVsYXRpdmlzdGljJTJCcmF5dHJhY2luZyU3Q2h0dHBzJTNBJTJGJTJGcHVibGlzaC5vYnNpZGlhbi5tZCUyRmgxbTMlMkZBcnRpY2xlcyUyRlJlbGF0aXZpc3RpYyUyQnJheXRyYWNpbmclN0NSZWxhdGl2aXN0aWMlMjByYXl0cmFjaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODI0NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAwMiUzQTM5JTNBNTklMjAlMkIwMDAw",
+      "title": "Relativistic raytracing",
+      "pubDate": "Mon, 21 Sep 2026 02:39:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]
