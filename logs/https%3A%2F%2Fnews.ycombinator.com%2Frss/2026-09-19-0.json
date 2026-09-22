@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-19",
     "newestItemDate": "2026-09-19",
-    "itemCount": 38,
-    "generatedAt": "2026-09-21T05:06:42.637Z"
+    "itemCount": 40,
+    "generatedAt": "2026-09-22T05:08:39.323Z"
   },
   "items": [
     {
@@ -234,6 +234,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhZ3ViYmUuc2UlMkZjcnQlMkYlN0NodHRwcyUzQSUyRiUyRmRhdGFndWJiZS5zZSUyRmNydCUyRiU3Q1RoZSUyMEVmZmVjdCUyMG9mJTIwQ1JUcyUyMG9uJTIwUGl4ZWwlMjBBcnQlMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc2ODMzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE5JTIwU2VwJTIwMjAyNiUyMDE3JTNBMTQlM0E1MSUyMCUyQjAwMDA",
       "title": "The Effect of CRTs on Pixel Art (2024)",
       "pubDate": "Sat, 19 Sep 2026 17:14:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29wcGVyLXJvYm90aWNzLmNvbSUyRndoYXRzLW5ldyUyRmNvcHBlci0xMi1saXZlLXRlbGVtZXRyeS1hbmQtcmVwbGF5YWJsZS1sb2dzLW92ZXItYS1sb3NzeS1vbmUtd2F5LWNvbm5lY3Rpb24td2l0aC10d2lubmluZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvcHBlci1yb2JvdGljcy5jb20lMkZ3aGF0cy1uZXclMkZjb3BwZXItMTItbGl2ZS10ZWxlbWV0cnktYW5kLXJlcGxheWFibGUtbG9ncy1vdmVyLWEtbG9zc3ktb25lLXdheS1jb25uZWN0aW9uLXdpdGgtdHdpbm5pbmclN0NDb3BwZXItUnMlM0ElMjBMaXZlJTIwVGVsZW1ldHJ5JTIwRGV0ZXJtaW5pc3RpYyUyMFR3aW5zJTIwZm9yJTIwUm9ib3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzEwOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxOSUyMFNlcCUyMDIwMjYlMjAyMyUzQTQ0JTNBMDclMjAlMkIwMDAw",
+      "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
+      "pubDate": "Sat, 19 Sep 2026 23:44:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYWJyaWVsb2MuY29tJTJGMjAyNiUyRjA5JTJGMTUlMkZwZXJzcGVjdGl2ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZnYWJyaWVsb2MuY29tJTJGMjAyNiUyRjA5JTJGMTUlMkZwZXJzcGVjdGl2ZS5odG1sJTdDRGl2aWRlJTIwYnklMjBkZXB0aCUyMGZvciUyMGluc3RhbnQlMjAzRCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzY5NTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTklMjBTZXAlMjAyMDI2JTIwMTklM0E0MyUzQTEzJTIwJTJCMDAwMA",
+      "title": "Divide by depth for instant 3D",
+      "pubDate": "Sat, 19 Sep 2026 19:43:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-19-0.json"
     }
   ]

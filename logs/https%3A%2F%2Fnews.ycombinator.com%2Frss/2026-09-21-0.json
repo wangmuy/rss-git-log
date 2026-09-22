@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 48,
-    "generatedAt": "2026-09-21T20:27:52.091Z"
+    "itemCount": 57,
+    "generatedAt": "2026-09-22T05:08:39.322Z"
   },
   "items": [
     {
@@ -294,6 +294,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGcHl0aG9uLXdvcmtlcnMtZ2ElMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZweXRob24td29ya2Vycy1nYSUyRiU3Q1B5dGhvbiUyMFdvcmtlcnMlMjBhcmUlMjBub3clMjBnZW5lcmFsbHklMjBhdmFpbGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4NzE0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDEzJTNBMzglM0ExOSUyMCUyQjAwMDA",
       "title": "Python Workers are now generally available",
       "pubDate": "Mon, 21 Sep 2026 13:38:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMDk0NTc1JTJGMjM4NWU5ODU4MzcxNWMyYiUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTA5NDU3NSUyRjIzODVlOTg1ODM3MTVjMmIlMkYlN0NMb29raW5nJTIwZm9yd2FyZCUyMHRvJTIwR2l0JTIwMi41NiUyMCVFMiU4MCU5MyUyMGFuZCUyMDMuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk0NzM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMjMlM0ExNiUzQTUxJTIwJTJCMDAwMA",
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "pubDate": "Mon, 21 Sep 2026 23:16:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmFuZC5pbyUyRmFydGljbGUlMkZzcHltYXJrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJhbmQuaW8lMkZhcnRpY2xlJTJGc3B5bWFya3MlMkYlN0NTcHltYXJrcyUyQyUyME5vdCUyMFdhdGVybWFya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5NDYxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDIzJTNBMDMlM0E0OSUyMCUyQjAwMDA",
+      "title": "Spymarks, Not Watermarks",
+      "pubDate": "Mon, 21 Sep 2026 23:03:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvbGluYnJlY2suY29tJTJGaS1kb250LXdhbnQtdG8tcmVhZC13aGF0LXlvdS1kaWRudC13cml0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jb2xpbmJyZWNrLmNvbSUyRmktZG9udC13YW50LXRvLXJlYWQtd2hhdC15b3UtZGlkbnQtd3JpdGUlMkYlN0NJJTIwZG9uJ3QlMjB3YW50JTIwdG8lMjByZWFkJTIwd2hhdCUyMHlvdSUyMGRpZG4ndCUyMHdyaXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTQzMzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMiUzQTMwJTNBNDElMjAlMkIwMDAw",
+      "title": "I don't want to read what you didn't write",
+      "pubDate": "Mon, 21 Sep 2026 22:30:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW1vLnhpYW9taS5jb20lMkZtaW1vLXYyLTYlN0NodHRwcyUzQSUyRiUyRm1pbW8ueGlhb21pLmNvbSUyRm1pbW8tdjItNiU3Q01pTW8lMjB2Mi42JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTI3MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMCUzQTEyJTNBMTIlMjAlMkIwMDAw",
+      "title": "MiMo v2.6",
+      "pubDate": "Mon, 21 Sep 2026 20:12:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRm5hc2Etcy1tYXJzLXNhbXBsZS1yZXR1cm4tbWlzc2lvbi1kZWFkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRm5hc2Etcy1tYXJzLXNhbXBsZS1yZXR1cm4tbWlzc2lvbi1kZWFkJTdDTkFTQSVFMiU4MCU5OXMlMjBNYXJzJTIwU2FtcGxlJTIwUmV0dXJuJTIwbWlzc2lvbiUyMGlzJTIwZGVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzkxOTM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTklM0ExNCUzQTEyJTIwJTJCMDAwMA",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "pubDate": "Mon, 21 Sep 2026 19:14:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmhlcm1lcy1zaG9ydHdhdmUtcmFkaW8tZGlnaXRhbC1kYXRhJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmhlcm1lcy1zaG9ydHdhdmUtcmFkaW8tZGlnaXRhbC1kYXRhJTdDSEVSTUVTJTIwcmFkaW8lMjBlbmFibGVzJTIwdm9pY2UlMjBhbmQlMjBkYXRhJTIwY29tbXVuaWNhdGlvbiUyMG92ZXIlMjB2YXN0JTIwZGlzdGFuY2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODkyMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxNiUzQTE0JTNBMTYlMjAlMkIwMDAw",
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "pubDate": "Mon, 21 Sep 2026 16:14:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmFjdGljYWwuZW5naW5lZXJpbmclMkZibG9nJTJGMjAxOSUyRjUlMkYxMSUyRmhvdy1kby10cmFmZmljLXNpZ25hbHMtd29yayU3Q2h0dHBzJTNBJTJGJTJGcHJhY3RpY2FsLmVuZ2luZWVyaW5nJTJGYmxvZyUyRjIwMTklMkY1JTJGMTElMkZob3ctZG8tdHJhZmZpYy1zaWduYWxzLXdvcmslN0NIb3clMjBkbyUyMHRyYWZmaWMlMjBzaWduYWxzJTIwd29yayUzRiUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg5MDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTYlM0EwNiUzQTQ0JTIwJTJCMDAwMA",
+      "title": "How do traffic signals work? (2019)",
+      "pubDate": "Mon, 21 Sep 2026 16:06:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2RxdWVzdC5jb20lMkZsaWJyYXJ5JTJGZmlyc3Rfc2hhZGVyX2dvZG90NF9wb3J0YWwlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5nZHF1ZXN0LmNvbSUyRmxpYnJhcnklMkZmaXJzdF9zaGFkZXJfZ29kb3Q0X3BvcnRhbCUyRiU3Q0ZpcnN0JTIwU2hhZGVyJTIwZnJvbSUyMFplcm8lMjBpbiUyMEdvZG90JTIwNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg1NjA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTAlM0E1NyUzQTQ0JTIwJTJCMDAwMA",
+      "title": "First Shader from Zero in Godot 4",
+      "pubDate": "Mon, 21 Sep 2026 10:57:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9uZ251Lm9yZyUyRnR4ciUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vbmdudS5vcmclMkZ0eHIlMkYlN0NUWFIlM0ElMjBBbiUyME9yaWdpbmFsJTJDJTIwTmV3JTIwUHJvZ3JhbW1pbmclMjBMYW5ndWFnZSUyMGZvciUyMENvbnZlbmllbnQlMjBEYXRhJTIwTXVuZ2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgzMjc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMDUlM0EwOSUzQTA4JTIwJTJCMDAwMA",
+      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+      "pubDate": "Mon, 21 Sep 2026 05:09:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]

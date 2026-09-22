@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-20",
     "newestItemDate": "2026-09-20",
-    "itemCount": 43,
-    "generatedAt": "2026-09-21T15:09:51.051Z"
+    "itemCount": 48,
+    "generatedAt": "2026-09-22T05:08:39.323Z"
   },
   "items": [
     {
@@ -264,6 +264,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYWhhcnNoaXAuY29tJTJGYmxvZyUyRndoeS1tY3Atd2FzLWFsd2F5cy1hLWJhZC1pZGVhJTJGJTdDaHR0cHMlM0ElMkYlMkZtYWhhcnNoaXAuY29tJTJGYmxvZyUyRndoeS1tY3Atd2FzLWFsd2F5cy1hLWJhZC1pZGVhJTJGJTdDTUNQJTIwd2FzJTIwYWx3YXlzJTIwYSUyMGJhZCUyMGlkZWElM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3OTMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE5JTNBNDQlM0E0MCUyMCUyQjAwMDA",
       "title": "MCP was always a bad idea?",
       "pubDate": "Sun, 20 Sep 2026 19:44:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodW50ZXJ3b3Jrcy5zb2Z0d2FyZSUyRnRlYXJkb3ducyUyRnJ1c3QtaW4td2luZG93cy0xMSU3Q2h0dHBzJTNBJTJGJTJGaHVudGVyd29ya3Muc29mdHdhcmUlMkZ0ZWFyZG93bnMlMkZydXN0LWluLXdpbmRvd3MtMTElN0NXaGVyZSUyMFJ1c3QlMjBhY3R1YWxseSUyMGlzJTIwaW4lMjBXaW5kb3dzJTIwMTElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4MTEwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDIzJTNBMTMlM0EyNyUyMCUyQjAwMDA",
+      "title": "Where Rust actually is in Windows 11",
+      "pubDate": "Sun, 20 Sep 2026 23:13:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cnVtYW53b3JsZC5saXZlJTdDaHR0cHMlM0ElMkYlMkZ0cnVtYW53b3JsZC5saXZlJTJGJTdDVHJ1bWFuJTIwV29ybGQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NzYwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE2JTNBNTglM0EzNCUyMCUyQjAwMDA",
+      "title": "Truman World",
+      "pubDate": "Sun, 20 Sep 2026 16:58:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZibG9nJTJGMjAyMiUyRnBkZi1mb3JnZXJ5JTdDaHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZibG9nJTJGMjAyMiUyRnBkZi1mb3JnZXJ5JTdDUERGJTIwRm9yZ2VyaWVzJTIwQXJlJTIwU3VycHJpc2luZ2x5JTIwUmFyZSUyMCgyMDIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc0MjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMDklM0E1NyUzQTM1JTIwJTJCMDAwMA",
+      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "pubDate": "Sun, 20 Sep 2026 09:57:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aXphcmR6aW5lcy5jb20lMkZjb21pY3MlMkZmbG9hdGluZy1wb2ludC1hbHRlcm5hdGl2ZXMlMkYlN0NodHRwcyUzQSUyRiUyRndpemFyZHppbmVzLmNvbSUyRmNvbWljcyUyRmZsb2F0aW5nLXBvaW50LWFsdGVybmF0aXZlcyUyRiU3Q01vcmUlMjBmbG9hdGluZyUyMHBvaW50JTIwYWx0ZXJuYXRpdmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NzE1NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMCUyMFNlcCUyMDIwMjYlMjAwMCUzQTU1JTNBMjclMjAlMkIwMDAw",
+      "title": "More floating point alternatives",
+      "pubDate": "Sun, 20 Sep 2026 00:55:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9seWhlZHJhLm5ldCUyRmVuJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucG9seWhlZHJhLm5ldCUyRmVuJTJGJTdDUGFwZXIlMjBNb2RlbHMlMjBvZiUyMFBvbHloZWRyYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzcxMzg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMDAlM0EyOCUzQTMzJTIwJTJCMDAwMA",
+      "title": "Paper Models of Polyhedra",
+      "pubDate": "Sun, 20 Sep 2026 00:28:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
     }
   ]
