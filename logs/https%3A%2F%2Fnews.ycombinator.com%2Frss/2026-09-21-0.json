@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 57,
-    "generatedAt": "2026-09-22T05:08:39.322Z"
+    "itemCount": 59,
+    "generatedAt": "2026-09-22T13:28:23.508Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9uZ251Lm9yZyUyRnR4ciUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vbmdudS5vcmclMkZ0eHIlMkYlN0NUWFIlM0ElMjBBbiUyME9yaWdpbmFsJTJDJTIwTmV3JTIwUHJvZ3JhbW1pbmclMjBMYW5ndWFnZSUyMGZvciUyMENvbnZlbmllbnQlMjBEYXRhJTIwTXVuZ2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgzMjc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMDUlM0EwOSUzQTA4JTIwJTJCMDAwMA",
       "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
       "pubDate": "Mon, 21 Sep 2026 05:09:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmemFrYXJpYS5jb20lMkYyMDI2JTJGMDklMkYyMCUyRmEtYnVpbGQtZ3JhcGgtdGhhdC1yb2xscy1kaWNlJTdDaHR0cHMlM0ElMkYlMkZmemFrYXJpYS5jb20lMkYyMDI2JTJGMDklMkYyMCUyRmEtYnVpbGQtZ3JhcGgtdGhhdC1yb2xscy1kaWNlJTdDQSUyMGJ1aWxkJTIwZ3JhcGglMjB0aGF0JTIwcm9sbHMlMjBkaWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODY2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAxMiUzQTUwJTNBMTMlMjAlMkIwMDAw",
+      "title": "A build graph that rolls dice",
+      "pubDate": "Mon, 21 Sep 2026 12:50:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmVnb3J5Z3VuZGVyc2VuLmNvbSUyRmJsb2clMkYyMDI0JTJGMTIlMkYyMSUyRmVuZ2luZWVyaW5nLW1lbW9yeSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JlZ29yeWd1bmRlcnNlbi5jb20lMkZibG9nJTJGMjAyNCUyRjEyJTJGMjElMkZlbmdpbmVlcmluZy1tZW1vcnklMkYlN0NFbmdpbmVlcmluZyUyME1lbW9yeSUzQSUyME9uJTIwbGVhcm5pbmclMjB0byUyMG1lbW9yaXplJTIwZmlyc3QlMjAxMDAlMjBkaWdpdHMlMjBvZiUyMHBpJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODUyMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAwOSUzQTU2JTNBMzQlMjAlMkIwMDAw",
+      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "pubDate": "Mon, 21 Sep 2026 09:56:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]

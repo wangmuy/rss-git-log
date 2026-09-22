@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-22",
     "newestItemDate": "2026-09-22",
-    "itemCount": 2,
-    "generatedAt": "2026-09-22T05:08:39.322Z"
+    "itemCount": 10,
+    "generatedAt": "2026-09-22T13:28:23.508Z"
   },
   "items": [
     {
@@ -18,6 +18,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3b25kZXJtYXJrLmNvbSUyRnNvY3JhdGVzLXZzLXdyaXRpbmclMkYlN0NodHRwcyUzQSUyRiUyRndvbmRlcm1hcmsuY29tJTJGc29jcmF0ZXMtdnMtd3JpdGluZyUyRiU3Q1NvY3JhdGVzJTIwdnMuJTIwdGhlJTIwV3JpdHRlbiUyMFdvcmQlMjAoMjAxMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5NTEyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDAwJTNBMDYlM0E1NSUyMCUyQjAwMDA",
       "title": "Socrates vs. the Written Word (2011)",
       "pubDate": "Tue, 22 Sep 2026 00:06:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4bi5vcmclMkZibG9nJTJGMjAyNiUyRjA5JTJGMjIlMkZhaS1oYXMtbm8td2lzZG9tLWFuZC1uZWl0aGVyLXdpbGwteW91JTJGJTdDaHR0cHMlM0ElMkYlMkZhbGV4bi5vcmclMkZibG9nJTJGMjAyNiUyRjA5JTJGMjIlMkZhaS1oYXMtbm8td2lzZG9tLWFuZC1uZWl0aGVyLXdpbGwteW91JTJGJTdDQUklMjBIYXMlMjBObyUyMFdpc2RvbSUyMGFuZCUyME5laXRoZXIlMjBXaWxsJTIwWW91JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTk5NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxMiUzQTExJTNBMDklMjAlMkIwMDAw",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "pubDate": "Tue, 22 Sep 2026 12:11:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnB3a2Yub3JnJTJGMjAyNiUyRjA5JTJGMjElMkZjb3JyZWN0LXR5cGUtcHVubmluZy1pbi1jLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cucHdrZi5vcmclMkYyMDI2JTJGMDklMkYyMSUyRmNvcnJlY3QtdHlwZS1wdW5uaW5nLWluLWMuaHRtbCU3Q1R5cGUlMjBQdW5uaW5nJTIwaW4lMjBDJTIwYW5kJTIwQyUyQiUyQiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk5NTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTElM0EyOSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Type Punning in C and C++",
+      "pubDate": "Tue, 22 Sep 2026 11:29:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJpc3RvbC5hYy51ayUyRm5ld3MlMkYyMDI2JTJGc2VwdGVtYmVyJTJGd29ybGQtY3VwLXZpZXdlcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJyaXN0b2wuYWMudWslMkZuZXdzJTJGMjAyNiUyRnNlcHRlbWJlciUyRndvcmxkLWN1cC12aWV3ZXJzLmh0bWwlN0M5JTIwQWRzJTIwcGVyJTIwTWludXRlJTNBJTIwRklGQSUyMEN1cCUyMDI2JTIwJUUyJTgwJTkzJTIwJTIydGhlJTIwcHJpY2UlMjBvZiUyMHRoZSUyMGJlYXV0aWZ1bCUyMGdhbWUlMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5OTA4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDEwJTNBMzYlM0E0NCUyMCUyQjAwMDA",
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "pubDate": "Tue, 22 Sep 2026 10:36:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXJkYS5jb20lMkZibG9nJTJGd2hhdC0xODltLWluLWZ1bmRpbmctdW5sb2Nrcy1mb3ItdmVyZGEtY3VzdG9tZXJzJTdDaHR0cHMlM0ElMkYlMkZ2ZXJkYS5jb20lMkZibG9nJTJGd2hhdC0xODltLWluLWZ1bmRpbmctdW5sb2Nrcy1mb3ItdmVyZGEtY3VzdG9tZXJzJTdDVmVyZGElMjAoRmlubGFuZCklMjByYWlzZXMlMjAlMjQxODlNJTIwaW4lMjBTZXJpZXMlMjBCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTg1OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAwOSUzQTM2JTNBMzElMjAlMkIwMDAw",
+      "title": "Verda (Finland) raises $189M in Series B",
+      "pubDate": "Tue, 22 Sep 2026 09:36:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib2FyZC5mbGF0YXNzZW1ibGVyLm5ldCUyRnRvcGljLnBocCUzRnQlM0QyNDI2MSU3Q2h0dHBzJTNBJTJGJTJGYm9hcmQuZmxhdGFzc2VtYmxlci5uZXQlMkZ0b3BpYy5waHAlM0Z0JTNEMjQyNjElN0NBTUQncyUyMHJhbmRvbSUyMG51bWJlciUyMGdlbmVyYXRvciUyMGNhbid0JTIwZ2VuZXJhdGUlMjBhJTIwMCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk4MjA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMDglM0EzOSUzQTQzJTIwJTJCMDAwMA",
+      "title": "AMD's random number generator can't generate a 0?",
+      "pubDate": "Tue, 22 Sep 2026 08:39:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYnVzaGVsbC5jb20lMkYyMDI2JTJGMDklMkYyMiUyRmFwcGxlLWludGVsbGlnZW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGJ1c2hlbGwuY29tJTJGMjAyNiUyRjA5JTJGMjIlMkZhcHBsZS1pbnRlbGxpZ2VuY2UlMkYlN0NJJTIwc2FpZCUyMG5vJTIwYW5kJTIwQXBwbGUlMjBzYWlkJTIweWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTc5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAwOCUzQTA0JTNBNTUlMjAlMkIwMDAw",
+      "title": "I said no and Apple said yes",
+      "pubDate": "Tue, 22 Sep 2026 08:04:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXRoYW4ucnMlMkZwb3N0cyUyRmd6aXAtbG0lMkYlN0NodHRwcyUzQSUyRiUyRm5hdGhhbi5ycyUyRnBvc3RzJTJGZ3ppcC1sbSUyRiU3Q0NhbiUyMGd6aXAlMjBiZSUyMGElMjBsYW5ndWFnZSUyMG1vZGVsJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTczMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAwNiUzQTA4JTNBMzklMjAlMkIwMDAw",
+      "title": "Can gzip be a language model?",
+      "pubDate": "Tue, 22 Sep 2026 06:08:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZtaW1vLXYyLTYtcHJvJTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZtaW1vLXYyLTYtcHJvJTdDTWlNby12Mi42LVBybyUzQSUyMEludGVsbGlnZW5jZSUyQyUyMFBlcmZvcm1hbmNlJTIwYW5kJTIwUHJpY2UlMjBBbmFseXNpcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk2NjYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMDQlM0EwMiUzQTA5JTIwJTJCMDAwMA",
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "pubDate": "Tue, 22 Sep 2026 04:02:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
     }
   ]
