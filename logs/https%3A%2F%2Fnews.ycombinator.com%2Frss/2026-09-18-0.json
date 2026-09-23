@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-18",
     "newestItemDate": "2026-09-18",
-    "itemCount": 51,
-    "generatedAt": "2026-09-20T18:52:42.541Z"
+    "itemCount": 52,
+    "generatedAt": "2026-09-23T04:52:55.714Z"
   },
   "items": [
     {
@@ -312,6 +312,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZudWxscHJvZ3JhbS5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGMTclMkYlN0NodHRwcyUzQSUyRiUyRm51bGxwcm9ncmFtLmNvbSUyRmJsb2clMkYyMDI2JTJGMDklMkYxNyUyRiU3Q0ElMjBjdXN0b20lMjB2aXJ0dWFsJTIwbWFjaGluZSUyMGZvciUyMHRoZSUyMFN0YXJzJTIwNFglMjBnYW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3NTUzNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxOCUyMFNlcCUyMDIwMjYlMjAxNSUzQTAxJTNBMjYlMjAlMkIwMDAw",
       "title": "A custom virtual machine for the Stars 4X game",
       "pubDate": "Fri, 18 Sep 2026 15:01:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZW1pcmUubWUlMkZibG9nJTJGMjAyNiUyRjA5JTJGMTglMkZob3ctZGlkLWFtZC1yeXplbi1nZXQtNTAtZmFzdGVyLWluLXR3by15ZWFycyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVtaXJlLm1lJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjE4JTJGaG93LWRpZC1hbWQtcnl6ZW4tZ2V0LTUwLWZhc3Rlci1pbi10d28teWVhcnMlMkYlN0NIb3clMjBkaWQlMjBBTUQlMjBSeXplbiUyMGdldCUyMDUwJTI1JTIwZmFzdGVyJTIwaW4lMjB0d28lMjB5ZWFycyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzU4NzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTglMjBTZXAlMjAyMDI2JTIwMTklM0EwMSUzQTAzJTIwJTJCMDAwMA",
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "pubDate": "Fri, 18 Sep 2026 19:01:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-18-0.json"
     }
   ]

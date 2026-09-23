@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 63,
-    "generatedAt": "2026-09-22T19:46:52.465Z"
+    "itemCount": 67,
+    "generatedAt": "2026-09-23T04:52:55.713Z"
   },
   "items": [
     {
@@ -384,6 +384,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaXNoLm9ic2lkaWFuLm1kJTJGaDFtMyUyRkFydGljbGVzJTJGUmVsYXRpdmlzdGljJTJCcmF5dHJhY2luZyU3Q2h0dHBzJTNBJTJGJTJGcHVibGlzaC5vYnNpZGlhbi5tZCUyRmgxbTMlMkZBcnRpY2xlcyUyRlJlbGF0aXZpc3RpYyUyQnJheXRyYWNpbmclN0NSZWxhdGl2aXN0aWMlMjByYXl0cmFjaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3ODI0NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAwMiUzQTM5JTNBNTklMjAlMkIwMDAw",
       "title": "Relativistic raytracing",
       "pubDate": "Mon, 21 Sep 2026 02:39:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwc3ljaGUuY28lMkZ0dXJuaW5nLXBvaW50cyUyRmhpcy1mcmFpbHR5LW1hZGUtb3p6eXMtZmluYWwtZ2lnLXRydWUtaGVhdnktbWV0YWwlN0NodHRwcyUzQSUyRiUyRnBzeWNoZS5jbyUyRnR1cm5pbmctcG9pbnRzJTJGaGlzLWZyYWlsdHktbWFkZS1venp5cy1maW5hbC1naWctdHJ1ZS1oZWF2eS1tZXRhbCU3Q1RoZSUyMFNvZnRuZXNzJTIwb2YlMjBNZXRhbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk1MDUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMjMlM0E1OSUzQTEwJTIwJTJCMDAwMA",
+      "title": "The Softness of Metal",
+      "pubDate": "Mon, 21 Sep 2026 23:59:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmdpbmVlcmluZy5mYi5jb20lMkYyMDIyJTJGMDUlMkYwNCUyRmRhdGEtaW5mcmFzdHJ1Y3R1cmUlMkZkZWx0YSUyRiU3Q2h0dHBzJTNBJTJGJTJGZW5naW5lZXJpbmcuZmIuY29tJTJGMjAyMiUyRjA1JTJGMDQlMkZkYXRhLWluZnJhc3RydWN0dXJlJTJGZGVsdGElMkYlN0NEZWx0YSUzQSUyMEhpZ2hseSUyMGF2YWlsYWJsZSUyQyUyMHN0cm9uZ2x5JTIwY29uc2lzdGVudCUyMHN0b3JhZ2UlMjB1c2luZyUyMGNoYWluJTIwcmVwbGljYXRpb24lMjAoMjAyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5NDg0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDIzJTNBMjklM0E0MiUyMCUyQjAwMDA",
+      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+      "pubDate": "Mon, 21 Sep 2026 23:29:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodG14Lm9yZyUyRmVzc2F5cyUyRm1hcmtkb3duLWluLXNyYyUyRiU3Q2h0dHBzJTNBJTJGJTJGaHRteC5vcmclMkZlc3NheXMlMkZtYXJrZG93bi1pbi1zcmMlMkYlN0NNYXJrZG93biUyMGluJTIwJTJGc3JjJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTQ0NzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMiUzQTQ3JTNBNTQlMjAlMkIwMDAw",
+      "title": "Markdown in /src",
+      "pubDate": "Mon, 21 Sep 2026 22:47:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeEN1cmkwJTJGUmVCYXJVRUZJJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeEN1cmkwJTJGUmVCYXJVRUZJJTdDUmVCYXJVRUZJJTNBJTIwUmVzaXphYmxlJTIwQkFSJTIwZm9yJTIwYWxtb3N0JTIwYW55JTIwVUVGSSUyMHN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgxODYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMDElM0EwNyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "pubDate": "Mon, 21 Sep 2026 01:07:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]

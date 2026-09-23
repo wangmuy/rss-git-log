@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-22",
     "newestItemDate": "2026-09-22",
-    "itemCount": 32,
-    "generatedAt": "2026-09-22T19:46:52.465Z"
+    "itemCount": 44,
+    "generatedAt": "2026-09-23T04:52:55.713Z"
   },
   "items": [
     {
@@ -198,6 +198,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE1MzY5JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE1MzY5JTdDVHJhaW5pbmclMjBhJTIwbW9kZWwlMjB0byUyMGlkZW50aWZ5JTIwQUktZ2VuZXJhdGVkJTIwd2ViJTIwY29udGVudCUyMGZyb20lMjBzdHJ1Y3R1cmUlMjBhbG9uZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODAwNTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTMlM0EwMCUzQTQ5JTIwJTJCMDAwMA",
       "title": "Training a model to identify AI-generated web content from structure alone",
       "pubDate": "Tue, 22 Sep 2026 13:00:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJjb25uZWN0cy5haSUyRnAlMkZ0aGUtY3VycmVudC1iYWxhbmNlLW9mLXBvd2VyLWluLW9wZW4lN0NodHRwcyUzQSUyRiUyRnd3dy5pbnRlcmNvbm5lY3RzLmFpJTJGcCUyRnRoZS1jdXJyZW50LWJhbGFuY2Utb2YtcG93ZXItaW4tb3BlbiU3Q1RoZSUyMGN1cnJlbnQlMjBiYWxhbmNlJTIwb2YlMjBwb3dlciUyMGluJTIwb3BlbiUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA4ODE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMjIlM0EwMyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "The current balance of power in open models",
+      "pubDate": "Tue, 22 Sep 2026 22:03:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3hzY3JpcHQub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZmb3hzY3JpcHQub3JnJTJGJTdDTWljcm9zb2Z0JTIwa2lsbGVkJTIwRm94UHJvJTIwaW4lMjAyMDA3LiUyMEFueXdheSUyQyUyMGhlcmUncyUyMEZveFBybyUyMHJldml2ZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwODAyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDIxJTNBMDAlM0EzMCUyMCUyQjAwMDA",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "pubDate": "Tue, 22 Sep 2026 21:00:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2Vhc3RhY2slMkZleGFtcGxlcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmdlYXN0YWNrJTJGZXhhbXBsZXMlN0NOYXRpdmUlMjBhcHBzJTIwd3JpdHRlbiUyMGluJTIwVHlwZVNjcmlwdCUyMGFuZCUyMENTUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA3MDIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTklM0E0MiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Native apps written in TypeScript and CSS",
+      "pubDate": "Tue, 22 Sep 2026 19:42:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvYnNjdXJhLmNvbSUyRiUyM2ZhcS10ZWNobmljYWwlN0NodHRwcyUzQSUyRiUyRm9ic2N1cmEuY29tJTJGJTIzZmFxLXRlY2huaWNhbCU3Q09ic2N1cmElM0ElMjBWUE4lMjB0aGF0JTIwY2FuJ3QlMjBsb2clMjB5b3VyJTIwYWN0aXZpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwNzAwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDE5JTNBNDAlM0EyOCUyMCUyQjAwMDA",
+      "title": "Obscura: VPN that can't log your activity",
+      "pubDate": "Tue, 22 Sep 2026 19:40:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRmdyYXBoaWNzJTJGMjAyNi1pcmFuLXNjaG9vbC1hdHRhY2slMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ibG9vbWJlcmcuY29tJTJGZ3JhcGhpY3MlMkYyMDI2LWlyYW4tc2Nob29sLWF0dGFjayUyRiU3Q1BlbnRhZ29uJTIwc2F5cyUyMG92ZXJyZWxpYW5jZSUyMG9uJTIwQUklMjBjb250cmlidXRlZCUyMHRvJTIwbWlzc2lsZSUyMHN0cmlrZSUyMG9uJTIwSXJhbiUyMHNjaG9vbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA2NDMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTklM0EwMyUzQTM4JTIwJTJCMDAwMA",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "pubDate": "Tue, 22 Sep 2026 19:03:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRyYWlsb2ZiaXRzLmNvbSUyRjIwMjYlMkYwOSUyRjIxJTJGc2FtbC1hLWZyYWN0YWwtb2YtYmFkLWRlc2lnbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy50cmFpbG9mYml0cy5jb20lMkYyMDI2JTJGMDklMkYyMSUyRnNhbWwtYS1mcmFjdGFsLW9mLWJhZC1kZXNpZ24lMkYlN0NTQU1MJTNBJTIwQSUyMGZyYWN0YWwlMjBvZiUyMGJhZCUyMGRlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA2MzM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTglM0E1NyUzQTE3JTIwJTJCMDAwMA",
+      "title": "SAML: A fractal of bad design",
+      "pubDate": "Tue, 22 Sep 2026 18:57:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZ3ZS1oYWNrZWQtdGhlLWZiaS1oYWNrZXJzLXNheS10aGV5LWhhdmUtZGF0YS1vbi1hbGwtZmJpLWVtcGxveWVlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LjQwNG1lZGlhLmNvJTJGd2UtaGFja2VkLXRoZS1mYmktaGFja2Vycy1zYXktdGhleS1oYXZlLWRhdGEtb24tYWxsLWZiaS1lbXBsb3llZXMlMkYlN0MnV2UlMjBoYWNrZWQlMjB0aGUlMjBGQkklM0EnJTIwSGFja2VycyUyMHNheSUyMHRoZXklMjBoYXZlJTIwZGF0YSUyMG9uJTIwYWxsJTIwRkJJJTIwZW1wbG95ZWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDUyNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNyUzQTQ2JTNBMDIlMjAlMkIwMDAw",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "pubDate": "Tue, 22 Sep 2026 17:46:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5jaG1hcmtoZWF2ZW4uY29tJTJGamV2LW1vZGVscyU3Q2h0dHBzJTNBJTJGJTJGYmVuY2htYXJraGVhdmVuLmNvbSUyRmpldi1tb2RlbHMlN0NTaG93JTIwSE4lM0ElMjBKZXZCZW5jaCUyQyUyMGElMjByZXByb2R1Y2libGUlMjBiZW5jaG1hcmslMjBmb3IlMjB0eXBlZCUyMGRlY2lzaW9uJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDA1NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxMyUzQTAxJTNBMDMlMjAlMkIwMDAw",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "pubDate": "Tue, 22 Sep 2026 13:01:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua3FlZC5vcmclMkZzY2llbmNlJTJGMjAwMjAzMyUyRmhlcmVzLXdoYXQtY2FsaWZvcm5pYS1pcy1sZWFybmluZy1mcm9tLXNvbGFyLXBhbmVscy1idWlsdC1vdmVyLWlycmlnYXRpb24tY2FuYWxzJTdDaHR0cHMlM0ElMkYlMkZ3d3cua3FlZC5vcmclMkZzY2llbmNlJTJGMjAwMjAzMyUyRmhlcmVzLXdoYXQtY2FsaWZvcm5pYS1pcy1sZWFybmluZy1mcm9tLXNvbGFyLXBhbmVscy1idWlsdC1vdmVyLWlycmlnYXRpb24tY2FuYWxzJTdDV2hhdCUyMENhbGlmb3JuaWElMjBpcyUyMGxlYXJuaW5nJTIwZnJvbSUyMHNvbGFyJTIwcGFuZWxzJTIwYnVpbHQlMjBvdmVyJTIwaXJyaWdhdGlvbiUyMGNhbmFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk2Mzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMDMlM0ExMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "pubDate": "Tue, 22 Sep 2026 03:10:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXZhbGFwcGx5Lm9yZyUyRnBvc3RzJTJGc2lkZS1zdGVwLXNlY3JldGFyeS1wcm9ibGVtLWhpcmluZyUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ldmFsYXBwbHkub3JnJTJGcG9zdHMlMkZzaWRlLXN0ZXAtc2VjcmV0YXJ5LXByb2JsZW0taGlyaW5nJTJGaW5kZXguaHRtbCU3Q1NpZGUtc3RlcHBpbmclMjB0aGUlMjBTZWNyZXRhcnklMjBQcm9ibGVtJTJDJTIwdW53aXR0aW5nbHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5NjI2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDAyJTNBNDclM0E1MiUyMCUyQjAwMDA",
+      "title": "Side-stepping the Secretary Problem, unwittingly",
+      "pubDate": "Tue, 22 Sep 2026 02:47:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDktMTglMkZ0by1xdWl0LXZhcGluZy1zb21lLWFyZS1zdGFydGluZy10by1zbW9rZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJsb29tYmVyZy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkYyMDI2LTA5LTE4JTJGdG8tcXVpdC12YXBpbmctc29tZS1hcmUtc3RhcnRpbmctdG8tc21va2UlN0NQZW9wbGUlMjBob29rZWQlMjBvbiUyMHZhcGVzJTIwdHJ5JTIwYSUyMG5ldyUyMHdheSUyMHRvJTIwcXVpdCUzQSUyMGNpZ2FyZXR0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5NTY4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDAxJTNBMjElM0EyMCUyMCUyQjAwMDA",
+      "title": "People hooked on vapes try a new way to quit: cigarettes",
+      "pubDate": "Tue, 22 Sep 2026 01:21:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGV3cmVzZWFyY2gub3JnJTJGbWV0aG9kcyUyRjIwMjYlMkYwOCUyRjI3JTJGbm8tZWFzeS1maXgtZm9yLWJvZ3VzLXJlc3BvbmRlbnRzLWluLW9ubGluZS1vcHQtaW4tcG9sbHMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wZXdyZXNlYXJjaC5vcmclMkZtZXRob2RzJTJGMjAyNiUyRjA4JTJGMjclMkZuby1lYXN5LWZpeC1mb3ItYm9ndXMtcmVzcG9uZGVudHMtaW4tb25saW5lLW9wdC1pbi1wb2xscyUyRiU3Q05vJTIwRWFzeSUyMEZpeCUyMGZvciUyMEJvZ3VzJTIwUmVzcG9uZGVudHMlMjBpbiUyME9ubGluZSUyME9wdC1JbiUyMFBvbGxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTUzMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAwMCUzQTMyJTNBNDQlMjAlMkIwMDAw",
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "pubDate": "Tue, 22 Sep 2026 00:32:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
     }
   ]
