@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-22",
     "newestItemDate": "2026-09-22",
-    "itemCount": 44,
-    "generatedAt": "2026-09-23T04:52:55.713Z"
+    "itemCount": 45,
+    "generatedAt": "2026-09-23T13:42:46.811Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGV3cmVzZWFyY2gub3JnJTJGbWV0aG9kcyUyRjIwMjYlMkYwOCUyRjI3JTJGbm8tZWFzeS1maXgtZm9yLWJvZ3VzLXJlc3BvbmRlbnRzLWluLW9ubGluZS1vcHQtaW4tcG9sbHMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wZXdyZXNlYXJjaC5vcmclMkZtZXRob2RzJTJGMjAyNiUyRjA4JTJGMjclMkZuby1lYXN5LWZpeC1mb3ItYm9ndXMtcmVzcG9uZGVudHMtaW4tb25saW5lLW9wdC1pbi1wb2xscyUyRiU3Q05vJTIwRWFzeSUyMEZpeCUyMGZvciUyMEJvZ3VzJTIwUmVzcG9uZGVudHMlMjBpbiUyME9ubGluZSUyME9wdC1JbiUyMFBvbGxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTUzMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAwMCUzQTMyJTNBNDQlMjAlMkIwMDAw",
       "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
       "pubDate": "Tue, 22 Sep 2026 00:32:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHNmenhqeSUyRm5wdW5sb2NrJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHNmenhqeSUyRm5wdW5sb2NrJTdDU2hvdyUyMEhOJTNBJTIwTnB1bmxvY2slMjAlRTIlODAlOTMlMjBSdW4lMjBjdXN0b20lMjBDJTIwa2VybmVscyUyMGZvciUyMEludGVsJTIwTlBVcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODAwNTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTIlM0E1OCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+      "pubDate": "Tue, 22 Sep 2026 12:58:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
     }
   ]

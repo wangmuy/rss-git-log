@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-23",
     "newestItemDate": "2026-09-23",
-    "itemCount": 3,
-    "generatedAt": "2026-09-23T04:52:55.713Z"
+    "itemCount": 19,
+    "generatedAt": "2026-09-23T13:42:46.811Z"
   },
   "items": [
     {
@@ -24,6 +24,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNxajNkZ3k4eDN2cm8lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGY3FqM2RneTh4M3ZybyU3Q1VTJTIwY3JpdGljaXNlcyUyMEF1c3RyYWxpYSdzJTIwcHJvcG9zZWQlMjBhbGdvcml0aG0lMjBvcHQtb3V0JTIwbGF3cyUyMGFzJTIwJ2NlbnNvcnNoaXAnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MTA4MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMyUyMFNlcCUyMDIwMjYlMjAwMiUzQTEzJTNBNTIlMjAlMkIwMDAw",
       "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
       "pubDate": "Wed, 23 Sep 2026 02:13:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNoYWVsaGVhcC5jb20lMkZnaXRodWItd2lraS1pcy1hbi1hbnRpcGF0dGVybiUyRiU3Q2h0dHBzJTNBJTJGJTJGbWljaGFlbGhlYXAuY29tJTJGZ2l0aHViLXdpa2ktaXMtYW4tYW50aXBhdHRlcm4lMkYlN0NUaGUlMjBHaXRIdWIlMjB3aWtpJTIwaXMlMjBhbiUyMGFudGktcGF0dGVybiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODE1NDg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMTMlM0EwNSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "The GitHub wiki is an anti-pattern",
+      "pubDate": "Wed, 23 Sep 2026 13:05:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNoYWVsaGVhcC5jb20lMkZpLWRvbnQtd2FudC10aGUtZGV0YWlscyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWljaGFlbGhlYXAuY29tJTJGaS1kb250LXdhbnQtdGhlLWRldGFpbHMlMkYlN0NJJTIwRG9uJ3QlMjBXYW50JTIwdGhlJTIwRGV0YWlscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODE1NDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMTMlM0EwNCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "I Don't Want the Details",
+      "pubDate": "Wed, 23 Sep 2026 13:04:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW5kcm9pZGF1dGhvcml0eS5jb20lMkZzYW1zdW5nLWFjY2lkZW50YWxseS1mcmVlemVzLWl0cy1zbWFydC1mcmlkZ2VzLXdpdGgtYS1zb2Z0d2FyZS11cGRhdGUtMzcxNDQ3MiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFuZHJvaWRhdXRob3JpdHkuY29tJTJGc2Ftc3VuZy1hY2NpZGVudGFsbHktZnJlZXplcy1pdHMtc21hcnQtZnJpZGdlcy13aXRoLWEtc29mdHdhcmUtdXBkYXRlLTM3MTQ0NzIlMkYlN0NTYW1zdW5nJTIwYWNjaWRlbnRhbGx5JTIwZnJlZXplcyUyMGl0cyUyMHNtYXJ0JTIwZnJpZGdlcyUyMHdpdGglMjBhJTIwc29mdHdhcmUlMjB1cGRhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNTM4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDEyJTNBNTclM0E1OSUyMCUyQjAwMDA",
+      "title": "Samsung accidentally freezes its smart fridges with a software update",
+      "pubDate": "Wed, 23 Sep 2026 12:57:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWduZXJicmFjay5jb20lMkZoZXJlcy13aGF0LWFpLW5hdGl2ZS13aXRoLXN0YWJsZS1pbmZyYS1sb29rcy1saWtlLTlmMTdjZGI2MTQ1OSU3Q2h0dHBzJTNBJTJGJTJGZmFnbmVyYnJhY2suY29tJTJGaGVyZXMtd2hhdC1haS1uYXRpdmUtd2l0aC1zdGFibGUtaW5mcmEtbG9va3MtbGlrZS05ZjE3Y2RiNjE0NTklN0NXaGF0JTIwQUktTmF0aXZlJTIwTG9va3MlMjBMaWtlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MTUzNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMyUyMFNlcCUyMDIwMjYlMjAxMiUzQTU0JTNBMzglMjAlMkIwMDAw",
+      "title": "What AI-Native Looks Like",
+      "pubDate": "Wed, 23 Sep 2026 12:54:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpdmVzZW50aXQuY29tJTdDaHR0cHMlM0ElMkYlMkZpdmVzZW50aXQuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwSXZlJTIwU2VudCUyMEl0JTIwJUUyJTgwJTkzJTIwb25saW5lJTIwY291cmllciUyMGZvciUyMGZpbGVzJTJDJTIwd2l0aCUyMHNpZ25lZCUyMHByb29mJTIwb2YlMjBkZWxpdmVyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODE1MTY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMTIlM0EzNiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+      "pubDate": "Wed, 23 Sep 2026 12:36:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVzaW5lc3NpbnNpZGVyLmNvbSUyRmluc2lkZS1vcGVuLWFpLWluZmx1ZW5jZXItbWFya2V0aW5nLXN0cmF0ZWd5LWNoYXRncHQtYWRzLXNwb25zb3JzaGlwcy1pbnN0YWdyYW0tMjAyNi05JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnVzaW5lc3NpbnNpZGVyLmNvbSUyRmluc2lkZS1vcGVuLWFpLWluZmx1ZW5jZXItbWFya2V0aW5nLXN0cmF0ZWd5LWNoYXRncHQtYWRzLXNwb25zb3JzaGlwcy1pbnN0YWdyYW0tMjAyNi05JTdDT3BlbkFJJTIwaXMlMjBlbmxpc3RpbmclMjBhbiUyMGluZmx1ZW5jZXIlMjBhcm15JTIwdG8lMjBtYWtlJTIwaXQlMjBsb29rJTIwJ2dvb2QlMjBmb3IlMjB0aGUlMjB3b3JsZCclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNTEyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDEyJTNBMzIlM0EwMCUyMCUyQjAwMDA",
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "pubDate": "Wed, 23 Sep 2026 12:32:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWxtc3R1ZGlvLnJ4bGFiLmFwcCU3Q2h0dHBzJTNBJTJGJTJGZmlsbXN0dWRpby5yeGxhYi5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBSeEZpbG0lMjBTdHVkaW8lRTIlODAlOTNDcmVhdGUlMjBhbmQlMjBlZGl0JTIweW91ciUyMHByb2R1Y3QlMjB2aWRlb3MlMjB3aXRoJTIwQUklMjBhZ2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODE1MDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMTIlM0EyOCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+      "pubDate": "Wed, 23 Sep 2026 12:28:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnN6eXBvd2kuY3olMkZwJTJGY2xhdWRlLWNvZGUtcmVhZHMtYWdlbnRzLm1kLW9ubHktd2hlbi10ZWxlbWV0cnktaXMtb24lMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuc3p5cG93aS5jeiUyRnAlMkZjbGF1ZGUtY29kZS1yZWFkcy1hZ2VudHMubWQtb25seS13aGVuLXRlbGVtZXRyeS1pcy1vbiUyRiU3Q0NsYXVkZSUyMENvZGUlMjByZWFkcyUyMEFHRU5UUy5tZCUyMG9ubHklMjB3aGVuJTIwdGVsZW1ldHJ5JTIwaXMlMjBvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODE0OTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMTIlM0ExNSUzQTMzJTIwJTJCMDAwMA",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on",
+      "pubDate": "Wed, 23 Sep 2026 12:15:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzdGRiLmNvbSUyRmNhcmVlcnMlMkZwcmUtc2FsZXMtZW5naW5lZXItbm9ydGgtYW1lcmljYSUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVlc3RkYi5jb20lMkZjYXJlZXJzJTJGcHJlLXNhbGVzLWVuZ2luZWVyLW5vcnRoLWFtZXJpY2ElMkYlN0NRdWVzdERCJTIwKFlDJTIwUzIwKSUyMElzJTIwSGlyaW5nJTIwYSUyMFNhbGVzJTIwRW5naW5lZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNDc4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDEyJTNBMDElM0EwNCUyMCUyQjAwMDA",
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "pubDate": "Wed, 23 Sep 2026 12:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWhhaS5kaW5jdWxlc2N1LmRldiUyRnBvc3RzJTJGdHdvLWdpdC1pZ25vcmUtZmlsZXMtbm9ib2R5LXRvbGQtbWUtYWJvdXQlMkYlN0NodHRwcyUzQSUyRiUyRm1paGFpLmRpbmN1bGVzY3UuZGV2JTJGcG9zdHMlMkZ0d28tZ2l0LWlnbm9yZS1maWxlcy1ub2JvZHktdG9sZC1tZS1hYm91dCUyRiU3Q1R3byUyMEdpdCUyMGlnbm9yZSUyMGZpbGVzJTIwbm9ib2R5JTIwdG9sZCUyMG1lJTIwYWJvdXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNDQzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDExJTNBMjglM0E0NyUyMCUyQjAwMDA",
+      "title": "Two Git ignore files nobody told me about",
+      "pubDate": "Wed, 23 Sep 2026 11:28:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYmFnYW1lcy5naXRodWIuaW8lMkZ6ODAtcmVwbCUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmFiYWdhbWVzLmdpdGh1Yi5pbyUyRno4MC1yZXBsJTJGaW5kZXguaHRtbCU3Q1o4MCUyMFJFUEwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNDIzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDExJTNBMDQlM0E1MiUyMCUyQjAwMDA",
+      "title": "Z80 REPL",
+      "pubDate": "Wed, 23 Sep 2026 11:04:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcmVyaWNsZXZpLnBhZ2VzLmRldiUyRnRoZS1kYXJrZXItc2lkZS1vZi1iZWluZy1hLWRvY3RvciUyRiU3Q2h0dHBzJTNBJTJGJTJGZHJlcmljbGV2aS5wYWdlcy5kZXYlMkZ0aGUtZGFya2VyLXNpZGUtb2YtYmVpbmctYS1kb2N0b3IlMkYlN0NUaGUlMjBkYXJrZXIlMjBzaWRlJTIwb2YlMjBiZWluZyUyMGElMjBkb2N0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNDE1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDEwJTNBNTQlM0E1NSUyMCUyQjAwMDA",
+      "title": "The darker side of being a doctor",
+      "pubDate": "Wed, 23 Sep 2026 10:54:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqeW4uZGV2JTJGdG9rZW5zLXRvby1jaGVhcC10by1tZXRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGanluLmRldiUyRnRva2Vucy10b28tY2hlYXAtdG8tbWV0ZXIlMkYlN0NUb2tlbnMlMjBUb28lMjBDaGVhcCUyMHRvJTIwTWV0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxMzQ4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDA5JTNBMjElM0ExNyUyMCUyQjAwMDA",
+      "title": "Tokens Too Cheap to Meter",
+      "pubDate": "Wed, 23 Sep 2026 09:21:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9ib2R5d2hvLmFpJTJGcG9zdHMlMkZqZXYtaW4tMjUtbGluZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ub2JvZHl3aG8uYWklMkZwb3N0cyUyRmpldi1pbi0yNS1saW5lcyUyRiU3Q0pldiUyMGluJTIwMjUlMjBMaW5lcyUyMG9mJTIwUHl0aG9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MTI3NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMyUyMFNlcCUyMDIwMjYlMjAwNyUzQTI2JTNBMjMlMjAlMkIwMDAw",
+      "title": "Jev in 25 Lines of Python",
+      "pubDate": "Wed, 23 Sep 2026 07:26:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRnB1YmxpY2F0aW9ucyUyRmxvZ2lub25saW5lJTJGZGF0YS1vbmx5LWF0dGFja3MtYXJlLWVhc2llci15b3UtdGhpbmslN0NodHRwcyUzQSUyRiUyRnd3dy51c2VuaXgub3JnJTJGcHVibGljYXRpb25zJTJGbG9naW5vbmxpbmUlMkZkYXRhLW9ubHktYXR0YWNrcy1hcmUtZWFzaWVyLXlvdS10aGluayU3Q0RhdGEtb25seSUyMGF0dGFja3MlMjBhcmUlMjBlYXNpZXIlMjB0aGFuJTIweW91JTIwdGhpbmslMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxMTQyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDAzJTNBNDklM0EyOCUyMCUyQjAwMDA",
+      "title": "Data-only attacks are easier than you think (2024)",
+      "pubDate": "Wed, 23 Sep 2026 03:49:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YXltby5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGdHJhbnNpdC1yZXdhcmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3YXltby5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGdHJhbnNpdC1yZXdhcmRzJTJGJTdDVHJhbnNpdCUyMHJld2FyZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxMTA2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDAyJTNBNTIlM0EyOSUyMCUyQjAwMDA",
+      "title": "Transit rewards",
+      "pubDate": "Wed, 23 Sep 2026 02:52:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
     }
   ]
