@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-22",
     "newestItemDate": "2026-09-22",
-    "itemCount": 51,
-    "generatedAt": "2026-09-24T05:02:20.165Z"
+    "itemCount": 54,
+    "generatedAt": "2026-09-24T13:36:52.686Z"
   },
   "items": [
     {
@@ -312,6 +312,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuYW5vY2hlc3Mub3JnJTJGdHJhbnNwdXRlcl9jX2NvbXBpbGVyLmh0bWwlN0NodHRwcyUzQSUyRiUyRm5hbm9jaGVzcy5vcmclMkZ0cmFuc3B1dGVyX2NfY29tcGlsZXIuaHRtbCU3Q01ha2luZyUyMHBvcnRhYmxlJTIwbXklMjB1bnBvcnRhYmxlJTIwdHJhbnNwdXRlciUyMEMlMjBjb21waWxlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk1NjAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMDElM0EwNyUzQTQ2JTIwJTJCMDAwMA",
       "title": "Making portable my unportable transputer C compiler",
       "pubDate": "Tue, 22 Sep 2026 01:07:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGlzaGlyLWl5ZXIubWVkaXVtLmNvbSUyRmF1dG9tYXRlZC1vcHRpbWl6YXRpb24tb2YtYS1tb2xlY3VsYXItc2ltdWxhdGlvbi1wcm9ncmFtLTRhMjhhMmJjMDVhZCU3Q2h0dHBzJTNBJTJGJTJGc2hpc2hpci1peWVyLm1lZGl1bS5jb20lMkZhdXRvbWF0ZWQtb3B0aW1pemF0aW9uLW9mLWEtbW9sZWN1bGFyLXNpbXVsYXRpb24tcHJvZ3JhbS00YTI4YTJiYzA1YWQlN0NBdXRvbWF0ZWQlMjBvcHRpbWl6YXRpb24lMjBvZiUyMGElMjBtb2xlY3VsYXIlMjBzaW11bGF0aW9uJTIwcHJvZ3JhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODA0MDUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTYlM0EzOCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Automated optimization of a molecular simulation program",
+      "pubDate": "Tue, 22 Sep 2026 16:38:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRm1lbW9yeS10aGUtZm9yZ290dGVuLWhpc3RvcnklN0NodHRwcyUzQSUyRiUyRmJsb2cuY29yZWR1bXAuY3glMkZwJTJGbWVtb3J5LXRoZS1mb3Jnb3R0ZW4taGlzdG9yeSU3Q1JBTSUzQSUyMHRoZSUyMGZvcmdvdHRlbiUyMGhpc3RvcnklMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwMjY2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIyJTIwU2VwJTIwMjAyNiUyMDE1JTNBMTIlM0ExNyUyMCUyQjAwMDA",
+      "title": "RAM: the forgotten history (2024)",
+      "pubDate": "Tue, 22 Sep 2026 15:12:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWxtYW5ndW0uY29tJTJGcG9zdHMlMkZ3aGVuLXRoZS1kZWJ1Z2dlci1saWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5pZWxtYW5ndW0uY29tJTJGcG9zdHMlMkZ3aGVuLXRoZS1kZWJ1Z2dlci1saWVzJTJGJTdDV2hlbiUyMHRoZSUyMERlYnVnZ2VyJTIwTGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk5MzA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTElM0EwMiUzQTQzJTIwJTJCMDAwMA",
+      "title": "When the Debugger Lies",
+      "pubDate": "Tue, 22 Sep 2026 11:02:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
     }
   ]
