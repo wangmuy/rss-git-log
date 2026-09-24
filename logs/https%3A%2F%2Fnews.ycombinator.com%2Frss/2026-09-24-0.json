@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-24",
     "newestItemDate": "2026-09-24",
-    "itemCount": 19,
-    "generatedAt": "2026-09-24T13:36:52.686Z"
+    "itemCount": 35,
+    "generatedAt": "2026-09-24T20:01:54.130Z"
   },
   "items": [
     {
@@ -120,6 +120,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZsaXZlJTJGY3ZnbDczcHhnbmR3dCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGbGl2ZSUyRmN2Z2w3M3B4Z25kd3QlN0NPcGVuQUklMjBhZ2VudCUyMGhhY2tlZCUyMEF1c3RyYWxpYW4lMjBnb3Zlcm5tZW50JTIwd2Vic2l0ZSUyQyUyMFBNJTIwc2F5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODI1NTgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMDIlM0E0NCUzQTQ4JTIwJTJCMDAwMA",
       "title": "OpenAI agent hacked Australian government website, PM says",
       "pubDate": "Thu, 24 Sep 2026 02:44:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNvYnNjdXJhLnN1YnN0YWNrLmNvbSUyRnAlMkZhaS1sYWJzLW5lZWQtdG8tc3RhcnQtZnVuZGluZy1oaXN0b3JpY2FsJTdDaHR0cHMlM0ElMkYlMkZyZXNvYnNjdXJhLnN1YnN0YWNrLmNvbSUyRnAlMkZhaS1sYWJzLW5lZWQtdG8tc3RhcnQtZnVuZGluZy1oaXN0b3JpY2FsJTdDVXNpbmclMjBMTE1zJTIwdG8lMjB0cmFjZSUyMGFsY2hlbWljYWwlMjBrbm93bGVkZ2UlMjBhbmQlMjBkZWNvZGUlMjAxN3RoJTIwY2VudHVyeSUyMGxldHRlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgzNTUzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDE5JTNBMTQlM0EyNyUyMCUyQjAwMDA",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "pubDate": "Thu, 24 Sep 2026 19:14:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYWRpeC1vcy5jb20lN0NodHRwcyUzQSUyRiUyRnJhZGl4LW9zLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMFJhZGl4JTIwJUUyJTgwJTkzJTIwVmlzdWFsJTIwVUklMjBmb3IlMjBhZ2VudGljJTIwcHJvZ3JhbW1pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgzNDk2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDE4JTNBMzUlM0EyMCUyMCUyQjAwMDA",
+      "title": "Show HN: Radix – Visual UI for agentic programming",
+      "pubDate": "Thu, 24 Sep 2026 18:35:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlc3RhYmxlLmNvbSUyRmNhcmVlcnMlMkZwcm9kdWN0LWVuZ2luZWVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cudXNlc3RhYmxlLmNvbSUyRmNhcmVlcnMlMkZwcm9kdWN0LWVuZ2luZWVyJTdDU3RhYmxlJTIwKFlDJTIwVzIwKSUyMElzJTIwSGlyaW5nJTIwUHJvZHVjdCUyMEVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODM0ODkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMTglM0EyOSUzQTE4JTIwJTJCMDAwMA",
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "pubDate": "Thu, 24 Sep 2026 18:29:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2VsbC5jb20lMkZpc2NpZW5jZSUyRmZ1bGx0ZXh0JTJGUzI1ODktMDA0MigyNikwMDgxMS00JTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2VsbC5jb20lMkZpc2NpZW5jZSUyRmZ1bGx0ZXh0JTJGUzI1ODktMDA0MigyNikwMDgxMS00JTdDQ3JlYXRpbmUlMjB1cHRha2UlMjBlbmhhbmNlcyUyMGFudGl0dW1vciUyMGltbXVuaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MzQ4MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAxOCUzQTI0JTNBNTIlMjAlMkIwMDAw",
+      "title": "Creatine uptake enhances antitumor immunity",
+      "pubDate": "Thu, 24 Sep 2026 18:24:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2JyYWNlLmRldiUyRmJsb2clMkZwcm9ncmFtbWluZy10dXRvcmlhbHMtYXJlLWRlYWQlMkYlN0NodHRwcyUzQSUyRiUyRnJvYnJhY2UuZGV2JTJGYmxvZyUyRnByb2dyYW1taW5nLXR1dG9yaWFscy1hcmUtZGVhZCUyRiU3Q1Byb2dyYW1taW5nJTIwVHV0b3JpYWxzJTIwQXJlJTIwRGVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODM0NzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMTglM0EyMiUzQTEwJTIwJTJCMDAwMA",
+      "title": "Programming Tutorials Are Dead",
+      "pubDate": "Thu, 24 Sep 2026 18:22:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5zdGFjbG91ZC5jb20lMkZibG9ncyUyRmEtbWlsbGlvbi1hZ2VudHMtaXMtYS1kaXN0cmlidXRlZC1zeXN0ZW1zLXByb2JsZW0lN0NodHRwcyUzQSUyRiUyRnd3dy5pbnN0YWNsb3VkLmNvbSUyRmJsb2dzJTJGYS1taWxsaW9uLWFnZW50cy1pcy1hLWRpc3RyaWJ1dGVkLXN5c3RlbXMtcHJvYmxlbSU3Q0ElMjBNaWxsaW9uJTIwQWdlbnRzJTIwSXMlMjBhJTIwRGlzdHJpYnV0ZWQlMjBTeXN0ZW0lMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MzM5NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAxNyUzQTI2JTNBMjMlMjAlMkIwMDAw",
+      "title": "A Million Agents Is a Distributed System Problem",
+      "pubDate": "Thu, 24 Sep 2026 17:26:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGV2ZG90ZmFzdCUyRndoaXRlYm9hcmQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkZXZkb3RmYXN0JTJGd2hpdGVib2FyZCU3Q1Nob3clMjBITiUzQSUyMFdoaXRlYm9hcmQlMjAoWUMlMjBXMjYpJTIwJUUyJTgwJTkzJTIwQW4lMjBvcGVuLXNvdXJjZSUyMElERSUyMGZvciUyMHRob3VnaHRmdWwlMjBzb2Z0d2FyZSUyMGRlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODMzODY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMTclM0EyMSUzQTM2JTIwJTJCMDAwMA",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "pubDate": "Thu, 24 Sep 2026 17:21:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQuc3Vic3RhY2suY29tJTJGcCUyRmxpdmVyJTdDaHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQuc3Vic3RhY2suY29tJTJGcCUyRmxpdmVyJTdDV2h5JTIwaXMlMjB0aGUlMjBsaXZlciUyMHNvJTIwd2VpcmRseSUyMHJlZ2VuZXJhdGl2ZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODMyOTM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMTYlM0EyMyUzQTAwJTIwJTJCMDAwMA",
+      "title": "Why is the liver so weirdly regenerative?",
+      "pubDate": "Thu, 24 Sep 2026 16:23:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdWNjZXNzZnVsc29mdHdhcmUubmV0JTJGMjAyNiUyRjA5JTJGMjQlMkZnaXRodWItaGFzLW5vdC1yZW1vdmVkLW1hbGljaW91cy1pbWl0YXRpb24tc29mdHdhcmUtYWZ0ZXItMy13ZWVrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3VjY2Vzc2Z1bHNvZnR3YXJlLm5ldCUyRjIwMjYlMkYwOSUyRjI0JTJGZ2l0aHViLWhhcy1ub3QtcmVtb3ZlZC1tYWxpY2lvdXMtaW1pdGF0aW9uLXNvZnR3YXJlLWFmdGVyLTMtd2Vla3MlMkYlN0NHaXRIdWIlMjBoYXMlMjBub3QlMjByZW1vdmVkJTIwbWFsaWNpb3VzJTIwaW1pdGF0aW9uJTIwc29mdHdhcmUlMjBhZnRlciUyMDMlMjB3ZWVrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODMyNDA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMTUlM0E1MCUzQTI2JTIwJTJCMDAwMA",
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "pubDate": "Thu, 24 Sep 2026 15:50:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmLWRyb2lkLm9yZyUyRjIwMjYlMkYwOSUyRjI0JTJGZi1kcm9pZC0yLjAtYS1uZXctY2hhcHRlci1mb3ItYW5kcm9pZC1mcmVlZG9tLmh0bWwlN0NodHRwcyUzQSUyRiUyRmYtZHJvaWQub3JnJTJGMjAyNiUyRjA5JTJGMjQlMkZmLWRyb2lkLTIuMC1hLW5ldy1jaGFwdGVyLWZvci1hbmRyb2lkLWZyZWVkb20uaHRtbCU3Q0YtRHJvaWQlMjAyLjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgzMTk2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDE1JTNBMjYlM0ExMiUyMCUyQjAwMDA",
+      "title": "F-Droid 2.0",
+      "pubDate": "Thu, 24 Sep 2026 15:26:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcHJpbnQuaWFjci5vcmclMkYyMDI2JTJGMjEzMS5wZGYlN0NodHRwcyUzQSUyRiUyRmVwcmludC5pYWNyLm9yZyUyRjIwMjYlMkYyMTMxLnBkZiU3Q0ZvcmdpbmclMjAxMDI0LWJpdCUyMFJTQSUyMHNpZ25hdHVyZXMlMjBpbiUyMG5lYXJseSUyMFNORlMlMjB0aW1lJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MzEwOTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAxNCUzQTI2JTNBMzIlMjAlMkIwMDAw",
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "pubDate": "Thu, 24 Sep 2026 14:26:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1yZXNlYXJjaCUyRmdvb2dsZS1wcm9qZWN0LXN1bmNhdGNoZXItZmFjdHMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ29vZ2xlJTJGaW5ub3ZhdGlvbi1hbmQtYWklMkZtb2RlbHMtYW5kLXJlc2VhcmNoJTJGZ29vZ2xlLXJlc2VhcmNoJTJGZ29vZ2xlLXByb2plY3Qtc3VuY2F0Y2hlci1mYWN0cyUyRiU3Q0dvb2dsZSVFMiU4MCU5OXMlMjBQcm9qZWN0JTIwU3VuY2F0Y2hlciUyMHRvJTIwcHV0JTIwTUwlMjBpbmZyYXN0cnVjdHVyZSUyMGluJTIwc3BhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgzMDYwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDEzJTNBNTMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "pubDate": "Thu, 24 Sep 2026 13:53:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNhbm9yYWsuY29tJTJGdHdvLXRpZXItZW5jcnlwdGlvbi1pbi10aGUtdWslMkYlN0NodHRwcyUzQSUyRiUyRm1hY2Fub3Jhay5jb20lMkZ0d28tdGllci1lbmNyeXB0aW9uLWluLXRoZS11ayUyRiU3Q1R3by10aWVyJTIwZW5jcnlwdGlvbiUyMGluJTIwdGhlJTIwVUslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgyODczMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDEwJTNBMzklM0ExOSUyMCUyQjAwMDA",
+      "title": "Two-tier encryption in the UK",
+      "pubDate": "Thu, 24 Sep 2026 10:39:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXBvLmFhbHRvLmZpJTJGaW5kZXgucGhwJTNGbmFtZSUzRFNPX2I2NmE5MzkxLWRjZjgtNDM5OS04ZTg3LTYxMWY4NGMzZmM0YyU3Q2h0dHBzJTNBJTJGJTJGcmVwby5hYWx0by5maSUyRmluZGV4LnBocCUzRm5hbWUlM0RTT19iNjZhOTM5MS1kY2Y4LTQzOTktOGU4Ny02MTFmODRjM2ZjNGMlN0NOb2tpYSUyMERlc2lnbiUyMEFyY2hpdmUlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgyODM4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDA5JTNBNDklM0EzMyUyMCUyQjAwMDA",
+      "title": "Nokia Design Archive (2025)",
+      "pubDate": "Thu, 24 Sep 2026 09:49:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZHJpY2Vyb2xhbmQlMkZTZWFyY2glN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkcmljZXJvbGFuZCUyRlNlYXJjaCU3Q1NlYXJjaCUyMCVFMiU4MCU5MyUyMEElMjBzbWFsbCUyQyUyMGZhc3QlMjBXZWJLaXQlMjBicm93c2VyJTIwZm9yJTIwbWFjT1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgyODEyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDA5JTNBMTElM0E1MiUyMCUyQjAwMDA",
+      "title": "Search – A small, fast WebKit browser for macOS",
+      "pubDate": "Thu, 24 Sep 2026 09:11:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbXMtc2Z4LWRlbW8uYXBlbGVnLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGY21zLXNmeC1kZW1vLmFwZWxlZy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBBaXItZ2FwcGVkJTIwZmlsZSUyMGVuY3J5cHRpb24lMjBhcyUyMHNlbGYtZGVjcnlwdGluZyUyMEhUTUwlMjBwYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MjczNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAwNyUzQTIyJTNBMTclMjAlMkIwMDAw",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "pubDate": "Thu, 24 Sep 2026 07:22:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
     }
   ]

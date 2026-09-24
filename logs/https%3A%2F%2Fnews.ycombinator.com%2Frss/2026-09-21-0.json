@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 69,
-    "generatedAt": "2026-09-24T13:36:52.687Z"
+    "itemCount": 73,
+    "generatedAt": "2026-09-24T20:01:54.130Z"
   },
   "items": [
     {
@@ -420,6 +420,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ0aGUtd29tZW4td2hvLXNvbGQtYm9va3MtZG9vci10by1kb29yJTJGJTdDaHR0cHMlM0ElMkYlMkZkYWlseS5qc3Rvci5vcmclMkZ0aGUtd29tZW4td2hvLXNvbGQtYm9va3MtZG9vci10by1kb29yJTJGJTdDV29tZW4lMjBXaG8lMjBTb2xkJTIwQm9va3MlMjBEb29yJTIwdG8lMjBEb29yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTMyNDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMCUzQTUyJTNBNTIlMjAlMkIwMDAw",
       "title": "Women Who Sold Books Door to Door",
       "pubDate": "Mon, 21 Sep 2026 20:52:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2JvdC1kYXljYXJlLmNvbSUyRnBvc3RzJTJGMjAxNi0wMS0wNi1tb3Rvci1jaGFyYWN0ZXJpemF0aW9uLWZvci1zbWFsbC1ydW5uaW5nLXJvYm90cyUyRiU3Q2h0dHBzJTNBJTJGJTJGcm9ib3QtZGF5Y2FyZS5jb20lMkZwb3N0cyUyRjIwMTYtMDEtMDYtbW90b3ItY2hhcmFjdGVyaXphdGlvbi1mb3Itc21hbGwtcnVubmluZy1yb2JvdHMlMkYlN0NNb3RvciUyMENoYXJhY3Rlcml6YXRpb24lMjBmb3IlMjBTbWFsbCUyMFJ1bm5pbmclMjBSb2JvdHMlMjAoMjAxNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc5NDgyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDIzJTNBMjclM0EzMSUyMCUyQjAwMDA",
+      "title": "Motor Characterization for Small Running Robots (2016)",
+      "pubDate": "Mon, 21 Sep 2026 23:27:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRyYWlsb2ZiaXRzLmNvbSUyRjIwMjYlMkYwOSUyRjE4JTJGYXVkaXRpbmctaW4tdGhlLWFnZS1vZi1nb29kLWVub3VnaC1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy50cmFpbG9mYml0cy5jb20lMkYyMDI2JTJGMDklMkYxOCUyRmF1ZGl0aW5nLWluLXRoZS1hZ2Utb2YtZ29vZC1lbm91Z2gtYWklMkYlN0NTZWN1cml0eSUyMGF1ZGl0aW5nJTIwaW4lMjB0aGUlMjBhZ2UlMjBvZiUyMChnb29kJTIwZW5vdWdoKSUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTM5NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMSUzQTUzJTNBMDElMjAlMkIwMDAw",
+      "title": "Security auditing in the age of (good enough) AI",
+      "pubDate": "Mon, 21 Sep 2026 21:53:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXN0bGFuc2luZ2luZm8ubmV3cyUyRnRoZS1mb3Jnb3R0ZW4tYmF0dGxlLW9mLWVhc3QtbGFuc2luZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZWFzdGxhbnNpbmdpbmZvLm5ld3MlMkZ0aGUtZm9yZ290dGVuLWJhdHRsZS1vZi1lYXN0LWxhbnNpbmclMkYlN0NUaGUlMjBmb3Jnb3R0ZW4lMjBiYXR0bGUlMjBvZiUyMEVhc3QlMjBMYW5zaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk3OTI2NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMSUyMFNlcCUyMDIwMjYlMjAyMCUzQTA3JTNBMDglMjAlMkIwMDAw",
+      "title": "The forgotten battle of East Lansing",
+      "pubDate": "Mon, 21 Sep 2026 20:07:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaGVsd2VyLmNhJTJGcG9zdCUyRjIwMjYtMDktMjEtY29uY3VycmVuY3ktdGV4dGJvb2slMkYlN0NodHRwcyUzQSUyRiUyRmFoZWx3ZXIuY2ElMkZwb3N0JTJGMjAyNi0wOS0yMS1jb25jdXJyZW5jeS10ZXh0Ym9vayUyRiU3Q0Jvb2slMjByZXZpZXclM0ElMjBJcyUyMHBhcmFsbGVsJTIwcHJvZ3JhbW1pbmclMjBoYXJkJTJDJTIwYW5kJTJDJTIwaWYlMjBzbyUyQyUyMHdoYXQlMjBjYW4lMjB5b3UlMjBkbyUyMGFib3V0JTIwaXQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4Nzc1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE0JTNBMzAlM0EwMCUyMCUyQjAwMDA",
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]

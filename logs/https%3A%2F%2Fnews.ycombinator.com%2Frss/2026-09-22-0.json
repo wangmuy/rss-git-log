@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-22",
     "newestItemDate": "2026-09-22",
-    "itemCount": 54,
-    "generatedAt": "2026-09-24T13:36:52.686Z"
+    "itemCount": 57,
+    "generatedAt": "2026-09-24T20:01:54.130Z"
   },
   "items": [
     {
@@ -330,6 +330,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWxtYW5ndW0uY29tJTJGcG9zdHMlMkZ3aGVuLXRoZS1kZWJ1Z2dlci1saWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5pZWxtYW5ndW0uY29tJTJGcG9zdHMlMkZ3aGVuLXRoZS1kZWJ1Z2dlci1saWVzJTJGJTdDV2hlbiUyMHRoZSUyMERlYnVnZ2VyJTIwTGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzk5MzA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjIlMjBTZXAlMjAyMDI2JTIwMTElM0EwMiUzQTQzJTIwJTJCMDAwMA",
       "title": "When the Debugger Lies",
       "pubDate": "Tue, 22 Sep 2026 11:02:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhaG1lZGhvc3NhbWRldi5jb20lMkZ3cml0aW5nJTJGbXktd2VpcmQtbmV3LWhvYmJ5LXdhbmRlcmluZy1hcm91bmQtdG9reW8lMkYlN0NodHRwcyUzQSUyRiUyRmFobWVkaG9zc2FtZGV2LmNvbSUyRndyaXRpbmclMkZteS13ZWlyZC1uZXctaG9iYnktd2FuZGVyaW5nLWFyb3VuZC10b2t5byUyRiU3Q015JTIwd2VpcmQlMjBuZXclMjBob2JieSUzQSUyMFdhbmRlcmluZyUyMGFyb3VuZCUyMFRva3lvJTIwb24lMjBHb29nbGUlMjBNYXBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDUzNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNyUzQTQ5JTNBNDYlMjAlMkIwMDAw",
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "pubDate": "Tue, 22 Sep 2026 17:49:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZHN1bW1lcnNsJTJGdHJlZXBlYXQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkc3VtbWVyc2wlMkZ0cmVlcGVhdCU3Q1Nob3clMjBITiUzQSUyMFRyZWVwZWF0JTIwJUUyJTgwJTkzJUMyJUEwQ29kZSUyMHNpbWlsYXJpdHklMjBkZXRlY3Rpb24lMjB1c2luZyUyMFRyZWUtc2l0dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDQzNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNiUzQTUzJTNBMjUlMjAlMkIwMDAw",
+      "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
+      "pubDate": "Tue, 22 Sep 2026 16:53:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYmVuZGVyLm9yZyUyRmJsb2clMkZmZWFybGVzcy1zaW1kLTEtMCUyRiU3Q2h0dHBzJTNBJTJGJTJGbGluZWJlbmRlci5vcmclMkZibG9nJTJGZmVhcmxlc3Mtc2ltZC0xLTAlMkYlN0NGZWFybGVzcyUyMFNJTUQlMjB2MS4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDAwODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxMiUzQTIzJTNBMzclMjAlMkIwMDAw",
+      "title": "Fearless SIMD v1.0",
+      "pubDate": "Tue, 22 Sep 2026 12:23:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-20",
     "newestItemDate": "2026-09-20",
-    "itemCount": 55,
-    "generatedAt": "2026-09-23T04:52:55.713Z"
+    "itemCount": 56,
+    "generatedAt": "2026-09-24T20:01:54.131Z"
   },
   "items": [
     {
@@ -336,6 +336,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWwubGF3cmVuY2UubHUlMkZibG9nJTJGMjAyNi0wOS0yMC1tdW5pLWhlcml0YWdlLXdlZWtlbmQlMkYlN0NodHRwcyUzQSUyRiUyRmRhbmllbC5sYXdyZW5jZS5sdSUyRmJsb2clMkYyMDI2LTA5LTIwLW11bmktaGVyaXRhZ2Utd2Vla2VuZCUyRiU3Q01VTkklMjBIZXJpdGFnZSUyMFdlZWtlbmQlMjBpbiUyMFNhbiUyMEZyYW5jaXNjbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgwNjIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMjIlM0ExMyUzQTA3JTIwJTJCMDAwMA",
       "title": "MUNI Heritage Weekend in San Francisco",
       "pubDate": "Sun, 20 Sep 2026 22:13:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhpbGlwenVja2VyLmNvbSUyRmxhbWJkYV9taWxsZXJfZWdnJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhpbGlwenVja2VyLmNvbSUyRmxhbWJkYV9taWxsZXJfZWdnJTJGJTdDTGFtYmRhJTIwTWljcm9FZ2clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NzE1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE2JTNBMDUlM0ExMCUyMCUyQjAwMDA",
+      "title": "Lambda MicroEgg",
+      "pubDate": "Sun, 20 Sep 2026 16:05:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
     }
   ]

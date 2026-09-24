@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-23",
     "newestItemDate": "2026-09-23",
-    "itemCount": 48,
-    "generatedAt": "2026-09-24T13:36:52.686Z"
+    "itemCount": 53,
+    "generatedAt": "2026-09-24T20:01:54.130Z"
   },
   "items": [
     {
@@ -294,6 +294,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbmltYXRpb25vYnNlc3NpdmUuc3Vic3RhY2suY29tJTJGcCUyRndoeS13aGF0cy1vcGVyYS1kb2MtbG9va3MtbGlrZS10aGF0JTdDaHR0cHMlM0ElMkYlMkZhbmltYXRpb25vYnNlc3NpdmUuc3Vic3RhY2suY29tJTJGcCUyRndoeS13aGF0cy1vcGVyYS1kb2MtbG9va3MtbGlrZS10aGF0JTdDV2h5JTIwJ1doYXQncyUyME9wZXJhJTJDJTIwRG9jJTNGJyUyMGxvb2tzJTIwbGlrZSUyMHRoYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNzc0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDE1JTNBMzclM0E0NyUyMCUyQjAwMDA",
       "title": "Why 'What's Opera, Doc?' looks like that",
       "pubDate": "Wed, 23 Sep 2026 15:37:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYXN0YXJkaWNhLm1pdHBpdC5jb20lN0NodHRwcyUzQSUyRiUyRmJhc3RhcmRpY2EubWl0cGl0LmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyME1ha2UlMjBjdXJzZWQlMjBmb250cyUyMGxpa2UlMjBUaW1lcyUyME5ldyUyMEJhc3RhcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgyMzczOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDIyJTNBNTMlM0EyOCUyMCUyQjAwMDA",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "pubDate": "Wed, 23 Sep 2026 22:53:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc29ha2luZ3NwcmluZ3MuY29tJTJGaG90LXNwcmluZ3MlMkZnZW90aGVybWFsLW1hcCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNvYWtpbmdzcHJpbmdzLmNvbSUyRmhvdC1zcHJpbmdzJTJGZ2VvdGhlcm1hbC1tYXAlN0NHZW90aGVybWFsJTIwaGVhdCUyMG1hcCUyMG9mJTIwVVMlMjBob3QlMjBzcHJpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MjE4MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMyUyMFNlcCUyMDIwMjYlMjAyMCUzQTEyJTNBMTAlMjAlMkIwMDAw",
+      "title": "Geothermal heat map of US hot springs",
+      "pubDate": "Wed, 23 Sep 2026 20:12:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUGFyY2hhLWFpJTJGYWdlbnRydW4lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZQYXJjaGEtYWklMkZhZ2VudHJ1biU3Q1Nob3clMjBITiUzQSUyMEFnZW50UnVuJTNBJTIwRFNMJTIwdG8lMjB0dXJuJTIwYWdlbnRzJTIwaW50byUyMHdvcmtmbG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODIxNDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMTklM0E0MiUzQTU4JTIwJTJCMDAwMA",
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "pubDate": "Wed, 23 Sep 2026 19:42:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0R2RGpXX2RSeUtYWSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEdkRqV19kUnlLWFklN0NSYWlscyUyMFdvcmxkJTIwMjAyNiUyME9wZW5pbmclMjBLZXlub3RlJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxNzY4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDE1JTNBMzMlM0EzMyUyMCUyQjAwMDA",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "pubDate": "Wed, 23 Sep 2026 15:33:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2hyaXN0aWFucm93bGFuZHMlMkZ3YXZlZGlnZ2VyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2hyaXN0aWFucm93bGFuZHMlMkZ3YXZlZGlnZ2VyJTdDV2F2ZURpZ2dlciUzQSUyMERpZyUyMGludG8lMjB3aXJlbGVzcyUyMHNpZ25hbHMlMjB0byUyMGRpc2NvdmVyJTIwdGhlaXIlMjBwaHlzaWNhbCUyMGxvY2F0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODE1MzcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMTIlM0E1NyUzQTA3JTIwJTJCMDAwMA",
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "pubDate": "Wed, 23 Sep 2026 12:57:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
     }
   ]
