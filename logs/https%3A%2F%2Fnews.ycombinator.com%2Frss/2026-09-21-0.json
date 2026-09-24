@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 67,
-    "generatedAt": "2026-09-23T04:52:55.713Z"
+    "itemCount": 68,
+    "generatedAt": "2026-09-24T05:02:20.166Z"
   },
   "items": [
     {
@@ -408,6 +408,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeEN1cmkwJTJGUmVCYXJVRUZJJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeEN1cmkwJTJGUmVCYXJVRUZJJTdDUmVCYXJVRUZJJTNBJTIwUmVzaXphYmxlJTIwQkFSJTIwZm9yJTIwYWxtb3N0JTIwYW55JTIwVUVGSSUyMHN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzgxODYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMDElM0EwNyUzQTQ2JTIwJTJCMDAwMA",
       "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
       "pubDate": "Mon, 21 Sep 2026 01:07:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW0uZGV2JTJGYmxvZyUyRmZhc3Rlci1zaGExLWNvbGxpc2lvbi1kZXRlY3Rpb24lN0NodHRwcyUzQSUyRiUyRnNhbS5kZXYlMkZibG9nJTJGZmFzdGVyLXNoYTEtY29sbGlzaW9uLWRldGVjdGlvbiU3Q1NvbHZpbmclMjBmb3IlMjBmYXN0ZXIlMjBTSEEtMSUyMGNvbGxpc2lvbiUyMGRldGVjdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5NzkxNTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTglM0E0NiUzQTE3JTIwJTJCMDAwMA",
+      "title": "Solving for faster SHA-1 collision detection",
+      "pubDate": "Mon, 21 Sep 2026 18:46:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]

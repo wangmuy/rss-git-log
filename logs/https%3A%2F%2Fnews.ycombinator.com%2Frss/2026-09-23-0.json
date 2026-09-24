@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-23",
     "newestItemDate": "2026-09-23",
-    "itemCount": 38,
-    "generatedAt": "2026-09-23T19:43:13.390Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-24T05:02:20.165Z"
   },
   "items": [
     {
@@ -234,6 +234,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGtpbXBlbCUyRnJldHJvLTE2MjAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwa2ltcGVsJTJGcmV0cm8tMTYyMCU3Q1dlYi1iYXNlZCUyMElCTSUyMDE2MjAlMjBlbXVsYXRvciUyMGFuZCUyMElQTC1WJTIwZnJvbSUyMDE5NjMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgwOTkzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDAwJTNBMDYlM0EyNSUyMCUyQjAwMDA",
       "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
       "pubDate": "Wed, 23 Sep 2026 00:06:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWV0YS5jb20lMkZ2ci1nbGFzc2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWV0YS5jb20lMkZ2ci1nbGFzc2VzJTJGJTdDTWV0YSUyMFZSJTIwR2xhc3NlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODI0MjY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMjMlM0E0NyUzQTU2JTIwJTJCMDAwMA",
+      "title": "Meta VR Glasses",
+      "pubDate": "Wed, 23 Sep 2026 23:47:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyeGl2Lm9yZyUyRjIwMjYlMkYwOSUyRjIzJTJGYXJ4aXYtcmVjZWl2ZXMtbXVsdGl5ZWFyLWludmVzdG1lbnQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuYXJ4aXYub3JnJTJGMjAyNiUyRjA5JTJGMjMlMkZhcnhpdi1yZWNlaXZlcy1tdWx0aXllYXItaW52ZXN0bWVudCUyRiU3Q0FyWGl2JTIwcmVjZWl2ZXMlMjBtdWx0aXllYXIlMjBjb21taXRtZW50cyUyMHRvJTIwc3VwcG9ydCUyMGl0JTIwYXMlMjBhbiUyMGluZGVwZW5kZW50JTIwbm9ucHJvZml0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MjM2NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMyUyMFNlcCUyMDIwMjYlMjAyMiUzQTQ1JTNBNDklMjAlMkIwMDAw",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "pubDate": "Wed, 23 Sep 2026 22:45:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbGNvbW0uY29tJTJGbmV3cyUyRm9ucSUyRjIwMjYlMkYwOSUyRnNuYXBkcmFnb24tc3VtbWl0LWFnZW50aWMtYWktcGNzLWxpbnV4JTdDaHR0cHMlM0ElMkYlMkZ3d3cucXVhbGNvbW0uY29tJTJGbmV3cyUyRm9ucSUyRjIwMjYlMkYwOSUyRnNuYXBkcmFnb24tc3VtbWl0LWFnZW50aWMtYWktcGNzLWxpbnV4JTdDTGludXglMjBzdXBwb3J0JTIwaXMlMjBjb21pbmclMjB0byUyMFNuYXBkcmFnb24lMjBYMiUyMFNlcmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODIzNTgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMjIlM0EzOCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "pubDate": "Wed, 23 Sep 2026 22:38:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZtZXJjdXJ5LTItNSU3Q2h0dHBzJTNBJTJGJTJGYXJ0aWZpY2lhbGFuYWx5c2lzLmFpJTJGbW9kZWxzJTJGbWVyY3VyeS0yLTUlN0NNZXJjdXJ5JTIwMi41JTIwTExNJTIwaGl0cyUyMDc3MCUyMHRva2VucyUyMHBlciUyMHNlY29uZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODIzMzQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjMlMjBTZXAlMjAyMDI2JTIwMjIlM0ExNiUzQTE5JTIwJTJCMDAwMA",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "pubDate": "Wed, 23 Sep 2026 22:16:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGdmFyeS1zdXBwb3J0JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGdmFyeS1zdXBwb3J0JTJGJTdDV2UlMjBqdXN0JTIwc2hpcHBlZCUyMHN1cHBvcnQlMjBmb3IlMjB0aGUlMjB1Z2xpZXN0JTIwcGFydCUyMG9mJTIwSFRUUCUzQSUyMFZhcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgyMzE5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDIyJTNBMDMlM0EyMSUyMCUyQjAwMDA",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "pubDate": "Wed, 23 Sep 2026 22:03:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbHkuaW8lMkZibG9nJTJGdnNjb2RlLXNzaC13dGYlMkYlN0NodHRwcyUzQSUyRiUyRmZseS5pbyUyRmJsb2clMkZ2c2NvZGUtc3NoLXd0ZiUyRiU3Q1ZTQ29kZSdzJTIwU1NIJTIwQWdlbnQlMjBJcyUyMEJhbmFuYXMlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgyMjU1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDIxJTNBMDElM0E0OCUyMCUyQjAwMDA",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "pubDate": "Wed, 23 Sep 2026 21:01:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRmFwcGxlJTJGTGVuc1ZMTS05QiU3Q2h0dHBzJTNBJTJGJTJGaHVnZ2luZ2ZhY2UuY28lMkZhcHBsZSUyRkxlbnNWTE0tOUIlN0NMZW5zVkxNJTNBJTIwQ29tcHJlc3NpbmclMjBsb25nJTIwY29udGV4dCUyMGFzJTIwaW1hZ2VzJTJDJTIwZXhwYW5kaW5nJTIwb25seSUyMHJlbGV2YW50JTIwcGFnZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgyMDQ5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDE4JTNBMzYlM0EyOSUyMCUyQjAwMDA",
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "pubDate": "Wed, 23 Sep 2026 18:36:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGYmxvZyUyRm1ha2luZy10YWlsc2NhbGUtZmFzdGVyJTdDaHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGYmxvZyUyRm1ha2luZy10YWlsc2NhbGUtZmFzdGVyJTdDTWFraW5nJTIwVGFpbHNjYWxlJTIwRmFzdGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MTk4ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMyUyMFNlcCUyMDIwMjYlMjAxNyUzQTQ5JTNBMDclMjAlMkIwMDAw",
+      "title": "Making Tailscale Faster",
+      "pubDate": "Wed, 23 Sep 2026 17:49:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqeW4uZGV2JTJGdG9rZW5zLXRvby1jaGVhcC10by1tZXRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGanluLmRldiUyRnRva2Vucy10b28tY2hlYXAtdG8tbWV0ZXIlMkYlN0NUb2tlbnMlMjB0b28lMjBjaGVhcCUyMHRvJTIwbWV0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgxMzQ4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIzJTIwU2VwJTIwMjAyNiUyMDA5JTNBMjElM0ExNyUyMCUyQjAwMDA",
+      "title": "Tokens too cheap to meter",
+      "pubDate": "Wed, 23 Sep 2026 09:21:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-23-0.json"
     }
   ]
