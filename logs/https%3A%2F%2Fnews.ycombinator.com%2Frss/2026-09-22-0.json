@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-22",
     "newestItemDate": "2026-09-22",
-    "itemCount": 57,
-    "generatedAt": "2026-09-24T20:01:54.130Z"
+    "itemCount": 59,
+    "generatedAt": "2026-09-25T05:05:43.792Z"
   },
   "items": [
     {
@@ -348,6 +348,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYmVuZGVyLm9yZyUyRmJsb2clMkZmZWFybGVzcy1zaW1kLTEtMCUyRiU3Q2h0dHBzJTNBJTJGJTJGbGluZWJlbmRlci5vcmclMkZibG9nJTJGZmVhcmxlc3Mtc2ltZC0xLTAlMkYlN0NGZWFybGVzcyUyMFNJTUQlMjB2MS4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDAwODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxMiUzQTIzJTNBMzclMjAlMkIwMDAw",
       "title": "Fearless SIMD v1.0",
       "pubDate": "Tue, 22 Sep 2026 12:23:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0YWhhc2tlbGwub3JnJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjE4JTJGd3JpdGluZy1wYXJxdWV0LWZpbGVzLXVzaW5nLWhhc2tlbGwuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhdGFoYXNrZWxsLm9yZyUyRmJsb2clMkYyMDI2JTJGMDklMkYxOCUyRndyaXRpbmctcGFycXVldC1maWxlcy11c2luZy1oYXNrZWxsLmh0bWwlN0NXcml0aW5nJTIwUGFycXVldCUyMGZpbGVzJTIwdXNpbmclMjBIYXNrZWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDI1MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNSUzQTAyJTNBMzklMjAlMkIwMDAw",
+      "title": "Writing Parquet files using Haskell",
+      "pubDate": "Tue, 22 Sep 2026 15:02:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYyZHdpbGxuZXZlcmRpZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRjJkd2lsbG5ldmVyZGllLmNvbSUyRiU3QzJEV2lsbE5ldmVyRGllJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MDE0MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMiUyMFNlcCUyMDIwMjYlMjAxNCUzQTAwJTNBMDglMjAlMkIwMDAw",
+      "title": "2DWillNeverDie",
+      "pubDate": "Tue, 22 Sep 2026 14:00:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-22-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-24",
     "newestItemDate": "2026-09-24",
-    "itemCount": 35,
-    "generatedAt": "2026-09-24T20:01:54.130Z"
+    "itemCount": 41,
+    "generatedAt": "2026-09-25T05:05:43.791Z"
   },
   "items": [
     {
@@ -216,6 +216,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbXMtc2Z4LWRlbW8uYXBlbGVnLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGY21zLXNmeC1kZW1vLmFwZWxlZy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBBaXItZ2FwcGVkJTIwZmlsZSUyMGVuY3J5cHRpb24lMjBhcyUyMHNlbGYtZGVjcnlwdGluZyUyMEhUTUwlMjBwYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MjczNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAwNyUzQTIyJTNBMTclMjAlMkIwMDAw",
       "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
       "pubDate": "Thu, 24 Sep 2026 07:22:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb2kucmVzdCU3Q2h0dHBzJTNBJTJGJTJGa29pLnJlc3QlMkYlN0NTaG93JTIwSE4lM0ElMjBLb2kucmVzdCUyMCVFMiU4MCU5MyUyMHdhdGNoJTIwc29tZSUyMGZpc2glMjBhbmQlMjByZWdhaW4lMjB5b3VyJTIwYmFsYW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODM3MDA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMjElM0EzMyUzQTAzJTIwJTJCMDAwMA",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "pubDate": "Thu, 24 Sep 2026 21:33:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFudGxhbmQuY29tJTJGZmVhdHVyZXMlMkZkaXBsb21hY3ktdGhlLWJvYXJkLWdhbWUtb2YtdGhlLWFscGhhLW5lcmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZncmFudGxhbmQuY29tJTJGZmVhdHVyZXMlMkZkaXBsb21hY3ktdGhlLWJvYXJkLWdhbWUtb2YtdGhlLWFscGhhLW5lcmRzJTJGJTdDVGhlJTIwQm9hcmQlMjBHYW1lJTIwb2YlMjB0aGUlMjBBbHBoYSUyME5lcmRzJTIwKDIwMTQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MzY1OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAyMCUzQTUzJTNBMzklMjAlMkIwMDAw",
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "pubDate": "Thu, 24 Sep 2026 20:53:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmxhbmRlY29ub21pY3Mub3JnJTJGcCUyRmNhbGlmb3JuaWEtaXMtY2hhc2luZy13ZWFsdGgtdGhhdCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5sYW5kZWNvbm9taWNzLm9yZyUyRnAlMkZjYWxpZm9ybmlhLWlzLWNoYXNpbmctd2VhbHRoLXRoYXQlN0NDYWxpZm9ybmlhJTIwaXMlMjBjaGFzaW5nJTIwd2VhbHRoJTIwdGhhdCUyMGhhcyUyMGZlZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgzNjQxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDIwJTNBMzQlM0EzMiUyMCUyQjAwMDA",
+      "title": "California is chasing wealth that has feet",
+      "pubDate": "Thu, 24 Sep 2026 20:34:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXVuY2h2aWRlby5pbyU3Q2h0dHBzJTNBJTJGJTJGbGF1bmNodmlkZW8uaW8lMkYlN0NPcHVzJTIwNS41JTIwaXMlMjBnb29kJTIwYXQlMjBleHBsYWluZXIlMjB2aWRlb3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgzNjM3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI0JTIwU2VwJTIwMjAyNiUyMDIwJTNBMjglM0E0NyUyMCUyQjAwMDA",
+      "title": "Opus 5.5 is good at explainer videos",
+      "pubDate": "Thu, 24 Sep 2026 20:28:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFydXNla2sucGwlMkZwb3N0cyUyRnNyaHQtYWNjb3VudC10YWtlb3ZlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcnVzZWtrLnBsJTJGcG9zdHMlMkZzcmh0LWFjY291bnQtdGFrZW92ZXIlMkYlN0NTb3VyY2VodXQlMjBhY2NvdW50JTIwdGFrZW92ZXIlMjB2aWElMjBidWlsZCUyMGxvZ3MlMjAoWFNTJTIwaW4lMjBhbnNpMmh0bWwpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MzU5OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAxOSUzQTU0JTNBMjElMjAlMkIwMDAw",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "pubDate": "Thu, 24 Sep 2026 19:54:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWZyLmNvbSUyRnBvbGljeSUyRmhlYWx0aC1hbmQtZWR1Y2F0aW9uJTJGdHV0b3JpbmctY29tcGFueS10ZWxsLXBhcmVudHMtdG8tc2F2ZS10aGVpci1tb25leS1hbmQtdXNlLWFpLWluc3RlYWQtMjAyNjA5MjMtcDYwejByJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWZyLmNvbSUyRnBvbGljeSUyRmhlYWx0aC1hbmQtZWR1Y2F0aW9uJTJGdHV0b3JpbmctY29tcGFueS10ZWxsLXBhcmVudHMtdG8tc2F2ZS10aGVpci1tb25leS1hbmQtdXNlLWFpLWluc3RlYWQtMjAyNjA5MjMtcDYwejByJTdDVHV0b3JpbmclMjBjb21wYW55JTIwdGVsbHMlMjBwYXJlbnRzJTIwdG8lMjBzYXZlJTIwdGhlaXIlMjBtb25leSUyMGFuZCUyMCd1c2UlMjBBSSUyMGluc3RlYWQnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MzE2OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAxNSUzQTA5JTNBMzglMjAlMkIwMDAw",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "pubDate": "Thu, 24 Sep 2026 15:09:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
     }
   ]
