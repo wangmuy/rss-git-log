@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-25",
     "newestItemDate": "2026-09-25",
-    "itemCount": 18,
-    "generatedAt": "2026-09-25T13:55:48.113Z"
+    "itemCount": 35,
+    "generatedAt": "2026-09-25T20:03:16.835Z"
   },
   "items": [
     {
@@ -114,6 +114,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqYXJkby5kZXYlMkZ3aGF0LWFib3V0LXJhaWxzJTdDaHR0cHMlM0ElMkYlMkZqYXJkby5kZXYlMkZ3aGF0LWFib3V0LXJhaWxzJTdDV2hhdCUyMEFib3V0JTIwUmFpbHMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTgzOTY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDAyJTNBNTAlM0ExNiUyMCUyQjAwMDA",
       "title": "What About Rails?",
       "pubDate": "Fri, 25 Sep 2026 02:50:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjeWJlcnNjb29wLmNvbSUyRnN1cHJlbWUtY291cnQtc2F2ZS1kYXRhYmFzZS12b3Rlci1jaXRpemVuc2hpcCUyRiU3Q2h0dHBzJTNBJTJGJTJGY3liZXJzY29vcC5jb20lMkZzdXByZW1lLWNvdXJ0LXNhdmUtZGF0YWJhc2Utdm90ZXItY2l0aXplbnNoaXAlMkYlN0NTdXByZW1lJTIwQ291cnQlMjBwZXJtaXRzJTIwc3RhdGVzJTIwdG8lMjB1c2UlMjBTQVZFJTIwZGF0YWJhc2UlMjBmb3IlMjBjaXRpemVuc2hpcCUyMGNoZWNrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ4ODQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTklM0EyOCUzQTMwJTIwJTJCMDAwMA",
+      "title": "Supreme Court permits states to use SAVE database for citizenship checks",
+      "pubDate": "Fri, 25 Sep 2026 19:28:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ybGRvZnJlZWwuY29tJTJGYmxvZyUyRjIwMjYlMkY5JTJGMjQlMkZsZXR0ZXJib3hkLWlzLXVwLWZvci1zYWxlLWFuZC1hMjQtc29ueS1hbmQtdGhlLW5ldy15b3JrLXRpbWVzLWJpZGRpbmclN0NodHRwcyUzQSUyRiUyRnd3dy53b3JsZG9mcmVlbC5jb20lMkZibG9nJTJGMjAyNiUyRjklMkYyNCUyRmxldHRlcmJveGQtaXMtdXAtZm9yLXNhbGUtYW5kLWEyNC1zb255LWFuZC10aGUtbmV3LXlvcmstdGltZXMtYmlkZGluZyU3Q0xldHRlcmJveGQlMjBJcyUyMFVwJTIwZm9yJTIwU2FsZSUyQyUyMGFuZCUyMEEyNCUyQyUyMFNvbnklMjBhbmQlMjB0aGUlMjBOZXclMjBZb3JrJTIwVGltZXMlMjBBcmUlMjBCaWRkaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDg4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxOSUzQTI2JTNBMTAlMjAlMkIwMDAw",
+      "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+      "pubDate": "Fri, 25 Sep 2026 19:26:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3MuY211LmVkdSUyRn5tYmx1bSUyRnJlc2VhcmNoJTJGcGRmJTJGZ3JhZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3MuY211LmVkdSUyRn5tYmx1bSUyRnJlc2VhcmNoJTJGcGRmJTJGZ3JhZC5odG1sJTdDQWR2aWNlJTIwdG8lMjBhJTIwQmVnaW5uaW5nJTIwR3JhZHVhdGUlMjBTdHVkZW50JTIwKDIwMDEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDg2ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxOSUzQTEyJTNBNDUlMjAlMkIwMDAw",
+      "title": "Advice to a Beginning Graduate Student (2001)",
+      "pubDate": "Fri, 25 Sep 2026 19:12:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RDam50cnFobjhwayU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEQ2pudHJxaG44cGslN0NBbGFuJTIwS2F5JTNBJTIwU2hhbm5vbiUyMGdhdmUlMjB1cyUyMGElMjB3YXklMjBvZiUyMGRlYWxpbmclMjB3aXRoJTIwbm9pc3klMjBjaGFubmVscyUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDgyOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxOCUzQTM3JTNBMDUlMjAlMkIwMDAw",
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "pubDate": "Fri, 25 Sep 2026 18:37:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbGxheWEuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZvbGxheWEuZGV2JTJGJTdDT2xsYXlhJTIwJUUyJTgwJTkzJTIwT2xsYW1hJTIwZm9yJTIwb3Blbi1zb3VyY2UlMkMlMjBKZXYtc3R5bGUlMjBkZWNpc2lvbiUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ4MjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTglM0EzMyUzQTUwJTIwJTJCMDAwMA",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "pubDate": "Fri, 25 Sep 2026 18:33:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc2NpZW5jZSUyRjIwMjYlMkYwOSUyRjI1JTJGYXN0cm9ub21lci13YXRjaGVzLXN0YXJsaW5rLXNhdGVsbGl0ZXMtc2lua2luZy10by1idWlsZC1hLXBsYW5ldGFyeS1iYXJvbWV0ZXIlMkY1Mjk5MDM2JTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc2NpZW5jZSUyRjIwMjYlMkYwOSUyRjI1JTJGYXN0cm9ub21lci13YXRjaGVzLXN0YXJsaW5rLXNhdGVsbGl0ZXMtc2lua2luZy10by1idWlsZC1hLXBsYW5ldGFyeS1iYXJvbWV0ZXIlMkY1Mjk5MDM2JTdDQXN0cm9ub21lciUyMHdhdGNoZXMlMjBTdGFybGluayUyMHNhdGVsbGl0ZXMlMjBzaW5raW5nJTIwdG8lMjBidWlsZCUyMGElMjAncGxhbmV0YXJ5JTIwYmFyb21ldGVyJyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ4MjI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTglM0EyOSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+      "pubDate": "Fri, 25 Sep 2026 18:29:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3VzZS5kZXYlMkZibG9nJTJGbXVzZS1zcGVjaWFsJTJGJTdDaHR0cHMlM0ElMkYlMkZtb3VzZS5kZXYlMkZibG9nJTJGbXVzZS1zcGVjaWFsJTJGJTdDTWV0YSdzJTIwTXVzZSUyMGFwcGVhcnMlMjB0byUyMHVzZSUyMGFuJTIwT3BlbkFJJTIwbW9kZWwlMjBsYWJlbGVkJTIwbXVzZS1zcGVjaWFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDgwOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxOCUzQTE4JTNBMDYlMjAlMkIwMDAw",
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "pubDate": "Fri, 25 Sep 2026 18:18:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZG9vbS1vci1ibG9vbS5jb20lN0NodHRwcyUzQSUyRiUyRnd3dy5kb29tLW9yLWJsb29tLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMERvb20lMjBvciUyMEJsb29tJTJDJTIwbWFwJTIweW91ciUyMEFJJTIwd29ybGR2aWV3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDY5NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxNiUzQTUxJTNBMjglMjAlMkIwMDAw",
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "pubDate": "Fri, 25 Sep 2026 16:51:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDkyOTkzJTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDkyOTkzJTJGJTdDVHlwc3QlMjBtYWtlcyUyMGJpZyUyMHN0cmlkZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0NjY0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDE2JTNBMjUlM0EwOCUyMCUyQjAwMDA",
+      "title": "Typst makes big strides",
+      "pubDate": "Fri, 25 Sep 2026 16:25:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDklMkYyNSUyRnBlbnRhZ29uLWFudGhyb3BpYy1haS1yaXNrLWFwcGVhbHMtY291cnQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNuYmMuY29tJTJGMjAyNiUyRjA5JTJGMjUlMkZwZW50YWdvbi1hbnRocm9waWMtYWktcmlzay1hcHBlYWxzLWNvdXJ0Lmh0bWwlN0NVLlMuJTIwYXBwZWFscyUyMGNvdXJ0JTIwdXBob2xkcyUyMGRlc2lnbmF0aW9uJTIwb2YlMjBBbnRocm9waWMlMjBhcyUyMHN1cHBseSUyMGNoYWluJTIwcmlzayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ1OTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTUlM0EyOSUzQTI1JTIwJTJCMDAwMA",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "pubDate": "Fri, 25 Sep 2026 15:29:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXYtcG9rZW1vbi52ZXJjZWwuYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZqZXYtcG9rZW1vbi52ZXJjZWwuYXBwJTJGJTdDU2hvdyUyMEhOJTNBJTIwSmV2JTIwUGxheXMlMjBQb2slQzMlQTltb24lMjBSZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0NTE3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDE0JTNBMjglM0EwNyUyMCUyQjAwMDA",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "pubDate": "Fri, 25 Sep 2026 14:28:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWN0b3Jpby5jb20lMkZibG9nJTJGcG9zdCUyRmZmZi00NDclN0NodHRwcyUzQSUyRiUyRmZhY3RvcmlvLmNvbSUyRmJsb2clMkZwb3N0JTJGZmZmLTQ0NyU3Q0ZhY3RvcmlvJTIwdGhhdCUyMHlvdSUyMGNhbiUyMHRvdWNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDUxMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxNCUzQTI0JTNBNDIlMjAlMkIwMDAw",
+      "title": "Factorio that you can touch",
+      "pubDate": "Fri, 25 Sep 2026 14:24:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdW5pbHNhZGFzaXZhbi5jb20lMkZ3cml0aW5nJTJGZmlyc3QtcHJpbmNpcGxlcy10aGlua2luZyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3VuaWxzYWRhc2l2YW4uY29tJTJGd3JpdGluZyUyRmZpcnN0LXByaW5jaXBsZXMtdGhpbmtpbmclMkYlN0NGaXJzdCUyMFByaW5jaXBsZXMlMjBUaGlua2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ0NzM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTMlM0E1NSUzQTM3JTIwJTJCMDAwMA",
+      "title": "First Principles Thinking",
+      "pubDate": "Fri, 25 Sep 2026 13:55:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3VsdGl2YXRlbGFicy5jb20lMkZwb3N0cyUyRndoYXQtaGFwcGVucy13aGVuLXlvdS1hbmFseXplLWNvbGxlZ2UtZm9vdGJhbGwtbGlrZS10aGUtY2lhJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3VsdGl2YXRlbGFicy5jb20lMkZwb3N0cyUyRndoYXQtaGFwcGVucy13aGVuLXlvdS1hbmFseXplLWNvbGxlZ2UtZm9vdGJhbGwtbGlrZS10aGUtY2lhJTdDV2hhdCUyMGhhcHBlbnMlMjB3aGVuJTIweW91JTIwYW5hbHl6ZSUyMHlvdXIlMjBmYXZvcml0ZSUyMGNvbGxlZ2UlMjBmb290YmFsbCUyMHRlYW0lMjBsaWtlJTIwdGhlJTIwQ0lBJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDQ2NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxMyUzQTQ3JTNBMjElMjAlMkIwMDAw",
+      "title": "What happens when you analyze your favorite college football team like the CIA?",
+      "pubDate": "Fri, 25 Sep 2026 13:47:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF5Lmdvb2dsZS5jb20lMkZzdG9yZSUyRmFwcHMlMkZkZXRhaWxzJTNGaWQlM0Rjb20uZ2Fkcy5oYW1pbHRvbiUyNmhsJTNEZW5fVVMlN0NodHRwcyUzQSUyRiUyRnBsYXkuZ29vZ2xlLmNvbSUyRnN0b3JlJTJGYXBwcyUyRmRldGFpbHMlM0ZpZCUzRGNvbS5nYWRzLmhhbWlsdG9uJTI2aGwlM0Rlbl9VUyU3Q1Nob3clMjBITiUzQSUyMEhhbWlsdG9uJTIwJUUyJTgwJTkzJTIwYSUyMG5vLWludGVybmV0JTIwQW5kcm9pZCUyMGhlYWx0aCUyMGRhc2hib2FyZCUyQyUyMG5hbWVkJTIwYWZ0ZXIlMjBteSUyMGRvZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQzOTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTIlM0E0OSUzQTE3JTIwJTJCMDAwMA",
+      "title": "Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",
+      "pubDate": "Fri, 25 Sep 2026 12:49:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnby5kZXYlMkZibG9nJTJGc2ltZC1leHBlcmltZW50JTdDaHR0cHMlM0ElMkYlMkZnby5kZXYlMkZibG9nJTJGc2ltZC1leHBlcmltZW50JTdDUGxhdGZvcm0taW5kZXBlbmRlbnQlMjBTSU1EJTIwaW4lMjBHbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQzMjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTElM0E0NyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Platform-independent SIMD in Go",
+      "pubDate": "Fri, 25 Sep 2026 11:47:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5rYW5kc3dpdGNoLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmlua2FuZHN3aXRjaC5jb20lMkYlN0NJbmslMjBhbmQlMjBTd2l0Y2glMjBpbnRlcmFjdGl2ZSUyMGhvbWVwYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDIyNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAwOSUzQTUwJTNBMjUlMjAlMkIwMDAw",
+      "title": "Ink and Switch interactive homepage",
+      "pubDate": "Fri, 25 Sep 2026 09:50:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
     }
   ]
