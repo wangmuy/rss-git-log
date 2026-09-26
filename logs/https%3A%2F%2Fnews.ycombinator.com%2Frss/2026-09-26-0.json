@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 5,
-    "generatedAt": "2026-09-26T05:08:52.345Z"
+    "itemCount": 14,
+    "generatedAt": "2026-09-26T13:12:20.820Z"
   },
   "items": [
     {
@@ -36,6 +36,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1bnNwaW4uYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZ1bnNwaW4uYXBwJTJGJTdDU2hvdyUyMEhOJTNBJTIwQSUyMGdhbWUlMjBhYm91dCUyMGZha2UlMjBuZXdzJTIwYW5kJTIwbWVtZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1MTc3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDAwJTNBMTElM0EzMyUyMCUyQjAwMDA",
       "title": "Show HN: A game about fake news and memes",
       "pubDate": "Sat, 26 Sep 2026 00:11:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWx0c2NoLmRlJTJGcG9zdHMlMkZicmVha2luZy11cC13aXRoLWdvb2dsZS1wbGF5JTJGJTdDaHR0cHMlM0ElMkYlMkZndWx0c2NoLmRlJTJGcG9zdHMlMkZicmVha2luZy11cC13aXRoLWdvb2dsZS1wbGF5JTJGJTdDQnJlYWtpbmclMjBVcCUyMHdpdGglMjBHb29nbGUlMjBQbGF5JTNBJTIwV2h5JTIwQ29udmVyc2F0aW9ucyUyMElzJTIwTm93JTIwRnJlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU1MzE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTAlM0E1NSUzQTU2JTIwJTJCMDAwMA",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "pubDate": "Sat, 26 Sep 2026 10:55:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmJ1c3Rpa2lsbGVyLmNvbSUyRjIwMjYlMkYwOSUyRjI1JTJGb25lLW1vbnRoLXdpdGhvdXQtYWkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5idXN0aWtpbGxlci5jb20lMkYyMDI2JTJGMDklMkYyNSUyRm9uZS1tb250aC13aXRob3V0LWFpLmh0bWwlN0NPbmUlMjBNb250aCUyMFdpdGhvdXQlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU1MDE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTAlM0EwOCUzQTIxJTIwJTJCMDAwMA",
+      "title": "One Month Without AI",
+      "pubDate": "Sat, 26 Sep 2026 10:08:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2luZG93c2NlbnRyYWwuY29tJTJGbWljcm9zb2Z0JTJGd2luZG93cy0xMSUyRnRoZS1jb3BpbG90LXBjLWJyYW5kLWlzLWRlYWQtbWljcm9zb2Z0LWFuZC1wYy1tYWtlcnMtcXVpZXRseS1wdWxsLWJhY2stb24tdGFybmlzaGVkLXdpbmRvd3MtMTEtYWktcGMtYnJhbmRpbmclN0NodHRwcyUzQSUyRiUyRnd3dy53aW5kb3dzY2VudHJhbC5jb20lMkZtaWNyb3NvZnQlMkZ3aW5kb3dzLTExJTJGdGhlLWNvcGlsb3QtcGMtYnJhbmQtaXMtZGVhZC1taWNyb3NvZnQtYW5kLXBjLW1ha2Vycy1xdWlldGx5LXB1bGwtYmFjay1vbi10YXJuaXNoZWQtd2luZG93cy0xMS1haS1wYy1icmFuZGluZyU3Q1RoZSUyMENvcGlsb3QlMkIlMjBQQyUyMGJyYW5kJTIwaXMlMjBkZWFkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTQ5NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAwOSUzQTU1JTNBMzglMjAlMkIwMDAw",
+      "title": "The Copilot+ PC brand is dead",
+      "pubDate": "Sat, 26 Sep 2026 09:55:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXhvbnRlY2gub3JnJTJGZmlmdGVlbi15ZWFycy1sYXRlci10aGUtYXBwbGUtY2FyZHMtb3JpZ2luLXN0b3J5JTdDaHR0cHMlM0ElMkYlMkZsZXhvbnRlY2gub3JnJTJGZmlmdGVlbi15ZWFycy1sYXRlci10aGUtYXBwbGUtY2FyZHMtb3JpZ2luLXN0b3J5JTdDRmlmdGVlbiUyMHllYXJzJTIwbGF0ZXIlMkMlMjB0aGUlMjBBcHBsZSUyMENhcmRzJTIwb3JpZ2luJTIwc3RvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NDY5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDA5JTNBMTMlM0E0MSUyMCUyQjAwMDA",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "pubDate": "Sat, 26 Sep 2026 09:13:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbG9jaS5pbyU3Q2h0dHBzJTNBJTJGJTJGZmxvY2kuaW8lMkYlN0NGbG9jaSUzQSUyMExvY2FsbHklMjBlbXVsYXRpbmclMjBhbnklMjBjbG91ZCUyMHNlcnZpY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NDQxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDA4JTNBMzElM0EwMiUyMCUyQjAwMDA",
+      "title": "Floci: Locally emulating any cloud service",
+      "pubDate": "Sat, 26 Sep 2026 08:31:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldGh6LmNoJTJGZW4lMkZuZXdzLWFuZC1ldmVudHMlMkZldGgtbmV3cyUyRm5ld3MlMkYyMDI2JTJGMDklMkZ0aGUtZmFyLXNpZGUtb2YtdGhlLW1vb24tcHJvdmlkZXMtY2x1ZXMtdG8tYS1wcmV2aW91cy1tYWduZXRpYy1maWVsZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZldGh6LmNoJTJGZW4lMkZuZXdzLWFuZC1ldmVudHMlMkZldGgtbmV3cyUyRm5ld3MlMkYyMDI2JTJGMDklMkZ0aGUtZmFyLXNpZGUtb2YtdGhlLW1vb24tcHJvdmlkZXMtY2x1ZXMtdG8tYS1wcmV2aW91cy1tYWduZXRpYy1maWVsZC5odG1sJTdDVGhlJTIwZmFyJTIwc2lkZSUyMG9mJTIwdGhlJTIwTW9vbiUyMHByb3ZpZGVzJTIwY2x1ZXMlMjB0byUyMGElMjBwcmV2aW91cyUyMG1hZ25ldGljJTIwZmllbGQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NDIxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDA3JTNBNDklM0E1MCUyMCUyQjAwMDA",
+      "title": "The far side of the Moon provides clues to a previous magnetic field",
+      "pubDate": "Sat, 26 Sep 2026 07:49:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYWZlbm90c2FmZS5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRnNhZmVub3RzYWZlLmRldiUyRiU3Q0lzJTIweW91ciUyMFBvc3RncmVzJTIwbWlncmF0aW9uJTIwc2FmZSUyMG9yJTIwbm90JTIwc2FmZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU0MTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMDclM0EzMyUzQTEyJTIwJTJCMDAwMA",
+      "title": "Is your Postgres migration safe or not safe?",
+      "pubDate": "Sat, 26 Sep 2026 07:33:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmFsbGFucmJvLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwOSUyRmEtamV2LWxpa2Utd3JhcHBlci1mb3ItbGxtcy1pbmNsdWRpbmcuaHRtbCU3Q2h0dHAlM0ElMkYlMkZhbGxhbnJiby5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDklMkZhLWpldi1saWtlLXdyYXBwZXItZm9yLWxsbXMtaW5jbHVkaW5nLmh0bWwlN0NBJTIwc2luZ2xlJTIwZnVuY3Rpb24lMjBKZXYtbGlrZSUyMHdyYXBwZXIlMjBmb3IlMjBMTE1zJTJDJTIwaW5jbHVkaW5nJTIwdmlzaW9uJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTMxNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAwNCUzQTIwJTNBNTglMjAlMkIwMDAw",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "pubDate": "Sat, 26 Sep 2026 04:20:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG9tZWxhYmZlc3Qub3JnJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaG9tZWxhYmZlc3Qub3JnJTJGJTdDSG9tZWxhYkZlc3QlMjB3aWxsJTIwYmUlMjBpbiUyMFN0LiUyMExvdWlzJTIwaW4lMjBTZXB0ZW1iZXIlMjAyMDI3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTI0NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAwMiUzQTAzJTNBMjQlMjAlMkIwMDAw",
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "pubDate": "Sat, 26 Sep 2026 02:03:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]

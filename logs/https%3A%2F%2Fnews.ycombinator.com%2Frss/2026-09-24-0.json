@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-24",
     "newestItemDate": "2026-09-24",
-    "itemCount": 47,
-    "generatedAt": "2026-09-26T05:08:52.346Z"
+    "itemCount": 52,
+    "generatedAt": "2026-09-26T13:12:20.820Z"
   },
   "items": [
     {
@@ -288,6 +288,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhZGVrYXUuZ2l0aHViLmlvJTJGcG9zdHMlMkYyMDIwJTJGbGxhbWFzLmh0bWwlN0NodHRwcyUzQSUyRiUyRmFkZWthdS5naXRodWIuaW8lMkZwb3N0cyUyRjIwMjAlMkZsbGFtYXMuaHRtbCU3Q0ZvdXJpZXIlMjBBbmFseXNpcyUzQSUyMERyYXdpbmclMjBMbGFtYXMlMjB3aXRoJTIwQ2lyY2xlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODI5NDcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMTIlM0EwMyUzQTM1JTIwJTJCMDAwMA",
       "title": "Fourier Analysis: Drawing Llamas with Circles",
       "pubDate": "Thu, 24 Sep 2026 12:03:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbXV0YWJsZS5jb20lMkZibG9nJTJGdGluZS1idWlsZC1zeXN0ZW0lN0NodHRwcyUzQSUyRiUyRmFtdXRhYmxlLmNvbSUyRmJsb2clMkZ0aW5lLWJ1aWxkLXN5c3RlbSU3Q0Zyb20lMjBUaGluJTIwQWlyJTIwdG8lMjBCb290YWJsZSUyMEltYWdlcyUzQSUyMFRoZSUyMFRpbmUlMjBCdWlsZCUyMFN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODMwMjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMTMlM0EyNSUzQTExJTIwJTJCMDAwMA",
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "pubDate": "Thu, 24 Sep 2026 13:25:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2ludGhlZnJlZXdvcmxkLm9yZyUyRmJsb2clMkZhcnRpY2xlcyUyRmxpc3BzJTJGcGFyc2luZy1leHByZXNzaW9uLWdyYW1tYXItbGlzcC1vcmctY29udmVydC10by1odG1sJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGam9pbnRoZWZyZWV3b3JsZC5vcmclMkZibG9nJTJGYXJ0aWNsZXMlMkZsaXNwcyUyRnBhcnNpbmctZXhwcmVzc2lvbi1ncmFtbWFyLWxpc3Atb3JnLWNvbnZlcnQtdG8taHRtbCUyRmluZGV4Lmh0bWwlN0NQYXJzaW5nJTIwRXhwcmVzc2lvbiUyMEdyYW1tYXIlMjB2cy4lMjBSZWdleGVzJTNBJTIwQnVpbGRpbmclMjBPcmclMjBQYXJzZXIlMjBpbiUyMExpc3AlMkMlMjBFeHBvcnQlMjBIVE1MJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Mjk1MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAxMiUzQTEwJTNBNTMlMjAlMkIwMDAw",
+      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "pubDate": "Thu, 24 Sep 2026 12:10:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dWNrZXJvc21hbi5jb20lMkZwcm9qZWN0cyUyRjE2Z2ItaXBvZC1uYW5vJTdDaHR0cHMlM0ElMkYlMkZ0dWNrZXJvc21hbi5jb20lMkZwcm9qZWN0cyUyRjE2Z2ItaXBvZC1uYW5vJTdDMTZHQiUyMGlQb2QlMjBOYW5vJTIwM0clMjBVcGdyYWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MjYwODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAwMyUzQTU4JTNBNTQlMjAlMkIwMDAw",
+      "title": "16GB iPod Nano 3G Upgrade",
+      "pubDate": "Thu, 24 Sep 2026 03:58:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA5LXNjaWVudGlzdHMtd29ybGQtYWNjdXJhdGUtYXRvbWljLWNsb2NrLmh0bWwlN0NodHRwcyUzQSUyRiUyRnBoeXMub3JnJTJGbmV3cyUyRjIwMjYtMDktc2NpZW50aXN0cy13b3JsZC1hY2N1cmF0ZS1hdG9taWMtY2xvY2suaHRtbCU3Q1NjaWVudGlzdHMlMjBidWlsZCUyMG1vc3QlMjBhY2N1cmF0ZSUyMGF0b21pYyUyMGNsb2NrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4MjQ4NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNCUyMFNlcCUyMDIwMjYlMjAwMSUzQTAwJTNBMDElMjAlMkIwMDAw",
+      "title": "Scientists build most accurate atomic clock",
+      "pubDate": "Thu, 24 Sep 2026 01:00:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3N0aS5nb3YlMkZzZXJ2bGV0cyUyRnB1cmwlMkYxMTI0ODcwJTdDaHR0cHMlM0ElMkYlMkZ3d3cub3N0aS5nb3YlMkZzZXJ2bGV0cyUyRnB1cmwlMkYxMTI0ODcwJTdDQ2FsY3VsYXRpbmclMjBhdG1vc3BoZXJpYyUyMGRyYWclMjBvbiUyMHNhdGVsbGl0ZXMlMjBmb3IlMjBhJTIwQ3ViZXNhdCUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODI0NjQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjQlMjBTZXAlMjAyMDI2JTIwMDAlM0EzNCUzQTExJTIwJTJCMDAwMA",
+      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+      "pubDate": "Thu, 24 Sep 2026 00:34:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-24-0.json"
     }
   ]
