@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-21",
     "newestItemDate": "2026-09-21",
-    "itemCount": 73,
-    "generatedAt": "2026-09-24T20:01:54.130Z"
+    "itemCount": 74,
+    "generatedAt": "2026-09-26T05:08:52.346Z"
   },
   "items": [
     {
@@ -444,6 +444,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhaGVsd2VyLmNhJTJGcG9zdCUyRjIwMjYtMDktMjEtY29uY3VycmVuY3ktdGV4dGJvb2slMkYlN0NodHRwcyUzQSUyRiUyRmFoZWx3ZXIuY2ElMkZwb3N0JTJGMjAyNi0wOS0yMS1jb25jdXJyZW5jeS10ZXh0Ym9vayUyRiU3Q0Jvb2slMjByZXZpZXclM0ElMjBJcyUyMHBhcmFsbGVsJTIwcHJvZ3JhbW1pbmclMjBoYXJkJTJDJTIwYW5kJTJDJTIwaWYlMjBzbyUyQyUyMHdoYXQlMjBjYW4lMjB5b3UlMjBkbyUyMGFib3V0JTIwaXQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc4Nzc1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIxJTIwU2VwJTIwMjAyNiUyMDE0JTNBMzAlM0EwMCUyMCUyQjAwMDA",
       "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
       "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbWF5cy5jb20lMkZtYWtpbmctbWF0aC1hdXRvbWF0aWMtd2l0aC1tYXRoeSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ21heXMuY29tJTJGbWFraW5nLW1hdGgtYXV0b21hdGljLXdpdGgtbWF0aHklMkYlN0NTaG93JTIwSE4lM0ElMjBNYWtlJTIwbWF0aCUyMGF1dG9tYXRpYyUyMHdpdGglMjBNYXRoeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzg4MDE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjElMjBTZXAlMjAyMDI2JTIwMTQlM0E0OSUzQTA1JTIwJTJCMDAwMA",
+      "title": "Show HN: Make math automatic with Mathy",
+      "pubDate": "Mon, 21 Sep 2026 14:49:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-21-0.json"
     }
   ]

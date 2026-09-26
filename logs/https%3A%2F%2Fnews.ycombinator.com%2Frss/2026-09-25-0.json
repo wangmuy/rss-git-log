@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-25",
     "newestItemDate": "2026-09-25",
-    "itemCount": 35,
-    "generatedAt": "2026-09-25T20:03:16.835Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-26T05:08:52.345Z"
   },
   "items": [
     {
@@ -216,6 +216,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5rYW5kc3dpdGNoLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmlua2FuZHN3aXRjaC5jb20lMkYlN0NJbmslMjBhbmQlMjBTd2l0Y2glMjBpbnRlcmFjdGl2ZSUyMGhvbWVwYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDIyNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAwOSUzQTUwJTNBMjUlMjAlMkIwMDAw",
       "title": "Ink and Switch interactive homepage",
       "pubDate": "Fri, 25 Sep 2026 09:50:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnNlcm90b25pbi1zdHJlc3Mtc21hcnQtY29udGFjdC1sZW5zJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnNlcm90b25pbi1zdHJlc3Mtc21hcnQtY29udGFjdC1sZW5zJTdDTGFiJTIwb24lMjBhJTIwQ29udGFjdCUyMExlbnMlMjBDYW4lMjBNZWFzdXJlJTIwU3RyZXNzJTIwVGhyb3VnaCUyMFNlcm90b25pbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODUwNzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMjIlM0EyOCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "pubDate": "Fri, 25 Sep 2026 22:28:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2NrcHVwcGV0Lm9yZyUyRmJsb2clMkYyMDI2JTJGMDklMkYyNSUyRndoYXQtZXZlbi1pcy1hbi1vcy1ub3clMkYlN0NodHRwcyUzQSUyRiUyRnNvY2twdXBwZXQub3JnJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjI1JTJGd2hhdC1ldmVuLWlzLWFuLW9zLW5vdyUyRiU3Q1doYXQlMjBldmVuJTIwaXMlMjBhbiUyME9TJTIwbm93JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTAzMDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAyMSUzQTM2JTNBNTYlMjAlMkIwMDAw",
+      "title": "What even is an OS now?",
+      "pubDate": "Fri, 25 Sep 2026 21:36:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3B0YmV5b25kLmNvbSUyRnRyeSUzRmhvbWUlM0QxJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ3B0YmV5b25kLmNvbSUyRnRyeSUzRmhvbWUlM0QxJTdDU2hvdyUyMEhOJTNBJTIwRWtzZWxpbyUyMCVFMiU4MCU5MyUyMExvdmVhYmxlJTIwZm9yJTIwZmluYW5jZSUyMHdvcmtmbG93cyUyMChsb2NhbCUyMGZpcnN0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ5OTg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMjElM0EwOSUzQTI4JTIwJTJCMDAwMA",
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "pubDate": "Fri, 25 Sep 2026 21:09:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzd2FybXRyYWNlcy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnN3YXJtdHJhY2VzLm9yZyUyRiU3Q1JldmVhbGluZyUyMHRoZSUyMGRldGFpbHMlMjBvZiUyMGhvdyUyME9wZW5BSSUyMGFnZW50cyUyMGhhY2tlZCUyMEh1Z2dpbmclMjBGYWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDk5ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAyMSUzQTA5JTNBMjclMjAlMkIwMDAw",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "pubDate": "Fri, 25 Sep 2026 21:09:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY29tbXVuaXR5Lm1pY3Jvc29mdC5jb20lMkZibG9nJTJGbWljcm9zb2Z0MzY1aW5zaWRlcmJsb2clMkZwdXQtbXVsdGlwbGUtdmFsdWVzLWluLW9uZS1jZWxsLXdpdGgtbGlzdHMtYW5kLWFycmF5cy1pbi1leGNlbCUyRjQ1NTkzOTUlN0NodHRwcyUzQSUyRiUyRnRlY2hjb21tdW5pdHkubWljcm9zb2Z0LmNvbSUyRmJsb2clMkZtaWNyb3NvZnQzNjVpbnNpZGVyYmxvZyUyRnB1dC1tdWx0aXBsZS12YWx1ZXMtaW4tb25lLWNlbGwtd2l0aC1saXN0cy1hbmQtYXJyYXlzLWluLWV4Y2VsJTJGNDU1OTM5NSU3Q0V4Y2VsJTIwbm93JTIwc3VwcG9ydHMlMjBtdWx0aXBsZSUyMHZhbHVlcyUyMGluJTIwYSUyMHNpbmdsZSUyMGNlbGwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0OTgzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDIwJTNBNTUlM0EwMCUyMCUyQjAwMDA",
+      "title": "Excel now supports multiple values in a single cell",
+      "pubDate": "Fri, 25 Sep 2026 20:55:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbmwubWl0LmVkdSUyRmhvdy13ZS1sZWFybmVkLXRvLXN0b3Atd29ycnlpbmctYW5kLWxvdmUtY2FtcHVzLXN1cnZlaWxsYW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZm5sLm1pdC5lZHUlMkZob3ctd2UtbGVhcm5lZC10by1zdG9wLXdvcnJ5aW5nLWFuZC1sb3ZlLWNhbXB1cy1zdXJ2ZWlsbGFuY2UlMkYlN0NIb3clMjB3ZSUyMGxlYXJuZWQlMjB0byUyMHN0b3AlMjB3b3JyeWluZyUyMGFuZCUyMGxvdmUlMjBjYW1wdXMlMjBzdXJ2ZWlsbGFuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0OTE0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDE5JTNBNTYlM0E1NyUyMCUyQjAwMDA",
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "pubDate": "Fri, 25 Sep 2026 19:56:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGZ3Jhdml0eS1zZWVtcy1ob2xvZ3JhcGhpYy13aGF0LWRvZXMtdGhhdC1tZWFuLWZvci1yZWFsaXR5LTIwMjYwOTI1JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGZ3Jhdml0eS1zZWVtcy1ob2xvZ3JhcGhpYy13aGF0LWRvZXMtdGhhdC1tZWFuLWZvci1yZWFsaXR5LTIwMjYwOTI1JTJGJTdDR3Jhdml0eSUyMHNlZW1zJTIwaG9sb2dyYXBoaWMuJTIwV2hhdCUyMGRvZXMlMjB0aGF0JTIwbWVhbiUyMGZvciUyMHJlYWxpdHklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0NTk5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzElM0EwMiUyMCUyQjAwMDA",
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "pubDate": "Fri, 25 Sep 2026 15:31:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMDktMjUlMkZtaWNyb3NvZnQtYWJhbmRvbnMtcGVyc29uYWwtYWktY2hhdGJvdC1yYWNlLXdpdGgtY29waWxvdC1yZWJvb3QlN0NodHRwcyUzQSUyRiUyRnd3dy5ibG9vbWJlcmcuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGMjAyNi0wOS0yNSUyRm1pY3Jvc29mdC1hYmFuZG9ucy1wZXJzb25hbC1haS1jaGF0Ym90LXJhY2Utd2l0aC1jb3BpbG90LXJlYm9vdCU3Q01pY3Jvc29mdCUyMGFiYW5kb25zJTIwcGVyc29uYWwlMjBBSSUyMGNoYXRib3QlMjByYWNlJTIwd2l0aCUyMENvcGlsb3QlMjByZWJvb3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0NDg5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDclM0EwOCUyMCUyQjAwMDA",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "pubDate": "Fri, 25 Sep 2026 14:07:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrZXJhdGxhcy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmhhY2tlcmF0bGFzLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEhhY2tlciUyMEF0bGFzJTIwLSUyMEElMjBtYXAlMjBvZiUyMHdoYXQlMjBIYWNrZXIlMjBOZXdzJTIwdGFsa3MlMjBhYm91dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ0NDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTMlM0EzNyUzQTU0JTIwJTJCMDAwMA",
+      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+      "pubDate": "Fri, 25 Sep 2026 13:37:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGZW52aXJvbm1lbnQlMkYyMDI2JTJGc2VwJTJGMjUlMkZkaWRudC1uZWVkLWFpci1jb25kaXRpb25pbmctYWlycG9ydC1jb29sZWQtbmF0dXJhbC12ZW50aWxhdGlvbi1yZXVuaW9uJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGZW52aXJvbm1lbnQlMkYyMDI2JTJGc2VwJTJGMjUlMkZkaWRudC1uZWVkLWFpci1jb25kaXRpb25pbmctYWlycG9ydC1jb29sZWQtbmF0dXJhbC12ZW50aWxhdGlvbi1yZXVuaW9uJTdDQW4lMjBhaXJwb3J0JTIwY29vbGVkJTIwYnklMjBuYXR1cmFsJTIwdmVudGlsYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0MjQ2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDEwJTNBMTYlM0E1MCUyMCUyQjAwMDA",
+      "title": "An airport cooled by natural ventilation",
+      "pubDate": "Fri, 25 Sep 2026 10:16:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcGVzdHIuY29tJTJGYmxvZyUyRndyaXRpbmctYS1yYXktdHJhY2VyLWluLWJyYWluZnVjayUyRiU3Q2h0dHBzJTNBJTJGJTJGZXBlc3RyLmNvbSUyRmJsb2clMkZ3cml0aW5nLWEtcmF5LXRyYWNlci1pbi1icmFpbmZ1Y2slMkYlN0NJJTIwd3JvdGUlMjBhJTIwcmF5JTIwdHJhY2VyJTIwaW4lMjBCcmFpbmZ1Y2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0MjQwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDEwJTNBMDglM0E0MSUyMCUyQjAwMDA",
+      "title": "I wrote a ray tracer in Brainfuck",
+      "pubDate": "Fri, 25 Sep 2026 10:08:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXltYW5uYWRlZW0uY29tJTJGYXJ0aWZpY2lhbCUyRmludGVsbGlnZW5jZSUyQyUyRmRldmVsb3BlciUyRnRvb2xzJTJGMjAyNiUyRjA5JTJGMjQlMkZwbGFuLW1vZGUtaXMtZGVhZC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXltYW5uYWRlZW0uY29tJTJGYXJ0aWZpY2lhbCUyRmludGVsbGlnZW5jZSUyQyUyRmRldmVsb3BlciUyRnRvb2xzJTJGMjAyNiUyRjA5JTJGMjQlMkZwbGFuLW1vZGUtaXMtZGVhZC5odG1sJTdDUGxhbiUyMG1vZGUlMjBpcyUyMGRlYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0MDA1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDAzJTNBNTklM0ExMSUyMCUyQjAwMDA",
+      "title": "Plan mode is dead",
+      "pubDate": "Fri, 25 Sep 2026 03:59:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
     }
   ]

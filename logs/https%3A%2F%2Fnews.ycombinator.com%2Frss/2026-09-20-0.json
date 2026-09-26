@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-20",
     "newestItemDate": "2026-09-20",
-    "itemCount": 56,
-    "generatedAt": "2026-09-24T20:01:54.131Z"
+    "itemCount": 57,
+    "generatedAt": "2026-09-26T05:08:52.346Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhpbGlwenVja2VyLmNvbSUyRmxhbWJkYV9taWxsZXJfZWdnJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhpbGlwenVja2VyLmNvbSUyRmxhbWJkYV9taWxsZXJfZWdnJTJGJTdDTGFtYmRhJTIwTWljcm9FZ2clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTc3NzE1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIwJTIwU2VwJTIwMjAyNiUyMDE2JTNBMDUlM0ExMCUyMCUyQjAwMDA",
       "title": "Lambda MicroEgg",
       "pubDate": "Sun, 20 Sep 2026 16:05:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZW5zb24ub3JnJTJGZ2FtZXMlMkYlN0NodHRwcyUzQSUyRiUyRmplbnNvbi5vcmclMkZnYW1lcyUyRiU3Q0hvdyUyMHZpZGVvJTIwZ2FtZXMlMjBpbnNwaXJlJTIwZ3JlYXQlMjBVWCUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5Nzc3MTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjAlMjBTZXAlMjAyMDI2JTIwMTYlM0EwMCUzQTEzJTIwJTJCMDAwMA",
+      "title": "How video games inspire great UX (2019)",
+      "pubDate": "Sun, 20 Sep 2026 16:00:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-20-0.json"
     }
   ]
