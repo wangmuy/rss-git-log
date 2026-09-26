@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 14,
-    "generatedAt": "2026-09-26T13:12:20.820Z"
+    "itemCount": 24,
+    "generatedAt": "2026-09-26T19:15:35.165Z"
   },
   "items": [
     {
@@ -90,6 +90,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaG9tZWxhYmZlc3Qub3JnJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaG9tZWxhYmZlc3Qub3JnJTJGJTdDSG9tZWxhYkZlc3QlMjB3aWxsJTIwYmUlMjBpbiUyMFN0LiUyMExvdWlzJTIwaW4lMjBTZXB0ZW1iZXIlMjAyMDI3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTI0NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAwMiUzQTAzJTNBMjQlMjAlMkIwMDAw",
       "title": "HomelabFest will be in St. Louis in September 2027",
       "pubDate": "Sat, 26 Sep 2026 02:03:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmVsYWRyYXclMkZyZWxhZHJhdyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJlbGFkcmF3JTJGcmVsYWRyYXclN0NTaG93JTIwSE4lM0ElMjBSZWxhZHJhdyUyMCVFMiU4MCU5MyUyMEElMjBkaWFncmFtJTIwbGFuZ3VhZ2UlMjB3aGVyZSUyMHlvdSUyMGRlY2lkZSUyMHdoZXJlJTIwdG8lMjBwbGFjZSUyMHRoaW5ncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU4NTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTclM0ExMCUzQTQwJTIwJTJCMDAwMA",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "pubDate": "Sat, 26 Sep 2026 17:10:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZsZWdhbCUyRmxpdGlnYXRpb24lMkZ1cy1qdXJ5LXNheXMtYXBwbGUtb3dlcy1yZWNvcmQtNTctYmlsbGlvbi1oYXB0aWMtdGVjaG5vbG9neS1wYXRlbnQtY2FzZS0yMDI2LTA5LTI2JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZsZWdhbCUyRmxpdGlnYXRpb24lMkZ1cy1qdXJ5LXNheXMtYXBwbGUtb3dlcy1yZWNvcmQtNTctYmlsbGlvbi1oYXB0aWMtdGVjaG5vbG9neS1wYXRlbnQtY2FzZS0yMDI2LTA5LTI2JTJGJTdDVVMlMjBqdXJ5JTIwc2F5cyUyMEFwcGxlJTIwb3dlcyUyMHJlY29yZCUyMCUyNDUuN0IlMjBpbiUyMGhhcHRpYyUyMHRlY2hub2xvZ3klMjBwYXRlbnQlMjBjYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTgyNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAxNiUzQTQ2JTNBMjQlMjAlMkIwMDAw",
+      "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
+      "pubDate": "Sat, 26 Sep 2026 16:46:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVtb21vZnRoZXllYXIuc3Vic3RhY2suY29tJTJGcCUyRmltLXRoZS1tb20taW4tdGhhdC12aXJhbC1naWFudHMtY2xpcCU3Q2h0dHBzJTNBJTJGJTJGdGhlbW9tb2Z0aGV5ZWFyLnN1YnN0YWNrLmNvbSUyRnAlMkZpbS10aGUtbW9tLWluLXRoYXQtdmlyYWwtZ2lhbnRzLWNsaXAlN0NJJ20lMjB0aGUlMjBtb20lMjBpbiUyMHRoYXQlMjB2aXJhbCUyMEdpYW50cyUyMGNsaXAuJTIwTGV0JTIwbWUlMjB0ZWxsJTIweW91JTIwYWJvdXQlMjBteSUyMGh1c2JhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1Nzg5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE2JTNBMTIlM0ExOCUyMCUyQjAwMDA",
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "pubDate": "Sat, 26 Sep 2026 16:12:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRnlhbm5kZWdhdC50bmdsLnNoJTJGZHJhd2dlbnQlN0NodHRwcyUzQSUyRiUyRnRhbmdsZWQub3JnJTJGeWFubmRlZ2F0LnRuZ2wuc2glMkZkcmF3Z2VudCU3Q0RyYXdnZW50JTNBJTIwQ29kaW5nJTIwYWdlbnQlMjBvbiUyMGElMjBsaXZlJTIwRXhjYWxpZHJhdyUyMGNhbnZhcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU3NzI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTUlM0E1NiUzQTM0JTIwJTJCMDAwMA",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "pubDate": "Sat, 26 Sep 2026 15:56:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwOSUyRjI1JTJGYXBwbGUtcGF5LWFudGl0cnVzdC1sYXdzdWl0LWFkdmFuY2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFjcnVtb3JzLmNvbSUyRjIwMjYlMkYwOSUyRjI1JTJGYXBwbGUtcGF5LWFudGl0cnVzdC1sYXdzdWl0LWFkdmFuY2VzJTJGJTdDQmFua3MlMjBhbmQlMjBDcmVkaXQlMjBVbmlvbnMlMjB0byUyMFRlYW0lMjBVcCUyMEFnYWluc3QlMjBBcHBsZSUyMFBheSUyMEZlZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NzY1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE1JTNBNDglM0ExOCUyMCUyQjAwMDA",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "pubDate": "Sat, 26 Sep 2026 15:48:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYwOSUyRjI1JTJGYXV0b21hdHRpYy1oYXMtYS1uZXctYm9hcmQtYWZ0ZXItZmFpbGVkLWF0dGVtcHQtdG8tcHV0LWNlby1vbi1sZWF2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMDklMkYyNSUyRmF1dG9tYXR0aWMtaGFzLWEtbmV3LWJvYXJkLWFmdGVyLWZhaWxlZC1hdHRlbXB0LXRvLXB1dC1jZW8tb24tbGVhdmUlMkYlN0NBdXRvbWF0dGljJTIwaGFzJTIwYSUyMG5ldyUyMGJvYXJkJTIwYWZ0ZXIlMjBmYWlsZWQlMjBhdHRlbXB0JTIwdG8lMjBwdXQlMjBDRU8lMjBvbiUyMGxlYXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTc1NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAxNSUzQTQwJTNBMjclMjAlMkIwMDAw",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "pubDate": "Sat, 26 Sep 2026 15:40:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYnJ1bWFyJTJGY2hlc3MtcG9zdG1vcnRlbS1za2lsbHMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZicnVtYXIlMkZjaGVzcy1wb3N0bW9ydGVtLXNraWxscyU3Q1Nob3clMjBITiUzQSUyMEElMjBDbGF1ZGUlMjBDb2RlJTIwc2tpbGwlMjB0byUyMGFuYWx5emUlMjB5b3VyJTIwY2hlc3MlMjBnYW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU3NTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTUlM0EzNCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "pubDate": "Sat, 26 Sep 2026 15:34:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmxlYWRlcnMlMkYyMDI2JTJGMDklMkYxMCUyRnBsdW5naW5nLXRlc3Qtc2NvcmVzLWFyZS1hLXNsb3ctbW92aW5nLWNhdGFzdHJvcGhlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmxlYWRlcnMlMkYyMDI2JTJGMDklMkYxMCUyRnBsdW5naW5nLXRlc3Qtc2NvcmVzLWFyZS1hLXNsb3ctbW92aW5nLWNhdGFzdHJvcGhlJTdDUGx1bmdpbmclMjB0ZXN0JTIwc2NvcmVzJTIwYXJlJTIwYSUyMHNsb3ctbW92aW5nJTIwY2F0YXN0cm9waGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NzQ0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE1JTNBMjQlM0EwOCUyMCUyQjAwMDA",
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "pubDate": "Sat, 26 Sep 2026 15:24:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmN3NjJqamU2NThkbG8lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGY3c2MmpqZTY1OGRsbyU3Q09wZW5BSSUyMGJvdHMlMjBtZWRkbGVkJTIwd2l0aCUyMG11bHRpcGxlJTIwVVMlMjBHb3Zlcm5tZW50JTIwYWdlbmN5JTIwc2l0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NjY2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDMlM0E1NCUyMCUyQjAwMDA",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "pubDate": "Sat, 26 Sep 2026 14:03:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjb3Vyc2UuaGFza2VsbC5vcmclMkZ0JTJGaG93LXRvLWtlZXAtZW5qb3lpbmctcHJvZ3JhbW1pbmctaW4tYS13b3JsZC1vZi1sbG1zJTJGMTQ3MDUlN0NodHRwcyUzQSUyRiUyRmRpc2NvdXJzZS5oYXNrZWxsLm9yZyUyRnQlMkZob3ctdG8ta2VlcC1lbmpveWluZy1wcm9ncmFtbWluZy1pbi1hLXdvcmxkLW9mLWxsbXMlMkYxNDcwNSU3Q0hvdyUyMHRvJTIwa2VlcCUyMGVuam95aW5nJTIwcHJvZ3JhbW1pbmclMjBpbiUyMGElMjB3b3JsZCUyMG9mJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU0ODc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMDklM0E0MSUzQTU4JTIwJTJCMDAwMA",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "pubDate": "Sat, 26 Sep 2026 09:41:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]
