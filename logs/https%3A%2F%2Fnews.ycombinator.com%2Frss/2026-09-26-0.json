@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 35,
-    "generatedAt": "2026-09-27T05:26:08.199Z"
+    "itemCount": 37,
+    "generatedAt": "2026-09-27T14:04:07.852Z"
   },
   "items": [
     {
@@ -216,6 +216,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbXBkb3QubWVzaC5ob3N0JTJGdG9rZW4tc3BhY2UtZm9udHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYW1wZG90Lm1lc2guaG9zdCUyRnRva2VuLXNwYWNlLWZvbnRzLmh0bWwlN0NHZW5lcmF0ZSUyMGZvbnRzJTIwd2hlcmUlMjBldmVyeSUyMExMTSUyMHRva2VuJTIwaXMlMjB0aGUlMjBzYW1lJTIwd2lkdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1MTg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDAwJTNBMzAlM0EwMyUyMCUyQjAwMDA",
       "title": "Generate fonts where every LLM token is the same width",
       "pubDate": "Sat, 26 Sep 2026 00:30:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWtlY2xvdWQuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZmYWtlY2xvdWQuZGV2JTJGJTdDRmFrZWNsb3VkJTNBJTIwTG9jYWwlMjBBV1MlMjBjbG91ZCUyMGVtdWxhdG9yJTIwZm9yJTIwaW50ZWdyYXRpb24lMjB0ZXN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU2ODg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTQlM0EyNSUzQTE2JTIwJTJCMDAwMA",
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "pubDate": "Sat, 26 Sep 2026 14:25:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXR4ZWxhLmNvbSUyRnByb2plY3RzJTJGZmxpcGZsaXAlN0NodHRwcyUzQSUyRiUyRm1pdHhlbGEuY29tJTJGcHJvamVjdHMlMkZmbGlwZmxpcCU3Q0ZsaXAlMjBGbHVpZCUyMG9uJTIwRmxpcCUyMERvdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NDIxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDA3JTNBNTAlM0EyNCUyMCUyQjAwMDA",
+      "title": "Flip Fluid on Flip Dots",
+      "pubDate": "Sat, 26 Sep 2026 07:50:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]

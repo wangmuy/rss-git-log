@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-25",
     "newestItemDate": "2026-09-25",
-    "itemCount": 57,
-    "generatedAt": "2026-09-27T05:26:08.199Z"
+    "itemCount": 60,
+    "generatedAt": "2026-09-27T14:04:07.853Z"
   },
   "items": [
     {
@@ -348,6 +348,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGYmlvbG9neS1taWdodC1ub3QtYmUtcXVhbnR1bS1idXQtaXRzLW1hdGgtaXMtcXVhbnR1bWxpa2UtMjAyNjA5MjMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZiaW9sb2d5LW1pZ2h0LW5vdC1iZS1xdWFudHVtLWJ1dC1pdHMtbWF0aC1pcy1xdWFudHVtbGlrZS0yMDI2MDkyMyUyRiU3Q0Jpb2xvZ3klMjBtaWdodCUyMG5vdCUyMGJlJTIwcXVhbnR1bSUyQyUyMGJ1dCUyMGl0cyUyMG1hdGglMjBpcyUyMHF1YW50dW1saWtlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Mzk0MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAwMiUzQTExJTNBMDclMjAlMkIwMDAw",
       "title": "Biology might not be quantum, but its math is quantumlike",
       "pubDate": "Fri, 25 Sep 2026 02:11:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFzaWJlbi5naXRodWIuaW8lMkZibG9nJTJGb29jLXNodWZmbGluZy1yYXBpZHNtcGYlMkYlN0NodHRwcyUzQSUyRiUyRnF1YXNpYmVuLmdpdGh1Yi5pbyUyRmJsb2clMkZvb2Mtc2h1ZmZsaW5nLXJhcGlkc21wZiUyRiU3Q0FjY2VsZXJhdGVkJTIwT3V0JTIwb2YlMjBDb3JlJTIwU2h1ZmZsaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTA3MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAyMiUzQTIzJTNBNTElMjAlMkIwMDAw",
+      "title": "Accelerated Out of Core Shuffling",
+      "pubDate": "Fri, 25 Sep 2026 22:23:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3N0YWxnaWEuZGV2JTJGcG9zdHMlMkZ0ZWFjaGluZy1hLXdvcmxkLW1vZGVsLXRvLXBsYXktcG9rZW1vbiUyRiU3Q2h0dHBzJTNBJTJGJTJGbm9zdGFsZ2lhLmRldiUyRnBvc3RzJTJGdGVhY2hpbmctYS13b3JsZC1tb2RlbC10by1wbGF5LXBva2Vtb24lMkYlN0NUZWFjaGluZyUyMGElMjBXb3JsZCUyME1vZGVsJTIwdG8lMjBQbGF5JTIwUG9rZW1vbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ5OTA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMjElM0EwMiUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Teaching a World Model to Play Pokemon",
+      "pubDate": "Fri, 25 Sep 2026 21:02:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZW5ld3Mub3JnJTJGYXJ0aWNsZSUyRnRydWUtYmx1ZS1yb3NlLXBpZ21lbnQtY29waWdtZW50JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZW5ld3Mub3JnJTJGYXJ0aWNsZSUyRnRydWUtYmx1ZS1yb3NlLXBpZ21lbnQtY29waWdtZW50JTdDRmluYWxseSUyQyUyMEElMjBUcnVlJTIwQmx1ZSUyMFJvc2UlMjBFeGlzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0OTcyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDIwJTNBNDQlM0EzOCUyMCUyQjAwMDA",
+      "title": "Finally, A True Blue Rose Exists",
+      "pubDate": "Fri, 25 Sep 2026 20:44:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
     }
   ]
