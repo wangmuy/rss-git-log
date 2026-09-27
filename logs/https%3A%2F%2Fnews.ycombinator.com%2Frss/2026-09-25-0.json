@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-25",
     "newestItemDate": "2026-09-25",
-    "itemCount": 60,
-    "generatedAt": "2026-09-27T14:04:07.853Z"
+    "itemCount": 65,
+    "generatedAt": "2026-09-27T19:47:50.190Z"
   },
   "items": [
     {
@@ -366,6 +366,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZW5ld3Mub3JnJTJGYXJ0aWNsZSUyRnRydWUtYmx1ZS1yb3NlLXBpZ21lbnQtY29waWdtZW50JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZW5ld3Mub3JnJTJGYXJ0aWNsZSUyRnRydWUtYmx1ZS1yb3NlLXBpZ21lbnQtY29waWdtZW50JTdDRmluYWxseSUyQyUyMEElMjBUcnVlJTIwQmx1ZSUyMFJvc2UlMjBFeGlzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0OTcyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDIwJTNBNDQlM0EzOCUyMCUyQjAwMDA",
       "title": "Finally, A True Blue Rose Exists",
       "pubDate": "Fri, 25 Sep 2026 20:44:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpY20ubXVzZXVtJTJGYmxvZyUyRiUzRnAlM0QyMDclN0NodHRwcyUzQSUyRiUyRmljbS5tdXNldW0lMkZibG9nJTJGJTNGcCUzRDIwNyU3Q0tpY2tpJTNBJTIwQSUyMERFQ3N5c3RlbTEwNjAlMjAlRTIlODAlOTMlMjBJbnRlcmltJTIwQ29tcHV0ZXIlMjBNdXNldW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1MDYxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDIyJTNBMTElM0E1NyUyMCUyQjAwMDA",
+      "title": "Kicki: A DECsystem1060 – Interim Computer Museum",
+      "pubDate": "Fri, 25 Sep 2026 22:11:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhc2F3aWNraS5pbmZvJTJGYXJ0aWNsZXMlMkZ3cml0aW5nX2VmZmljaWVudF9jcHBfY29kZS5waHAlN0NodHRwcyUzQSUyRiUyRmFzYXdpY2tpLmluZm8lMkZhcnRpY2xlcyUyRndyaXRpbmdfZWZmaWNpZW50X2NwcF9jb2RlLnBocCU3Q1dyaXRpbmclMjBFZmZpY2llbnQlMjBDJTJCJTJCJTIwQ29kZSUyMCgyMDEzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ5NDA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMjAlM0EyMCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Writing Efficient C++ Code (2013)",
+      "pubDate": "Fri, 25 Sep 2026 20:20:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamF6endpc2UuY29tJTJGY29udGVudCUyRm5ld3MlMkZqb2huLWNvbHRyYW5lLWNlbnRlbmFyeS1jZWxlYnJhdGlvbnMtc2VlLWltcHVsc2UtcmVjb3Jkcy1yZWxlYXNlLXRoZS1sZWdlbmRhcnktdGliZXJpLXRhcGVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamF6endpc2UuY29tJTJGY29udGVudCUyRm5ld3MlMkZqb2huLWNvbHRyYW5lLWNlbnRlbmFyeS1jZWxlYnJhdGlvbnMtc2VlLWltcHVsc2UtcmVjb3Jkcy1yZWxlYXNlLXRoZS1sZWdlbmRhcnktdGliZXJpLXRhcGVzJTdDSm9obiUyMENvbHRyYW5lJTIwQ2VudGVuYXJ5J3MlMjAlRTIlODAlOTMlMjBJbXB1bHNlJTIwUmVjb3JkcyUyMFJlbGVhc2UlMjB0aGUlMjBMZWdlbmRhcnklMjBUaWJlcmklMjBUYXBlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ1Mjg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTQlM0EzOCUzQTA2JTIwJTJCMDAwMA",
+      "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+      "pubDate": "Fri, 25 Sep 2026 14:38:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaWt1bWEuY29tJTJGYmxvZyUyRmMtaW50ZWdlci1zaXplcy1ub3QtYS1taXN0YWtlJTdDaHR0cHMlM0ElMkYlMkZwaWt1bWEuY29tJTJGYmxvZyUyRmMtaW50ZWdlci1zaXplcy1ub3QtYS1taXN0YWtlJTdDQydzJTIwRmxleGlibGUlMjBJbnRlZ2VyJTIwU2l6ZXMlMjBXZXJlJTIwTm90JTIwYSUyMERlc2lnbiUyME1pc3Rha2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0NTExNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDE0JTNBMjMlM0EzMyUyMCUyQjAwMDA",
+      "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
+      "pubDate": "Fri, 25 Sep 2026 14:23:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaG5hdHNlbC5naXRodWIuaW8lMkZzdGF0ZS1vZi1zaW1kLXJ1c3QtMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGc2huYXRzZWwuZ2l0aHViLmlvJTJGc3RhdGUtb2Ytc2ltZC1ydXN0LTIwMjYlMkYlN0NUaGUlMjBzdGF0ZSUyMG9mJTIwU0lNRCUyMGluJTIwUnVzdCUyMGluJTIwMjAyNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODQ0NjI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMTMlM0E0NiUzQTM0JTIwJTJCMDAwMA",
+      "title": "The state of SIMD in Rust in 2026",
+      "pubDate": "Fri, 25 Sep 2026 13:46:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
     }
   ]

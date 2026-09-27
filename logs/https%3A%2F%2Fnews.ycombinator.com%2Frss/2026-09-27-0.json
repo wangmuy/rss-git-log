@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-27",
     "newestItemDate": "2026-09-27",
-    "itemCount": 9,
-    "generatedAt": "2026-09-27T14:04:07.852Z"
+    "itemCount": 24,
+    "generatedAt": "2026-09-27T19:47:50.189Z"
   },
   "items": [
     {
@@ -60,6 +60,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZWFzb25hYmxlLmlvJTJGYmxvZyUyRnRsYS10dXRvcmlhbCUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVhc29uYWJsZS5pbyUyRmJsb2clMkZ0bGEtdHV0b3JpYWwlMkYlN0NUaGUlMjBpbnRlcm5ldCUyMGRpc2NvdmVycyUyMFRMQSUyQi4lMjBOb3clMjB3aGF0JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NjM2MDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAwNSUzQTI2JTNBMTUlMjAlMkIwMDAw",
       "title": "The internet discovers TLA+. Now what?",
       "pubDate": "Sun, 27 Sep 2026 05:26:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb2ZpY2l0aWVzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9maWNpdGllcy5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBMb2ZpJTIwQ2l0aWVzJTIwJUUyJTgwJTkzJTIwUGl4ZWwtYXJ0JTIwY2l0eSUyMG5pZ2h0cyUyMHdpdGglMjBicm93c2VyLWdlbmVyYXRlZCUyMGxvZmklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2OTU3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDE4JTNBNDQlM0EzMCUyMCUyQjAwMDA",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "pubDate": "Sun, 27 Sep 2026 18:44:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RlMVhuMzAzMEl2TSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEZTFYbjMwMzBJdk0lN0NPcmFsJTIwaGlzdG9yeSUyMG9mJTIwSm9obiUyMENob3duaW5nJTJDJTIwaW52ZW50b3IlMjBvZiUyMEZNJTIwc3ludGhlc2lzJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2OTE0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDE4JTNBMDIlM0E0MyUyMCUyQjAwMDA",
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "pubDate": "Sun, 27 Sep 2026 18:02:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaXJld29ya3MuYWklMkZibG9nJTJGZW1iZXItMSU3Q2h0dHBzJTNBJTJGJTJGZmlyZXdvcmtzLmFpJTJGYmxvZyUyRmVtYmVyLTElN0NFbWJlci0xJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Njg4MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNyUzQTMxJTNBNTMlMjAlMkIwMDAw",
+      "title": "Ember-1",
+      "pubDate": "Sun, 27 Sep 2026 17:31:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpYWluLnJvY2tzJTJGYmxvZyUyRmRvbnQtY291cGxlLXlvdXItZ28tY29kZS10by1naXRodWIlN0NodHRwcyUzQSUyRiUyRmlhaW4ucm9ja3MlMkZibG9nJTJGZG9udC1jb3VwbGUteW91ci1nby1jb2RlLXRvLWdpdGh1YiU3Q0Rvbid0JTIwY291cGxlJTIweW91ciUyMEdvJTIwY29kZSUyMHRvJTIwR2l0SHViJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Njg0MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNiUzQTUwJTNBNTglMjAlMkIwMDAw",
+      "title": "Don't couple your Go code to GitHub",
+      "pubDate": "Sun, 27 Sep 2026 16:50:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlb2luaGlnZ2lucy5zdWJzdGFjay5jb20lMkZwJTJGdGhlcmUtYXJlLW5vLXJvZ3VlLWFpLWFnZW50cyU3Q2h0dHBzJTNBJTJGJTJGZW9pbmhpZ2dpbnMuc3Vic3RhY2suY29tJTJGcCUyRnRoZXJlLWFyZS1uby1yb2d1ZS1haS1hZ2VudHMlN0NUaGVyZSUyMGFyZSUyMG5vJTIwJTIycm9ndWUlMjIlMjBBSSUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODY4MDgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMTYlM0ExOSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "There are no \"rogue\" AI agents",
+      "pubDate": "Sun, 27 Sep 2026 16:19:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW55YWlhcmVuYS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnRpbnlhaWFyZW5hLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMFRpbnlBSUFyZW5hJTIwd2F0Y2glMjBBSSUyMGFnZW50cyUyMGJhdHRsZSUyMGl0JTIwb3V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Njc3NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNSUzQTUxJTNBMjglMjAlMkIwMDAw",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "pubDate": "Sun, 27 Sep 2026 15:51:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudXJhLmVjbyUyRmJsb2clMkYyMDI2JTJGMDklMkYyNyUyRm51cmEtcmVuYW1lJTJGJTdDaHR0cHMlM0ElMkYlMkZudXJhLmVjbyUyRmJsb2clMkYyMDI2JTJGMDklMkYyNyUyRm51cmEtcmVuYW1lJTJGJTdDUG9zdG1hcmtldE9TJTIwaXMlMjByZWJyYW5kaW5nJTIwYXMlMjBOdXJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Njc1NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNSUzQTMxJTNBMTUlMjAlMkIwMDAw",
+      "title": "PostmarketOS is rebranding as Nura",
+      "pubDate": "Sun, 27 Sep 2026 15:31:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWhhdGV0aGVmdXR1cmUuY29tJTJGMjAyNiUyRjA5JTJGdGhlLW5vcm1hbGl6YXRpb24tb2YtaW5leHBsaWNhYmxlLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5paGF0ZXRoZWZ1dHVyZS5jb20lMkYyMDI2JTJGMDklMkZ0aGUtbm9ybWFsaXphdGlvbi1vZi1pbmV4cGxpY2FibGUuaHRtbCU3Q1RoZSUyME5vcm1hbGl6YXRpb24lMjBvZiUyMEluZXhwbGljYWJsZSUyMEZhaWx1cmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Njc0ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNSUzQTI2JTNBNDAlMjAlMkIwMDAw",
+      "title": "The Normalization of Inexplicable Failures",
+      "pubDate": "Sun, 27 Sep 2026 15:26:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGdGhleS1oYWQtbm8tY29uY2VwdC1vZi1hLWR1dHktb2YtY2FyZS10by10aGVpci11c2VycyUyRiU3Q2h0dHBzJTNBJTJGJTJGdW5zdW5nLmFyZXNsdW5hLm9yZyUyRnRoZXktaGFkLW5vLWNvbmNlcHQtb2YtYS1kdXR5LW9mLWNhcmUtdG8tdGhlaXItdXNlcnMlMkYlN0NPbiUyMGNhcmluZyUyMGZvciUyMHVzZXIlMjBkYXRhJTNBJTIwTmVvVmltJTIwY2F1c2VkJTIwVmltJTIwdW5kbyUyMGZpbGVzJTIwdG8lMjBiZSUyMGRlbGV0ZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2NzA2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDE0JTNBNDUlM0EwNyUyMCUyQjAwMDA",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+      "pubDate": "Sun, 27 Sep 2026 14:45:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGl2ZXNjaWVuY2UuY29tJTJGYXJjaGFlb2xvZ3klMkZhbmNpZW50LWVneXB0aWFucyUyRndlLWhhdmUtZm91bmQtdHJhY2VzLW9mLXBlYWNlLXRob3VzYW5kcy1vZi15ZWFycy1vbGQtZnJhZ21lbnQtb2Ytd29ybGRzLW9sZGVzdC1rbm93bi1wZWFjZS10cmVhdHktZm91bmQtaW4tdHVya2V5JTdDaHR0cHMlM0ElMkYlMkZ3d3cubGl2ZXNjaWVuY2UuY29tJTJGYXJjaGFlb2xvZ3klMkZhbmNpZW50LWVneXB0aWFucyUyRndlLWhhdmUtZm91bmQtdHJhY2VzLW9mLXBlYWNlLXRob3VzYW5kcy1vZi15ZWFycy1vbGQtZnJhZ21lbnQtb2Ytd29ybGRzLW9sZGVzdC1rbm93bi1wZWFjZS10cmVhdHktZm91bmQtaW4tdHVya2V5JTdDRnJhZ21lbnQlMjBvZiUyMG9sZGVzdCUyMGtub3duJTIwcGVhY2UlMjB0cmVhdHklMjBmb3VuZCUyMGluJTIwVHVya2V5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NjY5ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNCUzQTM1JTNBMTAlMjAlMkIwMDAw",
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "pubDate": "Sun, 27 Sep 2026 14:35:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyNiUyRnNjaWVuY2UlMkZtb3RlbC1zY2llbmNlLWRpc2NvdmVyeS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyNiUyRnNjaWVuY2UlMkZtb3RlbC1zY2llbmNlLWRpc2NvdmVyeS5odG1sJTdDSW4lMjBhbiUyMCUyNDgwJTIwbW90ZWwlMjByb29tJTJDJTIwYSUyMGRpc2NvdmVyeSUyMHRvJTIwc2hlZCUyMGxpZ2h0JTIwb24lMjB0aGUlMjBvcmlnaW5zJTIwb2YlMjBsaWZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NjY5NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNCUzQTMwJTNBNTUlMjAlMkIwMDAw",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "pubDate": "Sun, 27 Sep 2026 14:30:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFya2Rvd24uYmVhdXR5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWFya2Rvd24uYmVhdXR5JTJGJTdDU2hvdyUyMEhOJTNBJTIwQnVpbGRpbmclMjBhJTIwTWFya2Rvd24lMjBlZGl0b3IlMjBmb3IlMjBNYWMlMkMlMjBpT1MlMjBhbmQlMjB3ZWIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2NjU5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDEzJTNBNDQlM0E0NSUyMCUyQjAwMDA",
+      "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+      "pubDate": "Sun, 27 Sep 2026 13:44:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaXhlbGFtYmFjaHQubmwlMkYyMDI2JTJGdGVuLWxpbmVzLW9mLWNvZGUlMkYlN0NodHRwcyUzQSUyRiUyRnBpeGVsYW1iYWNodC5ubCUyRjIwMjYlMkZ0ZW4tbGluZXMtb2YtY29kZSUyRiU3Q1RlbiUyMGxpbmVzJTIwb2YlMjBjb2RlJTIwdGhhdCUyMGNoYW5nZWQlMjBteSUyMHdvcmxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NjY1MzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxMyUzQTMzJTNBMDMlMjAlMkIwMDAw",
+      "title": "Ten lines of code that changed my world",
+      "pubDate": "Sun, 27 Sep 2026 13:33:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdm5zLmNhJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjI3JTJGcmVwbGFjaW5nLXRoZS1vbGQtYmF0dGVyeS1vbi1yZWNoYXJnZWFibGUtYmlrZS1saWdodHMlMkYlN0NodHRwcyUzQSUyRiUyRmp2bnMuY2ElMkZibG9nJTJGMjAyNiUyRjA5JTJGMjclMkZyZXBsYWNpbmctdGhlLW9sZC1iYXR0ZXJ5LW9uLXJlY2hhcmdlYWJsZS1iaWtlLWxpZ2h0cyUyRiU3Q1JlcGxhY2luZyUyMHRoZSUyMG9sZCUyMGJhdHRlcnklMjBvbiUyMHJlY2hhcmdlYWJsZSUyMGJpa2UlMjBsaWdodHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2NjUxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzAlM0ExMSUyMCUyQjAwMDA",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "pubDate": "Sun, 27 Sep 2026 13:30:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFpbC5mcmFuemFpLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdHJhaWwuZnJhbnphaS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBUcmFpbCUyMCVFMiU4MCU5MyUyMG5ldyUyMGtpbmQlMjBvZiUyMGxvZ2ljJTIwZ2FtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODY0MTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMDclM0EwMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Show HN: Trail – new kind of logic game",
+      "pubDate": "Sun, 27 Sep 2026 07:02:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
     }
   ]

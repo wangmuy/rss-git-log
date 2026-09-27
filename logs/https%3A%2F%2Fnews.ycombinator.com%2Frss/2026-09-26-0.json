@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 37,
-    "generatedAt": "2026-09-27T14:04:07.852Z"
+    "itemCount": 41,
+    "generatedAt": "2026-09-27T19:47:50.190Z"
   },
   "items": [
     {
@@ -228,6 +228,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtaXR4ZWxhLmNvbSUyRnByb2plY3RzJTJGZmxpcGZsaXAlN0NodHRwcyUzQSUyRiUyRm1pdHhlbGEuY29tJTJGcHJvamVjdHMlMkZmbGlwZmxpcCU3Q0ZsaXAlMjBGbHVpZCUyMG9uJTIwRmxpcCUyMERvdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NDIxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDA3JTNBNTAlM0EyNCUyMCUyQjAwMDA",
       "title": "Flip Fluid on Flip Dots",
       "pubDate": "Sat, 26 Sep 2026 07:50:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWRpZGJvdXJiYWtpLmdpdGh1Yi5pbyUyRmJsb2clMkZwcm9tcHQtbG9va3VwLWxsYW1hLWNwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGamFkaWRib3VyYmFraS5naXRodWIuaW8lMkZibG9nJTJGcHJvbXB0LWxvb2t1cC1sbGFtYS1jcHAlMkYlN0NGYXN0ZXIlMjBwcm9tcHQlMjBsb29rdXAlMjBkcmFmdGluZyUyMGluJTIwbGxhbWEuY3BwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTk5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAxOSUzQTU3JTNBMjQlMjAlMkIwMDAw",
+      "title": "Faster prompt lookup drafting in llama.cpp",
+      "pubDate": "Sat, 26 Sep 2026 19:57:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbHlkZXNub3Rlcy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDglMkZ2aWRlby1jZHMtYnJlYWstd2luZG93cy1leHBsb3Jlci5odG1sJTdDaHR0cHMlM0ElMkYlMkZjbHlkZXNub3Rlcy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMDglMkZ2aWRlby1jZHMtYnJlYWstd2luZG93cy1leHBsb3Jlci5odG1sJTdDVmlkZW8lMjBDRHMlMjBCcmVhayUyMFdpbmRvd3MlMjBFeHBsb3JlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU5NzU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTklM0EzMCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Video CDs Break Windows Explorer",
+      "pubDate": "Sat, 26 Sep 2026 19:30:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZW5lcmFscm9ib3RpY3NsYWIuY29tJTJGY2FydGVzaWFuX2hhbmR2MSU3Q2h0dHBzJTNBJTJGJTJGZ2VuZXJhbHJvYm90aWNzbGFiLmNvbSUyRmNhcnRlc2lhbl9oYW5kdjElN0NUaGUlMjBDYXJ0ZXNpYW4lMjBIYW5kJTNBJTIwSW4tSGFuZCUyME1hbmlwdWxhdGlvbiUyMHdpdGglMjBBbGwtTGluZWFyJTIwRmluZ2VycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODUzNDc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMDUlM0EyNyUzQTM5JTIwJTJCMDAwMA",
+      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+      "pubDate": "Sat, 26 Sep 2026 05:27:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmdvZGhhMjQlMkZ3YWxnaXRodWIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZyZ29kaGEyNCUyRndhbGdpdGh1YiU3Q1dhbGdpdCUzQSUyMEElMjBHaXQlMjBzZXJ2ZXIlMjB0aGF0JTIwaXMlMjBvbmUlMjBiaW5hcnklMjBpbiUyMGZyb250JTIwb2YlMjBhbiUyMG9iamVjdCUyMHN0b3JlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTI4MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAwMyUzQTA5JTNBNTAlMjAlMkIwMDAw",
+      "title": "Walgit: A Git server that is one binary in front of an object store",
+      "pubDate": "Sat, 26 Sep 2026 03:09:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]
