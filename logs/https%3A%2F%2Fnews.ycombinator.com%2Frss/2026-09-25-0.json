@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-25",
     "newestItemDate": "2026-09-25",
-    "itemCount": 50,
-    "generatedAt": "2026-09-26T19:15:35.165Z"
+    "itemCount": 57,
+    "generatedAt": "2026-09-27T05:26:08.199Z"
   },
   "items": [
     {
@@ -306,6 +306,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSW5maW5pdHlMb29wMTMwOCUyRlBpcGVQaXBlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSW5maW5pdHlMb29wMTMwOCUyRlBpcGVQaXBlJTdDUGlwZVBpcGUlM0ElMjBOZXdQaXBlJTIwaGFyZCUyMGZvcmslMjBpbXBsZW1lbnRpbmclMjBTcG9uc29yQmxvY2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg0Mjc2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDEwJTNBNTUlM0E0MCUyMCUyQjAwMDA",
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "pubDate": "Fri, 25 Sep 2026 10:55:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmFuY2lzYmFjaC5jb20lMkZzcGVjdHJhbF9sb2dfZGVuc2l0eV9lc3RpbWF0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZmcmFuY2lzYmFjaC5jb20lMkZzcGVjdHJhbF9sb2dfZGVuc2l0eV9lc3RpbWF0aW9uJTJGJTdDRXhwbG9kaW5nJTIwdmFyaWFuY2UlMjBvZiUyMG1lYW5zJTIwb2YlMjBleHBvbmVudGlhbHMlM0ElMjBsZWFzdC1zcXVhcmVzJTIwdG8lMjB0aGUlMjByZXNjdWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1MDk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI1JTIwU2VwJTIwMjAyNiUyMDIyJTNBNDglM0E1MiUyMCUyQjAwMDA",
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "pubDate": "Fri, 25 Sep 2026 22:48:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA5JTJGc25hcC13YW50cy10by1iZS1hLXN0YXRlLWFjdG9yLWthbnNhcy12LXNuYXAuaHRtJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjA5JTJGc25hcC13YW50cy10by1iZS1hLXN0YXRlLWFjdG9yLWthbnNhcy12LXNuYXAuaHRtJTdDU25hcCUyMFdhbnRzJTIwdG8lMjBiZSUyMGElMjBTdGF0ZSUyMEFjdG9yJTNGJTNGJUUyJTgwJTkzS2Fuc2FzJTIwdi4lMjBTbmFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDcyNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxNyUzQTEyJTNBMDQlMjAlMkIwMDAw",
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "pubDate": "Fri, 25 Sep 2026 17:12:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZzZW1pY29uZHVjdG9ycyUyRmFzbWwtc2F5cy1pdHMtc2VsbHMtYWJzb2x1dGVseS1ub3RoaW5nLWluLWV1cm9wZS1jYWxscy1vbi1ldS10by1oZWxwLWNyZWF0ZS1kZW1hbmQlN0NodHRwcyUzQSUyRiUyRnd3dy50b21zaGFyZHdhcmUuY29tJTJGdGVjaC1pbmR1c3RyeSUyRnNlbWljb25kdWN0b3JzJTJGYXNtbC1zYXlzLWl0cy1zZWxscy1hYnNvbHV0ZWx5LW5vdGhpbmctaW4tZXVyb3BlLWNhbGxzLW9uLWV1LXRvLWhlbHAtY3JlYXRlLWRlbWFuZCU3Q0FTTUwlMjBzYXlzJTIwaXQlMjBzb2xkJTIwJ2Fic29sdXRlbHklMjBub3RoaW5nJyUyMGluJTIwRXVyb3BlJTIwaW4lMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDQ2NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxMyUzQTQ5JTNBMDYlMjAlMkIwMDAw",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "pubDate": "Fri, 25 Sep 2026 13:49:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXN0cmFsY29kZXh0ZW4uY29tJTJGcCUyRmRvZXMtZ2Vvcmdpc20td29yay1maXZlLXllYXJzLWxhdGVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXN0cmFsY29kZXh0ZW4uY29tJTJGcCUyRmRvZXMtZ2Vvcmdpc20td29yay1maXZlLXllYXJzLWxhdGVyJTdDRG9lcyUyMEdlb3JnaXNtJTIwd29yayUzRiUyMEZpdmUlMjB5ZWFycyUyMGxhdGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDQ2NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxMyUzQTQ4JTNBMzglMjAlMkIwMDAw",
+      "title": "Does Georgism work? Five years later",
+      "pubDate": "Fri, 25 Sep 2026 13:48:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmppbW15aG1pbGxlci5jb20lMkZjaGFuZ2Utb3VyLWxhbmd1YWdlcyU3Q2h0dHAlM0ElMkYlMkZqaW1teWhtaWxsZXIuY29tJTJGY2hhbmdlLW91ci1sYW5ndWFnZXMlN0NXZSUyMFNob3VsZCUyMEJlJTIwQWJsZSUyMHRvJTIwQ2hhbmdlJTIwT3VyJTIwTGFuZ3VhZ2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NDQwMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAxMyUzQTAwJTNBMTAlMjAlMkIwMDAw",
+      "title": "We Should Be Able to Change Our Languages",
+      "pubDate": "Fri, 25 Sep 2026 13:00:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXNoYml0LmNvJTJGYmxvZyUyRmV2b2x2aW5nLWFpLWVyYSU3Q2h0dHBzJTNBJTJGJTJGZGFzaGJpdC5jbyUyRmJsb2clMkZldm9sdmluZy1haS1lcmElN0NFdm9sdmluZyUyMHByb2dyYW1taW5nJTIwbGFuZ3VhZ2VzJTIwaW4lMjB0aGUlMjBBSSUyMGVyYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODM5NTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjUlMjBTZXAlMjAyMDI2JTIwMDIlM0EzNCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Evolving programming languages in the AI era",
+      "pubDate": "Fri, 25 Sep 2026 02:34:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGYmlvbG9neS1taWdodC1ub3QtYmUtcXVhbnR1bS1idXQtaXRzLW1hdGgtaXMtcXVhbnR1bWxpa2UtMjAyNjA5MjMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZiaW9sb2d5LW1pZ2h0LW5vdC1iZS1xdWFudHVtLWJ1dC1pdHMtbWF0aC1pcy1xdWFudHVtbGlrZS0yMDI2MDkyMyUyRiU3Q0Jpb2xvZ3klMjBtaWdodCUyMG5vdCUyMGJlJTIwcXVhbnR1bSUyQyUyMGJ1dCUyMGl0cyUyMG1hdGglMjBpcyUyMHF1YW50dW1saWtlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Mzk0MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNSUyMFNlcCUyMDIwMjYlMjAwMiUzQTExJTNBMDclMjAlMkIwMDAw",
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "pubDate": "Fri, 25 Sep 2026 02:11:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-25-0.json"
     }
   ]

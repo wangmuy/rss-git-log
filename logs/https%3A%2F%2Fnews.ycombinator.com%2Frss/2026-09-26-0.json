@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 24,
-    "generatedAt": "2026-09-26T19:15:35.165Z"
+    "itemCount": 35,
+    "generatedAt": "2026-09-27T05:26:08.199Z"
   },
   "items": [
     {
@@ -150,6 +150,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjb3Vyc2UuaGFza2VsbC5vcmclMkZ0JTJGaG93LXRvLWtlZXAtZW5qb3lpbmctcHJvZ3JhbW1pbmctaW4tYS13b3JsZC1vZi1sbG1zJTJGMTQ3MDUlN0NodHRwcyUzQSUyRiUyRmRpc2NvdXJzZS5oYXNrZWxsLm9yZyUyRnQlMkZob3ctdG8ta2VlcC1lbmpveWluZy1wcm9ncmFtbWluZy1pbi1hLXdvcmxkLW9mLWxsbXMlMkYxNDcwNSU3Q0hvdyUyMHRvJTIwa2VlcCUyMGVuam95aW5nJTIwcHJvZ3JhbW1pbmclMjBpbiUyMGElMjB3b3JsZCUyMG9mJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU0ODc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMDklM0E0MSUzQTU4JTIwJTJCMDAwMA",
       "title": "How to keep enjoying programming in a world of LLMs",
       "pubDate": "Sat, 26 Sep 2026 09:41:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlnaHRzcGVlZG1hZ2F6aW5lLmNvbSUyRmZpY3Rpb24lMkZ3ZWxjb21lLXRvLXRoZS1tZWRpY2FsLWNsaW5pYy1hdC10aGUtaW50ZXJwbGFuZXRhcnktcmVsYXktc3RhdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmxpZ2h0c3BlZWRtYWdhemluZS5jb20lMkZmaWN0aW9uJTJGd2VsY29tZS10by10aGUtbWVkaWNhbC1jbGluaWMtYXQtdGhlLWludGVycGxhbmV0YXJ5LXJlbGF5LXN0YXRpb24lMkYlN0NXZWxjb21lJTIwdG8lMjB0aGUlMjBNZWRpY2FsJTIwQ2xpbmljJTIwYXQlMjB0aGUlMjBJbnRlcnBsYW5ldGFyeSUyMFJlbGF5JTIwU3RhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODYwMDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMjAlM0EwOCUzQTUwJTIwJTJCMDAwMA",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "pubDate": "Sat, 26 Sep 2026 20:08:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjIyOTc4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjIyOTc4JTdDRGVlcFNlZWslMjBFbGFzdGljJTIwQ29tcHV0ZSUyMChEU2VjKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU5MTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTglM0EyMiUzQTQxJTIwJTJCMDAwMA",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "pubDate": "Sat, 26 Sep 2026 18:22:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmlnaHRvLmNvbSUyRjIwMjYlMkYwOSUyRjgwODctdGFuZ2VudC1jb3JkaWMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJpZ2h0by5jb20lMkYyMDI2JTJGMDklMkY4MDg3LXRhbmdlbnQtY29yZGljLmh0bWwlN0NSZXZlcnNlLWVuZ2luZWVyaW5nJTIwdGhlJTIwSW50ZWwlMjA4MDg3J3MlMjB0YW5nZW50JTIwYWxnb3JpdGhtJTNBJTIwbW9yZSUyMHRoYW4lMjBDT1JESUMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1ODY3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE3JTNBMjYlM0E1NCUyMCUyQjAwMDA",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "pubDate": "Sat, 26 Sep 2026 17:26:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2F0dXJkYXlldmVuaW5ncG9zdC5jb20lMkYyMDI2JTJGMDklMkZmcm9tLWhvbHktd2F0ZXItdG8tZnJvemVuLW1lYWxzLXRoZS1ldm9sdXRpb24tb2YtdmVuZGluZy1tYWNoaW5lcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNhdHVyZGF5ZXZlbmluZ3Bvc3QuY29tJTJGMjAyNiUyRjA5JTJGZnJvbS1ob2x5LXdhdGVyLXRvLWZyb3plbi1tZWFscy10aGUtZXZvbHV0aW9uLW9mLXZlbmRpbmctbWFjaGluZXMlMkYlN0NUaGUlMjBFdm9sdXRpb24lMjBvZiUyMFZlbmRpbmclMjBNYWNoaW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU4NDI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTclM0EwMSUzQTQ1JTIwJTJCMDAwMA",
+      "title": "The Evolution of Vending Machines",
+      "pubDate": "Sat, 26 Sep 2026 17:01:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJpdmF0ZW1vZGUuYWklMkZibG9nJTJGc3lzdGVtLW9uZS1mcm9tLWdsbS1mbGFzaCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnByaXZhdGVtb2RlLmFpJTJGYmxvZyUyRnN5c3RlbS1vbmUtZnJvbS1nbG0tZmxhc2glN0NUdXJuaW5nJTIwR0xNLTUuMy1GbGFzaCUyMGludG8lMjBhJTIwSmV2LWxpa2UlMjBkZWNpc2lvbiUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTc2NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAxNSUzQTQ5JTNBMDQlMjAlMkIwMDAw",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "pubDate": "Sat, 26 Sep 2026 15:49:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRvbnoub3JnJTJGZ28tY29uY3VycmVuY3ktZGlzdGlsbGVkJTJGJTdDaHR0cHMlM0ElMkYlMkZhbnRvbnoub3JnJTJGZ28tY29uY3VycmVuY3ktZGlzdGlsbGVkJTJGJTdDR28lMjBDb25jdXJyZW5jeSUyMERpc3RpbGxlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU2OTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTQlM0EzNCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Go Concurrency Distilled",
+      "pubDate": "Sat, 26 Sep 2026 14:34:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmVuZ2luZWVyaW5nJTJGYXJjaGl0ZWN0dXJlLW9wdGltaXphdGlvbiUyRmltcHJvdmluZy1zaXRlLXBlcmZvcm1hbmNlLWJ5LXNoaXBwaW5nLW1vcmUtY3NzJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmVuZ2luZWVyaW5nJTJGYXJjaGl0ZWN0dXJlLW9wdGltaXphdGlvbiUyRmltcHJvdmluZy1zaXRlLXBlcmZvcm1hbmNlLWJ5LXNoaXBwaW5nLW1vcmUtY3NzJTJGJTdDSW1wcm92aW5nJTIwc2l0ZSUyMHBlcmZvcm1hbmNlJTIwYnklMjBzaGlwcGluZyUyMG1vcmUlMjBDU1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NjE5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDEzJTNBMTAlM0EwNSUyMCUyQjAwMDA",
+      "title": "Improving site performance by shipping more CSS",
+      "pubDate": "Sat, 26 Sep 2026 13:10:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGlnbm1lbnQub3BlbmFpLmNvbSUyRm1pc2FsaWdubWVudC1yZXBvcnRzJTJGYW4tYWdlbnQtdXNlZC1kbnMtdG8tcmVhY2gtYW4tZXh0ZXJuYWwtY2hhdGJvdCUyRiU3Q2h0dHBzJTNBJTJGJTJGYWxpZ25tZW50Lm9wZW5haS5jb20lMkZtaXNhbGlnbm1lbnQtcmVwb3J0cyUyRmFuLWFnZW50LXVzZWQtZG5zLXRvLXJlYWNoLWFuLWV4dGVybmFsLWNoYXRib3QlMkYlN0NBbiUyMGFnZW50JTIwdXNlZCUyMEROUyUyMHRvJTIwcmVhY2glMjBhbiUyMGV4dGVybmFsJTIwY2hhdGJvdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODUzMTM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMDQlM0ExNCUzQTExJTIwJTJCMDAwMA",
+      "title": "An agent used DNS to reach an external chatbot",
+      "pubDate": "Sat, 26 Sep 2026 04:14:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnUtYmVybGluLmRlJTJGZW4lMkZwcmVzc2UlMkZpbmZvcm1hdGlvbmVuJTJGZnVwJTJGMjAyNiUyRmZ1cF8yNl8xMTYtZW5jZWxhZHVzLWNhc3NpbmktbWlrcm9iZW4tc2NpZW5jZS1wb3N0YmVyZyUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5mdS1iZXJsaW4uZGUlMkZlbiUyRnByZXNzZSUyRmluZm9ybWF0aW9uZW4lMkZmdXAlMkYyMDI2JTJGZnVwXzI2XzExNi1lbmNlbGFkdXMtY2Fzc2luaS1taWtyb2Jlbi1zY2llbmNlLXBvc3RiZXJnJTJGaW5kZXguaHRtbCU3Q1Byb21pc2luZyUyMGRpc2NvdmVyaWVzJTIwYWJvdXQlMjB0aGUlMjBwb3RlbnRpYWwlMjBmb3IlMjBsaWZlJTIwb24lMjBvbmUlMjBvZiUyMFNhdHVybiVFMiU4MCU5OXMlMjBpY3klMjBtb29ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODUyOTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMDMlM0EyMyUzQTMxJTIwJTJCMDAwMA",
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "pubDate": "Sat, 26 Sep 2026 03:23:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnNjcnQuY2glMkYyMDI2JTJGMDklMkYyMiUyRmhvdy1vbmUtdHdpdGNoLWNoYXQtbWVzc2FnZS1iZWNhbWUtY29kZS1leGVjdXRpb24tb24tYS1zdHJlYW1lcnMtcGMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuc2NydC5jaCUyRjIwMjYlMkYwOSUyRjIyJTJGaG93LW9uZS10d2l0Y2gtY2hhdC1tZXNzYWdlLWJlY2FtZS1jb2RlLWV4ZWN1dGlvbi1vbi1hLXN0cmVhbWVycy1wYyUyRiU3Q0hvdyUyMG9uZSUyMFR3aXRjaCUyMGNoYXQlMjBtZXNzYWdlJTIwYmVjYW1lJTIwY29kZSUyMGV4ZWN1dGlvbiUyMG9uJTIwYSUyMHN0cmVhbWVyJUUyJTgwJTk5cyUyMFBDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTIxNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAwMSUzQTEzJTNBMzglMjAlMkIwMDAw",
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "pubDate": "Sat, 26 Sep 2026 01:13:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbXBkb3QubWVzaC5ob3N0JTJGdG9rZW4tc3BhY2UtZm9udHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYW1wZG90Lm1lc2guaG9zdCUyRnRva2VuLXNwYWNlLWZvbnRzLmh0bWwlN0NHZW5lcmF0ZSUyMGZvbnRzJTIwd2hlcmUlMjBldmVyeSUyMExMTSUyMHRva2VuJTIwaXMlMjB0aGUlMjBzYW1lJTIwd2lkdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1MTg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDAwJTNBMzAlM0EwMyUyMCUyQjAwMDA",
+      "title": "Generate fonts where every LLM token is the same width",
+      "pubDate": "Sat, 26 Sep 2026 00:30:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]
