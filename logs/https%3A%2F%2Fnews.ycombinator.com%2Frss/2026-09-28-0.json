@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-28",
     "newestItemDate": "2026-09-28",
-    "itemCount": 8,
-    "generatedAt": "2026-09-28T05:33:49.575Z"
+    "itemCount": 25,
+    "generatedAt": "2026-09-28T16:49:16.458Z"
   },
   "items": [
     {
@@ -54,6 +54,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeW9maW5mb3JtYXRpb24uY29tJTJGZGV0YWlsLnBocCUzRmVudHJ5aWQlM0Q0MzQxJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeW9maW5mb3JtYXRpb24uY29tJTJGZGV0YWlsLnBocCUzRmVudHJ5aWQlM0Q0MzQxJTdDV2FzJTIwU2lsZW50JTIwUmVhZGluZyUyMFVudXN1YWwlMjBEdXJpbmclMjBBdWd1c3RpbmUncyUyMFRpbWUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3MjQ3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDAxJTNBMjIlM0EyOCUyMCUyQjAwMDA",
       "title": "Was Silent Reading Unusual During Augustine's Time?",
       "pubDate": "Mon, 28 Sep 2026 01:22:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3NwLnNoJTJGYnJhaW4lMkZ0aGUtcHJvYmxlbS1pcy1ub3QtdGhlLWFpLWNvZGUtYnV0LW5vYm9keS1rbm93cy1hbnl0aGluZy1hbnltb3JlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3NwLnNoJTJGYnJhaW4lMkZ0aGUtcHJvYmxlbS1pcy1ub3QtdGhlLWFpLWNvZGUtYnV0LW5vYm9keS1rbm93cy1hbnl0aGluZy1hbnltb3JlJTJGJTdDVGhlJTIwcHJvYmxlbSUyMGlzJTIwbm90JTIwdGhlJTIwQUklMjBjb2RlJTJDJTIwYnV0JTIwbm9ib2R5JTIwa25vd3MlMjBhbnl0aGluZyUyMGFueW1vcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg4MDMxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE2JTNBMTElM0E0MiUyMCUyQjAwMDA",
+      "title": "The problem is not the AI code, but nobody knows anything anymore",
+      "pubDate": "Mon, 28 Sep 2026 16:11:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm9iYnl0YWJsZXMuaW8lMkZwJTJGMTMtbW9udGhzLXNvYmVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYm9iYnl0YWJsZXMuaW8lMkZwJTJGMTMtbW9udGhzLXNvYmVyJTdDMTMlMjBNb250aHMlMjBTb2JlciUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODgwMzExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTYlM0ExMSUzQTQwJTIwJTJCMDAwMA",
+      "title": "13 Months Sober (2025)",
+      "pubDate": "Mon, 28 Sep 2026 16:11:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdWJpLmNvbSUyRmVuJTJGbm90ZWJvb2slMkZwb3N0cyUyRnBpcmF0aW5nLXRoZS1waXJhdGVzJTdDaHR0cHMlM0ElMkYlMkZtdWJpLmNvbSUyRmVuJTJGbm90ZWJvb2slMkZwb3N0cyUyRnBpcmF0aW5nLXRoZS1waXJhdGVzJTdDUGlyYXRpbmclMjB0aGUlMjBQaXJhdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODAwMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAxNSUzQTU0JTNBMTUlMjAlMkIwMDAw",
+      "title": "Pirating the Pirates",
+      "pubDate": "Mon, 28 Sep 2026 15:54:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YXNoZ2FyZy5kZXYlMkZwb3N0cyUyRmhpamFja2luZy1wczUtcnRtcC1zdHJlYW0lMkYlN0NodHRwcyUzQSUyRiUyRnlhc2hnYXJnLmRldiUyRnBvc3RzJTJGaGlqYWNraW5nLXBzNS1ydG1wLXN0cmVhbSUyRiU3Q0hpamFja2luZyUyMHRoZSUyMFBTNSdzJTIwUlRNUCUyMFN0cmVhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc5NzAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTUlM0EzNSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Hijacking the PS5's RTMP Stream",
+      "pubDate": "Mon, 28 Sep 2026 15:35:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhpc2FtZXJpY2FubGlmZS5vcmclMkY4OTclMkZ0cmFuc2NyaXB0JTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhpc2FtZXJpY2FubGlmZS5vcmclMkY4OTclMkZ0cmFuc2NyaXB0JTdDS2lkcyUyMHR1cm5lZCUyMGxvdy10cmFmZmljJTIwTlBSJTIwU3BvdGlmeSUyMGNvbW1lbnRzJTIwaW50byUyMGElMjBzZWNyZXQlMjBncm91cCUyMGNoYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3OTY5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzUlM0EwOSUyMCUyQjAwMDA",
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "pubDate": "Mon, 28 Sep 2026 15:35:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXVsdG0ubmwlMkZwYXJlbi10aGVzaXMlN0NodHRwcyUzQSUyRiUyRnBhdWx0bS5ubCUyRnBhcmVuLXRoZXNpcyU3Q1doYXQlMjBtYWtlcyUyMExpc3AlMjBkaWZmaWN1bHQlMjB0byUyMHJlYWQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3OTM0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE1JTNBMTIlM0EzMCUyMCUyQjAwMDA",
+      "title": "What makes Lisp difficult to read?",
+      "pubDate": "Mon, 28 Sep 2026 15:12:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ0ZWNobm9sb2d5JTJGbW9uZ29kYi1jZW8tZGVzYWktc3RlcHMtZG93bi1sZWFkLW1ldGFzLWVudGVycHJpc2UtcGxhdGZvcm0tMjAyNi0wOS0yOCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGdGVjaG5vbG9neSUyRm1vbmdvZGItY2VvLWRlc2FpLXN0ZXBzLWRvd24tbGVhZC1tZXRhcy1lbnRlcnByaXNlLXBsYXRmb3JtLTIwMjYtMDktMjglMkYlN0NNb25nb0RCJTIwQ0VPJTIwcmVzaWducyUyMCUyMmVmZmVjdGl2ZSUyMGltbWVkaWF0ZWx5JTIyJTIwdG8lMjBqb2luJTIwTWV0YSUyQyUyMHN0b2NrJTIwZHJvcHMlMjAyMCUyNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc5MDAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTQlM0E1NCUzQTIxJTIwJTJCMDAwMA",
+      "title": "MongoDB CEO resigns \"effective immediately\" to join Meta, stock drops 20%",
+      "pubDate": "Mon, 28 Sep 2026 14:54:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5vdmVybXllci5jb20lMkZibG9nJTJGMjAyNiUyRjA5JTJGamFwYW5lc2UtdnMtd2VzdGVybi1oZXJhbGRyeSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmVub3Zlcm15ZXIuY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRmphcGFuZXNlLXZzLXdlc3Rlcm4taGVyYWxkcnklMkYlN0NXaGF0JTIwSGVyYWxkcnklMjBhbmQlMjBNb24lMjBDYW4lMjBUZWFjaCUyMFVzJTIwQWJvdXQlMjBCdWlsZGluZyUyMFZpc3VhbC1JZGVudGl0eSUyMEdlbmVyYXRvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3ODkwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE0JTNBNDglM0E0NCUyMCUyQjAwMDA",
+      "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
+      "pubDate": "Mon, 28 Sep 2026 14:48:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFsZXhld2VybG9mLmNvbSUyRnAlMkZjb2RpbmctaXMtbm90LXNvbHZlZCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hbGV4ZXdlcmxvZi5jb20lMkZwJTJGY29kaW5nLWlzLW5vdC1zb2x2ZWQlN0NDb2RpbmclMjBJcyUyME5vdCUyMFNvbHZlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc3OTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTMlM0E1MiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Coding Is Not Solved",
+      "pubDate": "Mon, 28 Sep 2026 13:52:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWhtZC1zaCUyRmhudHVpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWhtZC1zaCUyRmhudHVpJTdDU2hvdyUyMEhOJTNBJTIwSG50dWklMjAlRTIlODAlOTMlMjBBJTIwVFVJJTIwZm9yJTIwSGFja2VyJTIwTmV3cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc2NzYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTIlM0ExMSUzQTIwJTIwJTJCMDAwMA",
+      "title": "Show HN: Hntui – A TUI for Hacker News",
+      "pubDate": "Mon, 28 Sep 2026 12:11:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdseXBoLmltJTJGMjAyNiUyRjA5JTJGc2VyaW91cy1haS1wcm9kdWN0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ2x5cGguaW0lMkYyMDI2JTJGMDklMkZzZXJpb3VzLWFpLXByb2R1Y3QuaHRtbCU3Q1doYXQlMjBXb3VsZCUyMGElMjBTZXJpb3VzJTIwQUklMjBQcm9kdWN0JTIwTG9vayUyMExpa2UlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3NjE0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDExJTNBMDIlM0ExMiUyMCUyQjAwMDA",
+      "title": "What Would a Serious AI Product Look Like?",
+      "pubDate": "Mon, 28 Sep 2026 11:02:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXQubWlsbHMuaW8lMkZwcm9sb2dpYyUyRnBhcmxleSU3Q2h0dHBzJTNBJTJGJTJGZ2l0Lm1pbGxzLmlvJTJGcHJvbG9naWMlMkZwYXJsZXklN0NQYXJsZXklM0ElMjBGZWRlcmF0ZWQlMkMlMjBkZWNlbnRyYWxpc2VkJTIwY2hhdCUyMHRoYXQlMjBzcGVha3MlMjBwbGFpbiUyMElSQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc1OTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTAlM0EzMCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "pubDate": "Mon, 28 Sep 2026 10:30:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2VhbXVzYyUyRnBhcGVybW9uby1zaG9wcGluZy1saXN0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2VhbXVzYyUyRnBhcGVybW9uby1zaG9wcGluZy1saXN0JTdDU2hvdyUyMEhOJTNBJTIwUGFwZXJNb25vJTJDJTIwZS1pbmslMjBmcmlkZ2UlMjBtYWduZXQlMjBzaG9wcGluZyUyMGxpc3QlMjB3aXRoJTIwbW9iaWxlJTIwd2ViJTIwcGFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc1ODAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTAlM0ExNCUzQTQxJTIwJTJCMDAwMA",
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "pubDate": "Mon, 28 Sep 2026 10:14:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2lzc29yLnN0dWRpbyUyRiU3Q2h0dHBzJTNBJTJGJTJGc2Npc3Nvci5zdHVkaW8lMkYlN0NTaG93JTIwSE4lM0ElMjBGcmVlJTIwYWx0ZXJuYXRpdmUlMjB0byUyMGdyYXBoaWNzJTIwZGVzaWduJTIwZ2lhbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NzUzMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAwOCUzQTU1JTNBMzElMjAlMkIwMDAw",
+      "title": "Show HN: Free alternative to graphics design giants",
+      "pubDate": "Mon, 28 Sep 2026 08:55:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFiaWJpY29kZS5vcmclMkZ0aGVkcmF3bndvcmxkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGFiaWJpY29kZS5vcmclMkZ0aGVkcmF3bndvcmxkJTdDMzclMkM1MDAlMjBib3JkZXIlMjBkcmF3aW5ncyUzQSUyMGElMjBtYXAlMjBvZiUyMHRoZSUyMHdvcmxkJTIwYXMlMjBwZW9wbGUlMjByZW1lbWJlciUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NzUxNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAwOCUzQTM1JTNBMTAlMjAlMkIwMDAw",
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "pubDate": "Mon, 28 Sep 2026 08:35:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmZWxpeHJpZXNlYmVyZy5jb20lMkZtYWRlLWJ5LW1lY2hhbmljYWwtbWVhbnMlMkYlN0NodHRwcyUzQSUyRiUyRmZlbGl4cmllc2ViZXJnLmNvbSUyRm1hZGUtYnktbWVjaGFuaWNhbC1tZWFucyUyRiU3Q01hZGUlMjBieSUyME1lY2hhbmljYWwlMjBNZWFucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc0NTUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMDclM0EwNiUzQTA2JTIwJTJCMDAwMA",
+      "title": "Made by Mechanical Means",
+      "pubDate": "Mon, 28 Sep 2026 07:06:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyMTEwLjAxODM0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyMTEwLjAxODM0JTdDVGhpbmtpbmclMjBmYXN0JTIwYW5kJTIwc2xvdyUyMGluJTIwQUklM0ElMjBUaGUlMjByb2xlJTIwb2YlMjBtZXRhY29nbml0aW9uJTIwKDIwMjEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NzMyNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAwMyUzQTIzJTNBNTMlMjAlMkIwMDAw",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "pubDate": "Mon, 28 Sep 2026 03:23:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
     }
   ]

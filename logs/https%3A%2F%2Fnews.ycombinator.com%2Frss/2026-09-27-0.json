@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-27",
     "newestItemDate": "2026-09-27",
-    "itemCount": 31,
-    "generatedAt": "2026-09-28T05:33:49.576Z"
+    "itemCount": 33,
+    "generatedAt": "2026-09-28T16:49:16.458Z"
   },
   "items": [
     {
@@ -192,6 +192,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5rYW5kc3dpdGNoLmNvbSUyRmVzc2F5JTJGbWFsbGVhYmxlLXNvZnR3YXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaW5rYW5kc3dpdGNoLmNvbSUyRmVzc2F5JTJGbWFsbGVhYmxlLXNvZnR3YXJlJTJGJTdDTWFsbGVhYmxlJTIwc29mdHdhcmUlM0ElMjBSZXN0b3JpbmclMjB1c2VyJTIwYWdlbmN5JTIwaW4lMjBhJTIwd29ybGQlMjBvZiUyMGxvY2tlZC1kb3duJTIwYXBwcyUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODY5NzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMTklM0EwMSUzQTMxJTIwJTJCMDAwMA",
       "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
       "pubDate": "Sun, 27 Sep 2026 19:01:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlsbC5tZSUyRjIwMjYlMkYwNyUyRjE2JTJGY29ybi1wdXp6bGUtc2F0LXNvbHZlci5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0aGlsbC5tZSUyRjIwMjYlMkYwNyUyRjE2JTJGY29ybi1wdXp6bGUtc2F0LXNvbHZlci5odG1sJTdDU29sdmluZyUyMGElMjBjb3JuJTIwcHV6emxlJTIwd2l0aCUyMENQLVNBVCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODcwNzYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMjAlM0E1OCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Solving a corn puzzle with CP-SAT",
+      "pubDate": "Sun, 27 Sep 2026 20:58:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib29rb2ZyZXZlbnVlLmNvbSUyRmJsb2clMkY2YWI4MWU5YTk3YTEzZjAwMDFmN2U0ZTElMkZwb3N0Z3Jlcy1hdC10aW1lLXpvbmUtdS1kb2VzLW5vdC1kby13aGF0LXlvdS10aGluay1pdC1kb2VzJTdDaHR0cHMlM0ElMkYlMkZib29rb2ZyZXZlbnVlLmNvbSUyRmJsb2clMkY2YWI4MWU5YTk3YTEzZjAwMDFmN2U0ZTElMkZwb3N0Z3Jlcy1hdC10aW1lLXpvbmUtdS1kb2VzLW5vdC1kby13aGF0LXlvdS10aGluay1pdC1kb2VzJTdDRm9vdGd1bnMlMjB3aXRoJTIwUG9zdGdyZXMlMjAlMjJhdCUyMHRpbWUlMjB6b25lJTIwJ1VUQyclMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2NTMxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDEwJTNBMTklM0E1MSUyMCUyQjAwMDA",
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "pubDate": "Sun, 27 Sep 2026 10:19:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
     }
   ]

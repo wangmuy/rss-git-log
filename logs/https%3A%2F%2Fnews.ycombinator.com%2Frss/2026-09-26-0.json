@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 45,
-    "generatedAt": "2026-09-28T05:33:49.576Z"
+    "itemCount": 46,
+    "generatedAt": "2026-09-28T16:49:16.458Z"
   },
   "items": [
     {
@@ -276,6 +276,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0QyNXgwVXVTQ0t1VSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEMjV4MFV1U0NLdVUlN0NEZXRlcm1pbmlzdGljJTIwQ29uY3VycmVuY3klMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODUxNzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMDAlM0ExNCUzQTA0JTIwJTJCMDAwMA",
       "title": "Deterministic Concurrency [video]",
       "pubDate": "Sat, 26 Sep 2026 00:14:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RqU0htRG5VWkNtOCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEalNIbURuVVpDbTglN0NGdW5jdGlvbmFsJTIwTWVjaGFuaWNhbCUyMFN5bXBhdGh5JTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1MjIzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDAxJTNBMjYlM0E1NiUyMCUyQjAwMDA",
+      "title": "Functional Mechanical Sympathy [video]",
+      "pubDate": "Sat, 26 Sep 2026 01:26:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]
