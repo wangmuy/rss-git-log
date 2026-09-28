@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-27",
     "newestItemDate": "2026-09-27",
-    "itemCount": 24,
-    "generatedAt": "2026-09-27T19:47:50.189Z"
+    "itemCount": 31,
+    "generatedAt": "2026-09-28T05:33:49.576Z"
   },
   "items": [
     {
@@ -150,6 +150,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFpbC5mcmFuemFpLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdHJhaWwuZnJhbnphaS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBUcmFpbCUyMCVFMiU4MCU5MyUyMG5ldyUyMGtpbmQlMjBvZiUyMGxvZ2ljJTIwZ2FtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODY0MTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMDclM0EwMiUzQTIwJTIwJTJCMDAwMA",
       "title": "Show HN: Trail – new kind of logic game",
       "pubDate": "Sun, 27 Sep 2026 07:02:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Rlcy5zZWNyZXRzYXVjZS5uZXQlMkZub3RlcyUyRjIwMjYlMkYwOSUyRjI3X2x1bmFyLXRlcm1pbmF0b3ItcGFyYWRveC5odG1sJTdDaHR0cHMlM0ElMkYlMkZub3Rlcy5zZWNyZXRzYXVjZS5uZXQlMkZub3RlcyUyRjIwMjYlMkYwOSUyRjI3X2x1bmFyLXRlcm1pbmF0b3ItcGFyYWRveC5odG1sJTdDTHVuYXIlMjBUZXJtaW5hdG9yJTIwUGFyYWRveCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODcwODM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMjElM0EwNiUzQTE3JTIwJTJCMDAwMA",
+      "title": "Lunar Terminator Paradox",
+      "pubDate": "Sun, 27 Sep 2026 21:06:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW5jaG8uYmVhcmJsb2cuZGV2JTJGZ29vZ2xlLXdlaXJkJTJGJTdDaHR0cHMlM0ElMkYlMkZzYW5jaG8uYmVhcmJsb2cuZGV2JTJGZ29vZ2xlLXdlaXJkJTJGJTdDV2hlbiUyMGRpZCUyMEdvb2dsZSUyMGdldCUyMHNvJTIwd2VpcmQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3MDM2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDIwJTNBMTIlM0E1NCUyMCUyQjAwMDA",
+      "title": "When did Google get so weird?",
+      "pubDate": "Sun, 27 Sep 2026 20:12:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZC5hbHZhcmV6cm9zYS5jb20lMkZwb3N0cyUyRnNlbGYtaG9zdGluZy1vbi10aGUtZGFyay13ZWIlMkYlN0NodHRwcyUzQSUyRiUyRmRhdmlkLmFsdmFyZXpyb3NhLmNvbSUyRnBvc3RzJTJGc2VsZi1ob3N0aW5nLW9uLXRoZS1kYXJrLXdlYiUyRiU3Q1NlbGYtSG9zdGluZyUyMG9uJTIwdGhlJTIwRGFyayUyMFdlYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODcwMjk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMjAlM0EwMyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Self-Hosting on the Dark Web",
+      "pubDate": "Sun, 27 Sep 2026 20:03:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVvcmEuY29tJTJGRGlkLXRoZS1FTklBQy1oYXZlLWEtQklPUyUyRmFuc3dlciUyRkFsYW4tS2F5LTExJTdDaHR0cHMlM0ElMkYlMkZ3d3cucXVvcmEuY29tJTJGRGlkLXRoZS1FTklBQy1oYXZlLWEtQklPUyUyRmFuc3dlciUyRkFsYW4tS2F5LTExJTdDQWxhbiUyMEtheSdzJTIwYW5zd2VyJTIwdG8lMjAlRTIlODAlOUNEaWQlMjB0aGUlMjBFTklBQyUyMGhhdmUlMjBhJTIwQklPUyVFMiU4MCU5RCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODcwMDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMTklM0EzNyUzQTA1JTIwJTJCMDAwMA",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "pubDate": "Sun, 27 Sep 2026 19:37:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVlcGZhdGVzJTJGaW1wJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVlcGZhdGVzJTJGaW1wJTdDSW1wJTIwaXMlMjBhJTIwZnVsbCUyMHBvcnQlMjBvZiUyMERTUHklMjB0byUyMHRoZSUyMEJFQU0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2OTk5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDE5JTNBMjglM0EyMyUyMCUyQjAwMDA",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "pubDate": "Sun, 27 Sep 2026 19:28:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlsbC5tZSUyRjIwMjYlMkYwOSUyRjExJTJGd2hhdC1pLWRpZC1hdC1yYy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ0aGlsbC5tZSUyRjIwMjYlMkYwOSUyRjExJTJGd2hhdC1pLWRpZC1hdC1yYy5odG1sJTdDV2hhdCUyMEklMjBkaWQlMjBhdCUyMFJlY3Vyc2UlMjBDZW50ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2OTc3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDE5JTNBMDQlM0ExOSUyMCUyQjAwMDA",
+      "title": "What I did at Recurse Center",
+      "pubDate": "Sun, 27 Sep 2026 19:04:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5rYW5kc3dpdGNoLmNvbSUyRmVzc2F5JTJGbWFsbGVhYmxlLXNvZnR3YXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaW5rYW5kc3dpdGNoLmNvbSUyRmVzc2F5JTJGbWFsbGVhYmxlLXNvZnR3YXJlJTJGJTdDTWFsbGVhYmxlJTIwc29mdHdhcmUlM0ElMjBSZXN0b3JpbmclMjB1c2VyJTIwYWdlbmN5JTIwaW4lMjBhJTIwd29ybGQlMjBvZiUyMGxvY2tlZC1kb3duJTIwYXBwcyUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODY5NzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjclMjBTZXAlMjAyMDI2JTIwMTklM0EwMSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "pubDate": "Sun, 27 Sep 2026 19:01:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
     }
   ]
