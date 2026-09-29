@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 52,
-    "generatedAt": "2026-09-29T05:52:07.117Z"
+    "itemCount": 54,
+    "generatedAt": "2026-09-29T14:53:33.731Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcmNoYWVvbG9neW1hZy5jb20lMkYyMDI2JTJGMDklMkZnb2Jla2xpdGVwZS1idXJpYWxzLWh1bmRyZWRzLW9mLXNjYXR0ZXJlZC1ib25lcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJjaGFlb2xvZ3ltYWcuY29tJTJGMjAyNiUyRjA5JTJGZ29iZWtsaXRlcGUtYnVyaWFscy1odW5kcmVkcy1vZi1zY2F0dGVyZWQtYm9uZXMlMkYlN0MxMiUyQzAwMC15ZWFyLW9sZCUyMEclQzMlQjZiZWtsaXRlcGUlMjBidXJpYWxzJTIwZXhwbGFpbiUyMHNjYXR0ZXJlZCUyMGJvbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTUwNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAxMCUzQTE2JTNBMjYlMjAlMkIwMDAw",
       "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
       "pubDate": "Sat, 26 Sep 2026 10:16:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA5LWJlYXRsZXMtcGVybWVhdGVkLXBhcGVycy1hY2FkZW1pYy1kaXNjaXBsaW5lcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA5LWJlYXRsZXMtcGVybWVhdGVkLXBhcGVycy1hY2FkZW1pYy1kaXNjaXBsaW5lcy5odG1sJTdDVGhlJTIwQmVhdGxlcyUyMGhhdmUlMjBwZXJtZWF0ZWQlMjByZXNlYXJjaCUyMHBhcGVycyUyMGFjcm9zcyUyMGFjYWRlbWljJTIwZGlzY2lwbGluZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1OTg2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE5JTNBNDMlM0EzMiUyMCUyQjAwMDA",
+      "title": "The Beatles have permeated research papers across academic disciplines",
+      "pubDate": "Sat, 26 Sep 2026 19:43:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJlYW1pbmdsZWFybmluZ2NlbnRlci5jb20lMkZhcnRpY2xlcyUyRm9wdGltaXppbmcteDI2NC1zZXR0aW5ncy1hbmQtcGVyLXRpdGxlLWxhZGRlcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGc3RyZWFtaW5nbGVhcm5pbmdjZW50ZXIuY29tJTJGYXJ0aWNsZXMlMkZvcHRpbWl6aW5nLXgyNjQtc2V0dGluZ3MtYW5kLXBlci10aXRsZS1sYWRkZXJzLmh0bWwlN0NPcHRpbWl6aW5nJTIweDI2NCUyMHNldHRpbmdzJTIwYW5kJTIwcGVyLXRpdGxlJTIwbGFkZGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU4MTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTYlM0EzNiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Optimizing x264 settings and per-title ladders",
+      "pubDate": "Sat, 26 Sep 2026 16:36:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]

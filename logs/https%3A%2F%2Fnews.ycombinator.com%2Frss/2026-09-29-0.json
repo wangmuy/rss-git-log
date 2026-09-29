@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-29",
     "newestItemDate": "2026-09-29",
-    "itemCount": 2,
-    "generatedAt": "2026-09-29T05:52:07.116Z"
+    "itemCount": 19,
+    "generatedAt": "2026-09-29T14:53:33.731Z"
   },
   "items": [
     {
@@ -18,6 +18,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsb2xjaGF0LnJpcCUyRiU3Q2h0dHBzJTNBJTJGJTJGbG9sY2hhdC5yaXAlMkYlN0MxOTk2JTIwY2hhdCUyMHJvb20lMjBzaW11bGF0b3IlMjBjb25uZWN0ZWQlMjB0byUyMFdpbjk1JTIwYW5kJTIwU3lzdGVtJTIwNyUyMHdlYiUyMGRlc2t0b3BzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODYxOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAwMCUzQTA2JTNBNDglMjAlMkIwMDAw",
       "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
       "pubDate": "Tue, 29 Sep 2026 00:06:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0dXMuY2xhdWRlLmNvbSUyRmluY2lkZW50cyUyRjR4dnRjMmducTczbCU3Q2h0dHBzJTNBJTJGJTJGc3RhdHVzLmNsYXVkZS5jb20lMkZpbmNpZGVudHMlMkY0eHZ0YzJnbnE3M2wlN0NDbGF1ZGUlMjBwYXJ0aWFsJTIwb3V0YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTM4NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAxNCUzQTI1JTNBNDElMjAlMkIwMDAw",
+      "title": "Claude partial outage",
+      "pubDate": "Tue, 29 Sep 2026 14:25:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcHBsZWluc2lkZXIuY29tJTJGYXJ0aWNsZXMlMkYyNiUyRjA5JTJGMjglMkZtZXRhcy1uZXctYWktYWdlbnQtYmxhdGFudGx5LWlnbm9yZXMtdXNlcnMtcGVybWlzc2lvbnMlN0NodHRwcyUzQSUyRiUyRmFwcGxlaW5zaWRlci5jb20lMkZhcnRpY2xlcyUyRjI2JTJGMDklMkYyOCUyRm1ldGFzLW5ldy1haS1hZ2VudC1ibGF0YW50bHktaWdub3Jlcy11c2Vycy1wZXJtaXNzaW9ucyU3Q1Vuc3VycHJpc2luZ2x5JTJDJTIwTWV0YSdzJTIwbmV3JTIwTXVzZSUyMEFJJTIwYWdlbnQlMjBibGF0YW50bHklMjBpZ25vcmVzJTIwdXNlcnMlMjBwZXJtaXNzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODkzNzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjklMjBTZXAlMjAyMDI2JTIwMTQlM0ExNSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "pubDate": "Tue, 29 Sep 2026 14:15:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGb3MtcGxhdGZvcm1zJTJGMjAyNiUyRjA5JTJGMjklMkZnb29nbGUtZW5kaW5nLWNocm9tZW9zLXN1cHBvcnQtdHdvLXllYXJzLWVhcmx5JTJGNTI5OTY3NCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXJlZ2lzdGVyLmNvbSUyRm9zLXBsYXRmb3JtcyUyRjIwMjYlMkYwOSUyRjI5JTJGZ29vZ2xlLWVuZGluZy1jaHJvbWVvcy1zdXBwb3J0LXR3by15ZWFycy1lYXJseSUyRjUyOTk2NzQlN0NHb29nbGUlMjBlbmRpbmclMjBDaHJvbWVPUyUyMHN1cHBvcnQlMjB0d28lMjB5ZWFycyUyMGVhcmx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTM2NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAxNCUzQTEyJTNBMTUlMjAlMkIwMDAw",
+      "title": "Google ending ChromeOS support two years early",
+      "pubDate": "Tue, 29 Sep 2026 14:12:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9haHBpbmlvbi5ibG9nJTJGcCUyRndoZXJlcy10aGUtaW50ZWxsaWdlbmNlLWV4cGxvc2lvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vYWhwaW5pb24uYmxvZyUyRnAlMkZ3aGVyZXMtdGhlLWludGVsbGlnZW5jZS1leHBsb3Npb24lN0NXaGVyZSdzJTIwdGhlJTIwJTIySW50ZWxsaWdlbmNlJTIwRXhwbG9zaW9uJTIyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTMyNjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAxMyUzQTUxJTNBMDklMjAlMkIwMDAw",
+      "title": "Where's the \"Intelligence Explosion\"?",
+      "pubDate": "Tue, 29 Sep 2026 13:51:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXJrc2IuZ2l0aHViLmlvJTJGZW4lMkZhcnRpY2xlJTJGNDQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGFya3NiLmdpdGh1Yi5pbyUyRmVuJTJGYXJ0aWNsZSUyRjQ0Lmh0bWwlN0NXaGF0JTIwbWFrZXMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50JTIwZW5naW5lZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg5Mjk1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI5JTIwU2VwJTIwMjAyNiUyMDEzJTNBMzElM0EzMSUyMCUyQjAwMDA",
+      "title": "What makes software development engineering",
+      "pubDate": "Tue, 29 Sep 2026 13:31:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmRlbGhpLWVsZWN0cmljaXR5LWxvc3MlN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGZGVsaGktZWxlY3RyaWNpdHktbG9zcyU3Q0hvdyUyMERlbGhpJTIwQ3V0JTIwRWxlY3RyaWNpdHklMjBMb3NzJTIwZnJvbSUyMDUwJTIwdG8lMjA1JTIwUGVyY2VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODkyMjQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjklMjBTZXAlMjAyMDI2JTIwMTIlM0E0MyUzQTI5JTIwJTJCMDAwMA",
+      "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "pubDate": "Tue, 29 Sep 2026 12:43:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2l0aG91dGhvdGFpci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53aXRob3V0aG90YWlyLmNvbSUyRiU3Q1dpdGhvdXQlMjB0aGUlMjBIb3QlMjBBaXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg5MjE3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI5JTIwU2VwJTIwMjAyNiUyMDEyJTNBMzglM0ExOCUyMCUyQjAwMDA",
+      "title": "Without the Hot Air",
+      "pubDate": "Tue, 29 Sep 2026 12:38:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbGl0ZSUyRnN0b3J5JTJGOS43MzYxNjIyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbGl0ZSUyRnN0b3J5JTJGOS43MzYxNjIyJTdDMSUyMGluJTIwOCUyMGNhbmNlciUyMGNhc2VzJTIwd29ybGR3aWRlJTIwYXJlJTIwY2F1c2VkJTIwYnklMjBpbmZlY3Rpb25zJTJDJTIwc3R1ZHklMjBmaW5kcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODkyMTIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjklMjBTZXAlMjAyMDI2JTIwMTIlM0EzMyUzQTUwJTIwJTJCMDAwMA",
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "pubDate": "Tue, 29 Sep 2026 12:33:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXZzdGlsbGVyLnBhZ2VzLmRldiUyRnBvc3RzJTJGdGhlLWd1YXJhbnRlZSUyRiU3Q2h0dHBzJTNBJTJGJTJGamV2c3RpbGxlci5wYWdlcy5kZXYlMkZwb3N0cyUyRnRoZS1ndWFyYW50ZWUlMkYlN0NTaG93JTIwSE4lM0ElMjBKZXZzdGlsbGVyJTIwJUUyJTgwJTkzJTIwRGlzdGlsbCUyMEpldiUyMGludG8lMjBhJTIwbG9jYWwlMjBtb2RlbCUyQyUyMHdpdGglMjBhJTIwZGlzYWdyZWVtZW50JTIwYm91bmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg5MTc2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI5JTIwU2VwJTIwMjAyNiUyMDEyJTNBMDUlM0EwNyUyMCUyQjAwMDA",
+      "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+      "pubDate": "Tue, 29 Sep 2026 12:05:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnNvZnR3YXJlJTJGdGhlLW5ldGhlcmxhbmRzLWlzLXJvbGxpbmctYWx0ZXJuYXRpdmUtbml4b3MtYmFzZWQtc29mdHdhcmUtZWNvc3lzdGVtLWFmdGVyLXUtcy1zYW5jdGlvbnMtb24taWNjLXRvb2stbWljcm9zb2Z0LW9mZi10aGUtdGFibGUtdHJpYWwtcHJvZ3JhbXMtcnVubmluZy1ub3ctZmlyc3QtcmVsZWFzZS1leHBlY3RlZC1hdC1lbmQtb2YtMjAyNyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRvbXNoYXJkd2FyZS5jb20lMkZzb2Z0d2FyZSUyRnRoZS1uZXRoZXJsYW5kcy1pcy1yb2xsaW5nLWFsdGVybmF0aXZlLW5peG9zLWJhc2VkLXNvZnR3YXJlLWVjb3N5c3RlbS1hZnRlci11LXMtc2FuY3Rpb25zLW9uLWljYy10b29rLW1pY3Jvc29mdC1vZmYtdGhlLXRhYmxlLXRyaWFsLXByb2dyYW1zLXJ1bm5pbmctbm93LWZpcnN0LXJlbGVhc2UtZXhwZWN0ZWQtYXQtZW5kLW9mLTIwMjclN0NVUyUyMHNhbmN0aW9ucyUyMGZvcmNlJTIwVGhlJTIwTmV0aGVybGFuZHMlMjBvZmYlMjBNaWNyb3NvZnQlMjBhbmQlMjB0b3dhcmQlMjBhbHRlcm5hdGl2ZSUyME5peE9TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTE1NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAxMSUzQTQ0JTNBMjUlMjAlMkIwMDAw",
+      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+      "pubDate": "Tue, 29 Sep 2026 11:44:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZzZXAlMkYyOSUyRnRyaWFsLWxpdmUtZmFjaWFsLXJlY29nbml0aW9uLWNhbWVyYXMtbG9uZG9uLXN0YXRpb25zLWZhbHNlLXBvc2l0aXZlJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZzZXAlMkYyOSUyRnRyaWFsLWxpdmUtZmFjaWFsLXJlY29nbml0aW9uLWNhbWVyYXMtbG9uZG9uLXN0YXRpb25zLWZhbHNlLXBvc2l0aXZlJTdDNTAwayUyMGZhY2lhbCUyMHNjYW5zJTIwYXQlMjBVSyUyMHN0YXRpb25zJTIweWllbGQlMjBubyUyMGFycmVzdHMlMkMlMjAxJTIwZmFsc2UlMjBwb3NpdGl2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODkxNDgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjklMjBTZXAlMjAyMDI2JTIwMTElM0EzNSUzQTE4JTIwJTJCMDAwMA",
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "pubDate": "Tue, 29 Sep 2026 11:35:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVyZWt0aG9tcHNvbi5vcmclMkZwJTJGdGhlLWRlYXRoLW9mLXRoZS1hbWVyaWNhbi1ob3N0JTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGVyZWt0aG9tcHNvbi5vcmclMkZwJTJGdGhlLWRlYXRoLW9mLXRoZS1hbWVyaWNhbi1ob3N0JTdDWW91JTIwQXJlJTIwTm8lMjBMb25nZXIlMjBJbnZpdGVkJTIwdG8lMjBEaW5uZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg5MTI5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI5JTIwU2VwJTIwMjAyNiUyMDExJTNBMTQlM0E0NSUyMCUyQjAwMDA",
+      "title": "You Are No Longer Invited to Dinner",
+      "pubDate": "Tue, 29 Sep 2026 11:14:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUG9zdEhvZyUyRmplZXZlcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlBvc3RIb2clMkZqZWV2ZXMlN0NKZWV2ZXMuJTIwUmVhc29uaW5nJTIwaW1wcm92ZXMlMjBKZXYtbGlrZSUyMGRlY2lzaW9uJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTEyOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAxMSUzQTEzJTNBNTQlMjAlMkIwMDAw",
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "pubDate": "Tue, 29 Sep 2026 11:13:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRXZlck1pbmQtQUklMkZSYXZlbiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkV2ZXJNaW5kLUFJJTJGUmF2ZW4lN0NTaG93JTIwSE4lM0ElMjBSYXZlbiUyMCVFMiU4MCU5MyUyMFRoZSUyMGhhcm5lc3MlMjBvZiUyMGhhcm5lc3NlcyUyQyUyMGJ1aWx0JTIwZm9yJTIwUlNJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTA2NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAwOSUzQTU4JTNBMjQlMjAlMkIwMDAw",
+      "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+      "pubDate": "Tue, 29 Sep 2026 09:58:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3JnZWdhcmNpYWhlcnJlcm8uY29tJTJGd3AtY29udGVudCUyRmludGVyYWN0aXZvcyUyRjIwMjYwOTE2LVByb21wdC1saWtlLWEtYnV0dGVyZmx5LXN0aW5nLWxpa2UtYS10cmFja2VyLShjbGVhbikucGRmJTdDaHR0cHMlM0ElMkYlMkZqb3JnZWdhcmNpYWhlcnJlcm8uY29tJTJGd3AtY29udGVudCUyRmludGVyYWN0aXZvcyUyRjIwMjYwOTE2LVByb21wdC1saWtlLWEtYnV0dGVyZmx5LXN0aW5nLWxpa2UtYS10cmFja2VyLShjbGVhbikucGRmJTdDQUklMjBjb21wYW5pZXMlMjBsZWFrJTIwZGF0YSUyMHRvJTIwYWR2ZXJ0aXNlcnMlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg5MDIyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI5JTIwU2VwJTIwMjAyNiUyMDA5JTNBMDMlM0E0MSUyMCUyQjAwMDA",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "pubDate": "Tue, 29 Sep 2026 09:03:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvbmFuLmlvJTJGY3BwJTJGY29uYW4lMkZnYW1lZGV2JTJGZ29kb3QlMkZjbWFrZSUyRjIwMjYlMkYwOSUyRjI5JTJGVXNpbmctQW55LUNwcC1MaWJyYXJ5LUluLUdvZG90Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cuY29uYW4uaW8lMkZjcHAlMkZjb25hbiUyRmdhbWVkZXYlMkZnb2RvdCUyRmNtYWtlJTJGMjAyNiUyRjA5JTJGMjklMkZVc2luZy1BbnktQ3BwLUxpYnJhcnktSW4tR29kb3QuaHRtbCU3Q1VzaW5nJTIwYW55JTIwQyUyQiUyQiUyMGxpYnJhcnklMjBpbiUyMEdvZG90JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTAwNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAwOCUzQTQwJTNBMzclMjAlMkIwMDAw",
+      "title": "Using any C++ library in Godot",
+      "pubDate": "Tue, 29 Sep 2026 08:40:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RhcnR1cC1uaWdodHMuY2glMkZldmVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0YXJ0dXAtbmlnaHRzLmNoJTJGZXZlbnQlMkYlN0NTdGFydHVwJTIwTmlnaHRzJTIwMjAyNiUyMGlzJTIwY29tbWluZyUyMHVwJTIwb24lMjA1LTYlMjBOb3YuJTIwaW4lMjBTd2l0emVybGFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODg5NjMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjklMjBTZXAlMjAyMDI2JTIwMDclM0E0OSUzQTEyJTIwJTJCMDAwMA",
+      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+      "pubDate": "Tue, 29 Sep 2026 07:49:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
     }
   ]
