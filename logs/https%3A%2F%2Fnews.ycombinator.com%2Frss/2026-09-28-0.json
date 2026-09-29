@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-28",
     "newestItemDate": "2026-09-28",
-    "itemCount": 44,
-    "generatedAt": "2026-09-29T14:53:33.731Z"
+    "itemCount": 47,
+    "generatedAt": "2026-09-29T20:53:37.857Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNocmlzdGlhbnBlcm9uZS5jb20lMkYyMDI2JTJGMDklMkZ0aGUtc3lzdGVtcy10aGF0LW5vLW9uZS13aWxsLXRlc3QlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2hyaXN0aWFucGVyb25lLmNvbSUyRjIwMjYlMkYwOSUyRnRoZS1zeXN0ZW1zLXRoYXQtbm8tb25lLXdpbGwtdGVzdCUyRiU3Q1RoZSUyMHN5c3RlbXMlMjB0aGF0JTIwbm8lMjBvbmUlMjB3aWxsJTIwdGVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc2MDUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTAlM0E1MSUzQTQ2JTIwJTJCMDAwMA",
       "title": "The systems that no one will test",
       "pubDate": "Mon, 28 Sep 2026 10:51:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyOCUyRnNjaWVuY2UlMkZ2aXJ1cy1tb2xsdXNjdW0taHVtYW4tZ2VuZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyOCUyRnNjaWVuY2UlMkZ2aXJ1cy1tb2xsdXNjdW0taHVtYW4tZ2VuZS5odG1sJTdDVmlydXMlMjBTdG9sZSUyMGElMjBIdW1hbiUyMEdlbmUlMjBhbmQlMjBXb24ndCUyMExldCUyMEdvJTIwb2YlMjBJdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODgzNjM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMjAlM0EwNyUzQTE0JTIwJTJCMDAwMA",
+      "title": "Virus Stole a Human Gene and Won't Let Go of It",
+      "pubDate": "Mon, 28 Sep 2026 20:07:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdWppdGhqYXkuY29tJTJGaW52ZW50aW5nLXdvcmslN0NodHRwcyUzQSUyRiUyRnN1aml0aGpheS5jb20lMkZpbnZlbnRpbmctd29yayU3Q0ElMjBTdGFmZiUyMEVuZ2luZWVyJ3MlMjBHdWlkZSUyMHRvJTIwSW52ZW50aW5nJTIwV29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc4ODU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTQlM0E0NiUzQTA3JTIwJTJCMDAwMA",
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "pubDate": "Mon, 28 Sep 2026 14:46:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib29rb2Zqb2UyLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwOSUyRndhbGtpbmctbWVuLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJvb2tvZmpvZTIuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA5JTJGd2Fsa2luZy1tZW4uaHRtbCU3Q1dhbGtpbmclMjBNZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3ODA5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDAlM0ExNyUyMCUyQjAwMDA",
+      "title": "Walking Men",
+      "pubDate": "Mon, 28 Sep 2026 14:00:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-27",
     "newestItemDate": "2026-09-27",
-    "itemCount": 39,
-    "generatedAt": "2026-09-29T14:53:33.731Z"
+    "itemCount": 41,
+    "generatedAt": "2026-09-29T20:53:37.857Z"
   },
   "items": [
     {
@@ -240,6 +240,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb3VudGluZ2Zyb216ZXJvLmJsb2clMkYyMDI2JTJGMDQlMkYyNCUyRmZvdXItY2hpLTI2LXBhcGVycy1pLXdpc2gtaS13cm90ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGY291bnRpbmdmcm9temVyby5ibG9nJTJGMjAyNiUyRjA0JTJGMjQlMkZmb3VyLWNoaS0yNi1wYXBlcnMtaS13aXNoLWktd3JvdGUlMkYlN0NGb3VyJTIwQ0hJJTIwJzI2JTIwcGFwZXJzJTIwSSUyMHdpc2glMjBJJTIwd3JvdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2MzU5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDA1JTNBMjMlM0EzNyUyMCUyQjAwMDA",
       "title": "Four CHI '26 papers I wish I wrote",
       "pubDate": "Sun, 27 Sep 2026 05:23:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb21ldGhpbmdiaWcuYWklMkZjb21wdXRlciU3Q2h0dHBzJTNBJTJGJTJGc29tZXRoaW5nYmlnLmFpJTJGY29tcHV0ZXIlN0NOQU5ELTE2JTNBJTIwYSUyMGNvbXB1dGVyJTIwYnVpbHQlMjBmcm9tJTIwMjc3JTJDMjQ4JTIwTkFORCUyMGdhdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NzEwMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAyMSUzQTI2JTNBMDYlMjAlMkIwMDAw",
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "pubDate": "Sun, 27 Sep 2026 21:26:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXRoc2Vua2VyLmNvLnVrJTJGc3R1Y2staW4tdGhlLXN1ZXotY2FuYWwtdGhlLXNob3J0LXZlcnNpb24lMkYlN0NodHRwcyUzQSUyRiUyRmNhdGhzZW5rZXIuY28udWslMkZzdHVjay1pbi10aGUtc3Vlei1jYW5hbC10aGUtc2hvcnQtdmVyc2lvbiUyRiU3Q1N0dWNrJTIwaW4lMjB0aGUlMjBTdWV6JTIwQ2FuYWwlMjAlRTIlODAlOTMlMjB0aGUlMjBzaG9ydCUyMHZlcnNpb24lMjAoMjAyMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2NjAzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDEyJTNBMTclM0EzOSUyMCUyQjAwMDA",
+      "title": "Stuck in the Suez Canal – the short version (2021)",
+      "pubDate": "Sun, 27 Sep 2026 12:17:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
     }
   ]
