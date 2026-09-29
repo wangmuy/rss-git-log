@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-27",
     "newestItemDate": "2026-09-27",
-    "itemCount": 33,
-    "generatedAt": "2026-09-28T16:49:16.458Z"
+    "itemCount": 35,
+    "generatedAt": "2026-09-29T05:52:07.117Z"
   },
   "items": [
     {
@@ -204,6 +204,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZib29rb2ZyZXZlbnVlLmNvbSUyRmJsb2clMkY2YWI4MWU5YTk3YTEzZjAwMDFmN2U0ZTElMkZwb3N0Z3Jlcy1hdC10aW1lLXpvbmUtdS1kb2VzLW5vdC1kby13aGF0LXlvdS10aGluay1pdC1kb2VzJTdDaHR0cHMlM0ElMkYlMkZib29rb2ZyZXZlbnVlLmNvbSUyRmJsb2clMkY2YWI4MWU5YTk3YTEzZjAwMDFmN2U0ZTElMkZwb3N0Z3Jlcy1hdC10aW1lLXpvbmUtdS1kb2VzLW5vdC1kby13aGF0LXlvdS10aGluay1pdC1kb2VzJTdDRm9vdGd1bnMlMjB3aXRoJTIwUG9zdGdyZXMlMjAlMjJhdCUyMHRpbWUlMjB6b25lJTIwJ1VUQyclMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg2NTMxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI3JTIwU2VwJTIwMjAyNiUyMDEwJTNBMTklM0E1MSUyMCUyQjAwMDA",
       "title": "Footguns with Postgres \"at time zone 'UTC'\"",
       "pubDate": "Sun, 27 Sep 2026 10:19:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZwYXVsaW5hLWJvcnNvb2stcHJvZmlsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGcGF1bGluYS1ib3Jzb29rLXByb2ZpbGUlMkYlN0NXaG8lMjBLaWxsZWQlMjBQYXVsaW5hJTIwQm9yc29vaydzJTIwQ2FyZWVyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NjY5MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAxNCUzQTI1JTNBMDAlMjAlMkIwMDAw",
+      "title": "Who Killed Paulina Borsook's Career?",
+      "pubDate": "Sun, 27 Sep 2026 14:25:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaXRiYXNoaW5nLmlvJTJGYW0tcmFkaW8uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYml0YmFzaGluZy5pbyUyRmFtLXJhZGlvLmh0bWwlN0NTaW11bGF0aW5nJTIwQWlyYmFuZCUyMEFtJTIwUmFkaW9zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NjI2MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNyUyMFNlcCUyMDIwMjYlMjAwMiUzQTAxJTNBMzUlMjAlMkIwMDAw",
+      "title": "Simulating Airband Am Radios",
+      "pubDate": "Sun, 27 Sep 2026 02:01:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-27-0.json"
     }
   ]

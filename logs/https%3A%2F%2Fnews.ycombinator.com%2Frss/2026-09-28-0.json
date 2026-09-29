@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-28",
     "newestItemDate": "2026-09-28",
-    "itemCount": 25,
-    "generatedAt": "2026-09-28T16:49:16.458Z"
+    "itemCount": 43,
+    "generatedAt": "2026-09-29T05:52:07.116Z"
   },
   "items": [
     {
@@ -156,6 +156,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyMTEwLjAxODM0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyMTEwLjAxODM0JTdDVGhpbmtpbmclMjBmYXN0JTIwYW5kJTIwc2xvdyUyMGluJTIwQUklM0ElMjBUaGUlMjByb2xlJTIwb2YlMjBtZXRhY29nbml0aW9uJTIwKDIwMjEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NzMyNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAwMyUzQTIzJTNBNTMlMjAlMkIwMDAw",
       "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
       "pubDate": "Mon, 28 Sep 2026 03:23:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb25jbGVnZy5naXRodWIuaW8lMkZwYWNtYW4tYmFrZW9mZiUyRiU3Q2h0dHBzJTNBJTJGJTJGam9uY2xlZ2cuZ2l0aHViLmlvJTJGcGFjbWFuLWJha2VvZmYlMkYlN0NTaG93JTIwSE4lM0ElMjBQYWMtQmVuY2glMjAlRTIlODAlOTMlMjBIb3clMjB3ZWxsJTIwY2FuJTIwbW9kZWxzJTIwb25lLXNob3QlMjBhJTIwUGFjLU1hbiUyMGdhbWUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg4NTQ5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDIyJTNBNDMlM0ExMiUyMCUyQjAwMDA",
+      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+      "pubDate": "Mon, 28 Sep 2026 22:43:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTG93LVppLUhvbmclMkZFU1AzMnMzLUxMTS1DbHVzdGVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTG93LVppLUhvbmclMkZFU1AzMnMzLUxMTS1DbHVzdGVyJTdDRVNQMzJTMyUyMGNsdXN0ZXIlMjBydW5uaW5nJTIwMS41OC1iaXQlMjAoQml0TmV0KSUyMExhbmd1YWdlJTIwbW9kZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg4NDYyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDIxJTNBMjYlM0E0MSUyMCUyQjAwMDA",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "pubDate": "Mon, 28 Sep 2026 21:26:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZmlyZWxleCUyRmplZmYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmaXJlbGV4JTJGamVmZiU3Q0plZmYlMjAlRTIlODAlOTMlMjBKZXYtY29tcGF0aWJsZSUyMDAuOEIlMjBkZWNpc2lvbiUyMG1vZGVscyUyQyUyMHRyYWluZWQlMjBhdCUyMGhvbWUlMkMlMjB+MzAlMjBtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODgzODQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMjAlM0EyMyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "pubDate": "Mon, 28 Sep 2026 20:23:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ybGRsYWJzLmFpJTJGYmxvZyUyRmFtZC1hbm5vdW5jZW1lbnQlN0NodHRwcyUzQSUyRiUyRnd3dy53b3JsZGxhYnMuYWklMkZibG9nJTJGYW1kLWFubm91bmNlbWVudCU3Q1dvcmxkJTIwTGFicyUyMElzJTIwSm9pbmluZyUyMEFNRCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODgzNzYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMjAlM0ExOCUzQTA1JTIwJTJCMDAwMA",
+      "title": "World Labs Is Joining AMD",
+      "pubDate": "Mon, 28 Sep 2026 20:18:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua3FlZC5vcmclMkZuZXdzJTJGMTIxMDE1MzQlMkZjYWxpZm9ybmlhLWZhcm1lcnMtYXJlLXN0cnVnZ2xpbmctdG8tc2VsbC1ncmFwZXMtYXMtZGVtYW5kLWZvci13aW5lLWRyb3BzJTdDaHR0cHMlM0ElMkYlMkZ3d3cua3FlZC5vcmclMkZuZXdzJTJGMTIxMDE1MzQlMkZjYWxpZm9ybmlhLWZhcm1lcnMtYXJlLXN0cnVnZ2xpbmctdG8tc2VsbC1ncmFwZXMtYXMtZGVtYW5kLWZvci13aW5lLWRyb3BzJTdDQ2FsaWZvcm5pYSUyMGZhcm1lcnMlMjBhcmUlMjBzdHJ1Z2dsaW5nJTIwdG8lMjBzZWxsJTIwZ3JhcGVzJTIwYXMlMjBkZW1hbmQlMjBmb3IlMjB3aW5lJTIwZHJvcHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg4MzUzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDIwJTNBMDAlM0EwNiUyMCUyQjAwMDA",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "pubDate": "Mon, 28 Sep 2026 20:00:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjA5JTJGc2NpZW50aXN0cy1zb2x2ZS0xODQwcy1zcGFjZS13ZWF0aGVyLW15c3RlcnklMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRnNjaWVuY2UlMkYyMDI2JTJGMDklMkZzY2llbnRpc3RzLXNvbHZlLTE4NDBzLXNwYWNlLXdlYXRoZXItbXlzdGVyeSUyRiU3Q1NjaWVudGlzdHMlMjBzb2x2ZSUyMDE4NDBzJTIwc3BhY2UlMjB3ZWF0aGVyJTIwbXlzdGVyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODgzNTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMjAlM0EwMCUzQTAzJTIwJTJCMDAwMA",
+      "title": "Scientists solve 1840s space weather mystery",
+      "pubDate": "Mon, 28 Sep 2026 20:00:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxuZXdwb3J0LmNvbSUyRml0cy10aW1lLXRvLWludmVzdGlnYXRlLXRoZS1haS1sYWJzJTJGJTdDaHR0cHMlM0ElMkYlMkZjYWxuZXdwb3J0LmNvbSUyRml0cy10aW1lLXRvLWludmVzdGlnYXRlLXRoZS1haS1sYWJzJTJGJTdDSXQncyUyMFRpbWUlMjB0byUyMEludmVzdGlnYXRlJTIwdGhlJTIwQUklMjBMYWJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODM0NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAxOSUzQTUzJTNBMzUlMjAlMkIwMDAw",
+      "title": "It's Time to Investigate the AI Labs",
+      "pubDate": "Mon, 28 Sep 2026 19:53:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0ZW9mdXRvcGlhLmNvbSUyRmV4cGVyaW1lbnRzJTJGbWljcm9sbG1sYWIlMkYlN0NodHRwcyUzQSUyRiUyRnN0YXRlb2Z1dG9waWEuY29tJTJGZXhwZXJpbWVudHMlMkZtaWNyb2xsbWxhYiUyRiU3Q01pY3JvTExNJTIwTGFiJTIwJUUyJTgwJTkzJTIwVHJ5JTIwNyUyMHRpbnklMjBMTE0ncyUyMGluJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODgyNzgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTglM0E1OCUzQTUzJTIwJTJCMDAwMA",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "pubDate": "Mon, 28 Sep 2026 18:58:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmNsYXVkZS1zb25uZXQtNS01JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmNsYXVkZS1zb25uZXQtNS01JTdDU29ubmV0JTIwNS41JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODE4NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAxNyUzQTU4JTNBMTElMjAlMkIwMDAw",
+      "title": "Sonnet 5.5",
+      "pubDate": "Mon, 28 Sep 2026 17:58:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXN0cm95LnNwcml0ZWZ1c2lvbi5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmRlc3Ryb3kuc3ByaXRlZnVzaW9uLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMERlc3Ryb3klMjBBbnklMjBXZWJzaXRlJTIwd2l0aCUyMFN0aWNrbWFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODA2MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAxNiUzQTMxJTNBMjglMjAlMkIwMDAw",
+      "title": "Show HN: Destroy Any Website with Stickman",
+      "pubDate": "Mon, 28 Sep 2026 16:31:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWdpLnN0dWRpbyUyRnBvc3RzJTJGcGh5bGxvdGF4aXMlMkYlN0NodHRwcyUzQSUyRiUyRmphZ2kuc3R1ZGlvJTJGcG9zdHMlMkZwaHlsbG90YXhpcyUyRiU3Q1BoeWxsb3RheGlzJTNBJTIwQW4lMjBhdWRpby1yZWFjdGl2ZSUyMExFRCUyMGRpc3BsYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg4MDQxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE2JTNBMTglM0E1NyUyMCUyQjAwMDA",
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "pubDate": "Mon, 28 Sep 2026 16:18:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDklMkYyOCUyRm52aWRpYS1yZWxlYXNlcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDklMkYyOCUyRm52aWRpYS1yZWxlYXNlcy5odG1sJTdDTnZpZGlhJTIwd2FudHMlMjB0byUyMHB1dCUyMGElMjB3YXRjaGRvZyUyMGNoaXAlMjBuZXh0JTIwdG8lMjBldmVyeSUyMEFJJTIwYWdlbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3OTg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE1JTNBNDYlM0EzNiUyMCUyQjAwMDA",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "pubDate": "Mon, 28 Sep 2026 15:46:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YXNoZ2FyZy5kZXYlMkZwb3N0cyUyRmhpamFja2luZy1wczUtcnRtcC1zdHJlYW0lMkYlN0NodHRwcyUzQSUyRiUyRnlhc2hnYXJnLmRldiUyRnBvc3RzJTJGaGlqYWNraW5nLXBzNS1ydG1wLXN0cmVhbSUyRiU3Q0hpamFja2luZyUyMHRoZSUyMFBTNSdzJTIwUlRNUCUyMHN0cmVhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc5NzAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTUlM0EzNSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Hijacking the PS5's RTMP stream",
+      "pubDate": "Mon, 28 Sep 2026 15:35:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkFsaUFidW5pbWFoJTJGc3RhdHVzJTJGMjEwMzg5MDU5NDEzNzMwOTQyNSU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZBbGlBYnVuaW1haCUyRnN0YXR1cyUyRjIxMDM4OTA1OTQxMzczMDk0MjUlN0NVcGRhdGVkJTIwR29vZ2xlJTIwTWFwcyUyMHNob3dzJTIwZGVzdHJ1Y3Rpb24lMjBvZiUyMHRoZSUyMGNpdHklMjBvZiUyMFJhZmFoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Nzk2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAxNSUzQTMyJTNBMTglMjAlMkIwMDAw",
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "pubDate": "Mon, 28 Sep 2026 15:32:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY2xvdWRmbGFyZS1jZi1jbGktbGF1bmNoJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY2xvdWRmbGFyZS1jZi1jbGktbGF1bmNoJTJGJTdDQ2YlM0ElMjBUaGUlMjBBZ2VudGljJTIwQ0xJJTIwZm9yJTIwdGhlJTIwQ2xvdWRmbGFyZSUyMEFQSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc5NTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTUlM0EyOCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "pubDate": "Mon, 28 Sep 2026 15:28:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZobi53YXRjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGaG4ud2F0Y2glMkYlN0NTaG93JTIwSE4lM0ElMjBITi53YXRjaCUyMCVFMiU4MCU5MyUyMFZpZGVvcyUyMG9mJTIwYWxsJTIwSGFja2VyJTIwTmV3cyUyMHBvc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4Nzk0MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAxNSUzQTE2JTNBMTMlMjAlMkIwMDAw",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "pubDate": "Mon, 28 Sep 2026 15:16:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGV0ZXJ2aWplaC5jb20lMkZwcm9qZWN0cyUyRnJlZGRpdC1hc3Ryb3R1cmYlN0NodHRwcyUzQSUyRiUyRnd3dy5wZXRlcnZpamVoLmNvbSUyRnByb2plY3RzJTJGcmVkZGl0LWFzdHJvdHVyZiU3Q0RvZXMlMjBSZWRkaXQlMjBoYXZlJTIwYW4lMjBhc3Ryb3R1cmZpbmclMjBwcm9ibGVtJTNGJTIwV2hhdCUyMHRoZSUyMGRhdGElMjBzdWdnZXN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODc3Njc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMTMlM0EzMCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "pubDate": "Mon, 28 Sep 2026 13:30:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGcmFkaW8lMkZ0aGVjdXJyZW50JTJGcGF3cGF3LXRyb3BpY2FsLWZydWl0LWNhbmFkYS05LjczNTY4ODIlN0NodHRwcyUzQSUyRiUyRnd3dy5jYmMuY2ElMkZyYWRpbyUyRnRoZWN1cnJlbnQlMkZwYXdwYXctdHJvcGljYWwtZnJ1aXQtY2FuYWRhLTkuNzM1Njg4MiU3Q0JlaG9sZCUyMHRoZSUyMHBhd3BhdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODcyNjEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjglMjBTZXAlMjAyMDI2JTIwMDElM0E0NiUzQTI5JTIwJTJCMDAwMA",
+      "title": "Behold the pawpaw",
+      "pubDate": "Mon, 28 Sep 2026 01:46:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
     }
   ]

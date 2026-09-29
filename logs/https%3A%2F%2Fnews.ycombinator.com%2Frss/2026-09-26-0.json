@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-26",
     "newestItemDate": "2026-09-26",
-    "itemCount": 46,
-    "generatedAt": "2026-09-28T16:49:16.458Z"
+    "itemCount": 52,
+    "generatedAt": "2026-09-29T05:52:07.117Z"
   },
   "items": [
     {
@@ -282,6 +282,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RqU0htRG5VWkNtOCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEalNIbURuVVpDbTglN0NGdW5jdGlvbmFsJTIwTWVjaGFuaWNhbCUyMFN5bXBhdGh5JTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1MjIzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDAxJTNBMjYlM0E1NiUyMCUyQjAwMDA",
       "title": "Functional Mechanical Sympathy [video]",
       "pubDate": "Sat, 26 Sep 2026 01:26:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlzLm9zLmlzZmluZS5vcmclMkZibG9nJTJGcG9zdHMlMkZ3aGF0LXJldmVyc2UtZW5naW5lZXJpbmctYW5kLW1vZGVybmlzaW5nLWFuLW9sZC13YXItZ2FtZS10ZWxscy11cy1hYm91dC10aGUtZWNvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhpcy5vcy5pc2ZpbmUub3JnJTJGYmxvZyUyRnBvc3RzJTJGd2hhdC1yZXZlcnNlLWVuZ2luZWVyaW5nLWFuZC1tb2Rlcm5pc2luZy1hbi1vbGQtd2FyLWdhbWUtdGVsbHMtdXMtYWJvdXQtdGhlLWVjb24lMkYlN0NXaGF0JTIwcmV2ZXJzaW5nJTJDJTIwbW9kZXJuaXNpbmclMjBvbGQlMjBnYW1lcyUyMHRlbGxzJTIwdXMlMjBhYm91dCUyMHRoZSUyMGVjb25vbWljJTIwaW1wYWN0JTIwb2YlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODYxNzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMjMlM0E0OSUzQTAxJTIwJTJCMDAwMA",
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "pubDate": "Sat, 26 Sep 2026 23:49:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudW1iZXJtdXNldW0uY29tJTJGMjE0NzQ4MzY0NyU3Q2h0dHBzJTNBJTJGJTJGbnVtYmVybXVzZXVtLmNvbSUyRjIxNDc0ODM2NDclN0NTaG93JTIwSE4lM0ElMjBNdXNldW0lMjBvZiUyME51bWJlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1ODc1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE3JTNBMzYlM0E0NyUyMCUyQjAwMDA",
+      "title": "Show HN: Museum of Numbers",
+      "pubDate": "Sat, 26 Sep 2026 17:36:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3VybmFscy5zYWdlcHViLmNvbSUyRmRvaSUyRjEwLjExNzclMkYyMzk5ODA4MzI2MTQ1ODg0MiU3Q2h0dHBzJTNBJTJGJTJGam91cm5hbHMuc2FnZXB1Yi5jb20lMkZkb2klMkYxMC4xMTc3JTJGMjM5OTgwODMyNjE0NTg4NDIlN0NXaGF0JTIwaXMlMjB0aGUlMjBiZXN0JTIwc2hhcGUlMjBvZiUyMGElMjBjaXR5JTNGJTIwTW9kZWxsaW5nJTIwZWZmZWN0JTIwb2YlMjB1cmJhbiUyMGZvcm0lMjBvbiUyMGRpc3RhbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTg2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAxNyUzQTIzJTNBMDklMjAlMkIwMDAw",
+      "title": "What is the best shape of a city? Modelling effect of urban form on distance",
+      "pubDate": "Sat, 26 Sep 2026 17:23:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYW1pZXNpbW9uLmlvJTJGYmxvZyUyRmhvdy10by13aW4tYS1iZWVyLXdpdGgtaGlnaC1kaW1lbnNpb25hbC1zdGF0aXN0aWNzJTJGJTdDaHR0cHMlM0ElMkYlMkZqYW1pZXNpbW9uLmlvJTJGYmxvZyUyRmhvdy10by13aW4tYS1iZWVyLXdpdGgtaGlnaC1kaW1lbnNpb25hbC1zdGF0aXN0aWNzJTJGJTdDSG93JTIwdG8lMjB3aW4lMjBhJTIwYmVlciUyMHdpdGglMjBoaWdoLWRpbWVuc2lvbmFsJTIwc3RhdGlzdGljcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODU4MTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjYlMjBTZXAlMjAyMDI2JTIwMTYlM0E0MCUzQTA2JTIwJTJCMDAwMA",
+      "title": "How to win a beer with high-dimensional statistics",
+      "pubDate": "Sat, 26 Sep 2026 16:40:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmljZW9ub21pY3MuY29tJTJGdGhlLWFydC1mb3JnZXItd2hvLWJlY2FtZS1hLW5hdGlvbmFsLWhlcm8lMkYlN0NodHRwcyUzQSUyRiUyRnByaWNlb25vbWljcy5jb20lMkZ0aGUtYXJ0LWZvcmdlci13aG8tYmVjYW1lLWEtbmF0aW9uYWwtaGVybyUyRiU3Q1RoZSUyMEFydCUyMEZvcmdlciUyMFdobyUyMEJlY2FtZSUyMGElMjBOYXRpb25hbCUyMEhlcm8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg1NzIzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI2JTIwU2VwJTIwMjAyNiUyMDE1JTNBMDAlM0EyNyUyMCUyQjAwMDA",
+      "title": "The Art Forger Who Became a National Hero",
+      "pubDate": "Sat, 26 Sep 2026 15:00:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNoYWVvbG9neW1hZy5jb20lMkYyMDI2JTJGMDklMkZnb2Jla2xpdGVwZS1idXJpYWxzLWh1bmRyZWRzLW9mLXNjYXR0ZXJlZC1ib25lcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJjaGFlb2xvZ3ltYWcuY29tJTJGMjAyNiUyRjA5JTJGZ29iZWtsaXRlcGUtYnVyaWFscy1odW5kcmVkcy1vZi1zY2F0dGVyZWQtYm9uZXMlMkYlN0MxMiUyQzAwMC15ZWFyLW9sZCUyMEclQzMlQjZiZWtsaXRlcGUlMjBidXJpYWxzJTIwZXhwbGFpbiUyMHNjYXR0ZXJlZCUyMGJvbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4NTUwNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNiUyMFNlcCUyMDIwMjYlMjAxMCUzQTE2JTNBMjYlMjAlMkIwMDAw",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "pubDate": "Sat, 26 Sep 2026 10:16:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-26-0.json"
     }
   ]
