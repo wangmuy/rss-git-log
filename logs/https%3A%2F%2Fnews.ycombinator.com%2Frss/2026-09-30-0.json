@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-30",
     "newestItemDate": "2026-09-30",
-    "itemCount": 12,
-    "generatedAt": "2026-09-30T14:59:28.867Z"
+    "itemCount": 30,
+    "generatedAt": "2026-09-30T20:52:08.145Z"
   },
   "items": [
     {
@@ -78,6 +78,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0b213b2pjaWsuY29tJTJGcG9zdHMlMkYyMDI2LTA5LTIxJTJGc2VwdGVtYmVyLTIwMjYtdGhlLXdvcmxkLXRvZGF5JTJGJTdDaHR0cHMlM0ElMkYlMkZ0b213b2pjaWsuY29tJTJGcG9zdHMlMkYyMDI2LTA5LTIxJTJGc2VwdGVtYmVyLTIwMjYtdGhlLXdvcmxkLXRvZGF5JTJGJTdDU2VwdGVtYmVyJTIwMjAyNiUzQSUyMFRoZSUyMHdvcmxkJTIwdG9kYXklMkMlMjBhcyUyMHNlZW4lMjBieSUyMG9uZSUyMFBvbGlzaCUyMGd1eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA1NDg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMDclM0ExMiUzQTMxJTIwJTJCMDAwMA",
       "title": "September 2026: The world today, as seen by one Polish guy",
       "pubDate": "Wed, 30 Sep 2026 07:12:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZnZW1pbmktNC1hcmdvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZpbm5vdmF0aW9uLWFuZC1haSUyRm1vZGVscy1hbmQtcmVzZWFyY2glMkZnZW1pbmktbW9kZWxzJTJGZ2VtaW5pLTQtYXJnb24lMkYlN0NHZW1pbmklMjA0JTIwQXJnb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMzU3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDIwJTNBMDQlM0EzNyUyMCUyQjAwMDA",
+      "title": "Gemini 4 Argon",
+      "pubDate": "Wed, 30 Sep 2026 20:04:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZkZWFyLXNvZnR3YXJlLW1ha2VycyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qaW0tbmllbHNlbi5jb20lMkYyMDI2JTJGZGVhci1zb2Z0d2FyZS1tYWtlcnMlMkYlN0NEZWFyJTIwU29mdHdhcmUlMjBNYWtlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMzM2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDE5JTNBNDUlM0EzOCUyMCUyQjAwMDA",
+      "title": "Dear Software Makers",
+      "pubDate": "Wed, 30 Sep 2026 19:45:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dGtlZXRlci5jb20lMkZwcm9qZWN0cyUyRmhhbGZzcGFjZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hdHRrZWV0ZXIuY29tJTJGcHJvamVjdHMlMkZoYWxmc3BhY2UlMkYlN0NIYWxmc3BhY2UlMjBleHBlcmltZW50YWwlMjBJREUlMjBmb3IlMjBzb2xpZCUyMG1vZGVsaW5nJTIwd2l0aCUyMGRpc3RhbmNlJTIwZmllbGRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTMzNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTQ0JTNBMzclMjAlMkIwMDAw",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "pubDate": "Wed, 30 Sep 2026 19:44:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWVyaWNhLmdvdiUyRmNoYXQlN0NodHRwcyUzQSUyRiUyRmFtZXJpY2EuZ292JTJGY2hhdCU3Q0FtZXJpY2EuZ292JTIwZ29lcyUyMGNyYXp5JTIwb24lMjAlMjJwbGF5JTIwTWluZWNyYWZ0JTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTMyNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTM0JTNBMDMlMjAlMkIwMDAw",
+      "title": "America.gov goes crazy on \"play Minecraft\"",
+      "pubDate": "Wed, 30 Sep 2026 19:34:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZGdjcHAub3JnJTJGJTIzdHJhbnNpdGlvbiU3Q2h0dHBzJTNBJTJGJTJGZWRnY3BwLm9yZyUyRiUyM3RyYW5zaXRpb24lN0NFREclMjBDJTJCJTJCJTIwZnJvbnQtZW5kJTIwZ29lcyUyMHB1YmxpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTEzMTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTklM0EyNiUzQTM3JTIwJTJCMDAwMA",
+      "title": "EDG C++ front-end goes public",
+      "pubDate": "Wed, 30 Sep 2026 19:26:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGc3VycHJpc2luZ2x5LWNvbXBsZXgtd2F2ZXMtcmV2ZWFsLXRoZS1icmFpbnMtaW5uZXItd29ya2luZ3MtMjAyNjA5MzAlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZzdXJwcmlzaW5nbHktY29tcGxleC13YXZlcy1yZXZlYWwtdGhlLWJyYWlucy1pbm5lci13b3JraW5ncy0yMDI2MDkzMCUyRiU3Q1N1cnByaXNpbmdseSUyMENvbXBsZXglMjBXYXZlcyUyMFJldmVhbCUyMHRoZSUyMEJyYWluJ3MlMjBJbm5lciUyMFdvcmtpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTI5NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTA0JTNBNTAlMjAlMkIwMDAw",
+      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "pubDate": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV0bGlmeS5jb20lMkZibG9nJTJGZWRnZS1mdW5jdGlvbnMtZmlyZWNyYWNrZXItbWljcm92bXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uZXRsaWZ5LmNvbSUyRmJsb2clMkZlZGdlLWZ1bmN0aW9ucy1maXJlY3JhY2tlci1taWNyb3ZtcyUyRiU3QzV4JTIwZmFzdGVyJTIwRWRnZSUyMEZ1bmN0aW9ucyUzQSUyMFY4JTIwaXNvbGF0ZXMlMjB0byUyMEZpcmVjcmFja2VyJTIwTWljcm9WTXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMjQ0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDE4JTNBMTclM0E0NSUyMCUyQjAwMDA",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "pubDate": "Wed, 30 Sep 2026 18:17:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY211LmVkdSUyRm5ld3MlMkZzdG9yaWVzJTJGYXJjaGl2ZXMlMkYyMDI2JTJGc2VwdGVtYmVyJTJGY2FybmVnaWUtbWVsbG9uLXVuaXZlcnNpdHktYW5ub3VuY2VzLWhpc3RvcmljLTMtYmlsbGlvbi1naWZ0LWZyb20ta2VuLWdyaWZmaW4tcGlvbmVlcmluZy1hLW5ldy1tb2RlbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNtdS5lZHUlMkZuZXdzJTJGc3RvcmllcyUyRmFyY2hpdmVzJTJGMjAyNiUyRnNlcHRlbWJlciUyRmNhcm5lZ2llLW1lbGxvbi11bml2ZXJzaXR5LWFubm91bmNlcy1oaXN0b3JpYy0zLWJpbGxpb24tZ2lmdC1mcm9tLWtlbi1ncmlmZmluLXBpb25lZXJpbmctYS1uZXctbW9kZWwlN0NDYXJuZWdpZSUyME1lbGxvbiUyMFVuaXZlcnNpdHklMjBBbm5vdW5jZXMlMjBIaXN0b3JpYyUyMCUyNDNCJTIwR2lmdCUyMGZyb20lMjBLZW4lMjBHcmlmZmluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTIzMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxOCUzQTA2JTNBMTMlMjAlMkIwMDAw",
+      "title": "Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin",
+      "pubDate": "Wed, 30 Sep 2026 18:06:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFnbml0dWRlZGV2JTJGbWFnbml0dWRlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFnbml0dWRlZGV2JTJGbWFnbml0dWRlJTdDTGF1bmNoJTIwSE4lM0ElMjBNYWduaXR1ZGUlMjAoWUMlMjBTMjUpJTIwJUUyJTgwJTkzJTIwU2VsZi1vcHRpbWl6aW5nJTIwaW5mZXJlbmNlJTIwZW5naW5lJTIwZm9yJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTE5OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxNyUzQTM3JTNBNDAlMjAlMkIwMDAw",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "pubDate": "Wed, 30 Sep 2026 17:37:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvaGhmaXNoYWwubmV0JTJGUG9zdHMlMkZjbGF1ZGUlN0NodHRwcyUzQSUyRiUyRm9oaGZpc2hhbC5uZXQlMkZQb3N0cyUyRmNsYXVkZSU3Q0NsYXVkZSUyMFNheXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMTkyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDE3JTNBMzIlM0EwNiUyMCUyQjAwMDA",
+      "title": "Claude Says",
+      "pubDate": "Wed, 30 Sep 2026 17:32:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5ZWRodS5tZSUyRnBvc3RzJTJGY29tbWl0LWRlc2NyaXB0aW9uLWFzLWEtdGhpbmtpbmctdG9vbCUyRiU3Q2h0dHBzJTNBJTJGJTJGeWVkaHUubWUlMkZwb3N0cyUyRmNvbW1pdC1kZXNjcmlwdGlvbi1hcy1hLXRoaW5raW5nLXRvb2wlMkYlN0NDb21taXQlMjBkZXNjcmlwdGlvbiUyMGFzJTIwYSUyMHRoaW5raW5nJTIwdG9vbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTExNzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTclM0ExOCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Commit description as a thinking tool",
+      "pubDate": "Wed, 30 Sep 2026 17:18:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGYmlsZC1haSUyRmpvYnMlMkZkQWJDM0dkLWZvdW5kaW5nLXByb2R1Y3QtZW5naW5lZXIlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZiaWxkLWFpJTJGam9icyUyRmRBYkMzR2QtZm91bmRpbmctcHJvZHVjdC1lbmdpbmVlciU3Q0JpbGQlMjBBSSUyMChZQyUyMFcyNSklMjBJcyUyMEhpcmluZyUyMGElMjBGb3VuZGluZyUyMFByb2R1Y3QlMjBFbmdpbmVlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTExNTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTclM0EwMCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "pubDate": "Wed, 30 Sep 2026 17:00:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZHZhbmNlZC5vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbSUyRmRvaSUyRjEwLjEwMDIlMkZhZW5tLjcxNjAzJTdDaHR0cHMlM0ElMkYlMkZhZHZhbmNlZC5vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbSUyRmRvaSUyRjEwLjEwMDIlMkZhZW5tLjcxNjAzJTdDTW9pc3QtRWxlY3RyaWMlMjBXYWxscGFwZXIlMjBmb3IlMjBJbmRvb3IlMjBFbmVyZ3klMjBIYXJ2ZXN0aW5nJTIwYW5kJTIwSHVtaWRpdHklMjBNYW5hZ2VtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTA2MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxNSUzQTU0JTNBNTklMjAlMkIwMDAw",
+      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+      "pubDate": "Wed, 30 Sep 2026 15:54:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZGYub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZzZGYub3JnJTJGJTdDU0RGJTIwUHVibGljJTIwQWNjZXNzJTIwVW5peCUyMFN5c3RlbSUyMC4uLiUyMGVzdC4lMjAxOTg3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MDk2MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxNCUzQTM2JTNBMDIlMjAlMkIwMDAw",
+      "title": "SDF Public Access Unix System ... est. 1987",
+      "pubDate": "Wed, 30 Sep 2026 14:36:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmJsb29tYmVyZy10ZXJtaW5hbCU3Q2h0dHBzJTNBJTJGJTJGc3BlY3RydW0uaWVlZS5vcmclMkZibG9vbWJlcmctdGVybWluYWwlN0NBJTIwYnJpZWYlMjBoaXN0b3J5JTIwb2YlMjB0aGUlMjBCbG9vbWJlcmclMjB0ZXJtaW5hbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA5NTgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTQlM0EzNCUzQTA3JTIwJTJCMDAwMA",
+      "title": "A brief history of the Bloomberg terminal",
+      "pubDate": "Wed, 30 Sep 2026 14:34:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidXR0b25kb3duLmNvbSUyRmhpbGxlbHdheW5lJTJGYXJjaGl2ZSUyRndoYXQtdGxhLWNhbi1hbmQtY2FudC1jaGVjayUyRiU3Q2h0dHBzJTNBJTJGJTJGYnV0dG9uZG93bi5jb20lMkZoaWxsZWx3YXluZSUyRmFyY2hpdmUlMkZ3aGF0LXRsYS1jYW4tYW5kLWNhbnQtY2hlY2slMkYlN0NXaGF0JTIwVExBJTJCJTIwY2FuJTIwYW5kJTIwY2FuJ3QlMjBjaGVjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA5MDU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTMlM0E1NyUzQTA2JTIwJTJCMDAwMA",
+      "title": "What TLA+ can and can't check",
+      "pubDate": "Wed, 30 Sep 2026 13:57:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYW51ZWwuZGFyY2Vtb250LmZyJTJGcG9zdHMlMkZ0aGUtbGFzdC10aW1lLW15LWZhbWlseS13YXMtcmVwbGFjZWQtYnktdGVjaG5vbG9neSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFudWVsLmRhcmNlbW9udC5mciUyRnBvc3RzJTJGdGhlLWxhc3QtdGltZS1teS1mYW1pbHktd2FzLXJlcGxhY2VkLWJ5LXRlY2hub2xvZ3klMkYlN0NUaGUlMjBsYXN0JTIwdGltZSUyMG15JTIwZmFtaWx5JTIwd2FzJTIwcmVwbGFjZWQlMjBieSUyMHRlY2hub2xvZ3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkwODM5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDEzJTNBMDYlM0ExMSUyMCUyQjAwMDA",
+      "title": "The last time my family was replaced by technology",
+      "pubDate": "Wed, 30 Sep 2026 13:06:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJlbmRpbC5jb20lMkZwb3N0cyUyRnlvdS1zYWlkLW5vLW1jcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWFyZW5kaWwuY29tJTJGcG9zdHMlMkZ5b3Utc2FpZC1uby1tY3AlMkYlN0NZb3UlMjBzYWlkJTIwbm8lMjBNQ1AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkwNjYzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDA5JTNBNTUlM0EyMyUyMCUyQjAwMDA",
+      "title": "You said no MCP",
+      "pubDate": "Wed, 30 Sep 2026 09:55:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
     }
   ]
