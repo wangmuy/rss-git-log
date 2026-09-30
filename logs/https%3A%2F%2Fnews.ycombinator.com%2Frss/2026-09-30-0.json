@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-30",
     "newestItemDate": "2026-09-30",
-    "itemCount": 7,
-    "generatedAt": "2026-09-30T05:42:04.170Z"
+    "itemCount": 12,
+    "generatedAt": "2026-09-30T14:59:28.867Z"
   },
   "items": [
     {
@@ -48,6 +48,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtaWdodHlnb2RraW5nLmNvbSUyRjIwMDglMkYwNCUyRjIxJTJGZnVuLWZyb20teWVzdGVyZGF5JTJGJTdDaHR0cHMlM0ElMkYlMkZtaWdodHlnb2RraW5nLmNvbSUyRjIwMDglMkYwNCUyRjIxJTJGZnVuLWZyb20teWVzdGVyZGF5JTJGJTdDU3RyYW5nZSUyMFBhcm9kaWVzJTIwb2YlMjBBdGFyaSUyMDI2MDAlMjBWaWRlbyUyMEdhbWUlMjBCb3glMjBDb3ZlciUyMEFydCUyMCgyMDA4KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTAzMzgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMDElM0E0NyUzQTE0JTIwJTJCMDAwMA",
       "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
       "pubDate": "Wed, 30 Sep 2026 01:47:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBoYXBpeGVsZGV2LmNvbSUyRnNkZi12cy1tc2RmLXZzLXNsdWctdnMtcml2ZS1ncHUtdGV4dC1yZW5kZXJpbmclMkYlN0NodHRwcyUzQSUyRiUyRmFscGhhcGl4ZWxkZXYuY29tJTJGc2RmLXZzLW1zZGYtdnMtc2x1Zy12cy1yaXZlLWdwdS10ZXh0LXJlbmRlcmluZyUyRiU3Q1NERiUyMHZzLiUyME1TREYlMjB2cy4lMjBTbHVnJTNBJTIwR1BVJTIwVGV4dCUyMFJlbmRlcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA4OTYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTMlM0E1MCUzQTUwJTIwJTJCMDAwMA",
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "pubDate": "Wed, 30 Sep 2026 13:50:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1YnVudHUuY29tJTJGYmxvZyUyRnVwZ3JhZGUteW91ci1kZXNrdG9wLXVidW50dS0yNi0wNC1sdHMlN0NodHRwcyUzQSUyRiUyRnVidW50dS5jb20lMkZibG9nJTJGdXBncmFkZS15b3VyLWRlc2t0b3AtdWJ1bnR1LTI2LTA0LWx0cyU3Q1VwZ3JhZGUlMjB5b3VyJTIwZGVza3RvcCUzQSUyMFVidW50dSUyMDI2LjA0LjElMjBMVFMlMjBpcyUyMG5vdyUyMGF2YWlsYWJsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA4NzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTMlM0EzNiUzQTM3JTIwJTJCMDAwMA",
+      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+      "pubDate": "Wed, 30 Sep 2026 13:36:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZubHRpbWVzLm5sJTJGMjAyNiUyRjA5JTJGMzAlMkZkYXRhLWNlbnRlcnMtcmVmdXNpbmctc2F5LW11Y2gtd2F0ZXItZWxlY3RyaWNpdHktdXNlJTdDaHR0cHMlM0ElMkYlMkZubHRpbWVzLm5sJTJGMjAyNiUyRjA5JTJGMzAlMkZkYXRhLWNlbnRlcnMtcmVmdXNpbmctc2F5LW11Y2gtd2F0ZXItZWxlY3RyaWNpdHktdXNlJTdDTW9zdCUyMGRhdGElMjBjZW50ZXJzJTIwcmVmdXNpbmclMjB0byUyMHNheSUyMGhvdyUyMG11Y2glMjB3YXRlciUyQyUyMGVsZWN0cmljaXR5JTIwdGhleSUyMHVzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA3MDU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTAlM0E0OSUzQTMyJTIwJTJCMDAwMA",
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "pubDate": "Wed, 30 Sep 2026 10:49:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJlbmRpbC5jb20lMkZwb3N0cyUyRnlvdS1zYWlkLW5vLW1jcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWFyZW5kaWwuY29tJTJGcG9zdHMlMkZ5b3Utc2FpZC1uby1tY3AlMkYlN0NQaS5kZXYlM0ElMjBZb3UlMjBTYWlkJTIwTm8lMjBNQ1AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkwNjYzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDA5JTNBNTUlM0EyMyUyMCUyQjAwMDA",
+      "title": "Pi.dev: You Said No MCP",
+      "pubDate": "Wed, 30 Sep 2026 09:55:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b213b2pjaWsuY29tJTJGcG9zdHMlMkYyMDI2LTA5LTIxJTJGc2VwdGVtYmVyLTIwMjYtdGhlLXdvcmxkLXRvZGF5JTJGJTdDaHR0cHMlM0ElMkYlMkZ0b213b2pjaWsuY29tJTJGcG9zdHMlMkYyMDI2LTA5LTIxJTJGc2VwdGVtYmVyLTIwMjYtdGhlLXdvcmxkLXRvZGF5JTJGJTdDU2VwdGVtYmVyJTIwMjAyNiUzQSUyMFRoZSUyMHdvcmxkJTIwdG9kYXklMkMlMjBhcyUyMHNlZW4lMjBieSUyMG9uZSUyMFBvbGlzaCUyMGd1eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA1NDg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMDclM0ExMiUzQTMxJTIwJTJCMDAwMA",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "pubDate": "Wed, 30 Sep 2026 07:12:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
     }
   ]

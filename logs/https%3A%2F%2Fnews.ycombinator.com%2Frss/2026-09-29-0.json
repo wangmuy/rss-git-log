@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-29",
     "newestItemDate": "2026-09-29",
-    "itemCount": 50,
-    "generatedAt": "2026-09-30T05:42:04.170Z"
+    "itemCount": 55,
+    "generatedAt": "2026-09-30T14:59:28.868Z"
   },
   "items": [
     {
@@ -306,6 +306,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb252ZXJzYXRpb24uY29tJTJGd2hlbi1vaWwtcHJpY2VzLXNwaWtlLXdoZXJlLWRvZXMtdGhlLW1vbmV5LWdvLTI4MDc2MyU3Q2h0dHBzJTNBJTJGJTJGdGhlY29udmVyc2F0aW9uLmNvbSUyRndoZW4tb2lsLXByaWNlcy1zcGlrZS13aGVyZS1kb2VzLXRoZS1tb25leS1nby0yODA3NjMlN0NXaGVuJTIwb2lsJTIwcHJpY2VzJTIwc3Bpa2UlMkMlMjB3aGVyZSUyMGRvZXMlMjB0aGUlMjBtb25leSUyMGdvJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODgxODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAwNCUzQTE0JTNBMTElMjAlMkIwMDAw",
       "title": "When oil prices spike, where does the money go?",
       "pubDate": "Tue, 29 Sep 2026 04:14:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlnbWVzc293aXJlcy5jb20lMkYyMDI2JTJGMDklMkYyOSUyRmZsb3BweS1lbXUtaGFyZHdhcmUtZmFpbHVyZS1hbmFseXNpcy1yZXN1bHRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmlnbWVzc293aXJlcy5jb20lMkYyMDI2JTJGMDklMkYyOSUyRmZsb3BweS1lbXUtaGFyZHdhcmUtZmFpbHVyZS1hbmFseXNpcy1yZXN1bHRzJTJGJTdDRmxvcHB5JTIwRW11JTIwSGFyZHdhcmUlMjBGYWlsdXJlJTIwQW5hbHlzaXMlMjBSZXN1bHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MDIwOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAyMyUzQTEwJTNBMjYlMjAlMkIwMDAw",
+      "title": "Floppy Emu Hardware Failure Analysis Results",
+      "pubDate": "Tue, 29 Sep 2026 23:10:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2V2ZXJub3ZhLmNvbSUyRm5ld3MlMkZwcmVzcy1yZWxlYXNlcyUyRm5yYy1pc3N1ZXMtZmlyc3QtdXMtY29uc3RydWN0aW9uLXBlcm1pdC1id3J4LTMwMC1zbWFsbC1tb2R1bGFyLXJlYWN0b3ItdHZhLWNsaW5jaC1yaXZlciU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdldmVybm92YS5jb20lMkZuZXdzJTJGcHJlc3MtcmVsZWFzZXMlMkZucmMtaXNzdWVzLWZpcnN0LXVzLWNvbnN0cnVjdGlvbi1wZXJtaXQtYndyeC0zMDAtc21hbGwtbW9kdWxhci1yZWFjdG9yLXR2YS1jbGluY2gtcml2ZXIlN0NOUkMlMjBpc3N1ZXMlMjBmaXJzdCUyMFUuUy4lMjBjb25zdHJ1Y3Rpb24lMjBwZXJtaXQlMjBmb3IlMjBhJTIwQldSWC0zMDAlMjBzbWFsbCUyMG1vZHVsYXIlMjByZWFjdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MDIwMTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAyMyUzQTAzJTNBMzglMjAlMkIwMDAw",
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "pubDate": "Tue, 29 Sep 2026 23:03:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9qZWN0aHViLmFyZHVpbm8uY2MlMkZzeW50aGV0aWNhaWRhdGElMkZqYnItMDAxLWEtZGVza3RvcC1jb21wYW5pb24tcm9ib3QtcG93ZXJlZC1ieS1hcmR1aW5vLXVuby1xLWIxMWM5NiU3Q2h0dHBzJTNBJTJGJTJGcHJvamVjdGh1Yi5hcmR1aW5vLmNjJTJGc3ludGhldGljYWlkYXRhJTJGamJyLTAwMS1hLWRlc2t0b3AtY29tcGFuaW9uLXJvYm90LXBvd2VyZWQtYnktYXJkdWluby11bm8tcS1iMTFjOTYlN0NTaG93JTIwSE4lM0ElMjBKQlItMDAxJTIwJUUyJTgwJTkzJTIwQW4lMjBvcGVuLXNvdXJjZSUyMDNEJTIwcHJpbnRhYmxlJTIwZGVza3RvcCUyMHJvYm90JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTA3MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAxMCUzQTA1JTNBNTYlMjAlMkIwMDAw",
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "pubDate": "Tue, 29 Sep 2026 10:05:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoaWdvbi5vcmclMkZvcmlnYW1pJTdDaHR0cHMlM0ElMkYlMkZtYXRoaWdvbi5vcmclMkZvcmlnYW1pJTdDTWF0aGVtYXRpY2FsJTIwT3JpZ2FtaSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODg5MTQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjklMjBTZXAlMjAyMDI2JTIwMDYlM0E0NSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Mathematical Origami",
+      "pubDate": "Tue, 29 Sep 2026 06:45:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZleHlyLm9yZyUyRjIwMjYlMkZzb2x2aW5nLWZhY3RvcmlvLXF1YWxpdHklMkYlN0NodHRwcyUzQSUyRiUyRmV4eXIub3JnJTJGMjAyNiUyRnNvbHZpbmctZmFjdG9yaW8tcXVhbGl0eSUyRiU3Q1NvbHZpbmclMjBGYWN0b3JpbyUyMFF1YWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg4NzM0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI5JTIwU2VwJTIwMjAyNiUyMDAyJTNBMjclM0E1NCUyMCUyQjAwMDA",
+      "title": "Solving Factorio Quality",
+      "pubDate": "Tue, 29 Sep 2026 02:27:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
     }
   ]

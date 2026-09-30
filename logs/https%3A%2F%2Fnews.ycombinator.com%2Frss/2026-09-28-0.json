@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-28",
     "newestItemDate": "2026-09-28",
-    "itemCount": 48,
-    "generatedAt": "2026-09-30T05:42:04.170Z"
+    "itemCount": 50,
+    "generatedAt": "2026-09-30T14:59:28.868Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dGtlZXRlci5jb20lMkZibG9nJTJGMjAyNi0wOC0yMy13Z3B1LWZhY2V0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWF0dGtlZXRlci5jb20lMkZibG9nJTJGMjAyNi0wOC0yMy13Z3B1LWZhY2V0JTJGJTdDVGVzdGluZyUyMFdlYkdQVSUyMGRhdGElMjBsYXlvdXRzJTIwd2l0aCUyMEZhY2V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODM5MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAyMCUzQTI4JTNBMDglMjAlMkIwMDAw",
       "title": "Testing WebGPU data layouts with Facet",
       "pubDate": "Mon, 28 Sep 2026 20:28:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2lyb21hdHRpYSUyRmtjYyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNpcm9tYXR0aWElMkZrY2MlN0NTaG93JTIwSE4lM0ElMjBVc2luZyUyMDJEJTIwREZUJTJDJTIwZGl0aGVyaW5nJTJDJTIwZXRjLiUyMHRvJTIwbWF4aW1pemUlMjBlSW5rJTIwbWFuZ2ElMjBpbWFnZSUyMHF1YWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3OTc1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE1JTNBMzklM0E0MiUyMCUyQjAwMDA",
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "pubDate": "Mon, 28 Sep 2026 15:39:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlzaXNteXBlcnNvbmFsYmxvZy5jb20lMkZwb3N0cyUyRjIwMjYtMDktMjUtZ2V0dGluZy1vdXQtb2YtdGhlLXdheSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhpc2lzbXlwZXJzb25hbGJsb2cuY29tJTJGcG9zdHMlMkYyMDI2LTA5LTI1LWdldHRpbmctb3V0LW9mLXRoZS13YXklMkYlN0NHZXR0aW5nJTIwb3V0JTIwb2YlMjB0aGUlMjB3YXklM0ElMjBteSUyMHJvYm90aWNzJTIwY3Jhc2glMjBjb3Vyc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3OTM0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE1JTNBMTIlM0E0MyUyMCUyQjAwMDA",
+      "title": "Getting out of the way: my robotics crash course",
+      "pubDate": "Mon, 28 Sep 2026 15:12:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
     }
   ]
