@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-28",
     "newestItemDate": "2026-09-28",
-    "itemCount": 47,
-    "generatedAt": "2026-09-29T20:53:37.857Z"
+    "itemCount": 48,
+    "generatedAt": "2026-09-30T05:42:04.170Z"
   },
   "items": [
     {
@@ -288,6 +288,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZib29rb2Zqb2UyLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYwOSUyRndhbGtpbmctbWVuLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJvb2tvZmpvZTIuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjA5JTJGd2Fsa2luZy1tZW4uaHRtbCU3Q1dhbGtpbmclMjBNZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg3ODA5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI4JTIwU2VwJTIwMjAyNiUyMDE0JTNBMDAlM0ExNyUyMCUyQjAwMDA",
       "title": "Walking Men",
       "pubDate": "Mon, 28 Sep 2026 14:00:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dGtlZXRlci5jb20lMkZibG9nJTJGMjAyNi0wOC0yMy13Z3B1LWZhY2V0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWF0dGtlZXRlci5jb20lMkZibG9nJTJGMjAyNi0wOC0yMy13Z3B1LWZhY2V0JTJGJTdDVGVzdGluZyUyMFdlYkdQVSUyMGRhdGElMjBsYXlvdXRzJTIwd2l0aCUyMEZhY2V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4ODM5MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyOCUyMFNlcCUyMDIwMjYlMjAyMCUzQTI4JTNBMDglMjAlMkIwMDAw",
+      "title": "Testing WebGPU data layouts with Facet",
+      "pubDate": "Mon, 28 Sep 2026 20:28:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-28-0.json"
     }
   ]
