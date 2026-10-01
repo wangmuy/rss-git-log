@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-30",
     "newestItemDate": "2026-09-30",
-    "itemCount": 30,
-    "generatedAt": "2026-09-30T20:52:08.145Z"
+    "itemCount": 40,
+    "generatedAt": "2026-10-01T06:07:27.226Z"
   },
   "items": [
     {
@@ -186,6 +186,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlYXJlbmRpbC5jb20lMkZwb3N0cyUyRnlvdS1zYWlkLW5vLW1jcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWFyZW5kaWwuY29tJTJGcG9zdHMlMkZ5b3Utc2FpZC1uby1tY3AlMkYlN0NZb3UlMjBzYWlkJTIwbm8lMjBNQ1AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkwNjYzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDA5JTNBNTUlM0EyMyUyMCUyQjAwMDA",
       "title": "You said no MCP",
       "pubDate": "Wed, 30 Sep 2026 09:55:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY1NmsucmlwJTJGJTdDaHR0cHMlM0ElMkYlMkY1NmsucmlwJTJGJTdDNTZrLnJpcCUyMCVFMiU4MCU5MyUyMHRoZSUyMDE5OTYlMjBkaWFsLXVwJTIwaW50ZXJuZXQlMjBleHBlcmllbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTUxMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAyMiUzQTA4JTNBNTAlMjAlMkIwMDAw",
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "pubDate": "Wed, 30 Sep 2026 22:08:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlc3BhY2VyZXZpZXcuY29tJTJGYXJ0aWNsZSUyRjQ5NTElMkYxJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlc3BhY2VyZXZpZXcuY29tJTJGYXJ0aWNsZSUyRjQ5NTElMkYxJTdDVGhlJTIwdG9wJTIwc2VjcmV0JTIwVVJTQUxBJTJDJTIwUkFRVUVMJTJDJTIwYW5kJTIwRkFSUkFIJTIwc2F0ZWxsaXRlcyUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTE1MDgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMjIlM0EwMyUzQTA0JTIwJTJCMDAwMA",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "pubDate": "Wed, 30 Sep 2026 22:03:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV1cm9haS5zY2llbmNlJTJGcCUyRmZ1bmN0aW9uYWwtdWx0cmFzb3VuZC1pbWFnaW5nLWZyb20lN0NodHRwcyUzQSUyRiUyRnd3dy5uZXVyb2FpLnNjaWVuY2UlMkZwJTJGZnVuY3Rpb25hbC11bHRyYXNvdW5kLWltYWdpbmctZnJvbSU3Q0Z1bmN0aW9uYWwlMjBVbHRyYXNvdW5kJTIwSW1hZ2luZyUyMChmVVNJKSUyMGZyb20lMjBzY3JhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTM2MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAyMCUzQTA2JTNBMzklMjAlMkIwMDAw",
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "pubDate": "Wed, 30 Sep 2026 20:06:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGc3VycHJpc2luZ2x5LWNvbXBsZXgtd2F2ZXMtcmV2ZWFsLXRoZS1icmFpbnMtaW5uZXItd29ya2luZ3MtMjAyNjA5MzAlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZzdXJwcmlzaW5nbHktY29tcGxleC13YXZlcy1yZXZlYWwtdGhlLWJyYWlucy1pbm5lci13b3JraW5ncy0yMDI2MDkzMCUyRiU3Q1N1cnByaXNpbmdseSUyMGNvbXBsZXglMjB3YXZlcyUyMHJldmVhbCUyMHRoZSUyMGJyYWluJ3MlMjBpbm5lciUyMHdvcmtpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTI5NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxOSUzQTA0JTNBNTAlMjAlMkIwMDAw",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "pubDate": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGYmVmb3JlLXBpeGVscy1tb2R1bGFyLWluZHVzdHJpYWwtZGFzaGJvYXJkcyUyRiU3Q2h0dHBzJTNBJTJGJTJGdW5zdW5nLmFyZXNsdW5hLm9yZyUyRmJlZm9yZS1waXhlbHMtbW9kdWxhci1pbmR1c3RyaWFsLWRhc2hib2FyZHMlMkYlN0NCZWZvcmUlMjBwaXhlbHMlM0ElMjBNb2R1bGFyJTIwaW5kdXN0cmlhbCUyMGRhc2hib2FyZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMjc5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDE4JTNBNDklM0EwNiUyMCUyQjAwMDA",
+      "title": "Before pixels: Modular industrial dashboards",
+      "pubDate": "Wed, 30 Sep 2026 18:49:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2hvbXBpY2x1Yi5jb20lMkZvcGVuc291cmNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2hvbXBpY2x1Yi5jb20lMkZvcGVuc291cmNlJTdDQ0hPTVBJJTIwcG9ydGFibGUlMjBzYW1wbGVyJTIwaW5zdHJ1bWVudCUyMGlzJTIwbm93JTIwb3Blbi1zb3VyY2UlMjAoaGFyZHdhcmUlMjBhbmQlMjBzb2Z0d2FyZSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMjA0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDE3JTNBNDIlM0ExMyUyMCUyQjAwMDA",
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "pubDate": "Wed, 30 Sep 2026 17:42:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc29mdHdhcmUzZC5jb20lMkZNaWxsZXJzTW9uc3Rlci5waHAlN0NodHRwcyUzQSUyRiUyRnd3dy5zb2Z0d2FyZTNkLmNvbSUyRk1pbGxlcnNNb25zdGVyLnBocCU3Q0dyZWF0JTIwRGlyaG9tYmljb3NpZG9kZWNhaGVkcm9uJTIwKCUyMk1pbGxlcidzJTIwTW9uc3RlciUyMiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMTUzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDE3JTNBMDAlM0E0NCUyMCUyQjAwMDA",
+      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+      "pubDate": "Wed, 30 Sep 2026 17:00:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqdG9tc2Nocm9lZGVyLmNvbSUyRmJsb2clMkZ0b25lLWNpcmNsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGanRvbXNjaHJvZWRlci5jb20lMkZibG9nJTJGdG9uZS1jaXJjbGUlMkYlN0NDb2x0cmFuZSdzJTIwVG9uZSUyMENpcmNsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA5OTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTQlM0E1OSUzQTQyJTIwJTJCMDAwMA",
+      "title": "Coltrane's Tone Circle",
+      "pubDate": "Wed, 30 Sep 2026 14:59:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnR1YWtkb3Rzb2wlMkZzdGF0dXMlMkYyMTA1MTA1NDE3NzYwMzkxMjU4JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnR1YWtkb3Rzb2wlMkZzdGF0dXMlMkYyMTA1MTA1NDE3NzYwMzkxMjU4JTdDU2luZ2Fwb3JlJTIwZ292dCUyMGRhdGluZyUyMGFwcCUyMHVzZXMlMjBHYWxlLVNoYXBsZXklMjBzdGFibGUlMjBtYXJyaWFnZSUyMGFsZ29yaXRobSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA2NDMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMDklM0EyNyUzQTA0JTIwJTJCMDAwMA",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "pubDate": "Wed, 30 Sep 2026 09:27:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9reW9kZXYuY29tJTJGYXJ0aWNsZXMlMkZkb2luZy1hLW1hY2hpbmUtbGVhcm5pbmctcGhkLXdoaWxlLXdvcmtpbmctaW4tamFwYW4lN0NodHRwcyUzQSUyRiUyRnd3dy50b2t5b2Rldi5jb20lMkZhcnRpY2xlcyUyRmRvaW5nLWEtbWFjaGluZS1sZWFybmluZy1waGQtd2hpbGUtd29ya2luZy1pbi1qYXBhbiU3Q0RvaW5nJTIwYSUyME1hY2hpbmUlMjBMZWFybmluZyUyMFBoRCUyMFdoaWxlJTIwV29ya2luZyUyMGluJTIwSmFwYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkwNTY0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDA3JTNBMzMlM0E0NSUyMCUyQjAwMDA",
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "pubDate": "Wed, 30 Sep 2026 07:33:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
     }
   ]
