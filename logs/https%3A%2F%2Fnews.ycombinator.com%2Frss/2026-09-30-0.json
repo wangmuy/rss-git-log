@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-30",
     "newestItemDate": "2026-09-30",
-    "itemCount": 42,
-    "generatedAt": "2026-10-01T15:30:34.431Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-01T21:05:23.966Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFhbkhpbXNlbGYlMkZPcGVuRExTUy1OUiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1hYW5IaW1zZWxmJTJGT3BlbkRMU1MtTlIlN0NPcGVuRExTUyUzQSUyMEElMjBWdWxrYW4lMjBSZWltcGxlbWVudGF0aW9uJTIwb2YlMjBOdmlkaWEncyUyMERMU1MlMjA1JTIwTmV1cmFsJTIwUmVuZGVyaW5nJTIwTmV0d29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA2MTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMDglM0E0MyUzQTIxJTIwJTJCMDAwMA",
       "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
       "pubDate": "Wed, 30 Sep 2026 08:43:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTExNTAwJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTExNTAwJTdDU2hvdyUyMEhOJTNBJTIwT3Blbi1zb3VyY2UlMjBtb2RlbCUyMHJvdXRpbmclMjBmb3IlMjBjb2RpbmclMjBhZ2VudHMlMjBhdCUyMEFzdHJhLWxldmVsJTIwcGVyZm9ybWFuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxMTUwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDE2JTNBNTglM0EyNCUyMCUyQjAwMDA",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "pubDate": "Wed, 30 Sep 2026 16:58:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
     }
   ]
