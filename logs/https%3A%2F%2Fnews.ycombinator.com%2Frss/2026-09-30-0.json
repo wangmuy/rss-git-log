@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-30",
     "newestItemDate": "2026-09-30",
-    "itemCount": 40,
-    "generatedAt": "2026-10-01T06:07:27.226Z"
+    "itemCount": 42,
+    "generatedAt": "2026-10-01T15:30:34.431Z"
   },
   "items": [
     {
@@ -246,6 +246,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9reW9kZXYuY29tJTJGYXJ0aWNsZXMlMkZkb2luZy1hLW1hY2hpbmUtbGVhcm5pbmctcGhkLXdoaWxlLXdvcmtpbmctaW4tamFwYW4lN0NodHRwcyUzQSUyRiUyRnd3dy50b2t5b2Rldi5jb20lMkZhcnRpY2xlcyUyRmRvaW5nLWEtbWFjaGluZS1sZWFybmluZy1waGQtd2hpbGUtd29ya2luZy1pbi1qYXBhbiU3Q0RvaW5nJTIwYSUyME1hY2hpbmUlMjBMZWFybmluZyUyMFBoRCUyMFdoaWxlJTIwV29ya2luZyUyMGluJTIwSmFwYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkwNTY0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDMwJTIwU2VwJTIwMjAyNiUyMDA3JTNBMzMlM0E0NSUyMCUyQjAwMDA",
       "title": "Doing a Machine Learning PhD While Working in Japan",
       "pubDate": "Wed, 30 Sep 2026 07:33:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tYW5kbWFyaWEuY29tJTJGVG9tJTJGV3JpdGluZyUyRkxvc0FsYW1vc0JldHNPbkVOSUFDLnBkZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRvbWFuZG1hcmlhLmNvbSUyRlRvbSUyRldyaXRpbmclMkZMb3NBbGFtb3NCZXRzT25FTklBQy5wZGYlN0NMb3MlMjBBbGFtb3MlMjBiZXRzJTIwb24lMjBFTklBQyUzQSUyME51Y2xlYXIlMjBNb250ZSUyMENhcmxvJTIwc2ltdWxhdGlvbnMlMkMlMjAxOTQ3JUUyJTgwJTkzMTk0OCUyMCgyMDE0KSUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA5MDA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMTMlM0E1MyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]",
+      "pubDate": "Wed, 30 Sep 2026 13:53:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFhbkhpbXNlbGYlMkZPcGVuRExTUy1OUiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1hYW5IaW1zZWxmJTJGT3BlbkRMU1MtTlIlN0NPcGVuRExTUyUzQSUyMEElMjBWdWxrYW4lMjBSZWltcGxlbWVudGF0aW9uJTIwb2YlMjBOdmlkaWEncyUyMERMU1MlMjA1JTIwTmV1cmFsJTIwUmVuZGVyaW5nJTIwTmV0d29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTA2MTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMzAlMjBTZXAlMjAyMDI2JTIwMDglM0E0MyUzQTIxJTIwJTJCMDAwMA",
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "pubDate": "Wed, 30 Sep 2026 08:43:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-29",
     "newestItemDate": "2026-09-29",
-    "itemCount": 59,
-    "generatedAt": "2026-10-01T06:07:27.226Z"
+    "itemCount": 61,
+    "generatedAt": "2026-10-01T15:30:34.431Z"
   },
   "items": [
     {
@@ -360,6 +360,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGd2h5LXJlYWxseS1jYXVzZWQtdGhlLWJyb256ZS1hZ2UlN0NodHRwcyUzQSUyRiUyRnd3dy53b3Jrc2lucHJvZ3Jlc3MubmV3cyUyRnAlMkZ3aHktcmVhbGx5LWNhdXNlZC10aGUtYnJvbnplLWFnZSU3Q1doeSUyMHRoZSUyMEJyb256ZSUyMEFnZSUyMENvbGxhcHNlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5ODkwNzMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjklMjBTZXAlMjAyMDI2JTIwMTAlM0ExMCUzQTE4JTIwJTJCMDAwMA",
       "title": "Why the Bronze Age Collapsed",
       "pubDate": "Tue, 29 Sep 2026 10:10:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib29rb2ZzaGFwZXMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZib29rb2ZzaGFwZXMuY29tJTJGJTdDQm9vayUyMG9mJTIwU2hhcGVzJTIwJUUyJTgwJTkzJTIwQ29sbGVjdGlvbiUyMG9mJTIwbWluaW1hbCUyQyUyMGdlbmVyYXRpdmUlMjBhbmQlMjBjdXN0b21pemFibGUlMjBTVkctcGF0dGVybnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTg5NDQzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI5JTIwU2VwJTIwMjAyNiUyMDE0JTNBNTYlM0EyMiUyMCUyQjAwMDA",
+      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "pubDate": "Tue, 29 Sep 2026 14:56:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnZlcm8uc2l0ZSUyRnBvc3QlMkZmbG9hdCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy52ZXJvLnNpdGUlMkZwb3N0JTJGZmxvYXQlN0NBZGRpbmclMjBGbG9hdGluZy1Qb2ludCUyMERlY2ltYWxzJTIwZm9yJTIwRnVuJTIwYW5kJTIwUHJvZml0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk4OTM1MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyOSUyMFNlcCUyMDIwMjYlMjAxNCUzQTA1JTNBMTMlMjAlMkIwMDAw",
+      "title": "Adding Floating-Point Decimals for Fun and Profit",
+      "pubDate": "Tue, 29 Sep 2026 14:05:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-29-0.json"
     }
   ]

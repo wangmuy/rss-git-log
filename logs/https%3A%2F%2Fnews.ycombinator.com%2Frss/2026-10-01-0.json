@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-01",
     "newestItemDate": "2026-10-01",
-    "itemCount": 3,
-    "generatedAt": "2026-10-01T06:07:27.226Z"
+    "itemCount": 18,
+    "generatedAt": "2026-10-01T15:30:34.431Z"
   },
   "items": [
     {
@@ -24,6 +24,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVGFudHJpeEF1dG8lMkZ5YW50cmElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZUYW50cml4QXV0byUyRnlhbnRyYSU3Q1Nob3clMjBITiUzQSUyMFlhbnRyYSUyMCVFMiU4MCU5MyUyMGFuJTIwTEFMUigxKSUyMHBhcnNlciUyMGdlbmVyYXRvciUyMGZvciUyMEMlMkIlMkIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxNjk5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDAyJTNBMzAlM0E0OCUyMCUyQjAwMDA",
       "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
       "pubDate": "Thu, 01 Oct 2026 02:30:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuaWQubmV0JTJGd3AtY29udGVudCUyRnVwbG9hZHMlMkYyMDI1JTJGMTAlMkZJZGVudGl0eS1NYW5hZ2VtZW50LWZvci1BZ2VudGljLUFJLnBkZiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmlkLm5ldCUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyNSUyRjEwJTJGSWRlbnRpdHktTWFuYWdlbWVudC1mb3ItQWdlbnRpYy1BSS5wZGYlN0NPcGVuSUQlMjBGb3VuZGF0aW9uJTNBJTIwSWRlbnRpdHklMjBNYW5hZ2VtZW50JTIwZm9yJTIwQWdlbnRpYyUyMEFJJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjI3MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxNSUzQTExJTNBMTAlMjAlMkIwMDAw",
+      "title": "OpenID Foundation: Identity Management for Agentic AI [pdf]",
+      "pubDate": "Thu, 01 Oct 2026 15:11:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRkdheWFuaUZpZ21hJTJGc3RhdHVzJTJGMjEwNTI5NTYyOTk0MTM1MDQ1NCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZHYXlhbmlGaWdtYSUyRnN0YXR1cyUyRjIxMDUyOTU2Mjk5NDEzNTA0NTQlN0NGaWdtYSUyMHJlc3RyaWN0cyUyME1DUCUyMGFjY2VzcyUyMHRvJTIwd2hpdGVsaXN0ZWQlMjBjbGllbnRzJTJDJTIwZXhjbHVkaW5nJTIwUGklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyMjcyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDE1JTNBMTAlM0E0NiUyMCUyQjAwMDA",
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "pubDate": "Thu, 01 Oct 2026 15:10:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9seWVkZXJnYXJ0ZW4uZGUlMkZlX2luZGV4Lmh0bSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBvbHllZGVyZ2FydGVuLmRlJTJGZV9pbmRleC5odG0lN0NQb2x5ZWRlcmdhcnRlbiUzQSUyMEdhcmRlbiUyMG9mJTIwUGFwZXIlMjBQb2x5aGVkcm9uJTIwTW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjI1OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxNSUzQTAyJTNBNTElMjAlMkIwMDAw",
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "pubDate": "Thu, 01 Oct 2026 15:02:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb24ucmFja2V0LWxhbmcub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZjb24ucmFja2V0LWxhbmcub3JnJTJGJTdDUmFja2V0Q29uJTIwSXMlMjBTYXR1cmRheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTIyNTE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTQlM0E1OCUzQTEzJTIwJTJCMDAwMA",
+      "title": "RacketCon Is Saturday",
+      "pubDate": "Thu, 01 Oct 2026 14:58:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZjb3BzLWNhbi1ieXBhc3MtaXBob25lLWF1dG9tYXRpYy1pbmFjdGl2aXR5LXJlYm9vdC1ncmF5a2V5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZjb3BzLWNhbi1ieXBhc3MtaXBob25lLWF1dG9tYXRpYy1pbmFjdGl2aXR5LXJlYm9vdC1ncmF5a2V5JTJGJTdDQ29wcyUyMENhbiUyMEJ5cGFzcyUyMGlQaG9uZSdzJTIwQXV0b21hdGljJTIwUmVib290JTIwdG8lMjBHZXQlMjBpbnRvJTIwTG9ja2VkJTIwUGhvbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjIyNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxNCUzQTM4JTNBMzUlMjAlMkIwMDAw",
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "pubDate": "Thu, 01 Oct 2026 14:38:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYzMCUyRnRlY2hub2xvZ3klMkZtZXRhLWFpLWRhdGEtY2VudGVycy10YXhlcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYzMCUyRnRlY2hub2xvZ3klMkZtZXRhLWFpLWRhdGEtY2VudGVycy10YXhlcy5odG1sJTdDTWV0YSUyMFVzZXMlMjBBLkkuJTIwRGF0YSUyMENlbnRlcnMlMjB0byUyMEF2b2lkJTIwQmlsbGlvbnMlMjBpbiUyMEZlZGVyYWwlMjBUYXhlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTIxMTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTMlM0EwNSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "pubDate": "Thu, 01 Oct 2026 13:05:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRmJjMTc4MzU3LTc5M2ItNDVkOC1hZTNiLWQ1OTI5MTU5YzI0MyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkZiYzE3ODM1Ny03OTNiLTQ1ZDgtYWUzYi1kNTkyOTE1OWMyNDMlN0NBbiUyMEFJJTIwc292ZXJlaWduJTIwd2VhbHRoJTIwZnVuZCUyMGlzbid0JTIwcHJvZ3Jlc3NpdmUlMjAlRTIlODAlOTMlMjBpdCdzJTIwdGVjaG5vLWltcGVyaWFsaXNtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjEwNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxMyUzQTAxJTNBMDIlMjAlMkIwMDAw",
+      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+      "pubDate": "Thu, 01 Oct 2026 13:01:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMDklMkYzMCUyRmZ0Yy1haS1wcm9iZS1vcGVuYWktYW50aHJvcGljLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5jbmJjLmNvbSUyRjIwMjYlMkYwOSUyRjMwJTJGZnRjLWFpLXByb2JlLW9wZW5haS1hbnRocm9waWMuaHRtbCU3Q0ZUQyUyMGlzJTIwaW52ZXN0aWdhdGluZyUyME9wZW5BSSUyQyUyMEFudGhyb3BpYyUyMGFuZCUyMG90aGVyJTIwQUklMjBjb21wYW5pZXMlMjBvdmVyJTIwcHJvZHVjdCUyMHJpc2tzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjEwNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxMyUzQTAwJTNBNTUlMjAlMkIwMDAw",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "pubDate": "Thu, 01 Oct 2026 13:00:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3NuZXdzLmNvbSUyRnN0b3J5JTJGMTQ2MDUyJTJGZ29vZ2xlLWJyZWFrcy1wcm9taXNlLXRvLXByb3ZpZGUtMTAteWVhcnMtb2YtdXBkYXRlcy10by1jaHJvbWVib29rcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9zbmV3cy5jb20lMkZzdG9yeSUyRjE0NjA1MiUyRmdvb2dsZS1icmVha3MtcHJvbWlzZS10by1wcm92aWRlLTEwLXllYXJzLW9mLXVwZGF0ZXMtdG8tY2hyb21lYm9va3MlMkYlN0NHb29nbGUlMjBicmVha3MlMjBwcm9taXNlJTIwdG8lMjBwcm92aWRlJTIwMTAlMjB5ZWFycyUyMG9mJTIwdXBkYXRlcyUyMHRvJTIwQ2hyb21lYm9va3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyMDk5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDEyJTNBNTUlM0EyNyUyMCUyQjAwMDA",
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "pubDate": "Thu, 01 Oct 2026 12:55:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvd2VydXAuY29tJTJGMzUzMjk2JTJGbWljcm9uLWNlby1zYXlzLW1lbW9yeS1zdXBwbHktd2lsbC1iZS1tdWNoLXRpZ2h0ZXItaW4tMjAyNy1hbmQtMjAyOC10aGFuLWluLTIwMjYlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNocG93ZXJ1cC5jb20lMkYzNTMyOTYlMkZtaWNyb24tY2VvLXNheXMtbWVtb3J5LXN1cHBseS13aWxsLWJlLW11Y2gtdGlnaHRlci1pbi0yMDI3LWFuZC0yMDI4LXRoYW4taW4tMjAyNiU3Q01pY3JvbiUyMENFTyUyMFNheXMlMjBNZW1vcnklMjBTdXBwbHklMjBXaWxsJTIwQmUlMjBNdWNoJTIwVGlnaHRlciUyMGluJTIwMjAyNyUyMGFuZCUyMDIwMjglMjBUaGFuJTIwaW4lMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjA5MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxMiUzQTQ4JTNBNTklMjAlMkIwMDAw",
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "pubDate": "Thu, 01 Oct 2026 12:48:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZubmV0aGVyY290ZS5naXRodWIuaW8lMkYyMDI2JTJGMDklMkYzMCUyRmhvdy10by1zcGVlZC11cC10aGUtcnVzdC1jb21waWxlci1pbi1zZXB0ZW1iZXItMjAyNi5odG1sJTdDaHR0cHMlM0ElMkYlMkZubmV0aGVyY290ZS5naXRodWIuaW8lMkYyMDI2JTJGMDklMkYzMCUyRmhvdy10by1zcGVlZC11cC10aGUtcnVzdC1jb21waWxlci1pbi1zZXB0ZW1iZXItMjAyNi5odG1sJTdDSG93JTIwdG8lMjBzcGVlZCUyMHVwJTIwdGhlJTIwUnVzdCUyMGNvbXBpbGVyJTIwaW4lMjBTZXB0ZW1iZXIlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjA4OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxMiUzQTQ0JTNBMzglMjAlMkIwMDAw",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "pubDate": "Thu, 01 Oct 2026 12:44:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYwOSUyRmltbWlncmF0aW9uLWFkdm9jYXRlLXN1ZXMtYm9yZGVyLWFnZW50cy1mb3ItZGVtYW5kaW5nLWhpcy1jZWxsLXBob25lJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYwOSUyRmltbWlncmF0aW9uLWFkdm9jYXRlLXN1ZXMtYm9yZGVyLWFnZW50cy1mb3ItZGVtYW5kaW5nLWhpcy1jZWxsLXBob25lJTJGJTdDUmV0dXJuaW5nJTIwZnJvbSUyMHZhY2F0aW9uJTNGJTIwVGhlJTIwZ292ZXJubWVudCUyMGNhbiUyMHNlYXJjaCUyMHlvdXIlMjBwaG9uZSUyMHdpdGhvdXQlMjBhJTIwd2FycmFudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTIwMjM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTElM0ExMyUzQTU5JTIwJTJCMDAwMA",
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "pubDate": "Thu, 01 Oct 2026 11:13:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3RyZWV0Y29tcGxldGUlMkZTdHJlZXRDb21wbGV0ZSUyRmlzc3VlcyUyRjU0MjElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzdHJlZXRjb21wbGV0ZSUyRlN0cmVldENvbXBsZXRlJTJGaXNzdWVzJTJGNTQyMSU3Q1N0cmVldENvbXBsZXRlJTIwb24lMjBpT1MlMjBpcyUyMG5vdyUyMGluJTIwcHVibGljJTIwYmV0YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTIwMTYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTAlM0E1OSUzQTU3JTIwJTJCMDAwMA",
+      "title": "StreetComplete on iOS is now in public beta",
+      "pubDate": "Thu, 01 Oct 2026 10:59:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnN5bm9wc3lzLmNvbSUyRjIwMjYtMDktMzAtT3BlbkFJLWFuZC1TeW5vcHN5cy1Bbm5vdW5jZS1HUFQtU3lub3BzeXMtRnJvbnRpZXItSW50ZWxsaWdlbmNlLXRvLVJldm9sdXRpb25pemUtQ2hpcC1EZXNpZ24lN0NodHRwcyUzQSUyRiUyRm5ld3Muc3lub3BzeXMuY29tJTJGMjAyNi0wOS0zMC1PcGVuQUktYW5kLVN5bm9wc3lzLUFubm91bmNlLUdQVC1TeW5vcHN5cy1Gcm9udGllci1JbnRlbGxpZ2VuY2UtdG8tUmV2b2x1dGlvbml6ZS1DaGlwLURlc2lnbiU3Q0dQVC1TeW5vcHN5cyUzQSUyMEZyb250aWVyJTIwSW50ZWxsaWdlbmNlJTIwdG8lMjBSZXZvbHV0aW9uaXplJTIwQ2hpcCUyMERlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTE5OTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTAlM0EyMSUzQTM2JTIwJTJCMDAwMA",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "pubDate": "Thu, 01 Oct 2026 10:21:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGdHJ1ZW1ldHJpY3MlMkZqb2JzJTJGVEhMRXpYSS1ndG0tZm91bmRlci1zLWFzc29jaWF0ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnRydWVtZXRyaWNzJTJGam9icyUyRlRITEV6WEktZ3RtLWZvdW5kZXItcy1hc3NvY2lhdGUlN0NUcnVlbWV0cmljcyUyMChZQyUyMFMyMyklMjBJcyUyMEhpcmluZyUyMGElMjBHVE0lMjBGb3VuZGVyJ3MlMjBBc3NvY2lhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxOTY4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDA5JTNBNDglM0ExOCUyMCUyQjAwMDA",
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "pubDate": "Thu, 01 Oct 2026 09:48:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
     }
   ]
