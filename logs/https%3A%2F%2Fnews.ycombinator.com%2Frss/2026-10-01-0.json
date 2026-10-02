@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-01",
     "newestItemDate": "2026-10-01",
-    "itemCount": 36,
-    "generatedAt": "2026-10-01T21:05:23.966Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-02T05:50:33.086Z"
   },
   "items": [
     {
@@ -222,6 +222,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY2xvdWRmbGFyZS1rMi1zdHJlYW1zJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY2xvdWRmbGFyZS1rMi1zdHJlYW1zJTJGJTdDQ2xvdWRmbGFyZSUyMEsyJTNBJTIwc2VydmVybGVzcyUyMGV2ZW50JTIwc3RyZWFtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTIxOTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTQlM0EwOSUzQTEwJTIwJTJCMDAwMA",
       "title": "Cloudflare K2: serverless event streams",
       "pubDate": "Thu, 01 Oct 2026 14:09:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXNzZXguYWMudWslMkZuZXdzJTJGMjAyNiUyRjA5JTJGMzAlMkZidXR0ZXJmbGllcy11c2Utb3B0aWNhbC1pbGx1c2lvbnMtdG8tZG9kZ2UtcHJlZGF0b3JzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZXNzZXguYWMudWslMkZuZXdzJTJGMjAyNiUyRjA5JTJGMzAlMkZidXR0ZXJmbGllcy11c2Utb3B0aWNhbC1pbGx1c2lvbnMtdG8tZG9kZ2UtcHJlZGF0b3JzJTdDQnV0dGVyZmxpZXMlMjB1c2UlMjBvcHRpY2FsJTIwaWxsdXNpb25zJTIwdG8lMjBkb2RnZSUyMHByZWRhdG9ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI4MTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMjMlM0ExNSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Butterflies use optical illusions to dodge predators",
+      "pubDate": "Thu, 01 Oct 2026 23:15:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDk3NDAxJTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDk3NDAxJTJGJTdDU2V2ZXJhbCUyMHZ1bG5lcmFiaWxpdGllcyUyMGhhdmUlMjBiZWVuJTIwZGlzY292ZXJlZCUyMGluJTIwdGhlJTIwTGludXglMjBrZXJuZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyODEyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDIzJTNBMTAlM0E0NCUyMCUyQjAwMDA",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "pubDate": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJvZ2FuZHRvYWQuYWklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5mcm9nYW5kdG9hZC5haSUyRiU3Q0Zyb2clMjBhbmQlMjBUb2FkJTIwYW5kJTIwdGhlJTIwSW5jcmVhc2luZ2x5JTIwQ2FwYWJsZSUyME1hY2hpbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Mjc3NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAyMiUzQTIzJTNBMzglMjAlMkIwMDAw",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "pubDate": "Thu, 01 Oct 2026 22:23:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3NzYmVkLmNvbSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNzc2JlZC5jb20lMkYlN0NDU1MlMjBCZWQlM0ElMjBDbGFzc2xlc3MlMjBDU1MlMjB0aGVtZXMlMjB0byUyMHVzZSUyMGFzJTIwc3RhcnRpbmclMjBwb2ludHMlMjBpbiUyMHdlYiUyMGRldmVsb3BtZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjcyMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAyMSUzQTIxJTNBMzIlMjAlMkIwMDAw",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "pubDate": "Thu, 01 Oct 2026 21:21:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNvYnNjdXJhLnN1YnN0YWNrLmNvbSUyRnAlMkZ1c2luZy1vcHVzLTU1LXRvLWRpc2NvdmVyLWEtbmV3LWV5ZXdpdG5lc3MlN0NodHRwcyUzQSUyRiUyRnJlc29ic2N1cmEuc3Vic3RhY2suY29tJTJGcCUyRnVzaW5nLW9wdXMtNTUtdG8tZGlzY292ZXItYS1uZXctZXlld2l0bmVzcyU3Q1VzaW5nJTIwT3B1cyUyMDUuNSUyMHRvJTIwZGlzY292ZXIlMjBhJTIwbmV3JTIwZXlld2l0bmVzcyUyMHJlY29yZCUyMG9mJTIwdGhlJTIwZG9kbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI2OTE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMjAlM0E0OCUzQTM3JTIwJTJCMDAwMA",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "pubDate": "Thu, 01 Oct 2026 20:48:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdXRvbWF0aWN0cmFuc21pc3Npb24ua2hvdXJ5Lm5vcnRoZWFzdGVybi5lZHUlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZhdXRvbWF0aWN0cmFuc21pc3Npb24ua2hvdXJ5Lm5vcnRoZWFzdGVybi5lZHUlMkZpbmRleC5odG1sJTdDQXV0b21hdGljJTIwVHJhbnNtaXNzaW9uJTIwJUUyJTgwJTkzJTIwYSUyMGRhdGEtcHJpdmFjeSUyMHN0dWR5JTIwb2YlMjBjb25uZWN0ZWQlMjB2ZWhpY2xlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI2NjI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMjAlM0EyMyUzQTI3JTIwJTJCMDAwMA",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "pubDate": "Thu, 01 Oct 2026 20:23:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdmVsdGUuZGV2JTJGYmxvZyUyRnN2ZWx0ZWtpdC0zLWlzLWhlcmUlN0NodHRwcyUzQSUyRiUyRnN2ZWx0ZS5kZXYlMkZibG9nJTJGc3ZlbHRla2l0LTMtaXMtaGVyZSU3Q1N2ZWx0ZUtpdCUyMDMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyNjUzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDIwJTNBMTQlM0EyMyUyMCUyQjAwMDA",
+      "title": "SvelteKit 3",
+      "pubDate": "Thu, 01 Oct 2026 20:14:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ3VwdWJzLm9ubGluZWxpYnJhcnkud2lsZXkuY29tJTJGZG9pJTJGMTAuMTAyOSUyRjIwMjZBVjAwMjU3MCU3Q2h0dHBzJTNBJTJGJTJGYWd1cHVicy5vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbSUyRmRvaSUyRjEwLjEwMjklMkYyMDI2QVYwMDI1NzAlN0NPeHlnZW4tZGVwcml2ZWQlMjB1bmRlcndhdGVyJTIwem9uZXMlMjBtYXklMjBub3QlMjBiZSUyMCVFMiU4MCU5Q2RlYWQlMjB6b25lcyVFMiU4MCU5RCUyMGJ1dCUyMGNsdWUlMjB0byUyMGVhcmx5JTIwbGlmZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI1NzQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTklM0EwMyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "pubDate": "Thu, 01 Oct 2026 19:03:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9wcGVscy5jaCUyRmdvYWxwb3N0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RvcHBlbHMuY2glMkZnb2FscG9zdHMlMkYlN0NWb3RlJTIwb24lMjB3aGljaCUyMG9mJTIwSGFja2VyJTIwTmV3cyclMjBjaGFsbGVuZ2VzJTIwZm9yJTIwQUklMjBoYXZlJTIwYmVlbiUyMG1ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI0NjE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTclM0EzMiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "pubDate": "Thu, 01 Oct 2026 17:32:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdpdGJ1dGxlci5jb20lMkZnaXQtMy1zaGEtMjU2JTdDaHR0cHMlM0ElMkYlMkZibG9nLmdpdGJ1dGxlci5jb20lMkZnaXQtMy1zaGEtMjU2JTdDR2l0JTIwMy4wJ3MlMjB1cGNvbWluZyUyMFNIQS0yNTYlMjBkZWZhdWx0JTIwd2lsbCUyMGJlJTIwYSUyMGNvc3RseSUyMG1pc3Rha2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyNDE3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDE2JTNBNTclM0EwMyUyMCUyQjAwMDA",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "pubDate": "Thu, 01 Oct 2026 16:57:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGY2xlZi1kZWNpc2lvbi1tb2RlbHMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZjbGVmLWRlY2lzaW9uLW1vZGVscyUyRiU3Q0NsZWYlM0ElMjBPcGVuLXdlaWdodCUyMGRlY2lzaW9uJTIwbW9kZWxzJTJDJTIwYW5kJTIwbmV3JTIwUkwlMjBmaW5lLXR1bmluZyUyMHBsYXRmb3JtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjM2OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxNiUzQTE4JTNBNTclMjAlMkIwMDAw",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "pubDate": "Thu, 01 Oct 2026 16:18:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21vbmFkLmNvbSUyRnJlYWRlciUyRjIwMjYlMkZ0dXJiby1oYXNrZWxsJTJGJTdDaHR0cHMlM0ElMkYlMkZjb21vbmFkLmNvbSUyRnJlYWRlciUyRjIwMjYlMkZ0dXJiby1oYXNrZWxsJTJGJTdDVHVyYm8lMjBIYXNrZWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjE3OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxMyUzQTU4JTNBMjUlMjAlMkIwMDAw",
+      "title": "Turbo Haskell",
+      "pubDate": "Thu, 01 Oct 2026 13:58:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZW5hcHJvamVjdC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjEwJTJGMDElMkZ0by1ncmlldmUtb3Itbm90LXRvLWdyaWV2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGeGVuYXByb2plY3Qud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMCUyRjAxJTJGdG8tZ3JpZXZlLW9yLW5vdC10by1ncmlldmUlMkYlN0NUbyUyMGdyaWV2ZSUyQyUyMG9yJTIwbm90JTIwdG8lMjBncmlldmUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxOTY3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDA5JTNBNDclM0E0NiUyMCUyQjAwMDA",
+      "title": "To grieve, or not to grieve?",
+      "pubDate": "Thu, 01 Oct 2026 09:47:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
     }
   ]
