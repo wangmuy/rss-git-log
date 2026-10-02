@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 8,
-    "generatedAt": "2026-10-02T14:47:42.382Z"
+    "itemCount": 31,
+    "generatedAt": "2026-10-02T20:49:05.482Z"
   },
   "items": [
     {
@@ -54,6 +54,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVlcHNlZWsuY29tJTJGZW4lMkZoYXJuZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGVlcHNlZWsuY29tJTJGZW4lMkZoYXJuZXNzJTJGJTdDRGVlcFNlZWslMjBIYXJuZXNzJTIwRGVza3RvcCUyMGZvciUyMG1hY09TJTIwYW5kJTIwV2luZG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI5NDg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMDMlM0ExMSUzQTIwJTIwJTJCMDAwMA",
       "title": "DeepSeek Harness Desktop for macOS and Windows",
       "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50ZWxvYyUyRmxkcmF3LW5vdmElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbnRlbG9jJTJGbGRyYXctbm92YSU3Q1Nob3clMjBITiUzQSUyME1hZGUlMjBhbiUyMG9wZW4tc291cmNlJTIwTGVnbyUyMEFJJTIwZ2VuZXJhdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Mzc5MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAyMCUzQTAwJTNBMTUlMjAlMkIwMDAw",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "pubDate": "Fri, 02 Oct 2026 20:00:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzLmdyYXBoZW5lb3Mub3JnJTJGZCUyRjQyNTExLWdyYXBoZW5lb3MtaGFzLWZpeGVkLXRoZS1tYXNzaXZlLWFuZHJvaWQtMTctcXByMS1rZXJuZWwtcGVyZm9ybWFuY2UtcmVncmVzc2lvbiU3Q2h0dHBzJTNBJTJGJTJGZGlzY3Vzcy5ncmFwaGVuZW9zLm9yZyUyRmQlMkY0MjUxMS1ncmFwaGVuZW9zLWhhcy1maXhlZC10aGUtbWFzc2l2ZS1hbmRyb2lkLTE3LXFwcjEta2VybmVsLXBlcmZvcm1hbmNlLXJlZ3Jlc3Npb24lN0NHcmFwaGVuZU9TJTIwaGFzJTIwZml4ZWQlMjB0aGUlMjBBbmRyb2lkJTIwMTclMjBRUFIxJTIwa2VybmVsJTIwcGVyZm9ybWFuY2UlMjByZWdyZXNzaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Mzc3MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxOSUzQTQ1JTNBMDYlMjAlMkIwMDAw",
+      "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+      "pubDate": "Fri, 02 Oct 2026 19:45:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuYXBwbGUuY29tJTJGbmV3cyUyRiUzRmlkJTNEcDZ6am9qcXclN0NodHRwcyUzQSUyRiUyRmRldmVsb3Blci5hcHBsZS5jb20lMkZuZXdzJTJGJTNGaWQlM0RwNnpqb2pxdyU3Q1VwZGF0ZXMlMjB0byUyMEZ1bGwlMjBEaXNrJTIwQWNjZXNzJTIwaW4lMjBtYWNPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM3NjMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTklM0EzNyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Updates to Full Disk Access in macOS",
+      "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYWRnZXRzLm11c2UuYWklN0NodHRwcyUzQSUyRiUyRmdhZGdldHMubXVzZS5haSUyRiU3Q011c2UlMjBHYWRnZXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Mzc1MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxOSUzQTI2JTNBNTQlMjAlMkIwMDAw",
+      "title": "Muse Gadgets",
+      "pubDate": "Fri, 02 Oct 2026 19:26:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3JlZW5lbmQub3JnLnVrJTJGcmprJTJGbWlzYyUyRm5pcHBsZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ3JlZW5lbmQub3JnLnVrJTJGcmprJTJGbWlzYyUyRm5pcHBsZS5odG1sJTdDJTIyVGhlJTIwb25seSUyMGludHVpdGl2ZSUyMGludGVyZmFjZSUyMGlzJTIwdGhlJTIwbmlwcGxlJTIyJTIwKDIwMTIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzczODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxOSUzQTE4JTNBMTIlMjAlMkIwMDAw",
+      "title": "\"The only intuitive interface is the nipple\" (2012)",
+      "pubDate": "Fri, 02 Oct 2026 19:18:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuYXBwbGUuY29tJTJGcGFzcy1kZXNpZ25lciUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVyLmFwcGxlLmNvbSUyRnBhc3MtZGVzaWduZXIlMkYlN0NBcHBsZSUyMFBhc3MlMjBEZXNpZ25lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM3Mjc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTklM0EwNiUzQTU2JTIwJTJCMDAwMA",
+      "title": "Apple Pass Designer",
+      "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0R4YzJGVEJHUlNKbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEeGMyRlRCR1JTSm8lN0NXaGF0JTIwaWYlMjB3ZSUyMHN0b3BwZWQlMjB1c2luZyUyMEdQVXMlM0YlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM2NjcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTglM0EwOSUzQTM4JTIwJTJCMDAwMA",
+      "title": "What if we stopped using GPUs? [video]",
+      "pubDate": "Fri, 02 Oct 2026 18:09:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkd2FyZnN0YXIuc2glMkYlN0NodHRwcyUzQSUyRiUyRmR3YXJmc3Rhci5zaCUyRiU3Q0Zyb20lMjB0aGUlMjBjcmVhdG9yJTIwb2YlMjBSZWRpcyUzQiUyMHJ1biUyMExMTSUyMGxvY2FsbHklMjB3aXRoJTIwZHM0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzY1NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxOCUzQTAxJTNBMTYlMjAlMkIwMDAw",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlNUUy01MS1GJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlNUUy01MS1GJTdDU1RTLTUxLUYlMjBBYm9ydC10by1PcmJpdCUyMCgxOTg1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM1Nzk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTYlM0E1NiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "STS-51-F Abort-to-Orbit (1985)",
+      "pubDate": "Fri, 02 Oct 2026 16:56:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YWd0YWlsLm9yZyUyRmJsb2clMkZvbmUtbW9udGgtb24tZ2xtLTUzLWZsYXNoJTJGJTdDaHR0cHMlM0ElMkYlMkZ3YWd0YWlsLm9yZyUyRmJsb2clMkZvbmUtbW9udGgtb24tZ2xtLTUzLWZsYXNoJTJGJTdDT25lJTIwbW9udGglMjBjb2RpbmclMjB3aXRoJTIwR0xNJTIwNS4zJTIwRmxhc2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzNDYyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDE1JTNBMjklM0ExNSUyMCUyQjAwMDA",
+      "title": "One month coding with GLM 5.3 Flash",
+      "pubDate": "Fri, 02 Oct 2026 15:29:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXhpbXVtZWZmb3J0LnN1YnN0YWNrLmNvbSUyRnAlMkZqZXYtaXMtcG9vcmx5LWNhbGlicmF0ZWQlN0NodHRwcyUzQSUyRiUyRm1heGltdW1lZmZvcnQuc3Vic3RhY2suY29tJTJGcCUyRmpldi1pcy1wb29ybHktY2FsaWJyYXRlZCU3Q0hvdyUyMGFjY3VyYXRlbHklMjBjYWxpYnJhdGVkJTIwaXMlMjBKZXYlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzNDM5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDE1JTNBMTIlM0E0MSUyMCUyQjAwMDA",
+      "title": "How accurately calibrated is Jev?",
+      "pubDate": "Fri, 02 Oct 2026 15:12:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjEwJTJGYWktZmluYWxseS1iZWF0LXRoZS1iZXN0LXN0cmF0ZWdvLXBsYXllci1pbi1oaXN0b3J5LWFuZC1kaWQtaXQtb24tYS1idWRnZXQlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRnNjaWVuY2UlMkYyMDI2JTJGMTAlMkZhaS1maW5hbGx5LWJlYXQtdGhlLWJlc3Qtc3RyYXRlZ28tcGxheWVyLWluLWhpc3RvcnktYW5kLWRpZC1pdC1vbi1hLWJ1ZGdldCUyRiU3Q1dpdGglMjBtb3N0JTIwaW5mb3JtYXRpb24lMjBoaWRkZW4lMkMlMjB0aGUlMjBnYW1lJTIwU3RyYXRlZ28lMjBoYWQlMjBzdHVtcGVkJTIwQUklMjB1bnRpbCUyMG5vdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMzNzQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTQlM0ExMSUzQTI0JTIwJTJCMDAwMA",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZtYXRoJTJGMTk3My1oYWxtb3MucGRmJTdDaHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZtYXRoJTJGMTk3My1oYWxtb3MucGRmJTdDVGhlJTIwTGVnZW5kJTIwb2YlMjB2b24lMjBOZXVtYW5uJTIwKDE5NzMpJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzMyMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxMyUzQTE4JTNBMzIlMjAlMkIwMDAw",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaWd0aGluay5jb20lMkZib29rcyUyRmEtZmFidWxvdXMtZGVidCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmlndGhpbmsuY29tJTJGYm9va3MlMkZhLWZhYnVsb3VzLWRlYnQlMkYlN0NWZW5pY2UlRTIlODAlOTlzJTIwZmFpbGVkJTIwd2FyJTIwYWdhaW5zdCUyMENvbnN0YW50aW5vcGxlJTIwbGVkJTIwdG8lMjB0aGUlMjBmaXJzdCUyMGJvbmQlMjBtYXJrZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzMzIzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDEzJTNBMTclM0E0NyUyMCUyQjAwMDA",
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "pubDate": "Fri, 02 Oct 2026 13:17:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbmxpbmVvbmx5LmNocmlzdGllcy5jb20lMkZzJTJGZmluZS1wcmludGVkLWJvb2tzLW1hbnVzY3JpcHRzLXNjaWVuY2UlMkZjYXJyaWVyLXBpZ2Vvbi1pbnRlcm5ldC1wcm90b2NvbC0xNTAlMkYzMjUyMTYlN0NodHRwcyUzQSUyRiUyRm9ubGluZW9ubHkuY2hyaXN0aWVzLmNvbSUyRnMlMkZmaW5lLXByaW50ZWQtYm9va3MtbWFudXNjcmlwdHMtc2NpZW5jZSUyRmNhcnJpZXItcGlnZW9uLWludGVybmV0LXByb3RvY29sLTE1MCUyRjMyNTIxNiU3Q1RoZSUyMGZpcnN0JTIwcGFja2V0JTIwc2VudCUyMHZpYSUyMFJGQzExNDklMjBhdmlhbiUyMGNhcnJpZXIlMjBpcyUyMHVwJTIwZm9yJTIwYXVjdGlvbiUyMGF0JTIwQ2hyaXN0aWUncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMyOTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTIlM0E0NiUzQTUwJTIwJTJCMDAwMA",
+      "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+      "pubDate": "Fri, 02 Oct 2026 12:46:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjEwJTJGMDIlMkYxMDAteWVhcnMtb2Ytc3R1ZGVudC1yYWRpby1oaXN0b3J5LWluLXRoZS1kbGFyYy1jb2xsZWdlLXJhZGlvLWNvbGxlY3Rpb25zJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjEwJTJGMDIlMkYxMDAteWVhcnMtb2Ytc3R1ZGVudC1yYWRpby1oaXN0b3J5LWluLXRoZS1kbGFyYy1jb2xsZWdlLXJhZGlvLWNvbGxlY3Rpb25zJTJGJTdDMTAwJTIweWVhcnMlMjBvZiUyMHN0dWRlbnQlMjByYWRpbyUyMGhpc3RvcnklMjBpbiUyMHRoZSUyMERMQVJDJTIwY29sbGVnZSUyMHJhZGlvJTIwY29sbGVjdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzMjY5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDEyJTNBMjMlM0EwOCUyMCUyQjAwMDA",
+      "title": "100 years of student radio history in the DLARC college radio collections",
+      "pubDate": "Fri, 02 Oct 2026 12:23:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGYjVjU1loNGVtUWIycXJHbUslMkZvbi1zb2NpYWwtcmVhbGl0eS1pbi1jaGluYSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmxlc3N3cm9uZy5jb20lMkZwb3N0cyUyRmI1Y1NZaDRlbVFiMnFyR21LJTJGb24tc29jaWFsLXJlYWxpdHktaW4tY2hpbmElN0NPbiUyMHNvY2lhbCUyMHJlYWxpdHklMjBpbiUyMENoaW5hJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzI0MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxMSUzQTQyJTNBMjYlMjAlMkIwMDAw",
+      "title": "On social reality in China",
+      "pubDate": "Fri, 02 Oct 2026 11:42:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZieXphbnRpbmUtc3lzdGVtcy5naXRodWIuaW8lMkZibG9nZ2luZy13aXRoLWdsZWFtLW9yZy1tb2RlLWFuZC1wYW5kb2MlMkYlN0NodHRwcyUzQSUyRiUyRmJ5emFudGluZS1zeXN0ZW1zLmdpdGh1Yi5pbyUyRmJsb2dnaW5nLXdpdGgtZ2xlYW0tb3JnLW1vZGUtYW5kLXBhbmRvYyUyRiU3Q0Jsb2dnaW5nJTIwd2l0aCUyMEdsZWFtJTJDJTIwT3JnLU1vZGUlMjBhbmQlMjBQYW5kb2MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzMjM0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDExJTNBMzQlM0EyOCUyMCUyQjAwMDA",
+      "title": "Blogging with Gleam, Org-Mode and Pandoc",
+      "pubDate": "Fri, 02 Oct 2026 11:34:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1yZXNlYXJjaCUyRnByb2plY3Qtc3VuY2F0Y2hlci1wcm90b3R5cGUlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ29vZ2xlJTJGaW5ub3ZhdGlvbi1hbmQtYWklMkZtb2RlbHMtYW5kLXJlc2VhcmNoJTJGZ29vZ2xlLXJlc2VhcmNoJTJGcHJvamVjdC1zdW5jYXRjaGVyLXByb3RvdHlwZSUyRiU3Q091ciUyMFByb2plY3QlMjBTdW5jYXRjaGVyJTIwcHJvdG90eXBlJTIwc2F0ZWxsaXRlJTIwaXMlMjBpbiUyMG9yYml0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzIxOTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxMSUzQTEzJTNBMDIlMjAlMkIwMDAw",
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "pubDate": "Fri, 02 Oct 2026 11:13:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZic2t5LmFwcCUyRnByb2ZpbGUlMkZ0aGVwbGFuZXRhcnlndXkuY29tJTJGcG9zdCUyRjNtd3VjZjVlcnQyMmYlN0NodHRwcyUzQSUyRiUyRmJza3kuYXBwJTJGcHJvZmlsZSUyRnRoZXBsYW5ldGFyeWd1eS5jb20lMkZwb3N0JTJGM213dWNmNWVydDIyZiU3Q0ElMjAxMi15ZWFyJTIwc2VxdWVuY2UlMjBvZiUyMHRlbGVzY29wZSUyMGltYWdlcyUyMG9mJTIwYSUyMHN0YXIlMjBhbmQlMjBmb3VyJTIwcGxhbmV0cyUyMG9yYml0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzIxNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxMSUzQTA3JTNBMTclMjAlMkIwMDAw",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "pubDate": "Fri, 02 Oct 2026 11:07:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlndXJlLmFpJTJGbmV3cyUyRmYtMDItZGVjb21taXNzaW9uJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZmlndXJlLmFpJTJGbmV3cyUyRmYtMDItZGVjb21taXNzaW9uJTdDRi4wMiUyMERlY29tbWlzc2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMyMDc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTAlM0E1NyUzQTI3JTIwJTJCMDAwMA",
+      "title": "F.02 Decommission",
+      "pubDate": "Fri, 02 Oct 2026 10:57:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0ROblZfY1dlb281USU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNETm5WX2NXZW9vNVElN0NHcmVnJTIwS3JvYWgtSGFydG1hbiUyMCVFMiU4MCU5MyUyMFNlY3VyaXR5JTIwaW4lMjB0aGUlMjBMTE0lMjBBZ2UlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI5MzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMDIlM0E1MSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "pubDate": "Fri, 02 Oct 2026 02:51:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGlsbHdldC5hcnQlMkYlN0NodHRwcyUzQSUyRiUyRnN0aWxsd2V0LmFydCUyRiU3Q1Nob3clMjBITiUzQSUyMEdpdmluZyUyME9wdXMlMjA1LjUlMjBhJTIwc2ltdWxhdGVkJTIwcGFpbnQlMjBjYW52YXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyODU2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDAwJTNBMjclM0E1NiUyMCUyQjAwMDA",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "pubDate": "Fri, 02 Oct 2026 00:27:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }
   ]
