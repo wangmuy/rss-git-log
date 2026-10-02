@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 4,
-    "generatedAt": "2026-10-02T05:50:33.086Z"
+    "itemCount": 8,
+    "generatedAt": "2026-10-02T14:47:42.382Z"
   },
   "items": [
     {
@@ -30,6 +30,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2luZ2Fwb3JlLXNhbWl6ZGF0LmNvbSUyRnAlMkZob3ctc2luZ2Fwb3Jlcy1nb3Zlcm5tZW50LXJ1bi1kYXRpbmctc2VydmljZS1maXJzdGRhdGUtd29ya3MlN0NodHRwcyUzQSUyRiUyRnd3dy5zaW5nYXBvcmUtc2FtaXpkYXQuY29tJTJGcCUyRmhvdy1zaW5nYXBvcmVzLWdvdmVybm1lbnQtcnVuLWRhdGluZy1zZXJ2aWNlLWZpcnN0ZGF0ZS13b3JrcyU3Q0hvdyUyMFNpbmdhcG9yZSdzJTIwZ292ZXJubWVudC1ydW4lMjBkYXRpbmclMjBzZXJ2aWNlJTIwd29ya3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyOTExMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDAxJTNBNTYlM0E1MiUyMCUyQjAwMDA",
       "title": "How Singapore's government-run dating service works",
       "pubDate": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZtYXRoJTJGMTk3My1oYWxtb3MucGRmJTdDaHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZtYXRoJTJGMTk3My1oYWxtb3MucGRmJTdDVGhlJTIwTGVnZW5kJTIwb2YlMjB2b24lMjBOZXVtYW5uJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzMyMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxMyUzQTE4JTNBMzIlMjAlMkIwMDAw",
+      "title": "The Legend of von Neumann [pdf]",
+      "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZpbmZvcm1hdGlvbi10ZWNobm9sb2d5JTJGMjAyNiUyRjEwJTJGbWVtb3J5LXN1cHBsaWVzLWFyZS1vbmx5LWdldHRpbmctdGlnaHRlci1taWNyb24tY2VvLXNheXMlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmluZm9ybWF0aW9uLXRlY2hub2xvZ3klMkYyMDI2JTJGMTAlMkZtZW1vcnktc3VwcGxpZXMtYXJlLW9ubHktZ2V0dGluZy10aWdodGVyLW1pY3Jvbi1jZW8tc2F5cyUyRiU3Q01lbW9yeSUyMGV4ZWN1dGl2ZXMlMjBleHBlY3QlMjBSQU0lMjBzaG9ydGFnZSUyMHRvJTIwY29udGludWUlMjB0aHJvdWdoJTIwMjAyOCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMyNDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTElM0E1OCUzQTMzJTIwJTJCMDAwMA",
+      "title": "Memory executives expect RAM shortage to continue through 2028",
+      "pubDate": "Fri, 02 Oct 2026 11:58:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa3ZvbHRtZXIlMkZBdWRpb25hdXQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZrdm9sdG1lciUyRkF1ZGlvbmF1dCU3Q1Nob3clMjBITiUzQSUyMEF1ZGlvbmF1dCUyMCVFMiU4MCU5MyUyMGFuJTIwb3Blbi1zb3VyY2UlMjBjcm9zcy1wbGF0Zm9ybSUyMG11bHRpdHJhY2slMjBhdWRpbyUyMGVkaXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMxMDMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMDglM0EwNSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "pubDate": "Fri, 02 Oct 2026 08:05:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVlcHNlZWsuY29tJTJGZW4lMkZoYXJuZXNzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGVlcHNlZWsuY29tJTJGZW4lMkZoYXJuZXNzJTJGJTdDRGVlcFNlZWslMjBIYXJuZXNzJTIwRGVza3RvcCUyMGZvciUyMG1hY09TJTIwYW5kJTIwV2luZG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI5NDg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMDMlM0ExMSUzQTIwJTIwJTJCMDAwMA",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }
   ]
