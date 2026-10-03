@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-03",
     "newestItemDate": "2026-10-03",
-    "itemCount": 6,
-    "generatedAt": "2026-10-03T05:27:04.777Z"
+    "itemCount": 13,
+    "generatedAt": "2026-10-03T13:29:39.423Z"
   },
   "items": [
     {
@@ -42,6 +42,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJlYWt0aHJvdWdoam91cm5hbC5vcmclMkZwJTJGdGhpbmdzLXRoYXQtYXBwYXJlbnRseS1jYXVzZS1jYW5jZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5icmVha3Rocm91Z2hqb3VybmFsLm9yZyUyRnAlMkZ0aGluZ3MtdGhhdC1hcHBhcmVudGx5LWNhdXNlLWNhbmNlciU3Q1RoaW5ncyUyMHRoYXQlMjBhcHBhcmVudGx5JTIwY2F1c2UlMjBjYW5jZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0MDIxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDAwJTNBMjMlM0ExMSUyMCUyQjAwMDA",
       "title": "Things that apparently cause cancer",
       "pubDate": "Sat, 03 Oct 2026 00:23:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGZ3JlYXQtcXVlc3Rpb24lMkZqb2JzJTJGYWdFcUJZRC1wcm9kdWN0LWVuZ2luZWVyLWFpLWZ1bGwtc3RhY2slN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZncmVhdC1xdWVzdGlvbiUyRmpvYnMlMkZhZ0VxQllELXByb2R1Y3QtZW5naW5lZXItYWktZnVsbC1zdGFjayU3Q0dyZWF0JTIwUXVlc3Rpb24lMjAoWUMlMjBXMjEpJTIwSXMlMjBIaXJpbmclMjBQcm9kdWN0JTIwRW5naW5lZXJzJTIwaW4lMjBDYW5hZGElMjAoUmVtb3RlKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQzNTI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTIlM0EwMiUzQTEwJTIwJTJCMDAwMA",
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "pubDate": "Sat, 03 Oct 2026 12:02:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWZyaWNhbmlzdHBlcnNwZWN0aXZlLmNvbSUyRnAlMkZvbi10aGUtZXNjYWxhdGlvbi1vZi13YXItaW4tZXRoaW9waWElN0NodHRwcyUzQSUyRiUyRnd3dy5hZnJpY2FuaXN0cGVyc3BlY3RpdmUuY29tJTJGcCUyRm9uLXRoZS1lc2NhbGF0aW9uLW9mLXdhci1pbi1ldGhpb3BpYSU3Q1RoZSUyMEVzY2FsYXRpb24lMjBvZiUyMFdhciUyMGluJTIwRXRoaW9waWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0MzQ1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDExJTNBNTQlM0EyNCUyMCUyQjAwMDA",
+      "title": "The Escalation of War in Ethiopia",
+      "pubDate": "Sat, 03 Oct 2026 11:54:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWouYXMlMkZibG9nJTJGYWxlcGgtYWxwaGEta29saWJyaSU3Q2h0dHBzJTNBJTJGJTJGdGVqLmFzJTJGYmxvZyUyRmFsZXBoLWFscGhhLWtvbGlicmklN0NTaG93JTIwSE4lM0ElMjBHZXJtYW55J3MlMjBuZXclMjBzb3ZlcmVpZ24lMjBBSSUyMG1vZGVsJTIwS29saWJyaSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQzMDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTAlM0E0MyUzQTUxJTIwJTJCMDAwMA",
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "pubDate": "Sat, 03 Oct 2026 10:43:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmNoYW5nZWxvZyUyRjIwMjYtMTAtMDEtbmV3LWRhc2hib2FyZC1leHBlcmllbmNlLW5vdy10aGUtZGVmYXVsdCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmJsb2clMkZjaGFuZ2Vsb2clMkYyMDI2LTEwLTAxLW5ldy1kYXNoYm9hcmQtZXhwZXJpZW5jZS1ub3ctdGhlLWRlZmF1bHQlMkYlN0NHaXRIdWIncyUyMG5ldyUyMGRhc2hib2FyZCUyMGV4cGVyaWVuY2UlMjBub3clMjB0aGUlMjBkZWZhdWx0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDI4MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAwOSUzQTU5JTNBMDElMjAlMkIwMDAw",
+      "title": "GitHub's new dashboard experience now the default",
+      "pubDate": "Sat, 03 Oct 2026 09:59:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGVwaC1hbHBoYS5jb20lMkZlbiUyRmJsb2clMkZrb2xpYnJpLWhhcy1sYW5kZWQtYS1zb3ZlcmVpZ24tb3Blbi13ZWlnaHQtbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRmFsZXBoLWFscGhhLmNvbSUyRmVuJTJGYmxvZyUyRmtvbGlicmktaGFzLWxhbmRlZC1hLXNvdmVyZWlnbi1vcGVuLXdlaWdodC1tb2RlbCUyRiU3Q0tvbGlicmklMjBIYXMlMjBMYW5kZWQlM0ElMjBBJTIwU292ZXJlaWduJTIwT3Blbi1XZWlnaHQlMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQyNzA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMDklM0EzNiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "pubDate": "Sat, 03 Oct 2026 09:36:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvZmZydW4uZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZvZmZydW4uZGV2JTJGJTdDU2hvdyUyMEhOJTNBJTIwT2ZmcnVuJTIwJUUyJTgwJTkzJTIwbWFuYWdlJTIwZXZlcnklMjBjb2RpbmclMjBhZ2VudCUyMGZyb20lMjBvbmUlMjB3b3Jrc3BhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0MjQzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDA4JTNBNDAlM0ExNyUyMCUyQjAwMDA",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "pubDate": "Sat, 03 Oct 2026 08:40:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmthZ2kuY29tJTJGdXBkYXRlLW9yaW9uLWxpbnV4LXdpbmRvd3MlN0NodHRwcyUzQSUyRiUyRmJsb2cua2FnaS5jb20lMkZ1cGRhdGUtb3Jpb24tbGludXgtd2luZG93cyU3Q0FuJTIwVXBkYXRlJTIwb24lMjBPcmlvbiUyMGZvciUyMExpbnV4JTIwYW5kJTIwV2luZG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQxNDQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMDQlM0E1MyUzQTU3JTIwJTJCMDAwMA",
+      "title": "An Update on Orion for Linux and Windows",
+      "pubDate": "Sat, 03 Oct 2026 04:53:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
     }
   ]
