@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 31,
-    "generatedAt": "2026-10-02T20:49:05.482Z"
+    "itemCount": 33,
+    "generatedAt": "2026-10-03T05:27:04.777Z"
   },
   "items": [
     {
@@ -192,6 +192,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdGlsbHdldC5hcnQlMkYlN0NodHRwcyUzQSUyRiUyRnN0aWxsd2V0LmFydCUyRiU3Q1Nob3clMjBITiUzQSUyMEdpdmluZyUyME9wdXMlMjA1LjUlMjBhJTIwc2ltdWxhdGVkJTIwcGFpbnQlMjBjYW52YXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyODU2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDAwJTNBMjclM0E1NiUyMCUyQjAwMDA",
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "pubDate": "Fri, 02 Oct 2026 00:27:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXV0aWwudXMlMkZ0aGVyZXMtYS1uZXctc2VhLXNwaWRlci1pbi10b3duLTEyODU0NzAlN0NodHRwcyUzQSUyRiUyRm5hdXRpbC51cyUyRnRoZXJlcy1hLW5ldy1zZWEtc3BpZGVyLWluLXRvd24tMTI4NTQ3MCU3Q1RoZXJlJ3MlMjBhJTIwbmV3JTIwc2VhJTIwc3BpZGVyJTIwaW4lMjB0b3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzYzOTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxNyUzQTQ4JTNBNTQlMjAlMkIwMDAw",
+      "title": "There's a new sea spider in town",
+      "pubDate": "Fri, 02 Oct 2026 17:48:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5dWthLmRldiUyRmJsb2ctMjAyNi0xMC0wMi1saW51eC1tNC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ5dWthLmRldiUyRmJsb2ctMjAyNi0xMC0wMi1saW51eC1tNC5odG1sJTdDVGhlJTIwRm9yZ2V0ZnVsJTIwQ1BVJTIwKExpbnV4JTIwb24lMjBNNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzMzg2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDE0JTNBMjIlM0ExMiUyMCUyQjAwMDA",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "pubDate": "Fri, 02 Oct 2026 14:22:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }
   ]
