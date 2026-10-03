@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 35,
-    "generatedAt": "2026-10-03T13:29:39.423Z"
+    "itemCount": 39,
+    "generatedAt": "2026-10-03T19:17:35.280Z"
   },
   "items": [
     {
@@ -216,6 +216,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRnNjaWVudGlzdHMtaW52ZW50LXVuZGVyd2F0ZXItdW1icmVsbGFzLXRvLXByb3RlY3QtY29yYWwtcmVlZnMtYW5kLWl0LWFwcGVhcnMtdG8tYmUtd29ya2luZy0yMDAwODE5NDQ0JTdDaHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRnNjaWVudGlzdHMtaW52ZW50LXVuZGVyd2F0ZXItdW1icmVsbGFzLXRvLXByb3RlY3QtY29yYWwtcmVlZnMtYW5kLWl0LWFwcGVhcnMtdG8tYmUtd29ya2luZy0yMDAwODE5NDQ0JTdDU2NpZW50aXN0cyUyMGludmVudCUyMHVuZGVyd2F0ZXIlMjB1bWJyZWxsYXMlMjB0byUyMHByb3RlY3QlMjBjb3JhbCUyMHJlZWZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzE3MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAwOSUzQTU3JTNBMDIlMjAlMkIwMDAw",
       "title": "Scientists invent underwater umbrellas to protect coral reefs",
       "pubDate": "Fri, 02 Oct 2026 09:57:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy5kYXJiaWFuc3Bob3RvZ3JhcGh5LmNvbSUyRndva2luZy1lbGVjdHJpY2FsLWNvbnRyb2wtcm9vbS11cmJleCU3Q2h0dHAlM0ElMkYlMkZ3d3cuZGFyYmlhbnNwaG90b2dyYXBoeS5jb20lMkZ3b2tpbmctZWxlY3RyaWNhbC1jb250cm9sLXJvb20tdXJiZXglN0NXb2tpbmclMjBFbGVjdHJpY2FsJTIwQ29udHJvbCUyMFJvb20lMjAoMjAxNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzODM5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDIwJTNBNDQlM0EzOCUyMCUyQjAwMDA",
+      "title": "Woking Electrical Control Room (2016)",
+      "pubDate": "Fri, 02 Oct 2026 20:44:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaXBvZC5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRnBpcG9kLmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMFBpJTIwcG9kJTIwJUUyJTgwJTkzJTIwUnVuJTIweW91ciUyMHBpJTIwY29kaW5nJTIwYWdlbnQlMjBpbiUyMHNhbmRib3hlcyUyMG9uJTIweW91ciUyMG93biUyMHNlcnZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM3MzA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTklM0ExMCUzQTM4JTIwJTJCMDAwMA",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "pubDate": "Fri, 02 Oct 2026 19:10:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF0by5zdGFuZm9yZC5lZHUlMkZlbnRyaWVzJTJGaG9sZXMlMkYlN0NodHRwcyUzQSUyRiUyRnBsYXRvLnN0YW5mb3JkLmVkdSUyRmVudHJpZXMlMkZob2xlcyUyRiU3Q0hvbGVzJTIwKDE5OTYtMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzNDI2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDE1JTNBMDAlM0EwMyUyMCUyQjAwMDA",
+      "title": "Holes (1996-2025)",
+      "pubDate": "Fri, 02 Oct 2026 15:00:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ2FpbnN0YWxsb2Rkcy5nYW1lcyUyRmJsb2clMkYyMDI2JTJGMTAlMkYwMyUyRm91ci1yaXNjLXYtZW11bGF0b3ItcGFzcmlzY3YlMkYlN0NodHRwcyUzQSUyRiUyRmFnYWluc3RhbGxvZGRzLmdhbWVzJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjAzJTJGb3VyLXJpc2Mtdi1lbXVsYXRvci1wYXNyaXNjdiUyRiU3Q1Nob3clMjBITiUzQSUyME91ciUyMHNwYWNlJTIwZ2FtZSUyMGhhcyUyMGElMjBidWlsdC1pbiUyMFJJU0MtViUyMGVtdWxhdG9yJTIwdGhhdCUyMHJ1bnMlMjBMaW51eCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMxOTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTAlM0E0MCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "pubDate": "Fri, 02 Oct 2026 10:40:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-03",
     "newestItemDate": "2026-10-03",
-    "itemCount": 13,
-    "generatedAt": "2026-10-03T13:29:39.423Z"
+    "itemCount": 23,
+    "generatedAt": "2026-10-03T19:17:35.279Z"
   },
   "items": [
     {
@@ -84,6 +84,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmthZ2kuY29tJTJGdXBkYXRlLW9yaW9uLWxpbnV4LXdpbmRvd3MlN0NodHRwcyUzQSUyRiUyRmJsb2cua2FnaS5jb20lMkZ1cGRhdGUtb3Jpb24tbGludXgtd2luZG93cyU3Q0FuJTIwVXBkYXRlJTIwb24lMjBPcmlvbiUyMGZvciUyMExpbnV4JTIwYW5kJTIwV2luZG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQxNDQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMDQlM0E1MyUzQTU3JTIwJTJCMDAwMA",
       "title": "An Update on Orion for Linux and Windows",
       "pubDate": "Sat, 03 Oct 2026 04:53:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtYnJpZGdlLm9yZyUyRmNvcmUlMkZzZXJ2aWNlcyUyRmFvcC1jYW1icmlkZ2UtY29yZSUyRmNvbnRlbnQlMkZ2aWV3JTJGMzBDQzQ4MjY1NjEzNjY2MTVCRkFFQzgwN0NERTI4QTclMkZTMDAwNzEyNTAyNjEwODA0NmEucGRmJTJGYWRoZC1hdXRpc20tb3ItY29tcGxleC10cmF1bWEtdGhlLWNvbXBsaWNhdGVkLW5hdHVyZS1vZi10aGUtcXVlc3Rpb24ucGRmJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FtYnJpZGdlLm9yZyUyRmNvcmUlMkZzZXJ2aWNlcyUyRmFvcC1jYW1icmlkZ2UtY29yZSUyRmNvbnRlbnQlMkZ2aWV3JTJGMzBDQzQ4MjY1NjEzNjY2MTVCRkFFQzgwN0NERTI4QTclMkZTMDAwNzEyNTAyNjEwODA0NmEucGRmJTJGYWRoZC1hdXRpc20tb3ItY29tcGxleC10cmF1bWEtdGhlLWNvbXBsaWNhdGVkLW5hdHVyZS1vZi10aGUtcXVlc3Rpb24ucGRmJTdDQURIRCUyQyUyMGF1dGlzbSUyMG9yJTIwY29tcGxleCUyMHRyYXVtYSUzRiUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ2NDAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTglM0EwOCUzQTI4JTIwJTJCMDAwMA",
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "pubDate": "Sat, 03 Oct 2026 18:08:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3RvcmlvdXNiZmcuY29tJTJGaG9sZS1wdW5jaCUyRiU3Q2h0dHBzJTNBJTJGJTJGbm90b3Jpb3VzYmZnLmNvbSUyRmhvbGUtcHVuY2glMkYlN0NIb2xlJTIwUHVuY2glM0ElMjBTbGluZyUyMHlvdXIlMjBzcGFjZXNoaXAlMjBhcm91bmQlMjBncmF2aXRhdGlvbmFsJTIwZmllbGRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDYzOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxOCUzQTA2JTNBNDUlMjAlMkIwMDAw",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "pubDate": "Sat, 03 Oct 2026 18:06:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVvd2luLm5ldCUyRm5ld3MlMkZzeXN0ZW03Ni1iYW5zLWFpLWdlbmVyYXRlZC1jb2RlLWFjcm9zcy1tYW55LW9mLWl0cy1jb3NtaWMtY29kZWJhc2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmVvd2luLm5ldCUyRm5ld3MlMkZzeXN0ZW03Ni1iYW5zLWFpLWdlbmVyYXRlZC1jb2RlLWFjcm9zcy1tYW55LW9mLWl0cy1jb3NtaWMtY29kZWJhc2VzJTJGJTdDUG9wIV9PUyUyMGJhbnMlMjBBSS1nZW5lcmF0ZWQlMjBjb2RlJTIwZnJvbSUyMG11Y2glMjBvZiUyMGl0cyUyMGNvZGViYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDYzMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNyUzQTU3JTNBMDMlMjAlMkIwMDAw",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "pubDate": "Sat, 03 Oct 2026 17:57:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2eGxhbmcub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZ2eGxhbmcub3JnJTJGJTdDVnglMjAlRTIlODAlOTMlMjBPbmUlMjBMYW5ndWFnZSUyQyUyMEV2ZXJ5JTIwQ2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ2MDc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTclM0EyMyUzQTIwJTIwJTJCMDAwMA",
+      "title": "Vx – One Language, Every Chip",
+      "pubDate": "Sat, 03 Oct 2026 17:23:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGVwaC1hbHBoYS5jb20lMkZkb3dubG9hZHMlMkZ0ZWNoLXJlcG9ydC5wZGYlN0NodHRwcyUzQSUyRiUyRmFsZXBoLWFscGhhLmNvbSUyRmRvd25sb2FkcyUyRnRlY2gtcmVwb3J0LnBkZiU3Q0tvbGlicmklMjAlRTIlODAlOTMlMjBUZWNoJTIwUmVwb3J0JTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDYwNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNyUzQTIyJTNBNDglMjAlMkIwMDAw",
+      "title": "Kolibri – Tech Report [pdf]",
+      "pubDate": "Sat, 03 Oct 2026 17:22:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGcmV0YWlscmVhZHklMkZqb2JzJTJGYkZjZ0llNC1pbXBsZW1lbnRhdGlvbnMlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZyZXRhaWxyZWFkeSUyRmpvYnMlMkZiRmNnSWU0LWltcGxlbWVudGF0aW9ucyU3Q1JldGFpbFJlYWR5JTIwKFlDJTIwVzI0KSUyMElzJTIwSGlyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDU5MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNyUzQTAwJTNBMTIlMjAlMkIwMDAw",
+      "title": "RetailReady (YC W24) Is Hiring",
+      "pubDate": "Sat, 03 Oct 2026 17:00:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmFkaWNhbC1lbGVtZW50cy5jb20lMkZtaW5vci1lcGlwaGFuaWVzJTJGY2l0eS1idWlsZGluZy1nYW1lcy1oYXZlLWEtc291bC1wcm9ibGVtLXB0MiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJhZGljYWwtZWxlbWVudHMuY29tJTJGbWlub3ItZXBpcGhhbmllcyUyRmNpdHktYnVpbGRpbmctZ2FtZXMtaGF2ZS1hLXNvdWwtcHJvYmxlbS1wdDIlN0NDaXR5JTIwYnVpbGRpbmclMjBnYW1lcyUyMGhhdmUlMjBhJTIwU291bCUyMFByb2JsZW0lMjBwdC4yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDUzMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNSUzQTUyJTNBMDclMjAlMkIwMDAw",
+      "title": "City building games have a Soul Problem pt.2",
+      "pubDate": "Sat, 03 Oct 2026 15:52:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdGwtb3Mub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZmdGwtb3Mub3JnJTJGJTdDRlRMJTNBJTIwQSUyMG5ldyUyMG9wZXJhdGluZyUyMHN5c3RlbSUyMGZvciUyMGNsb3VkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ0OTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTUlM0EwMiUzQTM2JTIwJTJCMDAwMA",
+      "title": "FTL: A new operating system for clouds",
+      "pubDate": "Sat, 03 Oct 2026 15:02:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGVwaC1hbHBoYS5jb20lMkZlbiUyRmJsb2clMkZrb2xpYnJpLWhhcy1sYW5kZWQtYS1zb3ZlcmVpZ24tb3Blbi13ZWlnaHQtbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRmFsZXBoLWFscGhhLmNvbSUyRmVuJTJGYmxvZyUyRmtvbGlicmktaGFzLWxhbmRlZC1hLXNvdmVyZWlnbi1vcGVuLXdlaWdodC1tb2RlbCUyRiU3Q0tvbGlicmklM0ElMjBBJTIwU292ZXJlaWduJTIwT3Blbi1XZWlnaHQlMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQyNzA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMDklM0EzNiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "pubDate": "Sat, 03 Oct 2026 09:36:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YXJjaGl2ZS5uZXQlMkZibG9nJTJGcGxhc3RpY3MlMkYlN0NodHRwcyUzQSUyRiUyRnlhcmNoaXZlLm5ldCUyRmJsb2clMkZwbGFzdGljcyUyRiU3Q1RoZSUyMGNoYXJhY3RlcnMlMjBvZiUyMHBsYXN0aWNzJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDE3NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAwNiUzQTE0JTNBMTYlMjAlMkIwMDAw",
+      "title": "The characters of plastics (2024)",
+      "pubDate": "Sat, 03 Oct 2026 06:14:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
     }
   ]

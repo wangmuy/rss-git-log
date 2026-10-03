@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-01",
     "newestItemDate": "2026-10-01",
-    "itemCount": 58,
-    "generatedAt": "2026-10-03T13:29:39.423Z"
+    "itemCount": 60,
+    "generatedAt": "2026-10-03T19:17:35.280Z"
   },
   "items": [
     {
@@ -354,6 +354,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5kcmVhc2ZlcnRpZyUyRmNwcGluc2lnaHRzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5kcmVhc2ZlcnRpZyUyRmNwcGluc2lnaHRzJTdDQyUyQiUyQiUyMEluc2lnaHRzJTIwJUUyJTgwJTkzJTIwU2VlJTIweW91ciUyMHNvdXJjZSUyMGNvZGUlMjB3aXRoJTIwdGhlJTIwZXllcyUyMG9mJTIwYSUyMENvbXBpbGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjgzNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAyMyUzQTUzJTNBMzYlMjAlMkIwMDAw",
       "title": "C++ Insights – See your source code with the eyes of a Compiler",
       "pubDate": "Thu, 01 Oct 2026 23:53:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2hlYy5jb20lMkZ0b3AtbmV3cyUyRndlYnN0ZXItbWFuLWNlbGVicmF0aW5nLXRoZS0xMDB0aC1iaXJ0aGRheS1vZi10aGUta2lkbmV5LWhpcy1tb20tZG9uYXRlZC10by1oaW0tYXMtYS10ZWVuYWdlciUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndoZWMuY29tJTJGdG9wLW5ld3MlMkZ3ZWJzdGVyLW1hbi1jZWxlYnJhdGluZy10aGUtMTAwdGgtYmlydGhkYXktb2YtdGhlLWtpZG5leS1oaXMtbW9tLWRvbmF0ZWQtdG8taGltLWFzLWEtdGVlbmFnZXIlMkYlN0NDZWxlYnJhdGluZyUyMHRoZSUyMDEwMHRoJTIwYmlydGhkYXklMjBvZiUyMHRoZSUyMGtpZG5leSUyMGRvbmF0ZWQlMjB0byUyMGhpbSUyMGFzJTIwYSUyMHRlZW5hZ2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MjM4NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAxNiUzQTMyJTNBNDAlMjAlMkIwMDAw",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "pubDate": "Thu, 01 Oct 2026 16:32:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkNS5uZXQlMkZibG9nJTJGbXBlZy0yLXRyYW5zcG9ydC1zdHJlYW1zLWFuZC1tb3EteWVzLW1wZWctdHMtaXMtc3RpbGwtcmVsZXZhbnQtdG9kYXklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWQ1Lm5ldCUyRmJsb2clMkZtcGVnLTItdHJhbnNwb3J0LXN0cmVhbXMtYW5kLW1vcS15ZXMtbXBlZy10cy1pcy1zdGlsbC1yZWxldmFudC10b2RheSUyRiU3Q01QRUctMiUyMFRyYW5zcG9ydCUyMFN0cmVhbXMlMjBhbmQlMjBNT1ElM0ElMjBZZXMlMkMlMjBNUEVHLVRTJTIwSXMlMjBTdGlsbCUyMFJlbGV2YW50JTIwVG9kYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkyMzYwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDE2JTNBMTElM0EzMSUyMCUyQjAwMDA",
+      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
+      "pubDate": "Thu, 01 Oct 2026 16:11:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
     }
   ]
