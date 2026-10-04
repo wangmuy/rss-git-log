@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-09-30",
     "newestItemDate": "2026-09-30",
-    "itemCount": 48,
-    "generatedAt": "2026-10-04T06:02:14.444Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-04T19:42:23.871Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwaG90b25pLnN0JTJGaW5kZXgucGhwJTJGMjAyNiUyRjA5JTJGMjUlMkZ5b3VyLWJvZHktb2Ytd29yay10aGlua3MtYmFjay1hdC15b3UlMkYlN0NodHRwcyUzQSUyRiUyRnBob3Rvbmkuc3QlMkZpbmRleC5waHAlMkYyMDI2JTJGMDklMkYyNSUyRnlvdXItYm9keS1vZi13b3JrLXRoaW5rcy1iYWNrLWF0LXlvdSUyRiU3Q1lvdXIlMjBib2R5JTIwb2YlMjB3b3JrJTIwdGhpbmtzJTIwYmFjayUyMGF0JTIweW91JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MDg1NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxMyUzQTIwJTNBMDMlMjAlMkIwMDAw",
       "title": "Your body of work thinks back at you",
       "pubDate": "Wed, 30 Sep 2026 13:20:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3ZxLmRlJTJGYmxvZyUyRnBvc3RpbmdzJTJGMjAyNi0wOS0zMCUyRjAlMkZQT1NUSU5HLWVuLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1vdnEuZGUlMkZibG9nJTJGcG9zdGluZ3MlMkYyMDI2LTA5LTMwJTJGMCUyRlBPU1RJTkctZW4uaHRtbCU3Q2NwJTNBJTIwLXIlMjBvciUyMC1SJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTA0NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAzMCUyMFNlcCUyMDIwMjYlMjAxNSUzQTQ0JTNBMDIlMjAlMkIwMDAw",
+      "title": "cp: -r or -R?",
+      "pubDate": "Wed, 30 Sep 2026 15:44:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-09-30-0.json"
     }
   ]

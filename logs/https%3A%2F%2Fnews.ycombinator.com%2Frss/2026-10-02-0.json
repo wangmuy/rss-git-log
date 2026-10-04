@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 45,
-    "generatedAt": "2026-10-04T14:08:30.932Z"
+    "itemCount": 51,
+    "generatedAt": "2026-10-04T19:42:23.870Z"
   },
   "items": [
     {
@@ -275,6 +275,42 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDaHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDR2xhc2glQzMlQkN0dGUlMjBUcmFzaCUyMENsb2NrJTIwJUUyJTgwJTkzJTIwQSUyMDMwLW1pbnV0ZSUyMHBlbmR1bHVtJTIwY2xvY2slMjBtYWRlJTIwZnJvbSUyMHRyYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzA0MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAwNiUzQTMzJTNBMDYlMjAlMkIwMDAw",
       "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "pubDate": "Fri, 02 Oct 2026 06:33:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJpb3QuY2glMkZjb21wdXRhdGlvbiUyRnRlcm1pbmZvJTJGJTdDaHR0cHMlM0ElMkYlMkZzZXJpb3QuY2glMkZjb21wdXRhdGlvbiUyRnRlcm1pbmZvJTJGJTdDQSUyME1pbnNreSUyMG1hY2hpbmUlMjBpbiUyMG5jdXJzZXMlMjB0ZXJtaW5mbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM1MjUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTYlM0ExNyUzQTA5JTIwJTJCMDAwMA",
+      "title": "A Minsky machine in ncurses terminfo",
+      "pubDate": "Fri, 02 Oct 2026 16:17:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3NodWEuaHUlMkZtYWdpYy1zd2l0Y2gtZWFzaWx5LXN3aXRjaC1tYWdpYy1rZXlib2FyZC10cmFja3BhZC1tb3VzZS1iZXR3ZWVuLW1hYy1tYWNib29rLW1hY29zJTdDaHR0cHMlM0ElMkYlMkZqb3NodWEuaHUlMkZtYWdpYy1zd2l0Y2gtZWFzaWx5LXN3aXRjaC1tYWdpYy1rZXlib2FyZC10cmFja3BhZC1tb3VzZS1iZXR3ZWVuLW1hYy1tYWNib29rLW1hY29zJTdDTWFnaWMlMjBTd2l0Y2glM0ElMjBTaGFyZSUyMEFwcGxlJTIwTWFnaWMlMjBrZXlib2FyZCUyRnRyYWNrLXBhZCUyRm1vdXNlJTIwYmV0d2VlbiUyMHR3byUyME1hY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzNTAzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDE2JTNBMDElM0EzMCUyMCUyQjAwMDA",
+      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "pubDate": "Fri, 02 Oct 2026 16:01:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGYXNpYy1wdXp6bGUtcmVzdWx0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qYW5lc3RyZWV0LmNvbSUyRmFzaWMtcHV6emxlLXJlc3VsdHMlMkYlN0NSZXN1bHRzJTIwZnJvbSUyMHRoZSUyMEphbmUlMjBTdHJlZXQlMjBoYXJkd2FyZSUyMHB1enpsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM0MDc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTQlM0E0MiUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Results from the Jane Street hardware puzzle",
+      "pubDate": "Fri, 02 Oct 2026 14:42:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXBwZWQuZWFydGglMkZsaWdodGhvdXNlcyUyRndvcmxkJTdDaHR0cHMlM0ElMkYlMkZtYXBwZWQuZWFydGglMkZsaWdodGhvdXNlcyUyRndvcmxkJTdDQSUyMG1hcCUyMG9mJTIwZXZlcnklMjBsaWdodGhvdXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzM0NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAxMyUzQTQ1JTNBNDklMjAlMkIwMDAw",
+      "title": "A map of every lighthouse",
+      "pubDate": "Fri, 02 Oct 2026 13:45:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsb3Zlci5jb20lMkYyMDI2JTJGMDklMkYyNSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5wbG92ZXIuY29tJTJGMjAyNiUyRjA5JTJGMjUlMkYlN0NMLXN5c3RlbXMlMjBnZW5lcmF0ZSUyMHdlZXZpbHMlMkMlMjBwaXp6YSUyMHRvcHBpbmdzJTJDJTIwYW5kJTIwbWF0cmlhcmNoYWwlMjBsaW5lYWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMzMDY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTMlM0EwMCUzQTA0JTIwJTJCMDAwMA",
+      "title": "L-systems generate weevils, pizza toppings, and matriarchal lineages",
+      "pubDate": "Fri, 02 Oct 2026 13:00:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDaHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDU2hvdyUyMEhOJTNBJTIwR2xhc2glQzMlQkN0dGUlMjBUcmFzaCUyMENsb2NrJTIwJUUyJTgwJTkzJTIwQSUyMDMwLW1pbnV0ZSUyMHBlbmR1bHVtJTIwY2xvY2slMjBtYWRlJTIwZnJvbSUyMHRyYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzA0MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAwNiUzQTMzJTNBMDYlMjAlMkIwMDAw",
+      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
       "pubDate": "Fri, 02 Oct 2026 06:33:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }

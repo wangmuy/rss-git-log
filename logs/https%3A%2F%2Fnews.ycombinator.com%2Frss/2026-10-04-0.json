@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-04",
     "newestItemDate": "2026-10-04",
-    "itemCount": 11,
-    "generatedAt": "2026-10-04T14:08:30.932Z"
+    "itemCount": 16,
+    "generatedAt": "2026-10-04T19:42:23.870Z"
   },
   "items": [
     {
@@ -72,6 +72,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyOSUyRnVzJTJGYW50aHJvcGljLWNsYXVkZS1tb3JhbHMtYWkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjA5JTJGMjklMkZ1cyUyRmFudGhyb3BpYy1jbGF1ZGUtbW9yYWxzLWFpLmh0bWwlN0NSZWxpZ2lvdXMlMjBzY2hvbGFycyUyMG1ldCUyMHdpdGglMjBBbnRocm9waWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1MDA1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDAyJTNBMzQlM0EyMiUyMCUyQjAwMDA",
       "title": "Religious scholars met with Anthropic",
       "pubDate": "Sun, 04 Oct 2026 02:34:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmpldGJyYWlucy5jb20lMkZhaSUyRjIwMjYlMkYwOSUyRmJ1aWxkaW5nLWEtcmFnLXBpcGVsaW5lLWZvci1zZW1hbnRpYy1jb2RlLXNlYXJjaC1hLWRldmVsb3Blci1kaWFyeS1hbmQtZmllbGQtbm90ZXMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuamV0YnJhaW5zLmNvbSUyRmFpJTJGMjAyNiUyRjA5JTJGYnVpbGRpbmctYS1yYWctcGlwZWxpbmUtZm9yLXNlbWFudGljLWNvZGUtc2VhcmNoLWEtZGV2ZWxvcGVyLWRpYXJ5LWFuZC1maWVsZC1ub3RlcyUyRiU3Q0J1aWxkaW5nJTIwYSUyMFJBRyUyMHBpcGVsaW5lJTIwZm9yJTIwc2VtYW50aWMlMjBjb2RlJTIwc2VhcmNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTYxNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAxNyUzQTUxJTNBNDglMjAlMkIwMDAw",
+      "title": "Building a RAG pipeline for semantic code search",
+      "pubDate": "Sun, 04 Oct 2026 17:51:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkJsaW5kc2lnaHRfKFdhdHRzX25vdmVsKSU3Q2h0dHBzJTNBJTJGJTJGZW4ud2lraXBlZGlhLm9yZyUyRndpa2klMkZCbGluZHNpZ2h0XyhXYXR0c19ub3ZlbCklN0NCbGluZHNpZ2h0JTIwKFdhdHRzJTIwTm92ZWwpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTUyOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAxNiUzQTI1JTNBMTclMjAlMkIwMDAw",
+      "title": "Blindsight (Watts Novel)",
+      "pubDate": "Sun, 04 Oct 2026 16:25:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYzMCUyRnRlY2hub2xvZ3klMkZ3aWxsaWFtLWRyYXBlci1kZWFkLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYwOSUyRjMwJTJGdGVjaG5vbG9neSUyRndpbGxpYW0tZHJhcGVyLWRlYWQuaHRtbCU3Q0JpbGwlMjBEcmFwZXIlMjBoYXMlMjBkaWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTMyODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAxMiUzQTIxJTNBMzUlMjAlMkIwMDAw",
+      "title": "Bill Draper has died",
+      "pubDate": "Sun, 04 Oct 2026 12:21:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RHTHZGVE10dzRKayU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNER0x2RlRNdHc0SmslN0NIb3clMjB0byUyMHNjYWxlJTIwaW50ZW50JTJDJTIwcXVhbGl0eSUyQyUyMGFuZCUyMGFydGlzdHJ5JTIwd2l0aCUyMEFJJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1MTg5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDA4JTNBNDElM0E1OCUyMCUyQjAwMDA",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "pubDate": "Sun, 04 Oct 2026 08:41:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20lMkYyMDI2JTJGMDklMkZ3aGF0cy10aGUtZnV0dXJlLWZvci1wdXJlLW1hdGgtcmVzZWFyY2gtaW4tdGhlLWFnZS1vZi1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3JpdGluZ3Muc3RlcGhlbndvbGZyYW0uY29tJTJGMjAyNiUyRjA5JTJGd2hhdHMtdGhlLWZ1dHVyZS1mb3ItcHVyZS1tYXRoLXJlc2VhcmNoLWluLXRoZS1hZ2Utb2YtYWklMkYlN0NXaGF0J3MlMjB0aGUlMjBmdXR1cmUlMjBmb3IlMjBwdXJlJTIwbWF0aCUyMHJlc2VhcmNoJTIwaW4lMjB0aGUlMjBhZ2UlMjBvZiUyMEFJJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTE2NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAwNyUzQTUzJTNBNDUlMjAlMkIwMDAw",
+      "title": "What's the future for pure math research in the age of AI?",
+      "pubDate": "Sun, 04 Oct 2026 07:53:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
     }
   ]
