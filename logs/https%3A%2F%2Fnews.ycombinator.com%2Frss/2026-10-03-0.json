@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-03",
     "newestItemDate": "2026-10-03",
-    "itemCount": 23,
-    "generatedAt": "2026-10-03T19:17:35.279Z"
+    "itemCount": 37,
+    "generatedAt": "2026-10-04T06:02:14.443Z"
   },
   "items": [
     {
@@ -144,6 +144,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ5YXJjaGl2ZS5uZXQlMkZibG9nJTJGcGxhc3RpY3MlMkYlN0NodHRwcyUzQSUyRiUyRnlhcmNoaXZlLm5ldCUyRmJsb2clMkZwbGFzdGljcyUyRiU3Q1RoZSUyMGNoYXJhY3RlcnMlMjBvZiUyMHBsYXN0aWNzJTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDE3NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAwNiUzQTE0JTNBMTYlMjAlMkIwMDAw",
       "title": "The characters of plastics (2024)",
       "pubDate": "Sat, 03 Oct 2026 06:14:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYxMCUyRjAzJTJGZmVkZXJhbC1qdWRnZS1jYWxscy1mbG9jay1pbmRpc2NyaW1pbmF0ZS1tYXNzLXN1cnZlaWxsYW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGNydW5jaC5jb20lMkYyMDI2JTJGMTAlMkYwMyUyRmZlZGVyYWwtanVkZ2UtY2FsbHMtZmxvY2staW5kaXNjcmltaW5hdGUtbWFzcy1zdXJ2ZWlsbGFuY2UlMkYlN0NGZWRlcmFsJTIwanVkZ2UlMjBjYWxscyUyMEZsb2NrJTIwJ2luZGlzY3JpbWluYXRlJTIwbWFzcyUyMHN1cnZlaWxsYW5jZSclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0ODI1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDIyJTNBMDclM0ExMyUyMCUyQjAwMDA",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "pubDate": "Sat, 03 Oct 2026 22:07:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW4uc3RvbG92aXR6LmNvbSUyRnBvc3RzJTJGcmVhc29ucy1ub3QtZW10LXJhbmtlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmVuLnN0b2xvdml0ei5jb20lMkZwb3N0cyUyRnJlYXNvbnMtbm90LWVtdC1yYW5rZWQlMkYlN0NSZWFzb25zJTIwSSUyMGRpZG4ndCUyMGJlY29tZSUyMGFuJTIwRU1UJTJDJTIwcmFua2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDc2MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAyMCUzQTQ5JTNBMTUlMjAlMkIwMDAw",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "pubDate": "Sat, 03 Oct 2026 20:49:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzamcuaW8lMkZ3cml0aW5nJTJGYmlucmFuZ2UtaGF2ZS15b3UtYWN0dWFsbHktcHV0LXRoZS1iaW5zLW91dCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2pnLmlvJTJGd3JpdGluZyUyRmJpbnJhbmdlLWhhdmUteW91LWFjdHVhbGx5LXB1dC10aGUtYmlucy1vdXQlMkYlN0NTdXJlbHklMjB5b3UlMjBoYXZlJTIwdWx0cmEtd2lkZWJhbmQlMjByYWRpb3MlMjBvbiUyMHlvdXIlMjBiaW5zJTIwdG9vJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDc0NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAyMCUzQTI3JTNBNDQlMjAlMkIwMDAw",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "pubDate": "Sat, 03 Oct 2026 20:27:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRlhEQy0yMDI2LVZhbHZlLVRpbXVyLUFNREdQVSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBob3Jvbml4LmNvbSUyRm5ld3MlMkZYREMtMjAyNi1WYWx2ZS1UaW11ci1BTURHUFUlN0NUaGUlMjB3b3JrJTIwYnklMjBWYWx2ZSdzJTIwVGltdXIlMjBLcmlzdCVDMyVCM2YlMjBvbiUyMGltcHJvdmluZyUyMG9sZCUyMEFNRCUyMEdQVXMlMjBvbiUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDY4OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxOSUzQTE0JTNBNDglMjAlMkIwMDAw",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "pubDate": "Sat, 03 Oct 2026 19:14:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXZpbmNveC5jYSUyRjIwMjIlMkYwNSUyRjA2JTJGcnNzLWZlZWQtYmVzdC1wcmFjdGljZXMlMkYlN0NodHRwcyUzQSUyRiUyRmtldmluY294LmNhJTJGMjAyMiUyRjA1JTJGMDYlMkZyc3MtZmVlZC1iZXN0LXByYWN0aWNlcyUyRiU3Q1JTUyUyMEZlZWQlMjBCZXN0JTIwUHJhY3RpY2VzJTIwKDIwMjIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDY4NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxOSUzQTA5JTNBMjUlMjAlMkIwMDAw",
+      "title": "RSS Feed Best Practices (2022)",
+      "pubDate": "Sat, 03 Oct 2026 19:09:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3Ntb3dlbm1hbi5zdWJzdGFjay5jb20lMkZwJTJGcm9kaW4tbXVzZXVtLTNkLXNjYW4tdmVyZGljdCU3Q2h0dHBzJTNBJTJGJTJGY29zbW93ZW5tYW4uc3Vic3RhY2suY29tJTJGcCUyRnJvZGluLW11c2V1bS0zZC1zY2FuLXZlcmRpY3QlN0NUcmVhY2hlcnklMjBpbiUyMHRoZSUyMFJvZGluJTIwTXVzZXVtJTIwM0QlMjBzY2FuJTIwdmVyZGljdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ2MzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTglM0EwMSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "pubDate": "Sat, 03 Oct 2026 18:01:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaWFvLmdnJTJGYmxvZyUyRmFnZW50cy1kb250LW5lZWQtbWVtb3J5JTdDaHR0cHMlM0ElMkYlMkZsaWFvLmdnJTJGYmxvZyUyRmFnZW50cy1kb250LW5lZWQtbWVtb3J5JTdDQWdlbnRzJTIwZG9uJ3QlMjBuZWVkJTIwbWVtb3J5JTJDJTIwdGhleSUyMG5lZWQlMjBkb2N1bWVudGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDU5MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNyUzQTAzJTNBMzclMjAlMkIwMDAw",
+      "title": "Agents don't need memory, they need documentation",
+      "pubDate": "Sat, 03 Oct 2026 17:03:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZlLnJlY29pbC5vcmclMkZkb2NrZXItaGFzLWFsd2F5cy11c2VkLW1pY3Jvdm1zJTJGJTdDaHR0cHMlM0ElMkYlMkZkYXZlLnJlY29pbC5vcmclMkZkb2NrZXItaGFzLWFsd2F5cy11c2VkLW1pY3Jvdm1zJTJGJTdDRG9ja2VyJTIwaGFzJTIwYWx3YXlzJTIwdXNlZCUyMG1pY3JvVk1zJTIwKHdlbGwlMjBzaW5jZSUyMDIwMTYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDUzNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNSUzQTU1JTNBMzElMjAlMkIwMDAw",
+      "title": "Docker has always used microVMs (well since 2016)",
+      "pubDate": "Sat, 03 Oct 2026 15:55:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXRsYW50aWMuY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkYxMCUyRm9wZW5haS1zYWZldHktdGVhbS1yZXNpZ25hdGlvbiUyRjY4ODg4MSUyRiUzRmdpZnQlM0R2NVVfVXpVVG90aGZXWHNQeHR2TlZBaDdlc1dUb01SRDZYbmJYbWM1V2dBJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlYXRsYW50aWMuY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkYxMCUyRm9wZW5haS1zYWZldHktdGVhbS1yZXNpZ25hdGlvbiUyRjY4ODg4MSUyRiUzRmdpZnQlM0R2NVVfVXpVVG90aGZXWHNQeHR2TlZBaDdlc1dUb01SRDZYbmJYbWM1V2dBJTdDSSUyMHF1aXQlMjBPcGVuQUklMjBiZWNhdXNlJTIwaXRzJTIwY3VsdHVyZSUyMGlzJTIwYnJva2VuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDQyMjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxMyUzQTQ2JTNBMzQlMjAlMkIwMDAw",
+      "title": "I quit OpenAI because its culture is broken",
+      "pubDate": "Sat, 03 Oct 2026 13:46:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHd6LmNvbSUyRmFpciUyRmZvcm1lci1zci03MS1lbmdpbmVlci10YWxrcy1uYXNhcy1ibGFja2JpcmQtcmV2aXZhbC1wcm9ncmFtJTdDaHR0cHMlM0ElMkYlMkZ3d3cudHd6LmNvbSUyRmFpciUyRmZvcm1lci1zci03MS1lbmdpbmVlci10YWxrcy1uYXNhcy1ibGFja2JpcmQtcmV2aXZhbC1wcm9ncmFtJTdDRm9ybWVyJTIwU1ItNzElMjBlbmdpbmVlciUyMHRhbGtzJTIwTkFTQSdzJTIwQmxhY2tiaXJkJTIwcmV2aXZhbCUyMHByb2dyYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0MjEzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDA3JTNBMzIlM0E0NyUyMCUyQjAwMDA",
+      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "pubDate": "Sat, 03 Oct 2026 07:32:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aG9yZWF1YmFzaWMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aG9yZWF1YmFzaWMuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwVGhvcmVhdSUyMEJBU0lDJTIwJUUyJTgwJTkzJUMyJUEwV2hhdCUyMGlmJTIwQkFTSUMlMjBoYWRuJ3QlMjBnb25lJTIwb3V0JTIwb2YlMjBmYXNoaW9uJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDIxMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAwNyUzQTI4JTNBNTQlMjAlMkIwMDAw",
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "pubDate": "Sat, 03 Oct 2026 07:28:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWxpZGUuY3glMkZibG9nJTJGd3BkJTJGJTdDaHR0cHMlM0ElMkYlMkZoYWxpZGUuY3glMkZibG9nJTJGd3BkJTJGJTdDTWVtb3J5LVNhZmUlMjBXZWJQJTIwRGVjb2RpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0MTY0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDA1JTNBNDUlM0EzMCUyMCUyQjAwMDA",
+      "title": "Memory-Safe WebP Decoding",
+      "pubDate": "Sat, 03 Oct 2026 05:45:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLndpbGxtZXllLnJzJTJGbmV3LXlvcmstY2l0eS1zaG91bGQtY2FyZWZ1bGx5LW1lYXN1cmUtYS1uZXctdHJlZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy53aWxsbWV5ZS5ycyUyRm5ldy15b3JrLWNpdHktc2hvdWxkLWNhcmVmdWxseS1tZWFzdXJlLWEtbmV3LXRyZWUlMkYlN0NOZXclMjBZb3JrJTIwQ2l0eSUyMHNob3VsZCUyMGNhcmVmdWxseSUyMG1lYXN1cmUlMjBhJTIwbmV3JTIwdHJlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQwODc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMDIlM0EyOCUzQTAzJTIwJTJCMDAwMA",
+      "title": "New York City should carefully measure a new tree",
+      "pubDate": "Sat, 03 Oct 2026 02:28:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RVT3V4bzZTQThVYyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEVU91eG82U0E4VWMlN0NNYXRoJ3MlMjBwZWRhZ29naWNhbCUyMGN1cnNlJTIwJUUyJTgwJTkzJTIwR3JhbnQlMjBTYW5kZXJzb24lMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQwNDgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMDElM0ExMSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "pubDate": "Sat, 03 Oct 2026 01:11:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
     }
   ]

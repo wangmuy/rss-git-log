@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 39,
-    "generatedAt": "2026-10-03T19:17:35.280Z"
+    "itemCount": 41,
+    "generatedAt": "2026-10-04T06:02:14.443Z"
   },
   "items": [
     {
@@ -240,6 +240,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhZ2FpbnN0YWxsb2Rkcy5nYW1lcyUyRmJsb2clMkYyMDI2JTJGMTAlMkYwMyUyRm91ci1yaXNjLXYtZW11bGF0b3ItcGFzcmlzY3YlMkYlN0NodHRwcyUzQSUyRiUyRmFnYWluc3RhbGxvZGRzLmdhbWVzJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjAzJTJGb3VyLXJpc2Mtdi1lbXVsYXRvci1wYXNyaXNjdiUyRiU3Q1Nob3clMjBITiUzQSUyME91ciUyMHNwYWNlJTIwZ2FtZSUyMGhhcyUyMGElMjBidWlsdC1pbiUyMFJJU0MtViUyMGVtdWxhdG9yJTIwdGhhdCUyMHJ1bnMlMjBMaW51eCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMxOTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTAlM0E0MCUzQTMxJTIwJTJCMDAwMA",
       "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
       "pubDate": "Fri, 02 Oct 2026 10:40:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb3lhcGFremFkLnN1YnN0YWNrLmNvbSUyRnAlMkZtdWx0aWxpbmd1YWwtYWktYWdlbnRzJTdDaHR0cHMlM0ElMkYlMkZyb3lhcGFremFkLnN1YnN0YWNrLmNvbSUyRnAlMkZtdWx0aWxpbmd1YWwtYWktYWdlbnRzJTdDVGhyZWUlMjBBSSUyMGFnZW50cyUyQyUyMHR3byUyMGNvdW50cmllcyUyQyUyMGFuZCUyMG9uZSUyMHVuZXZlbiUyMHdvcmxkJTIwd2lkZSUyMHdlYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM4MzI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMjAlM0EzOSUzQTA1JTIwJTJCMDAwMA",
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "pubDate": "Fri, 02 Oct 2026 20:39:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmFzLXAuaW5mbyUyRmJsb2clMkYyMDI2JTJGMTAlMkYwMSUyRkZhc3QtYmx1ci13aXRoLWFuaW1hdGVkLXJhZGl1cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJhcy1wLmluZm8lMkZibG9nJTJGMjAyNiUyRjEwJTJGMDElMkZGYXN0LWJsdXItd2l0aC1hbmltYXRlZC1yYWRpdXMlMkYlN0NGYXN0JTIwQmx1ciUyMHdpdGglMjBBbmltYXRlZCUyMFJhZGl1cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI5MzEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMDIlM0EzNCUzQTIzJTIwJTJCMDAwMA",
+      "title": "Fast Blur with Animated Radius",
+      "pubDate": "Fri, 02 Oct 2026 02:34:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }
   ]
