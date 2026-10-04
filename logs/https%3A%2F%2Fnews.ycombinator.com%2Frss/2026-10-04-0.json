@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-04",
     "newestItemDate": "2026-10-04",
-    "itemCount": 4,
-    "generatedAt": "2026-10-04T06:02:14.443Z"
+    "itemCount": 11,
+    "generatedAt": "2026-10-04T14:08:30.932Z"
   },
   "items": [
     {
@@ -30,6 +30,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZPY3QlMkYzJTJGZGVmYXVsdC1oYXJkLWJ1ZGdldC1jYXBzJTJGJTdDaHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZPY3QlMkYzJTJGZGVmYXVsdC1oYXJkLWJ1ZGdldC1jYXBzJTJGJTdDV2UncmUlMjBnb2luZyUyMHRvJTIwbmVlZCUyMGRlZmF1bHQlMjBoYXJkJTIwYnVkZ2V0JTIwY2FwcyUyMG9uJTIwcHJldHR5JTIwbXVjaCUyMGV2ZXJ5dGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0OTIzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDAwJTNBMjAlM0ExNiUyMCUyQjAwMDA",
       "title": "We're going to need default hard budget caps on pretty much everything",
       "pubDate": "Sun, 04 Oct 2026 00:20:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTmlrbzEyMjElMkZTdHJhdGElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZOaWtvMTIyMSUyRlN0cmF0YSU3Q1J1biUyMFF3ZW4lMjAzLjglMjBGbGFzaCUyME5leHQlMjAoMTI1QiklMjBvbiUyMGNvbnN1bWVyJTIwaGFyZHdhcmUlMjAoUlRYJTIwNDA5MCklMjBhdCUyMDEwMFQlMkZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTM0OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAxMiUzQTUxJTNBNTMlMjAlMkIwMDAw",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "pubDate": "Sun, 04 Oct 2026 12:51:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWFjaHlvdXJraWRzLnN1YnN0YWNrLmNvbSUyRnAlMkZyZWplY3Rpb24tc2Vuc2l0aXZpdHktaW4tZ2lmdGVkLWFuZCU3Q2h0dHBzJTNBJTJGJTJGdGVhY2h5b3Vya2lkcy5zdWJzdGFjay5jb20lMkZwJTJGcmVqZWN0aW9uLXNlbnNpdGl2aXR5LWluLWdpZnRlZC1hbmQlN0NSZWplY3Rpb24lMjBTZW5zaXRpdml0eSUyMGluJTIwR2lmdGVkJTIwYW5kJTIwVHdpY2UtRXhjZXB0aW9uYWwlMjBDaGlsZHJlbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTUzMTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMTElM0E1OCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "pubDate": "Sun, 04 Oct 2026 11:58:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxsZW52MCUyRlNDTSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFsbGVudjAlMkZTQ00lN0NTaG93JTIwSE4lM0ElMjBBSSUyMHNlYXJjaCUyMGZvciUyMGV2ZXJ5JTIwcGhvdG8lMjBhbmQlMjBldmVyeSUyMGZyYW1lJTIwb2YlMjB2aWRlbyUyMG9uJTIwbWFjT1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1MjExMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDA5JTNBMjQlM0E1MiUyMCUyQjAwMDA",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "pubDate": "Sun, 04 Oct 2026 09:24:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnYW1laGlzdG9yeS5vcmclMkY1ay1tYWdhemluZXMlMkYlN0NodHRwcyUzQSUyRiUyRmdhbWVoaXN0b3J5Lm9yZyUyRjVrLW1hZ2F6aW5lcyUyRiU3Q1ZHSEYlMjBEaWdpdGFsJTIwQXJjaGl2ZSUyMHBhc3NlcyUyMDUwMDAlMjBtYWdhemluZXMuJTIwSGVyZSdzJTIwd2hhdCdzJTIwbmV4dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTUyMDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMDklM0EwNyUzQTExJTIwJTJCMDAwMA",
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "pubDate": "Sun, 04 Oct 2026 09:07:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUG93ZGVyd29ya3NDb2RlJTJGaGVhZHN0YXJ0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUG93ZGVyd29ya3NDb2RlJTJGaGVhZHN0YXJ0JTdDRW1pdHRpbmclMjBtZXRhZGF0YSUyMGVhcmx5JTIwbWFrZXMlMjBidWlsZGluZyUyRmNoZWNraW5nJTIwUnVzdCUyMHVwJTIwdG8lMjB0d2ljZSUyMGFzJTIwZmFzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTUxMjE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMDYlM0EyNiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "pubDate": "Sun, 04 Oct 2026 06:26:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub2xhbmxhd3Nvbi5jb20lMkYyMDI2JTJGMTAlMkYwMyUyRndoeS1kb250LW1vcmUtZGV2ZWxvcGVycy11c2UtdGhlLXBsYXRmb3JtJTJGJTdDaHR0cHMlM0ElMkYlMkZub2xhbmxhd3Nvbi5jb20lMkYyMDI2JTJGMTAlMkYwMyUyRndoeS1kb250LW1vcmUtZGV2ZWxvcGVycy11c2UtdGhlLXBsYXRmb3JtJTJGJTdDV2h5JTIwZG9uJ3QlMjBtb3JlJTIwZGV2ZWxvcGVycyUyMCVFMiU4MCU5Q3VzZSUyMHRoZSUyMHBsYXRmb3JtJUUyJTgwJTlEJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTA1NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAwNCUzQTEwJTNBNDclMjAlMkIwMDAw",
+      "title": "Why don't more developers “use the platform”?",
+      "pubDate": "Sun, 04 Oct 2026 04:10:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDklMkYyOSUyRnVzJTJGYW50aHJvcGljLWNsYXVkZS1tb3JhbHMtYWkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjA5JTJGMjklMkZ1cyUyRmFudGhyb3BpYy1jbGF1ZGUtbW9yYWxzLWFpLmh0bWwlN0NSZWxpZ2lvdXMlMjBzY2hvbGFycyUyMG1ldCUyMHdpdGglMjBBbnRocm9waWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1MDA1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDAyJTNBMzQlM0EyMiUyMCUyQjAwMDA",
+      "title": "Religious scholars met with Anthropic",
+      "pubDate": "Sun, 04 Oct 2026 02:34:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
     }
   ]

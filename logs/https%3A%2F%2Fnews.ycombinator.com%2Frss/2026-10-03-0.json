@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-03",
     "newestItemDate": "2026-10-03",
-    "itemCount": 37,
-    "generatedAt": "2026-10-04T06:02:14.443Z"
+    "itemCount": 41,
+    "generatedAt": "2026-10-04T14:08:30.932Z"
   },
   "items": [
     {
@@ -228,6 +228,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RVT3V4bzZTQThVYyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEVU91eG82U0E4VWMlN0NNYXRoJ3MlMjBwZWRhZ29naWNhbCUyMGN1cnNlJTIwJUUyJTgwJTkzJTIwR3JhbnQlMjBTYW5kZXJzb24lMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQwNDgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMDElM0ExMSUzQTE1JTIwJTJCMDAwMA",
       "title": "Math's pedagogical curse – Grant Sanderson [video]",
       "pubDate": "Sat, 03 Oct 2026 01:11:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGbmV4dC1naXQtcGxhdGZvcm0tb24tY2xvdWRmbGFyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jbG91ZGZsYXJlLmNvbSUyRm5leHQtZ2l0LXBsYXRmb3JtLW9uLWNsb3VkZmxhcmUlMkYlN0NXZSUyMHdhbnQlMjB5b3UlMjB0byUyMGJ1aWxkJTIwdGhlJTIwbmV4dCUyMEdpdCUyMHBsYXRmb3JtJTIwb24lMjBDbG91ZGZsYXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDcwNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxOSUzQTMzJTNBMTYlMjAlMkIwMDAw",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "pubDate": "Sat, 03 Oct 2026 19:33:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGEudmlkYnVjaGFuYW4uY28udWslMkZibG9nJTJGaGFja2luZy10aW1lLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYS52aWRidWNoYW5hbi5jby51ayUyRmJsb2clMkZoYWNraW5nLXRpbWUuaHRtbCU3Q0hvdyUyMHRvJTIwaGFjayUyMHRpbWUlMkMlMjB3aXRoJTIwQzJQQSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ2NzA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTglM0E1MiUzQTA2JTIwJTJCMDAwMA",
+      "title": "How to hack time, with C2PA",
+      "pubDate": "Sat, 03 Oct 2026 18:52:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZXRlZGF0YS5zdWJzdGFjay5jb20lMkZwJTJGd2hhdC1tZXRhLWdvdC1yaWdodC13aXRoLW11c2UlN0NodHRwcyUzQSUyRiUyRm1ldGVkYXRhLnN1YnN0YWNrLmNvbSUyRnAlMkZ3aGF0LW1ldGEtZ290LXJpZ2h0LXdpdGgtbXVzZSU3Q1doYXQlMjBNZXRhJTIwZ290JTIwcmlnaHQlMjB3aXRoJTIwTXVzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ2NTI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTglM0EyMyUzQTQ4JTIwJTJCMDAwMA",
+      "title": "What Meta got right with Muse",
+      "pubDate": "Sat, 03 Oct 2026 18:23:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYxMCUyRjAxJTJGYWktZ29kZmF0aGVyLXlhbm4tbGVjdW4taGFzLXplcm8tY29uY2VybnMtYWJvdXQtaHVtYW4tZXh0aW5jdGlvbi1zYXlzLWFudGhyb3BpYy1jZW8tZGFyaW8tYW1vZGVpLWlzLWRldWRlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9ydHVuZS5jb20lMkYyMDI2JTJGMTAlMkYwMSUyRmFpLWdvZGZhdGhlci15YW5uLWxlY3VuLWhhcy16ZXJvLWNvbmNlcm5zLWFib3V0LWh1bWFuLWV4dGluY3Rpb24tc2F5cy1hbnRocm9waWMtY2VvLWRhcmlvLWFtb2RlaS1pcy1kZXVkZWQlMkYlN0NMZUN1biUyMGhhcyUyMCUyMnplcm8lMjBjb25jZXJucyUyMiUyMGFib3V0JTIwQUklMjB3aXBpbmclMjBvdXQlMjBodW1hbml0eSUyQyUyMHJlY2VudCUyMCUyMnJvZ3VlJTIyJTIwaW5jaWRlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDYyMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNyUzQTQ0JTNBMjklMjAlMkIwMDAw",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "pubDate": "Sat, 03 Oct 2026 17:44:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
     }
   ]

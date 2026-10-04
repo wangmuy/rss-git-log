@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 41,
-    "generatedAt": "2026-10-04T06:02:14.443Z"
+    "itemCount": 45,
+    "generatedAt": "2026-10-04T14:08:30.932Z"
   },
   "items": [
     {
@@ -252,6 +252,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcmFzLXAuaW5mbyUyRmJsb2clMkYyMDI2JTJGMTAlMkYwMSUyRkZhc3QtYmx1ci13aXRoLWFuaW1hdGVkLXJhZGl1cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJhcy1wLmluZm8lMkZibG9nJTJGMjAyNiUyRjEwJTJGMDElMkZGYXN0LWJsdXItd2l0aC1hbmltYXRlZC1yYWRpdXMlMkYlN0NGYXN0JTIwQmx1ciUyMHdpdGglMjBBbmltYXRlZCUyMFJhZGl1cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI5MzEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMDIlM0EzNCUzQTIzJTIwJTJCMDAwMA",
       "title": "Fast Blur with Animated Radius",
       "pubDate": "Fri, 02 Oct 2026 02:34:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoLnRlanN0ZWFkLmNvbSUyRmhlaWxicm9ubiUyRiU3Q2h0dHBzJTNBJTJGJTJGbWF0aC50ZWpzdGVhZC5jb20lMkZoZWlsYnJvbm4lMkYlN0NUaGUlMjBIZWlsYnJvbm4lMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Mzk2MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAyMyUzQTAxJTNBMTMlMjAlMkIwMDAw",
+      "title": "The Heilbronn Problem",
+      "pubDate": "Fri, 02 Oct 2026 23:01:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZmb3J1bS5wbGF5LmRhdGUlMkZ0JTJGZGlydHktb3B0aW1pemF0aW9uLXNlY3JldHMtYy1mb3ItcGxheWRhdGUlMkYyMzAxMSU3Q2h0dHBzJTNBJTJGJTJGZGV2Zm9ydW0ucGxheS5kYXRlJTJGdCUyRmRpcnR5LW9wdGltaXphdGlvbi1zZWNyZXRzLWMtZm9yLXBsYXlkYXRlJTJGMjMwMTElN0NEaXJ0eSUyME9wdGltaXphdGlvbiUyMFNlY3JldHMlMjAoQyUyMGZvciUyMFBsYXlkYXRlKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM2MDE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTclM0ExNiUzQTI4JTIwJTJCMDAwMA",
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "pubDate": "Fri, 02 Oct 2026 17:16:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWlrZXNhcnQlMkZncHV2aXMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaWtlc2FydCUyRmdwdXZpcyU3Q2dwdXZpcyUzQSUyMEdQVSUyMFRyYWNlJTIwVmlzdWFsaXplciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM1MDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTYlM0EwNCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "gpuvis: GPU Trace Visualizer",
+      "pubDate": "Fri, 02 Oct 2026 16:04:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDaHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDR2xhc2glQzMlQkN0dGUlMjBUcmFzaCUyMENsb2NrJTIwJUUyJTgwJTkzJTIwQSUyMDMwLW1pbnV0ZSUyMHBlbmR1bHVtJTIwY2xvY2slMjBtYWRlJTIwZnJvbSUyMHRyYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzA0MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAwNiUzQTMzJTNBMDYlMjAlMkIwMDAw",
+      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "pubDate": "Fri, 02 Oct 2026 06:33:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }
   ]
