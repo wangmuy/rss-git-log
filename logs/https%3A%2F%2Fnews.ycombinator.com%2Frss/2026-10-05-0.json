@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-05",
     "newestItemDate": "2026-10-05",
-    "itemCount": 4,
-    "generatedAt": "2026-10-05T05:52:40.568Z"
+    "itemCount": 19,
+    "generatedAt": "2026-10-05T17:13:07.771Z"
   },
   "items": [
     {
@@ -30,6 +30,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmcm4uc2glMkZnby1nYyUyRiU3Q2h0dHBzJTNBJTJGJTJGZnJuLnNoJTJGZ28tZ2MlMkYlN0NBJTIwNDBtcyUyMEdvJTIwZ2FyYmFnZSUyMGNvbGxlY3RvciUyMHBhdXNlJTIwY2F1c2VkJTIwYnklMjBzd2FwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTk2NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAwMSUzQTExJTNBNTYlMjAlMkIwMDAw",
       "title": "A 40ms Go garbage collector pause caused by swap",
       "pubDate": "Mon, 05 Oct 2026 01:11:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZldS10ZXh0LXByb3ZlbmFuY2UlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmV1LXRleHQtcHJvdmVuYW5jZSUyRiU3Q091ciUyMGFwcHJvYWNoJTIwdG8lMjBFVSUyMHRleHQlMjBwcm92ZW5hbmNlJTIwcnVsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk2NjI5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDE1JTNBMzglM0E1NSUyMCUyQjAwMDA",
+      "title": "Our approach to EU text provenance rules",
+      "pubDate": "Mon, 05 Oct 2026 15:38:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbmx5cy5reSUyRmluZGVwZW5kZW5jZS1pcy1pbnRlcmRlcGVuZGVuY2UlMkYlN0NodHRwcyUzQSUyRiUyRm9ubHlzLmt5JTJGaW5kZXBlbmRlbmNlLWlzLWludGVyZGVwZW5kZW5jZSUyRiU3Q1RoZSUyMGZ1dHVyZSUyMG9mJTIwaW5kZXBlbmRlbmNlJTIwaXMlMjBpbnRlcmRlcGVuZGVuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk2NjE2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDE1JTNBMzAlM0EwOCUyMCUyQjAwMDA",
+      "title": "The future of independence is interdependence",
+      "pubDate": "Mon, 05 Oct 2026 15:30:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb3NkYXlzLmNvLnVrJTJGdG9waWNzJTJGU29mdHdhcmUlMkZib3JsYW5kX3R1cmJvX2Jhc2ljLnBocCU3Q2h0dHBzJTNBJTJGJTJGZG9zZGF5cy5jby51ayUyRnRvcGljcyUyRlNvZnR3YXJlJTJGYm9ybGFuZF90dXJib19iYXNpYy5waHAlN0NCb3JsYW5kJTIwVHVyYm8lMjBCYXNpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTY1ODk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTUlM0ExMSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Borland Turbo Basic",
+      "pubDate": "Mon, 05 Oct 2026 15:11:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbG9yZWFsLnRlY2glMkZibG9nJTJGMjAyNiUyRm1ha2luZy1hLWd0ay1hcHAtaW4taGFza2VsbC1wYXJ0LTElMkYlN0NodHRwcyUzQSUyRiUyRmZsb3JlYWwudGVjaCUyRmJsb2clMkYyMDI2JTJGbWFraW5nLWEtZ3RrLWFwcC1pbi1oYXNrZWxsLXBhcnQtMSUyRiU3Q01ha2luZyUyMGElMjBHVEslMjBhcHBsaWNhdGlvbiUyMGluJTIwSGFza2VsbCUyQyUyMHBhcnQlMjAxJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjUzMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAxNCUzQTIzJTNBNDclMjAlMkIwMDAw",
+      "title": "Making a GTK application in Haskell, part 1",
+      "pubDate": "Mon, 05 Oct 2026 14:23:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1ldGFicmFpbnoub3JnJTJGMjAyNiUyRjEwJTJGMDQlMkZwaWNhcmQtMy0wLXJlbGVhc2VkJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLm1ldGFicmFpbnoub3JnJTJGMjAyNiUyRjEwJTJGMDQlMkZwaWNhcmQtMy0wLXJlbGVhc2VkJTJGJTdDUGljYXJkJTIwMy4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjUwNDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAxNCUzQTAzJTNBMDElMjAlMkIwMDAw",
+      "title": "Picard 3.0",
+      "pubDate": "Mon, 05 Oct 2026 14:03:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzLmdyYXBoZW5lb3Mub3JnJTJGZCUyRjQxNTY0LXBpeGVsLTExLWRvZXNudC15ZXQtbWVldC10aGUtZ3JhcGhlbmVvcy1zZWN1cml0eS1zdGFuZGFyZHMtYW5kLW1heS1iZS1za2lwcGVkJTdDaHR0cHMlM0ElMkYlMkZkaXNjdXNzLmdyYXBoZW5lb3Mub3JnJTJGZCUyRjQxNTY0LXBpeGVsLTExLWRvZXNudC15ZXQtbWVldC10aGUtZ3JhcGhlbmVvcy1zZWN1cml0eS1zdGFuZGFyZHMtYW5kLW1heS1iZS1za2lwcGVkJTdDUGl4ZWwlMjAxMSUyMGRvZXNuJ3QlMjB5ZXQlMjBtZWV0JTIwdGhlJTIwR3JhcGhlbmVPUyUyMHNlY3VyaXR5JTIwc3RhbmRhcmRzJTIwYW5kJTIwbWF5JTIwYmUlMjBza2lwcGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjQzMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAxMyUzQTAyJTNBMjUlMjAlMkIwMDAw",
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "pubDate": "Mon, 05 Oct 2026 13:02:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ncy5nbm9tZS5vcmclMkZtY2F0YW56YXJvJTJGMjAyNiUyRjEwJTJGMDIlMkZ0aGUtZXJhLW9mLXNvZnR3YXJlLXF1YWxpdHktb3ItdGhlLWVyYS1vZi1vc3RyaWNoZXMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2dzLmdub21lLm9yZyUyRm1jYXRhbnphcm8lMkYyMDI2JTJGMTAlMkYwMiUyRnRoZS1lcmEtb2Ytc29mdHdhcmUtcXVhbGl0eS1vci10aGUtZXJhLW9mLW9zdHJpY2hlcyUyRiU3Q1RoZSUyMEVyYSUyMG9mJTIwU29mdHdhcmUlMjBRdWFsaXR5JTJDJTIwb3IlMjB0aGUlMjBFcmElMjBvZiUyME9zdHJpY2hlcyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTY0MDE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTIlM0EzMyUzQTE1JTIwJTJCMDAwMA",
+      "title": "The Era of Software Quality, or the Era of Ostriches?",
+      "pubDate": "Mon, 05 Oct 2026 12:33:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcHJvamVjdC1taW5pZ3JhZiUyRm1pbmlncmFmJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcHJvamVjdC1taW5pZ3JhZiUyRm1pbmlncmFmJTdDU2hvdyUyMEhOJTNBJTIwTWluaWdyYWYlMjAlRTIlODAlOTMlMjBBbiUyMGVtYmVkZGVkJTJDJTIwYmktdGVtcG9yYWwlMjBncmFwaCUyMGRhdGFiYXNlJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjMzOTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAxMSUzQTE4JTNBMTglMjAlMkIwMDAw",
+      "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+      "pubDate": "Mon, 05 Oct 2026 11:18:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnVpMzE0JTJGbW9sZCUyRnJlbGVhc2VzJTJGdGFnJTJGdjMuMC4wJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnVpMzE0JTJGbW9sZCUyRnJlbGVhc2VzJTJGdGFnJTJGdjMuMC4wJTdDTW9sZCUyMExpbmtlciUyMFZlcnNpb24lMjAzLjAuMCUyMFJlbGVhc2UlMjAlRTIlODAlOTMlMjBSZXdyaXR0ZW4lMjBpbiUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk2MzM4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDExJTNBMTclM0ExOCUyMCUyQjAwMDA",
+      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "pubDate": "Mon, 05 Oct 2026 11:17:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoZnVuZGluZ25ld3MuY29tJTJGZXVyb3Blcy1uZXctcm9ib3RpY3MtdW5pY29ybi1nZXJtYW55cy1yb2Jjby1oaXRzLTFiLXZhbHVhdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaGZ1bmRpbmduZXdzLmNvbSUyRmV1cm9wZXMtbmV3LXJvYm90aWNzLXVuaWNvcm4tZ2VybWFueXMtcm9iY28taGl0cy0xYi12YWx1YXRpb24lMkYlN0NHZXJtYW55JUUyJTgwJTk5cyUyMFJvYkNvJTIwaGl0cyUyMCUyNDFCJTIwdmFsdWF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjMzNjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAxMSUzQTEzJTNBNTElMjAlMkIwMDAw",
+      "title": "Germany’s RobCo hits $1B valuation",
+      "pubDate": "Mon, 05 Oct 2026 11:13:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLmNsb3VkZmxhcmUuY29tJTJGY2hhbmdlbG9nJTJGcG9zdCUyRjIwMjYtMTAtMDItaW50cm9kdWNpbmctd2ViLXNlYXJjaC1hcGklMkYlN0NodHRwcyUzQSUyRiUyRmRldmVsb3BlcnMuY2xvdWRmbGFyZS5jb20lMkZjaGFuZ2Vsb2clMkZwb3N0JTJGMjAyNi0xMC0wMi1pbnRyb2R1Y2luZy13ZWItc2VhcmNoLWFwaSUyRiU3Q1dlYiUyMFNlYXJjaCUyMEFQSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTYzMTcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTAlM0E0NyUzQTA2JTIwJTJCMDAwMA",
+      "title": "Web Search API",
+      "pubDate": "Mon, 05 Oct 2026 10:47:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJhdGVjaGVyeS5jb20lMkYyMDI2JTJGYXBwbGUtYW5kLWEtaGFja2Vycy1mdXR1cmUlMkYlN0NodHRwcyUzQSUyRiUyRnN0cmF0ZWNoZXJ5LmNvbSUyRjIwMjYlMkZhcHBsZS1hbmQtYS1oYWNrZXJzLWZ1dHVyZSUyRiU3Q0FwcGxlJTIwYW5kJTIwYSUyMEhhY2tlcidzJTIwRnV0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjI4NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAxMCUzQTA1JTNBMDIlMjAlMkIwMDAw",
+      "title": "Apple and a Hacker's Future",
+      "pubDate": "Mon, 05 Oct 2026 10:05:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZtZWRpY2luZSUyRjIwMjYlMkZzdW1tYXJ5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZtZWRpY2luZSUyRjIwMjYlMkZzdW1tYXJ5JTJGJTdDMjAyNiUyME5vYmVsJTIwUHJpemUlMjBpbiUyMFBoeXNpb2xvZ3klMjBvciUyME1lZGljaW5lJTNBJTIwRGVpc3Nlcm90aCUyQyUyMEhlZ2VtYW5uJTJDJTIwTmFnZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk2MjU3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDA5JTNBMzMlM0ExMyUyMCUyQjAwMDA",
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "pubDate": "Mon, 05 Oct 2026 09:33:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3ByLmRrJTJGY3ByLW55dCUyRm55aGVkc2Fya2l2JTJGMjAyNiUyRm9rdCUyRm9tZmF0dGVuZGUtdWF1dG9yaXNlcmV0LWFkZ2FuZy10aWwtYm9yZ2VyZXMtY3ByLW9wbHlzbmluZ2VyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3ByLmRrJTJGY3ByLW55dCUyRm55aGVkc2Fya2l2JTJGMjAyNiUyRm9rdCUyRm9tZmF0dGVuZGUtdWF1dG9yaXNlcmV0LWFkZ2FuZy10aWwtYm9yZ2VyZXMtY3ByLW9wbHlzbmluZ2VyJTdDRGVubWFyayUyMERhdGElMjBCcmVhY2glMjBFeHBvc2VzJTIwOC44TSUyMFBlb3BsZSdzJTIwUGVyc29uYWwlMjBEYXRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjIwMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAwOCUzQTA5JTNBMzYlMjAlMkIwMDAw",
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "pubDate": "Mon, 05 Oct 2026 08:09:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHVhd2VpLmNvbSUyRmVuJTJGbmV3cyUyRjIwMjYlMkYxMCUyRnF1YWxjb21tLWJyb2FkLXBhdGVudC1hZ3JlZW1lbnQlN0NodHRwcyUzQSUyRiUyRnd3dy5odWF3ZWkuY29tJTJGZW4lMkZuZXdzJTJGMjAyNiUyRjEwJTJGcXVhbGNvbW0tYnJvYWQtcGF0ZW50LWFncmVlbWVudCU3Q0h1YXdlaSUyMGFuZCUyMFF1YWxjb21tJTIwQW5ub3VuY2UlMjBCcm9hZCUyMFBhdGVudCUyMExpY2Vuc2UlMjBBZ3JlZW1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk2MTg2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDA3JTNBNDYlM0ExMCUyMCUyQjAwMDA",
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "pubDate": "Mon, 05 Oct 2026 07:46:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
     }
   ]

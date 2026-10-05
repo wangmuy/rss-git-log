@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-01",
     "newestItemDate": "2026-10-01",
-    "itemCount": 63,
-    "generatedAt": "2026-10-05T05:52:40.569Z"
+    "itemCount": 66,
+    "generatedAt": "2026-10-05T17:13:07.771Z"
   },
   "items": [
     {
@@ -384,6 +384,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdmsuY2ElMkZCbG9nJTJGMjAxMiUyRjAyJTJGMTklMkZmaXhlZC1wb2ludHMtYW5kLXN0cmlrZS1tYW5kYXRlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHZrLmNhJTJGQmxvZyUyRjIwMTIlMkYwMiUyRjE5JTJGZml4ZWQtcG9pbnRzLWFuZC1zdHJpa2UtbWFuZGF0ZXMlMkYlN0NGaXhlZCUyMFBvaW50cyUyMGFuZCUyMFN0cmlrZSUyME1hbmRhdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTY1NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAwMSUzQTIyJTNBNDglMjAlMkIwMDAw",
       "title": "Fixed Points and Strike Mandates",
       "pubDate": "Thu, 01 Oct 2026 01:22:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXhwbGFpbmRiJTJGZXhwbGFpbmRiJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXhwbGFpbmRiJTJGZXhwbGFpbmRiJTdDRXhwbGFpbkRCJTNBJTIwQSUyMERhdGFiYXNlJTIwU3lzdGVtJTIwQnVpbHQlMjBmb3IlMjBVbmRlcnN0YW5kYWJpbGl0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTI0Nzk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTclM0E0NyUzQTI3JTIwJTJCMDAwMA",
+      "title": "ExplainDB: A Database System Built for Understandability",
+      "pubDate": "Thu, 01 Oct 2026 17:47:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmhhc2tlbGwub3JnJTJGZm9sZGwtYW5kLWZvbGRyJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmhhc2tlbGwub3JnJTJGZm9sZGwtYW5kLWZvbGRyJTJGJTdDRGlmZmVyZW5jZXMlMjBCZXR3ZWVuJTIwJTYwRm9sZGwlNjAlMjBhbmQlMjAlNjBGb2xkciU2MCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTE3OTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMDQlM0E1OCUzQTAzJTIwJTJCMDAwMA",
+      "title": "Differences Between `Foldl` and `Foldr`",
+      "pubDate": "Thu, 01 Oct 2026 04:58:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWF0dGtlZXRlci5jb20lMkZibG9nJTJGMjAyNC0wNy0xMi1pbnRlcnByZXRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hdHRrZWV0ZXIuY29tJTJGYmxvZyUyRjIwMjQtMDctMTItaW50ZXJwcmV0ZXIlMkYlN0NCZWF0aW5nJTIwdGhlJTIwQ29tcGlsZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkxNzc4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDAxJTIwT2N0JTIwMjAyNiUyMDA0JTNBMzYlM0ExMCUyMCUyQjAwMDA",
+      "title": "Beating the Compiler",
+      "pubDate": "Thu, 01 Oct 2026 04:36:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
     }
   ]
