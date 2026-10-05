@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-04",
     "newestItemDate": "2026-10-04",
-    "itemCount": 16,
-    "generatedAt": "2026-10-04T19:42:23.870Z"
+    "itemCount": 25,
+    "generatedAt": "2026-10-05T05:52:40.568Z"
   },
   "items": [
     {
@@ -102,6 +102,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3cml0aW5ncy5zdGVwaGVud29sZnJhbS5jb20lMkYyMDI2JTJGMDklMkZ3aGF0cy10aGUtZnV0dXJlLWZvci1wdXJlLW1hdGgtcmVzZWFyY2gtaW4tdGhlLWFnZS1vZi1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3JpdGluZ3Muc3RlcGhlbndvbGZyYW0uY29tJTJGMjAyNiUyRjA5JTJGd2hhdHMtdGhlLWZ1dHVyZS1mb3ItcHVyZS1tYXRoLXJlc2VhcmNoLWluLXRoZS1hZ2Utb2YtYWklMkYlN0NXaGF0J3MlMjB0aGUlMjBmdXR1cmUlMjBmb3IlMjBwdXJlJTIwbWF0aCUyMHJlc2VhcmNoJTIwaW4lMjB0aGUlMjBhZ2UlMjBvZiUyMEFJJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTE2NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAwNyUzQTUzJTNBNDUlMjAlMkIwMDAw",
       "title": "What's the future for pure math research in the age of AI?",
       "pubDate": "Sun, 04 Oct 2026 07:53:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZXRhcnRjcmFmdC5jb20lMkZhcHBzJTdDaHR0cHMlM0ElMkYlMkZnZXRhcnRjcmFmdC5jb20lMkZhcHBzJTdDQXJ0Q3JhZnQlMjBBcHBzJTIwJUUyJTgwJTkzJTIwb3Blbi1zb3VyY2UlMjBBZG9iZSUyMGNvbXBhdGlibGUlMjBzdWl0ZSUyMHdyaXR0ZW4lMjBpbiUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1ODg1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDIzJTNBMDIlM0E0MyUyMCUyQjAwMDA",
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "pubDate": "Sun, 04 Oct 2026 23:02:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW5jZW50LmJlcm5hdC5jaCUyRmVuJTJGYmxvZyUyRjIwMjYtaHR0cC1vdmVyLXNzaCU3Q2h0dHBzJTNBJTJGJTJGdmluY2VudC5iZXJuYXQuY2glMkZlbiUyRmJsb2clMkYyMDI2LWh0dHAtb3Zlci1zc2glN0NTZWxmLWhvc3RlZCUyMEhUVFAlMjB0dW5uZWxzJTIwd2l0aCUyMFNTSCUyMGFuZCUyME5naW54JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTg1NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAyMiUzQTI1JTNBMTAlMjAlMkIwMDAw",
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "pubDate": "Sun, 04 Oct 2026 22:25:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWxtc3Rvcmllcy5jby51ayUyRm5ld3MlMkZ0aXBwZXR0LXN0dWRpb3MtaW4tdGhlLXdha2Utb2YtaXRzLWNsb3N1cmUtYS1kaWdpdGFsLWFyY2hpdmUtb2YtYW5pbWF0ZWQtbWF0ZXJpYWxzLWFwcGVhcnMtb25saW5lJTJGJTdDaHR0cHMlM0ElMkYlMkZmaWxtc3Rvcmllcy5jby51ayUyRm5ld3MlMkZ0aXBwZXR0LXN0dWRpb3MtaW4tdGhlLXdha2Utb2YtaXRzLWNsb3N1cmUtYS1kaWdpdGFsLWFyY2hpdmUtb2YtYW5pbWF0ZWQtbWF0ZXJpYWxzLWFwcGVhcnMtb25saW5lJTJGJTdDSW4lMjB0aGUlMjB3YWtlJTIwb2YlMjBjbG9zdXJlJTJDJTIwYSUyMGRpZ2l0YWwlMjBhcmNoaXZlJTIwb2YlMjBhbmltYXRlZCUyMG1hdGVyaWFscyUyMGFwcGVhcnMlMjBvbmxpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1NzgxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDIxJTNBMDElM0EyOCUyMCUyQjAwMDA",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "pubDate": "Sun, 04 Oct 2026 21:01:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb21sYWhvcmUlMkZSZW1vdmVNYWNBSSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9tbGFob3JlJTJGUmVtb3ZlTWFjQUklN0NUdXJuJTIwb2ZmJTIwQXBwbGUlMjBJbnRlbGxpZ2VuY2UlMjBvbiUyMG1hY09TJTIwMjclMjBhbmQlMjBnZXQlMjBpdHMlMjBkaXNrJTIwc3BhY2UlMjBiYWNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTcxMTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAxOSUzQTQyJTNBMjUlMjAlMkIwMDAw",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RlWjhXV1p6b2FSMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEZVo4V1daem9hUjAlN0NIb21hJTNBJTIwVGhlJTIwZW5kJTIwb2YlMjBUQ1AlMjBmb3IlMjBBSSUyMGNsdXN0ZXJzJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1NzExNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDE5JTNBNDIlM0EyNSUyMCUyQjAwMDA",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuMTAxMW5vdy5jb20lMkYyMDI2JTJGMDklMkYzMCUyRm1vcmUtcXVlc3Rpb25zLXRoYW4tYW5zd2Vycy1hYm91dC1saW5jb2xucy1nb29nbGUtZGF0YS1jZW50ZXItd2F0ZXItZWxlY3RyaWNpdHktdXNhZ2UlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy4xMDExbm93LmNvbSUyRjIwMjYlMkYwOSUyRjMwJTJGbW9yZS1xdWVzdGlvbnMtdGhhbi1hbnN3ZXJzLWFib3V0LWxpbmNvbG5zLWdvb2dsZS1kYXRhLWNlbnRlci13YXRlci1lbGVjdHJpY2l0eS11c2FnZSUyRiU3Q0ltcHJvcGVyJTIwcmVkYWN0aW9uJTIwcmV2ZWFscyUyMEdvb2dsZSUyMERhdGElMjBDZW50ZXIlMjB3YXRlciUyMGFuZCUyMGVsZWN0cmljaXR5JTIwdXNhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1NzA2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDE5JTNBMzclM0EwNSUyMCUyQjAwMDA",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "pubDate": "Sun, 04 Oct 2026 19:37:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWVzbGF3c29sdGVzLmdpdGh1Yi5pbyUyRlZCNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd2llc2xhd3NvbHRlcy5naXRodWIuaW8lMkZWQjYlMkYlN0NBJTIwYnJvd3Nlci1uYXRpdmUlMjBjbGFzc2ljJTIwVmlzdWFsJTIwQmFzaWMlMjBWQjYlMjBJREUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1NjY4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDE4JTNBNDklM0ExNyUyMCUyQjAwMDA",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "pubDate": "Sun, 04 Oct 2026 18:49:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWNvYmcuY28lMkZlbWFpbHMtYXQtamFjb2JnLWNvJTJGJTdDaHR0cHMlM0ElMkYlMkZqYWNvYmcuY28lMkZlbWFpbHMtYXQtamFjb2JnLWNvJTJGJTdDQWxsJTIwSSUyMHdhbnRlZCUyMHdhcyUyMGElMjBjdXN0b20lMjBkb21haW4lMjBlbWFpbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTU2MDkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMTclM0E0NyUzQTIxJTIwJTJCMDAwMA",
+      "title": "All I wanted was a custom domain email",
+      "pubDate": "Sun, 04 Oct 2026 17:47:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbmV0NHBlb3BsZSUyRmJicyUyRmlzc3VlcyUyRjY3MiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm5ldDRwZW9wbGUlMkZiYnMlMkZpc3N1ZXMlMkY2NzIlN0NYcmF5LWNvcmUlMjBjb25jZWFsZWQlMjBhJTIwY2VydGlmaWNhdGUlMjB2ZXJpZmljYXRpb24lMjBieXBhc3MlMjB2dWxuZXJhYmlsaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTYwMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAxNyUzQTM4JTNBNTQlMjAlMkIwMDAw",
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "pubDate": "Sun, 04 Oct 2026 17:38:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
     }
   ]

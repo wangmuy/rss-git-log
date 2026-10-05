@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-01",
     "newestItemDate": "2026-10-01",
-    "itemCount": 61,
-    "generatedAt": "2026-10-04T19:42:23.870Z"
+    "itemCount": 63,
+    "generatedAt": "2026-10-05T05:52:40.569Z"
   },
   "items": [
     {
@@ -372,6 +372,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtY21hbnNpb25oZWxsLmNvbSUyRnBvc3QlMkY4MjkxMjc5MTk1NTIxNTE1NTIlMkZ3aGF0LWlzLWdvaW5nLW9uLXdpdGgtY2VpbGluZy1mYW5zJTdDaHR0cHMlM0ElMkYlMkZtY21hbnNpb25oZWxsLmNvbSUyRnBvc3QlMkY4MjkxMjc5MTk1NTIxNTE1NTIlMkZ3aGF0LWlzLWdvaW5nLW9uLXdpdGgtY2VpbGluZy1mYW5zJTdDV2hhdCUyMGlzJTIwZ29pbmclMjBvbiUyMHdpdGglMjBjZWlsaW5nJTIwZmFucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTE3NTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMDMlM0E1MiUzQTEwJTIwJTJCMDAwMA",
       "title": "What is going on with ceiling fans",
       "pubDate": "Thu, 01 Oct 2026 03:52:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtYnJpZGdlLm9yZyUyRmNvcmUlMkZqb3VybmFscyUyRmlyYXElMkZhcnRpY2xlJTJGZ29kcy1pbi10aGUtY2xhc3Nyb29tLXJlbGlnaW9uLWFuZC1lZHVjYXRpb24taW4tMXN0LW1pbGxlbm5pdW0tYmNlLWJhYnlsb25pYSUyRkVCMDU5RUU4MTgwNERDQkMxODQ4Q0FDQkQ2Mjk4RTBCJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FtYnJpZGdlLm9yZyUyRmNvcmUlMkZqb3VybmFscyUyRmlyYXElMkZhcnRpY2xlJTJGZ29kcy1pbi10aGUtY2xhc3Nyb29tLXJlbGlnaW9uLWFuZC1lZHVjYXRpb24taW4tMXN0LW1pbGxlbm5pdW0tYmNlLWJhYnlsb25pYSUyRkVCMDU5RUU4MTgwNERDQkMxODQ4Q0FDQkQ2Mjk4RTBCJTdDR29kcyUyMGluJTIwdGhlJTIwQ2xhc3Nyb29tJTNBJTIwUmVsaWdpb24lMjBhbmQlMjBFZHVjYXRpb24lMjBpbiUyMEZpcnN0JTIwTWlsbGVubml1bSUyMEJDRSUyMEJhYnlsb25pYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTIwMzMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDElMjBPY3QlMjAyMDI2JTIwMTElM0EzMSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+      "pubDate": "Thu, 01 Oct 2026 11:31:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdmsuY2ElMkZCbG9nJTJGMjAxMiUyRjAyJTJGMTklMkZmaXhlZC1wb2ludHMtYW5kLXN0cmlrZS1tYW5kYXRlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHZrLmNhJTJGQmxvZyUyRjIwMTIlMkYwMiUyRjE5JTJGZml4ZWQtcG9pbnRzLWFuZC1zdHJpa2UtbWFuZGF0ZXMlMkYlN0NGaXhlZCUyMFBvaW50cyUyMGFuZCUyMFN0cmlrZSUyME1hbmRhdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MTY1NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwMSUyME9jdCUyMDIwMjYlMjAwMSUzQTIyJTNBNDglMjAlMkIwMDAw",
+      "title": "Fixed Points and Strike Mandates",
+      "pubDate": "Thu, 01 Oct 2026 01:22:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-01-0.json"
     }
   ]

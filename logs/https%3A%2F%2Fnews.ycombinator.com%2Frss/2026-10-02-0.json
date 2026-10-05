@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-02",
     "newestItemDate": "2026-10-02",
-    "itemCount": 51,
-    "generatedAt": "2026-10-04T19:42:23.870Z"
+    "itemCount": 55,
+    "generatedAt": "2026-10-05T05:52:40.569Z"
   },
   "items": [
     {
@@ -312,6 +312,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDaHR0cHMlM0ElMkYlMkZuaWtsYXNyb3kuY29tJTJGZ3RjJTJGJTdDU2hvdyUyMEhOJTNBJTIwR2xhc2glQzMlQkN0dGUlMjBUcmFzaCUyMENsb2NrJTIwJUUyJTgwJTkzJTIwQSUyMDMwLW1pbnV0ZSUyMHBlbmR1bHVtJTIwY2xvY2slMjBtYWRlJTIwZnJvbSUyMHRyYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5MzA0MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwMiUyME9jdCUyMDIwMjYlMjAwNiUzQTMzJTNBMDYlMjAlMkIwMDAw",
       "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
       "pubDate": "Fri, 02 Oct 2026 06:33:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dWZ0ZXNyYXpvci5zY2llbmNldXgub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZ0dWZ0ZXNyYXpvci5zY2llbmNldXgub3JnJTJGJTdDRGVteXN0aWZ5aW5nJTIwVHVmdGUncyUyMGRhdGEtaW5rJTIwcmF0aW8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0MDA0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDIzJTNBNTUlM0ExNyUyMCUyQjAwMDA",
+      "title": "Demystifying Tufte's data-ink ratio",
+      "pubDate": "Fri, 02 Oct 2026 23:55:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4YWxlamFuZHJlLmNvbSUyRmludGVydmlld3MlMkZwZXRlci1iZXglMkYlN0NodHRwcyUzQSUyRiUyRmFsZXhhbGVqYW5kcmUuY29tJTJGaW50ZXJ2aWV3cyUyRnBldGVyLWJleCUyRiU3Q0ludGVydmlldyUyMHdpdGglMjBDaGlja2VuJTIwU2NoZW1lJTIwTWFpbnRhaW5lciUyMFNqYW1hYW4lMkZQZXRlciUyMEJleCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTM5MzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMjIlM0ExNyUzQTA0JTIwJTJCMDAwMA",
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "pubDate": "Fri, 02 Oct 2026 22:17:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGYXNpYy1wdXp6bGUtcmVzdWx0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qYW5lc3RyZWV0LmNvbSUyRmFzaWMtcHV6emxlLXJlc3VsdHMlMkYlN0NSZXN1bHRzJTIwZnJvbSUyMHRoZSUyMEFTSUMlMjBwdXp6bGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTkzNDA3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDAyJTIwT2N0JTIwMjAyNiUyMDE0JTNBNDIlM0E0NCUyMCUyQjAwMDA",
+      "title": "Results from the ASIC puzzle",
+      "pubDate": "Fri, 02 Oct 2026 14:42:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy50YW9iYWNrdXAuY29tJTJGaW5kZXguaHRtbCU3Q2h0dHAlM0ElMkYlMkZ3d3cudGFvYmFja3VwLmNvbSUyRmluZGV4Lmh0bWwlN0NUaGUlMjBUYW8lMjBvZiUyMEJhY2t1cCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTMyMjM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDIlMjBPY3QlMjAyMDI2JTIwMTElM0ExOSUzQTM2JTIwJTJCMDAwMA",
+      "title": "The Tao of Backup",
+      "pubDate": "Fri, 02 Oct 2026 11:19:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-02-0.json"
     }
   ]

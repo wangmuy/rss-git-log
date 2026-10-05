@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-03",
     "newestItemDate": "2026-10-03",
-    "itemCount": 42,
-    "generatedAt": "2026-10-04T19:42:23.870Z"
+    "itemCount": 45,
+    "generatedAt": "2026-10-05T05:52:40.569Z"
   },
   "items": [
     {
@@ -258,6 +258,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZyZXZpZXclMkZuZWFuZGVydGhhbHMtYW1vbmctdXMtcGV0ZXItc2FobGlucy1yZXZpZXclN0NodHRwcyUzQSUyRiUyRnd3dy5oaXN0b3J5dG9kYXkuY29tJTJGYXJjaGl2ZSUyRnJldmlldyUyRm5lYW5kZXJ0aGFscy1hbW9uZy11cy1wZXRlci1zYWhsaW5zLXJldmlldyU3QydOZWFuZGVydGhhbHMlMjBBbW9uZyUyMFVzJyUyMHJldmlldyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ3NTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMjAlM0E0MSUzQTE1JTIwJTJCMDAwMA",
       "title": "'Neanderthals Among Us' review",
       "pubDate": "Sat, 03 Oct 2026 20:41:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGFubmFkaWdlLmNvbSUyRmJsb2clMkZkYXJrcm9vbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc2hhbm5hZGlnZS5jb20lMkZibG9nJTJGZGFya3Jvb20lMkYlN0NBdXRvbWF0aW5nJTIwbXklMjAzNW1tJTIwZmlsbSUyMHNjYW5uaW5nJTIwcGlwZWxpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0NjE0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDE3JTNBMzUlM0E0MiUyMCUyQjAwMDA",
+      "title": "Automating my 35mm film scanning pipeline",
+      "pubDate": "Sat, 03 Oct 2026 17:35:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29tcHV0ZXJoaXN0b3J5Lm9yZyUyRnJldm9sdXRpb24lMkZzdXBlcmNvbXB1dGVycyUyRjEwJTJGMzMlMkY2MiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNvbXB1dGVyaGlzdG9yeS5vcmclMkZyZXZvbHV0aW9uJTJGc3VwZXJjb21wdXRlcnMlMkYxMCUyRjMzJTJGNjIlN0NXYXRzb24lMjBKci4lMjBtZW1vJTIwYWJvdXQlMjBDREMlMjA2NjAwJTIwKDE5NjMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDM2ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxMiUzQTI3JTNBMzElMjAlMkIwMDAw",
+      "title": "Watson Jr. memo about CDC 6600 (1963)",
+      "pubDate": "Sat, 03 Oct 2026 12:27:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnphcmZob21lLmNvbSUyRjIwMjYlMkYxMCUyRmluZmlkZWwtZ29lcy13aWxkJTdDaHR0cHMlM0ElMkYlMkZibG9nLnphcmZob21lLmNvbSUyRjIwMjYlMkYxMCUyRmluZmlkZWwtZ29lcy13aWxkJTdDSW5maWRlbCUyMGdvZXMlMjB3aWxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDM2MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxMiUzQTE5JTNBNDAlMjAlMkIwMDAw",
+      "title": "Infidel goes wild",
+      "pubDate": "Sat, 03 Oct 2026 12:19:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
     }
   ]
