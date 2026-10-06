@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-03",
     "newestItemDate": "2026-10-03",
-    "itemCount": 47,
-    "generatedAt": "2026-10-05T17:13:07.771Z"
+    "itemCount": 52,
+    "generatedAt": "2026-10-06T06:31:32.132Z"
   },
   "items": [
     {
@@ -288,6 +288,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWxjaGFzZWhvb3Blci5jb20lMkZwb3N0cyUyRnR5cGVjaGVja2VkLWdlbmVyaWMtYy1kYXRhLXN0cnVjdHVyZXMlMkYlN0NodHRwcyUzQSUyRiUyRmRhbmllbGNoYXNlaG9vcGVyLmNvbSUyRnBvc3RzJTJGdHlwZWNoZWNrZWQtZ2VuZXJpYy1jLWRhdGEtc3RydWN0dXJlcyUyRiU3Q1R5cGUlMjBTYWZlJTIwR2VuZXJpYyUyMERhdGElMjBTdHJ1Y3R1cmVzJTIwaW4lMjBDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDM0NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxMSUzQTU3JTNBMjAlMjAlMkIwMDAw",
       "title": "Type Safe Generic Data Structures in C",
       "pubDate": "Sat, 03 Oct 2026 11:57:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNpdHAucHJpbmNldG9uLmVkdSUyRjIwMjYlMkYwOCUyRjAzJTJGYW4tYWxnb3JpdGhtaWMtZmFpbHVyZS1iZW5lYXRoLXRoZS1zZWNyZXQtYmFsbG90JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNpdHAucHJpbmNldG9uLmVkdSUyRjIwMjYlMkYwOCUyRjAzJTJGYW4tYWxnb3JpdGhtaWMtZmFpbHVyZS1iZW5lYXRoLXRoZS1zZWNyZXQtYmFsbG90JTJGJTdDQW4lMjBhbGdvcml0aG1pYyUyMGZhaWx1cmUlMjBiZW5lYXRoJTIwdGhlJTIwc2VjcmV0JTIwYmFsbG90JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDU1ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNiUzQTIzJTNBMDclMjAlMkIwMDAw",
+      "title": "An algorithmic failure beneath the secret ballot",
+      "pubDate": "Sat, 03 Oct 2026 16:23:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpb3BzY2llbmNlLmlvcC5vcmclMkZhcnRpY2xlJTJGMTAuMTA4OCUyRjEzNjEtNjQwNCUyRmFlYTI3MSU3Q2h0dHBzJTNBJTJGJTJGaW9wc2NpZW5jZS5pb3Aub3JnJTJGYXJ0aWNsZSUyRjEwLjEwODglMkYxMzYxLTY0MDQlMkZhZWEyNzElN0NVc2luZyUyMFRoZW1lJTIwcGFyayUyMHJpZGVzJTIwYW5kJTIwc21hcnRwaG9uZXMlMjBmb3IlMjBkZW1vbnN0cmF0aW5nJTIwTmV3dG9uaWFuJTIwbWVjaGFuaWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NDU0NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwMyUyME9jdCUyMDIwMjYlMjAxNiUzQTA3JTNBNTElMjAlMkIwMDAw",
+      "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
+      "pubDate": "Sat, 03 Oct 2026 16:07:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWhtZXRvbWVydiUyRnBob3RvYyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFobWV0b21lcnYlMkZwaG90b2MlN0NTaG93JTIwSE4lM0ElMjBQaG90b2MlMjAlRTIlODAlOTMlMjBDb21tYW5kLWxpbmUlMjB0b29scyUyMGZvciUyMHBob3RvZ3JhcGhlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk0NDE5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDAzJTIwT2N0JTIwMjAyNiUyMDEzJTNBNDIlM0EyMyUyMCUyQjAwMDA",
+      "title": "Show HN: Photoc – Command-line tools for photographers",
+      "pubDate": "Sat, 03 Oct 2026 13:42:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjc2VzLmZpJTJGYm9vayUyRmJvb2sucGRmJTdDaHR0cHMlM0ElMkYlMkZjc2VzLmZpJTJGYm9vayUyRmJvb2sucGRmJTdDQ29tcGV0aXRpdmUlMjBQcm9ncmFtbWVyJ3MlMjBIYW5kYm9vayUyMCgyMDE4KSUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ0MDQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTMlM0EyNCUzQTAxJTIwJTJCMDAwMA",
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "pubDate": "Sat, 03 Oct 2026 13:24:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RlbGFib3VyYXMuY29tJTJGYmxvZyUyRmVudG9tYmVkLXJheWNhc3RlciUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0ZWxhYm91cmFzLmNvbSUyRmJsb2clMkZlbnRvbWJlZC1yYXljYXN0ZXIlMkYlN0NTaG93JTIwSE4lM0ElMjBFbnRvbWJlZCUyMGluJTIwYSUyMFJheWNhc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQzNTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDMlMjBPY3QlMjAyMDI2JTIwMTIlM0ExMyUzQTE1JTIwJTJCMDAwMA",
+      "title": "Show HN: Entombed in a Raycaster",
+      "pubDate": "Sat, 03 Oct 2026 12:13:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-03-0.json"
     }
   ]

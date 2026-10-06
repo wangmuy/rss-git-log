@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-04",
     "newestItemDate": "2026-10-04",
-    "itemCount": 27,
-    "generatedAt": "2026-10-05T17:13:07.771Z"
+    "itemCount": 31,
+    "generatedAt": "2026-10-06T06:31:32.132Z"
   },
   "items": [
     {
@@ -168,6 +168,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRm1vc3F1aXRvZXMtYXJlLWEtY2hvaWNlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRm1vc3F1aXRvZXMtYXJlLWEtY2hvaWNlJTJGJTdDVGhlJTIwdGVjaG5vbG9neSUyMHRvJTIwZXJhZGljYXRlJTIwbW9zcXVpdG8tYm9ybmUlMjBkaXNlYXNlJTIwZXhpc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTYyOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAxOCUzQTA2JTNBMDQlMjAlMkIwMDAw",
       "title": "The technology to eradicate mosquito-borne disease exists",
       "pubDate": "Sun, 04 Oct 2026 18:06:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGZkLXR1ZCUyRmRlZGElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkZmQtdHVkJTJGZGVkYSU3Q0RFREElMjAlRTIlODAlOTMlMjBUcmFja2luZyUyMERvdHMlMjBFeHRyYWN0aW9uJTJDJTIwRGVjb2RpbmclMjBhbmQlMjBBbm9ueW1pc2F0aW9uJTIwVG9vbGtpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTUzMTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMTIlM0EwOSUzQTEwJTIwJTJCMDAwMA",
+      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "pubDate": "Sun, 04 Oct 2026 12:09:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibHVlLWNvbnRpbnV1bS5jb20lMkZ0aGUtbWFuLXdoby1saXN0ZW5zLXRvLXdoYWxlcyU3Q2h0dHBzJTNBJTJGJTJGYmx1ZS1jb250aW51dW0uY29tJTJGdGhlLW1hbi13aG8tbGlzdGVucy10by13aGFsZXMlN0NPY2VhbiUyMHRoZSUyME1hbiUyMFdobyUyMExpc3RlbnMlMjB0byUyMFdoYWxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTUyNDY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMTAlM0ExNSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Ocean the Man Who Listens to Whales",
+      "pubDate": "Sun, 04 Oct 2026 10:15:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbXljay5uZXQlMkYyMDI2JTJGMTAlMkYwMyUyRmhvbG9jcm9uLXRoZS1iYWNrdXAtb2YtbGFzdC1yZXNvcnQlMkYlN0NodHRwcyUzQSUyRiUyRnNteWNrLm5ldCUyRjIwMjYlMkYxMCUyRjAzJTJGaG9sb2Nyb24tdGhlLWJhY2t1cC1vZi1sYXN0LXJlc29ydCUyRiU3Q1VzaW5nJTIwQmx1LXJheSUyME0tRGlzayUyMGFzJTIwYmFja3VwJTIwb2YlMjBsYXN0JTIwcmVzb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTE2OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwNCUyME9jdCUyMDIwMjYlMjAwOCUzQTAzJTNBMjQlMjAlMkIwMDAw",
+      "title": "Using Blu-ray M-Disk as backup of last resort",
+      "pubDate": "Sun, 04 Oct 2026 08:03:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbWFydGhvbWVzY2VuZS5jb20lMkZyZXZpZXdzJTJGYmVzdC1zZWxsaW5nLXppZ2JlZS10ZW1wZXJhdHVyZS1zZW5zb3JzLXRlc3RlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGc21hcnRob21lc2NlbmUuY29tJTJGcmV2aWV3cyUyRmJlc3Qtc2VsbGluZy16aWdiZWUtdGVtcGVyYXR1cmUtc2Vuc29ycy10ZXN0ZWQlMkYlN0NUZXN0aW5nJTIwMTIlMjBkaWZmZXJlbnQlMjBaaWdiZWUlMjB0ZW1wZXJhdHVyZSUyRmh1bWlkaXR5JTIwc2Vuc29ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTUwNjUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMDQlM0EzMCUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "pubDate": "Sun, 04 Oct 2026 04:30:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-05",
     "newestItemDate": "2026-10-05",
-    "itemCount": 19,
-    "generatedAt": "2026-10-05T17:13:07.771Z"
+    "itemCount": 35,
+    "generatedAt": "2026-10-06T06:31:32.132Z"
   },
   "items": [
     {
@@ -120,6 +120,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHVhd2VpLmNvbSUyRmVuJTJGbmV3cyUyRjIwMjYlMkYxMCUyRnF1YWxjb21tLWJyb2FkLXBhdGVudC1hZ3JlZW1lbnQlN0NodHRwcyUzQSUyRiUyRnd3dy5odWF3ZWkuY29tJTJGZW4lMkZuZXdzJTJGMjAyNiUyRjEwJTJGcXVhbGNvbW0tYnJvYWQtcGF0ZW50LWFncmVlbWVudCU3Q0h1YXdlaSUyMGFuZCUyMFF1YWxjb21tJTIwQW5ub3VuY2UlMjBCcm9hZCUyMFBhdGVudCUyMExpY2Vuc2UlMjBBZ3JlZW1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk2MTg2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDA3JTNBNDYlM0ExMCUyMCUyQjAwMDA",
       "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
       "pubDate": "Mon, 05 Oct 2026 07:46:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZkZXNpZ24lMkYyMDI2LTEwLTAzLWd3ZXJuLXNhbW9uLmh0bWwlN0NodHRwcyUzQSUyRiUyRmd3ZXJuLm5ldCUyRmRvYyUyRmRlc2lnbiUyRjIwMjYtMTAtMDMtZ3dlcm4tc2Ftb24uaHRtbCU3Q1NhbW9uJTNBJTIwRGVzaWduaW5nJTIwYSUyMFplbiUyMEdhcmRlbiUyMFJha2luZyUyMFB1enpsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTcyMjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMjMlM0EzNSUzQTM1JTIwJTJCMDAwMA",
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "pubDate": "Mon, 05 Oct 2026 23:35:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZW1pcmUubWUlMkZibG9nJTJGMjAyNiUyRjEwJTJGMDUlMkZlcGhlbWVyYWwtdGVzdGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVtaXJlLm1lJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjA1JTJGZXBoZW1lcmFsLXRlc3RpbmclMkYlN0NFcGhlbWVyYWwlMjBUZXN0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzIwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAyMyUzQTA2JTNBMzYlMjAlMkIwMDAw",
+      "title": "Ephemeral Testing",
+      "pubDate": "Mon, 05 Oct 2026 23:06:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVidWdiZWFyLmNvbSUyRmJsb2clMkZleGFtcGxlLWRvdC1jb20tcmVkZXNpZ24taGlzdG9yeSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRlYnVnYmVhci5jb20lMkZibG9nJTJGZXhhbXBsZS1kb3QtY29tLXJlZGVzaWduLWhpc3RvcnklN0NFeGFtcGxlLmNvbSUyMGp1c3QlMjBsYXVuY2hlZCUyMHRoZSUyMGJpZ2dlc3QlMjByZWRlc2lnbiUyMGluJTIwZGVjYWRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTcxOTIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMjIlM0E1NSUzQTExJTIwJTJCMDAwMA",
+      "title": "Example.com just launched the biggest redesign in decades",
+      "pubDate": "Mon, 05 Oct 2026 22:55:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmllbWFubGFiLm9yZyUyRjIwMjYlMkYxMCUyRmNoYXRncHQtaXMtYWRkaW5nLXJlYWwtY2FydG9vbmlzdHMtc2lnbmF0dXJlcy10by1mYWtlLW5ldy15b3JrZXItY2FydG9vbnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uaWVtYW5sYWIub3JnJTJGMjAyNiUyRjEwJTJGY2hhdGdwdC1pcy1hZGRpbmctcmVhbC1jYXJ0b29uaXN0cy1zaWduYXR1cmVzLXRvLWZha2UtbmV3LXlvcmtlci1jYXJ0b29ucyUyRiU3Q0NoYXRHUFQlMjBpcyUyMGFkZGluZyUyMHJlYWwlMjBjYXJ0b29uaXN0cyclMjBzaWduYXR1cmVzJTIwdG8lMjBmYWtlJTIwTmV3JTIwWW9ya2VyJTIwY2FydG9vbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3MTg0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDIyJTNBNDYlM0E0NSUyMCUyQjAwMDA",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "pubDate": "Mon, 05 Oct 2026 22:46:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbG9iYWxzb2xhcmF0bGFzLmluZm8lMkYlN0NodHRwcyUzQSUyRiUyRmdsb2JhbHNvbGFyYXRsYXMuaW5mbyUyRiU3Q0dsb2JhbCUyMFNvbGFyJTIwQXRsYXMlM0ElMjBzdW1tYXJ5JTIwb2YlMjBzb2xhciUyMHBvd2VyJTIwcG90ZW50aWFsJTIwZ2xvYmFsbHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3MTc4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDIyJTNBMzclM0E1OCUyMCUyQjAwMDA",
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "pubDate": "Mon, 05 Oct 2026 22:37:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYnVzaGVsbC5jb20lMkYyMDI2JTJGMTAlMkYwMyUyRmRlbm8tdG8tbm9kZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGJ1c2hlbGwuY29tJTJGMjAyNiUyRjEwJTJGMDMlMkZkZW5vLXRvLW5vZGUlMkYlN0NGcmllbmRzaGlwJTIwZW5kZWQlMjB3aXRoJTIwRGVubyUyQyUyMG5vdyUyME5vZGUlMjBpcyUyMG15JTIwYmVzdCUyMGZyaWVuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTcxNzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMjIlM0EzMCUzQTAyJTIwJTJCMDAwMA",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "pubDate": "Mon, 05 Oct 2026 22:30:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMCUyRnRleGFzLWNpdHktZGVtYW5kcy0ybS1mb3ItcHVibGljLXJlY29yZHMtb24tZmxvY2stdXNhZ2UlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRnRlY2gtcG9saWN5JTJGMjAyNiUyRjEwJTJGdGV4YXMtY2l0eS1kZW1hbmRzLTJtLWZvci1wdWJsaWMtcmVjb3Jkcy1vbi1mbG9jay11c2FnZSUyRiU3Q1RleGFzJTIwY2l0eSUyMGRlbWFuZHMlMjAlMjQyTSUyMGZvciUyMHB1YmxpYyUyMHJlY29yZHMlMjBvbiUyMEZsb2NrJTIwdXNhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3MTUyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDIyJTNBMDUlM0E1NyUyMCUyQjAwMDA",
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "pubDate": "Mon, 05 Oct 2026 22:05:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbGF0dGVuc2YuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZmbGF0dGVuc2YuY29tJTJGJTdDRmluZCUyMHRoZSUyMGZsYXR0ZXN0JTIwcm91dGUlMjBiZXR3ZWVuJTIwYW55JTIwdHdvJTIwcG9pbnRzJTIwaW4lMjBTRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTcxMjMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMjElM0E0MCUzQTUwJTIwJTJCMDAwMA",
+      "title": "Find the flattest route between any two points in SF",
+      "pubDate": "Mon, 05 Oct 2026 21:40:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxbGFicy5zaCUyRnJlc2VhcmNoJTJGZHVzdCU3Q2h0dHBzJTNBJTJGJTJGcWxhYnMuc2glMkZyZXNlYXJjaCUyRmR1c3QlN0NEdXN0JTNBJTIwUHJldHJhaW5pbmclMjBUcmFuc2Zvcm1lcnMlMjBXaXRob3V0JTIwQmFja3Byb3BhZ2F0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzA4NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAyMSUzQTE1JTNBMDclMjAlMkIwMDAw",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "pubDate": "Mon, 05 Oct 2026 21:15:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmFscy5haSUyRmJsb2dzJTJGcm9vbS10ZW1wZXJhdHVyZS1tYWduZXRpYy1zZW1pY29uZHVjdG9ycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnZhbHMuYWklMkZibG9ncyUyRnJvb20tdGVtcGVyYXR1cmUtbWFnbmV0aWMtc2VtaWNvbmR1Y3RvcnMlN0NPcHVzJTIwNS41JTIwYWdlbnRzJTIwZGlzY292ZXIlMjB0d28lMjByb29tLXRlbXBlcmF0dXJlJTIwbWFnbmV0aWMlMjBzZW1pY29uZHVjdG9yJTIwY2FuZGlkYXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTcwNjY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMjElM0EwMCUzQTIxJTIwJTJCMDAwMA",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "pubDate": "Mon, 05 Oct 2026 21:00:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWZsZWN0aW9uLmFpJTJGYmxvZyUyRmludHJvZHVjaW5nLWJlYW0lN0NodHRwcyUzQSUyRiUyRnJlZmxlY3Rpb24uYWklMkZibG9nJTJGaW50cm9kdWNpbmctYmVhbSU3Q0JlYW0lM0ElMjBSZWZsZWN0aW9uJ3MlMjA1MDFCJTIwb3Blbi13ZWlnaHQlMjBtb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTY5MTgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTklM0ExNiUzQTM1JTIwJTJCMDAwMA",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "pubDate": "Mon, 05 Oct 2026 19:16:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnNsYW4uaW8lMkYyMDI2JTJGMTAlMkYwNSUyRnRoZS1sYW1wcy1pbi1teS1ob3VzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzbGFuLmlvJTJGMjAyNiUyRjEwJTJGMDUlMkZ0aGUtbGFtcHMtaW4tbXktaG91c2UlMkYlN0NUaGUlMjBsYW1wcyUyMGluJTIwbXklMjBob3VzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTY1MTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTQlM0ExMiUzQTE0JTIwJTJCMDAwMA",
+      "title": "The lamps in my house",
+      "pubDate": "Mon, 05 Oct 2026 14:12:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmxpenppZS5pbyUyRmxpbnV4LWNvbnRhaW5lcnMtaW4tNTAwLWxvYy5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLmxpenppZS5pbyUyRmxpbnV4LWNvbnRhaW5lcnMtaW4tNTAwLWxvYy5odG1sJTdDTGludXglMjBjb250YWluZXJzJTIwaW4lMjA1MDAlMjBsaW5lcyUyMG9mJTIwY29kZSUyMCgyMDE2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTY1MTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTQlM0EwOSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "pubDate": "Mon, 05 Oct 2026 14:09:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdHJhdGVjaGVyeS5jb20lMkYyMDI2JTJGYXBwbGUtYW5kLWEtaGFja2Vycy1mdXR1cmUlMkYlN0NodHRwcyUzQSUyRiUyRnN0cmF0ZWNoZXJ5LmNvbSUyRjIwMjYlMkZhcHBsZS1hbmQtYS1oYWNrZXJzLWZ1dHVyZSUyRiU3Q0FwcGxlJTIwYW5kJTIwYSUyMGhhY2tlcidzJTIwZnV0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjI4NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAxMCUzQTA1JTNBMDIlMjAlMkIwMDAw",
+      "title": "Apple and a hacker's future",
+      "pubDate": "Mon, 05 Oct 2026 10:05:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMTAtMDUlMkZxdWFsY29tbS1saWNlbnNlcy1wYXRlbnRzLW9uLWh1YXdlaS1zLWxvZ2ljZm9sZGluZy1jaGlwLXRlY2glN0NodHRwcyUzQSUyRiUyRnd3dy5ibG9vbWJlcmcuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGMjAyNi0xMC0wNSUyRnF1YWxjb21tLWxpY2Vuc2VzLXBhdGVudHMtb24taHVhd2VpLXMtbG9naWNmb2xkaW5nLWNoaXAtdGVjaCU3Q1F1YWxjb21tJTIwbGljZW5zZXMlMjBwYXRlbnRzJTIwb24lMjBIdWF3ZWklRTIlODAlOTlzJTIwTG9naWNGb2xkaW5nJTIwY2hpcCUyMHRlY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk2MTg2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA1JTIwT2N0JTIwMjAyNiUyMDA3JTNBNDYlM0ExMCUyMCUyQjAwMDA",
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "pubDate": "Mon, 05 Oct 2026 07:46:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExNDA5MS1mbG9yaWRhLXdvbWFuLXVzZWQtY2xhdWRlLWRpYXJ5LWFudGhyb3BpYy1yZXBvcnRlZC1zaG9vdC5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExNDA5MS1mbG9yaWRhLXdvbWFuLXVzZWQtY2xhdWRlLWRpYXJ5LWFudGhyb3BpYy1yZXBvcnRlZC1zaG9vdC5odG1sJTdDQW50aHJvcGljJTIwcmVwb3J0ZWQlMjBkaWFyeSUyMGVudHJ5JTIwdG8lMjBwb2xpY2UlMkMlMjB3b21hbiUyMGZhY2VzJTIwZmVsb255JTIwY2hhcmdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NjEwNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAwNSUzQTM3JTNBNDAlMjAlMkIwMDAw",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "pubDate": "Mon, 05 Oct 2026 05:37:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
     }
   ]
