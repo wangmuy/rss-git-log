@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 3,
-    "generatedAt": "2026-10-06T06:31:32.131Z"
+    "itemCount": 20,
+    "generatedAt": "2026-10-06T15:17:48.324Z"
   },
   "items": [
     {
@@ -24,6 +24,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZHJpdmUuY29tJTJGbmV3cyUyRmhpZ2gtZGllc2VsLXByaWNlcy1iYW5rcnVwdGVkLTE2LXRydWNraW5nLWNvbXBhbmllcy1pbi1qdXN0LTMwLWRheXMlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVkcml2ZS5jb20lMkZuZXdzJTJGaGlnaC1kaWVzZWwtcHJpY2VzLWJhbmtydXB0ZWQtMTYtdHJ1Y2tpbmctY29tcGFuaWVzLWluLWp1c3QtMzAtZGF5cyU3Q0hpZ2glMjBEaWVzZWwlMjBQcmljZXMlMjBCYW5rcnVwdGVkJTIwMTYlMjBUcnVja2luZyUyMENvbXBhbmllcyUyMGluJTIwSnVzdCUyMDMwJTIwRGF5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTcyNjA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMDAlM0EyNCUzQTU3JTIwJTJCMDAwMA",
       "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
       "pubDate": "Tue, 06 Oct 2026 00:24:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXV0b2RpZGFjdHMuaW8lMkZ2aWJlY29kaW5nLWlzbnQtYXMtZnVuLWFzLXdyaXRpbmctY29kZS1ieS1oYW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXV0b2RpZGFjdHMuaW8lMkZ2aWJlY29kaW5nLWlzbnQtYXMtZnVuLWFzLXdyaXRpbmctY29kZS1ieS1oYW5kJTJGJTdDVmliZWNvZGluZyUyMGlzbid0JTIwYXMlMjBmdW4lMjBhcyUyMHdyaXRpbmclMjBjb2RlJTIwYnklMjBoYW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzkzMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxNCUzQTQ1JTNBMDIlMjAlMkIwMDAw",
+      "title": "Vibecoding isn't as fun as writing code by hand",
+      "pubDate": "Tue, 06 Oct 2026 14:45:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWhhaS5kaW5jdWxlc2N1LmRldiUyRnBvc3RzJTJGdGFwby1zcGVha3MtdHBhcCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWloYWkuZGluY3VsZXNjdS5kZXYlMkZwb3N0cyUyRnRhcG8tc3BlYWtzLXRwYXAlMkYlN0NUYXBvJTIwKFJ1c3QlMkZQeXRob24lMjBsaWJyYXJ5KSUyMG5vdyUyMHNwZWFrcyUyMFRQLUxpbmsncyUyMFRQQVAlMjBwcm90b2NvbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc4NTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTMlM0E1NSUzQTM3JTIwJTJCMDAwMA",
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "pubDate": "Tue, 06 Oct 2026 13:55:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3RidXMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZqb3RidXMuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwSm90YnVzJTIwJUUyJTgwJTkzJTIwYSUyMHNoYXJlZCUyMGVuY3J5cHRlZCUyMHNjcmF0Y2hwYWQlMjBmb3IlMjBjb2RpbmclMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3ODQwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEzJTNBNDUlM0EwNCUyMCUyQjAwMDA",
+      "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
+      "pubDate": "Tue, 06 Oct 2026 13:45:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFyc2VhYmxlLmNvbSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhcnNlYWJsZS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBQYXJzZWFibGUlMkMlMjBhbiUyMG9wZW4lMjBvYnNlcnZhYmlsaXR5JTIwZGF0YWxha2UlMkMlMjBoYW5kbGVzJTIwMTAwTSUyMHRpbWUtc2VyaWVzJTJGbWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzgxNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMyUzQTMwJTNBNTAlMjAlMkIwMDAw",
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "pubDate": "Tue, 06 Oct 2026 13:30:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwtbGFyZ2UtNCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWlzdHJhbC5haSUyRm5ld3MlMkZtaXN0cmFsLWxhcmdlLTQlMkYlN0NNaXN0cmFsJTIwTGFyZ2UlMjA0JTNBJTIwJTIyTGUlMjBDaG9uayUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc4MTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTMlM0EyNSUzQTUwJTIwJTJCMDAwMA",
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "pubDate": "Tue, 06 Oct 2026 13:25:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLm1pc3RyYWwuYWklMkZtb2RlbHMlMkZtaXN0cmFsLWxhcmdlLTQtMCU3Q2h0dHBzJTNBJTJGJTJGZG9jcy5taXN0cmFsLmFpJTJGbW9kZWxzJTJGbWlzdHJhbC1sYXJnZS00LTAlN0NNaXN0cmFsJTIwTGFyZ2UlMjA0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Nzc5NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMyUzQTE1JTNBNDklMjAlMkIwMDAw",
+      "title": "Mistral Large 4",
+      "pubDate": "Tue, 06 Oct 2026 13:15:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRk1pc3RyYWxBSSUyRnN0YXR1cyUyRjIxMDc0NTY1ODY4MTM3MzA4NTQlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGTWlzdHJhbEFJJTJGc3RhdHVzJTJGMjEwNzQ1NjU4NjgxMzczMDg1NCU3Q01pc3RyYWwlMjBMYXJnZSUyMDQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3Nzg0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEzJTNBMDYlM0ExNiUyMCUyQjAwMDA",
+      "title": "Mistral Large 4",
+      "pubDate": "Tue, 06 Oct 2026 13:06:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5zb2NpYWwlMkYlNDBiYWdkZXIlMkYxMTczOTI1NzMyNjgyMjU2NDYlN0NodHRwcyUzQSUyRiUyRm1hc3RvZG9uLnNvY2lhbCUyRiU0MGJhZ2RlciUyRjExNzM5MjU3MzI2ODIyNTY0NiU3Q1R3byUyMEFSTTY0LXNwZWNpZmljJTIwY29tcGlsZXIlMjBvcHRpbWl6YXRpb24lMjBidWdzJTJDJTIwaW4lMjBHQ0MlMjAxNSUyRjE2JTIwYW5kJTIwUnVzdCUyQyUyMGhpdCUyMGN1cmwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NzgzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEzJTNBMDYlM0EwMCUyMCUyQjAwMDA",
+      "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
+      "pubDate": "Tue, 06 Oct 2026 13:06:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWJzY28uY29tJTJGcmVzZWFyY2gtc3RhcnRlcnMlMkZwb3dlci1hbmQtZW5lcmd5JTJGbWF0aGVtYXRpY3MtZ2VvdGhlcm1hbC1lbmVyZ3klMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5lYnNjby5jb20lMkZyZXNlYXJjaC1zdGFydGVycyUyRnBvd2VyLWFuZC1lbmVyZ3klMkZtYXRoZW1hdGljcy1nZW90aGVybWFsLWVuZXJneSUyRiU3Q01hdGhlbWF0aWNzJTIwb2YlMjBHZW90aGVybWFsJTIwRW5lcmd5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Nzc4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMyUzQTA1JTNBMjYlMjAlMkIwMDAw",
+      "title": "Mathematics of Geothermal Energy",
+      "pubDate": "Tue, 06 Oct 2026 13:05:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaGRpcnQuY29tJTJGMjAyNiUyRjEwJTJGMDYlMkZtZXRhcy1tdXNlLWlzLWFuLWFkb3JhYmxlLXByaXZhY3ktYW5kLXNlY3VyaXR5LWR1bXBzdGVyLWZpcmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNoZGlydC5jb20lMkYyMDI2JTJGMTAlMkYwNiUyRm1ldGFzLW11c2UtaXMtYW4tYWRvcmFibGUtcHJpdmFjeS1hbmQtc2VjdXJpdHktZHVtcHN0ZXItZmlyZSUyRiU3Q01ldGEncyUyME11c2UlMjBJcyUyMGFuJTIwQWRvcmFibGUlMjBQcml2YWN5JTIwYW5kJTIwU2VjdXJpdHklMjBEdW1wc3RlciUyMEZpcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NzU4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEyJTNBNDUlM0E0OSUyMCUyQjAwMDA",
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "pubDate": "Tue, 06 Oct 2026 12:45:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjA2NzgzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjA2NzgzJTdDU3VicXVhZHJhdGljJTIwM1NVTSUyMGFuZCUyMFN1YmN1YmljJTIwQVBTUCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc3NDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTIlM0EzMSUzQTE3JTIwJTJCMDAwMA",
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "pubDate": "Tue, 06 Oct 2026 12:31:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb2xhLnJzJTJGcG9zdHMlMkZyZWxlYXNlLXBvbGFycy0yJTJGJTdDaHR0cHMlM0ElMkYlMkZwb2xhLnJzJTJGcG9zdHMlMkZyZWxlYXNlLXBvbGFycy0yJTJGJTdDUmVsZWFzZSUyMG9mJTIwUG9sYXJzJTIwMi4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzcxNzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMSUzQTU5JTNBMDElMjAlMkIwMDAw",
+      "title": "Release of Polars 2.0",
+      "pubDate": "Tue, 06 Oct 2026 11:59:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVsZ2lsaWJyYXJ5LmNvbSUyRmNvbXBhbmllcyUyRmpldGJyYWlucyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmhlbGdpbGlicmFyeS5jb20lMkZjb21wYW5pZXMlMkZqZXRicmFpbnMlN0NKZXRCcmFpbnMlMjByZXBvcnRlZCUyMGElMjBuZXQlMjBmaW5hbmNpYWwlMjBsb3NzJTIwZmlyc3QlMjB0aW1lJTIwaW4lMjBpdHMlMjB0cmFja2VkJTIwaGlzdG9yeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc3MDcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTElM0E0NSUzQTU1JTIwJTJCMDAwMA",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "pubDate": "Tue, 06 Oct 2026 11:45:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYxMCUyRjAxJTJGd29ybGRzLWZpcnN0LWVuaGFuY2VkLWdlb3RoZXJtYWwtcG93ZXItcGxhbnQtY29tcGxldGVkLWluLWp1c3QtMjMtbW9udGhzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYxMCUyRjAxJTJGd29ybGRzLWZpcnN0LWVuaGFuY2VkLWdlb3RoZXJtYWwtcG93ZXItcGxhbnQtY29tcGxldGVkLWluLWp1c3QtMjMtbW9udGhzJTJGJTdDV29ybGQncyUyMEZpcnN0JTIwZW5oYW5jZWQlMjBnZW90aGVybWFsJTIwcG93ZXIlMjBwbGFudCUyMGNvbXBsZXRlZCUyMGluJTIwanVzdCUyMDIzJTIwbW9udGhzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzY5OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMSUzQTM0JTNBMTQlMjAlMkIwMDAw",
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "pubDate": "Tue, 06 Oct 2026 11:34:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTEwLW5hdHVyZS1jYXBhY2l0eS1zcGVjaWVzLWxvc3QtdmFzdGx5Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnBoeXMub3JnJTJGbmV3cyUyRjIwMjYtMTAtbmF0dXJlLWNhcGFjaXR5LXNwZWNpZXMtbG9zdC12YXN0bHkuaHRtbCU3Q05hdHVyZSdzJTIwY2FwYWNpdHklMjB0byUyMCdib3VuY2UlMjBiYWNrJyUyMHdoZW4lMjBzcGVjaWVzJTIwYXJlJTIwbG9zdCUyMGlzJTIwdmFzdGx5JTIwb3ZlcmVzdGltYXRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc2ODIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTElM0ExMSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "pubDate": "Tue, 06 Oct 2026 11:11:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZwaHlzaWNzJTJGMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vYmVscHJpemUub3JnJTJGcHJpemVzJTJGcGh5c2ljcyUyRjIwMjYlMkYlN0NOb2JlbCUyMFByaXplJTIwaW4lMjBQaHlzaWNzJTIwZ29lcyUyMHRvJTIwRnJhbmNpcyUyMEhhbHplbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc2MjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMDklM0E0OCUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "pubDate": "Tue, 06 Oct 2026 09:48:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbGVhbS5ydW4lMkZuZXdzJTJGZ2xlYW0tZG9lc250LWNvbXBpbGUtdG8tZXJsYW5nLXNvdXJjZS1hbnltb3JlJTJGJTdDaHR0cHMlM0ElMkYlMkZnbGVhbS5ydW4lMkZuZXdzJTJGZ2xlYW0tZG9lc250LWNvbXBpbGUtdG8tZXJsYW5nLXNvdXJjZS1hbnltb3JlJTJGJTdDR2xlYW0lMjBkb2Vzbid0JTIwY29tcGlsZSUyMHRvJTIwRXJsYW5nJTIwc291cmNlJTIwYW55bW9yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc1NjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMDglM0EwOCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "pubDate": "Tue, 06 Oct 2026 08:08:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]
