@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 20,
-    "generatedAt": "2026-10-06T15:17:48.324Z"
+    "itemCount": 37,
+    "generatedAt": "2026-10-06T21:02:50.168Z"
   },
   "items": [
     {
@@ -126,6 +126,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnbGVhbS5ydW4lMkZuZXdzJTJGZ2xlYW0tZG9lc250LWNvbXBpbGUtdG8tZXJsYW5nLXNvdXJjZS1hbnltb3JlJTJGJTdDaHR0cHMlM0ElMkYlMkZnbGVhbS5ydW4lMkZuZXdzJTJGZ2xlYW0tZG9lc250LWNvbXBpbGUtdG8tZXJsYW5nLXNvdXJjZS1hbnltb3JlJTJGJTdDR2xlYW0lMjBkb2Vzbid0JTIwY29tcGlsZSUyMHRvJTIwRXJsYW5nJTIwc291cmNlJTIwYW55bW9yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc1NjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMDglM0EwOCUzQTIwJTIwJTJCMDAwMA",
       "title": "Gleam doesn't compile to Erlang source anymore",
       "pubDate": "Tue, 06 Oct 2026 08:08:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRmJyaXRpc2gtY29sdW1iaWElMkZtb3RoZXItam9uZXMtY2hhdGdwdC1zYWZlZ3VhcmRzLXR1bWJsZXItcmlkZ2UtYmMtc2hvb3Rlci05LjczNTgwMzElN0NodHRwcyUzQSUyRiUyRnd3dy5jYmMuY2ElMkZuZXdzJTJGY2FuYWRhJTJGYnJpdGlzaC1jb2x1bWJpYSUyRm1vdGhlci1qb25lcy1jaGF0Z3B0LXNhZmVndWFyZHMtdHVtYmxlci1yaWRnZS1iYy1zaG9vdGVyLTkuNzM1ODAzMSU3Q1R1bWJsZXIlMjBSaWRnZSUyMHNob290ZXIncyUyMENoYXRHUFQlMjB1c2UlMjAlMjJtb3JlJTIwZGlzdHVyYmluZyUyMiUyMHRoYW4lMjBrbm93biUzQSUyMHJlcG9ydGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODM4MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAyMCUzQTQ0JTNBMjklMjAlMkIwMDAw",
+      "title": "Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter",
+      "pubDate": "Tue, 06 Oct 2026 20:44:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnNzaC5vcmclMkZyZWxlYXNlbm90ZXMuaHRtbCUyMzEwLjYlN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVuc3NoLm9yZyUyRnJlbGVhc2Vub3Rlcy5odG1sJTIzMTAuNiU3Q09wZW5TU0glMjAxMC42JTIwUmVsZWFzZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk4Mzc5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDIwJTNBNDElM0EzOSUyMCUyQjAwMDA",
+      "title": "OpenSSH 10.6 Released",
+      "pubDate": "Tue, 06 Oct 2026 20:41:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMCUyRnBhcmFtb3VudC1jb21wbGV0ZXMtMTExYi13YXJuZXItbWVyZ2VyLWNyZWF0aW5nLXNreWRhbmNlLWJlaGVtb3RoJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMCUyRnBhcmFtb3VudC1jb21wbGV0ZXMtMTExYi13YXJuZXItbWVyZ2VyLWNyZWF0aW5nLXNreWRhbmNlLWJlaGVtb3RoJTJGJTdDUGFyYW1vdW50JTIwY29tcGxldGVzJTIwJTI0MTExQiUyMFdhcm5lciUyMG1lcmdlciUyQyUyMGNyZWF0aW5nJTIwJTIyU2t5ZGFuY2UlMjIlMjBiZWhlbW90aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgzNzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMjAlM0EzMyUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+      "pubDate": "Tue, 06 Oct 2026 20:33:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXZpbmJvb25lLm1lJTJGYWRibG9jay5odG1sJTdDaHR0cHMlM0ElMkYlMkZrZXZpbmJvb25lLm1lJTJGYWRibG9jay5odG1sJTdDU3lzdGVtLWxldmVsJTIwYWQtYmxvY2tpbmclMjBpbiUyMEFuZHJvaWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk4MzY0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDIwJTNBMjklM0ExMCUyMCUyQjAwMDA",
+      "title": "System-level ad-blocking in Android",
+      "pubDate": "Tue, 06 Oct 2026 20:29:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW1lLmNvbSUyRmFydGljbGUlMkYyMDI2JTJGMTAlMkYwNiUyRm1ldGEtbXVzZS1haS1hZ2VudC1wcml2YWN5JTJGJTdDaHR0cHMlM0ElMkYlMkZ0aW1lLmNvbSUyRmFydGljbGUlMkYyMDI2JTJGMTAlMkYwNiUyRm1ldGEtbXVzZS1haS1hZ2VudC1wcml2YWN5JTJGJTdDTWV0YSdzJTIwTXVzZSUyMEFJJTIwYWdlbnQlMjBpcyUyMGJ1aWxkaW5nJTIwYSUyMGRvc3NpZXIlMjBvbiUyMHlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgzNTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMjAlM0EyNCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Meta's Muse AI agent is building a dossier on you",
+      "pubDate": "Tue, 06 Oct 2026 20:24:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZsYXdtYWtlcnMtaW50cm9kdWNlLW11bHRpcGxlLWxhd3MtdG8tY3VyYi1mbG9jay1hZnRlci00MDQtbWVkaWEtY292ZXJhZ2UlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy40MDRtZWRpYS5jbyUyRmxhd21ha2Vycy1pbnRyb2R1Y2UtbXVsdGlwbGUtbGF3cy10by1jdXJiLWZsb2NrLWFmdGVyLTQwNC1tZWRpYS1jb3ZlcmFnZSUyRiU3Q0xhd21ha2VycyUyMEludHJvZHVjZSUyME11bHRpcGxlJTIwTGF3cyUyMHRvJTIwQ3VyYiUyMEZsb2NrJTIwQWZ0ZXIlMjA0MDQlMjBNZWRpYSUyMENvdmVyYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODMyMjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxOSUzQTU1JTNBMTElMjAlMkIwMDAw",
+      "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
+      "pubDate": "Tue, 06 Oct 2026 19:55:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYnVzaGVsbC5jb20lMkYyMDI2JTJGMTAlMkYwNyUyRnN1c3RhaW5hYmxlLXdlYi1jYXJlZXIlMkYlN0NodHRwcyUzQSUyRiUyRmRidXNoZWxsLmNvbSUyRjIwMjYlMkYxMCUyRjA3JTJGc3VzdGFpbmFibGUtd2ViLWNhcmVlciUyRiU3Q0ElMjBzdXN0YWluYWJsZSUyMHdlYiUyMGNhcmVlciUyQyUyMGZvciUyMHdoZW4lMjBhbGwlMjB0aGlzJTIwYmxvd3MlMjBvdmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODI5MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxOSUzQTMxJTNBMjQlMjAlMkIwMDAw",
+      "title": "A sustainable web career, for when all this blows over",
+      "pubDate": "Tue, 06 Oct 2026 19:31:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXRpemVubGFiLmNhJTJGdG9yb250by1iYXNlZC12cG4tcHJvdmlkZXItcGxhbnMtdG8tcXVpdC1jYW5hZGEtb3Zlci1sYXdmdWwtYWNjZXNzLWJpbGwlMkYlN0NodHRwcyUzQSUyRiUyRmNpdGl6ZW5sYWIuY2ElMkZ0b3JvbnRvLWJhc2VkLXZwbi1wcm92aWRlci1wbGFucy10by1xdWl0LWNhbmFkYS1vdmVyLWxhd2Z1bC1hY2Nlc3MtYmlsbCUyRiU3Q1Rvcm9udG8tQmFzZWQlMjBWUE4lMjBQcm92aWRlciUyMFBsYW5zJTIwdG8lMjBRdWl0JTIwQ2FuYWRhJTIwb3ZlciUyMExhd2Z1bC1BY2Nlc3MlMjBCaWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODI0NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxOCUzQTUyJTNBMTglMjAlMkIwMDAw",
+      "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+      "pubDate": "Tue, 06 Oct 2026 18:52:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmRldmVsb3BlcnMtdG9vbHMlMkZlbWJlZGRpbmdnZW1tYS0yJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmRldmVsb3BlcnMtdG9vbHMlMkZlbWJlZGRpbmdnZW1tYS0yJTJGJTdDRW1iZWRkaW5nR2VtbWElMjAyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODA0ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxNiUzQTAzJTNBNDklMjAlMkIwMDAw",
+      "title": "EmbeddingGemma 2",
+      "pubDate": "Tue, 06 Oct 2026 16:03:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JyeWRyZWFtLmNvbSUyRkVhcmx5SGlzdG9yeU9mU21hbGx0YWxrJTJGJTdDaHR0cHMlM0ElMkYlMkZ3b3JyeWRyZWFtLmNvbSUyRkVhcmx5SGlzdG9yeU9mU21hbGx0YWxrJTJGJTdDVGhlJTIwRWFybHklMjBIaXN0b3J5JTIwb2YlMjBTbWFsbHRhbGslMjAoMTk5MyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3OTg0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDE1JTNBMTklM0E1NyUyMCUyQjAwMDA",
+      "title": "The Early History of Smalltalk (1993)",
+      "pubDate": "Tue, 06 Oct 2026 15:19:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZXRlcnN6ZW50a2lyYWx5aS5ldSUyRmRhcmtwbHVnJTJGJTdDaHR0cHMlM0ElMkYlMkZwZXRlcnN6ZW50a2lyYWx5aS5ldSUyRmRhcmtwbHVnJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSUyMHR1cm5lZCUyMG15JTIwaVBob25lJTIwYW5kJTIwYSUyMCUyNDIwJTIwc21hcnQlMjBwbHVnJTIwaW50byUyMGFuJTIwZi1zdG9wJTIwdGltZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3ODU5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEzJTNBNTglM0EwNyUyMCUyQjAwMDA",
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "pubDate": "Tue, 06 Oct 2026 13:58:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwtbGFyZ2UtNCUyRiU1QyU3Q2h0dHBzJTNBJTJGJTJGbWlzdHJhbC5haSUyRm5ld3MlMkZtaXN0cmFsLWxhcmdlLTQlMkYlMkYlN0NNaXN0cmFsJTIwTGFyZ2UlMjA0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5Nzc5NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMyUzQTE1JTNBNDklMjAlMkIwMDAw",
+      "title": "Mistral Large 4",
+      "pubDate": "Tue, 06 Oct 2026 13:15:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXJkb3Nwcm9ibGVtcy5jb20lMkZmb3J1bSUyRnRocmVhZCUyRmJsb2clM0E5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuZXJkb3Nwcm9ibGVtcy5jb20lMkZmb3J1bSUyRnRocmVhZCUyRmJsb2clM0E5JTdDRXJkb3Nwcm9ibGVtcy5jb20lMjBTdWNjdW1icyUyMHRvJTIwdGhlJTIwQUklMjBPbnNsYXVnaHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NzY4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEyJTNBNTMlM0E1OCUyMCUyQjAwMDA",
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "pubDate": "Tue, 06 Oct 2026 12:53:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdub3JlZ2FsaWxlaS5jb20lMkYyMDI2JTJGMDklMkYyNyUyRndoYXRzLWVhcnRocy1kb21pbmFudC1zcGVjaWVzLWJ5LW1hc3MlMkYlN0NodHRwcyUzQSUyRiUyRnNpZ25vcmVnYWxpbGVpLmNvbSUyRjIwMjYlMkYwOSUyRjI3JTJGd2hhdHMtZWFydGhzLWRvbWluYW50LXNwZWNpZXMtYnktbWFzcyUyRiU3Q1doYXQncyUyMEVhcnRoJ3MlMjBkb21pbmFudCUyMHNwZWNpZXMlMjBieSUyMG1hc3MlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NzUzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEyJTNBNDAlM0EwMyUyMCUyQjAwMDA",
+      "title": "What's Earth's dominant species by mass?",
+      "pubDate": "Tue, 06 Oct 2026 12:40:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb2xhLnJzJTJGcG9zdHMlMkZyZWxlYXNlLXBvbGFycy0yJTJGJTdDaHR0cHMlM0ElMkYlMkZwb2xhLnJzJTJGcG9zdHMlMkZyZWxlYXNlLXBvbGFycy0yJTJGJTdDUG9sYXJzJTIwMi4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzcxNzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMSUzQTU5JTNBMDElMjAlMkIwMDAw",
+      "title": "Polars 2.0",
+      "pubDate": "Tue, 06 Oct 2026 11:59:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTEwLW5hdHVyZS1jYXBhY2l0eS1zcGVjaWVzLWxvc3QtdmFzdGx5Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnBoeXMub3JnJTJGbmV3cyUyRjIwMjYtMTAtbmF0dXJlLWNhcGFjaXR5LXNwZWNpZXMtbG9zdC12YXN0bHkuaHRtbCU3Q05hdHVyZSdzJTIwY2FwYWNpdHklMjB0byUyMCdib3VuY2UlMjBiYWNrJyUyMHdoZW4lMjBzcGVjaWVzJTIwYXJlJTIwbG9zdCUyMGlzJTIwb3ZlcmVzdGltYXRlZCUzQSUyMHN0dWR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzY4MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMSUzQTExJTNBNTElMjAlMkIwMDAw",
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "pubDate": "Tue, 06 Oct 2026 11:11:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZwaHlzaWNzJTJGMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vYmVscHJpemUub3JnJTJGcHJpemVzJTJGcGh5c2ljcyUyRjIwMjYlMkYlN0NOb2JlbCUyMFByaXplJTIwaW4lMjBQaHlzaWNzJTIwMjAyNiUzQSUyMEZyYW5jaXMlMjBIYWx6ZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NjI2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDA5JTNBNDglM0E0NiUyMCUyQjAwMDA",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "pubDate": "Tue, 06 Oct 2026 09:48:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]
