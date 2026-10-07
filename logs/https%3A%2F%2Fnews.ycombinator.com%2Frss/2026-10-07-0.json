@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-07",
     "newestItemDate": "2026-10-07",
-    "itemCount": 9,
-    "generatedAt": "2026-10-07T06:10:19.315Z"
+    "itemCount": 26,
+    "generatedAt": "2026-10-07T15:37:29.476Z"
   },
   "items": [
     {
@@ -60,6 +60,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3JlZ3ltLmNvbSUyRmJsb2clMkZqZXYtZHJpdmVuLXNyZS1kaWFnbm9zaXMlN0NodHRwcyUzQSUyRiUyRnd3dy5zcmVneW0uY29tJTJGYmxvZyUyRmpldi1kcml2ZW4tc3JlLWRpYWdub3NpcyU3Q0pldi1Ecml2ZW4lMjBTUkUlMjBEaWFnbm9zaXMlM0ElMjBXaGF0JTIwV29ya2VkJTIwYW5kJTIwV2hhdCUyMEZhaWxlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTg2NzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMDElM0EyNyUzQTQ5JTIwJTJCMDAwMA",
       "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
       "pubDate": "Wed, 07 Oct 2026 01:27:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2l0aHVic3RhdHVzLmNvbSUyRmluY2lkZW50cyUyRmRqbG14ejJ6ZDBqNyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdpdGh1YnN0YXR1cy5jb20lMkZpbmNpZGVudHMlMkZkamxteHoyemQwajclN0NHaXRIdWIlMjBJbmNpZGVudCUyMHdpdGglMjBHaXQlMjBPcGVyYXRpb25zJTJDJTIwUHVsbCUyMFJlcXVlc3RzJTIwYW5kJTIwQWN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTk0MDI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTUlM0ExNyUzQTIzJTIwJTJCMDAwMA",
+      "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+      "pubDate": "Wed, 07 Oct 2026 15:17:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRnRoZS1zZXZlbi12aWNlcy1vZi1oaWdobHktZWZmZWN0aXZlLXZpY3RvcmlhbnMlMkYlN0NodHRwcyUzQSUyRiUyRndvcmtzaW5wcm9ncmVzcy5jbyUyRmlzc3VlJTJGdGhlLXNldmVuLXZpY2VzLW9mLWhpZ2hseS1lZmZlY3RpdmUtdmljdG9yaWFucyUyRiU3Q1doeSUyMFdlcmUlMjBWaWN0b3JpYW4lMjBFbGl0ZXMlMjBTbyUyMEVmZmVjdGl2ZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTkzOTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTUlM0EwOSUzQTMzJTIwJTJCMDAwMA",
+      "title": "Why Were Victorian Elites So Effective?",
+      "pubDate": "Wed, 07 Oct 2026 15:09:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhc2NpaS5yZXN0JTJGJTdDaHR0cHMlM0ElMkYlMkZhc2NpaS5yZXN0JTJGJTdDQW5pbWF0ZWQlMjBBU0NJSSUyMEFydCUyMGZvciUyMFdlYiUyMFBhZ2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTM4NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxNSUzQTA1JTNBMzclMjAlMkIwMDAw",
+      "title": "Animated ASCII Art for Web Pages",
+      "pubDate": "Wed, 07 Oct 2026 15:05:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2xhaXguZGV2JTJGYmxvZyUyRnJhZy1mb3ItYWktYWdlbnRzLWFnZW50aWMtcmV0cmlldmFsJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2xhaXguZGV2JTJGYmxvZyUyRnJhZy1mb3ItYWktYWdlbnRzLWFnZW50aWMtcmV0cmlldmFsJTdDV2UlMjBCdWlsdCUyMGFuJTIwQWx0ZXJuYXRpdmUlMjB0byUyMFZlY3RvciUyMFJBRyUyMGZvciUyMEFJJTIwQWdlbnQlMjBNZW1vcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MzgyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE1JTNBMDIlM0E1NyUyMCUyQjAwMDA",
+      "title": "We Built an Alternative to Vector RAG for AI Agent Memory",
+      "pubDate": "Wed, 07 Oct 2026 15:02:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWludXQuY29tJTJGZmVhdHVyZXMlMkZvY2N1cGFuY3ktbW9uaXRvcmluZyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pbnV0LmNvbSUyRmZlYXR1cmVzJTJGb2NjdXBhbmN5LW1vbml0b3JpbmclN0NEZXZpY2UlMjBkZXRlY3Rpb24lMjBhbmQlMjBvY2N1cGFuY3klMjBtb25pdG9yaW5nJTIwZm9yJTIwQWlyYm5iJTIwaG9zdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MzIzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE0JTNBMTklM0ExMiUyMCUyQjAwMDA",
+      "title": "Device detection and occupancy monitoring for Airbnb hosts",
+      "pubDate": "Wed, 07 Oct 2026 14:19:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzeW50aGlkLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3ludGhpZC5jb20lMkYlN0NTeW50aElEJTIwRGV0ZWN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MzE4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE0JTNBMTYlM0E0NCUyMCUyQjAwMDA",
+      "title": "SynthID Detector",
+      "pubDate": "Wed, 07 Oct 2026 14:16:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUXVldWluZ3RoZW9yeWRvdGNvbSUyRjExU3F1YXJlc0Zvcm1hbGl6ZWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZRdWV1aW5ndGhlb3J5ZG90Y29tJTJGMTFTcXVhcmVzRm9ybWFsaXplZCU3Q0FJLWFzc2lzdGVkJTIwcHJvb2YlMjBvZiUyMG9wdGltYWwlMjBwYWNraW5nJTIwZm9yJTIwMTElMjBzcXVhcmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTMxMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxNCUzQTEwJTNBNTUlMjAlMkIwMDAw",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "pubDate": "Wed, 07 Oct 2026 14:10:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLmdvb2dsZSUyRnBsYXlncm91bmQlN0NodHRwcyUzQSUyRiUyRmxhYnMuZ29vZ2xlJTJGcGxheWdyb3VuZCU3Q0dvb2dsZSUyMFBsYXlncm91bmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5Mjc3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDEzJTNBNDIlM0EwMyUyMCUyQjAwMDA",
+      "title": "Google Playground",
+      "pubDate": "Wed, 07 Oct 2026 13:42:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWZhY3RvcmluZ2VuZ2xpc2guY29tJTJGYmxvZyUyRmFudGktcGF0dGVybnMtc29mdHdhcmUtYmxvZ2dpbmclMkYlN0NodHRwcyUzQSUyRiUyRnJlZmFjdG9yaW5nZW5nbGlzaC5jb20lMkZibG9nJTJGYW50aS1wYXR0ZXJucy1zb2Z0d2FyZS1ibG9nZ2luZyUyRiU3Q0FudGktUGF0dGVybnMlMjBpbiUyMFNvZnR3YXJlJTIwQmxvZ2dpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MjI1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDEzJTNBMDglM0EyNiUyMCUyQjAwMDA",
+      "title": "Anti-Patterns in Software Blogging",
+      "pubDate": "Wed, 07 Oct 2026 13:08:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVhZGluZ2Nocm9uaWNsZS5jby51ayUyRm5ld3MlMkYyNjYxMjA4MC5ob3VzZS0xNW0tdW5kZXJncm91bmQtdHVubmVscy1zYWxlLTMwMGslMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWFkaW5nY2hyb25pY2xlLmNvLnVrJTJGbmV3cyUyRjI2NjEyMDgwLmhvdXNlLTE1bS11bmRlcmdyb3VuZC10dW5uZWxzLXNhbGUtMzAwayUyRiU3Q0hvdXNlJTIwd2l0aCUyMDE1bSUyMHVuZGVyZ3JvdW5kJTIwdHVubmVscyUyMGZvciUyMHNhbGUlMjBmb3IlMjAzMDBrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTIxMjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxMiUzQTU3JTNBMTAlMjAlMkIwMDAw",
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "pubDate": "Wed, 07 Oct 2026 12:57:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRtdXNldW0uYXJ0ZnJvbXBpeGVscy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmFydG11c2V1bS5hcnRmcm9tcGl4ZWxzLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEElMjB3YWxrYWJsZSUyMDNEJTIwYXJ0JTIwaGlzdG9yeSUyMG11c2V1bSUyMGJ1aWx0JTIwZnJvbSUyMFdpa2lwZWRpYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTkyMDU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTIlM0E1MSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+      "pubDate": "Wed, 07 Oct 2026 12:51:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWthd2FzaGlybyUyRnByb2NpbnNoJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWthd2FzaGlybyUyRnByb2NpbnNoJTdDU2hvdyUyMEhOJTNBJTIwUHJvY2luc2glMjAlRTIlODAlOTMlMjBBJTIwM0QlMjBMaW51eCUyMHByb2Nlc3MlMjBpbnNwZWN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MTk4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDEyJTNBNDUlM0EwNiUyMCUyQjAwMDA",
+      "title": "Show HN: Procinsh – A 3D Linux process inspector",
+      "pubDate": "Wed, 07 Oct 2026 12:45:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaXZlbWludXRlc2ZvcndhcmQuY29tJTJGcG9zdCUyRjIwMjYtMTAtMDQtdGVsZWdyYXBoLXRlc3QlMkYlN0NodHRwcyUzQSUyRiUyRmZpdmVtaW51dGVzZm9yd2FyZC5jb20lMkZwb3N0JTJGMjAyNi0xMC0wNC10ZWxlZ3JhcGgtdGVzdCUyRiU3Q1dyaXRlJTIwTGlrZSUyMEl0J3MlMjAxODY2JTNBJTIwTExNcyUyMFJlbGVhcm4lMjBUZWxlZ3JhcGhlc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MTU4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDEyJTNBMDQlM0EzNiUyMCUyQjAwMDA",
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "pubDate": "Wed, 07 Oct 2026 12:04:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc251cmkwMCUyRnBzcC13ZWItcmVjb21wJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc251cmkwMCUyRnBzcC13ZWItcmVjb21wJTdDR29kJTIwb2YlMjBXYXIlMjBvbiUyMFBTUCUyQyUyMHJlY29tcGlsZWQlMjB0byUyMFdlYkFzc2VtYmx5JTIwYW5kJTIwcnVubmluZyUyMGluJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTkxMjQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTElM0EyNyUzQTI3JTIwJTJCMDAwMA",
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "pubDate": "Wed, 07 Oct 2026 11:27:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuY2hyb21lLmNvbSUyRmJsb2clMkZqcGVnLXhsLWluLWNocm9tZSU3Q2h0dHBzJTNBJTJGJTJGZGV2ZWxvcGVyLmNocm9tZS5jb20lMkZibG9nJTJGanBlZy14bC1pbi1jaHJvbWUlN0NTaGlwcGluZyUyMEpQRUclMjBYTCUyMGluJTIwQ2hyb21lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTEyMjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxMSUzQTI1JTNBMDIlMjAlMkIwMDAw",
+      "title": "Shipping JPEG XL in Chrome",
+      "pubDate": "Wed, 07 Oct 2026 11:25:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZjaGVtaXN0cnklMkYyMDI2JTJGcHJlc3MtcmVsZWFzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vYmVscHJpemUub3JnJTJGcHJpemVzJTJGY2hlbWlzdHJ5JTJGMjAyNiUyRnByZXNzLXJlbGVhc2UlMkYlN0NOb2JlbCUyMFByaXplJTIwaW4lMjBDaGVtaXN0cnklMjAyMDI2JTIwdG8lMjBIZW5yaSUyMEIuJTIwS2FnYW4lMjBhbmQlMjBLZW5zbyUyMFNvYWklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MDQ3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDA5JTNBNTElM0E0MyUyMCUyQjAwMDA",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "pubDate": "Wed, 07 Oct 2026 09:51:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3phYmFka2FpJTJGYzY0LWtleWJvYXJkLWZvbnQlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzemFiYWRrYWklMkZjNjQta2V5Ym9hcmQtZm9udCUyRiU3Q0ElMjBmb250JTIwcmVjcmVhdGVkJTIwZnJvbSUyMHBob3RvZ3JhcGhzJTIwb2YlMjBjbGFzc2ljJTIwQ29tbW9kb3JlJTIwNjQlMjBrZXljYXBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTAyMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAwOSUzQTE3JTNBNTUlMjAlMkIwMDAw",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "pubDate": "Wed, 07 Oct 2026 09:17:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
     }
   ]

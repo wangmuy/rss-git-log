@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 53,
-    "generatedAt": "2026-10-07T06:10:19.315Z"
+    "itemCount": 57,
+    "generatedAt": "2026-10-07T15:37:29.476Z"
   },
   "items": [
     {
@@ -324,6 +324,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2YXVnaGFuaGlsdHMubWUlMkYyMDI2JTJGMTAlMkYwNSUyRmxsbXMtaW1tZW5zZWx5LWhlbHBlZC1teS1yc2kuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdmF1Z2hhbmhpbHRzLm1lJTJGMjAyNiUyRjEwJTJGMDUlMkZsbG1zLWltbWVuc2VseS1oZWxwZWQtbXktcnNpLmh0bWwlN0NMTE1zJTIwbWF5JTIwaGF2ZSUyMGhlbHBlZCUyMG15JTIwUlNJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzM2NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAwMyUzQTAxJTNBMDQlMjAlMkIwMDAw",
       "title": "LLMs may have helped my RSI",
       "pubDate": "Tue, 06 Oct 2026 03:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWRhbmEuY29tJTJGcmVzb3VyY2VzJTJGdG9rZW5zLXRvLWdwdXMlMkYlN0NodHRwcyUzQSUyRiUyRmNlZGFuYS5jb20lMkZyZXNvdXJjZXMlMkZ0b2tlbnMtdG8tZ3B1cyUyRiU3Q0hvdyUyMG1hbnklMjBHUFVzJTIwaXMlMjAxTSUyRkIlMkZUJTIwdG9rZW5zJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODIwOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxOCUzQTE3JTNBNDAlMjAlMkIwMDAw",
+      "title": "How many GPUs is 1M/B/T tokens?",
+      "pubDate": "Tue, 06 Oct 2026 18:17:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjEwJTJGNiUyRmNvZGVtb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjEwJTJGNiUyRmNvZGVtb2RlJTJGJTdDV2hhdCUyMGlzJTIwQ29kZW1vZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3ODMzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEzJTNBNDElM0EwMyUyMCUyQjAwMDA",
+      "title": "What is Codemode",
+      "pubDate": "Tue, 06 Oct 2026 13:41:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbWJyb29rLmNvbSUyRm9mZnJhbmdlJTJGc3VwcGx5LWNoYWluJTJGc291dGhlcm4tb2xpdmUtb2lsJTdDaHR0cHMlM0ElMkYlMkZhbWJyb29rLmNvbSUyRm9mZnJhbmdlJTJGc3VwcGx5LWNoYWluJTJGc291dGhlcm4tb2xpdmUtb2lsJTdDU291dGhlcm4lMjBPbGl2ZSUyME9pbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc4MzE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTMlM0E0MCUzQTAzJTIwJTJCMDAwMA",
+      "title": "Southern Olive Oil",
+      "pubDate": "Tue, 06 Oct 2026 13:40:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnd3dy50aW1iZXJmcmFtZS10b29scy5jb20lMkZ0b29scyUyRm1hbGxldC1oZWFkLWFuZ2xlJTJGJTdDaHR0cCUzQSUyRiUyRnd3dy50aW1iZXJmcmFtZS10b29scy5jb20lMkZ0b29scyUyRm1hbGxldC1oZWFkLWFuZ2xlJTJGJTdDTWFsbGV0JTIwSGVhZCUyMEFuZ2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzM4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAwMyUzQTI5JTNBMjAlMjAlMkIwMDAw",
+      "title": "Mallet Head Angle",
+      "pubDate": "Tue, 06 Oct 2026 03:29:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]
