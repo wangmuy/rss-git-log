@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 37,
-    "generatedAt": "2026-10-06T21:02:50.168Z"
+    "itemCount": 53,
+    "generatedAt": "2026-10-07T06:10:19.315Z"
   },
   "items": [
     {
@@ -228,6 +228,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZwaHlzaWNzJTJGMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vYmVscHJpemUub3JnJTJGcHJpemVzJTJGcGh5c2ljcyUyRjIwMjYlMkYlN0NOb2JlbCUyMFByaXplJTIwaW4lMjBQaHlzaWNzJTIwMjAyNiUzQSUyMEZyYW5jaXMlMjBIYWx6ZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NjI2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDA5JTNBNDglM0E0NiUyMCUyQjAwMDA",
       "title": "Nobel Prize in Physics 2026: Francis Halzen",
       "pubDate": "Tue, 06 Oct 2026 09:48:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYm95a29wb3ZhciUyRkFueVBTNSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmJveWtvcG92YXIlMkZBbnlQUzUlN0NBbnlQUzUlM0ElMjBQb3J0JTIwUFM1JTIwYmluYXJpZXMlMjB0byUyMFBDJTIwd2l0aG91dCUyMGVtdWxhdGlvbiUyMCg4NyUyNSUyMHN5c3RlbSUyMGxpYnJhcmllcyUyMG1hcHBlZCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk4NTY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDIzJTNBMjglM0EwOCUyMCUyQjAwMDA",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "pubDate": "Tue, 06 Oct 2026 23:28:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYyMDI2LnN0YXRlb2ZkZXZzLmNvbSUyRmVuLVVTJTJGJTdDaHR0cHMlM0ElMkYlMkYyMDI2LnN0YXRlb2ZkZXZzLmNvbSUyRmVuLVVTJTJGJTdDU3RhdGUlMjBvZiUyMERldnMlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODU2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAyMyUzQTI2JTNBMzAlMjAlMkIwMDAw",
+      "title": "State of Devs 2026",
+      "pubDate": "Tue, 06 Oct 2026 23:26:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzaGFyaW5nLWFpLXByb2dyZXNzLWluLW1hdGhlbWF0aWNzJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzaGFyaW5nLWFpLXByb2dyZXNzLWluLW1hdGhlbWF0aWNzJTJGJTdDU2hhcmluZyUyMEFJJTIwcHJvZ3Jlc3MlMjBpbiUyMG1hdGhlbWF0aWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODQ5MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAyMiUzQTE3JTNBMjElMjAlMkIwMDAw",
+      "title": "Sharing AI progress in mathematics",
+      "pubDate": "Tue, 06 Oct 2026 22:17:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZW5ndWluLW1haWwuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZwZW5ndWluLW1haWwuY29tJTJGJTdDUGVuZ3VpbiUyME1haWwlMjAlRTIlODAlOTMlMjBvcGVuLXNvdXJjZSUyMFJ1c3QlMjBlbWFpbCUyMGNsaWVudCUyMGZvciUyMExpbnV4JTIwd2l0aCUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODQ3MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAyMSUzQTU5JTNBNDMlMjAlMkIwMDAw",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "pubDate": "Tue, 06 Oct 2026 21:59:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1pZ3VlbGdyaW5iZXJnLmNvbSUyRnBvc3QlMkZob3ctZmFzdC1pcy1weXRob24tMy0xNSU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5taWd1ZWxncmluYmVyZy5jb20lMkZwb3N0JTJGaG93LWZhc3QtaXMtcHl0aG9uLTMtMTUlN0NIb3clMjBGYXN0JTIwaXMlMjBQeXRob24lMjAzLjE1JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODQ2NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAyMSUzQTUyJTNBNTclMjAlMkIwMDAw",
+      "title": "How Fast is Python 3.15?",
+      "pubDate": "Tue, 06 Oct 2026 21:52:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLm9wZW5haS5jb20lMkZhcGklMkZkb2NzJTJGZ3VpZGVzJTJGZGVjaXNpb25zJTdDaHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLm9wZW5haS5jb20lMkZhcGklMkZkb2NzJTJGZ3VpZGVzJTJGZGVjaXNpb25zJTdDRGVjaXNpb25zJTIwQVBJJTIwaXMlMjBpbiUyMHB1YmxpYyUyMGJldGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk4NDAyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDIwJTNBNTclM0EyNSUyMCUyQjAwMDA",
+      "title": "Decisions API is in public beta",
+      "pubDate": "Tue, 06 Oct 2026 20:57:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMCUyRnBhcmFtb3VudC1jb21wbGV0ZXMtMTExYi13YXJuZXItbWVyZ2VyLWNyZWF0aW5nLXNreWRhbmNlLWJlaGVtb3RoJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMCUyRnBhcmFtb3VudC1jb21wbGV0ZXMtMTExYi13YXJuZXItbWVyZ2VyLWNyZWF0aW5nLXNreWRhbmNlLWJlaGVtb3RoJTJGJTdDUGFyYW1vdW50JTIwU2t5ZGFuY2UlMjBoYXMlMjBjb21wbGV0ZWQlMjBpdHMlMjAlMjQxMTFCJTIwbWVyZ2VyJTIwd2l0aCUyMFdhcm5lciUyMEJyb3MuJTIwRGlzY292ZXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODM3MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAyMCUzQTMzJTNBNDclMjAlMkIwMDAw",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "pubDate": "Tue, 06 Oct 2026 20:33:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcnNjLmlvJTJGYmxvZyUyRndoZW4tcmFuZG9tLWlzbnQtcmFuZG9tLWVub3VnaCU3Q2h0dHBzJTNBJTJGJTJGZXJzYy5pbyUyRmJsb2clMkZ3aGVuLXJhbmRvbS1pc250LXJhbmRvbS1lbm91Z2glN0NXaGVuJTIwcmFuZG9tJTIwaXMlMjBub3QlMjBhY3R1YWxseSUyMHJhbmRvbSUyMGVub3VnaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgzNDA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMjAlM0ExMiUzQTA1JTIwJTJCMDAwMA",
+      "title": "When random is not actually random enough",
+      "pubDate": "Tue, 06 Oct 2026 20:12:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgyNDk4JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgyNDk4JTdDVGVsbCUyMEhOJTNBJTIwR2l0SHViJTIwcmVmdXNlcyUyMHRvJTIwcmVtb3ZlJTIwY3JhY2tlZCUyMGNvcGllcyUyMG9mJTIwbXklMjBzb2Z0d2FyZSUyMGFmdGVyJTIwYSUyMG1vbnRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODI0OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxOCUzQTU0JTNBMDElMjAlMkIwMDAw",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "pubDate": "Tue, 06 Oct 2026 18:54:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuem9oYWliLmNjJTJGYmxvZyUyRnNtYXJ0ZXN0LWNsYXVkZS1jb2RlLWZlYXR1cmUlN0NodHRwcyUzQSUyRiUyRnd3dy56b2hhaWIuY2MlMkZibG9nJTJGc21hcnRlc3QtY2xhdWRlLWNvZGUtZmVhdHVyZSU3Q0NsYXVkZSUyMENvZGUlRTIlODAlOTlzJTIwc3VnZ2VzdGVkJTIwbWVzc2FnZSUyMGZlYXR1cmUlM0ElMjBJJTIwdGhpbmslMjB0aGUlMjByZWFsJTIwY3VzdG9tZXIlMjBpcyUyMHRoZSUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODE5MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxOCUzQTAwJTNBMzQlMjAlMkIwMDAw",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "pubDate": "Tue, 06 Oct 2026 18:00:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZHJpdmUuY29tJTJGbmV3cyUyRmhlcmVzLWhvdy1jYWxpZm9ybmlhLWNsb3NlZC10aGUtbW9udGFuYS1saWNlbnNlLXBsYXRlLWxvb3Bob2xlJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZHJpdmUuY29tJTJGbmV3cyUyRmhlcmVzLWhvdy1jYWxpZm9ybmlhLWNsb3NlZC10aGUtbW9udGFuYS1saWNlbnNlLXBsYXRlLWxvb3Bob2xlJTdDQ2FsaWZvcm5pYSUyMGNsb3NlZCUyMHRoZSUyME1vbnRhbmElMjBsaWNlbnNlJTIwcGxhdGUlMjBsb29waG9sZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgxMTg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTclM0EwMCUzQTU5JTIwJTJCMDAwMA",
+      "title": "California closed the Montana license plate loophole",
+      "pubDate": "Tue, 06 Oct 2026 17:00:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3VwZXJkZXNpZ25kZXYlMkZ0cmVnJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3VwZXJkZXNpZ25kZXYlMkZ0cmVnJTdDVHJlZyUyMChPcGVuUm91dGVyJTIwZm9yJTIwVG9vbHMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODA3OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxNiUzQTI5JTNBNTklMjAlMkIwMDAw",
+      "title": "Treg (OpenRouter for Tools)",
+      "pubDate": "Tue, 06 Oct 2026 16:29:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRmVTZW5zJTJGb3BlblRQVSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkZlU2VucyUyRm9wZW5UUFUlN0NPcGVuVFBVJTIwJUUyJTgwJTkzJTIwQW4lMjBvcGVuLXNvdXJjZSUyMEFJJTIwYWNjZWxlcmF0b3IlMkMlMjBkZXZlbG9wZWQlMjBieSUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODA3MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxNiUzQTIzJTNBMjUlMjAlMkIwMDAw",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "pubDate": "Tue, 06 Oct 2026 16:23:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmRldmVsb3BlcnMtdG9vbHMlMkZlbWJlZGRpbmdnZW1tYS0yJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmRldmVsb3BlcnMtdG9vbHMlMkZlbWJlZGRpbmdnZW1tYS0yJTJGJTdDRW1iZWRkaW5nR2VtbWElMjAyJTNBJTIwQW4lMjBvcGVuJTJDJTIwbGlnaHR3ZWlnaHQlMjBtdWx0aW1vZGFsJTIwZW1iZWRkaW5nJTIwbW9kZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk4MDQ4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDE2JTNBMDMlM0E0OSUyMCUyQjAwMDA",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "pubDate": "Tue, 06 Oct 2026 16:03:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjEwJTJGNiUyRmNvZGVtb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZsdWN1bXIucG9jb28ub3JnJTJGMjAyNiUyRjEwJTJGNiUyRmNvZGVtb2RlJTJGJTdDV2hhdCUyMElzJTIwQ29kZW1vZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3ODMzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDEzJTNBNDElM0EwMyUyMCUyQjAwMDA",
+      "title": "What Is Codemode",
+      "pubDate": "Tue, 06 Oct 2026 13:41:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YXVnaGFuaGlsdHMubWUlMkYyMDI2JTJGMTAlMkYwNSUyRmxsbXMtaW1tZW5zZWx5LWhlbHBlZC1teS1yc2kuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdmF1Z2hhbmhpbHRzLm1lJTJGMjAyNiUyRjEwJTJGMDUlMkZsbG1zLWltbWVuc2VseS1oZWxwZWQtbXktcnNpLmh0bWwlN0NMTE1zJTIwbWF5JTIwaGF2ZSUyMGhlbHBlZCUyMG15JTIwUlNJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzM2NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAwMyUzQTAxJTNBMDQlMjAlMkIwMDAw",
+      "title": "LLMs may have helped my RSI",
+      "pubDate": "Tue, 06 Oct 2026 03:01:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]
