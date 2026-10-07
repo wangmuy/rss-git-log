@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 57,
-    "generatedAt": "2026-10-07T15:37:29.476Z"
+    "itemCount": 60,
+    "generatedAt": "2026-10-07T21:22:27.434Z"
   },
   "items": [
     {
@@ -348,6 +348,24 @@
       "itemId": "aHR0cCUzQSUyRiUyRnd3dy50aW1iZXJmcmFtZS10b29scy5jb20lMkZ0b29scyUyRm1hbGxldC1oZWFkLWFuZ2xlJTJGJTdDaHR0cCUzQSUyRiUyRnd3dy50aW1iZXJmcmFtZS10b29scy5jb20lMkZ0b29scyUyRm1hbGxldC1oZWFkLWFuZ2xlJTJGJTdDTWFsbGV0JTIwSGVhZCUyMEFuZ2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzM4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAwMyUzQTI5JTNBMjAlMjAlMkIwMDAw",
       "title": "Mallet Head Angle",
       "pubDate": "Tue, 06 Oct 2026 03:29:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbGluc2NvdHQuZ2l0aHViLmlvJTJGaG93LW1hY2hpbmVzLWxlYXJuZWQtcHJlY2lzaW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZnbGluc2NvdHQuZ2l0aHViLmlvJTJGaG93LW1hY2hpbmVzLWxlYXJuZWQtcHJlY2lzaW9uJTJGJTdDSG93JTIwbWFjaGluZXMlMjBsZWFybmVkJTIwcHJlY2lzaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5ODA2MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxNiUzQTE0JTNBNDIlMjAlMkIwMDAw",
+      "title": "How machines learned precision",
+      "pubDate": "Tue, 06 Oct 2026 16:14:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXYuYXJpZS5ib3ZlbmJlcmcubmV0JTJGYmxvZyUyRnBlbmR1bHVtLWN1cnNlZC1wbHVzLW9wZXJhdG9yJTJGJTdDaHR0cHMlM0ElMkYlMkZkZXYuYXJpZS5ib3ZlbmJlcmcubmV0JTJGYmxvZyUyRnBlbmR1bHVtLWN1cnNlZC1wbHVzLW9wZXJhdG9yJTJGJTdDV2h5JTIwUGVuZHVsdW0lMjBoYWQlMjB0byUyMHdyaXRlJTIwdGhlJTIwbW9zdCUyMGN1cnNlZCUyMCUyMiUyQiUyMiUyMG9wZXJhdG9yJTIwaW4lMjBhbGwlMjBvZiUyMFB5dGhvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc2NDQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTAlM0ExMiUzQTMxJTIwJTJCMDAwMA",
+      "title": "Why Pendulum had to write the most cursed \"+\" operator in all of Python",
+      "pubDate": "Tue, 06 Oct 2026 10:12:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmdhbWVzYnllbWFpbC5jb20lMkZXb29kVGFwZSUyRkRlZmF1bHQuaHRtJTdDaHR0cCUzQSUyRiUyRmdhbWVzYnllbWFpbC5jb20lMkZXb29kVGFwZSUyRkRlZmF1bHQuaHRtJTdDV29vZCUyMFRhcGUlMjAoMjAwNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NDE3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDA0JTNBMjUlM0E0MSUyMCUyQjAwMDA",
+      "title": "Wood Tape (2004)",
+      "pubDate": "Tue, 06 Oct 2026 04:25:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]

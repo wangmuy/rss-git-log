@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-07",
     "newestItemDate": "2026-10-07",
-    "itemCount": 26,
-    "generatedAt": "2026-10-07T15:37:29.476Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-07T21:22:27.433Z"
   },
   "items": [
     {
@@ -162,6 +162,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3phYmFka2FpJTJGYzY0LWtleWJvYXJkLWZvbnQlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzemFiYWRrYWklMkZjNjQta2V5Ym9hcmQtZm9udCUyRiU3Q0ElMjBmb250JTIwcmVjcmVhdGVkJTIwZnJvbSUyMHBob3RvZ3JhcGhzJTIwb2YlMjBjbGFzc2ljJTIwQ29tbW9kb3JlJTIwNjQlMjBrZXljYXBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTAyMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAwOSUzQTE3JTNBNTUlMjAlMkIwMDAw",
       "title": "A font recreated from photographs of classic Commodore 64 keycaps",
       "pubDate": "Wed, 07 Oct 2026 09:17:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5rLnNwcmluZ2VyLmNvbSUyRmFydGljbGUlMkYxMC4xMDA3JTJGczEwNzM5LTAyNi0wOTg2Ni03JTdDaHR0cHMlM0ElMkYlMkZsaW5rLnNwcmluZ2VyLmNvbSUyRmFydGljbGUlMkYxMC4xMDA3JTJGczEwNzM5LTAyNi0wOTg2Ni03JTdDRGVzcGl0ZSUyMHdoYXQlMjBXYXRzb24lMjBzYWlkJTJDJTIwUm9zYWxpbmQlMjBGcmFua2xpbiUyMHVuZGVyc3Rvb2QlMjBzdHJ1Y3R1cmUlMjBvZiUyMEROQSUyMGZpcnN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTgwMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxOSUzQTU2JTNBMTYlMjAlMkIwMDAw",
+      "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+      "pubDate": "Wed, 07 Oct 2026 19:56:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndGxkcy5meWklMkYlN0NodHRwcyUzQSUyRiUyRmd0bGRzLmZ5aSUyRiU3Q1Nob3clMjBITiUzQSUyMGd0bGRzLmZ5aSUyMCVFMiU4MCU5MyUyMEFsbCUyMHRoZSUyMHByb3Bvc2VkJTIwbmV3JTIwZ1RMRHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5Nzk3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE5JTNBNTMlM0ExNyUyMCUyQjAwMDA",
+      "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
+      "pubDate": "Wed, 07 Oct 2026 19:53:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGFhcm9uc29uLmJsb2clMkYlM0ZwJTNEMTAxNjklN0NodHRwcyUzQSUyRiUyRnNjb3R0YWFyb25zb24uYmxvZyUyRiUzRnAlM0QxMDE2OSU3Q1RoZSUyME1hdGhvY2FseXBzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTk3NzE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTklM0EzMyUzQTQwJTIwJTJCMDAwMA",
+      "title": "The Mathocalypse",
+      "pubDate": "Wed, 07 Oct 2026 19:33:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWNhbm4ub3JnJTJGZW4lMkZhbm5vdW5jZW1lbnRzJTJGZGV0YWlscyUyRmljYW5uLXJldmVhbHMtMjAyNi1yb3VuZC1hcHBsaWNhdGlvbnMtZm9yLW5ldy1nZW5lcmljLXRvcC1sZXZlbC1kb21haW5zLTA3LTEwLTIwMjYtZW4lN0NodHRwcyUzQSUyRiUyRnd3dy5pY2Fubi5vcmclMkZlbiUyRmFubm91bmNlbWVudHMlMkZkZXRhaWxzJTJGaWNhbm4tcmV2ZWFscy0yMDI2LXJvdW5kLWFwcGxpY2F0aW9ucy1mb3ItbmV3LWdlbmVyaWMtdG9wLWxldmVsLWRvbWFpbnMtMDctMTAtMjAyNi1lbiU3Q0lDQU5OJTIwUmV2ZWFscyUyMDIwMjYlMjBSb3VuZCUyMEFwcGxpY2F0aW9ucyUyMGZvciUyME5ldyUyMEdlbmVyaWMlMjBUb3AtTGV2ZWwlMjBEb21haW5zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTczMDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxOSUzQTAxJTNBNDUlMjAlMkIwMDAw",
+      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+      "pubDate": "Wed, 07 Oct 2026 19:01:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucnN3ZWJzb2xzLmNvbSUyRm5ld3MlMkZtZXRhLWFuZC1taWNyb3NvZnQtdGFrZS1zdGVwcy10by1yZWR1Y2UtZW1wbG95ZWUtdXNhZ2Utb2YtY2xhdWRlLWFpJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucnN3ZWJzb2xzLmNvbSUyRm5ld3MlMkZtZXRhLWFuZC1taWNyb3NvZnQtdGFrZS1zdGVwcy10by1yZWR1Y2UtZW1wbG95ZWUtdXNhZ2Utb2YtY2xhdWRlLWFpJTJGJTdDTWV0YSUyMGFuZCUyME1pY3Jvc29mdCUyMHRha2UlMjBzdGVwcyUyMHRvJTIwcmVkdWNlJTIwZW1wbG95ZWUlMjB1c2FnZSUyMG9mJTIwQ2xhdWRlJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NzE2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE4JTNBNDklM0E0MCUyMCUyQjAwMDA",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "pubDate": "Wed, 07 Oct 2026 18:49:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWJhc2lzaGcuZ2l0aHViLmlvJTJGYmxvZyUyRnB1c2gtaWZzLXVwLWZvcnMtZG93biUyRiU3Q2h0dHBzJTNBJTJGJTJGZGViYXNpc2hnLmdpdGh1Yi5pbyUyRmJsb2clMkZwdXNoLWlmcy11cC1mb3JzLWRvd24lMkYlN0NQdXNoJTIwaWZzJTIwdXAlMjBhbmQlMjBmb3JzJTIwZG93biUzQSUyMFRoZSUyMGlkaW9tJTJDJTIwaXRzJTIwYWxnZWJyYSUyQyUyMGFuZCUyMGl0cyUyMGxpbWl0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTk3MDczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTglM0E0MyUzQTE4JTIwJTJCMDAwMA",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "pubDate": "Wed, 07 Oct 2026 18:43:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmNsYXVkZS1oYWlrdS01LTUlN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGY2xhdWRlLWhhaWt1LTUtNSU3Q0NsYXVkZSUyMEhhaWt1JTIwNS41JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTY0MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxOCUzQTAxJTNBMzIlMjAlMkIwMDAw",
+      "title": "Claude Haiku 5.5",
+      "pubDate": "Wed, 07 Oct 2026 18:01:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZncHQtNi1mb3ItZXZlcnlvbmUlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmdwdC02LWZvci1ldmVyeW9uZSUyRiU3Q0dQVCVFMiU4MCU5MTYlMjBhbmQlMjBJbnRlbGxpZ2VudCUyMFVJJTIwZm9yJTIwZXZlcnlvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NjQyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE4JTNBMDAlM0E1OCUyMCUyQjAwMDA",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "pubDate": "Wed, 07 Oct 2026 18:00:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG9ja2VyJTJGZG9ja2VyLWFnZW50JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG9ja2VyJTJGZG9ja2VyLWFnZW50JTdDRG9ja2VyJTIwQWdlbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NjI1OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE3JTNBNDglM0EzOCUyMCUyQjAwMDA",
+      "title": "Docker Agent",
+      "pubDate": "Wed, 07 Oct 2026 17:48:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZ2VudC5yZXZpZXdzJTJGJTdDaHR0cHMlM0ElMkYlMkZhZ2VudC5yZXZpZXdzJTJGJTdDU2hvdyUyMEhOJTNBJTIwQWdlbnQucmV2aWV3cyUyMCVFMiU4MCU5MyUyMFdoZXJlJTIwQUklMjBhZ2VudHMlMjByZWFkJTIwYW5kJTIwd3JpdGUlMjByZXZpZXdzJTIwb24lMjB0b29scyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTk1NTM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTYlM0E1OSUzQTExJTIwJTJCMDAwMA",
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "pubDate": "Wed, 07 Oct 2026 16:59:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaWd3b3Jkcy5wYWdlJTJGJTdDaHR0cHMlM0ElMkYlMkZiaWd3b3Jkcy5wYWdlJTJGJTdDU2hvdyUyMEhOJTNBJTIwQmlnd29yZHMucGFnZSUyMCVFMiU4MCU5MyUyMFR1cm4lMjBhbnklMjBzY3JlZW4lMjBpbnRvJTIwYSUyMHNpZ24uJTIwVGhlJTIwVVJMJTIwaXMlMjB0aGUlMjBhcHAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NDQ0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE1JTNBNDQlM0EyMSUyMCUyQjAwMDA",
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "pubDate": "Wed, 07 Oct 2026 15:44:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjA4MTQ0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjA4MTQ0JTdDTmF2aWVyJUUyJTgwJTkzU3Rva2VzJTIwTG9zdCUyMGluJTIwVHJhbnNsYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NDE0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE1JTNBMjQlM0EzOCUyMCUyQjAwMDA",
+      "title": "Navier–Stokes Lost in Translation",
+      "pubDate": "Wed, 07 Oct 2026 15:24:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjEwJTJGc2hpbnlodW50ZXJzLWV4dG9ydGVkLWJvZWluZy1zcGluLW9mZi1wcmlvci10by1hcnJlc3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjEwJTJGc2hpbnlodW50ZXJzLWV4dG9ydGVkLWJvZWluZy1zcGluLW9mZi1wcmlvci10by1hcnJlc3RzJTJGJTdDU2hpbnlIdW50ZXJzJTIwRXh0b3J0ZWQlMjBCb2VpbmclMjBTcGluLU9mZiUyMFByaW9yJTIwdG8lMjBBcnJlc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTM5OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxNSUzQTE1JTNBMzYlMjAlMkIwMDAw",
+      "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
+      "pubDate": "Wed, 07 Oct 2026 15:15:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2xhc3NhY3Rpb24ub3JnJTJGbmV3cyUyRnZpc2EtbWFzdGVyY2FyZC1tYWpvci1iYW5rcy1mYWNpbmctbmV3LWxpdGlnYXRpb24tb3Zlci1hbnRpY29tcGV0aXRpdmUtbWVyY2hhbnQtY3JlZGl0LWNhcmQtdHJhbnNhY3Rpb24tZmVlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNsYXNzYWN0aW9uLm9yZyUyRm5ld3MlMkZ2aXNhLW1hc3RlcmNhcmQtbWFqb3ItYmFua3MtZmFjaW5nLW5ldy1saXRpZ2F0aW9uLW92ZXItYW50aWNvbXBldGl0aXZlLW1lcmNoYW50LWNyZWRpdC1jYXJkLXRyYW5zYWN0aW9uLWZlZXMlN0NWaXNhJTJDJTIwTWFzdGVyY2FyZCUyQyUyMG1ham9yJTIwYmFua3MlMjBmYWNpbmclMjBuZXclMjBsaXRpZ2F0aW9uJTIwb3ZlciUyMCdhbnRpY29tcGV0aXRpdmUnJTIwZmVlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTkzOTE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTUlM0EwOSUzQTU5JTIwJTJCMDAwMA",
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "pubDate": "Wed, 07 Oct 2026 15:09:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRnRoZS1zZXZlbi12aWNlcy1vZi1oaWdobHktZWZmZWN0aXZlLXZpY3RvcmlhbnMlMkYlN0NodHRwcyUzQSUyRiUyRndvcmtzaW5wcm9ncmVzcy5jbyUyRmlzc3VlJTJGdGhlLXNldmVuLXZpY2VzLW9mLWhpZ2hseS1lZmZlY3RpdmUtdmljdG9yaWFucyUyRiU3Q1doeSUyMHdlcmUlMjBWaWN0b3JpYW4lMjBlbGl0ZXMlMjBzbyUyMGVmZmVjdGl2ZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTkzOTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTUlM0EwOSUzQTMzJTIwJTJCMDAwMA",
+      "title": "Why were Victorian elites so effective?",
+      "pubDate": "Wed, 07 Oct 2026 15:09:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWZhY3RvcmluZ2VuZ2xpc2guY29tJTJGYmxvZyUyRmFudGktcGF0dGVybnMtc29mdHdhcmUtYmxvZ2dpbmclMkYlN0NodHRwcyUzQSUyRiUyRnJlZmFjdG9yaW5nZW5nbGlzaC5jb20lMkZibG9nJTJGYW50aS1wYXR0ZXJucy1zb2Z0d2FyZS1ibG9nZ2luZyUyRiU3Q0FudGktcGF0dGVybnMlMjBpbiUyMHNvZnR3YXJlJTIwYmxvZ2dpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5MjI1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDEzJTNBMDglM0EyNiUyMCUyQjAwMDA",
+      "title": "Anti-patterns in software blogging",
+      "pubDate": "Wed, 07 Oct 2026 13:08:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmFpJTJGcGxheWdyb3VuZC1leHBlcmltZW50YWwtZ2FtaW5nLXBsYXRmb3JtJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmFpJTJGcGxheWdyb3VuZC1leHBlcmltZW50YWwtZ2FtaW5nLXBsYXRmb3JtJTJGJTdDR29vZ2xlJTIwUGxheWdyb3VuZCUzQSUyMENyZWF0ZSUyMGFuZCUyMHBsYXklMjBjdXN0b20lMjBnYW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTkxODIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTIlM0EyOCUzQTM2JTIwJTJCMDAwMA",
+      "title": "Google Playground: Create and play custom games",
+      "pubDate": "Wed, 07 Oct 2026 12:28:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
     }
   ]
