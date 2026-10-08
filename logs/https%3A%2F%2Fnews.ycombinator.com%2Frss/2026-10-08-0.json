@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-08",
     "newestItemDate": "2026-10-08",
-    "itemCount": 12,
-    "generatedAt": "2026-10-08T15:42:43.000Z"
+    "itemCount": 30,
+    "generatedAt": "2026-10-08T21:23:18.766Z"
   },
   "items": [
     {
@@ -78,6 +78,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoc3RvZG9uLnh5eiUyRiU0MHRhbyUyRjExNzM5NTI2OTMyNTk0MDE4NSU3Q2h0dHBzJTNBJTJGJTJGbWF0aHN0b2Rvbi54eXolMkYlNDB0YW8lMkYxMTczOTUyNjkzMjU5NDAxODUlN0MlRTIlODAlOUNNYXRoJTIwMi4wJUUyJTgwJTlEJTIwd2lsbCUyMG5lZWQlMjB0byUyMHZhbHVlJTIwbWF0aGVtYXRpY2FsJTIwcHJvZ3Jlc3MlMjBtb3JlJTIwaG9saXN0aWNhbGx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDIwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAwNSUzQTE0JTNBMTQlMjAlMkIwMDAw",
       "title": "“Math 2.0” will need to value mathematical progress more holistically",
       "pubDate": "Thu, 08 Oct 2026 05:14:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGhlc25hcmtpdGVjaHQlMkZyZW1icmFuZHQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ0aGVzbmFya2l0ZWNodCUyRnJlbWJyYW5kdCU3Q1Nob3clMjBITiUzQSUyMEZyZWUlMjBvcGVuJTIwc291cmNlJTIwQWRvYmUlMjBMaWdodHJvb20lMjBhbHRlcm5hdGl2ZSUyQyUyMGNvbXBsZXRlbHklMjBsb2NhbCUyMHdpdGglMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDEyMTk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMjElM0EwMCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "pubDate": "Thu, 08 Oct 2026 21:00:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm1hdHRoZXdfZF9ncmVlbiUyRnN0YXR1cyUyRjIxMDgyNzg4NTA1NTU2NzQ5NzUlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGbWF0dGhld19kX2dyZWVuJTJGc3RhdHVzJTJGMjEwODI3ODg1MDU1NTY3NDk3NSU3Q0klMjB0aGluayUyMHdlJTIwbWlnaHQlMjBsb3NlJTIwcHVibGljJTIwa2V5JTIwY3J5cHRvZ3JhcGh5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTIwNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAyMCUzQTQ4JTNBMzclMjAlMkIwMDAw",
+      "title": "I think we might lose public key cryptography",
+      "pubDate": "Thu, 08 Oct 2026 20:48:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaW9odWIub3JnJTJGbmV3cyUyRnZpcnR1YWwtYmlvbG9neS1pbml0aWF0aXZlLWV4cGFuc2lvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmlvaHViLm9yZyUyRm5ld3MlMkZ2aXJ0dWFsLWJpb2xvZ3ktaW5pdGlhdGl2ZS1leHBhbnNpb24lMkYlN0NBSS1yZWFkeSUyMGJpb2xvZ2ljYWwlMjBkYXRhJTNBJTIwJTI0MS44QiUyMGdsb2JhbCUyMGNvbW1pdG1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxMTk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDIwJTNBNDYlM0EyNSUyMCUyQjAwMDA",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "pubDate": "Thu, 08 Oct 2026 20:46:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZW4uYXJuZXNvbi5uYW1lJTJGMjAxNSUyRjExJTJGdGhlLXZhbHVlLW9mLW5vdC1nZXR0aW5nLXRvLXRoZS1wb2ludCUyRiU3Q2h0dHBzJTNBJTJGJTJGa2VuLmFybmVzb24ubmFtZSUyRjIwMTUlMkYxMSUyRnRoZS12YWx1ZS1vZi1ub3QtZ2V0dGluZy10by10aGUtcG9pbnQlMkYlN0NUaGUlMjB2YWx1ZSUyMG9mJTIwbm90JTIwZ2V0dGluZyUyMHRvJTIwdGhlJTIwcG9pbnQlMjAoMjAxNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxMDQ3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDE5JTNBMDQlM0E1NiUyMCUyQjAwMDA",
+      "title": "The value of not getting to the point (2015)",
+      "pubDate": "Thu, 08 Oct 2026 19:04:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcDEwbm9kZSUyRmsxMHMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwMTBub2RlJTJGazEwcyU3Q1Nob3clMjBITiUzQSUyMEsxMHMlMjAlRTIlODAlOTMlMjBBJTIwQ2xpY2thYmxlJTIwS3ViZXJuZXRlcyUyMFRVSSUyMChHbyUyQyUyMEJ1YmJsZSUyMFRlYSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwOTkwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDE4JTNBMjklM0EwNiUyMCUyQjAwMDA",
+      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+      "pubDate": "Thu, 08 Oct 2026 18:29:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmFub3Mud29ybGQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVyYW5vcy53b3JsZCUyRiU3Q1RoZXJhbm9zLndvcmxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDkyOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAxNyUzQTUxJTNBNDklMjAlMkIwMDAw",
+      "title": "Theranos.world",
+      "pubDate": "Thu, 08 Oct 2026 17:51:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWN0dXNjb21wdXRlLmNvbSUyRmJsb2clMkZ3aGlzdGxlJTdDaHR0cHMlM0ElMkYlMkZjYWN0dXNjb21wdXRlLmNvbSUyRmJsb2clMkZ3aGlzdGxlJTdDV2hpc3RsZSUzQSUyMFNwZWVjaCUyMHRvJTIwVGV4dCUyMGluJTIwMTYuOSUyME1CJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDg0MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAxNiUzQTU5JTNBMzklMjAlMkIwMDAw",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "pubDate": "Thu, 08 Oct 2026 16:59:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMTAlMkYwOCUyRm9wZW4tYWktcmV2ZW51ZS1udmlkaWEtb3JhY2xlLWNvcmV3ZWF2ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMTAlMkYwOCUyRm9wZW4tYWktcmV2ZW51ZS1udmlkaWEtb3JhY2xlLWNvcmV3ZWF2ZS5odG1sJTdDT3BlbkFJJTIwYW5udWFsaXNlZCUyMHJldmVudWVzJTIwJTI0MjBCJTIwbGVzcyUyMHRoYW4lMjBwcmV2aW91c2x5JTIwc2lnbmFsbGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDgxODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAxNiUzQTQ1JTNBNTglMjAlMkIwMDAw",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "pubDate": "Thu, 08 Oct 2026 16:45:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnNjb3R0YmV6ZWsuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjEwJTJGbWFraW5nLWZsZXhpYmxlLW5lb24tdC1zaGlydC13aXRoLWxlZHMuaHRtbCU3Q2h0dHAlM0ElMkYlMkZzY290dGJlemVrLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYxMCUyRm1ha2luZy1mbGV4aWJsZS1uZW9uLXQtc2hpcnQtd2l0aC1sZWRzLmh0bWwlN0NTaG93JTIwSE4lM0ElMjBNYWtpbmclMjBhJTIwZmxleGlibGUlMjAlMjJuZW9uJTIyJTIwdC1zaGlydCUyMHdpdGglMjBMRUQlMjBmaWxhbWVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwODA0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDE2JTNBMzclM0EyNCUyMCUyQjAwMDA",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "pubDate": "Thu, 08 Oct 2026 16:37:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGc3RlcGZ1biUyRnN0ZXAtNS1wcmV2aWV3JTdDaHR0cHMlM0ElMkYlMkZvcGVucm91dGVyLmFpJTJGc3RlcGZ1biUyRnN0ZXAtNS1wcmV2aWV3JTdDU3RlcCUyMDUlMjBQcmV2aWV3JTJDJTIwYSUyMDFNLWNvbnRleHQlMjBNb0UlMjBmcm9tJTIwU3RlcEZ1biUyQyUyMHNob3dzJTIwdXAlMjBvbiUyME9wZW5Sb3V0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNzc2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDE2JTNBMjAlM0EyMCUyMCUyQjAwMDA",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "pubDate": "Thu, 08 Oct 2026 16:20:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdndGxkcHJvZ3JhbS1hcHMuaWNhbm4ub3JnJTJGYXBwbGljYXRpb25zJTJGQ0QyNjk0VC1UMjYzNTElMkZzdW1tYXJ5JTdDaHR0cHMlM0ElMkYlMkZuZXdndGxkcHJvZ3JhbS1hcHMuaWNhbm4ub3JnJTJGYXBwbGljYXRpb25zJTJGQ0QyNjk0VC1UMjYzNTElMkZzdW1tYXJ5JTdDTmV3JTIwZ1RMRCUyMEFwcGxpY2F0aW9uJTIwZm9yJTIwLmxhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA3MzUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTUlM0E1MSUzQTUxJTIwJTJCMDAwMA",
+      "title": "New gTLD Application for .lan",
+      "pubDate": "Thu, 08 Oct 2026 15:51:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmgxYi12aXNhLXByb2dyYW0tdmFuY2UtbWljcm9zb2Z0LWU3YjNhNDA3ZjgyMjcwMmIyNjllZTI3N2QyMTM0M2VhJTdDaHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmgxYi12aXNhLXByb2dyYW0tdmFuY2UtbWljcm9zb2Z0LWU3YjNhNDA3ZjgyMjcwMmIyNjllZTI3N2QyMTM0M2VhJTdDVHJ1bXAlMjBhZG1pbmlzdHJhdGlvbiUyMGlzJTIwc3VzcGVuZGluZyUyME1pY3Jvc29mdCUyMGZyb20lMjBhJTIwZ3JlZW4lMjBjYXJkJTIwcHJvZ3JhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA2ODMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTUlM0ExNSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "pubDate": "Thu, 08 Oct 2026 15:15:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcmt1dC5jb20lMkYlN0NodHRwcyUzQSUyRiUyRm9ya3V0LmNvbSUyRiU3Q09ya3V0LmNvbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA2MDEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTQlM0EwOSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Orkut.com",
+      "pubDate": "Thu, 08 Oct 2026 14:09:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmZsaW5kZXJzLmVkdS5hdSUyRmJsb2clMkYyMDI2JTJGMTAlMkYwNiUyRnZhbmlsbGluLXByb3ZpZGVzLWEtc3dlZXQtc29sdXRpb24tZm9yLWNocm9uaWMtd291bmQtaGVhbGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5mbGluZGVycy5lZHUuYXUlMkZibG9nJTJGMjAyNiUyRjEwJTJGMDYlMkZ2YW5pbGxpbi1wcm92aWRlcy1hLXN3ZWV0LXNvbHV0aW9uLWZvci1jaHJvbmljLXdvdW5kLWhlYWxpbmclMkYlN0NWYW5pbGxpbiUyMHByb3ZpZGVzJTIwYSUyMHN3ZWV0JTIwc29sdXRpb24lMjBmb3IlMjBjaHJvbmljJTIwd291bmQlMjBoZWFsaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDQ1NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAxMSUzQTMwJTNBMDglMjAlMkIwMDAw",
+      "title": "Vanillin provides a sweet solution for chronic wound healing",
+      "pubDate": "Thu, 08 Oct 2026 11:30:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGYXJ0aWNsZSUyRjMxNzgtb2xlZC1idXJuLWluLXRlc3QlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNoc3BvdC5jb20lMkZhcnRpY2xlJTJGMzE3OC1vbGVkLWJ1cm4taW4tdGVzdCUyRiU3Q09MRUQlMjBidXJuLWluJTIwdGVzdCUzQSUyMDMwLW1vbnRoJTIwdXBkYXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDQxMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAxMCUzQTM0JTNBMTUlMjAlMkIwMDAw",
+      "title": "OLED burn-in test: 30-month update",
+      "pubDate": "Thu, 08 Oct 2026 10:34:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodG14Lm9yZyUyRmVzc2F5cyUyRnllcy1hbmQlMkYlN0NodHRwcyUzQSUyRiUyRmh0bXgub3JnJTJGZXNzYXlzJTJGeWVzLWFuZCUyRiU3Q1llcyUyQyUyMGFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDAzNzk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMDklM0E0OCUzQTE4JTIwJTJCMDAwMA",
+      "title": "Yes, and",
+      "pubDate": "Thu, 08 Oct 2026 09:48:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVxdWlldHVzLmNvbSUyRm5ld3MlMkZ1cy1tYW4tZ2l2ZW4tcHJpc29uLXNlbnRlbmNlLWZvci1ib3QtZmFybWluZy1tdXNpYy1zdHJlYW1zJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGVxdWlldHVzLmNvbSUyRm5ld3MlMkZ1cy1tYW4tZ2l2ZW4tcHJpc29uLXNlbnRlbmNlLWZvci1ib3QtZmFybWluZy1tdXNpYy1zdHJlYW1zJTJGJTdDVVMlMjBtYW4lMjBnaXZlbiUyMHByaXNvbiUyMHNlbnRlbmNlJTIwZm9yJTIwYm90LWZhcm1pbmclMjBtdXNpYyUyMHN0cmVhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwMDk4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDAxJTNBMzMlM0ExNyUyMCUyQjAwMDA",
+      "title": "US man given prison sentence for bot-farming music streams",
+      "pubDate": "Thu, 08 Oct 2026 01:33:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGd0LmlzJTJGYmxvZyUyRjIwMjYtMTAtMDctZGVlcHNlZWstZnJlZWstb3V0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGd0LmlzJTJGYmxvZyUyRjIwMjYtMTAtMDctZGVlcHNlZWstZnJlZWstb3V0JTJGJTdDV2h5JTIwaXNuJ3QlMjB0aGUlMjBpbmR1c3RyeSUyMGZyZWFraW5nJTIwb3V0JTIwYWJvdXQlMjBEZWVwU2VlayUyMDQuMSUyMEZsYXNoJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDA0ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAwMCUzQTE0JTNBNDglMjAlMkIwMDAw",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "pubDate": "Thu, 08 Oct 2026 00:14:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
     }
   ]

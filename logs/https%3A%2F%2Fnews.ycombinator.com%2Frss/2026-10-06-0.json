@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 69,
-    "generatedAt": "2026-10-08T15:42:43.001Z"
+    "itemCount": 70,
+    "generatedAt": "2026-10-08T21:23:18.766Z"
   },
   "items": [
     {
@@ -420,6 +420,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmNoYW5nZWxvZyUyRjIwMjYtMDItMTMtbmV3LXJlcG9zaXRvcnktc2V0dGluZ3MtZm9yLWNvbmZpZ3VyaW5nLXB1bGwtcmVxdWVzdC1hY2Nlc3MlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5ibG9nJTJGY2hhbmdlbG9nJTJGMjAyNi0wMi0xMy1uZXctcmVwb3NpdG9yeS1zZXR0aW5ncy1mb3ItY29uZmlndXJpbmctcHVsbC1yZXF1ZXN0LWFjY2VzcyUyRiU3Q05ldyUyMHJlcG9zaXRvcnklMjBzZXR0aW5ncyUyMGZvciUyMGNvbmZpZ3VyaW5nJTIwcHVsbCUyMHJlcXVlc3QlMjBhY2Nlc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NTE1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDA3JTNBMDElM0E1MSUyMCUyQjAwMDA",
       "title": "New repository settings for configuring pull request access",
       "pubDate": "Tue, 06 Oct 2026 07:01:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXRjaGVsbGguY29tJTJGd3JpdGluZyUyRnByb2dyYW0tc3RhdHVzLW9zYzc1MDElN0NodHRwcyUzQSUyRiUyRm1pdGNoZWxsaC5jb20lMkZ3cml0aW5nJTJGcHJvZ3JhbS1zdGF0dXMtb3NjNzUwMSU3Q0ElMjBUZXJtaW5hbCUyMFByb3RvY29sJTIwZm9yJTIwUHJvZ3JhbSUyMFN0YXR1cyUyMChPU0MlMjA3NTAxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTg0MTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMjElM0EwOCUzQTAwJTIwJTJCMDAwMA",
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "pubDate": "Tue, 06 Oct 2026 21:08:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]

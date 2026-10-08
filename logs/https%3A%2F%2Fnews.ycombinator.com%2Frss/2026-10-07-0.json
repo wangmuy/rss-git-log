@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-07",
     "newestItemDate": "2026-10-07",
-    "itemCount": 46,
-    "generatedAt": "2026-10-08T06:17:07.259Z"
+    "itemCount": 54,
+    "generatedAt": "2026-10-08T21:23:18.766Z"
   },
   "items": [
     {
@@ -282,6 +282,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYwNyUyRnNjaWVuY2UlMkZmaXJzdC1udWNsZWFyLWNsb2Nrcy10aG9yaXVtLTIyOS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYwNyUyRnNjaWVuY2UlMkZmaXJzdC1udWNsZWFyLWNsb2Nrcy10aG9yaXVtLTIyOS5odG1sJTdDSW4lMjBWaWVubmElMjBhbmQlMjBCZWlqaW5nJTJDJTIwdGhlJTIwZmlyc3QlMjAodGhvcml1bSklMjBudWNsZWFyJTIwY2xvY2tzJTIwYmVnaW4lMjB0byUyMHRpY2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NjQwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE3JTNBNTklM0EzNCUyMCUyQjAwMDA",
       "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
       "pubDate": "Wed, 07 Oct 2026 17:59:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc2NpZW5jZS1uYXR1cmUlMkZhcmNoYWVvbG9naXN0cy1hcmUtcmVjb25zdHJ1Y3RpbmctdGhlLWludmlzaWJsZS10ZWNobm9sb2dpZXMtb2YtdGhlLXN0b25lLWFnZS1mcm9tLXJvcGUtdG8tdGhyZWFkLWFuZC10d2luZS0xODA5ODk1MzQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zbWl0aHNvbmlhbm1hZy5jb20lMkZzY2llbmNlLW5hdHVyZSUyRmFyY2hhZW9sb2dpc3RzLWFyZS1yZWNvbnN0cnVjdGluZy10aGUtaW52aXNpYmxlLXRlY2hub2xvZ2llcy1vZi10aGUtc3RvbmUtYWdlLWZyb20tcm9wZS10by10aHJlYWQtYW5kLXR3aW5lLTE4MDk4OTUzNCUyRiU3Q0FyY2hhZW9sb2dpc3RzJTIwQXJlJTIwUmVjb25zdHJ1Y3RpbmclMjB0aGUlMjAnSW52aXNpYmxlJyUyMFRlY2hub2xvZ2llcyUyMG9mJTIwdGhlJTIwU3RvbmUlMjBBZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5ODk5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDIxJTNBMjUlM0ExNiUyMCUyQjAwMDA",
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "pubDate": "Wed, 07 Oct 2026 21:25:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTg2LTAyNi0xMDU0Ni16JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTg2LTAyNi0xMDU0Ni16JTdDQSUyMDUuM00teWVhci1vbGQlMjBkZWVwLXNlYSUyMHdoYWxlJTIwbmVjcm9wb2xpcyUyMGluJTIwdGhlJTIwRGlhbWFudGluYSUyMFpvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NjYzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE4JTNBMTQlM0E0MSUyMCUyQjAwMDA",
+      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "pubDate": "Wed, 07 Oct 2026 18:14:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZHVja2RiJTJGZHVja2xha2UlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkdWNrZGIlMkZkdWNrbGFrZSU3Q0R1Y2tEQiUyMER1Y2tsYWtlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTYxNDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxNyUzQTQwJTNBMjMlMjAlMkIwMDAw",
+      "title": "DuckDB Ducklake",
+      "pubDate": "Wed, 07 Oct 2026 17:40:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGV4ZXJ0by5jb20lMkZlbnRlcnRhaW5tZW50JTJGbWFuLWRpc2NvdmVycy1oaXMtcGFyZW50cy1jb2ZmZWUtbWFjaGluZS11c2VkLTF0Yi1vZi1kYXRhLWluLTEwLWRheXMtMzQxNjM5OSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRleGVydG8uY29tJTJGZW50ZXJ0YWlubWVudCUyRm1hbi1kaXNjb3ZlcnMtaGlzLXBhcmVudHMtY29mZmVlLW1hY2hpbmUtdXNlZC0xdGItb2YtZGF0YS1pbi0xMC1kYXlzLTM0MTYzOTklMkYlN0NNYW4lMjBkaXNjb3ZlcnMlMjBoaXMlMjBwYXJlbnRzJyUyMGNvZmZlZSUyMG1hY2hpbmUlMjB1c2VkJTIwMVRCJTIwb2YlMjBkYXRhJTIwaW4lMjAxMCUyMGRheXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NTQ5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE2JTNBNTYlM0EzMCUyMCUyQjAwMDA",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "pubDate": "Wed, 07 Oct 2026 16:56:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb252ZXJzYXRpb24uY29tJTJGdGhlLWRhd24tb2YtdGhlLWFnZS1vZi10aGUtZXhvc2tlbGV0b24tMjgxODA0JTdDaHR0cHMlM0ElMkYlMkZ0aGVjb252ZXJzYXRpb24uY29tJTJGdGhlLWRhd24tb2YtdGhlLWFnZS1vZi10aGUtZXhvc2tlbGV0b24tMjgxODA0JTdDVGhlJTIwZGF3biUyMG9mJTIwdGhlJTIwYWdlJTIwb2YlMjB0aGUlMjBleG9za2VsZXRvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTk0NjYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMTUlM0E1OSUzQTQxJTIwJTJCMDAwMA",
+      "title": "The dawn of the age of the exoskeleton",
+      "pubDate": "Wed, 07 Oct 2026 15:59:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXR1cmFsc3lzdGVtcy5pbyUyRmV0aDY4JTdDaHR0cHMlM0ElMkYlMkZuYXR1cmFsc3lzdGVtcy5pbyUyRmV0aDY4JTdDRVRILTY4JTNBJTIwRXRoZXJuZXQlMjBBdWRpbyUyMEludGVyZmFjZSUyMGZvciUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTI5OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAxMyUzQTU4JTNBMDUlMjAlMkIwMDAw",
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "pubDate": "Wed, 07 Oct 2026 13:58:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGeW1jcmNhdCUyRnJncHUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ5bWNyY2F0JTJGcmdwdSU3Q1Nob3clMjBITiUzQSUyMFJncHUlMjAlRTIlODAlOTMlMjBhJTIwUHlUb3JjaCUyMGRldmljZSUyMHdob3NlJTIwdGVuc29ycyUyMGxpdmUlMjBvbiUyMGElMjByZW1vdGUlMjBHUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk4ODUxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDA1JTNBMTUlM0E0NCUyMCUyQjAwMDA",
+      "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+      "pubDate": "Wed, 07 Oct 2026 05:15:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRvbmZyb2xvdi5zdWJzdGFjay5jb20lMkZwJTJGaS1oaXJlZC1hbi1pbGx1c3RyYXRvci10by1kcmF3LW15JTdDaHR0cHMlM0ElMkYlMkZhbnRvbmZyb2xvdi5zdWJzdGFjay5jb20lMkZwJTJGaS1oaXJlZC1hbi1pbGx1c3RyYXRvci10by1kcmF3LW15JTdDSSUyMGhpcmVkJTIwYW4lMjBpbGx1c3RyYXRvciUyMHRvJTIwZHJhdyUyMG15JTIwaG91c2UuJTIwTm93JTIwaXQncyUyMG15JTIwSG9tZSUyMEFzc2lzdGFudCUyMGRhc2hib2FyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTg2ODgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMDElM0E0MSUzQTAzJTIwJTJCMDAwMA",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "pubDate": "Wed, 07 Oct 2026 01:41:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
     }
   ]
