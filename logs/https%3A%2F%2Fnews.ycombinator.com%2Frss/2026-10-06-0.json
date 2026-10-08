@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 60,
-    "generatedAt": "2026-10-07T21:22:27.434Z"
+    "itemCount": 64,
+    "generatedAt": "2026-10-08T06:17:07.259Z"
   },
   "items": [
     {
@@ -366,6 +366,30 @@
       "itemId": "aHR0cCUzQSUyRiUyRmdhbWVzYnllbWFpbC5jb20lMkZXb29kVGFwZSUyRkRlZmF1bHQuaHRtJTdDaHR0cCUzQSUyRiUyRmdhbWVzYnllbWFpbC5jb20lMkZXb29kVGFwZSUyRkRlZmF1bHQuaHRtJTdDV29vZCUyMFRhcGUlMjAoMjAwNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NDE3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDA0JTNBMjUlM0E0MSUyMCUyQjAwMDA",
       "title": "Wood Tape (2004)",
       "pubDate": "Tue, 06 Oct 2026 04:25:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkNsZW9fKG1hdGhlbWF0aWNpYW4pJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkNsZW9fKG1hdGhlbWF0aWNpYW4pJTdDQ2xlbyUyMChNYXRoZW1hdGljaWFuKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgyNDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTglM0E0OSUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Cleo (Mathematician)",
+      "pubDate": "Tue, 06 Oct 2026 18:49:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MTAwNS0wMCUyRiUzRnAlM0QxMTI3NTUlMkYlN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYxMDA1LTAwJTJGJTNGcCUzRDExMjc1NSUyNTJGJTdDSWYlMjBzb21lYm9keSUyMHRyaWVzJTIwdG8lMjBob3QtcGF0Y2glMjBhbiUyMGFscmVhZHktaG90LXBhdGNoZWQlMjBmdW5jdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc4MzE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTMlM0EzOSUzQTU5JTIwJTJCMDAwMA",
+      "title": "If somebody tries to hot-patch an already-hot-patched function",
+      "pubDate": "Tue, 06 Oct 2026 13:39:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJldHRlLnh5eiUyRnBvc3RzJTJGbWluaW1hbF9zd2lmdF9rZXJuZWxfb25fcWVtdSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2FyZXR0ZS54eXolMkZwb3N0cyUyRm1pbmltYWxfc3dpZnRfa2VybmVsX29uX3FlbXUlMkYlN0NBJTIwbWluaW1hbCUyMGtlcm5lbCUyMGluJTIwU3dpZnQlMkMlMjBydW5uaW5nJTIwaW4lMjBRRU1VJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzczNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMiUzQTIwJTNBMDMlMjAlMkIwMDAw",
+      "title": "A minimal kernel in Swift, running in QEMU",
+      "pubDate": "Tue, 06 Oct 2026 12:20:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmVnb3J5Z3VuZGVyc2VuLmNvbSUyRmJsb2clMkYyMDI2JTJGMDQlMkYyMiUyRmJyb3duaWFuLW1vdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JlZ29yeWd1bmRlcnNlbi5jb20lMkZibG9nJTJGMjAyNiUyRjA0JTJGMjIlMkZicm93bmlhbi1tb3Rpb24lMkYlN0NCcm93bmlhbiUyME1vdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc2ODE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTElM0ExMSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Brownian Motion",
+      "pubDate": "Tue, 06 Oct 2026 11:11:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]
