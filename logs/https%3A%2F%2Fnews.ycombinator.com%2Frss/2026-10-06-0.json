@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 64,
-    "generatedAt": "2026-10-08T06:17:07.259Z"
+    "itemCount": 69,
+    "generatedAt": "2026-10-08T15:42:43.001Z"
   },
   "items": [
     {
@@ -390,6 +390,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZncmVnb3J5Z3VuZGVyc2VuLmNvbSUyRmJsb2clMkYyMDI2JTJGMDQlMkYyMiUyRmJyb3duaWFuLW1vdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JlZ29yeWd1bmRlcnNlbi5jb20lMkZibG9nJTJGMjAyNiUyRjA0JTJGMjIlMkZicm93bmlhbi1tb3Rpb24lMkYlN0NCcm93bmlhbiUyME1vdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTc2ODE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTElM0ExMSUzQTM0JTIwJTJCMDAwMA",
       "title": "Brownian Motion",
       "pubDate": "Tue, 06 Oct 2026 11:11:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0Q5cmFuZnBfdnozMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEOXJhbmZwX3Z6MzAlN0NWRUNPUyUyMCVFMiU4MCU5MyUyMEElMjB3aW5kb3dzLWxpa2UlMjBvcGVyYXRpbmclMjBzeXN0ZW0lMjBmb3IlMjB0aGUlMjBWZWN0cmV4JTIwZm9yJTIwdGhlJTIwVVZNQzIlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTg0OTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMjIlM0EyMyUzQTA0JTIwJTJCMDAwMA",
+      "title": "VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]",
+      "pubDate": "Tue, 06 Oct 2026 22:23:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubHJiLmNvLnVrJTJGdGhlLXBhcGVyJTJGdjQ4JTJGbjE4JTJGZWRtdW5kLWdvcmRvbiUyRmJsb29keS1jYXZlbWVuJTdDaHR0cHMlM0ElMkYlMkZ3d3cubHJiLmNvLnVrJTJGdGhlLXBhcGVyJTJGdjQ4JTJGbjE4JTJGZWRtdW5kLWdvcmRvbiUyRmJsb29keS1jYXZlbWVuJTdDQmxvb2R5JTIwQ2F2ZW1lbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgzNzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMjAlM0EzOSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Bloody Cavemen",
+      "pubDate": "Tue, 06 Oct 2026 20:39:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLmRhbmNvaGVuLm9yZyUyRmFyY2hpdmUlMkZ0aGUtc2xvdy1mb3JtYXRpb24tb2YtZHVyYWJsZS1zb2Z0d2FyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV3c2xldHRlci5kYW5jb2hlbi5vcmclMkZhcmNoaXZlJTJGdGhlLXNsb3ctZm9ybWF0aW9uLW9mLWR1cmFibGUtc29mdHdhcmUlMkYlN0NUaGUlMjBTbG93JTIwRm9ybWF0aW9uJTIwb2YlMjBEdXJhYmxlJTIwU29mdHdhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk4MDM0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDE1JTNBNTQlM0EyNCUyMCUyQjAwMDA",
+      "title": "The Slow Formation of Durable Software",
+      "pubDate": "Tue, 06 Oct 2026 15:54:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGZW52aXJvbm1lbnQlMkYyMDI2JTJGc2VwJTJGMjQlMkZmdXJuYWNlLWJvb2stZWFzdC1zdXNzZXgtZmlzaGluZy1sYWtlJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGZW52aXJvbm1lbnQlMkYyMDI2JTJGc2VwJTJGMjQlMkZmdXJuYWNlLWJvb2stZWFzdC1zdXNzZXgtZmlzaGluZy1sYWtlJTdDJ1RoZSUyMGVlbHMlMjB3ZXJlJTIwY2xpbWJpbmclMjBvdXQlMjBvZiUyMHRoZSUyMHdhdGVyJTIwdG8lMjBkaWUnJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NzgwMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwNiUyME9jdCUyMDIwMjYlMjAxMyUzQTE4JTNBMzQlMjAlMkIwMDAw",
+      "title": "'The eels were climbing out of the water to die'",
+      "pubDate": "Tue, 06 Oct 2026 13:18:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmNoYW5nZWxvZyUyRjIwMjYtMDItMTMtbmV3LXJlcG9zaXRvcnktc2V0dGluZ3MtZm9yLWNvbmZpZ3VyaW5nLXB1bGwtcmVxdWVzdC1hY2Nlc3MlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5ibG9nJTJGY2hhbmdlbG9nJTJGMjAyNi0wMi0xMy1uZXctcmVwb3NpdG9yeS1zZXR0aW5ncy1mb3ItY29uZmlndXJpbmctcHVsbC1yZXF1ZXN0LWFjY2VzcyUyRiU3Q05ldyUyMHJlcG9zaXRvcnklMjBzZXR0aW5ncyUyMGZvciUyMGNvbmZpZ3VyaW5nJTIwcHVsbCUyMHJlcXVlc3QlMjBhY2Nlc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk3NTE1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDA2JTIwT2N0JTIwMjAyNiUyMDA3JTNBMDElM0E1MSUyMCUyQjAwMDA",
+      "title": "New repository settings for configuring pull request access",
+      "pubDate": "Tue, 06 Oct 2026 07:01:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]

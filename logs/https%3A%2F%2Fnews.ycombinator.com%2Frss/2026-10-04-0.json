@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-04",
     "newestItemDate": "2026-10-04",
-    "itemCount": 39,
-    "generatedAt": "2026-10-07T15:37:29.477Z"
+    "itemCount": 40,
+    "generatedAt": "2026-10-08T15:42:43.002Z"
   },
   "items": [
     {
@@ -240,6 +240,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ5b3NzYXJpYW4ubmV0JTJGdGlsJTJGcG9zdCUyRnJ1c3Qtcy1kZXJpdmUtb2Z0ZW4taW1wbGllcy1pbmxpbmUlMkYlN0NodHRwcyUzQSUyRiUyRnlvc3Nhcmlhbi5uZXQlMkZ0aWwlMkZwb3N0JTJGcnVzdC1zLWRlcml2ZS1vZnRlbi1pbXBsaWVzLWlubGluZSUyRiU3Q1J1c3QncyUyMGRlcml2ZSUyMG9mdGVuJTIwaW1wbGllcyUyMGlubGluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTQ5NjgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDQlMjBPY3QlMjAyMDI2JTIwMDElM0EyNyUzQTAyJTIwJTJCMDAwMA",
       "title": "Rust's derive often implies inline",
       "pubDate": "Sun, 04 Oct 2026 01:27:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxbnRtLm9yZyUyRmJyYWlkJTdDaHR0cHMlM0ElMkYlMkZxbnRtLm9yZyUyRmJyYWlkJTdDVGltZSUyMFRyYXZlbCUyMGluJTIwQnJhaWQlMjAoMjAxNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk1ODE5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA0JTIwT2N0JTIwMjAyNiUyMDIxJTNBNDIlM0E0MyUyMCUyQjAwMDA",
+      "title": "Time Travel in Braid (2015)",
+      "pubDate": "Sun, 04 Oct 2026 21:42:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-04-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-08",
     "newestItemDate": "2026-10-08",
-    "itemCount": 2,
-    "generatedAt": "2026-10-08T06:17:07.258Z"
+    "itemCount": 12,
+    "generatedAt": "2026-10-08T15:42:43.000Z"
   },
   "items": [
     {
@@ -18,6 +18,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVyb2JyZXdocSUyRnplcm9icmV3JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVyb2JyZXdocSUyRnplcm9icmV3JTdDQSUyMDEwMHglMjBmYXN0ZXIqJTIwYWx0ZXJuYXRpdmUlMjB0byUyMGhvbWVicmV3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDE1ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAwMyUzQTIzJTNBMDglMjAlMkIwMDAw",
       "title": "A 100x faster* alternative to homebrew",
       "pubDate": "Thu, 08 Oct 2026 03:23:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRjIwMjYtMTAtMDglMkZ1cy1zdXNwZW5kcy12aXNhLXByb2dyYW0tZm9yLXRlY2gtZmlybXMtaW5jbHVkaW5nLW1pY3Jvc29mdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJsb29tYmVyZy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkYyMDI2LTEwLTA4JTJGdXMtc3VzcGVuZHMtdmlzYS1wcm9ncmFtLWZvci10ZWNoLWZpcm1zLWluY2x1ZGluZy1taWNyb3NvZnQlN0NVUyUyMFN1c3BlbmRzJTIwVmlzYSUyMFByb2dyYW0lMjBmb3IlMjBUZWNoJTIwRmlybXMlMjBJbmNsdWRpbmclMjBNaWNyb3NvZnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNjgzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDE1JTNBMTUlM0EwMCUyMCUyQjAwMDA",
+      "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
+      "pubDate": "Thu, 08 Oct 2026 15:15:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW56YW5pYWVkdWNhdGlvbnByb2plY3Qub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZ0YW56YW5pYWVkdWNhdGlvbnByb2plY3Qub3JnJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSd2ZSUyMGJlZW4lMjBwYXlpbmclMjBmb3IlMjBhJTIwcnVyYWwlMjBUYW56YW5pYW4ncyUyMGVkdWNhdGlvbiUyMGZvciUyMDEwJTIweWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNjM2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDE0JTNBMzklM0E0NyUyMCUyQjAwMDA",
+      "title": "Show HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "pubDate": "Thu, 08 Oct 2026 14:39:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnRlcm9wLXJhbmsuZnhkeC5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRmludGVyb3AtcmFuay5meGR4LmRldiUyRiU3QzIwMjclMjBXZWIlMjBQbGF0Zm9ybSUyMEZlYXR1cmUlMjBSYW5raW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDU2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAxMyUzQTM0JTNBMjIlMjAlMkIwMDAw",
+      "title": "2027 Web Platform Feature Ranking",
+      "pubDate": "Thu, 08 Oct 2026 13:34:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YWxlLnJvY2tzJTJGcG9zdHMlMkZkdmQtbWVudXMlN0NodHRwcyUzQSUyRiUyRnZhbGUucm9ja3MlMkZwb3N0cyUyRmR2ZC1tZW51cyU3Q0JlYXV0eSUyMGluJTIwRFZEJTIwTWVudXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNTUyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDEzJTNBMjIlM0EwMSUyMCUyQjAwMDA",
+      "title": "Beauty in DVD Menus",
+      "pubDate": "Thu, 08 Oct 2026 13:22:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVsbmV0YmJzZ3VpZGUuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVsbmV0YmJzZ3VpZGUuY29tJTJGJTdDVGVsbmV0JTIwQkJTJTIwR3VpZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNTAxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDEyJTNBMjglM0EzNSUyMCUyQjAwMDA",
+      "title": "Telnet BBS Guide",
+      "pubDate": "Thu, 08 Oct 2026 12:28:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVzbWEuY29tJTJGYmxvZyUyRmludmlzaWJsZS1jaXRpZXMtb25lLXNob3QlMkYlN0NodHRwcyUzQSUyRiUyRnF1ZXNtYS5jb20lMkZibG9nJTJGaW52aXNpYmxlLWNpdGllcy1vbmUtc2hvdCUyRiU3Q0klMjBnYXZlJTIwT3B1cyUyMDUuNSUyMG9uZSUyMHByb21wdCUyMGFuZCUyMHNpeCUyMGhvdXJzJTIwdG8lMjB2aXN1YWxpemUlMjBJbnZpc2libGUlMjBDaXRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNDc5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDEyJTNBMDAlM0EyMCUyMCUyQjAwMDA",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "pubDate": "Thu, 08 Oct 2026 12:00:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGYm9va3MlMkYyMDI2JTJGb2N0JTJGMDglMkZ3aW5zLXRoZS1ub2JlbC1wcml6ZS1pbi1saXRlcmF0dXJlLTIwMjYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZib29rcyUyRjIwMjYlMkZvY3QlMkYwOCUyRndpbnMtdGhlLW5vYmVsLXByaXplLWluLWxpdGVyYXR1cmUtMjAyNiU3Q0FubmUlMjBDYXJzb24lMjB3aW5zJTIwTm9iZWwlMjBQcml6ZSUyMGluJTIwbGl0ZXJhdHVyZSUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNDc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDExJTNBNTglM0E1MCUyMCUyQjAwMDA",
+      "title": "Anne Carson wins Nobel Prize in literature 2026",
+      "pubDate": "Thu, 08 Oct 2026 11:58:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGbWF0aCUyRmJsb2IlMkZtYWluJTJGaGlzdG9yeS5tZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRm1hdGglMkZibG9iJTJGbWFpbiUyRmhpc3RvcnkubWQlN0NPcGVuQUklMjBXaXRoZHJhd3MlMjAzJTIwTWF0aCUyMFBhcGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDAzMTA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMDglM0EwOCUzQTM3JTIwJTJCMDAwMA",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "pubDate": "Thu, 08 Oct 2026 08:08:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXQtZWNvc3lzdGVtLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGF0LWVjb3N5c3RlbS5vcmclMkYlN0NEYXQtZWNvc3lzdGVtJTNBJTIwaGlnaCUyMGxldmVsJTIwYXBwbGljYXRpb25zJTIwYnVpbHQlMjBvbiUyMHRvcCUyMG9mJTIwUDJQJTIwcHJvdG9jb2xzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDI1MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAwNiUzQTQzJTNBMTMlMjAlMkIwMDAw",
+      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "pubDate": "Thu, 08 Oct 2026 06:43:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoc3RvZG9uLnh5eiUyRiU0MHRhbyUyRjExNzM5NTI2OTMyNTk0MDE4NSU3Q2h0dHBzJTNBJTJGJTJGbWF0aHN0b2Rvbi54eXolMkYlNDB0YW8lMkYxMTczOTUyNjkzMjU5NDAxODUlN0MlRTIlODAlOUNNYXRoJTIwMi4wJUUyJTgwJTlEJTIwd2lsbCUyMG5lZWQlMjB0byUyMHZhbHVlJTIwbWF0aGVtYXRpY2FsJTIwcHJvZ3Jlc3MlMjBtb3JlJTIwaG9saXN0aWNhbGx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDIwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAwNSUzQTE0JTNBMTQlMjAlMkIwMDAw",
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "pubDate": "Thu, 08 Oct 2026 05:14:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
     }
   ]

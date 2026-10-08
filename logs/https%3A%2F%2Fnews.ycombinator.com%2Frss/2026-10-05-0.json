@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-05",
     "newestItemDate": "2026-10-05",
-    "itemCount": 42,
-    "generatedAt": "2026-10-08T06:17:07.259Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-08T15:42:43.001Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaGFoaWRodXNzYWluLmNvbSUyRndyaXRpbmclMkZzZWFyY2gtZm9yLXNhbHZhZ2UlMkYlN0NodHRwcyUzQSUyRiUyRnNoYWhpZGh1c3NhaW4uY29tJTJGd3JpdGluZyUyRnNlYXJjaC1mb3Itc2FsdmFnZSUyRiU3Q1RoZSUyMDE1LXllYXIlMjBzZWFyY2glMjBmb3IlMjBhJTIwYmFuZCUyMHRoYXQlMjBjaGFydGVkJTIwb25jZSUyMGFuZCUyMHZhbmlzaGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5NTkyODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwNSUyME9jdCUyMDIwMjYlMjAwMCUzQTA2JTNBNDMlMjAlMkIwMDAw",
       "title": "The 15-year search for a band that charted once and vanished",
       "pubDate": "Mon, 05 Oct 2026 00:06:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBraC5tZSUyRnAlMkY0OS1mbG9hdC1hbmQtaW50ZWdlci1hcml0aG1ldGljLWZvbGxvdy10d28tZGlmZmVyZW50LXBhcmFkaWdtcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLnBraC5tZSUyRnAlMkY0OS1mbG9hdC1hbmQtaW50ZWdlci1hcml0aG1ldGljLWZvbGxvdy10d28tZGlmZmVyZW50LXBhcmFkaWdtcy5odG1sJTdDRmxvYXQlMjBhbmQlMjBpbnRlZ2VyJTIwYXJpdGhtZXRpYyUyMGZvbGxvdyUyMHR3byUyMGRpZmZlcmVudCUyMHBhcmFkaWdtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTY1MTE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTQlM0EwOSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Float and integer arithmetic follow two different paradigms",
+      "pubDate": "Mon, 05 Oct 2026 14:09:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
     }
   ]
