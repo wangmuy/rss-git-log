@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-09",
     "newestItemDate": "2026-10-09",
-    "itemCount": 23,
-    "generatedAt": "2026-10-09T15:22:19.752Z"
+    "itemCount": 42,
+    "generatedAt": "2026-10-09T20:59:56.146Z"
   },
   "items": [
     {
@@ -144,6 +144,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGbXhjJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGbXhjJTdDTVhDJTIwLSUyMGElMjBzYW5kYm94ZWQlMjBjb2RlJTIwZXhlY3V0aW9uJTIwc3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTY0ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAwNSUzQTUxJTNBMjklMjAlMkIwMDAw",
       "title": "MXC - a sandboxed code execution system",
       "pubDate": "Fri, 09 Oct 2026 05:51:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib3JyZXR0aS5tZSUyRmFydGljbGUlMkZuby1tYW4taXMtYW4taXNsYW5kJTdDaHR0cHMlM0ElMkYlMkZib3JyZXR0aS5tZSUyRmFydGljbGUlMkZuby1tYW4taXMtYW4taXNsYW5kJTdDTm8lMjBNYW4lMjBJcyUyMGFuJTIwSXNsYW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjU5MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAyMCUzQTA0JTNBMDAlMjAlMkIwMDAw",
+      "title": "No Man Is an Island",
+      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmJhd29sZi5jb20lMkZwJTJGeW91LW1pZ2h0LXdhbnQtdG8tdHJ5LWJlaW5nLWxlc3MlN0NodHRwcyUzQSUyRiUyRmJsb2cuYmF3b2xmLmNvbSUyRnAlMkZ5b3UtbWlnaHQtd2FudC10by10cnktYmVpbmctbGVzcyU3Q1lvdSUyMG1pZ2h0JTIwd2FudCUyMHRvJTIwdHJ5JTIwYmVpbmclMjBsZXNzJTIwY3JlYXRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyNDkyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE4JTNBMzklM0E0NyUyMCUyQjAwMDA",
+      "title": "You might want to try being less creative",
+      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tYW5kbGluZS5taWNyb3NvZnQuY29tJTJGbWljcm9zb2Z0LWRlY2lzaW9uLTEtbW9kZWwtZm91bmRyeSUyRiU3Q2h0dHBzJTNBJTJGJTJGY29tbWFuZGxpbmUubWljcm9zb2Z0LmNvbSUyRm1pY3Jvc29mdC1kZWNpc2lvbi0xLW1vZGVsLWZvdW5kcnklMkYlN0NNaWNyb3NvZnQtRGVjaXNpb24tMSUyQyUyMG91ciUyMG1vZGVsJTIwZm9yJTIwZmFzdCUyMGRlY2lzaW9uLW1ha2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI0OTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTglM0EzOCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlYXJ0aHF1YWtlLnVzZ3MuZ292JTJGZWFydGhxdWFrZXMlMkZldmVudHBhZ2UlMkZ1czYwMDB1MThrJTJGZXhlY3V0aXZlJTdDaHR0cHMlM0ElMkYlMkZlYXJ0aHF1YWtlLnVzZ3MuZ292JTJGZWFydGhxdWFrZXMlMkZldmVudHBhZ2UlMkZ1czYwMDB1MThrJTJGZXhlY3V0aXZlJTdDTTcuNiUyMEVhcnRocXVha2UlMjBpbiUyMFBhbmFtYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI0NjY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTglM0EyMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "M7.6 Earthquake in Panama",
+      "pubDate": "Fri, 09 Oct 2026 18:22:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXhwZXJpbWVudGFsLWhpc3RvcnkuY29tJTJGcCUyRmlkZWFzLWFyZW50LWdldHRpbmctaGFyZGVyLXRvLWZpbmQlN0NodHRwcyUzQSUyRiUyRnd3dy5leHBlcmltZW50YWwtaGlzdG9yeS5jb20lMkZwJTJGaWRlYXMtYXJlbnQtZ2V0dGluZy1oYXJkZXItdG8tZmluZCU3Q0lkZWFzJTIwYXJlbid0JTIwZ2V0dGluZyUyMGhhcmRlciUyMHRvJTIwZmluZCUyQyUyMGFueW9uZSUyMHdobyUyMHRlbGxzJTIweW91JTIwb3RoZXJ3aXNlJTIwaXMlMjBhJTIwY293YXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjQ1NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxOCUzQTE2JTNBMDMlMjAlMkIwMDAw",
+      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+      "pubDate": "Fri, 09 Oct 2026 18:16:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJyaWVyZXhwbG9kZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmNhcnJpZXJleHBsb2RlLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMENhcnJpZXItRXhwbG9kZSUzQSUyMGlQaG9uZSUyQyUyMFBpeGVsJTIwYW5kJTIwR2FsYXh5JTIwY2FycmllciUyMHNldHRpbmdzJTIwZGVjb2RlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI0NDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTglM0ExMCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlc2FmZS5haSUyRmJsb2clMkZzZXJpZXMtYWklN0NodHRwcyUzQSUyRiUyRnR5cGVzYWZlLmFpJTJGYmxvZyUyRnNlcmllcy1haSU3Q1R5cGVzYWZlJTIwQUklMjByYWlzZXMlMjAlMjQ4NzBNJTIwYXQlMjAlMjQ3LjVCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjM0NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxNyUzQTAyJTNBMzElMjAlMkIwMDAw",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "pubDate": "Fri, 09 Oct 2026 17:02:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW5lc3dlZXBlci5taWtlbGFjaGVyLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWluZXN3ZWVwZXIubWlrZWxhY2hlci5jb20lMkYlN0NUcmlwbGUtQSUyME1pbmVzd2VlcGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjIyOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxNSUzQTUxJTNBMDUlMjAlMkIwMDAw",
+      "title": "Triple-A Minesweeper",
+      "pubDate": "Fri, 09 Oct 2026 15:51:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRvcnByb2plY3Qub3JnJTJGb24tdG9yLXJlbGF0aW9uc2hpcC13aXRoLW11bGx2YWQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cudG9ycHJvamVjdC5vcmclMkZvbi10b3ItcmVsYXRpb25zaGlwLXdpdGgtbXVsbHZhZCUyRiU3Q0ElMjBzdGF0ZW1lbnQlMjBvbiUyMHRoZSUyMFRvciUyMFByb2plY3QncyUyMHJlbGF0aW9uc2hpcCUyMHdpdGglMjBNdWxsdmFkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjIyNjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxNSUzQTQ5JTNBMzElMjAlMkIwMDAw",
+      "title": "A statement on the Tor Project's relationship with Mullvad",
+      "pubDate": "Fri, 09 Oct 2026 15:49:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXVyb25ld3MuY29tJTJGMjAyNiUyRjA0JTJGMTQlMkZhbG1vc3QtbGlrZS1sYWtlLWNvbW8tZ2VybWFueS10cmFuc2Zvcm1zLWZvcm1lci1jb2FsLW1pbmVzLWludG8tZXVyb3Blcy1sYXJnZXN0LWxha2UtbGFuZHMlN0NodHRwcyUzQSUyRiUyRnd3dy5ldXJvbmV3cy5jb20lMkYyMDI2JTJGMDQlMkYxNCUyRmFsbW9zdC1saWtlLWxha2UtY29tby1nZXJtYW55LXRyYW5zZm9ybXMtZm9ybWVyLWNvYWwtbWluZXMtaW50by1ldXJvcGVzLWxhcmdlc3QtbGFrZS1sYW5kcyU3Q0dlcm1hbnklMjB0cmFuc2Zvcm1zJTIwZm9ybWVyJTIwY29hbCUyMG1pbmVzJTIwaW50byUyMEV1cm9wZSdzJTIwbGFyZ2VzdCUyMGxha2UlMjBsYW5kc2NhcGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyMTU0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE1JTNBMDUlM0EyNCUyMCUyQjAwMDA",
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdGx5bmNoLmlvJTJGd2h5LWFyZS1jb2RpbmctYWdlbnRzLXNvLWR1bWIlMkYlN0NodHRwcyUzQSUyRiUyRm10bHluY2guaW8lMkZ3aHktYXJlLWNvZGluZy1hZ2VudHMtc28tZHVtYiUyRiU3Q1doeSUyMEFyZSUyMENvZGluZyUyMEFnZW50cyUyMFNvJTIwRHVtYiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDIwOTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTQlM0EyMSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Why Are Coding Agents So Dumb?",
+      "pubDate": "Fri, 09 Oct 2026 14:21:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmltYXRpb25vYnNlc3NpdmUuc3Vic3RhY2suY29tJTJGcCUyRndhbGxhY2UtYW5kLWdyb21pdC05MC1hbG9uZSU3Q2h0dHBzJTNBJTJGJTJGYW5pbWF0aW9ub2JzZXNzaXZlLnN1YnN0YWNrLmNvbSUyRnAlMkZ3YWxsYWNlLWFuZC1ncm9taXQtOTAtYWxvbmUlN0MnV2FsbGFjZSUyMGFuZCUyMEdyb21pdCUyQyclMjA5MCUyNSUyMEFsb25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjA1MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxMyUzQTQ5JTNBMzElMjAlMkIwMDAw",
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "pubDate": "Fri, 09 Oct 2026 13:49:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZW5vLmNvbSUyRmJsb2clMkZjbG91ZGZsYXJlJTdDaHR0cHMlM0ElMkYlMkZkZW5vLmNvbSUyRmJsb2clMkZjbG91ZGZsYXJlJTdDQ2xvdWRmbGFyZSUyMGFjcXVpcmVzJTIwRGVubyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE5OTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTMlM0EwMyUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Cloudflare acquires Deno",
+      "pubDate": "Fri, 09 Oct 2026 13:03:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXNzZXdhaXRlcy5jb20lMkZibG9nJTJGcG9zdCUyRmktcG9pbnRlZC1haS1hdC00MDAteWVhcnMtb2YtYXJjaGl2ZXMlMkYlN0NodHRwcyUzQSUyRiUyRmplc3Nld2FpdGVzLmNvbSUyRmJsb2clMkZwb3N0JTJGaS1wb2ludGVkLWFpLWF0LTQwMC15ZWFycy1vZi1hcmNoaXZlcyUyRiU3Q1BvaW50aW5nJTIwQUklMjBhdCUyMGFyY2hpdmVzJTIwZm91bmQlMjBhJTIwZm9yZ290dGVuJTIwbWV0ZW9yaXRlJTJDJTIwbG9zdCUyMHJoaW5vcyUyQyUyMGFuZCUyMG1vcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxOTA1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDExJTNBMzYlM0EyMCUyMCUyQjAwMDA",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "pubDate": "Fri, 09 Oct 2026 11:36:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZnJhbnplbnplbmhvZmVyJTJGYmlnLWFycm93LW9uLXRoZS1zY3JlZW4lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmcmFuemVuemVuaG9mZXIlMkZiaWctYXJyb3ctb24tdGhlLXNjcmVlbiU3Q1Nob3clMjBITiUzQSUyMExldCUyMHlvdXIlMjBBSSUyMGFnZW50cyUyMHBhaW50JTIwYmlnJTIwYXJyb3dzJTJDJTIwYm94ZXMlMjBhbmQlMjB0ZXh0JTIwb24lMjB5b3VyJTIwc2NyZWVuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTg4MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxMSUzQTAzJTNBNDglMjAlMkIwMDAw",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "pubDate": "Fri, 09 Oct 2026 11:03:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZwZWFjZSUyRjIwMjYlMkZwcmVzcy1yZWxlYXNlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZwZWFjZSUyRjIwMjYlMkZwcmVzcy1yZWxlYXNlJTJGJTdDTm9iZWwlMjBQZWFjZSUyMFByaXplJTIwZm9yJTIwMjAyNiUyMHRvJTIwTmF2YW5ldGhlbSUyMFBpbGxheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE4NDIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTAlM0ExMiUzQTExJTIwJTJCMDAwMA",
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "pubDate": "Fri, 09 Oct 2026 10:12:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxleDBwdHIlMkZvbmNlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxleDBwdHIlMkZvbmNlJTdDT25jZSUzQSUyMENhY2hlJTIwQ0xJJTIwY29tbWFuZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxODIzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDA5JTNBNDMlM0EwNiUyMCUyQjAwMDA",
+      "title": "Once: Cache CLI commands",
+      "pubDate": "Fri, 09 Oct 2026 09:43:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbWluYWZsZWV0aW5nLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGaW1pbmFmbGVldGluZy5jb20lMkYlN0NTb3JyeSUyQyUyMEknbSUyMGluJTIwYSUyMG1lZXRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxODA4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDA5JTNBMjElM0E0OCUyMCUyQjAwMDA",
+      "title": "Sorry, I'm in a meeting",
+      "pubDate": "Fri, 09 Oct 2026 09:21:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdseXBoLmltJTJGMjAyNiUyRjEwJTJGcHJvZ3JhbW1pbmctaXNudC1zcGVjaWFsLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ2x5cGguaW0lMkYyMDI2JTJGMTAlMkZwcm9ncmFtbWluZy1pc250LXNwZWNpYWwuaHRtbCU3Q1Byb2dyYW1taW5nJTIwSXNuJ3QlMjBTcGVjaWFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTczNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAwNyUzQTQ0JTNBMzYlMjAlMkIwMDAw",
+      "title": "Programming Isn't Special",
+      "pubDate": "Fri, 09 Oct 2026 07:44:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-05",
     "newestItemDate": "2026-10-05",
-    "itemCount": 43,
-    "generatedAt": "2026-10-08T15:42:43.001Z"
+    "itemCount": 44,
+    "generatedAt": "2026-10-09T20:59:56.147Z"
   },
   "items": [
     {
@@ -264,6 +264,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBraC5tZSUyRnAlMkY0OS1mbG9hdC1hbmQtaW50ZWdlci1hcml0aG1ldGljLWZvbGxvdy10d28tZGlmZmVyZW50LXBhcmFkaWdtcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLnBraC5tZSUyRnAlMkY0OS1mbG9hdC1hbmQtaW50ZWdlci1hcml0aG1ldGljLWZvbGxvdy10d28tZGlmZmVyZW50LXBhcmFkaWdtcy5odG1sJTdDRmxvYXQlMjBhbmQlMjBpbnRlZ2VyJTIwYXJpdGhtZXRpYyUyMGZvbGxvdyUyMHR3byUyMGRpZmZlcmVudCUyMHBhcmFkaWdtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTY1MTE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMTQlM0EwOSUzQTE0JTIwJTJCMDAwMA",
       "title": "Float and integer arithmetic follow two different paradigms",
       "pubDate": "Mon, 05 Oct 2026 14:09:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZGIxOTkzNy5naXRodWIuaW8lMkZwcmltZS1wcmVmaXgtZnJlZSUyRnBwZi5wZGYlN0NodHRwcyUzQSUyRiUyRmpkYjE5OTM3LmdpdGh1Yi5pbyUyRnByaW1lLXByZWZpeC1mcmVlJTJGcHBmLnBkZiU3Q1RoZSUyMHJlY2lwcm9jYWwlMjBzdW0lMjBvZiUyMHRoZSUyMHByaW1lLXByZWZpeC1mcmVlJTIwbnVtYmVycyUyMGNvbnZlcmdlcyUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTYxNTM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDUlMjBPY3QlMjAyMDI2JTIwMDclM0EwMCUzQTM3JTIwJTJCMDAwMA",
+      "title": "The reciprocal sum of the prime-prefix-free numbers converges [pdf]",
+      "pubDate": "Mon, 05 Oct 2026 07:00:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-05-0.json"
     }
   ]
