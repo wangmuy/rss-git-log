@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-09",
     "newestItemDate": "2026-10-09",
-    "itemCount": 4,
-    "generatedAt": "2026-10-09T06:19:32.462Z"
+    "itemCount": 23,
+    "generatedAt": "2026-10-09T15:22:19.752Z"
   },
   "items": [
     {
@@ -30,6 +30,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDk1ODExJTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDk1ODExJTJGJTdDUmVkdWNpbmclMjB1bmRlZmluZWQlMjBiZWhhdmlvciUyMGluJTIwdGhlJTIwQyUyMGxhbmd1YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTUwNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAwMiUzQTAyJTNBNTMlMjAlMkIwMDAw",
       "title": "Reducing undefined behavior in the C language",
       "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20lMkZ3b3JsZCUyRmV1cm9wZSUyRmdlcm1hbnktaXMtdHVybmluZy1hYmFuZG9uZWQtY29hbC1taW5lcy1pbnRvLTIzLWxha2VzLXRoZS1mb3JtZXItbWluaW5nLWxhbmRzY2FwZS1pcy1iZWNvbWluZy1ldXJvcGVzLWxhcmdlc3QtYXJ0aWZpY2lhbC13ZXRsYW5kJTJGYXJ0aWNsZXNob3clMkYxMzQ3MjU2NjkuY21zJTdDaHR0cHMlM0ElMkYlMkZ0aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20lMkZ3b3JsZCUyRmV1cm9wZSUyRmdlcm1hbnktaXMtdHVybmluZy1hYmFuZG9uZWQtY29hbC1taW5lcy1pbnRvLTIzLWxha2VzLXRoZS1mb3JtZXItbWluaW5nLWxhbmRzY2FwZS1pcy1iZWNvbWluZy1ldXJvcGVzLWxhcmdlc3QtYXJ0aWZpY2lhbC13ZXRsYW5kJTJGYXJ0aWNsZXNob3clMkYxMzQ3MjU2NjkuY21zJTdDR2VybWFueSUyMHR1cm5pbmclMjBhYmFuZG9uZWQlMjBjb2FsJTIwbWluZXMlMjBpbnRvJTIwMjMlMjBsYWtlcyUyQyUyMGJlY29taW5nJTIwYXJ0aWZpY2lhbCUyMHdldGxhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyMTU0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE1JTNBMDUlM0EyNCUyMCUyQjAwMDA",
+      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RhdGUuZ292JTJGcmVsZWFzZXMlMkZvZmZpY2Utb2YtdGhlLXNwb2tlc21hbiUyRjIwMjYlMkYxMCUyRmltcG9zaW5nLXNhbmN0aW9ucy1vbi10aGUtaW50ZXJuYXRpb25hbC1jcmltaW5hbC1jb3VydCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN0YXRlLmdvdiUyRnJlbGVhc2VzJTJGb2ZmaWNlLW9mLXRoZS1zcG9rZXNtYW4lMkYyMDI2JTJGMTAlMkZpbXBvc2luZy1zYW5jdGlvbnMtb24tdGhlLWludGVybmF0aW9uYWwtY3JpbWluYWwtY291cnQlMkYlN0NJbXBvc2luZyUyMFNhbmN0aW9ucyUyMG9uJTIwdGhlJTIwSW50ZXJuYXRpb25hbCUyMENyaW1pbmFsJTIwQ291cnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyMTQwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE0JTNBNTUlM0E1NyUyMCUyQjAwMDA",
+      "title": "Imposing Sanctions on the International Criminal Court",
+      "pubDate": "Fri, 09 Oct 2026 14:55:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHl0aG9uLm9yZyUyRmRvd25sb2FkcyUyRnJlbGVhc2UlMkZweXRob24tMzE1MCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnB5dGhvbi5vcmclMkZkb3dubG9hZHMlMkZyZWxlYXNlJTJGcHl0aG9uLTMxNTAlMkYlN0NQeXRob24lMjAzLjE1LjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyMTEyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE0JTNBMzUlM0E0MiUyMCUyQjAwMDA",
+      "title": "Python 3.15.0",
+      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRnVzLWltcG9zZXMtc2FuY3Rpb25zLWludGVybmF0aW9uYWwtY3JpbWluYWwtY291cnQtaG91cnMtYWZ0ZXItZm9ybWVyLWp1ZGdlLXdpbnMtMjAyNi0xMC0wOSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGd29ybGQlMkZ1cy1pbXBvc2VzLXNhbmN0aW9ucy1pbnRlcm5hdGlvbmFsLWNyaW1pbmFsLWNvdXJ0LWhvdXJzLWFmdGVyLWZvcm1lci1qdWRnZS13aW5zLTIwMjYtMTAtMDklMkYlN0NVUyUyMGltcG9zZXMlMjBzYW5jdGlvbnMlMjBvbiUyMElDQyUyMGhvdXJzJTIwYWZ0ZXIlMjBmb3JtZXIlMjBqdWRnZSUyMHdpbnMlMjBOb2JlbCUyMFBlYWNlJTIwUHJpemUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyMTA2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE0JTNBMzElM0E1NCUyMCUyQjAwMDA",
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "pubDate": "Fri, 09 Oct 2026 14:31:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bml0ZWQyNG1lZGlhLmNvbSUyRndhci1pbi11a3JhaW5lJTJGeWFuZGV4LXRha2VzLWEtc2Vjb25kLWRhdGEtY2VudGVyLWhpdC1pbi00OC1ob3Vycy1ub3ctaXRzLWJpZ2dlc3QtcnVzc2lhbi1zaXRlLWlzLWRhbWFnZWQtMjMyNzclN0NodHRwcyUzQSUyRiUyRnVuaXRlZDI0bWVkaWEuY29tJTJGd2FyLWluLXVrcmFpbmUlMkZ5YW5kZXgtdGFrZXMtYS1zZWNvbmQtZGF0YS1jZW50ZXItaGl0LWluLTQ4LWhvdXJzLW5vdy1pdHMtYmlnZ2VzdC1ydXNzaWFuLXNpdGUtaXMtZGFtYWdlZC0yMzI3NyU3Q1lhbmRleCUyMFRha2VzJTIwYSUyMFNlY29uZCUyMERhdGElMjBDZW50ZXIlMjBIaXQlMjBpbiUyMDQ4JTIwSG91cnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyMDkyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE0JTNBMjAlM0ExOSUyMCUyQjAwMDA",
+      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+      "pubDate": "Fri, 09 Oct 2026 14:20:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmJjbmV3cy5jb20lMkZuZXdzJTJGdXMtbmV3cyUyRnNlbnRlbmNlLXZhY2F0ZWQtYWktdmlkZW8tZGVhZC12aWN0aW0tcmNuYTYwMTQ1NyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5iY25ld3MuY29tJTJGbmV3cyUyRnVzLW5ld3MlMkZzZW50ZW5jZS12YWNhdGVkLWFpLXZpZGVvLWRlYWQtdmljdGltLXJjbmE2MDE0NTclN0NDb3VydCUyMHRocm93cyUyMG91dCUyMGtpbGxlcidzJTIwc2VudGVuY2UlMjBhZnRlciUyMGp1ZGdlJTIwc2FpZCUyMGhlJTIwbG92ZWQlMjBBSSUyMHZpZGVvJTIwb2YlMjB2aWN0aW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyMDg1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE0JTNBMTQlM0EwOCUyMCUyQjAwMDA",
+      "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+      "pubDate": "Fri, 09 Oct 2026 14:14:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZveGlkZS5jb21wdXRlciUyRmJsb2clMkZvdXItNDQ1bS1zZXJpZXMtZCU3Q2h0dHBzJTNBJTJGJTJGb3hpZGUuY29tcHV0ZXIlMkZibG9nJTJGb3VyLTQ0NW0tc2VyaWVzLWQlN0NPdXIlMjAlMjQ0NDVNJTIwU2VyaWVzJTIwRCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDIwMDE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTMlM0ExMiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Our $445M Series D",
+      "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZW5vLmNvbSUyRmJsb2clMkZjbG91ZGZsYXJlJTdDaHR0cHMlM0ElMkYlMkZkZW5vLmNvbSUyRmJsb2clMkZjbG91ZGZsYXJlJTdDRGVubyUyMElzJTIwSm9pbmluZyUyMENsb3VkZmxhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxOTkxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDEzJTNBMDMlM0E0OCUyMCUyQjAwMDA",
+      "title": "Deno Is Joining Cloudflare",
+      "pubDate": "Fri, 09 Oct 2026 13:03:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVqbS5vcmclMkZkb2klMkYxMC4xMDU2JTJGTkVKTW9hMjUwMjc2MCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5lam0ub3JnJTJGZG9pJTJGMTAuMTA1NiUyRk5FSk1vYTI1MDI3NjAlN0NTdHVkeSUzQSUyMEV4ZXJjaXNlJTIwaW5jcmVhc2VzJTIwY2FuY2VyJTIwc3Vydml2YWwlMjByYXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE5NzQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTIlM0E0OSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Study: Exercise increases cancer survival rates",
+      "pubDate": "Fri, 09 Oct 2026 12:49:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3JlenplZC5naXRodWIuaW8lMkZtZWFkb3dzJTJGJTdDaHR0cHMlM0ElMkYlMkZsb3JlenplZC5naXRodWIuaW8lMkZtZWFkb3dzJTJGJTdDTWVhZG93cyUyMCVFMiU4MCU5MyUyMGElMjBzbWFsbCUyMGxhbmd1YWdlJTIwZm9yJTIwc3RvY2stYW5kLWZsb3clMjBkaWFncmFtcyUyMHRoYXQlMjBydW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxOTUzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDEyJTNBMjklM0E0MCUyMCUyQjAwMDA",
+      "title": "Meadows – a small language for stock-and-flow diagrams that run",
+      "pubDate": "Fri, 09 Oct 2026 12:29:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9vZnNhbmRwcm9tcHRzLmNvbSUyRjIwMjYlMkYxMCUyRjA4JTJGMTAwLXJlYWN0aW9ucy10by0xMDAtc29sdXRpb25zJTJGJTdDaHR0cHMlM0ElMkYlMkZwcm9vZnNhbmRwcm9tcHRzLmNvbSUyRjIwMjYlMkYxMCUyRjA4JTJGMTAwLXJlYWN0aW9ucy10by0xMDAtc29sdXRpb25zJTJGJTdDUmVhY3Rpb25zJTIwdG8lMjAxMDAlMjBTb2x1dGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxOTQ5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDEyJTNBMjYlM0ExMiUyMCUyQjAwMDA",
+      "title": "Reactions to 100 Solutions",
+      "pubDate": "Fri, 09 Oct 2026 12:26:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FzaGluZ3RvbnBvc3QuY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkYxMCUyRjA5JTJGY2hhdGdwdC11c2Vycy1pcmFuLXBsYW50ZWQtYWktZ2VuZXJhdGVkLWFydGljbGVzLXVzLW5ld3MtbWVkaWElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53YXNoaW5ndG9ucG9zdC5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjEwJTJGMDklMkZjaGF0Z3B0LXVzZXJzLWlyYW4tcGxhbnRlZC1haS1nZW5lcmF0ZWQtYXJ0aWNsZXMtdXMtbmV3cy1tZWRpYSUyRiU3Q0lyYW5pYW4lMjBjYW1wYWlnbiUyMHBsYW50ZWQlMjBmYWtlJTIwYXJ0aWNsZXMlMjBpbiUyMHJlYWwlMjBVLlMuJTIwcHVibGljYXRpb25zJTIwdXNpbmclMjBDaGF0R1BUJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTk0NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxMiUzQTIxJTNBMjQlMjAlMkIwMDAw",
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "pubDate": "Fri, 09 Oct 2026 12:21:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGV0em5lci5jb20lMkZibG9nJTJGdGhlLWhldHpuZXItY2xvdWQtbmV0d29yay1zdGFjay1oaXN0b3J5LWFuZC10ZWNobmljYWwtb3ZlcnZpZXclMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5oZXR6bmVyLmNvbSUyRmJsb2clMkZ0aGUtaGV0em5lci1jbG91ZC1uZXR3b3JrLXN0YWNrLWhpc3RvcnktYW5kLXRlY2huaWNhbC1vdmVydmlldyUyRiU3Q1RoZSUyMEhldHpuZXIlMjBDbG91ZCUyMG5ldHdvcmslMjBzdGFjayUyMCVFMiU4MCU5MyUyMGhpc3RvcnklMjBhbmQlMjB0ZWNobmljYWwlMjBvdmVydmlldyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE5NDUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTIlM0EyMCUzQTU1JTIwJTJCMDAwMA",
+      "title": "The Hetzner Cloud network stack – history and technical overview",
+      "pubDate": "Fri, 09 Oct 2026 12:20:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZnJhbnplbnplbmhvZmVyJTJGYmlnLWFycm93LW9uLXRoZS1zY3JlZW4lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmcmFuemVuemVuaG9mZXIlMkZiaWctYXJyb3ctb24tdGhlLXNjcmVlbiU3Q0xldCUyMHlvdXIlMjBBSSUyMGFnZW50cyUyMHBhaW50JTIwYmlnJTIwYXJyb3dzJTJDJTIwYm94ZXMlMjBhbmQlMjB0ZXh0JTIwb24lMjB5b3VyJTIwc2NyZWVuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTg4MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxMSUzQTAzJTNBNDglMjAlMkIwMDAw",
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "pubDate": "Fri, 09 Oct 2026 11:03:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZwZWFjZSUyRjIwMjYlMkZwcmVzcy1yZWxlYXNlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubm9iZWxwcml6ZS5vcmclMkZwcml6ZXMlMkZwZWFjZSUyRjIwMjYlMkZwcmVzcy1yZWxlYXNlJTJGJTdDTm9iZWwlMjBQZWFjZSUyMFByaXplJTIwZm9yJTIwMjAyNiUyMHRvJTIwTmF2YW5ldGhlbSUyMCUyMk5BVkklMjIlMjBQaWxsYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxODQyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDEwJTNBMTIlM0ExMSUyMCUyQjAwMDA",
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "pubDate": "Fri, 09 Oct 2026 10:12:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYxMCUyRjA4JTJGZmlyZWQtb3BlbmFpLXNhZmV0eS1yZXNlYXJjaGVycy1kaXNwdXRlLW1pc2NvbmR1Y3QtY2xhaW1zLXdhcm4tb2YtY2hpbGxpbmctZWZmZWN0JTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYxMCUyRjA4JTJGZmlyZWQtb3BlbmFpLXNhZmV0eS1yZXNlYXJjaGVycy1kaXNwdXRlLW1pc2NvbmR1Y3QtY2xhaW1zLXdhcm4tb2YtY2hpbGxpbmctZWZmZWN0JTJGJTdDT3BlbkFJJTIwZmlyZXMlMjB0aHJlZSUyMHNhZmV0eSUyMHJlc2VhcmNoZXJzJTIwZm9yJTIwJTIybWlzaGFuZGxpbmclMjByZXNlYXJjaCUyMGluZm9ybWF0aW9uJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTgzNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxMCUzQTAwJTNBMjYlMjAlMkIwMDAw",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "pubDate": "Fri, 09 Oct 2026 10:00:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxleDBwdHIlMkZvbmNlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxleDBwdHIlMkZvbmNlJTdDT25jZSUzQSUyMENhY2hlJTIwQ0xJJTIwQ29tbWFuZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxODIzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDA5JTNBNDMlM0EwNiUyMCUyQjAwMDA",
+      "title": "Once: Cache CLI Commands",
+      "pubDate": "Fri, 09 Oct 2026 09:43:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbWluYWZsZWV0aW5nLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGaW1pbmFmbGVldGluZy5jb20lMkYlN0NJJ20lMjBpbiUyMGElMjBNZWV0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTgwODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAwOSUzQTIxJTNBNDglMjAlMkIwMDAw",
+      "title": "I'm in a Meeting",
+      "pubDate": "Fri, 09 Oct 2026 09:21:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGbXhjJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGbXhjJTdDTVhDJTIwLSUyMGElMjBzYW5kYm94ZWQlMjBjb2RlJTIwZXhlY3V0aW9uJTIwc3lzdGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTY0ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAwNSUzQTUxJTNBMjklMjAlMkIwMDAw",
+      "title": "MXC - a sandboxed code execution system",
+      "pubDate": "Fri, 09 Oct 2026 05:51:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
     }
   ]
