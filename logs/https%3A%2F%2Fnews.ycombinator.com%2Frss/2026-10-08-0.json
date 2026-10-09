@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-08",
     "newestItemDate": "2026-10-08",
-    "itemCount": 30,
-    "generatedAt": "2026-10-08T21:23:18.766Z"
+    "itemCount": 37,
+    "generatedAt": "2026-10-09T06:19:32.462Z"
   },
   "items": [
     {
@@ -186,6 +186,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGd0LmlzJTJGYmxvZyUyRjIwMjYtMTAtMDctZGVlcHNlZWstZnJlZWstb3V0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGd0LmlzJTJGYmxvZyUyRjIwMjYtMTAtMDctZGVlcHNlZWstZnJlZWstb3V0JTJGJTdDV2h5JTIwaXNuJ3QlMjB0aGUlMjBpbmR1c3RyeSUyMGZyZWFraW5nJTIwb3V0JTIwYWJvdXQlMjBEZWVwU2VlayUyMDQuMSUyMEZsYXNoJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMDA0ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAwMCUzQTE0JTNBNDglMjAlMkIwMDAw",
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "pubDate": "Thu, 08 Oct 2026 00:14:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYXJhZ2lsYS5vcmclMkYyMDI2JTJGb3BlbmFpLXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZrYXJhZ2lsYS5vcmclMkYyMDI2JTJGb3BlbmFpLXBwJTJGJTdDT3BlbkFJJTJDJTIwdGhlJTIwUGFydGl0aW9uJTIwUHJpbmNpcGxlJTJDJTIwYW5kJTIwTWF0aGVtYXRpY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxMzkwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDIzJTNBMjklM0E0MyUyMCUyQjAwMDA",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "pubDate": "Thu, 08 Oct 2026 23:29:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXZ5Lm9yZyUyRm5ld3MlMkZiZXZ5LTAtMjAlMkYlN0NodHRwcyUzQSUyRiUyRmJldnkub3JnJTJGbmV3cyUyRmJldnktMC0yMCUyRiU3Q0JldnklMjAwLjIwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTM2MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwOCUyME9jdCUyMDIwMjYlMjAyMiUzQTU3JTNBNTAlMjAlMkIwMDAw",
+      "title": "Bevy 0.20",
+      "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGam91cm5hbHMlMkZwc3ljaGlhdHJ5JTJGYXJ0aWNsZXMlMkYxMC4zMzg5JTJGZnBzeXQuMjAyNS4xNjk3OTAwJTJGZnVsbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZyb250aWVyc2luLm9yZyUyRmpvdXJuYWxzJTJGcHN5Y2hpYXRyeSUyRmFydGljbGVzJTJGMTAuMzM4OSUyRmZwc3l0LjIwMjUuMTY5NzkwMCUyRmZ1bGwlN0NBREhEJTIwYXMlMjBhJTIwY2lyY2FkaWFuJTIwcmh5dGhtJTIwZGlzb3JkZXIlM0ElMjBldmlkZW5jZSUyMGFuZCUyMGltcGxpY2F0aW9ucyUyMGZvciUyMGNocm9ub3RoZXJhcHklMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAxMTkyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDIwJTNBNDIlM0ExNiUyMCUyQjAwMDA",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "pubDate": "Thu, 08 Oct 2026 20:42:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGc2NhbGluZy1hbmQtYmVuY2htYXJraW5nLWEtY3JpdGljYWwtbWVzc2FnZS1idXMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuamFuZXN0cmVldC5jb20lMkZzY2FsaW5nLWFuZC1iZW5jaG1hcmtpbmctYS1jcml0aWNhbC1tZXNzYWdlLWJ1cyUyRiU3Q1NjYWxpbmclMjBhbmQlMjBiZW5jaG1hcmtpbmclMjBhJTIwY3JpdGljYWwlMjBtZXNzYWdlJTIwYnVzJTIwdXNpbmclMjBhJTIwbmV3JTIwaW5kZXhpbmclMjBzdHJhdGVneSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA5MDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTclM0EzOSUzQTI2JTIwJTJCMDAwMA",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "pubDate": "Thu, 08 Oct 2026 17:39:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcHBlci5haSUyRmpldm1hbi1iZW5jaG1hcmslMkYlN0NodHRwcyUzQSUyRiUyRm9wcGVyLmFpJTJGamV2bWFuLWJlbmNobWFyayUyRiU3Q1Nob3clMjBITiUzQSUyMEpldm1hbiUyMCVFMiU4MCU5MyUyMEFJJTIwZGVjaXNpb24lMjBtb2RlbHMlMjBwbGF5JTIwUGFjLU1hbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA3OTkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTYlM0EzNCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "pubDate": "Thu, 08 Oct 2026 16:34:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA2MzY2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA2MzY2JTdDVGVsbCUyMEhOJTNBJTIwSSd2ZSUyMGJlZW4lMjBwYXlpbmclMjBmb3IlMjBhJTIwcnVyYWwlMjBUYW56YW5pYW4ncyUyMGVkdWNhdGlvbiUyMGZvciUyMDEwJTIweWVhcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwNjM2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDE0JTNBMzklM0E0NyUyMCUyQjAwMDA",
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "pubDate": "Thu, 08 Oct 2026 14:39:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmRhbmludGhlb3J5JTJGc3RhdHVzJTJGMjEwODA2NTAzMzA3MDc4OTA5MCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZkYW5pbnRoZW9yeSUyRnN0YXR1cyUyRjIxMDgwNjUwMzMwNzA3ODkwOTAlN0NPcGVuQUklMjB3aXRoZHJhd3MlMjB0aHJlZSUyMG1hdGhlbWF0aWNhbCUyMHJlc3VsdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwMjY1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDA3JTNBMDUlM0E0MCUyMCUyQjAwMDA",
+      "title": "OpenAI withdraws three mathematical results",
+      "pubDate": "Thu, 08 Oct 2026 07:05:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
     }
   ]
