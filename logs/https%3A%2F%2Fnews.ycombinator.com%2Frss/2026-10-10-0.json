@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-10",
     "newestItemDate": "2026-10-10",
-    "itemCount": 11,
-    "generatedAt": "2026-10-10T14:31:16.498Z"
+    "itemCount": 25,
+    "generatedAt": "2026-10-10T20:09:35.127Z"
   },
   "items": [
     {
@@ -72,6 +72,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3aWtpLmNhdGVhdC5maXNoJTJGYXJ0JTNBY29tcHV0ZXJzX2Nhbm5vdF9tYWtlX2RlY2lzaW9ucyU3Q2h0dHBzJTNBJTJGJTJGd2lraS5jYXRlYXQuZmlzaCUyRmFydCUzQWNvbXB1dGVyc19jYW5ub3RfbWFrZV9kZWNpc2lvbnMlN0NDb21wdXRlcnMlMjBDYW5ub3QlMjBNYWtlJTIwRGVjaXNpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjk5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAwNSUzQTQ3JTNBNDYlMjAlMkIwMDAw",
       "title": "Computers Cannot Make Decisions",
       "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YXJpZXR5LmNvbSUyRjIwMjYlMkZ0diUyRm5ld3MlMkZuaWNvbGFzLWNhZ2UtYWktd2FpdmVyLWFtYXpvbi1zcGlkZXItbm9pci0xMjM2OTA3NTY0JTJGJTdDaHR0cHMlM0ElMkYlMkZ2YXJpZXR5LmNvbSUyRjIwMjYlMkZ0diUyRm5ld3MlMkZuaWNvbGFzLWNhZ2UtYWktd2FpdmVyLWFtYXpvbi1zcGlkZXItbm9pci0xMjM2OTA3NTY0JTJGJTdDTmljb2xhcyUyMENhZ2UlMjBSZWZ1c2VkJTIwdG8lMjBTaWduJTIwQW1hem9uJTIwQUklMjBXYWl2ZXIlM0ElMjAnSSdtJTIwTm90JTIwYW4lMjBBSS1GcmllbmRseSUyMEFjdG9yJyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDM2MzkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMTklM0EzOSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+      "pubDate": "Sat, 10 Oct 2026 19:39:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlRha2VzaGklMjUyN3NfQ2FzdGxlJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRlRha2VzaGklMjUyN3NfQ2FzdGxlJTdDVGFrZXNoaSdzJTIwQ2FzdGxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzYxMTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAxOSUzQTEyJTNBNTUlMjAlMkIwMDAw",
+      "title": "Takeshi's Castle",
+      "pubDate": "Sat, 10 Oct 2026 19:12:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjA1MjYxMGM1LTIyYjQtNGRkNC05MzJlLWI3ZjlmMDYyOGI2YSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkYwNTI2MTBjNS0yMmI0LTRkZDQtOTMyZS1iN2Y5ZjA2MjhiNmElN0NOdmlkaWElMjBpbiUyMHRhbGtzJTIwdG8lMjBhY3F1aXJlJTIwVVMlMjAnb3BlbiclMjBtb2RlbCUyMHN0YXJ0dXAlMjBSZWZsZWN0aW9uJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAzNTg4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDE4JTNBNDglM0EzNSUyMCUyQjAwMDA",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb3Rha3UuY29tJTJGd2UtbWlnaHQtYmUtY29va2VkLWFzLXRoZXNlLXZpYmUtY29kZWQtd2ViLWJyb3dzZXItcG9ydHMtb2YtaGFsby10aGUtc2ltcHNvbnMtaGl0LWFuZC1ydW4tYW5kLWd0YS12aWNlLWNpdHktc2VlbS10by13b3JrLXBlcmZlY3RseS0yMDAwNzQzMzAwJTdDaHR0cHMlM0ElMkYlMkZrb3Rha3UuY29tJTJGd2UtbWlnaHQtYmUtY29va2VkLWFzLXRoZXNlLXZpYmUtY29kZWQtd2ViLWJyb3dzZXItcG9ydHMtb2YtaGFsby10aGUtc2ltcHNvbnMtaGl0LWFuZC1ydW4tYW5kLWd0YS12aWNlLWNpdHktc2VlbS10by13b3JrLXBlcmZlY3RseS0yMDAwNzQzMzAwJTdDVmliZSUyMGNvZGVkJTIwYnJvd3NlciUyMHBvcnRzJTIwb2YlMjBIYWxvJTJDJTIwVGhlJTIwU2ltcHNvbnMlM0ElMjBIaXQlMjBBbmQlMjBSdW4lMkMlMjBHVEElMjB3b3JrJTIwd2VsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDM1NTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMTglM0ExMSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+      "pubDate": "Sat, 10 Oct 2026 18:11:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3RoZXJkdWNrLmNvbSUyRmJsb2clMkZ3aHktZHVja2RiLTIwLWlzLWZhc3RlciUyRiU3Q2h0dHBzJTNBJTJGJTJGbW90aGVyZHVjay5jb20lMkZibG9nJTJGd2h5LWR1Y2tkYi0yMC1pcy1mYXN0ZXIlMkYlN0NXaHklMjBEdWNrREIlMjAyLjAlMjBpcyUyMGZhc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDM1NTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMTglM0EwOCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Why DuckDB 2.0 is faster",
+      "pubDate": "Sat, 10 Oct 2026 18:08:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhvbWFzLWh1ZWhuLmNvbSUyRmtudXRoLXJld2FyZC1jaGVjayUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRob21hcy1odWVobi5jb20lMkZrbnV0aC1yZXdhcmQtY2hlY2slMkYlN0NLbnV0aCUyMHJld2FyZCUyMGNoZWNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzQwODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAxNSUzQTQ3JTNBMDElMjAlMkIwMDAw",
+      "title": "Knuth reward check",
+      "pubDate": "Sat, 10 Oct 2026 15:47:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRmUyNjU3NGNmLTk0Y2MtNDBkOS05MjFlLTVjNzQxN2ZjNWRiZCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkZlMjY1NzRjZi05NGNjLTQwZDktOTIxZS01Yzc0MTdmYzVkYmQlN0NIb3clMjBQcm90ZWluJTIwVG9vayUyMG92ZXIlMjB0aGUlMjBXb3JsZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDM0MDA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMTUlM0E0MCUzQTA2JTIwJTJCMDAwMA",
+      "title": "How Protein Took over the World",
+      "pubDate": "Sat, 10 Oct 2026 15:40:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHJvbmljbGVzLnBvcHZheC5jb20lMkZwJTJGcG9wdmF4LWdvZXMtY2xpbmljYWwlN0NodHRwcyUzQSUyRiUyRmNocm9uaWNsZXMucG9wdmF4LmNvbSUyRnAlMkZwb3B2YXgtZ29lcy1jbGluaWNhbCU3Q1BWWC0wMDElM0ElMjBvcGVuLXNvdXJjZSUyMENvdmlkLTE5JTIwdmFjY2luZSUyMHN0YXJ0cyUyMFBoYXNlJTIwMSUyMHRyaWFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzM3MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAxNSUzQTEwJTNBMjQlMjAlMkIwMDAw",
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "pubDate": "Sat, 10 Oct 2026 15:10:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tdW5pdHkuYml0d2FyZGVuLmNvbSUyRnQlMkZwdWJsaXNoZWQtdmVyc2lvbi11cGRhdGUtaW4tYXBwLXN0b3JlcyUyRjEwMjc1MCU3Q2h0dHBzJTNBJTJGJTJGY29tbXVuaXR5LmJpdHdhcmRlbi5jb20lMkZ0JTJGcHVibGlzaGVkLXZlcnNpb24tdXBkYXRlLWluLWFwcC1zdG9yZXMlMkYxMDI3NTAlN0NCaXR3YXJkZW4lMjBEdWFsJTIwTGljZW5zZSUyME1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzM0MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAxNCUzQTMyJTNBNTAlMjAlMkIwMDAw",
+      "title": "Bitwarden Dual License Model",
+      "pubDate": "Sat, 10 Oct 2026 14:32:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaHVudGxleS5jb20lMkZ1bmlrZXJuZWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZnaHVudGxleS5jb20lMkZ1bmlrZXJuZWxzJTJGJTdDVW5pa2VybmVscyUyMHdlcmUlMjBoYXJkLiUyMGtleSUyMHdvcmQlM0ElMjB3ZXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzMzNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAxNCUzQTI3JTNBMDklMjAlMkIwMDAw",
+      "title": "Unikernels were hard. key word: were",
+      "pubDate": "Sat, 10 Oct 2026 14:27:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb252ZXJzYWJsZWVjb25vbWlzdC5jb20lMkYyMDI2JTJGMDklMkYyOCUyRmktd291bGQtbGlrZS10aGUtdmFsdWUtb2YtbXktaG9tZS10by1yaXNlLXdoaWxlLW15LXByb3BlcnR5LXRheGVzLWZhbGwlMkYlN0NodHRwcyUzQSUyRiUyRmNvbnZlcnNhYmxlZWNvbm9taXN0LmNvbSUyRjIwMjYlMkYwOSUyRjI4JTJGaS13b3VsZC1saWtlLXRoZS12YWx1ZS1vZi1teS1ob21lLXRvLXJpc2Utd2hpbGUtbXktcHJvcGVydHktdGF4ZXMtZmFsbCUyRiU3Q0klMjB3b3VsZCUyMGxpa2UlMjB0aGUlMjB2YWx1ZSUyMG9mJTIwbXklMjBob21lJTIwdG8lMjByaXNlJTJDJTIwd2hpbGUlMjBteSUyMHByb3BlcnR5JTIwdGF4ZXMlMjBmYWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzI3NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAxMyUzQTI5JTNBMDMlMjAlMkIwMDAw",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "pubDate": "Sat, 10 Oct 2026 13:29:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3Blbmdyb3VwLm9yZyUyRiUyRm9wZW5icmFuZCUyRnJlZ2lzdGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cub3Blbmdyb3VwLm9yZyUyRiUyRm9wZW5icmFuZCUyRnJlZ2lzdGVyJTJGJTdDQXBwbGUlMkZtYWNPUyUyMHJlbW92ZWQlMjBmcm9tJTIwb2ZmaWNpYWwlMjBVbml4JTIwcmVnaXN0cnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAzMTY1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDEwJTNBNTclM0EzMSUyMCUyQjAwMDA",
+      "title": "Apple/macOS removed from official Unix registry",
+      "pubDate": "Sat, 10 Oct 2026 10:57:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaWdodGJ1bGJjb21wdXRlci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmxpZ2h0YnVsYmNvbXB1dGVyLmNvbSUyRiU3Q1RoZSUyMExpZ2h0YnVsYiUyMENvbXB1dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjk0ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAwNCUzQTEyJTNBMjYlMjAlMkIwMDAw",
+      "title": "The Lightbulb Computer",
+      "pubDate": "Sat, 10 Oct 2026 04:12:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZXJuY291cmllci5jb20lMkZob3ctc3Ryb25nLWlzLXRoZS1zdHJvbmctaW50ZXJhY3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRmNlcm5jb3VyaWVyLmNvbSUyRmhvdy1zdHJvbmctaXMtdGhlLXN0cm9uZy1pbnRlcmFjdGlvbiUyRiU3Q0hvdyUyMHN0cm9uZyUyMGlzJTIwdGhlJTIwc3Ryb25nJTIwaW50ZXJhY3Rpb24lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyODE2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDAwJTNBMTMlM0ExNiUyMCUyQjAwMDA",
+      "title": "How strong is the strong interaction?",
+      "pubDate": "Sat, 10 Oct 2026 00:13:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
     }
   ]
