@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-09",
     "newestItemDate": "2026-10-09",
-    "itemCount": 42,
-    "generatedAt": "2026-10-09T20:59:56.146Z"
+    "itemCount": 53,
+    "generatedAt": "2026-10-10T06:01:33.993Z"
   },
   "items": [
     {
@@ -258,6 +258,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdseXBoLmltJTJGMjAyNiUyRjEwJTJGcHJvZ3JhbW1pbmctaXNudC1zcGVjaWFsLmh0bWwlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ2x5cGguaW0lMkYyMDI2JTJGMTAlMkZwcm9ncmFtbWluZy1pc250LXNwZWNpYWwuaHRtbCU3Q1Byb2dyYW1taW5nJTIwSXNuJ3QlMjBTcGVjaWFsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMTczNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAwNyUzQTQ0JTNBMzYlMjAlMkIwMDAw",
       "title": "Programming Isn't Special",
       "pubDate": "Fri, 09 Oct 2026 07:44:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaGVub21lbmFsd29ybGQub3JnJTJGYW5hbHlzaXMlMkZoYXMtdGhlLWF1dG9ub21vdXMtdHJ1Y2tpbmctcmV2b2x1dGlvbi1hcnJpdmVkJTJGJTdDaHR0cHMlM0ElMkYlMkZwaGVub21lbmFsd29ybGQub3JnJTJGYW5hbHlzaXMlMkZoYXMtdGhlLWF1dG9ub21vdXMtdHJ1Y2tpbmctcmV2b2x1dGlvbi1hcnJpdmVkJTJGJTdDSGFzJTIwdGhlJTIwQXV0b25vbW91cyUyMFRydWNraW5nJTIwUmV2b2x1dGlvbiUyMEFycml2ZWQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyODA2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDIzJTNBNTclM0ExMiUyMCUyQjAwMDA",
+      "title": "Has the Autonomous Trucking Revolution Arrived?",
+      "pubDate": "Fri, 09 Oct 2026 23:57:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJvYWRpbnN0aXR1dGUub3JnJTJGbmV3cyUyRmNsaW5pY2FsLXRyaWFsLXByaW9uLWRpc2Vhc2UtZHJ1Zy1jYW5kaWRhdGUtYmVnaW5zLWVucm9sbGluZy1wYXJ0aWNpcGFudHMlN0NodHRwcyUzQSUyRiUyRnd3dy5icm9hZGluc3RpdHV0ZS5vcmclMkZuZXdzJTJGY2xpbmljYWwtdHJpYWwtcHJpb24tZGlzZWFzZS1kcnVnLWNhbmRpZGF0ZS1iZWdpbnMtZW5yb2xsaW5nLXBhcnRpY2lwYW50cyU3Q0NsaW5pY2FsJTIwdHJpYWwlMjBvZiUyMGElMjBwcmlvbiUyMGRpc2Vhc2UlMjBkcnVnJTIwY2FuZGlkYXRlJTIwYmVnaW5zJTIwZW5yb2xsaW5nJTIwcGFydGljaXBhbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjgwMjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAyMyUzQTUzJTNBMDglMjAlMkIwMDAw",
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "pubDate": "Fri, 09 Oct 2026 23:53:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDU1MjExJTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDU1MjExJTJGJTdDQ29tcGlsaW5nJTIwUnVzdCUyMHRvJTIwcmVhZGFibGUlMjBDJTIwd2l0aCUyMEV1cnlkaWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjc4NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAyMyUzQTI4JTNBMzYlMjAlMkIwMDAw",
+      "title": "Compiling Rust to readable C with Eurydice",
+      "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHJpbWVpbnRlbGxlY3QuYWklMkZibG9nJTJGcHJpbWUtYWdlbnQtcnVzdCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnByaW1laW50ZWxsZWN0LmFpJTJGYmxvZyUyRnByaW1lLWFnZW50LXJ1c3QlN0NSZXdyaXRpbmclMjBQcmltZSUyMEFnZW50JTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjc2OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAyMyUzQTA2JTNBMjUlMjAlMkIwMDAw",
+      "title": "Rewriting Prime Agent in Rust",
+      "pubDate": "Fri, 09 Oct 2026 23:06:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdGFyaW11c2V1bS5ubCUyRmF0YXJpLWZhbGNvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYXRhcmltdXNldW0ubmwlMkZhdGFyaS1mYWxjb24lMkYlN0NBdGFyaSUyMEZhbGNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI3NTkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMjIlM0E1NCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Atari Falcon",
+      "pubDate": "Fri, 09 Oct 2026 22:54:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmJjcGhpbGFkZWxwaGlhLmNvbSUyRm5ld3MlMkZsb2NhbCUyRmFudGhyb3BpYy1haS1tb2RlbC1zdWJtaXRzLWZhbHNlLXRpcC1vbi11bnNvbHZlZC1waGlsbHktbXVyZGVyLXBvbGljZS1zYXklMkY0NDc3MDUxJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmJjcGhpbGFkZWxwaGlhLmNvbSUyRm5ld3MlMkZsb2NhbCUyRmFudGhyb3BpYy1haS1tb2RlbC1zdWJtaXRzLWZhbHNlLXRpcC1vbi11bnNvbHZlZC1waGlsbHktbXVyZGVyLXBvbGljZS1zYXklMkY0NDc3MDUxJTJGJTdDQW50aHJvcGljJTIwQUklMjBtb2RlbCUyMHN1Ym1pdHMlMjBmYWxzZSUyMHRpcCUyMG9uJTIwdW5zb2x2ZWQlMjBQaGlsbHklMjBtdXJkZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyNzExOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDIyJTNBMDAlM0EzNSUyMCUyQjAwMDA",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "pubDate": "Fri, 09 Oct 2026 22:00:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRnlvdXR1YmVyLXNheXMtY29wcy1wYWlkLWhpbS1hLXZpc2l0LWFmdGVyLWhlLWJ1aWx0LWZsb2NrLXN0eWxlLWNhbWVyYS10by10cmFjay1jb3BzLTIwMDA4MjQzMDYlN0NodHRwcyUzQSUyRiUyRmdpem1vZG8uY29tJTJGeW91dHViZXItc2F5cy1jb3BzLXBhaWQtaGltLWEtdmlzaXQtYWZ0ZXItaGUtYnVpbHQtZmxvY2stc3R5bGUtY2FtZXJhLXRvLXRyYWNrLWNvcHMtMjAwMDgyNDMwNiU3Q1lvdVR1YmVyJTIwU2F5cyUyMENvcHMlMjBWaXNpdGVkJTIwSGltJTIwQWZ0ZXIlMjBIZSUyMEJ1aWx0JTIwYSUyMEZsb2NrLVN0eWxlJTIwQ2FtZXJhJTIwdG8lMjBUcmFjayUyMENvcHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyNjU1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDIxJTNBMDYlM0E1OSUyMCUyQjAwMDA",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjEwJTJGMDklMkZ3aGF0LW1hdGhlbWF0aWNpYW5zLXNob3VsZC1rbm93LWFib3V0LXRoZS1sZWFuLXRoZW9yZW0tcHJvdmVycXVlc3Rpb25zLW9mLXJlbGlhYmlsaXR5LWFuZC1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVycnl0YW8ud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMCUyRjA5JTJGd2hhdC1tYXRoZW1hdGljaWFucy1zaG91bGQta25vdy1hYm91dC10aGUtbGVhbi10aGVvcmVtLXByb3ZlcnF1ZXN0aW9ucy1vZi1yZWxpYWJpbGl0eS1hbmQtYWklMkYlN0NXaGF0JTIwbWF0aGVtYXRpY2lhbnMlMjBzaG91bGQlMjBrbm93JTIwYWJvdXQlMjB0aGUlMjBMZWFuJTIwVGhlb3JlbSUyMFByb3ZlciUzQSUyMHJlbGlhYmlsaXR5JTIwJTI2JTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyNDA5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA5JTIwT2N0JTIwMjAyNiUyMDE3JTNBNDIlM0ExMiUyMCUyQjAwMDA",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "pubDate": "Fri, 09 Oct 2026 17:42:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFkcmFyZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnJlYWRyYXJlLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMFRoZSUyMHJhcmVzdCUyMHRlY2glMjBib29rcyUyMGFuZCUyMGRvY3MlMjB5b3UndmUlMjBwcm9iYWJseSUyMG5ldmVyJTIwcmVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI0MDU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTclM0EzOSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "pubDate": "Fri, 09 Oct 2026 17:39:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRldhbGxTdHJlZXRBcGVzJTJGc3RhdHVzJTJGMjEwODU5NDk5ODY1NjgwNzA3OCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZXYWxsU3RyZWV0QXBlcyUyRnN0YXR1cyUyRjIxMDg1OTQ5OTg2NTY4MDcwNzglN0NTY2FtJTIwQW1lcmljYW4lMjBjb21wYW5pZXMlMjBhcmUlMjB1c2luZyUyMHRvJTIwbWFuaXB1bGF0ZSUyMGluZ3JlZGllbnQlMjBsaXN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDIzOTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTclM0EzNSUzQTQwJTIwJTJCMDAwMA",
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "pubDate": "Fri, 09 Oct 2026 17:35:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGY2FuLXlvdS11c2UtYXV0b3JlZ3Jlc3NpdmUtZGlmZnVzaW9uLXRvLWdlbmVyYXRlLW1hcmtldC1kYXRhJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGY2FuLXlvdS11c2UtYXV0b3JlZ3Jlc3NpdmUtZGlmZnVzaW9uLXRvLWdlbmVyYXRlLW1hcmtldC1kYXRhJTJGJTdDQ2FuJTIweW91JTIwdXNlJTIwYXV0b3JlZ3Jlc3NpdmUlMjBkaWZmdXNpb24lMjB0byUyMGdlbmVyYXRlJTIwbWFya2V0JTIwZGF0YSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDIxNDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTQlM0E1NiUzQTEzJTIwJTJCMDAwMA",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "pubDate": "Fri, 09 Oct 2026 14:56:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
     }
   ]
