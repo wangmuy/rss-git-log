@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-06",
     "newestItemDate": "2026-10-06",
-    "itemCount": 75,
-    "generatedAt": "2026-10-10T06:01:33.993Z"
+    "itemCount": 76,
+    "generatedAt": "2026-10-10T14:31:16.499Z"
   },
   "items": [
     {
@@ -456,6 +456,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaHJ1Yi5pbmR1c3RyaWVzJTJGd29yZHMlMkZwcm9ibGVtLmh0bWwlN0NodHRwcyUzQSUyRiUyRnNocnViLmluZHVzdHJpZXMlMkZ3b3JkcyUyRnByb2JsZW0uaHRtbCU3Q0NvbW11bmljYXRpb24lMjBCZXR3ZWVuJTIwdGhlJTIwQ29tcGlsZXIlMkMlMjB0aGUlMjBCdWlsZCUyMFN5c3RlbSUyQyUyMGFuZCUyMEJleW9uZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgwMjA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTUlM0E0NCUzQTQyJTIwJTJCMDAwMA",
       "title": "Communication Between the Compiler, the Build System, and Beyond",
       "pubDate": "Tue, 06 Oct 2026 15:44:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0b2Ntcy5jb20lMkZibG9nJTJGaGFuZGxpbmctbGVzcy1jb21tb24tc2NyaXB0cyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhdG9jbXMuY29tJTJGYmxvZyUyRmhhbmRsaW5nLWxlc3MtY29tbW9uLXNjcmlwdHMlN0NOb3RvJTIwbWVhbnMlMjAlMjJubyUyMHRvZnUlMjIlM0ElMjBmaXhpbmclMjBkb3R0ZWQlMjBjaXJjbGVzJTIwaW4lMjBNeWFubWFyJTIwdGV4dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTgxNTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDYlMjBPY3QlMjAyMDI2JTIwMTclM0EyNCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
+      "pubDate": "Tue, 06 Oct 2026 17:24:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-06-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-09",
     "newestItemDate": "2026-10-09",
-    "itemCount": 53,
-    "generatedAt": "2026-10-10T06:01:33.993Z"
+    "itemCount": 54,
+    "generatedAt": "2026-10-10T14:31:16.499Z"
   },
   "items": [
     {
@@ -324,6 +324,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGY2FuLXlvdS11c2UtYXV0b3JlZ3Jlc3NpdmUtZGlmZnVzaW9uLXRvLWdlbmVyYXRlLW1hcmtldC1kYXRhJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGY2FuLXlvdS11c2UtYXV0b3JlZ3Jlc3NpdmUtZGlmZnVzaW9uLXRvLWdlbmVyYXRlLW1hcmtldC1kYXRhJTJGJTdDQ2FuJTIweW91JTIwdXNlJTIwYXV0b3JlZ3Jlc3NpdmUlMjBkaWZmdXNpb24lMjB0byUyMGdlbmVyYXRlJTIwbWFya2V0JTIwZGF0YSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDIxNDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTQlM0E1NiUzQTEzJTIwJTJCMDAwMA",
       "title": "Can you use autoregressive diffusion to generate market data?",
       "pubDate": "Fri, 09 Oct 2026 14:56:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9qZWN0dGltZXN0YW1wZXIub3JnJTJGYmxvZyUyRmNvbW1vbi1jcmF3bCUyRiU3Q2h0dHBzJTNBJTJGJTJGcHJvamVjdHRpbWVzdGFtcGVyLm9yZyUyRmJsb2clMkZjb21tb24tY3Jhd2wlMkYlN0NUaW1lc3RhbXBpbmclMjBhJTIwR2lhbnQlMjBSZWNvcmQlMjBvZiUyMHRoZSUyMFdlYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE0Mzk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMDAlM0EyOSUzQTAxJTIwJTJCMDAwMA",
+      "title": "Timestamping a Giant Record of the Web",
+      "pubDate": "Fri, 09 Oct 2026 00:29:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
     }
   ]

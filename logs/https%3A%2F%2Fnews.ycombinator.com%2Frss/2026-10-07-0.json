@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-07",
     "newestItemDate": "2026-10-07",
-    "itemCount": 56,
-    "generatedAt": "2026-10-10T06:01:33.993Z"
+    "itemCount": 59,
+    "generatedAt": "2026-10-10T14:31:16.499Z"
   },
   "items": [
     {
@@ -342,6 +342,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRmNvbmZlcmVuY2UlMkZ1c2VuaXhzZWN1cml0eTI0JTJGcHJlc2VudGF0aW9uJTJGemhhbmctcWlibyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnVzZW5peC5vcmclMkZjb25mZXJlbmNlJTJGdXNlbml4c2VjdXJpdHkyNCUyRnByZXNlbnRhdGlvbiUyRnpoYW5nLXFpYm8lN0NFeWUlMjBvZiUyMFNhdXJvbiUzQSUyMExvbmctUmFuZ2UlMjBIaWRkZW4lMjBTcHklMjBDYW1lcmElMjBEZXRlY3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NzQ4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE5JTNBMTUlM0E1NyUyMCUyQjAwMDA",
       "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
       "pubDate": "Wed, 07 Oct 2026 19:15:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b255bS51cyUyRndzbDItdnMtd3NsMy1iZW5jaG1hcmtzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnRvbnltLnVzJTJGd3NsMi12cy13c2wzLWJlbmNobWFya3MuaHRtbCU3Q1dTTDMlMjBQZXJmb3JtYW5jZSUyMGlzJTIwYWJvdXQlMjA1LTYwJTI1JTIwZmFzdGVyJTIwdGhhbiUyMFdTTDIlMjBkZXBlbmRpbmclMjBvbiUyMHRoZSUyMHdvcmtsb2FkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENDk5OTg4MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNyUyME9jdCUyMDIwMjYlMjAyMSUzQTA2JTNBNTQlMjAlMkIwMDAw",
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "pubDate": "Wed, 07 Oct 2026 21:06:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRmNvbmZlcmVuY2UlMkZ1c2VuaXhzZWN1cml0eTI0JTJGcHJlc2VudGF0aW9uJTJGemhhbmctcWlibyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnVzZW5peC5vcmclMkZjb25mZXJlbmNlJTJGdXNlbml4c2VjdXJpdHkyNCUyRnByZXNlbnRhdGlvbiUyRnpoYW5nLXFpYm8lN0NFeWUlMjBvZiUyMFNhdXJvbiUzQSUyMExvbmctUmFuZ2UlMjBIaWRkZW4lMjBTcHklMjBDYW1lcmElMjBEZXRlY3Rpb24lMjAoMjAyNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q0OTk5NzQ4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA3JTIwT2N0JTIwMjAyNiUyMDE5JTNBMTUlM0E1NyUyMCUyQjAwMDA",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "pubDate": "Wed, 07 Oct 2026 19:15:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTEwLWNoZXJub2J5bC1wYXJ0aWNsZXMtcmV2ZWFsLXVuZXhwZWN0ZWRseS1zdGFibGUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGh5cy5vcmclMkZuZXdzJTJGMjAyNi0xMC1jaGVybm9ieWwtcGFydGljbGVzLXJldmVhbC11bmV4cGVjdGVkbHktc3RhYmxlLmh0bWwlN0NDaGVybm9ieWwlMjBwYXJ0aWNsZXMlMjByZXZlYWwlMjB1bmV4cGVjdGVkbHklMjBzdGFibGUlMjBudWNsZWFyJTIwZnVlbCUyMGFmdGVyJTIwNDAlMjB5ZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDQ5OTg2OTE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDclMjBPY3QlMjAyMDI2JTIwMDElM0E0NCUzQTU5JTIwJTJCMDAwMA",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "pubDate": "Wed, 07 Oct 2026 01:44:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-07-0.json"
     }
   ]

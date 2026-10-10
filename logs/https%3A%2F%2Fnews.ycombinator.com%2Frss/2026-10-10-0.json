@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-10",
     "newestItemDate": "2026-10-10",
-    "itemCount": 6,
-    "generatedAt": "2026-10-10T06:01:33.993Z"
+    "itemCount": 11,
+    "generatedAt": "2026-10-10T14:31:16.498Z"
   },
   "items": [
     {
@@ -42,6 +42,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZWEudG9vbHMlMkYlN0NodHRwcyUzQSUyRiUyRnJlYS50b29scyUyRiU3Q1JFQSUyMFJldmVyc2UlMjAlRTIlODAlOTMlMjBFbmdpbmVlciUyMEFueXRoaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjgyNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAwMCUzQTM3JTNBMDclMjAlMkIwMDAw",
       "title": "REA Reverse – Engineer Anything",
       "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJldHRlLnh5eiUyRnBvc3RzJTJGbG9iYnlpbmdfYW5kX2NvcnJ1cHRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmNhcmV0dGUueHl6JTJGcG9zdHMlMkZsb2JieWluZ19hbmRfY29ycnVwdGlvbiUyRiU3Q0xvYmJ5aW5nJTIwSXMlMjBDb3JydXB0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzI1NTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAxMyUzQTA1JTNBNTglMjAlMkIwMDAw",
+      "title": "Lobbying Is Corruption",
+      "pubDate": "Sat, 10 Oct 2026 13:05:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3Blbmdyb3VwLm9yZyUyRiUyRm9wZW5icmFuZCUyRnJlZ2lzdGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cub3Blbmdyb3VwLm9yZyUyRiUyRm9wZW5icmFuZCUyRnJlZ2lzdGVyJTJGJTdDQXBwbGUlMkZtYWNPUyUyMHNpbGVudGx5JTIwcmVtb3ZlZCUyMGZyb20lMjBvZmZpY2lhbCUyMFVuaXglMjByZWdpc3RyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDMxNjUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMTAlM0E1NyUzQTMxJTIwJTJCMDAwMA",
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "pubDate": "Sat, 10 Oct 2026 10:57:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcm9jaWl1JTJGdGFsb3J5cyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJvY2lpdSUyRnRhbG9yeXMlN0NUYWxvcnlzJTIwJUUyJTgwJTkzJTIwQSUyMHNlbGYtaG9zdGVkJTIwcGVyc29uYWwlMjBBSSUyMGFnZW50JTIwb24lMjBDbG91ZGZsYXJlJ3MlMjBmcmVlJTIwdGllciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDMxNjE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMTAlM0E1MiUzQTA5JTIwJTJCMDAwMA",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "pubDate": "Sat, 10 Oct 2026 10:52:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcGhwb3N0LmRrJTJGMjAyNi0xMC0xMCUyRm5ld3MlMkZyb3VuZC11cCUyRjEyMzQ1Ni1wYXNzd29yZC11c2VkLWluLW1hc3NpdmUtZGFuaXNoLWNwci1kYXRhLWJyZWFjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGY3BocG9zdC5kayUyRjIwMjYtMTAtMTAlMkZuZXdzJTJGcm91bmQtdXAlMkYxMjM0NTYtcGFzc3dvcmQtdXNlZC1pbi1tYXNzaXZlLWRhbmlzaC1jcHItZGF0YS1icmVhY2glMkYlN0MlNjAxMjM0NTYnJTIwcGFzc3dvcmQlMjB1c2VkJTIwaW4lMjBEYW5pc2glMjBDUFIlMjBkYXRhJTIwYnJlYWNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMzEyNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAwOSUzQTUxJTNBNDklMjAlMkIwMDAw",
+      "title": "`123456' password used in Danish CPR data breach",
+      "pubDate": "Sat, 10 Oct 2026 09:51:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWtpLmNhdGVhdC5maXNoJTJGYXJ0JTNBY29tcHV0ZXJzX2Nhbm5vdF9tYWtlX2RlY2lzaW9ucyU3Q2h0dHBzJTNBJTJGJTJGd2lraS5jYXRlYXQuZmlzaCUyRmFydCUzQWNvbXB1dGVyc19jYW5ub3RfbWFrZV9kZWNpc2lvbnMlN0NDb21wdXRlcnMlMjBDYW5ub3QlMjBNYWtlJTIwRGVjaXNpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjk5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxMCUyME9jdCUyMDIwMjYlMjAwNSUzQTQ3JTNBNDYlMjAlMkIwMDAw",
+      "title": "Computers Cannot Make Decisions",
+      "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
     }
   ]
