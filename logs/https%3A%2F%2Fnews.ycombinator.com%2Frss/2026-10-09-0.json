@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-09",
     "newestItemDate": "2026-10-09",
-    "itemCount": 59,
-    "generatedAt": "2026-10-10T20:09:35.128Z"
+    "itemCount": 64,
+    "generatedAt": "2026-10-11T05:59:34.375Z"
   },
   "items": [
     {
@@ -360,6 +360,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGV2ZXJpZmllZHBvc3QuY29tJTJGYXJ0aWNsZSUyRndob29waW5nLWNyYW5lcy11bHRyYWxpZ2h0LWNvc3R1bWVkLXBpbG90cy1vcGVyYXRpb24tbWlncmF0aW9uJTdDaHR0cHMlM0ElMkYlMkZ0aGV2ZXJpZmllZHBvc3QuY29tJTJGYXJ0aWNsZSUyRndob29waW5nLWNyYW5lcy11bHRyYWxpZ2h0LWNvc3R1bWVkLXBpbG90cy1vcGVyYXRpb24tbWlncmF0aW9uJTdDV2hvb3BpbmclMjBDcmFuZXMlMjBMZWFybmVkJTIwdG8lMjBNaWdyYXRlJTIwYnklMjBGb2xsb3dpbmclMjBDb3N0dW1lZCUyMFBpbG90cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE2Njk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMDYlM0EyMSUzQTM2JTIwJTJCMDAwMA",
       "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
       "pubDate": "Fri, 09 Oct 2026 06:21:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWxsZC5kZXYlMkZkb2NzJTJGZW5naW5lZXJpbmclMkZkZXRlcm1pbmlzdGljLXNpbXVsYXRpb24tdGVzdGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGY2VsbGQuZGV2JTJGZG9jcyUyRmVuZ2luZWVyaW5nJTJGZGV0ZXJtaW5pc3RpYy1zaW11bGF0aW9uLXRlc3RpbmclMkYlN0NEZXRlcm1pbmlzdGljJTIwU2ltdWxhdGlvbiUyMFRlc3RpbmclMjBpbiUyMENlbGxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjQ4MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxOCUzQTMxJTNBNTAlMjAlMkIwMDAw",
+      "title": "Deterministic Simulation Testing in Celld",
+      "pubDate": "Fri, 09 Oct 2026 18:31:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29ja3JvYWNobGFicy5jb20lMkZibG9nJTJGZXhwZXJpbWVudC1ydW5uaW5nLWhvc3BpdGFsLWNvZGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jb2Nrcm9hY2hsYWJzLmNvbSUyRmJsb2clMkZleHBlcmltZW50LXJ1bm5pbmctaG9zcGl0YWwtY29kZSUyRiU3Q0ZpdmUlMjBtb250aHMlMjB0cmVhdGluZyUyMGJ1Z3MlMjBsaWtlJTIwcGF0aWVudHMlMjBhbmQlMjBjb2RpbmclMjBhZ2VudHMlMjBsaWtlJTIwYSUyMG1lZGljYWwlMjB0ZWFtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwMjE4OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwOSUyME9jdCUyMDIwMjYlMjAxNSUzQTI2JTNBMzMlMjAlMkIwMDAw",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "pubDate": "Fri, 09 Oct 2026 15:26:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZXJ3b2x2Lm5ldCUyRnBvc3RzJTJGbWFjcm9tZWRpYV9jb3B5X3Byb3RlY3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRndlcndvbHYubmV0JTJGcG9zdHMlMkZtYWNyb21lZGlhX2NvcHlfcHJvdGVjdGlvbiUyRiU3Q0dldHRpbmclMjBvbGQlMjBNYWNyb21lZGlhJTIwRGlyZWN0b3IlMjBHYW1lcyUyMHRvJTIwcnVuJTIwb24lMjBtb2Rlcm4lMjBIYXJkd2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDIwOTAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTQlM0ExOCUzQTAzJTIwJTJCMDAwMA",
+      "title": "Getting old Macromedia Director Games to run on modern Hardware",
+      "pubDate": "Fri, 09 Oct 2026 14:18:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXRmYWN0b3IuY29tJTJGY2FyZHMlMkZnaXQtY29tbWl0LXNpemUlN0NodHRwcyUzQSUyRiUyRnJhdGZhY3Rvci5jb20lMkZjYXJkcyUyRmdpdC1jb21taXQtc2l6ZSU3Q0hvdyUyMGJpZyUyMGlzJTIwYSUyMEdpdCUyMGNvbW1pdCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE3NTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMDglM0ExMyUzQTQ0JTIwJTJCMDAwMA",
+      "title": "How big is a Git commit?",
+      "pubDate": "Fri, 09 Oct 2026 08:13:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYW5ndWwuaW5rJTJGYmxvZyUyRmhhbmd1bC1kYXklN0NodHRwcyUzQSUyRiUyRmhhbmd1bC5pbmslMkZibG9nJTJGaGFuZ3VsLWRheSU3Q1Nob3clMjBITiUzQSUyMEhhcHB5JTIwSGFuZ3VsJTIwRGF5ISUyMEFuJTIwUk5OJTIwZm9yJTIwR2VuZXJhdGluZyUyMEtvcmVhbiUyMEhhbmR3cml0aW5nJTIwU3Ryb2tlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE1ODMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMDMlM0E1OCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "pubDate": "Fri, 09 Oct 2026 03:58:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
     }
   ]

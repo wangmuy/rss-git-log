@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-10",
     "newestItemDate": "2026-10-10",
-    "itemCount": 25,
-    "generatedAt": "2026-10-10T20:09:35.127Z"
+    "itemCount": 28,
+    "generatedAt": "2026-10-11T05:59:34.374Z"
   },
   "items": [
     {
@@ -156,6 +156,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjZXJuY291cmllci5jb20lMkZob3ctc3Ryb25nLWlzLXRoZS1zdHJvbmctaW50ZXJhY3Rpb24lMkYlN0NodHRwcyUzQSUyRiUyRmNlcm5jb3VyaWVyLmNvbSUyRmhvdy1zdHJvbmctaXMtdGhlLXN0cm9uZy1pbnRlcmFjdGlvbiUyRiU3Q0hvdyUyMHN0cm9uZyUyMGlzJTIwdGhlJTIwc3Ryb25nJTIwaW50ZXJhY3Rpb24lM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyODE2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDAwJTNBMTMlM0ExNiUyMCUyQjAwMDA",
       "title": "How strong is the strong interaction?",
       "pubDate": "Sat, 10 Oct 2026 00:13:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaXNodGFoaXIuY29tJTJGYnVpbGQteW91ci1vd24tZGVjaXNpb24tbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRm5pc2h0YWhpci5jb20lMkZidWlsZC15b3VyLW93bi1kZWNpc2lvbi1tb2RlbCUyRiU3Q0J1aWxkJTIweW91ciUyMG93biUyMGRlY2lzaW9uJTIwbW9kZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAzNzk0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDIyJTNBNTAlM0ExMCUyMCUyQjAwMDA",
+      "title": "Build your own decision model",
+      "pubDate": "Sat, 10 Oct 2026 22:50:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob3VzaW5nLm92ZXIucGl6emElMkYlN0NodHRwcyUzQSUyRiUyRmhvdXNpbmcub3Zlci5waXp6YSUyRiU3Q0ElMjBjaXR5LWJ1aWxkaW5nJTIwZ2FtZSUyMGluJTIwd2hpY2glMjB0aGUlMjBjaXR5JTIwd291bGQlMjBwcmVmZXIlMjB5b3UlMjBkaWRuJ3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAzNjg2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDIwJTNBMzElM0E1MCUyMCUyQjAwMDA",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnZ0LmVkdSUyRmFydGljbGVzJTJGMjAyNiUyRjEwJTJGcmVzZWFyY2hfZnJhbGluYmlvbWVkX3VwZmh1dGVsaW4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbmV3cy52dC5lZHUlMkZhcnRpY2xlcyUyRjIwMjYlMkYxMCUyRnJlc2VhcmNoX2ZyYWxpbmJpb21lZF91cGZodXRlbGluLmh0bWwlN0NGb29kJTIwcHJvY2Vzc2luZyUyMGluZmx1ZW5jZXMlMjBtZXRhYm9saXNtJTIwYW5kJTIwYnJhaW4lMjBhY3Rpdml0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI5ODMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMDUlM0EyMiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Food processing influences metabolism and brain activity",
+      "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-08",
     "newestItemDate": "2026-10-08",
-    "itemCount": 40,
-    "generatedAt": "2026-10-10T14:31:16.499Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-11T05:59:34.375Z"
   },
   "items": [
     {
@@ -246,6 +246,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZiZDEwMy5kZXYlMkZibG9nJTJGMjAyNi0xMC0wNy1jLWZvci1ydXN0LXByb2dyYW1tZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZiZDEwMy5kZXYlMkZibG9nJTJGMjAyNi0xMC0wNy1jLWZvci1ydXN0LXByb2dyYW1tZXJzJTJGJTdDQyUyMGZvciUyMFJ1c3QlMjBQcm9ncmFtbWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA1NzQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTMlM0E0NCUzQTM2JTIwJTJCMDAwMA",
       "title": "C for Rust Programmers",
       "pubDate": "Thu, 08 Oct 2026 13:44:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW9yaXR6d2lsa3NjaCUyRmRpZmZsZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1vcml0endpbGtzY2glMkZkaWZmbGUlN0NTaG93JTIwSE4lM0ElMjBEaWZmbGUlMkMlMjBhJTIwa2V5Ym9hcmQtY2VudHJpYyUyMGRpZmYlMjB2aWV3ZXIlMjB3aXRoJTIwTFNQJTIwc3VwcG9ydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA2OTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTUlM0EyMyUzQTE5JTIwJTJCMDAwMA",
+      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "pubDate": "Thu, 08 Oct 2026 15:23:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZDEwMy5kZXYlMkZibG9nJTJGMjAyNi0xMC0wNy1jLWZvci1ydXN0LXByb2dyYW1tZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZiZDEwMy5kZXYlMkZibG9nJTJGMjAyNi0xMC0wNy1jLWZvci1ydXN0LXByb2dyYW1tZXJzJTJGJTdDQyUyMGZvciUyMFJ1c3QlMjBwcm9ncmFtbWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDA1NzQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDglMjBPY3QlMjAyMDI2JTIwMTMlM0E0NCUzQTM2JTIwJTJCMDAwMA",
+      "title": "C for Rust programmers",
+      "pubDate": "Thu, 08 Oct 2026 13:44:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTg2LTAyNi0xMTExMS00JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNTg2LTAyNi0xMTExMS00JTdDUmV0cm9maXR0aW5nJTIwbGFuZ3VhZ2UlMjBtb2RlbHMlMjB0byUyMG9wZXJhdGUlMjBvdmVyJTIwYnl0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAwMTIzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA4JTIwT2N0JTIwMjAyNiUyMDAyJTNBMTUlM0ExNiUyMCUyQjAwMDA",
+      "title": "Retrofitting language models to operate over bytes",
+      "pubDate": "Thu, 08 Oct 2026 02:15:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-08-0.json"
     }
   ]
