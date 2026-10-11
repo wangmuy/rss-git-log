@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-09",
     "newestItemDate": "2026-10-09",
-    "itemCount": 64,
-    "generatedAt": "2026-10-11T05:59:34.375Z"
+    "itemCount": 66,
+    "generatedAt": "2026-10-11T14:58:16.770Z"
   },
   "items": [
     {
@@ -390,6 +390,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYW5ndWwuaW5rJTJGYmxvZyUyRmhhbmd1bC1kYXklN0NodHRwcyUzQSUyRiUyRmhhbmd1bC5pbmslMkZibG9nJTJGaGFuZ3VsLWRheSU3Q1Nob3clMjBITiUzQSUyMEhhcHB5JTIwSGFuZ3VsJTIwRGF5ISUyMEFuJTIwUk5OJTIwZm9yJTIwR2VuZXJhdGluZyUyMEtvcmVhbiUyMEhhbmR3cml0aW5nJTIwU3Ryb2tlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE1ODMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMDMlM0E1OCUzQTE2JTIwJTJCMDAwMA",
       "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
       "pubDate": "Fri, 09 Oct 2026 03:58:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFwbmljLm5ldCUyRjIwMjYlMkYxMCUyRjA5JTJGcm9sbGluZy10aGUtcm9vdC1rZXktMiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcG5pYy5uZXQlMkYyMDI2JTJGMTAlMkYwOSUyRnJvbGxpbmctdGhlLXJvb3Qta2V5LTIlMkYlN0NSb2xsaW5nJTIwdGhlJTIwUm9vdCUyMEtleSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI0NTcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTglM0ExNSUzQTU5JTIwJTJCMDAwMA",
+      "title": "Rolling the Root Key",
+      "pubDate": "Fri, 09 Oct 2026 18:15:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmFkb2xmb2FsdmFyZXouY2wlMkZibG9nJTJGMjAyMS0wOS0xNi1wbHVtYmVycy1jaGFpbnMtYW5kLWZhbW91cy1wYWludGVycy10aGUtaGlzdG9yeS1vZi10aGUtcGlwZS1vcGVyYXRvci1pbi1yJTJGJTdDaHR0cCUzQSUyRiUyRmFkb2xmb2FsdmFyZXouY2wlMkZibG9nJTJGMjAyMS0wOS0xNi1wbHVtYmVycy1jaGFpbnMtYW5kLWZhbW91cy1wYWludGVycy10aGUtaGlzdG9yeS1vZi10aGUtcGlwZS1vcGVyYXRvci1pbi1yJTJGJTdDUGx1bWJlcnMlMkMlMjBjaGFpbnMlMkMlMjBhbmQlMjBmYW1vdXMlMjBwYWludGVycyUzQSUyMFRoZSUyMGhpc3RvcnklMjBvZiUyMHRoZSUyMHBpcGUlMjBvcGVyYXRvciUyMGluJTIwUiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDE4OTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDklMjBPY3QlMjAyMDI2JTIwMTElM0EyMCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+      "pubDate": "Fri, 09 Oct 2026 11:20:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-09-0.json"
     }
   ]

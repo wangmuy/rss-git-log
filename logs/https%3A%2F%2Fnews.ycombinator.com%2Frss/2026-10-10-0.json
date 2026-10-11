@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-10",
     "newestItemDate": "2026-10-10",
-    "itemCount": 28,
-    "generatedAt": "2026-10-11T05:59:34.374Z"
+    "itemCount": 31,
+    "generatedAt": "2026-10-11T14:58:16.769Z"
   },
   "items": [
     {
@@ -174,6 +174,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnZ0LmVkdSUyRmFydGljbGVzJTJGMjAyNiUyRjEwJTJGcmVzZWFyY2hfZnJhbGluYmlvbWVkX3VwZmh1dGVsaW4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbmV3cy52dC5lZHUlMkZhcnRpY2xlcyUyRjIwMjYlMkYxMCUyRnJlc2VhcmNoX2ZyYWxpbmJpb21lZF91cGZodXRlbGluLmh0bWwlN0NGb29kJTIwcHJvY2Vzc2luZyUyMGluZmx1ZW5jZXMlMjBtZXRhYm9saXNtJTIwYW5kJTIwYnJhaW4lMjBhY3Rpdml0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI5ODMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMDUlM0EyMiUzQTMwJTIwJTJCMDAwMA",
       "title": "Food processing influences metabolism and brain activity",
       "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2Vsc2lrcy5jb20lMkZwb3N0cyUyRmFhcmNoNjQtZXhjbHVzaXZlLWFjY2Vzcy1jYWNoZWFiaWxpdHklMkYlN0NodHRwcyUzQSUyRiUyRmpvZWxzaWtzLmNvbSUyRnBvc3RzJTJGYWFyY2g2NC1leGNsdXNpdmUtYWNjZXNzLWNhY2hlYWJpbGl0eSUyRiU3Q1doZW4lMjBMZGF4ciUyMERvZXNuJ3QlMjBXb3JrJTNBJTIwRXhjbHVzaXZlJTIwQWNjZXNzZXMlMjBhbmQlMjBDYWNoZWFiaWxpdHklMjBvbiUyMEFBcmNoNjQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAzMTI4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDA5JTNBNTUlM0E0MyUyMCUyQjAwMDA",
+      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+      "pubDate": "Sat, 10 Oct 2026 09:55:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZXhyYXQuY2MlMkZwYWdlcyUyRmJsb2clMkYyMDI2XzEwXzA3JTdDaHR0cHMlM0ElMkYlMkZoZXhyYXQuY2MlMkZwYWdlcyUyRmJsb2clMkYyMDI2XzEwXzA3JTdDUmF0J3MlMjBSZWdpc3RlciUyMEFsbG9jYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDMwNDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMDclM0ExMCUzQTE3JTIwJTJCMDAwMA",
+      "title": "Rat's Register Allocator",
+      "pubDate": "Sat, 10 Oct 2026 07:10:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGZ2FtZXMlMkYxMDA5MTQwJTJGcmFtLXNob3J0YWdlLWludGVsLWFtZC1kZHI0LWNvbWViYWNrJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGZ2FtZXMlMkYxMDA5MTQwJTJGcmFtLXNob3J0YWdlLWludGVsLWFtZC1kZHI0LWNvbWViYWNrJTdDVGhlJTIwUkFNJTIwc2hvcnRhZ2UlMjBpcyUyMGJyaW5naW5nJTIwYmFjayUyMEREUjQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyODY0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDAxJTNBMzclM0EwOCUyMCUyQjAwMDA",
+      "title": "The RAM shortage is bringing back DDR4",
+      "pubDate": "Sat, 10 Oct 2026 01:37:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
     }
   ]
