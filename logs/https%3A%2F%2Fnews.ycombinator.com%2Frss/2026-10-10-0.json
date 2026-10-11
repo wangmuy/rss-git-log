@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-10",
     "newestItemDate": "2026-10-10",
-    "itemCount": 31,
-    "generatedAt": "2026-10-11T14:58:16.769Z"
+    "itemCount": 33,
+    "generatedAt": "2026-10-11T20:22:56.789Z"
   },
   "items": [
     {
@@ -192,6 +192,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGZ2FtZXMlMkYxMDA5MTQwJTJGcmFtLXNob3J0YWdlLWludGVsLWFtZC1kZHI0LWNvbWViYWNrJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGZ2FtZXMlMkYxMDA5MTQwJTJGcmFtLXNob3J0YWdlLWludGVsLWFtZC1kZHI0LWNvbWViYWNrJTdDVGhlJTIwUkFNJTIwc2hvcnRhZ2UlMjBpcyUyMGJyaW5naW5nJTIwYmFjayUyMEREUjQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAyODY0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDAxJTNBMzclM0EwOCUyMCUyQjAwMDA",
       "title": "The RAM shortage is bringing back DDR4",
       "pubDate": "Sat, 10 Oct 2026 01:37:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLm1pdC5lZHUlMkYyMDI2JTJGc2hhcGUtc2Vuc2luZy1zaGVldC1kaWdpdGFsbHktdHJhY2tzLW1vdmVtZW50LWJlbmRzLXR3aXN0cy0xMDA4JTdDaHR0cHMlM0ElMkYlMkZuZXdzLm1pdC5lZHUlMkYyMDI2JTJGc2hhcGUtc2Vuc2luZy1zaGVldC1kaWdpdGFsbHktdHJhY2tzLW1vdmVtZW50LWJlbmRzLXR3aXN0cy0xMDA4JTdDU2hhcGUtc2Vuc2luZyUyMHNoZWV0JTIwZGlnaXRhbGx5JTIwdHJhY2tzJTIwaXRzJTIwb3duJTIwbW92ZW1lbnQlMjBhcyUyMGl0JTIwYmVuZHMlMjBhbmQlMjB0d2lzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDAzMjI1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDEwJTIwT2N0JTIwMjAyNiUyMDEyJTNBMjclM0EzNiUyMCUyQjAwMDA",
+      "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
+      "pubDate": "Sat, 10 Oct 2026 12:27:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjEwJTJGYS1jcmF5LTEtc3VwZXJjb21wdXRlci1yZXBsaWNhLWZyb20tMzAtb2Jzb2xldGUtbWFjLW1pbmlzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjEwJTJGYS1jcmF5LTEtc3VwZXJjb21wdXRlci1yZXBsaWNhLWZyb20tMzAtb2Jzb2xldGUtbWFjLW1pbmlzJTJGJTdDQSUyMENyYXktMSUyMHN1cGVyY29tcHV0ZXIlMjByZXBsaWNhJTIwZnJvbSUyMDMwJTIwJTIyb2Jzb2xldGUlMjIlMjBNYWMlMjBNaW5pcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDI4MjY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTAlMjBPY3QlMjAyMDI2JTIwMDAlM0EzNCUzQTM0JTIwJTJCMDAwMA",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "pubDate": "Sat, 10 Oct 2026 00:34:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-10-0.json"
     }
   ]
