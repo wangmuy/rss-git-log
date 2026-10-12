@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-11",
     "newestItemDate": "2026-10-11",
-    "itemCount": 43,
-    "generatedAt": "2026-10-12T06:09:30.865Z"
+    "itemCount": 45,
+    "generatedAt": "2026-10-12T18:01:21.795Z"
   },
   "items": [
     {
@@ -264,6 +264,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZ2ZWN0b3JpemVkLWNsei1hbmQtY3R6JTJGJTdDaHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZ2ZWN0b3JpemVkLWNsei1hbmQtY3R6JTJGJTdDVmVjdG9yaXplZCUyMENMWiUyMGFuZCUyMENUWiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDM5NjA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMDMlM0EzNiUzQTQyJTIwJTJCMDAwMA",
       "title": "Vectorized CLZ and CTZ",
       "pubDate": "Sun, 11 Oct 2026 03:36:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGliYW5hd29ya3MlMkZoaWJhbmElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZoaWJhbmF3b3JrcyUyRmhpYmFuYSU3Q0Nob3Jlb2dyYXBoaWMlMjBQcm9ncmFtbWluZyUyMGluJTIwUnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQyOTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMTMlM0EwNSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Choreographic Programming in Rust",
+      "pubDate": "Sun, 11 Oct 2026 13:05:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGR2VyYW15JTJGTGVtb25TZWVkLVN0dWRpbyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkdlcmFteSUyRkxlbW9uU2VlZC1TdHVkaW8lN0NSdW5uaW5nJTIwdGhlJTIwdW5tb2RpZmllZCUyMExpbnV4JTIwYW1kZ3B1JTIwZHJpdmVyJTIwb24lMjBhbiUyMGlQYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA0MTU3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDExJTIwT2N0JTIwMjAyNiUyMDEwJTNBMTglM0ExOCUyMCUyQjAwMDA",
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "pubDate": "Sun, 11 Oct 2026 10:18:18 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
     }
   ]
