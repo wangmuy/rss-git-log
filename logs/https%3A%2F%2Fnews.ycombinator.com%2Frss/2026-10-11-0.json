@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-11",
     "newestItemDate": "2026-10-11",
-    "itemCount": 28,
-    "generatedAt": "2026-10-11T20:22:56.789Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-12T06:09:30.865Z"
   },
   "items": [
     {
@@ -174,6 +174,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpdHNhbGxhYm91dHRoZWJpdC5jb20lMkZpLWFtLXNvcnJ5LWJ1dC15b3Utc3RpbGwtaGF2ZS10by10aGluayUyRiU3Q2h0dHBzJTNBJTJGJTJGaXRzYWxsYWJvdXR0aGViaXQuY29tJTJGaS1hbS1zb3JyeS1idXQteW91LXN0aWxsLWhhdmUtdG8tdGhpbmslMkYlN0NJJ20lMjBzb3JyeSUyQyUyMGJ1dCUyMHlvdSUyMHN0aWxsJTIwaGF2ZSUyMHRvJTIwdGhpbmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA0MzY4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDExJTIwT2N0JTIwMjAyNiUyMDE0JTNBMjklM0EwNyUyMCUyQjAwMDA",
       "title": "I'm sorry, but you still have to think",
       "pubDate": "Sun, 11 Oct 2026 14:29:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW1lcmljYW5zY2llbnRpc3Qub3JnJTJGYXJ0aWNsZSUyRndoYXRldmVyLWJlY2FtZS1vZi1ob2xvZ3JhcGh5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW1lcmljYW5zY2llbnRpc3Qub3JnJTJGYXJ0aWNsZSUyRndoYXRldmVyLWJlY2FtZS1vZi1ob2xvZ3JhcGh5JTdDV2hhdGV2ZXIlMjBiZWNhbWUlMjBvZiUyMGhvbG9ncmFwaHklM0YlMjAoMjAxMSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA0OTQxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDExJTIwT2N0JTIwMjAyNiUyMDIzJTNBNTAlM0EzNCUyMCUyQjAwMDA",
+      "title": "Whatever became of holography? (2011)",
+      "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjEwJTJGMTElMkZpbGx1c3RyYXRpb24tYmV5b25kLXByb29mJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjEwJTJGMTElMkZpbGx1c3RyYXRpb24tYmV5b25kLXByb29mJTJGJTdDSWxsdXN0cmF0aW9uJTIwQmV5b25kJTIwUHJvb2YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA0OTEzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDExJTIwT2N0JTIwMjAyNiUyMDIzJTNBMjIlM0EzNiUyMCUyQjAwMDA",
+      "title": "Illustration Beyond Proof",
+      "pubDate": "Sun, 11 Oct 2026 23:22:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ2xpY2tIb3VzZSUyRmNsaWNraG91c2UtYyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkNsaWNrSG91c2UlMkZjbGlja2hvdXNlLWMlN0NDbGlja0hvdXNlJTIwQyUyMCVFMiU4MCU5MyUyMFRhbGslMjB0byUyMENsaWNrSG91c2UlMjB1c2luZyUyMGl0cyUyMG5hdGl2ZSUyMGJpbmFyeSUyMHByb3RvY29sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNDkwMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMSUyME9jdCUyMDIwMjYlMjAyMyUzQTA4JTNBMjklMjAlMkIwMDAw",
+      "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+      "pubDate": "Sun, 11 Oct 2026 23:08:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb3lmaXNoLmRldiUyRmZpbmdlcnByaW50cy1hcmUtdGhlLW5ldy1jb29raWVzJTdDaHR0cHMlM0ElMkYlMkZyb3lmaXNoLmRldiUyRmZpbmdlcnByaW50cy1hcmUtdGhlLW5ldy1jb29raWVzJTdDRmluZ2VycHJpbnRzJTIwYXJlJTIwdGhlJTIwbmV3JTIwY29va2llcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQ4NjQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMjIlM0EzMyUzQTM5JTIwJTJCMDAwMA",
+      "title": "Fingerprints are the new cookies",
+      "pubDate": "Sun, 11 Oct 2026 22:33:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZvY3QlMkYwNiUyRmdvb2dsZS1kYXRhY2VudHJlcy1maW5sYW5kLXRlbXBvcmFyeS1oYWx0LWVudmlyb25tZW50YWwtaW1wYWN0LWFzc2Vzc21lbnQlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRm9jdCUyRjA2JTJGZ29vZ2xlLWRhdGFjZW50cmVzLWZpbmxhbmQtdGVtcG9yYXJ5LWhhbHQtZW52aXJvbm1lbnRhbC1pbXBhY3QtYXNzZXNzbWVudCU3Q0dvb2dsZSUyMGlzJTIwaWxsZWdhbHklMjBjdXR0aW5nJTIwZm9yZXN0JTIwdG8lMjBidWlsZCUyMGRhdGElMjBjZW50ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNDg2MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMSUyME9jdCUyMDIwMjYlMjAyMiUzQTMzJTNBMzAlMjAlMkIwMDAw",
+      "title": "Google is illegaly cutting forest to build data centers",
+      "pubDate": "Sun, 11 Oct 2026 22:33:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWIuc2FrYW5hLmFpJTJGbWFzcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHViLnNha2FuYS5haSUyRm1hc3MlMkYlN0NSZWN1cnNpdmUlMjBzZWxmLWltcHJvdmVtZW50JTIwdGhyb3VnaCUyMGNvbGxlY3RpdmUlMjBpbnRlbGxpZ2VuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA0ODUyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDExJTIwT2N0JTIwMjAyNiUyMDIyJTNBMjIlM0ExMCUyMCUyQjAwMDA",
+      "title": "Recursive self-improvement through collective intelligence",
+      "pubDate": "Sun, 11 Oct 2026 22:22:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZweWRhbnRpYy5kZXYlMkZhcnRpY2xlcyUyRmR5bmFtaWMtc2hyZWRkaW5nLTIwMjYtMDEtMjYlN0NodHRwcyUzQSUyRiUyRnB5ZGFudGljLmRldiUyRmFydGljbGVzJTJGZHluYW1pYy1zaHJlZGRpbmctMjAyNi0wMS0yNiU3Q1NocmVkZGluZyUyMEpTT04lMjBjb2x1bW5zJTIwZ2F2ZSUyMExvZ2ZpcmUlMjB1cCUyMHRvJTIwMTAwMHglMjBmYXN0ZXIlMjBxdWVyaWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNDg0OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMSUyME9jdCUyMDIwMjYlMjAyMiUzQTE4JTNBMjYlMjAlMkIwMDAw",
+      "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
+      "pubDate": "Sun, 11 Oct 2026 22:18:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub25mdW5jdGlvbmFsLnN1YnN0YWNrLmNvbSUyRnAlMkZwYXNza2V5cy1hcmUtYS10cmFwLWRvLW5vdC11c2UtdGhlbSU3Q2h0dHBzJTNBJTJGJTJGbm9uZnVuY3Rpb25hbC5zdWJzdGFjay5jb20lMkZwJTJGcGFzc2tleXMtYXJlLWEtdHJhcC1kby1ub3QtdXNlLXRoZW0lN0NQYXNza2V5cyUyMGFyZSUyMGElMjB0cmFwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNDgzMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMSUyME9jdCUyMDIwMjYlMjAyMSUzQTU5JTNBNDglMjAlMkIwMDAw",
+      "title": "Passkeys are a trap",
+      "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGl2ZXNjaWVuY2UuY29tJTJGdGVjaG5vbG9neSUyRmNvb2wtY2hlbWlzdHJ5LXRyaWNrLWFsbG93cy1uZXctdGF0dG9vcy10by10dXJuLW9uLWFuZC1vZmYlN0NodHRwcyUzQSUyRiUyRnd3dy5saXZlc2NpZW5jZS5jb20lMkZ0ZWNobm9sb2d5JTJGY29vbC1jaGVtaXN0cnktdHJpY2stYWxsb3dzLW5ldy10YXR0b29zLXRvLXR1cm4tb24tYW5kLW9mZiU3Q1RhdHRvb3MlMjB5b3UlMjBjYW4lMjB0dXJuJTIwb24lMjBhbmQlMjBvZmYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA0NzgwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDExJTIwT2N0JTIwMjAyNiUyMDIxJTNBMDQlM0E0NiUyMCUyQjAwMDA",
+      "title": "Tattoos you can turn on and off",
+      "pubDate": "Sun, 11 Oct 2026 21:04:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmthcnBhdGh5JTJGc3RhdHVzJTJGMjEwOTM2MTU0NjUwNTk2NjA0NiU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZrYXJwYXRoeSUyRnN0YXR1cyUyRjIxMDkzNjE1NDY1MDU5NjYwNDYlN0NUaGUlMjBnYXAlMjBpbiUyMHNoYXJlZCUyMHVuZGVyc3RhbmRpbmclMjBvZiUyMExMTSUyMGNhcGFiaWxpdHklMjBpcyUyMHdpZGVuaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNDc0MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxMSUyME9jdCUyMDIwMjYlMjAyMCUzQTIwJTNBNTIlMjAlMkIwMDAw",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJ0b2dyYXBoZXJzLW5rLndvbnlvdW5nLnNvJTJGJTdDaHR0cHMlM0ElMkYlMkZjYXJ0b2dyYXBoZXJzLW5rLndvbnlvdW5nLnNvJTJGJTdDQ2FydG9ncmFwaGVycyUyMG9mJTIwTm9ydGglMjBLb3JlYSUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQ3MDkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMTklM0E0NiUzQTQwJTIwJTJCMDAwMA",
+      "title": "Cartographers of North Korea (2019)",
+      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVvbmlvbi5jb20lMkZhcmNoaXZlaHVudCUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlb25pb24uY29tJTJGYXJjaGl2ZWh1bnQlMkYlN0NTbyUyQyUyMFlvdSVFMiU4MCU5OWQlMjBMaWtlJTIwVG8lMjBTZWxsJTIwWW91ciUyMFByaW50JTIwSXNzdWVzJTIwT2YlMjBUaGUlMjBPbmlvbiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQ3MDU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMTklM0E0MyUzQTMyJTIwJTJCMDAwMA",
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2F5cy1vZi1zZWVpbmcuY29tJTJGY2gxJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2F5cy1vZi1zZWVpbmcuY29tJTJGY2gxJTdDQ2hhcHRlciUyMDElMjBvZiUyMCUyMldheXMlMjBvZiUyMFNlZWluZyUyMiUyMGJ5JTIwSm9obiUyMEJlcmdlciUyMCgxOTcyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQ2MjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMTglM0EyNiUzQTI0JTIwJTJCMDAwMA",
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+      "pubDate": "Sun, 11 Oct 2026 18:26:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2VsbC5jb20lMkZtYXR0ZXItbGlnaHQlMkZmdWxsdGV4dCUyRlMzMTE3LTU4NDgoMjYpMDAxMTktNSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNlbGwuY29tJTJGbWF0dGVyLWxpZ2h0JTJGZnVsbHRleHQlMkZTMzExNy01ODQ4KDI2KTAwMTE5LTUlN0NQcm9ncmFtbWFibGUlMjBwaWdtZW50cyUzQSUyMFBob3RvY2hyb21pYyUyMG5hbm9wYXJ0aWNsZSUyMGlua3MlMjBmb3IlMjByZXdyaXRhYmxlJTIwdGF0dG9vcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQxMjUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMDklM0ExOSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+      "pubDate": "Sun, 11 Oct 2026 09:19:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZ2ZWN0b3JpemVkLWNsei1hbmQtY3R6JTJGJTdDaHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZ2ZWN0b3JpemVkLWNsei1hbmQtY3R6JTJGJTdDVmVjdG9yaXplZCUyMENMWiUyMGFuZCUyMENUWiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDM5NjA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMDMlM0EzNiUzQTQyJTIwJTJCMDAwMA",
+      "title": "Vectorized CLZ and CTZ",
+      "pubDate": "Sun, 11 Oct 2026 03:36:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
     }
   ]
