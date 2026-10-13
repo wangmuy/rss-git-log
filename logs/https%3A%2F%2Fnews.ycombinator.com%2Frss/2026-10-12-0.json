@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-12",
     "newestItemDate": "2026-10-12",
-    "itemCount": 24,
-    "generatedAt": "2026-10-12T18:01:21.795Z"
+    "itemCount": 38,
+    "generatedAt": "2026-10-13T06:53:26.895Z"
   },
   "items": [
     {
@@ -150,6 +150,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc251cmkwMCUyRnBzMi13ZWItcmVjb21wJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc251cmkwMCUyRnBzMi13ZWItcmVjb21wJTdDU2hvdyUyMEhOJTNBJTIwUFMyJTIwZ2FtZXMlMjBzdGF0aWNhbGx5JTIwcmVjb21waWxlZCUyMHRvJTIwV2ViQXNzZW1ibHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA1MjI1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEyJTIwT2N0JTIwMjAyNiUyMDA2JTNBNDYlM0E1MyUyMCUyQjAwMDA",
       "title": "Show HN: PS2 games statically recompiled to WebAssembly",
       "pubDate": "Mon, 12 Oct 2026 06:46:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2kub3JnJTJGMTAuMTExMSUyRmFjZWwuNzA3NTElN0NodHRwcyUzQSUyRiUyRmRvaS5vcmclMkYxMC4xMTExJTJGYWNlbC43MDc1MSU3Q0Jsb29kJTIwY2VsbHMlMjBmcm9tJTIwODAteWVhci1vbGQlMjBkb25vciUyMGJlY29tZSUyMHN0ZW0lMjBjZWxscyUyMHdpdGglMjBtb2xlY3VsYXIlMjBhZ2UlMjB1bmRlciUyMDIwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNjQ1MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAyMyUzQTM0JTNBMjIlMjAlMkIwMDAw",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "pubDate": "Mon, 12 Oct 2026 23:34:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5kcmV3ZmFkZXIlMkZibG9ra2lseSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFuZHJld2ZhZGVyJTJGYmxva2tpbHklN0NTaG93JTIwSE4lM0ElMjBBbiUyMGV4cGVyaW1lbnRhbCUyMHBhdHRlcm4tZmlyc3QlMjBEQVclMjB0aGF0JTIwc3VwcG9ydHMlMjBNQ1AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA2NDQzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEyJTIwT2N0JTIwMjAyNiUyMDIzJTNBMjElM0ExMiUyMCUyQjAwMDA",
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "pubDate": "Mon, 12 Oct 2026 23:21:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcHJhYmFudGEtZGV2JTJGamFuYXMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwcmFiYW50YS1kZXYlMkZqYW5hcyU3Q0phbmFzJTNBJTIwUnVuJTIwTExNcyUyMGxhcmdlciUyMHRoYW4lMjBSQU0lMjBieSUyMHN0cmVhbWluZyUyMGV4cGVydHMlMjBmcm9tJTIwU1NEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNjM3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAyMiUzQTA1JTNBNDMlMjAlMkIwMDAw",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "pubDate": "Mon, 12 Oct 2026 22:05:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5eWhoLm9yZyUyRmJsb2clMkYyMDI2JTJGMTAlMkZhaS1pcy1hLXRvb2wlMkYlN0NodHRwcyUzQSUyRiUyRnl5aGgub3JnJTJGYmxvZyUyRjIwMjYlMkYxMCUyRmFpLWlzLWEtdG9vbCUyRiU3Q0FJJTIwaXMlMjBhJTIwdG9vbCUyMGFuZCUyMHVzaW5nJTIwaXQlMjB3ZWxsJTIwdGFrZXMlMjBza2lsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDYzNDI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMjElM0E0MCUzQTE4JTIwJTJCMDAwMA",
+      "title": "AI is a tool and using it well takes skill",
+      "pubDate": "Mon, 12 Oct 2026 21:40:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHJlYWsuaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZwaHJlYWsuaW5nJTJGJTdDUGhyZWFrLmluZyUyMCVFMiU4MCU5MyUyMEludGVybmV0JTIwUGhvbmUlMjBTd2l0Y2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA2MzQxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEyJTIwT2N0JTIwMjAyNiUyMDIxJTNBMzklM0EzMiUyMCUyQjAwMDA",
+      "title": "Phreak.ing – Internet Phone Switch",
+      "pubDate": "Mon, 12 Oct 2026 21:39:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50ZWwuY29tJTJGY29udGVudCUyRnd3dyUyRnVzJTJGZW4lMkZwcm9kdWN0cyUyRmRldGFpbHMlMkZkaXNjcmV0ZS1ncHVzJTJGZGF0YS1jZW50ZXItZ3B1JTJGZC1zZXJpZXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmludGVsLmNvbSUyRmNvbnRlbnQlMkZ3d3clMkZ1cyUyRmVuJTJGcHJvZHVjdHMlMkZkZXRhaWxzJTJGZGlzY3JldGUtZ3B1cyUyRmRhdGEtY2VudGVyLWdwdSUyRmQtc2VyaWVzLmh0bWwlN0NJbnRlbCUyMEQyNzAlMjBHUFUlMjBBSSUyMEFjY2VsZXJhdG9yJUUyJTgwJTkzVXAlMjB0byUyMDQ4MCUyMEdCJTIwTFBERFI1WCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDYzMzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMjElM0EzNSUzQTM1JTIwJTJCMDAwMA",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "pubDate": "Mon, 12 Oct 2026 21:35:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdXJwbGVzeXJpbmdhLm1vZSUyRmJsb2clMkZ3aG8taXMtdmZtYWRkcm5kMjMxcGQlMkYlN0NodHRwcyUzQSUyRiUyRnB1cnBsZXN5cmluZ2EubW9lJTJGYmxvZyUyRndoby1pcy12Zm1hZGRybmQyMzFwZCUyRiU3Q1dobyUyMGlzJTIwdmZtYWRkcm5kMjMxcGQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA2MzEzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEyJTIwT2N0JTIwMjAyNiUyMDIxJTNBMTIlM0E0MyUyMCUyQjAwMDA",
+      "title": "Who is vfmaddrnd231pd?",
+      "pubDate": "Mon, 12 Oct 2026 21:12:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmlja2JyYWcuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZicmlja2JyYWcuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwQnJpY2ticmFnJTIwJUUyJTgwJTkzJTIwQSUyMG11bHRpcGxheWVyJTIwYnJpY2stYnVpbGRpbmclMjB3b3JsZCUyMGluJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDYzMDQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMjElM0EwMyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "pubDate": "Mon, 12 Oct 2026 21:03:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFya3JvdW5kLmNvbSUyRmJsb2clMkYyMDI2JTJGengtc3BlY3RydW0taW50cm8lN0NodHRwcyUzQSUyRiUyRnd3dy5tYXJrcm91bmQuY29tJTJGYmxvZyUyRjIwMjYlMkZ6eC1zcGVjdHJ1bS1pbnRybyU3Q1dyaXRpbmclMjBhJTIwRGVtb3NjZW5lJTIwSW50cm8lMjBmb3IlMjB0aGUlMjBaWCUyMFNwZWN0cnVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNjE4NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAxOSUzQTQwJTNBMDAlMjAlMkIwMDAw",
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "pubDate": "Mon, 12 Oct 2026 19:40:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdW5hcndhdGNoZXIuY29kZWJlcmcucGFnZSUyRnRpbCUyRmZpcmVmb3glMkZyZXN1bWFibGUtYmlnLWRvd25sb2Fkcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZsdW5hcndhdGNoZXIuY29kZWJlcmcucGFnZSUyRnRpbCUyRmZpcmVmb3glMkZyZXN1bWFibGUtYmlnLWRvd25sb2Fkcy5odG1sJTdDTWFraW5nJTIwYmlnJTIwZG93bmxvYWRzJTIwcmVzdW1hYmxlJTIwaW4lMjBGaXJlZm94JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNjE3OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAxOSUzQTM2JTNBMDIlMjAlMkIwMDAw",
+      "title": "Making big downloads resumable in Firefox",
+      "pubDate": "Mon, 12 Oct 2026 19:36:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXglMkZpc3N1ZXMlMkY0ODE5NSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRmNvZGV4JTJGaXNzdWVzJTJGNDgxOTUlN0NDb2RleCUyMENMSSUyMGluc3RhbGxzJTIwYSUyMHBlcnNpc3RlbnQlMkMlMjBzZWxmLXVwZGF0aW5nJTIwYmFja2dyb3VuZCUyMGRhZW1vbiUyMGJ5JTIwZGVmYXVsdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDYwNjk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTglM0EyOSUzQTA0JTIwJTJCMDAwMA",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "pubDate": "Mon, 12 Oct 2026 18:29:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0aW9uYWxnZW9ncmFwaGljLmNvbSUyRmVudmlyb25tZW50JTJGYXJ0aWNsZSUyRmJhbGNvbnktcGx1Zy1pbi1zb2xhci1wYW5lbHMtcmVuZXdhYmxlLWVuZXJneSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5hdGlvbmFsZ2VvZ3JhcGhpYy5jb20lMkZlbnZpcm9ubWVudCUyRmFydGljbGUlMkZiYWxjb255LXBsdWctaW4tc29sYXItcGFuZWxzLXJlbmV3YWJsZS1lbmVyZ3klN0NTb2xhciUyMHBhbmVscyUyMHRoYXQlMjBwbHVnJTIwaW50byUyMHlvdXIlMjB3YWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNTY4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAxNCUzQTE5JTNBMDQlMjAlMkIwMDAw",
+      "title": "Solar panels that plug into your wall",
+      "pubDate": "Mon, 12 Oct 2026 14:19:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZjeWJlci1zZWN1cml0eSUyRnVucHJlY2VkZW50ZWQtY3liZXJhdHRhY2stY3JpcHBsZXMtc3VwZXJtYXJrZXQtZnJpZGdlcy1hY3Jvc3MtZXVyb3BlLWFzLWhhY2tlcnMtYWN0aXZhdGUtYXV0b21hdGljLWRlZnJvc3RpbmctZGVsaXZlcnktYW5kLXN0b3JlLXByaWNlcy1hbHNvLWltcGFjdGVkLWJ5LWluY2lkZW50JTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZjeWJlci1zZWN1cml0eSUyRnVucHJlY2VkZW50ZWQtY3liZXJhdHRhY2stY3JpcHBsZXMtc3VwZXJtYXJrZXQtZnJpZGdlcy1hY3Jvc3MtZXVyb3BlLWFzLWhhY2tlcnMtYWN0aXZhdGUtYXV0b21hdGljLWRlZnJvc3RpbmctZGVsaXZlcnktYW5kLXN0b3JlLXByaWNlcy1hbHNvLWltcGFjdGVkLWJ5LWluY2lkZW50JTdDSGFja2VycyUyMGFjdGl2YXRlJTIwYXV0b21hdGljJTIwZGVmcm9zdGluZyUyMGluJTIwc3VwZXJtYXJrZXQlMjBmcmlkZ2VzJTIwYWNyb3NzJTIwRXVyb3BlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNTUzMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAxMiUzQTE2JTNBNDIlMjAlMkIwMDAw",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "pubDate": "Mon, 12 Oct 2026 12:16:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmM2MjByMzNwbGdwcG8lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGYzYyMHIzM3BsZ3BwbyU3Q0NpdHJvZW4lMjByZXZpdmVzJTIwdGhlJTIwMkNWJTIwZm9yJTIwYW4lMjBlbGVjdHJpYyUyMGFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU1MjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTIlM0EwOSUzQTA5JTIwJTJCMDAwMA",
+      "title": "Citroen revives the 2CV for an electric age",
+      "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
     }
   ]
