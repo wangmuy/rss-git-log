@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-12",
     "newestItemDate": "2026-10-12",
-    "itemCount": 38,
-    "generatedAt": "2026-10-13T06:53:26.895Z"
+    "itemCount": 41,
+    "generatedAt": "2026-10-13T21:20:48.721Z"
   },
   "items": [
     {
@@ -234,6 +234,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmM2MjByMzNwbGdwcG8lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGYzYyMHIzM3BsZ3BwbyU3Q0NpdHJvZW4lMjByZXZpdmVzJTIwdGhlJTIwMkNWJTIwZm9yJTIwYW4lMjBlbGVjdHJpYyUyMGFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU1MjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTIlM0EwOSUzQTA5JTIwJTJCMDAwMA",
       "title": "Citroen revives the 2CV for an electric age",
       "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLm1pdC5lZHUlMkYyMDI2JTJGbWl0LWNsYXNzLXByb2plY3QtdHVybnMtaW50by1mZGEtY2xlYXJlZC10cmVhdG1lbnQtZm9yLXRyZW1vcnMtMTAwMiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5taXQuZWR1JTJGMjAyNiUyRm1pdC1jbGFzcy1wcm9qZWN0LXR1cm5zLWludG8tZmRhLWNsZWFyZWQtdHJlYXRtZW50LWZvci10cmVtb3JzLTEwMDIlN0NNSVQlMjBjbGFzcyUyMHByb2plY3QlMjB0dXJucyUyMGludG8lMjBhbiUyMEZEQS1jbGVhcmVkJTIwdHJlYXRtZW50JTIwZm9yJTIwdHJlbW9ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDYxNjU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTklM0EyOCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "pubDate": "Mon, 12 Oct 2026 19:28:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRnRyYXZlbCUyRmFydGljbGUlMkYyMDI2MTAwNy10aGUtbWFuLWhpa2luZy10aGUtd29ybGQtaW4tc2VhcmNoLW9mLXJhcmUtY2hlZXNlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZ0cmF2ZWwlMkZhcnRpY2xlJTJGMjAyNjEwMDctdGhlLW1hbi1oaWtpbmctdGhlLXdvcmxkLWluLXNlYXJjaC1vZi1yYXJlLWNoZWVzZXMlN0NIaWtpbmclMjB0aGUlMjB3b3JsZCUyMGluJTIwc2VhcmNoJTIwb2YlMjByYXJlJTIwY2hlZXNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU5NTQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTclM0ExNSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Hiking the world in search of rare cheeses",
+      "pubDate": "Mon, 12 Oct 2026 17:15:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxlZXBpbmdjb21wdXRlci5jb20lMkZuZXdzJTJGc2VjdXJpdHklMkZsZWRnZXItY29uZmlybXMtaGFyZHdhcmUtd2FsbGV0LXNweS1pbXBsYW50LWJlaGluZC1jcnlwdG8tdGhlZnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmxlZXBpbmdjb21wdXRlci5jb20lMkZuZXdzJTJGc2VjdXJpdHklMkZsZWRnZXItY29uZmlybXMtaGFyZHdhcmUtd2FsbGV0LXNweS1pbXBsYW50LWJlaGluZC1jcnlwdG8tdGhlZnRzJTJGJTdDTGVkZ2VyJTIwY29uZmlybXMlMjBzcHklMjBjaGlwJTIwaW1wbGFudCUyMGJlaGluZCUyMHdhbGxldCUyMGNyeXB0byUyMHRoZWZ0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU0MDkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTAlM0EwOSUzQTM3JTIwJTJCMDAwMA",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "pubDate": "Mon, 12 Oct 2026 10:09:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-13",
     "newestItemDate": "2026-10-13",
-    "itemCount": 27,
-    "generatedAt": "2026-10-13T16:06:47.828Z"
+    "itemCount": 42,
+    "generatedAt": "2026-10-13T21:20:48.720Z"
   },
   "items": [
     {
@@ -168,6 +168,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlaGlzdG9yeWJsb2cuY29tJTJGYXJjaGl2ZXMlMkY3NzEwNyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWhpc3RvcnlibG9nLmNvbSUyRmFyY2hpdmVzJTJGNzcxMDclN0NIaXR0aXRlJTIwcm95YWwlMjBhcmNoaXZlJTIwZm91bmQlMjBpbiUyMFR1cmtleSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDY3NDE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMDYlM0EwMiUzQTUxJTIwJTJCMDAwMA",
       "title": "Hittite royal archive found in Turkey",
       "pubDate": "Tue, 13 Oct 2026 06:02:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2JzLmxldmVyLmNvJTJGcG9zdGVyYSUyRmM3ZDUwYTM2LWRiMGEtNDU3NC1iZmU0LTg3MDBiNzRhMjJjMCU3Q2h0dHBzJTNBJTJGJTJGam9icy5sZXZlci5jbyUyRnBvc3RlcmElMkZjN2Q1MGEzNi1kYjBhLTQ1NzQtYmZlNC04NzAwYjc0YTIyYzAlN0NQb3N0RXJhJTIwKFlDJTIwVzIwKSUyMElzJTIwSGlyaW5nJTIwQUklMjBSZXNlYXJjaGVycyUyMGZvciUyMERydWclMjBEaXNjb3ZlcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3ODY4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDIxJTNBMDElM0ExMiUyMCUyQjAwMDA",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "pubDate": "Tue, 13 Oct 2026 21:01:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXJzaW1vbnkubGFzdS5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRnBhcnNpbW9ueS5sYXN1LmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMFBhcnNpbW9ueSUyMCVFMiU4MCU5MyUyMGFuJTIwb3Blbi1zb3VyY2UlMjBiZW5jaG1hcmslMjBmb3IlMjBob3clMjBtdWNoJTIwY29kZSUyMEFJJTIwbW9kZWxzJTIwYWRkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzc2MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxOSUzQTUwJTNBMzElMjAlMkIwMDAw",
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "pubDate": "Tue, 13 Oct 2026 19:50:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLnBlc3NpbWlzdHNhcmNoaXZlLm9yZyUyRnAlMkZ0aGUtMXN0LXRpbWUtbWFjaGluZXMtbW9nZ2VkLW1hdGhlbWF0aWNpYW5zJTdDaHR0cHMlM0ElMkYlMkZuZXdzbGV0dGVyLnBlc3NpbWlzdHNhcmNoaXZlLm9yZyUyRnAlMkZ0aGUtMXN0LXRpbWUtbWFjaGluZXMtbW9nZ2VkLW1hdGhlbWF0aWNpYW5zJTdDVGhlJTIwRm91ciUyMENvbG91ciUyMFRoZW9yZW0lM0ElMjBUaGUlMjBmaXJzdCUyMHRpbWUlMjBtYWNoaW5lcyUyMG1vZ2dlZCUyMG1hdGhlbWF0aWNpYW5zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzcwOTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxOSUzQTE3JTNBMTklMjAlMkIwMDAw",
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "pubDate": "Tue, 13 Oct 2026 19:17:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZndWl0b3JvLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3VpdG9yby5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBHdWl0b3JvJTJDJTIwYSUyMHZpcnR1YWwlMjBndWl0YXIlMjB5b3UlMjBzdHJ1bSUyMHdpdGglMjB5b3VyJTIwa2V5Ym9hcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3NzAyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDE5JTNBMTElM0E0OCUyMCUyQjAwMDA",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "pubDate": "Tue, 13 Oct 2026 19:11:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4Ym93LmNvbSUyRmxhYnMlMkZyZXNlYXJjaCUyRnplcm8tdG8tY2FsYy1pbi1zaXgtZGF5cy1pbnNpZGUteGJvdy1jaHJvbWUtZnVsbC1jaGFpbiU3Q2h0dHBzJTNBJTJGJTJGeGJvdy5jb20lMkZsYWJzJTJGcmVzZWFyY2glMkZ6ZXJvLXRvLWNhbGMtaW4tc2l4LWRheXMtaW5zaWRlLXhib3ctY2hyb21lLWZ1bGwtY2hhaW4lN0NaZXJvJTIwdG8lMjBDYWxjJTIwaW4lMjBTaXglMjBEYXlzJTNBJTIwSW5zaWRlJTIwWEJPVydzJTIwQ2hyb21lJTIwRnVsbCUyMENoYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzY1MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxOCUzQTM3JTNBNDUlMjAlMkIwMDAw",
+      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "pubDate": "Tue, 13 Oct 2026 18:37:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFoYXJzaGkzNjUlMkZkZXNsb3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtYWhhcnNoaTM2NSUyRmRlc2xvcCU3Q1Nob3clMjBITiUzQSUyMERlc2xvcCUyMCVFMiU4MCU5MyUyME94bGludCUyMHJ1bGVzJTIwZm9yJTIwQUktZ2VuZXJhdGVkJTIwVHlwZVNjcmlwdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDc1ODA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTclM0E1MiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+      "pubDate": "Tue, 13 Oct 2026 17:52:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdXNpYy54eS5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRm11c2ljLnh5LmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMFhZJTIwTXVzaWMlMjBOb3RhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDc1NjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTclM0E0MyUzQTA1JTIwJTJCMDAwMA",
+      "title": "Show HN: XY Music Notation",
+      "pubDate": "Tue, 13 Oct 2026 17:43:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWIuc3BlY3IubmV0JTJGcmlnZ2VkLWRyYXclMkYlN0NodHRwcyUzQSUyRiUyRmxhYi5zcGVjci5uZXQlMkZyaWdnZWQtZHJhdyUyRiU3Q1Nob3clMjBITiUzQSUyMEhvdyUyMFJhbmRvbSUyMEFyZSUyMFlvdSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDc0OTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTYlM0E1NyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: How Random Are You?",
+      "pubDate": "Tue, 13 Oct 2026 16:57:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLmdvb2dsZWJsb2cuY29tJTJGZ2VtaW5pLTQtYXJnb24tZm9yLXJvYm90aWNzJTJGJTdDaHR0cHMlM0ElMkYlMkZkZXZlbG9wZXJzLmdvb2dsZWJsb2cuY29tJTJGZ2VtaW5pLTQtYXJnb24tZm9yLXJvYm90aWNzJTJGJTdDR2VtaW5pJTIwNCUyMEFyZ29uJTIwZm9yJTIwUm9ib3RpY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3NDg2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDE2JTNBNTUlM0E0NyUyMCUyQjAwMDA",
+      "title": "Gemini 4 Argon for Robotics",
+      "pubDate": "Tue, 13 Oct 2026 16:55:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmVuZ2luZWVyaW5nJTJGcmVkZXNpZ25pbmctc291cmNlLWNvbnRyb2wlN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGZW5naW5lZXJpbmclMkZyZWRlc2lnbmluZy1zb3VyY2UtY29udHJvbCU3Q1JlZGVzaWduaW5nJTIwc291cmNlJTIwY29udHJvbCUyMGF0JTIwQW50aHJvcGljJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzM2MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxNSUzQTQ5JTNBNTYlMjAlMkIwMDAw",
+      "title": "Redesigning source control at Anthropic",
+      "pubDate": "Tue, 13 Oct 2026 15:49:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvdXJ3b3JsZGluZGF0YS5vcmclMkZkYXRhLWluc2lnaHRzJTJGZWxlY3RyaWNpdHktZ2VuZXJhdGlvbi1wZXItcGVyc29uLWluLXRoZS11bml0ZWQta2luZ2RvbS1oYXMtZmFsbGVuLWJ5LWEtdGhpcmQtZnJvbS1pdHMtZWFybHktMjAwMHMtcGVhayU3Q2h0dHBzJTNBJTJGJTJGb3Vyd29ybGRpbmRhdGEub3JnJTJGZGF0YS1pbnNpZ2h0cyUyRmVsZWN0cmljaXR5LWdlbmVyYXRpb24tcGVyLXBlcnNvbi1pbi10aGUtdW5pdGVkLWtpbmdkb20taGFzLWZhbGxlbi1ieS1hLXRoaXJkLWZyb20taXRzLWVhcmx5LTIwMDBzLXBlYWslN0NUaGUlMjBVbml0ZWQlMjBLaW5nZG9tJTIwZ2VuZXJhdGVzJTIwbGVzcyUyMGVsZWN0cmljaXR5JTIwcGVyJTIwcGVyc29uJTIwdGhhbiUyMGluJTIwdGhlJTIwMTk3MHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3Mjk5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDE1JTNBMTIlM0E1NyUyMCUyQjAwMDA",
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "pubDate": "Tue, 13 Oct 2026 15:12:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY5dG81bWFjLmNvbSUyRjIwMjYlMkYxMCUyRjEyJTJGYXBwbGVzLW5ldy1zd2l0Y2gtdG8tc2FmYXJpLWNhbXBhaWduLWRldGFpbHMtd2h5LXlvdS1zaG91bGQtZGl0Y2gtY2hyb21lJTJGJTdDaHR0cHMlM0ElMkYlMkY5dG81bWFjLmNvbSUyRjIwMjYlMkYxMCUyRjEyJTJGYXBwbGVzLW5ldy1zd2l0Y2gtdG8tc2FmYXJpLWNhbXBhaWduLWRldGFpbHMtd2h5LXlvdS1zaG91bGQtZGl0Y2gtY2hyb21lJTJGJTdDQXBwbGUncyUyMG5ldyUyMCdTd2l0Y2glMjB0byUyMFNhZmFyaSclMjBjYW1wYWlnbiUyMGRldGFpbHMlMjB3aHklMjB5b3UlMjBzaG91bGQlMjBkaXRjaCUyMENocm9tZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDcyMjg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTQlM0EyNiUzQTA4JTIwJTJCMDAwMA",
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "pubDate": "Tue, 13 Oct 2026 14:26:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYxMyUyRnNjaWVuY2UlMkZpbmhhYml0YWJsZS1wbGFuZXRzLXNvbGFyLXN5c3RlbS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYxMyUyRnNjaWVuY2UlMkZpbmhhYml0YWJsZS1wbGFuZXRzLXNvbGFyLXN5c3RlbS5odG1sJTdDV29ybGRzJTIwbW9yZSUyMGhhYml0YWJsZSUyMHRoYW4lMjBFYXJ0aCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDcwNTU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTIlM0EyMyUzQTM0JTIwJTJCMDAwMA",
+      "title": "Worlds more habitable than Earth?",
+      "pubDate": "Tue, 13 Oct 2026 12:23:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlyZWZveC5jb20lMkZlbi1VUyUyRmVudGVycHJpc2UlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5maXJlZm94LmNvbSUyRmVuLVVTJTJGZW50ZXJwcmlzZSUyRiU3Q0ZpcmVmb3glMjBFbnRlcnByaXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzAzMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxMiUzQTAwJTNBNDIlMjAlMkIwMDAw",
+      "title": "Firefox Enterprise",
+      "pubDate": "Tue, 13 Oct 2026 12:00:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTGFyZ2VNb2RHYW1lcyUyRnNwb3RhdHVpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTGFyZ2VNb2RHYW1lcyUyRnNwb3RhdHVpJTdDU2hvdyUyMEhOJTNBJTIwU3BvdGF0dWklMkMlMjBhJTIwU3BvdGlmeSUyMFRVSSUyRkdVSSUyMHdpdGhvdXQlMjB3ZWIlMjBBUEklMjByYXRlJTIwbGltaXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzAwMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxMSUzQTMyJTNBMDAlMjAlMkIwMDAw",
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "pubDate": "Tue, 13 Oct 2026 11:32:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
     }
   ]
