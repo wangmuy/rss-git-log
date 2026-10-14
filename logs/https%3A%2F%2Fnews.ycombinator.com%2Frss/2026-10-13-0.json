@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-13",
     "newestItemDate": "2026-10-13",
-    "itemCount": 49,
-    "generatedAt": "2026-10-14T05:02:41.380Z"
+    "itemCount": 50,
+    "generatedAt": "2026-10-14T13:50:14.610Z"
   },
   "items": [
     {
@@ -300,6 +300,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsYWIuc3BlY3IubmV0JTJGcmlnZ2VkLWRyYXclMkYlN0NodHRwcyUzQSUyRiUyRmxhYi5zcGVjci5uZXQlMkZyaWdnZWQtZHJhdyUyRiU3Q1Nob3clMjBITiUzQSUyMEhvdyUyMHJhbmRvbSUyMGFyZSUyMHlvdSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDc0OTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTYlM0E1NyUzQTU3JTIwJTJCMDAwMA",
       "title": "Show HN: How random are you?",
       "pubDate": "Tue, 13 Oct 2026 16:57:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJjcGF1bC5pbyUyRmxvZ3MlMkZzYW1lLWpvYi10d28tZW5naW5lcy1pbm5vZGItYW5kLWljZWJlcmctaW50ZXJuYWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZtYXJjcGF1bC5pbyUyRmxvZ3MlMkZzYW1lLWpvYi10d28tZW5naW5lcy1pbm5vZGItYW5kLWljZWJlcmctaW50ZXJuYWxzJTJGJTdDU2FtZSUyMEpvYiUyQyUyMFR3byUyMEVuZ2luZXMlM0ElMjBJbm5vREIlMjBhbmQlMjBJY2ViZXJnJTIwSW50ZXJuYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzE0NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxMyUzQTMxJTNBNDMlMjAlMkIwMDAw",
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "pubDate": "Tue, 13 Oct 2026 13:31:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
     }
   ]
