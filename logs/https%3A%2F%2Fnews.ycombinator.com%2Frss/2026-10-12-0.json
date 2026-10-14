@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-12",
     "newestItemDate": "2026-10-12",
-    "itemCount": 41,
-    "generatedAt": "2026-10-13T21:20:48.721Z"
+    "itemCount": 44,
+    "generatedAt": "2026-10-14T05:02:41.380Z"
   },
   "items": [
     {
@@ -252,6 +252,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxlZXBpbmdjb21wdXRlci5jb20lMkZuZXdzJTJGc2VjdXJpdHklMkZsZWRnZXItY29uZmlybXMtaGFyZHdhcmUtd2FsbGV0LXNweS1pbXBsYW50LWJlaGluZC1jcnlwdG8tdGhlZnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmxlZXBpbmdjb21wdXRlci5jb20lMkZuZXdzJTJGc2VjdXJpdHklMkZsZWRnZXItY29uZmlybXMtaGFyZHdhcmUtd2FsbGV0LXNweS1pbXBsYW50LWJlaGluZC1jcnlwdG8tdGhlZnRzJTJGJTdDTGVkZ2VyJTIwY29uZmlybXMlMjBzcHklMjBjaGlwJTIwaW1wbGFudCUyMGJlaGluZCUyMHdhbGxldCUyMGNyeXB0byUyMHRoZWZ0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU0MDkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTAlM0EwOSUzQTM3JTIwJTJCMDAwMA",
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "pubDate": "Mon, 12 Oct 2026 10:09:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE5MjE0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA5LjE5MjE0JTdDQSUyMFN0cm9uZ2x5JTIwQXBlcmlvZGljJTIwTW9ub3RpbGUlMjBpbiUyMFRocmVlJTIwRGltZW5zaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU3NTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTUlM0EwOSUzQTIyJTIwJTJCMDAwMA",
+      "title": "A Strongly Aperiodic Monotile in Three Dimensions",
+      "pubDate": "Mon, 12 Oct 2026 15:09:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsb3Zlci5jb20lMkZwcm9nJTJGZ2l0JTJGaGlzdG9yeS1wcm9wb3NhbC5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLnBsb3Zlci5jb20lMkZwcm9nJTJGZ2l0JTJGaGlzdG9yeS1wcm9wb3NhbC5odG1sJTdDTWF5YmUlMjBhJTIwYmV0dGVyJTIwd2F5JTIwdG8lMjB0cmFjayUyMHRoZSUyMHJlbGVhc2UlMjBoaXN0b3J5JTIwb2YlMjBhJTIwR2l0JTIwcmVwbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU3MTE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTQlM0E0MSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "pubDate": "Mon, 12 Oct 2026 14:41:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbmN1bHR1cmUuY29tJTJGMjAyNiUyRjEwJTJGYS05MDAtcGFnZS1wcmUtcGFudG9uZS1ndWlkZS10by1jb2xvci1mcm9tLTE2OTIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9wZW5jdWx0dXJlLmNvbSUyRjIwMjYlMkYxMCUyRmEtOTAwLXBhZ2UtcHJlLXBhbnRvbmUtZ3VpZGUtdG8tY29sb3ItZnJvbS0xNjkyLmh0bWwlN0M5MDAtUGFnZSUyMFByZS1QYW50b25lJTIwR3VpZGUlMjB0byUyMENvbG9yJTIwZnJvbSUyMDE2OTIlMjAoV2l0aCUyMENvbXBsZXRlJTIwSGlnaC1SZXMlMjBTY2FuKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDUzNDg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMDklM0EwNSUzQTAyJTIwJTJCMDAwMA",
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "pubDate": "Mon, 12 Oct 2026 09:05:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
     }
   ]

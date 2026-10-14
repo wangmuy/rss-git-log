@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-13",
     "newestItemDate": "2026-10-13",
-    "itemCount": 42,
-    "generatedAt": "2026-10-13T21:20:48.720Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-14T05:02:41.380Z"
   },
   "items": [
     {
@@ -258,6 +258,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTGFyZ2VNb2RHYW1lcyUyRnNwb3RhdHVpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTGFyZ2VNb2RHYW1lcyUyRnNwb3RhdHVpJTdDU2hvdyUyMEhOJTNBJTIwU3BvdGF0dWklMkMlMjBhJTIwU3BvdGlmeSUyMFRVSSUyRkdVSSUyMHdpdGhvdXQlMjB3ZWIlMjBBUEklMjByYXRlJTIwbGltaXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzAwMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxMSUzQTMyJTNBMDAlMjAlMkIwMDAw",
       "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
       "pubDate": "Tue, 13 Oct 2026 11:32:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWxzZW9zLmZpbmFuY2UlN0NodHRwcyUzQSUyRiUyRnB1bHNlb3MuZmluYW5jZSUyRiU3Q1Nob3clMjBITiUzQSUyMFB1bHNlJTIwTG9jYWwlMkMlMjBhJTIwTWFjJTIwYnVkZ2V0aW5nJTIwYXBwJTIwd2hvc2UlMjBBSSUyMG1vZGVscyUyMHJ1biUyMG9uJTIweW91ciUyMG1hY2hpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA4MDI3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDIzJTNBMTMlM0EyMyUyMCUyQjAwMDA",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "pubDate": "Tue, 13 Oct 2026 23:13:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbml0YWIub3JnJTJGcHJlc3MtcmVsZWFzZSU3Q2h0dHBzJTNBJTJGJTJGYW5pdGFiLm9yZyUyRnByZXNzLXJlbGVhc2UlN0NHcmFjZSUyMEhvcHBlciUyMENlbGVicmF0aW9uJTIwQ2FuY2VsbGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwODAwMDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAyMiUzQTQ2JTNBNDklMjAlMkIwMDAw",
+      "title": "Grace Hopper Celebration Cancelled",
+      "pubDate": "Tue, 13 Oct 2026 22:46:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3BoaXJpLmRldiUyRnByZXNlbnRhdGlvbnMlMkZyZWNyZWF0aW9uYWwtcHJvZ3JhbW1pbmclN0NodHRwcyUzQSUyRiUyRnd3dy5jcGhpcmkuZGV2JTJGcHJlc2VudGF0aW9ucyUyRnJlY3JlYXRpb25hbC1wcm9ncmFtbWluZyU3Q1JlY3JlYXRpb25hbCUyMFByb2dyYW1taW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzk4NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAyMiUzQTMzJTNBMzMlMjAlMkIwMDAw",
+      "title": "Recreational Programming",
+      "pubDate": "Tue, 13 Oct 2026 22:33:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBoYS1uaXN0LmdpdGh1Yi5pbyUyRiU3Q2h0dHBzJTNBJTJGJTJGYWxwaGEtbmlzdC5naXRodWIuaW8lMkYlN0NBbHBoYU5JU1QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3OTQ2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDIxJTNBNTclM0EyOSUyMCUyQjAwMDA",
+      "title": "AlphaNIST",
+      "pubDate": "Tue, 13 Oct 2026 21:57:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGkud2Vic2l0ZSUyRmJsb2clMkZhcGktYmV0YSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBpLndlYnNpdGUlMkZibG9nJTJGYXBpLWJldGElN0NQaHlzaWNhbCUyMEludGVsbGlnZW5jZSUyMEFQSSUyMEJldGElM0ElMjBGcm9udGllciUyME1vZGVscyUyMGZvciUyMEV2ZXJ5JTIwUm9ib3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3OTQzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDIxJTNBNTUlM0EyNSUyMCUyQjAwMDA",
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "pubDate": "Tue, 13 Oct 2026 21:55:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZnN0YW5kYXJkLmNvbSUyRjIwMjYlMkYxMCUyRjEzJTJGb3BlbmFpLWVuZ2luZWVyLWFycmVzdGVkLWFsbGVnZWQtYnVnZ2luZy1leGVjdXRpdmUtY29uZmVyZW5jZS1yb29tJTJGJTdDaHR0cHMlM0ElMkYlMkZzZnN0YW5kYXJkLmNvbSUyRjIwMjYlMkYxMCUyRjEzJTJGb3BlbmFpLWVuZ2luZWVyLWFycmVzdGVkLWFsbGVnZWQtYnVnZ2luZy1leGVjdXRpdmUtY29uZmVyZW5jZS1yb29tJTJGJTdDT3BlbkFJJTIwZW5naW5lZXIlMjBhcnJlc3RlZCUyMGluJTIwYnVnZ2luZyUyMG9mJTIwZXhlY3V0aXZlJTIwY29uZmVyZW5jZSUyMHJvb20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3ODE0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDIwJTNBMjMlM0E1NSUyMCUyQjAwMDA",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "pubDate": "Tue, 13 Oct 2026 20:23:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWIuc3BlY3IubmV0JTJGcmlnZ2VkLWRyYXclMkYlN0NodHRwcyUzQSUyRiUyRmxhYi5zcGVjci5uZXQlMkZyaWdnZWQtZHJhdyUyRiU3Q1Nob3clMjBITiUzQSUyMEhvdyUyMHJhbmRvbSUyMGFyZSUyMHlvdSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDc0OTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTYlM0E1NyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: How random are you?",
+      "pubDate": "Tue, 13 Oct 2026 16:57:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
     }
   ]
