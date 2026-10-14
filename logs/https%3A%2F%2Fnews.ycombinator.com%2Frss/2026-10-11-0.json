@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-11",
     "newestItemDate": "2026-10-11",
-    "itemCount": 50,
-    "generatedAt": "2026-10-14T13:50:14.610Z"
+    "itemCount": 51,
+    "generatedAt": "2026-10-14T20:14:51.200Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjaWVjaGFub3cuc2tpJTJGc291bmQlMkYlN0NodHRwcyUzQSUyRiUyRmNpZWNoYW5vdy5za2klMkZzb3VuZCUyRiU3Q1NvdW5kJTIwJUUyJTgwJTkzJTIwQmFydG9zeiUyMENpZWNoYW5vd3NraSUyMCgyMDIyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQ1MTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMTYlM0E0NiUzQTQzJTIwJTJCMDAwMA",
       "title": "Sound – Bartosz Ciechanowski (2022)",
       "pubDate": "Sun, 11 Oct 2026 16:46:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW11cnNjaGVzcy5jb20lN0NodHRwcyUzQSUyRiUyRnRpbXVyc2NoZXNzLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMFRpbXVyJ3MlMjBDaGVzcyUyMCVFMiU4MCU5MyUyMEElMjAxNHRoJTIwY2VudHVyeSUyMGNoZXNzJTIwdmFyaWFudCUyMHdpdGglMjBnaXJhZmZlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDQzOTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTElMjBPY3QlMjAyMDI2JTIwMTQlM0E1MiUzQTU5JTIwJTJCMDAwMA",
+      "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+      "pubDate": "Sun, 11 Oct 2026 14:52:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-11-0.json"
     }
   ]

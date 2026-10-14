@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-12",
     "newestItemDate": "2026-10-12",
-    "itemCount": 46,
-    "generatedAt": "2026-10-14T13:50:14.610Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-14T20:14:51.200Z"
   },
   "items": [
     {
@@ -282,6 +282,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZrcmlzdGFwcy5ic2QubHYlMkZrY2dpJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmlzdGFwcy5ic2QubHYlMkZrY2dpJTJGJTdDS2NnaSUyMCVFMiU4MCU5MyUyMG1pbmltYWwlMjBDR0klMjBhbmQlMjBGYXN0Q0dJJTIwbGlicmFyeSUyMGZvciUyMEMlMkZDJTJCJTJCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNjMxMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAyMSUzQTA5JTNBMDglMjAlMkIwMDAw",
       "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
       "pubDate": "Mon, 12 Oct 2026 21:09:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb2JvdHNpbnBsYWluZW5nbGlzaC5jb20lMkZlJTJGMjAyNC0wMS0yMS1nb2xkLWJ1Zy5odG1sJTdDaHR0cHMlM0ElMkYlMkZyb2JvdHNpbnBsYWluZW5nbGlzaC5jb20lMkZlJTJGMjAyNC0wMS0yMS1nb2xkLWJ1Zy5odG1sJTdDVGhlJTIwR29sZC1CdWclM0ElMjBFZGdhciUyMEFsbGFuJTIwUG9lJ3MlMjBzdG9yeSUyMHRoYXQlMjB0YXVnaHQlMjBtZSUyMGFib3V0JTIwY3J5cHRvZ3JhcGh5JTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNTU2MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAxMiUzQTQ0JTNBNDIlMjAlMkIwMDAw",
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "pubDate": "Mon, 12 Oct 2026 12:44:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaGxvZW0uc3RlbWRlY2suYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZwaGxvZW0uc3RlbWRlY2suYXBwJTJGJTdDUGhsb2VtJTNBJTIwR2l0JTIwaGlzdG9yeSUyMGdyb3duJTIwbGlrZSUyMGElMjBzbGltZSUyMG1vbGQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA1NDQ2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEyJTIwT2N0JTIwMjAyNiUyMDEwJTNBNTIlM0EyNSUyMCUyQjAwMDA",
+      "title": "Phloem: Git history grown like a slime mold",
+      "pubDate": "Mon, 12 Oct 2026 10:52:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXB3cml0aW5nLnN1YnN0YWNrLmNvbSUyRnAlMkZkZW50aXN0cyU3Q2h0dHBzJTNBJTJGJTJGbWFwd3JpdGluZy5zdWJzdGFjay5jb20lMkZwJTJGZGVudGlzdHMlN0NEbyUyMGRlbnRpc3RzJTIwa25vdyUyMHdoYXQlMjB0aGV5J3JlJTIwZG9pbmclM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA1MDU1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEyJTIwT2N0JTIwMjAyNiUyMDAyJTNBMjElM0E1NCUyMCUyQjAwMDA",
+      "title": "Do dentists know what they're doing?",
+      "pubDate": "Mon, 12 Oct 2026 02:21:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
     }
   ]
