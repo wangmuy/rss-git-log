@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-14",
     "newestItemDate": "2026-10-14",
-    "itemCount": 40,
-    "generatedAt": "2026-10-14T20:14:51.200Z"
+    "itemCount": 53,
+    "generatedAt": "2026-10-15T04:51:21.502Z"
   },
   "items": [
     {
@@ -246,6 +246,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlb2YubmV0JTJGSW9zZXZrYSUyRiU3Q2h0dHBzJTNBJTJGJTJGdHlwZW9mLm5ldCUyRklvc2V2a2ElMkYlN0NJb3NldmthJTIwaXMlMjBhbiUyMG9wZW4tc291cmNlJTJDJTIwc2Fucy1zZXJpZiUyMGFuZCUyMHNsYWItc2VyaWYlMjBtb25vc3BhY2UlMjBmb250JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwODQyNDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAwOCUzQTI3JTNBNTklMjAlMkIwMDAw",
       "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "pubDate": "Wed, 14 Oct 2026 08:27:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlxdWlkLmFpJTJGYmxvZyUyRmxmbTItNS0yNGItYTJiJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGlxdWlkLmFpJTJGYmxvZyUyRmxmbTItNS0yNGItYTJiJTdDTEZNMi41LTI0Qi1BMkIlM0ElMjBCdWlsdCUyMGZvciUyMGZhc3QlMjBvbi1kZXZpY2UlMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA5NzM2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDIzJTNBNTklM0EzNyUyMCUyQjAwMDA",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "pubDate": "Wed, 14 Oct 2026 23:59:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW55bGl0dGxlb2ZmaWNlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGlueWxpdHRsZW9mZmljZS5jb20lMkYlN0NUaW55JTIwTGl0dGxlJTIwT2ZmaWNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwOTYxNDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAyMiUzQTEwJTNBMDglMjAlMkIwMDAw",
+      "title": "Tiny Little Office",
+      "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlc2FmZS5haSUyRmJsb2clMkZqZXYtMS0xNCU3Q2h0dHBzJTNBJTJGJTJGdHlwZXNhZmUuYWklMkZibG9nJTJGamV2LTEtMTQlN0NXZSVFMiU4MCU5OXJlJTIwcmVsZWFzaW5nJTIwSmV2JTIwMS4xNC4wJTIwYWxvbmclMjB3aXRoJTIwZXhwZXJpbWVudGFsJTIwZmVhdHVyZXMlMjBmb3IlMjBkcmVhbWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDk1MzUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMjElM0ExMSUzQTAzJTIwJTJCMDAwMA",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbm9tYS5seSUyRm5vdGVzJTJGb3BlbmNvZGUtMi0wJTJGJTdDaHR0cHMlM0ElMkYlMkZhbm9tYS5seSUyRm5vdGVzJTJGb3BlbmNvZGUtMi0wJTJGJTdDT3BlbkNvZGUlMjAyLjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA5NDk5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDIwJTNBNDglM0EyNCUyMCUyQjAwMDA",
+      "title": "OpenCode 2.0",
+      "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdW5zaG93ZXJzLmlvJTJGcG9zdHMlMkZhbnRocm9waWMtbW9ub25va2UlMkYlN0NodHRwcyUzQSUyRiUyRnN1bnNob3dlcnMuaW8lMkZwb3N0cyUyRmFudGhyb3BpYy1tb25vbm9rZSUyRiU3Q0FudGhyb3BpYydzJTIwU2Npb24lMjBpcyUyMGhlYXZpbHklMjBpbnNwaXJlZCUyMGJ5JTIwTW9ub25va2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA5NDY5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDIwJTNBMzAlM0E1NCUyMCUyQjAwMDA",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqam1heHdlbGw0LmNvbSUyRndyaXRpbmclMkZ0aGluZ3MtdG8ta25vdy13aGVuLXlvdS1nZXQtY2FuY2VyJTJGJTdDaHR0cHMlM0ElMkYlMkZqam1heHdlbGw0LmNvbSUyRndyaXRpbmclMkZ0aGluZ3MtdG8ta25vdy13aGVuLXlvdS1nZXQtY2FuY2VyJTJGJTdDVGhpbmdzJTIwdG8lMjBrbm93JTIwd2hlbiUyMHlvdSUyMGdldCUyMGNhbmNlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDkzNTY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMTklM0EyNiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Things to know when you get cancer",
+      "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZveGlkZS5jb21wdXRlciUyRmJsb2clMkZ2b3hlbC1sYWJzJTdDaHR0cHMlM0ElMkYlMkZveGlkZS5jb21wdXRlciUyRmJsb2clMkZ2b3hlbC1sYWJzJTdDVmlydHVhbCUyME94aWRlJTIwTGFicyUzQSUyMEVtdWxhdGluZyUyMGElMjBGdWxsJTIwT3hpZGUlMjBSYWNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwOTI0MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAxOCUzQTIxJTNBMTQlMjAlMkIwMDAw",
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "pubDate": "Wed, 14 Oct 2026 18:21:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Nvb25saW5lLmNvbSUyRmFydGljbGUlMkY0MjM0ODU0JTJGYWktYWdlbnRzLWFyZW50LWdvaW5nLXJvZ3VlLWZyb250aWVyLWxhYnMtYXJlLXNraXBwaW5nLXNlY3VyaXR5LWJhc2ljcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3Nvb25saW5lLmNvbSUyRmFydGljbGUlMkY0MjM0ODU0JTJGYWktYWdlbnRzLWFyZW50LWdvaW5nLXJvZ3VlLWZyb250aWVyLWxhYnMtYXJlLXNraXBwaW5nLXNlY3VyaXR5LWJhc2ljcy5odG1sJTdDQ29udGFpbm1lbnQlMjBhbmQlMjBtb25pdG9yaW5nJTIwZmFpbHVyZXMlMjBhcmUlMjB0byUyMGJsYW1lJTIwZm9yJTIwQUklMjBoYWNraW5nJTIwcmVwb3J0cyUzQSVDMiVBMGV4cGVydHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA5MTc4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDE3JTNBNDUlM0EyMyUyMCUyQjAwMDA",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "pubDate": "Wed, 14 Oct 2026 17:45:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVjb25zZW5zdXMuZGV2JTJGYmxvZyUyRjIwMjYlMkYxMCUyRjE0JTJGaGFzLWFpLXRlbGxzLmh0bWwlM0Zmb2N1cyUzRDElN0NodHRwcyUzQSUyRiUyRnRoZWNvbnNlbnN1cy5kZXYlMkZibG9nJTJGMjAyNiUyRjEwJTJGMTQlMkZoYXMtYWktdGVsbHMuaHRtbCUzRmZvY3VzJTNEMSU3Q0hhcyUyMEFJJTIwdGVsbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA5MDc5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDE2JTNBNTIlM0E0MiUyMCUyQjAwMDA",
+      "title": "Has AI tells",
+      "pubDate": "Wed, 14 Oct 2026 16:52:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF0YWZvcnByb2dyZXNzLm9yZyUyRmJsb2clMkYyMDI2JTJGOSUyRjI5JTJGYW1lcmljYW5zLXNvY2lhbC1hY3Rpdml0eS1oYXMtc3RlZXBseS1kZWNsaW5lZC1pbi10aGUtcGFzdC0zMC15ZWFycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhdGFmb3Jwcm9ncmVzcy5vcmclMkZibG9nJTJGMjAyNiUyRjklMkYyOSUyRmFtZXJpY2Fucy1zb2NpYWwtYWN0aXZpdHktaGFzLXN0ZWVwbHktZGVjbGluZWQtaW4tdGhlLXBhc3QtMzAteWVhcnMlN0NBbWVyaWNhbnMnJTIwc29jaWFsJTIwYWN0aXZpdHklMjBoYXMlMjBzdGVlcGx5JTIwZGVjbGluZWQlMjBpbiUyMHRoZSUyMHBhc3QlMjAzMCUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwODk5MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAxNiUzQTA5JTNBMDAlMjAlMkIwMDAw",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "pubDate": "Wed, 14 Oct 2026 16:09:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGhlbG1lLmNvLnVrJTJGcGFzc2tleXMtYXJlLW5vdC1hLXRyYXAlMkYlN0NodHRwcyUzQSUyRiUyRnNjb3R0aGVsbWUuY28udWslMkZwYXNza2V5cy1hcmUtbm90LWEtdHJhcCUyRiU3Q1Bhc3NrZXlzJTIwYXJlJTIwbm90JTIwYSUyMHRyYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA4ODkzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDE1JTNBMTUlM0E0NSUyMCUyQjAwMDA",
+      "title": "Passkeys are not a trap",
+      "pubDate": "Wed, 14 Oct 2026 15:15:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm90LXNoaXAuY29tJTJGaG93LWFtYXpvbi1wdXNoZXMtdXAtcHJpY2VzLWFsbC1hY3Jvc3MtdGhlLWludGVybmV0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubm90LXNoaXAuY29tJTJGaG93LWFtYXpvbi1wdXNoZXMtdXAtcHJpY2VzLWFsbC1hY3Jvc3MtdGhlLWludGVybmV0JTJGJTdDSG93JTIwQW1hem9uJTIwcHVzaGVzJTIwdXAlMjBwcmljZXMlMjBhbGwlMjBhY3Jvc3MlMjB0aGUlMjBJbnRlcm5ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDg0NzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMDklM0EyOCUzQTE3JTIwJTJCMDAwMA",
+      "title": "How Amazon pushes up prices all across the Internet",
+      "pubDate": "Wed, 14 Oct 2026 09:28:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4d2VubmVyYmVyZy5jb20lMkZibG9nJTJGMjAyNi0xMC0xMy1sb25nLmh0bWwlN0NodHRwcyUzQSUyRiUyRmFsZXh3ZW5uZXJiZXJnLmNvbSUyRmJsb2clMkYyMDI2LTEwLTEzLWxvbmcuaHRtbCU3Q1doeSUyMGlzJTIwZXZlcnklMjByYXRpb25hbGlzdCUyMGJsb2clMjBwb3N0JTIwd2F5JTIwdG9vJTIwbG9uZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDgzMDI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMDYlM0EwMiUzQTE2JTIwJTJCMDAwMA",
+      "title": "Why is every rationalist blog post way too long?",
+      "pubDate": "Wed, 14 Oct 2026 06:02:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
     }
   ]
