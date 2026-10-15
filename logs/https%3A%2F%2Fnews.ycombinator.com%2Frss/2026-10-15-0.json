@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-15",
     "newestItemDate": "2026-10-15",
-    "itemCount": 10,
-    "generatedAt": "2026-10-15T13:31:39.106Z"
+    "itemCount": 33,
+    "generatedAt": "2026-10-15T19:55:49.368Z"
   },
   "items": [
     {
@@ -66,6 +66,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5kdW5pZWVlJTJGZmxpcGZsb3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbmR1bmllZWUlMkZmbGlwZmxvcCU3Q1Nob3clMjBITiUzQSUyMEZsaXBmbG9wJTJDJTIwSXJvaC1wb3dlcmVkJTIwcGVyc2lzdGVudCUyMHR1bm5lbHMlMjBmb3IlMjBmaWxlc2hhcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDk5MTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMDQlM0EyNSUzQTI4JTIwJTJCMDAwMA",
       "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
       "pubDate": "Thu, 15 Oct 2026 04:25:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZWFsbG8uZGV2JTJGYmxvZyUyRnNvbWVvbmUtb24tdG9ycmVudC1zaXRlcy1rZXB0LWZ1Y2tpbmctd2l0aC1teS1zb25hcnItc2V0dXAlN0NodHRwcyUzQSUyRiUyRnRoZXJlYWxsby5kZXYlMkZibG9nJTJGc29tZW9uZS1vbi10b3JyZW50LXNpdGVzLWtlcHQtZnVja2luZy13aXRoLW15LXNvbmFyci1zZXR1cCU3Q1NvbWVvbmUlMjBvbiUyMFRvcnJlbnQlMjBTaXRlcyUyMEtlcHQlMjBGdWNraW5nJTIwd2l0aCUyME15JTIwU29uYXJyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDg4NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxOSUzQTIxJTNBMzglMjAlMkIwMDAw",
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYW1pc2hjYW1wYmVsbC5jb20lMkZ3ZS1hcmUtZW50ZXJpbmctYS1wZXJpb2Qtb2Ytb3ZlcmxhcHBpbmctY3Jpc2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZoYW1pc2hjYW1wYmVsbC5jb20lMkZ3ZS1hcmUtZW50ZXJpbmctYS1wZXJpb2Qtb2Ytb3ZlcmxhcHBpbmctY3Jpc2VzJTJGJTdDV2UlMjBhcmUlMjBlbnRlcmluZyUyMGElMjBwZXJpb2QlMjBvZiUyMG92ZXJsYXBwaW5nJTIwY3Jpc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDg0OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxOCUzQTU0JTNBMzYlMjAlMkIwMDAw",
+      "title": "We are entering a period of overlapping crises",
+      "pubDate": "Thu, 15 Oct 2026 18:54:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWluay5jb20lMkZuZXdzJTJGZGV0YWlsJTJGRUluay1MYXVuY2hlcy1MYXRlc3QtVmVyc2lvbi1vZi1Db2xvci1lUGFwZXItUGxhdGZvcm0tRS1JbmstS2FsZWlkby00JTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWluay5jb20lMkZuZXdzJTJGZGV0YWlsJTJGRUluay1MYXVuY2hlcy1MYXRlc3QtVmVyc2lvbi1vZi1Db2xvci1lUGFwZXItUGxhdGZvcm0tRS1JbmstS2FsZWlkby00JTdDRSUyMEluayUyMExhdW5jaGVzJTIwTGF0ZXN0JTIwVmVyc2lvbiUyMG9mJTIwQ29sb3IlMjBFUGFwZXIlMjBQbGF0Zm9ybSUyQyUyMEUlMjBJbmslMjBLYWxlaWRvJTIwNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTA4MjI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTglM0EzOCUzQTE2JTIwJTJCMDAwMA",
+      "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3VycmVudGFmZmFpcnMub3JnJTJGbmV3cyUyRndoeS13ZXJlLWJhbm5pbmctYWklN0NodHRwcyUzQSUyRiUyRnd3dy5jdXJyZW50YWZmYWlycy5vcmclMkZuZXdzJTJGd2h5LXdlcmUtYmFubmluZy1haSU3Q1doeSUyMFdlJ3JlJTIwQmFubmluZyUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDgxMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxOCUzQTMyJTNBMjklMjAlMkIwMDAw",
+      "title": "Why We're Banning AI",
+      "pubDate": "Thu, 15 Oct 2026 18:32:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5tZXRhLmFpJTJGYmxvZyUyRm11c2Utc3Bhcmstb3BlbiU3Q2h0dHBzJTNBJTJGJTJGcmVzZWFyY2gubWV0YS5haSUyRmJsb2clMkZtdXNlLXNwYXJrLW9wZW4lN0NNdXNlJTIwU3BhcmslMjBPcGVuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDczNzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNyUzQTQ3JTNBMzklMjAlMkIwMDAw",
+      "title": "Muse Spark Open",
+      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZhbi11cGRhdGUtb24taW5kZXBlbmRlbnQtZXZhbHVhdG9ycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZuZXdzJTJGYW4tdXBkYXRlLW9uLWluZGVwZW5kZW50LWV2YWx1YXRvcnMlN0NBbiUyMHVwZGF0ZSUyMG9uJTIwaW5kZXBlbmRlbnQlMjBldmFsdWF0b3JzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDcxMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNyUzQTMwJTNBMTAlMjAlMkIwMDAw",
+      "title": "An update on independent evaluators",
+      "pubDate": "Thu, 15 Oct 2026 17:30:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdW5zaG93ZXJzLmlvJTJGcG9zdHMlMkZhbnRocm9waWMtbW9ub25va2UtMiUyRiU3Q2h0dHBzJTNBJTJGJTJGc3Vuc2hvd2Vycy5pbyUyRnBvc3RzJTJGYW50aHJvcGljLW1vbm9ub2tlLTIlMkYlN0NNb3JlJTIwb24lMjBBbnRocm9waWMncyUyMFNjaW9uJTIwcmlwcGluZyUyMG9mZiUyME1vbm9ub2tlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDY3MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNyUzQTA1JTNBMTklMjAlMkIwMDAw",
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGdGVjaCUyRjEwMTE5NTYlMkZkaXNjb3Zlci10ZWNoLXplcm8tY2xpY2stYWRzLXNweXdhcmUlN0NodHRwcyUzQSUyRiUyRnd3dy50aGV2ZXJnZS5jb20lMkZ0ZWNoJTJGMTAxMTk1NiUyRmRpc2NvdmVyLXRlY2gtemVyby1jbGljay1hZHMtc3B5d2FyZSU3Q0FuJTIwSXNyYWVsaSUyMGZpcm0lMjBpcyUyMHNlbmRpbmclMjB6ZXJvLWNsaWNrJTIwc3B5d2FyZSUyMHRocm91Z2glMjBvbmxpbmUlMjBhZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNjY3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE3JTNBMDElM0E1NiUyMCUyQjAwMDA",
+      "title": "An Israeli firm is sending zero-click spyware through online ads",
+      "pubDate": "Thu, 15 Oct 2026 17:01:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzeWdhbC5hcHAlN0NodHRwcyUzQSUyRiUyRnN5Z2FsLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMFN5Z2FsJTIwJUUyJTgwJTkzJTIwQ29udmVydCUyMFBERnMlMkMlMjBzY2FucyUyMGFuZCUyMHdlYiUyMHBhZ2VzJTIwdG8lMjBNYXJrZG93biUyQyUyMGxvY2FsbHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNjA1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE2JTNBMjYlM0ExNiUyMCUyQjAwMDA",
+      "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+      "pubDate": "Thu, 15 Oct 2026 16:26:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6YWNobGFuZGVzLmNvbSUyRnRyb2xsZXktcHJvYmxlbSUyRiU3Q2h0dHBzJTNBJTJGJTJGemFjaGxhbmRlcy5jb20lMkZ0cm9sbGV5LXByb2JsZW0lMkYlN0NKZXYlMjBNZWV0cyUyMHRoZSUyMFRyb2xsZXklMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDYwMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNiUzQTI0JTNBNTIlMjAlMkIwMDAw",
+      "title": "Jev Meets the Trolley Problem",
+      "pubDate": "Thu, 15 Oct 2026 16:24:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlwbS5vcmclMkZlbiUyRmNncG0tMjAyNiUyRnJlc29sdXRpb24tNSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJpcG0ub3JnJTJGZW4lMkZjZ3BtLTIwMjYlMkZyZXNvbHV0aW9uLTUlN0NUaGUlMjB0ZWNobmljYWwlMjBhY3Rpb25zJTIwbmVlZGVkJTIwdG8lMjBlbnN1cmUlMjB0aGUlMjBjb250aW51aXR5JTIwb2YlMjBVVEMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNTc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE2JTNBMTElM0EzNiUyMCUyQjAwMDA",
+      "title": "The technical actions needed to ensure the continuity of UTC",
+      "pubDate": "Thu, 15 Oct 2026 16:11:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua3JlYS5haSUyRmtyZWEtMyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmtyZWEuYWklMkZrcmVhLTMlN0NLcmVhJTIwMyUyMCVFMiU4MCU5MyUyMEFuJTIwaW1hZ2UlMjBtb2RlbCUyMGJ1aWx0JTIwZm9yJTIwZWRpdGluZyUyMGF0JTIwc2NhbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNTY0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE2JTNBMDQlM0EwNSUyMCUyQjAwMDA",
+      "title": "Krea 3 – An image model built for editing at scale",
+      "pubDate": "Thu, 15 Oct 2026 16:04:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHJlYWR5LWNsZWFuLmdvb2RmaXJlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGYWxyZWFkeS1jbGVhbi5nb29kZmlyZS5jb20lMkYlN0NOZXVyYWwlMjBuZXR3b3JrcyUyMGFyZSUyMGNsZWFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDU2NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNiUzQTA0JTNBMDElMjAlMkIwMDAw",
+      "title": "Neural networks are clean",
+      "pubDate": "Thu, 15 Oct 2026 16:04:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNwYXduZmlyc3QuY29tJTJGc3RlYW0tY2xpZW50LWlzLW5vdy1mYXN0ZXItdGhhbi1lcGljcy1uZXctdmliZS1jb2RlZC1sYXVuY2hlciUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVzcGF3bmZpcnN0LmNvbSUyRnN0ZWFtLWNsaWVudC1pcy1ub3ctZmFzdGVyLXRoYW4tZXBpY3MtbmV3LXZpYmUtY29kZWQtbGF1bmNoZXIlMkYlN0NTdGVhbSUyMENsaWVudCUyMGlzJTIwbm93JTIwZmFzdGVyJTIwdGhhbiUyMEVwaWMncyUyMG5ldyUyMHZpYmUlMjBjb2RlZCUyMGxhdW5jaGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDU2MzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNiUzQTAzJTNBMTklMjAlMkIwMDAw",
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "pubDate": "Thu, 15 Oct 2026 16:03:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9hLnNvJTJGJTdDaHR0cHMlM0ElMkYlMkZwcm9hLnNvJTJGJTdDU2hvdyUyMEhOJTNBJTIwUHJvYSUyMCVFMiU4MCU5MyUyMEElMjBSdXN0JTIwd2ViJTIwZnJhbWV3b3JrJTIwd2l0aCUyMGZhc3QlMjBTU1IlMjBhbmQlMjBtdWx0aS10YXJnZXQlMjByZW5kZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNTQ2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE1JTNBNTIlM0EwOCUyMCUyQjAwMDA",
+      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+      "pubDate": "Thu, 15 Oct 2026 15:52:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J0cmFuLWxhbmcub3JnJTJGbmV3cyUyRjIwMjYlMkYwOS0xNS1Gb3J0cmFuLWJpcnRoZGF5JTJGJTdDaHR0cHMlM0ElMkYlMkZmb3J0cmFuLWxhbmcub3JnJTJGbmV3cyUyRjIwMjYlMkYwOS0xNS1Gb3J0cmFuLWJpcnRoZGF5JTJGJTdDQ2VsZWJyYXRpbmclMjA3MCUyMFllYXJzJTIwb2YlMjBGb3J0cmFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDQ3MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNSUzQTAzJTNBMTclMjAlMkIwMDAw",
+      "title": "Celebrating 70 Years of Fortran",
+      "pubDate": "Thu, 15 Oct 2026 15:03:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2ltb25zZm91bmRhdGlvbi5vcmclMkZuZXdzJTJGc2ltb25zLWZvdW5kYXRpb24tbGF1bmNoZXMtMTVtLWVmZm9ydC10by1oZWxwLW1hdGhlbWF0aWNpYW5zLW5hdmlnYXRlLWFpLWVyYSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNpbW9uc2ZvdW5kYXRpb24ub3JnJTJGbmV3cyUyRnNpbW9ucy1mb3VuZGF0aW9uLWxhdW5jaGVzLTE1bS1lZmZvcnQtdG8taGVscC1tYXRoZW1hdGljaWFucy1uYXZpZ2F0ZS1haS1lcmElMkYlN0NTaW1vbnMlMjBGb3VuZGF0aW9uJTIwbGF1bmNoZXMlMjAlMjQxNU0lMjBlZmZvcnQlMjB0byUyMGhlbHAlMjBtYXRoZW1hdGljaWFucyUyMG5hdmlnYXRlJTIwQUklMjBlcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNDY1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE0JTNBNTglM0E0OCUyMCUyQjAwMDA",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "pubDate": "Thu, 15 Oct 2026 14:58:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2lnbmFsc2NvcnBzLmNvbSUyRmJsb2clMkZwcm9tcHQtaW5qZWN0aW9uLWluLWh0dHAtaGVhZGVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNpZ25hbHNjb3Jwcy5jb20lMkZibG9nJTJGcHJvbXB0LWluamVjdGlvbi1pbi1odHRwLWhlYWRlcnMlMkYlN0NQcm9tcHQlMjBpbmplY3Rpb24lMjBpbiUyMEhUVFAlMjBoZWFkZXJzJTNBJTIwd2hhdCUyMDIxN00lMjB3ZWIlMjByZXNwb25zZXMlMjBzaG93JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDQzMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNCUzQTM2JTNBMjIlMjAlMkIwMDAw",
+      "title": "Prompt injection in HTTP headers: what 217M web responses show",
+      "pubDate": "Thu, 15 Oct 2026 14:36:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVyZWt0aG9tcHNvbi5vcmclMkZwJTJGaS1rbm93LXdoeS10aGUtbWF0aGVtYXRpY2lhbnMtd2VlcCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRlcmVrdGhvbXBzb24ub3JnJTJGcCUyRmkta25vdy13aHktdGhlLW1hdGhlbWF0aWNpYW5zLXdlZXAlN0NJJTIwa25vdyUyMHdoeSUyMHRoZSUyMG1hdGhlbWF0aWNpYW5zJTIwd2VlcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTAzNjMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTMlM0E0NCUzQTMyJTIwJTJCMDAwMA",
+      "title": "I know why the mathematicians weep",
+      "pubDate": "Thu, 15 Oct 2026 13:44:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZnl6dWd4JTJGREVzayU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmZ5enVneCUyRkRFc2slN0NXYXlsYW5kJTIwZGVza3RvcCUyMGZvciUyMExpbnV4JTIwd2l0aCUyMHNrZXVvbW9ycGhpYyUyMGRlc2lnbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTAzMzM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTMlM0EyMyUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "pubDate": "Thu, 15 Oct 2026 13:23:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Bwc3Rvcmllcy5jb20lMkYyMDI2JTJGY3BwMjZfY29udHJhY3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3Bwc3Rvcmllcy5jb20lMkYyMDI2JTJGY3BwMjZfY29udHJhY3RzJTJGJTdDQyUyQiUyQjI2JTIwQ29udHJhY3RzJTNBJTIwSW50cm9kdWN0aW9uJTIwdG8lMjBQcmVjb25kaXRpb25zJTIwYW5kJTIwUG9zdGNvbmRpdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwMzE2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDEzJTNBMTElM0EyNiUyMCUyQjAwMDA",
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "pubDate": "Thu, 15 Oct 2026 13:11:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXRpemVubGFiLmNhJTJGcmVzZWFyY2glMkZob3ctZGlzY292ZXItdGVjaC10dXJuZWQtdGFyZ2V0ZWQtYWRzLWludG8tYS1waXBlbGluZS1mb3Itc3B5d2FyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2l0aXplbmxhYi5jYSUyRnJlc2VhcmNoJTJGaG93LWRpc2NvdmVyLXRlY2gtdHVybmVkLXRhcmdldGVkLWFkcy1pbnRvLWEtcGlwZWxpbmUtZm9yLXNweXdhcmUlMkYlN0NaZXJvLUNsaWNrJTIwU3B5d2FyZSUyMERlbGl2ZXJlZCUyMHZpYSUyMFRhcmdldGVkJTIwQWRzJTNBJTIwQWRGZWN0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDE4MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxMCUzQTQzJTNBMzYlMjAlMkIwMDAw",
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "pubDate": "Thu, 15 Oct 2026 10:43:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXV0b3BpYW4uY29tJTJGeW91LXdvbnQtYmVsaWV2ZS10aGUtaW5jcmVkaWJsZS1lbmdpbmVlcmluZy10aGF0LWFsbG93cy1hcnRpY3VsYXRlZC1idXNlcy10by1iZW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlYXV0b3BpYW4uY29tJTJGeW91LXdvbnQtYmVsaWV2ZS10aGUtaW5jcmVkaWJsZS1lbmdpbmVlcmluZy10aGF0LWFsbG93cy1hcnRpY3VsYXRlZC1idXNlcy10by1iZW5kJTJGJTdDVGhlJTIwZW5naW5lZXJpbmclMjB0aGF0JTIwYWxsb3dzJTIwYXJ0aWN1bGF0ZWQlMjBidXNlcyUyMHRvJTIwYmVuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDk3ODQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMDElM0EwMiUzQTA1JTIwJTJCMDAwMA",
+      "title": "The engineering that allows articulated buses to bend",
+      "pubDate": "Thu, 15 Oct 2026 01:02:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
     }
   ]
