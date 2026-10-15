@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-14",
     "newestItemDate": "2026-10-14",
-    "itemCount": 53,
-    "generatedAt": "2026-10-15T04:51:21.502Z"
+    "itemCount": 54,
+    "generatedAt": "2026-10-15T13:31:39.106Z"
   },
   "items": [
     {
@@ -324,6 +324,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4d2VubmVyYmVyZy5jb20lMkZibG9nJTJGMjAyNi0xMC0xMy1sb25nLmh0bWwlN0NodHRwcyUzQSUyRiUyRmFsZXh3ZW5uZXJiZXJnLmNvbSUyRmJsb2clMkYyMDI2LTEwLTEzLWxvbmcuaHRtbCU3Q1doeSUyMGlzJTIwZXZlcnklMjByYXRpb25hbGlzdCUyMGJsb2clMjBwb3N0JTIwd2F5JTIwdG9vJTIwbG9uZyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDgzMDI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMDYlM0EwMiUzQTE2JTIwJTJCMDAwMA",
       "title": "Why is every rationalist blog post way too long?",
       "pubDate": "Wed, 14 Oct 2026 06:02:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1amkuc2glMkZpdG8lMkYlN0NodHRwcyUzQSUyRiUyRnVqaS5zaCUyRml0byUyRiU3Q1Nob3clMjBITiUzQSUyMEl0byUyMCVFMiU4MCU5MyUyMEJ1aWxkJTIwVGVybWluYWwlMjBVSXMlMjBpbiUyMEx1YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDk2MzAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMjIlM0EyMyUzQTUzJTIwJTJCMDAwMA",
+      "title": "Show HN: Ito – Build Terminal UIs in Lua",
+      "pubDate": "Wed, 14 Oct 2026 22:23:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
     }
   ]

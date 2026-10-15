@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-12",
     "newestItemDate": "2026-10-12",
-    "itemCount": 50,
-    "generatedAt": "2026-10-15T04:51:21.503Z"
+    "itemCount": 54,
+    "generatedAt": "2026-10-15T13:31:39.106Z"
   },
   "items": [
     {
@@ -306,6 +306,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjYXRjaGFiaXJkLmNvbSU3Q2h0dHBzJTNBJTJGJTJGY2F0Y2hhYmlyZC5jb20lMkYlN0NDYXRjaCUyMGElMjBCaXJkJTIwJUUyJTgwJTkzJTIwSSUyMG1hZGUlMjBpdCUyMGZvciUyMG15JTIwb3duJTIwc2FuaXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNTMzODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxMiUyME9jdCUyMDIwMjYlMjAwOCUzQTUxJTNBMTglMjAlMkIwMDAw",
       "title": "Catch a Bird – I made it for my own sanity",
       "pubDate": "Mon, 12 Oct 2026 08:51:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmRpZ2VuZS5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRmluZGlnZW5lLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMEluZGlnZW5lJTIwJUUyJTgwJTkzJTIwTmF0aXZlJTIwcGxhbnRzJTIwZm9yJTIwd2hlcmUlMjB5b3UlMjBzdGFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDY0NDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMjMlM0EyNSUzQTIwJTIwJTJCMDAwMA",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "pubDate": "Mon, 12 Oct 2026 23:25:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaXRzbmljZXRoYXQuY29tJTJGZmVhdHVyZXMlMkZkYXZpZC1ydWRuaWNrLWpvaG5uaWUtY2FtcGJlbGwtYXJzZW5hbC1yb2Nhc3RsZS10eXBlZmFjZS1ncmFwaGljLWRlc2lnbi1zcG90bGlnaHQtMTIxMDI2JTdDaHR0cHMlM0ElMkYlMkZ3d3cuaXRzbmljZXRoYXQuY29tJTJGZmVhdHVyZXMlMkZkYXZpZC1ydWRuaWNrLWpvaG5uaWUtY2FtcGJlbGwtYXJzZW5hbC1yb2Nhc3RsZS10eXBlZmFjZS1ncmFwaGljLWRlc2lnbi1zcG90bGlnaHQtMTIxMDI2JTdDRGF2aWQlMjBSdWRuaWNrJTIwb24lMjAlMjJib3JkZXJsaW5lJTIwaW1wb3NzaWJsZSUyMiUyMHByb2Nlc3MlMjBvZiUyMGRlc2lnbmluZyUyMEFyc2VuYWwlMjB0eXBlZmFjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDYwOTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTglM0E0NCUzQTQyJTIwJTJCMDAwMA",
+      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "pubDate": "Mon, 12 Oct 2026 18:44:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTA4LXN0aWNreS1hbHBpbmUtZGFyd2luLXllYXItY2Fybml2b3JvdXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGh5cy5vcmclMkZuZXdzJTJGMjAyNi0wOC1zdGlja3ktYWxwaW5lLWRhcndpbi15ZWFyLWNhcm5pdm9yb3VzLmh0bWwlN0NTdGlja3klMjBhbHBpbmUlMjBmbG93ZXIlMjBjb25maXJtcyUyMERhcndpbidzJTIwMTUwLXllYXItb2xkJTIwY2Fybml2b3JvdXMlMjBwbGFudCUyMHByZWRpY3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA2MDU0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDEyJTIwT2N0JTIwMjAyNiUyMDE4JTNBMjAlM0ExNyUyMCUyQjAwMDA",
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "pubDate": "Mon, 12 Oct 2026 18:20:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV0cm9pc3QuY29tJTJGcCUyRnRoZS1oYXVudGVkLXRveXMtci11cyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldHJvaXN0LmNvbSUyRnAlMkZ0aGUtaGF1bnRlZC10b3lzLXItdXMlN0NUaGUlMjBIYXVudGVkJTIwVG95cyUyMFIlMjBVcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDU4NTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTIlMjBPY3QlMjAyMDI2JTIwMTYlM0ExMyUzQTExJTIwJTJCMDAwMA",
+      "title": "The Haunted Toys R Us",
+      "pubDate": "Mon, 12 Oct 2026 16:13:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-12-0.json"
     }
   ]

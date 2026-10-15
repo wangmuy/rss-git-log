@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-13",
     "newestItemDate": "2026-10-13",
-    "itemCount": 54,
-    "generatedAt": "2026-10-15T04:51:21.502Z"
+    "itemCount": 58,
+    "generatedAt": "2026-10-15T13:31:39.106Z"
   },
   "items": [
     {
@@ -330,6 +330,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZrZW5uZWRuLmNvbSUyRmJsb2clMkZwb3N0cyUyRmdsaXRjaGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGa2VubmVkbi5jb20lMkZibG9nJTJGcG9zdHMlMkZnbGl0Y2hpbmclMkYlN0NJdCUyMHRvb2slMjBtZSUyMG5pbmUlMjB5ZWFycyUyMHRvJTIwaGFjayUyMG15JTIwWGJveCUyMDM2MCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDcwNjYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTIlM0EzMyUzQTE4JTIwJTJCMDAwMA",
       "title": "It took me nine years to hack my Xbox 360",
       "pubDate": "Tue, 13 Oct 2026 12:33:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMjAyNiUyRjEwJTJGMTklMkZ0aGUtZmlyc3Qtc29jaWFsLW5ldHdvcmslN0NodHRwcyUzQSUyRiUyRnd3dy5uZXd5b3JrZXIuY29tJTJGbWFnYXppbmUlMkYyMDI2JTJGMTAlMkYxOSUyRnRoZS1maXJzdC1zb2NpYWwtbmV0d29yayU3Q1RoZSUyMEZpcnN0JTIwU29jaWFsJTIwTmV0d29yayUzQSUyMEluJTIwcnVyYWwlMjBBcmdlbnRpbmElMjByZXNpZGVudHMlMjBzZW5kJTIwbWVzc2FnZXMlMjB3JTIwQU0lMjByYWRpbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDc5NzAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMjIlM0ExNyUzQTQxJTIwJTJCMDAwMA",
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "pubDate": "Tue, 13 Oct 2026 22:17:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaHVkc29ucml2ZXJ0cmFkaW5nLmNvbSUyRmhydGJlYXQlMkZsb25nLW9uLXJlc2VhcmNoLXNob3J0LW9uLWJhbmR3aWR0aCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmh1ZHNvbnJpdmVydHJhZGluZy5jb20lMkZocnRiZWF0JTJGbG9uZy1vbi1yZXNlYXJjaC1zaG9ydC1vbi1iYW5kd2lkdGglMkYlN0NUcmFjaW5nJTIwTXlzdGVyeSUyME5ldHdvcmslMjBUcmFmZmljJTIwd2l0aCUyMGVCUEYlMjBBY3Jvc3MlMjBIUlQncyUyMEdsb2JhbCUyMENvbXB1dGUlMjBDbHVzdGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNzEwNjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAxMyUzQTA1JTNBNDYlMjAlMkIwMDAw",
+      "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
+      "pubDate": "Tue, 13 Oct 2026 13:05:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRmYi5zaCUyRmJsb2clMkZlYXA3NzAtcm9vdC1mb3ItdHdvLXplcm9zJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmRmYi5zaCUyRmJsb2clMkZlYXA3NzAtcm9vdC1mb3ItdHdvLXplcm9zJTJGJTdDV2FudGVkJTIwdG8lMjBkb3dubG9hZCUyMGFuJTIwSVNPJTJDJTIwZW5kZWQlMjB1cCUyMHdyaXRpbmclMjBhJTIwa2VybmVsJTIwZXhwbG9pdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDcwNjI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMTIlM0EzMCUzQTA4JTIwJTJCMDAwMA",
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "pubDate": "Tue, 13 Oct 2026 12:30:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RrQ1lyU0JleEZfNCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEa0NZclNCZXhGXzQlN0NTdG9wcGluZyUyMHNhbmQlMjBmcm9tJTIwZGVzdHJveWluZyUyMGElMjBoeWRyb3Bvd2VyJTIwdHVyYmluZSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNjUyMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAwMSUzQTAyJTNBNTQlMjAlMkIwMDAw",
+      "title": "Stopping sand from destroying a hydropower turbine [video]",
+      "pubDate": "Tue, 13 Oct 2026 01:02:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
     }
   ]

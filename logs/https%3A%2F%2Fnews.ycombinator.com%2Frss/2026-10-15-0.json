@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-15",
     "newestItemDate": "2026-10-15",
-    "itemCount": 4,
-    "generatedAt": "2026-10-15T04:51:21.502Z"
+    "itemCount": 10,
+    "generatedAt": "2026-10-15T13:31:39.106Z"
   },
   "items": [
     {
@@ -30,6 +30,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRlbW9mb3gub3JnJTJGMjAyNiUyRjEwJTJGMDMlMkZ0aGUtZG91YmxlLWhlYWRlZC1zdGFjay1hbGxvY2F0b3IlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZGVtb2ZveC5vcmclMkYyMDI2JTJGMTAlMkYwMyUyRnRoZS1kb3VibGUtaGVhZGVkLXN0YWNrLWFsbG9jYXRvciUyRiU3Q1RoZSUyMERvdWJsZSUyMEhlYWRlZCUyMFN0YWNrJTIwQWxsb2NhdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwOTgyNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAwMiUzQTA2JTNBMzYlMjAlMkIwMDAw",
       "title": "The Double Headed Stack Allocator",
       "pubDate": "Thu, 15 Oct 2026 02:06:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZvY3QlMkYxNSUyRmlzcmFlbGktZmlybS1kaWdpdGFsLWFkcy1lbmFibGluZy1pbnN0YWxsYXRpb24tb2YtemVyby1jbGljay1zcHl3YXJlLXJlc2VhcmNoZXJzLXNheSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnRlY2hub2xvZ3klMkYyMDI2JTJGb2N0JTJGMTUlMkZpc3JhZWxpLWZpcm0tZGlnaXRhbC1hZHMtZW5hYmxpbmctaW5zdGFsbGF0aW9uLW9mLXplcm8tY2xpY2stc3B5d2FyZS1yZXNlYXJjaGVycy1zYXklN0NJc3JhZWxpJTIwZmlybSdzJTIwZGlnaXRhbCUyMGFkcyUyMGVuYWJsaW5nJTIwaW5zdGFsbGF0aW9uJTIwb2YlMjAnemVyby1jbGljayclMjBzcHl3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDMwMDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxMiUzQTU4JTNBMzIlMjAlMkIwMDAw",
+      "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+      "pubDate": "Thu, 15 Oct 2026 12:58:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaWJyZWJvb3Qub3JnJTJGbmV3cyUyRmxpYnJlYm9vdDI2MTAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbGlicmVib290Lm9yZyUyRm5ld3MlMkZsaWJyZWJvb3QyNjEwLmh0bWwlN0NMaWJyZWJvb3QlMjAyNi4xMCUyMCUyMk9taW5vdXMlMjBPbGl2ZSUyMiUyMHJlbGVhc2VkJTIwd2l0aCUyMFVFRkklMkMlMjBDaHJvbWVib29rJTIwc3VwcG9ydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTAyOTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTIlM0E1MiUzQTE2JTIwJTJCMDAwMA",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "pubDate": "Thu, 15 Oct 2026 12:52:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc2VjdXJpdHklMkYyMDI2JTJGMTAlMkYxNSUyRngtcHVyZ2VzLTEzMDAwLWFjY291bnRzLWxpbmtlZC10by1zdXNwZWN0ZWQtbWVkZGxpbmctYWhlYWQtb2YtdXMtbWlkdGVybXMlMkY1MzAzMjM0JTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc2VjdXJpdHklMkYyMDI2JTJGMTAlMkYxNSUyRngtcHVyZ2VzLTEzMDAwLWFjY291bnRzLWxpbmtlZC10by1zdXNwZWN0ZWQtbWVkZGxpbmctYWhlYWQtb2YtdXMtbWlkdGVybXMlMkY1MzAzMjM0JTdDWCUyMHB1cmdlcyUyMDEzJTJDMDAwJTIwYWNjb3VudHMlMjBsaW5rZWQlMjB0byUyMHN1c3BlY3RlZCUyMG1lZGRsaW5nJTIwYWhlYWQlMjBvZiUyMFVTJTIwbWlkdGVybXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwMjg1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDEyJTNBNDUlM0E1OSUyMCUyQjAwMDA",
+      "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
+      "pubDate": "Thu, 15 Oct 2026 12:45:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXN0cy51YnVudHUuY29tJTJGYXJjaGl2ZXMlMkZ1YnVudHUtYW5ub3VuY2UlMkYyMDI2LU9jdG9iZXIlMkYwMDAzMzAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbGlzdHMudWJ1bnR1LmNvbSUyRmFyY2hpdmVzJTJGdWJ1bnR1LWFubm91bmNlJTJGMjAyNi1PY3RvYmVyJTJGMDAwMzMwLmh0bWwlN0NVYnVudHUlMjAyNi4xMCUyMChTdG9ua2luZyUyMFN0aW5ncmF5KSUyMHJlbGVhc2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDI0MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxMSUzQTU5JTNBMDklMjAlMkIwMDAw",
+      "title": "Ubuntu 26.10 (Stonking Stingray) released",
+      "pubDate": "Thu, 15 Oct 2026 11:59:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmZlbmNlZC5sYW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZ1bmZlbmNlZC5sYW5kJTJGJTdDU2hvdyUyMEhOJTNBJTIwVW5mZW5jZWQlMjAlRTIlODAlOTMlMjBMYW5kJTIwZm9yJTIwc2FsZSUyMHRoYXQlMjBib3JkZXJzJTIwcHVibGljJTIwbGFuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTAyMjQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTElM0EzOCUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "pubDate": "Thu, 15 Oct 2026 11:38:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5kdW5pZWVlJTJGZmxpcGZsb3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbmR1bmllZWUlMkZmbGlwZmxvcCU3Q1Nob3clMjBITiUzQSUyMEZsaXBmbG9wJTJDJTIwSXJvaC1wb3dlcmVkJTIwcGVyc2lzdGVudCUyMHR1bm5lbHMlMjBmb3IlMjBmaWxlc2hhcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDk5MTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMDQlM0EyNSUzQTI4JTIwJTJCMDAwMA",
+      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "pubDate": "Thu, 15 Oct 2026 04:25:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
     }
   ]
