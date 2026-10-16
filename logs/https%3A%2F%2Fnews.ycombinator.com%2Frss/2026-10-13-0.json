@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-13",
     "newestItemDate": "2026-10-13",
-    "itemCount": 64,
-    "generatedAt": "2026-10-16T04:41:42.544Z"
+    "itemCount": 68,
+    "generatedAt": "2026-10-16T13:20:38.563Z"
   },
   "items": [
     {
@@ -390,6 +390,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGNtYWcuY29tJTJGbmV3cyUyRmFwcGxlLXJvdXRlZC1hLWdyYXBoaXRlLXBpcGUtdGhyb3VnaC10aGUtaXBob25lLWR1b3MtaGluZ2UlN0NodHRwcyUzQSUyRiUyRnd3dy5wY21hZy5jb20lMkZuZXdzJTJGYXBwbGUtcm91dGVkLWEtZ3JhcGhpdGUtcGlwZS10aHJvdWdoLXRoZS1pcGhvbmUtZHVvcy1oaW5nZSU3Q0FwcGxlJTIwcm91dGVkJTIwYSUyMGdyYXBoaXRlJTIwcGlwZSUyMHRocm91Z2glMjB0aGUlMjBpUGhvbmUlMjBEdW8ncyUyMGhpbmdlJTIwdG8lMjBkaXNzaXBhdGUlMjBoZWF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwNjgyMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMyUyME9jdCUyMDIwMjYlMjAwNyUzQTUyJTNBNTQlMjAlMkIwMDAw",
       "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
       "pubDate": "Tue, 13 Oct 2026 07:52:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWFsZXJ0LmNvbSUyRmEtbmV3LXN1cGVyLWljZS1pcy0xMC10aW1lcy1zdHJvbmdlci1icmluZ2luZy1pdC1jbG9zZS10by10aGUtc3RyZW5ndGgtb2YtY29uY3JldGUlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbmNlYWxlcnQuY29tJTJGYS1uZXctc3VwZXItaWNlLWlzLTEwLXRpbWVzLXN0cm9uZ2VyLWJyaW5naW5nLWl0LWNsb3NlLXRvLXRoZS1zdHJlbmd0aC1vZi1jb25jcmV0ZSU3Q05ldyUyMCdTdXBlciUyMEljZSclMjAxMCUyMFRpbWVzJTIwU3Ryb25nZXIlMkMlMjBCcmluZ2luZyUyMEl0JTIwQ2xvc2UlMjB0byUyMHRoZSUyMFN0cmVuZ3RoJTIwb2YlMjBDb25jcmV0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDc5MjgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMjElM0E0MiUzQTM4JTIwJTJCMDAwMA",
+      "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+      "pubDate": "Tue, 13 Oct 2026 21:42:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmlrYWVzLmRlJTJGeWV0LWFub3RoZXItd2F5LXRvLWludm9rZS1mdW5jdGlvbnMtd2l0aG91dC1wYXJlbnRoZXNlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5pa2Flcy5kZSUyRnlldC1hbm90aGVyLXdheS10by1pbnZva2UtZnVuY3Rpb25zLXdpdGhvdXQtcGFyZW50aGVzZXMlMkYlN0NZZXQlMjBhbm90aGVyJTIwd2F5JTIwdG8lMjBpbnZva2UlMjBmdW5jdGlvbnMlMjB3aXRob3V0JTIwcGFyZW50aGVzZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3NzIyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDE5JTNBMjUlM0ExOCUyMCUyQjAwMDA",
+      "title": "Yet another way to invoke functions without parentheses",
+      "pubDate": "Tue, 13 Oct 2026 19:25:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcmxwLm5ldCUyRmJsb2clMkZ0d28tc3RhY2stc2xpZGluZy13aW5kb3ctYWdncmVnYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRm9ybHAubmV0JTJGYmxvZyUyRnR3by1zdGFjay1zbGlkaW5nLXdpbmRvdy1hZ2dyZWdhdGlvbiUyRiU3Q1R3by1TdGFjayUyMFNsaWRpbmctV2luZG93JTIwQWdncmVnYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA3MjQ4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEzJTIwT2N0JTIwMjAyNiUyMDE0JTNBNDAlM0EwMyUyMCUyQjAwMDA",
+      "title": "Two-Stack Sliding-Window Aggregation",
+      "pubDate": "Tue, 13 Oct 2026 14:40:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0Rzak5wZno0VXpxVSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEc2pOcGZ6NFV6cVUlN0NXb21hbiUyMHdobyUyMHJlc2N1ZWQlMjBpbmp1cmVkJTIwY3JvdyUyMGtlZXBzJTIwZ2V0dGluZyUyMCd0aGFuay15b3UlMjBnaWZ0cyclMjBmcm9tJTIwYmlyZHMlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDY1ODU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTMlMjBPY3QlMjAyMDI2JTIwMDIlM0EzMiUzQTUzJTIwJTJCMDAwMA",
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "pubDate": "Tue, 13 Oct 2026 02:32:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-13-0.json"
     }
   ]

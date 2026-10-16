@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 4,
-    "generatedAt": "2026-10-16T04:41:42.543Z"
+    "itemCount": 7,
+    "generatedAt": "2026-10-16T13:20:38.562Z"
   },
   "items": [
     {
@@ -30,6 +30,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpcGluZm8uaW8lMkZibG9nJTJGcnBraS1wcm90ZWN0cy03MC1pbnRlcm5ldC1yb3V0ZXMlN0NodHRwcyUzQSUyRiUyRmlwaW5mby5pbyUyRmJsb2clMkZycGtpLXByb3RlY3RzLTcwLWludGVybmV0LXJvdXRlcyU3Q1JQS0klMjBub3clMjBwcm90ZWN0cyUyMDcwJTI1JTIwb2YlMjBpbnRlcm5ldCUyMHJvdXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTEyMzMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMDAlM0E1MiUzQTM1JTIwJTJCMDAwMA",
       "title": "RPKI now protects 70% of internet routes",
       "pubDate": "Fri, 16 Oct 2026 00:52:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFtZXNmbWFja2VuemllLmNvbSUyRjIwMjYlMkYxMCUyRjEzJTJGaS1sb3ZlLXNvZnR3YXJlLXJlbmRlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmphbWVzZm1hY2tlbnppZS5jb20lMkYyMDI2JTJGMTAlMkYxMyUyRmktbG92ZS1zb2Z0d2FyZS1yZW5kZXJpbmclMkYlN0NJJTIwTG92ZSUyMFNvZnR3YXJlJTIwUmVuZGVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTc3NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxMiUzQTUyJTNBMDglMjAlMkIwMDAw",
+      "title": "I Love Software Rendering",
+      "pubDate": "Fri, 16 Oct 2026 12:52:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvd2VydXAuY29tJTJGMzUzNzc2JTJGcXVhbGNvbW0tbGVnYWxseS1wcm92ZXMtYXJtLWJyZWFjaGVkLWl0cy1saWNlbnNlLXdpbnMtdXNkLTIlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNocG93ZXJ1cC5jb20lMkYzNTM3NzYlMkZxdWFsY29tbS1sZWdhbGx5LXByb3Zlcy1hcm0tYnJlYWNoZWQtaXRzLWxpY2Vuc2Utd2lucy11c2QtMiU3Q1F1YWxjb21tJTIwTGVnYWxseSUyMFByb3ZlcyUyMEFybSUyMEJyZWFjaGVkJTIwSXRzJTIwTGljZW5zZSUyQyUyMFdpbnMlMjAlMjQyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTc0NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxMiUzQTE2JTNBNDIlMjAlMkIwMDAw",
+      "title": "Qualcomm Legally Proves Arm Breached Its License, Wins $2",
+      "pubDate": "Fri, 16 Oct 2026 12:16:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWx0ZW1raW4uY29tJTJGZXNvbGFuZ3MlMkZmb2xkZXJzJTdDaHR0cHMlM0ElMkYlMkZkYW5pZWx0ZW1raW4uY29tJTJGZXNvbGFuZ3MlMkZmb2xkZXJzJTdDVGhlJTIwRm9sZGVycyUyMFByb2dyYW1taW5nJTIwTGFuZ3VhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDExNDM0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDA1JTNBMTElM0EyOCUyMCUyQjAwMDA",
+      "title": "The Folders Programming Language",
+      "pubDate": "Fri, 16 Oct 2026 05:11:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-14",
     "newestItemDate": "2026-10-14",
-    "itemCount": 57,
-    "generatedAt": "2026-10-16T04:41:42.544Z"
+    "itemCount": 60,
+    "generatedAt": "2026-10-16T13:20:38.563Z"
   },
   "items": [
     {
@@ -348,6 +348,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZza2xhci5yb2NrcyUyRm5vbi1kZXRlcm1pbmlzbS1kb2VzbnQtbWF0dGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZza2xhci5yb2NrcyUyRm5vbi1kZXRlcm1pbmlzbS1kb2VzbnQtbWF0dGVyJTJGJTdDTm9uLURldGVybWluaXNtJTIwRG9lc24ndCUyME1hdHRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDg3NjE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMTMlM0EzNyUzQTU5JTIwJTJCMDAwMA",
       "title": "Non-Determinism Doesn't Matter",
       "pubDate": "Wed, 14 Oct 2026 13:37:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWl4ZWxwaXh4JTJGS29ubmVjdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1peGVscGl4eCUyRktvbm5lY3QlN0NBSS1hc3Npc3RlZCUyMFBDQiUyMGRlc2lnbiUyMGZvciUyMEtpQ2FkJTIwMTAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA4NTU1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDEwJTNBNTElM0EzNyUyMCUyQjAwMDA",
+      "title": "AI-assisted PCB design for KiCad 10",
+      "pubDate": "Wed, 14 Oct 2026 10:51:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWljaGVsZWNvc2NpYS5jb20lMkYlM0ZwJTNEMjYxMyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pY2hlbGVjb3NjaWEuY29tJTJGJTNGcCUzRDI2MTMlN0NUaGUlMjBFY29ub21pYyUyMENvbXBsZXhpdHklMjBvZiUyMHRoZSUyMFdlc3Rlcm4lMjBSb21hbiUyMEVtcGlyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDg0NzkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMDklM0EzMiUzQTA5JTIwJTJCMDAwMA",
+      "title": "The Economic Complexity of the Western Roman Empire",
+      "pubDate": "Wed, 14 Oct 2026 09:32:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ncy53aW5kb3dzLmNvbSUyRndpbmRvd3MtaW5zaWRlciUyRjIwMjYlMkYwMiUyRjIwJTJGYW5ub3VuY2luZy13aW5kb3dzLTExLWluc2lkZXItcHJldmlldy1idWlsZC0yODAyMC0xNjE5LWNhbmFyeS1jaGFubmVsJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9ncy53aW5kb3dzLmNvbSUyRndpbmRvd3MtaW5zaWRlciUyRjIwMjYlMkYwMiUyRjIwJTJGYW5ub3VuY2luZy13aW5kb3dzLTExLWluc2lkZXItcHJldmlldy1idWlsZC0yODAyMC0xNjE5LWNhbmFyeS1jaGFubmVsJTJGJTdDTVMlMjBQYWludCUyMEFkZHMlMjBGcmVlZm9ybSUyMFJvdGF0aW9uJTIwKDIwMjYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwODI1NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAwNCUzQTU1JTNBNDAlMjAlMkIwMDAw",
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "pubDate": "Wed, 14 Oct 2026 04:55:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
     }
   ]
