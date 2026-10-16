@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 7,
-    "generatedAt": "2026-10-16T13:20:38.562Z"
+    "itemCount": 30,
+    "generatedAt": "2026-10-16T19:35:56.287Z"
   },
   "items": [
     {
@@ -48,6 +48,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWx0ZW1raW4uY29tJTJGZXNvbGFuZ3MlMkZmb2xkZXJzJTdDaHR0cHMlM0ElMkYlMkZkYW5pZWx0ZW1raW4uY29tJTJGZXNvbGFuZ3MlMkZmb2xkZXJzJTdDVGhlJTIwRm9sZGVycyUyMFByb2dyYW1taW5nJTIwTGFuZ3VhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDExNDM0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDA1JTNBMTElM0EyOCUyMCUyQjAwMDA",
       "title": "The Folders Programming Language",
       "pubDate": "Fri, 16 Oct 2026 05:11:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuZGV2JTJGYmxvZyUyRnNvbHZpbmctY29kZS1yZXZpZXctYXQtYW50aHJvcGljJTJGJTdDaHR0cHMlM0ElMkYlMkZjbGF1ZGUuZGV2JTJGYmxvZyUyRnNvbHZpbmctY29kZS1yZXZpZXctYXQtYW50aHJvcGljJTJGJTdDQ2xhdWRlJTIwd3JpdGVzJTIwYWJvdXQlMjA5MCUyNSUyMG9mJTIwQ2xhdWRlJTIwQ29kZSdzJTIwY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIyOTUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTklM0EwNCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Claude writes about 90% of Claude Code's code",
+      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jkcy5maWxpcHBvLmlvJTJGc2VlZHMtc29sdmVkJTJGJTdDaHR0cHMlM0ElMkYlMkZ3b3Jkcy5maWxpcHBvLmlvJTJGc2VlZHMtc29sdmVkJTJGJTdDVGhlJTIwTklTVCUyMEVsbGlwdGljJTIwQ3VydmVzJTIwU2VlZHMlMjBCb3VudHklMjBIYXMlMjBCZWVuJTIwQ2xhaW1lZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIyOTIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTklM0EwMyUzQTMyJTIwJTJCMDAwMA",
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "pubDate": "Fri, 16 Oct 2026 19:03:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZWNkc2EtY3VydmUtb3JpZ2lucyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZyZXNlYXJjaCUyRmVjZHNhLWN1cnZlLW9yaWdpbnMlN0NDbGF1ZGUlMjByZXZlYWxzJTIwRUNEU0ElMjBjdXJ2ZSUyMG9yaWdpbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMjgwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE4JTNBNTUlM0E1OSUyMCUyQjAwMDA",
+      "title": "Claude reveals ECDSA curve origins",
+      "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9rZS5tb25leSU3Q2h0dHBzJTNBJTJGJTJGc3Rva2UubW9uZXklMkYlN0NTaG93JTIwSE4lM0ElMjBTdG9rZSUyME1vbmV5JTIwJUUyJTgwJTkzJTIwUGVyc29uYWwlMjBmaW5hbmNlJTIwYXBwJTIwYnVpbHQlMjBhcm91bmQlMjBhJTIwY2FzaCUyMGZsb3clMjBmb3JlY2FzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIyNzc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTglM0E1NCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "pubDate": "Fri, 16 Oct 2026 18:54:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTW9zaGlrMjElMkZ3ZWF0aGVyZGVjayU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk1vc2hpazIxJTJGd2VhdGhlcmRlY2slN0NTaG93JTIwSE4lM0ElMjBXZWF0aGVyZGVjayUyMCVFMiU4MCU5MyUyMGElMjByZWFkLW9ubHklMjBzdGF0dXMlMjBib2FyZCUyMGZvciUyMEFJJTIwY29kaW5nJTIwYWdlbnQlMjBsYW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIyNzY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTglM0E1NCUzQTIyJTIwJTJCMDAwMA",
+      "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
+      "pubDate": "Fri, 16 Oct 2026 18:54:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2FuZG9yZGFyZ28uY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjMwJTJGY3BwMjYtZGVidWdnaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2FuZG9yZGFyZ28uY29tJTJGYmxvZyUyRjIwMjYlMkYwOSUyRjMwJTJGY3BwMjYtZGVidWdnaW5nJTdDQyUyQiUyQjI2JTNBJTIwVGhlJTIwTmV3JTIwRGVidWdnaW5nJTIwSGVhZGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjI3MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxOCUzQTUyJTNBMzklMjAlMkIwMDAw",
+      "title": "C++26: The New Debugging Header",
+      "pubDate": "Fri, 16 Oct 2026 18:52:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY29iYW5vdiUyRlBTNUxNJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY29iYW5vdiUyRlBTNUxNJTdDTGxhbWEuY3BwJTIwb24lMjBhJTIwamFpbGJyb2tlbiUyMFBTNSUzQSUyMHJ1biUyMGFueSUyMEdHVUYlMjBtb2RlbCUyMG5hdGl2ZWx5JTIwb24lMjB0aGUlMjBjb25zb2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjI0MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxOCUzQTMyJTNBMzUlMjAlMkIwMDAw",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "pubDate": "Fri, 16 Oct 2026 18:32:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjVhMzEwYWVlLWY1NTUtNDI2Ni04NzRjLWIxYjRkYjIwMTg2ZCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkY1YTMxMGFlZS1mNTU1LTQyNjYtODc0Yy1iMWI0ZGIyMDE4NmQlN0NBbnRocm9waWMlMjBhc3NpZ25lZCUyMGhpZ2hlc3QlMjBqdW5rJTIwY3JlZGl0JTIwcmF0aW5nJTIwaW4lMjBKdW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjIxMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxOCUzQTExJTNBNDIlMjAlMkIwMDAw",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "pubDate": "Fri, 16 Oct 2026 18:11:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXJybC5vcmclMkZhcnJsbGV0dGVyaXNzdWUlM0Zpc3N1ZSUzRDIwMjYtMTAtMTUlMjNlQmF5LVJlc3RyaWN0cy1MaXN0aW5ncy1vZi1SYWRpby1FcXVpcG1lbnRfLUJ1dC1FeGVtcHRzLUhhbS1CYW5kLU9ubHktR2VhciU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFycmwub3JnJTJGYXJybGxldHRlcmlzc3VlJTNGaXNzdWUlM0QyMDI2LTEwLTE1JTIzZUJheS1SZXN0cmljdHMtTGlzdGluZ3Mtb2YtUmFkaW8tRXF1aXBtZW50Xy1CdXQtRXhlbXB0cy1IYW0tQmFuZC1Pbmx5LUdlYXIlN0NlQmF5JTIwUmVzdHJpY3RzJTIwTGlzdGluZ3MlMjBvZiUyMFJhZGlvJTIwRXF1aXBtZW50JTJDJTIwYnV0JTIwRXhlbXB0cyUyMEhhbS1CYW5kLU9ubHklMjBHZWFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjIwMzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxOCUzQTA2JTNBMTclMjAlMkIwMDAw",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "pubDate": "Fri, 16 Oct 2026 18:06:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZGVzaWduaW5nLWVmZmljaWVudC1xdWFudHVtLWNpcmN1aXRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZGVzaWduaW5nLWVmZmljaWVudC1xdWFudHVtLWNpcmN1aXRzJTdDRGVzaWduaW5nJTIwbW9yZSUyMGVmZmljaWVudCUyMHF1YW50dW0lMjBjaXJjdWl0cyUyMHdpdGglMjBDbGF1ZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMTkzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE4JTNBMDAlM0ExOCUyMCUyQjAwMDA",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "pubDate": "Fri, 16 Oct 2026 18:00:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaWZjaXRpZXMub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZnaWZjaXRpZXMub3JnJTJGJTdDR2lmQ2l0aWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjE2MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxNyUzQTM1JTNBMDclMjAlMkIwMDAw",
+      "title": "GifCities",
+      "pubDate": "Fri, 16 Oct 2026 17:35:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2ItYm9hcmRzLmdyZWVuaG91c2UuaW8lMkZwaXJhbWlkYWxpbmMlMkZqb2JzJTJGNDQ0MzEwMjAwOSU3Q2h0dHBzJTNBJTJGJTJGam9iLWJvYXJkcy5ncmVlbmhvdXNlLmlvJTJGcGlyYW1pZGFsaW5jJTJGam9icyUyRjQ0NDMxMDIwMDklN0NQaXJhbWlkYWwlMjAoWUMlMjBXMjQpJTIwSXMlMjBIaXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMTE4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE3JTNBMDglM0E1NSUyMCUyQjAwMDA",
+      "title": "Piramidal (YC W24) Is Hiring",
+      "pubDate": "Fri, 16 Oct 2026 17:08:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWVyY29yLmNvbSUyRnJlc2VhcmNoJTJGbGFib3ItaW5kZXglMkZiZW5jaG1hcmstbWFwJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWVyY29yLmNvbSUyRnJlc2VhcmNoJTJGbGFib3ItaW5kZXglMkZiZW5jaG1hcmstbWFwJTJGJTdDOTAlMjUlMjBvZiUyMFVTJTIwd29ya2luZyUyMGhvdXJzJTIwYXJlJTIwc3BlbnQlMjBvbiUyMHRhc2tzJTIwbm90JTIwY292ZXJlZCUyMHdlbGwlMjBieSUyMEFJJTIwYmVuY2htYXJrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIxMTc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTclM0EwOCUzQTM4JTIwJTJCMDAwMA",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "pubDate": "Fri, 16 Oct 2026 17:08:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXYtbnVsbC5zaCU3Q2h0dHBzJTNBJTJGJTJGZGV2LW51bGwuc2glMkYlN0MlMkZkZXYlMkZudWxsJTNBJTIwc29jaWFsJTIwbmV0d29yayUyMGZvciUyMGRldmVsb3BlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMTAwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE2JTNBNTclM0E0OSUyMCUyQjAwMDA",
+      "title": "/dev/null: social network for developers",
+      "pubDate": "Fri, 16 Oct 2026 16:57:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWtlYXJjaGliYWxkLmNvbSUyRjIwMjYlMkZqcGVnLXhsLXZzLWF2aWYlMkYlN0NodHRwcyUzQSUyRiUyRmpha2VhcmNoaWJhbGQuY29tJTJGMjAyNiUyRmpwZWcteGwtdnMtYXZpZiUyRiU3Q0pQRUclMjBYTCUyMHZzLiUyMEFWSUYlMjBmb3IlMjB3ZWIlMjB1c2UtY2FzZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMDIyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE2JTNBMTIlM0EwMiUyMCUyQjAwMDA",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "pubDate": "Fri, 16 Oct 2026 16:12:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaXRjaGlldG9ycmVzLmhvdXNlLmdvdiUyRnBvc3RzJTJGcmVwLXRvcnJlcy1hbm5vdW5jZXMtcG93ZXItdG8tdGhlLXBsYXllcnMtYWN0LWxlZ2lzbGF0aW9uLXRvLWVuc3VyZS1nYW1lcnMtb3duLXRoZWlyLWdhbWVzJTdDaHR0cHMlM0ElMkYlMkZyaXRjaGlldG9ycmVzLmhvdXNlLmdvdiUyRnBvc3RzJTJGcmVwLXRvcnJlcy1hbm5vdW5jZXMtcG93ZXItdG8tdGhlLXBsYXllcnMtYWN0LWxlZ2lzbGF0aW9uLXRvLWVuc3VyZS1nYW1lcnMtb3duLXRoZWlyLWdhbWVzJTdDVVMlMjBSZXAlMjBBbm5vdW5jZXMlMjBDb25ncmVzc2lvbmFsJTIwTGVnaXNsYXRpb24lMjB0byUyMFByb3RlY3QlMjBWaWRlbyUyMEdhbWUlMjBPd25lcnNoaXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMDEwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE2JTNBMDMlM0EwMiUyMCUyQjAwMDA",
+      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "pubDate": "Fri, 16 Oct 2026 16:03:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxpZi5pbyUyRnJlc2VhcmNoJTJGYmlnLWZpc2glN0NodHRwcyUzQSUyRiUyRmNhbGlmLmlvJTJGcmVzZWFyY2glMkZiaWctZmlzaCU3Q0JpZyUyMEZpc2glM0ElMjBFeHBsb2l0aW5nJTIwYSUyMDM3LVllYXItT2xkJTIwS2VybmVsJTIwQnVnJTIwaW4lMjBPcGVuQlNEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTg5NzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxNCUzQTQ0JTNBMDIlMjAlMkIwMDAw",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "pubDate": "Fri, 16 Oct 2026 14:44:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGcG9yY2VsYWluJTdDaHR0cHMlM0ElMkYlMkZ3d3cud29ya3NpbnByb2dyZXNzLm5ld3MlMkZwJTJGcG9yY2VsYWluJTdDV2hhdCUyMG9uJTIwRWFydGglMjBJcyUyMERla3RvbiUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTE4ODI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTQlM0EzMSUzQTQzJTIwJTJCMDAwMA",
+      "title": "What on Earth Is Dekton?",
+      "pubDate": "Fri, 16 Oct 2026 14:31:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFyc2tpcm1pc2guY29tJTJGYmVuY2glMkZ2MC0yJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGFyc2tpcm1pc2guY29tJTJGYmVuY2glMkZ2MC0yJTJGJTdDU2hvdyUyMEhOJTNBJTIwR2VtaW5pJTIwNCUyMEFyZ29uJTIwcGxheXMlMjBTdGFyQ3JhZnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDExODY4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE0JTNBMTglM0E0NCUyMCUyQjAwMDA",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "pubDate": "Fri, 16 Oct 2026 14:18:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbmxpbmVsaWJyYXJ5LndpbGV5LmNvbSUyRmRvaSUyRmVwZGYlMkYxMC4xMDAyJTJGYWFhaS43MDExMyU3Q2h0dHBzJTNBJTJGJTJGb25saW5lbGlicmFyeS53aWxleS5jb20lMkZkb2klMkZlcGRmJTJGMTAuMTAwMiUyRmFhYWkuNzAxMTMlN0NIb3clMjB0byUyMG1ha2UlMjBTeXN0ZW0lMjAxJTIwTExNcyUyMHNob3clMjBTeXN0ZW0lMjAyJTIwY29tcGV0ZW5jaWVzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTg2NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxNCUzQTE2JTNBMzQlMjAlMkIwMDAw",
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "pubDate": "Fri, 16 Oct 2026 14:16:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNoaW5lbGVhcm5pbmcuYXBwbGUuY29tJTJGcmVzZWFyY2glMkZtbHgtZGlzdHJpYnV0ZWQtaW5mZXJlbmNlJTdDaHR0cHMlM0ElMkYlMkZtYWNoaW5lbGVhcm5pbmcuYXBwbGUuY29tJTJGcmVzZWFyY2glMkZtbHgtZGlzdHJpYnV0ZWQtaW5mZXJlbmNlJTdDQXBwbGUlMjBNTCUyMFJlc2VhcmNoJTNBJTIwTXVzZSUyMFNwYXJrJTIwT3BlbiUyMHdpdGglMjBNTFglMjBvbiUyME1hYyUyMFN0dWRpbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTE4MzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTMlM0E0MyUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "pubDate": "Fri, 16 Oct 2026 13:43:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnVyYWdiaGF0aWEuY29tJTJGcG9zdCUyRjIwMjYlMkYwNiUyRnJmYzg5NTAtYW5ub3VuY2UtaXB2NC13aXRoLWlwdjYtbmV4dC1ob3AlMkYlN0NodHRwcyUzQSUyRiUyRmFudXJhZ2JoYXRpYS5jb20lMkZwb3N0JTJGMjAyNiUyRjA2JTJGcmZjODk1MC1hbm5vdW5jZS1pcHY0LXdpdGgtaXB2Ni1uZXh0LWhvcCUyRiU3Q1JGQzg5NTAlM0ElMjBBbm5vdW5jZSUyMElQdjQlMjB3aXRoJTIwYW4lMjBJUHY2JTIwbmV4dC1ob3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDExODI2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDEzJTNBMzglM0EyNSUyMCUyQjAwMDA",
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "pubDate": "Fri, 16 Oct 2026 13:38:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVzbGEuY29tJTJGcm9hZHN0ZXIlN0NodHRwcyUzQSUyRiUyRnd3dy50ZXNsYS5jb20lMkZyb2Fkc3RlciU3Q1Rlc2xhJTIwUm9hZHN0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDExMjY1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDAxJTNBMzIlM0E0NSUyMCUyQjAwMDA",
+      "title": "Tesla Roadster",
+      "pubDate": "Fri, 16 Oct 2026 01:32:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]
