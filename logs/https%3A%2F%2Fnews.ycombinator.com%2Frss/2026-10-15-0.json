@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-15",
     "newestItemDate": "2026-10-15",
-    "itemCount": 33,
-    "generatedAt": "2026-10-15T19:55:49.368Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-16T04:41:42.544Z"
   },
   "items": [
     {
@@ -204,6 +204,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXV0b3BpYW4uY29tJTJGeW91LXdvbnQtYmVsaWV2ZS10aGUtaW5jcmVkaWJsZS1lbmdpbmVlcmluZy10aGF0LWFsbG93cy1hcnRpY3VsYXRlZC1idXNlcy10by1iZW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlYXV0b3BpYW4uY29tJTJGeW91LXdvbnQtYmVsaWV2ZS10aGUtaW5jcmVkaWJsZS1lbmdpbmVlcmluZy10aGF0LWFsbG93cy1hcnRpY3VsYXRlZC1idXNlcy10by1iZW5kJTJGJTdDVGhlJTIwZW5naW5lZXJpbmclMjB0aGF0JTIwYWxsb3dzJTIwYXJ0aWN1bGF0ZWQlMjBidXNlcyUyMHRvJTIwYmVuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDk3ODQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMDElM0EwMiUzQTA1JTIwJTJCMDAwMA",
       "title": "The engineering that allows articulated buses to bend",
       "pubDate": "Thu, 15 Oct 2026 01:02:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmllbWFubGFiLm9yZyUyRjIwMjYlMkYxMCUyRm1ldGFzLW5ldy1jb21tZXJjaWFsLXRlcm1zLXdpbGwtYWxsb3ctdGhlLXNjcmFwaW5nLW9mLW5ld3Mtc2l0ZXMtbGVnYWwtZXhwZXJ0cy1zYXklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uaWVtYW5sYWIub3JnJTJGMjAyNiUyRjEwJTJGbWV0YXMtbmV3LWNvbW1lcmNpYWwtdGVybXMtd2lsbC1hbGxvdy10aGUtc2NyYXBpbmctb2YtbmV3cy1zaXRlcy1sZWdhbC1leHBlcnRzLXNheSUyRiU3Q0J1c2luZXNzJTIwYWNjb3VudHMlMjB3aWxsJTIwY29uc2VudCUyMHRvJTIwTWV0YSUyMHNjcmFwaW5nJTIwdGhlaXIlMjB3ZWJzaXRlcyUyMFN0YXJ0aW5nJTIwT2N0LiUyMDMwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTE4NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAyMyUzQTM3JTNBNDIlMjAlMkIwMDAw",
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "pubDate": "Thu, 15 Oct 2026 23:37:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGam9obnJhc2glMkZiZWJveCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmpvaG5yYXNoJTJGYmVib3glN0NCZUJveCUyMGlzJTIwYSUyMEhhaWt1JTIwYXBwbGljYXRpb24lMjB0aGF0JTIwZW11bGF0ZXMlMjBCZSUyMEluYy4ncyUyMEJlQm94JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTE3NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAyMyUzQTIyJTNBNTMlMjAlMkIwMDAw",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "pubDate": "Thu, 15 Oct 2026 23:22:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWNlY29uc29sZS5meWklMkZibG9nJTJGMjAyNiUyRjEwJTJGMTAlMkZ3aGF0LWktc2VsZi1ob3N0JTJGJTdDaHR0cHMlM0ElMkYlMkZ2aWNlY29uc29sZS5meWklMkZibG9nJTJGMjAyNiUyRjEwJTJGMTAlMkZ3aGF0LWktc2VsZi1ob3N0JTJGJTdDV2hhdCUyMEklMjBzZWxmLWhvc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwOTcxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDIwJTNBMjMlM0EyNSUyMCUyQjAwMDA",
+      "title": "What I self-host",
+      "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LndpdGhpbmdzLmNvbSUyRmhjJTJGZW4tdXMlMkZjb21tdW5pdHklMkZwb3N0cyUyRjUxODg3MDQ3MTU0NTc3LVVuYWNjZXB0YWJsZS1BcHBsZS1IZWFsdGgtU3luYy1pcy1ub3ctYmVoaW5kLWEtOTkteWVhci1wYXl3YWxsLWZvci1uZXctYWNjb3VudHMlN0NodHRwcyUzQSUyRiUyRnN1cHBvcnQud2l0aGluZ3MuY29tJTJGaGMlMkZlbi11cyUyRmNvbW11bml0eSUyRnBvc3RzJTJGNTE4ODcwNDcxNTQ1NzctVW5hY2NlcHRhYmxlLUFwcGxlLUhlYWx0aC1TeW5jLWlzLW5vdy1iZWhpbmQtYS05OS15ZWFyLXBheXdhbGwtZm9yLW5ldy1hY2NvdW50cyU3Q05ldyUyMFdpdGhpbmdzJTIwVXNlcnMlMjBNdXN0JTIwUGF5JTIwJTI0OTklMkZZZWFyJTIwZm9yJTIwQXBwbGUlMjBIZWFsdGglMjBTeW5jaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDkzNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxOSUzQTU1JTNBNDklMjAlMkIwMDAw",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWluay5jb20lMkZuZXdzJTJGZGV0YWlsJTJGRUluay1MYXVuY2hlcy1MYXRlc3QtVmVyc2lvbi1vZi1Db2xvci1lUGFwZXItUGxhdGZvcm0tRS1JbmstS2FsZWlkby00JTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWluay5jb20lMkZuZXdzJTJGZGV0YWlsJTJGRUluay1MYXVuY2hlcy1MYXRlc3QtVmVyc2lvbi1vZi1Db2xvci1lUGFwZXItUGxhdGZvcm0tRS1JbmstS2FsZWlkby00JTdDRSUyMEluayUyMEthbGVpZG8lMjA0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDgyMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxOCUzQTM4JTNBMTYlMjAlMkIwMDAw",
+      "title": "E Ink Kaleido 4",
+      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6YWNobGFuZGVzLmNvbSUyRnRyb2xsZXktcHJvYmxlbSUyRiU3Q2h0dHBzJTNBJTJGJTJGemFjaGxhbmRlcy5jb20lMkZ0cm9sbGV5LXByb2JsZW0lMkYlN0NKZXYlMjBtZWV0cyUyMHRoZSUyMFRyb2xsZXklMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDYwMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNiUzQTI0JTNBNTIlMjAlMkIwMDAw",
+      "title": "Jev meets the Trolley Problem",
+      "pubDate": "Thu, 15 Oct 2026 16:24:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlwbS5vcmclMkZlbiUyRmNncG0tMjAyNiUyRnJlc29sdXRpb24tNSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJpcG0ub3JnJTJGZW4lMkZjZ3BtLTIwMjYlMkZyZXNvbHV0aW9uLTUlN0NCSVBNJTIwZGVjaWRlcyUyMHRvJTIwc3RvcCUyMGFkZGluZyUyMGxlYXAlMjBzZWNvbmRzJTIwdG8lMjBVVEMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNTc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE2JTNBMTElM0EzNiUyMCUyQjAwMDA",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "pubDate": "Thu, 15 Oct 2026 16:11:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ncy5nbm9tZS5vcmclMkZ1cmFldXMlMkYyMDI2JTJGMTAlMkYxNSUyRmFpYW5kcmV2ZXJzZWVuZ2luZWVyaGFyZHdhcmUlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2dzLmdub21lLm9yZyUyRnVyYWV1cyUyRjIwMjYlMkYxMCUyRjE1JTJGYWlhbmRyZXZlcnNlZW5naW5lZXJoYXJkd2FyZSUyRiU3Q1VzaW5nJTIwQUklMjB0byUyMHJldmVyc2UlMjBlbmdpbmVlciUyMGhhcmR3YXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDQyOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNCUzQTM1JTNBMTUlMjAlMkIwMDAw",
+      "title": "Using AI to reverse engineer hardware",
+      "pubDate": "Thu, 15 Oct 2026 14:35:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaXRpemVubGFiLmNhJTJGcmVzZWFyY2glMkZob3ctZGlzY292ZXItdGVjaC10dXJuZWQtdGFyZ2V0ZWQtYWRzLWludG8tYS1waXBlbGluZS1mb3Itc3B5d2FyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2l0aXplbmxhYi5jYSUyRnJlc2VhcmNoJTJGaG93LWRpc2NvdmVyLXRlY2gtdHVybmVkLXRhcmdldGVkLWFkcy1pbnRvLWEtcGlwZWxpbmUtZm9yLXNweXdhcmUlMkYlN0NBZEZlY3Rpb24lM0ElMjBUYXJnZXRlZCUyMGFkcyUyMHR1cm5lZCUyMGludG8lMjBhJTIwcGlwZWxpbmUlMjBmb3IlMjB6ZXJvLWNsaWNrJTIwbWVyY2VuYXJ5JTIwc3B5d2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTAxODEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTAlM0E0MyUzQTM2JTIwJTJCMDAwMA",
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "pubDate": "Thu, 15 Oct 2026 10:43:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXdzbGFicyUyRmFpZGxjLXdvcmtmbG93cyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmF3c2xhYnMlMkZhaWRsYy13b3JrZmxvd3MlN0NBaWRsYyUzQSUyMEFkYXB0aXZlJTIwd29ya2Zsb3clMjBzdGVlcmluZyUyMHJ1bGVzJTIwZm9yJTIwQUklMjBjb2RpbmclMjBhZ2VudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwMDM4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDA3JTNBMjAlM0EzOSUyMCUyQjAwMDA",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "pubDate": "Thu, 15 Oct 2026 07:20:39 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
     }
   ]

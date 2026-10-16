@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-14",
     "newestItemDate": "2026-10-14",
-    "itemCount": 56,
-    "generatedAt": "2026-10-15T19:55:49.368Z"
+    "itemCount": 57,
+    "generatedAt": "2026-10-16T04:41:42.544Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwaGlsemltbWVybWFubi5jb20lMkZFTiUyRmVzc2F5cyUyRldoeUlXcm90ZVBHUC5odG1sJTdDaHR0cHMlM0ElMkYlMkZwaGlsemltbWVybWFubi5jb20lMkZFTiUyRmVzc2F5cyUyRldoeUlXcm90ZVBHUC5odG1sJTdDV2h5JTIwSSUyMFdyb3RlJTIwUEdQJTIwKDE5OTElMkMlMjByZXZpc2VkJTIwMTk5OSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA4NDY3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDA5JTNBMTclM0EwNiUyMCUyQjAwMDA",
       "title": "Why I Wrote PGP (1991, revised 1999)",
       "pubDate": "Wed, 14 Oct 2026 09:17:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZza2xhci5yb2NrcyUyRm5vbi1kZXRlcm1pbmlzbS1kb2VzbnQtbWF0dGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZza2xhci5yb2NrcyUyRm5vbi1kZXRlcm1pbmlzbS1kb2VzbnQtbWF0dGVyJTJGJTdDTm9uLURldGVybWluaXNtJTIwRG9lc24ndCUyME1hdHRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDg3NjE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMTMlM0EzNyUzQTU5JTIwJTJCMDAwMA",
+      "title": "Non-Determinism Doesn't Matter",
+      "pubDate": "Wed, 14 Oct 2026 13:37:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
     }
   ]
