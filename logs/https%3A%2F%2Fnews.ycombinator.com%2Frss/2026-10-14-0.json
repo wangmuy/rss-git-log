@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-14",
     "newestItemDate": "2026-10-14",
-    "itemCount": 61,
-    "generatedAt": "2026-10-16T19:35:56.288Z"
+    "itemCount": 64,
+    "generatedAt": "2026-10-17T04:39:18.747Z"
   },
   "items": [
     {
@@ -372,6 +372,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2YTNuZGYuY29tJTJGYmxvZyUyRmhhY2tlci1iYWRnZXMlMkYlN0NodHRwcyUzQSUyRiUyRnZhM25kZi5jb20lMkZibG9nJTJGaGFja2VyLWJhZGdlcyUyRiU3Q01ha2luZyUyMDElMkM3NTAlMjBwcm9ncmFtbWFibGUlMjBQQ0IlMjBiYWRnZXMlMjBmb3IlMjBDYW5hZGEncyUyMGJpZ2dlc3QlMjBoYWNrYXRob24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA4NjgzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDEyJTNBNDQlM0EwNyUyMCUyQjAwMDA",
       "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
       "pubDate": "Wed, 14 Oct 2026 12:44:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2ZjaHJvbmljbGUuY29tJTJGY2FsaWZvcm5pYSUyRmFydGljbGUlMkZ5b3NlbWl0ZS1uYXRpb25hbC1wYXJrLWhpZ2h3YXktMTQwLTIyNDYzODQ3LnBocCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNmY2hyb25pY2xlLmNvbSUyRmNhbGlmb3JuaWElMkZhcnRpY2xlJTJGeW9zZW1pdGUtbmF0aW9uYWwtcGFyay1oaWdod2F5LTE0MC0yMjQ2Mzg0Ny5waHAlN0NDYWxpZm9ybmlhJTIwaXMlMjBidWlsZGluZyUyMGElMjAlMjQ0MDBNJTIwc2hpZWxkJTIwZm9yJTIwWW9zZW1pdGUncyUyMG1vc3QlMjBkYW5nZXJvdXMlMjBoaWdod2F5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwODg5MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAxNSUzQTE1JTNBNTglMjAlMkIwMDAw",
+      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+      "pubDate": "Wed, 14 Oct 2026 15:15:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZWFuZ2luZWVyLmNvbSUyRmJsb2clMkZyZWFsd29ybGQtaW4tbGVhbiUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVhbmdpbmVlci5jb20lMkZibG9nJTJGcmVhbHdvcmxkLWluLWxlYW4lMkYlN0NJJTIwYnVpbHQlMjB0aGUlMjBSZWFsV29ybGQlMjBhcHAlMjBpbiUyMExlYW4lMjA0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwODg3NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAxNSUzQTAzJTNBMTQlMjAlMkIwMDAw",
+      "title": "I built the RealWorld app in Lean 4",
+      "pubDate": "Wed, 14 Oct 2026 15:03:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWIuamh1LmVkdSUyRjIwMjYlMkYxMCUyRjEyJTJGbWFnbmV0aWMtbWlsbGlyb2JvdHMtY2FyZGlhYy10cmVhdG1lbnQlMkYlN0NodHRwcyUzQSUyRiUyRmh1Yi5qaHUuZWR1JTJGMjAyNiUyRjEwJTJGMTIlMkZtYWduZXRpYy1taWxsaXJvYm90cy1jYXJkaWFjLXRyZWF0bWVudCUyRiU3Q1dpcmVsZXNzJTIwbWFnbmV0aWMlMjBtaWxsaXJvYm90cyUyMHRoYXQlMjBkZWxpdmVyJTIwbWVkaWNpbmUlMjBpbnNpZGUlMjB0aGUlMjBiZWF0aW5nJTIwaGVhcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA4MzY3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE0JTIwT2N0JTIwMjAyNiUyMDA3JTNBMjElM0ExMiUyMCUyQjAwMDA",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "pubDate": "Wed, 14 Oct 2026 07:21:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
     }
   ]
