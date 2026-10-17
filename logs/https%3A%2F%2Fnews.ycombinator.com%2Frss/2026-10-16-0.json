@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 37,
-    "generatedAt": "2026-10-17T04:39:18.747Z"
+    "itemCount": 38,
+    "generatedAt": "2026-10-17T12:15:44.785Z"
   },
   "items": [
     {
@@ -228,6 +228,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFtZXNmbWFja2VuemllLmNvbSUyRjIwMjYlMkYxMCUyRjEzJTJGaS1sb3ZlLXNvZnR3YXJlLXJlbmRlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmphbWVzZm1hY2tlbnppZS5jb20lMkYyMDI2JTJGMTAlMkYxMyUyRmktbG92ZS1zb2Z0d2FyZS1yZW5kZXJpbmclMkYlN0NJJTIwbG92ZSUyMHNvZnR3YXJlJTIwcmVuZGVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTc3NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxMiUzQTUyJTNBMDglMjAlMkIwMDAw",
       "title": "I love software rendering",
       "pubDate": "Fri, 16 Oct 2026 12:52:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZGVwdHMub2YweC5jYyUyRmV1ZnktaG9tZXN0YXRpb24yLWZpcm13YXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZhZGVwdHMub2YweC5jYyUyRmV1ZnktaG9tZXN0YXRpb24yLWZpcm13YXJlJTJGJTdDQSUyMHN0b3J5JTIwb2YlMjBXaUZpJTIwc2VjcmV0cyUyQyUyMFVBUlQlMjBsb2NrZG93bnMlMjBhbmQlMjBhJTIwZGFtYWdlZCUyMGZsYXNoJTIwbWVtb3J5JTIwY2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTE5NzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTUlM0EzOCUzQTI4JTIwJTJCMDAwMA",
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "pubDate": "Fri, 16 Oct 2026 15:38:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]

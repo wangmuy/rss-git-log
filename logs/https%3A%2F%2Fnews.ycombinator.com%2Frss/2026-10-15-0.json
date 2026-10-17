@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-15",
     "newestItemDate": "2026-10-15",
-    "itemCount": 46,
-    "generatedAt": "2026-10-17T04:39:18.747Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-17T12:15:44.785Z"
   },
   "items": [
     {
@@ -282,6 +282,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFwZXJpbnN0cnVtZW50cy5jb20lMkZ1bHRyYW1hcmluZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhcGVyaW5zdHJ1bWVudHMuY29tJTJGdWx0cmFtYXJpbmUlN0NVbHRyYW1hcmluZSUyMDElQzIlQTBGbGFzaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTA2NzQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTclM0EwNiUzQTAxJTIwJTJCMDAwMA",
       "title": "Ultramarine 1 Flash",
       "pubDate": "Thu, 15 Oct 2026 17:06:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLm9wZW5yZXdyaXRlLm9yZyUyRnJlZmVyZW5jZSUyRmxhdGVzdC12ZXJzaW9ucy1vZi1ldmVyeS1vcGVucmV3cml0ZS1tb2R1bGUlN0NodHRwcyUzQSUyRiUyRmRvY3Mub3BlbnJld3JpdGUub3JnJTJGcmVmZXJlbmNlJTJGbGF0ZXN0LXZlcnNpb25zLW9mLWV2ZXJ5LW9wZW5yZXdyaXRlLW1vZHVsZSU3Q1JlY2lwZXMlMjBBcmUlMjBNb3ZpbmclMjBmcm9tJTIwTWF2ZW4lMjBDZW50cmFsJTIwdG8lMjB0aGUlMjBDb2RlJTIwR2Vub21lJTIwUHJvamVjdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTA0NzgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMTUlM0EwNiUzQTUyJTIwJTJCMDAwMA",
+      "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+      "pubDate": "Thu, 15 Oct 2026 15:06:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGYtbGFuZy5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5sZi1sYW5nLm9yZyUyRiU3Q0ludHVpdGl2ZSUyMGNvbmN1cnJlbnQlMjBwcm9ncmFtbWluZyUyMGluJTIwYW55JTIwbGFuZ3VhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwMzI1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDEzJTNBMTglM0E0NCUyMCUyQjAwMDA",
+      "title": "Intuitive concurrent programming in any language",
+      "pubDate": "Thu, 15 Oct 2026 13:18:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodW1hbnByby5jbyUyRmFydGljbGVzJTJGd2Utc3RpbGwtdXNlLXBhcGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZodW1hbnByby5jbyUyRmFydGljbGVzJTJGd2Utc3RpbGwtdXNlLXBhcGVyJTJGJTdDV2UlMjBTdGlsbCUyMFVzZSUyMFBhcGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDA0NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAwNyUzQTI3JTNBNTUlMjAlMkIwMDAw",
+      "title": "We Still Use Paper",
+      "pubDate": "Thu, 15 Oct 2026 07:27:55 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
     }
   ]
