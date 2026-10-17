@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-17",
     "newestItemDate": "2026-10-17",
-    "itemCount": 6,
-    "generatedAt": "2026-10-17T12:15:44.785Z"
+    "itemCount": 20,
+    "generatedAt": "2026-10-17T18:34:14.059Z"
   },
   "items": [
     {
@@ -42,6 +42,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsbG1zcGVlZC5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRmxsbXNwZWVkLmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMExsbXNwZWVkJTIwJUUyJTgwJTkzJTIwZmVlbCUyMGhvdyUyMGZhc3QlMjBhJTIwbG9jYWwlMjBMTE0lMjBydW5zJTIwYmVmb3JlJTIweW91JTIwYnV5JTIwdGhlJTIwaGFyZHdhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyNzk3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE3JTIwT2N0JTIwMjAyNiUyMDA0JTNBMzYlM0E1MyUyMCUyQjAwMDA",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "pubDate": "Sat, 17 Oct 2026 04:36:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm9wZW5jb2RlJTJGc3RhdHVzJTJGMjExMTUxNjY3Mzk1MzkzNTgzMyU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZvcGVuY29kZSUyRnN0YXR1cyUyRjIxMTE1MTY2NzM5NTM5MzU4MzMlN0NPcGVuQ29kZSUyMEhhY2tlZCUzQSUyMFVzZXIlMjBjcmVkZW50aWFscyUyMGxlYWtlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTMzNDAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMTglM0EwMSUzQTQxJTIwJTJCMDAwMA",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg4Nzc2JTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDg4Nzc2JTJGJTdDRGV2ZWxvcG1lbnQlMjBzdGF0aXN0aWNzJTIwZm9yJTIwdGhlJTIwNy4yJTIwa2VybmVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzI5NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxNyUzQTE0JTNBMTIlMjAlMkIwMDAw",
+      "title": "Development statistics for the 7.2 kernel",
+      "pubDate": "Sat, 17 Oct 2026 17:14:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmVyY2VsLWxhYnMlMkZ0c2MtdHMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ2ZXJjZWwtbGFicyUyRnRzYy10cyU3Q3RzYy10cyUzQSUyMFR5cGVTY3JpcHQlMjB3cml0dGVuJTIwaW4lMjBUeXBlU2NyaXB0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzI5MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxNyUzQTEwJTNBMjclMjAlMkIwMDAw",
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "pubDate": "Sat, 17 Oct 2026 17:10:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXJ0aWUuY29tJTJGY2FyZWVycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFydGllLmNvbSUyRmNhcmVlcnMlN0NBcnRpZSUyMChZQyUyMFMyMyklMjBJcyUyMEhpcmluZyUyMEVudGVycHJpc2UlMjBBRVMlMjBhbmQlMjBTZW5pb3IlMjBFbmdpbmVlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzMjgzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE3JTIwT2N0JTIwMjAyNiUyMDE3JTNBMDIlM0E1MCUyMCUyQjAwMDA",
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "pubDate": "Sat, 17 Oct 2026 17:02:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYxMCUyRjE2JTJGb3BlbmFpLWRpc2Nsb3Nlcy1mb3VyLW1vcmUtcm9ndWUtaW5jaWRlbnRzLWludm9sdmluZy1maW5hbmNpYWwtbWVkaWNhbC1hbmQtZ292ZXJubWVudC1kYXRhJTJGJTdDaHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYxMCUyRjE2JTJGb3BlbmFpLWRpc2Nsb3Nlcy1mb3VyLW1vcmUtcm9ndWUtaW5jaWRlbnRzLWludm9sdmluZy1maW5hbmNpYWwtbWVkaWNhbC1hbmQtZ292ZXJubWVudC1kYXRhJTJGJTdDT3BlbkFJJTIwZGlzY2xvc2VzJTIwZm91ciUyMG1vcmUlMjByb2d1ZSUyMGluY2lkZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTMyNTAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMTYlM0EzMSUzQTEyJTIwJTJCMDAwMA",
+      "title": "OpenAI discloses four more rogue incidents",
+      "pubDate": "Sat, 17 Oct 2026 16:31:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudW5pdmVyc2l0eW9mY2FsaWZvcm5pYS5lZHUlMkZuZXdzJTJGbmV3LXN0dWR5LXNob3dzLXBvcHVsYXItZ2xwLTEtd2VpZ2h0LWxvc3MtZHJ1Zy1tYXktc2xvdy1iaW9sb2dpY2FsLWFnaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cudW5pdmVyc2l0eW9mY2FsaWZvcm5pYS5lZHUlMkZuZXdzJTJGbmV3LXN0dWR5LXNob3dzLXBvcHVsYXItZ2xwLTEtd2VpZ2h0LWxvc3MtZHJ1Zy1tYXktc2xvdy1iaW9sb2dpY2FsLWFnaW5nJTdDR0xQLTElMjBtYXklMjBzbG93JTIwYmlvbG9naWNhbCUyMGFnaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzIzMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxNiUzQTEwJTNBMjElMjAlMkIwMDAw",
+      "title": "GLP-1 may slow biological aging",
+      "pubDate": "Sat, 17 Oct 2026 16:10:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbmRlbW9jcmFjeS5uZXQlMkZhbWF6b24tYWktc3VydmVpbGxhbmNlLW1vbml0b3ItdW5pb24tYWN0aXZpdHktdWstd2FyZWhvdXNlcy1iaXJtaW5naGFtLWNvdmVudHJ5LWF0bGFzLXN1dHRvbi1jb2xkZmllbGQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVuZGVtb2NyYWN5Lm5ldCUyRmFtYXpvbi1haS1zdXJ2ZWlsbGFuY2UtbW9uaXRvci11bmlvbi1hY3Rpdml0eS11ay13YXJlaG91c2VzLWJpcm1pbmdoYW0tY292ZW50cnktYXRsYXMtc3V0dG9uLWNvbGRmaWVsZCUyRiU3Q0FtYXpvbiUyMHVzZXMlMjBBSSUyMHRvJTIwbW9uaXRvciUyMHVuaW9uJTIwcmlzayUyMGluJTIwVUslMjB3YXJlaG91c2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzIyNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxNiUzQTA0JTNBMjMlMjAlMkIwMDAw",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "pubDate": "Sat, 17 Oct 2026 16:04:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZWxlLnJ1biUyRiU3Q2h0dHBzJTNBJTJGJTJGcGVsZS5ydW4lMkYlN0NQZWxlJTIwJUUyJTgwJTkzJTIwTWVybWFpZCUyMGRpYWdyYW1zJTIwYXMlMjB0aGVtZWFibGUlMjBTVkclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzMjE5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE3JTIwT2N0JTIwMjAyNiUyMDE1JTNBNTUlM0EwOSUyMCUyQjAwMDA",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "pubDate": "Sat, 17 Oct 2026 15:55:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHYtbWFnYXppbmUuY29tJTJGMjAyNiUyRjA5JTJGMjklMkZzb2xhci1zdXJwYXNzZXMtbnVjbGVhci1wb3dlci1nbG9iYWxseS1mb3ItZmlyc3QtdGltZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnB2LW1hZ2F6aW5lLmNvbSUyRjIwMjYlMkYwOSUyRjI5JTJGc29sYXItc3VycGFzc2VzLW51Y2xlYXItcG93ZXItZ2xvYmFsbHktZm9yLWZpcnN0LXRpbWUlMkYlN0NTb2xhciUyMHN1cnBhc3NlcyUyMG51Y2xlYXIlMjBwb3dlciUyMGdsb2JhbGx5JTIwZm9yJTIwZmlyc3QlMjB0aW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzEyNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxNCUzQTAxJTNBMDElMjAlMkIwMDAw",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "pubDate": "Sat, 17 Oct 2026 14:01:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlsbHBoeXNpY3NlbmpveWVyLnN1YnN0YWNrLmNvbSUyRnAlMkZtYWtpbmctY2hpY2tlbi10cmFuc3BhcmVudC11c2luZyU3Q2h0dHBzJTNBJTJGJTJGY2hpbGxwaHlzaWNzZW5qb3llci5zdWJzdGFjay5jb20lMkZwJTJGbWFraW5nLWNoaWNrZW4tdHJhbnNwYXJlbnQtdXNpbmclN0NNYWtpbmclMjBjaGlja2VuJTIwdHJhbnNwYXJlbnQlMjB1c2luZyUyMERvcml0byUyMGR1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzMTIxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE3JTIwT2N0JTIwMjAyNiUyMDEzJTNBNTUlM0EyOCUyMCUyQjAwMDA",
+      "title": "Making chicken transparent using Dorito dust",
+      "pubDate": "Sat, 17 Oct 2026 13:55:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWlrcm92ZXJrJTJGZXNwMzJzaW0lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaWtyb3ZlcmslMkZlc3AzMnNpbSU3Q1Nob3clMjBITiUzQSUyMEVzcDMyc2ltJTIwJUUyJTgwJTkzJTIwUnVuJTIwRVNQMzIlMjBmaXJtd2FyZSUyMGluJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTMxMTg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMTMlM0E1MSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "pubDate": "Sat, 17 Oct 2026 13:51:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWxwaGFzZS5naXRodWIuaW8lMkZkdWNrLXBvbmQlMkYlN0NodHRwcyUzQSUyRiUyRmNlbHBoYXNlLmdpdGh1Yi5pbyUyRmR1Y2stcG9uZCUyRiU3Q1Nob3clMjBITiUzQSUyMEhpZ2gtcXVhbGl0eSUyMGR1Y2slMjBhdWRpbyUyMHN5bnRoZXNpemVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzEwMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxMyUzQTI4JTNBNDYlMjAlMkIwMDAw",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "pubDate": "Sat, 17 Oct 2026 13:28:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW5nYWRnZXQuY29tJTJGMjI4ODcyOSUyRm1hcHF1ZXN0LXdpbGwtbm93LXNob3cteW91LXdoZXJlLWZsb2NrLWNhbWVyYXMtYXJlLWluLXlvdXItbmVpZ2hib3Job29kJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZW5nYWRnZXQuY29tJTJGMjI4ODcyOSUyRm1hcHF1ZXN0LXdpbGwtbm93LXNob3cteW91LXdoZXJlLWZsb2NrLWNhbWVyYXMtYXJlLWluLXlvdXItbmVpZ2hib3Job29kJTJGJTdDTWFwUXVlc3QlMjB3aWxsJTIwbm93JTIwc2hvdyUyMHlvdSUyMHdoZXJlJTIwRmxvY2slMjBjYW1lcmFzJTIwYXJlJTIwaW4lMjB5b3VyJTIwbmVpZ2hib3Job29kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjk5NDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxMCUzQTU5JTNBMzElMjAlMkIwMDAw",
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "pubDate": "Sat, 17 Oct 2026 10:59:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3MubmwlMkZ2aWRlbyUyRjI2MzUzMTUtd2lsZGNhbWVyYS1zLXRvbmVuLWhvZS16d2lqbmVuLWVuLWhlcnRlbi16aWNoLWFhbnBhc3Nlbi1hYW4tZGUtd29sZiU3Q2h0dHBzJTNBJTJGJTJGbm9zLm5sJTJGdmlkZW8lMkYyNjM1MzE1LXdpbGRjYW1lcmEtcy10b25lbi1ob2Utendpam5lbi1lbi1oZXJ0ZW4temljaC1hYW5wYXNzZW4tYWFuLWRlLXdvbGYlN0MlMjJUYW1lJTIyJTIwYm9hciUyMGFuZCUyMGRlZXIlMjBhcmUlMjBpbnN0aW5jdGl2ZWx5JTIwYWRhcHRpbmclMjB0byUyMHRoZSUyMHdvbGYlMjBpbiUyMHRoZSUyME5ldGhlcmxhbmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjkyNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAwOSUzQTA4JTNBMTYlMjAlMkIwMDAw",
+      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+      "pubDate": "Sat, 17 Oct 2026 09:08:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
     }
   ]

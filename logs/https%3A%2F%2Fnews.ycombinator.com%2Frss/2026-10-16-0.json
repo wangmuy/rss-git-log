@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 38,
-    "generatedAt": "2026-10-17T12:15:44.785Z"
+    "itemCount": 41,
+    "generatedAt": "2026-10-17T18:34:14.059Z"
   },
   "items": [
     {
@@ -234,6 +234,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhZGVwdHMub2YweC5jYyUyRmV1ZnktaG9tZXN0YXRpb24yLWZpcm13YXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZhZGVwdHMub2YweC5jYyUyRmV1ZnktaG9tZXN0YXRpb24yLWZpcm13YXJlJTJGJTdDQSUyMHN0b3J5JTIwb2YlMjBXaUZpJTIwc2VjcmV0cyUyQyUyMFVBUlQlMjBsb2NrZG93bnMlMjBhbmQlMjBhJTIwZGFtYWdlZCUyMGZsYXNoJTIwbWVtb3J5JTIwY2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTE5NzUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTUlM0EzOCUzQTI4JTIwJTJCMDAwMA",
       "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
       "pubDate": "Fri, 16 Oct 2026 15:38:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMjAyNiUyRjEwJTJGMTklMkZ0aGUtZmlyc3QtY2FuZGlkJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRm1hZ2F6aW5lJTJGMjAyNiUyRjEwJTJGMTklMkZ0aGUtZmlyc3QtY2FuZGlkJTdDVGhlJTIwRmlyc3QlMjBDYW5kaWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMTUwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE3JTNBMjglM0ExOSUyMCUyQjAwMDA",
+      "title": "The First Candid",
+      "pubDate": "Fri, 16 Oct 2026 17:28:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcm96ZW5mcmFjdGFsLmNvbSUyRmJsb2clMkYyMDI2JTJGMTAlMkYxMiUyRmFyb3VuZC10aGUtd29ybGQtMzQtYS1wcmV0dHktc2t5JTJGJTdDaHR0cHMlM0ElMkYlMkZmcm96ZW5mcmFjdGFsLmNvbSUyRmJsb2clMkYyMDI2JTJGMTAlMkYxMiUyRmFyb3VuZC10aGUtd29ybGQtMzQtYS1wcmV0dHktc2t5JTJGJTdDUmVuZGVyaW5nJTIwcHJldHR5JTIwc2t5JTIwaW4lMjBBcm91bmQlMjBUaGUlMjBXb3JsZCUyMGdhbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDExOTMxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE1JTNBMDYlM0E0MyUyMCUyQjAwMDA",
+      "title": "Rendering pretty sky in Around The World game",
+      "pubDate": "Fri, 16 Oct 2026 15:06:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2Z0cGFub3JhbWEub3JnJTJGT0ZNJTJGUGFyYWRpZ20lMkZDaDAzJTJGbm9ydG9uX2NvbW1hbmRlci5zaHRtbCU3Q2h0dHBzJTNBJTJGJTJGc29mdHBhbm9yYW1hLm9yZyUyRk9GTSUyRlBhcmFkaWdtJTJGQ2gwMyUyRm5vcnRvbl9jb21tYW5kZXIuc2h0bWwlN0NUaGUlMjBoaXN0b3J5JTIwb2YlMjBkZXZlbG9wbWVudCUyMG9mJTIwTm9ydG9uJTIwQ29tbWFuZGVyJTIwKDIwMTEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTUzNTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAwNyUzQTQxJTNBMzYlMjAlMkIwMDAw",
+      "title": "The history of development of Norton Commander (2011)",
+      "pubDate": "Fri, 16 Oct 2026 07:41:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]
