@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 46,
-    "generatedAt": "2026-10-18T04:44:33.217Z"
+    "itemCount": 48,
+    "generatedAt": "2026-10-18T12:39:32.429Z"
   },
   "items": [
     {
@@ -282,6 +282,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsZW9kZW1vdXJhLmdpdGh1Yi5pbyUyRmJsb2clMkYyMDI2LTEwLTE1LWxlYW4tbm93LXNoaXBzLXdpdGgtdmVyaWZpZWQta2VybmVscyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGVvZGVtb3VyYS5naXRodWIuaW8lMkZibG9nJTJGMjAyNi0xMC0xNS1sZWFuLW5vdy1zaGlwcy13aXRoLXZlcmlmaWVkLWtlcm5lbHMlMkYlN0NMZWFuJTIwbm93JTIwc2hpcHMlMjB3aXRoJTIwdmVyaWZpZWQlMjBrZXJuZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTQ3NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAwNiUzQTE2JTNBMTMlMjAlMkIwMDAw",
       "title": "Lean now ships with verified kernels",
       "pubDate": "Fri, 16 Oct 2026 06:16:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWFsLWxhbmd1YWdlLm9yZyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVhbC1sYW5ndWFnZS5vcmclMkYlN0NUZWFsJTIwJUUyJTgwJTkzJTIwQSUyMHN0YXRpY2FsbHktdHlwZWQlMjBkaWFsZWN0JTIwb2YlMjBMdWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyNDczMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDIxJTNBMDclM0EyNCUyMCUyQjAwMDA",
+      "title": "Teal – A statically-typed dialect of Lua",
+      "pubDate": "Fri, 16 Oct 2026 21:07:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVnZXhtYXJibGVydW4uY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVnZXhtYXJibGVydW4uY29tJTJGJTdDUmVnZXglMjB2aXN1YWxpemVkJTIwYXMlMjAzRCUyMG1hcmJsZSUyMHJ1biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIyNjcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTglM0E0OCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Regex visualized as 3D marble run",
+      "pubDate": "Fri, 16 Oct 2026 18:48:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]

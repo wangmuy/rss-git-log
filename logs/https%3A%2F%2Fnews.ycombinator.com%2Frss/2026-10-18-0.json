@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-18",
     "newestItemDate": "2026-10-18",
-    "itemCount": 2,
-    "generatedAt": "2026-10-18T04:44:33.217Z"
+    "itemCount": 9,
+    "generatedAt": "2026-10-18T12:39:32.429Z"
   },
   "items": [
     {
@@ -18,6 +18,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnZpZGVvLWdhbWVzJTJGbmV3LXlvcmstcmVwLWFubm91bmNlcy1nYW1lLW93bmVyc2hpcC1iaWxsLXRoYXQtd291bGQtcmVxdWlyZS1jb25zdW1lci1vd25lcnNoaXAtcmF0aGVyLXRoYW4tc2FsZS1vZi1saWNlbnNlcy13b3VsZC1hbHNvLXJlcXVpcmUtcHVibGlzaGVycy10by1rZWVwLXRoZS1nYW1lLWZ1bmN0aW9uYWwtYWZ0ZXItc3VwcG9ydC1lbmRzJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnZpZGVvLWdhbWVzJTJGbmV3LXlvcmstcmVwLWFubm91bmNlcy1nYW1lLW93bmVyc2hpcC1iaWxsLXRoYXQtd291bGQtcmVxdWlyZS1jb25zdW1lci1vd25lcnNoaXAtcmF0aGVyLXRoYW4tc2FsZS1vZi1saWNlbnNlcy13b3VsZC1hbHNvLXJlcXVpcmUtcHVibGlzaGVycy10by1rZWVwLXRoZS1nYW1lLWZ1bmN0aW9uYWwtYWZ0ZXItc3VwcG9ydC1lbmRzJTdDTlklMjBhbm5vdW5jZXMlMjBnYW1lJTIwb3duZXJzaGlwJTIwYmlsbCUyMHJlcXVpcmluZyUyMG93bmVyc2hpcCUyMHJhdGhlciUyMHRoYW4lMjBsaWNlbnNpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzNjUzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDAwJTNBMTQlM0EyMiUyMCUyQjAwMDA",
       "title": "NY announces game ownership bill requiring ownership rather than licensing",
       "pubDate": "Sun, 18 Oct 2026 00:14:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGMHgyMyUyRk1pY3JvTWFuaXB1bGF0b3JTdGVwcGVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGMHgyMyUyRk1pY3JvTWFuaXB1bGF0b3JTdGVwcGVyJTdDT3BlbiUyME1pY3JvTWFuaXB1bGF0b3IlMjAlRTIlODAlOTMlMjBBJTIwc3ViLW1pY3JvbWV0ZXIlMjAzRCUyMG1vdGlvbiUyMGNvbnRyb2wlMjBwbGF0dGZvcm0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0MDAwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDExJTNBMTYlM0EyMiUyMCUyQjAwMDA",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "pubDate": "Sun, 18 Oct 2026 11:16:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaG5vbG9neXJldmlldy5jb20lMkYyMDI2JTJGMTAlMkYxNiUyRjExNDY4MzQlMkZraWRzLWFyZS1vdXRzbWFydGluZy1zb2NpYWwtbWVkaWEtYmFucy10aGF0cy1ub3QtYS1wcm9ibGVtLXdlLW5lZWQtdG8tc29sdmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNobm9sb2d5cmV2aWV3LmNvbSUyRjIwMjYlMkYxMCUyRjE2JTJGMTE0NjgzNCUyRmtpZHMtYXJlLW91dHNtYXJ0aW5nLXNvY2lhbC1tZWRpYS1iYW5zLXRoYXRzLW5vdC1hLXByb2JsZW0td2UtbmVlZC10by1zb2x2ZSUyRiU3Q0tpZHMlMjBhcmUlMjBvdXRzbWFydGluZyUyMHNvY2lhbCUyMG1lZGlhJTIwYmFucy4lMjBUaGF0J3MlMjBub3QlMjBhJTIwcHJvYmxlbSUyMHdlJTIwbmVlZCUyMHRvJTIwc29sdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzOTkzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDExJTNBMDIlM0EyOCUyMCUyQjAwMDA",
+      "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
+      "pubDate": "Sun, 18 Oct 2026 11:02:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmllbWFubGFiLm9yZyUyRjIwMjYlMkYxMCUyRmxlZ2FsLWV4cGVydHMtd2Fybi1tZXRhcy1uZXctdGVybXMtc3RpbGwtZ3JhbnQtYnJvYWQtc2NyYXBpbmctcGVybWlzc2lvbnMtZGVzcGl0ZS1sYW5ndWFnZS1jaGFuZ2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmllbWFubGFiLm9yZyUyRjIwMjYlMkYxMCUyRmxlZ2FsLWV4cGVydHMtd2Fybi1tZXRhcy1uZXctdGVybXMtc3RpbGwtZ3JhbnQtYnJvYWQtc2NyYXBpbmctcGVybWlzc2lvbnMtZGVzcGl0ZS1sYW5ndWFnZS1jaGFuZ2VzJTJGJTdDTGVnYWwlMjBleHBlcnRzJTIwd2FybiUyME1ldGEncyUyMG5ldyUyMHRlcm1zJTIwc3RpbGwlMjBncmFudCUyMGJyb2FkJTIwc2NyYXBpbmclMjBwZXJtaXNzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM5NjkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTglMjBPY3QlMjAyMDI2JTIwMTAlM0EyMSUzQTUxJTIwJTJCMDAwMA",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "pubDate": "Sun, 18 Oct 2026 10:21:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0My5hdCUyRmJsb2clMkYyMDI2LTEwLTE3LXBhcnNlci1jb21iaW5hdG9ycyUyRiU3Q2h0dHBzJTNBJTJGJTJGdDMuYXQlMkZibG9nJTJGMjAyNi0xMC0xNy1wYXJzZXItY29tYmluYXRvcnMlMkYlN0NQYXJzZXIlMjBDb21iaW5hdG9ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM5MDY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTglMjBPY3QlMjAyMDI2JTIwMDglM0ExOSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Parser Combinators",
+      "pubDate": "Sun, 18 Oct 2026 08:19:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcGktZG9jcy5kZWVwc2Vlay5jb20lMkZndWlkZXMlMkZzZWFyY2glMkYlN0NodHRwcyUzQSUyRiUyRmFwaS1kb2NzLmRlZXBzZWVrLmNvbSUyRmd1aWRlcyUyRnNlYXJjaCUyRiU3Q0RlZXBTZWVrJTIwc2VhcmNoJTIwYW5kJTIwZmV0Y2glMjAlRTIlODAlOTMlMjAlMjQwLjc1JTIwcGVyJTIwMTAwMCUyMHN1Y2Nlc3NmdWwlMjByZXF1ZXN0cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM4NTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTglMjBPY3QlMjAyMDI2JTIwMDYlM0E1MCUzQTM2JTIwJTJCMDAwMA",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "pubDate": "Sun, 18 Oct 2026 06:50:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGhpbngtc2l4LXRoZXRhLnZlcmNlbC5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRnNwaGlueC1zaXgtdGhldGEudmVyY2VsLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMFNwaGlueCUyMCVFMiU4MCU5MyUyMEElMjBob29rJTIwdGhhdCUyMHF1aXp6ZXMlMjB5b3UlMjBvbiUyMHlvdXIlMjBBSSdzJTIwY29kZSUyMGJlZm9yZSUyMHNoaXBwaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzc5NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAwNCUzQTMzJTNBNDklMjAlMkIwMDAw",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "pubDate": "Sun, 18 Oct 2026 04:33:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVhZHRoZXByb2ZpbGUuY29tJTJGcCUyRmVsaXphYmV0aC1ob2xtZXMtZG9jdW1lbnRhcnkteW91LWNhbi1zZWUtZXZlcnl0aGluZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJlYWR0aGVwcm9maWxlLmNvbSUyRnAlMkZlbGl6YWJldGgtaG9sbWVzLWRvY3VtZW50YXJ5LXlvdS1jYW4tc2VlLWV2ZXJ5dGhpbmclN0NIb3clMjB0aGUlMjBFbGl6YWJldGglMjBIb2xtZXMlMjBkb2N1bWVudGFyeSUyMCVFMiU4MCU5Q1lvdSUyMENhbiUyMFNlZSUyMEV2ZXJ5dGhpbmclRTIlODAlOUQlMjBpcyUyMGRlY2VpdmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM3NjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTglMjBPY3QlMjAyMDI2JTIwMDMlM0ExOSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "pubDate": "Sun, 18 Oct 2026 03:19:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
     }
   ]

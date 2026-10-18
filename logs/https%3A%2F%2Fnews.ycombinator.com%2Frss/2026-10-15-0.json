@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-15",
     "newestItemDate": "2026-10-15",
-    "itemCount": 53,
-    "generatedAt": "2026-10-18T04:44:33.217Z"
+    "itemCount": 57,
+    "generatedAt": "2026-10-18T12:39:32.429Z"
   },
   "items": [
     {
@@ -324,6 +324,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb3Vyay5jYyUyRnJwMjM1MC1jaGFsbGVuZ2UtbGFzZXIlN0NodHRwcyUzQSUyRiUyRmNvdXJrLmNjJTJGcnAyMzUwLWNoYWxsZW5nZS1sYXNlciU3Q0xhc2VyJTIwRmF1bHQlMjBJbmplY3Rpb24lMjBvbiUyMGElMjBCdWRnZXQlM0ElMjBSUDIzNTAlMjBFZGl0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDE2NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxMCUzQTI0JTNBMTYlMjAlMkIwMDAw",
       "title": "Laser Fault Injection on a Budget: RP2350 Edition",
       "pubDate": "Thu, 15 Oct 2026 10:24:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZubHRpbWVzLm5sJTJGMjAyNiUyRjEwJTJGMTUlMkZ3b3JsZC1maXJzdC1zb3V0aGVybi1ncm91bmQtaG9ybmJpbGwtZ2V0cy0zZC1wcmludGVkLWJlYWstcHJvc3RoZXNlcy1hcnRpcy16b28lN0NodHRwcyUzQSUyRiUyRm5sdGltZXMubmwlMkYyMDI2JTJGMTAlMkYxNSUyRndvcmxkLWZpcnN0LXNvdXRoZXJuLWdyb3VuZC1ob3JuYmlsbC1nZXRzLTNkLXByaW50ZWQtYmVhay1wcm9zdGhlc2VzLWFydGlzLXpvbyU3Q1NvdXRoZXJuJTIwZ3JvdW5kJTIwaG9ybmJpbGwlMjBnZXRzJTIwM0QlMjBwcmludGVkJTIwYmVhayUyMHByb3N0aGVzZXMlMjBhdCUyMEFydGlzJTIwWm9vJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTAwODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAyMCUzQTU1JTNBNDAlMjAlMkIwMDAw",
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "pubDate": "Thu, 15 Oct 2026 20:55:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF2aWRwcml2ZXIuY29tJTJGRnVuLUV4dGVuZGluZy10aGUtQy1QcmVwcm9jZXNzb3IuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRhdmlkcHJpdmVyLmNvbSUyRkZ1bi1FeHRlbmRpbmctdGhlLUMtUHJlcHJvY2Vzc29yLmh0bWwlN0NGdW4lMjBFeHRlbmRpbmclMjB0aGUlMjBDJTIwUHJlcHJvY2Vzc29yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDY3OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxNyUzQTA4JTNBMjYlMjAlMkIwMDAw",
+      "title": "Fun Extending the C Preprocessor",
+      "pubDate": "Thu, 15 Oct 2026 17:08:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoLnBrdS5lZHUuY24lMkZ0ZWFjaGVycyUyRmppYW5nbSUyRmNvdXJzZXMlMkZDRyUyRkxlY3R1cmVzJTJGc3BsaW5lLWhpc3RvcnkucGRmJTdDaHR0cHMlM0ElMkYlMkZtYXRoLnBrdS5lZHUuY24lMkZ0ZWFjaGVycyUyRmppYW5nbSUyRmNvdXJzZXMlMkZDRyUyRkxlY3R1cmVzJTJGc3BsaW5lLWhpc3RvcnkucGRmJTdDQSUyMEhpc3RvcnklMjBvZiUyMEN1cnZlcyUyMGFuZCUyMFN1cmZhY2VzJTIwaW4lMjBDb21wdXRlciUyMEFpZGVkJTIwR2VvbWV0cmljJTIwRGVzaWduJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMDI0ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAxMiUzQTA2JTNBMzglMjAlMkIwMDAw",
+      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+      "pubDate": "Thu, 15 Oct 2026 12:06:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm9va2VyLmNvLnphJTJGYmxvZyUyRjIwMjYlMkYwNyUyRjI5JTJGbG9yZW56LWFuZC1saXR0bGUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYnJvb2tlci5jby56YSUyRmJsb2clMkYyMDI2JTJGMDclMkYyOSUyRmxvcmVuei1hbmQtbGl0dGxlLmh0bWwlN0NMb3JlbnolMjBhbmQlMjBMaXR0bGUlM0ElMjBIb3clMjBNdWNoJTIwRG9lcyUyMFlvdXIlMjBUYWlsJTIwQ29zdCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDk4NDg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTUlMjBPY3QlMjAyMDI2JTIwMDIlM0EzOSUzQTM3JTIwJTJCMDAwMA",
+      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+      "pubDate": "Thu, 15 Oct 2026 02:39:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
     }
   ]
