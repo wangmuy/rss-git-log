@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-17",
     "newestItemDate": "2026-10-17",
-    "itemCount": 20,
-    "generatedAt": "2026-10-17T18:34:14.059Z"
+    "itemCount": 26,
+    "generatedAt": "2026-10-18T04:44:33.217Z"
   },
   "items": [
     {
@@ -126,6 +126,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZub3MubmwlMkZ2aWRlbyUyRjI2MzUzMTUtd2lsZGNhbWVyYS1zLXRvbmVuLWhvZS16d2lqbmVuLWVuLWhlcnRlbi16aWNoLWFhbnBhc3Nlbi1hYW4tZGUtd29sZiU3Q2h0dHBzJTNBJTJGJTJGbm9zLm5sJTJGdmlkZW8lMkYyNjM1MzE1LXdpbGRjYW1lcmEtcy10b25lbi1ob2Utendpam5lbi1lbi1oZXJ0ZW4temljaC1hYW5wYXNzZW4tYWFuLWRlLXdvbGYlN0MlMjJUYW1lJTIyJTIwYm9hciUyMGFuZCUyMGRlZXIlMjBhcmUlMjBpbnN0aW5jdGl2ZWx5JTIwYWRhcHRpbmclMjB0byUyMHRoZSUyMHdvbGYlMjBpbiUyMHRoZSUyME5ldGhlcmxhbmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjkyNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAwOSUzQTA4JTNBMTYlMjAlMkIwMDAw",
       "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
       "pubDate": "Sat, 17 Oct 2026 09:08:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGY29kZXglMkZpc3N1ZXMlMkYyNTkyMSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRmNvZGV4JTJGaXNzdWVzJTJGMjU5MjElN0NDb2RleCUyMERlc2t0b3AlMjBjb250aW51b3VzbHklMjBnZW5lcmF0ZXMlMjBDcmFzaHBhZCUyMHBlbmRpbmclMjBkdW1wcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTMzMjMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMTclM0E0NSUzQTA4JTIwJTJCMDAwMA",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "pubDate": "Sat, 17 Oct 2026 17:45:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVyZWt3ZXNzbWFuLmNvbSUyRmJsb2ctMSUyRm5hdHVyYWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kZXJla3dlc3NtYW4uY29tJTJGYmxvZy0xJTJGbmF0dXJhbCU3Q0klMjBCZWNhbWUlMjBhJTIwQ2l0aXplbiUyMG9mJTIwSmFwYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzMzE1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE3JTIwT2N0JTIwMjAyNiUyMDE3JTNBMzYlM0ExNyUyMCUyQjAwMDA",
+      "title": "I Became a Citizen of Japan",
+      "pubDate": "Sat, 17 Oct 2026 17:36:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnVtaXNtYXRpY25ld3MubmV0JTJGZ29sZC1ub3ctdG9wLXUtcy1leHBvcnQlN0NodHRwcyUzQSUyRiUyRnd3dy5udW1pc21hdGljbmV3cy5uZXQlMkZnb2xkLW5vdy10b3AtdS1zLWV4cG9ydCU3Q0dvbGQlMjBpcyUyMG5vdyUyMHRoZSUyMHRvcCUyMFUuUy4lMjBleHBvcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzMjg3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE3JTIwT2N0JTIwMjAyNiUyMDE3JTNBMDYlM0EwNyUyMCUyQjAwMDA",
+      "title": "Gold is now the top U.S. export",
+      "pubDate": "Sat, 17 Oct 2026 17:06:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZscHZpei5uZXQlMkYlN0NodHRwcyUzQSUyRiUyRmxwdml6Lm5ldCUyRiU3Q0ludGVyYWN0aXZlJTIwTGluZWFyJTIwUHJvZ3JhbW1pbmclMjBpbiUyMHRoZSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzMDM3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE3JTIwT2N0JTIwMjAyNiUyMDEyJTNBMDYlM0E0NCUyMCUyQjAwMDA",
+      "title": "Interactive Linear Programming in the Browser",
+      "pubDate": "Sat, 17 Oct 2026 12:06:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmFsaW1pc2VkJTJGaXZ4diU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnZhbGltaXNlZCUyRml2eHYlN0NTb3VyY2UlMjBjb2RlJTIwb2YlMjB0aGUlMjBFc3RvbmlhbiUyMG9ubGluZSUyMHZvdGluZyUyMHN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTI3NTg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMDMlM0ExOCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Source code of the Estonian online voting system",
+      "pubDate": "Sat, 17 Oct 2026 03:18:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmRhdmlkdi5kZXYlMkZwb3N0cyUyRmZpcnN0LWNvbnRhY3Qtd2l0aC1rOHMlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZGF2aWR2LmRldiUyRnBvc3RzJTJGZmlyc3QtY29udGFjdC13aXRoLWs4cyUyRiU3Q0ElMjBza2VwdGljJ3MlMjBmaXJzdCUyMGNvbnRhY3QlMjB3aXRoJTIwS3ViZXJuZXRlcyUyMCgyMDI0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTI3NTcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMDMlM0ExNiUzQTI1JTIwJTJCMDAwMA",
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "pubDate": "Sat, 17 Oct 2026 03:16:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
     }
   ]

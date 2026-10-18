@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-14",
     "newestItemDate": "2026-10-14",
-    "itemCount": 69,
-    "generatedAt": "2026-10-17T18:34:14.059Z"
+    "itemCount": 72,
+    "generatedAt": "2026-10-18T04:44:33.218Z"
   },
   "items": [
     {
@@ -420,6 +420,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZoaXN0b3J5LW1hdHRlcnMlMkZ0dWRvci1saWZlLXRpbWUtcGxhZ3VlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZoaXN0b3J5LW1hdHRlcnMlMkZ0dWRvci1saWZlLXRpbWUtcGxhZ3VlJTdDQSUyMFR1ZG9yJTIwbGlmZSUyMGluJTIwdGhlJTIwdGltZSUyMG9mJTIwcGxhZ3VlJTIwKDIwMjApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwODIzNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAwNCUzQTIzJTNBMjUlMjAlMkIwMDAw",
       "title": "A Tudor life in the time of plague (2020)",
       "pubDate": "Wed, 14 Oct 2026 04:23:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdmFjdXVsYSUyRnZhY3V1bGElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ2YWN1dWxhJTJGdmFjdXVsYSU3Q0N1c3RvbSUyMHNlcnZlciUyMHRvJTIwcmV2aXZlJTIwbmVhdG8lMjBib3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwOTcyNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAyMyUzQTQ4JTNBMzglMjAlMkIwMDAw",
+      "title": "Custom server to revive neato bots",
+      "pubDate": "Wed, 14 Oct 2026 23:48:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpdGVyLmNhJTJGcG9zdCUyRnBuZyUyRiU3Q2h0dHBzJTNBJTJGJTJGaXRlci5jYSUyRnBvc3QlMkZwbmclMkYlN0NFYWNoJTIwc3RlcCUyMG9mJTIwZGVjb2RpbmclMjBhJTIwUE5HJTIwKDIwMjIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAwOTMwMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxNCUyME9jdCUyMDIwMjYlMjAxOCUzQTUzJTNBMDAlMjAlMkIwMDAw",
+      "title": "Each step of decoding a PNG (2022)",
+      "pubDate": "Wed, 14 Oct 2026 18:53:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aHVuay5ibG9nJTJGcG9zdHMlMkZ0eXBlcy1vZi10eXBlcy1oYXNrZWxsLWtpbmQtc3lzdGVtJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aHVuay5ibG9nJTJGcG9zdHMlMkZ0eXBlcy1vZi10eXBlcy1oYXNrZWxsLWtpbmQtc3lzdGVtJTJGJTdDVHlwZXMlMjBvZiUyMHR5cGVzJTNBJTIwSGFza2VsbCdzJTIwS2luZCUyMHN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMDkwOTI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTQlMjBPY3QlMjAyMDI2JTIwMTclM0EwMCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Types of types: Haskell's Kind system",
+      "pubDate": "Wed, 14 Oct 2026 17:00:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-14-0.json"
     }
   ]
