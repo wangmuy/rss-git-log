@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 48,
-    "generatedAt": "2026-10-18T12:39:32.429Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-18T18:42:29.275Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVnZXhtYXJibGVydW4uY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVnZXhtYXJibGVydW4uY29tJTJGJTdDUmVnZXglMjB2aXN1YWxpemVkJTIwYXMlMjAzRCUyMG1hcmJsZSUyMHJ1biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIyNjcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTglM0E0OCUzQTQ4JTIwJTJCMDAwMA",
       "title": "Regex visualized as 3D marble run",
       "pubDate": "Fri, 16 Oct 2026 18:48:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVyZW15a3VuLmNvbSUyRjIwMjYlMkYxMCUyRjExJTJGY2trcy1hZGRpdGlvbi1hbmQtbXVsdGlwbGljYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5qZXJlbXlrdW4uY29tJTJGMjAyNiUyRjEwJTJGMTElMkZja2tzLWFkZGl0aW9uLWFuZC1tdWx0aXBsaWNhdGlvbiUyRiU3Q0NLS1MlMjAlRTIlODAlOTMlMjBBZGRpdGlvbiUyMGFuZCUyME11bHRpcGxpY2F0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTk4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxNSUzQTQzJTNBNDYlMjAlMkIwMDAw",
+      "title": "CKKS – Addition and Multiplication",
+      "pubDate": "Fri, 16 Oct 2026 15:43:46 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]
