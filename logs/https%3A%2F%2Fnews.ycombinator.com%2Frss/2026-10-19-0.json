@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 3,
-    "generatedAt": "2026-10-19T04:52:50.705Z"
+    "itemCount": 15,
+    "generatedAt": "2026-10-19T15:42:53.582Z"
   },
   "items": [
     {
@@ -24,6 +24,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzYW5pdHlzLWVkZ2Uuc2hvdWRlbi51cyU3Q2h0dHBzJTNBJTJGJTJGc2FuaXR5cy1lZGdlLnNob3VkZW4udXMlMkYlN0NTYW5pdHkncyUyMEVkZ2UlMjAlRTIlODAlOTMlMjBBJTIwdm9pY2UlMjBCQlMlMjBmcm9tJTIwMTk5NCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTQ2OTY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMDAlM0EzMCUzQTM0JTIwJTJCMDAwMA",
       "title": "Sanity's Edge – A voice BBS from 1994",
       "pubDate": "Mon, 19 Oct 2026 00:30:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucnRlLmllJTJGZW50ZXJ0YWlubWVudCUyRjIwMjYlMkYxMDE5JTJGMTU5NTk4MC1rZXZpbi1iYWNvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJ0ZS5pZSUyRmVudGVydGFpbm1lbnQlMkYyMDI2JTJGMTAxOSUyRjE1OTU5ODAta2V2aW4tYmFjb24lMkYlN0NLZXZpbiUyMEJhY29uJ3MlMjBtaXNzaW5nJTIwY2xvdGhlcyUyMGZpbmFsbHklMjBkZWxpdmVyZWQlMjBpbiUyMElyZWxhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE1MzU5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDE1JTNBMjQlM0E0MyUyMCUyQjAwMDA",
+      "title": "Kevin Bacon's missing clothes finally delivered in Ireland",
+      "pubDate": "Mon, 19 Oct 2026 15:24:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9saXRpY28uY29tJTJGbmV3cyUyRm1hZ2F6aW5lJTJGMjAyNiUyRjEwJTJGMTglMkZlZ2ctcHJpY2VzLWNvbnNwaXJhY3ktYWZmb3JkYWJpbGl0eS1pc3N1ZS0wMTEwMDQxMSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBvbGl0aWNvLmNvbSUyRm5ld3MlMkZtYWdhemluZSUyRjIwMjYlMkYxMCUyRjE4JTJGZWdnLXByaWNlcy1jb25zcGlyYWN5LWFmZm9yZGFiaWxpdHktaXNzdWUtMDExMDA0MTElN0NNYXliZSUyMFRoZXJlJTIwV2FzJTIwYW4lMjBFZ2clMjBDYXJ0ZWwlMjBBZnRlciUyMEFsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUyOTcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTQlM0EzMSUzQTExJTIwJTJCMDAwMA",
+      "title": "Maybe There Was an Egg Cartel After All",
+      "pubDate": "Mon, 19 Oct 2026 14:31:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2l2aWRiaW8lMkZraXZpZGIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZraXZpZGJpbyUyRmtpdmlkYiU3Q1Nob3clMjBITiUzQSUyMEtpdmlEQiUyQyUyMGElMjBmYXN0ZXIlMjBSZWRpcy1jb21wYXRpYmxlJTIwbWVtb3J5JTIwZGF0YWJhc2UlMjBhbmQlMjB2ZWN0b3IlMjBjYWNoZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUyNTQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTMlM0E1MyUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "pubDate": "Mon, 19 Oct 2026 13:53:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJjLmluZm8lMkYlM0ZsJTNEb3BlbmJzZC1wb3J0cyUyNm0lM0QxNzkyMzYxMjU2OTIxNzUlN0NodHRwcyUzQSUyRiUyRm1hcmMuaW5mbyUyRiUzRmwlM0RvcGVuYnNkLXBvcnRzJTI2bSUzRDE3OTIzNjEyNTY5MjE3NSU3Q1dpbmUlMjBQb3J0ZWQlMjB0byUyME9wZW5CU0QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE1MjMwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDEzJTNBMzUlM0EzNCUyMCUyQjAwMDA",
+      "title": "Wine Ported to OpenBSD",
+      "pubDate": "Mon, 19 Oct 2026 13:35:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYxMDB0b29sa2l0LmNvbSUyRmJsb2clMkZkZXNsb3AtbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRjEwMHRvb2xraXQuY29tJTJGYmxvZyUyRmRlc2xvcC1tb2RlbCUyRiU3Q1Nob3clMjBITiUzQSUyMFF3ZW4zLTRCJTIwd2l0aCUyMHRoZSUyMEFJJTIwd3JpdGluZyUyMHRpY3MlMjB0cmFpbmVkJTIwb3V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTE5MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxMyUzQTAwJTNBNDclMjAlMkIwMDAw",
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "pubDate": "Mon, 19 Oct 2026 13:00:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ29vZ2xlLXJlc2VhcmNoJTJGaGFybmVzczIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZnb29nbGUtcmVzZWFyY2glMkZoYXJuZXNzMiU3Q0hhcm5lc3MyJTIwYnklMjBHb29nbGUlMjBSZXNlYXJjaCUyMCVFMiU4MCU5MyUyMFJlY3Vyc2l2ZSUyMEFnZW50JTIwSGFybmVzc2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUxMDU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTElM0EyOCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+      "pubDate": "Mon, 19 Oct 2026 11:28:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmVzYS1oZXJhLWRpbW9ycGhvcy1yZW5kZXp2b3VzJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmVzYS1oZXJhLWRpbW9ycGhvcy1yZW5kZXp2b3VzJTdDRVNBJ3MlMjBIZXJhJTIwV2lsbCUyMFZpZXclMjBBc3Rlcm9pZCUyMFNjYXJzJTIwZnJvbSUyMERBUlQncyUyMFN0cmlrZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUwOTM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTElM0ExMiUzQTAyJTIwJTJCMDAwMA",
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "pubDate": "Mon, 19 Oct 2026 11:12:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFsdGVybmF0aXZlcy10by1hbmltYWwtdGVzdGluZyU3Q2h0dHBzJTNBJTJGJTJGc3BlY3RydW0uaWVlZS5vcmclMkZhbHRlcm5hdGl2ZXMtdG8tYW5pbWFsLXRlc3RpbmclN0NBbHRlcm5hdGl2ZXMlMjB0byUyMEFuaW1hbCUyMFRlc3RpbmclMjBBcmUlMjBGaW5hbGx5JTIwVGFraW5nJTIwT2ZmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTA5MjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxMSUzQTEwJTNBNTQlMjAlMkIwMDAw",
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "pubDate": "Mon, 19 Oct 2026 11:10:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tdW5pdHkubGV0c2VuY3J5cHQub3JnJTJGdCUyRmxldHMtZW5jcnlwdC1pcy1hZGRpbmctdHdvLWFkZGl0aW9uYWwtcmVtb3RlLXBlcnNwZWN0aXZlcy1mb3ItZG9tYWluLXZhbGlkYXRpb24lMkYyNTIxNjYlN0NodHRwcyUzQSUyRiUyRmNvbW11bml0eS5sZXRzZW5jcnlwdC5vcmclMkZ0JTJGbGV0cy1lbmNyeXB0LWlzLWFkZGluZy10d28tYWRkaXRpb25hbC1yZW1vdGUtcGVyc3BlY3RpdmVzLWZvci1kb21haW4tdmFsaWRhdGlvbiUyRjI1MjE2NiU3Q0xldCdzJTIwRW5jcnlwdCUyMGlzJTIwYWRkaW5nJTIwdHdvJTIwYWRkaXRpb25hbCUyMHJlbW90ZSUyMHBlcnNwZWN0aXZlcyUyMGZvciUyMGRvbWFpbiUyMHZhbGlkYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE1MDgwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDEwJTNBNTMlM0EzOSUyMCUyQjAwMDA",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "pubDate": "Mon, 19 Oct 2026 10:53:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRnRpbWVzdHJhbCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWlzdHJhbC5haSUyRm5ld3MlMkZ0aW1lc3RyYWwlMkYlN0NUaW1lc3RyYWwlM0ElMjBNaXN0cmFsJTIwcmVsZWFzZSUyMHRpbWUtc2VyaWVzJTIwZm91bmRhdGlvbiUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUwNDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMDklM0E1OSUzQTMyJTIwJTJCMDAwMA",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "pubDate": "Mon, 19 Oct 2026 09:59:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMTAxMTQzJTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMTAxMTQzJTJGJTdDTGludXglMjA3LjMlMjBSZWxlYXNlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTQ5MzkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMDclM0EyMyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Linux 7.3 Released",
+      "pubDate": "Mon, 19 Oct 2026 07:23:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcnlzdGwuZGV2JTJGZ3VpZGVzJTJGdG11eC1mb3ItYWktYWdlbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZjcnlzdGwuZGV2JTJGZ3VpZGVzJTJGdG11eC1mb3ItYWktYWdlbnRzJTJGJTdDVG11eCUyMGFuZCUyMENsYXVkZSUyMENvZGUlM0ElMjBTZXNzaW9ucyUyQyUyMFNlbmQtS2V5cyUyQyUyMGFuZCUyMHRoZSUyMENlaWxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0ODg1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDA1JTNBNTUlM0EzMSUyMCUyQjAwMDA",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "pubDate": "Mon, 19 Oct 2026 05:55:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]
