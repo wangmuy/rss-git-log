@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-15",
     "newestItemDate": "2026-10-15",
-    "itemCount": 58,
-    "generatedAt": "2026-10-18T18:42:29.276Z"
+    "itemCount": 61,
+    "generatedAt": "2026-10-19T04:52:50.706Z"
   },
   "items": [
     {
@@ -354,6 +354,24 @@
       "itemId": "aHR0cCUzQSUyRiUyRnd3dy5pYmlibGlvLm9yZyUyRmVsZHJpdGNoJTJGbmhiJTJGcGFwZXJjJTJGaW50cm8uaHRtbCU3Q2h0dHAlM0ElMkYlMkZ3d3cuaWJpYmxpby5vcmclMkZlbGRyaXRjaCUyRm5oYiUyRnBhcGVyYyUyRmludHJvLmh0bWwlN0NWb3lhZ2UlMjBvZiUyMHRoZSUyMFBhcGVyJTIwQ2Fub2UlM0ElMjAyNTAwJTIwTWlsZXMlMjBmcm9tJTIwUXVlYmVjJTIwdG8lMjB0aGUlMjBHdWxmJTIwb2YlMjBNZXhpY28lMkMlMjAxODc0LTUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwODE2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE4JTNBMzQlM0EwOSUyMCUyQjAwMDA",
       "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
       "pubDate": "Thu, 15 Oct 2026 18:34:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFkZG94LnBybyUyRiUzRnAlM0Q0NDglN0NodHRwcyUzQSUyRiUyRnd3dy5tYWRkb3gucHJvJTJGJTNGcCUzRDQ0OCU3Q0xhcHRvcCUyMEJhc2VkJTIwb24lMjA2NTAyJTIwQ1BVJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTE1MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxNSUyME9jdCUyMDIwMjYlMjAyMiUzQTU2JTNBMjMlMjAlMkIwMDAw",
+      "title": "Laptop Based on 6502 CPU",
+      "pubDate": "Thu, 15 Oct 2026 22:56:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzd2FyYW5nYS5kZXYlMkZwb3N0cyUyRm9uLWxvbWJvayUyRiU3Q2h0dHBzJTNBJTJGJTJGc3dhcmFuZ2EuZGV2JTJGcG9zdHMlMkZvbi1sb21ib2slMkYlN0NMb21ib2slMjBJcyUyMFN0aWxsJTIwUmVsZXZhbnQlMjBpbiUyMHRoZSUyMEFnZSUyMG9mJTIwSmF2YSUyMFJlY29yZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEwNzg0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDE4JTNBMTUlM0EyMyUyMCUyQjAwMDA",
+      "title": "Lombok Is Still Relevant in the Age of Java Records",
+      "pubDate": "Thu, 15 Oct 2026 18:15:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RPSjFXWXlPMmpkWSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNET0oxV1l5TzJqZFklN0MxNi1iaXQlMjBmdWxseSUyMGZ1bmN0aW9uYWwlMjBESVklMjBtYWduZXRpYyUyMGNvcmUlMjBtZW1vcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDA5ODE0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE1JTIwT2N0JTIwMjAyNiUyMDAxJTNBNTElM0EwMiUyMCUyQjAwMDA",
+      "title": "16-bit fully functional DIY magnetic core memory",
+      "pubDate": "Thu, 15 Oct 2026 01:51:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-15-0.json"
     }
   ]

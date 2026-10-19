@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 49,
-    "generatedAt": "2026-10-18T18:42:29.275Z"
+    "itemCount": 53,
+    "generatedAt": "2026-10-19T04:52:50.706Z"
   },
   "items": [
     {
@@ -300,6 +300,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVyZW15a3VuLmNvbSUyRjIwMjYlMkYxMCUyRjExJTJGY2trcy1hZGRpdGlvbi1hbmQtbXVsdGlwbGljYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5qZXJlbXlrdW4uY29tJTJGMjAyNiUyRjEwJTJGMTElMkZja2tzLWFkZGl0aW9uLWFuZC1tdWx0aXBsaWNhdGlvbiUyRiU3Q0NLS1MlMjAlRTIlODAlOTMlMjBBZGRpdGlvbiUyMGFuZCUyME11bHRpcGxpY2F0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTk4MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxNSUzQTQzJTNBNDYlMjAlMkIwMDAw",
       "title": "CKKS – Addition and Multiplication",
       "pubDate": "Fri, 16 Oct 2026 15:43:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbnMubXVzZXVtJTdDaHR0cHMlM0ElMkYlMkZkbnMubXVzZXVtJTJGJTdDVGhlJTIwRE5TJTIwTXVzZXVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjU1NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAyMiUzQTIxJTNBMzQlMjAlMkIwMDAw",
+      "title": "The DNS Museum",
+      "pubDate": "Fri, 16 Oct 2026 22:21:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGdHJhZGl0aW9uYWwtYnV0LXB1enpsaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ1bnN1bmcuYXJlc2x1bmEub3JnJTJGdHJhZGl0aW9uYWwtYnV0LXB1enpsaW5nJTJGJTdDJTIyVHJhZGl0aW9uYWwlMkMlMjBidXQlMjBQdXp6bGluZyUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTIzMTIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTYlMjBPY3QlMjAyMDI2JTIwMTklM0ExNyUzQTIzJTIwJTJCMDAwMA",
+      "title": "\"Traditional, but Puzzling\"",
+      "pubDate": "Fri, 16 Oct 2026 19:17:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWVudGlua2Fpc2VyLmJlJTJGc2VjdXJpdHklMkYyMDI2JTJGMTAlMkYxNiUyRm9uZS1wYXJzZXItdHdvLWJ1Z3MlMkYlN0NodHRwcyUzQSUyRiUyRnF1ZW50aW5rYWlzZXIuYmUlMkZzZWN1cml0eSUyRjIwMjYlMkYxMCUyRjE2JTJGb25lLXBhcnNlci10d28tYnVncyUyRiU3Q09uZSUyMHBhcnNlciUyQyUyMHR3byUyMGJ1Z3MlMkMlMjBtYW55JTIwcm91dGVycyUzQSUyMEV4cGxvaXRpbmclMjBCcm9hZGNvbSUyMFdpRmklMjBhY3Jvc3MlMjBlQ29zJTJDJTIwTGludXglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEyMjA1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDE2JTIwT2N0JTIwMjAyNiUyMDE4JTNBMDclM0E0NCUyMCUyQjAwMDA",
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "pubDate": "Fri, 16 Oct 2026 18:07:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYxNiUyRnVzJTJGbWF0aC1haS10ZXJlbmNlLXRhby5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYxNiUyRnVzJTJGbWF0aC1haS10ZXJlbmNlLXRhby5odG1sJTdDJTIySSdtJTIwb24lMjBhJTIwd2FyJTIwZm9vdGluZyUyMiUzQSUyMFRlcnJ5JTIwVGFvJTIwYW5kJTIwdGhlJTIwY3Jpc2lzJTIwaW4lMjBtYXRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMTgxNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxMyUzQTMwJTNBMjAlMjAlMkIwMDAw",
+      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+      "pubDate": "Fri, 16 Oct 2026 13:30:20 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]

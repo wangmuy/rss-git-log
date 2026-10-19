@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-18",
     "newestItemDate": "2026-10-18",
-    "itemCount": 22,
-    "generatedAt": "2026-10-18T18:42:29.275Z"
+    "itemCount": 31,
+    "generatedAt": "2026-10-19T04:52:50.705Z"
   },
   "items": [
     {
@@ -138,6 +138,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyaWJsZXNvZnR3YXJlLm9yZyUyRjIwMjYlMkYxMCUyRjAyJTJGdGhlLWJyYWluLXNhbmR3aWNoJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJyaWJsZXNvZnR3YXJlLm9yZyUyRjIwMjYlMkYxMCUyRjAyJTJGdGhlLWJyYWluLXNhbmR3aWNoJTJGJTdDVGhlJTIwQnJhaW4lMjBTYW5kd2ljaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM5OTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTglMjBPY3QlMjAyMDI2JTIwMTElM0ExNSUzQTM3JTIwJTJCMDAwMA",
       "title": "The Brain Sandwich",
       "pubDate": "Sun, 18 Oct 2026 11:15:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2xvLnRvJTJGY3liZXJzcGFjZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZjb2xvLnRvJTJGY3liZXJzcGFjZS5odG1sJTdDV2lsbGlhbSUyMEdpYnNvbiUyMGFuZCUyMHRoZSUyMHRyYWRlbWFya2luZyUyMG9mJTIwY3liZXJzcGFjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTQ2NjI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTglMjBPY3QlMjAyMDI2JTIwMjMlM0EzNyUzQTU3JTIwJTJCMDAwMA",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "pubDate": "Sun, 18 Oct 2026 23:37:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Npcy5vcmclMkZhbmFseXNpcyUyRmhvdy1xdWlja2x5LWNhbi1kb2QtcmVidWlsZC1hbmQtcmVjYXN0LW11bml0aW9ucy1pbmR1c3RyaWFsLWJhc2UlN0NodHRwcyUzQSUyRiUyRnd3dy5jc2lzLm9yZyUyRmFuYWx5c2lzJTJGaG93LXF1aWNrbHktY2FuLWRvZC1yZWJ1aWxkLWFuZC1yZWNhc3QtbXVuaXRpb25zLWluZHVzdHJpYWwtYmFzZSU3Q0hvdyUyMFF1aWNrbHklMjBDYW4lMjB0aGUlMjBEb0QlMjBSZWJ1aWxkJTIwYW5kJTIwUmVjYXN0JTIwdGhlJTIwTXVuaXRpb25zJTIwSW5kdXN0cmlhbCUyMEJhc2UlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0NjYyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDIzJTNBMzclM0E1NCUyMCUyQjAwMDA",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "pubDate": "Sun, 18 Oct 2026 23:37:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZmluZXJlbGklMkZ3aGF0c2FwcC1tY3AlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmaW5lcmVsaSUyRndoYXRzYXBwLW1jcCU3Q1Nob3clMjBITiUzQSUyMFdoYXRzQXBwJTIwTUNQJTIwcnVubmluZyUyMGZyZWUlMjBvbiUyMENsb3VkZmxhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0NTcxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDIxJTNBMzYlM0ExMCUyMCUyQjAwMDA",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "pubDate": "Sun, 18 Oct 2026 21:36:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqcmRzZ2wuY29tJTJGaWYteW91LWRvbnQtcnVuLXlvdXItb3duLWxsbS1wcm94eS1ob3ctdGhlLWZ1Y2stZG8teW91LWV2ZW4ta25vdy13aGF0cy1nb2luZy1vbiUyRiU3Q2h0dHBzJTNBJTJGJTJGanJkc2dsLmNvbSUyRmlmLXlvdS1kb250LXJ1bi15b3VyLW93bi1sbG0tcHJveHktaG93LXRoZS1mdWNrLWRvLXlvdS1ldmVuLWtub3ctd2hhdHMtZ29pbmctb24lMkYlN0NJZiUyMHlvdSUyMGRvbid0JTIwcnVuJTIweW91ciUyMG93biUyMExMTSUyMHByb3h5JTJDJTIwaG93JTIwZG8lMjB5b3UlMjBrbm93JTIwd2hhdHMlMjBnb2luZyUyMG9uJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNDU1MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAyMSUzQTA5JTNBMTIlMjAlMkIwMDAw",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "pubDate": "Sun, 18 Oct 2026 21:09:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjE4ODYxJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjE4ODYxJTdDSHlicmlkJTIwUmVhc29uaW5nJTIwQWdlbnRzJTNBJTIwTExNJTIwYWdlbnRzJTIwdGhhdCUyMHRoaW5rJTIwaW4lMjBsYXRlbnQlMjBzcGFjZSUyQyUyMGFjdCUyMHRocm91Z2glMjB0ZXh0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNDUzMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAyMCUzQTQ4JTNBMTQlMjAlMkIwMDAw",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "pubDate": "Sun, 18 Oct 2026 20:48:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2V0bGF6YXJ1cy5vcmclMkZkeW5hbWljJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ2V0bGF6YXJ1cy5vcmclMkZkeW5hbWljJTJGJTdDRnJlZSUyMFBhc2NhbCUyMGNvbXBpbGVyJTIwbm93JTIwc3VwcG9ydHMlMjBkeW5hbWljJTIwcGFja2FnZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0NDA2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDE4JTNBNDglM0EwNCUyMCUyQjAwMDA",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "pubDate": "Sun, 18 Oct 2026 18:48:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXJkaXJpJTJGcGFsbW9zLWxlbW1pbmdzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXJkaXJpJTJGcGFsbW9zLWxlbW1pbmdzJTdDUGFsbU9TJTIwTGVtbWluZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0MzUzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDE3JTNBNTYlM0E1OSUyMCUyQjAwMDA",
+      "title": "PalmOS Lemmings",
+      "pubDate": "Sun, 18 Oct 2026 17:56:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXJkYWdvbi5kZXYlMkZibG9nJTJGcmV2ZXJzZS1ib3Jyb3ctY2hlY2tpbmclN0NodHRwcyUzQSUyRiUyRnZlcmRhZ29uLmRldiUyRmJsb2clMkZyZXZlcnNlLWJvcnJvdy1jaGVja2luZyU3Q0ElMjBuZXclMjB3YXklMjB0byUyMHRoaW5rJTIwYWJvdXQlMjBib3Jyb3clMjBjaGVja2luZyUyMChpbiUyMHJldmVyc2UpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNDAzODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAxMiUzQTExJTNBMTMlMjAlMkIwMDAw",
+      "title": "A new way to think about borrow checking (in reverse)",
+      "pubDate": "Sun, 18 Oct 2026 12:11:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWFsZXJ0LmNvbSUyRmRvZ3Mtc2VlbS10by1hZ3JlZS13aXRoLWh1bWFucy10aGF0LWJvdWJhLWlzLXJvdW5kLWFuZC1raWtpLWlzLXNwaWt5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWFsZXJ0LmNvbSUyRmRvZ3Mtc2VlbS10by1hZ3JlZS13aXRoLWh1bWFucy10aGF0LWJvdWJhLWlzLXJvdW5kLWFuZC1raWtpLWlzLXNwaWt5JTdDRG9ncyUyMHNlZW0lMjB0byUyMGFncmVlJTIwd2l0aCUyMGh1bWFucyUyMHRoYXQlMjAnYm91YmEnJTIwaXMlMjByb3VuZCUyMGFuZCUyMCdraWtpJyUyMGlzJTIwc3Bpa3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzNjk3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDAxJTNBMzglM0EwOCUyMCUyQjAwMDA",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "pubDate": "Sun, 18 Oct 2026 01:38:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
     }
   ]
