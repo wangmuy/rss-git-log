@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-17",
     "newestItemDate": "2026-10-17",
-    "itemCount": 32,
-    "generatedAt": "2026-10-19T15:42:53.582Z"
+    "itemCount": 36,
+    "generatedAt": "2026-10-19T21:08:55.615Z"
   },
   "items": [
     {
@@ -198,6 +198,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTEwLXJhYmJpdHMtbWVkaWV2YWwtcm95YWwtbHV4dXJ5LWVuZ2xhbmQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGcGh5cy5vcmclMkZuZXdzJTJGMjAyNi0xMC1yYWJiaXRzLW1lZGlldmFsLXJveWFsLWx1eHVyeS1lbmdsYW5kLmh0bWwlN0NSYWJiaXRzJTIwd2VyZSUyMGElMjBtZWRpZXZhbCUyMHJveWFsJTIwbHV4dXJ5JTIwaW4lMjBFbmdsYW5kJTIwdW50aWwlMjB0aGUlMjBCbGFjayUyMERlYXRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzEzMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAxNCUzQTA3JTNBMzYlMjAlMkIwMDAw",
       "title": "Rabbits were a medieval royal luxury in England until the Black Death",
       "pubDate": "Sat, 17 Oct 2026 14:07:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RjTm00enlVdFdqMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEY05tNHp5VXRXajAlN0NSdW5lU2NhcGUlMjBCZW5jaCUzQSUyME1NT3MlMjBmb3IlMjBBZ2VudHMlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM2MTI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMjMlM0EyNCUzQTA1JTIwJTJCMDAwMA",
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "pubDate": "Sat, 17 Oct 2026 23:24:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaHJpc2tpZWhsLmNvbSUyRmFydGljbGUlMkZpdC1pcy1zdGlsbC1vay10by1lbmpveS1wcm9ncmFtbWluZyU3Q2h0dHBzJTNBJTJGJTJGY2hyaXNraWVobC5jb20lMkZhcnRpY2xlJTJGaXQtaXMtc3RpbGwtb2stdG8tZW5qb3ktcHJvZ3JhbW1pbmclN0NJdCdzJTIwc3RpbGwlMjBvayUyMHRvJTIwZW5qb3klMjBwcm9ncmFtbWluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM0NDcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMTklM0E1MyUzQTIwJTIwJTJCMDAwMA",
+      "title": "It's still ok to enjoy programming",
+      "pubDate": "Sat, 17 Oct 2026 19:53:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnNpZGVjbGltYXRlbmV3cy5vcmclMkZuZXdzJTJGMTQxMDIwMjYlMkZldGhveHlxdWluLWZpcmUtcmV0YXJkYW50LWluLXNlYWZvb2QtY2hhaW4lMkYlN0NodHRwcyUzQSUyRiUyRmluc2lkZWNsaW1hdGVuZXdzLm9yZyUyRm5ld3MlMkYxNDEwMjAyNiUyRmV0aG94eXF1aW4tZmlyZS1yZXRhcmRhbnQtaW4tc2VhZm9vZC1jaGFpbiUyRiU3Q1RoZSUyMGZpcmUlMjByZXRhcmRhbnQlMjBpbiUyMHRoZSUyMHNlYWZvb2QlMjBjaGFpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTM0MzU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTclMjBPY3QlMjAyMDI2JTIwMTklM0EzNyUzQTU0JTIwJTJCMDAwMA",
+      "title": "The fire retardant in the seafood chain",
+      "pubDate": "Sat, 17 Oct 2026 19:37:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3MudWFmLmVkdSUyRjIwMTUlMkZzcHJpbmclMkZjczQ2MyUyRmxlY3R1cmUlMkYwM18yM19BRVMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNzLnVhZi5lZHUlMkYyMDE1JTJGc3ByaW5nJTJGY3M0NjMlMkZsZWN0dXJlJTJGMDNfMjNfQUVTLmh0bWwlN0NHYWxvaXMlMjBGaW5pdGUlMjBGaWVsZHMlMjBhbmQlMjB0aGUlMjBBZHZhbmNlZCUyMEVuY3J5cHRpb24lMjBTdGFuZGFyZCUyMChBRVMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjkxMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNyUyME9jdCUyMDIwMjYlMjAwOCUzQTM0JTNBMzElMjAlMkIwMDAw",
+      "title": "Galois Finite Fields and the Advanced Encryption Standard (AES)",
+      "pubDate": "Sat, 17 Oct 2026 08:34:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-17-0.json"
     }
   ]
