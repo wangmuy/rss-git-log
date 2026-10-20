@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-16",
     "newestItemDate": "2026-10-16",
-    "itemCount": 56,
-    "generatedAt": "2026-10-19T21:08:55.615Z"
+    "itemCount": 57,
+    "generatedAt": "2026-10-20T13:39:47.005Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVmbG9hdGluZ2NvbnRpbmVudC5jb20lMkZibG9nJTJGY3JlZGl0LWlzLWR1ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlZmxvYXRpbmdjb250aW5lbnQuY29tJTJGYmxvZyUyRmNyZWRpdC1pcy1kdWUlMkYlN0NDcmVkaXQlMjB3aGVyZSUyMGNyZWRpdCUyMGlzJTIwZHVlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjE4MzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxNyUzQTUzJTNBMDUlMjAlMkIwMDAw",
       "title": "Credit where credit is due",
       "pubDate": "Fri, 16 Oct 2026 17:53:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMDglMkYxNSUyRm55cmVnaW9uJTJGbnljLXN0cmVldC1zaWduLXNob3AuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjA4JTJGMTUlMkZueXJlZ2lvbiUyRm55Yy1zdHJlZXQtc2lnbi1zaG9wLmh0bWwlN0NUaGVyZSUyMEFyZSUyMG92ZXIlMjAxTSUyME5ldyUyMFlvcmslMjBDaXR5JTIwU3RyZWV0JTIwU2lnbnMuJTIwSGVyZSdzJTIwSG93JTIwVGhleSUyMEFyZSUyME1hZGUuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMjA3NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxNiUyME9jdCUyMDIwMjYlMjAxNiUzQTQyJTNBNDglMjAlMkIwMDAw",
+      "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
+      "pubDate": "Fri, 16 Oct 2026 16:42:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-16-0.json"
     }
   ]

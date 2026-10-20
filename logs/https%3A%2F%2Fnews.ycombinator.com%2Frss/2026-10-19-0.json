@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 46,
-    "generatedAt": "2026-10-20T05:00:38.923Z"
+    "itemCount": 50,
+    "generatedAt": "2026-10-20T13:39:47.004Z"
   },
   "items": [
     {
@@ -282,6 +282,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZiZW5qYW1pbmNvbmdkb24ubWUlMkZibG9nJTJGMjAyNiUyRjEwJTJGMTklMkZBZ2VudGljLU1vbml0b3JpbmclMkYlN0NodHRwcyUzQSUyRiUyRmJlbmphbWluY29uZ2Rvbi5tZSUyRmJsb2clMkYyMDI2JTJGMTAlMkYxOSUyRkFnZW50aWMtTW9uaXRvcmluZyUyRiU3Q0FnZW50aWMlMjBNb25pdG9yaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTMyMjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxNCUzQTUyJTNBMDQlMjAlMkIwMDAw",
       "title": "Agentic Monitoring",
       "pubDate": "Mon, 19 Oct 2026 14:52:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9qZWN0ZGlzY292ZXJ5LmlvJTJGcmVzZWFyY2glMkZob3ctYWJsaXRlcmF0ZWQtbW9kZWxzLWNhbi1nZXQteW91LXB3bmVkJTdDaHR0cHMlM0ElMkYlMkZwcm9qZWN0ZGlzY292ZXJ5LmlvJTJGcmVzZWFyY2glMkZob3ctYWJsaXRlcmF0ZWQtbW9kZWxzLWNhbi1nZXQteW91LXB3bmVkJTdDSG93JTIwYWJsaXRlcmF0ZWQlMjBtb2RlbHMlMjBjYW4lMjBnZXQlMjB5b3UlMjBwd25lZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTU5MjQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMjMlM0EwOCUzQTUyJTIwJTJCMDAwMA",
+      "title": "How abliterated models can get you pwned",
+      "pubDate": "Mon, 19 Oct 2026 23:08:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYnVmZmV0dC5jb20lMkZwb3N0cyUyRm1vc3QtaHVtYW4tY2hlc3MtYm90JTdDaHR0cHMlM0ElMkYlMkZtYnVmZmV0dC5jb20lMkZwb3N0cyUyRm1vc3QtaHVtYW4tY2hlc3MtYm90JTdDU3BlbmRpbmclMjAxMCUyMG1vbnRocyUyMGJ1aWxkaW5nJTIwdGhlJTIwbW9zdCUyMGh1bWFuLWxpa2UlMjBjaGVzcyUyMGJvdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTU0NDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTYlM0EzMCUzQTQxJTIwJTJCMDAwMA",
+      "title": "Spending 10 months building the most human-like chess bot",
+      "pubDate": "Mon, 19 Oct 2026 16:30:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZXltYXh3ZWxsLmFpJTJGJTdDaHR0cHMlM0ElMkYlMkZoZXltYXh3ZWxsLmFpJTJGJTdDTWF4d2VsbCUzQSUyMEElMjBuZXclMjBraW5kJTIwb2YlMjBtb2RlbCUyMHRoYXQlMjBzaXRzJTIwYmV0d2VlbiUyMGNvZGUlMjBhbmQlMjBoYXJkd2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUyNDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTMlM0E0NyUzQTU2JTIwJTJCMDAwMA",
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "pubDate": "Mon, 19 Oct 2026 13:47:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbGF0d2F0ZXJmcmVlcHJlc3Mub3JnJTJGZGVyLXZpZW5lci1zY2hsaW5nZXItdGhlLW1lYXQtY2Fubm9uLXRoYXQtbGF1bmNoZWQtMjAwMDAtaG90LWRvZ3MlMkYlN0NodHRwcyUzQSUyRiUyRmZsYXR3YXRlcmZyZWVwcmVzcy5vcmclMkZkZXItdmllbmVyLXNjaGxpbmdlci10aGUtbWVhdC1jYW5ub24tdGhhdC1sYXVuY2hlZC0yMDAwMC1ob3QtZG9ncyUyRiU3QydEZXIlMjBWaWVuZXIlMjBTY2hsaW5nZXInJTNBJTIwVGhlJTIwbWVhdCUyMGNhbm5vbiUyMHRoYXQlMjBsYXVuY2hlZCUyMDIwayUyMGhvdCUyMGRvZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0NzAzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDAwJTNBNDMlM0EwMSUyMCUyQjAwMDA",
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "pubDate": "Mon, 19 Oct 2026 00:43:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]

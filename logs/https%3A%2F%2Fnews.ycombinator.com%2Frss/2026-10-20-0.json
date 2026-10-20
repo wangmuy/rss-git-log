@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 6,
-    "generatedAt": "2026-10-20T05:00:38.923Z"
+    "itemCount": 13,
+    "generatedAt": "2026-10-20T13:39:47.004Z"
   },
   "items": [
     {
@@ -42,6 +42,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZpcGluZm8uaW8lMkZibG9nJTJGZnJhbmNlLWZyaWRnZXMtaGFjayU3Q2h0dHBzJTNBJTJGJTJGaXBpbmZvLmlvJTJGYmxvZyUyRmZyYW5jZS1mcmlkZ2VzLWhhY2slN0NGcmFuY2UncyUyMHN1cGVybWFya2V0JTIwZnJpZGdlcyUyMHdlcmUlMjB2dWxuZXJhYmxlJTIwb25saW5lJTIwZm9yJTIwbW9udGhzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTk2MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAwMCUzQTAwJTNBNDklMjAlMkIwMDAw",
       "title": "France's supermarket fridges were vulnerable online for months",
       "pubDate": "Tue, 20 Oct 2026 00:00:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbnRyb3BpY3Rob3VnaHRzLmNvbSUyRm5peG9zLWlzLW1ha2luZy1tZS1sZXNzLWFmcmFpZCU3Q2h0dHBzJTNBJTJGJTJGZW50cm9waWN0aG91Z2h0cy5jb20lMkZuaXhvcy1pcy1tYWtpbmctbWUtbGVzcy1hZnJhaWQlN0NOaXhPUyUyMGlzJTIwbWFraW5nJTIwbWUlMjBsZXNzJTIwYWZyYWlkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNjU0ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAxMiUzQTQzJTNBMDUlMjAlMkIwMDAw",
+      "title": "NixOS is making me less afraid",
+      "pubDate": "Tue, 20 Oct 2026 12:43:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZkb2klMkYxMC4xMTI2JTJGc2NpZW5jZS5hZWw4NzUyJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZkb2klMkYxMC4xMTI2JTJGc2NpZW5jZS5hZWw4NzUyJTdDRGVtb2dyYXBoaWMlMjAlMjJEb29tc2RheSUyMiUyME1pc3NlcyUyMHRoZSUyME1hcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE2NTI3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIwJTIwT2N0JTIwMjAyNiUyMDEyJTNBMjIlM0EyOCUyMCUyQjAwMDA",
+      "title": "Demographic \"Doomsday\" Misses the Mark",
+      "pubDate": "Tue, 20 Oct 2026 12:22:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWRkeXN2b3Jvbm9zLmNvbSUyRjIwMjYtMTAtMTktYXBwbGUtYnJva2UtYW4tZXNzZW50aWFsLXByZXNlbnRhdGlvbi1mZWF0dXJlLW9mLWlwYWRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZWRkeXN2b3Jvbm9zLmNvbSUyRjIwMjYtMTAtMTktYXBwbGUtYnJva2UtYW4tZXNzZW50aWFsLXByZXNlbnRhdGlvbi1mZWF0dXJlLW9mLWlwYWRzJTJGJTdDQXBwbGUlMjBicm9rZSUyMGFuJTIwZXNzZW50aWFsJTIwcHJlc2VudGF0aW9uJTIwZmVhdHVyZSUyMG9mJTIwaVBhZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE2NTIwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIwJTIwT2N0JTIwMjAyNiUyMDEyJTNBMTclM0EyOCUyMCUyQjAwMDA",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "pubDate": "Tue, 20 Oct 2026 12:17:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGaGF6ZWwtMiUyRmpvYnMlMkZQcE5LWUJTLWZ1bGwtc3RhY2stZW5naW5lZXItdHMtc2NpJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGaGF6ZWwtMiUyRmpvYnMlMkZQcE5LWUJTLWZ1bGwtc3RhY2stZW5naW5lZXItdHMtc2NpJTdDSGF6ZWwlMjAoWUMlMjBXMjQpJTIwSXMlMjBIaXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE2NDk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIwJTIwT2N0JTIwMjAyNiUyMDEyJTNBMDAlM0EzMiUyMCUyQjAwMDA",
+      "title": "Hazel (YC W24) Is Hiring",
+      "pubDate": "Tue, 20 Oct 2026 12:00:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVvd2luLm5ldCUyRm5ld3MlMkZnb29nbGUtY2xvdWQtb3V0YWdlLXRha2VzLWRvd24taHNiYy1yZXZvbHV0LWJhbmstb2Ytc2NvdGxhbmQtbGx5b2RzLWVxdWlmYXgtbW9yZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5lb3dpbi5uZXQlMkZuZXdzJTJGZ29vZ2xlLWNsb3VkLW91dGFnZS10YWtlcy1kb3duLWhzYmMtcmV2b2x1dC1iYW5rLW9mLXNjb3RsYW5kLWxseW9kcy1lcXVpZmF4LW1vcmUlMkYlN0NHb29nbGUlMjBjbG91ZCUyMG91dGFnZSUyMHRha2VzJTIwZG93biUyMGJhbmtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNjM5NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAxMCUzQTI2JTNBMDIlMjAlMkIwMDAw",
+      "title": "Google cloud outage takes down banks",
+      "pubDate": "Tue, 20 Oct 2026 10:26:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGVlcHNlZWstYWklMkZEZWVwSW5mZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkZWVwc2Vlay1haSUyRkRlZXBJbmZlciU3Q0RlZXBTZWVrJTIwanVzdCUyMG9wZW4tc291cmNlZCUyMGl0cyUyMGluZmVyZW5jZSUyMGVuZ2luZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTYzMjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMDklM0EwOCUzQTU0JTIwJTJCMDAwMA",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "pubDate": "Tue, 20 Oct 2026 09:08:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9nJTJGR21zQ29yZSUyRndpa2klN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaWNyb2clMkZHbXNDb3JlJTJGd2lraSU3Q01pY3JvRyUzQSUyMEZyZWUtbGlicmUlMjByZS1pbXBsZW1lbnRhdGlvbiUyMG9mJTIwR29vZ2xlJ3MlMjBwcm9wcmlldGFyeSUyMEFuZHJvaWQlMjB1c2VyJTIwc3BhY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE2MjE3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDIwJTIwT2N0JTIwMjAyNiUyMDA2JTNBMzclM0EwNyUyMCUyQjAwMDA",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "pubDate": "Tue, 20 Oct 2026 06:37:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]
