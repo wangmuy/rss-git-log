@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 38,
-    "generatedAt": "2026-10-19T21:08:55.615Z"
+    "itemCount": 46,
+    "generatedAt": "2026-10-20T05:00:38.923Z"
   },
   "items": [
     {
@@ -234,6 +234,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdGFyY3JhZnQtc2hvb3Rlci0yMDI2LnBhZ2VzLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RhcmNyYWZ0LXNob290ZXItMjAyNi5wYWdlcy5kZXYlMkYlN0NTdGFyY3JhZnQlM0ElMjBBc2hmYWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNDcyMzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAwMSUzQTE4JTNBMDIlMjAlMkIwMDAw",
       "title": "Starcraft: Ashfall",
       "pubDate": "Mon, 19 Oct 2026 01:18:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWRhY3QuZGV2JTJGYmxvZyUyRndoYXRzYXBwLWhlbHAtcGFnZXMtaGlkZGVuLWFpLWluc3RydWN0aW9ucyU3Q2h0dHBzJTNBJTJGJTJGcmVkYWN0LmRldiUyRmJsb2clMkZ3aGF0c2FwcC1oZWxwLXBhZ2VzLWhpZGRlbi1haS1pbnN0cnVjdGlvbnMlN0NXaGF0c0FwcCdzJTIwaGVscCUyMHBhZ2VzJTIwaGlkJTIwTExNJTIwaW5zdHJ1Y3Rpb25zJTNBJTIwZG9udCUyMHJlY29tbWVuZCUyMGElMjByZWd1bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE1OTM0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDIzJTNBMjIlM0ExOCUyMCUyQjAwMDA",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "pubDate": "Mon, 19 Oct 2026 23:22:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcmV0ZXp5LmNvbSUyRjIwMjYlMkZhZC1mcmVlLWFuZHJvaWQtdHYlN0NodHRwcyUzQSUyRiUyRmNyZXRlenkuY29tJTJGMjAyNiUyRmFkLWZyZWUtYW5kcm9pZC10diU3Q0FuJTIwYWQtZnJlZSUyMEFuZHJvaWQlMjBUViU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTU4OTQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMjIlM0EzMiUzQTM3JTIwJTJCMDAwMA",
+      "title": "An ad-free Android TV",
+      "pubDate": "Mon, 19 Oct 2026 22:32:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZic2QubmV0d29yayUyRiU0MGJyeW5ldCUyRjExNzQwNzAzNTU0NTkwMDk2MyU3Q2h0dHBzJTNBJTJGJTJGYnNkLm5ldHdvcmslMkYlNDBicnluZXQlMkYxMTc0MDcwMzU1NDU5MDA5NjMlN0NPcGVuQlNEJTIwOC4wJTIwcmVsZWFzZSUyMHdpbGwlMjBoYXZlJTIwaW50ZWxkcm0lMkZyYWRlb25kcm0lMkZhbWRncHUlMjBkcml2ZXJzJTIwZnJvbSUyMExpbnV4JTIwNi4xOCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTU4MTM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMjElM0ExMSUzQTQ1JTIwJTJCMDAwMA",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "pubDate": "Mon, 19 Oct 2026 21:11:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3NpZS5sb2wlMkZibG9nJTJGbGludXgtcnR4LXNwYXJrJTdDaHR0cHMlM0ElMkYlMkZqb3NpZS5sb2wlMkZibG9nJTJGbGludXgtcnR4LXNwYXJrJTdDUHV0dGluZyUyMExpbnV4JTIwb24lMjBteSUyMFJUWCUyMFNwYXJrJTIwbGFwdG9wJTIwYmVjYXVzZSUyMEklMjBkb24ndCUyMGhhdmUlMjBhJTIwTWljcm9zb2Z0JTIwYWNjb3VudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTU4MTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMjElM0EwOCUzQTE4JTIwJTJCMDAwMA",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "pubDate": "Mon, 19 Oct 2026 21:08:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxhYnJvLmlvJTJGb2hiZiU3Q2h0dHBzJTNBJTJGJTJGY2FsYWJyby5pbyUyRm9oYmYlN0NPbmUlMjBIYXNoJTIwQmxvb20lMjBGaWx0ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTc4NjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAyMCUzQTUwJTNBMDglMjAlMkIwMDAw",
+      "title": "One Hash Bloom Filters",
+      "pubDate": "Mon, 19 Oct 2026 20:50:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ0ZWNobm9sb2d5JTJGdXMtYmFubmluZy1jaGluZXNlLWFpLWRlZXBzZWVrLWdvdmVybm1lbnQtYWdlbmN5LWl0LXN5c3RlbXMtMjAyNi0xMC0xOSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGdGVjaG5vbG9neSUyRnVzLWJhbm5pbmctY2hpbmVzZS1haS1kZWVwc2Vlay1nb3Zlcm5tZW50LWFnZW5jeS1pdC1zeXN0ZW1zLTIwMjYtMTAtMTklMkYlN0NEZWVwU2VlayUyMGJhbm5lZCUyMGZyb20lMjBVLlMuJTIwZmVkZXJhbCUyMGNpdmlsaWFuJTIwYWdlbmNpZXMlMjB1bmRlciUyMG5ldyUyMERIUyUyMG9yZGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTQyNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxNiUzQTE2JTNBNDYlMjAlMkIwMDAw",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "pubDate": "Mon, 19 Oct 2026 16:16:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmJjbmV3cy5jb20lMkZ3b3JsZCUyRnVrcmFpbmUlMkZ1a3JhaW5lLWZpcnN0LWRyb25lLWV2YWN1YXRpb24td291bmRlZC1zb2xkaWVyLWZyb250bGluZXMtaGV4YWNvcHRlci1yY25hNjA0MzEwJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmJjbmV3cy5jb20lMkZ3b3JsZCUyRnVrcmFpbmUlMkZ1a3JhaW5lLWZpcnN0LWRyb25lLWV2YWN1YXRpb24td291bmRlZC1zb2xkaWVyLWZyb250bGluZXMtaGV4YWNvcHRlci1yY25hNjA0MzEwJTdDVWtyYWluZSUyMGNsYWltcyUyMGZpcnN0JTIwZHJvbmUlMjBldmFjdWF0aW9uJTIwb2YlMjB3b3VuZGVkJTIwc29sZGllciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUzNjY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTUlM0EzMSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "pubDate": "Mon, 19 Oct 2026 15:31:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5qYW1pbmNvbmdkb24ubWUlMkZibG9nJTJGMjAyNiUyRjEwJTJGMTklMkZBZ2VudGljLU1vbml0b3JpbmclMkYlN0NodHRwcyUzQSUyRiUyRmJlbmphbWluY29uZ2Rvbi5tZSUyRmJsb2clMkYyMDI2JTJGMTAlMkYxOSUyRkFnZW50aWMtTW9uaXRvcmluZyUyRiU3Q0FnZW50aWMlMjBNb25pdG9yaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTMyMjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxNCUzQTUyJTNBMDQlMjAlMkIwMDAw",
+      "title": "Agentic Monitoring",
+      "pubDate": "Mon, 19 Oct 2026 14:52:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]

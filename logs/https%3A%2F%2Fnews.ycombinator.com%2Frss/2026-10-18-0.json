@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-18",
     "newestItemDate": "2026-10-18",
-    "itemCount": 32,
-    "generatedAt": "2026-10-19T21:08:55.615Z"
+    "itemCount": 35,
+    "generatedAt": "2026-10-20T05:00:38.923Z"
   },
   "items": [
     {
@@ -198,6 +198,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aWEubWF0LmJyJTJGcG9zdHMlMkYyMDE0JTJGMDYlMkYyMyUyRmludGVnZXJfdG9fc3RyaW5nX2NvbnZlcnNpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdGlhLm1hdC5iciUyRnBvc3RzJTJGMjAxNCUyRjA2JTJGMjMlMkZpbnRlZ2VyX3RvX3N0cmluZ19jb252ZXJzaW9uLmh0bWwlN0NJbnRlZ2VyJTIwdG8lMjBTdHJpbmclMjBDb252ZXJzaW9uJTIwKDIwMTQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNDY0MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAyMyUzQTA4JTNBMDElMjAlMkIwMDAw",
       "title": "Integer to String Conversion (2014)",
       "pubDate": "Sun, 18 Oct 2026 23:08:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnVud2l0aGNvbXB1dGVydmlzaW9uLmNvbSUyRndlYmFsbCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ1bndpdGhjb21wdXRlcnZpc2lvbi5jb20lMkZ3ZWJhbGwlMkYlN0NXZWJhbGwlM0ElMjBQbGF5JTIwS2F0YW1hcmklMjBvbiUyMFdlYnNpdGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNDA1ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAxMiUzQTM5JTNBNTYlMjAlMkIwMDAw",
+      "title": "Weball: Play Katamari on Websites",
+      "pubDate": "Sun, 18 Oct 2026 12:39:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm9sZHZjci5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTAlMkZyZWZ1cmItd2Vla2VuZC1paS1hbHBoYS1taWNyby1lYWdsZS0zMDAuaHRtbCU3Q2h0dHAlM0ElMkYlMkZvbGR2Y3IuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjEwJTJGcmVmdXJiLXdlZWtlbmQtaWktYWxwaGEtbWljcm8tZWFnbGUtMzAwLmh0bWwlN0NSZWZ1cmIlMjB3ZWVrZW5kJTIwSUklM0ElMjBBbHBoYSUyME1pY3JvJTIwRWFnbGUlMjAzMDAlMjBhbmQlMjBmcmllbmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxMzgwMDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAwNCUzQTQ4JTNBNDclMjAlMkIwMDAw",
+      "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+      "pubDate": "Sun, 18 Oct 2026 04:48:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLm5vcnRod2VzdGVybi5lZHUlMkZzdG9yaWVzJTJGMjAyNiUyRjEwJTJGdGhlLW92YXJ5LWRvZXNudC1yZXRpcmUtYWZ0ZXItbWVub3BhdXNlJTNGZmolM0QxJTI2dXRtX3NvdXJjZSUzRGpvaW4xNDQwJTI2dXRtX21lZGl1bSUzRGVtYWlsJTI2dXRtX3BsYWNlbWVudCUzRG5ld3NsZXR0ZXIlMjZ1c2VyX2lkJTNENjZjNGJmNzQ1ZDc4NjQ0YjNhYTU3YjA4JTdDaHR0cHMlM0ElMkYlMkZuZXdzLm5vcnRod2VzdGVybi5lZHUlMkZzdG9yaWVzJTJGMjAyNiUyRjEwJTJGdGhlLW92YXJ5LWRvZXNudC1yZXRpcmUtYWZ0ZXItbWVub3BhdXNlJTNGZmolM0QxJTI2dXRtX3BsYWNlbWVudCUzRG5ld3NsZXR0ZXIlMjZ1c2VyX2lkJTNENjZjNGJmNzQ1ZDc4NjQ0YjNhYTU3YjA4JTdDVGhlJTIwb3ZhcnklMjBkb2Vzbid0JTIwcmV0aXJlJTIwYWZ0ZXIlMjBtZW5vcGF1c2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzNzc1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDAzJTNBNDglM0ExMCUyMCUyQjAwMDA",
+      "title": "The ovary doesn't retire after menopause",
+      "pubDate": "Sun, 18 Oct 2026 03:48:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
     }
   ]
