@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 50,
-    "generatedAt": "2026-10-20T13:39:47.004Z"
+    "itemCount": 52,
+    "generatedAt": "2026-10-20T20:01:58.869Z"
   },
   "items": [
     {
@@ -306,6 +306,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmbGF0d2F0ZXJmcmVlcHJlc3Mub3JnJTJGZGVyLXZpZW5lci1zY2hsaW5nZXItdGhlLW1lYXQtY2Fubm9uLXRoYXQtbGF1bmNoZWQtMjAwMDAtaG90LWRvZ3MlMkYlN0NodHRwcyUzQSUyRiUyRmZsYXR3YXRlcmZyZWVwcmVzcy5vcmclMkZkZXItdmllbmVyLXNjaGxpbmdlci10aGUtbWVhdC1jYW5ub24tdGhhdC1sYXVuY2hlZC0yMDAwMC1ob3QtZG9ncyUyRiU3QydEZXIlMjBWaWVuZXIlMjBTY2hsaW5nZXInJTNBJTIwVGhlJTIwbWVhdCUyMGNhbm5vbiUyMHRoYXQlMjBsYXVuY2hlZCUyMDIwayUyMGhvdCUyMGRvZ3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0NzAzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDAwJTNBNDMlM0EwMSUyMCUyQjAwMDA",
       "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
       "pubDate": "Mon, 19 Oct 2026 00:43:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXN0d29yZG9ubm90aGluZy5jb20lMkYyMDI2JTJGMTAlMkYxOSUyRm15LW5laWdoYm9yLW1lLWFuZC1hLWdyYW5kLXByaW5jaXBsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGFzdHdvcmRvbm5vdGhpbmcuY29tJTJGMjAyNiUyRjEwJTJGMTklMkZteS1uZWlnaGJvci1tZS1hbmQtYS1ncmFuZC1wcmluY2lwbGUlMkYlN0NNeSUyME5laWdoYm9yJTJDJTIwTWUlMkMlMjBhbmQlMjBhJTIwR3JhbmQlMjBQcmluY2lwbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE1NjU2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDE5JTNBMDUlM0E1MyUyMCUyQjAwMDA",
+      "title": "My Neighbor, Me, and a Grand Principle",
+      "pubDate": "Mon, 19 Oct 2026 19:05:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGem9sYWdvbmFubyUyRlJhd0xpbmslN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ6b2xhZ29uYW5vJTJGUmF3TGluayU3Q1Nob3clMjBITiUzQSUyMFJhd0xpbmslMjAlRTIlODAlOTMlMjBCdWlsZGluZyUyMGElMjBWUE4lMjBwcm90b2NvbCUyMGZyb20lMjBzY3JhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTY0NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxOCUzQTU5JTNBNTAlMjAlMkIwMDAw",
+      "title": "Show HN: RawLink – Building a VPN protocol from scratch",
+      "pubDate": "Mon, 19 Oct 2026 18:59:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]
