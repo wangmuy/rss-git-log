@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 43,
-    "generatedAt": "2026-10-21T13:56:28.240Z"
+    "itemCount": 45,
+    "generatedAt": "2026-10-21T20:14:14.362Z"
   },
   "items": [
     {
@@ -264,6 +264,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLXdlYi5waHAubmV0JTJGcGhwLmFubm91bmNlJTJGNTA5JTdDaHR0cHMlM0ElMkYlMkZuZXdzLXdlYi5waHAubmV0JTJGcGhwLmFubm91bmNlJTJGNTA5JTdDVXBjb21pbmclMjBjcml0aWNhbCUyMFBIUCUyMHNlY3VyaXR5JTIwcmVsZWFzZSUyMChDVkUtMjAyNi0xMDk2MTglMjAlMkYlMjAtMTA5NjE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTcyMDQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMjAlM0ExNSUzQTUwJTIwJTJCMDAwMA",
       "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
       "pubDate": "Tue, 20 Oct 2026 20:15:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNwODE0bDgwcHcybyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jb20lMkZuZXdzJTJGYXJ0aWNsZXMlMkZjcDgxNGw4MHB3Mm8lN0NUaW55JTIwcG9zc3VtJTIwYW5kJTIwZ2xpZGVyJTIwdGhvdWdodCUyMGV4dGluY3QlMjBmb3IlMjA2MDAwJTIweWVhcnMlMjBmb3VuZCUyMGluJTIwcmVtb3RlJTIwV2VzdCUyMFBhcHVhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNjIwNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAwNiUzQTIwJTNBNTQlMjAlMkIwMDAw",
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "pubDate": "Tue, 20 Oct 2026 06:20:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2luZG93c2xhdGVzdC5jb20lMkYyMDI2JTJGMTAlMkYxOSUyRndoeS13aW5kb3dzLTExLXN0aWxsLXNoaXBzLXdpdGgtd2luZG93cy05NXMtbWVtb3J5LW1hbmFnZXItaGlkZGVuLWluc2lkZS1pdCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpbmRvd3NsYXRlc3QuY29tJTJGMjAyNiUyRjEwJTJGMTklMkZ3aHktd2luZG93cy0xMS1zdGlsbC1zaGlwcy13aXRoLXdpbmRvd3MtOTVzLW1lbW9yeS1tYW5hZ2VyLWhpZGRlbi1pbnNpZGUtaXQlMkYlN0NXaHklMjBXaW5kb3dzJTIwMTElMjBzdGlsbCUyMHNoaXBzJTIwd2l0aCUyMFdpbmRvd3MlMjA5NSdzJTIwbWVtb3J5JTIwbWFuYWdlciUyMGhpZGRlbiUyMGluc2lkZSUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTk3MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAwMCUzQTE0JTNBMDMlMjAlMkIwMDAw",
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "pubDate": "Tue, 20 Oct 2026 00:14:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]

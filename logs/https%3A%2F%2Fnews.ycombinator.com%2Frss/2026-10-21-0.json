@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-21",
     "newestItemDate": "2026-10-21",
-    "itemCount": 15,
-    "generatedAt": "2026-10-21T13:56:28.240Z"
+    "itemCount": 39,
+    "generatedAt": "2026-10-21T20:14:14.361Z"
   },
   "items": [
     {
@@ -96,6 +96,150 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemlvbi1zYXRpJTJGTmV0V2FzbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnppb24tc2F0aSUyRk5ldFdhc20lN0NDJTIzJTIwbm93JTIwYmVhdHMlMjBSdXN0JTIwb24lMjBXQVNNJTIwc2l6ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTc1NTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMDIlM0E1MyUzQTQ3JTIwJTJCMDAwMA",
       "title": "C# now beats Rust on WASM size",
       "pubDate": "Wed, 21 Oct 2026 02:53:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmVyeS50byUyRnRoZXNpcy1zdGF0ZW1lbnRzJTJGanVsaWFuLXdlaXNzZXIlN0NodHRwcyUzQSUyRiUyRmV2ZXJ5LnRvJTJGdGhlc2lzLXN0YXRlbWVudHMlMkZqdWxpYW4td2Vpc3NlciU3Q0FmdGVyJTIwYXV0b21hdGlvbiUzQSUyMFNvbG8lMjBmb3VuZGluZyUyMHdpbGwlMjBiZSUyMHRoZSUyMGRlZmF1bHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4NjUxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE5JTNBNDQlM0E0OSUyMCUyQjAwMDA",
+      "title": "After automation: Solo founding will be the default",
+      "pubDate": "Wed, 21 Oct 2026 19:44:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bXMucGxleC50diUyRnQlMkYyMDI2LTIwLTAtYmV0YS1pb3MtYW5kLXR2b3MtNGstZG92aS1oZHIxMC13b24tdC1wbGF5LWluZmluaXRlLXNwaW5uaW5nLWNpcmNsZSUyRjk0Mzk2NiUzRnBhZ2UlM0Q1JTdDaHR0cHMlM0ElMkYlMkZmb3J1bXMucGxleC50diUyRnQlMkYyMDI2LTIwLTAtYmV0YS1pb3MtYW5kLXR2b3MtNGstZG92aS1oZHIxMC13b24tdC1wbGF5LWluZmluaXRlLXNwaW5uaW5nLWNpcmNsZSUyRjk0Mzk2NiUzRnBhZ2UlM0Q1JTdDUGxleCUyMGxhaWQlMjBvZmYlMjB0aGUlMjB3aG9sZSUyMHBsYXllciUyMHRlYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4NjMxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE5JTNBMzIlM0ExMCUyMCUyQjAwMDA",
+      "title": "Plex laid off the whole player team",
+      "pubDate": "Wed, 21 Oct 2026 19:32:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLm1pc3RyYWwuYWklMkZtb2RlbHMlMkZtaXN0cmFsLWxhcmdlLTQtMCU3Q2h0dHBzJTNBJTJGJTJGZG9jcy5taXN0cmFsLmFpJTJGbW9kZWxzJTJGbWlzdHJhbC1sYXJnZS00LTAlN0NNaXN0cmFsJTIwTGFyZ2UlMjA0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODYxMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxOSUzQTIwJTNBNTUlMjAlMkIwMDAw",
+      "title": "Mistral Large 4",
+      "pubDate": "Wed, 21 Oct 2026 19:20:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGcHJvZHVjdCUyRmNsYXVkZS1kdWV0JTdDaHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGcHJvZHVjdCUyRmNsYXVkZS1kdWV0JTdDQ2xhdWRlJTIwRHVldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTg2MDM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTklM0ExNCUzQTAxJTIwJTJCMDAwMA",
+      "title": "Claude Duet",
+      "pubDate": "Wed, 21 Oct 2026 19:14:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb29nbGUuZ2l0aHViLmlvJTJGc3R5bGVndWlkZSUyRnJ1c3RndWlkZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZnb29nbGUuZ2l0aHViLmlvJTJGc3R5bGVndWlkZSUyRnJ1c3RndWlkZS5odG1sJTdDR29vZ2xlJ3MlMjBSdXN0JTIwU3R5bGUlMjBHdWlkZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTg2MDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTklM0ExMSUzQTU3JTIwJTJCMDAwMA",
+      "title": "Google's Rust Style Guide",
+      "pubDate": "Wed, 21 Oct 2026 19:11:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLmdpdGxhYi5jb20lMkZyZWxlYXNlcyUyRnBhdGNoZXMlMkZwYXRjaC1yZWxlYXNlLWdpdGxhYi0xOS01LTEtcmVsZWFzZWQlMkYlN0NodHRwcyUzQSUyRiUyRmRvY3MuZ2l0bGFiLmNvbSUyRnJlbGVhc2VzJTJGcGF0Y2hlcyUyRnBhdGNoLXJlbGVhc2UtZ2l0bGFiLTE5LTUtMS1yZWxlYXNlZCUyRiU3Q0dpdExhYiUyMENWU1MlMjAxMC4wJTIwSW50ZWdlciUyME92ZXJmbG93JTIwaXNzdWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4NTg2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE5JTNBMDElM0ExMiUyMCUyQjAwMDA",
+      "title": "GitLab CVSS 10.0 Integer Overflow issue",
+      "pubDate": "Wed, 21 Oct 2026 19:01:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYW5hcnl0b2tlbnMub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZjYW5hcnl0b2tlbnMub3JnJTJGJTdDQ2FuYXJ5JTIwVG9rZW5zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODU2MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxOCUzQTQ1JTNBMDQlMjAlMkIwMDAw",
+      "title": "Canary Tokens",
+      "pubDate": "Wed, 21 Oct 2026 18:45:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnB1YmxpYy1iZW5lZml0LWNoYXJ0ZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGcHVibGljLWJlbmVmaXQtY2hhcnRlciU3Q0FudGhyb3BpYydzJTIwUHVibGljJTIwQmVuZWZpdCUyMENoYXJ0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4NTQzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE4JTNBMjklM0E1NCUyMCUyQjAwMDA",
+      "title": "Anthropic's Public Benefit Charter",
+      "pubDate": "Wed, 21 Oct 2026 18:29:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMTAlMkYyMSUyRm1ldGEtbmV3LW1leGljby1jYW1icmlkZ2UtYW5hbHl0aWNhLXBlbmFsdHkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNuYmMuY29tJTJGMjAyNiUyRjEwJTJGMjElMkZtZXRhLW5ldy1tZXhpY28tY2FtYnJpZGdlLWFuYWx5dGljYS1wZW5hbHR5Lmh0bWwlN0NNZXRhJTIwb3JkZXJlZCUyMHRvJTIwcGF5JTIwJTI0MjVCJTIwcGVuYWx0eSUyMGluJTIwTmV3JTIwTWV4aWNvJTIwQ2FtYnJpZGdlJTIwQW5hbHl0aWNhJTIwY2FzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTg0ODIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTclM0E0NSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "pubDate": "Wed, 21 Oct 2026 17:45:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGZ2FtZXMlMkYxMDE1NjQ3JTJGZWEtaXMtc2h1dHRpbmctZG93bi1iaW93YXJlJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGZ2FtZXMlMkYxMDE1NjQ3JTJGZWEtaXMtc2h1dHRpbmctZG93bi1iaW93YXJlJTdDRUElMjBpcyUyMHNodXR0aW5nJTIwZG93biUyMEJpb1dhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4NDU4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE3JTNBMjklM0EzMyUyMCUyQjAwMDA",
+      "title": "EA is shutting down BioWare",
+      "pubDate": "Wed, 21 Oct 2026 17:29:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub2lzdC5qcCUyRm5ld3MtY2VudGVyJTJGbmV3cyUyRjIwMjYlMkY5JTJGMTglMkZuZXctZm9ybS1wbGFzdGljLXBvbGx1dGlvbi1kaXNjb3ZlcmVkLXNob3Jlcy12dWxuZXJhYmxlLWNvcmFsLXJlZWZzJTdDaHR0cHMlM0ElMkYlMkZ3d3cub2lzdC5qcCUyRm5ld3MtY2VudGVyJTJGbmV3cyUyRjIwMjYlMkY5JTJGMTglMkZuZXctZm9ybS1wbGFzdGljLXBvbGx1dGlvbi1kaXNjb3ZlcmVkLXNob3Jlcy12dWxuZXJhYmxlLWNvcmFsLXJlZWZzJTdDTmV3JTIwcGxhc3RpYyUyMHBvbGx1dGlvbiUyMGRpc2NvdmVyZWQlM0ElMjAnUGxhc3RpY29yYWxzJyUyMGNvcmFsJTIwcnViYmxlJTIwZnVzZWQlMjB3aXRoJTIwcGxhc3RpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTgzNTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTYlM0EyMCUzQTM3JTIwJTJCMDAwMA",
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "pubDate": "Wed, 21 Oct 2026 16:20:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmVuZ2luZWVyaW5nJTJGYXJjaGl0ZWN0dXJlLW9wdGltaXphdGlvbiUyRnRoZS1icmlkZ2UtdG8tYWdlbnQtc2NhbGUtZ2l0LWluZnJhc3RydWN0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmVuZ2luZWVyaW5nJTJGYXJjaGl0ZWN0dXJlLW9wdGltaXphdGlvbiUyRnRoZS1icmlkZ2UtdG8tYWdlbnQtc2NhbGUtZ2l0LWluZnJhc3RydWN0dXJlJTJGJTdDVGhlJTIwYnJpZGdlJTIwdG8lMjBhZ2VudC1zY2FsZSUyMEdpdCUyMGluZnJhc3RydWN0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODMzNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxNiUzQTA5JTNBMjglMjAlMkIwMDAw",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "pubDate": "Wed, 21 Oct 2026 16:09:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWxtYW5ndW0uY29tJTJGcG9zdHMlMkZtY3UtZW11ZGhyYS1pbnRlcm1lZGlhdGUtY2EtY29tcHJvbWlzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGFuaWVsbWFuZ3VtLmNvbSUyRnBvc3RzJTJGbWN1LWVtdWRocmEtaW50ZXJtZWRpYXRlLWNhLWNvbXByb21pc2UlMkYlN0NZb3VyJTIwTUNVJTIwbGlrZWx5JTIwZXNjYXBlZCUyMHRoZSUyMGVNdWRocmElMjBpbnRlcm1lZGlhdGUlMjBDQSUyMGNvbXByb21pc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4MzI4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE2JTNBMDUlM0EwNSUyMCUyQjAwMDA",
+      "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+      "pubDate": "Wed, 21 Oct 2026 16:05:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVwaHAuZm91bmRhdGlvbiUyRmJsb2clMkYyMDI2JTJGMTAlMkYyMSUyRnRvZGF5cy1waHAtc2VjdXJpdHktcmVsZWFzZS1hbmQtaG93LXdlcmUtc3RyZW5ndGhlbmluZy1waHAtc2VjdXJpdHklMkYlN0NodHRwcyUzQSUyRiUyRnRoZXBocC5mb3VuZGF0aW9uJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIxJTJGdG9kYXlzLXBocC1zZWN1cml0eS1yZWxlYXNlLWFuZC1ob3ctd2VyZS1zdHJlbmd0aGVuaW5nLXBocC1zZWN1cml0eSUyRiU3Q1RvZGF5J3MlMjBQSFAlMjBzZWN1cml0eSUyMHJlbGVhc2UlMkMlMjBhbmQlMjBob3clMjB3ZSdyZSUyMHN0cmVuZ3RoZW5pbmclMjBzZWN1cml0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTgyOTg3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTUlM0E0OCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "pubDate": "Wed, 21 Oct 2026 15:48:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWZvcmQuYmclMkYlN0NodHRwcyUzQSUyRiUyRmJ1Zm9yZC5iZyUyRiU3Q1Nob3clMjBITiUzQSUyMEklMjB0b2xkJTIwcGVvcGxlJTIwSSdtJTIwYSUyMGNvbnZpY3RlZCUyMGZlbG9uJTIwYWZ0ZXIlMjAyMCUyMHllYXJzJTIwb2YlMjBoaWRpbmclMjBpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTgyOTYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTUlM0E0NiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
+      "pubDate": "Wed, 21 Oct 2026 15:46:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRm9yZWdvbi13YXRlcmZhbGwtZm9yLXNhbGUtbGF3bWFrZXJzLTk5NmRlNjM0NjJkNDllYzNhZDliZWUxNjI5ZmI5NDg4JTdDaHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRm9yZWdvbi13YXRlcmZhbGwtZm9yLXNhbGUtbGF3bWFrZXJzLTk5NmRlNjM0NjJkNDllYzNhZDliZWUxNjI5ZmI5NDg4JTdDT3JlZ29uJTIwbGF3bWFrZXJzJTIwYXBwcm92ZSUyMG1vbmV5JTIwdG8lMjBidXklMjBhbiUyMGljb25pYyUyMHdhdGVyZmFsbCUyMGxpc3RlZCUyMG9uJTIwUmVkZmluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODI1MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxNSUzQTIwJTNBMDQlMjAlMkIwMDAw",
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "pubDate": "Wed, 21 Oct 2026 15:20:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZjb29yZGluYXRlZC1kaXNjbG9zdXJlLW9mLWNyaXRpY2FsLXZ1bG5lcmFiaWxpdGllcyUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGY29vcmRpbmF0ZWQtZGlzY2xvc3VyZS1vZi1jcml0aWNhbC12dWxuZXJhYmlsaXRpZXMlMkYlN0NQYXRjaCUyMHRoZSUyMFBsYW5ldCUzQSUyMGdsb2JhbCUyMHJlc3BvbnNlJTIwY29vcmRpbmF0aW9uJTIwYXMlMjBhZ2VudHMlMjB1bmNvdmVyJTIwdnVsbmVyYWJpbGl0aWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODExNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxNCUzQTAzJTNBNDMlMjAlMkIwMDAw",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "pubDate": "Wed, 21 Oct 2026 14:03:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWNrZGIub3JnJTJGMjAyNiUyRjEwJTJGMjElMkZhbm5vdW5jaW5nLWR1Y2tkYi0yMDAlN0NodHRwcyUzQSUyRiUyRmR1Y2tkYi5vcmclMkYyMDI2JTJGMTAlMkYyMSUyRmFubm91bmNpbmctZHVja2RiLTIwMCU3Q0R1Y2tEQiUyMDIuMC4wJTIwTFRTJTIwJUUyJTgwJTlDQ2lubmFtb24lMjBUZWFsJUUyJTgwJTlEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODExMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxNCUzQTAxJTNBMjIlMjAlMkIwMDAw",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "pubDate": "Wed, 21 Oct 2026 14:01:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYWZlZGVwLmlvJTJGbGl0ZWxsbS1weXBpLWNvbXByb21pc2UtY3JlZGVudGlhbC1zdGVhbGVyLWJhY2tkb29yJTJGJTdDaHR0cHMlM0ElMkYlMkZzYWZlZGVwLmlvJTJGbGl0ZWxsbS1weXBpLWNvbXByb21pc2UtY3JlZGVudGlhbC1zdGVhbGVyLWJhY2tkb29yJTJGJTdDQ29tcHJvbWlzZWQlMjBMaXRlTExNJTIwMS4xMDcuMCUyMG9uJTIwUHlQSSUyMEluc3RhbGxzJTIwYSUyMENyZWRlbnRpYWwlMjBTdGVhbGVyJTIwYW5kJTIwQmFja2Rvb3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4MTExNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE0JTNBMDAlM0EyNiUyMCUyQjAwMDA",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "pubDate": "Wed, 21 Oct 2026 14:00:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGhwJTJGcGhwLXNyYyUyRnJlbGVhc2VzJTJGdGFnJTJGcGhwLTguMi4zNSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnBocCUyRnBocC1zcmMlMkZyZWxlYXNlcyUyRnRhZyUyRnBocC04LjIuMzUlN0NQSFAlMjA4LjIuMzUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4MDg3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDEzJTNBNDUlM0EzMyUyMCUyQjAwMDA",
+      "title": "PHP 8.2.35",
+      "pubDate": "Wed, 21 Oct 2026 13:45:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzY2FsaW5nLWFpLXJlc2VhcmNoLWZvci1jb21wbGV4LWJpb2xvZ2ljYWwtZGF0YSUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGc2NhbGluZy1haS1yZXNlYXJjaC1mb3ItY29tcGxleC1iaW9sb2dpY2FsLWRhdGElMkYlN0NVc2luZyUyMHRob3VzYW5kcyUyMG9mJTIwQUklMjBhZ2VudHMlMjB0byUyMHVuY292ZXIlMjBuZXclMjBsZWFkcyUyMGluJTIwYmlvbG9naWNhbCUyMGRhdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4MDc1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDEzJTNBMzclM0EwMCUyMCUyQjAwMDA",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "pubDate": "Wed, 21 Oct 2026 13:37:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZvcGVuYWktbW9kZWxzLWdvb2dsZS1jbG91ZCUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGb3BlbmFpLW1vZGVscy1nb29nbGUtY2xvdWQlMkYlN0NPcGVuQUklMjBtb2RlbHMlMjBhcmUlMjBjb21pbmclMjB0byUyMEdvb2dsZSUyMENsb3VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODAwNzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxMiUzQTUzJTNBMTElMjAlMkIwMDAw",
+      "title": "OpenAI models are coming to Google Cloud",
+      "pubDate": "Wed, 21 Oct 2026 12:53:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGhlbG1lLmNvLnVrJTJGZWlnaHQtYml0cy1vZi10cnVzdC1lbXVkaHJhcy1jYS1rZXlzLWNyYWNrZWQtaW4tbWlsbGlzZWNvbmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZzY290dGhlbG1lLmNvLnVrJTJGZWlnaHQtYml0cy1vZi10cnVzdC1lbXVkaHJhcy1jYS1rZXlzLWNyYWNrZWQtaW4tbWlsbGlzZWNvbmRzJTJGJTdDRWlnaHQlMjBCaXRzJTIwb2YlMjBUcnVzdCUzQSUyMGVNdWRocmEncyUyMENBJTIwa2V5cyUyMGNyYWNrZWQlMjBpbiUyMG1pbGxpc2Vjb25kcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTc3OTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMDklM0EwOCUzQTA4JTIwJTJCMDAwMA",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "pubDate": "Wed, 21 Oct 2026 09:08:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHRlcmF1dGguY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZhbHRlcmF1dGguY29tJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBBbHRlciUyMChZQyUyMFMyNSklMjAlRTIlODAlOTMlMjBBY2Nlc3MlMjBjb250cm9sJTIwZm9yJTIwbXVsdGktdXNlciUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTc2OTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMDYlM0E0MiUzQTEyJTIwJTJCMDAwMA",
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "pubDate": "Wed, 21 Oct 2026 06:42:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
     }
   ]
