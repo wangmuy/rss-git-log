@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 54,
-    "generatedAt": "2026-10-21T04:59:57.566Z"
+    "itemCount": 58,
+    "generatedAt": "2026-10-21T13:56:28.240Z"
   },
   "items": [
     {
@@ -330,6 +330,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZG9yY2hlc3RlcjNkLmNvbSUyRnByaW50aW5nJTJGYmxvZyUyRjIwMjAlMkYxMSUyRnp4LXNwZWN0cnVtLW5leHQtbGFwdG9wLXZlcnNpb24tMiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRvcmNoZXN0ZXIzZC5jb20lMkZwcmludGluZyUyRmJsb2clMkYyMDIwJTJGMTElMkZ6eC1zcGVjdHJ1bS1uZXh0LWxhcHRvcC12ZXJzaW9uLTIlN0NaWCUyMFNwZWN0cnVtJTIwTmV4dCUyMExhcHRvcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTQ3Nzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMDIlM0E0OCUzQTExJTIwJTJCMDAwMA",
       "title": "ZX Spectrum Next Laptop",
       "pubDate": "Mon, 19 Oct 2026 02:48:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmJvbmFuemEtbmV3LWRhdGVzLXJld3JpdGVzLWhpc3RvcnktaW5jYSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2Uub3JnJTJGY29udGVudCUyRmFydGljbGUlMkZib25hbnphLW5ldy1kYXRlcy1yZXdyaXRlcy1oaXN0b3J5LWluY2ElN0NCb25hbnphJTIwb2YlMjBuZXclMjBkYXRlcyUyMHJld3JpdGVzJTIwdGhlJTIwaGlzdG9yeSUyMG9mJTIwdGhlJTIwSW5jYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUxNDQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTIlM0ExMyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "pubDate": "Mon, 19 Oct 2026 12:13:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZGlhbC53b3JsZCUyRmFydGljbGVzJTJGbmV3cyUyRmFpLWJvb2stc2NhbXMlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVkaWFsLndvcmxkJTJGYXJ0aWNsZXMlMkZuZXdzJTJGYWktYm9vay1zY2FtcyU3Q1RoZSUyMEx1Y3JhdGl2ZSUyMFdvcmxkJTIwb2YlMjBMaXRlcmFyeSUyMFNjYW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTExNzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxMSUzQTQzJTNBMzUlMjAlMkIwMDAw",
+      "title": "The Lucrative World of Literary Scams",
+      "pubDate": "Mon, 19 Oct 2026 11:43:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFnZXRhYmxlLmNvbSUyRjMwMyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhZ2V0YWJsZS5jb20lMkYzMDMlN0NXYXklMjB0byUyMFBsYXklMjBTdXBlciUyME1hcmlvJTIwNjQlM0ElMjBPbiUyMEFwcGxlJTIwVmlzaW9uJTIwUHJvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTAyMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAwOSUzQTIxJTNBMzQlMjAlMkIwMDAw",
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "pubDate": "Mon, 19 Oct 2026 09:21:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWV2eW4uY29kZXMlMkZkZWNvaGVyZW5jZSU3Q2h0dHBzJTNBJTJGJTJGbWFldnluLmNvZGVzJTJGZGVjb2hlcmVuY2UlN0NUaGUlMjBEZWNvaGVyZW5jZSUyMFRyYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0OTg2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDA4JTNBMzUlM0E0NCUyMCUyQjAwMDA",
+      "title": "The Decoherence Trap",
+      "pubDate": "Mon, 19 Oct 2026 08:35:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]
