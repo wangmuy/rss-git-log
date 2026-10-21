@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 52,
-    "generatedAt": "2026-10-20T20:01:58.869Z"
+    "itemCount": 54,
+    "generatedAt": "2026-10-21T04:59:57.566Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGem9sYWdvbmFubyUyRlJhd0xpbmslN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ6b2xhZ29uYW5vJTJGUmF3TGluayU3Q1Nob3clMjBITiUzQSUyMFJhd0xpbmslMjAlRTIlODAlOTMlMjBCdWlsZGluZyUyMGElMjBWUE4lMjBwcm90b2NvbCUyMGZyb20lMjBzY3JhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTY0NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxOCUzQTU5JTNBNTAlMjAlMkIwMDAw",
       "title": "Show HN: RawLink – Building a VPN protocol from scratch",
       "pubDate": "Mon, 19 Oct 2026 18:59:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRlbGFuZy5vcmclMkZibG9nJTJGc2FmZV9jeWNsaWNfbXV0YWJpbGl0eSUyRiU3Q2h0dHBzJTNBJTJGJTJGYW50ZWxhbmcub3JnJTJGYmxvZyUyRnNhZmVfY3ljbGljX211dGFiaWxpdHklMkYlN0NCb3Jyb3clMjBDaGVja2luZyUyMFplcm8tQ29zdCUyMEN5Y2xpYyUyME11dGFiaWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE1MTc3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDEyJTNBNDclM0E0MiUyMCUyQjAwMDA",
+      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "pubDate": "Mon, 19 Oct 2026 12:47:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZG9yY2hlc3RlcjNkLmNvbSUyRnByaW50aW5nJTJGYmxvZyUyRjIwMjAlMkYxMSUyRnp4LXNwZWN0cnVtLW5leHQtbGFwdG9wLXZlcnNpb24tMiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRvcmNoZXN0ZXIzZC5jb20lMkZwcmludGluZyUyRmJsb2clMkYyMDIwJTJGMTElMkZ6eC1zcGVjdHJ1bS1uZXh0LWxhcHRvcC12ZXJzaW9uLTIlN0NaWCUyMFNwZWN0cnVtJTIwTmV4dCUyMExhcHRvcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTQ3Nzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMDIlM0E0OCUzQTExJTIwJTJCMDAwMA",
+      "title": "ZX Spectrum Next Laptop",
+      "pubDate": "Mon, 19 Oct 2026 02:48:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]

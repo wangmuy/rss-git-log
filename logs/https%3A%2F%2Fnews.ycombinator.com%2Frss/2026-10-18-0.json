@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-18",
     "newestItemDate": "2026-10-18",
-    "itemCount": 38,
-    "generatedAt": "2026-10-20T20:01:58.870Z"
+    "itemCount": 41,
+    "generatedAt": "2026-10-21T04:59:57.567Z"
   },
   "items": [
     {
@@ -234,6 +234,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYXJ0aWNsZSUyRmF1ZGFjaW91cy1zcGFjZS1oZWlzdC1qYXBhbi1haW1zLWJyaW5nLWhvbWUtYml0cy1tYXJ0aWFuLW1vb24lN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbmNlLm9yZyUyRmNvbnRlbnQlMkZhcnRpY2xlJTJGYXVkYWNpb3VzLXNwYWNlLWhlaXN0LWphcGFuLWFpbXMtYnJpbmctaG9tZS1iaXRzLW1hcnRpYW4tbW9vbiU3Q0pBWEElMjBpcyUyMGFib3V0JTIwdG8lMjBwZXJmb3JtJTIwYSUyMFBob2JvcyUyMHNhbXBsZSUyMHJldHVybiUyMG1pc3Npb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzODQ5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDA2JTNBNDAlM0E1NSUyMCUyQjAwMDA",
       "title": "JAXA is about to perform a Phobos sample return mission",
       "pubDate": "Sun, 18 Oct 2026 06:40:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbmNubW5wLmdpdGh1Yi5pbyUyRmJsb2dzJTJGZWNvbm9taWNzLWRlY2lzaW9uLW1vZGVscy5odG1sJTdDaHR0cHMlM0ElMkYlMkZwbmNubW5wLmdpdGh1Yi5pbyUyRmJsb2dzJTJGZWNvbm9taWNzLWRlY2lzaW9uLW1vZGVscy5odG1sJTdDVG8lMjBNYWtlJTJDJTIwb3IlMjB0byUyMEJ1eSUzQSUyMFRoZSUyMEVjb25vbWljcyUyMG9mJTIwRGVjaXNpb24lMjBNb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0MzM2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDE3JTNBNDAlM0E1NiUyMCUyQjAwMDA",
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "pubDate": "Sun, 18 Oct 2026 17:40:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmRlcmVnZy5jYSUyRjIwMjYlMkYxMCUyRjE4JTJGd2hhdC10aGUtaGVjay1pcy1wa2clN0NodHRwcyUzQSUyRiUyRmFuZGVyZWdnLmNhJTJGMjAyNiUyRjEwJTJGMTglMkZ3aGF0LXRoZS1oZWNrLWlzLXBrZyU3Q1doYXQlMjB0aGUlMjBoZWNrJTIwaXMlMjAlMkZwa2clM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE0MzE1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDE3JTNBMjElM0EyMyUyMCUyQjAwMDA",
+      "title": "What the heck is /pkg?",
+      "pubDate": "Sun, 18 Oct 2026 17:21:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0R6Y1drQXBHanlHTSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEemNXa0FwR2p5R00lN0NNYWtpbmclMjBTb2xhciUyMFBhbmVscyUyMHdpdGglMjBhJTIwTWljcm93YXZlJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDEzOTcyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE4JTIwT2N0JTIwMjAyNiUyMDEwJTNBMjUlM0EwNyUyMCUyQjAwMDA",
+      "title": "Making Solar Panels with a Microwave [video]",
+      "pubDate": "Sun, 18 Oct 2026 10:25:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
     }
   ]
