@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 66,
-    "generatedAt": "2026-10-22T13:54:12.443Z"
+    "itemCount": 67,
+    "generatedAt": "2026-10-22T20:12:43.293Z"
   },
   "items": [
     {
@@ -402,6 +402,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtdXNpY2FsZm9ybS5zdWJzdGFjay5jb20lMkZwJTJGd2hhdC1pcy1ncmlkaWZjYXRpb24lN0NodHRwcyUzQSUyRiUyRm11c2ljYWxmb3JtLnN1YnN0YWNrLmNvbSUyRnAlMkZ3aGF0LWlzLWdyaWRpZmNhdGlvbiU3Q1doYXQlMjBJcyUyMEdyaWRpZmNhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUwMTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMDklM0ExMyUzQTEyJTIwJTJCMDAwMA",
       "title": "What Is Gridifcation",
       "pubDate": "Mon, 19 Oct 2026 09:13:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm9yaXN0aGVicmF2ZS5jb20lMkYyMDI2JTJGMTAlMkYxOCUyRmR1bmdlb24tZ2VuZXJhdGlvbi1pbi10aGUtZ25vbWlzaC1taW5lcy1vZi1uZXRoYWNrJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYm9yaXN0aGVicmF2ZS5jb20lMkYyMDI2JTJGMTAlMkYxOCUyRmR1bmdlb24tZ2VuZXJhdGlvbi1pbi10aGUtZ25vbWlzaC1taW5lcy1vZi1uZXRoYWNrJTJGJTdDRHVuZ2VvbiUyMEdlbmVyYXRpb24lMjBpbiUyMHRoZSUyMEdub21pc2glMjBNaW5lcyUyMG9mJTIwTmV0SGFjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTU0MTA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTYlM0EwNiUzQTQwJTIwJTJCMDAwMA",
+      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+      "pubDate": "Mon, 19 Oct 2026 16:06:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]

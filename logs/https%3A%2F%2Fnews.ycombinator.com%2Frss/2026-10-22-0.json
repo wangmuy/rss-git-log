@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-22",
     "newestItemDate": "2026-10-22",
-    "itemCount": 12,
-    "generatedAt": "2026-10-22T13:54:12.442Z"
+    "itemCount": 32,
+    "generatedAt": "2026-10-22T20:12:43.292Z"
   },
   "items": [
     {
@@ -78,6 +78,126 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaW1lZHcuY29tJTJGMjAyNiUyRjEwJTJGMjElMkZ3b3JsZC1tb2RlbC10ZXJtaW5hbCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2ltZWR3LmNvbSUyRjIwMjYlMkYxMCUyRjIxJTJGd29ybGQtbW9kZWwtdGVybWluYWwlMkYlN0NXb3JsZFRVSSUzQSUyMEklMjB0cmFpbmVkJTIwYSUyMDM2ME0lMjBtb2RlbCUyMHRvJTIwcHJldGVuZCUyMHRvJTIwYmUlMjBhJTIwdGVybWluYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5MDM2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDAyJTNBMTglM0E0MSUyMCUyQjAwMDA",
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "pubDate": "Thu, 22 Oct 2026 02:18:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5jYXRnaXJsLmNsb3VkJTJGJTQwNDkwMTYlMkYxMTc0NzU5NzY0MzQwNjg5OTUlN0NodHRwcyUzQSUyRiUyRm1hc3RvZG9uLmNhdGdpcmwuY2xvdWQlMkYlNDA0OTAxNiUyRjExNzQ3NTk3NjQzNDA2ODk5NSU3Q0ElMjBjb21wbGV0ZSUyMGJ5cGFzcyUyMG9mJTIwZU11ZGhyYSVFMiU4MCU5OXMlMjAxRkElMjBPVFAlMjBsb2dpbiUyMHN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk5NzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTklM0ExNCUzQTAxJTIwJTJCMDAwMA",
+      "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "pubDate": "Thu, 22 Oct 2026 19:14:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWF4aWxldmklMkZwcm9qZWN0LWhlZHJhJTJGdHJlZSUyRnByZS1haSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1heGlsZXZpJTJGcHJvamVjdC1oZWRyYSUyRnRyZWUlMkZwcmUtYWklN0NIZWRyYSUyMGlzJTIwYSUyMDNEJTIwb3BlbiUyMHdvcmxkJTIwZ2FtZSUyMEklMjB3cm90ZSUyMGZyb20lMjBzY3JhdGNoJTIwd2hpbGUlMjBpbiUyMGhpZ2hzY2hvb2wlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5OTM4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE4JTNBNDQlM0EzNiUyMCUyQjAwMDA",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "pubDate": "Thu, 22 Oct 2026 18:44:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYzZC5jYW1pbGxld29ybGQuY29tJTJGcGxheSUyRiU3Q2h0dHBzJTNBJTJGJTJGM2QuY2FtaWxsZXdvcmxkLmNvbSUyRnBsYXklMkYlN0NTaG93JTIwSE4lM0ElMjBCdWlsZCUyMGElMjB3b3JsZCUyMG9uJTIweW91ciUyMHBob25lJTJDJTIwZXhwbG9yZSUyMGl0JTIwaW4lMjBYUiUyMG9uJTIwVmlzaW9uJTIwUHJvJTIwYW5kJTIwUXVlc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5OTM0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE4JTNBMzklM0EzOSUyMCUyQjAwMDA",
+      "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+      "pubDate": "Thu, 22 Oct 2026 18:39:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHlwZXVpLnNoJTJGbWljcm8taW50ZXJhY3Rpb25zJTdDaHR0cHMlM0ElMkYlMkZ3d3cudHlwZXVpLnNoJTJGbWljcm8taW50ZXJhY3Rpb25zJTdDU2hvdyUyMEhOJTNBJTIwVUklMjBtaWNybyUyMGludGVyYWN0aW9ucyUyMHByb21wdHMlMjBmb3IlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk5MjkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTglM0EzMiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "pubDate": "Thu, 22 Oct 2026 18:32:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYW1lc3l1Lm9yZyUyRmF3YXJkLXdpbm5pbmctYWktbGl0ZXJhdHVyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGamFtZXN5dS5vcmclMkZhd2FyZC13aW5uaW5nLWFpLWxpdGVyYXR1cmUlMkYlN0NBd2FyZC1XaW5uaW5nJTIwQUklMjBMaXRlcmF0dXJlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTkyMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxOCUzQTI4JTNBMjYlMjAlMkIwMDAw",
+      "title": "Award-Winning AI Literature",
+      "pubDate": "Thu, 22 Oct 2026 18:28:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjI3MjUxJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjI3MjUxJTdDQUklMjBhbmQlMjB0aGUlMjBFbmNsb3N1cmUlMjBvZiUyMHRoZSUyMFNjaWVudGlmaWMlMjBDb21tb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTkyMzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxOCUzQTI4JTNBMTYlMjAlMkIwMDAw",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "pubDate": "Thu, 22 Oct 2026 18:28:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlvZ3JhcGguY29tJTJGbmV3c3Jvb20lMkZiaW9ncmFwaC1jb21wbGV0ZXMtZmlyc3QtdS5zLi1zdHVkeS13aXRoLWNhcmlzdG8tZGlhZ25vc3RpY3MlMjVFMiUyNTgwJTI1OTktYWktcG93ZXJlZC1jb3JvbmFyeS1pbmZsYW1tYXRpb24tZGV0ZWN0aW9uLWZpbmRpbmctcmlzay1pbi1vdmVyLTQyLW9mLWFzeW1wdG9tYXRpYy1wYXRpZW50cyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJpb2dyYXBoLmNvbSUyRm5ld3Nyb29tJTJGYmlvZ3JhcGgtY29tcGxldGVzLWZpcnN0LXUucy4tc3R1ZHktd2l0aC1jYXJpc3RvLWRpYWdub3N0aWNzJTI1RTIlMjU4MCUyNTk5LWFpLXBvd2VyZWQtY29yb25hcnktaW5mbGFtbWF0aW9uLWRldGVjdGlvbi1maW5kaW5nLXJpc2staW4tb3Zlci00Mi1vZi1hc3ltcHRvbWF0aWMtcGF0aWVudHMlN0NBSSUyMGFuYWx5c2lzJTIwb2YlMjBDVCUyMHNjYW5zJTIwZmluZHMlMjA0Mi45JTI1JTIwb2YlMjBwYXRpZW50cyUyMGhhdmUlMjBjb3JvbmFyeSUyMGluZmxhbW1hdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk4OTQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTglM0EwMiUzQTU0JTIwJTJCMDAwMA",
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "pubDate": "Thu, 22 Oct 2026 18:02:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmJhcnRvbGklMkZhZ2VudC11c2FnZS1ndWFyZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJiYXJ0b2xpJTJGYWdlbnQtdXNhZ2UtZ3VhcmQlN0NTaG93JTIwSE4lM0ElMjBhZ2VudC11c2FnZS1ndWFyZCUyMCVFMiU4MCU5MyUyMGElMjBDbGF1ZGUlMjBDb2RlJTIwbW9kJTIwdG8lMjBwcm90ZWN0JTIweW91ciUyMHVzYWdlJTIwd2luZG93JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTg5MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxOCUzQTAyJTNBMzglMjAlMkIwMDAw",
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "pubDate": "Thu, 22 Oct 2026 18:02:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTlZJRElBJTJGT3BlblNoZWxsJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTlZJRElBJTJGT3BlblNoZWxsJTdDT3BlblNoZWxsJTIwJUUyJTgwJTkzJTIwQSUyMHNhZmUlMkMlMjBwcml2YXRlJTIwcnVudGltZSUyMGZvciUyMGZsZWV0cyUyMG9mJTIwYXV0b25vbW91cyUyMEFJJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTg2NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxNyUzQTQ0JTNBMDYlMjAlMkIwMDAw",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "pubDate": "Thu, 22 Oct 2026 17:44:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmMubmV0JTJGJTdDaHR0cHMlM0ElMkYlMkZhcmMubmV0JTJGJTdDQXJjJTIwYnJvd3NlciUyMGlzJTIwc3Vuc2V0dGluZyUyMG9uJTIwRGVjZW1iZXIlMjAyMiUyQyUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NzYwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE2JTNBMjclM0E0NyUyMCUyQjAwMDA",
+      "title": "Arc browser is sunsetting on December 22, 2026",
+      "pubDate": "Thu, 22 Oct 2026 16:27:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGbmV3cyUyRjIwMjYlMkYxMCUyRjE2JTJGbWluaS1icmFpbi1vcmdhbm9pZHMtcmVhZGluZy1icmFpbGxlLWJpb2h5YnJpZC1jb21wdXRpbmctZnJvbnRpZXJzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZnJvbnRpZXJzaW4ub3JnJTJGbmV3cyUyRjIwMjYlMkYxMCUyRjE2JTJGbWluaS1icmFpbi1vcmdhbm9pZHMtcmVhZGluZy1icmFpbGxlLWJpb2h5YnJpZC1jb21wdXRpbmctZnJvbnRpZXJzLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTdDTWluaSUyMGJyYWluJTIwb3JnYW5vaWRzJTIwJ3JlYWRpbmcnJTIwQnJhaWxsZSUyMGtleSUyMHN0ZXAlMjB0b3dhcmRzJTIwYmlvaHlicmlkJTIwY29tcHV0aW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTc0NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxNiUzQTE2JTNBNDUlMjAlMkIwMDAw",
+      "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+      "pubDate": "Thu, 22 Oct 2026 16:16:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGFsZXIubmV0JTJGZW4lMkZuZXdzJTJGMjAyNi0xMy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGFsZXIubmV0JTJGZW4lMkZuZXdzJTJGMjAyNi0xMy5odG1sJTdDR2V0dGluZyUyMHJlYWR5JTIwdG8lMjBvcGVyYXRlJTIwR05VJTIwVGFsZXIlMjBpbiUyMEdlcm1hbnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NzQwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE2JTNBMTQlM0EzMSUyMCUyQjAwMDA",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "pubDate": "Thu, 22 Oct 2026 16:14:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExNDEwMC1nb29nbGUtY2xlYXJlZC0zMDAtaGVjdGFyZXMtZmlubmlzaC1mb3Jlc3QtZGF0YS1jZW50ZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRlY2hzcG90LmNvbSUyRm5ld3MlMkYxMTQxMDAtZ29vZ2xlLWNsZWFyZWQtMzAwLWhlY3RhcmVzLWZpbm5pc2gtZm9yZXN0LWRhdGEtY2VudGVyLmh0bWwlN0NHb29nbGUlMjBjbGVhcmVkJTIwMzAwJTIwaGVjdGFyZXMlMjBvZiUyMEZpbm5pc2glMjBmb3Jlc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NjgzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE1JTNBMzIlM0E0NiUyMCUyQjAwMDA",
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "pubDate": "Thu, 22 Oct 2026 15:32:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb29zZXhnYW5nJTJGaGFja2lvcy14bnUta2VybmVsJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb29zZXhnYW5nJTJGaGFja2lvcy14bnUta2VybmVsJTdDU2hvdyUyMEhOJTNBJTIwUnVuJTIwZnVsbCUyMGlPUyUyMDE2LjUlMjBmaXJtd2FyZSUyMG9uJTIwQW5kcm9pZCUyMERldmljZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NjcxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE1JTNBMjYlM0EyMiUyMCUyQjAwMDA",
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "pubDate": "Thu, 22 Oct 2026 15:26:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFkOS5uZXQlMkZuZXdzJTJGYmxvZyUyRmF1LXJldm9pci1mcmFuY2UlMkYlN0NodHRwcyUzQSUyRiUyRnF1YWQ5Lm5ldCUyRm5ld3MlMkZibG9nJTJGYXUtcmV2b2lyLWZyYW5jZSUyRiU3Q1F1YWQ5JTIwKEROUyUyMFJlc29sdmVyKSUyMHRvJTIwRXhpdCUyMEZyYW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk1OTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTQlM0EzMiUzQTM4JTIwJTJCMDAwMA",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "pubDate": "Thu, 22 Oct 2026 14:32:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmludmVzdGlnYXRlcyUyRmdhbWJsaW5nLWFkcy1yZXN0cmljdGlvbnMtY2FuYWRhLTkuNzM4ODg4OCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNiYy5jYSUyRm5ld3MlMkZpbnZlc3RpZ2F0ZXMlMkZnYW1ibGluZy1hZHMtcmVzdHJpY3Rpb25zLWNhbmFkYS05LjczODg4ODglN0NNUHMlMjBtb3ZpbmclMjB0byUyMHJlc3RyaWN0JTIwZ2FtYmxpbmclMjBhZHMlMjBpbiUyMENhbmFkYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk1ODczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTQlM0EyNiUzQTQwJTIwJTJCMDAwMA",
+      "title": "MPs moving to restrict gambling ads in Canada",
+      "pubDate": "Thu, 22 Oct 2026 14:26:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwd24ud2F0Y2glMkYlN0NodHRwcyUzQSUyRiUyRnB3bi53YXRjaCUyRiU3Q1doYXQlRTIlODAlOTlzJTIwZ2V0dGluZyUyMHB3bmVkJTIwcmlnaHQlMjBub3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NTU0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE0JTNBMDglM0ExMiUyMCUyQjAwMDA",
+      "title": "What’s getting pwned right now",
+      "pubDate": "Thu, 22 Oct 2026 14:08:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbXVkaHJhLmNvbSUyRmVuJTJGcHJlc3MtcmVsZWFzZSUyRmVtdWRocmEtdG8tZXhpdC1nbG9iYWwtc3NsLXRscy1jZXJ0aWZpY2F0ZS1idXNpbmVzcyU3Q2h0dHBzJTNBJTJGJTJGZW11ZGhyYS5jb20lMkZlbiUyRnByZXNzLXJlbGVhc2UlMkZlbXVkaHJhLXRvLWV4aXQtZ2xvYmFsLXNzbC10bHMtY2VydGlmaWNhdGUtYnVzaW5lc3MlN0NlTXVkaHJhJTIwdG8lMjBleGl0JTIwZ2xvYmFsJTIwU1NMJTJGVExTJTIwY2VydGlmaWNhdGUlMjBidXNpbmVzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk1MTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTMlM0EzMyUzQTM5JTIwJTJCMDAwMA",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "pubDate": "Thu, 22 Oct 2026 13:33:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXN0bXVzZXVtLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGFzdG11c2V1bS5jb20lMkYlN0NUaGUlMjBMYXN0JTIwTXVzZXVtJTNBJTIwU2VtYW50aWMlMjBzZWFyY2glMjBhY3Jvc3MlMjA1LjhNJTIwYXJ0d29ya3MlMjBmcm9tJTIwbWFqb3IlMjBtdXNldW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTQ1MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxMiUzQTQwJTNBMDQlMjAlMkIwMDAw",
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "pubDate": "Thu, 22 Oct 2026 12:40:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkzNDE2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkzNDE2JTdDVGVsbCUyMEhOJTNBJTIwSSUyMHVua25vd2luZ2x5JTIwYnJva2UlMjB0aGUlMjBQSFAlMjBSQ0UlMjBlbWJhcmdvLiUyMEklMjBhbSUyMHNvcnJ5LiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkzNDE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTAlM0ExMSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "pubDate": "Thu, 22 Oct 2026 10:11:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
     }
   ]

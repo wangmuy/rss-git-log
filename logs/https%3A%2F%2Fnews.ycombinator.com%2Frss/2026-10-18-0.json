@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-18",
     "newestItemDate": "2026-10-18",
-    "itemCount": 42,
-    "generatedAt": "2026-10-21T13:56:28.240Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-22T20:12:43.293Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnNwZWVkYXRhLmRlJTJGMjAyNiUyRjEwJTJGMTglMkZhbmF0b215LW9mLWEtcGFnZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV3cy5zcGVlZGF0YS5kZSUyRjIwMjYlMkYxMCUyRjE4JTJGYW5hdG9teS1vZi1hLXBhZ2UlMkYlN0NBJTIwcGFnZSUyMGxvb2tzJTIwaW5ub2NlbnQlM0ElMjB0aGUlMjBhbGdvcml0aG1zJTIwYmVoaW5kJTIwYSUyMHR5cGVzZXQlMjBwYWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNDA3NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxOCUyME9jdCUyMDIwMjYlMjAxMyUzQTA2JTNBNTQlMjAlMkIwMDAw",
       "title": "A page looks innocent: the algorithms behind a typeset page",
       "pubDate": "Sun, 18 Oct 2026 13:06:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmhhcmdyZWF2ZXMlMkZ2bW1vdXNlLW50MyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJoYXJncmVhdmVzJTJGdm1tb3VzZS1udDMlN0NWTU1vdXNlJTIwZm9yJTIwTlQlMjAzLnglM0ElMjBRRU1VJTJGVk13YXJlJTIwbW91c2UlMjBpbnRlZ3JhdGlvbiUyMGRyaXZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTQ0NzI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTglMjBPY3QlMjAyMDI2JTIwMTklM0E1MCUzQTExJTIwJTJCMDAwMA",
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "pubDate": "Sun, 18 Oct 2026 19:50:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-18-0.json"
     }
   ]

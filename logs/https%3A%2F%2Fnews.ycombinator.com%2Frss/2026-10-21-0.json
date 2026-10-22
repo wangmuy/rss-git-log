@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-21",
     "newestItemDate": "2026-10-21",
-    "itemCount": 47,
-    "generatedAt": "2026-10-22T05:01:30.067Z"
+    "itemCount": 48,
+    "generatedAt": "2026-10-22T20:12:43.292Z"
   },
   "items": [
     {
@@ -288,6 +288,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZydW1wbGUuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIwJTJGYXNraW5nLWxsbS1mb3ItY29uZmlkZW5jZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZydW1wbGUuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIwJTJGYXNraW5nLWxsbS1mb3ItY29uZmlkZW5jZS5odG1sJTdDVXNpbmclMjBMTE0lMjBmb3IlMjBjb25maWRlbmNlJTIwc2NvcmluZyUyMGlzJTIwYSUyMGJhZCUyMGlkZWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE3NjA4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDA0JTNBMjclM0E1MSUyMCUyQjAwMDA",
       "title": "Using LLM for confidence scoring is a bad idea",
       "pubDate": "Wed, 21 Oct 2026 04:27:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1YmVyYmxvay5zdG9yYWdlYml0cy53b3JrZXJzLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGdWJlcmJsb2suc3RvcmFnZWJpdHMud29ya2Vycy5kZXYlMkYlN0NTaG93JTIwSE4lM0ElMjBVYmVyYmxvayUyMCVFMiU4MCU5MyUyMGFuJTIwaW50ZXJhY3RpdmUlMjBtdXNldW0lMjBvZiUyMFpGUyUyMGludGVybmFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTgwMjU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTMlM0EwNCUzQTI1JTIwJTJCMDAwMA",
+      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+      "pubDate": "Wed, 21 Oct 2026 13:04:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
     }
   ]

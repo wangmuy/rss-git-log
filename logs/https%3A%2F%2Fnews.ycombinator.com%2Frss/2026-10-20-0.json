@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 50,
-    "generatedAt": "2026-10-22T13:54:12.443Z"
+    "itemCount": 51,
+    "generatedAt": "2026-10-22T20:12:43.293Z"
   },
   "items": [
     {
@@ -306,6 +306,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuc2lkYy5vcmclMkZsZWFybiUyRmFzay1zY2llbnRpc3QlMkZrYXJha29yYW0tYW5vbWFseS1pdC1yZWFsJTdDaHR0cHMlM0ElMkYlMkZuc2lkYy5vcmclMkZsZWFybiUyRmFzay1zY2llbnRpc3QlMkZrYXJha29yYW0tYW5vbWFseS1pdC1yZWFsJTdDV2hhdCUyMElzJTIwdGhlJTIwS2FyYWtvcmFtJTIwQW5vbWFseSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTYwMjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMDElM0EyNiUzQTUzJTIwJTJCMDAwMA",
       "title": "What Is the Karakoram Anomaly?",
       "pubDate": "Tue, 20 Oct 2026 01:26:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGVuZ2xvdS5tZSUyRmhhbmR3aXJlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGY2hlbmdsb3UubWUlMkZoYW5kd2lyZWQlMkYlN0NTaG93JTIwSE4lM0ElMjBUdXJuJTIwcmVndWxhciUyMEphdmFTY3JpcHQlMjBpbnRvJTIwYSUyMG5ldXJhbCUyMG5ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTcyOTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMjElM0EzMiUzQTIzJTIwJTJCMDAwMA",
+      "title": "Show HN: Turn regular JavaScript into a neural net",
+      "pubDate": "Tue, 20 Oct 2026 21:32:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]
