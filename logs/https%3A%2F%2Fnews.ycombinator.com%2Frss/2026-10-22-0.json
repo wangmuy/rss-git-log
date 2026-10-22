@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-22",
     "newestItemDate": "2026-10-22",
-    "itemCount": 3,
-    "generatedAt": "2026-10-22T05:01:30.066Z"
+    "itemCount": 12,
+    "generatedAt": "2026-10-22T13:54:12.442Z"
   },
   "items": [
     {
@@ -24,6 +24,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvbGl2ZXJncmFibmVyLmNvbSUyRnJlc2VhcmNoJTJGcG9rZW1vbiUyRiU3Q2h0dHBzJTNBJTJGJTJGb2xpdmVyZ3JhYm5lci5jb20lMkZyZXNlYXJjaCUyRnBva2Vtb24lMkYlN0NMTE0lMjBhZ2VudHMlMjBwbGF5JTIwUG9rZW1vbiUyMHNob3dkb3duJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTAzMzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAwMiUzQTEzJTNBNDglMjAlMkIwMDAw",
       "title": "LLM agents play Pokemon showdown",
       "pubDate": "Thu, 22 Oct 2026 02:13:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk0OTA5JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk0OTA5JTdDZU11ZGhyYSUyMHRvJTIwRXhpdCUyMEdsb2JhbCUyMFNTTCUyRlRMUyUyMENlcnRpZmljYXRlJTIwQnVzaW5lc3MlM0IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NDkwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDEzJTNBMTclM0EyOSUyMCUyQjAwMDA",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+      "pubDate": "Thu, 22 Oct 2026 13:17:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExNDI5Ni13b21hbi1zcGVuZHMtdGhyZWUtbmlnaHRzLWphaWwtZmFjZXMtc2l4LXllYXJzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNoc3BvdC5jb20lMkZuZXdzJTJGMTE0Mjk2LXdvbWFuLXNwZW5kcy10aHJlZS1uaWdodHMtamFpbC1mYWNlcy1zaXgteWVhcnMuaHRtbCU3Q1dvbWFuJTIwZmFjZXMlMjBzaXglMjB5ZWFycyUyMGluJTIwcHJpc29uJTIwb3ZlciUyMENhc2glMjBBcHAlMjBhY2NvdW50JTIwc2hlJTIwbmV2ZXIlMjBvcGVuZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NDgzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDEzJTNBMTElM0EwMCUyMCUyQjAwMDA",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "pubDate": "Thu, 22 Oct 2026 13:11:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhd3MuYW1hem9uLmNvbSUyRmJsb2dzJTJGc2VjdXJpdHklMkZhbWF6b24tdGhyZWF0LWludGVsbGlnZW5jZS1pZGVudGlmaWVzLXBocDJzaGVsbC1leHBsb2l0YXRpb24tcHJpb3ItdG8tcHVibGljLWRpc2Nsb3N1cmUtaW4tbWFkcG90JTJGJTdDaHR0cHMlM0ElMkYlMkZhd3MuYW1hem9uLmNvbSUyRmJsb2dzJTJGc2VjdXJpdHklMkZhbWF6b24tdGhyZWF0LWludGVsbGlnZW5jZS1pZGVudGlmaWVzLXBocDJzaGVsbC1leHBsb2l0YXRpb24tcHJpb3ItdG8tcHVibGljLWRpc2Nsb3N1cmUtaW4tbWFkcG90JTJGJTdDQW1hem9uJTIwaWRlbnRpZmllcyUyME9jdCUyMDE3JTIwUEhQMlNoZWxsJTIwZXhwbG9pdGF0aW9uJTIwcHJpb3IlMjB0byUyMHB1YmxpYyUyMGRpc2Nsb3N1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NDA3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDExJTNBNTAlM0EzNiUyMCUyQjAwMDA",
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "pubDate": "Thu, 22 Oct 2026 11:50:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhvcm9uaXguY29tJTJGbmV3cyUyRkxLTUwtTmV3LVRyZW5kLVZ1bG5lcmFiaWxpdGllcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBob3Jvbml4LmNvbSUyRm5ld3MlMkZMS01MLU5ldy1UcmVuZC1WdWxuZXJhYmlsaXRpZXMlN0NTZXZlcmFsJTIwTGludXglMjBrZXJuZWwlMjB2dWxuZXJhYmlsaXRpZXMlMjBhY2NpZGVudGFsbHklMjBwb3N0ZWQlMjB0byUyMHB1YmxpYyUyMG1haWxpbmclMjBsaXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTM4MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxMSUzQTEyJTNBMzclMjAlMkIwMDAw",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "pubDate": "Thu, 22 Oct 2026 11:12:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbG9idXMuc29mdHdhcmUlMkZibG9nJTJGMjAyNiUyRjEwJTJGMTYlMkZjdXR0aW5nLW1hcC1wb2x5Z29ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2xvYnVzLnNvZnR3YXJlJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjE2JTJGY3V0dGluZy1tYXAtcG9seWdvbnMlMkYlN0NGYXN0ZXIlMjB0aGFuJTIwZWFyY3V0JTNBJTIwdHJpYW5ndWxhdGluZyUyMDMuN00lMjBtYXAlMjBwb2x5Z29ucyUyMGluJTIwNDg5JTIwbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5MzE3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDA5JTNBMzElM0ExOCUyMCUyQjAwMDA",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "pubDate": "Thu, 22 Oct 2026 09:31:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudmQubmlzdC5nb3YlMkZ2dWxuJTJGZGV0YWlsJTJGY3ZlLTIwMjYtMTExOTQzJTdDaHR0cHMlM0ElMkYlMkZudmQubmlzdC5nb3YlMkZ2dWxuJTJGZGV0YWlsJTJGY3ZlLTIwMjYtMTExOTQzJTdDQ1ZFLTIwMjYtMTExOTQzJTNBJTIwQ29tcHJvbWlzZWQlMjBJbnRlcm1lZGlhdGUlMjBDZXJ0aWZpY2F0ZSUyMEF1dGhvcml0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkyOTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMDglM0E1MSUzQTMxJTIwJTJCMDAwMA",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "pubDate": "Thu, 22 Oct 2026 08:51:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZXBzaXB1LmNvbSUyRmJsb2clMkYyMDI2LTEwLXN3aXRjaDItamFpbGJyZWFrLW5zMmpiJTJGJTdDaHR0cHMlM0ElMkYlMkZwZXBzaXB1LmNvbSUyRmJsb2clMkYyMDI2LTEwLXN3aXRjaDItamFpbGJyZWFrLW5zMmpiJTJGJTdDSmFpbGJyZWFraW5nJTIwdGhlJTIwU3dpdGNoJTIwMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkyNTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMDglM0EwMSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Jailbreaking the Switch 2",
+      "pubDate": "Thu, 22 Oct 2026 08:01:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGb3BlbmFpLWNsaSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRm9wZW5haS1jbGklN0NPcGVuQUklMjBDTEklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5MTUwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDA1JTNBMjMlM0ExMSUyMCUyQjAwMDA",
+      "title": "OpenAI CLI",
+      "pubDate": "Thu, 22 Oct 2026 05:23:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1lZHcuY29tJTJGMjAyNiUyRjEwJTJGMjElMkZ3b3JsZC1tb2RlbC10ZXJtaW5hbCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2ltZWR3LmNvbSUyRjIwMjYlMkYxMCUyRjIxJTJGd29ybGQtbW9kZWwtdGVybWluYWwlMkYlN0NXb3JsZFRVSSUzQSUyMEklMjB0cmFpbmVkJTIwYSUyMDM2ME0lMjBtb2RlbCUyMHRvJTIwcHJldGVuZCUyMHRvJTIwYmUlMjBhJTIwdGVybWluYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5MDM2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDAyJTNBMTglM0E0MSUyMCUyQjAwMDA",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "pubDate": "Thu, 22 Oct 2026 02:18:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
     }
   ]

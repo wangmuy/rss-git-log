@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-19",
     "newestItemDate": "2026-10-19",
-    "itemCount": 62,
-    "generatedAt": "2026-10-22T05:01:30.067Z"
+    "itemCount": 66,
+    "generatedAt": "2026-10-22T13:54:12.443Z"
   },
   "items": [
     {
@@ -378,6 +378,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWxiZXJ0b2RlbmlhLmNvbSUyRndyaXRpbmclMkZjb2RlLWlzLWNsYXktbm93JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYWxiZXJ0b2RlbmlhLmNvbSUyRndyaXRpbmclMkZjb2RlLWlzLWNsYXktbm93JTdDQ29kZSUyMGlzJTIwY2xheSUyMG5vdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUzNTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMTUlM0ExOSUzQTQ1JTIwJTJCMDAwMA",
       "title": "Code is clay now",
       "pubDate": "Mon, 19 Oct 2026 15:19:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjEwJTJGc3RhcnR1cC10YXBzLXVuZGVyd2F0ZXItdm9sY2Fuby1hcy1lbmVyZ3ktc291cmNlLWluLXByb29mLXBvaW50LXRlc3QlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRnNjaWVuY2UlMkYyMDI2JTJGMTAlMkZzdGFydHVwLXRhcHMtdW5kZXJ3YXRlci12b2xjYW5vLWFzLWVuZXJneS1zb3VyY2UtaW4tcHJvb2YtcG9pbnQtdGVzdCUyRiU3Q1N0YXJ0dXAlMjB0YXBzJTIwdW5kZXJ3YXRlciUyMHZvbGNhbm8lMjBhcyUyMGVuZXJneSUyMHNvdXJjZSUyMGluJTIwJTIycHJvb2YlMjBwb2ludCUyMiUyMHRlc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE1NzQ1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE5JTIwT2N0JTIwMjAyNiUyMDIwJTNBMTIlM0E0OSUyMCUyQjAwMDA",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "pubDate": "Mon, 19 Oct 2026 20:12:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlaWdlbm1vb24udmVyY2VsLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWlnZW5tb29uLnZlcmNlbC5hcHAlMkYlN0NFaWdlbm1vb24lM0ElMjBsaW5lYXIlMjBhbGdlYnJhJTIwcHV6emxlcyUyMGJ5JTIwbW9vbmxpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTczMTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAyMCUzQTAyJTNBMDMlMjAlMkIwMDAw",
+      "title": "Eigenmoon: linear algebra puzzles by moonlight",
+      "pubDate": "Mon, 19 Oct 2026 20:02:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmFnaWxpdHktcm9ib3RpY3MtZGlnaXQtNS1yZWRlc2lnbiU3Q2h0dHBzJTNBJTJGJTJGc3BlY3RydW0uaWVlZS5vcmclMkZhZ2lsaXR5LXJvYm90aWNzLWRpZ2l0LTUtcmVkZXNpZ24lN0NUaGUlMjBSb2JvdCUyMEklMjBEaWRuJ3QlMjBFeHBlY3QlMjB0byUyMEJ1aWxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTU2MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxOSUyME9jdCUyMDIwMjYlMjAxNyUzQTU3JTNBMTglMjAlMkIwMDAw",
+      "title": "The Robot I Didn't Expect to Build",
+      "pubDate": "Mon, 19 Oct 2026 17:57:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdXNpY2FsZm9ybS5zdWJzdGFjay5jb20lMkZwJTJGd2hhdC1pcy1ncmlkaWZjYXRpb24lN0NodHRwcyUzQSUyRiUyRm11c2ljYWxmb3JtLnN1YnN0YWNrLmNvbSUyRnAlMkZ3aGF0LWlzLWdyaWRpZmNhdGlvbiU3Q1doYXQlMjBJcyUyMEdyaWRpZmNhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTUwMTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTklMjBPY3QlMjAyMDI2JTIwMDklM0ExMyUzQTEyJTIwJTJCMDAwMA",
+      "title": "What Is Gridifcation",
+      "pubDate": "Mon, 19 Oct 2026 09:13:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-19-0.json"
     }
   ]
