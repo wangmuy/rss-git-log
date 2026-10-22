@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 45,
-    "generatedAt": "2026-10-21T20:14:14.362Z"
+    "itemCount": 48,
+    "generatedAt": "2026-10-22T05:01:30.067Z"
   },
   "items": [
     {
@@ -276,6 +276,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2luZG93c2xhdGVzdC5jb20lMkYyMDI2JTJGMTAlMkYxOSUyRndoeS13aW5kb3dzLTExLXN0aWxsLXNoaXBzLXdpdGgtd2luZG93cy05NXMtbWVtb3J5LW1hbmFnZXItaGlkZGVuLWluc2lkZS1pdCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpbmRvd3NsYXRlc3QuY29tJTJGMjAyNiUyRjEwJTJGMTklMkZ3aHktd2luZG93cy0xMS1zdGlsbC1zaGlwcy13aXRoLXdpbmRvd3MtOTVzLW1lbW9yeS1tYW5hZ2VyLWhpZGRlbi1pbnNpZGUtaXQlMkYlN0NXaHklMjBXaW5kb3dzJTIwMTElMjBzdGlsbCUyMHNoaXBzJTIwd2l0aCUyMFdpbmRvd3MlMjA5NSdzJTIwbWVtb3J5JTIwbWFuYWdlciUyMGhpZGRlbiUyMGluc2lkZSUyMGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNTk3MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAwMCUzQTE0JTNBMDMlMjAlMkIwMDAw",
       "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
       "pubDate": "Tue, 20 Oct 2026 00:14:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDk2MDI4JTJGJTdDaHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGQXJ0aWNsZXMlMkYxMDk2MDI4JTJGJTdDQmV5b25kJTIwdGhlJTIwJTI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNjY1OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAxMyUzQTU5JTNBMTElMjAlMkIwMDAw",
+      "title": "Beyond the &",
+      "pubDate": "Tue, 20 Oct 2026 13:59:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZpY29ucy1pbi1ldmVyeS1tZW51JTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZpY29ucy1pbi1ldmVyeS1tZW51JTJGJTdDTm8lMjBtb3JlJTIwaWNvbnMlMjBpbiUyMGV2ZXJ5JTIwbWVudSUyMGJ5JTIwZGVmYXVsdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTYxMzQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMDQlM0EyNyUzQTA4JTIwJTJCMDAwMA",
+      "title": "No more icons in every menu by default",
+      "pubDate": "Tue, 20 Oct 2026 04:27:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamhpYmxvZy5vcmclMkYyMDI2JTJGMTAlMkYxOSUyRmNsb2Nrd29yay1tZXRhcGhvcnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5qaGlibG9nLm9yZyUyRjIwMjYlMkYxMCUyRjE5JTJGY2xvY2t3b3JrLW1ldGFwaG9ycyUyRiU3Q0Nsb2Nrd29yayUyME1lY2hhbmljcyUyQyUyME1haW50ZW5hbmNlJTJDJTIwYW5kJTIwTWV0YXBob3JzJTIwaW4lMjB0aGUlMjBMYXRlJTIwTWlkZGxlJTIwQWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTYwOTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMDMlM0EyNSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+      "pubDate": "Tue, 20 Oct 2026 03:25:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-21",
     "newestItemDate": "2026-10-21",
-    "itemCount": 39,
-    "generatedAt": "2026-10-21T20:14:14.361Z"
+    "itemCount": 47,
+    "generatedAt": "2026-10-22T05:01:30.067Z"
   },
   "items": [
     {
@@ -240,6 +240,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbHRlcmF1dGguY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZhbHRlcmF1dGguY29tJTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBBbHRlciUyMChZQyUyMFMyNSklMjAlRTIlODAlOTMlMjBBY2Nlc3MlMjBjb250cm9sJTIwZm9yJTIwbXVsdGktdXNlciUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTc2OTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMDYlM0E0MiUzQTEyJTIwJTJCMDAwMA",
       "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
       "pubDate": "Wed, 21 Oct 2026 06:42:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWl0bXByb3h5JTJGbWl0bXByb3h5JTJGY29tbWl0JTJGMTY5MjM0NDk5MDg4ZmMyYzQxNDY0NGE2N2VmYWVkM2Q2NGFlMmUzYiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1pdG1wcm94eSUyRm1pdG1wcm94eSUyRmNvbW1pdCUyRjE2OTIzNDQ5OTA4OGZjMmM0MTQ2NDRhNjdlZmFlZDNkNjRhZTJlM2IlN0NtaXRtcHJveHklMjBhZGRzJTIwLS1lbXVkaHJhJTIwb3B0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODkyMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAyMyUzQTUxJTNBMzclMjAlMkIwMDAw",
+      "title": "mitmproxy adds --emudhra option",
+      "pubDate": "Wed, 21 Oct 2026 23:51:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGlhc3RheWxvci5jb20lMkZub2V4cGxvaXQlMkYlN0NodHRwcyUzQSUyRiUyRmVsaWFzdGF5bG9yLmNvbSUyRm5vZXhwbG9pdCUyRiU3Q1RoZXJlJTIwaXNuJ3QlMjBhbiUyMGVhc3klMjBleHBsb2l0JTIwZm9yJTIwdGhpcyUyMFBIUCUyMHZ1bG5lcmFiaWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4ODk0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDIzJTNBMTMlM0EyNyUyMCUyQjAwMDA",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "pubDate": "Wed, 21 Oct 2026 23:13:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmRlbnRwZXJmLmNvbSUyRjIwMjYlMkYxMCUyRjIwJTJGcG9zdGdyZXMtcmVjb3ZlcnlfcHJlZmV0Y2gtY29uc2lkZXJlZC1oYXJtZnVsLWFuZC1jYXVzaW5nLW91dGFnZXMlMkYlN0NodHRwcyUzQSUyRiUyRmFyZGVudHBlcmYuY29tJTJGMjAyNiUyRjEwJTJGMjAlMkZwb3N0Z3Jlcy1yZWNvdmVyeV9wcmVmZXRjaC1jb25zaWRlcmVkLWhhcm1mdWwtYW5kLWNhdXNpbmctb3V0YWdlcyUyRiU3Q1Bvc3RncmVzJTIwcmVjb3ZlcnlfcHJlZmV0Y2glMjBjYW4lMjBjYXVzZSUyMG91dGFnZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4ODYxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDIyJTNBMzMlM0EwOCUyMCUyQjAwMDA",
+      "title": "Postgres recovery_prefetch can cause outages",
+      "pubDate": "Wed, 21 Oct 2026 22:33:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJhaWx3YXkuY29tJTJGcCUyRnNlY3VyaXR5LWRpc2Nsb3N1cmUtd2VkbmVzZGF5LW9jdG9iZXItMjFzdCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5yYWlsd2F5LmNvbSUyRnAlMkZzZWN1cml0eS1kaXNjbG9zdXJlLXdlZG5lc2RheS1vY3RvYmVyLTIxc3QlN0NTZWN1cml0eSUyMERpc2Nsb3N1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4ODIyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDIxJTNBNTglM0EwMyUyMCUyQjAwMDA",
+      "title": "Security Disclosure",
+      "pubDate": "Wed, 21 Oct 2026 21:58:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb29nbGUuZ2l0aHViLmlvJTJGc3R5bGVndWlkZSUyRnJ1c3RndWlkZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZnb29nbGUuZ2l0aHViLmlvJTJGc3R5bGVndWlkZSUyRnJ1c3RndWlkZS5odG1sJTdDUnVzdCUyMFN0eWxlJTIwR3VpZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE4NjAxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDE5JTNBMTElM0E1NyUyMCUyQjAwMDA",
+      "title": "Rust Style Guide",
+      "pubDate": "Wed, 21 Oct 2026 19:11:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NzLmdpdGxhYi5jb20lMkZyZWxlYXNlcyUyRnBhdGNoZXMlMkZwYXRjaC1yZWxlYXNlLWdpdGxhYi0xOS01LTEtcmVsZWFzZWQlMkYlN0NodHRwcyUzQSUyRiUyRmRvY3MuZ2l0bGFiLmNvbSUyRnJlbGVhc2VzJTJGcGF0Y2hlcyUyRnBhdGNoLXJlbGVhc2UtZ2l0bGFiLTE5LTUtMS1yZWxlYXNlZCUyRiU3Q0dpdExhYiUyMGNyaXRpY2FsJTIwcGF0Y2glMjByZWxlYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODU4NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAxOSUzQTAxJTNBMTIlMjAlMkIwMDAw",
+      "title": "GitLab critical patch release",
+      "pubDate": "Wed, 21 Oct 2026 19:01:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb21uYXJhLWFpJTJGb21uYXJhJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb21uYXJhLWFpJTJGb21uYXJhJTdDU2hvdyUyMEhOJTNBJTIwT21uYXJhJTIwJUUyJTgwJTkzJTIwT3Blbi1zb3VyY2UlMjBhbHRlcm5hdGl2ZSUyMHRvJTIwQ2xhdWRlJTIwTWFuYWdlZCUyMEFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTgzODkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTYlM0E0NCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "pubDate": "Wed, 21 Oct 2026 16:44:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW1wbGUuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIwJTJGYXNraW5nLWxsbS1mb3ItY29uZmlkZW5jZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZydW1wbGUuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIwJTJGYXNraW5nLWxsbS1mb3ItY29uZmlkZW5jZS5odG1sJTdDVXNpbmclMjBMTE0lMjBmb3IlMjBjb25maWRlbmNlJTIwc2NvcmluZyUyMGlzJTIwYSUyMGJhZCUyMGlkZWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE3NjA4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDA0JTNBMjclM0E1MSUyMCUyQjAwMDA",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "pubDate": "Wed, 21 Oct 2026 04:27:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
     }
   ]
