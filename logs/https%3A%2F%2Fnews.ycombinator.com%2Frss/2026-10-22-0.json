@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-22",
     "newestItemDate": "2026-10-22",
-    "itemCount": 42,
-    "generatedAt": "2026-10-23T05:02:08.082Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-23T13:34:36.856Z"
   },
   "items": [
     {
@@ -258,6 +258,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYW1pbmclMkYyMDI2JTJGMTAlMkZ4Ym94LXdhbnRzLXlvdS10by1wYXktMjQtdG8tNDAtY2VudHMtcGVyLWhvdXItdG8tc3RyZWFtLWdhbWVzLXlvdS1hbHJlYWR5LWJvdWdodCUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGZ2FtaW5nJTJGMjAyNiUyRjEwJTJGeGJveC13YW50cy15b3UtdG8tcGF5LTI0LXRvLTQwLWNlbnRzLXBlci1ob3VyLXRvLXN0cmVhbS1nYW1lcy15b3UtYWxyZWFkeS1ib3VnaHQlMkYlN0NYYm94JTIwd2FudHMlMjB5b3UlMjB0byUyMHBheSUyMDI0JTIwdG8lMjA0MCUyMGNlbnRzJTIwcGVyJTIwaG91ciUyMHRvJTIwc3RyZWFtJTIwZ2FtZXMlMjB5b3UlMjBib3VnaHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NDAwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDExJTNBNDIlM0EwMyUyMCUyQjAwMDA",
       "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
       "pubDate": "Thu, 22 Oct 2026 11:42:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZGplZmZlcnNvbi5jb20lMkZsb2NhbHdpa2klMkYlN0NodHRwcyUzQSUyRiUyRmVkamVmZmVyc29uLmNvbSUyRmxvY2Fsd2lraSUyRiU3Q0xvY2FsJTIwV2lraXBlZGlhJTNBJTIwV2lraXBlZGlhJTJDJTIwYnV0JTIwb25seSUyMGZvciUyMHRoaW5ncyUyMGElMjBoYWxmJTIwaG91ciUyMHdhbGslMjBmcm9tJTIweW91JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDIyODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAyMyUzQTAxJTNBMTglMjAlMkIwMDAw",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "pubDate": "Thu, 22 Oct 2026 23:01:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGV0hFUXBzNVBLOExycmNUQWIlMkZob3ctZG9lcy1mYWJsZS01LTEtaGlkZS1tZXNzYWdlcy1pbi1pbWFnZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5sZXNzd3JvbmcuY29tJTJGcG9zdHMlMkZXSEVRcHM1UEs4THJyY1RBYiUyRmhvdy1kb2VzLWZhYmxlLTUtMS1oaWRlLW1lc3NhZ2VzLWluLWltYWdlcyU3Q0hvdyUyMGRvZXMlMjBGYWJsZSUyMDUuMSUyMGhpZGUlMjBtZXNzYWdlcyUyMGluJTIwaW1hZ2VzJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDE0NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAyMSUzQTQxJTNBMTMlMjAlMkIwMDAw",
+      "title": "How does Fable 5.1 hide messages in images?",
+      "pubDate": "Thu, 22 Oct 2026 21:41:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjAwOTk3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjAwOTk3JTdDQXNrJTIwSE4lM0ElMjBJZiUyMHRoZSUyMG1vZGVscyUyMGFyZSUyMHNvJTIwZ29vZCUyQyUyMHdoeSUyMGRvZXNuJ3QlMjBPcGVuQUklMjBqdXN0JTIwc3RhcnQlMjAxMDAlMjBjb21wYW5pZXMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMDk5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDIxJTNBMDMlM0E1NSUyMCUyQjAwMDA",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "pubDate": "Thu, 22 Oct 2026 21:03:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuY2hyb21lLmNvbSUyRmJsb2clMkZodG1sLWluLWNhbnZhcy1vcmlnaW4tdHJpYWwlN0NodHRwcyUzQSUyRiUyRmRldmVsb3Blci5jaHJvbWUuY29tJTJGYmxvZyUyRmh0bWwtaW4tY2FudmFzLW9yaWdpbi10cmlhbCU3Q1RoZSUyMEhUTUwtaW4tQ2FudmFzJTIwQVBJJTIwb3JpZ2luJTIwdHJpYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMDE2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE5JTNBNTQlM0EwNCUyMCUyQjAwMDA",
+      "title": "The HTML-in-Canvas API origin trial",
+      "pubDate": "Thu, 22 Oct 2026 19:54:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFkOS5uZXQlMkZuZXdzJTJGYmxvZyUyRmF1LXJldm9pci1mcmFuY2UlMkYlN0NodHRwcyUzQSUyRiUyRnF1YWQ5Lm5ldCUyRm5ld3MlMkZibG9nJTJGYXUtcmV2b2lyLWZyYW5jZSUyRiU3Q1F1YWQ5JTIwdG8lMjBleGl0JTIwRnJhbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTU5NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxNCUzQTMyJTNBMzglMjAlMkIwMDAw",
+      "title": "Quad9 to exit France",
+      "pubDate": "Thu, 22 Oct 2026 14:32:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZHNtdXJyZWxsJTJGb25rZXklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkc211cnJlbGwlMkZvbmtleSU3Q1Nob3clMjBITiUzQSUyME9uS2V5JTIwJUUyJTgwJTkzJTIwSSdtJTIwYSUyMGJhZCUyMHNpbmdlciUyQyUyMHNvJTIwSSUyMGJ1aWx0JTIwYW4lMjBhcHAlMjB0byUyMHNob3clMjB3aGVyZSUyMEknbSUyMG9mZi1rZXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NTQ4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE0JTNBMDQlM0E0NCUyMCUyQjAwMDA",
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "pubDate": "Thu, 22 Oct 2026 14:04:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAzLjAxMDkyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAzLjAxMDkyJTdDVGhlJTIwYWxpZW4lMjBzcGFjZSUyMG9mJTIwc2NpZW5jZSUzQSUyMENvaGVyZW50JTIwYnV0JTIwY29nbml0aXZlbHklMjB1bmF2YWlsYWJsZSUyMGRpcmVjdGlvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NTAwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDEzJTNBMjUlM0EwMSUyMCUyQjAwMDA",
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "pubDate": "Thu, 22 Oct 2026 13:25:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
     }
   ]

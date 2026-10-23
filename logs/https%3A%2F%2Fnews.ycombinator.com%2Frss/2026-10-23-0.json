@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-23",
     "newestItemDate": "2026-10-23",
-    "itemCount": 3,
-    "generatedAt": "2026-10-23T05:02:08.082Z"
+    "itemCount": 15,
+    "generatedAt": "2026-10-23T13:34:36.856Z"
   },
   "items": [
     {
@@ -24,6 +24,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3MudXRleGFzLmVkdSUyRn5FV0QlMkZ0cmFuc2NyaXB0aW9ucyUyRkVXRDA2eHglMkZFV0Q2NjcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNzLnV0ZXhhcy5lZHUlMkZ+RVdEJTJGdHJhbnNjcmlwdGlvbnMlMkZFV0QwNnh4JTJGRVdENjY3Lmh0bWwlN0NUaGUlMjBmb29saXNobmVzcyUyMG9mJTIwJTIybmF0dXJhbCUyMGxhbmd1YWdlJTIwcHJvZ3JhbW1pbmclMjIlMjAoMTk3OCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMzE2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDAwJTNBNTIlM0EwMSUyMCUyQjAwMDA",
       "title": "The foolishness of \"natural language programming\" (1978)",
       "pubDate": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZWVwYW5kcm9pZG9wZW4ub3JnJTJGJTNGJTdDaHR0cHMlM0ElMkYlMkZrZWVwYW5kcm9pZG9wZW4ub3JnJTJGJTdDUGhvbmUlMjBJcyUyMEFib3V0JTIwdG8lMjBTdG9wJTIwQmVpbmclMjBZb3VycyUzQSUyMDcwJTIwRGF5cyUyMFVudGlsJTIwTG9ja2Rvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwODU1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDEzJTNBMTklM0E0MiUyMCUyQjAwMDA",
+      "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "pubDate": "Fri, 23 Oct 2026 13:19:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlYmVyZy5vcmclMkZzaGl0dGVyJTJGc2hpdHRlciU3Q2h0dHBzJTNBJTJGJTJGY29kZWJlcmcub3JnJTJGc2hpdHRlciUyRnNoaXR0ZXIlN0NTaGl0dGVyJTIwJUUyJTgwJTkzJTIwQSUyME5pdHRlciUyMEZvcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwODM0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDEzJTNBMDIlM0EyMyUyMCUyQjAwMDA",
+      "title": "Shitter – A Nitter Fork",
+      "pubDate": "Fri, 23 Oct 2026 13:02:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbnNzbCUyRm9wZW5zc2wlMkZyZWxlYXNlcyUyRnRhZyUyRm9wZW5zc2wtNC4xLjAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvcGVuc3NsJTJGb3BlbnNzbCUyRnJlbGVhc2VzJTJGdGFnJTJGb3BlbnNzbC00LjEuMCU3Q09wZW5TU0wlMjA0LjEuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjA4MDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTIlM0E0MiUzQTQ0JTIwJTJCMDAwMA",
+      "title": "OpenSSL 4.1.0",
+      "pubDate": "Fri, 23 Oct 2026 12:42:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3ZlcmlnZXNyYWRpby5zZSUyRmFydGlrZWwlMkZjaGF0LWdwdC1vY2gtY2xhdWRlLWZvcmJqdWRlci1yZWdlcmluZ3NrYW5zbGlldCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnN2ZXJpZ2VzcmFkaW8uc2UlMkZhcnRpa2VsJTJGY2hhdC1ncHQtb2NoLWNsYXVkZS1mb3JianVkZXItcmVnZXJpbmdza2Fuc2xpZXQlN0NTd2VkaXNoJTIwZ292ZXJubWVudCUyMG9mZmljZXMlMjB0byUyMGJhbiUyMENoYXRHUFQlMjBhbmQlMjBDbGF1ZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwNzQwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDExJTNBMzklM0E1NCUyMCUyQjAwMDA",
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "pubDate": "Fri, 23 Oct 2026 11:39:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcmV3LnNpbGNvY2suZGV2JTJGYmxvZyUyRmlzLXRoaXMtdGhlLW5ldy1jeWJlci1ub3JtYWwlMkYlN0NodHRwcyUzQSUyRiUyRmRyZXcuc2lsY29jay5kZXYlMkZibG9nJTJGaXMtdGhpcy10aGUtbmV3LWN5YmVyLW5vcm1hbCUyRiU3Q0lzJTIwdGhpcyUyMHRoZSUyMG5ldyUyMGN5YmVyJTIwbm9ybWFsJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDcxMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxMSUzQTA0JTNBNTMlMjAlMkIwMDAw",
+      "title": "Is this the new cyber normal?",
+      "pubDate": "Fri, 23 Oct 2026 11:04:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmppbS1uaWVsc2VuLmNvbSUyRjIwMjYlMkZza2lwLXJldGlyZW1lbnQtZm9yLXV0b3BpYSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5qaW0tbmllbHNlbi5jb20lMkYyMDI2JTJGc2tpcC1yZXRpcmVtZW50LWZvci11dG9waWElMkYlN0NObyUyME5lZWQlMjBmb3IlMjBSZXRpcmVtZW50JTIwV2hlbiUyMFV0b3BpYSUyMElzJTIwQXJvdW5kJTIwdGhlJTIwQ29ybmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDcwNTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxMCUzQTU4JTNBNTIlMjAlMkIwMDAw",
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "pubDate": "Fri, 23 Oct 2026 10:58:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmphcmVka3VzaG5lciUyRnN0YXR1cyUyRjIxMTMzNzYyMTc0MTU5NTg3NjclN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGamFyZWRrdXNobmVyJTJGc3RhdHVzJTJGMjExMzM3NjIxNzQxNTk1ODc2NyU3Q0R1dGNoJTIwZ292ZXJubWVudCUyMGhhZCUyMGhhY2tlZCUyMGludG8lMjBKYXJlZCUyMEt1c2huZXIncyUyMHBob25lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDY5MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxMCUzQTQxJTNBMzIlMjAlMkIwMDAw",
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "pubDate": "Fri, 23 Oct 2026 10:41:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aWxzY2h1ZW5lbWFubi5kZSUyRmpvYi1sb3NzLWNvcnRpc29uZS1tYW5pYSU3Q2h0dHBzJTNBJTJGJTJGdGlsc2NodWVuZW1hbm4uZGUlMkZqb2ItbG9zcy1jb3J0aXNvbmUtbWFuaWElN0NKb2IlMjBMb3NzJTIwYW5kJTIwQ29ydGlzb25lJTIwTWFuaWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwNjg0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDEwJTNBMzElM0EyNCUyMCUyQjAwMDA",
+      "title": "Job Loss and Cortisone Mania",
+      "pubDate": "Fri, 23 Oct 2026 10:31:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHZmYW5kb21sb3VuZ2UuY29tJTJGZGlzbmV5LXBsdXMtcHJpY2UtaGlrZS1hZHMtcHJlbWl1bS10aWVyLW5pZWxzZW4tZW1teXMtMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnR2ZmFuZG9tbG91bmdlLmNvbSUyRmRpc25leS1wbHVzLXByaWNlLWhpa2UtYWRzLXByZW1pdW0tdGllci1uaWVsc2VuLWVtbXlzLTIwMjYlMkYlN0NEaXNuZXklMjBSYWlzaW5nJTIwUHJpY2VzJTIwRGF5cyUyMEFmdGVyJTIwQ29uZmlybWluZyUyMEFkcyUyMFdpbGwlMjBOb3clMjBTaG93JTIwVXAlMjBvbiUyMEV2ZXJ5JTIwVGllciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjA1OTM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMDglM0EyMSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "pubDate": "Fri, 23 Oct 2026 08:21:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQ2xpY2tIb3VzZSUyRkNsaWNrQmVuY2glMkZwdWxsJTJGMjE2NSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkNsaWNrSG91c2UlMkZDbGlja0JlbmNoJTJGcHVsbCUyRjIxNjUlN0NSZW1vdmUlMjBwZ3J1c3QlM0ElMjB0aGUlMjBlbnRyeSUyMGlzJTIwY2hlYXRpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwNTgxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDA4JTNBMDUlM0EzMyUyMCUyQjAwMDA",
+      "title": "Remove pgrust: the entry is cheating",
+      "pubDate": "Fri, 23 Oct 2026 08:05:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXdha2luLm9yZyUyRnYyJTJGcmVhZCUyRnZpZXcucGhwJTNGdGlkJTNENDY4JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXdha2luLm9yZyUyRnYyJTJGcmVhZCUyRnZpZXcucGhwJTNGdGlkJTNENDY4JTdDVGhpcyUyMEklMjBCZWxpZXZlJTIwKDE5NTIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDM3NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAwMiUzQTE5JTNBMzglMjAlMkIwMDAw",
+      "title": "This I Believe (1952)",
+      "pubDate": "Fri, 23 Oct 2026 02:19:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW51Ymhhdm1hbGhvdHJhJTJGcjJkMi10diU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFudWJoYXZtYWxob3RyYSUyRnIyZDItdHYlN0NTaG93JTIwSE4lM0ElMjBNYWtpbmclMjBhJTIwc21hcnQlMjBUViUyMGR1bWIlMjBhbmQlMjB0aGVuJTIwc21hcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMjg2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDAwJTNBMTAlM0E0NSUyMCUyQjAwMDA",
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "pubDate": "Fri, 23 Oct 2026 00:10:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
     }
   ]

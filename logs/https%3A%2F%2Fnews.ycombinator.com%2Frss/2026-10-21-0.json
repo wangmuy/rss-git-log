@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-21",
     "newestItemDate": "2026-10-21",
-    "itemCount": 48,
-    "generatedAt": "2026-10-22T20:12:43.292Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-23T13:34:36.857Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1YmVyYmxvay5zdG9yYWdlYml0cy53b3JrZXJzLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGdWJlcmJsb2suc3RvcmFnZWJpdHMud29ya2Vycy5kZXYlMkYlN0NTaG93JTIwSE4lM0ElMjBVYmVyYmxvayUyMCVFMiU4MCU5MyUyMGFuJTIwaW50ZXJhY3RpdmUlMjBtdXNldW0lMjBvZiUyMFpGUyUyMGludGVybmFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTgwMjU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTMlM0EwNCUzQTI1JTIwJTJCMDAwMA",
       "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
       "pubDate": "Wed, 21 Oct 2026 13:04:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3dWVtZWxpLmNvbSUyRmJsb2clMkZyZXZlcnNpbmctaGl0c3Rlci1nYW1lJTJGJTdDaHR0cHMlM0ElMkYlMkZ3dWVtZWxpLmNvbSUyRmJsb2clMkZyZXZlcnNpbmctaGl0c3Rlci1nYW1lJTJGJTdDSSUyMHJldmVyc2UlMjBlbmdpbmVlcmVkJTIwYSUyMGJvYXJkJTIwZ2FtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTgwNzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTMlM0E0MCUzQTMxJTIwJTJCMDAwMA",
+      "title": "I reverse engineered a board game",
+      "pubDate": "Wed, 21 Oct 2026 13:40:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
     }
   ]
