@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-22",
     "newestItemDate": "2026-10-22",
-    "itemCount": 32,
-    "generatedAt": "2026-10-22T20:12:43.292Z"
+    "itemCount": 42,
+    "generatedAt": "2026-10-23T05:02:08.082Z"
   },
   "items": [
     {
@@ -198,6 +198,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkzNDE2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkzNDE2JTdDVGVsbCUyMEhOJTNBJTIwSSUyMHVua25vd2luZ2x5JTIwYnJva2UlMjB0aGUlMjBQSFAlMjBSQ0UlMjBlbWJhcmdvLiUyMEklMjBhbSUyMHNvcnJ5LiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkzNDE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTAlM0ExMSUzQTQ0JTIwJTJCMDAwMA",
       "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
       "pubDate": "Thu, 22 Oct 2026 10:11:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFwcy5jb20lMkZzdGFyLW1hcC1jaGFydHMtc3RhcnMtYW5kLWNvbnN0ZWxsYXRpb25zLW9mLW5vcnRoZXJuLWhlbWlzcGhlcmUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5tYXBzLmNvbSUyRnN0YXItbWFwLWNoYXJ0cy1zdGFycy1hbmQtY29uc3RlbGxhdGlvbnMtb2Ytbm9ydGhlcm4taGVtaXNwaGVyZSUyRiU3Q01hcHBpbmclMjB0aGUlMjBOb3J0aGVybiUyMFNreSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjAyNzY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMjMlM0E1NiUzQTM5JTIwJTJCMDAwMA",
+      "title": "Mapping the Northern Sky",
+      "pubDate": "Thu, 22 Oct 2026 23:56:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYW5rLWxhbmcub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZqYW5rLWxhbmcub3JnJTJGJTdDSmFuayUyMCVFMiU4MCU5MyUyMFRoZSUyMG5hdGl2ZSUyMENsb2p1cmUlMjBkaWFsZWN0JTIwd2l0aCUyMHNlYW1sZXNzJTIwQyUyQiUyQiUyMGludGVyb3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMjc2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDIzJTNBNTYlM0EzNiUyMCUyQjAwMDA",
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "pubDate": "Thu, 22 Oct 2026 23:56:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2RlYW5kY2FrZS5kZXYlMkZwb3N0cyUyRjIwMjYtMTAtMjItZG9ja2VyLWlzLXdlaXJkJTdDaHR0cHMlM0ElMkYlMkZjb2RlYW5kY2FrZS5kZXYlMkZwb3N0cyUyRjIwMjYtMTAtMjItZG9ja2VyLWlzLXdlaXJkJTdDRG9ja2VyJTIwaXMlMjB3ZWlyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjAyNjgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMjMlM0E0NSUzQTU2JTIwJTJCMDAwMA",
+      "title": "Docker is weird",
+      "pubDate": "Thu, 22 Oct 2026 23:45:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmZpbmFuY2UtYW5kLWVjb25vbWljcyUyRjIwMjYlMkYxMCUyRjIyJTJGYWktY29tcHV0ZS1pcy10aGUtbmV3LW9pbC1hbmQtbmVlZHMtYS1uZXctbWFya2V0JTdDaHR0cHMlM0ElMkYlMkZ3d3cuZWNvbm9taXN0LmNvbSUyRmZpbmFuY2UtYW5kLWVjb25vbWljcyUyRjIwMjYlMkYxMCUyRjIyJTJGYWktY29tcHV0ZS1pcy10aGUtbmV3LW9pbC1hbmQtbmVlZHMtYS1uZXctbWFya2V0JTdDQUklMjBjb21wdXRlJTIwaXMlMjB0aGUlMjBuZXclMjBvaWwlRTIlODAlOTNhbmQlMjBuZWVkcyUyMGElMjBuZXclMjBtYXJrZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMjY3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDIzJTNBNDUlM0ExNiUyMCUyQjAwMDA",
+      "title": "AI compute is the new oil–and needs a new market",
+      "pubDate": "Thu, 22 Oct 2026 23:45:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZm9ybWFsLXZlcmlmaWNhdGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZyZXNlYXJjaCUyRmZvcm1hbC12ZXJpZmljYXRpb24lN0NMTE1zJTIwYXJlJTIwbWFraW5nJTIwZm9ybWFsJTIwc29mdHdhcmUlMjB2ZXJpZmljYXRpb24lMjBmZWFzaWJsZSUyMGF0JTIwYSUyMG11Y2glMjBsYXJnZXIlMjBzY2FsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjAyMjE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMjIlM0E1NCUzQTQzJTIwJTJCMDAwMA",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "pubDate": "Thu, 22 Oct 2026 22:54:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFpbi5zYW1pc21pdGguY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0cmFpbi5zYW1pc21pdGguY29tJTJGJTdDUmFpbHBhc3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMTQxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDIxJTNBMzglM0EzMiUyMCUyQjAwMDA",
+      "title": "Railpass",
+      "pubDate": "Thu, 22 Oct 2026 21:38:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9kZWxjb21wYXJlLmFpJTJGYmxvZyUyRmFpLW1vZGVscy1jb250cm92ZXJzaWFsLXRha2Utb24taHVtYW5zJTdDaHR0cHMlM0ElMkYlMkZ3d3cubW9kZWxjb21wYXJlLmFpJTJGYmxvZyUyRmFpLW1vZGVscy1jb250cm92ZXJzaWFsLXRha2Utb24taHVtYW5zJTdDRXZlcnklMjBBSSUyMG1vZGVsJTIwaGFzJTIwdGhlJTIwc2FtZSUyMCUyMmNvbnRyb3ZlcnNpYWwlMjIlMjB0YWtlJTIwb24lMjBodW1hbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NzMxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE2JTNBMDglM0EwMCUyMCUyQjAwMDA",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "pubDate": "Thu, 22 Oct 2026 16:08:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb29zZXhnYW5nJTJGaGFja2lvcy14bnUta2VybmVsJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb29zZXhnYW5nJTJGaGFja2lvcy14bnUta2VybmVsJTdDUnVuJTIwZnVsbCUyMGlPUyUyMDE2LjUlMjBmaXJtd2FyZSUyMG9uJTIwQW5kcm9pZCUyMERldmljZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NjcxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE1JTNBMjYlM0EyMiUyMCUyQjAwMDA",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "pubDate": "Thu, 22 Oct 2026 15:26:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZhbWFuZGEtc21pdGgtb3BlbmVkLWEtY2FzaGFwcC1pbi1oZXItbmFtZS1zaGUtZmFjZXMteWVhcnMtaW4tcHJpc29uLWNhc2hhcHAtZnJhdWQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy40MDRtZWRpYS5jbyUyRmFtYW5kYS1zbWl0aC1vcGVuZWQtYS1jYXNoYXBwLWluLWhlci1uYW1lLXNoZS1mYWNlcy15ZWFycy1pbi1wcmlzb24tY2FzaGFwcC1mcmF1ZCUyRiU3Q1dvbWFuJTIwY2hhcmdlZCUyMHdpdGglMjBjb21wdXRlciUyMGZyYXVkJTIwZHVlJTIwdG8lMjBzY2FtJTIwQ2FzaEFwcCUyMGFjY291bnQlMjBiZWluZyUyMGluJTIwaGVyJTIwbmFtZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTk0ODMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTMlM0ExMSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+      "pubDate": "Thu, 22 Oct 2026 13:11:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYW1pbmclMkYyMDI2JTJGMTAlMkZ4Ym94LXdhbnRzLXlvdS10by1wYXktMjQtdG8tNDAtY2VudHMtcGVyLWhvdXItdG8tc3RyZWFtLWdhbWVzLXlvdS1hbHJlYWR5LWJvdWdodCUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGZ2FtaW5nJTJGMjAyNiUyRjEwJTJGeGJveC13YW50cy15b3UtdG8tcGF5LTI0LXRvLTQwLWNlbnRzLXBlci1ob3VyLXRvLXN0cmVhbS1nYW1lcy15b3UtYWxyZWFkeS1ib3VnaHQlMkYlN0NYYm94JTIwd2FudHMlMjB5b3UlMjB0byUyMHBheSUyMDI0JTIwdG8lMjA0MCUyMGNlbnRzJTIwcGVyJTIwaG91ciUyMHRvJTIwc3RyZWFtJTIwZ2FtZXMlMjB5b3UlMjBib3VnaHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NDAwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDExJTNBNDIlM0EwMyUyMCUyQjAwMDA",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "pubDate": "Thu, 22 Oct 2026 11:42:03 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 51,
-    "generatedAt": "2026-10-22T20:12:43.293Z"
+    "itemCount": 55,
+    "generatedAt": "2026-10-23T05:02:08.083Z"
   },
   "items": [
     {
@@ -312,6 +312,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjaGVuZ2xvdS5tZSUyRmhhbmR3aXJlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGY2hlbmdsb3UubWUlMkZoYW5kd2lyZWQlMkYlN0NTaG93JTIwSE4lM0ElMjBUdXJuJTIwcmVndWxhciUyMEphdmFTY3JpcHQlMjBpbnRvJTIwYSUyMG5ldXJhbCUyMG5ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTcyOTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMjElM0EzMiUzQTIzJTIwJTJCMDAwMA",
       "title": "Show HN: Turn regular JavaScript into a neural net",
       "pubDate": "Tue, 20 Oct 2026 21:32:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYW1hbmV0d29yay5jb20lMkZqb3VybmFscyUyRmphbWFuZXR3b3Jrb3BlbiUyRmZ1bGxhcnRpY2xlJTJGMjg1NTQ3MiU3Q2h0dHBzJTNBJTJGJTJGamFtYW5ldHdvcmsuY29tJTJGam91cm5hbHMlMkZqYW1hbmV0d29ya29wZW4lMkZmdWxsYXJ0aWNsZSUyRjI4NTU0NzIlN0NNb3J0YWxpdHklMjBBbW9uZyUyMFBlb3BsZSUyMHdpdGglMjBBdHRlbnRpb24tRGVmaWNpdCUyRkh5cGVyYWN0aXZpdHklMjBEaXNvcmRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTczNTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMjIlM0EyNCUzQTIzJTIwJTJCMDAwMA",
+      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+      "pubDate": "Tue, 20 Oct 2026 22:24:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXNpbW92LnByZXNzJTJGcCUyRmZsb3dlcnMlN0NodHRwcyUzQSUyRiUyRnd3dy5hc2ltb3YucHJlc3MlMkZwJTJGZmxvd2VycyU3Q0hvdyUyMHRvJTIwRGVzaWduJTIwRmxvd2VycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTY2NjA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMTQlM0EwMCUzQTA3JTIwJTJCMDAwMA",
+      "title": "How to Design Flowers",
+      "pubDate": "Tue, 20 Oct 2026 14:00:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpZGlhbGxvLmNvbSUyRmJsb2clMkZhc3VzLWxhcHRvcC1rZWVwcy1yZWJvb3RpbmctYWZ0ZXItc2xlZXAlN0NodHRwcyUzQSUyRiUyRmlkaWFsbG8uY29tJTJGYmxvZyUyRmFzdXMtbGFwdG9wLWtlZXBzLXJlYm9vdGluZy1hZnRlci1zbGVlcCU3Q1doeSUyME15JTIwQXN1cyUyMExhcHRvcCUyMEtlcHQlMjBSZWJvb3RpbmclMjBBZnRlciUyMFNsZWVwJTIwYW5kJTIwSG93JTIwdG8lMjBGaXglMjBJdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTY2MjcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMTMlM0E0MCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
+      "pubDate": "Tue, 20 Oct 2026 13:40:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRnRoZS1zZWNyZXQtbGlmZS1vZi1jaXJjdWl0cy1pcy1ub3clN0NodHRwcyUzQSUyRiUyRmJsb2cuY29yZWR1bXAuY3glMkZwJTJGdGhlLXNlY3JldC1saWZlLW9mLWNpcmN1aXRzLWlzLW5vdyU3Q1RoZSUyMFNlY3JldCUyMExpZmUlMjBvZiUyMENpcmN1aXRzJTIwaXMlMjBub3clMjBpbiUyMHN0b2NrJTIwZXZlcnl3aGVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTYyNDMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMDclM0ExNSUzQTEyJTIwJTJCMDAwMA",
+      "title": "The Secret Life of Circuits is now in stock everywhere",
+      "pubDate": "Tue, 20 Oct 2026 07:15:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]
