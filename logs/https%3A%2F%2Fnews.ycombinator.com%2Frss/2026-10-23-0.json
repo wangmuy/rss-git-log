@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-23",
     "newestItemDate": "2026-10-23",
-    "itemCount": 15,
-    "generatedAt": "2026-10-23T13:34:36.856Z"
+    "itemCount": 33,
+    "generatedAt": "2026-10-23T19:58:59.927Z"
   },
   "items": [
     {
@@ -96,6 +96,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW51Ymhhdm1hbGhvdHJhJTJGcjJkMi10diU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFudWJoYXZtYWxob3RyYSUyRnIyZDItdHYlN0NTaG93JTIwSE4lM0ElMjBNYWtpbmclMjBhJTIwc21hcnQlMjBUViUyMGR1bWIlMjBhbmQlMjB0aGVuJTIwc21hcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwMjg2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDAwJTNBMTAlM0E0NSUyMCUyQjAwMDA",
       "title": "Show HN: Making a smart TV dumb and then smart",
       "pubDate": "Fri, 23 Oct 2026 00:10:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZraW1pLWszLTEtcHJvJTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZraW1pLWszLTEtcHJvJTdDS2ltaSUyMEszLjElMjBzY29yZXMlMjA1NSUyMG9uJTIwQXJ0aWZpY2lhbCUyMEFuYWx5c2lzJTJDJTIwcGxhY2VkJTIwb24lMjB0aGUlMjBQYXJldG8lMjBsaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTMzMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxOCUzQTI0JTNBNTQlMjAlMkIwMDAw",
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "pubDate": "Fri, 23 Oct 2026 18:24:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnJvYmJpZXRpbHRvbiUyRnN0YXR1cyUyRjIxMTE5MzY0NTg5MjM4NTE5MjMlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGcm9iYmlldGlsdG9uJTJGc3RhdHVzJTJGMjExMTkzNjQ1ODkyMzg1MTkyMyU3Q0klMjB0dXJuZWQlMjBteSUyMFRWJTIwaW50byUyMGElMjBHYW1lJTIwQm95JTIwQ29sb3IlMjB3aXRoJTIwYSUyMFBva2Vtb24lMjB0b3duJTIwYXMlMjBteSUyMGhvbWUlMjBzY3JlZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMjY2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE3JTNBNDAlM0EyMiUyMCUyQjAwMDA",
+      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+      "pubDate": "Fri, 23 Oct 2026 17:40:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZhaXItcHVyaWZpZXJzLWFzLXdoaXRlLW5vaXNlLW1hY2hpbmVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZhaXItcHVyaWZpZXJzLWFzLXdoaXRlLW5vaXNlLW1hY2hpbmVzJTdDQWlyJTIwUHVyaWZpZXJzJTIwYXMlMjBXaGl0ZSUyME5vaXNlJTIwTWFjaGluZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMjUwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE3JTNBMjglM0EzNiUyMCUyQjAwMDA",
+      "title": "Air Purifiers as White Noise Machines",
+      "pubDate": "Fri, 23 Oct 2026 17:28:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXZpZC5sZXF1aW4uZGV2JTJGYmxvZyUyRmJpLXNvZnR3YXJlLWlzLWRlYWQlMkYlN0NodHRwcyUzQSUyRiUyRmRhdmlkLmxlcXVpbi5kZXYlMkZibG9nJTJGYmktc29mdHdhcmUtaXMtZGVhZCUyRiU3Q0NhbiUyMHdlJTIwcmVwbGFjZSUyMGElMjAlMjQxNTBrJTIwTG9va2VyJTIwd2l0aCUyMGElMjBidWNrZXQlMjBvZiUyMEhUTUwlMjBmaWxlcyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjEyMzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTclM0ExNSUzQTAzJTIwJTJCMDAwMA",
+      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+      "pubDate": "Fri, 23 Oct 2026 17:15:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcm9wNy5kZXYlN0NodHRwcyUzQSUyRiUyRmRyb3A3LmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMFNlYXJjaGluZyUyMGZvciUyMG9wdGltYWwlMjBzdHJhdGVnaWVzJTIwaW4lMjBhJTIwcHV6emxlJTIwZ2FtZSUyMHdpdGglMjBjaGFuY2UlMjAoRHJvcDcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTIyOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNyUzQTEzJTNBMjclMjAlMkIwMDAw",
+      "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+      "pubDate": "Fri, 23 Oct 2026 17:13:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmxlYXBzZWNvbmQuY29tJTJGdGltZS1udXRzLmh0bSU3Q2h0dHAlM0ElMkYlMkZsZWFwc2Vjb25kLmNvbSUyRnRpbWUtbnV0cy5odG0lN0NUaW1lJTIwTnV0cyUyMCgyMDA1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjEyMjgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTclM0ExMiUzQTUxJTIwJTJCMDAwMA",
+      "title": "Time Nuts (2005)",
+      "pubDate": "Fri, 23 Oct 2026 17:12:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm9va2VyLmNvLnphJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIzJTJGYW5pbWF0aW9ucy5odG1sJTdDaHR0cHMlM0ElMkYlMkZicm9va2VyLmNvLnphJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIzJTJGYW5pbWF0aW9ucy5odG1sJTdDQW5pbWF0aW9ucyUyMGZvciUyMFN5c3RlbSUyMEJ1aWxkZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTIxMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNyUzQTAyJTNBMjQlMjAlMkIwMDAw",
+      "title": "Animations for System Builders",
+      "pubDate": "Fri, 23 Oct 2026 17:02:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2ltaS5haSUyRmJsb2clMkZraW1pLWszLTEtcHJvJTdDaHR0cHMlM0ElMkYlMkZ3d3cua2ltaS5haSUyRmJsb2clMkZraW1pLWszLTEtcHJvJTdDS2ltaSUyMEszLjElMjBQcm8lMjBhbmQlMjBLMy4xJTIwUHJvJTIwSGlnaHNwZWVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTIwNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNiUzQTU5JTNBMDglMjAlMkIwMDAw",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "pubDate": "Fri, 23 Oct 2026 16:59:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4c2NpLmNvbSUyRmJsb2clMkZ1dWlkdjctaXMtd2VpcmQlMkYlN0NodHRwcyUzQSUyRiUyRmFsZXhzY2kuY29tJTJGYmxvZyUyRnV1aWR2Ny1pcy13ZWlyZCUyRiU3Q1VVSUR2NyUyMGRvZXNuJ3QlMjBoYXZlJTIwdGhlJTIwcHJvcGVydGllcyUyMHlvdSUyMHRoaW5rJTIwaXQlMjBkb2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTE3NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNiUzQTM5JTNBNDUlMjAlMkIwMDAw",
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "pubDate": "Fri, 23 Oct 2026 16:39:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc2FhY21hcm92aXR6LmNvbSUyRnBvc3RzJTJGc29uaWMtMDYlMkYlN0NodHRwcyUzQSUyRiUyRmlzYWFjbWFyb3ZpdHouY29tJTJGcG9zdHMlMkZzb25pYy0wNiUyRiU3Q1RoZSUyME1pc3NlZCUyME9wcG9ydHVuaXRpZXMlMjBvZiUyMFNvbmljJTIwMDYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMTcyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE2JTNBMzglM0EzNSUyMCUyQjAwMDA",
+      "title": "The Missed Opportunities of Sonic 06",
+      "pubDate": "Fri, 23 Oct 2026 16:38:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGVucmlra2FybHNzb24ueHl6JTJGcCUyRm11c2ljJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGVucmlra2FybHNzb24ueHl6JTJGcCUyRm11c2ljJTdDSG93JTIwaXMlMjBtdXNpYyUyMHBvc3NpYmxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTE3MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNiUzQTM4JTNBMTclMjAlMkIwMDAw",
+      "title": "How is music possible",
+      "pubDate": "Fri, 23 Oct 2026 16:38:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlaWRlYXNsZXR0ZXIub3JnJTJGZXNzYXklMkZ0b3RhbC1oaXN0b3JpYW4lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVpZGVhc2xldHRlci5vcmclMkZlc3NheSUyRnRvdGFsLWhpc3RvcmlhbiUyRiU3Q1RvdGFsJTIwSGlzdG9yaWFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTE1MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNiUzQTIzJTNBMjklMjAlMkIwMDAw",
+      "title": "Total Historian",
+      "pubDate": "Fri, 23 Oct 2026 16:23:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNhbGlmLmlvJTJGcCUyRmlwaG9uZSU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jYWxpZi5pbyUyRnAlMkZpcGhvbmUlN0NUb2RheSUyQyUyMHdlJTIwaGFja2VkJTIwd2hhdCUyMHdlJ2QlMjBzZXQlMjBvdXQlMjB0byUyMGhhY2slM0ElMjB0aGUlMjBpUGhvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMTQ3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE2JTNBMjElM0E1MCUyMCUyQjAwMDA",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "pubDate": "Fri, 23 Oct 2026 16:21:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm91cC5jb20lMkYyMDI2JTJGMTAlMkZyZWZvcm1pbmctZW5nbGlzaC1zcGVsbGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5vdXAuY29tJTJGMjAyNiUyRjEwJTJGcmVmb3JtaW5nLWVuZ2xpc2gtc3BlbGxpbmclMkYlN0NSZWZvcm1pbmclMjBFbmdsaXNoJTIwU3BlbGxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMTA4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE1JTNBNTYlM0EwNiUyMCUyQjAwMDA",
+      "title": "Reforming English Spelling",
+      "pubDate": "Fri, 23 Oct 2026 15:56:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib3R0bGVjYXBhaS5jb20lMkZwb3N0JTJGdGhpbmtpbmdjYXAtZ2VtbWEtNC0yNmIlMkYlN0NodHRwcyUzQSUyRiUyRmJvdHRsZWNhcGFpLmNvbSUyRnBvc3QlMkZ0aGlua2luZ2NhcC1nZW1tYS00LTI2YiUyRiU3Q0dlbW1hLTQtMjZCLUE0QiUyMHdpdGglMjAzOS02OSUyNSUyMGxlc3MlMjB0aGlua2luZyUyMGF0JTIwc2FtZSUyMGFjY3VyYWN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDk5MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNCUzQTQzJTNBMDIlMjAlMkIwMDAw",
+      "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+      "pubDate": "Fri, 23 Oct 2026 14:43:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtdXNpYy5hcHBsZS5jb20lMkZ0aGlzLXVybC1kb2VzbnQtZXhpc3QlN0NodHRwcyUzQSUyRiUyRm11c2ljLmFwcGxlLmNvbSUyRnRoaXMtdXJsLWRvZXNudC1leGlzdCU3Q0FwcGxlJTIwTXVzaWMlMjA0MDQlMjBOb3QlMjBGb3VuZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjA3OTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTIlM0EyOCUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Apple Music 404 Not Found",
+      "pubDate": "Fri, 23 Oct 2026 12:28:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aWxzY2h1ZW5lbWFubi5kZSUyRmpvYi1sb3NzLWNvcnRpc29uZS1tYW5pYSU3Q2h0dHBzJTNBJTJGJTJGdGlsc2NodWVuZW1hbm4uZGUlMkZqb2ItbG9zcy1jb3J0aXNvbmUtbWFuaWElN0NKb2IlMjBsb3NzJTIwYW5kJTIwY29ydGlzb25lJTIwbWFuaWElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwNjg0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDEwJTNBMzElM0EyNCUyMCUyQjAwMDA",
+      "title": "Job loss and cortisone mania",
+      "pubDate": "Fri, 23 Oct 2026 10:31:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzd3VyZi5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnN3dXJmLm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMFN3dXJmJTIwJUUyJTgwJTkzJTIwU3dpcGUlMjB0aHJvdWdoJTIwdGhlJTIwcmVhbCUyMHdlYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjA1MzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMDYlM0E1NCUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "pubDate": "Fri, 23 Oct 2026 06:54:52 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
     }
   ]

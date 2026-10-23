@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 55,
-    "generatedAt": "2026-10-23T05:02:08.083Z"
+    "itemCount": 56,
+    "generatedAt": "2026-10-23T19:58:59.927Z"
   },
   "items": [
     {
@@ -336,6 +336,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRnRoZS1zZWNyZXQtbGlmZS1vZi1jaXJjdWl0cy1pcy1ub3clN0NodHRwcyUzQSUyRiUyRmJsb2cuY29yZWR1bXAuY3glMkZwJTJGdGhlLXNlY3JldC1saWZlLW9mLWNpcmN1aXRzLWlzLW5vdyU3Q1RoZSUyMFNlY3JldCUyMExpZmUlMjBvZiUyMENpcmN1aXRzJTIwaXMlMjBub3clMjBpbiUyMHN0b2NrJTIwZXZlcnl3aGVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTYyNDMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMDclM0ExNSUzQTEyJTIwJTJCMDAwMA",
       "title": "The Secret Life of Circuits is now in stock everywhere",
       "pubDate": "Tue, 20 Oct 2026 07:15:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWRkaW5nLmNvb2wlMkYyMDI2JTJGMTAlMkZrZXZpbi1iYWNvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGcHVkZGluZy5jb29sJTJGMjAyNiUyRjEwJTJGa2V2aW4tYmFjb24lMkYlN0NUaGUlMjBSZWFsJTIwS2V2aW4lMjBCYWNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTY5NDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMTclM0ExMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "The Real Kevin Bacon",
+      "pubDate": "Tue, 20 Oct 2026 17:10:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]
