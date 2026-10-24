@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-23",
     "newestItemDate": "2026-10-23",
-    "itemCount": 33,
-    "generatedAt": "2026-10-23T19:58:59.927Z"
+    "itemCount": 44,
+    "generatedAt": "2026-10-24T04:47:22.934Z"
   },
   "items": [
     {
@@ -204,6 +204,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzd3VyZi5vcmclMkYlN0NodHRwcyUzQSUyRiUyRnN3dXJmLm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMFN3dXJmJTIwJUUyJTgwJTkzJTIwU3dpcGUlMjB0aHJvdWdoJTIwdGhlJTIwcmVhbCUyMHdlYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjA1MzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMDYlM0E1NCUzQTUyJTIwJTJCMDAwMA",
       "title": "Show HN: Swurf – Swipe through the real web",
       "pubDate": "Fri, 23 Oct 2026 06:54:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaXR0ZXIuY2xpY2slMkZBaWtpZG9TZWN1cml0eSUyRnN0YXR1cyUyRjIxMTM3NTkxMTA2MjU5MDY5NTAlM0ZfX2dhbGFkcmllbCUzRGxQbWxHbDlpZDRvQWQ1VWVCd01obFlLQXJIeXI2bFIySURHdWpQd0I1SFYya1ExYUxvUFdGZDVBOXNHdXpOY21ycDhmVXNvOHF5Z21IY0tURFo4TU5IV3FRM2JESmN5Y1Y4N3hwXzBWeXB6UUxZajZPX1JSSGxadVFxajMzb0FTR1kyWUxTb0FpTWplT1pONDBoN1N0ZjhBRzdEUHJHWmJBUFZLVVh5MzZIb011ZFJidndGM19yMnVZTm1mSk1ocEt6eXdRRE02QWI4JTdDaHR0cHMlM0ElMkYlMkZuaXR0ZXIuY2xpY2slMkZBaWtpZG9TZWN1cml0eSUyRnN0YXR1cyUyRjIxMTM3NTkxMTA2MjU5MDY5NTAlM0ZfX2dhbGFkcmllbCUzRGxQbWxHbDlpZDRvQWQ1VWVCd01obFlLQXJIeXI2bFIySURHdWpQd0I1SFYya1ExYUxvUFdGZDVBOXNHdXpOY21ycDhmVXNvOHF5Z21IY0tURFo4TU5IV3FRM2JESmN5Y1Y4N3hwXzBWeXB6UUxZajZPX1JSSGxadVFxajMzb0FTR1kyWUxTb0FpTWplT1pONDBoN1N0ZjhBRzdEUHJHWmJBUFZLVVh5MzZIb011ZFJidndGM19yMnVZTm1mSk1ocEt6eXdRRE02QWI4JTdDRXZvbHZpbmclMjBUaHJlYXQlM0ElMjBodHRwMnNoZWxsJTIwaXMlMjBhbiUyMFJDRSUyMGluJTIwTm9kZSUyQyUyMFB5dGhvbiUyQyUyMGFuZCUyMG1vcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxNjc5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDIzJTNBMzAlM0ExNyUyMCUyQjAwMDA",
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "pubDate": "Fri, 23 Oct 2026 23:30:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0R2QUZ3SEdHZlB6NCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEdkFGd0hHR2ZQejQlN0NPbmUlMjBNYW4ncyUyMFBhbiUyMEFtJTIwNzQ3JTIwUmVwbGljYSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTU4MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAyMSUzQTQ2JTNBNTElMjAlMkIwMDAw",
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "pubDate": "Fri, 23 Oct 2026 21:46:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdmUuMHhvc3ByZXkuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZjdmUuMHhvc3ByZXkuY29tJTJGJTdDQ1ZFJTIwVHJhY2tlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE1NTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMjElM0EyMSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "CVE Tracker",
+      "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWV1ZS5hY20ub3JnJTJGZG9pJTJGMTAuMTE0NSUyRjk0NTEzMS45NDUxNTUlN0NodHRwcyUzQSUyRiUyRnF1ZXVlLmFjbS5vcmclMkZkb2klMkYxMC4xMTQ1JTJGOTQ1MTMxLjk0NTE1NSU3Q05vJTIwU291cmNlJTIwQ29kZSUzRiUyME5vJTIwUHJvYmxlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE0OTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMjAlM0EzOCUzQTA2JTIwJTJCMDAwMA",
+      "title": "No Source Code? No Problem",
+      "pubDate": "Fri, 23 Oct 2026 20:38:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWFudHVtNS5jYSUyRjIwMjUlMkYwMyUyRjIyJTJGd2hpcmx3aW5kLXRvdXItb2Ytc3lzdGVtZC1uc3Bhd24tY29udGFpbmVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXVhbnR1bTUuY2ElMkYyMDI1JTJGMDMlMkYyMiUyRndoaXJsd2luZC10b3VyLW9mLXN5c3RlbWQtbnNwYXduLWNvbnRhaW5lcnMlMkYlN0NBJTIwd2hpcmx3aW5kJTIwdG91ciUyMG9mJTIwc3lzdGVtZC1uc3Bhd24lMjBjb250YWluZXJzJTIwKDIwMjUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTQ5ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAyMCUzQTM3JTNBMTIlMjAlMkIwMDAw",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "pubDate": "Fri, 23 Oct 2026 20:37:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzZWN1cmluZy1vdXItZnJvbnRpZXItbW9kZWwtdHJhaW5pbmctZW52aXJvbm1lbnQlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRnNlY3VyaW5nLW91ci1mcm9udGllci1tb2RlbC10cmFpbmluZy1lbnZpcm9ubWVudCUyRiU3Q1NlY3VyaW5nJTIwb3VyJTIwZnJvbnRpZXIlMjBtb2RlbCUyMHRyYWluaW5nJTIwZW52aXJvbm1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxNDQxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE5JTNBNTAlM0E1NiUyMCUyQjAwMDA",
+      "title": "Securing our frontier model training environment",
+      "pubDate": "Fri, 23 Oct 2026 19:50:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3JnaS5jb21wdXRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGY29yZ2kuY29tcHV0ZXIlMkYlN0NTaG93JTIwSE4lM0ElMjBDb3JnaSUyQyUyMGElMjBoZWxwZnVsJTIwJTdCYWdlbnQlMkMlMjB0ZXJtaW5hbCU3RCUyMG11bHRpcGxleGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTQzNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxOSUzQTQ2JTNBMzglMjAlMkIwMDAw",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "pubDate": "Fri, 23 Oct 2026 19:46:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW5lLmJ1aWxkJTJGYmxvZyUyRnJ1bmUtMS0zLXJlbGVhc2UlN0NodHRwcyUzQSUyRiUyRnJ1bmUuYnVpbGQlMkZibG9nJTJGcnVuZS0xLTMtcmVsZWFzZSU3Q1J1bmUlMjAxLjMlM0ElMjBhZGRzJTIwVHlwZVNjcmlwdCUyQyUyMGElMjBIZWxpeCUyMGVkaXRvciUyQyUyMEtpdHR5JTIwZ3JhcGhpY3MlMjBhbmQlMjBPU0MtNzUwMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE0MzI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTklM0E0MiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+      "pubDate": "Fri, 23 Oct 2026 19:42:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9jay54eXolMkZkZXNzYSU3Q2h0dHBzJTNBJTJGJTJGYmxvY2sueHl6JTJGZGVzc2ElN0NEZXNzYSUzQSUyMENvbnZlcnNhdGlvbiUyME1vZGVsJTIwdHJhaW5lZCUyMG9ubHklMjBvbiUyMHNwZWVjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjEzOTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTklM0EwOSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "pubDate": "Fri, 23 Oct 2026 19:09:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHRjaGFuLm9yZyUyRnNoJTJGNDIlN0NodHRwcyUzQSUyRiUyRmFsdGNoYW4ub3JnJTJGc2glMkY0MiU3Q0ROUyUzQSUyMEElMjBSZXBsYWNlbWVudCUyMGZvciUyMEZpbmdlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjEzNzkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTklM0EwMCUzQTA0JTIwJTJCMDAwMA",
+      "title": "DNS: A Replacement for Finger",
+      "pubDate": "Fri, 23 Oct 2026 19:00:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4c2NpLmNvbSUyRmJsb2clMkZ1dWlkdjctaXMtd2VpcmQlMkYlN0NodHRwcyUzQSUyRiUyRmFsZXhzY2kuY29tJTJGYmxvZyUyRnV1aWR2Ny1pcy13ZWlyZCUyRiU3Q1VVSUR2NyUzQSUyMFRpbWVzdGFtcHMlMjBhcmVuJUUyJTgwJTk5dCUyMHRpbWUtb3JkZXJlZCUyMGFuZCUyMG90aGVyJTIwb2RkaXRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMTc0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE2JTNBMzklM0E0NSUyMCUyQjAwMDA",
+      "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
+      "pubDate": "Fri, 23 Oct 2026 16:39:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
     }
   ]

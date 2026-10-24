@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-22",
     "newestItemDate": "2026-10-22",
-    "itemCount": 53,
-    "generatedAt": "2026-10-23T19:58:59.927Z"
+    "itemCount": 54,
+    "generatedAt": "2026-10-24T04:47:22.934Z"
   },
   "items": [
     {
@@ -324,6 +324,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb3NoaXAuY29tJTJGbGlzcC1jb21lcy1vZi1hZ2UlMkYlN0NodHRwcyUzQSUyRiUyRm1pY3Jvc2hpcC5jb20lMkZsaXNwLWNvbWVzLW9mLWFnZSUyRiU3Q0xJU1AlMjBDb21lcyUyMG9mJTIwQWdlJTIwKDE5ODApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxOTk2ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxOSUzQTA4JTNBMDklMjAlMkIwMDAw",
       "title": "LISP Comes of Age (1980)",
       "pubDate": "Thu, 22 Oct 2026 19:08:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdW5jYXJlbmEuY29tJTJGYXJ0aWNsZXMlMkZ0aGUtcXVha2UtZmFuLXdoby1idWlsdC10aGUtbWFwLWVkaXRvci1ldmVyeWJvZHktdXNlcyU3Q2h0dHBzJTNBJTJGJTJGZnVuY2FyZW5hLmNvbSUyRmFydGljbGVzJTJGdGhlLXF1YWtlLWZhbi13aG8tYnVpbHQtdGhlLW1hcC1lZGl0b3ItZXZlcnlib2R5LXVzZXMlN0NUaGUlMjBRdWFrZSUyMEZhbiUyMHdobyUyMGJ1aWx0JTIwdGhlJTIwbWFwJTIwZWRpdG9yJTIwZXZlcnlib2R5JTIwdXNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkzNjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMTAlM0E1NSUzQTIyJTIwJTJCMDAwMA",
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "pubDate": "Thu, 22 Oct 2026 10:55:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
     }
   ]

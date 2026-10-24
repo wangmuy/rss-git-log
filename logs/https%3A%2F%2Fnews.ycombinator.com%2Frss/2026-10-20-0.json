@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 56,
-    "generatedAt": "2026-10-23T19:58:59.927Z"
+    "itemCount": 58,
+    "generatedAt": "2026-10-24T04:47:22.935Z"
   },
   "items": [
     {
@@ -342,6 +342,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdWRkaW5nLmNvb2wlMkYyMDI2JTJGMTAlMkZrZXZpbi1iYWNvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGcHVkZGluZy5jb29sJTJGMjAyNiUyRjEwJTJGa2V2aW4tYmFjb24lMkYlN0NUaGUlMjBSZWFsJTIwS2V2aW4lMjBCYWNvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTY5NDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMTclM0ExMCUzQTA1JTIwJTJCMDAwMA",
       "title": "The Real Kevin Bacon",
       "pubDate": "Tue, 20 Oct 2026 17:10:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhc3RyYWwuc2glMkZibG9nJTJGdXYtdHktaW50ZWdyYXRpb24lN0NodHRwcyUzQSUyRiUyRmFzdHJhbC5zaCUyRmJsb2clMkZ1di10eS1pbnRlZ3JhdGlvbiU3Q0JyaW5naW5nJTIwdXYlMjBhbmQlMjB0eSUyMHRvZ2V0aGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNzI5NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAyMSUzQTMwJTNBNTYlMjAlMkIwMDAw",
+      "title": "Bringing uv and ty together",
+      "pubDate": "Tue, 20 Oct 2026 21:30:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtLmFjLnVrJTJGcmVzZWFyY2glMkZuZXdzJTJGcmlzZS1vZi1jb2xsYWdlbi1lYXRpbmctbWljcm9iZXMtbWF5LWhlbHAtZXhwbGFpbi1nYXBzLWluLXRoZS1mb3NzaWwtcmVjb3JkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FtLmFjLnVrJTJGcmVzZWFyY2glMkZuZXdzJTJGcmlzZS1vZi1jb2xsYWdlbi1lYXRpbmctbWljcm9iZXMtbWF5LWhlbHAtZXhwbGFpbi1nYXBzLWluLXRoZS1mb3NzaWwtcmVjb3JkJTdDUmlzZSUyMG9mJTIwY29sbGFnZW4tZWF0aW5nJTIwbWljcm9iZXMlMjBtYXklMjBoZWxwJTIwZXhwbGFpbiUyMGdhcHMlMjBpbiUyMHRoZSUyMGZvc3NpbCUyMHJlY29yZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTY4MDc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMTUlM0E0MSUzQTI4JTIwJTJCMDAwMA",
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "pubDate": "Tue, 20 Oct 2026 15:41:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]
