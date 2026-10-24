@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-22",
     "newestItemDate": "2026-10-22",
-    "itemCount": 56,
-    "generatedAt": "2026-10-24T12:46:05.878Z"
+    "itemCount": 58,
+    "generatedAt": "2026-10-24T18:51:14.342Z"
   },
   "items": [
     {
@@ -342,6 +342,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1bmludGVuZGVkY29uc2VxdWVuYy5lcyUyRmNoYWxrLWFuZC10aGUtYWlycGxhbmUlMkYlN0NodHRwcyUzQSUyRiUyRnVuaW50ZW5kZWRjb25zZXF1ZW5jLmVzJTJGY2hhbGstYW5kLXRoZS1haXJwbGFuZSUyRiU3Q1RoZSUyMENoYWxrJTIwYW5kJTIwdGhlJTIwQWlycGxhbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5MTI1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDA0JTNBNDElM0E1OCUyMCUyQjAwMDA",
       "title": "The Chalk and the Airplane",
       "pubDate": "Thu, 22 Oct 2026 04:41:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW1hZGV1c0lUR3JvdXAlMkZFZGlzb24lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZBbWFkZXVzSVRHcm91cCUyRkVkaXNvbiU3Q1BhcnNpbmclMjBFRElGQUNUJTIwaW4lMjBQeXRob24lMjB3aXRoJTIwc3ludGF4JTIwdHJlZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NTUzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE0JTNBMDclM0E0OCUyMCUyQjAwMDA",
+      "title": "Parsing EDIFACT in Python with syntax trees",
+      "pubDate": "Thu, 22 Oct 2026 14:07:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5mb3EuY29tJTJGbmV3cyUyRjIwMjYlMkYxMCUyRnRvcm5hZG92bS03LWdwdSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmluZm9xLmNvbSUyRm5ld3MlMkYyMDI2JTJGMTAlMkZ0b3JuYWRvdm0tNy1ncHUlMkYlN0NUb3JuYWRvVk0lMjA3JTIwRW5hYmxlcyUyMEdQVS1OYXRpdmUlMjBXb3JrbG9hZHMlMjBmcm9tJTIwSmF2YSUyMEFwcGxpY2F0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTkyOTc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjIlMjBPY3QlMjAyMDI2JTIwMDklM0EwMSUzQTEwJTIwJTJCMDAwMA",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "pubDate": "Thu, 22 Oct 2026 09:01:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
     }
   ]

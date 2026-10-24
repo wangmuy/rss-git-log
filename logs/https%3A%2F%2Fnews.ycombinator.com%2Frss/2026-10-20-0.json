@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 59,
-    "generatedAt": "2026-10-24T12:46:05.879Z"
+    "itemCount": 60,
+    "generatedAt": "2026-10-24T18:51:14.342Z"
   },
   "items": [
     {
@@ -360,6 +360,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWxiYWxsLmNvbSUyRm5vdGVzJTJGYWlfaW1hZ2VfZ2VuZXJhdGlvbi5odG1sJTdDaHR0cHMlM0ElMkYlMkZkYW5pZWxiYWxsLmNvbSUyRm5vdGVzJTJGYWlfaW1hZ2VfZ2VuZXJhdGlvbi5odG1sJTdDQSUyMHByYWN0aWNhbCUyMGd1aWRlJTIwdG8lMjBBSSUyMGltYWdlJTIwZ2VuZXJhdGlvbiUyQyUyMGZyb20lMjBkaWZmdXNpb24lMjB0byUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTcxMzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMTklM0EyMiUzQTM5JTIwJTJCMDAwMA",
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "pubDate": "Tue, 20 Oct 2026 19:22:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXN0cm9hdXRvbWF0YSUyRlB5U1IlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhc3Ryb2F1dG9tYXRhJTJGUHlTUiU3Q1N5bWJvbGljJTIwTGVhcm5pbmclMjBpbiUyMFB5dGhvbiUyMGFuZCUyMEp1bGlhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNzE5MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAyMCUzQTA3JTNBMzUlMjAlMkIwMDAw",
+      "title": "Symbolic Learning in Python and Julia",
+      "pubDate": "Tue, 20 Oct 2026 20:07:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]
