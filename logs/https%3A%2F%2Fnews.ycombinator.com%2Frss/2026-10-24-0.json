@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-24",
     "newestItemDate": "2026-10-24",
-    "itemCount": 2,
-    "generatedAt": "2026-10-24T04:47:22.934Z"
+    "itemCount": 12,
+    "generatedAt": "2026-10-24T12:46:05.878Z"
   },
   "items": [
     {
@@ -18,6 +18,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwaGlsaXBvdG9vbGUuY29tJTJGdHdlbHZlLXllYXJzLW9mLWRpc3RyaWJ1dGVkLXNxbGl0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGcGhpbGlwb3Rvb2xlLmNvbSUyRnR3ZWx2ZS15ZWFycy1vZi1kaXN0cmlidXRlZC1zcWxpdGUlMkYlN0NUd2VsdmUlMjB5ZWFycyUyMG9mJTIwZGlzdHJpYnV0ZWQlMjBTUUxpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxNzUwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI0JTIwT2N0JTIwMjAyNiUyMDAxJTNBMTYlM0E1OCUyMCUyQjAwMDA",
       "title": "Twelve years of distributed SQLite",
       "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b3JyZW50ZnJlYWsuY29tJTJGYWktYXNzaXN0ZWQtcGFwZXItb24tei1saWJyYXJ5LWNpdGVzLWEtdG9ycmVudGZyZWFrLWFydGljbGUtdGhhdC1kb2VzbnQtZXhpc3QlMkYlN0NodHRwcyUzQSUyRiUyRnRvcnJlbnRmcmVhay5jb20lMkZhaS1hc3Npc3RlZC1wYXBlci1vbi16LWxpYnJhcnktY2l0ZXMtYS10b3JyZW50ZnJlYWstYXJ0aWNsZS10aGF0LWRvZXNudC1leGlzdCUyRiU3Q0FJLUFzc2lzdGVkJTIwUGFwZXIlMjBvbiUyMFotTGlicmFyeSUyMENpdGVzJTIwYSUyMFRvcnJlbnRGcmVhayUyMEFydGljbGUlMjBUaGF0JTIwRG9lc24ndCUyMEV4aXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjAyMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNCUyME9jdCUyMDIwMjYlMjAxMSUzQTE4JTNBNTQlMjAlMkIwMDAw",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRsYWIuY29tJTJGYzRwc3UxMyUyRm1hbGktcGFnZWNhY2hlLXJvb3QlN0NodHRwcyUzQSUyRiUyRmdpdGxhYi5jb20lMkZjNHBzdTEzJTJGbWFsaS1wYWdlY2FjaGUtcm9vdCU3Q1Nob3clMjBITiUzQSUyMEF1dG9ub21vdXMlMjByb290JTIwZm9yJTIwVGNsJTIwQW5kcm9pZCUyMFRWJTIwdmlhJTIwQ1ZFLTIwMjItMjI3MDYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyMDA0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI0JTIwT2N0JTIwMjAyNiUyMDEwJTNBNTElM0EzNSUyMCUyQjAwMDA",
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc291dGhhbXB0b24uYWMudWslMkZ+ZG91ZyUyRnF1YW50dW1fcGh5c2ljcyUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5zb3V0aGFtcHRvbi5hYy51ayUyRn5kb3VnJTJGcXVhbnR1bV9waHlzaWNzJTJGaW5kZXguaHRtbCU3Q0klMjBEb24ndCUyMFVuZGVyc3RhbmQlMjBRdWFudHVtJTIwUGh5c2ljcyUyMCgyMDE4KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE5NjY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMDklM0E1MyUzQTI2JTIwJTJCMDAwMA",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWlraWRvLmRldiUyRmJsb2clMkZweXRob24tcGFja2FnZXMtdnVsbmVyYWJsZS1ub2RlMnNoZWxsLWJyb3RsaS1jdmUtMjAyNi0xMTE0OTclN0NodHRwcyUzQSUyRiUyRnd3dy5haWtpZG8uZGV2JTJGYmxvZyUyRnB5dGhvbi1wYWNrYWdlcy12dWxuZXJhYmxlLW5vZGUyc2hlbGwtYnJvdGxpLWN2ZS0yMDI2LTExMTQ5NyU3Q05vZGUyU2hlbGwlMjBldm9sdmVzJTIwdG8lMjBIVFRQMlNoZWxsJTJDJTIwYmxhc3QlMjByYWRpdXMlMjBhZmZlY3RzJTIwbWFueSUyMEhUVFAlMjBsaWJzJTIwYW5kJTIwYXBwcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE5MTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMDglM0EwNiUzQTM5JTIwJTJCMDAwMA",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZhbnRpYWklMkZjb21tZW50cyUyRjF4ZHYzZTUlMkZoYWNrZXJfcmV2ZXJzZV9lbmdpbmVlcnNfaGlzX3NhbXN1bmdfdHZfYW5kX2ZpbmRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZhbnRpYWklMkZjb21tZW50cyUyRjF4ZHYzZTUlMkZoYWNrZXJfcmV2ZXJzZV9lbmdpbmVlcnNfaGlzX3NhbXN1bmdfdHZfYW5kX2ZpbmRzJTJGJTdDSGFja2VyJTIwcmV2ZXJzZXMlMjBTYW1zdW5nJTIwVFYlMkMlMjBmaW5kcyUyMG9uLWJvYXJkJTIwQUklMjBsaXN0ZW5pbmclMjBPcGVuQUklMjBhY2NvdW50JTIwc3VzcGVuZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTg2MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNCUyME9jdCUyMDIwMjYlMjAwNSUzQTQ5JTNBNTclMjAlMkIwMDAw",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb2JzcHJvamVjdCUyRm9icy1zdHVkaW8lMkZyZWxlYXNlcyUyRnRhZyUyRjMzLjAuMCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9ic3Byb2plY3QlMkZvYnMtc3R1ZGlvJTJGcmVsZWFzZXMlMkZ0YWclMkYzMy4wLjAlN0NPQlMlMjBTdHVkaW8lMjAzMyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE4NDMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMDQlM0E0OSUzQTU4JTIwJTJCMDAwMA",
+      "title": "OBS Studio 33",
+      "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydGZlbGRtYW4uY29tJTJGZnAtdnMtYyU3Q2h0dHBzJTNBJTJGJTJGcnRmZWxkbWFuLmNvbSUyRmZwLXZzLWMlN0NIb3clMjBjbG9zZSUyMGNhbiUyMHB1cmUlMjBmdW5jdGlvbmFsJTIwcHJvZ3JhbW1pbmclMjBnZXQlMjB0byUyMEMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxODE5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI0JTIwT2N0JTIwMjAyNiUyMDAzJTNBNDMlM0E1NCUyMCUyQjAwMDA",
+      "title": "How close can pure functional programming get to C?",
+      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZheW9zaGlwcy5jb20lMkZicmVha2Rvd25zJTJGYmxvY2stYmxhc3QlN0NodHRwcyUzQSUyRiUyRmF5b3NoaXBzLmNvbSUyRmJyZWFrZG93bnMlMkZibG9jay1ibGFzdCU3Q0hvdyUyMEJsb2NrJTIwQmxhc3QlMjBoYXJ2ZXN0cyUyMGl0cyUyMHBsYXllcnMlMjBmb3IlMjBhZCUyMG1vbmV5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTc5NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNCUyME9jdCUyMDIwMjYlMjAwMiUzQTQzJTNBNDMlMjAlMkIwMDAw",
+      "title": "How Block Blast harvests its players for ad money",
+      "pubDate": "Sat, 24 Oct 2026 02:43:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZWN1cml0eS5hcHBsZS5jb20lMkZyZXNlYXJjaC1kZXZpY2UlMkYlN0NodHRwcyUzQSUyRiUyRnNlY3VyaXR5LmFwcGxlLmNvbSUyRnJlc2VhcmNoLWRldmljZSUyRiU3Q0FwcGxlJTIwU2VjdXJpdHklMjBSZXNlYXJjaCUyMERldmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE3OTAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMDIlM0EzNiUzQTM4JTIwJTJCMDAwMA",
+      "title": "Apple Security Research Device",
+      "pubDate": "Sat, 24 Oct 2026 02:36:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGVuZW9zLnNvY2lhbCUyRiU0MEdyYXBoZW5lT1MlMkYxMTc0OTIzNzU0NjI0NTkyNDQlN0NodHRwcyUzQSUyRiUyRmdyYXBoZW5lb3Muc29jaWFsJTJGJTQwR3JhcGhlbmVPUyUyRjExNzQ5MjM3NTQ2MjQ1OTI0NCU3Q0Fyb3VuZCUyMGElMjBkb3plbiUyMGJhbmtpbmclMjBhcHBzJTIwYmVnYW4lMjBzcGVjaWZpY2FsbHklMjBwZXJtaXR0aW5nJTIwR3JhcGhlbmVPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE3NDk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMDElM0ExNSUzQTE0JTIwJTJCMDAwMA",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "pubDate": "Sat, 24 Oct 2026 01:15:14 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
     }
   ]
