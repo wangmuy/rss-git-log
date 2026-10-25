@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-25",
     "newestItemDate": "2026-10-25",
-    "itemCount": 9,
-    "generatedAt": "2026-10-25T13:14:31.230Z"
+    "itemCount": 23,
+    "generatedAt": "2026-10-25T19:07:09.239Z"
   },
   "items": [
     {
@@ -60,6 +60,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFuYW1lcmljYW5kaXNwYXRjaC5vcmclMkZwJTJGbWV0YS1pZ25vcmVzLWJyYXppbGlhbi1jb3VydC1vcmRlciU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhbmFtZXJpY2FuZGlzcGF0Y2gub3JnJTJGcCUyRm1ldGEtaWdub3Jlcy1icmF6aWxpYW4tY291cnQtb3JkZXIlN0NNZXRhJTIwSWdub3JlcyUyMEJyYXppbGlhbiUyMENvdXJ0JTIwT3JkZXIlMjB0byUyMEVuZCUyMEJvbHNvbmFybyUyMEZhdm9yaXRpc20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyOTU4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDA5JTNBMDAlM0E0MCUyMCUyQjAwMDA",
       "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
       "pubDate": "Sun, 25 Oct 2026 09:00:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbWFnaW5hdGlvbmxpYnJhcnkuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZpbWFnaW5hdGlvbmxpYnJhcnkuY29tJTJGJTdDRG9sbHklMjBQYXJ0b24ncyUyMEltYWdpbmF0aW9uJTIwTGlicmFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjM0NDc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjUlMjBPY3QlMjAyMDI2JTIwMTglM0EyMyUzQTU0JTIwJTJCMDAwMA",
+      "title": "Dolly Parton's Imagination Library",
+      "pubDate": "Sun, 25 Oct 2026 18:23:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc2J1cm1pc3Ryb3Yuc3Vic3RhY2suY29tJTJGcCUyRmFsbC15b3UtbmVlZC1pcy13aWRlLWV2ZW50cy1ub3QtbWV0cmljcyU3Q2h0dHBzJTNBJTJGJTJGaXNidXJtaXN0cm92LnN1YnN0YWNrLmNvbSUyRnAlMkZhbGwteW91LW5lZWQtaXMtd2lkZS1ldmVudHMtbm90LW1ldHJpY3MlN0NBbGwlMjB5b3UlMjBuZWVkJTIwaXMlMjBXaWRlJTIwRXZlbnRzJTJDJTIwbm90JTIwJTIyTWV0cmljcyUyQyUyMExvZ3MlMjBhbmQlMjBUcmFjZXMlMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzNDMyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE4JTNBMTElM0EzOCUyMCUyQjAwMDA",
+      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "pubDate": "Sun, 25 Oct 2026 18:11:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVpbnRlcmNlcHQuY29tJTJGMjAyNiUyRjEwJTJGMDElMkZvcmVnb24tcG9saWNlLW1pc2NvbmR1Y3QtcHVibGljLXJlY29yZHMtY29zdC1mZWUlMkYlN0NodHRwcyUzQSUyRiUyRnRoZWludGVyY2VwdC5jb20lMkYyMDI2JTJGMTAlMkYwMSUyRm9yZWdvbi1wb2xpY2UtbWlzY29uZHVjdC1wdWJsaWMtcmVjb3Jkcy1jb3N0LWZlZSUyRiU3Q09yZWdvbiUyMFBvbGljZSUyMEFyZSUyMENoYXJnaW5nJTIwYSUyMExvY2FsJTIwTmV3cyUyME91dGxldCUyMCUyNDIuNU0lMjBmb3IlMjBSZWNvcmRzJTIwQWJvdXQlMjBPbmUlMjBDb3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzNDIzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE4JTNBMDQlM0ExMSUyMCUyQjAwMDA",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "pubDate": "Sun, 25 Oct 2026 18:04:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWxrd2ViLmV1JTJGb3BlbndlYiUyRjQ1NTglMkYlN0NodHRwcyUzQSUyRiUyRnRhbGt3ZWIuZXUlMkZvcGVud2ViJTJGNDU1OCUyRiU3Q0klMjByZWZ1c2UlMjB0byUyMGFjY2VwdCUyMGElMjBjZW5zb3JlZCUyMEludGVybmV0LiUyMEpvaW4lMjBNZSUyMGF0JTIwRk9TREVNJTIwMjclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMzkyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE3JTNBMzAlM0E1NSUyMCUyQjAwMDA",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "pubDate": "Sun, 25 Oct 2026 17:30:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcm9va2VkdGltYmVyLm9yZyUyRjIwMTUlMkYwOCUyRjMxJTJGZnVjay1udWFuY2UlMkYlN0NodHRwcyUzQSUyRiUyRmNyb29rZWR0aW1iZXIub3JnJTJGMjAxNSUyRjA4JTJGMzElMkZmdWNrLW51YW5jZSUyRiU3Q0Z1Y2slMjBOdWFuY2UlMjAoMjAxNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMzg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE3JTNBMjYlM0EwOCUyMCUyQjAwMDA",
+      "title": "Fuck Nuance (2015)",
+      "pubDate": "Sun, 25 Oct 2026 17:26:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGc2NpZW5jZSUyRjIwMjYlMkZvY3QlMkYyNSUyRnNjaWVudGlzdHMtcmVkaXNjb3Zlci1hbmNpZW50LXJvbWFuLWNvbG91ci1jaGFuZ2luZy1nbGFzcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnNjaWVuY2UlMkYyMDI2JTJGb2N0JTJGMjUlMkZzY2llbnRpc3RzLXJlZGlzY292ZXItYW5jaWVudC1yb21hbi1jb2xvdXItY2hhbmdpbmctZ2xhc3MlN0NTY2llbnRpc3RzJTIwcmVkaXNjb3ZlciUyMGhvdyUyMHRvJTIwbWFrZSUyMGFuY2llbnQlMjBSb21hbiUyMGNvbG91ci1jaGFuZ2luZyUyMGdsYXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzM4MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAxNyUzQTIwJTNBMjIlMjAlMkIwMDAw",
+      "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+      "pubDate": "Sun, 25 Oct 2026 17:20:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZseW5jaGxhYi5uZXQlMkZsbG0tc2tpbi1jYW5jZXIlN0NodHRwcyUzQSUyRiUyRmx5bmNobGFiLm5ldCUyRmxsbS1za2luLWNhbmNlciU3Q0ElMjAxMC15ZWFyLW9sZCUyMENOTiUyMG91dHBlcmZvcm1zJTIwZnJvbnRpZXIlMjBMTE1zJTIwZm9yJTIwc2tpbiUyMGNhbmNlciUyMGRpYWdub3NpcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjMzNzc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjUlMjBPY3QlMjAyMDI2JTIwMTclM0ExNSUzQTM4JTIwJTJCMDAwMA",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "pubDate": "Sun, 25 Oct 2026 17:15:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncC02NC5jb20lMkZzd3IlMkYlN0NodHRwcyUzQSUyRiUyRmdwLTY0LmNvbSUyRnN3ciUyRiU3Q1NhYnJlJTIwV3VsZiUyMFJlbWFzdGVyZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMzc3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE3JTNBMTUlM0ExNiUyMCUyQjAwMDA",
+      "title": "Sabre Wulf Remastered",
+      "pubDate": "Sun, 25 Oct 2026 17:15:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXRsYW50aWMuY29tJTJGaWRlYXMlMkYyMDI2JTJGMTAlMkZhaS1tYXRoLWh1bWFuLWZ1dHVyZSUyRjY4OTEzMyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWF0bGFudGljLmNvbSUyRmlkZWFzJTJGMjAyNiUyRjEwJTJGYWktbWF0aC1odW1hbi1mdXR1cmUlMkY2ODkxMzMlMkYlN0NBJTIwTWF0aGVtYXRpY2lhbiUyMFJlYWRzJTIwdGhlJTIwQUklMjBGdXR1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMzM0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE2JTNBMzElM0EyMSUyMCUyQjAwMDA",
+      "title": "A Mathematician Reads the AI Future",
+      "pubDate": "Sun, 25 Oct 2026 16:31:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFpbHljYWwub3JnJTJGbmV3cyUyRmNhbXB1cyUyRmFjYWRlbWljcyUyRmFpLXVzZS1sZWFkcy11Yy1iZXJrZWxleS1tYXRoLXByb2Zlc3Nvci10by1zZWUtbm8tcG9pbnQtaW4tZ3JhZGluZy1ob21ld29yayUyRmFydGljbGVfYmRmMWVhZTItYzA4Yi00OTFmLWI5ZjEtODFhN2NlYTE3N2RlLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYWlseWNhbC5vcmclMkZuZXdzJTJGY2FtcHVzJTJGYWNhZGVtaWNzJTJGYWktdXNlLWxlYWRzLXVjLWJlcmtlbGV5LW1hdGgtcHJvZmVzc29yLXRvLXNlZS1uby1wb2ludC1pbi1ncmFkaW5nLWhvbWV3b3JrJTJGYXJ0aWNsZV9iZGYxZWFlMi1jMDhiLTQ5MWYtYjlmMS04MWE3Y2VhMTc3ZGUuaHRtbCU3Q0FJJTIwdXNlJTIwbGVhZHMlMjBVQyUyMEJlcmtlbGV5JTIwbWF0aCUyMHByb2Zlc3NvciUyMHRvJTIwc2VlJTIwJ25vJTIwcG9pbnQnJTIwaW4lMjBncmFkaW5nJTIwaG9tZXdvcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMzMwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE2JTNBMjglM0EyNiUyMCUyQjAwMDA",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "pubDate": "Sun, 25 Oct 2026 16:28:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaWd3aGFsZWh1bnRpbmcuY29tJTJGd29ya2ZvcmNlJTJGJTdDaHR0cHMlM0ElMkYlMkZiaWd3aGFsZWh1bnRpbmcuY29tJTJGd29ya2ZvcmNlJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSUyMHB1dCUyMGVtcGxveWVlcyUyMGluc2lkZSUyMFMlMjZQJTIwNTAwJTIwbWFya2V0LWNhcCUyMGJ1YmJsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMjMxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE1JTNBMDUlM0EzOSUyMCUyQjAwMDA",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "pubDate": "Sun, 25 Oct 2026 15:05:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHJlYW1ob3N0c3RhdHVzLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRyZWFtaG9zdHN0YXR1cy5jb20lMkYlN0NBY3RpdmUlMjBpbmNpZGVudCUyMGF0JTIwRHJlYW1ob3N0JTIwZm9yY2luZyUyMHBhc3N3b3JkJTIwcmVzZXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMTE2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDEzJTNBMDklM0ExNiUyMCUyQjAwMDA",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "pubDate": "Sun, 25 Oct 2026 13:09:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjI3NTI3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjI3NTI3JTdDU2hvdyUyMEhOJTNBJTIwUmVWYXVsdCUyMCVFMiU4MCU5MyUyMG5ldyUyMHNlY3VyZSUyMGFyY2hpdmUlMjBmb3JtYXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyNzUyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDAyJTNBMDElM0EyMSUyMCUyQjAwMDA",
+      "title": "Show HN: ReVault – new secure archive format",
+      "pubDate": "Sun, 25 Oct 2026 02:01:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRmRlc3RpbmVkJTJGaHVyc3Rvbi0xJTdDaHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRmRlc3RpbmVkJTJGaHVyc3Rvbi0xJTdDU2hvdyUyMEhOJTNBJTIwSHVyc3Rvbi0xJTIwb3BlbiUyMHNvdXJjZSUyMFRUUyUyMHRoYXQlMjBzcGVhayUyMFNvdXRoZXJuJTIwQW1lcmljYW4lMjBhbmQlMjBBZnJvLUVuZ2xpc2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyNzMzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDAxJTNBMzAlM0ExMyUyMCUyQjAwMDA",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "pubDate": "Sun, 25 Oct 2026 01:30:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
     }
   ]
