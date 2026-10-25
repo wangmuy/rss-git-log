@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-24",
     "newestItemDate": "2026-10-24",
-    "itemCount": 19,
-    "generatedAt": "2026-10-24T18:51:14.342Z"
+    "itemCount": 30,
+    "generatedAt": "2026-10-25T04:54:46.346Z"
   },
   "items": [
     {
@@ -120,6 +120,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmxvZzRqJTJGc3RhdHVzJTJGMjExMzAxNDE0MjYwMDk1Mzg2OCUzRnMlM0Q0NiU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZsb2c0aiUyRnN0YXR1cyUyRjIxMTMwMTQxNDI2MDA5NTM4NjglM0ZzJTNENDYlN0NSb290JTIwc2hlbGwlMjBvbiUyMFNhbXN1bmclMjBUViU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE4NjMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMDUlM0E0OSUzQTU3JTIwJTJCMDAwMA",
       "title": "Root shell on Samsung TV",
       "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb3BoZXIubXVmZmlubGFicy5jb20lMkZzZGYub3JnJTJGdXNlcnMlMkZuZXJ2dG9qaSUyRnBobG9nJTJGMDAxLnR4dCU3Q2h0dHBzJTNBJTJGJTJGZ29waGVyLm11ZmZpbmxhYnMuY29tJTJGc2RmLm9yZyUyRnVzZXJzJTJGbmVydnRvamklMkZwaGxvZyUyRjAwMS50eHQlN0NXaHklMjBHb3BoZXIlMjBpbiUyMDIwMjYlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyNjU3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI0JTIwT2N0JTIwMjAyNiUyMDIzJTNBMzMlM0ExOSUyMCUyQjAwMDA",
+      "title": "Why Gopher in 2026?",
+      "pubDate": "Sat, 24 Oct 2026 23:33:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXByaWNpdGFzLmlvJTJGcCUyRmFpLWFuZC10aGUtZmFsbC1vZi10aGUtY3JlYXRpdmUtY2xhc3MlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHJpY2l0YXMuaW8lMkZwJTJGYWktYW5kLXRoZS1mYWxsLW9mLXRoZS1jcmVhdGl2ZS1jbGFzcyU3Q0FtZXJpY2ElMjBoYXMlMjBsb3N0JTIwMjAwayUyMG9mJTIwam9icyUyMGluJTIwbWVkaWElMkMlMjBmaWxtJTIwYW5kJTIwdGhlJTIwYXJ0cy4lMjBIb3clMjBtdWNoJTIwaXMlMjBBSSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjI2NDE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMjMlM0ExMSUzQTU0JTIwJTJCMDAwMA",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "pubDate": "Sat, 24 Oct 2026 23:11:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGYW1iaXRpb3VzJTJGJTdDaHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGYW1iaXRpb3VzJTJGJTdDV2UlMjBzaG91bGQlMjBiZSUyMG1vcmUlMjBhbWJpdGlvdXMlMjB3aXRoJTIwdGhlJTIwc29mdHdhcmUlMjB3ZSUyMGJ1aWxkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjU2OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNCUyME9jdCUyMDIwMjYlMjAyMSUzQTQ3JTNBMzElMjAlMkIwMDAw",
+      "title": "We should be more ambitious with the software we build",
+      "pubDate": "Sat, 24 Oct 2026 21:47:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXRmYWN0b3IuY29tJTJGY2FyZHMlMkZwbC1zbWFsbCU3Q2h0dHBzJTNBJTJGJTJGcmF0ZmFjdG9yLmNvbSUyRmNhcmRzJTJGcGwtc21hbGwlN0NTbWFsbCUyMFByb2dyYW1zJTIwYW5kJTIwTGFuZ3VhZ2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjU2NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNCUyME9jdCUyMDIwMjYlMjAyMSUzQTQ0JTNBMjMlMjAlMkIwMDAw",
+      "title": "Small Programs and Languages",
+      "pubDate": "Sat, 24 Oct 2026 21:44:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXRmYWN0b3IuY29tJTJGY2FyZHMlMkZsaW1pdGF0aW9ucyU3Q2h0dHBzJTNBJTJGJTJGcmF0ZmFjdG9yLmNvbSUyRmNhcmRzJTJGbGltaXRhdGlvbnMlN0NUaGUlMjBJbXBvcnRhbmNlJTIwb2YlMjBMaW1pdGF0aW9ucyUyMGZvciUyMENyZWF0aXZpdHklMjBhbmQlMjBMZWFybmluZyUyMCgyMDIzKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjI1NjYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMjElM0E0MiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "pubDate": "Sat, 24 Oct 2026 21:42:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGVhbG15Yml0Y29pbi5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnN0ZWFsbXliaXRjb2luLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMFN0ZWFsJTIwTXklMjBCaXRjb2luJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjQ5MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyNCUyME9jdCUyMDIwMjYlMjAyMCUzQTMwJTNBMzElMjAlMkIwMDAw",
+      "title": "Show HN: Steal My Bitcoin",
+      "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXNzaWxlZXIud2F0Y2glN0NodHRwcyUzQSUyRiUyRm1pc3NpbGVlci53YXRjaCUyRiU3Q0xpc3RlbiUyMGFuZCUyMHJlYWQlMjBVU0ElMjBudWNsZWFyJTIwZm9yY2VzJTIwRW1lcmdlbmN5JTIwQWN0aW9uJTIwTWVzc2FnZXMlMkMlMjBoZWFyZCUyMG9uJTIwMTExNzUlMjBrSHolN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyNDQyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI0JTIwT2N0JTIwMjAyNiUyMDE5JTNBNDMlM0EyNyUyMCUyQjAwMDA",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BlZWRjcnVuY2gub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3BlZWRjcnVuY2gub3JnJTJGJTdDU3BlZWRDcnVuY2glMjAxLjElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyNDIxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI0JTIwT2N0JTIwMjAyNiUyMDE5JTNBMTklM0E0MyUyMCUyQjAwMDA",
+      "title": "SpeedCrunch 1.1",
+      "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYXJkYXBwZWwuZ2l0aHViLmlvJTJGZ29vc2UlMkYlN0NodHRwcyUzQSUyRiUyRmFhcmRhcHBlbC5naXRodWIuaW8lMkZnb29zZSUyRiU3Q1RoZSUyMEdvb3NlJTIwUHJvZ3JhbW1pbmclMjBMYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjI0MTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMTklM0EwNiUzQTU1JTIwJTJCMDAwMA",
+      "title": "The Goose Programming Language",
+      "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYnRyZWUueGlhbmdwZW5nLnN5c3RlbXMlMkZwb3N0JTJGJTdDaHR0cHMlM0ElMkYlMkZiYnRyZWUueGlhbmdwZW5nLnN5c3RlbXMlMkZwb3N0JTJGJTdDQmJ0cmVlJTNBJTIwRmFzdGVzdCUyME9yZGVyZWQlMjBNYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyMzc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI0JTIwT2N0JTIwMjAyNiUyMDE4JTNBMjIlM0ExNCUyMCUyQjAwMDA",
+      "title": "Bbtree: Fastest Ordered Map",
+      "pubDate": "Sat, 24 Oct 2026 18:22:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc291dGhhbXB0b24uYWMudWslMkZ+ZG91ZyUyRnF1YW50dW1fcGh5c2ljcyUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5zb3V0aGFtcHRvbi5hYy51ayUyRn5kb3VnJTJGcXVhbnR1bV9waHlzaWNzJTJGaW5kZXguaHRtbCU3Q0klMjBkb24ndCUyMHVuZGVyc3RhbmQlMjBxdWFudHVtJTIwcGh5c2ljcyUyMCgyMDE4KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE5NjY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjQlMjBPY3QlMjAyMDI2JTIwMDklM0E1MyUzQTI2JTIwJTJCMDAwMA",
+      "title": "I don't understand quantum physics (2018)",
+      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-24-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-20",
     "newestItemDate": "2026-10-20",
-    "itemCount": 60,
-    "generatedAt": "2026-10-24T18:51:14.342Z"
+    "itemCount": 62,
+    "generatedAt": "2026-10-25T04:54:46.346Z"
   },
   "items": [
     {
@@ -366,6 +366,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXN0cm9hdXRvbWF0YSUyRlB5U1IlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhc3Ryb2F1dG9tYXRhJTJGUHlTUiU3Q1N5bWJvbGljJTIwTGVhcm5pbmclMjBpbiUyMFB5dGhvbiUyMGFuZCUyMEp1bGlhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNzE5MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAyMCUzQTA3JTNBMzUlMjAlMkIwMDAw",
       "title": "Symbolic Learning in Python and Julia",
       "pubDate": "Tue, 20 Oct 2026 20:07:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb290a2l0bGFicy5jb20lMkYyMDI2JTJGMTAlMkYwNiUyRmktYnVpbHQtYS1zdGVyZW8tdmlzaW9uLWJvYXJkLWZvci1oYXJkd2FyZS1oYWNrZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZyb290a2l0bGFicy5jb20lMkYyMDI2JTJGMTAlMkYwNiUyRmktYnVpbHQtYS1zdGVyZW8tdmlzaW9uLWJvYXJkLWZvci1oYXJkd2FyZS1oYWNrZXJzJTJGJTdDSSUyMEJ1aWx0JTIwYSUyMFN0ZXJlbyUyMFZpc2lvbiUyMEJvYXJkJTIwZm9yJTIwSGFyZHdhcmUlMjBIYWNrZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNzI0MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyMCUyME9jdCUyMDIwMjYlMjAyMCUzQTQ1JTNBNTIlMjAlMkIwMDAw",
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "pubDate": "Tue, 20 Oct 2026 20:45:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtYnJpZGdlLm9yZyUyRmNvcmUlMkZqb3VybmFscyUyRmFudGlxdWl0eSUyRmFydGljbGUlMkZzb2NpYWwtZHluYW1pY3Mtb2YtdG94aWMtbWV0YWwtaW5kdXN0cnktaW4tbWVkaWV2YWwtZXVyb3BlLXBlYWstZGlzdHJpY3QtbGVhZC1wcm9kdWN0aW9uLWFkLTYwMDE1MDAlMkYzNEEyQTE2QUM5OUIxQjEyRTNFQjk5Q0VBMUREQjgyOSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNhbWJyaWRnZS5vcmclMkZjb3JlJTJGam91cm5hbHMlMkZhbnRpcXVpdHklMkZhcnRpY2xlJTJGc29jaWFsLWR5bmFtaWNzLW9mLXRveGljLW1ldGFsLWluZHVzdHJ5LWluLW1lZGlldmFsLWV1cm9wZS1wZWFrLWRpc3RyaWN0LWxlYWQtcHJvZHVjdGlvbi1hZC02MDAxNTAwJTJGMzRBMkExNkFDOTlCMUIxMkUzRUI5OUNFQTFEREI4MjklN0NTb2NpYWwlMjBkeW5hbWljcyUyMG9mJTIwdG94aWMlMjBtZXRhbCUyMGluZHVzdHJ5JTIwaW4lMjBtZWRpZXZhbCUyMEV1cm9wZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTY5NDUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjAlMjBPY3QlMjAyMDI2JTIwMTclM0EwNiUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "pubDate": "Tue, 20 Oct 2026 17:06:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-20-0.json"
     }
   ]

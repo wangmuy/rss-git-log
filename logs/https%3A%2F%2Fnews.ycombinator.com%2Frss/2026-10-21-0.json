@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-21",
     "newestItemDate": "2026-10-21",
-    "itemCount": 57,
-    "generatedAt": "2026-10-24T18:51:14.342Z"
+    "itemCount": 60,
+    "generatedAt": "2026-10-25T04:54:46.346Z"
   },
   "items": [
     {
@@ -348,6 +348,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkNlY2lsaWFfQmVyZGljaGV2c2t5JTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRkNlY2lsaWFfQmVyZGljaGV2c2t5JTdDQ2VjaWxpYSUyMEJlcmRpY2hldnNreSUyQyUyMENsZW1lbnRpbmElMjBleHBlcnQlMjAoMTk2MSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE3OTkyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDIxJTIwT2N0JTIwMjAyNiUyMDEyJTNBNDAlM0E0NiUyMCUyQjAwMDA",
       "title": "Cecilia Berdichevsky, Clementina expert (1961)",
       "pubDate": "Wed, 21 Oct 2026 12:40:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4aW5namlhbmJhaS5jb20lMkZyZWFjdGl2ZS1vcHRpbWl6ZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZ4aW5namlhbmJhaS5jb20lMkZyZWFjdGl2ZS1vcHRpbWl6ZXJzJTJGJTdDUmVhY3RpdmUlMjBPcHRpbWl6ZXJzJTNBJTIwcmV3cml0ZSUyMHRoZSUyMG9wdGltaXplcidzJTIwc291cmNlJTIwY29kZSUyMGR1cmluZyUyMHRyYWluaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxODg0NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAyMiUzQTE3JTNBMTIlMjAlMkIwMDAw",
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "pubDate": "Wed, 21 Oct 2026 22:17:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmVzbHVuYS5vcmclMkZ0aGlzLWlzLWEtc3Rvcnktb2YtYS1maWdtYS1idWclMkYlN0NodHRwcyUzQSUyRiUyRmFyZXNsdW5hLm9yZyUyRnRoaXMtaXMtYS1zdG9yeS1vZi1hLWZpZ21hLWJ1ZyUyRiU3Q0ElMjBzdG9yeSUyMG9mJTIwYSUyMEZpZ21hJTIwYnVnJTIwdGhhdCUyMHdhc24ndCUyMGElMjBidWclMjBhdCUyMGFsbCUyMCgyMDIxKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMTg2Mjg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjElMjBPY3QlMjAyMDI2JTIwMTklM0EzMCUzQTUyJTIwJTJCMDAwMA",
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "pubDate": "Wed, 21 Oct 2026 19:30:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmFndGljYWwuZGV2JTJGYmxvZyUyRnByYWd0aWNhbC12MzE0MC1yZWxlYXNlJTdDaHR0cHMlM0ElMkYlMkZwcmFndGljYWwuZGV2JTJGYmxvZyUyRnByYWd0aWNhbC12MzE0MC1yZWxlYXNlJTdDUHJhZ3RpY2FsJTIwdjMuMTQlMjBMdWEtYmFzZWQlMjB0ZXh0JTIwZWRpdG9yJTIwYWRkcyUyMG1lbnVzJTJDJTIwZmxvYXRpbmclMjB2aWV3cyUyQyUyMGFuZCUyMHNlc3Npb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAxNzY2NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyMSUyME9jdCUyMDIwMjYlMjAwNiUzQTA5JTNBMDQlMjAlMkIwMDAw",
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "pubDate": "Wed, 21 Oct 2026 06:09:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-21-0.json"
     }
   ]
