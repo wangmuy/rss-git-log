@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-25",
     "newestItemDate": "2026-10-25",
-    "itemCount": 5,
-    "generatedAt": "2026-10-25T04:54:46.346Z"
+    "itemCount": 9,
+    "generatedAt": "2026-10-25T13:14:31.230Z"
   },
   "items": [
     {
@@ -36,6 +36,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2VyZWJyYXMuYWklMkZibG9nJTJGaG93LXdlLWRlcGxveS10cmlsbGlvbi1wYXJhbWV0ZXItZnJvbnRpZXItbW9kZWxzLW9uLWNlcmVicmFzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2VyZWJyYXMuYWklMkZibG9nJTJGaG93LXdlLWRlcGxveS10cmlsbGlvbi1wYXJhbWV0ZXItZnJvbnRpZXItbW9kZWxzLW9uLWNlcmVicmFzJTdDQ2VyZWJyYXMlMjBEZXBsb3lzJTIwVHJpbGxpb24tUGFyYW1ldGVyJTIwQUklMjBNb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyNzM1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDAxJTNBMzMlM0E0OSUyMCUyQjAwMDA",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "pubDate": "Sun, 25 Oct 2026 01:33:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaWhodWIlMkZmaGVyb2VzMiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmloaHViJTJGZmhlcm9lczIlN0NmaGVyb2VzMiUzQSUyMEElMjByZWNyZWF0aW9uJTIwb2YlMjBIZXJvZXMlMjBvZiUyME1pZ2h0JTIwYW5kJTIwTWFnaWMlMjBJSSUyMGdhbWUlMjBlbmdpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMDM4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDExJTNBMDklM0ExMiUyMCUyQjAwMDA",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "pubDate": "Sun, 25 Oct 2026 11:09:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm1pa2U2NF90JTJGc3RhdHVzJTJGMjExNDE1MDM5OTQwNjIwMjg5NiU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZtaWtlNjRfdCUyRnN0YXR1cyUyRjIxMTQxNTAzOTk0MDYyMDI4OTYlN0NTYW1zdW5nJTIwcnVubmluZyUyMGElMjBUZW5zb3JGbG93JTIwbGl0ZSUyMG1vZGVsJTIwb24lMjA5NjB4NTQwJTIwaW1hZ2UlMjB0byUyMHRyYWNrJTIweW91JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzAxODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAxMCUzQTQyJTNBMDElMjAlMkIwMDAw",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "pubDate": "Sun, 25 Oct 2026 10:42:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExNDE3MS1uaWtvbi1waG90b2dyYXBoeS1jb250ZXN0LXdpbm5lci1sb3Nlcy10aXRsZS1hZnRlci1zY2llbnRpc3RzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy50ZWNoc3BvdC5jb20lMkZuZXdzJTJGMTE0MTcxLW5pa29uLXBob3RvZ3JhcGh5LWNvbnRlc3Qtd2lubmVyLWxvc2VzLXRpdGxlLWFmdGVyLXNjaWVudGlzdHMuaHRtbCU3Q05pa29uJTIwcGhvdG9ncmFwaHklMjBjb250ZXN0JTIwd2lubmVyJTIwbG9zZXMlMjB0aXRsZSUyMGFmdGVyJTIwc2NpZW50aXN0cyUyMHNwb3QlMjBzaWducyUyMG9mJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyOTgyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDA5JTNBNTElM0ExNyUyMCUyQjAwMDA",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "pubDate": "Sun, 25 Oct 2026 09:51:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFuYW1lcmljYW5kaXNwYXRjaC5vcmclMkZwJTJGbWV0YS1pZ25vcmVzLWJyYXppbGlhbi1jb3VydC1vcmRlciU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhbmFtZXJpY2FuZGlzcGF0Y2gub3JnJTJGcCUyRm1ldGEtaWdub3Jlcy1icmF6aWxpYW4tY291cnQtb3JkZXIlN0NNZXRhJTIwSWdub3JlcyUyMEJyYXppbGlhbiUyMENvdXJ0JTIwT3JkZXIlMjB0byUyMEVuZCUyMEJvbHNvbmFybyUyMEZhdm9yaXRpc20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyOTU4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDA5JTNBMDAlM0E0MCUyMCUyQjAwMDA",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "pubDate": "Sun, 25 Oct 2026 09:00:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
     }
   ]
