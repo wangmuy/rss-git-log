@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 11,
-    "generatedAt": "2026-10-26T04:58:14.795Z"
+    "itemCount": 25,
+    "generatedAt": "2026-10-26T15:17:34.438Z"
   },
   "items": [
     {
@@ -72,6 +72,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGS2lsbGFCb2klMkZTdGVhbE15Qml0Y29pbi1Qb0MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZLaWxsYUJvaSUyRlN0ZWFsTXlCaXRjb2luLVBvQyU3Q1N0ZWFsJTIwTXklMjBCaXRjb2luJTIwQ1RGJTIwUG9DJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzczNzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAwMCUzQTE1JTNBMTclMjAlMkIwMDAw",
       "title": "Steal My Bitcoin CTF PoC",
       "pubDate": "Mon, 26 Oct 2026 00:15:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdXMtbmV3cyUyRjIwMjYlMkZvY3QlMkYyNiUyRnBldGEtbW9ua2V5LWV4cGVyaW1lbnQtdmlkZW8lN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZ1cy1uZXdzJTJGMjAyNiUyRm9jdCUyRjI2JTJGcGV0YS1tb25rZXktZXhwZXJpbWVudC12aWRlbyU3Q1BldGElMjByZWxlYXNlcyUyMHZpZGVvJTIwc2hvd2luZyUyMGV4cGVyaW1lbnRzJTIwb24lMjBpbmZhbnQlMjBtb25rZXlzJTIwYXQlMjBVbml2JTIwb2YlMjBXYXNoaW5ndG9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDQ3NDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxNCUzQTUwJTNBNTAlMjAlMkIwMDAw",
+      "title": "Peta releases video showing experiments on infant monkeys at Univ of Washington",
+      "pubDate": "Mon, 26 Oct 2026 14:50:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUkZuZXh1cyUyRnBhcnR5bGluZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlJGbmV4dXMlMkZwYXJ0eWxpbmUlN0NQYXJ0eWxpbmUlM0ElMjBBJTIwZ3JvdXAlMjB2b2ljZSUyMGFwcGxpY2F0aW9uJTIwZm9yJTIwUmV0aWN1bHVtJTJDJTIwYnVpbHQlMjBvbiUyMExYU1QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0NDU4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE0JTNBNDIlM0EyNCUyMCUyQjAwMDA",
+      "title": "Partyline: A group voice application for Reticulum, built on LXST",
+      "pubDate": "Mon, 26 Oct 2026 14:42:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZhbWlnYSUyRmNvbW1lbnRzJTJGMXhmdGM1cyUyRmFtaWphX2FtaWdhX2VtdWxhdG9yX2luX2phdmElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWRkaXQuY29tJTJGciUyRmFtaWdhJTJGY29tbWVudHMlMkYxeGZ0YzVzJTJGYW1pamFfYW1pZ2FfZW11bGF0b3JfaW5famF2YSUyRiU3Q0FtaUphJTJDJTIwYSUyMGN5Y2xlLWV4YWN0JTIwQW1pZ2ElMjBlbXVsYXRvciUyMHdyaXR0ZW4lMjBpbiUyMEphdmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0NDQxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE0JTNBMzIlM0ExMSUyMCUyQjAwMDA",
+      "title": "AmiJa, a cycle-exact Amiga emulator written in Java",
+      "pubDate": "Mon, 26 Oct 2026 14:32:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYxMCUyRjI2JTJGYXVzdHJhbGlhJTJGcHJpc29uZXItdmVnZW1pdGUtcmVqZWN0ZWQtanVkZ2Utc2NsaS1pbnRsJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYxMCUyRjI2JTJGYXVzdHJhbGlhJTJGcHJpc29uZXItdmVnZW1pdGUtcmVqZWN0ZWQtanVkZ2Utc2NsaS1pbnRsJTdDVmVnZW1pdGUlMjBpcyUyMG5vdCUyMGElMjBodW1hbiUyMHJpZ2h0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDQxNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxNCUzQTE3JTNBNTElMjAlMkIwMDAw",
+      "title": "Vegemite is not a human right",
+      "pubDate": "Mon, 26 Oct 2026 14:17:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmVlZG9tLnByZXNzJTJGdGhlLWNsYXNzaWZpZWRzJTJGZG9qLXNheXMtcHJlc2lkZW50cy1zaG91bGQtYmUtYWJsZS10by1zZWxsLXNlY3JldHMtb24tZWJheSUyRiU3Q2h0dHBzJTNBJTJGJTJGZnJlZWRvbS5wcmVzcyUyRnRoZS1jbGFzc2lmaWVkcyUyRmRvai1zYXlzLXByZXNpZGVudHMtc2hvdWxkLWJlLWFibGUtdG8tc2VsbC1zZWNyZXRzLW9uLWViYXklMkYlN0NET0olMjBzYXlzJTIwcHJlc2lkZW50cyUyMHNob3VsZCUyMGJlJTIwYWJsZSUyMHRvJTIwc2VsbCUyMHNlY3JldHMlMjBvbiUyMGVCYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0Mzc2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDEzJTNBNTQlM0E0NCUyMCUyQjAwMDA",
+      "title": "DOJ says presidents should be able to sell secrets on eBay",
+      "pubDate": "Mon, 26 Oct 2026 13:54:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGc2hvcCUyRmJ1eS1pcGFkJTJGaXBhZC1taW5pJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGc2hvcCUyRmJ1eS1pcGFkJTJGaXBhZC1taW5pJTdDT0xFRCUyMGlQYWQlMjBNaW5pJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDM2NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMyUzQTQ3JTNBMzMlMjAlMkIwMDAw",
+      "title": "OLED iPad Mini",
+      "pubDate": "Mon, 26 Oct 2026 13:47:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMTAlMkZhcHBsZS1naXZlcy1pcGFkLW1pbmktaXRzLWJpZ2dlc3QtdXBkYXRlLWV2ZXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHBsZS5jb20lMkZuZXdzcm9vbSUyRjIwMjYlMkYxMCUyRmFwcGxlLWdpdmVzLWlwYWQtbWluaS1pdHMtYmlnZ2VzdC11cGRhdGUtZXZlciUyRiU3Q1RoZSUyMG5ldyUyMGlQYWQlMjBtaW5pJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDMwNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMyUzQTEzJTNBMzYlMjAlMkIwMDAw",
+      "title": "The new iPad mini",
+      "pubDate": "Mon, 26 Oct 2026 13:13:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VjLmdvdiUyRkFyY2hpdmVzJTJGZWRnYXIlMkZkYXRhJTJGMjEzMDM1NyUyRjAwMDE2MjgyODAyNjA2NzE2OCUyRmFudGhyb3BpY3BiYy1zeDEuaHRtJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2VjLmdvdiUyRkFyY2hpdmVzJTJGZWRnYXIlMkZkYXRhJTJGMjEzMDM1NyUyRjAwMDE2MjgyODAyNjA2NzE2OCUyRmFudGhyb3BpY3BiYy1zeDEuaHRtJTdDQW50aHJvcGljJTIwUy0xJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDI5MzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMyUzQTA0JTNBNTAlMjAlMkIwMDAw",
+      "title": "Anthropic S-1",
+      "pubDate": "Mon, 26 Oct 2026 13:04:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudWJpY2xvdWQuY29tJTJGYmxvZyUyRmZpeGluZy10b29sLWNhbGwtYWNjdXJhY3ktaW4tdmxsbSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnViaWNsb3VkLmNvbSUyRmJsb2clMkZmaXhpbmctdG9vbC1jYWxsLWFjY3VyYWN5LWluLXZsbG0lN0NGaXhpbmclMjBUb29sLUNhbGwlMjBBY2N1cmFjeSUyMGluJTIwdkxMTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQyODcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTIlM0E1OSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "pubDate": "Mon, 26 Oct 2026 12:59:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJvd24uZWR1JTJGbmV3cyUyRjIwMjYtMTAtMjYlMkZhaS1kYXRhLXdvcmtlcnMlN0NodHRwcyUzQSUyRiUyRnd3dy5icm93bi5lZHUlMkZuZXdzJTJGMjAyNi0xMC0yNiUyRmFpLWRhdGEtd29ya2VycyU3Q0Jyb3duJTIwc3R1ZGVudCUyMG1hcHMlMjB0aGUlMjBoaWRkZW4lMjBnbG9iYWwlMjBsYWJvciUyMHBvd2VyaW5nJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0Mjg0MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDEyJTNBNTglM0EyNyUyMCUyQjAwMDA",
+      "title": "Brown student maps the hidden global labor powering AI",
+      "pubDate": "Mon, 26 Oct 2026 12:58:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWxtaWVzc2xlci5jb20lMkZibG9nJTJGd3JpdGluZy1pcy1jbG9zZXItdG8tdGhvdWdodC10aGFuLWNvZGUlN0NodHRwcyUzQSUyRiUyRmRhbmllbG1pZXNzbGVyLmNvbSUyRmJsb2clMkZ3cml0aW5nLWlzLWNsb3Nlci10by10aG91Z2h0LXRoYW4tY29kZSU3Q1dyaXRpbmclMjBJcyUyMENsb3NlciUyMHRvJTIwVGhvdWdodCUyMFRoYW4lMjBDb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDI1NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMiUzQTMyJTNBMTUlMjAlMkIwMDAw",
+      "title": "Writing Is Closer to Thought Than Code",
+      "pubDate": "Mon, 26 Oct 2026 12:32:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaGFyby5vcmclMkZuZXdzJTJGMjAyNi0xMC0yNi1QaGFybzE0UmVsZWFzZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZwaGFyby5vcmclMkZuZXdzJTJGMjAyNi0xMC0yNi1QaGFybzE0UmVsZWFzZS5odG1sJTdDUGhhcm8lMjAxNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQxOTI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTElM0ExNSUzQTUwJTIwJTJCMDAwMA",
+      "title": "Pharo 14",
+      "pubDate": "Mon, 26 Oct 2026 11:15:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmVubmVucHV0aC5tZSUyRmJsb2clMkZwcmludGFibGUtd2Vic2l0ZXMlMkYlN0NodHRwcyUzQSUyRiUyRmJyZW5uZW5wdXRoLm1lJTJGYmxvZyUyRnByaW50YWJsZS13ZWJzaXRlcyUyRiU3Q1dlYnNpdGVzJTIwU2hvdWxkJTIwQmUlMjBQcmludGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0MTY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDEwJTNBMzIlM0ExNCUyMCUyQjAwMDA",
+      "title": "Websites Should Be Printable",
+      "pubDate": "Mon, 26 Oct 2026 10:32:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ja3MubWFuaWZvbGQzZC5jaCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvY2tzLm1hbmlmb2xkM2QuY2glMkYlN0NTd2l0emVybGFuZC4lMjBCbG9jayUyMGJ5JTIwYmxvY2suJTIwQXQlMjAxJTNBMSUyMHNjYWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDA5MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAwOCUzQTQ2JTNBMDklMjAlMkIwMDAw",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "pubDate": "Mon, 26 Oct 2026 08:46:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]
