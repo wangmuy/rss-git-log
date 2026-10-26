@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-23",
     "newestItemDate": "2026-10-23",
-    "itemCount": 44,
-    "generatedAt": "2026-10-24T04:47:22.934Z"
+    "itemCount": 45,
+    "generatedAt": "2026-10-26T04:58:14.795Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbGV4c2NpLmNvbSUyRmJsb2clMkZ1dWlkdjctaXMtd2VpcmQlMkYlN0NodHRwcyUzQSUyRiUyRmFsZXhzY2kuY29tJTJGYmxvZyUyRnV1aWR2Ny1pcy13ZWlyZCUyRiU3Q1VVSUR2NyUzQSUyMFRpbWVzdGFtcHMlMjBhcmVuJUUyJTgwJTk5dCUyMHRpbWUtb3JkZXJlZCUyMGFuZCUyMG90aGVyJTIwb2RkaXRpZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMTc0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE2JTNBMzklM0E0NSUyMCUyQjAwMDA",
       "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
       "pubDate": "Fri, 23 Oct 2026 16:39:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2V0dHkuZWR1JTJGbmV3cyUyRmJ1ZGRoYS1oZWFkLW9mLW1lcnYtdHVya21lbmlzdGFuLWNvbnNlcnZhdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdldHR5LmVkdSUyRm5ld3MlMkZidWRkaGEtaGVhZC1vZi1tZXJ2LXR1cmttZW5pc3Rhbi1jb25zZXJ2YXRpb24lMkYlN0NNYWtpbmclMjB0aGUlMjBCdWRkaGElMjBIZWFkJTIwZnJvbSUyME1lcnYlMjBXaG9sZSUyMEFnYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTM2MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxOCUzQTQ2JTNBMDAlMjAlMkIwMDAw",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "pubDate": "Fri, 23 Oct 2026 18:46:00 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
     }
   ]

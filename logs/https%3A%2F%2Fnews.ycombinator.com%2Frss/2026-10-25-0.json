@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-25",
     "newestItemDate": "2026-10-25",
-    "itemCount": 23,
-    "generatedAt": "2026-10-25T19:07:09.239Z"
+    "itemCount": 32,
+    "generatedAt": "2026-10-26T04:58:14.795Z"
   },
   "items": [
     {
@@ -144,6 +144,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRmRlc3RpbmVkJTJGaHVyc3Rvbi0xJTdDaHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRmRlc3RpbmVkJTJGaHVyc3Rvbi0xJTdDU2hvdyUyMEhOJTNBJTIwSHVyc3Rvbi0xJTIwb3BlbiUyMHNvdXJjZSUyMFRUUyUyMHRoYXQlMjBzcGVhayUyMFNvdXRoZXJuJTIwQW1lcmljYW4lMjBhbmQlMjBBZnJvLUVuZ2xpc2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIyNzMzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDAxJTNBMzAlM0ExMyUyMCUyQjAwMDA",
       "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
       "pubDate": "Sun, 25 Oct 2026 01:30:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEyLjE5NDI4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEyLjE5NDI4JTdDQXR0ZW50aW9uJTIwSXMlMjBOb3QlMjBXaGF0JTIwWW91JTIwTmVlZCUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjM3MjI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjUlMjBPY3QlMjAyMDI2JTIwMjMlM0E1MiUzQTA1JTIwJTJCMDAwMA",
+      "title": "Attention Is Not What You Need (2025)",
+      "pubDate": "Sun, 25 Oct 2026 23:52:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoeXBub3RpemUud29ya3MlMkZnZHgtM2RzJTJGcG9zdG1vcnRlbSUyRmluZGV4Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmh5cG5vdGl6ZS53b3JrcyUyRmdkeC0zZHMlMkZwb3N0bW9ydGVtJTJGaW5kZXguaHRtbCU3Q0YtWmVybyUyMFglMjBvbiUyME5pbnRlbmRvJTIwM0RTJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzcwNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAyMyUzQTI3JTNBMzAlMjAlMkIwMDAw",
+      "title": "F-Zero X on Nintendo 3DS",
+      "pubDate": "Sun, 25 Oct 2026 23:27:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaW5pbWF4aXIuY29tJTJGMjAyNiUyRjEwJTJGY2hlYXAtbGxtcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWluaW1heGlyLmNvbSUyRjIwMjYlMkYxMCUyRmNoZWFwLWxsbXMlMkYlN0NPcGVuQUklMjBhbmQlMjBBbnRocm9waWMlMjBjdXQlMjB0aGVpciUyMExMTSUyMHByaWNlcyUyMGJ5JTIwdXAlMjB0byUyMDgwJTI1JTIwd2l0aGluJTIwYSUyMGZldyUyMG1vbnRocy4lMjBXaHklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzNjEwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDIxJTNBMTElM0EzMSUyMCUyQjAwMDA",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "pubDate": "Sun, 25 Oct 2026 21:11:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGJyZXVuaWcuY29tJTJGMjAyNiUyRjEwJTJGMjQlMkZ0aGUtc3RhdGUtb2YtY29udGV4dC1lbmdpbmVlcmluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGJyZXVuaWcuY29tJTJGMjAyNiUyRjEwJTJGMjQlMkZ0aGUtc3RhdGUtb2YtY29udGV4dC1lbmdpbmVlcmluZy5odG1sJTdDVGhlJTIwU3RhdGUlMjBvZiUyMENvbnRleHQlMjBFbmdpbmVlcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjM1NzgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjUlMjBPY3QlMjAyMDI2JTIwMjAlM0EzMiUzQTMxJTIwJTJCMDAwMA",
+      "title": "The State of Context Engineering",
+      "pubDate": "Sun, 25 Oct 2026 20:32:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGlzbmV5YW5pbWF0aW9uLmNvbSUyRnByb2Nlc3MlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5kaXNuZXlhbmltYXRpb24uY29tJTJGcHJvY2VzcyUyRiU3Q1doYXQlMjBnb2VzJTIwaW50byUyMG1ha2luZyUyMGFuJTIwYW5pbWF0ZWQlMjBmaWxtJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzU3MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAyMCUzQTI3JTNBMDklMjAlMkIwMDAw",
+      "title": "What goes into making an animated film?",
+      "pubDate": "Sun, 25 Oct 2026 20:27:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWxmaWUud3RmJTJGcHJvZ3JhbW1pbmclMkZ3aHktaS1hbS1hLXByb2dyYW1tZXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFsZmllLnd0ZiUyRnByb2dyYW1taW5nJTJGd2h5LWktYW0tYS1wcm9ncmFtbWVyLmh0bWwlN0NXaHklMjBJJTIwQW0lMjBhJTIwUHJvZ3JhbW1lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjM1MDE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjUlMjBPY3QlMjAyMDI2JTIwMTklM0ExMSUzQTMxJTIwJTJCMDAwMA",
+      "title": "Why I Am a Programmer",
+      "pubDate": "Sun, 25 Oct 2026 19:11:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpb3NpZmxhemFyaWRpcy5naXRodWIuaW8lMkZiYXR0bGVzLW9mLXRoZS1yb21hbnMlMkYlN0NodHRwcyUzQSUyRiUyRmlvc2lmbGF6YXJpZGlzLmdpdGh1Yi5pbyUyRmJhdHRsZXMtb2YtdGhlLXJvbWFucyUyRiU3Q1doZXJlJTIwdGhlJTIwUm9tYW5zJTIwRm91Z2h0JTIwKGludGVyYWN0aXZlJTIwbWFwKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjM0ODc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjUlMjBPY3QlMjAyMDI2JTIwMTglM0E1OCUzQTE0JTIwJTJCMDAwMA",
+      "title": "Where the Romans Fought (interactive map)",
+      "pubDate": "Sun, 25 Oct 2026 18:58:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbm90YXJvb21iYSUyRmtleWJ5dGVzJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbm90YXJvb21iYSUyRmtleWJ5dGVzJTdDU2hvdyUyMEhOJTNBJTIwQSUyMFRydWx5JTIwTW9kdWxhciUyMEtleWJvYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjgxMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAwMyUzQTQ3JTNBNTYlMjAlMkIwMDAw",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "pubDate": "Sun, 25 Oct 2026 03:47:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhZHJzLnN5c3RlbXMlN0NodHRwcyUzQSUyRiUyRmFkcnMuc3lzdGVtcyUyRiU3Q1Nob3clMjBITiUzQSUyMEFEUnMlMjBmb3IlMjBBSSUyMCVFMiU4MCU5MyUyMERlbGliZXJhdGlvbiUyMHJlY29yZHMlMjBmb3IlMjBodW1hbiVFMiU4MCU5M0FJJTIwd29yayUyQyUyMHZlcnNpb25lZCUyMGluJTIwR2l0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjcwNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAwMCUzQTQzJTNBNDclMjAlMkIwMDAw",
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "pubDate": "Sun, 25 Oct 2026 00:43:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
     }
   ]
