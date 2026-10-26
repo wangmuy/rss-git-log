@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 25,
-    "generatedAt": "2026-10-26T15:17:34.438Z"
+    "itemCount": 41,
+    "generatedAt": "2026-10-26T21:04:48.659Z"
   },
   "items": [
     {
@@ -156,6 +156,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9ja3MubWFuaWZvbGQzZC5jaCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvY2tzLm1hbmlmb2xkM2QuY2glMkYlN0NTd2l0emVybGFuZC4lMjBCbG9jayUyMGJ5JTIwYmxvY2suJTIwQXQlMjAxJTNBMSUyMHNjYWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDA5MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAwOCUzQTQ2JTNBMDklMjAlMkIwMDAw",
       "title": "Switzerland. Block by block. At 1:1 scale",
       "pubDate": "Mon, 26 Oct 2026 08:46:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Rlcy5ucGlsay5jb20lMkZzdG9wLXRoZS1zcGFtLXRleHRzJTdDaHR0cHMlM0ElMkYlMkZub3Rlcy5ucGlsay5jb20lMkZzdG9wLXRoZS1zcGFtLXRleHRzJTdDU29tZWJvZHklMjBwbGVhc2UlMjBzdG9wJTIwdGhlJTIwc3BhbSUyMHRleHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTAwMTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxOSUzQTU3JTNBMzIlMjAlMkIwMDAw",
+      "title": "Somebody please stop the spam texts",
+      "pubDate": "Mon, 26 Oct 2026 19:57:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW90aGVyam9uZXMuY29tJTJGZW52aXJvbm1lbnQlMkYyMDI2JTJGMTAlMkZlcGEtb25saW5lLWFyY2hpdmUtZGVsZXRpb24temVsZGluLWNhbXAtbGVqZXVuZS10cnVtcC1jbGVhbi1wb3dlciUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1vdGhlcmpvbmVzLmNvbSUyRmVudmlyb25tZW50JTJGMjAyNiUyRjEwJTJGZXBhLW9ubGluZS1hcmNoaXZlLWRlbGV0aW9uLXplbGRpbi1jYW1wLWxlamV1bmUtdHJ1bXAtY2xlYW4tcG93ZXIlMkYlN0NUaGUlMjBFUEElMjBJcyUyMFF1aWV0bHklMjBLaWxsaW5nJTIwSXRzJTIwV2ViJTIwQXJjaGl2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ5Mjc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTklM0EwNSUzQTQxJTIwJTJCMDAwMA",
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "pubDate": "Mon, 26 Oct 2026 19:05:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YXJpZXR5LmNvbSUyRjIwMjYlMkZmaWxtJTJGbmV3cyUyRnNreWRhbmNlLXZvbHVudGFyeS1idXlvdXRzLWxheW9mZnMtNS1kYXlzLXBlci13ZWVrLWluLW9mZmljZS1wb2xpY3ktMTIzNjkzMTQwMiUyRiU3Q2h0dHBzJTNBJTJGJTJGdmFyaWV0eS5jb20lMkYyMDI2JTJGZmlsbSUyRm5ld3MlMkZza3lkYW5jZS12b2x1bnRhcnktYnV5b3V0cy1sYXlvZmZzLTUtZGF5cy1wZXItd2Vlay1pbi1vZmZpY2UtcG9saWN5LTEyMzY5MzE0MDIlMkYlN0NTa3lkYW5jZSUyMG9mZmVycyUyMGJ1eW91dHMlMkMlMjBvcmRlcnMlMjByZXR1cm4lMjB0byUyMG9mZmljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ5MTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTglM0E1NiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Skydance offers buyouts, orders return to office",
+      "pubDate": "Mon, 26 Oct 2026 18:56:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmVuZXJneS1jcml0aWNhbC1tYXRlcmlhbHMtbWluZXJhbHMtaGVsaXVtLTQzZGExNjBhZGMxYmFkMzg5ZmJhMGI5ZmZiZDE0YzNjJTdDaHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmVuZXJneS1jcml0aWNhbC1tYXRlcmlhbHMtbWluZXJhbHMtaGVsaXVtLTQzZGExNjBhZGMxYmFkMzg5ZmJhMGI5ZmZiZDE0YzNjJTdDVVMlMjBkZXNpZ25hdGVzJTIwaGVsaXVtJTIwYXMlMjBhJTIwY3JpdGljYWwlMjBtYXRlcmlhbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ4NjY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTglM0EzMSUzQTM5JTIwJTJCMDAwMA",
+      "title": "US designates helium as a critical material",
+      "pubDate": "Mon, 26 Oct 2026 18:31:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGcHlsYW5jZS1yZWxlYXNlJTJGYmxvYiUyRm1haW4lMkZkb2NzJTJGdHNwJTJGdHlwZS1zZXJ2ZXItcHJvdG9jb2wubWQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaWNyb3NvZnQlMkZweWxhbmNlLXJlbGVhc2UlMkZibG9iJTJGbWFpbiUyRmRvY3MlMkZ0c3AlMkZ0eXBlLXNlcnZlci1wcm90b2NvbC5tZCU3Q1R5cGUlMjBTZXJ2ZXIlMjBQcm90b2NvbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ4MzcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTglM0ExNCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Type Server Protocol",
+      "pubDate": "Mon, 26 Oct 2026 18:14:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1ncHQtNi0xLXRlcnJhJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1ncHQtNi0xLXRlcnJhJTJGJTdDR1BULTYuMSUyMFRlcnJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDgxMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxOCUzQTAxJTNBMTclMjAlMkIwMDAw",
+      "title": "GPT-6.1 Terra",
+      "pubDate": "Mon, 26 Oct 2026 18:01:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVubHl0aC5jb20lMkZwb3N0cyUyRm9sZGVzdC13aW5kb3dzLWd1aS1hcHAtd2luLTExJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVubHl0aC5jb20lMkZwb3N0cyUyRm9sZGVzdC13aW5kb3dzLWd1aS1hcHAtd2luLTExJTJGJTdDT2xkZXN0JTIwR1VJJTIwYXBwbGljYXRpb24lMjB0aGF0JTIwc3RpbGwlMjBydW5zJTIwb24lMjBXaW5kb3dzJTIwMTElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0ODA1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE3JTNBNTYlM0E1NSUyMCUyQjAwMDA",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "pubDate": "Mon, 26 Oct 2026 17:56:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZpbi1sZWFrZWQtYXVkaW8tZmxvY2stY2VvLXRlbGxzLWNvcHMtYmFja2xhc2gtdG8tdGhlLWNvbXBhbnktaXNudC1yZWFsJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZpbi1sZWFrZWQtYXVkaW8tZmxvY2stY2VvLXRlbGxzLWNvcHMtYmFja2xhc2gtdG8tdGhlLWNvbXBhbnktaXNudC1yZWFsJTJGJTdDSW4lMjBMZWFrZWQlMjBBdWRpbyUyQyUyMEZsb2NrJTIwQ0VPJTIwVGVsbHMlMjBDb3BzJTIwQmFja2xhc2glMjB0byUyMHRoZSUyMENvbXBhbnklMjBJc24ndCUyMFJlYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0ODAwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE3JTNBNTQlM0EwMCUyMCUyQjAwMDA",
+      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "pubDate": "Mon, 26 Oct 2026 17:54:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm11cmF0YnVmZmFsby5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTAlMkZ0aGUtbWFuLWZyb20tZnV0dXJlLXdoeS1qb2hubnktY2FudC5odG1sJTdDaHR0cCUzQSUyRiUyRm11cmF0YnVmZmFsby5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTAlMkZ0aGUtbWFuLWZyb20tZnV0dXJlLXdoeS1qb2hubnktY2FudC5odG1sJTdDQSUyME1hbiUyMGZyb20lMjB0aGUlMjBGdXR1cmUlM0ElMjBXaHklMjBKb2hubnklMjBDYW4ndCUyMFN0b3AlMjBBYnN0cmFjdGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ3OTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTclM0E0OSUzQTU1JTIwJTJCMDAwMA",
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "pubDate": "Mon, 26 Oct 2026 17:49:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZjaGF0Z3B0LWtlZXBzLXRlbGxpbmctcGVvcGxlLTQwNC1tZWRpYS1jYW4tc29sdmUtdGhlaXItdGVjaC1zdXBwb3J0LXByb2JsZW1zJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuNDA0bWVkaWEuY28lMkZjaGF0Z3B0LWtlZXBzLXRlbGxpbmctcGVvcGxlLTQwNC1tZWRpYS1jYW4tc29sdmUtdGhlaXItdGVjaC1zdXBwb3J0LXByb2JsZW1zJTJGJTdDQ2hhdEdQVCUyMEtlZXBzJTIwVGVsbGluZyUyMFBlb3BsZSUyMDQwNCUyME1lZGlhJTIwQ2FuJTIwU29sdmUlMjBUaGVpciUyMFRlY2glMjBTdXBwb3J0JTIwUHJvYmxlbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0NzYzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE3JTNBMzIlM0ExNiUyMCUyQjAwMDA",
+      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+      "pubDate": "Mon, 26 Oct 2026 17:32:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjEwJTJGc2hvdWxkLXBvbGljZS13aXBlLWEtY3JpbWluYWxzLWNlbGxwaG9uZS1iZWZvcmUtcmV0dXJuaW5nLWl0LXUtcy12LXN0YXRoYXMuaHRtJTdDaHR0cHMlM0ElMkYlMkZibG9nLmVyaWNnb2xkbWFuLm9yZyUyRmFyY2hpdmVzJTJGMjAyNiUyRjEwJTJGc2hvdWxkLXBvbGljZS13aXBlLWEtY3JpbWluYWxzLWNlbGxwaG9uZS1iZWZvcmUtcmV0dXJuaW5nLWl0LXUtcy12LXN0YXRoYXMuaHRtJTdDU2hvdWxkJTIwUG9saWNlJTIwV2lwZSUyMGElMjBDcmltaW5hbCdzJTIwQ2VsbHBob25lJTIwQmVmb3JlJTIwUmV0dXJuaW5nJTIwSXQlM0YlRTIlODAlOTNVLlMuJTIwdnMuJTIwU3RhdGhhcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ3NTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTclM0EyOCUzQTI2JTIwJTJCMDAwMA",
+      "title": "Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas",
+      "pubDate": "Mon, 26 Oct 2026 17:28:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGlsYXdhclNoYWZpcSUyRm5pZXR6c2NoaWFuLWRlYnVnZ2VyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRGlsYXdhclNoYWZpcSUyRm5pZXR6c2NoaWFuLWRlYnVnZ2VyJTdDTmlldHpzY2hpYW4lMjBEZWJ1Z2dlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ3NDkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTclM0EyNSUzQTMwJTIwJTJCMDAwMA",
+      "title": "Nietzschian Debugger",
+      "pubDate": "Mon, 26 Oct 2026 17:25:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb2hlcmUuY29tJTJGYmxvZyUyRmNvbmNlcm5pbmctYmVoYXZpb3VyLXBvcHVsYXItb3Blbi13ZWlnaHQtYWktbW9kZWwlN0NodHRwcyUzQSUyRiUyRmNvaGVyZS5jb20lMkZibG9nJTJGY29uY2VybmluZy1iZWhhdmlvdXItcG9wdWxhci1vcGVuLXdlaWdodC1haS1tb2RlbCU3Q0NvbmNlcm5pbmclMjBiZWhhdmlvciUyMGZyb20lMjBhJTIwcG9wdWxhciUyMG9wZW4td2VpZ2h0JTIwQUklMjBtb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ2NjU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTYlM0EzNSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "pubDate": "Mon, 26 Oct 2026 16:35:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRnJpZ2FkZUhRJTJGaG9iJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRnJpZ2FkZUhRJTJGaG9iJTdDU2hvdyUyMEhOJTNBJTIwSG9iJTIwLSUyME9wZW4tc291cmNlJTJDJTIwb24lMjBkZXZpY2UlMjBhbHRlcm5hdGl2ZSUyMHRvJTIwQ2xhdWRlJTIwQ293b3JrJTIwYW5kJTIwQ2hhdEdQVCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ2MjM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTYlM0ExMiUzQTI5JTIwJTJCMDAwMA",
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "pubDate": "Mon, 26 Oct 2026 16:12:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjc3MtdHJpY2tzLmNvbSUyRmNzcy10cmlja3MtaGFzLWEtbmV3LW93bmVyJTJGJTdDaHR0cHMlM0ElMkYlMkZjc3MtdHJpY2tzLmNvbSUyRmNzcy10cmlja3MtaGFzLWEtbmV3LW93bmVyJTJGJTdDQ1NTLVRyaWNrcyUyMGhhcyUyMGElMjBuZXclMjBvd25lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ1ODMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTUlM0E1MSUzQTIzJTIwJTJCMDAwMA",
+      "title": "CSS-Tricks has a new owner",
+      "pubDate": "Mon, 26 Oct 2026 15:51:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWdhemluZS5zZWJhc3RpYW5yYXNjaGthLmNvbSUyRnAlMkZidWlsZGluZy1yZWFzb25pbmctbW9kZWxzJTdDaHR0cHMlM0ElMkYlMkZtYWdhemluZS5zZWJhc3RpYW5yYXNjaGthLmNvbSUyRnAlMkZidWlsZGluZy1yZWFzb25pbmctbW9kZWxzJTdDU2ViYXN0aWFuJTIwUmFzY2hrYSdzJTIwZnJvbS1zY3JhdGNoJTIwdmlkZW8lMjBjb3Vyc2UlMjBvbiUyMGJ1aWxkaW5nJTIwcmVhc29uaW5nJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDUxMzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxNSUzQTExJTNBNTklMjAlMkIwMDAw",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "pubDate": "Mon, 26 Oct 2026 15:11:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-23",
     "newestItemDate": "2026-10-23",
-    "itemCount": 49,
-    "generatedAt": "2026-10-26T15:17:34.439Z"
+    "itemCount": 53,
+    "generatedAt": "2026-10-26T21:04:48.660Z"
   },
   "items": [
     {
@@ -300,6 +300,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZicmFzaGFuZHBsdWNreS5jb20lMkYyMDI2JTJGMTAlMkYxNSUyRmdyb3dpbmctdHJlZXMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYnJhc2hhbmRwbHVja3kuY29tJTJGMjAyNiUyRjEwJTJGMTUlMkZncm93aW5nLXRyZWVzLmh0bWwlN0NHcm93aW5nJTIwVHJlZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwOTI3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE0JTNBMDclM0E0MiUyMCUyQjAwMDA",
       "title": "Growing Trees",
       "pubDate": "Fri, 23 Oct 2026 14:07:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWlsaXRhcnlhdmlhdGlvbm11c2V1bS5vcmclMkZvdXItY29sbGVjdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pbGl0YXJ5YXZpYXRpb25tdXNldW0ub3JnJTJGb3VyLWNvbGxlY3Rpb24lMkYlN0NXb3JsZCUyMFdhcnMlMjBJJTIwYW5kJTIwSUklMjBNaWxpdGFyeSUyMEF2aWF0aW9uJTIwTXVzZXVtJTIwQ29sbGVjdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjE0OTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMjAlM0EzNSUzQTQwJTIwJTJCMDAwMA",
+      "title": "World Wars I and II Military Aviation Museum Collection",
+      "pubDate": "Fri, 23 Oct 2026 20:35:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxd2FjLmNvbSUyRmJsb2clMkZ3aG8ta2lsbGVkLXRoZS1ldi1jZXJ0JTdDaHR0cHMlM0ElMkYlMkZxd2FjLmNvbSUyRmJsb2clMkZ3aG8ta2lsbGVkLXRoZS1ldi1jZXJ0JTdDV2hvJTIwa2lsbGVkJTIwdGhlJTIwRVYlMjBjZXJ0JTNGJTIwQSUyMGJyb3dzZXIlMjB3aG9kdW5pdCUyMGZvciUyMEhhbGxvd2VlbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjEyNzY0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTclM0E0NiUzQTMzJTIwJTJCMDAwMA",
+      "title": "Who killed the EV cert? A browser whodunit for Halloween",
+      "pubDate": "Fri, 23 Oct 2026 17:46:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZXRhcGl4ZWwuY29tJTJGMjAyNiUyRjEwJTJGMjIlMkZzaWdtYS1zYXlzLXRoZS1jb21wYWN0LW1vZHVsYXItZnAyLWlzLXRoZS11bHRpbWF0ZS1oeWJyaWQtY2FtZXJhJTJGJTdDaHR0cHMlM0ElMkYlMkZwZXRhcGl4ZWwuY29tJTJGMjAyNiUyRjEwJTJGMjIlMkZzaWdtYS1zYXlzLXRoZS1jb21wYWN0LW1vZHVsYXItZnAyLWlzLXRoZS11bHRpbWF0ZS1oeWJyaWQtY2FtZXJhJTJGJTdDU2lnbWElMjBTYXlzJTIwdGhlJTIwQ29tcGFjdCUyQyUyME1vZHVsYXIlMjBGUDIlMjBJcyUyMHRoZSUyMFVsdGltYXRlJTIwSHlicmlkJTIwQ2FtZXJhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMTE3ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMyUyME9jdCUyMDIwMjYlMjAxNiUzQTQxJTNBNDElMjAlMkIwMDAw",
+      "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+      "pubDate": "Fri, 23 Oct 2026 16:41:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGYuY29tJTJGZGlhbW9uZC10cmFuc2lzdG9yJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGYuY29tJTJGZGlhbW9uZC10cmFuc2lzdG9yJTdDRGlhbW9uZCUyMFRyYW5zaXN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwOTUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE0JTNBMjAlM0ExNSUyMCUyQjAwMDA",
+      "title": "Diamond Transistor",
+      "pubDate": "Fri, 23 Oct 2026 14:20:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
     }
   ]

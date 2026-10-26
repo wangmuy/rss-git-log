@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-25",
     "newestItemDate": "2026-10-25",
-    "itemCount": 32,
-    "generatedAt": "2026-10-26T04:58:14.795Z"
+    "itemCount": 34,
+    "generatedAt": "2026-10-26T21:04:48.660Z"
   },
   "items": [
     {
@@ -198,6 +198,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhZHJzLnN5c3RlbXMlN0NodHRwcyUzQSUyRiUyRmFkcnMuc3lzdGVtcyUyRiU3Q1Nob3clMjBITiUzQSUyMEFEUnMlMjBmb3IlMjBBSSUyMCVFMiU4MCU5MyUyMERlbGliZXJhdGlvbiUyMHJlY29yZHMlMjBmb3IlMjBodW1hbiVFMiU4MCU5M0FJJTIwd29yayUyQyUyMHZlcnNpb25lZCUyMGluJTIwR2l0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjcwNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAwMCUzQTQzJTNBNDclMjAlMkIwMDAw",
       "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
       "pubDate": "Sun, 25 Oct 2026 00:43:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYm9oZGFuLmdpdGh1Yi5pbyUyRmdsaWRlciUyRiU3Q2h0dHBzJTNBJTJGJTJGZGJvaGRhbi5naXRodWIuaW8lMkZnbGlkZXIlMkYlN0NTaG93JTIwSE4lM0ElMjBHbGlkZXIlMjA0LjAlMjBVbm9mZmljaWFsJTIwV2ViJTIwRWRpdGlvbiUyMChNYWMlMjBnYW1lJTIwcG9ydCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzNzAxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDIzJTNBMTglM0E0MiUyMCUyQjAwMDA",
+      "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
+      "pubDate": "Sun, 25 Oct 2026 23:18:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaHJhaXdpLmNvbSUyRmJsb2clMkZzaW1kLWZhc3QtZXNwMzJzMyUyRiU3Q2h0dHBzJTNBJTJGJTJGc2hyYWl3aS5jb20lMkZibG9nJTJGc2ltZC1mYXN0LWVzcDMyczMlMkYlN0NTSU1ELWFjY2VsZXJhdGVkJTIwY29tcHV0ZXIlMjB2aXNpb24lMjBvbiUyMGElMjAlMjQyJTIwbWljcm9jb250cm9sbGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzY2ODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAyMiUzQTI5JTNBNDclMjAlMkIwMDAw",
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "pubDate": "Sun, 25 Oct 2026 22:29:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
     }
   ]
