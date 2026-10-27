@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-27",
     "newestItemDate": "2026-10-27",
-    "itemCount": 4,
-    "generatedAt": "2026-10-27T14:39:13.920Z"
+    "itemCount": 28,
+    "generatedAt": "2026-10-27T20:46:36.725Z"
   },
   "items": [
     {
@@ -30,6 +30,150 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbGxtb2RlbHMuaW8lMkZsbG0lMkZhYmxpdGVyYXRlZCU3Q2h0dHBzJTNBJTJGJTJGYWxsbW9kZWxzLmlvJTJGbGxtJTJGYWJsaXRlcmF0ZWQlN0NUaGVyZSUyMGFyZSUyMG5vdyUyMDUlMjBpbmZlcmVuY2UlMjBwcm92aWRlcnMlMjBmb3IlMjBhYmxpdGVyYXRlZCUyMERlZXBTZWVrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTQ4MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAwNCUzQTUzJTNBNTIlMjAlMkIwMDAw",
       "title": "There are now 5 inference providers for abliterated DeepSeek",
       "pubDate": "Tue, 27 Oct 2026 04:53:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGc3NoLWludmVzdGlnYXRpb24tdXBkYXRlJTdDaHR0cHMlM0ElMkYlMkZ0YWlsc2NhbGUuY29tJTJGc3NoLWludmVzdGlnYXRpb24tdXBkYXRlJTdDVGFpbHNjYWxlJTIwU1NIJTNBJTIwSW52ZXN0aWdhdGlvbiUyMGFuZCUyMHJlbWVkaWF0aW9uJTIwdXBkYXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjQ4NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxOSUzQTU1JTNBMjElMjAlMkIwMDAw",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "pubDate": "Tue, 27 Oct 2026 19:55:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJhbmd1cy5pbyUyRnN1cnZpdmFsLWxsbSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJyYW5ndXMuaW8lMkZzdXJ2aXZhbC1sbG0lN0NTdXJ2aXZhbCUyMExMTSUzQSUyMEFJJTIwYXNzaXN0YW50JTIwYW5kJTIwZW1lcmdlbmN5JTIwbGlicmFyeSUyMHRoYXQlMjBydW5zJTIwb24lMjB5b3VyJTIwb3duJTIwY29tcHV0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2NDg1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI3JTIwT2N0JTIwMjAyNiUyMDE5JTNBNTUlM0EwNiUyMCUyQjAwMDA",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "pubDate": "Tue, 27 Oct 2026 19:55:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjb3JkLmNvbSUyRmJsb2clMkZtYWtpbmctY29udGVudC1mcm9tLWRpc2NvdmVyYWJsZS1zZXJ2ZXJzLWVhc2llci10by1kaXNjb3ZlciU3Q2h0dHBzJTNBJTJGJTJGZGlzY29yZC5jb20lMkZibG9nJTJGbWFraW5nLWNvbnRlbnQtZnJvbS1kaXNjb3ZlcmFibGUtc2VydmVycy1lYXNpZXItdG8tZGlzY292ZXIlN0NEaXNjb3JkJTIwd2lsbCUyMHNvb24lMjBsZXQlMjBhbnlvbmUlMjBmaW5kJTIwcHVibGljJTIwc2VydmVyJTIwbWVzc2FnZXMlMjB0aHJvdWdoJTIwR29vZ2xlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjM4NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxOCUzQTQ0JTNBMTclMjAlMkIwMDAw",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "pubDate": "Tue, 27 Oct 2026 18:44:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3hpby5pbyUyRmJsb2clMkZjaG9vc2UteW91ci1iYWNrZW5kLXRocmVlLXRscy1idWdzLWluLWdvYWhlYWQlN0NodHRwcyUzQSUyRiUyRmZveGlvLmlvJTJGYmxvZyUyRmNob29zZS15b3VyLWJhY2tlbmQtdGhyZWUtdGxzLWJ1Z3MtaW4tZ29haGVhZCU3Q1RocmVlJTIwVExTJTIwQnVncyUyMGluJTIwR29BaGVhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYzNzAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTglM0EzMyUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Three TLS Bugs in GoAhead",
+      "pubDate": "Tue, 27 Oct 2026 18:33:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGlxdWlkLmFpJTJGYmxvZyUyRmxmbTMlN0NodHRwcyUzQSUyRiUyRnd3dy5saXF1aWQuYWklMkZibG9nJTJGbGZtMyU3Q0ludHJvZHVjaW5nJTIwTEZNMyUzQSUyMEV2ZXJ5JTIwTW9kYWxpdHklMjBmb3IlMjBTcGVjaWFsaXplZCUyMEludGVsbGlnZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYyMjI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTclM0EwNCUzQTUwJTIwJTJCMDAwMA",
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "pubDate": "Tue, 27 Oct 2026 17:04:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaG9zdHR5Lm9yZyUyRmRvY3MlMkZpbnN0YWxsJTJGcmVsZWFzZS1ub3RlcyUyRjEtNC0wJTdDaHR0cHMlM0ElMkYlMkZnaG9zdHR5Lm9yZyUyRmRvY3MlMkZpbnN0YWxsJTJGcmVsZWFzZS1ub3RlcyUyRjEtNC0wJTdDR2hvc3R0eSUyMDEuNC4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjE5OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxNiUzQTUxJTNBMjIlMjAlMkIwMDAw",
+      "title": "Ghostty 1.4.0",
+      "pubDate": "Tue, 27 Oct 2026 16:51:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRnBvbGljZS1hcmUtdXNpbmctYWktdG8tcHVsbC1vdmVyLWRyaXZlcnMtZm9yLXN1c3BpY2lvdXMtYmVoYXZpb3ItMjAwMDgzMTIyMCU3Q2h0dHBzJTNBJTJGJTJGZ2l6bW9kby5jb20lMkZwb2xpY2UtYXJlLXVzaW5nLWFpLXRvLXB1bGwtb3Zlci1kcml2ZXJzLWZvci1zdXNwaWNpb3VzLWJlaGF2aW9yLTIwMDA4MzEyMjAlN0NQb2xpY2UlMjBhcmUlMjB1c2luZyUyMEFJJTIwdG8lMjBwdWxsJTIwb3ZlciUyMGRyaXZlcnMlMjBmb3IlMjAnc3VzcGljaW91cyclMjBiZWhhdmlvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYxODE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTYlM0E0MCUzQTE1JTIwJTJCMDAwMA",
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "pubDate": "Tue, 27 Oct 2026 16:40:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZnNnLmF4aW9tbWF0aC5haSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2ZzZy5heGlvbW1hdGguYWklMkYlN0NDbGFzc2lmaWNhdGlvbiUyMG9mJTIwRmluaXRlJTIwU2ltcGxlJTIwR3JvdXBzJTIwRm9ybWFsaXplZCUyMGluJTIwTGVhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYxNjQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTYlM0EyOSUzQTAyJTIwJTJCMDAwMA",
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "pubDate": "Tue, 27 Oct 2026 16:29:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXJwZXJzLm9yZyUyRmFyY2hpdmUlMkYyMDIwJTJGMDElMkZ2aWNpb3VzLWN5Y2xlcy10aGVzZXMtb24tYS1waGlsb3NvcGh5LW9mLW5ld3MlMkYlN0NodHRwcyUzQSUyRiUyRmhhcnBlcnMub3JnJTJGYXJjaGl2ZSUyRjIwMjAlMkYwMSUyRnZpY2lvdXMtY3ljbGVzLXRoZXNlcy1vbi1hLXBoaWxvc29waHktb2YtbmV3cyUyRiU3Q1ZpY2lvdXMlMjBDeWNsZXMlM0ElMjBUaGVzZXMlMjBvbiUyMGElMjBwaGlsb3NvcGh5JTIwb2YlMjBuZXdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjE2MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxNiUzQTI3JTNBMjklMjAlMkIwMDAw",
+      "title": "Vicious Cycles: Theses on a philosophy of news",
+      "pubDate": "Tue, 27 Oct 2026 16:27:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdXR1cmlzbS5jb20lMkZhcnRpZmljaWFsLWludGVsbGlnZW5jZSUyRmFtYXpvbi1haS1kaXZpc2lvbi1mYWlsdXJlLW5vdmElN0NodHRwcyUzQSUyRiUyRmZ1dHVyaXNtLmNvbSUyRmFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTJGYW1hem9uLWFpLWRpdmlzaW9uLWZhaWx1cmUtbm92YSU3Q0FtYXpvbiUyMElzJTIwR3V0dGluZyUyMEl0cyUyMEFJJTIwRGl2aXNpb24lMjBBZnRlciUyMFN1c3RhaW5lZCUyMEZhaWx1cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2MTU4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI3JTIwT2N0JTIwMjAyNiUyMDE2JTNBMjUlM0EzMCUyMCUyQjAwMDA",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "pubDate": "Tue, 27 Oct 2026 16:25:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbG91ZHNsZXV0aC5pbyUyRmJsb2clMkZwaHAyc2hlbGwtbGl0ZWxsbS1naXRsYWItZmluZC13aGF0LXlvdS1ydW4lMkYlN0NodHRwcyUzQSUyRiUyRmNsb3Vkc2xldXRoLmlvJTJGYmxvZyUyRnBocDJzaGVsbC1saXRlbGxtLWdpdGxhYi1maW5kLXdoYXQteW91LXJ1biUyRiU3Q1BIUDJTaGVsbCUyQyUyMExpdGVMTE0lMkMlMjBHaXRMYWIlM0ElMjBGaW5kJTIwV2hhdCUyMFlvdSUyME5lZWQlMjB0byUyMFBhdGNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjE1ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxNiUzQTI1JTNBMTIlMjAlMkIwMDAw",
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "pubDate": "Tue, 27 Oct 2026 16:25:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGaW4lMkZuZXdzcm9vbSUyRjIwMjYlMkYxMCUyRmFwcGxlLWludHJvZHVjZXMtdGhlLW5ldy0xNC1pbmNoLW1hY2Jvb2stcHJvLXdpdGgtbTYlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHBsZS5jb20lMkZpbiUyRm5ld3Nyb29tJTJGMjAyNiUyRjEwJTJGYXBwbGUtaW50cm9kdWNlcy10aGUtbmV3LTE0LWluY2gtbWFjYm9vay1wcm8td2l0aC1tNiUyRiU3Q05ldyUyMDE0JUUyJTgwJTkxaW5jaCUyME1hY0Jvb2slMjBQcm8lMjB3aXRoJTIwTTYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2MTM1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI3JTIwT2N0JTIwMjAyNiUyMDE2JTNBMDglM0EzMiUyMCUyQjAwMDA",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "pubDate": "Tue, 27 Oct 2026 16:08:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGZ2VuaWUtNC1hLW5ldy1nZW5lcmF0aW9uLW9mLXdvcmxkLXNpbXVsYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmRlZXBtaW5kLmdvb2dsZSUyRmJsb2clMkZnZW5pZS00LWEtbmV3LWdlbmVyYXRpb24tb2Ytd29ybGQtc2ltdWxhdGlvbiUyRiU3Q0dlbmllJTIwNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYxMzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTYlM0EwNiUzQTAxJTIwJTJCMDAwMA",
+      "title": "Genie 4",
+      "pubDate": "Tue, 27 Oct 2026 16:06:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFuZm9yZGRhaWx5LmNvbSUyRjIwMjYlMkYxMCUyRjI3JTJGcHJvZmVzc29ycy1ib29rcy1waXJhdGVkLXRvLXRyYWluLWNsYXVkZSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3RhbmZvcmRkYWlseS5jb20lMkYyMDI2JTJGMTAlMkYyNyUyRnByb2Zlc3NvcnMtYm9va3MtcGlyYXRlZC10by10cmFpbi1jbGF1ZGUlMkYlN0NBbnRocm9waWMlMjB0cmFpbmVkJTIwQ2xhdWRlJTIwb24lMjBpbGxlZ2FsbHklMjBvYnRhaW5lZCUyMFN0YW5mb3JkJTIwcHJvZmVzc29ycyclMjBib29rcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYwODE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTUlM0EyOCUzQTI2JTIwJTJCMDAwMA",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "pubDate": "Tue, 27 Oct 2026 15:28:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjLWZpcnN0LmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGc3BlYy1maXJzdC5kZXYlMkYlN0NTaG93JTIwSE4lM0ElMjBTcGVjaWZpY2F0aW9uJTIwRmlyc3QlMjBBZ2VudGljJTIwRGV2ZWxvcG1lbnQlMjBQbHVnaW4lMjBhbmQlMjBQcm92ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYwNTcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTUlM0ExMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+      "pubDate": "Tue, 27 Oct 2026 15:12:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRmZpbmFuY2UlMkZpbnZlc3RpbmclMkZhLTMwMC1iaWxsaW9uLWRlYnQtd2FsbC1pcy1sb29taW5nLW92ZXItcHJpdmF0ZS1lcXVpdHktYmFja2VkLWNvbXBhbmllcy1kNjM1OTQ5NyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndzai5jb20lMkZmaW5hbmNlJTJGaW52ZXN0aW5nJTJGYS0zMDAtYmlsbGlvbi1kZWJ0LXdhbGwtaXMtbG9vbWluZy1vdmVyLXByaXZhdGUtZXF1aXR5LWJhY2tlZC1jb21wYW5pZXMtZDYzNTk0OTclN0NBJTIwJTI0MzAwQiUyMCdEZWJ0JTIwV2FsbCclMjBJcyUyMExvb21pbmclMjBvdmVyJTIwUHJpdmF0ZS1FcXVpdHklMjBCYWNrZWQlMjBDb21wYW5pZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2MDUyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI3JTIwT2N0JTIwMjAyNiUyMDE1JTNBMDklM0EyNyUyMCUyQjAwMDA",
+      "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
+      "pubDate": "Tue, 27 Oct 2026 15:09:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGUtdXMtZ292ZXJubWVudC1pcy1oaWRpbmctYS1zZWNyZXQtY291cnQtcnVsaW5nLWFib3V0LWhvdy1pdC1zcGllcy1vbi1hbWVyaWNhbnMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53aXJlZC5jb20lMkZzdG9yeSUyRnRoZS11cy1nb3Zlcm5tZW50LWlzLWhpZGluZy1hLXNlY3JldC1jb3VydC1ydWxpbmctYWJvdXQtaG93LWl0LXNwaWVzLW9uLWFtZXJpY2FucyUyRiU3Q1VTJTIwR292ZXJubWVudCUyMGlzJTIwaGlkaW5nJTIwYSUyMHNlY3JldCUyMGNvdXJ0JTIwcnVsaW5nJTIwYWJvdXQlMjBob3clMjBpdCUyMHNwaWVzJTIwb24lMjBBbWVyaWNhbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI1OTYwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI3JTIwT2N0JTIwMjAyNiUyMDE0JTNBMDYlM0E0MiUyMCUyQjAwMDA",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "pubDate": "Tue, 27 Oct 2026 14:06:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2l6LmlvJTJGYmxvZyUyRnBocDJzaGVsbC1leHBsb2l0YXRpb24tc28tZmFyJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2l6LmlvJTJGYmxvZyUyRnBocDJzaGVsbC1leHBsb2l0YXRpb24tc28tZmFyJTdDUEhQMlNoZWxsJTNBJTIwRXhwbG9pdGF0aW9uJTIwYXR0ZW1wdHMlMjBhbmQlMjByZW1lZGlhdGlvbiUyMHRyZW5kcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjU5MzQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTMlM0E1MiUzQTEyJTIwJTJCMDAwMA",
+      "title": "PHP2Shell: Exploitation attempts and remediation trends",
+      "pubDate": "Tue, 27 Oct 2026 13:52:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFkcnEuZGV2JTJGaGVyZS1iZS1tb25zdGVycy13aGF0LWRvLXlvdS1zdGlsbC1uZWVkLXRvLWtub3ctd2hlbi1hZ2VudHMtZG8tdGhlLXdvcmslN0NodHRwcyUzQSUyRiUyRmJsb2cuYWRycS5kZXYlMkZoZXJlLWJlLW1vbnN0ZXJzLXdoYXQtZG8teW91LXN0aWxsLW5lZWQtdG8ta25vdy13aGVuLWFnZW50cy1kby10aGUtd29yayU3Q0hlcmUlMjBiZSUyMG1vbnN0ZXJzJTNBJTIwV2hhdCUyMGRvJTIweW91JTIwc3RpbGwlMjBuZWVkJTIwdG8lMjBrbm93JTIwd2hlbiUyMGFnZW50cyUyMGRvJTIwdGhlJTIwd29yayUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjU4ODY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTMlM0EyMyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "pubDate": "Tue, 27 Oct 2026 13:23:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGaW1hYyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFwcGxlLmNvbSUyRmltYWMlMkYlN0NOZXclMjBpTWFjJTIwd2l0aCUyME02JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTg1MzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxMyUzQTAyJTNBMDIlMjAlMkIwMDAw",
+      "title": "New iMac with M6",
+      "pubDate": "Tue, 27 Oct 2026 13:02:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMTAyMTAyJTJGMGMwMGU0ZDU1MGYyNWY4YyUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTEwMjEwMiUyRjBjMDBlNGQ1NTBmMjVmOGMlMkYlN0NQeXRob24ncyUyMGV4cGVyaW1lbnRhbCUyMEpJVCUyMHRvJTIwYmUlMjByZW1vdmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTc0MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxMSUzQTE3JTNBNTclMjAlMkIwMDAw",
+      "title": "Python's experimental JIT to be removed",
+      "pubDate": "Tue, 27 Oct 2026 11:17:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRndpa2lwZWRpYS13aWtpcHJvamVjdC1haS13cml0aW5nLWNsZWFudXAlN0NodHRwcyUzQSUyRiUyRnNwZWN0cnVtLmllZWUub3JnJTJGd2lraXBlZGlhLXdpa2lwcm9qZWN0LWFpLXdyaXRpbmctY2xlYW51cCU3Q1dpa2lwZWRpYSdzJTIwQ2xlYW51cCUyMG9mJTIwQUktR2VuZXJhdGVkJTIwQ29udGVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjU3MzI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTElM0EwOCUzQTE1JTIwJTJCMDAwMA",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "pubDate": "Tue, 27 Oct 2026 11:08:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZm9ydGgub3JnJTJGbWFudWFsJTJGMS4wJTJGTkVXUy5odG1sJTdDaHR0cHMlM0ElMkYlMkZnZm9ydGgub3JnJTJGbWFudWFsJTJGMS4wJTJGTkVXUy5odG1sJTdDR2ZvcnRoJTIwMS4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTY5NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxMCUzQTIzJTNBMjElMjAlMkIwMDAw",
+      "title": "Gforth 1.0",
+      "pubDate": "Tue, 27 Oct 2026 10:23:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqMTFnLmNvbSUyRnRoZS1teXRoaWNhbC1tYW4tbW9udGgtaW4tdGhlLWFnZS1vZi1haSU3Q2h0dHBzJTNBJTJGJTJGajExZy5jb20lMkZ0aGUtbXl0aGljYWwtbWFuLW1vbnRoLWluLXRoZS1hZ2Utb2YtYWklN0NUaGUlMjBNeXRoaWNhbCUyME1hbi1Nb250aCUyMGluJTIwdGhlJTIwQWdlJTIwb2YlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjU1Mjk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMDYlM0EyNSUzQTM3JTIwJTJCMDAwMA",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "pubDate": "Tue, 27 Oct 2026 06:25:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-25",
     "newestItemDate": "2026-10-25",
-    "itemCount": 38,
-    "generatedAt": "2026-10-27T05:16:15.709Z"
+    "itemCount": 41,
+    "generatedAt": "2026-10-27T20:46:36.725Z"
   },
   "items": [
     {
@@ -234,6 +234,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGF0aW1lcy5jb20lMkZhcmNoaXZlcyUyRmxhLXhwbS0xOTk4LWF1Zy0xMC1tbi0xMTg3MC1zdG9yeS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGF0aW1lcy5jb20lMkZhcmNoaXZlcyUyRmxhLXhwbS0xOTk4LWF1Zy0xMC1tbi0xMTg3MC1zdG9yeS5odG1sJTdDVmlydHVhbCUyMGFuZCUyMFJlYWwlMjBXb3JsZCUyMENvbWJpbmUlMjBhdCUyMExBTiUyMFBhcnR5JTIwKDE5OTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMjY4MDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyNSUyME9jdCUyMDIwMjYlMjAwMCUzQTA3JTNBMTklMjAlMkIwMDAw",
       "title": "Virtual and Real World Combine at LAN Party (1998)",
       "pubDate": "Sun, 25 Oct 2026 00:07:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0M3gub3JnJTJGZmlsZXMlMkZmbG9vZGZpbGwucGRmJTdDaHR0cHMlM0ElMkYlMkZ0M3gub3JnJTJGZmlsZXMlMkZmbG9vZGZpbGwucGRmJTdDQSUyMFN0YWNrbGVzcyUyMEZsb29kZmlsbCUyMEF1dG9tYXRvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjM1NjYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjUlMjBPY3QlMjAyMDI2JTIwMjAlM0ExOCUzQTU3JTIwJTJCMDAwMA",
+      "title": "A Stackless Floodfill Automaton",
+      "pubDate": "Sun, 25 Oct 2026 20:18:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXptb2RvLmNvbSUyRm1pY3Jvc29mdC1tY2RvbmFsZHMtdmVyaXpvbi1hbmQtb3RoZXJzLXRlbGwtY3J5cHRvLXBsYXRmb3JtLW5vdC10by10b2tlbml6ZS10aGVpci1zdG9ja3MtMjAwMDgzMDM2OCU3Q2h0dHBzJTNBJTJGJTJGZ2l6bW9kby5jb20lMkZtaWNyb3NvZnQtbWNkb25hbGRzLXZlcml6b24tYW5kLW90aGVycy10ZWxsLWNyeXB0by1wbGF0Zm9ybS1ub3QtdG8tdG9rZW5pemUtdGhlaXItc3RvY2tzLTIwMDA4MzAzNjglN0NNaWNyb3NvZnQlMjBhbmQlMjBvdGhlcnMlMjB0ZWxsJTIwY3J5cHRvJTIwcGxhdGZvcm0lMjBub3QlMjB0byUyMHRva2VuaXplJTIwdGhlaXIlMjBzdG9ja3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMjYwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE1JTNBMjglM0E0MCUyMCUyQjAwMDA",
+      "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
+      "pubDate": "Sun, 25 Oct 2026 15:28:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdGdyZWVuLmdpdGh1Yi5pbyUyRnJlcGwteWVsbCUyRnBvc3RzJTJGb3Blbmxkay1qYXZhLWluLWNvbW1vbi1saXNwJTJGJTdDaHR0cHMlM0ElMkYlMkZhdGdyZWVuLmdpdGh1Yi5pbyUyRnJlcGwteWVsbCUyRnBvc3RzJTJGb3Blbmxkay1qYXZhLWluLWNvbW1vbi1saXNwJTJGJTdDT3BlbkxESyUzQSUyMEJyaW5naW5nJTIwdGhlJTIwSmF2YSUyMFdvcmxkJTIwaW50byUyMENvbW1vbiUyMExpc3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIzMjEwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDI1JTIwT2N0JTIwMjAyNiUyMDE0JTNBNDUlM0ExMyUyMCUyQjAwMDA",
+      "title": "OpenLDK: Bringing the Java World into Common Lisp",
+      "pubDate": "Sun, 25 Oct 2026 14:45:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-25-0.json"
     }
   ]
