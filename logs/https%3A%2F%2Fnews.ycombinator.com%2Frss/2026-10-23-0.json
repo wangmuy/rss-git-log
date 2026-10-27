@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-23",
     "newestItemDate": "2026-10-23",
-    "itemCount": 53,
-    "generatedAt": "2026-10-26T21:04:48.660Z"
+    "itemCount": 56,
+    "generatedAt": "2026-10-27T05:16:15.710Z"
   },
   "items": [
     {
@@ -324,6 +324,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGYuY29tJTJGZGlhbW9uZC10cmFuc2lzdG9yJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZGYuY29tJTJGZGlhbW9uZC10cmFuc2lzdG9yJTdDRGlhbW9uZCUyMFRyYW5zaXN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIwOTUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE0JTNBMjAlM0ExNSUyMCUyQjAwMDA",
       "title": "Diamond Transistor",
       "pubDate": "Fri, 23 Oct 2026 14:20:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXRlZ29yaWNhLmlvJTJGYmxvZyUyRjIwMjYuMTAuMTZfbmdpbngtc3RhdHMtcHJvbWV0aGV1cyUyRiU3Q2h0dHBzJTNBJTJGJTJGY2F0ZWdvcmljYS5pbyUyRmJsb2clMkYyMDI2LjEwLjE2X25naW54LXN0YXRzLXByb21ldGhldXMlMkYlN0NOYXRpdmUlMjBQcm9tZXRoZXVzJTIwSW50ZWdyYXRpb24lMjB3aXRoJTIwTmdpbnglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDIxMzUwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIzJTIwT2N0JTIwMjAyNiUyMDE4JTNBMzglM0ExMyUyMCUyQjAwMDA",
+      "title": "Native Prometheus Integration with Nginx",
+      "pubDate": "Fri, 23 Oct 2026 18:38:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RQNWVPN0JOeUphbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEUDVlTzdCTnlKYW8lN0NJbiUyMENvbnRleHQlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjEzMTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMTglM0ExMiUzQTEzJTIwJTJCMDAwMA",
+      "title": "In Context [video]",
+      "pubDate": "Fri, 23 Oct 2026 18:12:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm1hY3JvZnlpbmclMkZzdGF0dXMlMkYyMTEyOTA0NjI4NTA5NTI4MjE5JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRm1hY3JvZnlpbmclMkZzdGF0dXMlMkYyMTEyOTA0NjI4NTA5NTI4MjE5JTdDQSUyMFByaW50ZXIlMjBQcmludGluZyUyMG9udG8lMjBQYXBlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjA0Njk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjMlMjBPY3QlMjAyMDI2JTIwMDUlM0EwMSUzQTMwJTIwJTJCMDAwMA",
+      "title": "A Printer Printing onto Paper",
+      "pubDate": "Fri, 23 Oct 2026 05:01:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-23-0.json"
     }
   ]

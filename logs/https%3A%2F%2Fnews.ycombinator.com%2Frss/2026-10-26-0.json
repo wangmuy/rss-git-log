@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 41,
-    "generatedAt": "2026-10-26T21:04:48.659Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-27T05:16:15.709Z"
   },
   "items": [
     {
@@ -252,6 +252,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYWdhemluZS5zZWJhc3RpYW5yYXNjaGthLmNvbSUyRnAlMkZidWlsZGluZy1yZWFzb25pbmctbW9kZWxzJTdDaHR0cHMlM0ElMkYlMkZtYWdhemluZS5zZWJhc3RpYW5yYXNjaGthLmNvbSUyRnAlMkZidWlsZGluZy1yZWFzb25pbmctbW9kZWxzJTdDU2ViYXN0aWFuJTIwUmFzY2hrYSdzJTIwZnJvbS1zY3JhdGNoJTIwdmlkZW8lMjBjb3Vyc2UlMjBvbiUyMGJ1aWxkaW5nJTIwcmVhc29uaW5nJTIwbW9kZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDUxMzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxNSUzQTExJTNBNTklMjAlMkIwMDAw",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "pubDate": "Mon, 26 Oct 2026 15:11:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGa3YtY2FjaGUtZXhwb3N1cmUtcmVtZWRpYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuY2xvdWRmbGFyZS5jb20lMkZrdi1jYWNoZS1leHBvc3VyZS1yZW1lZGlhdGlvbiUyRiU3Q0Nyb3NzLXJlcXVlc3QlMjBLViUyMGNhY2hlJTIwZXhwb3N1cmUlMjBpbiUyMHRoZSUyMEdMTS01LjMlMjBXb3JrZXJzJTIwQUklMjBtb2RlbCUyMCgxNTUlMjByZXNwb25zZXMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTIxNTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAyMiUzQTQxJTNBNDglMjAlMkIwMDAw",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "pubDate": "Mon, 26 Oct 2026 22:41:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3JlZ29yeWFsZXhhbmRlci5jb20lMkZibG9nJTJGMjAyNiUyRjEwJTJGMjMlMkZpcy1waHAtcXVpZXRseS1ydW5uaW5nLW9uLXlvdXItY29sZGZ1c2lvbi1zZXJ2ZXItaG93LXRvLWNoZWNrLWFuZC1yZW1vdmUtaXQlN0NodHRwcyUzQSUyRiUyRnd3dy5ncmVnb3J5YWxleGFuZGVyLmNvbSUyRmJsb2clMkYyMDI2JTJGMTAlMkYyMyUyRmlzLXBocC1xdWlldGx5LXJ1bm5pbmctb24teW91ci1jb2xkZnVzaW9uLXNlcnZlci1ob3ctdG8tY2hlY2stYW5kLXJlbW92ZS1pdCU3Q0lzJTIwUEhQJTIwUnVubmluZyUyMG9uJTIwWW91ciUyMENvbGRGdXNpb24lMjBTZXJ2ZXIlM0YlMjBIb3clMjB0byUyMENoZWNrJTJDJTIwYW5kJTIwUmVtb3ZlJTIwSXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI1MjAwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDIyJTNBMjclM0ExNyUyMCUyQjAwMDA",
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "pubDate": "Mon, 26 Oct 2026 22:27:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGbWF0aCUyRmJsb2IlMkZtYWluJTJGcHJlcHJpbnRzJTJGVGhlLUV4cG9uZW50aWFsLVRpbWUtSHlwb3RoZXNpcy1pcy1GYWxzZS1PY3RvYmVyLTI1LTIwMjYlMkZwYXBlci5wZGYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZvcGVuYWklMkZtYXRoJTJGYmxvYiUyRm1haW4lMkZwcmVwcmludHMlMkZUaGUtRXhwb25lbnRpYWwtVGltZS1IeXBvdGhlc2lzLWlzLUZhbHNlLU9jdG9iZXItMjUtMjAyNiUyRnBhcGVyLnBkZiU3Q1RoZSUyMEV4cG9uZW50aWFsJTIwVGltZSUyMEh5cG90aGVzaXMlMjBJcyUyMEZhbHNlJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTE2NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAyMSUzQTU5JTNBMTUlMjAlMkIwMDAw",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "pubDate": "Mon, 26 Oct 2026 21:59:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZidWlsZGluZy1zY2llbnRpZmljLXVuZGVyc3RhbmRpbmctd2l0aC1hY2FkZW1pYy1jb21tdW5pdGllcyUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGYnVpbGRpbmctc2NpZW50aWZpYy11bmRlcnN0YW5kaW5nLXdpdGgtYWNhZGVtaWMtY29tbXVuaXRpZXMlMkYlN0NUaHJlZSUyMG5ldyUyMGRpc2NvdmVyaWVzJTIwaW4lMjBtYXRoZW1hdGljcyUyQyUyMGNvbXB1dGVyJTIwc2NpZW5jZSUyQyUyMGFuZCUyMHBoeXNpY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI1MTM0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDIxJTNBMzUlM0EyOCUyMCUyQjAwMDA",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "pubDate": "Mon, 26 Oct 2026 21:35:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2VhdHRsZXRpbWVzLmNvbSUyRmJ1c2luZXNzJTJGbWljcm9zb2Z0JTJGbWljcm9zb2Z0LW9mZmVycy1tYXNzLWJ1eW91dHMtZm9yLXJvdWdobHktYS1xdWFydGVyLW9mLWl0cy13b3JrZm9yY2UlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zZWF0dGxldGltZXMuY29tJTJGYnVzaW5lc3MlMkZtaWNyb3NvZnQlMkZtaWNyb3NvZnQtb2ZmZXJzLW1hc3MtYnV5b3V0cy1mb3Itcm91Z2hseS1hLXF1YXJ0ZXItb2YtaXRzLXdvcmtmb3JjZSUyRiU3Q01pY3Jvc29mdCUyMG9mZmVycyUyMG1hc3MlMjBidXlvdXRzJTIwZm9yJTIwcm91Z2hseSUyMGElMjBxdWFydGVyJTIwb2YlMjBpdHMlMjB3b3JrZm9yY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0NTUyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE1JTNBMzUlM0ExMiUyMCUyQjAwMDA",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "pubDate": "Mon, 26 Oct 2026 15:35:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRmZ1dHVyZSUyRmFydGljbGUlMkYyMDI2MTAyMy1ob3ctc29sYXItYmVjYW1lLWJpZ2dlci10aGFuLW51Y2xlYXIlN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGZnV0dXJlJTJGYXJ0aWNsZSUyRjIwMjYxMDIzLWhvdy1zb2xhci1iZWNhbWUtYmlnZ2VyLXRoYW4tbnVjbGVhciU3Q1NvbGFyJTIwcG93ZXIlMjBpcyUyMGJlY29taW5nJTIwYmlnZ2VyJTIwdGhhbiUyMG51Y2xlYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0NTM4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE1JTNBMjYlM0ExNyUyMCUyQjAwMDA",
+      "title": "Solar power is becoming bigger than nuclear",
+      "pubDate": "Mon, 26 Oct 2026 15:26:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbmV3c3Jvb20lMkYyMDI2JTJGMTAlMkZhcHBsZS1naXZlcy1pcGFkLW1pbmktaXRzLWJpZ2dlc3QtdXBkYXRlLWV2ZXIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHBsZS5jb20lMkZuZXdzcm9vbSUyRjIwMjYlMkYxMCUyRmFwcGxlLWdpdmVzLWlwYWQtbWluaS1pdHMtYmlnZ2VzdC11cGRhdGUtZXZlciUyRiU3Q05ldyUyMGlQYWQlMjBtaW5pJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDMwNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMyUzQTEzJTNBMzYlMjAlMkIwMDAw",
+      "title": "New iPad mini",
+      "pubDate": "Mon, 26 Oct 2026 13:13:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29jb3RlcnJhLmNvbSUyRmd1aWRlLW9uLWhvdy10by1ncm93LWNob2NvbGF0ZS1hdC1ob21lJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29jb3RlcnJhLmNvbSUyRmd1aWRlLW9uLWhvdy10by1ncm93LWNob2NvbGF0ZS1hdC1ob21lJTJGJTdDSG93JTIwdG8lMjBncm93JTIwYSUyMGNhY2FvJTIwdHJlZSUyMGF0JTIwaG9tZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQwNDY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMDclM0E1MCUzQTE3JTIwJTJCMDAwMA",
+      "title": "How to grow a cacao tree at home",
+      "pubDate": "Mon, 26 Oct 2026 07:50:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]
