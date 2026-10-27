@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-22",
     "newestItemDate": "2026-10-22",
-    "itemCount": 69,
-    "generatedAt": "2026-10-26T21:04:48.660Z"
+    "itemCount": 70,
+    "generatedAt": "2026-10-27T14:39:13.921Z"
   },
   "items": [
     {
@@ -420,6 +420,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZodW1hbnRyYW5zaXQub3JnJTJGMjAyNCUyRjEyJTJGb25lLW9mLXRoZS1ncmVhdGVzdC1pbnZlbnRpb25zLWluLXRoZS1oaXN0b3J5LW9mLWh1bWFuLXRyYW5zcG9ydC5odG1sJTdDaHR0cHMlM0ElMkYlMkZodW1hbnRyYW5zaXQub3JnJTJGMjAyNCUyRjEyJTJGb25lLW9mLXRoZS1ncmVhdGVzdC1pbnZlbnRpb25zLWluLXRoZS1oaXN0b3J5LW9mLWh1bWFuLXRyYW5zcG9ydC5odG1sJTdDQmxhaXNlJTIwUGFzY2FsJTIwaW52ZW50ZWQlMjBmaXhlZCUyMHJvdXRlJTIwcHVibGljJTIwdHJhbnNwb3J0JTIwKDIwMjQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMDAxNTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyMiUyME9jdCUyMDIwMjYlMjAxOSUzQTUyJTNBNTAlMjAlMkIwMDAw",
       "title": "Blaise Pascal invented fixed route public transport (2024)",
       "pubDate": "Thu, 22 Oct 2026 19:52:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXZpay5kZXYlMkZlbiUyRmJsb2clMkYzMDAtcmVkaXMtbm9kZXMtdG8tMy1sYXZpay1ub2RlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGF2aWsuZGV2JTJGZW4lMkZibG9nJTJGMzAwLXJlZGlzLW5vZGVzLXRvLTMtbGF2aWstbm9kZXMlMkYlN0NNaWdyYXRlJTIwWW91ciUyMDMwMC1Ob2RlJTIwUmVkaXMlMjBDbHVzdGVyJTIwdG8lMjBKdXN0JTIwMyUyMExhdmlrJTIwTm9kZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDE5NTgxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDIyJTIwT2N0JTIwMjAyNiUyMDE0JTNBMjMlM0EzMiUyMCUyQjAwMDA",
+      "title": "Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes",
+      "pubDate": "Thu, 22 Oct 2026 14:23:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-22-0.json"
     }
   ]
