@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-27",
     "newestItemDate": "2026-10-27",
-    "itemCount": 28,
-    "generatedAt": "2026-10-27T20:46:36.725Z"
+    "itemCount": 38,
+    "generatedAt": "2026-10-28T05:54:51.631Z"
   },
   "items": [
     {
@@ -174,6 +174,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqMTFnLmNvbSUyRnRoZS1teXRoaWNhbC1tYW4tbW9udGgtaW4tdGhlLWFnZS1vZi1haSU3Q2h0dHBzJTNBJTJGJTJGajExZy5jb20lMkZ0aGUtbXl0aGljYWwtbWFuLW1vbnRoLWluLXRoZS1hZ2Utb2YtYWklN0NUaGUlMjBNeXRoaWNhbCUyME1hbi1Nb250aCUyMGluJTIwdGhlJTIwQWdlJTIwb2YlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjU1Mjk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMDYlM0EyNSUzQTM3JTIwJTJCMDAwMA",
       "title": "The Mythical Man-Month in the Age of AI",
       "pubDate": "Tue, 27 Oct 2026 06:25:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWFoYXJtc3RvbmUlMkZtb3hub3glN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtYWhhcm1zdG9uZSUyRm1veG5veCU3Q01veG5veCUyMDEuMCUzQSUyME5ULUxpa2UlMkMlMjBQT1NJWC1Db21wYXRpYmxlJTIwT1MlMjBSdW5uaW5nJTIwQXRvcCUyMEJ0cmZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjc1NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAyMyUzQTUzJTNBNDElMjAlMkIwMDAw",
+      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+      "pubDate": "Tue, 27 Oct 2026 23:53:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmV0dGFzY29yZS5haSUyRnJlc2VhcmNoJTJGcmVsaWFiaWxpdHktcmV2aWV3ZXJzLXZzLW93bmVycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJldHRhc2NvcmUuYWklMkZyZXNlYXJjaCUyRnJlbGlhYmlsaXR5LXJldmlld2Vycy12cy1vd25lcnMlN0NSZXZpZXdlcnMlMjByYXJlbHklMjB0YWxrJTIwYWJvdXQlMjByZWxpYWJpbGl0eS4lMjBPd25lcnMlMjBicmluZyUyMGl0JTIwdXAlMjB0d2ljZSUyMGFzJTIwb2Z0ZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2Njc4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI3JTIwT2N0JTIwMjAyNiUyMDIyJTNBMzElM0ExNSUyMCUyQjAwMDA",
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "pubDate": "Tue, 27 Oct 2026 22:31:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmZWxpeHJpZXNlYmVyZy5jb20lMkZodW5nZXItYmVhdHMtdGVudXJlLWFkdmljZS1mb3ItanVuaW9yLWVuZ2luZWVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGZmVsaXhyaWVzZWJlcmcuY29tJTJGaHVuZ2VyLWJlYXRzLXRlbnVyZS1hZHZpY2UtZm9yLWp1bmlvci1lbmdpbmVlcnMlMkYlN0NIdW5nZXIlMjBiZWF0cyUyMHRlbnVyZSUzQSUyMEFkdmljZSUyMGZvciUyMGp1bmlvciUyMGVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjY2NzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMjIlM0EyNSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Hunger beats tenure: Advice for junior engineers",
+      "pubDate": "Tue, 27 Oct 2026 22:25:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZleHBhbmRpbmctcGFydG5lcnNoaXAtZ3NhJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZleHBhbmRpbmctcGFydG5lcnNoaXAtZ3NhJTdDRXhwYW5kaW5nJTIwb3VyJTIwcGFydG5lcnNoaXAlMjB3aXRoJTIwR1NBJTIwdG8lMjBicmluZyUyMENsYXVkZSUyMHRvJTIwYWxsJTIwbGV2ZWxzJTIwb2YlMjBnb3Zlcm5tZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjY3MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAyMiUzQTIzJTNBMzclMjAlMkIwMDAw",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "pubDate": "Tue, 27 Oct 2026 22:23:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGZWFybHktcHJvZ3Jlc3MtZHJ1Zy1kZXZlbG9wbWVudCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZyZXNlYXJjaCUyRmVhcmx5LXByb2dyZXNzLWRydWctZGV2ZWxvcG1lbnQlN0NFYXJseSUyMHByb2dyZXNzJTIwb24lMjBhY2NlbGVyYXRpbmclMjBkcnVnJTIwZGV2ZWxvcG1lbnQlMjB3aXRoJTIwQ2xhdWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjU2MDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAyMCUzQTUwJTNBNDIlMjAlMkIwMDAw",
+      "title": "Early progress on accelerating drug development with Claude",
+      "pubDate": "Tue, 27 Oct 2026 20:50:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicmV0LmRrJTJGcmFzcGJlcnJ5LXBpLXplcm8tMy13LXBpLTQtbW9kZWwtYSUyRiU3Q2h0dHBzJTNBJTJGJTJGYnJldC5kayUyRnJhc3BiZXJyeS1waS16ZXJvLTMtdy1waS00LW1vZGVsLWElMkYlN0NSYXNwYmVycnklMjBQaSUyMFplcm8lMjAzVyUyMGFuZCUyMFBpJTIwNCUyME1vZGVsJTIwQSUyMHNwb3R0ZWQlMjBpbiUyMGRldmljZSUyMHRyZWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjU1OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAyMCUzQTQ4JTNBNDklMjAlMkIwMDAw",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "pubDate": "Tue, 27 Oct 2026 20:48:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzZWN1cml0eSUyRjIwMjYlMkYxMCUyRmNvZGUtZXhlY3V0aW9uLWZsYXctaW4tdWVmaS1maXJtd2FyZS10aHJlYXRlbnMtbW9zdC1zZXJ2ZXJzLW9uLXBsYW5ldC1lYXJ0aCUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGc2VjdXJpdHklMkYyMDI2JTJGMTAlMkZjb2RlLWV4ZWN1dGlvbi1mbGF3LWluLXVlZmktZmlybXdhcmUtdGhyZWF0ZW5zLW1vc3Qtc2VydmVycy1vbi1wbGFuZXQtZWFydGglMkYlN0NDb2RlLWV4ZWN1dGlvbiUyMGZsYXclMjBpbiUyMFVFRkklMjBmaXJtd2FyZSUyMHRocmVhdGVucyUyMG1vc3QlMjBzZXJ2ZXJzJTIwb24lMjBwbGFuZXQlMjBFYXJ0aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjY1MzkzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMjAlM0EzNSUzQTA5JTIwJTJCMDAwMA",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "pubDate": "Tue, 27 Oct 2026 20:35:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFjZWZ1bGxpYmVydHkuY29tJTJGYXJ0aWNsZXMlMkZmb3VyLW1vbnRocy1vZi16aWclMkYlN0NodHRwcyUzQSUyRiUyRmdyYWNlZnVsbGliZXJ0eS5jb20lMkZhcnRpY2xlcyUyRmZvdXItbW9udGhzLW9mLXppZyUyRiU3Q0ZvdXIlMjBNb250aHMlMjBvZiUyMFppZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjY1MTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMjAlM0ExMyUzQTI3JTIwJTJCMDAwMA",
+      "title": "Four Months of Zig",
+      "pubDate": "Tue, 27 Oct 2026 20:13:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnZ0LmVkdSUyRmFydGljbGVzJTJGMjAyNiUyRjEwJTJGY21pLW1vbmFyY2hzLmh0bWwlN0NodHRwcyUzQSUyRiUyRm5ld3MudnQuZWR1JTJGYXJ0aWNsZXMlMkYyMDI2JTJGMTAlMkZjbWktbW9uYXJjaHMuaHRtbCU3Q1JhZGlvLXRhZ2dlZCUyME1vbmFyY2glMjBidXR0ZXJmbGllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYyOTgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTclM0E0OCUzQTE1JTIwJTJCMDAwMA",
+      "title": "Radio-tagged Monarch butterflies",
+      "pubDate": "Tue, 27 Oct 2026 17:48:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaG9zdHR5Lm9yZyUyRmRvY3MlMkZpbnN0YWxsJTJGcmVsZWFzZS1ub3RlcyUyRjEtNC0wJTdDaHR0cHMlM0ElMkYlMkZnaG9zdHR5Lm9yZyUyRmRvY3MlMkZpbnN0YWxsJTJGcmVsZWFzZS1ub3RlcyUyRjEtNC0wJTdDR2hvc3R0eSUyMDEuNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYxOTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTYlM0E1MSUzQTIyJTIwJTJCMDAwMA",
+      "title": "Ghostty 1.4",
+      "pubDate": "Tue, 27 Oct 2026 16:51:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
     }
   ]

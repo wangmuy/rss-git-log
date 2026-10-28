@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 51,
-    "generatedAt": "2026-10-27T20:46:36.725Z"
+    "itemCount": 54,
+    "generatedAt": "2026-10-28T05:54:51.631Z"
   },
   "items": [
     {
@@ -312,6 +312,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbHN0ZXJydW5kZS5jb20lMkZyb3NldHRlcy1hbmQtb3RoZXItaGlkZGVuLXRyYWNlcy1vZi1oYW1idXJncy10cmFtJTJGJTdDaHR0cHMlM0ElMkYlMkZhbHN0ZXJydW5kZS5jb20lMkZyb3NldHRlcy1hbmQtb3RoZXItaGlkZGVuLXRyYWNlcy1vZi1oYW1idXJncy10cmFtJTJGJTdDUm9zZXR0ZXMlMjBhbmQlMjBPdGhlciUyMEhpZGRlbiUyMFRyYWNlcyUyMG9mJTIwSGFtYnVyZydzJTIwVHJhbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQwMDQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMDYlM0E1NCUzQTMzJTIwJTJCMDAwMA",
       "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
       "pubDate": "Mon, 26 Oct 2026 06:54:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYyNiUyRnNjaWVuY2UlMkZ3aGF0LWhhcHBlbmVkLXRvLXRoZS1uZWFuZGVydGhhbHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjEwJTJGMjYlMkZzY2llbmNlJTJGd2hhdC1oYXBwZW5lZC10by10aGUtbmVhbmRlcnRoYWxzLmh0bWwlN0NXaGF0JTIwSGFwcGVuZWQlMjB0byUyMHRoZSUyME5lYW5kZXJ0aGFscyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ5ODgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTklM0E0NyUzQTU4JTIwJTJCMDAwMA",
+      "title": "What Happened to the Neanderthals?",
+      "pubDate": "Mon, 26 Oct 2026 19:47:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVsay5wcmVzcyUyRmdiJTJGcHJvZHVjdHMlMkY4MS1qb2tlcy1mb3ItdGhlLXp4ODElN0NodHRwcyUzQSUyRiUyRnNwZWxrLnByZXNzJTJGZ2IlMkZwcm9kdWN0cyUyRjgxLWpva2VzLWZvci10aGUteng4MSU3QzgxJTIwSm9rZXMlMjBmb3IlMjB0aGUlMjBaWDgxJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDI2ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMiUzQTQ1JTNBMTYlMjAlMkIwMDAw",
+      "title": "81 Jokes for the ZX81",
+      "pubDate": "Mon, 26 Oct 2026 12:45:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXZlbWFnYXppbmUuY29tJTJGc2N1YmEtZGl2aW5nLW5ld3MlMkZzcy11bml0ZWQtc3RhdGVzLXRvLWJlLXN1bmstYXMtd29ybGRzLWxhcmdlc3QtYXJ0aWZpY2lhbC1yZWVmLWluLW5vdmVtYmVyJTdDaHR0cHMlM0ElMkYlMkZkaXZlbWFnYXppbmUuY29tJTJGc2N1YmEtZGl2aW5nLW5ld3MlMkZzcy11bml0ZWQtc3RhdGVzLXRvLWJlLXN1bmstYXMtd29ybGRzLWxhcmdlc3QtYXJ0aWZpY2lhbC1yZWVmLWluLW5vdmVtYmVyJTdDU1MlMjBVbml0ZWQlMjBTdGF0ZXMlMjB0byUyMGJlJTIwc3VuayUyMGFzJTIwbGFyZ2VzdCUyMGFydGlmaWNpYWwlMjByZWVmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzkyMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAwNCUzQTQxJTNBMTUlMjAlMkIwMDAw",
+      "title": "SS United States to be sunk as largest artificial reef",
+      "pubDate": "Mon, 26 Oct 2026 04:41:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]
