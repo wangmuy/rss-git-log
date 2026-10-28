@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 55,
-    "generatedAt": "2026-10-28T15:12:07.075Z"
+    "itemCount": 58,
+    "generatedAt": "2026-10-28T21:10:19.771Z"
   },
   "items": [
     {
@@ -336,6 +336,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2lyY3VpdGh1Yi5jb20lMkZwb3N0JTJGdW52ZWlsaW5nLXRoZS1ncmlkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2lyY3VpdGh1Yi5jb20lMkZwb3N0JTJGdW52ZWlsaW5nLXRoZS1ncmlkJTdDVW52ZWlsaW5nJTIwVGhlJTIwR3JpZCUzQSUyMFBDQnMlMjBtYWRlJTIwaW4lMjBBbWVyaWNhJTJDJTIwdHdpY2UlMjBhcyUyMGZhc3QlMjBhcyUyMFNoZW56aGVuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDMwNjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMyUzQTEzJTNBMzElMjAlMkIwMDAw",
       "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
       "pubDate": "Mon, 26 Oct 2026 13:13:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGUtdHJhZ2VkeS1vZi1sb3NpbmcteW91ci13aWtpcGVkaWEtcGFnZSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGdGhlLXRyYWdlZHktb2YtbG9zaW5nLXlvdXItd2lraXBlZGlhLXBhZ2UlMkYlN0NUaGUlMjB0cmFnZWR5JTIwb2YlMjBsb3NpbmclMjB5b3VyJTIwV2lraXBlZGlhJTIwcGFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ3MzQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTclM0ExNSUzQTU4JTIwJTJCMDAwMA",
+      "title": "The tragedy of losing your Wikipedia page",
+      "pubDate": "Mon, 26 Oct 2026 17:15:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2lyY3VpdGh1Yi5jb20lMkZwb3N0JTJGdW52ZWlsaW5nLXRoZS1ncmlkJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2lyY3VpdGh1Yi5jb20lMkZwb3N0JTJGdW52ZWlsaW5nLXRoZS1ncmlkJTdDVGhlJTIwR3JpZCUyQyUyMGElMjBmYWN0b3J5LXNjYWxlJTIwcm9ib3QlMjBpbiUyME1hc3NhY2h1c2V0dHMlMjB0aGF0JTIwYnVpbGRzJTIwUENCcyUyMG9uJTIwZGVtYW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDMwNjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMyUzQTEzJTNBMzElMjAlMkIwMDAw",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "pubDate": "Mon, 26 Oct 2026 13:13:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk9zZWJlcmdfdGFwZXN0cnlfZnJhZ21lbnRzJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk9zZWJlcmdfdGFwZXN0cnlfZnJhZ21lbnRzJTdDT3NlYmVyZyUyMFRhcGVzdHJ5JTIwRnJhZ21lbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzg2MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAwMyUzQTE0JTNBNDklMjAlMkIwMDAw",
+      "title": "Oseberg Tapestry Fragments",
+      "pubDate": "Mon, 26 Oct 2026 03:14:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]

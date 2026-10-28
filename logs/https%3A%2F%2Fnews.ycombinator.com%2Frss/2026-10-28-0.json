@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 13,
-    "generatedAt": "2026-10-28T15:12:07.075Z"
+    "itemCount": 27,
+    "generatedAt": "2026-10-28T21:10:19.770Z"
   },
   "items": [
     {
@@ -84,6 +84,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbXVkaHJhLndlLWhhdmUtYS1wcm9ibGVtLmNvbSUyRmFwcGxlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmVtdWRocmEud2UtaGF2ZS1hLXByb2JsZW0uY29tJTJGYXBwbGUuaHRtbCU3Q1RlbiUyMGRheXMlMjBsYXRlciUyQyUyMEdpdCUyMG9uJTIwbWFjT1MlMjBzdGlsbCUyMHRydXN0cyUyMHRoZSUyMGNvbXByb21pc2VkJTIwZU11ZGhyYSUyMGNlcnRpZmljYXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjcxNjQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTElM0EwMyUzQTQwJTIwJTJCMDAwMA",
       "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
       "pubDate": "Wed, 28 Oct 2026 11:03:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYW5nby5kZXYlMkZjYXJlZXJzJTdDaHR0cHMlM0ElMkYlMkZuYW5nby5kZXYlMkZjYXJlZXJzJTdDTmFuZ28lMjAoWUMlMjBXMjMpJTIwSXMlMjBIaXJpbmclMjBBY3Jvc3MlMjBFbmclMkMlMjBGREUlMkMlMjBNYXJrZXRpbmclMkMlMjBEZXZSZWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4MDgyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDIxJTNBMDAlM0EwNiUyMCUyQjAwMDA",
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "pubDate": "Wed, 28 Oct 2026 21:00:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZhaSUyRjIwMjYlMkYxMCUyRmdvb2dsZS1haS1nZXRzLWNhZ2V5LXdoZW4tYXNrZWQtd2hvLXdvbi10aGUtMjAyMC1lbGVjdGlvbnMlMkYlN0NodHRwcyUzQSUyRiUyRmFyc3RlY2huaWNhLmNvbSUyRmFpJTJGMjAyNiUyRjEwJTJGZ29vZ2xlLWFpLWdldHMtY2FnZXktd2hlbi1hc2tlZC13aG8td29uLXRoZS0yMDIwLWVsZWN0aW9ucyUyRiU3Q0dvb2dsZSUyMEFJJTIwZ2V0cyUyMGNhZ2V5JTIwd2hlbiUyMGFza2VkJTIwd2hvJTIwd29uJTIwdGhlJTIwMjAyMCUyMGVsZWN0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjgwMTc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMjAlM0ExMCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "pubDate": "Wed, 28 Oct 2026 20:10:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGaG93LXNwaWRlcnMtc3Bpbi1zaWxrLWRvcGUtaW50by1uYXR1cmVzLXRvdWdoZXN0LW1hdGVyaWFsLTIwMjYxMDI4JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGaG93LXNwaWRlcnMtc3Bpbi1zaWxrLWRvcGUtaW50by1uYXR1cmVzLXRvdWdoZXN0LW1hdGVyaWFsLTIwMjYxMDI4JTJGJTdDU3BpZGVycyUyMFNwaW4lMjAnU2lsayUyMERvcGUnJTIwaW50byUyME5hdHVyZSdzJTIwVG91Z2hlc3QlMjBNYXRlcmlhbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc3NzU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTclM0E0NSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "pubDate": "Wed, 28 Oct 2026 17:45:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudWxscHQucnMlMkZmaW5nZXJwcmludGluZy1iaW93ZWFwb25zJTdDaHR0cHMlM0ElMkYlMkZudWxscHQucnMlMkZmaW5nZXJwcmludGluZy1iaW93ZWFwb25zJTdDV2h5JTIwSXMlMjBUaGlzJTIwRmluZ2VycHJpbnRpbmclMjBTY3JpcHQlMjBDcmVhdGluZyUyMEJpb3dlYXBvbnMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3Njk5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDE3JTNBMTMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "pubDate": "Wed, 28 Oct 2026 17:13:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGbWFjYm9vay1wcm8lMkZwcm9sZWQteGRyLWRpc3BsYXklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5hcHBsZS5jb20lMkZtYWNib29rLXBybyUyRnByb2xlZC14ZHItZGlzcGxheSUyRiU3Q01hY0Jvb2slMjBQcm8lMjB3aXRoJTIwUFJPTEVEJTIwWERSJTIwRGlzcGxheSUyMGFuZCUyMFRvdWNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzY5NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxNyUzQTEwJTNBMzclMjAlMkIwMDAw",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "pubDate": "Wed, 28 Oct 2026 17:10:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGlkZWJ5c2lkZS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnNsaWRlYnlzaWRlLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMFNsaWRlQnlTaWRlJTIwJUUyJTgwJTkzJTIwUHJlc2VudCUyMHNsaWRlcyUyMHdpdGhvdXQlMjBzaGFyaW5nJTIweW91ciUyMHNjcmVlbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc2ODgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTclM0EwNyUzQTA5JTIwJTJCMDAwMA",
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "pubDate": "Wed, 28 Oct 2026 17:07:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZpbnRyb2R1Y2luZy1nZW1pbmktNC1jYXJib24lMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ29vZ2xlJTJGaW5ub3ZhdGlvbi1hbmQtYWklMkZtb2RlbHMtYW5kLXJlc2VhcmNoJTJGZ2VtaW5pLW1vZGVscyUyRmludHJvZHVjaW5nLWdlbWluaS00LWNhcmJvbiUyRiU3Q0dlbWluaSUyMDQlMjBDYXJib24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3Njc5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDE3JTNBMDElM0EyMyUyMCUyQjAwMDA",
+      "title": "Gemini 4 Carbon",
+      "pubDate": "Wed, 28 Oct 2026 17:01:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXJnZWhxLmFpJTJGYmxvZyUyRmRheWpvYi10YXglN0NodHRwcyUzQSUyRiUyRnN1cmdlaHEuYWklMkZibG9nJTJGZGF5am9iLXRheCU3Q0RheWpvYiUzQSUyMFRheCUyMCVFMiU4MCU5MyUyMGV2YWx1YXRpbmclMjBBSSUyMGFnZW50cyUyMG9uJTIwNTAlMjBwcm9mZXNzaW9uYWwlMjB0YXglMjBhc3NpZ25tZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc1NjI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTUlM0E0NiUzQTMwJTIwJTJCMDAwMA",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "pubDate": "Wed, 28 Oct 2026 15:46:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZTZWF0dGxlJTJGY29tbWVudHMlMkYxeGhmNnFwJTJGYXJjaGl2ZXRvZGF5X2xpbmtzX2dvaW5nX2ZvcndhcmQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWRkaXQuY29tJTJGciUyRlNlYXR0bGUlMkZjb21tZW50cyUyRjF4aGY2cXAlMkZhcmNoaXZldG9kYXlfbGlua3NfZ29pbmdfZm9yd2FyZCUyRiU3Q0FyY2hpdmUudG9kYXklMjBsaW5rcyUyMGdvaW5nJTIwZm9yd2FyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc1MzczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTUlM0EzMSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Archive.today links going forward",
+      "pubDate": "Wed, 28 Oct 2026 15:31:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRmJsb2clMkZudmlkaWElMkZuZW1vdHJvbi10cmFuc2NyaWJlLWdyYW5hcnklN0NodHRwcyUzQSUyRiUyRmh1Z2dpbmdmYWNlLmNvJTJGYmxvZyUyRm52aWRpYSUyRm5lbW90cm9uLXRyYW5zY3JpYmUtZ3JhbmFyeSU3Q052aWRpYSUyME5lbW90cm9uJTIwMy41JTIwVHJhbnNjcmliZSUzQSUyMG9wZW4lMjBBU1IlMjBmb3IlMjA0MCUyMGxhbmd1YWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc1MTI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTUlM0ExNyUzQTUzJTIwJTJCMDAwMA",
+      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "pubDate": "Wed, 28 Oct 2026 15:17:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWtpLmFscGluZWJzZC5vcmclN0NodHRwcyUzQSUyRiUyRndpa2kuYWxwaW5lYnNkLm9yZyUyRiU3Q0FscGluZUJTRCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc0MjUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTQlM0EzMCUzQTI2JTIwJTJCMDAwMA",
+      "title": "AlpineBSD",
+      "pubDate": "Wed, 28 Oct 2026 14:30:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRm1lZGlhLXRlbGVjb20lMkZ1cy1hZ2VuY3ktYXBwcm92ZXMtYW1hem9uLWxlb3MtMTE1LWJpbGxpb24tYWNxdWlzaXRpb24tZ2xvYmFsc3Rhci0yMDI2LTEwLTI3JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRm1lZGlhLXRlbGVjb20lMkZ1cy1hZ2VuY3ktYXBwcm92ZXMtYW1hem9uLWxlb3MtMTE1LWJpbGxpb24tYWNxdWlzaXRpb24tZ2xvYmFsc3Rhci0yMDI2LTEwLTI3JTJGJTdDVVMlMjBhZ2VuY3klMjBhcHByb3ZlcyUyMEFtYXpvbiUyMExlbyVFMiU4MCU5OXMlMjAlMjQxMS41QiUyMGFjcXVpc2l0aW9uJTIwb2YlMjBHbG9iYWxzdGFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzIxNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxMSUzQTU0JTNBMjMlMjAlMkIwMDAw",
+      "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+      "pubDate": "Wed, 28 Oct 2026 11:54:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbXVkaHJhLndlLWhhdmUtYS1wcm9ibGVtLmNvbSUyRmFwcGxlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmVtdWRocmEud2UtaGF2ZS1hLXByb2JsZW0uY29tJTJGYXBwbGUuaHRtbCU3Q0FwcGxlJ3MlMjBnaXQlMjBzdGlsbCUyMHRydXN0cyUyMHRoZSUyMGNvbXByb21pc2VkJTIwZU11ZGhyYSUyMGNlcnRpZmljYXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjcxNjQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTElM0EwMyUzQTQwJTIwJTJCMDAwMA",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "pubDate": "Wed, 28 Oct 2026 11:03:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjM2MzQxJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjM2MzQxJTdDRXhlY3V0YWJsZSUyMEFyY2hhZW9sb2d5JTNBJTIwUmVhbmltYXRpbmclMjB0aGUlMjBIZXVyaXN0aWMlMjBDb21waWxlciUyMCgxOTYxKSUyMGFuZCUyMEtCRW1hY3MlMjAoMTk4NCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2ODQ3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDAyJTNBMDElM0E1MSUyMCUyQjAwMDA",
+      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "pubDate": "Wed, 28 Oct 2026 02:01:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]
