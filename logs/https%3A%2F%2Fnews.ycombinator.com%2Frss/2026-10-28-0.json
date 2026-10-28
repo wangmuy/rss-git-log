@@ -4,14 +4,86 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 1,
-    "generatedAt": "2026-10-28T05:54:51.631Z"
+    "itemCount": 13,
+    "generatedAt": "2026-10-28T15:12:07.075Z"
   },
   "items": [
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZsZXhpZmluYS5jb20lMkZibG9nJTJGZ2l0LWZvci10aGUtdXMtY29kZSU3Q2h0dHBzJTNBJTJGJTJGbGV4aWZpbmEuY29tJTJGYmxvZyUyRmdpdC1mb3ItdGhlLXVzLWNvZGUlN0NHaXQlMjBmb3IlMjB0aGUlMjBVUyUyMENvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2ODM4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDAxJTNBNDclM0E1MCUyMCUyQjAwMDA",
       "title": "Git for the US Code",
       "pubDate": "Wed, 28 Oct 2026 01:47:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYXJtZWxpdGVnb3RoaWMuY29tJTJGY25jLXN0b25lLWNhcnZpbmclMkYlN0NodHRwcyUzQSUyRiUyRmNhcm1lbGl0ZWdvdGhpYy5jb20lMkZjbmMtc3RvbmUtY2FydmluZyUyRiU3Q0NOQyUyMFN0b25lJTIwQ2FydmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc0NDA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTQlM0EzOCUzQTIyJTIwJTJCMDAwMA",
+      "title": "CNC Stone Carving",
+      "pubDate": "Wed, 28 Oct 2026 14:38:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmx1eGxpbmtzLmNvbSUyRmJsb2clMkZvYnNpZGlhbi1jYW52YXMtdnMtaGVwdGFiYXNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZmx1eGxpbmtzLmNvbSUyRmJsb2clMkZvYnNpZGlhbi1jYW52YXMtdnMtaGVwdGFiYXNlJTdDQW4lMjBhcmNoaXRlY3R1cmFsJTIwY29tcGFyaXNvbiUyMG9mJTIwT2JzaWRpYW4lMjBDYW52YXMlMjBhbmQlMjBIZXB0YWJhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3NDEzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDE0JTNBMjQlM0EyMCUyMCUyQjAwMDA",
+      "title": "An architectural comparison of Obsidian Canvas and Heptabase",
+      "pubDate": "Wed, 28 Oct 2026 14:24:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJzb3IuY29tJTJGYmxvZyUyRmFnZW50LXNkayU3Q2h0dHBzJTNBJTJGJTJGY3Vyc29yLmNvbSUyRmJsb2clMkZhZ2VudC1zZGslN0NUaGUlMjBBZ2VudCUyMFNESyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjczNzMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTQlM0EwMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "The Agent SDK",
+      "pubDate": "Wed, 28 Oct 2026 14:02:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWxpZ2lvbm5ld3MuY29tJTJGMjAyNiUyRjEwJTJGMjYlMkZpbi1hLWZpcnN0LWEtaHVtYW5pc3QtZ3JhbnRlZC1hLXJlbGlnaW91cy1leGVtcHRpb24tZnJvbS11c2luZy1haSUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVsaWdpb25uZXdzLmNvbSUyRjIwMjYlMkYxMCUyRjI2JTJGaW4tYS1maXJzdC1hLWh1bWFuaXN0LWdyYW50ZWQtYS1yZWxpZ2lvdXMtZXhlbXB0aW9uLWZyb20tdXNpbmctYWklMkYlN0NLZW50dWNreSUyMG1hbiUyMGJlY29tZXMlMjB0aGUlMjBmaXJzdCUyMGh1bWFuaXN0JTIwZ3JhbnRlZCUyMHJlbGlnaW91cyUyMGV4ZW1wdGlvbiUyMGZyb20lMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjczMzk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTMlM0E0MSUzQTMwJTIwJTJCMDAwMA",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "pubDate": "Wed, 28 Oct 2026 13:41:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmFzc2NhZC5jb20lMkZOQVNTQ0FEX1Y0XzdfMC5odG0lN0NodHRwcyUzQSUyRiUyRnd3dy5uYXNzY2FkLmNvbSUyRk5BU1NDQURfVjRfN18wLmh0bSU3Q1Nob3clMjBITiUzQSUyME5hc3NjYWQlMjAlRTIlODAlOTMlMjBsb2NhbC1maXJzdCUyMDNEJTIwQ0FEJTIwZm9yJTIwYnJvd3NlciUyMGFuZCUyMFdpbmRvd3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3MzIwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDEzJTNBMjglM0EzMiUyMCUyQjAwMDA",
+      "title": "Show HN: Nasscad – local-first 3D CAD for browser and Windows",
+      "pubDate": "Wed, 28 Oct 2026 13:28:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW52ZW5nbG9iYWwuY29tJTJGYXJ0aWNsZXMlMkYyNzc2MSUyRnZhbHZlLXJlc3BvbmRzLXRvLWRldmVsb3BlcnMtZmVhcmluZy1haS1zbG9wLWFuZC1jbG9uZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5pbnZlbmdsb2JhbC5jb20lMkZhcnRpY2xlcyUyRjI3NzYxJTJGdmFsdmUtcmVzcG9uZHMtdG8tZGV2ZWxvcGVycy1mZWFyaW5nLWFpLXNsb3AtYW5kLWNsb25lcyU3Q1ZhbHZlJTIwUmVzcG9uZHMlMjB0byUyMERldmVsb3BlcnMlMjBGZWFyaW5nJTIwQUklMjBTbG9wJTIwYW5kJTIwQ2xvbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzMxOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxMyUzQTI3JTNBMjQlMjAlMkIwMDAw",
+      "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+      "pubDate": "Wed, 28 Oct 2026 13:27:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaG5vbG9neXJldmlldy5jb20lMkYyMDI2JTJGMTAlMkYyMCUyRjExNDUzOTklMkZlbWFjcy10dXJucy01MCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRlY2hub2xvZ3lyZXZpZXcuY29tJTJGMjAyNiUyRjEwJTJGMjAlMkYxMTQ1Mzk5JTJGZW1hY3MtdHVybnMtNTAlMkYlN0NFbWFjcyUyMFR1cm5zJTIwNTAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3MzE3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDEzJTNBMjUlM0ExMSUyMCUyQjAwMDA",
+      "title": "Emacs Turns 50",
+      "pubDate": "Wed, 28 Oct 2026 13:25:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZpY2UtaXMtcnVubmluZy1vbmUtb2YtdGhlLWxhcmdlc3QtYW50aS1sZWZ0LXN1cnZlaWxsYW5jZS1vcGVyYXRpb25zLWluLXVzLWhpc3RvcnklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy53aXJlZC5jb20lMkZzdG9yeSUyRmljZS1pcy1ydW5uaW5nLW9uZS1vZi10aGUtbGFyZ2VzdC1hbnRpLWxlZnQtc3VydmVpbGxhbmNlLW9wZXJhdGlvbnMtaW4tdXMtaGlzdG9yeSUyRiU3Q0lDRSUyMElzJTIwUnVubmluZyUyME9uZSUyMG9mJTIwdGhlJTIwTGFyZ2VzdCUyMEFudGktTGVmdCUyMFN1cnZlaWxsYW5jZSUyME9wcyUyMGluJTIwVVMlMjBIaXN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzI3NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxMiUzQTQ5JTNBNDUlMjAlMkIwMDAw",
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "pubDate": "Wed, 28 Oct 2026 12:49:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXVyb25ld3MuY29tJTJGdmlkZW8lMkYyMDI2JTJGMTAlMkYyOCUyRnNwYWluLWZpcnN0LWZvb3RhZ2UtcmV2ZWFscy13cmVja2FnZS1vZi1kZWFkbHktaGlnaC1zcGVlZC10cmFpbi1jcmFzaCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmV1cm9uZXdzLmNvbSUyRnZpZGVvJTJGMjAyNiUyRjEwJTJGMjglMkZzcGFpbi1maXJzdC1mb290YWdlLXJldmVhbHMtd3JlY2thZ2Utb2YtZGVhZGx5LWhpZ2gtc3BlZWQtdHJhaW4tY3Jhc2glN0NUd28lMjBoaWdoLXNwZWVkJTIwdHJhaW5zJTIwY29sbGlkZSUyMG5lYXIlMjBUb2xlZG8lMkMlMjBTcGFpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjcyNTk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTIlM0EzNSUzQTQxJTIwJTJCMDAwMA",
+      "title": "Two high-speed trains collide near Toledo, Spain",
+      "pubDate": "Wed, 28 Oct 2026 12:35:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRm1lZGlhLXRlbGVjb20lMkZhbWF6b24tc2lnbnMtMTE1Ny1iaWxsaW9uLWRlYWwtc2F0ZWxsaXRlLWZpcm0tZ2xvYmFsc3Rhci1jaGFsbGVuZ2Utc3RhcmxpbmstMjAyNi0wNC0xNCUyRjExNTctYmlsbGlvbi1kZWFsLXNhdGVsbGl0ZS1maXJtLWdsb2JhbHN0YXItY2hhbGxlbmdlLXN0YXJsaW5rLTIwMjYtMDQtMTQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRmJ1c2luZXNzJTJGbWVkaWEtdGVsZWNvbSUyRmFtYXpvbi1zaWducy0xMTU3LWJpbGxpb24tZGVhbC1zYXRlbGxpdGUtZmlybS1nbG9iYWxzdGFyLWNoYWxsZW5nZS1zdGFybGluay0yMDI2LTA0LTE0JTJGMTE1Ny1iaWxsaW9uLWRlYWwtc2F0ZWxsaXRlLWZpcm0tZ2xvYmFsc3Rhci1jaGFsbGVuZ2Utc3RhcmxpbmstMjAyNi0wNC0xNCUyRiU3Q0FtYXpvbiUyMHRvJTIwYnV5JTIwc2F0ZWxsaXRlJTIwZmlybSUyMEdsb2JhbHN0YXIlMjBpbiUyMCUyNDExLjU3QiUyMGRlYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3MjE0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDExJTNBNTQlM0EyMyUyMCUyQjAwMDA",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "pubDate": "Wed, 28 Oct 2026 11:54:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmVuLXVzJTJGMTQ5NTU1JTdDaHR0cHMlM0ElMkYlMkZzdXBwb3J0LmFwcGxlLmNvbSUyRmVuLXVzJTJGMTQ5NTU1JTdDQWJvdXQlMjB0aGUlMjBjb21wcm9taXNlZCUyMGVNdWRocmElMjBpbnRlcm1lZGlhdGUlMjBDQXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3MTY4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDExJTNBMDglM0E0OSUyMCUyQjAwMDA",
+      "title": "About the compromised eMudhra intermediate CAs",
+      "pubDate": "Wed, 28 Oct 2026 11:08:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbXVkaHJhLndlLWhhdmUtYS1wcm9ibGVtLmNvbSUyRmFwcGxlLmh0bWwlN0NodHRwcyUzQSUyRiUyRmVtdWRocmEud2UtaGF2ZS1hLXByb2JsZW0uY29tJTJGYXBwbGUuaHRtbCU3Q1RlbiUyMGRheXMlMjBsYXRlciUyQyUyMEdpdCUyMG9uJTIwbWFjT1MlMjBzdGlsbCUyMHRydXN0cyUyMHRoZSUyMGNvbXByb21pc2VkJTIwZU11ZGhyYSUyMGNlcnRpZmljYXRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjcxNjQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTElM0EwMyUzQTQwJTIwJTJCMDAwMA",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "pubDate": "Wed, 28 Oct 2026 11:03:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]
