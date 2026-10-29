@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 34,
-    "generatedAt": "2026-10-29T05:58:59.107Z"
+    "itemCount": 36,
+    "generatedAt": "2026-10-29T21:13:31.788Z"
   },
   "items": [
     {
@@ -210,6 +210,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZudWxscHQucnMlMkZmaW5nZXJwcmludGluZy1iaW93ZWFwb25zJTdDaHR0cHMlM0ElMkYlMkZudWxscHQucnMlMkZmaW5nZXJwcmludGluZy1iaW93ZWFwb25zJTdDV2h5JTIwaXMlMjB0aGlzJTIwZmluZ2VycHJpbnRpbmclMjBzY3JpcHQlMjBjcmVhdGluZyUyMGJpb3dlYXBvbnMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3Njk5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDE3JTNBMTMlM0EyOSUyMCUyQjAwMDA",
       "title": "Why is this fingerprinting script creating bioweapons?",
       "pubDate": "Wed, 28 Oct 2026 17:13:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZW1taWxjbyUyRnVzLXRheC1tb2RlbCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmVtbWlsY28lMkZ1cy10YXgtbW9kZWwlN0NTaG93JTIwSE4lM0ElMjBBJTIwcHJvb2Ytb2YtY29uY2VwdCUyMGZvcm1hbGl6YXRpb24lMjBvZiUyMHRoZSUyMElSUyUyMGZlZGVyYWwlMjB0YXglMjBmb3JtcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc4Njc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTglM0EzMCUzQTUzJTIwJTJCMDAwMA",
+      "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+      "pubDate": "Wed, 28 Oct 2026 18:30:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGhlY29uc2Vuc3VzbGFicyUyRm5vYWxsb2MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ0aGVjb25zZW5zdXNsYWJzJTJGbm9hbGxvYyU3Q25vYWxsb2MlM0ElMjBUb29saW5nJTIwYW5kJTIwbGlicmFyaWVzJTIwdG8lMjBlbmZvcmNlJTIwemVybyUyMGhlYXAlMjBhbGxvY2F0aW9ucyUyMGluJTIwR29sYW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzg2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxOCUzQTI5JTNBMjUlMjAlMkIwMDAw",
+      "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+      "pubDate": "Wed, 28 Oct 2026 18:29:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-29",
     "newestItemDate": "2026-10-29",
-    "itemCount": 20,
-    "generatedAt": "2026-10-29T15:18:04.330Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-29T21:13:31.788Z"
   },
   "items": [
     {
@@ -126,6 +126,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm9yYW5nZS50dyUyRnBvc3RzJTJGMjAyNi0xMC10aGUtbGFzdC1wcm9vZi1vZi1odW1hbi1jcmFmdC1icm93c2VyLWZ1bGwtY2hhaW4lMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cub3JhbmdlLnR3JTJGcG9zdHMlMkYyMDI2LTEwLXRoZS1sYXN0LXByb29mLW9mLWh1bWFuLWNyYWZ0LWJyb3dzZXItZnVsbC1jaGFpbiUyRiU3Q0ZvcmdpbmclMjBhJTIwTWljcm9zb2Z0JTIwRWRnZSUyMEZ1bGwlMjBDaGFpbiUyMHdpdGglMjBMb2dpYyUyMEJ1Z3MlMjBPbmx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODUzMTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAwNiUzQTQ3JTNBMjglMjAlMkIwMDAw",
       "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
       "pubDate": "Thu, 29 Oct 2026 06:47:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NyYXBpbmcuY2x1YiUyRnAlMkZ0aWt0b2stc2NyYXBpbmctbWV0YWRhdGElN0NodHRwcyUzQSUyRiUyRnd3dy5zY3JhcGluZy5jbHViJTJGcCUyRnRpa3Rvay1zY3JhcGluZy1tZXRhZGF0YSU3Q0hlcm1lcyUyMGFuZCUyMFJFQSUyMGFuZCUyMEdMTSUyMDUuMyUyMCUzRCUyMFJldmVyc2UlMjBlbmdpbmVlcmluZyUyMFRpa1RvayUyMGFwcCUyMGZvciUyMGxlc3MlMjB0aGFuJTIwJTI0MjAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5NTUwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDIwJTNBMzUlM0ExOCUyMCUyQjAwMDA",
+      "title": "Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20",
+      "pubDate": "Thu, 29 Oct 2026 20:35:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGU2hlZXBTZWIlMkZ0aW55d29ybGRmb3JtZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZTaGVlcFNlYiUyRnRpbnl3b3JsZGZvcm1lciU3Q0ElMjB0aW55JTIwd29ybGQlMjBtb2RlbCUyMHJ1bm5pbmclMjBnYW1lcyUyMG9uJTIwYSUyMFJhc3BiZXJyeSUyMFBpJTIwUGljbyUyMDIlMjBXJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTU0NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAyMCUzQTMyJTNBMjglMjAlMkIwMDAw",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "pubDate": "Thu, 29 Oct 2026 20:32:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYyOSUyRmFydHMlMkZ0ZWxldmlzaW9uJTJGcGF0cmljay1zdGV3YXJ0LWRlYWQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjEwJTJGMjklMkZhcnRzJTJGdGVsZXZpc2lvbiUyRnBhdHJpY2stc3Rld2FydC1kZWFkLmh0bWwlN0NQYXRyaWNrJTIwU3Rld2FydCUyMGhhcyUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5NDcwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE5JTNBNDElM0EzOSUyMCUyQjAwMDA",
+      "title": "Patrick Stewart has died",
+      "pubDate": "Thu, 29 Oct 2026 19:41:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdW1pLmNvZGViZXJnLnBhZ2UlMkZibG9nJTJGc29mdHdhcmUtY29tbXVuaXR5Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmx1bWkuY29kZWJlcmcucGFnZSUyRmJsb2clMkZzb2Z0d2FyZS1jb21tdW5pdHkuaHRtbCU3Q1RoZSUyMGltcG9ydGFuY2UlMjBvZiUyMGNvbW11bml0aWVzJTIwYXJvdW5kJTIwc29mdHdhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5NDUwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE5JTNBMjclM0E0NyUyMCUyQjAwMDA",
+      "title": "The importance of communities around software",
+      "pubDate": "Thu, 29 Oct 2026 19:27:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXZlcmdlbmNlbGFicy5jb20lMkZwdWJsaWNhdGlvbnMlMkZpZ2UtcHJlcHJpbnQucGRmJTdDaHR0cHMlM0ElMkYlMkZkaXZlcmdlbmNlbGFicy5jb20lMkZwdWJsaWNhdGlvbnMlMkZpZ2UtcHJlcHJpbnQucGRmJTdDSWdFJTIwZGlzcnVwdG9yJTIwZm9yJTIwZm9vZCUyMGFsbGVyZ3klMjB3aXRoJTIwQ2xhdWRlLWVuYWJsZWQlMjBhbnRpYm9keSUyMGRlc2lnbiUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjk0NDg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTklM0EyNSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "pubDate": "Thu, 29 Oct 2026 19:25:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbG9udGhxJTJGb3ZlcnRvbmUtY2FwdGlvbnMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZsb250aHElMkZvdmVydG9uZS1jYXB0aW9ucyU3Q1Nob3clMjBITiUzQSUyME92ZXJ0b25lJTIwJUUyJTgwJTkzJTIwVHJhbnNjcmliZSUyQyUyMGNvcnJlY3QlMjBhbmQlMjBjdXQlMjBjYXB0aW9ucyUyMGZvciUyMGFueSUyMHNjcmVlbiUyMHNoYXBlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTMxMTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxNyUzQTQ4JTNBMTclMjAlMkIwMDAw",
+      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+      "pubDate": "Thu, 29 Oct 2026 17:48:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZueXBvc3QuY29tJTJGMjAyNiUyRjEwJTJGMjklMkZidXNpbmVzcyUyRmFsbGVnZWQtY2hpbmVzZS1zcHktaGFkLWNsb3NlLXJlbGF0aW9uc2hpcC13aXRoLW52aWRpYS1ib3NzLWplbnNlbi1odWFuZy1yZXBvcnQlMkYlN0NodHRwcyUzQSUyRiUyRm55cG9zdC5jb20lMkYyMDI2JTJGMTAlMkYyOSUyRmJ1c2luZXNzJTJGYWxsZWdlZC1jaGluZXNlLXNweS1oYWQtY2xvc2UtcmVsYXRpb25zaGlwLXdpdGgtbnZpZGlhLWJvc3MtamVuc2VuLWh1YW5nLXJlcG9ydCUyRiU3Q0FsbGVnZWQlMjBDaGluZXNlJTIwc3B5JTIwaGFkJTIwJ2Nsb3NlJTIwcmVsYXRpb25zaGlwJyUyMHdpdGglMjBOdmlkaWElMjBib3NzJTIwSmVuc2VuJTIwSHVhbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5MzA0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE3JTNBNDMlM0E0OCUyMCUyQjAwMDA",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "pubDate": "Thu, 29 Oct 2026 17:43:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYyOSUyRndvcmxkJTJGZXVyb3BlJTJGa2FybC1idXNoYnktd2Fsa2luZy1nbG9iZS11ay5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTAlMkYyOSUyRndvcmxkJTJGZXVyb3BlJTJGa2FybC1idXNoYnktd2Fsa2luZy1nbG9iZS11ay5odG1sJTdDQWZ0ZXIlMjAyOCUyMHllYXJzJTIwd2Fsa2luZyUyMGFjcm9zcyUyMHRoZSUyMGdsb2JlJTJDJTIwaGUncyUyMGFsbW9zdCUyMGhvbWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5MzAyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE3JTNBNDIlM0EyMiUyMCUyQjAwMDA",
+      "title": "After 28 years walking across the globe, he's almost home",
+      "pubDate": "Thu, 29 Oct 2026 17:42:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaWcuYmx1ZSUyRnBvc3RzJTJGZHVldC1pcy10aGUtZnV0dXJlJTJGJTdDaHR0cHMlM0ElMkYlMkZmaWcuYmx1ZSUyRnBvc3RzJTJGZHVldC1pcy10aGUtZnV0dXJlJTJGJTdDQ2xhdWRlJTIwRHVldCUyMGlzJTIwdGhlJTIwZnV0dXJlJTIwb2YlMjBjaGF0Ym90JTIwaW50ZXJhY3Rpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5MjcyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE3JTNBMjQlM0EyNSUyMCUyQjAwMDA",
+      "title": "Claude Duet is the future of chatbot interaction",
+      "pubDate": "Thu, 29 Oct 2026 17:24:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudnV0LmN6JTJGZW4lMkZidXQlMkZuZXdzLWYxOTUyOCUyRnR3by1idXQtZ3JhZHVhdGVzLXJlY2VpdmVkLXN0YXRlLWhvbm9ycy1mcm9tLXRoZS1wcmVzaWRlbnQtb2YtdGhlLXJlcHVibGljLWQzNzg0NjglN0NodHRwcyUzQSUyRiUyRnd3dy52dXQuY3olMkZlbiUyRmJ1dCUyRm5ld3MtZjE5NTI4JTJGdHdvLWJ1dC1ncmFkdWF0ZXMtcmVjZWl2ZWQtc3RhdGUtaG9ub3JzLWZyb20tdGhlLXByZXNpZGVudC1vZi10aGUtcmVwdWJsaWMtZDM3ODQ2OCU3Q1RvbSVDMyVBMSVDNSVBMSUyME1pa29sb3YlMjBhd2FyZGVkJTIwdGhlJTIwTWVkYWwlMjBvZiUyME1lcml0JTIwYnklMjB0aGUlMjBQcmVzaWRlbnQlMjBvZiUyMHRoZSUyMEN6ZWNoJTIwUmVwdWJsaWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5MjIzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE2JTNBNTYlM0E1NCUyMCUyQjAwMDA",
+      "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+      "pubDate": "Thu, 29 Oct 2026 16:56:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYxNmNvbG8ucnMlMkYlN0NodHRwcyUzQSUyRiUyRjE2Y29sby5ycyUyRiU3QzE2Y29sby5ycyUyMCVFMiU4MCU5MyUyMEFOU0klMkZBU0NJSSUyMGFydCUyMGFyY2hpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5MTQyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE2JTNBMTQlM0EyOCUyMCUyQjAwMDA",
+      "title": "16colo.rs – ANSI/ASCII art archive",
+      "pubDate": "Thu, 29 Oct 2026 16:14:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkxMTE2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkxMTE2JTdDTGF1bmNoJTIwSE4lM0ElMjBTaW1hbnRpYyUyMChZQyUyMEYyNiklMjAlRTIlODAlOTMlMjBGaXJtd2FyZSUyMFNpbXVsYXRpb24lMjBmb3IlMjBBSSUyMEFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkxMTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTUlM0E1NiUzQTMyJTIwJTJCMDAwMA",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "pubDate": "Thu, 29 Oct 2026 15:56:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWRiYWxhLmNvbSUyRmgtMjY0LWlzLW1hZ2ljJTJGJTdDaHR0cHMlM0ElMkYlMkZzaWRiYWxhLmNvbSUyRmgtMjY0LWlzLW1hZ2ljJTJGJTdDSC4yNjQlMjBJcyUyME1hZ2ljJTIwKDIwMTYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTEwNTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxNSUzQTUzJTNBMDMlMjAlMkIwMDAw",
+      "title": "H.264 Is Magic (2016)",
+      "pubDate": "Thu, 29 Oct 2026 15:53:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZza3lwaWxvdC5haSUyRmJsb2clMkZncmFjZS1ibGFja3dlbGwtbmVlZHMtYS1uZXctc2NoZWR1bGVyJTdDaHR0cHMlM0ElMkYlMkZza3lwaWxvdC5haSUyRmJsb2clMkZncmFjZS1ibGFja3dlbGwtbmVlZHMtYS1uZXctc2NoZWR1bGVyJTdDR3JhY2UlMjBCbGFja3dlbGwlMjBuZWVkcyUyMGElMjBuZXclMjBzY2hlZHVsZXIlM0ElMjAyNyUyNSUyMG1vcmUlMjB1c2FibGUlMjBHUFVzJTIwZnJvbSUyMHRoZSUyMHNhbWUlMjByYWNrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkwOTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTUlM0E0NSUzQTA1JTIwJTJCMDAwMA",
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "pubDate": "Thu, 29 Oct 2026 15:45:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2FzaGluZ3RvbnBvc3QuY29tJTJGY2xpbWF0ZS1lbnZpcm9ubWVudCUyRjIwMjYlMkYxMCUyRjI3JTJGaS1zYXctZnV0dXJlLWRyaXZpbmctbWV4aWNvLWl0cy1vZmYtbGltaXRzLWFtZXJpY2FucyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndhc2hpbmd0b25wb3N0LmNvbSUyRmNsaW1hdGUtZW52aXJvbm1lbnQlMkYyMDI2JTJGMTAlMkYyNyUyRmktc2F3LWZ1dHVyZS1kcml2aW5nLW1leGljby1pdHMtb2ZmLWxpbWl0cy1hbWVyaWNhbnMlMkYlN0NJJTIwd2VudCUyMHRvJTIwTWV4aWNvJTIwdG8lMjB0ZXN0LWRyaXZlJTIwdGhlJTIwY2FycyUyMEFtZXJpY2FucyUyMGNhbiVFMiU4MCU5OXQlMjBidXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5MDY2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE1JTNBMzAlM0EyMiUyMCUyQjAwMDA",
+      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "pubDate": "Thu, 29 Oct 2026 15:30:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmFra3IuYWklMkZ0cmFra3ItcmVzZWFyY2glMkZ6b21iaWUtc3RhdHMlN0NodHRwcyUzQSUyRiUyRnRyYWtrci5haSUyRnRyYWtrci1yZXNlYXJjaCUyRnpvbWJpZS1zdGF0cyU3Q1pvbWJpZSUyMHN0YXRzJTNBJTIwV2hlcmUlMjB0aGUlMjBudW1iZXJzJTIwQUklMjBxdW90ZXMlMjBjb21lJTIwZnJvbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkwMjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTUlM0EwNiUzQTE3JTIwJTJCMDAwMA",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "pubDate": "Thu, 29 Oct 2026 15:06:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5mb3dsZXIuY29tJTJGYmxpa2klMkZMTE0tVm9pY2UuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWFydGluZm93bGVyLmNvbSUyRmJsaWtpJTJGTExNLVZvaWNlLmh0bWwlN0NMTE0lMjBWb2ljZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkwMTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTQlM0E1NyUzQTU1JTIwJTJCMDAwMA",
+      "title": "LLM Voice",
+      "pubDate": "Thu, 29 Oct 2026 14:57:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwtbGFyZ2UtNC1vc3MlMkYlN0NodHRwcyUzQSUyRiUyRm1pc3RyYWwuYWklMkZuZXdzJTJGbWlzdHJhbC1sYXJnZS00LW9zcyUyRiU3Q1dlJ3JlJTIwcmVsZWFzaW5nJTIwdGhlJTIwd2VpZ2h0cyUyMG9mJTIwTWlzdHJhbCUyMExhcmdlJTIwNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjg5NDE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTQlM0ExMyUzQTIxJTIwJTJCMDAwMA",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "pubDate": "Thu, 29 Oct 2026 14:13:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYm91dC5kb29yZGFzaC5jb20lMkZlbi11cyUyRm5ld3MlMkZkb29yZGFzaC10by1hY3F1aXJlLWluc3RhY2FydCU3Q2h0dHBzJTNBJTJGJTJGYWJvdXQuZG9vcmRhc2guY29tJTJGZW4tdXMlMkZuZXdzJTJGZG9vcmRhc2gtdG8tYWNxdWlyZS1pbnN0YWNhcnQlN0NEb29yRGFzaCUyMHRvJTIwYWNxdWlyZSUyMEluc3RhY2FydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjg3OTE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTIlM0EzMyUzQTA1JTIwJTJCMDAwMA",
+      "title": "DoorDash to acquire Instacart",
+      "pubDate": "Thu, 29 Oct 2026 12:33:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcHRydXN0LmNvJTJGYmxvZyUyRmlmLWlwdjQtd2VyZS1sYW5kJTdDaHR0cHMlM0ElMkYlMkZpcHRydXN0LmNvJTJGYmxvZyUyRmlmLWlwdjQtd2VyZS1sYW5kJTdDSWYlMjBJUHY0JTIwd2VyZSUyMGxhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4Nzc3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDEyJTNBMTklM0EwMCUyMCUyQjAwMDA",
+      "title": "If IPv4 were land",
+      "pubDate": "Thu, 29 Oct 2026 12:19:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5zZGYub3JnJTJGJTQwbmV0YnNkJTJGMTE3NTE4MTYwNTYzNTM5NzQ4JTdDaHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5zZGYub3JnJTJGJTQwbmV0YnNkJTJGMTE3NTE4MTYwNTYzNTM5NzQ4JTdDTmV0QlNEJTIwYWRkcyUyMGElMjBuZXclMjB0ZXh0JTIwZWRpdG9yJTIwY2FsbGVkJTIwYXR0byU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjg3NTk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTElM0E1OSUzQTAxJTIwJTJCMDAwMA",
+      "title": "NetBSD adds a new text editor called atto",
+      "pubDate": "Thu, 29 Oct 2026 11:59:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcmVhbWdyb3VwLmNvbSUyRmJsb2clMkZjaGFpbmVkLXBocDJzaGVsbC1leHBsb2l0LXJvb3RzLTI1LXNlcnZlcnMlN0NodHRwcyUzQSUyRiUyRmRyZWFtZ3JvdXAuY29tJTJGYmxvZyUyRmNoYWluZWQtcGhwMnNoZWxsLWV4cGxvaXQtcm9vdHMtMjUtc2VydmVycyU3Q0NoYWluZWQlMjBQSFAyU2hlbGwlMjBleHBsb2l0JTIwcm9vdHMlMjAyNSUyMHNlcnZlcnMlMkMlMjBpbmNsdWRpbmclMjBVUyUyMEdvdmVybm1lbnQlMjBzZXJ2ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODY5ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxMCUzQTQyJTNBNDElMjAlMkIwMDAw",
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "pubDate": "Thu, 29 Oct 2026 10:42:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNtOHh6N3BrZDBqam8lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGY204eHo3cGtkMGpqbyU3Q1doYXQlMjB3ZSUyMGtub3clMjBzbyUyMGZhciUyMGFib3V0JTIwU3BhaW4lMjB0cmFpbiUyMGNyYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODYxOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAwOCUzQTU1JTNBMDglMjAlMkIwMDAw",
+      "title": "What we know so far about Spain train crash",
+      "pubDate": "Thu, 29 Oct 2026 08:55:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
     }
   ]
