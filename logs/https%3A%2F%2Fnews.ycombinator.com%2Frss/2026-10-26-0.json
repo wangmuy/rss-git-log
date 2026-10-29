@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 62,
-    "generatedAt": "2026-10-29T05:58:59.108Z"
+    "itemCount": 66,
+    "generatedAt": "2026-10-29T15:18:04.330Z"
   },
   "items": [
     {
@@ -378,6 +378,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjcC1hbGdvcml0aG1zLmNvbSUyRmRhdGFfc3RydWN0dXJlcyUyRnRyZWFwLmh0bWwlN0NodHRwcyUzQSUyRiUyRmNwLWFsZ29yaXRobXMuY29tJTJGZGF0YV9zdHJ1Y3R1cmVzJTJGdHJlYXAuaHRtbCU3Q1RyZWFwJTIwKENhcnRlc2lhbiUyMFRyZWUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDE5NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMSUzQTE5JTNBMzElMjAlMkIwMDAw",
       "title": "Treap (Cartesian Tree)",
       "pubDate": "Mon, 26 Oct 2026 11:19:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuc291bmRjb25uZWN0LmFwcCU3Q2h0dHBzJTNBJTJGJTJGb3BlbnNvdW5kY29ubmVjdC5hcHAlMkYlN0NPcGVuJTIwU291bmQlMjBDb25uZWN0JTIwJUUyJTgwJTkzJTIwQ29udHJvbCUyMFNvbnklMjBIZWFkcGhvbmVzJTIwZnJvbSUyMFlvdXIlMjBNYWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0NzQ2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE3JTNBMjMlM0E0MiUyMCUyQjAwMDA",
+      "title": "Open Sound Connect – Control Sony Headphones from Your Mac",
+      "pubDate": "Mon, 26 Oct 2026 17:23:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlbnRvcjc3NzcuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjIyJTJGZGVidWctYWNjZXNzLW9uLWJyb3RoZXIlMkYlN0NodHRwcyUzQSUyRiUyRmludmVudG9yNzc3Ny5naXRodWIuaW8lMkZibG9nJTJGMjAyNiUyRjEwJTJGMjIlMkZkZWJ1Zy1hY2Nlc3Mtb24tYnJvdGhlciUyRiU3Q0dldHRpbmclMjBkZWJ1ZyUyMGFjY2VzcyUyMG9uJTIwYSUyMEJyb3RoZXIlMjBwcmludGVyJTIwb3ZlciUyMFRlbG5ldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQzNzU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTMlM0E1NCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "pubDate": "Mon, 26 Oct 2026 13:54:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4cGlwZS5pbyUyRmJsb2clMkZqYXZhLWFvdC1jYWNoZSU3Q2h0dHBzJTNBJTJGJTJGeHBpcGUuaW8lMkZibG9nJTJGamF2YS1hb3QtY2FjaGUlN0NKYXZhJ3MlMjBuZXclMjBBT1QlMjBjYWNoZSUyMGZlYXR1cmUlMjBpcyUyMGluJTIwYSUyMHJvdWdoJTIwc3RhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0MjUwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDEyJTNBMjclM0E0NCUyMCUyQjAwMDA",
+      "title": "Java's new AOT cache feature is in a rough state",
+      "pubDate": "Mon, 26 Oct 2026 12:27:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3Jyb25lbC5naXRodWIuaW8lMkZyZXF1ZXN0c19wbGVhc2UlMkYlN0NodHRwcyUzQSUyRiUyRm1vcnJvbmVsLmdpdGh1Yi5pbyUyRnJlcXVlc3RzX3BsZWFzZSUyRiU3Q1JlcXVlc3RzJTJDJTIwUGxlYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDExOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAwOSUzQTIzJTNBNDMlMjAlMkIwMDAw",
+      "title": "Requests, Please",
+      "pubDate": "Mon, 26 Oct 2026 09:23:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]

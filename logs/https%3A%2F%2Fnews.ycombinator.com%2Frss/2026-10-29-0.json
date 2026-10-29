@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-29",
     "newestItemDate": "2026-10-29",
-    "itemCount": 4,
-    "generatedAt": "2026-10-29T05:58:59.107Z"
+    "itemCount": 20,
+    "generatedAt": "2026-10-29T15:18:04.330Z"
   },
   "items": [
     {
@@ -30,6 +30,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkaXZhZ3IuY29tJTJGYmxvZyUyRnF3ZW5wdXRlciU3Q2h0dHBzJTNBJTJGJTJGZGl2YWdyLmNvbSUyRmJsb2clMkZxd2VucHV0ZXIlN0NRd2VucHV0ZXIlM0ElMjBBJTIwZnVuY3Rpb25pbmclMkMlMjBkZXRlcm1pbmlzdGljJTIwUklTQy1WJTIwQ1BVJTIwaW5zaWRlJTIwUXdlbjMuNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjgyODM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMDAlM0EyNSUzQTQ1JTIwJTJCMDAwMA",
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "pubDate": "Thu, 29 Oct 2026 00:25:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5bGUuZmklMkZhJTJGNzQtMjAyNTQwODYlN0NodHRwcyUzQSUyRiUyRnlsZS5maSUyRmElMkY3NC0yMDI1NDA4NiU3Q0ZpbmxhbmQlMjBpbnZlc3RpZ2F0ZSUyMEdvb2dsZSUyMG92ZXIlMjBkZXN0cnVjdGlvbiUyMG9mJTIwMjUwayUyMHRyZWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTAxNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxNCUzQTU3JTNBNDElMjAlMkIwMDAw",
+      "title": "Finland investigate Google over destruction of 250k trees",
+      "pubDate": "Thu, 29 Oct 2026 14:57:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWJ3aWRnZXRzLmNvbSUyRmJsb2clMkZyZWFjdC1sYXp5LXN1c3BlbnNlLWRlbGF5JTdDaHR0cHMlM0ElMkYlMkZ0YWJ3aWRnZXRzLmNvbSUyRmJsb2clMkZyZWFjdC1sYXp5LXN1c3BlbnNlLWRlbGF5JTdDUmVhY3QubGF6eSUyQyUyMFN1c3BlbnNlJTIwYW5kJTIwdGhlJTIwSGlkZGVuJTIwMzAwJTIwbXMlMjBEZWxheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkwMDQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTQlM0E1MCUzQTE3JTIwJTJCMDAwMA",
+      "title": "React.lazy, Suspense and the Hidden 300 ms Delay",
+      "pubDate": "Thu, 29 Oct 2026 14:50:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYm91dC5kb29yZGFzaC5jb20lMkZlbi11cyUyRm5ld3MlMkZkb29yZGFzaC10by1hY3F1aXJlLWluc3RhY2FydCU3Q2h0dHBzJTNBJTJGJTJGYWJvdXQuZG9vcmRhc2guY29tJTJGZW4tdXMlMkZuZXdzJTJGZG9vcmRhc2gtdG8tYWNxdWlyZS1pbnN0YWNhcnQlN0NEb29yRGFzaCUyMGlzJTIwYWNxdWlyaW5nJTIwSW5zdGFjYXJ0JTIwZm9yJTIwJTI0MTdCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODk4NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxNCUzQTQwJTNBNDMlMjAlMkIwMDAw",
+      "title": "DoorDash is acquiring Instacart for $17B",
+      "pubDate": "Thu, 29 Oct 2026 14:40:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3dscy1vbi13aXJlcyUyRmtlcGxlYXJuJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3dscy1vbi13aXJlcyUyRmtlcGxlYXJuJTdDS2VwbGVhcm4lM0ElMjBFeHRyYWN0JTIwRXF1YXRpb25zJTIwZnJvbSUyMERhdGElMjBpbiUyMFNlY29uZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4OTU5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE0JTNBMjIlM0E1MyUyMCUyQjAwMDA",
+      "title": "Keplearn: Extract Equations from Data in Seconds",
+      "pubDate": "Thu, 29 Oct 2026 14:22:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXN0cmFsLmFpJTJGbmV3cyUyRm1pc3RyYWwtbGFyZ2UtNC1vc3MlMkYlN0NodHRwcyUzQSUyRiUyRm1pc3RyYWwuYWklMkZuZXdzJTJGbWlzdHJhbC1sYXJnZS00LW9zcyUyRiU3Q01pc3RyYWwlMjBMYXJnZSUyMDQlMjAoTGUlMjBDaG9uayklMjBpcyUyMG5vdyUyME9wZW4lMjBXZWlnaHQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4OTQxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDE0JTNBMTMlM0EyMSUyMCUyQjAwMDA",
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "pubDate": "Thu, 29 Oct 2026 14:13:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudm94LmNvbSUyRnhwcmVzcyUyRjIwMTQlMkYxMSUyRjEyJTJGNzIwNDQ1MyUyRm1hcnRpbi1sdXRoZXIta2luZy1mYmktbGV0dGVyJTdDaHR0cHMlM0ElMkYlMkZ3d3cudm94LmNvbSUyRnhwcmVzcyUyRjIwMTQlMkYxMSUyRjEyJTJGNzIwNDQ1MyUyRm1hcnRpbi1sdXRoZXIta2luZy1mYmktbGV0dGVyJTdDUmVhZCUyMHRoZSUyMGxldHRlciUyMHRoZSUyMEZCSSUyMHNlbnQlMjBNTEslMjB0byUyMHRyeSUyMHRvJTIwY29udmluY2UlMjBoaW0lMjB0byUyMGtpbGwlMjBoaW1zZWxmJTIwKDIwMTQpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODg4NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxMyUzQTQwJTNBMDQlMjAlMkIwMDAw",
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "pubDate": "Thu, 29 Oct 2026 13:40:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZhcnRpY2xlcyUyRmdlbWluaS00LWNhcmJvbi1uZXctbnVtYmVyLTElN0NodHRwcyUzQSUyRiUyRmFydGlmaWNpYWxhbmFseXNpcy5haSUyRmFydGljbGVzJTJGZ2VtaW5pLTQtY2FyYm9uLW5ldy1udW1iZXItMSU3Q0dlbWluaSUyMDQlMjBDYXJib24lMjBpcyUyMHRoZSUyMG5ldyUyMCUyMzElMjBvbiUyMHRoZSUyMEFydGlmaWNpYWwlMjBBbmFseXNpcyUyMEludGVsbGlnZW5jZSUyMEluZGV4JTIwdjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4ODAxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDEyJTNBNDElM0E1NiUyMCUyQjAwMDA",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "pubDate": "Thu, 29 Oct 2026 12:41:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpci5kb29yZGFzaC5jb20lMkZuZXdzJTJGbmV3cy1kZXRhaWxzJTJGMjAyNiUyRkRvb3JEYXNoLXRvLUFjcXVpcmUtSW5zdGFjYXJ0LXRvLUhlbHAtTG9jYWwtU3RvcmVzLVdpbiUyRmRlZmF1bHQuYXNweCU3Q2h0dHBzJTNBJTJGJTJGaXIuZG9vcmRhc2guY29tJTJGbmV3cyUyRm5ld3MtZGV0YWlscyUyRjIwMjYlMkZEb29yRGFzaC10by1BY3F1aXJlLUluc3RhY2FydC10by1IZWxwLUxvY2FsLVN0b3Jlcy1XaW4lMkZkZWZhdWx0LmFzcHglN0NEb29yRGFzaCUyMHRvJTIwQWNxdWlyZSUyMEluc3RhY2FydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjg3OTE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTIlM0EzMyUzQTA1JTIwJTJCMDAwMA",
+      "title": "DoorDash to Acquire Instacart",
+      "pubDate": "Thu, 29 Oct 2026 12:33:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXh0Lm5wci5vcmclMkZueC1zMS02MDIxNDk3JTdDaHR0cHMlM0ElMkYlMkZ0ZXh0Lm5wci5vcmclMkZueC1zMS02MDIxNDk3JTdDSGFja2VycyUyMGV4cG9zZSUyMHRoZSUyMGlkZW50aXRpZXMlMjBvZiUyMG1vcmUlMjB0aGFuJTIwNDBrJTIwREhTJTIwZW1wbG95ZWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODc4OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxMiUzQTMxJTNBMDklMjAlMkIwMDAw",
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "pubDate": "Thu, 29 Oct 2026 12:31:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcHRydXN0LmNvJTJGYmxvZyUyRmlmLWlwdjQtd2VyZS1sYW5kJTdDaHR0cHMlM0ElMkYlMkZpcHRydXN0LmNvJTJGYmxvZyUyRmlmLWlwdjQtd2VyZS1sYW5kJTdDSWYlMjBJUHY0JTIwV2VyZSUyMExhbmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4Nzc3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDEyJTNBMTklM0EwMCUyMCUyQjAwMDA",
+      "title": "If IPv4 Were Land",
+      "pubDate": "Thu, 29 Oct 2026 12:19:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5zZGYub3JnJTJGJTQwbmV0YnNkJTJGMTE3NTE4MTYwNTYzNTM5NzQ4JTdDaHR0cHMlM0ElMkYlMkZtYXN0b2Rvbi5zZGYub3JnJTJGJTQwbmV0YnNkJTJGMTE3NTE4MTYwNTYzNTM5NzQ4JTdDTmV0QlNEJTIwYWRkcyUyMGElMjBuZXclMjBiZWdpbm5lci1mcmllbmRseSUyMHRleHQlMjBlZGl0b3IlMjBjYWxsZWQlMjBhdHRvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODc1OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxMSUzQTU5JTNBMDElMjAlMkIwMDAw",
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "pubDate": "Thu, 29 Oct 2026 11:59:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNwb2xpY3kuZ29vZ2xlYmxvZy5jb20lMkYyMDA4JTJGMDQlMkZob3ctZ29vZ2xlLWRldGVybWluZXMtbmFtZXMtZm9yLWJvZGllcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZwdWJsaWNwb2xpY3kuZ29vZ2xlYmxvZy5jb20lMkYyMDA4JTJGMDQlMkZob3ctZ29vZ2xlLWRldGVybWluZXMtbmFtZXMtZm9yLWJvZGllcy5odG1sJTdDR29vZ2xlJTIwZGV0ZXJtaW5lcyUyMHRoZSUyMG5hbWVzJTIwZm9yJTIwYm9kaWVzJTIwb2YlMjB3YXRlciUyMGluJTIwR29vZ2xlJTIwRWFydGglMjAoMjAwOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4NzQ0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDExJTNBNDElM0ExOCUyMCUyQjAwMDA",
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "pubDate": "Thu, 29 Oct 2026 11:41:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVjdHJlay5jbyUyRjIwMjYlMkYwOCUyRjMxJTJGdGhlLXVzLWFkZGVkLWEtcmVjb3JkLTIwLTItZ3doLW9mLWJhdHRlcnktc3RvcmFnZS1pbi1qdXN0LTMtbW9udGhzJTJGJTdDaHR0cHMlM0ElMkYlMkZlbGVjdHJlay5jbyUyRjIwMjYlMkYwOCUyRjMxJTJGdGhlLXVzLWFkZGVkLWEtcmVjb3JkLTIwLTItZ3doLW9mLWJhdHRlcnktc3RvcmFnZS1pbi1qdXN0LTMtbW9udGhzJTJGJTdDVGhlJTIwVVMlMjBhZGRlZCUyMGElMjByZWNvcmQlMjAyMC4yJTIwR1doJTIwb2YlMjBiYXR0ZXJ5JTIwc3RvcmFnZSUyMGluJTIwanVzdCUyMDMlMjBtb250aHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4NzAwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDEwJTNBNDQlM0E0OSUyMCUyQjAwMDA",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "pubDate": "Thu, 29 Oct 2026 10:44:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcmVhbWdyb3VwLmNvbSUyRmJsb2clMkZjaGFpbmVkLXBocDJzaGVsbC1leHBsb2l0LXJvb3RzLTI1LXNlcnZlcnMlN0NodHRwcyUzQSUyRiUyRmRyZWFtZ3JvdXAuY29tJTJGYmxvZyUyRmNoYWluZWQtcGhwMnNoZWxsLWV4cGxvaXQtcm9vdHMtMjUtc2VydmVycyU3Q0NoYWluZWQlMjBQSFAyU2hlbGwlMjBFeHBsb2l0JTIwUm9vdHMlMjAyNSUyMFNlcnZlcnMlMkMlMjBJbmNsdWRpbmclMjBVUyUyMEdvdmVybm1lbnQlMjBTZXJ2ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODY5ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxMCUzQTQyJTNBNDElMjAlMkIwMDAw",
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "pubDate": "Thu, 29 Oct 2026 10:42:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbXNvZmRlYXRoLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc21zb2ZkZWF0aC5jb20lMkYlN0NaZXJvJTIwY2xpY2slMkMlMjBzaWxlbnQlMkMlMjByZW1vdGUlMjBBbmRyb2lkJTIwRG9TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODU0NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAwNyUzQTA4JTNBNTAlMjAlMkIwMDAw",
+      "title": "Zero click, silent, remote Android DoS",
+      "pubDate": "Thu, 29 Oct 2026 07:08:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm9yYW5nZS50dyUyRnBvc3RzJTJGMjAyNi0xMC10aGUtbGFzdC1wcm9vZi1vZi1odW1hbi1jcmFmdC1icm93c2VyLWZ1bGwtY2hhaW4lMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cub3JhbmdlLnR3JTJGcG9zdHMlMkYyMDI2LTEwLXRoZS1sYXN0LXByb29mLW9mLWh1bWFuLWNyYWZ0LWJyb3dzZXItZnVsbC1jaGFpbiUyRiU3Q0ZvcmdpbmclMjBhJTIwTWljcm9zb2Z0JTIwRWRnZSUyMEZ1bGwlMjBDaGFpbiUyMHdpdGglMjBMb2dpYyUyMEJ1Z3MlMjBPbmx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODUzMTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAwNiUzQTQ3JTNBMjglMjAlMkIwMDAw",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "pubDate": "Thu, 29 Oct 2026 06:47:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
     }
   ]
