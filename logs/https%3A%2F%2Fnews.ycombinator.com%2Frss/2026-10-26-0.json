@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 58,
-    "generatedAt": "2026-10-28T21:10:19.771Z"
+    "itemCount": 62,
+    "generatedAt": "2026-10-29T05:58:59.108Z"
   },
   "items": [
     {
@@ -354,6 +354,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk9zZWJlcmdfdGFwZXN0cnlfZnJhZ21lbnRzJTdDaHR0cHMlM0ElMkYlMkZlbi53aWtpcGVkaWEub3JnJTJGd2lraSUyRk9zZWJlcmdfdGFwZXN0cnlfZnJhZ21lbnRzJTdDT3NlYmVyZyUyMFRhcGVzdHJ5JTIwRnJhZ21lbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyMzg2MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAwMyUzQTE0JTNBNDklMjAlMkIwMDAw",
       "title": "Oseberg Tapestry Fragments",
       "pubDate": "Mon, 26 Oct 2026 03:14:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGUtZGVjb2Rlci5jb20lMkZvcGVuYWlzLWlzb2xhdGVkLWFpLWFnZW50cy1mb3VuZC13YXlzLXRvLXRhbGstdG8tZWFjaC1vdGhlci10aHJvdWdoLWNwdS1jYWNoZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlLWRlY29kZXIuY29tJTJGb3BlbmFpcy1pc29sYXRlZC1haS1hZ2VudHMtZm91bmQtd2F5cy10by10YWxrLXRvLWVhY2gtb3RoZXItdGhyb3VnaC1jcHUtY2FjaGUlMkYlN0NPcGVuQUkncyUyMGFnZW50cyUyMHRhbGtlZCUyMHRvJTIwZWFjaCUyMG90aGVyJTIwdGhyb3VnaCUyMHRoZSUyMENQVSUyMENhY2hlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTEyMDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAyMSUzQTI0JTNBMTglMjAlMkIwMDAw",
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "pubDate": "Mon, 26 Oct 2026 21:24:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmemFrYXJpYS5jb20lMkYyMDI2JTJGMTAlMkYxMiUyRm5peHBrZ3MtZm9yLXRoZS1mcm9udGVuZC1pbXBhaXJlZCU3Q2h0dHBzJTNBJTJGJTJGZnpha2FyaWEuY29tJTJGMjAyNiUyRjEwJTJGMTIlMkZuaXhwa2dzLWZvci10aGUtZnJvbnRlbmQtaW1wYWlyZWQlN0NOaXhwa2dzJTIwZm9yJTIwdGhlJTIwRnJvbnQlMjBFbmQlMjBJbXBhaXJlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ0OTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTUlM0EwMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "Nixpkgs for the Front End Impaired",
+      "pubDate": "Mon, 26 Oct 2026 15:00:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNDY3LTAyNi03ODI3Mi04JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGczQxNDY3LTAyNi03ODI3Mi04JTdDSHVtYW4tZW5oYW5jZWQlMjB0c3VuYW1pJTIwaGF6YXJkJTIwaW4lMjBsYXJnZSUyMGxha2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDI4NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMyUzQTAwJTNBMDMlMjAlMkIwMDAw",
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "pubDate": "Mon, 26 Oct 2026 13:00:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcC1hbGdvcml0aG1zLmNvbSUyRmRhdGFfc3RydWN0dXJlcyUyRnRyZWFwLmh0bWwlN0NodHRwcyUzQSUyRiUyRmNwLWFsZ29yaXRobXMuY29tJTJGZGF0YV9zdHJ1Y3R1cmVzJTJGdHJlYXAuaHRtbCU3Q1RyZWFwJTIwKENhcnRlc2lhbiUyMFRyZWUpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNDE5NDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyNiUyME9jdCUyMDIwMjYlMjAxMSUzQTE5JTNBMzElMjAlMkIwMDAw",
+      "title": "Treap (Cartesian Tree)",
+      "pubDate": "Mon, 26 Oct 2026 11:19:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]

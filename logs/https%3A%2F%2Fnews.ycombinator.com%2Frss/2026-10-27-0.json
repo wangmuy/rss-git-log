@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-27",
     "newestItemDate": "2026-10-27",
-    "itemCount": 38,
-    "generatedAt": "2026-10-28T05:54:51.631Z"
+    "itemCount": 39,
+    "generatedAt": "2026-10-29T05:58:59.108Z"
   },
   "items": [
     {
@@ -234,6 +234,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaG9zdHR5Lm9yZyUyRmRvY3MlMkZpbnN0YWxsJTJGcmVsZWFzZS1ub3RlcyUyRjEtNC0wJTdDaHR0cHMlM0ElMkYlMkZnaG9zdHR5Lm9yZyUyRmRvY3MlMkZpbnN0YWxsJTJGcmVsZWFzZS1ub3RlcyUyRjEtNC0wJTdDR2hvc3R0eSUyMDEuNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYxOTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTYlM0E1MSUzQTIyJTIwJTJCMDAwMA",
       "title": "Ghostty 1.4",
       "pubDate": "Tue, 27 Oct 2026 16:51:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVuam9mZmUuY29tJTJGZmFzdC1mbG9vcmRpdiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJlbmpvZmZlLmNvbSUyRmZhc3QtZmxvb3JkaXYlN0NBJTIwbmV3JTIwZmFzdGVyJTIwYWxnb3JpdGhtJTIwdG8lMjBjb21wdXRlJTIwNjQtYml0JTIwc2lnbmVkJTIwZmxvb3IlMjBkaXZpc2lvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjU2NDA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMDklM0ExMyUzQTEyJTIwJTJCMDAwMA",
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "pubDate": "Tue, 27 Oct 2026 09:13:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
     }
   ]

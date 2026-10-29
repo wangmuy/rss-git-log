@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 27,
-    "generatedAt": "2026-10-28T21:10:19.770Z"
+    "itemCount": 34,
+    "generatedAt": "2026-10-29T05:58:59.107Z"
   },
   "items": [
     {
@@ -168,6 +168,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjM2MzQxJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjM2MzQxJTdDRXhlY3V0YWJsZSUyMEFyY2hhZW9sb2d5JTNBJTIwUmVhbmltYXRpbmclMjB0aGUlMjBIZXVyaXN0aWMlMjBDb21waWxlciUyMCgxOTYxKSUyMGFuZCUyMEtCRW1hY3MlMjAoMTk4NCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2ODQ3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDAyJTNBMDElM0E1MSUyMCUyQjAwMDA",
       "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
       "pubDate": "Wed, 28 Oct 2026 02:01:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBpbmVsaW51eC5vcmclMkZwb3N0cyUyRkdpdExhYi1zZWN1cml0eS1pbmNpZGVudC1DVkUtMjAyNi05NzIyOS5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbHBpbmVsaW51eC5vcmclMkZwb3N0cyUyRkdpdExhYi1zZWN1cml0eS1pbmNpZGVudC1DVkUtMjAyNi05NzIyOS5odG1sJTdDR2l0TGFiJTIwU2VjdXJpdHklMjBJbmNpZGVudCUzQSUyMEF0dGVtcHRlZCUyMEV4cGxvaXRhdGlvbiUyMG9mJTIwQ1ZFLTIwMjYtOTcyMjklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4MjU0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDIzJTNBNDUlM0E0NiUyMCUyQjAwMDA",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "pubDate": "Wed, 28 Oct 2026 23:45:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhLnN0YWNrZXhjaGFuZ2UuY29tJTJGc3RhY2tvdmVyZmxvdyUyRnF1ZXJ5JTJGMTkyNjY2MSUyM2dyYXBoJTNGdCUzRDElN0NodHRwcyUzQSUyRiUyRmRhdGEuc3RhY2tleGNoYW5nZS5jb20lMkZzdGFja292ZXJmbG93JTJGcXVlcnklMkYxOTI2NjYxJTIzZ3JhcGglM0Z0JTNEMSU3Q1N0YWNrT3ZlcmZsb3clMjBub3clMjBnZXRzJTIwZmV3ZXIlMjB0aGFuJTIwMTAwMCUyMHF1ZXN0aW9ucyUyMGElMjBtb250aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjgyNDU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMjMlM0EzNSUzQTAyJTIwJTJCMDAwMA",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "pubDate": "Wed, 28 Oct 2026 23:35:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3JtbGFicy5jb20lMkZwcm9kdWN0cyUyRmZvcm0tc3R1ZGlvLTEtYmFzaWMtZm91bmRlcnMtZWRpdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9ybWxhYnMuY29tJTJGcHJvZHVjdHMlMkZmb3JtLXN0dWRpby0xLWJhc2ljLWZvdW5kZXJzLWVkaXRpb24lMkYlN0NGb3JtbGFicyUyMFN0dWRpbyUyMDElMjAlMjQ2OTklMjBSZXNpbiUyMFByaW50ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4MTA0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDIxJTNBMTklM0EzMCUyMCUyQjAwMDA",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "pubDate": "Wed, 28 Oct 2026 21:19:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdXJiby5vcmclMkYyMDI2JTJGMTAlMkYyOCUyRmEtaGVhbHRoLXVwZGF0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZnVyYm8ub3JnJTJGMjAyNiUyRjEwJTJGMjglMkZhLWhlYWx0aC11cGRhdGUlMkYlN0NBJTIwSGVhbHRoJTIwVXBkYXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODA5NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAyMSUzQTEzJTNBMjElMjAlMkIwMDAw",
+      "title": "A Health Update",
+      "pubDate": "Wed, 28 Oct 2026 21:13:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2MTIuc2glMkZibG9nJTJGdGhlLWNhc2Utb2YtdGhlLTliaXQtYWVzLWtleSU3Q2h0dHBzJTNBJTJGJTJGdjEyLnNoJTJGYmxvZyUyRnRoZS1jYXNlLW9mLXRoZS05Yml0LWFlcy1rZXklN0NUaGUlMjBjYXNlJTIwb2YlMjB0aGUlMjA5JTIwYml0JTIwQUVTJTIwa2V5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODA3MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAyMCUzQTUxJTNBNDQlMjAlMkIwMDAw",
+      "title": "The case of the 9 bit AES key",
+      "pubDate": "Wed, 28 Oct 2026 20:51:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FydGVzaWEuYWklMkZibG9nJTJGZnJvbS10b2tlbnMtdG8tYnl0ZXMtcGFydC0xJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FydGVzaWEuYWklMkZibG9nJTJGZnJvbS10b2tlbnMtdG8tYnl0ZXMtcGFydC0xJTdDU2NhbGluZyUyMEhpZXJhcmNoaWNhbCUyME5ldHdvcmtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzgyNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxOCUzQTA3JTNBNDElMjAlMkIwMDAw",
+      "title": "Scaling Hierarchical Networks",
+      "pubDate": "Wed, 28 Oct 2026 18:07:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudWxscHQucnMlMkZmaW5nZXJwcmludGluZy1iaW93ZWFwb25zJTdDaHR0cHMlM0ElMkYlMkZudWxscHQucnMlMkZmaW5nZXJwcmludGluZy1iaW93ZWFwb25zJTdDV2h5JTIwaXMlMjB0aGlzJTIwZmluZ2VycHJpbnRpbmclMjBzY3JpcHQlMjBjcmVhdGluZyUyMGJpb3dlYXBvbnMlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3Njk5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDE3JTNBMTMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "pubDate": "Wed, 28 Oct 2026 17:13:29 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]
