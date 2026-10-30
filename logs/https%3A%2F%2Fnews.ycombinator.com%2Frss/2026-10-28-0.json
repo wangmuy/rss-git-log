@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 42,
-    "generatedAt": "2026-10-30T15:06:45.349Z"
+    "itemCount": 43,
+    "generatedAt": "2026-10-30T20:53:07.019Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJjb25uZWN0cy5haSUyRnAlMkZhcnRpZmljaWFsLWFuYWx5c2lzLXY1LWFuZC10aGUtYmVuY2htYXJrZXJzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJjb25uZWN0cy5haSUyRnAlMkZhcnRpZmljaWFsLWFuYWx5c2lzLXY1LWFuZC10aGUtYmVuY2htYXJrZXJzJTdDQXJ0aWZpY2lhbCUyMEFuYWx5c2lzJTIwdjUlMjBhbmQlMjB0aGUlMjBiZW5jaG1hcmtlcidzJTIwZGlsZW1tYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjczMzQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTMlM0EzOCUzQTA0JTIwJTJCMDAwMA",
       "title": "Artificial Analysis v5 and the benchmarker's dilemma",
       "pubDate": "Wed, 28 Oct 2026 13:38:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGdGhlLXNsZWVwLWZyYW1ld29yay1hLW5ldy13YXktZm9yLWxsbXMtdG8tcmV0YWluLWtub3dsZWRnZS1pbi1jb250aW51YWwtbGVhcm5pbmclMkYlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLmdvb2dsZSUyRmJsb2clMkZ0aGUtc2xlZXAtZnJhbWV3b3JrLWEtbmV3LXdheS1mb3ItbGxtcy10by1yZXRhaW4ta25vd2xlZGdlLWluLWNvbnRpbnVhbC1sZWFybmluZyUyRiU3Q1NsZWVwJTIwZnJhbWV3b3JrJTNBJTIwQSUyMG5ldyUyMHdheSUyMGZvciUyMExMTXMlMjB0byUyMHJldGFpbiUyMGtub3dsZWRnZSUyMGluJTIwY29udGludWFsJTIwbGVhcm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3MjQ3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDEyJTNBMjQlM0EyNSUyMCUyQjAwMDA",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "pubDate": "Wed, 28 Oct 2026 12:24:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]

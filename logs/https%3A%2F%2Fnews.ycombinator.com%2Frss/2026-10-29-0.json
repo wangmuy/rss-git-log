@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-29",
     "newestItemDate": "2026-10-29",
-    "itemCount": 52,
-    "generatedAt": "2026-10-30T15:06:45.348Z"
+    "itemCount": 53,
+    "generatedAt": "2026-10-30T20:53:07.018Z"
   },
   "items": [
     {
@@ -318,6 +318,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhZGNvY2hyYW5lLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTAlMkYyOSUyRmxpZ2h0aG91c2VzLXdhci1hbmQtYS1wdWZmbGluZy10aGUtaXNsZS1vZi1tYXklMkYlN0NodHRwcyUzQSUyRiUyRmFkY29jaHJhbmUud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMCUyRjI5JTJGbGlnaHRob3VzZXMtd2FyLWFuZC1hLXB1ZmZsaW5nLXRoZS1pc2xlLW9mLW1heSUyRiU3Q0xpZ2h0aG91c2VzJTJDJTIwV2FyJTIwYW5kJTIwYSUyMFB1ZmZsaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTY5MDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAyMiUzQTExJTNBMDglMjAlMkIwMDAw",
       "title": "Lighthouses, War and a Puffling",
       "pubDate": "Thu, 29 Oct 2026 22:11:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnNnb25kYWxhMiUyRnN0YXR1cyUyRjIxMTU4MzIwNzAyNzQ3MjM4NzUlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGc2dvbmRhbGEyJTJGc3RhdHVzJTJGMjExNTgzMjA3MDI3NDcyMzg3NSU3Q0J1aWxkaW5nJTIwYW4lMjBBSS1uYXRpdmUlMjBlbmdpbmVlcmluZyUyMG9yZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjk2NzMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMjElM0E1OCUzQTM0JTIwJTJCMDAwMA",
+      "title": "Building an AI-native engineering org",
+      "pubDate": "Thu, 29 Oct 2026 21:58:34 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
     }
   ]

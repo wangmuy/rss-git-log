@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-27",
     "newestItemDate": "2026-10-27",
-    "itemCount": 47,
-    "generatedAt": "2026-10-30T15:06:45.349Z"
+    "itemCount": 49,
+    "generatedAt": "2026-10-30T20:53:07.019Z"
   },
   "items": [
     {
@@ -288,6 +288,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGYm9va3MlMkYyMDI2JTJGb2N0JTJGMjAlMkZnaWxnYW1lc2gtYnktc2ltb24tYXJtaXRhZ2UtcmV2aWV3LWFuLWFuY2llbnQtZXBpYy1pcy1icmlsbGlhbnRseS10cmFuc2xhdGVkLWZvci1vdXItdGltZXMlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVndWFyZGlhbi5jb20lMkZib29rcyUyRjIwMjYlMkZvY3QlMkYyMCUyRmdpbGdhbWVzaC1ieS1zaW1vbi1hcm1pdGFnZS1yZXZpZXctYW4tYW5jaWVudC1lcGljLWlzLWJyaWxsaWFudGx5LXRyYW5zbGF0ZWQtZm9yLW91ci10aW1lcyU3Q0dpbGdhbWVzaCUyMGJ5JTIwU2ltb24lMjBBcm1pdGFnZSUyMHJldmlldyUyMCVFMiU4MCU5MyUyMGFuJTIwYW5jaWVudCUyMGVwaWMlMjBpcyUyMGJyaWxsaWFudGx5JTIwdHJhbnNsYXRlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYzMTI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTclM0E1NCUzQTU3JTIwJTJCMDAwMA",
       "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
       "pubDate": "Tue, 27 Oct 2026 17:54:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvbGljeS5wcmVzcyUyRmJyZWFraW5nLXRoZS1vcGVuLXdlYi13b250LXN0b3AtdGhlLWJhZC1ib3RzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvbGljeS5wcmVzcyUyRmJyZWFraW5nLXRoZS1vcGVuLXdlYi13b250LXN0b3AtdGhlLWJhZC1ib3RzJTJGJTdDQnJlYWtpbmclMjB0aGUlMjBvcGVuJTIwd2ViJTIwd29uJ3QlMjBzdG9wJTIwdGhlJTIwYmFkJTIwYm90cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjYzODM3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMjclMjBPY3QlMjAyMDI2JTIwMTglM0E0MiUzQTU1JTIwJTJCMDAwMA",
+      "title": "Breaking the open web won't stop the bad bots",
+      "pubDate": "Tue, 27 Oct 2026 18:42:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVzaWduYm9vbS5jb20lMkZ0ZWNobm9sb2d5JTJGdHJlZS1tb3VudGVkLW1hY2hpbmVzLXdlYi1hcHAtdXNlcnMta25vY2stb24td29vZC1yZW1vdGVseSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRlc2lnbmJvb20uY29tJTJGdGVjaG5vbG9neSUyRnRyZWUtbW91bnRlZC1tYWNoaW5lcy13ZWItYXBwLXVzZXJzLWtub2NrLW9uLXdvb2QtcmVtb3RlbHklMkYlN0NUcmVlLW1vdW50ZWQlMjBtYWNoaW5lcyUyMGNvbm5lY3QlMjB0byUyMHdlYiUyMGFwcCUyMHRvJTIwbGV0JTIwdXNlcnMlMjBrbm9jayUyMG9uJTIwd29vZCUyMHJlbW90ZWx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTg0OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxMyUzQTAwJTNBMDQlMjAlMkIwMDAw",
+      "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+      "pubDate": "Tue, 27 Oct 2026 13:00:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
     }
   ]
