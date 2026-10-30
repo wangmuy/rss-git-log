@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 40,
-    "generatedAt": "2026-10-30T06:00:19.187Z"
+    "itemCount": 42,
+    "generatedAt": "2026-10-30T15:06:45.349Z"
   },
   "items": [
     {
@@ -246,6 +246,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFyYWRlZGIuY29tJTJGYmxvZyUyRm9wZW5pbmctYS1jbG9zZWQtdGluLXBhcnQtMiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhcmFkZWRiLmNvbSUyRmJsb2clMkZvcGVuaW5nLWEtY2xvc2VkLXRpbi1wYXJ0LTIlN0NTb2x2aW5nJTIwUG9zdGdyZXMnJTIwQ291bnQlMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjk2NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAwNSUzQTM0JTNBMTYlMjAlMkIwMDAw",
       "title": "Solving Postgres' Count Problem",
       "pubDate": "Wed, 28 Oct 2026 05:34:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2VlZGVnb2xmLm5sJTJGZW4lMkZibG9nJTJGMjQyJTJGZmluZGluZy1wYW5pY3Mtd2l0aC1jYWxsLWdyYXBoLWFuYWx5emVyJTJGJTdDaHR0cHMlM0ElMkYlMkZ0d2VlZGVnb2xmLm5sJTJGZW4lMkZibG9nJTJGMjQyJTJGZmluZGluZy1wYW5pY3Mtd2l0aC1jYWxsLWdyYXBoLWFuYWx5emVyJTJGJTdDRmluZGluZyUyMFBhbmljcyUyMHdpdGglMjBDYWxsJTIwR3JhcGglMjBBbmFseXplciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjczNTA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTMlM0E0OCUzQTI2JTIwJTJCMDAwMA",
+      "title": "Finding Panics with Call Graph Analyzer",
+      "pubDate": "Wed, 28 Oct 2026 13:48:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJjb25uZWN0cy5haSUyRnAlMkZhcnRpZmljaWFsLWFuYWx5c2lzLXY1LWFuZC10aGUtYmVuY2htYXJrZXJzJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJjb25uZWN0cy5haSUyRnAlMkZhcnRpZmljaWFsLWFuYWx5c2lzLXY1LWFuZC10aGUtYmVuY2htYXJrZXJzJTdDQXJ0aWZpY2lhbCUyMEFuYWx5c2lzJTIwdjUlMjBhbmQlMjB0aGUlMjBiZW5jaG1hcmtlcidzJTIwZGlsZW1tYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjczMzQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTMlM0EzOCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "pubDate": "Wed, 28 Oct 2026 13:38:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]

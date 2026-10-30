@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-30",
     "newestItemDate": "2026-10-30",
-    "itemCount": 5,
-    "generatedAt": "2026-10-30T06:00:19.187Z"
+    "itemCount": 16,
+    "generatedAt": "2026-10-30T15:06:45.348Z"
   },
   "items": [
     {
@@ -36,6 +36,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjb3JtYWNtY2NhcnRoeS5saWIudXRrLmVkdSUyRiU3Q2h0dHBzJTNBJTJGJTJGY29ybWFjbWNjYXJ0aHkubGliLnV0ay5lZHUlMkYlN0NDb3JtYWMlMjBNY0NhcnRoeSdzJTIwTGlicmFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjk4MzE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzAlMjBPY3QlMjAyMDI2JTIwMDAlM0EzMSUzQTAwJTIwJTJCMDAwMA",
       "title": "Cormac McCarthy's Library",
       "pubDate": "Fri, 30 Oct 2026 00:31:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWVkcGFnZXRvZGF5LmNvbSUyRm9waW5pb24lMkZzZWNvbmQtb3BpbmlvbnMlMkYxMjM1NTMlM0Z0cnclM0RubyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1lZHBhZ2V0b2RheS5jb20lMkZvcGluaW9uJTJGc2Vjb25kLW9waW5pb25zJTJGMTIzNTUzJTNGdHJ3JTNEbm8lN0NNZWRpY2FyZSUyMFdpbGwlMjBQYXklMjAlMjQ1MGslMjBmb3IlMjBZb3VyJTIwSGVhcnQlMjBBdHRhY2suJTIwSXQlMjBTaG91bGQlMjBQYXklMjAlMjQxMDAlMjB0byUyMFByZXZlbnQlMjBJdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzA0NDE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzAlMjBPY3QlMjAyMDI2JTIwMTQlM0EyNyUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "pubDate": "Fri, 30 Oct 2026 14:27:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmNoYXNtbW1tbW1tbW1tbSUyRnN0YXR1cyUyRjIxMTYwNjI5OTE2ODY3MjE5NjglN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGY2hhc21tbW1tbW1tbW1tJTJGc3RhdHVzJTJGMjExNjA2Mjk5MTY4NjcyMTk2OCU3Q0FudGhyb3BpYyUyMENyYWNraW5nJTIwRG93biUyMG9uJTIwVmlkZW8lMjBHYW1lJTIwUmV3cml0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMwNDM1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDE0JTNBMjIlM0E1MiUyMCUyQjAwMDA",
+      "title": "Anthropic Cracking Down on Video Game Rewrites",
+      "pubDate": "Fri, 30 Oct 2026 14:22:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZiaWctdGVjaCUyRmNpc2NvLWdpdmVzLTI3LXllYXItb2xkLWVuZ2luZWVyLXVubGltaXRlZC1haS10b2tlbnMtdG8tcmV3cml0ZS05OC1wZXJjZW50LW9mLXRoZS1jb21wYW55cy1sZWdhY3ktY29kZS1pbi0yNC1tb250aHMtcHJlc2lkZW50LXBsdWNrcy1mb3JtZXItc3RhcnR1cC1mb3VuZGVyLXRlbGxpbmctaGltLXRvLWdvLW51dHMlN0NodHRwcyUzQSUyRiUyRnd3dy50b21zaGFyZHdhcmUuY29tJTJGdGVjaC1pbmR1c3RyeSUyRmJpZy10ZWNoJTJGY2lzY28tZ2l2ZXMtMjcteWVhci1vbGQtZW5naW5lZXItdW5saW1pdGVkLWFpLXRva2Vucy10by1yZXdyaXRlLTk4LXBlcmNlbnQtb2YtdGhlLWNvbXBhbnlzLWxlZ2FjeS1jb2RlLWluLTI0LW1vbnRocy1wcmVzaWRlbnQtcGx1Y2tzLWZvcm1lci1zdGFydHVwLWZvdW5kZXItdGVsbGluZy1oaW0tdG8tZ28tbnV0cyU3Q0Npc2NvJTIwZ2l2ZXMlMjBlbmdpbmVlciUyMHVubGltaXRlZCUyMEFJJTIwdG9rZW5zJTIwdG8lMjByZXdyaXRlJTIwOTglMjUlMjBvZiUyMHRoZSUyMGNvbXBhbnkncyUyMGNvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMwNDEyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDE0JTNBMDglM0EyMCUyMCUyQjAwMDA",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+      "pubDate": "Fri, 30 Oct 2026 14:08:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXRsYW50aWMuY29tJTJGc2NpZW5jZSUyRjIwMjYlMkYxMCUyRmNhbmR5LWNvcm4tYnVnLXNoZWxsYWMlMkY2ODkyMTMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVhdGxhbnRpYy5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjEwJTJGY2FuZHktY29ybi1idWctc2hlbGxhYyUyRjY4OTIxMyUyRiU3Q0p1c3QlMjBOb3RpbmclMjBUaGF0JTIwWW91ciUyMENhbmR5JTIwQ29ybiUyMElzJTIwTWFkZSUyMG9mJTIwQnVnJTIwU2VjcmV0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzAzNTcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzAlMjBPY3QlMjAyMDI2JTIwMTMlM0EyNiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+      "pubDate": "Fri, 30 Oct 2026 13:26:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwc3ljaG90ZWNobm9sb2d5LnN1YnN0YWNrLmNvbSUyRnAlMkY1LW1lby1kbXQtc29tZXRpbWVzLWNhbmNlbHMtdGhlLWViYmluZ2hhdXMlN0NodHRwcyUzQSUyRiUyRnBzeWNob3RlY2hub2xvZ3kuc3Vic3RhY2suY29tJTJGcCUyRjUtbWVvLWRtdC1zb21ldGltZXMtY2FuY2Vscy10aGUtZWJiaW5naGF1cyU3QzUtTWVPLURNVCUyMHNvbWV0aW1lcyUyMGNhbmNlbHMlMjB0aGUlMjBFYmJpbmdoYXVzJTIwaWxsdXNpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMwMzQ4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDEzJTNBMjAlM0EwNiUyMCUyQjAwMDA",
+      "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+      "pubDate": "Fri, 30 Oct 2026 13:20:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGUtZG9sbGFyNjMtYmlsbGlvbi1iaW5hbmNlLWhhY2std2FzLXB1bGxlZC1vZmYtaW4tanVzdC0yMC1taW51dGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGUtZG9sbGFyNjMtYmlsbGlvbi1iaW5hbmNlLWhhY2std2FzLXB1bGxlZC1vZmYtaW4tanVzdC0yMC1taW51dGVzJTJGJTdDVGhlJTIwJTI0Ni4zQiUyMEJpbmFuY2UlMjBIYWNrJTIwV2FzJTIwUHVsbGVkJTIwT2ZmJTIwaW4lMjBKdXN0JTIwMjAlMjBNaW51dGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMDMxNzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAxMiUzQTUwJTNBMDElMjAlMkIwMDAw",
+      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+      "pubDate": "Fri, 30 Oct 2026 12:50:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9ncmVzc2l2ZXMuaG91c2UuZ292JTJGMjAyNiUyRjEwJTJGcmVwcy1jYXNhci13YXRlcnMtbGVhZC1kZW1vY3JhdGljLXJlc29sdXRpb24tb3Bwb3NpbmctYS1pLWJ1YmJsZS1iYWlsb3V0LWZvci1iaWctdGVjaC1jb21taXQtdG8tcHJvdGVjdGluZy1hbWVyaWNhbi1wZW9wbGUtaW5zdGVhZCU3Q2h0dHBzJTNBJTJGJTJGcHJvZ3Jlc3NpdmVzLmhvdXNlLmdvdiUyRjIwMjYlMkYxMCUyRnJlcHMtY2FzYXItd2F0ZXJzLWxlYWQtZGVtb2NyYXRpYy1yZXNvbHV0aW9uLW9wcG9zaW5nLWEtaS1idWJibGUtYmFpbG91dC1mb3ItYmlnLXRlY2gtY29tbWl0LXRvLXByb3RlY3RpbmctYW1lcmljYW4tcGVvcGxlLWluc3RlYWQlN0NVUyUyMFJlcHMlMjBMZWFkJTIwRGVtb2NyYXRpYyUyMFJlc29sdXRpb24lMjBPcHBvc2luZyUyMEEuSS4lMjBCdWJibGUlMjBCYWlsb3V0JTIwZm9yJTIwQmlnJTIwVGVjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzAyODE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzAlMjBPY3QlMjAyMDI2JTIwMTIlM0EwOCUzQTAwJTIwJTJCMDAwMA",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "pubDate": "Fri, 30 Oct 2026 12:08:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmluYXJ5c2VjdXJpdHkubm8lMkZwb3N0cyUyRjIwMjYlMkYxMCUyRm9uZS1yb290LWNhc2UlN0NodHRwcyUzQSUyRiUyRnd3dy5iaW5hcnlzZWN1cml0eS5ubyUyRnBvc3RzJTJGMjAyNiUyRjEwJTJGb25lLXJvb3QtY2FzZSU3Q0F6dXJlJ3MlMjBXZWFrZXN0JTIwTGluayUyMCVFMiU4MCU5MyUyMEZpdmUlMjBGdWxsJTIwQ3Jvc3MtVGVuYW50JTIwQ29tcHJvbWlzZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMwMTg1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDEwJTNBMDYlM0ExNSUyMCUyQjAwMDA",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "pubDate": "Fri, 30 Oct 2026 10:06:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVjdC5ob3JzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZWxlY3QuaG9yc2UlMkYlN0NlbGVjdC5ob3JzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzAxNDYyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzAlMjBPY3QlMjAyMDI2JTIwMDklM0ExNCUzQTM0JTIwJTJCMDAwMA",
+      "title": "elect.horse",
+      "pubDate": "Fri, 30 Oct 2026 09:14:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaG9yaW9uLmlvJTJGYmxvZyUyRm9mZmljYWwtY2xhdWRlLWNvZGUtdnN4LWNvbXByb21pc2UlMkYlN0NodHRwcyUzQSUyRiUyRnBob3Jpb24uaW8lMkZibG9nJTJGb2ZmaWNhbC1jbGF1ZGUtY29kZS12c3gtY29tcHJvbWlzZSUyRiU3Q0JhY2tkb29yJTIwaW4lMjBDbGF1ZGUlMjBDb2RlJTIwZm9yJTIwVlMlMjBDb2RlJTIwZXh0ZW5zaW9uJTIwb24lMjB0aGUlMjBDdXJzb3IlMjBNYXJrZXRwbGFjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzAwNjgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzAlMjBPY3QlMjAyMDI2JTIwMDclM0EwOSUzQTEyJTIwJTJCMDAwMA",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "pubDate": "Fri, 30 Oct 2026 07:09:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ya2F0YXN0YXJ0dXAuY29tJTJGam9icyUyRjk4NzIyJTdDaHR0cHMlM0ElMkYlMkZ3d3cud29ya2F0YXN0YXJ0dXAuY29tJTJGam9icyUyRjk4NzIyJTdDV2FzbWVyJTIwKFlDJTIwUzE5KSUyMElzJTIwSGlyaW5nJTIwT1MlMkZIeXBlcnZpc29yJTIwRXhwZXJ0cyUyMGluJTIwRXVyb3BlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMDA2NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAwNyUzQTAwJTNBMzUlMjAlMkIwMDAw",
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "pubDate": "Fri, 30 Oct 2026 07:00:35 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
     }
   ]

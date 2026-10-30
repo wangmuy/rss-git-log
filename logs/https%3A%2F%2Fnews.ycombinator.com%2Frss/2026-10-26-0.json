@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 68,
-    "generatedAt": "2026-10-30T06:00:19.188Z"
+    "itemCount": 70,
+    "generatedAt": "2026-10-30T15:06:45.349Z"
   },
   "items": [
     {
@@ -414,6 +414,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF2aWRwcml2ZXIuY29tJTJGSXRlcmF0aW5nLWJhY2t3YXJkcy1pbi1DLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYXZpZHByaXZlci5jb20lMkZJdGVyYXRpbmctYmFja3dhcmRzLWluLUMuaHRtbCU3Q0l0ZXJhdGluZyUyMEJhY2t3YXJkcyUyMGluJTIwQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ5NTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTklM0EyOCUzQTE5JTIwJTJCMDAwMA",
       "title": "Iterating Backwards in C",
       "pubDate": "Mon, 26 Oct 2026 19:28:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MTAyNi0wMCUyRiUzRnAlM0QxMTI3OTclMkYlN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYxMDI2LTAwJTJGJTNGcCUzRDExMjc5NyUyNTJGJTdDV2h5JTIwYSUyMHByb2dyYW0lMjBkb2Vzbid0JTIwd29yayUyMHdoZW4lMjBydW4lMjBmcm9tJTIwYSUyMGJhdGNoJTIwZmlsZSUyQyUyMGJ1dCUyMHdvcmtzJTIwd2hlbiUyMGNsaWNrZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI1MTA3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDIxJTNBMTQlM0E0MyUyMCUyQjAwMDA",
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "pubDate": "Mon, 26 Oct 2026 21:14:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGY29tbW9kb3JlLTE2MDAtdmljbW9kZW0lMkYlN0NodHRwcyUzQSUyRiUyRmRmYXJxLmhvbWVpcC5uZXQlMkZjb21tb2RvcmUtMTYwMC12aWNtb2RlbSUyRiU3Q0NvbW1vZG9yZSUyMDE2MDAlMjBWSUNtb2RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ0NDg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTQlM0EzNyUzQTE3JTIwJTJCMDAwMA",
+      "title": "Commodore 1600 VICmodem",
+      "pubDate": "Mon, 26 Oct 2026 14:37:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]
