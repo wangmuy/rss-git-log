@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 36,
-    "generatedAt": "2026-10-29T21:13:31.788Z"
+    "itemCount": 40,
+    "generatedAt": "2026-10-30T06:00:19.187Z"
   },
   "items": [
     {
@@ -222,6 +222,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGhlY29uc2Vuc3VzbGFicyUyRm5vYWxsb2MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZ0aGVjb25zZW5zdXNsYWJzJTJGbm9hbGxvYyU3Q25vYWxsb2MlM0ElMjBUb29saW5nJTIwYW5kJTIwbGlicmFyaWVzJTIwdG8lMjBlbmZvcmNlJTIwemVybyUyMGhlYXAlMjBhbGxvY2F0aW9ucyUyMGluJTIwR29sYW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzg2NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxOCUzQTI5JTNBMjUlMjAlMkIwMDAw",
       "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
       "pubDate": "Wed, 28 Oct 2026 18:29:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbnYuc2glMkZibG9nJTJGMjAyNiUyRjEwJTJGMjglMkZrZWVwLXRoZS1jaGFuZ2Vsb2ctYXZvaWQtdGhlLWNvbmZsaWN0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGV2ZW52LnNoJTJGYmxvZyUyRjIwMjYlMkYxMCUyRjI4JTJGa2VlcC10aGUtY2hhbmdlbG9nLWF2b2lkLXRoZS1jb25mbGljdHMlMkYlN0NLZWVwJTIwdGhlJTIwY2hhbmdlbG9nJTJDJTIwYXZvaWQlMjB0aGUlMjBjb25mbGljdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3NDU0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDE0JTNBNDUlM0E1OCUyMCUyQjAwMDA",
+      "title": "Keep the changelog, avoid the conflicts",
+      "pubDate": "Wed, 28 Oct 2026 14:45:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RrTDlCVGJJR3hMZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEa0w5QlRiSUd4TGclN0NJJ20lMjBzbyUyMGJhZCUyMGF0JTIwYmlsbGlhcmRzJTIwdGhhdCUyMEklMjBlbmRlZCUyMHVwJTIwaW4lMjB0aGUlMjBoeXBlcmJvbGljJTIwcGxhbmUlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjczMTA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTMlM0EyMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "pubDate": "Wed, 28 Oct 2026 13:20:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGEtbHVjZSUyRmFzdHJvdGVybSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmRhLWx1Y2UlMkZhc3Ryb3Rlcm0lN0NBc3Ryb3Rlcm0lM0ElMjBBJTIwUGxhbmV0YXJpdW0lMjBmb3IlMjBZb3VyJTIwVGVybWluYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3MDY1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDA4JTNBMjklM0E1NSUyMCUyQjAwMDA",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "pubDate": "Wed, 28 Oct 2026 08:29:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFyYWRlZGIuY29tJTJGYmxvZyUyRm9wZW5pbmctYS1jbG9zZWQtdGluLXBhcnQtMiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhcmFkZWRiLmNvbSUyRmJsb2clMkZvcGVuaW5nLWEtY2xvc2VkLXRpbi1wYXJ0LTIlN0NTb2x2aW5nJTIwUG9zdGdyZXMnJTIwQ291bnQlMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjk2NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAwNSUzQTM0JTNBMTYlMjAlMkIwMDAw",
+      "title": "Solving Postgres' Count Problem",
+      "pubDate": "Wed, 28 Oct 2026 05:34:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]

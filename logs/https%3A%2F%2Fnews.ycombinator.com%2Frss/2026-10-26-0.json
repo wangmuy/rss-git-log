@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-26",
     "newestItemDate": "2026-10-26",
-    "itemCount": 67,
-    "generatedAt": "2026-10-29T21:13:31.789Z"
+    "itemCount": 68,
+    "generatedAt": "2026-10-30T06:00:19.188Z"
   },
   "items": [
     {
@@ -408,6 +408,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkeW5vbWlnaHQubmV0JTJGbWF0aCUyRiU3Q2h0dHBzJTNBJTJGJTJGZHlub21pZ2h0Lm5ldCUyRm1hdGglMkYlN0NTY2F0dGVyZWQlMjB0aG91Z2h0cyUyMG9uJTIwaG93JTIwZG9pbmclMjBtYXRoJTIwZmVlbHMlMjB0aGVzZSUyMGRheXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI0NTE5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDI2JTIwT2N0JTIwMjAyNiUyMDE1JTNBMTUlM0ExMSUyMCUyQjAwMDA",
       "title": "Scattered thoughts on how doing math feels these days",
       "pubDate": "Mon, 26 Oct 2026 15:15:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGF2aWRwcml2ZXIuY29tJTJGSXRlcmF0aW5nLWJhY2t3YXJkcy1pbi1DLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYXZpZHByaXZlci5jb20lMkZJdGVyYXRpbmctYmFja3dhcmRzLWluLUMuaHRtbCU3Q0l0ZXJhdGluZyUyMEJhY2t3YXJkcyUyMGluJTIwQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjQ5NTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjYlMjBPY3QlMjAyMDI2JTIwMTklM0EyOCUzQTE5JTIwJTJCMDAwMA",
+      "title": "Iterating Backwards in C",
+      "pubDate": "Mon, 26 Oct 2026 19:28:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-26-0.json"
     }
   ]

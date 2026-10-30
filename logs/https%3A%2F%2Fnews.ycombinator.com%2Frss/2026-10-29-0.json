@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-29",
     "newestItemDate": "2026-10-29",
-    "itemCount": 43,
-    "generatedAt": "2026-10-29T21:13:31.788Z"
+    "itemCount": 51,
+    "generatedAt": "2026-10-30T06:00:19.187Z"
   },
   "items": [
     {
@@ -264,6 +264,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvbSUyRm5ld3MlMkZhcnRpY2xlcyUyRmNtOHh6N3BrZDBqam8lN0NodHRwcyUzQSUyRiUyRnd3dy5iYmMuY29tJTJGbmV3cyUyRmFydGljbGVzJTJGY204eHo3cGtkMGpqbyU3Q1doYXQlMjB3ZSUyMGtub3clMjBzbyUyMGZhciUyMGFib3V0JTIwU3BhaW4lMjB0cmFpbiUyMGNyYXNoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyODYxOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAwOCUzQTU1JTNBMDglMjAlMkIwMDAw",
       "title": "What we know so far about Spain train crash",
       "pubDate": "Thu, 29 Oct 2026 08:55:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW90dG9wYW5pa2Vpa3UlMkZkb29tZm9ybWVyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbW90dG9wYW5pa2Vpa3UlMkZkb29tZm9ybWVyJTdDU2hvdyUyMEhOJTNBJTIwSSUyMFR1cm5lZCUyMERPT00lMjBpbnRvJTIwYSUyMFRyYW5zZm9ybWVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTc2OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAyMyUzQTI1JTNBNDYlMjAlMkIwMDAw",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "pubDate": "Thu, 29 Oct 2026 23:25:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3VybmFsLmFuaW1hdGlvbnN0dWRpZXMub3JnJTJGYXJ0aWNsZSUyRmlkJTJGNjYlMkYlN0NodHRwcyUzQSUyRiUyRmpvdXJuYWwuYW5pbWF0aW9uc3R1ZGllcy5vcmclMkZhcnRpY2xlJTJGaWQlMkY2NiUyRiU3Q0ElMjBQaWclMkMlMjB0aGUlMjBTdGF0ZSUyQyUyMGFuZCUyMFdhciUzQSUyMFBvcmNvJTIwUm9zc28lMjAoS3VyZW5haSUyME5vJTIwQnV0YSklMjAoMjAxNCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5NzA4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDIyJTNBMjYlM0EzOCUyMCUyQjAwMDA",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "pubDate": "Thu, 29 Oct 2026 22:26:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGFyZW1vbnRyZXZpZXdvZmJvb2tzLmNvbSUyRnRoZS1ncmVhdC1hbWVyaWNhbi1yYXNjYWwlMkYlN0NodHRwcyUzQSUyRiUyRmNsYXJlbW9udHJldmlld29mYm9va3MuY29tJTJGdGhlLWdyZWF0LWFtZXJpY2FuLXJhc2NhbCUyRiU3Q1RoZSUyMEdyZWF0JTIwQW1lcmljYW4lMjBSYXNjYWwlM0ElMjBUb20lMjBTYXd5ZXIlMjBhdCUyMDE1MCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjk2OTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMjIlM0ExNCUzQTIzJTIwJTJCMDAwMA",
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "pubDate": "Thu, 29 Oct 2026 22:14:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWJzLnljb21iaW5hdG9yLmNvbSUyRnByb2plY3RzJTJGZ2FtZXMlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZsYWJzLnljb21iaW5hdG9yLmNvbSUyRnByb2plY3RzJTJGZ2FtZXMlMkZpbmRleC5odG1sJTdDV2UlMjByYW4lMjBBSSUyMGFnZW50JTIwc3dhcm1zJTIwaW4lMjBNaW5lY3JhZnQlMjBhbmQlMjBNaW5kdXN0cnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5NjQ4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDIxJTNBNDAlM0EyOCUyMCUyQjAwMDA",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "pubDate": "Thu, 29 Oct 2026 21:40:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmttLmNvbSUyRmV4cGxvcmVyJTJGZW50aXR5JTJGMjFhOTQ3NTUtZjYwNC00NWU1LTk1MDEtNjU0MmUyMzAwNWU4JTdDaHR0cHMlM0ElMkYlMkZhcmttLmNvbSUyRmV4cGxvcmVyJTJGZW50aXR5JTJGMjFhOTQ3NTUtZjYwNC00NWU1LTk1MDEtNjU0MmUyMzAwNWU4JTdDQmluYW5jZS1oYWNrZXItMTAyOSUyMCVFMiU4MCU5MyUyMCUyNDUuNkIlMjBzdG9sZW4lMjBmcm9tJTIwQmluYW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjk2NDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMjElM0EzOCUzQTU5JTIwJTJCMDAwMA",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "pubDate": "Thu, 29 Oct 2026 21:38:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9qZWN0cy5mcmVlaGFja2Vycy5vcmclMkZzeWxwaGlkZS1vcyUyRiU3Q2h0dHBzJTNBJTJGJTJGcHJvamVjdHMuZnJlZWhhY2tlcnMub3JnJTJGc3lscGhpZGUtb3MlMkYlN0NTeWxwaGlkZSUyME9TJTNBJTIwYSUyMGdlbmVyYWwtcHVycG9zZSUyME9TJTIwZm9yJTIwbWljcm9jb250cm9sbGVyLWJhc2VkJTIwY29tcHV0ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTU4NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAyMCUzQTU5JTNBNTUlMjAlMkIwMDAw",
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "pubDate": "Thu, 29 Oct 2026 20:59:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVtZW50YXJ5LmNvZGVzJTdDaHR0cHMlM0ElMkYlMkZlbGVtZW50YXJ5LmNvZGVzJTJGJTdDRWxlbWVudGFyeVVJJTIwJUUyJTgwJTkzJTIwU3dpZnQlMkMlMjBpbiUyMHRoZSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5NTgyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDIwJTNBNTYlM0EzOSUyMCUyQjAwMDA",
+      "title": "ElementaryUI – Swift, in the Browser",
+      "pubDate": "Thu, 29 Oct 2026 20:56:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGam9obmNhc3NpbCUyRmRvbnRhbGxvdyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmpvaG5jYXNzaWwlMkZkb250YWxsb3clN0NTaG93JTIwSE4lM0ElMjBBdXRvJTIwRGlzbWlzcyUyME1hYyUyME9TJTIwJTIyQWxsb3clMjAlM0NhcHAlM0UlMjB0byUyMGZpbmQlMjBkZXZpY2VzJTIwb24lMjBsb2NhbCUyMG5ldHdvcmtzJTNGJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTQ1MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyOSUyME9jdCUyMDIwMjYlMjAxOSUzQTI3JTNBNDQlMjAlMkIwMDAw",
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "pubDate": "Thu, 29 Oct 2026 19:27:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
     }
   ]

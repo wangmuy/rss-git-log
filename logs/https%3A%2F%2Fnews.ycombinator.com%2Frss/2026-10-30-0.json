@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "siteId": "https://news.ycombinator.com/rss",
+    "siteName": "Hacker News",
+    "oldestItemDate": "2026-10-30",
+    "newestItemDate": "2026-10-30",
+    "itemCount": 5,
+    "generatedAt": "2026-10-30T06:00:19.187Z"
+  },
+  "items": [
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGVubGlnZW50LmFpJTJGaGFja2luZ2xhYnMlMkZjdmUtMjAyNi05ODQzMiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBlbmxpZ2VudC5haSUyRmhhY2tpbmdsYWJzJTJGY3ZlLTIwMjYtOTg0MzIlMkYlN0NDVkUtMjAyNi05ODQzMiUzQSUyMExpbnV4JTIwVENQJTIwVXNlLUFmdGVyLUZyZWUlMjBSaXNrJTIwYW5kJTIwUGF0Y2glMjBWYWxpZGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTkxODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAwMiUzQTMzJTNBMDQlMjAlMkIwMDAw",
+      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "pubDate": "Fri, 30 Oct 2026 02:33:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTWlsbGlsbGlvbiUyRmxhc20lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZNaWxsaWxsaW9uJTJGbGFzbSU3Q1Nob3clMjBITiUzQSUyMExhc20lMjAlRTIlODAlOTMlMjBXcml0ZSUyMGZvcm1hbGx5JTIwdmVyaWZpZWQlMjB3ZWJhcHBzJTIwaW4lMjBMZWFuJTIwZm9yJTIwTm9kZSUyRnNlcnZlcmxlc3MlMkZlZGdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyOTkwMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAwMiUzQTA1JTNBNDElMjAlMkIwMDAw",
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "pubDate": "Fri, 30 Oct 2026 02:05:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGljb2NzcyUyRnBpY28lMkZkaXNjdXNzaW9ucyUyRjc1NCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnBpY29jc3MlMkZwaWNvJTJGZGlzY3Vzc2lvbnMlMkY3NTQlN0NQaWNvJTIwQ1NTJTIwaXMlMjBubyUyMGxvbmdlciUyMG1haW50YWluZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5ODk2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDAxJTNBNTglM0E0NCUyMCUyQjAwMDA",
+      "title": "Pico CSS is no longer maintained",
+      "pubDate": "Fri, 30 Oct 2026 01:58:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGVyZHJkZXYlMkZoZXJkci1hcHAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZoZXJkcmRldiUyRmhlcmRyLWFwcCU3Q0hlcmRyJTIwaGFzJTIwcmVsZWFzZWQlMjBuYXRpdmUlMjBhcHAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5ODQzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDAwJTNBNDIlM0E0MSUyMCUyQjAwMDA",
+      "title": "Herdr has released native app",
+      "pubDate": "Fri, 30 Oct 2026 00:42:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3JtYWNtY2NhcnRoeS5saWIudXRrLmVkdSUyRiU3Q2h0dHBzJTNBJTJGJTJGY29ybWFjbWNjYXJ0aHkubGliLnV0ay5lZHUlMkYlN0NDb3JtYWMlMjBNY0NhcnRoeSdzJTIwTGlicmFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjk4MzE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMzAlMjBPY3QlMjAyMDI2JTIwMDAlM0EzMSUzQTAwJTIwJTJCMDAwMA",
+      "title": "Cormac McCarthy's Library",
+      "pubDate": "Fri, 30 Oct 2026 00:31:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    }
+  ]
+}
