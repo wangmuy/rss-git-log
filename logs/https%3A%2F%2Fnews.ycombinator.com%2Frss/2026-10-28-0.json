@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-28",
     "newestItemDate": "2026-10-28",
-    "itemCount": 43,
-    "generatedAt": "2026-10-30T20:53:07.019Z"
+    "itemCount": 48,
+    "generatedAt": "2026-10-31T05:56:10.555Z"
   },
   "items": [
     {
@@ -264,6 +264,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGdGhlLXNsZWVwLWZyYW1ld29yay1hLW5ldy13YXktZm9yLWxsbXMtdG8tcmV0YWluLWtub3dsZWRnZS1pbi1jb250aW51YWwtbGVhcm5pbmclMkYlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLmdvb2dsZSUyRmJsb2clMkZ0aGUtc2xlZXAtZnJhbWV3b3JrLWEtbmV3LXdheS1mb3ItbGxtcy10by1yZXRhaW4ta25vd2xlZGdlLWluLWNvbnRpbnVhbC1sZWFybmluZyUyRiU3Q1NsZWVwJTIwZnJhbWV3b3JrJTNBJTIwQSUyMG5ldyUyMHdheSUyMGZvciUyMExMTXMlMjB0byUyMHJldGFpbiUyMGtub3dsZWRnZSUyMGluJTIwY29udGludWFsJTIwbGVhcm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3MjQ3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDEyJTNBMjQlM0EyNSUyMCUyQjAwMDA",
       "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "pubDate": "Wed, 28 Oct 2026 12:24:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWJsaWNkb21haW5yZXZpZXcub3JnJTJGZXNzYXklMkZ3b25kZXJmdWwtd2VhdGhlciUyRiU3Q2h0dHBzJTNBJTJGJTJGcHVibGljZG9tYWlucmV2aWV3Lm9yZyUyRmVzc2F5JTJGd29uZGVyZnVsLXdlYXRoZXIlMkYlN0NXb25kZXJmdWwlMjBXZWF0aGVyJTNBJTIwRmxvb2RzJTIwYW5kJTIwRm9yZWJvZGluZyUyMGluJTIwMTd0aC1DZW50dXJ5JTIwQnJpdGFpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc3NTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTclM0EzNCUzQTU5JTIwJTJCMDAwMA",
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "pubDate": "Wed, 28 Oct 2026 17:34:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2hyaXMxMjQ1NjclMkZjZnNvbHZlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2hyaXMxMjQ1NjclMkZjZnNvbHZlJTdDQ2xvdWRmbGFyZSUyMFR1cm5zdGlsZSUyMHNvbHZlciUyMGxpYnJhcnklMjAobm8lMjBoZWFkbGVzcyUyMGJyb3dzZXIlMjByZXF1aXJlZCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI3NzM3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI4JTIwT2N0JTIwMjAyNiUyMDE3JTNBMjklM0EyMyUyMCUyQjAwMDA",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "pubDate": "Wed, 28 Oct 2026 17:29:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZWxsb25lLmNvbSUyRnRlY2huaWNhbCUyRmRvdWJsZS1idWZmZXJpbmctd2l0aC1jbG91ZGZsYXJlLXF1ZXVlcyU3Q2h0dHBzJTNBJTJGJTJGYmVsbG9uZS5jb20lMkZ0ZWNobmljYWwlMkZkb3VibGUtYnVmZmVyaW5nLXdpdGgtY2xvdWRmbGFyZS1xdWV1ZXMlN0NEb3VibGUlMjBCdWZmZXJpbmclMjB3aXRoJTIwQ2xvdWRmbGFyZSUyMFF1ZXVlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjc2NjEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjglMjBPY3QlMjAyMDI2JTIwMTYlM0E0OCUzQTIzJTIwJTJCMDAwMA",
+      "title": "Double Buffering with Cloudflare Queues",
+      "pubDate": "Wed, 28 Oct 2026 16:48:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpZGVvbGFsaWEuY29tJTJGZXNzYXlzJTJGdHJhcHBlZC1pbi10aGUtdGVjaG5vbG9naXN0LWZhY3RvcnkuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGaWRlb2xhbGlhLmNvbSUyRmVzc2F5cyUyRnRyYXBwZWQtaW4tdGhlLXRlY2hub2xvZ2lzdC1mYWN0b3J5Lmh0bWwlN0NUcmFwcGVkJTIwaW4lMjB0aGUlMjBUZWNobm9sb2dpc3QlMjBGYWN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzYzNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxNiUzQTMwJTNBMzglMjAlMkIwMDAw",
+      "title": "Trapped in the Technologist Factory",
+      "pubDate": "Wed, 28 Oct 2026 16:30:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFjYy5vcmclMkZkb2klMkZlcGRmJTJGMTAuMTAxNiUyRmouamFjY2FzLjIwMjYuMTEwMzk3JTdDaHR0cHMlM0ElMkYlMkZ3d3cuamFjYy5vcmclMkZkb2klMkZlcGRmJTJGMTAuMTAxNiUyRmouamFjY2FzLjIwMjYuMTEwMzk3JTdDTG9uZ2l0dWRpbmFsJTIwQ2hhbmdlcyUyMEluV2VhcmFibGUtQ2FwdHVyZWQlMjBQaHlzaW9sb2d5QmVmb3JlJTIwU3VkZGVuJTIwQ2FyZGlhYyUyMERlYXRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNzQ4ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyOCUyME9jdCUyMDIwMjYlMjAxNSUzQTA0JTNBMTIlMjAlMkIwMDAw",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "pubDate": "Wed, 28 Oct 2026 15:04:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-28-0.json"
     }
   ]

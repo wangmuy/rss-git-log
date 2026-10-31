@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-30",
     "newestItemDate": "2026-10-30",
-    "itemCount": 40,
-    "generatedAt": "2026-10-30T20:53:07.018Z"
+    "itemCount": 44,
+    "generatedAt": "2026-10-31T05:56:10.554Z"
   },
   "items": [
     {
@@ -246,6 +246,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGaG93LWRvLXlvdS10YWtlLWEtcGljdHVyZS1vZi1hLWJsYWNrLWhvbGUtMjAyNjEwMjklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWFudGFtYWdhemluZS5vcmclMkZob3ctZG8teW91LXRha2UtYS1waWN0dXJlLW9mLWEtYmxhY2staG9sZS0yMDI2MTAyOSUyRiU3Q0hvdyUyMGRvJTIweW91JTIwdGFrZSUyMGElMjBwaWN0dXJlJTIwb2YlMjBhJTIwYmxhY2slMjBob2xlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMDE3MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAwOSUzQTQ5JTNBMDIlMjAlMkIwMDAw",
       "title": "How do you take a picture of a black hole?",
       "pubDate": "Fri, 30 Oct 2026 09:49:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0bmcuZXBpc29kbGUuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0bmcuZXBpc29kbGUuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwVG8lMjBIb25vciUyMFNpciUyMFBhdHJpY2slMjBTdGV3YXJ0JTJDJTIwRW5qb3klMjB0aGUlMjBUTkclMjBFcGlzb2RlJTIwR3Vlc3NpbmclMjBHYW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTE2ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAyMyUzQTUxJTNBMjQlMjAlMkIwMDAw",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "pubDate": "Fri, 30 Oct 2026 23:51:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlyZXpvbmUuZGV2JTJGYmxvZyUyRmludHJvZHVjaW5nLXNhbnN0dW4lN0NodHRwcyUzQSUyRiUyRnd3dy5maXJlem9uZS5kZXYlMkZibG9nJTJGaW50cm9kdWNpbmctc2Fuc3R1biU3Q3NhbnN0dW4lM0ElMjBBJTIwc2Fucy1JTyUyQyUyMHBhcmFsbGVsLWZyaWVuZGx5JTIwV2lyZUd1YXJkJTIwaW1wbGVtZW50YXRpb24lMjBpbiUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMxMDM5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDIxJTNBMzAlM0EwMCUyMCUyQjAwMDA",
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "pubDate": "Fri, 30 Oct 2026 21:30:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYxMCUyRjMwJTJGY2lzY28tcHJlc2lkZW50LWplZXR1LXBhdGVsLWdlbi16LTI3LXllYXItb2xkLXVubGltaXRlZC1haS10b2tlbnMtcmV3cml0ZS1sZWdhY3ktY29kZS1lbnRyeS1sZXZlbC1qb2JzJTJGJTdDaHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYxMCUyRjMwJTJGY2lzY28tcHJlc2lkZW50LWplZXR1LXBhdGVsLWdlbi16LTI3LXllYXItb2xkLXVubGltaXRlZC1haS10b2tlbnMtcmV3cml0ZS1sZWdhY3ktY29kZS1lbnRyeS1sZXZlbC1qb2JzJTJGJTdDQ2lzY28lMjBnaXZlcyUyMGVuZ2luZWVyJTIwdW5saW1pdGVkJTIwQUklMjB0b2tlbnMlMjB0byUyMHJld3JpdGUlMjBsZWdhY3klMjBjb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMDQxMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAxNCUzQTA4JTNBMjAlMjAlMkIwMDAw",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "pubDate": "Fri, 30 Oct 2026 14:08:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGUtZG9sbGFyNjMtYmlsbGlvbi1iaW5hbmNlLWhhY2std2FzLXB1bGxlZC1vZmYtaW4tanVzdC0yMC1taW51dGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZ0aGUtZG9sbGFyNjMtYmlsbGlvbi1iaW5hbmNlLWhhY2std2FzLXB1bGxlZC1vZmYtaW4tanVzdC0yMC1taW51dGVzJTJGJTdDVGhlJTIwJTI0Ni4zQiUyMEJpbmFuY2UlMjBoYWNrJTIwd2FzJTIwcHVsbGVkJTIwb2ZmJTIwaW4lMjBqdXN0JTIwMjAlMjBtaW51dGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMDMxNzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAxMiUzQTUwJTNBMDElMjAlMkIwMDAw",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "pubDate": "Fri, 30 Oct 2026 12:50:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
     }
   ]
