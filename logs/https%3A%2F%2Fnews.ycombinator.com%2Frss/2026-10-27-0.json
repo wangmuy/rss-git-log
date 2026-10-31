@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-27",
     "newestItemDate": "2026-10-27",
-    "itemCount": 49,
-    "generatedAt": "2026-10-30T20:53:07.019Z"
+    "itemCount": 51,
+    "generatedAt": "2026-10-31T14:35:47.242Z"
   },
   "items": [
     {
@@ -300,6 +300,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGVzaWduYm9vbS5jb20lMkZ0ZWNobm9sb2d5JTJGdHJlZS1tb3VudGVkLW1hY2hpbmVzLXdlYi1hcHAtdXNlcnMta25vY2stb24td29vZC1yZW1vdGVseSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmRlc2lnbmJvb20uY29tJTJGdGVjaG5vbG9neSUyRnRyZWUtbW91bnRlZC1tYWNoaW5lcy13ZWItYXBwLXVzZXJzLWtub2NrLW9uLXdvb2QtcmVtb3RlbHklMkYlN0NUcmVlLW1vdW50ZWQlMjBtYWNoaW5lcyUyMGNvbm5lY3QlMjB0byUyMHdlYiUyMGFwcCUyMHRvJTIwbGV0JTIwdXNlcnMlMjBrbm9jayUyMG9uJTIwd29vZCUyMHJlbW90ZWx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNTg0OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxMyUzQTAwJTNBMDQlMjAlMkIwMDAw",
       "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
       "pubDate": "Tue, 27 Oct 2026 13:00:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYXRpc2hiLmNvbSUyRm15cmlhZCUyRmxldHMtYnVpbGQtYS1icmFpbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYWF0aXNoYi5jb20lMkZteXJpYWQlMkZsZXRzLWJ1aWxkLWEtYnJhaW4lMkYlN0NTaW1wbGUlMjBjaXJjdWl0cyUyMGNhbiUyMGNyZWF0ZSUyMGNvbXBsZXglMjBiZWhhdmlvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI2MTI1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI3JTIwT2N0JTIwMjAyNiUyMDE2JTNBMDElM0EwNiUyMCUyQjAwMDA",
+      "title": "Simple circuits can create complex behaviors",
+      "pubDate": "Tue, 27 Oct 2026 16:01:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZWJyYS5yb2RlbyUyRmVuJTJGYmxvZyUyRm1hcmVsbGVvJTJGJTdDaHR0cHMlM0ElMkYlMkZ6ZWJyYS5yb2RlbyUyRmVuJTJGYmxvZyUyRm1hcmVsbGVvJTJGJTdDU2hvdyUyMEhOJTNBJTIwTWFyZWxsZW8lMkMlMjBhbiUyMG9wZW4tc291cmNlJTIwc3RvcnklMjBib3glMjBJJTIwYnVpbHQlMjBmb3IlMjBteSUyMGtpZHMlMjB1c2luZyUyMEVTUDMyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAyNjA3NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNyUyME9jdCUyMDIwMjYlMjAxNSUzQTI0JTNBMzYlMjAlMkIwMDAw",
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "pubDate": "Tue, 27 Oct 2026 15:24:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-27-0.json"
     }
   ]

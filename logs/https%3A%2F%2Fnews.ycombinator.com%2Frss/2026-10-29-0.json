@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-29",
     "newestItemDate": "2026-10-29",
-    "itemCount": 55,
-    "generatedAt": "2026-10-31T05:56:10.555Z"
+    "itemCount": 57,
+    "generatedAt": "2026-10-31T14:35:47.241Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbnRyb3BpY3Rob3VnaHRzLmNvbSUyRmhpc3Rvcnktb2YtcGRwLWNvbXB1dGVycyU3Q2h0dHBzJTNBJTJGJTJGZW50cm9waWN0aG91Z2h0cy5jb20lMkZoaXN0b3J5LW9mLXBkcC1jb21wdXRlcnMlN0NCcmllZiUyMEhpc3RvcnklMjBvZiUyMFBEUCUyMENvbXB1dGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjg5MDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTMlM0E1MyUzQTMzJTIwJTJCMDAwMA",
       "title": "Brief History of PDP Computers",
       "pubDate": "Thu, 29 Oct 2026 13:53:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmFiaWFuLmZ5aSUyRjIwMjYlMkYxMCUyRnpvbWJpZS1odW50Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5mYWJpYW4uZnlpJTJGMjAyNiUyRjEwJTJGem9tYmllLWh1bnQuaHRtbCU3Q0h1bnRpbmclMjAnWm9tYmllJTIwQWNjb3VudHMnJTIwaW4lMjBBY3RpdmUlMjBEaXJlY3RvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI5NjcwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDIxJTNBNTYlM0EzMSUyMCUyQjAwMDA",
+      "title": "Hunting 'Zombie Accounts' in Active Directory",
+      "pubDate": "Thu, 29 Oct 2026 21:56:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVkYXRhZXhjaGFuZ2UubWVkaWElMkZsZW8tZGUtbW91cmEtbGVhbi1hd3MlMkYlN0NodHRwcyUzQSUyRiUyRnRoZWRhdGFleGNoYW5nZS5tZWRpYSUyRmxlby1kZS1tb3VyYS1sZWFuLWF3cyUyRiU3Q0FJJTJDJTIwTGVhbiUyQyUyMGFuZCUyMHRoZSUyMEZ1dHVyZSUyMG9mJTIwRm9ybWFsJTIwVmVyaWZpY2F0aW9uJTJDJTIwd2l0aCUyMExlYW4lMjBDcmVhdG9yJTIwTGVvJTIwZGUlMjBNb3VyYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkwNjUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTUlM0EyOSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "pubDate": "Thu, 29 Oct 2026 15:29:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
     }
   ]
