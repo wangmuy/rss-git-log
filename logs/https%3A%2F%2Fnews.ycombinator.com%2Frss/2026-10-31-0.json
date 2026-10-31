@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-31",
     "newestItemDate": "2026-10-31",
-    "itemCount": 13,
-    "generatedAt": "2026-10-31T14:35:47.241Z"
+    "itemCount": 31,
+    "generatedAt": "2026-10-31T20:04:28.092Z"
   },
   "items": [
     {
@@ -83,6 +83,114 @@
     {
       "itemId": "aHR0cHMlM0ElMkYlMkZ2aXRhbGlrLmV0aC5saW1vJTJGZ2VuZXJhbCUyRjIwMjYlMkYxMCUyRjMxJTJGZGlnaXRhbF9taW5pbWFsaXNtLmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpdGFsaWsuZXRoLmxpbW8lMkZnZW5lcmFsJTJGMjAyNiUyRjEwJTJGMzElMkZkaWdpdGFsX21pbmltYWxpc20uaHRtbCU3Q0RpZ2l0YWwlMjBNaW5pbWFsaXNtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTM2NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAwNiUzQTE2JTNBMzYlMjAlMkIwMDAw",
       "title": "Digital Minimalism",
+      "pubDate": "Sat, 31 Oct 2026 06:16:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdGxhc3VtLm5ldCUyRmJsb2clMkZjdmUtMjAyNi05ODQzMi1saW51eC1pcHY0LXRjcC11YWYlN0NodHRwcyUzQSUyRiUyRmF0bGFzdW0ubmV0JTJGYmxvZyUyRmN2ZS0yMDI2LTk4NDMyLWxpbnV4LWlwdjQtdGNwLXVhZiU3Q1RDUCUyMFVzZS1BZnRlci1GcmVlJTNBJTIwQ1ZFLTIwMjYtOTg0MzIlMjAlMkYlMjBDVlNTJTIwOS44JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTkxNDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxOSUzQTE2JTNBMzAlMjAlMkIwMDAw",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "pubDate": "Sat, 31 Oct 2026 19:16:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGFlbW9ub2xvZ3kubmV0JTJGYmxvZyUyRjIwMjYtMTAtMzEtVGhlLUR1dHktb2YtYS1TY2hvbGFyLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kYWVtb25vbG9neS5uZXQlMkZibG9nJTJGMjAyNi0xMC0zMS1UaGUtRHV0eS1vZi1hLVNjaG9sYXIuaHRtbCU3Q1RoZSUyMER1dHklMjBvZiUyMGElMjBTY2hvbGFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTkwNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxOSUzQTA3JTNBMzYlMjAlMkIwMDAw",
+      "title": "The Duty of a Scholar",
+      "pubDate": "Sat, 31 Oct 2026 19:07:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyeWFubWFkZGVuLm5ldCUyRmdwdC01Ni1iZWF0cy1mYWN0b3JpbyUyRiU3Q2h0dHBzJTNBJTJGJTJGcnlhbm1hZGRlbi5uZXQlMkZncHQtNTYtYmVhdHMtZmFjdG9yaW8lMkYlN0NHUFQtNS42JTIwU29sJTIwY2FuJTIwYmVhdCUyMEZhY3RvcmlvJTIwb24lMjBwZWFjZWZ1bCUyMG1vZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMxODg3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDMxJTIwT2N0JTIwMjAyNiUyMDE4JTNBNTAlM0EzNCUyMCUyQjAwMDA",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "pubDate": "Sat, 31 Oct 2026 18:50:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaXZvdGxha2UuaW8lMkZibG9nJTJGaXRzLXRoZS1tZW1vcnktbGF0ZW5jeS1zdHVwaWQlMkYlN0NodHRwcyUzQSUyRiUyRnBpdm90bGFrZS5pbyUyRmJsb2clMkZpdHMtdGhlLW1lbW9yeS1sYXRlbmN5LXN0dXBpZCUyRiU3Q0l0J3MlMjB0aGUlMjBNZW1vcnklMjBMYXRlbmN5JTJDJTIwU3R1cGlkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTg3MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxOCUzQTM4JTNBMTYlMjAlMkIwMDAw",
+      "title": "It's the Memory Latency, Stupid",
+      "pubDate": "Sat, 31 Oct 2026 18:38:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhdm9yb3VzLmNvbSUyRndyaXRpbmclMkZkZW1vc2NlbmVyJTJGJTdDaHR0cHMlM0ElMkYlMkZkYXRhdm9yb3VzLmNvbSUyRndyaXRpbmclMkZkZW1vc2NlbmVyJTJGJTdDSSUyMHBvc3QlMjB0cmFpbmVkJTIwYSUyMG1vZGVsJTIwb24lMjBEZW1vc2NlbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTg0NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxOCUzQTA4JTNBMjQlMjAlMkIwMDAw",
+      "title": "I post trained a model on Demoscenes",
+      "pubDate": "Sat, 31 Oct 2026 18:08:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGZnVsbCUyRjEwLjExNDUlMkYzNzA2NTk4LjM3MTM3NzglN0NodHRwcyUzQSUyRiUyRmRsLmFjbS5vcmclMkZkb2klMkZmdWxsJTJGMTAuMTE0NSUyRjM3MDY1OTguMzcxMzc3OCU3Q1RoZSUyMEltcGFjdCUyMG9mJTIwR2VuZXJhdGl2ZSUyMEFJJTIwb24lMjBDcml0aWNhbCUyMFRoaW5raW5nJTNBJTIwU2VsZi1SZXBvcnRlZCUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzE4NDAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMTglM0EwMiUzQTI5JTIwJTJCMDAwMA",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "pubDate": "Sat, 31 Oct 2026 18:02:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnlhbGUuZWR1JTJGMjAyNiUyRjEwJTJGMzElMkZ3aWxsaWFtLW5vcmRoYXVzLW5vYmVsLWxhdXJlYXRlLXdoby1pbnRlZ3JhdGVkLWVjb25vbWljcy1hbmQtY2xpbWF0ZS1jaGFuZ2UtZGV2b3RlZC15YWxlJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnlhbGUuZWR1JTJGMjAyNiUyRjEwJTJGMzElMkZ3aWxsaWFtLW5vcmRoYXVzLW5vYmVsLWxhdXJlYXRlLXdoby1pbnRlZ3JhdGVkLWVjb25vbWljcy1hbmQtY2xpbWF0ZS1jaGFuZ2UtZGV2b3RlZC15YWxlJTdDV2lsbGlhbSUyME5vcmRoYXVzJTIwaGFzJTIwZGllZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzE4Mzc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMTclM0E1OSUzQTQxJTIwJTJCMDAwMA",
+      "title": "William Nordhaus has died",
+      "pubDate": "Sat, 31 Oct 2026 17:59:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2Fpcm9yZXBvcnQub3JnJTJGcCUyRmVneXB0LWJyYXppbC1pcmFxLWJpbGxib2FyZC1oYWNrJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2Fpcm9yZXBvcnQub3JnJTJGcCUyRmVneXB0LWJyYXppbC1pcmFxLWJpbGxib2FyZC1oYWNrJTdDSGFja2VycyUyMGhpamFjayUyMEVneXB0JTIwaGlnaHdheSUyMGJpbGxib2FyZCUyMGFuZCUyME1hbGF5c2lhbiUyMHNjcmVlbnMlMjB0byUyMHNob3clMjBwb3JuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTgxODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxNyUzQTM2JTNBMDUlMjAlMkIwMDAw",
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "pubDate": "Sat, 31 Oct 2026 17:36:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbHVyYWxpc3RpYy5uZXQlMkYyMDI2JTJGMTAlMkYzMSUyRmJ1cm4tYmVybmUlMkYlMjN1bnZpY3RvcmVkJTdDaHR0cHMlM0ElMkYlMkZwbHVyYWxpc3RpYy5uZXQlMkYyMDI2JTJGMTAlMkYzMSUyRmJ1cm4tYmVybmUlMkYlMjN1bnZpY3RvcmVkJTdDQ29weXJpZ2h0JTIwT2ZmaWNlJTIwaXMlMjByZXN0b3JpbmclMjBjb3B5cmlnaHQlMjB0byUyMHNvbWV0aGluZyUyMHlvdSUyMGhhdmUlMjB0byUyMHdvcmslMjB0byUyMGdldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzE4MDE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMTclM0ExNiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Copyright Office is restoring copyright to something you have to work to get",
+      "pubDate": "Sat, 31 Oct 2026 17:16:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY2llbmNlLm5hc2EuZ292JTJGbWlzc2lvbiUyRnZveWFnZXIlMkZ2b3lhZ2VyLTElMkZ2b3lhZ2VyLTEtd2hhdC1pcy1hLWxpZ2h0LWRheSUyRiU3Q2h0dHBzJTNBJTJGJTJGc2NpZW5jZS5uYXNhLmdvdiUyRm1pc3Npb24lMkZ2b3lhZ2VyJTJGdm95YWdlci0xJTJGdm95YWdlci0xLXdoYXQtaXMtYS1saWdodC1kYXklMkYlN0NXaGF0JTIwaXMlMjBhJTIwbGlnaHQtZGF5JTNGJTIwVGhlJTIwbWlsZXN0b25lJTIwVm95YWdlciUyMDElMjBpcyUyMGNsb3NpbmclMjBpbiUyMG9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTc0MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxNiUzQTA5JTNBNTUlMjAlMkIwMDAw",
+      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+      "pubDate": "Sat, 31 Oct 2026 16:09:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FzaW8uY29tJTJGdXMlMkZ3YXRjaGVzJTJGNTB0aCUyRkhlcml0YWdlJTJGMTk4MHMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYXNpby5jb20lMkZ1cyUyRndhdGNoZXMlMkY1MHRoJTJGSGVyaXRhZ2UlMkYxOTgwcyUyRiU3Q0Nhc2lvJTIwV2F0Y2hlcyUyMG9mJTIwdGhlJTIwMTk4MHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMxNzM2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDMxJTIwT2N0JTIwMjAyNiUyMDE2JTNBMDAlM0E0OCUyMCUyQjAwMDA",
+      "title": "Casio Watches of the 1980s",
+      "pubDate": "Sat, 31 Oct 2026 16:00:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGS29wcGFyLUFJJTJGa29wcGFyLWx0ZS1tb2RlbSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRktvcHBhci1BSSUyRmtvcHBhci1sdGUtbW9kZW0lN0NTaG93JTIwSE4lM0ElMjBBJTIwVVNCLUMlMjBMVEUlMjBtb2RlbSUyMHRoYXQlMjBnaXZlcyUyMG15JTIwY29tcHV0ZXIlMjBhJTIwcGhvbmUlMjBsaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTczMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxNSUzQTU2JTNBNDElMjAlMkIwMDAw",
+      "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+      "pubDate": "Sat, 31 Oct 2026 15:56:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnRhbG9zaW50ZWxsaWdlbmNlLmNvbSUyRmFwcHJhaXNhbC1ieS1haS1tb2RlbC1kcml2ZW4tdmljdGltLXByaW9yaXRpemF0aW9uLWluLXRoZS12b2x0YS1pbmZvc3RlYWxlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy50YWxvc2ludGVsbGlnZW5jZS5jb20lMkZhcHByYWlzYWwtYnktYWktbW9kZWwtZHJpdmVuLXZpY3RpbS1wcmlvcml0aXphdGlvbi1pbi10aGUtdm9sdGEtaW5mb3N0ZWFsZXIlMkYlN0NNYWx3YXJlJTIwdXNlcyUyMExMTXMlMjB0byUyMHJhbmslMjB2aWN0aW1zJTIwYnklMjBob3clMjBtdWNoJTIwdGhleSdyZSUyMHdvcnRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTY1MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxNCUzQTI5JTNBMDMlMjAlMkIwMDAw",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "pubDate": "Sat, 31 Oct 2026 14:29:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXBzZW4uaW8lMkZhbmFseXNlcyUyRnBhcnRpY2xlZGItMS4xLjQlN0NodHRwcyUzQSUyRiUyRmplcHNlbi5pbyUyRmFuYWx5c2VzJTJGcGFydGljbGVkYi0xLjEuNCU3Q0plcHNlbiUzQSUyMFBhcnRpY2xlREIlMjAxLjEuNCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzE2MTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMTMlM0EzOSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "pubDate": "Sat, 31 Oct 2026 13:39:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2VybGVudG9uJTJGYm9vdGdwdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmtlcmxlbnRvbiUyRmJvb3RncHQlN0NTaG93JTIwSE4lM0ElMjBBJTIwbGFuZ3VhZ2UlMjBtb2RlbCUyMHRoYXQlMjBsaXZlcyUyMGluJTIwYSUyMGJvb3QlMjBzZWN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMxNTc4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDMxJTIwT2N0JTIwMjAyNiUyMDEyJTNBNTglM0EyOSUyMCUyQjAwMDA",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "pubDate": "Sat, 31 Oct 2026 12:58:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFyYW1ldGVyLmFpJTJGbGFicyUyRndlLWZvdW5kLWEtZ2FwLWF0LW9wZW5haSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnBhcmFtZXRlci5haSUyRmxhYnMlMkZ3ZS1mb3VuZC1hLWdhcC1hdC1vcGVuYWklN0NEbyUyMHRoZSUyMG1hdGglM0ElMjBIb3clMjB3ZSUyMHRvb2slMjBvdmVyJTIwQ2hhdEdQVCUyMGFjY291bnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTQ2OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxMCUzQTMwJTNBMTElMjAlMkIwMDAw",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "pubDate": "Sat, 31 Oct 2026 10:30:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaWVmZWQud29ybGQlMkZwb3N0JTJGMTUwMzM5NCU3Q2h0dHBzJTNBJTJGJTJGcGllZmVkLndvcmxkJTJGcG9zdCUyRjE1MDMzOTQlN0NNb2xseSUyMChTaWduYWwlMjBmb3JrKSUyMGhhcyUyMG5vdCUyMGJlZW4lMjB1cGRhdGVkJTIwc2luY2UlMjAzJTIwbW9udGhzJTIwYW5kJTIwaXMlMjB2dWxuZXJhYmxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTQ2NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxMCUzQTIzJTNBNDElMjAlMkIwMDAw",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "pubDate": "Sat, 31 Oct 2026 10:23:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aXRhbGlrLmV0aC5saW1vJTJGZ2VuZXJhbCUyRjIwMjYlMkYxMCUyRjMxJTJGZGlnaXRhbF9taW5pbWFsaXNtLmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpdGFsaWsuZXRoLmxpbW8lMkZnZW5lcmFsJTJGMjAyNiUyRjEwJTJGMzElMkZkaWdpdGFsX21pbmltYWxpc20uaHRtbCU3Q0RpZ2l0YWwlMjBtaW5pbWFsaXNtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTM2NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAwNiUzQTE2JTNBMzYlMjAlMkIwMDAw",
+      "title": "Digital minimalism",
       "pubDate": "Sat, 31 Oct 2026 06:16:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
     }

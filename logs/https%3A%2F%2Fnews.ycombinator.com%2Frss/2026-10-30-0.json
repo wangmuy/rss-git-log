@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-30",
     "newestItemDate": "2026-10-30",
-    "itemCount": 45,
-    "generatedAt": "2026-10-31T14:35:47.241Z"
+    "itemCount": 46,
+    "generatedAt": "2026-10-31T20:04:28.092Z"
   },
   "items": [
     {
@@ -276,6 +276,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZvdXQtbWFyZ2lucyUyRmtlZXBpbmctYm9uZmlyZXMtbGl0JTdDaHR0cHMlM0ElMkYlMkZ3d3cuaGlzdG9yeXRvZGF5LmNvbSUyRmFyY2hpdmUlMkZvdXQtbWFyZ2lucyUyRmtlZXBpbmctYm9uZmlyZXMtbGl0JTdDS2VlcGluZyUyMHRoZSUyMEJvbmZpcmVzJTIwTGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMDAxNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAzMCUyME9jdCUyMDIwMjYlMjAwNSUzQTI0JTNBNTElMjAlMkIwMDAw",
       "title": "Keeping the Bonfires Lit",
       "pubDate": "Fri, 30 Oct 2026 05:24:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGNHlrNSUyRkdob3N0bWFuJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGNHlrNSUyRkdob3N0bWFuJTdDU2hvdyUyMEhOJTNBJTIwR2hvc3RtYW4lMjAlRTIlODAlOTMlMjBBJTIwZmFzdCUyQyUyMGtleWJvYXJkLWRyaXZlbiUyMFRVSSUyMEFQSSUyMGNsaWVudCUyMGFuZCUyMHdlYmhvb2slMjBpbnNwZWN0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMwMDkwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDMwJTIwT2N0JTIwMjAyNiUyMDA3JTNBNDglM0E0MCUyMCUyQjAwMDA",
+      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+      "pubDate": "Fri, 30 Oct 2026 07:48:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-30-0.json"
     }
   ]
