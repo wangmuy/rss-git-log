@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-29",
     "newestItemDate": "2026-10-29",
-    "itemCount": 61,
-    "generatedAt": "2026-11-01T06:23:11.867Z"
+    "itemCount": 63,
+    "generatedAt": "2026-11-01T15:16:47.438Z"
   },
   "items": [
     {
@@ -372,6 +372,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZjdWx0dXJlJTJGMjAyNiUyRjEwJTJGZWRnYXItYWxsYW4tcG9lLXBvZW1zLXN0b3JpZXMtbW9zdC1pbmZsdWVudGlhbC1hbWVyaWNhbi13cml0ZXItZGVhdGgtaG9ycm9yLWRldGVjdGl2ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZjdWx0dXJlJTJGMjAyNiUyRjEwJTJGZWRnYXItYWxsYW4tcG9lLXBvZW1zLXN0b3JpZXMtbW9zdC1pbmZsdWVudGlhbC1hbWVyaWNhbi13cml0ZXItZGVhdGgtaG9ycm9yLWRldGVjdGl2ZS5odG1sJTdDRWRnYXIlMjBBbGxhbiUyMFBvZSUyQyUyMFF1aW50ZXNzZW50aWFsJTIwQW1lcmljYW4lMjBXcml0ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDI4NDc4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI5JTIwT2N0JTIwMjAyNiUyMDA1JTNBMTAlM0EwMCUyMCUyQjAwMDA",
       "title": "Edgar Allan Poe, Quintessential American Writer",
       "pubDate": "Thu, 29 Oct 2026 05:10:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvdXRjcm9wLnJvY2tzJTJGJTdDaHR0cHMlM0ElMkYlMkZvdXRjcm9wLnJvY2tzJTJGJTdDU2hvdyUyMEhOJTNBJTIwUG9pbnQlMjB5b3VyJTIwY2FtZXJhJTIwYXQlMjBhJTIwbGFuZHNjYXBlJTIwdG8lMjBsZWFybiUyMGFib3V0JTIwaXRzJTIwZ2VvbG9neSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkwNTMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTUlM0EyMiUzQTQxJTIwJTJCMDAwMA",
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "pubDate": "Thu, 29 Oct 2026 15:22:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RnUVJtU2xjVHE5YyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEZ1FSbVNsY1RxOWMlN0NObyUyMEFJJTJDJTIwNTIlMjBtaW4uJTIwQnVpbGQlMjBhbGwlMjBMaW51eCUyMEZpbGVzJTIwdXRpbHMlMjBpbiUyMEMlMjBieSUyMEhhbmQlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMjkwNDgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjklMjBPY3QlMjAyMDI2JTIwMTUlM0EyMCUzQTA0JTIwJTJCMDAwMA",
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "pubDate": "Thu, 29 Oct 2026 15:20:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-29-0.json"
     }
   ]

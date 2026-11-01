@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-01",
     "newestItemDate": "2026-11-01",
-    "itemCount": 4,
-    "generatedAt": "2026-11-01T06:23:11.866Z"
+    "itemCount": 13,
+    "generatedAt": "2026-11-01T15:16:47.438Z"
   },
   "items": [
     {
@@ -30,6 +30,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZiYnJvdXRlci5jb20lMkZiYnJvdXRlciUyRmJlbi1lYXRlci1zYXAtMSU3Q2h0dHBzJTNBJTJGJTJGYmJyb3V0ZXIuY29tJTJGYmJyb3V0ZXIlMkZiZW4tZWF0ZXItc2FwLTElN0NTaG93JTIwSE4lM0ElMjBCQlJvdXRlciUyMCVFMiU4MCU5MyUyMEJlbiUyMEVhdGVyJ3MlMjA4LWJpdCUyMGNvbXB1dGVyJTJDJTIwc2ltdWxhdGVkJTIwb24lMjAzRCUyMGJyZWFkYm9hcmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjE1MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAwMCUzQTEwJTNBMzAlMjAlMkIwMDAw",
       "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
       "pubDate": "Sun, 01 Nov 2026 00:10:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZiaWctdGVjaCUyRnBvbGljZS1jaGllZi1waHlzaWNhbGx5LXVucGx1Z3MtZmxvY2stY2FtZXJhcy1hZnRlci10aGUtY29tcGFueS1pZ25vcmVzLWNvbnRyYWN0LWNhbmNlbGxhdGlvbi1jaXR5LXRha2VzLW1hdHRlcnMtaW50by1pdHMtb3duLWhhbmRzLWFtaWQtcHJpdmFjeS1jb250cm92ZXJzaWVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZiaWctdGVjaCUyRnBvbGljZS1jaGllZi1waHlzaWNhbGx5LXVucGx1Z3MtZmxvY2stY2FtZXJhcy1hZnRlci10aGUtY29tcGFueS1pZ25vcmVzLWNvbnRyYWN0LWNhbmNlbGxhdGlvbi1jaXR5LXRha2VzLW1hdHRlcnMtaW50by1pdHMtb3duLWhhbmRzLWFtaWQtcHJpdmFjeS1jb250cm92ZXJzaWVzJTdDUG9saWNlJTIwY2hpZWYlMjB1bnBsdWdzJTIwRmxvY2slMjBjYW1lcmFzJTIwYWZ0ZXIlMjBjb21wYW55JTIwaWdub3JlcyUyMGNvbnRyYWN0JTIwY2FuY2VsbGF0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjYxMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAxNCUzQTM2JTNBMTMlMjAlMkIwMDAw",
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "pubDate": "Sun, 01 Nov 2026 14:36:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZ0ZWNobm9sb2d5JTJGY29tbWVudHMlMkYxeGwycHIzJTJGbGVub3Zvc19lbmNyeXB0ZWRfZmluZ2VycHJpbnRfdXNiX2RyaXZlX2lzX2p1c3QlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWRkaXQuY29tJTJGciUyRnRlY2hub2xvZ3klMkZjb21tZW50cyUyRjF4bDJwcjMlMkZsZW5vdm9zX2VuY3J5cHRlZF9maW5nZXJwcmludF91c2JfZHJpdmVfaXNfanVzdCUyRiU3Q0xlbm92bydzJTIwJ2VuY3J5cHRlZCclMjBmaW5nZXJwcmludCUyMFVTQiUyMGlzJTIwanVzdCUyMGFuJTIwdW5lbmNyeXB0ZWQlMjBTRCUyMGNhcmQlMjBpbiUyMGElMjBjYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjYwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAxNCUzQTM0JTNBNDMlMjAlMkIwMDAw",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "pubDate": "Sun, 01 Nov 2026 14:34:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3ZxLmRlJTJGYmxvZyUyRnBvc3RpbmdzJTJGMjAyNi0xMC0zMSUyRjAlMkZQT1NUSU5HLWVuLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1vdnEuZGUlMkZibG9nJTJGcG9zdGluZ3MlMkYyMDI2LTEwLTMxJTJGMCUyRlBPU1RJTkctZW4uaHRtbCU3Q05vdmVsbGFzJTIwd2l0aCUyMEdyb2ZmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjU2OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAxMyUzQTUxJTNBNDElMjAlMkIwMDAw",
+      "title": "Novellas with Groff",
+      "pubDate": "Sun, 01 Nov 2026 13:51:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudG9tc2hhcmR3YXJlLmNvbSUyRnRlY2gtaW5kdXN0cnklMkZhcnRpZmljaWFsLWludGVsbGlnZW5jZSUyRmFpLWFnZW50LXN3YXJtcy11bmxlYXNoZWQtaW4tbWluZWNyYWZ0LXRvLWJ1aWxkLWEtdGhyaXZpbmctY2l2aWxpemF0aW9uLTUwLWFnZW50LXRlYW1zLWZhaWwtYWZ0ZXItZmFsbGluZy1pbnRvLXBhcmFseXppbmctYnVyZWF1Y3JhY3klN0NodHRwcyUzQSUyRiUyRnd3dy50b21zaGFyZHdhcmUuY29tJTJGdGVjaC1pbmR1c3RyeSUyRmFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTJGYWktYWdlbnQtc3dhcm1zLXVubGVhc2hlZC1pbi1taW5lY3JhZnQtdG8tYnVpbGQtYS10aHJpdmluZy1jaXZpbGl6YXRpb24tNTAtYWdlbnQtdGVhbXMtZmFpbC1hZnRlci1mYWxsaW5nLWludG8tcGFyYWx5emluZy1idXJlYXVjcmFjeSU3Q0FJJTIwYWdlbnQlMjBzd2FybXMlMjBpbiUyME1pbmVjcmFmdCUyMGZhaWwlMjB0byUyMGJ1aWxkJTIwY2l2aWxpemF0aW9uJTJDJTIwZHJvd24lMjBpbiUyMGJ1cmVhdWNyYWN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjU2NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAxMyUzQTQ3JTNBMjQlMjAlMkIwMDAw",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "pubDate": "Sun, 01 Nov 2026 13:47:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjM5MzAyJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjEwLjM5MzAyJTdDUHJvdmluZyUyMGFuZCUyMEltcHJvdmluZyUyMHRoZSUyMFBsYXRvbmljJTIwUmVwcmVzZW50YXRpb24lMjBIeXBvdGhlc2lzJTIwd2l0aCUyMEpFUEFzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjU0NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAxMyUzQTI0JTNBNDklMjAlMkIwMDAw",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "pubDate": "Sun, 01 Nov 2026 13:24:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuc3NkYy5nc2ZjLm5hc2EuZ292JTJGcGxhbmV0YXJ5JTJGbHVuYXIlMkZtb29uX3RyZWUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbnNzZGMuZ3NmYy5uYXNhLmdvdiUyRnBsYW5ldGFyeSUyRmx1bmFyJTJGbW9vbl90cmVlLmh0bWwlN0NUaGUlMjAlMjJNb29uJTIwVHJlZXMlMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMyNTQxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAxJTIwTm92JTIwMjAyNiUyMDEzJTNBMjAlM0EyMyUyMCUyQjAwMDA",
+      "title": "The \"Moon Trees\"",
+      "pubDate": "Sun, 01 Nov 2026 13:20:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmlzaXRub3J3YXkuY29tJTJGcGxhbi15b3VyLXRyaXAlMkZ0cmF2ZWwtdGlwcy1hLXolMkZub3J3ZWdpYW4tc2NlbmljLXJvdXRlcyUyRndvcmxkcy1iZXN0LXRvaWxldHMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy52aXNpdG5vcndheS5jb20lMkZwbGFuLXlvdXItdHJpcCUyRnRyYXZlbC10aXBzLWEteiUyRm5vcndlZ2lhbi1zY2VuaWMtcm91dGVzJTJGd29ybGRzLWJlc3QtdG9pbGV0cyUyRiU3Q05vcndheSUyMG1ha2VzJTIwc2hpdGhvdXNlcyUyMGdyZWF0JTIwYWdhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMyNDM4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAxJTIwTm92JTIwMjAyNiUyMDEwJTNBNDclM0E1OCUyMCUyQjAwMDA",
+      "title": "Norway makes shithouses great again",
+      "pubDate": "Sun, 01 Nov 2026 10:47:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4bi0tNjlmMzFsNHQ1N2MwbWFnNGI2MTNoLnhuLS03dWg0ODk4bXNqYXNvJTJGJUYwJTlGJTg2JTg2JUYwJTlGJTg2JTgzJUYwJTlGJTg1JUI1JTJGJTdDaHR0cHMlM0ElMkYlMkZ4bi0tNjlmMzFsNHQ1N2MwbWFnNGI2MTNoLnhuLS03dWg0ODk4bXNqYXNvJTJGJUYwJTlGJTg2JTg2JUYwJTlGJTg2JTgzJUYwJTlGJTg1JUI1JTJGJTdDRG9tYWluJTIwaGFja3MlMjB3aXRoJTIwdW51c3VhbCUyMFVuaWNvZGUlMjBjaGFyYWN0ZXJzJTIwKDIwMTgpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjQzNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAxMCUzQTQ0JTNBMjAlMjAlMkIwMDAw",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "pubDate": "Sun, 01 Nov 2026 10:44:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub2xhbmxhd3Nvbi5jb20lMkYyMDI2JTJGMTAlMkYyOCUyRnRoZS1haS1jb3N0LW9mLWphdmFzY3JpcHQtZnJhbWV3b3JrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbm9sYW5sYXdzb24uY29tJTJGMjAyNiUyRjEwJTJGMjglMkZ0aGUtYWktY29zdC1vZi1qYXZhc2NyaXB0LWZyYW1ld29ya3MlMkYlN0NUaGUlMjBBSSUyMGNvc3QlMjBvZiUyMEphdmFTY3JpcHQlMjBmcmFtZXdvcmtzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjMwODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAwNiUzQTA2JTNBMTklMjAlMkIwMDAw",
+      "title": "The AI cost of JavaScript frameworks",
+      "pubDate": "Sun, 01 Nov 2026 06:06:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
     }
   ]
