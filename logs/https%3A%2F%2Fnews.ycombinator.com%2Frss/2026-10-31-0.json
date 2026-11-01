@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-31",
     "newestItemDate": "2026-10-31",
-    "itemCount": 31,
-    "generatedAt": "2026-10-31T20:04:28.092Z"
+    "itemCount": 44,
+    "generatedAt": "2026-11-01T06:23:11.866Z"
   },
   "items": [
     {
@@ -192,6 +192,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2aXRhbGlrLmV0aC5saW1vJTJGZ2VuZXJhbCUyRjIwMjYlMkYxMCUyRjMxJTJGZGlnaXRhbF9taW5pbWFsaXNtLmh0bWwlN0NodHRwcyUzQSUyRiUyRnZpdGFsaWsuZXRoLmxpbW8lMkZnZW5lcmFsJTJGMjAyNiUyRjEwJTJGMzElMkZkaWdpdGFsX21pbmltYWxpc20uaHRtbCU3Q0RpZ2l0YWwlMjBtaW5pbWFsaXNtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTM2NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAwNiUzQTE2JTNBMzYlMjAlMkIwMDAw",
       "title": "Digital minimalism",
       "pubDate": "Sat, 31 Oct 2026 06:16:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbWFyemlvbi5naXRodWIuaW8lMkZLU1JUJTJGJTdDaHR0cHMlM0ElMkYlMkZlbWFyemlvbi5naXRodWIuaW8lMkZLU1JUJTJGJTdDQ29uc3RydWN0aW5nJTIwYSUyMFF1aW5lJTIwZnJvbSUyMEtsZWVuZSdzJTIwU2Vjb25kJTIwUmVjdXJzaW9uJTIwVGhlb3JlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzIxNDM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMjMlM0E1NSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "pubDate": "Sat, 31 Oct 2026 23:55:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmVhcmx5LWVsZWN0cmljLXZlaGljbGVzJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmVhcmx5LWVsZWN0cmljLXZlaGljbGVzJTdDV2hlbiUyMGVsZWN0cmljJTIwY2FycyUyMHdlcmUlMjBmb3IlMjB3b21lbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzIxMTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMjMlM0EwOCUzQTEyJTIwJTJCMDAwMA",
+      "title": "When electric cars were for women",
+      "pubDate": "Sat, 31 Oct 2026 23:08:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1dmRuNy5naXRodWIuaW8lMkZhbHRvaWRzLXByb2plY3QlMkYlN0NodHRwcyUzQSUyRiUyRnV2ZG43LmdpdGh1Yi5pbyUyRmFsdG9pZHMtcHJvamVjdCUyRiU3Q0FsdG9pZHMlMjBQcm9qZWN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjEwNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAyMiUzQTU0JTNBNTUlMjAlMkIwMDAw",
+      "title": "Altoids Project",
+      "pubDate": "Sat, 31 Oct 2026 22:54:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ3VyZWdvZGV2byUyRm1lbWRvb3IlMkZ0cmVlJTJGbWFpbiUyRmV4YW1wbGVzJTJGd29ya2Zsb3dzJTJGdGVhbS1zb2x2ZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmd1cmVnb2Rldm8lMkZtZW1kb29yJTJGdHJlZSUyRm1haW4lMkZleGFtcGxlcyUyRndvcmtmbG93cyUyRnRlYW0tc29sdmUlN0NNZW1kb29yJTNBJTIwQSUyMHRlYW0lMjBvZiUyMDUlMjBRd2VuMy44LTI3QiUyMG1vZGVscyUyMGJlYXRzJTIwRmFibGUlMjA1JTIwb24lMjBMaXZlQ29kZUJlbmNoJTIwSGFyZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzIwOTk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMjIlM0E0NiUzQTEyJTIwJTJCMDAwMA",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "pubDate": "Sat, 31 Oct 2026 22:46:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc2NpZW5jZS1uYXR1cmUlMkZpdGFsaWFuLWZhcm1lci1mb3VuZC11bmtub3duLXNlZWRzLWF0dGljLXdpdGgtbm90aGluZy1sb3NlLXBsYW50ZWQtdGhlbS1yZXN1bHQtYmlibGljYWwtMTgwOTg5NjQ0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc2NpZW5jZS1uYXR1cmUlMkZpdGFsaWFuLWZhcm1lci1mb3VuZC11bmtub3duLXNlZWRzLWF0dGljLXdpdGgtbm90aGluZy1sb3NlLXBsYW50ZWQtdGhlbS1yZXN1bHQtYmlibGljYWwtMTgwOTg5NjQ0JTJGJTdDQW4lMjBJdGFsaWFuJTIwZmFybWVyJTIwZm91bmQlMjBzb21lJTIwdW5rbm93biUyMHNlZWRzJTIwaW4lMjBoaXMlMjBhdHRpYyUyMGFuZCUyMHBsYW50ZWQlMjB0aGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjA5NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAyMiUzQTQxJTNBMDYlMjAlMkIwMDAw",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "pubDate": "Sat, 31 Oct 2026 22:41:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmtleXZhbi5uZXQlMkZwJTJGYWktdGV4dC13YXRlcm1hcmtpbmctYW5kLXF1YWxpdHklN0NodHRwcyUzQSUyRiUyRmJsb2cua2V5dmFuLm5ldCUyRnAlMkZhaS10ZXh0LXdhdGVybWFya2luZy1hbmQtcXVhbGl0eSU3Q0FJJTIwdGV4dCUyMHdhdGVybWFya2luZyUyMGFuZCUyMHF1YWxpdHklMjBsb3NzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjA1OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAyMSUzQTUwJTNBMTMlMjAlMkIwMDAw",
+      "title": "AI text watermarking and quality loss",
+      "pubDate": "Sat, 31 Oct 2026 21:50:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZWxwLm9wZW5haS5jb20lMkZlbiUyRmFydGljbGVzJTJGMjAwMDE2MjUtdW5kZXJzdGFuZGluZy1jaGF0Z3B0LWFuZC1jb2RleC11c2FnZS1saW1pdHMlN0NodHRwcyUzQSUyRiUyRmhlbHAub3BlbmFpLmNvbSUyRmVuJTJGYXJ0aWNsZXMlMkYyMDAwMTYyNS11bmRlcnN0YW5kaW5nLWNoYXRncHQtYW5kLWNvZGV4LXVzYWdlLWxpbWl0cyU3Q0NoYXRHUFQlMjBhbmQlMjBDb2RleCUyMHVzYWdlJTIwbGltaXRzJTIwbWVyZ2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzIwNTg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMjElM0E0OSUzQTA3JTIwJTJCMDAwMA",
+      "title": "ChatGPT and Codex usage limits merging",
+      "pubDate": "Sat, 31 Oct 2026 21:49:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRmN1bHR1cmUlMkZ0aGUtd2Vla2VuZC1lc3NheSUyRmR1c3Rpbi1ob2ZmbWFuLW9uLXN1cnZpdmluZy10aGUtZ3JhZHVhdGUlN0NodHRwcyUzQSUyRiUyRnd3dy5uZXd5b3JrZXIuY29tJTJGY3VsdHVyZSUyRnRoZS13ZWVrZW5kLWVzc2F5JTJGZHVzdGluLWhvZmZtYW4tb24tc3Vydml2aW5nLXRoZS1ncmFkdWF0ZSU3Q1N1cnZpdmluZyUyMCUyMlRoZSUyMEdyYWR1YXRlJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTk1NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAyMCUzQTAyJTNBMDYlMjAlMkIwMDAw",
+      "title": "Surviving \"The Graduate\"",
+      "pubDate": "Sat, 31 Oct 2026 20:02:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYXJwYXRoeS5iZWFyYmxvZy5kZXYlMkZoYWNrZXItdHViZSUyRiU3Q2h0dHBzJTNBJTJGJTJGa2FycGF0aHkuYmVhcmJsb2cuZGV2JTJGaGFja2VyLXR1YmUlMkYlN0NIYWNrZXJUdWJlJTNBJTIwWW91VHViZSUyMGJ1aWx0JTIwZnJvbSUyMHZpZGVvcyUyMHJlY29tbWVuZGVkJTIwYnklMjBITiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzE5NTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMTklM0E1NiUzQTUzJTIwJTJCMDAwMA",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "pubDate": "Sat, 31 Oct 2026 19:56:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmppYWhhb3NoYW8xJTJGc3RhdHVzJTJGMjExNjQ3NTkyMjE5MDkyMjA4OCU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZqaWFoYW9zaGFvMSUyRnN0YXR1cyUyRjIxMTY0NzU5MjIxOTA5MjIwODglN0NBbnRocm9waWMlMjBibG9ja3MlMjB1c2VycyUyMGZvciUyMGFueXRoaW5nJTIwdG91Y2hpbmclMjB0cmFpbmluZyUyMGxhcmdlciUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzE5MzU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMTklM0EzOSUzQTE5JTIwJTJCMDAwMA",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "pubDate": "Sat, 31 Oct 2026 19:39:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcG95cmF6LmdpdGh1Yi5pbyUyRm5lcy1jb250cmEtdXMlMkYlN0NodHRwcyUzQSUyRiUyRmVwb3lyYXouZ2l0aHViLmlvJTJGbmVzLWNvbnRyYS11cyUyRiU3Q1Nob3clMjBITiUzQSUyME5FUyUyMENvbnRyYSUyMCgxOTg3KSUyMHBvcnQlMjAoQVNNJTIwJUUyJTgwJTkzJTNFJTIwQyUyMGFuZCUyMHRoZW4lMjBDJTIwJUUyJTgwJTkzJTNFJTIwV2ViQXNzZW1ibHkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTkxNjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxOSUzQTE4JTNBNDglMjAlMkIwMDAw",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "pubDate": "Sat, 31 Oct 2026 19:18:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdWxseWNoYXJnZWQuc2hvdyUyRnBvZGNhc3RzJTJGcG9kY2FzdC0zNjEtd2h5LWVsZWN0cmlmaWNhdGlvbi1jb3VsZC1jdXQtZ2xvYmFsLWVuZXJneS11c2UtaW4taGFsZiUyRiU3Q2h0dHBzJTNBJTJGJTJGZnVsbHljaGFyZ2VkLnNob3clMkZwb2RjYXN0cyUyRnBvZGNhc3QtMzYxLXdoeS1lbGVjdHJpZmljYXRpb24tY291bGQtY3V0LWdsb2JhbC1lbmVyZ3ktdXNlLWluLWhhbGYlMkYlN0NFbGVjdHJpZmljYXRpb24lMjBDb3VsZCUyMEN1dCUyMEdsb2JhbCUyMEVuZXJneSUyMFVzZSUyMGluJTIwSGFsZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzE5MTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMTklM0ExMyUzQTM0JTIwJTJCMDAwMA",
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "pubDate": "Sat, 31 Oct 2026 19:13:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaXZvdGxha2UuaW8lMkZibG9nJTJGaXRzLXRoZS1tZW1vcnktbGF0ZW5jeS1zdHVwaWQlMkYlN0NodHRwcyUzQSUyRiUyRnBpdm90bGFrZS5pbyUyRmJsb2clMkZpdHMtdGhlLW1lbW9yeS1sYXRlbmN5LXN0dXBpZCUyRiU3Q0l0J3MlMjB0aGUlMjBtZW1vcnklMjBsYXRlbmN5JTJDJTIwc3R1cGlkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMTg3MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAzMSUyME9jdCUyMDIwMjYlMjAxOCUzQTM4JTNBMTYlMjAlMkIwMDAw",
+      "title": "It's the memory latency, stupid",
+      "pubDate": "Sat, 31 Oct 2026 18:38:16 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
     }
   ]
