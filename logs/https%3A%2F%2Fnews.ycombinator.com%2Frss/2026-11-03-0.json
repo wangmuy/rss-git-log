@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-03",
     "newestItemDate": "2026-11-03",
-    "itemCount": 7,
-    "generatedAt": "2026-11-03T06:58:47.268Z"
+    "itemCount": 26,
+    "generatedAt": "2026-11-03T16:20:39.197Z"
   },
   "items": [
     {
@@ -48,6 +48,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmaW5hbmNlLnlhaG9vLmNvbSUyRm1hcmtldHMlMkZhcnRpY2xlJTJGdGhlLWludGVsLXN0b2NrLWNvbGxhcHNlLWlzLWdldHRpbmctd29yc2UtLWFuZC10aGUtMzctdHJpbGxpb24tY2hpcC1yb3V0LWlzLXNwcmVhZGluZy0yMTIxNTQ5NDcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZmluYW5jZS55YWhvby5jb20lMkZtYXJrZXRzJTJGYXJ0aWNsZSUyRnRoZS1pbnRlbC1zdG9jay1jb2xsYXBzZS1pcy1nZXR0aW5nLXdvcnNlLS1hbmQtdGhlLTM3LXRyaWxsaW9uLWNoaXAtcm91dC1pcy1zcHJlYWRpbmctMjEyMTU0OTQ3Lmh0bWwlN0NJbnRlbCUyMHN0b2NrJTIwY29sbGFwc2UlMjB3b3JzZW5zJTIwYXMlMjAlMjQzLjVUJTIwY2hpcCUyMHJvdXQlMjBzcHJlYWRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNDYxNTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAwMCUzQTA4JTNBNTMlMjAlMkIwMDAw",
       "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
       "pubDate": "Tue, 03 Nov 2026 00:08:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVpbGkuYWklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5xdWlsaS5haSUyRiU3Q1F1aWxpJTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1MzQ3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE1JTNBNDklM0EwMiUyMCUyQjAwMDA",
+      "title": "Quili AI",
+      "pubDate": "Tue, 03 Nov 2026 15:49:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25jZXB0cy5sYXhtZW5hLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGY29uY2VwdHMubGF4bWVuYS5jb20lMkYlN0NTaG93JTIwSE4lM0ElMjBJbnRlcmFjdGl2ZSUyMG5vdGVzJTIwb24lMjBSTEhGJTJDJTIwYXR0ZW50aW9uJTJDJTIwTG9SQSUyMGFuZCUyMExMTSUyMGV2YWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTM0NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNSUzQTQ4JTNBMzUlMjAlMkIwMDAw",
+      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+      "pubDate": "Tue, 03 Nov 2026 15:48:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoaXNzaW5na2l0dHkuY29tJTJGaGFja2VyLWNodXJuJTdDaHR0cHMlM0ElMkYlMkZoaXNzaW5na2l0dHkuY29tJTJGaGFja2VyLWNodXJuJTdDU2hvdyUyMEhOJTNBJTIwSGFja2VyQ2h1cm4lMjAlRTIlODAlOTMlMjB3aGljaCUyMFNhYVMlMjB0b29scyUyMEhOJTIwd2FudHMlMjB0byUyMGNhbmNlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUzMzg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTUlM0E0MSUzQTUyJTIwJTJCMDAwMA",
+      "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
+      "pubDate": "Tue, 03 Nov 2026 15:41:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob21vc2FiaWVucy5zdWJzdGFjay5jb20lMkZwJTJGbm8tYnJvdGhlci1vZi1taW5lLXdpbGwtcGxheS10aGUlN0NodHRwcyUzQSUyRiUyRmhvbW9zYWJpZW5zLnN1YnN0YWNrLmNvbSUyRnAlMkZuby1icm90aGVyLW9mLW1pbmUtd2lsbC1wbGF5LXRoZSU3Q05vJTIwQnJvdGhlciUyMG9mJTIwTWluZSUyMFdpbGwlMjBQbGF5JTIwdGhlJTIwRmx1dGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1MzM2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE1JTNBNDAlM0EwNCUyMCUyQjAwMDA",
+      "title": "No Brother of Mine Will Play the Flute",
+      "pubDate": "Tue, 03 Nov 2026 15:40:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3JkdG9vdHMuYmVhcmJsb2cuZGV2JTJGYWktaXMtZGVzdHJveWluZy1teS1jcy1kZWdyZWUlMkYlN0NodHRwcyUzQSUyRiUyRmxvcmR0b290cy5iZWFyYmxvZy5kZXYlMkZhaS1pcy1kZXN0cm95aW5nLW15LWNzLWRlZ3JlZSUyRiU3Q0FJJTIwaXMlMjBkZXN0cm95aW5nJTIwbXklMjBDUyUyMGRlZ3JlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUzMzAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTUlM0EzNSUzQTA2JTIwJTJCMDAwMA",
+      "title": "AI is destroying my CS degree",
+      "pubDate": "Tue, 03 Nov 2026 15:35:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUzMjYxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUzMjYxJTdDU2hvdyUyMEhOJTNBJTIwS2lyaSUyMCVFMiU4MCU5MyUyMGFuJTIwb3Blbi1zb3VyY2UlMjBjb250YWluZXIlMjBydW50aW1lJTIwaW4lMjBSdXN0JTJDJTIwRG9ja2VyJTIwcnVuJTIwaW4lMjAxOCUyMG1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTMyNjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNSUzQTMxJTNBMzglMjAlMkIwMDAw",
+      "title": "Show HN: Kiri – an open-source container runtime in Rust, Docker run in 18 ms",
+      "pubDate": "Tue, 03 Nov 2026 15:31:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRnByb2R1Y3RzLWFuZC1wbGF0Zm9ybXMlMkZwcm9kdWN0cyUyRmVkdWNhdGlvbiUyRmFpLWxlYXJuaW5nLWVyYS11cGRhdGVzLTIwMjYlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ29vZ2xlJTJGcHJvZHVjdHMtYW5kLXBsYXRmb3JtcyUyRnByb2R1Y3RzJTJGZWR1Y2F0aW9uJTJGYWktbGVhcm5pbmctZXJhLXVwZGF0ZXMtMjAyNiUyRiU3Q0Rlc2lnbmluZyUyMHJlc3BvbnNpYmxlJTIwQUklMjBmb3IlMjBsZWFybmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUzMTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTUlM0EyNSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Designing responsible AI for learning",
+      "pubDate": "Tue, 03 Nov 2026 15:25:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWxzaGFuLmdpdGh1Yi5pbyUyRnRpbnktYmFzaWMlMkYlN0NodHRwcyUzQSUyRiUyRmRpbHNoYW4uZ2l0aHViLmlvJTJGdGlueS1iYXNpYyUyRiU3Q1RpbnklMjBCYXNpYyUyMGZvciUyMEFyZHVpbm8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1MzA3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE1JTNBMTclM0EwNyUyMCUyQjAwMDA",
+      "title": "Tiny Basic for Arduino",
+      "pubDate": "Tue, 03 Nov 2026 15:17:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTXV2b24lMkZvY3RvbWluZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk11dm9uJTJGb2N0b21pbmQlN0NPY3RvbWluZCUyMCVFMiU4MCU5MyUyMG9wZW4tc291cmNlJTIwQUklMjBoYXJuZXNzJTIwdGhhdCUyMHNhdmVzJTIweW91ciUyMHRva2VucyUyQyUyMHN0YXRpYyUyMHJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1Mjg5OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE1JTNBMDIlM0E1OCUyMCUyQjAwMDA",
+      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "pubDate": "Tue, 03 Nov 2026 15:02:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbG9vb2guZ2l0aHViLmlvJTJGMjAxOCUyRjA2JTJGMTclMkZoYW5kbGVzLXZzLXBvaW50ZXJzLmh0bWwlN0NodHRwcyUzQSUyRiUyRmZsb29vaC5naXRodWIuaW8lMkYyMDE4JTJGMDYlMkYxNyUyRmhhbmRsZXMtdnMtcG9pbnRlcnMuaHRtbCU3Q0hhbmRsZXMlMjBhcmUlMjB0aGUlMjBiZXR0ZXIlMjBwb2ludGVycyUyMCgyMDE4KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUyNzY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTQlM0E1NCUzQTMwJTIwJTJCMDAwMA",
+      "title": "Handles are the better pointers (2018)",
+      "pubDate": "Tue, 03 Nov 2026 14:54:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYW1lc3BhY2Uuc28lMkZibG9nJTJGbWFjLWF0LWFueS1zY2FsZSU3Q2h0dHBzJTNBJTJGJTJGbmFtZXNwYWNlLnNvJTJGYmxvZyUyRm1hYy1hdC1hbnktc2NhbGUlN0NNYWMlMjBhdCUyMEFueSUyMFNjYWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTI3NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNCUzQTUzJTNBNDIlMjAlMkIwMDAw",
+      "title": "Mac at Any Scale",
+      "pubDate": "Tue, 03 Nov 2026 14:53:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUyNzU3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUyNzU3JTdDT3BlbkFJJTIwc2VlbXMlMjB0byUyMGJlJTIwc2lsZW50bHklMjByZS1lbmFibGluZyUyMG1vZGVsJTIwdHJhaW5pbmclMjBvbiUyMENvZGV4JTIwY2hhdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1Mjc1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE0JTNBNTMlM0E0MSUyMCUyQjAwMDA",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "pubDate": "Tue, 03 Nov 2026 14:53:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDI2JTJGMTElMkZqdXN0LWEtbGl0dGxlLWFpLXJlc2lzdGFuY2UtYXMtYS10cmVhdCUyRiU3Q2h0dHBzJTNBJTJGJTJGc2hrc3ByLm1vYmklMkZibG9nJTJGMjAyNiUyRjExJTJGanVzdC1hLWxpdHRsZS1haS1yZXNpc3RhbmNlLWFzLWEtdHJlYXQlMkYlN0NKdXN0JTIwYSUyMGxpdHRsZSUyMEFJJTIwcmVzaXN0YW5jZSUyQyUyMGFzJTIwYSUyMHRyZWF0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTIyNTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNCUzQTE0JTNBMTIlMjAlMkIwMDAw",
+      "title": "Just a little AI resistance, as a treat",
+      "pubDate": "Tue, 03 Nov 2026 14:14:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZXRiZW1hLmFwcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2V0YmVtYS5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBCZW1hJTNBJTIwV29yayUyMG1lc3NhZ2luZyUyMGJ1aWx0JTIwZm9yJTIwaHVtYW5zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTE0MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxMiUzQTUxJTNBMTElMjAlMkIwMDAw",
+      "title": "Show HN: Bema: Work messaging built for humans",
+      "pubDate": "Tue, 03 Nov 2026 12:51:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGY2hhcmxlcy10YW5keS10aGUtbWFzdGVybWluZC1iZWhpbmQtcmFkaW8tc2hhY2slMkYlN0NodHRwcyUzQSUyRiUyRmRmYXJxLmhvbWVpcC5uZXQlMkZjaGFybGVzLXRhbmR5LXRoZS1tYXN0ZXJtaW5kLWJlaGluZC1yYWRpby1zaGFjayUyRiU3Q0NoYXJsZXMlMjBUYW5keSUyQyUyMHRoZSUyMG1hc3Rlcm1pbmQlMjBiZWhpbmQlMjBSYWRpbyUyMFNoYWNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTEzMTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxMiUzQTQyJTNBMzAlMjAlMkIwMDAw",
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "pubDate": "Tue, 03 Nov 2026 12:42:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZob25uaWJhbC5kZXYlMkZibG9nJTJGYXN0cmEtcmVhZC13cml0ZS1taXNsZWFkaW5nJTdDaHR0cHMlM0ElMkYlMkZob25uaWJhbC5kZXYlMkZibG9nJTJGYXN0cmEtcmVhZC13cml0ZS1taXNsZWFkaW5nJTdDVGhlJTIwJ0FzdHJhJTIwY2FuJTIwcmVhZCUyMGFuZCUyMHdyaXRlJTIwd2VpZ2h0cyUyMHRvJTIwaW1wcm92ZSUyMFF3ZW4nJTIwcG9zdCUyMGlzJTIwbWlzbGVhZGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUxMTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTIlM0EyMSUzQTE3JTIwJTJCMDAwMA",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "pubDate": "Tue, 03 Nov 2026 12:21:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGc2F2YS10cnVzdC1jb21wYW55JTJGam9icyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRnNhdmEtdHJ1c3QtY29tcGFueSUyRmpvYnMlN0NTYXZhJTIwVHJ1c3QlMjAoWUMlMjBGMjUpJTIwSXMlMjBIaXJpbmclMjBhJTIwRm91bmRpbmclMjBFbmdpbmVlciUyMGluJTIwTllDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTA5MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxMiUzQTAxJTNBMDElMjAlMkIwMDAw",
+      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+      "pubDate": "Tue, 03 Nov 2026 12:01:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWNob2xhcy5jYXJsaW5pLmNvbSUyRndyaXRpbmclMkYyMDI2JTJGYWxnb3JpdGhtaWMtaW1wcm92ZW1lbnRzLWNoZXNzLmh0bWwlN0NodHRwcyUzQSUyRiUyRm5pY2hvbGFzLmNhcmxpbmkuY29tJTJGd3JpdGluZyUyRjIwMjYlMkZhbGdvcml0aG1pYy1pbXByb3ZlbWVudHMtY2hlc3MuaHRtbCU3Q0NvdWxkJTIwYSUyMG1vZGVybiUyMGNoZXNzJTIwZW5naW5lJTIwb24lMjBhJTIwUGVudGl1bSUyMGhhdmUlMjBkZWZlYXRlZCUyMEthc3Bhcm92JTIwaW4lMjAxOTk2JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNDkyNzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAwNyUzQTU2JTNBMjElMjAlMkIwMDAw",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "pubDate": "Tue, 03 Nov 2026 07:56:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTlZJRElBJTJGYXV0by1vbnRvbG9neSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk5WSURJQSUyRmF1dG8tb250b2xvZ3klN0NOdmlkaWElMjAlRTIlODAlOTMlMjBvcGVuLXNvdXJjZSUyMGF1dG8tb250b2xvZ3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0ODk2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDA3JTNBMDQlM0E1MCUyMCUyQjAwMDA",
+      "title": "Nvidia – open-source auto-ontology",
+      "pubDate": "Tue, 03 Nov 2026 07:04:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
     }
   ]

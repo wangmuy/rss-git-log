@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-01",
     "newestItemDate": "2026-11-01",
-    "itemCount": 27,
-    "generatedAt": "2026-11-03T06:58:47.269Z"
+    "itemCount": 29,
+    "generatedAt": "2026-11-03T16:20:39.198Z"
   },
   "items": [
     {
@@ -168,6 +168,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZrbmxiLmRldiUyRmVzc2F5cyUyRnN1cnJlbmRlciU3Q2h0dHBzJTNBJTJGJTJGa25sYi5kZXYlMkZlc3NheXMlMkZzdXJyZW5kZXIlN0NSZXNpc3RpbmclMjBDb2duaXRpdmUlMjBTdXJyZW5kZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMyMzEyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAxJTIwTm92JTIwMjAyNiUyMDA2JTNBMTMlM0EzMCUyMCUyQjAwMDA",
       "title": "Resisting Cognitive Surrender",
       "pubDate": "Sun, 01 Nov 2026 06:13:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXNxdWlyZS5jb20lMkZuZXdzLXBvbGl0aWNzJTJGYTc0MDMxNTcxJTJGbGlmZS13aXRoLWRvd24tc3luZHJvbWUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5lc3F1aXJlLmNvbSUyRm5ld3MtcG9saXRpY3MlMkZhNzQwMzE1NzElMkZsaWZlLXdpdGgtZG93bi1zeW5kcm9tZSUyRiU3Q0xpZmUlMjB3aXRoJTIwRG93biUyMFN5bmRyb21lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjcwODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAxNiUzQTI2JTNBMjElMjAlMkIwMDAw",
+      "title": "Life with Down Syndrome",
+      "pubDate": "Sun, 01 Nov 2026 16:26:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b2l0LmlvJTJGYmxvZyUyRnRvaXQtdjItMC0wJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b2l0LmlvJTJGYmxvZyUyRnRvaXQtdjItMC0wJTJGJTdDVG9pdCUyMHYyLjAuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzIxNjA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDElMjBOb3YlMjAyMDI2JTIwMDAlM0EyNSUzQTA0JTIwJTJCMDAwMA",
+      "title": "Toit v2.0.0",
+      "pubDate": "Sun, 01 Nov 2026 00:25:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
     }
   ]
