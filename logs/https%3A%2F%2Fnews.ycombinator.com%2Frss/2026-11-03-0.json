@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-03",
     "newestItemDate": "2026-11-03",
-    "itemCount": 26,
-    "generatedAt": "2026-11-03T16:20:39.197Z"
+    "itemCount": 45,
+    "generatedAt": "2026-11-03T21:52:13.855Z"
   },
   "items": [
     {
@@ -162,6 +162,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTlZJRElBJTJGYXV0by1vbnRvbG9neSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk5WSURJQSUyRmF1dG8tb250b2xvZ3klN0NOdmlkaWElMjAlRTIlODAlOTMlMjBvcGVuLXNvdXJjZSUyMGF1dG8tb250b2xvZ3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0ODk2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDA3JTNBMDQlM0E1MCUyMCUyQjAwMDA",
       "title": "Nvidia – open-source auto-ontology",
       "pubDate": "Tue, 03 Nov 2026 07:04:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjI5NzEzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjA1LjI5NzEzJTdDVGhlJTIwTGl0dGxlJTIwQm9vayUyMG9mJTIwR2VuZXJhdGl2ZSUyMEFJJTIwRm91bmRhdGlvbnMlM0ElMjBBbiUyMEludHVpdGl2ZSUyME1hdGhlbWF0aWNhbCUyMFByaW1lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU4NTgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMjElM0E0MCUzQTUzJTIwJTJCMDAwMA",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "pubDate": "Tue, 03 Nov 2026 21:40:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3ZWJraXQub3JnJTJGYmxvZyUyRjE4NTQxJTJGaW50cm9kdWNpbmctYWRhcHRpdmUtZGFyay1tb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3ZWJraXQub3JnJTJGYmxvZyUyRjE4NTQxJTJGaW50cm9kdWNpbmctYWRhcHRpdmUtZGFyay1tb2RlJTJGJTdDU2FmYXJpJTIwaW50cm9kdWNlcyUyMEFkYXB0aXZlJTIwRGFyayUyME1vZGUlMjBpbiUyMDI3LjMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1ODU2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDIxJTNBMzklM0EwNSUyMCUyQjAwMDA",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "pubDate": "Tue, 03 Nov 2026 21:39:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm9waW5pb24lMkZhcnRpY2xlcyUyRjIwMjYtMTEtMDMlMkZhaS1pbnZlc3RtZW50LWJvb20tZGVtYW5kcy1zdHJvbmdlci1maW5hbmNpYWwtb3ZlcnNpZ2h0JTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRm9waW5pb24lMkZhcnRpY2xlcyUyRjIwMjYtMTEtMDMlMkZhaS1pbnZlc3RtZW50LWJvb20tZGVtYW5kcy1zdHJvbmdlci1maW5hbmNpYWwtb3ZlcnNpZ2h0JTdDVGhlJTIwQUklMjBCb29tJTIwTWF5JTIwQmUlMjBTb3dpbmclMjBTZWVkcyUyMG9mJTIwQW5vdGhlciUyMEZpbmFuY2lhbCUyMENyaXNpcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU4NDE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMjElM0EyNSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+      "pubDate": "Tue, 03 Nov 2026 21:25:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZmluaWMtYWklMkZrYWlyb3MlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmaW5pYy1haSUyRmthaXJvcyU3Q1Nob3clMjBITiUzQSUyMEthaXJvcyUyMCVFMiU4MCU5MyUyME9wZW4tc291cmNlJTIwcmlzayUyMGFuZCUyMGZyYXVkJTIwZGVjaXNpb25pbmclMjBwbGF0Zm9ybSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU4MzE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMjElM0ExNiUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "pubDate": "Tue, 03 Nov 2026 21:16:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoZWxnZXN2ZXIucmUlMkZhcnRpY2xlcyUyRm1hY29zLXZ1bGdhci13b3JkLWZsYWdzJTdDaHR0cHMlM0ElMkYlMkZoZWxnZXN2ZXIucmUlMkZhcnRpY2xlcyUyRm1hY29zLXZ1bGdhci13b3JkLWZsYWdzJTdDSSUyMGR1bXBlZCUyMEFwcGxlJUUyJTgwJTk5cyUyMHdvcmQlMjBsaXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTc3ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAyMCUzQTMzJTNBMjMlMjAlMkIwMDAw",
+      "title": "I dumped Apple’s word list",
+      "pubDate": "Tue, 03 Nov 2026 20:33:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW5pcHNtYWtlci5naXRodWIuaW8lMkZibG9nJTJGYXJ0aWNsZSUyRnByYXR0LXBhcnNpbmctaXMtYS1ibGFjay1ib3glMkYlN0NodHRwcyUzQSUyRiUyRnZpbmlwc21ha2VyLmdpdGh1Yi5pbyUyRmJsb2clMkZhcnRpY2xlJTJGcHJhdHQtcGFyc2luZy1pcy1hLWJsYWNrLWJveCUyRiU3Q1ByYXR0JTIwcGFyc2luZyUyMGlzJTIwYSUyMGJsYWNrJTIwYm94JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTc0NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAyMCUzQTA3JTNBNDElMjAlMkIwMDAw",
+      "title": "Pratt parsing is a black box",
+      "pubDate": "Tue, 03 Nov 2026 20:07:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmbGlwcGVyLm5ldCUyRnBhZ2VzJTJGZmxpcHBlci1vbmUlN0NodHRwcyUzQSUyRiUyRmZsaXBwZXIubmV0JTJGcGFnZXMlMkZmbGlwcGVyLW9uZSU3Q1ByZXBhcmluZyUyMGZvciUyMHRoZSUyMEZsaXBwZXIlMjBPbmUlMjBLaWNrc3RhcnRlciUyMGFuZCUyMG9wZW5pbmclMjBwcmUtb3JkZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTY5OTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxOSUzQTMyJTNBMTMlMjAlMkIwMDAw",
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "pubDate": "Tue, 03 Nov 2026 19:32:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3YWRldHJlZ2Fza2lzLmNvbSUyRm1hY29zLTI3LWdvbGRlbi1nYXRlLWRvZXMtbm90LWFjdHVhbGx5LXN1cHBvcnQtY29yZXN0b3JhZ2Utb3ItaGZzLXZvbHVtZXMlMkYlN0NodHRwcyUzQSUyRiUyRndhZGV0cmVnYXNraXMuY29tJTJGbWFjb3MtMjctZ29sZGVuLWdhdGUtZG9lcy1ub3QtYWN0dWFsbHktc3VwcG9ydC1jb3Jlc3RvcmFnZS1vci1oZnMtdm9sdW1lcyUyRiU3Q21hY09TJTIwMjclMjBkb2VzJTIwbm90JTIwc3VwcG9ydCUyMENvcmVTdG9yYWdlJTIwdm9sdW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU2OTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTklM0EyNyUzQTUzJTIwJTJCMDAwMA",
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "pubDate": "Tue, 03 Nov 2026 19:27:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdHMtbGFuZy5zb3VyY2Vmb3JnZS5uZXQlMkZET0NVTUVOVCUyRklOVDJQUk9HSU5BVFMlMkZIVE1MJTJGYm9vazEuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYXRzLWxhbmcuc291cmNlZm9yZ2UubmV0JTJGRE9DVU1FTlQlMkZJTlQyUFJPR0lOQVRTJTJGSFRNTCUyRmJvb2sxLmh0bWwlN0NJbnRyb2R1Y3Rpb24lMjB0byUyMFByb2dyYW1taW5nJTIwaW4lMjBBVFMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1NjkxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE5JTNBMjUlM0ExOCUyMCUyQjAwMDA",
+      "title": "Introduction to Programming in ATS",
+      "pubDate": "Tue, 03 Nov 2026 19:25:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW4uc3RvbG92aXR6LmNvbSUyRnBvc3RzJTJGaG93LXVzZS1haS1vY3QtMjAyNiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmVuLnN0b2xvdml0ei5jb20lMkZwb3N0cyUyRmhvdy11c2UtYWktb2N0LTIwMjYlMkYlN0NIb3clMjBJJTIwdXNlJTIwQUklMjAoT2N0JTIwMjAyNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1NTc2NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE4JTNBMTElM0ExMSUyMCUyQjAwMDA",
+      "title": "How I use AI (Oct 2026)",
+      "pubDate": "Tue, 03 Nov 2026 18:11:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZOb3YlMkYzJTJGcXdlbi1jYW4taW50ZXJwcmV0LW1vZGVsLXdlaWdodHMlMkYlN0NodHRwcyUzQSUyRiUyRnNpbW9ud2lsbGlzb24ubmV0JTJGMjAyNiUyRk5vdiUyRjMlMkZxd2VuLWNhbi1pbnRlcnByZXQtbW9kZWwtd2VpZ2h0cyUyRiU3Q1F3ZW4lMjAzLjglMjAyN0IlMjBvbiUyMG15JTIwbGFwdG9wJTIwY2FuJTIwaW50ZXJwcmV0JTIwbW9kZWwlMjB3ZWlnaHRzJTJDJTIwdG9vJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTUyNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNyUzQTQwJTNBMDAlMjAlMkIwMDAw",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "pubDate": "Tue, 03 Nov 2026 17:40:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcG9zdG1hbmxhYnMlMkZwb3N0bWFuLWFwcC1zdXBwb3J0JTJGaXNzdWVzJTJGMTQzNzAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwb3N0bWFubGFicyUyRnBvc3RtYW4tYXBwLXN1cHBvcnQlMkZpc3N1ZXMlMkYxNDM3MCU3Q1Bvc3RtYW4lMjBzaWxlbnRseSUyMGF1dG8taW5zdGFsbHMlMjBBSSUyMHBsdWdpbnMlMjBhbmQlMjBhdHRlbXB0cyUyMHRvJTIwc2hhcmUlMjBhbGwlMjBBUEklMjBkYXRhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTQ5NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNyUzQTIyJTNBMzclMjAlMkIwMDAw",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "pubDate": "Tue, 03 Nov 2026 17:22:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXNoYnlocS5jb20lMkZjYXJlZXJzJTNGYXNoYnlfamlkJTNENjk1YjFjZTYtYzM3NS00ZmFkLTk0ZWYtNjFiNTBhM2ZiZDI4JTI2dXRtX3NvdXJjZSUzRGhuJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXNoYnlocS5jb20lMkZjYXJlZXJzJTNGYXNoYnlfamlkJTNENjk1YjFjZTYtYzM3NS00ZmFkLTk0ZWYtNjFiNTBhM2ZiZDI4JTdDQXNoYnklMjAoWUMlMjBXMTkpJTIwSXMlMjBIaXJpbmclMjBFTXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1NDU4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE3JTNBMDAlM0E1MyUyMCUyQjAwMDA",
+      "title": "Ashby (YC W19) Is Hiring EMs",
+      "pubDate": "Tue, 03 Nov 2026 17:00:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXVmYW5nbGVkLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV1ZmFuZ2xlZC5jb20lMkYlN0NTdHJpbmdtYW4lMkMlMjBhbiUyMCUyNDgwMCUyMG9wZW4tc291cmNlJTIwcm9vbSUyMHNjYWxlJTIwZ3JpcHBlciUyMHJvYm90JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTQzNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNiUzQTQ3JTNBMjklMjAlMkIwMDAw",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "pubDate": "Tue, 03 Nov 2026 16:47:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU0MzM2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU0MzM2JTdDR2l0Ym9vayUyMEJyZWFjaGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTQzMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNiUzQTQ1JTNBNDklMjAlMkIwMDAw",
+      "title": "Gitbook Breached",
+      "pubDate": "Tue, 03 Nov 2026 16:45:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjAyNjE4JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjAyNjE4JTdDVVNEQiUzQSUyMFNjYWxpbmclMjBTdG9yYWdlJTIwZm9yJTIwTmV4dC1HZW5lcmF0aW9uJTIwUmVjb21tZW5kZXIlMjBTeXN0ZW1zJTIwYXQlMjBCeXRlRGFuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1NDI1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE2JTNBNDAlM0EwMiUyMCUyQjAwMDA",
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "pubDate": "Tue, 03 Nov 2026 16:40:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMCUyRnRydW1wLWFkbWluLXN1ZXMtdXRhaC10by1zYXZlLWthbHNoaS1mcm9tLXRoZS1zdGF0ZXMtdG90YWwtYmFuLW9uLWdhbWJsaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMCUyRnRydW1wLWFkbWluLXN1ZXMtdXRhaC10by1zYXZlLWthbHNoaS1mcm9tLXRoZS1zdGF0ZXMtdG90YWwtYmFuLW9uLWdhbWJsaW5nJTJGJTdDS2Fsc2hpJTIwYW5kJTIwaXRzJTIwY28tZm91bmRlcnMlMjBmYWNlJTIwZmVsb255JTIwY2hhcmdlcyUyMGZvciUyMHZpb2xhdGluZyUyMFV0YWglMjBnYW1ibGluZyUyMGxhd3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1MzIyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDE1JTNBMjklM0ExNSUyMCUyQjAwMDA",
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "pubDate": "Tue, 03 Nov 2026 15:29:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYwMyUyRnVzJTJGZ29vZ2xlLXNlYXJjaC1zY2hvb2xzLXJlc3RyaWN0LWFpLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYxMSUyRjAzJTJGdXMlMkZnb29nbGUtc2VhcmNoLXNjaG9vbHMtcmVzdHJpY3QtYWkuaHRtbCU3Q0dvb2dsZSUyMHdpbGwlMjB0dXJuJTIwb2ZmJTIwc2VhcmNoJTIwZm9yJTIwc2Nob29scyUyMHRoYXQlMjByZWplY3QlMjBBSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUzMTkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTUlM0EyNSUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Google will turn off search for schools that reject AI",
+      "pubDate": "Tue, 03 Nov 2026 15:25:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrZXJ0di5vcmclN0NodHRwcyUzQSUyRiUyRmhhY2tlcnR2Lm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMEhhY2tlclRWJTIwJUUyJTgwJTkzJTIwSE4ncyUyMG1vc3QtcmVjb21tZW5kZWQlMjBZb3V0dWJlJTIwdmlkZW9zJTIwYXMlMjAyNCUyRjclMjBUViUyMGNoYW5uZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNDY3NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAwMSUzQTE4JTNBMDklMjAlMkIwMDAw",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "pubDate": "Tue, 03 Nov 2026 01:18:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-01",
     "newestItemDate": "2026-11-01",
-    "itemCount": 29,
-    "generatedAt": "2026-11-03T16:20:39.198Z"
+    "itemCount": 30,
+    "generatedAt": "2026-11-03T21:52:13.856Z"
   },
   "items": [
     {
@@ -180,6 +180,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0b2l0LmlvJTJGYmxvZyUyRnRvaXQtdjItMC0wJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b2l0LmlvJTJGYmxvZyUyRnRvaXQtdjItMC0wJTJGJTdDVG9pdCUyMHYyLjAuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzIxNjA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDElMjBOb3YlMjAyMDI2JTIwMDAlM0EyNSUzQTA0JTIwJTJCMDAwMA",
       "title": "Toit v2.0.0",
       "pubDate": "Sun, 01 Nov 2026 00:25:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlnbWEuY29tJTJGYmxvZyUyRnRyYWluaW5nLWEtZmlnbWEtZmx1ZW50LWVkaXRpbmctbW9kZWwlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5maWdtYS5jb20lMkZibG9nJTJGdHJhaW5pbmctYS1maWdtYS1mbHVlbnQtZWRpdGluZy1tb2RlbCUyRiU3Q1dlJ3JlJTIwVHJhaW5pbmclMjBhJTIwRmlnbWEtRmx1ZW50JTIwRWRpdGluZyUyME1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMjI2MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwMSUyME5vdiUyMDIwMjYlMjAwNCUzQTA1JTNBMjMlMjAlMkIwMDAw",
+      "title": "We're Training a Figma-Fluent Editing Model",
+      "pubDate": "Sun, 01 Nov 2026 04:05:23 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
     }
   ]
