@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-10-31",
     "newestItemDate": "2026-10-31",
-    "itemCount": 52,
-    "generatedAt": "2026-11-02T06:24:19.096Z"
+    "itemCount": 53,
+    "generatedAt": "2026-11-03T06:58:47.269Z"
   },
   "items": [
     {
@@ -318,6 +318,12 @@
       "itemId": "aHR0cCUzQSUyRiUyRnJoYWFzLmJsb2dzcG90LmNvbSUyRjIwMjYlMkYxMCUyRnBvc3RncmVzLTE5LWlzLWxhdGUtYW5kLWl0cy1haXMtZmF1bHQuaHRtbCU3Q2h0dHAlM0ElMkYlMkZyaGFhcy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTAlMkZwb3N0Z3Jlcy0xOS1pcy1sYXRlLWFuZC1pdHMtYWlzLWZhdWx0Lmh0bWwlN0NQb3N0Z3JlcyUyMDE5JTIwaXMlMjBsYXRlJTIwYmVjYXVzZSUyMHNvJTIwbWFueSUyMG1vcmUlMjBidWdzJTIwYXJlJTIwYmVpbmclMjBmb3VuZCUyMG5vdyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzEyNDA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMDElM0EzOCUzQTU2JTIwJTJCMDAwMA",
       "title": "Postgres 19 is late because so many more bugs are being found now",
       "pubDate": "Sat, 31 Oct 2026 01:38:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXJnbWluLm5ldCUyRnAlMkZnYWxhY3R1cy10aGUtZGV2b3VyZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5hcmdtaW4ubmV0JTJGcCUyRmdhbGFjdHVzLXRoZS1kZXZvdXJlciU3Q0VmZmljaWVudCUyMGFsZ29yaXRobXMlMkMlMjB0aGUlMjBFeHBvbmVudGlhbCUyMFRpbWUlMjBIeXBvdGhlc2lzJTJDJTIwYW5kJTIwbG9zaW5nJTIwdGhlJTIwcGxvdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzIwOTA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMzElMjBPY3QlMjAyMDI2JTIwMjIlM0EzMSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+      "pubDate": "Sat, 31 Oct 2026 22:31:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-10-31-0.json"
     }
   ]

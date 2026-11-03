@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-01",
     "newestItemDate": "2026-11-01",
-    "itemCount": 25,
-    "generatedAt": "2026-11-02T06:24:19.096Z"
+    "itemCount": 27,
+    "generatedAt": "2026-11-03T06:58:47.269Z"
   },
   "items": [
     {
@@ -156,6 +156,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzaGtzcHIubW9iaSUyRmJsb2clMkYyMDE4JTJGMTElMkZkb21haW4taGFja3Mtd2l0aC11bnVzdWFsLXVuaWNvZGUtY2hhcmFjdGVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGc2hrc3ByLm1vYmklMkZibG9nJTJGMjAxOCUyRjExJTJGZG9tYWluLWhhY2tzLXdpdGgtdW51c3VhbC11bmljb2RlLWNoYXJhY3RlcnMlMkYlN0NEb21haW4lMjBoYWNrcyUyMHdpdGglMjB1bnVzdWFsJTIwVW5pY29kZSUyMGNoYXJhY3RlcnMlMjAoMjAxOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMyNDM3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAxJTIwTm92JTIwMjAyNiUyMDEwJTNBNDQlM0EyMCUyMCUyQjAwMDA",
       "title": "Domain hacks with unusual Unicode characters (2018)",
       "pubDate": "Sun, 01 Nov 2026 10:44:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3dlbmRzcGlyaXQuY29tJTJGZGlzY3Vzc2lvbiUyRjExNTQzJTJGc2hyaW5raW5nLW5peG9zLXJhbS1mb290cHJpbnQtYW5kLXJlc291cmNlLXJlcXVpcmVtZW50cy10by10aGUtYmFyZS1taW5pbXVtJTdDaHR0cHMlM0ElMkYlMkZsb3dlbmRzcGlyaXQuY29tJTJGZGlzY3Vzc2lvbiUyRjExNTQzJTJGc2hyaW5raW5nLW5peG9zLXJhbS1mb290cHJpbnQtYW5kLXJlc291cmNlLXJlcXVpcmVtZW50cy10by10aGUtYmFyZS1taW5pbXVtJTdDU2hyaW5raW5nJTIwTml4T1MlMjBSQU0lMjBmb290cHJpbnQlMjBhbmQlMjByZXNvdXJjZSUyMHJlcXVpcmVtZW50cyUyMHRvJTIwdGhlJTIwYmFyZSUyMG1pbmltdW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMyNjI0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAxJTIwTm92JTIwMjAyNiUyMDE0JTNBNTIlM0EwNSUyMCUyQjAwMDA",
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "pubDate": "Sun, 01 Nov 2026 14:52:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrbmxiLmRldiUyRmVzc2F5cyUyRnN1cnJlbmRlciU3Q2h0dHBzJTNBJTJGJTJGa25sYi5kZXYlMkZlc3NheXMlMkZzdXJyZW5kZXIlN0NSZXNpc3RpbmclMjBDb2duaXRpdmUlMjBTdXJyZW5kZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMyMzEyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDAxJTIwTm92JTIwMjAyNiUyMDA2JTNBMTMlM0EzMCUyMCUyQjAwMDA",
+      "title": "Resisting Cognitive Surrender",
+      "pubDate": "Sun, 01 Nov 2026 06:13:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-01-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-02",
     "newestItemDate": "2026-11-02",
-    "itemCount": 27,
-    "generatedAt": "2026-11-02T18:31:02.496Z"
+    "itemCount": 41,
+    "generatedAt": "2026-11-03T06:58:47.268Z"
   },
   "items": [
     {
@@ -168,6 +168,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzeXNjYWxsLnNoJTJGJTdDaHR0cHMlM0ElMkYlMkZzeXNjYWxsLnNoJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSd2ZSUyMHVwZGF0ZWQlMjBteSUyMExpbnV4JTIwU3lzdGVtJTIwQ2FsbCUyMHdlYnNpdGUlMjBhbmQlMjBBUEklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMzNDcwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDA5JTNBMjklM0ExNiUyMCUyQjAwMDA",
       "title": "Show HN: I've updated my Linux System Call website and API",
       "pubDate": "Mon, 02 Nov 2026 09:29:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzY2FsaW5nLWdpdC1hdC1vcGVuYWklMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRnNjYWxpbmctZ2l0LWF0LW9wZW5haSUyRiU3Q1NjYWxpbmclMjBHaXQlMjBhdCUyME9wZW5BSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzQ1OTI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDIlMjBOb3YlMjAyMDI2JTIwMjMlM0E0NyUzQTU2JTIwJTJCMDAwMA",
+      "title": "Scaling Git at OpenAI",
+      "pubDate": "Mon, 02 Nov 2026 23:47:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvbGljeS5wcmVzcyUyRnRoZS1zZWMtc2hvdWxkLWJsb2NrLWFudGhyb3BpY3MtaXBvLXRvLXByb3RlY3QtdGhlLXB1YmxpYyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRlY2hwb2xpY3kucHJlc3MlMkZ0aGUtc2VjLXNob3VsZC1ibG9jay1hbnRocm9waWNzLWlwby10by1wcm90ZWN0LXRoZS1wdWJsaWMlMkYlN0NUaGUlMjBTRUMlMjBTaG91bGQlMjBCbG9jayUyMEFudGhyb3BpYydzJTIwSVBPJTIwdG8lMjBQcm90ZWN0JTIwdGhlJTIwUHVibGljJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNDQ5MTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMiUyME5vdiUyMDIwMjYlMjAyMiUzQTMwJTNBNDclMjAlMkIwMDAw",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "pubDate": "Mon, 02 Nov 2026 22:30:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGlnZW9uLWxhYnMtc3RhY2slMkZ2MTAwLXN4bTItcmVmZXJlbmNlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGlnZW9uLWxhYnMtc3RhY2slMkZ2MTAwLXN4bTItcmVmZXJlbmNlJTdDVjEwMCUyMFNYTTIlMjBwaW5vdXQlMjBhbmQlMjBOVkxpbmslMjByZWZlcmVuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0NDkxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDIyJTNBMzAlM0ExMyUyMCUyQjAwMDA",
+      "title": "V100 SXM2 pinout and NVLink reference",
+      "pubDate": "Mon, 02 Nov 2026 22:30:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3c2LnNsYWMuc3RhbmZvcmQuZWR1JTJGbmV3cyUyRjIwMjYtMTAtMjktc2xhYy1yZXNlYXJjaGVycy1maW5kLXByb29mLWFsdGVybWFnbmV0aXNtLW5ldy1tYWduZXRpYy1waGFzZSU3Q2h0dHBzJTNBJTJGJTJGd3d3Ni5zbGFjLnN0YW5mb3JkLmVkdSUyRm5ld3MlMkYyMDI2LTEwLTI5LXNsYWMtcmVzZWFyY2hlcnMtZmluZC1wcm9vZi1hbHRlcm1hZ25ldGlzbS1uZXctbWFnbmV0aWMtcGhhc2UlN0NTTEFDJTIwcmVzZWFyY2hlcnMlMjBmaW5kJTIwcHJvb2YlMjBvZiUyMGFsdGVybWFnbmV0aXNtJTJDJTIwYSUyMG5ldyUyMG1hZ25ldGljJTIwcGhhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0NDIyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDIxJTNBNDIlM0EyNSUyMCUyQjAwMDA",
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "pubDate": "Mon, 02 Nov 2026 21:42:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjExJTJGMDIlMkZlZ29sZXNzLW1hdGhlbWF0aWNzLWluLXRoZS1haS1lcmElMkYlN0NodHRwcyUzQSUyRiUyRnRlcnJ5dGFvLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTElMkYwMiUyRmVnb2xlc3MtbWF0aGVtYXRpY3MtaW4tdGhlLWFpLWVyYSUyRiU3Q0Vnb2xlc3MlMjBNYXRoZW1hdGljcyUyMGluJTIwdGhlJTIwQUklMjBFcmElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0MTczNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDE4JTNBNTQlM0E0NCUyMCUyQjAwMDA",
+      "title": "Egoless Mathematics in the AI Era",
+      "pubDate": "Mon, 02 Nov 2026 18:54:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmcmVlbm9kZS5uZXQlMkZhcnRpY2xlJTJGdWJ1bnR1LWx0cy1rZXJuZWxzLXN0aWxsLXVuZml4ZWQtZm9yLWNyaXRpY2FsLWN2ZS0yMDI2LTk4NDMyJTdDaHR0cHMlM0ElMkYlMkZmcmVlbm9kZS5uZXQlMkZhcnRpY2xlJTJGdWJ1bnR1LWx0cy1rZXJuZWxzLXN0aWxsLXVuZml4ZWQtZm9yLWNyaXRpY2FsLWN2ZS0yMDI2LTk4NDMyJTdDVWJ1bnR1JTIwc3RpbGwlMjBoYXMlMjBub3QlMjByZWxlYXNlZCUyMHBhdGNoJTIwZm9yJTIwTGludXglMjAwZGF5JTIwUkNFJTIwaW4lMjBhbG1vc3QlMjAzJTIwd2Vla3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0MTQ2MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDE4JTNBMzklM0EzOCUyMCUyQjAwMDA",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "pubDate": "Mon, 02 Nov 2026 18:39:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaWtpeWF0LmdpdGh1Yi5pbyUyRmJsb2clMkZ3ZWlnaHQtc3BhY2UtcHJvZ3JhbW1pbmclMkYlN0NodHRwcyUzQSUyRiUyRnJpa2l5YXQuZ2l0aHViLmlvJTJGYmxvZyUyRndlaWdodC1zcGFjZS1wcm9ncmFtbWluZyUyRiU3Q0FzdHJhJTIwY2FuJTIwcmVhZCUyMGFuZCUyMHdyaXRlJTIwd2VpZ2h0cyUyMHRvJTIwaW1wcm92ZSUyMFF3ZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0MTE3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDE4JTNBMjElM0EyOCUyMCUyQjAwMDA",
+      "title": "Astra can read and write weights to improve Qwen",
+      "pubDate": "Mon, 02 Nov 2026 18:21:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGb2xkbmV3dGhpbmclMkYyMDI2MTEwMi0wMCUyRiUzRnAlM0QxMTI4MTglMkYlN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZvbGRuZXd0aGluZyUyRjIwMjYxMTAyLTAwJTJGJTNGcCUzRDExMjgxOCUyNTJGJTdDU25lYWtpbmclMjBpbnRvJTIwdGhlJTIwYXVkaXRvcml1bSUyMGZvciUyMHRoZSUyMFdpbmRvd3MlMjAyMDAwJTIwbGF1bmNoJTIwcmVoZWFyc2FsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNDEwMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMiUyME5vdiUyMDIwMjYlMjAxOCUzQTEyJTNBNDglMjAlMkIwMDAw",
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "pubDate": "Mon, 02 Nov 2026 18:12:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWFpdG9yJTJGc2tpbGwtdmlkZW8tc3R1ZGlvJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWFpdG9yJTJGc2tpbGwtdmlkZW8tc3R1ZGlvJTdDU2tpbGwlMjB0byUyMENyZWF0ZSUyMFByb2R1Y3QlMjBWaWRlb3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0MDk5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDE4JTNBMTAlM0EzOSUyMCUyQjAwMDA",
+      "title": "Skill to Create Product Videos",
+      "pubDate": "Mon, 02 Nov 2026 18:10:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmlzdC5nb3YlMkZuZXdzLWV2ZW50cyUyRm5ld3MlMkYyMDI2JTJGMTElMkZzZWxmLWVtcGxveWVkLXNvbG9wcmVuZXVyLW5pc3QtaGFzLWN5YmVyc2VjdXJpdHktZ3VpZGUtanVzdC15b3UlN0NodHRwcyUzQSUyRiUyRnd3dy5uaXN0LmdvdiUyRm5ld3MtZXZlbnRzJTJGbmV3cyUyRjIwMjYlMkYxMSUyRnNlbGYtZW1wbG95ZWQtc29sb3ByZW5ldXItbmlzdC1oYXMtY3liZXJzZWN1cml0eS1ndWlkZS1qdXN0LXlvdSU3Q1NlbGYtRW1wbG95ZWQlM0YlMjBTb2xvcHJlbmV1ciUzRiUyME5JU1QlMjBIYXMlMjBhJTIwQ3liZXJzZWN1cml0eSUyMEd1aWRlJTIwSnVzdCUyMGZvciUyMFlvdSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzQwNjE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDIlMjBOb3YlMjAyMDI2JTIwMTclM0E0NyUzQTQwJTIwJTJCMDAwMA",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "pubDate": "Mon, 02 Nov 2026 17:47:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb2x5ZW5kLmNvbSUyRndoYXRzLXVwJTJGdHJhY2tlci10aGUtYmlnZ2VzdC11cGRhdGUteWV0JTJGJTdDaHR0cHMlM0ElMkYlMkZwb2x5ZW5kLmNvbSUyRndoYXRzLXVwJTJGdHJhY2tlci10aGUtYmlnZ2VzdC11cGRhdGUteWV0JTJGJTdDUG9seWVuZCUyMHJlbGVhc2VzJTIwdGhlJTIwVHJhY2tlciUyMGZpcm13YXJlJTIwc291cmNlJTIwY29kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzQwMTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDIlMjBOb3YlMjAyMDI2JTIwMTclM0EyMCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Polyend releases the Tracker firmware source code",
+      "pubDate": "Mon, 02 Nov 2026 17:20:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzQwMDg4JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzQwMDg4JTdDU2hvdyUyMEhOJTNBJTIwU3Vidm9jYWwlMjAlRTIlODAlOTMlMjBUYWxrJTIwdG8lMjB5b3VyJTIwY29tcHV0ZXIlMjB3aXRob3V0JTIwbWFraW5nJTIwbm9pc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM0MDA4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDE3JTNBMTYlM0ExNyUyMCUyQjAwMDA",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "pubDate": "Mon, 02 Nov 2026 17:16:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwLm1pZ2RhbC5wbCUyRndhcnNhdy12aWJlLXZveGVsJTJGJTdDaHR0cHMlM0ElMkYlMkZwLm1pZ2RhbC5wbCUyRndhcnNhdy12aWJlLXZveGVsJTJGJTdDU2hvdyUyMEhOJTNBJTIwV2Fyc2F3JTIwaW4lMjB2b3hlbHMlMjAlRTIlODAlOTMlMjBBbiUyMGludGVyYWN0aXZlJTIwM0QlMjBtYXAlMjBvZiUyMHRoZSUyMGNpdHklMjBjZW50cmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDMzOTIyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDAyJTIwTm92JTIwMjAyNiUyMDE2JTNBMjUlM0EyNiUyMCUyQjAwMDA",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "pubDate": "Mon, 02 Nov 2026 16:25:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcmljaS5ldSU3Q2h0dHBzJTNBJTJGJTJGZXJpY2kuZXUlMkYlN0NFdXJvcGVhbiUyMFJJU0MtViUyMEluZHVzdHJpYWwlMjBDb21wdXRpbmclMjBJbml0aWF0aXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzMzQ1MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwMiUyME5vdiUyMDIwMjYlMjAwOCUzQTU4JTNBMzMlMjAlMkIwMDAw",
+      "title": "European RISC-V Industrial Computing Initiative",
+      "pubDate": "Mon, 02 Nov 2026 08:58:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-02-0.json"
     }
   ]
