@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-03",
     "newestItemDate": "2026-11-03",
-    "itemCount": 45,
-    "generatedAt": "2026-11-03T21:52:13.855Z"
+    "itemCount": 52,
+    "generatedAt": "2026-11-04T06:40:30.741Z"
   },
   "items": [
     {
@@ -276,6 +276,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoYWNrZXJ0di5vcmclN0NodHRwcyUzQSUyRiUyRmhhY2tlcnR2Lm9yZyUyRiU3Q1Nob3clMjBITiUzQSUyMEhhY2tlclRWJTIwJUUyJTgwJTkzJTIwSE4ncyUyMG1vc3QtcmVjb21tZW5kZWQlMjBZb3V0dWJlJTIwdmlkZW9zJTIwYXMlMjAyNCUyRjclMjBUViUyMGNoYW5uZWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNDY3NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAwMSUzQTE4JTNBMDklMjAlMkIwMDAw",
       "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "pubDate": "Tue, 03 Nov 2026 01:18:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW50ZXJkYi5qcCUyRnBnJTJGaW5kZXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmludGVyZGIuanAlMkZwZyUyRmluZGV4Lmh0bWwlN0NUaGUlMjBJbnRlcm5hbHMlMjBvZiUyMFBvc3RncmVTUUwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1ODcwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDIxJTNBNTElM0EwNiUyMCUyQjAwMDA",
+      "title": "The Internals of PostgreSQL",
+      "pubDate": "Tue, 03 Nov 2026 21:51:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmNyYWNrZWQuY2l0eSU3Q2h0dHBzJTNBJTJGJTJGdW5jcmFja2VkLmNpdHklMkYlN0NTaG93JTIwSE4lM0ElMjBVbmNyYWNrZWQlMjBDaXR5JTJDJTIwZGV0ZWN0aXZlJTIwZ2FtZSUyMHdoZXJlJTIweW91JTIwcXVlc3Rpb24lMjBMTE0lMjBzdXNwZWN0cyUyMHRoYXQlMjBsaWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1ODM1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDIxJTNBMjAlM0EwMyUyMCUyQjAwMDA",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "pubDate": "Tue, 03 Nov 2026 21:20:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYW1lc3BhY2Uuc28lMkZibG9nJTJGbWFjLWF0LWFueS1zY2FsZSU3Q2h0dHBzJTNBJTJGJTJGbmFtZXNwYWNlLnNvJTJGYmxvZyUyRm1hYy1hdC1hbnktc2NhbGUlN0NNYWMlMjBhdCUyMGFueSUyMHNjYWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTI3NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNCUzQTUzJTNBNDIlMjAlMkIwMDAw",
+      "title": "Mac at any scale",
+      "pubDate": "Tue, 03 Nov 2026 14:53:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYXRoZW5hLmFpJTJGYmxvZyUyRnRoZXJlLWlzLW5vLXBvc3R0cmFpbmluZy1kYXRhLWNvbW1vbnMlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5hdGhlbmEuYWklMkZibG9nJTJGdGhlcmUtaXMtbm8tcG9zdHRyYWluaW5nLWRhdGEtY29tbW9ucyUyRiU3Q1RoZXJlJTIwaXMlMjBubyUyMHBvc3R0cmFpbmluZyUyMGRhdGElMjBjb21tb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTI2NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxNCUzQTQ1JTNBNDclMjAlMkIwMDAw",
+      "title": "There is no posttraining data commons",
+      "pubDate": "Tue, 03 Nov 2026 14:45:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjEwJTJGd2luZG93cy0xMS1nZXRzLXJpZ2h0LWNsaWNrLW1lbnUtaW1wcm92ZW1lbnRzLWFzLXBjLXJldmVudWUtc2xpZGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZnYWRnZXRzJTJGMjAyNiUyRjEwJTJGd2luZG93cy0xMS1nZXRzLXJpZ2h0LWNsaWNrLW1lbnUtaW1wcm92ZW1lbnRzLWFzLXBjLXJldmVudWUtc2xpZGVzJTJGJTdDTWljcm9zb2Z0JTIwZml4ZXMlMjBhJTIwV2luZG93cyUyMDExJTIwYW5ub3lhbmNlJTIwYXMlMjBQQyUyMHJldmVudWUlMjBkZWNsaW5lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUxNDYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTIlM0E1OCUzQTQzJTIwJTJCMDAwMA",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "pubDate": "Tue, 03 Nov 2026 12:58:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RYZkxscHhFNkFZTSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEWGZMbHB4RTZBWU0lN0NXaHklMjBDbGlwJTIwQXJ0JTIwV2FzJTIwRXZlcnl3aGVyZSUyMFVudGlsJTIwSXQlMjBXYXNuJ3QlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUxMjk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTIlM0E0MCUzQTA2JTIwJTJCMDAwMA",
+      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+      "pubDate": "Tue, 03 Nov 2026 12:40:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbnRyb3BpY3Rob3VnaHRzLmNvbSUyRnN1bXMtb2Ytb3ZlcmRpc3BlcnNlZC1jb3VudHMlN0NodHRwcyUzQSUyRiUyRmVudHJvcGljdGhvdWdodHMuY29tJTJGc3Vtcy1vZi1vdmVyZGlzcGVyc2VkLWNvdW50cyU3Q1J1bnMlMjBTY29yZWQlMjBpbiUyMFdvcmxkJTIwQmFzZWJhbGwlMjBDbGFzc2ljJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTExNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxMiUzQTI1JTNBNDIlMjAlMkIwMDAw",
+      "title": "Runs Scored in World Baseball Classic",
+      "pubDate": "Tue, 03 Nov 2026 12:25:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
     }
   ]
