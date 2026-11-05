@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-04",
     "newestItemDate": "2026-11-04",
-    "itemCount": 28,
-    "generatedAt": "2026-11-04T16:25:25.368Z"
+    "itemCount": 48,
+    "generatedAt": "2026-11-05T06:59:30.764Z"
   },
   "items": [
     {
@@ -174,6 +174,126 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuYXBjYWtlcy5uZWtvd2ViLm9yZyUyRnBvc3RzJTJGbWFsbG9jJTJGJTdDaHR0cHMlM0ElMkYlMkZuYXBjYWtlcy5uZWtvd2ViLm9yZyUyRnBvc3RzJTJGbWFsbG9jJTJGJTdDVGhlJTIwbG9zdCUyMG1hbGxvYygpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjI0NjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAwNyUzQTM3JTNBMzAlMjAlMkIwMDAw",
       "title": "The lost malloc()",
       "pubDate": "Wed, 04 Nov 2026 07:37:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1pbWFnZXMtMi02JTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1pbWFnZXMtMi02JTJGJTdDSW1hZ2VzJTIwMi42JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzI5NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAyMyUzQTM1JTNBNDQlMjAlMkIwMDAw",
+      "title": "Images 2.6",
+      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhLXRob3VzYW5kLWZld2VyLXBhdGhzLXRvLXJvb3QlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRmEtdGhvdXNhbmQtZmV3ZXItcGF0aHMtdG8tcm9vdCUyRiU3Q0ElMjB0aG91c2FuZCUyMGZld2VyJTIwcGF0aHMlMjB0byUyMHJvb3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM3MjkyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDIzJTNBMzMlM0ExNCUyMCUyQjAwMDA",
+      "title": "A thousand fewer paths to root",
+      "pubDate": "Wed, 04 Nov 2026 23:33:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpY29kZTQuY29mZmVlJTJGJTNGcCUzRDE3NDYlN0NodHRwcyUzQSUyRiUyRmljb2RlNC5jb2ZmZWUlMkYlM0ZwJTNEMTc0NiU3Q0hhY2tpbmclMjB0aGUlMjBYYm94JTIwMzYwJTIwSHlwZXJ2aXNvciUyMFBhcnQlMjAzJTNBJTIwQmFkJTIwVXBkYXRlJTIwSW1wcm92ZW1lbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzIxNjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAyMiUzQTAxJTNBNDklMjAlMkIwMDAw",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXllcjNpbnRlbC5jb20lMkZibG9nJTJGcmVzaWRlbnRpYWwtcHJveGllcy13aGl0ZS1ob3VzZS1uZXR3b3JrJTdDaHR0cHMlM0ElMkYlMkZsYXllcjNpbnRlbC5jb20lMkZibG9nJTJGcmVzaWRlbnRpYWwtcHJveGllcy13aGl0ZS1ob3VzZS1uZXR3b3JrJTdDUmVzaWRlbnRpYWwlMjBwcm94aWVzJTIwZGV0ZWN0ZWQlMjBvbiUyMFdoaXRlJTIwSG91c2UlMjBuZXR3b3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzEyNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAyMCUzQTQ1JTNBMTglMjAlMkIwMDAw",
+      "title": "Residential proxies detected on White House network",
+      "pubDate": "Wed, 04 Nov 2026 20:45:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbGNvbW0uY29tJTJGZGF0YS1jZW50ZXIlMkZwcm9kdWN0cyUyRmNsb3VkLWFpLTEwMC11bHRyYSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YWxjb21tLmNvbSUyRmRhdGEtY2VudGVyJTJGcHJvZHVjdHMlMkZjbG91ZC1haS0xMDAtdWx0cmElN0NRdWFsY29tbSUyMENsb3VkJTIwQUklMjAxMDAlMjBVbHRyYSUyMCVFMiU4MCU5MyUyMDE1MFclMjBBSSUyMEFjY2VsZXJhdG9yJTIwQ2FyZCUyMHdpdGglMjAxMjhHQiUyMGF0JTIwNTQ4R0IlMkZzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzA2NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxOSUzQTU1JTNBMTQlMjAlMkIwMDAw",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "pubDate": "Wed, 04 Nov 2026 19:55:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmlyZHNvdXRzaWRlbXl3aW5kb3cub3JnJTJGMjAyNiUyRjExJTJGMDMlMkZpbnNlY3RzLWRvbnQtc3dhcm0tYXQtbGVkLWxpZ2h0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJpcmRzb3V0c2lkZW15d2luZG93Lm9yZyUyRjIwMjYlMkYxMSUyRjAzJTJGaW5zZWN0cy1kb250LXN3YXJtLWF0LWxlZC1saWdodHMlMkYlN0NJbnNlY3RzJTIwZG9uJ3QlMjBzd2FybSUyMGF0JTIwTEVEJTIwbGlnaHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzA2MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxOSUzQTUwJTNBMjMlMjAlMkIwMDAw",
+      "title": "Insects don't swarm at LED lights",
+      "pubDate": "Wed, 04 Nov 2026 19:50:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmljdXJzaXZlLmNvbSUyRnJpcHBsZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJpY3Vyc2l2ZS5jb20lMkZyaXBwbGUlN0NSaXBwbGUtNjVCJTIwUHJldmlldyUzQSUyMFUuUy4lMjBPcGVuLVdlaWdodCUyMFNPVEElMjBvbiUyMEFnZW50aWMlMjBDb2RpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM2OTkyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDE4JTNBNTMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "pubDate": "Wed, 04 Nov 2026 18:53:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaXJlZmx5azY0LmdpdGh1Yi5pbyUyRndjbXVsdGklMkYlN0NodHRwcyUzQSUyRiUyRmZpcmVmbHlrNjQuZ2l0aHViLmlvJTJGd2NtdWx0aSUyRiU3Q1Nob3clMjBITiUzQSUyMEFmdGVyJTIwYSUyMGRlY2FkZSUyMG9mJTIwcmV2ZXJzaW5nJTJDJTIwSSUyMGdvdCUyMGNvLW9wJTIwd29ya2luZyUyMGluJTIwRE9TJTIwV2luZyUyMENvbW1hbmRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY5ODk1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMTglM0E1MSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "pubDate": "Wed, 04 Nov 2026 18:51:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY29uZHVjdG9yLmJ1aWxkJTJGYW5ub3VuY2VtZW50JTdDaHR0cHMlM0ElMkYlMkZ3d3cuY29uZHVjdG9yLmJ1aWxkJTJGYW5ub3VuY2VtZW50JTdDQ29uZHVjdG9yJTIwaXMlMjBqb2luaW5nJTIwTWV0YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY5NTAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMTglM0EyMiUzQTQwJTIwJTJCMDAwMA",
+      "title": "Conductor is joining Meta",
+      "pubDate": "Wed, 04 Nov 2026 18:22:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnby5kZXYlMkZibG9nJTJGanNvbnYyJTdDaHR0cHMlM0ElMkYlMkZnby5kZXYlMkZibG9nJTJGanNvbnYyJTdDQSUyMG5ldyUyMEdvJTIwQVBJJTIwZm9yJTIwSlNPTiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY5MTA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMTclM0E1MiUzQTExJTIwJTJCMDAwMA",
+      "title": "A new Go API for JSON",
+      "pubDate": "Wed, 04 Nov 2026 17:52:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY4ODA0JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY4ODA0JTdDTGF1bmNoJTIwSE4lM0ElMjBLaW5vJTIwQUklMjAoWUMlMjBTMjMpJTIwJUUyJTgwJTkzJTIwQUklMjBtZWRpYSUyMG1hbmFnZXIlMjBhbmQlMjB2aWRlbyUyMGVkaXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY4ODA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMTclM0EzMSUzQTUzJTIwJTJCMDAwMA",
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "pubDate": "Wed, 04 Nov 2026 17:31:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGcHJvdmFibGUtaW5mZXJlbmNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGcHJvdmFibGUtaW5mZXJlbmNlJTdDUHJvZ3Jlc3MlMjBvbiUyMHByb3ZhYmxlJTIwaW5mZXJlbmNlJTIwZm9yJTIwbGFyZ2UlMjBsYW5ndWFnZSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY4NjI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMTclM0ExNyUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Progress on provable inference for large language models",
+      "pubDate": "Wed, 04 Nov 2026 17:17:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm1vb25zaG90YWklMkZLaW1pLUszLjEtUHJvJTdDaHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm1vb25zaG90YWklMkZLaW1pLUszLjEtUHJvJTdDS2ltaSUyMEszLjElMjBQcm8lMjBtb2RlbCUyMHdlaWdodHMlMjBhcmUlMjBvdXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM2Njk5OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDE1JTNBMzAlM0EzMCUyMCUyQjAwMDA",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "pubDate": "Wed, 04 Nov 2026 15:30:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZvcGVuYWktdG8tYWNxdWlyZS1waWVycmUlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRm9wZW5haS10by1hY3F1aXJlLXBpZXJyZSUyRiU3Q09wZW5BSSUyMHRvJTIwYWNxdWlyZSUyMFBpZXJyZSUyMENvbXB1dGVyJTIwQ29tcGFueSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY2ODYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMTUlM0EyMSUzQTIxJTIwJTJCMDAwMA",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "pubDate": "Wed, 04 Nov 2026 15:21:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYxMSUyRjAyJTJGZm9vZCUyRmNvZmZlZS1tYWNoaW5lLXBsYXN0aWMtZnJlZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI2JTJGMTElMkYwMiUyRmZvb2QlMkZjb2ZmZWUtbWFjaGluZS1wbGFzdGljLWZyZWUlN0NBJTIwd2F2ZSUyMG9mJTIwcGxhc3RpYy1mcmVlJTIwY29mZmVlJTIwcG9kcyUyMGFuZCUyMG1hY2hpbmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjY4NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxNSUzQTIwJTNBNDklMjAlMkIwMDAw",
+      "title": "A wave of plastic-free coffee pods and machines",
+      "pubDate": "Wed, 04 Nov 2026 15:20:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY5OXBlcmNlbnRpbnZpc2libGUub3JnJTJGYXJ0aWNsZSUyRmd1ZXJyaWxsYS1iaWtlLWxhbmVzLXNhbi1mcmFuY2lzY28tbWFrZXMtaWxsaWNpdC1pbmZyYXN0cnVjdHVyZS1wZXJtYW5lbnQlMkYlN0NodHRwcyUzQSUyRiUyRjk5cGVyY2VudGludmlzaWJsZS5vcmclMkZhcnRpY2xlJTJGZ3VlcnJpbGxhLWJpa2UtbGFuZXMtc2FuLWZyYW5jaXNjby1tYWtlcy1pbGxpY2l0LWluZnJhc3RydWN0dXJlLXBlcm1hbmVudCUyRiU3Q0d1ZXJyaWxsYSUyMGJpa2UlMjBsYW5lcyUzQSUyMFNhbiUyMEZyYW5jaXNjbyUyMG1ha2VzJTIwaWxsaWNpdCUyMGluZnJhc3RydWN0dXJlJTIwcGVybWFuZW50JTIwKDIwMTYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjY1MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxNSUzQTAxJTNBNDQlMjAlMkIwMDAw",
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "pubDate": "Wed, 04 Nov 2026 15:01:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY2MTE3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzY2MTE3JTdDQXNrJTIwSE4lM0ElMjBXaGF0J3MlMjB5b3VyJTIwY3VycmVudCUyMEFJJTIwYWdlbnRpYyUyMHNldHVwJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjYxMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxNCUzQTM3JTNBMjIlMjAlMkIwMDAw",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "pubDate": "Wed, 04 Nov 2026 14:37:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoeS50ZW5jZW50LmFpJTJGcmVzZWFyY2glMkZoeTQlN0NodHRwcyUzQSUyRiUyRmh5LnRlbmNlbnQuYWklMkZyZXNlYXJjaCUyRmh5NCU3Q1RlbmNlbnQlMjBIeTQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM2NTc4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDE0JTNBMTElM0EyNiUyMCUyQjAwMDA",
+      "title": "Tencent Hy4",
+      "pubDate": "Wed, 04 Nov 2026 14:11:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2FydGhpaGVnZGUuZGV2JTJGcG9zdHMlMkZkbnNfdGFtcGVyaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cua2FydGhpaGVnZGUuZGV2JTJGcG9zdHMlMkZkbnNfdGFtcGVyaW5nJTdDU28lMjBteSUyMElTUCUyMHdhcyUyMGhpamFja2luZyUyMG15JTIwRE5TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjQ4NjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxMiUzQTUxJTNBNTElMjAlMkIwMDAw",
+      "title": "So my ISP was hijacking my DNS",
+      "pubDate": "Wed, 04 Nov 2026 12:51:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aXJlZHJlYW0uY29tJTJGYW5hZ3JhbS1mdW4lMkYlN0NodHRwcyUzQSUyRiUyRndpcmVkcmVhbS5jb20lMkZhbmFncmFtLWZ1biUyRiU3QzExJTIwTmFub3NlY29uZHMlMjBwZXIlMjBXb3JkJTNBJTIwT3Zlci1PcHRpbWl6aW5nJTIwQW5hZ3JhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM2MzM1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDA5JTNBNTclM0E0MyUyMCUyQjAwMDA",
+      "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
+      "pubDate": "Wed, 04 Nov 2026 09:57:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
     }
   ]
