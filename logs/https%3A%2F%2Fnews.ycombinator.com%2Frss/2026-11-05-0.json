@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-05",
     "newestItemDate": "2026-11-05",
-    "itemCount": 3,
-    "generatedAt": "2026-11-05T06:59:30.764Z"
+    "itemCount": 20,
+    "generatedAt": "2026-11-05T16:32:27.829Z"
   },
   "items": [
     {
@@ -24,6 +24,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2V4LmNvbSUyRnN0YXJmYWxsJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2V4LmNvbSUyRnN0YXJmYWxsJTdDU3RhcmZhbGwlMjAlRTIlODAlOTMlMjBBZmZvcmRhYmxlJTJDJTIwcm91dGluZSUyMGFjY2VzcyUyMHRvJTIwbWljcm9ncmF2aXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzMzMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAwMCUzQTE4JTNBMTglMjAlMkIwMDAw",
       "title": "Starfall – Affordable, routine access to microgravity",
       "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQUdHSUIlMkZTdHJvcSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkFHR0lCJTJGU3Ryb3ElN0NTaG93JTIwSE4lM0ElMjBTdHJvcSUyMCVFMiU4MCU5MyUyMGElMjBsb2NhbCUyMGF1ZGl0JTIwb2YlMjB3aGF0JTIweW91ciUyMGNvZGluZyUyMGFnZW50JTIwZGlkJTIwYW5kJTIwd2h5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzODA3MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxNSUzQTU0JTNBNDElMjAlMkIwMDAw",
+      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+      "pubDate": "Thu, 05 Nov 2026 15:54:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYWRoYXIuZGV2JTJGYmxvZyUyRm11bHRpLWFnZW50LXN5c3RlbXMtZnJvbS1zY3JhdGNoJTdDaHR0cHMlM0ElMkYlMkZrYWRoYXIuZGV2JTJGYmxvZyUyRm11bHRpLWFnZW50LXN5c3RlbXMtZnJvbS1zY3JhdGNoJTdDQnVpbGRpbmclMjBhJTIwTXVsdGktQWdlbnQlMjBTeXN0ZW0lMjBmcm9tJTIwU2NyYXRjaCUzQSUyMEFyY2hpdGVjdHVyZSUyMFBhdHRlcm5zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzODA2NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxNSUzQTUxJTNBNTclMjAlMkIwMDAw",
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "pubDate": "Thu, 05 Nov 2026 15:51:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFycGUuaW8lMkZmYXN0YmNwLTEtNi1leHBvcnQtc3FsLXNlcnZlci1iYWNrdXAtdG8tcGFycXVldCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hcnBlLmlvJTJGZmFzdGJjcC0xLTYtZXhwb3J0LXNxbC1zZXJ2ZXItYmFja3VwLXRvLXBhcnF1ZXQlN0NFeHBvcnRpbmclMjB0YWJsZXMlMjBmcm9tJTIwYSUyMFNRTCUyMFNlcnZlciUyMGJhY2t1cCUyMCguYmFrKSUyMHRvJTIwUGFycXVldCUyMHdpdGhvdXQlMjByZXN0b3JpbmclMjBpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzgwNDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTUlM0EzMyUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
+      "pubDate": "Thu, 05 Nov 2026 15:33:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZ1cGRhdGVkLW1vZGVsLXNwZWMlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRnVwZGF0ZWQtbW9kZWwtc3BlYyUyRiU3Q0FuJTIwdXBkYXRlZCUyME1vZGVsJTIwU3BlYyUyMGZvciUyMG1vcmUlMjBjYXBhYmxlJTIwYW5kJTIwYmVuZWZpY2lhbCUyMEFJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzODAzNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxNSUzQTMxJTNBNDMlMjAlMkIwMDAw",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "pubDate": "Thu, 05 Nov 2026 15:31:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Jkc3RqZXJuZW4ub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZub3Jkc3RqZXJuZW4ub3JnJTJGJTdDTm9yZHN0amVybmVuJTJDJTIwTm9ydGhzdGFyJTJDJTIwU291dGhzdGFyJTNBJTIwbWluaW1hbGlzdCUyMHdlYmJyb3dzZXJzJTIwaW4lMjBDJTIwYW5kJTIwUnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzgwMTcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTUlM0ExNyUzQTMxJTIwJTJCMDAwMA",
+      "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+      "pubDate": "Thu, 05 Nov 2026 15:17:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb3R0a2Uub3JnJTJGMjYlMkYxMSUyRnN0dW5uaW5nLWltYWdlLW9mLW91ci1zYXRlbGxpdGUtY2hva2VkLW5pZ2h0LXNraWVzJTdDaHR0cHMlM0ElMkYlMkZrb3R0a2Uub3JnJTJGMjYlMkYxMSUyRnN0dW5uaW5nLWltYWdlLW9mLW91ci1zYXRlbGxpdGUtY2hva2VkLW5pZ2h0LXNraWVzJTdDSW1hZ2UlMjBvZiUyME91ciUyMFNhdGVsbGl0ZS1DaG9rZWQlMjBOaWdodCUyMFNraWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzk3NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxNCUzQTQ5JTNBMDclMjAlMkIwMDAw",
+      "title": "Image of Our Satellite-Choked Night Skies",
+      "pubDate": "Thu, 05 Nov 2026 14:49:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBpbmVsaW51eC5vcmclMkZwb3N0cyUyRjIwMjYtMTEtMDUtb3BlbnNzaC1wYXNzd29yZC1hdXRoZW50aWNhdGlvbi1ieXBhc3MlMkYlN0NodHRwcyUzQSUyRiUyRmFscGluZWxpbnV4Lm9yZyUyRnBvc3RzJTJGMjAyNi0xMS0wNS1vcGVuc3NoLXBhc3N3b3JkLWF1dGhlbnRpY2F0aW9uLWJ5cGFzcyUyRiU3Q0FscGluZSUyMExpbnV4JTIwU2VjdXJpdHklMjBhZHZpc29yeSUzQSUyME9wZW5TU0gtc2VydmVyJTIwcGFzc3dvcmQlMjBhdXRoZW50aWNhdGlvbiUyMGJ5cGFzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc5NzA0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTQlM0E0NCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+      "pubDate": "Thu, 05 Nov 2026 14:44:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJ2by5vcmclMkZibG9nJTJGMjAyNiUyRjExJTJGMDUlMkZzZXB0ZW1iZXItaW4tc2Vydm8lMkYlN0NodHRwcyUzQSUyRiUyRnNlcnZvLm9yZyUyRmJsb2clMkYyMDI2JTJGMTElMkYwNSUyRnNlcHRlbWJlci1pbi1zZXJ2byUyRiU3Q1NlcHRlbWJlciUyMGluJTIwU2Vydm8lM0ElMjAlM0Nwcm9ncmVzcyUzRSUyQyUyMHJvdW5kZWQlMjByZWN0YW5nbGVzJTJDJTIwYW5kJTIwbW9yZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc5NTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTQlM0EzNCUzQTE4JTIwJTJCMDAwMA",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "pubDate": "Thu, 05 Nov 2026 14:34:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtY3AtZXhwbGFpbmVkLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWNwLWV4cGxhaW5lZC5jb20lMkYlN0NNQ1AlMjBFeHBsYWluZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM3OTI0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDE0JTNBMDglM0EzNSUyMCUyQjAwMDA",
+      "title": "MCP Explained",
+      "pubDate": "Thu, 05 Nov 2026 14:08:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcmltaW5hbGx5dnVsZ2FyLmRldiUyRnlvdS1zaG91bGQtYWJzb2x1dGVseS1kb3dubG9hZC15b3VyLWZhdm91cml0ZS15b3V0dWJlLXZpZGVvcyUyRiU3Q2h0dHBzJTNBJTJGJTJGY3JpbWluYWxseXZ1bGdhci5kZXYlMkZ5b3Utc2hvdWxkLWFic29sdXRlbHktZG93bmxvYWQteW91ci1mYXZvdXJpdGUteW91dHViZS12aWRlb3MlMkYlN0NEb3dubG9hZCUyMHlvdXIlMjBmYXZvdXJpdGUlMjBZb3VUdWJlJTIwdmlkZW9zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzg1NzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxMyUzQTAwJTNBMTElMjAlMkIwMDAw",
+      "title": "Download your favourite YouTube videos",
+      "pubDate": "Thu, 05 Nov 2026 13:00:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaG9ib3NsYWIub3JnJTJGbG9nJTJGMjAyNiUyRjExJTJGbjY0LXVsYy1jb2RlYyU3Q2h0dHBzJTNBJTJGJTJGcGhvYm9zbGFiLm9yZyUyRmxvZyUyRjIwMjYlMkYxMSUyRm42NC11bGMtY29kZWMlN0NPYnNjdXJlJTIwYXVkaW8lMjBjb2RlYyUyMGlzJTIwYSUyMHBlcmZlY3QlMjBmaXQlMjBmb3IlMjB0aGUlMjBONjQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM3ODUwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDEyJTNBNTElM0E0OCUyMCUyQjAwMDA",
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "pubDate": "Thu, 05 Nov 2026 12:51:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzc2hob2xlLmNvbSU3Q2h0dHBzJTNBJTJGJTJGc3NoaG9sZS5jb20lMkYlN0NTc2hvbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM3ODIyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDEyJTNBMTklM0EwMiUyMCUyQjAwMDA",
+      "title": "Sshole",
+      "pubDate": "Thu, 05 Nov 2026 12:19:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbnNzaC5vcmclMkZyZWxlYXNlbm90ZXMuaHRtbCUyMzEwLjZwMiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm9wZW5zc2gub3JnJTJGcmVsZWFzZW5vdGVzLmh0bWwlMjMxMC42cDIlN0NPcGVuU1NIJTIwMTAuNnAyJTIwQ3JpdGljYWwlMjB3b3JrYXJvdW5kJTIwZm9yJTIwYWxwaW5lJTIwd2l0aG91dCUyMFBBTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc3OTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTElM0E0MCUzQTMwJTIwJTJCMDAwMA",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "pubDate": "Thu, 05 Nov 2026 11:40:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcmlrZ2FobmVyLmdpdGh1Yi5pbyUyRnBvc3RzJTJGMjAyNiUyRmF3ZXNvbWUtcmVwb3NpdG9yaWVzLWFyZS1uby1sb25nZXItYXdlc29tZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZXJpa2dhaG5lci5naXRodWIuaW8lMkZwb3N0cyUyRjIwMjYlMkZhd2Vzb21lLXJlcG9zaXRvcmllcy1hcmUtbm8tbG9uZ2VyLWF3ZXNvbWUlMkYlN0NBd2Vzb21lJTIwcmVwb3NpdG9yaWVzJTIwYXJlJTIwbm8lMjBsb25nZXIlMjBhd2Vzb21lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzc4MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxMSUzQTE2JTNBNTElMjAlMkIwMDAw",
+      "title": "Awesome repositories are no longer awesome",
+      "pubDate": "Thu, 05 Nov 2026 11:16:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlcm5pZS5iYWlkdS5jb20lMkZyZWxlYXNlJTJGZXJuaWUtNS01LWZsYXNoLWJhc2UlMkYlN0NodHRwcyUzQSUyRiUyRmVybmllLmJhaWR1LmNvbSUyRnJlbGVhc2UlMkZlcm5pZS01LTUtZmxhc2gtYmFzZSUyRiU3Q0JhaWR1JTIwcmVsZWFzZWQlMjBFUk5JRSUyMDUuNSUyMEZsYXNoJTIwQmFzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc3MDc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMDklM0EyOSUzQTEyJTIwJTJCMDAwMA",
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "pubDate": "Thu, 05 Nov 2026 09:29:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGlnbm1lbnQub3BlbmFpLmNvbSUyRm1pc2FsaWdubWVudC1yZXBvcnRzJTJGY292ZXJ0LXVuZGVycGVyZm9ybWFuY2Utb24tc2FmZXR5LXJlc2VhcmNoLXRhc2tzJTJGJTdDaHR0cHMlM0ElMkYlMkZhbGlnbm1lbnQub3BlbmFpLmNvbSUyRm1pc2FsaWdubWVudC1yZXBvcnRzJTJGY292ZXJ0LXVuZGVycGVyZm9ybWFuY2Utb24tc2FmZXR5LXJlc2VhcmNoLXRhc2tzJTJGJTdDR1BULTYlMjBBc3RyYSUyMGNvdmVydGx5JTIwdW5kZXJwZXJmb3JtcyUyMG9uJTIwc2FmZXR5JTIwcmVzZWFyY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM3NjMxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDA3JTNBNDQlM0EzMCUyMCUyQjAwMDA",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "pubDate": "Thu, 05 Nov 2026 07:44:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYXl0aG9sZW4ubmV0JTJGdGVlbmdhbWVkZXYlMkYlN0NodHRwcyUzQSUyRiUyRmpheXRob2xlbi5uZXQlMkZ0ZWVuZ2FtZWRldiUyRiU3Q0JlaW5nJTIwYSUyMGtpZCUyMG1ha2luZyUyMGdhbWVzJTIwaW4lMjB0aGUlMjBlYXJseSUyMDIwMDBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzU2OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAwNSUzQTUzJTNBNTMlMjAlMkIwMDAw",
+      "title": "Being a kid making games in the early 2000s",
+      "pubDate": "Thu, 05 Nov 2026 05:53:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
     }
   ]
