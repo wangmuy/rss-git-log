@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-06",
     "newestItemDate": "2026-11-06",
-    "itemCount": 6,
-    "generatedAt": "2026-11-06T06:59:23.779Z"
+    "itemCount": 25,
+    "generatedAt": "2026-11-06T16:00:33.917Z"
   },
   "items": [
     {
@@ -42,6 +42,120 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlua2luZ21hY2hpbmVzLmFpJTJGbmV3cyUyRmlua2xpbmctMi1zbWFsbCUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhpbmtpbmdtYWNoaW5lcy5haSUyRm5ld3MlMkZpbmtsaW5nLTItc21hbGwlMkYlN0NJbmtsaW5nJTIwMiUyMFNtYWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzODYzMzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAwMCUzQTAwJTNBMjQlMjAlMkIwMDAw",
       "title": "Inkling 2 Small",
       "pubDate": "Fri, 06 Nov 2026 00:00:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlsZnJlLm5ldCUyRjIwMjYlMkYxMSUyRmRldXMtZXglMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5maWxmcmUubmV0JTJGMjAyNiUyRjExJTJGZGV1cy1leCUyRiU3Q0RldXMlMjBFeCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzkzNzU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMTUlM0E0NCUzQTM2JTIwJTJCMDAwMA",
+      "title": "Deus Ex",
+      "pubDate": "Fri, 06 Nov 2026 15:44:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmFhLmdvdiUyRm5ld3Nyb29tJTJGdHJ1bXBzLXRyYW5zcG9ydGF0aW9uLXNlY3JldGFyeS1zZWFuLXAtZHVmZnktYmVnaW5zLXJldGlyaW5nLWRlY2FkZXMtb2xkLWZsb3BweS1kaXNrcy1haXIlN0NodHRwcyUzQSUyRiUyRnd3dy5mYWEuZ292JTJGbmV3c3Jvb20lMkZ0cnVtcHMtdHJhbnNwb3J0YXRpb24tc2VjcmV0YXJ5LXNlYW4tcC1kdWZmeS1iZWdpbnMtcmV0aXJpbmctZGVjYWRlcy1vbGQtZmxvcHB5LWRpc2tzLWFpciU3Q0ZBQSUyMEJlZ2lucyUyMFJldGlyaW5nJTIwRGVjYWRlcyUyME9sZCUyMEZsb3BweSUyMERpc2tzJTIwZnJvbSUyMEFpciUyMFRyYWZmaWMlMjBDb250cm9sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTMxODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAxNSUzQTAzJTNBMjQlMjAlMkIwMDAw",
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "pubDate": "Fri, 06 Nov 2026 15:03:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudmlzdWFsY2FwaXRhbGlzdC5jb20lMkZ3aGVyZS1lYWNoLXN0YXRlcy10YXgtcmV2ZW51ZS1jb21lcy1mcm9tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudmlzdWFsY2FwaXRhbGlzdC5jb20lMkZ3aGVyZS1lYWNoLXN0YXRlcy10YXgtcmV2ZW51ZS1jb21lcy1mcm9tJTJGJTdDV2hlcmUlMjBFYWNoJTIwVS5TLiUyMFN0YXRlJTIwR2V0cyUyMEl0cyUyMFRheCUyMFJldmVudWUlMjBGcm9tJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTMxNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAxNSUzQTAyJTNBMDclMjAlMkIwMDAw",
+      "title": "Where Each U.S. State Gets Its Tax Revenue From",
+      "pubDate": "Fri, 06 Nov 2026 15:02:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZyaXAtY3liZXJ0cnVjay15b3Utd2VyZS11bmxvdmVkLXVud2FudGVkLWFuZC11dHRlcmx5LWFic3VyZCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGcmlwLWN5YmVydHJ1Y2steW91LXdlcmUtdW5sb3ZlZC11bndhbnRlZC1hbmQtdXR0ZXJseS1hYnN1cmQlMkYlN0NSSVAlMjBDeWJlcnRydWNrLiUyMFlvdSUyMFdlcmUlMjBVbmxvdmVkJTJDJTIwVW53YW50ZWQlMkMlMjBhbmQlMjBVdHRlcmx5JTIwQWJzdXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTMxNTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAxNSUzQTAxJTNBMzglMjAlMkIwMDAw",
+      "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+      "pubDate": "Fri, 06 Nov 2026 15:01:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzkzMTA1JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzkzMTA1JTdDQXNrJTIwSE4lM0ElMjBXaGF0JTIwaW4lMjB0aGUlMjB3b3JsZCUyMGlzJTIwdGFraW5nJTIwVWJ1bnR1JTIwc28lMjBsb25nJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTMxMDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAxNCUzQTU4JTNBMzMlMjAlMkIwMDAw",
+      "title": "Ask HN: What in the world is taking Ubuntu so long?",
+      "pubDate": "Fri, 06 Nov 2026 14:58:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGFyZWRwaHlzaWNzLmNvbSUyRmxpcHBpdHQta25vc3Rlci1pbi1wcmFjdGljZS1maWVsZC1ub3Rlcy1mb3ItbWFuYWdpbmctY29tcGxleC1wcm9qZWN0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGc2hhcmVkcGh5c2ljcy5jb20lMkZsaXBwaXR0LWtub3N0ZXItaW4tcHJhY3RpY2UtZmllbGQtbm90ZXMtZm9yLW1hbmFnaW5nLWNvbXBsZXgtcHJvamVjdHMlMkYlN0NMaXBwaXR0LUtub3N0ZXIlMjBpbiUyMFByYWN0aWNlJTIwKEZpZWxkJTIwTm90ZXMlMjBmb3IlMjBNYW5hZ2luZyUyMENvbXBsZXglMjBQcm9qZWN0cyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5MzA4OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDE0JTNBNTclM0ExNiUyMCUyQjAwMDA",
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "pubDate": "Fri, 06 Nov 2026 14:57:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRndvcmxkJTJGdW5pdmVyc2l0eS1saWJyYXJpZXMtYWktZGF0YS1zY3JhcGluZy1ib3RzLTkuNzQwODI4NyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNiYy5jYSUyRm5ld3MlMkZ3b3JsZCUyRnVuaXZlcnNpdHktbGlicmFyaWVzLWFpLWRhdGEtc2NyYXBpbmctYm90cy05Ljc0MDgyODclN0NVbml2ZXJzaXR5JTIwbGlicmFyaWVzJTIwYXJlJTIwYmVpbmclMjBzd2FybWVkJTIwYnklMjBBSSUyMGJvdHMlMkMlMjBwdXR0aW5nJTIwcHVibGljJTIwYWNjZXNzJTIwYXQlMjByaXNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTI0OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAxNCUzQTEzJTNBMDklMjAlMkIwMDAw",
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "pubDate": "Fri, 06 Nov 2026 14:13:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmRldmVsb3BlcnMtdG9vbHMlMkZpbnRyb2R1Y2luZy1nZW1pbmktb21uaS0xLTItZmxhc2glMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ29vZ2xlJTJGaW5ub3ZhdGlvbi1hbmQtYWklMkZ0ZWNobm9sb2d5JTJGZGV2ZWxvcGVycy10b29scyUyRmludHJvZHVjaW5nLWdlbWluaS1vbW5pLTEtMi1mbGFzaCUyRiU3Q0dlbWluaSUyME9tbmklMjAxLjIlMjBGbGFzaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzkyMTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMTMlM0EzNSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Gemini Omni 1.2 Flash",
+      "pubDate": "Fri, 06 Nov 2026 13:35:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbWJvZGktYWklMkZqb2JzJTdDaHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGbWJvZGktYWklMkZqb2JzJTdDTWJvZGklMjBBSSUyMChZQyUyMFAyNSklMjBJcyUyMEhpcmluZyUyMFJlc2VhcmNoJTIwYW5kJTIwUm9ib3RpYyUyMEVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzkxMzQyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMTIlM0EwMCUzQTQyJTIwJTJCMDAwMA",
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "pubDate": "Fri, 06 Nov 2026 12:00:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVW5sZWFzaCUyRnVubGVhc2glN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZVbmxlYXNoJTJGdW5sZWFzaCU3Q1dlJ3ZlJTIwYnVpbHQlMjBhbiUyMG9wZW4tc291cmNlJTIwZmVhdHVyZSUyMGZsYWclMjBzZXJ2ZXIlMjBmb3IlMjAxMSUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTExNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAxMSUzQTQwJTNBMDYlMjAlMkIwMDAw",
+      "title": "We've built an open-source feature flag server for 11 years",
+      "pubDate": "Fri, 06 Nov 2026 11:40:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqaHIucGVuc29mdC5uZXQlMkZhcnRpY2xlcy5waHAlM0ZpZCUzRDkwOTYlN0NodHRwcyUzQSUyRiUyRmpoci5wZW5zb2Z0Lm5ldCUyRmFydGljbGVzLnBocCUzRmlkJTNEOTA5NiU3Q0xpdmluZyUyMGJleW9uZCUyMHRoZSUyMGxpbWl0cyUyMG9mJTIwc3Vydml2YWwlM0ElMjB3b29kJTIwYW50cyUyMHRyYXBwZWQlMjBpbiUyMGElMjBnaWdhbnRpYyUyMHBpdGZhbGwlMjAoMjAxNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5MDUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDEwJTNBMjElM0ExNSUyMCUyQjAwMDA",
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "pubDate": "Fri, 06 Nov 2026 10:21:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUHJpdlNlYy1kZXYlMkZiYW5raW5nLWFwcHMtY29tcGF0LXJlcG9ydCUyRmlzc3VlcyUyRjEwNSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlByaXZTZWMtZGV2JTJGYmFua2luZy1hcHBzLWNvbXBhdC1yZXBvcnQlMkZpc3N1ZXMlMkYxMDUlN0NEdXRjaCUyMCdpZGVhbGlzdCclMjBiYW5rJTIwQVNOJTIwYmxvY2tzJTIwbm9uLUdvb2dsZSUyMEFuZHJvaWQlMkMlMjBpbmNsdWRpbmclMjBHcmFwaGVuZU9TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTAxMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAwOSUzQTI3JTNBMTIlMjAlMkIwMDAw",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "pubDate": "Fri, 06 Nov 2026 09:27:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGaG93LXJlc2VhcmNoZXJzLXVzZS1jbGF1ZGUlN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGcmVzZWFyY2glMkZob3ctcmVzZWFyY2hlcnMtdXNlLWNsYXVkZSU3Q0FJJTIwZm9yJTIwc2NpZW50aWZpYyUyMGRpc2NvdmVyeSUzQSUyMEhvdyUyMHJlc2VhcmNoZXJzJTIwdXNlJTIwQ2xhdWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzODk5OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAwOSUzQTEzJTNBMzAlMjAlMkIwMDAw",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "pubDate": "Fri, 06 Nov 2026 09:13:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm9ydmlnLmNvbSUyRmNob21za3kuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vcnZpZy5jb20lMkZjaG9tc2t5Lmh0bWwlN0NDaG9tc2t5JTIwYW5kJTIwdGhlJTIwVHdvJTIwQ3VsdHVyZXMlMjBvZiUyMFN0YXRpc3RpY2FsJTIwTGVhcm5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4OTU3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDA4JTNBMTglM0EzNiUyMCUyQjAwMDA",
+      "title": "Chomsky and the Two Cultures of Statistical Learning",
+      "pubDate": "Fri, 06 Nov 2026 08:18:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3JsZHN0cmlrZS5mdW4lMkYlN0NodHRwcyUzQSUyRiUyRndvcmxkc3RyaWtlLmZ1biUyRiU3Q011bHRpcGxheWVyJTIwdGFua3MlMjB0aGF0JTIwZGVtb2xpc2glMjByZWFsJTIwYnVpbGRpbmdzJTIwZnJvbSUyME9wZW5TdHJlZXRNYXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4OTQyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDA3JTNBNTUlM0E0OCUyMCUyQjAwMDA",
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "pubDate": "Fri, 06 Nov 2026 07:55:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcHBzLm1ldGFlYmVuZS5tZSUyRmVuJTJGa3VnZWxibGl0eiU3Q2h0dHBzJTNBJTJGJTJGYXBwcy5tZXRhZWJlbmUubWUlMkZlbiUyRmt1Z2VsYmxpdHolN0NLdWdlbGJsaXR6JTIwJUUyJTgwJTkzJTIwTWFjLU5hdGl2ZSUyMEdvb2dsZSUyMEVhcnRoJTIwQWx0ZXJuYXRpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4OTM3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDA3JTNBNDclM0EzOCUyMCUyQjAwMDA",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "pubDate": "Fri, 06 Nov 2026 07:47:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcHBtcHJlZXRoYW0lMkZCVUklN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZwcG1wcmVldGhhbSUyRkJVSSU3Q0JsZW5kZXIncyUyMFVJJTIwYW5kJTIwUnVudGltZSUzQSUyME11Y2glMjBGYXN0ZXIlMjBUaGFuJTIwR1BVSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzg5MzMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMDclM0E0MCUzQTM1JTIwJTJCMDAwMA",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "pubDate": "Fri, 06 Nov 2026 07:40:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2VydC1pbi5vcmcuaW4lMkZzMmNNYWluU2VydmxldCUzRnBhZ2VpZCUzRFBVQlZMTk9URVMwMSUyNlZMQ09ERSUzRENJVk4tMjAyNi0wNTM3JTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2VydC1pbi5vcmcuaW4lMkZzMmNNYWluU2VydmxldCUzRnBhZ2VpZCUzRFBVQlZMTk9URVMwMSUyNlZMQ09ERSUzRENJVk4tMjAyNi0wNTM3JTdDSGFyZGNvZGVkJTIwY3JlZGVudGlhbHMlMjBhbmQlMjBvdGhlciUyMGlzc3VlcyUyMGluJTIwVGF0YSUyME1vdG9ycyUyMEFwcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzg5MjYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMDclM0EyOCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Hardcoded credentials and other issues in Tata Motors App",
+      "pubDate": "Fri, 06 Nov 2026 07:28:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRndvcmxkLWF0LXdvcmslMkZicml0YWluLW1ha2Utc2FsYXJ5LWRpc2Nsb3N1cmUtam9iLWFkcy1tYW5kYXRvcnktMjAyNi0xMS0wNSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGYnVzaW5lc3MlMkZ3b3JsZC1hdC13b3JrJTJGYnJpdGFpbi1tYWtlLXNhbGFyeS1kaXNjbG9zdXJlLWpvYi1hZHMtbWFuZGF0b3J5LTIwMjYtMTEtMDUlMkYlN0NCcml0YWluJTIwdG8lMjBtYWtlJTIwc2FsYXJ5JTIwZGlzY2xvc3VyZSUyMGluJTIwam9iJTIwYWRzJTIwbWFuZGF0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzODkyMjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAwNyUzQTIyJTNBMDQlMjAlMkIwMDAw",
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "pubDate": "Fri, 06 Nov 2026 07:22:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
     }
   ]
