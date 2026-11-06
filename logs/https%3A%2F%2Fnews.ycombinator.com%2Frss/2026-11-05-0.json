@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-05",
     "newestItemDate": "2026-11-05",
-    "itemCount": 20,
-    "generatedAt": "2026-11-05T16:32:27.829Z"
+    "itemCount": 36,
+    "generatedAt": "2026-11-06T06:59:23.779Z"
   },
   "items": [
     {
@@ -126,6 +126,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqYXl0aG9sZW4ubmV0JTJGdGVlbmdhbWVkZXYlMkYlN0NodHRwcyUzQSUyRiUyRmpheXRob2xlbi5uZXQlMkZ0ZWVuZ2FtZWRldiUyRiU3Q0JlaW5nJTIwYSUyMGtpZCUyMG1ha2luZyUyMGdhbWVzJTIwaW4lMjB0aGUlMjBlYXJseSUyMDIwMDBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzU2OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAwNSUzQTUzJTNBNTMlMjAlMkIwMDAw",
       "title": "Being a kid making games in the early 2000s",
       "pubDate": "Thu, 05 Nov 2026 05:53:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaW5hbmNlLnlhaG9vLmNvbSUyRnRlY2hub2xvZ3klMkZhaSUyRmFydGljbGVzJTJGbWFyay1jdWJhbi1zYXlzLWZhY2Vib29rLWtub3dpbmdseS0yMTMwMDAwMjAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZmluYW5jZS55YWhvby5jb20lMkZ0ZWNobm9sb2d5JTJGYWklMkZhcnRpY2xlcyUyRm1hcmstY3ViYW4tc2F5cy1mYWNlYm9vay1rbm93aW5nbHktMjEzMDAwMDIwLmh0bWwlN0NDdWJhbiUzQSUyMEZhY2Vib29rJTIwa25vd2luZ2x5JTIwcnVucyUyMEFJJTIwZGVlcGZha2UlMjBzY2FtJTIwYWRzJTNCJTIwZG9jcyUyMHNheSUyMCUyNDE2QiUyMGZyYXVkJTIwcmV2ZW51ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzg1ODcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMjMlM0EwOSUzQTU3JTIwJTJCMDAwMA",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "pubDate": "Thu, 05 Nov 2026 23:09:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmNsYXVkZS1jb2RlJTJGaXNzdWVzJTJGMTA3NzU3JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50aHJvcGljcyUyRmNsYXVkZS1jb2RlJTJGaXNzdWVzJTJGMTA3NzU3JTdDQ2xhdWRlJTIwQ29kZSUyMHNlbmRzJTIweW91ciUyMGVtYWlsJTIwYWRkcmVzcyUyMHRvJTIwd2Vic2l0ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4NTI3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDIyJTNBMTclM0ExNSUyMCUyQjAwMDA",
+      "title": "Claude Code sends your email address to websites",
+      "pubDate": "Thu, 05 Nov 2026 22:17:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3ZlLm9yZyUyRkNWRVJlY29yZCUzRmlkJTNEQ1ZFLTIwMjYtODM4NDQlN0NodHRwcyUzQSUyRiUyRnd3dy5jdmUub3JnJTJGQ1ZFUmVjb3JkJTNGaWQlM0RDVkUtMjAyNi04Mzg0NCU3Q01TJTIwUGFpbnQlMjBSZW1vdGUlMjBDb2RlJTIwRXhlY3V0aW9uJTIwVnVsbmVyYWJpbGl0eSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzg0MjMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMjAlM0E0MyUzQTQyJTIwJTJCMDAwMA",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "pubDate": "Thu, 05 Nov 2026 20:43:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYWdpLmNvbSUyRmNoYW5nZWxvZyUyMzExODIwJTdDaHR0cHMlM0ElMkYlMkZrYWdpLmNvbSUyRmNoYW5nZWxvZyUyMzExODIwJTdDU2VhcmNoJTIwZm9yJTIwZXZlcnlvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4Mzc0MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDIwJTNBMDMlM0EzNCUyMCUyQjAwMDA",
+      "title": "Search for everyone",
+      "pubDate": "Thu, 05 Nov 2026 20:03:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2Fsb24uY29tJTJGMjAyNiUyRjExJTJGMDUlMkZnb29kYnllLWZyb20tc2Fsb24lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zYWxvbi5jb20lMkYyMDI2JTJGMTElMkYwNSUyRmdvb2RieWUtZnJvbS1zYWxvbiUyRiU3Q0dvb2RieWUlMjBmcm9tJTIwU2Fsb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4MzczOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDIwJTNBMDMlM0EyOSUyMCUyQjAwMDA",
+      "title": "Goodbye from Salon",
+      "pubDate": "Thu, 05 Nov 2026 20:03:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFuZ3JhbS5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctcGFuZ3JhbS1pbWFnZS0xLTAlN0NodHRwcyUzQSUyRiUyRnd3dy5wYW5ncmFtLmNvbSUyRmJsb2clMkZpbnRyb2R1Y2luZy1wYW5ncmFtLWltYWdlLTEtMCU3Q1BhbmdyYW0lMjBJbWFnZSUyMDEuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzgzMjk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTklM0EyNyUzQTUyJTIwJTJCMDAwMA",
+      "title": "Pangram Image 1.0",
+      "pubDate": "Thu, 05 Nov 2026 19:27:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF1dC5jYSUyRmJsb2clMkYyMDI2JTJGMTElMkYwNSUyRnRoZS1oYWNraW50b3NoLXJlYm9ybi13aXRoLWFpJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF1dC5jYSUyRmJsb2clMkYyMDI2JTJGMTElMkYwNSUyRnRoZS1oYWNraW50b3NoLXJlYm9ybi13aXRoLWFpJTJGJTdDVGhlJTIwSGFja2ludG9zaCUyMFJlYm9ybiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzgzMDU3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTklM0EwOCUzQTIyJTIwJTJCMDAwMA",
+      "title": "The Hackintosh Reborn",
+      "pubDate": "Thu, 05 Nov 2026 19:08:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcml2ZXQtZGV2JTJGcml2ZXQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZyaXZldC1kZXYlMkZyaXZldCU3Q0xhdW5jaCUyMEhOJTNBJTIwUml2ZXQlMjAoWUMlMjBXMjMpJTIwJUUyJTgwJTkzJTIwU2NhbGUlMjBhbmQlMjBPcmNoZXN0cmF0ZSUyMEFnZW50cyUyMG9uJTIwUzMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4MTY4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDE3JTNBMTclM0E0MiUyMCUyQjAwMDA",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "pubDate": "Thu, 05 Nov 2026 17:17:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGYmlsZC1haSUyRmpvYnMlN0NodHRwcyUzQSUyRiUyRnd3dy55Y29tYmluYXRvci5jb20lMkZjb21wYW5pZXMlMkZiaWxkLWFpJTJGam9icyU3Q0JpbGQlMjBBSSUyMChZQyUyMFcyNSklMjBJcyUyMEhpcmluZyUyMEZvdW5kaW5nJTIwUHJvZHVjdCUyMEVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzgxNTEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTclM0EwMSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "pubDate": "Thu, 05 Nov 2026 17:01:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2FyYWdvcmRpYyUyRndpbmRvdy1zd2VhdGVycyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnNhcmFnb3JkaWMlMkZ3aW5kb3ctc3dlYXRlcnMlN0NXaW5kb3clMjBTd2VhdGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzgxMzgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTYlM0E1MCUzQTE0JTIwJTJCMDAwMA",
+      "title": "Window Sweaters",
+      "pubDate": "Thu, 05 Nov 2026 16:50:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuYWklMkZhcnRpZmFjdCUyRkw4cXNNYzNTb3J5dEdXM0xBODFuWWYlN0NodHRwcyUzQSUyRiUyRmNsYXVkZS5haSUyRmFydGlmYWN0JTJGTDhxc01jM1Nvcnl0R1czTEE4MW5ZZiU3Q015JTIwcHN5Y2hvcGh5c2ljcyUyMGFzJTIwYSUyMGJpbGF0ZXJhbCUyMGNvY2hsZWFyJTIwaW1wbGFudCUyMHVzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4MTAzMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDE2JTNBMjElM0ExMiUyMCUyQjAwMDA",
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "pubDate": "Thu, 05 Nov 2026 16:21:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZheGlvbW1hdGguYWklMkZyZXNlYXJjaCUyRnRoZS1zdGFja3MtcHJvamVjdC1mb3JtYWxpemVkJTJGJTdDaHR0cHMlM0ElMkYlMkZheGlvbW1hdGguYWklMkZyZXNlYXJjaCUyRnRoZS1zdGFja3MtcHJvamVjdC1mb3JtYWxpemVkJTJGJTdDVGhlJTIwU3RhY2tzJTIwUHJvamVjdCUyQyUyMEZvcm1hbGl6ZWQlMjBpbiUyMExlYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4MDk3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDE2JTNBMTYlM0E1OSUyMCUyQjAwMDA",
+      "title": "The Stacks Project, Formalized in Lean",
+      "pubDate": "Thu, 05 Nov 2026 16:16:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3Rvcm9sYW5ld3MuY29tJTJGbW90b3JvbGEtc2lnbmF0dXJlLTI3LTIlMkYlN0NodHRwcyUzQSUyRiUyRm1vdG9yb2xhbmV3cy5jb20lMkZtb3Rvcm9sYS1zaWduYXR1cmUtMjctMiUyRiU3Q01vdG9yb2xhJTIwU2lnbmF0dXJlJTIwMjclMjB3aXRoJTIwR3JhcGhlbmVPUyUyMHN1cHBvcnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4MDgxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDE2JTNBMDElM0EzNCUyMCUyQjAwMDA",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "pubDate": "Thu, 05 Nov 2026 16:01:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYWtoaW0uZXhvdGV4dC5jb20lMkZpLXdpc2gtdGVjaC1jb21wYW5pZXMta25ldy1tb3JlLWFib3V0LW1lJTdDaHR0cHMlM0ElMkYlMkZyYWtoaW0uZXhvdGV4dC5jb20lMkZpLXdpc2gtdGVjaC1jb21wYW5pZXMta25ldy1tb3JlLWFib3V0LW1lJTdDSSUyMHdpc2glMjB0ZWNoJTIwY29tcGFuaWVzJTIwa25ldyUyMG1vcmUlMjBhYm91dCUyMG1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzg5NDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxMyUzQTQwJTNBNTIlMjAlMkIwMDAw",
+      "title": "I wish tech companies knew more about me",
+      "pubDate": "Thu, 05 Nov 2026 13:40:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaXJlbm9vay5kZXYlMkYlN0NodHRwcyUzQSUyRiUyRmZpcmVub29rLmRldiUyRiU3Q1Nob3clMjBITiUzQSUyMEZpcmVub29rJTIwJUUyJTgwJTkzJTIwRmlyZWJhc2UlMjBlbXVsYXRvcnMlMjBpbiUyMFJ1c3QlM0ElMjA0MCVDMyU5NyUyMGZhc3RlciUyMHdyaXRlcyUyQyUyMDEwJUMzJTk3JTIwbGVzcyUyMFJBTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc4NjQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTMlM0EwNyUzQTI5JTIwJTJCMDAwMA",
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "pubDate": "Thu, 05 Nov 2026 13:07:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzc2hob2xlLmNvbSU3Q2h0dHBzJTNBJTJGJTJGc3NoaG9sZS5jb20lMkYlN0Nzc2hvbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM3ODIyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDEyJTNBMTklM0EwMiUyMCUyQjAwMDA",
+      "title": "sshole",
+      "pubDate": "Thu, 05 Nov 2026 12:19:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
     }
   ]

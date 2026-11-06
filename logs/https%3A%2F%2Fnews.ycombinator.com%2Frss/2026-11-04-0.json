@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-04",
     "newestItemDate": "2026-11-04",
-    "itemCount": 48,
-    "generatedAt": "2026-11-05T06:59:30.764Z"
+    "itemCount": 49,
+    "generatedAt": "2026-11-06T06:59:23.779Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3aXJlZHJlYW0uY29tJTJGYW5hZ3JhbS1mdW4lMkYlN0NodHRwcyUzQSUyRiUyRndpcmVkcmVhbS5jb20lMkZhbmFncmFtLWZ1biUyRiU3QzExJTIwTmFub3NlY29uZHMlMjBwZXIlMjBXb3JkJTNBJTIwT3Zlci1PcHRpbWl6aW5nJTIwQW5hZ3JhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM2MzM1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDA5JTNBNTclM0E0MyUyMCUyQjAwMDA",
       "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
       "pubDate": "Wed, 04 Nov 2026 09:57:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGludW0uYWklMkZmaWVsZC1ub3RlcyUyRnBqaXQtMjFrJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGludW0uYWklMkZmaWVsZC1ub3RlcyUyRnBqaXQtMjFrJTdDU2hvdyUyMEhOJTNBJTIwQSUyMGRlY2VudCUyMHRleHQtdG8taW1hZ2UlMjBtb2RlbCUyMHRyYWluZWQlMjBmb3IlMjB+JTI0MjBLJTIwKEFwYWNoZSUyMDIuMCUyMFdlaWdodHMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjgyMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxNiUzQTQ1JTNBMTElMjAlMkIwMDAw",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "pubDate": "Wed, 04 Nov 2026 16:45:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
     }
   ]
