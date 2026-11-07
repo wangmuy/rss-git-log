@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-07",
     "newestItemDate": "2026-11-07",
-    "itemCount": 12,
-    "generatedAt": "2026-11-07T14:57:26.562Z"
+    "itemCount": 26,
+    "generatedAt": "2026-11-07T20:18:21.311Z"
   },
   "items": [
     {
@@ -78,6 +78,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGY29tcG9uZW50cy1vZi1hZ2VudC1tZW1vcnklN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGcmVzZWFyY2glMkZjb21wb25lbnRzLW9mLWFnZW50LW1lbW9yeSU3Q1RoZSUyMENvbXBvbmVudHMlMjBvZiUyMEFnZW50JTIwTWVtb3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDIyMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAwNiUzQTM5JTNBMDQlMjAlMkIwMDAw",
       "title": "The Components of Agent Memory",
       "pubDate": "Sat, 07 Nov 2026 06:39:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmJvc3NjaGVyLmNoJTJGcG9zdHMlMkZvcGVuc3RpY2slMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuYm9zc2NoZXIuY2glMkZwb3N0cyUyRm9wZW5zdGljayUyRiU3Q1doYXQlMjBJJTIwcnVuJTIwb24lMjBteSUyMCUyNDEwJTIwVVNEJTIwT3BlblN0aWNrJTIwaG9tZWxhYiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDA2NjcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMTglM0ExMiUzQTEyJTIwJTJCMDAwMA",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "pubDate": "Sat, 07 Nov 2026 18:12:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodW5jaC5uZXQlMkYlM0ZwJTNEMTM3NjQwMDYlN0NodHRwcyUzQSUyRiUyRmh1bmNoLm5ldCUyRiUzRnAlM0QxMzc2NDAwNiU3Q1RoZSUyMGVuZCUyMG9mJTIwTWljcm9zb2Z0JTIwUmVzZWFyY2gncyUyMEFJJTIwRnJvbnRpZXJzJTIwZ3JvdXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwNjU2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDE4JTNBMDIlM0ExNyUyMCUyQjAwMDA",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "pubDate": "Sat, 07 Nov 2026 18:02:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXRsYXNvYnNjdXJhLmNvbSUyRmFydGljbGVzJTJGdGhlLWhpc3Rvcnktb2YtZ2Vvd29ya3MtbWljcm9zb2Z0LXdpbmRvd3MtdXBzdGFydC05MHMtY29tcGV0aXRvciU3Q2h0dHBzJTNBJTJGJTJGd3d3LmF0bGFzb2JzY3VyYS5jb20lMkZhcnRpY2xlcyUyRnRoZS1oaXN0b3J5LW9mLWdlb3dvcmtzLW1pY3Jvc29mdC13aW5kb3dzLXVwc3RhcnQtOTBzLWNvbXBldGl0b3IlN0NHZW9Xb3JrcyUyQyUyME1pY3Jvc29mdCUyMFdpbmRvd3MnJTIwVXBzdGFydCUyMCc5MHMlMjBDb21wZXRpdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDY1MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNyUzQTU0JTNBNTYlMjAlMkIwMDAw",
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+      "pubDate": "Sat, 07 Nov 2026 17:54:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9nMjEuZGFkZ3VtLmNvbSUyRjE5Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnByb2cyMS5kYWRndW0uY29tJTJGMTkuaHRtbCU3Q0ZpdmUlMjBtZW1vcmFibGUlMjBib29rcyUyMGFib3V0JTIwcHJvZ3JhbW1pbmclMjAoMjAwOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwNjMxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDE3JTNBMzAlM0E0OSUyMCUyQjAwMDA",
+      "title": "Five memorable books about programming (2008)",
+      "pubDate": "Sat, 07 Nov 2026 17:30:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGVkZ2Vyb3ctZGV2JTJGY29sZGZyYW1lJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaGVkZ2Vyb3ctZGV2JTJGY29sZGZyYW1lJTdDU2hvdyUyMEhOJTNBJTIwQ29sZGZyYW1lJTJDJTIwYSUyMGhvbmV5cG90JTIwdGhhdCUyMHBvc2VzJTIwYXMlMjBhJTIwc3VwZXJtYXJrZXQlMjBmcmlkZ2UlMjBjb250cm9sbGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDYyOTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNyUzQTI3JTNBMzAlMjAlMkIwMDAw",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "pubDate": "Sat, 07 Nov 2026 17:27:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXh4YmVuY2gudW5sYXAuYWklMkZyZXNlYXJjaCUyRndoeS1tYXh4YmVuY2glMkYlN0NodHRwcyUzQSUyRiUyRm1heHhiZW5jaC51bmxhcC5haSUyRnJlc2VhcmNoJTJGd2h5LW1heHhiZW5jaCUyRiU3Q01heHhCZW5jaCUyMCVFMiU4MCU5MyUyMCUyMk5pY2UlMjBEZWVwU1dFJTIwc2NvcmUuJTIwQnV0JTIwaXMlMjBpdCUyMHRydWUlM0YlMjIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwNjIyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDE3JTNBMTklM0EwMCUyMCUyQjAwMDA",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "pubDate": "Sat, 07 Nov 2026 17:19:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGdGVjaG5vbG9neSUyRjIwMjYlMkZub3YlMkYwNiUyRnN0cnVnZ2xpbmctdG8tc3BlbGwtbWFsZS1jaGF1dmluaXN0LXBpZy1hcHBsZS1ncmV5LWxpc3QtbWVhbnMteW91ci1pcGhvbmUtd29udC1oZWxwLXlvdSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWd1YXJkaWFuLmNvbSUyRnRlY2hub2xvZ3klMkYyMDI2JTJGbm92JTJGMDYlMkZzdHJ1Z2dsaW5nLXRvLXNwZWxsLW1hbGUtY2hhdXZpbmlzdC1waWctYXBwbGUtZ3JleS1saXN0LW1lYW5zLXlvdXItaXBob25lLXdvbnQtaGVscC15b3UlN0NBcHBsZSVFMiU4MCU5OXMlMjBncmV5JTIwbGlzdCUzQSUyMFdvcmRzJTIwYW5kJTIwcGhyYXNlcyUyMHlvdXIlMjBpUGhvbmUlMjB3b24lRTIlODAlOTl0JTIwaGVscCUyMHlvdSUyMHNwZWxsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDYxMTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNyUzQTA2JTNBMzYlMjAlMkIwMDAw",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "pubDate": "Sat, 07 Nov 2026 17:06:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtY2VnbG93c2tpLnN1YnN0YWNrLmNvbSUyRnAlMkZob3ctbG9uZy1jYW4tbGlmZS13YWl0JTdDaHR0cHMlM0ElMkYlMkZtY2VnbG93c2tpLnN1YnN0YWNrLmNvbSUyRnAlMkZob3ctbG9uZy1jYW4tbGlmZS13YWl0JTdDSG93JTIwTG9uZyUyMENhbiUyMExpZmUlMjBXYWl0JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDU3ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNiUzQTIyJTNBNTklMjAlMkIwMDAw",
+      "title": "How Long Can Life Wait?",
+      "pubDate": "Sat, 07 Nov 2026 16:22:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGVldHMud29ya3MlMkZkYXRhLXZpeiUyRmNwdS1kaWVzJTdDaHR0cHMlM0ElMkYlMkZzaGVldHMud29ya3MlMkZkYXRhLXZpeiUyRmNwdS1kaWVzJTdDRXZlcnklMjBwcm9jZXNzb3IlMjBkaWUlMjBhbnlvbmUlMjBoYXMlMjBwaG90b2dyYXBoZWQlMjBhbmQlMjBnaXZlbiUyMGF3YXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwNTc4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDE2JTNBMjElM0EzNiUyMCUyQjAwMDA",
+      "title": "Every processor die anyone has photographed and given away",
+      "pubDate": "Sat, 07 Nov 2026 16:21:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXZpbmJvb25lLm1lJTJGdHB3aW4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGa2V2aW5ib29uZS5tZSUyRnRwd2luLmh0bWwlN0NUaGV5JTIwZG9uJ3QlMjBtYWtlJTIwJ2VtJTIwbGlrZSUyMHRoYXQlMjBhbnklMjBtb3JlJTNBJTIwQm9ybGFuZCUyMFR1cmJvJTIwUGFzY2FsJTIwNyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDA1Njc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMTYlM0EwNiUzQTI3JTIwJTJCMDAwMA",
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "pubDate": "Sat, 07 Nov 2026 16:06:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3Vzc2kuZGslMkZ0ZXJyeS1wcmF0Y2hldHRzLXN0dWR5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3Vzc2kuZGslMkZ0ZXJyeS1wcmF0Y2hldHRzLXN0dWR5JTdDVGVycnklMjBQcmF0Y2hldHQncyUyMFN0dWR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDU2NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNiUzQTA1JTNBNDUlMjAlMkIwMDAw",
+      "title": "Terry Pratchett's Study",
+      "pubDate": "Sat, 07 Nov 2026 16:05:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVmlkZW8tUmViaXJ0aCUyRmh5cGVyZmxvdy1oMy1mbGFzaCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlZpZGVvLVJlYmlydGglMkZoeXBlcmZsb3ctaDMtZmxhc2glN0NTaG93JTIwSE4lM0ElMjBXZSUyMGNvbXByZXNzZWQlMjBhJTIwMzFCJTIwdmlkZW8lMkJhdWRpbyUyMGRpZmZ1c2lvbiUyMG1vZGVsJTIwdG8lMjAxNEIlMkMlMjA2JTIwc3RlcHMlMkMlMjBJTlQ4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDUyNjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNSUzQTE2JTNBMDElMjAlMkIwMDAw",
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "pubDate": "Sat, 07 Nov 2026 15:16:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2ZlZC5vcmclMkZtZWRpYWxpYnJhcnklMkZtZWRpYSUyRnJlc2VhcmNoJTJGZXByJTJGMjAxNiUyRmVwcl8yMDE2X2dvcmRvbi1nZWtrby1lZmZlY3RfbG8ucGRmJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2ZlZC5vcmclMkZtZWRpYWxpYnJhcnklMkZtZWRpYSUyRnJlc2VhcmNoJTJGZXByJTJGMjAxNiUyRmVwcl8yMDE2X2dvcmRvbi1nZWtrby1lZmZlY3RfbG8ucGRmJTdDVGhlJTIwR29yZG9uJTIwR2Vra28lMjBFZmZlY3QlM0ElMjBUaGUlMjBSb2xlJTIwb2YlMjBDdWx0dXJlJTIwaW4lMjB0aGUlMjBGaW5hbmNpYWwlMjBJbmR1c3RyeSUyMCU1QnBkZiU1RCUyMCgyMDE2KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDA0NzQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMTQlM0ExOCUzQTQ1JTIwJTJCMDAwMA",
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+      "pubDate": "Sat, 07 Nov 2026 14:18:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2luZG93c2xhdGVzdC5jb20lMkYyMDI2JTJGMTElMkYwNiUyRmV2ZXJ5LXdpbmRvd3MtMTEtYXBwLXNob3VsZC1raWxsLWVsZWN0cm9uLWFuZC1kaXNjb3JkLWp1c3Qtc2hvd2VkLXdoeS1uby1zdGFydGluZy1zY3JlZW4tYW5kLTcwLWxlc3MtcmFtLWV2ZW4td2l0aC10d28tYWNjb3VudHMtc2lnbmVkLWluJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cud2luZG93c2xhdGVzdC5jb20lMkYyMDI2JTJGMTElMkYwNiUyRmV2ZXJ5LXdpbmRvd3MtMTEtYXBwLXNob3VsZC1raWxsLWVsZWN0cm9uLWFuZC1kaXNjb3JkLWp1c3Qtc2hvd2VkLXdoeS1uby1zdGFydGluZy1zY3JlZW4tYW5kLTcwLWxlc3MtcmFtLWV2ZW4td2l0aC10d28tYWNjb3VudHMtc2lnbmVkLWluJTJGJTdDRXZlcnklMjBXaW5kb3dzJTIwMTElMjBhcHAlMjBzaG91bGQlMjBraWxsJTIwRWxlY3Ryb24lMkMlMjBhbmQlMjBEaXNjb3JkJTIwanVzdCUyMHNob3dlZCUyMHdoeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDAzNTA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMTElM0ExMSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "pubDate": "Sat, 07 Nov 2026 11:11:15 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
     }
   ]
