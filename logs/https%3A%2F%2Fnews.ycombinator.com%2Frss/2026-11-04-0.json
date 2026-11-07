@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-04",
     "newestItemDate": "2026-11-04",
-    "itemCount": 51,
-    "generatedAt": "2026-11-07T06:11:59.523Z"
+    "itemCount": 54,
+    "generatedAt": "2026-11-07T14:57:26.563Z"
   },
   "items": [
     {
@@ -312,6 +312,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGaGlzdG9yeSUyRmdyZWVjZS1oYXMtaXRzLW93bi1wb21wZWlpLWFuZC10aGUtcnVpbnMtdGVsbC1hLWNhcHRpdmF0aW5nLXN0b3J5LW9mLWEtc29waGlzdGljYXRlZC1zZWFmYXJpbmctYnJvbnplLWFnZS1zb2NpZXR5LTE4MDk4OTc0NyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNtaXRoc29uaWFubWFnLmNvbSUyRmhpc3RvcnklMkZncmVlY2UtaGFzLWl0cy1vd24tcG9tcGVpaS1hbmQtdGhlLXJ1aW5zLXRlbGwtYS1jYXB0aXZhdGluZy1zdG9yeS1vZi1hLXNvcGhpc3RpY2F0ZWQtc2VhZmFyaW5nLWJyb256ZS1hZ2Utc29jaWV0eS0xODA5ODk3NDclMkYlN0NHcmVlY2UlMjBoYXMlMjBpdHMlMjBvd24lMjBQb21wZWlpJTNBJTIwVGhlcmElMjBidXJpZWQlMjBBa3JvdGlyaSUyMGluJTIwYXNoJTIwMTd0aC0xNnRoJTIwY2VudHVyeSUyMEJDRSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzYwODEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMDIlM0ExOSUzQTE2JTIwJTJCMDAwMA",
       "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
       "pubDate": "Wed, 04 Nov 2026 02:19:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cml4dGVyLm9sZHNrb29sLm9yZyUyRjIwMTQlMkYwNiUyRjE5JTJGODA4OC1kb21pbmF0aW9uLXBvc3QtbW9ydGVtLXBhcnQtMSUyRiU3Q2h0dHBzJTNBJTJGJTJGdHJpeHRlci5vbGRza29vbC5vcmclMkYyMDE0JTJGMDYlMkYxOSUyRjgwODgtZG9taW5hdGlvbi1wb3N0LW1vcnRlbS1wYXJ0LTElMkYlN0M4MDg4JTIwRG9taW5hdGlvbiUyMFBvc3QtTW9ydGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjkyODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAxOCUzQTA2JTNBMTQlMjAlMkIwMDAw",
+      "title": "8088 Domination Post-Mortem",
+      "pubDate": "Wed, 04 Nov 2026 18:06:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZHUucG9zdGdyZXNwcm8uY29tJTJGcG9zdGdyZXNxbF9pbnRlcm5hbHMtMTRfZW4ucGRmJTdDaHR0cHMlM0ElMkYlMkZlZHUucG9zdGdyZXNwcm8uY29tJTJGcG9zdGdyZXNxbF9pbnRlcm5hbHMtMTRfZW4ucGRmJTdDUG9zdGdyZVNRTCUyMEludGVybmFscyUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzYxNzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMDUlM0EyMiUzQTQzJTIwJTJCMDAwMA",
+      "title": "PostgreSQL Internals [pdf]",
+      "pubDate": "Wed, 04 Nov 2026 05:22:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlamZveC5jb20lMkZwcm9qZWN0cyUyRm5iYy1iaWctYm9hcmQlN0NodHRwcyUzQSUyRiUyRmVqZm94LmNvbSUyRnByb2plY3RzJTJGbmJjLWJpZy1ib2FyZCU3Q0J1aWxkaW5nJTIwdGhlJTIwTkJDJTIwTmV3cyUyMEJpZyUyMEJvYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNjE0MTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAwNCUzQTA5JTNBNDglMjAlMkIwMDAw",
+      "title": "Building the NBC News Big Board",
+      "pubDate": "Wed, 04 Nov 2026 04:09:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-07",
     "newestItemDate": "2026-11-07",
-    "itemCount": 5,
-    "generatedAt": "2026-11-07T06:11:59.522Z"
+    "itemCount": 12,
+    "generatedAt": "2026-11-07T14:57:26.562Z"
   },
   "items": [
     {
@@ -36,6 +36,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqb3NlZi5jbiUyRmJsb2clMkZ1bml0cmVlJTdDaHR0cHMlM0ElMkYlMkZqb3NlZi5jbiUyRmJsb2clMkZ1bml0cmVlJTdDSSUyMHRvdXJlZCUyMFVuaXRyZWUncyUyMGZhY3RvcnkuJTIwSSdtJTIwbW9yZSUyMGJ1bGxpc2glMjBvbiUyMHRoZSUyMFdlc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwMDU5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDAxJTNBMDUlM0ExNiUyMCUyQjAwMDA",
       "title": "I toured Unitree's factory. I'm more bullish on the West",
       "pubDate": "Sat, 07 Nov 2026 01:05:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnRoZWxpdHRsZWVuZ2luZWVydGhhdGNvdWxkLmJsb2dzcG90LmNvbSUyRjIwMjIlMkYxMiUyRnRoZS04LWxpbnV4LWNvbXB1dGVyLmh0bWwlN0NodHRwJTNBJTJGJTJGdGhlbGl0dGxlZW5naW5lZXJ0aGF0Y291bGQuYmxvZ3Nwb3QuY29tJTJGMjAyMiUyRjEyJTJGdGhlLTgtbGludXgtY29tcHV0ZXIuaHRtbCU3Q1RoZSUyMCUyNDglMjBMaW51eCUyMENvbXB1dGVyJTIwKDIwMjIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDQ1OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNCUzQTAwJTNBMjAlMjAlMkIwMDAw",
+      "title": "The $8 Linux Computer (2022)",
+      "pubDate": "Sat, 07 Nov 2026 14:00:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1cGxvYWR5b3VycmFtLm9yZyU3Q2h0dHBzJTNBJTJGJTJGdXBsb2FkeW91cnJhbS5vcmclMkYlN0NVcGxvYWQlMjBZb3VyJTIwUkFNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDMyMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxMCUzQTE1JTNBMjYlMjAlMkIwMDAw",
+      "title": "Upload Your RAM",
+      "pubDate": "Sat, 07 Nov 2026 10:15:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY4cmFuay5haSUyRmdhbWUlMkZhcHBsZS1pbnRlbGxpZ2VuY2UtcGVyc29uYWwta25vd2xlZGdlLWdyYXBoJTdDaHR0cHMlM0ElMkYlMkY4cmFuay5haSUyRmdhbWUlMkZhcHBsZS1pbnRlbGxpZ2VuY2UtcGVyc29uYWwta25vd2xlZGdlLWdyYXBoJTdDRXZlcnklMjBNYWMlMjBjb21lcyUyMHdpdGglMjBhbiUyMCh1bmRvY3VtZW50ZWQpJTIwZmFtaWx5JTIwbWVtYmVyJTIwY2xhc3NpZmllciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDAzMDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMDklM0E0NiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "pubDate": "Sat, 07 Nov 2026 09:46:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWNvZGVkLmxlZ2FsJTJGYmxvZyUyRjIwMjYlMkYxMSUyRnJ1bm5pbmctYS1sYXctZmlybS1vbi1mcmVlLXNvZnR3YXJlLTIwMjYtZWRpdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGZGVjb2RlZC5sZWdhbCUyRmJsb2clMkYyMDI2JTJGMTElMkZydW5uaW5nLWEtbGF3LWZpcm0tb24tZnJlZS1zb2Z0d2FyZS0yMDI2LWVkaXRpb24lMkYlN0NSdW5uaW5nJTIwYSUyMGxhdyUyMGZpcm0lMjBvbiUyMEZyZWUlMjBzb2Z0d2FyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDAzMDY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMDklM0EzOSUzQTA2JTIwJTJCMDAwMA",
+      "title": "Running a law firm on Free software",
+      "pubDate": "Sat, 07 Nov 2026 09:39:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhY2lkLnZlZ2FzJTJGYmxvZyUyRnRoZS1wb3J0LXRoYXQtZG9lcy1ub3QtZXhpc3QlMkYlN0NodHRwcyUzQSUyRiUyRmFjaWQudmVnYXMlMkZibG9nJTJGdGhlLXBvcnQtdGhhdC1kb2VzLW5vdC1leGlzdCUyRiU3Q1BvcnQlMjAwJTNBJTIwVGhlJTIwUG9ydCUyMFRoYXQlMjBEb2VzJTIwTm90JTIwRXhpc3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwMzA2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDA5JTNBMzglM0EyNiUyMCUyQjAwMDA",
+      "title": "Port 0: The Port That Does Not Exist",
+      "pubDate": "Sat, 07 Nov 2026 09:38:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZnN1Mi54eXolMkYlN0NodHRwcyUzQSUyRiUyRm5mc3UyLnh5eiUyRiU3Q05lZWQlMjBmb3IlMjBTcGVlZCUyMFVuZGVyZ3JvdW5kJTIwMiUyMG9ubGluZSUyMGluJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDAzMDUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMDklM0EzNiUzQTM2JTIwJTJCMDAwMA",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "pubDate": "Sat, 07 Nov 2026 09:36:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGY29tcG9uZW50cy1vZi1hZ2VudC1tZW1vcnklN0NodHRwcyUzQSUyRiUyRnd3dy5hbnRocm9waWMuY29tJTJGcmVzZWFyY2glMkZjb21wb25lbnRzLW9mLWFnZW50LW1lbW9yeSU3Q1RoZSUyMENvbXBvbmVudHMlMjBvZiUyMEFnZW50JTIwTWVtb3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDIyMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAwNiUzQTM5JTNBMDQlMjAlMkIwMDAw",
+      "title": "The Components of Agent Memory",
+      "pubDate": "Sat, 07 Nov 2026 06:39:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
     }
   ]
