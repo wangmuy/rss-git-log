@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-06",
     "newestItemDate": "2026-11-06",
-    "itemCount": 49,
-    "generatedAt": "2026-11-06T21:36:41.296Z"
+    "itemCount": 55,
+    "generatedAt": "2026-11-07T06:11:59.522Z"
   },
   "items": [
     {
@@ -300,6 +300,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRnVzJTJGdXMtZmFhLXNheXMtaXQtd2lsbC1waGFzZS1vdXQtZmxvcHB5LWRpc2tzLWFpci10cmFmZmljLWNvbnRyb2wtYnktMjAyOC0yMDI2LTExLTA1JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRnVzJTJGdXMtZmFhLXNheXMtaXQtd2lsbC1waGFzZS1vdXQtZmxvcHB5LWRpc2tzLWFpci10cmFmZmljLWNvbnRyb2wtYnktMjAyOC0yMDI2LTExLTA1JTJGJTdDVVMlMjBGQUElMjBzYXlzJTIwaXQlMjB3aWxsJTIwcGhhc2UlMjBvdXQlMjBmbG9wcHklMjBkaXNrcyUyMGZyb20lMjBhaXIlMjB0cmFmZmljJTIwY29udHJvbCUyMGJ5JTIwMjAyOCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzg4MDAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMDQlM0EwMCUzQTI4JTIwJTJCMDAwMA",
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "pubDate": "Fri, 06 Nov 2026 04:00:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubXVsdGlmYW1pbHlkaXZlLmNvbSUyRm5ld3MlMkZyZWFscGFnZS1yZW50LXByaWNpbmctY2FzZS0zNjBtLXJlbnRlcnMlMkY4NzM1NTMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5tdWx0aWZhbWlseWRpdmUuY29tJTJGbmV3cyUyRnJlYWxwYWdlLXJlbnQtcHJpY2luZy1jYXNlLTM2MG0tcmVudGVycyUyRjg3MzU1MyUyRiU3Q1JlYWxQYWdlJTIwcmVudC1wcmljaW5nJTIwY2FzZSUyMHdyYXBzJTIwd2l0aCUyMG5lYXJseSUyMCUyNDM2ME0lMjB0byUyMHJlbnRlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5OTk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDIzJTNBMzclM0ExOSUyMCUyQjAwMDA",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "pubDate": "Fri, 06 Nov 2026 23:37:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaXRjaGVsbGguY29tJTJGd3JpdGluZyUyRmxpYmdob3N0dHktMS0wJTdDaHR0cHMlM0ElMkYlMkZtaXRjaGVsbGguY29tJTJGd3JpdGluZyUyRmxpYmdob3N0dHktMS0wJTdDTGliZ2hvc3R0eSUyMDEuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzk5OTMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMjMlM0EzMCUzQTUyJTIwJTJCMDAwMA",
+      "title": "Libghostty 1.0",
+      "pubDate": "Fri, 06 Nov 2026 23:30:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucHYtbWFnYXppbmUuY29tJTJGMjAyNiUyRjExJTJGMDYlMkZzb2RpdW0taW9uLWJhdHRlcmllcy1hcHByb2FjaC1jb3N0LXBhcml0eS13aXRoLWxmcC13aXRoLTcwLWd3aC1jb3ZlcmVkLWJ5LXN1cHBseS1hZ3JlZW1lbnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucHYtbWFnYXppbmUuY29tJTJGMjAyNiUyRjExJTJGMDYlMkZzb2RpdW0taW9uLWJhdHRlcmllcy1hcHByb2FjaC1jb3N0LXBhcml0eS13aXRoLWxmcC13aXRoLTcwLWd3aC1jb3ZlcmVkLWJ5LXN1cHBseS1hZ3JlZW1lbnRzJTJGJTdDU29kaXVtLWlvbiUyMGJhdHRlcmllcyUyMGFwcHJvYWNoJTIwY29zdCUyMHBhcml0eSUyMHdpdGglMjBMRlAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5OTY1NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDIzJTNBMDAlM0E0NiUyMCUyQjAwMDA",
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "pubDate": "Fri, 06 Nov 2026 23:00:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3J1c29lLmFpJTJGcmVzb3VyY2VzJTJGbmV3c3Jvb20lMkZjcnVzb2Utd3lvbWluZy1kYXRhLWNlbnRlci1jYW1wdXMtdXBkYXRlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3J1c29lLmFpJTJGcmVzb3VyY2VzJTJGbmV3c3Jvb20lMkZjcnVzb2Utd3lvbWluZy1kYXRhLWNlbnRlci1jYW1wdXMtdXBkYXRlJTdDR29vZ2xlJTIwaGFzJTIwYWNxdWlyZWQlMjBDcnVzb2UncyUyMGRhdGElMjBjZW50ZXIlMjBzaXRlJTIwaW4lMjBzb3V0aGVhc3QlMjBXeW9taW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTc3MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAyMCUzQTA5JTNBMTQlMjAlMkIwMDAw",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "pubDate": "Fri, 06 Nov 2026 20:09:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuYmxvZyUyRmVuZ2luZWVyaW5nJTJGYXJjaGl0ZWN0dXJlLW9wdGltaXphdGlvbiUyRmluc2lkZS1naXRodWJzLW5ldy1naXQtc3RvcmFnZS1hcmNoaXRlY3R1cmUlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5ibG9nJTJGZW5naW5lZXJpbmclMkZhcmNoaXRlY3R1cmUtb3B0aW1pemF0aW9uJTJGaW5zaWRlLWdpdGh1YnMtbmV3LWdpdC1zdG9yYWdlLWFyY2hpdGVjdHVyZSUyRiU3Q0dpdEh1YidzJTIwbmV3JTIwR2l0JTIwc3RvcmFnZSUyMGFyY2hpdGVjdHVyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzk3MDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMDYlMjBOb3YlMjAyMDI2JTIwMTklM0EyNCUzQTIxJTIwJTJCMDAwMA",
+      "title": "GitHub's new Git storage architecture",
+      "pubDate": "Fri, 06 Nov 2026 19:24:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXR0bGFrZW1hbi5vcmclMkYyMDI2JTJGMTElMkYwNSUyRm5vdGVzLW9uLXNhbi1tYXJpbm8lMkYlN0NodHRwcyUzQSUyRiUyRm1hdHRsYWtlbWFuLm9yZyUyRjIwMjYlMkYxMSUyRjA1JTJGbm90ZXMtb24tc2FuLW1hcmlubyUyRiU3Q05vdGVzJTIwb24lMjBTYW4lMjBNYXJpbm8lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5NTE4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDE3JTNBMTIlM0EwNSUyMCUyQjAwMDA",
+      "title": "Notes on San Marino",
+      "pubDate": "Fri, 06 Nov 2026 17:12:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
     }
   ]

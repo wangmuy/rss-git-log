@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-03",
     "newestItemDate": "2026-11-03",
-    "itemCount": 55,
-    "generatedAt": "2026-11-05T16:32:27.829Z"
+    "itemCount": 59,
+    "generatedAt": "2026-11-07T06:11:59.523Z"
   },
   "items": [
     {
@@ -336,6 +336,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZsZWFuY3Jldy5jb20lMkZhbGwtdGhpcyUyRjIwMjYlMkYxMCUyRnRleHRlZGl0LXZzLXBhZ2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZsZWFuY3Jldy5jb20lMkZhbGwtdGhpcyUyRjIwMjYlMkYxMCUyRnRleHRlZGl0LXZzLXBhZ2VzJTJGJTdDVGV4dEVkaXQlMjB2cy4lMjBQYWdlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUyODQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTUlM0EwMCUzQTA5JTIwJTJCMDAwMA",
       "title": "TextEdit vs. Pages",
       "pubDate": "Tue, 03 Nov 2026 15:00:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQW1wZXJlQ29tcHV0aW5nJTJGcGFudGhlcmElN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZBbXBlcmVDb21wdXRpbmclMkZwYW50aGVyYSU3Q1BhbnRoZXJhJTNBJTIwQW1wZXJlJ3MlMjBDUFUlMjBQZXJmb3JtYW5jZSUyME1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNTY3MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAwMyUyME5vdiUyMDIwMjYlMjAxOSUzQTEyJTNBMTclMjAlMkIwMDAw",
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "pubDate": "Tue, 03 Nov 2026 19:12:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW5kcmV3Ym9sZGklMkZ0bXV4LXJlc3RvcmUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbmRyZXdib2xkaSUyRnRtdXgtcmVzdG9yZSU3Q1Nob3clMjBITiUzQSUyMFRtdXgtcmVzdG9yZSUyMHNhdmVzJTIwdG11eCUyMHdpbmRvd3MlMjBhbmQlMjBhZ2VudCUyMHNlc3Npb25zJTIwYWNyb3NzJTIwcmVib290cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU1MDA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTclM0EyNSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "pubDate": "Tue, 03 Nov 2026 17:25:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaXZvdGxha2UuaW8lMkZibG9nJTJGa25vdy15b3VyLWxpbWl0LWZhc3Rlci10b3Atay1hZ2dyZWdhdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGcGl2b3RsYWtlLmlvJTJGYmxvZyUyRmtub3cteW91ci1saW1pdC1mYXN0ZXItdG9wLWstYWdncmVnYXRpb24lMkYlN0NDYW4lMjBHUk9VUCUyMEJZJTIwc3RpbGwlMjBiZSUyMG9wdGltaXplZCUyMGFmdGVyJTIwYWxsJTIwdGhlc2UlMjB5ZWFycyUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzU0MDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTYlM0EzMCUzQTIzJTIwJTJCMDAwMA",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "pubDate": "Tue, 03 Nov 2026 16:30:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFkYWZydWl0LmNvbSUyRjIwMjYlMkYxMCUyRjMxJTJGZmxhc2gtYy1jb21waWxlciUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hZGFmcnVpdC5jb20lMkYyMDI2JTJGMTAlMkYzMSUyRmZsYXNoLWMtY29tcGlsZXIlMkYlN0NUaGUlMjBGbGFzaCUyMEMlMjBDb21waWxlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUyNzAxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTQlM0E0OSUzQTQyJTIwJTJCMDAwMA",
+      "title": "The Flash C Compiler",
+      "pubDate": "Tue, 03 Nov 2026 14:49:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
     }
   ]
