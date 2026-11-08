@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-05",
     "newestItemDate": "2026-11-05",
-    "itemCount": 43,
-    "generatedAt": "2026-11-08T06:17:10.305Z"
+    "itemCount": 45,
+    "generatedAt": "2026-11-08T15:21:49.838Z"
   },
   "items": [
     {
@@ -264,6 +264,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzY2llbmNlJTJGMjAyNiUyRjExJTJGdXJhbml1bS1jdWJlcy1yZXZlYWwtd2h5LXRoZS1nZXJtYW4tbnVjbGVhci1wcm9qZWN0LWZhaWxlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGc2NpZW5jZSUyRjIwMjYlMkYxMSUyRnVyYW5pdW0tY3ViZXMtcmV2ZWFsLXdoeS10aGUtZ2VybWFuLW51Y2xlYXItcHJvamVjdC1mYWlsZWQlMkYlN0NVcmFuaXVtJTIwY3ViZXMlMjByZXZlYWwlMjB3aHklMjB0aGUlMjBHZXJtYW4lMjBudWNsZWFyJTIwcHJvamVjdCUyMGZhaWxlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc3NjYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTAlM0E1MiUzQTA0JTIwJTJCMDAwMA",
       "title": "Uranium cubes reveal why the German nuclear project failed",
       "pubDate": "Thu, 05 Nov 2026 10:52:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2hpa29rdWNodW8lMkZweW1penUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzaGlrb2t1Y2h1byUyRnB5bWl6dSU3Q01penUlMjAlRTIlODAlOTMlMjB6ZXJvLWNvcHklMjBwYXJhbGxlbCUyMFIlMjBhbmQlMjBQeXRob24lMjBvdmVyJTIwc2hhcmVkJTIwbWVtb3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzODAwNTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAwNSUyME5vdiUyMDIwMjYlMjAxNSUzQTA5JTNBMDQlMjAlMkIwMDAw",
+      "title": "Mizu – zero-copy parallel R and Python over shared memory",
+      "pubDate": "Thu, 05 Nov 2026 15:09:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWFkb25seW1lbW8uY29tJTJGbGVnZW5kLW9mLXhhbmFkdS1wYy1lbmdpbmUtZmFuLXRyYW5zbGF0aW9uLWludGVydmlldy1tYWtpbmctb2YlMkYlN0NodHRwcyUzQSUyRiUyRnJlYWRvbmx5bWVtby5jb20lMkZsZWdlbmQtb2YteGFuYWR1LXBjLWVuZ2luZS1mYW4tdHJhbnNsYXRpb24taW50ZXJ2aWV3LW1ha2luZy1vZiUyRiU3Q0ZpbmRpbmclMjBYYW5hZHUlM0ElMjBJbnNpZGUlMjBhJTIwSlJQRyUyMGNsYXNzaWMlMjB0cmFuc2xhdGlvbiUyMDE1JTIweWVhcnMlMjBpbiUyMHRoZSUyMG1ha2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc4OTc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTMlM0E0NCUzQTA3JTIwJTJCMDAwMA",
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "pubDate": "Thu, 05 Nov 2026 13:44:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
     }
   ]

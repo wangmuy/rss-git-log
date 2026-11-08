@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-08",
     "newestItemDate": "2026-11-08",
-    "itemCount": 4,
-    "generatedAt": "2026-11-08T06:17:10.305Z"
+    "itemCount": 12,
+    "generatedAt": "2026-11-08T15:21:49.837Z"
   },
   "items": [
     {
@@ -30,6 +30,54 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY3JtbmUlMkZ6YXBmYXN0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY3JtbmUlMkZ6YXBmYXN0JTdDWmFwRmFzdCUzQSUyMEElMjBmYXN0JTJDJTIwbmF0aXZlJTIwV2hhdHNBcHAlMjBjbGllbnQlMjBpbiUyMFJ1c3QlMjBhbmQlMjBlZ3VpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDk4NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAwMiUzQTAyJTNBMjclMjAlMkIwMDAw",
       "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
       "pubDate": "Sun, 08 Nov 2026 02:02:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcnRoci5jbyUyRnBlcnNvbi1vZi1pbnRlcmVzdCUyRiU3Q2h0dHBzJTNBJTJGJTJGa3J0aHIuY28lMkZwZXJzb24tb2YtaW50ZXJlc3QlMkYlN0NQZXJzb24lMjBvZiUyMEludGVyZXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTIzMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxMSUzQTIzJTNBMjglMjAlMkIwMDAw",
+      "title": "Person of Interest",
+      "pubDate": "Sun, 08 Nov 2026 11:23:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhd29ya2luZ2xpYnJhcnkuY29tJTJGd3JpdGluZyUyRnBldGVyZWQlN0NodHRwcyUzQSUyRiUyRmF3b3JraW5nbGlicmFyeS5jb20lMkZ3cml0aW5nJTJGcGV0ZXJlZCU3Q1BldGVyZWQlMjAod2hhdCUyMGhhcHBlbnMlMjBhZnRlciUyMHRoZSUyMFBldGVyJTIwUHJpbmNpcGxlKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDEyMTUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTAlM0E1NiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Petered (what happens after the Peter Principle)",
+      "pubDate": "Sun, 08 Nov 2026 10:56:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYmVuZGVyLm9yZyUyRmJsb2clMkZqaXQtYml0bWFwLXRleHQlMkYlN0NodHRwcyUzQSUyRiUyRmxpbmViZW5kZXIub3JnJTJGYmxvZyUyRmppdC1iaXRtYXAtdGV4dCUyRiU3Q0pJVCUyMGJpdG1hcCUyMHRleHQlMjByZW5kZXJpbmclMjBmb3IlMjBtaWNyb2NvbnRyb2xsZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTIwNzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxMCUzQTQyJTNBMTUlMjAlMkIwMDAw",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "pubDate": "Sun, 08 Nov 2026 10:42:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm11cmF0YnVmZmFsby5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTElMkZ3cml0aW5nLWFzLXRoaW5raW5nLXRvb2wuaHRtbCU3Q2h0dHAlM0ElMkYlMkZtdXJhdGJ1ZmZhbG8uYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjExJTJGd3JpdGluZy1hcy10aGlua2luZy10b29sLmh0bWwlN0NXcml0aW5nJTIwYXMlMjBhJTIwVGhpbmtpbmclMjBUb29sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTIwNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxMCUzQTQxJTNBNTIlMjAlMkIwMDAw",
+      "title": "Writing as a Thinking Tool",
+      "pubDate": "Sun, 08 Nov 2026 10:41:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc3luY2hvcGF0ZSUyRmxsYW1hLW1vZGNoaXAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzeW5jaG9wYXRlJTJGbGxhbWEtbW9kY2hpcCU3Q0xsYW1hLW1vZGNoaXAlM0ElMjAyODRCJTIwRGVlcFNlZWslMjBvbiUyMDY0R0IlMjBSQU0lMkMlMjBubyUyMEdQVSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDExOTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTAlM0EyMiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "pubDate": "Sun, 08 Nov 2026 10:22:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubG9yZWtpdC5pbyUyRmJsb2clMkZvcGVuLWFnZW50LW1lbW9yeS1mb3JtYXQlN0NodHRwcyUzQSUyRiUyRnd3dy5sb3Jla2l0LmlvJTJGYmxvZyUyRm9wZW4tYWdlbnQtbWVtb3J5LWZvcm1hdCU3Q0FnZW50JTIwbWVtb3J5JTIwbmVlZHMlMjBpdHMlMjBPcGVuVGVsZW1ldHJ5JTIwbW9tZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTE0NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAwOCUzQTQwJTNBMjMlMjAlMkIwMDAw",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "pubDate": "Sun, 08 Nov 2026 08:40:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ3JhZWFsZXglMkZXYXZlRHVkZU5leHQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZncmFlYWxleCUyRldhdmVEdWRlTmV4dCU3Q1dhdmVEdWRlTmV4dCUyMDJEJTIwV2F2ZSUyMFNpbXVsYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDExMDgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMDclM0EwOSUzQTAyJTIwJTJCMDAwMA",
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "pubDate": "Sun, 08 Nov 2026 07:09:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG11bm96djA0JTJGaXNwb25zb3JibG9ja3R2JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG11bm96djA0JTJGaXNwb25zb3JibG9ja3R2JTdDSVNwb25zb3JCbG9ja1RWJTNBJTIwU3BvbnNvckJsb2NrJTIwY2xpZW50JTIwZm9yJTIwYWxsJTIwWW91VHViZSUyMFRWJTIwY2xpZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDEwMjQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMDMlM0E0NyUzQTE5JTIwJTJCMDAwMA",
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "pubDate": "Sun, 08 Nov 2026 03:47:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
     }
   ]

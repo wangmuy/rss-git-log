@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-03",
     "newestItemDate": "2026-11-03",
-    "itemCount": 65,
-    "generatedAt": "2026-11-08T06:17:10.305Z"
+    "itemCount": 66,
+    "generatedAt": "2026-11-08T15:21:49.838Z"
   },
   "items": [
     {
@@ -396,6 +396,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcmNoaXRlY3R1cmUtaGlzdG9yeS5vcmclMkZzY2hvb2xzJTJGQU1TVEVSREFNJTI1MjBTQ0hPT0wuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYXJjaGl0ZWN0dXJlLWhpc3Rvcnkub3JnJTJGc2Nob29scyUyRkFNU1RFUkRBTSUyNTIwU0NIT09MLmh0bWwlN0NBbXN0ZXJkYW0lMjBTY2hvb2wlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM1MTk1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDAzJTIwTm92JTIwMjAyNiUyMDEzJTNBNTAlM0ExOSUyMCUyQjAwMDA",
       "title": "Amsterdam School",
       "pubDate": "Tue, 03 Nov 2026 13:50:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxbGFicy5zaCUyRnJlc2VhcmNoJTJGcGFyYW1ldGVycyU3Q2h0dHBzJTNBJTJGJTJGcWxhYnMuc2glMkZyZXNlYXJjaCUyRnBhcmFtZXRlcnMlN0NRdWFkcmlsbGlvbi1wYXJhbWV0ZXIlMjB0cmFuc2Zvcm1lcnMlMjBhbmQlMjBob3clMjB0byUyMHRyYWluJTIwdGhlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzUyNTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMDMlMjBOb3YlMjAyMDI2JTIwMTQlM0EzNyUzQTE3JTIwJTJCMDAwMA",
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "pubDate": "Tue, 03 Nov 2026 14:37:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-03-0.json"
     }
   ]
