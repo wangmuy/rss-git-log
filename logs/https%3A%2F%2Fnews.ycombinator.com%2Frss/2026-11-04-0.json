@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-04",
     "newestItemDate": "2026-11-04",
-    "itemCount": 60,
-    "generatedAt": "2026-11-08T15:21:49.838Z"
+    "itemCount": 63,
+    "generatedAt": "2026-11-08T20:35:19.486Z"
   },
   "items": [
     {
@@ -366,6 +366,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1hc3Rlci5kZXYlMkZtdWx0aS1jb2x1bW4tZGlmZmVyZW50LXNwZWVkLXNjcm9sbGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5tYXN0ZXIuZGV2JTJGbXVsdGktY29sdW1uLWRpZmZlcmVudC1zcGVlZC1zY3JvbGxpbmclMkYlN0NNdWx0aS1Db2x1bW4lMjBEaWZmZXJlbnQtU3BlZWQlMjBTY3JvbGxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM2MDA0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDAwJTNBMTYlM0EzMyUyMCUyQjAwMDA",
       "title": "Multi-Column Different-Speed Scrolling",
       "pubDate": "Wed, 04 Nov 2026 00:16:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXRodWIuY29tJTJGdGhlLXN0b3J5LWJlaGluZC1lZHdhcmQtaG9wcGVycy1pY29uaWMtcGFpbnRpbmctbmlnaHRoYXdrcyUyRiU3Q2h0dHBzJTNBJTJGJTJGbGl0aHViLmNvbSUyRnRoZS1zdG9yeS1iZWhpbmQtZWR3YXJkLWhvcHBlcnMtaWNvbmljLXBhaW50aW5nLW5pZ2h0aGF3a3MlMkYlN0NFZHdhcmQlMjBIb3BwZXIncyUyMEljb25pYyUyMFBhaW50aW5nJTJDJTIwJTIyTmlnaHRoYXdrcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzcyODM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMjMlM0EyMyUzQTA4JTIwJTJCMDAwMA",
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "pubDate": "Wed, 04 Nov 2026 23:23:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWNsYXJhdGl2ZS1kcmFnZ2luZy5naXRodWIuaW8lMkYlN0NodHRwcyUzQSUyRiUyRmRlY2xhcmF0aXZlLWRyYWdnaW5nLmdpdGh1Yi5pbyUyRiU3Q0RlY2xhcmF0aXZlJTIwRHJhZ2dpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM2ODQ4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDA0JTIwTm92JTIwMjAyNiUyMDE3JTNBMDUlM0EwNyUyMCUyQjAwMDA",
+      "title": "Declarative Dragging",
+      "pubDate": "Wed, 04 Nov 2026 17:05:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqcmNwbC51cyUyRmNvbnRyaWIlMkYyMDIwJTJGZ2FyZGVuaW5nLWZvci1lbmdpbmVlcnMlMkYlN0NodHRwcyUzQSUyRiUyRmpyY3BsLnVzJTJGY29udHJpYiUyRjIwMjAlMkZnYXJkZW5pbmctZm9yLWVuZ2luZWVycyUyRiU3Q1Nob3clMjBITiUzQSUyMFZlZ2V0YWJsZSUyMEdhcmRlbmluZyUyMGZvciUyMEVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzYyOTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMDglM0E1NCUzQTI3JTIwJTJCMDAwMA",
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "pubDate": "Wed, 04 Nov 2026 08:54:27 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
     }
   ]

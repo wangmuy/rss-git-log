@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-08",
     "newestItemDate": "2026-11-08",
-    "itemCount": 12,
-    "generatedAt": "2026-11-08T15:21:49.837Z"
+    "itemCount": 29,
+    "generatedAt": "2026-11-08T20:35:19.485Z"
   },
   "items": [
     {
@@ -78,6 +78,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG11bm96djA0JTJGaXNwb25zb3JibG9ja3R2JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZG11bm96djA0JTJGaXNwb25zb3JibG9ja3R2JTdDSVNwb25zb3JCbG9ja1RWJTNBJTIwU3BvbnNvckJsb2NrJTIwY2xpZW50JTIwZm9yJTIwYWxsJTIwWW91VHViZSUyMFRWJTIwY2xpZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDEwMjQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMDMlM0E0NyUzQTE5JTIwJTJCMDAwMA",
       "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
       "pubDate": "Sun, 08 Nov 2026 03:47:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudmlkaWFuZXdzLm52aWRpYS5jb20lMkZuZXdzJTJGc3RhdGVtZW50LWZyb20tbnZpZGlhLWJvYXJkLW9mLWRpcmVjdG9ycyU3Q2h0dHBzJTNBJTJGJTJGbnZpZGlhbmV3cy5udmlkaWEuY29tJTJGbmV3cyUyRnN0YXRlbWVudC1mcm9tLW52aWRpYS1ib2FyZC1vZi1kaXJlY3RvcnMlN0NOdmlkaWElMjBCb2FyZCUyMG9mJTIwRGlyZWN0b3JzJTIwSXMlMjBJbnZlc3RpZ2F0aW5nJTIwSmVuc2VuJTIwSHVhbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxNjgwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDIwJTNBMjYlM0E0MyUyMCUyQjAwMDA",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "pubDate": "Sun, 08 Nov 2026 20:26:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2V4LmNvbSUyRmxhdW5jaGVzJTJGc3RhcnNoaXAtZmxpZ2h0LTE1JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2V4LmNvbSUyRmxhdW5jaGVzJTJGc3RhcnNoaXAtZmxpZ2h0LTE1JTdDU3RhcnNoaXAlMjBGbGlnaHQlMjAxNSUyMG9uJTIwMTElMkYxMyUyMHBsYW5zJTIwdG8lMjBjYXRjaCUyMGJvdGglMjBib29zdGVyJTIwYW5kJTIwc2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2NDcxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTklM0E0OSUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "pubDate": "Sun, 08 Nov 2026 19:49:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJnZXlrdWhuZS5jb20lMkZibG9nJTJGZmlnaHRpbmctYWktYnJhaW4tZnJ5JTdDaHR0cHMlM0ElMkYlMkZzZXJnZXlrdWhuZS5jb20lMkZibG9nJTJGZmlnaHRpbmctYWktYnJhaW4tZnJ5JTdDSG93JTIwSSUyMEZpZ2h0JTIwQUklMjBCcmFpbiUyMEZyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2MzYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTklM0EzNyUzQTQyJTIwJTJCMDAwMA",
+      "title": "How I Fight AI Brain Fry",
+      "pubDate": "Sun, 08 Nov 2026 19:37:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWlscm91dGUubmV0JTJGYmxvZyUyRm91dGxvb2stcmVqZWN0aW5nLWVtYWlsLXdpdGhvdXQtZG1hcmMlN0NodHRwcyUzQSUyRiUyRm1haWxyb3V0ZS5uZXQlMkZibG9nJTJGb3V0bG9vay1yZWplY3RpbmctZW1haWwtd2l0aG91dC1kbWFyYyU3Q091dGxvb2suY29tJTIwSXMlMjBRdWlldGx5JTIwUmVqZWN0aW5nJTIwRW1haWwlMjBmcm9tJTIwRG9tYWlucyUyMFdpdGhvdXQlMjBETUFSQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2MTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTklM0EyMCUzQTMyJTIwJTJCMDAwMA",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "pubDate": "Sun, 08 Nov 2026 19:20:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdXhsYWJzLmRldiUyRiU3Q2h0dHBzJTNBJTJGJTJGZHV4bGFicy5kZXYlMkYlN0NEdXglM0ElMjBGcmVlJTJDJTIwb3Blbi1zb3VyY2UlMjBXYXlsYW5kJTIwZGVza3RvcCUyMHNoZWxsJTIwd2l0aCUyMGZpbGUlMjBtYW5hZ2VyJTIwYW5kJTIwdGhlbWluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2MDUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTklM0EwOCUzQTUxJTIwJTJCMDAwMA",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "pubDate": "Sun, 08 Nov 2026 19:08:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRnRlY2glMkZhaSUyRnNpbGljb24tdmFsbGV5LXByb21pc2VzLWFpLXdpbGwtY3VyZS1kaXNlYXNlLWRydWdtYWtlci1jZW9zLWFyZW50LWJ1eWluZy1pdC01MjE4NTExYyU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndzai5jb20lMkZ0ZWNoJTJGYWklMkZzaWxpY29uLXZhbGxleS1wcm9taXNlcy1haS13aWxsLWN1cmUtZGlzZWFzZS1kcnVnbWFrZXItY2Vvcy1hcmVudC1idXlpbmctaXQtNTIxODUxMWMlN0NTaWxpY29uJTIwVmFsbGV5JTIwUHJvbWlzZXMlMjBBSSUyMFdpbGwlMjBDdXJlJTIwRGlzZWFzZS4lMjBEcnVnbWFrZXIlMjBDRU9zJTIwQXJlbid0JTIwQnV5aW5nJTIwSXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxNTgxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDE4JTNBNDMlM0EwNyUyMCUyQjAwMDA",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "pubDate": "Sun, 08 Nov 2026 18:43:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXZpbmJvb25lLm1lJTJGY3Btem9yay5odG1sJTdDaHR0cHMlM0ElMkYlMkZrZXZpbmJvb25lLm1lJTJGY3Btem9yay5odG1sJTdDUGxheWluZyUyMFpvcmslMjAxJTIwb24lMjBhJTIwQ1AlMkZNJTIwZW11bGF0b3IlMjBvbiUyMExpbnV4JTIwKDIwMjEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTU3NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxOCUzQTMzJTNBNTAlMjAlMkIwMDAw",
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "pubDate": "Sun, 08 Nov 2026 18:33:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlc3RhdGVvZmFpLmNvbSUyRm5ld3MlMkZnb2xkbWFuLXNhY2hzLWNsYXVkZS1jb2RlLXRyYWRlcnMtYmFua2VycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXN0YXRlb2ZhaS5jb20lMkZuZXdzJTJGZ29sZG1hbi1zYWNocy1jbGF1ZGUtY29kZS10cmFkZXJzLWJhbmtlcnMlN0NHb2xkbWFuJTIwU2FjaHMlMjBJcyUyMFB1bGxpbmclMjBDbGF1ZGUlMjBDb2RlJTIwZnJvbSUyMEl0cyUyMEJhbmtlcnMlMjBhbmQlMjBUcmFkZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTU2MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxOCUzQTE2JTNBMDclMjAlMkIwMDAw",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "pubDate": "Sun, 08 Nov 2026 18:16:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxvb21iZXJnLmNvbSUyRmZlYXR1cmVzJTJGMjAyNi1wb2xpY2UtcGhvbmUtdHJhY2tpbmctYWR2ZXJ0aXNpbmctdGVjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJsb29tYmVyZy5jb20lMkZmZWF0dXJlcyUyRjIwMjYtcG9saWNlLXBob25lLXRyYWNraW5nLWFkdmVydGlzaW5nLXRlY2glMkYlN0NBZHMlMjBpbiUyMFBvcHVsYXIlMjBBcHBzJTIwR2l2ZSUyMFBvbGljZSUyMGElMjBQb3dlcmZ1bCUyMFRvb2wlMjB0byUyMFNweSUyMG9uJTIwVXNlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxNTI4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDE3JTNBMzIlM0E1NSUyMCUyQjAwMDA",
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "pubDate": "Sun, 08 Nov 2026 17:32:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNwYXduZmlyc3QuY29tJTJGbGludXgtc2NyaXB0LWVtYWlscy1zYW0tYWx0bWFuLXVudXNlZC1yYW0tcmFtLWFsdG1hbiUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVzcGF3bmZpcnN0LmNvbSUyRmxpbnV4LXNjcmlwdC1lbWFpbHMtc2FtLWFsdG1hbi11bnVzZWQtcmFtLXJhbS1hbHRtYW4lMkYlN0NSQU0lMjBBbHRtYW4lM0ElMjBMaW51eCUyMFNjcmlwdCUyMEVtYWlscyUyMFNhbSUyMEFsdG1hbiUyMERhaWx5JTIwSG93JTIwTXVjaCUyMFVudXNlZCUyMFJBTSUyMGluJTIwWW91ciUyMFBDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTUxNzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxNyUzQTIwJTNBMjklMjAlMkIwMDAw",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "pubDate": "Sun, 08 Nov 2026 17:20:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYWNrZXRob3VuZC5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRnBhY2tldGhvdW5kLmFwcCUyRiU3Q0ElMjBMaXR0bGUlMjBTbml0Y2glMjBmb3IlMjBXaW5kb3dzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTUxMzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxNyUzQTE2JTNBMDclMjAlMkIwMDAw",
+      "title": "A Little Snitch for Windows",
+      "pubDate": "Sun, 08 Nov 2026 17:16:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdnNtdXRvayUyRkZ1Y2tDYXB0Y2hhJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdnNtdXRvayUyRkZ1Y2tDYXB0Y2hhJTdDQSUyMGZpZWxkJTIwZ3VpZGUlMjB0byUyMENBUFRDSEElMjB0eXBlcyUyMGFuZCUyMGhvdyUyMHRoZXklMjBicmVhayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE1MDc4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTclM0EwOSUzQTU1JTIwJTJCMDAwMA",
+      "title": "A field guide to CAPTCHA types and how they break",
+      "pubDate": "Sun, 08 Nov 2026 17:09:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb2xkc3RlaW4ubG9sJTJGcG9zdHMlMkZkZW5vLXNlY3VyaXR5JTJGJTdDaHR0cHMlM0ElMkYlMkZnb2xkc3RlaW4ubG9sJTJGcG9zdHMlMkZkZW5vLXNlY3VyaXR5JTJGJTdDSSdtJTIwbm90JTIwYSUyMGZhbiUyMG9mJTIwRGVubydzJTIwc2VjdXJpdHklMjBtb2RlbCUyMCgyMDI0KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDEzNzY5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTQlM0E0MiUzQTM4JTIwJTJCMDAwMA",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "pubDate": "Sun, 08 Nov 2026 14:42:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXBhdHRlcnMub3JnJTJGcG9zdCUyRmUtZ3JhcGhzLTElMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5lcGF0dGVycy5vcmclMkZwb3N0JTJGZS1ncmFwaHMtMSUyRiU3Q0hvdyUyMHRvJTIwcHJvdmUlMjBlcXVhdGlvbnMlMjB1c2luZyUyMGRpYWdyYW1zJTJDJTIwcGFydCUyMDElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxMjgzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDEyJTNBNTElM0EzOCUyMCUyQjAwMDA",
+      "title": "How to prove equations using diagrams, part 1",
+      "pubDate": "Sun, 08 Nov 2026 12:51:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhd29ya2luZ2xpYnJhcnkuY29tJTJGd3JpdGluZyUyRnBldGVyZWQlN0NodHRwcyUzQSUyRiUyRmF3b3JraW5nbGlicmFyeS5jb20lMkZ3cml0aW5nJTJGcGV0ZXJlZCU3Q1BldGVyZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxMjE1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDEwJTNBNTYlM0E0MyUyMCUyQjAwMDA",
+      "title": "Petered",
+      "pubDate": "Sun, 08 Nov 2026 10:56:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRm11cmF0YnVmZmFsby5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTElMkZ3cml0aW5nLWFzLXRoaW5raW5nLXRvb2wuaHRtbCU3Q2h0dHAlM0ElMkYlMkZtdXJhdGJ1ZmZhbG8uYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjExJTJGd3JpdGluZy1hcy10aGlua2luZy10b29sLmh0bWwlN0NXcml0aW5nJTIwYXMlMjBhJTIwdGhpbmtpbmclMjB0b29sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTIwNjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxMCUzQTQxJTNBNTIlMjAlMkIwMDAw",
+      "title": "Writing as a thinking tool",
+      "pubDate": "Sun, 08 Nov 2026 10:41:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxlYi5zb2Z0d2FyZSUyRnBvc3RzJTJGY2xhdWRlLXRvLXBpLmh0bWwlN0NodHRwcyUzQSUyRiUyRmNhbGViLnNvZnR3YXJlJTJGcG9zdHMlMkZjbGF1ZGUtdG8tcGkuaHRtbCU3Q0dvb2RieWUlMjBDbGF1ZGUlMkMlMjBoZWxsbyUyMFBpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTAxMDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAwMyUzQTExJTNBNDglMjAlMkIwMDAw",
+      "title": "Goodbye Claude, hello Pi",
+      "pubDate": "Sun, 08 Nov 2026 03:11:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
     }
   ]
