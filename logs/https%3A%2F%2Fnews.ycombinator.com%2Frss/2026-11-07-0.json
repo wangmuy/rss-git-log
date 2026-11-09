@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-07",
     "newestItemDate": "2026-11-07",
-    "itemCount": 39,
-    "generatedAt": "2026-11-09T06:50:01.166Z"
+    "itemCount": 40,
+    "generatedAt": "2026-11-09T18:55:34.679Z"
   },
   "items": [
     {
@@ -240,6 +240,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmthZWhuJTJGdW5pZm9ybSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnJrYWVobiUyRnVuaWZvcm0lN0NTaG93JTIwSE4lM0ElMjBKYXZhU2NyaXB0JTIwd2ViJTIwYXBwcyUyMHdpdGglMjBXQVNNJTIwbGF5b3V0JTIwYW5kJTIwR1BVJTIwcmVuZGVyaW5nJTIwaW4lMjAyODAlMjBLQiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDAxODQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMDUlM0ExNiUzQTMxJTIwJTJCMDAwMA",
       "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
       "pubDate": "Sat, 07 Nov 2026 05:16:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWljaGFlbHBvbmRlcnMuY29tJTJGMjAyNiUyRjExJTJGaXNudC1pdC10aW1lLWZvci1hdmlmLWV2ZXJ5d2hlcmUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pY2hhZWxwb25kZXJzLmNvbSUyRjIwMjYlMkYxMSUyRmlzbnQtaXQtdGltZS1mb3ItYXZpZi1ldmVyeXdoZXJlLmh0bWwlN0NJc24ndCUyMEl0JTIwVGltZSUyMGZvciUyMEFWSUYlMjBFdmVyeXdoZXJlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDYzNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNyUzQTM0JTNBMDclMjAlMkIwMDAw",
+      "title": "Isn't It Time for AVIF Everywhere?",
+      "pubDate": "Sat, 07 Nov 2026 17:34:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
     }
   ]

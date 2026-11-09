@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-05",
     "newestItemDate": "2026-11-05",
-    "itemCount": 45,
-    "generatedAt": "2026-11-08T15:21:49.838Z"
+    "itemCount": 46,
+    "generatedAt": "2026-11-09T18:55:34.679Z"
   },
   "items": [
     {
@@ -276,6 +276,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZWFkb25seW1lbW8uY29tJTJGbGVnZW5kLW9mLXhhbmFkdS1wYy1lbmdpbmUtZmFuLXRyYW5zbGF0aW9uLWludGVydmlldy1tYWtpbmctb2YlMkYlN0NodHRwcyUzQSUyRiUyRnJlYWRvbmx5bWVtby5jb20lMkZsZWdlbmQtb2YteGFuYWR1LXBjLWVuZ2luZS1mYW4tdHJhbnNsYXRpb24taW50ZXJ2aWV3LW1ha2luZy1vZiUyRiU3Q0ZpbmRpbmclMjBYYW5hZHUlM0ElMjBJbnNpZGUlMjBhJTIwSlJQRyUyMGNsYXNzaWMlMjB0cmFuc2xhdGlvbiUyMDE1JTIweWVhcnMlMjBpbiUyMHRoZSUyMG1ha2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc4OTc0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMTMlM0E0NCUzQTA3JTIwJTJCMDAwMA",
       "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
       "pubDate": "Thu, 05 Nov 2026 13:44:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb2ZpYWJlbGVuLmdpdGh1Yi5pbyUyRnByb2plY3RzJTJGcG9pbnRlci1wcm92ZW5hbmNlLWluLXJ1c3QtdnMtY3BwJTJGJTdDaHR0cHMlM0ElMkYlMkZzb2ZpYWJlbGVuLmdpdGh1Yi5pbyUyRnByb2plY3RzJTJGcG9pbnRlci1wcm92ZW5hbmNlLWluLXJ1c3QtdnMtY3BwJTJGJTdDUG9pbnRlciUyMFByb3ZlbmFuY2UlMjBpbiUyMFJ1c3QlMjB2cy4lMjBDJTJCJTJCJTNBJTIwUG9pbnRlcnMlMjBBcmUlMjBOb3QlMjBKdXN0JTIwR2xvcmlmaWVkJTIwSW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc3MTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMDklM0EzMiUzQTUwJTIwJTJCMDAwMA",
+      "title": "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
+      "pubDate": "Thu, 05 Nov 2026 09:32:50 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
     }
   ]
