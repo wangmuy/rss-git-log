@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-08",
     "newestItemDate": "2026-11-08",
-    "itemCount": 29,
-    "generatedAt": "2026-11-08T20:35:19.485Z"
+    "itemCount": 39,
+    "generatedAt": "2026-11-09T06:50:01.166Z"
   },
   "items": [
     {
@@ -180,6 +180,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjYWxlYi5zb2Z0d2FyZSUyRnBvc3RzJTJGY2xhdWRlLXRvLXBpLmh0bWwlN0NodHRwcyUzQSUyRiUyRmNhbGViLnNvZnR3YXJlJTJGcG9zdHMlMkZjbGF1ZGUtdG8tcGkuaHRtbCU3Q0dvb2RieWUlMjBDbGF1ZGUlMkMlMjBoZWxsbyUyMFBpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTAxMDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAwMyUzQTExJTNBNDglMjAlMkIwMDAw",
       "title": "Goodbye Claude, hello Pi",
       "pubDate": "Sun, 08 Nov 2026 03:11:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXR0ZW9yYXNvLmdpdGh1Yi5pbyUyRmltLW5vdC1jb252aW5jZWQtdGhlLWFpLWJ1YmJsZS1leGlzdHMuaHRtbCUyM2ltLW5vdC1jb252aW5jZWQtdGhlLWFpLWJ1YmJsZS1leGlzdHMlN0NodHRwcyUzQSUyRiUyRm1hdHRlb3Jhc28uZ2l0aHViLmlvJTJGaW0tbm90LWNvbnZpbmNlZC10aGUtYWktYnViYmxlLWV4aXN0cy5odG1sJTIzaW0tbm90LWNvbnZpbmNlZC10aGUtYWktYnViYmxlLWV4aXN0cyU3Q0knbSUyMG5vdCUyMGNvbnZpbmNlZCUyMHRoZSUyMEFJJTIwYnViYmxlJTIwZXhpc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTg5NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAyMyUzQTQ0JTNBMzYlMjAlMkIwMDAw",
+      "title": "I'm not convinced the AI bubble exists",
+      "pubDate": "Sun, 08 Nov 2026 23:44:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc29jcHAub3JnJTJGZmlsZXMlMkZwYXBlcnMlMkZQNDQ1NFIwLnBkZiU3Q2h0dHBzJTNBJTJGJTJGaXNvY3BwLm9yZyUyRmZpbGVzJTJGcGFwZXJzJTJGUDQ0NTRSMC5wZGYlN0NXaGVuJTIwYSUyMGxhbmd1YWdlJ3MlMjBjcmVhdG9yJTIwYW5kJTIwaXRzJTIwb3duZXJzJTIwc3Ryb25nbHklMjBkaXNhZ3JlZSUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE4ODE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMjMlM0EyOCUzQTAxJTIwJTJCMDAwMA",
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "pubDate": "Sun, 08 Nov 2026 23:28:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGltZXJhLXZvY2FsLXN5bnRoLnZlcmNlbC5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRmNoaW1lcmEtdm9jYWwtc3ludGgudmVyY2VsLmFwcCUyRiU3Q0NoaW1lcmElMjBWb2NhbCUyMFN5bnRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTgxODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAyMiUzQTM2JTNBMDMlMjAlMkIwMDAw",
+      "title": "Chimera Vocal Synth",
+      "pubDate": "Sun, 08 Nov 2026 22:36:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXRjaHVwM2QuZ2l0aHViLmlvJTJGYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZrZXRjaHVwM2QuZ2l0aHViLmlvJTJGYXBwJTJGJTdDS2V0Y2hVcCUyMCVFMiU4MCU5MyUyME9wZW4tc291cmNlJTIwU2tldGNoVXAlMjBhbHRlcm5hdGl2ZSUyMGJ1aWx0JTIwd2l0aCUyMFJ1c3QlMjBhbmQlMjBXZWJHUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxODE3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDIyJTNBMzUlM0EzNSUyMCUyQjAwMDA",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "pubDate": "Sun, 08 Nov 2026 22:35:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudmlkaWFuZXdzLm52aWRpYS5jb20lMkZuZXdzJTJGYS1tZXNzYWdlLXRvLW91ci1jb21wYW55JTdDaHR0cHMlM0ElMkYlMkZudmlkaWFuZXdzLm52aWRpYS5jb20lMkZuZXdzJTJGYS1tZXNzYWdlLXRvLW91ci1jb21wYW55JTdDTnZpZGlhJTIwQ0VPJTIwSmVuc2VuJTIwSHVhbmcncyUyMGxldHRlciUyMHRvJTIwc3RhZmYlMjBhYm91dCUyMGFmZmFpciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE4MDE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMjIlM0EyMCUzQTA5JTIwJTJCMDAwMA",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "pubDate": "Sun, 08 Nov 2026 22:20:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE3NDA3JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE3NDA3JTdDQXNrJTIwSE4lM0ElMjBXaGF0JTIwYXJlJTIweW91JTIwd29ya2luZyUyMG9uJTNGJTIwKE5vdmVtYmVyJTIwMjAyNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxNzQwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDIxJTNBMjAlM0EyMCUyMCUyQjAwMDA",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "pubDate": "Sun, 08 Nov 2026 21:20:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdHJhaW4uY29tJTJGYWJvYXJkLXRoZS13ZWItaXMtbW9yZS10aGFuLWVub3VnaCU3Q2h0dHBzJTNBJTJGJTJGZnRyYWluLmNvbSUyRmFib2FyZC10aGUtd2ViLWlzLW1vcmUtdGhhbi1lbm91Z2glN0NUaGUlMjBXZWIlMjBJcyUyME1vcmUlMjBUaGFuJTIwRW5vdWdoJTJDJTIwYnklMjBQYXVsJTIwRm9yZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2NDU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTklM0E0OCUzQTMyJTIwJTJCMDAwMA",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "pubDate": "Sun, 08 Nov 2026 19:48:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWlscm91dGUubmV0JTJGYmxvZyUyRm91dGxvb2stcmVqZWN0aW5nLWVtYWlsLXdpdGhvdXQtZG1hcmMlN0NodHRwcyUzQSUyRiUyRm1haWxyb3V0ZS5uZXQlMkZibG9nJTJGb3V0bG9vay1yZWplY3RpbmctZW1haWwtd2l0aG91dC1kbWFyYyU3Q091dGxvb2suY29tJTIwaXMlMjByZWplY3RpbmclMjBlbWFpbCUyMGZyb20lMjBkb21haW5zJTIwd2l0aG91dCUyMERNQVJDJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTYxNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxOSUzQTIwJTNBMzIlMjAlMkIwMDAw",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "pubDate": "Sun, 08 Nov 2026 19:20:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJkLmVzJTJGMjAyNiUyRjExJTJGMDglMkZwbGF5aW5nLXdpdGgtc3RtMzJtcDIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGc2VyZC5lcyUyRjIwMjYlMkYxMSUyRjA4JTJGcGxheWluZy13aXRoLXN0bTMybXAyLmh0bWwlN0NQbGF5aW5nJTIwd2l0aCUyMHRoZSUyMFNUTTMyTVAyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTYwMTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxOSUzQTA0JTNBMDclMjAlMkIwMDAw",
+      "title": "Playing with the STM32MP2",
+      "pubDate": "Sun, 08 Nov 2026 19:04:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlc3RhdGVvZmFpLmNvbSUyRm5ld3MlMkZnb2xkbWFuLXNhY2hzLWNsYXVkZS1jb2RlLXRyYWRlcnMtYmFua2VycyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXN0YXRlb2ZhaS5jb20lMkZuZXdzJTJGZ29sZG1hbi1zYWNocy1jbGF1ZGUtY29kZS10cmFkZXJzLWJhbmtlcnMlN0NHb2xkbWFuJTIwU2FjaHMlMjBpcyUyMHB1bGxpbmclMjBDbGF1ZGUlMjBDb2RlJTIwZnJvbSUyMGl0cyUyMGJhbmtlcnMlMjBhbmQlMjB0cmFkZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTU2MjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxOCUzQTE2JTNBMDclMjAlMkIwMDAw",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "pubDate": "Sun, 08 Nov 2026 18:16:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
     }
   ]

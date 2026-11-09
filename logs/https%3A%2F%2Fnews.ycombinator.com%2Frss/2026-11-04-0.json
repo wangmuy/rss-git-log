@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-04",
     "newestItemDate": "2026-11-04",
-    "itemCount": 63,
-    "generatedAt": "2026-11-08T20:35:19.486Z"
+    "itemCount": 64,
+    "generatedAt": "2026-11-09T06:50:01.167Z"
   },
   "items": [
     {
@@ -384,6 +384,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqcmNwbC51cyUyRmNvbnRyaWIlMkYyMDIwJTJGZ2FyZGVuaW5nLWZvci1lbmdpbmVlcnMlMkYlN0NodHRwcyUzQSUyRiUyRmpyY3BsLnVzJTJGY29udHJpYiUyRjIwMjAlMkZnYXJkZW5pbmctZm9yLWVuZ2luZWVycyUyRiU3Q1Nob3clMjBITiUzQSUyMFZlZ2V0YWJsZSUyMEdhcmRlbmluZyUyMGZvciUyMEVuZ2luZWVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzYyOTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMDQlMjBOb3YlMjAyMDI2JTIwMDglM0E1NCUzQTI3JTIwJTJCMDAwMA",
       "title": "Show HN: Vegetable Gardening for Engineers",
       "pubDate": "Wed, 04 Nov 2026 08:54:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUmVuZGVyQmVhciUyRmhhY2klN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZSZW5kZXJCZWFyJTJGaGFjaSU3Q1Nob3clMjBITiUzQSUyME15JTIwY29tcGFjdCUyQyUyMGJpbyUyMGluc3BpcmVkJTIwZGlzdHJpYnV0ZWQlMjBlZGdlJTIwZGV0ZWN0aW9uJTIwYWxnb3JpdGhtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzNzE4ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAwNCUyME5vdiUyMDIwMjYlMjAyMSUzQTM0JTNBNDklMjAlMkIwMDAw",
+      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "pubDate": "Wed, 04 Nov 2026 21:34:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-04-0.json"
     }
   ]
