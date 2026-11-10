@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-05",
     "newestItemDate": "2026-11-05",
-    "itemCount": 46,
-    "generatedAt": "2026-11-09T18:55:34.679Z"
+    "itemCount": 47,
+    "generatedAt": "2026-11-10T07:29:24.089Z"
   },
   "items": [
     {
@@ -282,6 +282,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzb2ZpYWJlbGVuLmdpdGh1Yi5pbyUyRnByb2plY3RzJTJGcG9pbnRlci1wcm92ZW5hbmNlLWluLXJ1c3QtdnMtY3BwJTJGJTdDaHR0cHMlM0ElMkYlMkZzb2ZpYWJlbGVuLmdpdGh1Yi5pbyUyRnByb2plY3RzJTJGcG9pbnRlci1wcm92ZW5hbmNlLWluLXJ1c3QtdnMtY3BwJTJGJTdDUG9pbnRlciUyMFByb3ZlbmFuY2UlMjBpbiUyMFJ1c3QlMjB2cy4lMjBDJTJCJTJCJTNBJTIwUG9pbnRlcnMlMjBBcmUlMjBOb3QlMjBKdXN0JTIwR2xvcmlmaWVkJTIwSW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwMzc3MTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMDUlMjBOb3YlMjAyMDI2JTIwMDklM0EzMiUzQTUwJTIwJTJCMDAwMA",
       "title": "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
       "pubDate": "Thu, 05 Nov 2026 09:32:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmFiby5kZXYlMkZibG9ncyUyRmtlcm5lbC1wcmltZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5uYWJvLmRldiUyRmJsb2dzJTJGa2VybmVsLXByaW1lciU3Q0ElMjBwcmltZXIlMjBvbiUyMEdQVXMlMjBhbmQlMjBrZXJuZWwlMjBvcHRpbWl6YXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM4NjI0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDA1JTIwTm92JTIwMjAyNiUyMDIzJTNBNDglM0EwNCUyMCUyQjAwMDA",
+      "title": "A primer on GPUs and kernel optimization",
+      "pubDate": "Thu, 05 Nov 2026 23:48:04 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-05-0.json"
     }
   ]

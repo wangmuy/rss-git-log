@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-07",
     "newestItemDate": "2026-11-07",
-    "itemCount": 40,
-    "generatedAt": "2026-11-09T18:55:34.679Z"
+    "itemCount": 43,
+    "generatedAt": "2026-11-10T07:29:24.089Z"
   },
   "items": [
     {
@@ -246,6 +246,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWljaGFlbHBvbmRlcnMuY29tJTJGMjAyNiUyRjExJTJGaXNudC1pdC10aW1lLWZvci1hdmlmLWV2ZXJ5d2hlcmUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pY2hhZWxwb25kZXJzLmNvbSUyRjIwMjYlMkYxMSUyRmlzbnQtaXQtdGltZS1mb3ItYXZpZi1ldmVyeXdoZXJlLmh0bWwlN0NJc24ndCUyMEl0JTIwVGltZSUyMGZvciUyMEFWSUYlMjBFdmVyeXdoZXJlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MDYzNDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAwNyUyME5vdiUyMDIwMjYlMjAxNyUzQTM0JTNBMDclMjAlMkIwMDAw",
       "title": "Isn't It Time for AVIF Everywhere?",
       "pubDate": "Sat, 07 Nov 2026 17:34:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWljaGFlbHBvbmRlcnMuY29tJTJGMjAyNiUyRjExJTJGaXNudC1pdC10aW1lLWZvci1hdmlmLWV2ZXJ5d2hlcmUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1pY2hhZWxwb25kZXJzLmNvbSUyRjIwMjYlMkYxMSUyRmlzbnQtaXQtdGltZS1mb3ItYXZpZi1ldmVyeXdoZXJlLmh0bWwlN0NUaW1lJTIwZm9yJTIwQVZJRiUyMGV2ZXJ5d2hlcmUlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwNjM0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDE3JTNBMzQlM0EwNyUyMCUyQjAwMDA",
+      "title": "Time for AVIF everywhere?",
+      "pubDate": "Sat, 07 Nov 2026 17:34:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZXZpbmJvb25lLm1lJTJGZmFpbGVkX2Nvb2xpbmcuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGa2V2aW5ib29uZS5tZSUyRmZhaWxlZF9jb29saW5nLmh0bWwlN0NBJTIwZmFpbGVkJTIwZXhwZXJpbWVudCUyMGluJTIwbGFwdG9wJTIwY29vbGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDA1NjExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMTUlM0E1NyUzQTI5JTIwJTJCMDAwMA",
+      "title": "A failed experiment in laptop cooling",
+      "pubDate": "Sat, 07 Nov 2026 15:57:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4bmFjbHkubWUlMkZwb3N0cyUyRjIwMjYlMkZhbi1vZGUtdG8tbGl2ZWx5bmVzcy1hbmFseXNpcyUyRiU3Q2h0dHBzJTNBJTJGJTJGeG5hY2x5Lm1lJTJGcG9zdHMlMkYyMDI2JTJGYW4tb2RlLXRvLWxpdmVseW5lc3MtYW5hbHlzaXMlMkYlN0NBbiUyMG9kZSUyMHRvJTIwbGl2ZWx5bmVzcyUyMGFuYWx5c2lzJTNCJTIwU1NBJTIwdG8lMjByZWdpc3RlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwNTI3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDE1JTNBMTclM0EzMSUyMCUyQjAwMDA",
+      "title": "An ode to livelyness analysis; SSA to registers",
+      "pubDate": "Sat, 07 Nov 2026 15:17:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
     }
   ]

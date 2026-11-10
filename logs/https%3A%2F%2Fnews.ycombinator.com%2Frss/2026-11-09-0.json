@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-09",
     "newestItemDate": "2026-11-09",
-    "itemCount": 30,
-    "generatedAt": "2026-11-09T18:55:34.679Z"
+    "itemCount": 45,
+    "generatedAt": "2026-11-10T07:29:24.088Z"
   },
   "items": [
     {
@@ -186,6 +186,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnNoYW5lbWVsYXVnaCUyRnN0YXR1cyUyRjIxMTkxOTIwNzU1MDU4OTM2OTUlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGc2hhbmVtZWxhdWdoJTJGc3RhdHVzJTJGMjExOTE5MjA3NTUwNTg5MzY5NSU3Q0lzJTIwT3B1cyUyMDUuNSUyMG5lcmZlZCUzRiUyMFRoaW5raW5nJTIwcGF0dGVybnMlMjBjaGFuZ2VkJTIwb24lMjBOb3ZlbWJlciUyMDMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQyMjA2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDA3JTNBMDQlM0EyNSUyMCUyQjAwMDA",
       "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
       "pubDate": "Mon, 09 Nov 2026 07:04:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Rlc2J5bGV4LmNvbSUyRmZhYmxlLTUtMi1vbmUtc2hvdHRlZC1teS1uZXBoZXdzLWRyZWFtLWdhbWUlN0NodHRwcyUzQSUyRiUyRm5vdGVzYnlsZXguY29tJTJGZmFibGUtNS0yLW9uZS1zaG90dGVkLW15LW5lcGhld3MtZHJlYW0tZ2FtZSU3Q0ZhYmxlJTIwNS4yJTIwb25lLXNob3R0ZWQlMjBteSUyMG5lcGhldydzJTIwZHJlYW0lMjBnYW1lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzM2NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAyMyUzQTA4JTNBMTMlMjAlMkIwMDAw",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "pubDate": "Mon, 09 Nov 2026 23:08:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXhwbyUyRmV4YWN0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZXhwbyUyRmV4YWN0JTdDRXhhY3QlMjAlRTIlODAlOTMlMjBhJTIwbmV3JTIwY3Jvc3MlMjBwbGF0Zm9ybSUyMFVJJTIwZnJhbWV3b3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzM1NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAyMiUzQTU5JTNBMTMlMjAlMkIwMDAw",
+      "title": "Exact – a new cross platform UI framework",
+      "pubDate": "Mon, 09 Nov 2026 22:59:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGaW5mcmFzdHJ1Y3R1cmUtYW5kLWNsb3VkJTJGZ2xvYmFsLW5ldHdvcmslMkZ0cHUtOGktbWF4LWFuZC04dHglMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuZ29vZ2xlJTJGaW5ub3ZhdGlvbi1hbmQtYWklMkZpbmZyYXN0cnVjdHVyZS1hbmQtY2xvdWQlMkZnbG9iYWwtbmV0d29yayUyRnRwdS04aS1tYXgtYW5kLTh0eCUyRiU3Q1RQVSUyMDh0eCUyMGFuZCUyMFRQVSUyMDhpJTIwTWF4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzI4MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAyMSUzQTU2JTNBNTclMjAlMkIwMDAw",
+      "title": "TPU 8tx and TPU 8i Max",
+      "pubDate": "Mon, 09 Nov 2026 21:56:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZjbGF1ZGUtZmFibGUtNS0yJTdDaHR0cHMlM0ElMkYlMkZhcnRpZmljaWFsYW5hbHlzaXMuYWklMkZtb2RlbHMlMkZjbGF1ZGUtZmFibGUtNS0yJTdDQ2xhdWRlJTIwRmFibGUlMjA1LjIlMjBzY29yZXMlMjA2NSUyMG9uJTIwQXJ0aWZpY2lhbCUyMEFuYWx5c2lzJTJDJTIwaGlnaGVzdCUyMHNvJTIwZmFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzExNDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAyMCUzQTA0JTNBNTUlMjAlMkIwMDAw",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "pubDate": "Mon, 09 Nov 2026 20:04:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb3N0YWxwcm8udXNwcy5jb20lMkZ6Y2IlN0NodHRwcyUzQSUyRiUyRnBvc3RhbHByby51c3BzLmNvbSUyRnpjYiU3Q1VTUFMlMjBub3clMjBvZmZlcnMlMjBvZmZpY2lhbCUyMFpJUCUyMENvZGUlMjBib3VuZGFyeSUyMHBvbHlnb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzEwNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAxOSUzQTU4JTNBNTklMjAlMkIwMDAw",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "pubDate": "Mon, 09 Nov 2026 19:58:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYXJrZ3JhcGguY29tJTJGcGFya2luZy1hcHAtZmVlcyU3Q2h0dHBzJTNBJTJGJTJGcGFya2dyYXBoLmNvbSUyRnBhcmtpbmctYXBwLWZlZXMlN0NQYXJraW5nLWFwcCUyMGNvbnZlbmllbmNlJTIwZmVlcyUyMGluJTIwMzEyJTIwVS5TLiUyMGNpdGllcyUyMChtZWRpYW4lMjAlMjQwLjM1JTIwcGVyJTIwc2Vzc2lvbiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzMDk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDE5JTNBNTUlM0E1MyUyMCUyQjAwMDA",
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "pubDate": "Mon, 09 Nov 2026 19:55:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb21lb25ld2FzaGVyZS5hcHAlMkYlN0NodHRwcyUzQSUyRiUyRnNvbWVvbmV3YXNoZXJlLmFwcCUyRiU3Q1Nob3clMjBITiUzQSUyMFNvbWVvbmUlMjBXYXMlMjBIZXJlJTIwJUUyJTgwJTkzJTIwRmluZCUyMG91dCUyMHdobyUyMHVzZWQlMjB5b3VyJTIwTWFjJTIwd2hpbGUlMjB5b3UlMjB3ZXJlJTIwYXdheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDI5ODEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDklMjBOb3YlMjAyMDI2JTIwMTglM0E1MCUzQTU2JTIwJTJCMDAwMA",
+      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "pubDate": "Mon, 09 Nov 2026 18:50:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlLW1lYW5zLmdpdGh1Yi5pbyUyRiU3Q2h0dHBzJTNBJTJGJTJGZS1tZWFucy5naXRodWIuaW8lMkYlN0NFLW1lYW5zJTNBJTIwT3V0cGVyZm9ybWluZyUyMGstbWVhbnMlMjBpbiUyMG9uZS10ZW50aCUyMHRoZSUyMGVwb2NocyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDI5NzM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDklMjBOb3YlMjAyMDI2JTIwMTglM0E0NSUzQTQzJTIwJTJCMDAwMA",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "pubDate": "Mon, 09 Nov 2026 18:45:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5maW5lb24uY29tJTJGcHJlc3MtcmVsZWFzZSUyRjIwMjYlMkZpbmZwcjIwMjYxMS0wMjglN0NodHRwcyUzQSUyRiUyRnd3dy5pbmZpbmVvbi5jb20lMkZwcmVzcy1yZWxlYXNlJTJGMjAyNiUyRmluZnByMjAyNjExLTAyOCU3Q1RoZSUyMGZpcnN0JTIwMzAwLW1pbGxpbWV0ZXIlMjBwb3dlciUyMHNpbGljb24lMjBjYXJiaWRlJTIwKFNpQyklMjB3YWZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDI5NDMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDklMjBOb3YlMjAyMDI2JTIwMTglM0EyNSUzQTAxJTIwJTJCMDAwMA",
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "pubDate": "Mon, 09 Nov 2026 18:25:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGhpc2lzbWU2NTk4JTJGZ2VtaW5pX2ZpbGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdGhpc2lzbWU2NTk4JTJGZ2VtaW5pX2ZpbGVzJTJGJTdDR29vZ2xlJTIwR2VtaW5pJTIwcm91dGVzJTIwcGVyc29uYWwlMjBEcml2ZSUyMGZpbGVzJTIwYW5kJTIwZW1haWxzJTIwdG8lMjBodW1hbiUyMGFubm90YXRvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQyOTQyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDE4JTNBMjQlM0EzOCUyMCUyQjAwMDA",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "pubDate": "Mon, 09 Nov 2026 18:24:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRmNsYXVkZS1mYWJsZS1hbmQtbXl0aG9zLTUtMiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZjbGF1ZGUtZmFibGUtYW5kLW15dGhvcy01LTIlN0NDbGF1ZGUlMjBGYWJsZSUyMDUuMiUyMGFuZCUyME15dGhvcyUyMDUuMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDI5MDY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDklMjBOb3YlMjAyMDI2JTIwMTglM0EwMSUzQTEwJTIwJTJCMDAwMA",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "pubDate": "Mon, 09 Nov 2026 18:01:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5tZXRhLmFpJTJGYmxvZyUyRm11c2UtZW1iZXIlN0NodHRwcyUzQSUyRiUyRnJlc2VhcmNoLm1ldGEuYWklMkZibG9nJTJGbXVzZS1lbWJlciU3Q011c2UlMjBFbWJlciUzQSUyME91ciUyMHNtYWxsZXN0JTJDJTIwbW9zdCUyMGVmZmljaWVudCUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MjkwMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAxNyUzQTU4JTNBNDYlMjAlMkIwMDAw",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "pubDate": "Mon, 09 Nov 2026 17:58:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnNoYWhhcmdsYXpuZXIlMkZzdGF0dXMlMkYyMTE5Nzk2MDI5MjU2MDMyMjc4JTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnNoYWhhcmdsYXpuZXIlMkZzdGF0dXMlMkYyMTE5Nzk2MDI5MjU2MDMyMjc4JTdDT24lMjBCZWluZyUyMGFuJTIwRW5naW5lZXIlMjBpbiUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQyNjY4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDE1JTNBMDclM0EyMyUyMCUyQjAwMDA",
+      "title": "On Being an Engineer in 2026",
+      "pubDate": "Mon, 09 Nov 2026 15:07:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcG9jZW5lbWFnYXppbmUub3JnJTJGMjAyNiUyRjEwJTJGbWFnZW50YS1zb2xhci1wYW5lbHMtbWF5LWJlLWFncml2b2x0YWljcy1jbGV2ZXJlc3QtdHJpY2steWV0JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcG9jZW5lbWFnYXppbmUub3JnJTJGMjAyNiUyRjEwJTJGbWFnZW50YS1zb2xhci1wYW5lbHMtbWF5LWJlLWFncml2b2x0YWljcy1jbGV2ZXJlc3QtdHJpY2steWV0JTJGJTdDU2VtaS10cmFuc3BhcmVudCUyQyUyMGNvbG9yZWQlMjBjYWRtaXVtJTIwdGVsbHVyaWRlJTIwcGhvdG92b2x0YWljJTIwcGFuZWxzJTIwaW4lMjBhZ3Jpdm9sdGFpY3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQyNjE3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDE0JTNBMzElM0EzOSUyMCUyQjAwMDA",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "pubDate": "Mon, 09 Nov 2026 14:31:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZm9sZGFibGVmbGlnaHQuY29tJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZm9sZGFibGVmbGlnaHQuY29tJTJGJTdDRm9sZGFibGUlMjBGbGlnaHQlM0ElMjBUaGUlMjBCZXN0JTIwUGFwZXIlMjBBaXJwbGFuZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQyNDU4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDEyJTNBMTklM0EyMiUyMCUyQjAwMDA",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "pubDate": "Mon, 09 Nov 2026 12:19:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
     }
   ]
