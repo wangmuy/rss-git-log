@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-06",
     "newestItemDate": "2026-11-06",
-    "itemCount": 59,
-    "generatedAt": "2026-11-09T06:50:01.167Z"
+    "itemCount": 61,
+    "generatedAt": "2026-11-10T16:28:54.939Z"
   },
   "items": [
     {
@@ -360,6 +360,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibHVlLWNvbnRpbnV1bS5jb20lMkZicmFuY2hpbmctYmV5b25kLWxlb25hcmRvJTdDaHR0cHMlM0ElMkYlMkZibHVlLWNvbnRpbnV1bS5jb20lMkZicmFuY2hpbmctYmV5b25kLWxlb25hcmRvJTdDQnJhbmNoaW5nJTIwQmV5b25kJTIwTGVvbmFyZG8lM0ElMjBUaGUlMjBFdm9sdXRpb24lMjBvZiUyMFRyZWUlMjBBcmNoaXRlY3R1cmUlMjBUaGVvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5MDgyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDExJTNBMDElM0ExMiUyMCUyQjAwMDA",
       "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
       "pubDate": "Fri, 06 Nov 2026 11:01:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXJjZS5tZSUyRnBvc3RzJTJGMjAyNi0xMC0zMC1ob3ctaGFyZC1pcy1pdC10by1jaGVjay1mb3Itd2hpdGVzcGFjZSU3Q2h0dHBzJTNBJTJGJTJGc2VyY2UubWUlMkZwb3N0cyUyRjIwMjYtMTAtMzAtaG93LWhhcmQtaXMtaXQtdG8tY2hlY2stZm9yLXdoaXRlc3BhY2UlN0NIb3clMjBoYXJkJTIwaXMlMjBpdCUyMHRvJTIwY2hlY2slMjBmb3IlMjB3aGl0ZXNwYWNlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTAzOTI3MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAwNiUyME5vdiUyMDIwMjYlMjAxNCUzQTMxJTNBMjIlMjAlMkIwMDAw",
+      "title": "How hard is it to check for whitespace?",
+      "pubDate": "Fri, 06 Nov 2026 14:31:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcmF3bnMuZGV2JTJGYmxvZ3MlMkZzcGVjdWxhJTdDaHR0cHMlM0ElMkYlMkZwcmF3bnMuZGV2JTJGYmxvZ3MlMkZzcGVjdWxhJTdDQnVpbGRpbmclMjBhbiUyME9yZGVyJTIwUklTQy1WJTIwQ1BVJTIwZnJvbSUyMHNjcmF0Y2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5MjUyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDE0JTNBMTUlM0EzNiUyMCUyQjAwMDA",
+      "title": "Building an Order RISC-V CPU from scratch",
+      "pubDate": "Fri, 06 Nov 2026 14:15:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
     }
   ]

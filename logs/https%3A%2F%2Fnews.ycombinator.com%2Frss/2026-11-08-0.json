@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-08",
     "newestItemDate": "2026-11-08",
-    "itemCount": 42,
-    "generatedAt": "2026-11-10T07:29:24.089Z"
+    "itemCount": 46,
+    "generatedAt": "2026-11-10T16:28:54.939Z"
   },
   "items": [
     {
@@ -258,6 +258,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZkaXhrZW4uZGUlMkZibG9nJTJGbmV2ZXItZ29ubmEtcHJpbnQteW91LXVwJTdDaHR0cHMlM0ElMkYlMkZkaXhrZW4uZGUlMkZibG9nJTJGbmV2ZXItZ29ubmEtcHJpbnQteW91LXVwJTdDTmV2ZXIlMjBHb25uYSUyMFByaW50JTIwWW91JTIwVXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxMTEwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDA3JTNBMTUlM0EzMiUyMCUyQjAwMDA",
       "title": "Never Gonna Print You Up",
       "pubDate": "Sun, 08 Nov 2026 07:15:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2hhbmFzdHJlZXRnYW1lcy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5naGFuYXN0cmVldGdhbWVzLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMEdoYW5haWFuJTIwc3RyZWV0JTIwZ2FtZXMlMjB5b3UlMjBjYW4lMjBwbGF5JTIwaW4lMjB0aGUlMjBicm93c2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTQxMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxNSUzQTMxJTNBNTIlMjAlMkIwMDAw",
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "pubDate": "Sun, 08 Nov 2026 15:31:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZW9uZ2QuY29tJTJGYXJ0aWNsZXMlMkZuZXRic2QxMS1ycGk0LmdtaSU3Q2h0dHBzJTNBJTJGJTJGbmVvbmdkLmNvbSUyRmFydGljbGVzJTJGbmV0YnNkMTEtcnBpNC5nbWklN0NOZXRCU0QlMjAxMSUyMGRlc2t0b3AlMjBvbiUyMGElMjBSYXNwYmVycnklMjBQaSUyMDQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQxMjU1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDA4JTIwTm92JTIwMjAyNiUyMDEyJTNBMDclM0ExNyUyMCUyQjAwMDA",
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "pubDate": "Sun, 08 Nov 2026 12:07:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkamFkMDQuZ2l0aHViLmlvJTJGcGhwMnNoZWxsLWRlZXAtZGl2ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZGphZDA0LmdpdGh1Yi5pbyUyRnBocDJzaGVsbC1kZWVwLWRpdmUlMkYlN0NQSFAyU2hlbGwlMjBEZWVwJTIwRGl2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDEyMzI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTElM0EyNSUzQTI0JTIwJTJCMDAwMA",
+      "title": "PHP2Shell Deep Dive",
+      "pubDate": "Sun, 08 Nov 2026 11:25:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYwNCUyRm9iaXR1YXJpZXMlMkZzaW1vbi13aW5jaGVzdGVyLWRlYWQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjExJTJGMDQlMkZvYml0dWFyaWVzJTJGc2ltb24td2luY2hlc3Rlci1kZWFkLmh0bWwlN0NTaW1vbiUyMFdpbmNoZXN0ZXIlMkMlMjBBdXRob3IlMjBvZiUyMCdUaGUlMjBQcm9mZXNzb3IlMjBhbmQlMjB0aGUlMjBNYWRtYW4lMkMnJTIwSGFzJTIwRGllZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDEwMzI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMDQlM0EwNyUzQTIxJTIwJTJCMDAwMA",
+      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+      "pubDate": "Sun, 08 Nov 2026 04:07:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
     }
   ]

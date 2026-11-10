@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-10",
     "newestItemDate": "2026-11-10",
-    "itemCount": 7,
-    "generatedAt": "2026-11-10T07:29:24.088Z"
+    "itemCount": 22,
+    "generatedAt": "2026-11-10T16:28:54.938Z"
   },
   "items": [
     {
@@ -48,6 +48,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXVyeWN5ei5jb20lMkZwcm9qZWN0cyUyRmJhZGNlcnQlMkYlN0NodHRwcyUzQSUyRiUyRm1hdXJ5Y3l6LmNvbSUyRnByb2plY3RzJTJGYmFkY2VydCUyRiU3Q0hvcmlibGUlMjBwdWJsaWMlMjBrZXklMjB0cmlja3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzNDI2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDAwJTNBMDclM0ExNyUyMCUyQjAwMDA",
       "title": "Horible public key tricks",
       "pubDate": "Tue, 10 Nov 2026 00:07:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxlbmRlci5vcmclMkZkb3dubG9hZCUyRnJlbGVhc2VzJTJGNS0zJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYmxlbmRlci5vcmclMkZkb3dubG9hZCUyRnJlbGVhc2VzJTJGNS0zJTJGJTdDQmxlbmRlciUyMDUuMyUyMHJlbGVhc2VkJTIwd2l0aCUyMEdhdXNzaWFuJTIwU3BsYXQlMjBzdXBwb3J0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDI0MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAxNiUzQTE1JTNBNDMlMjAlMkIwMDAw",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "pubDate": "Tue, 10 Nov 2026 16:15:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZnZW1pbmktNC1jYXJib24tbm93LWF2YWlsYWJsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZpbm5vdmF0aW9uLWFuZC1haSUyRm1vZGVscy1hbmQtcmVzZWFyY2glMkZnZW1pbmktbW9kZWxzJTJGZ2VtaW5pLTQtY2FyYm9uLW5vdy1hdmFpbGFibGUlMkYlN0NHZW1pbmklMjA0JTIwQ2FyYm9uJTIwaXMlMjBub3clMjBhdmFpbGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0MjMwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE2JTNBMDclM0ExNSUyMCUyQjAwMDA",
+      "title": "Gemini 4 Carbon is now available",
+      "pubDate": "Tue, 10 Nov 2026 16:07:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGZG90bmV0JTJGYW5ub3VuY2luZy1kb3RuZXQtMTElMkYlN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZkb3RuZXQlMkZhbm5vdW5jaW5nLWRvdG5ldC0xMSUyRiU3Qy5ORVQlMjAxMSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQyMjI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTYlM0EwMSUzQTI3JTIwJTJCMDAwMA",
+      "title": ".NET 11",
+      "pubDate": "Tue, 10 Nov 2026 16:01:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXh0Lm5wci5vcmclMkZueC1zMS02MDI5NjQxJTdDaHR0cHMlM0ElMkYlMkZ0ZXh0Lm5wci5vcmclMkZueC1zMS02MDI5NjQxJTdDUGFsYW50aXIlMjBoaXJlcyUyMGElMjBmb3JtZXIlMjBEZW1vY3JhdGljJTIwc2VuYXRvciUyMGFzJTIwaXQlMjBmYWNlcyUyMHNjcnV0aW55JTIwaW4lMjBuZXclMjBDb25ncmVzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQyMjAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTUlM0E1OSUzQTM0JTIwJTJCMDAwMA",
+      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+      "pubDate": "Tue, 10 Nov 2026 15:59:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb2NvZGV0aGF0bWF0dGVycy5jb20lMkZob21lLWF1dG9tYXRpb24tb3Zlcm5pZ2h0LXN1Y2Nlc3MlMkYlN0NodHRwcyUzQSUyRiUyRmRvY29kZXRoYXRtYXR0ZXJzLmNvbSUyRmhvbWUtYXV0b21hdGlvbi1vdmVybmlnaHQtc3VjY2VzcyUyRiU3Q1NtYXJ0JTIwaG9tZSUyMGRldmljZXMlMjBzaG91bGQlMjB3b3JrJTIwd2l0aG91dCUyMHRoZSUyMGludGVybmV0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDE3MDclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAxNSUzQTI1JTNBMjAlMjAlMkIwMDAw",
+      "title": "Smart home devices should work without the internet",
+      "pubDate": "Tue, 10 Nov 2026 15:25:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aW55dmFsZW5jaWEuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aW55dmFsZW5jaWEuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwVmFsZW5jaWElMkMlMjBTcGFpbiUyMGluJTIwU2ltJTIwQ2l0eSUyRklzb21ldHJpYyUyMFZpZXclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0MTUxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE1JTNBMTIlM0ExNiUyMCUyQjAwMDA",
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "pubDate": "Tue, 10 Nov 2026 15:12:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG9wcGVscy5jaCUyRjIwMjYlMkYxMSUyRjA3JTJGdGhlLWhhcmRlc3QtdGFyYmFsbC5odG1sJTdDaHR0cHMlM0ElMkYlMkZzdG9wcGVscy5jaCUyRjIwMjYlMkYxMSUyRjA3JTJGdGhlLWhhcmRlc3QtdGFyYmFsbC5odG1sJTdDVGhlJTIwSGFyZGVzdCUyMFRhcmJhbGwlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0MTMzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE1JTNBMDAlM0EzOSUyMCUyQjAwMDA",
+      "title": "The Hardest Tarball?",
+      "pubDate": "Tue, 10 Nov 2026 15:00:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3eW9ya2VyLmNvbSUyRmN1bHR1cmUlMkZpbmZpbml0ZS1zY3JvbGwlMkZ0aGUtZGVhdGgta25lbGwtb2YtZGlnaXRhbC1zZWFyY2glN0NodHRwcyUzQSUyRiUyRnd3dy5uZXd5b3JrZXIuY29tJTJGY3VsdHVyZSUyRmluZmluaXRlLXNjcm9sbCUyRnRoZS1kZWF0aC1rbmVsbC1vZi1kaWdpdGFsLXNlYXJjaCU3Q1RoZSUyMERlYXRoJTIwS25lbGwlMjBvZiUyMERpZ2l0YWwlMjBTZWFyY2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0MTA3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE0JTNBNDElM0EzNiUyMCUyQjAwMDA",
+      "title": "The Death Knell of Digital Search",
+      "pubDate": "Tue, 10 Nov 2026 14:41:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXRvdmVybGFtYmRhLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGV0b3ZlcmxhbWJkYS5jb20lMkYlN0NMZXQlMjBvdmVyJTIwTGFtYmRhJUUyJTgwJTkzNTAlMjBZZWFycyUyMG9mJTIwTGlzcCUyMCgyMDA4KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDM5NDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTIlM0EzNSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Let over Lambda–50 Years of Lisp (2008)",
+      "pubDate": "Tue, 10 Nov 2026 12:35:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGaW50cm9kdWNpbmctYWxwaGFwcm9vZi1jb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZkZWVwbWluZC5nb29nbGUlMkZibG9nJTJGaW50cm9kdWNpbmctYWxwaGFwcm9vZi1jb2RlJTJGJTdDQWxwaGFQcm9vZiUyMENvZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzOTE5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDEyJTNBMTElM0ExMiUyMCUyQjAwMDA",
+      "title": "AlphaProof Code",
+      "pubDate": "Tue, 10 Nov 2026 12:11:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSG9seUFycnMlMkZIb2x5QXJycyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkhvbHlBcnJzJTJGSG9seUFycnMlN0NTaG93JTIwSE4lM0ElMjBBJTIwMTUlMjBNQiUyMHNlbGYtaG9zdGVkJTIwTmV0ZmxpeCUyMGFuZCUyMFNwb3RpZnklMjBmb3IlMjB5b3VyJTIwbWVkaWElMjBzZXJ2ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzOTAwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDExJTNBNTElM0ExOSUyMCUyQjAwMDA",
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "pubDate": "Tue, 10 Nov 2026 11:51:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWtlZG9zLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZmFrZWRvcy5jb20lMkYlN0MnQyUzQSU1QyUzRSUyMEZPUk1BVCUyMEMlM0EnJTIwJUUyJTgwJTkzJTIwcmVsYXglMkMlMjBpdCdzJTIwanVzdCUyMGElMjBzY3JlZW4lMjBzYXZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDM4Mzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTAlM0EzMiUzQTM2JTIwJTJCMDAwMA",
+      "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+      "pubDate": "Tue, 10 Nov 2026 10:32:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25uZWN0LnF1ZWVuc2xpYnJhcnkub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZjb25uZWN0LnF1ZWVuc2xpYnJhcnkub3JnJTJGJTdDUXVlZW5zJTIwUHVibGljJTIwbGlicmFyeSUyMHVuZGVyJTIwcmFuc29td2FyZSUyMGF0dGFjayUyMGUtYm9ycm93aW5nJTIwc3VzcGVuZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0Mzc3OTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAwOSUzQTA0JTNBMzklMjAlMkIwMDAw",
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "pubDate": "Tue, 10 Nov 2026 09:04:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm90aW9uLmNvbSUyRmhlbHAlMkZzZWN1cml0eS1pbmNpZGVudC1pbnZvbHZpbmctYS10aGlyZC1wYXJ0eS1haS12ZW5kb3IlN0NodHRwcyUzQSUyRiUyRnd3dy5ub3Rpb24uY29tJTJGaGVscCUyRnNlY3VyaXR5LWluY2lkZW50LWludm9sdmluZy1hLXRoaXJkLXBhcnR5LWFpLXZlbmRvciU3Q0ZpcmV3b3JrcyUyMEFJJTIwc2VjdXJpdHklMjBicmVhY2glMjBpbXBhY3RzJTIwTm90aW9uJTIwYW5kJTIwdGhlaXIlMjBjdXN0b21lcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzNzEwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDA3JTNBMTklM0EzOCUyMCUyQjAwMDA",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "pubDate": "Tue, 10 Nov 2026 07:19:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXVyeWN5ei5jb20lMkZwcm9qZWN0cyUyRmZhZGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWF1cnljeXouY29tJTJGcHJvamVjdHMlMkZmYWRpbmclMkYlN0NZb3VyJTIwVFYlMjBjYW4lMjBzZWUlMjB0aHJvdWdoJTIwd2FsbHMlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzNjQxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDA1JTNBMjQlM0E0NSUyMCUyQjAwMDA",
+      "title": "Your TV can see through walls (2025)",
+      "pubDate": "Tue, 10 Nov 2026 05:24:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
     }
   ]
