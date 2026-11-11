@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-06",
     "newestItemDate": "2026-11-06",
-    "itemCount": 61,
-    "generatedAt": "2026-11-10T16:28:54.939Z"
+    "itemCount": 62,
+    "generatedAt": "2026-11-11T16:18:46.357Z"
   },
   "items": [
     {
@@ -372,6 +372,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwcmF3bnMuZGV2JTJGYmxvZ3MlMkZzcGVjdWxhJTdDaHR0cHMlM0ElMkYlMkZwcmF3bnMuZGV2JTJGYmxvZ3MlMkZzcGVjdWxhJTdDQnVpbGRpbmclMjBhbiUyME9yZGVyJTIwUklTQy1WJTIwQ1BVJTIwZnJvbSUyMHNjcmF0Y2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5MjUyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDE0JTNBMTUlM0EzNiUyMCUyQjAwMDA",
       "title": "Building an Order RISC-V CPU from scratch",
       "pubDate": "Fri, 06 Nov 2026 14:15:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Bjd2lraS5ldSUyRmZvcnVtJTJGYW1zdHJhZC1jcGMtaGFyZHdhcmUlMkZ3aHktYW1zdHJhZC1jaG9zZS10aGUtMy1kcml2ZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcGN3aWtpLmV1JTJGZm9ydW0lMkZhbXN0cmFkLWNwYy1oYXJkd2FyZSUyRndoeS1hbXN0cmFkLWNob3NlLXRoZS0zLWRyaXZlcyUyRiU3Q1doeSUyMEFtc3RyYWQlMjBjaG9zZSUyMHRoZSUyMDMlMjIlMjBkcml2ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDM5MzA3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDA2JTIwTm92JTIwMjAyNiUyMDE0JTNBNTYlM0EwNyUyMCUyQjAwMDA",
+      "title": "Why Amstrad chose the 3\" drives",
+      "pubDate": "Fri, 06 Nov 2026 14:56:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-06-0.json"
     }
   ]

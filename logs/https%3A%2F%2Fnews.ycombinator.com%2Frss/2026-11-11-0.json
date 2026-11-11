@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-11",
     "newestItemDate": "2026-11-11",
-    "itemCount": 7,
-    "generatedAt": "2026-11-11T06:43:36.915Z"
+    "itemCount": 25,
+    "generatedAt": "2026-11-11T16:18:46.356Z"
   },
   "items": [
     {
@@ -48,6 +48,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmllbWFubGFiLm9yZyUyRjIwMjYlMkYxMSUyRmFpLWlzLWJlY29taW5nLWFuLWluZm9ybWF0aW9uLWdhdGV3YXktYXVkaWVuY2VzLXN0aWxsLWRvbnQtd2FudC1pdC1tYWtpbmctdGhlaXItbmV3cyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5pZW1hbmxhYi5vcmclMkYyMDI2JTJGMTElMkZhaS1pcy1iZWNvbWluZy1hbi1pbmZvcm1hdGlvbi1nYXRld2F5LWF1ZGllbmNlcy1zdGlsbC1kb250LXdhbnQtaXQtbWFraW5nLXRoZWlyLW5ld3MlMkYlN0NBSSUyMGlzJTIwYmVjb21pbmclMjBhbiUyMGluZm9ybWF0aW9uJTIwZ2F0ZXdheS4lMjBBdWRpZW5jZXMlMjBzdGlsbCUyMGRvbiVFMiU4MCU5OXQlMjB3YW50JTIwaXQlMjBtYWtpbmclMjBuZXdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDgxNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAwMCUzQTE1JTNBMzMlMjAlMkIwMDAw",
       "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
       "pubDate": "Wed, 11 Nov 2026 00:15:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXNzaW1vLW5vY2VudGluaS5naXRodWIuaW8lMkZwaGFyby12bSUyRndvcmxkLmh0bWwlN0NodHRwcyUzQSUyRiUyRm1hc3NpbW8tbm9jZW50aW5pLmdpdGh1Yi5pbyUyRnBoYXJvLXZtJTJGd29ybGQuaHRtbCU3Q1BoYXJvJTIwaW4lMjB0aGUlMjBCcm93c2VyJTIwd2l0aCUyMFdlYkFzc2VtYmx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTM3NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxNCUzQTIxJTNBMjclMjAlMkIwMDAw",
+      "title": "Pharo in the Browser with WebAssembly",
+      "pubDate": "Wed, 11 Nov 2026 14:21:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmF0dWluLnNoJTJGdGhyZWFkcy1hZ2VudC1zZXNzaW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5hdHVpbi5zaCUyRnRocmVhZHMtYWdlbnQtc2Vzc2lvbnMlMkYlN0NBdHVpbiUyMFRocmVhZHMlM0ElMjBBbGwlMjB5b3VyJTIwYWdlbnQlMjBzZXNzaW9ucyUyMG9uJTIwZXZlcnklMjBtYWNoaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTM2MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxNCUzQTEwJTNBNDYlMjAlMkIwMDAw",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "pubDate": "Wed, 11 Nov 2026 14:10:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGdGVjaCUyRjEwMzE1MDclMkZhcHBsZS1jb21tdW5pdHktc3VwcG9ydC1mb3J1bS1zaHV0dGluZy1kb3duJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGdGVjaCUyRjEwMzE1MDclMkZhcHBsZS1jb21tdW5pdHktc3VwcG9ydC1mb3J1bS1zaHV0dGluZy1kb3duJTdDQXBwbGUlMjBpcyUyMGtpbGxpbmclMjBpdHMlMjBTdXBwb3J0JTIwQ29tbXVuaXR5JTIwZm9ydW0lMjBuZXh0JTIwd2VlayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDUzNTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTQlM0EwMiUzQTExJTIwJTJCMDAwMA",
+      "title": "Apple is killing its Support Community forum next week",
+      "pubDate": "Wed, 11 Nov 2026 14:02:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGdGVjaCUyRjEwMTIzNzIlMkZ0di1wcml2YWN5LWFjci1xdWVzdGlvbnMlN0NodHRwcyUzQSUyRiUyRnd3dy50aGV2ZXJnZS5jb20lMkZ0ZWNoJTJGMTAxMjM3MiUyRnR2LXByaXZhY3ktYWNyLXF1ZXN0aW9ucyU3Q0klMjBhc2tlZCUyMGV2ZXJ5JTIwVFYlMjBtYW51ZmFjdHVyZXIlMjAxNyUyMHF1ZXN0aW9ucyUyMGFib3V0JTIwaG93JTIwdGhleSUyMHNweSUyMG9uJTIweW91JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTM0NzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMyUzQTU2JTNBMDUlMjAlMkIwMDAw",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "pubDate": "Wed, 11 Nov 2026 13:56:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdi5naXRodWIuaW8lMkZzYWZlLXNhbmQlMkYlN0NodHRwcyUzQSUyRiUyRmF2LmdpdGh1Yi5pbyUyRnNhZmUtc2FuZCUyRiU3Q0h5cGVyLVJlYWxpc3RpYyUyMFNhbmQlMjB3aXRoJTIwV2ViR0wyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTMyODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMyUzQTM5JTNBMjklMjAlMkIwMDAw",
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "pubDate": "Wed, 11 Nov 2026 13:39:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGMHhkZWFkZjFzaCUyRkFzc2VtYmx5Rm9yTmVvdmltJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGMHhkZWFkZjFzaCUyRkFzc2VtYmx5Rm9yTmVvdmltJTdDU2hvdyUyMEhOJTNBJTIwR29kYm9sdC1pbi1hLWZsb2F0aW5nLXdpbmRvdyUyMGZvciUyME5lb3ZpbSUyMChDJTJDJTIwQyUyQiUyQiUyQyUyMFJ1c3QpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTMyMjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMyUzQTM0JTNBMjQlMjAlMkIwMDAw",
+      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "pubDate": "Wed, 11 Nov 2026 13:34:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNoaW5lbGVhcm5pbmcuYXBwbGUuY29tJTJGcmVzZWFyY2glMkZhdHRlbnRpb24tbWFtYmEtZGlzdGlsbGF0aW9uJTdDaHR0cHMlM0ElMkYlMkZtYWNoaW5lbGVhcm5pbmcuYXBwbGUuY29tJTJGcmVzZWFyY2glMkZhdHRlbnRpb24tbWFtYmEtZGlzdGlsbGF0aW9uJTdDQXR0ZW50aW9uJTIwdG8lMjBNYW1iYSUzQSUyMEElMjBSZWNpcGUlMjBmb3IlMjBDcm9zcy1BcmNoaXRlY3R1cmUlMjBEaXN0aWxsYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1MzE3MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDEzJTNBMjklM0E0NiUyMCUyQjAwMDA",
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "pubDate": "Wed, 11 Nov 2026 13:29:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXZlbnRmb3VuZGF0aW9uLmlvJTJGcmVzb3VyY2VzJTJGYmxvZyUyRmV2ZW50c291cmNpbmdkYi0xLTMtMC1pcy1hdmFpbGFibGUlN0NodHRwcyUzQSUyRiUyRnd3dy5ldmVudGZvdW5kYXRpb24uaW8lMkZyZXNvdXJjZXMlMkZibG9nJTJGZXZlbnRzb3VyY2luZ2RiLTEtMy0wLWlzLWF2YWlsYWJsZSU3Q0V2ZW50U291cmNpbmdEQiUyMDEuMy4wJTIwSXMlMjBBdmFpbGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1MzA4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDEzJTNBMTklM0E0NSUyMCUyQjAwMDA",
+      "title": "EventSourcingDB 1.3.0 Is Available",
+      "pubDate": "Wed, 11 Nov 2026 13:19:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1vemlsbGEub3JnJTJGc2VjdXJpdHklMkYyMDI2JTJGMTElMkYxMCUyRm9wZW4tcmVzZWFyY2gtc3Ryb25nZXItcHJpdmFjeS1tYWtpbmctZmlyZWZveC11c2Vycy1oYXJkZXItdG8tZmluZ2VycHJpbnQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cubW96aWxsYS5vcmclMkZzZWN1cml0eSUyRjIwMjYlMkYxMSUyRjEwJTJGb3Blbi1yZXNlYXJjaC1zdHJvbmdlci1wcml2YWN5LW1ha2luZy1maXJlZm94LXVzZXJzLWhhcmRlci10by1maW5nZXJwcmludCUyRiU3Q09wZW4lMjByZXNlYXJjaCUyQyUyMHN0cm9uZ2VyJTIwcHJpdmFjeSUzQSUyME1ha2luZyUyMEZpcmVmb3glMjB1c2VycyUyMGhhcmRlciUyMHRvJTIwZmluZ2VycHJpbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1Mjc0MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDEyJTNBNDQlM0EwNiUyMCUyQjAwMDA",
+      "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+      "pubDate": "Wed, 11 Nov 2026 12:44:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXRoYW4ucnMlMkZwb3N0cyUyRndlaWdodC1zcGFjZS1scCUyRiU3Q2h0dHBzJTNBJTJGJTJGbmF0aGFuLnJzJTJGcG9zdHMlMkZ3ZWlnaHQtc3BhY2UtbHAlMkYlN0NDYW4lMjBhJTIwTGluZWFyJTIwUHJvZ3JhbSUyMERvJTIwV2VpZ2h0LVNwYWNlJTIwUHJvZ3JhbW1pbmclM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1MjY1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDEyJTNBMzAlM0ExNyUyMCUyQjAwMDA",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "pubDate": "Wed, 11 Nov 2026 12:30:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXhwZXJpbWVudGFsLWhpc3RvcnkuY29tJTJGcCUyRndlLW5lZWQtbW9yZS1nb2F0LXNhY3JpZmljZXMlN0NodHRwcyUzQSUyRiUyRnd3dy5leHBlcmltZW50YWwtaGlzdG9yeS5jb20lMkZwJTJGd2UtbmVlZC1tb3JlLWdvYXQtc2FjcmlmaWNlcyU3Q1dlJTIwbmVlZCUyMG1vcmUlMjBnb2F0JTIwc2FjcmlmaWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDUyNjUyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTIlM0EyOSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "We need more goat sacrifices",
+      "pubDate": "Wed, 11 Nov 2026 12:29:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmRhdGFiYXNlYXJjaGl0ZWN0cy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTElMkZuZXh0LWxldmVsLWJlbmNobWFya2luZy1vdmVyZml0dGluZy5odG1sJTdDaHR0cCUzQSUyRiUyRmRhdGFiYXNlYXJjaGl0ZWN0cy5ibG9nc3BvdC5jb20lMkYyMDI2JTJGMTElMkZuZXh0LWxldmVsLWJlbmNobWFya2luZy1vdmVyZml0dGluZy5odG1sJTdDTmV4dC1MZXZlbCUyMEJlbmNobWFya2luZyUyME92ZXJmaXR0aW5nJTIwJUUyJTgwJTkzJTIwVGhvbWFzJTIwTmV1bWFubiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDUyNDk2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTIlM0EwOSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "pubDate": "Wed, 11 Nov 2026 12:09:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaWV0cm9taW90dGkuY29tJTJGbGF0ZXN0JTJGbWF5YS1zaXRlJTJGJTNGbWF5YSU3Q2h0dHBzJTNBJTJGJTJGcGlldHJvbWlvdHRpLmNvbSUyRmxhdGVzdCUyRm1heWEtc2l0ZSUyRiUzRm1heWElM0QlN0NHb29nbGUlMjBTV0UlMjBwb2ludHMlMjA0OCUyMEFJJTIwYWdlbnRzJTIwYXQlMjBOQVNBJTIwTGlkYXIlMkMlMjBmaW5kcyUyMHVubWFwcGVkJTIwTWF5YSUyMHB5cmFtaWQlMjBpbiUyMDcyaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDUyNDU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTIlM0EwNSUzQTIyJTIwJTJCMDAwMA",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "pubDate": "Wed, 11 Nov 2026 12:05:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9zc2liaWxpdHlzcGFjZS5vcmclMkZibG9nJTJGcG9zdHMlMkZpbi1kZWZlbmNlLW9mLWdpdmluZy1hLXNoaXQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wb3NzaWJpbGl0eXNwYWNlLm9yZyUyRmJsb2clMkZwb3N0cyUyRmluLWRlZmVuY2Utb2YtZ2l2aW5nLWEtc2hpdCUyRiU3Q0luJTIwRGVmZW5zZSUyMG9mJTIwR2l2aW5nJTIwYSUyMFNoaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1MjQwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDEyJTNBMDAlM0E0NSUyMCUyQjAwMDA",
+      "title": "In Defense of Giving a Shit",
+      "pubDate": "Wed, 11 Nov 2026 12:00:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDUyNDA0JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDUyNDA0JTdDVGluZm9pbCUyMChZQyUyMFAyNSklMjBpcyUyMGhpcmluZyUyMGFuJTIwYXBwbGllZCUyMEFJJTIwc2VjdXJpdHklMjBlbmdpbmVlciUyMGluJTIwU2FuJTIwRnJhbmNpc2NvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTI0MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMiUzQTAwJTNBMzUlMjAlMkIwMDAw",
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "pubDate": "Wed, 11 Nov 2026 12:00:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5YWtzb3kuZ2l0aHViLmlvJTJGUGh5c2ljYWxSZWxpZ2h0aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ5YWtzb3kuZ2l0aHViLmlvJTJGUGh5c2ljYWxSZWxpZ2h0aW5nJTJGJTdDUGh5c2ljYWxseSUyMENvbnRyb2xsYWJsZSUyMFJlbGlnaHRpbmclMjBvZiUyMFBob3RvZ3JhcGhzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTIyMjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMSUzQTM4JTNBNDMlMjAlMkIwMDAw",
+      "title": "Physically Controllable Relighting of Photographs",
+      "pubDate": "Wed, 11 Nov 2026 11:38:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmthdGUubGFuZCUyRnBvc3RzJTJGdXNpbmctdm9sdGFnZS1nbGl0Y2hpbmctdG8tdW5sb2NrLXRoZS1hMTAwJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmthdGUubGFuZCUyRnBvc3RzJTJGdXNpbmctdm9sdGFnZS1nbGl0Y2hpbmctdG8tdW5sb2NrLXRoZS1hMTAwJTJGJTdDVXNpbmclMjB2b2x0YWdlJTIwZ2xpdGNoaW5nJTIwdG8lMjB1bmxlYXNoJTIwdGhlJTIwQTEwMCUyMGluJTIwbXklMjBtaW5pbmclMjBjYXJkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTE5MDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMCUzQTQ4JTNBNDAlMjAlMkIwMDAw",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "pubDate": "Wed, 11 Nov 2026 10:48:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRyYm4lMkZibzItbWFjJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRyYm4lMkZibzItbWFjJTdDU2hvdyUyMEhOJTNBJTIwQmxhY2slMjBPcHMlMjBJSSUyMHN0YXRpY2FsbHklMjByZWNvbXBpbGVkJTIwdG8lMjBuYXRpdmUlMjBBUk02NCUyMG1hY09TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDk4OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAwNCUzQTU2JTNBNDclMjAlMkIwMDAw",
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "pubDate": "Wed, 11 Nov 2026 04:56:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-08",
     "newestItemDate": "2026-11-08",
-    "itemCount": 47,
-    "generatedAt": "2026-11-11T06:43:36.915Z"
+    "itemCount": 48,
+    "generatedAt": "2026-11-11T16:18:46.357Z"
   },
   "items": [
     {
@@ -288,6 +288,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWVzc3luZXNzeWNoaWMuY29tJTJGMjAxNSUyRjAxJTJGMTUlMkZhLWNvbXBlbmRpdW0tb2YtYWJhbmRvbmVkLWdyZWVuaG91c2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubWVzc3luZXNzeWNoaWMuY29tJTJGMjAxNSUyRjAxJTJGMTUlMkZhLWNvbXBlbmRpdW0tb2YtYWJhbmRvbmVkLWdyZWVuaG91c2VzJTJGJTdDQSUyMENvbXBlbmRpdW0lMjBvZiUyMEFiYW5kb25lZCUyMEdyZWVuaG91c2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MTQ2NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAwOCUyME5vdiUyMDIwMjYlMjAxNiUzQTMwJTNBMDQlMjAlMkIwMDAw",
       "title": "A Compendium of Abandoned Greenhouses",
       "pubDate": "Sun, 08 Nov 2026 16:30:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHVra3MlMkZsaWtlLXdlYnJ0YyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmx1a2tzJTJGbGlrZS13ZWJydGMlN0NQZWVyLXRvLXBlZXIlMjBXZWJSVEMlMjBjb25uZWN0aW9ucyUyMHdpdGglMjBidWlsdC1pbiUyMHNpZ25hbGluZyUyMGFuZCUyMGRpc2NvdmVyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2NjQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMjAlM0ExMCUzQTA2JTIwJTJCMDAwMA",
+      "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
+      "pubDate": "Sun, 08 Nov 2026 20:10:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
     }
   ]
