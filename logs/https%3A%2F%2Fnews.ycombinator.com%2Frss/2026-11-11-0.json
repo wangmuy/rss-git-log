@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-11",
     "newestItemDate": "2026-11-11",
-    "itemCount": 25,
-    "generatedAt": "2026-11-11T16:18:46.356Z"
+    "itemCount": 47,
+    "generatedAt": "2026-11-11T22:47:47.176Z"
   },
   "items": [
     {
@@ -156,6 +156,138 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRyYm4lMkZibzItbWFjJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWRyYm4lMkZibzItbWFjJTdDU2hvdyUyMEhOJTNBJTIwQmxhY2slMjBPcHMlMjBJSSUyMHN0YXRpY2FsbHklMjByZWNvbXBpbGVkJTIwdG8lMjBuYXRpdmUlMjBBUk02NCUyMG1hY09TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDk4OTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAwNCUzQTU2JTNBNDclMjAlMkIwMDAw",
       "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
       "pubDate": "Wed, 11 Nov 2026 04:56:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWNtaWxsZW4uZGV2JTJGc2lnYm92aWslMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5tY21pbGxlbi5kZXYlMkZzaWdib3ZpayUyRiU3QzkzJTI1JTIwb2YlMjBQYWludCUyMFNwbGF0dGVycyUyMEFyZSUyMFZhbGlkJTIwUGVybCUyMFByb2dyYW1zJTIwKDIwMTkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTk3NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAyMiUzQTM0JTNBMjMlMjAlMkIwMDAw",
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "pubDate": "Wed, 11 Nov 2026 22:34:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRmJ1c2luZXNzJTJGbnZpZGlhLWlzLXByZXBhcmluZy10by1vdXN0LW52aWRpYS1jZW8tamVuc2VuLWh1YW5nLTMwZjQyMWFkJTdDaHR0cHMlM0ElMkYlMkZ3d3cud3NqLmNvbSUyRmJ1c2luZXNzJTJGbnZpZGlhLWlzLXByZXBhcmluZy10by1vdXN0LW52aWRpYS1jZW8tamVuc2VuLWh1YW5nLTMwZjQyMWFkJTdDTnZpZGlhJTIwSXMlMjBQcmVwYXJpbmclMjB0byUyME91c3QlMjBOdmlkaWElMjBDRU8lMjBKZW5zZW4lMjBIdWFuZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDU5NzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMjIlM0EzMSUzQTA2JTIwJTJCMDAwMA",
+      "title": "Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang",
+      "pubDate": "Wed, 11 Nov 2026 22:31:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdvdmsuZGV2JTJGYmxvZyUyRjIwMjYlMkZsb2NrLWdpdGh1Yi1hY3Rpb25zJTJGJTdDaHR0cHMlM0ElMkYlMkZodWdvdmsuZGV2JTJGYmxvZyUyRjIwMjYlMkZsb2NrLWdpdGh1Yi1hY3Rpb25zJTJGJTdDTG9jayUyMFlvdXIlMjBHaXRIdWIlMjBBY3Rpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTk0ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAyMiUzQTE2JTNBNDElMjAlMkIwMDAw",
+      "title": "Lock Your GitHub Actions",
+      "pubDate": "Wed, 11 Nov 2026 22:16:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JzbmV3cy5jb20lMkZuZXdzJTJGdW5pdGVkLWFpcmxpbmVzLWJhbnMtYWktYWdlbnRzLWJvb2tpbmctZmxpZ2h0cyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNic25ld3MuY29tJTJGbmV3cyUyRnVuaXRlZC1haXJsaW5lcy1iYW5zLWFpLWFnZW50cy1ib29raW5nLWZsaWdodHMlMkYlN0NVbml0ZWQlMjBBaXJsaW5lcyUyMGJhbnMlMjBBSSUyMGFnZW50cyUyMGZyb20lMjBib29raW5nJTIwZmxpZ2h0cyUyMG9uJTIwYmVoYWxmJTIwb2YlMjB0cmF2ZWxlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1ODkwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDIxJTNBMjQlM0EzNSUyMCUyQjAwMDA",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "pubDate": "Wed, 11 Nov 2026 21:24:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwbGF5Z3RhNS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnBsYXlndGE1LmNvbSUyRiU3Q1BsYXklMjBHVEE1JTIwb24lMjBCcm93c2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTg3MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAyMSUzQTEwJTNBMzUlMjAlMkIwMDAw",
+      "title": "Play GTA5 on Browser",
+      "pubDate": "Wed, 11 Nov 2026 21:10:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2l0aHVic3RhdHVzLmNvbSUyRmluY2lkZW50cyUyRmR2eTB0M212aDFsZyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdpdGh1YnN0YXR1cy5jb20lMkZpbmNpZGVudHMlMkZkdnkwdDNtdmgxbGclN0NHaXRIdWIlMjBJbmNpZGVudCUyMHdpdGglMjBXZWJob29rcyUyQyUyMEFjdGlvbnMlMkMlMjBldGMuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTg1MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAyMCUzQTU0JTNBMzclMjAlMkIwMDAw",
+      "title": "GitHub Incident with Webhooks, Actions, etc.",
+      "pubDate": "Wed, 11 Nov 2026 20:54:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvc2hlYTAwLmdpdGh1Yi5pbyUyRnBvc3RzJTJGdGlueWdwdC12aXN1YWxpemVyJTJGJTdDaHR0cHMlM0ElMkYlMkZvc2hlYTAwLmdpdGh1Yi5pbyUyRnBvc3RzJTJGdGlueWdwdC12aXN1YWxpemVyJTJGJTdDVG9vbHMlMjBmb3IlMjBleHBsb3JpbmclMjB0aGUlMjBzb3VscyUyMG9mJTIwbGFyZ2UlMjBsYW5ndWFnZSUyMG1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDU4NDM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMjAlM0E0NSUzQTUwJTIwJTJCMDAwMA",
+      "title": "Tools for exploring the souls of large language models",
+      "pubDate": "Wed, 11 Nov 2026 20:45:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tYW5kbGluZXN5c3RlbXMuY29tJTJGbWFnaWMudHh0JTdDaHR0cHMlM0ElMkYlMkZjb21tYW5kbGluZXN5c3RlbXMuY29tJTJGbWFnaWMudHh0JTdDRW1hY3MlMjBpbiUyMHRoZSUyMEFnZSUyMG9mJTIwTWFnaWMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1ODIwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDIwJTNBMjYlM0EzMiUyMCUyQjAwMDA",
+      "title": "Emacs in the Age of Magic",
+      "pubDate": "Wed, 11 Nov 2026 20:26:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHVhd2VpLWNzbCUyRk1BQ2FRJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHVhd2VpLWNzbCUyRk1BQ2FRJTdDSHVhd2VpJTIwcmVsZWFzZXMlMjBNQUNhUSUyQyUyMGl0cyUyMGludGVybmFsJTIwcXVhbnRpemVyJTIwZm9yJTIwbG9jYWwlMjBpbmZlcmVuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1ODE2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDIwJTNBMjMlM0E1NyUyMCUyQjAwMDA",
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "pubDate": "Wed, 11 Nov 2026 20:23:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzcm9vbS5pYm0uY29tJTJGMjAyNi0xMS0xMS1pYm0tcXVhbnR1bS1uaWdodGhhd2stZGVtb25zdHJhdGVzLW5ldy1sZXZlbHMtb2Ytc3BlZWQtYW5kLXF1YWxpdHklMkMtd2l0aC1wbGFucy10by1zY2FsZS1iZXlvbmQtMSUyQzAwMC1xdWJpdHMtaW4tMjAyNyU3Q2h0dHBzJTNBJTJGJTJGbmV3c3Jvb20uaWJtLmNvbSUyRjIwMjYtMTEtMTEtaWJtLXF1YW50dW0tbmlnaHRoYXdrLWRlbW9uc3RyYXRlcy1uZXctbGV2ZWxzLW9mLXNwZWVkLWFuZC1xdWFsaXR5JTJDLXdpdGgtcGxhbnMtdG8tc2NhbGUtYmV5b25kLTElMkMwMDAtcXViaXRzLWluLTIwMjclN0NJQk0lMjBRdWFudHVtJTIwTmlnaHRoYXdrJTIwRGVtb25zdHJhdGVzJTIwTmV3JTIwTGV2ZWxzJTIwb2YlMjBTcGVlZCUyMGFuZCUyMFF1YWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1NzY2OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDE5JTNBNDclM0E1OSUyMCUyQjAwMDA",
+      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+      "pubDate": "Wed, 11 Nov 2026 19:47:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncmFwaGljcy5jcy51dGFoLmVkdSUyRnRlYXBvdCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JhcGhpY3MuY3MudXRhaC5lZHUlMkZ0ZWFwb3QlMkYlN0NUaGUlMjBVdGFoJTIwVGVhcG90JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTc2MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxOSUzQTQ1JTNBMTAlMjAlMkIwMDAw",
+      "title": "The Utah Teapot",
+      "pubDate": "Wed, 11 Nov 2026 19:45:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJtc2hlZXRwbGVhc2UuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJtc2hlZXRwbGVhc2UuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwSSUyMHJlY3JlYXRlZCUyMFBhcGVycyUyMFBsZWFzZSUyMGJ1dCUyMHlvdSdyZSUyMGRlY2lkaW5nJTIwd2hpY2glMjBZQyUyMHN0YXJ0dXBzJTIwdG8lMjBmdW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTcyMzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxOSUzQTEyJTNBMTYlMjAlMkIwMDAw",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "pubDate": "Wed, 11 Nov 2026 19:12:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGdGVjaG5vbG9neSUyRmRldmVsb3BlcnMtdG9vbHMlMkZnZW1pbmktZGVjaXNpb25zLWFwaSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZpbm5vdmF0aW9uLWFuZC1haSUyRnRlY2hub2xvZ3klMkZkZXZlbG9wZXJzLXRvb2xzJTJGZ2VtaW5pLWRlY2lzaW9ucy1hcGklMkYlN0NHZW1pbmklMjBEZWNpc2lvbnMlMjBBUEklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1Njc5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDE4JTNBMzIlM0E0MiUyMCUyQjAwMDA",
+      "title": "Gemini Decisions API",
+      "pubDate": "Wed, 11 Nov 2026 18:32:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXdzJTJGYXdzLWVtdWxhdG9yJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXdzJTJGYXdzLWVtdWxhdG9yJTdDQVdTJTIwZW11bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1NjYzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDE4JTNBMjElM0EzOCUyMCUyQjAwMDA",
+      "title": "AWS emulator",
+      "pubDate": "Wed, 11 Nov 2026 18:21:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDU1ODExJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDU1ODExJTdDTGF1bmNoJTIwSE4lM0ElMjBQb21lcmFkbyUyMChZQyUyMEYyNiklMjAlRTIlODAlOTMlMjBUdXJuJTIwYW55JTIwd2Vic2l0ZSUyMGludG8lMjBhbiUyME1DUCUyMGZvciUyMGFnZW50cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDU1ODExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTclM0ExMSUzQTU2JTIwJTJCMDAwMA",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "pubDate": "Wed, 11 Nov 2026 17:11:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNoaW5lbGVhcm5pbmcuYXBwbGUuY29tJTJGcmVzZWFyY2glMkZmYXN0ZXItcmV0cmlldmFsJTdDaHR0cHMlM0ElMkYlMkZtYWNoaW5lbGVhcm5pbmcuYXBwbGUuY29tJTJGcmVzZWFyY2glMkZmYXN0ZXItcmV0cmlldmFsJTdDRmFzdGVyJTIwUmV0cmlldmFsJTIwZm9yJTIwQmV0dGVyJTJDJTIwTW9yZSUyMEVmZmljaWVudCUyMFJBRyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDU1NjMzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTYlM0E1NyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "pubDate": "Wed, 11 Nov 2026 16:57:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNoYWVsLmJhY2FyZWxsYS5jb20lMkYyMDI2JTJGMTElMkYxMCUyRmZhbHNlLXNtb2tlLWFsYXJtLWphbmUtc3RyZWV0LWRhdGFjZW50ZXIlMkYlN0NodHRwcyUzQSUyRiUyRm1pY2hhZWwuYmFjYXJlbGxhLmNvbSUyRjIwMjYlMkYxMSUyRjEwJTJGZmFsc2Utc21va2UtYWxhcm0tamFuZS1zdHJlZXQtZGF0YWNlbnRlciUyRiU3Q0ElMjBmYWxzZSUyMHNtb2tlJTIwYWxhcm0lMjBhbG1vc3QlMjBkcm93bmVkJTIwSmFuZSUyMFN0cmVldCdzJTIwb25seSUyME5ZQyUyMGRhdGFjZW50ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1NTM5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDE2JTNBMzglM0E0NCUyMCUyQjAwMDA",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "pubDate": "Wed, 11 Nov 2026 16:38:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2l0b3JpLmNvbSUyRmJsb2clMkZhcnRpY2xlcyUyRmhhcmRlc3Qtbm90ZXMtb24tdGhlLWd1aXRhci1mcmV0Ym9hcmQlN0NodHRwcyUzQSUyRiUyRnd3dy5naXRvcmkuY29tJTJGYmxvZyUyRmFydGljbGVzJTJGaGFyZGVzdC1ub3Rlcy1vbi10aGUtZ3VpdGFyLWZyZXRib2FyZCU3Q1RoZSUyMGhhcmRlc3QlMjBub3RlcyUyMHRvJTIwZmluZCUyMG9uJTIwdGhlJTIwZ3VpdGFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTQ5OTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxNiUzQTA1JTNBMTglMjAlMkIwMDAw",
+      "title": "The hardest notes to find on the guitar",
+      "pubDate": "Wed, 11 Nov 2026 16:05:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRnJpZ2FkZUhRJTJGeW9ndXJ0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRnJpZ2FkZUhRJTJGeW9ndXJ0JTdDU2hvdyUyMEhOJTNBJTIwWW9ndXJ0JTIwJUUyJTgwJTkzJTIwRnJlZSUyQyUyMHByaXZhdGUlMkMlMjBvcGVuLXNvdXJjZSUyMGFsdGVybmF0aXZlJTIwdG8lMjBHcmFub2xhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTQ2MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxNSUzQTMzJTNBMDYlMjAlMkIwMDAw",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "pubDate": "Wed, 11 Nov 2026 15:33:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaWV0cm9taW90dGkuY29tJTJGbGF0ZXN0JTJGbWF5YS1zaXRlJTdDaHR0cHMlM0ElMkYlMkZwaWV0cm9taW90dGkuY29tJTJGbGF0ZXN0JTJGbWF5YS1zaXRlJTdDTXklMjBBSSUyMGFnZW50cyUyMGZvdW5kJTIwYW4lMjB1bm1hcHBlZCUyME1heWElMjBzaXRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTI0NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMiUzQTA1JTNBMjIlMjAlMkIwMDAw",
+      "title": "My AI agents found an unmapped Maya site",
+      "pubDate": "Wed, 11 Nov 2026 12:05:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzLnB5dGhvbi5vcmclMkZ0JTJGaW4tbWVtb3JpYW0tdGltLXBldGVycy0xOTUyLTIwMjYlMkYxMTAwMjglN0NodHRwcyUzQSUyRiUyRmRpc2N1c3MucHl0aG9uLm9yZyUyRnQlMkZpbi1tZW1vcmlhbS10aW0tcGV0ZXJzLTE5NTItMjAyNiUyRjExMDAyOCU3Q1RpbSUyMFBldGVycyUyMGhhcyUyMGRpZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1MDQ4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDA3JTNBMDMlM0ExNyUyMCUyQjAwMDA",
+      "title": "Tim Peters has died",
+      "pubDate": "Wed, 11 Nov 2026 07:03:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaXNjdXNzaW9ucy5hcHBsZS5jb20lMkZ3ZWxjb21lJTdDaHR0cHMlM0ElMkYlMkZkaXNjdXNzaW9ucy5hcHBsZS5jb20lMkZ3ZWxjb21lJTdDVGhlJTIwQXBwbGUlMjBTdXBwb3J0JTIwQ29tbXVuaXR5JTIwd2lsbCUyMHBlcm1hbmVudGx5JTIwY2xvc2UlMjBvbiUyME5vdmVtYmVyJTIwMjAlMkMlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDk0NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAwMyUzQTI2JTNBNTElMjAlMkIwMDAw",
+      "title": "The Apple Support Community will permanently close on November 20, 2026",
+      "pubDate": "Wed, 11 Nov 2026 03:26:51 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
     }
   ]

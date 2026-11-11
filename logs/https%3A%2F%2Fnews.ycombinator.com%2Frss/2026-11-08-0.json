@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-08",
     "newestItemDate": "2026-11-08",
-    "itemCount": 48,
-    "generatedAt": "2026-11-11T16:18:46.357Z"
+    "itemCount": 49,
+    "generatedAt": "2026-11-11T22:47:47.177Z"
   },
   "items": [
     {
@@ -294,6 +294,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHVra3MlMkZsaWtlLXdlYnJ0YyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmx1a2tzJTJGbGlrZS13ZWJydGMlN0NQZWVyLXRvLXBlZXIlMjBXZWJSVEMlMjBjb25uZWN0aW9ucyUyMHdpdGglMjBidWlsdC1pbiUyMHNpZ25hbGluZyUyMGFuZCUyMGRpc2NvdmVyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2NjQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMjAlM0ExMCUzQTA2JTIwJTJCMDAwMA",
       "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
       "pubDate": "Sun, 08 Nov 2026 20:10:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXlhay5pbSUyRnBvc3RzJTJGb3B0aW1pemluZy1yZWZlcmVuY2UtZGVsZXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRm5heWFrLmltJTJGcG9zdHMlMkZvcHRpbWl6aW5nLXJlZmVyZW5jZS1kZWxldGlvbiUyRiU3Q09wdGltaXppbmclMjBSZWZlcmVuY2UlMjBEZWxldGlvbnMlMjBpbiUyMEdpdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDE2MzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMDglMjBOb3YlMjAyMDI2JTIwMTklM0EzNyUzQTQyJTIwJTJCMDAwMA",
+      "title": "Optimizing Reference Deletions in Git",
+      "pubDate": "Sun, 08 Nov 2026 19:37:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-08-0.json"
     }
   ]
