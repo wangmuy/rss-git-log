@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-07",
     "newestItemDate": "2026-11-07",
-    "itemCount": 43,
-    "generatedAt": "2026-11-10T07:29:24.089Z"
+    "itemCount": 44,
+    "generatedAt": "2026-11-11T06:43:36.915Z"
   },
   "items": [
     {
@@ -264,6 +264,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ4bmFjbHkubWUlMkZwb3N0cyUyRjIwMjYlMkZhbi1vZGUtdG8tbGl2ZWx5bmVzcy1hbmFseXNpcyUyRiU3Q2h0dHBzJTNBJTJGJTJGeG5hY2x5Lm1lJTJGcG9zdHMlMkYyMDI2JTJGYW4tb2RlLXRvLWxpdmVseW5lc3MtYW5hbHlzaXMlMkYlN0NBbiUyMG9kZSUyMHRvJTIwbGl2ZWx5bmVzcyUyMGFuYWx5c2lzJTNCJTIwU1NBJTIwdG8lMjByZWdpc3RlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQwNTI3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDA3JTIwTm92JTIwMjAyNiUyMDE1JTNBMTclM0EzMSUyMCUyQjAwMDA",
       "title": "An ode to livelyness analysis; SSA to registers",
       "pubDate": "Sat, 07 Nov 2026 15:17:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwMHBjeWNsZS5jb20lMkYyMDI2JTJGMTElMkYwNiUyRmhhY2tpbmctdGhlLW1ldGEtcmF5LWJhbi1zbWFydGdsYXNzZXMlMkYlN0NodHRwcyUzQSUyRiUyRnAwcGN5Y2xlLmNvbSUyRjIwMjYlMkYxMSUyRjA2JTJGaGFja2luZy10aGUtbWV0YS1yYXktYmFuLXNtYXJ0Z2xhc3NlcyUyRiU3Q0hhY2tpbmclMjB0aGUlMjBNZXRhJTIwUmF5LUJhbiUyMHNtYXJ0Z2xhc3NlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDA2MjI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMDclMjBOb3YlMjAyMDI2JTIwMTclM0ExOSUzQTAyJTIwJTJCMDAwMA",
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "pubDate": "Sat, 07 Nov 2026 17:19:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-07-0.json"
     }
   ]

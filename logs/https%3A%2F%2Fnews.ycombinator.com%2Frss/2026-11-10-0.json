@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-10",
     "newestItemDate": "2026-11-10",
-    "itemCount": 22,
-    "generatedAt": "2026-11-10T16:28:54.938Z"
+    "itemCount": 37,
+    "generatedAt": "2026-11-11T06:43:36.915Z"
   },
   "items": [
     {
@@ -138,6 +138,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYXVyeWN5ei5jb20lMkZwcm9qZWN0cyUyRmZhZGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGbWF1cnljeXouY29tJTJGcHJvamVjdHMlMkZmYWRpbmclMkYlN0NZb3VyJTIwVFYlMjBjYW4lMjBzZWUlMjB0aHJvdWdoJTIwd2FsbHMlMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzNjQxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDA1JTNBMjQlM0E0NSUyMCUyQjAwMDA",
       "title": "Your TV can see through walls (2025)",
       "pubDate": "Tue, 10 Nov 2026 05:24:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudnVsbmNoZWNrLmNvbSUyRmJsb2clMkZhbnRocm9waWMtZ2xhc3N3aW5nLW5vdmVtYmVyLXVwZGF0ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnZ1bG5jaGVjay5jb20lMkZibG9nJTJGYW50aHJvcGljLWdsYXNzd2luZy1ub3ZlbWJlci11cGRhdGUlN0NUcmFja2luZyUyMEFudGhyb3BpYy1kaXNjb3ZlcmVkJTIwdnVsbmVyYWJpbGl0aWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDcwNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAyMiUzQTE3JTNBNTYlMjAlMkIwMDAw",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "pubDate": "Tue, 10 Nov 2026 22:17:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW5kcmlscy5jbyUyRmJsb2clMkYyMDI2LTExLTEwJTJGMzBtLXJhaXNlZCU3Q2h0dHBzJTNBJTJGJTJGdGVuZHJpbHMuY28lMkZibG9nJTJGMjAyNi0xMS0xMCUyRjMwbS1yYWlzZWQlN0MlMjQzME0lMjBSYWlzZWQlMjB0byUyMFJlZG8lMjB0aGUlMjBDUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0NzAzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDIyJTNBMTQlM0EwMyUyMCUyQjAwMDA",
+      "title": "$30M Raised to Redo the CPU",
+      "pubDate": "Tue, 10 Nov 2026 22:14:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY5dG81bWFjLmNvbSUyRjIwMjYlMkYxMSUyRjEwJTJGYXBwbGUtaGFzLW5ldy1tYWMtYXBwLWNvbWluZy10by1tYWtlLXJ1bm5pbmctbG9jYWwtYWktbW9kZWxzLWVhc3klMkYlN0NodHRwcyUzQSUyRiUyRjl0bzVtYWMuY29tJTJGMjAyNiUyRjExJTJGMTAlMkZhcHBsZS1oYXMtbmV3LW1hYy1hcHAtY29taW5nLXRvLW1ha2UtcnVubmluZy1sb2NhbC1haS1tb2RlbHMtZWFzeSUyRiU3Q0FwcGxlJTIwaGFzJTIwbmV3JTIwTWFjJTIwYXBwJTIwY29taW5nJTIwdG8lMjBtYWtlJTIwcnVubmluZyUyMGxvY2FsJTIwQUklMjBtb2RlbHMlMjBlYXN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDY1MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAyMSUzQTI1JTNBMDMlMjAlMkIwMDAw",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "pubDate": "Tue, 10 Nov 2026 21:25:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZW9ydGguZ2l0aHViLmlvJTJGdGFvLXdlYiUyRnNpeC1tYXRoLWVzc2VudGlhbHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGdGVvcnRoLmdpdGh1Yi5pbyUyRnRhby13ZWIlMkZzaXgtbWF0aC1lc3NlbnRpYWxzLmh0bWwlN0NTaXglMjBNYXRoJTIwRXNzZW50aWFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQ2MjQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMjAlM0E1OCUzQTQ0JTIwJTJCMDAwMA",
+      "title": "Six Math Essentials",
+      "pubDate": "Tue, 10 Nov 2026 20:58:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlYXV0b3BpYW4uY29tJTJGc2Npb24taXMtYmFjay1hbmQtaXRzLWdvaW5nLXRvLXNlbGwtYS1mcmVha2luZy1rZWktdHJ1Y2staW4tYW1lcmljYSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZWF1dG9waWFuLmNvbSUyRnNjaW9uLWlzLWJhY2stYW5kLWl0cy1nb2luZy10by1zZWxsLWEtZnJlYWtpbmcta2VpLXRydWNrLWluLWFtZXJpY2ElMkYlN0NTY2lvbiUyMGlzJTIwYmFjayUyMGFuZCUyMGlzJTIwZ29pbmclMjB0byUyMHNlbGwlMjBhJTIwa2VpJTIwdHJ1Y2slMjBpbiUyMEFtZXJpY2ElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0NTQwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE5JTNBNTAlM0E0NiUyMCUyQjAwMDA",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "pubDate": "Tue, 10 Nov 2026 19:50:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmaW5nZXJwcmludGluZy5zdHVkeSUyRiU3Q2h0dHBzJTNBJTJGJTJGZmluZ2VycHJpbnRpbmcuc3R1ZHklMkYlN0NBJTIwY29tcHJlaGVuc2l2ZSUyMHN0dWR5JTIwb2YlMjBob3clMjBmaW5nZXJwcmludGFibGUlMjB1c2VycyUyMGFyZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQ0Njg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTklM0EwMyUzQTU0JTIwJTJCMDAwMA",
+      "title": "A comprehensive study of how fingerprintable users are",
+      "pubDate": "Tue, 10 Nov 2026 19:03:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFybGluay5jb20lMkZtaW5pLTIlN0NodHRwcyUzQSUyRiUyRnN0YXJsaW5rLmNvbSUyRm1pbmktMiU3Q1N0YXJsaW5rJTIwTWluaSUyMDIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0NDEyOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE4JTNBMjIlM0EzMiUyMCUyQjAwMDA",
+      "title": "Starlink Mini 2",
+      "pubDate": "Tue, 10 Nov 2026 18:22:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsd24ubmV0JTJGU3Vic2NyaWJlckxpbmslMkYxMTAyNTQ5JTJGYWNiYzkyZTAwY2VlM2EzZiUyRiU3Q2h0dHBzJTNBJTJGJTJGbHduLm5ldCUyRlN1YnNjcmliZXJMaW5rJTJGMTEwMjU0OSUyRmFjYmM5MmUwMGNlZTNhM2YlMkYlN0NTeW5hcHRpY3MlMjBwYXRlbnQlMjBjbGFpbXMlMjBzdG9wJTIwd29yayUyMG9uJTIwRGlzcGxheUxpbmslMjBkcml2ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDM4MjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAxOCUzQTAyJTNBMDIlMjAlMkIwMDAw",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "pubDate": "Tue, 10 Nov 2026 18:02:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGR29vZ2xlQ2hyb21lJTJGbW9kZXJuLXdlYi1ndWlkYW5jZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkdvb2dsZUNocm9tZSUyRm1vZGVybi13ZWItZ3VpZGFuY2UlN0NTaG93JTIwSE4lM0ElMjBHZXQlMjB5b3VyJTIwY29kaW5nJTIwYWdlbnQlMjBvZmYlMjB+MjAxOSUyMEphdmFTY3JpcHQlMkMlMjBvbnRvJTIwbW9kZXJuJTIwd2ViJTIwcHJpbWl0aXZlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQzODEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTglM0EwMSUzQTE1JTIwJTJCMDAwMA",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "pubDate": "Tue, 10 Nov 2026 18:01:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuY29tJTJGcmVzb3VyY2VzJTJGYXJ0aWNsZXMlMkZzaGVldHMtd2hpdGVib2FyZHMtZGF0YSU3Q2h0dHBzJTNBJTJGJTJGY2xhdWRlLmNvbSUyRnJlc291cmNlcyUyRmFydGljbGVzJTJGc2hlZXRzLXdoaXRlYm9hcmRzLWRhdGElN0NDbGF1ZGUlMjBXaGl0ZWJvYXJkcyUyQyUyMENsYXVkZSUyMFNoZWV0cyUyQyUyMGFuZCUyMENsYXVkZSUyMERhdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0MzcxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE3JTNBNTUlM0EwNyUyMCUyQjAwMDA",
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "pubDate": "Tue, 10 Nov 2026 17:55:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnZhbC50b3duJTJGd2luZGluZy1kb3duJTdDaHR0cHMlM0ElMkYlMkZibG9nLnZhbC50b3duJTJGd2luZGluZy1kb3duJTdDVmFsJTIwVG93biUyMGlzJTIwd2luZGluZyUyMGRvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0MzQyNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE3JTNBMzElM0ExNCUyMCUyQjAwMDA",
+      "title": "Val Town is winding down",
+      "pubDate": "Tue, 10 Nov 2026 17:31:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGYW1kcy16ZW4tNi1mYW1pbHktZmVlZGluZy10aGUtYmVhc3QlN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZhbWRzLXplbi02LWZhbWlseS1mZWVkaW5nLXRoZS1iZWFzdCU3Q0FNRCdzJTIwWmVuJTIwNiUyMEZhbWlseSUzQSUyMEZlZWRpbmclMjB0aGUlMjBCZWFzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQzMDkwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTclM0EwMiUzQTMyJTIwJTJCMDAwMA",
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "pubDate": "Tue, 10 Nov 2026 17:02:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZWlsLmZyYXNlci5uYW1lJTJGbmV3cyUyRjIwMjYlMkYxMSUyRjEwJTJGJTdDaHR0cHMlM0ElMkYlMkZuZWlsLmZyYXNlci5uYW1lJTJGbmV3cyUyRjIwMjYlMkYxMSUyRjEwJTJGJTdDLm5hbWUlMjBHcmFuZGZhdGhlcmVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NDI3MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAxNiUzQTM3JTNBNDQlMjAlMkIwMDAw",
+      "title": ".name Grandfathered",
+      "pubDate": "Tue, 10 Nov 2026 16:37:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZibG9ncy5taWNyb3NvZnQuY29tJTJGZG90bmV0JTJGYW5ub3VuY2luZy1kb3RuZXQtMTElMkYlN0NodHRwcyUzQSUyRiUyRmRldmJsb2dzLm1pY3Jvc29mdC5jb20lMkZkb3RuZXQlMkZhbm5vdW5jaW5nLWRvdG5ldC0xMSUyRiU3Q0Fubm91bmNpbmclMjAuTkVUJTIwMTElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0MjIyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE2JTNBMDElM0EyNyUyMCUyQjAwMDA",
+      "title": "Announcing .NET 11",
+      "pubDate": "Tue, 10 Nov 2026 16:01:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldmFueG1lcnouY29tJTJGcG9zdCUyRmFpLXVzYWdlLWdlbmVyYXRlcy1hLWZyYWdpbGUtY29kZWJhc2UlMkYlN0NodHRwcyUzQSUyRiUyRmV2YW54bWVyei5jb20lMkZwb3N0JTJGYWktdXNhZ2UtZ2VuZXJhdGVzLWEtZnJhZ2lsZS1jb2RlYmFzZSUyRiU3Q0FJJTIwdXNhZ2UlMjBnZW5lcmF0ZXMlMjBhJTIwZnJhZ2lsZSUyMGNvZGViYXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzgzMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAxMCUzQTI1JTNBNTglMjAlMkIwMDAw",
+      "title": "AI usage generates a fragile codebase",
+      "pubDate": "Tue, 10 Nov 2026 10:25:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
     }
   ]

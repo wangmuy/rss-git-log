@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-09",
     "newestItemDate": "2026-11-09",
-    "itemCount": 47,
-    "generatedAt": "2026-11-10T16:28:54.938Z"
+    "itemCount": 51,
+    "generatedAt": "2026-11-11T06:43:36.915Z"
   },
   "items": [
     {
@@ -288,6 +288,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlcmljc3dwYXJrLmNvbSUyRmJsb2clMkYyMDI2JTJGMjAyNi0xMS0wOS1pcC1jYW1lcmEtcHQyJTJGJTdDaHR0cHMlM0ElMkYlMkZlcmljc3dwYXJrLmNvbSUyRmJsb2clMkYyMDI2JTJGMjAyNi0xMS0wOS1pcC1jYW1lcmEtcHQyJTJGJTdDVGFraW5nJTIwYW5vdGhlciUyMHNob3QlMjBhdCUyMHRoZSUyMGNoZWFwJTIwSVAlMjBjYW1lcmElMkMlMjBwYXJ0JTIwMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDI2Mjk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMDklMjBOb3YlMjAyMDI2JTIwMTQlM0E0MCUzQTQyJTIwJTJCMDAwMA",
       "title": "Taking another shot at the cheap IP camera, part 2",
       "pubDate": "Mon, 09 Nov 2026 14:40:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGUHJvY2V4cC1NYWMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaWNyb3NvZnQlMkZQcm9jZXhwLU1hYyU3Q1Byb2Nlc3MlMjBFeHBsb3JlciUyMGZvciUyMG1hY09TJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzMyMTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAyMiUzQTMwJTNBNDElMjAlMkIwMDAw",
+      "title": "Process Explorer for macOS",
+      "pubDate": "Mon, 09 Nov 2026 22:30:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYXBwaWhhY2tpbmcuY29tJTJGYmxvZyUyRnBvc3RzJTJGMjAyNSUyRndoeV9JX3dyb3RlX3RoZUJFQU1Cb29rJTJGJTdDaHR0cHMlM0ElMkYlMkZoYXBwaWhhY2tpbmcuY29tJTJGYmxvZyUyRnBvc3RzJTJGMjAyNSUyRndoeV9JX3dyb3RlX3RoZUJFQU1Cb29rJTJGJTdDV2h5JTIwSSUyMHdyb3RlJTIwdGhlJTIwQkVBTSUyMGJvb2slMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQyNzEwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDE1JTNBNDElM0EzNSUyMCUyQjAwMDA",
+      "title": "Why I wrote the BEAM book (2025)",
+      "pubDate": "Mon, 09 Nov 2026 15:41:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc2FjLnVjaGljYWdvLmVkdSUyRnB1YmxpY2F0aW9ucyUyRnNlYXJjaCU3Q2h0dHBzJTNBJTJGJTJGaXNhYy51Y2hpY2Fnby5lZHUlMkZwdWJsaWNhdGlvbnMlMkZzZWFyY2glN0NUaGUlMjBBc3N5cmlhbiUyMERpY3Rpb25hcnklMjBvZiUyMHRoZSUyME9yaWVudGFsJTIwSW5zdGl0dXRlJTIwb2YlMjB0aGUlMjBVbml2ZXJzaXR5JTIwb2YlMjBDaGljYWdvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MjY3NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAwOSUyME5vdiUyMDIwMjYlMjAxNSUzQTEzJTNBMDclMjAlMkIwMDAw",
+      "title": "The Assyrian Dictionary of the Oriental Institute of the University of Chicago",
+      "pubDate": "Mon, 09 Nov 2026 15:13:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVpbGNoZW4uY28lMkZibG9nJTJGdGhpbmdzMjAyNiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5laWxjaGVuLmNvJTJGYmxvZyUyRnRoaW5nczIwMjYlN0NVbnJlbWFya2FibGUlMjB0aGluZ3MlMjB3ZSUyMG1hZGUlMjBpbiUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQyMDU3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDA5JTIwTm92JTIwMjAyNiUyMDAzJTNBMTIlM0E1MiUyMCUyQjAwMDA",
+      "title": "Unremarkable things we made in 2026",
+      "pubDate": "Mon, 09 Nov 2026 03:12:52 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-09-0.json"
     }
   ]
