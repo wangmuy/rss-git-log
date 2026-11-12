@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-10",
     "newestItemDate": "2026-11-10",
-    "itemCount": 39,
-    "generatedAt": "2026-11-11T22:47:47.176Z"
+    "itemCount": 42,
+    "generatedAt": "2026-11-12T07:24:12.167Z"
   },
   "items": [
     {
@@ -240,6 +240,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVnaWFudC5jYSUyRnN0b3JpZXMlMkZwbGFjZXMlMkZtb25hcmNoLWJ1dHRlcmZsaWVzLXRyYWNraW5nLWNvbnNlcnZhdGlvbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJlZ2lhbnQuY2ElMkZzdG9yaWVzJTJGcGxhY2VzJTJGbW9uYXJjaC1idXR0ZXJmbGllcy10cmFja2luZy1jb25zZXJ2YXRpb24lN0NUaGUlMjB0aW55JTIwdHJhbnNtaXR0ZXIlMjB0cmFja2luZyUyMG1vbmFyY2glMjBidXR0ZXJmbGllcyclMjBtaWdyYXRpb24lMkMlMjBDYW5hZGElMjB0byUyME1leGljbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDM4NDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTAlM0E0MSUzQTI2JTIwJTJCMDAwMA",
       "title": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
       "pubDate": "Tue, 10 Nov 2026 10:41:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFuZXN0cmVldCUyRmFnZW50X3NraWxscyUyRmJsb2IlMkZtYXN0ZXIlMkZzb2NyYXRpYy10dXRvciUyRlNLSUxMLm1kJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFuZXN0cmVldCUyRmFnZW50X3NraWxscyUyRmJsb2IlMkZtYXN0ZXIlMkZzb2NyYXRpYy10dXRvciUyRlNLSUxMLm1kJTdDSmFuZSUyMFN0cmVldCUzQSUyMFNvY3JhdGljJTIwVHV0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzODI2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDEwJTNBMTglM0EyMiUyMCUyQjAwMDA",
+      "title": "Jane Street: Socratic Tutor",
+      "pubDate": "Tue, 10 Nov 2026 10:18:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3RpbmdyYXkubm8lMkZlbiUyRnRlY2hub2xvZ3klMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zdGluZ3JheS5ubyUyRmVuJTJGdGVjaG5vbG9neSUyRiU3Q1N0aW5ncmF5JTIwRmlzaCUyMExhc2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzU3MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAwMyUzQTI5JTNBNTUlMjAlMkIwMDAw",
+      "title": "Stingray Fish Laser",
+      "pubDate": "Tue, 10 Nov 2026 03:29:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXRyb2ZyZWFrcmV2aWV3cy5jb20lMkYyMDE3JTJGMDElMkYzMCUyRnNpZXJyYS1yZXRyb3NwZWN0aXZlJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXRyb2ZyZWFrcmV2aWV3cy5jb20lMkYyMDE3JTJGMDElMkYzMCUyRnNpZXJyYS1yZXRyb3NwZWN0aXZlJTJGJTdDQSUyMEJyaWVmJTIwSGlzdG9yeSUyMG9mJTIwU2llcnJhJTIwT25saW5lJTIwKDIwMTcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzUyNDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAwMiUzQTEyJTNBNDglMjAlMkIwMDAw",
+      "title": "A Brief History of Sierra Online (2017)",
+      "pubDate": "Tue, 10 Nov 2026 02:12:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
     }
   ]
