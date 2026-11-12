@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-10",
     "newestItemDate": "2026-11-10",
-    "itemCount": 42,
-    "generatedAt": "2026-11-12T07:24:12.167Z"
+    "itemCount": 45,
+    "generatedAt": "2026-11-12T16:53:19.520Z"
   },
   "items": [
     {
@@ -258,6 +258,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZXRyb2ZyZWFrcmV2aWV3cy5jb20lMkYyMDE3JTJGMDElMkYzMCUyRnNpZXJyYS1yZXRyb3NwZWN0aXZlJTJGJTdDaHR0cHMlM0ElMkYlMkZyZXRyb2ZyZWFrcmV2aWV3cy5jb20lMkYyMDE3JTJGMDElMkYzMCUyRnNpZXJyYS1yZXRyb3NwZWN0aXZlJTJGJTdDQSUyMEJyaWVmJTIwSGlzdG9yeSUyMG9mJTIwU2llcnJhJTIwT25saW5lJTIwKDIwMTcpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0MzUyNDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxMCUyME5vdiUyMDIwMjYlMjAwMiUzQTEyJTNBNDglMjAlMkIwMDAw",
       "title": "A Brief History of Sierra Online (2017)",
       "pubDate": "Tue, 10 Nov 2026 02:12:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNvYnNjdXJhLnN1YnN0YWNrLmNvbSUyRnAlMkZyZXNlYXJjaC10YXN0ZS1pbi1oaXN0b3J5LXRoZS1pbXBvcnRhbmNlJTdDaHR0cHMlM0ElMkYlMkZyZXNvYnNjdXJhLnN1YnN0YWNrLmNvbSUyRnAlMkZyZXNlYXJjaC10YXN0ZS1pbi1oaXN0b3J5LXRoZS1pbXBvcnRhbmNlJTdDUmVzZWFyY2glMjB0YXN0ZSUyMGluJTIwaGlzdG9yeSUzQSUyMHRoZSUyMGltcG9ydGFuY2UlMjBvZiUyMGxlYXJuaW5nJTIwQmFieWxvbmlhbiUyMG1hdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0NTI3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE5JTNBNDIlM0E0NCUyMCUyQjAwMDA",
+      "title": "Research taste in history: the importance of learning Babylonian math",
+      "pubDate": "Tue, 10 Nov 2026 19:42:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFuZXN0cmVldCUyRmFnZW50X3NraWxscyUyRmJsb2IlMkZtYXN0ZXIlMkZzb2NyYXRpYy10dXRvciUyRlNLSUxMLm1kJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamFuZXN0cmVldCUyRmFnZW50X3NraWxscyUyRmJsb2IlMkZtYXN0ZXIlMkZzb2NyYXRpYy10dXRvciUyRlNLSUxMLm1kJTdDU29jcmF0aWMlMjBUdXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDM4MjYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTAlM0ExOCUzQTIyJTIwJTJCMDAwMA",
+      "title": "Socratic Tutor",
+      "pubDate": "Tue, 10 Nov 2026 10:18:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eWxlcmVsdG9uLmNvbSUyRnBvc3RzJTJGZGVjb2RpbmctcmV4cGFpbnQtZmlsZXMtaW4tb2RpbiUyRiU3Q2h0dHBzJTNBJTJGJTJGdHlsZXJlbHRvbi5jb20lMkZwb3N0cyUyRmRlY29kaW5nLXJleHBhaW50LWZpbGVzLWluLW9kaW4lMkYlN0NEZWNvZGluZyUyMFJFWFBhaW50JTIwRmlsZXMlMjBpbiUyME9kaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzNjM2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDA1JTNBMTglM0E0MiUyMCUyQjAwMDA",
+      "title": "Decoding REXPaint Files in Odin",
+      "pubDate": "Tue, 10 Nov 2026 05:18:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
     }
   ]

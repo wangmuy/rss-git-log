@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-12",
     "newestItemDate": "2026-11-12",
-    "itemCount": 5,
-    "generatedAt": "2026-11-12T07:24:12.167Z"
+    "itemCount": 22,
+    "generatedAt": "2026-11-12T16:53:19.520Z"
   },
   "items": [
     {
@@ -36,6 +36,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2l6LmlvJTJGYmxvZyUyRmN2ZS0yMDI2LTExOTYxOC1yY2UtYXBhY2hlLWh0dHAtc2VydmVyLXZ1bG5lcmFiaWxpdHklN0NodHRwcyUzQSUyRiUyRnd3dy53aXouaW8lMkZibG9nJTJGY3ZlLTIwMjYtMTE5NjE4LXJjZS1hcGFjaGUtaHR0cC1zZXJ2ZXItdnVsbmVyYWJpbGl0eSU3Q0NyaXRpY2FsJTIwUkNFJTIwVnVsbmVyYWJpbGl0eSUyMGluJTIwQXBhY2hlJTIwSFRUUCUyMFNlcnZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDYyMTc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMDIlM0ExMSUzQTExJTIwJTJCMDAwMA",
       "title": "Critical RCE Vulnerability in Apache HTTP Server",
       "pubDate": "Thu, 12 Nov 2026 02:11:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWduLmNvbSUyRmFydGljbGVzJTJGbmludGVuZG8tdGFrZXMtZG93bi1zd2l0Y2gtZW11bGF0b3JzLWFuZC1tb2QtY2hpcC1maXJtd2FyZS1pbi1tYXNzaXZlLWdpdGh1Yi1kbWNhLXN3ZWVwJTdDaHR0cHMlM0ElMkYlMkZ3d3cuaWduLmNvbSUyRmFydGljbGVzJTJGbmludGVuZG8tdGFrZXMtZG93bi1zd2l0Y2gtZW11bGF0b3JzLWFuZC1tb2QtY2hpcC1maXJtd2FyZS1pbi1tYXNzaXZlLWdpdGh1Yi1kbWNhLXN3ZWVwJTdDTmludGVuZG8lMjBUYWtlcyUyMERvd24lMjBFbXVsYXRvcnMlMjBhbmQlMjBGaXJtd2FyZSUyMGluJTIwTWFzc2l2ZSUyMEdpdEh1YiUyMERNQ0ElMjBTd2VlcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY5OTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTYlM0EyOSUzQTEzJTIwJTJCMDAwMA",
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "pubDate": "Thu, 12 Nov 2026 16:29:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZXR2YWxlLm9yZyU3Q2h0dHBzJTNBJTJGJTJGZ2V0dmFsZS5vcmclMkYlN0NTaG93JTIwSE4lM0ElMjBBJTIwc2VsZi1ob3N0ZWQlMjBQSFAlMjBwbGF0Zm9ybSUyMGNvbWJpbmluZyUyMENNUyUyQyUyMGUtY29tbWVyY2UlMjBhbmQlMjBtb3JlJTJDJTIwYnVpbHQtaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2OTEyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE1JTNBMzUlM0E1NCUyMCUyQjAwMDA",
+      "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+      "pubDate": "Thu, 12 Nov 2026 15:35:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmYWJsZTUyLmdhbWVzJTdDaHR0cHMlM0ElMkYlMkZmYWJsZTUyLmdhbWVzJTJGJTdDU2hvdyUyMEhOJTNBJTIwRmFibGU1Mi5nYW1lcyUyMCVFMiU4MCU5MyUyMFBsYXklMjBhbmQlMjBpbnNwZWN0JTIwRmFibGUlMjA1LjIlMjBzaW5nbGUtZmlsZSUyMEhUTUwlMjBnYW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY5MDA3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTUlM0EzMCUzQTAxJTIwJTJCMDAwMA",
+      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+      "pubDate": "Thu, 12 Nov 2026 15:30:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY2hvY29mb3JkJTJGRXhjYWxpZHJhd1olN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZjaG9jb2ZvcmQlMkZFeGNhbGlkcmF3WiU3Q0V4Y2FsaWRyYXdaJTNBJTIwTG9jYWwlMjBOYXRpdmUlMjBFeGNhbGlkcmF3JTIwb24lMjBtYWNPUyUyRmlPUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY4OTQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTUlM0EyNSUzQTUyJTIwJTJCMDAwMA",
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "pubDate": "Thu, 12 Nov 2026 15:25:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHlwZXJpb25haWRldiUyRnNtb2xtYXh4aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaHlwZXJpb25haWRldiUyRnNtb2xtYXh4aW5nJTJGJTdDSSdtJTIwbWFraW5nJTIwTExNcyUyMHdvcmslMjBvbiUyMHNtYWxsJTIwYW5kJTIwb2xkJTIwZGV2aWNlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY4ODg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTUlM0EyMyUzQTEwJTIwJTJCMDAwMA",
+      "title": "I'm making LLMs work on small and old devices",
+      "pubDate": "Thu, 12 Nov 2026 15:23:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkb3VnLnNoJTJGcG9zdHMlMkZncHUtYmFycy1iZWhpbmQtYS1wY2llLXN3aXRjaCUyRiU3Q2h0dHBzJTNBJTJGJTJGZG91Zy5zaCUyRnBvc3RzJTJGZ3B1LWJhcnMtYmVoaW5kLWEtcGNpZS1zd2l0Y2glMkYlN0NGaXR0aW5nJTIwRm91ciUyMDMyJTIwR0IlMjBSZXNpemFibGUlMjBCYXJzJTIwQmVoaW5kJTIwYSUyMFBDSWUlMjBTd2l0Y2glMjBvbiUyMExpbnV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0Njg3MjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxNSUzQTE0JTNBNTIlMjAlMkIwMDAw",
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "pubDate": "Thu, 12 Nov 2026 15:14:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3drZXkucGFydHklMkZydW5uaW5nLXdlYi1zaXRlcy1tYWtlcy1tZS1ub3Qtd2FudC10byU3Q2h0dHBzJTNBJTJGJTJGbG93a2V5LnBhcnR5JTJGcnVubmluZy13ZWItc2l0ZXMtbWFrZXMtbWUtbm90LXdhbnQtdG8lN0NSdW5uaW5nJTIwd2ViJTIwc2l0ZXMlMjBtYWtlcyUyMG1lJTIwbm90JTIwd2FudCUyMHRvJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0Njc4NjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxNCUzQTMwJTNBMzglMjAlMkIwMDAw",
+      "title": "Running web sites makes me not want to",
+      "pubDate": "Thu, 12 Nov 2026 14:30:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucG9zdGdyZXNxbC5vcmclMkZhYm91dCUyRm5ld3MlMkZwb3N0Z3Jlc3FsLTE4Ny0xNzEyLTE2MTYtMTUyMC0xNDI1LWFuZC0xOS1yYy0yLXJlbGVhc2VkLTM0NDIlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5wb3N0Z3Jlc3FsLm9yZyUyRmFib3V0JTJGbmV3cyUyRnBvc3RncmVzcWwtMTg3LTE3MTItMTYxNi0xNTIwLTE0MjUtYW5kLTE5LXJjLTItcmVsZWFzZWQtMzQ0MiUyRiU3Q1Bvc3RncmVTUUwlMjAxOC43JTJDJTIwMTcuMTIlMkMlMjAxNi4xNiUyQyUyMDE1LjIwJTJDJTIwMTQuMjUlMkMlMjBhbmQlMjAxOSUyMFJDJTIwMiUyMFJlbGVhc2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0Njc3NjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxNCUzQTI1JTNBMjMlMjAlMkIwMDAw",
+      "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+      "pubDate": "Thu, 12 Nov 2026 14:25:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9kZGIuY29tJTJGbW9kcyUyRm9wZW5xNCUyRmRvd25sb2FkcyUyRm9wZW5xNC0wMTQxLXdpbmRvd3MteDY0JTdDaHR0cHMlM0ElMkYlMkZ3d3cubW9kZGIuY29tJTJGbW9kcyUyRm9wZW5xNCUyRmRvd25sb2FkcyUyRm9wZW5xNC0wMTQxLXdpbmRvd3MteDY0JTdDQWJhbmRvbmVkJTIwUXVha2UlMjA0JTIwZXhwYW5zaW9uJTIwZmluaXNoZWQlMjBieSUyMG1vZGRlcnMlMjBhbmQlMjBub3clMjBwbGF5YWJsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY3NjE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTQlM0ExOCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "pubDate": "Thu, 12 Nov 2026 14:18:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGdGFsa2luZy16ZW4tNi13aXRoLW1pa2UtY2xhcmstYXQlN0NodHRwcyUzQSUyRiUyRmNoaXBzYW5kY2hlZXNlLmNvbSUyRnAlMkZ0YWxraW5nLXplbi02LXdpdGgtbWlrZS1jbGFyay1hdCU3Q1RhbGtpbmclMjBaZW4lMjA2JTIwd2l0aCUyME1pa2UlMjBDbGFyayUyMGF0JTIwQU1EJTIwSW4tRGVwdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2NzQ2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE0JTNBMTIlM0EzNyUyMCUyQjAwMDA",
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "pubDate": "Thu, 12 Nov 2026 14:12:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaWJyZWFnaS5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmxpYnJlYWdpLmNvbSUyRiU3Q0xpYnJlYWdpJTIwJUUyJTgwJTkzJTIwU2F2ZSUyME9TUyUyME1vZGVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY3NDM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTQlM0ExMSUzQTU4JTIwJTJCMDAwMA",
+      "title": "Libreagi – Save OSS Models",
+      "pubDate": "Thu, 12 Nov 2026 14:11:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmVsZWN0cmljLXNoaXAtYmF0dGVyaWVzJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRmVsZWN0cmljLXNoaXAtYmF0dGVyaWVzJTdDRWxlY3RyaWMlMjBTaGlwJTIwQmF0dGVyaWVzJTIwUHJvbWlzZSUyMENvbXBhY3QlMkMlMjBDb29sZXIlMjBQb3dlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY3MzA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTQlM0EwNiUzQTAzJTIwJTJCMDAwMA",
+      "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+      "pubDate": "Thu, 12 Nov 2026 14:06:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmphbmVzdHJlZXQuY29tJTJGc29mdHdhcmUtZW5naW5lZXJpbmctaW50ZXJ2aWV3cy1hcmUtY2hhbmdpbmctYS1saXR0bGUlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuamFuZXN0cmVldC5jb20lMkZzb2Z0d2FyZS1lbmdpbmVlcmluZy1pbnRlcnZpZXdzLWFyZS1jaGFuZ2luZy1hLWxpdHRsZSUyRiU3Q091ciUyMHNvZnR3YXJlJTIwZW5naW5lZXJpbmclMjBpbnRlcnZpZXdzJTIwYXJlJTIwY2hhbmdpbmclMjAoYSUyMGxpdHRsZSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2NzI5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE0JTNBMDUlM0EyOCUyMCUyQjAwMDA",
+      "title": "Our software engineering interviews are changing (a little)",
+      "pubDate": "Thu, 12 Nov 2026 14:05:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZudmlkaWFuZXdzLm52aWRpYS5jb20lMkZuZXdzJTJGbnZpZGlhLWFubm91bmNlcy1jZW8tdHJhbnNpdGlvbiU3Q2h0dHBzJTNBJTJGJTJGbnZpZGlhbmV3cy5udmlkaWEuY29tJTJGbmV3cyUyRm52aWRpYS1hbm5vdW5jZXMtY2VvLXRyYW5zaXRpb24lN0NOVklESUElMjBBbm5vdW5jZXMlMjBDRU8lMjBUcmFuc2l0aW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NjcwODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxMyUzQTUyJTNBMjklMjAlMkIwMDAw",
+      "title": "NVIDIA Announces CEO Transition",
+      "pubDate": "Thu, 12 Nov 2026 13:52:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpcG8uYW50aHJvcGljLmNvbSUyRnVzJTJGJTdDaHR0cHMlM0ElMkYlMkZpcG8uYW50aHJvcGljLmNvbSUyRnVzJTJGJTdDQW50aHJvcGljJTIwSVBPJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NjU4MjklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxMSUzQTQ2JTNBNDElMjAlMkIwMDAw",
+      "title": "Anthropic IPO",
+      "pubDate": "Thu, 12 Nov 2026 11:46:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3VydGluLmVkdS5hdSUyRm5ld3MlMkZtZWRpYS1yZWxlYXNlJTJGcmVzZWFyY2hlcnMtZGlzY292ZXItcmFyZS1zdGFyLXN5c3RlbS10aGF0LWVtaXRzLXJhZGlvLXNpZ25hbHMtZXZlcnktZWlnaHQtbWludXRlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmN1cnRpbi5lZHUuYXUlMkZuZXdzJTJGbWVkaWEtcmVsZWFzZSUyRnJlc2VhcmNoZXJzLWRpc2NvdmVyLXJhcmUtc3Rhci1zeXN0ZW0tdGhhdC1lbWl0cy1yYWRpby1zaWduYWxzLWV2ZXJ5LWVpZ2h0LW1pbnV0ZXMlMkYlN0NSZXNlYXJjaGVycyUyMGRpc2NvdmVyJTIwcmFyZSUyMHN0YXIlMjBzeXN0ZW0lMjB0aGF0JTIwZW1pdHMlMjByYWRpbyUyMHNpZ25hbHMlMjBldmVyeSUyMDglMjBtaW51dGVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NjU0NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxMCUzQTQ2JTNBMjAlMjAlMkIwMDAw",
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "pubDate": "Thu, 12 Nov 2026 10:46:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9uLmdpdGh1Yi5pbyUyRnBvc3RzJTJGY29ycmVjdG5lc3MtYW5kLWNvbXBsZXhpdHklN0NodHRwcyUzQSUyRiUyRnByb24uZ2l0aHViLmlvJTJGcG9zdHMlMkZjb3JyZWN0bmVzcy1hbmQtY29tcGxleGl0eSU3Q1doeSUyMFdyaXRpbmclMjBDb3JyZWN0JTIwU29mdHdhcmUlMjBJcyUyMEhhcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2NTM1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDEwJTNBMjglM0EyNiUyMCUyQjAwMDA",
+      "title": "Why Writing Correct Software Is Hard",
+      "pubDate": "Thu, 12 Nov 2026 10:28:26 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
     }
   ]
