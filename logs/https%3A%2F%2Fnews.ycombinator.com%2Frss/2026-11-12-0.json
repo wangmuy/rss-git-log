@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-12",
     "newestItemDate": "2026-11-12",
-    "itemCount": 39,
-    "generatedAt": "2026-11-13T06:56:43.013Z"
+    "itemCount": 40,
+    "generatedAt": "2026-11-13T16:32:54.366Z"
   },
   "items": [
     {
@@ -240,6 +240,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0cmF0dC5uZXQlMkZsYXVyaWUlMkZibG9nJTJGMjAyNiUyRmFkYXB0aW5nX2NweXRob25fZm9yX3lrLmh0bWwlN0NodHRwcyUzQSUyRiUyRnRyYXR0Lm5ldCUyRmxhdXJpZSUyRmJsb2clMkYyMDI2JTJGYWRhcHRpbmdfY3B5dGhvbl9mb3JfeWsuaHRtbCU3Q0FkYXB0aW5nJTIwQ1B5dGhvbiUyMGZvciUyMFlrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NjY0MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxMiUzQTUxJTNBMzglMjAlMkIwMDAw",
       "title": "Adapting CPython for Yk",
       "pubDate": "Thu, 12 Nov 2026 12:51:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGpnLmNvbSUyRnBvc3RzJTJGMjAyNi0xMS0xMS1yZXZlcnNlLWVuZ2luZWVyaW5nLW15LWNvd2F5LWFpci1wdXJpZmllci10by1kaXRjaC10aGUtY2xvdWQlMkYlN0NodHRwcyUzQSUyRiUyRnNjb3R0amcuY29tJTJGcG9zdHMlMkYyMDI2LTExLTExLXJldmVyc2UtZW5naW5lZXJpbmctbXktY293YXktYWlyLXB1cmlmaWVyLXRvLWRpdGNoLXRoZS1jbG91ZCUyRiU3Q1JldmVyc2UlMjBFbmdpbmVlcmluZyUyME15JTIwQ293YXklMjBBaXIlMjBQdXJpZmllciUyMHRvJTIwRGl0Y2glMjB0aGUlMjBDbG91ZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc0OTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMjIlM0EwMyUzQTA5JTIwJTJCMDAwMA",
+      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+      "pubDate": "Thu, 12 Nov 2026 22:03:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
     }
   ]
