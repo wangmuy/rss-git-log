@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-11",
     "newestItemDate": "2026-11-11",
-    "itemCount": 52,
-    "generatedAt": "2026-11-12T16:53:19.520Z"
+    "itemCount": 54,
+    "generatedAt": "2026-11-13T06:56:43.013Z"
   },
   "items": [
     {
@@ -318,6 +318,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZwdWxsaW5nLXRoZS1sZXZlci1pbi1hLXN1YndheS1wcm9ibGVtJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZwdWxsaW5nLXRoZS1sZXZlci1pbi1hLXN1YndheS1wcm9ibGVtJTdDUHVsbGluZyUyMHRoZSUyMExldmVyJTIwaW4lMjBhJTIwU3Vid2F5JTIwUHJvYmxlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDU3MzQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTklM0EyMiUzQTA5JTIwJTJCMDAwMA",
       "title": "Pulling the Lever in a Subway Problem",
       "pubDate": "Wed, 11 Nov 2026 19:22:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGampiYTIzJTJGc2lmdCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmpqYmEyMyUyRnNpZnQlN0NTaWZ0JTNBJTIwTFNQJTJDJTIwTGludCUyQyUyMEZvcm1hdCUyMExpc3AlMkMlMjBTY2hlbWUlMjBhbmQlMjBFbWFjcyUyMExpc3AlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2MDI2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDIzJTNBMDklM0EyNyUyMCUyQjAwMDA",
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "pubDate": "Wed, 11 Nov 2026 23:09:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWtlcGFkLmdpdGh1Yi5pbyUyRnJlbGF4JTJGJTdDaHR0cHMlM0ElMkYlMkZtYWtlcGFkLmdpdGh1Yi5pbyUyRnJlbGF4JTJGJTdDUmVsYXglM0ElMjBKSVQlMjBjb21waWxlciUyMGZvciUyMFJ1c3QlMjB0byUyMHJlZHVjZSUyMGJ1aWxkJTIwdGltZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1ODg0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDIxJTNBMjAlM0EwMSUyMCUyQjAwMDA",
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "pubDate": "Wed, 11 Nov 2026 21:20:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
     }
   ]

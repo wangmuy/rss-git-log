@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-12",
     "newestItemDate": "2026-11-12",
-    "itemCount": 22,
-    "generatedAt": "2026-11-12T16:53:19.520Z"
+    "itemCount": 39,
+    "generatedAt": "2026-11-13T06:56:43.013Z"
   },
   "items": [
     {
@@ -138,6 +138,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwcm9uLmdpdGh1Yi5pbyUyRnBvc3RzJTJGY29ycmVjdG5lc3MtYW5kLWNvbXBsZXhpdHklN0NodHRwcyUzQSUyRiUyRnByb24uZ2l0aHViLmlvJTJGcG9zdHMlMkZjb3JyZWN0bmVzcy1hbmQtY29tcGxleGl0eSU3Q1doeSUyMFdyaXRpbmclMjBDb3JyZWN0JTIwU29mdHdhcmUlMjBJcyUyMEhhcmQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2NTM1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDEwJTNBMjglM0EyNiUyMCUyQjAwMDA",
       "title": "Why Writing Correct Software Is Hard",
       "pubDate": "Thu, 12 Nov 2026 10:28:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZGdlMC5haSUyRmJsb2clMkZpbnRyb2R1Y2luZy1lZGdlMC0xNDViLWZyb250aWVyLWFpLWNhcGFiaWxpdGllcy1vbi15b3VyLW93bi1jb21wdXRlciU3Q2h0dHBzJTNBJTJGJTJGZWRnZTAuYWklMkZibG9nJTJGaW50cm9kdWNpbmctZWRnZTAtMTQ1Yi1mcm9udGllci1haS1jYXBhYmlsaXRpZXMtb24teW91ci1vd24tY29tcHV0ZXIlN0NFZGdlMC0xNDVCJTNBJTIwRnJvbnRpZXIlMjBBSSUyMENhcGFiaWxpdGllcyUyMG9uJTIwWW91ciUyME93biUyMENvbXB1dGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NzU3MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAyMyUzQTA2JTNBMTclMjAlMkIwMDAw",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "pubDate": "Thu, 12 Nov 2026 23:06:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ1bmVtcGxveW1lbnRsYWJzLmNvbSUyRmNoZWNrcG9pbnQtZm9yZW5zaWNzJTdDaHR0cHMlM0ElMkYlMkZ1bmVtcGxveW1lbnRsYWJzLmNvbSUyRmNoZWNrcG9pbnQtZm9yZW5zaWNzJTdDQ2hpbmVzZSUyMGZyb250aWVyJTIwQUklMjBtb2RlbHMlMjBjYXJyeSUyMHRoZSUyMGZpbmdlcnByaW50JTIwb2YlMjBleHBvcnQtY29udHJvbGxlZCUyMEdQVXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ3NDg4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDIxJTNBNTYlM0ExMSUyMCUyQjAwMDA",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "pubDate": "Thu, 12 Nov 2026 21:56:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGS29samFCJTJGUmVhbHRpbWVWQUQlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZLb2xqYUIlMkZSZWFsdGltZVZBRCU3Q1Nob3clMjBITiUzQSUyMFJlYWx0aW1lVkFEJTIwJUUyJTgwJTkzJTIwdHJhZGluZyUyMGZhbHNlJTIwcG9zaXRpdmVzJTIwZm9yJTIwMTEwbXMlMjBlYXJsaWVyJTIwZW5kLW9mLXNwZWVjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc0NTg2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMjElM0EzMCUzQTU3JTIwJTJCMDAwMA",
+      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+      "pubDate": "Thu, 12 Nov 2026 21:30:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuYXBwbGUuY29tJTJGZm91bmRhdGlvbi1tb2RlbHMtZnJhbWV3b3JrJTJGJTdDaHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuYXBwbGUuY29tJTJGZm91bmRhdGlvbi1tb2RlbHMtZnJhbWV3b3JrJTJGJTdDRm91bmRhdGlvbiUyME1vZGVscyUyMGZyYW1ld29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc0MzYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMjElM0ExMyUzQTI2JTIwJTJCMDAwMA",
+      "title": "Foundation Models framework",
+      "pubDate": "Thu, 12 Nov 2026 21:13:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzeW50aGFuYXRvbXkuY29tJTJGMjAyNiUyRjExJTJGYWktaXMtdHVybmluZy1hcHBsZXMtYXBwLXJldmlldy1wcm9jZXNzLWludG8tYS1uaWdodG1hcmUtZm9yLWRldmVsb3BlcnMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGc3ludGhhbmF0b215LmNvbSUyRjIwMjYlMkYxMSUyRmFpLWlzLXR1cm5pbmctYXBwbGVzLWFwcC1yZXZpZXctcHJvY2Vzcy1pbnRvLWEtbmlnaHRtYXJlLWZvci1kZXZlbG9wZXJzLmh0bWwlN0NBSSUyMGlzJTIwdHVybmluZyUyMEFwcGxlJ3MlMjBhcHAlMjByZXZpZXclMjBwcm9jZXNzJTIwaW50byUyMGElMjBuaWdodG1hcmUlMjBmb3IlMjBzeW50aCUyMGRldmVsb3BlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ3NDMxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDIxJTNBMDklM0E0OSUyMCUyQjAwMDA",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "pubDate": "Thu, 12 Nov 2026 21:09:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmNoYXJsaWVob2x0eiUyRnN0YXR1cyUyRjIxMjA5NzMwNTIwMjQ1OTg2MjAlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGY2hhcmxpZWhvbHR6JTJGc3RhdHVzJTJGMjEyMDk3MzA1MjAyNDU5ODYyMCU3Q0Fubm91bmNlbWVudCUzQSUyMENvbmR1Y3RvciUyMElzJTIwQmFjayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDczODg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMjAlM0EzNyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Announcement: Conductor Is Back",
+      "pubDate": "Thu, 12 Nov 2026 20:37:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ0ZWNobm9sb2d5JTJGZm9ybWVyLW52aWRpYS1jZW8taHVhbmctaGFkLXJlbGF0aW9uc2hpcC13aXRoLXNlY29uZC1lbXBsb3llZS1zb3VyY2VzLXNheS0yMDI2LTExLTEyJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ0ZWNobm9sb2d5JTJGZm9ybWVyLW52aWRpYS1jZW8taHVhbmctaGFkLXJlbGF0aW9uc2hpcC13aXRoLXNlY29uZC1lbXBsb3llZS1zb3VyY2VzLXNheS0yMDI2LTExLTEyJTJGJTdDRm9ybWVyJTIwTnZpZGlhJTIwQ0VPJTIwSHVhbmclMjBoYWQlMjBhJTIwcmVsYXRpb25zaGlwJTIwd2l0aCUyMGElMjBzZWNvbmQlMjBlbXBsb3llZSUyQyUyMHNvdXJjZXMlMjBzYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ3MzE5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE5JTNBNTElM0EzMyUyMCUyQjAwMDA",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "pubDate": "Thu, 12 Nov 2026 19:51:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc21hcnQtbmV3cyUyRmFzdHJvbm9tZXJzLWZvdW5kLWEtbXlzdGVyaW91cy1vYmplY3Qtb3JiaXRpbmctZmFyLWJleW9uZC1wbHV0by1pdC1jb3VsZC1iZS1hLW5ldy1kd2FyZi1wbGFuZXQtaGlkZGVuLWluLW91ci1zb2xhci1zeXN0ZW0tMTgwOTg5ODU3JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc21hcnQtbmV3cyUyRmFzdHJvbm9tZXJzLWZvdW5kLWEtbXlzdGVyaW91cy1vYmplY3Qtb3JiaXRpbmctZmFyLWJleW9uZC1wbHV0by1pdC1jb3VsZC1iZS1hLW5ldy1kd2FyZi1wbGFuZXQtaGlkZGVuLWluLW91ci1zb2xhci1zeXN0ZW0tMTgwOTg5ODU3JTJGJTdDRHdhcmYlMjBwbGFuZXQlMjBjYW5kaWRhdGUlMjBhcHBlYXJzJTIwd2hpY2glMjB0YWtlcyUyMHJvdWdobHklMjAyODAlMjB5ZWFycyUyMHRvJTIwb3JiaXQlMjBvdXIlMjBzdW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ3MjQ5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE5JTNBMDUlM0EzMyUyMCUyQjAwMDA",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "pubDate": "Thu, 12 Nov 2026 19:05:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRpZ3Jhdml0eS5nb29nbGUlMkZibG9nJTJGZ2VtaW5pLTQtaHlkcm9nZW4taW4tZ29vZ2xlLWFudGlncmF2aXR5JTJGJTdDaHR0cHMlM0ElMkYlMkZhbnRpZ3Jhdml0eS5nb29nbGUlMkZibG9nJTJGZ2VtaW5pLTQtaHlkcm9nZW4taW4tZ29vZ2xlLWFudGlncmF2aXR5JTJGJTdDR2VtaW5pJTIwNCUyMEh5ZHJvZ2VuJTIwYW5kJTIwT3JjaGVzdHJhdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NzIyNjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxOCUzQTUyJTNBMDElMjAlMkIwMDAw",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "pubDate": "Thu, 12 Nov 2026 18:52:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJ1c3QtbGFuZy5vcmclMkYyMDI2JTJGMTElMkYxMiUyRlJ1c3QtMS4xMDAuMCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5ydXN0LWxhbmcub3JnJTJGMjAyNiUyRjExJTJGMTIlMkZSdXN0LTEuMTAwLjAlMkYlN0NSdXN0JTIwMS4xMDAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ3MjAzOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE4JTNBMzklM0EwNSUyMCUyQjAwMDA",
+      "title": "Rust 1.100",
+      "pubDate": "Thu, 12 Nov 2026 18:39:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWhtZXRpbmNlLm5ldCUyRnBhcnQtMy02LWhvdy1pLWVuZGVkLXVwLXR1cm5pbmctYS0yMi15ZWFyLW9sZC1wb3N0Z3Jlc3FsLXR5cGUtY29uZnVzaW9uLXByaW1pdGl2ZS1pbnRvLXJjZS1jdmUtMjAyNi02NDYwJTJGJTdDaHR0cHMlM0ElMkYlMkZtZWhtZXRpbmNlLm5ldCUyRnBhcnQtMy02LWhvdy1pLWVuZGVkLXVwLXR1cm5pbmctYS0yMi15ZWFyLW9sZC1wb3N0Z3Jlc3FsLXR5cGUtY29uZnVzaW9uLXByaW1pdGl2ZS1pbnRvLXJjZS1jdmUtMjAyNi02NDYwJTJGJTdDVHVybmluZyUyMGElMjAyMi15ZWFyLW9sZCUyMFBvc3RncmVzJTIwdHlwZS1jb25mdXNpb24lMjBwcmltaXRpdmUlMjBpbnRvJTIwUkNFJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NzE3NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxOCUzQTIyJTNBMjIlMjAlMkIwMDAw",
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "pubDate": "Thu, 12 Nov 2026 18:22:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGF0dXMuY2xvdWQubWljcm9zb2Z0JTJGJTdDaHR0cHMlM0ElMkYlMkZzdGF0dXMuY2xvdWQubWljcm9zb2Z0JTJGJTdDU2VydmljZSUyMGRlZ3JhZGF0aW9uJTIwb24lMjBNaWNyb3NvZnQlMjAzNjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ3MTczMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE4JTNBMjAlM0E0OCUyMCUyQjAwMDA",
+      "title": "Service degradation on Microsoft 365",
+      "pubDate": "Thu, 12 Nov 2026 18:20:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZpbnRyb2R1Y2luZy1nZW1pbmktNC1oeWRyb2dlbiUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5nb29nbGUlMkZpbm5vdmF0aW9uLWFuZC1haSUyRm1vZGVscy1hbmQtcmVzZWFyY2glMkZnZW1pbmktbW9kZWxzJTJGaW50cm9kdWNpbmctZ2VtaW5pLTQtaHlkcm9nZW4lMkYlN0NHZW1pbmklMjA0JTIwSHlkcm9nZW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ3MTQzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE4JTNBMDElM0E0OCUyMCUyQjAwMDA",
+      "title": "Gemini 4 Hydrogen",
+      "pubDate": "Thu, 12 Nov 2026 18:01:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDcxMjgxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDcxMjgxJTdDU2hvdyUyMEhOJTNBJTIwS2Fwc28lMjAlRTIlODAlOTMlMjBJdGVyYXRpdmUlMjBsZWFybmluZyUyMGZyb20lMjBlbnRlcnByaXNlJTIwZGF0YSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDcxMjgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTclM0E1MSUzQTIzJTIwJTJCMDAwMA",
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "pubDate": "Thu, 12 Nov 2026 17:51:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2ltcHNva2ElMkZ6aWd6YWclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZzaW1wc29rYSUyRnppZ3phZyU3Q1Nob3clMjBITiUzQSUyME15JTIwJTI0MzAwJTIwZW1icm9pZGVyeSUyMG1hY2hpbmUlMjBuZWVkZWQlMjBhJTIwc3Vic2NyaXB0aW9uJTJDJTIwc28lMjBJJTIwYnVpbHQlMjBteSUyMG93biUyMGFwcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDcwNDg4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTclM0EwMiUzQTQyJTIwJTJCMDAwMA",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "pubDate": "Thu, 12 Nov 2026 17:02:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRm52aWRpYS1tZWdhc3BlZWQtY2hpbmEtc2luZ2Fwb3JlLWh1YW5nLTU0MDNmMTUyYTYwMWNmODJjZTkzOWYxZDI0ZmZmYTBmJTdDaHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRm52aWRpYS1tZWdhc3BlZWQtY2hpbmEtc2luZ2Fwb3JlLWh1YW5nLTU0MDNmMTUyYTYwMWNmODJjZTkzOWYxZDI0ZmZmYTBmJTdDSmVuc2VuJTIwSHVhbmclMjByZXNpZ25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NjcwODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxMyUzQTUyJTNBMjklMjAlMkIwMDAw",
+      "title": "Jensen Huang resigns",
+      "pubDate": "Thu, 12 Nov 2026 13:52:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cmF0dC5uZXQlMkZsYXVyaWUlMkZibG9nJTJGMjAyNiUyRmFkYXB0aW5nX2NweXRob25fZm9yX3lrLmh0bWwlN0NodHRwcyUzQSUyRiUyRnRyYXR0Lm5ldCUyRmxhdXJpZSUyRmJsb2clMkYyMDI2JTJGYWRhcHRpbmdfY3B5dGhvbl9mb3JfeWsuaHRtbCU3Q0FkYXB0aW5nJTIwQ1B5dGhvbiUyMGZvciUyMFlrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NjY0MTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxMiUzQTUxJTNBMzglMjAlMkIwMDAw",
+      "title": "Adapting CPython for Yk",
+      "pubDate": "Thu, 12 Nov 2026 12:51:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
     }
   ]
