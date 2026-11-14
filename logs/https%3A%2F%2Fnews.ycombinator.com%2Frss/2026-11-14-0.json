@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-14",
     "newestItemDate": "2026-11-14",
-    "itemCount": 20,
-    "generatedAt": "2026-11-14T15:10:56.275Z"
+    "itemCount": 34,
+    "generatedAt": "2026-11-14T20:47:36.911Z"
   },
   "items": [
     {
@@ -126,6 +126,90 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvd2VydXAuY29tJTJGMzU0ODE0JTJGbnZpZGlhLWFsbGVnZWRseS1lbmdpbmVlcmVkLXNjYXJjaXR5LWJ5LWZ1bmRpbmctYWktc3RhcnR1cHMtdG8tYnV5LWl0cy1ncHVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvd2VydXAuY29tJTJGMzU0ODE0JTJGbnZpZGlhLWFsbGVnZWRseS1lbmdpbmVlcmVkLXNjYXJjaXR5LWJ5LWZ1bmRpbmctYWktc3RhcnR1cHMtdG8tYnV5LWl0cy1ncHVzJTdDTnZpZGlhJTIwYWxsZWdlZGx5JTIwZW5naW5lZXJlZCUyMHNjYXJjaXR5JTIwYnklMjBmdW5kaW5nJTIwQUklMjBzdGFydHVwcyUyMHRvJTIwYnV5JTIwaXRzJTIwR1BVcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDkzMjUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMDIlM0E1MiUzQTU5JTIwJTJCMDAwMA",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRmxpbmtlZGluLW1vbnN0ZXItdGFrZS1kb3duLW92ZXItMS0wMDAtZmFrZS1qb2ItcG9zdGluZ3MtYWZ0ZXItY2JjLWludmVzdGlnYXRpb24tOS43NDE1Mzc5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2JjLmNhJTJGbmV3cyUyRmNhbmFkYSUyRmxpbmtlZGluLW1vbnN0ZXItdGFrZS1kb3duLW92ZXItMS0wMDAtZmFrZS1qb2ItcG9zdGluZ3MtYWZ0ZXItY2JjLWludmVzdGlnYXRpb24tOS43NDE1Mzc5JTdDTGlua2VkSW4lMkMlMjBNb25zdGVyJTIwdGFrZSUyMGRvd24lMjBvdmVyJTIwMTAwMCUyMGZha2UlMjBqb2IlMjBwb3N0aW5ncyUyMGFmdGVyJTIwQ0JDJTIwaW52ZXN0aWdhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk5NzIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTglM0E1NiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "pubDate": "Sat, 14 Nov 2026 18:56:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSVJTLVB1YmxpYyUyRmRpcmVjdC1maWxlJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGSVJTLVB1YmxpYyUyRmRpcmVjdC1maWxlJTdDVVMlMjBJUlMlMjBmcmVlJTIwb25saW5lJTIwdGF4JTIwZmlsaW5nJTIwb3BlbiUyMHNvdXJjZSUyMHJlcG8lMjAoMjAyNSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ5OTA4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE0JTIwTm92JTIwMjAyNiUyMDE3JTNBNDglM0EyMCUyMCUyQjAwMDA",
+      "title": "US IRS free online tax filing open source repo (2025)",
+      "pubDate": "Sat, 14 Nov 2026 17:48:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6d2lzY2hlbnp1Z3MuY29tJTJGMjAyNiUyRjExJTJGMDMlMkZhLWZhbWlseS10cmVlLW9mLXNvZnR3YXJlLWpvYi10aXRsZXMlMkYlN0NodHRwcyUzQSUyRiUyRnp3aXNjaGVuenVncy5jb20lMkYyMDI2JTJGMTElMkYwMyUyRmEtZmFtaWx5LXRyZWUtb2Ytc29mdHdhcmUtam9iLXRpdGxlcyUyRiU3Q0ElMjBGYW1pbHklMjBUcmVlJTIwb2YlMjBTb2Z0d2FyZSUyMEpvYiUyMFRpdGxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk5MDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTclM0E0NSUzQTE5JTIwJTJCMDAwMA",
+      "title": "A Family Tree of Software Job Titles",
+      "pubDate": "Sat, 14 Nov 2026 17:45:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3Jpc3N5ZmllbGQuZGUlMkZyZXNlYXJjaCUyRmxvdmFibGUtZW4lMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jcmlzc3lmaWVsZC5kZSUyRnJlc2VhcmNoJTJGbG92YWJsZS1lbiUyRiU3Q0xvdmFibGUlMjBhcHBzJTIwZXhwb3NlJTIwcGFzc3BvcnQlMjBkZXRhaWxzJTIwYW5kJTIwbW9yZSUyMHRoYW4lMjAyMDBLJTIwcHJpdmF0ZSUyMG1lc3NhZ2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTkwMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxNyUzQTQzJTNBMTAlMjAlMkIwMDAw",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "pubDate": "Sat, 14 Nov 2026 17:43:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZm9yZXRob3VnaHQub3JnJTJGcmVzZWFyY2glMkZ3aWxsLXdlLXJlYWxseS1wdXQtZGF0YS1jZW50ZXJzLWluLXNwYWNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZm9yZXRob3VnaHQub3JnJTJGcmVzZWFyY2glMkZ3aWxsLXdlLXJlYWxseS1wdXQtZGF0YS1jZW50ZXJzLWluLXNwYWNlJTdDV2lsbCUyMHdlJTIwcHV0JTIwZGF0YSUyMGNlbnRlcnMlMjBpbiUyMHNwYWNlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTg5NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxNyUzQTM1JTNBMzMlMjAlMkIwMDAw",
+      "title": "Will we put data centers in space?",
+      "pubDate": "Sat, 14 Nov 2026 17:35:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnb2xpYXRoMzIuY29tJTJGYmxvZyUyRnppcGhlYWQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGZ29saWF0aDMyLmNvbSUyRmJsb2clMkZ6aXBoZWFkLmh0bWwlN0NDcmVhdGluZyUyMGElMjBzZWxmJTIwYm9vdGluZyUyMFpJUCUyMGFyY2hpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ5ODI5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE0JTIwTm92JTIwMjAyNiUyMDE2JTNBMjklM0EwNSUyMCUyQjAwMDA",
+      "title": "Creating a self booting ZIP archive",
+      "pubDate": "Sat, 14 Nov 2026 16:29:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrYXJib29zeC5uZXQlMkZwb3N0JTJGNWo3amRETTMlMkZob3ctdG8tY3JlYXRlLXlvdXItb3duLWRlY2VudHJhbGl6ZWQtbWVzc2VuZ2VyLXByb3RvY29sJTdDaHR0cHMlM0ElMkYlMkZrYXJib29zeC5uZXQlMkZwb3N0JTJGNWo3amRETTMlMkZob3ctdG8tY3JlYXRlLXlvdXItb3duLWRlY2VudHJhbGl6ZWQtbWVzc2VuZ2VyLXByb3RvY29sJTdDSG93JTIwdG8lMjBDcmVhdGUlMjBZb3VyJTIwT3duJTIwRGVjZW50cmFsaXplZCUyME1lc3NlbmdlciUyMFByb3RvY29sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTgwNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxNiUzQTAxJTNBMDQlMjAlMkIwMDAw",
+      "title": "How to Create Your Own Decentralized Messenger Protocol",
+      "pubDate": "Sat, 14 Nov 2026 16:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZXhpZmluYS5jb20lMkZibG9nJTJGZm9ybWFsaXppbmctdGhlLXVzLXRheC1jb2RlJTdDaHR0cHMlM0ElMkYlMkZsZXhpZmluYS5jb20lMkZibG9nJTJGZm9ybWFsaXppbmctdGhlLXVzLXRheC1jb2RlJTdDRm9ybWFsaXppbmclMjBVUyUyMFRheCUyMENvZGUlMjAoVXNpbmclMjBMZWFuKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk3OTAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTUlM0E0MSUzQTIwJTIwJTJCMDAwMA",
+      "title": "Formalizing US Tax Code (Using Lean)",
+      "pubDate": "Sat, 14 Nov 2026 15:41:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnB5cGkub3JnJTJGcG9zdHMlMkYyMDI2LTExLTA2LXVpLXVwZGF0ZXMtY29tcGxldGUlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cucHlwaS5vcmclMkZwb3N0cyUyRjIwMjYtMTEtMDYtdWktdXBkYXRlcy1jb21wbGV0ZSUyRiU3Q1B5UEkncyUyMHJlZGVzaWduZWQlMjBwcm9qZWN0JTIwcGFnZXMlMjB3aXRoJTIwY2xlYXJlciUyMHNlY3VyaXR5JTIwc2lnbmFscyUyMGFyZSUyMG5vdyUyMGxpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ5Nzg5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE0JTIwTm92JTIwMjAyNiUyMDE1JTNBNDAlM0E1MiUyMCUyQjAwMDA",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "pubDate": "Sat, 14 Nov 2026 15:40:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVmFpYmhhYXYtVGl3YXJpJTJGZGVlcHNlZWstdjMtamF4JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGVmFpYmhhYXYtVGl3YXJpJTJGZGVlcHNlZWstdjMtamF4JTdDU2hvdyUyMEhOJTNBJTIwRGVlcFNlZWslMjBWMyUyMGluJTIwfjIwMCUyMGxpbmVzJTIwb2YlMjBwdXJlJTIwSmF4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTc1ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxNSUzQTA0JTNBMTUlMjAlMkIwMDAw",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "pubDate": "Sat, 14 Nov 2026 15:04:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvc3NlcnZhdG9yaW9uZXNzdW5vLm9yZyUyRmJsb2clMkYyMDI2JTJGMDUlMkZkZW15c3RpZnlpbmctcGhvbmUtdW5sb2NraW5nLXRvb2xzLWEtdGVjaG5pY2FsLW92ZXJ2aWV3JTJGJTdDaHR0cHMlM0ElMkYlMkZvc3NlcnZhdG9yaW9uZXNzdW5vLm9yZyUyRmJsb2clMkYyMDI2JTJGMDUlMkZkZW15c3RpZnlpbmctcGhvbmUtdW5sb2NraW5nLXRvb2xzLWEtdGVjaG5pY2FsLW92ZXJ2aWV3JTJGJTdDRGVteXN0aWZ5aW5nJTIwcGhvbmUlMjB1bmxvY2tpbmclMjB0b29scyUzQSUyMEElMjB0ZWNobmljYWwlMjBvdmVydmlldyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk3NDE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTQlM0E0NCUzQTI4JTIwJTJCMDAwMA",
+      "title": "Demystifying phone unlocking tools: A technical overview",
+      "pubDate": "Sat, 14 Nov 2026 14:44:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dWJlLmtvY2thdG9vLm9yZyUyRnclMkZmRmluTkhmYW5MVDdhQkViMkI4eTRjJTdDaHR0cHMlM0ElMkYlMkZ0dWJlLmtvY2thdG9vLm9yZyUyRnclMkZmRmluTkhmYW5MVDdhQkViMkI4eTRjJTdDS0RFJTNBJTIwVGhlJTIwZG9jdW1lbnRhcnklMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk2OTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTMlM0E0MyUzQTI4JTIwJTJCMDAwMA",
+      "title": "KDE: The documentary [video]",
+      "pubDate": "Sat, 14 Nov 2026 13:43:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYXRpc2hiLmNvbSUyRm15cmlhZCUyRmhvdy1icmFpbnMtbGVhcm4lMkYlN0NodHRwcyUzQSUyRiUyRmFhdGlzaGIuY29tJTJGbXlyaWFkJTJGaG93LWJyYWlucy1sZWFybiUyRiU3Q0ElMjB2aXN1YWwlMjBleHBsYW5hdGlvbiUyMG9mJTIwcmVpbmZvcmNlbWVudCUyMGxlYXJuaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTY4ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxMyUzQTMxJTNBMDYlMjAlMkIwMDAw",
+      "title": "A visual explanation of reinforcement learning",
+      "pubDate": "Sat, 14 Nov 2026 13:31:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9qZWN0emVyby5nb29nbGUlMkYyMDI2JTJGMTElMkZkaXNjbG9zdXJlLXBvbGljeS5odG1sJTdDaHR0cHMlM0ElMkYlMkZwcm9qZWN0emVyby5nb29nbGUlMkYyMDI2JTJGMTElMkZkaXNjbG9zdXJlLXBvbGljeS5odG1sJTdDUHJvamVjdCUyMFplcm8lMjB3aWxsJTIwZGlzY2xvc2UlMjB2dWxuZXJhYmlsaXRpZXMlMjA5MCUyMGRheXMlMjBhZnRlciUyMHJlcG9ydGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk2MDUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTElM0ExMyUzQTE3JTIwJTJCMDAwMA",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "pubDate": "Sat, 14 Nov 2026 11:13:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
     }
   ]
