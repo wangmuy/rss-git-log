@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-13",
     "newestItemDate": "2026-11-13",
-    "itemCount": 23,
-    "generatedAt": "2026-11-13T16:32:54.366Z"
+    "itemCount": 40,
+    "generatedAt": "2026-11-14T06:42:35.428Z"
   },
   "items": [
     {
@@ -144,6 +144,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtb3RoZXJkdWNrLmNvbSUyRmJsb2clMkZ0aGUtZGF0YS1pbnRlbGxpZ2VuY2UtZW5naW5lZXIlMkYlN0NodHRwcyUzQSUyRiUyRm1vdGhlcmR1Y2suY29tJTJGYmxvZyUyRnRoZS1kYXRhLWludGVsbGlnZW5jZS1lbmdpbmVlciUyRiU3Q1RoZSUyMERhd24lMjBvZiUyMHRoZSUyMERhdGElMjBJbnRlbGxpZ2VuY2UlMjBFbmdpbmVlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDgwNDgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMDklM0EwOCUzQTE4JTIwJTJCMDAwMA",
       "title": "The Dawn of the Data Intelligence Engineer",
       "pubDate": "Fri, 13 Nov 2026 09:08:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGd2hhdC1oYXBwZW5lZC10by0zY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGd2hhdC1oYXBwZW5lZC10by0zY29tJTJGJTdDV2hhdCUyMEhhcHBlbmVkJTIwdG8lMjAzQ29tJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTE4MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAyMyUzQTQ4JTNBNTklMjAlMkIwMDAw",
+      "title": "What Happened to 3Com?",
+      "pubDate": "Fri, 13 Nov 2026 23:48:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZncm91bmRzLnRvcCUyRiU3Q2h0dHBzJTNBJTJGJTJGZ3JvdW5kcy50b3AlMkYlN0NTaG93JTIwSE4lM0ElMjBMaXZlJTIwbWFwJTIwb2YlMjBVLlMuJTIwZmxpZ2h0cyUyMGR1cmluZyUyMHRvbmlnaHQncyUyMEZBQSUyMG5hdGlvbndpZGUlMjBncm91bmQlMjBzdG9wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTE1NDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAyMyUzQTE3JTNBMzklMjAlMkIwMDAw",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "pubDate": "Fri, 13 Nov 2026 23:17:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuam9zaGthLm5ldCUyRmNlbGwtYm9yZGVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmpvc2hrYS5uZXQlMkZjZWxsLWJvcmRlcnMlMkYlN0NUZXJtaW5hbCUyMGJvcmRlcnMlMjB0aGF0JTIwZG9uJ3QlMjBjb3N0JTIwYSUyMGNlbGwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ5MTQyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDIzJTNBMDYlM0E0MCUyMCUyQjAwMDA",
+      "title": "Terminal borders that don't cost a cell",
+      "pubDate": "Fri, 13 Nov 2026 23:06:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGljaHJhZ2hpLmdpdGh1Yi5pbyUyRmJsb2clMkZob3ctbm90LXRvLWJ1aWxkLWEtbXVzaWMtcGxheWVyJTJGJTdDaHR0cHMlM0ElMkYlMkZhbGljaHJhZ2hpLmdpdGh1Yi5pbyUyRmJsb2clMkZob3ctbm90LXRvLWJ1aWxkLWEtbXVzaWMtcGxheWVyJTJGJTdDSG93JTIwTm90JTIwdG8lMjBCdWlsZCUyMGElMjBNdXNpYyUyMFBsYXllciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDkxNDAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMjMlM0EwNCUzQTMwJTIwJTJCMDAwMA",
+      "title": "How Not to Build a Music Player",
+      "pubDate": "Fri, 13 Nov 2026 23:04:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcmNhc2FpcmJhbmQuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZvcmNhc2FpcmJhbmQuY29tJTJGJTdDTGl2ZSUyMGFpcmJhbmQlMjBvbiUyMGFsbCUyMGZyZXF1ZW5jaWVzJTIwZnJvbSUyMEtPUlMuJTIwVmljdG9yaWElMkMlMjBDQSUyMGFsc28lMjBncm91bmQlMjBzdG9wcGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTA1OTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAyMiUzQTA0JTNBMjQlMjAlMkIwMDAw",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "pubDate": "Fri, 13 Nov 2026 22:04:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmJjbmV3cy5jb20lMkZuZXdzJTJGdXMtbmV3cyUyRmZhYS1vcmRlcnMtbmF0aW9ud2lkZS1ncm91bmQtc3RvcC1kZXBhcnRpbmctZmxpZ2h0cy1yZWFzb25zLXNhZmV0eS1yY25hNjA5MjQ3JTdDaHR0cHMlM0ElMkYlMkZ3d3cubmJjbmV3cy5jb20lMkZuZXdzJTJGdXMtbmV3cyUyRmZhYS1vcmRlcnMtbmF0aW9ud2lkZS1ncm91bmQtc3RvcC1kZXBhcnRpbmctZmxpZ2h0cy1yZWFzb25zLXNhZmV0eS1yY25hNjA5MjQ3JTdDRkFBJTIwaXNzdWVzJTIwbmF0aW9uYWwlMjBncm91bmQlMjBzdG9wJTIwJUUyJTgwJTkzJUMyJUEwbGlmdGVkJTIwNC41JTIwaG91cnMlMjBsYXRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg5NjQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMjElM0EwNSUzQTUzJTIwJTJCMDAwMA",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdGcuc2NpZW5jZSUyRmNhcmVlcnMlN0NodHRwcyUzQSUyRiUyRmF0Zy5zY2llbmNlJTJGY2FyZWVycyU3Q0F1dG9ub21vdXMlMjAoWUMlMjBGMjUpJTIwaXMlMjBoaXJpbmclMjBNVFMlMjB0byUyMGJ1aWxkJTIwQUklMjBhZ2VudHMlMjB0aGF0JTIwbWFuYWdlJTIweW91ciUyMHdlYWx0aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg5NTg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMjElM0EwMSUzQTExJTIwJTJCMDAwMA",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "pubDate": "Fri, 13 Nov 2026 21:01:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZneXB0YXp5LmNvbSUyRmJsb2clMkZmcmVlYnNkLWJoeXZlLWxpdmUtbWlncmF0aW9uLXN1cHBvcnQtcmZjJTJGJTdDaHR0cHMlM0ElMkYlMkZneXB0YXp5LmNvbSUyRmJsb2clMkZmcmVlYnNkLWJoeXZlLWxpdmUtbWlncmF0aW9uLXN1cHBvcnQtcmZjJTJGJTdDTGl2ZS1taWdyYXRpb24lMjBzdXBwb3J0JTIwaW4lMjBGcmVlQlNEJTIwYW5kJTIwYmh5dmUlMjBjb21pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ4ODgzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDE5JTNBNTglM0E0MiUyMCUyQjAwMDA",
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "pubDate": "Fri, 13 Nov 2026 19:58:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMzYzOC0zJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmF0dXJlLmNvbSUyRmFydGljbGVzJTJGZDQxNTg2LTAyNi0wMzYzOC0zJTdDRm91bmQlM0ElMjBBJTIwcHJvdGVpbiUyMHRoYXQlMjBkcml2ZXMlMjBhZ2VpbmclMjB3aXRob3V0JTIwdW5sZWFzaGluZyUyMGluZmxhbW1hdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg4NDcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMTklM0EyNSUzQTIxJTIwJTJCMDAwMA",
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "pubDate": "Fri, 13 Nov 2026 19:25:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGVycGxleGl0eS5haSUyRmh1YiUyRmJsb2clMkZwZXJwbGV4aXR5LWRlY2lkZXIlN0NodHRwcyUzQSUyRiUyRnd3dy5wZXJwbGV4aXR5LmFpJTJGaHViJTJGYmxvZyUyRnBlcnBsZXhpdHktZGVjaWRlciU3Q1BlcnBsZXhpdHklMjBEZWNpZGVyJTIwdjEuMyUzQSUyMFRyYWluaW5nJTJDJTIwZXZhbCUyQyUyMGFuZCUyMHVzZSUyMGNhc2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0ODg0NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAxOSUzQTI0JTNBNDclMjAlMkIwMDAw",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "pubDate": "Fri, 13 Nov 2026 19:24:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuLm0tdmF2ZS5jb20lMkZmbTEtd29ya2JlbmNoJTdDaHR0cHMlM0ElMkYlMkZvcGVuLm0tdmF2ZS5jb20lMkZmbTEtd29ya2JlbmNoJTdDRk0tMSUyMFdvcmtiZW5jaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg4MzI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMTklM0ExNCUzQTAyJTIwJTJCMDAwMA",
+      "title": "FM-1 Workbench",
+      "pubDate": "Fri, 13 Nov 2026 19:14:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnJlaWdodHdhdmVzLmNvbSUyRm5ld3MlMkYxMS00LW1pbGxpb24taW4tbnZpZGlhLWhhcmR3YXJlLXZhbmlzaGVzLWR1cmluZy1zaGlwbWVudC1mcm9tLWNhbGlmb3JuaWEtdG8tdGV4YXMlN0NodHRwcyUzQSUyRiUyRnd3dy5mcmVpZ2h0d2F2ZXMuY29tJTJGbmV3cyUyRjExLTQtbWlsbGlvbi1pbi1udmlkaWEtaGFyZHdhcmUtdmFuaXNoZXMtZHVyaW5nLXNoaXBtZW50LWZyb20tY2FsaWZvcm5pYS10by10ZXhhcyU3QyUyNDExLjRNJTIwaW4lMjBOdmlkaWElMjBoYXJkd2FyZSUyMHZhbmlzaGVzJTIwZHVyaW5nJTIwc2hpcG1lbnQlMjBmcm9tJTIwQ0ElMjB0byUyMFRYJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0ODc4NjQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAxOCUzQTQwJTNBNDQlMjAlMkIwMDAw",
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "pubDate": "Fri, 13 Nov 2026 18:40:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b25pbm9ibGUuY29tJTJGcG9zdCUyRmN0cmxjLWN0cmx2LWN0cmxjdmUlN0NodHRwcyUzQSUyRiUyRnRvbmlub2JsZS5jb20lMkZwb3N0JTJGY3RybGMtY3RybHYtY3RybGN2ZSU3Q0N0cmwlMkJDJTJDJTIwQ3RybCUyQnYlMkMlMjBDdHJsJTJCY3ZlJTNBJTIwQnlwYXNzaW5nJTIwQW5kcm9pZCdzJTIwQ2xpcGJvYXJkJTIwUmVhZCUyMFNlY3VyaXR5JTIwTWVhc3VyZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ4NzYwNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDE4JTNBMjMlM0E0OSUyMCUyQjAwMDA",
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "pubDate": "Fri, 13 Nov 2026 18:23:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpc29tZXRyaWNzZi5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmlzb21ldHJpY3NmLmNvbSUyRiU3Q1Nob3clMjBITiUzQSUyMElzb21ldHJpYyUyMFNGJTIwJUUyJTgwJTkzJTIwQSUyMHBpeGVsLWFydCUyMG1hcCUyMG9mJTIwdGhlJTIwU0YlMjBCYXklMjBBcmVhJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0ODcyMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAxNyUzQTU4JTNBMzclMjAlMkIwMDAw",
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "pubDate": "Fri, 13 Nov 2026 17:58:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoYWRkeWFsY2hhZXIuY29tJTJGamVwYSU3Q2h0dHBzJTNBJTJGJTJGaGFkZHlhbGNoYWVyLmNvbSUyRmplcGElN0NBZnRlciUyMDYwMCUyMGV4cGVyaW1lbnRzJTJDJTIwaGVyZSdzJTIwd2hhdCUyMEklMjBkaXNjb3ZlcmVkJTIwYWJvdXQlMjBKRVBBJTIwd29ybGQlMjBtb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ4NzE4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDE3JTNBNTUlM0EyOCUyMCUyQjAwMDA",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "pubDate": "Fri, 13 Nov 2026 17:55:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RJUks4aDY3b2w3USU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNESVJLOGg2N29sN1ElN0NKb25hdGhhbiUyMEJsb3clMjAlRTIlODAlOTMlMjBJZiUyMEFJJTIwc29sdmVkJTIwY29kaW5nJTJDJTIwd2h5JTIwaXMlMjBteSUyMHNvZnR3YXJlJTIwc3RpbGwlMjB0aGUlMjBzYW1lJTNGJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ4NDY1OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDE1JTNBMDglM0E0NCUyMCUyQjAwMDA",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "pubDate": "Fri, 13 Nov 2026 15:08:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNob3ByZXNzLmNvbSUyRmJ1c2luZXNzJTJGbWlubmVzb3RhLWd1aXRhcmlzdHMtaW52ZW50aW9uLXN0cmlrZXMtYS1uZXctY2hvcmQlN0NodHRwcyUzQSUyRiUyRnd3dy5lY2hvcHJlc3MuY29tJTJGYnVzaW5lc3MlMkZtaW5uZXNvdGEtZ3VpdGFyaXN0cy1pbnZlbnRpb24tc3RyaWtlcy1hLW5ldy1jaG9yZCU3Q01pbm5lc290YSUyMGd1aXRhcmlzdCdzJTIwJTIycGFsbWZyZXRzJTIyJTIwaW52ZW50aW9uJTIwc3RyaWtlcyUyMGElMjBuZXclMjBjaG9yZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg0NjUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMTUlM0EwOCUzQTA3JTIwJTJCMDAwMA",
+      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "pubDate": "Fri, 13 Nov 2026 15:08:07 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
     }
   ]

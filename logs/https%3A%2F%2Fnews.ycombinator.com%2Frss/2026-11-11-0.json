@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-11",
     "newestItemDate": "2026-11-11",
-    "itemCount": 54,
-    "generatedAt": "2026-11-13T06:56:43.013Z"
+    "itemCount": 55,
+    "generatedAt": "2026-11-14T06:42:35.428Z"
   },
   "items": [
     {
@@ -330,6 +330,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYWtlcGFkLmdpdGh1Yi5pbyUyRnJlbGF4JTJGJTdDaHR0cHMlM0ElMkYlMkZtYWtlcGFkLmdpdGh1Yi5pbyUyRnJlbGF4JTJGJTdDUmVsYXglM0ElMjBKSVQlMjBjb21waWxlciUyMGZvciUyMFJ1c3QlMjB0byUyMHJlZHVjZSUyMGJ1aWxkJTIwdGltZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ1ODg0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDIxJTNBMjAlM0EwMSUyMCUyQjAwMDA",
       "title": "Relax: JIT compiler for Rust to reduce build times",
       "pubDate": "Wed, 11 Nov 2026 21:20:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGamp1bGlhbm8lMkZlYXN5LWxhbmclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZqanVsaWFubyUyRmVhc3ktbGFuZyU3Q0Vhc3ktTGFuZyUzQSUyMEV2YW5nZWwlMjBRdWl3YSdzJTIwUHJvZ3JhbW1pbmclMjBMYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDUyOTk4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTElMjBOb3YlMjAyMDI2JTIwMTMlM0ExMSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Easy-Lang: Evangel Quiwa's Programming Language",
+      "pubDate": "Wed, 11 Nov 2026 13:11:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
     }
   ]
