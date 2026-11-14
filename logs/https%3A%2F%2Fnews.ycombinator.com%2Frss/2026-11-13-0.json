@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-13",
     "newestItemDate": "2026-11-13",
-    "itemCount": 40,
-    "generatedAt": "2026-11-14T06:42:35.428Z"
+    "itemCount": 42,
+    "generatedAt": "2026-11-14T15:10:56.275Z"
   },
   "items": [
     {
@@ -246,6 +246,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWNob3ByZXNzLmNvbSUyRmJ1c2luZXNzJTJGbWlubmVzb3RhLWd1aXRhcmlzdHMtaW52ZW50aW9uLXN0cmlrZXMtYS1uZXctY2hvcmQlN0NodHRwcyUzQSUyRiUyRnd3dy5lY2hvcHJlc3MuY29tJTJGYnVzaW5lc3MlMkZtaW5uZXNvdGEtZ3VpdGFyaXN0cy1pbnZlbnRpb24tc3RyaWtlcy1hLW5ldy1jaG9yZCU3Q01pbm5lc290YSUyMGd1aXRhcmlzdCdzJTIwJTIycGFsbWZyZXRzJTIyJTIwaW52ZW50aW9uJTIwc3RyaWtlcyUyMGElMjBuZXclMjBjaG9yZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg0NjUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMTUlM0EwOCUzQTA3JTIwJTJCMDAwMA",
       "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
       "pubDate": "Fri, 13 Nov 2026 15:08:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGd2hhdC1oYXBwZW5lZC10by0zY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZkZmFycS5ob21laXAubmV0JTJGd2hhdC1oYXBwZW5lZC10by0zY29tJTJGJTdDV2hhdCUyMGhhcHBlbmVkJTIwdG8lMjAzQ29tJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTE4MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAyMyUzQTQ4JTNBNTklMjAlMkIwMDAw",
+      "title": "What happened to 3Com?",
+      "pubDate": "Fri, 13 Nov 2026 23:48:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXlvbmRsb29tLmNvbSUyRmJsb2clMkZwb3N0c2NyaXB0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRmJleW9uZGxvb20uY29tJTJGYmxvZyUyRnBvc3RzY3JpcHQuaHRtbCU3Q0xldCdzJTIwV3JpdGUlMjBhJTIwUG9zdFNjcmlwdCUyMEludGVycHJldGVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0Nzg2MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAwNSUzQTEyJTNBNTYlMjAlMkIwMDAw",
+      "title": "Let's Write a PostScript Interpreter",
+      "pubDate": "Fri, 13 Nov 2026 05:12:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-14",
     "newestItemDate": "2026-11-14",
-    "itemCount": 8,
-    "generatedAt": "2026-11-14T06:42:35.428Z"
+    "itemCount": 20,
+    "generatedAt": "2026-11-14T15:10:56.275Z"
   },
   "items": [
     {
@@ -54,6 +54,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ1bnNsb3RoLmFpJTJGZG9jcyUyRm1vZGVscyUyRnF3ZW4zLjglN0NodHRwcyUzQSUyRiUyRnVuc2xvdGguYWklMkZkb2NzJTJGbW9kZWxzJTJGcXdlbjMuOCU3Q1Vuc2xvdGglMjBRd2VuMy44LTI3QiUyMFF1YW50aXphdGlvbnMlMjAlRTIlODAlOTMlMjBEeW5hbWljJTIwdjMuMSUyMFVwZGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDkxOTgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMDAlM0EwNiUzQTA0JTIwJTJCMDAwMA",
       "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
       "pubDate": "Sat, 14 Nov 2026 00:06:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIubnZpZGlhLmNvbSUyRmJsb2clMkZ3aGVuLW9uZS1ncHUtaXNudC1lbm91Z2gtc2VydmluZy1nbG0tNS0zLWFjcm9zcy10d28tbnZpZGlhLWRneC1zdGF0aW9ucy13aXRoLXZsbG0lMkYlN0NodHRwcyUzQSUyRiUyRmRldmVsb3Blci5udmlkaWEuY29tJTJGYmxvZyUyRndoZW4tb25lLWdwdS1pc250LWVub3VnaC1zZXJ2aW5nLWdsbS01LTMtYWNyb3NzLXR3by1udmlkaWEtZGd4LXN0YXRpb25zLXdpdGgtdmxsbSUyRiU3Q1NlcnZpbmclMjBHTE0tNS4zJTIwYXQlMjA2MDcuOCUyMHRvayUyRnMlMjBhY3Jvc3MlMjB0d28lMjBOdmlkaWElMjBER1glMjBzdGF0aW9ucyUyMHdpdGglMjB2TExNJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTcxNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxNCUzQTA5JTNBMjUlMjAlMkIwMDAw",
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "pubDate": "Sat, 14 Nov 2026 14:09:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGF1bC1uYW1lbGVzcyUyRmFnd2ViJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGF1bC1uYW1lbGVzcyUyRmFnd2ViJTdDU2hvdyUyMEhOJTNBJTIwQWd3ZWIlMjAlRTIlODAlOTMlMjBhJTIwYnJvd3NlciUyMGZvciUyMGFnZW50cyUyMHRoYXQlMjBzdGF5cyUyMG91dCUyMG9mJTIweW91ciUyMHdheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk3MTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTQlM0EwOCUzQTEyJTIwJTJCMDAwMA",
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "pubDate": "Sat, 14 Nov 2026 14:08:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRlVSU09ZJTJGZnVyc295LWNwdSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRkZVUlNPWSUyRmZ1cnNveS1jcHUlN0NTaG93JTIwSE4lM0ElMjBGdXJzb3klMjAlRTIlODAlOTMlMjBPdXQtb2Ytb3JkZXIlMjBSVjY0SU1BRkRWJTIwY29yZSUyMGluJTIwU3lzdGVtVmVyaWxvZyUyMChMaW51eCUyMDYuNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ5NzEzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE0JTIwTm92JTIwMjAyNiUyMDE0JTNBMDYlM0EzNCUyMCUyQjAwMDA",
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "pubDate": "Sat, 14 Nov 2026 14:06:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRsYWIuY29tJTJGc25pcGVkYnl3aWZpJTJGdGVybWluYWN0b3J5JTdDaHR0cHMlM0ElMkYlMkZnaXRsYWIuY29tJTJGc25pcGVkYnl3aWZpJTJGdGVybWluYWN0b3J5JTdDU2hvdyUyMEhOJTNBJTIwQSUyMHRlcm1pbmFsLW5hdGl2ZSUyMGlkbGUlMjBmYWN0b3J5JTIwZ2FtZSUyQyUyMHdyaXR0ZW4lMjBpbiUyMFJ1c3QlMjB3aXRoJTIwcmF0YXR1aSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk3MTMyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTQlM0EwNSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "pubDate": "Sat, 14 Nov 2026 14:05:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3NzLmxpZmUlMkZub3RlcyUyRjIwMjYlMkZ0aGUtbXl0aC1vZi1uZXV0cmFsLWNvZGUlMkYlN0NodHRwcyUzQSUyRiUyRmZvc3MubGlmZSUyRm5vdGVzJTJGMjAyNiUyRnRoZS1teXRoLW9mLW5ldXRyYWwtY29kZSUyRiU3Q1RoZSUyME15dGglMjBvZiUyME5ldXRyYWwlMjBDb2RlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTcwNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxMyUzQTUyJTNBMTElMjAlMkIwMDAw",
+      "title": "The Myth of Neutral Code",
+      "pubDate": "Sat, 14 Nov 2026 13:52:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ3b3JsZCUyRml0YWx5LWZpbmVzLW1ldGEtODg3LW1pbGxpb24tb3Zlci1hbmRyb2lkLXVzZXJzLWRhdGEtYWNjZXNzLTIwMjYtMTEtMTQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZXV0ZXJzLmNvbSUyRndvcmxkJTJGaXRhbHktZmluZXMtbWV0YS04ODctbWlsbGlvbi1vdmVyLWFuZHJvaWQtdXNlcnMtZGF0YS1hY2Nlc3MtMjAyNi0xMS0xNCUyRiU3Q0l0YWx5JTIwZmluZXMlMjBNZXRhJTIwJTI0ODg3TSUyMG92ZXIlMjBBbmRyb2lkJTIwdXNlcnMnJTIwZGF0YSUyMGFjY2VzcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk3MDA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTMlM0E0OCUzQTA2JTIwJTJCMDAwMA",
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "pubDate": "Sat, 14 Nov 2026 13:48:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0dWJlLmtvY2thdG9vLm9yZyUyRnclMkZmRmluTkhmYW5MVDdhQkViMkI4eTRjJTdDaHR0cHMlM0ElMkYlMkZ0dWJlLmtvY2thdG9vLm9yZyUyRnclMkZmRmluTkhmYW5MVDdhQkViMkI4eTRjJTdDS0RFJTNBJTIwVGhlJTIwRG9jdW1lbnRhcnklMjBvbiUyMEZyZWUlMjBTb2Z0d2FyZSUyMCU1QnZpZGVvJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTY5NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxMyUzQTQzJTNBMjglMjAlMkIwMDAw",
+      "title": "KDE: The Documentary on Free Software [video]",
+      "pubDate": "Sat, 14 Nov 2026 13:43:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV0bWVpc3Rlci5vcmclMkZibG9nJTJGY2xhdWRlLWRlbHVzaW9uLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5uZXRtZWlzdGVyLm9yZyUyRmJsb2clMkZjbGF1ZGUtZGVsdXNpb24uaHRtbCU3Q1RoZSUyMENsYXVkZSUyMERlbHVzaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTY5MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxMyUzQTM2JTNBMTclMjAlMkIwMDAw",
+      "title": "The Claude Delusion",
+      "pubDate": "Sat, 14 Nov 2026 13:36:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGYWR2YW5jaW5nLXNjaWVuY2UtZW5naW5lZXJpbmctd2l0aC1hbnRpZ3Jhdml0eXMtdGVhbXdvcmstZmVhdHVyZSUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVzZWFyY2guZ29vZ2xlJTJGYmxvZyUyRmFkdmFuY2luZy1zY2llbmNlLWVuZ2luZWVyaW5nLXdpdGgtYW50aWdyYXZpdHlzLXRlYW13b3JrLWZlYXR1cmUlMkYlN0NBZHZhbmNpbmclMjBzY2llbmNlJTIwYW5kJTIwZW5naW5lZXJpbmclMjB3aXRoJTIwQW50aWdyYXZpdHkncyUyMCUyRnRlYW13b3JrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTY4MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxMyUzQTIwJTNBNDMlMjAlMkIwMDAw",
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "pubDate": "Sat, 14 Nov 2026 13:20:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWZmLm9yZyUyRmRlZXBsaW5rcyUyRjIwMjYlMkYxMSUyRnRlY2gtY29tcGFuaWVzLWFyZS10cnlpbmctc2hpZnQtZW50aXJlLWNvbmNlcHQtcHJpdmFjeS1hZ2FpbiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVmZi5vcmclMkZkZWVwbGlua3MlMkYyMDI2JTJGMTElMkZ0ZWNoLWNvbXBhbmllcy1hcmUtdHJ5aW5nLXNoaWZ0LWVudGlyZS1jb25jZXB0LXByaXZhY3ktYWdhaW4lN0NUZWNoJTIwQ29tcGFuaWVzJTIwQXJlJTIwVHJ5aW5nJTIwdG8lMjBTaGlmdCUyMHRoZSUyMENvbmNlcHQlMjBvZiUyMFByaXZhY3klMjAoQWdhaW4pJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTY2MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxMiUzQTQ1JTNBNDUlMjAlMkIwMDAw",
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "pubDate": "Sat, 14 Nov 2026 12:45:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb25rZXlpc2xhbmQucGFnZXMuZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZtb25rZXlpc2xhbmQucGFnZXMuZGV2JTJGJTdDTW9ua2V5JTIwSXNsYW5kJTNBJTIwYWxsJTIwMTMlMjB2ZXJzaW9ucyUyMHNpZGUlMjBieSUyMHNpZGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ5MzkwNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE0JTIwTm92JTIwMjAyNiUyMDA0JTNBMjMlM0EzMCUyMCUyQjAwMDA",
+      "title": "Monkey Island: all 13 versions side by side",
+      "pubDate": "Sat, 14 Nov 2026 04:23:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvd2VydXAuY29tJTJGMzU0ODE0JTJGbnZpZGlhLWFsbGVnZWRseS1lbmdpbmVlcmVkLXNjYXJjaXR5LWJ5LWZ1bmRpbmctYWktc3RhcnR1cHMtdG8tYnV5LWl0cy1ncHVzJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaHBvd2VydXAuY29tJTJGMzU0ODE0JTJGbnZpZGlhLWFsbGVnZWRseS1lbmdpbmVlcmVkLXNjYXJjaXR5LWJ5LWZ1bmRpbmctYWktc3RhcnR1cHMtdG8tYnV5LWl0cy1ncHVzJTdDTnZpZGlhJTIwYWxsZWdlZGx5JTIwZW5naW5lZXJlZCUyMHNjYXJjaXR5JTIwYnklMjBmdW5kaW5nJTIwQUklMjBzdGFydHVwcyUyMHRvJTIwYnV5JTIwaXRzJTIwR1BVcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDkzMjUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMDIlM0E1MiUzQTU5JTIwJTJCMDAwMA",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
     }
   ]

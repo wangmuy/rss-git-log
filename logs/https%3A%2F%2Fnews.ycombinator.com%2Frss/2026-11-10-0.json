@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-10",
     "newestItemDate": "2026-11-10",
-    "itemCount": 45,
-    "generatedAt": "2026-11-12T16:53:19.520Z"
+    "itemCount": 48,
+    "generatedAt": "2026-11-14T15:10:56.276Z"
   },
   "items": [
     {
@@ -276,6 +276,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0eWxlcmVsdG9uLmNvbSUyRnBvc3RzJTJGZGVjb2RpbmctcmV4cGFpbnQtZmlsZXMtaW4tb2RpbiUyRiU3Q2h0dHBzJTNBJTJGJTJGdHlsZXJlbHRvbi5jb20lMkZwb3N0cyUyRmRlY29kaW5nLXJleHBhaW50LWZpbGVzLWluLW9kaW4lMkYlN0NEZWNvZGluZyUyMFJFWFBhaW50JTIwRmlsZXMlMjBpbiUyME9kaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQzNjM2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDA1JTNBMTglM0E0MiUyMCUyQjAwMDA",
       "title": "Decoding REXPaint Files in Odin",
       "pubDate": "Tue, 10 Nov 2026 05:18:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGMHhkZWFkZjFzaCUyRlQxRE1BSSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRjB4ZGVhZGYxc2glMkZUMURNQUklN0NTaG93JTIwSE4lM0ElMjBJJTIwaGF2ZSUyMHRyYWluZWQlMjAxNSUyMGJsb29kJTIwZ2x1Y29zZSUyMGZvcmVjYXN0aW5nJTIwbW9kZWxzJTIwb24lMjBteSUyMG93biUyMGRhdGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0NDc2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDEwJTIwTm92JTIwMjAyNiUyMDE5JTNBMDclM0E1MyUyMCUyQjAwMDA",
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "pubDate": "Tue, 10 Nov 2026 19:07:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnVtaWNoLmVkdSUyRmdlbmVyYXRpdmUtYWktdXNlcy1tb3JlLWVuZXJneS1vbi1ub24tZW5nbGlzaC10ZXh0JTJGJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnVtaWNoLmVkdSUyRmdlbmVyYXRpdmUtYWktdXNlcy1tb3JlLWVuZXJneS1vbi1ub24tZW5nbGlzaC10ZXh0JTJGJTdDR2VuZXJhdGl2ZSUyMEFJJTIwdXNlcyUyMG1vcmUlMjBlbmVyZ3klMjBvbiUyMG5vbi1FbmdsaXNoJTIwdGV4dCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQxNDQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTUlM0EwNyUzQTI4JTIwJTJCMDAwMA",
+      "title": "Generative AI uses more energy on non-English text",
+      "pubDate": "Tue, 10 Nov 2026 15:07:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzby5sb25nLnRoYW5rcy5maXNoJTJGd2h5LXBpLXdoZW4taS1oYXZlLWFuLW9sZC1waG9uZSUyRiU3Q2h0dHBzJTNBJTJGJTJGc28ubG9uZy50aGFua3MuZmlzaCUyRndoeS1waS13aGVuLWktaGF2ZS1hbi1vbGQtcGhvbmUlMkYlN0NXaHklMjBnZXQlMjBhbiUyMGV4cGVuc2l2ZSUyMFBpJTIwd2hlbiUyMEklMjBoYXZlJTIwYW4lMjBvbGQlMjBwaG9uZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDQwNzA5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTAlMjBOb3YlMjAyMDI2JTIwMTQlM0ExNiUzQTA1JTIwJTJCMDAwMA",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "pubDate": "Tue, 10 Nov 2026 14:16:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-10-0.json"
     }
   ]
