@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-15",
     "newestItemDate": "2026-11-15",
-    "itemCount": 6,
-    "generatedAt": "2026-11-15T06:47:14.879Z"
+    "itemCount": 17,
+    "generatedAt": "2026-11-15T15:42:55.681Z"
   },
   "items": [
     {
@@ -42,6 +42,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZib2JiaWVjLmdpdGh1Yi5pbyUyRmphbWFpY2FuLWZvbnQuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYm9iYmllYy5naXRodWIuaW8lMkZqYW1haWNhbi1mb250Lmh0bWwlN0NTaG93JTIwSE4lM0ElMjBBJTIwY3VzdG9tJTIwZm9udCUyMGJhc2VkJTIwb24lMjB0aGUlMjBKYW1haWNhbiUyMGZsYWclMjBhbHBoYWJldCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTAyODM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMDAlM0E1NiUzQTQ1JTIwJTJCMDAwMA",
       "title": "Show HN: A custom font based on the Jamaican flag alphabet",
       "pubDate": "Sun, 15 Nov 2026 00:56:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxNSUyRmJ1c2luZXNzJTJGYW50aHJvcGljLWlwby1maWxpbmctcHJvc3BlY3R1cy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxNSUyRmJ1c2luZXNzJTJGYW50aHJvcGljLWlwby1maWxpbmctcHJvc3BlY3R1cy5odG1sJTdDQSUyMEh1bWFuJTIwUmVhZHMlMjB0aGUlMjBBbnRocm9waWMlMjBJUE8lMjBGaWxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNzUxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDE1JTNBMTglM0EwNiUyMCUyQjAwMDA",
+      "title": "A Human Reads the Anthropic IPO Filing",
+      "pubDate": "Sun, 15 Nov 2026 15:18:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWt1Yi5qYW5raWV3aWN6Lm9yZyUyRmJsb2clMkZhaS1jb2RlLW9wZW4tc291cmNlJTJGJTdDaHR0cHMlM0ElMkYlMkZqYWt1Yi5qYW5raWV3aWN6Lm9yZyUyRmJsb2clMkZhaS1jb2RlLW9wZW4tc291cmNlJTJGJTdDQWxsJTIwQUktZ2VuZXJhdGVkJTIwY29kZSUyMHNob3VsZCUyMGJlJTIwT3BlbiUyMFNvdXJjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA3MzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTQlM0E0NiUzQTU4JTIwJTJCMDAwMA",
+      "title": "All AI-generated code should be Open Source",
+      "pubDate": "Sun, 15 Nov 2026 14:46:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYXRhdHJhY2tlci5pZXRmLm9yZyUyRmRvYyUyRmRyYWZ0LWJhbmZmeS1odHRwYmlzLW5vdC1hLWZyZWV6ZXIlMkYlN0NodHRwcyUzQSUyRiUyRmRhdGF0cmFja2VyLmlldGYub3JnJTJGZG9jJTJGZHJhZnQtYmFuZmZ5LWh0dHBiaXMtbm90LWEtZnJlZXplciUyRiU3Q1RoZSUyMEh5cGVydGV4dCUyMFRyYW5zZmVyJTIwUHJvdG9jb2wlMjBTdGF0dXMlMjBDb2RlJTIwNDgzJTIwKEknbSUyME5vdCUyMGElMjBGcmVlemVyKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA3MjA2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTQlM0EzMSUzQTUyJTIwJTJCMDAwMA",
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "pubDate": "Sun, 15 Nov 2026 14:31:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9nMjEuZGFkZ3VtLmNvbSUyRjExNi5odG1sJTdDaHR0cHMlM0ElMkYlMkZwcm9nMjEuZGFkZ3VtLmNvbSUyRjExNi5odG1sJTdDVGhpbmdzJTIwVGhhdCUyMFR1cmJvJTIwUGFzY2FsJTIwSXMlMjBTbWFsbGVyJTIwVGhhbiUyMCgyMDExKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA2ODk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTMlM0E0NCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "pubDate": "Sun, 15 Nov 2026 13:44:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNhbm9yYWsuY29tJTJGdGhlLW1hY2Jvb2stcHJvcy1vbGVkLXB3bS1wcm9ibGVtLXdoZW4tYS1iZXR0ZXItZGlzcGxheS1iZWNvbWVzLXdvcnNlLXRvLXVzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFjYW5vcmFrLmNvbSUyRnRoZS1tYWNib29rLXByb3Mtb2xlZC1wd20tcHJvYmxlbS13aGVuLWEtYmV0dGVyLWRpc3BsYXktYmVjb21lcy13b3JzZS10by11c2UlMkYlN0NUaGUlMjBNYWNCb29rJTIwUHJvJ3MlMjBPTEVEJTIwUFdNJTIwUHJvYmxlbSUzQSUyMFdoZW4lMjBhJTIwJ0JldHRlciclMjBEaXNwbGF5JTIwQmVjb21lcyUyMFdvcnNlJTIwdG8lMjBVc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNjcxOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDEzJTNBMTUlM0EyMiUyMCUyQjAwMDA",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsdWN5cGVyby5jb20lMkZsdWN5bmVzLmh0bWwlN0NodHRwcyUzQSUyRiUyRmx1Y3lwZXJvLmNvbSUyRmx1Y3luZXMuaHRtbCU3Q0ElMjBORVMlMjBlbXVsYXRvciUyMHdyaXR0ZW4lMjBpbiUyME9kaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNjU4OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDEyJTNBNTElM0E0NyUyMCUyQjAwMDA",
+      "title": "A NES emulator written in Odin",
+      "pubDate": "Sun, 15 Nov 2026 12:51:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWdhemluZS5zZWJhc3RpYW5yYXNjaGthLmNvbSUyRnAlMkZ1bmRlcnN0YW5kaW5nLXBvc2l0aW9uYWwtZW1iZWRkaW5ncyU3Q2h0dHBzJTNBJTJGJTJGbWFnYXppbmUuc2ViYXN0aWFucmFzY2hrYS5jb20lMkZwJTJGdW5kZXJzdGFuZGluZy1wb3NpdGlvbmFsLWVtYmVkZGluZ3MlN0NVbmRlcnN0YW5kaW5nJTIwUG9zaXRpb25hbCUyMEVtYmVkZGluZ3MlMjBpbiUyME1vZGVybiUyMExMTXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNjM3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDEyJTNBMTQlM0EwNiUyMCUyQjAwMDA",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "pubDate": "Sun, 15 Nov 2026 12:14:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxNSUyRnVzJTJGcG9saXRpY3MlMkZsdXRuaWNrLXB1c2hlZC10by13ZWFrZW4tY2hpcC1ydWxlcy10aGF0LW92ZXJsYXAtd2l0aC1oaXMtZmFtaWx5LWJ1c2luZXNzLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5ueXRpbWVzLmNvbSUyRjIwMjYlMkYxMSUyRjE1JTJGdXMlMkZwb2xpdGljcyUyRmx1dG5pY2stcHVzaGVkLXRvLXdlYWtlbi1jaGlwLXJ1bGVzLXRoYXQtb3ZlcmxhcC13aXRoLWhpcy1mYW1pbHktYnVzaW5lc3MuaHRtbCU3Q0x1dG5pY2slMjBQdXNoZWQlMjB0byUyMFdlYWtlbiUyMENoaXAlMjBSdWxlcyUyMFRoYXQlMjBPdmVybGFwJTIwd2l0aCUyMEhpcyUyMEZhbWlseSUyMEJ1c2luZXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDYxODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAxMSUzQTQwJTNBNTElMjAlMkIwMDAw",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "pubDate": "Sun, 15 Nov 2026 11:40:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGFjZS5zdGFja2V4Y2hhbmdlLmNvbSUyRnF1ZXN0aW9ucyUyRjM3Nzc1JTdDaHR0cHMlM0ElMkYlMkZzcGFjZS5zdGFja2V4Y2hhbmdlLmNvbSUyRnF1ZXN0aW9ucyUyRjM3Nzc1JTdDV2h5JTIwZGlkJTIwc29tZSUyMEFwb2xsbyUyMG1pc3Npb25zJTIwY2FycnklMjBhJTIwZ3JlbmFkZSUyMGxhdW5jaGVyJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDUyNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAwOSUzQTA2JTNBNDMlMjAlMkIwMDAw",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "pubDate": "Sun, 15 Nov 2026 09:06:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWNrLWJsYWNrLmNvbSUyRmRhbmt3aWtpJTJGaW5kZXgucGhwJTNGdGl0bGUlM0RCb29rX2xpc3RfZm9yX3N0cmVldGZpZ2h0aW5nX2NvbXB1dGVyX3NjaWVudGlzdHMlN0NodHRwcyUzQSUyRiUyRm5pY2stYmxhY2suY29tJTJGZGFua3dpa2klMkZpbmRleC5waHAlM0Z0aXRsZSUzREJvb2tfbGlzdF9mb3Jfc3RyZWV0ZmlnaHRpbmdfY29tcHV0ZXJfc2NpZW50aXN0cyU3Q0Jvb2slMjBsaXN0JTIwZm9yJTIwc3RyZWV0ZmlnaHRpbmclMjBjb21wdXRlciUyMHNjaWVudGlzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNDcxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDA3JTNBMDglM0E1MCUyMCUyQjAwMDA",
+      "title": "Book list for streetfighting computer scientists",
+      "pubDate": "Sun, 15 Nov 2026 07:08:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXRic2Qub3JnJTJGfm5pYSUyRmRpc2stZW5jcnlwdCUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV0YnNkLm9yZyUyRn5uaWElMkZkaXNrLWVuY3J5cHQlMkYlN0NEaXNrJTIwZW5jcnlwdGlvbiUyMG9uJTIwTmV0QlNEJTIwJUUyJTgwJTkzJTIwYWNoaWV2aW5nJTIwc2VjcmVjeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA0Mjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMDUlM0EyOSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "pubDate": "Sun, 15 Nov 2026 05:29:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
     }
   ]

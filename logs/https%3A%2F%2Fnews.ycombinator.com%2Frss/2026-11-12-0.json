@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-12",
     "newestItemDate": "2026-11-12",
-    "itemCount": 48,
-    "generatedAt": "2026-11-15T06:47:14.880Z"
+    "itemCount": 50,
+    "generatedAt": "2026-11-15T15:42:55.682Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZnRrLmNvbSUyRnAlMkZ0ZXN0aW5nLWEtdHJhc2gtY2FuLWZhcmFkYXktY2FnZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmplZmZ0ay5jb20lMkZwJTJGdGVzdGluZy1hLXRyYXNoLWNhbi1mYXJhZGF5LWNhZ2UlN0NUZXN0aW5nJTIwYSUyMHRyYXNoJTIwY2FuJTIwRmFyYWRheSUyMGNhZ2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2NzI3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDE0JTNBMDQlM0EyNyUyMCUyQjAwMDA",
       "title": "Testing a trash can Faraday cage",
       "pubDate": "Thu, 12 Nov 2026 14:04:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdWJhbHBpbmVjaXJjdWl0cy5jb20lMkZjaGFzaW5nLWFuLWF1ZGlvLWFydGlmYWN0LW9uLXBvd2VyLWxvc3MlMkYlN0NodHRwcyUzQSUyRiUyRnN1YmFscGluZWNpcmN1aXRzLmNvbSUyRmNoYXNpbmctYW4tYXVkaW8tYXJ0aWZhY3Qtb24tcG93ZXItbG9zcyUyRiU3Q0NoYXNpbmclMjBhbiUyMGF1ZGlvJTIwYXJ0aWZhY3QlMjBvbiUyMHBvd2VyJTIwbG9zcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc1NzU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMjMlM0ExMSUzQTI1JTIwJTJCMDAwMA",
+      "title": "Chasing an audio artifact on power loss",
+      "pubDate": "Thu, 12 Nov 2026 23:11:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGbmV3cyUyRmFydGljbGVzJTJGYzZqZG1kenYyNXI5byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jby51ayUyRm5ld3MlMkZhcnRpY2xlcyUyRmM2amRtZHp2MjVyOW8lN0NIYW5kd3JpdHRlbiUyMDIwMC15ZWFyLW9sZCUyMGRpc21pc3NhbCUyMG5vdGljZSUyMGZvdW5kJTIwb24lMjByb29mJTIwdGlsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc0NTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMjElM0EyNyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "pubDate": "Thu, 12 Nov 2026 21:27:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
     }
   ]

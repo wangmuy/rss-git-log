@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-11",
     "newestItemDate": "2026-11-11",
-    "itemCount": 59,
-    "generatedAt": "2026-11-15T06:47:14.880Z"
+    "itemCount": 61,
+    "generatedAt": "2026-11-15T15:42:55.682Z"
   },
   "items": [
     {
@@ -360,6 +360,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubm90ZXNmcm9tdGhlcm9hZC5jb20lMkZldXJvcGElMkZjaXRydXMtZmFtaWx5LXRyZWUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5vdGVzZnJvbXRoZXJvYWQuY29tJTJGZXVyb3BhJTJGY2l0cnVzLWZhbWlseS10cmVlLmh0bWwlN0NUaGUlMjBTaWNpbGlhbiUyMENpdHJ1cyUyMEZhbWlseSUyMFRyZWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ0ODg5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDExJTIwTm92JTIwMjAyNiUyMDAxJTNBNTIlM0EwMCUyMCUyQjAwMDA",
       "title": "The Sicilian Citrus Family Tree",
       "pubDate": "Wed, 11 Nov 2026 01:52:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiaXRiYW5rc29mdHdhcmUuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjExJTJGaG93LXRvLXJlYWQtY29kZXMtZnJvbS1tYW55LWlyLXJlbW90ZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZiaXRiYW5rc29mdHdhcmUuYmxvZ3Nwb3QuY29tJTJGMjAyNiUyRjExJTJGaG93LXRvLXJlYWQtY29kZXMtZnJvbS1tYW55LWlyLXJlbW90ZS5odG1sJTdDSG93JTIwdG8lMjByZWFkJTIwY29kZXMlMjBmcm9tJTIwKG1hbnkpJTIwSVIlMjByZW1vdGUlMjBjb250cm9scyUyMHdpdGglMjBhcyUyMGxpdHRsZSUyMGNvZGUlMjBhcyUyMHBvc3NpYmxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTc5NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAyMCUzQTA5JTNBMzQlMjAlMkIwMDAw",
+      "title": "How to read codes from (many) IR remote controls with as little code as possible",
+      "pubDate": "Wed, 11 Nov 2026 20:09:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXJkYy5uZXQlMkZyaGl6b21hdGljYXMtaGVybWVzLWFuZC1tZXJjdXJ5LWV4cGFuZC1vcGVuLXNvdXJjZS1oZi1jb21tdW5pY2F0aW9ucy1mb3ItcmVtb3RlLWNvbW11bml0aWVzLXdoaWxlLWFwcGVhbGluZy10by1leHBlcmltZW50ZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYXJkYy5uZXQlMkZyaGl6b21hdGljYXMtaGVybWVzLWFuZC1tZXJjdXJ5LWV4cGFuZC1vcGVuLXNvdXJjZS1oZi1jb21tdW5pY2F0aW9ucy1mb3ItcmVtb3RlLWNvbW11bml0aWVzLXdoaWxlLWFwcGVhbGluZy10by1leHBlcmltZW50ZXJzJTJGJTdDT3Blbi1Tb3VyY2UlMjBIRiUyMENvbW11bmljYXRpb25zJTIwZm9yJTIwUmVtb3RlJTIwQ29tbXVuaXRpZXMlMjBhbmQlMjBFeHBlcmltZW50ZXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NTIwMzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxMSUyME5vdiUyMDIwMjYlMjAxMSUzQTExJTNBMjIlMjAlMkIwMDAw",
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "pubDate": "Wed, 11 Nov 2026 11:11:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-11-0.json"
     }
   ]

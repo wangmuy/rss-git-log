@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-13",
     "newestItemDate": "2026-11-13",
-    "itemCount": 46,
-    "generatedAt": "2026-11-15T06:47:14.880Z"
+    "itemCount": 50,
+    "generatedAt": "2026-11-15T15:42:55.682Z"
   },
   "items": [
     {
@@ -282,6 +282,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmb3JnZS1ibG9nLmdpdGh1Yi5pbyUyRnBvc3RzJTJGcnVzdC1zdGQtbWVtb3J5LXNhZmV0eSUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9yZ2UtYmxvZy5naXRodWIuaW8lMkZwb3N0cyUyRnJ1c3Qtc3RkLW1lbW9yeS1zYWZldHklMkYlN0NNZW1vcnklMjBTYWZldHklMjBCdWdzJTIwaW4lMjBSdXN0JTIwU3RhbmRhcmQlMjBMaWJyYXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0Nzg3MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAwNSUzQTIyJTNBMDglMjAlMkIwMDAw",
       "title": "Memory Safety Bugs in Rust Standard Library",
       "pubDate": "Fri, 13 Nov 2026 05:22:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyb3J6LmlvJTJGd3JpdGluZyUyRnNlbWljaXJjbGUtcGFja2luZyU3Q2h0dHBzJTNBJTJGJTJGcm9yei5pbyUyRndyaXRpbmclMkZzZW1pY2lyY2xlLXBhY2tpbmclN0NTZW1pY2lyY2xlJTIwUGFja2luZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg0MjM0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMTQlM0E0MiUzQTU3JTIwJTJCMDAwMA",
+      "title": "Semicircle Packing",
+      "pubDate": "Fri, 13 Nov 2026 14:42:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmlrbGFzcm95LmNvbSUyRmNhcnRvbi1jbG9jayUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm5pa2xhc3JveS5jb20lMkZjYXJ0b24tY2xvY2slMkYlN0NTaG93JTIwSE4lM0ElMjBDYXJ0b24lMjBDbG9jayUyMCVFMiU4MCU5MyUyMEElMjB3b3JraW5nJTIwcGVuZHVsdW0lMjBjbG9jayUyMG1hZGUlMjBmcm9tJTIwZW1wdHklMjBkcmluayUyMGNhcnRvbnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ4MjI3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDEyJTNBMDAlM0ExOCUyMCUyQjAwMDA",
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "pubDate": "Fri, 13 Nov 2026 12:00:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVyYXRvcjB4LmNvbSUyRmZpZWxkLW5vdGVzJTJGcXdlbi1jb252ZXJzYXRpb24tc3RhdGUtc3BhY2UlMkYlN0NodHRwcyUzQSUyRiUyRm9wZXJhdG9yMHguY29tJTJGZmllbGQtbm90ZXMlMkZxd2VuLWNvbnZlcnNhdGlvbi1zdGF0ZS1zcGFjZSUyRiU3Q1doYXQlMjB0aG91c2FuZHMlMjBvZiUyMGNvbnZlcnNhdGlvbnMlMjBsb29rJTIwbGlrZSUyMGluc2lkZSUyMGElMjBsYW5ndWFnZSUyMG1vZGVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0ODEzMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAxMCUzQTI2JTNBMDElMjAlMkIwMDAw",
+      "title": "What thousands of conversations look like inside a language model",
+      "pubDate": "Fri, 13 Nov 2026 10:26:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0c29yYWNsZS5ycyUyRiU3Q2h0dHBzJTNBJTJGJTJGdHNvcmFjbGUucnMlMkYlN0NTdHJpY3RseSUyMG1vbm90b25pYyUyMHRpbWVzdGFtcHMlMjBhbmQlMjBnYXBsZXNzJTIwc2VxdWVuY2VzJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0ODEwNTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAxMCUzQTA0JTNBMzclMjAlMkIwMDAw",
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+      "pubDate": "Fri, 13 Nov 2026 10:04:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
     }
   ]
