@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-12",
     "newestItemDate": "2026-11-12",
-    "itemCount": 50,
-    "generatedAt": "2026-11-15T15:42:55.682Z"
+    "itemCount": 54,
+    "generatedAt": "2026-11-15T21:05:39.192Z"
   },
   "items": [
     {
@@ -306,6 +306,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGbmV3cyUyRmFydGljbGVzJTJGYzZqZG1kenYyNXI5byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jby51ayUyRm5ld3MlMkZhcnRpY2xlcyUyRmM2amRtZHp2MjVyOW8lN0NIYW5kd3JpdHRlbiUyMDIwMC15ZWFyLW9sZCUyMGRpc21pc3NhbCUyMG5vdGljZSUyMGZvdW5kJTIwb24lMjByb29mJTIwdGlsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc0NTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMjElM0EyNyUzQTAxJTIwJTJCMDAwMA",
       "title": "Handwritten 200-year-old dismissal notice found on roof tile",
       "pubDate": "Thu, 12 Nov 2026 21:27:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpZGlvdGtpbmcub3JnJTJGYXJjaGl2ZXMlMkYyMDI2JTJGMTAlMkZidWxsZXQtZG9kZ2VkLTMlMkYlN0NodHRwcyUzQSUyRiUyRmlkaW90a2luZy5vcmclMkZhcmNoaXZlcyUyRjIwMjYlMkYxMCUyRmJ1bGxldC1kb2RnZWQtMyUyRiU3Q0J1bGxldCUyMERvZGdlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY4NDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTUlM0EwMCUzQTExJTIwJTJCMDAwMA",
+      "title": "Bullet Dodged",
+      "pubDate": "Thu, 12 Nov 2026 15:00:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZweXB5Lm9yZyUyRnBvc3RzJTJGMjAyNiUyRjExJTJGMjAteWVhcnMtb2YtcHlyb2xvZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZweXB5Lm9yZyUyRnBvc3RzJTJGMjAyNiUyRjExJTJGMjAteWVhcnMtb2YtcHlyb2xvZy5odG1sJTdDMjAlMjBZZWFycyUyMG9mJTIwUHlyb2xvZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY3NTM5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTQlM0ExNSUzQTI4JTIwJTJCMDAwMA",
+      "title": "20 Years of Pyrolog",
+      "pubDate": "Thu, 12 Nov 2026 14:15:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGbWVwc2k3Sk5LWWVqcTl3cnklMkZldmFsLWF3YXJlbmVzcy12cy1ldmFsLXBhcmFub2lhJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGVzc3dyb25nLmNvbSUyRnBvc3RzJTJGbWVwc2k3Sk5LWWVqcTl3cnklMkZldmFsLWF3YXJlbmVzcy12cy1ldmFsLXBhcmFub2lhJTdDRXZhbCUyMEF3YXJlbmVzcyUyMHZzLiUyMEV2YWwlMjBQYXJhbm9pYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDY1Njc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMTElM0EyMyUzQTAyJTIwJTJCMDAwMA",
+      "title": "Eval Awareness vs. Eval Paranoia",
+      "pubDate": "Thu, 12 Nov 2026 11:23:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0RXUGozYVEteHhwSSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEV1BqM2FRLXh4cEklN0NDbGF1ZGUlMjBDb2RlJTIwYW5kJTIwQ29kZXglMjByZXZlcnNlJTIwZW5naW5lZXJlZCUyMG15JTIwMTk5NCUyMEplZXAncyUyMEVDVSUyMG92ZXIlMjBhJTIwJTI0MyUyMEFyZHVpbm8lMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDYzMzk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTIlMjBOb3YlMjAyMDI2JTIwMDUlM0EyOSUzQTI0JTIwJTJCMDAwMA",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "pubDate": "Thu, 12 Nov 2026 05:29:24 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
     }
   ]

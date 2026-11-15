@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-15",
     "newestItemDate": "2026-11-15",
-    "itemCount": 17,
-    "generatedAt": "2026-11-15T15:42:55.681Z"
+    "itemCount": 28,
+    "generatedAt": "2026-11-15T21:05:39.192Z"
   },
   "items": [
     {
@@ -108,6 +108,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuZXRic2Qub3JnJTJGfm5pYSUyRmRpc2stZW5jcnlwdCUyRiU3Q2h0dHBzJTNBJTJGJTJGbmV0YnNkLm9yZyUyRn5uaWElMkZkaXNrLWVuY3J5cHQlMkYlN0NEaXNrJTIwZW5jcnlwdGlvbiUyMG9uJTIwTmV0QlNEJTIwJUUyJTgwJTkzJTIwYWNoaWV2aW5nJTIwc2VjcmVjeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA0Mjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMDUlM0EyOSUzQTU0JTIwJTJCMDAwMA",
       "title": "Disk encryption on NetBSD – achieving secrecy",
       "pubDate": "Sun, 15 Nov 2026 05:29:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmthbnVtZGF0YS5jb20lMkZyZXNlYXJjaCUyRmhvdXNlLXRyYWRlcyU3Q2h0dHBzJTNBJTJGJTJGYXJrYW51bWRhdGEuY29tJTJGcmVzZWFyY2glMkZob3VzZS10cmFkZXMlN0NEbyUyMEhvdXNlJTIwbWVtYmVycyclMjBzdG9jayUyMHRyYWRlcyUyMGJlYXQlMjB0aGUlMjBtYXJrZXQlM0YlMjBBJTIwdGVzdCUyMG9mJTIwOCUyQzkwMCUyMHRyYWRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTEwMDA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTklM0E0NiUzQTAyJTIwJTJCMDAwMA",
+      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "pubDate": "Sun, 15 Nov 2026 19:46:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3J0dW5lLmNvbSUyRjIwMjYlMkYxMSUyRjE0JTJGYWxwaGEtc2Nob29sLWFpLXN0dWRlbnRzLXR1aXRpb24tbGVhcm5pbmctZ29hbHMlMkYlN0NodHRwcyUzQSUyRiUyRmZvcnR1bmUuY29tJTJGMjAyNiUyRjExJTJGMTQlMkZhbHBoYS1zY2hvb2wtYWktc3R1ZGVudHMtdHVpdGlvbi1sZWFybmluZy1nb2FscyUyRiU3Q1BhcmVudHMlMjBwYXklMjAlMjQ3NWslMjBmb3IlMjBBbHBoYSdzJTIwQUklMjBzY2hvb2wuJTIwSGFsZiUyMG9mJTIwaXRzJTIwc3R1ZGVudHMlMjBtaXNzZWQlMjBtYXRoJTIwdGFyZ2V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDk5NTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAxOSUzQTM5JTNBNDYlMjAlMkIwMDAw",
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "pubDate": "Sun, 15 Nov 2026 19:39:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRjQ1MzgzZDg2LTMzYzQtNGQ5OS04NmU1LTVlMDU4ZDM1NjdjMSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkY0NTM4M2Q4Ni0zM2M0LTRkOTktODZlNS01ZTA1OGQzNTY3YzElN0NKZW5zZW4lMjBIdWFuZyUyMGRpc2N1c3NlcyUyMGNvbWViYWNrJTIwYXMlMjBOdmlkaWElMjBDRU8lMjB3aXRoJTIwYWxsaWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDk4ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAxOSUzQTMxJTNBMTElMjAlMkIwMDAw",
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "pubDate": "Sun, 15 Nov 2026 19:31:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicnVjZXJvZXR0Z2Vycy5ldSUyRmJsb2clMkZwcm90b21hcHMlMkYlN0NodHRwcyUzQSUyRiUyRmJydWNlcm9ldHRnZXJzLmV1JTJGYmxvZyUyRnByb3RvbWFwcyUyRiU3Q1Byb3RvbWFwcyUzQSUyMFNlbGYtaG9zdGluZyUyMG1hcCUyMHRpbGVzJTIwaGFzJTIwZ290dGVuJTIwY2hlYXAlMjBhbmQlMjBlYXN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDk4MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAxOSUzQTI2JTNBMjIlMjAlMkIwMDAw",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "pubDate": "Sun, 15 Nov 2026 19:26:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZWNsaXBzZS1tb3NxdWl0dG8lMkZtb3NxdWl0dG8lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZlY2xpcHNlLW1vc3F1aXR0byUyRm1vc3F1aXR0byU3Q0VjbGlwc2UlMjBNb3NxdWl0dG8lMjAlRTIlODAlOTMlMjBBbiUyMG9wZW4lMjBzb3VyY2UlMjBNUVRUJTIwYnJva2VyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDk0MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAxOCUzQTM2JTNBNDAlMjAlMkIwMDAw",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "pubDate": "Sun, 15 Nov 2026 18:36:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cxLndkci5kZSUyRm5ydyUyRnJoZWlubGFuZCUyRnJoZWluLWVyZnQta3JlaXMlMkZ0ZWNobmlzY2hlci1kZWZla3QtY2hsb3ItcGhhbnRhc2lhbGFuZC0xMDAuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3MS53ZHIuZGUlMkZucnclMkZyaGVpbmxhbmQlMkZyaGVpbi1lcmZ0LWtyZWlzJTJGdGVjaG5pc2NoZXItZGVmZWt0LWNobG9yLXBoYW50YXNpYWxhbmQtMTAwLmh0bWwlN0NNaWNyb3NvZnQlMjAzNjUlMjBvdXRhZ2UlMjBsZWFkcyUyMHRvJTIwY2hsb3JpbmUlMjBnYXMlMjBwb2lzb25pbmclMjBvZiUyMDE1JTIwaG90ZWwlMjBndWVzdHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwOTQxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDE4JTNBMzYlM0ExMCUyMCUyQjAwMDA",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "pubDate": "Sun, 15 Nov 2026 18:36:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0Q3X0pGM2V0aUF2OCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEN19KRjNldGlBdjglN0NBJTIwc2hvcnQlMjBleHBsYWluZXIlMjBvbiUyMGhvdyUyMEVsJTIwTmklQzMlQjFvJTIwd29ya3MlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA5MzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTglM0EyMyUzQTIxJTIwJTJCMDAwMA",
+      "title": "A short explainer on how El Niño works [video]",
+      "pubDate": "Sun, 15 Nov 2026 18:23:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxNSUyRnNjaWVuY2UlMkZiaXJkYnJhaW4tY3Jvd3MtYmlyZHMtcmVzZWFyY2gtZGVjaXNpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjExJTJGMTUlMkZzY2llbmNlJTJGYmlyZGJyYWluLWNyb3dzLWJpcmRzLXJlc2VhcmNoLWRlY2lzaW9uLmh0bWwlN0MnQmlyZGJyYWluJyUyMElzJTIwYSUyME1pc25vbWVyLiUyMENyb3dzJTIwTWFrZSUyMERlY2lzaW9ucyUyMEZhc3RlciUyMFRoYW4lMjBXZSUyMENhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA5MDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTclM0E1MyUzQTMxJTIwJTJCMDAwMA",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "pubDate": "Sun, 15 Nov 2026 17:53:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ5a2lrby5tZSUyRmVuJTJGYXJ0aWNsZXMlMkYyMTA1Mzg0MDIzMDk0ODM0MDIyJTJGJTdDaHR0cHMlM0ElMkYlMkZ5a2lrby5tZSUyRmVuJTJGYXJ0aWNsZXMlMkYyMTA1Mzg0MDIzMDk0ODM0MDIyJTJGJTdDQ2xpY2UlMjB2MS4wJTIwUmVsZWFzZWQlM0ElMjBXZWxjb21lJTIwdG8lMjBNb2Rlcm4lMjBDJTJCJTJCJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDg3MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAxNyUzQTIyJTNBMzIlMjAlMkIwMDAw",
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "pubDate": "Sun, 15 Nov 2026 17:22:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3NoYmxhaXMuY29tJTJGYmxvZyUyRmVtYWNzLWFzLW15LWJyb3dzZXIlMkYlN0NodHRwcyUzQSUyRiUyRmpvc2hibGFpcy5jb20lMkZibG9nJTJGZW1hY3MtYXMtbXktYnJvd3NlciUyRiU3Q0VtYWNzJTIwSXMlMjBNeSUyMEJyb3dzZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNzU1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDE1JTNBMjElM0EyMSUyMCUyQjAwMDA",
+      "title": "Emacs Is My Browser",
+      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNhbm9yYWsuY29tJTJGdGhlLW1hY2Jvb2stcHJvcy1vbGVkLXB3bS1wcm9ibGVtLXdoZW4tYS1iZXR0ZXItZGlzcGxheS1iZWNvbWVzLXdvcnNlLXRvLXVzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFjYW5vcmFrLmNvbSUyRnRoZS1tYWNib29rLXByb3Mtb2xlZC1wd20tcHJvYmxlbS13aGVuLWEtYmV0dGVyLWRpc3BsYXktYmVjb21lcy13b3JzZS10by11c2UlMkYlN0NUaGUlMjBNYWNCb29rJTIwUHJvJ3MlMjBPTEVEJTIwUFdNJTIwcHJvYmxlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA2NzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTMlM0ExNSUzQTIyJTIwJTJCMDAwMA",
+      "title": "The MacBook Pro's OLED PWM problem",
+      "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
     }
   ]
