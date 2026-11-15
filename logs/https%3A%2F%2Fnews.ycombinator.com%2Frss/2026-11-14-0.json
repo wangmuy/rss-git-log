@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-14",
     "newestItemDate": "2026-11-14",
-    "itemCount": 34,
-    "generatedAt": "2026-11-14T20:47:36.911Z"
+    "itemCount": 38,
+    "generatedAt": "2026-11-15T06:47:14.880Z"
   },
   "items": [
     {
@@ -210,6 +210,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwcm9qZWN0emVyby5nb29nbGUlMkYyMDI2JTJGMTElMkZkaXNjbG9zdXJlLXBvbGljeS5odG1sJTdDaHR0cHMlM0ElMkYlMkZwcm9qZWN0emVyby5nb29nbGUlMkYyMDI2JTJGMTElMkZkaXNjbG9zdXJlLXBvbGljeS5odG1sJTdDUHJvamVjdCUyMFplcm8lMjB3aWxsJTIwZGlzY2xvc2UlMjB2dWxuZXJhYmlsaXRpZXMlMjA5MCUyMGRheXMlMjBhZnRlciUyMHJlcG9ydGluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk2MDUxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTElM0ExMyUzQTE3JTIwJTJCMDAwMA",
       "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
       "pubDate": "Sat, 14 Nov 2026 11:13:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaHNwb3QuY29tJTJGbmV3cyUyRjExNDU1OC1udmlkaWEtZGVsaWJlcmF0ZWx5LWtlcHQtZ3B1LXByaWNlcy1oaWdoLXRocm91Z2gtY2lyY3VsYXIuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRlY2hzcG90LmNvbSUyRm5ld3MlMkYxMTQ1NTgtbnZpZGlhLWRlbGliZXJhdGVseS1rZXB0LWdwdS1wcmljZXMtaGlnaC10aHJvdWdoLWNpcmN1bGFyLmh0bWwlN0NOdmlkaWElMjBkZWxpYmVyYXRlbHklMjBrZXB0JTIwR1BVJTIwcHJpY2VzJTIwaGlnaCUyMHRocm91Z2glMjBjaXJjdWxhciUyMGZpbmFuY2luZyUyMGRlYWxzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MDE2MzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAyMiUzQTI2JTNBMzAlMjAlMkIwMDAw",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "pubDate": "Sat, 14 Nov 2026 22:26:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXRyb2NvbXB1dGluZy5zdGFja2V4Y2hhbmdlLmNvbSUyRnF1ZXN0aW9ucyUyRjE3OTU3JTdDaHR0cHMlM0ElMkYlMkZyZXRyb2NvbXB1dGluZy5zdGFja2V4Y2hhbmdlLmNvbSUyRnF1ZXN0aW9ucyUyRjE3OTU3JTdDSG93JTIwZGlkJTIwV296JTIwd3JpdGUlMjB0aGUlMjBBcHBsZSUyMDElMjBCQVNJQyUyMGJlZm9yZSUyMGJ1aWxkaW5nJTIwdGhlJTIwY29tcHV0ZXIlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwMTU5NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDE0JTIwTm92JTIwMjAyNiUyMDIyJTNBMjIlM0E0OSUyMCUyQjAwMDA",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "pubDate": "Sat, 14 Nov 2026 22:22:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2V4LmNvbSUyRmxhdW5jaGVzJTJGc3RhcnNoaXAtZmxpZ2h0LTE1JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc3BhY2V4LmNvbSUyRmxhdW5jaGVzJTJGc3RhcnNoaXAtZmxpZ2h0LTE1JTdDU3BhY2VYJTIwY2F0Y2hlcyUyMHRoZSUyMFN0YXJzaGlwJTIwdG8lMjBlbmQlMjBGbGlnaHQlMjAxNSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTAwOTYzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMjElM0EyMiUzQTI0JTIwJTJCMDAwMA",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "pubDate": "Sat, 14 Nov 2026 21:22:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6d2lzY2hlbnp1Z3MuY29tJTJGMjAyNiUyRjExJTJGMDMlMkZhLWZhbWlseS10cmVlLW9mLXNvZnR3YXJlLWpvYi10aXRsZXMlMkYlN0NodHRwcyUzQSUyRiUyRnp3aXNjaGVuenVncy5jb20lMkYyMDI2JTJGMTElMkYwMyUyRmEtZmFtaWx5LXRyZWUtb2Ytc29mdHdhcmUtam9iLXRpdGxlcyUyRiU3Q0ElMjBmYW1pbHklMjB0cmVlJTIwb2YlMjBzb2Z0d2FyZSUyMGpvYiUyMHRpdGxlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDk5MDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMTQlMjBOb3YlMjAyMDI2JTIwMTclM0E0NSUzQTE5JTIwJTJCMDAwMA",
+      "title": "A family tree of software job titles",
+      "pubDate": "Sat, 14 Nov 2026 17:45:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
     }
   ]
