@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-13",
     "newestItemDate": "2026-11-13",
-    "itemCount": 55,
-    "generatedAt": "2026-11-16T06:45:55.164Z"
+    "itemCount": 57,
+    "generatedAt": "2026-11-16T18:40:27.208Z"
   },
   "items": [
     {
@@ -336,6 +336,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjExJTJGZG9jdG9yLW1lZGljaW5lLWNhbmNlci1jdXJlLXBpbGwtaGlzdG9yeS5odG1sJTdDaHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjExJTJGZG9jdG9yLW1lZGljaW5lLWNhbmNlci1jdXJlLXBpbGwtaGlzdG9yeS5odG1sJTdDVGhlJTIwTWlyYWNsZSUyMEN1cmUlM0ElMjBJbiUyMDE5NzclMkMlMjBhJTIwZHJ1ZyUyMHJlamVjdGVkJTIwYnklMjBkb2N0b3JzJTIwYmVjYW1lJTIwYSUyMHNlbnNhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc5NDA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMDYlM0E1OCUzQTQxJTIwJTJCMDAwMA",
       "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
       "pubDate": "Fri, 13 Nov 2026 06:58:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWV2YmxvZy5jb20lMkZmb3J1bSUyRnRlc3RnZWFyJTJGb29zLWFuLW9wZW4tb3BlcmF0aW5nLXN5c3RlbS1mb3ItdGhlLXJpZ29sLXNjb3BlcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVldmJsb2cuY29tJTJGZm9ydW0lMkZ0ZXN0Z2VhciUyRm9vcy1hbi1vcGVuLW9wZXJhdGluZy1zeXN0ZW0tZm9yLXRoZS1yaWdvbC1zY29wZXMlMkYlN0NPT1MlMjAlRTIlODAlOTMlMjBhbiUyMG9wZW4lMjBvcGVyYXRpbmclMjBzeXN0ZW0lMjBmb3IlMjB0aGUlMjBSaWdvbCUyMFNjb3BlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDkwMTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMjElM0EzNiUzQTU5JTIwJTJCMDAwMA",
+      "title": "OOS – an open operating system for the Rigol Scopes",
+      "pubDate": "Fri, 13 Nov 2026 21:36:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmNvcm5lbGwuZWR1JTJGc3RvcmllcyUyRjIwMjYlMkYxMSUyRnJlc2VhcmNoZXJzLXRyYWNrLXdob2xlLWJvZHktbW92ZW1lbnQtanVzdC1zbWFydHdhdGNoJTdDaHR0cHMlM0ElMkYlMkZuZXdzLmNvcm5lbGwuZWR1JTJGc3RvcmllcyUyRjIwMjYlMkYxMSUyRnJlc2VhcmNoZXJzLXRyYWNrLXdob2xlLWJvZHktbW92ZW1lbnQtanVzdC1zbWFydHdhdGNoJTdDUmVzZWFyY2hlcnMlMjB0cmFjayUyMHdob2xlJTIwYm9keSUyMG1vdmVtZW50JTIwd2l0aCUyMGp1c3QlMjBhJTIwc21hcnR3YXRjaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDg2NzQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMTclM0EyOSUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "pubDate": "Fri, 13 Nov 2026 17:29:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
     }
   ]

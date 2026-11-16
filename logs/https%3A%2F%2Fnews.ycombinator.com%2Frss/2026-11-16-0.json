@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 9,
-    "generatedAt": "2026-11-16T06:45:55.163Z"
+    "itemCount": 29,
+    "generatedAt": "2026-11-16T18:40:27.208Z"
   },
   "items": [
     {
@@ -60,6 +60,126 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnNreWRpby1mMTAtbGlnaHRydW5uZXItYXN5bW1ldHJpY2FsLWRyb25lJTdDaHR0cHMlM0ElMkYlMkZzcGVjdHJ1bS5pZWVlLm9yZyUyRnNreWRpby1mMTAtbGlnaHRydW5uZXItYXN5bW1ldHJpY2FsLWRyb25lJTdDU2t5ZGlvJ3MlMjBhc3ltbWV0cmljYWwlMjBGMTAlMjBMaWdodHJ1bm5lciUyMHNvbHZlcyUyMGElMjBwcm9ibGVtJTIwd2l0aCUyMGZpeGVkLXdpbmclMjBkcm9uZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxMjI5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDAwJTNBMDMlM0ExMiUyMCUyQjAwMDA",
       "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
       "pubDate": "Mon, 16 Nov 2026 00:03:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJlY2stbWNreWUuY29tJTJGYmxvZyUyRjIwMjYlMkYxMSUyRnNvZnR3YXJlLWlzLWJyZWFraW5nLWRvd24tYXQtYS1zeXN0ZW1pYy1sZXZlbCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJyZWNrLW1ja3llLmNvbSUyRmJsb2clMkYyMDI2JTJGMTElMkZzb2Z0d2FyZS1pcy1icmVha2luZy1kb3duLWF0LWEtc3lzdGVtaWMtbGV2ZWwlMkYlN0NTb2Z0d2FyZSUyMGlzJTIwYnJlYWtpbmclMjBkb3duJTIwYXQlMjBhJTIwc3lzdGVtaWMlMjBsZXZlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIwODY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTglM0ExNyUzQTE3JTIwJTJCMDAwMA",
+      "title": "Software is breaking down at a systemic level",
+      "pubDate": "Mon, 16 Nov 2026 18:17:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJoZXR0LmluZm8lMkZkdW9saW5nby1zY3JlZW4tdGltZS11bmluc3RhbGwlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cucmhldHQuaW5mbyUyRmR1b2xpbmdvLXNjcmVlbi10aW1lLXVuaW5zdGFsbCUyRiU3Q0R1b2xpbmdvJTIwdXNlcyUyMHNjcmVlbiUyMHRpbWUlMjBwZXJtaXNzaW9uJTIwdG8lMjBibG9jayUyMHVuaW5zdGFsbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIwODI1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTglM0ExNCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Duolingo uses screen time permission to block uninstall",
+      "pubDate": "Mon, 16 Nov 2026 18:14:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZzdHJlbmd0aGVuaW5nLW9ubGluZS1jaGlsZC1zYWZldHklMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRnN0cmVuZ3RoZW5pbmctb25saW5lLWNoaWxkLXNhZmV0eSUyRiU3Q09wZW5BSSUzQSUyMFN0cmVuZ3RoZW5pbmclMjB0aGUlMjBmaWdodCUyMGFnYWluc3QlMjBvbmxpbmUlMjBjaGlsZCUyMHNleHVhbCUyMGFidXNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjA4MDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxOCUzQTEyJTNBNDglMjAlMkIwMDAw",
+      "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+      "pubDate": "Mon, 16 Nov 2026 18:12:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2lyZWQuY29tJTJGc3RvcnklMkZkYXRhLWNlbnRlcnMtdXNlLW1vcmUtZWxlY3RyaWNpdHktdGhhbi1taWNoaWdhbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LndpcmVkLmNvbSUyRnN0b3J5JTJGZGF0YS1jZW50ZXJzLXVzZS1tb3JlLWVsZWN0cmljaXR5LXRoYW4tbWljaGlnYW4lMkYlN0NKdXN0JTIwNDAwJTIwVVMlMjBEYXRhJTIwQ2VudGVycyUyMFVzZSUyME1vcmUlMjBFbGVjdHJpY2l0eSUyMFRoYW4lMjBNaWNoaWdhbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIwNjk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTglM0EwNCUzQTU1JTIwJTJCMDAwMA",
+      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+      "pubDate": "Mon, 16 Nov 2026 18:04:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3B5cmlnaHRsYXRlbHkuY29tJTJGbWljaGFlbC1tYW5uLWhlYXQtY29weXJpZ2h0LXRlcm1pbmF0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZjb3B5cmlnaHRsYXRlbHkuY29tJTJGbWljaGFlbC1tYW5uLWhlYXQtY29weXJpZ2h0LXRlcm1pbmF0aW9uJTJGJTdDTWljaGFlbCUyME1hbm4ncyUyMCdIZWF0JyUyMENvcHlyaWdodCUyMEZpZ2h0JTIwVHVybnMlMjBvbiUyMGElMjBEZWFsJTIwd2l0aCUyMEhpbXNlbGYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyMDUxOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDE3JTNBNTIlM0EyMyUyMCUyQjAwMDA",
+      "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+      "pubDate": "Mon, 16 Nov 2026 17:52:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaGFybW9uaWMuZnVuJTJGbmV3cyUyRmFyaXN0b3RsZS1ydXN0LXZlcmlmaWNhdGlvbiUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmhhcm1vbmljLmZ1biUyRm5ld3MlMkZhcmlzdG90bGUtcnVzdC12ZXJpZmljYXRpb24lMkYlN0NBcmlzdG90bGUlMjBFeHBhbmRzJTIwaW50byUyMFJ1c3QlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyMDI3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDE3JTNBMzQlM0E0MSUyMCUyQjAwMDA",
+      "title": "Aristotle Expands into Rust",
+      "pubDate": "Mon, 16 Nov 2026 17:34:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLmNvcm5lbGwuZWR1JTJGc3RvcmllcyUyRjIwMjYlMkYxMCUyRnNoZWVwLWdyYXppbmctc29sYXItZmllbGRzLW9mZmVycy1mYXJtZXJzLWVjb25vbWljLWVjb2xvZ2ljYWwtZ2FpbnMlN0NodHRwcyUzQSUyRiUyRm5ld3MuY29ybmVsbC5lZHUlMkZzdG9yaWVzJTJGMjAyNiUyRjEwJTJGc2hlZXAtZ3JhemluZy1zb2xhci1maWVsZHMtb2ZmZXJzLWZhcm1lcnMtZWNvbm9taWMtZWNvbG9naWNhbC1nYWlucyU3Q0dyYXppbmclMjBzaGVlcCUyMGluJTIwZmllbGRzJTIwd2l0aCUyMHNvbGFyJTIwYXJyYXlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjAxODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxNyUzQTI3JTNBNDYlMjAlMkIwMDAw",
+      "title": "Grazing sheep in fields with solar arrays",
+      "pubDate": "Mon, 16 Nov 2026 17:27:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIwMDc2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIwMDc2JTdDQXNrJTIwSE4lM0ElMjBJZiUyMEFJJTIwdG9vbHMlMjBhcmUlMjBzbyUyMGdvb2QlMkMlMjB3aHklMjBpc24ndCUyMHlvdXIlMjBidWclMjBiYWNrbG9nJTIwZW1wdHklM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyMDA3NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDE3JTNBMjAlM0EyOCUyMCUyQjAwMDA",
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "pubDate": "Mon, 16 Nov 2026 17:20:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidXJudHN1c2hpLm5ldCUyRmppZmYlMkYlN0NodHRwcyUzQSUyRiUyRmJ1cm50c3VzaGkubmV0JTJGamlmZiUyRiU3Q0ppZmYlMjAxLjAlM0ElMjBBJTIwZGF0ZXRpbWUlMjBsaWJyYXJ5JTIwZm9yJTIwUnVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE5NzQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTYlM0E1MyUzQTM5JTIwJTJCMDAwMA",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "pubDate": "Mon, 16 Nov 2026 16:53:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cm1ubC5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctZnJhbWUlN0NodHRwcyUzQSUyRiUyRnRybW5sLmNvbSUyRmJsb2clMkZpbnRyb2R1Y2luZy1mcmFtZSU3Q0ZyYW1lJTIwJUUyJTgwJTkzJTIwMzEuNSUyMiUyMGNvbG9yJTIwZVBhcGVyJTIwZGlzcGxheSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE5MzU0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTYlM0EyMyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Frame – 31.5\" color ePaper display",
+      "pubDate": "Mon, 16 Nov 2026 16:23:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2x0LWxhbmcubmV0JTJGJTdDaHR0cHMlM0ElMkYlMkZqb2x0LWxhbmcubmV0JTJGJTdDSm9sdCUyMCVFMiU4MCU5MyUyMENsb2p1cmUlMjB0aGF0JTIwc3BlYWtzJTIwQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE5MzQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTYlM0EyMyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Jolt – Clojure that speaks C",
+      "pubDate": "Mon, 16 Nov 2026 16:23:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnRlbWxlZ290aW4uY29tJTJGZ29sZGVuLWJvYXJkJTJGJTdDaHR0cHMlM0ElMkYlMkZhcnRlbWxlZ290aW4uY29tJTJGZ29sZGVuLWJvYXJkJTJGJTdDQSUyMDUxMiUyMEtpQiUyMGJpbmFyeSUyMG1lc3NhZ2UlMjB0ZWFjaGluZyUyMGNoZXNzJTIwd2l0aG91dCUyMGElMjBzaGFyZWQlMjBsYW5ndWFnZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE4MDY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTQlM0EzOCUzQTU0JTIwJTJCMDAwMA",
+      "title": "A 512 KiB binary message teaching chess without a shared language",
+      "pubDate": "Mon, 16 Nov 2026 14:38:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbmZpc2ljYWwuY29tJTJGYmxvZyUyRmFjdGl2ZS1kaXJlY3RvcnktbWFjaGluZS1pZGVudGl0eSU3Q2h0dHBzJTNBJTJGJTJGaW5maXNpY2FsLmNvbSUyRmJsb2clMkZhY3RpdmUtZGlyZWN0b3J5LW1hY2hpbmUtaWRlbnRpdHklN0NUaGUlMjBBY3RpdmUlMjBEaXJlY3RvcnklMjBFcmElMjBJcyUyMEZpbmFsbHklMjBPdmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTc4MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxNCUzQTE1JTNBMzElMjAlMkIwMDAw",
+      "title": "The Active Directory Era Is Finally Over",
+      "pubDate": "Mon, 16 Nov 2026 14:15:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYWNrLmNhYiUyRmJsb2clMkZzaXRlcmF0ZSU3Q2h0dHBzJTNBJTJGJTJGamFjay5jYWIlMkZibG9nJTJGc2l0ZXJhdGUlN0NXaGF0JTIwaXMlMjB3MnJ0NmJ5bDVuZjFvcG1jLWEuY29tJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTc2MDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxMyUzQTUxJTNBMzglMjAlMkIwMDAw",
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "pubDate": "Mon, 16 Nov 2026 13:51:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmdyb3VuZHdvcmtjb2xsYWJvcmF0aXZlLm9yZyUyRm5ld3MlMkZhbWF6b25zLWRlY295LWRlYWxzLWdyb3VuZHdvcmstaW52ZXN0aWdhdGlvbi1yZXZlYWxzLW5lYXJseS0xLWluLTMtYmxhY2stZnJpZGF5LWFuZC1jeWJlci1tb25kYXktZGVhbHMtYWR2ZXJ0aXNlZC1ieS1hbWF6b24tb2ZmZXJlZC1uby1zYXZpbmdzLXRvLXNob3BwZXJzLW5lYXJseS0xLWluLTEwLXclMkYlN0NodHRwJTNBJTJGJTJGZ3JvdW5kd29ya2NvbGxhYm9yYXRpdmUub3JnJTJGbmV3cyUyRmFtYXpvbnMtZGVjb3ktZGVhbHMtZ3JvdW5kd29yay1pbnZlc3RpZ2F0aW9uLXJldmVhbHMtbmVhcmx5LTEtaW4tMy1ibGFjay1mcmlkYXktYW5kLWN5YmVyLW1vbmRheS1kZWFscy1hZHZlcnRpc2VkLWJ5LWFtYXpvbi1vZmZlcmVkLW5vLXNhdmluZ3MtdG8tc2hvcHBlcnMtbmVhcmx5LTEtaW4tMTAtdyUyRiU3Q01hbnklMjBvZiUyMEFtYXpvbiVFMiU4MCU5OXMlMjBCbGFjayUyMEZyaWRheSUyMGFuZCUyMEN5YmVyJTIwTW9uZGF5JTIwJUUyJTgwJTlDZGVhbHMlRTIlODAlOUQlMjBvZmZlcmVkJTIwbm8lMjBzYXZpbmdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTc0ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxMyUzQTM5JTNBMDclMjAlMkIwMDAw",
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "pubDate": "Mon, 16 Nov 2026 13:39:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXNuaWNrLmNvbSUyRnBvc3RzJTJGdGhlLXNlY3JldC10aGlua3BhZC1wb3dlcmJ1dHRvbi1jb2RlLXRvLWJyaW5nLWRlYWQtbGFwdG9wcy1iYWNrLXRvLWxpZmUlMkYlN0NodHRwcyUzQSUyRiUyRm1hc25pY2suY29tJTJGcG9zdHMlMkZ0aGUtc2VjcmV0LXRoaW5rcGFkLXBvd2VyYnV0dG9uLWNvZGUtdG8tYnJpbmctZGVhZC1sYXB0b3BzLWJhY2stdG8tbGlmZSUyRiU3Q1RoZSUyMFNlY3JldCUyMFRoaW5rUGFkJTIwUG93ZXJidXR0b24lMjBDb2RlJTIwdG8lMjBCcmluZyUyMERlYWQlMjBMYXB0b3BzJTIwQmFjayUyMHRvJTIwTGlmZSUyMCgyMDA3KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE2NDczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTElM0EzOSUzQTMxJTIwJTJCMDAwMA",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "pubDate": "Mon, 16 Nov 2026 11:39:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubW9uaXJib3VuYWRpLmNvbSUyRkJvdW5hZGlfSk1QLnBkZiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1vbmlyYm91bmFkaS5jb20lMkZCb3VuYWRpX0pNUC5wZGYlN0NDb2ZmZWVob3VzZXMlMjBhbmQlMjB0aGUlMjBSaXNlJTIwb2YlMjBTY2llbmNlJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTYyNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxMSUzQTAzJTNBMTYlMjAlMkIwMDAw",
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "pubDate": "Mon, 16 Nov 2026 11:03:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWdlczIwMDElMkZXSU5VREYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhZ2VzMjAwMSUyRldJTlVERiU3Q1dpbnVkZiUyMCVFMiU4MCU5MyUyMERWRCUyMCUyRiUyMEJsdVJheSUyMGRyaXZlciUyMGZvciUyMERPUyUyQyUyMFdpbmRvd3MlMjAxLnglMjAlRTIlODAlOTMlMjAzeCUyMCUyRiUyMDk1JTIwJTJGJTIwOTglMjAlMkYlMjBNRSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE1MTgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMDglM0EwMCUzQTEzJTIwJTJCMDAwMA",
+      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "pubDate": "Mon, 16 Nov 2026 08:00:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZW5hcHJvamVjdC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjExJTJGMTIlMkZhbmQtdGhlLXByb29mLWlzLWNoZWNrZWQtaW4tbGVhbiUyRiU3Q2h0dHBzJTNBJTJGJTJGeGVuYXByb2plY3Qud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMSUyRjEyJTJGYW5kLXRoZS1wcm9vZi1pcy1jaGVja2VkLWluLWxlYW4lMkYlN0NJbnRlcnByZXRpbmclMjBjbGFpbXMlMjB0aGF0JTIwYSUyMHRoZW9yZW0lMjBpcyUyMGNvcnJlY3QlMjBiZWNhdXNlJTIwaXQlMjB3YXMlMjBjaGVja2VkJTIwaW4lMjBMZWFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTUwNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAwNyUzQTM4JTNBMTklMjAlMkIwMDAw",
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "pubDate": "Mon, 16 Nov 2026 07:38:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwdWIuY2JhLm1pdC5lZHUlMkY4NjMuMjYlMkZzaXRlJTJGJTdDaHR0cHMlM0ElMkYlMkZwdWIuY2JhLm1pdC5lZHUlMkY4NjMuMjYlMkZzaXRlJTJGJTdDSG93JTIwdG8lMjBtYWtlJTIwYWxtb3N0JTIwYW55dGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxNDQ3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDA1JTNBNTAlM0EzNyUyMCUyQjAwMDA",
+      "title": "How to make almost anything",
+      "pubDate": "Mon, 16 Nov 2026 05:50:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]
