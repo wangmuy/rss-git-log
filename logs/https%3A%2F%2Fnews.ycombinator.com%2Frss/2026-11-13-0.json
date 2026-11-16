@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-13",
     "newestItemDate": "2026-11-13",
-    "itemCount": 51,
-    "generatedAt": "2026-11-15T21:05:39.192Z"
+    "itemCount": 55,
+    "generatedAt": "2026-11-16T06:45:55.164Z"
   },
   "items": [
     {
@@ -312,6 +312,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmVua3Vobi5uZXQlMkZsdXglMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5iZW5rdWhuLm5ldCUyRmx1eCUyRiU3Q1lvdXIlMjByb29tJTIwY2FuJTIwYmUlMjBhcyUyMGJyaWdodCUyMGFzJTIwdGhlJTIwb3V0ZG9vcnMlMjAoMjAxOSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ4ODkxNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDIwJTNBMDUlM0EyMCUyMCUyQjAwMDA",
       "title": "Your room can be as bright as the outdoors (2019)",
       "pubDate": "Fri, 13 Nov 2026 20:05:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxMyUyRmRpbmluZyUyRmRyaW5rcyUyRmt1cnQtam9zZWYtemFsdG8td2hpc2tleS1nbGFzcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxMyUyRmRpbmluZyUyRmRyaW5rcyUyRmt1cnQtam9zZWYtemFsdG8td2hpc2tleS1nbGFzcy5odG1sJTdDQSUyMHF1ZXN0JTIwdG8lMjBjcmVhdGUlMjB0aGUlMjBwZXJmZWN0JTIwd2hpc2tleSUyMGdsYXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0ODY4ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAxNyUzQTM3JTNBMzIlMjAlMkIwMDAw",
+      "title": "A quest to create the perfect whiskey glass",
+      "pubDate": "Fri, 13 Nov 2026 17:37:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZGZzYW50b3MuY29tJTJGZW4lMkZsaWJyby1pYS16ODAlN0NodHRwcyUzQSUyRiUyRnd3dy5kZnNhbnRvcy5jb20lMkZlbiUyRmxpYnJvLWlhLXo4MCU3Q0FydGlmaWNpYWwlMjBJbnRlbGxpZ2VuY2UlMjBmb3IlMjB0aGUlMjBaODAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ4NTI3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDEzJTIwTm92JTIwMjAyNiUyMDE1JTNBNTAlM0E0MyUyMCUyQjAwMDA",
+      "title": "Artificial Intelligence for the Z80",
+      "pubDate": "Fri, 13 Nov 2026 15:50:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFyYWRlZGIuY29tJTJGYmxvZyUyRmpvaW5zJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGFyYWRlZGIuY29tJTJGYmxvZyUyRmpvaW5zJTdDRG8lMjB3ZSUyMHN0aWxsJTIwaGF2ZSUyMHRvJTIwZGVub3JtYWxpemUlM0YlMjBIYXZlJTIweW91ciUyMHNjaGVtYSUyMGFuZCUyMHNlYXJjaCUyMGl0JTIwdG9vJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0ODQ5OTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAxMyUyME5vdiUyMDIwMjYlMjAxNSUzQTMxJTNBNTAlMjAlMkIwMDAw",
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "pubDate": "Fri, 13 Nov 2026 15:31:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjExJTJGZG9jdG9yLW1lZGljaW5lLWNhbmNlci1jdXJlLXBpbGwtaGlzdG9yeS5odG1sJTdDaHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZ0ZWNobm9sb2d5JTJGMjAyNiUyRjExJTJGZG9jdG9yLW1lZGljaW5lLWNhbmNlci1jdXJlLXBpbGwtaGlzdG9yeS5odG1sJTdDVGhlJTIwTWlyYWNsZSUyMEN1cmUlM0ElMjBJbiUyMDE5NzclMkMlMjBhJTIwZHJ1ZyUyMHJlamVjdGVkJTIwYnklMjBkb2N0b3JzJTIwYmVjYW1lJTIwYSUyMHNlbnNhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNDc5NDA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMTMlMjBOb3YlMjAyMDI2JTIwMDYlM0E1OCUzQTQxJTIwJTJCMDAwMA",
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "pubDate": "Fri, 13 Nov 2026 06:58:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-13-0.json"
     }
   ]

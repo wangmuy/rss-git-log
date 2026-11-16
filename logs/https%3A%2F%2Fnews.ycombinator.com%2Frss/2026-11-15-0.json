@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-15",
     "newestItemDate": "2026-11-15",
-    "itemCount": 28,
-    "generatedAt": "2026-11-15T21:05:39.192Z"
+    "itemCount": 35,
+    "generatedAt": "2026-11-16T06:45:55.163Z"
   },
   "items": [
     {
@@ -174,6 +174,48 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtYWNhbm9yYWsuY29tJTJGdGhlLW1hY2Jvb2stcHJvcy1vbGVkLXB3bS1wcm9ibGVtLXdoZW4tYS1iZXR0ZXItZGlzcGxheS1iZWNvbWVzLXdvcnNlLXRvLXVzZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFjYW5vcmFrLmNvbSUyRnRoZS1tYWNib29rLXByb3Mtb2xlZC1wd20tcHJvYmxlbS13aGVuLWEtYmV0dGVyLWRpc3BsYXktYmVjb21lcy13b3JzZS10by11c2UlMkYlN0NUaGUlMjBNYWNCb29rJTIwUHJvJ3MlMjBPTEVEJTIwUFdNJTIwcHJvYmxlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA2NzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTMlM0ExNSUzQTIyJTIwJTJCMDAwMA",
       "title": "The MacBook Pro's OLED PWM problem",
       "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGV2ZWJsYW5rLmNvbSUyRjIwMjYlMkYxMSUyRjE1JTJGd2hhdHMtbmV4dC1mb3ItbnZpZGlhJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGV2ZWJsYW5rLmNvbSUyRjIwMjYlMkYxMSUyRjE1JTJGd2hhdHMtbmV4dC1mb3ItbnZpZGlhJTJGJTdDV2hhdCdzJTIwTmV4dCUyMGZvciUyME52aWRpYSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTEyMjM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMjMlM0E1NSUzQTU1JTIwJTJCMDAwMA",
+      "title": "What's Next for Nvidia?",
+      "pubDate": "Sun, 15 Nov 2026 23:55:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YW5nbGVkLm9yZyUyRm52aW0tbWluaS5vcmclMkZtaW5pLm52aW0lN0NodHRwcyUzQSUyRiUyRnRhbmdsZWQub3JnJTJGbnZpbS1taW5pLm9yZyUyRm1pbmkubnZpbSU3Q01pbmkubnZpbSUyMElzJTIwTm93JTIwb24lMjBUYW5nbGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTIyMzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAyMyUzQTU1JTNBNDElMjAlMkIwMDAw",
+      "title": "Mini.nvim Is Now on Tangled",
+      "pubDate": "Sun, 15 Nov 2026 23:55:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFyY2hpdmUub3JnJTJGMjAyNiUyRjExJTJGMTIlMkZwcmVzZXJ2aW5nLTMwLXllYXJzLW9mLXNhbG9uLWpvdXJuYWxpc20lMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cuYXJjaGl2ZS5vcmclMkYyMDI2JTJGMTElMkYxMiUyRnByZXNlcnZpbmctMzAteWVhcnMtb2Ytc2Fsb24tam91cm5hbGlzbSUyRiU3Q1ByZXNlcnZpbmclMjAzMCUyMHllYXJzJTIwb2YlMjBTYWxvbiUyMGpvdXJuYWxpc20lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxMTgwNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDIzJTNBMDAlM0ExMSUyMCUyQjAwMDA",
+      "title": "Preserving 30 years of Salon journalism",
+      "pubDate": "Sun, 15 Nov 2026 23:00:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYW5zb21uZXdzLmNvbSUyRmJ1cmdlci1raW5nLXR3ZWV0LWJpdGx5LWxpbmstaGlqYWNrLTIwMjYlMkYlN0NodHRwcyUzQSUyRiUyRnJhbnNvbW5ld3MuY29tJTJGYnVyZ2VyLWtpbmctdHdlZXQtYml0bHktbGluay1oaWphY2stMjAyNiUyRiU3Q09sZCUyMEJpdGx5JTIwbGlua3MlMjBhcmUlMjBiZWluZyUyMGhpamFja2VkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTEzOTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAxNSUyME5vdiUyMDIwMjYlMjAyMiUzQTExJTNBNDMlMjAlMkIwMDAw",
+      "title": "Old Bitly links are being hijacked",
+      "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiYXJvbi5ieS5kYWkuc3R1ZGlvJTJGJTdDaHR0cHMlM0ElMkYlMkZiYXJvbi5ieS5kYWkuc3R1ZGlvJTJGJTdDV2ViR0wlMjBGbGlnaHQlMjBTaW11bGF0b3IlMjB3aXRoJTIwc2VlZCUyMGdlbmVyYXRlZCUyMHRlcnJhaW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxMDI5NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDIwJTNBMjAlM0EwNSUyMCUyQjAwMDA",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "pubDate": "Sun, 15 Nov 2026 20:20:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkdWN0dXMuc29yZW5ibGFuay5jb20lN0NodHRwcyUzQSUyRiUyRmR1Y3R1cy5zb3JlbmJsYW5rLmNvbSUyRiU3Q0hhbmR3cml0aW5nJTJDJTIwYXMlMjBhJTIwRm9udCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA5OTcyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTklM0E0MiUzQTEzJTIwJTJCMDAwMA",
+      "title": "Handwriting, as a Font",
+      "pubDate": "Sun, 15 Nov 2026 19:42:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxNSUyRnNjaWVuY2UlMkZiaXJkYnJhaW4tY3Jvd3MtYmlyZHMtcmVzZWFyY2gtZGVjaXNpb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjExJTJGMTUlMkZzY2llbmNlJTJGYmlyZGJyYWluLWNyb3dzLWJpcmRzLXJlc2VhcmNoLWRlY2lzaW9uLmh0bWwlN0NDcm93cyUyMG1ha2UlMjBkZWNpc2lvbnMlMjBmYXN0ZXIlMjB0aGFuJTIwd2UlMjBjYW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwOTAyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDE3JTNBNTMlM0EzMSUyMCUyQjAwMDA",
+      "title": "Crows make decisions faster than we can",
+      "pubDate": "Sun, 15 Nov 2026 17:53:31 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
     }
   ]
