@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-12",
     "newestItemDate": "2026-11-12",
-    "itemCount": 56,
-    "generatedAt": "2026-11-16T18:40:27.208Z"
+    "itemCount": 57,
+    "generatedAt": "2026-11-17T17:41:19.728Z"
   },
   "items": [
     {
@@ -342,6 +342,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtb2RkZWRiZWFyLmNvbSUyRnF1eG5ldC1pcy1hLWJyZWF0aC1vZi1mcmVzaC1haXIlMkYlN0NodHRwcyUzQSUyRiUyRm1vZGRlZGJlYXIuY29tJTJGcXV4bmV0LWlzLWEtYnJlYXRoLW9mLWZyZXNoLWFpciUyRiU3Q1F1eG5ldCUyMElzJTIwYSUyMEJyZWF0aCUyMG9mJTIwRnJlc2glMjBBaXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDQ2NjMwMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDEyJTIwTm92JTIwMjAyNiUyMDEyJTNBNDAlM0EwNSUyMCUyQjAwMDA",
       "title": "Quxnet Is a Breath of Fresh Air",
       "pubDate": "Thu, 12 Nov 2026 12:40:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGlyYWxkYi5jb20lMkZibG9nJTJGcm93cy12cy1jb2x1bW5zJTdDaHR0cHMlM0ElMkYlMkZzcGlyYWxkYi5jb20lMkZibG9nJTJGcm93cy12cy1jb2x1bW5zJTdDUm93cyUyMHZzLiUyMENvbHVtbnMlM0ElMjBIb3clMjBkaWZmZXJlbnQlMjBhcmUlMjB0aGV5JTJDJTIwcmVhbGx5JTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0NzA1MjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxMiUyME5vdiUyMDIwMjYlMjAxNyUzQTA0JTNBNDElMjAlMkIwMDAw",
+      "title": "Rows vs. Columns: How different are they, really?",
+      "pubDate": "Thu, 12 Nov 2026 17:04:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-12-0.json"
     }
   ]

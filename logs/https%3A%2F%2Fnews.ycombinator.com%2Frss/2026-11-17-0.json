@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 5,
-    "generatedAt": "2026-11-17T08:06:12.731Z"
+    "itemCount": 17,
+    "generatedAt": "2026-11-17T17:41:19.728Z"
   },
   "items": [
     {
@@ -36,6 +36,78 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmlkX2FhX2Nhcm1hY2slMkZzdGF0dXMlMkYyMTIyNDc4MDgzMzE5OTkyNTEzJTdDaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmlkX2FhX2Nhcm1hY2slMkZzdGF0dXMlMkYyMTIyNDc4MDgzMzE5OTkyNTEzJTdDV2h5JTIwM2RmeCUyMDElMjBjYXJkcyUyMGhhZCUyMHN1Y2glMjBhJTIwd2FzaGVkJTIwb3V0JTIwY29sb3IlMjBvdXRwdXQlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyNTU3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDAwJTNBMTYlM0EyNCUyMCUyQjAwMDA",
       "title": "Why 3dfx 1 cards had such a washed out color output?",
       "pubDate": "Tue, 17 Nov 2026 00:16:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmxlZXBpbmdjb21wdXRlci5jb20lMkZuZXdzJTJGc2VjdXJpdHklMkZvcHRpbWl6ZWx5LXN1cHBseS1jaGFpbi1hdHRhY2stZGVsaXZlcnMtbWFsd2FyZS10by1jbm4tZm94LW5ld3MtYmJjLXNhbGVzZm9yY2Utc2l0ZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbSUyRm5ld3MlMkZzZWN1cml0eSUyRm9wdGltaXplbHktc3VwcGx5LWNoYWluLWF0dGFjay1kZWxpdmVycy1tYWx3YXJlLXRvLWNubi1mb3gtbmV3cy1iYmMtc2FsZXNmb3JjZS1zaXRlcyUyRiU3Q09wdGltaXplbHklMjBoYWNrJTIwaW5mZWN0ZWQlMjBDTk4lMkMlMjBGb3glMjBOZXdzJTJDJTIwQkJDJTJDJTIwU2FsZXNmb3JjZSUyMHNpdGVzJTIwd2l0aCUyMG1hbHdhcmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNDY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE3JTNBMTMlM0E1NyUyMCUyQjAwMDA",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "pubDate": "Tue, 17 Nov 2026 17:13:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM0NDI5JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM0NDI5JTdDWUMlMjB3cm90ZSUyMHNvZnR3YXJlJTIwdG8lMjBydW4lMjBvdXIlMjBpbnRlcm5zaGlwJTIwZXhwbyUyMCVFMiU4MCU5MyUyMGFuZCUyMGFuJTIwOC1iaXQlMjBTSU0lMjB0byUyMHNob3clMjBpdCUyMG9mZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM0NDI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTclM0EwMCUzQTI0JTIwJTJCMDAwMA",
+      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+      "pubDate": "Tue, 17 Nov 2026 17:00:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVzaW5lc3NpbnNpZGVyLmNvbSUyRmNoYXJsZXMtc2N3YWItd2Vic2l0ZS1vdXRhZ2UtcmVwb3J0cy0yMDI2LTExJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnVzaW5lc3NpbnNpZGVyLmNvbSUyRmNoYXJsZXMtc2N3YWItd2Vic2l0ZS1vdXRhZ2UtcmVwb3J0cy0yMDI2LTExJTdDQ2hhcmxlcyUyMFNjaHdhYiUyMHdlYnNpdGUlMjBnb2VzJTIwZG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTMzMzY2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTYlM0EwNSUzQTQyJTIwJTJCMDAwMA",
+      "title": "Charles Schwab website goes down",
+      "pubDate": "Tue, 17 Nov 2026 16:05:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUnVuYW55d2hlcmVBSSUyRnRybnJ0JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUnVuYW55d2hlcmVBSSUyRnRybnJ0JTdDU2hvdyUyMEhOJTNBJTIwVHJuUlQlMjAlRTIlODAlOTMlMjBBbiUyMG9wZW4tc291cmNlJTIwTExNJTIwaW5mZXJlbmNlJTIwZW5naW5lJTIwZm9yJTIwQVdTJTIwVHJhaW5pdW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzMzI3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE2JTNBMDElM0EwNCUyMCUyQjAwMDA",
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "pubDate": "Tue, 17 Nov 2026 16:01:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ0ZWNobm9sb2d5JTJGaGlnaGx5LWNsYXNzaWZpZWQtdXMtbmF0aW9uYWwtc2VjdXJpdHktY29tbXVuaWNhdGlvbnMtbmV0d29yay1pcy1kb3duLWNubi0yMDI2LTExLTE3JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZ0ZWNobm9sb2d5JTJGaGlnaGx5LWNsYXNzaWZpZWQtdXMtbmF0aW9uYWwtc2VjdXJpdHktY29tbXVuaWNhdGlvbnMtbmV0d29yay1pcy1kb3duLWNubi0yMDI2LTExLTE3JTJGJTdDTlNBJTIwSW50ZXJuYWwlMjBOZXR3b3JrJTIwRG93biU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTMzMDg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTUlM0E1MCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "NSA Internal Network Down",
+      "pubDate": "Tue, 17 Nov 2026 15:50:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25uLmNvbSUyRjIwMjYlMkYxMSUyRjE3JTJGcG9saXRpY3MlMkZoaWdobHktY2xhc3NpZmllZC1uYXRpb25hbC1zZWN1cml0eS1jb21tdW5pY2F0aW9ucy1uZXR3b3JrLWdvZXMtZG93biU3Q2h0dHBzJTNBJTJGJTJGd3d3LmNubi5jb20lMkYyMDI2JTJGMTElMkYxNyUyRnBvbGl0aWNzJTJGaGlnaGx5LWNsYXNzaWZpZWQtbmF0aW9uYWwtc2VjdXJpdHktY29tbXVuaWNhdGlvbnMtbmV0d29yay1nb2VzLWRvd24lN0NIaWdobHklMjBjbGFzc2lmaWVkJTIwVVMlMjBuYXRpb25hbCUyMHNlY3VyaXR5JTIwY29tbXVuaWNhdGlvbnMlMjBuZXR3b3JrJTIwZ29lcyUyMGRvd24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzMjg0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE1JTNBMzglM0EyOCUyMCUyQjAwMDA",
+      "title": "Highly classified US national security communications network goes down",
+      "pubDate": "Tue, 17 Nov 2026 15:38:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRmbHkuaW8lMkZ0aG91Z2h0cyUyRmhvdy1hbnRmbHktbGVhcm5lZC10by1zdG9wLXdvcnJ5aW5nLWFuZC1sb3ZlLWFwYWNoZS0yJTdDaHR0cHMlM0ElMkYlMkZhbnRmbHkuaW8lMkZ0aG91Z2h0cyUyRmhvdy1hbnRmbHktbGVhcm5lZC10by1zdG9wLXdvcnJ5aW5nLWFuZC1sb3ZlLWFwYWNoZS0yJTdDQW50Zmx5JTIwbGVhcm5lZCUyMHRvJTIwc3RvcCUyMHdvcnJ5aW5nJTIwYW5kJTIwbG92ZSUyMEFwYWNoZSUyMDIuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTMyNzczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTUlM0EzMyUzQTE1JTIwJTJCMDAwMA",
+      "title": "Antfly learned to stop worrying and love Apache 2.0",
+      "pubDate": "Tue, 17 Nov 2026 15:33:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbGxveWh0bWwuY29tJTJGZXhhbXBsZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZhbGxveWh0bWwuY29tJTJGZXhhbXBsZS5odG1sJTdDU2hvdyUyMEhOJTNBJTIwQWxsb3klMjBDU1MlMkMlMjBkaWFsb2dzJTJDJTIwbWVudXMlMjBhbmQlMjB0YWJzJTIwdGhhdCUyMHdvcmslMjB3aXRoJTIwSmF2YVNjcmlwdCUyMG9mZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTMyMzg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTUlM0EwNyUzQTA5JTIwJTJCMDAwMA",
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "pubDate": "Tue, 17 Nov 2026 15:07:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydW50YS5jb20lMkZibG9nJTJGaW50cm9kdWNpbmctZnJvbnRpZXJoYXJuZXNzLWV2YWwtdjEtMSUyRiU3Q2h0dHBzJTNBJTJGJTJGcnVudGEuY29tJTJGYmxvZyUyRmludHJvZHVjaW5nLWZyb250aWVyaGFybmVzcy1ldmFsLXYxLTElMkYlN0NXaGF0JTIwaXMlMjB0aGUlMjBiZXN0JTIwaGFybmVzcyUyMGZvciUyMGVhY2glMjBtb2RlbCUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTMyMTkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTQlM0E1MyUzQTQzJTIwJTJCMDAwMA",
+      "title": "What is the best harness for each model?",
+      "pubDate": "Tue, 17 Nov 2026 14:53:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb3JkYW5rcnVlZ2VyLmNvbSUyRmJsb2clMkZiZXR0ZXItb3Blbi1zb3VyY2Utbm90LW1vcmUtYXBwcyUyRiU3Q2h0dHBzJTNBJTJGJTJGam9yZGFua3J1ZWdlci5jb20lMkZibG9nJTJGYmV0dGVyLW9wZW4tc291cmNlLW5vdC1tb3JlLWFwcHMlMkYlN0NXZSUyMGRvbid0JTIwbmVlZCUyMG1vcmUlMjBhcHBzLiUyMFdlJTIwbmVlZCUyMGJldHRlciUyMG9wZW4lMjBzb3VyY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzMjA4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE0JTNBNDUlM0EzNiUyMCUyQjAwMDA",
+      "title": "We don't need more apps. We need better open source",
+      "pubDate": "Tue, 17 Nov 2026 14:45:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxNyUyRnVwc2hvdCUyRnNjaG9vbC1waG9uZS1iYW5zLXN0dWR5LXNjb3Jlcy5odG1sJTdDaHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYxNyUyRnVwc2hvdCUyRnNjaG9vbC1waG9uZS1iYW5zLXN0dWR5LXNjb3Jlcy5odG1sJTdDTmV3JTIwRXZpZGVuY2UlMjBTaG93cyUyMFNjaG9vbCUyMFBob25lJTIwQmFucyUyMEFyZSUyMEdyYWR1YWxseSUyMEltcHJvdmluZyUyMFRlc3QlMjBTY29yZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzMDE2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDExJTNBNDUlM0E1MSUyMCUyQjAwMDA",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "pubDate": "Tue, 17 Nov 2026 11:45:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuZGV2JTJGYmxvZyUyRmhvdy10aGUtY2xhdWRlLWNvZGUtdGVhbS10aGlua3MtYWJvdXQtdmVyaWZpY2F0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZjbGF1ZGUuZGV2JTJGYmxvZyUyRmhvdy10aGUtY2xhdWRlLWNvZGUtdGVhbS10aGlua3MtYWJvdXQtdmVyaWZpY2F0aW9uJTJGJTdDSG93JTIwdGhlJTIwQ2xhdWRlJTIwQ29kZSUyMHRlYW0lMjB0aGlua3MlMjBhYm91dCUyMHZlcmlmaWNhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTI5NjEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTAlM0EyMCUzQTQwJTIwJTJCMDAwMA",
+      "title": "How the Claude Code team thinks about verification",
+      "pubDate": "Tue, 17 Nov 2026 10:20:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]

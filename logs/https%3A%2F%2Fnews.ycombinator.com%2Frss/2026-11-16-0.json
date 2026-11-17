@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 47,
-    "generatedAt": "2026-11-17T08:06:12.731Z"
+    "itemCount": 51,
+    "generatedAt": "2026-11-17T17:41:19.728Z"
   },
   "items": [
     {
@@ -288,6 +288,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwYWxlb25lcmRpc2gud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMCUyRjMwJTJGaGFsbG93ZWVuLXNwZWNpYWwteGl2LXRoZS1mb3NzaWxzLXRoYXQtaGF1bnRlZC1sb3ZlY3JhZnQlMkYlN0NodHRwcyUzQSUyRiUyRnBhbGVvbmVyZGlzaC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjEwJTJGMzAlMkZoYWxsb3dlZW4tc3BlY2lhbC14aXYtdGhlLWZvc3NpbHMtdGhhdC1oYXVudGVkLWxvdmVjcmFmdCUyRiU3Q1RoZSUyMEZvc3NpbHMlMjBUaGF0JTIwSGF1bnRlZCUyMExvdmVjcmFmdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTEyNTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMDAlM0EzOCUzQTEyJTIwJTJCMDAwMA",
       "title": "The Fossils That Haunted Lovecraft",
       "pubDate": "Mon, 16 Nov 2026 00:38:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuYXV0aWwudXMlMkZjaGVjay1vdXQtdGhlLWZpcnN0LXBob3Rvcy1vZi10aGUtcG9sZXMtb2YtYS1yb2Qtc2hhcGVkLWJhY3Rlcml1bS0xMjg2NjY0JTdDaHR0cHMlM0ElMkYlMkZuYXV0aWwudXMlMkZjaGVjay1vdXQtdGhlLWZpcnN0LXBob3Rvcy1vZi10aGUtcG9sZXMtb2YtYS1yb2Qtc2hhcGVkLWJhY3Rlcml1bS0xMjg2NjY0JTdDRmlyc3QlMjBQaG90b3MlMjBvZiUyMHRoZSUyMFBvbGVzJTIwb2YlMjBhJTIwUm9kLVNoYXBlZCUyMEJhY3Rlcml1bSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE4MzI4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTUlM0EwMiUzQTIwJTIwJTJCMDAwMA",
+      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "pubDate": "Mon, 16 Nov 2026 15:02:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjE4MTI2JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjE4MTI2JTdDRXhwbG9pdGluZyUyMFJlcGxheSUyMFByb3RlY3RlZCUyME1vbm90b25pYyUyMENvdW50ZXJzJTIwdG8lMjBCcnV0ZS1Gb3JjZSUyMFdpbmRvd3MlMjBIZWxsbyUyMFBJTnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxNzM3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDEzJTNBMjUlM0ExNyUyMCUyQjAwMDA",
+      "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
+      "pubDate": "Mon, 16 Nov 2026 13:25:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGxhYmF5byUyRnZlbm5kYiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnBsYWJheW8lMkZ2ZW5uZGIlN0NTaG93JTIwSE4lM0ElMjBWZW5uREIlM0ElMjBhcHBlbmQtb25seSUyMGluLW1lbW9yeSUyMFJ1c3QlMjBEQiUyMGZvciUyMHJvd3MlMjBxdWVyaWVkJTIwdXNpbmclMjBiaXQlMjBmbGFncyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE1NjAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMDklM0ExNyUzQTM3JTIwJTJCMDAwMA",
+      "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
+      "pubDate": "Mon, 16 Nov 2026 09:17:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlZ20uZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZlZ20uZGV2JTJGJTdDRWxlcGhhbnQtR29sZGZpc2glMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE1MjkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMDglM0EyMyUzQTI4JTIwJTJCMDAwMA",
+      "title": "Elephant-Goldfish Model",
+      "pubDate": "Mon, 16 Nov 2026 08:23:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]
