@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 29,
-    "generatedAt": "2026-11-16T18:40:27.208Z"
+    "itemCount": 47,
+    "generatedAt": "2026-11-17T08:06:12.731Z"
   },
   "items": [
     {
@@ -180,6 +180,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZwdWIuY2JhLm1pdC5lZHUlMkY4NjMuMjYlMkZzaXRlJTJGJTdDaHR0cHMlM0ElMkYlMkZwdWIuY2JhLm1pdC5lZHUlMkY4NjMuMjYlMkZzaXRlJTJGJTdDSG93JTIwdG8lMjBtYWtlJTIwYWxtb3N0JTIwYW55dGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxNDQ3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDA1JTNBNTAlM0EzNyUyMCUyQjAwMDA",
       "title": "How to make almost anything",
       "pubDate": "Mon, 16 Nov 2026 05:50:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJlcG9ydC11cmkuY29tJTJGd29ybGRzLWxhcmdlc3QtYnJhbmRzLWluZmVjdGVkLXdpdGgtbWFsd2FyZS12aWEtb3B0aW1pemVseSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5yZXBvcnQtdXJpLmNvbSUyRndvcmxkcy1sYXJnZXN0LWJyYW5kcy1pbmZlY3RlZC13aXRoLW1hbHdhcmUtdmlhLW9wdGltaXplbHklMkYlN0NPcHRpbWl6ZWx5JTIwY29tcHJvbWlzZWQlMkMlMjBzZXJ2ZWQlMjBtYWx3YXJlJTIwb24lMjBab29tJTJDJTIwR2l0TGFiJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjQ3NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAyMyUzQTAwJTNBMzQlMjAlMkIwMDAw",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "pubDate": "Mon, 16 Nov 2026 23:00:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4dXNoZW5nLmRldiUyRnBvc3RzJTJGd2luZG93cy1jb2RpbmctYWdlbnQtdGVsZW1ldHJ5JTJGJTdDaHR0cHMlM0ElMkYlMkZ4dXNoZW5nLmRldiUyRnBvc3RzJTJGd2luZG93cy1jb2RpbmctYWdlbnQtdGVsZW1ldHJ5JTJGJTdDV2luZG93cyUyMDExJTIwSXMlMjBDb2xsZWN0aW5nJTIwRGF0YSUyMG9uJTIwV2hpY2glMjBDb2RpbmclMjBBZ2VudHMlMjBhbmQlMjBEZXZlbG9wZXIlMjBUb29scyUyMFlvdSUyMFVzZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTI0NzM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMjIlM0E1OCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "pubDate": "Mon, 16 Nov 2026 22:58:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAxMiUyRjA2JTJGaG93LXRvLWJyZWFrLWludG8tc2VjdXJpdHktcHRhY2VrLWVkaXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRmtyZWJzb25zZWN1cml0eS5jb20lMkYyMDEyJTJGMDYlMkZob3ctdG8tYnJlYWstaW50by1zZWN1cml0eS1wdGFjZWstZWRpdGlvbiUyRiU3Q0hvdyUyMHRvJTIwQnJlYWslMjBpbnRvJTIwU2VjdXJpdHklMkMlMjBQdGFjZWslMjBFZGl0aW9uJTIwKDIwMTIpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjQyMjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAyMiUzQTE5JTNBMjMlMjAlMkIwMDAw",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "pubDate": "Mon, 16 Nov 2026 22:19:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc3BhbWhhdXMub3JnJTJGc2VuZGVyLWd1aWRlbGluZXMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zcGFtaGF1cy5vcmclMkZzZW5kZXItZ3VpZGVsaW5lcyUyRiU3Q1NwYW1oYXVzJTIwbmV3JTIwZW1haWwlMjBzZW5kZXIlMjByZXF1aXJlbWVudHMlMjBpbiUyME5vdmVtYmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjM3ODQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAyMSUzQTQ3JTNBMTklMjAlMkIwMDAw",
+      "title": "Spamhaus new email sender requirements in November",
+      "pubDate": "Mon, 16 Nov 2026 21:47:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVnbWVub3QuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnVnbWVub3QuY29tJTJGJTdDQnVnTWVOb3QlMjBoYXMlMjBjbG9zZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyMzYwMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDIxJTNBMzIlM0ExNyUyMCUyQjAwMDA",
+      "title": "BugMeNot has closed",
+      "pubDate": "Mon, 16 Nov 2026 21:32:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuY29kZS5haSUyRnByb2R1Y3QlMkZicm93c2UlN0NodHRwcyUzQSUyRiUyRm9wZW5jb2RlLmFpJTJGcHJvZHVjdCUyRmJyb3dzZSU3Q09wZW5Db2RlJTIwQnJvd3NlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjM0NTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAyMSUzQTIwJTNBMzclMjAlMkIwMDAw",
+      "title": "OpenCode Browse",
+      "pubDate": "Mon, 16 Nov 2026 21:20:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZ0ZWNoLXBvbGljeSUyRjIwMjYlMkYxMSUyRmNvbWNhc3QtZmFsc2VseS1hZHZlcnRpc2VzLWNhYmxlLWludGVybmV0LWFzLWZpYmVyLXBvd2VyZWQtYXR0LWxhd3N1aXQtc2F5cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGdGVjaC1wb2xpY3klMkYyMDI2JTJGMTElMkZjb21jYXN0LWZhbHNlbHktYWR2ZXJ0aXNlcy1jYWJsZS1pbnRlcm5ldC1hcy1maWJlci1wb3dlcmVkLWF0dC1sYXdzdWl0LXNheXMlMkYlN0NDb21jYXN0J3MlMjAlMjJmaWJlci1wb3dlcmVkJTIwV2ktRmklMjIlMjBpcyUyMGNhYmxlJTJDJTIwQVQlMjZUJTIwc2F5cyUyMGluJTIwZmFsc2UlMjBhZHZlcnRpc2luZyUyMGNhc2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyMzAyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDIwJTNBNDglM0EwOCUyMCUyQjAwMDA",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "pubDate": "Mon, 16 Nov 2026 20:48:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY3MuY211LmVkdSUyRmxlYXJuJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuY3MuY211LmVkdSUyRmxlYXJuJTJGJTdDQ2FybmVnaWUlMjBNZWxsb24lMjBpcyUyMHB1dHRpbmclMjBjb21wdXRlciUyMHNjaWVuY2UlMjBjb3Vyc2VzJTIwb24lMjBZb3VUdWJlJTIwZm9yJTIwZnJlZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIyOTgwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMjAlM0E0MyUzQTM2JTIwJTJCMDAwMA",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "pubDate": "Mon, 16 Nov 2026 20:43:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIyNzc2JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIyNzc2JTdDTGF1bmNoJTIwSE4lM0ElMjBBeG9ubmljJTIwKFlDJTIwRjI2KSUyMCVFMiU4MCU5MyUyMFNsZWV2ZXMlMjB0aGF0JTIwdHJhY2slMjBmaW5nZXJzJTIwYW5kJTIwZXN0aW1hdGUlMjBmb3JjZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIyNzc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMjAlM0EyOSUzQTQ4JTIwJTJCMDAwMA",
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "pubDate": "Mon, 16 Nov 2026 20:29:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlsbHBoeXNpY3NlbmpveWVyLnN1YnN0YWNrLmNvbSUyRnAlMkZjaGVtaXN0cnktaXMtYWN0dWFsbHktZ2VvbWV0cnklN0NodHRwcyUzQSUyRiUyRmNoaWxscGh5c2ljc2Vuam95ZXIuc3Vic3RhY2suY29tJTJGcCUyRmNoZW1pc3RyeS1pcy1hY3R1YWxseS1nZW9tZXRyeSU3Q0NoZW1pc3RyeSUyMGlzJTIwQWN0dWFsbHklMjBHZW9tZXRyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIyNjQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMjAlM0EyMiUzQTE4JTIwJTJCMDAwMA",
+      "title": "Chemistry is Actually Geometry",
+      "pubDate": "Mon, 16 Nov 2026 20:22:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcG5ld3MuY29tJTJGYXJ0aWNsZSUyRmJhbmstb3V0YWdlLWNoYXNlLXdlbGxzLWZhcmdvLXRydWlzdC01MGZlZTI2OTNjMjJmNTk3ZmE2Y2E1MWE5N2VmMmNkYSU3Q2h0dHBzJTNBJTJGJTJGYXBuZXdzLmNvbSUyRmFydGljbGUlMkZiYW5rLW91dGFnZS1jaGFzZS13ZWxscy1mYXJnby10cnVpc3QtNTBmZWUyNjkzYzIyZjU5N2ZhNmNhNTFhOTdlZjJjZGElN0NUZWNobmljYWwlMjBpc3N1ZSUyMGF0JTIwSlBNb3JnYW4lMjBDaGFzZSUyMHRyaWdnZXJzJTIwb25saW5lJTIwYmFua2luZyUyMGRlbGF5cyUyMGZvciUyMFVTJTIwYmFua3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyMTA0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDE4JTNBMzElM0EzMCUyMCUyQjAwMDA",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "pubDate": "Mon, 16 Nov 2026 18:31:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlcmVnaXN0ZXIuY29tJTJGc2FhcyUyRjIwMjYlMkYxMSUyRjE2JTJGbWljcm9zb2Z0LWJsYW1lcy1tb25zdGVyLWVtYWlsLW91dGFnZS1vbi1zb2Z0d2FyZS1kZWZlY3QtaW50cm9kdWNlZC1pbi1qdWx5LWZpeCUyRjUzMTAwMjYlN0NodHRwcyUzQSUyRiUyRnd3dy50aGVyZWdpc3Rlci5jb20lMkZzYWFzJTJGMjAyNiUyRjExJTJGMTYlMkZtaWNyb3NvZnQtYmxhbWVzLW1vbnN0ZXItZW1haWwtb3V0YWdlLW9uLXNvZnR3YXJlLWRlZmVjdC1pbnRyb2R1Y2VkLWluLWp1bHktZml4JTJGNTMxMDAyNiU3Q01pY3Jvc29mdCUyMGJsYW1lcyUyMG1vbnN0ZXIlMjBlbWFpbCUyMG91dGFnZSUyMG9uJTIwc29mdHdhcmUlMjBkZWZlY3QlMjBpbnRyb2R1Y2VkJTIwaW4lMjBKdWx5JTIwZml4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTczMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxMyUzQTE4JTNBMjIlMjAlMkIwMDAw",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "pubDate": "Mon, 16 Nov 2026 13:18:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNlbnRyeS5jb20lMkZibG9nJTJGZG8tcmVwZWF0LXlvdXJzZWxmJTJGJTdDaHR0cHMlM0ElMkYlMkZhcmNlbnRyeS5jb20lMkZibG9nJTJGZG8tcmVwZWF0LXlvdXJzZWxmJTJGJTdDRG8lMjBSZXBlYXQlMjBZb3Vyc2VsZiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE2Njg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTIlM0EwNiUzQTQ2JTIwJTJCMDAwMA",
+      "title": "Do Repeat Yourself",
+      "pubDate": "Mon, 16 Nov 2026 12:06:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYmVuZGVyLm9yZyUyRndpa2klMkZjdXJ2ZXMlMkZzcXVpcmNsZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbGluZWJlbmRlci5vcmclMkZ3aWtpJTJGY3VydmVzJTJGc3F1aXJjbGUlMkYlN0NTcXVpcmNsZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxNTE1MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDA3JTNBNTUlM0ExMCUyMCUyQjAwMDA",
+      "title": "Squircles",
+      "pubDate": "Mon, 16 Nov 2026 07:55:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5sdXUuY29tJTJGYXN0cmEtdGVzdGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGFubHV1LmNvbSUyRmFzdHJhLXRlc3RpbmclMkYlN0NUZXN0JTJGdmVyaWZpY2F0aW9uJTIwdGVjaG5pcXVlJTIwZWZmZWN0aXZlbmVzcyUyMHdpdGglMjBBc3RyYSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE1MDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMDclM0EzMyUzQTUxJTIwJTJCMDAwMA",
+      "title": "Test/verification technique effectiveness with Astra",
+      "pubDate": "Mon, 16 Nov 2026 07:33:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkaWdpdGFsZmlsbXMud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMSUyRjE1JTJGc3RvcC1maWxtaW5nLWluLWxvZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZGlnaXRhbGZpbG1zLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTElMkYxNSUyRnN0b3AtZmlsbWluZy1pbi1sb2clMkYlN0NTdG9wJTIwRmlsbWluZyUyMGluJTIwTG9nJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTQwOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAwNCUzQTM3JTNBMDMlMjAlMkIwMDAw",
+      "title": "Stop Filming in Log?",
+      "pubDate": "Mon, 16 Nov 2026 04:37:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaW1vbnkub3JnJTJGJTdDaHR0cHMlM0ElMkYlMkZuaW1vbnkub3JnJTJGJTdDTmltb255JTNBJTIwQSUyME5ldyUyMENvbXBpbGVyJTIwZm9yJTIwTmltJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTI3NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAwMSUzQTA1JTNBMjIlMjAlMkIwMDAw",
+      "title": "Nimony: A New Compiler for Nim",
+      "pubDate": "Mon, 16 Nov 2026 01:05:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYWxlb25lcmRpc2gud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMCUyRjMwJTJGaGFsbG93ZWVuLXNwZWNpYWwteGl2LXRoZS1mb3NzaWxzLXRoYXQtaGF1bnRlZC1sb3ZlY3JhZnQlMkYlN0NodHRwcyUzQSUyRiUyRnBhbGVvbmVyZGlzaC53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjEwJTJGMzAlMkZoYWxsb3dlZW4tc3BlY2lhbC14aXYtdGhlLWZvc3NpbHMtdGhhdC1oYXVudGVkLWxvdmVjcmFmdCUyRiU3Q1RoZSUyMEZvc3NpbHMlMjBUaGF0JTIwSGF1bnRlZCUyMExvdmVjcmFmdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTEyNTc2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMDAlM0EzOCUzQTEyJTIwJTJCMDAwMA",
+      "title": "The Fossils That Haunted Lovecraft",
+      "pubDate": "Mon, 16 Nov 2026 00:38:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]

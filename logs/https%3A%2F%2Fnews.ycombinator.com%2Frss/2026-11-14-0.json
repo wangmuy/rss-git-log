@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-14",
     "newestItemDate": "2026-11-14",
-    "itemCount": 40,
-    "generatedAt": "2026-11-16T18:40:27.208Z"
+    "itemCount": 42,
+    "generatedAt": "2026-11-17T08:06:12.732Z"
   },
   "items": [
     {
@@ -246,6 +246,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdG9tNyUyRm5vcGVydHMlMkZibG9iJTJGbWFpbiUyRnNlcHRvcGVydC5tZCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnRvbTclMkZub3BlcnRzJTJGYmxvYiUyRm1haW4lMkZzZXB0b3BlcnQubWQlN0NTbWFsbGVzdCUyMHBvc3NpYmxlJTIwbm9wZXJ0JTIwcG9seWhlZHJhJTNBJTIwdGhlJTIwU2VwdG9wZXJ0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTc3NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxNSUzQTIyJTNBMzAlMjAlMkIwMDAw",
       "title": "Smallest possible nopert polyhedra: the Septopert",
       "pubDate": "Sat, 14 Nov 2026 15:22:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBlcmVua2VsZXMuY29tJTJGcG9zdHMlMkZmb3JtYWwtdmVyaWZpY2F0aW9uLWlzLW5vdC12ZXJpZmlhYmxlJTJGJTdDaHR0cHMlM0ElMkYlMkZhbHBlcmVua2VsZXMuY29tJTJGcG9zdHMlMkZmb3JtYWwtdmVyaWZpY2F0aW9uLWlzLW5vdC12ZXJpZmlhYmxlJTJGJTdDRm9ybWFsJTIwVmVyaWZpY2F0aW9uJTIwSXMlMjBOb3QlMjBWZXJpZmlhYmxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTc2MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxNSUzQTA3JTNBNDglMjAlMkIwMDAw",
+      "title": "Formal Verification Is Not Verifiable",
+      "pubDate": "Sat, 14 Nov 2026 15:07:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGWmlnYW9XYW5nJTJGemlnemFnJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGWmlnYW9XYW5nJTJGemlnemFnJTdDU2hvdyUyMEhOJTNBJTIwWmlnemFnJTJDJTIwYSUyMG5hdGl2ZSUyME1hYyUyMGJyb3dzZXIlMjBmb3IlMjBwZW9wbGUlMjBsZWF2aW5nJTIwQXJjJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA0OTY3ODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAxNCUyME5vdiUyMDIwMjYlMjAxMyUzQTE3JTNBMTAlMjAlMkIwMDAw",
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "pubDate": "Sat, 14 Nov 2026 13:17:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-14-0.json"
     }
   ]
