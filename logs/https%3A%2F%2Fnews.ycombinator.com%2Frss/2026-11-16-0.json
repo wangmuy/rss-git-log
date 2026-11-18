@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 51,
-    "generatedAt": "2026-11-17T17:41:19.728Z"
+    "itemCount": 52,
+    "generatedAt": "2026-11-18T07:41:57.041Z"
   },
   "items": [
     {
@@ -312,6 +312,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlZ20uZGV2JTJGJTdDaHR0cHMlM0ElMkYlMkZlZ20uZGV2JTJGJTdDRWxlcGhhbnQtR29sZGZpc2glMjBNb2RlbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE1MjkxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMDglM0EyMyUzQTI4JTIwJTJCMDAwMA",
       "title": "Elephant-Goldfish Model",
       "pubDate": "Mon, 16 Nov 2026 08:23:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQXBha290dHVyJTJGdW5yZWYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZBcGFrb3R0dXIlMkZ1bnJlZiU3Q1Nob3clMjBITiUzQSUyMFVucmVmJTIwJUUyJTgwJTkzJTIwQSUyMFB5dGhvbiUyMGRlYWQlMjBjb2RlJTIwZmluZGVyJTIwYnVpbHQlMjBvbiUyMFJ1ZmYncyUyMHBhcnNlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE3NDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTMlM0EzMCUzQTMwJTIwJTJCMDAwMA",
+      "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+      "pubDate": "Mon, 16 Nov 2026 13:30:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]

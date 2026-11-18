@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 17,
-    "generatedAt": "2026-11-17T17:41:19.728Z"
+    "itemCount": 32,
+    "generatedAt": "2026-11-18T07:41:57.041Z"
   },
   "items": [
     {
@@ -108,6 +108,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuZGV2JTJGYmxvZyUyRmhvdy10aGUtY2xhdWRlLWNvZGUtdGVhbS10aGlua3MtYWJvdXQtdmVyaWZpY2F0aW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZjbGF1ZGUuZGV2JTJGYmxvZyUyRmhvdy10aGUtY2xhdWRlLWNvZGUtdGVhbS10aGlua3MtYWJvdXQtdmVyaWZpY2F0aW9uJTJGJTdDSG93JTIwdGhlJTIwQ2xhdWRlJTIwQ29kZSUyMHRlYW0lMjB0aGlua3MlMjBhYm91dCUyMHZlcmlmaWNhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTI5NjEyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTAlM0EyMCUzQTQwJTIwJTJCMDAwMA",
       "title": "How the Claude Code team thinks about verification",
       "pubDate": "Tue, 17 Nov 2026 10:20:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aWtpLmFyY2hpdmV0ZWFtLm9yZyUyRmluZGV4LnBocCUyRkFwcGxlX0Rpc2N1c3Npb25zJTdDaHR0cHMlM0ElMkYlMkZ3aWtpLmFyY2hpdmV0ZWFtLm9yZyUyRmluZGV4LnBocCUyRkFwcGxlX0Rpc2N1c3Npb25zJTdDQXJjaGl2ZSUyMFRlYW0lMjBpcyUyMGFyY2hpdmluZyUyMHRoZSUyMEFwcGxlJTIwU3VwcG9ydCUyMENvbW11bml0eSUyMChjbG9zZXMlMjBOb3ZlbWJlciUyMDIwJTJDJTIwMjAyNiklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzOTc0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDIzJTNBMzIlM0E1OCUyMCUyQjAwMDA",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "pubDate": "Tue, 17 Nov 2026 23:32:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWljcm9zb2Z0JTJGb25ueHJ1bnRpbWUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZtaWNyb3NvZnQlMkZvbm54cnVudGltZSU3Q01pY3Jvc29mdCdzJTIwT05OWCUyMFJ1bnRpbWUlMjBoYXMlMjBkaXNhcHBlYXJlZCUyMGZyb20lMjBHaXRIdWIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzOTYxMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDIzJTNBMTglM0E0OSUyMCUyQjAwMDA",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "pubDate": "Tue, 17 Nov 2026 23:18:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNsb3VkZmxhcmUuY29tJTJGcXVhZDktd2l0aGRyYXdhbC1mcm9tLWZyYW5jZSUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jbG91ZGZsYXJlLmNvbSUyRnF1YWQ5LXdpdGhkcmF3YWwtZnJvbS1mcmFuY2UlMkYlN0NRdWFkOSdzJTIwd2l0aGRyYXdhbCUyMGZyb20lMjBGcmFuY2UlM0ElMjBBJTIwY2FuYXJ5JTIwaW4lMjB0aGUlMjBjb2FsJTIwbWluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM4OTk0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMjIlM0ExMyUzQTM0JTIwJTJCMDAwMA",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "pubDate": "Tue, 17 Nov 2026 22:13:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21wbGV4ZGlzY292ZXJ5LmNvbSUyRmhhcnZhcmQtcmVzZWFyY2hlcnMtZmluZC1haS1jb2RpbmctYWdlbnRzLXNoaWZ0ZWQtdGhlLWJvdHRsZW5lY2stdG8tY29kZS1yZXZpZXclMkYlN0NodHRwcyUzQSUyRiUyRmNvbXBsZXhkaXNjb3ZlcnkuY29tJTJGaGFydmFyZC1yZXNlYXJjaGVycy1maW5kLWFpLWNvZGluZy1hZ2VudHMtc2hpZnRlZC10aGUtYm90dGxlbmVjay10by1jb2RlLXJldmlldyUyRiU3Q0hhcnZhcmQlMjByZXNlYXJjaGVycyUyMGZpbmQlMjBBSSUyMGNvZGluZyUyMGFnZW50cyUyMHNoaWZ0ZWQlMjB0aGUlMjBib3R0bGVuZWNrJTIwdG8lMjBjb2RlJTIwcmV2aWV3JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzgzMDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAyMSUzQTE2JTNBMTIlMjAlMkIwMDAw",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "pubDate": "Tue, 17 Nov 2026 21:16:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjYWxpZi5pbyUyRmphdmE0c2hlbGwlMkYlN0NodHRwcyUzQSUyRiUyRmNhbGlmLmlvJTJGamF2YTRzaGVsbCUyRiU3Q0phdmE0U2hlbGwlM0ElMjBSQ0UlMjBpbiUyME9wZW5KREslMjB3aGVuJTIwcHJvY2Vzc2luZyUyMEJhc2U2NCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM4MjQwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMjElM0ExMSUzQTI4JTIwJTJCMDAwMA",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "pubDate": "Tue, 17 Nov 2026 21:11:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZoeS50ZW5jZW50LmFpJTJGcmVzZWFyY2glMkZoeTQtZmxhc2glN0NodHRwcyUzQSUyRiUyRmh5LnRlbmNlbnQuYWklMkZyZXNlYXJjaCUyRmh5NC1mbGFzaCU3Q1RlbmNlbnQlMjBIeTQlMjBGbGFzaCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM4MTg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMjElM0EwNiUzQTA4JTIwJTJCMDAwMA",
+      "title": "Tencent Hy4 Flash",
+      "pubDate": "Tue, 17 Nov 2026 21:06:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZicm93c2VyLmVuZ2luZWVyaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZicm93c2VyLmVuZ2luZWVyaW5nJTJGJTdDV2ViJTIwQnJvd3NlciUyMEVuZ2luZWVyaW5nJTIwKDIwMjEpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzcyOTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAyMCUzQTAxJTNBMzUlMjAlMkIwMDAw",
+      "title": "Web Browser Engineering (2021)",
+      "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGanF1ZXJ5JTJGanF1ZXJ5JTJGcmVsZWFzZXMlMkZ0YWclMkY0LjEuMCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmpxdWVyeSUyRmpxdWVyeSUyRnJlbGVhc2VzJTJGdGFnJTJGNC4xLjAlN0NqUXVlcnklMjA0LjEuMCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM3MTU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTklM0E1MCUzQTQwJTIwJTJCMDAwMA",
+      "title": "jQuery 4.1.0",
+      "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZW5vcndheS5ubyUyRmN1bHR1cmUtaGlzdG9yeS1oaXN0b3J5LW9mLXNjaWVuY2UlMkYzNTAteWVhcnMtYWdvLXRoaXMtbWFuLWRpc2NvdmVyZWQtdGhhdC1saWdodC1oYXMtYS1maW5pdGUtc3BlZWQlMkYyNzM3OTY5JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZW5vcndheS5ubyUyRmN1bHR1cmUtaGlzdG9yeS1oaXN0b3J5LW9mLXNjaWVuY2UlMkYzNTAteWVhcnMtYWdvLXRoaXMtbWFuLWRpc2NvdmVyZWQtdGhhdC1saWdodC1oYXMtYS1maW5pdGUtc3BlZWQlMkYyNzM3OTY5JTdDMzUwJTIweWVhcnMlMjBhZ28lMkMlMjBPbGUlMjBSJUMzJUI4bWVyJTIwZGlzY292ZXJlZCUyMHRoYXQlMjBsaWdodCUyMGhhcyUyMGElMjBmaW5pdGUlMjBzcGVlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM2ODEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTklM0EyNSUzQTI3JTIwJTJCMDAwMA",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "pubDate": "Tue, 17 Nov 2026 19:25:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFyc2xpbmcuZGV2JTdDaHR0cHMlM0ElMkYlMkZzdGFyc2xpbmcuZGV2JTJGJTdDTGF1bmNoJTIwSE4lM0ElMjBTdGFyU2xpbmclMjAoWUMlMjBQMjUpJTIwJUUyJTgwJTkzJTIwU2VsZi1pbXByb3ZpbmclMjBDSSUyMGZvciUyMGFnZW50LXZvbHVtZSUyMHJlcG9zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzY0NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAxOSUzQTAxJTNBNDMlMjAlMkIwMDAw",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "pubDate": "Tue, 17 Nov 2026 19:01:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc29saWRqcy5jb20lMkZibG9nJTJGc29saWQtMi0wLXRoZS1sb25nLWhvbGQlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5zb2xpZGpzLmNvbSUyRmJsb2clMkZzb2xpZC0yLTAtdGhlLWxvbmctaG9sZCUyRiU3Q1NvbGlkJTIwMi4wJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzYzODclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAxOCUzQTU2JTNBMTclMjAlMkIwMDAw",
+      "title": "Solid 2.0",
+      "pubDate": "Tue, 17 Nov 2026 18:56:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHJhY2sub3JnJTJGaXNzdWVzJTJGNzMlMkZpbnRyb2R1Y3Rpb25fbWQlN0NodHRwcyUzQSUyRiUyRnBocmFjay5vcmclMkZpc3N1ZXMlMkY3MyUyRmludHJvZHVjdGlvbl9tZCU3Q1BocmFjayUyMDczJTIwUmVsZWFzZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNTk5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE4JTNBMzElM0EyNSUyMCUyQjAwMDA",
+      "title": "Phrack 73 Released",
+      "pubDate": "Tue, 17 Nov 2026 18:31:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuYWklMkZuZXdzJTJGaW50cm9kdWNpbmctbWFpLWNvZGUtMi1hbmQtbWFpLWNvZGUtMi1mbGFzaCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWljcm9zb2Z0LmFpJTJGbmV3cyUyRmludHJvZHVjaW5nLW1haS1jb2RlLTItYW5kLW1haS1jb2RlLTItZmxhc2glMkYlN0NNQUklMjBDb2RlJTIwMiUyMGFuZCUyMENvZGUlMjAyJTIwRmxhc2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNTg4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE4JTNBMjUlM0ExMyUyMCUyQjAwMDA",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "pubDate": "Tue, 17 Nov 2026 18:25:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZpbnRyb2R1Y2luZy1ncHQtNi0yLWFzdHJhLXNvbCUyRiU3Q2h0dHBzJTNBJTJGJTJGb3BlbmFpLmNvbSUyRmluZGV4JTJGaW50cm9kdWNpbmctZ3B0LTYtMi1hc3RyYS1zb2wlMkYlN0NHUFQlRTIlODAlOTE2LjIlMjBBc3RyYSUyMGFuZCUyMFNvbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTM1MjMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTclM0E0NiUzQTQzJTIwJTJCMDAwMA",
+      "title": "GPT‑6.2 Astra and Sol",
+      "pubDate": "Tue, 17 Nov 2026 17:46:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZnQuY29tJTJGY29udGVudCUyRmRiZGU3YTMwLTU0OGMtNGY5ZC1hNGJlLTc4OThhMGMyNGRjZiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZ0LmNvbSUyRmNvbnRlbnQlMkZkYmRlN2EzMC01NDhjLTRmOWQtYTRiZS03ODk4YTBjMjRkY2YlN0NOdmlkaWElMjBzdG9wcGVkJTIwZGlzY2xvc2luZyUyMFNpbmdhcG9yZSUyMHNhbGVzJTIwYXMlMjByZXZlbnVlcyUyMGhpdCUyMCUyNDEwNEIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNDYzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE3JTNBMTIlM0EwNiUyMCUyQjAwMDA",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "pubDate": "Tue, 17 Nov 2026 17:12:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]
