@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-15",
     "newestItemDate": "2026-11-15",
-    "itemCount": 39,
-    "generatedAt": "2026-11-18T07:41:57.041Z"
+    "itemCount": 43,
+    "generatedAt": "2026-11-18T17:20:53.237Z"
   },
   "items": [
     {
@@ -240,6 +240,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNtcHhjaGc4Yi5jb20lMkYyMDEyJTJGMDklMkZmdW4td2l0aC1jb25zdHJhaW5lZC1wcm9ncmFtbWluZy5odG1sJTdDaHR0cHMlM0ElMkYlMkZibG9nLmNtcHhjaGc4Yi5jb20lMkYyMDEyJTJGMDklMkZmdW4td2l0aC1jb25zdHJhaW5lZC1wcm9ncmFtbWluZy5odG1sJTdDRnVuJTIwd2l0aCUyMENvbnN0cmFpbmVkJTIwUHJvZ3JhbW1pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwMzQ5MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDAyJTNBNDUlM0E1NyUyMCUyQjAwMDA",
       "title": "Fun with Constrained Programming",
       "pubDate": "Sun, 15 Nov 2026 02:45:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXJtYWRlbi53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjExJTJGMTAlMkZmcmVlYnNkLXBrZ2Jhc2UtdXBkYXRlLXRvb2wlMkYlN0NodHRwcyUzQSUyRiUyRnZlcm1hZGVuLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTElMkYxMCUyRmZyZWVic2QtcGtnYmFzZS11cGRhdGUtdG9vbCUyRiU3Q05ldyUyMEZyZWVCU0QlMjBQa2diYXNlKDgpJTIwVG9vbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA4MzU2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTYlM0E0NiUzQTEzJTIwJTJCMDAwMA",
+      "title": "New FreeBSD Pkgbase(8) Tool",
+      "pubDate": "Sun, 15 Nov 2026 16:46:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWRpdW0uY29tJTJGJTQwc21va2luZzJtYW4lMkZ3aGVuLWFpLWtub3dzLW1vcmUtdGhhbi1pdC1jYW4tb2ZmZXItaG93LXRyYWluaW5nLXR1cm5zLWFuLWludGVsbGlnZW50LWFzc2lzdGFudC1pbnRvLWEtZ2VuZXJhdG9yLTdlNzAwZjA1MTYzZSU3Q2h0dHBzJTNBJTJGJTJGbWVkaXVtLmNvbSUyRiU0MHNtb2tpbmcybWFuJTJGd2hlbi1haS1rbm93cy1tb3JlLXRoYW4taXQtY2FuLW9mZmVyLWhvdy10cmFpbmluZy10dXJucy1hbi1pbnRlbGxpZ2VudC1hc3Npc3RhbnQtaW50by1hLWdlbmVyYXRvci03ZTcwMGYwNTE2M2UlN0NXaGVuJTIwQUklMjBLbm93cyUyME1vcmUlMjBUaGFuJTIwSXQlMjBDYW4lMjBPZmZlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTA3OTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMTUlM0E1OSUzQTIzJTIwJTJCMDAwMA",
+      "title": "When AI Knows More Than It Can Offer",
+      "pubDate": "Sun, 15 Nov 2026 15:59:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZieXRlcy56b25lJTJGcG9zdHMlMkZ3aGF0LWlzLXRoZS1yYW5kb21hcnQtaW1hZ2UtZm9yJTJGJTdDaHR0cHMlM0ElMkYlMkZieXRlcy56b25lJTJGcG9zdHMlMkZ3aGF0LWlzLXRoZS1yYW5kb21hcnQtaW1hZ2UtZm9yJTJGJTdDV2hhdCUyMGlzJTIwdGhlJTIwcmFuZG9tYXJ0JTIwaW1hZ2UlMjBmb3IlM0YlMjAoMjAyMyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNjQzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDEyJTNBMjclM0EwNyUyMCUyQjAwMDA",
+      "title": "What is the randomart image for? (2023)",
+      "pubDate": "Sun, 15 Nov 2026 12:27:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZnF1YXN0LmNvbSUyRnBvc3QlMkZhLXBlcmZlY3Qtc2ltY2l0eSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmplZmZxdWFzdC5jb20lMkZwb3N0JTJGYS1wZXJmZWN0LXNpbWNpdHklMkYlN0NBJTIwUGVyZmVjdCUyMFNpbUNpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNDM3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDA1JTNBNTQlM0EyMiUyMCUyQjAwMDA",
+      "title": "A Perfect SimCity",
+      "pubDate": "Sun, 15 Nov 2026 05:54:22 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-18",
     "newestItemDate": "2026-11-18",
-    "itemCount": 10,
-    "generatedAt": "2026-11-18T07:41:57.040Z"
+    "itemCount": 33,
+    "generatedAt": "2026-11-18T17:20:53.236Z"
   },
   "items": [
     {
@@ -66,6 +66,144 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZXZzY29wZS5jbyUyRmJsb2clMkZzZWFyY2gtc2VvLWdlby0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZyZXZzY29wZS5jbyUyRmJsb2clMkZzZWFyY2gtc2VvLWdlby0yMDI2JTJGJTdDR29vZ2xlJ3MlMjBBSSUyMGFuc3dlcnMlMjByZWR1Y2luZyUyMHNlYXJjaCUyMHRyYWZmaWMlMjBieSUyMDQwJTI1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDAxNzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAwMCUzQTE3JTNBNTglMjAlMkIwMDAw",
       "title": "Google's AI answers reducing search traffic by 40%",
       "pubDate": "Wed, 18 Nov 2026 00:17:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnVzaW5lc3N3aXJlLmNvbSUyRm5ld3MlMkZob21lJTJGMjAyNjExMTg5NzQ0NjQlMkZlbiUyRkFudGhyb3BpYy1pcy1Ob3QtYS1TYWZlLUFJLUNvbXBhbnktLS1Ccm9hZC1Db2FsaXRpb24tb2YtU2NpZW50aXN0cy1MZWdhbC1TY2hvbGFycy1hbmQtVGVjaC1MZWFkZXJzLUNoYWxsZW5nZS1BbnRocm9waWNzLVNhZmV0eS1CcmFuZGluZy1BaGVhZC1vZi1JUE8lN0NodHRwcyUzQSUyRiUyRnd3dy5idXNpbmVzc3dpcmUuY29tJTJGbmV3cyUyRmhvbWUlMkYyMDI2MTExODk3NDQ2NCUyRmVuJTJGQW50aHJvcGljLWlzLU5vdC1hLVNhZmUtQUktQ29tcGFueS0tLUJyb2FkLUNvYWxpdGlvbi1vZi1TY2llbnRpc3RzLUxlZ2FsLVNjaG9sYXJzLWFuZC1UZWNoLUxlYWRlcnMtQ2hhbGxlbmdlLUFudGhyb3BpY3MtU2FmZXR5LUJyYW5kaW5nLUFoZWFkLW9mLUlQTyU3QyUyMkFudGhyb3BpYyUyMElzJTIwTm90JTIwYSUyMFNhZmUlMjBBSSUyMENvbXBhbnklMjIlMjAlRTIlODAlOTMlMjBDb2FsaXRpb24lMjBDaGFsbGVuZ2VzJTIwQW50aHJvcGljJTIwU2FmZXR5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDg0ODUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNiUzQTQxJTNBMjIlMjAlMkIwMDAw",
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "pubDate": "Wed, 18 Nov 2026 16:41:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWN1cnNpdmVhaS5vcmclMkZibG9nJTJGd2hhdC1teS1zb2Z0d2FyZS1mYWN0b3J5LWJ1aWx0JTJGJTdDaHR0cHMlM0ElMkYlMkZyZWN1cnNpdmVhaS5vcmclMkZibG9nJTJGd2hhdC1teS1zb2Z0d2FyZS1mYWN0b3J5LWJ1aWx0JTJGJTdDU29mdHdhcmUlMjBGYWN0b3J5JTIwYnVpbGRzJTIwMzAlMjBjb21wbGV4JTIwb3BlbiUyMHNvdXJjZSUyMGxpYnJhcmllcyUyMGluJTIwYSUyMG1vbnRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDgyODElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNiUzQTI2JTNBNDIlMjAlMkIwMDAw",
+      "title": "Software Factory builds 30 complex open source libraries in a month",
+      "pubDate": "Wed, 18 Nov 2026 16:26:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmZjLWVkaXRvci5vcmclMkZpbmZvJTJGcmZjMjY3NSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJmYy1lZGl0b3Iub3JnJTJGaW5mbyUyRnJmYzI2NzUlMkYlN0NSRkMlMjAyNjc1JTNBJTIwSVB2NiUyMEp1bWJvZ3JhbXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0ODIxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE2JTNBMjIlM0EyMyUyMCUyQjAwMDA",
+      "title": "RFC 2675: IPv6 Jumbograms",
+      "pubDate": "Wed, 18 Nov 2026 16:22:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyc2hla2hhci5jb20lMkZ2b3lhZ2VyJTJGJTdDaHR0cHMlM0ElMkYlMkZyc2hla2hhci5jb20lMkZ2b3lhZ2VyJTJGJTdDU2hvdyUyMEhOJTNBJTIwVGFrZSUyMFZveWFnZXIlMjAxJTIwYXBhcnQlMkMlMjBkb3duJTIwdG8lMjBhJTIwc2luZ2xlJTIwbWVtb3J5JTIwY2hpcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ4MTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTYlM0ExOCUzQTUxJTIwJTJCMDAwMA",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "pubDate": "Wed, 18 Nov 2026 16:18:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGt1ZmZvLmNvbSUyRnN1cGVyZW1lYW5zJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubGt1ZmZvLmNvbSUyRnN1cGVyZW1lYW5zJTJGJTdDU3VwZXJFTWVhbnMlM0ElMjBNYWtpbmclMjBlLW1lYW5zJTIwMyVDMyU5NyUyMGZhc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ4MDM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTYlM0EwOSUzQTUwJTIwJTJCMDAwMA",
+      "title": "SuperEMeans: Making e-means 3× faster",
+      "pubDate": "Wed, 18 Nov 2026 16:09:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuYWklMkZuZXdzJTJGbWljcm9zb2Z0LWlnbml0ZS0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuYWklMkZuZXdzJTJGbWljcm9zb2Z0LWlnbml0ZS0yMDI2JTJGJTdDTWljcm9zb2Z0JTIwQUklM0ElMjBTZXZlbiUyMG5ldyUyMHdvcmxkLWNsYXNzJTIwbW9kZWxzJTIwYXQlMjBzY2FsYWJsZSUyMHByaWNlLXBlcmZvcm1hbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDgwMjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNiUzQTA4JTNBMjQlMjAlMkIwMDAw",
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "pubDate": "Wed, 18 Nov 2026 16:08:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVycmEuc2VjdXJpdHklMkZibG9nJTJGa3ZtLWd1ZXN0LXRvLWhvc3QtZXNjYXBlJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVycmEuc2VjdXJpdHklMkZibG9nJTJGa3ZtLWd1ZXN0LXRvLWhvc3QtZXNjYXBlJTdDQ1ZFLTIwMjYtOTkzMTIlM0ElMjBLVk0lMjBHdWVzdC10by1Ib3N0JTIwRXNjYXBlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDgwMDQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNiUzQTA2JTNBMjElMjAlMkIwMDAw",
+      "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
+      "pubDate": "Wed, 18 Nov 2026 16:06:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZleGl0cGF0aC1ydWRkeS52ZXJjZWwuYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZleGl0cGF0aC1ydWRkeS52ZXJjZWwuYXBwJTJGJTdDU2hvdyUyMEhOJTNBJTIwRXhpdFBhdGglMjAlRTIlODAlOTMlMjBPcGVuLXNvdXJjZSUyMHdheXMlMjBvdXQlMjBvZiUyMFNsYWNrJTJDJTIwTm90aW9uJTIwYW5kJTIwTWljcm9zb2Z0JTIwMzY1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDc5ODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNiUzQTA0JTNBNDMlMjAlMkIwMDAw",
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "pubDate": "Wed, 18 Nov 2026 16:04:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyYXR3aXJlLnNwYWNlJTJGJTdDaHR0cHMlM0ElMkYlMkZyYXR3aXJlLnNwYWNlJTJGJTdDUmF0d2lyZXMlMjAlRTIlODAlOTMlMjBUaGUlMjBHcmFmZml0aSUyMFdhbGwlMjBvZiUyMHRoZSUyMEludGVybmV0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDc4MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNSUzQTUyJTNBMDElMjAlMkIwMDAw",
+      "title": "Ratwires – The Graffiti Wall of the Internet",
+      "pubDate": "Wed, 18 Nov 2026 15:52:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldXJvcGVhbmJ1c2luZXNzbWFnYXppbmUuY29tJTJGYWktYWdlbnRzLWJldHRlci1xdWVzdGlvbnMta3BtZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZXVyb3BlYW5idXNpbmVzc21hZ2F6aW5lLmNvbSUyRmFpLWFnZW50cy1iZXR0ZXItcXVlc3Rpb25zLWtwbWclMkYlN0NBSSUyMEFnZW50cyUyMEFzayUyMEJldHRlciUyMFF1ZXN0aW9ucyUyMFRoYW4lMjBLUE1HJTIwQWNjb3VudGFudHMlMjBpbiUyMExhbmRtYXJrJTIwQXVkaXQlMjBUcmlhbCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ3Nzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTUlM0E0OSUzQTM0JTIwJTJCMDAwMA",
+      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+      "pubDate": "Wed, 18 Nov 2026 15:49:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaW5zaWRlLWRiLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmluc2lkZS1kYi5jb20lMkYlN0NJbnNpZGUlMjBEZXV0c2NoZSUyMEJhbmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0NzYyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE1JTNBMzglM0EzMyUyMCUyQjAwMDA",
+      "title": "Inside Deutsche Bank",
+      "pubDate": "Wed, 18 Nov 2026 15:38:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW0uZ292JTJGd29ya3NwYWNlJTJGY29udHJhY3QlMkZvcHAlMkY4OTQ4ZTg2MDFlOTY0YzZhYmE5YzgwMWVlZTE2YjFiZSUyRnZpZXclN0NodHRwcyUzQSUyRiUyRnNhbS5nb3YlMkZ3b3Jrc3BhY2UlMkZjb250cmFjdCUyRm9wcCUyRjg5NDhlODYwMWU5NjRjNmFiYTljODAxZWVlMTZiMWJlJTJGdmlldyU3Q1UuUy4lMjBBaXJGb3JjZSUyMGlzJTIwbG9va2luZyUyMGZvciUyMG9sZCUyMHN0b3JhZ2UlMjBNZWRpYSUyMChDRiUyMG9yJTIwUEMlMjBjYXJkcyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0NzU4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE1JTNBMzUlM0E0NCUyMCUyQjAwMDA",
+      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+      "pubDate": "Wed, 18 Nov 2026 15:35:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZ2lueDJyb290LmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbmdpbngycm9vdC5jb20lMkYlN0NOR0lOWDJSb290JTIwYnklMjBYaW50JTIwJUUyJTgwJTkzJTIwRnJvbSUyME5naW54JTIwdmlzaXRvciUyMHRvJTIwcm9vdCUyMG9mJTIwdGhlJTIwc2VydmVyJTIwaG9zdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ3NDIzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTUlM0EyNCUzQTE3JTIwJTJCMDAwMA",
+      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+      "pubDate": "Wed, 18 Nov 2026 15:24:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2l6LmlvJTJGYmxvZyUyRm5naW54LWh0dHAyLXJjZS12dWxuZXJhYmlsaXRpZXMlN0NodHRwcyUzQSUyRiUyRnd3dy53aXouaW8lMkZibG9nJTJGbmdpbngtaHR0cDItcmNlLXZ1bG5lcmFiaWxpdGllcyU3Q1ByZS1hdXRoJTIwUkNFJTIwaW4lMjBOZ2lueCUyMEhUVFAlMkYyJTIwaGFuZGxpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0NzM3NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE1JTNBMTklM0E1NSUyMCUyQjAwMDA",
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "pubDate": "Wed, 18 Nov 2026 15:19:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWFob28uY29tJTJGbmV3cyUyRndvcmxkJTJGYXJ0aWNsZXMlMkZydXNzaWEtcmVwb3J0ZWRseS1wbGFubmVkLW1hc3MtY2FzdWFsdHktMDkwNTAwNTc0Lmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy55YWhvby5jb20lMkZuZXdzJTJGd29ybGQlMkZhcnRpY2xlcyUyRnJ1c3NpYS1yZXBvcnRlZGx5LXBsYW5uZWQtbWFzcy1jYXN1YWx0eS0wOTA1MDA1NzQuaHRtbCU3Q1BvbGFuZCUyMHNheXMlMjBpdCUyMHRod2FydGVkJTIwZmFsc2UlMjBmbGFnJTIwb3BlcmF0aW9uJTIwbmVhciUyMGJvcmRlciUyMHdpdGglMjBLYWxpbmluZ3JhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ3MzQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTUlM0ExOCUzQTMwJTIwJTJCMDAwMA",
+      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+      "pubDate": "Wed, 18 Nov 2026 15:18:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaWt1bWEuY29tJTJGYmxvZyUyRmhpc3Rvcnktb2YteDg2LTQwMDQtdG8tNDg2JTdDaHR0cHMlM0ElMkYlMkZwaWt1bWEuY29tJTJGYmxvZyUyRmhpc3Rvcnktb2YteDg2LTQwMDQtdG8tNDg2JTdDVGhlJTIweDg2JTIwQ1BVJTNBJTIwRnJvbSUyMDQwMDQlMjB0byUyMDQ4NiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ2OTY3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTQlM0E0NyUzQTUzJTIwJTJCMDAwMA",
+      "title": "The x86 CPU: From 4004 to 486",
+      "pubDate": "Wed, 18 Nov 2026 14:47:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjE4MjAzJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTEwLjE4MjAzJTdDQSUyMFByaW1lciUyMG9uJTIwRm91cmllciUyMFNlcmllcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ2OTIyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTQlM0E0NCUzQTMzJTIwJTJCMDAwMA",
+      "title": "A Primer on Fourier Series",
+      "pubDate": "Wed, 18 Nov 2026 14:44:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtLmFjLnVrJTJGbmV3cyUyRmNhbWJyaWRnZS1kaWN0aW9uYXJ5LXJldmVhbHMtd29yZC1vZi10aGUteWVhci0yMDI2JTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FtLmFjLnVrJTJGbmV3cyUyRmNhbWJyaWRnZS1kaWN0aW9uYXJ5LXJldmVhbHMtd29yZC1vZi10aGUteWVhci0yMDI2JTdDJ0h1bWFuJyUyMElzJTIwQ2FtYnJpZGdlJTIwRGljdGlvbmFyeSdzJTIwV29yZCUyMG9mJTIwdGhlJTIwWWVhciUyMDIwMjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0NjkxNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE0JTNBNDMlM0E1MiUyMCUyQjAwMDA",
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "pubDate": "Wed, 18 Nov 2026 14:43:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZWRhaWx5LmNvbSUyRnJlbGVhc2VzJTJGMjAyNiUyRjExJTJGMjYxMTEwMDQyNTQzLmh0bSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnNjaWVuY2VkYWlseS5jb20lMkZyZWxlYXNlcyUyRjIwMjYlMkYxMSUyRjI2MTExMDA0MjU0My5odG0lN0NFbmVyZ3klMjBkcmlua3MlMjBsaW5rZWQlMjB0byUyMDExJTIwdGltZXMlMjBtb3JlJTIwcmVwb3J0cyUyMG9mJTIwY2FyZGlhYyUyMGFycmVzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ2NDY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTQlM0EwMyUzQTM3JTIwJTJCMDAwMA",
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "pubDate": "Wed, 18 Nov 2026 14:03:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoc3RhY2t1cHMuY29tJTJGYXJ0aWNsZXMlMkZxdWFkOS1sZWF2ZXMtZnJhbmNlLWRucy1ibG9ja2luZyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaHN0YWNrdXBzLmNvbSUyRmFydGljbGVzJTJGcXVhZDktbGVhdmVzLWZyYW5jZS1kbnMtYmxvY2tpbmclMkYlN0NRdWFkOSUyMElzJTIwTGVhdmluZyUyMEZyYW5jZSUzQSUyMFdoeSUyMEROUyUyMFJlc29sdmVycyUyMEFyZSUyMHRoZSUyMFdyb25nJTIwUGxhY2UlMjB0byUyMEZpZ2h0JTIwUGlyYWN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDU5NTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxMyUzQTE4JTNBMDIlMjAlMkIwMDAw",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "pubDate": "Wed, 18 Nov 2026 13:18:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueWNvbWJpbmF0b3IuY29tJTJGY29tcGFuaWVzJTJGZXZpZGVuY2UlMkZqb2JzJTJGMXhiOVBwUC1mb3VuZGluZy1ndG0tbGVhZCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lnljb21iaW5hdG9yLmNvbSUyRmNvbXBhbmllcyUyRmV2aWRlbmNlJTJGam9icyUyRjF4YjlQcFAtZm91bmRpbmctZ3RtLWxlYWQlN0NFdmlkZW5jZSUyMChZQyUyMFMyMSklMjBJcyUyMEhpcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ1MjM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTIlM0EwMCUzQTE2JTIwJTJCMDAwMA",
+      "title": "Evidence (YC S21) Is Hiring",
+      "pubDate": "Wed, 18 Nov 2026 12:00:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0eXBlZmlnaHRlcjIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ0eXBlZmlnaHRlcjIuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwVHlwZSUyMEZpZ2h0ZXIlMjAyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDQ4MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxMSUzQTExJTNBNTMlMjAlMkIwMDAw",
+      "title": "Show HN: Type Fighter 2",
+      "pubDate": "Wed, 18 Nov 2026 11:11:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmVyZ3ktYmFzZWQtcmVhc29uZXJzLmdpdGh1Yi5pbyUyRiU3Q2h0dHBzJTNBJTJGJTJGZW5lcmd5LWJhc2VkLXJlYXNvbmVycy5naXRodWIuaW8lMkYlN0NFbmVyZ3ktQmFzZWQlMjBSZWFzb25lcnMlM0ElMjAzODV4JTIwbW9yZSUyMGVmZmljaWVudCUyMGluZmVyZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQzOTg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMDklM0EyOSUzQTMyJTIwJTJCMDAwMA",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "pubDate": "Wed, 18 Nov 2026 09:29:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
     }
   ]

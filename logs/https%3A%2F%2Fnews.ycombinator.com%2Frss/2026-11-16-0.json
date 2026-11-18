@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 52,
-    "generatedAt": "2026-11-18T07:41:57.041Z"
+    "itemCount": 53,
+    "generatedAt": "2026-11-18T17:20:53.236Z"
   },
   "items": [
     {
@@ -318,6 +318,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGQXBha290dHVyJTJGdW5yZWYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZBcGFrb3R0dXIlMkZ1bnJlZiU3Q1Nob3clMjBITiUzQSUyMFVucmVmJTIwJUUyJTgwJTkzJTIwQSUyMFB5dGhvbiUyMGRlYWQlMjBjb2RlJTIwZmluZGVyJTIwYnVpbHQlMjBvbiUyMFJ1ZmYncyUyMHBhcnNlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE3NDEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTMlM0EzMCUzQTMwJTIwJTJCMDAwMA",
       "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
       "pubDate": "Mon, 16 Nov 2026 13:30:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4ZW5vZGl1bS5jb20lMkZteS1lbWFjcy0zMS1jb250cmlidXRpb25zJTdDaHR0cHMlM0ElMkYlMkZ4ZW5vZGl1bS5jb20lMkZteS1lbWFjcy0zMS1jb250cmlidXRpb25zJTdDTXklMjBFbWFjcyUyMDMxJTIwY29udHJpYnV0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE3OTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTQlM0EyNiUzQTEwJTIwJTJCMDAwMA",
+      "title": "My Emacs 31 contributions",
+      "pubDate": "Mon, 16 Nov 2026 14:26:10 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]
