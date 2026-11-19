@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 34,
-    "generatedAt": "2026-11-19T07:37:56.279Z"
+    "itemCount": 35,
+    "generatedAt": "2026-11-19T17:26:58.046Z"
   },
   "items": [
     {
@@ -210,6 +210,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtZXJhaW5kZXguY28udWslMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5jYW1lcmFpbmRleC5jby51ayUyRiU3Q0NhbWVyYSUyMEluZGV4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzAwODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAxMSUzQTM1JTNBMzMlMjAlMkIwMDAw",
       "title": "Camera Index",
       "pubDate": "Tue, 17 Nov 2026 11:35:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmFzdGNvbXBhbnkuY29tJTJGOTE1OTc1MjAlMkZvcmVnb24tbGlicmFyeS1kaXRjaGVkLWRld2V5LWRlY2ltYWwtd2F5ZmluZGluZy1zeXN0ZW0lN0NodHRwcyUzQSUyRiUyRnd3dy5mYXN0Y29tcGFueS5jb20lMkY5MTU5NzUyMCUyRm9yZWdvbi1saWJyYXJ5LWRpdGNoZWQtZGV3ZXktZGVjaW1hbC13YXlmaW5kaW5nLXN5c3RlbSU3Q09yZWdvbiUyMGxpYnJhcnklMjBkcm9wcGVkJTIwRGV3ZXklMjBEZWNpbWFsJTIwc3lzdGVtJTJDJTIwYWRvcHRlZCUyMGJvb2tzdG9yZS1saWtlJTIwYXJyYW5nZW1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNjk1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE5JTNBMzUlM0ExMiUyMCUyQjAwMDA",
+      "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
+      "pubDate": "Tue, 17 Nov 2026 19:35:12 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]

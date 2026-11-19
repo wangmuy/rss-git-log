@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-18",
     "newestItemDate": "2026-11-18",
-    "itemCount": 50,
-    "generatedAt": "2026-11-19T07:37:56.279Z"
+    "itemCount": 53,
+    "generatedAt": "2026-11-19T17:26:58.046Z"
   },
   "items": [
     {
@@ -306,6 +306,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZydXJhbGluZGlhb25saW5lLm9yZyUyRmFydGljbGUlMkZtb3NxdWl0b2VzLWFyZS1sYWRha2gtcy1sYXRlc3QtdG91cmlzdHMlN0NodHRwcyUzQSUyRiUyRnJ1cmFsaW5kaWFvbmxpbmUub3JnJTJGYXJ0aWNsZSUyRm1vc3F1aXRvZXMtYXJlLWxhZGFraC1zLWxhdGVzdC10b3VyaXN0cyU3Q01vc3F1aXRvZXMlMjBhcmUlMjBMYWRha2gncyUyMGxhdGVzdCUyMHRvdXJpc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDI0NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAwNiUzQTA4JTNBMjUlMjAlMkIwMDAw",
       "title": "Mosquitoes are Ladakh's latest tourists",
       "pubDate": "Wed, 18 Nov 2026 06:08:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVhbm9yd2llc2xlci5jb20lMkZibG9nJTJGcm9ib3RpYy1zdG9uZS1jYXJ2aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZlbGVhbm9yd2llc2xlci5jb20lMkZibG9nJTJGcm9ib3RpYy1zdG9uZS1jYXJ2aW5nJTJGJTdDV2UlMjB0YXVnaHQlMjByb2JvdHMlMjB0byUyMGNhcnZlJTIwbWFyYmxlJTIwc2N1bHB0dXJlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ4ODA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTclM0EwMyUzQTUzJTIwJTJCMDAwMA",
+      "title": "We taught robots to carve marble sculptures",
+      "pubDate": "Wed, 18 Nov 2026 17:03:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0QtVExDR1Vwb0Q2YyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNELVRMQ0dVcG9ENmMlN0NOaW50ZW5kbyUyMHRha2VzJTIwUGljb2ZseSUyMGZpcm13YXJlJTIwZG93biUyMGZyb20lMjBHaXRIdWIlMjAlNUJ2aWRlbyU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ3MDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTQlM0E1NiUzQTA0JTIwJTJCMDAwMA",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "pubDate": "Wed, 18 Nov 2026 14:56:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdXV4cGx1c29uZS5naXRodWIuaW8lMkZibG9nJTJGMjAyNiUyRjExJTJGMTYlMkZuYW1lZC1hcmd1bWVudHMtaW4tYyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXV1eHBsdXNvbmUuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYxMSUyRjE2JTJGbmFtZWQtYXJndW1lbnRzLWluLWMlMkYlN0NDJ3MlMjBkZXNpZ25hdGVkJTIwaW5pdGlhbGl6ZXJzJTIwZ2l2ZSUyMHVzJTIwbmFtZWQlMjBhcmd1bWVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0NDE2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDA5JTNBNDklM0E0OSUyMCUyQjAwMDA",
+      "title": "C's designated initializers give us named arguments",
+      "pubDate": "Wed, 18 Nov 2026 09:49:49 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-15",
     "newestItemDate": "2026-11-15",
-    "itemCount": 44,
-    "generatedAt": "2026-11-19T07:37:56.279Z"
+    "itemCount": 45,
+    "generatedAt": "2026-11-19T17:26:58.047Z"
   },
   "items": [
     {
@@ -270,6 +270,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbmdpbmVlcmluZy5mYi5jb20lMkYyMDI2JTJGMTElMkYxMyUyRmFuZHJvaWQlMkZjdXR0bGVmaXNoLW9uLW1hYyUyRiU3Q2h0dHBzJTNBJTJGJTJGZW5naW5lZXJpbmcuZmIuY29tJTJGMjAyNiUyRjExJTJGMTMlMkZhbmRyb2lkJTJGY3V0dGxlZmlzaC1vbi1tYWMlMkYlN0NDdXR0bGVmaXNoJTIwb24lMjBNYWMlM0ElMjBBbmRyb2lkJ3MlMjBWaXJ0dWFsJTIwRGV2aWNlJTIwRnJhbWV3b3JrJTIwb24lMjBBcHBsZSUyMFNpbGljb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxMDM4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDIwJTNBMzAlM0E0MiUyMCUyQjAwMDA",
       "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
       "pubDate": "Sun, 15 Nov 2026 20:30:42 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhYXJvbC5kZXYlMkZwb3N0cyUyRnppZy1hbGxvY2F0b3IlMkYlN0NodHRwcyUzQSUyRiUyRmFhcm9sLmRldiUyRnBvc3RzJTJGemlnLWFsbG9jYXRvciUyRiU3Q0l0J3MlMjBBbGwlMjBhYm91dCUyMHRoZSUyMEFsbG9jYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTAzNzQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMTUlMjBOb3YlMjAyMDI2JTIwMDMlM0EzNCUzQTU4JTIwJTJCMDAwMA",
+      "title": "It's All about the Allocator",
+      "pubDate": "Sun, 15 Nov 2026 03:34:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
     }
   ]

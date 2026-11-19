@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-19",
     "newestItemDate": "2026-11-19",
-    "itemCount": 3,
-    "generatedAt": "2026-11-19T07:37:56.279Z"
+    "itemCount": 24,
+    "generatedAt": "2026-11-19T17:26:58.046Z"
   },
   "items": [
     {
@@ -24,6 +24,132 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtaWNqbS5jb20lMkZibG9nJTJGZ2VtaW5pLTQtbmVvbi1sb29rcy1saWtlLWEtdG9wLW1vZGVsJTJGJTdDaHR0cHMlM0ElMkYlMkZtaWNqbS5jb20lMkZibG9nJTJGZ2VtaW5pLTQtbmVvbi1sb29rcy1saWtlLWEtdG9wLW1vZGVsJTJGJTdDR2VtaW5pJTIwNCUyME5lb24lMjBsb29rcyUyMGxpa2UlMjBhbiUyME9wdXMlMjA1LjUlMjBjb21wZXRpdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTQzNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAwMCUzQTI5JTNBNDUlMjAlMkIwMDAw",
       "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
       "pubDate": "Thu, 19 Nov 2026 00:29:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwZXJpc2hhYmxlcHJlc3MuY29tJTJGY2hyb21lLWFpLXdhc3RpbmctbXVjaC1iYW5kd2lkdGglMkYlN0NodHRwcyUzQSUyRiUyRnBlcmlzaGFibGVwcmVzcy5jb20lMkZjaHJvbWUtYWktd2FzdGluZy1tdWNoLWJhbmR3aWR0aCUyRiU3Q0Nocm9tZSUyMEFJJTIwRmVhdHVyZXMlMjBXYXN0aW5nJTIwTXVjaCUyMEJhbmR3aWR0aCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYyNjM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTYlM0E1NCUzQTI1JTIwJTJCMDAwMA",
+      "title": "Chrome AI Features Wasting Much Bandwidth",
+      "pubDate": "Thu, 19 Nov 2026 16:54:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb25sb29rLWRldiUyRm9ubG9vayUyRiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9ubG9vay1kZXYlMkZvbmxvb2slMkYlN0NMYXVuY2glMjBITiUzQSUyME9ubG9vayUyMChZQyUyMFcyNSklMjAlRTIlODAlOTMlMjBBbiUyMG9wZW4tc291cmNlJTIwZGV2ZWxvcGVyJTIwdG9vbCUyMGZvciUyMGRlc2lnbmVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYyMzIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTYlM0EzNCUzQTA0JTIwJTJCMDAwMA",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "pubDate": "Thu, 19 Nov 2026 16:34:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNhbm9yYWsuY29tJTJGdWstZ292ZXJubWVudC1mb3JjZWQtdG8tYWRtaXQtaXQtaXNzdWVkLWFwcGxlLWEtc2VjcmV0LWVuY3J5cHRpb24tb3JkZXIlMkYlN0NodHRwcyUzQSUyRiUyRm1hY2Fub3Jhay5jb20lMkZ1ay1nb3Zlcm5tZW50LWZvcmNlZC10by1hZG1pdC1pdC1pc3N1ZWQtYXBwbGUtYS1zZWNyZXQtZW5jcnlwdGlvbi1vcmRlciUyRiU3Q1VLJTIwR292ZXJubWVudCUyMEZvcmNlZCUyMHRvJTIwQWRtaXQlMjBJdCUyMElzc3VlZCUyMEFwcGxlJTIwYSUyMFNlY3JldCUyMEVuY3J5cHRpb24lMjBPcmRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYyMTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTYlM0EyMSUzQTAzJTIwJTJCMDAwMA",
+      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+      "pubDate": "Thu, 19 Nov 2026 16:21:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsb3Zlci5jb20lMkZ0ZWNoJTJGYnVnLXJlcG9ydHMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5wbG92ZXIuY29tJTJGdGVjaCUyRmJ1Zy1yZXBvcnRzLmh0bWwlN0NHb29nbGUlMjBDaHJvbWUlMjBkZXYlMjB0ZWFtJTIwZGVjbGFyZXMlMjBidWclMjByZXBvcnQlMjBiYW5rcnVwdGN5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NjIxMDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxNiUzQTIwJTNBMTIlMjAlMkIwMDAw",
+      "title": "Google Chrome dev team declares bug report bankruptcy",
+      "pubDate": "Thu, 19 Nov 2026 16:20:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3JuaG9sZW5ld3MubmV3cyU3Q2h0dHBzJTNBJTJGJTJGY29ybmhvbGVuZXdzLm5ld3MlMkYlN0NJJTIwYnVpbHQlMjBDb3JuaG9sZSUyME5ld3MuJTIwQSUyMEhhY2tlciUyME5ld3MlMjBpbnNwaXJlZCUyMHNpdGUlMjBmb3IlMjBuZXdzJTIwYWNyb3NzJTIwdGhlJTIwTWlkd2VzdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYxNTE1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTUlM0EzOCUzQTMyJTIwJTJCMDAwMA",
+      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "pubDate": "Thu, 19 Nov 2026 15:38:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVkYXRhZXhjaGFuZ2UubWVkaWElMkZwZXRlLXdhcmRlbi1tb29uc2hpbmUlMkYlN0NodHRwcyUzQSUyRiUyRnRoZWRhdGFleGNoYW5nZS5tZWRpYSUyRnBldGUtd2FyZGVuLW1vb25zaGluZSUyRiU3Q1doeSUyMEFJJTIwV2FudHMlMjB0byUyMEJlJTIwTG9jYWwlMjAlRTIlODAlOTMlMjBXaXRoJTIwUGV0ZSUyMFdhcmRlbiUyMChDcmVhdG9yJTIwb2YlMjBNb29uc2hpbmUlMjBWb2ljZSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2MTUwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDE1JTNBMzglM0ExMiUyMCUyQjAwMDA",
+      "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+      "pubDate": "Thu, 19 Nov 2026 15:38:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWJieW1sLmdpdGh1Yi5pbyUyRndlaWdodC1zcGFjZS1wbGF5Z3JvdW5kJTJGJTdDaHR0cHMlM0ElMkYlMkZ0YWJieW1sLmdpdGh1Yi5pbyUyRndlaWdodC1zcGFjZS1wbGF5Z3JvdW5kJTJGJTdDU2hvdyUyMEhOJTNBJTIwV2F0Y2glMjB3ZWlnaHQtc3BhY2UlMjBwcm9ncmFtbWluZyUyMGluJTIwYWN0aW9uJTIwd2l0aCUyMFdlYkdQVSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYxNDM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTUlM0EzMiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "Show HN: Watch weight-space programming in action with WebGPU",
+      "pubDate": "Thu, 19 Nov 2026 15:32:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXRodWIuY29tJTJGaG93LXRvLW1ha2UtdGhlLWluay11c2VkLXRvLXdyaXRlLWhhbWxldC10aGUtZGVjbGFyYXRpb24tb2YtaW5kZXBlbmRlbmNlLWFuZC1iZWV0aG92ZW5zLWZpZnRoJTJGJTdDaHR0cHMlM0ElMkYlMkZsaXRodWIuY29tJTJGaG93LXRvLW1ha2UtdGhlLWluay11c2VkLXRvLXdyaXRlLWhhbWxldC10aGUtZGVjbGFyYXRpb24tb2YtaW5kZXBlbmRlbmNlLWFuZC1iZWV0aG92ZW5zLWZpZnRoJTJGJTdDSG93JTIwdG8lMjBNYWtlJTIwdGhlJTIwSW5rJTIwVXNlZCUyMHRvJTIwV3JpdGUlMjBIYW1sZXQlMjBhbmQlMjB0aGUlMjBEZWNsYXJhdGlvbiUyMG9mJTIwSW5kZXBlbmRlbmNlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NjExNzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxNSUzQTEzJTNBMjMlMjAlMkIwMDAw",
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "pubDate": "Thu, 19 Nov 2026 15:13:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNjdXMuZnIlMkZlbiUyRmNvb2xpbmctb3ZlcnRha2luZy1oZWF0aW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZtYWNjdXMuZnIlMkZlbiUyRmNvb2xpbmctb3ZlcnRha2luZy1oZWF0aW5nJTJGJTdDQ29vbGluZyUyMGJ1aWxkaW5ncyUyMGlzJTIwb3ZlcnRha2luZyUyMGhlYXRpbmclMjB0aGVtJTIwYXMlMjBhbiUyMGVuZXJneSUyMG5lZWQlMkMlMjBJRUElMjBzYXlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NjA5NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxNCUzQTU3JTNBMTQlMjAlMkIwMDAw",
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "pubDate": "Thu, 19 Nov 2026 14:57:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYXN0Ym9vay5vcmclMkYlN0NodHRwcyUzQSUyRiUyRmxhc3Rib29rLm9yZyUyRiU3Q0V2ZXJ5dGhpbmclMjB5b3UlMjBuZWVkJTIwdG8lMjBzdXJ2aXZlJTIwYW5kJTIwcmVidWlsZCUyMHNvY2lldHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2MDgyMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDE0JTNBNDclM0ExOCUyMCUyQjAwMDA",
+      "title": "Everything you need to survive and rebuild society",
+      "pubDate": "Thu, 19 Nov 2026 14:47:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGVjaGNlbnRyYWwuaWUlMkZnZXJtYW55LWFuZC1hdXN0cmlhLWNhbGwtZm9yLWV1cm9wZWFuLWNvbnRyb2wtb2YtdGlrdG9rJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGVjaGNlbnRyYWwuaWUlMkZnZXJtYW55LWFuZC1hdXN0cmlhLWNhbGwtZm9yLWV1cm9wZWFuLWNvbnRyb2wtb2YtdGlrdG9rJTJGJTdDR2VybWFueSUyMGFuZCUyMEF1c3RyaWElMjBDYWxsJTIwZm9yJTIwRXVyb3BlYW4lMjBDb250cm9sJTIwb2YlMjBUaWtUb2slN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2MDc5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDE0JTNBNDQlM0E1MCUyMCUyQjAwMDA",
+      "title": "Germany and Austria Call for European Control of TikTok",
+      "pubDate": "Thu, 19 Nov 2026 14:44:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtb3EuZGV2JTJGYmxvZyUyRndlYnJ0Yy1pcy1zdGlsbC10aGUtcHJvYmxlbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbW9xLmRldiUyRmJsb2clMkZ3ZWJydGMtaXMtc3RpbGwtdGhlLXByb2JsZW0lMkYlN0NPcGVuQUklMjBzdGlsbCUyMGhhcyUyMGElMjBXZWJSVEMlMjBQcm9ibGVtJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NjA0NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxNCUzQTIwJTNBMDglMjAlMkIwMDAw",
+      "title": "OpenAI still has a WebRTC Problem",
+      "pubDate": "Thu, 19 Nov 2026 14:20:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcnRoci5jbyUyRnBhcGVyLWZvbGRzLWFuZC13aGF0cy1uZXctaW4tZmFuemluZXMtYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZrcnRoci5jbyUyRnBhcGVyLWZvbGRzLWFuZC13aGF0cy1uZXctaW4tZmFuemluZXMtYXBwJTJGJTdDTWFraW5nJTIwOC1wYWdlJTIwZm9sZGFibGUlMjB6aW5lcyUyMGZyb20lMjBhJTIwc2luZ2xlJTIwQTQlMjBzaGVldCUyMGluJTIwdGhlJTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTU5NzE5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTMlM0ExOCUzQTExJTIwJTJCMDAwMA",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "pubDate": "Thu, 19 Nov 2026 13:18:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZkb2klMkYxMC4xMTI2JTJGc2NpYWR2LmFlZTA4MDIlN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbmNlLm9yZyUyRmRvaSUyRjEwLjExMjYlMkZzY2lhZHYuYWVlMDgwMiU3Q1VuYmxvY2thYmxlJTIwY29tbXVuaWNhdGlvbiUyMHdpdGglMjBncmF2aXR5JTIwJUUyJTgwJTkzJTIwU2NpZW5jZSUyMEFkdmFuY2VzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTkxNzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxMiUzQTIyJTNBMDAlMjAlMkIwMDAw",
+      "title": "Unblockable communication with gravity – Science Advances",
+      "pubDate": "Thu, 19 Nov 2026 12:22:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmpkayUyRmpkayUyRnB1bGwlMkYzMjc4MSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5qZGslMkZqZGslMkZwdWxsJTJGMzI3ODElN0NTb21lb25lJTIwcmVwb3J0ZWQlMjBqYXZhNHNoZWxsJTIwYnVnJTIwaW4lMjBTZXB0ZW1iZXIlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTg5MDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxMSUzQTQ3JTNBMDMlMjAlMkIwMDAw",
+      "title": "Someone reported java4shell bug in September 2026",
+      "pubDate": "Thu, 19 Nov 2026 11:47:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVtZW50LmlvJTJGYmxvZyUyRmhvdy10aGUtZXVyb3BlYW4tY29tbWlzc2lvbi1yb2xsZWQtb3V0LW1hdHJpeC10by1tb3JlLXRoYW4tNDAtMDAwLXN0YWZmJTJGJTdDaHR0cHMlM0ElMkYlMkZlbGVtZW50LmlvJTJGYmxvZyUyRmhvdy10aGUtZXVyb3BlYW4tY29tbWlzc2lvbi1yb2xsZWQtb3V0LW1hdHJpeC10by1tb3JlLXRoYW4tNDAtMDAwLXN0YWZmJTJGJTdDSG93JTIwdGhlJTIwRXVyb3BlYW4lMjBDb21taXNzaW9uJTIwcm9sbGVkJTIwb3V0JTIwTWF0cml4JTIwdG8lMjBtb3JlJTIwdGhhbiUyMDQwayUyMHN0YWZmJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTg1MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxMCUzQTU4JTNBMjklMjAlMkIwMDAw",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "pubDate": "Thu, 19 Nov 2026 10:58:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGhwLm5ldCUyRnJlbGVhc2VzJTJGOC42JTJGZW4ucGhwJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGhwLm5ldCUyRnJlbGVhc2VzJTJGOC42JTJGZW4ucGhwJTdDV2hhdCdzJTIwTmV3JTIwaW4lMjBQSFAlMjA4LjYlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1Nzg3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDA5JTNBMjclM0ExNSUyMCUyQjAwMDA",
+      "title": "What's New in PHP 8.6",
+      "pubDate": "Thu, 19 Nov 2026 09:27:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZHJpdmV2YXVsdC5pbyUyRmJsb2clMkZ3aGVuLXdpbGwtaGFyZC1kcml2ZS1wcmljZXMtY29tZS1kb3duLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5kcml2ZXZhdWx0LmlvJTJGYmxvZyUyRndoZW4td2lsbC1oYXJkLWRyaXZlLXByaWNlcy1jb21lLWRvd24uaHRtbCU3Q1NTRCUyMHByaWNlcyUyMHdpbGwlMjBzdGFydCUyMGdvaW5nJTIwZG93biUyMHRoZSUyMHNlY29uZCUyMGhhbGYlMjBvZiUyMG5leHQlMjB5ZWFyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTc3MTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAwOSUzQTA1JTNBMzQlMjAlMkIwMDAw",
+      "title": "SSD prices will start going down the second half of next year",
+      "pubDate": "Thu, 19 Nov 2026 09:05:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjdXJpb3VzYml0cy5ubCUyRmJsb2clMkZkby1ub3QtYnV5LXJhbS1jb21wcmVzcyUyRiU3Q2h0dHBzJTNBJTJGJTJGY3VyaW91c2JpdHMubmwlMkZibG9nJTJGZG8tbm90LWJ1eS1yYW0tY29tcHJlc3MlMkYlN0NEbyUyMG5vdCUyMGJ1eSUyMFJBTSUyQyUyMGNvbXByZXNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTc2NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAwOCUzQTU2JTNBNDclMjAlMkIwMDAw",
+      "title": "Do not buy RAM, compress",
+      "pubDate": "Thu, 19 Nov 2026 08:56:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6ZXJvZGhhLnRlY2glMkZibG9nJTJGaGlnaC1wZXJmb3JtYW5jZS1kaXN0cmlidXRlZC1ibG9iLXN0b3JhZ2UlMkYlN0NodHRwcyUzQSUyRiUyRnplcm9kaGEudGVjaCUyRmJsb2clMkZoaWdoLXBlcmZvcm1hbmNlLWRpc3RyaWJ1dGVkLWJsb2Itc3RvcmFnZSUyRiU3Q0Rpc3RyaWJ1dGVkJTJDJTIwaGlnaC1wZXJmb3JtYW5jZSUyMGJsb2IlMjBzdG9yYWdlJTIwb24lMjBTUUxpdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1NzUzNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDA4JTNBMzklM0E0NSUyMCUyQjAwMDA",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "pubDate": "Thu, 19 Nov 2026 08:39:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXJpYWxhYnMuY29tJTJGcnVieTJzaGVsbCUyRiU3Q2h0dHBzJTNBJTJGJTJGdmVyaWFsYWJzLmNvbSUyRnJ1Ynkyc2hlbGwlMkYlN0NSdWJ5MiVDMyU5RmhlbGwlM0ElMjBQcmUtYXV0aGVudGljYXRpb24lMjBSQ0UlMjBvbiUyMHN0b2NrJTIwUmFpbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1NjI4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDA1JTNBMDklM0ExMSUyMCUyQjAwMDA",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "pubDate": "Thu, 19 Nov 2026 05:09:11 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
     }
   ]

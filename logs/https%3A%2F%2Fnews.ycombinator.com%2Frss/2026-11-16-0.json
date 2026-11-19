@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 57,
-    "generatedAt": "2026-11-19T07:37:56.279Z"
+    "itemCount": 60,
+    "generatedAt": "2026-11-19T17:26:58.046Z"
   },
   "items": [
     {
@@ -348,6 +348,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmdXR1cnVtZ3JvdXAuY29tJTJGaW5zaWdodHMlMkZheGVsZXJhLXRpdGFuaWEtYnJpbmdzLW5hdGl2ZS1mcDgtYW5kLWZwNC10by1pbi1tZW1vcnktY29tcHV0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZnV0dXJ1bWdyb3VwLmNvbSUyRmluc2lnaHRzJTJGYXhlbGVyYS10aXRhbmlhLWJyaW5ncy1uYXRpdmUtZnA4LWFuZC1mcDQtdG8taW4tbWVtb3J5LWNvbXB1dGUlMkYlN0NBeGVsZXJhJTIwVGl0YW5pYSUyMEJyaW5ncyUyME5hdGl2ZSUyMEZQOCUyMGFuZCUyMEZQNCUyMHRvJTIwSW4tTWVtb3J5JTIwQ29tcHV0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE4MzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTQlM0E1OSUzQTU0JTIwJTJCMDAwMA",
       "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
       "pubDate": "Mon, 16 Nov 2026 14:59:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmhhcnJpc29uLnBhZ2UlMkZnYXJhZ2UtZG9vci1zcGFtJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmhhcnJpc29uLnBhZ2UlMkZnYXJhZ2UtZG9vci1zcGFtJTJGJTdDR2FyYWdlJTIwRG9vciUyMFNwYW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxOTIzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDE2JTNBMTMlM0EzNiUyMCUyQjAwMDA",
+      "title": "Garage Door Spam",
+      "pubDate": "Mon, 16 Nov 2026 16:13:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGZnVsbEh0bWwlMkYxMC4xMTQ1JTJGMzM2NjQyMy4zMzgwMDYyJTdDaHR0cHMlM0ElMkYlMkZkbC5hY20ub3JnJTJGZG9pJTJGZnVsbEh0bWwlMkYxMC4xMTQ1JTJGMzM2NjQyMy4zMzgwMDYyJTdDSSd2ZSUyMEdvdCUyMFlvdXIlMjBQYWNrYWdlcyUzQSUyMEhhcnZlc3RpbmclMjBDdXN0b21lcnMnJTIwRGVsaXZlcnklMjBPcmRlciUyMEluZm9ybWF0aW9uJTIwKDIwMjApJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MTg1OTYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxNSUzQTI2JTNBMDklMjAlMkIwMDAw",
+      "title": "I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)",
+      "pubDate": "Mon, 16 Nov 2026 15:26:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZW5vaXRyb3N0eWt1cy5jb20lMkZkYXRhX3RvX3NpbGljb24uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYmVub2l0cm9zdHlrdXMuY29tJTJGZGF0YV90b19zaWxpY29uLmh0bWwlN0NGcm9tJTIwZGF0YSUyMHRvJTIwc2lsaWNvbiUzQSUyMHBsYXklMjBDb25uZWN0LTQlMjBhZ2FpbnN0JTIwYSUyMGNoaXAlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxNzQ3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDEzJTNBMzclM0EyOCUyMCUyQjAwMDA",
+      "title": "From data to silicon: play Connect-4 against a chip",
+      "pubDate": "Mon, 16 Nov 2026 13:37:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]
