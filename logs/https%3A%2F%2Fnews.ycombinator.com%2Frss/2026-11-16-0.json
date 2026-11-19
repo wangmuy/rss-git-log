@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 53,
-    "generatedAt": "2026-11-18T17:20:53.236Z"
+    "itemCount": 57,
+    "generatedAt": "2026-11-19T07:37:56.279Z"
   },
   "items": [
     {
@@ -324,6 +324,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ4ZW5vZGl1bS5jb20lMkZteS1lbWFjcy0zMS1jb250cmlidXRpb25zJTdDaHR0cHMlM0ElMkYlMkZ4ZW5vZGl1bS5jb20lMkZteS1lbWFjcy0zMS1jb250cmlidXRpb25zJTdDTXklMjBFbWFjcyUyMDMxJTIwY29udHJpYnV0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE3OTI5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTQlM0EyNiUzQTEwJTIwJTJCMDAwMA",
       "title": "My Emacs 31 contributions",
       "pubDate": "Mon, 16 Nov 2026 14:26:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrdXNoYS5tZSUyRmJsb2clMkZzdG9wX215cV9ob21lYnJpZGdlXzgxOWxtYl9yZWJvb3RpbmclMkYlN0NodHRwcyUzQSUyRiUyRmt1c2hhLm1lJTJGYmxvZyUyRnN0b3BfbXlxX2hvbWVicmlkZ2VfODE5bG1iX3JlYm9vdGluZyUyRiU3Q0R1bXBpbmclMjBhbiUyMEFFUyUyMGtleSUyMGZyb20lMjBhJTIwTXlRJTIwZ2FyYWdlJTIwb3BlbmVyJTIwdG8lMjBzdG9wJTIwcmVib290aW5nJTIwd2hlbiUyMG9mZmxpbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyNTI2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDIzJTNBNDclM0EyNiUyMCUyQjAwMDA",
+      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "pubDate": "Mon, 16 Nov 2026 23:47:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYXJ5YW1hbmRhcmRhJTJGdGFtc2VydmUlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhcnlhbWFuZGFyZGElMkZ0YW1zZXJ2ZSU3Q1Nob3clMjBITiUzQSUyME9wZW4tc291cmNlJTJDJTIwcmVhbC10aW1lJTIwb2JqZWN0JTIwdHJhY2tpbmclMjBmb3IlMjBsaXZlJTIwdmlkZW8lMjBmZWVkcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTIzMzc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMjElM0ExNCUzQTM5JTIwJTJCMDAwMA",
+      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "pubDate": "Mon, 16 Nov 2026 21:14:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcGlja3lzeXNhZG1pbiUyRmxvZ2l0ZWNoLWhhcm1vbnktaXItYXJjaGl2ZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnBpY2t5c3lzYWRtaW4lMkZsb2dpdGVjaC1oYXJtb255LWlyLWFyY2hpdmUlN0NMb2dpdGVjaCUyMEhhcm1vbnklMjBJUiUyMGNvZGUlMjBvbmxpbmUlMjBkYXRhYmFzZSUyMGFyY2hpdmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxOTc3OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDE2JTIwTm92JTIwMjAyNiUyMDE2JTNBNTYlM0E0MyUyMCUyQjAwMDA",
+      "title": "Logitech Harmony IR code online database archive",
+      "pubDate": "Mon, 16 Nov 2026 16:56:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmdXR1cnVtZ3JvdXAuY29tJTJGaW5zaWdodHMlMkZheGVsZXJhLXRpdGFuaWEtYnJpbmdzLW5hdGl2ZS1mcDgtYW5kLWZwNC10by1pbi1tZW1vcnktY29tcHV0ZSUyRiU3Q2h0dHBzJTNBJTJGJTJGZnV0dXJ1bWdyb3VwLmNvbSUyRmluc2lnaHRzJTJGYXhlbGVyYS10aXRhbmlhLWJyaW5ncy1uYXRpdmUtZnA4LWFuZC1mcDQtdG8taW4tbWVtb3J5LWNvbXB1dGUlMkYlN0NBeGVsZXJhJTIwVGl0YW5pYSUyMEJyaW5ncyUyME5hdGl2ZSUyMEZQOCUyMGFuZCUyMEZQNCUyMHRvJTIwSW4tTWVtb3J5JTIwQ29tcHV0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTE4MzAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMTYlMjBOb3YlMjAyMDI2JTIwMTQlM0E1OSUzQTU0JTIwJTJCMDAwMA",
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "pubDate": "Mon, 16 Nov 2026 14:59:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-18",
     "newestItemDate": "2026-11-18",
-    "itemCount": 33,
-    "generatedAt": "2026-11-18T17:20:53.236Z"
+    "itemCount": 50,
+    "generatedAt": "2026-11-19T07:37:56.279Z"
   },
   "items": [
     {
@@ -204,6 +204,108 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbmVyZ3ktYmFzZWQtcmVhc29uZXJzLmdpdGh1Yi5pbyUyRiU3Q2h0dHBzJTNBJTJGJTJGZW5lcmd5LWJhc2VkLXJlYXNvbmVycy5naXRodWIuaW8lMkYlN0NFbmVyZ3ktQmFzZWQlMjBSZWFzb25lcnMlM0ElMjAzODV4JTIwbW9yZSUyMGVmZmljaWVudCUyMGluZmVyZW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQzOTg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMDklM0EyOSUzQTMyJTIwJTJCMDAwMA",
       "title": "Energy-Based Reasoners: 385x more efficient inference",
       "pubDate": "Wed, 18 Nov 2026 09:29:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aW9sZXRwaXhlbC5jb20lMkZibG9nJTJGMjAyNi0xMS0xNy13ZS1uZWVkLXNtYXJ0LXBlb3BsZS13aG8tZ2l2ZS1hLXNoaXQlMkYlN0NodHRwcyUzQSUyRiUyRnZpb2xldHBpeGVsLmNvbSUyRmJsb2clMkYyMDI2LTExLTE3LXdlLW5lZWQtc21hcnQtcGVvcGxlLXdoby1naXZlLWEtc2hpdCUyRiU3Q1dlJTIwbmVlZCUyMHNtYXJ0JTIwcGVvcGxlJTIwd2hvJTIwZ2l2ZSUyMGElMjBzaGl0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTQwNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAyMyUzQTUzJTNBNDklMjAlMkIwMDAw",
+      "title": "We need smart people who give a shit",
+      "pubDate": "Wed, 18 Nov 2026 23:53:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucnVieS1sYW5nLm9yZyUyRmVuJTJGbmV3cyUyRjIwMjYlMkYxMSUyRjE4JTJGbXVsdGlwbGUtdnVsbmVyYWJpbGl0aWVzLWluLXJlZ2V4cC1hbmQtc3RyaW5nJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucnVieS1sYW5nLm9yZyUyRmVuJTJGbmV3cyUyRjIwMjYlMkYxMSUyRjE4JTJGbXVsdGlwbGUtdnVsbmVyYWJpbGl0aWVzLWluLXJlZ2V4cC1hbmQtc3RyaW5nJTJGJTdDTXVsdGlwbGUlMjB2dWxuZXJhYmlsaXRpZXMlMjBpbiUyMFJlZ2V4cCUyMGFuZCUyMFN0cmluZyUyMGNhc2UlMjBjb252ZXJzaW9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTQwMzglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAyMyUzQTUyJTNBNTAlMjAlMkIwMDAw",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "pubDate": "Wed, 18 Nov 2026 23:52:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZpbnZlc3RvcnMucGFsb2FsdG9uZXR3b3Jrcy5jb20lMkZuZXdzLXJlbGVhc2VzJTJGbmV3cy1yZWxlYXNlLWRldGFpbHMlMkZwYWxvLWFsdG8tbmV0d29ya3MtYWNxdWlyZS1hcHBsaWVkLWNvbXB1dGUtYnJpbmdpbmctc2VjdXJlLW9wZW4lN0NodHRwcyUzQSUyRiUyRmludmVzdG9ycy5wYWxvYWx0b25ldHdvcmtzLmNvbSUyRm5ld3MtcmVsZWFzZXMlMkZuZXdzLXJlbGVhc2UtZGV0YWlscyUyRnBhbG8tYWx0by1uZXR3b3Jrcy1hY3F1aXJlLWFwcGxpZWQtY29tcHV0ZS1icmluZ2luZy1zZWN1cmUtb3BlbiU3Q1BhbG8lMjBBbHRvJTIwTmV0d29ya3MlMjB0byUyMEFjcXVpcmUlMjBBcHBsaWVkJTIwQ29tcHV0ZSUyMGZvciUyMCUyNDQuNUIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1NDAwOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDIzJTNBNDklM0ExMyUyMCUyQjAwMDA",
+      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "pubDate": "Wed, 18 Nov 2026 23:49:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZhbnRocm9waWMtcHJpY2VzLWluaXRpYWwtcHVibGljLW9mZmVyaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRm5ld3MlMkZhbnRocm9waWMtcHJpY2VzLWluaXRpYWwtcHVibGljLW9mZmVyaW5nJTdDQW50aHJvcGljJTIwcHJpY2VzJTIwaW5pdGlhbCUyMHB1YmxpYyUyMG9mZmVyaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NTM4NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAyMyUzQTMwJTNBMDklMjAlMkIwMDAw",
+      "title": "Anthropic prices initial public offering",
+      "pubDate": "Wed, 18 Nov 2026 23:30:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2xvd2Nocm9uaWNsZS5jb20lMkZwb3N0cyUyRmxsbS1hc3Npc3RlZC1yZXZlcnNlLWVuZ2luZWVyaW5nJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2xvd2Nocm9uaWNsZS5jb20lMkZwb3N0cyUyRmxsbS1hc3Npc3RlZC1yZXZlcnNlLWVuZ2luZWVyaW5nJTdDTExNJTIwYXNzaXN0ZWQlMjByZXZlcnNlJTIwZW5naW5lZXJpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1MzIyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDIyJTNBMjklM0ExMyUyMCUyQjAwMDA",
+      "title": "LLM assisted reverse engineering",
+      "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZpbnRyb2R1Y2luZy1nZW1pbmktNC1uZW9uJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdlbWluaS1tb2RlbHMlMkZpbnRyb2R1Y2luZy1nZW1pbmktNC1uZW9uJTJGJTdDR2VtaW5pJTIwNCUyME5lb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1MjQyNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDIxJTNBMzQlM0EwNyUyMCUyQjAwMDA",
+      "title": "Gemini 4 Neon",
+      "pubDate": "Wed, 18 Nov 2026 21:34:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmFkaXhhcmsuY29tJTJGYmxvZyUyRmRhaXN5cm9zZS0yN2IlN0NodHRwcyUzQSUyRiUyRnd3dy5yYWRpeGFyay5jb20lMkZibG9nJTJGZGFpc3lyb3NlLTI3YiU3Q0RhaXN5Um9zZS0yN0IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1MTA0NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE5JTNBMzklM0ExNiUyMCUyQjAwMDA",
+      "title": "DaisyRose-27B",
+      "pubDate": "Wed, 18 Nov 2026 19:39:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmdlbmllLTQtbm93LWF2YWlsYWJsZS1wcm9qZWN0LWdlbmllJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmdvb2dsZSUyRmlubm92YXRpb24tYW5kLWFpJTJGbW9kZWxzLWFuZC1yZXNlYXJjaCUyRmdvb2dsZS1kZWVwbWluZCUyRmdlbmllLTQtbm93LWF2YWlsYWJsZS1wcm9qZWN0LWdlbmllJTJGJTdDR2VuaWUlMjA0JTIwaXMlMjBub3clMjBhdmFpbGFibGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1MDQxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE4JTNBNDklM0E1MSUyMCUyQjAwMDA",
+      "title": "Genie 4 is now available",
+      "pubDate": "Wed, 18 Nov 2026 18:49:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhZHZhbmNpbmctY2hpcC1kZXNpZ24td2l0aC1vdXItbW9kZWxzJTJGJTdDaHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZhZHZhbmNpbmctY2hpcC1kZXNpZ24td2l0aC1vdXItbW9kZWxzJTJGJTdDQWR2YW5jaW5nJTIwY2hpcCUyMGRlc2lnbiUyMHdpdGglMjBPcGVuQUklMjBtb2RlbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0OTQ5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE3JTNBNDUlM0E0NyUyMCUyQjAwMDA",
+      "title": "Advancing chip design with OpenAI models",
+      "pubDate": "Wed, 18 Nov 2026 17:45:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ5MTg4JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ5MTg4JTdDTGF1bmNoJTIwSE4lM0ElMjBNYXJpdGltZSUyMChZQyUyMEYyNiklMjAlRTIlODAlOTMlMjBBJTIwbWFuYWdlZCUyMGNsb3VkJTIwZm9yJTIwcHJvZHVjdGlvbiUyMEFJJTIwYWdlbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDkxODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNyUzQTI2JTNBMjglMjAlMkIwMDAw",
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "pubDate": "Wed, 18 Nov 2026 17:26:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuYWklMkZuZXdzJTJGbWljcm9zb2Z0LWlnbml0ZS0yMDI2JTJGJTdDaHR0cHMlM0ElMkYlMkZtaWNyb3NvZnQuYWklMkZuZXdzJTJGbWljcm9zb2Z0LWlnbml0ZS0yMDI2JTJGJTdDU2V2ZW4lMjBuZXclMjBtb2RlbHMlMjBhdCUyMHNjYWxhYmxlJTIwcHJpY2UtcGVyZm9ybWFuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0ODAyMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE2JTNBMDglM0EyNCUyMCUyQjAwMDA",
+      "title": "Seven new models at scalable price-performance",
+      "pubDate": "Wed, 18 Nov 2026 16:08:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZldXJvcGVhbmJ1c2luZXNzbWFnYXppbmUuY29tJTJGYWktYWdlbnRzLWJldHRlci1xdWVzdGlvbnMta3BtZyUyRiU3Q2h0dHBzJTNBJTJGJTJGZXVyb3BlYW5idXNpbmVzc21hZ2F6aW5lLmNvbSUyRmFpLWFnZW50cy1iZXR0ZXItcXVlc3Rpb25zLWtwbWclMkYlN0NBSSUyMGFnZW50cyUyMGFzayUyMGJldHRlciUyMHF1ZXN0aW9ucyUyMHRoYW4lMjBLUE1HJTIwYWNjb3VudGFudHMlMjBpbiUyMGF1ZGl0JTIwdHJpYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0Nzc3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE1JTNBNDklM0EzNCUyMCUyQjAwMDA",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "pubDate": "Wed, 18 Nov 2026 15:49:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzYW0uZ292JTJGd29ya3NwYWNlJTJGY29udHJhY3QlMkZvcHAlMkY4OTQ4ZTg2MDFlOTY0YzZhYmE5YzgwMWVlZTE2YjFiZSUyRnZpZXclN0NodHRwcyUzQSUyRiUyRnNhbS5nb3YlMkZ3b3Jrc3BhY2UlMkZjb250cmFjdCUyRm9wcCUyRjg5NDhlODYwMWU5NjRjNmFiYTljODAxZWVlMTZiMWJlJTJGdmlldyU3Q0YtMjIlMjBOZXh0LUdlbmVyYXRpb24lMjBtaWNybyVFMiU4MCU5M0RhdGElMjBUcmFuc2ZlciUyMENhcnRyaWRnZSUyMChtRFRDKSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ3NTgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTUlM0EzNSUzQTQ0JTIwJTJCMDAwMA",
+      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "pubDate": "Wed, 18 Nov 2026 15:35:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud2l6LmlvJTJGYmxvZyUyRm5naW54LWh0dHAyLXJjZS12dWxuZXJhYmlsaXRpZXMlN0NodHRwcyUzQSUyRiUyRnd3dy53aXouaW8lMkZibG9nJTJGbmdpbngtaHR0cDItcmNlLXZ1bG5lcmFiaWxpdGllcyU3Q1VuYXV0aGVudGljYXRlZCUyMHJlbW90ZSUyMGNvZGUlMjBleGVjdXRpb24lMjBpbiUyME5naW54JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDczNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNSUzQTE5JTNBNTUlMjAlMkIwMDAw",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "pubDate": "Wed, 18 Nov 2026 15:19:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2FtLmFjLnVrJTJGbmV3cyUyRmNhbWJyaWRnZS1kaWN0aW9uYXJ5LXJldmVhbHMtd29yZC1vZi10aGUteWVhci0yMDI2JTdDaHR0cHMlM0ElMkYlMkZ3d3cuY2FtLmFjLnVrJTJGbmV3cyUyRmNhbWJyaWRnZS1kaWN0aW9uYXJ5LXJldmVhbHMtd29yZC1vZi10aGUteWVhci0yMDI2JTdDVGhlJTIwQ2FtYnJpZGdlJTIwRGljdGlvbmFyeSUyMGhhcyUyMG5hbWVkJTIwJUUyJTgwJTk4aHVtYW4lRTIlODAlOTklMjBhcyUyMHRoZSUyMFdvcmQlMjBvZiUyMHRoZSUyMFllYXIlMjAyMDI2JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDY5MTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNCUzQTQzJTNBNTIlMjAlMkIwMDAw",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "pubDate": "Wed, 18 Nov 2026 14:43:52 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoc3RhY2t1cHMuY29tJTJGYXJ0aWNsZXMlMkZxdWFkOS1sZWF2ZXMtZnJhbmNlLWRucy1ibG9ja2luZyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGVjaHN0YWNrdXBzLmNvbSUyRmFydGljbGVzJTJGcXVhZDktbGVhdmVzLWZyYW5jZS1kbnMtYmxvY2tpbmclMkYlN0NETlMlMjByZXNvbHZlcnMlMjBhcmUlMjB0aGUlMjB3cm9uZyUyMHBsYWNlJTIwdG8lMjBmaWdodCUyMHBpcmFjeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTQ1OTU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMTglMjBOb3YlMjAyMDI2JTIwMTMlM0ExOCUzQTAyJTIwJTJCMDAwMA",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "pubDate": "Wed, 18 Nov 2026 13:18:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZydXJhbGluZGlhb25saW5lLm9yZyUyRmFydGljbGUlMkZtb3NxdWl0b2VzLWFyZS1sYWRha2gtcy1sYXRlc3QtdG91cmlzdHMlN0NodHRwcyUzQSUyRiUyRnJ1cmFsaW5kaWFvbmxpbmUub3JnJTJGYXJ0aWNsZSUyRm1vc3F1aXRvZXMtYXJlLWxhZGFraC1zLWxhdGVzdC10b3VyaXN0cyU3Q01vc3F1aXRvZXMlMjBhcmUlMjBMYWRha2gncyUyMGxhdGVzdCUyMHRvdXJpc3RzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDI0NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAwNiUzQTA4JTNBMjUlMjAlMkIwMDAw",
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "pubDate": "Wed, 18 Nov 2026 06:08:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
     }
   ]

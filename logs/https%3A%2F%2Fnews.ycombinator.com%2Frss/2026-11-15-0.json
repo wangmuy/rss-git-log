@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-15",
     "newestItemDate": "2026-11-15",
-    "itemCount": 43,
-    "generatedAt": "2026-11-18T17:20:53.237Z"
+    "itemCount": 44,
+    "generatedAt": "2026-11-19T07:37:56.279Z"
   },
   "items": [
     {
@@ -264,6 +264,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZnF1YXN0LmNvbSUyRnBvc3QlMkZhLXBlcmZlY3Qtc2ltY2l0eSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmplZmZxdWFzdC5jb20lMkZwb3N0JTJGYS1wZXJmZWN0LXNpbWNpdHklMkYlN0NBJTIwUGVyZmVjdCUyMFNpbUNpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUwNDM3MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDA1JTNBNTQlM0EyMiUyMCUyQjAwMDA",
       "title": "A Perfect SimCity",
       "pubDate": "Sun, 15 Nov 2026 05:54:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmdpbmVlcmluZy5mYi5jb20lMkYyMDI2JTJGMTElMkYxMyUyRmFuZHJvaWQlMkZjdXR0bGVmaXNoLW9uLW1hYyUyRiU3Q2h0dHBzJTNBJTJGJTJGZW5naW5lZXJpbmcuZmIuY29tJTJGMjAyNiUyRjExJTJGMTMlMkZhbmRyb2lkJTJGY3V0dGxlZmlzaC1vbi1tYWMlMkYlN0NDdXR0bGVmaXNoJTIwb24lMjBNYWMlM0ElMjBBbmRyb2lkJ3MlMjBWaXJ0dWFsJTIwRGV2aWNlJTIwRnJhbWV3b3JrJTIwb24lMjBBcHBsZSUyMFNpbGljb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUxMDM4NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDE1JTIwTm92JTIwMjAyNiUyMDIwJTNBMzAlM0E0MiUyMCUyQjAwMDA",
+      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+      "pubDate": "Sun, 15 Nov 2026 20:30:42 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-15-0.json"
     }
   ]
