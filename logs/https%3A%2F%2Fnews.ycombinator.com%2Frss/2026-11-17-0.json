@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 35,
-    "generatedAt": "2026-11-19T17:26:58.046Z"
+    "itemCount": 39,
+    "generatedAt": "2026-11-20T07:29:41.676Z"
   },
   "items": [
     {
@@ -216,6 +216,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmFzdGNvbXBhbnkuY29tJTJGOTE1OTc1MjAlMkZvcmVnb24tbGlicmFyeS1kaXRjaGVkLWRld2V5LWRlY2ltYWwtd2F5ZmluZGluZy1zeXN0ZW0lN0NodHRwcyUzQSUyRiUyRnd3dy5mYXN0Y29tcGFueS5jb20lMkY5MTU5NzUyMCUyRm9yZWdvbi1saWJyYXJ5LWRpdGNoZWQtZGV3ZXktZGVjaW1hbC13YXlmaW5kaW5nLXN5c3RlbSU3Q09yZWdvbiUyMGxpYnJhcnklMjBkcm9wcGVkJTIwRGV3ZXklMjBEZWNpbWFsJTIwc3lzdGVtJTJDJTIwYWRvcHRlZCUyMGJvb2tzdG9yZS1saWtlJTIwYXJyYW5nZW1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNjk1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE5JTNBMzUlM0ExMiUyMCUyQjAwMDA",
       "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
       "pubDate": "Tue, 17 Nov 2026 19:35:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZub3Rlc2J5bGV4LmNvbSUyRndlaWdodC1zcGFjZS1wcm9ncmFtbWluZy0xOTkwcyU3Q2h0dHBzJTNBJTJGJTJGbm90ZXNieWxleC5jb20lMkZ3ZWlnaHQtc3BhY2UtcHJvZ3JhbW1pbmctMTk5MHMlN0NXZWlnaHQtU3BhY2UlMjBQcm9ncmFtbWluZyUyMGJ1aWxkcyUyMG5ldXJhbCUyMG5ldHdvcmtzJTIwbGlrZSUyMGElMjAxOTkwcyUyMHJlc2VhcmNoZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzODk3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDIyJTNBMTElM0E0NiUyMCUyQjAwMDA",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "pubDate": "Tue, 17 Nov 2026 22:11:46 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdG5nLnN1YnN0YWNrLmNvbSUyRnAlMkZhdXRvbWF0aWMtY2hlY2tpbmctb2YtY29tcGlsZXItY29ycmVjdG5lc3MlN0NodHRwcyUzQSUyRiUyRnN0bmcuc3Vic3RhY2suY29tJTJGcCUyRmF1dG9tYXRpYy1jaGVja2luZy1vZi1jb21waWxlci1jb3JyZWN0bmVzcyU3Q0F1dG9tYXRpYyUyMENoZWNraW5nJTIwb2YlMjBDb21waWxlciUyMENvcnJlY3RuZXNzJTIwd2l0aCUyMEUtR3JhcGhzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1Mzc0OTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAyMCUzQTEyJTNBMzQlMjAlMkIwMDAw",
+      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "pubDate": "Tue, 17 Nov 2026 20:12:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGdGFsa2luZy12ZW5pY2Utd2l0aC1tYWhlc2gtc3VicmFtb255JTdDaHR0cHMlM0ElMkYlMkZjaGlwc2FuZGNoZWVzZS5jb20lMkZwJTJGdGFsa2luZy12ZW5pY2Utd2l0aC1tYWhlc2gtc3VicmFtb255JTdDVGFsa2luZyUyMFZlbmljZSUyMHdpdGglMjBNYWhlc2glMjBTdWJyYW1vbnklMjBhdCUyMEFNRCUyMEluLURlcHRoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzAxMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAxMSUzQTQxJTNBMDglMjAlMkIwMDAw",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "pubDate": "Tue, 17 Nov 2026 11:41:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvY3cubWl0LmVkdSUyRmNvdXJzZXMlMkZyZXMtMTYtMDAyLWhvdy10by1jYWQtYWxtb3N0LWFueXRoaW5nLWphbnVhcnktaWFwLTIwMjQlMkYlN0NodHRwcyUzQSUyRiUyRm9jdy5taXQuZWR1JTJGY291cnNlcyUyRnJlcy0xNi0wMDItaG93LXRvLWNhZC1hbG1vc3QtYW55dGhpbmctamFudWFyeS1pYXAtMjAyNCUyRiU3Q0hvdyUyMHRvJTIwQ0FEJTIwQWxtb3N0JTIwQW55dGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyODExOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDA2JTNBMjklM0E1NyUyMCUyQjAwMDA",
+      "title": "How to CAD Almost Anything",
+      "pubDate": "Tue, 17 Nov 2026 06:29:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]

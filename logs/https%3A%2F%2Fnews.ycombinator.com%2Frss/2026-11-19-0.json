@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-19",
     "newestItemDate": "2026-11-19",
-    "itemCount": 24,
-    "generatedAt": "2026-11-19T17:26:58.046Z"
+    "itemCount": 33,
+    "generatedAt": "2026-11-20T07:29:41.675Z"
   },
   "items": [
     {
@@ -150,6 +150,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2ZXJpYWxhYnMuY29tJTJGcnVieTJzaGVsbCUyRiU3Q2h0dHBzJTNBJTJGJTJGdmVyaWFsYWJzLmNvbSUyRnJ1Ynkyc2hlbGwlMkYlN0NSdWJ5MiVDMyU5RmhlbGwlM0ElMjBQcmUtYXV0aGVudGljYXRpb24lMjBSQ0UlMjBvbiUyMHN0b2NrJTIwUmFpbHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1NjI4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDA1JTNBMDklM0ExMSUyMCUyQjAwMDA",
       "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
       "pubDate": "Thu, 19 Nov 2026 05:09:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZWdleHIuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZyZWdleHIuY29tJTJGJTdDUmVnRXhyJTNBJTIwVGVtcG9yYXJpbHklMjBPZmZsaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NjczNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAyMiUzQTI3JTNBMDclMjAlMkIwMDAw",
+      "title": "RegExr: Temporarily Offline",
+      "pubDate": "Thu, 19 Nov 2026 22:27:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnBsYXR5cHVzaC50ZWNoJTJGYXJ0aWNsZSUyRlJld3JpdGluZy1teS12b2ljZS1hc3Npc3RhbnQtcGlwZWxpbmUlN0NodHRwcyUzQSUyRiUyRmJsb2cucGxhdHlwdXNoLnRlY2glMkZhcnRpY2xlJTJGUmV3cml0aW5nLW15LXZvaWNlLWFzc2lzdGFudC1waXBlbGluZSU3Q1JlYnVpbGRpbmclMjBteSUyMGxvY2FsJTIwdm9pY2UlMjBhc3Npc3RhbnQlMjBwaXBlbGluZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTY2MjYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMjAlM0E1NyUzQTE0JTIwJTJCMDAwMA",
+      "title": "Rebuilding my local voice assistant pipeline",
+      "pubDate": "Thu, 19 Nov 2026 20:57:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cueW91dHViZS5jb20lMkZ3YXRjaCUzRnYlM0Rsd2Zld1lMN1gwbyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGd2F0Y2glM0Z2JTNEbHdmZXdZTDdYMG8lN0NTaG91bGQlMjBnb3Zlcm5tZW50cyUyMHNsb3clMjBmcm9udGllciUyMEFJJTNGJTIwSmFjb2IlMjBDb3hvbiUyMGFuZCUyMFJvYmluJTIwSGFuc29uJTIwZGViYXRlJTIwJTVCdmlkZW8lNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2NDM2NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDE4JTNBNDclM0ExNiUyMCUyQjAwMDA",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnbG9iYWxjb21tZXJjZWdyYXBoLmNvbSUyRndyaXRpbmclMkZ0aGUtbmluZXR5LWVpZ2h0LXBlcmNlbnQtc2xvdC1tYWNoaW5lJTdDaHR0cHMlM0ElMkYlMkZnbG9iYWxjb21tZXJjZWdyYXBoLmNvbSUyRndyaXRpbmclMkZ0aGUtbmluZXR5LWVpZ2h0LXBlcmNlbnQtc2xvdC1tYWNoaW5lJTdDVGhlJTIwOTglMjUlMjBTbG90JTIwTWFjaGluZSUzQSUyMEhvdyUyMFBhaWQlMjBBZHZlcnRpc2luZyUyMEJlY2FtZSUyMGFuJTIwRXh0cmFjdGlvbiUyMFRheCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTY0MTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTglM0EzNSUzQTE3JTIwJTJCMDAwMA",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYW50aHJvcGljLmNvbSUyRnJlc2VhcmNoJTJGY2xhdWRlLWJsYWNrLWhvbGUtcGh5c2ljcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFudGhyb3BpYy5jb20lMkZyZXNlYXJjaCUyRmNsYXVkZS1ibGFjay1ob2xlLXBoeXNpY3MlN0NDbGF1ZGUlMjBzb2x2ZXMlMjB0d28lMjBvcGVuJTIwcHJvYmxlbXMlMjBpbiUyMHRoZSUyMHBoeXNpY3MlMjBvZiUyMGJsYWNrJTIwaG9sZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2MzE0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDE3JTNBMzAlM0E0NCUyMCUyQjAwMDA",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmV3c2NpZW50aXN0LmNvbSUyRmFydGljbGUlMkYyNTI4MjM1LXBhbmNyZWF0aWMtY2FuY2VyLWhhbHRlZC1ieS12aXJ1cy1pbmplY3Rpb24taW4tdGhyZWUtcGF0aWVudHMlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5uZXdzY2llbnRpc3QuY29tJTJGYXJ0aWNsZSUyRjI1MjgyMzUtcGFuY3JlYXRpYy1jYW5jZXItaGFsdGVkLWJ5LXZpcnVzLWluamVjdGlvbi1pbi10aHJlZS1wYXRpZW50cyUyRiU3Q1BhbmNyZWF0aWMlMjBjYW5jZXIlMjBoYWx0ZWQlMjBieSUyMHZpcnVzJTIwaW5qZWN0aW9uJTIwaW4lMjB0aHJlZSUyMHBhdGllbnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NjMwNjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxNyUzQTI1JTNBMzMlMjAlMkIwMDAw",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "pubDate": "Thu, 19 Nov 2026 17:25:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmV1dGVycy5jb20lMkZidXNpbmVzcyUyRmZpbmFuY2UlMkZhbnRocm9waWNzLWhpc3RvcmljLWRlYnV0LXB1dC1haXMtcHJvbWlzZS1wZXJpbC13YWxsLXN0LXRlc3QtMjAyNi0xMS0xOSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJldXRlcnMuY29tJTJGYnVzaW5lc3MlMkZmaW5hbmNlJTJGYW50aHJvcGljcy1oaXN0b3JpYy1kZWJ1dC1wdXQtYWlzLXByb21pc2UtcGVyaWwtd2FsbC1zdC10ZXN0LTIwMjYtMTEtMTklMkYlN0NBbnRocm9waWMlRTIlODAlOTlzJTIwTmFzZGFxJTIwZGVidXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2Mjc1NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDE3JTNBMDIlM0E0MCUyMCUyQjAwMDA",
+      "title": "Anthropic’s Nasdaq debut",
+      "pubDate": "Thu, 19 Nov 2026 17:02:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWNhbm9yYWsuY29tJTJGdWstZ292ZXJubWVudC1mb3JjZWQtdG8tYWRtaXQtaXQtaXNzdWVkLWFwcGxlLWEtc2VjcmV0LWVuY3J5cHRpb24tb3JkZXIlMkYlN0NodHRwcyUzQSUyRiUyRm1hY2Fub3Jhay5jb20lMkZ1ay1nb3Zlcm5tZW50LWZvcmNlZC10by1hZG1pdC1pdC1pc3N1ZWQtYXBwbGUtYS1zZWNyZXQtZW5jcnlwdGlvbi1vcmRlciUyRiU3Q1VLJTIwZ292ZXJubWVudCUyMGZvcmNlZCUyMHRvJTIwYWRtaXQlMjBpdCUyMGlzc3VlZCUyMEFwcGxlJTIwYSUyMHNlY3JldCUyMGVuY3J5cHRpb24lMjBvcmRlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYyMTEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTYlM0EyMSUzQTAzJTIwJTJCMDAwMA",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "pubDate": "Thu, 19 Nov 2026 16:21:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb3JuaG9sZW5ld3MubmV3cyU3Q2h0dHBzJTNBJTJGJTJGY29ybmhvbGVuZXdzLm5ld3MlMkYlN0NTaG93JTIwSE4lM0ElMjBDb3JuaG9sZSUyME5ld3MlMjAlRTIlODAlOTMlMjBBJTIwSGFja2VyJTIwTmV3cyUyMGluc3BpcmVkJTIwc2l0ZSUyMGZvciUyMG5ld3MlMjBhY3Jvc3MlMjB0aGUlMjBNaWR3ZXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NjE1MTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAxOSUyME5vdiUyMDIwMjYlMjAxNSUzQTM4JTNBMzIlMjAlMkIwMDAw",
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "pubDate": "Thu, 19 Nov 2026 15:38:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
     }
   ]
