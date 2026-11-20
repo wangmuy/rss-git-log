@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-18",
     "newestItemDate": "2026-11-18",
-    "itemCount": 53,
-    "generatedAt": "2026-11-19T17:26:58.046Z"
+    "itemCount": 55,
+    "generatedAt": "2026-11-20T17:01:37.663Z"
   },
   "items": [
     {
@@ -324,6 +324,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZxdXV4cGx1c29uZS5naXRodWIuaW8lMkZibG9nJTJGMjAyNiUyRjExJTJGMTYlMkZuYW1lZC1hcmd1bWVudHMtaW4tYyUyRiU3Q2h0dHBzJTNBJTJGJTJGcXV1eHBsdXNvbmUuZ2l0aHViLmlvJTJGYmxvZyUyRjIwMjYlMkYxMSUyRjE2JTJGbmFtZWQtYXJndW1lbnRzLWluLWMlMkYlN0NDJ3MlMjBkZXNpZ25hdGVkJTIwaW5pdGlhbGl6ZXJzJTIwZ2l2ZSUyMHVzJTIwbmFtZWQlMjBhcmd1bWVudHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0NDE2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDA5JTNBNDklM0E0OSUyMCUyQjAwMDA",
       "title": "C's designated initializers give us named arguments",
       "pubDate": "Wed, 18 Nov 2026 09:49:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjcGxkY3B1LmNvbSUyRjIwMTQlMkYwMyUyRjE5JTJGJTI1YzIlMjViNS13aXJlLXVzYi1vbi1hbi1hdHRpbnktMTAlMkYlN0NodHRwcyUzQSUyRiUyRmNwbGRjcHUuY29tJTJGMjAxNCUyRjAzJTJGMTklMkYlMjVjMiUyNWI1LXdpcmUtdXNiLW9uLWFuLWF0dGlueS0xMCUyRiU3QyVDMiVCNS1XaXJlJTIwJUUyJTgwJTkzJTIwVVNCJTIwb24lMjBhbiUyMEFUdGlueSUyMDEwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDU4MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxMyUzQTAyJTNBMDglMjAlMkIwMDAw",
+      "title": "µ-Wire – USB on an ATtiny 10",
+      "pubDate": "Wed, 18 Nov 2026 13:02:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cnlub3RjaGVkLmNvbSUyRmZpbmQlN0NodHRwcyUzQSUyRiUyRnRyeW5vdGNoZWQuY29tJTJGZmluZCU3Q1Nob3clMjBITiUzQSUyMFRpbm5pdHVzJTIwZnJlcXVlbmN5JTIwZmluZGVyJTIwYW5kJTIwYXVkaW8lMjBub3RjaCUyMHRvb2wlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0MTU2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDAzJTNBNDAlM0EwMSUyMCUyQjAwMDA",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "pubDate": "Wed, 18 Nov 2026 03:40:01 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
     }
   ]

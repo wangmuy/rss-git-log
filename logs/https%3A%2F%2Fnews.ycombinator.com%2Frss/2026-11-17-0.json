@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 39,
-    "generatedAt": "2026-11-20T07:29:41.676Z"
+    "itemCount": 42,
+    "generatedAt": "2026-11-20T17:01:37.663Z"
   },
   "items": [
     {
@@ -240,6 +240,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZvY3cubWl0LmVkdSUyRmNvdXJzZXMlMkZyZXMtMTYtMDAyLWhvdy10by1jYWQtYWxtb3N0LWFueXRoaW5nLWphbnVhcnktaWFwLTIwMjQlMkYlN0NodHRwcyUzQSUyRiUyRm9jdy5taXQuZWR1JTJGY291cnNlcyUyRnJlcy0xNi0wMDItaG93LXRvLWNhZC1hbG1vc3QtYW55dGhpbmctamFudWFyeS1pYXAtMjAyNCUyRiU3Q0hvdyUyMHRvJTIwQ0FEJTIwQWxtb3N0JTIwQW55dGhpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyODExOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDA2JTNBMjklM0E1NyUyMCUyQjAwMDA",
       "title": "How to CAD Almost Anything",
       "pubDate": "Tue, 17 Nov 2026 06:29:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb3ZhYmxlLmRldiUyRmJsb2clMkZpbnRyb2R1Y2luZy1kcmFmdHMlN0NodHRwcyUzQSUyRiUyRmxvdmFibGUuZGV2JTJGYmxvZyUyRmludHJvZHVjaW5nLWRyYWZ0cyU3Q0xvdmFibGUlM0ElMjBOb3clMjB5b3UlMjBjYW4lMjBleHBsb3JlJTIwYW55JTIwaWRlYSUyMGluJTIwcGFyYWxsZWwlMjB3aXRob3V0JTIwdG91Y2hpbmclMjB3aGF0J3MlMjBsaXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzEwMDklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAxMyUzQTIyJTNBMTglMjAlMkIwMDAw",
+      "title": "Lovable: Now you can explore any idea in parallel without touching what's live",
+      "pubDate": "Tue, 17 Nov 2026 13:22:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXYuamF2YSUyRmxlYXJuJTJGanZtJTJGdG9vbCUyRmdhcmJhZ2UtY29sbGVjdGlvbiUyRmcxZ2Mtb3ZlcnZpZXclMkYlN0NodHRwcyUzQSUyRiUyRmRldi5qYXZhJTJGbGVhcm4lMkZqdm0lMkZ0b29sJTJGZ2FyYmFnZS1jb2xsZWN0aW9uJTJGZzFnYy1vdmVydmlldyUyRiU3Q1RoZSUyMEcxJTIwR2FyYmFnZSUyMENvbGxlY3RvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTI3NDQ0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMDQlM0EyOSUzQTA3JTIwJTJCMDAwMA",
+      "title": "The G1 Garbage Collector",
+      "pubDate": "Tue, 17 Nov 2026 04:29:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb2JpLm11c2ljJTJGcmVzZWFyY2glMkZkZXR0YXRvJTdDaHR0cHMlM0ElMkYlMkZrb2JpLm11c2ljJTJGcmVzZWFyY2glMkZkZXR0YXRvJTdDU2hvdyUyMEhOJTNBJTIwSSUyMG1hZGUlMjBhbiUyMGF1ZGlvLXRvLU1JREklMjBtb2RlbCUyMDYweCUyMG1vcmUlMjBlZmZpY2llbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyNjAyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDAxJTNBMDMlM0EwNSUyMCUyQjAwMDA",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "pubDate": "Tue, 17 Nov 2026 01:03:05 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-20",
     "newestItemDate": "2026-11-20",
-    "itemCount": 10,
-    "generatedAt": "2026-11-20T07:29:41.675Z"
+    "itemCount": 25,
+    "generatedAt": "2026-11-20T17:01:37.663Z"
   },
   "items": [
     {
@@ -66,6 +66,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnhmb3VuZHJ5LmNvbSUyRmNoYXRncHRfc25lcyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJ4Zm91bmRyeS5jb20lMkZjaGF0Z3B0X3NuZXMlMkYlN0NDaGF0R1BUJTIwZm9yJTIwU05FUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTY4NTQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMDAlM0EyNSUzQTU5JTIwJTJCMDAwMA",
       "title": "ChatGPT for SNES",
       "pubDate": "Fri, 20 Nov 2026 00:25:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTc3NjEzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTc3NjEzJTdDSSdtJTIwUGV0ZXIlMjBSb2JlcnRzJTJDJTIwaW1taWdyYXRpb24lMjBhdHRvcm5leSUyMHdobyUyMGRvZXMlMjB3b3JrJTIwZm9yJTIwWUMlMjBhbmQlMjBzdGFydHVwcy4lMjBBTUElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3NzYxMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDE2JTNBNDUlM0EyNSUyMCUyQjAwMDA",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "pubDate": "Fri, 20 Nov 2026 16:45:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjIxODg1JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjIxODg1JTdDTGFuZ3VhZ2UlMjBNb2RlbHMlMjBDYW4lMjBSZXdyaXRlJTIwVGhlaXIlMjBPd24lMjBXZWlnaHRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzcyNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxNiUzQTI5JTNBMDYlMjAlMkIwMDAw",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "pubDate": "Fri, 20 Nov 2026 16:29:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwb29scC5vcmclMkZwb3N0cyUyRjIwMjYtMTEtMjAlMkZpbGwtbmV2ZXItYnV5LWZyYW1ld29yay1oYXJkd2FyZS1hZ2FpbiUyRiU3Q2h0dHBzJTNBJTJGJTJGcG9vbHAub3JnJTJGcG9zdHMlMkYyMDI2LTExLTIwJTJGaWxsLW5ldmVyLWJ1eS1mcmFtZXdvcmstaGFyZHdhcmUtYWdhaW4lMkYlN0NJJ2xsJTIwbmV2ZXIlMjBidXklMjBGcmFtZXdvcmslMjBoYXJkd2FyZSUyMGFnYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzY4NTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxNiUzQTA2JTNBMzAlMjAlMkIwMDAw",
+      "title": "I'll never buy Framework hardware again",
+      "pubDate": "Fri, 20 Nov 2026 16:06:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdHJpc3RhbmJ1Y2ttYXN0ZXIlMkZuYXZpZXItc3Rva2VzJTJGJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGdHJpc3RhbmJ1Y2ttYXN0ZXIlMkZuYXZpZXItc3Rva2VzJTJGJTdDRmluaXRlLXRpbWUlMjBibG93LXVwJTIwZm9yJTIwdGhlJTIwTmF2aWVyJUUyJTgwJTkzU3Rva2VzJTIwZXF1YXRpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzYyMzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxNSUzQTM0JTNBMzElMjAlMkIwMDAw",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "pubDate": "Fri, 20 Nov 2026 15:34:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLm1vemlsbGEub3JnJTJGZW4lMkZtb3ppbGxhJTJGaW50ZXJuZXQtcG9saWN5JTJGYXBwbGUtaW9zLWJyb3dzZXItZW5naW5lLXJ1bGVzJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLm1vemlsbGEub3JnJTJGZW4lMkZtb3ppbGxhJTJGaW50ZXJuZXQtcG9saWN5JTJGYXBwbGUtaW9zLWJyb3dzZXItZW5naW5lLXJ1bGVzJTJGJTdDV2h5JTIwdGhlcmUlMjBhcmUlMjBzdGlsbCUyMG5vJTIwbm9uLVdlYktpdCUyMGJyb3dzZXJzJTIwb24lMjBpT1MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3NTY0NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDE1JTNBMDMlM0EzMSUyMCUyQjAwMDA",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "pubDate": "Fri, 20 Nov 2026 15:03:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBvLmdlJTJGcmVtYXJrLnBkZiU3Q2h0dHBzJTNBJTJGJTJGYWxwby5nZSUyRnJlbWFyay5wZGYlN0NBbnRocm9waWMlMjBlbXBsb3llZSUyMGNsYWltcyUyMGdlbmVyYWwlMjBwcm9vZiUyMG9mJTIwdGhlJTIwUmllbWFubiUyMEh5cG90aGVzaXMlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3NDk2OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDE0JTNBMTYlM0EyMSUyMCUyQjAwMDA",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "pubDate": "Fri, 20 Nov 2026 14:16:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWtyZW0uZ2l0aHViLmlvJTJGcG9zdHMlMkZpZi15b3Utc3RvcC13cml0aW5nLWNvZGUteW91LWFsc28tZ2V0LXdvcnNlLWF0LXJldmlld2luZy1pdCUyRiU3Q2h0dHBzJTNBJTJGJTJGY2VrcmVtLmdpdGh1Yi5pbyUyRnBvc3RzJTJGaWYteW91LXN0b3Atd3JpdGluZy1jb2RlLXlvdS1hbHNvLWdldC13b3JzZS1hdC1yZXZpZXdpbmctaXQlMkYlN0NJZiUyMHlvdSUyMHN0b3AlMjB3cml0aW5nJTIwY29kZSUyQyUyMHlvdSUyMGFsc28lMjBnZXQlMjB3b3JzZSUyMGF0JTIwcmV2aWV3aW5nJTIwaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3Mzg4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDEyJTNBNDElM0EzOCUyMCUyQjAwMDA",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "pubDate": "Fri, 20 Nov 2026 12:41:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZWFubWljaGVsamFycmUuY29tJTJGYWFhJTJGdGhlLW1ha2luZy1vZi1veHlnZW5lJTdDaHR0cHMlM0ElMkYlMkZqZWFubWljaGVsamFycmUuY29tJTJGYWFhJTJGdGhlLW1ha2luZy1vZi1veHlnZW5lJTdDVGhlJTIwTWFraW5nJTIwb2YlMjBPeHlnZW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzI4MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxMCUzQTQxJTNBMTAlMjAlMkIwMDAw",
+      "title": "The Making of Oxygene",
+      "pubDate": "Fri, 20 Nov 2026 10:41:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcmNoaXRlY3RsYWJzLmNvbSUyRmJsb2clMkZmcm9zdGJpdGUlN0NodHRwcyUzQSUyRiUyRmFyY2hpdGVjdGxhYnMuY29tJTJGYmxvZyUyRmZyb3N0Yml0ZSU3Q0Zyb3N0Yml0ZSUzQSUyMEElMjBuZXclMjBDUFUlMjBhcmNoaXRlY3R1cmUlMjBkaXNjb3ZlcmVkJTJDJTIwZGVzaWduZWQlMjBhbmQlMjB2ZXJpZmllZCUyMGJ5JTIwQUklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3MjUwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDEwJTNBMDElM0E0MSUyMCUyQjAwMDA",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "pubDate": "Fri, 20 Nov 2026 10:01:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFydHVwcy5ub3Z1bXNpZ25hbHMuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZzdGFydHVwcy5ub3Z1bXNpZ25hbHMuY29tJTJGJTdDV2hhdCUyMHBlb3BsZSUyMGFyZSUyMGJ1aWxkaW5nJTJDJTIwZGlzY292ZXJlZCUyMHRocm91Z2glMjBuZXclMjBkb21haW5zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzI0NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAwOSUzQTU0JTNBMzMlMjAlMkIwMDAw",
+      "title": "What people are building, discovered through new domains",
+      "pubDate": "Fri, 20 Nov 2026 09:54:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYmJjLmNvLnVrJTJGbmV3cyUyRmFydGljbGVzJTJGYzZlcTQ5enl4N3A0byU3Q2h0dHBzJTNBJTJGJTJGd3d3LmJiYy5jby51ayUyRm5ld3MlMkZhcnRpY2xlcyUyRmM2ZXE0OXp5eDdwNG8lN0NVSyUyMGZyaWRnZXMlMjBzZWN1cmVkJTIwZnJvbSUyMGhhY2tlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3MjQzMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDA5JTNBNTIlM0EyMCUyMCUyQjAwMDA",
+      "title": "UK fridges secured from hackers",
+      "pubDate": "Fri, 20 Nov 2026 09:52:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrb3R0a2Uub3JnJTJGMTclMkYwNiUyRmlmLXlvdS1jYW50LWV4cGxhaW4tc29tZXRoaW5nLWluLXNpbXBsZS10ZXJtcy15b3UtZG9udC11bmRlcnN0YW5kLWl0JTdDaHR0cHMlM0ElMkYlMkZrb3R0a2Uub3JnJTJGMTclMkYwNiUyRmlmLXlvdS1jYW50LWV4cGxhaW4tc29tZXRoaW5nLWluLXNpbXBsZS10ZXJtcy15b3UtZG9udC11bmRlcnN0YW5kLWl0JTdDSWYlMjB5b3UlMjBjYW4ndCUyMGV4cGxhaW4lMjBzb21ldGhpbmclMjBpbiUyMHNpbXBsZSUyMHRlcm1zJTJDJTIweW91JTIwZG9uJ3QlMjB1bmRlcnN0YW5kJTIwaXQlMjAoMjAxNyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3MjM1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDA5JTNBNDMlM0ExOSUyMCUyQjAwMDA",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "pubDate": "Fri, 20 Nov 2026 09:43:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWduYWwub3JnJTJGYmxvZyUyRnByb3RlY3RpbmcteW91ci1wcml2YWN5JTJGJTdDaHR0cHMlM0ElMkYlMkZzaWduYWwub3JnJTJGYmxvZyUyRnByb3RlY3RpbmcteW91ci1wcml2YWN5JTJGJTdDU2lnbmFsJTIwSXMlMjBTZXJpb3VzJTIwQWJvdXQlMjBQcm90ZWN0aW5nJTIwWW91ciUyMFByaXZhY3klN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3MjM0OCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDA5JTNBNDIlM0ExNiUyMCUyQjAwMDA",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "pubDate": "Fri, 20 Nov 2026 09:42:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlY29odXN0bGVyLmNvbSUyRmFydGljbGUlMkZvbmUtY29ycG9yYXRpb24tdG8tcG9sbHV0ZS10aGVtLWFsbCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWNvaHVzdGxlci5jb20lMkZhcnRpY2xlJTJGb25lLWNvcnBvcmF0aW9uLXRvLXBvbGx1dGUtdGhlbS1hbGwlMkYlN0NDYXJuaXZhbCUyMENydWlzZXMlMjBlbWl0cyUyMHRlbiUyMHRpbWVzJTIwbW9yZSUyMHN1bHBodXIlMjBveGlkZSUyMHRoYW4lMjBhbGwlMjBvZiUyMEV1cm9wZSdzJTIwY2FycyUyMCgyMDE5KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTcyMTE2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMDklM0ExMyUzQTA5JTIwJTJCMDAwMA",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "pubDate": "Fri, 20 Nov 2026 09:13:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbS1vbmxpbmUuYmVhcmJsb2cuZGV2JTJGaS1jYW4tdGVsbC15b3Utd3JvdGUtdGhpcy15b3Vyc2VsZiUyRiU3Q2h0dHBzJTNBJTJGJTJGZW0tb25saW5lLmJlYXJibG9nLmRldiUyRmktY2FuLXRlbGwteW91LXdyb3RlLXRoaXMteW91cnNlbGYlMkYlN0MlMjJJJTIwY2FuJTIwdGVsbCUyMHlvdSUyMHdyb3RlJTIwdGhpcyUyMHlvdXJzZWxmJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzExODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAwNyUzQTEzJTNBMjElMjAlMkIwMDAw",
+      "title": "\"I can tell you wrote this yourself\"",
+      "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
     }
   ]
