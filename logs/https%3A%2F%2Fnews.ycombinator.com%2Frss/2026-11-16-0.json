@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-16",
     "newestItemDate": "2026-11-16",
-    "itemCount": 63,
-    "generatedAt": "2026-11-20T17:01:37.664Z"
+    "itemCount": 64,
+    "generatedAt": "2026-11-21T07:23:49.813Z"
   },
   "items": [
     {
@@ -384,6 +384,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoZWFsZXljb2Rlcy5jb20lMkZpbnRyb2R1Y2luZy10aGUtd29ybGRzLXN0cm9uZ2VzdC1zb2tvYmFuLXNvbHZlciU3Q2h0dHBzJTNBJTJGJTJGaGVhbGV5Y29kZXMuY29tJTJGaW50cm9kdWNpbmctdGhlLXdvcmxkcy1zdHJvbmdlc3Qtc29rb2Jhbi1zb2x2ZXIlN0NUaGUlMjBTdHJvbmdlc3QlMjBTb2tvYmFuJTIwU29sdmVyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjMyNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAyMSUzQTA0JTNBMDElMjAlMkIwMDAw",
       "title": "The Strongest Sokoban Solver",
       "pubDate": "Mon, 16 Nov 2026 21:04:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcGVyaW9kaWNhbC5jb20lMkYyMDI2JTJGMTElMkZpLWNhbnQtYmVsaWV2ZS1pdHMtMSUyRiU3Q2h0dHBzJTNBJTJGJTJGYXBlcmlvZGljYWwuY29tJTJGMjAyNiUyRjExJTJGaS1jYW50LWJlbGlldmUtaXRzLTElMkYlN0NJJTIwY2FuJUUyJTgwJTk5dCUyMGJlbGlldmUlMjBpdCVFMiU4MCU5OXMlMjAxJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MjE1NTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAxNiUyME5vdiUyMDIwMjYlMjAxOSUzQTA3JTNBMTMlMjAlMkIwMDAw",
+      "title": "I can’t believe it’s 1",
+      "pubDate": "Mon, 16 Nov 2026 19:07:13 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-16-0.json"
     }
   ]

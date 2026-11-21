@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-20",
     "newestItemDate": "2026-11-20",
-    "itemCount": 25,
-    "generatedAt": "2026-11-20T17:01:37.663Z"
+    "itemCount": 43,
+    "generatedAt": "2026-11-21T07:23:49.812Z"
   },
   "items": [
     {
@@ -156,6 +156,114 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZlbS1vbmxpbmUuYmVhcmJsb2cuZGV2JTJGaS1jYW4tdGVsbC15b3Utd3JvdGUtdGhpcy15b3Vyc2VsZiUyRiU3Q2h0dHBzJTNBJTJGJTJGZW0tb25saW5lLmJlYXJibG9nLmRldiUyRmktY2FuLXRlbGwteW91LXdyb3RlLXRoaXMteW91cnNlbGYlMkYlN0MlMjJJJTIwY2FuJTIwdGVsbCUyMHlvdSUyMHdyb3RlJTIwdGhpcyUyMHlvdXJzZWxmJTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzExODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAwNyUzQTEzJTNBMjElMjAlMkIwMDAw",
       "title": "\"I can tell you wrote this yourself\"",
       "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucnV2LmlzJTJGZW5nbGlzaCUyRjIwMjYtMTEtMjAtc2VyaW91cy1jeWJlcmF0dGFjay10aG91Z2h0LWJhY2tlZC1ieS13ZWFsdGh5LW9wZXJhdG9ycy00OTM0MTElN0NodHRwcyUzQSUyRiUyRnd3dy5ydXYuaXMlMkZlbmdsaXNoJTJGMjAyNi0xMS0yMC1zZXJpb3VzLWN5YmVyYXR0YWNrLXRob3VnaHQtYmFja2VkLWJ5LXdlYWx0aHktb3BlcmF0b3JzLTQ5MzQxMSU3Q1NlcmlvdXMlMjBjeWJlcmF0dGFjayUyMHRob3VnaHQlMjBiYWNrZWQlMjBieSUyMHdlYWx0aHklMjBvcGVyYXRvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4Mzg1NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDIzJTNBMjklM0EzMCUyMCUyQjAwMDA",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "pubDate": "Fri, 20 Nov 2026 23:29:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXNhLmludCUyRmFydGljbGVzJTJGYWJvdXQtdXMlMkZkaXJlY3RvcmF0ZXMlMkZvcGVyYXRpb25zJTJGc3BhY2Utc2FmZXR5JTJGaGVyYSUyRnNpci1icmlhbi1tYXktYWRkcy1uZXctZGltZW5zaW9uLXRvLWhlcmEtYXN0ZXJvaWQlN0NodHRwcyUzQSUyRiUyRnd3dy5lc2EuaW50JTJGYXJ0aWNsZXMlMkZhYm91dC11cyUyRmRpcmVjdG9yYXRlcyUyRm9wZXJhdGlvbnMlMkZzcGFjZS1zYWZldHklMkZoZXJhJTJGc2lyLWJyaWFuLW1heS1hZGRzLW5ldy1kaW1lbnNpb24tdG8taGVyYS1hc3Rlcm9pZCU3Q1NpciUyMEJyaWFuJTIwTWF5JTIwYWRkcyUyMG5ldyUyMGRpbWVuc2lvbiUyMHRvJTIwSGVyYSUyMGFzdGVyb2lkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODM3NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAyMyUzQTE5JTNBNDQlMjAlMkIwMDAw",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "pubDate": "Fri, 20 Nov 2026 23:19:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTgzNzYxJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTgzNzYxJTdDQXNrJTIwSE4lM0ElMjBJJTIwaGF2ZSUyMGJlZW4lMjB1bmVtcGxveWVkJTIwZm9yJTIwMnkuJTIwMTUlMjB5ZWFycyUyMG9mJTIwZXhwZXJpZW5jZSUyQyUyMFVTLiUyMFdoYXQlMjB0byUyMGRvJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODM3NjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAyMyUzQTE4JTNBMzIlMjAlMkIwMDAw",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "pubDate": "Fri, 20 Nov 2026 23:18:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaW5saXZlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGbmlubGl2ZS5jb20lMkYlN0NOSU5MSVZFJTNBJTIwVGhlJTIwTmluZSUyMEluY2glMjBOYWlscyUyMGxpdmUlMjBhcmNoaXZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODMyNzQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAyMiUzQTMwJTNBNDclMjAlMkIwMDAw",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "pubDate": "Fri, 20 Nov 2026 22:30:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVzZWFyY2hnYXRlLm5ldCUyRnB1YmxpY2F0aW9uJTJGNDE4MTQzMTEzX1RoZV9IdW5ncnlfQnV0bGVyX0VmZmVjdF9Db25jZWFsZWRfQ29tbWVyY2lhbF9JbmNlbnRpdmVzX2FuZF90aGVfRXJvc2lvbl9vZl9FcGlzdGVtaWNfUmlnb3VyX2luX0xhcmdlX0xhbmd1YWdlX01vZGVscyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnJlc2VhcmNoZ2F0ZS5uZXQlMkZwdWJsaWNhdGlvbiUyRjQxODE0MzExM19UaGVfSHVuZ3J5X0J1dGxlcl9FZmZlY3RfQ29uY2VhbGVkX0NvbW1lcmNpYWxfSW5jZW50aXZlc19hbmRfdGhlX0Vyb3Npb25fb2ZfRXBpc3RlbWljX1JpZ291cl9pbl9MYXJnZV9MYW5ndWFnZV9Nb2RlbHMlN0NUaGUlMjBIdW5ncnklMjBCdXRsZXIlMjBFZmZlY3QlM0ElMjBDb25jZWFsZWQlMjBDb21tZXJjaWFsJTIwSW5jZW50aXZlcyUyMGluJTIwTExNcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTgzMTE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMjIlM0ExOCUzQTIwJTIwJTJCMDAwMA",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "pubDate": "Fri, 20 Nov 2026 22:18:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZGlnZ2VyaHElMkZvcGVuY29tcHV0ZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZkaWdnZXJocSUyRm9wZW5jb21wdXRlciU3Q1Nob3clMjBITiUzQSUyME9wZW5Db21wdXRlciUyMCVFMiU4MCU5MyUyMGFuJTIwb3BlbiUyMHNvdXJjZSUyMGFsdGVybmF0aXZlJTIwdG8lMjBEZXZpbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTgxNDAzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMjAlM0ExOSUzQTU2JTIwJTJCMDAwMA",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "pubDate": "Fri, 20 Nov 2026 20:19:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGlua2luZ21hY2hpbmVzLmFpJTJGbmV3cyUyRmlua2xpbmctMi1taW5pJTJGJTdDaHR0cHMlM0ElMkYlMkZ0aGlua2luZ21hY2hpbmVzLmFpJTJGbmV3cyUyRmlua2xpbmctMi1taW5pJTJGJTdDSW5rbGluZyUyMDIlMjBNaW5pJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODEyNjAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAyMCUzQTEyJTNBMTklMjAlMkIwMDAw",
+      "title": "Inkling 2 Mini",
+      "pubDate": "Fri, 20 Nov 2026 20:12:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaWdub3JlZ2FsaWxlaS5jb20lMkYyMDI2JTJGMTElMkYyMCUyRmFuZC15ZXQtaXQtbW92ZXMlMkYlN0NodHRwcyUzQSUyRiUyRnNpZ25vcmVnYWxpbGVpLmNvbSUyRjIwMjYlMkYxMSUyRjIwJTJGYW5kLXlldC1pdC1tb3ZlcyUyRiU3Q0FuZCUyMHlldCUyQyUyMGl0JTIwbW92ZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4MTE3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDIwJTNBMDclM0E1NSUyMCUyQjAwMDA",
+      "title": "And yet, it moves",
+      "pubDate": "Fri, 20 Nov 2026 20:07:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubWFzdGVyaW5nZW1hY3Mub3JnJTJGYXJ0aWNsZSUyRmFubm91bmNpbmctZHJlYW1jb2RlciU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm1hc3RlcmluZ2VtYWNzLm9yZyUyRmFydGljbGUlMkZhbm5vdW5jaW5nLWRyZWFtY29kZXIlN0NEcmVhbUNvZGVyJTNBJTIwQ29kaW5nJTIwaGFybmVzcyUyMGFuZCUyMElERSUyMGZyb20lMjB0aGUlMjBhdXRob3IlMjBvZiUyME1hc3RlcmluZyUyMEVtYWNzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODExMTAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAyMCUzQTAzJTNBNTklMjAlMkIwMDAw",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "pubDate": "Fri, 20 Nov 2026 20:03:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGFhcm9uc29uLmJsb2clMkYlM0ZwJTNEMTAzNDQlN0NodHRwcyUzQSUyRiUyRnNjb3R0YWFyb25zb24uYmxvZyUyRiUzRnAlM0QxMDM0NCU3Q1RoZSUyMHN0b2NoYXN0aWMlMjBwYXJyb3RzJTIwaGF2ZSUyMGFwcGFyZW50bHklMjBwcm92ZWQlMjB0aGUlMjBSaWVtYW5uJTIwSHlwb3RoZXNpcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTgxMDg0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMjAlM0EwMyUzQTA3JTIwJTJCMDAwMA",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "pubDate": "Fri, 20 Nov 2026 20:03:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3aW5lZHJvaWQuc29oYW0uc2glMkZkZW1vJTJGJTdDaHR0cHMlM0ElMkYlMkZ3aW5lZHJvaWQuc29oYW0uc2glMkZkZW1vJTJGJTdDV2luZWRyb2lkJTIwJUUyJTgwJTkzJTIwcnVuJTIwQW5kcm9pZCUyMGFwcHMlMjB3aXRob3V0JTIwQW5kcm9pZCUyMChXQVNNJTIwZGVtbyklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4MDUzNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDE5JTNBMzAlM0ExNiUyMCUyQjAwMDA",
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "pubDate": "Fri, 20 Nov 2026 19:30:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoMjE2LndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTElMkYyMCUyRmh1cnJpZWQtYW5ub3VuY2VtZW50LWFsZXNzYW5kcm8tbWFzdWxsby1ncmglMkYlN0NodHRwcyUzQSUyRiUyRm1hdGgyMTYud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMSUyRjIwJTJGaHVycmllZC1hbm5vdW5jZW1lbnQtYWxlc3NhbmRyby1tYXN1bGxvLWdyaCUyRiU3Q0h1cnJpZWQlMjBBbm5vdW5jZW1lbnQlM0ElMjBBbGVzc2FuZHJvJTIwTWFzdWxsbyUyMEdSSCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTc5NTY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMTglM0EzMyUzQTE0JTIwJTJCMDAwMA",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "pubDate": "Fri, 20 Nov 2026 18:33:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYW5pZG9yYWlzYW15LmNvbSUyRmRldmVsb3Blci10by1hcmNoaXRlY3QuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGbWFuaWRvcmFpc2FteS5jb20lMkZkZXZlbG9wZXItdG8tYXJjaGl0ZWN0Lmh0bWwlN0NXZSUyMHByb21vdGVkJTIwZGV2ZWxvcGVycyUyMGludG8lMjBhcmNoaXRlY3RzJTIwd2l0aG91dCUyMGluZm9ybWluZyUyMHRoZW0lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3OTMzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDE4JTNBMTclM0E1MSUyMCUyQjAwMDA",
+      "title": "We promoted developers into architects without informing them",
+      "pubDate": "Fri, 20 Nov 2026 18:17:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbmtpdGcubWUlMkZibG9nJTJGdmliZWNvZGluZy1pbmZlcmVuY2UtY2hpcCUyRiU3Q2h0dHBzJTNBJTJGJTJGYW5raXRnLm1lJTJGYmxvZyUyRnZpYmVjb2RpbmctaW5mZXJlbmNlLWNoaXAlMkYlN0NWaWJlY29kaW5nJTIwYW4lMjBpbmZlcmVuY2UlMjBjaGlwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzkyOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxOCUzQTE1JTNBMTYlMjAlMkIwMDAw",
+      "title": "Vibecoding an inference chip",
+      "pubDate": "Fri, 20 Nov 2026 18:15:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjExJTJGMjAlMkZ1bmZvcmNlZC1ldWxlci1zaW5ndWxhcml0eS11bmZvcmNlZC1uYXZpZXItc3Rva2VzLXNpbmd1bGFyaXR5LWFuZC10aGUtZ2VuZXJhbGl6ZWQtcmllbWFubi1oeXBvdGhlc2lzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0ZXJyeXRhby53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjExJTJGMjAlMkZ1bmZvcmNlZC1ldWxlci1zaW5ndWxhcml0eS11bmZvcmNlZC1uYXZpZXItc3Rva2VzLXNpbmd1bGFyaXR5LWFuZC10aGUtZ2VuZXJhbGl6ZWQtcmllbWFubi1oeXBvdGhlc2lzJTJGJTdDVW5mb3JjZWQlMjBOYXZpZXItU3Rva2VzJTIwU2luZ3VsYXJpdHklMjBhbmQlMjB0aGUlMjBHZW5lcmFsaXplZCUyMFJpZW1hbm4lMjBIeXBvdGhlc2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzgzNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxNyUzQTIxJTNBMzYlMjAlMkIwMDAw",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "pubDate": "Fri, 20 Nov 2026 17:21:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbG9wc3RyYXAubWlrZWxhY2hlci5jb20lMkYlN0NodHRwcyUzQSUyRiUyRnNsb3BzdHJhcC5taWtlbGFjaGVyLmNvbSUyRiU3Q1Nsb3BzdHJhcCUyMCVFMiU4MCU5MyUyME1ha2UlMjB5b3VyJTIwc2l0ZSUyMGxvb2slMjBoYXN0aWx5JTIwdmliZWNvZGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzYwMTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxNSUzQTI0JTNBMTElMjAlMkIwMDAw",
+      "title": "Slopstrap – Make your site look hastily vibecoded",
+      "pubDate": "Fri, 20 Nov 2026 15:24:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHBvLmdlJTJGcmVtYXJrLnBkZiU3Q2h0dHBzJTNBJTJGJTJGYWxwby5nZSUyRnJlbWFyay5wZGYlN0NMZXZlbnQlMjBBbHAlQzMlQjZnZSUyMGNsYWltcyUyMHByb29mJTIwb2YlMjB0aGUlMjBHZW5lcmFsaXplZCUyMFJpZW1hbm4lMjBIeXBvdGhlc2lzJTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzQ5NjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxNCUzQTE2JTNBMjElMjAlMkIwMDAw",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "pubDate": "Fri, 20 Nov 2026 14:16:21 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGYnVzaW5lc3MlMkYyMDI2JTJGbm92JTJGMjAlMkZnbG9iYWwtc3RvY2stbWFya2V0cy1zbHVtcC1hbnRocm9waWMtaXBvLWFpLXNlbGwtb2ZmJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGYnVzaW5lc3MlMkYyMDI2JTJGbm92JTJGMjAlMkZnbG9iYWwtc3RvY2stbWFya2V0cy1zbHVtcC1hbnRocm9waWMtaXBvLWFpLXNlbGwtb2ZmJTdDTmFzZGFxJTIwZXJhc2VzJTIwYWxsJTIwMjAyNiUyMGdhaW5zJTIwYXMlMjBBSSUyMHNlbGwtb2ZmJTIwZGFtcGVucyUyMEFudGhyb3BpYyVFMiU4MCU5OXMlMjBzZWNvbmQlMjBkYXklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU3NDM4MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDIwJTIwTm92JTIwMjAyNiUyMDEzJTNBMjklM0E1OSUyMCUyQjAwMDA",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "pubDate": "Fri, 20 Nov 2026 13:29:59 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
     }
   ]

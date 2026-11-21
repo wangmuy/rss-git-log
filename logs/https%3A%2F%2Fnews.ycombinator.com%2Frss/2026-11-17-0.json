@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 42,
-    "generatedAt": "2026-11-20T17:01:37.663Z"
+    "itemCount": 43,
+    "generatedAt": "2026-11-21T07:23:49.813Z"
   },
   "items": [
     {
@@ -258,6 +258,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZrb2JpLm11c2ljJTJGcmVzZWFyY2glMkZkZXR0YXRvJTdDaHR0cHMlM0ElMkYlMkZrb2JpLm11c2ljJTJGcmVzZWFyY2glMkZkZXR0YXRvJTdDU2hvdyUyMEhOJTNBJTIwSSUyMG1hZGUlMjBhbiUyMGF1ZGlvLXRvLU1JREklMjBtb2RlbCUyMDYweCUyMG1vcmUlMjBlZmZpY2llbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUyNjAyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDAxJTNBMDMlM0EwNSUyMCUyQjAwMDA",
       "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
       "pubDate": "Tue, 17 Nov 2026 01:03:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2YWxrZXkuaW8lMkZibG9nJTJGZnJvbS1za2lwbGlzdC10by1iJTJCdHJlZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdmFsa2V5LmlvJTJGYmxvZyUyRmZyb20tc2tpcGxpc3QtdG8tYiUyQnRyZWUlMkYlN0NWYWxrZXklMjBraWxscyUyMHRoZSUyMHNraXBsaXN0JTJDJTIwY3V0cyUyMHNvcnRlZCUyMHNldCUyMG92ZXJoZWFkJTIwYnklMjB1cCUyMHRvJTIwNDMlMjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNDM4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE2JTNBNTglM0EzMCUyMCUyQjAwMDA",
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "pubDate": "Tue, 17 Nov 2026 16:58:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]
