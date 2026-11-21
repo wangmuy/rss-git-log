@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 44,
-    "generatedAt": "2026-11-21T16:13:51.543Z"
+    "itemCount": 47,
+    "generatedAt": "2026-11-21T21:42:57.294Z"
   },
   "items": [
     {
@@ -270,6 +270,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ292LmJyJTJGcmVjZWl0YWZlZGVyYWwlMkZwdC1iciUyRmFzc3VudG9zJTJGbm90aWNpYXMlMkYyMDI2JTJGbm92ZW1icm8lMkZyZWNlaXRhLWZlZGVyYWwtcHVibGljYS1wcmltZWlyby1jb2RpZ28tZm9udGUtYWJlcnRvLW5vLWdpdGh1Yi1lLWFtcGxpYS10cmFuc3BhcmVuY2lhLWRhLXJlZm9ybWEtdHJpYnV0YXJpYSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmdvdi5iciUyRnJlY2VpdGFmZWRlcmFsJTJGcHQtYnIlMkZhc3N1bnRvcyUyRm5vdGljaWFzJTJGMjAyNiUyRm5vdmVtYnJvJTJGcmVjZWl0YS1mZWRlcmFsLXB1YmxpY2EtcHJpbWVpcm8tY29kaWdvLWZvbnRlLWFiZXJ0by1uby1naXRodWItZS1hbXBsaWEtdHJhbnNwYXJlbmNpYS1kYS1yZWZvcm1hLXRyaWJ1dGFyaWElN0NCcmF6aWwncyUyMHRheCUyMGF1dGhvcml0eSUyMG9wZW4tc291cmNlcyUyMGl0cyUyMHRheCUyMGNhbGN1bGF0b3IlMjBvbiUyMEdpdEh1YiUyMHVuZGVyJTIwTUlUJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzI2MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAxNSUzQTIyJTNBNTclMjAlMkIwMDAw",
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "pubDate": "Tue, 17 Nov 2026 15:22:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkY4Yml0YXJjaGl0ZWN0Lm5ldCUyRm1hY2hpbmVzJTJGZWxla3Ryb25pa2EtYmstMDAxMCUyRiU3Q2h0dHBzJTNBJTJGJTJGOGJpdGFyY2hpdGVjdC5uZXQlMkZtYWNoaW5lcyUyRmVsZWt0cm9uaWthLWJrLTAwMTAlMkYlN0NUaGUlMjBTb3ZpZXQlMjBFbGVrdHJvbmlrYSUyMEJLLTAwMTAlMjBob21lJTIwY29tcHV0ZXIlMjBidWlsdCUyMG9uJTIwYSUyMGNsb25lJTIwb2YlMjB0aGUlMjBQRFAtMTElMjBDUFUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNTIyOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE3JTNBNDYlM0EzNyUyMCUyQjAwMDA",
+      "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+      "pubDate": "Tue, 17 Nov 2026 17:46:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZW9hd2Vzb21lLmNvbSUyRmJvbHQtc2Nvb3RlcnMtYWNjZXNzaWJpbGl0eS1tYXBwaW5nLXdoZWVsczR3aGVlbHMlMkYlN0NodHRwcyUzQSUyRiUyRmdlb2F3ZXNvbWUuY29tJTJGYm9sdC1zY29vdGVycy1hY2Nlc3NpYmlsaXR5LW1hcHBpbmctd2hlZWxzNHdoZWVscyUyRiU3Q0JvbHQncyUyMFNjb290ZXJzJTIwQXJlJTIwQmVjb21pbmclMjBBY2Nlc3NpYmlsaXR5JTIwU2Vuc29ycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTMzNTE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTYlM0ExMiUzQTExJTIwJTJCMDAwMA",
+      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
+      "pubDate": "Tue, 17 Nov 2026 16:12:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwaHlzLm9yZyUyRm5ld3MlMkYyMDI2LTExLXNwZWNpZXMtdHJvcGljYWwtcmFpbmZvcmVzdHMteW91bmctZW1lcmdlbmNlLmh0bWwlN0NodHRwcyUzQSUyRiUyRnBoeXMub3JnJTJGbmV3cyUyRjIwMjYtMTEtc3BlY2llcy10cm9waWNhbC1yYWluZm9yZXN0cy15b3VuZy1lbWVyZ2VuY2UuaHRtbCU3Q1Ryb3BpY2FsJTIwUmFpbmZvcmVzdHMlMjBTcGVjaWVzJTIwbWF5JTIwYmUlMjBzdXJwcmlzaW5nbHklMjB5b3VuZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTMyNDE3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVHVlJTJDJTIwMTclMjBOb3YlMjAyMDI2JTIwMTUlM0EwOCUzQTU0JTIwJTJCMDAwMA",
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "pubDate": "Tue, 17 Nov 2026 15:08:54 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-18",
     "newestItemDate": "2026-11-18",
-    "itemCount": 59,
-    "generatedAt": "2026-11-21T16:13:51.543Z"
+    "itemCount": 61,
+    "generatedAt": "2026-11-21T21:42:57.294Z"
   },
   "items": [
     {
@@ -360,6 +360,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGa2JvcmVyJTJGY2VsbHMlMkYlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZrYm9yZXIlMkZjZWxscyUyRiU3Q1Nob3clMjBITiUzQSUyMEFuJTIwQVNDSUklMjBjZWxsJTIwYXF1YXJpdW0lMjBmb3IlMjB5b3VyJTIwdGVybWluYWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU0MTA0NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDAyJTNBMTglM0EyOSUyMCUyQjAwMDA",
       "title": "Show HN: An ASCII cell aquarium for your terminal",
       "pubDate": "Wed, 18 Nov 2026 02:18:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcGVjdHJhbG9yYml0LmNvbSUyRmJsb2clMkZzYXRlbGl0YWxfZ2FtZV9lbmdpbmUlN0NodHRwcyUzQSUyRiUyRnNwZWN0cmFsb3JiaXQuY29tJTJGYmxvZyUyRnNhdGVsaXRhbF9nYW1lX2VuZ2luZSU3Q0hvdyUyMEklMjBtYWRlJTIwYSUyMGN1c3RvbSUyMGdhbWUlMjBlbmdpbmUlMjBmb3IlMjBTYXRlbGl0YWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1MDAxNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDE4JTNBMjMlM0EwMyUyMCUyQjAwMDA",
+      "title": "How I made a custom game engine for Satelital",
+      "pubDate": "Wed, 18 Nov 2026 18:23:03 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb250ZXh0Z2VuZXJpYy5kZXYlMkZibG9nJTJGdjAuOC4wLXJlbGVhc2UlMkYlN0NodHRwcyUzQSUyRiUyRmNvbnRleHRnZW5lcmljLmRldiUyRmJsb2clMkZ2MC44LjAtcmVsZWFzZSUyRiU3Q0NvbnRleHQtR2VuZXJpYyUyMFByb2dyYW1taW5nJTIwdjAuOC4wJTIwJUUyJTgwJTkzJTIwUGx1Z2dhYmxlJTIwdHJhaXQlMjBpbXBsZW1lbnRhdGlvbnMlMjBmb3IlMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NDgxMzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAxOCUyME5vdiUyMDIwMjYlMjAxNiUzQTE3JTNBNDElMjAlMkIwMDAw",
+      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+      "pubDate": "Wed, 18 Nov 2026 16:17:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
     }
   ]

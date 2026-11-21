@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-21",
     "newestItemDate": "2026-11-21",
-    "itemCount": 10,
-    "generatedAt": "2026-11-21T16:13:51.542Z"
+    "itemCount": 19,
+    "generatedAt": "2026-11-21T21:42:57.293Z"
   },
   "items": [
     {
@@ -66,6 +66,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbWF0ZXVycGhvdG9ncmFwaGVyLmNvbSUyRmxhdGVzdCUyRnRoZXNlLWFzdG9uaXNoaW5nLWluc2VjdC1wb3J0cmFpdHMtcmV2ZWFsLWEtaGlkZGVuLXdvcmxkLXlvdS1uZXZlci1rbmV3LWV4aXN0ZWQlMkYlN0NodHRwcyUzQSUyRiUyRmFtYXRldXJwaG90b2dyYXBoZXIuY29tJTJGbGF0ZXN0JTJGdGhlc2UtYXN0b25pc2hpbmctaW5zZWN0LXBvcnRyYWl0cy1yZXZlYWwtYS1oaWRkZW4td29ybGQteW91LW5ldmVyLWtuZXctZXhpc3RlZCUyRiU3Q1N1cnByaXNpbmdseSUyMEFkb3JhYmxlJTIwSW5zZWN0JTIwUG9ydHJhaXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODY2NDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAwNiUzQTQ0JTNBMTQlMjAlMkIwMDAw",
       "title": "Surprisingly Adorable Insect Portraits",
       "pubDate": "Sat, 21 Nov 2026 06:44:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YXNrbGV0LmFpJTJGY2FyZWVycyU3Q2h0dHBzJTNBJTJGJTJGdGFza2xldC5haSUyRmNhcmVlcnMlN0NUYXNrbGV0JTIwKFlDJTIwUDI2KSUyMElzJTIwSGlyaW5nJTIwUHJvZHVjdCUyMGFuZCUyMEFnZW50JTIwSW5mcmElMjBFbmdpbmVlcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5MzY3OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDIxJTNBMTElM0EwOCUyMCUyQjAwMDA",
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "pubDate": "Sat, 21 Nov 2026 21:11:08 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwd24uYWklMkZ1cGxvYWQyc2hlbGwlN0NodHRwcyUzQSUyRiUyRnB3bi5haSUyRnVwbG9hZDJzaGVsbCU3Q1VwbG9hZDJTaGVsbCUyMCVDMiVCNyUyMENWRS0yMDI2LTEyNTM5NiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTkyMDk3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMTglM0EyOSUzQTI5JTIwJTJCMDAwMA",
+      "title": "Upload2Shell · CVE-2026-125396",
+      "pubDate": "Sat, 21 Nov 2026 18:29:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGU2hpbk1lZ2FtaUJvc29uJTJGbG9va2F0bXlxdWFudCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlNoaW5NZWdhbWlCb3NvbiUyRmxvb2thdG15cXVhbnQlN0NJbmtsaW5nLTItTWluaSUyMGluJTIwNS40JTIwR0IlMjBNZW1vcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5MTg1MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDE4JTNBMDIlM0ExOSUyMCUyQjAwMDA",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "pubDate": "Sat, 21 Nov 2026 18:02:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqZXNwaW5vLmdpdGh1Yi5pbyUyRmdvcGdleHQlMkYlN0NodHRwcyUzQSUyRiUyRmplc3Bpbm8uZ2l0aHViLmlvJTJGZ29wZ2V4dCUyRiU3Q1Bvc3RncmVTUUwlMjBFeHRlbnNpb25zJTIwaW4lMjBHbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTkxMjYwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMTclM0EwOCUzQTA0JTIwJTJCMDAwMA",
+      "title": "PostgreSQL Extensions in Go",
+      "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXRoLm1pdC5lZHUlMkZ+ZHJldyUyRmdyaCUyRiU3Q2h0dHBzJTNBJTJGJTJGbWF0aC5taXQuZWR1JTJGfmRyZXclMkZncmglMkYlN0NWZXJpZmljYXRpb24lMjBmaWxlcyUyMGZvciUyMHRoZSUyMExlYW4lMjBwcm9vZiUyMG9mJTIwdGhlJTIwUmllbWFubiUyMEh5cG90aGVzaXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5MDQ0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDE1JTNBNTQlM0EzNCUyMCUyQjAwMDA",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "pubDate": "Sat, 21 Nov 2026 15:54:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbnVyZ3VtdXMuZ2l0aHViLmlvJTJGemVyby1jc2hhcnAlMkZpbmRleC5odG1sJTdDaHR0cHMlM0ElMkYlMkZvbnVyZ3VtdXMuZ2l0aHViLmlvJTJGemVyby1jc2hhcnAlMkZpbmRleC5odG1sJTdDU2hvdyUyMEhOJTNBJTIwWmVybyUyMEMlMjMlMjAlRTIlODAlOTMlMjBDJTIzJTIwd2l0aG91dCUyMGElMjBydW50aW1lJTIwb3IlMjBHQyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTkwMjc5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMTUlM0EzOSUzQTA5JTIwJTJCMDAwMA",
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsZWFucHJvdmVyLWNvbW11bml0eS5naXRodWIuaW8lMkZibG9nJTJGcG9zdHMlMkZyaWVtYW5uLWh5cG90aGVzaXMlMkYlN0NodHRwcyUzQSUyRiUyRmxlYW5wcm92ZXItY29tbXVuaXR5LmdpdGh1Yi5pbyUyRmJsb2clMkZwb3N0cyUyRnJpZW1hbm4taHlwb3RoZXNpcyUyRiU3Q0xlYW4lMjB2ZXJpZmljYXRpb24lMjBvZiUyMHRoZSUyMFJpZW1hbm4lMjBIeXBvdGhlc2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODk2MTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAxNCUzQTM2JTNBNDUlMjAlMkIwMDAw",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGZGV0b25hdGluZy1odWdlLXBpbGUtbGVhZC1hemlkZS1yZWFsbHklN0NodHRwcyUzQSUyRiUyRnd3dy5zY2llbmNlLm9yZyUyRmNvbnRlbnQlMkZibG9nLXBvc3QlMkZkZXRvbmF0aW5nLWh1Z2UtcGlsZS1sZWFkLWF6aWRlLXJlYWxseSU3Q0RldG9uYXRpbmclMjBhJTIwcGlsZSUyMG9mJTIwbGVhZCUyMGF6aWRlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODg5ODIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAxMyUzQTIzJTNBMTQlMjAlMkIwMDAw",
+      "title": "Detonating a pile of lead azide",
+      "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnR5bXNjYXIuY29tJTJGcG9zdHMlMkZzdHVkaW9kaXNwbGF5ZXRoZXJuZXQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cudHltc2Nhci5jb20lMkZwb3N0cyUyRnN0dWRpb2Rpc3BsYXlldGhlcm5ldCUyRiU3Q015JTIwbW9uaXRvciUyMHdhcyUyMGN1dHRpbmclMjBteSUyMGRvd25sb2FkJTIwc3BlZWQlMjBieSUyMDc1JTI1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODc4NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAxMCUzQTM2JTNBMzIlMjAlMkIwMDAw",
+      "title": "My monitor was cutting my download speed by 75%",
+      "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
     }
   ]
