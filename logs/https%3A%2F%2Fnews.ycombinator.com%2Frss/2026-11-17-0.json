@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-17",
     "newestItemDate": "2026-11-17",
-    "itemCount": 43,
-    "generatedAt": "2026-11-21T07:23:49.813Z"
+    "itemCount": 44,
+    "generatedAt": "2026-11-21T16:13:51.543Z"
   },
   "items": [
     {
@@ -264,6 +264,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ2YWxrZXkuaW8lMkZibG9nJTJGZnJvbS1za2lwbGlzdC10by1iJTJCdHJlZSUyRiU3Q2h0dHBzJTNBJTJGJTJGdmFsa2V5LmlvJTJGYmxvZyUyRmZyb20tc2tpcGxpc3QtdG8tYiUyQnRyZWUlMkYlN0NWYWxrZXklMjBraWxscyUyMHRoZSUyMHNraXBsaXN0JTJDJTIwY3V0cyUyMHNvcnRlZCUyMHNldCUyMG92ZXJoZWFkJTIwYnklMjB1cCUyMHRvJTIwNDMlMjUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDUzNDM4NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDE3JTIwTm92JTIwMjAyNiUyMDE2JTNBNTglM0EzMCUyMCUyQjAwMDA",
       "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
       "pubDate": "Tue, 17 Nov 2026 16:58:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ292LmJyJTJGcmVjZWl0YWZlZGVyYWwlMkZwdC1iciUyRmFzc3VudG9zJTJGbm90aWNpYXMlMkYyMDI2JTJGbm92ZW1icm8lMkZyZWNlaXRhLWZlZGVyYWwtcHVibGljYS1wcmltZWlyby1jb2RpZ28tZm9udGUtYWJlcnRvLW5vLWdpdGh1Yi1lLWFtcGxpYS10cmFuc3BhcmVuY2lhLWRhLXJlZm9ybWEtdHJpYnV0YXJpYSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmdvdi5iciUyRnJlY2VpdGFmZWRlcmFsJTJGcHQtYnIlMkZhc3N1bnRvcyUyRm5vdGljaWFzJTJGMjAyNiUyRm5vdmVtYnJvJTJGcmVjZWl0YS1mZWRlcmFsLXB1YmxpY2EtcHJpbWVpcm8tY29kaWdvLWZvbnRlLWFiZXJ0by1uby1naXRodWItZS1hbXBsaWEtdHJhbnNwYXJlbmNpYS1kYS1yZWZvcm1hLXRyaWJ1dGFyaWElN0NCcmF6aWwncyUyMHRheCUyMGF1dGhvcml0eSUyMG9wZW4tc291cmNlcyUyMGl0cyUyMHRheCUyMGNhbGN1bGF0b3IlMjBvbiUyMEdpdEh1YiUyMHVuZGVyJTIwTUlUJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1MzI2MTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAxNyUyME5vdiUyMDIwMjYlMjAxNSUzQTIyJTNBNTclMjAlMkIwMDAw",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "pubDate": "Tue, 17 Nov 2026 15:22:57 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-17-0.json"
     }
   ]
