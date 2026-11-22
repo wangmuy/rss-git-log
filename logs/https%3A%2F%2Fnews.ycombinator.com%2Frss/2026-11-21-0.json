@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-21",
     "newestItemDate": "2026-11-21",
-    "itemCount": 19,
-    "generatedAt": "2026-11-21T21:42:57.293Z"
+    "itemCount": 24,
+    "generatedAt": "2026-11-22T07:03:56.736Z"
   },
   "items": [
     {
@@ -120,6 +120,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnR5bXNjYXIuY29tJTJGcG9zdHMlMkZzdHVkaW9kaXNwbGF5ZXRoZXJuZXQlMkYlN0NodHRwcyUzQSUyRiUyRmJsb2cudHltc2Nhci5jb20lMkZwb3N0cyUyRnN0dWRpb2Rpc3BsYXlldGhlcm5ldCUyRiU3Q015JTIwbW9uaXRvciUyMHdhcyUyMGN1dHRpbmclMjBteSUyMGRvd25sb2FkJTIwc3BlZWQlMjBieSUyMDc1JTI1JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1ODc4NzUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAxMCUzQTM2JTNBMzIlMjAlMkIwMDAw",
       "title": "My monitor was cutting my download speed by 75%",
       "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2ViYWFuZHJhZGEtY2VsbCUyRlBjYXBBbmFseXplciU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRnNlYmFhbmRyYWRhLWNlbGwlMkZQY2FwQW5hbHl6ZXIlN0NQY2FwQW5hbHl6ZXIlMjAlRTIlODAlOTMlMjBzZWxmLWhvc3RlZCUyMHBjYXAlMjBhbmFseXplciUyMHdpdGglMjAyNyUyMHByb2JsZW0lMjBkZXRlY3RvcnMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5NDEzMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDIyJTNBMDklM0E1OCUyMCUyQjAwMDA",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaW5lYmVuZGVyLm9yZyUyRmJsb2clMkZuZXh0LTEwMC1ndWlzJTJGJTdDaHR0cHMlM0ElMkYlMkZsaW5lYmVuZGVyLm9yZyUyRmJsb2clMkZuZXh0LTEwMC1ndWlzJTJGJTdDQWR2aWNlJTIwZm9yJTIwdGhlJTIwbmV4dCUyMDEwMCUyMFJ1c3QlMjBHVUlzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1OTM3MzclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAyMSUzQTE3JTNBNTMlMjAlMkIwMDAw",
+      "title": "Advice for the next 100 Rust GUIs",
+      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucGFuZGV4LmlvJTdDaHR0cHMlM0ElMkYlMkZ3d3cucGFuZGV4LmlvJTJGJTdDUGFuZGV4JTIwJUUyJTgwJTkzJTIwT2ZmaWNpYWwlMjBFdXJvcGVhbiUyMExhdyUyMGZvciUyMEFJJTIwQWdlbnRzJTJDJTIwb3ZlciUyME1DUCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTkzNDgxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMjAlM0E0NyUzQTQxJTIwJTJCMDAwMA",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwd24uYWklMkZ1cGxvYWQyc2hlbGwlN0NodHRwcyUzQSUyRiUyRnB3bi5haSUyRnVwbG9hZDJzaGVsbCU3Q1VwbG9hZDJTaGVsbCUyMChDVkUtMjAyNi0xMjUzOTYpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1OTIwOTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAxOCUzQTI5JTNBMjklMjAlMkIwMDAw",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "pubDate": "Sat, 21 Nov 2026 18:29:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsaXN0cy5nbnVwZy5vcmclMkZwaXBlcm1haWwlMkZnbnVwZy1hbm5vdW5jZSUyRjIwMjZxNCUyRjAwMDUxNy5odG1sJTdDaHR0cHMlM0ElMkYlMkZsaXN0cy5nbnVwZy5vcmclMkZwaXBlcm1haWwlMkZnbnVwZy1hbm5vdW5jZSUyRjIwMjZxNCUyRjAwMDUxNy5odG1sJTdDR251UEclMjBTZWN1cml0eSUyMEFkdmlzb3J5JTIwZm9yJTIwR1BHTUUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4NzIwOCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDA4JTNBMzIlM0E1OCUyMCUyQjAwMDA",
+      "title": "GnuPG Security Advisory for GPGME",
+      "pubDate": "Sat, 21 Nov 2026 08:32:58 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
     }
   ]

@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-19",
     "newestItemDate": "2026-11-19",
-    "itemCount": 36,
-    "generatedAt": "2026-11-21T07:23:49.812Z"
+    "itemCount": 37,
+    "generatedAt": "2026-11-22T07:03:56.736Z"
   },
   "items": [
     {
@@ -222,6 +222,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYnJlYWtpbmdjaGFuZ2UuYmxvZyUyRnAlMkZmZXdlci1zbGlkZXMtbW9yZS1kcmFnb25zJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYnJlYWtpbmdjaGFuZ2UuYmxvZyUyRnAlMkZmZXdlci1zbGlkZXMtbW9yZS1kcmFnb25zJTdDRmV3ZXIlMjBzbGlkZXMlMkMlMjBtb3JlJTIwZHJhZ29ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTU2NDgyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMDUlM0E0NiUzQTM2JTIwJTJCMDAwMA",
       "title": "Fewer slides, more dragons",
       "pubDate": "Thu, 19 Nov 2026 05:46:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFja3RvbGxlbmFhci50b3AlMkZhcnRpY2xlcyUyRnNwbGl0LXJjLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5qYWNrdG9sbGVuYWFyLnRvcCUyRmFydGljbGVzJTJGc3BsaXQtcmMuaHRtbCU3Q1NwbGl0JTIwUmFkaWFuY2UlMjBDYXNjYWRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYwMzE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTQlM0EwOCUzQTMzJTIwJTJCMDAwMA",
+      "title": "Split Radiance Cascades",
+      "pubDate": "Thu, 19 Nov 2026 14:08:33 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
     }
   ]
