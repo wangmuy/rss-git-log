@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-18",
     "newestItemDate": "2026-11-18",
-    "itemCount": 63,
-    "generatedAt": "2026-11-22T07:03:56.736Z"
+    "itemCount": 64,
+    "generatedAt": "2026-11-22T16:24:41.046Z"
   },
   "items": [
     {
@@ -384,6 +384,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZyZXZ5bC5jb20lMkZibG9nJTJGcGF0dGVybi1lbmdpbmVlcmluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGcmV2eWwuY29tJTJGYmxvZyUyRnBhdHRlcm4tZW5naW5lZXJpbmclMkYlN0NTaGFwaW5nJTIwdGhlJTIwTG9vcHMlMkMlMjBDbG9zaW5nJTIwdGhlJTIwTG9vcHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1MzIyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDIyJTNBMjklM0EwNCUyMCUyQjAwMDA",
       "title": "Shaping the Loops, Closing the Loops",
       "pubDate": "Wed, 18 Nov 2026 22:29:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmFsZXhiZWFscy5jb20lMkZwb3N0cyUyRmlsLWNpdmV0dGElN0NodHRwcyUzQSUyRiUyRmJsb2cuYWxleGJlYWxzLmNvbSUyRnBvc3RzJTJGaWwtY2l2ZXR0YSU3Q1RoZSUyMFdoZXJlJ3MlMjBXYWxkbyUyMG9mJTIwdGhlJTIwMTUwMHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU1MTM5NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDE4JTIwTm92JTIwMjAyNiUyMDIwJTNBMDQlM0EyOCUyMCUyQjAwMDA",
+      "title": "The Where's Waldo of the 1500s",
+      "pubDate": "Wed, 18 Nov 2026 20:04:28 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-18-0.json"
     }
   ]

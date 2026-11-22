@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-19",
     "newestItemDate": "2026-11-19",
-    "itemCount": 37,
-    "generatedAt": "2026-11-22T07:03:56.736Z"
+    "itemCount": 40,
+    "generatedAt": "2026-11-22T16:24:41.046Z"
   },
   "items": [
     {
@@ -228,6 +228,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamFja3RvbGxlbmFhci50b3AlMkZhcnRpY2xlcyUyRnNwbGl0LXJjLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5qYWNrdG9sbGVuYWFyLnRvcCUyRmFydGljbGVzJTJGc3BsaXQtcmMuaHRtbCU3Q1NwbGl0JTIwUmFkaWFuY2UlMjBDYXNjYWRlcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTYwMzE0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMTQlM0EwOCUzQTMzJTIwJTJCMDAwMA",
       "title": "Split Radiance Cascades",
       "pubDate": "Thu, 19 Nov 2026 14:08:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjZWxsaWFkLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGY2VsbGlhZC5jb20lMkYlN0NDZWxsaWFkJTIwJUUyJTgwJTkzJTIwYSUyMGRhaWx5JTIwRXhjZWwlMjBnYW1lJTIwKEZyZW5jaCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2NzQ5MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDIyJTNBMzclM0ExNiUyMCUyQjAwMDA",
+      "title": "Celliad – a daily Excel game (French)",
+      "pubDate": "Thu, 19 Nov 2026 22:37:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2lubWF5YmVycnkuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZqb2lubWF5YmVycnkuY29tJTJGJTdDU2VsZi1ob3N0ZWQlMjBsaWJyYXJ5JTIwYnJhbmNoJTIwb3ZlciUyMHB1YmxpYyUyMHdlYiUyME9QRFMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU2NjQ5NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDE5JTIwTm92JTIwMjAyNiUyMDIxJTNBMTUlM0E0NyUyMCUyQjAwMDA",
+      "title": "Self-hosted library branch over public web OPDS",
+      "pubDate": "Thu, 19 Nov 2026 21:15:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTU1MDAyJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTU1MDAyJTdDQXNrJTIwSE4lM0ElMjBUaXBzJTIwZm9yJTIwdHJhbnNpdGlvbmluZyUyMGZyb20lMjB3ZWIlMjBkZXZlbG9wbWVudCUyMHRvJTIwZW1iZWRkZWQlMkZmaXJtd2FyZSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTU1MDAyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMTklMjBOb3YlMjAyMDI2JTIwMDElM0EzNyUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "pubDate": "Thu, 19 Nov 2026 01:37:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-19-0.json"
     }
   ]

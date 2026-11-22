@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-22",
     "newestItemDate": "2026-11-22",
-    "itemCount": 8,
-    "generatedAt": "2026-11-22T07:03:56.735Z"
+    "itemCount": 18,
+    "generatedAt": "2026-11-22T16:24:41.045Z"
   },
   "items": [
     {
@@ -54,6 +54,66 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZzdHVsbGUuYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZzdHVsbGUuYXBwJTJGJTdDU2FuZHdpY2glMjBTaW11bGF0b3IlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5NDkxMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDAwJTNBMDclM0E1OSUyMCUyQjAwMDA",
       "title": "Sandwich Simulator",
       "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZXVyb25ld3MuY29tJTJGMjAyNiUyRjEwJTJGMTklMkZub3J3YXktdG8tZXh0ZW5kLXByb3Bvc2VkLXVuZGVyLTE2LXNvY2lhbC1tZWRpYS1iYW4tdG8tb25saW5lLWdhbWVzLWFuZC1tZXNzYWdpbmctYXBwcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LmV1cm9uZXdzLmNvbSUyRjIwMjYlMkYxMCUyRjE5JTJGbm9yd2F5LXRvLWV4dGVuZC1wcm9wb3NlZC11bmRlci0xNi1zb2NpYWwtbWVkaWEtYmFuLXRvLW9ubGluZS1nYW1lcy1hbmQtbWVzc2FnaW5nLWFwcHMlN0NOb3J3YXklMjB0byUyMGV4dGVuZCUyMHByb3Bvc2VkJTIwdW5kZXItMTYlMjBzb2NpYWwlMjBtZWRpYSUyMGJhbiUyMHRvJTIwZ2FtZXMlMjBhbmQlMjBtZXNzYWdpbmclMjBhcHBzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDA3ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxNSUzQTU0JTNBMjQlMjAlMkIwMDAw",
+      "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
+      "pubDate": "Sun, 22 Nov 2026 15:54:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubGVtb25kZS5mciUyRmVuJTJGb3BpbmlvbiUyRmFydGljbGUlMkYyMDI2JTJGMTElMkYyMiUyRmFzLXNjaWVuY2UtaW5jcmVhc2luZ2x5LXNob3dzLXRoZS1yb2xlLWNoZW1pY2FsLXN1YnN0YW5jZXMtcGxheS1pbi1saWZlc3R5bGUtZGlzZWFzZXMtZXVyb3BlLXdlYWtlbnMtaXRzLXJlZ3VsYXRpb25zXzY3ODY1OTVfMjMuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmxlbW9uZGUuZnIlMkZlbiUyRm9waW5pb24lMkZhcnRpY2xlJTJGMjAyNiUyRjExJTJGMjIlMkZhcy1zY2llbmNlLWluY3JlYXNpbmdseS1zaG93cy10aGUtcm9sZS1jaGVtaWNhbC1zdWJzdGFuY2VzLXBsYXktaW4tbGlmZXN0eWxlLWRpc2Vhc2VzLWV1cm9wZS13ZWFrZW5zLWl0cy1yZWd1bGF0aW9uc182Nzg2NTk1XzIzLmh0bWwlN0NFdXJvcGUlMjB3ZWFrZW5zJTIwY2hlbWljYWwlMjBydWxlcyUyMGFzJTIwc2NpZW5jZSUyMGxpbmtzJTIwdGhlbSUyMHRvJTIwJ2xpZmVzdHlsZSUyMGRpc2Vhc2VzJyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjAwNjc3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTUlM0E0MiUzQTQwJTIwJTJCMDAwMA",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvc3ctYWxsaWFuY2UubmV0JTJGZW4lMkYlN0NodHRwcyUzQSUyRiUyRm9zdy1hbGxpYW5jZS5uZXQlMkZlbiUyRiU3Q09wZW4lMjBTb2NpYWwlMjBXZWIlMjBBbGxpYW5jZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjAwNTExJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTUlM0EyNCUzQTMyJTIwJTJCMDAwMA",
+      "title": "Open Social Web Alliance",
+      "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubmVvd2luLm5ldCUyRm5ld3MlMkZiYWNrYmxhemUtY3VzdG9tZXJzLXdvcnJpZWQtb2YtcGVyc29uYWwtZGF0YS1zYWxlc2hhcmluZy1hZnRlci1wb2xpY3ktdXBkYXRlJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cubmVvd2luLm5ldCUyRm5ld3MlMkZiYWNrYmxhemUtY3VzdG9tZXJzLXdvcnJpZWQtb2YtcGVyc29uYWwtZGF0YS1zYWxlc2hhcmluZy1hZnRlci1wb2xpY3ktdXBkYXRlJTJGJTdDQmFja2JsYXplJTIwY3VzdG9tZXJzJTIwd29ycmllZCUyMG9mJTIwcGVyc29uYWwlMjBkYXRhJTIwc2FsZSUyRnNoYXJpbmclMjBhZnRlciUyMHBvbGljeSUyMHVwZGF0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjAwNDM1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTUlM0ExNiUzQTAyJTIwJTJCMDAwMA",
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ3VsaXZhbiUyRndvcmtlcjc1NSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmd1bGl2YW4lMkZ3b3JrZXI3NTUlN0NTaG93JTIwSE4lM0ElMjBJJTIwYnVpbHQlMjBhJTIwZ2FtZSUyMHdoZXJlJTIweW91JTIwYXJlJTIwYW4lMjBMTE0ncyUyMHN1YmFnZW50JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1OTk3NjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxMyUzQTU2JTNBNTglMjAlMkIwMDAw",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cubnl0aW1lcy5jb20lMkYyMDI2JTJGMTElMkYyMiUyRmNsaW1hdGUlMkZjb3AzMS1jbGltYXRlLXN1bW1pdC1lbmRzLWNsaW1hdGUuaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3Lm55dGltZXMuY29tJTJGMjAyNiUyRjExJTJGMjIlMkZjbGltYXRlJTJGY29wMzEtY2xpbWF0ZS1zdW1taXQtZW5kcy1jbGltYXRlLmh0bWwlN0NVLk4uJTIwQ2xpbWF0ZSUyMFRhbGtzJTIwQ29sbGFwc2UlMjBpbiUyMGElMjBCaXR0ZXIlMjBDbGFzaCUyMG92ZXIlMjBGb3NzaWwlMjBGdWVscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTk5NTgzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTMlM0EzNyUzQTEwJTIwJTJCMDAwMA",
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "pubDate": "Sun, 22 Nov 2026 13:37:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaW1vbndpbGxpc29uLm5ldCUyRjIwMjYlMkZOb3YlMkYyMSUyRm11cnUlMkYlN0NodHRwcyUzQSUyRiUyRnNpbW9ud2lsbGlzb24ubmV0JTJGMjAyNiUyRk5vdiUyRjIxJTJGbXVydSUyRiU3Q011cnUlMjAlRTIlODAlOTMlMjBBSS1hc3Npc3RlZCUyMFJ1c3QlMjBzZXJ2ZXIlMjBmb3IlMjBQeXRob24lMjBhcHBzJTIwYnklMjBtb2RfV1NHSSdzJTIwY3JlYXRvciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTk3OTU5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMDklM0E1NyUzQTAxJTIwJTJCMDAwMA",
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "pubDate": "Sun, 22 Nov 2026 09:57:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiZXR0ZXJkYXRhY2VudGVycHJvamVjdC5jb20lMkYyMDI2JTJGMTElMkYxNiUyRmhvdy1haS1pcy1wb3dlcmVkLWEtYnJlYWtkb3duLW9mLWJ5b3AtYW5kLWdyaWQtcG93ZXIlMkYlN0NodHRwcyUzQSUyRiUyRmJldHRlcmRhdGFjZW50ZXJwcm9qZWN0LmNvbSUyRjIwMjYlMkYxMSUyRjE2JTJGaG93LWFpLWlzLXBvd2VyZWQtYS1icmVha2Rvd24tb2YtYnlvcC1hbmQtZ3JpZC1wb3dlciUyRiU3Qzg3JTI1JTIwb2YlMjB0aGUlMjBBbnRocm9waWMlMjBwb3dlciUyMHdpbGwlMjBjb21lJTIwZnJvbSUyMGdhcyUyMGFuZCUyMDExJTI1JTIwZnJvbSUyMGNvYWwlMjBpbiUyMDIwMjglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5NzYxMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDA4JTNBNTclM0EzNCUyMCUyQjAwMDA",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGkudGhlZ3JlZW5wbGFjZS5uZXQlMkYyMDI2JTJGbm90ZXMtb24tdGhlLWRpc2NyZXRlLWZvdXJpZXItdHJhbnNmb3JtLWRmdCUyRiU3Q2h0dHBzJTNBJTJGJTJGZWxpLnRoZWdyZWVucGxhY2UubmV0JTJGMjAyNiUyRm5vdGVzLW9uLXRoZS1kaXNjcmV0ZS1mb3VyaWVyLXRyYW5zZm9ybS1kZnQlMkYlN0NOb3RlcyUyMG9uJTIwdGhlJTIwZGlzY3JldGUlMjBGb3VyaWVyJTIwdHJhbnNmb3JtJTIwKERGVCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5Njk2MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDA2JTNBNTIlM0EyNSUyMCUyQjAwMDA",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRUw0Q1RFTyUyRmZhc3QtYW55dGhpbmclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZFTDRDVEVPJTJGZmFzdC1hbnl0aGluZyU3Q0Zhc3QtQW55dGhpbmclM0ElMjBEb24ndCUyMHJld3JpdGUlMjBpdCUyMGluJTIwUnVzdC4lMjBSZXdyaXRlJTIwdGhlJTIwNSUyNSUyMHRoYXQncyUyMHNsb3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5NjE1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDA0JTNBMTAlM0EwOSUyMCUyQjAwMDA",
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "pubDate": "Sun, 22 Nov 2026 04:10:09 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
     }
   ]
