@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-20",
     "newestItemDate": "2026-11-20",
-    "itemCount": 48,
-    "generatedAt": "2026-11-22T16:24:41.045Z"
+    "itemCount": 50,
+    "generatedAt": "2026-11-23T07:52:59.651Z"
   },
   "items": [
     {
@@ -294,6 +294,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbWJyb29rLmNvbSUyRm9mZnJhbmdlJTJGbGl2ZXN0b2NrJTJGZmllbGQtbWljZS1vbi1kcnVncyU3Q2h0dHBzJTNBJTJGJTJGYW1icm9vay5jb20lMkZvZmZyYW5nZSUyRmxpdmVzdG9jayUyRmZpZWxkLW1pY2Utb24tZHJ1Z3MlN0NGaWVsZCUyME1pY2UlMjBvbiUyMERydWdzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1NzM4NzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyMCUyME5vdiUyMDIwMjYlMjAxMiUzQTQwJTNBMDYlMjAlMkIwMDAw",
       "title": "Field Mice on Drugs",
       "pubDate": "Fri, 20 Nov 2026 12:40:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRpdGhlc2lzLmNvbSUyRmJsb2clMkYyMDI2JTJGdmVyaWZ5aW5nLWZvcm1hbC1tb2RlbHMlMkYlN0NodHRwcyUzQSUyRiUyRmFudGl0aGVzaXMuY29tJTJGYmxvZyUyRjIwMjYlMkZ2ZXJpZnlpbmctZm9ybWFsLW1vZGVscyUyRiU3Q1ZlcmlmeWluZyUyMGZvcm1hbCUyMG1vZGVscyUyMG9mJTIwUmFmdCUyMGltcGxlbWVudGF0aW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTc3MzUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMTYlM0EzMyUzQTIyJTIwJTJCMDAwMA",
+      "title": "Verifying formal models of Raft implementations",
+      "pubDate": "Fri, 20 Nov 2026 16:33:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA2LjEzNzcxJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNTA2LjEzNzcxJTdDTGl0dGxlQml0JTNBJTIwVWx0cmElMjBMb3ctQml0JTIwUXVhbnRpemF0aW9uJTIwdmlhJTIwTGF0ZW50JTIwRmFjdG9yaXphdGlvbiUyMCgyMDI1KSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTY5NTA1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjAlMjBOb3YlMjAyMDI2JTIwMDIlM0E0MCUzQTQ4JTIwJTJCMDAwMA",
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+      "pubDate": "Fri, 20 Nov 2026 02:40:48 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-20-0.json"
     }
   ]

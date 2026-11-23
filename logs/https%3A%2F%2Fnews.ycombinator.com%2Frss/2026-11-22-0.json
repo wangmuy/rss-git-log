@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-22",
     "newestItemDate": "2026-11-22",
-    "itemCount": 18,
-    "generatedAt": "2026-11-22T16:24:41.045Z"
+    "itemCount": 33,
+    "generatedAt": "2026-11-23T07:52:59.650Z"
   },
   "items": [
     {
@@ -114,6 +114,96 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGRUw0Q1RFTyUyRmZhc3QtYW55dGhpbmclN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZFTDRDVEVPJTJGZmFzdC1hbnl0aGluZyU3Q0Zhc3QtQW55dGhpbmclM0ElMjBEb24ndCUyMHJld3JpdGUlMjBpdCUyMGluJTIwUnVzdC4lMjBSZXdyaXRlJTIwdGhlJTIwNSUyNSUyMHRoYXQncyUyMHNsb3clN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5NjE1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDA0JTNBMTAlM0EwOSUyMCUyQjAwMDA",
       "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
       "pubDate": "Sun, 22 Nov 2026 04:10:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYwcnd4LmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGMHJ3eC5jb20lMkYlN0Mwcnd4JTIwJUUyJTgwJTkzJTIwQSUyMHNpbXBsZSUyMG1vZGVsJTIwb2YlMjBBSSUyMHVzYWdlJTJDJTIwaW5zcGlyZWQlMjBieSUyMFVuaXglMjBwZXJtaXNzaW9ucyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjA1NDQ1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMjMlM0E1MyUzQTAwJTIwJTJCMDAwMA",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjbGF1ZGUuYWklMkZhcnRpZmFjdCUyRkN0UXlYOHFmWUFGODIyYmdISkhIRTMlN0NodHRwcyUzQSUyRiUyRmNsYXVkZS5haSUyRmFydGlmYWN0JTJGQ3RReVg4cWZZQUY4MjJiZ0hKSEhFMyU3Q1Byb2dyZXNzJTIwbWFwJTIwZm9yJTIwdGhlJTIwTGVhbiUyMGZvcm1hbGl6YXRpb24lMjBvZiUyMEFsZXNzYW5kcm8lMjBNYXN1bGxvJ3MlMjBtYW51c2NyaXB0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDUwNDUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMyUzQTEyJTNBMTAlMjAlMkIwMDAw",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ2wtaW5ldC5jb20lMkZlbi11cyUyRmJsb2dzJTJGYmxvZyUyRmdsaW5ldC1zZWN1cml0eS1ub3RpY2UtMjAyNi0xMS0yMCU3Q2h0dHBzJTNBJTJGJTJGd3d3LmdsLWluZXQuY29tJTJGZW4tdXMlMkZibG9ncyUyRmJsb2clMkZnbGluZXQtc2VjdXJpdHktbm90aWNlLTIwMjYtMTEtMjAlN0NHTC5pTmV0JTIwU2VjdXJpdHklMjBOb3RpY2UlMjAyMDI2LTExLTIwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDQ5ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMyUzQTA2JTNBMzclMjAlMkIwMDAw",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWp3c29sbyUyRmxvY2FsY29kZSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm1qd3NvbG8lMkZsb2NhbGNvZGUlN0NMb2NhbGNvZGUlMkMlMjBvcGVuJTIwc291cmNlJTIwYWdlbnRpYyUyMGNvZGluZyUyMG9uJTIweW91ciUyME1hYyUyMHdpdGglMjBvbmUlMjBjb21tYW5kJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDQ1NDAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMiUzQTE4JTNBNDglMjAlMkIwMDAw",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuaWFzLmVkdSUyRnNpdGVzJTJGZGVmYXVsdCUyRmZpbGVzJTJGbGlicmFyeSUyRlVzZWZ1bG5lc3NIYXJwZXJzLnBkZiU3Q2h0dHBzJTNBJTJGJTJGd3d3Lmlhcy5lZHUlMkZzaXRlcyUyRmRlZmF1bHQlMkZmaWxlcyUyRmxpYnJhcnklMkZVc2VmdWxuZXNzSGFycGVycy5wZGYlN0NUaGUlMjBVc2VmdWxuZXNzJTIwb2YlMjBVc2VsZXNzJTIwS25vd2xlZGdlJTIwJTVCcGRmJTVEJTIwKDE5MzkpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDQ0NzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMiUzQTEwJTNBNTglMjAlMkIwMDAw",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZmb3NzY29taWNzLmNvbSUyRnBvc3RzJTJGMTYuJTI1MjBCU0QlMjUyMFVuaXglMjUyMFBhcnQlMjUyMDYlMjUyMC0lMjUyMFRoZSUyNTIwU3RydWdnbGUlMjUyMGZvciUyNTIwRnJlZWRvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9zc2NvbWljcy5jb20lMkZwb3N0cyUyRjE2LiUyNTIwQlNEJTI1MjBVbml4JTI1MjBQYXJ0JTI1MjA2JTI1MjAtJTI1MjBUaGUlMjUyMFN0cnVnZ2xlJTI1MjBmb3IlMjUyMEZyZWVkb20lMkYlN0NUaGUlMjBzdHJ1Z2dsZSUyMGZvciUyMGZyZWVkb20lM0ElMjBIb3clMjBCU0QlMjBlc2NhcGVkJTIwQVQlMjZUJTIwbGljZW5zaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDQxMjMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMSUzQTMzJTNBMTIlMjAlMkIwMDAw",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "pubDate": "Sun, 22 Nov 2026 21:33:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3B1cGFydG5lci5jb20lMkZibG9nJTJGYmVnaW5uZXJzLWd1aWRlLWxvY2FsLWFpLWlua2xpbmctcXdlbi11bnNsb3RoJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ3B1cGFydG5lci5jb20lMkZibG9nJTJGYmVnaW5uZXJzLWd1aWRlLWxvY2FsLWFpLWlua2xpbmctcXdlbi11bnNsb3RoJTdDQSUyMEJlZ2lubmVyJ3MlMjBHdWlkZSUyMHRvJTIwTG9jYWwlMjBBSSUyMHdpdGglMjBJbmtsaW5nJTJDJTIwUXdlbiUyQyUyMGFuZCUyMFVuc2xvdGglN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYwMzg0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDIxJTNBMDElM0ExNiUyMCUyQjAwMDA",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbWFsbHNmLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc21hbGxzZi5jb20lMkYlN0NBJTIwbWluaWF0dXJlJTIwU2FuJTIwRnJhbmNpc2NvJTIwd2l0aCUyMGxpdmUlMjBidXNlcyUyQyUyMHBsYW5lcyUyMGFuZCUyMGJvYXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDM1ODklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMCUzQTMzJTNBMjMlMjAlMkIwMDAw",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZueXgubmV0JTJGJTdDaHR0cHMlM0ElMkYlMkZueXgubmV0JTJGJTdDTnl4JTJDJTIwdGhlJTIwT2xkZXN0JTIwSW50ZXJuZXQlMjBTZXJ2aWNlJTIwUHJvdmlkZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYwMzQ2NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDIwJTNBMTUlM0E1OSUyMCUyQjAwMDA",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkYW5pZWxzYWRhLnRlY2glMkZibG9nJTJGYXNzdW1lLXBlb3BsZS1hcmUtbm90LWludGVyZXN0ZWQtaW4teW91ci1ibG9nLXBvc3QlMkYlN0NodHRwcyUzQSUyRiUyRmRhbmllbHNhZGEudGVjaCUyRmJsb2clMkZhc3N1bWUtcGVvcGxlLWFyZS1ub3QtaW50ZXJlc3RlZC1pbi15b3VyLWJsb2ctcG9zdCUyRiU3Q0Fzc3VtZSUyMFBlb3BsZSUyMEFyZSUyME5vdCUyMEludGVyZXN0ZWQlMjBpbiUyMFlvdXIlMjBCbG9nJTIwUG9zdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjAzMTQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTklM0E0MSUzQTMwJTIwJTJCMDAwMA",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "pubDate": "Sun, 22 Nov 2026 19:41:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3JlaWxseS5jb20lMkZyYWRhciUyRndoYXQtaGFwcGVuZWQtdG8tc2lsaWNvbi12YWxsZXklMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5vcmVpbGx5LmNvbSUyRnJhZGFyJTJGd2hhdC1oYXBwZW5lZC10by1zaWxpY29uLXZhbGxleSUyRiU3Q1doYXQlMjBIYXBwZW5lZCUyMHRvJTIwU2lsaWNvbiUyMFZhbGxleSUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjAyOTQ3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTklM0EyMCUzQTE1JTIwJTJCMDAwMA",
+      "title": "What Happened to Silicon Valley?",
+      "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYXVkdWJvbi5vcmclMkZtYWdhemluZSUyRmJpcmRzLW9mLWd0YS02LWZpZWxkLWd1aWRlLXZpY2UtY2l0eS13aWxkbGlmZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmF1ZHVib24ub3JnJTJGbWFnYXppbmUlMkZiaXJkcy1vZi1ndGEtNi1maWVsZC1ndWlkZS12aWNlLWNpdHktd2lsZGxpZmUlN0NUaGUlMjBCaXJkcyUyMG9mJTIwR1RBJTIwNiUzQSUyMEElMjBGaWVsZCUyMEd1aWRlJTIwdG8lMjBWaWNlJTIwQ2l0eSUyMGFuZCUyMExlb25pZGEncyUyMFdpbGRsaWZlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDI4NDMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxOSUzQTEwJTNBMzQlMjAlMkIwMDAw",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuYWkuY29tJTJGaW5kZXglMkZwZXJwbGV4aXR5LWFuZC1pbnRlbGxpZ2VuY2UlMkYlN0NodHRwcyUzQSUyRiUyRm9wZW5haS5jb20lMkZpbmRleCUyRnBlcnBsZXhpdHktYW5kLWludGVsbGlnZW5jZSUyRiU3Q1BlcnBsZXhpdHklMjBhbmQlMjBJbnRlbGxpZ2VuY2UlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYwMTUyNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDE3JTNBMDYlM0EyNyUyMCUyQjAwMDA",
+      "title": "Perplexity and Intelligence",
+      "pubDate": "Sun, 22 Nov 2026 17:06:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuamVmZmdlZXJsaW5nLmNvbSUyRmJsb2clMkYyMDI2JTJGaS1qb2luZWQtdGhlLW50cC1wb29sJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuamVmZmdlZXJsaW5nLmNvbSUyRmJsb2clMkYyMDI2JTJGaS1qb2luZWQtdGhlLW50cC1wb29sJTJGJTdDSSUyMGpvaW5lZCUyMHRoZSUyME5UUCUyMFBvb2wlMkMlMjBidXQlMjBub3QlMjB3aXRoJTIwbXklMjBTdHJhdHVtJTIwMSUyMFBpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDA2MjIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxNSUzQTM1JTNBMjQlMjAlMkIwMDAw",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2huY2FybG9zYmFlei53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjExJTJGMjIlMkZtYXN1bGxvLW9uLXRoZS1yaWVtYW5uLWh5cG90aGVzaXMlMkYlN0NodHRwcyUzQSUyRiUyRmpvaG5jYXJsb3NiYWV6LndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTElMkYyMiUyRm1hc3VsbG8tb24tdGhlLXJpZW1hbm4taHlwb3RoZXNpcyUyRiU3Q01hc3VsbG8lMjBvbiUyMHRoZSUyMFJpZW1hbm4lMjBIeXBvdGhlc2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1OTg0NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxMCUzQTU5JTNBNTYlMjAlMkIwMDAw",
+      "title": "Masullo on the Riemann Hypothesis",
+      "pubDate": "Sun, 22 Nov 2026 10:59:56 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
     }
   ]
