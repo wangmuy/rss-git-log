@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-21",
     "newestItemDate": "2026-11-21",
-    "itemCount": 25,
-    "generatedAt": "2026-11-22T16:24:41.045Z"
+    "itemCount": 30,
+    "generatedAt": "2026-11-23T20:20:07.881Z"
   },
   "items": [
     {
@@ -156,6 +156,36 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhbHBlcmVua2VsZXMuY29tJTJGcG9zdHMlMkZ2b2NhYi1mb3ItdGVzdGluZyUyRiU3Q2h0dHBzJTNBJTJGJTJGYWxwZXJlbmtlbGVzLmNvbSUyRnBvc3RzJTJGdm9jYWItZm9yLXRlc3RpbmclMkYlN0NBJTIwQmV0dGVyJTIwVm9jYWJ1bGFyeSUyMGZvciUyMFRlc3RpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5NDE4MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDIyJTNBMTUlM0EzOSUyMCUyQjAwMDA",
       "title": "A Better Vocabulary for Testing",
       "pubDate": "Sat, 21 Nov 2026 22:15:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWxsYWJvdXRjaXJjdWl0cy5jb20lMkZ0ZWNobmljYWwtYXJ0aWNsZXMlMkZtcmFtLWJhc2ljcy1ob3ctbWFnbmV0aWMtbWVtb3J5LWlzLXJlcGxhY2luZy1lbWJlZGRlZC1mbGFzaCUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFsbGFib3V0Y2lyY3VpdHMuY29tJTJGdGVjaG5pY2FsLWFydGljbGVzJTJGbXJhbS1iYXNpY3MtaG93LW1hZ25ldGljLW1lbW9yeS1pcy1yZXBsYWNpbmctZW1iZWRkZWQtZmxhc2glMkYlN0NNUkFNJTIwQmFzaWNzJTNBJTIwSG93JTIwTWFnbmV0aWMlMjBNZW1vcnklMjBJcyUyMFJlcGxhY2luZyUyMEVtYmVkZGVkJTIwRmxhc2glN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4Nzc1MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDEwJTNBMTQlM0ExMSUyMCUyQjAwMDA",
+      "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+      "pubDate": "Sat, 21 Nov 2026 10:14:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGc2NpZW5jZSUyRjIwMjYlMkZub3YlMkYyMCUyRnNwYWNlY3JhZnQtbWVyY3VyeS1zZWNvbmQtZXZlci1taXNzaW9uLW9yYml0LWJlcGljb2xvbWJvJTdDaHR0cHMlM0ElMkYlMkZ3d3cudGhlZ3VhcmRpYW4uY29tJTJGc2NpZW5jZSUyRjIwMjYlMkZub3YlMkYyMCUyRnNwYWNlY3JhZnQtbWVyY3VyeS1zZWNvbmQtZXZlci1taXNzaW9uLW9yYml0LWJlcGljb2xvbWJvJTdDU3BhY2VjcmFmdCUyMHJlYWNoZXMlMjBNZXJjdXJ5JTIwb24lMjBzZWNvbmQtZXZlciUyMG1pc3Npb24lMjB0byUyMGVudGVyJTIwaXRzJTIwb3JiaXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4NzQzOSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDA5JTNBMTQlM0EwMiUyMCUyQjAwMDA",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "pubDate": "Sat, 21 Nov 2026 09:14:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLnJlZ2Voci5vcmclMkZhcmNoaXZlcyUyRjE2MjElN0NodHRwcyUzQSUyRiUyRmJsb2cucmVnZWhyLm9yZyUyRmFyY2hpdmVzJTJGMTYyMSU3Q1doYXQncyUyMHRoZSUyMGRpZmZlcmVuY2UlMjBiZXR3ZWVuJTIwYW4lMjBpbnRlZ2VyJTIwYW5kJTIwYSUyMHBvaW50ZXIlM0YlMjAoMjAxOCklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4NzI4NiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDA4JTNBNDklM0ExNCUyMCUyQjAwMDA",
+      "title": "What's the difference between an integer and a pointer? (2018)",
+      "pubDate": "Sat, 21 Nov 2026 08:49:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZWxpeGlyLWhscyUyRmVsaXhpci1obHMlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZlbGl4aXItaGxzJTJGZWxpeGlyLWhscyU3Q0VsaXhpciUyMEhMUyUyMG1ha2VzJTIwRlBHQSUyMGNpcmN1aXRzJTIwZnJvbSUyMGZ1bmN0aW9ucyUyMHdyaXR0ZW4lMjBpbiUyMEVsaXhpciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTg0NTI2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMDAlM0E0NyUzQTU3JTIwJTJCMDAwMA",
+      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "pubDate": "Sat, 21 Nov 2026 00:47:57 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxlZmYtZ2l0aHViJTJGb25pb24tcm91dGluZy1hbmF0b215JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxlZmYtZ2l0aHViJTJGb25pb24tcm91dGluZy1hbmF0b215JTdDQW5hdG9taWElMjBEaSUyMFRvciUyMCVFMiU4MCU5MyUyMFRoZSUyMFRvciUyMFByb3RvY29sJTJDJTIwQnl0ZSUyMGJ5JTIwQnl0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTg0MzI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMDAlM0EyMCUzQTM3JTIwJTJCMDAwMA",
+      "title": "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
+      "pubDate": "Sat, 21 Nov 2026 00:20:37 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
     }
   ]

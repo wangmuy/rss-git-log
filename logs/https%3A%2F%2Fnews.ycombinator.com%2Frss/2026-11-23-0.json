@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-23",
     "newestItemDate": "2026-11-23",
-    "itemCount": 8,
-    "generatedAt": "2026-11-23T07:52:59.650Z"
+    "itemCount": 24,
+    "generatedAt": "2026-11-23T20:20:07.880Z"
   },
   "items": [
     {
@@ -54,6 +54,102 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZuYW5nby5kZXYlMkZibG9nJTJGbGVzc29ucy1mcm9tLW9wZXJhdGluZy1hcGktYXV0aC1mb3ItOTAwLWFwaXMlMkYlN0NodHRwcyUzQSUyRiUyRm5hbmdvLmRldiUyRmJsb2clMkZsZXNzb25zLWZyb20tb3BlcmF0aW5nLWFwaS1hdXRoLWZvci05MDAtYXBpcyUyRiU3Q1doYXQlMjB3ZSUyMGxlYXJuZWQlMjBvcGVyYXRpbmclMjBhdXRoJTIwZm9yJTIwMWslMjBBUElzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDYwNzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAwMSUzQTAxJTNBMTElMjAlMkIwMDAw",
       "title": "What we learned operating auth for 1k APIs",
       "pubDate": "Mon, 23 Nov 2026 01:01:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcm0uam9ucGFsbWlzYy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmFybS5qb25wYWxtaXNjLmNvbSUyRiU3QyUyMlBlciUyMEFSTSdzJTIwUmVxdWVzdCUyQyUyMFRoaXMlMjBTaXRlJTIwV2lsbCUyMEJlJTIwRGlzY29udGludWVkJTIwb24lMjA0JTIwRGVjZW1iZXIlMjAyMDI2JTIyJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MTc0OTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAxOSUzQTE3JTNBNTUlMjAlMkIwMDAw",
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2x1c2hjaGVua28lMkZmc25vdGVzJTJGZGlzY3Vzc2lvbnMlMkYyMDU2JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZ2x1c2hjaGVua28lMkZmc25vdGVzJTJGZGlzY3Vzc2lvbnMlMkYyMDU2JTdDQXBwbGUlMjByZW1vdmVkJTIwbXklMjBvcGVuLXNvdXJjZSUyMGFwcCUyMGZyb20lMjBFVSUyMEFwcCUyMFN0b3JlcyUyMGFmdGVyJTIwOSUyMHllYXJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MTY5MzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAxOCUzQTQ4JTNBMTAlMjAlMkIwMDAw",
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "pubDate": "Mon, 23 Nov 2026 18:48:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZ3JlcHRpbGUuY29tJTJGYmxvZyUyRnRyZXgtY29tcHV0ZXItdXNlJTdDaHR0cHMlM0ElMkYlMkZ3d3cuZ3JlcHRpbGUuY29tJTJGYmxvZyUyRnRyZXgtY29tcHV0ZXItdXNlJTdDSG93JTIwc2hvdWxkJTIwYW4lMjBMTE0lMjBzZWUlMjBhJTIwY29tcHV0ZXIlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxNTUyMCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDE3JTNBMTklM0EyNSUyMCUyQjAwMDA",
+      "title": "How should an LLM see a computer?",
+      "pubDate": "Mon, 23 Nov 2026 17:19:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmthZ2kuY29tJTJGa2FnaS1tYWlsLXB1YmxpYy1iZXRhJTdDaHR0cHMlM0ElMkYlMkZibG9nLmthZ2kuY29tJTJGa2FnaS1tYWlsLXB1YmxpYy1iZXRhJTdDS2FnaSUyME1haWwlMjAocHVibGljJTIwYmV0YSklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxNTQ4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDE3JTNBMTclM0EwMSUyMCUyQjAwMDA",
+      "title": "Kagi Mail (public beta)",
+      "pubDate": "Mon, 23 Nov 2026 17:17:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnlsZWN1biUyRnN0YXR1cyUyRjIxMjQ1NTAwMzc5MTI5MjAwOTAlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGeWxlY3VuJTJGc3RhdHVzJTJGMjEyNDU1MDAzNzkxMjkyMDA5MCU3Q0RhcmlvJTIwaXMlMjBoeXBpbmclMjB0aGUlMjBkYW5nZXJzJTIwc28lMjBPU1MlMjBtb2RlbHMlMjBhcmUlMjBpbGxlZ2FsJTIwYW5kJTIwKmhlKiUyMHN0YXlzJTIwaW4lMjBjb250cm9sJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MTUzMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAxNyUzQTA3JTNBMjYlMjAlMkIwMDAw",
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "pubDate": "Mon, 23 Nov 2026 17:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZWFzeXBvc3QuY29tJTJGY2FyZWVycyUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVhc3lwb3N0LmNvbSUyRmNhcmVlcnMlMkYlN0NFYXN5UG9zdCUyMChZQyUyMFMxMyklMjBJcyUyMEhpcmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjE1MTYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMTclM0EwMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "EasyPost (YC S13) Is Hiring",
+      "pubDate": "Mon, 23 Nov 2026 17:00:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsYWR5YmlyZC5vcmclMkZwb3N0cyUyRmFscGhhJTJGJTdDaHR0cHMlM0ElMkYlMkZsYWR5YmlyZC5vcmclMkZwb3N0cyUyRmFscGhhJTJGJTdDTGFkeWJpcmQlMjBpcyUyMG5vdyUyMGluJTIwYWxwaGElN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxNDI0OSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDE2JTNBMTMlM0ExMiUyMCUyQjAwMDA",
+      "title": "Ladybird is now in alpha",
+      "pubDate": "Mon, 23 Nov 2026 16:13:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVkZGl0LmNvbSUyRnIlMkZHYW1pbmdMZWFrc0FuZFJ1bW91cnMlMkZjb21tZW50cyUyRjF5M2p6cWUlMkZjeWJlcmxlZWtfcG9zdGVkX3RoZV9ndGFfNl94Ym94X2J1aWxkX2V4ZWN1dGFibGUlMkYlN0NodHRwcyUzQSUyRiUyRnd3dy5yZWRkaXQuY29tJTJGciUyRkdhbWluZ0xlYWtzQW5kUnVtb3VycyUyRmNvbW1lbnRzJTJGMXkzanpxZSUyRmN5YmVybGVla19wb3N0ZWRfdGhlX2d0YV82X3hib3hfYnVpbGRfZXhlY3V0YWJsZSUyRiU3Q0N5YmVybGVlayUyMHBvc3RlZCUyMHRoZSUyMEdUQSUyMDYlMjBYYm94JTIwYnVpbGQlMjBleGVjdXRhYmxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MTI2ODYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAxNCUzQTQ5JTNBNDQlMjAlMkIwMDAw",
+      "title": "Cyberleek posted the GTA 6 Xbox build executable",
+      "pubDate": "Mon, 23 Nov 2026 14:49:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZib2xhbmQuZGV2JTJGc25ldCUyRiU3Q2h0dHBzJTNBJTJGJTJGYm9sYW5kLmRldiUyRnNuZXQlMkYlN0NCdWlsZGluZyUyMGElMjB3aXJlbGVzcyUyMG5ldHdvcmslMjBhZGFwdGVyJTIwZm9yJTIwdGhlJTIwU3VwZXIlMjBOaW50ZW5kbyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjExODYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMTQlM0ExNiUzQTM3JTIwJTJCMDAwMA",
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "pubDate": "Mon, 23 Nov 2026 14:16:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY25iYy5jb20lMkYyMDI2JTJGMTElMkYyMyUyRm52aWRpYS1qZW5zZW4taHVhbmctY2VvLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5jbmJjLmNvbSUyRjIwMjYlMkYxMSUyRjIzJTJGbnZpZGlhLWplbnNlbi1odWFuZy1jZW8uaHRtbCU3Q052aWRpYSUyMFJlaW5zdGF0ZXMlMjBKZW5zZW4lMjBIdWFuZyUyMGFzJTIwQ0VPJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MTE1NzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAxNCUzQTAwJTNBMTglMjAlMkIwMDAw",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "pubDate": "Mon, 23 Nov 2026 14:00:18 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZodWdnaW5nZmFjZS5jbyUyRm5hcmktbGFicyUyRlF3ZW4zLjgtMjdCLU5hcmlRLUdHVUYlN0NodHRwcyUzQSUyRiUyRmh1Z2dpbmdmYWNlLmNvJTJGbmFyaS1sYWJzJTJGUXdlbjMuOC0yN0ItTmFyaVEtR0dVRiU3Q05hcmlRJTNBJTIwQkYxNi1sZXZlbCUyMFF3ZW4zLjgtMjdCJTIwaW4lMjBhJTIwMTAlMjBHQiUyMGZpbGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxMTQwMiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDEzJTNBNDIlM0EzOCUyMCUyQjAwMDA",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "pubDate": "Mon, 23 Nov 2026 13:42:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWlrdXRhMDQwNyUyRndpbjR3aW5lJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbWlrdXRhMDQwNyUyRndpbjR3aW5lJTdDV2luNHdpbmUlMjAlRTIlODAlOTMlMjBSdW4lMjBXaW5kb3dzJTIwU2hlbGwlMjBhcyUyMHRoZSUyMExpbnV4JTIwRGVza3RvcCUyMG9uJTIwV2luZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjEwNzQzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMTIlM0EyOCUzQTExJTIwJTJCMDAwMA",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "pubDate": "Mon, 23 Nov 2026 12:28:11 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9ncy5nZW50b28ub3JnJTJGbWdvcm55JTJGMjAyNiUyRjEwJTJGMjclMkZ0aGUtbmV4dC1jaXJjbGUtb2Ytc2VjdXJpdHktaGVsbCUyRiU3Q2h0dHBzJTNBJTJGJTJGYmxvZ3MuZ2VudG9vLm9yZyUyRm1nb3JueSUyRjIwMjYlMkYxMCUyRjI3JTJGdGhlLW5leHQtY2lyY2xlLW9mLXNlY3VyaXR5LWhlbGwlMkYlN0NUaGUlMjBuZXh0JTIwY2lyY2xlJTIwb2YlMjBzZWN1cml0eSUyMGhlbGwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxMDMzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDExJTNBMzQlM0ExNiUyMCUyQjAwMDA",
+      "title": "The next circle of security hell",
+      "pubDate": "Mon, 23 Nov 2026 11:34:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3M2JTJGbm9zcGVha2VyJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3M2JTJGbm9zcGVha2VyJTdDTm9zcGVha2VyJTIwJUUyJTk0JTgwJTIwTWFrZSUyMHlvdXIlMjBNYWNCb29rJ3MlMjB0cmFja3BhZCUyMHRhbGslMjB1c2luZyUyMGl0cyUyMGhhcHRpYyUyMG1vdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MTAzMTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAxMSUzQTMxJTNBNTQlMjAlMkIwMDAw",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "pubDate": "Mon, 23 Nov 2026 11:31:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6LmFpJTJGYmxvZyUyRmdsbS01LjQlN0NodHRwcyUzQSUyRiUyRnouYWklMkZibG9nJTJGZ2xtLTUuNCU3Q0dMTS01LjQlM0ElMjBUb3dhcmQlMjBnZW5lcmFsaXplZCUyMGNvZGluZyUyMHdpdGglMjBvdXIlMjBmaXJzdCUyMGxvb3AlMjB0cmFuc2Zvcm1lciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjA5Njg1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMTAlM0EwNiUzQTQzJTIwJTJCMDAwMA",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "pubDate": "Mon, 23 Nov 2026 10:06:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqb2xhLmRldiUyRnBvc3RzJTJGeW91LWNhbnQtYWZmb3JkLXNzaC1rZXlzLWRpc2slN0NodHRwcyUzQSUyRiUyRmpvbGEuZGV2JTJGcG9zdHMlMkZ5b3UtY2FudC1hZmZvcmQtc3NoLWtleXMtZGlzayU3Q0Rvbid0JTIwa2VlcCUyMHlvdXIlMjBTU0glMjBrZXlzJTIwb24lMjBkaXNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDk1NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAwOSUzQTU1JTNBMzglMjAlMkIwMDAw",
+      "title": "Don't keep your SSH keys on disk",
+      "pubDate": "Mon, 23 Nov 2026 09:55:38 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
     }
   ]

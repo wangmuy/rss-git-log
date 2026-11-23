@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-22",
     "newestItemDate": "2026-11-22",
-    "itemCount": 33,
-    "generatedAt": "2026-11-23T07:52:59.650Z"
+    "itemCount": 35,
+    "generatedAt": "2026-11-23T20:20:07.881Z"
   },
   "items": [
     {
@@ -204,6 +204,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqb2huY2FybG9zYmFlei53b3JkcHJlc3MuY29tJTJGMjAyNiUyRjExJTJGMjIlMkZtYXN1bGxvLW9uLXRoZS1yaWVtYW5uLWh5cG90aGVzaXMlMkYlN0NodHRwcyUzQSUyRiUyRmpvaG5jYXJsb3NiYWV6LndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTElMkYyMiUyRm1hc3VsbG8tb24tdGhlLXJpZW1hbm4taHlwb3RoZXNpcyUyRiU3Q01hc3VsbG8lMjBvbiUyMHRoZSUyMFJpZW1hbm4lMjBIeXBvdGhlc2lzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1OTg0NDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxMCUzQTU5JTNBNTYlMjAlMkIwMDAw",
       "title": "Masullo on the Riemann Hypothesis",
       "pubDate": "Sun, 22 Nov 2026 10:59:56 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbHZpbmJ1bmsud29yZHByZXNzLmNvbSUyRjIwMjYlMkYxMSUyRjAxJTJGbmVzcHJlc3NvLXByb2plY3Qtb2x5bXB1cyUyRiU3Q2h0dHBzJTNBJTJGJTJGYWx2aW5idW5rLndvcmRwcmVzcy5jb20lMkYyMDI2JTJGMTElMkYwMSUyRm5lc3ByZXNzby1wcm9qZWN0LW9seW1wdXMlMkYlN0NOZXNwcmVzc28ncyUyMHByb2plY3QlMjB0byUyMHJlZHVjZSUyMGdyYW1zJTIwb2YlMjBjb2ZmZWUlMjBwZXIlMjBjYXBzdWxlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDU0NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMyUzQTU3JTNBNDUlMjAlMkIwMDAw",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRmJsb2cuc2lnZnBlLmNvbSUyRjIwMjYlMkYxMSUyRmRlcml2YXRpdmUtZmxpcHBpbmcuaHRtbCU3Q2h0dHAlM0ElMkYlMkZibG9nLnNpZ2ZwZS5jb20lMkYyMDI2JTJGMTElMkZkZXJpdmF0aXZlLWZsaXBwaW5nLmh0bWwlN0NEZXJpdmF0aXZlJTIwRmxpcHBpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5NDkzNSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1N1biUyQyUyMDIyJTIwTm92JTIwMjAyNiUyMDAwJTNBMTMlM0ExNyUyMCUyQjAwMDA",
+      "title": "Derivative Flipping",
+      "pubDate": "Sun, 22 Nov 2026 00:13:17 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
     }
   ]
