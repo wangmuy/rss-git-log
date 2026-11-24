@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-21",
     "newestItemDate": "2026-11-21",
-    "itemCount": 30,
-    "generatedAt": "2026-11-23T20:20:07.881Z"
+    "itemCount": 32,
+    "generatedAt": "2026-11-24T10:04:24.185Z"
   },
   "items": [
     {
@@ -186,6 +186,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxlZmYtZ2l0aHViJTJGb25pb24tcm91dGluZy1hbmF0b215JTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxlZmYtZ2l0aHViJTJGb25pb24tcm91dGluZy1hbmF0b215JTdDQW5hdG9taWElMjBEaSUyMFRvciUyMCVFMiU4MCU5MyUyMFRoZSUyMFRvciUyMFByb3RvY29sJTJDJTIwQnl0ZSUyMGJ5JTIwQnl0ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTg0MzI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMDAlM0EyMCUzQTM3JTIwJTJCMDAwMA",
       "title": "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
       "pubDate": "Sat, 21 Nov 2026 00:20:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzcWxyaWRlLmNvbSUyRiU3Q2h0dHBzJTNBJTJGJTJGc3FscmlkZS5jb20lMkYlN0NSaWRlJTIwdGhlJTIwU1FMJTIwY3VydmUlMjBmcm9tJTIwYmFzaWNzJTIwdG8lMjBtYXN0ZXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1OTMwMDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyMSUyME5vdiUyMDIwMjYlMjAxOSUzQTU2JTNBMzYlMjAlMkIwMDAw",
+      "title": "Ride the SQL curve from basics to mastery",
+      "pubDate": "Sat, 21 Nov 2026 19:56:36 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRmNvbmZlcmVuY2UlMkZvc2RpMjYlMkZwcmVzZW50YXRpb24lMkZuaSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnVzZW5peC5vcmclMkZjb25mZXJlbmNlJTJGb3NkaTI2JTJGcHJlc2VudGF0aW9uJTJGbmklN0NBcmN0aWMlM0ElMjBBJTIwUHJhY3RpY2FsJTIwTG9jay1GcmVlJTIwQWRhcHRpdmUlMjBSYWRpeCUyMFRyZWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5MjMwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDE4JTNBNDklM0E0NSUyMCUyQjAwMDA",
+      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+      "pubDate": "Sat, 21 Nov 2026 18:49:45 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
     }
   ]

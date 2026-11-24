@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-23",
     "newestItemDate": "2026-11-23",
-    "itemCount": 24,
-    "generatedAt": "2026-11-23T20:20:07.880Z"
+    "itemCount": 35,
+    "generatedAt": "2026-11-24T10:04:24.185Z"
   },
   "items": [
     {
@@ -150,6 +150,72 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZqb2xhLmRldiUyRnBvc3RzJTJGeW91LWNhbnQtYWZmb3JkLXNzaC1rZXlzLWRpc2slN0NodHRwcyUzQSUyRiUyRmpvbGEuZGV2JTJGcG9zdHMlMkZ5b3UtY2FudC1hZmZvcmQtc3NoLWtleXMtZGlzayU3Q0Rvbid0JTIwa2VlcCUyMHlvdXIlMjBTU0glMjBrZXlzJTIwb24lMjBkaXNrJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDk1NzklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAwOSUzQTU1JTNBMzglMjAlMkIwMDAw",
       "title": "Don't keep your SSH keys on disk",
       "pubDate": "Mon, 23 Nov 2026 09:55:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc2NpZW5jZS1uYXR1cmUlMkZ0aGUtc2VhcmNoLWZvci1hLXRvcC1kYXJrLW1hdHRlci1jYW5kaWRhdGUtd2FzLWxvc2luZy1ob3BlLXRoZW4tY2FtZS1hLXBvdGVudGlhbC1zaWduYWwtd2lsbC1pdC1iZS1lbm91Z2gtdG8tZW5lcmdpemUtdGhlLXN0cnVnZ2xpbmctZmllbGQtMTgwOTg5OTIzJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuc21pdGhzb25pYW5tYWcuY29tJTJGc2NpZW5jZS1uYXR1cmUlMkZ0aGUtc2VhcmNoLWZvci1hLXRvcC1kYXJrLW1hdHRlci1jYW5kaWRhdGUtd2FzLWxvc2luZy1ob3BlLXRoZW4tY2FtZS1hLXBvdGVudGlhbC1zaWduYWwtd2lsbC1pdC1iZS1lbm91Z2gtdG8tZW5lcmdpemUtdGhlLXN0cnVnZ2xpbmctZmllbGQtMTgwOTg5OTIzJTJGJTdDVGhlJTIwc2VhcmNoJTIwZm9yJTIwYSUyMHRvcCUyMGRhcmslMjBtYXR0ZXIlMjBjYW5kaWRhdGUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYyMDgzMSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDIzJTNBMTIlM0E0MCUyMCUyQjAwMDA",
+      "title": "The search for a top dark matter candidate",
+      "pubDate": "Mon, 23 Nov 2026 23:12:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aWt0b3JrcmFwaXZpbi5jb20lMkZibG9nJTJGbmFubzVnLXByaXYtcHJ2ZCU3Q2h0dHBzJTNBJTJGJTJGdmlrdG9ya3JhcGl2aW4uY29tJTJGYmxvZyUyRm5hbm81Zy1wcml2LXBydmQlN0NGcmVlaW5nJTIwdGhlJTIwaVBvZCUyME5hbm8lMjA1RyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjIwNzIxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMjMlM0EwMyUzQTEzJTIwJTJCMDAwMA",
+      "title": "Freeing the iPod Nano 5G",
+      "pubDate": "Mon, 23 Nov 2026 23:03:13 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzdGFsdy5hcnQlMkZibG9nJTJGbWljcm9zb2Z0LWV4Y2hhbmdlLXJlcGxhY2VtZW50JTJGJTdDaHR0cHMlM0ElMkYlMkZzdGFsdy5hcnQlMkZibG9nJTJGbWljcm9zb2Z0LWV4Y2hhbmdlLXJlcGxhY2VtZW50JTJGJTdDU3RhbHdhcnQlMjBpcyUyMG5vdyUyMGElMjBkcm9wLWluJTIwcmVwbGFjZW1lbnQlMjBmb3IlMjBNaWNyb3NvZnQlMjBFeGNoYW5nZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjIwMzQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMjIlM0EzMiUzQTI5JTIwJTJCMDAwMA",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "pubDate": "Mon, 23 Nov 2026 22:32:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAyLjIwMDMxJTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjAyLjIwMDMxJTdDTGF0ZW50JTIwSW50cm9zcGVjdGlvbiUzQSUyMExMTXMlMjBDYW4lMjBEZXRlY3QlMjBQcmlvciUyMENvbmNlcHQlMjBJbmplY3Rpb25zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MjAzMjglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAyMiUzQTI5JTNBNDglMjAlMkIwMDAw",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "pubDate": "Mon, 23 Nov 2026 22:29:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYm9yZWQuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cuYm9yZWQuY29tJTJGJTdDQm9yZWQuY29tJTNBJTIwRnVuJTJDJTIwaW50ZXJlc3RpbmclMjBhbmQlMjBjb29sJTIwd2Vic2l0ZXMlMjB0byUyMGV4cGxvcmUlMjB3aGVuJTIwYm9yZWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxOTIwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDIxJTNBMDElM0ExNiUyMCUyQjAwMDA",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "pubDate": "Mon, 23 Nov 2026 21:01:16 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVkLWluZHVzdHJpZXMlMkZncHVpJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGemVkLWluZHVzdHJpZXMlMkZncHVpJTdDR1BVSSUyMGlzJTIwZ2V0dGluZyUyMGl0cyUyMG93biUyMHJlcG9zaXRvcnklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxOTEwMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDIwJTNBNTIlM0E1NCUyMCUyQjAwMDA",
+      "title": "GPUI is getting its own repository",
+      "pubDate": "Mon, 23 Nov 2026 20:52:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcm0uam9ucGFsbWlzYy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRmFybS5qb25wYWxtaXNjLmNvbSUyRiU3Q1BlciUyMEFybSdzJTIwcmVxdWVzdCUyQyUyMHRoaXMlMjBzaXRlJTIwd2lsbCUyMGJlJTIwZGlzY29udGludWVkJTIwb24lMjA0JTIwRGVjZW1iZXIlMjAyMDI2JTIwJTNBKCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjE3NDk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMTklM0ExNyUzQTU1JTIwJTJCMDAwMA",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRnlsZWN1biUyRnN0YXR1cyUyRjIxMjQ1NTAwMzc5MTI5MjAwOTAlN0NodHRwcyUzQSUyRiUyRnR3aXR0ZXIuY29tJTJGeWxlY3VuJTJGc3RhdHVzJTJGMjEyNDU1MDAzNzkxMjkyMDA5MCU3QyUyMkRhcmlvJTIwaXMlMjBoeXBpbmclMjB0aGUlMjBkYW5nZXJzJTIwc28lMjBPU1MlMjBtb2RlbHMlMjBhcmUlMjBpbGxlZ2FsJTIwYW5kJTIwaGUlMjBzdGF5cyUyMGluJTIwY29udHJvbCUyMiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjE1MzA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMTclM0EwNyUzQTI2JTIwJTJCMDAwMA",
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "pubDate": "Mon, 23 Nov 2026 17:07:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzb3VyY2Uud2FzaHUuZWR1JTJGMjAyNiUyRjExJTJGYnJlYWt0aHJvdWdoLW1hdGVyaWFsLWdldHMtc3Ryb25nZXItdGhlLW1vcmUtaXQtYmVuZHMlMkYlN0NodHRwcyUzQSUyRiUyRnNvdXJjZS53YXNodS5lZHUlMkYyMDI2JTJGMTElMkZicmVha3Rocm91Z2gtbWF0ZXJpYWwtZ2V0cy1zdHJvbmdlci10aGUtbW9yZS1pdC1iZW5kcyUyRiU3Q05ldyUyMG1hdGVyaWFsJTIwZ2V0cyUyMHN0cm9uZ2VyJTIwdGhlJTIwbW9yZSUyMGl0JTIwYmVuZHMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYxMDE3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDExJTNBMTIlM0EzMyUyMCUyQjAwMDA",
+      "title": "New material gets stronger the more it bends",
+      "pubDate": "Mon, 23 Nov 2026 11:12:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNqbS5jb20lMkZibG9nJTJGbG93ZXJpbmctcGVycGxleGl0eS13aXRob3V0LXNjYWxpbmclMkYlN0NodHRwcyUzQSUyRiUyRm1pY2ptLmNvbSUyRmJsb2clMkZsb3dlcmluZy1wZXJwbGV4aXR5LXdpdGhvdXQtc2NhbGluZyUyRiU3Q0xvd2VyaW5nJTIwUGVycGxleGl0eSUyMFdpdGhvdXQlMjBTY2FsaW5nJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDc1MTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAwNCUzQTMzJTNBNTAlMjAlMkIwMDAw",
+      "title": "Lowering Perplexity Without Scaling",
+      "pubDate": "Mon, 23 Nov 2026 04:33:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhdXRvdHJhbnNsdWNlbmNlLndvcmRwcmVzcy5jb20lMkYyMDE4JTJGMDMlMkYzMCUyRmJlY29taW5nLWEtbWFnaWNpYW4lMkYlN0NodHRwcyUzQSUyRiUyRmF1dG90cmFuc2x1Y2VuY2Uud29yZHByZXNzLmNvbSUyRjIwMTglMkYwMyUyRjMwJTJGYmVjb21pbmctYS1tYWdpY2lhbiUyRiU3Q0JlY29taW5nJTIwYSUyME1hZ2ljaWFuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDY2MTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NNb24lMkMlMjAyMyUyME5vdiUyMDIwMjYlMjAwMiUzQTA0JTNBMjUlMjAlMkIwMDAw",
+      "title": "Becoming a Magician",
+      "pubDate": "Mon, 23 Nov 2026 02:04:25 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
     }
   ]
