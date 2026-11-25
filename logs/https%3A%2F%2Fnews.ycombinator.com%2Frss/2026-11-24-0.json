@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-24",
     "newestItemDate": "2026-11-24",
-    "itemCount": 29,
-    "generatedAt": "2026-11-25T00:52:35.828Z"
+    "itemCount": 35,
+    "generatedAt": "2026-11-25T18:41:58.768Z"
   },
   "items": [
     {
@@ -180,6 +180,42 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmemFrYXJpYS5jb20lMkYyMDI2JTJGMTElMkYyMyUyRjIwMzUtY2FtZS1lYXJseSU3Q2h0dHBzJTNBJTJGJTJGZnpha2FyaWEuY29tJTJGMjAyNiUyRjExJTJGMjMlMkYyMDM1LWNhbWUtZWFybHklN0MyMDM1JTIwY2FtZSUyMGVhcmx5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MjQ0OTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNCUyME5vdiUyMDIwMjYlMjAwNiUzQTMwJTNBMzMlMjAlMkIwMDAw",
       "title": "2035 came early",
       "pubDate": "Tue, 24 Nov 2026 06:30:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbmdyYW0uY29tJTJGYmxvZyUyRmxvcmEtc2l6ZSU3Q2h0dHBzJTNBJTJGJTJGZW5ncmFtLmNvbSUyRmJsb2clMkZsb3JhLXNpemUlN0NQcmVkaWN0aW5nJTIwTG9SQSUyMHNpemUlMjBmb3IlMjBhbnklMjBkYXRhc2V0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MzU3ODMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNCUyME5vdiUyMDIwMjYlMjAyMiUzQTM0JTNBMjklMjAlMkIwMDAw",
+      "title": "Predicting LoRA size for any dataset",
+      "pubDate": "Tue, 24 Nov 2026 22:34:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWthbWFpLmNvbSUyRmJsb2clMkZzZWN1cml0eSUyRjIwMjYlMkZub3YlMkYxNjE1LW5ldy10bGRzLWRucy1yZWFkeS1mb3ItYmlnZ2VyLW5hbWVzcGFjZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmFrYW1haS5jb20lMkZibG9nJTJGc2VjdXJpdHklMkYyMDI2JTJGbm92JTJGMTYxNS1uZXctdGxkcy1kbnMtcmVhZHktZm9yLWJpZ2dlci1uYW1lc3BhY2UlN0NJcyUyMHlvdXIlMjBETlMlMjByZWFkeSUyMGZvciUyMGElMjBiaWdnZXIlMjBuYW1lc3BhY2UlM0YlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYyODUxNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1R1ZSUyQyUyMDI0JTIwTm92JTIwMjAyNiUyMDE0JTNBMTQlM0E0NyUyMCUyQjAwMDA",
+      "title": "Is your DNS ready for a bigger namespace?",
+      "pubDate": "Tue, 24 Nov 2026 14:14:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhbnRjYXRpbmcuZ2l0aHViLmlvJTJGMjAyNiUyRjExJTJGMjMlMkZnZXR0aW5nLW9sZC1qYXZhLXBob25lcy1vbmxpbmUtYWdhaW4uaHRtbCU3Q2h0dHBzJTNBJTJGJTJGYW50Y2F0aW5nLmdpdGh1Yi5pbyUyRjIwMjYlMkYxMSUyRjIzJTJGZ2V0dGluZy1vbGQtamF2YS1waG9uZXMtb25saW5lLWFnYWluLmh0bWwlN0NHZXR0aW5nJTIwb2xkJTIwSmF2YSUyMHBob25lcyUyMG9ubGluZSUyMGFnYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2Mjc3MjYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNCUyME5vdiUyMDIwMjYlMjAxMyUzQTE0JTNBMzclMjAlMkIwMDAw",
+      "title": "Getting old Java phones online again",
+      "pubDate": "Tue, 24 Nov 2026 13:14:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyaWJib25hcmNoaXRlY3QuY29tJTdDaHR0cHMlM0ElMkYlMkZyaWJib25hcmNoaXRlY3QuY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwUmliYm9uJTIwQXJjaGl0ZWN0JTIwJUUyJTgwJTkzJTIwRW5kbGVzcyUyMHdheXMlMjB0byUyMHRpZSUyMGElMjBnaWZ0JTIwcmliYm9uJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2Mjc2MjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNCUyME5vdiUyMDIwMjYlMjAxMyUzQTA2JTNBMTclMjAlMkIwMDAw",
+      "title": "Show HN: Ribbon Architect – Endless ways to tie a gift ribbon",
+      "pubDate": "Tue, 24 Nov 2026 13:06:17 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucmVwdWJibGljYS5pdCUyRmVuJTJGZXVyb3BlJTJGZm9vZC10cmF2ZWwlMkYyMDI2JTJGMTElMkYyNCUyRm5ld3MlMkZjYXJsb19jb2xsb2RpX3Bpbm9jY2hpb19wZWxsZWdyaW5vX2FydHVzaV9pdGFsaWFuX2xpdGVyYXR1cmUtNDI1NzQ0MDY5JTJGJTdDaHR0cHMlM0ElMkYlMkZ3d3cucmVwdWJibGljYS5pdCUyRmVuJTJGZXVyb3BlJTJGZm9vZC10cmF2ZWwlMkYyMDI2JTJGMTElMkYyNCUyRm5ld3MlMkZjYXJsb19jb2xsb2RpX3Bpbm9jY2hpb19wZWxsZWdyaW5vX2FydHVzaV9pdGFsaWFuX2xpdGVyYXR1cmUtNDI1NzQ0MDY5JTJGJTdDUGlub2NjaGlvJTIwYXQlMjAyMDAlM0ElMjBhJTIwdGFsZSUyMG9mJTIwaHVuZ2VyJTJDJTIwZ3JlZWQlMjBhbmQlMjBJdGFseSdzJTIwY3VsaW5hcnklMjBoaXN0b3J5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MjU2NTQlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNCUyME5vdiUyMDIwMjYlMjAwOSUzQTA2JTNBNDclMjAlMkIwMDAw",
+      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
+      "pubDate": "Tue, 24 Nov 2026 09:06:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-24-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYXlkLm1sJTJGMjAyNiUyRjExJTJGMTQlMkZyb2NrYm94LW9uLXlwMy5odG1sJTdDaHR0cHMlM0ElMkYlMkZqYXlkLm1sJTJGMjAyNiUyRjExJTJGMTQlMkZyb2NrYm94LW9uLXlwMy5odG1sJTdDUG9ydGluZyUyMFJvY2tib3glMjB0byUyMGFuJTIwVW5kb2N1bWVudGVkJTIwJTI0OSUyMEFsaWV4cHJlc3MlMjAnWVAzJyUyME1QMyUyMFBsYXllciUyMHdpdGglMjBMTE1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MjQ0NDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUdWUlMkMlMjAyNCUyME5vdiUyMDIwMjYlMjAwNiUzQTIyJTNBMzYlMjAlMkIwMDAw",
+      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "pubDate": "Tue, 24 Nov 2026 06:22:36 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-24-0.json"
     }
   ]
