@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-21",
     "newestItemDate": "2026-11-21",
-    "itemCount": 32,
-    "generatedAt": "2026-11-24T10:04:24.185Z"
+    "itemCount": 33,
+    "generatedAt": "2026-11-25T00:52:35.828Z"
   },
   "items": [
     {
@@ -198,6 +198,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudXNlbml4Lm9yZyUyRmNvbmZlcmVuY2UlMkZvc2RpMjYlMkZwcmVzZW50YXRpb24lMkZuaSU3Q2h0dHBzJTNBJTJGJTJGd3d3LnVzZW5peC5vcmclMkZjb25mZXJlbmNlJTJGb3NkaTI2JTJGcHJlc2VudGF0aW9uJTJGbmklN0NBcmN0aWMlM0ElMjBBJTIwUHJhY3RpY2FsJTIwTG9jay1GcmVlJTIwQWRhcHRpdmUlMjBSYWRpeCUyMFRyZWUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU5MjMwNyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDE4JTNBNDklM0E0NSUyMCUyQjAwMDA",
       "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
       "pubDate": "Sat, 21 Nov 2026 18:49:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUFFDcnlwdGElMkZwcWNyeXB0YS1wcm94eSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlBRQ3J5cHRhJTJGcHFjcnlwdGEtcHJveHklN0NTaG93JTIwSE4lM0ElMjBQUUNyeXB0YSUyMFByb3h5JTNBJTIwUnVzdCUyMHByb3h5JTIwd2l0aCUyMEhUVFAlMkYzJTJDJTIwUVVJQyUyQyUyMGh5YnJpZCUyMHBvc3QtcXVhbnR1bSUyMFRMUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTkxMDI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMTYlM0E0NiUzQTQzJTIwJTJCMDAwMA",
+      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+      "pubDate": "Sat, 21 Nov 2026 16:46:43 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
     }
   ]

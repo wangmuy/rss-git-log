@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-22",
     "newestItemDate": "2026-11-22",
-    "itemCount": 38,
-    "generatedAt": "2026-11-24T10:04:24.185Z"
+    "itemCount": 42,
+    "generatedAt": "2026-11-25T00:52:35.828Z"
   },
   "items": [
     {
@@ -234,6 +234,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZoZXJic3V0dGVyLmNvbSUyRjIwMjYlMkYxMSUyRjIxJTJGYzI2LWlzLWRvbmUtYWdhaW4tdHJpcC1yZXBvcnQtbm92ZW1iZXItMjAyNi1pc28tYy1zdGFuZGFyZHMtbWVldGluZy1idXppb3MtYnJhemlsJTJGJTdDaHR0cHMlM0ElMkYlMkZoZXJic3V0dGVyLmNvbSUyRjIwMjYlMkYxMSUyRjIxJTJGYzI2LWlzLWRvbmUtYWdhaW4tdHJpcC1yZXBvcnQtbm92ZW1iZXItMjAyNi1pc28tYy1zdGFuZGFyZHMtbWVldGluZy1idXppb3MtYnJhemlsJTJGJTdDQyUyQiUyQjI2JTIwaXMlMjBkb25lJTIwKGFnYWluKSUzQSUyMElTTyUyMEMlMkIlMkIlMjBtZWV0aW5nJTIwdHJpcCUyMHJlcG9ydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjAwODM4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTUlM0E1OSUzQTU5JTIwJTJCMDAwMA",
       "title": "C++26 is done (again): ISO C++ meeting trip report",
       "pubDate": "Sun, 22 Nov 2026 15:59:59 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cua2F0ZWx5bmxlc3NlLmNvbSUyRmJsb2clMkZuZXctcHJvYmxlbXMtZm9yLWVuZ2luZWVycy10by1zb2x2ZSU3Q2h0dHBzJTNBJTJGJTJGd3d3LmthdGVseW5sZXNzZS5jb20lMkZibG9nJTJGbmV3LXByb2JsZW1zLWZvci1lbmdpbmVlcnMtdG8tc29sdmUlN0NUaGUlMjBuZXclMjBzZXQlMjBvZiUyMHByb2JsZW1zJTIwZm9yJTIwZW5naW5lZXJzJTIwdG8lMjBzb2x2ZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjA1MzYxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMjMlM0E0MiUzQTUzJTIwJTJCMDAwMA",
+      "title": "The new set of problems for engineers to solve",
+      "pubDate": "Sun, 22 Nov 2026 23:42:53 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZsaWZlJTJGMjAyNiUyRjExJTJGY2VudG8tc2FuLW1hcnphbm8tdG9tYXRvLXNhdWNlLXJlY2lwZXMtbGF3c3VpdC5odG1sJTdDaHR0cHMlM0ElMkYlMkZzbGF0ZS5jb20lMkZsaWZlJTJGMjAyNiUyRjExJTJGY2VudG8tc2FuLW1hcnphbm8tdG9tYXRvLXNhdWNlLXJlY2lwZXMtbGF3c3VpdC5odG1sJTdDQ2VudG8lMjBmaW5lJTIwZm9vZHMlMjBoYXMlMjBiZWVuJTIwc3VlZCUyMGZvciUyMCVFMiU4MCU5Q3RvbWF0byUyMGZyYXVkJUUyJTgwJTlEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDQzNTUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAyMSUzQTU5JTNBMDklMjAlMkIwMDAw",
+      "title": "Cento fine foods has been sued for “tomato fraud”",
+      "pubDate": "Sun, 22 Nov 2026 21:59:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYXJ0aW5jbWFydGluLmdpdGh1Yi5pbyUyRnNsaWRldi1zdGVtJTJGd2F0Y2hlcyUyRmFydGljbGUlMkYxJTJGJTdDaHR0cHMlM0ElMkYlMkZtYXJ0aW5jbWFydGluLmdpdGh1Yi5pbyUyRnNsaWRldi1zdGVtJTJGd2F0Y2hlcyUyRmFydGljbGUlMkYxJTJGJTdDSG93JTIwYSUyME1lY2hhbmljYWwlMjBXYXRjaCUyMEtlZXBzJTIwVGltZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTk5NDU4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTMlM0EyMSUzQTI1JTIwJTJCMDAwMA",
+      "title": "How a Mechanical Watch Keeps Time",
+      "pubDate": "Sun, 22 Nov 2026 13:21:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtZWNoYW5pY2FsLXBlbmNpbC5jb20lMkZwcm9kdWN0cyUyRnNwcmF5LWJvdHRsZSU3Q2h0dHBzJTNBJTJGJTJGbWVjaGFuaWNhbC1wZW5jaWwuY29tJTJGcHJvZHVjdHMlMkZzcHJheS1ib3R0bGUlN0NUaGUlMjBTcHJheSUyMEJvdHRsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTk4NTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTElM0ExNiUzQTMwJTIwJTJCMDAwMA",
+      "title": "The Spray Bottle",
+      "pubDate": "Sun, 22 Nov 2026 11:16:30 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
     }
   ]
