@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-25",
     "newestItemDate": "2026-11-25",
-    "itemCount": 21,
-    "generatedAt": "2026-11-25T18:41:58.768Z"
+    "itemCount": 30,
+    "generatedAt": "2026-11-26T08:35:50.074Z"
   },
   "items": [
     {
@@ -132,6 +132,60 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGbWF0aCUyRmJsb2IlMkZtYWluJTJGcHJlcHJpbnRzJTJGVGhlLW1hdHJpeC1tdWx0aXBsaWNhdGlvbi1leHBvbmVudC1pcy1uaW5lLWZvdXJ0aHMtTm92ZW1iZXItMjQtMjAyNiUyRnBhcGVyLnBkZiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRm1hdGglMkZibG9iJTJGbWFpbiUyRnByZXByaW50cyUyRlRoZS1tYXRyaXgtbXVsdGlwbGljYXRpb24tZXhwb25lbnQtaXMtbmluZS1mb3VydGhzLU5vdmVtYmVyLTI0LTIwMjYlMkZwYXBlci5wZGYlN0NUaGUlMjBtYXRyaXglMjBtdWx0aXBsaWNhdGlvbiUyMGV4cG9uZW50JTIwaXMlMjBuaW5lJTIwZm91cnRocyUyMCU1QnBkZiU1RCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjM3MjIwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjUlMjBOb3YlMjAyMDI2JTIwMDElM0ExOSUzQTI2JTIwJTJCMDAwMA",
       "title": "The matrix multiplication exponent is nine fourths [pdf]",
       "pubDate": "Wed, 25 Nov 2026 01:19:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYWxlc2hhLXBybyUyRmxsbS5hc20lMkZ0cmVlJTJGbWFpbiUyRjAyLWJhcmVtZXRhbC1vcyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmFsZXNoYS1wcm8lMkZsbG0uYXNtJTJGdHJlZSUyRm1haW4lMkYwMi1iYXJlbWV0YWwtb3MlN0NCYXJlJTIwTWV0YWwlMjBRd2VuJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NDgzNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNSUyME5vdiUyMDIwMjYlMjAyMiUzQTE1JTNBMzQlMjAlMkIwMDAw",
+      "title": "Bare Metal Qwen",
+      "pubDate": "Wed, 25 Nov 2026 22:15:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuaWNrdnNuZXR3b3JraW5nLmNvbSUyRmRlcGxveWluZy1hLXBheXBob25lLW9uLWEtdGlueS1wYWNpZmljLWlzbGFuZC1mb3ItZnVuLWFuZC16ZXJvLXByb2ZpdCUyRiU3Q2h0dHBzJTNBJTJGJTJGbmlja3ZzbmV0d29ya2luZy5jb20lMkZkZXBsb3lpbmctYS1wYXlwaG9uZS1vbi1hLXRpbnktcGFjaWZpYy1pc2xhbmQtZm9yLWZ1bi1hbmQtemVyby1wcm9maXQlMkYlN0NEZXBsb3lpbmclMjBhJTIwcGF5cGhvbmUlMjBvbiUyMGElMjB0aW55JTIwUGFjaWZpYyUyMElzbGFuZCUyMGZvciUyMGZ1biUyMGFuZCUyMHplcm8lMjBwcm9maXQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY0ODMyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI1JTIwTm92JTIwMjAyNiUyMDIyJTNBMTIlM0EyNSUyMCUyQjAwMDA",
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "pubDate": "Wed, 25 Nov 2026 22:12:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHNlcm5hdSUyRmdyaC1sZWFuJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGbHNlcm5hdSUyRmdyaC1sZWFuJTdDTXVjaCUyMHNob3J0ZXIlMjB2ZXJzaW9uJTIwb2YlMjBHUkglMjBMZWFuJTIwdmVyaWZpY2F0aW9uJTIwZnJvbSUyMEFudGhyb3BpYyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjQ4MDUwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjUlMjBOb3YlMjAyMDI2JTIwMjElM0E0OCUzQTEwJTIwJTJCMDAwMA",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "pubDate": "Wed, 25 Nov 2026 21:48:10 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudGhldmVyZ2UuY29tJTJGYWktYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UlMkYxMDQxMjI3JTJGdGhlLW5ldy15b3JrLXRpbWVzLXdhcm5zLXBob3RvZ3JhcGhlcnMtbm90LXRvLXVwZGF0ZS1waG90b3Nob3Atb3Zlci1haS1mZWF0dXJlcyU3Q2h0dHBzJTNBJTJGJTJGd3d3LnRoZXZlcmdlLmNvbSUyRmFpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlJTJGMTA0MTIyNyUyRnRoZS1uZXcteW9yay10aW1lcy13YXJucy1waG90b2dyYXBoZXJzLW5vdC10by11cGRhdGUtcGhvdG9zaG9wLW92ZXItYWktZmVhdHVyZXMlN0NUaGUlMjBOZXclMjBZb3JrJTIwVGltZXMlMjB3YXJucyUyMHBob3RvZ3JhcGhlcnMlMjBub3QlMjB0byUyMHVwZGF0ZSUyMFBob3Rvc2hvcCUyMG92ZXIlMjBBSSUyMGZlYXR1cmVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NDc2NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNSUyME5vdiUyMDIwMjYlMjAyMSUzQTE4JTNBMDIlMjAlMkIwMDAw",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "pubDate": "Wed, 25 Nov 2026 21:18:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub3BlbndhbGwuY29tJTJGbGlzdHMlMkZvc3Mtc2VjdXJpdHklMkYyMDI2JTJGMTElMkYyNSUyRjklN0NodHRwcyUzQSUyRiUyRnd3dy5vcGVud2FsbC5jb20lMkZsaXN0cyUyRm9zcy1zZWN1cml0eSUyRjIwMjYlMkYxMSUyRjI1JTJGOSU3Q1Nsb3clMjBVYnVudHUlMjBzZWN1cml0eSUyMHJlc3BvbnNlJTIwdGltZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY0NzE4MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI1JTIwTm92JTIwMjAyNiUyMDIwJTNBMzglM0EwMCUyMCUyQjAwMDA",
+      "title": "Slow Ubuntu security response times",
+      "pubDate": "Wed, 25 Nov 2026 20:38:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvcGVuc2VjLmluJTJGYmxvZyUyRm5mczJyb290LWN2ZS0yMDI2LTk5MzYyJTdDaHR0cHMlM0ElMkYlMkZvcGVuc2VjLmluJTJGYmxvZyUyRm5mczJyb290LWN2ZS0yMDI2LTk5MzYyJTdDTmZzMnJvb3QlM0ElMjBBJTIwMTIteWVhci1vbGQlMjBwcmUtYXV0aCUyMHJlbW90ZSUyMHJvb3QlMjBpbiUyMHRoZSUyMExpbnV4JTIwa2VybmVsJ3MlMjBORlMlMjBzZXJ2ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY0NzE2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI1JTIwTm92JTIwMjAyNiUyMDIwJTNBMzUlM0E1MCUyMCUyQjAwMDA",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "pubDate": "Wed, 25 Nov 2026 20:35:50 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY290dGFhcm9uc29uLmJsb2clMkYlM0ZwJTNEMTAzNzklN0NodHRwcyUzQSUyRiUyRnNjb3R0YWFyb25zb24uYmxvZyUyRiUzRnAlM0QxMDM3OSU3Q0hvbHklMjBzaGl0JTIwaG9seSUyMHNoaXQlMjBob2x5JTIwc2hpdCUyMGhvbHklMjBzaGl0JTNBJTIwVGhlJTIwbWFnbml0dWRlJTIwb2YlMjB3aGF0JUUyJTgwJTk5cyUyMG5vdyUyMGhhcHBlbmluZyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjQ2MTA4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjUlMjBOb3YlMjAyMDI2JTIwMTklM0ExMSUzQTI3JTIwJTJCMDAwMA",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "pubDate": "Wed, 25 Nov 2026 19:11:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGb3BlbmFpJTJGbWF0aCUyRmJsb2IlMkZtYWluJTJGcHJlcHJpbnRzJTJGU3VwZXJwb2x5bm9taWFsLWdyYXBoLWRpYW1ldGVyLW9mLXNpbXBsZS1wb2x5dG9wZXMtTm92ZW1iZXItMjQtMjAyNiUyRnBhcGVyLnBkZiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRm9wZW5haSUyRm1hdGglMkZibG9iJTJGbWFpbiUyRnByZXByaW50cyUyRlN1cGVycG9seW5vbWlhbC1ncmFwaC1kaWFtZXRlci1vZi1zaW1wbGUtcG9seXRvcGVzLU5vdmVtYmVyLTI0LTIwMjYlMkZwYXBlci5wZGYlN0NUaGUlMjBwb2x5bm9taWFsJTIwSGlyc2NoJTIwY29uamVjdHVyZSUyMGlzJTIwZmFsc2UlMjAlNUJwZGYlNUQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY0NDk4MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1dlZCUyQyUyMDI1JTIwTm92JTIwMjAyNiUyMDE3JTNBMzQlM0EzNCUyMCUyQjAwMDA",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "pubDate": "Wed, 25 Nov 2026 17:34:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmNvcmVkdW1wLmN4JTJGcCUyRmhvdy1kaWQtcGlud2hlZWwtY2FsY3VsYXRvcnMtd29yayU3Q2h0dHBzJTNBJTJGJTJGYmxvZy5jb3JlZHVtcC5jeCUyRnAlMkZob3ctZGlkLXBpbndoZWVsLWNhbGN1bGF0b3JzLXdvcmslN0NIb3clMjBkaWQlMjBwaW53aGVlbCUyMGNhbGN1bGF0b3JzJTIwd29yayUzRiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjM3NDQ4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjUlMjBOb3YlMjAyMDI2JTIwMDIlM0EwMCUzQTA4JTIwJTJCMDAwMA",
+      "title": "How did pinwheel calculators work?",
+      "pubDate": "Wed, 25 Nov 2026 02:00:08 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
     }
   ]

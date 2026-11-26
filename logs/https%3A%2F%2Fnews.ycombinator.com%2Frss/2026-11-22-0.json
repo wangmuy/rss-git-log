@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-22",
     "newestItemDate": "2026-11-22",
-    "itemCount": 42,
-    "generatedAt": "2026-11-25T00:52:35.828Z"
+    "itemCount": 44,
+    "generatedAt": "2026-11-26T08:35:50.075Z"
   },
   "items": [
     {
@@ -258,6 +258,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZtZWNoYW5pY2FsLXBlbmNpbC5jb20lMkZwcm9kdWN0cyUyRnNwcmF5LWJvdHRsZSU3Q2h0dHBzJTNBJTJGJTJGbWVjaGFuaWNhbC1wZW5jaWwuY29tJTJGcHJvZHVjdHMlMkZzcHJheS1ib3R0bGUlN0NUaGUlMjBTcHJheSUyMEJvdHRsZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTk4NTU1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU3VuJTJDJTIwMjIlMjBOb3YlMjAyMDI2JTIwMTElM0ExNiUzQTMwJTIwJTJCMDAwMA",
       "title": "The Spray Bottle",
       "pubDate": "Sun, 22 Nov 2026 11:16:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZiamluLmdpdGh1Yi5pbyUyRmdvLWNvZGVnb2xmLWJlbmNobWFyayUyRiUyM2xlYWRlcmJvYXJkJTdDaHR0cHMlM0ElMkYlMkZiamluLmdpdGh1Yi5pbyUyRmdvLWNvZGVnb2xmLWJlbmNobWFyayUyRiUyM2xlYWRlcmJvYXJkJTdDR1BULTYuMiUyMEFzdHJhJTIwaXMlMjB0aGUlMjBmaXJzdCUyMG1vZGVsJTIwdG8lMjBiZWF0JTIwR29vZ2xlcnMnJTIwY29kZSUyMGdvbGYlMjByZWNvcmRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2MDEyODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxNiUzQTQ0JTNBNDglMjAlMkIwMDAw",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "pubDate": "Sun, 22 Nov 2026 16:44:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnd2Vybi5uZXQlMkZkb2MlMkZmaWN0aW9uJTJGc2NpZW5jZS1maWN0aW9uJTJGMTk1My1kYWhsLXRoZWdyZWF0YXV0b21hdGljZ3JhbW1hdGl6YXRvci5wZGYlN0NodHRwcyUzQSUyRiUyRmd3ZXJuLm5ldCUyRmRvYyUyRmZpY3Rpb24lMkZzY2llbmNlLWZpY3Rpb24lMkYxOTUzLWRhaGwtdGhlZ3JlYXRhdXRvbWF0aWNncmFtbWF0aXphdG9yLnBkZiU3Q1RoZSUyMEdyZWF0JTIwQXV0b21hdGljJTIwR3JhbW1hdGl6YXRvciUyMChCeSUyMFJvYWxkJTIwRGFobCklMkMlMjAxOTU0JTIwJTVCcGRmJTVEJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA1OTg2MzYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTdW4lMkMlMjAyMiUyME5vdiUyMDIwMjYlMjAxMSUzQTI5JTNBNDQlMjAlMkIwMDAw",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "pubDate": "Sun, 22 Nov 2026 11:29:44 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-22-0.json"
     }
   ]

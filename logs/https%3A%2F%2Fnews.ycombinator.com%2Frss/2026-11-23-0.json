@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-23",
     "newestItemDate": "2026-11-23",
-    "itemCount": 39,
-    "generatedAt": "2026-11-25T18:41:58.769Z"
+    "itemCount": 41,
+    "generatedAt": "2026-11-26T08:35:50.074Z"
   },
   "items": [
     {
@@ -240,6 +240,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhdGlsbG95LmNvbSUyRjIwMjYlMkYxMSUyRjE2JTJGdGhlLXNob3J0LWFnZS1vZi1kcmFnb24tcmlkZXJzJTJGJTdDaHR0cHMlM0ElMkYlMkZhdGlsbG95LmNvbSUyRjIwMjYlMkYxMSUyRjE2JTJGdGhlLXNob3J0LWFnZS1vZi1kcmFnb24tcmlkZXJzJTJGJTdDVGhlJTIwc2hvcnQlMjBhZ2UlMjBvZiUyMGRyYWdvbiUyMHJpZGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjA3ODQ5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDTW9uJTJDJTIwMjMlMjBOb3YlMjAyMDI2JTIwMDUlM0EzMyUzQTM0JTIwJTJCMDAwMA",
       "title": "The short age of dragon riders",
       "pubDate": "Mon, 23 Nov 2026 05:33:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkYzZHByaW50aW5nLmNvbSUyRm5ld3MlMkZoa3VzdC1yZXNlYXJjaGVycy0zZC1wcmludC1hLXRpdGFuaXVtLWFsbG95LXRoYXQta2VlcHMtaGFyZGVuaW5nLXVuZGVyLXN0cmFpbiUyRiU3Q2h0dHBzJTNBJTJGJTJGM2RwcmludGluZy5jb20lMkZuZXdzJTJGaGt1c3QtcmVzZWFyY2hlcnMtM2QtcHJpbnQtYS10aXRhbml1bS1hbGxveS10aGF0LWtlZXBzLWhhcmRlbmluZy11bmRlci1zdHJhaW4lMkYlN0NIa3VzdCUyMDNEJTIwUHJpbnRzJTIwYSUyMFRpdGFuaXVtJTIwQWxsb3klMjBUaGF0JTIwS2VlcHMlMjBIYXJkZW5pbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYyMDk5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDIzJTNBMjUlM0EyNiUyMCUyQjAwMDA",
+      "title": "Hkust 3D Prints a Titanium Alloy That Keeps Hardening",
+      "pubDate": "Mon, 23 Nov 2026 23:25:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoY3J1bmNoLmNvbSUyRjIwMjYlMkYxMSUyRjIyJTJGY2FuLWEtdHYtYmUtdG9vLWxhcmdlLWFuLWludmVzdGlnYXRpb24lMkYlN0NodHRwcyUzQSUyRiUyRnRlY2hjcnVuY2guY29tJTJGMjAyNiUyRjExJTJGMjIlMkZjYW4tYS10di1iZS10b28tbGFyZ2UtYW4taW52ZXN0aWdhdGlvbiUyRiU3Q0NhbiUyMGElMjBUViUyMGJlJTIwdG9vJTIwbGFyZ2UlM0YlMjBBbiUyMGludmVzdGlnYXRpb24lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDYwODE3NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q01vbiUyQyUyMDIzJTIwTm92JTIwMjAyNiUyMDA2JTNBMjclM0E0NyUyMCUyQjAwMDA",
+      "title": "Can a TV be too large? An investigation",
+      "pubDate": "Mon, 23 Nov 2026 06:27:47 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-23-0.json"
     }
   ]

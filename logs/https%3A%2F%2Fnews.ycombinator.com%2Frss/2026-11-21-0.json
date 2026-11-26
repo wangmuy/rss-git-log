@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-21",
     "newestItemDate": "2026-11-21",
-    "itemCount": 33,
-    "generatedAt": "2026-11-25T00:52:35.828Z"
+    "itemCount": 34,
+    "generatedAt": "2026-11-26T08:35:50.075Z"
   },
   "items": [
     {
@@ -204,6 +204,12 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUFFDcnlwdGElMkZwcWNyeXB0YS1wcm94eSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlBRQ3J5cHRhJTJGcHFjcnlwdGEtcHJveHklN0NTaG93JTIwSE4lM0ElMjBQUUNyeXB0YSUyMFByb3h5JTNBJTIwUnVzdCUyMHByb3h5JTIwd2l0aCUyMEhUVFAlMkYzJTJDJTIwUVVJQyUyQyUyMGh5YnJpZCUyMHBvc3QtcXVhbnR1bSUyMFRMUyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNTkxMDI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjElMjBOb3YlMjAyMDI2JTIwMTYlM0E0NiUzQTQzJTIwJTJCMDAwMA",
       "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
       "pubDate": "Sat, 21 Nov 2026 16:46:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ6eWRyYS5zaCUyRmFydGljbGVzJTJGc3NoLWlzLWEtZ3VpLWZyYW1ld29yayUyRiU3Q2h0dHBzJTNBJTJGJTJGenlkcmEuc2glMkZhcnRpY2xlcyUyRnNzaC1pcy1hLWd1aS1mcmFtZXdvcmslMkYlN0NTU0glMjBpcyUyMGElMjBHVUklMjBmcmFtZXdvcmslN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDU4OTc4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDIxJTIwTm92JTIwMjAyNiUyMDE0JTNBNTIlM0E0MSUyMCUyQjAwMDA",
+      "title": "SSH is a GUI framework",
+      "pubDate": "Sat, 21 Nov 2026 14:52:41 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-21-0.json"
     }
   ]
