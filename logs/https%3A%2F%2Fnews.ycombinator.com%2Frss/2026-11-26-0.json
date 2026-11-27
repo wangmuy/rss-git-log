@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-26",
     "newestItemDate": "2026-11-26",
-    "itemCount": 8,
-    "generatedAt": "2026-11-26T08:35:50.074Z"
+    "itemCount": 33,
+    "generatedAt": "2026-11-27T00:40:16.291Z"
   },
   "items": [
     {
@@ -54,6 +54,156 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcmVzbHVuYS5vcmclMkZ1aS1zdHlsZS1ndWlkZXMlMkYlN0NodHRwcyUzQSUyRiUyRmFyZXNsdW5hLm9yZyUyRnVpLXN0eWxlLWd1aWRlcyUyRiU3Q0NvbGxlY3Rpb24lMjBvZiUyMHByZXNlcnZlZCUyMFVJJTIwc3R5bGUlMjBndWlkZXMlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY0OTgzNCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDAwJTNBNDAlM0EwMCUyMCUyQjAwMDA",
       "title": "Collection of preserved UI style guides",
       "pubDate": "Thu, 26 Nov 2026 00:40:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrZW5kZWxsLmRldiUyRmJsb2clMkZhcmt3cmFwcGVyJTJGJTdDaHR0cHMlM0ElMkYlMkZrZW5kZWxsLmRldiUyRmJsb2clMkZhcmt3cmFwcGVyJTJGJTdDTm92aXRhJTJDJTIwU3RyZWFtTGFrZSUyQyUyMGV0Yy4lMjBhcmUlMjBCeXRlRGFuY2UlMjBBcmslMjB3cmFwcGVycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjYwMjczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMjElM0E1OSUzQTE5JTIwJTJCMDAwMA",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "pubDate": "Thu, 26 Nov 2026 21:59:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZqYW5sdWthcy5ibG9nJTJGcG9zdHMlMkZhaS1zZWxmLWhvc3RpbmclN0NodHRwcyUzQSUyRiUyRmphbmx1a2FzLmJsb2clMkZwb3N0cyUyRmFpLXNlbGYtaG9zdGluZyU3Q0FJJTIwbWFkZSUyMHNlbGYtaG9zdGluZyUyMGZ1biUyMGFnYWluJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NjAxODAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAyMSUzQTQ3JTNBNDUlMjAlMkIwMDAw",
+      "title": "AI made self-hosting fun again",
+      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlbGVjdHJlay5jbyUyRjIwMjYlMkYxMSUyRjI2JTJGZGVudmVyLW1hbi1jb25lcy1lZ2dzLXdheW1vLXJvYm90YXhpcyUyRiU3Q2h0dHBzJTNBJTJGJTJGZWxlY3RyZWsuY28lMkYyMDI2JTJGMTElMkYyNiUyRmRlbnZlci1tYW4tY29uZXMtZWdncy13YXltby1yb2JvdGF4aXMlMkYlN0NEZW52ZXIlMjBtYW4lMjB0cmFwcyUyMFdheW1vJTIwcm9ib3RheGlzJTIwd2l0aCUyMGNvbmVzJTJDJTIwZWdncyUyMHRoZW0lMjBhdCUyMGxlYXN0JTIwMzAlMjB0aW1lcyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU5OTE4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMjElM0ExNiUzQTQxJTIwJTJCMDAwMA",
+      "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+      "pubDate": "Thu, 26 Nov 2026 21:16:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3b3Jrc2lucHJvZ3Jlc3MuY28lMkZpc3N1ZSUyRnRoZS1ncmVhdGVzdC1hcmNoaXRlY3QteW91dmUtbmV2ZXItaGVhcmQtb2YtaXMtaW4tcGFraXN0YW4lMkYlN0NodHRwcyUzQSUyRiUyRndvcmtzaW5wcm9ncmVzcy5jbyUyRmlzc3VlJTJGdGhlLWdyZWF0ZXN0LWFyY2hpdGVjdC15b3V2ZS1uZXZlci1oZWFyZC1vZi1pcy1pbi1wYWtpc3RhbiUyRiU3Q0thbWlsJTIwS2hhbiUyME11bXRheiUzQSUyMFBha2lzdGFuaSUyMGFyY2hpdGVjdCUyQyUyMGFkbWlyZWQlMjBhdCUyMGhvbWUlMkMlMjBhbG1vc3QlMjBpbnZpc2libGUlMjBhYnJvYWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY1OTg0MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDIxJTNBMDglM0EwNSUyMCUyQjAwMDA",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0b3BjaXRlZHNjaWVudGlzdHMuY29tJTJGZmlndXJlcyUyRmFpLWF0LWZvdXItdXMtY29tcGFuaWVzJTJGJTdDaHR0cHMlM0ElMkYlMkZ0b3BjaXRlZHNjaWVudGlzdHMuY29tJTJGZmlndXJlcyUyRmFpLWF0LWZvdXItdXMtY29tcGFuaWVzJTJGJTdDVG9wLWNpdGVkJTIwQUklMjBzY2llbnRpc3RzJTIwYXQlMjBmb3VyJTIwVVMlMjBjb21wYW5pZXMlMjBjb21wYXJlZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU4OTEwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTklM0E0NCUzQTMxJTIwJTJCMDAwMA",
+      "title": "Top-cited AI scientists at four US companies compared",
+      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZWlzZW56b3BmJTJGcnZvaXAlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZlaXNlbnpvcGYlMkZydm9pcCU3Q1J2b2lwJTNBJTIwVm9JUCUyMHN0YWNrJTIwaW4lMjBSdXN0JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTg2MzIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAxOSUzQTE4JTNBMDklMjAlMkIwMDAw",
+      "title": "Rvoip: VoIP stack in Rust",
+      "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZidWkucHJlZXRoYW0udG9wJTJGY2hhcnRzJTJGJTdDaHR0cHMlM0ElMkYlMkZidWkucHJlZXRoYW0udG9wJTJGY2hhcnRzJTJGJTdDTGFyZ2VzdCUyMDJEJTIwQ2hhcnQlMjBsaWJyYXJ5JTIwaW4lMjB0aGUlMjB3b3JsZCUyMHVzaW5nJTIwQlVJJTNBJTIwQmxlbmRlclVJJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTgxOTMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAxOCUzQTM3JTNBMjQlMjAlMkIwMDAw",
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "pubDate": "Thu, 26 Nov 2026 18:37:24 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZlY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tJTJGbnJpJTJGd29yayUyRmlibS1naXZlcy1oLTFiLWdyZWVuLWNhcmQtaG9sZGVycy0zLXdlZWtzLXRvLXJlbG9jYXRlLWZyb20tdXMtb3ItbGVhdmUtY29tcGFueS1kZWNlbWJlci0zMS1kZWFkbGluZS1zZXQlMkZhcnRpY2xlc2hvdyUyRjEzNjE4MDE2OC5jbXMlM0Zmcm9tJTNEbWRyJTdDaHR0cHMlM0ElMkYlMkZlY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tJTJGbnJpJTJGd29yayUyRmlibS1naXZlcy1oLTFiLWdyZWVuLWNhcmQtaG9sZGVycy0zLXdlZWtzLXRvLXJlbG9jYXRlLWZyb20tdXMtb3ItbGVhdmUtY29tcGFueS1kZWNlbWJlci0zMS1kZWFkbGluZS1zZXQlMkZhcnRpY2xlc2hvdyUyRjEzNjE4MDE2OC5jbXMlM0Zmcm9tJTNEbWRyJTdDSUJNJTIwZ2l2ZXMlMjBILTFCJTJDJTIwZ3JlZW4lMjBjYXJkJTIwaG9sZGVycyUyMDMlMjB3ZWVrcyUyMHRvJTIwcmVsb2NhdGUlMjBmcm9tJTIwVVMlMjBvciUyMGxlYXZlJTIwY29tcGFueSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU4MTcwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTglM0EzNSUzQTM3JTIwJTJCMDAwMA",
+      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+      "pubDate": "Thu, 26 Nov 2026 18:35:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGZ2VvcmdlLXdoaXRlc2lkZXMtMTkzOS0yMDI2JTdDaHR0cHMlM0ElMkYlMkZ3d3cuc2NpZW5jZS5vcmclMkZjb250ZW50JTJGYmxvZy1wb3N0JTJGZ2VvcmdlLXdoaXRlc2lkZXMtMTkzOS0yMDI2JTdDR2VvcmdlJTIwV2hpdGVzaWRlcyUyQyUyMDE5MzktMjAyNiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU3OTM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTglM0ExMyUzQTA3JTIwJTJCMDAwMA",
+      "title": "George Whitesides, 1939-2026",
+      "pubDate": "Thu, 26 Nov 2026 18:13:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjExJTJGY3RvLW9mLXJhbnNvbXdhcmVoZWxwLWluZGljdGVkLWZvci13aXJlLWZyYXVkJTJGJTdDaHR0cHMlM0ElMkYlMkZrcmVic29uc2VjdXJpdHkuY29tJTJGMjAyNiUyRjExJTJGY3RvLW9mLXJhbnNvbXdhcmVoZWxwLWluZGljdGVkLWZvci13aXJlLWZyYXVkJTJGJTdDQ1RPJTIwb2YlMjAnUmFuc29td2FyZUhlbHAnJTIwaW5kaWN0ZWQlMjBmb3IlMjB3aXJlJTIwZnJhdWQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY1NzY0NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDE3JTNBNDclM0E0NSUyMCUyQjAwMDA",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGYW50b25waWN0dXJlcyUyRnlvdXR1YmUtcHVuaXNoZXIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZhbnRvbnBpY3R1cmVzJTJGeW91dHViZS1wdW5pc2hlciU3Q1lvdVR1YmUlMjBBZCUyMFB1bmlzaGVyJTIwJUUyJTgwJTkzJTIwQXV0by1yZWxvYWRzJTIwWW91VHViZSUyMHBhZ2VzJTIwd2hlbiUyMGFuJTIwYWQlMjBwbGF5cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU3NTMwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTclM0EzNiUzQTQ3JTIwJTJCMDAwMA",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkZXZudWxsLmxhbmQlMkZhbWQtc3BlY2lmaWMtbGxhbWEtY3BwJTdDaHR0cHMlM0ElMkYlMkZkZXZudWxsLmxhbmQlMkZhbWQtc3BlY2lmaWMtbGxhbWEtY3BwJTdDQU1ELXNwZWNpZmljJTIwZm9yayUyMG9mJTIwbGxhbWEuY3BwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTcyNjUlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAxNyUzQTExJTNBMjklMjAlMkIwMDAw",
+      "title": "AMD-specific fork of llama.cpp",
+      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnhsaXVsaSUyRnNpbS1kcm9wJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcnhsaXVsaSUyRnNpbS1kcm9wJTdDU2hvdyUyMEhOJTNBJTIwU2ltRHJvcCUyMCVFMiU4MCU5MyUyMFJ1bm5pbmclMjBpT1MlMjBzaW11bGF0b3JzJTIwaW4lMjB0aGUlMjBtYWNPUyUyMEZpbmRlciUyMHNpZGViYXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY1NzA3MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDE2JTNBNTElM0EzOCUyMCUyQjAwMDA",
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "pubDate": "Thu, 26 Nov 2026 16:51:38 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNoaWRrLmdpdGh1Yi5pbyUyRnNpZGVieXNpZGUlMkYlN0NodHRwcyUzQSUyRiUyRm1pY2hpZGsuZ2l0aHViLmlvJTJGc2lkZWJ5c2lkZSUyRiU3Q1Nob3clMjBITiUzQSUyMFRocmVlJTIwTGludXglMjBWTXMlMjBpbiUyMGElMjBicm93c2VyJTIwdGFiJTJDJTIwZWFjaCUyMHJ1bm5pbmclMjBhJTIwZGlmZmVyZW50JTIwYnJvd3NlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU2MDM2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTUlM0EwMCUzQTA2JTIwJTJCMDAwMA",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "pubDate": "Thu, 26 Nov 2026 15:00:06 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cCUzQSUyRiUyRnRoZW1vdXNlbGVzcy5kZXYlMkZ2aW0lMkYlN0NodHRwJTNBJTJGJTJGdGhlbW91c2VsZXNzLmRldiUyRnZpbSUyRiU3Q1Nob3clMjBITiUzQSUyMEklMjB3cm90ZSUyMGFuJTIwZW50aXJlJTIwVmltJTIwbWFudWFsJTIwb3ZlciUyMDQlMjB5ZWFycyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU1ODY4JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTQlM0E0NCUzQTIyJTIwJTJCMDAwMA",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "pubDate": "Thu, 26 Nov 2026 14:44:22 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU1NjY0JTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU1NjY0JTdDVGVsbCUyMEhOJTNBJTIwSGFwcHklMjBUaGFua3NnaXZpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY1NTY2NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDE0JTNBMjYlM0E1NCUyMCUyQjAwMDA",
+      "title": "Tell HN: Happy Thanksgiving",
+      "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU0MzUzJTdDaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU0MzUzJTdDSGVhZCUyMG9mJTIwU29mdHdhcmUlMjBFbmdpbmVlcmluZyUyMCVFMiU4MCU5MyUyME5PWCUyME1ldGFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU0MzUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTIlM0EwMCUzQTAwJTIwJTJCMDAwMA",
+      "title": "Head of Software Engineering – NOX Metals",
+      "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXh0Y2xvdWQuY29tJTJGYmxvZyUyRmV1cm8tb2ZmaWNlLWNvbWVzLXRvLXlvdXItZGVza3RvcC13aXRoLXRoZS1uZXh0Y2xvdWQtb2ZmaWNlLWRlc2t0b3AtYXBwJTJGJTdDaHR0cHMlM0ElMkYlMkZuZXh0Y2xvdWQuY29tJTJGYmxvZyUyRmV1cm8tb2ZmaWNlLWNvbWVzLXRvLXlvdXItZGVza3RvcC13aXRoLXRoZS1uZXh0Y2xvdWQtb2ZmaWNlLWRlc2t0b3AtYXBwJTJGJTdDTmV4dGNsb3VkJTIwT2ZmaWNlJTIwRGVza3RvcCUyMGFwcCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU0Mjg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTElM0E1MCUzQTQ5JTIwJTJCMDAwMA",
+      "title": "Nextcloud Office Desktop app",
+      "pubDate": "Thu, 26 Nov 2026 11:50:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGaW50ZWwlMkZpbnRlbC1vbmUtbW9ubyU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmludGVsJTJGaW50ZWwtb25lLW1vbm8lN0NJbnRlbCUyME9uZSUyME1vbm8lMjBmb250JTIwKDIwMjMpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTM2NjclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAxMCUzQTExJTNBMDElMjAlMkIwMDAw",
+      "title": "Intel One Mono font (2023)",
+      "pubDate": "Thu, 26 Nov 2026 10:11:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0ZWNoc3RhY2t1cHMuY29tJTJGYXJ0aWNsZXMlMkZnb29nbGUtd29ya3NwYWNlLWFpLWFnZW50cy1tY3AlMkYlN0NodHRwcyUzQSUyRiUyRnRlY2hzdGFja3Vwcy5jb20lMkZhcnRpY2xlcyUyRmdvb2dsZS13b3Jrc3BhY2UtYWktYWdlbnRzLW1jcCUyRiU3Q0dvb2dsZSUyMFdpbGwlMjBNYWtlJTIwQUklMjBBZ2VudHMlMjBVc2UlMjBJdHMlMjBNQ1AlMjBTZXJ2ZXJzLiUyMFRoZSUyMEdtYWlsJTIwT25lJTIwQ2FuJ3QlMjBTZW5kJTIwRW1haWwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY1MzQ3NyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDA5JTNBNDQlM0EyMyUyMCUyQjAwMDA",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "pubDate": "Thu, 26 Nov 2026 09:44:23 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtaWNqbS5jb20lMkZibG9nJTJGb3BlbmFpLWlzLWluLWNvc3QtY29udHJvbC1tb2RlJTJGJTdDaHR0cHMlM0ElMkYlMkZtaWNqbS5jb20lMkZibG9nJTJGb3BlbmFpLWlzLWluLWNvc3QtY29udHJvbC1tb2RlJTJGJTdDT3BlbkFJJTIwbWF5JTIwYmUlMjBpbiUyMGNvc3QlMjBjb250cm9sJTIwbW9kZSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjUyNTI3JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMDclM0EzMyUzQTEyJTIwJTJCMDAwMA",
+      "title": "OpenAI may be in cost control mode",
+      "pubDate": "Thu, 26 Nov 2026 07:33:12 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb21tYW5kY29kZS5haSUyRm1vYXQlN0NodHRwcyUzQSUyRiUyRmNvbW1hbmRjb2RlLmFpJTJGbW9hdCU3Q01vYXQlM0ElMjBPcGVuUm91dGVyJTIwcmVwbGFjZW1lbnQlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY1MjE4NCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDA2JTNBMzIlM0E0OCUyMCUyQjAwMDA",
+      "title": "Moat: OpenRouter replacement",
+      "pubDate": "Thu, 26 Nov 2026 06:32:48 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjM0OTI0JTdDaHR0cHMlM0ElMkYlMkZhcnhpdi5vcmclMkZhYnMlMkYyNjExLjM0OTI0JTdDQW4lMjBhbGdlYnJhaWMlMjBxdWFudGl6YXRpb24lMjBvZiUyMGdyYXZpdHklMjBmcm9tJTIwdGhlJTIwbnVsbCUyMGNvbmUlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY1MTg2MyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1RodSUyQyUyMDI2JTIwTm92JTIwMjAyNiUyMDA1JTNBMzclM0E1MSUyMCUyQjAwMDA",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "pubDate": "Thu, 26 Nov 2026 05:37:51 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwc3ljaG9zY3JpcHQuY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZwc3ljaG9zY3JpcHQuY29tJTJGJTdDTm9ybWFsU2NyaXB0JTNBJTIwQSUyMHBlcmZlY3RseSUyMG5vcm1hbCUyMHNjcmlwdGluZyUyMGxhbmd1YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTE0MzAlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAwNCUzQTMyJTNBMjYlMjAlMkIwMDAw",
+      "title": "NormalScript: A perfectly normal scripting language",
+      "pubDate": "Thu, 26 Nov 2026 04:32:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZvbHVtaW5vLmFwcCU3Q2h0dHBzJTNBJTJGJTJGb2x1bWluby5hcHAlMkYlN0NTaG93JTIwSE4lM0ElMjBPbHVtaW5vJTJDJTIwYSUyME1hcmtkb3duJTIwbm90ZXMlMjBhbmQlMjBzcGFjZWQlMjByZXBldGl0aW9uJTIwYXBwJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTEwOTklMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAwMyUzQTMzJTNBMDYlMjAlMkIwMDAw",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "pubDate": "Thu, 26 Nov 2026 03:33:06 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
     }
   ]
