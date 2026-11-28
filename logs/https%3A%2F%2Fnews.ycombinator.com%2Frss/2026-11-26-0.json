@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-26",
     "newestItemDate": "2026-11-26",
-    "itemCount": 35,
-    "generatedAt": "2026-11-27T18:16:36.506Z"
+    "itemCount": 39,
+    "generatedAt": "2026-11-28T08:02:19.332Z"
   },
   "items": [
     {
@@ -216,6 +216,30 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZhcnN0ZWNobmljYS5jb20lMkZzcGFjZSUyRjIwMjYlMkYxMSUyRmV1cm9wZXMtaGVyYS1taXNzaW9uLXJldHVybnMtdG8tdGhlLWNoYW90aWMtc2NlbmUtb2YtYS1jb3NtaWMtc21hc2h1cCUyRiU3Q2h0dHBzJTNBJTJGJTJGYXJzdGVjaG5pY2EuY29tJTJGc3BhY2UlMkYyMDI2JTJGMTElMkZldXJvcGVzLWhlcmEtbWlzc2lvbi1yZXR1cm5zLXRvLXRoZS1jaGFvdGljLXNjZW5lLW9mLWEtY29zbWljLXNtYXNodXAlMkYlN0NGaXJzdCUyMGltYWdlcyUyMG9mJTIwdGhlJTIwaW1wYWN0JTIwb2YlMjBEQVJUJTIwYXN0ZXJvaWQlMjBkZWZsZWN0aW9uJTIwZXhwZXJpbWVudCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU3MzkyJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTclM0EyNCUzQTM3JTIwJTJCMDAwMA",
       "title": "First images of the impact of DART asteroid deflection experiment",
       "pubDate": "Thu, 26 Nov 2026 17:24:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZsb2NhbHRodW5rLmNvbSUyRmJsb2clMkZiYWxhdHJvLXRpbWVsaW5lLTNhYXJoJTdDaHR0cHMlM0ElMkYlMkZsb2NhbHRodW5rLmNvbSUyRmJsb2clMkZiYWxhdHJvLXRpbWVsaW5lLTNhYXJoJTdDVGhlJTIwQmFsYXRybyUyMFRpbWVsaW5lJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTczNDYlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAxNyUzQTIwJTNBMjclMjAlMkIwMDAw",
+      "title": "The Balatro Timeline",
+      "pubDate": "Thu, 26 Nov 2026 17:20:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGZm9ydHJhbi1sYW5nJTJGZnBsb3RsaWIlN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZmb3J0cmFuLWxhbmclMkZmcGxvdGxpYiU3Q2ZwbG90bGliJTIwJUUyJTgwJTkzJTIwRm9ydHJhbiUyMFBsb3R0aW5nJTIwTGlicmFyeSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU3MzAwJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTclM0ExNSUzQTQzJTIwJTJCMDAwMA",
+      "title": "fplotlib – Fortran Plotting Library",
+      "pubDate": "Thu, 26 Nov 2026 17:15:43 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZxdWluLmZ5aSUyRnBvc3RzJTJGaG93LXdpbmhlbHAtZmlsZXMtd29yay5odG1sJTdDaHR0cHMlM0ElMkYlMkZxdWluLmZ5aSUyRnBvc3RzJTJGaG93LXdpbmhlbHAtZmlsZXMtd29yay5odG1sJTdDSG93JTIwV2luSGVscCUyMEZpbGVzJTIwV29yayU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU0NzczJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTIlM0E1MSUzQTM3JTIwJTJCMDAwMA",
+      "title": "How WinHelp Files Work",
+      "pubDate": "Thu, 26 Nov 2026 12:51:37 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWJjLm5ldC5hdSUyRm5ld3MlMkYyMDI2LTExLTI1JTJGbnN3LWdvdmVybm1lbnQtcmFtcHMtdXAtZWZmb3J0cy10by1yZXNwb25kLXRvLWZpcmUtYW50cy0lMkYxMDc0MjQ4MTIlN0NodHRwcyUzQSUyRiUyRnd3dy5hYmMubmV0LmF1JTJGbmV3cyUyRjIwMjYtMTEtMjUlMkZuc3ctZ292ZXJubWVudC1yYW1wcy11cC1lZmZvcnRzLXRvLXJlc3BvbmQtdG8tZmlyZS1hbnRzLSUyRjEwNzQyNDgxMiU3Q1N5ZG5leSUyMEZpcmUlMjBBbnQlMjBJbmZlc3RhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjUwMjUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMDElM0EzMyUzQTAyJTIwJTJCMDAwMA",
+      "title": "Sydney Fire Ant Infestation",
+      "pubDate": "Thu, 26 Nov 2026 01:33:02 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
     }
   ]

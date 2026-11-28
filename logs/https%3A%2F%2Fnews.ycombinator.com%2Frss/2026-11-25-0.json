@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-25",
     "newestItemDate": "2026-11-25",
-    "itemCount": 32,
-    "generatedAt": "2026-11-27T00:40:16.291Z"
+    "itemCount": 35,
+    "generatedAt": "2026-11-28T08:02:19.332Z"
   },
   "items": [
     {
@@ -198,6 +198,24 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVyZWFkZXIubWl0cHJlc3MubWl0LmVkdSUyRmN1cmlvc2l0eS1pcy1uby1zb2xvLWFjdCUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlcmVhZGVyLm1pdHByZXNzLm1pdC5lZHUlMkZjdXJpb3NpdHktaXMtbm8tc29sby1hY3QlMkYlN0NDdXJpb3NpdHklMjBJcyUyME5vJTIwU29sbyUyMEFjdCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjM2OTMxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjUlMjBOb3YlMjAyMDI2JTIwMDAlM0EzNyUzQTA3JTIwJTJCMDAwMA",
       "title": "Curiosity Is No Solo Act",
       "pubDate": "Wed, 25 Nov 2026 00:37:07 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhbnRhbWFnYXppbmUub3JnJTJGd2hhdC1pcy10aGUtbWV0YWJvbGlzbS1maXJzdC10aGVvcnktZm9yLXRoZS1vcmlnaW4tb2YtbGlmZS0yMDI2MTExMSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LnF1YW50YW1hZ2F6aW5lLm9yZyUyRndoYXQtaXMtdGhlLW1ldGFib2xpc20tZmlyc3QtdGhlb3J5LWZvci10aGUtb3JpZ2luLW9mLWxpZmUtMjAyNjExMTElMkYlN0NXaGF0JTIwSXMlMjB0aGUlMjBNZXRhYm9saXNtLUZpcnN0JTIwVGhlb3J5JTIwZm9yJTIwdGhlJTIwT3JpZ2luJTIwb2YlMjBMaWZlJTNGJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NDQzNDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNSUyME5vdiUyMDIwMjYlMjAxNiUzQTQxJTNBNDElMjAlMkIwMDAw",
+      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+      "pubDate": "Wed, 25 Nov 2026 16:41:41 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzaGVsbHppbmUubmV0JTJGY3liZXJwdW5rLXRlbGV2aXNpb24lMkYlN0NodHRwcyUzQSUyRiUyRnNoZWxsemluZS5uZXQlMkZjeWJlcnB1bmstdGVsZXZpc2lvbiUyRiU3Q0N5YmVycHVuayUyMFRlbGV2aXNpb24lMjBTaG93cyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjQ0MjEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDV2VkJTJDJTIwMjUlMjBOb3YlMjAyMDI2JTIwMTYlM0EzMiUzQTI4JTIwJTJCMDAwMA",
+      "title": "Cyberpunk Television Shows",
+      "pubDate": "Wed, 25 Nov 2026 16:32:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnZW5lcmF0aXZlaGlzdG9yeS5zdWJzdGFjay5jb20lMkZwJTJGZ3B0LTYyLWFzdHJhLXNvbHZlcy1hLWhpc3RvcmljYWwlN0NodHRwcyUzQSUyRiUyRmdlbmVyYXRpdmVoaXN0b3J5LnN1YnN0YWNrLmNvbSUyRnAlMkZncHQtNjItYXN0cmEtc29sdmVzLWEtaGlzdG9yaWNhbCU3Q0dQVCUyMDYuMiUyMEFzdHJhJTIwU29sdmVzJTIwYSUyMEhpc3RvcmljYWwlMjBNeXN0ZXJ5JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NDMxNTglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NXZWQlMkMlMjAyNSUyME5vdiUyMDIwMjYlMjAxNSUzQTE2JTNBNTMlMjAlMkIwMDAw",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "pubDate": "Wed, 25 Nov 2026 15:16:53 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-25-0.json"
     }
   ]

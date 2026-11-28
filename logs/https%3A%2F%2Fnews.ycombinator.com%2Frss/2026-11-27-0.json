@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-27",
     "newestItemDate": "2026-11-27",
-    "itemCount": 21,
-    "generatedAt": "2026-11-27T18:16:36.506Z"
+    "itemCount": 34,
+    "generatedAt": "2026-11-28T08:02:19.331Z"
   },
   "items": [
     {
@@ -132,6 +132,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZibG9nLmt0ei5tZSUyRmJsYWNrLWZyaWRheS1oYXJkLWRyaXZlLXByaWNlcy1hcmUtbWVzc2VkLXVwJTJGJTdDaHR0cHMlM0ElMkYlMkZibG9nLmt0ei5tZSUyRmJsYWNrLWZyaWRheS1oYXJkLWRyaXZlLXByaWNlcy1hcmUtbWVzc2VkLXVwJTJGJTdDSGFyZCUyMERyaXZlJTIwcHJpY2luZyUyMGhhcyUyMGdvdHRlbiUyMGJhZCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjYxNjQ2JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjclMjBOb3YlMjAyMDI2JTIwMDElM0ExMyUzQTQ5JTIwJTJCMDAwMA",
       "title": "Hard Drive pricing has gotten bad",
       "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZyZXNlYXJjaC5nb29nbGUlMkZibG9nJTJGc3VwZXJjaGFyZ2luZy10cmFuc2Zvcm1lci1yZXNpZHVhbC1jb25uZWN0aW9ucyUyRiU3Q2h0dHBzJTNBJTJGJTJGcmVzZWFyY2guZ29vZ2xlJTJGYmxvZyUyRnN1cGVyY2hhcmdpbmctdHJhbnNmb3JtZXItcmVzaWR1YWwtY29ubmVjdGlvbnMlMkYlN0NHb29nbGUncyUyMERlZXBDcm9zc0F0dGVudGlvbiUyMGFjaGlldmVzJTIwY29tcGFyYWJsZSUyMG1vZGVsJTIwcXVhbGl0eSUyMHVwJTIwdG8lMjAzeCUyMGZhc3RlciU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjcyNTY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjclMjBOb3YlMjAyMDI2JTIwMjMlM0EwNiUzQTI5JTIwJTJCMDAwMA",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0YWJlcm5ldC5lcyUyRiU3Q2h0dHBzJTNBJTJGJTJGdGFiZXJuZXQuZXMlMkYlN0NUYWJlcm5ldGVzJTNBJTIwQSUyMEt1YmVybmV0ZXMlMjBjbHVzdGVyJTIwd2hvc2UlMjBub2RlcyUyMGFyZSUyMGJyb3dzZXIlMjB0YWJzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzI1MjElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNyUyME5vdiUyMDIwMjYlMjAyMyUzQTAwJTNBMzAlMjAlMkIwMDAw",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "pubDate": "Fri, 27 Nov 2026 23:00:30 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwcm9ncml1bS5naXRodWIuaW8lMkY5dXglMkYlN0NodHRwcyUzQSUyRiUyRnByb2dyaXVtLmdpdGh1Yi5pbyUyRjl1eCUyRiU3QzklMkZVWCUzQSUyMGElMjBNYWNpbnRvc2gtaW5zcGlyZWQlMjBkZXNrdG9wJTIwZm9yJTIwOWZyb250JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzIwMDglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNyUyME5vdiUyMDIwMjYlMjAyMSUzQTQ4JTNBMTQlMjAlMkIwMDAw",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzZXNzaW9uZ3JhcGguYWklMkYlN0NodHRwcyUzQSUyRiUyRnNlc3Npb25ncmFwaC5haSUyRiU3Q1Nlc3Npb25HcmFwaCUzQSUyMFZpc3VhbGl6ZSUyMGFsbCUyMHlvdXIlMjBjb2RpbmclMjBhZ2VudCUyMHNlc3Npb25zJTIwaW4lMjBvbmUlMjBpbnRlcmFjdGl2ZSUyMGdyYXBoJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzE2NTElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNyUyME5vdiUyMDIwMjYlMjAyMSUzQTA3JTNBMzQlMjAlMkIwMDAw",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "pubDate": "Fri, 27 Nov 2026 21:07:34 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGc2tlZXRvJTJGcHJvc3Blcm8lN0NodHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZza2VldG8lMkZwcm9zcGVybyU3Q1Byb3NwZXJvJTNBJTIwQmxvYXQtZnJlZSUyQyUyMG5hdGl2ZSUyMEFJJTIwY29kaW5nJTIwaGFybmVzcyUyMHdpdGglMjBJbUd1aSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjcxMjc1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjclMjBOb3YlMjAyMDI2JTIwMjAlM0EyMyUzQTE0JTIwJTJCMDAwMA",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "pubDate": "Fri, 27 Nov 2026 20:23:14 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cub2FnLnN0YXRlLnZhLnVzJTJGbWVkaWEtY2VudGVyJTJGbmV3cy1yZWxlYXNlcyUyRmpheS1qb25lcyUyRjMxNjItYXR0b3JuZXlzLWdlbmVyYWwtam9uZXMtYW5kLXJheWZpZWxkLWZpbGUtc3VpdC1hZ2FpbnN0LXNwYWNleC1wYXJlbnQtY29tcGFueS1vZi14LXhhaS1hbmQtZ3Jvay1vdmVyLWNyZWF0aW9uLWFuZC1wcm9tb3Rpb24tb2YtY2hpbGQtZXhwbG9pdGF0aW9uLWFuZC1ub24tY29uc2Vuc3VhbC1pbWFnZXMtb24tcGxhdGZvcm0lN0NodHRwcyUzQSUyRiUyRnd3dy5vYWcuc3RhdGUudmEudXMlMkZtZWRpYS1jZW50ZXIlMkZuZXdzLXJlbGVhc2VzJTJGamF5LWpvbmVzJTJGMzE2Mi1hdHRvcm5leXMtZ2VuZXJhbC1qb25lcy1hbmQtcmF5ZmllbGQtZmlsZS1zdWl0LWFnYWluc3Qtc3BhY2V4LXBhcmVudC1jb21wYW55LW9mLXgteGFpLWFuZC1ncm9rLW92ZXItY3JlYXRpb24tYW5kLXByb21vdGlvbi1vZi1jaGlsZC1leHBsb2l0YXRpb24tYW5kLW5vbi1jb25zZW5zdWFsLWltYWdlcy1vbi1wbGF0Zm9ybSU3Q1N0YXRlcyUyMHN1ZSUyMFNwYWNlWCUyMHRvJTIwc3RvcCUyMEdyb2slMjBmcm9tJTIwZ2VuZXJhdGluZyUyMGNoaWxkJTIwc2V4JTIwaW1hZ2VzJTJDJTIwcmV2ZW5nZSUyMHBvcm4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3MDg1NSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q0ZyaSUyQyUyMDI3JTIwTm92JTIwMjAyNiUyMDE5JTNBNDIlM0EyNSUyMCUyQjAwMDA",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "pubDate": "Fri, 27 Nov 2026 19:42:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ2aXJ0dWFsbHlmdW4uY29tJTJGMjAyNiUyRjExJTJGMjIlMkZ0aGUtdWx0aW1hdGUtYXR0LXVuaXgtcGMtM2IxLXZtLXctdGNwLWlwLWFuZC1hcHBzJTJGJTdDaHR0cHMlM0ElMkYlMkZ2aXJ0dWFsbHlmdW4uY29tJTJGMjAyNiUyRjExJTJGMjIlMkZ0aGUtdWx0aW1hdGUtYXR0LXVuaXgtcGMtM2IxLXZtLXctdGNwLWlwLWFuZC1hcHBzJTJGJTdDVGhlJTIwQVQlMjZUJTIwVW5peCUyMFBDJTIwKDNCMSklMjBWTSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjcwODQxJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjclMjBOb3YlMjAyMDI2JTIwMTklM0E0MCUzQTMzJTIwJTJCMDAwMA",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZuZXVyYWxuZXR3b3Jrc2FuZGRlZXBsZWFybmluZy5jb20lMkYlN0NodHRwcyUzQSUyRiUyRm5ldXJhbG5ldHdvcmtzYW5kZGVlcGxlYXJuaW5nLmNvbSUyRiU3Q01pY2hhZWwlMjBOaWVsc2VuJTIwdG9vayUyMGRvd24lMjBoaXMlMjBib29rJTIwb24lMjBuZXVyYWwlMjBuZXRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzA3NTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNyUyME5vdiUyMDIwMjYlMjAxOSUzQTMxJTNBMDElMjAlMkIwMDAw",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY29udmV4JTJGY29udmV4LWJhY2tlbmQtc2tpbGwlMkZpc3N1ZXMlMkY2NCU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNvbnZleCUyRmNvbnZleC1iYWNrZW5kLXNraWxsJTJGaXNzdWVzJTJGNjQlN0NDb252ZXglMjBza2lsbHMlMjBzZW5kJTIwdGhlJTIwdXNlcidzJTIwYXBwJTIwaWRlYSUyMHRvJTIwYSUyMHJlbW90ZSUyMHNlcnZlciUyMHdpdGhvdXQlMjB0ZWxsaW5nJTIwdGhlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjY5NzY1JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjclMjBOb3YlMjAyMDI2JTIwMTglM0EwMiUzQTQ1JTIwJTJCMDAwMA",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZkcmFnZHJvcG1hdGguY29tJTJGJTdDaHR0cHMlM0ElMkYlMkZkcmFnZHJvcG1hdGguY29tJTJGJTdDU2hvdyUyMEhOJTNBJTIwRHJhZ0Ryb3BNYXRoJTIwJUUyJTgwJTkzJTIwTGVhcm4lMjBtYXRoJTIwYnklMjBmZWVsJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2Njk2NzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNyUyME5vdiUyMDIwMjYlMjAxNyUzQTU2JTNBMjglMjAlMkIwMDAw",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "pubDate": "Fri, 27 Nov 2026 17:56:28 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cudHlsZXJtdy5jb20lMkZwb3N0cyUyRnJheXZlcnNlJTJGcmF5c2hhZGVyLTEtMC1leGl0LXRoZS1tYXRyaXguaHRtbCU3Q2h0dHBzJTNBJTJGJTJGd3d3LnR5bGVybXcuY29tJTJGcG9zdHMlMkZyYXl2ZXJzZSUyRnJheXNoYWRlci0xLTAtZXhpdC10aGUtbWF0cml4Lmh0bWwlN0NSYXlzaGFkZXIlMjAxLjAlM0ElMjBFeGl0JTIwdGhlJTIwTWF0cml4JTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NjczNzElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NGcmklMkMlMjAyNyUyME5vdiUyMDIwMjYlMjAxNCUzQTMwJTNBMjAlMjAlMkIwMDAw",
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "pubDate": "Fri, 27 Nov 2026 14:30:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cud29ybGRvZmludGVyaW9ycy5jb20lMkZzdG9yeSUyRnBhb2xvLXNvbGVyaS1hcmNvbnNhdGktYXJpem9uYSU3Q2h0dHBzJTNBJTJGJTJGd3d3Lndvcmxkb2ZpbnRlcmlvcnMuY29tJTJGc3RvcnklMkZwYW9sby1zb2xlcmktYXJjb25zYXRpLWFyaXpvbmElN0NQYW9sbyUyMFNvbGVyaSUyMGJ1aWx0JTIwYSUyMHV0b3BpYW4lMjBlY28tY2l0eSUyMGluJTIwdGhlJTIwQXJpem9uYSUyMGRlc2VydCU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjY2NzI0JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjclMjBOb3YlMjAyMDI2JTIwMTMlM0EzMCUzQTIwJTIwJTJCMDAwMA",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "pubDate": "Fri, 27 Nov 2026 13:30:20 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuY2l0cm9lbmV0Lm9yZy51ayUyRm1pc2NlbGxhbmVvdXMlMkZoeWRyYXVsaWNzJTJGaHlkcmF1bGljcy0xLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy5jaXRyb2VuZXQub3JnLnVrJTJGbWlzY2VsbGFuZW91cyUyRmh5ZHJhdWxpY3MlMkZoeWRyYXVsaWNzLTEuaHRtbCU3Q0NpdHJvJUMzJUFCbiUyMEh5ZHJhdWxpYyUyMFN5c3RlbSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjYyMzEzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDRnJpJTJDJTIwMjclMjBOb3YlMjAyMDI2JTIwMDMlM0ExMCUzQTE5JTIwJTJCMDAwMA",
+      "title": "Citroën Hydraulic System",
+      "pubDate": "Fri, 27 Nov 2026 03:10:19 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-27-0.json"
     }
   ]
