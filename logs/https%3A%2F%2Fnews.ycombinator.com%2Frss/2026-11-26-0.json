@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-26",
     "newestItemDate": "2026-11-26",
-    "itemCount": 39,
-    "generatedAt": "2026-11-28T08:02:19.332Z"
+    "itemCount": 41,
+    "generatedAt": "2026-11-28T16:58:39.984Z"
   },
   "items": [
     {
@@ -240,6 +240,18 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuYWJjLm5ldC5hdSUyRm5ld3MlMkYyMDI2LTExLTI1JTJGbnN3LWdvdmVybm1lbnQtcmFtcHMtdXAtZWZmb3J0cy10by1yZXNwb25kLXRvLWZpcmUtYW50cy0lMkYxMDc0MjQ4MTIlN0NodHRwcyUzQSUyRiUyRnd3dy5hYmMubmV0LmF1JTJGbmV3cyUyRjIwMjYtMTEtMjUlMkZuc3ctZ292ZXJubWVudC1yYW1wcy11cC1lZmZvcnRzLXRvLXJlc3BvbmQtdG8tZmlyZS1hbnRzLSUyRjEwNzQyNDgxMiU3Q1N5ZG5leSUyMEZpcmUlMjBBbnQlMjBJbmZlc3RhdGlvbiU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjUwMjUzJTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMDElM0EzMyUzQTAyJTIwJTJCMDAwMA",
       "title": "Sydney Fire Ant Infestation",
       "pubDate": "Thu, 26 Nov 2026 01:33:02 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cucXVhcnRlci0tbWlsZS5jb20lMkZTaWduYWxzJTdDaHR0cHMlM0ElMkYlMkZ3d3cucXVhcnRlci0tbWlsZS5jb20lMkZTaWduYWxzJTdDU2lnbmFscyU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjU1Mzg5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDVGh1JTJDJTIwMjYlMjBOb3YlMjAyMDI2JTIwMTQlM0EwMCUzQTA1JTIwJTJCMDAwMA",
+      "title": "Signals",
+      "pubDate": "Thu, 26 Nov 2026 14:00:05 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0cnluaXRvLmFpJTJGYmxvZyUyRmVuY3J5cHRlZC1pbmZlcmVuY2UtdGVlcyU3Q2h0dHBzJTNBJTJGJTJGdHJ5bml0by5haSUyRmJsb2clMkZlbmNyeXB0ZWQtaW5mZXJlbmNlLXRlZXMlN0NUaGUlMjBDb21wcmVoZW5zaXZlJTIwR3VpZGUlMjB0byUyMEVuY3J5cHRlZCUyMEluZmVyZW5jZSUyMHdpdGglMjBUZWVzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NTAyMTclMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NUaHUlMkMlMjAyNiUyME5vdiUyMDIwMjYlMjAwMSUzQTI4JTNBNDAlMjAlMkIwMDAw",
+      "title": "The Comprehensive Guide to Encrypted Inference with Tees",
+      "pubDate": "Thu, 26 Nov 2026 01:28:40 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-26-0.json"
     }
   ]

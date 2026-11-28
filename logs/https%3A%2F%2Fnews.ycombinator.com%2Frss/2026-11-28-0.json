@@ -4,8 +4,8 @@
     "siteName": "Hacker News",
     "oldestItemDate": "2026-11-28",
     "newestItemDate": "2026-11-28",
-    "itemCount": 2,
-    "generatedAt": "2026-11-28T08:02:19.331Z"
+    "itemCount": 15,
+    "generatedAt": "2026-11-28T16:58:39.984Z"
   },
   "items": [
     {
@@ -18,6 +18,84 @@
       "itemId": "aHR0cHMlM0ElMkYlMkZmb3J1bXMuYXRhcmlhZ2UuY29tJTJGdG9waWMlMkYzOTQ4OTQtYXRhcmktaG9tZWJyZXctYXdhcmRzLWNhbmNlbGxlZCUyRiU3Q2h0dHBzJTNBJTJGJTJGZm9ydW1zLmF0YXJpYWdlLmNvbSUyRnRvcGljJTJGMzk0ODk0LWF0YXJpLWhvbWVicmV3LWF3YXJkcy1jYW5jZWxsZWQlMkYlN0NBdGFyaSUyMEhvbWVicmV3JTIwQXdhcmRzJTIwQ2FuY2VsbGVkJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzM2ODglMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOCUyME5vdiUyMDIwMjYlMjAwMiUzQTAzJTNBMjUlMjAlMkIwMDAw",
       "title": "Atari Homebrew Awards Cancelled",
       "pubDate": "Sat, 28 Nov 2026 02:03:25 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRlRpbVN3ZWVuZXlFcGljJTJGc3RhdHVzJTJGMjEyNjY4MjY0Nzg2Mjg2MjA2MyU3Q2h0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZUaW1Td2VlbmV5RXBpYyUyRnN0YXR1cyUyRjIxMjY2ODI2NDc4NjI4NjIwNjMlN0NTaWxlbnRseSUyMGRlZ3JhZGluZyUyMHRoZSUyMG1vZGVsJ3MlMjBjYXBhYmlsaXRpZXMlMjBJUyUyMHNhYm90YWdlJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2Nzg5MDElMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOCUyME5vdiUyMDIwMjYlMjAxNSUzQTU1JTNBNTQlMjAlMkIwMDAw",
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "pubDate": "Sat, 28 Nov 2026 15:55:54 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZwYWdlcy5ldGhhbm1kYXZpZHNvbi5jb20lMkZhaS1waHlzaWNzLWJyZWFrdGhyb3VnaCU3Q2h0dHBzJTNBJTJGJTJGcGFnZXMuZXRoYW5tZGF2aWRzb24uY29tJTJGYWktcGh5c2ljcy1icmVha3Rocm91Z2glN0NQaHlzaWNzJTIwQnJlYWt0aHJvdWdoJTIwU2ltdWxhdG9yJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzgyNzMlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOCUyME5vdiUyMDIwMjYlMjAxNCUzQTUyJTNBNDUlMjAlMkIwMDAw",
+      "title": "Physics Breakthrough Simulator",
+      "pubDate": "Sat, 28 Nov 2026 14:52:45 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZW5nYWRnZXQuY29tJTJGMjMyOTM4OSUyRmdvb2dsZS13aWxsLXNvb24tc2hhcmUtYW5kcm9pZC1kZXZlbG9wZXJzLWFkZHJlc3Nlcy1wdWJsaWNseSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmVuZ2FkZ2V0LmNvbSUyRjIzMjkzODklMkZnb29nbGUtd2lsbC1zb29uLXNoYXJlLWFuZHJvaWQtZGV2ZWxvcGVycy1hZGRyZXNzZXMtcHVibGljbHklMkYlN0NHb29nbGUlMjB3aWxsJTIwc29vbiUyMHNoYXJlJTIwQW5kcm9pZCUyMGRldmVsb3BlcnMnJTIwYWRkcmVzc2VzJTIwcHVibGljbHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3ODAyNiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI4JTIwTm92JTIwMjAyNiUyMDE0JTNBMjMlM0E0NCUyMCUyQjAwMDA",
+      "title": "Google will soon share Android developers' addresses publicly",
+      "pubDate": "Sat, 28 Nov 2026 14:23:44 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGUmljY2FyZG9Tb3R0aW5pJTJGQWZmcmVzY29VSSU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRlJpY2NhcmRvU290dGluaSUyRkFmZnJlc2NvVUklN0NXaHklMjBzdG9wJTIwYXQlMjBFbWFjcyUzRiUyME5hdGl2ZSUyMGFwcHMlMjB5b3UlMjBvciUyMGFuJTIwQUklMjByZXByb2dyYW0lMjBpbiUyMENsb2p1cmUlMjB3aGlsZSUyMHRoZXklMjBydW4lN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3Nzg2MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI4JTIwTm92JTIwMjAyNiUyMDE0JTNBMDklM0EzOSUyMCUyQjAwMDA",
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "pubDate": "Sat, 28 Nov 2026 14:09:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGTVZTLXN5c2dlbiUyRnN5c2dlbiU3Q2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRk1WUy1zeXNnZW4lMkZzeXNnZW4lN0NJQk0lMjBNVlMlMjAzLjhqJTIwQ29tbXVuaXR5JTIwRWRpdGlvbiUyMCg1Mi15ZWFyJTIwb2xkJTIwT1MpJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzczMDIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOCUyME5vdiUyMDIwMjYlMjAxMyUzQTE3JTNBMzklMjAlMkIwMDAw",
+      "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+      "pubDate": "Sat, 28 Nov 2026 13:17:39 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ0aGVzdGFja3NlbnRpbmVsLmNvbSUyRmFydGljbGVzJTJGcG9zdGdyZXNxbC0xOC03LWFuZC0xOS0wLWV4cHJlc3Npb24tYWdncmVnYXRlcy0zMS02LXNsb3dlci1hNjRlY2IwZiUyRiU3Q2h0dHBzJTNBJTJGJTJGdGhlc3RhY2tzZW50aW5lbC5jb20lMkZhcnRpY2xlcyUyRnBvc3RncmVzcWwtMTgtNy1hbmQtMTktMC1leHByZXNzaW9uLWFnZ3JlZ2F0ZXMtMzEtNi1zbG93ZXItYTY0ZWNiMGYlMkYlN0NQb3N0Z3JlU1FMJTIwMTguNyUyMGFuZCUyMDE5LjAlM0ElMjBFeHByZXNzaW9uJTIwQWdncmVnYXRlcyUyMDMxLjYlMjUlMjBTbG93ZXIlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3NzI1MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI4JTIwTm92JTIwMjAyNiUyMDEzJTNBMTAlM0EzNSUyMCUyQjAwMDA",
+      "title": "PostgreSQL 18.7 and 19.0: Expression Aggregates 31.6% Slower",
+      "pubDate": "Sat, 28 Nov 2026 13:10:35 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZzY3JpcHRvci1wcm8uZ2l0aHViLmlvJTJGbHVjaW9sZS1tb25vJTJGJTdDaHR0cHMlM0ElMkYlMkZzY3JpcHRvci1wcm8uZ2l0aHViLmlvJTJGbHVjaW9sZS1tb25vJTJGJTdDU2hvdyUyMEhOJTNBJTIwTHVjaW9sZSUyME1vbm8lMjAlRTIlODAlOTMlMjB0ZXJtaW5hbCUyMGZvbnQlMjBkZXNpZ25lZCUyMGZvciUyMGxlZ2liaWxpdHklN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3NzA5MSUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI4JTIwTm92JTIwMjAyNiUyMDEyJTNBNTAlM0ExNSUyMCUyQjAwMDA",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "pubDate": "Sat, 28 Nov 2026 12:50:15 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZtYWxzcGFyay5jb20lMkZibG9nJTJGbWFsaWNpb3VzLWdndWYtbW9kZWxzLWh1Z2dpbmctZmFjZSUyRiU3Q2h0dHBzJTNBJTJGJTJGbWFsc3BhcmsuY29tJTJGYmxvZyUyRm1hbGljaW91cy1nZ3VmLW1vZGVscy1odWdnaW5nLWZhY2UlMkYlN0NHR1VGJTIwTExNJTIwTW9kZWxzJTIwd2l0aCUyMEhpZGRlbiUyME1hbHdhcmUlMjBvbiUyMEh1Z2dpbmclMjBGYWNlJTIwUmVhY2hlZCUyMDI0MDAlMjBWaWN0aW1zJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzY3NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOCUyME5vdiUyMDIwMjYlMjAxMSUzQTU3JTNBMDQlMjAlMkIwMDAw",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "pubDate": "Sat, 28 Nov 2026 11:57:04 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZjb25zdW1lcnJpZ2h0cy53aWtpJTJGdyUyRkF1ZGlibGVfcmVtb3Zlc19kb3dubG9hZF9vcHRpb25fZm9yX3B1cmNoYXNlZF9hdWRpb2Jvb2tzJTdDaHR0cHMlM0ElMkYlMkZjb25zdW1lcnJpZ2h0cy53aWtpJTJGdyUyRkF1ZGlibGVfcmVtb3Zlc19kb3dubG9hZF9vcHRpb25fZm9yX3B1cmNoYXNlZF9hdWRpb2Jvb2tzJTdDQXVkaWJsZSUyMHJlbW92ZXMlMjBkb3dubG9hZCUyMG9wdGlvbiUyMGZvciUyMHB1cmNoYXNlZCUyMGF1ZGlvYm9va3MlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3NjcyMyUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI4JTIwTm92JTIwMjAyNiUyMDExJTNBNTElM0EyNyUyMCUyQjAwMDA",
+      "title": "Audible removes download option for purchased audiobooks",
+      "pubDate": "Sat, 28 Nov 2026 11:51:27 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcC1lLXclMkZoZXJldGljJTJGaXNzdWVzJTJGNjAxJTdDaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcC1lLXclMkZoZXJldGljJTJGaXNzdWVzJTJGNjAxJTdDRmFyZXdlbGwlN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3NjY3MiUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI4JTIwTm92JTIwMjAyNiUyMDExJTNBNDIlM0EyNiUyMCUyQjAwMDA",
+      "title": "Farewell",
+      "pubDate": "Sat, 28 Nov 2026 11:42:26 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ4aW55YWR1LmdpdGh1Yi5pbyUyRmJsb2clMkZjbGF1ZGUtY29kZS1zYWJvdGFnZS5odG1sJTdDaHR0cHMlM0ElMkYlMkZ4aW55YWR1LmdpdGh1Yi5pbyUyRmJsb2clMkZjbGF1ZGUtY29kZS1zYWJvdGFnZS5odG1sJTdDQ2xhdWRlJTIwQ29kZSUyMHNhYm90YWdlJTNBJTIwcHJlbGltaW5hcnklMjBiZW5jaG1hcmtpbmclN0MlM0NhJTIwaHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGbmV3cy55Y29tYmluYXRvci5jb20lMkZpdGVtJTNGaWQlM0Q1MDY3NjM5MCUyMiUzRUNvbW1lbnRzJTNDJTJGYSUzRSU3Q1NhdCUyQyUyMDI4JTIwTm92JTIwMjAyNiUyMDEwJTNBMzclM0E0MCUyMCUyQjAwMDA",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "pubDate": "Sat, 28 Nov 2026 10:37:40 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3cuZmlsZnJlLm5ldCUyRjIwMjYlMkYxMSUyRmRpYWJsby1paSUyRiU3Q2h0dHBzJTNBJTJGJTJGd3d3LmZpbGZyZS5uZXQlMkYyMDI2JTJGMTElMkZkaWFibG8taWklMkYlN0NEaWFibG8lMjBJSSU3QyUzQ2ElMjBocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZuZXdzLnljb21iaW5hdG9yLmNvbSUyRml0ZW0lM0ZpZCUzRDUwNjc2MTk5JTIyJTNFQ29tbWVudHMlM0MlMkZhJTNFJTdDU2F0JTJDJTIwMjglMjBOb3YlMjAyMDI2JTIwMDklM0E1NCUzQTE5JTIwJTJCMDAwMA",
+      "title": "Diablo II",
+      "pubDate": "Sat, 28 Nov 2026 09:54:19 +0000",
+      "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
+    },
+    {
+      "itemId": "aHR0cHMlM0ElMkYlMkZ3d3ctY3MtZmFjdWx0eS5zdGFuZm9yZC5lZHUlMkZ+a251dGglMkZtb3JhdG9yaXVtLmh0bWwlN0NodHRwcyUzQSUyRiUyRnd3dy1jcy1mYWN1bHR5LnN0YW5mb3JkLmVkdSUyRn5rbnV0aCUyRm1vcmF0b3JpdW0uaHRtbCU3Q0tudXRoJTNBJTIwTW9yYXRvcml1bSUyMG9uJTIwRXJyb3IlMjBSZXBvcnRzJTdDJTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRm5ld3MueWNvbWJpbmF0b3IuY29tJTJGaXRlbSUzRmlkJTNENTA2NzQ0NTIlMjIlM0VDb21tZW50cyUzQyUyRmElM0UlN0NTYXQlMkMlMjAyOCUyME5vdiUyMDIwMjYlMjAwMyUzQTQ5JTNBMjElMjAlMkIwMDAw",
+      "title": "Knuth: Moratorium on Error Reports",
+      "pubDate": "Sat, 28 Nov 2026 03:49:21 +0000",
       "source": "logs/https%3A%2F%2Fnews.ycombinator.com%2Frss/2026-11-28-0.json"
     }
   ]
